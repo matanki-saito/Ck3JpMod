@@ -7,7 +7,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron:  '30 10 * * mon,thu'
+    - cron:  '0 */6 * * *'
   workflow_dispatch:
     inputs:
       info:
