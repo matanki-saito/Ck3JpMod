@@ -1,5 +1,5 @@
 ﻿l_english:
- diplomacy_family.0007.t:0 "An Opportune Moment"
+ diplomacy_family.0007.t:0 "おあつらえ向きな瞬間だ"
  diplomacy_family.0007.desc:1 "My carefully arranged dinner has unfolded according to plan, and I find myself alone with [voter.GetTitledFirstName]. Due to the wine and [voter.GetHerHis] favorite [voter.Custom('FavoriteTreat')], [voter.GetSheHe] seems happier than I have seen [voter.GetHerHim] in months.\n\nThis is the perfect opportunity to convince [voter.GetFirstNameNoTooltip] to vote for my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('candidate'))] [candidate.GetTitledFirstName]..."
  diplomacy_family.0007.a:0 "Present my most compelling arguments."
  diplomacy_family.0007.a.success.tt:1 "You convince [voter.GetTitledFirstNameNoTooltip]"

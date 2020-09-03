@@ -34,7 +34,7 @@
  commander_killed_no_enemy_enemy:0 "One of our valiant soldiers has managed to slay the enemy commander, [CHARACTER.GetUINameNoTooltip], sending their army into disarray!"
  commander_killed_by_enemy_friendly_player:1 "あなたは軍を率いて戦闘している時に[TARGET_CHARACTER.GetUINameNoTooltip]によって殺害された！"
  commander_killed_by_enemy_friendly:0 "指揮官[CHARACTER.GetUINameNoTooltip]は[TARGET_CHARACTER.GetUINameNoTooltip]によって殺害された!"
- commander_killed_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] has slain the enemy commander, [CHARACTER.GetUINameNoTooltip], sending their army into disarray!"
+ commander_killed_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip]は、混戦のなかに軍を送った敵指揮官[CHARACTER.GetUINameNoTooltip]を殺害した。"
  commander_wounded_no_enemy_interface_friendly_player:1 "あなたは軍を率いて戦闘している時に敵の兵士に負傷させられた！"
  commander_wounded_by_enemy_interface_friendly_player:1 "あなたは軍を率いて戦闘している時に[enemy_knight.GetUINameNoTooltip]に負傷させられた！"
  commander_maimed_no_enemy_interface_friendly_player:1 "あなたは軍を率いて戦闘している時に敵の兵士によって不具にさせられた！"

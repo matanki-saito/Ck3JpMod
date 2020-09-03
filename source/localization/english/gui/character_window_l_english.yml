@@ -146,5 +146,5 @@
  CV_CUSTOMIZE_PORTRAIT:0 "#I Click to open Barbershop#!"
  CV_CHILDREN_HEADING:0 "Children #weak ([GetDataModelSize(CharacterWindow.GetChildren)])#!"
  CV_SIBLINGS_HEADING:0 "Siblings #weak ([GetDataModelSize(CharacterWindow.GetSiblings)])#!"
- AI_PERSONALITY_TT:0 "#T Personality: [Character.GetAIPersonality]#!\n[Character.GetShortUINameNoTooltip] will act against you and others according to [Character.GetHerHis] Personality, which is primarily determined by [Character.GetHerHis] Personality [traits|E]"
+ AI_PERSONALITY_TT:0 "#T 性格: [Character.GetAIPersonality]#!\n[Character.GetShortUINameNoTooltip]は、主に[Character.GetHerHis]の性格[traits|E]によって決定される[Character.GetHerHis]性格に応じて、自分や他の人に対して行動する。"
  CHARACTER_RELATION_COMBINE:0 "$FIRST$ • $SECOND$"

@@ -6,7 +6,7 @@
  ACHIEVEMENT_FILTER_POSSIBLE:0 "Show possible"
  ACHIEVEMENT_FILTER_NOT_POSSIBLE:0 "Show not possible"
  ACHIEVEMENT_FILTER_UNLOCKED:2 "達成した実績を表示"
- ACHIEVEMENT_FILTER_LOCKED:1 "Show Remaining Achievements"
+ ACHIEVEMENT_FILTER_LOCKED:1 "未達成の実績を表示"
  ACHIEVEMENT_GROUP_TITLE:0 "[Group.GetName] - [Group.CalcNumberOfUnlockedAchievements] / [Group.GetNumberOfAchievements]"
  ACHIEVEMENT_GROUP_TOOLTIP:0 "#V [Group.CalcNumberOfUnlockedAchievements]#! achievement(s) unlocked out of #V [Group.GetNumberOfAchievements]#! in group [Group.GetName]"
  ACHIEVEMENT_FILTER_ALL:0 "全ての実績を表示"

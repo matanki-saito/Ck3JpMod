@@ -20,7 +20,7 @@
  court_chaplain_task.1001.notification:0 "Preaching Unorthodox Doctrine"
  court_chaplain_task.1002.notification:0 "Poor Rhetoric"
  court_chaplain_task.1101.notification:0 "Impressive Rhetoric"
- court_chaplain_task.2001.notification:0 "Resistance to Conversion"
+ court_chaplain_task.2001.notification:0 "改宗への抵抗"
  court_chaplain_task.2002.notification:0 "Popular Resistance to Conversion"
  court_chaplain_task.2101.notification:0 "Enthusiastic Conversions"
  court_chaplain_task.2102.notification:0 "New [councillor.GetFaith.HouseOfWorshipPlural] Established"

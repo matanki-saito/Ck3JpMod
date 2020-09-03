@@ -158,7 +158,7 @@
  intrigue_temptation.3023.b:0 "With some changes, I could give this to [ROOT.Char.GetPrimarySpouse.GetFirstNameNoTooltip]."
  intrigue_temptation.3023.c:0 "I feel nauseous..."
  intrigue_temptation.3024.desc:0 "[answering_date.Custom2('love_letter', ROOT.Char)]"
- intrigue_temptation.3024.a:0 "Excellent!"
+ intrigue_temptation.3024.a:0 "素晴らしい！"
  intrigue_temptation.3025.t:0 "To the two-faced, [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstNameNoTooltip],"
  intrigue_temptation.3025.desc:0 "A fortnight back, I received a letter from you. The name on the envelope was my own, but the verse inside was dedicated to [lower_left_portrait.GetTitledFirstName]. I wrote to [lower_left_portrait.GetHerHim], and [lower_left_portrait.GetSheHe] tells me [lower_left_portrait.GetSheHe] also received a poem — the very same, in fact — but it was meant for another [lower_right_portrait.GetWomanMan]!\n\nThis is the most despicable, sordid little scheme I have ever heard of. Never write to us again!"
  intrigue_temptation.3025.a:0 "Oh. This is... awkward."

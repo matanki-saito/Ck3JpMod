@@ -17,7 +17,7 @@
  british_isles.1002.c:0 "Hm, [restorer.GetCulture.GetNameNoTooltip] you say? Sign me up!"
  british_isles.2001.t:0 "[embracer_former_culture.GetNameNoTooltip|U] no More"
  british_isles.2001.desc:0 "The time when we [embracer.GetCulture.GetCollectiveNounNoTooltip] considered France our homeland has long since passed. Our children are born here, surrounded by Saxons, and to them, Normandy will only ever be a blurred line beyond the misty shores of Britannia.\n\nAnd, as we make some of the local customs our own, so too the legacy of our culture spreads throughout the Saxon lands, giving birth to a new English identity."
- british_isles.2001.a:0 "Long live the English!"
+ british_isles.2001.a:0 "イングランドの民万歳！"
  british_isles.2002.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Albion and embraced English culture."
  british_isles.2002.a:0 "It was only a matter of time."
  british_isles.2002.b:0 "Traitors!"

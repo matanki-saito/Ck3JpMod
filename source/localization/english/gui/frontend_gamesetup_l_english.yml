@@ -1,6 +1,6 @@
 ﻿l_english:
  SELECT_CHARACTER_ON_MAP:0 "Choose a Character on the Map."
- PICK_ANY_CHARACTER:1 "Play as any Ruler in [GameSetup.GetSelectedBookmark.GetDate.GetYear]..."
+ PICK_ANY_CHARACTER:1 "[GameSetup.GetSelectedBookmark.GetDate.GetYear]年の任意の統治者で開始する"
  BOOKMARK_DISABLED:0 "This Bookmark is disabled"
  BOOKMARK_NOT_PICKED_CHARACTER:0 "Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."
  SINGLEPLAYER:0 "シングルプレイ"

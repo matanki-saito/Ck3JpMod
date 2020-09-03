@@ -1,8 +1,8 @@
 ﻿l_english:
  line_break:0 "\n"
  double_line_break:0 "\n\n"
- do_not_execute_plot_tooltip:0 "The plotters will remain in waiting. For now."
- outcome_in_a_few_days:0 "In a few days"
- outcome_in_a_few_weeks:0 "In a few weeks"
- outcome_in_a_few_months:0 "In a few months"
- outcome_in_a_few_years:0 "In a few years"
+ do_not_execute_plot_tooltip:0 "共謀者達は今の所待機している。"
+ outcome_in_a_few_days:0 "数日"
+ outcome_in_a_few_weeks:0 "数週間"
+ outcome_in_a_few_months:0 "数ヶ月"
+ outcome_in_a_few_years:0 "数年"

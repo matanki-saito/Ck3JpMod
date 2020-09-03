@@ -37,7 +37,7 @@
  sex_scene.0001.a:1 "Until next time, [second.GetFirstNameNoTooltip]."
  sex_scene.0003.opening_garden_1:1 "My [second.Custom2('RelationToMe', SCOPE.sC('second'))] came to me while I was wandering the gardens. The scent of [second.GetHerHis] skin mixed with the sweetness of the flowers."
  sex_scene.0003.conclusion_garden_1:1 "[second.GetSheHe|U] left me satisfied and restful behind a hedge."
- sex_scene.0003.opening_private_chambers_1:1 "With a beating heart I unlocked the door to let [second.GetHerHim] into my private chambers."
+ sex_scene.0003.opening_private_chambers_1:1 "胸をドキドキさせながら、ドアの鍵を開け[second.GetHerHim]を部屋へ招き入れた"
  sex_scene.0003.conclusion_private_chambers_1:0 "Hours later, we were still tracing patterns with caressing fingers, writing messages of love on each other's skin."
  sex_scene.0003.opening_stables_1:1 "The scandal it would cause if I had been caught with my [second.Custom2('RelationToMe', SCOPE.sC('second'))], but there was no one else in the stables that evening."
  sex_scene.0003.conclusion_stables_1:0 "I only hope that our moans of passion where drowned out by the stomping and whinnying of the horses."

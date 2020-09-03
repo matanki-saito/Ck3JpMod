@@ -3,7 +3,7 @@
  global_culture.custom.merge_culture:1 "All [old_culture_1.GetName] and [old_culture_2.GetName] counties and characters in your realm become [new_culture.GetName]"
  global_culture.custom.keep_culture:1 "The [old_culture.GetName] counties and characters in your realm keep their culture."
  global_culture.custom.trigger:0 "You do not control at least 80% of all [CHARACTER.GetCulture.GetName] counties"
- global_culture.0002.t:0 "Fate of the Visigoths"
+ global_culture.0002.t:0 "西ゴート族の運命"
  global_culture.0002.desc:0 "Long ago, our ancestors migrated to the Iberian peninsula and built their first settlements. We have lived here for generations since then, the land shaping us as much as we have shaped the land.\n\nIt is time to ask ourselves, are we still Visigoths? Or are we something new entirely?"
  global_culture.0002.a:0 "The times are changing, and we must change with them."
  global_culture.0002.b:0 "We will not abandon the traditions of our ancestors!"

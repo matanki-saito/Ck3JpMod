@@ -1,5 +1,5 @@
 ﻿l_english:
- feast_header:0 "Feast:"
+ feast_header:0 "饗宴:"
  feast_default.1001.t:1 "$feast_header$ In Awe"
  feast_default.1001.very_high_learning:0 "After extensive conversation over our delectable dishes, [impressed_guest.GetTitledFirstName] expresses that [impressed_guest.GetSheHe] finds me most learned and wise, and that my utterances are always of inestimable worth to those less well read than I."
  feast_default.1001.high_learning:0 "After extensive conversation over our meal, [impressed_guest.GetTitledFirstName] expresses that [impressed_guest.GetSheHe] admires how I am able to expound at length on any topic."
