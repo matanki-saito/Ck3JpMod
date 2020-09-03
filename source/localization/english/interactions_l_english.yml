@@ -919,7 +919,7 @@
  set_primary_spouse_interaction_desc:0 "Make [recipient.GetFirstNameNoTooltip] your primary spouse. This will allow [recipient.GetHerHim] to join your [council|E] and help run the affairs of the realm."
  ENFORCE_DEMANDS_INTERACTION:0 "Peace"
  SURRENDER_WAR_INTERACTION:0 "Surrender"
- WHITE_PEACE_INTERACTION:0 "White Peace"
+ WHITE_PEACE_INTERACTION:0 "白紙和平"
  end_war_attacker_victory_interaction:0 "Offer of Peace"
  end_war_attacker_white_peace_interaction:0 "$end_war_attacker_victory_interaction$"
  end_war_attacker_defeat_interaction:0 "$end_war_attacker_victory_interaction$"

@@ -122,7 +122,7 @@
  tribal_government:0 "Tribal"
  tribal_government_adjective:0 "Tribal"
  tribal_government_realm:0 "Tribe"
- tribal_government_desc:0 "$game_concept_tribal_desc$\n\n#F In the tribe, strength means everything. A tribal leader depends on respect and renown rather than coin to develop their realm and bolster their armies.#!"
+ tribal_government_desc:0 "$game_concept_tribal_desc$\n\n#F 部族においては、強さが全てを意味している。部族の長は、領国を発展させ、軍を強化するために、金ではなく尊敬と名誉を頼りとする。#!"
  tribal_government_obligations:0 "From [liege|E] [prestige_level|E]"
  tribal_government_vassals_label:1 "Tribal [obligations|E] are based on [prestige_level|E] of [liege|E]"
  tribal_liege_inefficiency_plus_perk:0 "[liege|E] is [tribal|E] and has [GetPerk( 'detailed_ledgers_perk' ).GetName( GetPlayer )]"

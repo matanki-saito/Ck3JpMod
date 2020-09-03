@@ -207,7 +207,7 @@
  WAR_LIEGE_HOOK:0 "Use a [hook|e]"
  ARMY_STRENGTH:0 "#weak Army Strength:#!"
  TAB_VICTORY:2 "Enforce Demands"
- TAB_WHITE_PEACE:0 "White Peace"
+ TAB_WHITE_PEACE:0 "白紙和平"
  TAB_DEFEAT:2 "Surrender"
  TAB_VICTORY_LABEL:1 "If you Enforce your Demands:"
  TAB_WHITE_PEACE_LABEL:1 "If you make a [white_peace|E]:"

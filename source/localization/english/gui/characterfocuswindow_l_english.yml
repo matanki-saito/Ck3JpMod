@@ -1,6 +1,6 @@
 ﻿l_english:
  EDUCATION_FOCUS_VIEW_TITLE:0 "Choose Education Focus"
- LIFESTYLE_FOCUS_VIEW_TITLE:0 "Choose Lifestyle Focus"
+ LIFESTYLE_FOCUS_VIEW_TITLE:0 "ライフスタイルの方針を選択"
  CHANGE_FOCUS:0 "Change Focus"
  CHOOSE_FOCUS:0 "Choose Focus"
  CHARACTER_ALREADY_HAVE_THIS_FOCUS:0 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"

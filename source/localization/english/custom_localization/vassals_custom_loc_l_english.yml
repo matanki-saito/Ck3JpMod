@@ -1,6 +1,6 @@
 ﻿l_english:
- kings:0 "kings"
- dukes:0 "dukes"
- counts:0 "counts"
- barons:0 "barons"
- peasants:0 "peasants"
+ kings:0 "王"
+ dukes:0 "公爵"
+ counts:0 "伯爵"
+ barons:0 "男爵"
+ peasants:0 "庶民"

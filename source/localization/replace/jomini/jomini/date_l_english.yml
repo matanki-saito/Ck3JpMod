@@ -1,3 +1,3 @@
 ﻿l_english:
- DATE_AD_YEAR:0 "$YEAR$ CE"
- DATE_BC_YEAR:0 "$YEAR$ BCE"
+ DATE_AD_YEAR:0 "西暦$YEAR$年"
+ DATE_BC_YEAR:0 "紀元前$YEAR$年"

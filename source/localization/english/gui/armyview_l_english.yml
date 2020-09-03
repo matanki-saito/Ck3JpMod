@@ -118,7 +118,7 @@
  ARMY_VIEW_PREVIOUS:0 "Previous army"
  ARMY_VIEW_CREATE_NEW:0 "Create new army"
  ARMY_VIEW_LEVIES:0 "Levies"
- ARMY_VIEW_MAA:0 "Men-at-Arms"
+ ARMY_VIEW_MAA:0 "常備軍"
  ARMY_VIEW_KNIGHTS:1 "$knight_culture_player_plural_no_tooltip$"
  START_RAIDING:0 "#T Start Raiding#!\nThis unit will now be able to take the [raid|E] action outside your realm"
  END_RAIDING:0 "#T Stop being a Raiding Army#!\nThis [army|E] will stop being a Raiding Army, and can reinforce again"

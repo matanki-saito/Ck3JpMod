@@ -149,7 +149,7 @@
  stress_threshold.2301.e.hashishiyah.effect:0 "$stress_threshold.1701.j.hashishiyah.gain$"
  stress_threshold.2301.f:0 "I hate this."
  stress_threshold.2311.t:0 "Mental Break: Haunted by the Past"
- stress_threshold.2311.desc.intro:0 "I sit brooding on my throne, my heart heavy with memory, mulling over things I did years and years ago."
+ stress_threshold.2311.desc.intro:0 "私は玉座に座り、何年も前にしたことを思い返しながら、思い出に心を重くする。"
  stress_threshold.2311.desc.generous:0 "Was I truly a generous [ROOT.GetCharacter.GetTitleAsNameNoTooltip]? Did I actually help people?"
  stress_threshold.2311.desc.diligent:0 "Did I work hard enough back then? Did my toil avert trouble, or cause it?"
  stress_threshold.2311.desc.wrathful:0 "How often have I lashed out in a rage? Has my wrath been well-spent, or misdirected?"

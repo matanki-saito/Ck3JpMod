@@ -1,5 +1,5 @@
 ﻿l_english:
- abduct_event_title:0 "Abduct:"
+ abduct_event_title:0 "誘拐:"
  do_not_execute_abduct_tooltip:0 "I do not attempt the Abduction"
  abduct_outcome.1001.t:0 "$abduct_event_title$ Highway Attack"
  abduct_outcome.1001.opening:0 "My agents tell me that [target.GetTitledFirstName] is planning to travel"

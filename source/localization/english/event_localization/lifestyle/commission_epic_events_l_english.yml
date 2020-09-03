@@ -30,7 +30,7 @@
  CommissionEpicComposerHasHave_has:0 "has"
  CommissionEpicComposerHasHave_have:0 "have"
  commission_epic.0001.t:0 "A Family Epic"
- commission_epic.0001.desc:0 "What I need is a classical tale of the grandeur of my family. A [ROOT.Char.Custom('CompositionType')] about the origins of the [ROOT.Char.GetDynasty.GetBaseName] Dynasty, and how we are destined for greatness!\n\nI only need someone who knows how to tell a story..."
+ commission_epic.0001.desc:0 "私に必要なことは、私の家の雄大さを示す古典的な物語である。[ROOT.Char.GetDynasty.GetBaseName]王朝の起源や、いかに私たちが偉大な運命を辿っているかについての[ROOT.Char.Custom('CompositionType')]を！\n\nこの物語の伝え方を知っている人だけが必要なのだ…"
  commission_epic.0001.a:0 "[writer.GetTitledFirstName], the accomplished storyteller!"
  writer_writes_epic:0 "[writer.GetTitledFirstName] the storyteller composes the epic"
  commission_epic.0001.b:0 "I will gather some of my best [ROOT.Char.Custom('CommissionEpicScribes')]."

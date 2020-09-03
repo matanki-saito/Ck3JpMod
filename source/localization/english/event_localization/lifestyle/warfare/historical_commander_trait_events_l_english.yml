@@ -1,8 +1,8 @@
 ﻿l_english:
- historical_commander_trait.reject.tt:1 "#F You will look elsewhere for inspiration #!"
+ historical_commander_trait.reject.tt:1 "#F あなたはinspirationのために他の場所を探すことになるだろう#!"
  historical_commander_trait.0001.t:0 "\"The Enemy of Rome\""
- historical_commander_trait.0001.desc:0 "While studying the tactics of ancient generals I was [ROOT.Char.Custom('surprised_reaction')] to learn about the exploits of Hannibal Bacar during the Second Punic War:\n\n#F Known as 'The Enemy of Rome', Hannibal's crowning achievement was the Battle of Cannae, where his army of roughly 50,000 outmaneuvered and encircled the larger 86,000 strong Roman army. Surrounded and unable to retreat, only 3,000 Romans survived the massacre.#!"
- historical_commander_trait.0001.a:0 "Like Hannibal, I will annihilate my enemies!"
+ historical_commander_trait.0001.desc:0 "古代の将軍の戦術を研究していた時、私は[ROOT.Char.Custom('surprised_reaction')]で、第二次Punic戦争中のハンニバル・バカルの功績を知りました。\n\n#F 「ローマの敵」として知られるハンニバルの最高傑作はカンネの戦いで、約5万人の彼の軍隊が8万6千人の強大なローマ軍を出し抜き、包囲したことだった。囲まれて退却することができず、たった3,000人のローマ人だけが大虐殺を生き延びた。#!"
+ historical_commander_trait.0001.a:0 "ハンニバルのように、私は敵を全滅させる！"
  historical_commander_trait.0001.b:0 "Hannibal was a true master of Fabian tactics."
  historical_commander_trait.0001.c:0 "Versatility was Hannibal's greatest strength."
  historical_commander_trait.0001.d:0 "Bah! He was a fool, fighting his hopeless war."
