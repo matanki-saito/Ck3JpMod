@@ -384,7 +384,7 @@
  rf_abrahamic:0 "Abrahamic"
  rf_pagan:0 "Pagan"
  rf_eastern:0 "Eastern"
- sinful_theocrat_exposed_title:0 "Sinful [sinful_theocrat.Custom('GetActualBishopTitle')] Exposed"
+ sinful_theocrat_exposed_title:0 "[sinful_theocrat.Custom('GetActualBishopTitle')]の罪が暴露された"
  virtuous_theocrat_celebrated_title:0 "Virtuous [virtuous_theocrat.Custom('GetActualBishopTitle')] Celebrated"
  doctrine_parameter_number_of_spouses:0 "Rulers, if allowed by [gender_law|E], can have up to $VALUE|V0$ spouses"
  doctrine_parameter_number_of_spouses_1:0 "Characters can only have one [spouse|E]"

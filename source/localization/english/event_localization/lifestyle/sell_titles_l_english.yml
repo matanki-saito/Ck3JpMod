@@ -18,7 +18,7 @@
  sell_titles.0005.a:0 "They are? Oh."
  sell_titles.0005.b:0 "That is not what... Curse you!"
  sell_titles.0006.desc:0 "Though I know I risk your ire, my honor demands that I speak up. Your offer to give \"titles\" in exchange for \"gifts\" is driven by nothing but base greed, that is plain to see!\n\nMy honor comes from my nobility, not my wealth, but for you it seems to be otherwise!"
- sell_titles.0006.a:0 "How dare you shame me so?!"
+ sell_titles.0006.a:0 "よくも私に恥をかかせたな！"
  sell_titles.1002.t:0 "Sell Titles: A Modest Proposal"
  sell_titles.1002.desc:0 "A certain [merchant.GetTitledFirstName], a wealthy merchant, has heard of my attempts to sell off certain minor titles. [merchant.GetSheHe|U] has a far more audacious suggestion, however:\n\n\"If I presented evidence that I was distantly related to the [ROOT.Char.GetDynasty.GetBaseName] Dynasty, would you back my claim?\"\n\nThe proposition is utterly ridiculous, but [merchant.GetSheHe] does possess a ridiculous amount of gold..."
  sell_titles.1002.a.muslim:0 "Even Muhammad was a merchant!"

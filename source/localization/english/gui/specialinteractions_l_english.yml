@@ -199,7 +199,7 @@
  BANISH_NEGATIVE_REASON:0 "[recipient.GetSheHe|U] fears Banishment: $VALUE|=+0$"
  TAKE_VOWS_NEGATIVE_REASON:0 "[recipient.GetSheHe|U] is reluctant to Take the Vows: $VALUE|=+0$"
  RECRUITMET_NEGATIVE_REASON:0 "[recipient.GetSheHe|U] is reluctant to be Recruited: $VALUE|=+0$"
- DECLARE_WAR_HEADER:0 "Declare War"
+ DECLARE_WAR_HEADER:0 "宣戦布告"
  DECLARE_WAR_TOGGLE_TITLE:0 "[CasusBelliTitleItem.GetBlockers]#I Click to toggle the claim for [CasusBelliTitleItem.GetTitle.GetName]#! "
  DECLARE_WAR_CLICK_TITLE:0 "[CasusBelliTitleItem.GetBlockers]#I Click to select the claim for [CasusBelliTitleItem.GetTitle.GetName]#! "
  PICK_CASUS_BELLI:0 "#I Choose a [casus_belli|E] to use against [CHARACTER.GetUINameNoTooltip]#!"

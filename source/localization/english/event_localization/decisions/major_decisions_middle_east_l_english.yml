@@ -15,7 +15,7 @@
  middle_east_decisions.0004.desc.other:0 "Ever since the infidel occupation of the holy land, the followers of [reformer.GetFaith.GetName] have been scattered to the four winds, without the leadership or will to resume the sacred struggle.\n\nYet, it appears that they have finally come together once more, under the wise leadership of [reformer.GetFirstName]. After having reclaimed the holy cities of Mecca and Medina and having legitimized [reformer.GetHerHis] claim as new Caliph, [reformer.GetFirstName] stands ready to resume the great war against the infidels."
  middle_east_decisions.0004.a:0 "Allahu Akbar!"
  middle_east_decisions.0004.b:0 "Better the devil you know, I suppose..."
- middle_east_decisions.0005.t:0 "The Promised Land"
+ middle_east_decisions.0005.t:0 "約束の地"
  middle_east_decisions.0005.desc:0 "With Jerusalem and the Promised Land under Jewish control, the time is ripe for the creation of a new United Monarchy named Israel — like the great kingdom of ancient times under David and Solomon.\n\nThe long-suffering Jewish people are finally in control of their own destiny again. No longer shall the Holy Land be torn asunder by warring Christian and Muslim lords. May this new kingdom usher in an era of peace and prosperity for the region!"
  middle_east_decisions.0005.a:0 "Long live Israel!"
  middle_east_decisions.0006.desc.others:0 "Having brought Jerusalem back under Jewish control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a restored Israel.\n\nThe long exile of the Jewish people might have finally come to an end as many of their communities decide to travel back to the Promised Land."

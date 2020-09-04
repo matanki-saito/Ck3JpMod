@@ -1,6 +1,6 @@
 ﻿l_english:
  submit_to_the_great_khan_decision:0 "Submit to the Great Khan"
- submit_to_the_great_khan_decision_confirm:0 "Swear Fealty"
+ submit_to_the_great_khan_decision_confirm:0 "忠誠を誓う"
  submit_to_the_great_khan_decision_opening_desc:0 "It is time to acknowledge that the Mongols truly are the rulers of the world. I will join their ranks, rather than fight them."
  submit_to_the_great_khan_decision_tooltip:0 "You become a vassal of the Mongol Khagan and join the Mongol Empire"
  submit_to_the_great_khan_effect_tooltip:0 "Become a vassal of [mongol_emperor.GetTitledFirstName]"
@@ -8,7 +8,7 @@
  mongol_invasion.1001.generic.desc:0 "Thank [ROOT.Char.GetFaith.HighGodName]! Although a new ruler has been proclaimed, [new_khan.GetTitledFirstName], [target.GetSheHe] can surely not be as horrifying as [old_khan.GetFirstName].\n\nPerhaps this is even the end of Mongol aggression?"
  mongol_invasion.1001.sympathetic.desc:0 "A great [old_khan.GetWomanMan] has left us all. With the passing of [old_khan.GetFirstName], [new_khan.GetFirstName] has been proclaimed the new [new_khan.GetTitleAsNameNoTooltip]!\n\nAs [old_khan.GetFirstNameNoTooltip] rides on forever, the world is left better for [old_khan.GetHerHis] efforts."
  mongol_invasion.1001.generic.oblivious.desc:0 "We are receiving scattered reports of some kind of important nomad king having passed away."
- mongol_invasion.1001.a:0 "Good riddance!"
+ mongol_invasion.1001.a:0 "これで一安心だ！"
  mongol_invasion.1001.b:0 "I wonder what the future holds for us all."
  mongol_invasion.1001.c:0 "Genghis who?"
  mongol_invasion.1002.t:0 "Rise of the Mongols"

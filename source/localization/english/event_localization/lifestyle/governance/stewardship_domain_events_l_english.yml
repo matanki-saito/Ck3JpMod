@@ -1,8 +1,8 @@
 ﻿l_english:
- stewardship_domain.1041.t:0 "Guild Dispute"
- stewardship_domain.1041.desc:0 "Both the Blacksmith's and Merchant's Guilds in the [guild_county.GetName] have sent a representative to meet with me. The two guilds have come to an impasse over the trade of raw iron within the county and want me to arbitrate their dispute.\n\nSecretly, each representative has offered me a lucrative deal with their guild in an attempt to get me to side with them."
- stewardship_domain.1041.a:0 "They both could benefit if they just cooperate."
- stewardship_domain.1041.a.success:0 "I get the two guilds to work together"
+ stewardship_domain.1041.t:0 "ギルドの争議"
+ stewardship_domain.1041.desc:0 "[guild_county.GetName]にある鍛冶師ギルドと商人ギルドからそれぞれ代表者が送られ、私と面会することとなった。両ギルドは州内での原鉄の取引を巡って行き詰っており、私に仲裁を求めている。\n\n秘密裏に、それぞれの代表者は私へ有利な取引を申し出ており、自ギルドの味方をさせようとしている。"
+ stewardship_domain.1041.a:0 "両者が協力すれば互いに利益を得るだろう。"
+ stewardship_domain.1041.a.success:0 "2つのギルドを協力させる"
  stewardship_domain.1041.a.success.tt:0 "The guilds in [guild_county.GetNameNoTier] are now cooperating to bolster weapons production"
  stewardship_domain.1041.a.failure:0 "I cannot get the guilds to come to an agreement"
  stewardship_domain.1041.a.failure.tt:0 "The guilds in [guild_county.GetNameNoTier] were unable agree on how to handle iron production"

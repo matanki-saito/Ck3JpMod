@@ -1,5 +1,5 @@
 ﻿l_english:
- claim_throne_ongoing.1001.t:0 "Ill Omens"
+ claim_throne_ongoing.1001.t:0 "不吉な前兆(Ill Omens)"
  claim_throne_ongoing.1001.desc:0 "I clearly do not stand alone in my ambition to rule [target_title.GetNameNoTooltip]! Ravens have been gathering on the roofs of [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')], and a few nights ago even the stars seemed to be falling, all over [target_title.GetNameNoTierNoTooltip].\n\nPeasants and nobles alike whisper that it is a sign that [target.GetFirstNameNoTooltip] has lost the favor of [ROOT.Char.GetFaith.PantheonTerm]."
  claim_throne_ongoing.1001.a:0 "It is time for a new [target.GetTitleAsNameNoTooltip]!"
  claim_throne_ongoing.1001.b:0 "Only the [ROOT.Char.GetFaith.AltPriestTermPlural] can interpret these signs."
