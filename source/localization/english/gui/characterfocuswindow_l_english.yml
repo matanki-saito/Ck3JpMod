@@ -2,7 +2,7 @@
  EDUCATION_FOCUS_VIEW_TITLE:0 "Choose Education Focus"
  LIFESTYLE_FOCUS_VIEW_TITLE:0 "ライフスタイルの方針を選択"
  CHANGE_FOCUS:0 "Change Focus"
- CHOOSE_FOCUS:0 "Choose Focus"
+ CHOOSE_FOCUS:0 "方針を選択する"
  CHARACTER_ALREADY_HAVE_THIS_FOCUS:0 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"
  I_ALREADY_HAVE_THIS_FOCUS:1 "@warning_icon!#X You already have this focus!#!"
  CHANGE_ADULT_FOCUS_COOLDOWN_INFO:1 "#weak You can only change Focus every $COOLDOWN$#!"

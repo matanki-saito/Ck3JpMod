@@ -30,7 +30,7 @@
  LIFESTYLE_PROGRESS_NEVER:0 "Never"
  LIFESTYLE_BASE_GAIN:0 "Base"
  LIFESTYLE_PROGRESS_STRING:0 "Time to next [perk|E]: $ETA$\n#P +$PROGRESS|0$#!/month"
- SELECT_FOCUS_TEXT:0 "Choose Focus"
+ SELECT_FOCUS_TEXT:0 "方針を選択する"
  LIFESTYLE_SELECT_TOOLTIP:1 "#T [Lifestyle.GetNameNoTooltip]#!\n[Lifestyle.GetDescription]\n\nPerk unlocks available: [Character.GetPerkPoints( Lifestyle.Self )|+]\n\n#I Click to view#!"
  REFUND_PERKS_CONFIRM_TITLE:0 "Reset Perks"
  REFUND_PERKS_CONFIRM_DESC:1 "$EFFECTS$\n#weak This can only be done once in a lifetime!#!"
