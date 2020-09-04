@@ -1,5 +1,5 @@
 ﻿l_english:
- death_management.1000.killed.tt:0 "My [THIS.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))], [dead_character.GetTitledFirstName], was killed by [killer.GetTitledFirstName]."
+ death_management.1000.killed.tt:0 "我が[THIS.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))]の[dead_character.GetTitledFirstName]は[killer.GetTitledFirstName]によって殺された。"
  death_management.1000.t:0 "死が二人を分かつまで"
  death_management.1000.murder:0 "[dead_character.GetTitledFirstName]は殺害された！\n\n"
  death_management.1000.like:0 "How can a heart endure this kind of pain without breaking? It cannot be possible! Yet, here I am, my heart beating on whilst yours has gone quiet. Oh, [dead_character.GetFirstName], my [dead_character.Custom('LoverPetName')]. Life will not be the same without you."

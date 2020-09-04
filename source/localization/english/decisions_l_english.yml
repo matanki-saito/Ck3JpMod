@@ -148,7 +148,7 @@
  destroy_holy_order_warning:0 "@warning_icon!#X Revoking their last lease will destroy the Holy Order!#!"
  I_MUST_BE_KING_OR_EMPEROR:1 "[kingdom|E]または[empire|E]を保有している"
  I_AM_NOT_KING_OR_EMPEROR:1 "You must hold a [kingdom|E] or an [empire|E]"
- I_HAVE_TWO_CASTLE_COUNTY:1 "修道会の本拠地として貸し出すことのできる、[city|E]または[castle|E]を伴った[barony|E]を持っている"
+ I_HAVE_TWO_CASTLE_COUNTY:1 "You have a [barony|E] with a [city|E] or [castle|E] that can leased out as the Holy Order's Headquarters"
  NOT_I_HAVE_HOLY_ORDER_BARONY_SELECTED:1 "You have #bold not#! selected a Barony"
  cancel_holy_order_lease_decision:0 "Revoke Holy Order Lease"
  cancel_holy_order_lease_decision_tooltip:0 "Revoke lease for a [holy_order|E]"

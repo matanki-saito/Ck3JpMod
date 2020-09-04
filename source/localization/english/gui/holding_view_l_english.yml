@@ -107,7 +107,7 @@
  COUNTY_DEVELOPMENT_TAX_MULT:0 "[taxes|E] increased by $MULT|%+0$"
  COUNTY_DEVELOPMENT_SUPPLY_BONUS:0 "[supply_limit|E] increased by $VALUE|=+0$ "
  COUNTY_DEVELOPMENT_IGNORED_DESC:2 "[development|E]は[county|E]の所有者が[GOVERNMENT.GetName|V]政府を持っているため無視される。([supply_limit|E]への影響を除く)\n\n"
- COUNTY_DEVELOPMENT_NO_EFFECTS:0 "#weak No Effects#!"
+ COUNTY_DEVELOPMENT_NO_EFFECTS:0 "#weak 影響なし#!"
  COUNTY_OPINION_TOOLTIP:0 "#T Popular Opinion of [HoldingView.GetProvince.GetCounty.GetCount.GetUIName]: [HoldingView.GetCountyOpinion|=+]#!\n[HoldingView.GetCountyOpinionDesc]"
  COUNTY_NOT_YOUR_CULTURE:0 "@warning_icon! #X County is not of your [culture|E] #!"
  COUNTY_NOT_YOUR_FAITH:0 "@warning_icon! #X County is not of your [faith|E] #!"

@@ -12,7 +12,7 @@
  CULTURE_WINDOW_CULTURE_HEAD_INFO:0 "#weak The Ruler of this Culture that has the most [CULTURE.GetNameNoTooltip] [counties|E] in their [realm|E] ($COUNT|V$ Counties)#!"
  CULTURE_WINDOW_MY_CULTURE_INFO:1 "#weak You have $COUNT|V$ [CULTURE.GetNameNoTooltip] Counties in your Realm.#!"
  CULTURE_WINDOW_INNOVATIONS:0 "[Culture.GetNameNoTooltip] [innovations|E]"
- CULTURE_WINDOW_GROUPS:1 " Part of the [CultureGroup.GetName] Group"
+ CULTURE_WINDOW_GROUPS:1 "[CultureGroup.GetName]グループの一部"
  CULTURE_WINDOW_CULTURE:1 "[Culture.GetNameNoTooltip] Culture"
  CULTURE_WINDOW_ERA_NAME:0 "[CultureEra.GetNameNoTooltip] [era|E]\n[GuiCultureEra.GetJoinedLeftString]"
  INNOVATION_TOOLTIP_TYPE:0 "[CultureInnovationType.GetGroupName] [innovation|E]"

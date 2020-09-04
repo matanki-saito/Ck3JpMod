@@ -1,7 +1,7 @@
 ﻿l_english:
- RP_RAISE:0 "Raise Local Army"
+ RP_RAISE:0 "地元の軍を召集"
  RP_RAISE_RAID:0 "Raise Local Raiders"
- RP_RAISE_ALL:0 "Raise All Here"
+ RP_RAISE_ALL:0 "全軍を召集"
  RP_RAISE_PROMPT:0 "#T Raise Army and all Soldiers assigned to this Rally Point here#!"
  RP_RAISE_ALL_PROMPT:0 "#T Raise all Armies and all Soldiers here#!"
  RP_TOOLTIP_HEADER:0 "#T $NAME$#!"

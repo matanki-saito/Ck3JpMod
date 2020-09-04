@@ -7,7 +7,7 @@
  INTRIGUE_BUTTON:0 "#T 策略#!"
  FACTION_BUTTON:0 "#T 派閥#!"
  PRISON_BUTTON:0 "#T 捕虜#!"
- COURT_BUTTON:0 "#T Court#!"
+ COURT_BUTTON:0 "#T 宮廷#!"
  IM_TT_FIND_TITLE:1 "#T Find Title#!\nFind any [title|E] in the game."
  IM_TT_SHOW_LEGACY:0 "#T Show Lineage#!\nSee all the characters you have played."
  IM_TT_FIND_CHARACTER:0 "#T Find Character#!\nFind any living character in the game."

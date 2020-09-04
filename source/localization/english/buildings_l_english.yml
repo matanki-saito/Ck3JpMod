@@ -244,7 +244,7 @@
  building_logging_camps_08_desc:1 "While axes and simple saws have served us so far, the sawmill is to those like god is to men. Now the forest can be consumed in almost no time, with its valuable wood fueling our cities and towns."
  building_type_peat_quarries_01:1 "Wetland Farms"
  building_type_peat_quarries_01_desc:1 "#F While wetlands will never offer the same opportunities for growing crops as plains, a seasonal glut of vegetation allow for the raising of animals. There are also opportunities for extracting both peat and salt.#!"
- building_peat_quarries_01:1 "Cattle Lands"
+ building_peat_quarries_01:1 "牧畜地帯"
  building_peat_quarries_01_desc:1 "The fertility of the wetlands makes excellent grazing for pastoral animals of all sizes."
  building_peat_quarries_02:1 "Peat Quarries"
  building_peat_quarries_02_desc:1 "A significant amount of peat is quarried here. Its presence aids in the development of new farms and fields."

@@ -4,7 +4,7 @@
  CURRENT_FOCUS:1 " (Current)"
  FOCUS_CANCHANGE:1 "Current: [Character.GetFocus.GetName]"
  FOCUS_CANCHANGE_NO_FOCUS:0 "Current: No Focus"
- CHARACTER_LIFESTYLE_HEADER:0 "Choose [lifestyle|E]"
+ CHARACTER_LIFESTYLE_HEADER:0 "[lifestyle|E]を選択"
  CHARACTER_LIFESTYLE_OPEN_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip]#!\n #I Click to open.#!"
  CHARACTER_LIFESTYLE_OPEN_TEXT:0 "Open"
  LIFESTYLE_POINTS_TO_USE_TEXT:0 "[perks|E] to Unlock: [Character.GetPerkPoints( Lifestyle.Self )]"

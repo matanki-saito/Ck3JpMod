@@ -11,7 +11,7 @@
  greeting_vassal_relative_liked:1 "[ROOT.Char.Custom2('GreetingToFamily', second)]"
  greeting_vassal_liked:0 "Greetings, my [second.Custom('ComplimentAdjective')] vassal,"
  greeting_vassal_dislike:1 "To my [second.Custom('InsultAdjective')] vassal,"
- greeting_vassal_fallback:0 "To my vassal,"
+ greeting_vassal_fallback:0 "我が家臣へ"
  greeting_family_positive:1 "[ROOT.Char.Custom2('GreetingToFamilyPositive', second)]"
  greeting_family_negative:1 "[ROOT.Char.Custom2('GreetingToFamilyNegative', second)]"
  greeting_family_liked:1 "My dear [ROOT.Char.Custom2('RelationToMeShort', second)],"

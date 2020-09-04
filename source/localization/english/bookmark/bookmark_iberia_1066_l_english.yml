@@ -1,6 +1,6 @@
 ﻿l_english:
- bm_1066_iberia:0 "Iberia in Pieces"
- bm_1066_iberia_desc:0 "When the old king Ferdinand I passed away his three sons all inherited a piece of his Iberian kingdom. Greed, ambition, and holy wars soon push the Iberian Peninsula to boil, and the bonds between family members start to fray.\n\n#bold Are any of the Fernandez siblings strong, or cunning, enough to emerge victorious over the rest? How will war and diplomacy mold the Iberian peninsula?#!"
+ bm_1066_iberia:0 "砕かれしイベリア"
+ bm_1066_iberia_desc:0 "大王フェルディナンド1世が死去し、3人の息子はイベリア王国の一部を相続することになった。欲望、野心、そして聖戦がイベリア半島を沸騰させ、家族の絆を溶かしていった。\n\n#bold フェルディナンド兄弟のうち誰が強靭で、狡猾で、他の兄弟に勝利せしめるのか?戦争と外交はどのようにイベリア半島を形作っていくのだろうか?#!"
  bookmark_iberia_king_garcia:0 "ガルシア王"
  bookmark_iberia_king_garcia_desc:0 "Given the most troubled kingdom of the three brothers, García tried many extreme remedies to stabilize his rule. However, the fragile land was soon too tempting for his brother Alfonso who invaded in 1071. This attack kicked off the many wars that followed between the brothers, but García would spend most of this time behind bars.\n\n#bold Take up arms against your brothers and lead this unstable kingdom to glory and victory!#!"
  bookmark_iberia_king_alfonso_alt_sancha:0 "$Sancha$"
