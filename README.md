@@ -2,6 +2,25 @@
 
 This is a Japanese localization mod for Crusader Kings III.
 
+## Publish Flow
+
+![flow](flow.png)
+
+## Mod tree
+
+See source folder in reoisitory.
+
+- localization
+- descriptor.mod
+- title.jpg
+  - english
+    - C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\localization\english
+  - replace
+    - clausewitz
+      - C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\clausewitz\localization
+    - jomimi
+      - C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\jomini\localization
+  
 ## Steam workshop
 
 https://steamcommunity.com/sharedfiles/filedetails/?l=japanese&id=2217567218
@@ -23,11 +42,11 @@ No support
 
 ## File size
 
-?MB
+6MB
 
 ## Auto update
 
-Yes: Every Thursday/Monday 10:30 (UTC)
+Yes: Every 6h (UTC)
 
 ## Github actions secrets
 
