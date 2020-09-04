@@ -152,7 +152,7 @@
  intrigue_temptation.3022.b.success:0 "They are all thrilled"
  intrigue_temptation.3022.b.failure:0 "My plan backfires"
  intrigue_temptation.3022.c:0 "I am not wasting my time on any of them."
- intrigue_temptation.3023.t:0 "To the [ROOT.Char.Custom('RomanticComplimentAdjective')] [ROOT.Char.GetTitledFirstNameNoTooltip],"
+ intrigue_temptation.3023.t:0 "[ROOT.Char.Custom('RomanticComplimentAdjective')][ROOT.Char.GetTitledFirstNameNoTooltip]へ"
  intrigue_temptation.3023.desc:0 "[letter_writer.Custom2('love_letter', ROOT.Char)]"
  intrigue_temptation.3023.a:0 "How flattering! I must write back!"
  intrigue_temptation.3023.b:0 "With some changes, I could give this to [ROOT.Char.GetPrimarySpouse.GetFirstNameNoTooltip]."

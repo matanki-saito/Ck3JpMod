@@ -3,7 +3,7 @@
  tooltip_feudal_elector_vote_not_myself:0 "自分は権力が好きではない：$VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_heir:0 "自分は正当な後継者：$VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_ambitious:1 "自分は野心的：$VALUE|=+0$"
- tooltip_feudal_elector_vote_myself_ruler_choice:0 "I have been chosen: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_myself_ruler_choice:0 "私は選ばれた：$VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_ruling_dynasty:0 "I belong to the ruling [dynasty|E]: $VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_sick:0 "I am not in any condition to rule: $VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_claimant:0 "I am a claimant: $VALUE|=+0$"

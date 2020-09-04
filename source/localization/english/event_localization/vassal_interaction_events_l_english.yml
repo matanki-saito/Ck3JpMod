@@ -9,7 +9,7 @@
  vassal_interaction.0001.decline:0 "[actor.GetFirstNameNoTooltip] refuses"
  vassal_interaction.0001.c:0 "I have already invested so much in this war..."
  vassal_interaction.0001.d:0 "No, I will see this through to the end!"
- vassal_interaction.0001.e:0 "No. And you cannot stop me!"
+ vassal_interaction.0001.e:0 "だめだ 止められないぞ！"
  vassal_interaction.0002.opening:0 "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"
  vassal_interaction.0002.desc:0 "I will of course obey your wisdom and desire. While my cause is just, I will give it up for now, for the good of the realm."
  vassal_interaction.0002.a:0 "An obedient servant is a good servant."

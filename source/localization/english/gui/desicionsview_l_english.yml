@@ -8,7 +8,7 @@
  CHANGE_EDUCATION:0 "Change Education Focus"
  DECISIONS_VIEW_DECISIONS:0 "Decisions"
  DECISIONS_VIEW_MAJOR_DECISIONS:0 "Major Decisions"
- DECISIONS_VIEW_MAJOR_TOGGLE:0 "Notify when this Decision becomes available"
+ DECISIONS_VIEW_MAJOR_TOGGLE:0 "この決断が利用可能になった時に通知する"
  DECISION_DETAIL_REQUIREMENTS:0 "Requirements"
  DECISION_DETAIL_EFFECTS:0 "Effects"
  DECISION_NOT_VALID:0 "@warning_icon!#X You do not fulfill all the requirements#!"

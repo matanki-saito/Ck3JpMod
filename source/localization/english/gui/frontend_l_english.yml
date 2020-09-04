@@ -22,7 +22,7 @@
  FRONTEND_COPY_CLIPBUFFER:0 "Copy to Clipboard"
  FRONTEND_COPY_CLIPBUFFER_TT:0 "#T Copy the Server ID to Clipboard #!\nThis ID can be used by other players for directly joining to this Multiplayer game"
  FRONTEND_NOT_PAUSED:0 "@warning_icon! #X Game is NOT paused #!"
- FRONTEND_IS_PAUSED:0 "Game is paused"
+ FRONTEND_IS_PAUSED:0 "ゲームは一時停止されています"
  FRONTEND_PLAYERS_COUNT:0 "[GetPlayersCount] Players"
  FRONTEND_INVITE:0 "Invite more players by sending them the Server ID:\n[GetServerInfo.GetServerID]"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER:0 "Log in for Multiplayer"

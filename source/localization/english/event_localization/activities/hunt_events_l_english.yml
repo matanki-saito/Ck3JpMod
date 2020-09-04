@@ -15,7 +15,7 @@
  hunt.1003.a:0 "A good kill!"
  hunt.1003.a.tt:0 "And a good chase!"
  hunt.1003.b:0 "Next time we'll get it!"
- hunt.1003.b.tt:0 "Just you wait!"
+ hunt.1003.b.tt:0 "待ってくれ!"
  hunt.1011.t:1 "$hunt_header$ Rude Vassal"
  hunt.1011.desc_horse:0 "Just as my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('nice_courtier') )] [nice_courtier.GetTitledFirstName] started to dismount, one foot still in the stirrup, my [ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('hated_participant'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_participant') )] [hated_participant.GetTitledFirstName] made sure to bump into the horse, sending [nice_courtier.GetHerHim] stumbling across camp."
  hunt.1011.desc_talk:0 "\"Look at that [nice_courtier.Custom('InsultAdjective')] [nice_courtier.Custom('InsultNoun')] [nice_courtier.GetFirstNameNoTooltip]!\" [hated_participant.GetTitledFirstName] hisses from atop [hated_participant.GetHerHis] hunting steed.\n\nMy [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('nice_courtier') )] [nice_courtier.GetTitledFirstName] seems to have a hard time bearing the insults."

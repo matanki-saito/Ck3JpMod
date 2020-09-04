@@ -8,7 +8,7 @@
  HOUSE_VIEW_DYNASTY_PRESTIGE:1 "Next [dynasty_prestige_level|E]: #high [Dynasty.GetNextPrestigeLevelName] #!"
  HOUSE_HEAD_HEIR:0 "House Head Heir: [Character.GetName]"
  DYNASTY_VIEW_DYNASTY_PRESTIGE:0 "[dynasty_prestige|E]: @prestige_level_2_icon![Dynasty.GetPrestige|V0]"
- DYNASTY_VIEW_DYNASTY_PRESTIGE_TOOLTIP:0 "#T Renown#!\nCan be spent by the [dynast|E] to perform different actions. Gaining renown will over time increase the [dynasty|E]'s Level of Splendor."
+ DYNASTY_VIEW_DYNASTY_PRESTIGE_TOOLTIP:0 "#T 名誉#!\n[dynast|E]がさまざまなアクションを実行するために使用できます。名誉を得ることで、時とともに[dynasty|E]の栄光レベルを高めます。"
  HOUSE_VIEW_HEAD_OF_THE_HOUSE:0 "[house_head|E]"
  HOUSE_VIEW_HEIR_OF_THE_HOUSE:0 "House Heir"
  HOUSE_VIEW_SHOW_DYNASTY_TT:0 "#T Show [dynasty_perks|E]#!"

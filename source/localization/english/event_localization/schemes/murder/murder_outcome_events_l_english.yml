@@ -250,4 +250,4 @@
  murder_outcome.5002.revenge_will_be_had:0 "I will make [owner_to_reveal.GetHerHim] regret this!"
  murder_outcome.5002.child:0 "What adult would be this cruel?"
  murder_outcome.5002.infant:0 "I cry some more."
- murder_outcome.5002.option_incapable:0 "What is happening?"
+ murder_outcome.5002.option_incapable:0 "なにが起こった？"

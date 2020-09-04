@@ -10,7 +10,7 @@
  courtier_guest_management.0102.a.leave:0 "If you have #bold not#! pressed [courtier.GetTitledFirstNamePossessiveNoTooltip] claim"
  courtier_guest_management.0102.b:0 "あなたの旅が迅速かつ安全でありますように。"
  courtier_guest_management.1001.t:0 "注目の客人が到着した"
- courtier_guest_management.1001.claimant.desc:0 "[exceptional_guest.GetShortUIName|U] has a claim on the [guest_claim.GetName]"
+ courtier_guest_management.1001.claimant.desc:0 "[exceptional_guest.GetShortUIName|U]は[guest_claim.GetName]への請求権を持っている"
  courtier_guest_management.1001.marriage_start.desc:0 "[exceptional_guest.GetShortUIName|U] would make a good [exceptional_guest.Custom('WifeHusband')] for"
  courtier_guest_management.1001.marriage_me.desc:1 "あなた"
  courtier_guest_management.1001.marriage_my_sons.desc:1 "御子息の一人"

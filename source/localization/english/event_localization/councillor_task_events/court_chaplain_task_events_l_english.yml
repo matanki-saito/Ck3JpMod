@@ -17,7 +17,7 @@
  court_chaplain_task.0311.a:0 "Lies and more lies!"
  court_chaplain_task.0312.a:0 "Does [councillor_liege.GetFirstNameNoTooltip] have no shame?!"
  court_chaplain_task.0313.t:0 "A Claim on [county.GetNameNoTierNoTooltip]!"
- court_chaplain_task.1001.notification:0 "Preaching Unorthodox Doctrine"
+ court_chaplain_task.1001.notification:0 "正統ではない教義の説教"
  court_chaplain_task.1002.notification:0 "Poor Rhetoric"
  court_chaplain_task.1101.notification:0 "Impressive Rhetoric"
  court_chaplain_task.2001.notification:0 "改宗への抵抗"

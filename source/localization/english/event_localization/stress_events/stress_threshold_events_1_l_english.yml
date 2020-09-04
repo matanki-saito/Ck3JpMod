@@ -1,5 +1,5 @@
 ﻿l_english:
- stress_threshold.1701.t:0 "Mental Break: Coming Home to Roost"
+ stress_threshold.1701.t:0 "精神崩壊: ねぐらへ戻る"
  stress_threshold.1701.desc.intro:0 "As I walk the corridors of my palace, frustrated, many of my courtiers seem to be droning on and on about some problem they are having in [capital_province.GetNameNoTooltip].\n\n"
  stress_threshold.1701.desc.lazy:0 "I just don't have the energy to care, and I want desperately to go back to bed!"
  stress_threshold.1701.desc.wrathful:0 "On days like these, when their words have become a dull, irksome buzzing in my ears, I feel like hanging the lot."

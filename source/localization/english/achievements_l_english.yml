@@ -116,7 +116,7 @@
  ACHIEVEMENT_DESC_moving_up_in_the_world_achievement:1 "[rank|E]を上昇させる"
  ACHIEVEMENT_DESC_beacon_of_progress_achievement:1 "Have your [culture|E] unlock all [innovations|E], excluding regional and culture-specific $game_concept_innovations$"
  ACHIEVEMENT_DESC_mother_of_us_all_achievement:1 "Starting as Magajiva Daura, reform an African pagan faith, and convert all [counties|E] in Africa to it"
- ACHIEVEMENT_LOCKED_GENERIC:0 "Achievement locked"
+ ACHIEVEMENT_LOCKED_GENERIC:0 "ロックされた実績"
  NOT_ACHIEVEMENT_DESC_until_death_do_us_part_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_way_of_life_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_a_legacy_to_last_the_ages_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"

@@ -43,7 +43,7 @@
  learning_medicine.2010.a.failure.desc:0 "I make a fool of myself"
  learning_medicine.2010.b:0 "I will buy you a better translation."
  learning_medicine.2010.c:0 "You should look to the [ROOT.Char.GetFaith.ReligiousText] for guidance."
- learning_medicine.2021.t:0 "To the [ROOT.Char.Custom('FormalComplimentAdjective')] [ROOT.Char.GetTitledFirstNameNoTooltip]"
+ learning_medicine.2021.t:0 "[ROOT.Char.Custom('FormalComplimentAdjective')][ROOT.Char.GetTitledFirstNameNoTooltip]へ"
  learning_medicine.2021.desc:0 "My name is [physician.GetTitledFirstNameNoTooltip], and I am a trained physician specializing in issues of fertility. Perhaps my discreet counsel would benefit my [ROOT.Char.GetLadyLord]? I would be honored to serve — for a nominal fee."
  learning_medicine.2021.a:0 "I could use your help..."
  learning_medicine.2021.a.tt:0 "[physician.GetFirstName|V] will offer me a fertility treatment"

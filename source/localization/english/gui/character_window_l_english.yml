@@ -80,7 +80,7 @@
  HEALTH_POOR:0 "#Z 不良#!"
  HEALTH_FINE:0 "#Z 良好#!"
  HEALTH_GOOD:0 "#P 優良#!"
- HEALTH_EXCELLENT:0 "#P 優良#!"
+ HEALTH_EXCELLENT:0 "#P 壮健#!"
  HEALTH_DYING_DESC:0 "[CHARACTER.GetShortUIName|U]は今際の際にいる"
  HEALTH_DYING_DESC_ME:1 "あなたは今際の際にいる"
  HEALTH_NEAR_DEATH_DESC:0 "[CHARACTER.GetShortUIName|U]はもう長くはない…"

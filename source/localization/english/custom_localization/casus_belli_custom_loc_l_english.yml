@@ -1,4 +1,4 @@
 ﻿l_english:
- weak_claim_male_dominated:0 "incapable, a child, or a woman"
- weak_claim_female_dominated:0 "incapable, a child, or a man"
- weak_claim_general:0 "incapable or a child"
+ weak_claim_male_dominated:0 "無能力者、子供、または女性"
+ weak_claim_female_dominated:0 "無能力者、子供、または男性"
+ weak_claim_general:0 "無能力者または子供"

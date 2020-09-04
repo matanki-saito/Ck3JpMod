@@ -38,7 +38,7 @@
  diplomacy_foreign.3007.c_tt:0 "I attempt to convince [neighboring_ruler.GetFirstNameNoTooltip] that [neighboring_ruler.GetSheHe] owes me!"
  diplomacy_foreign.3007.c_random_list_good:0 "I manage to convince [neighboring_ruler.GetFirstNameNoTooltip]"
  diplomacy_foreign.3007.c_random_list_bad:0 "I make a fool of myself"
- diplomacy_foreign.3008.opening:0 "To the [neighboring_ruler.Custom2('RelationDescriptor', ROOT.Char)] [ROOT.Char.GetTitledFirstNameNoTooltip],"
+ diplomacy_foreign.3008.opening:0 "[neighboring_ruler.Custom2('RelationDescriptor', ROOT.Char)][ROOT.Char.GetTitledFirstNameNoTooltip]へ"
  diplomacy_foreign.3008.desc.dead:0 "My predecessor [dead_ruler_2.GetTitledFirstName] encouraged me to continue [dead_ruler_2.GetHerHis] correspondence with you. However, after the last letter you sent I am ending this exchange of letters now; it seems as if [dead_ruler_2.GetSheHe] was wrong about how engaging you are!"
  diplomacy_foreign.3008.desc.skilled:0 "Are you trying to make me feel like an idiot? Your last letter was so full of obscura I could not follow one sentence in three!"
  diplomacy_foreign.3008.desc.special:0 "You have greatly misjudged me if you think sycophantry will get you anywhere. I see now your words are as empty as your skull."

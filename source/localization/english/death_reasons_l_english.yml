@@ -7,7 +7,7 @@
  death_cancer:1 "[GetTrait('cancer').GetName( CHARACTER.Self )]による死亡"
  death_pneumonic:1 "[GetTrait('pneumonic').GetName( CHARACTER.Self )]による死亡"
  death_consumption:1 "[GetTrait('consumption').GetName( CHARACTER.Self )]による死亡"
- death_leper:1 "[GetTrait('leper').GetName( CHARACTER.Self )]として死亡"
+ death_leper:1 "[GetTrait('leper').GetName( CHARACTER.Self )]による死亡"
  death_gout_ridden:1 "[GetTrait('gout_ridden').GetName( CHARACTER.Self )]による死亡"
  death_great_pox:1 "[GetTrait('great_pox').GetName( CHARACTER.Self )]により死亡した"
  death_ill:1 "[GetTrait('ill').GetName( CHARACTER.Self )]であったため死亡した"
