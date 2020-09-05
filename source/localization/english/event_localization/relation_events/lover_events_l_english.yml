@@ -352,7 +352,7 @@
  lover.7004.a.tt:0 "#F What is this sudden flutter in my heart?#!"
  lover.7004.b:0 "Ew, leave me be [proposing_rival.GetFirstNameNoTooltip]."
  lover.7005.t:0 "My Beloved [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('potential_lover') )|U]"
- lover.7005.desc:0 "It has not escaped my notice that my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('potential_lover') )] [potential_lover.GetTitledFirstName] is a very good looking [potential_lover.GetWomanMan]. The way [potential_lover.GetSheHe] smiles and [potential_lover.Custom('quirk_pos_present')] never fails to make my heart flutter..."
+ lover.7005.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('potential_lover') )]の[potential_lover.GetTitledFirstName]が、とても美形の[potential_lover.GetWomanMan]であることに気づかずにはいられない。[potential_lover.GetSheHe]の笑顔と[potential_lover.Custom('quirk_pos_present')]の姿に胸が高鳴る...。"
  lover.7005.a:0 "Are these normal feelings to have towards a [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('potential_lover') )]?"
  lover.7005.a.tt:0 "#F Whatever it means I want more of it!#!"
  lover.7005.b:0 "[potential_lover.GetSheHe|U] is my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('potential_lover') )]. Get a grip [ROOT.Char.GetFirstNameNoTooltip]!"

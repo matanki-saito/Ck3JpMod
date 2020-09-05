@@ -1,7 +1,7 @@
 ﻿l_english:
  available_because_of_dread_tt:0 "This option is available because of your [dread|E]"
  intrigue_lifestyle_perk_indication:2 "You might gain an [intrigue_lifestyle|E] [perk|E]"
- intrigue_scheming_focus_point_clear_gain:0 "Your understanding of [intrigue_lifestyle|E] increases"
+ intrigue_scheming_focus_point_clear_gain:0 "あなたの[intrigue_lifestyle|E]に関する理解が向上する"
  intrigue_scheming.1001.t:0 "[county.GetNameNoTierNoTooltip]'s Lament"
  intrigue_scheming.1001.desc:0 "\"We need those resources for the troops! If one small village in [county.GetNameNoTier] has to starve—\"\nThe heated argument between my councilors follows me out of the room, and [councillor.GetTitledFirstName], the representative from [county.GetNameNoTierNoTooltip], greets me with tired eyes as I approach."
  intrigue_scheming.1001.a:0 "Here. This decree will force them to leave you alone."
@@ -41,7 +41,7 @@
  intrigue_scheming.1202.b.tt:1 "[hired_spy.GetTitledFirstName] stays at your court"
  intrigue_scheming.1202.c:0 "This knowledge cannot be widely known, of course."
  intrigue_scheming.1401.t:0 "Tidbits from Far Away"
- intrigue_scheming.1401.desc_opening:0 "Visiting the local market, a merchant from a faraway land catches my attention.\n\n\"Come closer, my [ROOT.Char.GetLadyLord]! Marvel at treasures never before seen in these lands!"
+ intrigue_scheming.1401.desc_opening:0 "地元の市場を訪れた私の目に留まったのは、遠く離れた土地から来た商人だった。\n\n「近くに来てください、我が[ROOT.Char.GetLadyLord]！ この地では見たこともないような財宝に驚嘆してください。」"
  intrigue_scheming.1401.desc1:0 "Had to watch my back to get these beauties out, I did. Never sleeping with both eyes closed.\""
  intrigue_scheming.1401.desc2:0 "Walked right past the guards responsible for these beauties. A true knower of people, that I am.\""
  intrigue_scheming.1401.desc3:0 "I had to blend into the populace to get these beauties out, truly a harrowing experience.\""

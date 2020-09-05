@@ -1,5 +1,5 @@
 ﻿l_english:
- claim_throne_interaction:0 "Claim Throne #weak (Scheme)#!"
+ claim_throne_interaction:0 "玉座を要求する #weak (計画)#!"
  claim_throne_interaction_message:0 "王位請求"
  demand_payment_interaction:0 "支払いを要求"
  demand_payment_interaction_desc:0 "保持している[hook|E]の代わりに金銭の支払いを[recipient.GetShortUINameNoTooltip]に強制させる"

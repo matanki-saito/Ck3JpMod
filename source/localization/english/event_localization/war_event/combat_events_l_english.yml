@@ -44,7 +44,7 @@
  combat_event.1012.slain_message.desc.double:2 "Your forces slew [primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)]"
  combat_event.1012.slain_message.desc.multiple:2 "Your forces slew [primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others"
  combat_event.1012.slain_message.desc.end:1 "during the Battle of [combat_location.GetName]!"
- combat_event.1013.slain_message.t:0 "同盟の戦闘員を殺戮"
+ combat_event.1013.slain_message.t:0 "味方の戦闘員が殺されました"
  combat_event.1013.slain_message.desc.single:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was"
  combat_event.1013.slain_message.desc.double:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)] were"
  combat_event.1013.slain_message.desc.multiple:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others were"

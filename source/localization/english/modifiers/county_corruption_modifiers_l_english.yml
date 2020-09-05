@@ -26,4 +26,4 @@
  gain_county_corruption.message.county_corruption:0 "Corruption"
  gain_county_corruption.message.desc:0 "[county_corruption|E]:\n$EFFECT$"
  remove_county_corruption.message.marshal_removal:1 "Increased Control"
- remove_county_corruption.message:0 "Reduced Corruption"
+ remove_county_corruption.message:0 "汚職の減少"

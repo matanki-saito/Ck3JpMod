@@ -2,7 +2,7 @@
  courtier_guest_management.0001.t:2 "Your [liege.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetShortUINameNoTooltip], is About To Leave Court"
  courtier_guest_management.desc:0 "[child.GetTitledFirstName] has no reason to stay at court and will soon leave"
  courtier_guest_management.0102.t:0 "My Last Chance"
- courtier_guest_management.0102.desc:0 "[courtier.GetTitledFirstName] has decided that [courtier.GetHerHis] time in [capital.GetNameNoTierNoTooltip] has come to an end. The servants have packed [courtier.GetHerHis] chests and [courtier.GetSheHe] has said [courtier.GetHerHis] farewells.\n\nWith [courtier.GetTitledFirstNameNoTooltip] goes [courtier.GetHerHis] claim on the [courtier_claim.GetName]. If I want to press it and make [courtier.GetHerHim] my vassal, this is my last chance to make [courtier.GetHerHim] stay."
+ courtier_guest_management.0102.desc:0 "[courtier.GetTitledFirstName]は [capital.GetNameNoTierNoTooltip]での[courtier.GetHerHis]の時間が終わりを告げた。使用人たちは[courtier.GetHerHis]の箱に荷造りをし、[courtier.GetSheHe]は[courtier.GetHerHis]に別れの挨拶をした。\n\n[courtier.GetTitledFirstNameNoTooltip]で[courtier.GetHerHis]の主張を[courtier_claim.GetName]で行く。もし私がそれを押して[courtier.GetHerHim]を私の家臣にしたいなら、これが[courtier.GetHerHim]を滞在させる最後のチャンスです。"
  courtier_guest_management.0102.a:0 "Give me one year, and I will press your claim!"
  courtier_guest_management.0102.a.rl.desc:0 "In one year's time"
  courtier_guest_management.0102.a.stay:0 "If you have pressed [courtier.GetTitledFirstNamePossessiveNoTooltip] claim"

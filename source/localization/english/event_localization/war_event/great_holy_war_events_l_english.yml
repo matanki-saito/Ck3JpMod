@@ -68,7 +68,7 @@
  great_holy_war.0030.sick.beneficiary:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('former_beneficiary'))] [former_beneficiary.GetFirstName] is too frail and sickly to be my beneficiary, I must choose someone else."
  great_holy_war.0030.ruler.beneficiary:0 "Having become a ruler with responsibilities of [former_beneficiary.GetHerHis] own, my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('former_beneficiary'))] [former_beneficiary.GetFirstName] is no longer fit to be my beneficiary."
  great_holy_war.0030.heir.beneficiary:0 "Having become the next in line to inherit a title of [former_beneficiary.GetHerHis] own, my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('former_beneficiary'))] [former_beneficiary.GetFirstName] is no longer fit to be my beneficiary."
- great_holy_war.0040.desc:0 "The War Chest represents the sum total of all the donations made by the supporters of this [ROOT.Char.GetFaith.GHWName]. \n\nA portion of this gold will be shared amongst the participants when the preparation phase is over, while the rest will be split among the winners depending on their contribution."
+ great_holy_war.0040.desc:0 "軍資金は、この[ROOT.Char.GetFaith.GHWName]の支援者から寄せられた寄付金の合計を表しています。\n\nこの金貨の一部は準備段階が終了した時点で参加者に分配され、残りの金貨は貢献度に応じて勝者に分配されます。"
  great_holy_war.0040.a:0 "I will empty my coffers for the cause!"
  great_holy_war.0040.b:0 "I will make a generous contribution."
  great_holy_war.0040.c:0 "I can spare a few coins for this endeavor."

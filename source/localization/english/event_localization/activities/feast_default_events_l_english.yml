@@ -295,5 +295,5 @@
  feast_default.9002.desc:0 "What a feast! I will remember the days spent in [host.GetTitledFirstNamePossessive] halls for a long time to come."
  feast_default.9002.desc_imprisoned_host:0 "Such a shame that [host.GetSheHe] [host.GetHerselfHimself] couldn't be there..."
  feast_default.9002.desc_ending:1 "\n\nNow it is time to wash off the traces of merriment and wine, and once more resume my duties as a [ROOT.Char.GetLadyLord] of the realm."
- feast_default.9002.a:0 "Farewell, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))]!"
- feast_default.9002.a_imprisoned_host:0 "Farewell!"
+ feast_default.9002.a:0 "さらば、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))]よ!"
+ feast_default.9002.a_imprisoned_host:0 "さらばだ!"
