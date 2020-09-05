@@ -1,7 +1,7 @@
 ﻿l_english:
  COUNCILWINDOW_TITLE:0 "評議会"
  COUNCILWINDOW_POWERFUL_VASSAL_INFO:0 "@warning_icon!#X [CouncilWindow.GetNumberOfPowerfulVassalsNotInCouncil|V] [powerful_vassals|E] demand to be on the [council|E]#!"
- COUNCILWINDOW_TT_REPLACE:1 "#T Appoint a [ACTIVE_COUNCIL_TASK.GetPositionName]#!"
+ COUNCILWINDOW_TT_REPLACE:1 "#T [ACTIVE_COUNCIL_TASK.GetPositionName]を任命#!"
  COUNCILWINDOW_SELECT_COUNCILLOR:0 "No [CouncilPositionType.GetName] selected"
  COUNCILLOR_RELEVANCE:0 "Relevance"
  COUNCILWINDOW_SELECT_TASK:0 "Select a task to perform"

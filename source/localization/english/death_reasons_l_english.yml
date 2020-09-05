@@ -67,7 +67,7 @@
  death_hunting_accident:0 "狩猟中の事故で死亡した"
  death_mysterious:0 "不可解な状況で死亡した"
  death_attempted_treatment:0 "[CHARACTER.GetHerselfHimself]は何らかの苦悩から逃れようとして死亡した"
- death_carp_accident:0 "痛ましい不平不満の事故により死亡した"
+ death_carp_accident:0 "不平不満に起因する痛ましい事故により死亡した"
  death_whipping:0 "死ぬまで鞭打たれた"
  death_whipping_killer:0 "[TARGET_CHARACTER.GetUIName]に死ぬまで鞭打たれた"
  death_torture:0 "死ぬまで拷問された"

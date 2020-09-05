@@ -70,7 +70,7 @@
  TT_CAP_TITLE:0 "#T [men_at_arms|E] Regiment Limit: $MAX|V$#!"
  TT_CAP_ABOVE:0 "@warning_icon!#X Above limit: Paying $VALUE|-%0$ extra!#!"
  TT_CAP_REGIMENT_COUNT:0 "Regiments: $VALUE|V$"
- TT_CAP_REGIMENT_CURRENT:0 "Current: $CURRENT|V$"
+ TT_CAP_REGIMENT_CURRENT:0 "Current:$CURRENT|V$"
  TT_CAP_REGIMENT_CAP:0 "Limit"
  TT_CAP_TIER_REASON:0 "You are a $TIER$"
  TT_RAISE_ALL_MAA_INFO:1 "[men_at_arms|E], [special_troops|E], [mercenaries|E], and [holy_orders|E] will be raised at the [rally_point|E] closest to your [realm_capital|E]."

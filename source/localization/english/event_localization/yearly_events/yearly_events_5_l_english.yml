@@ -228,7 +228,7 @@
  yearly.8100.a:0 "I graciously accept their gifts!"
  yearly.8100.b:0 "Intriguing... send soldiers to collect more 'gifts!'"
  yearly.8100.c:0 "No, they need their surplus more than I do."
- yearly.8200.t:0 "A Donation in Good Faith"
+ yearly.8200.t:0 "善意の寄付"
  yearly.8200.desc:0 "My [realm_priest.GetCouncilTitle], [realm_priest.GetFirstName], has received a significant donation of gold from the estate of a wealthy but childless landholder, now deceased. [realm_priest.GetSheHe|U] claims the departed lived a very frugal and pious life and wished for the gold to go where it could do good.\n\n[realm_priest.GetCouncilTitle] [realm_priest.GetFirstName] insists that I receive part of the donation, as I am \"a paragon of [ROOT.Char.GetFaith.GetNameNoTooltip] in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip].\""
  yearly.8200.a:0 "Giving away #emphasis [ROOT.Char.GetFaith.HighGodNamePossessive]#! wealth? #emphasis Heretic!#!"
  yearly.8200.b:0 "I promise, the gold will serve the realm."

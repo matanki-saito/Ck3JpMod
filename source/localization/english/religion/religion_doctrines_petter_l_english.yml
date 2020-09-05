@@ -1,8 +1,8 @@
 ﻿l_english:
  doctrine_muhammad_succession_name:0 "Muhammad's Succession"
- doctrine_muhammad_succession_desc:0 "The question of who is Muhammad's rightful successor as the spiritual leader of the Muslim community is an essential one."
+ doctrine_muhammad_succession_desc:0 "ムスリム社会の精神的指導者として、誰がムハンマドの正当な後継者であるかという問題は非常に本質的なものである"
  muhammad_succession_sunni_doctrine_name:0 "Sunni"
- muhammad_succession_sunni_doctrine_desc:0 "Abu Bakr was chosen by the Ummah as their rightful leader, both politically and religiously."
+ muhammad_succession_sunni_doctrine_desc:0 "アブー・バクルはウンマによって政治・宗教双方における正当な指導者に指名された。"
  doctrine_parameter_hostility_override_muhammad_succession_sunni_doctrine_1:0 "Considers other Sunni [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  doctrine_parameter_hostility_override_muhammad_succession_sunni_doctrine:0 "Considers Sunni [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  muhammad_succession_shia_doctrine_name:0 "シーア派"

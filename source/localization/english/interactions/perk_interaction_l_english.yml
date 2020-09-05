@@ -8,7 +8,7 @@
  demand_payment_too_little_gold_tt:0 "#N [recipient.GetFirstNameNoTooltip]は十分な資金を持っていない#!\n想定よりも少ない金額を受け取ることになる#F [gold_i][SCOPE.ScriptValue('demand_payment_current_gold_value')|0][gold_i][SCOPE.ScriptValue('demand_payment_gold_to_pay')|0]#!"
  buy_claim_interaction:0 "請求権の購入"
  buy_claim_interaction_desc:0 "Pay [piety|E] to gain a [claim|E] on one of [recipient.GetShortUINamePossessiveNoTooltip] valid titles #weak ([buy_claim|E])#!"
- buy_claim_interaction.message:0 "[target.GetName] Claimed!"
+ buy_claim_interaction.message:0 "[target.GetName]を要求した！"
  BUY_CLAIM_ALREADY_HAS_A_CLAIM:1 "この[title|E]に対する[claim|E]をすでに持っている"
  BUY_CLAIM_ALREADY_KING_OR_EMPEROR:1 "[king|E]や[emperor|E]を保有しているのであれば[kingdom|E]の[claim|E]は購入できない"
  BUY_CLAIM_ALREADY_EMPEROR:1 "すでに[emperor|E]を保有しているのであれば、[kingdom|E]の[claim|E]は購入できない"

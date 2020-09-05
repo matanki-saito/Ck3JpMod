@@ -69,7 +69,7 @@
  task_organize_levies_well_organized_service:0 "\n$EFFECT_LIST_BULLET$#P Well-organized Service#!"
  task_organize_levies_increased_military_presence:0 "\n$EFFECT_LIST_BULLET$#P Increased Military Presence#!"
  task_organize_levies_levy_desertion:0 "\n$EFFECT_LIST_BULLET$#N Levy Desertion#!"
- task_organize_levies_unused_farmland:0 "\n$EFFECT_LIST_BULLET$#N Unused Farmland#!"
+ task_organize_levies_unused_farmland:0 "\n$EFFECT_LIST_BULLET$#N 休耕地#!"
  task_organize_levies_insufficient_guards:0 "\n$EFFECT_LIST_BULLET$#N Insufficient Guards#!"
  task_organize_levies_notification_tooltip:0 "From $task_organize_levies$"
  task_suppress_crime:0 "Suppress Crime"

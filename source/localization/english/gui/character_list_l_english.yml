@@ -37,7 +37,7 @@
  prestige_gain_filter_option:0 "Gain"
  no_prestige_gain_filter_option:0 "No gain"
  no_prestige_gain_filter_option_desc:0 "Only show Characters that will not provide [prestige|E]"
- personal_filter_category:0 "Personal"
+ personal_filter_category:0 "個人的"
  religion_filter:0 "Religion"
  same_religion_filter_option_desc:0 "Only show Characters of the same [religion|E] as you"
  same_religion_filter_option:0 "[GetPlayer.GetFaith.GetReligion.GetNameNoTooltip]"

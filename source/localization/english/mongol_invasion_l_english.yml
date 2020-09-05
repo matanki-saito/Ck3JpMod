@@ -13,7 +13,7 @@
  mongol_invasion.1001.c:0 "Genghis who?"
  mongol_invasion.1002.t:0 "Rise of the Mongols"
  mongol_invasion.1002.desc.close:0 "A new leader, [temujin.GetTitledFirstName], has risen up among the scattered tribes of"
- mongol_invasion.1002.desc.close_mongolia:0 "Mongolia"
+ mongol_invasion.1002.desc.close_mongolia:0 "モンゴル"
  mongol_invasion.1002.desc.close_steppes:0 "the steppes"
  mongol_invasion.1002.desc.close.end:0 "and declared [temujin.GetHerselfHimself] the Genghis Khan — the ruler of the universe.\n\nWith a vast tribal army, [temujin.GetSheHe] has declared war for overlordship of the entire steppe, and then the entire world!"
  mongol_invasion.1002.desc.far:0 "Word has reached me that a new leader has risen up among the barbarian tribes of the distant steppes. This \"[temujin.GetTitledFirstName]\" has declared [temujin.GetHerselfHimself] the Ruler of the Universe — Genghis Khan — and has sworn to conquer the entire world.\n\n[temujin.GetSheHe|U] is not the first to make that threat, but the story goes that the [temujin.GetTitleAsNameNoTooltip] rides at the head of a horde of invincible horsemen that cannot be killed."

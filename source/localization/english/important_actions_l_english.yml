@@ -124,7 +124,7 @@
  action_powerful_vassal_not_on_council_combined_group_name:1 "[powerful_vassals|E] expect [council|E] Positions"
  action_powerful_vassal_not_on_council_desc:1 "[recipient.GetUIName] expects to be on your [council|E] since [recipient.GetSheHe] is a [powerful_vassal|E]. However, there are a limited amount of Council Positions."
  action_powerful_vassal_not_on_council_combined_group_description:1 "Your [powerful_vassals|E] expect to be on your [council|E]. However, there are a limited amount of Council Positions."
- action_powerful_vassal_not_on_council_label:2 "Powerful Vassal Demands Council Position"
+ action_powerful_vassal_not_on_council_label:2 "有力な封臣が評議会の地位を要求"
  action_powerful_vassal_not_on_council_combined_label:1 "[recipient.GetUINameNoTooltip]"
  action_powerful_vassal_not_on_council_click:1 "#I Click to open the [council|E] Window!#!"
  action_wrong_holding_type_combined_group_label:1 "[holdings|E] of Wrong Type"

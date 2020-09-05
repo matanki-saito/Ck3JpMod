@@ -4,7 +4,7 @@
  REALM_WINDOW_LIEGE_REALM:0 "Vassal Realm in the [Character.GetLiege.GetPrimaryTitle.GetNameNoTooltip|V]"
  RULER:0 "[ruler|E]"
  TITLES:0 "[titles|E]"
- DIPLOMACY:0 "Diplomacy"
+ DIPLOMACY:0 "外交"
  MY_REALM:0 "My Realm"
  DOMAIN_LIMIT_TOOLTIP_HEADER:0 "#T [domain|E]: [CHARACTER.GetDomainSize]/[CHARACTER.GetDomainLimit] [holdings|E]#!"
  DOMAIN_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon!#X Above [domain_limit|E]. Let your [vassals|E] rule over some of your [domain|E] by Granting Titles.#!\n"
