@@ -1,5 +1,5 @@
 ﻿l_english:
- siege.0002.one_captured.t:1 "陥落で捕らえられた囚人"
+ siege.0002.one_captured.t:1 "砦陥落で捕らえられた捕虜"
  siege.0002.several_captured.t:1 "Prisoners Taken in Siege"
  siege.0002.one_captured:0 "You captured [prisoner_1.Custom2('NamePossessiveCharacterIntroduction', SCOPE.sC('holder'))] during the siege of [barony.GetNameNoTier]."
  siege.0002.two_captured:0 "You captured [prisoner_1.Custom2('NamePossessiveCharacterIntroduction', SCOPE.sC('holder'))] and [prisoner_2.Custom2('HerHisCharacterIntroduction', SCOPE.sC('holder'))] during the siege of [barony.GetNameNoTier]."
@@ -21,7 +21,7 @@
  siege.0013.two_killed:0 "My courtiers [casualty_1.GetFirstName] and [casualty_2.GetFirstName] were killed"
  siege.0013.several_killed:0 "[casualty_1.GetFirstName] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] of my other courtiers were killed"
  siege.0013.end:0 "$siege.0003.end$"
- siege.0014.one_killed.t:1 "[ROOT.Char.Custom2('RelationToMeShort', casualty_1)|U] Killed in Siege"
+ siege.0014.one_killed.t:1 "[ROOT.Char.Custom2('RelationToMeShort', casualty_1)|U]が包囲中に戦死"
  siege.0014.one_killed:0 "[casualty_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was killed"
  siege.0014.two_killed:0 "[casualty_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [casualty_2.Custom2('MyCharacterIntroduction', ROOT.Char)] were killed"
  siege.0014.several_killed.t:0 "People Killed in Siege"

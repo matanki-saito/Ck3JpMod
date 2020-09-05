@@ -29,7 +29,7 @@
  hostile_scheme_discovery.3002.t:0 "Scheme Discovered"
  hostile_scheme_discovery.3002.desc:0 "The existence of my plot to [scheme.GetFullActionName] has been discovered!\n\nWhile my involvement is not yet known, this will make it a lot more difficult to bring my plans to fruition."
  hostile_scheme_discovery.3002.a:0 "Curses!"
- hostile_scheme_discovery.4001.t:0 "Scheme Discovered!"
+ hostile_scheme_discovery.4001.t:0 "計画が露見した！"
  hostile_scheme_discovery.4001.opening:0 "My plot against my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))], [target.GetTitledFirstName], has been discovered!"
  hostile_scheme_discovery.4001.end:0 "\n\nMy servants now whisper that I have to resort to underhandedness to rule even my home."
  hostile_scheme_discovery.4002.opening:0 "My scheme to see my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))] dead has been discovered! Now everyone knows of my plan to kill [target.GetTitledFirstName]."

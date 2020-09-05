@@ -24,5 +24,5 @@
  stewardship_general.5041.desc_other:0 "The [servant_character.GetWomanMan] cowers before me, sniveling about hungry children and pleading for mercy."
  stewardship_general.5041.desc_ending:0 "\n\n\"Please my [ROOT.Char.GetLadyLord], I will do anything you ask!\""
  stewardship_general.5041.a:0 "Show [servant_character.GetHerHim] what true hunger feels like."
- stewardship_general.5041.b:0 "Imprison [servant_character.GetHerHim]."
+ stewardship_general.5041.b:0 "[servant_character.GetHerHim]を投獄しろ"
  stewardship_general.5041.c:0 "Show mercy and win [servant_character.GetHerHis] loyalty."

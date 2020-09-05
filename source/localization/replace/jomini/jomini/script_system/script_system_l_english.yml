@@ -1,7 +1,7 @@
 ﻿l_english:
  JOMINI_GREATER_THAN:0 "超"
  JOMINI_GREATER_EQ_THAN:0 "以上"
- JOMINI_LESS_THAN:0 "が右記未満："
+ JOMINI_LESS_THAN:0 "が右記未満:"
  JOMINI_LESS_EQ_THAN:0 "以下"
  JOMINI_EQUAL_TO:0 "に等しい"
  JOMINI_NOT_EQ:0 "not exactly"

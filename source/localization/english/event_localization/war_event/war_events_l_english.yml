@@ -32,7 +32,7 @@
  war_event.3002.1.a:0 "Very well."
  war_event.3003.2.a:0 "I will do better next time."
  war_event.3003.2.b:0 "Maybe I should just end our alliance...?"
- war_event.neighbor_war.both_neighbors.t:0 "Neighbors' War Resolved"
+ war_event.neighbor_war.both_neighbors.t:0 "隣国の戦争が終結"
  war_event.neighbor_war.both_neighbors.desc:0 "隣国の[winner.GetTitledFirstName]が[this_war.GetName]で同じく隣国の[loser.GetTitledFirstName]に勝利した！"
  war_event.neighbor_war.only_winner.t:0 "近隣の領主が戦争に勝利"
  war_event.neighbor_war.only_winner.desc:2 "隣国の[winner.GetTitledFirstName]が[this_war.GetName]で[loser.Custom2('YourCharacterIntroductionNoComma', this_player)]に勝利した！"

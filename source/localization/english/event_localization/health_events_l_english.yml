@@ -208,7 +208,7 @@
  health.3001.d.two:0 "Both of them fail to impress me."
  health.3001.d.more:0 "They all fail to impress me."
  health.3001.e:0 "[excellent_skill_option.GetFirstNameNoTooltip] is widely known in scholarly circles."
- health.3001.d.tt:0 "私の[court_physician|E]としては誰も補充しません"
+ health.3001.d.tt:0 "[court_physician|E]としては誰も採用しません"
  health.3101.t:1 "[SCOPE.Custom('EventTitleDisease')]: Time For Treatment"
  health.3101.start.desc:0 "\"The time has come to treat your"
  health.3101.safe_recommendation.desc:0 "While I am fairly certain a simple tincture would suffice,"

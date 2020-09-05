@@ -22,7 +22,7 @@
  councillor_spouse_diplomacy.2002.b:0 "[vassal_heir_2.GetTitledFirstNameNoTooltip]はおそらく良い影響を与える者になるだろう。"
  councillor_spouse_diplomacy.2002.c:0 "[vassal_heir_3.GetTitledFirstNameNoTooltip]についてはよい話を聞いている。"
  councillor_spouse_diplomacy.2002.d:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('child_heir'))]は[child_heir.GetHerHis]自身でうまくやるだろう。"
- councillor_spouse_diplomacy.2003.t:1 "配偶者：平和への機会"
+ councillor_spouse_diplomacy.2003.t:1 "配偶者:平和への機会"
  councillor_spouse_diplomacy.2003.desc:0 "[ROOT.Char.GetFaith.HouseOfWorship]の向こうに[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('rival'))][rival.GetTitledFirstName]がいるのに気づくとすぐ、私は踵を返そうとした。しかし驚いたことに、[councillor.GetTitledFirstName]は[rival.Custom('InsultNoun')][councillor.Custom('quirk_pos_adverb')]を振って我々に合図してきた。\n\n「[rival.GetSheHe|U]は中立地帯であなたと会うことに同意しています。あなたがたのようなふたりの[SCOPE.Custom('PersonalityGetSharedTraitDescriptionFromFlag')][ROOT.Char.Custom2('WomenMenPeople', SCOPE.sC('rival'))]が不和なのは、まったくもって不幸なことです。いまこそ過ちを改める時では？」"
  councillor_spouse_diplomacy.2003.a:0 "そうかもしれない……"
  councillor_spouse_diplomacy.2003.b:0 "[rival.GetHerHis]の顔を改めてやる！"

@@ -37,7 +37,7 @@
  FRONTEND_LEAVE_GAME_TEXT:0 "If you leave, the Multiplayer Game will continue without you"
  FRONTEND_AUTO_SAVE:1 "#high [GetAutosaveName]#!としてゲームを保存"
  FRONTEND_AUTO_SAVE_IRONMAN:1 "The game will be saved as #high [GetAutosaveName]#!"
- FRONTEND_SWITCH_CHARACTER:0 "Switch Character"
+ FRONTEND_SWITCH_CHARACTER:0 "キャラクターを切り替える"
  FRONTEND_LOBBY_UNAVAILABLE_IRONMAN:0 "@warning_icon! #X Lobby is unavailable in Ironman#!"
  FRONTEND_LOBBY_UNAVAILABLE_LOGIN:1 "@warning_icon! #X Paradoxアカウントにログインしてマルチプレイヤーロビーを開きます#!"
  FRONTEND_LOBBY_UNAVAILABLE_USERNAME:1 "@warning_icon! #X You need to set a non-empty Username in order to open the Multiplayer lobby. You can do that in the login window.#!"

@@ -106,7 +106,7 @@
  fabricate_hook_desc:0 "Employ underhanded means to create a [hook|E] out of nothing"
  fabricate_hook_desc_general:0 "$fabricate_hook_desc$."
  fabricate_hook_interaction:0 "捏造によるフック"
- fabricate_hook_action:0 "Fabricate a Hook on"
+ fabricate_hook_action:0 "捏造によるフックをオン"
  fabricate_hook_interaction_desc:0 "Attempt to [fabricate_a_hook|E] on [recipient.GetShortUINameNoTooltip]"
  fabricate_hook_scheme_invalidated_title:0 "捏造によるフック計画終了"
  fabricate_hook_has_gained_hook:0 "You have gained a [hook|E] on [target.GetShortUIName]"

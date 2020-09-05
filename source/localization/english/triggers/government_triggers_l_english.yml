@@ -10,5 +10,5 @@
  HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] has $GOVERNMENT|V$ government"
  NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have a $GOVERNMENT|V$ government"
  HAS_SAME_GOVERNMENT_TRIGGER:0 "Has the same government as [TARGET_CHARACTER.GetShortUIName]"
- MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doctrine"
- MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doctrine"
+ MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]教義、または[GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName]教義を持っていない"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]教義、または[GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] 教義を持っていない"

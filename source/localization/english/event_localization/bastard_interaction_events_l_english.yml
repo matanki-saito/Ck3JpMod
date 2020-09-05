@@ -6,7 +6,7 @@
  legitimize_bastard_interaction_notification:0 "Bastard Legitimized"
  legitimize_bastard_interaction_decline_notification:0 "Bastard Not Legitimized"
  I_AM_HOUSE_HEAD_MODIFIER:0 "私が一族の長だ、私が自由に決める。"
- PRESTIGOUS_IN_OUR_HOUSE:0 "名声のレベル：$VALUE|+0$"
+ PRESTIGOUS_IN_OUR_HOUSE:0 "名声のレベル:$VALUE|+0$"
  house_bastard_was_legitimized:0 "House Bastard Legitimized"
  dynasty_bastard_was_legitimized:0 "Dynasty Bastard Legitimized"
  bastard_interaction.0001.t:0 "House [actor.GetHouse.GetBaseName]"

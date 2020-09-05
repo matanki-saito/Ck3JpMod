@@ -8,7 +8,7 @@
  diplomacy_foreign.1074.c.failure:0 "[heretic_ruler.GetFirstName] is suspicious of my envoy's intentions"
  diplomacy_foreign.3001.t:0 "Correspondence"
  diplomacy_foreign.3001.opening:0 "[neighboring_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
- diplomacy_foreign.3001.desc:0 "I have heard good things about you, and I am interested in starting a written conversation. I hope that this letter finds you willing, for I am awaiting your swift reply."
+ diplomacy_foreign.3001.desc:0 "あなたについて良い話を聞いておりますので、書簡にて交流をしたく思っております。この書簡であなたのお考えを知ることができれば幸いです。あなたからの返信を心待ちにしております。"
  diplomacy_foreign.3001.a:0 "Start exchanging letters with [neighboring_ruler.GetFirstNameNoTooltip]."
  diplomacy_foreign.3001.a.tt:1 "You will continue to receive letters from [neighboring_ruler.GetFirstName]"
  diplomacy_foreign.3001.b:0 "Frame the [neighboring_ruler.GetTitleAsNamePossessiveNoTooltip] letter in my hall!"

@@ -29,7 +29,7 @@
  adultery.0006.my_lovername.desc:1 "[sex_partner.Custom2('MyCharacterIntroductionNoComma', lover_spouse)]."
  adultery.0006.unapologetic_start.desc:1 "[lover_spouse.GetFirstNameNoTooltip] did not expect my accusation, that much is clear. [lover_spouse.GetSheHe|U] is not shaken for long, though.\n\n\"It took you long enough to notice, #EMP [lover_spouse.Custom2('RelationToMe', SCOPE.sC('spouse'))]#!.\" [lover_spouse.GetHerHis|U] words are dripping with venom. \"Yes, I have lain with another – "
  adultery.0006.male_lover.desc:0 "a man of no importance. I do not even know his name."
- adultery.0006.female_lover.desc:0 "a woman of no importance. I do not even know her name."
+ adultery.0006.female_lover.desc:0 "重要ではない女性だ。私は、彼女の名前さえ知らない。"
  adultery.0006.apologetic_end.desc:0 "It only happened once, I swear!\""
  adultery.0006.unapologetic_end.desc:0 "It only happened once, but trust my words. I would gladly do it again.\""
  adultery.0006.a:0 "Everyone will know of your treachery, [lover_spouse.Custom('InsultNounSexual')]!"

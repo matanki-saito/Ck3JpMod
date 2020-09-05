@@ -1,5 +1,5 @@
 ﻿l_english:
- SETTING_AUTOSAVE:0 "Autosave interval"
+ SETTING_AUTOSAVE:0 "オートセーブ間隔"
  SETTING_DEBUG_SAVES:0 "Number of debug saves"
  SETTING_TUTORIAL:0 "チュートリアル"
  SETTING_DISABLED_HINTS:0 "ヒントを無効化"

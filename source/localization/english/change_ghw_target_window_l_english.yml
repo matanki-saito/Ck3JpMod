@@ -7,4 +7,4 @@
  CHANGE_GHW_TARGET_CONFIRM:1 "戦争目標を変更する"
  CHANGE_GHW_TARGET_COST_TOOLTIP:1 "#T Redirection Cost\n#!The cost increases every time the target is redirected\n[ChangeGHWTargetWindow.GetCostTooltip]"
  CHANGE_GHW_TARGET_DEFENDERS:0 "防御側"
- CHANGE_GHW_TARGET_COST:0 "コスト：[ChangeGHWTargetWindow.GetCost]"
+ CHANGE_GHW_TARGET_COST:0 "コスト:[ChangeGHWTargetWindow.GetCost]"

@@ -3,7 +3,7 @@
  sway_ongoing.1001.desc:2 "A commoner of [target.GetCulture.GetNameNoTooltip] heritage has been accosted in the streets of [capital.GetNameNoTooltip] over some minor offense.\n\nBy making a statement in their defense I could perhaps convince [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], the equally-[target.GetCulture.GetNameNoTooltip] of my good character, but I might risk alienating my [ROOT.Char.GetCulture.GetNameNoTooltip] peers..."
  sway_ongoing.1001.a:1 "The [target.GetCulture.GetCollectiveNounNoTooltip] are good people."
  sway_ongoing.1001.b:1 "[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] are of superior moral fiber!"
- sway_ongoing.1002.t:0 "懐柔：お世辞"
+ sway_ongoing.1002.t:0 "懐柔:お世辞"
  sway_ongoing.1002.desc:0 "To make [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] more susceptible to my attempts at approaching [target.GetHerHim] I can include a compliment in my next missive to [target.GetHerHis] court.\n\nI will be sure to mention [target.GetHerHis]..."
  sway_ongoing.1002.success.tt:0 "At the discretion of [friend.GetTitledFirstNameNoTooltip]:"
  sway_ongoing.1002.b:0 "I will keep it short and professional."

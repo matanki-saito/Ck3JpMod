@@ -9,7 +9,7 @@
  war_declared_flavor.zealous.reincarnation:0 "May your next life be less wretched than this one."
  war_declared_flavor.zealous.fallback:2 "I can not lose, for [ROOT.Char.GetFaith.HighGodName] is with me!"
  war_declared_flavor.naughty:0 "You have been a very naughty [ROOT.War.GetActiveCB.GetDefender.Custom('GirlBoy')]. Such behavior can not be overlooked! Prepare yourself, for on the battlefield I will inflict the punishment you so richly deserve!"
- war_declared_flavor.holy_war:1 "Your false religion has kept your subjects in the darkness for too long. In the name of [ROOT.War.GetActiveCB.GetAttacker.GetFaith.HighGodName], I shall bring the true faith to them and free them from your blasphemy!"
+ war_declared_flavor.holy_war:1 "貴君の偽りの宗教は、あまりにも長い間、貴君の臣民を暗闇の中に閉じ込めていた。[ROOT.War.GetActiveCB.GetAttacker.GetFaith.HighGodName]の名において、私は彼らに真の信仰をもたらし、貴君の冒涜から解放する！"
  war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] I have long coveted your lands, only to be denied possession of them. No more! The time has come for me to finally get what I deserve!"
  war_declared_flavor.dejure:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Your occupation of lands which rightfully belong to me can no longer be tolerated. It is time that I see them returned to my possession!"
  war_declared_flavor.subjugation:0 "I have decided to incorporate your lands into my realm. Submit now, and I will have mercy on you... Resist, and I will force you to kneel and grovel before me!"

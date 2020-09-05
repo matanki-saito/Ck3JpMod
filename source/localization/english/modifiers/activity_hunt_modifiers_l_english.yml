@@ -1,7 +1,7 @@
 ﻿l_english:
- held_hunt_modifier:0 "Hunted Recently"
- held_hunt_modifier_desc:0 "This character has recently arranged a Hunt, and may not do so again until the specified date."
- hunt_punished_locals_modifier:0 "Punished Poachers"
+ held_hunt_modifier:0 "最近狩りをした"
+ held_hunt_modifier_desc:0 "この人物は最近狩りの準備をし、指定の日付まで再びやらないかもしれません。"
+ hunt_punished_locals_modifier:0 "罰せられた密猟者"
  hunt_punished_locals_modifier_desc:0 "People in this County bear the burden of making up for poachers in the forests."
  hunt_poacher_training_modifier:0 "Poacher Training"
  hunt_poacher_training_modifier_desc:0 "This character has been trained by poachers to hunt."

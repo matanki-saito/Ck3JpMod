@@ -14,7 +14,7 @@
  parent.1004.desc:0 "Sometimes I think that my [parent.Custom('MotherFather')] has a better overview of my treasury than even my steward. A gold piece seems to be worth twice as much when [parent.GetSheHe] tells me how to spend it!"
  parent.1004.a:0 "\"Please guide me to prudent choices, [parent.Custom('MotherFather')].\""
  parent.1004.b:0 "My realm, my treasury!"
- parent.1005.desc:0 "There are wise men and women in my realm, but I doubt that a single one of them could best my [parent.Custom('MotherFather')] in debate. [parent.GetSheHe|U] always has a surprising perspective or another layer of knowledge to reveal!"
+ parent.1005.desc:0 "私の分野にも賢い人たちがいますが、その中の一人が私の[parent.Custom('MotherFather')]を討論するのに最適であるとは思えない。[parent.GetSheHe|U]には常に驚くべき視点や、明らかにすべき別の知識の層がある。"
  parent.1005.a:0 "\"Share your wisdom with me, [parent.Custom('MotherFather')]!\""
  parent.1005.b:0 "The words dazzle, but are they all that wise?"
  parent.1006.t:0 "A Guiding Hand"

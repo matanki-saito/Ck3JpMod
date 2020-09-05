@@ -76,7 +76,7 @@
  learning_medicine.2023.a:0 "Let us retreat to my chamber, [spouse.GetFirstNameNoTooltip]..."
  learning_medicine.2024.end.desc:0 "\n\nEven though I followed [physician.GetFirstNamePossessive] advice to the letter, and [physician.GetSheHe] tells me to be patient, my misgivings are strong. I feel nauseous and faint, and [spouse.GetFirstName] has been bedbound for three days straight."
  learning_medicine.2024.a:0 "I just want to rest..."
- learning_medicine.2024.b:0 "Guards! Imprison the charlatan!"
+ learning_medicine.2024.b:0 "衛兵！このペテン師を投獄しろ！"
  learning_medicine.2025.start.desc:0 "\"My [ROOT.Char.GetLadyLord], I have great news! It is early yet, but your [spouse.Custom('WifeHusband')] shows all the signs of being with child!\"\n\nFirst, happiness and relief wash over me, but confusion follows quickly in its wake. \"But you have not administered your treatment yet, [physician.GetFirstName],\" I say pointedly.\n\n"
  learning_medicine.2025.fertilitygod.desc:0 "\"[physician.GetFaith.FertilityGodName]"
  learning_medicine.2025.the_universe.desc:0 "\"The universe"

@@ -57,7 +57,7 @@
  pet_animal.0109.t:1 "[ROOT.Char.Custom('CatStoryName')]: Rodent Killer"
  pet_animal.0109.desc:1 "As [ROOT.Char.Custom('CatStoryName')] approaches me with yet another dead rat I can do nothing but praise [ROOT.Char.Custom('CatStoryHerHim')]. The [ROOT.Char.Custom('ResidenceBuilding')] has never been this free of rodents before!"
  pet_animal.0109.a:0 "Keep up the good work!"
- pet_animal.0110.t:1 "[ROOT.Char.Custom('CatStoryName')]：トラブルメーカー"
+ pet_animal.0110.t:1 "[ROOT.Char.Custom('CatStoryName')]:トラブルメーカー"
  pet_animal.0110.desc:1 "[vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U] approach me, rage in [vassal.GetHerHis] eyes and cat in [vassal.GetHerHis] hand, held by the scruff of its neck. As [vassal.GetSheHe] thrusts the cat in my face I see that it's my dear [ROOT.Char.Custom('CatStoryName')]!\n\n\"I found this little monster among my things – what wasn't scratched to bits was covered in piss!\""
  pet_animal.0110.a:0 "補償してやる！"
  pet_animal.0110.b:0 "たかだか猫のしたことじゃないか……"

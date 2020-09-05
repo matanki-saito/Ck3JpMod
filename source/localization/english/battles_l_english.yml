@@ -19,7 +19,7 @@
  berserker_rage_no_enemy_friendly:1 "Our $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] rampaged through the enemy soldiers and became a [GetTrait('berserker').GetName( GetNullCharacter )]!"
  commander_wounded_no_enemy_friendly_player:1 "あなたは軍を率いて戦闘している時に敵の兵士に負傷させられた！"
  commander_wounded_no_enemy_friendly:0 "Commander [CHARACTER.GetUINameNoTooltip] was wounded while leading [CHARACTER.GetHerHis] troops in battle!"
- commander_wounded_no_enemy_enemy:0 "One of our valiant soldiers has managed to wound the enemy commander, [CHARACTER.GetUINameNoTooltip], in battle!"
+ commander_wounded_no_enemy_enemy:0 "我らの勇敢な兵士の一人が健闘し敵の[CHARACTER.GetUINameNoTooltip]を負傷させました！"
  commander_wounded_by_enemy_friendly_player:1 "You were wounded by [TARGET_CHARACTER.GetUINameNoTooltip] while leading your troops in battle!"
  commander_wounded_by_enemy_friendly:0 "Commander [CHARACTER.GetUINameNoTooltip] was wounded by [TARGET_CHARACTER.GetUINameNoTooltip] while leading [CHARACTER.GetHerHis] troops in battle!"
  commander_wounded_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] has wounded the enemy commander, [CHARACTER.GetUINameNoTooltip], in battle!"

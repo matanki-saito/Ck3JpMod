@@ -26,7 +26,7 @@
  NOT_THEY_ARE_THEIR_LIEGE_OR_ABOVE:0 "[TARGET_CHARACTER.GetShortUIName|V] is #bold not#! [CHARACTER.GetShortUINamePossessive] [liege|E] or [CHARACTER.GetHerHis] liege's liege"
  THEY_ARE_VASSAL_OR_BELOW:0 "[TARGET_CHARACTER.GetShortUIName|V] is a vassal"
  NOT_THEY_ARE_VASSAL_OR_BELOW:0 "[TARGET_CHARACTER.GetShortUIName|V] is #bold not#! a vassal"
- IS_ATTRACTED_TO_WOMEN_TRIGGER:0 "Is attracted to women"
+ IS_ATTRACTED_TO_WOMEN_TRIGGER:0 "女性に惹かれる"
  NOT_IS_ATTRACTED_TO_WOMEN_TRIGGER:0 "Is #bold not#! attracted to women"
  IS_ATTRACTED_TO_MEN_TRIGGER:0 "Is attracted to men"
  NOT_IS_ATTRACTED_TO_MEN_TRIGGER:0 "Is #bold not#! attracted to men"

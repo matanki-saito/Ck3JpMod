@@ -93,7 +93,7 @@
  SETTING_Ambient_TOOLTIP:0 "#T 環境音の音量\n#! 環境音の音量の設定。"
  SETTING_SFX_TOOLTIP:0 "#T 効果音の音量\n#! 戦闘をはじめとする効果音の音量の設定。"
  SETTING_UI_TOOLTIP:0 "#T インターフェイスの音量\n#! ユーザーインターフェイスの音量の設定。"
- SETTING_AUTOSAVE_TOOLTIP:3 "#T $SETTING_AUTOSAVE$\n#! どのくらいの頻度でゲームを自動セーブするか。"
+ SETTING_AUTOSAVE_TOOLTIP:3 "#T $SETTING_AUTOSAVE$\n#! どのくらいの頻度でゲームを自動セーブするかを設定します。"
  SETTING_AUTOSAVE_TO_CLOUD_TOOLTIP:0 "オートセーブをクラウドに保存するかどうか。"
  SETTING_CAMERA_FACE_NORTH_TOOLTIP:0 "カメラを常に北に向けるかどうか。"
  NO_AUTOSAVE:0 "オートセーブなし"

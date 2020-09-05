@@ -115,7 +115,7 @@
  yearly.1030.b:0 "You think you can make demands? Tell me, or else!"
  yearly.1030.b.tt:1 "I force [hooked.GetTitledFirstName] to tell me a [secret|E] about [secret_character.GetTitledFirstName]"
  yearly.1030.c:0 "I would rather have you in my pocket than [secret_character.GetHerHim]."
- yearly.1030.a.start.desc:0 "Secret Discovered"
+ yearly.1030.a.start.desc:0 "秘密を発見した"
  yearly.1030.a.secret_deviant.desc:0 "about [secret_character.GetTitledFirstNamePossessive] perversion!"
  yearly.1030.a.secret_homosexual.desc:0 "about [secret_character.GetTitledFirstNamePossessive] lust for [secret_character.GetWomenMen]!"
  yearly.1030.a.secret_murder_attempt.desc:0 "about [secret_character.GetTitledFirstNamePossessive] failed murder attempt against [secret_target.GetTitledFirstNameOrMe]!"

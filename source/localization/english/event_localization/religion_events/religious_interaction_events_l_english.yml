@@ -29,7 +29,7 @@
  religious_interaction.42.desc:0 "I have considered your request for a claim on the [target.GetName] and have decided to reject it."
  religious_interaction.42.a:0 "Damnations!"
  religious_interaction.5.child:0 "Due to your minority,"
- religious_interaction.5.they_are_female:0 "Due to your womanly status,"
+ religious_interaction.5.they_are_female:0 "あなたの女性的な地位のために、"
  religious_interaction.5.they_are_male:0 "Due to your manly status,"
  religious_interaction.5.fallback:0 "Due to your obvious lack of piety,"
  religious_interaction.5.outro:0 "a condition which worries the Church greatly, I have granted [actor.GetName] a claim on [target.GetName], at [actor.GetHerHis] request."

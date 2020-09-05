@@ -32,7 +32,7 @@
  martial_authority_focus:1 "$martial_authority_focus_short$フォーカス"
  martial_authority_focus_short:0 "権威"
  martial_authority_focus_modifier:1 "[GetFocus('martial_authority_focus').GetName]"
- martial_authority_focus_desc:0 "支配するということは、その国家のあらゆる側面が、一糸乱れず動き、連携することだ。"
+ martial_authority_focus_desc:0 "支配するとは、その国の全てが一致団結する、ということだ。"
  martial_authority_focus_effect_desc:0 "権威フォーカスの補正:"
  authority_name:1 "監督官"
  martial_chivalry_focus:1 "$martial_chivalry_focus_short$フォーカス"

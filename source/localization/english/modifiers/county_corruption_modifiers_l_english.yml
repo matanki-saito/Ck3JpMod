@@ -1,5 +1,5 @@
 ﻿l_english:
- county_corruption_inefficient_tax_collection_modifier:0 "Incompetent Tax Collection"
+ county_corruption_inefficient_tax_collection_modifier:0 "無能な税徴収"
  county_corruption_inefficient_tax_collection_modifier_desc:0 "[county_corruption|E]\nTax collection efforts are failing in the County"
  county_corruption_deserting_levies_modifier:0 "Deserting Levies"
  county_corruption_deserting_levies_modifier_desc:0 "[county_corruption|E]\nLevies are deserting in great numbers in this County"

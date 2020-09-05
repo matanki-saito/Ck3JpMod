@@ -173,7 +173,7 @@
  intrigue_scheme_ongoing_5016_every_courtier:0 "Every courtier and guest that's not an agent"
  intrigue_scheme_ongoing.5016.b:0 "Keep the doors of the [target.Custom('ResidenceBuilding')] open to me."
  intrigue_scheme_ongoing.5016.c_man:0 "Never mind. Run back to your master."
- intrigue_scheme_ongoing.5016.c_woman:0 "Never mind. Run back to your mistress."
+ intrigue_scheme_ongoing.5016.c_woman:0 "気にしないで。あなたの愛人に戻ります。"
  intrigue_scheme_ongoing.5017.t:0 "Gullible [target.Custom2('RelationToMe', SCOPE.sC('spouse'))|U]"
  intrigue_scheme_ongoing.5017.desc:0 "I can barely contain my glee as I find [spouse.GetTitledFirstName], [target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('spouse'))] waiting for me along with a small equipage. If I could get #EMP [spouse.GetHerHim]#! to help me in my scheme...\n\n\"You sent word that you wanted to see me, my [ROOT.Char.GetLadyLord]?\""
  intrigue_scheme_ongoing.5017.a:0 "Your [spouse.Custom2('RelationToMe', SCOPE.sC('target'))] has been calling you [target.Custom('InsultAdjectiveArticle')] [target.Custom('InsultNoun')]."
