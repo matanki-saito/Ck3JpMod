@@ -16,7 +16,7 @@
  NOT_DOCTRINE_PLURALISM_PLURALISTIC:0 "[doctrine|E]多元主義が必要"
  DOCTRINE_UNRESTRICTED_CONSANGUINITY:0 "[doctrine|E]無制限の婚姻とは両立しない"
  NOT_DOCTRINE_UNRESTRICTED_CONSANGUINITY:0 "[doctrine|E]無制限の婚姻が必要"
- CANNOT_HAVE_TEMPORAL_HEAD_AND_THEOCRACY:0 "A Faith cannot have both [GetFaithDoctrine('doctrine_theocracy_temporal').GetBaseName] Clerical Tradition and a [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] Head of Faith"
+ CANNOT_HAVE_TEMPORAL_HEAD_AND_THEOCRACY:0 "信仰は、[GetFaithDoctrine('doctrine_theocracy_temporal').GetBaseName]事務職の伝統と[GetFaithDoctrine('doctrine_temporal_head').GetBaseName]信仰の長の両方を持つことはできない"
  CANNOT_HAVE_TEMPORAL_HEAD_AND_SPIRITUAL_APPOINTMENT:0 "A Faith cannot have both [GetFaithDoctrine('doctrine_clerical_succession_spiritual_appointment').GetBaseName] Clerical Appointment and a [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] Head of Faith"
  NOT_DOCTRINE_NO_HEAD_OF_FAITH:0 "Requires the [doctrine|E] No [head_of_faith|E]"
  DOCTRINE_REQUIRED_HEAD_OF_FAITH:0 "Requires any [head_of_faith|E] [doctrine|E]"

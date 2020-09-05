@@ -3,7 +3,7 @@
  WAR_OVERVIEW_THEIR_PARTICIPANTS:2 "Defenders' Allies"
  WAR_OUR_FORCES:1 "Our Forces:"
  WAR_THEIR_FORCES:1 "Their Forces:"
- WAR_OVERVIEW_STARTED:1 "War Started: [WarOverviewWindow.GetWarDuration] ago"
+ WAR_OVERVIEW_STARTED:1 "開戦:[WarOverviewWindow.GetWarDuration]前"
  WAR_OVERVIEW_START_DATE:1 "Started [WarOverviewWindow.GetWar.GetStartDate.GetString|V]"
  PARTICIPATION_SCORE_BREAKDOWN_HEADER:1 "[war_contribution]: $SCORE|V$ ($PERCENTAGE|%V$) $RANK|O$"
  PARTICIPATION_SCORE_BREAKDOWN_FROM_BATTLES:0 "Battles"

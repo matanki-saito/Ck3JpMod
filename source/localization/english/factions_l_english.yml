@@ -93,7 +93,7 @@
  FACTION_CLAIMANT_INVITE_REFUSED_OPT:0 "残念だ"
  FACTION_CLAIMANT_EVERY_FACTION_MEMBER:0 "Every Faction Member"
  FACTION_CLAMAINT_DYNAMIC_NAME:0 "Faction to Install [ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip] on the [ROOT.Faction.GetSpecialTitle.GetAdjective] Throne"
- FACTION_POPULIST_DYNAMIC_NAME:0 "[ROOT.Var('faction_culture').Culture.GetNameNoTooltip] [ROOT.Var('faction_faith').Faith.GetAdjectiveNoTooltip] Populists"
+ FACTION_POPULIST_DYNAMIC_NAME:0 "[ROOT.Var('faction_culture').Culture.GetNameNoTooltip][ROOT.Var('faction_faith').Faith.GetAdjectiveNoTooltip]の大衆主義者"
  WARNING_I_HAVE_ALREADY_JOINED_A_FACTION:1 "@warning_icon!#X You have already joined a [faction|E]#!"
  WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon!#X You are already at war with [faction_target.GetTitledFirstName]#!"
  WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon!#X You are at war with [faction_invite_from.GetTitledFirstName]#!"

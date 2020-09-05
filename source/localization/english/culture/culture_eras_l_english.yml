@@ -1,7 +1,7 @@
 ﻿l_english:
  culture_group_military:0 "Military"
  culture_group_civic:0 "Civic"
- culture_group_regional:1 "Cultural and Regional"
+ culture_group_regional:1 "文化と地域"
  culture_group_any:0 "any"
  culture_era_tribal:0 "Tribal"
  culture_era_tribal_desc:0 "The Tribal Era of a [culture|E] predates the emergence of codified laws and an institutionalized government. Rulers with [tribal_government|E] can only make use of Tribal Era [innovations|E]."

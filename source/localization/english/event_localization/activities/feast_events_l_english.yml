@@ -1,5 +1,5 @@
 ﻿l_english:
- every_guest_scope_tt:0 "Every guest"
+ every_guest_scope_tt:0 "すべての客人"
  feast.0010.desc:0 "Why you would accept my invitation only to attend [other_host.GetTitledFirstNamePossessive] feast instead I do not know, but know that I will remember this."
  feast.0010.a:0 "不幸だ。"
  feast.1501.opening:0 "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"

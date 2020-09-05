@@ -1,6 +1,6 @@
 ﻿l_english:
  lifestyle_nicknames.0001.t:0 "命名規則"
- lifestyle_nicknames.0001.desc:0 "After spending countless hours poring over ledgers, tallying up numbers and managing the court, my meticulousness has finally paid off. I have made my realm more prosperous than it has ever been!\n\nEvery able ruler, such as I, [ROOT.Char.GetFullName], ought to be known by their achievements.\n\nNow, what should I call myself?"
+ lifestyle_nicknames.0001.desc:0 "膨大な時間をかけて台帳を調べ、数字を集計し、法廷を管理した結果、私の細心の注意がついに報われた。私は、わが王国をこれまでになく繁栄させた。\n\n私、[ROOT.Char.GetFullName]のような有能な支配者は皆、その業績によって知るべきだ。\n\n私は自分のことを何と呼べばいいのだろう？"
  lifestyle_nicknames.0001.a:0 "I want to be known for my administration!"
  lifestyle_nicknames.0001.b:0 "I will be remembered for my fairness!"
  lifestyle_nicknames.0001.c:0 "People will know me by my laws!"

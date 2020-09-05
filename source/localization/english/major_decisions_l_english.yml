@@ -1,5 +1,5 @@
 ﻿l_english:
- major_decisions.1001.t:0 "Divine Flesh"
+ major_decisions.1001.t:0 "神の肉"
  major_decisions.1001.desc:0 "\"We were put upon this earth to serve our fellow man,\" [court_chaplain.GetCouncilTitle] [court_chaplain.GetNamePossessive] voice rings out over the dining hall. \"By accepting the gift of flesh you also accept [ROOT.Char.GetFaith.HighGodHerHis|U] love.\"\n\nThe servants — the ones that are still with us — have done a marvelous job; we feast well into the night, growing drunk on [ROOT.Char.Custom('RegionalDrink')] and the taste of human divinity."
  major_decisions.1001.a:0 "Give me a hand and pass me more [ROOT.Char.Custom('RegionalDrink')]!"
  major_decisions.1002.t:0 "狂喜乱舞"
@@ -59,7 +59,7 @@
  major_decisions.3001.a:0 "I have tamed sunlight!"
  major_decisions.3002.desc:0 "[builder.GetName] is truly mad! [builder.GetSheHe|U] has spent a fortune raising a building all in glass and proclaimed the sun tamed and caught.\n\nThe reports of flourishing plants are surely a product of [builder.GetHerHis] delusions. Will the charades of that mad[builder.GetWomanMan] ever end?!"
  major_decisions.3002.a:0 "This is getting ridiculous!"
- major_decisions.3100.t:0 "A Question of Succession"
+ major_decisions.3100.t:0 "継承問題"
  major_decisions.3100.desc:0 "The question of who shall succeed me after my death has plagued me ceaselessly of late, the threat of splitting the realm ever on my mind.\n\nOf course, while it is usually difficult to persuade the realm to accept a new order to the succession, it can be #EMP much#! easier to return to the old..."
  major_decisions.3100.a:0 "The ancient ways of my people were best!"
  major_decisions.3100.d:0 "Eh, on second thoughts, partition is fairer."

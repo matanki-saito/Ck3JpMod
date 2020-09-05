@@ -22,7 +22,7 @@
  councillor_spouse_intrigue.1004.t:1 "配偶者: 敵対対象への調査"
  councillor_spouse_intrigue.1004.desc:1 "[secret_holder.GetTitledFirstName] has been a pain, vocally supporting the [faction.GetName]. Thankfully, I seem about to get the upper hand.\n\nMy [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))] has discovered a closely guarded secret of [secret_holder.GetHerHis], [councillor.GetSheHe] tells me with a clever smile.\n\n\"I thought you might find it interesting, my dear...\""
  councillor_spouse_intrigue.1004.a:0 "少しの恐喝が[secret_holder.GetHerHim]の行儀をよくさせるだろう。"
- councillor_spouse_intrigue.1004.b:0 "これはずいぶんな醜聞だ！全国に知られるべきであろう！"
+ councillor_spouse_intrigue.1004.b:0 "これはずいぶんな醜聞だ！全領に知られるべきであろう！"
  councillor_spouse_intrigue.1004.c:0 "Sometimes it is best to wait with a winning hand."
  councillor_spouse_intrigue.1004.c.tt:1 "You do not yet reveal [secret_holder.GetFirstNamePossessiveNoTooltip] Secret"
  councillor_spouse_intrigue.1005.t:1 "Spouse: Divide and Conquer"

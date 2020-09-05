@@ -64,7 +64,7 @@
  pregnancy.2102.a:0 "[mother.GetSheHe|U] is no longer pregnant."
  pregnancy.3001.t:0 "Indiscretions"
  pregnancy.3001.opening:0 "As [mother.GetTitledFirstNamePossessive] belly grows, there can be no doubt. [mother.GetSheHe|U] is with child!"
- pregnancy.3001.lovers_love:0 "[mother.GetSheHe|U] has said nothing, but could this be the result of our love?"
+ pregnancy.3001.lovers_love:0 "[mother.GetSheHe|U]は何も言わなかったが、これは私たちの愛の結果なのだろうか？"
  pregnancy.3001.lovers_not_love:0 "[mother.GetSheHe|U]は何も言っていませんが、もしかして肉親関係の結果なのでしょうか？"
  pregnancy.3001.not_lovers:0 "[mother.GetSheHe|U] has said nothing, but could this be the result of our recent dalliance?"
  pregnancy.3001.a:0 "I must ask [mother.GetHerHim] about it myself."

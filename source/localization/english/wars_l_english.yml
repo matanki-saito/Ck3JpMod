@@ -77,7 +77,7 @@
  claim_cb_defeat_desc_attacker:1 "[defender.GetShortUIName|U] keeps the contested [title|E]. [claimant.GetShortUIName|U] loses [claimant.GetHerHis] [claim|E]."
  claim_cb_defeat_desc:1 "[defender.GetShortUIName|U] keeps the contested [title|E]. [attacker.GetShortUIName|U] loses [attacker.GetHerHis] [claim|E]."
  CB_CLAIM_COST_TARGET_TITLES:0 "Claimed Titles"
- CB_CLAIM_COST_GENDER_PREFERENCES:0 "Gender Preferences"
+ CB_CLAIM_COST_GENDER_PREFERENCES:0 "性別の設定"
  CB_CLAIM_COST_CLAIMANT_DIFFERENT_DYNASTY:0 "Claimant of Different Dynasty"
  CB_CLAIM_COST_CLAIMANT_DIFFERENT_HOUSE:0 "Claimant of Different House"
  CB_CLAIM_COST_CLAIMANT_DIFFERENT_RELIGION:0 "Claimant of Different [religion|E]"

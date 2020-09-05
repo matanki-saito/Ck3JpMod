@@ -4,7 +4,7 @@
  spouse.0001.a:0 "I am lucky to be with someone who understands me."
  spouse.0002.t:0 "The Things We Share"
  spouse.0002.desc:0 "The other day my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('first_spouse'))] [first_spouse.GetFirstName] mentioned that [first_spouse.GetSheHe] feels I am one of very few people who really understand [first_spouse.GetHerHim].\n\nI know exactly what [first_spouse.GetSheHe] means when [first_spouse.GetSheHe] says that."
- spouse.0002.a:0 "We are bound by more than only marriage."
+ spouse.0002.a:0 "私たちは結婚だけに縛られているのではない。"
  spouse.0003.t:0 "The Things We Do"
  spouse.0003.desc:0 "Sometimes I think that there is no one I would rather spend my time with than my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )] [spouse.GetFirstName]. Of all the things to do in this life, we enjoy so many of the same ones."
  spouse.0003.a:0 "Life can be shared in many ways."

@@ -1,6 +1,6 @@
 ﻿l_english:
- faith_creation.1001.t.schism:0 "The [reformed_faith.GetAdjectiveNoTooltip] Schism"
- faith_creation.1001.t.reformation:0 "The [reformed_faith.GetAdjectiveNoTooltip] Reformation"
+ faith_creation.1001.t.schism:0 "[reformed_faith.GetAdjectiveNoTooltip] の分裂(シスマ)"
+ faith_creation.1001.t.reformation:0 "[reformed_faith.GetAdjectiveNoTooltip]の改革"
  faith_creation.1001.desc.schism:0 "A new schism within [reformed_faith.GetReligion.GetName] has occurred as [reformer.GetTitledFirstName] and [reformer.GetHerHis] followers have split off from the [old_faith.GetAdjective] faith to form a new religious movement."
  faith_creation.1001.desc.reformation:0 "[reformer.GetTitledFirstName], a prominent figure amongst [reformed_faith.GetAdherentNamePlural], has gathered every [reformer.Custom('DefaultPriestTitle')] in the land together to discuss their beliefs and establish an official doctrine for the pagan faith."
  faith_creation.1001.desc.schism.personal:0 "The [old_faith.GetAdjective] [old_faith.AltPriestTermPlural] have lost their way and can no longer be trusted to guide us. To remedy this I have gathered a select group of [reformer.Custom('DefaultPriestTitlePlural')] together to discuss the future of our faith."
@@ -12,7 +12,7 @@
  faith_creation.1001.desc.outlook.fallback:0 "\n\nThese [reformed_faith.GetAdjectiveNoTooltip] [reformer.Custom('DefaultPriestTitlePlural')] have adopted a pragmatic and balanced view of other faiths and"
  faith_creation.1001.desc.belief.sacrifice:0 "claim that the only way to show proper devotion is by honoring [reformed_faith.HighGodName] with human sacrifices!"
  faith_creation.1001.desc.belief.indulgent:0 "encourage adherents to indulge in the desires of the flesh and live their lives to the fullest."
- faith_creation.1001.desc.belief.incest:0 "are sanctioning the marriages of close kin, claiming that the bonds of family are sacred and that such marriages are blessed."
+ faith_creation.1001.desc.belief.incest:0 "家族の絆は神聖であり、そのような結婚は祝福されていると主張して、近親結婚を是認している。"
  faith_creation.1001.desc.belief.aniconism:0 "reject the use of any and all religious symbolism, claiming that mere effigies cannot capture the greatness of [reformed_faith.HighGodName]."
  faith_creation.1001.desc.belief.ascetic:0 "are promoting asceticism among their followers, claiming that materialistic pursuits block the path to spiritual fulfillment."
  faith_creation.1001.desc.belief.spirits:0 "have requested the aid of the spirits to help guide the faithful through these turbulent times."

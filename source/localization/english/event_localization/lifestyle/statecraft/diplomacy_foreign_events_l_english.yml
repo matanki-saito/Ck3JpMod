@@ -105,7 +105,7 @@
  diplomacy_foreign_special.1023.desc:0 "I stayed in the hidden passage for the entirety of [foreign_guest.GetTitledFirstNamePossessive] and [interesting_relation.GetFirstNamePossessive] private meeting. My worries seem to have been entirely unfounded. No offers, no scheming, no seduction."
  diplomacy_foreign_special.1023.a:0 "What a relief!"
  diplomacy_foreign_special.1024.t:1 "$diplomacy_foreign_special.1017.t$: A Merry Old Time"
- diplomacy_foreign_special.1024.desc:0 "I have been in this hidden passage for hours now, listening to [foreign_guest.GetTitledFirstNamePossessive] and [interesting_relation.GetFirstNamePossessive] seemingly endless conversation. There is nothing suspicious about their words, more than an unnatural mutual affinity for someone you just met."
+ diplomacy_foreign_special.1024.desc:0 "[foreign_guest.GetTitledFirstNamePossessive]と[interesting_relation.GetFirstNamePossessive]の果てることの無い会話に耳を傾けながら、私は何時間もこの隠れた通路にいた。彼らの言葉には疑わしいものは何も無い。会ったばかりの誰かに対する不自然な相互関係以上のものはない。"
  diplomacy_foreign_special.1024.a:0 "There is no harm in this."
  diplomacy_foreign_special.1024.b:0 "This ends, right now!"
  diplomacy_foreign_special.1025.t:1 "$diplomacy_foreign_special.1017.t$: A Snake in My Bosom"

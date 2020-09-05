@@ -1,6 +1,6 @@
 ﻿l_english:
  available_because_of_dread_tt:0 "This option is available because of your [dread|E]"
- intrigue_lifestyle_perk_indication:2 "You might gain an [intrigue_lifestyle|E] [perk|E]"
+ intrigue_lifestyle_perk_indication:2 "あなたが[intrigue_lifestyle|E]の[perk|E]を得る可能性がある"
  intrigue_scheming_focus_point_clear_gain:0 "あなたの[intrigue_lifestyle|E]に関する理解が向上する"
  intrigue_scheming.1001.t:0 "[county.GetNameNoTierNoTooltip]'s Lament"
  intrigue_scheming.1001.desc:0 "\"We need those resources for the troops! If one small village in [county.GetNameNoTier] has to starve—\"\nThe heated argument between my councilors follows me out of the room, and [councillor.GetTitledFirstName], the representative from [county.GetNameNoTierNoTooltip], greets me with tired eyes as I approach."
@@ -57,7 +57,7 @@
  intrigue_scheming.1601.desc:0 "I would be lying if I said it was not a little pleasing to see the way [blackmailed_vassal.GetTitledFirstName] squirmed when I let [blackmailed_vassal.GetHerHim] know what I knew.\n\nTaking me aside in private, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('blackmailed_vassal'))] wants to know what [blackmailed_vassal.GetSheHe] can do about it."
  intrigue_scheming.1601.a:0 "A little gold goes a long way."
  intrigue_scheming.1601.b:0 "I have someone I want to impress..."
- intrigue_scheming.1601.c:0 "There is nothing to be done. I only want you to worry."
+ intrigue_scheming.1601.c:0 "何もすることはない。ただあなたに心配して欲しいだけだ。"
  intrigue_scheming.2001.t:0 "The Teacher"
  intrigue_scheming.2001.desc:0 "\"I have noticed your interest in the arts of... subterfuge, my [ROOT.Char.GetLadyLord]. I might be able to help you to learn even more.\"\n\nMy [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('future_mentor') )] [future_mentor.GetTitledFirstName] smiles [future_mentor.Custom('quirk_pos_adverb')] as [future_mentor.GetSheHe] joins me in the gardens. [future_mentor.GetSheHe|U] is as renowned as anyone with these sets of skills can get, and I #EMP would#! like to deepen my knowledge of intrigue."
  intrigue_scheming.2001.a:0 "\"Lead the way.\""

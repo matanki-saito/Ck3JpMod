@@ -66,7 +66,7 @@
  intrigue_dread.1501.b.tt1:0 "I manage to sneak and cajole my way into the kitchen"
  intrigue_dread.1501.b.tt2:0 "[cannibal_cook.GetSheHe|U] manages to keep the recipe secret"
  intrigue_dread.1501.c:0 "Rosemary with human flesh? Excellent choice!"
- intrigue_dread.1502.desc:0 "As I enter the kitchen it lies dark and empty, the air heavy with smoke. In a corner I find [cannibal_cook.GetTitledFirstNamePossessive] cookbook, covered in stains.\n\n#EMP When cooking liver, it has been noted that excessive beer consumption can significantly lower the quality of the organ-#!\nA cold feeling settles in my chest as I turn to another page.\n#EMP ...however, when cooking younger children beneath the age of-#!"
+ intrigue_dread.1502.desc:0 "私が台所に入ると、暗くて何もない、煙で空気が重くなっている。片隅に[cannibal_cook.GetTitledFirstNamePossessive]の料理本があり、シミだらけです。\n\n#EMP 肝臓を調理する際に、ビールの過剰摂取は臓器の質を著しく低下させることがあることが指摘されているー #!\nページをめくると胸に寒気がこみ上げてくる。\n#EMP ・・・ただし、以下の年齢以下の幼児を調理する場合はー #!"
  intrigue_dread.1502.a:0 "Bring me [cannibal_cook.GetHerHis] head!"
  intrigue_dread.1502.a.flavor:0 "Not on a platter though"
  intrigue_dread.1502.b:0 "Throw [cannibal_cook.GetHerHim] in the dungeon!"
