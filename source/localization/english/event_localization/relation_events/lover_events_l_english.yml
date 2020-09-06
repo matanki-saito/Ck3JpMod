@@ -126,7 +126,7 @@
  lover.3114.desc:0 "\"I am fond of you [ROOT.Char.GetFirstNameNoTooltip], but I am not ready to swear myself to you.\"\n\n[lover.GetTitledFirstName] [lover.Custom('quirk_neg_present')] as we lapse into an awkward silence."
  lover.3114.a:0 "How could I have read [lover.GetHerHim] so wrong?"
  lover.0304.opening:1 "My dear [ROOT.Char.GetFirstNameNoTooltip],"
- lover.0304.desc:0 "I never expected it would end this way, but here we are. I am sorry, but I love another. We can no longer be together.\n\nI wish you all the happiness in the world. May [ROOT.Char.GetFaith.HighGodName] watch over you."
+ lover.0304.desc:0 "こんな終わり方になるとは思ってもいませんでしたが、ここまで来ました。申し訳ありませんが、私は別の人を愛しています。私たちはもう一緒にはいられません。\n\nあなたの幸せを祈っています。[ROOT.Char.GetFaith.HighGodName]があなたを見守りますように。"
  lover.0304.a:0 "This is it, then?"
  lover.1001.t:0 "Rumor and Speculation"
  lover.1001.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('snoopy_lover') )], [snoopy_lover.GetTitledFirstName] gets to hear many things during [snoopy_lover.GetHerHis] comings and goings at court.\n\nLately [snoopy_lover.GetSheHe] has heard some very interesting stories about what my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('secret_holder') )] [secret_holder.GetTitledFirstName] does in the shadows..."

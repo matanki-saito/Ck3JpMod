@@ -358,7 +358,7 @@
  child_personality.3007.desc:0 "\"Be nice and work hard,\" my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))] [guardian.GetFirstName] keeps telling me. I do my best, but sometimes it is just too exhausting! Is it not smarter to cheat and lie a little bit to get what I want?!"
  child_personality.3007.a:0 "And everyone's so easy to trick, too!"
  child_personality.3007.message:0 "My [ROOT.Char.Custom2('RelationToMe',personality_child)] [personality_child.GetTitledFirstName] is both deceptive and sly!"
- child_personality.3008.t:0 "甘い笑顔とかわいい嘘"
+ child_personality.3008.t:0 "可愛い笑顔とちっちゃな嘘"
  child_personality.3008.desc:1 "ちょうど[personality_child.GetHerHis]の年の他の子供のように、私の[ROOT.GetCharacter.Custom2('RelationToMe' , personality_child)] [personality_child.GetTitledFirstName] は時々嘘をつき境界を試す。しかしながら[personality_child.GetSheHe]はしばしば[personality_child.GetHerHis]の愛らしい振る舞いで疑いを避け[personality_child.GetSheHe]を捕まえても、みんな[personality_child.GetHerHim]を許してしまう。\n\n私はちょうど今、 [personality_child.GetSheHe]がどれだけ逃げるのか知りたいと思った。"
  child_personality.3008.a:0 "これからも目が離せないなあ。"
  child_personality.3009.t:1 "Lost In Thought"

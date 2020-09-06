@@ -3,7 +3,7 @@
  SCHEME_AGENT_GOLD_VALID:0 "Pay [recipient.GetShortUINameNoTooltip] [gold_i] [SCOPE.ScriptValue('bribe_value')|V0]"
  SCHEME_HOOK:0 "[hook|e]を使う"
  SCHEME_TT_HEADER:0 "#T [SCHEME.GetFullActionName]#!"
- SCHEME_TT_BODY:1 "Target: [SCHEME.GetTarget.GetUIName]\nProgress: [SCHEME.GetProgress|0V]/#V 10#! (#V ~[SCHEME.GetEstimatedTimeRemaining]#!)\n[success_chance|E]: #V $SUCCESS_CHANCE$%#!"
+ SCHEME_TT_BODY:1 "ターゲット: [SCHEME.GetTarget.GetUIName]\n進捗度合: [SCHEME.GetProgress|0V]/#V 10#! (#V ~[SCHEME.GetEstimatedTimeRemaining]#!)\n[success_chance|E]: #V $SUCCESS_CHANCE$%#!"
  SCHEME_TT_SECRECY:0 "[secrecy|E]: #V $SECRECY$%#!"
  SCHEME_TT_EXPOSED:0 "#X 計画が暴露された#!"
  SCHEME_OWNER_NOT_EXPOSED:0 "Scheme Owner not exposed yet"

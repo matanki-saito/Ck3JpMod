@@ -255,7 +255,7 @@
  feast_default.6261.t:0 "$feast_header$ To Serve Man"
  feast_default.6261.desc_lunatic:0 "\"I have personally given a helping hand in preparation for the meal, and I hope the result will delight!\""
  feast_default.6261.desc_not_lunatic:0 "\"The cook's assistant gave his body and soul to prepare this meal, and I hope the result will delight!\""
- feast_default.6261.desc_cannibal_guest:0 "\n\nAs we sit down to eat, I cannot help but notice that my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('cannibal_guest'))] [cannibal_guest.GetTitledFirstName] especially seems to enjoy the food."
+ feast_default.6261.desc_cannibal_guest:0 "\n\n座って食事をしていると、特に[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('cannibal_guest'))][cannibal_guest.GetTitledFirstName]が料理を楽しんでいるような気がしてならない。"
  feast_default.6261.desc_concerned_guest:0 "\n\nAs we sit down to eat, however, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('concerned_guest'))] [concerned_guest.GetTitledFirstName] only pokes at the food placed in front of [concerned_guest.GetHerHim] and looks at me with suspicion."
  feast_default.6261.a_exposed:0 "It's almost as if [concerned_guest.GetSheHe] doesn't trust me!"
  feast_default.6261.a:0 "Let [concerned_guest.GetHerHim] suspect whatever [concerned_guest.GetSheHe] wants."

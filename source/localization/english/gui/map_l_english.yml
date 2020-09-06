@@ -21,7 +21,7 @@
  CHARACTER_AT_ACTIVITY:0 "Attending [ACTIVITY.GetName|V] in [PROVINCE.GetName|V]"
  CHARACTER_AT_ARMY:0 "Commanding [army|E] in [PROVINCE.GetName|V]"
  CHARACTER_TRAVEL_TO_LOCATION:0 "Traveling to [PROVINCE.GetName|V]"
- CHARACTER_IMPRISONED_AT:0 "[CHARACTER.GetUIName|V] in [PROVINCE.GetName|V]によって投獄された"
+ CHARACTER_IMPRISONED_AT:0 "[CHARACTER.GetUIName|V]により[PROVINCE.GetName|V]で投獄された"
  CHARACTER_AT_COURT_VISITING:1 "Visiting [CHARACTER.GetShortUINamePossessive|V] [court|E] in [PROVINCE.GetName|V]"
  CHARACTER_AT_COURT:1 "At [CHARACTER.GetShortUINamePossessive|V] [court|E] in [PROVINCE.GetName|V]"
  FORD_TOOLTIP:1 "Ford between $FROM$ and $TO$"

@@ -30,7 +30,7 @@
  feast_lifestyle.2001.a:0 "That will teach that [guest_victim.Custom('InsultAdjective')] [guest_victim.Custom('InsultNoun')]!"
  feast_lifestyle.2002.t:1 "$feast_header$ A Loose Tongue"
  feast_lifestyle.2002.desc_lover:0 "\"And with eyes like that... I mean, who am I to resist?\""
- feast_lifestyle.2002.desc_cannibal:0 "\"You can even tell if they were brawny in life by the texture of the meat. I remember a soldier I once ate—\""
+ feast_lifestyle.2002.desc_cannibal:0 "「肉の食感で、生きているうちに太っていたかどうかがわかる。私はかつて食べた兵士の事を覚えていますー」"
  feast_lifestyle.2002.desc_homosexual_male:0 "「そして私は彼が微笑むのを見た！その後、女性に満足してほしいと思うこと・・・」"
  feast_lifestyle.2002.desc_homosexual_female:0 "「そして彼女の笑顔を見た！その後、男に満足することを期待している・・・」"
  feast_lifestyle.2002.desc_ending:0 "\n\nAfter liberal amounts of drinks my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('guest_with_secret'))] [guest_with_secret.GetTitledFirstName] is leaning on our table, pouring both his heart and his drink out in front of me.\n\n\"Bringing me all these drinks, and listening to me go on and on... Thank you, [ROOT.Char.GetFirstNameNoTooltip]!\""

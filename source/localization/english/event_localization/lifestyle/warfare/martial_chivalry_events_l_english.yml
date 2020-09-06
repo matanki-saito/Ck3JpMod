@@ -1,6 +1,6 @@
 ﻿l_english:
  martial_chivalry.0001.t:0 "価値のない挑戦"
- martial_chivalry.0001.opening:0 "最初は単純なフットマンが練習場に足を踏み入れるなど愚かだと思っていました。"
+ martial_chivalry.0001.opening:0 "最初は独りのフットマンが練習場に足を踏み入れるなど愚かだと思っていました。"
  martial_chivalry.0001.hard_fight:0 "しかし、予想以上の激戦となり、次第に[duel_opponent.GetSheHe]が[duel_opponent.GetHerHis]の乱暴で凶暴な攻撃を止められないことが明らかになってきた。"
  martial_chivalry.0001.easy_fight:0 "\n\n[duel_opponent.GetTitledFirstName]は、最初は脅威ではないように見えましたが、[duel_opponent.GetSheHe]の方は、最初は脅威ではありませんでした。[duel_opponent.GetHerHis]の乱暴で凶悪な攻撃が私を傷つけるのを止めることができないことがすぐに明らかになった"
  martial_chivalry.0001.conclusion:0 "[duel_opponent.GetHerHim]の武装解除が突然死活問題になった。\n\nようやく[duel_opponent.GetHerHis]の剣が地面に落ちたとき、私は安堵の表情を見せないようにしていた。"
@@ -11,8 +11,8 @@
  martial_chivalry.0001.c:0 "I strike [duel_opponent.GetHerHim] down where [duel_opponent.GetSheHe] stands."
  martial_chivalry.0001.c.tt:0 "Decapitation in a single strike is a sure way of making an impression on the footmen — and the nobles — present."
  martial_chivalry.0002.t:0 "A Sudden Shock"
- martial_chivalry.0002.desc:0 "I have ridden, taken aim, and struck so many times I thought nothing could upset my rhythm. As I take yet another gallop down the practice range, a commotion I cannot fully see makes my horse rear up.\n\nFor an instant, momentum keeps me pinned to the back of the horse as it starts shaking. Then, as if time is flowing slow, I can feel myself becoming dislodged."
- martial_chivalry.0002.a:0 "Calm down, [ROOT.Char.Custom('RandomGirlBoy')]! Calm down!"
+ martial_chivalry.0002.desc:0 "これまで何度も馬に乗って、狙いをつけて、打ってきたが、自分のリズムを崩すものはないと思っていた。練習場をまたもや駆け足で走っていると、目に見えない騒ぎで馬が後ずさりした。\n\n一瞬、勢いに押されて馬が揺れ始め、後ろに引きつけられてしまう。そして、時間がゆっくりと流れているかのように、自分がはずれていくのを感じる。"
+ martial_chivalry.0002.a:0 "落ち着け、[ROOT.Char.Custom('RandomGirlBoy')]よ!落ち着け!"
  martial_chivalry.0002.increase_horse_mastery:1 "My mastery of horse riding increases, and with it my expertise in the [martial_lifestyle|E]."
  martial_chivalry.0002.b:0 "I dive for stable ground — better safe than sorry!"
  martial_chivalry.0003.t:0 "In Charge"

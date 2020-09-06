@@ -22,7 +22,7 @@
  pet_animal.0105.desc_lover:0 "\"... the love I hold for another...\""
  pet_animal.0105.desc_homosexual:0 "「・・・同じ性別の人々に対して感じる衝動...」"
  pet_animal.0105.desc_deviant:0 "\"... the deviancy I have committed...\""
- pet_animal.0105.desc_cannibal:0 "\"... for I have tasted the flesh of humans...\""
+ pet_animal.0105.desc_cannibal:0 "「・・・人間の肉を味わったから・・・」"
  pet_animal.0105.desc_murder_attempt:0 "\"... when I tried to end the life of another...\""
  pet_animal.0105.desc_non_believer:0 "\"... for I do not believe in [person.GetFaith.HighGodName]...\""
  pet_animal.0105.desc_incest:0 "\"... that I feel these urges towards someone in my own family...\""

@@ -165,7 +165,7 @@
  PAUSED_BY_UNPAUSE_ANYONE:0 "Anyone can unpause"
  PAUSED_BY_EVENT:0 "Automatically paused"
  PAUSED_BY_EVENT_TT:0 "Game is automatically paused. It will continue after all events are closed. The game can be set to manual pause"
- BOTTOMBAR_SCHEME_TOOLTIP:0 "#T Scheme: #!\n[Scheme.GetTooltip]"
+ BOTTOMBAR_SCHEME_TOOLTIP:0 "#T 策謀: #!\n[Scheme.GetTooltip]"
  INGAME_TOPBAR_MILITARY_STRENGTH:0 "#T Military strength#!:\n[InGameTopbar.GetStrengthTooltip]"
  VALUE_BREAKDOWN_NO_VALUES:0 "無し"
  VALUE_BREAKDOWN_NO_EXPENSES:0 "No Expenses"

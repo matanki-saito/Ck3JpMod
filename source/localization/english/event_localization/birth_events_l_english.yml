@@ -167,7 +167,7 @@
  birth.9002.religious_god.desc:0 "we should name [child.GetHerHim] [SCOPE.GetFlagName('name_suggestion')], in honor of the great god!\""
  birth.9002.religious_godess.desc:0 "we should name [child.GetHerHim] [SCOPE.GetFlagName('name_suggestion')], in honor of the great goddess!\""
  birth.9002.religious_apostle.desc:0 "we should name [child.GetHerHim] [SCOPE.GetFlagName('name_suggestion')], in honor of the pious apostle.\""
- birth.9002.religious_holy_virgin.desc:0 "we should name [child.GetHerHim] [SCOPE.GetFlagName('name_suggestion')], in honor of the holy virgin.\""
+ birth.9002.religious_holy_virgin.desc:0 "聖なる処女に敬意を表して、[child.GetHerHim][SCOPE.GetFlagName('name_suggestion')]と名付けよう。"
  birth.9002.religious_fallback.desc:0 "we should name [child.GetHerHim] after the glorious [SCOPE.GetFlagName('name_suggestion')]!\""
  birth.9002.lunatic.desc:0 "I have the greatest idea! We should name [child.GetHerHim] [SCOPE.GetFlagName('name_suggestion')]! Does [child.GetSheHe] not look like a little [SCOPE.GetFlagName('name_suggestion')]?\""
  birth.9002.creator.desc:0 "let us name our babe [SCOPE.GetFlagName('name_suggestion')], in honor of our Creator!\""

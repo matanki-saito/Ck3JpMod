@@ -119,7 +119,7 @@
  yearly.1030.a.secret_deviant.desc:0 "about [secret_character.GetTitledFirstNamePossessive] perversion!"
  yearly.1030.a.secret_homosexual.desc:0 "[secret_character.GetWomenMen]に対する[secret_character.GetTitledFirstNamePossessive]の欲望について！"
  yearly.1030.a.secret_murder_attempt.desc:0 "about [secret_character.GetTitledFirstNamePossessive] failed murder attempt against [secret_target.GetTitledFirstNameOrMe]!"
- yearly.1030.a.secret_cannibal.desc:0 "about [secret_character.GetTitledFirstNamePossessive] hunger for human flesh!"
+ yearly.1030.a.secret_cannibal.desc:0 "[secret_character.GetTitledFirstNamePossessive]が人肉を渇望していることについて！"
  yearly.1030.a.secret_lover.desc:0 "about the secret, carnal relationship between [secret_character.GetTitledFirstName] and [secret_target.GetTitledFirstName]!"
  yearly.1030.a.secret_murder.desc:0 "[secret_character.GetTitledFirstName] was the one behind [secret_target.GetTitledFirstNamePossessive] untimely death!"
  yearly.1030.a.secret_heretic.desc:0 "about [secret_character.GetTitledFirstNamePossessive] heretic ways!"

@@ -22,7 +22,7 @@
  religious_interaction.32.a:0 "Oh no!"
  religious_interaction.4.desc:0 "I have pondered your request and have decided to recognize your claim on the [target.GetName]."
  religious_interaction.4.child:0 "As [secondary_recipient.GetTitledFirstName] is a mere child, you are within your right to step in."
- religious_interaction.4.they_are_female:0 "As [secondary_recipient.GetTitledFirstName] is a woman, you are within your right to step in."
+ religious_interaction.4.they_are_female:0 "[secondary_recipient.GetTitledFirstName]は女性なので、あなたが介入する権利がある。"
  religious_interaction.4.they_are_male:0 "As [secondary_recipient.GetTitledFirstName] is a man, you are within your right to step in."
  religious_interaction.4.fallback:0 "There has come to light irrefutable proof that your ancestors did, indeed, rule the land in ancient times."
  religious_interaction.4.a:0 "I will prove myself a worthy ruler!"

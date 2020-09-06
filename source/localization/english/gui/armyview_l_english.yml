@@ -1,7 +1,7 @@
 ﻿l_english:
- SPLIT_ARMY_IN_HALF:0 "#T 半分に分割#!\nこの軍をほぼ等しい戦力に二分割する [armies|E]"
+ SPLIT_ARMY_IN_HALF:0 "#T 半分に分割#!\nこの[army|E]ををほぼ等しい戦力に二分割する [armies|E]"
  SPLIT_ARMY_IN_HALF_DISABLED:0 "\n$DESC$"
- SPLIT_ARMY_CUSTOM:1 "#T Split off new Army#!\nDetach [regiments|E] from this [army|E] in order to create a new one"
+ SPLIT_ARMY_CUSTOM:1 "#T 分割して新しい[army|E]を編成#!\n新しい[army|E]を作るために、この[army|E]から[regiments|E]を切り離す。"
  SPLIT_ARMY_CUSTOM_TWO:1 "#T Reorganize#!\nReorganize the regiments of two [armies|E]"
  SPLIT_ARMY_CUSTOM_DISABLED_TOO_MANY_SELECTED:0 "@warning_icon!#X Cannot reorganize more than two [armies|E]#!"
  SPLIT_ARMY_CUSTOM_DISABLED_TOO_FEW_SELECTED:0 "@warning_icon!#X Need two [armies|E] selected to reorganize#!"
@@ -99,7 +99,7 @@
  ARMY_TOTAL_SOLDIERS:0 "#T 総兵力:$CURRENT|0V$ / $MAX|0V$#!"
  ARMY_RAISED_SOLDIERS:0 "#T Raised Soldiers: $CURRENT|0V$/$MAX|0V$#!"
  ARMY_UNRAISED_SOLDIERS:0 "#T Unraised Soldiers: $CURRENT|0V$/$MAX|0V$#!"
- SPLIT_OFF_HIRED_AND_EVENT_TROOPS:0 "#T Split off [hired_troops|E] and [special_troops|E]#!\nSplit off an [army|E] containing all [hired_troops|E] and [special_troops|E] of this [army|E]."
+ SPLIT_OFF_HIRED_AND_EVENT_TROOPS:0 "#T [hired_troops|E]と[special_troops|E]を分割する#!\n[army|E]に含まれる全ての[hired_troops|E]と[army|E]の[special_troops|E]を分割する。"
  ARMY_VIEW_ARMY_HAS_EVENT_TROOPS:1 "#T [special_troops|E]\n#![ArmyWindow.BuildEventTroopList]"
  LEVIES_ARMY_REGIMENT_NAME:0 "徴募兵"
  TT_REORG_SOLDIERS:0 "#T Soldiers: [RegimentReorgEntry.GetSoldierCount]#!\nMaximum: [RegimentReorgEntry.GetMaxSoldierCount]"

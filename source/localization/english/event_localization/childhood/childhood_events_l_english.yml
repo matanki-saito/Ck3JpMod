@@ -153,7 +153,7 @@
  childhood.1011.a:0 "[crush_returned.GetTitledFirstName], I think I like you."
  childhood.1011.b:0 "[crush_returned.GetSheHe|U] is getting on my nerves."
  childhood.1012.t:0 "Harsh Punishment"
- childhood.1012.desc:0 "I know I have been struggling with my studies recently, and I know that my [guardian_parent.Custom('MotherFather')] is disappointed in me. What I never expected was for [guardian_parent.GetHerHim] to go so far as to take my favorite toy, my dear [ROOT.Char.Custom('child_favorite_toy')], away from me!\n\n"
+ childhood.1012.desc:0 "最近勉強が苦手で、[guardian_parent.Custom('MotherFather')]にがっかりされているのは知っていますが、[guardian_parent.GetHerHim]が、私のお気に入りのおもちゃ、[ROOT.Char.Custom('child_favorite_toy')]をここまで持っていくとは思いませんでした！\n\n"
  childhood.1012.desc2:0 "The worst thing is that [guardian_parent.GetSheHe] seemed indifferent to my distress."
  childhood.1012.desc3:0 "The worst thing is that [guardian_parent.GetSheHe] seemed to enjoy my distress."
  childhood.1012.a:0 "[guardian_parent.GetSheHe|U] can be so cruel!"

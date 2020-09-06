@@ -224,7 +224,7 @@
  yearly.8000.e.tt_eat_vassal:0 "Is eaten by you"
  yearly.8000.e.tt_secret:0 "You get a Murder secret"
  yearly.8100.t:0 "Ecstatic Peasantry"
- yearly.8100.desc:0 "The peasants in the [county.GetName] are in a good mood. The harvest is bountiful, the roads are safe, and the village elders are telling nonsensical stories of cows producing honey-laden milk and geese laying golden eggs.\n\nThe peasants are praising #emphasis me#! for their fortune, and have sent a delegation carrying gifts!"
+ yearly.8100.desc:0 "[county.GetName]の農民は機嫌がいい。収穫は豊作で、道は安全で、村の長老たちは牛が蜂蜜入りの乳を出したり、金の卵を産むガチョウのようなありえない物語を話している。\n\n農民たちは#emphasis 私#!を称賛している！その彼らの幸運のために贈り物を持った代表団を贈ってきた！"
  yearly.8100.a:0 "I graciously accept their gifts!"
  yearly.8100.b:0 "Intriguing... send soldiers to collect more 'gifts!'"
  yearly.8100.c:0 "No, they need their surplus more than I do."

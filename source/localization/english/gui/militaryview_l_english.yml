@@ -9,7 +9,7 @@
  DISBAND_NO_DISBANDABLE_ARMIES:0 "@warning_icon!#X 解散できる軍勢はありません#!"
  DISBAND_ALL_CONFIRM_TITLE:0 "Disband all Armies"
  DISBAND_ALL_CONFIRM:0 "招集されたすべての[armies|E]は解散されるでしょう。"
- DISBAND_ALL_CONFIRM_ACCEPT:0 "Disband All"
+ DISBAND_ALL_CONFIRM_ACCEPT:0 "すべて解散"
  LEVIES_LABEL:1 "[levies|E]"
  LEVIES_MAX:0 "$RAISE_MAX|V$"
  LEVIES_NOT_MAX:0 "$CURRENT|V$/$RAISE_MAX|V$"

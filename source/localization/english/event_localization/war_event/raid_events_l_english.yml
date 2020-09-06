@@ -1,5 +1,5 @@
 ﻿l_english:
- raiding.0002.t:0 "Fire and Blood"
+ raiding.0002.t:0 "火と血"
  raiding.0002.desc:0 "The settlement of [sacked_barony.GetNameNoTierNoTooltip], an important stronghold in greater [sacked_county.GetNameNoTierNoTooltip], has fallen to my raiders. We have the run of vast tracts of land, and many of the quivering subjects and shining treasures of [sacked_county_owner.GetTitledFirstName] to choose from.\n\nThe troops stand ready, awaiting my command to give them direction."
  raiding.0002.a:0 "Capture skilled slaves for [raider_capital.GetNameNoTooltip]!"
  raiding.0002.b:0 "Bring me bounteous plunder!"

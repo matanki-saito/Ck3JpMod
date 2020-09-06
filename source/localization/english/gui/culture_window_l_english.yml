@@ -43,7 +43,7 @@
  INNOVATION_REGIMENT_TYPE_BONUS:0 "$NAME$ bonus:"
  INNOVATION_TOOLTIP_PROGRESS:0 "Progress: [CultureInnovation.GetProgress|0V]/100"
  INNOVATION_STATE_DISCOVERED:0 "Known to the [CULTURE.GetCollectiveNoun]"
- INNOVATION_STATE_PROGRESSING:0 "$TIME|V$ 年頃に発見される見込み"
+ INNOVATION_STATE_PROGRESSING:0 "$TIME|V$ 後に発見される見込み"
  INNOVATION_STATE_BLOCKED:0 "Not available to the [CULTURE.GetCollectiveNoun]"
  INNOVATION_CLICK_TO_SELECT_FASCINATION:0 "#I クリックで[cultural_fascination|E]を選択#!"
  INNOVATION_EXPOSURE_MARKER_TOOLTIP:0 "#T Current [exposure|E]#!\nThis [culture|E] is currently being exposed to an [innovation|E], boosting its progress."

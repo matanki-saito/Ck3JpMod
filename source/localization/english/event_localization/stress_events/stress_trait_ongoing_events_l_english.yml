@@ -80,7 +80,7 @@
  stress_trait_ongoing.4501.a:0 "Take these coins. Whatever it takes, Get me my food!"
  stress_trait_ongoing.4501.b:0 "Do you have #EMP anything#! on hand that can satisfy my cravings?"
  stress_trait_ongoing.4501.b.success:0 "You discover a new favorite dessert"
- stress_trait_ongoing.4501.b.cannibal:0 "You develop a taste for human flesh"
+ stress_trait_ongoing.4501.b.cannibal:0 "あなたは人肉の味を開拓する"
  stress_trait_ongoing.4501.b.failure:0 "Your craving goes unsatisfied"
  stress_trait_ongoing.4501.c:0 "Ugh... I guess I just need to go without."
  stress_trait_ongoing.4502.t:0 "The Hunger"
