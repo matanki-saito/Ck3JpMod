@@ -43,7 +43,7 @@
  HOLDING_TT_TITLE:0 "[title|E]: [Holding.GetProvince.GetTitle.GetName]"
  HOLDING_TT_LEASED:0 "[lessee|E]: [Holding.GetProvince.GetTitle.GetLessee.GetUIName]"
  HOLDING_TT_HOLDER:1 "[holder|E]: [Holding.GetProvince.GetTitle.GetHolder.GetUIName]"
- HOLDING_TT_TYPE:0 "Type: [Holding.GetType.GetName|V]"
+ HOLDING_TT_TYPE:0 "種類: [Holding.GetType.GetName|V]"
  HOLDING_TT_TERRAIN:0 "[terrain|E]: [Holding.GetProvince.GetTerrain.GetNameNoTooltip]"
  HOLDING_TT_SUPPLY_TT:0 "#T [supply_limit|E]: [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]\n#![Holding.GetProvince.GetSupplyLimitDescFor( GetPlayer )]"
  HOLDING_TT_SUPPLY:0 "[supply_limit|E]: #tooltip:HOLDING_TT_SUPPLY_TT [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]#!"

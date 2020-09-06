@@ -1,8 +1,8 @@
 ﻿l_english:
- marshal_task.0301.t:0 "Commander Promoted"
- marshal_task.0301.desc:0 "My [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has been showing off a promising new recruit.\n\n\"[commander.GetSheHe|U] may not be of as noble stock as you, my [councillor.Custom2('RelationToMe', ROOT.Char)], but on my name I swear that [commander.GetTitledFirstName] is someone you would want on your side.\""
- marshal_task.0301.a:0 "Very well, [commander.GetFirstNameNoTooltip] shall serve me."
- marshal_task.0301.b:0 "Get this dreg out of my [ROOT.Char.Custom('ResidenceBuilding')]!"
+ marshal_task.0301.t:0 "指揮官への昇格"
+ marshal_task.0301.desc:0 "私の[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が有望な新兵を見せてくれた。\n\n「[commander.GetSheHe|U]は我が[councillor.Custom2('RelationToMe', ROOT.Char)]のような高貴なお生まれではないかもしれませんが...我が名に誓います！[commander.GetTitledFirstName]はあなたのお側で仕えるべき者です。」"
+ marshal_task.0301.a:0 "よいだろう、出自は問わん。[commander.GetFirstNameNoTooltip]は私の側で仕えるべきだ。"
+ marshal_task.0301.b:0 "我が[ROOT.Char.Custom('ResidenceBuilding')]からこの下賤の輩をつまみ出せ！"
  marshal_task.0302.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
  marshal_task.0302.desc:1 "I have seen [commander.GetTitledFirstName] display a propensity for [commander.Custom('CommanderTraitSkillDescription')]."
  marshal_task.0302.desc.known:0 "It is one of my specialties, and I could teach [commander.GetHerHim] how to best make use of these skills."

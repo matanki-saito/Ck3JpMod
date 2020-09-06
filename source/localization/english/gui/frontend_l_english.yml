@@ -14,7 +14,7 @@
  CREDITS:0 "クレジット"
  QUIT:0 "終了"
  FRONTEND_NO_CONTINUE_TT:0 "No Save Game found"
- FRONTEND_CONTINUE_TT:1 "#T Continue From Save Game\n#!\"[SaveGameItem.GetName]\"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetString|V]\n[Select_CString( SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"
+ FRONTEND_CONTINUE_TT:1 "#T セーブゲームを再開\n#! \"[SaveGameItem.GetName]\"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetString|V]\n[Select_CString( SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"
  LOAD_SAVE_ITEM_DATE:0 "Date: [SaveGameItem.GetDate.GetString]"
  LOAD_SAVE_ITEM_FILENAME:0 "Filename: [SaveGameItem.GetName]"
  LOAD_SAVE_ITEM_SAVE_TIME:0 "Last Played: [SaveGameItem.GetLastPlayed]"

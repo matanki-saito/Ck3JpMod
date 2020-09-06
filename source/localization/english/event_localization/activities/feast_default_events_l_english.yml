@@ -232,7 +232,7 @@
  feast_default.6101.c:0 "[troubled_guest.GetFirstNameNoTooltip]! I need to talk to you. In private."
  feast_default.6101.c.tt:0 "We could both use a break..."
  feast_default.6111.t:0 "$feast_header$ The Conversation Partner"
- feast_default.6111.desc:0 "As one plate of food is replaced by the next, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_talk_to'))] [guest_to_talk_to.GetTitledFirstName] goes on and on about [guest_to_talk_to.Custom('subject_of_interest')].\n\n\"...and that was how we salvaged that mess! Are you sure I am not boring you, my [ROOT.Char.GetLadyLord]?\""
+ feast_default.6111.desc:0 "料理の一皿が次の皿に入れ替わると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_talk_to'))] [guest_to_talk_to.GetTitledFirstName]は、[guest_to_talk_to.Custom('subject_of_interest')]のことを延々と語っていきます。\n\n\".........そうして、我々はあの窮地から助け出されたのです！退屈させては居ませぬか、我が[ROOT.Char.GetLadyLord]？"
  feast_default.6111.a:0 "No no, please, do go on!"
  feast_default.6111.b:0 "Why don't we talk more about you instead?"
  feast_default.6111.c:0 "You making a fool of yourself could never bore me!"
