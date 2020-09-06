@@ -104,7 +104,7 @@
  martial_strategy.3014.desc:0 "\n\n[my_liege.GetTitledFirstName] has combined my ideas with [other_commander.GetFirstNamePossessive], merging them into a single cohesive strategy that will give us a significant advantage on the battlefield!"
  martial_strategy.3014.a.disapprove:0 "Despite [my_liege.GetFirstNamePossessiveNoTooltip] failings, [my_liege.GetSheHe] is a skilled general."
  martial_strategy.3014.a:0 "I am impressed by [my_liege.GetTitledFirstNamePossessiveNoTooltip] plan."
- martial_strategy_special.1301.t:0 "Under Siege"
+ martial_strategy_special.1301.t:0 "包囲下にて"
  martial_strategy_special.1301.desc:0 "\"The true enemy of every soldier is complacency,\" [siege_proposer.Custom2('MyCharacterIntroduction', ROOT.Char)] says and [siege_proposer.Custom('quirk_pos_present')]. We are standing side by side up on the [ROOT.Char.Custom('FortifiedBuilding')]'s walls, looking down on the soldiers conducting drills below.\n\n\"We could exchange the [ROOT.Char.Custom('FortifiedBuilding')]'s gate for planks of wood, and dull the arrows in the troops' quivers,\" [siege_proposer.GetSheHe] continues. \"Lead the soldiers in a mock-charge against the [ROOT.Char.Custom('FortifiedBuilding')], and see how well they do in action!\""
  martial_strategy_special.1301.a:0 "Our time is better spent improving our defenses."
  martial_strategy_special.1301.b:0 "Good idea. You should lead the defenders!"

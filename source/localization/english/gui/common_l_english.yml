@@ -21,7 +21,7 @@
  OK_BUTTON:0 "OK"
  CANCEL_BUTTON:0 "キャンセル"
  GO_TO_CLICK:0 "クリックで所在地に移動"
- GO_TO_RIGHT_CLICK:0 "Right-click to go to location"
+ GO_TO_RIGHT_CLICK:0 "右クリックして場所に移動"
  VIEW_CLICK:0 "クリックで表示"
  COA_LINE_OF_SUCCESSION:0 "[line_of_succession|E]:\n"
  COA_TOOLTIP_HOLDER:1 "[GetPlayer.Custom2_Title( 'TitleRelationToMe', TITLE.Self )][TITLE.GetLeaseInfo][holder|E]: [TITLE.GetHolder.GetFullNameNicknamed]\n[SelectLocalization(DataModelHasItems(TITLE.GetLineOfSuccession), 'COA_LINE_OF_SUCCESSION', '')][TITLE.GetLineOfSuccessionDesc]\n"

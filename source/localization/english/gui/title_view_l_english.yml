@@ -116,7 +116,7 @@
  TV_NO_CLAIM:1 "#weak You have no [claim|E] on this Title#!"
  TV_NOT_CREATED:0 "#weak まだ称号を作成できません#!"
  TV_MY_TITLE:1 "#weak Your Title#!"
- TITLE_VIEW_CANT_HAVE_CLAIMS:0 "#weak Can not have claims on this [title|E]#!"
+ TITLE_VIEW_CANT_HAVE_CLAIMS:0 "#weak この[title|E]に対する要求はできません #!"
  TITLE_VIEW_CANT_HAVE_CLAIMS_TT:0 "It is impossible to have claims on titles for [mercenary_company|E], [holy_orders|E], [baronies|E] and [head_of_faith|E]"
  TITLE_ALLEGIANCE_VASSAL_LIST:0 "Vassals Swearing [title_allegiance|E]"
  TITLE_VIEW_SUCCESSION:0 "Line of Succession"

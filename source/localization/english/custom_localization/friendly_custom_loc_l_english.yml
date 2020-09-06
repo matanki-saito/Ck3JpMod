@@ -1,3 +1,3 @@
 ﻿l_english:
- bows_deeply_to_firstname_or_me:0 "bows deeply to [ROOT.GetCharacter.GetFirstNameOrMe]"
- clasps_firstnamepossessive_or_my_hands:0 "clasps [ROOT.GetCharacter.GetFirstNamePossessiveOrMy] hands"
+ bows_deeply_to_firstname_or_me:0 "[ROOT.GetCharacter.GetFirstNameOrMe]に深々と頭を下げる"
+ clasps_firstnamepossessive_or_my_hands:0 "[ROOT.GetCharacter.GetFirstNamePossessiveOrMy]の手を叩く"

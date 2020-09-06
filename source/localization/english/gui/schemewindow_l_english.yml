@@ -15,7 +15,7 @@
  SCHEME_COOLDOWN_INFO:0 "You cannot start another [SCHEME.GetSchemeType.GetTypeName] against [SCHEME.GetTarget.GetHerHim] for $TIME|V$."
  SCHEME_WINDOW_PROGRESS_TOOLTIP:0 "#T [SchemeItem.GetProgressDescription]#! \n[Scheme.GetChangeDesc]"
  SCHEME_WINDOW_INVITE_TOOLTIP:0 "#T Invite Agents to Scheme#!\n[SchemeItem.GetNumberOfPotentialOwnerAgents|V] Characters could be convinced to join"
- SCHEME_WINDOW_NOT_OWNED_SCHEMES:1 "No #high [SkillSchemeGroup.GetTypeName]#! [scheme|E] in progress\nStart one by interacting with another Character"
+ SCHEME_WINDOW_NOT_OWNED_SCHEMES:1 "進行中の#high [SkillSchemeGroup.GetTypeName]#![scheme|E]はありません\n他のキャラクターとの関係行動を通して開始してください"
  SCHEME_WINDOW_NOT_KNOWN_SCHEMES:0 "#weak まだ露見した[schemes|E]はありません#!"
  SCHEME_WINDOW_UNKNOWN_OWNER_TOOLTIP:0 "The owner of this Scheme is unknown"
  SCHEME_WINDOW_TT_POWER:0 "$POWER|1V$ [scheme_power|E]"

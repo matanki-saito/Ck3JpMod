@@ -27,7 +27,7 @@
  stewardship_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように管理に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
  stewardship_neutral_trait_match_bad_outcome:0 "長い間[ROOT.Char.GetFirstName]には管理の手法について学ぶための十分な教育を与えたいと望んでいた。だが、全ての努力は無駄になった。"
  intrigue_good_trait_match_good_outcome:0 "Always the clever child, [ROOT.Char.GetFirstName] proved time and time again over the course of [ROOT.Char.GetHerHis] studies that [ROOT.Char.GetSheHe] had a natural affinity for careful planning and more than a little misdirection."
- intrigue_good_trait_match_bad_outcome:0 "Despite having had more than a fair share of experience with lying as a child, [ROOT.Char.GetFirstName] always found it difficult to apply that kind of creativity in any structured fashion."
+ intrigue_good_trait_match_bad_outcome:0 "子どもの頃に嘘をついた経験がかなりあるにもかかわらず、[ROOT.Char.GetFirstName]はその種の創造性を体系的に適用するのは難しいと常日ごろ感じていた。"
  intrigue_bad_trait_match_good_outcome:0 "Despite being an introverted child, often lost in thought, [ROOT.Char.GetFirstName] has been developing a penchant for the art of manipulation."
  intrigue_bad_trait_match_bad_outcome:0 "As a quiet and reclusive child, [ROOT.Char.GetFirstName] never showed much interest in getting [ROOT.Char.GetHerHis] way."
  intrigue_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように注意深い計画に関してあまり知らなかった子供でも、本当に理解することができるようになる。"

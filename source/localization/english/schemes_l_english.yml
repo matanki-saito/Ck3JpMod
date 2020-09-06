@@ -36,7 +36,7 @@
  COURT_SUCCESS_DESC:0 "You gain [prestige|E] and [TARGET_CHARACTER.GetShortUIName] may become your Soulmate"
  CONVERT_TO_WITCHCRAFT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName|U] becomes a Witch"
  SEDUCE_SUCCESS_DESC:1 "[TARGET_CHARACTER.GetShortUIName|U]があなたの[lover|E]になる"
- SWAY_SUCCESS_DESC:1 "[TARGET_CHARACTER.GetShortUINamePossessive] [opinion|E] of you will increase by #P [GetNamedValue('sway_opinion_increase_per_success')]#!"
+ SWAY_SUCCESS_DESC:1 "あなたの[TARGET_CHARACTER.GetShortUINamePossessive]の[opinion|E]が #P [GetNamedValue('sway_opinion_increase_per_success')] #! になります"
  CLAIM_THRONE_SUCCESS_DESC:1 "[TARGET_CHARACTER.GetPrimaryTitle.GetName]の[pressed_claim|E]を得ます"
  CLAIM_THRONE_DISCOVERY_DESC:2 "You avoid losing a large amount of [prestige|E]"
  SCHEME_I_AM_COUNCILLOR_OF_TARGET:1 "You serve on [target.GetShortUINamePossessive] [council|E]: $VALUE|+=0$"

@@ -20,7 +20,7 @@
  declared_major_religious_war_flag_tt:0 "You may only attempt one major religious war per lifetime"
  DEBUG_WAR_NAME:1 "#D (DEBUG)#! [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Debug War for the [TITLE.GetBaseName]"
  DEBUG_WAR_NAME_FALLBACK:0 "#D (DEBUG)#! Debug War"
- WAR_BREAKING_TRUCE:0 "@warning_icon!#X Declaring War will break the [truce|E]!#!"
+ WAR_BREAKING_TRUCE:0 "@warning_icon! #X 宣戦布告をすると[truce|E]を破ることになります！#!"
  WAR_BREAKING_ALLIANCE:0 "@warning_icon!#X Declaring War will break the [alliance|E]!#!"
  WAR_ATTACKER_FAITH_MIGHT_JOIN:0 "Fellow [GetPlayer.GetFaith.GetAdherentNamePlural] might join the war on our side#!"
  WAR_DEFENDER_FAITH_MIGHT_JOIN:0 "@warning_icon!#X Other [Character.GetFaith.GetAdherentNamePlural] might join the war on [Character.GetUINamePossessive] side#!"

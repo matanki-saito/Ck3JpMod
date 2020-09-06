@@ -50,7 +50,7 @@
  learning_medicine.2021.b:0 "A trained medical [physician.GetWomanMan] is always welcome."
  learning_medicine.2021.b.tt:0 "You decline the fertility treatment"
  learning_medicine.2021.c:0 "I have no such #EMP issues!#!"
- learning_medicine.2022.t:0 "Issues of Fertility"
+ learning_medicine.2022.t:0 "生殖能力の問題"
  learning_medicine.2022.old_physician.desc:0 "I have seen [physician.GetTitledFirstName] handle everything from leeches to rotting bodies, but the discomfort on [physician.GetHerHis] face is something entirely new.\n\n\"As your physician, I am the guardian of your health,\" [physician.GetSheHe] says, staring down at [physician.GetHerHis] shoes. \"That also includes your... #EMP reproductive#! health. I could make a tincture that might help you and your [spouse.Custom('WifeHusband')]. I have also read about some experimental treatments with promising results.\""
  learning_medicine.2022.new_physician.desc:0 "I wanted to give my new physician time to settle in, but mere hours after [physician.GetHerHis] arrival, [physician.GetFirstName] bursts into my office with a great case in tow. [physician.GetSheHe|U] heaves it on top of my desk with an unsettling #EMP clank#!.\n\n\"You and your [spouse.Custom('WifeHusband')] have several options, my [ROOT.Char.GetLadyLord]. There are tinctures which are tried and true — but I also have some experimental treatments under development.\""
  learning_medicine.2022.b:0 "A simple tincture seems sensible."

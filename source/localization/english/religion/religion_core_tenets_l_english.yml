@@ -2,7 +2,7 @@
  doctrine_core_tenets_name:0 "教義:"
  tenet_communion_name:0 "聖餐"
  tenet_communion_desc:0 "我々の儀式は単なる象徴的なものではない―神の存在そのものを呼び起こすものである。実際に我々の儀式に参加できない、もしくは参加しない人々は、真の信者ではない。"
- doctrine_parameter_seek_indulgences_active:1 "Characters may #V Seek Indulgences#! from their [head_of_faith|E] to pay [gold|E] in exchange for [piety|E]"
+ doctrine_parameter_seek_indulgences_active:1 "[gold|E]を払うことで[piety|E]を得るために、キャラクターは[head_of_faith|E]から#V 贖宥状を買い求める#!かもしれません。"
  doctrine_parameter_seek_indulgences_active_2:0 "Characters who have committed [criminal|E] acts may #V Seek Indulgences#! to gain forgiveness for them instead"
  doctrine_parameter_excommunication_active:0 "Spiritual [heads_of_faith|E] may [excommunicate|E] other characters of their [faith|E]"
  tenet_excommunicated:0 "[GetTrait('excommunicated').GetName( GetNullCharacter )]"

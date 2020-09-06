@@ -76,7 +76,7 @@
  diplomacy_family.0011.a:0 "I give up..."
  diplomacy_family.2101.t:0 "The Quarrel"
  diplomacy_family.2101.desc:0 "[family_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been quarreling with [family_2.Custom2('HerHisCharacterIntroduction', family_1)] for days. Just now I can overhear them arguing in the next room over...\n\n\"Unbelievable!\" [family_1.GetFirstName] shouts, \"How can a [family_2.Custom('InsultNoun')] like you believe you are the ideal manifestation of [ROOT.Char.GetDynastyName] family virtues!? I am clearly #EMP far#! more deserving of that distinction than you are!"
- diplomacy_family.2101.a:0 "No fighting in the family!"
+ diplomacy_family.2101.a:0 "家族で争うな!"
  diplomacy_family.2101.a.tt:1 "You enter the room to break up their fight"
  diplomacy_family.2101.b:0 "Let them sort their quarrels in peace."
  diplomacy_family.2102.desc:0 "As I walk into the room [family_1.GetFirstName] turns to face me. \"I am glad you are here, [ROOT.Char.GetFirstNameNoTooltip]. Won't you please talk some sense into [family_2.Custom2('YourCharacterIntroduction', ROOT.Char)]? [family_2.GetSheHe|U] is being completely unreasonable!"

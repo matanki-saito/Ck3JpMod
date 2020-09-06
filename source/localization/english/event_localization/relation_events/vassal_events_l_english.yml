@@ -153,7 +153,7 @@
  vassal.3003.a:0 "[spouse.GetTitledFirstName]! Meet me in our chambers!"
  vassal.3003.b:0 "Am I cursed to live a childless life?"
  vassal.3003.spouse:0 "I will send [spouse.GetHerHim] right away!"
- vassal.3003.spouse.tt:0 "Increased Fertility"
+ vassal.3003.spouse.tt:0 "出生率の増加"
  vassal.3003.c:0 "Yes, some personal tutoring might help."
  vassal.3003.d:0 "The audacity!"
  vassal.3004.desc_spouse:0 "The efficiency of my private lesson with [spouse.GetTitledFirstName] can be questioned, but [spouse.GetSheHe] definitely voiced no complaints.\n\nIf [spouse.GetHerHis] [spouse.Custom2('RelationToMe', SCOPE.sC('liege_with_trouble'))] is lucky, [spouse.GetSheHe] picked up a thing or two...!"

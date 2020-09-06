@@ -8,7 +8,7 @@
  court_chaplain_task.0301.b:0 "いや、止めよう。"
  court_chaplain_task.0301.b.tt:0 "Lose all Fabricate Claim progress"
  court_chaplain_task.0302.desc:1 "私は大昔の... 出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができるだけの証拠を取り揃えました。\n\nそれどころか、[duchy.GetName]の[ROOT.Char.GetLadyLord|U]であると公言することも出来ます!"
- court_chaplain_task.0302.desc_heretic_addition:0 "I have prowled through documents both ancient and of... less certain provenance. I finally have enough material to make the case that you are the rightful [ROOT.Char.GetLadyLord|U] of the [county.GetName].\n\nSeeing as [duchy_holder.GetFirstName] unfortunately insists on being #EMP [duchy_holder.GetFaith.GetAdherentName]#!, I could even argue that you have a claim to the [duchy.GetName] – by divine right!"
+ court_chaplain_task.0302.desc_heretic_addition:0 "私は大昔の... 出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができるだけの証拠を取り揃えました。\n\n拝見したところによると生憎ですが[duchy_holder.GetFirstName]が#EMP [duchy_holder.GetFaith.GetAdherentName]#!であると言い放つのと同じように、御主君が[duchy.GetName]への請求権が持つこと論じることができますね - 神の恩寵によって！"
  court_chaplain_task.0302.a:0 "Present my claim on [county.GetNameNoTierNoTooltip]."
  court_chaplain_task.0302.b:0 "Yes! All of [duchy.GetNameNoTierNoTooltip] will be mine!"
  court_chaplain_task.0311.t:0 "A Claim on [county.GetNameNoTierNoTooltip]!"

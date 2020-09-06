@@ -35,7 +35,7 @@
  sibling.1002.b:0 "I refuse to owe you anything, [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )]."
  sibling.1003.t:0 "Secrets and Whispers"
  sibling.1003.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], has offered to pass me messages about what goes on at my court.\n\n\"A true loyalist among the nobility would be beneficial for you...\""
- sibling.1003.a:0 "Familial bonds are the only ones I can truly trust."
+ sibling.1003.a:0 "本当に信頼できるのは家族の絆だけだ。"
  sibling.1003.b:0 "You think I trust you, [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )]?"
  sibling.1004.t:0 "The Flow of Gold"
  sibling.1004.desc:0 "Looking over the work of my treasurers, my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], had to laugh.\n\n\"[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )|U], please allow me to show them how it's done.\""
