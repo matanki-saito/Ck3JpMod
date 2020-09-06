@@ -39,7 +39,7 @@
  MAA_TT_RETURN_COST:0 "Return: $COST|$"
  MAA_TT_MAINTENANCE:0 "Maintenance: $COST$/month"
  MAA_TT_WILL_DESTROY:0 "This will destroy the Regiment"
- MAA_BASE_TYPE:0 "Category: $TYPE|V$"
+ MAA_BASE_TYPE:0 "兵種: $TYPE|V$"
  MAA_CHUNK_SIZE:0 "[soldiers|E]: $VALUE|V$"
  CREATE_MAA_HEADER:0 "#T Create [REGIMENT_TYPE.GetNameNoTooltip|V] Regiment#!"
  CANT_CREATE_MAA_AT_CAP:0 "@warning_icon!#X At [men_at_arms|E] Regiment Limit#!"

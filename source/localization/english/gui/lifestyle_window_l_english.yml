@@ -22,7 +22,7 @@
  CHOOSE_FOCUS_CONFIRM_TITLE:0 "[FOCUS.GetName]を選択"
  CHOOSE_FOCUS_CONFIRM_DESC:0 "[FOCUS.GetDescription( GetPlayer.GetID )]\n[FOCUS.GetEffectDescription]\n\n[FOCUS.GetLifestyle.GetName]経験値: [FOCUS.GetGainAmount( GetPlayer )|P0]/月\n[FOCUS.GetGainBreakdown( GetPlayer )]\n\n[GetGameTimeDifferenceForDiffMonths( GetDefine('NCharacter', 'FOCUS_ADULT_COOLDOWN_MONTHS'), '(bool)yes' )]毎に変更できます。"
  CHOOSE_FOCUS_CONFIRM_ACCEPT:0 "選択"
- PERK_POINTS_NEEDED:0 "@warning_icon!#X No [PERK.GetLifestyle.GetName] #underline [perk]#! unlock available"
+ PERK_POINTS_NEEDED:0 "@warning_icon!#X この[PERK.GetLifestyle.GetName] #underline [perk]#! はまだ解禁できません"
  PERK_ALREADY_UNLOCKED:1 "@warning_icon!#X You already have [PERK.GetName( GetPlayer )]"
  PERK_MISSING_PARENT:1 "@warning_icon!#X You do not have the [PERK.GetName( GetPlayer )] #underline [perk]#!"
  LIFESTYLE_XP_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip] Experience: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]#!\n[CharacterLifestyleWindow.GetLifestyleProgressTooltip( Lifestyle.Self )]"

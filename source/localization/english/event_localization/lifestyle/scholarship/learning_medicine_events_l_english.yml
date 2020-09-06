@@ -114,7 +114,7 @@
  learning_medicine.2050.end.desc:0 "A chill runs down my spine. #EMP I#! might be this [soldier.Custom('WomanManPossessive')] only hope.\n\nSuddenly, as if [helper.GetSheHe] stepped out of thin air, [helper.Custom2('MyCharacterIntroduction', ROOT.Char)] is at my side. [helper.GetSheHe|U] rolls up [helper.GetHerHis] sleeves and looks at me."
  learning_medicine.2050.a:0 "Hand me the tourniquet!"
  learning_medicine.2050.a.success:0 "[helper.GetFirstNameNoTooltip] and I save the soldier"
- learning_medicine.2050.a.failure:0 "Despite our efforts, we lose [soldier.GetHerHim]"
+ learning_medicine.2050.a.failure:0 "我々の努力にもかかわらず、我々は[soldier.GetHerHim]を失いました"
  learning_medicine.2050.b:0 "#EMP Step back#!! This is #EMP my#! patient!"
  learning_medicine.2050.b.success:0 "I save the soldier all by myself"
  learning_medicine.2050.b.failure:0 "I am unable to save [soldier.GetHerHim]"

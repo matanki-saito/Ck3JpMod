@@ -4,7 +4,7 @@
  CAN_NOT_RANSOM:0 "[CHARACTER.GetUIName] cannot be ransomed."
  CAN_NOT_RELEASE:0 "[CHARACTER.GetUIName] cannot be released from prison."
  CAN_NOT_EXECUTE:0 "[CHARACTER.GetUIName] cannot be executed."
- IMPRISONED_TIME:0 "$VALUE|V$により投獄された"
+ IMPRISONED_TIME:0 "$VALUE|V$間投獄されている"
  PRISON_EMPTY:0 "囚人はいません"
  MASS_PRISONER_ACTIONS:0 "Mass Actions"
  MASS_PRISONER_ACTION_RANSOM:0 "Mass Ransom"

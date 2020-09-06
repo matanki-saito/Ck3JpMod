@@ -26,7 +26,7 @@
  yearly.4021.c_success:0 "[child.GetTitledFirstNameNoTooltip] listens and learns"
  yearly.4021.c_failure:0 "[child.GetTitledFirstNameNoTooltip] learns that [child.GetHerHis] actions do not have consequences"
  yearly.4021.d:0 "You have to forgive [child.GetHerHim]! Please, I'll do anything..."
- yearly.4022.t:0 "The Returned"
+ yearly.4022.t:0 "帰還"
  yearly.4022.desc:0 "\"Hello [child.Custom2('RelationToMeShort', ROOT.Char)].\" [ROOT.Char.Custom2('MyCharacterIntroduction', SCOPE.sC('child'))] looks a bit gaunt after [child.GetHerHis] time in [actor.GetTitledFirstNamePossessive] prison, but the [child.Custom('quirk_neg_adjective')] smile that splits [child.GetHerHis] face makes [child.GetHerHim] seem more alive than ever.\n\n\"I cannot wait to thank you for the lesson you taught me about paying my dues.\""
  yearly.4022.a:0 "Welcome home, [child.GetFirstNameNoTooltip]."
  yearly.4031.t:0 "獅子身中に虫あり"

@@ -1,7 +1,7 @@
 ﻿l_english:
  start_hunt_mystical_animal_story_cycle_effect.tt:0 "私はそれを見つけるまで休息を知ることはない！"
  hunt_mystical_animal.1001.t:0 "その白い[ROOT.Char.Custom('LocalAnimal')|U]"
- hunt_mystical_animal.1001.desc:0 "私が夢の中で[ROOT.Char.Custom('LocalAnimalDesc')]を狩っていると白の[ROOT.Char.Custom('LocalAnimal')]が出現した。その深い瞳で私を睨みつけ、きれいな毛並みを誇示している。\n\n我々は[ROOT.Char.Custom('TerrainType')]の中に立っている。周りはとても静かで、私はいくら動いても獲物に近づくことはできません。\n\n私はつかまえようと決意が固まっていくのを感じると目を覚ました。"
+ hunt_mystical_animal.1001.desc:0 "私が捜索している[ROOT.Char.Custom('LocalAnimalDesc')]で白い[ROOT.Char.Custom('LocalAnimal')]が夢の中に出てきて、その深い瞳で私を品定めし、天然の毛皮のコートを誇示している。\n\n我々は[ROOT.Char.Custom('TerrainType')]に立っていた。何もかもが静かで、私はいくら動いても獲物に近づくことはできなかった。\n\n自分を引っ掻いて目が覚めると、決心は固まった。"
  hunt_mystical_animal.1001.a:0 "それを我は長いこと逃さないであろう！"
  hunt_mystical_animal.1002.desc:0 "I am out with my retinue in [location.GetNameNoTierNoTooltip] when the road twists and takes us in close to the [ROOT.Char.Custom('TerrainType')]. It is there I see it once more, shimmering in the sun – the white [ROOT.Char.Custom('LocalAnimal')].\n\nI turn to alert the others, but as I turn back the [ROOT.Char.Custom('LocalAnimal')] is already gone."
  hunt_mystical_animal.1002.a:0 "It taunts me!"

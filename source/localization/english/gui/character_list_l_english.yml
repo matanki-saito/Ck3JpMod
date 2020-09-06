@@ -113,7 +113,7 @@
  top_realm_relation_filter_desc:0 "Only show Characters if they are in your [top_realm|E]"
  vassal_relation_filter:0 "Vassals"
  vassal_relation_filter_desc:0 "Only show Characters if they are your [vassals|E]"
- court_relation_filter:0 "Court"
+ court_relation_filter:0 "宮廷"
  court_relation_filter_desc:0 "Only show Characters if they are in your [court|E]"
  ruler_filter:0 "Ruler"
  not_ruler_filter_option_desc:0 "Only show Characters that are not [rulers|E]"

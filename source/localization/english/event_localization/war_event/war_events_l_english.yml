@@ -40,7 +40,7 @@
  war_event.neighbor_war.only_loser.desc:1 "隣国の[loser.GetTitledFirstName]が[this_war.GetName]で[winner.Custom2('YourCharacterIntroductionNoComma', this_player)]に敗北した！"
  war_event.3101.t:0 "Newfound Faith"
  war_event.3101.desc:0 "News have reached me of [defender.GetTitledFirstNamePossessive] conversion to [defender.GetFaith.GetNameNoTooltip]. I no longer have a [ROOT.Char.GetFaith.HighGodName]-given right to wage war on [defender.GetPrimaryTitle.GetNameNoTierNoTooltip]."
- war_event.3101.a:0 "The time has come to put down our swords."
+ war_event.3101.a:0 "我々の剣を置く時が来た。"
  war_event.3101.b.tt:0 "[war.GetName] continues"
  war_event.3101.b:0 "[defender.GetSheHe|U] thinks this will stop me? Ha!"
  war_event.3102.t:0 "[attacker.Custom2('AppropriateGreetingNegative', ROOT.Char)]"

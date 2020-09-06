@@ -105,7 +105,7 @@
  stewardship_domain_special.1101.a:0 "The charter will be granted to the [second_barony.Custom('BaronyTownType')] in [second_barony.GetNameNoTierNoTooltip]."
  stewardship_domain_special.1101.all_goes_well:0 "If all goes well:"
  stewardship_domain_special.1101.b:0 "The [local_baron.GetFaith.HouseOfWorship] in [barony.GetNameNoTierNoTooltip] will be granted the charter."
- stewardship_domain_special.1101.c:0 "Use the field for grazing instead."
+ stewardship_domain_special.1101.c:0 "土地を放牧地に代えて使用します"
  stewardship_domain_special.1102.desc:0 "[second_local_baron.GetTitledFirstName] presents me with wares from all over the world; cloth from the furthest reaches of the silk road, locally grown crops, technological marvels from the east...\n\n\"My [ROOT.Char.GetLadyLord], what wares should we promote for the new fair?\""
  stewardship_domain_special.1102.a:0 "We will import as much silk as we can!"
  stewardship_domain_special.1102.a.tt:0 "The people are more likely to appreciate this if the area is stable and prosperous"

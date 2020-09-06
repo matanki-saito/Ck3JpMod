@@ -144,7 +144,7 @@
  GRANT_TITLES_BECOME_INDEPENDENT:1 "[CHARACTER.GetShortUINameNotMe] becomes [independent|E] due to their [title_tier|E] now equaling ours"
  GRANT_TITLES_BECOME_VASSAL_OF_LIEGE:1 "[CHARACTER.GetShortUINameNotMe] becomes a [vassal|E] of [TITLE.GetName] due to their [title_tier|E] now equaling ours"
  GRANT_TITLES_FORMAT:0 "@warning_icon!#X $MESSAGE$#!"
- GRANT_TITLE_CANT_RECEIVE_REASON_UNLANDED:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe] must hold at least one [county|E] or [barony|E] to receive a higher-tiered title#!"
+ GRANT_TITLE_CANT_RECEIVE_REASON_UNLANDED:0 "@warning_icon! #X [CHARACTER.GetShortUINameNotMe]は、上位の称号を受け取るために、少なくとも1つの[county|E]または[barony|E]を保持する必要がある #!"
  GRANT_TITLE_CANT_RECEIVE_REASON_BARON_CAN_HAVE_ONLY_ONE_BARONY:0 "@warning_icon!#X Barons can hold only one barony#!"
  GRANT_TITLE_CANT_RECEIVE_REASON_BARONY_WITHOUT_COUNTY:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe] must hold the [TITLE_2.GetName] to receive [TITLE.GetName]#!"
  GRANT_TITLE_CANT_RECEIVE_REASON_HIGHER_TIER_WITHOUT_COUNTY:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe] must hold or receive at least one county together with [TITLE.GetName]#!"

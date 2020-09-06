@@ -45,7 +45,7 @@
  birth.1002.b.tt:0 "世間の人々は彼らの真の親について知らない。"
  birth.1002.c:0 "[real_father.GetFirstNameNoTooltip]は今どこにいるのだろうか・・・"
  birth.1003.loves_mother.desc:1 "おお、[mother.GetFirstName]よ、あなたのどんなにも勇敢なことか！壮健であることか！あなたへの愛はどのような言葉を持っても語り尽くすことなどできない。そして今や我々も持っている。"
- birth.1003.likes_mother.desc:0 "疲れていながらも至福の笑顔で、[mother.GetFirstName]をプレゼントしてくれました。"
+ birth.1003.likes_mother.desc:0 "疲れていながらも至福の笑顔で、[mother.GetFirstName]がプレゼントしてくれました。"
  birth.1003.dislikes_mother.desc:1 "[mother.GetFirstNameNoTooltip]が子供を授かったことを、[ROOT.Char.GetFaith.FertilityGodName]に感謝します。"
  birth.1003.sondaughter.desc:0 "完璧で小さな[child.Custom('GetDaughterSon')]よ！\n\n"
  birth.1003.daughters.desc:0 "完璧で小さな少女よ！\n\n"

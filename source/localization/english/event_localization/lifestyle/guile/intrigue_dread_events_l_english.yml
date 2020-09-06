@@ -97,7 +97,7 @@
  intrigue_dread.4001.b:0 "Maybe [prisoner_2.GetTitledFirstNameNoTooltip] is best?"
  intrigue_dread.4001.c:0 "I would rather use [prisoner_3.GetTitledFirstNameNoTooltip]."
  intrigue_dread.4001.a-c.tt:0 "I will use [THIS.Char.GetTitledFirstName] as my subject in this endeavor."
- intrigue_dread.4001.kinslayer:0 "If [THIS.Char.GetTitledFirstName] is killed by this I could become known as a [GetTrait('kinslayer_3').GetName( GetPlayer )]."
+ intrigue_dread.4001.kinslayer:0 "もし[THIS.Char.GetTitledFirstName]がこれで殺されたら、私は[GetTrait('kinslayer_3').GetName( GetPlayer )]として知られるようになる。"
  intrigue_dread.4001.d:0 "No, now is not the right time."
  intrigue_dread.4001.d.flavor:0 "I will revisit this idea in a few years, hopefully with new prisoners"
  intrigue_dread.4002.desc:0 "Now that I have my canvas selected, I need to decide what form my masterpiece shall take.\n\nI can think of many agonies I would love to inflict upon [victim.GetTitledFirstName], but if I am to create a true masterpiece I must focus on doing just one thing perfectly."

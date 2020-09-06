@@ -49,7 +49,7 @@
  MOD_CONTROLLED_PROVINCE_ADVANTAGE:0 "Controlled Territory Defender [advantage|E]"
  MOD_REVOLTING_SIEGE_MORALE_LOSS_ADD:0 "[siege_progress|E] against [revolts|E]"
  MOD_REVOLTING_SIEGE_MORALE_LOSS_MULT:0 "$MOD_REVOLTING_SIEGE_MORALE_LOSS_ADD$"
- MOD_MOVEMENT_SPEED:0 "Movement Speed"
+ MOD_MOVEMENT_SPEED:0 "移動速度"
  MOD_RETREAT_LOSSES:1 "[command_modifier_i|E]Retreat Losses"
  MOD_HARD_CASUALTY_MODIFIER:2 "[command_modifier_i|E]Friendly [dead_soldiers|E]"
  MOD_ENEMY_HARD_CASUALTY_MODIFIER:2 "[command_modifier_i|E]Enemy [dead_soldiers|E]"

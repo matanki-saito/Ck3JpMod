@@ -183,7 +183,7 @@
  pet_animal.2004.desc:0 "\n\nAs [ROOT.Char.Custom('DogStorySheHe')] gets closer I can see that [ROOT.Char.Custom('DogStoryHerHis')] mouth is dripping with blood and gore. With a sinking heart I walk towards where [ROOT.Char.Custom('DogStorySheHe')] came from, and soon enough I happen upon the still body of my cat [ROOT.Char.Custom('CatStoryName')]."
  pet_animal.2004.a:0 "Oh, no... [ROOT.Char.Custom('DogStoryName')], how could you?"
  pet_animal.2005.desc_opening:0 "I can find neither [ROOT.Char.Custom('CatStoryName')] nor [ROOT.Char.Custom('DogStoryName')]. I scour the [ROOT.Char.Custom('ResidenceBuilding')] and the surrounding area, but no one has seen them.\n\n"
- pet_animal.2005.desc:0 "Just as I am turning back I spot a small pool of blood on the ground, and then another, and another... They lead me to a heap of bloody fur – two teared up bodies entangled on the ground, and there's no mistaking who they are."
+ pet_animal.2005.desc:0 "引き返そうとしているちょうどそのとき、地面に小さな血の溜まりを見つけ、次から次へと、また次から次へと・・・彼らは私を血だらけの毛皮の山へと導いたーー二つの引き裂かれた死体が地面で絡み合っていた。彼らが誰であるかは間違えようがない。"
  pet_animal.2005.a:0 "Why couldn't you just get along?!"
  pet_animal.2006.desc:0 "Just as I am turning back I spot them – lying in a heap on the ground. Oh no! They finally... But as I approach them [ROOT.Char.Custom('CatStoryNamePossessive')] head perks up and [ROOT.Char.Custom('CatStorySheHe')] watches me with tired eyes before going right back to sleep."
  pet_animal.2006.a:0 "Oh, they... They actually worked it out!"

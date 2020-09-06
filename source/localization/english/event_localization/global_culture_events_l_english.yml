@@ -29,7 +29,7 @@
  global_culture.0032.a:0 "We are Scotsmen, now and forever!"
  global_culture.0032.b:0 "We shouldn't turn our backs on our countrymen."
  global_culture.0035.t:0 "$global_culture.0032.t$"
- global_culture.0035.desc:1 "Though they share common origins with the other Anglo-Saxons, the clans living in northern Britain's lowlands have adapted to life in the rugged terrain.\n\nDiverging culturally and linguistically from their former countrymen, these [scottish.GetName] have enthusiastically embraced their new cultural identity."
+ global_culture.0035.desc:1 "他のアングロ＝サクソン人との共通の起源を持つものの、ブリテンの北の低地に住む一族は殺風景な土地での生活に順応した。\n\nかつての同郷の者から文化的にも言語的にも別れた彼ら[scottish.GetName]は、その新たな文化的自立精神を熱心に受け入れている。"
  global_culture.0035.a:0 "Will they be able to thrive on their own?"
  global_culture.3002.t:0 "Rise of the Normans"
  global_culture.3002.desc:1 "The lands of northern France have provided our people with lush and fertile ground to settle and expand.\n\nBy adopting some of the traditions from the locals, we will be able to better acclimate to the region."

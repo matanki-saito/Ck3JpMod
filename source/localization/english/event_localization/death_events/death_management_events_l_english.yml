@@ -6,7 +6,7 @@
  death_management.1000.neutral:0 "敬愛なる[dead_character.GetFirstName]。私はあなたを愛していなかったかもしれないが、それでも私は、今まで思ったこともないくらい、あなたの死を感じている。あなたは私の永遠の友として、常にそこにいた。あなたをないがしろにしたって？私はこれまで言わないでいた事がたくさんある・・・"
  death_management.1000.dislike:0 "[dead_character.GetWifeHusband|U]、あなたが息を引き取ったので、安堵の気持ちが込み上げてきた。恥ずべきことかもしれないが、我々の間で失われる愛は、実際のころ無かった。ようやく、私は新たな人生を始めることができる！"
  death_management.1000.a:0 "少なくとも思い出は残る"
- death_management.1000.b:0 "I hope you find peace, [dead_character.GetFirstNameNoTooltip]."
+ death_management.1000.b:0 "[dead_character.GetFirstNameNoTooltip]に、安らぎが訪れることを願う。"
  death_management.1000.c:0 "早すぎることはない！"
  death_management.1000.tt:1 "Your spouse, [dead_character.GetTitledFirstName], has [THIS.Char.Custom('DiedHouse_arrest')]."
  death_management.1001.t:0 "Outliving a Child"

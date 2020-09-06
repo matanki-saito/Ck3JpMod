@@ -23,7 +23,7 @@
  roman_restoration.0004.t:0 "Holy and Roman"
  roman_restoration.0004.desc.byzantines:0 "The unthinkable has happened! The pretenders of the West have managed to carve a bloodied path in the Eastern provinces and claim the very heartland of our once glorious Empire.\n\nHaving restored most of the ancient provinces under [scoped_emperor.GetHerHis] rule, [scoped_emperor.GetTitledFirstName] has declared the Roman Empire to be restored under [scoped_emperor.GetHerHis] barbarous leadership."
  roman_restoration.0004.desc.others:0 "Ever since Charlemagne was crowned by Pope Leo III, the Empire of the Greeks looked with contempt to what is referred to as the pretender in the West. Yet [scoped_emperor.GetTitledFirstName] has achieved the impossible: the restoration of the Eastern and Western borders from ancient times.\n\nThis new Empire, forged under the holy light of Christ, stands as the only true Imperium Romanum, ready to bring order upon a dark world."
- roman_restoration.0004.a:0 "Could it be...?"
+ roman_restoration.0004.a:0 "まさか...?"
  roman_restoration.0004.b:0 "They are still pretenders!"
  roman_restoration.0005.t:0 "アウグストゥス"
  roman_restoration.0005.desc.regular:0 "Acclaimed by Senate and Army, I have been recognized as the rightful ruler of the restored Roman Empire. \n\nNo greater honor or responsibility can be bestowed upon a single [ROOT.Char.GetWomanMan]. I must be sure to live up to the expectations of my subjects if I wish to remain in power for long."

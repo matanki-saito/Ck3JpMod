@@ -10,7 +10,7 @@
  siege.0003.two_captured:0 "My [ROOT.Char.Custom2('RelationToMeShort', prisoner_1)] [prisoner_1.GetFirstName] and my [ROOT.Char.Custom2('RelationToMeShort', prisoner_2)] [prisoner_2.GetFirstName] were captured"
  siege.0003.several_captured:0 "My [ROOT.Char.Custom2('RelationToMeShort', prisoner_1)] [prisoner_1.GetFirstName] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others were captured"
  siege.0003.end:0 "by [occupant.Custom2('MyCharacterIntroduction', ROOT.Char)] during the siege of [barony.GetNameNoTier]."
- siege.0004.relation_captured.t:0 "[ROOT.Char.Custom2('RelationToMeShort', prisoner_1)|U] Taken Prisoner"
+ siege.0004.relation_captured.t:0 "[ROOT.Char.Custom2('RelationToMeShort', prisoner_1)|U]が捕虜にされた"
  siege.0004.one_captured:0 "$siege.0003.one_captured$"
  siege.0004.two_captured:0 "$siege.0003.two_captured$"
  siege.0004.several_captured:0 "$siege.0003.several_captured$"
