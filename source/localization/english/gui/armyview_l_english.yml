@@ -64,7 +64,7 @@
  SUPPLY_STATE_EFFECTS:0 "$STATE|V$の影響:"
  SUPPLY_STATE_ATTRITION:0 "[attrition|E]: $VALUE|%-$"
  SUPPLY_STATE_COMBAT_EFFECT:0 "[advantage|E]: $VALUE|0V$"
- SUPPLY_STATE_0:0 "Well Supplied"
+ SUPPLY_STATE_0:0 "充分な供給"
  SUPPLY_STATE_1:0 "供給不足"
  SUPPLY_STATE_2:0 "Starving"
  SUPPLY_STATE_EVENT_TROOPS_IGNORING_SUPPLY:0 "$COUNT$ Soldiers in this army are not using supply"

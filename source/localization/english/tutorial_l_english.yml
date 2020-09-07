@@ -283,7 +283,7 @@
  lesson_siege_mechanics_step_1:0 "包囲！"
  lesson_siege_mechanics_step_1_desc:2 "あなたの[army|E]が敵の[holding|E]に攻撃をしかけています！ ハイライトされたアイコン（槍頭！）をクリックすると状況を確認できます。\n\n戦争で勝利するためには$game_concept_sieges$で勝利を収め、[war_score|E]を獲得しなければなりません。\n\n$game_concept_siege$に勝利（しばらくの間、攻撃し続ける必要があります）すると、その領域は[occupied|E]におかれ、マップ上では縞模様で表示されます。\n\n#TUT 縞模様の色は誰が$game_concept_holding$を$game_concept_occupied$に置いているかを示しています。 あなたのマップ上での色は緑であるため、あなたが$game_concept_occupied$においた$game_concept_holdings$は緑色の縞模様になります。\n\n一方、$k_france$の$game_concept_occupied$にある$game_concept_holding$は青色の縞模様になり、$k_england$の$game_concept_occupied$にあれば赤色になります。"
  lesson_warscore_step_1:0 "War Score"
- lesson_warscore_step_1_desc:1 "[war|E]で誰が勝利しつつあるかは、右下の[war_score|E]を見ることによって確認できる。#N -100#!から#P 100#!の間で遷移し、[battles|E]や[sieges|E]の勝敗や占領した領土によって変化する。\n\n#TUT #P 100#!の$game_concept_war_score$が得られたとき、敵に[peace_offer|E]を受け入れさせることができる。\n\n逆に#N -100#!$game_concept_war_score$の時、#EMP 敵#!は#EMP あなた#!に#EMP 敵#の#![peace_offer|E]を受け入れさせる。"
+ lesson_warscore_step_1_desc:1 "[war|E]で誰が勝利しつつあるかは、右下の[war_score|E]を見ることによって確認できます。#N -100#!から#P 100#!の間で遷移し、[battles|E]や[sieges|E]の勝敗や占領した領土によって変化します。\n\n#TUT #P 100#!の$game_concept_war_score$が得られたとき、敵に[peace_offer|E]を受け入れさせることができます。\n\n逆に#N -100#!$game_concept_war_score$の時、#EMP 敵#!は#EMP あなた#!に#EMP 敵の#![peace_offer|E]を受け入れさせます。"
  lesson_warscore_step_2:0 "War Outcomes"
  lesson_warscore_step_2_desc:2 "あらゆる[wars|E]は3つのうちのいずれかで集結します。$MODIFIER_NEWLINE_WITH_BULLET$[victory|E]$MODIFIER_NEWLINE_WITH_BULLET$[white_peace|E]$MODIFIER_NEWLINE_WITH_BULLET$[defeat|E]\n\n#TUT いずれも使用した[casus_belli|E]によって結果が変わります。 特定の戦争の詳細は、敵の[ruler|E]を右クリックし、#TUT_KW 和睦を提案#!を選択することで確認できます。#!"
  lesson_winning_wars_step_1:0 "Victory is Near"

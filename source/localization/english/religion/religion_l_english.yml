@@ -101,7 +101,7 @@
  holy_site_visoki_effects:0 "Hostile County Conversion Speed: #P -50%#!"
  holy_site_ragusa_name:0 "Ragusa"
  holy_site_ragusa_effect_name:0 "From [holy_site|E] #weak ($holy_site_ragusa_name$)#!"
- holy_site_esztergom_name:0 "Esztergom"
+ holy_site_esztergom_name:0 "エステルゴム"
  holy_site_esztergom_effect_name:0 "From [holy_site|E] #weak ($holy_site_esztergom_name$)#!"
  holy_site_mecca_name:0 "マッカ"
  holy_site_mecca_effect_name:0 "[holy_site|E]#weak ($holy_site_mecca_name$)#!から"

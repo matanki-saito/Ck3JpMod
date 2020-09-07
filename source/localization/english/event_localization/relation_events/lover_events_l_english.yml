@@ -185,7 +185,7 @@
  lover.2004.t:0 "Broken Promise"
  lover.2004.desc:0 "私の[ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))] [lover.GetTitledFirstName]は[lover.GetHerHis]が[lovers_lover.GetTitledFirstName]と結婚するのは政治的に必要なことだと主張しているが、[lover.GetSheHe]が[lover.GetHerHis] [lover.Custom2('RelationToMe',SCOPE.sC('lovers_lover'))]に向ける微笑みの中にはいくつか不思議なものもある・・・"
  lover.2004.a:0 "I will not stand this — we promised to never love another!"
- lover.2004.a.tt:1 "You confront [lover.GetShortUIName]"
+ lover.2004.a.tt:1 "あなたは[lover.GetShortUIName]と話し合います。"
  lover.2004.b:0 "I trust [lover.GetHerHim]."
  lover.2004.b.tt:0 "#F My beloved wouldn't lie to me!#!"
  lover.2005.desc:0 "\"My [ROOT.Char.Custom('LoverPetName')], surely the tender glances I have seen between [lovers_lover.GetTitledFirstName] and you are but a misunderstanding?\"\n\nMy [ROOT.Char.Custom2('RelationToMe',SCOPE.sC('original_lover'))] [original_lover.GetTitledFirstName] has been worried about the promise of personal devotion we made to each other ever since I married..."

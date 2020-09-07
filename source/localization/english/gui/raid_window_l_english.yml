@@ -1,7 +1,7 @@
 ﻿l_english:
  RW_TT_RAIDING_REALM_TOOLTIP:0 "#T 略奪軍:[Character.GetPrimaryTitle.GetName|V]#!\n#I クリックで表示#!"
  RW_TT_DEFENDING_REALM_TOOLTIP:0 "#T 防衛軍:[Character.GetPrimaryTitle.GetName|V]#!\n#I クリックで表示#!"
- RW_TIME_LEFT:0 "[Raid.GetEta.GetTimeDiffFromNow|V] left"
+ RW_TIME_LEFT:0 "残り[Raid.GetEta.GetTimeDiffFromNow|V]"
  RW_TIME_LEFT_TT:0 "#T Time Left\n#!The Raid will finish on [Raid.GetEta.GetString]"
  RW_TT_LOOT:0 "#T Loot: [gold_i][Province.GetProvinceLoot|0V]\n#!Given to the raiding [realm|E] when the [raid|E] finishes."
  RAID_PROGRESS_TOOLTIP:0 "#T Raid Progress: [Raid.GetProgress|0]/[Raid.GetProgressNeeded|0]#!\n[Raid.GetRaidProgressTooltip]"

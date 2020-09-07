@@ -5,7 +5,7 @@
  fabricate_hook_outcome.0001.desc:0 "[target.GetTitledFirstName] has something to hide, it would seem. Lucky for me. I don't have to be quite as creative with how I get [target.GetHerHim] in my grip."
  fabricate_hook_outcome.0001.a:0 "All I have to do is let [target.GetHerHim] know what I know..."
  fabricate_hook_outcome.0001.b:0 "I will keep this close to my chest for now."
- fabricate_hook_outcome.0001.c:0 "Oh, this is something everyone should know!"
+ fabricate_hook_outcome.0001.c:0 "ああ、これは誰もが知っておくべきことだ！"
  fabricate_hook_outcome.1001.t:0 "$fabricate_hook_header$A Compromising Situation"
  fabricate_hook_outcome.1001.desc:0 "Everyone gets naked #EMP sometime.#! The hard part is ensuring that the troop of jugglers enter [target.GetTitledFirstNamePossessive] chambers at just the right time, and that there are enough servants around to speculate about the ensuing chaos.\n\nI suspect [target.GetFirstNameNoTooltip] will do anything to prevent me from stoking the flames of the following rumors..."
  fabricate_hook_outcome.1001.a:0 "Send in the entertainers!"

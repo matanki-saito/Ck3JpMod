@@ -1,5 +1,5 @@
 ﻿l_english:
- COMBAT_NAME:1 "Battle of [PROVINCE.GetNameNoTooltip]"
+ COMBAT_NAME:1 "[PROVINCE.GetNameNoTooltip]の戦い"
  TOTAL_DEAD_AND_INITIAL_MEN:0 "$DEAD$"
  TOTAL_DEAD_AND_INITIAL_MEN_TOOLTIP:0 "死傷者: $DEAD|V$\nイニシャル [soldiers|E]: $INITIAL|V$"
  TOTAL_INITIAL_MEN:0 "Initial [soldiers|E]"

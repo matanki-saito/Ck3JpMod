@@ -8,7 +8,7 @@
  high_partition_succession_law:1 "High Partition"
  high_partition_succession_law_subname:0 "All Children Inherit"
  high_partition_succession_law_effects:1 "\n#V Under $high_partition_succession_law$ [succession], the lion's share of [titles] will go to your [heir] – the rest will be divided between your children.#!\n\n#weak $partition_base_desc$\nThe Player Heir will #emp always#! inherit at least half of the late Ruler's Titles.\n#!"
- confederate_partition_succession_law:1 "Confederate Partition"
+ confederate_partition_succession_law:1 "分割相続制"
  confederate_partition_succession_law_subname:0 "全ての子供が平等に継承する"
  confederate_partition_succession_law_effects:1 "\n#V $confederate_partition_succession_law$の下では、あなたの[titles]はあなたの子供達の間で平等に分配される。若い[heirs]のために新たな[titles]を作ることができる。#!\n\n#weak $partition_base_desc$\n十分な土地があれば、若い子供達のために称号を作ることができ、彼らはその称号を持つことができる。\n\n#!#X 部族の支配者はこの継承タイプに固定されている。#!\n"
  single_heir_succession_law:4 "長子相続制"

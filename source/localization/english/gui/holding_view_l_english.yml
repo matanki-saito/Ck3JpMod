@@ -71,7 +71,7 @@
  BUILDING_TIME:1 "Time"
  BUILDING_LEVIES:1 "[levies|E]: @soldier_icon! $VALUE|+=$"
  BUILDING_GARRISON:1 "[garrison|E]: @garrison_icon! $VALUE|+=$"
- ALREADY_CONSTRUCTING:0 "@warning_icon!#X Already constructing in this Barony#!"
+ ALREADY_CONSTRUCTING:0 "@warning_icon! #X 既にこの領地で建設中 #!"
  ABORT_BUILDING_CONFIRM_TITLE:0 "Abort Construction"
  ABORT_BUILDING_CONFIRM:0 "Aborting this construction will refund the cost, and allow another building to be constructed here."
  ABORT_BUILDING_CONFIRM_ACCEPT:0 "Abort"
