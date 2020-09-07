@@ -22,7 +22,7 @@
  feast.2001.desc:0 "The guests are gathered in the great hall, lords and ladies from the near and far reaches of the realm.\n\nThe mood is bright, and spirits are high as the feast begins!"
  feast.2001.desc_murder_feast:0 "As the guests file into the great hall I spot them one after the other. [enemy_1.GetTitledFirstName], [enemy_2.GetTitledFirstName]... All enemies of mine — enemies of the realm!\n\nAs the servants light the great hearth I have a sudden epiphany; what if the scourge of their existence could be cleansed all at once?"
  feast.2001.a:0 "ようこそ友よ！"
- feast.2001.a.tt:0 "The Feast begins"
+ feast.2001.a.tt:0 "饗宴が始まります"
  feast.2001.b:0 "彼らは皆、私の家の客人だ。危害を加えることはない。"
  feast.2001.c:0 "Everyone will be embraced by my #EMP warm#! hospitality."
  feast.2001.c.tt:0 "The Feast begins, and hopefully the ending will be... enlightening."
