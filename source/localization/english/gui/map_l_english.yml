@@ -56,7 +56,7 @@
  PROVINCE_TOOLTIP_IMPASSABLE:0 "@warning_icon!#X This province has impassable terrain#!"
  PROVINCE_TOOLTIP_NON_TRAVERSIBLE_WATER:1 "@warning_icon!#X You cannot traverse this body of water#!"
  PROVINCE_TOOLTIP_CANNOT_RAID_ACROSS_SEA:0 "@warning_icon!#X Unable to [raid|E] across sea#!"
- PROVINCE_TOOLTIP_CLICK_TO_GO:1 "\n#I Right-click to march here#!"
+ PROVINCE_TOOLTIP_CLICK_TO_GO:1 "\n#I 右クリックでここへ進軍する#!"
  PROVINCE_TOOLTIP_SHIFT_TO_APPEND:0 "#I - Hold Shift to queue move#!"
  PROVINCE_TOOLTIP_CTRL_TO_FORCE_GATHERING:0 "#I - Hold Ctrl to stop @gathering_icon!Gathering and move immediately #!"
  PROVINCE_TOOLTIP_ETA:0 "#I - Predicted arrival: [DATE.GetString] #weak (in [DATE.GetTimeDiffFromNow])#!#!"

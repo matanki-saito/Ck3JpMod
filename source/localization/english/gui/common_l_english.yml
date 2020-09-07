@@ -52,7 +52,7 @@
  MILITARY_STRENGTH_US_LABEL:1 "#T Defenders' Military Strength#!\n"
  MILITARY_STRENGTH_US_ATTACKER_LABEL:0 "#T Attackers' Military Strength#!\n"
  MILITARY_STRENGTH_OUR_LABEL:0 "#T Our Military Strength#!\n"
- MILITARY_STRENGTH_THEIR_OUR_TOOLTIP_LABEL:0 "#T Their Military Strength is $STRENGTH|V$ to ours#!\n"
+ MILITARY_STRENGTH_THEIR_OUR_TOOLTIP_LABEL:0 "#T 彼らの軍事力は我々と比較して$STRENGTH|V$である#!\n"
  MILITARY_STRENGTH_OUR_ALLIES_LABEL:1 "\n#S Defenders' [allies|E]' Military Strength:#!\n"
  MILITARY_STRENGTH_THEIR_ALLIES_LABEL:1 "\n#S Attackers' [allies|E]' Military Strength:#!\n"
  MILITARY_STRENGTH_BOTH:1 "#weak Defending forces:#! \n$THEIR$\n\n#weak Attacking forces:#! \n$OUR$"
