@@ -38,7 +38,7 @@
  task_foreign_affairs_king_effect_desc:0 "\n\nOther Kings of the Realm:"
  task_foreign_affairs_duke_effect_desc:0 "\n\nOther Dukes of the Realm:"
  task_foreign_affairs_count_effect_desc:0 "\n\nOther Counts of the Realm:"
- task_foreign_affairs_fallback_effect_desc:0 "\n\n仲間の家臣の評価:"
+ task_foreign_affairs_fallback_effect_desc:0 "\n\n仲間の封臣の評価:"
  task_foreign_affairs_not_independent_effect_desc:0 "\n$TAB$Increases by #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_monthly_increase')|P]/month up to: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max')|1P]\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_base')]#!"
  task_foreign_affairs_effect_desc_adaptive_traditions_bonus_opinion:0 "\n$TAB$[GetPerk('adaptive_traditions_perk').GetName(GetPlayer)]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_perk_bonus_modifier')|P]"
  task_foreign_affairs_effect_desc_bureaucrats_bonus_opinion:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_erudition_modifier')|P]"

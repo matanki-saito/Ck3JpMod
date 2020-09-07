@@ -82,5 +82,5 @@
  CHARACTER_LOCATION_TOOLTIP:0 "[Character.GetCurrentLocation.GetName]に滞在"
  CHARACTER_IMPRISONED_TOOLTIP:0 "[Character.GetImprisonedBy.GetUIName]によって[imprisoned|E]されている"
  CHARACTER_BIRTH_NAME_TOOLTIP:0 "Birth name: [Character.GetOriginalFirstName]"
- cooltip_opinion_of_player:0 "[opinion|E] of me: #P [Character.GetOpinionOf( GetPlayer )|+=]#!"
+ cooltip_opinion_of_player:0 "私への[opinion|E]: #P [Character.GetOpinionOf( GetPlayer )|+=]#!"
  CHARACTER_KILLER_TOOLTIP:0 "Killer: [Character.GetKiller.GetUIName]"

@@ -275,7 +275,7 @@
  action_in_line_of_succession_for_title_combined_label:1 "[landed_title.GetNameNoTooltip]の継承順位　第[actor.GetPlaceInSuccession(landed_title)]位"
  action_in_line_of_succession_for_title_click:0 "#I クリックで[title|E]を表示#!"
  action_heir_in_line_of_succession_for_title:1 "あなたの後継者は[landed_title.GetNameNoTierNoTooltip]の継承順位　第[actor.GetPlaceInSuccession(landed_title)]位"
- action_heir_in_line_of_succession_for_title_combined_group_label:1 "Heir in line to inherit titles"
+ action_heir_in_line_of_succession_for_title_combined_group_label:1 "後継者が称号の継承順位内にいます"
  action_heir_in_line_of_succession_for_title_combined_group_name:0 "Heir in line to inherit multiple [titles|E]"
  action_heir_in_line_of_succession_for_title_desc:2 "あなたの[heir|E]である[actor.GetShortUIName]は、[landed_title.GetName]の[line_of_succession|E]において第[actor.GetPlaceInSuccession(landed_title)]位にいる。\n\n[actor.GetSheHe]が[actor.GetHerHis]の力によって称号を継承する可能性もあるが、一連の[unfortunate_accidents|E]によって[actor.GetSheHe]が継承順位における[actor.GetHerHis]の位置を確保しつつ、[actor.GetHerHis]の称号取得を早めることができる。"
  action_heir_in_line_of_succession_for_title_combined_group_description:1 "あなたの[heir|E]である[actor.GetShortUIName]は、複数の[titles|E]において、[line_of_succession|E]の上位にいる。\n\n[actor.GetSheHe]が[actor.GetHerHis]の力によってそれらの称号を継承する可能性もあるが、一連の[unfortunate_accidents|E]によって[actor.GetSheHe]が継承順位における[actor.GetHerHis]の位置を確保しつつ、[actor.GetHerHis]の称号取得を早めることができる。"

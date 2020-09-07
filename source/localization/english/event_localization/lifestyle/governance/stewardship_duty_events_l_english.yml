@@ -147,7 +147,7 @@
  stewardship_duty.4060.attempt.tt:0 "[faction_leader.GetTitledFirstNameNoTooltip] will make a decision based on [faction_leader.GetHerHis] personality"
  stewardship_duty.4060.decline.tt:1 "You ignore the faction for the time being"
  stewardship_duty.4060.failure.tt:0 "[targeting_faction.GetName] does not lose any discontent"
- stewardship_duty.5021.t:0 "Disloyal Vassal"
+ stewardship_duty.5021.t:0 "不忠な封臣"
  stewardship_duty.5021.desc:0 "I am poring over the ledgers that detail my income from vassals. These numbers do not add up... The [ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('cheater_vassal'))] [cheater_vassal.GetTitledFirstName] has me for a fool and has been paying too little!"
  stewardship_duty.5021.a:0 "The [cheater_vassal.GetTitleAsNameNoTooltip] must pay [cheater_vassal.GetHerHis] due."
  stewardship_duty.5021.a.message_1:0 "[cheater_vassal.GetFirstNameNoTooltip] pays what [cheater_vassal.GetSheHe] owes me"

@@ -61,7 +61,7 @@
  scheme_interaction_tt_befriend_approved:0 "I will win the friendship of [recipient.GetFirstName]!"
  befriend_already_friend:1 "[recipient.GetFirstName] is already your friend"
  befriend_already_lover:1 "[recipient.GetFirstName]はすでにあなたを愛している"
- seduce:0 "Seduction Scheme"
+ seduce:0 "誘惑計画"
  seduce_action:0 "Seduce"
  seduce_desc:0 "I will win [SCHEME.GetTarget.GetShortUINameNoTooltip] over with sweet words and sweeter gestures – [SCHEME.GetTarget.GetSheHe] will soon be mine!"
  seduce_desc_general:0 "Using sweet words and sweeter gestures, aim to win the affection of someone."

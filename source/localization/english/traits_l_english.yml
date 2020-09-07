@@ -46,7 +46,7 @@
  trait_education_martial_2_desc:0 "不屈の軍人は指揮官としての才能を垣間見せるが、まだ熟練者には遠く及ばない。"
  trait_education_martial_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は指揮官としての才能を垣間見せるが、まだ熟練者には遠く及ばない。"
  trait_education_martial_3:0 "熟練の戦術家"
- trait_education_martial_3_desc:0 "熟練した戦術家は将兵からの信頼篤く、戦巧者として恐れられる高名な用兵家である。"
+ trait_education_martial_3_desc:0 "熟練の戦術家は将兵からの信頼篤く、戦巧者として恐れられる高名な用兵家である。"
  trait_education_martial_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は将兵からの信頼篤く、戦巧者として恐れられる高名な用兵家である。"
  trait_education_martial_4:0 "不世出の戦略家"
  trait_education_martial_4_desc:0 "不世出の戦略家は用兵術の天才であり、圧倒的な軍略を以って戦場の支配者となるであろう。"

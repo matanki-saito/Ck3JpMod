@@ -37,7 +37,7 @@
  cat_name_cruibne:0 "Cruibne"
  cat_name_snow:0 "Snow"
  cat_name_shadow:0 "Shadow"
- cat_name_paws:0 "Paws"
+ cat_name_paws:0 "ニクキュー"
  dog_name:0 "[ROOT.Var( 'story_cycle_dog_name' ).GetFlagName]"
  dog_name_possessive:1 "[ROOT.Var( 'story_cycle_dog_name' ).GetFlagName]'s"
  dog_name_amiable:0 "Amiable"

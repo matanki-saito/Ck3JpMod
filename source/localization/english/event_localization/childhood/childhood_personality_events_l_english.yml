@@ -1,6 +1,6 @@
 ﻿l_english:
  child_personality.0001.t:0 "A Threatening Figure"
- child_personality.0001.opening:0 "Whenever I see my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('bully'))] [bully.GetTitledFirstName], [bully.GetSheHe] has come up with some new way of tormenting me."
+ child_personality.0001.opening:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('bully'))][bully.GetTitledFirstName]は、私と会うたびにどう私を苦しめるか思いつくようだ。"
  child_personality.0001.bullying_1:0 "\n\nThis time [bully.GetSheHe] threatened to stuff my head out of the hole in the privy wall!"
  child_personality.0001.bullying_2:0 "\n\n[bully.GetSheHe|U] followed me an entire day, making barking noises and calling me a mutt!"
  child_personality.0001.bullying_3:0 "\n\n[bully.GetSheHe|U] tipped over a candelabrum and put the blame on me!"
@@ -271,7 +271,7 @@
  child_personality.109.zealous_change:0 "Never let anyone spite the divine like that."
  child_personality.1101.t:0 "確実に"
  child_personality.1102.t:0 "With Glee"
- child_personality.1103.t:0 "With Suspicion"
+ child_personality.1103.t:0 "疑惑"
  child_personality.110.desc:0 "弓で遊ぼうと[child.GetFirstName]を連れ出したところ、驚いたことに傷ついた雌鹿に出くわした。"
  child_personality.110.ambitious:0 "\n\n[child.GetSheHe|U]は少しも躊躇せずに雌鹿を倒すことができた。"
  child_personality.110.sadistic:0 "\n\nWhen [child.GetSheHe] showed me the animal, its wounds were evidence of a slow and torturous death. [child.GetFirstName] just smiled."

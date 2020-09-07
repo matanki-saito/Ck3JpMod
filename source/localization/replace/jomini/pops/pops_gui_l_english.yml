@@ -27,7 +27,7 @@
  BIND:0 "同期"
  UNBIND:0 "同期解除"
  LOGIN:0 "ログイン"
- PARADOX_ACCOUNT:0 "Paradoxアカウント"
+ PARADOX_ACCOUNT:0 "Paradox アカウント"
  LOGIN_JOIN_GAME:0 "ゲームに参加"
  LOGOUT:0 "ログアウト"
  NOT_LOGGED_IN:0 "ログインしていません"

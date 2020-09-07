@@ -47,7 +47,7 @@
  OPINION_DIFFERENT_CULTURE:0 "Different [culture|E]"
  OPINION_SAME_DYNASTY:0 "Same [dynasty|E]"
  OPINION_INFIDEL:0 "Different [religion|E]"
- OPINION_HERETIC:0 "Different [faith|E]"
+ OPINION_HERETIC:0 "異なる[faith|E]"
  OPINION_SAME_REALM_DIFFERENT_CULTURE_SAME_GROUP:0 "外国の[culture|E]"
  OPINION_SAME_REALM_DIFFERENT_CULTURE:0 "外国の[culture|E]"
  OPINION_PIOUS:0 "[GetPietyLevelName( TARGET_CHARACTER.GetPietyLevel )|L]"

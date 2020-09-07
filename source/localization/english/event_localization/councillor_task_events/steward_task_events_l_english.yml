@@ -1,7 +1,7 @@
 ﻿l_english:
  steward_task.0301.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
  steward_task.0301.county_complete:0 "With [ROOT.Char.GetCulture.GetName] settlement and the installation of a new administration, the people of [county.GetNameNoTier] have fully embraced [ROOT.Char.GetCulture.GetName] traditions."
- steward_task.0301.a:0 "Great work, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.0301.a:0 "素晴らしい仕事だ、[councillor.GetFirstNameNoTooltip]！"
  steward_task.1101.t:0 "Improved Taxation"
  steward_task.1101.desc:0 "As my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))] lists off fief after fief, their worth and their paid obligations, I stop [councillor.GetHerHim] when I suddenly hear a sum that #EMP has#! to be a mistake.\n\"You have brought in HOW much from the [county.GetName]?!\"\n\n[councillor.GetFirstName] smiles. \"I thought you would be pleased to hear, my [ROOT.Char.GetLadyLord].\""
  steward_task.1101.a:2 "By [ROOT.Char.GetFaith.WealthGodName], of course I am pleased!"

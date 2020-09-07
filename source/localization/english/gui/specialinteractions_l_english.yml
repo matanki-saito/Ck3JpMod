@@ -70,7 +70,7 @@
  MARRY_PROMPT_SOMEONE:0 "#I Choose someone to marry off#!"
  MARRY_PROMPT_BUILDING_LIST:0 "#I Finding potential spouses for [CHARACTER.GetShortUIName]#!"
  MARRY_PROMPT_CHARACTER:0 "#I Choose someone for [CHARACTER.GetShortUIName] to marry#!"
- MARRY_DIFFERENT_FAITH_REASON:0 "Different [faith|E]: $VALUE|+0$"
+ MARRY_DIFFERENT_FAITH_REASON:0 "異なる[faith|E]: $VALUE|+0$"
  MARRY_UNIMPORTANT_COURTIER_REASON:0 "Unimportant [courtier|E]: $VALUE|+0$"
  MARRY_CARES_ABOUT_COURTIER_REASON:0 "[secondary_recipient.GetShortUIName|U] is important to [recipient.GetShortUIName]: $VALUE|+0$"
  MARRY_PARENT_OF_CHILDREN_REASON:0 "[secondary_recipient.GetShortUIName|U] is a parent of [recipient.GetShortUINamePossessive] children: $VALUE|+0$"

@@ -22,7 +22,7 @@
  yearly.0003.t:0 "Forbidden Love"
  yearly.0003.start.desc:0 "At first, I thought it a joke — how could my [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetFirstName] and [relative.Custom2('HerHisCharacterIntroductionNoComma', SCOPE.sC('child'))] be lovers?! Yet the letter my spies intercepted"
  yearly.0003.dislikes_incest.desc:0 "describes encounters no [child.GetWomanMan] should ever have with [child.GetHerHis] [child.Custom2('RelationToMeShort', SCOPE.sC('relative'))]..."
- yearly.0003.likes_incest.desc:0 "彼らの肉親関係についての#EMP 魅力的#!な詳細に入る..."
+ yearly.0003.likes_incest.desc:0 "彼らの肉親体係についての#EMP 魅力的#!な詳細に入る..."
  yearly.0003.b:0 "Attempt to cover up their liaisons."
  yearly.0003.c:0 "Imprison them for disgracing House [ROOT.Char.GetHouse.GetNameNoTooltip]!"
  yearly.0003.d:0 "Invite them to my chambers for some \"family time.\""
