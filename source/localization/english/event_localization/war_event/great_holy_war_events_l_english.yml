@@ -26,7 +26,7 @@
  great_holy_war.0011.c:0 "[ROOT.Char.GetFaith.WarGodName]は我らと共に！"
  great_holy_war.0011.d:0 "[ROOT.Char.GetFaith.WarGodName]よ、我らを守りたまえ！"
  great_holy_war.0011.e:0 "そう仰るのであれば..."
- great_holy_war.0011.tooltip.effect:0 "[awakening_faith.GetReligion.GetAdjective] [faiths|E] have now access to [awakening_faith.GHWNamePlural]"
+ great_holy_war.0011.tooltip.effect:0 "[awakening_faith.GetReligion.GetAdjective][faiths|E]は[awakening_faith.GHWNamePlural]に参加できる"
  great_holy_war.0015.opening:0 "[scoped_pope.Custom2('AppropriateGreeting', ROOT.Char)]"
  great_holy_war.0016.custom:0 "Every [scoped_pope.GetFaith.GetAdjective] [theocratic|E] vassal"
  great_holy_war.0015.desc:0 "By pledging your support for the righteous fight against the infidels, you have redeemed yourself in the eyes of [scoped_pope.GetFaith.WarGodName]. As such, We deem you worthy of partaking in the Holy Communion once again."

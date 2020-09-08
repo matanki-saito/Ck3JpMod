@@ -9,7 +9,7 @@
  yearly_persian.1002.every_friend_and_neighboring_ruler:0 "Every [friend|E] and neighboring [ruler|E]"
  yearly_persian.1002.every_spouse_and_close_family_member:0 "Every [spouse|E] and [close_family_member|E]"
  yearly_persian.1101.t:0 "Shu'ubiyya"
- yearly_persian.1101.desc.arabic:0 "Along with the spread of Islam, so too has Arabic culture spread outwards from the Arabian Peninsula."
+ yearly_persian.1101.desc.arabic:0 "イスラム教の普及と共にアラビア文化もアラビア半島から広がってきている。"
  yearly_persian.1101.desc.seljuk:0 "Since the great Seljuk conquest, our history and culture has been spreading among our new subjects."
  yearly_persian.1101.desc.ending:0 "\n\nMany tribes and cultures have adopted our [ROOT.Char.GetCulture.GetName] language and traditions, but the Persians living in the Iranian Plateau have fiercely resisted this spread.\n\nDrawing their own cultural traditions from the legacies of the great Achaemenid and Sasanian Empires, they are fiercely proud of their ancestry and want to preserve their history, even in the face of foreign rulership."
  yearly_persian.1101.every_county:0 "Every [persian.GetName] County"

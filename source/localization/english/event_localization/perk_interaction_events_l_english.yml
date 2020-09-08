@@ -1,5 +1,5 @@
 ﻿l_english:
- perk_interaction.0002.t:0 "我が土地を要求する！"
- perk_interaction.0002.same_faith:0 "For some unthinkable reason, the [actor.GetFaith.AltPriestTermPlural] has sanctioned [actor.GetTitledFirstNamePossessive] completely unfounded claim on the [target.GetName]!"
- perk_interaction.0002.other_faith:0 "The charlatan priests of the [actor.GetFaith.GetAdjective] faith has publicly declared support for [actor.GetTitledFirstNamePossessive] completely unfounded claim on the [target.GetName]!"
- perk_interaction.0002.a:1 "I will show [actor.GetHerHim] when the time comes..."
+ perk_interaction.0002.t:0 "我が土地の請求！"
+ perk_interaction.0002.same_faith:0 "考えられないような理由で[actor.GetFaith.AltPriestTermPlural]は[target.GetName]に対する[actor.GetTitledFirstNamePossessive]の根も葉もない請求を認めた！"
+ perk_interaction.0002.other_faith:0 "[actor.GetFaith.GetAdjective]のホラ吹き司祭が、[target.GetName]に対する[actor.GetTitledFirstNamePossessive]の根も葉もない請求を支持すると公的に宣言した！"
+ perk_interaction.0002.a:1 "然るべきときに[actor.GetHerHim]に目にもの見せてやろう...。"

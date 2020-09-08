@@ -143,7 +143,7 @@
  tooltip_imperial_vote_strength_spouse:0 "[ROOT.Char.GetSheHe|U] is the [ROOT.Char.GetTitleTierName]: $VALUE|=+0$"
  tooltip_imperial_vote_strength_greek_intrigue:0 "[ROOT.Char.GetSheHe|U] is a cunning politician with high [intrigue|E]: $VALUE|=+0$"
  tooltip_imperial_vote_strength_roman_diplomacy:0 "[ROOT.Char.GetSheHe|U] is a manipulative demagogue with high [diplomacy|E]: $VALUE|=+0$"
- tooltip_feudal_elector_vote_rome_child:0 "Rome is not to be ruled by a child: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_rome_child:0 "ローマは子供が治めるべきではない: $VALUE|=+0$"
  tooltip_feudal_elector_vote_despot:0 "[candidate.GetSheHe|U] is the Despot: $VALUE|=+0$"
  tooltip_feudal_elector_vote_commander_martial:0 "[candidate.GetSheHe|U] is a brilliant General: $VALUE|=+0$"
  tooltip_feudal_elector_vote_councilor_diplomacy:0 "[candidate.GetSheHe|U] is a manipulative demagogue with high [diplomacy|E]: $VALUE|=+0$"

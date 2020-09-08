@@ -153,7 +153,7 @@
  STRESS_LEVEL_PROGRESS:0 "Next level at [stress_i]$NEXT|V$"
  STRESS_LEVEL_PROGRESS_MAX:1 "#X @warning_icon! You are already at maximum Stress Level. At [stress_i]$NEXT|V$ you will suffer a mental breakdown and lose [stress_loss_i][GetDefine('NCharacter', 'STRESS_PER_LEVEL')|P]#!"
  OBSERVER_MODE_ON:0 "#T Leave this Character's perspective#!"
- ACTIONS_TT:0 "#T 課題\n#![ActionItemHandler.GetNumberOfActions] issues[ActionItemHandler.GetSuggestionsDebugTooltip]\n\n[SelectLocalization( ActionItemHandler.HasAvailableActions, 'ACTIONS_TT_CLICK_TO_VIEW', '' )]"
+ ACTIONS_TT:0 "#T 課題\n#![ActionItemHandler.GetNumberOfActions] つの課題があります[ActionItemHandler.GetSuggestionsDebugTooltip]\n\n[SelectLocalization( ActionItemHandler.HasAvailableActions, 'ACTIONS_TT_CLICK_TO_VIEW', '' )]"
  ACTIONS_TT_CLICK_TO_VIEW:0 "#I クリックで表示#!"
  INGAME_TOPBAR_CULTURE_HEAD:1 "As the [GetPlayer.GetCulture.GetNameNoTooltip] [cultural_head|E] you can change the Fascination"
  INGAME_TOPBAR_NOT_CULTURE_HEAD:1 "@warning_icon!#X You are not the [GetPlayer.GetCulture.GetNameNoTooltip] [cultural_head|E] so you cannot change the Fascination #!"

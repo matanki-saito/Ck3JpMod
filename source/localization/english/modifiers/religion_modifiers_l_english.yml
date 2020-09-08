@@ -5,7 +5,7 @@
  recent_excommunication_desc:0 "This character has recently been [excommunicated|E], damaging their standing in the eyes of their faith."
  excommunication_recently_lifted:0 "Excommunication Recently Lifted"
  excommunication_recently_lifted_desc:0 "It will take some time before the stain of this character's former [excommunication|E] fades completely."
- vow_of_poverty_modifier:0 "Vow of Poverty"
+ vow_of_poverty_modifier:0 "貧困の誓い"
  vow_of_poverty_modifier_desc:0 "This character has made a sacred vow to give away much of their wealth."
  temporal_condemnation_modifier:0 "Temporal Condemnation"
  temporal_condemnation_modifier_desc:0 "Religious authorities have condemned this character as unsuitable to lead the faithful."
