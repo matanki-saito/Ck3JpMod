@@ -48,7 +48,7 @@
  greeting_supplimentary.negative.insult_muslim.4:0 "お前は不潔な野良犬の子だ。"
  greeting_supplimentary.positive:0 "[ROOT.Char.Custom2('PositiveSupplimentaryGreeting', second)]"
  greeting_supplimentary.positive.flattery.1:0 "Blessings upon you and your House."
- greeting_supplimentary.positive.flattery.2:0 "Your wisdom and mercy are legendary."
+ greeting_supplimentary.positive.flattery.2:0 "貴君の英知と慈悲は伝説となっている。"
  greeting_supplimentary.positive.flattery.3:0 "Peace be with you."
  greeting_supplimentary.positive.flattery.4:0 "あなたに安らぎと平和のあらんことを。"
  greeting_supplimentary.positive.flattery.5:0 "Your ruthlessness is enviable."

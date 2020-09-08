@@ -23,7 +23,7 @@
  SW_TT_DEFENDING_REALM_TOOLTIP:0 "#T 防衛軍:[Character.GetPrimaryTitle.GetName|V]#!\n#I クリックで表示#!"
  SIEGE_ACTION_BREACH:0 "Breach"
  SIEGE_ACTION_STARVATION:0 "Starvation"
- SIEGE_ACTION_DISEASE:0 "Disease Outbreak"
+ SIEGE_ACTION_DISEASE:0 "疫病の流行"
  SIEGE_ACTION_DESERTION:0 "Desertion"
  SIEGE_ACTION_STALEMATE:0 "膠着状態"
  SIEGE_ACTION_BREACH_DESC:0 "#T 城壁：#V $STATE$#!#!"

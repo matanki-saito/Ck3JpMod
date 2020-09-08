@@ -50,7 +50,7 @@
  combat_event.1013.slain_message.desc.multiple:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others were"
  combat_event.1013.slain_message.desc.end:1 "が[combat_location.GetName]の戦いで討ち取られた！"
  combat_event.1014.slain_message.t:1 "[ROOT.Char.Custom2('RelationToMeShort', primary_deceased)|U]が戦死した"
- combatant_captured_in_battle_friendly_player:1 "You captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+ combatant_captured_in_battle_friendly_player:1 "戦闘後に[TARGET_CHARACTER.GetUINameNoTooltip]を捕らえた！"
  combatant_captured_in_battle_friendly:0 "[CHARACTER.GetUINameNoTooltip] captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
  combatant_captured_in_battle_enemy_player:1 "You were captured by [CHARACTER.GetUINameNoTooltip] after the battle!"
  combatant_captured_in_battle_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] was captured by [CHARACTER.GetUINameNoTooltip] after the battle!"

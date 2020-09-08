@@ -256,7 +256,7 @@
  child_personality.108.lustful_change:0 "[child.GetFirstNameNoTooltip]よ、あの召使を見るそなたの目つきには気づいていたよ。"
  child_personality.1091.t:0 "Getting Stuck In"
  child_personality.1092.t:0 "The Young Mediator"
- child_personality.1093.t:0 "Defender of the Faith"
+ child_personality.1093.t:0 "信仰の擁護者"
  child_personality.109.desc:0 "There was a commotion among the children today. [child_preacher.GetTitledFirstName] was attempting to preach among [child_preacher.GetHerHis] fellow youngsters, and became the target of a small fight."
  child_personality.109.desc_fallback:0 "There was a commotion among the children today. A child was attempting to preach among fellow youngsters, and became the target of a small fight."
  child_personality.109.brave:0 "\n\n[child.GetTitledFirstName] intervened and did what [child.GetSheHe] could to protect [child_preacher.GetHerHim]."

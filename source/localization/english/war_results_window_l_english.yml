@@ -24,7 +24,7 @@
  SECONDARY_INVALID:0 "Our war led by [CHARACTER.GetUIName] against [TARGET_CHARACTER.GetUIName] is no longer valid to fight."
  SECONDARY_WHITE_PEACE:0 "Our war led by [CHARACTER.GetUIName] against [TARGET_CHARACTER.GetUIName] ended inconclusively."
  SECONDARY_LOSS:0 "[CHARACTER.GetUIName]が主導した[TARGET_CHARACTER.GetUIName]に対する戦争に我々は敗北した。"
- ATTACKER_WIN:0 "$WAR_OVER_GREETING$あなたは我々の想像していたよりも遥かに強大な敵であった。この流血に終止符を打つために我々はあなたの要求に従います。"
+ ATTACKER_WIN:0 "$WAR_OVER_GREETING$あなたは我々の想像していたよりも遥かに強大な敵であった。この流血に終止符を打つために我々はあなたの要求に従うこととする。"
  ATTACKER_INVALID:0 "$WAR_OVER_GREETING$この戦争を戦う理由は存在しない。"
  ATTACKER_WHITE_PEACE:0 "$WAR_OVER_GREETING$和平交渉に応じましょう。この争いは終わりとしましょう。"
  ATTACKER_LOSS:0 "$WAR_OVER_GREETING$貴殿の向こう見ずな戦争は、最初から絶望的であった。貴殿の愚行を終わりにし、そちらの降伏を受け入れよう。"

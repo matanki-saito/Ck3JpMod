@@ -25,7 +25,7 @@
  lazy_quirk:0 "stretches"
  wrathful_quirk:0 "cracks [ROOT.GetCharacter.GetHerHis] knuckles"
  calm_quirk:0 "watches [ROOT.GetCharacter.Custom('GetIncidentalDetail')]"
- impatient_quirk:0 "runs a hand through [ROOT.GetCharacter.GetHerHis] hair"
+ impatient_quirk:0 "髪をいじりながら"
  humble_quirk:0 "glances down"
  deceitful_quirk:0 "smirks"
  honest_quirk:0 "maintains [ROOT.GetCharacter.GetHerHis] eye contact"

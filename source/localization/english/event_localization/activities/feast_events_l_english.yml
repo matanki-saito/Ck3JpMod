@@ -37,7 +37,7 @@
  feast.2003.b:0 "少し安心した。"
  feast.2501.t:0 "A Warm Welcome"
  feast.2501.likes_host:0 "Every guest is gathered in the great hall, and our gracious host, [activity.GetOwner.GetTitledFirstName], has welcomed us all to the feast!"
- feast.2501.dislikes_host:0 "Every guest is gathered in the great hall, and our [activity.GetOwner.Custom('InsultAdjective')] host, [activity.GetOwner.GetTitledFirstName], has finally welcomed us all to the feast."
+ feast.2501.dislikes_host:0 "客人たちが大広間に集まると、主催者である[activity.GetOwner.Custom('InsultAdjective')]、[activity.GetOwner.GetTitledFirstName]は、お待ちかねのご馳走と饗宴で人々をもてなした。"
  feast.2501.a.gluttonous:0 "ここからキッチンの匂いがする！"
  feast.2501.a.drunkard:0 "樽はどこだ！"
  feast.2501.a.gregarious:0 "みんなと話すのが待ちきれないよ！"

@@ -26,7 +26,7 @@
  marriage_effect.1001.desc:1 "Oh [spouse.GetTitledFirstName], my [spouse.Custom('LoverPetName')]! To think that I can embrace you openly now, with the blessing of both [ROOT.Char.GetFaith.FertilityGodName] and the people around us... I am the happiest [ROOT.Char.GetWomanMan] alive!"
  marriage_effect.1001.a:0 "Come here, [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse') )] of mine!"
  marriage_effect.1002.desc:1 "Oh [spouse_2.GetTitledFirstName], my [spouse_2.Custom('LoverPetName')]! To think that I can embrace you openly now, with the blessing of both [ROOT.Char.GetFaith.FertilityGodName] and the people around us... I am the happiest [ROOT.Char.GetWomanMan] alive!"
- marriage_effect.1002.a:0 "Come here, [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse_2') )] of mine!"
+ marriage_effect.1002.a:0 "さあここへ、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse_2') )]よ!"
  marriage_effect.2001.t:0 "結婚祝い"
  marriage_effect.2001.desc.start_normal:0 "私と[new_spouse.GetTitledFirstName]との結婚にて、適切に贅沢な結婚式であることを領国内では期待しています。"
  marriage_effect.2001.desc.start_divine_marriage:0 "私と[new_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)]との結婚により、私たちの神の血の再会を祝福する壮大なレセプションを開催することが待ち望まれています。"

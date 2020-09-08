@@ -14,4 +14,4 @@
  DEBUG_OPINIONS:0 "評価デバッグ"
  SCHEME_ACTIONS:0 "策謀行動"
  MORE_INTERACTIONS_CLICKABLE:0 "#clickable さらに$VALUE$つの行動がとれます...#!"
- MORE_INTERACTIONS:0 "#weak More...#!"
+ MORE_INTERACTIONS:0 "#weak その他...#!"

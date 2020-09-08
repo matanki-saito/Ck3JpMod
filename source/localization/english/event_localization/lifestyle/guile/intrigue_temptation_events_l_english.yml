@@ -110,7 +110,7 @@
  intrigue_temptation.3011.a:0 "Just for the night? How about #EMP every#! night?"
  intrigue_temptation.3011.b:0 "Show me the way, [bar_servant.Custom('LoverPetName')]."
  intrigue_temptation.3011.c:0 "I am flattered, but I just wanted to talk."
- intrigue_temptation.3020.t:0 "A New Flame"
+ intrigue_temptation.3020.t:0 "新たな激情"
  intrigue_temptation.3020.start.desc:0 "Over the years, I have received a great deal of portraits from various"
  intrigue_temptation.3020.nobles.desc:0 "nobles,"
  intrigue_temptation.3020.noblemen.desc:0 "noblemen,"

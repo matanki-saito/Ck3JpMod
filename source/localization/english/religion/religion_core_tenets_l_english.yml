@@ -75,7 +75,7 @@
  tenet_religious_legal_pronouncements_fatwa:0 "ファトワー"
  tenet_religious_legal_pronouncements_halakha:0 "ハラーハー"
  tenet_religious_legal_pronouncements_desc:0 "The border between theological and legal arguments is thin, and spiritual qualities can and should be considered in secular settlements."
- doctrine_parameter_temporal_condemnation_enabled:0 "[learning|E]が高い支配者は家臣[sinful|E]を非難するかもしれない。罪深い家臣であるほど、君主が彼らに対してわざわざ非難する必要がなくなる。\n$EFFECT_LIST_BULLET$処分された家臣は[criminals|E]と見なされ、役職を取り消される可能性がある"
+ doctrine_parameter_temporal_condemnation_enabled:0 "[learning|E]が高い支配者は[sinful|E]家臣を非難するかもしれない。罪深い家臣であるほど、君主が彼らに対してわざわざ非難する必要がなくなる。\n$EFFECT_LIST_BULLET$処分された家臣は[criminals|E]と見なされ、役職を取り消される可能性がある"
  doctrine_parameter_religious_legal_pronouncements_law_cost_reduction:0 "Law Costs: #P -10%#!"
  tenet_religious_legal_pronouncements_cost_tooltip:0 "宗教法: #P -10%#!"
  tenet_religious_fatwa_cost_tooltip:0 "ファトワー: #P -10%#!"

@@ -107,7 +107,7 @@
  ll_stronger_than_your_husband:0 "I am twice as strong as your [second.GetPrimarySpouse.Custom('InsultAdjective')] husband"
  ll_prettier_than_your_wife:0 "I am twice as pretty as your [second.GetPrimarySpouse.Custom('InsultAdjective')] wife"
  ll_i_am_compliment_spouse_is_insult:0 "Your [second.GetPrimarySpouse.Custom('WifeHusband')] is [second.GetPrimarySpouse.Custom('InsultAdjective')], but I am [ROOT.Char.Custom('ComplimentAdjective')]"
- ll_my_darling:0 "My darling [second.GetFirstNameNoTooltip]"
+ ll_my_darling:0 "わが愛しの[second.GetFirstNameNoTooltip]よ。"
  ll_stop_resiting_you_will_be_mine:0 "Stop resisting, you will be mine"
  ll_let_us_kiss_already:0 "Let us kiss already"
  ll_compliment_lovely:0 "lovely"
