@@ -26,7 +26,7 @@
  sway_outcome.2001.not_interested_friend:0 "\n\n\"It sounds as if what you truly need is a friend, and I am afraid I cannot be that to you. However, I can recommend that you—\""
  sway_outcome.2001.not_interested_relics:0 "\n\n\"I will not give you any of my relics, no matter how many times you might pray for me!\""
  sway_outcome.2001.end:0 "\n\nI do not need to read on to get the point."
- sway_outcome.2001.a:0 "This is all a big misunderstanding!"
+ sway_outcome.2001.a:0 "これは大きな誤解だ！"
  sway_outcome.2002.t:0 "Sway: Nefarious Plotting"
  sway_outcome.2002.desc:0 "\"My [ROOT.Char.GetLadyLord]! [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] has ended all conversation with you.\"\n\nSeeing my sudden interest, and the amount of correspondence, as a sign of nefarious plans it appears as if [target.GetSheHe] is under the impression that I am plotting against [target.GetHerHim]!"
  sway_outcome.2002.a:0 "I was just trying to make a good impression..."

@@ -1,6 +1,6 @@
 ﻿l_english:
- PCW_TITLE:0 "Barbershop"
- PCW_APPLY:0 "Apply Changes"
+ PCW_TITLE:0 "床屋"
+ PCW_APPLY:0 "変更を適用"
  PCW_APPLY_TOOLTIP:0 "#I クリックで変更を適用しウィンドウを閉じる#!"
- PCW_DEFAULT_HAIR_COLOR:0 "Default"
- PCW_HAIR_COLOR_LABEL:0 "Hair Color"
+ PCW_DEFAULT_HAIR_COLOR:0 "デフォルト"
+ PCW_HAIR_COLOR_LABEL:0 "髪の色"

@@ -1,6 +1,6 @@
 ﻿l_english:
- personality_traitdesc.negative.arrogant:0 "cocky"
- personality_traitdesc.negative.humble:0 "humble"
+ personality_traitdesc.negative.arrogant:0 "生意気"
+ personality_traitdesc.negative.humble:0 "謙虚"
  personality_traitdesc.negative.lustful:0 "lewd"
  personality_traitdesc.negative.chaste:0 "prudish"
  personality_traitdesc.negative.gregarious:0 "talkative"
@@ -36,7 +36,7 @@
  personality_traitdesc.negative.fickle:0 "fickle"
  personality_traitdesc.negative.notrait:0 "bland"
  personality_traitdesc.positive.arrogant:0 "confident"
- personality_traitdesc.positive.humble:0 "humble"
+ personality_traitdesc.positive.humble:0 "謙虚"
  personality_traitdesc.positive.lustful:0 "romantic"
  personality_traitdesc.positive.chaste:0 "chaste"
  personality_traitdesc.positive.gregarious:0 "outgoing"

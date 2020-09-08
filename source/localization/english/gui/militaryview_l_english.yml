@@ -64,7 +64,7 @@
  TT_REINFORCING_MAA_CLICK_STOP:0 "\n#I クリックで戦力補充を中止#!"
  TT_REINFORCING_MAA_CLICK_START:0 "\n#I クリックで戦力補充を開始#!"
  MAINTENANCE_COST_PART:0 "Maintenance: $VALUE$/month"
- REINFORCEMENT_COST_PART:0 "Reinforcement: $VALUE$/month"
+ REINFORCEMENT_COST_PART:0 "補充: $VALUE$/月"
  TOTAL_MAA_COST:0 "[Regiment.GetTotalCostString]"
  TOTAL_MAA_COST_TOOLTIP:0 "#T Maintenance: [Regiment.GetTotalCostString]/month#!#D 2 decimal pls#!\n#D Reinforcing#!"
  TT_CAP_TITLE:0 "#T [men_at_arms|E] Regiment Limit: $MAX|V$#!"

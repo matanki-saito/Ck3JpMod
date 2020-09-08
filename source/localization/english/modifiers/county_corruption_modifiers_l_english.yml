@@ -7,7 +7,7 @@
  county_corruption_smuggling_ring_modifier_desc:0 "[county_corruption|E]\nSmugglers are running rampant throughout the County"
  county_corruption_bandits_rampant_modifier:0 "Bandits Running Rampant"
  county_corruption_bandits_rampant_modifier_desc:0 "[county_corruption|E]\nBandits roam freely in the County"
- county_corruption_inefficient_census_modifier:0 "Inefficient Census"
+ county_corruption_inefficient_census_modifier:0 "非効率な人口調査"
  county_corruption_inefficient_census_modifier_desc:0 "We have no idea who or how many people live in this County"
  county_corruption_lack_of_sheriffs_modifier:0 "Lack of Sheriffs"
  county_corruption_lack_of_sheriffs_modifier_desc:0 "[county_corruption|E]\nThere are not enough sheriffs to handle all the territory in this County"

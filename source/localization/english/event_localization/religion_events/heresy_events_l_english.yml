@@ -6,7 +6,7 @@
  heresy.0010.desc.resurgent:1 "\n\nHaving become disillusioned with the teachings of the [origin_faith.GetAdjective] priests, the nobles of [heretic_title.GetNameNoTierNoTooltip] no longer consider the clergy to be righteous and true. As a result, the nobles of [heretic_title.GetNameNoTierNoTooltip] have revived the abandoned teachings of the [heretic_faith.GetAdherentNamePluralNoTooltip], whose doctrines they feel better align with [heretic_faith.HighGodNamePossessive] will."
  heresy.0010.tt.custom:0 "[heretic_faith.GetName|V]が[heretic_title.GetName]に出現する"
  heresy.0010.a.new_heresy:0 "我々の信仰をあざ笑うとは!?"
- heresy.0010.a.existing_heresy:0 "Those vile heretics have led them astray!"
+ heresy.0010.a.existing_heresy:0 "邪悪な異端者たちは、彼らを迷わせた！"
  heresy.0010.a.astray_faith:0 "I don't get it, but I guess it makes them happy?"
  heresy.0010.a.same_faith:0 "I knew they would see the light eventually!"
  heresy.0010.b:0 "いいところもあるのだが……"

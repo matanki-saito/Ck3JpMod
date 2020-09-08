@@ -44,7 +44,7 @@
  FACTION_DEMAND_POPULIST_DESC_FAITH:0 "我々は、お前達の忠実な[peasant_leader.GetFaith.GetAdherentNamePlural]による卑劣な弾圧をもはや受け容れない。我々は既に爆発寸前だ！\n\n[peasant_leader.GetFaith.WarGodName]が我々を導き、一斉に立ち上がり[ROOT.Char.Custom2('GetUnbelieverTermAdjective', peasant_leader)]の支配から解放される時が来た！"
  FACTION_DEMAND_POPULIST_DESC:0 "[peasant_leader.GetCulture.GetName]よ、我々はお前たちが慕っている[peasant_leader.GetFaith.GetAdherentNamePlural]の卑劣な弾圧をもはや受け容れない。我々は既に爆発寸前だ！\n\n[peasant_leader.GetFaith.WarGodName]が我々を導き、一斉に立ち上がり[ROOT.Char.Custom2('GetUnbelieverTermAdjective', peasant_leader)]の支配から解放される時が来た！"
  FACTION_DEMAND_POPULIST_ACCEPT_CONVERT:0 "ちょっと待て…代わりにお前のやり方を採り入れたとしたらどうなるんだ？"
- FACTION_DEMAND_POPULIST_ACCEPT_GRANT_INDEPENDENCE:0 "良かろう、私はそんな騒ぎばかり起こす民衆など必要としない！"
+ FACTION_DEMAND_POPULIST_ACCEPT_GRANT_INDEPENDENCE:0 "よかろう、私はそんな騒ぎばかり起こす民衆など必要としない！"
  FACTION_DEMAND_POPULIST_ACCEPT_GRANT_INDEPENCE_TT:0 "#N これにより、あなたの領地が無くなります！#!"
  FACTION_DEMAND_POPULIST_REFUSE:0 "自由を欲するだと？ お前は血を見る事になるぞ！"
  FACTION_POPULIST_REVOLT_TITLE_NAME:0 "大衆主義の反乱"

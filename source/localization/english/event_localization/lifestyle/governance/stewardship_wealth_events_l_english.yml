@@ -10,7 +10,7 @@
  stewardship_wealth.1001.c.tt:0 "Every vassal:"
  stewardship_wealth.1001.d:0 "資金調達の為に教会の私財を没収する。"
  stewardship_wealth.1001.e:0 "I will tighten my belt and save what I can."
- stewardship_wealth.1011.t:0 "Minting New Coinage"
+ stewardship_wealth.1011.t:0 "貨幣の新造"
  stewardship_wealth.1011.desc:0 "It is my right and responsibility to determine what coinage is to be used throughout all of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip].\n\nThe choices I make will determine how the coinage — and by extension my realm — is seen throughout the world."
  stewardship_wealth.1011.a:0 "Mint silver coins to facilitate trade."
  stewardship_wealth.1011.b:0 "Mint gold coins imprinted with my own visage!"

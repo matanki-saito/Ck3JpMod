@@ -45,7 +45,7 @@
  adultery.0008.sex_partner.desc:0 "I thought I had been so careful, that there was no evidence of my little dalliance with [sex_partner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]. Yet, in some unfathomable way, [spouse.Custom2('MyCharacterIntroduction', ROOT.Char)] has found out and exposed our secret to the world!"
  adultery.0008.no_sex_partner.desc:0 "I thought I had been so careful, that there was no evidence of my little dalliance. Yet, in some unfathomable way, [spouse.Custom2('MyCharacterIntroduction', ROOT.Char)] has found out about my affair and exposed it to the world!"
  adultery.0008.a:0 "[ROOT.Char.Custom('CulturalCurse')|U]!"
- adultery.0009.desc:0 "[spouse.GetTitledFirstNamePossessive] tears hurt far worse than harsh words ever could. I stand crestfallen as [spouse.GetSheHe] hides [spouse.GetHerHis] face in a handkerchief.\n\n\"I... I thought we were forever,\" [spouse.GetSheHe] whispers between sobs. \"We promised. #EMP You#! promised, [ROOT.Char.GetFirstNameNoTooltip] — and still you shared your bed with another. I can never trust you again. It's over.\""
+ adultery.0009.desc:0 "[spouse.GetTitledFirstNamePossessive]の涙は言葉では言い表せないほど痛い。[spouse.GetHerHis]の顔をハンカチで隠す[spouse.GetSheHe]の姿に、私は絶句した。\n\n「私・・・私たちは永遠だと思っていた」 [spouse.GetSheHe]が嗚咽の合間にささやく。「私たちは約束した。  #EMP あなたも #! 約束したのに、[ROOT.Char.GetFirstNameNoTooltip]ーそれでもあなたは他の人とベッドを共にした。もう二度とあなたを信じられない。おしまいです。」"
  adultery.0009.a:0 "I'm such a fool..."
  adultery.1001.t:0 "A Question of Loyalty"
  adultery.1001.opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))], [mother.GetTitledFirstName], is with child, and I should be overjoyed. However, [mother.GetSheHe] has been acting strange, and I cannot shake the feeling that something is wrong.\n\n"

@@ -1,5 +1,5 @@
 ﻿l_english:
- ONMAP_ARMY_UNIT_TOOLTIP:0 "$NAME$ ($CONTROLLER$)\n($MORALE|V$%)(士気)\n強化/月: $REINFORCEMENTS|V$\n徴税: $LEVIES$ / $MAX_LEVIES|V$\n兵士: $MEN_AT_ARMS$ / $MAX_MEN_AT_ARMS|V$\n連隊: $REGIMENTS|V$\n保守: $MAINTENANCE$\n供給: $SUPPLY|V$ / $MAX_SUPPLY|V$\n供給制限: $SUPPLY_LIMIT|V$"
+ ONMAP_ARMY_UNIT_TOOLTIP:0 "$NAME$ ($CONTROLLER$)\n($MORALE|V$%)(士気)\n補充/月: $REINFORCEMENTS|V$\n徴税: $LEVIES$ / $MAX_LEVIES|V$\n兵士: $MEN_AT_ARMS$ / $MAX_MEN_AT_ARMS|V$\n連隊: $REGIMENTS|V$\n保守: $MAINTENANCE$\n供給: $SUPPLY|V$ / $MAX_SUPPLY|V$\n供給制限: $SUPPLY_LIMIT|V$"
  UNIT_WILL_ARRIVE:0 "$NAME$, [DATE.GetTimeToDate] left ([DATE.GetStringShort|V])"
  UNIT_WILL_ARRIVE_RETREAT:1 "Retreating to $NAME$, [DATE.GetTimeToDate] left ([DATE.GetStringShort|V])"
  UNIT_WILL_MOVEMENT_LOCK:0 "[movement_lock|E] in [DATE.GetTimeToDate]"

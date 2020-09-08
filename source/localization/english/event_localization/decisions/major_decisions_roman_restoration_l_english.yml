@@ -62,7 +62,7 @@
  roman_restoration.0023.t:0 "ヒベルニア属州"
  roman_restoration.0023.desc:0 "The island of Hibernia is the latest addition to the ever-expanding domains of the Roman Empire. This land of gently rolling hills and green fields was never conquered by the old empire, but it should become a pleasant fief to govern if one does not mind the rain or the foul-smelling Norse settlers along the coast."
  roman_restoration.0024.t:1 "Imperial Borders Restored"
- roman_restoration.0024.desc.intro:0 "The story of the Roman Empire's glorious recovery will be told throughout the ages. Those unfortunate enough to have lived through the black days when barbarians sacked Rome at will or the Arab invaders swept in from the desert would not have dared dream of this day. All of the old provinces have been reclaimed, and the Empire now stretches farther than it has in nearly a thousand years."
+ roman_restoration.0024.desc.intro:0 "ローマ帝国の輝かしい復興の物語は、いつの時代にも語られるだろう。野蛮人が意のままにローマを略奪したり、アラブの侵略者が砂漠から押し寄せたりした暗黒の日々を生きてきた不幸な人々は、この日の夢を見ることはなかっただろう。旧領はすべて再生され、帝国は1000年近く経った今ではさらに拡大している。"
  roman_restoration.0024.desc.christian:0 "\n\n ヨーロッパ中の教会の鐘がこの重大な出来事を祝って鳴り響いており、ローマとコンスタンチノープルの男女が喜びの涙を流している。全人類のために、新しいパックス・ロマーナは、世界がローマの導きの光を無視して、無知と野蛮の新たな暗黒時代に突入しないように、耐えなければならない。"
  roman_restoration.0024.desc.hellenic:0 "\n\nガリラヤ人の死んだ神の重荷を下ろし、オリンポスの神々を再び受け入れることで、カエサルとアウグストゥスの帝国は灰の中から蘇った。全人類の為に、新しいパクス・ロマーナは耐えなければならない。世界がローマの導きの光を失った無知と野蛮の暗黒時代に突入しないように。"
  roman_restoration.0024.desc.fallback:0 "\n\n ヨーロッパ中のあらゆる人種、あらゆる信条の人々がこの重大な出来事を祝っていて、ローマとコンスタンチノープルの男女は喜びの涙を流している。全人類のために、新しいパックス・ロマーナは、世界がローマの導きの光を無視して、無知と野蛮の新たな暗黒時代に突入しないように、耐えなければならない。"

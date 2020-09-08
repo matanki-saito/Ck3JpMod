@@ -5,7 +5,7 @@
  LEGACY_REIGN_CURRENT:0 "[LegacyItem.GetStartDate.GetYear]–"
  LEGACY_SCORE:0 "Score: [LegacyItem.GetScore]"
  LEGACY_PRESTIGE:0 "[GetPrestigeLevelName(LegacyItem.GetPrestigeLevel)]"
- LEGACY_CONTINUE_PLAYING:0 "You may continue playing as"
+ LEGACY_CONTINUE_PLAYING:0 "以下でプレイを続けることができます"
  LEGACY_PIETY:0 "[GetPietyLevelName( LegacyItem.GetPietyLevel )]"
  LEGACY_DYNASTY_PRESTIGE:0 "[dynasty|E] became [GetDynastyPrestigeLevelName(LegacyItem.GetDynastyPrestige)]"
  LEGACY_DREAD:0 "Dreaded"

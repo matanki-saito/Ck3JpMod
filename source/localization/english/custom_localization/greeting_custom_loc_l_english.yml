@@ -37,7 +37,7 @@
  greeting_appropriate_negative_family:1 "[ROOT.Char.Custom2('GreetingToFamilyNegative', second)]"
  greeting_appropriate_negative_foreign_ruler:1 "[ROOT.Char.Custom2('GreetingToForeignRulerNegative', second)]"
  greeting_supplimentary.negative:0 "[ROOT.Char.Custom2('NegativeSupplimentaryGreeting', second)]"
- greeting_supplimentary.negative.tales:0 "Tales of your misdeeds are told from Ireland to Cathay."
+ greeting_supplimentary.negative.tales:0 "あなたの悪行の話はアイルランドからキャセイまで語られている。"
  greeting_supplimentary.negative.greek:0 "Your low character is the subject of Greek plays."
  greeting_supplimentary.negative.insult.1:0 "May your humors rot in your living body."
  greeting_supplimentary.negative.insult.2:0 "あなたの人生が短く悲惨なものであらんことを。"

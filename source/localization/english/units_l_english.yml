@@ -37,7 +37,7 @@
  KNIGHT_IN_THIS_ARMY_TOOLTIP:1 "[knight_i]Is a $knight_culture_player$ in this [army|E]"
  KNIGHT_IN_ARMY_TOOLTIP:1 "[knight_i]Is a $knight_culture_player$ in an [army|E]"
  UNIT_HOSTILE:0 "This [army|E] is [hostile_army|E]"
- SUPPLY_BREAKDOWN_FRIENDLY_TERRITORY:0 "In friendly territory"
+ SUPPLY_BREAKDOWN_FRIENDLY_TERRITORY:0 "友好地域内"
  SUPPLY_BREAKDOWN_LIMIT:0 "Over [supply_limit|E]"
  SUPPLY_BREAKDOWN_COMMANDER:0 "[commander|E] ([CHARACTER.GetShortUIName])"
  SUPPLY_LOSS_AT_SEA:0 "At Sea"

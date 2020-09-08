@@ -11,7 +11,7 @@
  DECISIONS_VIEW_MAJOR_TOGGLE:0 "この決断が利用可能になった時に通知する"
  DECISION_DETAIL_REQUIREMENTS:0 "要件"
  DECISION_DETAIL_EFFECTS:0 "効果"
- DECISION_NOT_VALID:0 "@warning_icon!#X You do not fulfill all the requirements#!"
+ DECISION_NOT_VALID:0 "@warning_icon!#X すべての要件を満たしていません#!"
  DECISIONS_VIEW_COUNCILLOR:1 "On your [liege|E]'s [council|E]"
  DECISIONS_VIEW_LEAVE_COUNCIL:0 "Resign"
  DECISIONS_VIEW_LEAVE_COUNCIL_TT:1 "#T Resign from Council#!\nResign from the position of [GetPlayer.GetCouncilTitle], relinquishing any benefits of the position"

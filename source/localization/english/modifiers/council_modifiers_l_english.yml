@@ -27,7 +27,7 @@
  marshal_task_military_presence_modifier:0 "Military Presence"
  marshal_task_military_presence_modifier_desc:0 "Grants immunity to [county_corruption|E].\n\nThis county has a well-organized presence of soldiers, aiding the local rulers as needed."
  marshal_task_increase_control_decreased_opinion_modifier:0 "Chafing Control"
- marshal_task_increase_control_decreased_opinion_modifier_desc:0 "This County suffers under the harsh attention of the realm's Marshal."
+ marshal_task_increase_control_decreased_opinion_modifier_desc:0 "この州は王国の元帥の厳しい警戒に苦しんでいます。"
  marshal_task_increase_control_increased_opinion_modifier:0 "Marshal Guidance"
  marshal_task_increase_control_increased_opinion_modifier_desc:0 "This County benefits greatly from the attentions of the realm's Marshal."
  steward_construction_slowdown_modifier:0 "Construction Slowdown"
