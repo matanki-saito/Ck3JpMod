@@ -33,7 +33,7 @@
  IGNORED_DEVELOPMENT:0 "#weak $VALUE$#! "
  COUNTY_DEVELOPMENT:0 "$VALUE$"
  SUPPLY_MINIMUM:0 "最低限の供給"
- HOLDING_TT_CONSTRUCTING:1 "Constructing [BUILDING.GetName|V] (finishing [DATE.GetString])"
+ HOLDING_TT_CONSTRUCTING:1 "[BUILDING.GetName|V]を建設中 (完成予定 [DATE.GetString])"
  HOLDING_TT_UNDER_SIEGE:0 "Under [siege|E] by [CHARACTER.GetPrimaryTitle.GetName]"
  HOLDING_TT_OCCUPIED:0 "[occupied|E] by [CHARACTER.GetPrimaryTitle.GetName]"
  HOLDING_TT_FORT:0 "[fort_level|E]: @fort_icon!$VALUE|V$"

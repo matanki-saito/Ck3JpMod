@@ -21,7 +21,7 @@
  tribal.1003.desc:0 "\n\n[liege_to_challenge.Custom2('MyCharacterIntroduction', ROOT.Char)|U] [liege_to_challenge.Custom('SignatureWeaponActionThirdPerson')] [liege_to_challenge.GetHerHis] [liege_to_challenge.Custom('signature_weapon')] そして私に向かって一歩を踏み出した。部族全員が私と挑戦者の周りに集まった。興奮と恐怖が重くのしかかっていた。 私が身体を広げて構えると..."
  tribal.1003.a:0 "...[ROOT.Char.Custom('signature_weapon')]を掲げた。"
  tribal.1003.b:0 "...両手を上げ、気まずく笑った。"
- tribal.1004.desc_opening:0 "My [liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))] [challenger.GetFirstName] [challenger.Custom('SignatureWeaponActionThirdPerson')] [challenger.GetHerHis] [challenger.Custom('signature_weapon')] and takes a step towards me. The whole tribe is gathered around us, excitement and fear heavy in the air.\n\n"
+ tribal.1004.desc_opening:0 "[liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))][challenger.GetFirstName][challenger.Custom('SignatureWeaponActionThirdPerson')][challenger.GetHerHis][challenger.Custom('signature_weapon')]は私に向かって一歩踏み出す。部族全員が私たちの周りに集まっている、興奮と恐怖が重く漂っている。\n\n"
  tribal.1004.desc:0 "I raise my [ROOT.Char.Custom('signature_weapon')] and attack. #EMP Dodge, press on, feint— Ugh!#! With [challenger.Custom('SignatureWeaponActionReaction')] [challenger.GetFirstNameNoTooltip] [challenger.Custom('SignatureWeaponCriticalPresent')] my leg, and as I stumble I realize it is over. The tribe is not cheering for me anymore."
  tribal.1004.a:0 "呪ってやる！"
  tribal.1005.desc:0 "I raise my [ROOT.Char.Custom('signature_weapon')] and attack.\n\n#EMP Dodge, press on, feint...#! With [ROOT.Char.Custom('SignatureWeaponActionReaction')] I [ROOT.Char.Custom('SignatureWeaponCritical')] [challenger.GetHerHis] leg, and as [challenger.GetSheHe] stumbles I know it is done."

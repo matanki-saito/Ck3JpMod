@@ -20,4 +20,4 @@
  prison_notification.2002.t:0 "Free Once More"
  prison_notification.2002.desc:0 "My [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], [prisoner.GetTitledFirstName], has been released from [prisoner.GetHerHis] imprisonment at the hands of [imprisoner.GetTitledFirstName], and is once again free!"
  prison_notification.2002.a:0 "投獄は残酷です。"
- prison_notification.2003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] Released!"
+ prison_notification.2003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U]が解放された!"

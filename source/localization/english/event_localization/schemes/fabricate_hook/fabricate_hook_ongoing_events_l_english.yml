@@ -5,5 +5,5 @@
  fabricate_hook_ongoing.0001.b:0 "\"How would one go about getting closer to [target.GetHerHim]?\""
  fabricate_hook_ongoing.0002.t:0 "$fabricate_hook_header$ 不当な影響"
  fabricate_hook_ongoing.0002.desc:0 "[target.GetTitledFirstName] seems unusually careful around [target.GetHerHis] [target.Custom2('RelationToMeShort', hooking_character )], [hooking_character.GetTitledFirstName]. This kind of deference can only mean that [hooking_character.GetFirstNameNoTooltip] has some kind of leverage on [target.GetHerHim].\n\nPerhaps there is something for me to learn, here?"
- fabricate_hook_ongoing.0002.a:0 "My spies should dig for an explanation to this mystery."
+ fabricate_hook_ongoing.0002.a:0 "私のスパイはこの謎を解明すべきだ。"
  fabricate_hook_ongoing.0002.b:0 "I must know what [hooking_character.GetSheHe] makes [target.GetHerHim] do!"

@@ -1,6 +1,6 @@
 ﻿l_english:
- WAR_OVERVIEW_YOUR_PARTICIPANTS:2 "Attackers' Allies"
- WAR_OVERVIEW_THEIR_PARTICIPANTS:2 "Defenders' Allies"
+ WAR_OVERVIEW_YOUR_PARTICIPANTS:2 "攻撃側同盟者"
+ WAR_OVERVIEW_THEIR_PARTICIPANTS:2 "防衛側同盟者"
  WAR_OUR_FORCES:1 "Our Forces:"
  WAR_THEIR_FORCES:1 "Their Forces:"
  WAR_OVERVIEW_STARTED:1 "開戦: [WarOverviewWindow.GetWarDuration]前"
@@ -37,7 +37,7 @@
  PEACEMAKER_PERK_MODIFIER:0 "[GetPerk( 'peacemaker_perk' ).GetName( GetPlayer )]: $VALUE|+=0$"
  WAR_LENGTH:0 "Long War: $VALUE|+=0$"
  CONCERN_ABOUT_OTHER_WARS:0 "Other Wars: $VALUE|+=0$"
- WAR_COST:0 "Cost:"
+ WAR_COST:0 "コスト:"
  WAR_OVERVIEW_MY_CONTRIBUTION:1 "Your [war_contribution|E]"
  WAR_OVERVIEW_BENEFICIARY:1 "Your [beneficiary|E]"
  WAR_OVERVIEW_BENEFICIARY_NAME:0 "[CHARACTER.GetUIName]"

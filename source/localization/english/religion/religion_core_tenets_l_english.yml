@@ -35,7 +35,7 @@
  tenet_human_sacrifice_desc:0 "私たちの献身を証明する最良の方法は、犠牲の行為です。私たちが提供できる最も価値のある犠牲は、人命の犠牲です。"
  doctrine_parameter_human_sacrifice_active:0 "[executions|E] earn [piety|E] instead of costing [piety|E]"
  doctrine_parameter_flower_war_cb_active:0 "Grants the [flowery_war|E] [casus_belli|E] against neighboring realms"
- tenet_consolamentum_name:0 "慰問"
+ tenet_consolamentum_name:0 "救慰礼"
  tenet_consolamentum_desc:0 "年をとったり病気になったりすると、罪の魂を清める儀式を行なう。それが終われば、私たちは人生を早く確実に終わらせ、罪が私たちに再び感染する機会を与えないようにする。"
  doctrine_parameter_consolamentum_active:1 "Adherents can [decide|E] to end their life when old, incapable, or near death; doing so does not incur any of the normal penalties from suicide"
  tenet_gnosticism_name:0 "グノーシス主義"

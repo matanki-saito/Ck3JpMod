@@ -9,7 +9,7 @@
  NOT_DE_FACTO_LIEGE_EQUAL:0 "The current de facto owner of the [TITLE.GetName] is #bold not#! the [TARGET_TITLE.GetName]"
  IS_HELD_BY:0 "Is held by [TARGET_CHARACTER.GetShortUIName]"
  NOT_IS_HELD_BY:0 "Is #bold not#! held by [TARGET_CHARACTER.GetShortUIName]"
- TITLE_IS_HELD_BY:0 "[TITLE.GetName] is held by [TARGET_CHARACTER.GetShortUIName]"
+ TITLE_IS_HELD_BY:0 "[TITLE.GetName]が[TARGET_CHARACTER.GetShortUIName]により保有されている"
  NOT_TITLE_IS_HELD_BY:0 "[TITLE.GetName] is #bold not#! held by [TARGET_CHARACTER.GetShortUIName]"
  LIEGE_EQUAL_FIRST:1 "You are a vassal of [TARGET_CHARACTER.GetShortUIName]"
  NOT_LIEGE_EQUAL_FIRST:1 "You are #bold not#! a vassal of [TARGET_CHARACTER.GetShortUIName]"

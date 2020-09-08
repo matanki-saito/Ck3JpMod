@@ -190,7 +190,7 @@
  building_cereal_fields_08_desc:1 "この巨大貯蔵庫は、一年にわたって膨大な量の穀物を貯蔵するのが目的です。 一つの軍勢だけでは消費しきれないだけの量があります。 もちろんこれはネズミが入り込まないことが前提ですが...。"
  building_type_barracks_01:0 "兵舎"
  building_type_barracks_01_desc:1 "#F Barracks are sturdy buildings with the sole purpose of housing and readying local levies for war.#!"
- building_barracks_01:1 "Wooden Barracks"
+ building_barracks_01:1 "木造兵舎"
  building_barracks_01_desc:1 "To house levies as they ready for war, they need at least a roof over their head. These simple wooden barracks, thrown together in a hurry by 'willing' carpenters and woodsmen, offer decent protection from the elements... Well, unless it rains."
  building_barracks_02:1 "Levying Grounds"
  building_barracks_02_desc:1 "By clearing a large swathe of land of any obstructions, we can muster our soldiers in one place for division into units. The clear vision also allows for easier spotting of deserters."

@@ -91,7 +91,7 @@
  trait_specific_ongoing.2003.a:0 "Is my mind playing tricks on me?"
  trait_specific_ongoing.2010.t:0 "Divine Focus"
  trait_specific_ongoing.2010.possessed_start.desc:0 "I have been receiving frequent messages from three sacred beings. They come to me almost every night, their faces shrouded by divine light. I think they must be the spirits of"
- trait_specific_ongoing.2010.zeal_start.desc:0 "Since about a month back, I have been having a recurring dream, in which I discuss theology with"
+ trait_specific_ongoing.2010.zeal_start.desc:0 "1ヶ月ほど前から、私は繰り返し夢を見るようになった。その夢では、神学について次のように論じている。"
  trait_specific_ongoing.2010.health.desc:0 "[ROOT.Char.GetFaith.HealthGodName],"
  trait_specific_ongoing.2010.fertility.desc:0 "[ROOT.Char.GetFaith.FertilityGodName],"
  trait_specific_ongoing.2010.wealth.desc:0 "[ROOT.Char.GetFaith.WealthGodName],"

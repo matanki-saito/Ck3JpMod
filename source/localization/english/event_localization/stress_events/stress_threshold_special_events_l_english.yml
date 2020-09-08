@@ -9,7 +9,7 @@
  stress_threshold_special.1001.desc_parent:0 "Though I knew it had to happen eventually, I've found myself woefully unprepared for the death of my [ROOT.Char.Custom2('RelationToMe', deceased_character)].\n\nSuddenly I can no longer go to [deceased_character.GetHerHim] for comfort or advice.\n\nThere's just empty space where they used to be... Can it ever be filled?"
  stress_threshold_special.1001.desc_lover:1 "Each and every day is a battle, one where I struggle to find meaning in [deceased_character.GetHerHis] absence. I can't stop thinking of all the wonderful times we had together...\n\nNow there will never be any more."
  stress_threshold_special.1001.desc_friend:0 "\n\n[deceased_character.GetSheHe|U] was always ready to cheer me up or help me out of a tight spot. With all my recent troubles, [deceased_character.GetHerHis] absence is especially notable."
- stress_threshold_special.1001.depressed:0 "Is a life without [deceased_character.GetHerHim] in it even worth living?"
+ stress_threshold_special.1001.depressed:0 "[deceased_character.GetHerHim]のない人生に生きる価値があるのか？"
  stress_threshold_special.1001.drunkard:0 "A drink to remember [deceased_character.GetHerHim]... and a drink to forget."
  stress_threshold_special.1001.hashishiyah:0 "This pain is far too raw. I need something to numb it..."
  stress_threshold_special.1001.flagellant:0 "It's all my fault, too. I deserve to suffer for this..."
