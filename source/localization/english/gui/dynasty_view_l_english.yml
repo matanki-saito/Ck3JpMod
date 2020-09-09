@@ -32,7 +32,7 @@
  RENAME_DYNASTY_DESC:0 "あなたの[dynasty|E]名を変更"
  RENAME_DYNASTY_ACCEPT:0 "リネーム"
  EDIT_DYNASTY_NAME:0 "#T Rename Dynasty#!"
- DYNASTY_VIEW_MY_DYNASTY:0 "Your [dynasty|E]"
+ DYNASTY_VIEW_MY_DYNASTY:0 "あなたの[dynasty|E]"
  DYNASTY_TT_DYNAST:0 "[dynast|E]: [Dynasty.GetDynast.GetUIName]"
  DYNASTY_TT_SPLENDOR_LEVEL:0 "[dynasty_prestige_level|E]: [Dynasty.GetPrestigeLevelName]"
  DYNASTY_TT_MEMBERS:0 "[Dynasty.GetNumberOfLivingMembers|V] Living Members"

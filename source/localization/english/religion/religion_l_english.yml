@@ -503,7 +503,7 @@
  doctrine_parameter_divorce_approval:0 "[head_of_faith|E]の（宗派の精神的指導者が存在しない場合は[house_head|E]の）許可を得た場合、キャラクターは[spouse|E]との[divorce|E]が可能"
  doctrine_parameter_divorce_allowed:1 "キャラクターは常に[piety|E]を費やすことで[spouse|E]と[divorce|E]することが可能"
  doctrine_bastardry_name:0 "非嫡出子"
- doctrine_bastardry_none_name:0 "非嫡出は存在しない"
+ doctrine_bastardry_none_name:0 "非嫡子は存在しない"
  doctrine_bastardry_none_desc:0 "血は婚姻の有無ではなく、血筋によって決まる。婚外子も同様に嫡出子と見做される。"
  doctrine_bastardry_legitimization_name:0 "正当化"
  doctrine_bastardry_legitimization_desc:0 "結婚は神聖なものであるため、婚姻外で生まれた子供を正当化するには、異なる方法で祝福しなければならない。"

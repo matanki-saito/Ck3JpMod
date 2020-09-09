@@ -34,7 +34,7 @@
  death_malnourishment:0 "栄養失調により死亡した"
  death_obesity:0 "肥満に関連する合併症により死亡した"
  blind:1 "[CHARACTER.GetHerHis]はつまづき転落死した"
- death_inbred:0 "近親婚を起因とする合併症によって死亡した"
+ death_inbred:0 "近親交配を起因とする合併症によって死亡した"
  death_physician_mistreatment:0 "治療ミスを起因とする併発症によって死亡した"
  UNKNOWN_DEATH_REASON:0 "原因不明の死を遂げた"
  death_murder:0 "殺害された"

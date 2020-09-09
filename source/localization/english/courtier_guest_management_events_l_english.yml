@@ -17,6 +17,6 @@
  courtier_guest_management.1001.marriage_my_daughters.desc:1 "お嬢様の一人"
  courtier_guest_management.1001.marriage_my_child.desc:0 "私の[marriage_child.Custom('GetDaughterSon')][marriage_child.GetShortUIName]"
  courtier_guest_management.1001.vassal.desc:0 "[exceptional_guest.GetShortUIName|U] would make for a loyal and accomplished vassal"
- courtier_guest_management.1001.commander.desc:0 "[exceptional_guest.GetShortUIName|U] would make for an accomplished commander"
+ courtier_guest_management.1001.commander.desc:0 "[exceptional_guest.GetShortUIName|U]は優れた指揮官になるだろう"
  courtier_guest_management.1001.knight.desc:0 "[exceptional_guest.GetShortUIName|U] is an experienced fighter"
- courtier_guest_management.1001.physician.desc:0 "[exceptional_guest.GetShortUIName|U] is a trained healer"
+ courtier_guest_management.1001.physician.desc:0 "[exceptional_guest.GetShortUIName|U]は癒し手の訓練を受けています。"

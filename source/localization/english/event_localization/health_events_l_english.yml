@@ -136,7 +136,7 @@
  health.2003.t:1 "[SCOPE.Custom('EventTitleDisease')]: Cast Away"
  health.2003.start.desc:0 "When I told [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('other_partner')) ] of my affliction, I sought [other_partner.GetHerHis] comfort but was given [other_partner.GetHerHis] rejection. The disgust shone in [other_partner.GetFirstNamePossessive] eyes when [other_partner.GetSheHe]"
  health.2003.consort.desc:0 "told me to stay away from [other_partner.GetHerHis] bed."
- health.2003.lover.desc:0 "ended things between us."
+ health.2003.lover.desc:0 "私たちの間で事を終えた。"
  health.2003.a:0 "Shall everything be taken from me?"
  health.2101.t:1 "[SCOPE.Custom('EventTitleDisease')]: A Killer In Our Midst"
  health.2101.smallpox_outbreak.desc:0 "The curse of death has fallen upon my court — a case of smallpox has been discovered!"

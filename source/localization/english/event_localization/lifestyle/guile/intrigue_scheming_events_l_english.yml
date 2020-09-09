@@ -38,7 +38,7 @@
  intrigue_scheming.1202.desc:0 "\"So this is what you should do...\"\n[hired_spy.GetTitledFirstName], an #EMP expert#! in the discreet arts, has been all over my [ROOT.Char.Custom('FortifiedBuilding')], scaring both servant and courtier alike when emerging from the darkest of corners.\n\nHuddled around [hired_spy.GetHerHis] notes, a detailed plan for increased security is slowly taking form."
  intrigue_scheming.1202.a:0 "I already feel safer!"
  intrigue_scheming.1202.b:0 "I might have use for someone of your talents."
- intrigue_scheming.1202.b.tt:1 "[hired_spy.GetTitledFirstName] stays at your court"
+ intrigue_scheming.1202.b.tt:1 "[hired_spy.GetTitledFirstName]はあなたの宮廷に留まります"
  intrigue_scheming.1202.c:0 "This knowledge cannot be widely known, of course."
  intrigue_scheming.1401.t:0 "Tidbits from Far Away"
  intrigue_scheming.1401.desc_opening:0 "地元の市場を訪れた私の目に留まったのは、遠く離れた土地から来た商人だった。\n\n「近くに来てください、我が[ROOT.Char.GetLadyLord]！ この地では見たこともないような財宝に驚嘆してください。」"

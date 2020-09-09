@@ -10,7 +10,7 @@
  SCHEME_SOME_AGENTS_NOT_EXPOSED:0 "Some Scheme Agents are not exposed yet"
  SCHEME_UNKNOWN:0 "Unknown Scheme"
  SCHEME_INFLUENCE_NUMBER:0 "$VALUE|2$"
- SCHEME_PROGRESS_DESCRIPTION:0 "Scheme Progress: [SCHEME.GetProgress|0V]/#V 10#!"
+ SCHEME_PROGRESS_DESCRIPTION:0 "計画の進捗:[SCHEME.GetProgress|0V]/#V 10#!"
  SCHEME_PROGRESS_FROZEN:0 "The progress is frozen until [DATE.GetString|V]"
  scheme_setup_heads_up:0 "I attempt to complete my scheme."
  SCHEME_FULL_ACTION_NAME:0 "[SCHEME.GetActionName] [SCHEME.GetTarget.GetTitledFirstNameOrMeNoTooltip]"

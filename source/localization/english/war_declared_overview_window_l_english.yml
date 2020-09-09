@@ -24,4 +24,4 @@
  war_declared_flavor.retraction_refused:0 "$char_interaction.0221.desc$"
  war_declared_flavor.revocation_refused:0 "$char_interaction.0201.desc$"
  war_declared_flavor.imprisonment_refused:0 "おまえを暴君と名付け、その権威に服従しない！我が領土は悪意ある支配に反旗を翻す！"
- war_declared_flavor.fallback:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] It seems that there is no recourse for our dispute other than to settle it on the battlefield."
+ war_declared_flavor.fallback:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]我々の論争は戦場で解決する以外に解決策はないようだ。"

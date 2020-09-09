@@ -1,6 +1,6 @@
 ﻿l_english:
  bishop.1001.opening:0 "[bishop.Custom2('AppropriateGreeting', ROOT.Char)]"
- bishop.1001.desc:0 "[spouse.GetTitledFirstName]との結婚が本質的に近親婚であることを証明する反論の余地のない証拠が明らかになったことを知らせるのは私の義務です。この不道徳な関係をすぐに終わらせるなら、この情報は私たち二人の間にとどまるでしょう。"
+ bishop.1001.desc:0 "私の義務は、[spouse.GetTitledFirstName]との結婚が本質的に近親婚であることを証明する反論の余地のない証拠が明らかになったことを知らせることです。この不道徳な関係をすぐに終わらせるなら、この情報は私たち二人の間にとどまるでしょう。"
  bishop.1001.a:0 "Of course, [bishop.GetTitledFirstNameNoTooltip]."
  bishop.1001.a.tt:1 "@warning_icon!#X You divorce [spouse.GetUIName]#!"
  bishop.1001.b:0 "そんなあからさまなうそで、私たちの結婚生活が引き裂かれることはないでしょう！"

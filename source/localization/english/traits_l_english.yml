@@ -522,7 +522,7 @@
  trait_giant:0 "巨人"
  trait_giant_desc:1 "この人物が通りすがるたび、他の人々は畏敬の念を抑えながら見上げることになる。"
  trait_giant_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]が通りすがるたび、他の人々は畏敬の念を抑えながら見上げることになる。"
- trait_inbred:0 "近親婚"
+ trait_inbred:0 "近親交配"
  trait_inbred_desc:0 "この人物の家族は、#EMP あまりにも#!近しい。"
  trait_inbred_character_desc:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]の家族は、#EMP あまりにも#!近しい。"
  trait_weak:0 "虚弱"

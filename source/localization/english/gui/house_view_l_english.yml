@@ -27,7 +27,7 @@
  HOUSE_VIEW_NAME_WITH_HOUSE:1 "House [DynastyHouse.GetBaseNameNoTooltip]"
  COOLTIP_HOUSE_NAME:0 "House [DynastyHouse.GetBaseNameNoTooltip]\n#weak \"[DynastyHouse.GetMotto]\"#!"
  HOUSE_VIEW_MOTTO:0 "#weak \"[DynastyHouse.GetMotto]\"#!"
- HOUSE_VIEW_PLAYER_IS_MEMBER:1 "Your [house|E]"
+ HOUSE_VIEW_PLAYER_IS_MEMBER:1 "あなたの[house|E]"
  DYNASTY_HOUSE_TT_HEAD_OF_HOUSE:0 "[house_head|E]: [DynastyHouse.GetHeadOfHouse.GetShortUIName]"
  DYNASTY_HOUSE_TT_DYNASTY:0 "[dynasty|E]: [DynastyHouse.GetDynasty.GetBaseName]"
  DYNASTY_HOUSE_TT_DYNASTY_LEVEL:0 "[dynasty_prestige_level|E]: [DynastyHouse.GetDynasty.GetPrestigeLevelName]"

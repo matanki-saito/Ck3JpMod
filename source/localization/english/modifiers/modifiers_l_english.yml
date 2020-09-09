@@ -398,7 +398,7 @@
  MOD_OPINION_OF_VASSAL:0 "[vassals|E]への評価"
  MOD_OPINION_OF_DIFFERENT_FAITH_LIEGE:0 "異なる[faith|E]の[liege|E]への評価"
  MOD_SPOUSE_OPINION:0 "[spouse|E]の評価"
- MOD_TWIN_OPINION:0 "Twin Opinion"
+ MOD_TWIN_OPINION:0 "双子の評価"
  MOD_CLOSE_RELATIVE_OPINION:0 "[close_family|E]の評価"
  MOD_DYNASTY_HOUSE_OPINION:0 "[house|E]の評価"
  MOD_DYNASTY_OPINION:0 "[dynasty|E]の評価"

@@ -7,5 +7,5 @@
  POTENTIAL_FACTION_MEMBER_NOT_AVAILABLE:0 "#N Can not be forced to join#!"
  POTENTIAL_FACTION_MEMBER_MILITARY_STRENGTH_TT_HEADER:0 "#T Military Strength#!"
  POTENTIAL_FACTION_MEMBER_TT:0 "#T $force_join_faction_interaction$#!"
- CHARACTER_SORT_OPINION_OF_LIEGE:0 "主君への評価"
+ CHARACTER_SORT_OPINION_OF_LIEGE:0 "君主への評価"
  POTENTIAL_FACTION_MEMBERS_OPINION_OF_LIEGE:0 "Opinion of Liege: [CharacterListItem.GetInt( 'opinion_of_liege' )|+]"

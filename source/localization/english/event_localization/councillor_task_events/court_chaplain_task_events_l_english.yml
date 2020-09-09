@@ -28,7 +28,7 @@
  court_chaplain_task.3001.t:0 "Undermining Order"
  court_chaplain_task.3001.desc:0 "My [councillor.GetCouncilTitle], [councillor.GetFirstName], seems deeply concerned when [councillor.GetSheHe] comes to me.\n\n\"It has come to light that I am... investigating the existence of a just and rightful for you on the [county.GetName]. Suffice to say, many of your vassals are upset that their [ROOT.Char.GetTitleTierName] would ignore their loyalty and act against them like this.\""
  court_chaplain_task.3001.a:0 "How could you let them catch you?!"
- court_chaplain_task.3002.notification:0 "Accused of Claim Fabrication"
+ court_chaplain_task.3002.notification:0 "請求権の捏造が告発された"
  court_chaplain_task.3003.opening:0 "[vassal.Custom2('AppropriateGreeting', ROOT.Char)]"
  court_chaplain_task.3003.desc:0 "It has come to my attention that your [councillor.GetCouncilTitle], [councillor.GetFirstName], is working to fabricate a spurious claim on the [county.GetName]. I implore you to remember that you are [ROOT.Char.GetTitleTierName] by right, not by greed."
  court_chaplain_task.3003.a:0 "I know what I am doing, [vassal.GetFirstNameNoTooltip]."

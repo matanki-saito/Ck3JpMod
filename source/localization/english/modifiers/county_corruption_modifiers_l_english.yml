@@ -13,7 +13,7 @@
  county_corruption_lack_of_sheriffs_modifier_desc:0 "[county_corruption|E]\nThere are not enough sheriffs to handle all the territory in this County"
  county_corruption_lack_of_courts_modifier:0 "Distrust of Courts"
  county_corruption_lack_of_courts_modifier_desc:0 "[county_corruption|E]\nThere are not enough courts to sit in judgement in peasant cases in this County"
- county_corruption_thieves_guild_modifier:0 "Thieves Guild"
+ county_corruption_thieves_guild_modifier:0 "盗賊ギルド"
  county_corruption_thieves_guild_modifier_desc:0 "[county_corruption|E]\nA thieves' guild is operating freely in this County"
  county_corruption_unsafe_highways_modifier:0 "Unsafe Highways"
  county_corruption_unsafe_highways_modifier_desc:0 "[county_corruption|E]\nThe highways of this County are less safe than wandering through the forest at night"

@@ -42,5 +42,5 @@
  MAA_BASE_TYPE:0 "兵種: $TYPE|V$"
  MAA_CHUNK_SIZE:0 "[soldiers|E]: $VALUE|V$"
  CREATE_MAA_HEADER:0 "#T [REGIMENT_TYPE.GetNameNoTooltip|V]連隊を作成#!"
- CANT_CREATE_MAA_AT_CAP:0 "@warning_icon!#X [men_at_arms|E]は連隊上限です#!"
+ CANT_CREATE_MAA_AT_CAP:0 "@warning_icon!#X [men_at_arms|E]は連隊数上限に達しています#!"
  CREATE_MAA_TOOLTIP:0 "#T 新しい[men_at_arms|E][regiment|E]を作成#!\n[MilitaryItem.GetMaACanBeCreatedTooltip]"

@@ -79,7 +79,7 @@
  ACHIEVEMENT_DESC_frankokratia_achievement:1 "As a French Catholic, hold and [completely_control|E] the [kingdom|E] of Thessalonika without holding or being vassalized to the Byzantine Empire"
  ACHIEVEMENT_DESC_celebrity_achievement:1 "[prestige_level|E]が最高レベルに到達する"
  ACHIEVEMENT_DESC_saint_achievement:1 "[piety_level|E]が最高レベルに到達する"
- ACHIEVEMENT_DESC_keeping_it_in_the_family_achievement:1 "近親婚の[trait|E]を持つ[child|E]が産まれる"
+ ACHIEVEMENT_DESC_keeping_it_in_the_family_achievement:1 "近親交配の[trait|E]を持つ[child|E]が産まれる"
  ACHIEVEMENT_DESC_non_nobis_domine_achievement:1 "[holy_order|E]を設立する"
  ACHIEVEMENT_DESC_trapped_in_the_web_achievement:1 "3人の[direct_vassals|E]に対して[strong_hooks|E]を獲得する"
  ACHIEVEMENT_DESC_followed_by_shadows_achievement:1 "Know ten [secrets|E] simultaneously"

@@ -401,7 +401,7 @@
  jealousy_at_court_effect.confider.list:0 "All [courtiers|E] will consider [friend.GetFirstNameNoTooltip] a sycophant"
  encouraged_city_burn_modifier:0 "Let Them All Burn"
  encouraged_city_burn_modifier_desc:0 "This character let an entire holding burn almost to the ground."
- lashing_out_at_victims_modifier:0 "Lashing out at Victims"
+ lashing_out_at_victims_modifier:0 "犠牲者に当たり散らす"
  lashing_out_at_victims_modifier_desc:0 "This character continually lashes out at victims that need their help."
  lost_in_lust_modifier:0 "Lost in Lust"
  lost_in_lust_modifier_desc:0 "This character drowns out their past in a tangle of limbs."

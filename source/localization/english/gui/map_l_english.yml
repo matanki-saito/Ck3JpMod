@@ -1,7 +1,7 @@
 ﻿l_english:
  ONMAP_ARMY_UNIT_TOOLTIP:0 "$NAME$ ($CONTROLLER$)\n($MORALE|V$%)(士気)\n補充/月: $REINFORCEMENTS|V$\n徴税: $LEVIES$ / $MAX_LEVIES|V$\n兵士: $MEN_AT_ARMS$ / $MAX_MEN_AT_ARMS|V$\n連隊: $REGIMENTS|V$\n保守: $MAINTENANCE$\n供給: $SUPPLY|V$ / $MAX_SUPPLY|V$\n供給制限: $SUPPLY_LIMIT|V$"
  UNIT_WILL_ARRIVE:0 "$NAME$, [DATE.GetTimeToDate] left ([DATE.GetStringShort|V])"
- UNIT_WILL_ARRIVE_RETREAT:1 "Retreating to $NAME$, [DATE.GetTimeToDate] left ([DATE.GetStringShort|V])"
+ UNIT_WILL_ARRIVE_RETREAT:1 "$NAME$へ退却中 [DATE.GetTimeToDate]日後([DATE.GetStringShort|V])"
  UNIT_WILL_MOVEMENT_LOCK:0 "[movement_lock|E] in [DATE.GetTimeToDate]"
  UNIT_IS_EMBARKED:0 "Embarked"
  UNIT_WILL_EMBARK:0 "Will embark"
@@ -83,7 +83,7 @@
  cultures_MAP_MODE_TOOLTIP_CLICK_TO_SELECT:0 "\n#I クリックで[PROVINCE.GetCounty.GetCulture.GetNameNoTooltip]を選択#!"
  FAITHS_MAP_MODE_TOOLTIP:0 "#T County Faith#!: [ROOT.Province.GetCounty.GetFaith.GetNameNoTooltip]\nTop Liege's Faith: [ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetFaith.GetNameNoTooltip]"
  faiths_MAP_MODE_TOOLTIP_CLICK_TO_SELECT:0 "\n#I クリックで[PROVINCE.GetCounty.GetFaith.GetNameNoTooltip]を選択#!"
- ADDITIONAL_MAPMODES:0 "Additional Modes"
+ ADDITIONAL_MAPMODES:0 "追補マップ一覧"
  ZOOM_LEVEL_PAPER_MAP:0 "羊皮紙マップ"
  ZOOM_LEVEL_PAPER_MAP_TOOLTIP:0 "$ZOOM_LEVEL_PAPER_MAP$では世界に存在する全独立[realms|E]を概観することができます。\n\n#TUT このマップモードでは、マップをクリックすると[realms|E]が選択されます。#!"
  ZOOM_LEVEL_POLITICAL:0 "政治マップ"

@@ -27,7 +27,7 @@
  FRONTEND_INVITE:0 "サーバーID:[GetServerInfo.GetServerID] を送信して、より多くのプレーヤーを招待する\n"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER:0 "Log in for Multiplayer"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER_TT:0 "Open Login window"
- FRONTEND_LOGGED_IN:0 "Logged in"
+ FRONTEND_LOGGED_IN:0 "ログインします"
  FRONTEND_JOIN_MULTIPLAYER:0 "ゲームに参加"
  FRONTEND_SELECT_GAME_TO_LOAD:0 "Select a save game to load"
  FRONTEND_END_GAME:0 "End Game"

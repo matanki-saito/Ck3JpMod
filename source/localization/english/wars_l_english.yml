@@ -110,7 +110,7 @@
  independence_war_victory_desc_local_player_defender_attacker_alone:0 "[attacker.GetShortUIName|U]が[defender.GetShortUIName]から独立します。"
  player_independence_war_victory_desc_local_player_defender_attacker_alone:0 "[attacker.GetShortUIName|U]があなたから独立します。"
  independence_war_victory_desc_local_player_attacker:0 "[attacker.GetShortUIName|U] and all rebellious vassals of [defender.GetShortUIName] become independent."
- independence_war_victory_desc_local_player_defender:0 "反抗的な家臣は皆独立する。"
+ independence_war_victory_desc_local_player_defender:0 "すべての反抗的な封臣は独立します。"
  independence_war_victory_desc:0 "All rebellious vassals of [defender.GetShortUIName] become independent."
  player_independence_war_white_peace_defender_desc:0 "[attacker.GetShortUIName|U]はあなたの封臣のままです。"
  player_independence_war_white_peace_attacker_desc:0 "あなたは[defender.GetShortUIName]の封臣のままです。"
