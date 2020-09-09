@@ -207,7 +207,7 @@
  msg_new_theocracy_lesee_approve_desc:1 "[LEFT_CHARACTER.GetShortUIName|U] endorses you #weak ([church_property|E])#!"
  msg_new_theocracy_lesee_disapprove_desc:1 "[LEFT_CHARACTER.GetShortUIName|U]はあなたを支持しません #weak ([church_property|E])#!"
  msg_mercenary_company_dismissed:0 "傭兵団を解雇"
- msg_mercenary_company_dismissed_desc:0 "The contract for [LEFT_TITLE.GetNameNoTooltip] has run out, and the soldiers have been dismissed"
+ msg_mercenary_company_dismissed_desc:0 "[LEFT_TITLE.GetNameNoTooltip]との契約は終了し、戦士たちは去っていった"
  msg_holy_order_dismissed:0 "Holy Order dismissed"
  msg_holy_order_dismissed_desc:0 "[LEFT_TITLE.GetNameNoTooltip] has been dismissed"
  msg_fired_from_council:0 "Fired From Council"

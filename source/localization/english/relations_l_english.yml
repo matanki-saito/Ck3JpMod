@@ -308,7 +308,7 @@
  relation_my_title_foreign:0 "殿下"
  relation_my_liege:0 "我が主君"
  relation_my_lady:0 "我が君"
- relation_my_lord:0 "閣下"
+ relation_my_lord:0 "我が君"
  relation_titled_firstname:1 "[second.GetTitledFirstNameNoTooltip]"
  FRAME_DYNAST:0 "#T [dynast|E]#!\n$TT_DYNAST_DESC$"
  FRAME_HEAD_OF_HOUSE:0 "#T Head of [house|E]#!\n$TT_HOUSE_HEAD_DESC$"

@@ -39,7 +39,7 @@
  greeting_supplimentary.negative:0 "[ROOT.Char.Custom2('NegativeSupplimentaryGreeting', second)]"
  greeting_supplimentary.negative.tales:0 "あなたの悪行の話はアイルランドからキャセイまで語られている。"
  greeting_supplimentary.negative.greek:0 "Your low character is the subject of Greek plays."
- greeting_supplimentary.negative.insult.1:0 "May your humors rot in your living body."
+ greeting_supplimentary.negative.insult.1:0 "貴君の体液が腐り果てることを願う。"
  greeting_supplimentary.negative.insult.2:0 "あなたの人生が短く悲惨なものであらんことを。"
  greeting_supplimentary.negative.insult.3:0 "あなたの智慧がいつか無くなりますように。"
  greeting_supplimentary.negative.insult_muslim.1:0 "Damn your seventh grandfather."

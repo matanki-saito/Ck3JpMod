@@ -36,7 +36,7 @@
  claim_throne_outcome.5002.a:0 "Does [owner.GetSheHe] really think [owner.GetSheHe] will get away with this?!"
  claim_throne_outcome.5003.opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))], [owner.GetTitledFirstName], has attempted to lay claim to the [target_title.GetName]!"
  claim_throne_outcome.5003.owner_known:0 "\n\nThese claims are laughable, of course, and if this is the extent of [owner.GetFirstNamePossessiveNoTooltip] threat, I have little reason to worry."
- claim_throne_outcome.5003.a:0 "[owner.GetSheHe|U] will pay for this insolence."
+ claim_throne_outcome.5003.a:0 "[owner.GetSheHe|U]はこの傲慢の代償を支払うだろう。"
  claim_throne_invalidated:0 "Claim Throne Scheme ends"
  claim_throne_target_died_tt:0 "[target.GetTitledFirstName] has died"
  claim_throne_target_lost_titles_tt:0 "[target.GetTitledFirstName] is no longer landed"

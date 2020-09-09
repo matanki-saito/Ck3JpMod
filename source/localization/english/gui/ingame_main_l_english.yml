@@ -9,7 +9,7 @@
  PRISON_BUTTON:0 "#T 捕虜#!"
  COURT_BUTTON:0 "#T 宮廷#!"
  IM_TT_FIND_TITLE:1 "#T 称号検索#!\nゲーム内の[title|E]を検索します"
- IM_TT_SHOW_LEGACY:0 "#T Show Lineage#!\nSee all the characters you have played."
+ IM_TT_SHOW_LEGACY:0 "#T あなたの系統を表示#!\nあなたがプレイしたすべてのキャラクターを表示します。"
  IM_TT_FIND_CHARACTER:0 "#T 人物検索#!\nゲーム内の人物を検索します"
  IM_TT_GO_TO_CAPITAL:0 "#T 本拠地へカメラ移動#!\n本拠地の[GetPlayer.GetCapitalLocation.GetName|V]へカメラ移動します"
  FOCUS_BUTTON:0 "フォーカスビューを表示"

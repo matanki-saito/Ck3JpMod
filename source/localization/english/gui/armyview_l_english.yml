@@ -98,7 +98,7 @@
  KNIGHT_REGIMENTS:1 "@knight_icon![CHARACTER.Custom('KnightCulturePlural')]"
  ARMY_TOTAL_SOLDIERS:0 "#T 総兵力:$CURRENT|0V$ / $MAX|0V$#!"
  ARMY_RAISED_SOLDIERS:0 "#T Raised Soldiers: $CURRENT|0V$/$MAX|0V$#!"
- ARMY_UNRAISED_SOLDIERS:0 "#T Unraised Soldiers: $CURRENT|0V$/$MAX|0V$#!"
+ ARMY_UNRAISED_SOLDIERS:0 "#T 未徴集兵士：$CURRENT|0V$/$MAX|0V$#!"
  SPLIT_OFF_HIRED_AND_EVENT_TROOPS:0 "#T [hired_troops|E]と[special_troops|E]を分割する#!\n[army|E]に含まれる全ての[hired_troops|E]と[army|E]の[special_troops|E]を分割する。"
  ARMY_VIEW_ARMY_HAS_EVENT_TROOPS:1 "#T [special_troops|E]\n#![ArmyWindow.BuildEventTroopList]"
  LEVIES_ARMY_REGIMENT_NAME:0 "徴募兵"

@@ -28,7 +28,7 @@
  learning_scholarship.3001.c.toast.tt1:0 "[chaplain.GetFirstName] was persuaded by my plea."
  learning_scholarship.3001.c.tt2:0 "I fail to sway [chaplain.GetFirstName]"
  learning_scholarship.3001.c.toast.tt2:0 "[chaplain.GetFirstName] dismissed my reasons"
- learning_scholarship_special.2001.t:0 "A New Translation"
+ learning_scholarship_special.2001.t:0 "新たな解釈"
  learning_scholarship_special.2001.desc:0 "More than anything, my quest to be a learned [ROOT.Char.GetWomanMan] is teaching me how much I do not yet know. What more, there must be so much knowledge that has been lost to the ages, as books fall apart or languages are forgotten...\n\nPerhaps I could contribute by making a new translation of one of the classic works?\n\nAlthough, what would I even translate...?"
  learning_scholarship_special.2001.regula_pastoralis:0 "The Regula Pastoralis, on how to lead a good life."
  learning_scholarship_special.2001.physica_elementa:0 "A classic of science — Aristotle's Physica!"

@@ -1,7 +1,7 @@
 ﻿l_english:
  learning_theology.1301.t:0 "Coveted Literature"
- learning_theology.1301.desc_opening:0 "\"My [ROOT.Char.GetLadyLord]!\" [bishop.Custom2('MyCharacterIntroduction', ROOT.Char)|U] approaches me with urgency.\n\n"
- learning_theology.1301.desc_regula_pastoralis:0 "\"A local merchant has a copy of the influential Regula Pastoralis but refuses to sell it to me."
+ learning_theology.1301.desc_opening:0 "「我が[ROOT.Char.GetLadyLord]！」[bishop.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が切迫した様子で駆け寄ってきた。\n\n"
+ learning_theology.1301.desc_regula_pastoralis:0 "「地元商人が影響力のある『レグラ・パストラリス』の写本を持っているのですが、売ろうとせぬのです。"
  learning_theology.1301.desc:0 "\"A local merchant has a copy of The Compendious Book on Calculation by Completion and Balancing but refuses to sell it to me."
  learning_theology.1301.desc_ending:0 "If you make him see the error of his way I would be in your debt!\""
  learning_theology.1301.a:0 "I will make sure the book gets to you."

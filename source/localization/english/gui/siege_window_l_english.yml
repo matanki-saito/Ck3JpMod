@@ -65,7 +65,7 @@
  SW_TIME_LEFT_TT:0 "#T Max Time Left\n#![SiegeWindow.GetTimeLeft]"
  SIEGE_GO_TO_HOLDING:0 "#T Open Holding#!"
  SIEGE_CANT_ASSAULT_NO_BREACH:0 "@warning_icon!#X 突撃するには城壁を破壊する必要があります#!"
- SIEGE_ASSAULT_TT_INFO:0 "The assault will add $PROG|1+=$ Siege Progress and will cause $MEN|0-$ casualties every day"
+ SIEGE_ASSAULT_TT_INFO:0 "この攻撃により、$PROG|1+=$の包囲進捗が進展しますが毎日$MEN|0-$人の死傷者が出ます。"
  SW_ASSAULTING_TEXT_ATTACKER:1 "Assaulting!"
  SW_ASSAULTING_TEXT_DEFENDER:1 "Assaulted!"
  SW_SIEGE_WEAPON_NON:0 "No [siege_weapons|E]"

@@ -226,7 +226,7 @@
  SUCCESSION_EVENT_WINDOW_HEADING_END_DATE_REACHED:0 "The End"
  SUCCESSION_SUCCESSOR_TAB_TT:0 "#T Show Successor"
  SUCCESSION_TITLES_TAB_TT:0 "#T Show Titles\n#!$SUCCESSION_LOST_TITLES$"
- SUCCESSION_LINEAGE_TAB_TT:0 "#T Show Lineage"
+ SUCCESSION_LINEAGE_TAB_TT:0 "#T  家系を表示"
  SUCCESSION_INHERITED_TITLES:0 "Inherited Titles"
  SUCCESSION_LOST_TITLES:0 "[Select_CString( EqualTo_int32( SuccessionEventWindow.GetNumberOfLostTitles, '(int32)0' ), '', '@warning_icon!')] Titles lost on Succession: [SuccessionEventWindow.GetNumberOfLostTitles]"
  SUCCESSION_LOST_TITLE_SHARE:0 "[SuccessionEventWindowLostTitlesItem.GetHeir.GetUINameNoTooltip]"
