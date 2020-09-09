@@ -34,7 +34,7 @@
  diplomacy_majesty.1020.t:0 "忠義か恐怖か"
  diplomacy_majesty.1020.desc:0 "[ROOT.Char.GetTitleTierName]として、配下は私に忠誠を誓う義務がある。私の言葉がすなわち法だ。しかし、献身を伴わない従順はどれだけの価値があるのだろうか?\n\n危機的な状況では、対応の遅れや中途半端な努力が災いを招く。そんな危険を冒す余裕があるだろうか。"
  diplomacy_majesty.1020.a:0 "I will win their unwavering loyalty."
- diplomacy_majesty.1020.b:0 "もっと重要な[important_ruler.GetWomenMen]AAAAAAが私にはある。"
+ diplomacy_majesty.1020.b:0 "感銘を与えるべきもっと大事な[important_ruler.GetWomenMen]がいる。"
  diplomacy_majesty.1020.c:0 "恐怖を与えるのは非常に効果的な手段だ。"
  diplomacy_majesty.1020.d:0 "Why should I care what others think of me?"
  diplomacy_majesty.4030.t:0 "A Battle of Ideas"

@@ -97,7 +97,7 @@
  spymaster_task.1001.a:0 "You utter [councillor.Custom('InsultNoun')]!"
  spymaster_task.1001.b:0 "Everyone makes mistakes, [councillor.GetFirstNameNoTooltip]."
  spymaster_task.1001.a.tt:1 "領域内の誰かがあなたの[secrets|E]の一つを知った。\n\n"
- spymaster.1001.notification:0 "Secret Documents Lost"
+ spymaster.1001.notification:0 "機密書類が失われた"
  spymaster_task.1002.greeting:0 "[ROOT.Char.Custom2('GreetingToGeneric', second)]"
  spymaster_task.1002.desc:0 "I have enclosed the incriminating documents. Let me reiterate that you are not to speak of this to anyone. Not even my liege, [councillor_liege.GetTitledFirstName], is aware that these exist, and it must stay that way."
  spymaster_task.1002.a:0 "I do not think I was supposed to receive this..."

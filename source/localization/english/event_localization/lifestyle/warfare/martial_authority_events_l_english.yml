@@ -54,7 +54,7 @@
  martial_authority_special.1100.skirmisher.desc:0 "A skirmisher"
  martial_authority_special.1100.pikemen.desc:0 "A pikeman"
  martial_authority_special.1100.end.desc:0 "が司令官である[officer.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を替わりとなる戦略の利点について説得しようとしている。[officer.GetFirstNameNoTooltip]はほとんど聞いていないようだ—近づくと激怒した司令官が拳を振り上げたところだ……"
- martial_authority_special.1100.a:0 "Step in and protect the soldier."
+ martial_authority_special.1100.a:0 "割り込み、兵士を守ろう。"
  martial_authority_special.1100.a.success.tt:1 "素手の喧嘩であなたが将校に勝つ"
  martial_authority_special.1100.a.failure.tt:0 "素手の喧嘩で将校があなたに勝つ"
  martial_authority_special.1100.b:0 "Mediate between [officer.GetFirstNameNoTooltip] and the soldier."

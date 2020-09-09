@@ -5,7 +5,7 @@
  prison_notification.0002.t:0 "投獄された！"
  prison_notification.0002.desc:0 "[prisoner.GetTitledFirstName], my [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], is now held against [prisoner.GetHerHis] will by [imprisoner.GetTitledFirstName]."
  prison_notification.0002.a:0 "What can be done for [prisoner.GetHerHim]?"
- prison_notification.0003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] Imprisoned!"
+ prison_notification.0003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U]が投獄された！"
  prison_notification.1001.t:0 "Out of the Light"
  prison_notification.1001.desc:0 "[actor.GetTitledFirstName] has had me thrown into the dungeons! Will I rot here, in the dank tunnels of [actor.GetHerHis] [actor.Custom('FortifiedBuilding')]?"
  prison_notification.1001.a:0 "[actor.GetSheHe|U] is worse than the rats scurrying down here!"

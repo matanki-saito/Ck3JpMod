@@ -112,7 +112,7 @@
  intrigue_scheme_ongoing.5001.b:0 "Cut holes in their clothes. In improper areas."
  intrigue_scheme_ongoing.5002.t:0 "Written in the Stars"
  intrigue_scheme_ongoing.5002.desc:0 "A [target.GetTitleAsNameNoTooltip] to scare, a local mystic with dubious morals, and a fabricated omen... Perfect.\n\nBefore the mystic leaves for [target.GetTitledFirstNamePossessive] court there is but one question — will my false omen be one of fortune, or of doom?"
- intrigue_scheme_ongoing.5002.a:0 "A bad omen for a bad [target.GetTitleAsNameNoTooltip]!"
+ intrigue_scheme_ongoing.5002.a:0 "悪しき[target.GetTitleAsNameNoTooltip]に凶兆を！"
  intrigue_scheme_ongoing.5002.a.tt:0 "I believe [target.GetFirstNameNoTooltip] is easier to affect with bad news"
  intrigue_scheme_ongoing.5002.a.success:0 "[target.GetSheHe|U] spends many sleepless nights worrying"
  intrigue_scheme_ongoing.5002.a.failure:0 "[target.GetSheHe|U] only grow more vigilant"

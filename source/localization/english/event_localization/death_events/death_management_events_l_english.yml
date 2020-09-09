@@ -172,7 +172,7 @@
  death_management.3008.a.tt:1 "Your betrothed, [dead_character.GetTitledFirstName], has died in your dungeons and the marriage agreement is void."
  death_management.3008.a:0 "Rest in peace, [dead_character.GetFirstNameNoTooltip]."
  death_management.3008.b:0 "We skipped straight to #EMP Until death do us part#!."
- death_management.prisoner.desc:0 "My prisoner, [dead_character.GetTitledFirstName], has died in my dungeons."
+ death_management.prisoner.desc:0 "囚人[dead_character.GetTitledFirstName]が地下牢で死亡した。"
  death_management.4000.t:0 "Til Death Do Us Part"
  death_management.4000.like_opening:0 "How can a heart endure this kind of pain without breaking? It cannot be possible! Yet, here I am, my heart beating on whilst yours has gone quiet.\n\n"
  death_management.4000.like_my_prison:0 "Oh, [dead_character.GetFirstName], my [dead_character.Custom('LoverPetName')]. Would you believe me if I told you I still hold you dear? Even after all I have done?"

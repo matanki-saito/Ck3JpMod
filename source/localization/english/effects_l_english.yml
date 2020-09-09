@@ -790,7 +790,7 @@
  KEEP_LIEGE_EFFECT_THIRD:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の[vassal|E]のままだ"
  all_my_vassals_same_faith:1 "あなたの[faith|e]を持つすべての[vassals|e]"
  SPAWN_ACTIVITY:0 "Creates a $TYPE|V$ [activity|E] in [PROVINCE.GetName|V]"
- I_SPAWN_ACTIVITY:1 "あなたが[PROVINCE.GetName|V]において$TYPE|V$を開始する"
+ I_SPAWN_ACTIVITY:1 "[PROVINCE.GetName|V]において$TYPE|V$を開始します"
  THEY_SPAWN_ACTIVITY:0 "[CHARACTER.GetShortUIName|U] creates a $TYPE|V$ [activity|E] in [PROVINCE.GetName|V]"
  GET_TITLE:0 "[TARGET_TITLE.GetName]を獲得する"
  I_GET_TITLE:1 "あなたが[TARGET_TITLE.GetName]を獲得する"
