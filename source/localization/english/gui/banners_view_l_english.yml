@@ -28,7 +28,7 @@
  BANNER_CANT_REMOVE_NO_MERGE:0 "#T Remove Rally Point#!\n@warning_icon!#X There is no [rally_point|E] that can take over the [holdings|E] in this Rally Point#!"
  BANNER_REMOVE_AND_MERGE:0 "#T Remove Rally Point#!\n[holdings|E] in this [rally_point|E] will be moved to $TARGET|V$"
  BANNER_MOVE:0 "#T Move Rally Point#!\nChoose a new location for this [rally_point|E]"
- BANNER_INFO_NUMBER_OF_MEN:0 "Number of [soldiers|E]: $VALUE|V$"
+ BANNER_INFO_NUMBER_OF_MEN:0 "[soldiers|E]$VALUE|V$の数"
  BANNER_INFO_TIME_TO_RAISE:0 "Time to raise: $VALUE|V$"
  BANNER_LIST_BUTTON_ADD:0 "#T Split off new [rally_point|E]#!"
  BANNER_LIST_BUTTON_DESELECT:0 "#T Deselect [rally_point|E]#!"

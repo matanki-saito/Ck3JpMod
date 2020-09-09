@@ -90,7 +90,7 @@
  ZOOM_LEVEL_POLITICAL_TOOLTIP:0 "The $ZOOM_LEVEL_POLITICAL$ gives you a comprehensive overview of [rulers|E] in an area, and is ideal for planning [wars|E], managing [vassals|E] and exploring [realms|E].\n\n#TUT In this mapmode, clicking the map will select [realms|E]#!"
  ZOOM_LEVEL_DETAILS:0 "詳細マップ"
  ZOOM_LEVEL_DETAILS_TOOLTIP:0 "The $ZOOM_LEVEL_DETAILS$ gives you an overview of [terrain|E] and your [domain|E], and is ideal for moving [regiments|E] and constructing [buildings|E].\n\n#TUT In this mapmode, clicking the map will select [holdings|E]#!"
- ZOOM_LEVEL_DOMAIN:0 "Domain Map"
+ ZOOM_LEVEL_DOMAIN:0 "領地地図"
  ZOOM_LEVEL_SELECTING_BARONIES:0 "Selecting: Holdings"
  ZOOM_LEVEL_SELECTING_REALMS:0 "選択: 領国"
  MAP_MODES_EXPLORATION_ENABLED:0 "In Realm Exploration Mode"

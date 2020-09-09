@@ -16,7 +16,7 @@
  sway_ongoing.1005.desc:0 "近くや遠くの領国の領主たちをもてなす中で、彼らに対して[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を好意的に紹介する機会があった。\n\n「我が[ROOT.Char.GetLadyLord]、教えてください。あなたが聞き知った中で最も[target.Custom('FormalComplimentAdjective')]な人物はどなたでしょう？」"
  sway_ongoing.1005.a:0 "間違いなく[target.GetTitledFirstNameNoTooltip]だ！"
  sway_ongoing.1005.b:0 "もちろん、私です！"
- sway_ongoing.1006.t:0 "Sway: Infiltrators"
+ sway_ongoing.1006.t:0 "懐柔:侵入者"
  sway_ongoing.1006.desc:0 "It has come to my attention that some local commoners are moving to [capital.GetNameNoTooltip], the capital of [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)].\n\nLocals, newly settled or not, praising me can surely do no harm to [target.GetHerHis] perception of me..."
  sway_ongoing.1006.a:0 "\"Take this gold, and make sure you're heard.\""
  sway_ongoing.1006.b:0 "It is not worth it."

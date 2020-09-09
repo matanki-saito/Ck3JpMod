@@ -18,6 +18,6 @@
  major_decisions.0501.desc:0 "Through carefully planned marriages, alliances and conquests, the [ROOT.Char.GetDynasty.GetBaseNameNoTooltip] dynasty has taken its rightful place among the true powers of the known world.\n\n[realm_1.GetNameNoTierNoTooltip|U], [realm_2.GetNameNoTierNoTooltip|U], [realm_3.GetNameNoTierNoTooltip|U], [realm_4.GetNameNoTierNoTooltip|U]... Our domain stretches far and wide. Many crowns sit atop our heads, but by blood, we are united as one."
  major_decisions.0501.a:0 "我々の遺産は永遠に！"
  major_decisions.0001.t:0 "新たな時代"
- major_decisions.0001.desc:0 "The old ways have served us well, and we will always honor them. However, as the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], I have concluded that we must adopt feudalism and its principles if we shall continue to prosper. It is the crucial next step on our road to greatness!"
- major_decisions.0001.a:0 "Long live [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]!"
+ major_decisions.0001.desc:0 "旧来のやり方は機能しているし、我々は常にそのことを尊重するだろう。しかし、[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]として、我々の繁栄を維持する為には、封建主義とその原則を採用しなければならないと私は結論を出した。これは偉業につながる道への決定的な一歩である！"
+ major_decisions.0001.a:0 "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]万歳！"
  major_decisions.0002.opening:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]"

@@ -70,7 +70,7 @@
  pregnancy.3001.a:0 "自分で聞いてみなければ。"
  pregnancy.3001.a.tt:1 "あなたは子供の事について[mother.GetFirstNameNoTooltip]と話し合います。"
  pregnancy.3001.b:0 "知ることはないかもしれないが、常に気になるだろう……"
- pregnancy.3001.b.tt:0 "You do not act on your suspicions"
+ pregnancy.3001.b.tt:0 "あなたは推測で行動を起こすことはしません。"
  pregnancy.3002.t:0 "男女の過ち"
  pregnancy.3002.lovers:1 "Of course I had my suspicions when my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('mother'))] [mother.GetTitledFirstName] started showing signs of being with child, and now [mother.GetSheHe] has let me know that it is mine."
  pregnancy.3002.not_lovers:1 "[mother.GetTitledFirstName] is with child, and [mother.GetSheHe] has let me know in confidence that this is the result of our illicit dalliance."

@@ -894,7 +894,7 @@
  negotiate_alliance_effect_recipient_tooltip:0 "Enters a mutual [alliance|E] with you"
  char_interaction.0234.desc:0 "I call upon you to honor our outstanding agreement and formally join me as an ally."
  char_interaction.0234.a:0 "It seems I have little choice..."
- char_interaction.0235.desc:0 "ご要望いただいたことと、我が君をお味方と及びできることを光栄に思います。"
+ char_interaction.0235.desc:0 "ご要望いただいたこと、貴君をお味方とお呼びできることを光栄に思います。"
  char_interaction.0235.tooltip:0 "[recipient.GetTitledFirstNameNoTooltip] entered a mutual [alliance|E] with you"
  char_interaction.0235.a:0 "Marvelous news!"
  char_interaction.0236.desc:0 "After long consideration, I am afraid I have come to the conclusion that I must refuse your offer."

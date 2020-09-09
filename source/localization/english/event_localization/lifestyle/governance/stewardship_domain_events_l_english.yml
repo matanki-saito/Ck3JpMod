@@ -357,7 +357,7 @@
  stewardship_domain_special.1590.desc.start:0 "After many long months surveying my lands, it is done."
  stewardship_domain_special.1590.perfect.desc:0 "Under my guidance, my accessors compiled an absolutely perfect record of my holdings. With everything detailed down to the last chicken, this will ensure I collect the full and complete tax owed to me every year!"
  stewardship_domain_special.1590.excellent:0 "My assessors compile a precise record of my holdings"
- stewardship_domain_special.1590.excellent.desc:0 "My assessors have compiled an exceptionally precise record of my holdings. This will ensure I collect the full and complete tax owed to me every year!"
+ stewardship_domain_special.1590.excellent.desc:0 "税務官が我が所領についての極めて詳細な記録を作成した。これにより、毎年得られるべき税を完全に漏れなく徴収することが出来る。"
  stewardship_domain_special.1590.good:0 "My assessors compile an accurate estimation of my holdings"
  stewardship_domain_special.1590.good.desc:0 "My assessors have compiled an accurate estimation of my holdings. This will ensure my tax collectors do not miss anything important when tallying what I am owed."
  stewardship_domain_special.1590.mediocre:0 "My assessors compile a vague estimation of my holdings"

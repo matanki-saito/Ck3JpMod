@@ -84,7 +84,7 @@
  feast_default.2002.c:0 "This has [crush_3.GetFirstNameNoTooltip] written all over it."
  feast_default.2002.potential_lover_tt:0 "If you are correct, it will be far easier to make them your [lover|E]"
  feast_default.2003.t:0 "$feast_header$ Mutual Spirits"
- feast_default.2003.desc:0 "What started as an ordinary feast became an exceptional one thanks to the presence of [other_guest.GetTitledFirstName]!\n\nWe spoke all evening about all manner of subjects, and as things would have it we seem to have a lot in common! I had such a good time with [other_guest.GetHerHim]."
+ feast_default.2003.desc:0 "初めはありふれた宴であったが、[other_guest.GetTitledFirstName]がいてくれたお陰で、やがてそれは特別なものとなった!\n\n私達は夜通し多くの事柄について語り合った。どうやら我々には多くの共通点があるようだった!　 [other_guest.GetHerHim]と過ごした時間はとても有意義なものであった。"
  feast_default.2003.a:0 "What a good evening!"
  feast_default.2005.t:0 "$feast_header$ All Over My New [ROOT.Char.Custom('GetClothingArticle')|U]"
  feast_default.2005.desc:0 "We could all tell [drunk.GetTitledFirstName] had too much to drink, even though [drunk.GetSheHe] insisted on showing us how sober [drunk.GetSheHe] was.\n\nSimply rising from [drunk.GetHerHis] seat proved too much for [drunk.GetHerHim], and now I am covered in stinking vomit!"

@@ -47,7 +47,7 @@
  greeting_supplimentary.negative.insult_muslim.3:0 "May Allah destroy your house."
  greeting_supplimentary.negative.insult_muslim.4:0 "お前は不潔な野良犬の子だ。"
  greeting_supplimentary.positive:0 "[ROOT.Char.Custom2('PositiveSupplimentaryGreeting', second)]"
- greeting_supplimentary.positive.flattery.1:0 "Blessings upon you and your House."
+ greeting_supplimentary.positive.flattery.1:0 "貴君と貴君の家に祝福を。"
  greeting_supplimentary.positive.flattery.2:0 "貴君の英知と慈悲は伝説となっている。"
  greeting_supplimentary.positive.flattery.3:0 "Peace be with you."
  greeting_supplimentary.positive.flattery.4:0 "あなたに安らぎと平和のあらんことを。"
