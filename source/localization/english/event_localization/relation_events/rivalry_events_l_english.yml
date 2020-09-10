@@ -141,7 +141,7 @@
  rivalry.1033.a.tt:1 "I put an end to this line of inquiry"
  rivalry.1033.b:0 "Lies! I will investigate further and find the truth!"
  rivalry.1034.t:0 "A Tearful Confession"
- rivalry.1034.desc:0 "When I confronted [my_spouse.GetFirstName] about the letter from [my_spouse.GetHerHis] secret lover, [my_spouse.GetSheHe] broke down and tearfully confessed to having an affair with [spouse_lover.GetTitledFirstName]!"
+ rivalry.1034.desc:0 "[my_spouse.GetFirstName]に[my_spouse.GetHerHis]の秘密の恋人からの手紙を突きつけたところ、[my_spouse.GetSheHe]が泣き崩れて[spouse_lover.GetTitledFirstName]との不倫を告白してきた！"
  rivalry.1034.a:0 "How could [my_spouse.GetSheHe] do this to me?"
  rivalry.1035.t:0 "Forgery Discovered!"
  rivalry.1035.desc:0 "After investigating the source of the letter from [my_spouse.GetFirstName]'s supposed lover, I have discovered it was a fake planted by none other than that [instigator.Custom('InsultAdjective')] [instigator.Custom('InsultNoun')] [instigator.GetTitledFirstName]!"

@@ -175,7 +175,7 @@
  witch.4001.vengeful.desc:0 "demands us to turn the other cheek."
  witch.4001.arrogant.desc:0 "thinks being proud of one's accomplishments is sinful."
  witch.4001.fallback.desc:0 "will punish the sinners."
- witch.4001.witch.desc:0 "But why would I listen to [annoying_clergy.GetHerHim], when [ROOT.Char.GetFaith.WitchGodName] embraces us as we are, flaws and all? What a sad little life [annoying_clergy.GetFirstNameNoTooltip] must live!"
+ witch.4001.witch.desc:0 "しかし、[ROOT.Char.GetFaith.WitchGodName]は欠点も含めてありのままの我々を受け入れてくれているのに、なぜ[annoying_clergy.GetHerHim]の言うことを聞かなければならないのだろうか？[annoying_clergy.GetFirstNameNoTooltip]は何と悲しい人生を歩んでいるのだろう！"
  witch.4001.impious.desc:0 "[annoying_clergy.GetFaith.HighGodName] is one judgmental bastard!"
  witch.4001.a:0 "I will make [annoying_clergy.GetHerHim] the laughingstock of [capital.GetNameNoTooltip]!"
  witch.4001.a.tt:0 "[annoying_clergy.GetFaith.HighGodName] isn't the only one who can judge!"

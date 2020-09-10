@@ -316,7 +316,7 @@
  MODIFIER_TIME_LEFT:1 "\n#weak [DATE.GetString]まで#!"
  MODIFIER_MULTIPLE_INSTANCES:0 "$NAME$ ($COUNT|V$)"
  dungeon:0 "地下牢"
- house_arrest:0 "軟禁"
+ house_arrest:0 "自宅軟禁"
  MOD_IMPRISONED_RELATIVE_OPINION:0 "Relatives' Opinion of Imprisoner"
  supply_state_supplied_advantage:1 "敵が補給を受けている"
  supply_state_running_low_advantage:1 "敵の補給が不足している"

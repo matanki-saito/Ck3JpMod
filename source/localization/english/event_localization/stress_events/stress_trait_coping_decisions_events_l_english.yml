@@ -1,8 +1,8 @@
 ﻿l_english:
- stress_trait_coping_decisions.1001.t:0 "Stress Coping: Drink Up!"
- stress_trait_coping_decisions.1001.desc:0 "Another cup, and my shoulders relax a bit more. #EMP This#! is how I am meant to spend my time – to be sober is to suffer."
- stress_trait_coping_decisions.1001.a:0 "I– #EMP *hick*#! I feel better already!"
- stress_trait_coping_decisions.1002.t:0 "Stress Coping: Drinking Companion!"
+ stress_trait_coping_decisions.1001.t:0 "ストレス解消：飲酒だ！"
+ stress_trait_coping_decisions.1001.desc:0 "もう一杯で、肩の荷が下りる。#EMP これこそが#!余暇の過ごし方で、禁酒は苦痛なのだ。"
+ stress_trait_coping_decisions.1001.a:0 "私は– #EMP ﾋｯｸ#! とっても気分が良い！"
+ stress_trait_coping_decisions.1002.t:0 "ストレス解消: 飲み友達！"
  stress_trait_coping_decisions.1002.desc:0 "\"[ROOT.Char.GetFirstNameNoTooltip]! Hello!\"\n\nSuddenly my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fellow_drunkard'))] [fellow_drunkard.GetTitledFirstName] sits down beside me, cup in hand. Apparently [fellow_drunkard.GetSheHe] has also taken to the tavern to relax, and we spend the rest of the night drinking together. I haven't felt so relaxed in #EMP months!#!"
  stress_trait_coping_decisions.1002.a:0 "Drink up, my friend!"
  stress_trait_coping_decisions.1003.t:0 "Drinking Companion!"

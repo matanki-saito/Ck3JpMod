@@ -1,7 +1,7 @@
 ﻿l_english:
- DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルは$COMPARATOR$$NUM|V$である"
- NOT_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルは$COMPARATOR$$NUM|V$#bold でない#!"
- ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルは$COMPARATOR$$NUM|V$である"
+ DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$NUM|V$$COMPARATOR$である"
+ NOT_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$NUM|V$$COMPARATOR$#bold でない#!"
+ ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$NUM|V$$COMPARATOR$である"
  IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]である"
  NOT_IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]#bold でない#!"
  NOT_POTENTIAL_COUNTY_CONTROL_TASK_TRIGGER:1 "[TITLE.GetName] is already at 100 [control|E] and has no [county_corruption|E]"

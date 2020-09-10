@@ -312,7 +312,7 @@
  stress_threshold.3401.desc.callous:0 "\"I do not care about such petty problems."
  stress_threshold.3401.desc.sadistic:0 "\"Your poor service sets a bad example."
  stress_threshold.3401.desc.fallback:0 "$stress_threshold.3401.desc.wrathful$"
- stress_threshold.3401.desc.rump:0 "#EMP Behead this fool!#!\"\n\nThe court around us goes deadly silent."
+ stress_threshold.3401.desc.rump:0 "#EMP この愚か者の首を切れ！#!\n\n我々のまわりの宮廷内は静まり返った。"
  stress_threshold.3401.a.reclusive.gain:0 "And then all of you get out of my sight!"
  stress_threshold.3401.a.reclusive.effect:0 "$stress_threshold.3401.a.reclusive.gain$"
  stress_threshold.3401.a.reclusive.list:0 "Every [character|E] outside of your immediate household"

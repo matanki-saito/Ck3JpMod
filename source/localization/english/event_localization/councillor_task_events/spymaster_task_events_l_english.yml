@@ -13,7 +13,7 @@
  spymaster_task.0311.sodomy.accepted:0 "\n\n[secret_holder.GetSheHe|U] enjoys the intimate company of other [secret_holder.GetWomenMen]. [secret_holder.GetHerHis|U] fellow [secret_holder.GetFaith.GetAdjective]s consider this a grave sin, and while that makes little sense, it could give me the leverage I need..."
  spymaster_task.0311.secret_sodomy.illegal_shared:0 "\n\n[secret_holder.GetSheHe|U] enjoys the intimate company of other [secret_holder.GetWomenMen]. Unlike me, however, [secret_holder.GetFirstName] has not done a good enough job of covering up [secret_holder.GetHerHis] sins."
  spymaster_task.0311.secret_sodomy.illegal:0 "\n\n[secret_holder.GetSheHe|U] has been enjoying the intimate company of other [secret_holder.GetWomenMen]. The foolishness of thinking that such a sin against [ROOT.Char.GetFaith.HighGodName] would go unnoticed..."
- spymaster_task.0342.a:0 "You will regret giving in to your desires, [secret_holder.GetFirstNameNoTooltip]."
+ spymaster_task.0342.a:0 "自分の欲望に屈したことを後悔することになるぞ、[secret_holder.GetFirstNameNoTooltip]。"
  spymaster_task.0343.t:0 "Espionage: Attempted Murder"
  spymaster_task.0311.secret_murder_attempt.targeting_me:0 "\n\n[secret_holder.GetSheHe|U] was the [secret_holder.GetWomanMan] behind a failed attempt at my life! Payback will finally be coming due..."
  spymaster_task.0311.secret_murder_attempt.close_to_me:0 "\n\n[secret_holder.GetSheHe|U] was the [secret_holder.GetWomanMan] behind a failed murder attempt against [murder_target.GetTitledFirstName], my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murder_target'))]! Payback will finally be coming due..."

@@ -55,7 +55,7 @@
  steward_task.3102.t:0 "Appreciated Management"
  steward_task.3102.desc:1 "My [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has been working to improve the administration of the [county.GetName] by introducing ideas based on [ROOT.Char.GetCulture.GetName] traditions.\n\nWith deft management of the [county.GetTitleTierName], the local landholders do not seem to mind a slight increase in taxes."
  steward_task.3102.a:0 "More gold in the coffers is always good!"
- steward_task.3102.notification:0 "[ROOT.Char.GetCulture] Administration"
+ steward_task.3102.notification:0 "[ROOT.Char.GetCulture]統治"
  steward_task.3103.t:0 "Strengthened Regiments"
  steward_task.3103.desc:0 "Something strange has occurred, thanks to [councillor.GetTitledFirstNamePossessive] efforts to introduce [ROOT.Char.GetCulture.GetName] settlers in [county.GetNameNoTier].\n\nThe locals seem to have developed a greater understanding of their part of the realm, and when it comes time to fight for it, each village does what it can to send their best able-bodied [ROOT.Char.Custom('LevyMenWomen')] to serve. In fact, some peasants willingly conscript themselves!"
  steward_task.3103.a:0 "Now I have seen it all."

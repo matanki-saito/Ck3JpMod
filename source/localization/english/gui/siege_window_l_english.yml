@@ -7,7 +7,7 @@
  SW_TT_ACTION:0 "#T 包囲イベント:$NAME|V%$#!\n$EFFECT$"
  SW_BLOCKED_LARGE_GARRISON:1 "The [siege|E] will not progress because the besieging [army|E] is smaller than the [garrison|E] ($GARRISON|V$)"
  SW_BLOCKED_MOVEMENT_OR_COMBAT:1 "The [siege|E] will not progress because the besieging [armies|E] are currently moving or in [battle|E]."
- SW_TT_PROGRESS:0 "#T [siege_progress|E]: #V $PROGRESS|1$ / $TOTAL|0$#!#!\n"
+ SW_TT_PROGRESS:0 "#T [siege_progress|E]: #V $PROGRESS|1$/$TOTAL|0$#!#!\n"
  SW_TT_DAILY_PROGRESS:0 "一日あたりの進展"
  SW_TT_BASE_PROGRESS:0 "基本"
  SW_TT_MAA_PROGRESS:0 "[men_at_arms|E]"

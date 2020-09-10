@@ -48,7 +48,7 @@
  SAVE_WINDOW_SHOW_INVALID:0 "Show invalid"
  OVERWRITE_GAME:0 "セーブを上書き"
  OVERWRITE_CONFIRMATION_DESC:0 "同じファイル名のセーブが既にあります。上書きしますか？"
- LOAD_GAME_WINDOW_HOUSE:0 "House: [SaveGameItem.GetHouseName]"
+ LOAD_GAME_WINDOW_HOUSE:0 "家: [SaveGameItem.GetHouseName]"
  LOAD_GAME_VERSION:0 "バージョン: [SaveGameItem.GetVersionName]"
  LOAD_GAME_DIFFERENT_VERSION:0 "@warning_icon!#X バージョンが違います#!"
  LOAD_GAME_DIFFERENT_VERSION_TT:0 "This save was created with a different version of\nCrusader Kings"

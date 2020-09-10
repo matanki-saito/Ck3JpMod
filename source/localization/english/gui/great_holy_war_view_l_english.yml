@@ -60,7 +60,7 @@
  GHW_UNPLEDGE_TT_BODY:1 "Leave the [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]. You will not gain any share of the [war_chest|E] and your [beneficiary|E] leaves with you"
  GHW_CONTRIBUTE_WAR_CHEST_TT_HEADER:0 "#T 軍資金を捧げる#!"
  GHW_CONTRIBUTE_WAR_CHEST_TT_BODY:0 "Donate a sum of [gold|E] to the [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] in exchange for [piety|E]#!"
- GHW_SCORE_TOOLTIP_HEADER:0 "#T [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] Contribution#!"
+ GHW_SCORE_TOOLTIP_HEADER:0 "#T [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]の貢献#!"
  GHW_SCORE_TOOLTIP_NO_WAR:0 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]はまだ開始されていない"
  GHW_SCORE_TOOLTIP_MULTIPLIER_ZERO:0 "You can not get any score in this [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
  GHW_SCORE_TOOLTIP_MULTIPLIER:0 "Multiplier: $VALUE|+V%$"
