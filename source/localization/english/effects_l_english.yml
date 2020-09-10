@@ -1336,7 +1336,7 @@
  REDUCED_CHANCE_OF_BEING_WOUNDED_KILLED_OR_IMPRISONED_IN_BATTLE:1 "[command_modifier_i|E][armies|E]を[commanding|E]する危険が減少します"
  CAN_USE_THE_EXTORT_SUBJECTS_DECISION:0 "[extort_subjects|E][decision|E]が利用可能"
  CAN_USE_THE_SELL_TITLES_DECISION:0 "[sell_titles|E][decision|E]が利用可能"
- COLLECT_TAXES_EFFECTIVENESS_GAIN:0 "[collect_taxes|E]効率: #P +[EmptyScope.ScriptValue('tax_man_perk_percentage')|0]%#!"
+ COLLECT_TAXES_EFFECTIVENESS_GAIN:0 "[collect_taxes|E]効力: #P +[EmptyScope.ScriptValue('tax_man_perk_percentage')|0]%#!"
  CHILDREN_HAVE_CHANCE_OF_IMPROVEMENT:0 "[wards|E]は追加の[skills|E]を獲得し、[guardian|E]と[friends|E]になることができる"
  CHILDREN_I_EDUCATE_HAVE_CHANCE_OF_IMPROVEMENT:1 "あなたの[wards|E]は追加の[skills|E]を獲得し、[friends|E]になることができる"
  CHILDREN_THEY_EDUCATE_HAVE_CHANCE_OF_IMPROVEMENT:0 "[CHARACTER.GetShortUINamePossessive]の[wards|E]が追加の[skills|E]を得て、[CHARACTER.GetHerHis]の[friends|E]となることができる"

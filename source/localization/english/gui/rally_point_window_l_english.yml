@@ -10,7 +10,7 @@
  RP_NO_RAISABLE_TROOPS_ALL:0 "#X No unraised Soldiers available#!"
  RP_LOCAL_LEVIES_LABEL:0 "Local [levies|E]"
  RP_LOCAL_LEVIES_TOOLTIP:0 "#T Local [levies|E]#!\nUnraised: [RallyPointWindow.GetUnraisedLocalLevies|V]\nAlive: [RallyPointWindow.GetAliveLocalLevies|V]\nTotal: [RallyPointWindow.GetTotalLocalLevies|V]"
- RP_ALL_SOLDIERS_LABEL:0 "All [soldiers|E]"
+ RP_ALL_SOLDIERS_LABEL:0 "すべての[soldiers|E]"
  RP_KNIGHTS_ENTRY:1 "[knight_i]$knight_culture_player_plural$: [GetPlayer.GetKnightCount|V]"
  RP_KNIGHTS_TOOLTIP:1 "#T $knight_culture_player_plural$: [knight_i][GetPlayer.GetKnightCount|V]#!\n[GetPlayer.GetUnraisedKnightBreakdown]"
  RP_LEVIES_ENTRY:0 "[levies|E]: [ArmyComposition.GetMaxNumberOfLevies|V]"

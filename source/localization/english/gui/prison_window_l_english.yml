@@ -15,6 +15,6 @@
  MASS_PRISONER_ACTION_EXECUTE_BODY:0 "Execute $AMOUNT|V$ characters in your dungeons.\nThis will upset the family and realm of some of the characters executed."
  MASS_PRISONER_ACTION_RANSOM_ACCEPT:0 "身代金要求"
  MASS_PRISONER_ACTION_RELEASE_ACCEPT:0 "Release"
- MASS_PRISONER_ACTION_EXECUTE_ACCEPT:0 "Execute"
+ MASS_PRISONER_ACTION_EXECUTE_ACCEPT:0 "処刑"
  PRISONER_IS_LOCKED_FROM_MASS_ACTION:1 "Click to include in mass action"
  PRISONER_IS_NOT_LOCKED_FROM_MASS_ACTION:1 "Click to exclude from mass actions"

@@ -34,7 +34,7 @@
  GHW_MY_BENEFICIARY:0 "私の[beneficiary|E]"
  GHW_MY_CONTRIBUTION:0 "私の[contribution|E]"
  GHW_TOGGLE_BENEFICIARY:0 "Prefer over [papal_recipient|E]"
- GHW_MAX_WARCHEST:0 "Max!"
+ GHW_MAX_WARCHEST:0 "最大！"
  GHW_WARCHEST_SHARE:0 "[war_chest|E] Share"
  GHW_SCORE:0 "スコア"
  GHW_TAB_ATTACKERS:0 "攻撃側"

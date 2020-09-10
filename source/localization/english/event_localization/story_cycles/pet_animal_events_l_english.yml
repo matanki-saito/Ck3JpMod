@@ -42,7 +42,7 @@
  pet_animal.0107.a:0 "Thank you, I will treasure [ROOT.Char.Custom('CatStoryHerHim')]!"
  pet_animal.0107.b:0 "Thank you. I am sure [ROOT.Char.Custom('CatStorySheHe')] will be of value."
  pet_animal.0108.t:0 "[receiver.Custom('CatStoryName')]: Life Without You"
- pet_animal.0108.t_dead:0 "Life Without You"
+ pet_animal.0108.t_dead:0 "汝なしで人生なし"
  pet_animal.0108.desc_opening:0 "I visit my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('receiver'))] [receiver.GetTitledFirstName] to see how little [receiver.Custom('CatStoryName')] is doing in [receiver.GetHerHis] care.\n\n"
  pet_animal.0108.desc_alive_landed:0 "[receiver.GetSheHe|U] meets me outside [receiver.GetHerHis] [receiver.Custom('ResidenceBuilding')], the [receiver.Custom('CatFurColor')] cat in [receiver.GetHerHis] arms. \"[receiver.Custom('CatStorySheHe')|U] is doing well –"
  pet_animal.0108.desc_alive:0 "[receiver.GetSheHe|U] meets me outside, the [receiver.Custom('CatFurColor')] cat in [receiver.GetHerHis] arms. \"[receiver.Custom('CatStorySheHe')|U] is doing well –"
