@@ -153,7 +153,7 @@
  tooltip_feudal_vote_strength_duke_tier:0 "Ducal Dignity: $VALUE|=+0$"
  tooltip_feudal_vote_strength_theocrat:0 "聖職者の影響力: $VALUE|=+0$"
  tooltip_feudal_vote_strength_powerful_vassal:0 "影響力のある封臣: $VALUE|=+0$"
- tooltip_elective_current_ruler:0 "Current Ruler: $VALUE|=+0$"
+ tooltip_elective_current_ruler:0 "現在の統治者: $VALUE|=+0$"
  tooltip_feudal_vote_strength_parliament:0 "議会の支持"
  tooltip_saxon_elector_vote_stewardship:0 "[candidate.GetSheHe|U]は高い[stewardship|E]を持つ思いやりのある領主である: $VALUE|=+0$"
  tooltip_saxon_elector_vote_military_strength:0 "[holder.GetTitledFirstName]は徴募兵が不足している: $VALUE|=+0$"

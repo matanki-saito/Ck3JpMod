@@ -30,7 +30,7 @@
  major_decisions.1105.t:0 "A Usurper Realm"
  major_decisions.1105.desc:0 "\"[founder.GetTitleAsNameNoTooltip]\" [founder.GetFirstName] of [new_title.GetNameNoTierNoTooltip] has declared a new Kingdom, and that some of #EMP my#! rightful territory is a part of it!"
  major_decisions.1105.a:0 "That pretender will never last..."
- major_decisions.2001.t:0 "University"
+ major_decisions.2001.t:0 "大学"
  major_decisions.2001.desc_first:0 "A new age of knowledge is upon us! I have met with a steady stream of builders and scholars, and the plans for the magnificent university are taking form.\n\n"
  major_decisions.2001.desc_more:0 "The build master informs me that the bricks for the university are ready to be laid — all that remains to be decided is a location and a name!"
  major_decisions.2001.desc:0 "The build master informs me that the bricks for the university are ready to be laid — all that remains to be decided is a name!"

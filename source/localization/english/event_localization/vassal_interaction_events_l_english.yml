@@ -19,7 +19,7 @@
  vassal_interaction.0003.b.tt:0 "The war continues"
  vassal_interaction.0004.desc:0 "This war has come at too great a cost for me to abandon it now. However, a small contribution towards restoring my treasury might convince me otherwise."
  vassal_interaction.0004.a:0 "Compensation is only fair."
- vassal_interaction.0004.b:0 "This is an outrageous sum!"
+ vassal_interaction.0004.b:0 "これは法外な金額だ!"
  vassal_interaction.0005.opening:0 "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"
  vassal_interaction.0005.desc:0 "I have the utmost respect for your wishes, but the die is already cast. I will see this war through to the end."
  vassal_interaction.0005.a:0 "How dare you defy me!"

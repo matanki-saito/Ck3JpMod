@@ -92,7 +92,7 @@
  action_can_usurp_title_combined_group_name:0 "[title|E] can be usurped"
  action_can_usurp_title_desc:1 "支配している[counties|E]の数を満たしているので、[landed_title.GetName]を簒奪できます。"
  action_can_usurp_title_combined_group_description:1 "支配している[counties|E]の数を満たしているので、[titles|E]を簒奪できます。"
- action_can_usurp_title_label:1 "You can usurp the [landed_title.GetNameNoTooltip]"
+ action_can_usurp_title_label:1 "[landed_title.GetNameNoTooltip]の称号を簒奪できます"
  action_can_usurp_title_combined_label:0 "[landed_title.GetNameNoTooltip]"
  action_can_usurp_title_click:0 "#I クリックで称号を表示#!"
  action_above_domain_limit:0 "[domain_limit|E]超過"
