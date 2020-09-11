@@ -58,7 +58,7 @@
  befriend_action:0 "親善"
  befriend_desc:0 "With care and attention a friendship might flourish between [SCHEME.GetTarget.GetShortUINameNoTooltip] and myself!"
  befriend_desc_general:0 "With care and attention, try to have a friendship flourish with someone."
- scheme_interaction_tt_befriend_approved:0 "[recipient.GetFirstName]の友情を手に入れる！"
+ scheme_interaction_tt_befriend_approved:0 "[recipient.GetFirstName]の友情を手に入れます！"
  befriend_already_friend:1 "[recipient.GetFirstName] is already your friend"
  befriend_already_lover:1 "[recipient.GetFirstName]はすでにあなたを愛している"
  seduce:0 "誘惑計画"

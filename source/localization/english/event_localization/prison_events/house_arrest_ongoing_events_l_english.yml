@@ -10,7 +10,7 @@
  house_arrest_ongoing.0003.t:0 "Lonely Days"
  house_arrest_ongoing.0003.desc_opening:0 "To spend my time separated from all the ones I love is a cruel punishment. I find myself seeking out any source of comfort and companionship I can find, but they are few."
  house_arrest_ongoing.0003.desc_friendly_prisoner:0 "\n\nThe only thing that gets me through the long days is my connection with [friendly_prisoner.GetTitledFirstName]."
- house_arrest_ongoing.0003.a:0 "Won't someone just talk to me?!"
+ house_arrest_ongoing.0003.a:0 "だれか、話でもしないか！？"
  house_arrest_ongoing.0003.b:0 "I'll yet find someone who's willing to talk to me."
  house_arrest_ongoing.0003.c:0 "[friendly_prisoner.GetSheHe|U] is my one source of friendship."
  house_arrest_ongoing.0003.d:0 "[friendly_prisoner.GetSheHe|U] is my one source of comfort and love."

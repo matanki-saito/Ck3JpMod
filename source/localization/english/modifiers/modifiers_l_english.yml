@@ -544,7 +544,7 @@
  siege_modifier:0 "包囲下"
  encouraged_improvement_modifier:0 "Encouraged Improvements"
  county_base_modifier:0 "基本値"
- reclaim_britannia_culture_modifier:0 "Reclaimed Britannia"
+ reclaim_britannia_culture_modifier:0 "取り戻されたブリタニア"
  reclaim_britannia_culture_modifier_desc:0 "[promote_culture|E]($celtic_group$文化のみ)速度:#P +1000%#!"
  unlanded_modifier:0 "所領無し"
  baron_modifier:0 "男爵"

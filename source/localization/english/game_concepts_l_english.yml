@@ -1350,7 +1350,7 @@
  game_concept_commission_epic_desc:0 "この[decision|E]は一族の叙事詩を注文することにより、キャラクターが[gold|E]と引き換えに[prestige|E]を獲得します。"
  game_concept_exceptional_epic:0 "比類なき叙事詩"
  game_concept_exceptional_epic_desc:0 "$commission_epic_decision$の決断により書かれた一族の叙事詩は比類なき叙事詩となる可能性があり、それは通常の叙事詩よりも大きなボーナスをもたらします。\n\n比類なき叙事詩となる可能性はイベントの選択によって影響を受けます。"
- game_concept_demand_payment:0 "Demand Payment"
+ game_concept_demand_payment:0 "支払いの要求"
  game_concept_demand_payment_decision:0 "Demand Payment Interaction"
  game_concept_demand_payment_desc:0 "キャラクターが持っている任意の[hooks|E]と交換する代わりに[gold|E]の支払いを要求することができる外交。"
  game_concept_claim_throne:0 "玉座の要求"

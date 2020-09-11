@@ -26,7 +26,7 @@
  PERK_ALREADY_UNLOCKED:1 "@warning_icon!#X You already have [PERK.GetName( GetPlayer )]"
  PERK_MISSING_PARENT:1 "@warning_icon!#X You do not have the [PERK.GetName( GetPlayer )] #underline [perk]#!"
  LIFESTYLE_XP_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip] Experience: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]#!\n[CharacterLifestyleWindow.GetLifestyleProgressTooltip( Lifestyle.Self )]"
- LIFESTYLE_NOT_SELECTED_PROGRESS:2 "No passive [experience|E] gain as you have not chosen a [focus|E] within this Lifestyle"
+ LIFESTYLE_NOT_SELECTED_PROGRESS:2 "このライフスタイル内で[focus|E]を選択していないため、受動的な[experience|E]の獲得はありません"
  LIFESTYLE_PROGRESS_NEVER:0 "なし"
  LIFESTYLE_BASE_GAIN:0 "基本"
  LIFESTYLE_PROGRESS_STRING:0 "次の[perk|E]までの時間: $ETA$\n#P +$PROGRESS|0$#!/月"
