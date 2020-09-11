@@ -19,7 +19,7 @@
  stress_threshold.1001.journaller.effect:0 "書斎で一人、夜を過ごしたい。"
  stress_threshold.1001.endure:0 "私は強くなり、この衝動に抵抗しなければならない！"
  stress_threshold.1011.t:0 "精神崩壊：淫らな欲望"
- stress_threshold.1011.desc:0 "最近、煽情的な感情や淫らな妄想に気を取られていると感じる。日々の困難に追われると、白昼夢に容易にとらわれ、現実を忘れがである。\n\nこの欲望は明らかに私の生活を阻害しているが、これに対してどう対処したらいいだろうか？"
+ stress_threshold.1011.desc:0 "最近、煽情的な感情や淫らな妄想に気を取られていると感じる。日々の困難に追われると、白昼夢に容易にとらわれ、現実を忘れがちである。\n\nこの欲望は明らかに私の生活を阻害しているが、これに対してどう対処したらいいだろうか？"
  stress_threshold.1011.rakish.gain:0 "売春宿へ行くことが救済になるだろう！"
  stress_threshold.1011.rakish.effect:0 "今夜は私以外、売春宿に近づけるな。"
  stress_threshold.1011.rakish.tt:0 "そのような無茶はリスクを伴うが…"

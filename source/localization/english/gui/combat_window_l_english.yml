@@ -63,7 +63,7 @@
  COMBAT_WINDOW_MAA_TT_SCREEN:1 "Screen effect per full regiment: [RegimentType.GetStat(GetPlayer, 'screen')|0+=]"
  COMBAT_WINDOW_MAA_TT_PURSUIT:1 "Pursuit effect per full regiment: [RegimentType.GetStat(GetPlayer, 'pursuit')|0+=]"
  COMBAT_WINDOW_NO_MAA:0 "[men_at_arms|E]なし"
- CV_TT_RELATIVE_SOLDIERS:0 "#T Relative Strength#!\n[CombatWindow.GetLeftCombatSide.GetComposition.GetSoldierCountString] vs [CombatWindow.GetRightCombatSide.GetComposition.GetSoldierCountString] [soldiers|E]\n[CombatWindow.GetCombat.GetCombatWidthBreakdown]"
+ CV_TT_RELATIVE_SOLDIERS:0 "#T 相対的な軍事力#!\n[CombatWindow.GetLeftCombatSide.GetComposition.GetSoldierCountString] vs [CombatWindow.GetRightCombatSide.GetComposition.GetSoldierCountString] [soldiers|E]\n[CombatWindow.GetCombat.GetCombatWidthBreakdown]"
  COMBAT_WINDOW_PHASE_MANEUVER_TT:1 "#T 機動フェーズ\n#!戦いに備え双方が準備中"
  COMBAT_WINDOW_PHASE_MAIN_TT:0 "#T [main_phase|E]#!"
  COMBAT_WINDOW_PHASE_AFTERMATH_TT:1 "#T [aftermath|E]フェーズ\n#!勝利側が敗残の[soldiers|E]を切り捨てている"
