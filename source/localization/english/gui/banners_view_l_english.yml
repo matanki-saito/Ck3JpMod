@@ -22,7 +22,7 @@
  TOGGLE_KNIGHTS:1 "@knight_icon!$knight_culture_player_plural$"
  TOGGLE_KNIGHTS_TT:1 "#T Show $knight_culture_player_plural_no_tooltip$#!\nShow and manage $knight_culture_player_plural$"
  REMOVE_RALLY_POINT:0 "Remove Rally Point"
- MOVE_RALLY_POINT:0 "Move Rally Point"
+ MOVE_RALLY_POINT:0 "集結地を移動"
  TT_EDIT_BANNERS:0 "#T Edit Rally Points#!\nSplit off new [rally_points|E], and redistribute [levies|E] between existing Rally Points"
  BANNER_CANT_REMOVE_LAST:0 "#T Remove Rally Point#!\n@warning_icon!#X The last [rally_point|E] cannot be removed#!"
  BANNER_CANT_REMOVE_NO_MERGE:0 "#T Remove Rally Point#!\n@warning_icon!#X There is no [rally_point|E] that can take over the [holdings|E] in this Rally Point#!"
