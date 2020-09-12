@@ -27,7 +27,7 @@
  martial_authority.2050.desc.opening:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として私が振るおうとする権威全てのために、我が領国の全ての場所にいっぺんにいくことはできない。私が他の場所に目を向けると、私の命令に従わない「忘れた」者が必ずいる。\n\nそこで我が命令を忠実に実行してくれる[right_hand_person.Custom2('MyCharacterIntroduction', ROOT.Char)]の出番だ。"
  martial_authority.2050.desc.vassal:0 "within [right_hand_person.GetHerHis] own domain."
  martial_authority.2050.desc.knight:0 "特に田舎を巡回してだ。"
- martial_authority.2050.desc.courtier:0 "in court."
+ martial_authority.2050.desc.courtier:0 "宮廷で。"
  martial_authority.2050.desc.ending:0 "[right_hand_person.GetSheHe]は我が右腕の[right_hand_person.GetWomanMan]として私に仕え、我が領国を管理するためにより積極的な役割を果たせるだろうか？"
  martial_authority.2050.a:0 "ああ、[right_hand_person.GetSheHe]は良く仕えてくれるだろう！"
  martial_authority.2050.a.tt:1 "あなたは[right_hand_person.GetShortUIName]とより多くの時間を過ごすようになる"

@@ -540,7 +540,7 @@
  invite_knights_decision_tooltip:1 "$knight_culture_player_plural$があなたの宮廷に招待されます"
  invite_claimants_decision:0 "請求者を招待する"
  invite_claimants_decision_desc:0 "領土を拡大するためには国外の土地に対する正当な請求権が必要だ。幸運なことに軍事援助の見返りとして封臣となることを厭わない多くの請求者がいる。"
- invite_claimants_decision.tt:0 "The likelihood of [claimants|E] with relevant [claims|E] arriving as [guests|E] at Court is greatly increased for #V 5#! Years"
+ invite_claimants_decision.tt:0 "関連する[claims|E]を持つ[claimants|E]が宮廷に[guests|E]として到着する可能性が、#V 5#!年間大幅に増加します"
  invite_claimants_decision_confirm:0 "使者を送る"
  minor_decisions.0002.t:0 "請求者が到着した"
  minor_decisions.0002.desc:0 "[claimant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私の召喚に応じ、私の客人として宮廷に到着した。"

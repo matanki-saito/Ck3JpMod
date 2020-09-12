@@ -437,7 +437,7 @@
  glut_of_furniture_modifier_desc:0 "The halls of this character are increasingly-filled with shoddy, tasteless furniture."
  strange_recluse_modifier:0 "Strange Recluse"
  strange_recluse_modifier_desc:0 "This character is known to hide in seclusion, and say strange things to visitors..."
- grouchy_ruler_modifier:0 "Grouchy Ruler"
+ grouchy_ruler_modifier:0 "不機嫌な統治者"
  grouchy_ruler_modifier_desc:0 "This character is grouchy and terse with all who bother them."
  suspicious_sketcher_modifier:0 "Suspicious Sketcher"
  suspicious_sketcher_modifier_desc:0 "This character always seems to be sketching and making notes mid-conversation..."

@@ -266,7 +266,7 @@
  stewardship_domain_special.1426.a:0 "It is time to return home."
  stewardship_domain_special.1431.desc:0 "After days of travel, I find the village that is missing from my records. Not only is it thriving — absolutely thriving! – but the villagers insist they #EMP do#! pay their taxes.\n\n[collector.GetTitledFirstName], the barony's tax collector, has not been entirely honest."
  stewardship_domain_special.1431.a:0 "[collector.GetFirstNameNoTooltip] has questions to answer..."
- stewardship_domain_special.1431.a.tt:0 "I will confront [collector.GetFirstName]"
+ stewardship_domain_special.1431.a.tt:0 "[collector.GetFirstName]と対決する"
  stewardship_domain_special.1431.b:0 "Round up the villagers. They will pay again."
  stewardship_domain_special.1432.desc:0 "\"Those funds were vital to, uh, the defense of [county.GetNameNoTier]!\" [collector.GetTitledFirstName], the tax collector in [barony.GetNameNoTier], is terrified, not least because of the hulking soldiers I have brought to [collector.GetHerHis] manor.\n\n\"Oh please, I will do anything to earn your forgiveness!\""
  stewardship_domain_special.1432.a:0 "You will be forgotten in the dark."

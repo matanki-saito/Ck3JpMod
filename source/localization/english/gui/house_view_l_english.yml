@@ -1,6 +1,6 @@
 ﻿l_english:
  HOUSE_VIEW_FOUNDED:0 "AD[DynastyHouse.GetFoundYear]年に[DynastyHouse.GetFounder.GetName]により創設された"
- HOUSE_VIEW_CONCEPT:1 "[house|E] of the [DynastyHouse.GetDynasty.GetBaseNameNoTooltip] [dynasty|E]"
+ HOUSE_VIEW_CONCEPT:1 "[DynastyHouse.GetDynasty.GetBaseNameNoTooltip][dynasty|E]の[house|E]"
  HOUSE_VIEW_NUM_OF_HOUSE_MEMBERS:0 "[DynastyHouse.GetNumberOfMembers|V]人のメンバーが生存"
  HOUSE_VIEW_NUM_OF_DYNASTY_MEMBERS:0 "[Dynasty.GetNumberOfLivingMembers|V]人のメンバーが生存"
  HOUSE_VIEW_PART_OF:2 "Part of the"

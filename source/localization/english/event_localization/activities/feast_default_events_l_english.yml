@@ -30,7 +30,7 @@
  feast_default.1006.a:0 "私はただ正しいと思うことをするだけだ！"
  feast_default.1006.b:0 "One more round, everyone!"
  feast_default.1006.c:0 "正しく生きたければ他に道はないんだ、友よ！"
- feast_default.1007.t:0 "$feast_header$ Voracious"
+ feast_default.1007.t:0 "$feast_header$ 貪欲"
  feast_default.1007.desc:0 "With the continual serving of delicious foods, most guests have given up eating for the night, simply enjoying the entertainment. I am happy to see that [other_glutton.GetTitledFirstName] knows better!\n\n[other_glutton.GetSheHe|U] and I are both eager to taste as long as there is food!"
  feast_default.1007.a:0 "Together we could eat an entire horse!"
  feast_default.1007.b:0 "I bet I can out-eat [other_glutton.GetHerHim]."

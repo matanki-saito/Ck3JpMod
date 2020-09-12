@@ -1,7 +1,7 @@
 ﻿l_english:
  parent_meddling_tt:0 "My [parent.Custom('MotherFather')] expects to have a say in my decisions"
  parent_meddling_decrease_tt:0 "My [parent.Custom('MotherFather')] is pleased that I follow [parent.GetHerHis] advice"
- parent.1001.t:0 "[parent.Custom('MotherFather')|U]ly Advice"
+ parent.1001.t:0 "[parent.Custom('MotherFather')|U]の助言"
  parent.1001.desc:1 "My [parent.Custom('MotherFather')] has many things to say about the $knight_culture_player_plural_no_tooltip_lowercase$ of my realm, commenting on everything from how they train, to what they should be preparing for in the field.\n\nEven the $knight_culture_player_plural_no_tooltip$ admit that what [parent.GetSheHe] says makes much sense, too."
  parent.1001.a:0 "\"So how #EMP should#! the be organized, [parent.Custom('MotherFather')]?\""
  parent.1001.b:0 "I alone decide how they fight!"
@@ -15,7 +15,7 @@
  parent.1004.a:0 "\"Please guide me to prudent choices, [parent.Custom('MotherFather')].\""
  parent.1004.b:0 "My realm, my treasury!"
  parent.1005.desc:0 "私の分野にも賢い人たちがいますが、その中の一人が私の[parent.Custom('MotherFather')]を討論するのに最適であるとは思えない。[parent.GetSheHe|U]には常に驚くべき視点や、明らかにすべき別の知識の層がある。"
- parent.1005.a:0 "\"Share your wisdom with me, [parent.Custom('MotherFather')]!\""
+ parent.1005.a:0 "「[parent.Custom('MotherFather')]よ、あなたの知恵を分けてください！」"
  parent.1005.b:0 "The words dazzle, but are they all that wise?"
  parent.1006.t:0 "A Guiding Hand"
  parent.1006.desc:0 "My [parent.Custom('MotherFather')] has taken great interest in the going-ons in [county.GetNameNoTier] lately.\n\n[parent.GetSheHe|U] has even begun corresponding with barons and mayors, instructing them in proper management!"

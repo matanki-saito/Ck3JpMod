@@ -91,7 +91,7 @@
  seduce_ongoing.1301.a:0 "Sell it. It could be used as a blanket, if nothing else."
  seduce_ongoing.1202.opening:0 "私は馬を与えられた。育ちもよく栄養状態もいい！この素晴らしい獣は乗馬にうってつけのようだ。そして、"
  seduce_ongoing.1202.courtier:0 "I already caught [courtier.GetTitledFirstName] eying it with envy."
- seduce_ongoing.1202.no_courtier:0 "it already has several admirers at court."
+ seduce_ongoing.1202.no_courtier:0 "宮廷にはすでに数人の称賛者がいる。"
  seduce_ongoing.1302.desc:0 "I have been given a horse, which makes me wonder what others think of me. Do they expect I would go riding on that starved old thing?"
  seduce_ongoing.1302.a:0 "What am I going to do with this mule? Sell it."
  seduce_ongoing.1203.desc:0 "A tailor arrived at court, specifically to provide me with whatever new clothing I might desire. Now that [ROOT.Char.GetHerHis] work is done, I must say that [ROOT.Char.GetSheHe] is very skilled, too!"

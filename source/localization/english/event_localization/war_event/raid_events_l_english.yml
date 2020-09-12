@@ -1,5 +1,5 @@
 ﻿l_english:
- raiding.0002.t:0 "火と血"
+ raiding.0002.t:0 "炎と血"
  raiding.0002.desc:0 "[sacked_county.GetNameNoTierNoTooltip]の重要な拠点である[sacked_barony.GetNameNoTierNoTooltip]の居留地は、私の襲撃者たちの手に落ちた。我々は、多くの[sacked_county_owner.GetTitledFirstName]のおびえた住民と輝く宝物が我々の手に落ちるのを待っていることを知っている。\n/n\n兵は準備を整え、私の命令を待っている。"
  raiding.0002.a:0 "[raider_capital.GetNameNoTooltip]で有能な奴隷を捕獲！"
  raiding.0002.b:0 "もっと略奪物を持ってこい"

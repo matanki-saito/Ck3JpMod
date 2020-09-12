@@ -1,6 +1,6 @@
 ﻿l_english:
  courtier_guest_management.0001.t:2 "あなたの[liege.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetShortUINameNoTooltip]はもうすぐ宮廷から去ります"
- courtier_guest_management.desc:0 "[child.GetTitledFirstName]は法廷にとどまる理由がなく、すぐに去るでしょう"
+ courtier_guest_management.desc:0 "[child.GetTitledFirstName]は宮廷にとどまる理由がなく、すぐに去るでしょう"
  courtier_guest_management.0102.t:0 "最後の機会"
  courtier_guest_management.0102.desc:0 "[courtier.GetTitledFirstName]は [capital.GetNameNoTierNoTooltip]での時間を終わらせることを決意した。使用人たちは[courtier.GetHerHis]の箱に荷造りをし、[courtier.GetSheHe]は別れの挨拶をした。\n\n[courtier.GetTitledFirstNameNoTooltip]がいなくなれば、[courtier_claim.GetName]への請求権は失われる。もし請求権を行使して[courtier.GetHerHim]を私の封臣にしたいなら、これが[courtier.GetHerHim]を滞在させておく最後の機会だ。"
  courtier_guest_management.0102.a:0 "一年くれ、その間にそなたの継承権を行使する！"

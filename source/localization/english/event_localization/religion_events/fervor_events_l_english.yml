@@ -1,5 +1,5 @@
 ﻿l_english:
- fervor.1002.t:0 "スキャンダラスなプリースト"
+ fervor.1002.t:0 "司祭の不祥事"
  fervor.1002.desc.start:0 "The [sinful_theocrat.GetFaith.GetAdjectiveNoTooltip] world was [sinful_theocrat.Custom('GetShockedExpression')] to learn that [sinful_theocrat.Custom2('MyCharacterIntroduction', ROOT.Char)]"
  fervor.1002.desc.start_hof:0 "[sinful_theocrat.GetFaith.GetAdjectiveNoTooltip]の世界は[sinful_theocrat.GetTitledFirstName][sinful_theocrat.GetHerselfHimself]を知って愕然とした"
  fervor.1002.desc.lustful:0 "was caught 'in flagrante delicto' with several young servants in [sinful_theocrat.GetHerHis] home! The poor aide who discovered them had to avert [dummy_clergy_gender.GetHerHis] eyes while the culprits rushed to grab their clothes and get dressed."

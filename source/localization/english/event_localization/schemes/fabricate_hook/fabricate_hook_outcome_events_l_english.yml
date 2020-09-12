@@ -13,7 +13,7 @@
  fabricate_hook_outcome.1001.b:0 "これについてはもっと慎重に思案すべきだ。"
  fabricate_hook_outcome.1001.c:0 "これは全て大きな過ちであった。"
  fabricate_hook_outcome.1002.t:0 "$fabricate_hook_header$不利な書状"
- fabricate_hook_outcome.1002.desc:0 "[target.GetTitledFirstName]の法廷からの使者を留まらせることによって、チャンスが訪れた。\n\n[target.GetTitleAsNamePossessive]の封印を複製することにって、増税の脅しの手紙を捏造し、[target.GetHerHis]の家臣達の間に出回らせることができる。少なくとも脅すくらいは…"
+ fabricate_hook_outcome.1002.desc:0 "[target.GetTitledFirstName]の宮廷からの使者を留まらせることによって、チャンスが訪れた。\n\n[target.GetTitleAsNamePossessive]の封印を複製することにって、増税の脅しの手紙を捏造し、[target.GetHerHis]の家臣達の間に出回らせることができる。少なくとも脅すくらいは…"
  fabricate_hook_outcome.1002.a:0 "”これ#EMP は#!あなたの署名ですよね？”"
  fabricate_hook_outcome.1003.t:0 "$fabricate_hook_header$大胆な救出"
  fabricate_hook_outcome.1003.desc:0 "[target.GetTitledFirstName]が恐れではなく恩義で借りを感じるのは素晴らしいことではないだろうか？例えば、[target.GetSheHe]が旅をしている時に[target.GetHerHim]を凶悪な夜盗から救ったとしたら？いやそれどころか、城門の前で実際に待っている連中が凶悪な夜盗だとしたら？\n\n最後に私が近衛兵たちと突撃し彼らを追い払うと、[target.GetFirstNameNoTooltip]は一生涯の恩義を私に感じるだろう。"
