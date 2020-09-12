@@ -27,7 +27,7 @@
  sway_ongoing.5001.stewardship_lifestyle:0 "The ruling of a realm surely interests [target.GetHerHim]."
  sway_ongoing.5001.intrigue_lifestyle:0 "[target.GetSheHe|U] surely enjoys subterfuge and intrigue."
  sway_ongoing.5001.learning_lifestyle:0 "I believe nothing entices [target.GetHerHim] like a good book!"
- sway_ongoing.5001.a.tt:0 "I will subtly include this topic in coming letters"
+ sway_ongoing.5001.a.tt:0 "今後の手紙でこの話題を微妙に含めよう"
  sway_ongoing.5001.b:0 "It is not my place."
  sway_ongoing.5002.t:0 "Getting Personal"
  sway_ongoing.5002.desc_opening:0 "In our latest correspondence [owner.Custom2('MyCharacterIntroductionNoComma', target)] made a mention in passing about"

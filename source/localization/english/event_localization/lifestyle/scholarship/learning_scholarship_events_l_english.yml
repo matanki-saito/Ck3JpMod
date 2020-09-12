@@ -2,7 +2,7 @@
  learning_zealous_path_tt:0 "#F この選択は宗教に対する熱狂を冷ます可能性がある#!"
  learning_cynical_path_tt:0 "#F この選択は宗教に対する冷笑を弱める可能性がある#!"
  learning_scholarship_focus_point_clear_gain:1 "[learning_lifestyle|E]への理解を深める"
- learning_lifestyle_rank_up_indication:0 "[learning_lifestyle|E]の[perk|E]を獲得する"
+ learning_lifestyle_rank_up_indication:0 "[learning_lifestyle|E]の[perk|E]を獲得するかもしれない"
  learning_scholarship.1101.t:0 "識字能力の欠如"
  learning_scholarship.1101.desc:1 "\"My [ROOT.Char.GetLadyLord], it has come to my attention that you might require some tutelage in the art of... deciphering written communication,\" [bishop.Custom2('MyCharacterIntroduction', ROOT.Char)] says, presenting me with a scroll.\n\n\"If it would please my [ROOT.Char.GetLadyLord] I would be willing to instruct you; I have the perfect text right here.\""
  learning_scholarship.1101.a:0 "The... k-king hav—had a big crown..."
