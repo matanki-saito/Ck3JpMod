@@ -1,7 +1,7 @@
 ﻿l_english:
  GOVERNMENT_HAS_FLAG_TRIGGER:0 "[government|E]は$FLAG|V$できる"
- GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E]は$RULE|V$を許可している"
- THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|V]の[government|E]は$RULE|V$を許可している"
+ GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E]が以下を許可している: $RULE|V$"
+ THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|V]の[government|E]が以下を許可している: $RULE|V$"
  GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E]は$RULE|V$を許可していない"
  HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "$GOVERNMENT|V$である"
  NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "$GOVERNMENT|V$#bold でない#!"

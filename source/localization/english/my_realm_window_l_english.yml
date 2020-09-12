@@ -9,7 +9,7 @@
  MY_REALM_WINDOW_OBLIGATION_CHANGED:1 "$NAME|V$"
  MY_REALM_WINDOW_TAX_TO_LIEGE:0 "税: [MyRealmWindow.GetCachedTaxToLiege|=1]/月"
  MY_REALM_WINDOW_LEVIES_TO_LIEGE:0 "徴募兵: [MyRealmWindow.GetCachedLeviesToLiege]"
- MY_REALM_WINDOW_TYPE:1 "[GetPlayer.GetGovernment.GetName] [Character.GetPrimaryTitle.GetRankConcept]"
+ MY_REALM_WINDOW_TYPE:1 "[GetPlayer.GetGovernment.GetName][Character.GetPrimaryTitle.GetRankConcept]"
  MY_REALM_WINDOW_VASSALS:0 "封臣"
  MY_REALM_WINDOW_SUCCESSION:0 "継承"
  MY_REALM_WINDOW_CURRENT_SUCCESSION:0 "Realm [succession_law|E]"

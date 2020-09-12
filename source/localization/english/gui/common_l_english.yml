@@ -31,7 +31,7 @@
  COA_TOOLTIP_CLICK_INFO_GUI:0 "#I [SelectLocalization(Title.IsShownInTitleView, 'GO_TO_CLICK', 'VIEW_CLICK')]\n$GO_TO_RIGHT_CLICK$#!"
  COA_DEFAULT_TOOLTIP_TITLE:0 "#T [TITLE.GetNameWithUnderlyingNoTooltip|U]#!\n"
  COA_DE_JURE_TOOLTIP_TITLE:0 "#T [TITLE.GetNameWithUnderlyingNoTooltip|U]#!\n"
- COA_DE_JURE_TOOLTIP_DE_JURE_TITLE:0 "De Jure part of: [TITLE.GetDeJureLiege.GetName]\n"
+ COA_DE_JURE_TOOLTIP_DE_JURE_TITLE:0 "次の慣習的領土：[TITLE.GetDeJureLiege.GetName]\n"
  COA_HAS_LAWS:0 "@title_succession![title_succession|E]法:"
  COA_HIGHLIGHT_CLAIM:1 "@pressed_claim! You have a $CLAIM$ on this [title|E]"
  COA_HIGHLIGHT_SUCCESSION:2 "#TUT_KW You are in the line of [succession|E] for this Title#!"

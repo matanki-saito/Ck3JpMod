@@ -191,7 +191,7 @@
  yearly.5052.desc.b.b:0 "\n\nThen again, a good [ROOT.Char.GetTitleTierName] should stand by [ROOT.Char.GetHerHis] [scoped_spouse.GetTitleTierName], and [scoped_spouse.GetFirstName] looks genuinely devastated by the event."
  yearly.5052.a:0 "I will talk with [slighting_courtier.GetTitledFirstNameNoTooltip]."
  yearly.5052.b:0 "I think you should forget this whole matter, [scoped_spouse.GetFirstNameNoTooltip]."
- yearly.5053.desc.a:0 "My [scoped_spouse.GetWifeHusband] is complaining once again about somebody at court disrespecting [scoped_spouse.GetHerHim]. This time, it seems like it is [slighting_courtier.GetTitledFirstName] the one to cause [scoped_spouse.GetHerHis] ire. [scoped_spouse.GetSheHe|U] is now requesting that I do something about it."
+ yearly.5053.desc.a:0 "私の[scoped_spouse.GetWifeHusband]がまたしても宮廷で誰かが[scoped_spouse.GetHerHim]を見下していると文句を言っている。今回は[slighting_courtier.GetTitledFirstName]が[scoped_spouse.GetHerHis]の怒りを買っているようだ。[scoped_spouse.GetSheHe|U]が今、私に何とかして欲しいと言っている。"
  yearly.5053.desc.b:0 "I am far from surprised when my [scoped_spouse.GetWifeHusband] asks me to discipline yet another member of the court that, according to [scoped_spouse.GetHerHim] has impugned [scoped_spouse.GetHerHis] honor. It has become such a frequent occurrence that I barely pay any attention to the list of grievances [scoped_spouse.GetFirstName] lists against [slighting_courtier.GetTitledFirstName]."
  yearly.5053.desc.b.a:0 "\n\nI cannot fathom why so many people are bothering [scoped_spouse.GetHerHim]..."
  yearly.5053.desc.b.b:0 "\n\nA more suspicious [ROOT.Char.GetWifeHusband] might start to suspect that [scoped_spouse.GetSheHe] is taking advantage of my good will to get rid of anyone [scoped_spouse.GetSheHe] does not like..."

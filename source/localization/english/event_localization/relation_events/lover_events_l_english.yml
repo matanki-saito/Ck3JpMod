@@ -79,7 +79,7 @@
  lover.0203.desc:0 "\"It is not you, it is I...\" I am not really listening as [breaker.GetFirstName] is speaking. There is no doubt that [breaker.GetSheHe] is here to end our dalliance, but all I feel is a wave of relief flowing over me."
  lover.0203.a:0 "Yes yes, this is a terrible shame. Run along, now."
  lover.0204.t:0 "A [lover.Custom('WomanManGirlBoy')] Scorned"
- lover.0204.desc:0 "\"How dare you! How dare you break up with me, and for that [other_lover.Custom('InsultNounSexual')] nonetheless!\"\n\nRumors spread fast, and the dramatic reaction of [lover.GetFirstName] is now reenacted in front of me. It is clear that [lover.GetSheHe] harbors ill feelings toward me, and may seek revenge whether warranted or not."
+ lover.0204.desc:0 "「よくもまあ、ヌケヌケと。よくも私と別れたてくれましたね。それも[other_lover.Custom('InsultNounSexual')]のために！」\n\n噂は瞬く間に広がり、[lover.GetFirstName]の劇的な反応が目の前で再演される。[lover.GetSheHe]が私に悪感情を抱いていることは明らかであり、正当な理由があろうとなかろうと、復讐を求めるかもしれない。"
  lover.0204.a:0 "[breaker.GetFirstName] chose me. Get over it."
  lover.3111.t:0 "My One and Only"
  lover.3111.desc:1 "My [ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))] [lover.GetTitledFirstName] holds me in [lover.GetHerHis] arms, and I feel a seldom felt happiness. Just imagine if this could last forever — if [lover.GetSheHe] could be forever mine, and mine only..."

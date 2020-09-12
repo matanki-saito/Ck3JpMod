@@ -64,7 +64,7 @@
  stewardship_duty.1072.desc.rival:0 "I know you have stolen my serfs from me. I may not have any way of recovering them, but do not think I will forget this offense. You have earned my enmity — I hope it was worth it."
  stewardship_duty.1072.desc.relationship:0 "Why would you steal my serfs from me!? I am shocked and deeply hurt that you would betray me so... I do not know if I can ever view you the same way after this."
  stewardship_duty.1072.desc.vassal:0 "I know you have resettled my serfs in your lands. Why would you do that to your own vassal? Have I not been dutiful in paying you the taxes you are owed?\n\nWith no serfs to work my fields, I cannot grow any crops. You might as well have just stolen the land itself! This is an offense I will not soon forget."
- stewardship_duty.1072.desc.subvassal:0 "I know you have resettled my serfs in your lands. Such an act subverts the very fabric of our society!\n\nThough I can do nothing about this now, rest assured that [origin_county_owner_liege.GetTitledFirstName] will know why I have fewer taxes for [origin_county_owner_liege.GetHerHim] this year."
+ stewardship_duty.1072.desc.subvassal:0 "あなたが私の農奴をあなたの土地に再定住させたことは知っている。そのような行為は私たちの社会構造そのものを破壊する！\n\n今は何もできないけど、今年の[origin_county_owner_liege.GetHerHim]の税金が少ない理由は[origin_county_owner_liege.GetTitledFirstName]が知っているので安心してくれ。"
  stewardship_duty.1072.a:0 "Those were your serfs? My apologies, I will return them."
  stewardship_duty.1072.b:0 "Grumble all you want, it does not change anything."
  stewardship_duty.1072.b.compassionate:0 "This is your fault. You should not have abused them."

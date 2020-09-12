@@ -33,7 +33,7 @@
  innovation_motte:0 "モット"
  innovation_motte_desc:0 "シンプルでありながら効果的な、盛り上がった土の小山に城を建てることは、文字通り敵を圧倒する高台を確保するための最良の方法である。"
  innovation_catapult:0 "オナガー"
- innovation_catapult_desc:0 "装填と発射に時間がかかるが、これらのようなねじり動力のカタパルトは、敵の射手の射程外にいながら敵の要塞を攻撃することを可能にする。"
+ innovation_catapult_desc:0 "装填と発射に時間がかかるが、これらのようなねじり動力のカタパルトは、敵の射手の射程外にいながら敵の要塞を攻撃することを可能にします。"
  innovation_barracks:0 "兵舎"
  innovation_barracks_desc:0 "兵士を収容するための専用の建物を建設することで、軍隊を収容するのに十分なスペースを確保することができます。"
  innovation_mustering_grounds:0 "召集場"

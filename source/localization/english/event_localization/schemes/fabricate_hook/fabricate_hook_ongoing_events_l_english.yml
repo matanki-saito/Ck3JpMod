@@ -1,8 +1,8 @@
 ﻿l_english:
- fabricate_hook_ongoing.0001.t:0 "$fabricate_hook_header$ Family Contact"
- fabricate_hook_ongoing.0001.desc:1 "[target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('family_member'))], [family_member.GetTitledFirstName], has been unusually forthcoming. Even knowing that I might not have entirely pure intentions for [target.GetFirstName], [family_member.GetSheHe] is more than willing to answer my questions."
- fabricate_hook_ongoing.0001.a:0 "\"Does [target.GetSheHe] have any particular weak spots I should know about?\""
- fabricate_hook_ongoing.0001.b:0 "\"How would one go about getting closer to [target.GetHerHim]?\""
+ fabricate_hook_ongoing.0001.t:0 "$fabricate_hook_header$家族との接触"
+ fabricate_hook_ongoing.0001.desc:1 "[target.GetTitledFirstNamePossessive]の[target.Custom2('RelationToMe', SCOPE.sC('family_member'))]、[family_member.GetTitledFirstName]と不意に遭遇した。私が[target.GetFirstName]に対して少しは害意があるかもしれないことを知っているのに、[family_member.GetSheHe]は私の質問に喜んで答えた。"
+ fabricate_hook_ongoing.0001.a:0 "「特に知っておくべき[target.GetSheHe]の弱点はないか？」"
+ fabricate_hook_ongoing.0001.b:0 "「[target.GetHerHim]に近づくにはどうすればいい？」"
  fabricate_hook_ongoing.0002.t:0 "$fabricate_hook_header$ 不当な影響"
  fabricate_hook_ongoing.0002.desc:0 "[target.GetTitledFirstName] seems unusually careful around [target.GetHerHis] [target.Custom2('RelationToMeShort', hooking_character )], [hooking_character.GetTitledFirstName]. This kind of deference can only mean that [hooking_character.GetFirstNameNoTooltip] has some kind of leverage on [target.GetHerHim].\n\nPerhaps there is something for me to learn, here?"
  fabricate_hook_ongoing.0002.a:0 "私のスパイはこの謎を解明すべきだ。"

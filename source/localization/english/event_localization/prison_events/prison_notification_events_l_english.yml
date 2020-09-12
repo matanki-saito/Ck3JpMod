@@ -3,7 +3,7 @@
  prison_notification.0001.desc:0 "[imprisoner.GetTitledFirstName]の命令で私は逮捕され勾留の身となった。\n\nもう家に帰ったり、好きなように旅行したりする自由はない。"
  prison_notification.0001.a:0 "勾留が長くなければよいのだが。"
  prison_notification.0002.t:0 "投獄された！"
- prison_notification.0002.desc:0 "[prisoner.GetTitledFirstName], my [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], is now held against [prisoner.GetHerHis] will by [imprisoner.GetTitledFirstName]."
+ prison_notification.0002.desc:0 "私の[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))]である[prisoner.GetTitledFirstName]は、[imprisoner.GetTitledFirstName]によって[prisoner.GetHerHis]の意志に反して拘束されている。"
  prison_notification.0002.a:0 "What can be done for [prisoner.GetHerHim]?"
  prison_notification.0003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U]が投獄された！"
  prison_notification.1001.t:0 "光の外へ"

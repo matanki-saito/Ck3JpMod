@@ -20,7 +20,7 @@
  pilgrimage_armed_pilgrimages_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_armed_pilgrimages').GetBaseName] [core_tenet|E]."
  pilgrimage_mendicant_preachers_modifier:0 "清貧の旅"
  pilgrimage_mendicant_preachers_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_mendicant_preachers').GetBaseName] [core_tenet|E]."
- pilgrimage_pentarchy_modifier:0 "The Seats of Bishops"
+ pilgrimage_pentarchy_modifier:0 "司教の席"
  pilgrimage_pentarchy_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_pentarchy').GetBaseName] [core_tenet|E]."
  pilgrimage_struggle_submission_modifier:0 "Display of Submission"
  pilgrimage_struggle_submission_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_struggle_submission').GetBaseName] [core_tenet|E]."

@@ -43,5 +43,5 @@
  DYNASTY_VIEW_SHOW_UNLOCK:0 "解禁"
  DYNASTY_VIEW_SHOW_PERK_COST:0 "コスト: [DynastyPerk.GetCostStringOnly( GetPlayer )]"
  DYNASTY_VIEW_SHOW_LEGACY_EXPLANATION_HEAD:1 "$DYNASTY_VIEW_LEGACY_EXPLANATION$。あなたは[dynast|E]として遺産をアンロックするため[dynasty_prestige|E]を費やすことができます。"
- DYNASTY_VIEW_SHOW_LEGACY_EXPLANATION_NOT_HEAD:1 "$DYNASTY_VIEW_LEGACY_EXPLANATION$.#X  You are not the [dynast|E] so you cannot spend [dynasty_prestige|E] to unlock Legacies.#!"
+ DYNASTY_VIEW_SHOW_LEGACY_EXPLANATION_NOT_HEAD:1 "$DYNASTY_VIEW_LEGACY_EXPLANATION$。#X あなたは[dynast|E]ではないため[dynasty_prestige|E]を使って遺産をアンロックすることはできません。#!"
  DYNASTY_VIEW_HEADING:0 "[Dynasty.GetBaseNameNoTooltip]王朝の遺産"

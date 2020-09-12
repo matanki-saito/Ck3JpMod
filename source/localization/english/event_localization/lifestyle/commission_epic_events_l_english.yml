@@ -138,7 +138,7 @@
  commission_epic.2006.b:0 "Hah! It is the other way around."
  commission_epic.2006.b.flavor:0 "We have always led the way for the [ROOT.Char.GetFaith.AltPriestTermPlural]."
  commission_epic.2006.c:0 "We both know family comes first in all things."
- commission_epic.2006.c.same_dynasty:0 "This option is available because [court_chaplain.GetFirstNameNoTooltip] is of the same [dynasty|E] as me"
+ commission_epic.2006.c.same_dynasty:0 "[court_chaplain.GetFirstNameNoTooltip]が私と同じ[dynasty|E]であるため、これが選択可能です"
  commission_epic.9001.t:0 "A Family Epic"
  commission_epic.9001.writer:0 "\n\nThe epic [ROOT.Char.Custom('CompositionType')] of my family is finally complete, and [composer.GetTitledFirstName] has reason to be proud!"
  commission_epic.9001.servant:0 "It seems I was wise in choosing [composer.GetTitledFirstName] to compose the [ROOT.Char.Custom('CompositionType')] of my family. Despite [composer.GetHerHis] challenges, the completed work is quite impressive."
