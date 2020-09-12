@@ -152,5 +152,5 @@
  GOVERNMENT_CLAN_NOT_ALLIED_POWERFUL:0 "No [alliance|E] as powerful Clan [vassal|E]"
  government_can_raid_rule:0 "Allows the [raiding|E] of foreign [counties|E] for loot"
  SUPPLY_MULT_DIFERENT_GOVERNMENT:0 "[GOVERNMENT_TYPE.GetAdjective] Lands"
- CONTRACT_LIEGE_SIGNATURE:0 "The Liege,\n[VassalContract.GetLiege.GetTitledFirstNameNoTooltip]\nof House [VassalContract.GetLiege.GetHouse.GetBaseNameNoTooltip]"
- CONTRACT_VASSAL_SIGNATURE:0 "The Vassal,\n[VassalContract.GetVassal.GetTitledFirstNameNoTooltip]\nof House [VassalContract.GetVassal.GetHouse.GetBaseNameNoTooltip]"
+ CONTRACT_LIEGE_SIGNATURE:0 "主君、\n[VassalContract.GetLiege.GetHouse.GetBaseNameNoTooltip]家の\n[VassalContract.GetLiege.GetTitledFirstNameNoTooltip]"
+ CONTRACT_VASSAL_SIGNATURE:0 "封臣、\n[VassalContract.GetVassal.GetHouse.GetBaseNameNoTooltip]家の\n[VassalContract.GetVassal.GetTitledFirstNameNoTooltip]"

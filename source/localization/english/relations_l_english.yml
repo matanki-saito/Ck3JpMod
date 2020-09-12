@@ -287,7 +287,7 @@
  soldier_friend:0 "#D Soldier-Friend (Hidden)#!"
  FRAME_RELATION_ME:1 "#T あなた#!"
  FRAME_RELATION_MY_HEIR:1 "#T あなたの[heir|E]#!"
- FRAME_RELATION_DYNAST:2 "#T [dynast|E] of your [dynasty|E]\n#!$TT_DYNAST_DESC$"
+ FRAME_RELATION_DYNAST:2 "#T あなたの[dynasty|E]の[dynast|E]\n#!$TT_DYNAST_DESC$"
  FRAME_RELATION_HEAD_OF_HOUSE:2 "#T [house_head|E] of your [house|E]\n#!$TT_HOUSE_HEAD_DESC$"
  FRAME_RELATION_DYNASTY_BASTARD:2 "#T [dynasty|E]の不正な[bastard|E] #!"
  FRAME_RELATION_DYNASTY_MEMBER:1 "#T あなたの[dynasty|E]のメンバー#!"

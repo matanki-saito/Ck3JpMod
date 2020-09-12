@@ -138,7 +138,7 @@
  MORE:0 "#T その他...#!"
  PRISON:0 "Prison"
  MY_WAR_ITEM_TOOLTIP:0 "#tooltip_subheading [WAR.GetName|V]#!\n#weak My War#!"
- LIEGE_WAR_ITEM_TOOLTIP:0 "#tooltip_subheading [WAR.GetName|V]#!\nMy liege's War"
+ LIEGE_WAR_ITEM_TOOLTIP:0 "#tooltip_subheading [WAR.GetName|V]#!\n主君の戦争"
  ATTACKING_IN_WAR:0 "[CHARACTER.GetName]を#attacker_color 攻撃中#!\n"
  DEFENDING_IN_WAR:1 "[CHARACTER.GetName]に対し#defender_color 防衛中#!\n"
  WAR_ITEM_WAR_SCORE_TOOLTIP_HEADER:0 "[war_score|E]: $VALUE|+=0%$"
