@@ -98,7 +98,7 @@
  any_claim_filter_desc:0 "[claim|E]を持つ人物のみ表示"
  on_me_claim_filter:0 "On you"
  on_me_claim_filter_desc:0 "あなたに対し[claim|E]を持つ人物のみ表示"
- no_claim_filter:0 "No claims"
+ no_claim_filter:0 "請求権なし"
  no_claim_filter_desc:0 "[claims|E]を持たない人物のみ表示"
  range_filter:0 "外交範囲"
  in_range_filter:0 "範囲内"

@@ -44,7 +44,7 @@
  INCREASE_GAME_SPEED_TO:0 "ゲーム速度を$NEXT_SPEED$へ上げます"
  DECREASE_GAME_SPEED_TO:0 "ゲーム速度を$PREV_SPEED$へ下げます"
  PAUSED_BY:0 "by [GetPausedBy]"
- CLICK_TO_UNPAUSE:0 "#I Click to unpause#!"
+ CLICK_TO_UNPAUSE:0 "#I クリックで一時停止を解除#!"
  UNPAUSE_GAME:0 "#T ゲームは#V 一時停止中です#! [SelectLocalization( StringIsEmpty( GetPausedBy ), '', 'PAUSED_BY' )]\n#![SelectLocalization( Or( Or( Not( GameIsMultiplayer ), CanAnyoneUnpause ), IsPausedByMe ), 'CLICK_TO_UNPAUSE', '' )]"
  UNPAUSE_GAME_OVER:0 "#T Game is Paused#! \n#X Cannot unpause after Game Over#!"
  GAME_OVER_END_DATE:0 "Reached the [end_date|E]"

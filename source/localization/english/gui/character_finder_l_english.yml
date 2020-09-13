@@ -1,5 +1,5 @@
 ﻿l_english:
- CHARACTER_FINDER_COUNT:0 "[Select_CString( LessThan_int32( CharacterSelectionList.NumberOfShownCharacters, CharacterSelectionList.GetTotalNumber ), '#W', '#dark' )] [CharacterSelectionList.NumberOfShownCharacters] #!of [CharacterSelectionList.GetTotalNumber] Characters"
+ CHARACTER_FINDER_COUNT:0 "[CharacterSelectionList.GetTotalNumber]中[Select_CString( LessThan_int32( CharacterSelectionList.NumberOfShownCharacters, CharacterSelectionList.GetTotalNumber ), '#W', '#dark' )][CharacterSelectionList.NumberOfShownCharacters]#!の人物"
  CHARACTER_FINDER_TITLE:0 "Character Finder"
  SORT_MILITARY_STRENGTH:0 "軍事力"
  CHARACTER_FINDER_FILTER_SET:0 "#T いくつかのフィルタは初期値以外に設定されています#!"

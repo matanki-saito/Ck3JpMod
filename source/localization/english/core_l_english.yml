@@ -213,7 +213,7 @@
  COUNCILLOR:0 "[CHARACTER.GetCouncilTitle]"
  COURTIER:1 "[courtier|E]"
  GUEST:1 "[guest|E]"
- RELATION_NEIGHBORING_RULER:0 "近隣の [ruler|E]"
+ RELATION_NEIGHBORING_RULER:0 "近隣の[ruler|E]"
  RELATION_FOREIGN_RULER:0 "外国の[ruler|E]"
  RELATION_MY_TOP_LIEGE:0 "あなたの[top_liege|E]"
  RELATION_BELOW_VASSAL:0 "あなたの[realm|E]内の封臣"

@@ -76,7 +76,7 @@
  ABORT_BUILDING_CONFIRM:0 "Aborting this construction will refund the cost, and allow another building to be constructed here."
  ABORT_BUILDING_CONFIRM_ACCEPT:0 "Abort"
  ABORT_HOLDING_CONFIRM:0 "Aborting this construction will refund the cost, and allow another holding to be constructed here."
- CANCEL_HOLDING_CONSTRUCTION:0 "Abort [HoldingView.GetHolding.GetConstructingHoldingType.GetName] Construction"
+ CANCEL_HOLDING_CONSTRUCTION:0 "[HoldingView.GetHolding.GetConstructingHoldingType.GetName]の建設を中止"
  CANCEL_HOLDING_CONSTRUCTION_TOOLTIP:0 "Cancel the construction of the [HoldingView.GetHolding.GetConstructingHoldingType.GetName] in [HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip], the cost will be refunded."
  REPLACE_BUILDING:0 "Replace $TYPE$"
  REPLACE_BUILDING_BUTTON:0 "Replace"

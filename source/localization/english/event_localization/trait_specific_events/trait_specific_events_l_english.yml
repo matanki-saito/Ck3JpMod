@@ -22,7 +22,7 @@
  trait_specific.4001.desc:0 "書庫の埃っぽい片隅で、他の本の後ろに隠れていた革製の奇妙なシンボルが刻まれた学術書を見つけた。それは古いものだが、明らかに最近使われたようだ。\n\nそれに目を通すと、この本に見慣れない知識が綴られていることに私はすぐに気がついた。"
  trait_specific.4001.a:0 "面白い…私は座って読む前に周りを一瞥する。"
  trait_specific.4001.a_tt:0 "最近この本を読んだ者が私の周りにいないと良いのだが…"
- trait_specific.4001.b:0 "Heresy! I'll turn it in to the [ROOT.Char.GetFaith.PriestNeuterPlural]."
+ trait_specific.4001.b:0 "異端の書だ！私はそれを[ROOT.Char.GetFaith.PriestNeuterPlural]に引き渡した。"
  trait_specific.5001.t:0 "美食家"
  trait_specific.5001.desc:0 "鹿肉、エルク、ウズラ…この世界にはエキゾチックなものが沢山ある！\n\n極上の肉が私の前に配膳される度、私はもっと何かあるのでないかと思わずにはいられない。これ以上、どんな食の冒険に行くことが出来るのだろう？"
  trait_specific.5001.a:0 "全部やってみよう！"

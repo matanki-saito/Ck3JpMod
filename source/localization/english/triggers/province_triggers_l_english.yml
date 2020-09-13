@@ -4,4 +4,4 @@
  ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$NUM|V$$COMPARATOR$である"
  IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]である"
  NOT_IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]#bold でない#!"
- NOT_POTENTIAL_COUNTY_CONTROL_TASK_TRIGGER:1 "[TITLE.GetName] is already at 100 [control|E] and has no [county_corruption|E]"
+ NOT_POTENTIAL_COUNTY_CONTROL_TASK_TRIGGER:1 "[TITLE.GetName]では、すでに[control|E]が100で、[county_corruption|E]もありません。"

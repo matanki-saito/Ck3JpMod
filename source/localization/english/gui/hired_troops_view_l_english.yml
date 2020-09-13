@@ -38,7 +38,7 @@
  MERCENARY_COMPANY_OUTSIDE_RANGE:0 "@warning_icon!#X They are located too far away.#!"
  MERCENARY_COMPANY_TOO_EARLY_TO_EXTEND:0 "@warning_icon!#X The contract can not be extended until [DATE.GetString|V]#!"
  HIRED_TROOPS_CANNOT_AFFORD:1 "@warning_icon!#X You cannot go into debt greater than $VALUE$ of your income#!"
- HOLY_ORDER_MUST_BE_AT_WAR_WITH_BAD_FAITH:0 "@warning_icon!#X Not at war with someone of a [GetHostilityLevelName(GetDefine('NHolyOrder', 'ENEMY_MIN_HOSTILITY_LEVEL'))] [faith|E]#!"
+ HOLY_ORDER_MUST_BE_AT_WAR_WITH_BAD_FAITH:0 "@warning_icon! #X 敵対度が[GetHostilityLevelName(GetDefine('NHolyOrder', 'ENEMY_MIN_HOSTILITY_LEVEL'))]の[faith|E]を信仰する者と戦争中ではありません#!"
  HOLY_ORDER_PLEDGED_TO_GREAT_HOLY_WAR:0 "@warning_icon!#X They are pledged to join the [GREAT_HOLY_WAR.GetName]#!"
  HOLY_ORDER_AT_WAR:0 "@warning_icon!#X 彼らは戦争中です#!"
  MERCENARY_COMPANY_HIRE_NOT_AT_WAR:1 "@warning_icon!#X [mercenaries|E]を雇用するには[war|E]中でなければなりません#!"

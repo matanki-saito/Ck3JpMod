@@ -92,7 +92,7 @@
  FACTION_CLAIMANT_INVITE_REFUSED_DESC:1 "While I appreciate your enthusiasm for my claim, I cannot help but feel that this endeavor is doomed to fail. I will not give you my support as a result, but if you somehow manage to succeed anyway I will accept my place on the throne."
  FACTION_CLAIMANT_INVITE_REFUSED_OPT:0 "残念だ"
  FACTION_CLAIMANT_EVERY_FACTION_MEMBER:0 "すべての派閥のメンバー"
- FACTION_CLAMAINT_DYNAMIC_NAME:0 "Faction to Install [ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip] on the [ROOT.Faction.GetSpecialTitle.GetAdjective] Throne"
+ FACTION_CLAMAINT_DYNAMIC_NAME:0 "[ROOT.Faction.GetSpecialTitle.GetAdjective]玉座に[ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip]を戴かせる派閥"
  FACTION_POPULIST_DYNAMIC_NAME:0 "[ROOT.Var('faction_culture').Culture.GetNameNoTooltip][ROOT.Var('faction_faith').Faith.GetAdjectiveNoTooltip]の民衆"
  WARNING_I_HAVE_ALREADY_JOINED_A_FACTION:1 "@warning_icon!#X あなたはすでに[faction|E]に参加しています#!"
  WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon!#X あなたはすでに[faction_target.GetTitledFirstName]と戦争中です#!"

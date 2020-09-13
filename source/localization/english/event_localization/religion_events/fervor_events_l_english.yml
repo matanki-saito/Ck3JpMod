@@ -41,7 +41,7 @@
  fervor.1002.desc.end:0 "\n\n [sinful_theocrat.GetFaith.AltPriestTermPlural]の不祥事は今に始まったことではないが、あまりにも身近なところで起きていることに不穏な空気が漂っている・・・"
  fervor.1002.desc.end_hof:0 "\n\n [sinful_theocrat.GetFaith.AltPriestTermPlural]の間での不祥事は今に始まったことではないが、多くの人は信仰の長がそのような誘惑に屈することに愕然としている。"
  fervor.1002.b:0 "[sinful_theocrat.GetHerHis]の違反行為について、[sinful_theocrat.GetHerHim]を非難する！"
- fervor.1002.c:0 "自分の身を危険にさらしてでも、キャラクター[sinful_theocrat.GetHerHis]を公に擁護する！"
+ fervor.1002.c:0 "自分の身を危険にさらしてでも、[sinful_theocrat.GetHerHis]を公に擁護する！"
  fervor.1002.d:0 "この件については黙っておいた方がいいのかもしれない・・・"
  fervor.2002.t:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]賛美"
  fervor.2002.desc.lustful:0 "[virtuous_theocrat.Custom('GetCouncilOrTitleName')] [virtuous_theocrat.GetFirstName] has become an inspiration for countless virtuous [virtuous_theocrat.GetWomenMen] and the object of desire for many more young [virtuous_theocrat.GetFaith.GetAdherentNamePlural]. \n\nTales of [virtuous_theocrat.GetHerHis] amorous conquests have traveled far and wide, leading many to consider [virtuous_theocrat.GetHerHim] a paragon of [ROOT.Char.GetFaith.FertilityGodNamePossessive] infinite love."

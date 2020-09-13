@@ -44,7 +44,7 @@
  sway_ongoing.5002.b:0 "Oh, #EMP please#! tell me more!"
  sway_ongoing.5002.b.tt:0 "I guess I'll humor [owner.GetHerHim]..."
  sway_ongoing.5002.c:0 "I would appreciate it if we kept to relevant topics."
- sway_ongoing.5003.desc_opening:0 "In [target.GetHerHis] response [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] encouraged my slight dip into more personal topics!"
+ sway_ongoing.5003.desc_opening:0 "[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]は[target.GetHerHis]の返事の中で、私の個人的な話題にも少し触れてくるようになった！"
  sway_ongoing.5003.desc_nonsense:0 "\n\n今や私は[owner.Custom('LifestyleFocusTopic')]について何でも知っている振りをしなければいけない…"
  sway_ongoing.5003.desc:0 "\n\nなんと、[target.GetSheHe]もまた[owner.Custom('LifestyleFocusTopic')]に関心を持っている。"
  sway_ongoing.5003.a:0 "もっと話そう！"

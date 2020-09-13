@@ -185,7 +185,7 @@
  child_personality.1033.t:0 "Blessed are the Meek"
  child_personality.103.confirm_deceitful:0 "自分の嘘から逃れるすべを学ばなければならない。"
  child_personality.103.confirm_honest:0 "子よ、長い目で見れば正直であることが最も役に立つのだ。"
- child_personality.103.confirm_humble:0 "We are all but small pieces of the world."
+ child_personality.103.confirm_humble:0 "私たちは世界の小さな一部に過ぎない。"
  child_personality.103.deceitful_change:0 "いや、お前の悪事を隠さねばならない！"
  child_personality.103.honest_change:0 "正直になれば、他の人があなたに心を開いてくれるのを見ることができるだろう。"
  child_personality.103.humble_change:0 "子よ、我々は自身よりも偉大な規則によって導かれているのだ。"

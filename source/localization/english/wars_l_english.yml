@@ -62,7 +62,7 @@
  PEASANT_WAR_NAME:0 "農民蜂起"
  peasant_war_victory_desc:0 "All rebellious [counties|E] lose [SCOPE.ScriptValue('peasant_war_victory_county_control_loss')|N0] [control|E]."
  peasant_war_white_peace_desc:0 "[peasant_faction|E]は解散する。"
- peasant_war_defeat_desc:0 "The [peasant_faction|E] is disbanded and [attacker.GetShortUIName] is imprisoned. All rebelling [counties|E] have their [county_opinion|E] forcibly increased."
+ peasant_war_defeat_desc:0 "[peasant_faction|E]は解散し[attacker.GetShortUIName]は投獄される。すべての反抗的な[counties|E]の[county_opinion|E]は強制的に上昇する。"
  POPULIST_WAR_NAME:0 "[ATTACKER.GetCulture.GetNameNoTooltip][ATTACKER.GetFaith.GetAdjectiveNoTooltip]の反乱"
  CLAIMANT_WAR_NAME:2 "[TITLE.GetBaseName]による[CLAIMANT.GetTitledFirstNamePossessive]請求戦争"
  depose_war:0 "退位"

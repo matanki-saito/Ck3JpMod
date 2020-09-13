@@ -1,5 +1,5 @@
 ﻿l_english:
- AI_PERSONALITY_ADJECTIVE_NOUN:0 "$ADJECTIVE$ $NOUN$"
+ AI_PERSONALITY_ADJECTIVE_NOUN:0 "$ADJECTIVE$$NOUN$"
  AI_PERSONALITY_NEUTRAL:0 "バランスの取れた"
  AI_PERSONALITY_TOOLTIP:0 "#T 性格\n#!キャラクターの選択は、性格によって影響されます。性格は主に[traits|E]によって決定されます。\n\nプレイヤーがコントロールしているキャラクターについては、性格は無効化されます。"
  AI_PERSONALITY_IS_PLAYER_TOOLTIP:0 "#T 性格\n#!このキャラクターは他のプレイヤーによって操作されています。"

@@ -145,7 +145,7 @@
  action_can_call_ally_click:0 "#I クリックで同盟者に参戦を要請#!"
  action_has_any_display_cb_on:1 "[recipient.GetShortUINameNoTooltip]に対して[war|E]を宣言できます"
  action_has_any_display_cb_on_combined_group_label:2 "宣戦布告できます"
- action_has_any_display_cb_on_combined_group_name:1 "複数の開戦事由があります[wars|E]"
+ action_has_any_display_cb_on_combined_group_name:1 "複数の[wars|E]の宣言が可能です"
  action_has_any_display_cb_on_desc:1 "[prestige_experience|E]を得るためや領土を拡張するために、[recipient.GetUIName]に対して[war|E]を開始することができます。"
  action_has_any_display_cb_on_combined_group_description:1 "[prestige_experience|E]を得るためや領土を拡張するために、[wars|E]を開始することが可能な対象がいくつかあります。"
  action_has_any_display_cb_on_label:1 "[recipient.GetShortUINameNoTooltip]に宣戦布告ができます"

@@ -17,6 +17,6 @@
  MythicalFounder_themselves:0 "自身"
  TitleRelationToMe_Your_PrimaryTitle:0 "あなたの[primary_title|E]\n"
  TitleRelationToMe_Your_Title:0 "あなたの[title|E]\n"
- TitleRelationToMe_PrimaryTitle:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]'s [primary_title|E]\n"
- TitleRelationToMe_Title:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]'s [title|E]\n"
+ TitleRelationToMe_PrimaryTitle:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]の[primary_title|E]\n"
+ TitleRelationToMe_Title:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]の[title|E]\n"
  TitleRelationToMe_None:0 ""

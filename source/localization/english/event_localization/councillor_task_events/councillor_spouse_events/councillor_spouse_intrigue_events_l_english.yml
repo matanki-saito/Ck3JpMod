@@ -28,7 +28,7 @@
  councillor_spouse_intrigue.1005.t:1 "配偶者: 分裂と抑制"
  councillor_spouse_intrigue.1005.desc:0 "[faction_member.GetTitledFirstName]は[leader.GetTitledFirstName]と[leader.GetHerHis]の[faction.GetName]を積極的に支持している。 しかし[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]はそれを変えようと計画しているようだ。\n\n「信じてください。 私が[faction_member.GetTitledFirstName]に話したものは、[faction_member.GetHerHim]に[leader.GetFirstNameNoTooltip]を見限らせるのに十分な内容だったはずです。」"
  councillor_spouse_intrigue.1005.a:0 "[faction_member.GetFirstNameNoTooltip]が二度と[leader.GetFirstNameNoTooltip]を支持しないようにしろ！"
- councillor_spouse_intrigue.1005.b:0 "Could you make #EMP me#! look like a better choice?"
+ councillor_spouse_intrigue.1005.b:0 "もっといい選択を#EMP 私#!に見せてくれないか？"
  councillor_spouse_intrigue.1006.t:1 "Spouse: An Appropriate Representative"
  councillor_spouse_intrigue.1006.desc:0 "Being well aware of my plans in regards to [target.GetTitledFirstName], my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))] [councillor.GetFirstName] has come to me with a proposal.\n\n\"I have friends at [court_owner.GetTitledFirstNamePossessive] court. I could request that they house a guest for some time. With a small token of loyalty and all the support I can offer, [plant.GetTitledFirstName] could do wonders on your behalf...\""
  councillor_spouse_intrigue.1006.a:0 "A brilliant idea, my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]!"

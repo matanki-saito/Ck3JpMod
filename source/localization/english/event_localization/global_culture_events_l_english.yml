@@ -2,7 +2,7 @@
  global_culture.custom.change_culture:1 "自領国内の全[old_culture.GetName]文化の伯爵領と人物は[new_culture.GetName]文化になります。"
  global_culture.custom.merge_culture:1 "自国内の全ての[old_culture_1.GetName]文化と、[old_culture_2.GetName]文化の伯爵領と人物は、[new_culture.GetName]文化になります。"
  global_culture.custom.keep_culture:1 "The [old_culture.GetName] counties and characters in your realm keep their culture."
- global_culture.custom.trigger:0 "You do not control at least 80% of all [CHARACTER.GetCulture.GetName] counties"
+ global_culture.custom.trigger:0 "あなたはすべての[CHARACTER.GetCulture.GetName]の伯爵領の80%以上を支配していない"
  global_culture.0002.t:0 "西ゴート族の運命"
  global_culture.0002.desc:0 "はるか昔、我らが祖先はイベリア半島に移住し、最初の入植地を築いた。それ以来、我々は幾世代にも渡ってここに住み続け、我々が土地を作り変えてきたように、土地は我々を作り変えてきた。\n\n今こそ自問するときであろう。我々が未だ西ゴート族であるのか、それとも全く新しい何かなのかを。"
  global_culture.0002.a:0 "時代は移り変わり、我々もまた変わらねばならない。"
