@@ -126,7 +126,7 @@
  spymaster_task.2102.b:0 "That old rumor? The [councillor_liege.GetTitleTierName] would want to hear it, I suppose."
  spymaster_task.2102.c:0 "There is no need to share this."
  spymaster_task.2102.c.tt:1 "You must be wary of what your liege might believe you are hiding from [councillor_liege.GetHerHim]"
- spymaster_task.2103.notification:0 "[councillor.GetCouncilTitle] Discovers Secret"
+ spymaster_task.2103.notification:0 "[councillor.GetCouncilTitle]が秘密を発見"
  spymaster_task.3001.opening:0 "[target_character.Custom2('AppropriateGreeting', ROOT.Char)]"
  spymaster_task.3001.desc:0 "It has become painfully clear that your [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has employed spies at my court. I do not know what they are looking for, as my servants and I have nothing to hide, but I implore you, please make them stop."
  spymaster_task.3001.a:0 "You are merely imagining things!"

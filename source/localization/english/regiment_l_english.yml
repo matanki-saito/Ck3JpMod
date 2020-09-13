@@ -26,7 +26,7 @@
  REGIMENT_TYPE_TOOLTIP_CREATION_COST:0 "作成コスト：[RegimentType.GetCostString(GetPlayer)]"
  SIEGE_TIER_MAX_FORT_LEVEL:0 "$EFFECT_LIST_BULLET$　最大[fort_level|E]：$VALUE|V$"
  SIEGE_TIER_BEATS_ALL_FORTS:0 "$EFFECT_LIST_BULLET$Beats all [fort_level|E]"
- REGIMENT_TERRAIN_MODIFIER_TOOLTIP:0 "#T In [RegimentTerrainModifier.GetTerrain.GetName]#!\n[RegimentTerrainModifier.GetEffectString]"
+ REGIMENT_TERRAIN_MODIFIER_TOOLTIP:0 "#T [RegimentTerrainModifier.GetTerrain.GetName]において#!\n[RegimentTerrainModifier.GetEffectString]"
  REGIMENT_TERRAIN_BONUS_HEADER:0 "[terrain|E]の影響:"
  REGIMENT_TERRAIN_BONUS_NONE:0 "#weak 地形の影響なし#!"
  REGIMENT_DAMAGE_TT:0 "#T [damage|E]：[RegimentType.GetStat( GetPlayer, 'damage' )|0V]#!\n[RegimentType.GetStatDesc( GetPlayer, 'damage' )]"

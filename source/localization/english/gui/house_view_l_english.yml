@@ -50,7 +50,7 @@
  dynasty_level_11_c:0 "#weak Highest Level Reached#!"
  RENAME_HOUSE_TITLE:0 "Rename [DYNASTY_HOUSE.GetName]"
  RENAME_HOUSE_DESC:0 "Change our [house|E] name and motto"
- RENAME_HOUSE_ACCEPT:0 "Rename"
+ RENAME_HOUSE_ACCEPT:0 "名称変更"
  HOUSE_NAME_FIELD:0 "名前"
  HOUSE_MOTTO_FIELD:0 "Motto"
  EDIT_HOUSE_NAME:0 "#T 家名変更 #!"

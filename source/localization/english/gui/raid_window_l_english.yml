@@ -9,6 +9,6 @@
  RAID_BLOCKED_BY_COMBAT:0 "@warning_icon!#X Raiding army is in a [battle|E]#!"
  RAID_ON_ME_TOOLTIP:0 "#T 略奪されている#!\n[Character.GetShortUIName]によって略奪されている\n敵対行為は[GetPlayer.GetRaidHostilityEnd( Character.Self ).GetTimeDiffFromNow]に終了予定\n\n#I クリックで人物を表示#!"
  RAID_BY_ME_TOOLTIP:0 "#T 略奪中#!\n[Character.GetShortUIName]が略奪中\n敵対行為は[GetPlayer.GetRaidHostilityEnd( Character.Self ).GetTimeDiffFromNow]に終了予定\n\n#I クリックで人物を表示#!"
- RW_TT_DAILY_PROGRESS:0 "Daily progress"
+ RW_TT_DAILY_PROGRESS:0 "一日あたりの進展"
  RW_TT_BASE_PROGRESS:0 "基本"
  RW_TT_MEN_PROGRESS:0 "Raiding [soldiers|E]"

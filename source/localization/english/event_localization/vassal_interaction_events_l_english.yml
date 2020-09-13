@@ -42,7 +42,7 @@
  vassal_interaction.0014.desc:0 "Surrendering the war would come at far too great a cost. However, if you were to compensate me for the loss, I could do as you request."
  vassal_interaction.0015.desc:0 "I would lose far too much if I were to surrender. I do not wish to disobey, but [attacker.GetTitledFirstName] has forced my hand."
  vassal_interaction.0016.gold:0 "I will pay for your loss, as long as the fighting ends now."
- vassal_interaction.0016.a:0 "At least I have not lost everything yet."
+ vassal_interaction.0016.a:0 "少なくともまだ全てを失ったわけではない。"
  vassal_interaction.0016.b:0 "I will use this to recover."
  vassal_interaction.you_owe_me:0 "You will do as I say!"
  vassal_interaction.war_ender_gives_up:1 "[recipient.GetShortUIName|U] has given up their war, on [actor.GetShortUINamePossessive] orders"

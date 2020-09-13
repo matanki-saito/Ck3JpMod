@@ -1102,7 +1102,7 @@
  game_concept_siege_progress_desc:0 "$game_concept_siege_progress$は、[siege|E]がどれほど終了に近づいているか、$game_concept_siege$がどれほど長く続くと考えられるかを示す。進捗が達成されると、[holding|E]は[occupied|E]の状態になる。\n\n必要な$game_concept_siege_progress$の量は、[fort_level|E]の影響を受ける。\n\n進捗は毎日得られ、包囲イベントの影響を受ける。また[siege_weapons|E]を持っていたり、[garrison|E]を大幅に上回る[army|E]を持っていることによっても増加する。"
  game_concept_siege_weapon:0 "攻城兵器"
  game_concept_siege_weapons:0 "攻城兵器"
- game_concept_siege_weapon_desc:0 "$game_concept_siege_weapons$は、[sieges|E]に特化した[men_at_arms|E]である。\n\nこれらは[battles|E]には影響を与えないが、[siege_progress|E]の進捗を上昇させることによって$game_concept_siege$の達成を大きく早める。\n\nしかし、$game_concept_siege_weapons$は一定の[fort_level|E]までの[holdings|E]を包囲する際にしか効果がない。"
+ game_concept_siege_weapon_desc:0 "$game_concept_siege_weapons$は、[sieges|E]に特化した[men_at_arms|E]です。\n\nこれらは[battles|E]には影響を与えませんが、[siege_progress|E]の進捗を上昇させることによって$game_concept_siege$の達成を大きく早めます。\n\nしかし、$game_concept_siege_weapons$は一定の[fort_level|E]までの[holdings|E]を包囲する際にしか効果がありません。"
  game_concept_completely_controls:0 "完全に支配"
  game_concept_completely_control:0 "完全に支配"
  game_concept_complete_control:0 "完全に支配"

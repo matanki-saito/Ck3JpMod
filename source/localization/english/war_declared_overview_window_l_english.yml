@@ -1,5 +1,5 @@
 ﻿l_english:
- WAR_DECLARED_OVERVIEW_DISMISS:0 "軍を招集しろ！"
+ WAR_DECLARED_OVERVIEW_DISMISS:0 "軍を召集しろ！"
  WAR_DECLARED_OVERVIEW_DISMISS_TOOLTIP:0 "ウィンドウを閉じる"
  WAR_DECLARED_OVERVIEW_FLAVOR:0 "[WAR.Custom('WarDeclaredOpening')][WAR.Custom('WarDeclaredFlavor')]"
  war_declared_opening.neutral:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateGreeting',ROOT.War.GetActiveCB.GetDefender)]\n\n"
@@ -11,7 +11,7 @@
  war_declared_flavor.naughty:0 "You have been a very naughty [ROOT.War.GetActiveCB.GetDefender.Custom('GirlBoy')]. Such behavior can not be overlooked! Prepare yourself, for on the battlefield I will inflict the punishment you so richly deserve!"
  war_declared_flavor.holy_war:1 "貴君の偽りの宗教は、あまりにも長い間、貴君の臣民を暗闇の中に閉じ込めていた。[ROOT.War.GetActiveCB.GetAttacker.GetFaith.HighGodName]の名において、私は彼らに真の信仰をもたらし、貴君の冒涜から解放する！"
  war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] I have long coveted your lands, only to be denied possession of them. No more! The time has come for me to finally get what I deserve!"
- war_declared_flavor.dejure:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Your occupation of lands which rightfully belong to me can no longer be tolerated. It is time that I see them returned to my possession!"
+ war_declared_flavor.dejure:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] 私の所有する土地をあなたが占領することはもはや許されない。それらの所有権を取り戻す時が来たのだ！"
  war_declared_flavor.subjugation:0 "おまえの土地を我が領土に組み込む決定をした。受け入れろ、そうすれば慈悲を見せよう…抵抗するのなら、おまえがひざまずいてひれ伏すまで殴るのを止めない！"
  war_declared_flavor.subjugation.tribal:0 "おまえは弱く、わたしは強い。望むものを得るために他の理由は必要ない！"
  war_declared_flavor.subjugation.arrogant:0 "何を小しゃくな、わたしがおまえより明らかに優れているのに対等な君主を装うとは！おまえの哀れな軍隊を戦場で粉砕し、わたしの前にひざまずかせてやる！"
