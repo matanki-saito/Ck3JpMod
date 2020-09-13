@@ -831,7 +831,7 @@
  game_concept_prison_desc:0 "[rulers|E]は、他のキャラクターを囚人として、[dungeon|E]に閉じ込めたり、[house_arrest|E]することができる。キャラクターは[battle|E]中や[siege|E]の終了時に投獄される危険性がある。\n\n支配者は自分の[realm|E]の中にいる者を拘束することもできる。しかし、これは対象のキャラクターが[crime|E]を犯していない場合には、[tyrannical|E]行動と見なされる。\n\nあなたの思いのままに、囚人について[executed|E]状態にしたり、[tortured|E]状態にしたり、身代金を要求したり、釈放したりすることができる。"
  game_concept_dungeon:0 "地下牢"
  game_concept_dungeon_desc:0 "$game_concept_dungeon$に[imprisoned|E]とされたキャラクターは[stress|E]の増大と[health|E]へのペナルティを被ります。やがて、彼らは[illness|E]で死ぬか精神崩壊を起こします。\n\n[commoners|E]は自動的に地下牢へ放り込まれますが、[house_arrest|E]へ移すことも出来ます。"
- game_concept_house_arrest:0 "自宅軟禁"
+ game_concept_house_arrest:0 "軟禁"
  game_concept_house_arrest_desc:0 "$game_concept_house_arrest$は[prison|E]の寛大な様式であり、退屈であること以外の悪影響はありません。しかしながら、[rulers|E]は囚人の[close_family|E]からの[opinions|E]の低下を厭わずに彼らを[dungeon|E]へ放り込むこともあります。\n\n捕えられた[nobles|E]は自動的に[house_arrest|E]とされます。"
  game_concept_tyranny:0 "暴政"
  game_concept_tyrant:0 "暴君"

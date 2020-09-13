@@ -4,7 +4,7 @@
  major_decisions.0100.desc.spiritual:0 "地上における[scoped_ruler.GetFaith.HighGodNamePossessive]の代理人への私の揺るぎない献身が見過ごされることはなかった。\n\n[scoped_pope.GetTitledFirstName]は我が家族の寄与を公式にお認めになり、永遠なる[scoped_ruler.GetFaith.GetAdjective]信仰の擁護者として、我らの名を聖別してくださった。"
  major_decisions.0100.a:0 "我らは所詮死ぬ定めにある人間に過ぎない。"
  major_decisions.0100.b:0 "全き美徳！"
- major_decisions.0102.desc.temporal:0 "Thanks to [scoped_ruler.GetHerHis] impeccable conduct and enlightened rule, [scoped_ruler.GetTitledFirstName] is set to be immortalized as the pillar of [scoped_ruler.GetFaith.GetName].\n\n[scoped_ruler.GetSheHe|U] has become by far the most influential and respected [scoped_ruler.GetTitleTierName] in recent history, and some claim that there may well be a touch of divine blood flowing in [scoped_ruler.GetHerHis] veins."
+ major_decisions.0102.desc.temporal:0 "[scoped_ruler.GetHerHis]の非の打ち所のない行動と見識ある統治のおかげで、[scoped_ruler.GetTitledFirstName]は[scoped_ruler.GetFaith.GetName]の中心人物として不滅の地位を確立した。\n\n[scoped_ruler.GetSheHe|U]は近年の歴史の中で最も影響力があり、尊敬されている[scoped_ruler.GetTitleTierName]となっており、[scoped_ruler.GetHerHis]のからだには神の血が流れているのではないかという主張もある。"
  major_decisions.0102.desc.spiritual:0 "Such are the accomplishments of [scoped_ruler.GetTitledFirstName] that the [scoped_pope.GetFaith.ReligiousHeadTitleName] [scoped_pope.GetHerselfHimself] officially recognized [scoped_ruler.GetHerHis] instrumental role in defense and promulgation of [scoped_ruler.GetFaith.GetAdjective] virtues.\n\nThe [scoped_ruler.GetDynasty.GetBaseName] dynasty will be long remembered from its piety and zeal thanks to the impeccable conduct of this great [scoped_ruler.GetWomanMan]."
  major_decisions.0102.a:0 "We live in blessed times."
  major_decisions.0102.b:0 "They are an example to us all!"

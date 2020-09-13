@@ -44,7 +44,7 @@
  yearly.4061.desc:0 "The guard that brought the man before me looks skeptical."
  yearly.4061.desc_ending:0 "\"He approached the [ROOT.Char.Custom('ResidenceBuilding')] riding a donkey, my [ROOT.Char.GetLadyLord]. Backwards.\""
  yearly.4061.a:0 "Please, share your wisdom with me."
- yearly.4061.a_success:0 "You gain some insights"
+ yearly.4061.a_success:0 "あなたはいくつかの見識を得た"
  yearly.4061.a_failure:0 "His stories only confuse you"
  yearly.4061.b:0 "Let your knowledge bless the whole court!"
  yearly.4061.c:0 "I don't have time for fools."

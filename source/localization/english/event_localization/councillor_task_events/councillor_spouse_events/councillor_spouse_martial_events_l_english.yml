@@ -1,8 +1,8 @@
 ﻿l_english:
- councillor_spouse_martial.0001.message:0 "[councillor.GetTitleAsName] Inspires Recruitment"
+ councillor_spouse_martial.0001.message:0 "[councillor.GetTitleAsName]は募兵を促進している"
  councillor_spouse_martial.0002.message:0 "Army Organization Aid"
  councillor_spouse_martial.0003.message:0 "Inspirational [councillor.GetTitleAsName]"
- councillor_spouse_martial.0004.message:0 "[councillor.GetTitleAsName] Encourages Chivalry"
+ councillor_spouse_martial.0004.message:0 "[councillor.GetTitleAsName]が騎士道を奨励した"
  councillor_spouse_martial.0005.message:0 "Support in Mercenary Negotiations"
  councillor_spouse_martial.0006.message:0 "Looking After Me"
  councillor_spouse_martial.0007.message:0 "[councillor.GetTitleAsName] Tending Wounds"

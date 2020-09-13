@@ -181,7 +181,7 @@
  murder_outcome.4202.scheme_unkown:0 "\n\nAt least she was wise enough to keep quiet about the plan. Perhaps this was all for the best..."
  murder_outcome.4202.a:0 "I need to think carefully."
  murder_outcome.4203.opening:0 "[target.GetTitledFirstName] is still alive! It seems as if the [SCOPE.Custom('VenomousCreatureType')]-venom wasn't strong enough, and only caused a mild rash to spread across the infant's skin.\n\n"
- murder_outcome.4203.scheme_owner_known:0 "それだけでは十分ではないかのように、私の気弱な工作員が捕まって告白し、私をその行為の首謀者だと名指しした!"
+ murder_outcome.4203.scheme_owner_known:0 "それだけでは十分ではないかのように、私の気弱なスパイが捕まって告白し、私をその行為の首謀者だと名指しした!"
  murder_outcome.4203.scheme_unkown:0 "A small mercy is that my agent was able to leave the room without raising any alarm."
  murder_outcome.4302.t:0 "An Unwelcome Guest"
  murder_outcome.4302.failure_declaration_1:0 "[target.GetTitledFirstName] still lives!"

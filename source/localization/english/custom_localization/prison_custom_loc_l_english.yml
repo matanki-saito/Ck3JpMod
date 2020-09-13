@@ -1,5 +1,5 @@
 ﻿l_english:
  prisontype_dungeon:0 "地下牢"
- prisontype_house_arrest:0 "自宅軟禁"
+ prisontype_house_arrest:0 "軟禁"
  prisontypecell_dungeon_cell:0 "監獄"
- prisontypecell_house_arrest:0 "自宅軟禁"
+ prisontypecell_house_arrest:0 "軟禁"

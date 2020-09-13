@@ -133,7 +133,7 @@
  FABRICATE_HOOK_TARGET_GREEDY:1 "[target.GetShortUIName|U] is [GetTrait('greedy').GetName( target )]: $VALUE|=+0$"
  FABRICATE_HOOK_TARGET_CRAVEN:1 "[target.GetShortUIName|U] is [GetTrait('craven').GetName( target )]: $VALUE|=+0$"
  FABRICATE_HOOK_SPYMASTER_INTRIGUE:0 "Spymaster [intrigue|E]: $VALUE|=+0$"
- FABRICATE_HOOK_SUCCESS_DESC:0 "You gain a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
+ FABRICATE_HOOK_SUCCESS_DESC:0 "あなたは[TARGET_CHARACTER.GetShortUIName]に対する[hook|E]を手に入れた"
  FABRICATE_HOOK_DISCOVERY_DESC:0 "You can keep fabricating Hooks at [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] [court|E]"
  scheme_interaction_tt_spy_on_approved:0 "I will soon find whatever [recipient.GetFirstName] seeks to keep secret!"
  SCEHEME_ON_COOLDOWN:0 "#X Can not use the $SCHEME_NAME$ on [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]#!"

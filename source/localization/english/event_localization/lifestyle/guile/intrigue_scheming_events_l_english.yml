@@ -183,7 +183,7 @@
  intrigue_scheming.4040.a.failure:0 "それらの流言は根も葉もない噂として消えていった"
  intrigue_scheming.4040.a.failure.tt:1 "宮廷にまき散らした流言は根も葉もない噂として消えていった"
  intrigue_scheming.4040.b:0 "随所に連中への密偵を配置している限り、私は安全なはずだ。"
- intrigue_scheming.4040.c.dread:0 "My courtiers already know not to plot against me!"
+ intrigue_scheming.4040.c.dread:0 "私の廷臣たちはすでに私に陰謀を企てないことを知っている!"
  intrigue_scheming.4040.c.dread.tt:1 "あなたが高い[dread|E]を有するためこれが選択可能です"
  intrigue_scheming.4050.t:0 "Information Brokering"
  intrigue_scheming.4050.desc.start:0 "I expect [buyer.GetTitledFirstName] would be keenly interested in the information I have acquired indicating"

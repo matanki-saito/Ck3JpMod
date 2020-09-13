@@ -111,7 +111,7 @@
  COUNTY_OPINION_TOOLTIP:0 "#T 領民の[HoldingView.GetProvince.GetCounty.GetCount.GetUIName]への評価: [HoldingView.GetCountyOpinion|=+]#!\n[HoldingView.GetCountyOpinionDesc]"
  COUNTY_NOT_YOUR_CULTURE:0 "@warning_icon! #X County is not of your [culture|E] #!"
  COUNTY_NOT_YOUR_FAITH:0 "@warning_icon! #X County is not of your [faith|E] #!"
- COUNTY_IN_FACTION_TOOLTIP:0 "#T In [HoldingView.GetAllFactionNames|V] faction against me!#!\n#I Click to show [factions|E]#! "
+ COUNTY_IN_FACTION_TOOLTIP:0 "#T [HoldingView.GetAllFactionNames|V]は私への派閥を形成している！#!\n#I クリックで[factions|E]を見る#!"
  COUNTY_CAPITAL_TOOLTIP:0 "#T $game_concept_county_capital$#!\n$game_concept_county_capital_desc$"
  SET_COUNTY_CAPITAL_TOOLTIP:0 "#T Move [county_capital|E] here#!\nMake [HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip|V] the new $game_concept_county_capital$"
  SET_REALM_CAPITAL_TOOLTIP_TITLE:0 "#T [realm_capital|E]をここに移動#!"

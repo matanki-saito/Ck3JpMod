@@ -47,7 +47,7 @@
  yearly_1010.target_imprison.desc:0 "[THIS.Char.GetTitledFirstNameNoTooltip] is captured"
  yearly_1010.target_wounded.desc:0 "[THIS.Char.GetTitledFirstNameNoTooltip]は傷を負うが、逃げ延びる"
  yearly_1010.hunter_killed.desc:0 "[THIS.Char.GetTitledFirstNameNoTooltip]は[hunter.GetTitledFirstNameNoTooltip]を殺し、逃げ延びる"
- yearly_1010.target_killed.desc:0 "[THIS.Char.GetTitledFirstNameNoTooltip] is killed"
+ yearly_1010.target_killed.desc:0 "[THIS.Char.GetTitledFirstNameNoTooltip]は殺害される"
  yearly_1010.abductee_saved.desc:0 "[abductee.GetTitledFirstNameNoTooltip] is saved"
  yearly_1010.abductee_saved.tt:0 "[abductee.GetTitledFirstName] is brought back to me, safe and sound."
  yearly_1010.abductee_lost.desc:0 "[abductor.GetTitledFirstNameNoTooltip] gets away with [abductee.GetTitledFirstNameNoTooltip]"

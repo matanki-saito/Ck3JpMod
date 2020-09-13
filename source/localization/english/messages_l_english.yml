@@ -35,7 +35,7 @@
  msg_siege_loot_desc:1 "[PROVINCE.GetName]は管理下に置かれた\n[PROVINCE.GetName]の占領により[gold_i]$VALUE|V0$手に入れた"
  msg_scheme_abandoned:0 "計画は放棄された"
  msg_scheme_abandoned_desc:0 "[CHARACTER.GetUINameNoTooltip]に対する$SCHEME_NAME|V$は放棄されています"
- msg_agent_joined_my_scheme:1 "Agent Joined Scheme: [LEFT_CHARACTER.GetShortUINameNoTooltip]"
+ msg_agent_joined_my_scheme:1 "スパイが計画に加わった：[LEFT_CHARACTER.GetShortUINameNoTooltip]"
  msg_agent_joined_my_scheme_desc:1 "[LEFT_CHARACTER.GetUINameNoTooltip] joined as an [agent|E] in your [scheme|E] to [SCHEME.GetFullActionName]"
  msg_multiple_agents_joined_my_scheme:0 "Agents Joined Scheme"
  msg_multiple_agents_joined_my_scheme_desc:0 "[LEFT_CHARACTER.GetUINameNoTooltip] and $OTHER|V$ other [agents|E] joined your [scheme|E] to [SCHEME.GetFullActionName]"

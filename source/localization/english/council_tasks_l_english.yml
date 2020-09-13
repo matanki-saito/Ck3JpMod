@@ -111,7 +111,7 @@
  task_increase_control_improved_vassal_opinion:0 "\n$EFFECT_LIST_BULLET$#P 封臣からの評価が向上#!"
  task_increase_control_improve_vassal_contract:1 "\n$EFFECT_LIST_BULLET$#P [feudal_contract]の改善#!"
  task_increase_control_end_internal_war:0 "\n$EFFECT_LIST_BULLET$#P 内戦の終結#!"
- task_increase_control_force_vassal_partition:0 "\n$EFFECT_LIST_BULLET$#P Force Partition for Vassal#!"
+ task_increase_control_force_vassal_partition:0 "\n$EFFECT_LIST_BULLET$#P 封臣に分割相続を強制する#!"
  task_increase_control_lose_vassal_opinion:0 "\n$EFFECT_LIST_BULLET$#N 封臣からの評価の低下#!"
  task_increase_control_worsen_contract:1 "\n$EFFECT_LIST_BULLET$#N [feudal_contract]の悪化#!"
  task_increase_control_loss_of_crown_authority:0 "\n$EFFECT_LIST_BULLET$#N 王権の低下#!"

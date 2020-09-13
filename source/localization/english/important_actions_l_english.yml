@@ -97,7 +97,7 @@
  action_can_usurp_title_click:0 "#I クリックで称号を表示#!"
  action_above_domain_limit:0 "[domain_limit|E]超過"
  action_above_domain_limit_label:0 "[domain_limit|E]超過"
- action_above_domain_limit_desc:2 "[actor.GetDomainLimitOverrunWithoutGracePeriod|V]の[domain|E]の上限を超えた[holdings|E]になり、[actor.GetDomainLimit|V]の[taxes|E]と[levies|E]が減ることになります。\n\n#help [ruler|E]として、あなたは限られた量の領地しか保有できません。あなたの[realm|E]の残りの所有物は、あなたの[vassals|E]が所有しているはずです。\n\nあなたの[titles|E]の内いくつかは、領地を離れた状態で付与しなければなりません。[courtiers|E]や[guests|E]は弱くなるので、良い選択です。既存の家臣はタイトルを受け取ることもできますが、その場合、彼らはより強くなり、将来的には脅威となる可能性があります。#!"
+ action_above_domain_limit_desc:2 "[actor.GetDomainLimitOverrunWithoutGracePeriod|V]つの領地が[domain|E]の上限を超えた[holdings|E]になり、[actor.GetDomainLimit|V]つの領地の[taxes|E]と[levies|E]が減ることになります。\n\n#help [ruler|E]として、あなたは限られた量の領地しか保有できません。あなたの[realm|E]の残りの所有物は、あなたの[vassals|E]が所有しているはずです。\n\nあなたの[titles|E]の内いくつかは、領地を離れた状態で付与しなければなりません。[courtiers|E]や[guests|E]は弱くなるので、良い選択です。既存の家臣はタイトルを受け取ることもできますが、その場合、彼らはより強くなり、将来的には脅威となる可能性があります。#!"
  action_above_domain_limit_click:0 "#I クリックで称号を表示#!"
  action_above_vassal_limit:0 "[vassal_limit|E]超過"
  action_above_vassal_limit_label:0 "[vassal_limit|E]超過"

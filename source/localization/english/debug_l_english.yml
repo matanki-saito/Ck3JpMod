@@ -19,7 +19,7 @@
  break_betrothal_interaction:0 "婚約を解消"
  give_murder_secret:0 "Give murder secret"
  give_secrets_to_court_interaction:0 "Give Secrets to Court"
- debug_invite_agent_to_schemes:0 "Invite agent to schemes"
+ debug_invite_agent_to_schemes:0 "スパイを計画に勧誘する"
  debug_imprison_simple_interaction:1 "素早く投獄"
  set_up_secrets_in_realm_interaction:0 "Set up Secrets in entire Realm"
  debug_make_hate_me_interaction:0 "この人物と敵対関係となります"

@@ -243,7 +243,7 @@
  feast_default.6121.b:0 "[hated_guest.GetHerHis|U] face as I 'save' [hated_guest.GetHerHim] from the food is definitely to my liking!"
  feast_default.6231.t:0 "$feast_header$ Disaster Strikes"
  feast_default.6231.desc:0 "\"My [ROOT.Char.GetLadyLord]. The wine... We cracked open the next barrel – it has gone bad. It has #EMP all#! gone bad!\"\n\nThe feast is still raging, but without drink the mood is sure to dwindle at a cruel pace."
- feast_default.6231.a:0 "The wine merchant should still be in town!"
+ feast_default.6231.a:0 "ワイン商人はまだ町にいるはずだ!"
  every_drunkard_guest_scope_tt:0 "Every drunkard guest in attendance"
  feast_default.6231.b:0 "We all have to pitch in. Come on now."
  feast_default.6231.c:0 "Time to crack open my secret stores."

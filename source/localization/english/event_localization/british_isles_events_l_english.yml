@@ -22,7 +22,7 @@
  british_isles.2002.a:0 "それは時間の問題だったな。"
  british_isles.2002.b:0 "裏切り者め！"
  british_isles.3001.t:0 "厳かに我らは宣言する、"
- british_isles.3001.desc:0 "Your desire to extend the sacred dominion of the Universal Church to the barbarous tribes of Ireland is a pious and righteous cause. As such, the Holy Roman Church commands that you take possession of this island and therein execute God's Will. \n\nIf you were to pass on by some misfortune before the end of this holy campaign, we extend this sacred mandate to your rightful successors. May House [scoped_ruler.GetHouse.GetBaseNameNoTooltip] carry this holy endeavor in perpetuity, until the divine will has been realized and Ireland lays united under [scoped_ruler.GetCulture.GetNameNoTooltip] rule."
+ british_isles.3001.desc:0 "ユニバーサル教会の聖域をアイルランドの野蛮な部族へ拡大したいというあなたの願いは、敬虔で正しい大義だ。こうして、神聖ローマ教会は、あなた方がこの島を占領し、その中で神の意志を実行するよう命じる。\n\nこの聖戦が終わる前に不幸に見舞われた場合は、この神聖な命令を正当な後継者に伝える。神の意志が実現され、アイルランドが[scoped_ruler.GetCulture.GetNameNoTooltip]の下で統一されるまで、[scoped_ruler.GetHouse.GetBaseNameNoTooltip]家がこの神聖な努力を永続的に続ける。"
  british_isles.3001.a:0 "艦隊に準備をさせろ！"
  british_isles.3002.t:0 "アイルランドの請求"
  british_isles.3002.desc.irish:0 "キリストの代理人にして聖ペテロの聖座の後継者たる教皇[scoped_pope.GetFirstName]聖下のお力添えにより、[scoped_ruler.GetFullName]にアイルランドとそこに住まう諸部族を支配する神聖なる権利が与えられた。\n\n教皇勅書に背き、服従を拒否するアイルランドの領主は、いかなる者であれ[scoped_ruler.GetTitledFirstName]と[scoped_ruler.GetHerHis]の[scoped_ruler.GetCulture.GetName]の軍勢と、そして全能なる神すべての憤怒に立ち向かうことになるであろう。"

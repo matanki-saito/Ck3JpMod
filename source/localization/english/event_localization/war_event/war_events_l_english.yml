@@ -1,10 +1,10 @@
 ﻿l_english:
- war_event.1901:1 "あなたの領主は[defender_loser.GetShortUIName]との戦いに勝利した！"
+ war_event.1901:1 "あなたの主君は[defender_loser.GetShortUIName]との戦いに勝利した！"
  war_event.1902:1 "あなたの領主は[attacker_winner.GetShortUIName]との戦いに敗北しました！"
  war_event.1903:1 "Your liege has signed a White Peace with [defender_white_peace.GetShortUIName]!"
  war_event.1904:1 "Your liege has signed a White Peace with [attacker_white_peace.GetShortUIName]!"
  war_event.1905:1 "あなたの領主は[defender_winner.GetShortUIName]との戦いに敗北しました！"
- war_event.1906:1 "あなたの領主は[attacker_loser.GetShortUIName]との戦いに勝利した！"
+ war_event.1906:1 "あなたの主君は[attacker_loser.GetShortUIName]との戦いに勝利した！"
  war_event.notification_liege_win.t:0 "主君が戦争に勝利"
  war_event.notification_liege_loss.t:0 "主君が戦争に敗北"
  war_event.1001.t:0 "My Liege Declares War"

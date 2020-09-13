@@ -9,7 +9,7 @@
  WAR_SCORE_CAPITAL_LOSS:0 "同盟者首都の占領: $VALUE|=+0%/$"
  WAR_SCORE_ATTACKER_TICKING:0 "攻撃側が戦争目標を支配: $VALUE|=+0%/$"
  WAR_SCORE_DEFENDER_TICKING:0 "防衛側が戦争目標を支配: $VALUE|=+0%/$"
- WAR_SCORE_LANDLESS_ARMIES_LOST:0 "Landless attacker has no armies left: $VALUE|=+0%/$"
+ WAR_SCORE_LANDLESS_ARMIES_LOST:0 "領地の無い攻撃者は軍が残っていません：$VALUE|=+0%/$"
  WAR_SCORE_OCCUPATION_COUNTY:0 "[TITLE.GetNameNoTier]:$SCORE|=+1%/$"
  WAR_SCORE_OCCUPATION_COUNTY_PARTIAL:0 "[TITLE.GetNameNoTier] (Partial): $SCORE|=+1%/$"
  WAR_SCORE_FULL_OCCUPATION:0 "全土占領: $SCORE|0+=%/$"

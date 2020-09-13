@@ -107,7 +107,7 @@
  councillor_spouse_chivalric_boost_modifier_desc:0 "This character's spouse inspires the troops and reminds the realm which things are worth fighting for."
  councillor_spouse_army_organization_modifier:0 "Spouse Engaged in Army"
  councillor_spouse_army_organization_modifier_desc:0 "This character's spouse has taken an active interest in the organization and structure of the army."
- councillor_spouse_inspired_troops_county_modifier:0 "Focused Recruitment"
+ councillor_spouse_inspired_troops_county_modifier:0 "強制的徴兵"
  councillor_spouse_inspired_troops_county_modifier_desc:0 "The recruitment of levies is being meticulously organized in this county."
  spouse_martial_personal_guard_modifier:0 "Personal Guard"
  spouse_martial_personal_guard_modifier_desc:0 "This character's spouse has raised a personal guard to their service."
