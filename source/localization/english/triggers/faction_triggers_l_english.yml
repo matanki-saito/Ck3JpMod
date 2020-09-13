@@ -4,7 +4,7 @@
  I_CAN_CREATE_FACTION_TRIGGER:1 "あなたは[TARGET_CHARACTER.GetShortUIName]に対する$TYPE|V$[faction|E]を結成できる"
  NOT_I_CAN_CREATE_FACTION_TRIGGER:1 "あなたは[TARGET_CHARACTER.GetShortUIName]に対する$TYPE|V$[faction|E]を#bold 結成できない#!"
  THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]に対する$TYPE|V$[faction|E]を結成できる"
- NOT_THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can #bold not#! create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ NOT_THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]に対する$TYPE|V$[faction|E]を形成#bold できない#!"
  CAN_JOIN_FACTION_TRIGGER:0 "[FACTION.GetNameNoTooltip]に参加できる"
  NOT_CAN_JOIN_FACTION_TRIGGER:0 "[FACTION.GetNameNoTooltip]に#bold 参加できない#!"
  I_CAN_JOIN_FACTION_TRIGGER:1 "あなたは[FACTION.GetNameNoTooltip]に参加できる"

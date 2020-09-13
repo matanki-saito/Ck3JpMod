@@ -227,6 +227,6 @@
  diplomacy_foreign.1200.a.b:0 "You honor me, [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('diplomacy_friend') )]."
  diplomacy_foreign.1200.a.c:0 "I shall remember your kindness."
  diplomacy_foreign.1200.b:0 "I think I can handle [neighbor_ruler.GetTitledFirstNameNoTooltip]."
- diplomacy_foreign.1200.b.success:0 "My diplomatic efforts bear fruit"
- diplomacy_foreign.1200.b.failure:0 "I fail to impress [neighbor_ruler.GetTitledFirstName]"
+ diplomacy_foreign.1200.b.success:0 "私の外交努力が実を結ぶ"
+ diplomacy_foreign.1200.b.failure:0 "[neighbor_ruler.GetTitledFirstName]に感銘を与えることに失敗する"
  diplomacy_foreign.1200.c:0 "[neighbor_ruler.GetTitledFirstNameNoTooltip] is not worth the effort..."

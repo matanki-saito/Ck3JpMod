@@ -1,5 +1,5 @@
 ﻿l_english:
- ATTRITION_ICON_TITLE:0 "#T Army is going to take attrition#!"
+ ATTRITION_ICON_TITLE:0 "#T 軍隊は消耗します#!"
  ARMY_EMBARKED_PENALTY:0 "[embarked|E]: @advantage_icon!$EFFECT|0+=$ ($DAYS_LEFT$ days)"
  ARMY_RECENTLY_DISEMBARKED_PENALTY:1 "[recently_disembarked|E]: @advantage_icon!$EFFECT|0+=$ ($DAYS_LEFT$ days)"
  MAP_ICON_RECENTLY_DISEMBARKED_TOOLTIP:0 "#T Recently Disembarked#!\nWill be considered [recently_disembarked|E] for [UnitItem.GetArmy.GetDisembarkPenaltyDays] more days"

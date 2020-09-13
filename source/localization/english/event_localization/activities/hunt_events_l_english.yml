@@ -215,7 +215,7 @@
  hunt.9001.desc_hunter_2:0 "The [ROOT.Char.Custom('TerrainType')] are like my second home – to feel the wind in my hair, to spend time with my courtiers, to feel the excitement as I close in on my prey...I pray to [ROOT.Char.GetFaith.HighGodNameAlternate] that it will never end!\n\n"
  hunt.9001.desc_hunter_3:0 "No matter how fast, strong, or cunning the quarry, it stands no chance against me! My prowess as a hunter is the topic of many conversations across the realm. However, the true reward is the freedom that the [ROOT.Char.Custom('TerrainType')] grant me."
  hunt.9001.desc_good_bad:0 "途中に困難はあったが、狩りは比較的にとても上々だったな！！"
- hunt.9001.desc_good:0 "Hunts like these are a pure joy, I cannot wait for next year!"
+ hunt.9001.desc_good:0 "このような狩りは純粋な喜びしかない、来年が待ち切れないな！"
  hunt.9001.desc_bad_good:0 "Everything that could go wrong seemed to do so, but there were silver linings to be found."
  hunt.9001.desc_bad:0 "Our party seemed beset of every misery that [ROOT.Char.GetFaith.DevilName] could conjure, and it is with relief that I leave the [ROOT.Char.Custom('TerrainType')] behind."
  hunt.9001.desc_same:0 "To heed the call of the wild is usually an adventure, and this outing truly delivered both the good and the bad in overabundance!"

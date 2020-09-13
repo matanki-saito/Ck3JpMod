@@ -1,6 +1,6 @@
 ﻿l_english:
  UNIT_TYPE:0 "$TYPE|U$ [army|E]"
- UNIT_TYPE_MY:0 "あなた"
+ UNIT_TYPE_MY:0 "あなたの"
  UNIT_TYPE_ALLY:0 "友軍の"
  UNIT_TYPE_ENEMY:0 "敵軍の"
  UNIT_TYPE_HOSTILE:0 "敵対的な"

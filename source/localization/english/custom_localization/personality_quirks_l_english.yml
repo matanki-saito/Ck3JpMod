@@ -89,7 +89,7 @@
  sadistic_neg_quirk:0 "smiles with cold intent"
  vengeful_neg_quirk:0 "shoots daggers from [ROOT.GetCharacter.GetHerHis] eyes"
  forgiving_neg_quirk:0 "looks uncertain"
- forgiving_2_neg_quirk:0 "hesitates"
+ forgiving_2_neg_quirk:0 "躊躇"
  arrogant_quirk_personal:0 "brush my [ROOT.GetCharacter.Custom('GetClothingArticle')]"
  shy_quirk_personal:0 "blush"
  greedy_quirk_personal:0 "toss a coin"

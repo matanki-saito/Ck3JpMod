@@ -256,7 +256,7 @@
  court_ongoing.1212.desc:0 "As the sun rises after yet another night of good sleep I can do nothing but thank [owner.GetTitledFirstName] for standing guard outside of my chambers, keeping my rest calm and undisturbed."
  court_ongoing.1212.a:0 "My brave guardian!"
  court_ongoing.1213.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my chambers I see none other than [owner.GetTitledFirstName], fast asleep on the floor."
- court_ongoing.1213.a:0 "My brave guardian..."
+ court_ongoing.1213.a:0 "我が勇敢なる衛兵よ..."
  court_ongoing.1214.desc:0 "\n\nI even peeked out the door a couple of times to find [owner.GetHerHim] standing stiffly upright, never so much as swaying."
  court_ongoing.1215.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my chambers I see the empty cloak of [owner.GetTitledFirstName], a helmet, and a broom tumbled to the ground."
  court_ongoing.1215.a:0 "[owner.GetSheHe|U] meant to trick me!"

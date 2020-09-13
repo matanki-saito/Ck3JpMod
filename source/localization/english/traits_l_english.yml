@@ -572,7 +572,7 @@
  trait_devoted_buddhism_female:0 "比丘尼"
  trait_devoted_hinduism_male:0 "Sanyasi"
  trait_devoted_hinduism_female:0 "Sanyasini"
- trait_devoted_jainism_male:0 "Muni"
+ trait_devoted_jainism_male:0 "牟尼"
  trait_devoted_jainism_female:0 "Aryika"
  trait_mujahid:0 "ムジャヒディン"
  trait_mujahid_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has done [ROOT.GetCharacter.GetHerHis] Islamic duty and participated in a Jihad."

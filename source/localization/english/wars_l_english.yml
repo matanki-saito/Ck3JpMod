@@ -83,7 +83,7 @@
  CB_CLAIM_COST_CLAIMANT_DIFFERENT_RELIGION:0 "Claimant of Different [religion|E]"
  CB_COST_DEFENDER_IS_CHILD:0 "Child Defender"
  CB_COST_ATTACKER_IS_CHILD:0 "You are a Child"
- CB_COST_SAME_DYNASTY:0 "Defender of Same Dynasty"
+ CB_COST_SAME_DYNASTY:0 "同一王朝の防衛者"
  CB_COST_DIFFERENT_FAITH:0 "異なる宗派"
  CB_DEFNDER_LOWER_TIER:0 "Defender Lower Tier"
  CB_ATTACKER_INNOVATIONS:0 "Your Innovations"

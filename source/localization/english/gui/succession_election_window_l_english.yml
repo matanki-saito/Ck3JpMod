@@ -23,7 +23,7 @@
  SUCCESSION_ELECTION_WINDOW_SELECT_CANDIDATE_INFO:0 "以下の候補者を指名"
  SUCCESSION_ELECTION_WINDOW_MY_VOTING_STRENGTH:1 "あなたの投票力:"
  SUCCESSION_ELECTION_WINDOW_NO_ELECTORS:0 "[Character.GetHerHim]に投票している[electors|E]はいません"
- SUCCESSION_ELECTION_WINDOW_NUM_ELECTORS:1 "#high [GetDataModelSize( SuccessionElectionWindowCandidate.GetElectors )]#! [Select_CString( GreaterThan_int32( GetDataModelSize( SuccessionElectionWindowCandidate.GetElectors ), '(int32)1' ), 'Electors vote', 'Elector votes' )] for [Character.GetHerHim]"
+ SUCCESSION_ELECTION_WINDOW_NUM_ELECTORS:1 "#high [GetDataModelSize( SuccessionElectionWindowCandidate.GetElectors )]#![Character.GetHerHim]の[Select_CString( GreaterThan_int32( GetDataModelSize( SuccessionElectionWindowCandidate.GetElectors ), '(int32)1' ), 'Electors vote', 'Elector votes' )]"
  SUCCESSION_ELECTION_WINDOW_RULES_ELECTORS:0 "選挙人: #bold [SuccessionElectionWindow.GetElectorsGrouping|E]#!"
  SUCCESSION_ELECTION_WINDOW_RULES_CANDIDATES:0 "候補者:#bold [SuccessionElectionWindow.GetCandidatesGrouping|E]#!"
  CLOSE_ELECTION_VIEW:0 "称号画面に戻る"

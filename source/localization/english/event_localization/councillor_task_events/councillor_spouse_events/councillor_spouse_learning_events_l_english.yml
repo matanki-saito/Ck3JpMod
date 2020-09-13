@@ -53,7 +53,7 @@
  councillor_spouse_learning.2602.root.desc:0 "\"While you know a thing or two about [student.Custom('highest_skill_noun')], the [student.GetTitleTierName] of [student.GetPrimaryTitle.GetNameNoTierNoTooltip] should possess a broad range of skills,\" my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))] says, [ROOT.Char.Custom2('QuirkPPPosOrNeg', SCOPE.sC('councillor'))].\n\n\"I could acquire some new tomes, prepare a few assignments, tutor you a little. What subject are you most interested in?\""
  councillor_spouse_learning.2602.a:0 "Diplomacy."
  councillor_spouse_learning.2602.b:0 "Military theory."
- councillor_spouse_learning.2602.c:0 "Realm economy."
+ councillor_spouse_learning.2602.c:0 "領国の経済。"
  councillor_spouse_learning.2602.d:0 "Spy network management."
  councillor_spouse_learning.2602.e:0 "Theology."
  councillor_spouse_learning.1304.desc:0 "Spouse Is Patron of [religious_vassal.GetTitledFirstNameNoTooltip]"

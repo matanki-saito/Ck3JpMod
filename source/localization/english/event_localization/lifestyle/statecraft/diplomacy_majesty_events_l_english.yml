@@ -28,7 +28,7 @@
  diplomacy_majesty.0016.t:0 "Kindred Spirits"
  diplomacy_majesty.0016.desc:0 "I have noticed [potential_friend.Custom2('MyCharacterIntroduction', ROOT.Char)] and I seem to think and act in quite a similar way. We might not always see eye to eye, but at our cores, I think we are compatible.\n\nThis could be the foundation of a lasting friendship — or a weakness to exploit..."
  diplomacy_majesty.0016.a:0 "We will be the best of friends!"
- diplomacy_majesty.0016.a.tt:0 "The [scheme|E] will have an increased [success_chance|E]"
+ diplomacy_majesty.0016.a.tt:0 "[scheme|E]は[success_chance|E]が高まる"
  diplomacy_majesty.0016.b:0 "I will wrap [potential_friend.GetHerHim] around my little finger..."
  diplomacy_majesty.0016.c:0 "I don't need friends, I have knives!"
  diplomacy_majesty.1020.t:0 "忠義か恐怖か"

@@ -590,7 +590,7 @@
  doctrine_theocracy_temporal_name:0 "神権制"
  doctrine_theocracy_temporal_desc:0 "認められた[ROOT.Faith.PriestNeuterPlural]だけが、我々の信仰の教義を守り、さらには、我々にとって神聖な場を管理監督することを委ねられている。"
  doctrine_parameter_theocracy_temple_lease:0 "寺院[holdings|E]は保持者の[realm_priest|E]に貸与され、[theocratic|E] [vassal|E]として仕えることとなる"
- doctrine_theocracy_lay_clergy_name:0 "Lay Clergy"
+ doctrine_theocracy_lay_clergy_name:0 "在家信者"
  doctrine_theocracy_lay_clergy_desc:0 "忠実な信者は我々の信仰の教義について十二分に理解し、従い、説くことができる。"
  doctrine_parameter_theocracy_temple_ownership:0 "世俗的な[rulers|E]は自分の寺院[holdings|E]を直接管理し、関連する利得をすべて得ることができる。"
  doctrine_parameter_lay_clergy:0 ""

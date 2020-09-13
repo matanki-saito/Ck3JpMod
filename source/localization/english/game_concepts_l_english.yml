@@ -49,7 +49,7 @@
  game_concept_contract:0 "契約"
  game_concept_feudal_contract_desc:1 "$game_concept_feudal_contract$は[feudal|E][vassal|E]と[liege|E]との間に生じる[obligations|E]を定めたものです。封建[government_form|E]でのみ、それぞれの封臣が義務について個々に交渉することが可能です。\n\n特殊な契約方式、たとえば#V $special_contract_march_short$#!や#V $special_contract_scutage_short$#!、#V $special_contract_palatinate_short$#!の契約では、[duchy|E]以上の[vassals|E]のみが契約を交わします。"
  game_concept_crown_authority:0 "王権"
- game_concept_crown_authority_desc:1 "$game_concept_crown_authority$は[ruler|E]が[vassals|E]に対して振るう全般的な権力を表したものです。\n\n$game_concept_crown_authority$には[autonomous_vassals|E]、[limited|E]、[high|E]そして[absolute|E]の４つの段階があり、$game_concept_crown_authority$を増大させるのに必要な[prestige|E]コストは、この段階と君主の[learning_skill|E]によって増減します。\n\n#weak 封臣は$game_concept_crown_authority$が高い状態を好まず、[Concept( 'liberty_faction', 'Liberty Factions' )|E]にとってはこれを縮小させることが第一の目標とです。"
+ game_concept_crown_authority_desc:1 "$game_concept_crown_authority$は[ruler|E]が[vassals|E]に対して振るう全般的な権力を表したものです。\n\n$game_concept_crown_authority$には[autonomous_vassals|E]、[limited|E]、[high|E]そして[absolute|E]の４つの段階があり、$game_concept_crown_authority$を増大させるのに必要な[prestige|E]コストは、この段階と君主の[learning_skill|E]によって増減します。\n\n#weak 封臣は$game_concept_crown_authority$が高い状態を好まず、[Concept( 'liberty_faction', 'Liberty Factions' )|E]にとってはこれを縮小させることが第一の目標です。"
  game_concept_autonomous_vassals:0 "自立した封臣"
  game_concept_autonomous_vassals_crown_authority:0 "自立した封臣と王権法"
  game_concept_autonomous_vassals_crown_authority_desc:0 "「$game_concept_autonomous_vassals$」は[crown_authority|E]が最も小さい状態をさします。この状態では、[vassals|E]は[liege|E]に対して[opinion|E]ペナルティを生じさせず、君主は基本的な権力しか振るうことができません。"

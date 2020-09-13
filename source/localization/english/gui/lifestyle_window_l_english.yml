@@ -45,7 +45,7 @@
  FOCUS_NO_EMPLOYER:0 "Only the employer can change the Focus"
  already_reset_perks_tt:1 "すでに一度パークをリセットしています！"
  EXPERIENCE:0 "[Lifestyle.GetNameNoTooltip][experience|E]: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]"
- UNLOCKED_PERKS:0 "[Lifestyle.GetNameNoTooltip][perks|E]解禁済み:[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"
+ UNLOCKED_PERKS:0 "[Lifestyle.GetNameNoTooltip][perks|E]解禁済み: [Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"
  LIFESTYLE_WINDOW_TITLE:0 "[Lifestyle.GetNameNoTooltip][lifestyle|E]"
  LIFESTYLE_FOCUS_HEADER:0 "ライフスタイル[focus|E]"
  LIFESTYLE_POINTS_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip]パークが利用可能: [Character.GetPerkPoints( Lifestyle.Self )|+]#!"
