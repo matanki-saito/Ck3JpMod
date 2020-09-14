@@ -6,7 +6,7 @@
  hunt_poacher_training_modifier:0 "密猟の訓練"
  hunt_poacher_training_modifier_desc:0 "この人物は密猟者から狩りの訓練を受けている。"
  hunt_upset_hunting_county_modifier:0 "密猟の怒り"
- hunt_upset_hunting_county_modifier_desc:0 "This County is upset over the way it has been treated for the actions of a handful of poachers"
+ hunt_upset_hunting_county_modifier_desc:0 "この領内は、一握りの密猟者達の行動に対する扱いに興奮しています。"
  modifier_hunt_hunting_trophy:0 "狩猟の獲物"
  modifier_hunt_hunting_trophy_desc:0 "印象的な狩猟トロフィーがこの人物の大広間に飾られ、その功績を誇示しています。"
  modifier_hunt_friend_of_animal:0 "動物の友"

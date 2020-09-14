@@ -73,7 +73,7 @@
  courting:0 "Romance Scheme"
  courting_action:0 "Romance"
  courting_desc:0 "I will declare my undying love for [SCHEME.GetTarget.GetShortUINameNoTooltip] and win [SCHEME.GetTarget.GetHerHis] heart through noble acts of chivalry."
- courting_desc_general:0 "Declare undying love for someone and attempt to win their heart through noble acts of chivalry."
+ courting_desc_general:0 "誰かへの不滅の愛を宣言し、騎士道の高貴な行為を通して彼らの心を勝ち取ろうとします。"
  scheme_interaction_tt_courtship_approved:0 "[recipient.GetShortUINameNoTooltip]に対して[romance|E]を試み、[prestige|E]を獲得し、あなたへの[opinion|E]を改善し、あるいは[soulmates|E]になります！"
  courting_invalid:0 "I stop trying to [romance|E] [target.GetShortUIName|U] as we can no longer become [soulmates|E]."
  court_scheme_invalidated_title:0 "@scheme_icon! Romance Scheme Ends"

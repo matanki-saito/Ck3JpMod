@@ -32,7 +32,7 @@
  faith_creation.1001.o.uninterested:0 "It does not matter what these [second.Custom('GetUnbelieverNamePlural')] believe."
  faith_creation.1001.o.getreaction:0 "[ROOT.Char.Custom2('GetFaithCreationReaction', reformer)]"
  faith_creation.1001.o.personal:0 "世界は[ROOT.Char.GetFaith.HighGodName]が我々を支持していることを目にするだろう！"
- faith_creation.1010.t:0 "[HoF.GetFirstNameNoTooltip] Declared [faith.ReligiousHeadName|U]"
+ faith_creation.1010.t:0 "[HoF.GetFirstNameNoTooltip]は[faith.ReligiousHeadName|U]を宣言"
  faith_creation.1010.desc.start:0 "Thought the righteousness of our faith was never in doubt, the period of time we have been forced to endure without a spiritual leader has been trying. At long last this ordeal is over however, as"
  faith_creation.1010.desc.temporal.personal:0 "I have finally convinced the [faith.AltPriestTermPlural] to accept me as the one true [faith.ReligiousHeadName|U]."
  faith_creation.1010.desc.temporal:0 "[HoF.GetTitledFirstName] has managed to convince the [faith.AltPriestTermPlural] to accept [HoF.GetHerHim] as the one true [faith.ReligiousHeadName|U]."

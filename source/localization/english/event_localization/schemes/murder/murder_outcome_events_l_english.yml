@@ -75,7 +75,7 @@
  murder_outcome.2002.no_awareness_2:0 "\n\nConveniently, most of the bandits were slain in the fighting, and the dead do not speak. No one will ever know of my involvement!"
  murder_outcome.2002.a.discovered:0 "My only crime was trusting lowborn bandits..."
  murder_outcome.2002.a:0 "Hah! Perhaps commoners are not so useless after all?"
- murder_outcome.2002.a.less_arrogant:0 "My two problems solved each other!"
+ murder_outcome.2002.a.less_arrogant:0 "二つの問題が互いに解決したな！"
  murder_outcome.2003.t:0 "Healthy Eater"
  murder_outcome.2003.opening_1:0 "Thanks to the duck and the poison vial, [target.GetTitledFirstName] is finally dead!"
  murder_outcome.2003.opening_2:0 "The poison did its job, and [target.GetTitledFirstName] is no more!"

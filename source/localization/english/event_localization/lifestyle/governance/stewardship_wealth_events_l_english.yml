@@ -15,7 +15,7 @@
  stewardship_wealth.1011.a:0 "円滑な取引の為に銀貨を鋳造しろ。"
  stewardship_wealth.1011.b:0 "私の顔が刻印された金貨を鋳造しろ！"
  stewardship_wealth.1011.c:0 "安価なニッケル硬貨で済ませろ。"
- stewardship_wealth.1011.c.success:0 "悪貨を鋳造することで財産は守られている"
+ stewardship_wealth.1011.c.success:0 "悪貨を鋳造することで財産は築かれる"
  stewardship_wealth.1011.c.failure:0 "誰もが新硬貨はどれほど安物なのかを知っている"
  stewardship_wealth.1011.custom:0 "[THIS.Char.GetPrimaryTitle.GetName]の全ての領域"
  stewardship_wealth.1021.t:0 "戦争への支払い"

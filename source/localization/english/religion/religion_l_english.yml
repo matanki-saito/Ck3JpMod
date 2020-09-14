@@ -648,7 +648,7 @@
  special_doctrine_is_christian_faith_desc:0 "世界にはイエスの神性を認めることなくその教えに固執する人々がいる。冒涜的ではあるが、いつの日か真の信仰へと改宗する可能性もあるため、我々はこれらの誤れる魂に憐れみを示さなければならない。"
  doctrine_parameter_hostility_override_tenet_christian_syncretism:1 "$tenet_christian_syncretism_name$の信条を持つ非キリスト教の[faiths|E]は#V 邪教#!ではなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされる"
  special_doctrine_is_islamic_faith_name:0 "ムハンマドの教え"
- special_doctrine_is_islamic_faith_desc:0 "Although they do not follow all of the laws of the Prophet, there are some in this world who are more guided by the will of Allah than they know. With time, these half-converts may even give up their evil ways and become true members of the Ummah!"
+ special_doctrine_is_islamic_faith_desc:0 "かれらは預言者の律法のすべてに従っているわけではない。だがこの世界には、かれらの知る以上に、アッラーの御心に導かれている人がいる。やがて、そのような半信半疑の人たちも、悪しき道を捨てて、真のウンマの一員となるかもしれない！"
  doctrine_parameter_hostility_override_tenet_islamic_syncretism:1 "$tenet_islamic_syncretism_name$の信条を持つ非イスラム教の[faiths|E]は#V 邪教#!ではなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされる"
  special_doctrine_is_jewish_faith_name:0 "モーセの教え"
  special_doctrine_is_jewish_faith_desc:0 "Not all among the gentility dwell in sin. There are those who respect God's chosen people, and these deserve a measure of our respect in turn."

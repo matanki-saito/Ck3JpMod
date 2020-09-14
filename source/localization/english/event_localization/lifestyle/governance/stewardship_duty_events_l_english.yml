@@ -6,7 +6,7 @@
  stewardship_duty.0001.end.desc:0 "の口論は、どんな[ROOT.Char.GetWomanMan]でも気が狂うのに充分なものだ。— なんとかしなくては!\n\n私はこの状況の調停を行使すべきか、同情を持ってどちらか一方に近づくべきか..."
  stewardship_duty.0001.a:0 "彼らに意味を理解させる事を試みよう。"
  stewardship_duty.0001.b:0 "「うわー、 [arguer_2.GetFirstNameNoTooltip]はとても[arguer_2.Custom('InsultNoun')]な奴だ！」"
- stewardship_duty.0001.c:0 "「[arguer_1.GetFirstNameNoTooltip]をマジだと思ってんの？[arguer_1.GetSheHe|U]は神経質でヤバい奴だぜ！」"
+ stewardship_duty.0001.c:0 "「[arguer_1.GetFirstNameNoTooltip]を信じられるか？[arguer_1.GetSheHe|U]は図々しい奴だ！」"
  stewardship_duty.0001.a.success.tt:0 "調停は成功した"
  stewardship_duty.0001.a.failure.tt:0 "有難迷惑に思われる"
  stewardship_duty_0001_mediation_success.tt:0 "[arguer_1.GetShortUIName|U] and [arguer_2.GetShortUIName] gain [opinion|e] of each other"

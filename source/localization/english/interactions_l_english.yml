@@ -340,7 +340,7 @@
  EDUCATE_RECIPIENT_REQUEST:0 "In order to ensure that you receive an excellent education, I would like for you to be raised by [secondary_actor.GetShortUIName] — a most skillful Guardian!"
  REMOVE_GUARDIAN_INTERACTION:0 "Unfortunately this tutoring arrangement no longer works for [actor.GetPrimaryTitle.GetNameNoTierNoTooltip]. As a result I must end it prematurely, for the good of all involved."
  SECONDARY_ACTOR_CAN_MARRY:0 "[CHARACTER.GetShortUIName|U] can and [TARGET_CHARACTER.GetShortUIName] can marry"
- NOT_SECONDARY_ACTOR_CAN_MARRY:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] can #bold not#! marry"
+ NOT_SECONDARY_ACTOR_CAN_MARRY:0 "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は結婚#bold できない#!"
  NOT_CHARACTER_IS_CLERGY_AND_CANNOT_MARRY:0 "[CHARACTER.GetShortUIName|U] belongs to the clergy"
  SECONDARY_RECIPIENT_CAN_MARRY:0 "[TARGET_CHARACTER.GetShortUIName|U] is available to marry [CHARACTER.GetShortUIName]"
  NOT_SECONDARY_RECIPIENT_CAN_MARRY:0 "[TARGET_CHARACTER.GetShortUIName|U] is NOT available to marry [CHARACTER.GetShortUIName]"

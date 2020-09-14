@@ -288,6 +288,6 @@
  INTRIGUE_WINDOW_SECRET_EXPOSE_TT:0 "#T [secret|E]を暴露する#!\n\n秘密を暴露すると[secret|E]から得られたすべての[hooks|E]を失います"
  INTRIGUE_WINDOW_EXPOSE_TITLE:0 "秘密を暴露"
  INTRIGUE_WINDOW_EXPOSE_DESCRIPTION:0 "暴露する[CHARACTER.GetShortUINamePossessiveNoTooltip]の[secrets|E]を選択します"
- INTRIGUE_WINDOW_SECRET_BLACKMAIL_CANT_BLACKMAIL:0 "@warning_icon!#X 現時点で恐喝に使用できる[secret|E]がありません#!"
+ INTRIGUE_WINDOW_SECRET_BLACKMAIL_CANT_BLACKMAIL:0 "@warning_icon! #X 現時点で恐喝に使用できる[secret|E]がありません#!"
  INTRIGUE_WINDOW_SECRET_BLACKMAIL_TT:0 "#T 恐喝#!\n\n[SelectLocalization( IntrigueWindowSecretGroup.CanBlackmail, 'blackmail_interaction_desc', 'INTRIGUE_WINDOW_SECRET_BLACKMAIL_CANT_BLACKMAIL' )]"
  INTRIGUE_WINDOW_SECRET_EXPOSE_DESC:3 "@warning_icon! #X You can #bold not#! expose [TARGET_CHARACTER.GetUINamePossessive] [SECRET.GetName] [secret|E]#!"
