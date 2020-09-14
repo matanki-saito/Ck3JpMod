@@ -431,7 +431,7 @@
  declaration_of_repentance_interaction_desc:0 "Pay [prestige|E] in an act of contrition to have your [excommunication|E] lifted"
  declaration_of_repentance_interaction_desc_hook:0 "#weak (or use a [hook|E] on [recipient.GetShortUINameNoTooltip] in place of Prestige)#!"
  DECLARATION_OF_REPENTANCE_HOOK:0 "[hook|e]を使う"
- DECLARATION_OF_REPENTANCE_VIRTUES:0 "あなたは[virtuous|E][traits|E]を持っている: $VALUE|=+0$"
+ DECLARATION_OF_REPENTANCE_VIRTUES:0 "あなたは[virtuous|E]の[traits|E]を持っている: $VALUE|=+0$"
  DECLARATION_OF_REPENTANCE_SINS:0 "あなたは[sinful|E][traits|E]を持っている: $VALUE|=+0$"
  excommunicate_interaction:0 "破門"
  excommunicate_interaction_desc:0 "[recipient.GetFirstNamePossessive] vile misdeeds are poisonous to the [actor.GetFaith.GetAdjective] [faith|E]. [recipient.GetSheHe|U] shall be [excommunicated|E] until [recipient.GetSheHe] repents for [recipient.GetHerHis] wicked ways."

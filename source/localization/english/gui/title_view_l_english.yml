@@ -43,7 +43,7 @@
  DESTROY_TITLE_BLOCKER_PRIMARY_TITLE:1 "@warning_icon!#X あなたの[primary_title]は破棄できません。#!"
  DESTROY_TITLE_REASON_CONTESTED:0 "@warning_icon!#X Cannot destroy while contested in a war#!"
  CREATE_TITLE_TOOLTIP_TITLE:1 "#T [TITLE.GetBaseNameNoTooltip]を創設#!"
- CREATE_TITLE_CONFIRM:1 "You will gain [prestige_i]$PRESTIGE|0V$\n\nCost:\n[gold_i]$GOLD|0V$"
+ CREATE_TITLE_CONFIRM:1 "あなたは[prestige_i]$PRESTIGE|0V$を得る\n\nコスト:\n[gold_i]$GOLD|0V$"
  CREATE_TITLE_CONFIRM_ACCEPT:0 "創設"
  CREATE_TITLE_HAS_HOLDER:0 "Title already owned by [CHARACTER.GetUIName]"
  CREATE_TITLE_NO_DEJURE_COUNTIES:0 "@warning_icon!#X [TITLE.GetName] does not have any [de_jure|E] [counties|E].#!"

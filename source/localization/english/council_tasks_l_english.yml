@@ -83,7 +83,7 @@
  task_train_commanders_modifier:0 "$task_train_commanders$"
  task_train_commanders_maa_effect_desc:1 "常備軍維持費: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_total_tooltip')|2P]%#!\n$TAB$基本:#P -[SCOPE.ScriptValue('marshal_train_commanders_maa_base_tooltip')|2P]%#!\n$TAB$評議員の[martial_skill|E]:#P -[SCOPE.ScriptValue('marshal_train_commanders_maa_skill_base_tooltip')|2P]%#!"
  task_train_commanders_maa_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]:#P -[SCOPE.ScriptValue('marshal_train_commanders_maa_maintenance_erudition_bonus_tooltip')|2]%#!"
- task_train_commanders_effect_desc:2 "\n\n#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|P]%#! chance of improving or finding a new [commander|E] or [knight|E] each month\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|P]%#!"
+ task_train_commanders_effect_desc:2 "\n\n[commander|E]または[knight|E]を改善または新しく発見する可能性が毎月#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|P]%#!\n$TAB$評議員の[martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|P]%#!"
  task_train_commanders_commander_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]:#P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_erudition_bonus')|P]%#!"
  task_train_commanders_commander_learns_from_commander:1 "\n$EFFECT_LIST_BULLET$#P 指揮官が[commander_trait]を獲得#!"
  task_train_commanders_knight_improved:0 "\n$EFFECT_LIST_BULLET$#P [knight]の進歩#!"

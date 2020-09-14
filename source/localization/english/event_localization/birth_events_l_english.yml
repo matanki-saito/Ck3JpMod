@@ -12,7 +12,7 @@
  birth.1001.children.t:0 "赤子たち"
  birth.1001.first_birth_good.desc:0 "最初の陣痛が始まったとき、大きな静寂が訪れた。昔から心配する余地はなかったことだが、まさに[ROOT.Char.GetFaith.FertilityGodNamePossessive]の最高の奇跡が起きようとしているのだ。長くて栄光ある争いの後、私は次のものをもたらした。"
  birth.1001.first_birth_scary.desc:0 "私は数え切れないほどの母親や助産師と話し、彼らのアドバイスを心に留めて来たはずだったが、いざ出産の時が来ると、今までの準備はまったくもって十分でなかったことに気がついた。\n\n痛みは私の全てをすり減らし、命の危険を感じるほどだった。しかし、私は乗り切った。そして今、上には赤子がいる。\n"
- birth.1001.many_births.desc:0 "For every birth, it gets a little easier — yet I never cease to be amazed by the intensity of the experience, and my own strength. Once more, I have brought forth new life to this Earth, in the shape of"
+ birth.1001.many_births.desc:0 "出産のたびに少しずつ楽になっていくのだが—毎度この激しい経験と自分自身の強さに驚きを隠せない。再び、私はこの地球に新しい生命を誕生させた。次のような形で—"
  birth.1001.not_first_birth.desc:0 "安心は大きく、喜びはもっと大きい！子どもができた:"
  birth.1001.sondaughter.desc:0 "完璧で小さな[child.Custom('GetDaughterSon')]!\n\n"
  birth.1001.daughters.desc:0 "二人の完璧で小さな女の子!\n\n"

@@ -1,6 +1,6 @@
 ﻿l_english:
  debug.0001.desc:1 "[recipient.GetShortUIName|U]は私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('recipient')) ]です\n\n私は[recipient.GetShortUINamePossessive]の[recipient.Custom2('RelationToMe' , ROOT.GetCharacter) ]です"
- debug.0002.t:0 "Prepare the Stork(s)"
+ debug.0002.t:0 "コウノトリを準備する"
  debug.0002.desc:1 "[mother.GetShortUIName|U]は、[father.GetShortUIName]を父親として妊娠します"
  debug.0002.a:0 "時代遅れの妊娠をお願いします"
  debug.0002.b:0 "一人の子供を妊娠させます"

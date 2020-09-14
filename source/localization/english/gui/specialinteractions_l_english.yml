@@ -287,7 +287,7 @@
  DIVORCE_HERETIC:0 "[secondary_recipient.GetShortUINameNoTooltip] is of a different [faith|E]: $VALUE|=+0$"
  DIVORCE_HOLY:0 "Your union is divine: $VALUE|=+0$"
  DIVORCE_INFIDELITY:0 "[secondary_recipient.GetShortUINameNoTooltip] has been unfaithful: $VALUE|=+0$"
- I_AM_VIRTUOUS:1 "あなたは[virtuous|E][traits|E]を持っている: $VALUE|=+0$"
+ I_AM_VIRTUOUS:1 "あなたは[virtuous|E]の[traits|E]を持っている: $VALUE|=+0$"
  I_AM_PIOUS:0 "あなたの[piety_level|E]:$VALUE|=+0$"
  I_AM_PIOUS_AND_BROKE:0 "You are bankrupt and have a high [piety_level|E]: $VALUE|=+0$"
  THEY_ARE_VIRTUOUS:0 "[secondary_recipient.GetShortUINameNoTooltip] has [virtuous|E] [traits|E]: $VALUE|=+0$"
