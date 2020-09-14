@@ -75,4 +75,4 @@
  marshal_task.3102.t:0 "A Gratitude"
  marshal_task.3102.desc:0 "My [baron.Custom2('RelationToMe', ROOT.Char)],\n Your [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], has been working tirelessly to reorganize the [county.GetName], and we are already reaping the benefits.\nI wish to personally thank you for sending such a capable [councillor.GetWomanMan] to aid us!"
  marshal_task.3102.a:0 "[councillor.GetFirstNameNoTooltip]よ、これからも頑張ってくれ。"
- marshal_task.3102.notification:0 "[councillor.GetCouncilTitle] Impresses Vassal"
+ marshal_task.3102.notification:0 "[councillor.GetCouncilTitle]は封臣を感動させた"

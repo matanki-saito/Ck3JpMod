@@ -42,7 +42,7 @@
  lover_0003.a:0 "I must let [lover_1.GetFirstNameNoTooltip] go."
  lover_0003.b:0 "[lover_2.GetFirstNameNoTooltip] and I have reached the end of our road."
  lover_0003.c:0 "I cannot go on like this with [lover_3.GetFirstNameNoTooltip]."
- lover_0003.d:0 "Romance is not about quantity, but quality!"
+ lover_0003.d:0 "ロマンスは量の問題ではなく質の問題だ！"
  lover_0003.d.tt:0 "You use your romantic skills to keep your lovers satisfied without overworking yourself."
  lover_0003.e:0 "It might break me, but what is life without [ROOT.Char.Custom('lover_reason')]?"
  lover_0003.e.tt:0 "You work hard to keep the relationships alive."

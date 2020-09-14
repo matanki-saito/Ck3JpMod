@@ -1,5 +1,5 @@
 ﻿l_english:
- event_window_widget_name_child_after_father:0 "[Character.GetFather.GetFirstNameOrMeNoTooltip]の名をとって"
+ event_window_widget_name_child_after_father:0 "[Character.GetFather.GetFirstNameOrMeNoTooltip]の名をとる"
  event_window_widget_name_child_after_mother:0 "[Character.GetMother.GetFirstNameOrMeNoTooltip]の名をとる"
  event_window_widget_name_child_after_fathers_father:0 "[Character.GetFather.GetFirstNamePossessiveOrMyNoTooltip]の父の名をとる"
  event_window_widget_name_child_after_fathers_mother:0 "[Character.GetFather.GetFirstNamePossessiveOrMyNoTooltip]の母の名をとる"

@@ -10,7 +10,7 @@
  heresy.0010.a.astray_faith:0 "理解できないけど、それが幸せになるのかな？"
  heresy.0010.a.same_faith:0 "いずれ真理を知るだろうと思っていた！"
  heresy.0010.b:0 "いいところもあるのだが……"
- heresy.0010.notification.title:0 "New Religious Movement"
+ heresy.0010.notification.title:0 "新しい宗教運動"
  heresy.0010.notification:0 "[heretic_ruler.GetFullName] has founded a new [heretic_faith.GetAdjective] movement!"
  heresy.0011.notification.heresy:1 "異端を受け入れた[convert_ruler.Custom2('HierarchicalStatus', me)]: [convert_ruler.GetShortUINameNoTooltip]"
  heresy.0011.notification.same_faith:1 "真の信仰を受け入れた[convert_ruler.Custom2('HierarchicalStatus', me)]: [convert_ruler.GetShortUINameNoTooltip]"

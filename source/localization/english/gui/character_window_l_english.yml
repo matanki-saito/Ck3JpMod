@@ -139,7 +139,7 @@
  CHARACTER_WINDOW_FIND_SPOUSE:1 "#T [spouse|E]を検索\n#! [Character.GetUIName]の[marriage|E]を手配する\n\n[Character.GetPlayerInteractionValidBlockers('marry_off_interaction')]"
  CHARACTER_WINDOW_FIND_SPOUSE_SELF:1 "#T [spouse|E]を検索\n#! 自分自身の[marriage|E]を手配する\n\n[Character.GetPlayerInteractionValidBlockers('marry_off_interaction')]"
  CHARACTER_WINDOW_FIND_SECONDARY_SPOUSE:0 "#T [spouse|E]を検索\n#! [marriage|E]を手配する"
- CHARACTER_WINDOW_NO_MORE_SPOUSES:0 "#T No more [spouses|E]#!"
+ CHARACTER_WINDOW_NO_MORE_SPOUSES:0 "#T これ以上[spouses|E]はいない#!"
  CHARACTER_WINDOW_GOTO_FIND_SPOUSE:0 "#T Next: Find [spouse|E]#!"
  CHARACTER_WINDOW_GOTO_NEXT_SPOUSE:0 "#T 次:[CHARACTER.GetUIName]#!"
  CHARACTER_WINDOW_GOTO_PREVIOUS_SPOUSE:0 "#T 前:[CHARACTER.GetUIName]#!"

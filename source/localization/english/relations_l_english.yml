@@ -313,7 +313,7 @@
  FRAME_DYNAST:0 "#T [dynast|E]#!\n$TT_DYNAST_DESC$"
  FRAME_HEAD_OF_HOUSE:0 "#T Head of [house|E]#!\n$TT_HOUSE_HEAD_DESC$"
  FRAME_HOUSE_BASTARD:0 "#T [bastard|E]#!"
- FRAME_LEGITIMIZED_HOUSE_BASTARD:0 "#T 正当化された[bastard|E] #!"
+ FRAME_LEGITIMIZED_HOUSE_BASTARD:0 "#T 正当化[bastard|E] #!"
  title_council_name:0 "[ROOT.Char.GetCouncilTitle]"
  title_landed_name:0 "[ROOT.Char.GetTitleAsName]"
  title_council_name_possessive:0 "[ROOT.Char.GetCouncilTitlePossessive]"

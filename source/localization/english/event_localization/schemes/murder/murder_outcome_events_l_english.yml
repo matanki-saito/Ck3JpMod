@@ -93,7 +93,7 @@
  murder_outcome.2004.no_awareness_1:0 "\n\nThankfully, [SCOPE.Custom('VenomousCreatureTypePlural')] do not talk, so the attack cannot be traced back to me."
  murder_outcome.2004.no_awareness_1_beaked_mammal:0 "\n\nThankfully, creatures like that do not talk — surely they do not? – so the attack cannot be traced back to me."
  murder_outcome.2004.a.discovered:0 "Time to [SCOPE.Custom('VenomousCreatureMovement')] away like a [SCOPE.Custom('VenomousCreatureType')]!"
- murder_outcome.2004.a:0 "My little friend has done its work well."
+ murder_outcome.2004.a:0 "小さな友が上手くやったようだな。"
  murder_outcome.2005.opening_1:1 "[target.GetTitledFirstName]は死んだ。自国の民に殴られ踏みつけられたのだ!\n\n扇動された農民たちは領主が馬に乗って通りを通過するのを見て興奮状態になり、[target.GetHerHim]と[target.GetHerHis]の$knight_culture_player_plural_no_tooltip_lowercase$たちの何人かを馬から引きずりおろして、彼らを殴り殺した!"
  murder_outcome.2005.owner_is_known_1:0 "\n\nMany peasants were hanged, but, tragically, before their execution some of my agitators named me as the perpetrator."
  murder_outcome.2005.no_awareness_1:0 "\n\n私の扇動者を含め、多くの農民が絞首刑にされた。これで私まで辿られることはない!"

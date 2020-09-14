@@ -656,7 +656,7 @@
  FIND_CHARACTER:0 "人物検索"
  GO_TO_CAPITAL:0 "本拠地へ移動"
  CHARACTER_ARMY_COMPOSITION_NAME:0 "[CHARACTER.GetShortUINameNotMe]の軍勢"
- ARMY_ICON_HEADER:0 "#T Armies in this location #!"
+ ARMY_ICON_HEADER:0 "#T この地にいる軍隊#!"
  BREAKDOWN_FORMAT_REALM_SIZE_PRESTIGE_COST:0 "$KEY$:$VALUE|=-0$"
  realm_size:0 "[realm_size|E]"
  RENAME_STRING_TOO_LONG:0 "@warning_icon!#X 名前が長すぎます#!"

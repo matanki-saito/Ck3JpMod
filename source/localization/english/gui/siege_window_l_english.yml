@@ -1,6 +1,6 @@
 ﻿l_english:
  SW_TT_TIMER:1 "#T 次の[siege|E]イベント: #V $DAYS$#!#!\n$TOTAL$ごとに新しいイベントが発生"
- SW_TT_TIMER_FROZEN:0 "No [siege|E] Event will occur.\n"
+ SW_TT_TIMER_FROZEN:0 "[siege|E]イベントは発生しません。\n"
  SW_TT_CLOSE:0 "ウィンドウを閉じる\nウィンドウを閉じてすべての[armies|E]の選択を解除します"
  SW_TT_GARRISON:0 "#T [garrison|E]: #V [Siege.GetDefenderMen|0][soldiers|E]#!#!\n[siege|E]が進行するためには守備隊よりも多くの兵士が必要です。"
  SW_TT_RECENT_ACTION:0 ""
