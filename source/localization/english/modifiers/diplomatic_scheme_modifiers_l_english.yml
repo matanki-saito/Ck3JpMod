@@ -3,7 +3,7 @@
  target_hates_owner_modifier:0 "They are hostile to me"
  target_tired_of_insistence_modifier:0 "Tired of my insistence"
  had_target_rebuffed_event:0 "Rebuffing my Advances"
- befriend_gregarious_target_modifier:0 "They are gregarious"
+ befriend_gregarious_target_modifier:0 "彼らは社交的である"
  befriend_envoy_working_modifier:0 "Envoy at Work"
  friendship_with_blessing_modifier:0 "With Blessing"
  gregarious_target_dislikes_modifier:0 "標的は私を嫌っている"

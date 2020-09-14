@@ -105,7 +105,7 @@
  learning_theology.3047.desc:0 "I don't need ancient rituals to commune with the divine. The divine speaks to me all the time. I hear it. I have nothing to be worried about, and nothing to seek. It is all right here with me, every morning, every evening, every night.\n\nIt speaks to me, and my name only!"
  learning_theology.3047.a:0 "[ROOT.Char.GetFaith.HighGodName] chose me! I am one!"
  learning_theology_special.1001.t:0 "Apocrypha"
- learning_theology_special.1001.desc:0 "My unquenchable pursuit for knowledge has brought me to discover a strange, old text.\n\nThe volume, attributed to an ancient theologian only rarely referenced in official sources, brings light to certain aspects of [ROOT.Char.GetFaith.GetName] that I had no idea belonged within the faith's dogma."
+ learning_theology_special.1001.desc:0 "飽くなき知識の追求が、古い奇妙な文章の発見につながった。\n\nこの巻は古代の神学者によるもので、公式な情報源ではほとんど参照されていないが、私の知らなかった[ROOT.Char.GetFaith.GetName]のある側面に光を当ててくれている。"
  learning_theology_special.1001.d:0 "We must revive these ancient practices."
  learning_theology_special.1001.d.success:0 "I successfully integrate my findings into current [THIS.Char.GetFaith.GetAdjective] dogma"
  learning_theology_special.1001.d.failure:0 "I am unable to make my case to the rest of the clergy"

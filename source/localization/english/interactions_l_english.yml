@@ -378,7 +378,7 @@
  IS_BLOCKED_FROM_BEING_FIRED_FROM_COUNCIL:0 "[CHARACTER.GetShortUIName|U] can not be fired from [TARGET_CHARACTER.GetShortUINamePossessive] [council|E]"
  IS_NOT_BLOCKED_FROM_BEING_FIRED_FROM_COUNCIL:0 "[CHARACTER.GetShortUIName|U] can be fired from [TARGET_CHARACTER.GetShortUINamePossessive] [council|E]"
  IS_WAR_ENEMY_WITH_MY_WAR_ALLY:0 "[CHARACTER.GetShortUIName|U] is already in another war against someone on my side in this war"
- VASSALIZATION_TARGET_TOO_BIG:0 "[CHARACTER.GetShortUIName|U] holds too many [counties|E] to be [vassalized_casus_belli|E]"
+ VASSALIZATION_TARGET_TOO_BIG:0 "[CHARACTER.GetShortUIName|U]の[counties|E]が多すぎるので、[vassalized_casus_belli|E]はできない。"
  IS_WAR_ALLY_OF_PRIMARY_ENEMY:0 "[CHARACTER.GetShortUIName|U] is already on the same side as [TARGET_CHARACTER.GetShortUIName] in another war"
  IS_WAR_ALLY_OF_ANOTHER_TARGET_ENEMY:0 "[CHARACTER.GetShortUIName|U] is already on the same side in another war as one of my opponents in this war"
  THEY_CANNOT_CREATE_CADET_BRANCH:0 "[CHARACTER.GetShortUIName|U] cannot create a [cadet_branch|E]"
