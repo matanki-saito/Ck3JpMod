@@ -32,6 +32,6 @@
  hostile_scheme_discovery.4001.t:0 "計画が露見した！"
  hostile_scheme_discovery.4001.opening:0 "My plot against my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))], [target.GetTitledFirstName], has been discovered!"
  hostile_scheme_discovery.4001.end:0 "\n\n使用人が囁いている。家を支配するために私が卑劣な手段に頼らなければならないと。"
- hostile_scheme_discovery.4002.opening:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]を殺す企てが見つかった。[target.GetTitledFirstName]BBBBBBBを殺す計画がばれてしまった。"
+ hostile_scheme_discovery.4002.opening:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]を殺す企てが見つかった。[target.GetTitledFirstName]を殺す計画がばれてしまった。"
  hostile_scheme_discovery.4001.a:0 "これは大きな誤解だ！"
  hostile_scheme_discovery.4001.b:0 "Oh, I will show them how far I can go."

@@ -22,7 +22,7 @@
  child_personality.0003.b:0 "持っていけるんじゃないかと思ってやったんだ、でももう絶対にしないよ。"
  child_personality.0003.c:0 "I have no more right to anything than others do."
  child_personality.0004.t:0 "宮廷での感激"
- child_personality.0004.desc:1 "私は、とある$knight_culture_player_plural_no_tooltip_lowercase$一族の者にとても感銘を受けた。私はついには彼から次々と紹介を受けて、本当に感動してしまった。私は彼の言葉を一生忘れることはないだろう。"
+ child_personality.0004.desc:1 "私は、とある$knight_culture_player_plural_no_tooltip_lowercase$一族の者にとても感銘を受けた。私はついには彼から直接教えを受けて、本当に感動してしまった。私は彼の言葉を一生忘れることはないだろう。"
  child_personality.0004.a:0 "「他人に相応のものを施せば、かわりに貴方は自分の分け前を受け取るでしょう」"
  child_personality.0004.b:0 "「懸命に働けば、なんでも習得することができるのです」"
  child_personality.0004.c:0 "「いずれ大きな目標を持つ時が来るでしょう。そのときはそれに専念するのです」"

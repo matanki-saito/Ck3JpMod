@@ -14,4 +14,4 @@
  heresy.0010.notification:0 "[heretic_ruler.GetFullName] has founded a new [heretic_faith.GetAdjective] movement!"
  heresy.0011.notification.heresy:1 "異端を受け入れた[convert_ruler.Custom2('HierarchicalStatus', me)]: [convert_ruler.GetShortUINameNoTooltip]"
  heresy.0011.notification.same_faith:1 "真の信仰を受け入れた[convert_ruler.Custom2('HierarchicalStatus', me)]: [convert_ruler.GetShortUINameNoTooltip]"
- heresy.0011.notification.other:1 "[convert_ruler.Custom2('HierarchicalStatus', me)]が改宗した:[convert_ruler.GetShortUINameNoTooltip]"
+ heresy.0011.notification.other:1 "[convert_ruler.Custom2('HierarchicalStatus', me)]が改宗した: [convert_ruler.GetShortUINameNoTooltip]"

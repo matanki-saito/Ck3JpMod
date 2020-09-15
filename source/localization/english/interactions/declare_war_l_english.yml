@@ -13,7 +13,7 @@
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN:0 "[casus_belli|E]が選択されていません"
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN_WARNING_TOOLTIP:0 "@warning_icon!#X $DECLARE_WAR_NO_CASUS_BELLI_CHOSEN$#!"
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "所持している[strong_hook|E]をあなたの[liege|E]に使う"
- DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:1 "[holy_war|E]:[DEFENDER.GetFaith.GetName][rulers|E]らは[war|E]に参加するでしょう"
+ DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:1 "[holy_war|E]: [DEFENDER.GetFaith.GetName][rulers|E]らは[war|E]に参加するでしょう"
  DECLARE_WAR_ATTACKER_ALLY_COUNT:0 "同盟者: [DeclareWarInteractionWindow.GetAllyCountForAttacker]"
  DECLARE_WAR_DEFENDER_ALLY_COUNT:0 "同盟者: [DeclareWarInteractionWindow.GetAllyCountForDefender]"
  DECLARE_WAR_CHANGE_WAR_GOAL_TITLE:1 "目標を変更する"

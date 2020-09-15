@@ -40,7 +40,7 @@
  trait_specific.6001.a:0 "Well, if this is what it takes..."
  trait_specific.6001.b:0 "I am better than this!"
  trait_specific.6002.t:0 "寝室の楽しみ"
- trait_specific.6002.desc:0 "私が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )][lover.GetTitledFirstNamePossessive][lover.Custom('GetUpperClothingArticle')]のボタンを外そうと手を伸ばすと、[lover.GetSheHe]は突然手を引いてきた。\n\n[lover.GetSheHe]は「あなたと色々試してみたいと思っていた、私の[ROOT.Char.Custom('LoverPetName')]」と言い、[lover.GetSheHe]は笑みを浮かべつつベッドの下に手を伸ばし、[ROOT.Char.Custom('DeviantObjectArticle')]をひっ張り出した。「これは…使えるかなと思って」"
+ trait_specific.6002.desc:0 "私が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )][lover.GetTitledFirstNamePossessive]の[lover.Custom('GetUpperClothingArticle')]のボタンを外そうと手を伸ばすと、[lover.GetSheHe]は突然離れていく。\n\n[lover.GetSheHe]は「あなたと色々試してみたいと思っていた、私の[ROOT.Char.Custom('LoverPetName')]」と言い、[lover.GetSheHe]はにやつきながらベッドの下に手を伸ばし、[ROOT.Char.Custom('DeviantObjectArticle')]をひっ張り出した。「これは…使えるかなと思って」"
  trait_specific.6002.a:0 "あぁ、待たせないでくれ！"
  trait_specific.6002.b:0 "これにハマっているのか？！"
  trait_specific.6002.b_known:0 "[lover.GetSheHe]が変な物にハマっていると知っていたが、これか？！"

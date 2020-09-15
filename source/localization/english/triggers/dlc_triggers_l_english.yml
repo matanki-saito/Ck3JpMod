@@ -1,3 +1,3 @@
 ﻿l_english:
- HAS_DLC_TRIGGER:0 "DLC:$DLC|V$を所有している"
- HAS_NOT_DLC_TRIGGER:0 "DLC:$DLC|V$を所有して#bold いない#!"
+ HAS_DLC_TRIGGER:0 "DLC: $DLC|V$を所有している"
+ HAS_NOT_DLC_TRIGGER:0 "DLC: $DLC|V$を所有して#bold いない#!"

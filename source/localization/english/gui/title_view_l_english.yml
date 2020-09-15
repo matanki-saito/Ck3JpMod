@@ -153,7 +153,7 @@
  TITLE_VIEW_MERCENARY_NUMBER_OF_KNIGHTS:0 "[knight_i] [MercenaryCompany.GetNumberOfKnights] [HolyOrder.GetTitle.GetHolder.Custom('KnightCulturePlural')]"
  TITLE_VIEW_HO_NUMBER_OF_SOLDIERS:0 "[HolyOrder.GetCurrentSoldiers] [soldiers|E]"
  TITLE_VIEW_MERCENARY_NUMBER_OF_SOLDIERS:0 "[MercenaryCompany.GetCurrentSoldiers] [soldiers|E]"
- CHARACTER_SORT_BY:0 "#T 並べ替え順:[Select_CString( CharacterSelectionList.GetSortOrder, 'Ascending', 'Descending' )]\n#!#I クリックで切替#!"
+ CHARACTER_SORT_BY:0 "#T 並べ替え順: [Select_CString( CharacterSelectionList.GetSortOrder, 'Ascending', 'Descending' )]\n#!#I クリックで切替#!"
  FIND_VASSAL_HEADER:2 "称号の授与"
  FIND_VASSAL_RELEVANCE:0 "関係性"
  FIND_VASSAL_BUTTON_TOOLTIP:2 "#T $FIND_VASSAL_HEADER$#!\nこの[title|E]を授与する相手を選びます。\n\n$FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT$"

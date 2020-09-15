@@ -4,7 +4,7 @@
  KNIGHTS_VIEW_FORBID:0 "禁止"
  KNIGHTS_VIEW_TITLE:1 "$knight_culture_player_plural_no_tooltip$"
  MAX_KNIGHT_COUNT:2 "$knight_culture_player_plural_no_tooltip$: #high [GetKnightCount( GetPlayer.Self )]/[GetKnightLimit( GetPlayer.Self )]#!"
- MAX_KNIGHT_TOOLTIP:1 "#T $knight_culture_player_plural_no_tooltip$の最大数:[knight_i][GetKnightLimit( GetPlayer.Self )|V]#!\n[GetKnightLimitBreakdown( GetPlayer.Self )]"
+ MAX_KNIGHT_TOOLTIP:1 "#T $knight_culture_player_plural_no_tooltip$の最大数: [knight_i][GetKnightLimit( GetPlayer.Self )|V]#!\n[GetKnightLimitBreakdown( GetPlayer.Self )]"
  KNIGHT_EFFECTIVENESS:1 "$knight_culture_player_no_tooltip$効力: #high [GetPlayer.GetKnightEffectiveness|%0]#!"
  KNIGHT_EFFECTIVENESS_TOOLTIP:2 "#T [knight_effectiveness|E]: [GetPlayer.GetKnightEffectiveness|V%0]#!\n基本: #V 100%#!\n[GetPlayer.GetKnightEffectivenessBreakdown]"
  KNIGHTS_VIEW_TITLE_FORBID_TT:2 "#T [Character.GetShortUIName]の$knight_culture_player$叙任を禁止する#!\n\n[Character.GetShortUIName]は#emphasis 今後絶対に#!$knight_culture_player_no_tooltip$として[armies|E]に加わることはない。これにより[Character.GetHerHim]は[battle|E]で死ぬことはない。"

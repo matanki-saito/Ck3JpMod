@@ -4,7 +4,7 @@
  partition_succession_law:1 "分割相続制"
  partition_succession_law_subname:0 "全ての子供が平等に継承する"
  partition_succession_law_effects:1 "\n#V $partition_succession_law$[succession]の下では、あなたの[titles]はあなたの子供達に平等に分配される。#!\n\n#weak $partition_base_desc$#!"
- partition_base_desc:2 "#weak 継承時には亡くなった[ruler|E]が所有していた全ての[titles|E]は、その[eligible_children|E]に分配され、[player_heir|E]は常に[primary_title|E]と[realm_capital|E]、およびこれに関連する直接的な[de_jure|E]の称号が与えられる。\n\n若い子供達には主要な称号と同じ[rank|E]から始まる称号が与えられる; 利用できる称号がない場合、下位[rank|E]の照合が与えられる。プレイヤーの跡継ぎは継承する権利のない称号を先に付与することができない。\n#!"
+ partition_base_desc:2 "#weak 継承時には亡くなった[ruler|E]が所有していた全ての[titles|E]は、その[eligible_children|E]に分配され、[player_heir|E]は常に[primary_title|E]と[realm_capital|E]、およびこれに関連する直接的な[de_jure|E]の称号が与えられる。\n\n若い子供達には主要な称号と同じ[rank|E]から始まる称号が与えられる; 利用できる称号がない場合、下位[rank|E]の称号が与えられる。プレイヤーの跡継ぎは継承する権利のない称号を先に付与することができない。\n#!"
  high_partition_succession_law:1 "高度分割相続制"
  high_partition_succession_law_subname:0 "All Children Inherit"
  high_partition_succession_law_effects:1 "\n#V $high_partition_succession_law$[succession]では、[titles]のほとんどは[heir]に割り当てられるー残りは子供たちに分配される。 #!\n\n#weak $partition_base_desc$\nプレーヤーの継承者は #emp 常に #! 最後の統治者の称号の少なくとも半分を継承する。\n#!"

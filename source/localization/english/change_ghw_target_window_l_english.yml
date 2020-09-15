@@ -7,4 +7,4 @@
  CHANGE_GHW_TARGET_CONFIRM:1 "戦争目標を変更する"
  CHANGE_GHW_TARGET_COST_TOOLTIP:1 "#T 切り換えコスト\n#! 目標が切り換えられるたびにコストは増加します\n[ChangeGHWTargetWindow.GetCostTooltip]"
  CHANGE_GHW_TARGET_DEFENDERS:0 "防御側"
- CHANGE_GHW_TARGET_COST:0 "コスト:[ChangeGHWTargetWindow.GetCost]"
+ CHANGE_GHW_TARGET_COST:0 "コスト: [ChangeGHWTargetWindow.GetCost]"

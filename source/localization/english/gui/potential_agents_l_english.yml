@@ -16,7 +16,7 @@
  SCHEME_PROGRESS_EQUAL:0 "Power and Resistance are equal, progress will not change."
  SCHEME_PROGRESS_INCREASE:0 "毎月$PROGRESS|0P$の進捗を得る可能性は #P $CHANCE$ #! です。"
  SCHEME_PROGRESS_DECREASE:0 "毎月$PROGRESS|0N$の進捗を失う可能性は #N $CHANCE$ #! です。進行状況を #V 0 #! 未満にすることはできません。"
- SCHEME_WITH_GIFT:0 "自身が[gold_i][gold|E]を獲得:#P +#!$VALUE|+0$"
+ SCHEME_WITH_GIFT:0 "自身が[gold_i][gold|E]を獲得: #P +#!$VALUE|+0$"
  SCHEME_WITH_HOOK:0 "[hook]を使っている: $VALUE|+0$"
  SCHEME_AGAINST_RIVAL:0 "ライバルに対する計画: $VALUE|+0$"
  SCHEME_AGAINST_FRIEND:0 "友人に対する計画: $VALUE|+0$"

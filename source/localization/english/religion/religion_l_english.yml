@@ -397,7 +397,7 @@
  doctrine_parameter_hostility_same_religion:1 "同一[religion|E]内の[faiths|E]は[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされる"
  doctrine_parameter_hostility_same_family:1 "同一[religious_family|E]内の[faiths|E]は[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされる"
  doctrine_parameter_hostility_others:1 "#bold 他の#![religious_families|E]内の[faiths|E]は[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされる"
- doctrine_parameter_hostility_override_special_doctrine_ecumenical_christian:0 "Other Christian [faiths|E] that have the Ecumenism doctrine are considered [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!"
+ doctrine_parameter_hostility_override_special_doctrine_ecumenical_christian:0 "世界教会主義の教義を持つ他のキリスト教[faiths|E]は、#V 敵意#!ではなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]と見なされます"
  doctrine_parameter_female_ruler_opinion_penalties:0 "女性統治者の[opinion|E]-10"
  doctrine_parameter_male_ruler_opinion_penalties:0 "男性統治者の[opinion|E]-10"
  doctrine_parameter_female_claims_are_weak:0 "女性の[claims|E]は女性、子どもないし無能の統治者に対してのみ押し付けることができる"

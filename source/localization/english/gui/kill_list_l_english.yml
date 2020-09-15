@@ -1,6 +1,6 @@
 ﻿l_english:
  KILL_LIST:0 "殺した人一覧"
- KILL_LIST_LABEL:0 "[KillListWindow.GetCharacter.GetUINamePossessive|U] Kills"
+ KILL_LIST_LABEL:0 "[KillListWindow.GetCharacter.GetUINamePossessive|U]の殺害数"
  OPEN_KILL_LIST_TOOLTIP:0 "殺した人一覧を開く"
  DEATH_DATE:0 "死亡日"
  DEATH_REASON:0 "死因"
