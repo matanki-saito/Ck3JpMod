@@ -235,7 +235,7 @@
  action_in_debt_click:0 ""
  action_send_child_to_university:0 "子供を大学に送る"
  action_send_child_to_university_label:0 "子供を大学に送る"
- action_send_child_to_university_click:0 "#I Click to open the Education Window#!"
+ action_send_child_to_university_click:0 "#I クリックで教育ウィンドウを開く#!"
  is_sent_to_university:0 "[secondary_actor.GetFirstName] will get a better education than usual!"
  action_war_declared:0 "Declaration of War!"
  action_war_declared_desc:0 "[war.GetName]"

@@ -365,7 +365,7 @@
  health.4105.t:1 "$health_wounded_title$ Disaster Strikes"
  health.4105.end.desc:0 "\n\nI did not believe I could be in more pain, but I was soon proven wrong."
  disease_contraction_feed_message.t:0 "[message_receiver.Custom2('RelationToMeShort' , SCOPE.sC('sick_character'))|U] Falls Ill"
- disease_recovery_feed_message.t:0 "[message_receiver.Custom2('RelationToMeShort' , SCOPE.sC('sick_character'))|U] Recovers"
+ disease_recovery_feed_message.t:0 "[message_receiver.Custom2('RelationToMeShort' , SCOPE.sC('sick_character'))|U]が快復した"
  health_smallpox_spreads_message:0 "天然痘の流行"
  health_bubonic_plague_spreads_message:0 "Bubonic Plague Outbreak"
  health.6001.t:0 "The Attempt"

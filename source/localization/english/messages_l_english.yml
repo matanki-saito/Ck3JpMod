@@ -254,7 +254,7 @@
  msg_perk_point_added_desc:1 "[LIFESTYLE.GetName]ライフスタイルの新しいパークを解禁可能"
  msg_focus_invalidated:1 "Lifestyle Focus Invalidated"
  msg_focus_invalidated_desc:0 "The [FOCUS.GetName] has been invalidated"
- msg_dynasty_perk_added:0 "[DYNASTY_PERK.GetName] Unlocked"
+ msg_dynasty_perk_added:0 "[DYNASTY_PERK.GetName]をアンロックしました"
  msg_dynasty_perk_added_desc:1 "あなたの[dynasty|E]は[DYNASTY_PERK.GetName]をアンロックしました"
  msg_vassal_feudalised:0 "Vassal has become Feudal"
  msg_vassal_feudalised_desc:1 "Your vassal, [ROOT.Char.GetShortUIName], has given up [ROOT.Char.GetHerHis] tribal ways and become feudal"

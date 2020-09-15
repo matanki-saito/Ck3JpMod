@@ -422,7 +422,7 @@
  game_concept_life_expectancy_desc:0 "$game_concept_life_expectancy$はその人物が自然死するとすればどのくらいの年数を生きそうかということを表したものです。\n\n$game_concept_life_expectancy$が高いと、人物が外見的に歳を取るのも遅くなり、より長い期間[children|E]を作れるようになります。"
  game_concept_betrothal:0 "婚約"
  game_concept_betrothals:0 "婚約者"
- game_concept_betrothed:0 "婚約した"
+ game_concept_betrothed:0 "婚約"
  game_concept_betrothal_desc:0 "$game_concept_betrothal$とは将来の[marriage|E]を約束した状態で、片方もしくは両方の側が[adult|E]になっていなくても成立します。\n\n婚約は婚姻と同様の[alliances|E]が付属することがありますが、容易に破棄される可能性があります。両者が成人すると、婚約は正式な婚姻へと変わります。"
  game_concept_marriage:0 "婚姻"
  game_concept_marriages:0 "婚姻"

@@ -64,7 +64,7 @@
  governance_lenient_tax_policy_modifier:0 "寛大な税制"
  governance_harsh_tax_policy_modifier:0 "Unforgiving Tax Policy"
  governance_overtaxed_modifier:0 "重税"
- governance_large_cattle_herd_county_modifier:0 "大きな牛の群れ"
+ governance_large_cattle_herd_county_modifier:0 "大規模な牛の群れ"
  governance_cattle_herd_county_modifier:0 "牛の群れ"
  governance_reduced_troop_levy_modifier:1 "徴募兵の軽減"
  governance_decreased_revolt_risk_modifier:0 "几帳面な管理"

@@ -104,7 +104,7 @@
  MARRIAGE_PRESTIGE_TOOLTIP_OUR:3 "[Character.GetShortUINameNotMe]が獲得:\n[MatchOffer.GetActorPrestigeDesc]"
  MARRIAGE_PRESTIGE_TOOLTIP_THEIR:2 "[Character.GetShortUINameNotMe]が獲得:\n[MatchOffer.GetRecipientPrestigeDesc]"
  MARRIAGE_INBREEDING_RISK_WE:0 "私たちは血縁関係にあり、子供たちが[inbred|E]になる危険性があります。"
- MARRIAGE_INBREEDING_THEY:0 "They are related and there is a risk of their children being [inbred|E]"
+ MARRIAGE_INBREEDING_THEY:0 "彼らは親族同士であり、子供に[inbred|E]のリスクがあります"
  NO_INBREEDING_RISK_WE:0 "We are not related so there is no risk of our children being [inbred|E]"
  NO_INBREEDING_THEY:0 "They are not related so there is no risk of their children being [inbred|E]"
  MARRYING_INTO_HOUSE:0 "Marrying into House $HOUSE$: $PRESTIGE|0+$"

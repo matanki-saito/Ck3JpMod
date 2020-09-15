@@ -17,7 +17,7 @@
  activity_meditation_owner:0 "Meditant"
  visit_seer:0 "予視者がやって来た"
  visit_seer_desc:0 "Might have some good tips'n'tricks for surviving in the Middle Ages."
- ACTIVITY_MAP_ITEM_TOOLTIP:0 "#T [ActivityMapItem.GetActivity.GetName]#! \n#I Click to select#!"
+ ACTIVITY_MAP_ITEM_TOOLTIP:0 "#T [ActivityMapItem.GetActivity.GetName]#!\n#I クリックで選択#!"
  ACTIVITY_WAITING:0 "Waiting to start"
  ACTIVITY_ATTENDING:0 "Attending"
  ACTIVITY_DECLINED:0 "Declined"
