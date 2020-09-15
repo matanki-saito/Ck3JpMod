@@ -34,7 +34,7 @@
  seduce_outcome.2010.desc:0 "I arrive at [target.GetNamePossessive] chambers with two kinds of thirsts, and carrying plenty of wine for the first of them. It is instantly obvious that [target.GetSheHe] is of the same mind as I.\n\nThe first kiss seals the pact, and then we spend the next day and night drinking, loving, drinking, loving..."
  seduce_outcome.2010.a:0 "Oh, let this go on forever!"
  seduce_outcome.2010.b:0 "Sweet oblivion, embrace me."
- seduce_outcome.2020.t:0 "Privy Matters"
+ seduce_outcome.2020.t:0 "枢密院事項"
  seduce_outcome.2020.desc:0 "The privy is a small space, and the air reeks of foul things recently deposited. But it is private, oh so private...\n\n[target.GetName] looks at me hungrily, removing [target.GetHerHis] garments. I do the same, and as we kiss a wave of lust rises to make us forget both the spatial discomfort and the dismal views and smells that surround us."
  seduce_outcome.2020.a:0 "We should do this again, but perhaps someplace else..."
  seduce_outcome.2020.b:0 "Go to the privy for relief, I always say."

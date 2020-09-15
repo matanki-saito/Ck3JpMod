@@ -54,7 +54,7 @@
  MAA_IN_COMBAT_TERRAIN_EFFECTS_HEADER:0 "#T $TERRAIN$ effects on [men_at_arms|E]:#!"
  MAA_IN_COMBAT_TYPE_HEADER:0 "#S $REGIMENT_NAME$:#!"
  COMBAT_WINDOW_ADVANTAGE:0 "[CombatWindow.GetAdvantage|+0=]"
- COMBAT_WINDOW_MAA_TT_REGIMENTS:0 "連隊：[CombatMaaItem.GetRegimentCount]"
+ COMBAT_WINDOW_MAA_TT_REGIMENTS:0 "連隊: [CombatMaaItem.GetRegimentCount]"
  COMBAT_WINDOW_MAA_TT_COUNTERS:1 "#I +敵対勢力の[RegimentType.GetName]がカウンター#!"
  COMBAT_WINDOW_MAA_TT_COUNTERED_BY:0 "#X -敵対勢力の[RegimentType.GetName]がカウンター#!"
  COMBAT_WINDOW_MAA_TT_EFFICIENCY:1 "@warning_icon!カウンター兵種により与ダメージが[CombatMaaItem.GetCountered|0-%] に低減"

@@ -37,7 +37,7 @@
  force_onto_council.notification.strong_hook:0 "私をあなたの忠実な[council_task.GetPositionName]にすることが、あなたにとって最大の利益になるということを私が決めました。\n\n拒否したらどうなるかは#EMP ご存知でしょう#!。"
  force_onto_council.notification.fallback:0 "Per our arrangement, I intend to act as your [council_task.GetPositionName] henceforth.\n\nNaturally, this rights your debt to me."
  force_onto_council.desc.tt:0 "[Select_CString(actor.IsLocalPlayer,'You',actor.GetShortUIName)] [Select_CString(actor.IsLocalPlayer,'are','is')] made a [councillor|E]"
- force_onto_council.recipient.tt:0 "[actor.GetShortUIName]はあなたの[council_task.GetPositionName]になった。"
+ force_onto_council.recipient.tt:0 "[actor.GetShortUIName]はあなたの[council_task.GetPositionName]になった"
  force_onto_council.recipient.tt.duration:2 "[actor.GetSheHe|U]は[SCOPE.ScriptValue('council_position_locked_value')|0]年間の間解雇されません。"
  force_onto_council.actor.tt:0 "あなたは主君の[council_task.GetPositionName]になった。"
  force_onto_council.actor.tt.duration:2 "[SCOPE.ScriptValue('council_position_locked_value')|0]年間の間、解雇できません。"

@@ -232,7 +232,7 @@
  murder_outcome.5001.avenge_me:0 "My heirs, avenge my death!"
  murder_outcome.5001.not_my_time:0 "I had so much more to live for!"
  murder_outcome.5001.option_incapable:0 "At last, death."
- murder_outcome.5002.t:0 "An Attempt on My Life!"
+ murder_outcome.5002.t:0 "私を殺害する企て！"
  murder_outcome.5002.poisoned_duck:0 "As I was about to bite into the most succulent piece of duck I had ever seen, one of my servants keeled over, clutching at his throat! He had been helping himself to a taste of my meal!\n\nAt the very least he served as a warning to not touch the bird, while receiving just punishment for his crime."
  murder_outcome.5002.gang_of_thugs:0 "Traveling through the woods, my retinue was accosted by bandits! They were not after my gold, but attacked outright — sooner than I could order my men to kill them where they stood. The fighting was fiercer than expected, and what was worse, the thugs were clearly targeting me!\n\nGood thing none of them were left standing in the end, for their single-minded attack almost got the better of me."
  murder_outcome.5002.hired_assassin:0 "A noise like that of an assassin stumbling on a chamber pot pulled me out of my late-night slumber. Spotting my would-be assailant, I shouted for my guards in a composed and [SCOPE.GetRootScope.GetCharacter.GetWomanMan]ly fashion. As they arrived, a brief struggle ensued, resulting in the intruder's death."

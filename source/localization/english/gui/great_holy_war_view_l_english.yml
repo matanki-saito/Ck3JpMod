@@ -43,7 +43,7 @@
  GHW_BENEFICIARY:0 "[beneficiary|E]: [Character.GetBeneficiary.GetUIName]"
  GHW_NO_BENEFICIARY:0 "#weak No [beneficiary|E]#!"
  GHW_MY_RANK:0 "階位"
- GHW_RANK_TT:0 "#T 階位：[GreatHolyWarWindow.GetRankForCharacter( Character.Self )]#!"
+ GHW_RANK_TT:0 "#T 階位: [GreatHolyWarWindow.GetRankForCharacter( Character.Self )]#!"
  GHW_SCORE_TT:0 "#T Share: [GreatHolyWarWindow.GetScore( Character.Self ).GetScorePercent|0V]%#!"
  GHW_WAR_CHEST_PIETY_TOOLTIP:1 "#T [war_chest|E] [piety|E]#!\nIn [war_chest|E]: [GetLocalPlayerPietyTextIcon][GreatHolyWar.GetWarChestPiety|0V]\nMy Share: [GetLocalPlayerPietyTextIcon][GreatHolyWarWindow.GetPietyForCharacter( GetPlayer )|V]"
  GHW_WAR_CHEST_PRESTIGE_TOOLTIP:0 "#T [war_chest|E] [prestige|E]#!\nIn [war_chest|E]: @prestige_icon![GreatHolyWar.GetWarChestPrestige|0V]\nMy Share: @prestige_icon![GreatHolyWarWindow.GetPrestigeForCharacter( GetPlayer )|V]"

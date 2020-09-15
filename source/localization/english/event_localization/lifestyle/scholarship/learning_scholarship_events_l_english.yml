@@ -19,7 +19,7 @@
  learning_scholarship.1401.a:1 "この石が必要だ！"
  learning_scholarship.1401.b:0 "読めないものすべてを売り払え。"
  learning_scholarship.1401.c:0 "[bishop.GetTitledFirstNameNoTooltip]、助けが必要だ！"
- learning_scholarship.3001.t:0 "Visions of the Divine"
+ learning_scholarship.3001.t:0 "神のビジョン"
  learning_scholarship.3001.desc:0 "I beckon my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('chaplain'))], [chaplain.GetTitledFirstName], to join me in the circle of brass orbs and candles arranged on staves throughout the dark room. The incense cloying the air to ward off the bad vapors makes our eyes tear up in little time. \"This is how, through the corner of our eyes, we will spot the inscrutable form of angels.\"\n\nHowever, [chaplain.GetFirstNameNoTooltip] soon takes pause. \"This feels wrong. These are divine beings, not meant for mortal eyes to see.\""
  learning_scholarship.3001.a:0 "You can leave, but one way or another, I will know."
  learning_scholarship.3001.b:0 "Yes, this is a fool's errand, if not a sin in itself."

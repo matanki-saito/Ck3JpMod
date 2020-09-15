@@ -1,6 +1,6 @@
 ﻿l_english:
- HAS_INNOVATION_THIRD:0 "[CULTURE.GetName]文化が[INNOVATION.GetName]改革を行っている"
- NOT_HAS_INNOVATION_THIRD:0 "[CULTURE.GetName]文化が[INNOVATION.GetName]改革を行って#bold いない#!"
+ HAS_INNOVATION_THIRD:0 "[CULTURE.GetName]文化が[INNOVATION.GetName]の革新性を保有している"
+ NOT_HAS_INNOVATION_THIRD:0 "[CULTURE.GetName]文化が[INNOVATION.GetName]の革新性を保有して#bold いない#!"
  MUST_BE_UNLOCKED_BY_DECISION:0 "ディシジョンによってアンロックされなければなりません"
  HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U]は$ERA$時代に到達している"
  DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is de jure drifting towards [TARGET_TITLE.GetName]"

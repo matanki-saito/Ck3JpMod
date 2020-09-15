@@ -126,7 +126,7 @@
  diplomacy_foreign_special.1028.t:1 "$diplomacy_foreign_special.1017.t$: Petals and Thorns"
  diplomacy_foreign_special.1028.desc:0 "During our walk through the gardens, [foreign_guest.GetTitledFirstName] and I have paused to admire the view. \"The proportions, the colors — I have seen few things as beautiful as this, [ROOT.GetCharacter.GetTitledFirstNameNoTooltip],\" [foreign_guest.GetSheHe] says and gestures at the sight before us.\n\nI feel as if I ought say something kind in turn. Perhaps something about [foreign_guest.GetHerHis]..."
  diplomacy_foreign_special.1028.compassionate:0 "Warmth and kindness."
- diplomacy_foreign_special.1028.bold:0 "Relentless courage."
+ diplomacy_foreign_special.1028.bold:0 "容赦ない勇気"
  diplomacy_foreign_special.1028.honorable:0 "忠誠心と名誉意識。"
  diplomacy_foreign_special.1028.greed:0 "Soaring ambition."
  diplomacy_foreign_special.1028.rational:0 "Clear rationality."

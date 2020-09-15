@@ -15,7 +15,7 @@
  court_chaplain_task.0311.opening:0 "何ヶ月も前から[councillor_liege.GetTitledFirstNamePossessive]の[councillor.GetCouncilTitle][councillor.GetTitledFirstName]は偽造契約書と偽りの歴史を掘り起こしてきた。"
  court_chaplain_task.0311.end:0 "\n\n今や[councillor_liege.GetFirstName][councillor_liege.GetTitleTierName]は[county.GetName]に対して正当な請求権があるかのように振る舞っている！"
  court_chaplain_task.0311.a:0 "嘘まみれだな！"
- court_chaplain_task.0312.a:0 "Does [councillor_liege.GetFirstNameNoTooltip] have no shame?!"
+ court_chaplain_task.0312.a:0 "[councillor_liege.GetFirstNameNoTooltip]には恥という神経はないのか！？"
  court_chaplain_task.0313.t:0 "[county.GetNameNoTierNoTooltip]の請求！"
  court_chaplain_task.1001.notification:0 "正統ではない教義の説教"
  court_chaplain_task.1002.notification:0 "Poor Rhetoric"

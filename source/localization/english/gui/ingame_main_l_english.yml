@@ -155,7 +155,7 @@
  OBSERVER_MODE_ON:0 "#T Leave this Character's perspective#!"
  ACTIONS_TT:0 "#T 課題\n#![ActionItemHandler.GetNumberOfActions] つの課題があります[ActionItemHandler.GetSuggestionsDebugTooltip]\n\n[SelectLocalization( ActionItemHandler.HasAvailableActions, 'ACTIONS_TT_CLICK_TO_VIEW', '' )]"
  ACTIONS_TT_CLICK_TO_VIEW:0 "#I クリックで表示#!"
- INGAME_TOPBAR_CULTURE_HEAD:1 "As the [GetPlayer.GetCulture.GetNameNoTooltip] [cultural_head|E] you can change the Fascination"
+ INGAME_TOPBAR_CULTURE_HEAD:1 "[GetPlayer.GetCulture.GetNameNoTooltip]文化の[cultural_head|E]であるため、Fascinationを変更可能です"
  INGAME_TOPBAR_NOT_CULTURE_HEAD:1 "@warning_icon!#X You are not the [GetPlayer.GetCulture.GetNameNoTooltip] [cultural_head|E] so you cannot change the Fascination #!"
  PAUSED_BY_PLAYER:0 "一時停止"
  PAUSED_BY_PLAYER_TT:0 "ゲームはプレイヤーによって一時停止されています"

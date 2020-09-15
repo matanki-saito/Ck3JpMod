@@ -4,7 +4,7 @@
  ARMY_RECENTLY_DISEMBARKED_PENALTY:1 "[recently_disembarked|E]: @advantage_icon!$EFFECT|0+=$($DAYS_LEFT$日)"
  MAP_ICON_RECENTLY_DISEMBARKED_TOOLTIP:0 "#T Recently Disembarked#!\nWill be considered [recently_disembarked|E] for [UnitItem.GetArmy.GetDisembarkPenaltyDays] more days"
  COMMANDER_IS_LEADER:0 "#underline #TOOLTIP:COMMANDER_IS_LEADER_TOOLTIP 君主による指揮#!#!"
- COMMANDER_IS_LEADER_TOOLTIP:0 "#T 君主による指揮#!\n[Character.GetName]がこの軍を指揮しており、以下のボーナスが与えられます：\n[GetLeadingTroopsBonus]"
+ COMMANDER_IS_LEADER_TOOLTIP:0 "#T 君主による指揮#!\n[Character.GetName]がこの軍を指揮しており、以下のボーナスが与えられます:\n[GetLeadingTroopsBonus]"
  POTENTIAL_COMMANDER_IS_LEADER_TOOLTIP:1 "#T Ruler#!\nBeing [commander|E] of your own [army|E] would give:\n[GetLeadingTroopsBonus]"
  RP_TOOLTIP_CLICK:1 "#T [RallyPoint.GetName]#!\n$CLICK_TO_VIEW$"
  ARMY_TOOLTIP_IS_GATHERING:1 "Gathering ([Army.GetGatheringDaysLeft] days)"

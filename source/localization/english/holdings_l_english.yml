@@ -21,7 +21,7 @@
  DOMAIN_LIMIT_GRACE_PERIOD_EXPIRES:0 "([DATE.GetString|V]に期限切れ)"
  DOMAIN_LIMIT_GRACE_PERIOD_EXPIRES_UNKNOWN:0 "(有効期限不明)"
  VASSAL_LIMIT_OVERRUN_PENALTY:0 "@warning_icon!#X [vassal_limit|E]を超過しています#!"
- GOVERNMENT_WRONG_HOLDING_TYPE:0 "@warning_icon!#X Due to being the wrong holding type for [CHARACTER.GetShortUIName], the holding produces no levies or taxes#!"
+ GOVERNMENT_WRONG_HOLDING_TYPE:0 "@warning_icon!#X [CHARACTER.GetShortUIName]にとって適切なholdingの種類ではないため、このholdingは全く税や徴募兵を拠出しません#!"
  SUPPLY_LIMIT_TOOLTIP:0 "#T [supply_limit|E]: $VALUE|V$#!"
  BASE_SUPPLY:0 "基本的な供給"
  SUPPLY_FROM_DEVELOPMENT:0 "[development|E]"

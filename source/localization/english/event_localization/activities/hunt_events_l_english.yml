@@ -106,7 +106,7 @@
  hunt.4006.desc:0 "森は偽りなく「貧乏人のマント」だ、食糧を探す農民達から[ROOT.Char.Custom('LocalAnimal')]が混乱して逃げるたび、自分の忍耐力が薄れていくのを感じる。\n\n間違いなく、[activity_place.GetNameNoTier]には根やキノコを摘むよりマシなことがあるのに！"
  hunt.4006.a:0 "衛兵よ、私の狩場からあいつらを追い出せ！"
  hunt.4006.b:0 "私たちは「狩り」に来たのだろう？"
- hunt.4006.special_interest:0 "[county_owner.GetHerHis]の異常な関心の為："
+ hunt.4006.special_interest:0 "[county_owner.GetHerHis]の異常な関心の為:"
  hunt.4006.c:0 "Oh, this prey will do just fine..."
  hunt.4006.d:0 "寛大な寄進は彼らを遠ざけることができるはずだ。"
  hunt.4007.t:1 "$hunt_header$ 凶暴な[ROOT.Char.Custom('LocalAnimal')|U]"

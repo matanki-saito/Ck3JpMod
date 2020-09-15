@@ -16,7 +16,7 @@
  great_holy_war.0011.generic.fallback.head.desc:0 "[awakening_faith.GetReligion.GetAdjective]の信者たちは四方八方からの涜神者に悩まされている。[ghw_first_sponsor.GetTitledFirstName]は、全ての[awakening_faith.WarGodName]の戦士が武器を取り、涜神者を宗教的に征服するための壮大な作戦を計画して聖なる地を守る時が来たと判断した。"
  great_holy_war.0011.generic.fallback.desc:0 "我らの聖地を冒涜し、同胞を残忍に扱う涜神者が四方から我々を襲っている。もはや手をこまねいている場合ではない。[awakening_faith.WarGodName]の戦士たちは武器を手に取れ、今こそ一つの目的の下に団結する時だ。"
  great_holy_war.0011.generic.ending.positive:0 "\n\nThis signals the beginning of a new era of great [awakening_faith.GetReligion.GetAdjective] holy wars — the [awakening_faith.GHWNamePlural]."
- great_holy_war.0011.generic.ending.negative:0 "\n\nこれは前例のない[awakening_faith.GetReligion.GetAdjective]の侵攻の始まりかもしれません。"
+ great_holy_war.0011.generic.ending.negative:0 "\n\nこれは前例のない[awakening_faith.GetReligion.GetAdjective]の侵攻の始まりかもしれない。"
  great_holy_war.0011.generic.ending.coreligionist.head:0 "\n\nこのニュースの神学的な影響は、[other_pope.GetTitleTierName]や他の著名な聖職者たちによってすでに議論されているが、[awakening_faith.GetAdherentNamePluralNoTooltip]の例に倣い、[ROOT.Char.GetFaith.GetNameNoTooltip]の名の下に宗教戦争の新時代を始めることを熱望している。"
  great_holy_war.0011.generic.ending.coreligionist.autonomous:0 "\n\nこのニュースの神学的な影響は、すでに何人かの著名な聖職者によって議論されているが、彼らは[awakening_faith.GetAdherentNamePluralNoTooltip]の例に倣い、[ROOT.Char.GetFaith.GetNameNoTooltip]の名の下に宗教戦争の新時代を始めることを熱望している。"
  great_holy_war.0011.directed.a:0 "我が軍も直ちに参加する！"

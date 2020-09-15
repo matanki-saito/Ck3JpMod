@@ -11,7 +11,7 @@
  LIFESTYLE_POINTS_ALREADY_USED_TEXT:0 "[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"
  PERK_TOOLTIP_BASE:0 "#T [Perk.GetNameNoTooltip( Character.Self )]#!\n[Perk.GetEffectDescription( Character.Self )]"
  CHOOSE_PERK_TOOLTIP:0 "$PERK_TOOLTIP_BASE$\n[CharacterLifestyleWindow.CanSelectPerkDesc( Perk.Self )]\n#I クリックで解除#!"
- CHOOSE_PERK_UNLOCK_TEXT:0 "#I クリックしてアンロック#!"
+ CHOOSE_PERK_UNLOCK_TEXT:0 "#I クリックでアンロック#!"
  CHOOSE_PERK_CONFIRM_TITLE:0 "[PERK.GetName( GetPlayer )]をアンロック"
  CHOOSE_PERK_CONFIRM_DESC:0 "[PERK.GetEffectDescription( GetPlayer )]"
  CHOOSE_PERK_CONFIRM_ACCEPT:0 "アンロック"

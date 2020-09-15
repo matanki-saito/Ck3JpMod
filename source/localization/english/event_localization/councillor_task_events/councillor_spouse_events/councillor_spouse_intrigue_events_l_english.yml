@@ -9,7 +9,7 @@
  councillor_spouse_intrigue.1001.t:1 "配偶者: 誰も信頼していない"
  councillor_spouse_intrigue.1001.desc:0 "\"You have to be careful about the people you surround yourself with.\" The expression in my [ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('councillor'))] eyes is deathly serious. \"I have discovered that even as we speak, [spymaster.GetTitledFirstName] is scheming against you!\"\n\nCould it really be? My own [spymaster.GetCouncilTitle]?!"
  councillor_spouse_intrigue.1001.a:0 "私は愚か者に騙されたのだ！"
- councillor_spouse_intrigue.1002.t:1 "配偶者：噂と憶測をもっている"
+ councillor_spouse_intrigue.1002.t:1 "配偶者: 噂と憶測をもっている"
  councillor_spouse_intrigue.1002.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))] [councillor.Custom('quirk_pos_present')] in the way [councillor.GetSheHe] so often does when [councillor.GetSheHe] has something to share. \"You know the rumors about [target.GetTitledFirstName], that [target.GetSheHe] is hiding something terrible?\" I lean in closer as [councillor.GetSheHe] lowers [councillor.GetHerHis] voice. \"They are all true. All we need is proof.\""
  councillor_spouse_intrigue.1002.a:0 "いよいよスパイ活動の時間だ、我が[councillor.Custom('LoverPetName')]よ！"
  councillor_spouse_intrigue.1002.b:0 "それがなにかを目にせねばならないだろう。"

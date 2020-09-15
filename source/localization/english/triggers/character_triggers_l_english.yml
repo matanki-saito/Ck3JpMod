@@ -150,7 +150,7 @@
  I_AM_CLAIMANT_TRIGGER:1 "あなたが請求者である"
  NOT_I_AM_CLAIMANT_TRIGGER:1 "あなたが請求者では#bold ない#!"
  HAS_CLAIM_TRIGGER:0 "この伯爵領への請求権を持っている"
- I_HAVE_CLAIM_TRIGGER:0 "あなたがこの伯爵領への請求権を持っている"
+ I_HAVE_CLAIM_TRIGGER:0 "あなたはこの伯爵領への請求権を持っている"
  THEY_HAVE_CLAIM_TRIGGER:0 "[CHARACTER.GetShortUIName|U]がこの伯爵領への請求権を持っている"
  HAS_STRONG_CLAIM_TRIGGER:0 "[pressed_claim|E]を持っている"
  I_HAVE_STRONG_CLAIM_TRIGGER:0 "あなたが[pressed_claim|E]を持っている"

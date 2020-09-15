@@ -64,7 +64,7 @@
  CREATE_TITLE_TOOLTIP_PRESTIGE_GAIN:1 "作成されたとき、あなたは[prestige_i]$PRESTIGE|0V$を得ます"
  CREATE_TITLE_COST:0 "コスト: [gold_i]$GOLD|0V$"
  CREATE_TITLE_WOULD_GO_INDEPENDENT:1 "Title has same or higher tier than the primary title of your [liege|E]"
- USURP_TITLE_TOOLTIP_PRESTIGE_GAIN:0 "簒奪時：\nあなたは[prestige_i]$PRESTIGE|0V$を獲得する"
+ USURP_TITLE_TOOLTIP_PRESTIGE_GAIN:0 "簒奪時:\nあなたは[prestige_i]$PRESTIGE|0V$を獲得する"
  USURP_TITLE_HOLDER_OPINION:2 "[TITLE.GetHolder.GetName]があなたへの評価$OPINION_CHANGE|N$を失います"
  USURP_TITLE_PRIMARY_IN_WAR:1 "@warning_icon!#X 戦争中の相手から[primary_title|E]を簒奪することはできません#!"
  USURP_TITLE_LIEGE_OR_ABOVE:0 "@warning_icon!#X あなたの[liege|E]が保有する称号を簒奪することはできません#!"
