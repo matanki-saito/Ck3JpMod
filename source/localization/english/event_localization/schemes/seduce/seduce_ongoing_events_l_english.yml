@@ -4,7 +4,7 @@
  seduce_ongoing_decline_event.tt:0 "[target.GetTitledFirstName]に感動を与えるこの機会を捨てる"
  seduce_ongoing_possible_outcomes_tooltip_effect.success.desc:0 "すべてが計画通りに進む"
  seduce_ongoing_possible_outcomes_tooltip_effect.failure.desc:0 "[target.GetFirstNameNoTooltip]は感動しない"
- seduce_ongoing.1001.t:0 "The Dance"
+ seduce_ongoing.1001.t:0 "ダンス"
  seduce_ongoing.1001.distant_opening:0 "I have made my way to the court in [court_of_residence.GetNameNoTier] in time for the dance at the [court_owner.Custom('ResidenceBuilding')]. I secured an invitation, for I have to see [target.GetTitledFirstName]."
  seduce_ongoing.1001.close_opening:0 "I am attending the dance not simply because I am the [ROOT.Char.GetLadyLord|U] of the [court_owner.Custom('ResidenceBuilding')], but because I want to see [target.GetTitledFirstName] there."
  seduce_ongoing.1001.desc:0 "\n\n[target.GetSheHe|U] looks resplendent, and when we finally have a moment to ourselves, I offer my suggestion."

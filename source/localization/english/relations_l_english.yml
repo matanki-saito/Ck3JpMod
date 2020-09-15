@@ -296,7 +296,7 @@
  FRAME_RELATION_FAMILY_BASTARD:1 "#T あなたの家族の違法な[bastard|E] #!"
  FRAME_RELATION_FAMILY:0 "#T あなたの家族のメンバー#!"
  FRAME_RELATION_HOUSE_MEMBER:0 "あなたの[house|E]のメンバー"
- FRAME_RELATION_NOT_HOUSE_MEMBER:0 "Not a member of your [house|E]"
+ FRAME_RELATION_NOT_HOUSE_MEMBER:0 "あなたの[house|E]に属していない"
  FRAME_RELATION_BASTARD:1 "違法な[bastard|E]"
  FRAME_RELATION_LEGITIMIZAD_BASTARD:0 "[legitimized_bastard|E]"
  FRAME_RELATION_MY_FAMILY:0 "あなたの$RELATION$"

@@ -10,7 +10,7 @@
  game_concept_vassalize:0 "属国化"
  game_concept_vassalization:0 "属国関係"
  game_concept_vassal_desc:1 "$game_concept_vassal$は、他の支配者―[liege|E]―に忠誠を誓った[ruler|E]である。\n\n$game_concept_vassal$は、保護と引き換えに、[levies|E]と[taxes|E]を[obligations|E]として君主に提供する。\n\nもし君主に対する$game_concept_vassal$の[opinion|E]が低い場合、[factions|E]に参加したり、[scheme|E]に参加して君主を他の人に代えようとする。"
- game_concept_ruler:0 "支配者"
+ game_concept_ruler:0 "統治者"
  game_concept_rulers:0 "統治者"
  game_concept_rulerpossessive:0 "統治者"
  game_concept_ruler_desc:0 "$game_concept_ruler$は最低でも一つの[title|E]を保有する人物をさします。"

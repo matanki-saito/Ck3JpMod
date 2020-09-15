@@ -1,8 +1,8 @@
 ﻿l_english:
  SELECT_CHARACTER_ON_MAP:0 "Choose a Character on the Map."
  PICK_ANY_CHARACTER:1 "[GameSetup.GetSelectedBookmark.GetDate.GetYear]年の任意の統治者で開始する"
- BOOKMARK_DISABLED:0 "This Bookmark is disabled"
- BOOKMARK_NOT_PICKED_CHARACTER:0 "Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."
+ BOOKMARK_DISABLED:0 "このブックマークは無効です"
+ BOOKMARK_NOT_PICKED_CHARACTER:0 "ゲーム開始前にブックマークで人物を選択してください。または、「任意の人物を選択」をクリックして自由に選択してください。"
  SINGLEPLAYER:0 "シングルプレイ"
  GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Crusader Kings III へようこそ"
  GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "Crusader Kings III は一族と策略を主軸とした奥深い戦略ゲームです！"

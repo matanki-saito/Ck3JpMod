@@ -1,6 +1,6 @@
 ﻿l_english:
  do_not_execute_claim_throne_tooltip:0 "I do not attempt to Claim [target.GetPrimaryTitle.GetName]"
- claim_throne_outcome.1001.t:0 "Claim Throne"
+ claim_throne_outcome.1001.t:0 "玉座の要求"
  claim_throne_outcome.1001.desc:0 "私の懸命な努力の結果、ついに私が「出会った」証拠を提示する時が来た。それはつまり、私が古い王朝の結婚を通して[target_title.GetName]の正当な相続人であることだ。\n\n[target.GetSheHe]が私の邪魔をしている限り、[target.GetTitledFirstName]は単なる王位詐称者にすぎない！"
  claim_throne_outcome.1001.a:0 "I will soon be [target.GetTitleAsNameNoTooltip]!"
  claim_throne_outcome.1001.b:0 "Perhaps I am being too rash..."

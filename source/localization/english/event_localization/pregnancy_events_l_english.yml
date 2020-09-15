@@ -65,7 +65,7 @@
  pregnancy.3001.t:0 "男女の過ち"
  pregnancy.3001.opening:0 "[mother.GetTitledFirstNamePossessive]のお腹が大きくなっている、疑いようもない。子ができたのだ！"
  pregnancy.3001.lovers_love:0 "[mother.GetSheHe|U]は何も言わなかったが、これは私たちの愛の結果なのだろうか？"
- pregnancy.3001.lovers_not_love:0 "[mother.GetSheHe|U]は何も言っていませんが、もしかして肉体関係の結果なのでしょうか？"
+ pregnancy.3001.lovers_not_love:0 "[mother.GetSheHe|U]は何も言わなかったが、これは私たちの肉体関係の結果なのだろうか？"
  pregnancy.3001.not_lovers:0 "[mother.GetSheHe|U]は​​何も言わなかったが、これは私たちの最近の逢瀬の結果なのだろうか？"
  pregnancy.3001.a:0 "自分で聞いてみなければ。"
  pregnancy.3001.a.tt:1 "あなたは子供の事について[mother.GetFirstNameNoTooltip]と話し合います。"

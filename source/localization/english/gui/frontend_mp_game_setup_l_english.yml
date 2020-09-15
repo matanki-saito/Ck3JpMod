@@ -1,5 +1,5 @@
 ﻿l_english:
- FRONTEND_MP_GAME_SETUP_SELECT_BOOKMARK:0 "@warning_icon! #X No bookmark or save game selected#!"
+ FRONTEND_MP_GAME_SETUP_SELECT_BOOKMARK:0 "@warning_icon!#X ブックマークまたはセーブゲームが選択されていません#!"
  FRONTEND_MP_GAME_SETUP_HOST_HEADER:0 "Host Multiplayer Game"
  FRONTEND_MP_GAME_SETUP_HOST_NEW_GAME:0 "新しいゲーム"
  FRONTEND_MP_GAME_SETUP_HOST_SAVED_GAME:0 "ゲームをロード"

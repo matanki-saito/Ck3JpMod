@@ -69,7 +69,7 @@
  lesson_declare_war:0 "宣戦布告"
  lesson_raise_troops:0 "軍勢の召集"
  lesson_army_movement:0 "進軍"
- lesson_army_purpose:0 "Army Purpose"
+ lesson_army_purpose:0 "軍勢の目標"
  lesson_battle_mechanics:0 "戦闘"
  lesson_siege_mechanics:0 "攻囲戦"
  lesson_warscore:0 "戦勝点"

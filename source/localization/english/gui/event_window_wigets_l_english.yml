@@ -11,4 +11,4 @@
  event_window_widget_stress_new_level:0 "右記の[stress_level|E]に到達:#V [Character.GetStressLevel]#!"
  event_window_widget_max_stress:0 "#X [stress_level|E]が最大値に到達#!"
  event_window_widget_scheme_show_in_list:0 "計画リストを表示"
- event_window_widget_enter_text_prompt:0 "Enter Text:"
+ event_window_widget_enter_text_prompt:0 "テキストを入力:"

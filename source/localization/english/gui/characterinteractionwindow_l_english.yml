@@ -1,5 +1,5 @@
 ﻿l_english:
- GOTO_CHARACTER:0 "#T Go to [Character.GetShortUINamePossessiveNoTooltip] location#!\n[Character.GetLocationDesc]"
+ GOTO_CHARACTER:0 "#T [Character.GetShortUINamePossessiveNoTooltip]の場所へ移動#!\n[Character.GetLocationDesc]"
  CHARACTER_INTERACTION_ITEM_TOOLTIP_HEADER:0 "$NAME|T$"
  SHOW_MORE_INTERACTIONS_TT:0 "#T Show more [CharacterInteractionCategory.GetDescription]#!"
  PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Unpin', 'Pin' )]\n#!画面右側のアウトライナーに[Character.GetHerHim]を固定し、このキャラクターを追跡できるようにします"

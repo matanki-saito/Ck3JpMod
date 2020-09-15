@@ -263,7 +263,7 @@
  stewardship_duty_special.2011.b:0 "[vassal_1.GetFirstNameNoTooltip] will be compensated for any loss."
  stewardship_duty_special.2011.c:0 "[vassal_2.GetFirstNameNoTooltip] is #EMP very#! eager for me to make the right and just call..."
  statecraft_mediation_debug_improve_contract:0 "#D Improve Feudal Contract with [vassal_2.GetTitledFirstName]#!"
- stewardship_duty_special.2012.t:0 "村落：家族紛争"
+ stewardship_duty_special.2012.t:0 "村落：家族争議"
  stewardship_duty_special.2012.desc:0 "The day's discussions between [vassal_1.GetTitledFirstName] and [vassal_2.GetTitledFirstName] have not started well.\n\n\"Ever since you were handed grandfather's shield—\"\n\"The shield again, truly? Here, at the [ROOT.Char.GetTitlePossessive] court?!\""
  stewardship_duty_special.2012.a:0 "Family must bind us together, not split us apart."
  stewardship_duty_special.2012.a.success:0 "Wise Words"

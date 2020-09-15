@@ -1,5 +1,5 @@
 ﻿l_english:
- CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon!#X Is not in [CHARACTER.GetShortUINamePossessive] realm#!"
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon!#X [CHARACTER.GetShortUINamePossessive]の領国内ではありません#!"
  CREATE_CLAIMANT_FACTION_NO_CLAIMANT_UNLANDED:0 "@warning_icon!#X Is not unlanded#!"
  CREATE_CLAIMANT_FACTION_INVITE:0 "#T 請求者として招く#!"
  CREATE_CLAIMANT_FACTION_SELECT_CLAIMANT:0 "@warning_icon!#X 請求者が選択されていません#!"

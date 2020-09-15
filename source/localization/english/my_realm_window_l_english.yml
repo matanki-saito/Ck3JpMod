@@ -43,7 +43,7 @@
  VASSAL_CONTRACT_OBLIGATION_LEVEL_LEVIES_EFFECT_TOOLTIP_CURRENT:0 "徴募兵: $LEVIES|%1V$"
  VASSAL_CONTRACT_OBLIGATION_PREVIEW_TOOLTIP_CURRENT:0 "#weak 現在の義務レベルです#!"
  VASSAL_CONTRIBUTION_NON_RIGHTFUL_LIEGE:0 "[rightful_liege|E]でない"
- VASSAL_CONTRIBUTION_AT_WAR_WITH_LIEGE:0 "At [war|E] with [liege|E]"
+ VASSAL_CONTRIBUTION_AT_WAR_WITH_LIEGE:0 "[liege|E]と[war|E]中"
  MRW_YOUR_PLAYER_HEIR:1 "あなたが死亡したとき、[player_heir|E]としてプレイします"
  MRW_INHERITED_TITLES:0 "Inherited [titles|E]"
  MY_REALM_WINDOW_NO_HEIR_FLAVOR:1 "@warning_icon!#X あなたには後継者がいません。ゲームはあなたが死ねば終了するでしょう#!"
