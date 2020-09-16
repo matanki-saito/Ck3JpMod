@@ -13,7 +13,7 @@
  MAA_SCREEN_DIFF:0 "$EFFECT_LIST_BULLET$[screen|E]: $VALUE|0+=$"
  MAA_COUNTERS_EFFECT:0 "$EFFECT_LIST_BULLET$$TYPE|V$への迎撃"
  MAA_COUNTERS_EFFECT_SHORT:0 "$TYPE|V$"
- MAA_COUNTERS_LABEL:0 "[RegimentType.GetNameNoTooltip]はこのタイプの[counters|E]ユニットです:\n[RegimentType.GetCountersString]"
+ MAA_COUNTERS_LABEL:0 "[RegimentType.GetNameNoTooltip]はこのタイプの[counters|E]ユニット:\n[RegimentType.GetCountersString]"
  MAA_COUNTER_SHORT_LIST:1 "$LIST$"
  MAA_COUNTER_NONE:0 "#weak なし#!"
  MAA_TERRAIN_EFFECT_FORMAT:0 "$EFFECT_LIST_BULLET$$TERRAIN_TYPE|V$において:$LIST$"

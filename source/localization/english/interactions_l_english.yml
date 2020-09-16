@@ -902,7 +902,7 @@
  SCHEME_PREDICTION_NAME:0 "[InteractionSchemeInfo.GetScheme.GetActionName] [InteractionSchemeInfo.GetTarget.GetTitledFirstNameNoTooltip]"
  INTERACTION_START_SCHEME:0 "[scheme]の開始"
  SCHEME_PREDICTION_AGENTS:1 "予測されるスパイ: #high [InteractionSchemeInfo.GetNumberOfPotentialAgents]#!"
- SCHEME_PREDICTION_AGENTS_TT:0 "#T [agents|E] predicted to join:\n#![InteractionSchemeInfo.BuildPotentialAgents]"
+ SCHEME_PREDICTION_AGENTS_TT:0 "#T 加担を見込める[agents|E]:\n#![InteractionSchemeInfo.BuildPotentialAgents]"
  SCHEME_PREDICTION_NO_AGENTS:0 "#weak なし#!"
  SCHEME_PREDICTION_AGENT:0 "[CHARACTER.GetShortUIName|U]\n"
  SCHEME_PREDICTION_NO_CHANCE:0 "#X @warning_icon!成功する可能性はありません#!\n"

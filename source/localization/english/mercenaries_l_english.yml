@@ -251,7 +251,7 @@
  mercenary_company_host_of_varangians_article:0 ""
  mercenary_company_huscarls_of_the_sea:0 "Huscarls of the Sea"
  mercenary_company_huscarls_of_the_sea_article:0 ""
- mercenary_company_immortals_of_place:0 "Immortals of [TITLE.GetNameNoTierNoTooltip]"
+ mercenary_company_immortals_of_place:0 "[TITLE.GetNameNoTierNoTooltip]の不死隊"
  mercenary_company_immortals_of_place_article:0 ""
  mercenary_company_iron_arms_company:0 "Iron Arm's Company"
  mercenary_company_iron_arms_company_article:0 ""

@@ -554,7 +554,7 @@
  emperor_modifier:0 "皇帝"
  diplomacy_effect_desc:0 "外交[schemes|E]の効果が向上"
  martial_effect_desc:0 "戦闘で軍を指揮する際の[advantage|E]が向上"
- intrigue_effect_desc:0 "秘密計画の効率が向上\n他キャラクターの[imprison|E]成功率が向上"
+ intrigue_effect_desc:0 "策略計画の効率が向上\n他キャラクターの[imprison|E]成功率が向上"
  learning_effect_desc:0 "[crown_authority|E]を高めるための[prestige|E]コストを削減\n他キャラクターが[demand_conversion|E]を受け入れやすくなる"
  piety_level_0:1 "咎人"
  piety_level_0_desc:2 "$piety_level_0$は唯一、負の[piety_level|E]です。次のレベルは[GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]です。\n効果:\n[GetPietyLevelDesc('(int32)0')|=+]"
