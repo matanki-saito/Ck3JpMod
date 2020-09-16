@@ -134,7 +134,7 @@
  intrigue_scheme_ongoing.5006.desc:0 "[owner.GetTitledFirstName] has sent me a gift, a lavishly decorated box filled with gold. As I run my hands through the coins I feel as if the rooms starts spinning around me an my breath grow short."
  intrigue_scheme_ongoing.5006.a:0 "How unexpected! And what a curious effect."
  intrigue_scheme_ongoing.5007.t:0 "Tainted Gold"
- intrigue_scheme_ongoing.5007.desc_opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('poisoned'))], [poisoned.GetTitledFirstName], approaches me with sweat beading on [poisoned.GetHerHis] brow and a pale face.\n\n"
+ intrigue_scheme_ongoing.5007.desc_opening:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('poisoned'))]、[poisoned.GetTitledFirstName]が、[poisoned.GetHerHis]の眉に汗をにじませ、青ざめた表情で私に近づいてくる。\n\n"
  intrigue_scheme_ongoing.5007.desc:0 "\"[ROOT.Char.GetMotherFather], something is wrong. My humors have been unbalanced ever since I helped you pack that gift for [target.GetTitledFirstName]...\""
  intrigue_scheme_ongoing.5007.a:0 "What could have... The poisonous gold!"
  intrigue_scheme_ongoing.5007.a.tt:0 "[ROOT.Char.GetFaith.HighGodName] help [poisoned.GetHerHim]!"

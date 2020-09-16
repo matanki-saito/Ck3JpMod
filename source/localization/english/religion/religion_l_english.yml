@@ -656,7 +656,7 @@
  TOO_FEW_SPOUSES_PIETY:0 "過少な配偶者"
  CRUSADER_STATE_CRUSADER_TITLE_NAME:0 "十字軍の[target_kingdom.GetNameNoTier]"
  CRUSADER_STATE_FAITH_TITLE_NAME:0 "[title_recipient.GetFaith.GetAdjective|U][target_kingdom.GetNameNoTier|U]"
- religion_the_gods:0 "the gods"
+ religion_the_gods:0 "神々"
  religion_the_spirits:0 "精霊"
  religion_natural_order:0 "自然の秩序"
  pantheon_term_has:0 "has"
