@@ -150,7 +150,7 @@
  hunt.4010.a.critical_failure:0 "I fail to defend [targeted_participant.GetFirstNameNoTooltip]"
  hunt.4010.b:0 "Good luck, [targeted_participant.GetFirstNameNoTooltip]."
  hunt.4010.b.critical_success:1 "[targeted_participant.GetFirstNameNoTooltip] wounds [schemer.GetFirstNameNoTooltip] and fends [schemer.GetHerHim] off"
- hunt.4010.b.failure:1 "[targeted_participant.GetFirstNameNoTooltip] is wounded but escapes"
+ hunt.4010.b.failure:1 "[targeted_participant.GetFirstNameNoTooltip]は負傷したが逃げおおせた"
  hunt.4010.b.critical_failure:1 "[schemer.GetFirstNameNoTooltip] defeats [targeted_participant.GetFirstNameNoTooltip] and gets rid of any witnesses"
  hunt.4010.failure.murder_secret_tooltip:0 "I learn the Murder Secret"
  hunt.4010.c:0 "Help! [schemer.GetFirstNameNoTooltip] is assaulting my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('targeted_participant'))]!"

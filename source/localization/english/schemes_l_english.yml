@@ -97,7 +97,7 @@
  claim_throne:0 "Claim Throne Scheme"
  claim_throne_desc:0 "I will [claim_the_throne|E] of [SCHEME.GetTarget.GetShortUINameNoTooltip]!"
  claim_throne_desc_general:0 "希望する[title|E]の玉座を要求する。"
- claim_throne_action:0 "Claim the Throne of"
+ claim_throne_action:0 "の玉座を請求"
  claim_throne_successful_roll_tt:1 "[target_title.GetName]に対する[pressed_claim|E]を得ます"
  claim_throne_interaction_desc:0 "Attempt to [claim_the_throne|E] of [recipient.GetPrimaryTitle.GetNameNoTier]"
  claim_throne_success_discovery_tt:0 "\nRegardless of Success or Failure:"

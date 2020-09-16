@@ -52,7 +52,7 @@
  DEJURE_CB_COUNTY_NAME_GENERIC:1 "Seize [de_jure|E] [county|E]"
  DEJURE_CB_WAR_SPECIFIC_NAME:3 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[TITLE.GetBaseName]の慣習的領有権戦争"
  DEJURE_CB_WAR_SPECIFIC_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
- CLAIM_WAR_NAME:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] War for [CLAIMANT.GetShortUINamePossessive] Claim on the [TITLE.GetBaseName]"
+ CLAIM_WAR_NAME:2 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[CLAIMANT.GetShortUINamePossessive]への[TITLE.GetBaseName]請求権戦争"
  CLAIM_CB_NAME:0 "[CLAIMANT.GetShortUINamePossessive|U] [claims|E]"
  CLAIM_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][CLAIMANT.GetShortUIName][TITLE.GetName]"
  CLAIM_WAR_NAME_MY:2 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[TITLE.GetBaseName]請求戦争"

@@ -343,7 +343,7 @@
  FAITH_IS_REFORMED:1 "[CHARACTER.GetFaith.GetName]は[organized|E][faith|E]である"
  NOT_FAITH_IS_REFORMED:1 "[CHARACTER.GetFaith.GetName]は[organized|E][faith|E]ではない"
  FAITH_HAS_BEEN_REFORMED:1 "[FAITH.GetName] [faith|E] is [organized|E]"
- NOT_FAITH_HAS_BEEN_REFORMED:1 "[FAITH.GetName] [faith|E] is not [organized|E]"
+ NOT_FAITH_HAS_BEEN_REFORMED:1 "[FAITH.GetName][faith|E]は[organized|E]でない。"
  tooltip_fellow_vassal_joins_war:0 "[joining_vassal.GetTitledFirstName]は[recipient.GetTitledFirstNamePossessive]反乱に加わるだろう"
  INTERFERE_IN_WAR:0 "Interfere in War"
  INTERFERE_IN_WAR_REJECT_HEADER:1 "あなたが拒否した場合:"

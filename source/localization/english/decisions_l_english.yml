@@ -455,7 +455,7 @@
  found_witch_coven_decision_confirm:0 "[ROOT.Char.GetHouse.GetBaseNameNoTooltip] カヴンを設立しよう"
  found_witch_coven_decision_tooltip:0 "新しい家族の伝統を開始します"
  found_witch_coven_decision_effects.children.tt:0 "[GetTrait('witch').GetName( GetPlayer )]の教育を受けた[founder.GetHouse.GetBaseName]カヴンの子供達は全員魔女になる"
- found_witch_coven_decision_effects.convert.tt:0 "[founder.GetHouse.GetBaseName]カヴンのすべての魔女は、他人を魔力へ変換する試みが成功し易くなります。"
+ found_witch_coven_decision_effects.convert.tt:0 "[founder.GetHouse.GetBaseName]カヴンのすべての魔女は、他人を魔術崇拝へ勧誘する試みが成功し易くなります。"
  found_witch_coven_decision_effects.grand_rite.tt:0 "[founder.GetHouse.GetBaseName]カヴンの[house_head|E]は偉大な儀式の[activity|E]を主催することができる。"
  strengthen_bloodline_decision:0 "血統を強化"
  strengthen_bloodline_decision_desc:0 "活力、美貌、知性はすべて血統の強さの証である。このように祝福された王朝は、これらの贈り物を世代から世代へと伝えるだろう。"

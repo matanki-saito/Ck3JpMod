@@ -252,7 +252,7 @@
  court_ongoing.1211.b.tt:0 "A broom with my cloak on top can fight nightmares just as well."
  court_ongoing.1211.b.success:0 "No one uncovers the ruse"
  court_ongoing.1211.b.failure:0 "[target.GetSheHe|U] notices the deception"
- court_ongoing.1211.c:0 "I will not do it."
+ court_ongoing.1211.c:0 "もう止めよう。"
  court_ongoing.1212.desc:0 "As the sun rises after yet another night of good sleep I can do nothing but thank [owner.GetTitledFirstName] for standing guard outside of my chambers, keeping my rest calm and undisturbed."
  court_ongoing.1212.a:0 "My brave guardian!"
  court_ongoing.1213.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my chambers I see none other than [owner.GetTitledFirstName], fast asleep on the floor."
