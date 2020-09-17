@@ -69,7 +69,7 @@
  stress_threshold.1721.desc.paranoid:0 "cautious [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but I can't predict everything. There are always more traitors to find, more plotters hiding in secret rooms. Other courts never seem to have this much treason, and I can only blame myself for inspiring it."
  stress_threshold.1721.desc.callous:0 "realistic [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but my subjects take everything I do as mean-spirited, fussing about petty trivialities constantly. Others of my station don't seem to have problems controlling their inferiors."
  stress_threshold.1721.desc.compassionate:0 "compassionate [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but others of my station seem to be so much more beloved than I. I just cannot connect with people as well as I would like."
- stress_threshold.1721.desc.fickle:0 "柔軟な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]に。だが何度考えても、いくら新しい情報がたくさん入っても、周りの他人の方が、私よりも臨機応変であるようにに見える。"
+ stress_threshold.1721.desc.fickle:0 "柔軟な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]に。だが何度考えても、いくら新しい情報がたくさん入っても、周りの他人の方が、私よりも臨機応変であるように見える。"
  stress_threshold.1721.desc.vengeful:0 "just [ROOT.GetCharacter.GetTitleAsNameNoTooltip], avenging slights and meting out retribution, but others of my station always seem to deliver vengeance so much swifter."
  stress_threshold.1721.desc.forgiving:0 "forgiving [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but still my subjects are afraid to come to me with their problem. Others of my station seem to be the confidants to hundreds, and I don't know how I can make my people trust me like that."
  stress_threshold.1721.desc.fallback:0 "noble [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but I am riddled with imperfections."
