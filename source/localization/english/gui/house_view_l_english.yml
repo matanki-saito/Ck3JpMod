@@ -34,7 +34,7 @@
  DYNASTY_HOUSE_TT_LIVING_MEMBERS:0 "存命者数: [DynastyHouse.GetNumberOfMembers|V]"
  HOUSE_VIEW_FOUNDING_HOUSE:0 "Founding house"
  HOUSE_HEAD_PRESTIGE_GAIN_CAP:0 "Prestige gain cap"
- DYNASTY_PRESTIGE_LEVEL_EFFECT:0 "•子供は生まれながらにして@prestige_level_2_icon!$BIRTH|V0$\n•この王朝と婚姻を結ぶと@prestige_level_2_icon!$MARRIAGE|0+=$\n•領主は最大で$LONG_REIGN|V0=$の長い統治の評価を得る。"
+ DYNASTY_PRESTIGE_LEVEL_EFFECT:0 "・子供は生まれながらにして@prestige_level_2_icon!$BIRTH|V0$\n・この王朝と婚姻を結ぶと@prestige_level_2_icon!$MARRIAGE|0+=$\n・領主は最大で$LONG_REIGN|V0=$の長い統治の評価を得る。"
  DYNASTY_PRESTIGE_NEXT_LEVEL:0 "\n\n次のレベルは$NEXT$"
  dynasty_level_0_c:1 "@dynasty_prestige_icon_0! [dynasty_prestige_level_0|L]"
  dynasty_level_1_c:1 "@dynasty_prestige_icon_0! [dynasty_prestige_level_1|L]"

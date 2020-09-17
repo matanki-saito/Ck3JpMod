@@ -277,7 +277,7 @@
  seduce_ongoing.4001.desc:0 "[target.Custom('MusicalPerformer')]は間もなく[court_location.GetNameNoTier]の宮廷での上演を行うはずだ。私の愛情の対象である[target.GetTitledFirstName]に捧げるものとなるよう、[dummy_musician_gender.GetHerHim]に演奏を変えてもらうのは容易い要求だろう。"
  seduce_ongoing.4001.a:0 "それは[target.GetLadyLord]への大胆な告白となるだろう！"
  seduce_ongoing.4001.b:0 "[target.GetHerHim]への私の欲望をヴェールに包んだ暗示の方が好みだ。"
- seduce_ongoing.4001.b.failure:0 "The dedication goes unnoticed"
+ seduce_ongoing.4001.b.failure:0 "献身は気づかれない"
  seduce_ongoing.4001.c:0 "こんなことに手を出すべきではないな。"
  seduce_ongoing.4002.desc:0 "There are often performers at court, but this time we were promised something special, and I certainly got it.\n\nAs the [ROOT.Char.Custom('MusicalPerformer')] starts yet another stanza, I try not to show how flattered I am by this dedication, directed at me in front of the entire court."
  seduce_ongoing.4002.a:0 "[owner.GetTitledFirstNameNoTooltip] has truly outdone [owner.GetHerselfHimself]."

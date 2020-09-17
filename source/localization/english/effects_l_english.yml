@@ -1422,7 +1422,7 @@
  CONCEDED_THEIR_RIGHT_TO_EXECUTE_CHARACTER:0 "[TARGET_CHARACTER.GetShortUIName]に対する[CHARACTER.GetHerHis]の[execute_reason|E]を認めた"
  YOU_CONCEDED_YOUR_RIGHT_TO_EXECUTE_CHARACTER:0 "あなたが[TARGET_CHARACTER.GetShortUIName]に対する[execute_reason|E]を認めた"
  CHARACTER_CONCEDED_THEIR_RIGHT_TO_EXECUTE_CHARACTER:0 "[CHARACTER.GetShortUIName|U]が[TARGET_CHARACTER.GetShortUIName]に対する[CHARACTER.GetHerHis]の[execute_reason|E]を認めた"
- I_CREATE_TEMPORAL_HEAD_OF_FAITH:0 "• あなたが[FAITH.GetName]の[head_of_faith|E]の[title|E]を創設する"
+ I_CREATE_TEMPORAL_HEAD_OF_FAITH:0 "・あなたが[FAITH.GetName]の[head_of_faith|E]の[title|E]を創設する"
  expose_lover_secret_custom_tt:0 "@warning_icon!#X [real_father.GetShortUIName|U]は[GetTrait('adulterer').GetName( GetNullCharacter )]として知られるだろう#!"
  GLOBAL_SET_TITLE_NAME_EFFECT:0 "名前が$NAME$に変更される"
  GLOBAL_SET_TITLE_NAME_EFFECT_PAST:0 "名前が変更された"

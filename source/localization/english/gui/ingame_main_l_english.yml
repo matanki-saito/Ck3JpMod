@@ -56,7 +56,7 @@
  PAUSE_GAME:0 "#T ゲームが#V 動いています#!\n#!#I クリックして一時停止#!"
  RENOWN_DYNASTY:0 "[GetPlayer.GetDynasty.GetBaseName]王朝"
  MY_VALUE_LABEL:0 "[PlayerValueItem.GetConcept]: [PlayerValueItem.GetValue]"
- GAINED_BREAKDOWN_LABEL_LINK:0 "Total Gained"
+ GAINED_BREAKDOWN_LABEL_LINK:0 "総獲得量"
  LOST_BREAKDOWN_LABEL_LINK:0 "Total Lost"
  TOTAL_BREAKDOWN_LABEL:0 "[PlayerValueItem.GetBalanceTotal]"
  MONTHLY_BREAKDOWN_ITEM:0 "$VALUE|+=$/月"

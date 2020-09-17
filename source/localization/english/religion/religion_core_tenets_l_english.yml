@@ -127,7 +127,7 @@
  tenet_warmonger_desc:0 "信仰と戦争は手を取り合って行われる。神の名の下に戦うことを拒否する者は、真の信者とは呼べない。"
  doctrine_parameter_conquest_cb_enabled:0 "[rulers|E]は、隣接領土に対する征服の[casus_belli|E]を有します"
  doctrine_parameter_invasion_cb_enabled:0 "威信ある[rulers|E]は、生涯一度きり、侵略の[casus_belli|E]を行使可能です"
- doctrine_parameter_great_holy_wars_active_if_reformed:1 "If one exists, the [head_of_faith|E] can declare [great_holy_wars|E], provided this [faith|E] is [organized|E]"
+ doctrine_parameter_great_holy_wars_active_if_reformed:1 "この宗派が[organized|E]された[faith|E]であり、[head_of_faith|E]が存在している場合、[head_of_faith|E]は[great_holy_wars|E]を宣言することが出来る"
  tenet_ancestor_worship_name:0 "祖先崇拝"
  tenet_ancestor_worship_desc:0 "私たちの祖先は、墓の向こうから私たちを見守り、私たちを導き、前進の道を教えてくれます。それ故に、私たちは彼らを尊重し、称えなければならない。"
  tenet_adorcism_name:0 "精霊憑依"

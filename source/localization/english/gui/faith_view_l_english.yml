@@ -50,7 +50,7 @@
  VASSAL_WILL_NOT_CONVERT_FAITH:0 "#N 改宗しないだろう（$VALUE|0$）#!"
  VASSAL_CONVERSION_HEADER:0 "改宗するであろう封臣"
  VASSAL_CONVERSION_TOOLTIP:0 "#T $VASSAL_CONVERSION_TEXT$#!"
- FAITH_CREATION_ADOPTION:0 "Realm Adoption"
+ FAITH_CREATION_ADOPTION:0 "領国での採用"
  FAITH_CREATION_ADOPTION_TEXT:0 "私の[close_family|E]が改宗します\n[VassalConversionWindow.GetNumberOfVassals] 人の[vassals|E]のうち[VassalConversionWindow.GetNumberOfVassalsToConvert]人が改宗します。"
  FAITH_CREATION_STARTING_FERVOR:0 "開始時の[fervor|E]"
  FAITH_CREATION_TOLERANCE:0 "古い信仰への寛容"

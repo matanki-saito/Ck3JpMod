@@ -1,6 +1,6 @@
 ﻿l_english:
  vassal_interaction.0001.opening:0 "[actor.Custom2('GreetingToVassal', ROOT.Char)]"
- vassal_interaction.0001.desc:0 "I demand that you cease your war upon [defender.GetTitledFirstName] of the [defender.GetPrimaryTitle.GetName] immediately!\n\nThe realm endures when we stand together, not divided."
+ vassal_interaction.0001.desc:0 "あなたの[defender.GetPrimaryTitle.GetName]の[defender.GetTitledFirstName]に対する戦争を直ちに中止することを要求する！\n\n我々が共に立ち上がれば、領国は分断されることなく存続する。"
  vassal_interaction.0001.a:0 "仰せのままに、我が君。"
  vassal_interaction.0001.b:0 "これは名誉の問題であり、簡単に諦めることはできない"
  vassal_interaction.0001.request_favor_tt:0 "引き換えに[favor|E]を要求する"
