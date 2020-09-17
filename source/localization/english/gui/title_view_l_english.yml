@@ -139,7 +139,7 @@
  TITLE_VIEW_GO_TO_HOLDING:0 "#I クリックで区画ビューに移動#!"
  TITLE_VIEW_DE_JURE_TITLES:0 "[TITLE.GetBaseName]における$TIER$の[de_jure|E]"
  TITLE_VIEW_DE_JURE_BARONIES:0 "[TITLE.GetName]内の[baronies|E]"
- TITLE_VIEW_TITULAR:0 "[TitleViewWindow.GetTitle.GetNameNoTooltip] has no [de_jure|E] Titles below it"
+ TITLE_VIEW_TITULAR:0 "[TitleViewWindow.GetTitle.GetNameNoTooltip]の下には[de_jure|E]の称号が無い"
  TITLE_VIEW_BARONY_NO_DEJURE:0 "[baronies|E]がその下に[de_jure|E]の称号を持つことはありません"
  TITLE_VIEW_DE_JURE_CAPITAL:0 "[de_jure_capital|E]:"
  TITLE_VIEW_DE_JURE_PART_OF:1 "以下の[de_jure|E]の一部:"

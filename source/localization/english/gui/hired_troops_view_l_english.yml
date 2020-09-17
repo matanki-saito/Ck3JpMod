@@ -16,7 +16,7 @@
  HIRED_TROOPS_VIEW_HO_PATRON:0 "後援者: [HiredTroop.GetHolyOrderPatron.GetUIName]"
  HIRED_TROOPS_VIEW_MC_CAPTAIN_LABEL:0 "傭兵団長"
  HIRED_TROOPS_VIEW_HO_GRANDMASTER_LABEL:0 "Grandmaster"
- HIRED_TROOPS_VIEW_MC_HIRE_INFO:1 "[HiredTroop.GetMercenaryCompany.GetCostDesc] for a [HiredTroop.GetMercenaryCompany.GetHireDurationDesc] [Concept( 'mercenary_contract', 'Contract' )|E]"
+ HIRED_TROOPS_VIEW_MC_HIRE_INFO:1 "[HiredTroop.GetMercenaryCompany.GetCostDesc]で[HiredTroop.GetMercenaryCompany.GetHireDurationDesc]間の[Concept( 'mercenary_contract', '契約' )|E]"
  HIRED_TROOPS_VIEW_HO_HIRE_INFO:0 "[HiredTroop.GetHolyOrder.GetCostDescForPlayer]"
  HIRED_TROOPS_VIEW_MC_HIRED_TIME_LEFT:0 "雇用期間は残り[MercenaryCompany.GetHiredTimeLeft]です"
  HIRED_TROOPS_VIEW_HIRE:0 "雇用"

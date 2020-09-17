@@ -224,7 +224,7 @@
  death_management.4002.dislike_opening:0 "Your blood might run through my veins, but you were no true [dead_character.Custom('MotherFather')] of mine."
  death_management.4002.dislike_my_prison:0 "I felt nothing but relief as you passed away as my prisoner. Finally, your shadow no longer looms over my shoulder."
  death_management.4002.dislike:0 "I felt nothing at your passing as a prisoner of [house_arrest_holder.GetTitledFirstName] but relief. Finally, your shadow no longer looms over my shoulder."
- death_management.4002.a:0 "I will always love you, [dead_character.Custom('MotherFather')]."
+ death_management.4002.a:0 "[dead_character.Custom('MotherFather')]よ、いつまでも愛している。"
  death_management.4002.b:0 "I guess I will never know..."
  death_management.4002.c:0 "[dead_character.Custom('MotherFather')]よ、安らかに眠れ。"
  death_management.4002.d:0 "I... I want my [dead_character.Custom('MotherFather')]!"

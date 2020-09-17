@@ -30,7 +30,7 @@
  suggestion_increase_opinion_desc:0 "あなたの[actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))][recipient.GetShortUIName]のあなたへの[opinion|E]が低いです。[personal_scheme|E]によってあなたへの評価を向上させることで、もう少し生きやすくなるかもしれません。"
  suggestion_increase_opinion_click:0 "#I クリックで懐柔画面を開く#!"
  suggestion_raid_label:0 "襲撃"
- suggestion_raid:0 "提案: [landed_title.GetNameNoTierNoTooltip]を襲撃しましょう"
+ suggestion_raid:0 "提案: [landed_title.GetNameNoTierNoTooltip]を略奪しましょう"
  suggestion_raid_desc:0 "[raid|E]のために軍勢を[landed_title.GetNameNoTierNoTooltip]に送ると、$game_concept_raid_loot$を得られます。"
  suggestion_raid_click:0 "#I クリックで軍事画面を開く#!"
  suggestion_grant_title_label:0 "称号の授与"

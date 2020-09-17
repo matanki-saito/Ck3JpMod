@@ -13,7 +13,7 @@
  DOCTRINE_ADD_VIRTUE:0 "$EFFECT_LIST_BULLET$[TRAIT.GetName( GetPlayer )]を[virtue|E]とします\n"
  DOCTRINE_ADD_SIN:0 "$EFFECT_LIST_BULLET$[TRAIT.GetName( GetPlayer )]を[sin|E]とします\n"
  DOCTRINE_ADD_VIRTUES:0 "#indent_newline:2 $EFFECT_LIST_BULLET$以下の特性を[virtues|E]とします: $TRAITS$\n以下の効果があります:#!\n"
- DOCTRINE_ADD_SINS:0 "#indent_newline:2 $EFFECT_LIST_BULLET$以下の特性を[sins|E]とします:$TRAITS$\n以下の効果があります:#!\n"
+ DOCTRINE_ADD_SINS:0 "#indent_newline:2 $EFFECT_LIST_BULLET$以下の特性を[sins|E]とします: $TRAITS$\n以下の効果があります:#!\n"
  DOCTRINE_VIRTUE_SIN_TRAIT_ENTRY:0 "[TRAIT.GetName( GetPlayer )]"
  REL_HEAD_TITLE_NAME:1 "[my_faith.GetAdjectiveNoTooltip|U]の[my_faith.ReligiousHeadTitleName|U]"
  HOLY_SITE_UNDER_CONTROL:0 "#P [FAITH.GetName]により支配されている#!"

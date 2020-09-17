@@ -1,7 +1,7 @@
 ﻿l_english:
- tribal_reform_clan:0 "clan"
- tribal_reform_feudal:0 "feudal"
+ tribal_reform_clan:0 "氏族"
+ tribal_reform_feudal:0 "封建制"
  government_authority_tribe:0 "[tribal_authority|E]"
  government_authority_crown:0 "[crown_authority|E]"
- government_authority_revoke_retract_tribe:0 "high"
- government_authority_revoke_retract_crown:0 "limited"
+ government_authority_revoke_retract_tribe:0 "高い"
+ government_authority_revoke_retract_crown:0 "限定的な"

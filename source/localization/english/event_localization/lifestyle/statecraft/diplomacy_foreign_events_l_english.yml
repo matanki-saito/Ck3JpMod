@@ -1,5 +1,5 @@
 ﻿l_english:
- diplomacy_foreign.1074.t:0 "Religious Refugees"
+ diplomacy_foreign.1074.t:0 "宗教的難民"
  diplomacy_foreign.1074.desc:0 "[heretic_ruler.GetTitledFirstName] rules over the nearby [target_county.GetName], which is home to a large number of devout [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]. The [heretic_ruler.GetFaith.GetAdherentName] [heretic_ruler.GetTitleAsName] could easily persecute the faithful [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] living there, and it is my responsibility to protect them from [heretic_ruler.GetHerHis] [ROOT.GetCharacter.Custom2('ToleranceValue', SCOPE.sC('heretic_ruler'))] influence."
  diplomacy_foreign.1074.a:0 "We cannot allow [heretic_ruler.GetHerHim] to oppress the faithful!"
  diplomacy_foreign.1074.b:0 "Smuggle as many [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] as we can to safety."

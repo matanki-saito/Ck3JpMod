@@ -8,7 +8,7 @@
  ACHIEVEMENT_FILTER_UNLOCKED:2 "達成した実績を表示"
  ACHIEVEMENT_FILTER_LOCKED:1 "未達成の実績を表示"
  ACHIEVEMENT_GROUP_TITLE:0 "[Group.GetName] - [Group.CalcNumberOfUnlockedAchievements] / [Group.GetNumberOfAchievements]"
- ACHIEVEMENT_GROUP_TOOLTIP:0 "[Group.GetName]内の#V [Group.GetNumberOfAchievements]#!個の実績のうち#V [Group.CalcNumberOfUnlockedAchievements]#!が解除されています。"
+ ACHIEVEMENT_GROUP_TOOLTIP:0 "[Group.GetName]に属する#V [Group.GetNumberOfAchievements]#!個の実績のうち#V [Group.CalcNumberOfUnlockedAchievements]#!が解除されています。"
  ACHIEVEMENT_FILTER_ALL:0 "全ての実績を表示"
  ACHIEVEMENT_UNAVAILABLE_TT:0 "実績をロードできません。インターネット接続を確認してください。"
  ACHIEVEMENT_UNAVAILABLE_PLAZA_TT:0 "実績をロードできません。 Paradox Plazaにサインインしてください。"

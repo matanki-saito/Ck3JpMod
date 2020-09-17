@@ -47,7 +47,7 @@
  dynasty_level_8_c:1 "@dynasty_prestige_icon_4! [dynasty_prestige_level_8|L]"
  dynasty_level_9_c:1 "@dynasty_prestige_icon_4! [dynasty_prestige_level_9|L]"
  dynasty_level_10_c:1 "@dynasty_prestige_icon_5! [dynasty_prestige_level_10|L]"
- dynasty_level_11_c:0 "#weak Highest Level Reached#!"
+ dynasty_level_11_c:0 "#weak 最高レベルに到達#!"
  RENAME_HOUSE_TITLE:0 "[DYNASTY_HOUSE.GetName]の名前を変更"
  RENAME_HOUSE_DESC:0 "Change our [house|E] name and motto"
  RENAME_HOUSE_ACCEPT:0 "名前を変更"

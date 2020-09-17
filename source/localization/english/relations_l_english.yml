@@ -302,7 +302,7 @@
  FRAME_RELATION_MY_FAMILY:0 "あなたの$RELATION$"
  FRAME_RELATION_POWERFUL_VASSAL:1 "#T 有力な封臣#!\nこの[ruler|E]はあなたに何も期待していない[powerful_vassal|E]です。"
  FRAME_RELATION_HAPPY_POWERFUL_VASSAL:1 "#T 有力な封臣#!\nこの[ruler|E]は[powerful_vassal|E]であり、[council|E]に留まることを期待しています"
- FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T Powerful Vassal#!\n@warning_icon!#X This [ruler|E] is a [powerful_vassal|E] who has a lowered [opinion|E] of you because you have not granted them a position on your [council|E]#!"
+ FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T 有力な封臣#!\n@warning_icon!#X この[ruler|E]は[council|E]に席を与えられていないためあなたに低い[opinion|E]を持っている[powerful_vassal|E]です。#!"
  relation_my_love:0 "my love"
  relation_my_friend:0 "我が友"
  relation_my_title_foreign:0 "殿下"

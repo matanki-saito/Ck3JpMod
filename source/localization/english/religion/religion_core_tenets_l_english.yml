@@ -135,7 +135,7 @@
  doctrine_parameter_spirit_possession_active:1 "Enables the 'Seek Aid of The Spirits' [decision|E]"
  tenet_ritual_celebrations_name:0 "祝祭儀式"
  tenet_ritual_celebrations_desc:1 "神への崇拝は、我々のコミュニティの中で高められ、共有されるものである。神様を称え、賛美する祭礼を行うことで我々は1つになる。"
- doctrine_parameter_mandatory_feast_attendance:0 "[vassals|E] are more likely to attend your Feasts. Those who still refuse to come will lose [piety|E] for doing so."
+ doctrine_parameter_mandatory_feast_attendance:0 "[vassals|E]が祝宴により参加しやすくなります。それでも参加を拒んだ者は[piety|E]を失います。"
  tenet_sky_burials_name:0 "鳥葬"
  tenet_sky_burials_desc:1 "死者は地中に投獄されるべきではない—鳥に食べられるようにした方がはるかに良いことであり、この惜しみ無い最後の行為によって、自らを育んだ世界に糧を供給するのである。"
  doctrine_parameter_sky_burials_active:2 "[rulers|E]は祖先を風葬し、[piety|E]を得て[vassals|E]を満足させる"

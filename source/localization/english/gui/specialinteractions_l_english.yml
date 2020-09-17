@@ -263,7 +263,7 @@
  REVOKE_TITLE_PROVINCE_SELECTED_TITLE_TOOLTIP:3 "You are revoking [TITLE.GetName]\n#I Click to deselect"
  REVOKE_TITLE_CANT_TAKE_REASON_UNLANDED:0 "@warning_icon!#X [CHARACTER.GetShortUIName]は[titles|E]を持っていません#!"
  CALL_ALLY_NO_WARS:0 "#weak No Wars to select#!"
- CALL_ALLY_DESCRIPTION:0 "Select a [war|E] to call [CHARACTER.GetShortUINameNoTooltip] to"
+ CALL_ALLY_DESCRIPTION:0 "[CHARACTER.GetShortUINameNoTooltip]に参戦を要請する[war|E]を選択してください"
  CALL_ALLY_ITEM_SELECT:0 "#T Call [CHARACTER.GetShortUINameNoTooltip] to [WAR.GetName|V] #!"
  CALL_ALLY_ALLY_ALREADY_IN_WAR:1 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U] [Select_CString( CHARACTER.IsPlayer, 'are', 'is' )] already fighting in this war#!"
  CALL_ALLY_ALLY_ALREADY_CALLED_TO_WAR:1 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U] [Select_CString( CHARACTER.IsPlayer, 'have', 'has' )] been called to this war already#!"

@@ -1,6 +1,6 @@
 ﻿l_english:
  LEGACY_NAME:1 "[LegacyItem.GetCharacter.GetShortUINameNotMeNoTooltip], [LegacyItem.GetCharacter.GetAge]"
- LEGACY_REIGN:1 "Played: [LegacyItem.GetStartDate.GetYear]–[LegacyItem.GetEndDate.GetYear] ([LegacyItem.GetReignLength])"
+ LEGACY_REIGN:1 "在位期間: [LegacyItem.GetStartDate.GetYear] – [LegacyItem.GetEndDate.GetYear] ([LegacyItem.GetReignLength])"
  LEGACY_REIGN_TT:0 "Played between [LegacyItem.GetStartDate.GetString] and [LegacyItem.GetEndDate.GetString]"
  LEGACY_REIGN_CURRENT:0 "[LegacyItem.GetStartDate.GetYear] –"
  LEGACY_SCORE:0 "スコア: [LegacyItem.GetScore]"

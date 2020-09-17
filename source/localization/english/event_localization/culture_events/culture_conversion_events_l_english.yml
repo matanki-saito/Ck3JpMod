@@ -3,4 +3,4 @@
  culture_conversion.0001.desc:1 "[new_culture.GetName] の衣服を着てs, [new_culture.GetName] の習慣で生き, そして首都には [new_culture.GetCollectiveNoun]のもので満たされるようになった,  [converting_character.Custom2('MyCharacterIntroduction', ROOT.Char)] がもはや [converting_character.GetHerselfHimself] [old_culture.GetName]ではなく, [new_culture.GetName] と思われるのは不思議ではない!"
  culture_conversion.0001.a:0 "物事は変わる。そして人々も変わる"
  culture_conversion.0001.b:0 "伝統的な生活から離れるのは良い考えではない"
- culture_conversion.0001.c:0 "We should all be moving with the times!"
+ culture_conversion.0001.c:0 "我々は時間までにすべて移動すべきだ！"

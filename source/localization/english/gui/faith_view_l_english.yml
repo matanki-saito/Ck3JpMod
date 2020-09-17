@@ -81,7 +81,7 @@
  FAITH_CREATION_NEEDS_ICON:0 "#X アイコンを選択する必要があります#!"
  FAITH_CREATION_NAMING_DESC:0 "説明:"
  FAITH_CREATION_NAMING_HEADER:0 "名前を選んでください…"
- FAITH_WINDOW_FAITH_NAME:0 "[Select_CString( StringIsEmpty( FaithCreationWindow.GetNewFaithName ), 'Choose Name', '' )][FaithCreationWindow.GetNewFaithName]"
+ FAITH_WINDOW_FAITH_NAME:0 "[Select_CString( StringIsEmpty( FaithCreationWindow.GetNewFaithName ), '名称を選択, '' )][FaithCreationWindow.GetNewFaithName]"
  FAITH_WINDOW_FAITH_NAME_TOOLTIP:0 "新しい[faith|E]とその支持者たちの名称を入力"
  FERVOR_MONTHLY_CHANGE:1 "月間[fervor|E]変化"
  FERVOR_TT:0 "#T 情熱: [Faith.GetFervor|0]%\n#! #weak [faith|E]の[fervor|E]の実際の効果は、常に相手教団の情熱との相対的なものです。例えば、[convert_county|E]任務を遂行する場合など。 #!\n\n[Faith.GetMonthlyFervorChangeDesc]"

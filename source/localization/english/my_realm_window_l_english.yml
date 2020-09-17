@@ -14,7 +14,7 @@
  MY_REALM_WINDOW_SUCCESSION:0 "継承"
  MY_REALM_WINDOW_CURRENT_SUCCESSION:0 "領国[succession_law|E]"
  MY_REALM_WINDOW_VASSAL_OBLIGATION:1 "$VASSAL_CONTRACT_OBLIGATIONS_TITLE$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_taxes' )]\n$VASSAL_CONTRACT_OBLIGATIONS_TITLE_LEVIES$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_levies' )]"
- MY_REALM_WINDOW_VASSALS_TT:0 "Show realm vassals"
+ MY_REALM_WINDOW_VASSALS_TT:0 "領国内の封臣を表示"
  MY_REALM_WINDOW_SUCCESSION_TT:0 "領国の継承を表示"
  MY_REALM_WINDOW_CHANGE_SUCCESSION_TT:0 "新しい継承法を選択"
  MY_REALM_WINDOW_CONTRIBUTION_TO_THEOCRATIC_LIEGE:0 "In addition to this, the [realm_priest|E] gives [taxes|E] and [levies|E] from [church_property|E] depending on their [opinion|E] of their [liege|E]"

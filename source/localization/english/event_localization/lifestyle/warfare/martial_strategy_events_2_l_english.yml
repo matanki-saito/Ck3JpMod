@@ -1,9 +1,9 @@
 ﻿l_english:
  martial_strategy.4000.t:0 "Stocking the Stores"
- martial_strategy.4000.desc:0 "With a mighty burp, I push the rest of my plate away from me, and sprawl back in my chair. Lately, my kitchens have begun to swell with golden grain and freshly-hunted game, giving all my courtiers the healthy sheen of the over-fed.\n\nI grimace. Though this bounty is great, it cannot last forever. I must decide what to do with all of this excess food."
- martial_strategy.4000.a:0 "Salt it or smoke it, as long as we store it."
- martial_strategy.4000.b:0 "My guests and I shall dine richly!"
- martial_strategy.4000.c:0 "Even the servants shall eat as their [ROOT.Char.GetTitleAsNameNoTooltip] does!"
+ martial_strategy.4000.desc:0 "大きなげっぷをしながら、残りの皿を押しのけ、椅子にもたれかかる。最近、台所は黄金色の穀物や獲れたての獲物で満たされ始めていて、全ての廷臣たちが食べ過ぎで健康的につやつやしだしている。\n\n私はにやりとした。この恵みは素晴らしいが永遠には続かない。この余った食料をどうするか決めなければならない。"
+ martial_strategy.4000.a:0 "塩漬けか燻製にしてできるだけ長く保つようにするんだ。"
+ martial_strategy.4000.b:0 "客と一緒に贅沢な食事をするぞ！"
+ martial_strategy.4000.c:0 "[ROOT.Char.GetTitleAsNameNoTooltip]が食べるくらい農民たちも食べていいぞ！"
  martial_strategy.4000.d:0 "Yes, they #EMP do#! look rather plump..."
  strategy_stocked_larders_modifier:0 "Heavily-Stocked Stores"
  strategy_emptied_larders_modifier:0 "Nearly-Empty Stores"

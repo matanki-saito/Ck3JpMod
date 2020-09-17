@@ -1313,7 +1313,7 @@
  THEY_ARE_ABLE_TO_USE_THE_FORCED_VASSALAGE_CB:0 "[CHARACTER.GetShortUIName|U]は[vassalize_casus_belli|E]を利用できる"
  FOREIGN_AFFAIRS_TASK_EFFECTIVENESS:0 "[foreign_affairs|E]効果: #P +[EmptyScope.ScriptValue('adaptive_traditions_perk_impact_percent')|0]%#!"
  SELECT_GENETIC_TRAIT_FOR_BLOODLINE:0 "Select a [congenital|E] trait to become more common in the Dynasty:\n$BULLET_WITH_TAB$[GetTrait('beauty_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('intellect_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('physique_good_1').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('fecund').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('giant').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('dwarf').GetName( GetNullCharacter )]"
- SELECT_GENETIC_TRAIT_FOR_BLOODLINE_NO_BULLETTAB:1 "Select a [congenital|E] trait to become more common in the Dynasty"
+ SELECT_GENETIC_TRAIT_FOR_BLOODLINE_NO_BULLETTAB:1 "王朝の特徴となる[congenital|E]の特性を選択"
  CASUS_BELLI_COST_PERK_REDUCTION:0 "[casus_belli|E]コスト: #P -[EmptyScope.ScriptValue('bellum_justum_discount_percentage')|0]%#!"
  CASUS_BELLI_COST_DYNASTY_PERK_REDUCTION:0 "[casus_belli|E]コスト: #P -20%#!"
  PERK_CAN_SIGN_ALLIANCE:0 "[marriage|E]なしで[alliance|E]を提案できる"

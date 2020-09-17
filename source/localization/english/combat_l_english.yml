@@ -100,5 +100,5 @@
  MAA_COUNTERED_IN_COMBAT:0 "$NAME$: $EFFECTIVENESS|%V0$"
  MAAS_COUNTERED_IN_COMBAT:0 "[men_at_arms_counter|E]の影響で効果が低下した状態で戦う[men_at_arms|E]:"
  COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0]対[Combat.GetRightSide.GetCurrentFightingMen|0]\n#I クリックで表示#!"
- COMMANDER_ADVANTAGE_DESC:1 "#T 司令官 [advantage|E]: $ADVANTAGE$#!\n軍事能力: $SKILL|+=$\n$MODIFIERS$"
+ COMMANDER_ADVANTAGE_DESC:1 "#T 指揮官[advantage|E]: $ADVANTAGE$#!\n軍事能力: $SKILL|+=$\n$MODIFIERS$"
  COMMANDER_ADVANTAGE_ADJUSTED_DESC:1 "#T 司令官 [advantage|E]: $ADVANTAGE$#!\n軍事能力: $SKILL|+=$\n$MODIFIERS$$ADJUSTMENT$"
