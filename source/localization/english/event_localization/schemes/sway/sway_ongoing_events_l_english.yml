@@ -73,7 +73,7 @@
  sway_ongoing.5010.desc_target_discovered:0 "In recent correspondence [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] has expressed clear suspicion about my actual level of knowledge regarding [owner.Custom('LifestyleFocusTopic')].\n\nAs I read their latest letter I realize my ruse is uncovered — [owner.GetSheHe] goes on and on about \"a clear lack of understanding\" and \"a shameful display of foolishness.\""
  sway_ongoing.5010.desc_owner_discovered:0 "In recent correspondence [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] has shown a shameful lack of understanding of [owner.Custom('LifestyleFocusTopic')].\n\nAnd if even I know that [owner.GetSheHe] is spouting nonsense, then it is #EMP bad!#!"
  sway_ongoing.5011.t:0 "Sway: The Visit"
- sway_ongoing.5011.desc_opening:0 "I am passing through [capital.GetNameNoTooltip], the capital of [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], when I receive an invitation to visit [target.GetHerHis] [target.Custom('ResidenceBuilding')].\n\nAs I arrive"
+ sway_ongoing.5011.desc_opening:0 "[target.GetHerHis][target.Custom('ResidenceBuilding')]への招待状が届き、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の首都[capital.GetNameNoTooltip]を通過しているところだ。\n\n私が到着すると"
  sway_ongoing.5011.desc_friendly:0 "[target.GetSheHe] welcomes me with open arms"
  sway_ongoing.5011.desc_dislike:0 "[target.GetSheHe] welcomes me with a frown"
  sway_ongoing.5011.desc_normal:0 "[target.GetSheHe] welcomes me with respect"

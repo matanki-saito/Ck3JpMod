@@ -72,7 +72,7 @@
  befriend_outcome.0002.fail.desc:1 "[owner.GetHerHis]が何度も私を口説こうとしているのは気づかずにはいられなかったし、[owner.GetTitledFirstNamePossessive]が突然私に関心を寄せてきたことにはイライラせずにはいられない。\n\nそして、[owner.Custom('WomanManPossessive')]の意図が純粋ではないという感情を捨て去ることはできない……"
  befriend_outcome.0002.critfail.desc:1 "While [owner.GetHerHis] numerous attempts to curry my favor have not gone unnoticed, I cannot feel but irritated by [owner.GetTitledFirstNamePossessive] sudden interest in me.\n\nIf anything, [owner.GetHerHis] obsessive desire to impress me and [owner.GetHerHis] blundering displays of fabricated affection have only made me dislike [owner.GetHerHim] more."
  befriend_outcome.0002.a:0 "真の友はまことに得難きものだ。"
- befriend_outcome.0002.b.success:0 "We should spend more time together!"
+ befriend_outcome.0002.b.success:0 "もっと一緒に過ごそう！"
  befriend_outcome.0002.b.failure:0 "だが、[owner.GetSheHe]にはまだある種の魅力がある……"
  befriend_outcome.0002.c.success:0 "私はまだ心を開いていない。"
  befriend_outcome.0002.c.failure:0 "なぜ私を放っておいてくれないのか？"
