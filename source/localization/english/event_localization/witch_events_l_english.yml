@@ -17,7 +17,7 @@
  witch.2001.start.desc:0 "[target.GetFirstName]に真実を見ることを強制はできないが、[target.GetHerHis]の心を開くためにできることはすべてやった。"
  witch.2001.secrecy.desc:0 "[target.GetFirstNameNoTooltip]との無垢な会話で話した事柄と、部屋に残してきた聖典が[target.GetHerHis]の頭の中で繋がってくれることを[owner.GetFaith.WitchGodName]に祈るばかりだ。"
  witch.2001.no_secrecy.desc:0 "I pray to [owner.GetFaith.WitchGodName] that [target.GetFirstNameNoTooltip] has connected to something in those long discussions and the sacred texts I gave [target.GetHerHim]."
- witch.2001.end.desc:0 "\n\n今、私は [target.GetHerHim] の元へ行き、[owner.GetFaith.WitchGodHerHis|U]へ黒ミサへの招待状を出さなければなりません。 — またはこの試みをあきらめるか"
+ witch.2001.end.desc:0 "\n\n今、私は [target.GetHerHim] の元へ行き、[owner.GetFaith.WitchGodHerHis|U]に黒ミサへの招待状を出さなければなりません。 — またはこの試みをあきらめるか"
  witch.2001.a:0 "[target.GetSheHe|U]は自分自身の心で決心するのは当然だろう。"
  witch.2001.b1:0 "リスクが大きすぎるな。"
  witch.2001.b2:0 "[target.GetFirstNameNoTooltip] isn't ready."

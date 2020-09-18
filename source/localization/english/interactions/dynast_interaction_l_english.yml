@@ -18,7 +18,7 @@
  call_dynasty_member_to_war_interaction_desc:0 "Call [recipient.GetShortUINameNoTooltip] to serve [recipient.GetHerHis] [dynasty|E] in war"
  call_dynasty_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"
  dynast_legitimize_bastard_interaction:1 "私生児の認知 #weak (王朝) #!"
- dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$宣言する[recipient.GetShortUINameNoTooltip] to be a $game_concept_legitimized_bastard$\n\n#weak これは、以下の理由で利用可能です。 [recipient.GetSheHe] is a [bastard|E] of my [dynasty|E]"
+ dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$が[recipient.GetShortUINameNoTooltip]のことを$game_concept_legitimized_bastard$であると宣言します\n\n#weak [recipient.GetSheHe]があなたの[dynasty|E]の[bastard|E]であるために使用可能です"
  dynast_legitimize_bastard_interaction_notification:0 "準正嫡出子"
  dynast_claim_title_interaction:0 "称号を請求する"
  dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] a [title|E] held by [recipient.GetShortUINameNoTooltip] for yourself"

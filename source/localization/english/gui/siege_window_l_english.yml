@@ -54,7 +54,7 @@
  SW_TT_FORT_LEVEL_IMPACT_TITLE:0 "#T 要塞レベルの影響#!"
  SW_TT_FORT_LEVEL_IMPACT_BAD:0 "#S [fort_level_i][fort_level|E] is too high!#!\nAdd better Siege [men_at_arms|E] to finish the Siege faster"
  SW_TT_MEN_BALANCE_BASIC_INFO:0 "#T 兵士の数#!\n[besieging|E]の軍勢: [SIEGE.GetAttackerMen|V]\n[garrison|E]: [SIEGE.GetDefenderMen|V]"
- SW_TT_MEN_BALANCE_ATTRITION_INFO:0 "The $game_concept_besieging$ [army|E] is taking $VALUE|V$ casualties every month due to [attrition|E]"
+ SW_TT_MEN_BALANCE_ATTRITION_INFO:0 "$game_concept_besieging$の[army|E]は[attrition|E]のため毎月$VALUE|V$の犠牲者を出します"
  SW_TT_MEN_BALANCE_SOLDIERS_PROGRESS_INFO:0 "[soldiers|E]による一日あたりの進展: $VALUE|+=1$"
  SW_TT_MEN_BALANCE_BLOCKED_LARGE_GARRISON:0 "#X 包囲している[army|E]が[garrison|E]よりも少ないため[siege|E]は進行しません#!"
  SW_TT_CANT_BREACH_ATTACKER:1 "#X 城壁を破壊するには@no_siege_weapon_icon![siege_weapons|E]が必要です#!"

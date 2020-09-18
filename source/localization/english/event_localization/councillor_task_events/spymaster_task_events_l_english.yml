@@ -118,7 +118,7 @@
  spymaster_task.2001.b:0 "[ROOT.Char.Custom('DefaultPriestTitle')]は#EMP 何らかの#!罪を犯したに違いない!"
  spymaster_task.2002.notification:0 "人手不足の評判"
  spymaster_task.2003.t:0 "崩壊する計画"
- spymaster_task.2003.desc:0 "宮廷で私に近づいてくる我が[councillor.GetCouncilTitle]は、今日は珍しく堅苦しい。「我が主君、影で陰謀を企むのは 望むものを手に入れるのに最善の方法ではないと考えたことはおありですか？」意外な言葉だったが、[councillor.GetTitledFirstName]はようやく本題に入った。\n\n「その… どうやら...[scheme.GetName]においてすべてのスパイが、私とのやり取りに応答しなくなったようなのです。まるで何も起きていないかのようです。」"
+ spymaster_task.2003.desc:0 "宮廷で私に近づいてくる我が[councillor.GetCouncilTitle]は、今日は珍しく堅苦しい。「我が主君、影で陰謀を企むのは望むものを手に入れるのに最善の方法ではないと考えたことはおありですか？」意外な言葉だったが、[councillor.GetTitledFirstName]はようやく本題に入った。\n\n「その… どうやら...[scheme.GetName]においてすべてのスパイが、私とのやり取りに応答しなくなったようなのです。まるで何も起きていないかのようです。」"
  spymaster_task.2003.a:0 "完全に計画が狂ってしまったのか？"
  spymaster_task.2102.t:0 "隠された知識"
  spymaster_task.2102.desc:0 "[councillor_liege.GetTitledFirstName]に代わって領国の諜報網を維持することには特典がある。自分が探してもいないものを発見することもしばしばだ。例えば[secret_owner.GetTitledFirstNamePossessive]の秘密といったような…"
