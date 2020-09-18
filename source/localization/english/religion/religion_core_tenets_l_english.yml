@@ -111,7 +111,7 @@
  doctrine_parameter_reduced_vassal_religion_discontent:1 "不信心な[vassals|E]は独立派か大衆主義の[factions|E]に参加する可能性が低い"
  tenet_inner_journey_name:0 "内なる旅"
  tenet_inner_journey_desc:0 "Only by understanding one's own self can we understand the world. The journey of self-discovery is important as it is long and difficult."
- doctrine_parameter_meditation_mechanics_active:0 "キャラクターは[decide|E]が隠遁して瞑想することができ、[stress|E]を減らし、神秘的洞察を得る可能性がある"
+ doctrine_parameter_meditation_mechanics_active:0 "キャラクターは隠遁して瞑想することを[decide|E]でき、[stress|E]を減らし、神秘的洞察を得る可能性がある"
  tenet_dharmic_pacifism_name:0 "ダルマ的平和主義"
  tenet_dharmic_pacifism_desc:0 "We are all a part of the cosmic order. Violence against anything is violence against everything, oneself included."
  tenet_bhakti_name:0 "バクティ"

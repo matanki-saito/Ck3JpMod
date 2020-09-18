@@ -82,5 +82,5 @@
  FACTION_ADD_MEMBER:0 "メンバーを追加([FactionsWindow.GetMembersAvailableToForce|V])"
  FACTION_ADD_MEMBER_TT:0 "#T Force Characters to Join#!\n[FactionsWindow.GetMembersAvailableToForce|V] [Select_CString( EqualTo_int32( FactionsWindow.GetMembersAvailableToForce, '(int32)1' ), 'Character', 'Characters' )] can be forced to join currently"
  FACTIONS_OTHER:0 "派閥"
- create_claimant_faction_against:0 "Create claimant faction"
+ create_claimant_faction_against:0 "請求者の派閥を形成する"
  FACTION_WINDOW_OPINION_OF_TARGET:0 "対象への評価: [CharacterListItem.GetOpinionOfOtherCharacter|+=]"

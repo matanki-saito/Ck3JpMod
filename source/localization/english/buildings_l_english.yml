@@ -648,7 +648,7 @@
  building_holy_site_great_mosque_of_samarra_01:0 "$building_type_holy_site_great_mosque_of_samarra_01$"
  building_holy_site_great_mosque_of_samarra_01_desc:0 "$building_type_holy_site_great_mosque_of_samarra_01_desc$"
  building_type_holy_site_prophetic_mosque_01:0 "預言者のモスク"
- building_type_holy_site_prophetic_mosque_01_desc:0 "#F The Prophetic Mosque, or the Al-Masjid an-Nabawi, is an open-air style mosque established by the prophet Muhammad himself. It was one of the first mosques that he constructed, and the site was close to where he had his residence.#!"
+ building_type_holy_site_prophetic_mosque_01_desc:0 "#F 預言者のモスクまたはアル‐マスジド・アン‐ナバウィは、預言者ムハンマド自身が開設した野外様式のモスクである。それは彼が最初に建設したモスクで、彼の住んでいる場所の近くにあった。#!"
  building_holy_site_prophetic_mosque_01:0 "$building_type_holy_site_prophetic_mosque_01$"
  building_holy_site_prophetic_mosque_01_desc:0 "$building_type_holy_site_prophetic_mosque_01_desc$"
  building_type_generic_university:0 "大学"

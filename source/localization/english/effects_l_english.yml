@@ -1280,7 +1280,7 @@
  INCREASED_SEDUCE_SUCCESS_CHANCE_AGAINST_MY_COURTIERS:0 "自身の[courtiers|E]と[guests|E]に対する[seduce_scheme|E]の[success_chance|E]: #P +[EmptyScope.ScriptValue('home_advantage_perk_bonus')|0]%#!"
  INCREASED_SEDUCE_SUCCESS_CHANCE_AGAINST_THEIR_COURTIERS:0 "自身の[courtiers|E]と[guests|E]に対する[seduce_scheme|E]の[success_chance|E]: #P +[EmptyScope.ScriptValue('home_advantage_perk_bonus')|0]%#!"
  CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:0 "Can no longer [critically_fail|E] [seduce_schemes|E]"
- I_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:1 "[seduce_schemes|E]で[critically_fail|E]しなくなる"
+ I_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:1 "[seduce_schemes|E]で[critically_fail|E]をしなくなる"
  THEY_CAN_NO_LONGER_CRITICALLY_FAIL_SEDUCTION_SCHEMES:0 "[CHARACTER.GetShortUIName|U] can no longer [critically_fail|E] [seduce_schemes|E]"
  INCREASED_SEDUCE_SUCCESS_CHANCE_25:0 "[seduce_scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!"
  ESPIONAGE_MAY_FABRICATE_HOOKS:0 "[espionage|E]が[hooks|E]を作成することもある"

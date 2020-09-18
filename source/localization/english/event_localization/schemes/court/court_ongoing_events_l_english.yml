@@ -242,7 +242,7 @@
  court_ongoing.1201.b:0 "食べ物だー私への愛は十分な栄養となるはずだ。"
  court_ongoing.1201.b_success:0 "[owner.GetSheHe|U] proves [owner.GetHerHis] devotion"
  court_ongoing.1201.c:0 "[owner.GetHerHim]を試す気はない。"
- court_ongoing.1211.t:1 "$court_event_title$ The Request"
+ court_ongoing.1211.t:1 "$court_event_title$ 要望"
  court_ongoing.1211.desc_opening:0 "\"[target.GetLadyLord|U] [target.GetFirstName], let me prove my devotion to you in any way you deem fit!\"\n\n[target.GetFirstNameNoTooltip] ponders the request for a while before [target.GetHerHis] face lights up."
  court_ongoing.1211.desc:0 "\"I have been plagued by nightmares lately. If you are truly devoted to me you will stand guard outside my chambers and make sure no evil reaches me.\""
  court_ongoing.1211.a:0 "You will sleep undisturbed!"
