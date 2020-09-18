@@ -21,7 +21,7 @@
  yearly.1002.b.failure.message:0 "[married_seducer.GetFirstName] was hurt, as if [married_seducer.GetSheHe] had expected something more."
  yearly.1003.t:0 "I Should Have Known"
  yearly.1003.start.desc:0 "Once I am certain I have not been followed, I crack [married_seducer.GetFirstNamePossessive] door open and peek inside. The object of my desire is standing with [married_seducer.GetHerHis] back turned towards me, naked as the day [married_seducer.GetSheHe] was born."
- yearly.1003.end.desc:0 "I push at the door, lean in closer...\n\nSuddenly, with a loud bang and intense pain, I fall backwards, hitting the floor hard. There is screaming, so much screaming. And footsteps. My head is spinning...\n\n\"Like a rat in a trap,\" whispers a familiar voice into my ear. [seducer_spouse.GetTitledFirstName]. Shit."
+ yearly.1003.end.desc:0 "私はドアを押して近くに寄りかかる・・・\n\n突然、大きな音と激しい痛みがして、後ろに倒れ床に激しく打ち付けた。叫び声が聞こえてきた。足音も。頭がくらくらする・・・\n\n「罠にかかったネズミのようだな」と耳慣れた声がする。[seducer_spouse.GetTitledFirstName]。畜生。"
  yearly.1003.a:0 "I... I was looking for the privy!"
  yearly.1010.t:0 "Gone In The Night"
  yearly.1010.start.desc:0 "[abductee.GetTitledFirstNamePossessive]の部屋に入ると、まず目につくのは、隅っこに倒れている看守の姿。第二に、[dummy_gender.GetHerHis]の喉に真っ赤な切り傷があること。だが、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('abductee'))]はどこにもいない！ \n\n"

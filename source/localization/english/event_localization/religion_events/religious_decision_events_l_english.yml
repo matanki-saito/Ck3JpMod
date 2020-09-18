@@ -24,7 +24,7 @@
  religious_decision.0002.no_change.zealous:0 "Have I offended the spirits in some way?"
  religious_decision.0002.no_change:0 "What a waste of time."
  religious_decision.0101.t:0 "Bhakti"
- religious_decision.0101.desc.start:0 "Bhakti can be likened to feelings of fondness, devotion, and worship, but none of these fully encompass the concept. By devoting myself to an avatar of divinity, I am committing myself to them in body and soul.\n\n[ROOT.Char.GetFaith.GetNameNoTooltip] focuses on the veneration of"
+ religious_decision.0101.desc.start:0 "バクティは愛情、献身、崇敬といった感じで例えることができるが、これらはどれもこの概念を完全に包含したものではない。神の化身に身を捧げることで、私はそれらのために身も心も捧げているのだ。\n\n[ROOT.Char.GetFaith.GetNameNoTooltip]は次のの崇拝に注目している"
  religious_decision.0101.desc.generic:0 "just several of them."
  religious_decision.0101.desc.vaishnavism:0 "the various incarnations of Vishnu the Preserver."
  religious_decision.0101.desc.shaivism:0 "the many incarnations of Shiva the Destroyer."
