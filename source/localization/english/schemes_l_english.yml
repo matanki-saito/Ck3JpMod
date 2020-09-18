@@ -92,7 +92,7 @@
  sway_my_diplomacy:1 "あなたの外交: $VALUE|=+0$"
  sway_my_rival:1 "あなたのライバル: $VALUE|=+0$"
  sway_invalidated_war:1 "Due to the War between you, you can no longer $sway_action$ [target.GetShortUIName]"
- sway_invalidated_dead:1 "[target.GetShortUIName|U] has passed away. You can no longer $sway_action$ [target.GetHerHim]"
+ sway_invalidated_dead:1 "[target.GetShortUIName|U]は亡くなった。もう$sway_action$ [target.GetHerHim]はできない。"
  sway_complete:2 "You have Swayed [target.GetShortUIName] as much as you can"
  claim_throne:0 "玉座要求策謀"
  claim_throne_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]の[claim_the_throne|E]！"
