@@ -206,7 +206,7 @@
  befriend_ongoing.4300.desc:0 "It has come to my understanding that [target.GetTitledFirstName] is, like me, a ruler whose justice is dreaded by others. I should invite [target.GetHerHim] to sit beside me at the next public execution."
  befriend_ongoing.4300.a.tt:0 "#F Send a letter to [target.GetHerHim]#!"
  befriend_ongoing.4302.t:0 "Invitation to an Execution"
- befriend_ongoing.4302.desc:0 "[owner.GetTitledFirstName] has invited me to an honored seat at [owner.GetHerHis] side for the next public execution."
+ befriend_ongoing.4302.desc:0 "[owner.GetTitledFirstName]が次の公開処刑のために[owner.GetHerHis]の側の名誉ある席に招待してくれた。"
  befriend_ongoing.4302.c:0 "You think me a fool? I will not so easily fall into your clutches!"
  befriend_ongoing.4302.a:0 "An excellent idea. I'll be honored to observe how you mete out justice."
  befriend_ongoing.4302.b:0 "I have more important things to do than watch you deal with petty criminals."

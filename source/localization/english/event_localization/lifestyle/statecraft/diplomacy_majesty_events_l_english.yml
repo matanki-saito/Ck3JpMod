@@ -23,7 +23,7 @@
  diplomacy_majesty.0005.desc:0 "My carefully prepared compliment was awarded with a grateful smile and a hint of blushing on [compliment_receiver.GetTitledFirstNamePossessive] cheeks. The conversation which followed was the most pleasant one we had had in many moons."
  diplomacy_majesty.0005.a:0 "A few kind words can truly work miracles!"
  diplomacy_majesty.0006.t:1 "$diplomacy_majesty.0004.t$: Bitter as Wormwood"
- diplomacy_majesty.0006.desc:0 "I had meant for my words to be kind, but [compliment_receiver.GetTitledFirstNamePossessive] reaction left me no doubt regarding my failure. The look of indignation on [compliment_receiver.GetHerHis] face made my heart sink to the pit of my stomach."
+ diplomacy_majesty.0006.desc:0 "優しい言葉をかけたつもりだったのだが、[compliment_receiver.GetTitledFirstNamePossessive]の反応は、自分の失敗を疑わずにはいられなかった。[compliment_receiver.GetHerHis]の顔に映った憤慨の表情に、胸が張り裂けそうになった。"
  diplomacy_majesty.0006.a:0 "How could I have been so tactless..."
  diplomacy_majesty.0016.t:0 "Kindred Spirits"
  diplomacy_majesty.0016.desc:0 "I have noticed [potential_friend.Custom2('MyCharacterIntroduction', ROOT.Char)] and I seem to think and act in quite a similar way. We might not always see eye to eye, but at our cores, I think we are compatible.\n\nThis could be the foundation of a lasting friendship — or a weakness to exploit..."

@@ -16,7 +16,7 @@
  arrogant_quirk:0 "brushes off [ROOT.GetCharacter.GetHerHis] [ROOT.GetCharacter.Custom('GetClothingArticle')]"
  shy_quirk:0 "blushes"
  greedy_quirk:0 "tosses a coin"
- lustful_quirk:0 "smiles invitingly"
+ lustful_quirk:0 "誘うように微笑んだ"
  lustful_2_quirk:0 "gently bites [ROOT.GetCharacter.GetHerHis] lip"
  chaste_quirk:0 "folds [ROOT.GetCharacter.GetHerHis] hands"
  temperate_quirk:0 "folds [ROOT.GetCharacter.GetHerHis] arms"

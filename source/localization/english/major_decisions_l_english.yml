@@ -3,7 +3,7 @@
  major_decisions.1001.desc:0 "\"We were put upon this earth to serve our fellow man,\" [court_chaplain.GetCouncilTitle] [court_chaplain.GetNamePossessive] voice rings out over the dining hall. \"By accepting the gift of flesh you also accept [ROOT.Char.GetFaith.HighGodHerHis|U] love.\"\n\nThe servants — the ones that are still with us — have done a marvelous job; we feast well into the night, growing drunk on [ROOT.Char.Custom('RegionalDrink')] and the taste of human divinity."
  major_decisions.1001.a:0 "Give me a hand and pass me more [ROOT.Char.Custom('RegionalDrink')]!"
  major_decisions.1002.t:0 "狂喜乱舞"
- major_decisions.1002.desc:0 "耳にしていることが信じられない: [cannibal.GetName]の中庭の至る所で―[cannibal.GetHerHis][court_chaplain.GetCouncilTitle]さえも―が食人愛好家になってしまったのです！通りは[cannibal.GetHerHis]の地獄の集団の宴のように血で赤く染まっている。"
+ major_decisions.1002.desc:0 "耳にしていることが信じられない: [cannibal.GetName]の中庭の至る所で―[cannibal.GetHerHis][court_chaplain.GetCouncilTitle]さえも―が食人嗜好になってしまったのだ！通りは血で赤く染まり、[cannibal.GetHerHis]の地獄のような集団の饗宴が繰り広げられている。"
  major_decisions.1002.desc_cannibal:0 "[cannibal.GetName]は[cannibal.GetHerHis][court_chaplain.GetCouncilTitle]にカニバリズムを公に受け入れるよう説得した。今まで以上に肉の味が広がっているのは嬉しい！"
  major_decisions.1002.a:0 "I cannot wait to dine with [ROOT.Char.GetHerHim]!"
  major_decisions.1002.b:0 "May [ROOT.Char.GetFaith.HighGodName] have mercy on their wicked souls!"

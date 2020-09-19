@@ -163,7 +163,7 @@
  murder_outcome.4004.scheme_unknown:0 "\n\n少なくとも[SCOPE.Custom('VenomousCreatureAttack')]は私ではなく、[SCOPE.Custom('VenomousCreatureType')]が迷い込んだせいにされている。"
  murder_outcome.4004.a:0 "お前の幸運もこれが最後だぞ、[target.GetFirstNameNoTooltip]！"
  murder_outcome.4005.failure_declaration_1:0 "[target.GetTitledFirstName]は農民たちの群れの襲撃から生き残った！"
- murder_outcome.4005.failed_attempt_1:0 "\n\nMy agitators successfully riled them up, but when the mob started rioting, [target.GetFirstNamePossessive] soldiers cut them down. The survivors fled in terror as the [target.GetTitleTierName] made [target.GetHerHis] way back to the [target.Custom('ResidenceBuilding')]."
+ murder_outcome.4005.failed_attempt_1:0 "\n\n私の扇動者は彼らを煽ることに成功したが、暴徒が暴れ始めたとき、[target.GetFirstNamePossessive]の兵士が彼らを切り倒した。生存者は恐怖のあまり逃げ出し、[target.GetTitleTierName]は[target.GetHerHis]の道を引き返し[target.Custom('ResidenceBuilding')]へ戻っていった。"
  murder_outcome.4005.scheme_owner_known:0 "\n\n多くの農民が絞首刑にされ、私の扇動者たちは私の関与を自白してしまった！"
  murder_outcome.4005.scheme_known:0 "\n\n多くの農民が絞首刑にされ、扇動者たちは外部の勢力が関与していることを自白した。ありがたいことに、彼らでさえ、私がその背後にいることは知らなかった。"
  murder_outcome.4005.scheme_unknown:0 "\n\n多くの農民が絞首刑にされたが、ありがたいことにその中に私の扇動者もいたことで、この騒動と私を結びつけることはできない。"

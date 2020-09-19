@@ -59,7 +59,7 @@
  HOUSE_SORT_FOUNDATION_DATE:0 "成立年"
  HOUSE_SORT_MEMBERS_COUNT:0 "存命中メンバー"
  HOUSE_SORT_HEAD_POWER:0 "家長の軍事力"
- HOUSE_LIST_FOUNDING:0 "Founding House"
+ HOUSE_LIST_FOUNDING:0 "本家"
  HOUSE_LIST_CADET:0 "[cadet_branch|E]"
  HOUSE_LIST_MEMBERS:0 "存命中メンバー: [DynastyHouse.GetNumberOfMembers]"
  HOUSE_LIST_FOUNDATION:0 "西暦[DynastyHouse.GetFoundYear]年に創設された"

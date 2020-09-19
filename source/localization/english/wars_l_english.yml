@@ -209,7 +209,7 @@
  VASSALIZATION_WAR_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Vassalization War"
  VASSALIZATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  vassalization_cb_victory_desc_attacker:0 "[defender.GetShortUIName|U]はあなたの[vassal|E]になる。"
- vassalization_cb_victory_desc_defender:0 "You become [attacker.GetShortUINamePossessive] [vassal|E]."
+ vassalization_cb_victory_desc_defender:0 "あなたが[attacker.GetShortUINamePossessive]の[vassal|E]となる"
  vassalization_cb_victory_desc:0 "[defender.GetShortUIName|U] becomes [attacker.GetShortUINamePossessive] [vassal|E]."
  vassalization_cb_white_peace_desc_defender:0 "You remain independent."
  vassalization_cb_white_peace_desc:0 "[defender.GetShortUIName|U] remains independent."

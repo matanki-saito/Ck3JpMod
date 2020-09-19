@@ -33,7 +33,7 @@
  trait_specific_ongoing.1008.a:0 "[friend.GetFirstNameNoTooltip]! Oh no... I must hide the body."
  trait_specific_ongoing.1008.b:0 "I must confess!"
  trait_specific_ongoing.1009.t:0 "Impossible to Injure"
- trait_specific_ongoing.1009.desc:0 "\"Do not fear!\" I scream from the top of the building to calm the people gathered beneath. \"I cannot be harmed!\"\n\nI jump gracefully from the ledge and laugh as my stomach tingles from the fall."
+ trait_specific_ongoing.1009.desc:0 "「恐れるな！」下に集まった人々を落ち着かせるため、建物の上から叫んだ。「私は無敵だ！」\n\n私はレッジから優雅に跳躍し、落下に胃がうずきながら笑った。"
  trait_specific_ongoing.1009.a:0 "HAHAHA – AAAAAH!"
  trait_specific_ongoing.1009.a.success:0 "I stick the landing"
  trait_specific_ongoing.1009.a.failure:0 "I am not as invincible as I though I was"
