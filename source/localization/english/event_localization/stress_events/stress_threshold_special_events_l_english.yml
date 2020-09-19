@@ -28,5 +28,5 @@
  stress_threshold_special.2001.servant:0 "Though [target.GetSheHe] just a lowly servant, I've seen the way [target.GetFirstName] looks at me. [target.GetSheHe|U] wants me, I know it... and oh, how I long for [target.GetHerHim]!"
  stress_threshold_special.2001.ending:0 "\n\nWhen I took my vows I thought I could handle celibacy, but now... I am not so sure."
  stress_threshold_special.2001.a:0 "Forget it. I can't resist anymore, I #EMP need#! this!"
- stress_threshold_special.2001.a.tt:0 "You lose the [perk|E] [GetPerk( 'restraint_perk' ).GetName( GetPlayer)|V]"
+ stress_threshold_special.2001.a.tt:0 "あなたが[GetPerk( 'restraint_perk' ).GetName( GetPlayer)|V]の[perk|E]を失う"
  stress_threshold_special.2001.b:0 "No... That is no longer who I am. I must tame these urges!"

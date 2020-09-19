@@ -26,7 +26,7 @@
  marshal_task_organized_service_modifier_desc:0 "この領内の農民は、兵役と農役の効率を最大化するための制度によって組織化されている。"
  marshal_task_military_presence_modifier:0 "軍事的影響"
  marshal_task_military_presence_modifier_desc:0 "Grants immunity to [county_corruption|E].\n\nThis county has a well-organized presence of soldiers, aiding the local rulers as needed."
- marshal_task_increase_control_decreased_opinion_modifier:0 "Chafing Control"
+ marshal_task_increase_control_decreased_opinion_modifier:0 "苛立ちを生む支配"
  marshal_task_increase_control_decreased_opinion_modifier_desc:0 "この州は王国の元帥の厳しい警戒に苦しんでいます。"
  marshal_task_increase_control_increased_opinion_modifier:0 "元帥の指導"
  marshal_task_increase_control_increased_opinion_modifier_desc:0 "この伯爵領は王国の元帥に注意を払われることで大きな恩恵を得ています。"

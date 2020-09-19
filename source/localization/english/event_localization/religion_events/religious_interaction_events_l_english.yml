@@ -61,7 +61,7 @@
  religious_interaction.2003.b:0 "Well, you will pay the price in this world!"
  religious_interaction.2003.c:0 "Do not think I am letting you get away with this!"
  religious_interaction.2003.d:0 "Oh, I think you will believe exactly what I tell you to."
- religious_interaction.2011.desc:0 "I would gladly join you in your exultation, but the sheer cost of refurbishing [recipient.GetFaith.HouseOfWorshipPlural] and proselytizing among my peasants...\n\nIf you were to help pay for these efforts, I am more than willing to pray for your [ROOT.Char.GetFaith.HighGodName]."
+ religious_interaction.2011.desc:0 "喜んでご一緒させて頂きたいのですが、[recipient.GetFaith.HouseOfWorshipPlural]の改修費と、農民の間で布教活動をするための費用が・・・\n\nもしこれらの取り組みに費用を捻出して頂けるのであれば、私は喜んであなたの[ROOT.Char.GetFaith.HighGodName]のために祈ります。"
  religious_interaction.2011.a:0 "信仰のためなら何でもしよう。"
  religious_interaction.2011.b:0 "あなたの永遠の救いのために金を出す気はない！"
  religious_interaction.2011.c:0 "You will do this for something far more valuable than gold."

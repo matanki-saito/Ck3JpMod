@@ -391,7 +391,7 @@
  MOD_FELLOW_VASSAL_OPINION:0 "仲間の[vassal|E]の評価"
  theocracy_government_opinion_same_faith:0 "同じ宗派の[theocratic|E]指導者の評価"
  theocracy_government_opinion:0 "[theocratic|E]指導者の評価"
- republic_government_opinion:0 "[republican|E]領主の評価"
+ republic_government_opinion:0 "[republican|E]統治者の評価"
  tribal_government_opinion:0 "[tribal|E]族長の評価"
  MOD_INDEPENDENT_RULER_OPINION:0 "独立した領主の評価"
  MOD_OPINION_OF_LIEGE:0 "[liege|E]への評価"
