@@ -33,7 +33,7 @@
  claim_throne_outcome.5001.previous_holder_promise:0 "\n\n[owner.GetFirstNameNoTooltip] claims that [previous_holder.Custom2('RelationToMe', ROOT.Char)] swore on [previous_holder.GetHerHis] deathbed that the [target_title.GetTierAsNameNoTooltip] should pass to [owner.GetFirstNameNoTooltip]. Distressingly, [owner.GetSheHe] has found several people who will swear holy oaths that it is true."
  claim_throne_outcome.5001.discovered:0 "\n\nこれらの主張は完全に捏造されたものだが、他の者がそれを支持した場合、本当の脅威となるに十分な不確実性がある。"
  claim_throne_outcome.5001.a:0 "As if I will give up my realm without a fight!"
- claim_throne_outcome.5002.a:0 "Does [owner.GetSheHe] really think [owner.GetSheHe] will get away with this?!"
+ claim_throne_outcome.5002.a:0 "[owner.GetSheHe]は、本当に[owner.GetSheHe]がそれを奪い去れると思っているのか？！"
  claim_throne_outcome.5003.opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))], [owner.GetTitledFirstName], has attempted to lay claim to the [target_title.GetName]!"
  claim_throne_outcome.5003.owner_known:0 "\n\nThese claims are laughable, of course, and if this is the extent of [owner.GetFirstNamePossessiveNoTooltip] threat, I have little reason to worry."
  claim_throne_outcome.5003.a:0 "[owner.GetSheHe|U]はこの傲慢の代償を支払うだろう。"
