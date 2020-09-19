@@ -24,7 +24,7 @@
  elope.1002.unapologetic_family.desc:0 "\"If you truly loved your own [ROOT.Char.Custom2('RelationToMeShort' , target)], you would have wanted me to be happy. But as you care so little for me, I have left to follow my heart. I will marry [owner.Custom2('YourCharacterIntroduction', ROOT.Char)] and there is nothing you can do to stop me!\""
  elope.1002.a.fallback:0 "How could [target.GetSheHe]?"
  elope.1002.a.vengeful:0 "That treacherous [target.Custom('InsultNounSexual')] will get what [target.GetSheHe] deserves!"
- elope.1002.a.compassionate:0 "I hope [target.GetSheHe] will be happy, whatever happens."
+ elope.1002.a.compassionate:0 "[target.GetSheHe]には何があっても幸せになってほしい。"
  elope.1003.opening:0 "[target_keeper.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
  elope.1003.start.desc:0 "I write to inform you that"
  elope.1003.target_root_family.desc:0 "your [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('target'))] [target.GetFirstName]"

@@ -41,7 +41,7 @@
  murder_outcome.1302.desc:0 "[target.GetHerHis]の軟禁中に[target.GetTitledFirstName]に接触するのは難しいことが判明している。しかし私のスパイたちは"
  murder_outcome.1302.home_court_exists:0 "[target_home.GetNameNoTier]の宮廷の年老いた召使いを見つけ出し、"
  murder_outcome.1302.home_court_does_not_exists:0 "[target.GetHerHis]の以前の宮廷の年老いた召使を見つけ出し、"
- murder_outcome.1302.end:0 "彼は[target.GetFirstNamePossessive]の友人を装い、彼を訪問してくれる…"
+ murder_outcome.1302.end:0 "[target.GetFirstNamePossessive]の友人を装い、彼を訪問してくれる…"
  murder_outcome.1302.a:0 "使用人に武器を持たせ[dummy_gender.GetHerHim]を出発させろ。"
  murder_outcome.1302.b:0 "いや、今はだめだ。"
  murder_outcome.1401.t:0 "慈悲"

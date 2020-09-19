@@ -23,7 +23,7 @@
  scheme_remain_secret_roll_tt:0 "計画が露見する"
  murder:0 "暗殺計画"
  murder_action:0 "暗殺"
- murder_desc:0 "It is time for [SCHEME.GetTarget.GetShortUINameNoTooltip] to face the judgment of [SCHEME.GetOwner.GetFaith.HighGodName]!"
+ murder_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]が[SCHEME.GetOwner.GetFaith.HighGodName]の裁きを受ける時だ！"
  murder_desc_general:0 "敵の命を狙う。"
  scheme_interaction_tt_murder_approved:0 "[recipient.GetShortUINameNoTooltip]に[murder|E]を試みます"
  murder_successful_roll_tt:0 "[target.GetShortUINameNoTooltip]が殺害される！"

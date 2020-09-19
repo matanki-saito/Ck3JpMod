@@ -65,7 +65,7 @@
  prison.9002.desc_cockroach:0 " – I release my cockroach, and as it scurries under the guard's feet [dummy_gender.GetSheHe] jerks back violently enough to bash [dummy_gender.GetHerHis] skull against the wall"
  prison.9002.desc_end:0 ", and soon both me and my trusted [ROOT.Char.Custom('prison_pet')] are disappearing into the [imprisoner.Custom('TerrainType')] surrounding [imprisoner.GetTitledFirstNamePossessive] [imprisoner.Custom('ResidenceBuilding')]."
  prison.9002.a:0 "We are free, [ROOT.Char.Custom('prison_pet')]!"
- prison.9003.desc:0 "As soon as [imprisoner.GetTitledFirstNamePossessive] guards turn their backs to me and my fellow prisoner, [prison_friend.GetTitledFirstName], we strike.\n\nMy many day imprisoned has left me weak though, and as the guard slams a iron-clad fists into my stomach I quickly find myself overwhelmed and pinned. The guard prepares the finishing blow, but I see [prison_friend.GetTitledFirstNameNoTooltip] looming above us, holding the guard's own knife – soon enough we are on the move again.\n\nAs we make our way out into the night, leaning on each other, we laugh."
+ prison.9003.desc:0 "[imprisoner.GetTitledFirstNamePossessive]の看守が背を向けるや否や、私と囚人仲間である[prison_friend.GetTitledFirstName]は攻撃を開始した。\n\n何日も監禁されていたため衰弱していた私は、看守の鉄の拳が胃に突き刺さると、たちまち圧倒され動けなくなってしまった。警備員は仕上げの一撃を準備しているが、 看守のナイフを持った[prison_friend.GetTitledFirstNameNoTooltip]が眼前に迫っている―私たちはすぐに動き出した。\n\n夜の中に紛れ込むと、私たちは互いに寄りかかりながら笑った。"
  prison.9003.a:0 "We are free!"
  prison.9499.t:0 "Escaped!"
  prison.9499.desc_house_arrest:0 "My prisoner, [escapee.GetTitledFirstName], has escaped [escapee.GetHerHis] imprisonment!"

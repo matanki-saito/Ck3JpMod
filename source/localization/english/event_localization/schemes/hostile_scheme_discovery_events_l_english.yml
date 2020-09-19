@@ -27,7 +27,7 @@
  hostile_scheme_discovery.3001.accused:0 "\n\nNow [agent.GetSheHe] is known to be untrustworthy, and cannot help my cause any further."
  hostile_scheme_discovery.3001.a:0 "Curse [court_owner.GetTitledFirstNameNoTooltip], and [court_owner.GetHerHis] [spymaster.GetCouncilTitle]!"
  hostile_scheme_discovery.3002.t:0 "計画の露見"
- hostile_scheme_discovery.3002.desc:0 "The existence of my plot to [scheme.GetFullActionName] has been discovered!\n\nWhile my involvement is not yet known, this will make it a lot more difficult to bring my plans to fruition."
+ hostile_scheme_discovery.3002.desc:0 "[scheme.GetFullActionName]に向けた私の計画の存在が発覚した！\n\n私の関与はまだ知られていないが、これで計画を実現することがより難しくなるだろう。"
  hostile_scheme_discovery.3002.a:0 "呪われろ！"
  hostile_scheme_discovery.4001.t:0 "計画が露見した！"
  hostile_scheme_discovery.4001.opening:0 "My plot against my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))], [target.GetTitledFirstName], has been discovered!"

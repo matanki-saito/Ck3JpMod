@@ -132,7 +132,7 @@
  diplomacy_majesty_special.1011.b.rival:0 "Might become my rival"
  diplomacy_majesty_special.1012.desc:0 "Keeping in mind what I know about [debater.GetFirstNamePossessive] character, I believe the best way to win [debater.GetHerHim] over is..."
  diplomacy_majesty_special.1012.a:0 "... building my case on logic."
- diplomacy_majesty_special.1012.a.tt:0 "Works well against those who are rational, selfish, skeptical or cold-hearted"
+ diplomacy_majesty_special.1012.a.tt:0 "合理的、利己的、懐疑的、冷淡な人には効果がある"
  diplomacy_majesty_special.1012.b:0 "... stay calm, come what may."
  diplomacy_majesty_special.1012.generic.tt:0 "The effectiveness of the tactic depends on how well it suits [debater.GetTitledFirstNamePossessive] personality"
  diplomacy_majesty_special.1012.b.tt:0 "Works well against those who are bold, energetic, vindictive or dishonorable"

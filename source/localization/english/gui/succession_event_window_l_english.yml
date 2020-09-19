@@ -56,7 +56,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_DEVIANT:0 "A degenerate [ROOT.Char.GetWomanMan] of repulsive tastes, [ROOT.Char.GetSheHe] is sure to find no solace or revelry where [ROOT.Char.GetSheHe] is going."
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_CANNIBAL:0 "Rumored to consume human flesh for sustenance, [ROOT.Char.GetSheHe] is without a doubt being punished for [ROOT.Char.GetHerHis] wickedness in life."
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_SODOMITE:0 "A renown sodomite, [ROOT.Char.GetSheHe] lays now in the tender care of [ROOT.Char.GetFaith.DevilName] [ROOT.Char.GetFaith.DevilHerselfHimself]."
- SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_INCESTUOUS:0 "For having tasted the forbidden fruit of incestuous love, [ROOT.Char.GetSheHe] will surely suffer in the next life."
+ SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_INCESTUOUS:0 "近親相姦の禁断の果実を味わったため、[ROOT.Char.GetSheHe]は来世できっと苦しむだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_ADULTERER:0 "恥知らずの姦通者である[ROOT.Char.GetSheHe]は、[ROOT.Char.GetHerHis]の裏切りと[ROOT.Char.GetHerHis]の貪欲な性格で記憶されることになるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_FORNICATOR:0 "恥知らずな姦通者、[ROOT.Char.GetSheHe]は[ROOT.Char.GetHerHis]の制御不能で陰湿な欲望のために記憶されるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_MURDERER:0 "A known murderer, [ROOT.Char.GetSheHe] will atone for [ROOT.Char.GetHerHis] unspeakable crimes in the next life."
