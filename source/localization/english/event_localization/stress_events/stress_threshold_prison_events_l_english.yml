@@ -1,7 +1,7 @@
 ﻿l_english:
- stress_threshold_prison.1001.t:0 "Mental Break: Prison Problems"
+ stress_threshold_prison.1001.t:0 "精神崩壊: 囚人の問題"
  stress_threshold_prison.1001.desc:0 "Being imprisoned, locked up far away from all that used to be hale and enjoyable in life..."
- stress_threshold_prison.1001.desc.normal:0 "it is hard not to fall into despair."
+ stress_threshold_prison.1001.desc.normal:0 "絶望に陥らないようにするのは難しい。"
  stress_threshold_prison.1001.desc.cynical:0 "\n\nHow could [ROOT.Char.GetFaith.HighGodName] allow this place of despair to exist? How could any god?"
  stress_threshold_prison.1001.desc.depressed:0 "it used to bother me, but strangely, no longer does."
  stress_threshold_prison.1001.inappetetic.gain:0 "I cannot stomach this prison slop any more."
