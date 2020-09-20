@@ -1,6 +1,6 @@
 ﻿l_english:
  stress_threshold_prison.1001.t:0 "精神崩壊: 囚人の問題"
- stress_threshold_prison.1001.desc:0 "Being imprisoned, locked up far away from all that used to be hale and enjoyable in life..."
+ stress_threshold_prison.1001.desc:0 "投獄されたことで、元気と楽しさに満ちた人生の全てから遠ざけられてしまった…"
  stress_threshold_prison.1001.desc.normal:0 "絶望に陥らないようにするのは難しい。"
  stress_threshold_prison.1001.desc.cynical:0 "\n\nどのようにして[ROOT.Char.GetFaith.HighGodName]は、この絶望の場所の存在を許すことができたのだろうか？神なんているのだろうか？"
  stress_threshold_prison.1001.desc.depressed:0 "以前は気になっていたのだが、不思議なことに、もう気にならない。"

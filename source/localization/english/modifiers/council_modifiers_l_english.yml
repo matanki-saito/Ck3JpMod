@@ -45,7 +45,7 @@
  steward_administration_embraced_modifier:0 "統治が受け入れられた"
  steward_administration_embraced_modifier_desc:0 "この伯爵領の領民は、領国の家令による特別な配慮に満足しています。"
  court_chaplain_resisted_conversion_modifier:0 "改宗への抵抗"
- court_chaplain_resisted_conversion_modifier_desc:0 "The people of this County are actively working against any conversion efforts."
+ court_chaplain_resisted_conversion_modifier_desc:0 "この領地の人々は改宗活動に積極的に反対している。"
  court_chaplain_religious_construction_modifier:0 "宗教建造物"
  court_chaplain_religious_construction_modifier_desc:0 "改宗者は新しい宗教建造物の建設を熱心に支援します。"
  court_chaplain_religious_fervor_modifier:0 "改宗への熱意"

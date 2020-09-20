@@ -25,7 +25,7 @@
  subject_extortion.0005.desc:0 "私の廷臣たちは私の寛大さに実質的に頼って生活している。彼らは感謝の気持ちを表すべき時ではないだろうか。\n\n下級貴族でも、名誉や義務について理解しなければならない。"
  subject_extortion.0005.a:0 "彼らは#EMP 生きる#!ことさえ我が慈悲にのみすがるのだ！"
  subject_extortion.0005.b:0 "要求しているのではない、だが、期待はしている。"
- subject_extortion.0005.c:0 "Oh, they already have so little in this world..."
+ subject_extortion.0005.c:0 "なんてことだ、この世界に住まう彼らの持ち分はあまりに少ない…"
  subject_extortion.9998.t:0 "臣下からの強制徴発"
  subject_extortion.9998.desc.steward:0 "My [steward.GetCouncilTitle] seems to have failed to find any more sources of gold in my realm.\n\n\"I apologize, my liege, but there is nothing left we can get away with taking.\""
  subject_extortion.9998.desc:0 "Despite my grace and honorable character, I seem unable to find anyone who is willing to support me more than my law obliges them to. None of them seem excited about supporting my ideas for new laws, either.\n\nAm I forced to suffer destitution at the hands of my greedy and selfish servants?!"

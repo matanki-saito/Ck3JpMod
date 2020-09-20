@@ -64,7 +64,7 @@
  intrigue_scheme_ongoing.3002.b:0 "I spend far too much time thinking about this."
  intrigue_scheme_ongoing.3002.c:0 "[ROOT.Char.GetFaith.HighGodName] forgive me, what have I been doing?"
  intrigue_scheme_ongoing.3002.d:0 "I must be honest about my intentions."
- intrigue_scheme_ongoing.3003.t:0 "En Route"
+ intrigue_scheme_ongoing.3003.t:0 "途中"
  intrigue_scheme_ongoing.start.3003.desc:0 "その時が来たら我が刺客が必要とするのは、"
  intrigue_scheme_ongoing.escape_route.3003.desc:0 "何かあった場合に[defender.GetTitledFirstNamePossessive]の[defender.Custom('ResidenceBuilding')]から脱出するための安全な逃げ道だ。"
  intrigue_scheme_ongoing.leave_with_target.3003.desc:0 "safe route to transport [target.GetTitledFirstName] out of [defender.GetTitledFirstNamePossessive] [defender.Custom('ResidenceBuilding')]."

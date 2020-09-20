@@ -929,7 +929,7 @@
  end_war_attacker_white_peace_defender_desc:0 "\nHasn't enough blood been spilled in this pointless war of yours? Neither of us stand to gain anything by continuing to fight. Let us make peace."
  end_war_attacker_defeat_attacker_desc:0 "\nI wish I knew what possessed me to think I could take a foe as formidable as you in a fight. Alas, I can not change the past, only the future.\n\nI surrender to you — let us move on from this conflict."
  end_war_attacker_defeat_defender_desc:0 "\nYou may have thought you could best me, but I have proven you wrong. Do not make this messier than it has to be — surrender, and let us end this war."
- designate_heir_interaction:0 "Designate Heir"
+ designate_heir_interaction:0 "後継ぎとして指名"
  designate_heir_interaction_desc:0 "Designate [recipient.GetShortUINameNoTooltip] as your [primary_heir|E]"
  designate_heir_interaction_notification:0 "Designated Heir"
  join_war_interaction:0 "参戦を提案"

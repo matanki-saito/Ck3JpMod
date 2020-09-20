@@ -110,7 +110,7 @@
  feast_default.2008.c:0 "Corrupting #EMP my#! servants without my approval?!"
  feast_default.2008.d:0 "ああ、[homosexual_character.GetFirstNameNoTooltip]、知っていればよかった。"
  feast_default.2008.d.unlock_text:0 "このオプションはあなたの[sexuality|E]のために利用可能です。"
- feast_default.2009.t:0 "$feast_header$ Please, Do Go On"
+ feast_default.2009.t:0 "$feast_header$ どうぞ続けて"
  feast_default.2009.desc:1 "I listen intently to [secret_holder.GetTitledFirstName] as [secret_holder.GetSheHe] carelessly reveals all manner of things. Distracted by trying to get one last drop from [secret_holder.GetHerHis] tankard, [secret_holder.GetSheHe] is oblivious to how carefully I am paying attention.\n\nOnce [secret_holder.GetSheHe] realizes, [secret_holder.GetSheHe] starts getting up. \"I'm only rambling! It's not true anyways, any of it!\""
  feast_default.2009.a:0 "Oh, they just happen to be #EMP very#! interesting rambles."
  feast_default.2011.t:0 "$feast_header$ A Promise is a Promise"

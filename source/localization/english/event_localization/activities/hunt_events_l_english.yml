@@ -212,7 +212,7 @@
  hunt.9001.desc_opening_animal:0 "従者たちは仕留めた[ROOT.Char.Custom('LocalAnimal')]と他の獲物を持って帰りの行程の準備をしている。\n\n"
  hunt.9001.desc_opening_no_animal:0 "as the light fades from the sky.\n\n"
  hunt.9001.desc_hunter_1:0 "私が獲物を分け与えると、周りの人々は注目し始めた――私の行動が話題となって広がっている！\n\n"
- hunt.9001.desc_hunter_2:0 "この[ROOT.Char.Custom('TerrainType')]は私の別荘のようなものである――髪に風を感じ、延臣と時を過ごし、獲物に近づくと興奮を感じる…このことが終わらないよう、[ROOT.Char.GetFaith.HighGodNameAlternate]に私は祈るのだ！\n\n"
+ hunt.9001.desc_hunter_2:0 "この[ROOT.Char.Custom('TerrainType')]は私の別荘のようなものである――髪に風を感じ、廷臣と時を過ごし、獲物に近づくと興奮を感じる…このことが終わらないよう、[ROOT.Char.GetFaith.HighGodNameAlternate]に私は祈るのだ！\n\n"
  hunt.9001.desc_hunter_3:0 "どんなに速く、強く、狡猾な獲物でも私に勝つことは無い！私の狩人としての腕前は、領国内で多くの話題となっている。しかし、真の報酬とは、この[ROOT.Char.Custom('TerrainType')]が与えてくれる自由だ。"
  hunt.9001.desc_good_bad:0 "途中に困難はあったが、狩りは比較的にとても上々だったな！！"
  hunt.9001.desc_good:0 "このような狩りは純粋な喜びしかない、来年が待ち切れないな！"
