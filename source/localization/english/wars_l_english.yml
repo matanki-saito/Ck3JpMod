@@ -204,7 +204,7 @@
  dismantle_byz_pretender_cb_defeat_desc:1 "The $e_byzantium$ remains intact. The $e_roman_empire$ must pay war reparations."
  all_vassals_of_defender:0 "All vassals of [defender.GetShortUIName]"
  vassalization_cb:0 "Vassalization"
- VASSALIZATION_CB_NAME:2 "[vassalization_casus_belli|E] of [DEFENDER.GetShortUIName]"
+ VASSALIZATION_CB_NAME:2 "[DEFENDER.GetShortUIName]の[vassalization_casus_belli|E]"
  VASSALIZATION_CB_SPECIFIC_NAME:0 "Vassalize [DEFENDER.GetShortUIName]"
  VASSALIZATION_WAR_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Vassalization War"
  VASSALIZATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"

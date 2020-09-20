@@ -477,7 +477,7 @@
  eastern_hostility_doctrine_desc:0 "信仰している宗教は東方宗教:\n[GetReligionFamily('rf_eastern').GetReligions]"
  special_tolerance_name:0 "Special Tolerance"
  special_doctrine_ecumenical_christian_name:0 "世界教会主義"
- special_doctrine_ecumenical_christian_desc:0 "Our religious leaders have historically been engaged in inter-faith dialogs to increase cooperation amongst the different Christian denominations."
+ special_doctrine_ecumenical_christian_desc:0 "私たちの宗教指導者たちは歴史的に、さまざまなキリスト教宗派間の協力を強化するために、信仰間の対話に従事してきました。"
  special_doctrine_full_tolerance_name:0 "Full Tolerance"
  doctrine_parameter_hostility_override_special_doctrine_full_tolerance:0 "All [faiths|E] are considered to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_full_tolerance_desc:0 "Everyone is free to chose their own faith. Our differences do not divide us, they make us stronger."

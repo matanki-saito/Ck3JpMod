@@ -108,7 +108,7 @@
  intrigue_scheme_ongoing.4003.b:0 "I will quietly reduce their involvement in my plot."
  intrigue_scheme_ongoing.5001.t:0 "気を散らせたくてたまらない"
  intrigue_scheme_ongoing.5001.desc:0 "[target.GetTitledFirstNamePossessive]の守衛の服を洗濯している[servant.GetWomanMan]が私のもとに連れてこられた。[servant.GetHerHim]が服を細工しても誰も気づかないだろうし、もし守衛の気を散らすものを仕掛けることができたら...\n\n「どうなさいますか？我が主よ」"
- intrigue_scheme_ongoing.5001.a:0 "バラの実を本当に細かく砕いて欲しい..."
+ intrigue_scheme_ongoing.5001.a:0 "バラの実をうんと細かく砕いてくれ..."
  intrigue_scheme_ongoing.5001.b:0 "服に穴をあけよう。不適切な場所をな。"
  intrigue_scheme_ongoing.5002.t:0 "Written in the Stars"
  intrigue_scheme_ongoing.5002.desc:0 "[target.GetTitleAsNameNoTooltip]を怯えさせるため、怪しげな道徳観を持つ地元の神秘主義者、捏造された兆し…完璧だ。\n\n神秘主義者が[target.GetTitledFirstNamePossessive]の宮廷へと出発する前に、一つだけ質問があるー偽りの兆しは幸運なのか、それとも破滅なのか？"

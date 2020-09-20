@@ -554,7 +554,7 @@
  encourage_confession_of_false_conversions_decision:0 "Amnesty for False Conversions"
  encourage_confession_of_false_conversions_decision.tt:0 "Crypto-religionists may reveal their hidden [faith|E]"
  encourage_confession_of_false_conversions_decision.desc:0 "#F 私の領地には、隠れた宗教家がいて隠れた信仰を実践していることは公然の秘密です。もしかすると、公式な恩赦は、彼らにその顔をやめるよう説得することができるかもしれない。 #!"
- encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "Crypto-religionists within your realm may reveal themselves, if your [faith|E] [tolerates|E] their secret Faith better than their public one"
+ encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "あなたの[faith|E]が、隠れ信者の信仰する宗派に対して彼らが公に信仰する宗派よりも[tolerates|E]を持っているとき、領内の隠れ信者は彼らの真なる信仰を打ち明けることができるようになります"
  encourage_confession_of_false_conversions_decision.desc.tt_paranoia:0 "[characters|E] that are [GetTrait('deceitful').GetName( GetNullCharacter )] or [GetTrait('paranoid').GetName( GetNullCharacter )] will not reveal their secret [faith|E] unless it matches yours"
  encourage_confession_of_false_conversions_decision.desc.tt_pluralist_counties:0 "If you are [independent|E], [counties|E] within your [realm|E] that have [GetModifier('false_convert_modifier').GetNameWithTooltip] may convert openly, depending on how hostile you would be to their new [faith|E]"
  encourage_confession_of_false_conversions_decision.desc.tt_coreligionist:0 "Crypto-religionists within your realm may reveal themselves, if their private [faith|E] is the same as your public one"
