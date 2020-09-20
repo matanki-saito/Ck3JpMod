@@ -92,7 +92,7 @@
  no_hook_filter:0 "フックなし"
  no_hook_filter_desc:0 "プレイヤーが[hooks|E]を持たない人物のみ表示"
  claim_filter:0 "請求権"
- pressed_claim_filter:0 "Pressed"
+ pressed_claim_filter:0 "確固たる"
  pressed_claim_filter_desc:0 "[pressed_claim|E]を持つ人物のみ表示"
  any_claim_filter:0 "すべての請求権"
  any_claim_filter_desc:0 "[claim|E]を持つ人物のみ表示"

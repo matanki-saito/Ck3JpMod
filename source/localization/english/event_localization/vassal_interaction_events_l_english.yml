@@ -13,7 +13,7 @@
  vassal_interaction.0002.opening:0 "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"
  vassal_interaction.0002.desc:0 "もちろん、あなたの英知と希望に従います。私の主張は正当ですが、領国のために今のところは諦めましょう。"
  vassal_interaction.0002.a:0 "従順な召使いは良い召使いだ。"
- vassal_interaction.0003.desc:0 "I have come too close to my goals to give them up for nothing. I will yield if you promise me future restitution."
+ vassal_interaction.0003.desc:0 "目標はあまりに近く、成果もなしに止めてしまうことなどできない。後々補償をしてくれるならこちらも折れるとしよう。"
  vassal_interaction.0003.a:0 "約束します。"
  vassal_interaction.0003.b:0 "You should be doing as I say, no matter what!"
  vassal_interaction.0003.b.tt:0 "戦争は継続する"

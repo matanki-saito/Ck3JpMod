@@ -339,7 +339,7 @@
  THEOCRATIC_LEASE_VASSAL:0 "[TITLE.GetName] ([church_property|E])"
  REVOKABLE_LEASE_VASSAL:0 "[TITLE.GetName] ([TITLE_2.GetName])"
  REVOKE_TITLE_PRESSED_CLAIM:1 "You have a [pressed_claim|E] on [Title.GetName]"
- REVOKE_TITLE_UNPRESSED_CLAIM:1 "You have an [unpressed_claim|E] on [Title.GetName]"
+ REVOKE_TITLE_UNPRESSED_CLAIM:1 "あなたは[Title.GetName]に対する[unpressed_claim|E]持っています。"
  FAITH_IS_REFORMED:1 "[CHARACTER.GetFaith.GetName]は[organized|E][faith|E]である"
  NOT_FAITH_IS_REFORMED:1 "[CHARACTER.GetFaith.GetName]は[organized|E][faith|E]ではない"
  FAITH_HAS_BEEN_REFORMED:1 "[FAITH.GetName]は[organized|E][faith|E]である"
