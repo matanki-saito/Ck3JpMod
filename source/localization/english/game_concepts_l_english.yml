@@ -108,7 +108,7 @@
  game_concept_primary_heir_desc:0 "$game_concept_primary_heir$は[succession|E]において[ruler|E]の[primary_title|E]を相続するであろう人物だ。これは通常（常にそうであるわけではないが）[player_heir|E]と同じ人物となる。"
  game_concept_player_heir:0 "プレイヤーの後継者"
  game_concept_player_heirs:0 "プレイヤーの後継者"
- game_concept_player_heir_desc:0 "$game_concept_player_heir$は、[succession|E]によってプレイヤーがプレイし続けることになるキャラクターです。\n\n$game_concept_player_heir$は通常[primary_heir|E]と同じだが、あなたの[primary_title|E]の[succession_law|E]によってあなたの[dynasty|E]に属さない人に継承される場合、代わりに2番目(または3番目、4番目など)の上位称号の王朝の跡継ぎとしてプレイし続けることになる。\n\nこのような状況は$game_concept_player_heir$が選挙による継承法の下で投票された場合によく見られます。"
+ game_concept_player_heir_desc:0 "$game_concept_player_heir$は、[succession|E]によってプレイヤーがプレイし続けることになるキャラクターです。\n\n$game_concept_player_heir$は通常[primary_heir|E]と同じですが、あなたの[primary_title|E]の[succession_law|E]によってあなたの[dynasty|E]に属さない人に継承される場合、代わりに2番目(または3番目、4番目など)の上位称号の王朝の跡継ぎとしてプレイし続けることになります。\n\nこのような状況は$game_concept_player_heir$が選挙による継承法の下で投票された場合によく見られます。"
  game_concept_disinherit:0 "廃嫡"
  game_concept_disinherited:0 "廃嫡"
  game_concept_disinherit_desc:1 "[dynast|E]は[dynasty|E]の構成員を[dynasty_prestige|E]のコストを支払うことで廃嫡することができます。\n\nこれによって廃嫡れた構成員は家系が継承するあらゆる称号の正式な[line_of_succession|E]から排除されます。"

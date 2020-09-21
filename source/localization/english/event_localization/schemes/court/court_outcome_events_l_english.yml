@@ -58,7 +58,7 @@
  court_outcome.1101.target_fights.desc:0 "私がみた情景は予想とは違った。倒れた家具、引き裂かれたカーテン、そして手に血まみれの短剣を持ち、動かなくなった体の向こうに立っている[target.GetFirstName]。\n\n"
  court_outcome.1101.end.desc:0 "「[target.GetFirstNameNoTooltip]よ、大丈夫か？」慎重に尋ねる。我が言葉が呪文であるかのように、ついに[target.GetSheHe]は動き始め、我が腕の中に身を投げ出す。「[ROOT.Char.GetFirstNameNoTooltip]よ、来てくれたことを[target.GetFaith.HighGodName]に感謝します！」"
  court_outcome.1101.a:0 "もう二度と危険な目には会わせない！"
- court_outcome.1102.end.desc:0 "\"What are you doing here?!\" [target.GetSheHe] asks, [target.GetHerHis] voice trembling. I raise my hands, a gesture of peace, but [target.GetSheHe] draws [target.GetHerHis] dagger. \"Do not come any closer! Leave at once, or I #EMP will#! hurt you!\""
+ court_outcome.1102.end.desc:0 "「ここで何をしているのです！？」と[target.GetSheHe]は尋ねるが[target.GetHerHis]の声は震えている。私は両手を上げ、平和のしぐさをするが、[target.GetSheHe]は[target.GetHerHis]の短剣を抜く。「近寄るな！すぐに立ち去りなさい！さもないと#EMP 痛い目#!に遭いますよ！\""
  court_outcome.1102.a:0 "私は助けようとしただけなのに！"
  court_outcome.1103.desc:0 "The sounds from the struggle above is the greatest motivator I have ever known. Before I have even had a chance to make a plan, I reach the window. I hoist myself up — but the sight before me is not what I expected.\n\n[target.GetTitledFirstName] isn't exactly... #EMP struggling#!. No, [target.GetSheHe] seems to be truly enjoying [target.GetHerselfHimself] — together with [targets_lover.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]."
  court_outcome.1105.t:0 "侵入者"

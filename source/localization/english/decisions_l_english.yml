@@ -276,7 +276,7 @@
  convert_whole_realm_to_feudalism_decision_confirm:0 "[ROOT.Char.Custom('GetTribalReformGovernment')|U]の方法を採用"
  convert_whole_realm_to_feudalism_decision_tooltip:0 "[feudalism|E]を採用することで[government|E]の種類を変更します"
  islamic_vassals_will_convert:1 "As I am Islamic, my [tribal|E] vassals will change to [clan|E] government"
- other_vassals_will_convert:1 "私の[tribal|E]の封臣を[feudalism|E]に変更する"
+ other_vassals_will_convert:1 "[tribal|E]の封臣が[feudalism|E]に変わる"
  clan_liege_vassals_will_convert:0 "[liege|E]が[clan_government|E]を持っているため、私の[tribal|E]封臣は$game_concept_clan$に変わるでしょう"
  feudal_liege_vassals_will_convert:0 "[liege|E]が[feudal_government|E]を持っているため、私の[tribal|E]封臣は$game_concept_feudal$になるでしょう"
  all_holding_will_change:0 "領国内のすべての部族[holdings|E]が城砦区画になる"

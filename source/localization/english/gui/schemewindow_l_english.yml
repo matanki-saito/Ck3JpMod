@@ -283,7 +283,7 @@
  INTRIGUE_WINDOW_HOOK_SHOW_ALL:0 "#T フックの表示#!\n#I クリックで全てのフックと使用可能なフックのみを切替#!"
  INTRIGUE_WINDOW_AGENT_DISCOVERED:0 "Was discovered"
  INTRIGUE_WINDOW_AGENT_DISCOVERED_TT:0 "#T $INTRIGUE_WINDOW_AGENT_DISCOVERED$#!\nExposed agents risk imprisonment"
- INTRIGUE_WINDOW_SCHEME_POWER_TT:0 "#T [scheme_power|E]#! \n Adds [SchemeAgentItem.GetInfluence|0+] power\nAgent's [scheme_power|E] is proportional to [intrigue|E] skill"
+ INTRIGUE_WINDOW_SCHEME_POWER_TT:0 "#T [scheme_power|E]#!\n [SchemeAgentItem.GetInfluence|0+]の力を追加\nスパイの[scheme_power|E]は[intrigue|E]能力に比例します"
  INTRIGUE_WINDOW_SECRET_EXPOSE:0 "暴露"
  INTRIGUE_WINDOW_SECRET_EXPOSE_TT:0 "#T [secret|E]を暴露する#!\n\n秘密を暴露すると[secret|E]から得られたすべての[hooks|E]を失います"
  INTRIGUE_WINDOW_EXPOSE_TITLE:0 "秘密を暴露"

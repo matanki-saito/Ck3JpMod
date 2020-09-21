@@ -71,7 +71,7 @@
  USURP_TITLE_WOULD_GO_INDEPENDENT:0 "@warning_icon!#X あなたの[liege|E]の主要称号と同等またはより高い階位の称号を簒奪することはできません#!"
  historical_history:0 "継承"
  destroyed_history:0 "廃止"
- granted_history:0 "Granted"
+ granted_history:0 "授与"
  usurped_history:0 "簒奪した"
  created_history:0 "創設"
  inheritance_history:0 "継承"

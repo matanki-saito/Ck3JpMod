@@ -238,7 +238,7 @@
  intrigue_scheming.4054.a.incest.deviant:0 "Ooh, most alluring!"
  intrigue_scheming.4054.a.incest.accepted:0 "What is wrong with that, exactly?"
  intrigue_scheming.4054.a.murder:0 "あの狡猾な悪党め！"
- intrigue_scheming.4054.a.bastard:0 "I have been betrayed!"
+ intrigue_scheming.4054.a.bastard:0 "私は裏切られたんだ！"
  intrigue_scheming_special.1001.t:0 "技を磨く"
  intrigue_scheming_special.1001.desc:0 "微かに聞こえた囁き声と鋭い一瞥は、パズルを完成させる最後のピースだった。私の[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('courtier_spy'))][courtier_spy.GetTitledFirstName]は、誰も想像がつかないほど権謀術数に精通した人物だったのだ。\n\n[courtier_spy.GetWomanMan]のような人が宮廷にいるのは心穏やかではないが、もし信頼を得ることができたなら多くを学べるだろう。"
  intrigue_scheming_special.1001.a:0 "私と[courtier_spy.GetHerHim]は、「同じ穴のムジナ」だと分かってもらおう!"

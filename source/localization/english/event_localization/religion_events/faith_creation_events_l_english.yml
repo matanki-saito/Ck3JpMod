@@ -27,7 +27,7 @@
  faith_creation.1001.desc.no_holy_sites:0 "\n\n[reformed_faith.GetAdherentNamePluralNoTooltip]は​​、背後にいるすべての信者を結集し、新しい[reformed_faith.GetAdjectiveNoTooltip]の黄金時代の到来を告げる偉大な指導者[reformed_faith.ReligiousHeadName]を心待ちにしている。"
  faith_creation.1001.o.frightened:0 "[ROOT.Char.GetFaith.random_GoodGodNames]はこれらの血に飢えた[second.Custom('GetUnbelieverNamePlural')]から我々を救う！"
  faith_creation.1001.o.heretical:0 "これらの異端者は、[ROOT.Char.GetFaith.HighGodName]に対する罪を償うことになるだろう！"
- faith_creation.1001.o.crusader:0 "A [ROOT.Char.GetFaith.GHWName] or two will put these [second.Custom('GetUnbelieverNamePlural')] in their place!"
+ faith_creation.1001.o.crusader:0 "[ROOT.Char.GetFaith.GHWName]のどれかが、このような[second.Custom('GetUnbelieverNamePlural')]たちの真の居場所を用意してやることになるさ！"
  faith_creation.1001.o.interested:0 "我々はこの新たな展開に目を光らせておくべきだ…"
  faith_creation.1001.o.uninterested:0 "これら[second.Custom('GetUnbelieverNamePlural')]が何を信じているかは関係ない。"
  faith_creation.1001.o.getreaction:0 "[ROOT.Char.Custom2('GetFaithCreationReaction', reformer)]"

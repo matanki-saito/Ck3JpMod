@@ -4,6 +4,6 @@
  fabricate_hook_ongoing.0001.a:0 "「特に知っておくべき[target.GetSheHe]の弱点はないか？」"
  fabricate_hook_ongoing.0001.b:0 "「[target.GetHerHim]に近づくにはどうすればいい？」"
  fabricate_hook_ongoing.0002.t:0 "$fabricate_hook_header$ 不当な影響"
- fabricate_hook_ongoing.0002.desc:0 "[target.GetTitledFirstName] seems unusually careful around [target.GetHerHis] [target.Custom2('RelationToMeShort', hooking_character )], [hooking_character.GetTitledFirstName]. This kind of deference can only mean that [hooking_character.GetFirstNameNoTooltip] has some kind of leverage on [target.GetHerHim].\n\nPerhaps there is something for me to learn, here?"
+ fabricate_hook_ongoing.0002.desc:0 "[target.GetTitledFirstName]は[target.GetHerHis]の[target.Custom2('RelationToMeShort', hooking_character )]、[hooking_character.GetTitledFirstName]の近くでは不自然なほど注意深くしているようだ。この変化の意味するところは、[hooking_character.GetFirstNameNoTooltip]が何らかの影響力を[target.GetHerHim]にもっているということだ。\n\nなにか学ぶべきことがあるようだな、どう？"
  fabricate_hook_ongoing.0002.a:0 "私のスパイはこの謎を解明すべきだ。"
- fabricate_hook_ongoing.0002.b:0 "I must know what [hooking_character.GetSheHe] makes [target.GetHerHim] do!"
+ fabricate_hook_ongoing.0002.b:0 "[hooking_character.GetSheHe]がなにを[target.GetHerHim]にさせるつもりなのか知らねばならぬ！"

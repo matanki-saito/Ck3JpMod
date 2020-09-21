@@ -32,5 +32,5 @@
  SCHEME_MURDER_COUPLE:0 "I always loved your blood thirst: $VALUE|+0$"
  SCHEME_MURDER_DISINTERESTED:0 "I will not take part in this: $VALUE|+0$"
  POTENTIAL_AGENT_SUCCESS_TOOLTIP:0 "#T [success_chance|E]: [CharacterListItem.GetInt( 'success' )|+]#!\n[CharacterListItem.GetText( 'success_desc' )]"
- POTENTIAL_AGENT_POWER_TOOLTIP:1 "#T [scheme_power|E]#! \n Adds [CharacterListItem.GetInt( 'power' )|+] power\nAgent's [scheme_power|E] is proportional to [intrigue|E] skill"
+ POTENTIAL_AGENT_POWER_TOOLTIP:1 "#T [scheme_power|E]#!\n [CharacterListItem.GetInt( 'power' )|+]の力を追加\nスパイの[scheme_power|E]は[intrigue|E]能力に比例します"
  AGENT_SPYMASTER:0 "密偵頭: #P $VALUE|0$%#!"

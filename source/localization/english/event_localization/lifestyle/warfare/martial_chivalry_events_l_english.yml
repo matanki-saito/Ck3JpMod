@@ -12,7 +12,7 @@
  martial_chivalry.0001.c.tt:0 "Decapitation in a single strike is a sure way of making an impression on the footmen — and the nobles — present."
  martial_chivalry.0002.t:0 "突然の衝撃"
  martial_chivalry.0002.desc:0 "これまで何度も馬に乗って、狙いをつけて、打ってきたが、自分のリズムを崩すものはないと思っていた。練習場をまたもや駆け足で走っていると、目に見えない騒ぎで馬が後ずさりした。\n\n一瞬、勢いに押されて馬が揺れ始め、後ろに引きつけられてしまう。そして、時間がゆっくりと流れているかのように、自分がはずれていくのを感じる。"
- martial_chivalry.0002.a:0 "落ち着け、[ROOT.Char.Custom('RandomGirlBoy')]よ!落ち着け!"
+ martial_chivalry.0002.a:0 "落ち着け、[ROOT.Char.Custom('RandomGirlBoy')]よ！落ち着け！"
  martial_chivalry.0002.increase_horse_mastery:1 "My mastery of horse riding increases, and with it my expertise in the [martial_lifestyle|E]."
  martial_chivalry.0002.b:0 "馬から安定した地面へ飛び降りた—悪いが後悔するよりましだ！"
  martial_chivalry.0003.t:0 "掌握(In Charge)"

@@ -8,5 +8,5 @@
  RP_CANNOT_RAISE_OCCUPIED:0 "#X [rally_point|E]に指定した地点が[occupied|E]にあります#!"
  RP_CANNOT_RAISE_HOSTILE:0 "#X [rally_point|E]に指定されている地点に敵対する[armies|E]がいます#!"
  RP_CANNOT_RAISE_ENEMY_TERRITORY:0 "#X [rally_point|E]に指定した地点が敵の領土になっています#!"
- RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X [occupation|E]にある、あるいは敵の[armies|E]がいる[rally_point|E]では軍を召集できません。#!"
+ RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X [occupation|E]下にある、あるいは敵の[armies|E]がいる[rally_point|E]では軍を召集できません。#!"
  RP_NOTHING_TO_RAISE:0 "#X 召集できる[armies|E]がありません#!"
