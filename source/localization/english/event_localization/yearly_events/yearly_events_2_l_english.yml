@@ -1,7 +1,7 @@
 ﻿l_english:
  yearly.1001.t:0 "Through Downcast Lashes"
- yearly.1001.start.desc:0 "As my eyes meet [married_seducer.GetTitledFirstNamePossessive] for what feels like the twentieth time tonight, I know I am not imagining things. Even from the other end of the table, [married_seducer.GetHerHis] gaze feels as intense as the midday sun.\n\n[married_seducer.GetSheHe|U] wants me,"
- yearly.1001.end_hesitation.desc:0 "and I can feel my body responding, awakening. But [seducer_spouse.GetTitledFirstName] – [married_seducer.GetHerHis] [seducer_spouse.GetWifeHusband], and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('seducer_spouse'))] – is also here tonight..."
+ yearly.1001.start.desc:0 "[married_seducer.GetTitledFirstNamePossessive]と目が合うのは今夜で20回目になるような気がするが、これは想像ではないことがわかった。テーブルに向かい合い見つめる[married_seducer.GetHerHis]の視線は真昼の日差しのように強烈に感じられた。\n\n[married_seducer.GetSheHe|U]は私を欲している。"
+ yearly.1001.end_hesitation.desc:0 "そして私の身体は目覚め反応しているのを感じる。しかし、[seducer_spouse.GetTitledFirstName] – [married_seducer.GetHerHis]の[seducer_spouse.GetWifeHusband]、そして我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('seducer_spouse'))] – は今夜もここにいる…"
  yearly.1001.end_intimidated.desc:0 "and I am terrified. Of [married_seducer.GetHerHim]? Of [married_seducer.GetHerHis] [seducer_spouse.GetWifeHusband] [seducer_spouse.GetTitledFirstName]? Or... of what I might do? I cannot say."
  yearly.1001.end_spiteful.desc:0 "and I cannot lie, I want [married_seducer.GetHerHim] too... Or is punishing [married_seducer.GetHerHis] [seducer_spouse.GetWifeHusband], [seducer_spouse.GetTitledFirstName], what I truly desire? Does it even matter?"
  yearly.1001.a:0 "[married_seducer.GetHerHim]を口説こう！"

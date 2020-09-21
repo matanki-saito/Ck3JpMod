@@ -826,7 +826,7 @@
  building_type_jousting_lists_01:0 "Jousting Grounds"
  building_type_jousting_lists_01_desc:0 "#F By having dedicated grounds for jousting, more riders and knights are encouraged to train and join the banners.#!"
  building_jousting_lists_01:0 "Jousting Fields"
- building_jousting_lists_01_desc:0 "A clearing is kept open year-round to facilitate the training of riders and knights."
+ building_jousting_lists_01_desc:0 "騎手や騎士の訓練を容易にするために、一年中、空き地を開放している。"
  building_jousting_lists_02:0 "Tournament Grounds"
  building_jousting_lists_02_desc:0 "With jousting lists and stands for the public, these tournament grounds attract a huge amount of contestants."
  building_jousting_lists_03:0 "Royal Tournament Arenas"
