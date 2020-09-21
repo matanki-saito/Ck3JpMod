@@ -1091,7 +1091,7 @@
  game_concept_demand_conversion:0 "改宗要求"
  game_concept_demand_conversion_desc:1 "自分とは別の[faith|E]を信仰する臣下を持つ[rulers|E]は改宗要求により臣下の信仰を自分のものに変更させることが出来ます。臣下が要求を受け入れるか、或いは[Concept('refuse_conversion_crime','refuse')|E]するかを決める主な要素は支配者の[learning|E]と臣下の支配者に対する[opinion|E]です。"
  game_concept_damage:0 "攻撃力"
- game_concept_damage_desc:1 "[soldier|E]のダメージ値は[battle|E]において敵に[casualties|E]の数を決定付けます。\n\n[levy|E]の兵士は[GetDefine('NCombat', 'LEVY_ATTACK')|0]のダメージを持ちます。"
+ game_concept_damage_desc:1 "[soldier|E]の攻撃力は、[battle|E]において敵にどれだけの[casualties|E]を生じさせられるかを決定します。\n\n[levy|E]の兵士は[GetDefine('NCombat', 'LEVY_ATTACK')|0]の攻撃力を持ちます。"
  game_concept_toughness:0 "耐久力"
  game_concept_toughness_desc:1 "[soldier|E]の耐久力は、[battle|E]において[casualty|E]となる前に、どれだけの[damage|E]を受けることができるかによって決められます。\n\n[levy|E]の耐久力は[GetDefine('NCombat', 'LEVY_TOUGHNESS')|0]です。"
  game_concept_pursuit:0 "追撃力"
