@@ -39,7 +39,7 @@
  game_concept_domain_size_desc:0 "$game_concept_domain_size$は個人が支配している[barony|E]および[county|E]の[titles|E]数を表しています。"
  game_concept_levies:0 "徴募兵"
  game_concept_levy:0 "徴募兵"
- game_concept_levies_desc:2 "ほとんどの[armies|E]の大部分は$game_concept_levies$で構成されている。\n\n各[holding|E]は、その[holder|E]に対して一定の$game_concept_levies$を提供する。同様に、[vassals|E]は[liege|E]に対して、$game_concept_levies$の一部を提供する。\n\n$game_concept_levies$は、ほとんどが不十分な武装をした兵士によって構成されている。#weak (農民兵、暴徒、地方の傭兵、困窮した貴族、小規模な土地所有者など)#!そして、彼らのユニットタイプと考えられる。\n\n$game_concept_levy$は[GetDefine('NCombat', 'LEVY_ATTACK')|0][damage|E]と[GetDefine('NCombat', 'LEVY_TOUGHNESS')|0][toughness|E]を持っている。このゲームにおける他のタイプの[soldiers|E]は[men_at_arms|E]―高高価な訓練を受けたプロフェッショナル―である。"
+ game_concept_levies_desc:2 "ほとんどの[armies|E]の大部分は$game_concept_levies$で構成されている。\n\n各[holding|E]は、その[holder|E]に対して一定の$game_concept_levies$を提供する。同様に、[vassals|E]は[liege|E]に対して、$game_concept_levies$の一部を提供する。\n\n$game_concept_levies$は、ほとんどが不十分な武装をした兵士によって構成されている。#weak (農民兵、暴徒、地方の傭兵、困窮した貴族、小規模な土地所有者など)#!そして、彼らのユニットタイプと考えられる。\n\n$game_concept_levy$は[GetDefine('NCombat', 'LEVY_ATTACK')|0][damage|E]と[GetDefine('NCombat', 'LEVY_TOUGHNESS')|0][toughness|E]を持っている。このゲームにおける他のタイプの[soldiers|E]は[men_at_arms|E]―高価な訓練を受けたプロフェッショナル―である。"
  game_concept_vassal_obligations:0 "封臣の法的義務"
  game_concept_obligations:1 "法的義務"
  game_concept_obligation:0 "法的義務"

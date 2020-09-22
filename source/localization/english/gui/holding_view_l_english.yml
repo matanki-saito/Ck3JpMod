@@ -153,7 +153,7 @@
  HOLDING_VIEW_YOUR_COUNTY:0 "あなたの[county|E]"
  HOLDING_VIEW_TOP_REALM_COUNTY:0 "あなたと同じ[realm|E]にある[county|E]"
  HOLDING_VIEW_FOREIGN_COUNTY:0 "[Character.GetTopLiege.GetPrimaryTitle.GetNameNoTooltip]の[county|E]"
- COUNTY_OCCUPIER_TOOLTIP:0 "#T [Character.GetShortUIName]による[occupied|E]\n#!占領下において:\n$BULLET_WITH_TAB$[levies|E]を召集したり補充したりできません\n$BULLET_WITH_TAB$[taxes|E]が徴収されません\n$BULLET_WITH_TAB$[development|E]と[control|E]が増加しません\n\n$COA_REALM_TOOLTIP_GUI_CLICK_INFO$"
+ COUNTY_OCCUPIER_TOOLTIP:0 "#T [Character.GetShortUIName]による[occupied|E]\n#!占領下において:\n$BULLET_WITH_TAB$[levies|E]を召集・補充することができません\n$BULLET_WITH_TAB$[taxes|E]が徴収されません\n$BULLET_WITH_TAB$[development|E]と[control|E]が増加しません\n\n$COA_REALM_TOOLTIP_GUI_CLICK_INFO$"
  FIND_VASSAL_BUTTON_HOLDING_VIEW_TOOLTIP:2 "#T $FIND_VASSAL_HEADER$#!\nこの領土の[HoldingView.GetCountyTitle.GetNameNoTooltip]を授与する相手を選んでください。\n\n$FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT$"
  VASSAL_POSSESSIVE:0 "vassal's"
  HOLDING_VIEW_BUILDING_IN_VASSAL:0 "あなたの封臣の[holding|E]を建設します"

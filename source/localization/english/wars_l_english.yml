@@ -6,7 +6,7 @@
  WAR_SCORE_BATTLES_LOSS:0 "[battles|E]敗北: $VALUE|=+0%/$"
  WAR_SCORE_BATTLES_CAPPED:0 "Score capped to $VALUE|=+%/$"
  WAR_SCORE_OCCUPATION_LOSS:0 "#S 占領されている伯爵領: $VALUE|=+0%/$ (占領値:$CAP|=+0%/$)#!"
- WAR_SCORE_CAPITAL_LOSS:0 "同盟者首都の占領: $VALUE|=+0%/$"
+ WAR_SCORE_CAPITAL_LOSS:0 "味方首都の占領: $VALUE|=+0%/$"
  WAR_SCORE_ATTACKER_TICKING:0 "攻撃側が戦争目標を支配: $VALUE|=+0%/$"
  WAR_SCORE_DEFENDER_TICKING:0 "防衛側が戦争目標を支配: $VALUE|=+0%/$"
  WAR_SCORE_LANDLESS_ARMIES_LOST:0 "領地の無い攻撃者は軍が残っていません: $VALUE|=+0%/$"

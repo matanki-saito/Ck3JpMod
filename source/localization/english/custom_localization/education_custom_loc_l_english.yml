@@ -3,7 +3,7 @@
  martial_bad_trait_match_good_outcome:0 "To say that the unruly [ROOT.Char.GetFirstName] did not seem cut out for a life of war is an understatement. However, [ROOT.Char.GetSheHe] has defied all expectation."
  martial_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように戦争に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
  education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。[ROOT.Char.GetSheHe|U]はいつか立派な指揮官になると確信しています。"
- education_martial_3_outcome_description_not_commander:0 "[ROOT.Char.GetSheHe|U] has shown great aptitude both in battle tactics and the management of armies. It is a shame that [ROOT.Char.GetSheHe] will never command armies."
+ education_martial_3_outcome_description_not_commander:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。軍の指揮に関して[ROOT.Char.GetSheHe]は恥辱に塗れることとはついぞ無縁であろう。"
  education_martial_4_outcome_description:0 "若くしてこれだけの技量を見せていることに感心する。[ROOT.Char.GetSheHe|U]は熟練の司令官でさえ発揮することはまれなほどの洞察力を示している。"
  martial_good_trait_match_bad_outcome:0 "[ROOT.Char.GetFirstNamePossessive]のエネルギッシュな性格は、戦争や戦闘への親和性の表れだと思われていたが、単に不道徳なだけだったのかもしれない。"
  martial_bad_trait_match_bad_outcome:1 "[ROOT.Char.GetFirstName]は 戦争というテーマにあまり興味を示したことがなかったが、それは一過性のものかもしれないとずっと思っていた。私は甘かった。"
