@@ -520,7 +520,7 @@
  doctrine_adultery_men_accepted_name:0 "許容"
  doctrine_adultery_men_accepted_desc:0 "男性が婚姻外の性交を行うことに本質的な誤ちは存在せず、それを決めるのは彼自身である"
  doctrine_parameter_adultery_male_crime:0 "[GetTrait('adulterer').GetName( GetDummyMale )]または[GetTrait('fornicator').GetName( GetDummyMale )] [trait|E]を有する男性は[criminals|E]である"
- doctrine_parameter_adultery_male_shunned:0 "[GetTrait('adulterer').GetName( GetDummyMale )]または[GetTrait('fornicator').GetName( GetDummyMale )] [trait|E]を有する男性は[shunned|E]である"
+ doctrine_parameter_adultery_male_shunned:0 "[GetTrait('adulterer').GetName( GetDummyMale )]または[GetTrait('fornicator').GetName( GetDummyMale )][trait|E]を持つ男性は[shunned|E]される"
  doctrine_parameter_adultery_male_accepted:0 "[GetTrait('adulterer').GetName( GetDummyMale )]または[GetTrait('fornicator').GetName( GetDummyMale )] [trait|E]を有する男性は完全に受け入れられる"
  doctrine_adultery_women_name:0 "女性姦通"
  doctrine_adultery_women_crime_name:0 "罪"

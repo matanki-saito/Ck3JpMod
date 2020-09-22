@@ -30,7 +30,7 @@
  cat_name:0 "[ROOT.Var( 'story_cycle_cat_name' ).GetFlagName]"
  cat_name_possessive:0 "[ROOT.Var( 'story_cycle_cat_name' ).GetFlagName]"
  cat_name_gyb:0 "ギブ"
- cat_name_mite:0 "ダニ"
+ cat_name_mite:0 "チビ"
  cat_name_gray:0 "グレイ"
  cat_name_flame:0 "灼熱号"
  cat_name_meone:0 "ミオーネ"

@@ -207,7 +207,7 @@
  hunt.7001.b_success:0 "その男は私の言い分を理解している…主観だが"
  hunt.7001.b_failure:0 "その狂人は論理に到達できない"
  hunt.7001.c:0 "やっと獲物を見つけたぞ！"
- hunt.9001.t:1 "$hunt_header$ 野生からの復帰"
+ hunt.9001.t:1 "$hunt_header$ 大自然からの帰還"
  hunt.9001.desc_opening:0 "狩りは終わりに近づいていた。我々は馬に騎乗して[ROOT.Char.Custom('TerrainType')]から離れた後で、"
  hunt.9001.desc_opening_animal:0 "従者たちは仕留めた[ROOT.Char.Custom('LocalAnimal')]と他の獲物を持って帰りの行程の準備をしている。\n\n"
  hunt.9001.desc_opening_no_animal:0 "as the light fades from the sky.\n\n"

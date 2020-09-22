@@ -43,7 +43,7 @@
  education_diplomacy_3_outcome_description:0 "礼儀作法を熟知し、あらゆる種類の娯楽を理解し、それに応じた雄弁さがあれば、[ROOT.Char.GetSheHe]が宮廷生活を送るのに苦労することはほとんどないだろう。"
  education_diplomacy_4_outcome_description:0 "[ROOT.Char.GetSheHe]は王や伯爵の意見を左右できるほど、雄弁だ！[ROOT.Char.GetSheHe]が話すと、宮廷中が静かにそしてうっとりと聞き耳を立てる。"
  education_stewardship_1_outcome_description:0 "Perhaps [ROOT.Char.GetSheHe] can be considered lucky for having mastered the art of counting coins, for most other aspects of a steward's work seems to have eluded [ROOT.Char.GetHerHim]."
- education_stewardship_2_outcome_description:1 "Few would be impressed by [ROOT.Char.GetHerHis] understanding of the subject, but [ROOT.Char.GetSheHe] has at least developed a sound grasp on the basics of management, and the beginnings of a sensible frugality."
+ education_stewardship_2_outcome_description:1 "[ROOT.Char.GetHerHis]の理解力に感銘を受けた者は片手で足りてしまった。しかし、少なくとも基礎はしっかりと体得したし、質素倹約のコツも掴めた。"
  education_stewardship_3_outcome_description:0 "金の流れと人々の迷いについて完全に熟知しており、[ROOT.Char.GetSheHe]はこれらの対応の際には、驚くほどの創造性を発揮している。"
  education_stewardship_4_outcome_description:0 "富や人の流れを理解することに満足しているのではなく、[ROOT.Char.GetSheHe]はまるで本能でそれを予測することができるようだ。[ROOT.Char.GetSheHe|U]はいつもそれから利益を得る新しい方法も見つけてくる。"
  education_intrigue_1_outcome_description:0 "細やかさ、忍耐力がない[ROOT.Char.GetSheHe]には長期的な計画を達成するのは難しいようだ。だが少なくとも[ROOT.Char.GetSheHe]は計画を立てる努力はしている。"
