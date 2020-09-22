@@ -198,7 +198,7 @@
  pet_animal.5002.b:0 "痴れ者の犬をとても可愛がってやろう！"
  pet_animal.6001.t:0 "Petting [ROOT.Char.Custom('DogStoryName')|U]"
  pet_animal.6001.desc:0 "As I stroke [ROOT.Char.Custom('DogStoryNamePossessive')] [ROOT.Char.Custom('DogFurColor')] fur I can feel my worries dissipating. To have someone's unwavering loyalty, and to know they will always stay by my side... If only the people around me were more like you, [ROOT.Char.Custom('DogStoryName')]!\n\nWe sit together for many minutes, [ROOT.Char.Custom('DogStoryHerHis')] tail wagging and my shoulders relaxing, until I am ready to face the world again."
- pet_animal.6001.a:0 "Thank you, my friend!"
+ pet_animal.6001.a:0 "ありがとう、友よ！"
  pet_animal.6002.desc:0 "I find [ROOT.Char.Custom('DogStoryName')] outside, playing with some children. As [ROOT.Char.Custom('DogStorySheHe')] spots me [ROOT.Char.Custom('DogStorySheHe')] quickly bounds over with [ROOT.Char.Custom('DogStoryHerHis')] tail wagging, and as I crouch down [ROOT.Char.Custom('DogStorySheHe')] promptly flops over onto [ROOT.Char.Custom('DogStoryHerHis')] back.\n\nI spend many minutes petting [ROOT.Char.Custom('DogStoryHerHis')] [ROOT.Char.Custom('DogFurColor')] stomach, and it's been a long time since I felt this relaxed."
  pet_animal.6003.desc:0 "外で歩いていると[ROOT.Char.Custom('DogStoryName')]が顎に棒を咥えながら私に駆け寄ってくるのが見えた。すこしの間なら[ROOT.Char.Custom('DogStoryHerHim')]と取って来させる遊びは出来そうだと思える。そうだ、それはリラックスになるだろう。\n\n#EMP ちょっと待て、何だそれは？#!\n\n屈んでその棒を掴もうとすると、それは全く棒ではなく#EMP [target_county.GetName]の請求権である！#!一体どうやって手に入れたんだ、[ROOT.Char.Custom('DogStoryName')]よ？！"
  pet_animal.6003.a:0 "Good [ROOT.Char.Custom('DogStoryGirlBoy')], [ROOT.Char.Custom('DogStoryName')]. #EMP Good [ROOT.Char.Custom('DogStoryGirlBoy')]!#!"

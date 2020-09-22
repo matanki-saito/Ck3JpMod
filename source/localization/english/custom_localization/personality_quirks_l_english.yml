@@ -207,7 +207,7 @@
  fallback_2_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] sticks [ROOT.GetCharacter.GetHerHis] tongue out"
  arrogant_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] looks down [ROOT.GetCharacter.GetHerHis] nose"
  shy_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U]は目をそらす"
- impatient_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] taps [ROOT.GetCharacter.GetHerHis] foot"
+ impatient_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U]は[ROOT.GetCharacter.GetHerHis]足を叩く"
  greedy_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U]は眉間にしわを寄せる"
  lustful_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] makes a crude gesture"
  chaste_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U]は落胆の表情を見せる"

@@ -322,7 +322,7 @@
  supply_state_running_low_advantage:1 "敵の補給が不足している"
  supply_state_starving_advantage:1 "敵は飢えている"
  recently_disembarked_advantage:1 "敵は[recently_disembarked|E]"
- gathering_army_advantage:0 "Gathering Army"
+ gathering_army_advantage:0 "軍は召集中"
  holding_defender_advantage:0 "守備的[buildings|E]"
  owner_in_debt:0 "[debt|E]の所有者"
  unreformed_faith_province:1 "Unreformed pagan combat bonus"

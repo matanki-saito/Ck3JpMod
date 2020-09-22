@@ -41,7 +41,7 @@
  stress_trait_ongoing.0516.a:0 "Yes, of course, such an important meeting..."
  stress_trait_ongoing.0516.a.tt_success:0 "[important_guest.GetFirstNameNoTooltip] is impressed by your calm, steady responses"
  stress_trait_ongoing.0516.a.tt_fail:0 "Is offended by your obvious inebriation"
- stress_trait_ongoing.0516.b:0 "I'm sorry, but I'm feeling under the weather."
+ stress_trait_ongoing.0516.b:0 "すみませんが気分がすぐれません。"
  stress_trait_ongoing.0516.b_flavour:0 "You duck out of the meeting early and go lay down"
  stress_trait_ongoing.0516.c:0 "Loosen up, [important_guest.GetFirstNameNoTooltip]. Have some hashish!"
  stress_trait_ongoing.0516.c_flavour:0 "You have a servant bring in more cakes to share"

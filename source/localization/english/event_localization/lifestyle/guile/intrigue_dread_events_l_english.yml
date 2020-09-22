@@ -38,7 +38,7 @@
  intrigue_dread_special.1199.desc_fallback:0 "I keep to the script, and the scene flows smoothly but unremarkable."
  intrigue_dread_special.1199.desc_win:0 "\n\nWe are followed off the stage by thunderous applause after the last scene. To so thoroughly fool the whole audience, to keep up my disguise and deception and to be able to fool so many people at once... It is a powerful feeling!"
  intrigue_dread_special.1199.desc_loose:0 "\n\nAs we finish the last scene, taking turns bowing to the audience, the quiet speaks for itself when my turn arrives. Despite my efforts, I was not able to make the audience believe my fabrication, and the disappointment is a bitter draught to swallow."
- intrigue_dread_special.1199.z:0 "And I wish to feel it again! And again!"
+ intrigue_dread_special.1199.z:0 "もう一度感じたい！そしてまた！"
  intrigue_dread_special.1199.a:0 "Exit, stage left."
  intrigue_dread_special.1199.b:0 "Next time though, just you wait!"
  intrigue_dread_special.1199.c.a:0 "You #EMP will#! cheer! Guards!"

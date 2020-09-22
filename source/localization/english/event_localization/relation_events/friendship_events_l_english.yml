@@ -152,7 +152,7 @@
  friendship.3005.a:0 "How could you do this to me, [spouse_suffering.GetFirstName]?"
  friendship.3006.t:0 "Favorable Relations"
  friendship.3006.desc:0 "My good friend and advisor, [friend_on_council.GetTitledFirstName] is owed a favor by [hooked_councillor.GetTitledFirstName]. [friend_on_council.GetSheHe|U] has made it clear to [hooked_councillor.GetFirstNameNoTooltip] that it should be repaid in whatever form I ask for."
- friendship.3006.a:0 "Thank you, my friend!"
+ friendship.3006.a:0 "ありがとう、友よ！"
  friendship.3006.b:0 "I trust you to use this leverage better than I would, [friend_on_council.GetFirstNameNoTooltip]."
  friendship.3007.t:0 "The Comfort of a Friend"
  friendship.3007.opening:1 "[friend.GetTitledFirstNamePossessive]との友情以上に楽しいと思えるものはほとんどない。"

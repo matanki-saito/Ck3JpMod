@@ -33,7 +33,7 @@
  DISBAND_ARMY_CONFIRM_TITLE:0 "軍を解散する"
  DISBAND_ARMY_CONFIRM_ACCEPT:0 "解散"
  DISBAND_ARMY_CONFIRM:0 "$COUNT|V$人の[soldiers|E]が撤退し家に帰る。"
- DISBAND_GATHERING_ARMY:1 "Disband Gathering Army"
+ DISBAND_GATHERING_ARMY:1 "召集中の軍を解散する"
  DISBAND_GATHERING_ARMY_DISABLED:0 "\n$DESC$"
  DISBAND_RETURN_HOME_TIME:0 "@warning_icon!#X [levies|E]の帰還には最大で$TIME$かかるため、再び召集するには時間がかかります。#!"
  CANNOT_SPLIT_ARMY_NOT_OWNER:0 "@warning_icon!#X 他人の軍隊を解散することは出来ない#!"

@@ -90,7 +90,7 @@
  stewardship_domain_special_1500_resentful_guilds:0 "憤慨したギルド"
  stewardship_domain_special_1500_guild_services:0 "Discounted Guild Services"
  stewardship_domain_special_1500_encouraged_travellers:0 "Encouraged Travelers"
- stewardship_domain_special_1500_avoided_by_merchants:0 "Avoided By Merchants"
+ stewardship_domain_special_1500_avoided_by_merchants:0 "商人に避けられる"
  stewardship_domain_county_worked_to_death_modifier:0 "Worked to Death"
  stewardship_domain_county_worked_to_death_modifier_desc:0 "At least it got the job done! Where's the gratitude for that?!"
  stewardship_domain_personal_ownership_modifier:0 "Personal Landholdings"
