@@ -1,5 +1,5 @@
 ﻿l_english:
- infidelity_confrontation.1000.t:0 "不誠実"
+ infidelity_confrontation.1000.t:0 "不誠実な"
  infidelity_confrontation.1000.confession.apologetic_start.desc:0 "[infidelity_partner.GetFirstNameNoTooltip] is silent as if frozen in time, but I can see it in [infidelity_partner.GetHerHis] eyes. My fears are true. I, too, seem to have frozen — except for my heart, which is beating hard.\n\nAs words finally spill from [infidelity_partner.GetFirstNamePossessiveNoTooltip] lips, so do tears from [infidelity_partner.GetHerHis] eyes. \"Oh, [infidelity_partner.Custom2('RelationToMeShort', ROOT.Char)], I never meant to hurt you. I swear! I... I will tell you everything. I have shared my bed with "
  infidelity_confrontation.1000.confession.your_lovername.desc:0 "[infidelity_partners_lover.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]."
  infidelity_confrontation.1000.confession.my_lovername.desc:0 "[infidelity_partners_lover.Custom2('MyCharacterIntroductionNoComma', infidelity_partner)]."
