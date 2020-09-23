@@ -57,7 +57,7 @@
  death_drinking_passive:0 "[CHARACTER.GetHerselfHimself]は飲酒により死亡した"
  death_dungeon_killer:1 "[TARGET_CHARACTER.GetUINamePossessive]の地下牢で死亡した"
  death_fight:0 "戦いの中で死亡した"
- death_battle:0 "が戦いで討ち取られた"
+ death_battle:0 "戦いで討ち取られた"
  death_battle_killer:0 "が[TARGET_CHARACTER.GetUIName]との戦いで討ち取られた"
  death_head_ripped_off:0 "[CHARACTER.GetHerHis]の首が刎ねられ死亡した"
  death_head_ripped_off_killer:0 "[CHARACTER.GetHerHis]の首が[TARGET_CHARACTER.GetUIName]に刎ねられ死亡した"

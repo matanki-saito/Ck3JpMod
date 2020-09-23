@@ -50,7 +50,7 @@
  learning_medicine.2021.b:0 "医学修行を受けた[physician.GetWomanMan]はいつでも歓迎だ。"
  learning_medicine.2021.b.tt:0 "不妊治療は辞退しておこう"
  learning_medicine.2021.c:0 "そんな#EMP 問題#!などない！"
- learning_medicine.2022.t:0 "不妊の悩み"
+ learning_medicine.2022.t:0 "生殖能力の問題"
  learning_medicine.2022.old_physician.desc:0 "[physician.GetTitledFirstName]が蛭治療から腐りゆく死体まで扱うのを見てきたが、苦しげな表情は、[physician.GetHerHis]のなんというか初めて見る一面だった。\n\n「侍医とは健康の守護者でございます、」うつむいて自分の足先を見つめながら[physician.GetSheHe]は言った。「その、あなたの…#EMP 生殖機能#!も含めまして。あなたとあなたの[spouse.Custom('WifeHusband')]をお助けするチンキ剤をご用意できるかと存じます。加えまして、効果のありそうな実験的治療法をいくつか読んだことがございます。」"
  learning_medicine.2022.new_physician.desc:0 "新しい医者には落ち着いてもらえる時間をとってほしかったのだが、[physician.GetHerHis]の到着からほんの数時間後には巨大な箱を持った[physician.GetFirstName]が私の執務室に駆け込んできた。[physician.GetSheHe|U]はそれを#EMP ガチャン#!と無造作に私の机に上げた。\n\n「わが[ROOT.Char.GetLadyLord]、あなたとあなたの[spouse.Custom('WifeHusband')]にはいくつかの選択肢がございます。効き目の確かなチンキ液がいくつか。それだけではなく、研究中の実験的な治療も少々あるのでございますよ。」"
  learning_medicine.2022.b:0 "チンキ剤によるシンプルな治療が賢明であろう。"

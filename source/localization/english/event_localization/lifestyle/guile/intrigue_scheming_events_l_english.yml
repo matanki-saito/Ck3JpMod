@@ -165,7 +165,7 @@
  intrigue_scheming.4021.desc:0 "Based off of the information I have gathered, I strongly suspect [prisoner.GetTitledFirstName] knows about a secret which I do not. As I currently hold [prisoner.GetHerHim] captive, this gives me the perfect opportunity to use whatever methods I wish to learn exactly what it is..."
  intrigue_scheming.4021.a:0 "Offer [prisoner.GetHerHim] release in exchange for information."
  intrigue_scheming.4021.a.success:0 "[prisoner.GetTitledFirstName]が私の提案を受け入れる"
- intrigue_scheming.4021.a.failure:0 "[prisoner.GetTitledFirstName] rejects my offer"
+ intrigue_scheming.4021.a.failure:0 "[prisoner.GetTitledFirstName]が私の提案を却下する"
  intrigue_scheming.4021.b:0 "Mind games can often be quite revealing..."
  intrigue_scheming.4021.b.success:0 "I trick [prisoner.GetTitledFirstName] into telling me what [prisoner.GetSheHe] knows"
  intrigue_scheming.4021.b.failure:0 "[prisoner.GetTitledFirstName] manages to resist my mental tricks"

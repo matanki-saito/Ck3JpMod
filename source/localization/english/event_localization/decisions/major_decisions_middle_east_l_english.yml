@@ -51,7 +51,7 @@
  middle_east_decisions.0015.desc.liege:0 "アナトリアでの一連の勝利ののち、[scoped_ruler.GetTitledFirstName]は[scoped_ruler.GetHerselfHimself]をルーム・セルジュクの[scoped_ruler.GetTitleTierName]の座につけることを決めた。[scoped_ruler.GetSheHe]はもはや私への忠誠は欠片もないと主張し、[scoped_ruler.GetHerHis]は生涯異教徒と戦い続けるだろう。"
  middle_east_decisions.0015.desc.romans:0 "残忍な将軍[scoped_ruler.GetTitledFirstName]は、アナトリアを通る[scoped_ruler.GetHerHis]の道を切り拓き、その地域に新たなスルタンの国を築き上げた。\n\nそれでもまだ侮辱し足りないと考えたのか、浅ましい傲慢さを誇示しながら、[scoped_ruler.GetSheHe]は[scoped_ruler.GetHerselfHimself]のためにローマの[scoped_ruler.GetTitleTierName]の称号を要求したのだった。"
  middle_east_decisions.0015.desc.others:0 "かつてキリスト教の拠点であった小アジアの豊かな州は、いまではこの地域に新たなスルタンの国を形成している[scoped_ruler.GetTitledFirstName]の支配下にある。"
- middle_east_decisions.0015.a:0 "なんという[scoped_ruler.GetSheHe]だ！"
+ middle_east_decisions.0015.a:0 "[scoped_ruler.GetSheHe]はよくもそんなことができたな！"
  middle_east_decisions.0015.b:0 "そうか……"
  middle_east_decisions.1001.t:0 "新たな鷲が舞い上がる"
  middle_east_decisions.1001.desc:0 "アルメニアがレバントとコーカサスに支配を及ぼして以来何世紀にもわたって、東西の双子の帝国は幾度も打ちのめし我々を血まみれにした。西の帝国はときにラテン語、ときにギリシャ語を話し、東の帝国はときにペルシャ語、ときにアラビア語を話すが、常にふたつの帝国は戦い、そして常に我らの古き土地は戦場となってきた。\n\n今日の日を境に、私はティグラネス大王の征服地を改めて切り取り、大アルメニアの鷲の軍旗をふたたび翻らせるだろう！"

@@ -682,7 +682,7 @@
  building_rammelsberg_mines_04:1 "Rammelsberg Mining Complex"
  building_rammelsberg_mines_04_desc:1 "鉱石の生産が増加するにつれて、いくつかの工場と製錬所が集落の周りに設置される。金属の加工は住民にとって第二の性質となり、その技術は世界的に有名である。"
  building_type_falun_mines_01:0 "ファールン鉱山"
- building_type_falun_mines_01_desc:1 "#F Also known as \"Stora Kopparberget\" #italic (the Great Copper Mountain)#! this mine produces vast quantities of copper.#!"
+ building_type_falun_mines_01_desc:1 "#F 「ストラ・コッパベルゲット」#italic (大銅山)#!としても知られるこの鉱山は、莫大な量の銅を産出する。#!"
  building_falun_mines_01:1 "Falun Mining Settlement"
  building_falun_mines_01_desc:1 "$building_rammelsberg_mines_01_desc$"
  building_falun_mines_02:1 "Falun Mine"
