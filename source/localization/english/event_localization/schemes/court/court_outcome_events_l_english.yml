@@ -52,7 +52,7 @@
  court_outcome.1100.b:0 "「衛兵！#EMP 衛兵！#!　塔に侵入者がいるぞ！」"
  court_outcome.1100.b.failure:0 "[target.GetShortUIName|U]が侵入者により怪我を負う"
  court_outcome.1100.b.success:0 "[target.GetShortUIName|U]は怪我をせずに逃げのびる"
- court_outcome.1100.c:0 "I did not come here to wrestle a burglar."
+ court_outcome.1100.c:0 "強盗と格闘するためにここへ来たのではない。"
  court_outcome.1101.start.desc:0 "上から聞こえてくる争いの音が、私にいまだかつてない最上の動機付けを与える。命も手足も気にすることなく、私は[target.GetTitledFirstNamePossessive]の窓から飛び込む。\n\n"
  court_outcome.1101.owner_fights.desc:0 "I feel as if I have plunged into a frozen lake. [target.GetFirstNameNoTooltip] is on the floor, the intruder pushing [target.GetHerHim] down, a gleaming blade between them. With a roar, I grab the villain by the collar and throw [ROOT.Char.GetHerHim] into the wall. The rest is a blur.\n\nWhen the danger is over, I turn towards [target.GetHerHim]."
  court_outcome.1101.target_fights.desc:0 "私がみた情景は予想とは違った。倒れた家具、引き裂かれたカーテン、そして手に血まみれの短剣を持ち、動かなくなった体の向こうに立っている[target.GetFirstName]。\n\n"

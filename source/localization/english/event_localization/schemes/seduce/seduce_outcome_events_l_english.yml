@@ -151,7 +151,7 @@
  seduce_outcome.4002.desc:0 "深夜に[target.GetTitledFirstNamePossessive]の部屋に入ると、私を迎えたのは甘い抱擁ではなく、あざ笑う[target.Custom('InsultNoun')]だった。\n\n「礼儀を尽くして私を魅了しようとするあなたのくだらない企てに耐えてきました。でも、これは我慢できない！私に近寄らないでくれ、この[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNounSexual')]！」"
  seduce_outcome.4002.a:0 "あなたは・・・[target.Custom('InsultAdjective')]・・・[target.Custom('InsultNounSexual')]だ！"
  seduce_outcome.4003.t:0 "Exposed"
- seduce_outcome.4003.plot.desc:0 "[target.GetTitledFirstName]が悪戯っぽい笑顔で迎えてくれ、[target.GetHerHis]の熱い手がすぐにボタンやレースに取り掛かる。あっという間に私は裸をさらけ出し、[target.GetHerHim]の前に立ちながら、ぶるぶると震える。しかし、私がお返しをしようとすると、[target.GetFirstNameNoTooltip]が私を押しのけて―叫んだ！\n\n「衛兵！私の部屋に侵入者がいるぞ！ #EMP 衛兵！ #! 」\n\n生まれたばかりの赤ん坊のように裸で部屋を駆け抜け窓から這い出る。"
+ seduce_outcome.4003.plot.desc:0 "[target.GetTitledFirstName]が悪戯っぽい笑顔で迎えてくれ、[target.GetHerHis]の熱の籠った手がすぐにボタンやレースに取り掛かる。あっという間に私は裸になり、[target.GetHerHim]の前に立ちながら、ぶるぶると震える。しかし、私がお返しをしようとすると、[target.GetFirstNameNoTooltip]が私を押しのけて―叫んだ！\n\n「衛兵！私の部屋に侵入者がいるぞ！ #EMP 衛兵！ #! 」\n\n生まれたばかりの赤ん坊のように裸で部屋を駆け抜け窓から這い出る。"
  seduce_outcome.4003.regular.desc:0 "[target.GetTitledFirstNamePossessive]の部屋の窓まで登っていくと、[target.GetHerHis]が突然大きな叫び声を上げ、それは私が期待していた歓迎では無かった！[target.GetSheHe]がドアに向かって走り、ドアを開ける前に[target.GetHerHim]を止める時間が無い。\n\n「助けてくれ！衛兵！私の部屋に侵入者がいる！」\n\n今宵がこれ以上悪くなる前に、来た道を這って戻る。"
  seduce_outcome.4003.a.plot:0 "The [target.Custom('InsultAdjective')] [target.Custom('InsultNoun')] will pay!"
  seduce_outcome.4003.a.regular:0 "[target.GetHerHis]の熱意を見誤ったのかもしれない。"

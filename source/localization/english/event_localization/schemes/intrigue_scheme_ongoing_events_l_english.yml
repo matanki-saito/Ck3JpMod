@@ -142,7 +142,7 @@
  intrigue_scheme_ongoing.5008.a:0 "Damnations."
  intrigue_scheme_ongoing.5009.t:0 "The Tunnel"
  intrigue_scheme_ongoing.5009.desc:0 "Reports reach me about a high concentration of rats around [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')], and since I have a way with animals I leave to investigate.\n\nAs I reach the area the rats converge on me, bidding me welcome, and lead me to a dark tunnel some way away from the [target.Custom('ResidenceBuilding')]."
- intrigue_scheme_ongoing.5009.a:0 "Show me the way, my friends!"
+ intrigue_scheme_ongoing.5009.a:0 "どうすればいいのか教えてくれ、我が友よ！"
  intrigue_scheme_ongoing.5009.a.tt:1 "I wonder where this #EMP rodents#!"
  intrigue_scheme_ongoing.5009.b:0 "Ew. I'm not going in there."
  intrigue_scheme_ongoing.5010.desc:0 "It's dark, and the skittering of small feet echo in air heavy with the stench of refuse.\n\nSuddenly a breath of fresh air reaches me, and I see light filtering in through a grate up ahead. The rats lead me to a tunnel that goes straight into [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')]!"
