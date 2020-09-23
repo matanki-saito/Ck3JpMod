@@ -278,7 +278,7 @@
  MONGOL_INVASION_KINGDOM_CB_NAME:0 "Mongol Invasion of [kingdom|E]"
  MONGOL_INVASION_EMPIRE_CB_NAME:0 "Mongol Invasion of [empire|E]"
  mongol_invasion_war_victory_desc_attacker:0 "You seize all titles within [defender.GetShortUINamePossessive] realm belonging [de_jure|E] to the target title."
- invasion_war_victory_desc_attacker:0 "You seize all titles within [defender.GetShortUINamePossessive] realm belonging [de_jure|E] to the target title, and all occupied counties outside it."
+ invasion_war_victory_desc_attacker:0 "攻略対象の[de_jure|E]に属する[defender.GetShortUINamePossessive]領の全称号を掌握します。加えて、その外部にある占領中の伯爵領も全て掌握します。"
  mongol_invasion_war_victory_desc:0 "[attacker.GetShortUIName|U] seizes all titles within [defender.GetShortUINamePossessive] realm belonging [de_jure|E] to the target title."
  invasion_war_victory_desc:0 "[attacker.GetShortUIName|U] seizes all titles within [defender.GetShortUINamePossessive] realm belonging [de_jure|E] to the target title, and all occupied counties outside it."
  invasion_war_white_peace_desc_defender:0 "You keep your titles."

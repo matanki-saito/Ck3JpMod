@@ -57,7 +57,7 @@
  COURT_WINDOW_NO_GUESTS:0 "客人はいません。時間が経てばより多くの客人が現れるでしょうし、上記の決断を使って招待することもできます。"
  COUNCIL_WINDOW_PRISONERS:0 "あなたの[prisoners|E]"
  COUNCIL_WINDOW_COURTIERS:1 "あなたの[courtiers|E]"
- COUNCIL_WINDOW_AWAY_COURTIERS:1 "Your absent [courtiers|E]"
+ COUNCIL_WINDOW_AWAY_COURTIERS:1 "不在の[courtiers|E]"
  COUNCIL_WINDOW_CANT_FIRE_HEADER:0 "[councillor|E]を罷免できません:"
  COUNCIL_WINDOW_CANT_REASSIGN_HEADER:0 "新しい[councillor|E]を任命できません:"
  COUNCIL_WINDOW_CANT_REASSIGN_WARNING:0 "新しい[councillor|E]を任命できません"

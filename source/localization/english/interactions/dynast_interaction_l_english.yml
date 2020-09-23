@@ -21,7 +21,7 @@
  dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$が[recipient.GetShortUINameNoTooltip]のことを$game_concept_legitimized_bastard$であると宣言します\n\n#weak [recipient.GetSheHe]があなたの[dynasty|E]の[bastard|E]であるために使用可能です"
  dynast_legitimize_bastard_interaction_notification:0 "準正嫡出子"
  dynast_claim_title_interaction:0 "称号を請求する"
- dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] a [title|E] held by [recipient.GetShortUINameNoTooltip] for yourself"
+ dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$により、[recipient.GetShortUINameNoTooltip]の所持する[title|E]の[claim|EU]を取得します"
  dynast_claim_title_interaction_notification:0 "請求された称号"
  dynast_end_dynasty_wars_interaction:0 "一族の戦争の終結"
  dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$が[recipient.GetShortUINameNoTooltip]を要求した。他のメンバーに対する攻撃的な戦争を直ちに終了させる[dynasty|E]"
