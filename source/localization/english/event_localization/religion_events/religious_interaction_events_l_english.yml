@@ -39,7 +39,7 @@
  religious_interaction.1001.desc:1 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actor'))], [actor.GetTitledFirstName], has seen me condemned as a sinner in a writ issued by [actor.GetHerHis] [actor.GetFaith.PriestNeuterPlural]!\n\nThis could be used as a legal basis to argue that I am unfit to rule [recipient.GetFaith.GetAdjective] lands."
  religious_interaction.1001.a:0 "Were [actor.GetSheHe] not my liege, I would have..."
  religious_interaction.1001.a.revoke_tt:0 "[actor.GetTitledFirstName] can [revoke|E] one of my titles"
- religious_interaction.1010:0 "It is commendable that you seek to atone for your sins. I accept your generous donation and send you my blessing in return."
+ religious_interaction.1010:0 "あなたが罪を償おうとすることは称賛に値します。私はあなたの寛大な寄付を受け入れ、お返しに私の祝福を送ります。"
  religious_interaction.1011:0 "Your misdeeds are far too severe to be redeemed by mere gold. If you truly wish to atone for your sins, you must change your ways and prove to me that you truly seek forgiveness. Only then will I accept your donation."
  religious_interaction.1020:0 "[actor.GetTitledFirstName]からあなたの悪行について心配な知らせを聞きました。"
  religious_interaction.1021:0 "あなたは自分を[actor.GetFaith.GetAdherentName]だと思っているかもしれませんが、あなたの行動は、あなたが本当に[actor.GetFaith.HighGodName]の道に従っていないことを証明しています。私はあなた方の邪悪なふるまいが[actor.GetFaith.GetAdjective]の義の仮面の陰に隠れることを許すわけにはいかないので、あなた方を信仰から救い出すほかないのです。あなたの魂に[actor.GetFaith.HighGodName]の慈悲がありますように。"

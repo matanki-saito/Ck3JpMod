@@ -45,7 +45,7 @@
  PORTRAIT_NO_COUNCILLOR:0 "#T [councillor|E]が任命されていません#!"
  ON_COUNCIL_EFFECTS:0 "#high あなたへの影響:#!\n[GetPlayer.GetCouncillorModifierDesc]"
  PORTRAIT_NO_SPOUSE:0 "#T 配偶者なし#!"
- HEIR_TO_HEADER:0 "[heir|E] to:\n"
+ HEIR_TO_HEADER:0 "以下の称号の[heir|E]:\n"
  CHARACTER_LINE_OF_SUCCESSION_MORE:0 "さらに$COUNT|V$の[titles|E]"
  MILITARY_STRENGTH_COMPARISON_TOOLTIP_LABEL:2 "#T 防衛側の軍事力は攻撃側に対して$STRENGTH|V$です#!\n"
  MILITARY_STRENGTH_COMPARISON_ATTACKER_TOOLTIP_LABEL:0 "#T 攻撃側の軍事力は防衛側に対して$STRENGTH|V$です#!\n"

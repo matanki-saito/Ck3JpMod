@@ -7,7 +7,7 @@
  COUNCIL_POSITION_FILLED:1 "[CHARACTER.GetShortUINamePossessive]の評議会にはすでに$NAME$がいます"
  COUNCIL_CANT_TAKE_NO_POSITION:1 "[TARGET_CHARACTER.GetSheHe]が評議員ではないため[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の評議会の職を得ることはできません。"
  COUNCIL_CANT_SWAP_NO_POSITION:1 "[TARGET_CHARACTER_2.GetShortUIName]が評議員ではないため[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]と職を交換することはできません。"
- COUNCIL_CANT_SWAP_EQUAL:0 "彼らはすでに同じ職に就いているため、[TARGET_CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER_2.GetShortUIName]は職を交換することができません。"
+ COUNCIL_CANT_SWAP_EQUAL:0 "[TARGET_CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER_2.GetShortUIName]はすでに同じ職に就いているため、職を交換することができません。"
  COUNCIL_CANT_FIRE_NO_COUNCILLOR:1 "[TARGET_CHARACTER.GetSheHe]が評議会の職を持っていないため[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を評議会から罷免できません。"
  COUNCIL_NOT_LIEGE_TASK:1 "[CHARACTER.GetShortUIName|U]が[TARGET_CHARACTER.GetShortUIName]の領主でなければ[TARGET_CHARACTER.GetHerHim]に仕事を割り当てられません。"
  COUNCIL_CANT_TASK_COUNCILLOR:1 "[TARGET_CHARACTER.GetSheHe]が評議会の職を持っていないため、[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]に任務を与えることができません。"
