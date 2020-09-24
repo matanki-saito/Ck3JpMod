@@ -139,7 +139,7 @@
  spouse.3001.lazy:0 "[spouse.GetSheHe|U]は決して私に手を貸そうとしない。私が最も忙しい時に、[spouse.GetSheHe]は、決まって私の目の前で昼寝をしたり、噂話をしたりすることがたびたびある！"
  spouse.3001.wrathful:0 "[ROOT.Char.GetFaith.HighGodName]に誓って、[spouse.GetHerHis]の気性は私の心を狂わせている。癇癪、喧嘩、果てしなく続く遺恨… 私の忍耐も限界に近づいている。"
  spouse.3001.deceitful:0 "最近、私は非常に多くの嘘を発見した。ほとんどは些細なものだが、私は疑心暗鬼に襲われる。私の[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )]は他に何を隠しているのだろう…？"
- spouse.3001.paranoid:0 "[spouse.GetFirstName] keeps blaming me for things I never did, and it is testing my patience. I am actually tempted to be guilty of [spouse.GetHerHis] next accusation..."
+ spouse.3001.paranoid:0 "[spouse.GetFirstName]は私に謂れの無い疑いをかけてきていて、もう堪忍袋の緒が切れそうだ。次に[spouse.GetHerHis]に非難されようものなら、私はもう非を認めてしまってもよいのではないかとさえ感じている…"
  spouse.3001.impatient:0 "\n\n私を支え、理解するのが[spouse.GetHerHis]の義務だが、[spouse.GetSheHe]には忍耐力というものがない。私が自分の責任の重さに息が詰まりそうになっている時でも、[spouse.GetFirstName]は実現されていない約束や注意の欠如といったものだけを気にしている。"
  spouse.3001.arrogant:0 "[spouse.GetFirstName]は、私の責任の負担が大きいことに激怒しているが、それは決して私の健康を気遣ってのものではない。[spouse.GetSheHe]は、私が[p_title.GetNameNoTier]の義務よりも[spouse.GetHerHim]を優先することを期待している！"
  spouse.3001.sadistic:0 "\n\nI am struggling to give my numerous responsibilities the attention they deserve and I feel myself wearing thin. Once, I thought I would find support in [spouse.GetFirstName], but I am not so foolish anymore. I think [spouse.GetSheHe] actually finds pleasure in my suffering!"

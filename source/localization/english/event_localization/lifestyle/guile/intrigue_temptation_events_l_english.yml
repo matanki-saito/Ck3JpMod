@@ -134,7 +134,7 @@
  intrigue_temptation.3021.do_not_believe.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U] attached a rather snarky note to [potential_date.GetHerHis] portrait. \"I do not really believe in meeting your future spouse this way, but I might as well try.\""
  intrigue_temptation.3021.lewd.desc:0 "[ROOT.Char.GetFaith.FertilityGodName|U], I forgot this was in here! The portrait [potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)] sent me leaves very little to the imagination. Nothing, to be frank."
  intrigue_temptation.3021.must_be_tall.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U] attached a very long and amiable letter to [potential_date.GetHerHis] portrait. At the very end, [potential_date.GetSheHe] urges me to write back soon, \"but only if you exceed a height of six feet.\""
- intrigue_temptation.3021.a:0 "Favorite! Put it in the upper pile."
+ intrigue_temptation.3021.a:0 "お気に入り！　山の上の方に積んでおいてくれ。"
  intrigue_temptation.3021.a.tt:0 "Assign [potential_date.GetShortUIName] as my current favorite, who I can pay special attention to"
  intrigue_temptation.3021.a.favorite_exists.tt:0 "My current favorite is [favorite.GetShortUIName]"
  intrigue_temptation.3021.b:0 "Keeper! Put it in the right pile."
