@@ -85,5 +85,5 @@
  scandinavian_elective_electors:0 "$feudal_elective_electors$"
  scandinavian_elective_electors_tooltip:0 "ディングの下で有効な[elector|E]となるためには、封臣は以下の条件を全て満たす必要があります:\n$EFFECT_LIST_BULLET$その称号保有者の直臣である\n$EFFECT_LIST_BULLET$男爵ではない"
  succession_laws_must_have_organised_government_tooltip:0 "[feudal|E]または[clan|E]の[government|E]ではない"
- succession_laws_must_not_be_forced_partition:0 "I am not forced to Partition [succession|E] by my [feudal_contract|E]"
- succession_laws_must_have_valid_tanistry_culture:0 "You do #bold not#! belong to either the $goidelic_group$ or $brythonic_group$ [culture_group|E]."
+ succession_laws_must_not_be_forced_partition:0 "[feudal_contract|E]によって分割[succession|E]を強制されていない"
+ succession_laws_must_have_valid_tanistry_culture:0 "あなたは$goidelic_group$若しくは$brythonic_group$の[culture_group|E]では#bold ない#!"

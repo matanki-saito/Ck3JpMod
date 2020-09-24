@@ -519,7 +519,7 @@
  found_kingdom_decision_confirm:0 "領国を一つに"
  found_kingdom_decision_tooltip:0 "完全に新しい王国の称号を確立します"
  found_empire_decision:1 "新たな帝国を創設する"
- found_empire_decision_desc:0 "他のすべてのものより輝き、そして歴史そのものよりも長く続く帝国をわたしは創造する。"
+ found_empire_decision_desc:0 "他のすべてのものより輝き、歴史そのものよりも長く続く帝国を私は創造する。"
  found_empire_decision_confirm:0 "領国を一つに"
  found_empire_decision_tooltip:0 "完全に新しい帝国の称号を確立します"
  create_new_kingdom:1 "新たな王国の創設"

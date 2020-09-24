@@ -14,7 +14,7 @@
  diplomatic_scheme_lifestyle.3101.desc_opening_bad:0 "\"This has to stop!\"\n\n[target.GetTitledFirstName] [target.Custom('quirk_neg_present')] before continuing, \"I am not certain what your goal is, [ROOT.Char.GetFirstNameNoTooltip], but if it is to increase my dislike for you it has certainly succeeded!\""
  diplomatic_scheme_lifestyle.3101.a:0 "しばらく手を引くことにします。"
  diplomatic_scheme_lifestyle.3101.a.tt:0 "#F But I have not given up!#!"
- diplomatic_scheme_lifestyle.3101.b:0 "I will not give up!"
+ diplomatic_scheme_lifestyle.3101.b:0 "あきらめないぞ！"
  diplomatic_scheme_lifestyle.3101.b.tt:0 "#F Surely [target.GetSheHe] didn't really mean it.#!"
  diplomatic_scheme_lifestyle.3101.c:0 "If this is how [ROOT.Char.GetSheHe] feels it might be best to call this off."
  diplomatic_scheme_lifestyle.3201.t:0 "けなす"
