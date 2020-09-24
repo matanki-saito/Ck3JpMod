@@ -11,7 +11,7 @@
  house_arrest_ongoing.0003.desc_opening:0 "愛する全てを切り離された時間を過ごすのは残酷な刑罰だ。ほんの少しでも慰めや、つながりになる何かを求めている自分が存在するが、それはほとんど見つからない。"
  house_arrest_ongoing.0003.desc_friendly_prisoner:0 "\n\n長い日々を乗り切る唯一のものは、[friendly_prisoner.GetTitledFirstName]とのつながりだけだ。"
  house_arrest_ongoing.0003.a:0 "だれか、話でもしないか！？"
- house_arrest_ongoing.0003.b:0 "話しかけてくれる誰かはまだ見つからない。"
+ house_arrest_ongoing.0003.b:0 "話してくれる誰かはまだいない。"
  house_arrest_ongoing.0003.c:0 "[friendly_prisoner.GetSheHe|U]がわたしの友情の源泉の一つだ。"
  house_arrest_ongoing.0003.d:0 "[friendly_prisoner.GetSheHe|U]がわたしの慰めと愛の源泉の一つだ。"
  house_arrest_ongoing.0003.e:0 "[ROOT.Char.GetFirstNameNoTooltip]がわたしの慰めと愛の源泉の一つだ。"
