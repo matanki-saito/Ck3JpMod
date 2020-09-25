@@ -48,7 +48,7 @@
  religious_decision.0101.flavor:0 "確信が持てるまで待つことは恥ではない。"
  religious_decision.0201.t:0 "隠遁における瞑想"
  religious_decision.0201.desc:0 "瞑想を介して内面の旅へと乗り出すことは、つまらないことではない。多くの準備をする必要があるが、その中でも最も重要なのは、私がどこに隠遁するべきかを決めることだ。\n\n私が選ぶ瞑想の場所により、私の旅の結果は大きな影響を受けるだろう。"
- religious_decision.0201.home:0 "The comfort of my own [ROOT.Char.Custom('ResidenceBuilding')]."
+ religious_decision.0201.home:0 "快適な我が[ROOT.Char.Custom('ResidenceBuilding')]。"
  religious_decision.0201.plains:0 "[plains_location.GetNameNoTier]の緩やかな平地。"
  religious_decision.0201.hills:0 "[hills_location.GetNameNoTier]のなだらかな丘陵。"
  religious_decision.0201.steppe:0 "[steppe_location.GetNameNoTier]の大いなる青空の下。"

@@ -1,9 +1,9 @@
 ﻿l_english:
  witch.1001.message:0 "Witchcraft Induction"
- child_witch_conversion_success_effect.desc:0 "[child.GetFirstNameNoTooltip] is convinced"
- child_witch_conversion_failure_effect.desc:0 "[child.GetFirstNameNoTooltip] is doubtful"
- child_witch_conversion_critical_failure_effect.desc:0 "[child.GetFirstNameNoTooltip] reveals my secret"
- child_witch_conversion_critical_failure_effect.liege.desc:0 "[child.GetFirstNameNoTooltip] reveals witch guardian"
+ child_witch_conversion_success_effect.desc:0 "[child.GetFirstNameNoTooltip]は確定的である"
+ child_witch_conversion_failure_effect.desc:0 "[child.GetFirstNameNoTooltip]は疑わしい"
+ child_witch_conversion_critical_failure_effect.desc:0 "[child.GetFirstNameNoTooltip]は私の秘密を暴露した"
+ child_witch_conversion_critical_failure_effect.liege.desc:0 "[child.GetFirstNameNoTooltip]は魔女の教育者を暴露した"
  witch.1002.t:0 "知るべき時"
  witch.1002.desc:0 "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は子供から大人への変遷期に入っている。 [child.GetHerHim]には真実を理解できるよう十分すぎるほどの教育を与えた。 また、[child.GetSheHe]はまだ若く、偏見のない心を持っている。 [child.GetHerHim]を[ROOT.Char.GetFaith.WitchGodName]に仕えさせるのなら今しかない。"
  witch.1002.a:0 "[child.GetSheHe|U]は[ROOT.Char.GetFaith.WitchGodHerHis|U]の力を知るに値する。"

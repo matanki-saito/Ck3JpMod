@@ -202,7 +202,7 @@
  action_can_call_dynasty_member_desc:1 "You can call your [dynasty|E] member [recipient.GetUIName] to your [wars|E]."
  action_can_call_dynasty_member_group_description:1 "You can call your [dynasty|E] members to your [wars|E]."
  action_can_call_dynasty_member_combined_group_description:0 "$action_can_call_dynasty_member_group_description$"
- action_can_call_dynasty_member_label:1 "You can call your Dynasty Member [recipient.GetShortUINameNoTooltip]"
+ action_can_call_dynasty_member_label:1 "あなたの王朝の一員である[recipient.GetShortUINameNoTooltip]に参戦を要請できます"
  action_can_call_dynasty_member_combined_label:0 "[recipient.GetUINameNoTooltip]"
  action_can_call_dynasty_member_click:0 "#I クリックで一族の一員の参戦を要請#!"
  action_not_enough_knights:1 "$knight_culture_player_plural_no_tooltip$が不足しています"

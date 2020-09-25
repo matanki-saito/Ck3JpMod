@@ -19,7 +19,7 @@
  siege.0013.several_killed.t:1 "包囲戦で廷臣が殺された"
  siege.0013.one_killed:0 "私の廷臣の[casualty_1.GetFirstName]は殺された"
  siege.0013.two_killed:0 "私の廷臣の[casualty_1.GetFirstName]と[casualty_2.GetFirstName]は殺された"
- siege.0013.several_killed:0 "[casualty_1.GetFirstName] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] of my other courtiers were killed"
+ siege.0013.several_killed:0 "[casualty_1.GetFirstName]と他の廷臣[ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0]人が殺された"
  siege.0013.end:0 "$siege.0003.end$"
  siege.0014.one_killed.t:1 "[ROOT.Char.Custom2('RelationToMeShort', casualty_1)|U]が包囲中に戦死"
  siege.0014.one_killed:0 "[casualty_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was killed"
