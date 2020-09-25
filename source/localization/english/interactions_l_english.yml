@@ -677,7 +677,7 @@
  char_interaction.0161.desc:0 "I would rather rot in your dungeon than accept your unreasonable demands."
  char_interaction.0170.t:0 "A Difficult Time"
  char_interaction.0170.desc:0 "I was woken in the early hours of the morning by two unfamiliar guards. Being led outside, I had no illusions about what was about to happen. As I kneel for [actor.GetShortUINamePossessive] headsman, I experience a moment of serene and perfect clarity."
- char_interaction.0170.desc_burned:0 "Just as I had finished my meager repast, the door slammed open and I was seized and manhandled outside. It will be no easy death for me — the pyre is lit and I can already feel the heat on my legs. A hush descends on the mob as they behold my final moments with unhinged expressions on their faces."
+ char_interaction.0170.desc_burned:0 "乏しい食事を終えたちょうどそのとき、ドアがバタンと開いた。私は取り押さえられ、外に連れ出された。私にとって簡単な死にはならないだろう—薪に火が灯され、足に熱さを感じる。辺りは静寂に包まれ、暴徒たちは狂った表情を浮かべながら、私の最期の瞬間を見守る。"
  char_interaction.0170.desc_devoured:0 "The door slammed open, and [actor.GetShortUINamePossessive] guards forced me to the floor and pinned me down. Then the [actor.GetTitleAsNameNoTooltip] [actor.GetHerselfHimself] entered, knife in hand and smile wide.\n\nHeedless to my screams [actor.GetSheHe] carves into my flesh with both knife and teeth. Through a haze I find [actor.GetHerHis] face covered in gore — covered in pieces of #EMP me#! — and plead, but as [actor.GetSheHe] chews and swallows with relish, I realize that this is how I die."
  char_interaction.0170.a:0 "お前の黒き魂に呪いあれ、[actor.GetFirstNameNoTooltip]!!!"
  char_interaction.0180.desc:0 "As your House Head, I have decided that you must embrace [actor.GetFaith.GetName], the one true Faith. I am afraid you have no choice in this matter."

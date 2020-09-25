@@ -100,7 +100,7 @@
  hunt.4004.f:0 "この頭蓋骨は見事な王冠になりそうだ。"
  hunt.4005.t:1 "$hunt_header$ 獣を倒す"
  hunt.4005.a:0 "これは高値がつくだろう。"
- hunt.4005.b:0 "I will have a beautiful trophy made for my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('trophy_recipient'))]."
+ hunt.4005.b:0 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('trophy_recipient'))]のために美しいトロフィーを作ろう。"
  hunt.4005.c:0 "これを剥製にし、[ROOT.Char.GetFaith.ReligiousHeadName]へ捧げよう！"
  hunt.4006.t:1 "$hunt_header$ 採食者達"
  hunt.4006.desc:0 "森は偽りなく「貧乏人のマント」だ、食糧を探す農民達から[ROOT.Char.Custom('LocalAnimal')]が混乱して逃げるたび、自分の忍耐力が薄れていくのを感じる。\n\n間違いなく、[activity_place.GetNameNoTier]には根やキノコを摘むよりマシなことがあるのに！"
