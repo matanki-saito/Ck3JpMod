@@ -97,7 +97,7 @@
  ASK_FOR_GOLD:0 "#D ゴールドの要求#!"
  CALL_CRUSADE:0 "#D Call Crusade#!"
  CREATE_ANTIPOPE:0 "#D Create Anti-Pope#!"
- RELIGION_FAMILY_TOOLTIP:1 "[ReligionFamily.GetReligiousFamilyHostilityDescription]\n\n#bold The following religions are [ReligionFamily.GetNameNoTooltip]:#!\n[ReligionFamily.GetReligions]\n"
+ RELIGION_FAMILY_TOOLTIP:1 "[ReligionFamily.GetReligiousFamilyHostilityDescription]\n\n#bold 以下の宗教は[ReligionFamily.GetNameNoTooltip]に属する: #!\n[ReligionFamily.GetReligions]\n"
  CREATE_FAITH_CONFIRM_TITLE:0 "[Select_CString( GetPlayer.GetFaith.IsUnreformed, 'Reform', 'Create' )]$NAME$"
  CREATE_FAITH_CONFIRM_DESC:1 "総コスト: [GetLocalPlayerPietyTextIcon]$COST$\n$NAME$の信仰は一度[Select_CString( GetPlayer.GetFaith.IsUnreformed, 'reformed', 'created' )]すると二度と変更することができない"
  CREATE_FAITH_CONFIRM_ACCEPT:0 "創設"

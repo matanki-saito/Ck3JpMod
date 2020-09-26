@@ -27,7 +27,7 @@
  SUCCESSION_ELECTION_WINDOW_RULES_ELECTORS:0 "選挙人: #bold [SuccessionElectionWindow.GetElectorsGrouping|E]#!"
  SUCCESSION_ELECTION_WINDOW_RULES_CANDIDATES:0 "候補者: #bold [SuccessionElectionWindow.GetCandidatesGrouping|E]#!"
  CLOSE_ELECTION_VIEW:0 "称号画面に戻る"
- SUCCESSION_ELECTION_WINDOW_TT_FORCED_VOTE:0 "Vote forced by [hook|E]"
+ SUCCESSION_ELECTION_WINDOW_TT_FORCED_VOTE:0 "[hook|E]による強制投票"
  SUCCESSION_ELECTION_WINDOW_LAW:0 "相続法: [SuccessionElectionWindow.GetSuccessionLaw.GetName]"
  SUCCESSION_ELECTION_WINDOW_TOGGLE_ELECTORS:0 "#T 選挙人一覧を切り替え#!"
  SUCCESSION_ELECTION_ELECTOR_ENTRY:0 "[CHARACTER.GetShortUINameNotMe]: $STRENGTH|V$"

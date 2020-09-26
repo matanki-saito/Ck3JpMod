@@ -30,7 +30,7 @@
  global_culture.0032.b:0 "同胞に背を向けるべきではない。"
  global_culture.0035.t:0 "$global_culture.0032.t$"
  global_culture.0035.desc:1 "他のアングロ＝サクソン人との共通の起源を持つものの、ブリテンの北の低地に住む一族は殺風景な土地での生活に順応した。\n\nかつての同郷の者から文化的にも言語的にも別れた彼ら[scottish.GetName]は、その新たな文化的自立精神を熱心に受け入れている。"
- global_culture.0035.a:0 "Will they be able to thrive on their own?"
+ global_culture.0035.a:0 "彼らは自力で繁栄ができるだろうか？"
  global_culture.3002.t:0 "ノルマン人の台頭"
  global_culture.3002.desc:1 "ネウストリアの地は、我々に定住と拡大のための緑豊かで肥沃な土地を提供してきた。\n\n地元の人々の伝統をいくつか取り入れることで、我々はこの地域により良く馴染むことができるだろう。"
  global_culture.3002.a:0 "新しい仲間と新たな門出に!"

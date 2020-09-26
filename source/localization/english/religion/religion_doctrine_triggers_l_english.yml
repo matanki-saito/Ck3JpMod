@@ -8,7 +8,7 @@
  INCOMPATIBLE_TENET_GNOSTICISM_TRIGGER:0 "[core_tenet|E]グノーシス主義とは両立しない"
  INCOMPATIBLE_TENET_EASTERN_SYNCRETISM_TRIGGER:0 "[core_tenet|E]東方習合主義とは両立しない"
  INCOMPATIBLE_TENET_OTHER_SYNCRETISM_TRIGGER:0 "You may only select one syncretic [core_tenet|E] for your [faith|E]"
- INCOMPATIBLE_TENET_FALSE_CONVERSION_SANCTION_TRIGGER:0 "[core_tenet|E]正しからぬ信仰の是認とは両立しない"
+ INCOMPATIBLE_TENET_FALSE_CONVERSION_SANCTION_TRIGGER:0 "[core_tenet|E]偽装改宗の是認とは両立しない"
  INCOMPATIBLE_TENET_PENTARCHY_TRIGGER:0 "Incompatible with the [core_tenet|E] Pentarchy"
  DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "[doctrine|E]原理主義とは両立しない"
  NOT_DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "[doctrine|E]原理主義が必要"

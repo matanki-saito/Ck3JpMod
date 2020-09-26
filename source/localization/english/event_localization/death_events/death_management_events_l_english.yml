@@ -48,7 +48,7 @@
  death_management.pinned.desc:0 "あなたが関心を寄せていた[dead_character.GetNameNoTooltip]は死んだ。"
  death_management.1008.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse_of_dead_character'))][spouse_of_dead_character.GetFirstName]の配偶者[dead_character.GetTitledFirstName]が亡くなった。慎重に練られた計画はすべて[ROOT.Char.GetFaith.DeathDeityNamePossessive]の気まぐれに潰されてしまった。このような不満は、[dead_character.GetHerHis]の家族の痛みに比べれば、取るに足らないものかもしれないが・・・"
  death_management.1008.a:0 "安らかに眠れ。"
- death_management.1008.a.tt:0 "配偶者の[spouse_of_dead_character.GetFirstName]、[dead_character.GetTitledFirstName]は死んだ。"
+ death_management.1008.a.tt:0 "[spouse_of_dead_character.GetFirstName]の配偶者、[dead_character.GetTitledFirstName]は死んだ。"
  death_management.spouse_child.desc:0 "後継者の配偶者[spouse_of_dead_character.GetFirstName]、[dead_character.GetTitledFirstName]は死んだ。"
  death_management.1009.t:0 "予期せぬ悲劇"
  death_management.1009.desc:1 "あなたの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('betrothed_of_dead_character'))][betrothed_of_dead_character.GetFirstName]の婚約者[dead_character.GetTitledFirstName]は還らぬ人となった。念入りに建てられた計画は[ROOT.Char.GetFaith.DeathDeityNamePossessive]の気まぐれによって砕け散ったが、[dead_character.GetHerHis]の家族の痛みに比べればその不平はごく些細なものかもしれない……"

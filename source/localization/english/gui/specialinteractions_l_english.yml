@@ -245,7 +245,7 @@
  DEFEAT_CONFIRM_TITLE:0 "降伏"
  DEFEAT_CONFIRM:0 "この戦争に負けます"
  DEFEAT_CONFIRM_ACCEPT:0 "降伏"
- REVOKE_TITLE_DESCRIPTION:0 "Select [title|E] to revoke from [CHARACTER.GetShortUINameNoTooltip]"
+ REVOKE_TITLE_DESCRIPTION:0 "[CHARACTER.GetShortUINameNoTooltip]から剥奪する[title|E]を選択する"
  REVOKE_TITLE_REVOKED_TITLE_BY:1 "[CHARACTER.GetUIName] has revoked a [title|E] from you:"
  REVOKE_TITLE_TITLE_INFO:0 "    -[TITLE.GetName]"
  REVOKE_TITLE_CANT_GIVE_REASON_DOESNT_OWN:0 "@warning_icon!#X [CHARACTER.GetUIName]は[TITLE.GetName]を所有していません#!"

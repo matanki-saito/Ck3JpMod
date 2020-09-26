@@ -120,7 +120,7 @@
  pregnancy.6003.desc:1 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))], [mother.GetTitledFirstName], has confessed that not only is [mother.GetHerHis] pregnancy the result of an illegitimate union, but the true father of [mother.GetHerHis] unborn child is none other than [real_father.GetTitledFirstName]!\n\nWhat shame [mother.GetSheHe] has brought on my house! How could [mother.GetSheHe] do this to me? To us?"
  pregnancy.6003.a:0 "[real_father.GetFirstNameNoTooltip]?!"
  pregnancy.6004.t:0 "すべての疑いを超えて"
- pregnancy.6004.desc:1 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))], [mother.GetTitledFirstName], has let it be known that not only is [mother.GetHerHis] unborn child the product of an illicit union, but the father is none other than [real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]!"
+ pregnancy.6004.desc:1 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]は、[mother.GetHerHis]のこれから生まれる子供が野合によって出来たものだけでなく、父親が他ならぬ[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]であることを知らしめた。"
  pregnancy.6004.incest:0 "\n\nWhat will become of the child, created from such an unholy union?"
  pregnancy.6004.mother_married:1 "\n\nWhat does this even mean for [mother.GetHerHis] marriage to [spouse.GetTitledFirstName]?"
  pregnancy.6004.mother_unmarried:1 "\n\nWhat will even become of [mother.GetHerHis] child, now that the whole world knows?"

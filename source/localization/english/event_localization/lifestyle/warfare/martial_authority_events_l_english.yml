@@ -32,7 +32,7 @@
  martial_authority.2050.a:0 "ああ、[right_hand_person.GetSheHe]は良く仕えてくれるだろう！"
  martial_authority.2050.a.tt:1 "あなたは[right_hand_person.GetShortUIName]とより多くの時間を過ごすようになる"
  martial_authority.2050.b:1 "そういった問題は[marshal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が扱える。"
- martial_authority.2050.c:0 "I can handle everything myself if I work harder!"
+ martial_authority.2050.c:0 "より一層励めば全て自分でこなせるのだ！"
  martial_authority.2051.t:0 "特別な手"
  martial_authority.2051.desc:0 "In the course of helping me administer my realm as my right-hand [right_hand_person.GetWomanMan], [right_hand_person.GetTitledFirstName] and I have discovered that we have a lot in common!\n\nWe have built up a strong rapport during our time working together as a result of this, and I find myself wondering what the future will hold for us..."
  martial_authority.2051.a:0 "我らは良い友となるだろう！"

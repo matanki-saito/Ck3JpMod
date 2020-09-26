@@ -348,7 +348,7 @@
  action_can_ask_hof_for_money_desc:0 "あなたの[head_of_faith|E]である[recipient.GetUIName]は[gold|E]の嘆願を受け入れるでしょう。[piety|E]を利用して、あなたの国庫を拡張することを検討するべきです！"
  action_can_ask_hof_for_money_click:0 "#I クリックで$hof_ask_for_gold_interaction$#!"
  action_title_election:0 "[landed_title.GetNameNoTooltip]にて選挙を実施中"
- action_title_election_combined_group_label:0 "Active Elections"
+ action_title_election_combined_group_label:0 "選挙が行われています"
  action_title_election_combined_group_name:0 "Active Elections can be Previewed"
  action_title_election_desc:0 "[landed_title.GetHolder.GetShortUIName]で統治されている[title|E]、[landed_title.GetNameNoTooltip]で選挙が行われている。現在の最有力候補は[landed_title.GetHeir.GetUIName]である。\n\n#help もしあなたが[elector|E]であるなら、既に投票したとしても、現在進行中の選挙を確認しておく事には価値がある。投票はいつでも変更できる。\n\nたとえあなたが[elector|E]でなくても、選挙を確認しておく事は良いことだ。結局のところ、何でも起こり得る・・・最有力候補は #emp あなた #! かもしれない！ #!"
  action_title_election_combined_group_description:0 "あなたの領地で選挙が行われている。\n\n#help もしあなたが[elector|E]であるなら、既に投票したとしても、現在進行中の選挙を確認しておく事には価値がある。投票はいつでも変更できる。\n\nたとえあなたが[elector|E]でなくても、選挙を確認しておく事は良いことだ。結局のところ、何でも起こり得る・・・最有力候補は #emp あなた #! かもしれない！ #!"

@@ -54,7 +54,7 @@
  stress_threshold.1711.g.drunkard.effect:0 "$stress_threshold.1711.g.drunkard.gain$"
  stress_threshold.1711.h.hashishiyah.gain:0 "ハシシを！これはしらふの心では手に負えない。"
  stress_threshold.1711.h.hashishiyah.effect:0 "$stress_threshold.1711.h.hashishiyah.gain$"
- stress_threshold.1711.i:0 "I am the [ROOT.GetCharacter.GetTitleAsNameNoTooltip], I can do this!"
+ stress_threshold.1711.i:0 "私は[ROOT.GetCharacter.GetTitleAsNameNoTooltip]だ。私ならできる！"
  stress_threshold.1721.t:0 "精神崩壊: 詐称者！"
  stress_threshold.1721.desc.intro:1 "最近、私は[ROOT.GetCharacter.GetPrimaryTitle.GetBaseNameNoTooltip]にふさわしくないと感じている。私が自分自身を疑っているように、他の統治者も自身を疑っていたりするのだろうか？\n\n私は努力しよう、"
  stress_threshold.1721.desc.chaste:0 "良き貞節な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが、私は常に肉体の快楽に誘惑されているような気がする。私のような地位にあるの者が、このような肉欲的な刺激を感じるべきではない。"

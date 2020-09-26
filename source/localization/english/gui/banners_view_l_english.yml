@@ -15,7 +15,7 @@
  BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_REVERT:0 "Return [CHARACTER.GetUINamePossessive] [levies] to $BANNER|V$"
  BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_CREATING_EMPTY_PROVINCE:0 "@warning_icon!#X 空白の男爵領に集結地は作れません。#!"
  BANNER_GATHER_TIME:0 "Time to gather entire [rally_point|E]"
- BANNER_TOTAL_MEN:0 "Total [soldiers|E] in [rally_point|E]"
+ BANNER_TOTAL_MEN:0 "[rally_point|E]における[soldiers|E]合計"
  RAISE_TIME_DAYS:0 "[BannersView.GetSelectedBannerTimeToRaise]日"
  RAISE_TIME_DAYS_2:0 "[BannerItem.GetTimeToRaise]日"
  EDIT_BANNERS:0 "Edit Rally Points"
