@@ -578,7 +578,7 @@
  doctrine_parameter_pluralism_fundamentalist_faction_join_chance:1 "他の[faiths|E]の[counties|E]は[factions|E]に参加#N しやすくなる#!"
  doctrine_parameter_pluralism_fundamentalist_vulnerable_to_heresy:0 "#N Increased danger#! from heresies when at low [fervor|E]"
  doctrine_pluralism_righteous_name:0 "正義"
- doctrine_pluralism_righteous_desc:0 "As mortals we cannot fully comprehend [ROOT.Faith.HighGodNamePossessive] will, but our [ROOT.Faith.PriestNeuterPlural] still have a pretty good idea of what is holy and what is profane."
+ doctrine_pluralism_righteous_desc:0 "人である我々は、[ROOT.Faith.HighGodNamePossessive]意志を完全に理解することはできないが、それでも我々の[ROOT.Faith.PriestNeuterPlural]は、何が神聖で何が不敬であるかについて、そこそこ良い考えを持っている。"
  doctrine_parameter_pluralism_righteous_revocation_tyranny_reduced:1 "#V 邪悪な#!異教徒からは[tyranny|E]を負うことなく#P 領地称号の剥奪#!が可能"
  doctrine_pluralism_pluralistic_name:0 "多元主義"
  doctrine_pluralism_pluralistic_desc:0 "神の意志について正しい解釈が一つしかなく、他のすべての見解が間違っていると言うのは全く愚かなことだ。私たちは[ROOT.Faith.HighGodName]を崇拝する独自の方法をそれぞれが持っている。"

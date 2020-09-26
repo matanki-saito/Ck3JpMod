@@ -101,7 +101,7 @@
  SCHEME_AGENT_IS_COUNCILLOR:0 "[target.GetFirstNamePossessiveNoTooltip]の[councillor|E]: $VALUE|+0=$"
  SCHEME_AGENT_IS_CLOSE_KIN:0 "[target.GetFirstNamePossessiveNoTooltip]の[close_family|E]の一員: $VALUE|+0=$"
  SCHEME_AGENT_IS_POWERFUL_VASSAL:0 "[target.GetFirstNamePossessiveNoTooltip]の[powerful_vassal|E]: $VALUE|+0=$"
- SCHEME_AGENT_IS_NEMESIS:0 "[target.GetFirstNamePossessiveNoTooltip]の宿敵: $VALUE|+0=$"
+ SCHEME_AGENT_IS_NEMESIS:0 "[target.GetFirstNamePossessiveNoTooltip]の仇敵: $VALUE|+0=$"
  SCHEME_AGENT_IS_EXTENDED_FAMILY:0 "[target.GetFirstNamePossessiveNoTooltip]の[extended_family|E]の一員: $VALUE|+0=$"
  SCHEME_AGENT_IS_RIVAL:0 "[target.GetFirstNamePossessiveNoTooltip]のライバル: $VALUE|+0=$"
  SCHEME_AGENT_IS_VASSAL:0 "[target.GetFirstNamePossessiveNoTooltip]の[vassal|E]: $VALUE|+0=$"

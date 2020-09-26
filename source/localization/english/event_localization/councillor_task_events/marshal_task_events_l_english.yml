@@ -39,7 +39,7 @@
  marshal_task.0302.notification.a:0 "指揮官のかなりの成長: [commander.GetShortUIName]"
  marshal_task.0302.notification.b:0 "指揮官の成長: [commander.GetShortUIName]"
  marshal_task.0303.notification.a:0 "騎士のかなりの成長: [commander.GetShortUIName]"
- marshal_task.0303.notification.c:0 "Knight Became Blademaster: [commander.GetShortUIName]"
+ marshal_task.0303.notification.c:0 "騎士が剣の達人になった: [commander.GetShortUIName]"
  marshal_task.2002.t:0 "指揮官の大怪我"
  marshal_task.2002.eye:0 "\n\n[councillor.GetCouncilTitle]は、すぐに医者を呼んだが、[commander.GetHerHis]の視力を回復させる手立てはなかった。"
  marshal_task.2002.leg:0 "\n\n[councillor.GetCouncilTitle]は、すぐに医者を呼んだが、[commander.GetHerHis]の足と命を守る手立てはなかった。"

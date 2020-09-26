@@ -8,7 +8,7 @@
  martial_good_trait_match_bad_outcome:0 "[ROOT.Char.GetFirstNamePossessive]のエネルギッシュな性格は、戦争や戦闘への親和性の表れだと思われていたが、単に不道徳なだけだったのかもしれない。"
  martial_bad_trait_match_bad_outcome:1 "[ROOT.Char.GetFirstName]は 戦争というテーマにあまり興味を示したことがなかったが、それは一過性のものかもしれないとずっと思っていた。私は甘かった。"
  martial_neutral_trait_match_bad_outcome:1 "長い間[ROOT.Char.GetFirstName]には戦争の技術について学ぶための十分な教育を与えたいと望んでいた。だが、全ての努力は無駄になった。"
- education_martial_1_outcome_description:2 "[ROOT.Char.GetSheHe|U]はほとんど理解していないが、[ROOT.Char.GetSheHe]少なくとも剣の持ち方は知っているし、歩兵と$knight_culture_player_no_tooltip_lowercase$を見分けることもできるかもしれない。"
+ education_martial_1_outcome_description:2 "[ROOT.Char.GetSheHe|U]はほとんど理解していないが、[ROOT.Char.GetSheHe]は少なくとも剣の持ち方は知っているし、歩兵と$knight_culture_player_no_tooltip_lowercase$を見分けることもできるかもしれない。"
  education_martial_2_outcome_description:1 "基本的な理解しかできていないが、少なくとも軍隊を運用する上での要点は学んでいる。あとは経験を積んでくることを期待するしかない。"
  education_martial_prowess_1_outcome_description:1 "\n\nOn a personal level, [ROOT.Char.GetSheHe] has taken little from [ROOT.Char.GetHerHis] $knight_culture_player_adjective_no_tooltip_lowercase$ studies, and bumbles heavily in one-on-one fights."
  education_martial_prowess_2_outcome_description:1 "\n\nOn a personal level, [ROOT.Char.GetSheHe] has also fought a few successful actions against small groups of rebellious peasantry, showing [ROOT.Char.GetHerHim] a competent $knight_culture_player_no_tooltip_lowercase$."

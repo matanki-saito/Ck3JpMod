@@ -110,7 +110,7 @@
  hunt.4006.c:0 "Oh, this prey will do just fine..."
  hunt.4006.d:0 "寛大な寄進は彼らを遠ざけることができるはずだ。"
  hunt.4007.t:1 "$hunt_header$ 凶暴な[ROOT.Char.Custom('LocalAnimal')|U]"
- hunt.4007.desc_lazy:0 "A gentle breeze is blowing, and my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))], [similar_participant.GetTitledFirstName], and I are dozing off in a silent glade when we hear it."
+ hunt.4007.desc_lazy:0 "そよ風が吹く中、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))][similar_participant.GetTitledFirstName]、そして私は、その音が聞こえてきた時には、静かな木立の中で居眠りをしていた。"
  hunt.4007.desc_lustful:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))], [similar_participant.GetTitledFirstName], cuts a striking figure in [similar_participant.GetHerHis] hunting gear, and I curse the disturbance that tears my attention away from [similar_participant.GetHerHim]."
  hunt.4007.desc_fallback:0 "ちょうど[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))][similar_participant.GetTitledFirstName]と丘を登っていたときにそれを聞いた。"
  hunt.4007.desc_ending:0 "\n\n小枝が折れる音、枝のざわめき、鳥たちの怯えた鳴き声。 それの到来を告げる前触れだ。 巨大な[ROOT.Char.Custom('LocalAnimal')]が真っ直ぐこちらへ向かってくる。"

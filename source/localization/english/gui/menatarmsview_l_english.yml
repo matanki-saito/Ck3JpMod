@@ -17,7 +17,7 @@
  MAA_DESTROY_CONFIRMATION_TEXT:0 "Regiment [REGIMENT.GetNameNoTooltip] will be destroyed."
  MAA_DESTROY_CONFIRMATION_ACCEPT:0 "Destroy"
  MAA_RAISED:1 "徴集済み"
- MAA_UNRAISED:1 "動員前"
+ MAA_UNRAISED:1 "未召集"
  MAA_CURRENT_SIZE:0 "規模 [MAAItem.GetCurrentSize]/[MAAItem.GetMaxSize]"
  MAA_TYPE_NAME:0 "種類: [Regiment.GetMAAType.GetBaseTypeName]"
  MAA_INCREASE_SIZE:0 "連隊規模を第[MAAItem.GetNextSize]段階へと引き上げる"

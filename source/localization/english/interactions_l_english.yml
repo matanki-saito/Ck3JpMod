@@ -574,7 +574,7 @@
  offer_vassalization_interaction_aibehavior_friend_tt:0 "[recipient.GetSheHe|U]はあなたの友人である: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_best_friend_tt:0 "[recipient.GetSheHe|U]はあなたの最高の友人です: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_rival_tt:0 "[recipient.GetSheHe|U]はあなたのライバルである: $VALUE|=+0$"
- offer_vassalization_interaction_aibehavior_nemesis_tt:0 "[recipient.GetSheHe|U]はあなたの宿敵である: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_nemesis_tt:0 "[recipient.GetSheHe|U]はあなたの仇敵である: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_dynasty_tt:0 "[recipient.GetSheHe|U]はあなたの[dynasty|E]に属する: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_child_tt:1 "You are just a child: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_illegitimate_tt:0 "あなたの請求権は違法である: $VALUE|=+0$"
