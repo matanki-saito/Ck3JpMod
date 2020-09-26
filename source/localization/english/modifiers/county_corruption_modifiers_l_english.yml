@@ -22,7 +22,7 @@
  county_corruption_lackluster_administration_modifier:0 "Lackluster Administration"
  county_corruption_lackluster_administration_modifier_desc:0 "[county_corruption|E]\n我々はもはや領内の適切な統治に資金を供給できていない！"
  gain_county_corruption.message.low_control:0 "治安の悪化"
- gain_county_corruption.message.deficit:0 "In Debt"
+ gain_county_corruption.message.deficit:0 "借金がある"
  gain_county_corruption.message.county_corruption:0 "腐敗"
  gain_county_corruption.message.desc:0 "[county_corruption|E]:\n$EFFECT$"
  remove_county_corruption.message.marshal_removal:1 "領内統制を強化"

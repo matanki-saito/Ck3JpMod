@@ -101,7 +101,7 @@
  MY_REALM_WINDOW_FROM_TO_LIEGE:0 "[liege|E]へ"
  MY_REALM_WINDOW_TAXES:0 "@gold_icon![taxes|E]"
  MY_REALM_WINDOW_LEVIES:0 "@soldier_icon![levies|E]"
- MY_REALM_WINDOW_MAP_ICON_LOW_CONTROL:0 "Low [control|E]"
+ MY_REALM_WINDOW_MAP_ICON_LOW_CONTROL:0 "劣悪な[control|E]"
  MY_REALM_WINDOW_DOMAIN_LEVIES:0 "[domain|E]の[levies|E]"
  MY_REALM_WINDOW_VASSAL_LEVIES:0 "[vassal|E]の[levies|E]"
  ME_REALM_WINDOW_EMPTY_HOLDINGS:1 "空き区画: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"

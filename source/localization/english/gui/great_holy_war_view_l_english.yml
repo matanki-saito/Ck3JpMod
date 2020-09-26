@@ -11,7 +11,7 @@
  GHW_WAR_CHEST_LABEL:0 "[war_chest|E]"
  pledge_attacker:0 "[great_holy_war.ghw_target_kingdom.GetName]に対する[great_holy_war.GetFaith.Custom('GHWName')]に加わる"
  pledge_defender:0 "Oppose the [great_holy_war.GetFaith.Custom('GHWName')] for [great_holy_war.ghw_target_kingdom.GetName]"
- SELEC_GHW_BENEFICIARY_NO:0 "\n@warning_icon! #X No available characters to select from#!"
+ SELEC_GHW_BENEFICIARY_NO:0 "\n@warning_icon!#X 選択可能な人物がいません#!"
  SELECT_GHW_BENEFICIARY:1 "#T [beneficiary|E]を選択#![SelectLocalization( GreatHolyWarWindow.HasPotentialBeneficiary, '', 'SELEC_GHW_BENEFICIARY_NO' )]"
  GHW_TIME_TO_LAUNCH_TOOLTIP:0 "開戦まで[GREAT_HOLY_WAR.GetTimeUntilLaunch] ([GREAT_HOLY_WAR.GetLaunchDate.GetString])"
  GHW_OPEN_TOOLTIP_ATTACKER:1 "#T [GreatHolyWar.GetName]#!\n[GreatHolyWar.GetTooltip]#I クリックで大聖戦を開く#!"

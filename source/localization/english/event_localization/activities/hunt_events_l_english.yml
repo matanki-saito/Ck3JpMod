@@ -8,7 +8,7 @@
  hunt.1002.desc:0 "渓谷を抜け、逃げる[ROOT.Char.Custom('LocalAnimal')]を追いかけていると周囲は自然に囲まれ、私の視界は狭まっていった。 [hunting_courtier_1.GetTitledFirstName]と並んで走っていると、蹄の音、犬の吠え声、そして男の叫び声が聞こえてくる。 獲物をゆっくりと追い詰めるにつれてその興奮が私にも伝わってきた！"
  hunt.1002.a:0 "急げ！"
  hunt.1002.b:0 "[hunting_courtier_1.GetFirstNameNoTooltip]には回復するための時間が必要だ。"
- hunt.1003.desc_caught:0 "I know that it is a killing shot before the arrow even finds its target.\n\nAs the [ROOT.Char.Custom('LocalAnimal')] stumbles and falls we drown out its wails with shouts of victory!"
+ hunt.1003.desc_caught:0 "矢が標的に命中する前に、それがキリング・ショットであることは分かった。\n\n[ROOT.Char.Custom('LocalAnimal')]はつまずいて倒れたが、我々は勝利の雄叫びでその泣き声を掻き消した！"
  hunt.1003.desc_not_caught:0 "[ROOT.Char.Custom('LocalAnimal')]が[ROOT.Char.Custom('TerrainType')]へと逃げ込んだ時、私は獲物を逃したのだと知った。"
  hunt.1003.desc_injured:0 "\n\n[hunting_courtier_1.GetTitledFirstName]が負傷し、[ROOT.Char.Custom('LocalAnimal')]が逃げ去ってしまったのは残念だが、そのような危険もスリルの一部である。"
  hunt.1003.desc_uninjured:0 "\n\n私たちが馬を休ませる為に下馬すると、[hunting_courtier_1.GetTitledFirstName]は同情を示すように頷いてる。"

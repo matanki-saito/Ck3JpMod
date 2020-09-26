@@ -54,7 +54,7 @@
  msg_broken_alliance:1 "同盟破棄: [LEFT_CHARACTER.GetShortUINameNoTooltip]"
  msg_broken_alliance_desc:0 "[LEFT_CHARACTER.GetUINameNoTooltip]との[alliance|E]は破棄されました"
  msg_expired_alliance:1 "同盟の終了: [LEFT_CHARACTER.GetShortUINameNoTooltip]"
- msg_expired_alliance_desc:0 "[LEFT_CHARACTER.GetUINameNoTooltip]との[alliance|E]は、[SECONDARY_ACTOR.GetNameNoTooltip]と[SECONDARY_RECIPIENT.GetNameNoTooltip]がもはや結婚も婚姻もしていないため、解消された。"
+ msg_expired_alliance_desc:0 "[LEFT_CHARACTER.GetUINameNoTooltip]との[alliance|E]は、[SECONDARY_ACTOR.GetNameNoTooltip]と[SECONDARY_RECIPIENT.GetNameNoTooltip]がもはや結婚も婚約もしていないため、解消された。"
  msg_expired_alliance_ally_death_desc:0 "[LEFT_CHARACTER.GetUINameNoTooltip]が死去しました"
  msg_alliance_became_landed:1 "同盟締結: [LEFT_CHARACTER.GetShortUINameNoTooltip]"
  msg_alliance_became_landed_desc:0 "[LEFT_CHARACTER.GetSheHe]が[ruler|E]となったため[LEFT_CHARACTER.GetUINameNoTooltip]との[alliance|E]が成立しました"

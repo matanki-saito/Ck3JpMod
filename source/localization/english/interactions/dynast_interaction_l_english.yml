@@ -4,7 +4,7 @@
  disinherit_interaction_desc:0 "$dynasty_interaction_header$[recipient.GetShortUINameNoTooltip]を[line_of_succession|E]から削除します"
  disinherit_interaction_notification:0 "廃嫡された一族の一員"
  restore_inheritance_interaction:0 "相続の復元"
- restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restore [recipient.GetShortUINameNoTooltip] to the natural [line_of_succession|E]\n\n#weak This is available because [recipient.GetSheHe] has been [disinherited|E]"
+ restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$[recipient.GetShortUINameNoTooltip]を生来の[line_of_succession|E]に復元しますします。\n\n#weak これは[recipient.GetSheHe]が[disinherited|E]されているため利用できます"
  restore_inheritance_interaction_notification:0 "復元された相続"
  denounce_interaction:0 "糾弾"
  denounce_interaction_desc:0 "$dynasty_interaction_header$[recipient.GetShortUINameNoTooltip]を[denounce|E]\n\n#weak これは我々の[dynasty|E]すべてのメンバーに[recipient.GetHerHim]に対する[imprisonment_reason|E]を与えます"

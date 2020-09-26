@@ -211,7 +211,7 @@
  murder_outcome.5001.t:0 "Shedding This Mortal Coil"
  murder_outcome.5001.poisoned_duck:0 "饗宴でご馳走の鴨を食べていると、突然喉が腫れ、手足の感覚が鈍くなるのを感じる。私は何かが押し寄せてくるのを感じるが、それを止めることはできない。\n\n程なく視界が暗くなり、遠くから聞こえてくる笑い声が恐ろしい叫び声へと変わり、ゆっくりと遠ざかっていく。"
  murder_outcome.5001.gang_of_thugs:0 "暗い森の中を従者と共に旅していると、悪党の一団に襲われる。彼らが金よりも我々の命に関心があるのはすぐに明らかとなり、私の部下たちは勇敢に戦ったが、悪党どもは奇襲を得意としていた。\n\n私は安全だと感じるまで出来る限りの速さで走る。その時、戦いの騒ぎの向こうから一つの弓の弦の澄み切った音が聞こえてくる。"
- murder_outcome.5001.hired_assassin:0 "I wake in the middle of the night to see a dark figure in my chambers. I know not what has happened to my guards, but when I see the glint of moonlight reflecting off the blade, I know that it is too late for me.\n\nA sufficiently sharp dagger makes little sound as it pierces flesh, and through the rush of agonizing pain I could not tell if my screams were any more audible."
+ murder_outcome.5001.hired_assassin:0 "真夜中に目を覚ますと、私の部屋に暗い人影が見えた。護衛たちに何が起こったのかは分からないが、月の光が刃から反射してキラリと光るのを見たとき、もう手遅れだと悟った。\n\n十分に鋭利な短剣は身体を貫く時にはほとんど音を立てず、悶絶するような痛みが走る中で、自分の悲鳴がもう聞こえているかどうかさえ分からなかった。"
  murder_outcome.5001.creepy_crawly_intro:0 "足に何かが掠るのを感じた瞬間上掛けを払いのけたが、その素早い動きは[SCOPE.Custom('VenomousCreatureType')]を煽るだけだ。"
  murder_outcome.5001.creepy_crawly_known:0 "暗い部屋の中でも、私は[SCOPE.Custom('VenomousCreature')]の姿を認める。どうやって私のベットの中へ入り込んだのだろう？"
  murder_outcome.5001.creepy_crawly_unknown:0 "[SCOPE.Custom('VenomousCreatureType')]は機敏に差し迫ると、毒牙を突き立てた。"
