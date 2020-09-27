@@ -1,5 +1,5 @@
 ﻿l_english:
- intrigue_rigueint:0 "取り戻した"
+ intrigue_rigueint:0 "Rigueint"
  intrigue_9_14_20_18_9_7_21_5:0 "9 14 20 18 9 7 21 5"
  intrigue_lqwuljxh:0 "Lqwuljxh"
  diplomacy_lifestyle_name:0 "外交"
@@ -100,7 +100,7 @@
  education_rank_2_percentage:0 "20%"
  education_rank_3_percentage:0 "30%"
  education_rank_4_percentage:0 "40%"
- FOCUS_NO_AGE:0 "$AGE$歳以下の子供は[education_focus|E]を持つことができません。"
+ FOCUS_NO_AGE:0 "誕生後$AGE$未満の子供は[education_focus|E]を持つことができません"
  FOCUS_MAX_CHANGES:0 "[education_focus|E]は一度のみ変更が可能です。"
  education_diplomacy_modifier:0 "外交教育"
  education_martial_modifier:0 "軍事教育"
