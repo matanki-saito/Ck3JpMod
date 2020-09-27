@@ -702,7 +702,7 @@
  building_kutna_hora_mines_04:1 "Kutná Hora Mining Complex"
  building_kutna_hora_mines_04_desc:1 "$building_rammelsberg_mines_04_desc$"
  building_type_schwaz_mines_01:0 "シュヴァーツ鉱山"
- building_type_schwaz_mines_01_desc:0 "#F The Schwaz silver mine lies at the foot of the Kellerjoch and Eiblschrofen mountains, in the middle of a valley. The opportunity for mining means that a lot of people are drawn to the area."
+ building_type_schwaz_mines_01_desc:0 "#F シュヴァーツ銀鉱山はケラーヨッホ山とアイブルシュロフェン山のふもとにある谷の真ん中に位置する。採鉱の機会があるということは、多くの人がこの地域に引き寄せられるということだ。"
  building_schwaz_mines_01:0 "Schwaz Mining Settlement"
  building_schwaz_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
  building_schwaz_mines_02:0 "シュヴァーツ鉱山"
