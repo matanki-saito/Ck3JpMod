@@ -215,7 +215,7 @@
  pilgrimage.5011.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5011.b:0 "$pilgrimage.4001.b$"
  pilgrimage.5021.t:0 "$pilgrimage_header$ The City of the World's Desire!"
- pilgrimage.5021.desc:0 "ついにコンスタンティノープルの外側にある丘の上に立った。それはローマ帝国の栄光が響き渡る文明の至宝であり、本当に目を見張るものがある。\n\n中心部の近くには、ビザンツ建築の典型と言われているアヤソフィアがある。\n\nそれはここに限らず、街を見渡しながら、[ROOT.Char.GetFaith.CreatorNamePossessive]の創造の素晴らしさに驚かされる。"
+ pilgrimage.5021.desc:0 "ついにコンスタンティノープルの外側にある丘の上に立った。それはローマ帝国の栄光が響き渡る文明の至宝であり、本当に目を見張るものがある。\n\n中心部の近くには、ビザンツ建築の典型と言われているハギアソフィアがある。\n\nそれはここに限らず、街を見渡しながら、[ROOT.Char.GetFaith.CreatorNamePossessive]の創造の素晴らしさに驚かされる。"
  pilgrimage.5021.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5021.b:0 "$pilgrimage.4001.b$"
  pilgrimage.5031.t:0 "$pilgrimage_header$ Alexandria!"

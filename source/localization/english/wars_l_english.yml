@@ -101,7 +101,7 @@
  CB_MONGOL_INVASIONS_COST:0 "モンゴルの侵略"
  CB_DIVINE_DESTINY_COST:0 "[faith|E] — $divine_destiny_name$"
  CB_REDUCED_HOLY_WAR_COST:0 "[faith|E] — Reduced Holy War Cost"
- CB_COST_RULES_KINGDOM:0 "Rules a Kingdom"
+ CB_COST_RULES_KINGDOM:0 "王国統治者"
  CB_COST_RULES_EMPIRE:0 "Rules an Empire"
  CB_SIZE_OF_TARGET_REALM_COST:0 "標的の領地の規模"
  CB_VASSALIZING_KING:0 "Vassalizing a Kingdom"

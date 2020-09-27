@@ -28,7 +28,7 @@
  combat_event.1003.pow_message.desc.double:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と[secondary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)]は"
  combat_event.1003.pow_message.desc.multiple:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]とその他[ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0]人が"
  combat_event.1003.pow_message.desc.end:1 "[combat_winner.GetSheHe]が[combat_location.GetName]の戦いに勝利した後、敵である[combat_winner.GetTitledFirstName]によって捕虜になった"
- combat_event.1004.pow_message.t:0 "[ROOT.Char.Custom2('RelationToMeShort', primary_prisoner)|U]が"
+ combat_event.1004.pow_message.t:0 "虜囚となった[ROOT.Char.Custom2('RelationToMeShort', primary_prisoner)|U]"
  combat_event.1004.pow_message.desc.end:0 "[combat_winner.Custom2('MyCharacterIntroduction', ROOT.Char)]が[combat_location.GetName]の戦いに勝利した後、[combat_winner.GetSheHe]によって捕虜にされた"
  combat_event.1005.pow_toast.t:0 "重要人物を人質にしました"
  combat_event.1005.pow_toast.desc:1 "あなたの軍隊は[combat_location.GetName]の戦いで[important_hostage.GetHerHim]を捕らえた後、[important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)]を人質に取った。"

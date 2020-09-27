@@ -79,7 +79,7 @@
  murder_save.0010.varangian_dies:0 "\n\nAt least the assassin got the better of the guard. [varangian.GetTitledFirstName] won't get in my way again."
  murder_save.0010.a:0 "I will never get [target.GetHerHim] now!"
  murder_save.0010.b:0 "新たな計画が必要だ..."
- murder_save.1010.desc:0 "An assassin has made an attempt on my life! Thankfully, [varangian.GetFirstName], a member of my Varangian Guard, was right outside my chambers and swiftly intervened. [varangian.GetSheHe|U] made quick work of the assassin before I came to any harm."
+ murder_save.1010.desc:0 "暗殺者が私の命を狙っている。ありがたいことに、ヴァリャーグ親衛隊のメンバーである[varangian.GetFirstName]が私の部屋の外にいて、すぐに介在してくれた。危害が及ぶ前に、[varangian.GetSheHe|U]は暗殺者を素早く始末した。"
  murder_save.1010.varangian_dies:0 "Tragically, [varangian.GetFirstNameNoTooltip] suffered fatal wounds in the process."
  murder_save.1010.owner_discovered:0 "\n\nThere can be no doubt that this was all the doing of [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]!"
  murder_save.1010.a:0 "Who could be behind this vicious attempt?"

@@ -518,7 +518,7 @@
  building_notre_dame_01:0 "ノートル・ダム"
  building_notre_dame_01_desc:0 "$building_type_notre_dame_01_desc$"
  building_type_hagia_sophia_01:1 "ハギア・ソフィア"
- building_type_hagia_sophia_01_desc:0 "#F アヤソフィアは建築の真なる驚異であり、最も印象的な特徴は巨大なドームである。西暦537年に皇帝ユスティニアヌス1世によって建造され、現在ではエキュメニカル総主教が収容され、キリスト教の記念碑として立っている。\n\nそしてこれは永遠に残るだろう、ローマの力を打ち崩すものなど決してないのだから。 #!"
+ building_type_hagia_sophia_01_desc:0 "#F ハギアソフィアは建築の真なる驚異であり、最も印象的な特徴は巨大なドームである。西暦537年に皇帝ユスティニアヌス1世によって建造され、現在ではエキュメニカル総主教が収容され、キリスト教の記念碑として立っている。\n\nそしてこれは永遠に残るだろう、ローマの力を打ち崩すものなど決してないのだから。 #!"
  building_hagia_sophia_01:0 "ハギア・ソフィア大聖堂"
  building_hagia_sophia_01_desc:0 "$building_type_hagia_sophia_01_desc$"
  building_hagia_sophia_02:0 "ハギア・ソフィアモスク"

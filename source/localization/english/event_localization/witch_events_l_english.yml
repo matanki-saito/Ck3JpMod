@@ -1,5 +1,5 @@
 ﻿l_english:
- witch.1001.message:0 "Witchcraft Induction"
+ witch.1001.message:0 "魔術へのいざない"
  child_witch_conversion_success_effect.desc:0 "[child.GetFirstNameNoTooltip]は確定的である"
  child_witch_conversion_failure_effect.desc:0 "[child.GetFirstNameNoTooltip]は疑わしい"
  child_witch_conversion_critical_failure_effect.desc:0 "[child.GetFirstNameNoTooltip]は私の秘密を暴露した"
