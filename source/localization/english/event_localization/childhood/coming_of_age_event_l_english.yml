@@ -6,7 +6,7 @@
  coming_of_age.0001.desc1_good_trait:0 "皆の高い期待に反してあまり成果を上げることはできず、物足りない結果に終わった。"
  coming_of_age.0001.desc1_bad_trait:0 "結果は残念なものだったが、誰も驚きはしなかった。とりあえず、苦役はようやく終わったのだ！"
  coming_of_age.0001.desc1_fallback_trait:0 "成果は芳しくなかったが、結果が見れただけでも安心だ。"
- coming_of_age.0001.desc2:0 "I finally concluded my studies in the art of [ROOT.Char.Custom('education_focus_child')]!"
+ coming_of_age.0001.desc2:0 "ようやく[ROOT.Char.Custom('education_focus_child')]の勉強を終えた！"
  coming_of_age.0001.desc2_good_trait:0 "私はこの結果を残念に思っている。もっと上手くできたはずなのに。"
  coming_of_age.0001.desc2_bad_trait:0 "私はうまくやった。 少なくとも私にとって容易ではない課題であったという事実を考慮すれば。"
  coming_of_age.0001.desc2_fallback_trait:0 "My achievements were not great, but it also could have gone worse."

@@ -92,7 +92,7 @@
  murders_at_court.9041.b:0 "It's best to keep this quiet..."
  murders_at_court.9099.t:1 "Murders At Court: Bloody Dealings"
  murders_at_court.9099.t_wrong:0 "宮廷殺人事件 : 失敗"
- murders_at_court.9099.desc_wrong:0 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] does not even try to run. In fact, [murderer.GetSheHe] looks at me with utter confusion.\n\n\"Finally I have found you, murderer!\"\n\n\"I'm sorry, what? You think #EMP I#! murdered all those people?!"
+ murders_at_court.9099.desc_wrong:0 "[murderer.Custom2('MyCharacterIntroduction', ROOT.Char)]を追い詰めると、[murderer.GetSheHe]は走ろうともしない。実際、[murderer.GetSheHe]はすっかり戸惑った様子で私を見ている。\n\n「やっと見つけたぞ、人殺し！」\n\n「何だって？ #EMP 私 #! がみんなを殺したと思っているのか？」"
  murders_at_court.9099.desc_nothing:0 "ついに[murderer.Custom2('MyCharacterIntroduction', ROOT.Char)]を見つけ出すと、[murderer.GetSheHe]は逃げようとする素振りすらなかった。\n\n"
  murders_at_court.9099.desc:1 "「こんにちは、[ROOT.Char.GetFirstNameNoTooltip]」[murderer.GetSheHe]は私を上下に見ながら言った。「そろそろ、見つけてくれると思っていたよ。楽しんでくれたかな... #EMP 私の贈り物は#!?」\n\n[murderer.GetHerHis]の顔に広がる笑顔に、私は背筋を震わせた。"
  murders_at_court.9999.t:1 "Murders At Court: A Curse Lifted"
