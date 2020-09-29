@@ -275,7 +275,7 @@
  COURT_CHAPLAIN_CONVERSION_LEARNING_THEOLOGY:1 "Liege has encouraged conversion"
  COURT_CHAPLAIN_FABRICATE_CLAIM_INNOVATION_BONUS_LAND_GRANTS:1 "Liege's Culture — Land Grants"
  COURT_CHAPLAIN_FABRICATE_CLAIM_NOT_ADJACENT:1 "隣接しない伯爵領への請求"
- COURT_CHAPLAIN_FABRICATE_CLAIM_HERETIC_BONUS:0 "The [holder|E] is of a different [faith|E]"
+ COURT_CHAPLAIN_FABRICATE_CLAIM_HERETIC_BONUS:0 "違う[faith|E]の[holder|E]"
  task_spouse_default:0 "当主の援助"
  task_spouse_default_effect_desc:0 "[councillor.GetShortUINameNoTooltip]は一般的な領地の運営を手伝います\n\n[councillor.GetHerHis|U]の援助により以下を得ます:\n[councillor.GetModifierDescForTask('task_spouse_default')]"
  task_court_politics:0 "宮廷政治"

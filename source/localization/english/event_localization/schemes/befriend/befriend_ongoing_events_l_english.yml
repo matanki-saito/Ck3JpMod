@@ -1,8 +1,8 @@
 ﻿l_english:
- befriend_ongoing.0901.t:0 "Befriend: What Could Have Been"
+ befriend_ongoing.0901.t:0 "友になる：あり得たかも知れないこと"
  befriend_ongoing.0901.desc:0 "I have received some shocking news. [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U] has passed away.\n\nAs fate would have it, I will never get to enjoy [target.GetHerHis] friendship."
  befriend_ongoing.0901.a:0 "The world is harsh and sudden."
- befriend_ongoing.0902.t:0 "Befriend: Captive Audience"
+ befriend_ongoing.0902.t:0 "友になる：魅了された聴衆"
  befriend_ongoing.0902.t.other:0 "Befriend: Locked Away"
  befriend_ongoing.0902.desc:0 "I have imprisoned [target.Custom2('MyCharacterIntroduction', ROOT.Char)].\n\nEven though [target.GetSheHe] now has all the time in the world to spend with me, while [target.GetSheHe] remains in captivity [target.GetSheHe] is unlikely to be receptive to my attempts at winning [target.GetHerHis] friendship."
  befriend_ongoing.0902.desc.other:0 "[target.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been imprisoned by [imprisoner.Custom2('MyCharacterIntroduction', ROOT.Char)]! As long as [target.GetSheHe] remains captive, I will be unable to win [target.GetHerHis] friendship."
