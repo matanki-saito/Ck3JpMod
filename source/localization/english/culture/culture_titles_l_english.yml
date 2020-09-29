@@ -438,7 +438,7 @@
  duke_feudal_male_lombard_independent:0 "Prince"
  duke_feudal_female_lombard_independent:0 "Princess"
  duchy_feudal_lombard_independent:0 "公国"
- duke_feudal_male_ban:0 "Ban"
+ duke_feudal_male_ban:0 "総督"
  duke_feudal_female_ban:0 "Ban"
  duchy_feudal_ban:0 "Banate"
  barony_feudal_sardinian:0 "主事領"
