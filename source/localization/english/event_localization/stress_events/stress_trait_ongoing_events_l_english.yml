@@ -29,7 +29,7 @@
  hashish_alone_modifier_desc:0 "この人物は、夜の間ハシシのケーキで痛みを管理している。"
  stress_trait_ongoing.0506.b:0 "あるいは[medication_friend.GetFirstNameNoTooltip]が共有するための世話をしてくれるかも？"
  hashish_with_friend_modifier:0 "仲間との投薬"
- hashish_with_friend_modifier_desc:0 "このキャラクターは、仲の良い友人と十分なハシシと共に夜を共有している。"
+ hashish_with_friend_modifier_desc:0 "この人物は、仲の良い友人と十分なハシシと共に夜を共有している。"
  stress_trait_ongoing.0511.t:0 "It Was Ever Thus"
  stress_trait_ongoing.0511.desc:0 "私が[hashishiyah_capital.GetNameNoTierNoTooltip]の庭園で涼しい夜を楽しみ、ハシシの載った小さなケーキを気軽にむしゃむしゃ食べながら座っていると、突然、激怒した[crusty_old_person.GetTitledFirstName]の重くて唾液が飛び散るような息遣いを頬に感じる。\n\n「その呪われた枝を下に置くんだ[ROOT.GetCharacter.GetFirstNameNoTooltip]、心を曇らせるのは終わりにするんだ！[crusty_old_person.GetFaith.HighGodName]は、君が人事不省になって君の時間を浪費するために、君をこの地上に置いのではないんだぞ！」"
  stress_trait_ongoing.0511.a:0 "あなたは正しい！これは直ちに止めるべきだ。"

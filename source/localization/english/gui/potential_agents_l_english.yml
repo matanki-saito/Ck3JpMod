@@ -34,3 +34,6 @@
  POTENTIAL_AGENT_SUCCESS_TOOLTIP:0 "#T [success_chance|E]: [CharacterListItem.GetInt( 'success' )|+]#!\n[CharacterListItem.GetText( 'success_desc' )]"
  POTENTIAL_AGENT_POWER_TOOLTIP:1 "#T [scheme_power|E]#!\n [CharacterListItem.GetInt( 'power' )|+]の力を追加\nスパイの[scheme_power|E]は[intrigue|E]能力に比例します"
  AGENT_SPYMASTER:0 "密偵頭: #P $VALUE|0$%#!"
+ AGENT_WILL_ACCEPT:0 "#P Will join ($ACCEPTANCE|=0$)#!"
+ AGENT_WILL_ACCEPT_DESC:0 "#T Will join scheme #!"
+ SCHEME_POWER_TRIGGER:0 "[scheme_power|E]: $VALUE|+0$"

@@ -180,3 +180,4 @@
  commission_epic.9999.murdered_by_me:0 "Considering the drastic measures I had to take towards [composer.GetTitledFirstName], it seems as if [composer.GetSheHe] was never truly a good fit to compose my family epic after all.\n\nThankfully my [ROOT.Char.Custom('CommissionEpicScribes')] are quite capable of doing it by themselves."
  commission_epic.9999.died:0 "With the passing of [composer.GetTitledFirstName], my family epic stands incomplete.\n\nIt will be a difficult task, but my [ROOT.Char.Custom('CommissionEpicScribes')] will have to continue the efforts."
  commission_epic.9999.a:1 "[composer.GetHerHis|U] work will be completed."
+ commission_epic.1002.b.tt:0 "Which also means I can take back some of the salary payment!"

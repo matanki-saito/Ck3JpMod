@@ -57,3 +57,4 @@
  elope.2000.c.success:0 "[target.GetShortUIName|U] is convinced"
  elope.2000.c.failure:0 "[target.GetShortUIName|U] feels dismissed"
  elope.2000.b:0 "You shouldn't be sending letters, then!"
+ elope.1001.start.desc_brave:0 "As we wait, I cannot help but wonder where [target.GetFirstName] is now. Did [target.GetSheHe] make it out okay? Will there be pursuers?\n\nI spot a torch ahead, moving in our direction, and gesture to my guards to hide."

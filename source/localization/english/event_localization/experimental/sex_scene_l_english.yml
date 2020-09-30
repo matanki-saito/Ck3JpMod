@@ -40,7 +40,7 @@
  sex_scene.0003.opening_private_chambers_1:1 "胸をドキドキさせながら、ドアの鍵を開け[second.GetHerHim]を部屋へ招き入れた"
  sex_scene.0003.conclusion_private_chambers_1:0 "数時間後、私たちはまだ指を愛撫しながら模様をなぞり、お互いの肌に愛のメッセージを書いた。"
  sex_scene.0003.opening_stables_1:1 "[second.Custom2('RelationToMe', SCOPE.sC('second'))]とともにいるところが見つかれば醜聞になっただろうが、その晩、厩舎には誰ひとりいなかった。"
- sex_scene.0003.conclusion_stables_1:0 "私たちの情熱的な喘ぎ声が、馬の足音やいななきに掻き消されることを願うばかりだ。"
+ sex_scene.0003.conclusion_stables_1:0 "私たちの情熱的な喘ぎ声が、馬の足音やいななきに掻き消されたことを願うばかりだ。"
  sex_scene.0003.opening_copse_1:1 "私は[second.Custom('ResidenceBuilding')]からほど近い林の中で私の[second.Custom2('RelationToMe', SCOPE.sC('second'))]と出会った。誰も私たちを見ていないと分かっていても、私の心臓は大きく鼓動していた…"
  sex_scene.0003.conclusion_copse_1:1 "[second.GetSheHe]が去ってから暫くの間、[second.GetHerHis]の温もりを感じながら私は草原に横たわっていた。"
  sex_scene.0003.opening_kitchen_1:1 "いつ使用人が厨房に来てもおかしくない！[second.GetSheHe]が私の[second.Custom('GetClothingArticle')]を引っ張りながら、天板の方に押し倒した時、私は止めてくれと言った。しかし、言っただけだ。"

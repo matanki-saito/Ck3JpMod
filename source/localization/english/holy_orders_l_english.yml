@@ -86,3 +86,5 @@
  other_faith_neighbor_created_holy_order_message:0 "[holy_order_creator.GetTitledFirstName]が[new_holy_order.GetName]を創設しました！"
  my_faith_holy_order_disbanded_message:0 "[holy_order.GetName]はこれまでです。彼らの土地は失われ、その軍事組織は解散しました。"
  my_holy_order_new_lease_message:0 "[holy_order.GetName]が彼ら自身の手により[barony.GetNameNoTier]において創設されました。彼らの戦力は大きくなっています。"
+ is_holy_order_trigger:0 "Is a [holy_order|E]"
+ CONTROLS_HOLY_SITE_TRIGGER:0 "Controls holy site: $TITLE$"

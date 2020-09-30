@@ -105,7 +105,7 @@
  relation_upgrade.2101.b_tt:0 "あなたの廷臣の一人が病気になります"
  relation_upgrade.2101.b_tt_2:0 "[capital.GetNameNoTooltip]で病気が発生します"
  relation_upgrade.2101.c:0 "[peasant.GetSheHe|U]は堂々と埋葬されるだろう。"
- relation_upgrade.2102.desc_opening:0 "[rival.Custom2('MyCharacterIntroduction', ROOT.Char)]の側近たちは、[rival_capital.GetNameNoTier]から少し離れたところで止まっている。私が使者を送る前に、彼らのキャンプから私の[rival.Custom('ResidenceBuilding')]に向かって何かが発射される。\n\n病に侵されてボロボロになった体が空から降ってくる。"
+ relation_upgrade.2102.desc_opening:1 "[corpse_rival.Custom2('MyCharacterIntroduction', ROOT.Char)]の側近たちは、[rival_capital.GetNameNoTier]から少し離れたところで止まっている。私が使者を送る前に、彼らのキャンプから私の[rival.Custom('ResidenceBuilding')]に向かって何かが発射される。\n\n病に侵されてボロボロになった体が空から降ってくる。"
  relation_upgrade.2102.desc_bubonic_plague:0 "私が立って見ていても分かるほどの大きな気泡に覆われ、膿と血が噴き出している。"
  relation_upgrade.2102.desc_smallpox:0 "私が立って見ていても分かるほど、肌は吹き出物と凸凹で傷ついている。"
  relation_upgrade.2102.desc_ending:0 "\n\nそれはぐちゃっという音とともに着地し、血や腸、そしてパニックを撒き散らす。"

@@ -17,3 +17,4 @@
  OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I クリックで軍隊を選択#!"
  OUTLINER_ARMY_CLICK_TO_PAN:0 "#I クリックで所在地に移動#!"
  OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I 右クリックして場所に移動 #!"
+ OUTLINER_PINNED_CHARACTER: "[Character.GetShortUINameNotMeNoTooltip]#medium , [Character.GetAge]#!"

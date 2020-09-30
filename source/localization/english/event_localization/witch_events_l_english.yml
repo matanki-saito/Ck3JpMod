@@ -243,3 +243,4 @@
  witch.4031.a:0 "That's right, my friend. Delve deeper, and deeper..."
  witch.4032.end.desc:0 "[convince_target.GetFirstNameNoTooltip] does not even open the book. An audible gasp escapes [convince_target.GetHerHis] lips when [convince_target.GetSheHe] sees the strange symbols, and [convince_target.GetSheHe] throws it in the fire."
  witch.4032.a:0 "#EMP No!#! May [ROOT.Char.GetFaith.HighGodName] curse this spineless fool!"
+ witch.3014.guest.fallback.desc:0 "[host.GetTitledFirstName] leads us through a ceremony with all the right words and gestures. The ancient prayers roll of our tongues in an enchanting pattern, but the beauty and power that usually accompanies it is diminished; [host.GetTitledFirstNameNoTooltip] does well enough, but something is missing nonetheless."

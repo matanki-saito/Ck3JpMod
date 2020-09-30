@@ -86,7 +86,7 @@
  martial_authority_special.1502.d:0 "An example needs to be set. No one will disobey me again."
  martial_authority_special.1503.desc_execution:0 "Deserters are due a single mercy; one granted by executioner's blade.\n\nBeing faced with the need to make harsh decisions has made me come to understand some of the burdens of command in a more... intimate way."
  martial_authority_special.1503.desc_latrine:0 "何ヶ月もの間汚物の中で過ごした脱走兵たちは、最初の機会を掴み、一線へ戻った。\n\n罰を受けた脱走兵と、同じ罰を受けることに怯える他の兵士の反応を見ていたところ、軍隊のことがよく分かるようになってきた。"
- martial_authority_special.1503.desc_diplomacy:0 "Invigorated by my speech, tired from the long night, and thankful for the mercy provided, the deserters return to their barracks with a new fire in their eyes.\n\nTo inspire loyalty in the troops in such a way has showed me that there is more to being a commander than the strength in your arm."
+ martial_authority_special.1503.desc_diplomacy:0 "Invigorated by my speech, tired from the long night, and thankful for the mercy provided, the deserters return to their barracks with a new fire in their eyes.\n\nTo inspire loyalty in the troops in such a way has shown me that there is more to being a commander than the strength in your arm."
  martial_authority_special.1503.a.tt_execution:0 "[deserting_soldier.GetTitledFirstNameNoTooltip] was executed for [deserting_soldier.GetHerHis] crimes."
  martial_authority_special.1503.a:0 "ようやくすべての試練が終わったようだな。"
  martial_authority_special.1504.desc_opening:0 "状況はもっと良くできたかもしれない。\n\n"
@@ -98,3 +98,4 @@
  martial_authority_special.3000.a:0 "コミュニケーションの方法について議論しよう。"
  martial_authority_special.3000.b:0 "新兵に挨拶に行こう！"
  respected_figurehead:0 "Respected Figurehead"
+ martial_authority.2050.toast.title:0 "[right_hand_person.GetShortUIName] is now serving as your right-hand [right_hand_person.GetWomanMan]"

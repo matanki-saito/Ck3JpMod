@@ -115,7 +115,7 @@
  learning_scholarship_special.3001.d:0 "魔術契約には誘惑されないぞ！"
  learning_scholarship_special.3002.desc:0 "ワインの甘味料に使う鉛糖を最初に用意しなければいけない。\n\n必要なものを輸入できる業者を見つけたが、高くつきそうだった。代わりに、金属鉛を焼いた灰を酢に溶かして安く自作できる。"
  learning_scholarship_special.3002.a:0 "金稼ぐには金使え！"
- learning_scholarship_special.3002.b:0 "他の人達がどうやってるかなんて知らない！？"
+ learning_scholarship_special.3002.b:0 "How can I learn if other people do all the work!?"
  learning_scholarship_special.3002.a.success:0 "無事に鉛糖ができた"
  learning_scholarship_special.3002.a.failure:0 "鉛中毒で頭が痛い"
  learning_scholarship_special.3002.tt:0 "鉛糖が手に入った"

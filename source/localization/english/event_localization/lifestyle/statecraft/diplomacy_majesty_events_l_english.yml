@@ -148,7 +148,7 @@
  diplomacy_majesty_special.1013.a.compassionate:0 "I am glad we can put this behind us."
  diplomacy_majesty_special.1014.desc:0 "Keeping in mind what I know about [debater.GetFirstNamePossessive] weaknesses, I think the most effective way to humiliate [debater.GetHerHim] in front of everyone is..."
  diplomacy_majesty_special.1014.a:0 "... acting ruthless and frighten [debater.GetHerHim]."
- diplomacy_majesty_special.1014.generic.tt:0 "#F The effectiveness of the tactic depends on how well it exploits [debater.GetTitledFirstNamePossessive] weaknesses."
+ diplomacy_majesty_special.1014.generic.tt:0 "#F The effectiveness of the tactic depends on how well it exploits [debater.GetTitledFirstNamePossessive] weaknesses.#!"
  diplomacy_majesty_special.1014.a.tt:0 "#F Works well against those who are cautious, kind-hearted, forgiving and lethargic.#!"
  diplomacy_majesty_special.1014.b:0 "... provoking [debater.GetHerHim] into losing [debater.GetHerHis] temper."
  diplomacy_majesty_special.1014.b.tt:0 "#F Works well against those who are bold, energetic, vindictive and honorable.#!"
@@ -175,3 +175,4 @@
  diplomacy_majesty_special.1016.a:0 "How embarrassing..."
  diplomacy_majesty_special.1050.title:0 "Debate Ended Inconclusively"
  diplomacy_majesty_special.1050.message:0 "I never got the chance to try my debate skills against [debater.GetTitledFirstName]."
+ diplomacy_majesty.4072.c:0 "$diplomacy_majesty.4070.b$"

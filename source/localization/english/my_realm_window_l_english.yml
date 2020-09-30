@@ -105,7 +105,7 @@
  MY_REALM_WINDOW_DOMAIN_LEVIES:0 "[domain|E]の[levies|E]"
  MY_REALM_WINDOW_VASSAL_LEVIES:0 "[vassal|E]の[levies|E]"
  ME_REALM_WINDOW_EMPTY_HOLDINGS:1 "空き区画: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
- MY_REALM_WINDOW_POWERFUL_VASSAL:0 "有力な封臣"
+ MY_REALM_WINDOW_POWERFUL_VASSAL:1 "[powerful_vassal|X]"
  MY_REALM_WINDOW_TITLES_LOST_ON_SUCCESSION:0 "@warning_icon!継承時に失われる称号: [MyRealmWindow.GetNumTitlesLost]"
  MY_REALM_WINDOW_VASSAL_LIMIT:0 "[vassal_limit|E]: "
  MY_REALM_WINDOW_VASSAL_LIMIT_VALUE:0 "[GetPlayer.GetNumVassalsTowardsLimit]/[GetPlayer.GetVassalLimit]"
@@ -131,3 +131,4 @@
  MY_REALM_WINDOW_VASSAL_OPINION:0 "封臣の評価: [MyRealmWindow.GetVassalOpinion|=+]"
  MY_REALM_WINDOW_VASSAL_OPINION_TT:0 "#T 封臣の[opinion|E]: [MyRealmWindow.GetVassalOpinion|=+]\n#!これはあなたに対するすべての[vassals|E]の評価の要約です。 これが低い場合、反対[factions|E]が多い可能性が高いです！\n\n#S 情報源#!\n[MyRealmWindow.GetVassalOpinionBreakdown]"
  MY_REALM_WINDOW_NO_FEUDAL_CONTRACT_TT:0 "#T 個人的な法的義務はない\n#![feudal|E]の[vassals|E]([barons|E]を除く)だけが個人的な[obligations|E]を持つことができます"
+ MY_REALM_WINDOW_ABSOLUTE_COUNTY_CONTROL:0 "[control|E]: $ABSOLUTE_COUNTY_CONTROL$"
