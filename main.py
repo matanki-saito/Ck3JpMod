@@ -71,10 +71,6 @@ def assembly_mod(mod_file_name,
     # 画像ファイルを入れる
     shutil.copy(_(resource_dir_path, "title.jpg"), mod_dir_path)
 
-    # フォントフォルダを入れる
-    # shutil.copytree(_(resource_dir_path, "fonts"),
-    #                _(mod_dir_path, "fonts"))
-
     # clausewitzを移す
     shutil.copytree(_(ext_paratranz_main_dir_path, "utf8", "clausewitz", "localization"),
                     _(mod_loc_replace_dir_path, "clausewitz"))
