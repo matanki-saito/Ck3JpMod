@@ -13,7 +13,7 @@
  mongol_invasion.1001.c:0 "チンギス...誰だって？"
  mongol_invasion.1002.t:0 "モンゴル族の台頭"
  mongol_invasion.1002.desc.close:0 "新たなる指導者、[temujin.GetTitledFirstName]が散在していた"
- mongol_invasion.1002.desc.close_mongolia:0 "モンゴルの部族の中で台頭し、"
+ mongol_invasion.1002.desc.close_mongolia:0 "蒙古の部族の中で台頭し、"
  mongol_invasion.1002.desc.close_steppes:0 "ステップの部族の中で台頭し、"
  mongol_invasion.1002.desc.close.end:0 "自らを世界の支配者、チンギス・ハーンと称した。\n\n大規模な部族軍を率いた[temujin.GetSheHe]は全ステップの支配者となる戦いを宣言した、それはじきに全世界に及ぶだろう！"
  mongol_invasion.1002.desc.far:0 "遠いステップの野蛮な部族から新たな指導者が現れたという知らせが届いた。この「[temujin.GetTitledFirstName]」とやらは自らを世界の支配者、チンギス・ハーンと称し全世界の征服を誓ったそうだ。\n\n[temujin.GetSheHe|U]の前にも世界を征服するなどと言っていた人間は居たが、噂によると[temujin.GetTitleAsNameNoTooltip]は負け知らずの不死身の騎兵の大群を先頭で率いて来るらしい。"

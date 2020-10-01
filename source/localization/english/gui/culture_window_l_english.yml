@@ -58,6 +58,6 @@
  CULTURE_COOLTIP_ERA:1 "現在の[era|E]: [Culture.GetCultureEra.GetName]"
  CULTURE_COOLTIP_NO_AVAILABLE_INNOVATION:0 "利用可能な革新性はありません"
  CULTURE_WINDOW_CULTURE_HEAD_NOTPLAYER:0 "[CultureWindow.GetCultureHeadInfo]. [CultureWindow.GetMyCultureInfo]"
- CULTURE_COOLTIP_HEAD:0 "[cultural_head|E]: [Culture.GetCultureHead.GetUIName]"
+ CULTURE_COOLTIP_HEAD:0 "[cultural_head|E]: [Culture.GetCultureHead.GetUIName|U]"
  CULTURE_COOLTIP_NO_HEAD:0 "[cultural_head|E]: なし"
- CULTURE_COOLTIP_CLICK:0 "#I クリックで[Culture.GetNameNoTooltip]を表示"
+ CULTURE_COOLTIP_CLICK:0 "#I クリックで[Culture.GetNameNoTooltip]を表示#!"

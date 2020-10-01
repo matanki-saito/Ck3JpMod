@@ -102,7 +102,7 @@
  intrigue_temptation.3010.b:0 "自分でやるよ。"
  intrigue_temptation.3010.c:0 "酒を飲みに来ただけだ……"
  intrigue_temptation.3010.success.tt:0 "どう決断するかを決められるようになります"
- intrigue_temptation.3010.a.success:0 "助けを借りて、私の小指に[bar_servant.GetFirstNameNoTooltip]を巻きつける"
+ intrigue_temptation.3010.a.success:0 "助けを借りて、[bar_servant.GetFirstNameNoTooltip]私の言いなりにする"
  intrigue_temptation.3010.a.failure:0 "[bar_servant.GetFirstNameNoTooltip]は私の誘いに乗らない"
  intrigue_temptation.3010.b.success:0 "[bar_servant.GetFirstNameNoTooltip]は私のいいなりだ"
  intrigue_temptation.3011.help.desc:0 "私は[bar_servant.GetFirstName]が誘いを断るのを数え切れないほど見てきた。しかし、[wingman.GetTitledFirstNamePossessive]の紹介と落ち着いた物腰のおかげで、[bar_servant.GetSheHe]はすぐに心を開いてくれた。\n\n会話の流れは滑らかで――[bar_servant.Custom('bar_servant')]との共通点がこんなにあるとは思いもよらなかった！　[bar_servant.GetFirstNameNoTooltip]が[bar_servant.GetHerHis]の手を私の腕に添えて今夜の部屋について尋ねた時、私はようやく[wingman.GetFirstNameNoTooltip]がもう帰ったことに気づいた。二人部屋、[bar_servant.GetHerHis]の目がそう語っている。"

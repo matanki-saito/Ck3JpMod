@@ -363,7 +363,7 @@
  flowery_war_cb_defeat_desc:0 "No sacrifice is made."
  directed_great_holy_war:0 "大聖戦"
  undirected_great_holy_war:0 "大聖戦"
- great_holy_war_victory_desc:0 "[titles|E] in the target kingdom are handed out to the beneficiaries. [gold|E] and [piety|E] is spread among all participants."
+ great_holy_war_victory_desc:0 "対象となる王国の[titles|E]は受益者に配られ、[gold|E]と[piety|E]は全ての参加者全員に行き渡ります。"
  great_holy_war_defeat_desc:0 "No titles change hands. The defenders divide [piety|E] won."
  debug_war_victory_desc:0 "攻撃側が目標の称号を獲得。"
  debug_war_white_peace_desc:0 "防衛側が目標の称号を保持。"
