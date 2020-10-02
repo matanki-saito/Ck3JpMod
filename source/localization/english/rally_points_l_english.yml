@@ -1,7 +1,7 @@
 ﻿l_english:
  RP_CANNOT_PLACE_INVALID_PROVINCE:0 "#X この位置は自分の[realm|E]の外です #!"
  RP_CANNOT_PLACE_ALREADY_THERE:0 "#X ここにはすでに[rally_point|E]が設定されています#!"
- RP_CANNOT_PLACE_OCCUPIED:0 "#X この位置は[occupied|E]されています#!"
+ RP_CANNOT_PLACE_OCCUPIED:0 "#X この位置は[occupied|E]にあります#!"
  RP_CANNOT_PLACE_ENEMY_TERRITORY:0 "#X この位置は敵の領内です#!"
  RP_CANNOT_ADD_OVER_LIMIT:0 "#X $VALUE|V$個より多くの[rally_points|E]を指定することはできません#!"
  RP_CANNOT_REMOVE_LAST:0 "#X 最後の一つの[rally_point|E]は削除できません#!"

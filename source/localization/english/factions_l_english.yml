@@ -15,7 +15,7 @@
  FACTION_IMPRISONMENT_RETALIATION_END:0 "\n\n [retaliating_faction.GetName]に対するこのような残虐な仕打ちは、もはや戦争行為としか思えない。我々が自分の身は自分で守ろうとしない限り、確実にひとりまたひとりと討ち取られるであろう！"
  FACTION_IMPRISONMENT_RETALIATION_OPT:0 "戦争へ！"
  independence_faction:0 "$game_concept_independence_faction$"
- independence_faction_desc:0 "独立派の[faction|E]は、彼らを支配している [liege|E] からの独立を求めています。\n\n#S 最終通告#!\n全ての派閥メンバーが[independent|E]します。\n[liege|E]が[prestige|E]を失います。"
+ independence_faction_desc:0 "独立派の[faction|E]は、彼らを支配している [liege|E] からの独立を求めている。\n\n#S 最終通告#!\n全ての派閥メンバーが[independent|E]します。\n[liege|E]が[prestige|E]を失います。"
  independence_faction_short_effect_desc:0 "彼らは、[liege|E]からの独立を望んでいる"
  FACTION_DEMAND_INDEPENDENCE:0 "独立欲求"
  FACTION_DEMAND_INDEPENDENCE_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n今こそ、[faction_leader.GetPrimaryTitle.GetNameNoTier]は[faction.GetName].の支配から完全に独立すべき時が来たのだ。\n我々の要求を受け入れるか、戦場で剣を交えるか、そのどちらかだ！"

@@ -17,7 +17,7 @@
  CHOOSE_PERK_CONFIRM_ACCEPT:0 "アンロック"
  FOCUS_TOOLTIP_TEXT:0 "[FOCUS.GetDescription( CHARACTER.GetID )]\n[FOCUS.GetEffectDescription]"
  FOCUS_TOOLTIP_TEXT_PLAYER:0 "[FocusType.GetDescription( GetPlayer.GetID )]\n[FocusType.GetEffectDescription]"
- LONG_FOCUS_TEXT:2 "[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"
+ LONG_FOCUS_TEXT:2 "[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName]経験値: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/月#!"
  CHOOSE_FOCUS_TOOLTIP:2 "#T [FocusType.GetNameNoTooltip]#!\n[CharacterLifestyleWindow.CanSelectFocusDesc( FocusType.Self )]\n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName]経験値: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/月\n\n#I クリックして選択#!"
  CHOOSE_FOCUS_CONFIRM_TITLE:0 "[FOCUS.GetName]を選択"
  CHOOSE_FOCUS_CONFIRM_DESC:0 "[FOCUS.GetDescription( GetPlayer.GetID )]\n[FOCUS.GetEffectDescription]\n\n[FOCUS.GetLifestyle.GetName]経験値: [FOCUS.GetGainAmount( GetPlayer )|P0]/月\n[FOCUS.GetGainBreakdown( GetPlayer )]\n\n[GetGameTimeDifferenceForDiffMonths( GetDefine('NCharacter', 'FOCUS_ADULT_COOLDOWN_MONTHS'), '(bool)yes' )]毎に変更できます。"

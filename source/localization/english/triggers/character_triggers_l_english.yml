@@ -623,7 +623,7 @@
  TARGET_HAS_THIS_OPINION_OF_CHARACTER_OR_ABOVE:0 "[TARGET_CHARACTER.GetShortUINamePossessive] [opinion|E] of [CHARACTER.GetShortUIName] is $COMPARATOR$ $NUM|V0$"
  IS_FOREIGN_COURT_OR_POOL_GUEST_TRIGGER:0 "Is either at a foreign court or a guest"
  IS_A_COURTIER_TRIGGER:0 "Is a [courtier|E]"
- AT_LEAST_X_MEMBERS_OF_THE_Y_DYNASTY_FULFILL:0 "At least $COUNT$ members of the [DYNASTY.GetBaseName] [dynasty|E] fulfill:"
+ AT_LEAST_X_MEMBERS_OF_THE_Y_DYNASTY_FULFILL:0 "[DYNASTY.GetBaseName][dynasty|E]の少なくとも$COUNT$人のメンバーが以下を満たしている:"
  TARGET_IS_DE_JURE_LIEGE_OR_ABOVE_TRIGGER:0 "[TARGET_CHARACTER.GetShortUIName]"
  IS_LOWBORN_TRIGGER:0 "Is [lowborn|E]"
  HOLDS_A_LANDED_TITLE_TRIGGER:0 "Holds a landed title"

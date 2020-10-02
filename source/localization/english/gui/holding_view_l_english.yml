@@ -56,7 +56,7 @@
  HOLDING_LEVIES_TOOLTIP_PLAYER:0 "私の[levies|E]"
  HOLDING_LEVIES_TOOLTIP_TOTAL:0 "[levies|E]合計"
  HOLDING_IN_DOMAIN_LIMIT_GRACE_PERIOD_TOOLTIP:0 "@warning_icon!#X [domain_limit|E]を超えているため、この[recently_acquired_holding|E]からは[taxes|E]と[levies|E]は得られません#!"
- HOLDING_OCCUPIED:0 "[CHARACTER.GetShortUIName]により[occupied|E]されています"
+ HOLDING_OCCUPIED:0 "[CHARACTER.GetShortUIName]による[occupied|E]にあります"
  INVALID_CONSTRUCTION:0 "@warning_icon!#X 無効な建設#!"
  DISABLED_BUILDING:0 "@warning_icon!建造物は以下の理由により無効になりました:\n$DESC$"
  BUILDING_WILL_REENABLE:0 "@warning_icon! 建物は現在無効ですが、来月には再び有効になります。"

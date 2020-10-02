@@ -5,7 +5,7 @@
  faith_creation.1001.desc.reformation:0 "[reformed_faith.GetAdherentNamePlural]の中で著名な[reformer.GetTitledFirstName]は、この地のすべての[reformer.Custom('DefaultPriestTitle')]を集め、自分たちの信仰について話し合い、異なる公式な教義を確立しました。"
  faith_creation.1001.desc.schism.personal:0 "[old_faith.GetAdjective][old_faith.AltPriestTermPlural]は迷走しており、もう我々を導いてくれるものでは無くなってしまった。これを改善するために、我々の信仰の将来について議論するため[reformer.Custom('DefaultPriestTitlePlural')]の選ばれたグループを集めた。"
  faith_creation.1001.desc.reformation.personal:0 "ついに私は、世界中の重要な[reformer.Custom('DefaultPriestTitle')]を一堂に集め、彼らと我々の信念について話し合い、その信念を未来に導く公式の教義を確立できるようにした。"
- faith_creation.1001.desc.outlook.ghw:0 "\n\n熱烈な\[reformer.Custom('DefaultPriestTitlePlural')]はすでに\[reformed_faith.GHWNamePlural]を立ち上げ、新しい信仰を世界中に広めようと話している。そして、"
+ faith_creation.1001.desc.outlook.ghw:0 "\n\n熱烈な[reformer.Custom('DefaultPriestTitlePlural')]はすでに[reformed_faith.GHWNamePlural]を立ち上げ、新しい信仰を世界中に広めようと話している。そして、"
  faith_creation.1001.desc.outlook.pacifism:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip][reformer.Custom('DefaultPriestTitlePlural')]は暴力と流血を非難し、戦争は苦しみと憎しみをもたらすだけだと言い、"
  faith_creation.1001.desc.outlook.dogmatic:0 "\n\nこれらの[reformer.Custom('DefaultPriestTitlePlural')]は[reformed_faith.GetNameNoTooltip]を一つの真理であると宣言し、"
  faith_creation.1001.desc.outlook.accepting:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip][reformer.Custom('DefaultPriestTitlePlural')]は、非信者に対しても、協力と寛容を奨励し、"

@@ -231,5 +231,5 @@
  SUCCESSION_LOST_TITLE_SHARE:0 "[SuccessionEventWindowLostTitlesItem.GetHeir.GetUINameNoTooltip]"
  SUCCESSION_RELATION_HOUSE:0 "[house|E]のメンバー"
  SUCCESSION_RELATION_DYNASTY:0 "[dynasty|E]のメンバー"
- SUCCESSION_DYNASTY_INFO:0 "[Dynasty.GetName]\n[SuccessionEventWindow.GetStartDate.GetYear] - [SuccessionEventWindow.GetEndDate.GetYear]\n[Dynasty.GetNumberOfMembers]人のメンバー([SuccessionEventWindow.GetNumberOfPlayed]人がプレイ)\n[Dynasty.GetPrestigeLevelName]\n[GetDataModelSize( Dynasty.GetDynastyHouses )][Select_CString( EqualTo_int32( GetDataModelSize( Dynasty.GetDynastyHouses ), '(int32)1' ), 'House', 'Houses' )]"
+ SUCCESSION_DYNASTY_INFO:0 "[Dynasty.GetName]\n[SuccessionEventWindow.GetStartDate.GetYear] - [SuccessionEventWindow.GetEndDate.GetYear]\n[Dynasty.GetNumberOfMembers]人のメンバー([SuccessionEventWindow.GetNumberOfPlayed]人がプレイ)\n[Dynasty.GetPrestigeLevelName]\n[GetDataModelSize( Dynasty.GetDynastyHouses )][Select_CString( EqualTo_int32( GetDataModelSize( Dynasty.GetDynastyHouses ), '(int32)1' ), '家', '家' )]"
  SUCCESSION_NO_HEIR:2 "With no [player_heir|E], your line has died out after [SuccessionEventWindow.GetPlayedLength]."
