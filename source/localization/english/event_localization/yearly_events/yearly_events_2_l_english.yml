@@ -105,7 +105,7 @@
  yearly.1022.a:0 "あなたもな、[enemy.GetLadyLord][enemy.GetFirstNameNoTooltip]。"
  yearly.1023.opening:0 "[vip.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
  yearly.1023.desc:0 "自分のちっぽけな計画から逃げられるとでも思っていたのですか？私の目はあらゆるところにあるのです、[ROOT.Char.GetLadyLord|U]、[ROOT.Char.GetFirstNameNoTooltip]、これからもあなたの後をしっかりついていきますよ。\n\n私の命に誓ってーあなたは私に逆らったことを後悔することになるでしょう。"
- yearly.1023.a:0 "This could have gone better..."
+ yearly.1023.a:0 "これはもっとうまくいくはずだった・・・"
  yearly.1030.t:0 "いつも[hooked.GetHerselfHimself|U]は自分が全ての[hooked.GetWomanMan|U]"
  yearly.1030.nervous.desc:0 "部屋の扉を開けると、そこには自分の袖をそわそわした様子で触る[hooked.GetTitledFirstName]が立っていた。 こんな時間に[hooked.GetSheHe]はなんの用だろうか？\n\n「深くお詫び申し上げます。 しかし、個人的にしなければならないお話があるのです。 #emp 非常に#!興味深いものを見つけました。」"
  yearly.1030.confident.desc:0 "ドアを強引にノックする音が頭の中の眠気を一掃した。こんな時間に誰が[ROOT.Char.GetTitleAsNameNoTooltip]の熟睡の邪魔をする？\n\n深夜の来訪者は[hooked.GetTitledFirstName]に他ならない。「誰にも聞かれずに個人的な事の話をしたいのですが、#EMP とてもとても#!興味深い秘密を発見しました。」"

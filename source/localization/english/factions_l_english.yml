@@ -73,7 +73,7 @@
  FACTION_DEMAND_CLAIMANT_ACCEPTED:0 "請求者の要求を受諾"
  FACTION_DEMAND_CLAIMANT_ACCEPTED_DESC:0 "この愚かな行いを断念する前に、国家が滅びるのは火を見るより明らかだ。領地を守る為に、私はお前の要求を呑まなければならないが、この不条理極まりない企ては忘れない！これはあんまりだ！"
  FACTION_DEMAND_CLAIMANT_REFUSED:0 "請求者の要求は拒否された"
- FACTION_DEMAND_CLAIMANT_REFUSED_DESC:1 "[faction_claimant.GetShortUINamePossessive|U] claim on my title is no more real than the stories we tell children at night. No matter how many misguided fools you have gathered to help carry out your scheme I will not bend to such a collection of dung. I'd rather die than see my birthright fall to someone so low!"
+ FACTION_DEMAND_CLAIMANT_REFUSED_DESC:1 "私の爵位を欲する、[faction_claimant.GetShortUINamePossessive|U]の主張は子供のおとぎ話と同じくらい非現実的だ。どれだけ多くの愚か者を集めて計画を実行したとしても、私はその様な下劣な連中には決して屈さぬ！私の生まれながらの権利が、こんな卑しい者の手に落ちるのを見るくらいなら死んだ方がマシだ！"
  FACTION_DEMAND_CLAIMANT_SEND_DEMAND_NOTIFICATION:0 "これは正当な請求だ！"
  FACTION_DEMAND_CLAIMANT_SEND_DEMAND_NOTIFICATION_DESC:1 "時は来た！[faction_targeted_title.GetNameNoTier] の正当な支配者として [faction_claimant.GetName] を支持する者たちは、一斉に立ち上がり、[faction_claimant.GetSheHe]が[faction_claimant.GetHerHis]の正当な王座に就くことが出来るようにするのだ。我々は、必要とあらば剣を手に取り、それを成し遂げよう！"
  FACTION_CLAIMANT_INVITE:1 "[faction_invite_from.Custom2('AppropriateGreeting', ROOT.Char)]"

@@ -1,5 +1,5 @@
 ﻿l_english:
- diplomacy_lifestyle_rank_up_indication:1 "[diplomacy_lifestyle|E]の[perk|E]を獲得するかもしれない"
+ diplomacy_lifestyle_rank_up_indication:1 "[diplomacy_lifestyle|E]の[perk|E]を獲得する可能性があります"
  diplomacy_generic.0012.t:0 "社会的な操作"
  diplomacy_generic.0012.start.desc:0 "それが初めて起こったとき、私はそれについて少しも考えもしなかったが、[disobedient_subject.Custom2('MyCharacterIntroduction', ROOT.Char)]は​​より大胆な行動に出た。 [disobedient_subject.GetHerHis|U]の試みはもはや"
  diplomacy_generic.0012.council.desc:0 "評議会の場において見過ごせなくなった。"

@@ -407,7 +407,7 @@
  child_personality.4011.t:0 "芽生えつつある魅力"
  child_personality.4011.desc_opening:0 "ベッドの中で[ROOT.Char.Custom('LocalAnimal')]の肌に寄り添いつつ、私は温かい霞の中で眠りについた。\n\n"
  child_personality.4011.desc_1:0 "Standing before me is a magnificent [ROOT.Char.Custom('LocalAnimal')] that urges me to follow it into the [ROOT.Char.Custom('TerrainType')]. As we reach a glade my heart starts to pound, my body tingle, my soul to #EMP yearn#!. As I turn the [ROOT.Char.Custom('LocalAnimal')] is gone, and in its place is a beautiful..."
- child_personality.4011.desc_2:0 "Before me lies a person, veiled in fog, gesturing an invitation. As I join them, as I touch them, the fog begins to clear, and in its place, a warm blush seeps over our skin. I lean down to kiss them. As I pull back I am greeted by a warm smile from a beautiful..."
+ child_personality.4011.desc_2:0 "私の前に霞に包まれたように人が横たわって手招きをしている。近付いてそれに触ると霞は晴れ始め、私の体を暖かな赤みが覆う。口づけをしようと屈み込んでから後ろに下がれば、そこには柔らかな笑みを讃えた美しい…"
  child_personality.4011.desc_3:0 "夜中に目を覚ますとー胸が高鳴り、肌がピリピリする。こんな風に感じたのは初めて。私は病気なのだろうか？何の夢を見たんだろう？思い出せるのは、美しい…"
  child_personality.4011.a:0 "…少年。"
  child_personality.4011.b:0 "…少女。"

@@ -45,4 +45,4 @@
  tribal_authority_3:0 "絶対的な部族権限"
  tribal_authority_3_effects:0 "$EFFECT_LIST_BULLET$[independent|E]している[tribal|E]の統治者は定住して[feudal|E]または[clan|E]国家となることができます"
  LAW_TOOLTIP_SUBTITLE:0 "#weak [Law.GetSubName]#!"
- LAW_TITLE_ALLEGIANCE_OPINION:0 "$EFFECT_LIST_BULLET$Vassals Swearing [title_allegiance|E] [opinion|E]: $VALUE|+=$"
+ LAW_TITLE_ALLEGIANCE_OPINION:0 "$EFFECT_LIST_BULLET$[title_allegiance|E]を誓っている封臣[opinion|E]: $VALUE|+=$"

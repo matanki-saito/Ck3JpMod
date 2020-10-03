@@ -64,5 +64,5 @@
  councillor_spouse_learning.2603.b:0 "[marshal.GetCouncilTitle|U][marshal.GetFirstNameNoTooltip]には助けが必要だ。"
  councillor_spouse_learning.2603.c:0 "我が[steward.GetCouncilTitle][steward.GetFirstNameNoTooltip]にも教えてあげてくれ。"
  councillor_spouse_learning.2603.d:0 "たぶん[spymaster.GetCouncilTitle][spymaster.GetFirstNameNoTooltip]に助言をするべきだな。"
- councillor_spouse_learning.2603.e:0 "[court_chaplain.GetCouncilTitle] [court_chaplain.GetFirstNameNoTooltip] is in need of some guidance."
+ councillor_spouse_learning.2603.e:0 "[court_chaplain.GetCouncilTitle][court_chaplain.GetFirstNameNoTooltip]には何らかの指導が必要だ。"
  councillor_spouse_learning.2603.f:0 "そんなことより私と一緒にいてくれ……"

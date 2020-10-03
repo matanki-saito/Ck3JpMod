@@ -1,5 +1,5 @@
 ﻿l_english:
- stewardship_lifestyle_rank_up_indication:1 "[stewardship_lifestyle|E]の[perk|E]を獲得するかもしれない"
+ stewardship_lifestyle_rank_up_indication:1 "[stewardship_lifestyle|E]の[perk|E]を獲得する可能性があります"
  stewardship_general.1054.t:0 "[witch.Custom('MagicPracticeTerm')|U]の告発"
  stewardship_general.1054.desc:0 "血塗れた布... カラスの羽... 奇妙な匂いの調合物。 これは[witch.GetFirstName]が村郊外の小屋で[witch.Custom('MagicPracticeTerm')]の練習をしているとして、[target_county.GetNameNoTier]の村人たちから提示された証拠である。\n\n村人たちは[witch.GetHerHis]の邪悪な行いこそが[witch.Custom('MagicSuperstitionTerm')]の原因であると主張しており、[witch.GetHerHis]の死刑を求めている。"
  stewardship_general.1054.a:0 "これは「状況」証拠に過ぎない。 [witch.GetHerHim]を解放しろ。"
