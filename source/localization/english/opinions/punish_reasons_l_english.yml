@@ -1,6 +1,6 @@
 ﻿l_english:
  I_CAN_PUNISH_DESCRIPTION:0 "#T 暴露された罪#!\n\n[CHARACTER.GetShortUINameNoTooltip]が[criminal|E]であることは公然の事実であり、[CHARACTER.GetHerHim]を罰しても[tyrant|E]と見なされません。"
- POSSIBLE_PUNISHMENTS:0 "Possible Punishments:"
+ POSSIBLE_PUNISHMENTS:0 "選択可能な処罰一覧:"
  I_CAN_PUNISH_CRIME_HEADER:0 "\n\n#S $NAME$#!\n$POSSIBLE_PUNISHMENTS$"
  I_CAN_PUNISH_PUNISHMENT_ITEM_ACTIVE:0 "\n$BULLET_WITH_TAB$$PUNISHMENT$"
  I_CAN_PUNISH_PUNISHMENT_ITEM_INACTIVE:0 "\n$BULLET_WITH_TAB$#weak $PUNISHMENT$ (すでに制裁済み)#!"

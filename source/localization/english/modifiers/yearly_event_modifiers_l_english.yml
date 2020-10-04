@@ -27,7 +27,7 @@
  yearly_0011_friends_in_high_places:0 "Friends in High Places"
  yearly_0011_friends_in_high_places_desc:0 "This character has made friends in rather high places..."
  cagots_separated_modifier:0 "Cagots Secernated"
- cagots_separated_modifier_desc:0 "They are sequestered in their own cagoteries, and separated from normal people."
+ cagots_separated_modifier_desc:1 "The local Cagots are sequestered in their own cagoteries, separated from normal people."
  cagots_left_in_peace_modifier:0 "Cagots Left in Peace"
  cagots_left_in_peace_modifier_desc:0 "The rest of the population wishes more had been done about the Cagots..."
  lunatic_accepting_of_others_modifier:0 "Overactive Imagination"

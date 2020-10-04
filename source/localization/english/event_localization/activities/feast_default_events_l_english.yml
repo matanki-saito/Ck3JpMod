@@ -37,7 +37,7 @@
  feast_default.1008.t:0 "$feast_header$汚れた分別"
  feast_default.1008.desc:0 "私の言葉に[secret_recipient.GetTitledFirstNamePossessive]が目を見開いているのを見て、私は自分が認めてしまったことに気づいた。私はタンカードを押しのけようともがく。\n\n「どうやら飲みすぎたようだ。」私は少しふらつきながら立ち上がろうとする。「私が言ったことは信じないでくれ！」"
  feast_default.1008.a:0 "何てことをしてしまったのだ..."
- feast_default.1008.a.flavor:0 "#F [secret_recipient.GetSheHe|U]は私の言い訳を信じはしない…"
+ feast_default.1008.a.flavor:0 "#F [secret_recipient.GetSheHe|U] is not buying my excuses...#!"
  feast_default.1009.t:0 "$feast_header$汚れた分別"
  feast_default.1009.desc:0 "私の言葉に[secret_recipient.GetTitledFirstNamePossessive]が目を見開いているのを見て、私は[secret_owner.GetTitledFirstName]について今何を言ってしまったかに気づいた。\n\n「どうやら飲みすぎたようだ。」私は少しふらつきながら立ち上がろうとする。「私が言ったことは信じないでくれ！」"
  feast_default.1009.a:0 "何てことをしてしまったのだ..."

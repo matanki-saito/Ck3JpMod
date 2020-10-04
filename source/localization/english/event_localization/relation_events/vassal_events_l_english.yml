@@ -26,7 +26,7 @@
  vassal.2001.a:0 "もちろん、私が[child_to_educate.Custom('GirlBoy')]を教育しよう。"
  vassal.2001.b:0 "あなたの[child_to_educate.Custom('GetDaughterSon')]はあなたの責任だ！"
  vassal.2101.t:0 "祝宴への情熱"
- vassal.2101.desc:0 "「領国の領主や淑女が祝宴に集まってから長い月日が経ちました、我が[ROOT.Char.GetTitleTierName]。」\n\n[party_vassal.GetTitledFirstNamePossessive]の声は[ROOT.Char.Custom2('QuirkNounPosOrNeg', SCOPE.sC('party_vassal'))]に溢れ、[party_vassal.GetSheHe]は続ける。「すぐに対処されればあなたにも利益があるでしょうー美味しいご馳走に感謝する我々は言うまでもなく。」"
+ vassal.2101.desc:1 "\"Many months have passed since the Lords and Ladies of the realm gathered for a feast, my [ROOT.Char.GetTitleTierName].\"\n\n[party_vassal.GetTitledFirstName] [ROOT.Char.Custom2('QuirkAdverbPosOrNeg', party_vassal)] continues, \"It would benefit you — not to mention those among us who appreciate a good feast — if this was remedied soon!\""
  vassal.2101.a:0 "近いうちに祝宴が開かれることをお約束しよう！"
  vassal.2101.a_hyped:0 "Of course we should feast! I don't know why I waited so long."
  vassal.2101.a.tt:0 "#F 10年以内にそれが実現した場合、[party_vassal.GetFirstNameNoTooltip]は私と交わした約束を覚えていて、感謝するでしょう。#!"

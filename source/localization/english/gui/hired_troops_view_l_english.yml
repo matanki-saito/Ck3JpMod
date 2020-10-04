@@ -5,7 +5,6 @@
  HIRED_TROOPS_VIEW_LIST_MC_NUMBER_OF_SOLDIERS:0 "[MercenaryCompany.GetCurrentSoldiers]の[soldiers|E]"
  HIRED_TROOPS_VIEW_LIST_HO_HEADER:1 "[GetPlayer.GetFaith.GetAdjective]の[holy_orders|E]"
  HIRED_TROOPS_VIEW_LIST_HO_BUTTON_TOOLTIP:0 "#T [HolyOrder.GetName]#!\n#I クリックで詳細を表示#!"
- HIRED_TROOPS_VIEW_LIST_HO_PLAYER_IS_PATRON:1 "#D あなたは後援者だ:)#!"
  HIRED_TROOPS_VIEW_LIST_HO_NUMBER_OF_SOLDIERS:0 "[HolyOrder.GetCurrentSoldiers] [soldiers|E]"
  HIRED_TROOPS_VIEW_LIST_HO_NO_HOS:0 "[GetPlayer.GetFaith.GetAdjective]の聖戦騎士団はありません"
  HIRED_TROOPS_VIEW_LIST_NO_WAR:0 "#T Mercenaries On Hold#!\nDuring times of peace, hired [mercenaries|E] will be on hold waiting for a war to start. They will raise automatically when the time comes."

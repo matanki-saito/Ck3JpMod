@@ -1,8 +1,8 @@
 ﻿l_english:
- ATTRITION_ICON_TITLE:0 "#T 軍隊は消耗します#!"
+ ATTRITION_ICON_TITLE:1 "#T Army is going to take [attrition|E]#!"
  ARMY_EMBARKED_PENALTY:0 "[embarked|E]: @advantage_icon!$EFFECT|0+=$($DAYS_LEFT$日)"
  ARMY_RECENTLY_DISEMBARKED_PENALTY:1 "[recently_disembarked|E]: @advantage_icon!$EFFECT|0+=$($DAYS_LEFT$日)"
- MAP_ICON_RECENTLY_DISEMBARKED_TOOLTIP:0 "#T Recently Disembarked#!\nWill be considered [recently_disembarked|E] for [UnitItem.GetArmy.GetDisembarkPenaltyDays] more days"
+ MAP_ICON_RECENTLY_DISEMBARKED_TOOLTIP:0 "#T 最近下船した#!\n[UnitItem.GetArmy.GetDisembarkPenaltyDays]間、[recently_disembarked|E]状態と見なされます"
  COMMANDER_IS_LEADER:0 "#underline #TOOLTIP:COMMANDER_IS_LEADER_TOOLTIP 君主による指揮#!#!"
  COMMANDER_IS_LEADER_TOOLTIP:0 "#T 君主による指揮#!\n[Character.GetName]がこの軍を指揮しており、以下のボーナスが与えられます:\n[GetLeadingTroopsBonus]"
  POTENTIAL_COMMANDER_IS_LEADER_TOOLTIP:1 "#T Ruler#!\nBeing [commander|E] of your own [army|E] would give:\n[GetLeadingTroopsBonus]"

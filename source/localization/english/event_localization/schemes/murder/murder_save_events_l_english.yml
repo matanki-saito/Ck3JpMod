@@ -35,7 +35,7 @@
  murder_save.1004.b:0 "It is obvious who was behind this!"
  murder_save.1004.c:0 "I will find who did this!"
  murder_save.1004.d:0 "You have cost me a damn fine horse, [owner.GetFirstNameNoTooltip]!"
- murder_save_warhorse_dies_to_thugs:0 "#F [THIS.Char.Custom('WarhorseStoryName')] dies from [THIS.Char.Custom('HorseStoryHerHis')] wounds"
+ murder_save_warhorse_dies_to_thugs:0 "#F [THIS.Char.Custom('WarhorseStoryName')] dies from [THIS.Char.Custom('HorseStoryHerHis')] wounds#!"
  murder_save.0005.t:1 "$murder_save_header$ Alarm Raised"
  murder_save.0005.desc:0 "The group of conspirators made their way to [target.GetTitledFirstNamePossessive] cell, but the prisoner started making a vicious racket. Paying off the gaoler is one thing, but it is something else to pretend that nothing is going on when the entire castle is woken up!\n\nMy assassins beat a hasty retreat, and [target.GetFirstName] remains safe..."
  murder_save.1005.desc:0 "I do not know who the cloaked figures who have suddenly appeared in my cell are, but I know they are here to hurt me. They do not expect my defender, however.\n\n\"Get them!\" I shout, and my [ROOT.Char.Custom('prison_pet')] flies at them, ready to fight for my life! I know they are no match for my friend, and as I begin to holler and cheer they flee in abject terror!\n\nThe gaoler soon comes to shut me up with a beating, but at least I still breathe."

@@ -4,7 +4,7 @@
  claim_throne_ongoing.1001.a:0 "It is time for a new [target.GetTitleAsNameNoTooltip]!"
  claim_throne_ongoing.1001.b:0 "Only the [ROOT.Char.GetFaith.AltPriestTermPlural] can interpret these signs."
  claim_throne_ongoing.1002.t:0 "Earned Authority"
- claim_throne_ongoing.1002.desc:0 "私が[target_title.GetNameNoTier]の[target.GetTitleAsName]の称号を追い求めているのは、権力への単純な欲望に駆られているのではなく、責任を背負うことができるのは私だけだからだ。[target.GetTitledFirstName]でさえもこのことを認めているようで、私は王国のためにこれまで以上に重要な任務を与えられている。\n\nすぐに名ばかりの[target.GetTitleAsNameNoTooltip]になってしまうかもしれない。"
+ claim_throne_ongoing.1002.desc:1 "My pursuit of the [target_title.GetName] is not driven by a mere lust for power, but because I am the only one who can bear the enormous responsibility! Even [target.GetTitledFirstName] seems to acknowledge this, as [target.GetSheHe] grants me increasingly important tasks in service of the realm.\n\nSoon I might as well be ruling the [target_title.GetTierAsNameNoTooltip] in all but name..."
  claim_throne_ongoing.1002.a:0 "\"Not to worry, my liege, I will take care of this as well...\""
  claim_throne_ongoing.1002.b:0 "This is all getting a bit much, actually."
  claim_throne_ongoing.1003.t:0 "稼ぎをサポート"

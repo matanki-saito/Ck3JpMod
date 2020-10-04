@@ -13,8 +13,6 @@
  stress_hashish_habit_desc:0 "ここ数日、この人物が正気に見えるのは珍しいことだ。"
  stress_hashish_stupor:0 "Hashish Stupor"
  stress_hashish_stupor_desc:1 "This character has drugged themselves into a stupor."
- stress_poppy_haze:0 "Poppy Haze"
- stress_poppy_haze_desc:0 "The haze of opium often fills this character's mind of late."
  stress_inappetetic_hunger_1:0 "空腹"
  stress_inappetetic_hunger_1_desc:0 "この人物は、健康を維持するのに十分な食物を食べていない。"
  stress_inappetetic_hunger_2:0 "飢え"

@@ -17,7 +17,6 @@
  WAR_RESULTS_MY_WAR_CHEST_SHARE:1 "Your war chest share"
  WAR_RESULTS_GAIN_NOTHING:1 "#weak あなたの貢献度は必要な$VALUE$より少なかったため、あなたは何も得ることができなかった #!"
  WAR_RESULTS_DISMISS:0 "むべなるかな"
- WAR_RESULTS_DISMISS_TOOLTIP:0 "ウィンドウを閉じて通知を消す"
  WAR_RESULTS_INVALIDATED_DESC:0 "The war ended inconclusively because the [casus_belli|E] is longer valid\nNobody gains or loses anything"
  WAR_OVER_GREETING:0 "[TARGET_CHARACTER.Custom2('AppropriateGreeting', CHARACTER.Self)]\n[TARGET_CHARACTER.Custom2('AppropriateSupplimentaryGreeting', CHARACTER.Self)]"
  SECONDARY_WIN:0 "[CHARACTER.GetUIName]が主導した[TARGET_CHARACTER.GetUIName]に対する戦争に我々は勝利した。"

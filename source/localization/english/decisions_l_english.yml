@@ -547,7 +547,7 @@
  revoke_false_conversion_decision.desc.tt:0 "以前の[faith|E]に公式に改宗します。 あなたの[vassals|E]と[close_family|E]が一緒に改宗するかもしれません。"
  revoke_false_conversion_decision.desc.tt_own_faith_counties:0 "If You are [independent|E], [counties|E] within your [realm|E] that have [GetModifier('false_convert_modifier').GetNameWithTooltip] may convert with you, if secretly of your [faith|E]"
  revoke_false_conversion_decision_confirm:0 "宣言する"
- encourage_confession_of_false_conversions_decision:0 "Amnesty for False Conversions"
+ encourage_confession_of_false_conversions_decision:0 "偽りの改宗者への恩赦"
  encourage_confession_of_false_conversions_decision.tt:0 "Crypto-religionists may reveal their hidden [faith|E]"
  encourage_confession_of_false_conversions_decision.desc:0 "#F 私の領地には、隠れた宗教家がいて隠れた信仰を実践していることは公然の秘密です。もしかすると、公式な恩赦は、彼らにその顔をやめるよう説得することができるかもしれない。 #!"
  encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "あなたの[faith|E]が、隠れ信者の信仰する宗派に対して彼らが公に信仰する宗派よりも[tolerates|E]を持っているとき、領内の隠れ信者は彼らの真なる信仰を打ち明けることができるようになります"
