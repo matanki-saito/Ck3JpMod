@@ -98,4 +98,4 @@
  WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon!#X あなたはすでに[faction_target.GetTitledFirstName]と戦争中です#!"
  WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon!#X あなたは[faction_invite_from.GetTitledFirstName]と戦争中です#!"
  WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon!#X [faction_invite_from.GetTitledFirstName]は派閥に参加できません#!"
- peasant_faction_spawn_county_levies:0 "Spawns an [army|E] of peasant rebels proportional to the county's [levies]"
+ peasant_faction_spawn_county_levies:0 "領地の[levies]に比例する農民の反逆者の[army|E]を生み出します。"

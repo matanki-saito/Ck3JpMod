@@ -10,7 +10,7 @@
  parent.1002.b:0 "「私の法廷は私のものです、我が[parent.Custom('MotherFather')]。」"
  parent.1003.desc:0 "私の[parent.Custom('MotherFather')]は、しばしば私の宮廷で私が見落としている小さな細部を指摘するのに時間を費やしている。\n\nかつて喧嘩をしていた二人の使用人は噂話をするようになり、城主はいつもより静かになり、燭台が広間の反対側へと移された…"
  parent.1003.a:0 "知らないで後悔するより、知っておいた方がいい。"
- parent.1003.b:0 "\"I will not have you feed my worries, [parent.Custom('MotherFather')].\""
+ parent.1003.b:0 "「私は悩みの種をあなたに育ててもらうことはしないよ、我が[parent.Custom('MotherFather')]。」"
  parent.1004.desc:0 "[parent.Custom('MotherFather')]は、私の家令よりも、国庫をよく把握していると感じることがある。[parent.GetSheHe]がその使い方を教えてくれると、金貨の価値が二倍になるように思われる。"
  parent.1004.a:0 "「慎重な選択へと導いてください、我が[parent.Custom('MotherFather')]。」"
  parent.1004.b:0 "我が領国、我が国庫！"

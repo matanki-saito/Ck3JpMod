@@ -132,7 +132,7 @@
  intrigue_scheme_ongoing.5005.b:0 "[target.GetSheHe|U]に私の金など持たせはしないぞ！"
  intrigue_scheme_ongoing.5006.t:0 "贈り物"
  intrigue_scheme_ongoing.5006.desc:0 "[owner.GetTitledFirstName]が贈り物をくれた。金でいっぱいの豪華な装飾箱だ。硬貨の中に手を走らせていると、部屋がぐるぐる回っているような気がして息が詰まる。"
- intrigue_scheme_ongoing.5006.a:0 "思いもよらなかった！何と不思議な効果があるのだろう！"
+ intrigue_scheme_ongoing.5006.a:0 "思いもよらなかった！なんて不思議な力があるのだろう！"
  intrigue_scheme_ongoing.5007.t:0 "汚れた金"
  intrigue_scheme_ongoing.5007.desc_opening:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('poisoned'))]、[poisoned.GetTitledFirstName]が、[poisoned.GetHerHis]の眉に汗をにじませ、青ざめた表情で私に近づいてくる。\n\n"
  intrigue_scheme_ongoing.5007.desc:0 "「何か調子が悪いのです、[ROOT.Char.GetMotherFather]。あなたの[target.GetTitledFirstName]への贈り物の梱包を手伝って以来ずっと気分が不安定なのです…」"

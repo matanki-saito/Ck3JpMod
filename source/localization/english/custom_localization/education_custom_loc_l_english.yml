@@ -1,6 +1,6 @@
 ﻿l_english:
  martial_good_trait_match_good_outcome:0 "As an active and enthusiastic child, it is no surprise that [ROOT.Char.GetFirstName] has done well in [ROOT.Char.GetHerHis] studies of war and combat."
- martial_bad_trait_match_good_outcome:0 "To say that the unruly [ROOT.Char.GetFirstName] did not seem cut out for a life of war is an understatement. However, [ROOT.Char.GetSheHe] has defied all expectation."
+ martial_bad_trait_match_good_outcome:0 "To say that the unruly [ROOT.Char.GetFirstName] did not seem cut out for a life of war is an understatement. However, [ROOT.Char.GetSheHe] has defied all expectations."
  martial_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように戦争に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
  education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。[ROOT.Char.GetSheHe|U]はいつか立派な指揮官になると確信しています。"
  education_martial_3_outcome_description_not_commander:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。軍の指揮に関して[ROOT.Char.GetSheHe]は恥辱に塗れることとはついぞ無縁であろう。"
@@ -32,8 +32,8 @@
  intrigue_bad_trait_match_bad_outcome:0 "As a quiet and reclusive child, [ROOT.Char.GetFirstName] never showed much interest in getting [ROOT.Char.GetHerHis] way."
  intrigue_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように注意深い計画に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
  intrigue_neutral_trait_match_bad_outcome:0 "長い間[ROOT.Char.GetFirstName]には緻密な策略について学ぶための十分な教育を与えたいと望んでいた。だが、全ての努力は無駄になった。"
- learning_good_trait_match_good_outcome:0 "Always the curious and knowledge-hungry child, [ROOT.Char.GetFirstName] has shown an affinity for scholarship from an early age."
- learning_good_trait_match_bad_outcome:0 "Despite being a curious child, eager to learn, [ROOT.Char.GetFirstNamePossessive] attention drifted elsewhere as [ROOT.Char.GetSheHe] grew older."
+ learning_good_trait_match_good_outcome:0 "好奇心と知識欲が旺盛な子供だった[ROOT.Char.GetFirstName]は、小さい頃から学術教育との相性の良さをしめしてきた。"
+ learning_good_trait_match_bad_outcome:0 "好奇心が強く、学ぶことが好きな子供だった[ROOT.Char.GetFirstNamePossessive]だが、成長するにつれ[ROOT.Char.GetSheHe]の興味は別の方向へそれてしまった。"
  learning_bad_trait_match_good_outcome:0 "Despite always seeming like such an inattentive child, [ROOT.Char.GetFirstName] has proven that focused studiousness is not all that makes a scholar."
  learning_bad_trait_match_bad_outcome:0 "Having been such an inattentive child, it is not difficult to see why [ROOT.Char.GetFirstName] has had a hard time getting to grips with scholarship."
  learning_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように学問に関してあまり知らなかった子供でも、本当に理解することができるようになる。"

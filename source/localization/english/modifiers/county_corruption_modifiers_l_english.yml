@@ -8,7 +8,7 @@
  county_corruption_bandits_rampant_modifier:0 "蔓延る山賊たち"
  county_corruption_bandits_rampant_modifier_desc:0 "[county_corruption|E]\n山賊たちが領内を自由に歩き回っている"
  county_corruption_inefficient_census_modifier:0 "非効率な人口調査"
- county_corruption_inefficient_census_modifier_desc:1 "This County's rulers have no idea who or how many people live here"
+ county_corruption_inefficient_census_modifier_desc:1 "この伯爵領の統治者はここに誰が何人住んでいるのか知らない"
  county_corruption_lack_of_sheriffs_modifier:0 "法執行官の不足"
  county_corruption_lack_of_sheriffs_modifier_desc:0 "[county_corruption|E]\n伯爵領の全ての地域を取り締まるには法執行官が十分ではありません"
  county_corruption_lack_of_courts_modifier:0 "裁判所への不信"

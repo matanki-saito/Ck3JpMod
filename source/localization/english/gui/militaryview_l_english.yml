@@ -107,7 +107,7 @@
  MV_RALLY_POINTS:0 "[rally_points|E]:"
  MV_ADD_RALLY_POINT:0 "#I クリックで新しい[rally_point|E]を追加#!"
  MV_RALLY_POINT_NUMBER_INFO:0 "$CURRENT|V$/$MAX|V$"
- MV_REMOVE_RALLY_POINT:1 "#T Remove Rally Point#!\nThe [armies|E] can be raised at the next closest [rally_point|E]."
+ MV_REMOVE_RALLY_POINT:1 "#T 集結地を削除#!\n[armies|E]は次に近い[rally_point|E]で召集することができます。"
  MV_TOTAL_SOLDIERS:0 "総兵力"
  MV_UNRAISED_SOLDIERS:0 "未召集兵士"
  MV_KNIGHTS:1 "$knight_culture_player_plural$"

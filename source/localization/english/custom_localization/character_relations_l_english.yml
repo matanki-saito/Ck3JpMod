@@ -127,7 +127,7 @@
  HOOK_PORTRAIT_TOOLTIP_HOOK_ITEM:0 "[HOOK.GetHookStrengthState]#weak ([HOOK.GetName])#!"
  HOOK_PORTRAIT_TOOLTIP_HOOK_ITEM_TIMED:1 "@weak_hook_icon![HOOK.GetHookStrengthState]#weak ([HOOK.GetName])#![HOOK.GetExpirationDate.GetString]まで"
  HOOK_PORTRAIT_TOOLTIP_SECRET_ITEM:2 "@hookable_secret_icon![SECRET.GetName]の秘密"
- HOOK_STATE_STRONG_COOLDOWN:1 "[strong_hook|E], can be used again after [DATE.GetString|V]"
+ HOOK_STATE_STRONG_COOLDOWN:1 "[strong_hook|E]、[DATE.GetString|V]以降に再度使用可能"
  HOOK_STATE_STRONG:0 "[strong_hook|E]"
  HOOK_STATE_WEAK:0 "[weak_hook|E]"
  magnificence_desc:0 "[GetPlayer.GetFaith.GetAdjective]の[opinion|E]: $VALUE|=+$"
