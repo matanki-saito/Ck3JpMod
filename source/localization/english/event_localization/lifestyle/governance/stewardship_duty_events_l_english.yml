@@ -178,7 +178,7 @@
  stewardship_duty.7023.invalidated.hook_holder:0 "[hooked_ruler.GetTitledFirstName]への私の貸しが消えたので、貸し分の放棄を私に要請したことはもう無効である。"
  stewardship_duty.7025.opening:0 "[hooked_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
  stewardship_duty.7025.desc.gold:0 "あなたが以前に大きな奉仕をしてくれたことに感謝しています。ご好意をお返しするために今年の税金の一部を提供させていただきたい。\n\nこのような申し出を受けていただけますか？"
- stewardship_duty.7025.desc.diplomacy.success:0 "I am writing to discuss with you about that favor that I once owed you. Most reasonable people will agree that my past actions have sufficiently satisfied my obligation.\n\nAs such, I feel that I no longer owe you a boon."
+ stewardship_duty.7025.desc.diplomacy.success:0 "以前あなたから受けた好意について話し合うために書いています。いままでの行動で充分に私の義務を満たしたと分別あるほとんどの人々に同意していただけると思います。\n\nですので、あなたに受けた恩義をいまは借りには思っておりません。"
  stewardship_duty.7025.desc.diplomacy.failure:0 "I owe you a favor, but I'd rather not. I mean, who wants to owe someone a favor?\n\nWhat if you just... forgot about the favor? I'd like that. That would be great."
  statectaft_ongoing.7025.desc.intimidation.success:0 "You may have done me a service once, but do not think I owe you anything in return. It is payment enough to stay in my good graces. Trust me, you do not want to make me your enemy..."
  stewardship_duty.7025.desc.intimidation.failure:0 "You seem to be under the illusion that you deserve my favor. I owe nothing to a [hook_holder.Custom('InsultAdjective')] [hook_holder.Custom('InsultNoun')] like you! Forget about it, or else."
