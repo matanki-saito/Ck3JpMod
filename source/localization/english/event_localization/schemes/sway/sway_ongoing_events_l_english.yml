@@ -1,8 +1,8 @@
 ﻿l_english:
  sway_ongoing.1001.t:0 "懐柔: [target.GetCulture.GetNameNoTooltip]文化"
- sway_ongoing.1001.desc:2 "A commoner of [target.GetCulture.GetNameNoTooltip] heritage has been accosted in the streets of [capital.GetNameNoTooltip] over some minor offense.\n\nBy making a statement in their defense I could perhaps convince [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], the equally-[target.GetCulture.GetNameNoTooltip] of my good character, but I might risk alienating my [ROOT.Char.GetCulture.GetNameNoTooltip] peers..."
- sway_ongoing.1001.a:1 "The [target.GetCulture.GetCollectiveNounNoTooltip] are good people."
- sway_ongoing.1001.b:1 "[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] are of superior moral fiber!"
+ sway_ongoing.1001.desc:2 "[target.GetCulture.GetNameNoTooltip]の庶民が[capital.GetNameNoTooltip]の路上において軽犯罪の咎で詰問されていた。\n\n彼らに寄り添って弁護すれば、同じく[target.GetCulture.GetNameNoTooltip]である好人物、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を懐柔することも可能だろうが、私の[ROOT.Char.GetCulture.GetNameNoTooltip]の同輩たちを遠ざけてしまうリスクもあるかもしれない…"
+ sway_ongoing.1001.a:1 "[target.GetCulture.GetCollectiveNounNoTooltip]は善き人々だよ。"
+ sway_ongoing.1001.b:1 "[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]は優れた道徳規範を備えた民族だ！"
  sway_ongoing.1002.t:0 "懐柔: お世辞"
  sway_ongoing.1002.desc:0 "[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を懐柔する計画に[target.GetHerHim]が受け入れやすくなるように、次の[target.GetHerHis]の宮廷への信書にお世辞の文章を入れておこう。\n\n[target.GetHerHis]について必ず触れなくては..."
  sway_ongoing.1002.success.tt:0 "[friend.GetTitledFirstNameNoTooltip]の判断:"

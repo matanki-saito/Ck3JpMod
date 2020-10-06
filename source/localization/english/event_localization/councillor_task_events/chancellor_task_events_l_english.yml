@@ -1,6 +1,6 @@
 ﻿l_english:
  chancellor_task.1001.t:0 "新たな請求者"
- chancellor_task.1001.desc:0 "かつて見た中でもっとも愚かな行為だ……\n\n隣人との関係を改善しようとしたのは[councillor.GetTitledFirstNamePossessive]の無駄な骨折りで、私の役立たずの[councillor.GetCouncilTitle]が[target_county.GetName]への[neighboring_ruler.GetTitledFirstNamePossessive]の請求権を公式に認めたのだ！"
+ chancellor_task.1001.desc:0 "かつて見た中でもっとも愚かな行為だ…\n\n隣人との関係を改善しようとしたのは[councillor.GetTitledFirstNamePossessive]の無駄な骨折りで、私の役立たずの[councillor.GetCouncilTitle]が[target_county.GetName]への[neighboring_ruler.GetTitledFirstNamePossessive]の請求権を公式に認めたのだ！"
  chancellor_task.1001.a:0 "お前の任務は私を友人にすることで、敵にすることではないだろう？"
  chancellor_task.1002.t:0 "平和の終わり"
  chancellor_task.1002.desc:0 "[councillor.GetTitledFirstNamePossessive]の、評判を改善しようとする試みの中で、無能な[councillor.GetCouncilTitle]は昔の[target.GetName]との約束の一部を#EMP 無効化する#!ことに同意してしまった！\n\n[target.GetTitleTierName]の見解では、[target.GetSheHe]は望むがままに私に対して宣戦できるそうだ。"
@@ -53,7 +53,7 @@
  chancellor_task.3101.c.tt:0 "[attacker_vassal.GetFirstNameNoTooltip]と[defender_vassal.GetFirstNameNoTooltip]の間の戦争は続行します"
  chancellor_task.3102.desc:0 "私は[vassal.GetTitledFirstNamePossessive]が現状よりも重い義務契約を継承したことに気づいたが、未だ実施されていない。"
  chancellor_task.3102.a:0 "これを正す時がきた！"
- chancellor_task.3102.c:1 "I'll let it slide. This time..."
+ chancellor_task.3102.c:1 "放っておこう。今のところはな…"
  chancellor_task.3003.t:0 "権威の喪失"
  chancellor_task.3003.desc:0 "どうやら[councillor.GetCouncilTitle]がいくら働いても―本当に働いているとするならば！―十分ではないようだ。\n\n[councillor.GetTitledFirstNamePossessive]の監視がありながらも私の封臣は自由気ままに行動しており、どのような事項に対しても、私の賛意を得ようなど考えていないようだ。"
  chancellor_task.3003.a:0 "私の手から権力が滑り落ちていく心地だ…"

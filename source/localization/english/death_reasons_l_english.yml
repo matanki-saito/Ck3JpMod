@@ -1,6 +1,6 @@
 ﻿l_english:
- death_natural_causes:0 "自然死"
- death_old_age:0 "老衰"
+ death_natural_causes:0 "自然死した"
+ death_old_age:0 "老衰で死亡した"
  death_bubonic_plague:1 "[GetTrait('bubonic_plague').GetName( CHARACTER.Self )]により死去"
  death_smallpox:2 "[GetTrait('smallpox').GetName( CHARACTER.Self )]により死去"
  death_typhus:1 "[GetTrait('typhus').GetName( CHARACTER.Self )]により死去"
@@ -113,5 +113,5 @@
  death_murder_known_killer:0 "[TARGET_CHARACTER.GetUIName]に殺害された"
  death_literalist_debate:0 "教典に関する解釈の議論で徹底的に打ちのめされ心臓発作に見舞われた"
  death_literalist_debate_killer:0 "教典に関する解釈の議論で[CHARACTER.GetHerHim]は[TARGET_CHARACTER.GetUIName]に徹底的に打ちのめされ心臓発作に見舞われた"
- death_hunting_accident_killer:1 "was killed by [TARGET_CHARACTER.GetUIName] during a hunting \"accident\""
+ death_hunting_accident_killer:1 "狩猟中の“事故”で[TARGET_CHARACTER.GetUIName]に殺された"
  death_plotting_killer:0 "$death_plotting$"

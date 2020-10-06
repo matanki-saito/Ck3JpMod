@@ -116,7 +116,7 @@
  SET_COUNTY_CAPITAL_TOOLTIP:0 "#T [county_capital|E]をここへ移動#!\n[HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip|V]を新しい$game_concept_county_capital$にします"
  SET_REALM_CAPITAL_TOOLTIP_TITLE:0 "#T [realm_capital|E]をここに移動#!"
  SET_REALM_CAPITAL_TOOLTIP_DESC:0 "[TITLE.GetNameNoTierNoTooltip|V]を新しい$game_concept_realm_capital$にします"
- SET_REALM_CAPITAL_PREFERRED_CAPITAL:0 "It is the [de_jure] capital of [TITLE.GetNameNoTierNoTooltip|V], making this move allowed even if the capital has previously moved"
+ SET_REALM_CAPITAL_PREFERRED_CAPITAL:0 "ここは[TITLE.GetNameNoTierNoTooltip|V]の[de_jure]における首都であるため、既に首都の移転を過去に行っていたとしても、再度の移転が可能です"
  REALM_CAPITAL_TOOLTIP:0 "#T $game_concept_realm_capital$#!\n$game_concept_realm_capital_desc$"
  CANT_SET_REALM_CAPITAL_COUNTY_CAPITAL:0 "#X [county_capital|E]だけが[realm_capital|E]になることができます#!"
  CANT_SET_REALM_CAPITAL_HOLDER:0 "#X I'm not the holder of this land#!"

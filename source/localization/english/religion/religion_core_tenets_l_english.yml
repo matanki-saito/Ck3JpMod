@@ -203,7 +203,7 @@
  doctrine_parameter_opinion_of_islamic_syncretic_actor_opinion_active:0 ""
  tenet_jewish_syncretism_name:0 "ユダヤ教との習合"
  tenet_jewish_syncretism_desc:0 "我々は選民思想には同意しかねるが、ユダヤ教の律法の英知は否定することができず、文章から学ぶべきことはたくさんある。"
- doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:1 "ユダヤ教の一[faiths|E]となります。また、ユダヤ教他$game_concept_faiths$からの印象は、$hostility_evil_tooltippable$でなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]となります。"
+ doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:1 "ユダヤ教の一[faiths|E]とみなされます。また、ユダヤ教他$game_concept_faiths$からの印象は、$hostility_evil_tooltippable$でなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]となります。"
  doctrine_parameter_jewish_syncretic_actor_opinion_active:1 "ユダヤ教[faiths|E]に対して互いの[opinion|E][EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0]のボーナス"
  doctrine_parameter_opinion_of_jewish_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_jewish_syncretic_recipient_opinion_active:1 "$tenet_jewish_syncretism_name$の[core_tenet|E]を持つ[faiths|E]に対して互いの[opinion|E][EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0]のボーナス"

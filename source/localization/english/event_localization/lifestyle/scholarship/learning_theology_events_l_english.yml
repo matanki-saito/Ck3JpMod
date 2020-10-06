@@ -91,7 +91,7 @@
  learning_theology.3043.b:0 "神聖なものとはとてもいえないがーとても落ち着く！"
  learning_theology.3044.desc:0 "古文書を掘り下げれば掘り下げるほど、発見が増えていく。古代の[ROOT.Char.GetFaith.DevoteeNeuterPlural]の神秘的な実践は、[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]自体よりも前からあったのだろうか？\n\n驚くべきものに出くわしたようだ。"
  learning_theology.3044.a:0 "これぞ我が信仰の知識を増やすもの！"
- learning_theology.3044.b:0 "やはり少しは経験してみるべきか……"
+ learning_theology.3044.b:0 "やはり少しは経験してみるべきか…"
  learning_theology.3045.desc:0 "苛立たしい！どうしても、神秘的な最初の実験で得た感覚をつかめないのだ。\n\nそこに#EMP なにかある#!という感じ、手が届かない、ただ消えさった、何をしようとも！"
  learning_theology.3045.a:0 "もう一度あの感覚を掴まなければ！"
  learning_theology.3045.b:0 "[ROOT.Char.GetFaith.HighGodNameAlternate]と交信することこそ願いだ。"

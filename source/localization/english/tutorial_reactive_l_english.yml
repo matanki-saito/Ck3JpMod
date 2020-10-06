@@ -28,7 +28,7 @@
  action_reactive_advice_bastards_desc:0 "私生児は祝福を受けることもあれば忌み嫌われることもあります。それが意味するところは何でしょうか?\nここを開いて私生児についての概要を学び、彼らを役立てるヒントを得ましょう!"
  action_reactive_advice_bastards_click:0 "$click_to_open_lesson$"
  reactive_advice_bastards_step_1:0 "私生児"
- reactive_advice_bastards_desc:0 "おっと！[bastard|E]の子供が生まれたようです！これは脅威にも、好機にもなりえるでしょう……\n\n#TUT 私生児を持つことは悪いことばかりではありません。彼らを[alliances|E]の為嫁がせることができますし、[legitimate|E]されない限り[succession|E]の直接的な脅威になることもありません。\n\n嫡出子が少ないときに[legitimized|E]するために、何人か私生児を手元に残しておくのもいい考えかもしれません。ただし、[spouse|E]の[opinion|E]に注意を払うことにはお気をつけて……\n\nもしもあなたが私生児を作りたいのであれば、未婚のキャラクターを[seduce_scheme|E]することをお勧めします。既婚女性を誘惑した場合、その配偶者は子供を自分の子供だと思ってしまうかもしれません。—そうなるとその子供を正当化することはできません#!"
+ reactive_advice_bastards_desc:0 "おっと！[bastard|E]の子供が生まれたようです！これは脅威にも、好機にもなりえるでしょう…\n\n#TUT 私生児を持つことは悪いことばかりではありません。彼らを[alliances|E]の為嫁がせることができますし、[legitimate|E]されない限り[succession|E]の直接的な脅威になることもありません。\n\n嫡出子が少ないときに[legitimized|E]するために、何人か私生児を手元に残しておくのもいい考えかもしれません。ただし、[spouse|E]の[opinion|E]に注意を払うことにはお気をつけて…\n\nもしもあなたが私生児を作りたいのであれば、未婚のキャラクターを[seduce_scheme|E]することをお勧めします。既婚女性を誘惑した場合、その配偶者は子供を自分の子供だと思ってしまうかもしれません。—そうなるとその子供を正当化することはできません#!"
  reactive_advice_protecting_against_hostile_schemes:0 "$reactive_advice_protecting_against_hostile_schemes_step_1$"
  action_reactive_advice_protecting_against_hostile_schemes:0 "$open_tutorial_lesson$$reactive_advice_protecting_against_hostile_schemes_step_1$"
  action_reactive_advice_protecting_against_hostile_schemes_desc:0 "多くの危険は影に潜んでおり、策謀の脅威は身近な問題です。\nここを開いて策謀についての概要を知り、自らの身を守る術を身に付けましょう!"

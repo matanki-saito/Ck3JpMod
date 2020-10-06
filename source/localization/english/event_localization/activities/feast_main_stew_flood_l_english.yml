@@ -45,7 +45,7 @@
  feast_main_stew_flood.0043.blame_placed:0 "宴が終わり、私は恥辱のため立ち去る。\nあの忌々しい肉のシチューが至るところにこびりつき、髪の毛から臭いが消えるかどうかもわからない！　このままでは、[stew_sea_blamed.GetTitledFirstName]が私にしでかしてくれたことを忘れるのに長い時間がかかりそうだ。"
  feast_main_stew_flood.0043.no_blame_placed:0 "宴が終わり、私は恥辱のため立ち去る。\nあの忌々しい肉のシチューが至るところにこびりつき、髪の毛から臭いが消えるかどうかもわからない！　このままでは、あの使用人が私にしでかしてくれたことを忘れるのに長い時間がかかりそうだ。"
  feast_main_stew_flood.0043.a:0 "もう二度とシチューは食べない。"
- feast_main_stew_flood.0044.desc:0 "シチューの匂いが亡霊のように漂い、宴は終わった。自分がこんな目に遭うなんて信じられないし、ただただ……こんな事にならなければよかったと思っていた。"
+ feast_main_stew_flood.0044.desc:0 "シチューの匂いが亡霊のように漂い、宴は終わった。自分がこんな目に遭うなんて信じられないし、ただただ…こんな事にならなければよかったと思っていた。"
  feast_main_stew_flood.0044.a:0 "酔っ払って覚えていない人がいるといいな。"
  stew_flood_covered_adjective_wrathful:0 "癇性"
  stew_flood_covered_adjective_proud:0 "傲慢"

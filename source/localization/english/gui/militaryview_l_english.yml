@@ -111,7 +111,7 @@
  MV_TOTAL_SOLDIERS:0 "総兵力"
  MV_UNRAISED_SOLDIERS:0 "未召集兵士"
  MV_KNIGHTS:1 "$knight_culture_player_plural$"
- MV_MANAGE_KNIGHTS:1 "#low クリックで管理……#!"
+ MV_MANAGE_KNIGHTS:1 "#low クリックで管理…#!"
  MV_MERCENARIES:0 "傭兵"
  MV_HOLY_ORDERS:0 "騎士団"
  MV_LEVIES_TOOLTIP:1 "#T あなたの[levies|E]を表示#!"

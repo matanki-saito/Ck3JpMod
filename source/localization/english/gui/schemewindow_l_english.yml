@@ -2,7 +2,7 @@
  SCHEME_WINDOW_MY_SCHEMES_TITLE:0 "あなたの[schemes|E]"
  SCHEME_WINDOW_KNOWN_SCHEMES_TITLE:0 "暴いた[secret_schemes|E]"
  SCHEME_WINDOW_INVITE_MEMBERS:0 "勧誘([SchemeItem.GetNumberOfPotentialOwnerAgents]人)"
- SCHEME_WINDOW_SHOW_MEMBERS:0 "[SchemeItem.GetNumberOfOwnerAgents|V]の[agents|E]"
+ SCHEME_WINDOW_SHOW_MEMBERS:0 "[agents|E]: [SchemeItem.GetNumberOfOwnerAgents|V]名"
  SCHEME_WINDOW_TT_SHOW_MEMBERS:0 "#T [agents|E]を表示#!"
  SCHEME_WINDOW_TT_HIDE_MEMBERS:0 "#T [agents|E]を非表示#!"
  SCHEME_WINDOW_ITEM_NAME:0 "[Scheme.GetFullActionName]"

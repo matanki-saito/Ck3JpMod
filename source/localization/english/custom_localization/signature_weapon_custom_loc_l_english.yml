@@ -24,7 +24,7 @@
  signature_weapon_crush:0 "骨を叩き潰す"
  signature_weapon_pierce:0 "pierce deep into"
  signature_weapon_slash_present:0 "slices a deep gash in"
- signature_weapon_crush_present:0 "crushes the bones in"
+ signature_weapon_crush_present:0 "骨を叩き潰す"
  signature_weapon_pierce_present:0 "pierces deep into"
  article_a:0 "a"
  article_an:0 "an"

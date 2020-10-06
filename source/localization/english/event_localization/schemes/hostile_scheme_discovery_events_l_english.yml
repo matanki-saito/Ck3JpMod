@@ -11,7 +11,7 @@
  hostile_scheme_discovery.1001.a:0 "この裏切り者を皆に知らしめよ。"
  hostile_scheme_discovery.1001.b:0 "[agent.GetHerHim]を牢にぶち込め！"
  hostile_scheme_discovery.1001.c:0 "嘘か真か、関せず。[agent.GetFirstNameNoTooltip]は不問とする。"
- hostile_scheme_discovery.1001.c.tt:0 "[agent.GetFirstNameNoTooltip] goes free."
+ hostile_scheme_discovery.1001.c.tt:0 "[agent.GetFirstNameNoTooltip]は自由に行動します。"
  hostile_scheme_discovery.2001.intro:0 "我が[spymaster.GetCouncilTitle]が重大な知らせを持ってきた。まだ誰かはわからないが、"
  hostile_scheme_discovery.2001.intro_no_spymaster:0 "重大な知らせが届いた。"
  hostile_scheme_discovery.2001.murder:0 "殺しの陰謀の対象は"

@@ -69,7 +69,7 @@
  east_europe.0114.a.tt_success:0 "[hof.GetTitledFirstNameNoTooltip] is convinced"
  east_europe.0114.a.tt_success.tt:0 "異端の告発は回避される！"
  east_europe.0114.a.tt_failure:0 "Your argument falls flat"
- east_europe.0114.a.tt_failure.tt:0 "異端の告発は本当だ・・・"
+ east_europe.0114.a.tt_failure.tt:0 "異端の告発は本当だ…"
  east_europe.0114.b:0 "Methinks a small reminder-note will do..."
  east_europe.0114.b.tt:0 "[hof.GetTitledFirstName] will be forced to take your side!"
  east_europe.0114.c:0 "If [hof.GetSheHe] can only be made to see this politically..."

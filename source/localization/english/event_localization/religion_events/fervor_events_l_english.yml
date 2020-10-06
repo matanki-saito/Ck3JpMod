@@ -42,7 +42,7 @@
  fervor.1002.desc.end_hof:0 "\n\n [sinful_theocrat.GetFaith.AltPriestTermPlural]の間での不祥事は今に始まったことではないが、多くの人は信仰の長がそのような誘惑に屈することに愕然としている。"
  fervor.1002.b:0 "[sinful_theocrat.GetHerHis]の違反行為について、[sinful_theocrat.GetHerHim]を非難する！"
  fervor.1002.c:0 "自分の身を危険にさらしてでも、[sinful_theocrat.GetHerHis]を公に擁護する！"
- fervor.1002.d:0 "この件については黙っておいた方がいいのかもしれない・・・"
+ fervor.1002.d:0 "この件については黙っておいた方がいいのかもしれない…"
  fervor.2002.t:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]賛美"
  fervor.2002.desc.lustful:0 "[virtuous_theocrat.Custom('GetCouncilOrTitleName')][virtuous_theocrat.GetFirstName]は数えきれない高潔な[virtuous_theocrat.GetWomenMen]たちのインスピレーションとなり、より多くの若き[virtuous_theocrat.GetFaith.GetAdherentNamePlural]たちの願望の対象となっている。\n\nこのように、[virtuous_theocrat.GetHerHis]のロマンチックな征服者の物語は遠く離れた場所まで広がり、多くの人が[virtuous_theocrat.GetHerHim]を[ROOT.Char.GetFaith.FertilityGodNamePossessive]の無限の愛の模範であると考えることへと繋がっている。"
  fervor.2002.desc.chaste:0 "[virtuous_theocrat.Custom('GetCouncilOrTitleName')][virtuous_theocrat.GetFirstName]は[virtuous_theocrat.GetHerHis]の肉欲的な快楽の絶対的な拒否によって完全な評判を得ている。\n\n[virtuous_theocrat.GetHerHis|U]の揺るぎない規律は、多くの若い[virtuous_theocrat.GetFaith.GetAdherentNamePlural]が淫らな堕落した誘惑に抵抗するために従うべき手本となっている。"

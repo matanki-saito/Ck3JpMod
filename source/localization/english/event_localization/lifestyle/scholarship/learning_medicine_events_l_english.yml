@@ -75,7 +75,7 @@
  learning_medicine.2023.end.desc:0 "[physician.GetFirstNameNoTooltip]は結果をかなり前向きにとらえていたし、私も最高の気分だった。[physician.GetSheHe|U]は忍耐強くあれとは言っていたが、すぐに新しい家族が期待できると私は思っていた。"
  learning_medicine.2023.a:0 "さあ[spouse.GetFirstNameNoTooltip]、寝室に戻ろう…"
  learning_medicine.2024.end.desc:0 "\n\n[physician.GetFirstNamePossessive]の指導に一字一句従っていたし、忍耐もまた求められてはいたが、疑念を強く持っていた。私は吐き気がして気が遠くなり、[spouse.GetFirstName]は三日前から寝たきりのままだった。"
- learning_medicine.2024.a:0 "休みたいだけなのに・・・"
+ learning_medicine.2024.a:0 "休みたいだけなのに…"
  learning_medicine.2024.b:0 "衛兵！このペテン師を投獄しろ！"
  learning_medicine.2025.start.desc:0 "「わが[ROOT.Char.GetLadyLord]、重大なお知らせでございます！少し早いとは存じますが、あなたの[spouse.Custom('WifeHusband')]のお見せになる兆しはすべてご懐妊を示しております。」\n\n歓喜と救済の波が私を洗い流して間もなく、混乱した気分の余波が襲ってきた。「[physician.GetFirstName]、君の治療はまだ試しておらんのだが。」端的にたずねた。\n\n"
  learning_medicine.2025.fertilitygod.desc:0 "\"[physician.GetFaith.FertilityGodName]"

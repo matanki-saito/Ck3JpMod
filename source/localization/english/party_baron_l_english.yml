@@ -66,7 +66,7 @@
  party_baron.2007.desc:0 "Even in the middle of a war, [party_baron.GetTitledFirstName] finds ways to get up to [party_baron.GetHerHis] usual tricks. As I am surveying my army, [party_baron.GetSheHe] comes riding up to me at the head of [party_baron.GetHerHis] own small host!\n\n\"I thought we could do with every hand we could get, so I talked to some people, and they turn out to be eager to join as volunteers!\"\n\nVolunteers...? Should I be asking where these soldiers came from?"
  party_baron.2007.a:0 "This is exactly what I need!"
  party_baron.2007.b:0 "To #EMP help#!, you should have brought me #EMP professionals!#!"
- party_baron.2007.b_flavor:0 "ああ。ああ、あなたは・・・？"
+ party_baron.2007.b_flavor:0 "ああ。ああ、あなたは…？"
  party_baron.3001.t:0 "$party_baron_header$"
  party_baron.3001.desc:0 "People are head over heels for [party_baron.GetTitledFirstName], and I just don't understand why! [party_baron.GetSheHe|U] is not that great. All [party_baron.GetSheHe] does is act friendly and celebrate the good things about the people [party_baron.GetSheHe] meets! Yes, even having disagreements with [party_baron.GetHerHim] can be pleasant and friendly, and [party_baron.GetSheHe] stands for [party_baron.GetHerHis] convictions while trying to understand yours, but that's still not...\n\nMy point is, why do they love [party_baron.GetHerHim] so much?!"
  party_baron.3001.a:0 "畏敬の念に値する者を見せよう！"

@@ -31,7 +31,7 @@
  LOGIN_JOIN_GAME:0 "ゲームに参加"
  LOGOUT:0 "ログアウト"
  NOT_LOGGED_IN:0 "ログインしていません"
- LOGGING_IN:0 "ログイン中……"
+ LOGGING_IN:0 "ログイン中…"
  UNKOWN:0 "不明"
  TERMS_OF_USE:0 "利用規約"
  PRIVACY_POLICY:0 "プライバシーポリシー"

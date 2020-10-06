@@ -72,7 +72,7 @@
  intrigue_dread.1502.b:0 "地下牢に[cannibal_cook.GetHerHim]を投獄しろ！"
  intrigue_dread.1502.c:0 "だが非常に美味だった…"
  intrigue_dread.1503.desc:0 "最善の努力にもかかわらず、私は[cannibal_cook.GetTitledFirstNamePossessive]の疑いを引き起こさないような方法で厨房に入ることは叶わなかった。"
- intrigue_dread.1503.a:0 "この謎は私を苦しめるだろう……"
+ intrigue_dread.1503.a:0 "この謎は私を苦しめるだろう…"
  intrigue_dread.1801.t:0 "実験"
  intrigue_dread.1801.mentor_desc:0 "「そして、これを少し多めに飲むだけで、完全に[test_subject.GetHerHim]は打ち負かされてしまいますよ。」[intrigue_mentor.GetFirstName]は私に言う。私の「志願者」である[test_subject.GetTitledFirstName]は完全に心ここに非ずといった感じだ。\n\n[intrigue_mentor.GetFirstName]は瓶を片付け始ている。「残念ながら今夜はこれが精一杯かもしれませんね。」"
  intrigue_dread.1801.desc:0 "錬金術の煙越しに[test_subject.GetSheHe]は怒りを孕んだ目で睨んできたが、私は[test_subject.GetTitledFirstName]に心からの感謝を捧げよう。私の蓄えた…薬の試験に「志願して」くれる者を見つけるのは容易ではなかったのだ。[test_subject.GetHerHim]にとっては、痛み、焼けるような感覚、時折の無意識状態の中で過ぎた夜であっただろう。"
