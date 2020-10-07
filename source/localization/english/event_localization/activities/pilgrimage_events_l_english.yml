@@ -283,7 +283,7 @@
  pilgrimage.5901.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5901.b:0 "$pilgrimage.4001.b$"
  pilgrimage.5911.t:0 "$pilgrimage_header$ Open Blue Skies"
- pilgrimage.5911.desc:0 "The world is [ROOT.Char.GetFaith.HighGodNamePossessive] temple, the great blue sky grander than the ceiling of any mosque or church. Here in great open steppes of [destination_title.GetNameNoTierNoTooltip] I feel especially close to [ROOT.Char.GetFaith.PantheonTerm], and find myself reflecting on my journey to reach this sacred place."
+ pilgrimage.5911.desc:0 "世界は[ROOT.Char.GetFaith.HighGodNamePossessive]の寺院であり、モスクや教会の天井よりも壮大な青い空です。ここ[destination_title.GetNameNoTierNoTooltip]の大いなる草原で、私は[ROOT.Char.GetFaith.PantheonTerm]に特に近いと感じ、この神聖な場所に到達するための私の旅を振り返りました。"
  pilgrimage.5911.a:0 "$pilgrimage.4001.a$"
  pilgrimage.5911.b:0 "$pilgrimage.4001.b$"
  pilgrimage.5921.t:0 "$pilgrimage_header$ Sacred Groves"

@@ -87,7 +87,7 @@
  sway_continue:1 "あなたは努力を続ける"
  sway_try_again:1 "別の試みをすることになるでしょう。"
  scheme_interaction_tt_sway_desc:0 "自分の為にも、[recipient.GetShortUINameNoTooltip]の懐柔を試みよう!"
- sway_foreign_target:0 "標的は外国にいる: $VALUE|=+0$"
+ sway_foreign_target:0 "標的は領国外にいる: $VALUE|=+0$"
  previously_swayed:0 "これまでの懐柔:$VALUE|=+0$"
  sway_my_diplomacy:1 "あなたの外交: $VALUE|=+0$"
  sway_my_rival:1 "あなたのライバル: $VALUE|=+0$"

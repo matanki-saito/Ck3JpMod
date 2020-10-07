@@ -2,7 +2,7 @@
  relation_upgrade.0001.t:0 "大会でのトラブル"
  relation_upgrade.0001.desc.opening:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として、私は地方の[ROOT.Char.Custom('MartialTournamentAdjective')]の大会に参加することになったのだが、出場者が遅れているー少なくともあと1時間は大会が始まりそうにない。\n\n"
  relation_upgrade.0001.desc.rival:0 "[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U]はここにいて、いつものように横柄な態度を取っている。[rival.GetHerHis|U]が不満ばかり言っていることで、#EMP いつも以上に#!皆を惨めなものになってしまう。"
- relation_upgrade.0001.desc.friend:0 "Looking around, I notice [friend.Custom2('MyCharacterIntroduction', ROOT.Char)|U] sitting under a nearby pavilion, clearly bored halfway to death."
+ relation_upgrade.0001.desc.friend:0 "周りを見回すと、近くのテントの下に退屈そうに座る[friend.Custom2('MyCharacterIntroduction', ROOT.Char)|U]の姿が。"
  relation_upgrade.0001.desc.lover:0 "周りを見渡した私は、[lover.Custom2('MyCharacterIntroduction', ROOT.Char)]が[lover.GetHerselfHimself]の観覧席のそばに座り、かなり寂しそうな顔をしているのに気づく。"
  relation_upgrade.0001.desc.second_friend:0 "\n\n一方、[friend.Custom2('MyCharacterIntroduction', ROOT.Char)]は残りの人生に退屈しきったように、大きなテントの下で座り込んでいる…"
  relation_upgrade.0001.desc.second_lover:0 "\n\n一方、[lover.Custom2('MyCharacterIntroduction', ROOT.Char)]は[lover.GetHerselfHimself]の観覧席のそばに座り、かなり寂しそうな顔をしている…"

@@ -7,7 +7,7 @@
  HOLDING_GARRISON:1 "[garrison|E]:"
  HOLDING_EMPTY:0 "[holding|E]なし"
  HOLDING_CONSTRUCTING:0 "[HOLDING_TYPE.GetName][holding|E]を建設中"
- COUNTY_OCCUPANT:0 "County Occupant"
+ COUNTY_OCCUPANT:0 "伯爵領占領者"
  CONSTRUCT:0 "建設"
  UPGRADE:0 "アップグレード"
  UPGRADE_COST:0 "アップグレード費用"

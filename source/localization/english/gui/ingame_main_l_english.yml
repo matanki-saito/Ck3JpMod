@@ -1,5 +1,5 @@
 ﻿l_english:
- MY_REALM_BUTTON:0 "#T 領地#!"
+ MY_REALM_BUTTON:0 "#T 領国#!"
  SCHEMES_BUTTON:0 "#T 策謀#!"
  MILITARY_BUTTON:0 "#T 軍事#!"
  DECISIONS_BUTTON:0 "#T 決断#!"
@@ -15,7 +15,7 @@
  FOCUS_BUTTON:0 "フォーカスビューを表示"
  GOTO_PLAYER:1 "#T Go to your Location#!\nMove the camera to [GetPlayer.GetCurrentLocation.GetName|V]"
  GOTO_CAPITAL:1 "#T あなたの[realm_capital|E]に移動#!\nカメラを[GetPlayer.GetCapitalLocation.GetName|V]に移動します"
- MAPMODE_REALMS:0 "#T 領地\n#!地図上に[rulers|E]とその[realms|E]を表示します。\n領地を選択すると、その領地の[vassals|E]が表示されます。"
+ MAPMODE_REALMS:0 "#T 領国\n#!地図上に[rulers|E]とその[realms|E]を表示します。\n領国を選択すると、その領国の[vassals|E]が表示されます。"
  MAPMODE_TERRAIN:1 "#T #V 地形#! マップモード#!"
  MAPMODE_CULTURES:0 "#T 文化\n#![county|E]における[culture|E]をマップ上に表示します\n縞模様の地域は伯爵領と[top_liege|E]が異なる文化を持っています"
  MAPMODE_AREAS:1 "#T #V Areas#! Map Mode #D (Debug)#!#!"
