@@ -37,7 +37,7 @@
  stewardship_wealth.1061.a:0 "失われた学術書の噂を聞いたことがある、再発見されたと。"
  stewardship_wealth.1061.a.success:0 "失われた学術書には膨大な知識の富が含まれている"
  stewardship_wealth.1061.a.failure:0 "失われた学術書とは単なる古い台帳であった"
- stewardship_wealth.1061.b:0 "[vassal.GetTitledFirstNameNoTooltip] could use help managing [vassal.GetHerHis] holdings."
+ stewardship_wealth.1061.b:0 "[vassal.GetTitledFirstNameNoTooltip]は資産管理の助けがほしいだろう。"
  stewardship_wealth.1061.c:0 "取引協定の確保は国庫を満たしてくれるだろう。"
  stewardship_wealth.5001.t:0 "賑やかな家畜"
  stewardship_wealth.5001.desc:0 "最近の取引で追加の支払いとして、大規模な牛の群れを私は所持している。\n\n牛が高品質なのは保証できるが、この群れをどうすべきかという問題は残っている。"

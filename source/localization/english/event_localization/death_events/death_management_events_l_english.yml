@@ -196,7 +196,7 @@
  death_management.4007.a:0 "一つの物語が終わり、新しな物語が始まる。"
  death_management.4007.b:0 "I hope my actions were the right ones."
  death_management.4007.a.tt:1 "Your heir, [dead_character.GetTitledFirstName], has died in house arrest."
- death_management.4007.a.tt.heir:1 "[new_heir.GetTitledFirstName] is your new heir."
+ death_management.4007.a.tt.heir:1 "[new_heir.GetTitledFirstName]があなたの新しい後継者です。"
  death_management.4001.t:0 "Outliving a Child"
  death_management.4001.tt:1 "あなたの[dead_character.Custom('GetDaughterSon')]、[dead_character.GetTitledFirstName]、は軟禁中に死んだ。"
  death_management.4001.child_my_prison:0 "Oh, my sweet [dead_character.GetTitledFirstName]! I hope I made the right choice, forcing you to spend your last days alive locked up.\n\nAll the things you will never learn, experience, or do... "

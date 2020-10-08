@@ -4,5 +4,5 @@
  demand_conversion_interaction_desc:0 "$house_head_interaction_header$ $ask_for_conversion_interaction_desc$"
  demand_conversion_interaction_extra_icon:0 "$hook_extra_icon$"
  call_house_member_to_war_interaction:0 "一家の一員を戦争へ呼び出す"
- call_house_member_to_war_interaction_desc:0 "$house_head_interaction_header$Call on [recipient.GetShortUINameNoTooltip] to serve [recipient.GetHerHis] [house|E] in war"
+ call_house_member_to_war_interaction_desc:0 "$house_head_interaction_header$[recipient.GetShortUINameNoTooltip]を戦争に呼び出して[house|E]の一員としての勤めを果たさせます"
  call_house_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"

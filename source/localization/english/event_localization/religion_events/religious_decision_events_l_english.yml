@@ -2,7 +2,7 @@
  religious_decision.0001.t:0 "精霊憑依"
  religious_decision.0001.desc:0 "私の[ROOT.Char.Custom('MyPriestTitle')][realm_priest.GetFirstName]は私を、岩の上を水が揺らめく様子が落ち着いた雰囲気を醸し出している、小さな小川の近くの静かな木陰へと連れて行く。\n\n「精霊はここが好きなのです、[ROOT.Char.GetFirstNameNoTooltip]。我々が援助を請願するにはここが一番です。」\n\n[realm_priest.GetFirstNameNoTooltip]が持ってきた二つの籠を持ち上げて、[realm_priest.GetSheHe]は付け加える:「さあ、我々は彼らのためにどのような供え物を残すかを決めなければなりません。」"
  religious_decision.0001.a:0 "タカラガイや果物、没薬の盛大な供え物。"
- religious_decision.0001.b:0 "A traditional libation of grain and borassa."
+ religious_decision.0001.b:0 "穀物とボロッサ伝統的な酒"
  religious_decision.0001.c:0 "供え物？ふん！私がここにいるだけで十分じゃないのか？"
  religious_decision.0001.d:0 "考え直して、我々は彼らの邪魔をしないようにしよう…"
  religious_decision.0001.a.tt.1:0 "精霊たちは#P 間違いなく#!この供え物に注目するでしょう"

@@ -45,7 +45,7 @@
  relation_wife_departed:0 "亡妻"
  relation_husband_departed:0 "亡夫"
  relation_concubine_female:0 "側室"
- relation_concubine_male:0 "側室/男妾"
+ relation_concubine_male:0 "男妾"
  relation_fatherhusband:0 "父-夫"
  relation_brotherhusband:0 "兄弟-夫"
  relation_sonhusband:0 "息子-夫"

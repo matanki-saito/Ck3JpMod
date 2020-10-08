@@ -157,7 +157,7 @@
  setting_off_exclave_independence:0 "オフ"
  setting_off_exclave_independence_desc:0 "独立した統治者は飛び地を世界のどこにでも持つことができます。"
  setting_limited_exclave_independence:1 "#high 限定的#!"
- setting_limited_exclave_independence_desc:0 "独立した統治者の飛び地は、少なくとも1州が海路を通じて首都がある地域と接続しているか、またはその人物の慣習的領域である場合を除いて、平時の継承に際して独立します。"
+ setting_limited_exclave_independence_desc:0 "独立した統治者の飛び地は、少なくとも一つの伯爵領が海路を通じて首都がある地域と接続しているか、またはその人物の慣習的領域である場合を除いて、平時の継承に際して独立します。"
  setting_significant_exclave_independence:1 "#high 重要#!"
  setting_significant_exclave_independence_desc:0 "独立した統治者の飛び地は、海路を通じて首都がある地域と接続しているか、またはその人物の慣習的領域である場合を除いて、平時の継承に際して独立します。"
  setting_total_exclave_independence:1 "#high 完全#!"

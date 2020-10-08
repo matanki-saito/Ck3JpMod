@@ -1061,7 +1061,7 @@
  char_interaction.0070.opening:0 "[actor.Custom2('AppropriateGreeting', recipient )]"
  char_interaction.0131.opening:0 "[recipient.Custom2('AppropriateGreetingNegative', actor )]"
  char_interaction.0231.desc_prison:0 "[recipient.GetTitledFirstName]は逮捕され、厳重に施錠された牢獄の中で自らに降りかかる運命を待ち構えている。"
- char_interaction.0231.desc_house_arrest:0 "As per my orders, [recipient.GetTitledFirstName] is now to be confined to [recipient.GetHerHis] home. I've posted some of my guards to ensure [recipient.GetSheHe] is compliant with the house arrest."
+ char_interaction.0231.desc_house_arrest:0 "私の命令により、[recipient.GetTitledFirstName]は現在[recipient.GetHerHis]の家に閉じ込められている。[recipient.GetSheHe]が軟禁を遵守していることを確認するため、私は衛兵を何人か配置した。"
  vassal_modify_vassal_contract_unnecessary_hook_usage_vassal_favor:0 "すでに[vassal|E]に有利な契約において[hook|E]を使用することはできず、現在の変更は[TARGET_CHARACTER.GetShortUIName]に有利である: $VALUE|V0$"
  vassal_modify_vassal_contract_unnecessary_hook_usage_equal:0 "You cannot use a [hook|E] on contract that is fair to the [vassal|E]"
  GHW_ATTACKERS_STRENGTH_TRIGGER:0 "攻撃側の軍事力"
