@@ -6,7 +6,7 @@
  british_isles.0002.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('reclaimer'))] [reclaimer.GetName] は公式にケルトのブリタニアの復活を宣言した。\n\n幾世紀にもわたる外国支配の後に、この島々はその本来の持ち主の支配を取り戻したのだ。"
  british_isles.0002.a:0 "[reclaimer.GetCulture.GetNameNoTooltip]の厄災がこの地を覆うか…"
  british_isles.0002.b:0 "ブリタニアがようやく我らのものとなった！"
- british_isles.1001.t:0 "The Laws Restored"
+ british_isles.1001.t:0 "復元された法"
  british_isles.1001.desc:0 "デーンロウは私の奮闘によって再興した。この領国には以前のように[restorer.GetCulture.GetName]によって支配されるだろう！\n\n私は古の戦士ガスラムやエイリーク血斧王のような、伝説の人々の足跡をたどって歩んでいる。そして私は[restorer.GetFaith.WarGodName]に誓って、この王国を二度とアングロサクソンどもの手に落ちさせはしないだろう！"
  british_isles.1001.a:0 "新たな時代のはじまりだ！"
  british_isles.1002.t:0 "デーンロウ"

@@ -66,4 +66,4 @@
  HOUSE_MODIFIERS:1 "家補正:"
  DYNASTY_MODIFIERS:1 "王朝補正:"
  HOUSE_VIEW_DYNASTY_PRESTIGE_INCOME_TT_ALIVE_CAPPED:0 "$NUM|V$ living members #weak (capped at 100)#!"
- HOUSE_TT_NAME:0 "House [DynastyHouse.GetBaseNameNoTooltip]"
+ HOUSE_TT_NAME:0 "[DynastyHouse.GetBaseNameNoTooltip]家"

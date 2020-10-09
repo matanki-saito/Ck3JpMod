@@ -9,7 +9,7 @@
  vassal_distrust_modifier:0 "疑い深い封臣"
  vassal_distrust_modifier_desc:1 "This liege has shown that they have less than perfect faith in their vassals' service\nRealm [laws|E]: #N +10%#! more expensive"
  protected_vassals_honor_modifier:0 "守られた封臣の名誉"
- protected_vassals_honor_modifier_desc:0 "This ruler stood up for their vassal's honor in a time of conflict"
+ protected_vassals_honor_modifier_desc:0 "この君主は封臣の名誉のために立ち上がった"
  liege_looking_away_modifier:0 "目をつぶる領主"
  liege_looking_away_modifier_desc:0 "この人物の領主は、重罪以外の罪には寛容である"
  yearly_benevolent_forgiveness_modifier:0 "Act of Benevolence"

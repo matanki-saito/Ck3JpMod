@@ -58,7 +58,7 @@
  CLAIM_WAR_NAME_MY:2 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[TITLE.GetBaseName]請求戦争"
  WAR_DECLARED:1 "宣戦布告"
  INDEPENDENCE_WAR_NAME:0 "独立戦争"
- LIBERTY_WAR_NAME:0 "反乱戦争"
+ LIBERTY_WAR_NAME:0 "分権戦争"
  PEASANT_WAR_NAME:0 "農民蜂起"
  peasant_war_victory_desc:0 "すべての反乱[counties|E]は[SCOPE.ScriptValue('peasant_war_victory_county_control_loss')|N0][control|E]を失う。"
  peasant_war_white_peace_desc:0 "[peasant_faction|E]は解散する。"

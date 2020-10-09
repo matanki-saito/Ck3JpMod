@@ -158,7 +158,7 @@
  holy_site_ahvaz_effect_name:0 "[holy_site|E]#weak ($holy_site_ahvaz_name$)#!から"
  holy_site_samarkand_name:0 "サマルカンド"
  holy_site_samarkand_effect_name:0 "[holy_site|E]#weak ($holy_site_samarkand_name$)#!から"
- holy_site_bodh_gaya_name:0 "ボードガヤー"
+ holy_site_bodh_gaya_name:0 "ブッダガヤ"
  holy_site_bodh_gaya_effect_name:0 "[holy_site|E]#weak ($holy_site_bodh_gaya_name$)#!から"
  holy_site_kusinagara_name:1 "ルンビニ"
  holy_site_kusinagara_effect_name:0 "[holy_site|E]#weak ($holy_site_kusinagara_name$)#!から"

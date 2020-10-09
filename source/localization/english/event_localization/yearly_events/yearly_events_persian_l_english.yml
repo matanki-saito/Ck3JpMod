@@ -13,7 +13,7 @@
  yearly_persian.1101.desc.ending:0 "\n\n多くの部族や文化が私たちの[ROOT.Char.GetCulture.GetName]言語や伝統を取り入れる中で、イラン高原に住むペルシア人はこの広がりに猛烈に抵抗してきた。\n\n偉大なアケメネス朝とササン朝の帝国の遺産から独自の文化的伝統を引き出した彼らは、自分たちの祖先を非常に誇りに感じており、外国の支配に直面してもなお、彼らの歴史を守りたいと考えている。"
  yearly_persian.1101.every_county:0 "すべての[persian.GetName]の伯爵領"
  yearly_persian.1101.every_family:0 "すべての[close_family_member|E]"
- yearly_persian.1101.a:0 "I'll force them all to submit to [ROOT.Char.GetCulture.GetName] supremacy!"
+ yearly_persian.1101.a:0 "全員強制的に[ROOT.Char.GetCulture.GetName]の覇権に服従させてやる!"
  yearly_persian.1101.b.seljuk:0 "#EMP 彼ら#!の慣習を取り入れることで、我々は第三のペルシア帝国を確立できるかもしれない！"
  yearly_persian.1101.c:0 "我々はこのような多様な背景を持つ臣民に恵まれている！"
  yearly_persian.1101.c.warning:0 "$stewardship_domain.1073.c.warning$"

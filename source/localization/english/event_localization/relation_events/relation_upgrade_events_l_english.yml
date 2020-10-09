@@ -29,7 +29,7 @@
  relation_upgrade.0011.desc.lover:0 "私が出場者が現れるのを待っていると、[source.Custom2('MyCharacterIntroduction', ROOT.Char)]が近寄ってきて、[source.GetHerHim]に自分たちの「[ROOT.Char.Custom('MartialTournamentAdjective')]」に私が参加しないか尋ねてくる。"
  relation_upgrade.0011.rival.accept:0 "よくも#EMP そんなこと#!ができたものだな！？"
  relation_upgrade.0011.rival.accept.toast:0 "[rival.GetFirstNameNoTooltip]は腹を立てる"
- relation_upgrade.0011.rival.decline:0 "I guess it #EMP was#! kind of funny..."
+ relation_upgrade.0011.rival.decline:0 "まあまあ面白かったよ..."
  relation_upgrade.0011.rival.decline.toast:0 "[rival.GetFirstNameNoTooltip]はそれを笑い飛ばす"
  relation_upgrade.0011.friend.accept:0 "ああ、会えてよかったよ[source.GetFirstNameNoTooltip]！"
  relation_upgrade.0011.friend.accept.toast:0 "あなたと[friend.GetFirstNameNoTooltip]は互いをよく知る"

@@ -90,7 +90,7 @@
  war_declaration_rights_allowed:0 "許可された $war_declaration_rights$"
  war_declaration_rights_allowed_desc:0 "#emphasis #bold [vassal|E]の特権:#!#!\n[vassal|E]は[lieges|E]の[crown_authority|E]に関係なく[war|E]を宣言できます\n[vassal|E]は、[realm|E]内の[casus_bellis|E]に対して#high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#!少ない支払いで済みます\n\n#flavor [lieges]の[crown_authority]が戦争することを妨げる場合、[vassal]は[hook]を使う必要はありません。この特別な処置により、[vassal]は[realm|E]内で戦争を宣言しやすくなり、コストが#high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#!削減されます。#!"
  war_declaration_rights_allowed_short:0 "許可"
- council_rights:0 "評議会参加の権利"
+ council_rights:0 "評議会強制参加権"
  council_rights_none:0 "無し $council_rights$"
  council_rights_none_desc:0 "#flavor その[vassal]が[council]に入った場合に何か特別な特権を与えられることはありません。#!"
  council_rights_none_short:0 "無効"
