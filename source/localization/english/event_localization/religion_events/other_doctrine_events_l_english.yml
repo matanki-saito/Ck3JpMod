@@ -22,7 +22,7 @@
  event_false_convert_interface.desc:0 "[ROOT.Char.GetShortUIName] has renounced [ROOT.Char.GetHerHis] public faith for [ROOT.Char.GetFaith.GetName], revealing [ROOT.Char.GetHerHim]self as a crypto-religionist."
  event_false_converts.t:0 "Revealed Crypto-Religionists"
  event_false_converts_plus_counties.desc:0 "[ROOT.Var('num_false_converts_vassal').GetValue|V0] of my landed vassals recanted their public faith.\n\n[ROOT.Var('num_false_converts_landless').GetValue|V0] unlanded characters in my court recanted their public faith.\n\n[ROOT.Var('num_false_converts_counties').GetValue|V0] of my counties contained extensive crypto-religionist communities that have made their hidden faith public."
- event_false_converts_without_counties.desc:0 "[ROOT.Var('num_false_converts_vassal').GetValue|V0] of my landed vassals recanted their public faith.\n\n[ROOT.Var('num_false_converts_landless').GetValue|V0] unlanded characters in my court recanted their public faith."
+ event_false_converts_without_counties.desc:0 "[ROOT.Var('num_false_converts_vassal').GetValue|V0]人の領地を持った封臣が改宗しました。\n\n[ROOT.Var('num_false_converts_landless').GetValue|V0]人の宮廷の領地を持たない人物が改宗しました。"
  event_false_converts_counties_only.desc:0 "[ROOT.Var('num_false_converts_counties').GetValue|V0] counties in my realm contained extensive crypto-[ROOT.Char.GetFaith.GetAdherentNameNoTooltip] communities, and many of these have declared their faith alongside mine."
  false_convert_modifier:0 "Suspected False Converts"
  false_convert_modifier_desc:0 "Many communities in this county are thought to still practice their old faith in secret."

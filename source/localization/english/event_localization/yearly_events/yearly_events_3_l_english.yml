@@ -37,7 +37,7 @@
  yearly.3005.a.rousing_speech:0 "忠誠心を揺さぶる演説"
  yearly.3005.a.stumbling_apology:0 "言葉に詰まりながらの謝罪"
  yearly.3005.b:0 "私が[vassal.GetHerHim]を裏切り者と公表したのだから、[vassal.GetSheHe]はそのように扱われるのだ！"
- yearly.3011.t:0 "An Impression Twice Made"
+ yearly.3011.t:0 "印象の倍増し"
  yearly.3011.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('liege'))]、[liege.GetTitledFirstName]に敬意を表して開催される別の饗宴の前に [vassal.GetTitledFirstName]が私を訪ねてくる。\n\n「我々はどちらも[liege.GetTitleAsNamePossessiveNoTooltip]の最高の寵愛を得られていない。」と[vassal.GetSheHe]は指摘する。「だが、饗宴で壮観な見せ物を提供すれば、我々は[liege.GetHerHim]との関係を改善できるかもしれない。」"
  yearly.3011.a:0 "この冒険に金を提供しよう！"
  yearly.3011.a.success:0 "壮麗な見せ物"

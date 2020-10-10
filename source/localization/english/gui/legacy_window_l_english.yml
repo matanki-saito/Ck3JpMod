@@ -26,7 +26,7 @@
  LEGACY_LIFESTYLE:0 "#T [lifestyle|E] [LegacyItem.GetLifestyle.GetName]\n#![LegacyItem.GetFinisherPerksList]"
  LEGACY_FINISHER_PERKS_LIST:0 "完遂した[perks|E] :\n$LIST$"
  LEGACY_IS_AT_WAR:0 "@warning_icon![war|X]中です！"
- LEGACY_NO_HEIR:1 "@warning_icon! No [player_heir|E]!"
+ LEGACY_NO_HEIR:1 "@warning_icon![player_heir|E]がいません！"
  LEGACY_WARS:0 "#T [LegacyItem.GetTotalNumberOfWars]の[wars|E]で戦った\n#![LegacyItem.GetWarBreakdown]"
  SUCCESSION_RELATION:0 "あなたの$RELATION$"
  LEGACY_OFFENSIVE_WARS:0 "- $COUNT$の攻撃戦争"

@@ -57,7 +57,7 @@
  relation_upgrade.1001.d.tt_fail:0 "明らかに#EMP あなた#!が[terrible_party_host.GetFirstNamePossessiveNoTooltip]のパーティーを台無しにしました"
  relation_upgrade.1001.e:0 "誰かがドアを塞いだら、ここは簡単に燃えてしまうだろう…"
  relation_upgrade.1001.e.list:0 "$relation_upgrade.1001.d.tt_success.list$"
- relation_upgrade.1001.f:0 "I guess I'll just make the best of things."
+ relation_upgrade.1001.f:0 "こんな場合でもどうにかなるものだ。"
  relation_upgrade.1001.g:0 "誰か新しい人と話してみようかな？"
  relation_upgrade.1001.h:0 "[terrible_party_host.GetFirstName]、あなたはひどい主催者だ！"
  relation_upgrade.1001.h.list:0 "$relation_upgrade.1001.d.tt_success.list$"

@@ -313,7 +313,7 @@
  trait_contrite_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は自責の念にさいなまれている。言わないほうがいいことを思わず口にしてしまうことがよくある。"
  trait_comfort_eater:0 "過食症"
  trait_comfort_eater_desc:0 "この人物は、しばしば過食にふけることによって虚無感を埋めようとする。"
- trait_comfort_eater_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] often tries to fill the emptiness that [ROOT.GetCharacter.GetSheHe] feels by indulging in comforting foods."
+ trait_comfort_eater_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、しばしば過食にふけることによって[ROOT.GetCharacter.GetSheHe]の虚無感を埋めようとする。"
  trait_inappetetic:0 "拒食症"
  trait_inappetetic_desc:0 "ストレスによりこの人物の食欲は消え失せ、食事は無駄になる..."
  trait_inappetetic_character_desc:0 "ストレスにより[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]の食欲は消え失せ、[ROOT.GetCharacter.GetHerHim]の食事は無駄になる..."

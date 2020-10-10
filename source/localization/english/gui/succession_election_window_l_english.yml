@@ -3,7 +3,7 @@
  SUCCESSION_ELECTION_WINDOW_CANDIDATES:2 "候補者([GetDataModelSize( SuccessionElectionWindow.GetCandidates.GetList )])"
  SUCCESSION_ELECTION_WINDOW_ELECTORS:2 "選挙人 ([GetDataModelSize( SuccessionElectionWindow.GetElectors.GetList )])"
  SUCCESSION_ELECTION_WINDOW_THEIR_ELECTORS:0 "[Character.GetHerHis|U]の選挙人"
- SUCCESSION_ELECTION_WINDOW_CANDIDATE_SCORE:1 "#T Total score of this candidate: [SuccessionElectionWindowCandidate.GetScore|V]#!\nElectors voting for [SuccessionElectionWindowCandidate.GetCandidate.GetUINameNoTooltip]:\n[SuccessionElectionWindowCandidate.GetVotesInFavor]\n\nThe candidate with the highest score will inherit the title on [succession|E]."
+ SUCCESSION_ELECTION_WINDOW_CANDIDATE_SCORE:1 "#T この候補者の合計スコア: [SuccessionElectionWindowCandidate.GetScore|V]#!\n以下の選挙人が[SuccessionElectionWindowCandidate.GetCandidate.GetUINameNoTooltip]に投票:\n[SuccessionElectionWindowCandidate.GetVotesInFavor]\n\n最もスコアの高い候補者が[succession|E]において称号を相続します。"
  SUCCESSION_ELECTION_WINDOW_CANDIDATE_RANK:0 "階位: [SuccessionElectionWindowCandidate.GetElectionRank|V]"
  SUCCESSION_ELECTION_WINDOW_NOMINATE:0 "指名"
  SUCCESSION_ELECTION_WINDOW_FORCE_VOTE:0 "投票を強制"

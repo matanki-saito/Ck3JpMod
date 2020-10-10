@@ -405,7 +405,7 @@
  BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_PREGNANCY_OTHER:0 "\n[secret_target.GetShortUIName]こそが、君が抱いている赤ん坊の本当の父親だと、私は知ってるんだ。"
  BLACKMAIL_NOTIFICATION_SECRET_FALLBACK:0 "\nあんたの秘密については全部知ってるんだ！"
  BLACKMAIL_NOTIFICATION_THREAT:0 "私に黙っていて欲しいなら、私の言うとおりにしろ！"
- BLACKMAIL_INTERACTION_HUMAN_TT:1 "Unless [actor.GetShortUINameNoTooltip] [Select_CString( actor.IsLocalPlayer, 'change', 'changes' )] [Select_CString( actor.IsLocalPlayer, 'your', actor.GetHerHis )] mind:"
+ BLACKMAIL_INTERACTION_HUMAN_TT:1 "[actor.GetShortUINameNoTooltip]の気が変わらない限り:"
  BLACKMAIL_INTERACTION_BASE_ACCEPTANCE:0 "[recipient.GetSheHe|U]は秘密を守ることを望む: $VALUE|=+0$"
  BLACKMAIL_INTERACTION_OPINION_ACCEPTANCE:0 "[recipient.GetSheHe|U]はあなたを嫌っている: $VALUE|=+0$"
  BLACKMAIL_INTERACTION_DISTRUST_ACCEPTANCE:0 "[recipient.GetSheHe|U]はあなたを信用していない: $VALUE|=+0$"

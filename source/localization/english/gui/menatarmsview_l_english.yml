@@ -6,7 +6,7 @@
  MAA_UNRAISED_MAINTENANCE_TEXT:0 "動員前の維持費"
  MAA_REINFORCEMENT:1 "[MenAtArmsView.GetFullStrengthText]\n動員時の維持費を払っている"
  MAA_REINFORCEMENT_COST_ENTRY:2 "[Select_CString( Or( Not(Regiment.IsAtFullStength), Regiment.IsRaised), '#high ' , '#weak ' )]$MAA_FULL_MAINTENANCE_TEXT$: [Regiment.CalcReinforcementCost]/month#!"
- MAA_MAINTENANCE:3 "[Select_CString( And( Regiment.IsAtFullStength, Not(Regiment.IsRaised)), '#high ', '#weak ' )]$MAA_UNRAISED_MAINTENANCE_TEXT$: [Regiment.CalcUnraisedCost]/month#!"
+ MAA_MAINTENANCE:3 "[Select_CString( And( Regiment.IsAtFullStength, Not(Regiment.IsRaised)), '#high ', '#weak ' )]$MAA_UNRAISED_MAINTENANCE_TEXT$: [Regiment.CalcUnraisedCost]/月#!"
  MAA_RAISED_MAINTENTANCE:0 "[MenAtArmsView.GetFullStrengthText]\n動員時の維持費を払っている"
  MAA_UNRAISED_MAINTENANCE:0 "[MenAtArmsView.GetFullStrengthText]\n動員前維持費を支給中"
  MAA_MAINTENANCE_SHORT:0 "[Regiment.CalcMaintenanceCost]/月"

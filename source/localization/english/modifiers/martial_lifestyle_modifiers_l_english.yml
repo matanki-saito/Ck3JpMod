@@ -7,7 +7,7 @@
  minor_increased_castle_defense:0 "$increased_castle_defense$"
  fought_a_seasoned_warrior:0 "Fought Seasoned Warrior"
  mounted_warrior_practice_modifier:0 "乗馬練習"
- mounted_warrior_practice_modifier_desc:1 "This character rides for hours in the courtyard, ensuring their grip stays strong and swings bear down with force!"
+ mounted_warrior_practice_modifier_desc:1 "この人物は中庭で何時間も乗馬に励んだことで、引くも振るうも力強くこなせる確かな手綱さばきとなった。"
  cavalry_charge_exercise_modifier:0 "激しい突撃訓練"
  cavalry_charge_exercise_modifier_desc:1 "This character has ridden with their warriors in the fiercest practice charges they have ever been a part of."
  improved_horse_mastery_modifier:0 "経験豊富な騎手"

@@ -1,6 +1,6 @@
 ﻿l_english:
  lover.0001.t:0 "情熱の終わり"
- lover.0001.desc_opening:1 "「私の[ROOT.Char.Custom('LoverPetName')]、これは…これはもう機能していません！」\n\n私の恋人[lover.GetTitledFirstName]は私から離れ、"
+ lover.0001.desc_opening:1 "「我が[ROOT.Char.Custom('LoverPetName')]、これでは…これでは何の解決にもならない！」\n\n我が恋人[lover.GetTitledFirstName]は私から離れ、"
  lover.0001.desc_murder:0 "「私たちの間のきらめきは衰えて…あなたが人を殺したかと思うと... やりすぎだ！」"
  lover.0001.desc:0 "「私たちの間のときめきーそれが無くなってしまったようだ。」"
  lover.0001.a:1 "同意する。我々は別々の道を歩む時だ。"

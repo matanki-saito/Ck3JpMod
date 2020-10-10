@@ -187,7 +187,7 @@
  nick_the_defender_of_highgod:0 "[CHARACTER.GetFaith.HighGodName]の擁護者"
  nick_the_blood_motherfather:0 "血統の[CHARACTER.GetMotherFather|U]"
  nick_the_divine:0 "the Divine"
- nick_the_anointed:0 "the Anointed"
+ nick_the_anointed:0 "聖別された"
  nick_the_stupor_mundi:0 "世界の驚異"
  nick_the_glass:0 "the [CHARACTER.GetWomanMan|U] of Glass"
  nick_the_trojan:0 "the Trojan"
