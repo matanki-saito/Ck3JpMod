@@ -74,7 +74,7 @@
  diplomacy_majesty.4073.desc:0 "認めたくないが、私は[my_vassal.GetCulture.GetName]の言語を使いこなせるようになるとは思えない。試行錯誤してはみたものの、何の進展もなかった…私はそれを受け入れなければならない。"
  diplomacy_majesty.4073.a:0 "もう諦めよう。"
  diplomacy_majesty.4090.t:0 "威厳ある衣服"
- diplomacy_majesty.4090.desc:0 "I stand above my subjects as a sovereign ruler, unequaled in the realm. Dressing the part with resplendent garments and jewelry would serve as a subtle reminder to everyone that I am in charge."
+ diplomacy_majesty.4090.desc:0 "私はこの領国での絶対的な君主として臣民の上に立つ存在である。華やかな衣服や宝石で着飾ることは、私が神聖不可侵であることを、皆に繊細に思い知らせるのに役立つであろう。"
  diplomacy_majesty.4090.a:0 "私には最高級のアーミンとビロードだけを！"
  diplomacy_majesty.4090.b:0 "地方の様式には象徴的な意味がある。"
  diplomacy_majesty.4090.b.desc:0 "私は地元の素材を使うことに長けた仕立て屋を探している"

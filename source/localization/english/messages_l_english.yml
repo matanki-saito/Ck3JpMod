@@ -125,7 +125,7 @@
  msg_removed_from_faction_not_valid_leader:0 "派閥の解散"
  msg_removed_from_faction_not_valid_leader_desc:0 "[CHARACTER.GetUINameNoTooltip]に対する[FACTION.GetName]は有効な指導者がいないため、派閥は解散されました"
  msg_removed_from_faction_not_liege:0 "派閥からの離脱"
- msg_removed_from_faction_not_liege_desc:1 "[CHARACTER.GetUINameNoTooltip] is not your liege anymore so you have left the [FACTION.GetName] against [CHARACTER.GetHerHim]"
+ msg_removed_from_faction_not_liege_desc:1 "[CHARACTER.GetUINameNoTooltip]はもはやあなたの主君ではなく、あなたは[CHARACTER.GetHerHim]に反対して[FACTION.GetName]を離脱しました"
  msg_faction_against_liege_or_me_created:2 "[RIGHT_CHARACTER.GetShortUINameNoTooltip]に対抗する派閥の創設"
  msg_faction_against_liege_or_me_created_desc:1 "あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )]である[LEFT_CHARACTER.GetShortUINameNoTooltip]が[RIGHT_CHARACTER.GetShortUINameNoTooltip]に対する[FACTION.GetName]を創設した"
  msg_county_faction_against_liege_or_me_created_desc:2 "[LEFT_TITLE.GetNameNoTooltip]は[RIGHT_CHARACTER.GetShortUINameNoTooltip]に対抗する[FACTION.GetName]を生み出した"

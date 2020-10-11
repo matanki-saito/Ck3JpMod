@@ -1,7 +1,7 @@
 ﻿l_english:
  mystic_lifestyle_communion_header:0 "神秘的会派:"
  mystic_lifestyle.1001.t:0 "$mystic_lifestyle_communion_header$ 不承認"
- mystic_lifestyle.1001.desc:0 "My preparations for my mystical communion is well underway when [SCOPE.sC('priest').Custom2('MyCharacterIntroduction', ROOT.Char )] approaches me.\n\n\"I do not believe what you are doing to be entirely... orthodox,\" [priest.GetSheHe] tells me. \"A good [ROOT.Char.GetFaith.GetAdherentNameNoTooltip] would refrain from this kind of behavior.\""
+ mystic_lifestyle.1001.desc:0 "神秘的な聖餐の準備を順調に進めていたところ、[SCOPE.sC('priest').Custom2('MyCharacterIntroduction', ROOT.Char )]がこちらに近寄ってきた。\n\n「私としては、あなたのなさっておられる事が全く…正統であるとは信じておりません」[priest.GetSheHe]は言う。「善き[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]であれば、このような行為は慎むであろうと存じます」"
  mystic_lifestyle.1001.a:0 "This brings me closer to [ROOT.Char.GetFaith.HighGodName] than you could ever hope!"
  mystic_lifestyle.1001.b:0 "もちろんだ。 私が何も考えていなかったとでも？"
  mystic_lifestyle.1001.b.flavor:0 "[ROOT.Char.GetFaith.HighGodNameAlternate] について考えたことを [priest.GetHerHim] に話す事はおそらくうまくいくまい"

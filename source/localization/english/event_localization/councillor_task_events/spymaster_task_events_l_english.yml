@@ -98,7 +98,7 @@
  spymaster_task.1001.b:0 "[councillor.GetFirstNameNoTooltip]よ、誰にでも間違いはある。"
  spymaster_task.1001.a.tt:1 "領国内の誰かがあなたの[secrets|E]の一つを知ります。\n\n"
  spymaster.1001.notification:0 "機密書類が失われた"
- spymaster_task.1002.greeting:1 "To whom it may concern..."
+ spymaster_task.1002.greeting:1 "関係者の皆様へ…"
  spymaster_task.1002.desc:0 "証拠となる書類を同封いたしました。繰り返しになりますが、このことは誰にも話してはなりません。我が主君である[councillor_liege.GetTitledFirstName]でさえ、これらの存在に気付いておらず、それはそのままにしておかなければなりません。"
  spymaster_task.1002.a:0 "これは私が受け取るはずではなかったものだと思うが…"
  spymaster_task.1002.a.tt:1 "#F ...but who am I to pass up a gift from a [councillor.GetCouncilTitle]?#!"

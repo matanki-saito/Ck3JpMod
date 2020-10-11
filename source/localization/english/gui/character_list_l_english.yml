@@ -78,7 +78,7 @@
  player_dynasty_filter:1 "[GetPlayer.GetHouse.GetDynasty.GetNameNoTooltip|U]"
  player_dynasty_filter_desc:0 "同じ[dynasty|E]に属す人物のみ表示"
  not_player_dynasty_filter:1 "$player_dynasty_filter$以外"
- not_player_dynasty_filter_desc:1 "Only show Characters with a [dynasty|E] different from you"
+ not_player_dynasty_filter_desc:1 "異なる[dynasty|E]に属す人物のみ表示"
  no_dynasty_filter:0 "庶民"
  no_dynasty_filter_desc:0 "[dynasty|E]を持たない人物のみ表示"
  any_dynasty_filter:0 "貴族"

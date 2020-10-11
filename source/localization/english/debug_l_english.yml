@@ -133,7 +133,7 @@
  has_trait_with_flag_trigger:0 "Has [trait|E] with $FLAG$"
  is_frontend_character_selected:0 "Is a frontend character selected"
  fertility_trigger:0 "Fertility: $NUM|V0$"
- witchcraft_scheme_blocked_trigger:0 "Witchcraft scheme possible"
+ witchcraft_scheme_blocked_trigger:0 "魔術崇拝計画が可能"
  has_game_rule_trigger:0 "Has game rule: [GAME_RULE.GetName]"
  release_only_trigger:0 "Release Only"
  has_global_variable_trigger:0 "Has Global Variable: $VARIABLE$"

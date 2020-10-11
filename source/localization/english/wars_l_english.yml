@@ -72,7 +72,7 @@
  claim_cb_victory_desc:1 "[claimant.GetShortUIName|U]は係争された[title|E]を獲得する。"
  claim_cb_white_peace_desc_defender:1 "あなたは係争された[title|E]を確保した。"
  claim_cb_white_peace_desc:1 "[defender.GetShortUIName|U]は、係争中の[title|E]を保持し続ける。"
- claim_cb_defeat_desc_defender:1 "あなたは係争された[title|E]を確保する。[claimant.GetShortUIName|U]は[attacker.GetHerHis][claim|E]を失う。"
+ claim_cb_defeat_desc_defender:1 "あなたは係争された[title|E]を確保する。[claimant.GetShortUIName|U]は[attacker.GetHerHis]の[claim|E]を失う。"
  claim_cb_defeat_desc_attacker_claimant:1 "[defender.GetShortUIName|U]]は、係争中の[title|E]を保持し続ける。あなたの[claim|E]は喪失する。"
  claim_cb_defeat_desc_attacker:1 "[defender.GetShortUIName|U]は、係争中の[title|E]を保持し続ける。[claimant.GetShortUIName|U]の[claim|E]は喪失する。"
  claim_cb_defeat_desc:1 "[defender.GetShortUIName|U]]は、係争中の[title|E]を保持し続ける。[attacker.GetShortUIName|U]の[claim|E]は喪失する。"

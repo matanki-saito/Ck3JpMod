@@ -131,7 +131,7 @@
  tooltip_imperial_vote_strength_elector_tier:0 "[ROOT.Char.GetSheHe|U]は影響力のある封臣である: $VALUE|=+0$"
  tooltip_imperial_vote_strength_elector_despot:0 "[ROOT.Char.GetSheHe|U]は暴君である: $VALUE|=+0$"
  tooltip_imperial_vote_strength_elector_sebastokrator:0 "[ROOT.Char.GetSheHe|U]は尊厳公である: $VALUE|=+0$"
- tooltip_imperial_vote_strength_elector_caesar:0 "[ROOT.Char.GetSheHe|U] is the Caesar: $VALUE|=+0$"
+ tooltip_imperial_vote_strength_elector_caesar:0 "[ROOT.Char.GetSheHe|U]はローマ皇帝である:$VALUE|=+0$"
  tooltip_imperial_vote_strength_elector_kouropalates:0 "[ROOT.Char.GetSheHe|U]は宮宰である: $VALUE|=+0$"
  tooltip_imperial_vote_strength_elector_anthypatos:0 "[ROOT.Char.GetSheHe|U]は代理執政官である: $VALUE|=+0$"
  tooltip_imperial_vote_strength_commander_martial:0 "[ROOT.Char.GetSheHe|U]は立派な将軍である: $VALUE|=+0$"

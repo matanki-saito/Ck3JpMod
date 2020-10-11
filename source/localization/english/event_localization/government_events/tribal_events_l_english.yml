@@ -41,7 +41,7 @@
  tribal.1010.desc:0 "部族全員が私と[liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))][challenger.GetFirstName]との決闘に立ち会うために集まっているが、[challenger.GetSheHe]はその姿を見せるとすぐに言い訳を言い始めた。\n\n「こ、これは全部間違いなんだ。私はあなたに戦いを挑むつもりなんてなかったんだ。許してくれ。」"
  tribal.1010.a:0 "臆病者め。"
  tribal.1101.t:0 "ホルムガング"
- tribal.1101.desc:0 "My rival [rival.GetTitledFirstName] looks up as I enter the hallway. [victim.GetTitledFirstName] – my own #EMP [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('victim'))]#! – lays bloody at [rival.GetHerHis] feet.\n\n\"Ah, [ROOT.Char.GetFirstNameNoTooltip]. I was just leaving you a message!\"\n\n[victim.GetFirstNameNoTooltip] is still alive, if [victim.GetHerHis] moans of pain are anything to go by, but who knows how far [rival.GetFirstNameNoTooltip] would have gone had I not interrupted?"
+ tribal.1101.desc:0 "廊下に入ると、ライバルの[rival.GetTitledFirstName]が顔を上げる。[rival.GetHerHis]の足元で血まみれになって横たわっているのは ― [victim.GetTitledFirstName] ― 我が #EMP [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('victim'))] #! だ。\n\n「やあ、[ROOT.Char.GetFirstNameNoTooltip]。ちょうど君に伝言を残していたところだ！」\n\n [victim.GetFirstNameNoTooltip]はまだ生きている。[victim.GetHerHis]の苦痛のうめき声を聞く限りは。しかしながら、私が邪魔をしなければ[rival.GetFirstNameNoTooltip]はどこまでやっていたのだろう？"
  tribal.1101.a:0 "忌々しい[rival.Custom('InsultNoun')]め！お前にホルムガングを申し込む！"
  tribal.1101.a_success:0 "貴方の勝利です！"
  tribal.1101.a_failure:0 "[rival.GetSheHe|U]の勝利"

@@ -18,7 +18,7 @@
  independence_faction_desc:0 "独立派の[faction|E]は、彼らを支配している [liege|E] からの独立を求めている。\n\n#S 最終通告#!\n全ての派閥メンバーが[independent|E]します。\n[liege|E]が[prestige|E]を失います。"
  independence_faction_short_effect_desc:0 "彼らは、[liege|E]からの独立を望んでいる"
  FACTION_DEMAND_INDEPENDENCE:0 "独立欲求"
- FACTION_DEMAND_INDEPENDENCE_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n今こそ、[faction_leader.GetPrimaryTitle.GetNameNoTier]は[faction.GetName].の支配から完全に独立すべき時が来たのだ。\n我々の要求を受け入れるか、戦場で剣を交えるか、そのどちらかだ！"
+ FACTION_DEMAND_INDEPENDENCE_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n今や[faction_leader.GetPrimaryTitle.GetNameNoTier]および[faction.GetName]の諸邦が完全に独立しているということを貴殿が理解すべき時である。我々の要求を受け入れるか、戦場で剣を交えるか、そのどちらかだ！"
  FACTION_DEMAND_INDEPENDENCE_ACCEPTED:0 "独立の要求を受け入れた"
  FACTION_DEMAND_INDEPENDENCE_ACCEPTED_DESC:0 "[faction_target.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n貴様の見当違いの要求は、我々にとって害でしかない。しかし、領地を無益な流血で染めるのを防ぐためとあらば、貴様の独立要求を受け入れざるを得ない。"
  FACTION_DEMAND_INDEPENDENCE_REFUSED:0 "独立の要求を拒否された"

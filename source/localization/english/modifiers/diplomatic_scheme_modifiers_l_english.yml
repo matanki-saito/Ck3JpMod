@@ -2,7 +2,7 @@
  visit_to_court_modifier:0 "Went on Court Visit"
  target_hates_owner_modifier:0 "They are hostile to me"
  target_tired_of_insistence_modifier:0 "Tired of my insistence"
- had_target_rebuffed_event:0 "Rebuffing my Advances"
+ had_target_rebuffed_event:0 "私の誘惑を拒絶する"
  befriend_gregarious_target_modifier:0 "彼らは社交的である"
  befriend_envoy_working_modifier:0 "Envoy at Work"
  friendship_with_blessing_modifier:0 "祝福と共に"

@@ -2,7 +2,7 @@
  court_chaplain_task.0201.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
  court_chaplain_task.0201.county_complete:0 "ついに [county.GetName] の人々が真の信仰への改宗に応じました！\n\n実質的に [county.GetNameNoTier] から異端者はいなくなったでしょう！"
  court_chaplain_task.0201.a:0 "素晴らしい働きだ、 [councillor.GetFirstNameNoTooltip] よ！"
- court_chaplain_task.0201.b:0 "Uh, which faith is that, now?"
+ court_chaplain_task.0201.b:0 "あー、今はどの宗派なんだ？"
  court_chaplain_task.0301.desc:0 "私は大昔の... 出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができる証拠を取り揃えました!\n\nあとは幾ばくかの賄賂を贈りさえすれば..."
  court_chaplain_task.0301.a:0 "よきにはからえ!"
  court_chaplain_task.0301.b:0 "いや、止めよう。"

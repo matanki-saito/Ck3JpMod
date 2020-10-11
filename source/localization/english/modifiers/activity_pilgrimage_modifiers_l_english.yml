@@ -28,4 +28,4 @@
  pilgrimage_ancestor_worship_modifier_desc:0 "この人物は[GetFaithDoctrine('tenet_ancestor_worship').GetBaseName]の[core_tenet|E]に従いながら巡礼を行っている。"
  pilgrimage_religious_reflections_modifier:0 "Met Mystic on Pilgrimage"
  pilgrimage_rest_and_good_health_modifier:0 "穏やかな旅行者"
- pilgrimage_rest_and_good_health_modifier_desc:0 "This character takes it very easy when journeying."
+ pilgrimage_rest_and_good_health_modifier_desc:0 "この人物は、旅をする時はとても気楽にしている。"

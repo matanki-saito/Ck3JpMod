@@ -134,5 +134,5 @@
  pregnancy.6006.real_father_unmarried:1 "Had [real_father.GetSheHe] no thought for the honor of [real_father.GetHerHis] family?"
  pregnancy.6006.a:0 "What will this bastard child mean for us?"
  pregnancy.6999.t:0 "By Another Man"
- pregnancy.6999.desc:1 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))], [mother.GetTitledFirstName], has let it be known that [mother.GetSheHe] is pregnant with the child of [real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]. Even though the child is not mine, I am still [mother.GetHerHis] [ROOT.Char.Custom('WifeHusband')], and it is my duty to care for [mother.GetHerHim] during the coming months."
+ pregnancy.6999.desc:1 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]は、[mother.GetSheHe]が[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]の子供を妊娠していることを知らせてくれた。子供は私のものでは無いが、私はまだ[mother.GetHerHis]の[ROOT.Char.Custom('WifeHusband')]であり、これからの数ヶ月間、[mother.GetHerHim]の世話をするのが私の務めだ。"
  pregnancy.6999.a:1 "A duty I shall fulfill."
