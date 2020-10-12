@@ -435,7 +435,7 @@
  seduce_ongoing.5105.desc:0 "「あなたはいつも私によく仕えてくれた、とても忠実に」わが主君[owner.GetFirstName]が私のところに来た理由が分からなかったが、すぐに明らかになった。「あなたを家臣としてだけでなく[target.GetWomanMan]として望んでいます。汝の[owner.GetLadyLord]にそのようにも仕えよ！」"
  seduce_ongoing.5105.a:0 "他の誰にもできない方法であなたを世話できます。"
  seduce_ongoing.5105.b:0 "あなたには私への義務があるが、それ以上の義務はない。"
- seduce_ongoing.5106.desc:0 "My dear [target.Custom2('RelationToMe', ROOT.Char)], [ROOT.Char.GetTitledFirstName],\nI am flattered that even I, your humble subject, may inspire you in this way. Let us see where time takes us."
+ seduce_ongoing.5106.desc:0 "わが親愛なる[target.Custom2('RelationToMe', ROOT.Char)][ROOT.Char.GetTitledFirstName]、\n目立たぬ私のような臣下が、こんな形であなたのお気持ちを動かせるとは光栄です。時の流れが二人をどこに導くか見守りましょう。"
  seduce_ongoing.5201.t:0 "More Than Friends"
  seduce_ongoing.5201.desc:0 "[target.GetFirstName] and I make our way through the [court_location.Custom('BaronyTownType')] of [court_location.GetNameNoTier].\n\nAs we come upon a square with a lovely fountain we stop to take in the bustling activity all around us, our entourage momentarily fading into the background. "
  seduce_ongoing.5201.a:0 "Let us toss a coin and wish for romance!"

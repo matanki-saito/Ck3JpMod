@@ -23,7 +23,7 @@
  FAITH_WINDOW_DOCTRINE_CHANGE_TOOLTIP:0 "$FAITH_WINDOW_DOCTRINE_TOOLTIP$\n\n[GuiFaithCreationDoctrineItem.GetBlockers]コスト: [piety_i][FaithDoctrine.CalcPietyCost( GuiFaithDoctrineItem.GetFaith )|0]\n#I クリックで変更#!"
  DOCTRINE_BLOCKS_FAITH_CREATION:0 "@warning_icon!#X [FAITH_DOCTRINE.GetName( GetPlayer.GetFaith )]は許可されていません#!"
  CANNOT_CREATE_FAITH_IN_OBSERVE_MODE:0 "@warning_icon!#X 人物をプレイしている必要があります#!"
- FAITH_CREATION_BUTTON_TOOLTIP:1 "#T 信仰の創設#!\n[Select_CString( FaithCreationWindow.CanCreateFaith, '#I Click to Create Faith#!', FaithCreationWindow.GetCreationBlockers )]"
+ FAITH_CREATION_BUTTON_TOOLTIP:1 "#T 宗派の創設#!\n[Select_CString( FaithCreationWindow.CanCreateFaith, '#I Click to Create Faith#!', FaithCreationWindow.GetCreationBlockers )]"
  FAITH_REFORM_BUTTON_TOOLTIP:0 "#T 信仰の改革#!\n[FaithCreationWindow.GetCreationBlockers]#I クリックで信仰を改革#!"
  FAITH_CONVERSION_BUTTON_TOOLTIP:0 "#T 信仰の改宗#!\n[FaithConversionWindow.GetConversionBlockers]#I クリックで信仰の改宗#!"
  FAITH_CONVERSION_SAME_FAITH:0 "すでに[FAITH.GetName]に従っています"
