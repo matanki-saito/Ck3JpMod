@@ -1512,7 +1512,7 @@
  game_concept_heavy_infantry:0 "重歩兵"
  game_concept_heavy_infantry_desc:0 "重歩兵は重い装甲と武器を備え、自らの足で戦う[men_at_arms|E]です。\n\nそれぞれの重歩兵ごとに特徴がありますが、一般に[spearmen|E]の[counter|E]であり、その代わり[skirmishers|E]からカウンターを受けます。"
  game_concept_title_ranks:0 "階位"
- game_concept_title_rank_desc:0 "The personal equivalent of Title [title_tier|E], $game_concept_title_rank$ determines the position of a [ruler|E] within the hierarchy of the game.\n\nAll Title Tiers have an associated Rank, which determines the highest possible Rank of [vassals|E] that the [holder|E] can have.\n\n[emperor|E] > [king|E] > [duke|E] > [count|E] > [baron|E]."
+ game_concept_title_rank_desc:0 "個人の称号[title_tier|E]と同じように、$game_concept_title_rank$は[ruler|E]がゲーム内階層構造のどの位置にいるのかを決定します。\n\nすべての称号階級は階位と結びついており、[holder|E]が従えることのできる[vassals|E]の階位の最高位を決定します。\n\n[emperor|E] > [king|E] > [duke|E] > [count|E] > [baron|E]"
  game_concept_completely_controlled:0 "完全に支配された"
  game_concept_unreformed_pagan_combat_bonus:0 "未改革原始宗教の戦闘ボーナス"
  game_concept_unreformed_pagan_combat_bonus_desc:0 "未改革原始宗教はその[faith|E]を信仰している伯爵領において戦闘ボーナスを得ます。"
