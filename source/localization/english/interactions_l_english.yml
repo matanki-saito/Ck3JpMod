@@ -76,7 +76,7 @@
  gift_interaction_notification:0 "贈り物を送る"
  demote_to_simple_peasant:0 "#D 純然たる農民への降格#!"
  turn_into_cook:0 "#D 料理番に変わる#!"
- fairy_godmother_makes_dwarf:0 "#D 妖精のゴッドマザーがドワーフを作る#!"
+ fairy_godmother_makes_dwarf:0 "#D Fairy godmother makes dwarf#!"
  make_genius_or_insane:0 "#D 天才にするか阿呆にするか#!"
  marry:0 "結婚"
  cannot_host_feast_again_tt:0 "また祝宴を催せない"

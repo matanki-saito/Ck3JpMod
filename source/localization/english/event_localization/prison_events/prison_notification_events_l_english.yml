@@ -12,7 +12,7 @@
  prison_notification.1001.a.tt:0 "地下牢にいるあいだ、[stress|E]はゆっくりと危険なほどたかまるだろう！"
  prison_notification.1002.t:0 "もっと新鮮な空気"
  prison_notification.1002.desc:0 "[actor.GetTitledFirstName]は地下牢から私を解放するのが適当と考えたが、引き続き自宅軟禁に置かれるだけだった。"
- prison_notification.1002.a:0 "私は可能な範囲で慈悲を受けている。"
+ prison_notification.1002.a:0 "私はあるだけの慈悲は受けている。"
  prison_notification.1002.a.tt:1 "自宅軟禁は[stress|E]獲得を増加させません。"
  prison_notification.2001.t:0 "もう一度自由に"
  prison_notification.2001.desc:0 "意思に反する[imprisoner.GetTitledFirstName]による拘束は終わった、自由に家へ帰れるし、どこでも望む場所へ行くことが出来る。"
