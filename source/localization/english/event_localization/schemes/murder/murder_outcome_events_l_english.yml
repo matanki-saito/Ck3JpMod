@@ -12,7 +12,7 @@
  murder_outcome.1002.a:0 "おや、あの森はそんなにも危険だったのだなあ。"
  murder_outcome.1002.b:0 "待て、今は適切なタイミングではない。"
  murder_outcome.1003.t:0 "死に至る食事"
- murder_outcome.1003.d:0 "私の刺客は、此処数週間準備を重ねてきた。コックに金を握らせて黙認させ、毒入りの鴨は[target.GetTitledFirstName]だけに届けられる手はずになった。ハーブの飾り皿を使えば、毒に塗れた鴨の匂いも隠すことが出来るだろう。致命的な苦痛こそが、やつが最期に味わうものとなるだろう。"
+ murder_outcome.1003.d:0 "私の刺客は、ここ数週間準備を重ねてきた。コックに金を握らせて黙認させ、毒入りの鴨は[target.GetTitledFirstName]だけに届けられる手はずになった。ハーブの飾り皿を使えば、毒に塗れた鴨の匂いも隠すことが出来るだろう。致命的な苦痛こそが、やつが最期に味わうものとなるだろう。"
  murder_outcome.1003.a:0 "〈存分に召し上がれ〉、[target.GetFirstNameNoTooltip]よ…"
  murder_outcome.1003.b:0 "待て、より準備に時間をかけるべきだ！"
  murder_outcome.1004.t:0 "招かれざる客"

@@ -144,7 +144,7 @@
  childhood.1010.opening:0 "I cannot stop thinking about [crush.GetTitledFirstName], the way [crush.GetSheHe] smiles and the way [crush.GetSheHe] talks.\n\n"
  childhood.1010.returned:0 "Just knowing that my feelings are returned brings me great joy and sets my heart at ease."
  childhood.1010.not_returned:0 "The fact that [crush.GetSheHe] does not seem to return my feelings weighs heavy on my heart."
- childhood.1010.a:0 "My dear [crush.GetTitledFirstName]!"
+ childhood.1010.a:0 "親愛なる[crush.GetTitledFirstName]！"
  childhood.1010.b:0 "Oh, woe!"
  childhood.1011.t:0 "The Way of the Heart"
  childhood.1011.opening:0 "I have noticed that [crush_returned.GetTitledFirstName] has been paying extra attention to me recently, appreciating both my jokes and my opinions.\n\n"

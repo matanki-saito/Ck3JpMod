@@ -103,7 +103,7 @@
  holy_site_ragusa_effect_name:0 "[holy_site|E]#weak ($holy_site_ragusa_name$)#!から"
  holy_site_esztergom_name:0 "エステルゴム"
  holy_site_esztergom_effect_name:0 "[holy_site|E]#weak ($holy_site_esztergom_name$)#!から"
- holy_site_mecca_name:0 "マッカ"
+ holy_site_mecca_name:0 "メッカ"
  holy_site_mecca_effect_name:0 "[holy_site|E]#weak ($holy_site_mecca_name$)#!から"
  holy_site_medina_name:0 "マディーナ"
  holy_site_medina_effect_name:0 "[holy_site|E]#weak ($holy_site_medina_name$)#!から"

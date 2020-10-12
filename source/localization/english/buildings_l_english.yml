@@ -369,7 +369,7 @@
  building_quarries_08:1 "溶鉱炉"
  building_quarries_08_desc:1 "溶鉱炉は一日中燃え盛り、鉄、鉛、銅を溶かしている。それらが作り出す金属の品質は非常に優れたものだ。"
  building_type_military_camps_01:0 "野営地"
- building_type_military_camps_01_desc:1 "地元の農民が戦争に備えている簡易訓練場です。"
+ building_type_military_camps_01_desc:1 "地元の農民が戦争に備えている簡易訓練場である。"
  building_military_camps_01:1 "皮のテント"
  building_military_camps_01_desc:1 "徴兵されると、彼らは初歩的なキャンプに集められ、簡単なテントで寝泊まりすることになります。最上級のキャンプではありませんが、安価で持ち運びに便利なタイプのキャンプです。"
  building_military_camps_02:1 "野営調理所"

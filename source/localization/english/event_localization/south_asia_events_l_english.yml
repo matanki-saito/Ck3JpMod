@@ -16,7 +16,7 @@
  south_asia.0004.a:0 "[chakravarti.GetSheHe]は新たなる脅威となるのか、それとも偉大な同盟者か？"
  south_asia.0004.b:0 "異教徒はおろかな主張を続けることができます!"
  south_asia.0011.t:0 "神聖な海域"
- south_asia.0011.desc:0 "For an entire day, from sunrise to sundown, I stand waist-high in the flowing river. Cupping it in my hands, I raise the water towards the sky, before letting it fall. Over and over again.\n\nI am shaking by the time I return to dry land, where I am greeted by subordinate [ROOT.Char.GetFaith.PriestNeuterPlural]. I have sworn my protection to not only the water that has flowed through my hands today, but to the entire river, and through it, the eternity of existence."
+ south_asia.0011.desc:0 "日の出から日没まで、一日中、流れる川の中に腰の高さまで浸かって立つ。手で川の水をすくい、水を空に向けて上げては降ろす。何度も何度も。\n\n乾いた陸地に戻る頃には寒さで震えていたが、そこでは部下の[ROOT.Char.GetFaith.PriestNeuterPlural]が迎えてくれた。私は今日、私の手に流れた水だけでなく、川全体、そしてその中を流れる永遠の存在を守ることを誓った。"
  south_asia.0011.a:0 "None can doubt my dedication to [ROOT.Char.GetFaith.HighGodName]."
  south_asia.0012.desc:0 "With control over the entire course of the Ganges, [ruler_of_ganges.GetTitledFirstName] has claimed spiritual guardianship of its sacred waters. It is an unprecedented authority for someone to claim, but the [ruler_of_ganges.GetFaith.PriestNeuterPlural] have declared it true."
  south_asia.0012.a.like:0 "It seems eternity has a new protector."

@@ -190,7 +190,7 @@
  SCHEME_I_AM_WITCH:1 "あなたは魔女である: $VALUE|0=-+$"
  SCHEME_I_AM_NOT_WITCH:1 "あなたは魔女ではない: $VALUE|0=-+$"
  SCHEME_ATTRACTION:0 "[target.GetFirstName]はあなたを魅力的に感じている: $VALUE|0=-+$"
- SCHEME_WITCH_COVEN:0 "You are in a Witch Coven: $VALUE|0=-+$"
+ SCHEME_WITCH_COVEN:0 "魔女の集会に所属している: $VALUE|0=-+$"
  SCHEME_HOOK_USED:0 "[hook|E]が使われた: $VALUE|+0=$"
  SCHEME_WEAK_HOOK_USED:0 "[weak_hook|E]が使われた: $VALUE|+0=$"
  SCHEME_STRONG_HOOK_USED:0 "[strong_hook|E]が使われた: $VALUE|+0=$"

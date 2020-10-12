@@ -280,7 +280,7 @@
  GENERIC_HOOK_VALID:1 "You use a [hook|E] to make sure [recipient.GetShortUINameNoTooltip] accepts"
  GENERIC_HOOK_INVALID:1 "[recipient.GetShortUINameNoTooltip]に対する[hook|E]を持っていません"
  GENERIC_HOOK_POSITIVE_REASON:0 "[hook|E]が使われた: $VALUE|=+0$"
- DIVORCE_INCESTUOUS:0 "Marriage is incestuous: $VALUE|=+0$"
+ DIVORCE_INCESTUOUS:0 "近親婚である: $VALUE|=+0$"
  DIVORCE_INFERTILE:0 "[secondary_recipient.GetShortUINameNoTooltip]が子供をあなたに与える可能性は低い: $VALUE|=+0$"
  DIVORCE_IMPOTENT_EUNUCH:0 "[secondary_recipient.GetShortUINameNoTooltip]は[GetTrait('eunuch').GetName( secondary_recipient.Self )]である: $VALUE|=+0$"
  DIVORCE_HEATHEN:0 "[secondary_recipient.GetShortUINameNoTooltip]は異なる[religion|E]である: $VALUE|=+0$"
