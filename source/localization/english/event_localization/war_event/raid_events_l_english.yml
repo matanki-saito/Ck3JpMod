@@ -17,7 +17,7 @@
  raiding.0003.c:0 "We will rebuild [sacked_county.GetNameNoTierNoTooltip]."
  raiding.0004.desc.admin_plundered:0 "[sacked_county_owner.GetTitledFirstName] has paid the price for [raider.GetTitledFirstNamePossessive] avarice. With the fall of the settlement of [sacked_barony.GetNameNoTierNoTooltip], swathes of greater [sacked_county.GetNameNoTierNoTooltip] are left undefended. \n\nUnopposed, the [raider.GetPrimaryTitle.GetAdjectiveNoTooltip] raiders have run rampant, kidnapping and enslaving every skilled worker they can find."
  raiding.0004.desc.gold_plundered:0 "[sacked_barony.GetNameNoTierNoTooltip]の居留地が[raider.GetTitledFirstNameNoTooltip]に落ちたことで、[sacked_county.GetNameNoTierNoTooltip]は広範囲にわたって、[raider.GetPrimaryTitle.GetAdjectiveNoTooltip]の略奪者が大暴れして無防備となってしまった。\n\nその地方には賊に対抗できる規模の大きな要塞はほとんど残っていなかったので、略奪者たちは見つけることのできるすべての貴重な財宝と銀塊を持ち去っていった。"
- raiding.0004.desc.spared_plundered:0 "Despite successfully besieging the settlement of [sacked_barony.GetNameNoTierNoTooltip], a fortification protecting swathes of greater [sacked_county.GetNameNoTierNoTooltip], [raider.GetTitledFirstName] has restrained [raider.GetHerHis] troops. The resulting looting has been isolated and sporadic.\n\nThough your vassal has been spared, the [raider.GetPrimaryTitle.GetAdjectiveNoTooltip] eye your personal domains hungrily..."
+ raiding.0004.desc.spared_plundered:0 "[sacked_barony.GetNameNoTierNoTooltip]の集落を包囲することに成功したにもかかわらず、より大きな[sacked_county.GetNameNoTierNoTooltip][raider.GetTitledFirstName]の土地を守る要塞が[raider.GetHerHis]の軍隊を抑えている。その結果、略奪行為は孤立して、散発的に発生している。\n\nあなたの家臣は助かったが、[raider.GetPrimaryTitle.GetAdjectiveNoTooltip]はあなた個人の領土を貪欲に見ている..."
  raiding.0004.a:0 "このうんざりするほどお節介な野蛮人どもを呪ってやる！"
  raiding.0004.b:0 "失った物に補償金を払おう。"
  raiding.0004.c:0 "Help them to rebuild."

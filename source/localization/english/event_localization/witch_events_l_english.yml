@@ -152,7 +152,7 @@
  witch.3016.end.desc:0 "[sex_partner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]というおなじみの声が私を呼び、振り返って[sex_partner.GetHerHis]の視線に出会うと、すべてがうまくいく。私たち二人…[ROOT.Char.GetFaith.WitchGodHerHis|U]。私たちは一緒にいる運命だ。"
  witch.3016.a:0 "Forever."
  witch.3016.b:0 "I... I'm not ready for this."
- witch.3017.end.desc:0 "[sex_partner.GetFirstName]がどこへ行ったのかは見ていませんが、私は必要ない。アイロンをかけるロデストンのように[sex_partner.GetHerHim]に惹かれる。[sex_partner.GetHerHim]を見つけたとき、[sex_partner.GetHerHis]の美しい目には驚きがない―愛と欲望だけだ。"
+ witch.3017.end.desc:0 "[sex_partner.GetFirstName]がどこへ行ったのかは見ていませんが、私は必要ない。アイロンをかけるロデストンのように[sex_partner.GetHerHim]に惹かれる。[sex_partner.GetHerHim]を見つけたとき、[sex_partner.GetHerHis]の美しい目には驚きがない――愛と欲望だけだ。"
  witch.3017.a:0 "How I have longed for you."
  witch.3017.b:0 "I... forgot something! Sorry!"
  witch.3098.t:0 "$activity_witch_ritual$: Until Next Time"

@@ -55,7 +55,7 @@
  chancellor_task.3102.a:0 "これを正す時がきた！"
  chancellor_task.3102.c:1 "放っておこう。今のところはな…"
  chancellor_task.3003.t:0 "権威の喪失"
- chancellor_task.3003.desc:0 "どうやら[councillor.GetCouncilTitle]がいくら働いても―本当に働いているとするならば！―十分ではないようだ。\n\n[councillor.GetTitledFirstNamePossessive]の監視がありながらも私の封臣は自由気ままに行動しており、どのような事項に対しても、私の賛意を得ようなど考えていないようだ。"
+ chancellor_task.3003.desc:0 "どうやら[councillor.GetCouncilTitle]がいくら働いても―本当に働いているとするならば！――十分ではないようだ。\n\n[councillor.GetTitledFirstNamePossessive]の監視がありながらも私の封臣は自由気ままに行動しており、どのような事項に対しても、私の賛意を得ようなど考えていないようだ。"
  chancellor_task.3003.a:0 "私の手から権力が滑り落ちていく心地だ…"
  chancellor_task.3003.notification:0 "[councillor.GetCouncilTitle]は封臣の扱いに失敗した"
  chancellor_task.3103.desc:0 "私は数週間前からあなたの[councillor.GetCouncilTitle]である[councillor.GetTitledFirstName]をもてなしてきましたが、[councillor.GetSheHe]のおかげで、私は真にあなたの支配下にあることの素晴らしさを理解することができました。\n\n私はあなたの家臣として仕えることを光栄に思います！"

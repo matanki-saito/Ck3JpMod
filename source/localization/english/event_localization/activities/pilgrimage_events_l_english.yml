@@ -53,7 +53,7 @@
  pilgrimage.2001.b.failure_title:0 "荷馬車が燃えている！"
  pilgrimage.2001.c:0 "この狂気を止めろ！欲しいだけ支払ってやるから！"
  pilgrimage.2002.t:0 "$pilgrimage_header$ 隣人を愛す"
- pilgrimage.2002.desc:0 "仲間の巡礼者の中には、慈悲や親睦を説く[dummy_gender.GetWomanMan]がいる―[dummy_gender.GetSheHe]が異教徒の話題になるまでは。\n\nある晩、キャンプファイヤーを囲んで、[dummy_gender.GetSheHe]は大声で「[ROOT.Char.GetFaith.PantheonTerm]の目には忌まわしい怪物がいる！皆、逸脱者と子供殺しだ！」と宣言する。[dummy_gender.GetSheHe]が彼らを見ると、ほとんどの人は目をそむける。今宵の私は素早く対応できなかった。「同意しないのか、[ROOT.Char.GetTitleAsNameNoTooltip]？」"
+ pilgrimage.2002.desc:0 "仲間の巡礼者の中には、慈悲や親睦を説く[dummy_gender.GetWomanMan]がいる――[dummy_gender.GetSheHe]が異教徒の話題になるまでは。\n\nある晩、キャンプファイヤーを囲んで、[dummy_gender.GetSheHe]は大声で「[ROOT.Char.GetFaith.PantheonTerm]の目には忌まわしい怪物がいる！皆、逸脱者と子供殺しだ！」と宣言する。[dummy_gender.GetSheHe]が彼らを見ると、ほとんどの人は目をそむける。今宵の私は素早く対応できなかった。「同意しないのか、[ROOT.Char.GetTitleAsNameNoTooltip]？」"
  pilgrimage.2002.a:0 "彼らは#EMP それほど#!悪しき者たちではない。"
  pilgrimage.2002.b:0 "賛同する、そして彼らの弁護に来た人は誰も信用しない！"
  pilgrimage.2002.c:0 "真実だ！彼らは[ROOT.Char.GetFaith.HighGodName]の顔に唾を吐いている！"

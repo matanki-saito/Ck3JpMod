@@ -344,7 +344,7 @@
  create_israel_kingdom_decision_effect_tooltip:0 "イスラエル王国は復興されます"
  jewish_restore_high_priesthood_decision:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の大祭司制度の復興"
  jewish_restore_high_priesthood_decision_confirm:0 "新たな宗教指導者を確立する"
- jewish_restore_high_priesthood_decision_desc:0 "[ROOT.Char.GetFaith.ReligiousHeadName]の職 — ユダヤ教の大祭司 — は、ローマによる第二神殿の破壊以来空位のままである。しかし、十分に古くからの聖地に対する支配を回復し得るのであれば、新たな大司祭を立ててもよいだろう。"
+ jewish_restore_high_priesthood_decision_desc:0 "[ROOT.Char.GetFaith.ReligiousHeadName]の職 —— ユダヤ教の大祭司 —— は、ローマによる第二神殿の破壊以来空位のままである。しかし、十分に古くからの聖地に対する支配を回復し得るのであれば、新たな大司祭を立ててもよいだろう。"
  jewish_restore_high_priesthood_decision_tooltip:0 "[ROOT.Char.GetFaith.GetAdjective]の祭司制度が再確立されます。"
  restore_high_priesthood_decision_tooltip:0 "[ROOT.Char.GetFaith.GetAdjective]の祭司制度が再確立されます。"
  restore_high_priesthood_decision_effect_tooltip:0 "[THIS.Char.GetFaith.GetAdjective]の祭司制度が再確立されます"

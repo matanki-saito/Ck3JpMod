@@ -1,6 +1,6 @@
 ﻿l_english:
  intrigue_temptation.2201.t:0 "睦言"
- intrigue_temptation.2201.desc:0 "ついこの間の情事のあと、[my_lover.GetFirstName]と私はともに横になりながら、他愛もない会話をした。\n\n「それに、あなたは信じないでしょうけれども―」[my_lover.GetSheHe]は突然言葉を止め、顔を赤らめた。「ごめんなさい、愛しい人。退屈な思いをさせてしまって…」"
+ intrigue_temptation.2201.desc:0 "ついこの間の情事のあと、[my_lover.GetFirstName]と私はともに横になりながら、他愛もない会話をした。\n\n「それに、あなたは信じないでしょうけれども――」[my_lover.GetSheHe]は突然言葉を止め、顔を赤らめた。「ごめんなさい、愛しい人。退屈な思いをさせてしまって…」"
  intrigue_temptation.2201.a:0 "そんなことはない。どうか、もっと聞かせておくれ…"
  intrigue_temptation.2201.a.success:0 "[my_lover.GetFirstName]は[court_owner.GetTitledFirstNamePossessive]の宮廷の噂を教えてくれた"
  intrigue_temptation.2201.a.success.tt:0 "私はランダムな人物の[secret|E]を耳にした"
@@ -28,7 +28,7 @@
  intrigue_temptation_special.1003.personality_success.desc:0 "案の定、[wants_love.GetSheHe]は[wants_love.GetHerHis]自身とよく似た性格の人を好む。"
  intrigue_temptation_special.1003.personality_failure.desc:0 "勘違いしていた。[wants_love.GetSheHe|U]は性格をあまり気にしないようだ。[wants_love.GetSheHe|U]は力や魅力を求めるに違いない。"
  intrigue_temptation_special.1003.sex_appeal_success.desc:0 "[wants_love.GetSheHe|U]は、炎に飛び込む蛾のように、素晴らしいカリスマ性と美しさに引き寄せられてしまう。"
- intrigue_temptation_special.1003.sex_appeal_failure.desc:0 "勘違いしていた―[wants_love.GetSheHe|U]は容姿に恵まれた人と風采の地味な人の区別をしていないようだ。[wants_love.GetSheHe|U]は人柄を気にするのだろう…あるいはその力か。"
+ intrigue_temptation_special.1003.sex_appeal_failure.desc:0 "勘違いしていた――[wants_love.GetSheHe|U]は容姿に恵まれた人と風采の地味な人の区別をしていないようだ。[wants_love.GetSheHe|U]は人柄を気にするのだろう…あるいはその力か。"
  intrigue_temptation_special.1003.power_success.desc:0 "やはり、[wants_love.GetSheHe]は宮廷でも影響力のある貴族や貴婦人の集まりを好むようだ。"
  intrigue_temptation_special.1003.power_failure.desc:0 "勘違いしていた。[wants_love.GetSheHe|U]は身分の高い者も低い者も気にせず相手にする。[wants_love.GetHerHim]が興味を抱くのは、権力以外のなにかであるはずだ――性格が似ている？　あるいは、颯爽とした外見？"
  intrigue_temptation_special.1003.end.desc:0 "\n\n[wants_love.GetFirstNamePossessiveNoTooltip]の望みが少しわかってきたので、私はふさわしいと思われる人物のリストを作成してみた。我が[ROOT.GetCharacter.Custom2('RelationToMe' , wants_love )]にもっともふさわしいのは誰だろうか？"

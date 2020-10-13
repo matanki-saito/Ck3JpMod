@@ -2,7 +2,7 @@
  great_holy_war.0011.christian.t:0 "クルセイダーキングス―諸王達の十字軍―"
  great_holy_war.0011.muslim.t:0 "新たなるジハード"
  great_holy_war.0011.pagans.t:0 "古の神々の復讐"
- great_holy_war.0011.fallback.t:0 "Militant [awakening_faith.GetAdherentNamePlural]"
+ great_holy_war.0011.fallback.t:0 "好戦的な[awakening_faith.GetAdherentNamePlural]"
  great_holy_war.0011.catholic.rome.desc:0 "Rome, the city of Saint Peter and the very seat of the Papacy itself, has fallen to infidels. In response, the Pope-in-exile, [ghw_first_sponsor.GetHerHis|U] Holiness, [ghw_first_sponsor.GetTitledFirstName], has declared [ghw_first_sponsor.GetHerHis] intention to forge an alliance of Christian lords in order to reclaim the eternal city."
  great_holy_war.0011.christian.europe.desc:0 "西方教会の中心地が邪教徒の包囲下に置かれている！絶望的なキリスト教の諸侯たちは、[ghw_first_sponsor.GetHerHis|U]の神聖さをもって、異教徒を[awakening_faith.WarGodName]の名において追放するために正義の同盟を築くという[ghw_first_sponsor.GetHerHis]意志を宣言するように、[ghw_first_sponsor.GetTitledFirstName]を説得した。"
  great_holy_war.0011.christian.byzantion.desc:0 "東のローマ帝国、ビザンティウム。東方のムハンマドの異教徒に対する防壁...が陥落した。この悲惨な状況に[ghw_first_sponsor.GetTitledFirstName]聖下は、キリスト教合同軍による侵略の可能性を受け入れた。"

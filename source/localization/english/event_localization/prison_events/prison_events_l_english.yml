@@ -65,7 +65,7 @@
  prison.9002.desc_cockroach:0 "――私のゴキブリを放すとそれは守衛の足元へとカサカサと進んだ。[dummy_gender.GetSheHe]が驚き後ろに仰け反ると後頭部を壁に叩きつけることになった"
  prison.9002.desc_end:0 "、それからすぐ、わが信頼する[ROOT.Char.Custom('prison_pet')]とともに[imprisoner.GetTitledFirstNamePossessive]の[imprisoner.Custom('ResidenceBuilding')]周囲に広がる[imprisoner.Custom('TerrainType')]へと脱出した。"
  prison.9002.a:0 "我々は自由だ、[ROOT.Char.Custom('prison_pet')]！"
- prison.9003.desc:0 "[imprisoner.GetTitledFirstNamePossessive]の看守が背を向けるや否や、私と囚人仲間である[prison_friend.GetTitledFirstName]は攻撃を開始した。\n\n何日も監禁されていたため衰弱していた私は、看守の鉄の拳が胃に突き刺さると、たちまち圧倒され動けなくなってしまった。警備員は仕上げの一撃を準備しているが、 看守のナイフを持った[prison_friend.GetTitledFirstNameNoTooltip]が眼前に迫っている―私たちはすぐに動き出した。\n\n夜の中に紛れ込むと、私たちは互いに寄りかかりながら笑った。"
+ prison.9003.desc:0 "[imprisoner.GetTitledFirstNamePossessive]の看守が背を向けるや否や、私と囚人仲間である[prison_friend.GetTitledFirstName]は攻撃を開始した。\n\n何日も監禁されていたため衰弱していた私は、看守の鉄の拳が胃に突き刺さると、たちまち圧倒され動けなくなってしまった。警備員は仕上げの一撃を準備しているが、 看守のナイフを持った[prison_friend.GetTitledFirstNameNoTooltip]が眼前に迫っている――私たちはすぐに動き出した。\n\n夜の中に紛れ込むと、私たちは互いに寄りかかりながら笑った。"
  prison.9003.a:0 "われらは自由だ！"
  prison.9499.t:0 "脱出！"
  prison.9499.desc_house_arrest:0 "[escapee.GetTitledFirstName]が投獄から脱出した！"

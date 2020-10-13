@@ -4,7 +4,7 @@
  sex_scene_part_1_random:0 "[ROOT.Char.Custom2('sex_scene_part_1_random' , SCOPE.sC('second') )]"
  sex_scene.0001.t:0 "一緒に"
  sex_scene.0001.opening_1:1 "私は[second.GetHerHim]–[scope.GetHerHis]の体を抱きしめ、[second.GetHerHis]は私の耳に息を詰まらせた。"
- sex_scene.0001.opening_2:1 "肌と肌―互いに手を伸ばしても体の間に壁はない。"
+ sex_scene.0001.opening_2:1 "肌と肌――互いに手を伸ばしても体の間に壁はない。"
  sex_scene.0001.opening_3:1 "[second.GetHerHis|U]の目は、私の目を凝視し、私の体を引きずり、私の服が落ちるのを見て、欲望で燃えている。"
  sex_scene.0001.opening_4:1 "[second.GetSheHe]が私の[ROOT.GetCharacter.Custom('GetClothingArticle')]の紐を解いて、「どんな気持ちか見せて」と[second.GetSheHe]が息を荒くしながら囁く。"
  sex_scene.0001.opening_5:0 "滑らかな肌が布から解放されると、突然、強い欲望の波が私の中に押し寄せてくる。"
