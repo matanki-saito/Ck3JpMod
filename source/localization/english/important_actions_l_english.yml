@@ -101,7 +101,7 @@
  action_above_domain_limit_click:0 "#I クリックで称号を表示#!"
  action_above_vassal_limit:0 "[vassal_limit|E]超過"
  action_above_vassal_limit_label:0 "[vassal_limit|E]超過"
- action_above_vassal_limit_desc:1 "[actor.GetVassalLimitOverrun|V][direct_vassals|E]が封臣制限[actor.GetVassalLimit|V]人を超過しているため、[vassals|E]からの[taxes|E]と[levies|E]が減少します。\n#help それぞれの[ruler|E]はある程度の人数の直臣しか制御できません。封臣を直臣として持つ代わりに他の封臣に管理させることができます。これを行うには、一人の封臣を別の封臣に割り当てます。#!"
+ action_above_vassal_limit_desc:1 "[direct_vassals|E]が封臣制限の[actor.GetVassalLimit|V]人を[actor.GetVassalLimitOverrun|V]人超過しているため、[vassals|E]からの[taxes|E]と[levies|E]が減少します。\n#help それぞれの[ruler|E]はある程度の人数の直臣しか制御できません。封臣を直臣として持つ代わりに他の封臣に管理させることができます。これを行うには、一人の封臣を別の封臣に割り当てます。#!"
  action_above_vassal_limit_click:0 "#I クリックで封臣を表示#!"
  action_too_many_held_duchies_combined_group_label:1 "多すぎる公爵領"
  action_too_many_held_duchies_label: "$action_too_many_held_duchies_combined_group_label$"

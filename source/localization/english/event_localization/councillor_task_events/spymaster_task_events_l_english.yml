@@ -93,7 +93,7 @@
  spymaster_task.0399.b.counter:0 "私はそうだとは思わない。任務を続けなさい！"
  spymaster_task.0399.b.tt:0 "[councillor.GetFirstNameNoTooltip]に$task_find_secrets$を継続させる"
  spymaster_task.1001.t:0 "「事故」"
- spymaster_task.1001.desc:0 "[councillor.GetTitledFirstNamePossessive]の謝罪は本物のように#EMP 聞こえる#!が、このエラーは現実的に見て明らかにおかしなことのように思える。\n\n「我が主君、ご存知のように…」[councillor.GetCouncilTitle]は説明する「単に、間違った手紙を間違った使者によって送ってしまっただけの問題なのです。」[councillor.GetSheHe|U]は息を殺している。「そうやって証拠書類は消えてしまったのです。」"
+ spymaster_task.1001.desc:0 "[councillor.GetTitledFirstNamePossessive]の謝罪は本物のように#EMP 聞こえる#!が、この誤りは現実的に見て明らかにおかしなことのように思える。\n\n「我が主君、ご存知のように…」[councillor.GetCouncilTitle]は説明する「単に、間違った手紙を間違った使者によって送ってしまっただけの問題なのです。」[councillor.GetSheHe|U]は息を殺している。「そうやって証拠書類は消えてしまったのです。」"
  spymaster_task.1001.a:0 "[councillor.Custom('InsultNoun')]め！"
  spymaster_task.1001.b:0 "[councillor.GetFirstNameNoTooltip]よ、誰にでも間違いはある。"
  spymaster_task.1001.a.tt:1 "領国内の誰かがあなたの[secrets|E]の一つを知ります。\n\n"

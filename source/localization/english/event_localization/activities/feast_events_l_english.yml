@@ -20,7 +20,7 @@
  feast.2001.t:0 "$feast_header$ 陽気な祝宴"
  feast.2001.t_murder:0 "$feast_header$ 邪悪な祝宴"
  feast.2001.desc:0 "客人たちは大広間に集まり、領主や貴婦人たちは領国の隅々からやって来た。\n\n雰囲気は明るく、宴会が始まると気分は高揚した!\n"
- feast.2001.desc_murder_feast:0 "客が大広間に入ってくると、私は次々と彼らを見つける。[enemy_1.GetTitledFirstName]、[enemy_2.GetTitledFirstName]…すべてが私の敵ー領国の敵だ！\n\n召使たちが大きな暖炉に火を灯しているとき、私は突然ひらめいた。もし彼らの存在による惨劇を一度に浄化することができたとしたら？"
+ feast.2001.desc_murder_feast:0 "客が大広間に入ってくると、私は次々と彼らを見つける。[enemy_1.GetTitledFirstName]、[enemy_2.GetTitledFirstName]…すべてが私の敵—領国の敵だ！\n\n召使たちが大きな暖炉に火を灯しているとき、私は突然ひらめいた。もし彼らの存在による惨劇を一度に浄化することができたとしたら？"
  feast.2001.a:0 "ようこそ友よ！"
  feast.2001.a.tt:0 "饗宴が始まる"
  feast.2001.b:0 "彼らは皆、私の家の客人だ。危害を加えることはない。"

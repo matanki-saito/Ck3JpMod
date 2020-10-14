@@ -13,7 +13,7 @@
  sway_ongoing.1004.desc:0 "最近の文通にいくつかの所望しないことが書いてありました。今後はお互い個人的な発言はご遠慮させてください。"
  sway_ongoing.1004.a:0 "何てことだ…"
  sway_ongoing.1005.t:0 "懐柔: 善き[target.GetTitleAsNameNoTooltip]"
- sway_ongoing.1005.desc:0 "While hosting lords and ladies from realms near and far, some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], in a good light have presented themselves.\n\n\"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?\""
+ sway_ongoing.1005.desc:0 "近くや遠くの領国の領主たちをもてなす中で、彼らに対して[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を好意的に紹介する機会があった。\n\n「我が[ROOT.Char.GetLadyLord]、教えてください。あなたが聞き知った中で最も[target.Custom('FormalComplimentAdjective')]人物はどなたでしょう？」"
  sway_ongoing.1005.a:0 "間違いなく[target.GetTitledFirstNameNoTooltip]だ！"
  sway_ongoing.1005.b:0 "もちろん、私です！"
  sway_ongoing.1006.t:0 "懐柔: 浸透工作"

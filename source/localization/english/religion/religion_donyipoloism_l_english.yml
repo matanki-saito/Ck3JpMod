@@ -1,9 +1,9 @@
 ﻿l_english:
- tani_religion:0 "タニ信仰"
- tani_religion_adj:0 "Tani"
+ tani_religion:0 "タニ原始宗教"
+ tani_religion_adj:0 "タニ原始宗教"
  tani_religion_adherent:0 "タニ信徒"
  tani_religion_adherent_plural:0 "タニ信徒"
- tani_religion_desc:0 "タニ・ローバ族とその近隣住民の宗教は、至高の存在として崇拝されている自然神の二元性を重視している。タニ族にとっての二元神とは、太陽の女神 ドニと月の神 ポロである。"
+ tani_religion_desc:0 "タニ・ローバ族とその近隣住民の宗教は、至高の存在として崇拝されている自然神の二元性を重視している。タニ族にとっての二元神とは、太陽の女神ドニと月の神ポロである。"
  tani_high_god_name:0 "ドニポロ信仰"
  tani_high_god_name_possessive:0 "ドニポロ信仰の"
  tani_high_god_shehe:0 "彼ら"

@@ -66,7 +66,7 @@
  pilgrimage.2004.a:0 "我々は[ROOT.Char.GetFaith.PantheonTerm]によって引き合わされたのだ！"
  pilgrimage.2004.b:0 "めでたい出会いだが、私は一人で祈らなければならない。"
  pilgrimage.2005.t:0 "$pilgrimage_header$ 失礼な話"
- pilgrimage.2005.desc:0 "焚き火のそばを通りかかった旅人の一人が、[dummy_peasant_gender.GetSheHe]がかつて聞いたことのある[ROOT.Char.GetTitleAsNameNoTooltip]に関するいくつかの話を大笑いしながら話している。私が近づくと、彼らは皆黙り込んでしまうー語り部を除いて。\n\n「ああ、ご心配なく、[ROOT.Char.GetLadyLord]、あなたはこの物語の[ROOT.Char.Custom('InsultNoun')]とは全く違いますよ！それは[title.GetNameNoTierNoTooltip]と言うどこか遠く離れた場所の[ROOT.Char.GetTitleAsNameNoTooltip]に関することです。」"
+ pilgrimage.2005.desc:0 "焚き火のそばを通りかかった旅人の一人が、[dummy_peasant_gender.GetSheHe]がかつて聞いたことのある[ROOT.Char.GetTitleAsNameNoTooltip]に関するいくつかの話を大笑いしながら話している。私が近づくと、彼らは皆黙り込んでしまう—語り部を除いて。\n\n「ああ、ご心配なく、[ROOT.Char.GetLadyLord]、あなたはこの物語の[ROOT.Char.Custom('InsultNoun')]とは全く違いますよ！それは[title.GetNameNoTierNoTooltip]と言うどこか遠く離れた場所の[ROOT.Char.GetTitleAsNameNoTooltip]に関することです。」"
  pilgrimage.2005.a:0 "「本当か？[ROOT.Char.GetTitleAsNameNoTooltip]についてもっと教えてくれ。」"
  pilgrimage.2005.a.flavor:0 "私は焚き火のそばに座る。"
  pilgrimage.2005.b:0 "「衛兵！鞭を持ってこい。」"

@@ -59,7 +59,7 @@
  yearly.4071.a:0 "[ROOT.Char.GetFaith.ReligiousText]の名において、私はそれをすべて学ぼう！"
  yearly.4071.b:0 "それらは廷臣たちに配ってやれ。"
  yearly.4081.t:0 "翻訳"
- yearly.4081.desc:0 "「我が[ROOT.Char.GetLadyLord]、地元の学者たちがギリシャ語からアラビア語に書物を翻訳する彼らの努力への後援を求めておりますーアラビア世界全体に恩恵をもたらす作業です！」\n\n[councillor.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、私が後援できる学者たちの一覧と、彼らが現在取り組んでいる書物を持ってきた。"
+ yearly.4081.desc:0 "「我が[ROOT.Char.GetLadyLord]、地元の学者たちがギリシャ語からアラビア語に書物を翻訳する彼らの努力への後援を求めております—アラビア世界全体に恩恵をもたらす作業です！」\n\n[councillor.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、私が後援できる学者たちの一覧と、彼らが現在取り組んでいる書物を持ってきた。"
  yearly.4081.a:0 "#EMP マテリア・メディカ#!か…面白そうだ！"
  yearly.4081.a.tt:0 "あなたは医学に関する本の翻訳を後援します"
  yearly.4081.b:0 "Oh, this one! #EMP On Ascensions#!."

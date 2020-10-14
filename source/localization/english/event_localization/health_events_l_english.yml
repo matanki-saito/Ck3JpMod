@@ -1,7 +1,7 @@
 ﻿l_english:
  set_court_physician_effect.tt:0 "[THIS.Char.GetShortUIName]が[court_physician|E]に就任します"
- fire_court_physician_effect.tt:0 "[THIS.Char.GetShortUIName]は[court_physician|E]ではなくなった"
- invalidate_physician_effect.t:1 "[invalidated_physician.GetShortUINameNoTooltip|U]は侍医ではなくなった"
+ fire_court_physician_effect.tt:0 "[THIS.Char.GetShortUIName]は[court_physician|E]ではなくなります"
+ invalidate_physician_effect.t:1 "[invalidated_physician.GetShortUINameNoTooltip|U]は侍医ではなくなります"
  health.0001.desc:0 "傷は癒えた"
  health_wounded_title:0 "負傷:"
  health.0002.t:1 "$health_wounded_title$ 回復"

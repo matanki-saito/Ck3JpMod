@@ -78,7 +78,7 @@
  PLAYER_OBSERVER:0 "[GetPlayer.GetShortUINameNotMeNoTooltip]として観察中([SelectLocalization(GetPlayer.IsPlayer, 'OBSERVER_PLAYER_NAME', 'OBSERVER_AI')])"
  OBSERVER_PLAYER_NAME:0 "Played by [GetPlayer.PlayerName]"
  OBSERVER_AI:0 "AI"
- END_OF_COMBAT_CONTRIBUTION_TOOLTIP:0 "#T War Contribution changed by #V [BattleSummaryWindow.GetCombatResultData.GetWarContribution( GetPlayer )|=]#!#!"
+ END_OF_COMBAT_CONTRIBUTION_TOOLTIP:0 "#T 戦争貢献度が次のように変化しました#V [BattleSummaryWindow.GetCombatResultData.GetWarContribution( GetPlayer )|=]#!#!"
  CHARACTER_LOCATION_TOOLTIP:0 "[Character.GetCurrentLocation.GetName]に滞在"
  CHARACTER_IMPRISONED_TOOLTIP:0 "[Character.GetImprisonedBy.GetUIName]によって[imprisoned|E]されている"
  CHARACTER_BIRTH_NAME_TOOLTIP:0 "出生時の名前: [Character.GetOriginalFirstName]"

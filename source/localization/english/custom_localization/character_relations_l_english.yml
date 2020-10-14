@@ -90,7 +90,7 @@
  TRAIT_DESC_CRIME_FOR_LIEGE:0 "[crime_i]これは[TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip][liege|E]である[CHARACTER.GetShortUIName]（[CHARACTER.GetFaith.GetAdjective]）に対する[crime|E]です。"
  TRAIT_DESC_CRIME_FOR_THEM:0 "[crime_i]これは[CHARACTER.GetShortUINameNoTooltip] ([CHARACTER.GetFaith.GetAdjective])の[crime|E]である。"
  TRAIT_DESC_SHUNNED_FOR_LIEGE:0 "[crime_i] This is [shunned|E] by [CHARACTER.GetShortUIName], [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] [liege|E] ([CHARACTER.GetFaith.GetAdjective])"
- TRAIT_DESC_SHUNNED_FOR_THEM:0 "[crime_i] This is [shunned|E] to [CHARACTER.GetShortUINamePossessiveNoTooltip] faith ([CHARACTER.GetFaith.GetAdjective])"
+ TRAIT_DESC_SHUNNED_FOR_THEM:0 "[crime_i] これは[CHARACTER.GetShortUINamePossessiveNoTooltip]の信仰では[shunned|E]される ([CHARACTER.GetFaith.GetAdjective])"
  TRAIT_DESC_POSITIVE_FOR_LIEGE:0 "[crime_i] This is liked by [CHARACTER.GetShortUIName], [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] [liege|E] ([CHARACTER.GetFaith.GetAdjective])"
  TRAIT_DESC_POSITIVE_FOR_THEM:0 "[crime_i] This is liked by [CHARACTER.GetShortUINamePossessiveNoTooltip] faith ([CHARACTER.GetFaith.GetAdjective])"
  HOOK_WITH_SECRET:0 "$HOOK$ ($SECRET$)"

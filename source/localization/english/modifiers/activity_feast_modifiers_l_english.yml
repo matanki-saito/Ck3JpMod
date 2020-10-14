@@ -20,7 +20,7 @@
  feast_had_good_fight_modifier:0 "いい勝負だった"
  feast_loyal_servantry_modifier:0 "忠実な従士"
  i_am_corteous_guest_modifier:0 "礼儀正しい客人"
- i_am_corteous_guest_modifier_desc:1 "This character is exceptionally courteous and considerate of their host, wherever they may be."
+ i_am_corteous_guest_modifier_desc:1 "この人物は非常に礼儀正しく、いつも主催者を気遣っています。"
  feast_higher_standards_modifier:0 "高水準の礼儀作法"
  feast_higher_standards_modifier_desc:0 "貴族の手に余る事柄は色々と存在する。"
  feast_scholarly_confidence_modifier:0 "学術的な信頼"

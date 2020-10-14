@@ -181,7 +181,7 @@
  SCHEME_MY_OPINION_OF_YOU:0 "あなたへの評価: $VALUE|+0=$"
  SCHEME_ENERGY:0 "I have no energy: $VALUE|+0=$"
  SCHEME_NOTHING_TO_GAIN:0 "得るものが何もない: $VALUE|+0=$"
- SCHEME_I_MUST_TAKE_VENGEANCE:0 "私は[target.GetShortUINameNoTooltip]に復習しなければならない！: $VALUE|+0=$"
+ SCHEME_I_MUST_TAKE_VENGEANCE:0 "私は[target.GetShortUINameNoTooltip]に復讐しなければならない！: $VALUE|+0=$"
  SCHEME_GET_RID_OF_UNRULY_CLAIMANT:0 "This will rid me of an unruly [claimant|E]: $VALUE|+0=$"
  SCHEME_AGAINST_SPOUSE_POSITIVE:0 "私の配偶者はそれに値する: $VALUE|+0=$"
  SCHEME_SOCIAL_CLIMBER_RANK_BONUS:0 "[target.GetFirstName]はこれを好機と捉えている: $VALUE|0=-+$"

@@ -51,7 +51,7 @@
  yearly.3013.desc:0 "足をさっと動かしたり、腕を回したりしている割に、[liege.GetTitledFirstName]は、[vassal.GetTitledFirstName]と私が饗宴のために雇った踊り子たちにはあまり感動していないようだ。[liege.GetTitleAsNameNoTooltip]は我々のために、彼らの献身に笑顔で耳を傾けはするものの、すぐに[liege.GetHerHis]の注意を食べ物へと戻してしまう。\n\n[vassal.GetFirstName]は不安そうな顔をしているが、[liege.GetFirstName]は十分に満足してはいるようだ。"
  yearly.3013.a:0 "Either way, we will look after each other."
  yearly.3013.b:0 "少なくとも我々は最善は尽くした。"
- yearly.3014.desc:0 "[vassal.GetTitledFirstName]と私が雇った踊り子は大失敗だ。揺れて飛び跳ねている姿は、約束された優雅な見せ物というよりも、喜劇の一団のように見える。[liege.GetTitledFirstName]も、[liege.GetHerHis]の夕食を途中で邪魔され、喜んでいるようには見えない。\n\n\nこれが交渉したのと同じ一団ではないことに気づけるのは、我々への献身の時しかない！一体誰がこんなー[nemesis.GetTitledFirstName]か！"
+ yearly.3014.desc:0 "[vassal.GetTitledFirstName]と私が雇った踊り子は大失敗だ。揺れて飛び跳ねている姿は、約束された優雅な見せ物というよりも、喜劇の一団のように見える。[liege.GetTitledFirstName]も、[liege.GetHerHis]の夕食を途中で邪魔され、喜んでいるようには見えない。\n\n\nこれが交渉したのと同じ一団ではないことに気づけるのは、我々への献身の時しかない！一体誰がこんな—[nemesis.GetTitledFirstName]か！"
  yearly.3014.a:0 "これを台無しにした悪党について教えてやろう、[vassal.GetFirstNameNoTooltip]。"
  yearly.3014.b:0 "これは我々のせいではない、[vassal.GetFirstNameNoTooltip]。"
  yearly.3021.t:0 "[deathbed_character.GetHerHis|U]の死の床で"
