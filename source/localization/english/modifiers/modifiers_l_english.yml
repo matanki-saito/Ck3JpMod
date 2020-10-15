@@ -341,7 +341,7 @@
  neighbor_allied_province_modifier:0 "近隣の同盟者の領土"
  enemy_province_modifier:0 "敵の領土"
  parliamentary_bureaucracy_modifier:0 "議会官僚機構"
- parliamentary_bureaucracy_modifier_desc:0 "成文化された広大な法律のセットは、この領地に住んでいる３つの身分の人々を組織し、権限を与えている。"
+ parliamentary_bureaucracy_modifier_desc:0 "成文化された広大な法律のセットは、この領地に住んでいる三つの身分の人々を組織し、権限を与えている。"
  flourishing_culture_modifier:0 "繁栄している文化"
  flourishing_culture_modifier_desc:0 "This Holding is experiencing a boon of population, wealth and art."
  hungarian_resettlement_modifier:0 "キリスト教徒の入植者"

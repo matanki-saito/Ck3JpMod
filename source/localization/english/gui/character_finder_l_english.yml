@@ -1,5 +1,5 @@
 ﻿l_english:
  CHARACTER_FINDER_COUNT:1 "[CharacterSelectionList.GetTotalNumber]人中[Select_CString( LessThan_int32( CharacterSelectionList.NumberOfShownCharacters, CharacterSelectionList.GetTotalNumber ), '#high', '#low' )] [CharacterSelectionList.NumberOfShownCharacters]人#!"
- CHARACTER_FINDER_TITLE:0 "Character Finder"
+ CHARACTER_FINDER_TITLE:0 "人物検索"
  SORT_MILITARY_STRENGTH:0 "軍事力"
  CHARACTER_FINDER_FILTER_SET:0 "#T いくつかのフィルタは初期値以外に設定されています#!"

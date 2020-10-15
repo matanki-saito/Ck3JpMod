@@ -128,7 +128,7 @@
  court_ongoing.1050.a:0 "それを売ってくれる商人がいるはずだ。"
  court_ongoing.1050.b:0 "「あなたのために廃墟へ向かう！」"
  court_ongoing.1050.b.success:0 "廃墟の中でランを見つける"
- court_ongoing.1050.b.soft_failure:0 "１日中探したが何も見つからない"
+ court_ongoing.1050.b.soft_failure:0 "一日中探したが何も見つからない"
  court_ongoing.1050.b.hard_failure:0 "塔に登って怪我をする"
  court_ongoing.1050.b.friend.success:0 "[helpful_friend.GetShortUIName|U] finds an orchid in the ruins"
  court_ongoing.1050.b.friend.soft_failure:0 "[helpful_friend.GetShortUIName|U] finds nothing"

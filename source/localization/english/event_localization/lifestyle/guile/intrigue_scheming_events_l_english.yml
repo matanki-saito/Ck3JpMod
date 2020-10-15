@@ -247,7 +247,7 @@
  intrigue_scheming_special.1002.desc:0 "何日もかかったが、ついに[courtier_spy.GetSheHe]が一人でいる時に、 #EMP 偶然にも #! [courtier_spy.GetTitledFirstName]に出くわした。「[courtier_spy.GetLadyLord|U][courtier_spy.GetTitledFirstNameNoTooltip]、私はずっと…」\n「もしあなたが部屋に入った所で、皿を落とした若い給仕に怒鳴っている配偶者を見つけたら、あなたならどうする？」\n\n[courtier_spy.GetSheHe]は私を試しているのか？私たちには共通点がたくさんあることを [courtier_spy.GetHerHim]に納得させるチャンスなのかもしれない。"
  intrigue_scheming_special.1002.a:0 "給仕が罰せられるのは当然だろう。"
  intrigue_scheming_special.1002.b:0 "誰でも間違いを犯すのだから、給仕を許す。"
- intrigue_scheming_special.1002.c:0 "何があったのか２人から話を聞くべきだ。"
+ intrigue_scheming_special.1002.c:0 "何があったのか二人から話を聞くべきだ。"
  intrigue_scheming_special.1002.d:0 "私がいなくても、彼らはよりうまく処理できるはずだ。"
  intrigue_scheming_special.1002.e:0 "対話を促すことで、ほとんどの問題は解決する。"
  intrigue_scheming_special.1002.f:0 "争いごとか？私ならさっさと出て行く。"

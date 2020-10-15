@@ -7,5 +7,5 @@
  CANT_COMMAND_REASON_COMMANDING:0 "  -別の軍勢を指揮している"
  CANT_COMMAND_REASON_CHILD:0 "  -成人ではない"
  CANT_COMMAND_REASON_IN_ACTIVITY:0 "  -Is busy with an activity"
- CANT_COMMAND_REASON_NOT_POTENTIAL:0 "  -Does not take orders from the Army owner"
+ CANT_COMMAND_REASON_NOT_POTENTIAL:0 "  -軍の所有者からの命令を受け付けません"
  CANT_COMMAND_REASON_AT_WAR:0 "  -[TARGET_CHARACTER.GetUIName]に対する戦争中である"

@@ -308,7 +308,7 @@
  stewardship_domain_special.1500.quality_decrease.tt:0 "調査の品質が#N 低下#!します"
  stewardship_domain_special.1500.quality_based_taxes:0 "完了した調査の品質に基づき"
  stewardship_domain_special.1500.every_county_control:0 "[control|E]は調査品質に応じて上昇する。"
- stewardship_domain_special.1500.every_county_summary:0 "#V ５年間#!、比例して高い[holding|E]の税金を与えます。"
+ stewardship_domain_special.1500.every_county_summary:0 "#V 五年間#!、比例して高い[holding|E]の税金を与えます。"
  stewardship_domain_special.1500.survey_not_completed:0 "調査が完了しなければ"
  stewardship_domain_special.1501.desc:0 "わが元帥[domesday_marshal.GetTitledFirstName]は調査員たちが山賊や、泥棒どもの優先目標になることを心配している。完了前の調査でも犯罪者どもには、襲撃目標の候補として貴重な情報になる！\n\nわが配下の安全を守るため、調査員たちに武装した護衛を配するよう[domesday_marshal.GetFirstNameNoTooltip]が提案している。"
  stewardship_domain_special.1501.a:0 "我が法の下、配下たちには有効な保護が与えられている！"

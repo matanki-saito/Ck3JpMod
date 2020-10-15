@@ -3,7 +3,7 @@
  AI_PERSONALITY_NEUTRAL:0 "バランス型"
  AI_PERSONALITY_TOOLTIP:0 "#T 性格\n#!キャラクターの選択は、性格によって影響されます。性格は主に[traits|E]によって決定されます。\n\nプレイヤーがコントロールしているキャラクターについては、性格は無効化されます。"
  AI_PERSONALITY_IS_PLAYER_TOOLTIP:0 "#T 性格\n#!このキャラクターは他のプレイヤーによって操作されています。"
- honor_noun:0 "優しい[Select_CString( CHARACTER.IsFemale, 'woman', 'man' )]"
+ honor_noun:0 "優しい[Select_CString( CHARACTER.IsFemale, '女', '男' )]"
  honor_adj:0 "高潔な"
  honor_neg_noun:0 "ならず者"
  honor_neg_adj:0 "不名誉な"

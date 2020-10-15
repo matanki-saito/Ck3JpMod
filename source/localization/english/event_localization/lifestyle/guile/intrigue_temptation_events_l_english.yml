@@ -106,7 +106,7 @@
  intrigue_temptation.3010.a.failure:0 "[bar_servant.GetFirstNameNoTooltip]は私の誘いに乗らない"
  intrigue_temptation.3010.b.success:0 "[bar_servant.GetFirstNameNoTooltip]は私のいいなりだ"
  intrigue_temptation.3011.help.desc:0 "私は[bar_servant.GetFirstName]が誘いを断るのを数え切れないほど見てきた。しかし、[wingman.GetTitledFirstNamePossessive]の紹介と落ち着いた物腰のおかげで、[bar_servant.GetSheHe]はすぐに心を開いてくれた。\n\n会話の流れは滑らかで――[bar_servant.Custom('bar_servant')]との共通点がこんなにあるとは思いもよらなかった！　[bar_servant.GetFirstNameNoTooltip]が[bar_servant.GetHerHis]の手を私の腕に添えて今夜の部屋について尋ねた時、私はようやく[wingman.GetFirstNameNoTooltip]がもう帰ったことに気づいた。二人部屋、[bar_servant.GetHerHis]の目がそう語っている。"
- intrigue_temptation.3011.alone.desc:0 "私は[bar_servant.GetFirstName]が数えきれないほどの進展を拒否するのを見てきた。小柄な[ROOT.Char.GetWomanMan]は怖がるかもしれないが、私は喜んで彼らの過ちを研究する機会を得た。覚悟はできている。\n\n会話はスムーズに流れ、まさか[bar_servant.Custom('bar_servant')]とこんなにも共通点があるとは思っていなかった。私が帰ろうと立ち上がると、[bar_servant.GetFirstNameNoTooltip]が私の腕に[bar_servant.GetHerHis]の手を置いて、一晩泊まる部屋が欲しいかどうか尋ねてきた。[bar_servant.GetHerHis]の目から判断すると、２人部屋のようだ。"
+ intrigue_temptation.3011.alone.desc:0 "私は[bar_servant.GetFirstName]が数えきれないほどの進展を拒否するのを見てきた。小柄な[ROOT.Char.GetWomanMan]は怖がるかもしれないが、私は喜んで彼らの過ちを研究する機会を得た。覚悟はできている。\n\n会話はスムーズに流れ、まさか[bar_servant.Custom('bar_servant')]とこんなにも共通点があるとは思っていなかった。私が帰ろうと立ち上がると、[bar_servant.GetFirstNameNoTooltip]が私の腕に[bar_servant.GetHerHis]の手を置いて、一晩泊まる部屋が欲しいかどうか尋ねてきた。[bar_servant.GetHerHis]の目から判断すると、二人部屋のようだ。"
  intrigue_temptation.3011.a:0 "一晩だけ？ #EMP 毎晩#!でもいいですよ？"
  intrigue_temptation.3011.b:0 "どうすればいいのか教えてくれ、[bar_servant.Custom('LoverPetName')]よ。"
  intrigue_temptation.3011.c:0 "嬉しいけど、ただ話したかっただけなのだ。"

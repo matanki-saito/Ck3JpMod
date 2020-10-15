@@ -461,7 +461,7 @@
  doctrine_monogamy_name:0 "単婚制"
  doctrine_monogamy_desc:0 "結婚は二者の聖なる絆である。そのような絆を一度に複数の人々と結ぼうとすることは冒涜である。"
  doctrine_polygamy_name:0 "複婚制"
- doctrine_polygamy_desc:0 "結婚は神聖な絆であるため、複数の結婚をすることは、ただ１つの結婚をすることよりも、明らかに神聖なものです。"
+ doctrine_polygamy_desc:0 "結婚は神聖な絆であるため、複数の結婚をすることは、ただ一つの結婚をすることよりも、明らかに神聖なものです。"
  doctrine_concubines_name:0 "配偶者と側室"
  doctrine_concubines_desc:0 "結婚は神聖な絆であるが、配偶者が優先される限りにおいて、側室を持つことも許される。"
  hostility_group_name:0 "Hostility Group"

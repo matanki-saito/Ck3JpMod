@@ -75,7 +75,7 @@
  learning_theology.3031.a:0 "どうして、自分は信仰問題とは関係ないなどと言えるのか。"
  learning_theology.3031.b:0 "[ROOT.Char.GetFaith.PantheonTerm]に祈りをささげるように#EMP なる#!だろう！"
  learning_theology.3031.b_tt:1 "$task_conversion$評議会任務の進行度増加"
- learning_theology.3031.b_tt2:0 "３０年間、[county.GetNameNoTooltip]の改宗が容易になります"
+ learning_theology.3031.b_tt2:0 "三十年間、[county.GetNameNoTooltip]の改宗が容易になります"
  learning_theology.3041.t:0 "神秘的知識"
  learning_theology.3041.desc:0 "古代の[ROOT.Char.GetFaith.DevoteeNeuterPlural]が[ROOT.Char.GetFaith.DivineRealm]と交信するためにトランス状態や幻覚をどのように使用していたかを記述した本に出くわした。\n\n現代では奇妙な習慣のように思えるが、彼らから学ぶべきことがあるかもしれないではないか？"
  learning_theology.3041.a:0 "彼らが実践したことを真似したらどうなるのだろう。"
