@@ -498,7 +498,7 @@
  avenge_the_battle_of_tours_decision_desc:0 "732年、トゥールへの途上でウマイヤ軍がフランク人に敗北した。状況が異なれば、ヨーロッパの全てが今日イスラム教の支配下にあっただろう。\n\n私は殉教者の仇を討ち、その夢を実現させる。"
  avenge_the_battle_of_tours_decision_confirm:0 "トゥール・ポワティエ間の戦いの報復"
  avenge_the_battle_of_tours_decision_tooltip:0 "殉教者の道を行軍し、過去の過ちを正す"
- every_non_avenger_faith_convert:1 "[avenger.GetFaith.GetName|V]へ改宗する"
+ every_non_avenger_faith_convert:1 "[avenger.GetFaith.GetName|V]へ改宗します"
  every_non_root_faith_vassal_west_europe:0 "西ヨーロッパのすべての非[THIS.Char.GetFaith.GetAdjective]の封臣またはそれ以下"
  every_non_root_faith_county_west_europe:1 "西ヨーロッパのあなたの領国内のすべての非[THIS.Char.GetFaith.GetAdjective]の伯爵領"
  form_portugal_decision:0 "ポルトガルを形成"

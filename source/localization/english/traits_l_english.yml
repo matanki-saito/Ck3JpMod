@@ -1,6 +1,6 @@
 ﻿l_english:
  ALREADY_CONTAINTS_TRAIT:0 "ID'$CHARACTER_ID$' の$CHARACTER_NAME$は既に特性$TRAIT_KEY$を保有している。"
- CONTAINTS_OPPOSITE_TRAIT:0 "Trait $TRAIT_KEY$ can't be added because $CHARACTER_NAME$ with id '$CHARACTER_ID$' already has the opposite trait $OPOSITE_KEY$"
+ CONTAINTS_OPPOSITE_TRAIT:0 "ID '$CHARACTER_ID$' の$CHARACTER_NAME$は既に真逆の特性$OPOSITE_KEY$を保有しているため、特性$TRAIT_KEY$を得ることが出来ない。"
  IS_POTENTIAL_TRAIT_FALSE:0 "特性$TRAIT_KEY$は$CHARACTER_NAME$が前提条件のID$CHARACTER_ID$を持っていないため、追加できない。"
  TRAIT_AGE_NOT_IN_RANGE:0 "ID$CHARACTER_ID$の$CHARACTER_NAME$の年齢$CHARACTER_AGE$は特性$TRAIT_KEY$を持てる年齢条件ではない。"
  trait_education_intrigue_1:0 "稚拙な陰謀家"

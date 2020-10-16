@@ -1,7 +1,7 @@
 ﻿l_english:
  faith_creation.1001.t.schism:0 "[reformed_faith.GetAdjectiveNoTooltip]の分裂(シスマ)"
  faith_creation.1001.t.reformation:0 "[reformed_faith.GetAdjectiveNoTooltip]の改革"
- faith_creation.1001.desc.schism:0 "A new schism within [reformed_faith.GetReligion.GetName] has occurred as [reformer.GetTitledFirstName] and [reformer.GetHerHis] followers have split off from the [old_faith.GetAdjective] faith to form a new religious movement."
+ faith_creation.1001.desc.schism:0 "[reformed_faith.GetReligion.GetName]とその信者たちが[old_faith.GetAdjective]信仰から離れて新しい宗教運動を形成するため、[reformed_faith.GetReligion.GetName]内で新たな分裂が発生した。"
  faith_creation.1001.desc.reformation:0 "[reformed_faith.GetAdherentNamePlural]の中で著名な[reformer.GetTitledFirstName]は、この地のすべての[reformer.Custom('DefaultPriestTitle')]を集め、自分たちの信仰について話し合い、異なる公式な教義を確立しました。"
  faith_creation.1001.desc.schism.personal:0 "[old_faith.GetAdjective][old_faith.AltPriestTermPlural]は迷走しており、もう我々を導いてくれるものでは無くなってしまった。これを改善するために、我々の信仰の将来について議論するため[reformer.Custom('DefaultPriestTitlePlural')]の選ばれたグループを集めた。"
  faith_creation.1001.desc.reformation.personal:0 "ついに私は、世界中の重要な[reformer.Custom('DefaultPriestTitle')]を一堂に集め、彼らと我々の信念について話し合い、その信念を未来に導く公式の教義を確立できるようにした。"
