@@ -147,7 +147,7 @@
  yearly.1041.hostile_scheme_agent_other.desc:0 "それは時間と場所、聞いたこと、見たことの一覧だ。個人的なこと…[suspicious.GetFirstNameNoTooltip]は、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('scheme_target'))][scheme_target.GetFirstName]に対する誰かの陰謀を手助けしている！"
  yearly.1041.hostile_scheme_agent_me.desc:0 "それは時間と場所、聞いたこと、見たことの一覧だ。私がしたこと、言ったことの！[suspicious.GetFirstNameNoTooltip]は私の行動を報告し、誰かの私に対する陰謀を手助けしている！"
  yearly.1041.secret_wicked.desc:0 "Well, well, well. How delightfully wicked. According to this blackmail letter, [suspicious.GetFirstNameNoTooltip] [secret.Custom('SecretDescriptionThirdPerson')]!"
- yearly.1041.secret_angry.desc:0 "私はぞっとしながら手紙を読み飛ばした。それは、[suspicious.GetFirstNameNoTooltip][secret.Custom('SecretDescriptionThirdPerson')]を主張する、説得力のある告発だ！"
+ yearly.1041.secret_angry.desc:0 "私はぞっとしながら手紙を読み飛ばした。それは、[suspicious.GetFirstNameNoTooltip]が[secret.Custom('SecretDescriptionThirdPerson')]と主張する、説得力のある告発だ！"
  yearly.1041.a.good:0 "も…申し訳なかった。知らなかったんだ！"
  yearly.1041.a.bad:0 "Written proof. How considerate."
  yearly.1041.friend.tt:0 "もし私が[suspicious.GetTitledFirstNamePossessive]のサプライズを台無しにしていなければ、[stress|E]を下げて[secret_friend.GetTitledFirstName]の[opinion|E]を高めていたでしょう"

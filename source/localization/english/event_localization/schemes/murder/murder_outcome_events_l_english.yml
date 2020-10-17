@@ -103,7 +103,7 @@
  murder_outcome.2201.t:0 "傷つけられた死体"
  murder_outcome.2201.opening:0 "[target.GetTitledFirstName]が死亡した！\n\n捜索は夜遅くまで行われ、夜明けに再開された。そのときになって初めて死体が発見された。死体は血まみれで、損傷が激しく、何かしら凶暴な飢えた獣によって引き裂かれていた。少なくとも獣の仕業であってほしいと思う。"
  murder_outcome.2201.scheme_owner_known:0 "\n\n悲惨なことに、私のスパイは子供が発見されるとすぐに自白した。私がこの悲劇の背後にいることは、今や誰もが知っている。"
- murder_outcome.2201.scheme_unknown:0 "\n\nありがたいことに誰もがそれが恐ろしい悲劇であったと思っており、私の関与――そしていかなる計画の存在――も知られていない。"
+ murder_outcome.2201.scheme_unknown:0 "\n\nありがたいことに誰もがそれが恐ろしい悲劇であったと思っており、私の関与——そしていかなる計画の存在——も知られていない。"
  murder_outcome.2201.a.discovered:0 "予期せぬ障害に直面することは、いかなる子供の養育にも不可欠だ！"
  murder_outcome.2201.a:0 "そして彼らは子供こそ未来だと言う。"
  murder_outcome.2202.desc:0 "事は実行された。[target.GetTitledFirstName]は成長することも、[target.GetHerHim]の周りの世界を理解することもないだろう。それは明らかに単純で、耳への鋭い鉄針が、簡単に柔らかい皮膚や軟骨を貫いた。"

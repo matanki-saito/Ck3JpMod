@@ -12,7 +12,7 @@
  mystic_lifestyle.1003.desc:0 "あなたの奇妙な試みは[ROOT.Char.GetFaith.PriestNeuterPlural]に承認されません、そしてあなたの責任を誰かが問わねばなりません。私が今できなければ、[ROOT.Char.GetFaith.HighGodName]の罰が下るでしょう。\n\n道理をわきまえ、こんな奇妙な道に背を向けてください。これがどんな異端や悪魔崇拝につながるかしれません！"
  mystic_lifestyle.1003.a:1 "[ROOT.Char.GetFaith.HighGodNamePossessive]の秘密をあなたは知らぬ、私は止められない!"
  mystic_lifestyle.1004.t:0 "$mystic_lifestyle_communion_header$うわさ"
- mystic_lifestyle.1004.desc:0 "私のちょっと変わった宗教的な習慣が、ますます多くの人の目を引いているようだ。\n\nそれはほとんど問題ではない――私が何をしているか理解するなど彼らには望むべくもない――しかし、閉じた扉の向こうで私が#EMP 何かしている#!、人々は目を光らせ続けろ、などと囁かれている。"
+ mystic_lifestyle.1004.desc:0 "私のちょっと変わった宗教的な習慣が、ますます多くの人の目を引いているようだ。\n\nそれはほとんど問題ではない——私が何をしているか理解するなど彼らには望むべくもない——しかし、閉じた扉の向こうで私が#EMP 何かしている#!、人々は目を光らせ続けろ、などと囁かれている。"
  mystic_lifestyle.1004.a:0 "彼らの小さな声など気にすることはない。"
  mystic_lifestyle.1004.b:0 "開放的に歓迎すれば、みんな理解してくれそう？"
  mystic_lifestyle.1005.opening:0 "わが親愛なる[SCOPE.sC('vassal').Custom2('RelationToMeShort', ROOT.Char )]"

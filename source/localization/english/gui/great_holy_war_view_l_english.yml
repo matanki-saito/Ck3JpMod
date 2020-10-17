@@ -22,7 +22,7 @@
  GHW_CONCEPT:0 "[GreatHolyWar.GetFaith.GetAdjective]の[great_holy_war|E]"
  GHW_NOT_ATTACKER_PLEDGED:1 "#Weak もし攻撃者として誓約すると:\n$EFFECT_LIST_BULLET$あなたは王国の称号を手に入れるかもしれない[beneficiary|E]を選びます\n$EFFECT_LIST_BULLET$あなたは集まった軍資金の一部を手に入れます\n$EFFECT_LIST_BULLET$十字軍が始まったときに軍資金をいくらか手に入れます\n$EFFECT_LIST_BULLET$十字軍が始まると参加している他のメンバーとの間の戦争は終わります#!"
  GHW_NOT_DEFENDER_PLEDGED:1 "#Weak If you pledge yourself as a Defender:\n$EFFECT_LIST_BULLET$You may gain a share of the War Chest's [piety|E] and [prestige|E]\n$EFFECT_LIST_BULLET$Wars against other participants will end when the Crusade begins#!"
- GHW_PLEDGED:0 "I am pledged as a Defender. If we are victorious, I may receive part of the War Chest according to my War Contribution."
+ GHW_PLEDGED:0 "私は防衛側として誓約しています。我々が勝利した場合、戦争の貢献度に応じて、軍資金の一部を受け取ることができます。"
  GHW_TITLE_NOT_PLEDGED:0 "#X I am expected to pledge military support, or donate gold#!"
  GHW_TITLE_NOT_PLEDGED_DONATED:0 "#Weak I have already donated gold#!"
  GHW_PLEDGE:0 "誓約"

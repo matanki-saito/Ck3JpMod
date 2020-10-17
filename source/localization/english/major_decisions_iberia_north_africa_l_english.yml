@@ -37,7 +37,7 @@
  iberia_north_africa.0002.start.desc:0 "イベリア半島に新たな時代が到来した！"
  iberia_north_africa.0002.relation_former.desc:0 "My [ROOT.Char.Custom2('RelationToMe', portugal_former)] [portugal_former.GetTitledFirstName]"
  iberia_north_africa.0002.former.desc:0 "[portugal_former.GetTitledFirstName]"
- iberia_north_africa.0002.end.desc:0 "has formed the Kingdom of Portugal on its western coast. After centuries of migration and war, a proud Portuguese people has emerged, with [portugal_former.GetTitledFirstNameNoTooltip] as their leader.\n\nWill this young nation rise to glory or be consumed in yet another conquest? Only time will tell."
+ iberia_north_africa.0002.end.desc:0 "西海岸にポルトガル王国が誕生した。何世紀にもわたる移民と戦争の後、[portugal_former.GetTitledFirstNameNoTooltip]をリーダーとする誇り高きポルトガル人が現れた。\n\nこの若い国家は栄光を手にするのか、それとも征服されてしまうのか？それは時が経てば分かることだ。"
  iberia_north_africa.0002.a1:0 "[ROOT.Char.GetFaith.WarGodName]に栄光あれ！"
  name_alas:0 "Alas."
  name_i_see:0 "I see."

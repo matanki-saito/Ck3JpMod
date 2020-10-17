@@ -77,7 +77,7 @@
  vassal.2301.c:0 "臣下の者がそのような自由を得るべきではない。"
  vassal.2401.t:0 "煌めく希望"
  vassal.2401.desc_family:0 "「[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal_needs_gold'))|U]よ、私には融資が必要です。」"
- vassal.2401.desc_other:0 "「我が[ROOT.Char.GetLadyLord]—我が[ROOT.Char.GetTitleTierName]—私には融資が必要です。」"
+ vassal.2401.desc_other:0 "「我が[ROOT.Char.GetLadyLord]——我が[ROOT.Char.GetTitleTierName]——私には融資が必要です。」"
  vassal.2401.desc:0 "\n\n私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal_needs_gold'))]、[vassal_needs_gold.GetTitledFirstName]は私を[ROOT.Char.Custom2('QuirkAdverbPosOrNeg', SCOPE.sC('vassal_needs_gold'))]に見て続ける、「私は譲歩してもいいと思っています…どうか、あなたには私を助ける手段があると知っています！」"
  vassal.2401.a:0 "[possible_county.GetNameNoTierNoTooltip]のための金は妥当だ、そうだろう？"
  vassal.2401.b:0 "あなたは#EMP 非常に#!有益な契約に恵まれている…"

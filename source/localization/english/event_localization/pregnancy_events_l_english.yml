@@ -17,7 +17,7 @@
  pregnancy.1102.desc:0 "今となっては[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]が子供を身籠ったのは明白であるが、時期的に考えて自分の子供ではない。\n\n十中八九、本当の父親は[mother.GetTitledFirstNamePossessiveNoTooltip]の元夫、[ex_spouse.GetTitledFirstName]だろう。"
  pregnancy.1102.a:0 "クソッ。"
  pregnancy.1103.opening:0 "我が[mother.Custom2('RelationDescriptor', ROOT.Char)]の元夫へ、"
- pregnancy.1103.opening_concubine:0 "我が[mother.Custom2('RelationDescriptor', ROOT.Char)]の元夫、[ROOT.Char.GetWomanMan]へ、"
+ pregnancy.1103.opening_concubine:0 "我が[mother.Custom2('RelationDescriptor', ROOT.Char)]元夫である[ROOT.Char.GetWomanMan]へ、"
  pregnancy.1103.desc:0 "私には子供がいることをお知らせするが、この子は間違いなくそなたの子だ。\n\nこの子を授かった時には我らは結婚していたので、この子に私生児の汚名がついて回ることはない。誕生したら、この子はそなたの嫡出子として知られることになるだろう。"
  pregnancy.1103.desc_concubine:0 "私には子供がいることをお知らせするが、この子は間違いなくそなたの子だ。\n\nこの子を授かった時には我らは一緒になっていたので、この子に私生児の汚名がついて回ることはない。誕生したら、この子はそなたの子として知られることになるだろう。"
  pregnancy.1103.a:0 "分かった、そうしてくれ。"

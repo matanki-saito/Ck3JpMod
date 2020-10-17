@@ -38,7 +38,7 @@
  learning_bad_trait_match_bad_outcome:0 "Having been such an inattentive child, it is not difficult to see why [ROOT.Char.GetFirstName] has had a hard time getting to grips with scholarship."
  learning_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように学問に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
  learning_neutral_trait_match_bad_outcome:0 "長い間[ROOT.Char.GetFirstName]には学問の奥義について学ぶための十分な教育を与えたいと望んでいた。だが、全ての努力は無駄になった。"
- education_diplomacy_1_outcome_description:1 "The practices of politeness and honor are quite the challenge for [ROOT.Char.GetHerHim], but at least [ROOT.Char.GetSheHe] knows [ROOT.Char.GetHerHis] way around basic etiquette."
+ education_diplomacy_1_outcome_description:1 "礼儀正しさと名誉を重んじることは[ROOT.Char.GetHerHim]にとってかなり難しいことだが、[ROOT.Char.GetSheHe]は少なくとも、[ROOT.Char.GetHerHis]の基本的な礼儀作法は心得ている。"
  education_diplomacy_2_outcome_description:1 "どんな宮廷でも[ROOT.Char.GetHerHis]の礼儀作法に感激する人はいないだろうが、少なくとも身内で地位を保つための礼儀正しいやり方は知っている。"
  education_diplomacy_3_outcome_description:0 "礼儀作法を熟知し、あらゆる種類の娯楽を理解し、それに応じた雄弁さがあれば、[ROOT.Char.GetSheHe]が宮廷生活を送るのに苦労することはほとんどないだろう。"
  education_diplomacy_4_outcome_description:0 "[ROOT.Char.GetSheHe]は王や伯爵の意見を左右できるほど、雄弁だ！[ROOT.Char.GetSheHe]が話すと、宮廷中が静かにそしてうっとりと聞き耳を立てる。"

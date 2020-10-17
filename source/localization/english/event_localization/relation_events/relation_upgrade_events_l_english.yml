@@ -136,7 +136,7 @@
  relation_upgrade.2003.lover.desc:0 "私が身を乗り出して提案すると、[lover_1.GetFirstNamePossessive]の目の輝きは、別の種類の情熱の本質を帯びるようになる。[lover_1.GetSheHe|U]は頬を赤くして一瞬躊躇するが、[lover_1.GetHerHis]の内なる葛藤はすぐに解決する。\n\n「少しの間だけここで待っていて、誰も不審に思わないように。それから私の部屋に来て。」[lover_1.GetFirstNameNoTooltip]が走り去っていく間、私は[lover_1.GetHerHim]から目を離せない。"
  relation_upgrade.2003.soulmate_start.desc:0 "私の愛の告白は[lover_1.GetFirstName]の不意を突く。[lover_1.GetHerHis|U]の手は私の髪の中に入ったままで、[lover_1.GetHerHis]の鼓動が私の頬を叩くのを感じる。私の心臓も同じように激しく鼓動している。\n\n"
  relation_upgrade.2003.soulmate_end.desc:0 "「本当に？[lover_2.GetFirstNameNoTooltip]、こんなに長い間、同じように感じていたなんて、考えたこともなかった…」\n\nその後に続くキスは、今までで一番甘い。"
- relation_upgrade.2003.a:0 "What a [lover_1.GetWomanMan]!"
+ relation_upgrade.2003.a:0 "なんて[lover_1.GetWomanMan]だ！"
  relation_upgrade.2003.b:0 "私は[realm.GetNameNoTierNoTooltip]で一番幸せな[lover_2.GetWomanMan]だ！"
  relation_upgrade.2004.lover.desc:0 "[lover_1.GetFirstName]は私のほのめかしに気づいていない—あるいは、[lover_1.GetSheHe]は、私に拒絶したことで恥をかかせないよう、それを無視しているのかもしれない。\n\n[lover_1.Custom('my_subject_of_interest')]についての会話は続いている。幸いなことに、[lover_1.GetFirstNameNoTooltip]は主題への興味で私の気まずさを覆い隠してくれている。"
  relation_upgrade.2004.soulmate_end.desc:0 "「私はあなたのことを気にかけています、[lover_2.GetFirstNameNoTooltip]、そして一緒にいる時間を楽しんでいます。我々はこのままでいてもいいですか？」\n\n気まずい謝罪の後、私は[lover_1.Custom('my_subject_of_interest')]についての会話に舞い戻り、二人の間の緊張感を払拭しようと必死になっている。"

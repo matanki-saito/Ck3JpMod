@@ -30,7 +30,7 @@
  murders_at_court.2002.desc:0 "私が寝室に戻ると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('heir'))]である[heir.GetTitledFirstName]の切断された首が机の上に置かれ、声なき叫びと共に口を開けている。私の[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('heir'))]後継者…ああ、[ROOT.Char.GetFaith.HighGodName]よ、なぜだ？我々を悩ませているこの殺人者を止めなければならない！"
  murders_at_court.2002.a:0 "[ROOT.Char.Custom('RealmType')]のためにも祈りを捧げよう!"
  murders_at_court.2003.t:1 "宮廷での殺人: 暴かれた殺人者"
- murders_at_court.2003.desc:0 "背中に鋭い痛みが走るーー息を吸い込むと、増大する苦しさに私は悲鳴を上げる。私は#EMP ポタ#!#EMP ポタ#!と床に血が滴り落ちる中、弱りながらも向きを変えようとする。\n\n視界は暗くなってきたが、私は私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer'))]である[murderer.GetTitledFirstName]が満面の笑みで私を見下ろしているのを見た。私は[murderer.GetHerHim]に手を伸ばすと、[murderer.GetSheHe]は私に部屋が回転するような蹴りで応える。グルグルと回るーー明るく暗く、そしてますます暗く…"
+ murders_at_court.2003.desc:0 "背中に鋭い痛みが走る—— #EMP ポタ#!#EMP ポタ#!と床に血が滴り落ちる中、弱りながらも向きを変えようとする。\n\n視界は暗くなってきたが、私は私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer'))]である[murderer.GetTitledFirstName]が満面の笑みで私を見下ろしているのを見た。私は[murderer.GetHerHim]に手を伸ばすと、[murderer.GetSheHe]は私に部屋が回転するような蹴りで応える。グルグルと回る——明るく暗く、そしてますます暗く…"
  murders_at_court.2003.a:0 "[murderer.GetFirstNameNoTooltip]…なぜだ…？"
  murders_at_court.2101.t:1 "宮廷での殺人: 殺された後継者"
  murders_at_court.2101.desc_opening:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('other_heir'))]である[other_heir.GetTitledFirstName]の死体をじっと見つめて、私はめまいを感じる。確かに[other_heir.GetHerHim]の下の床を覆っているのは私の血だ、もはや何も私の頭には届かない。\n\n"

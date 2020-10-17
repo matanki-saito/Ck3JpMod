@@ -27,7 +27,7 @@
  court_outcome.1001.desc:1 "私が広場に到着するまで一分ほどだったが、一時間のようにも感じた。辿り着いた私の目の前には[target.GetFirstName]が倒れていた。[target.GetHerHim]の向かいには、今にも襲い掛かってきそうな巨大な[ROOT.Char.Custom('LocalAnimal')]がいた！\n\n私の矢が命中し、獣は地面に倒れた。しばらくの間、[target.GetFirstNameNoTooltip]はじっと見つめるだけだったが、[target.GetSheHe]は私に向かってつまずき、[target.GetHerselfHimself]を私の腕の中に倒れ込む。"
  court_outcome.1001.a:0 "君が欲しい、愛しき人、今すぐここで！"
  court_outcome.1001.b:0 "私が望むのは甘いキスだけだ。"
- court_outcome.1002.desc:1 "「[target.GetFirstName]！今行きます！」葉の間を抜けて空き地に飛び込んだ私の心臓は激しく鼓動し、顔には汗が流れていた。\n\nしかし、目の前の光景は期待していたものではなかった。そこには、そう、[ROOT.Char.Custom('LocalAnimal')]がいる――しかし、それは地面に倒れていて、眉間に矢が刺さっているのだ。[target.GetSheHe]、[target.GetFirstNameNoTooltip]が私の方を向き、[target.GetHerHis]の弓を下げる。\n\n「これは何ですか、[owner.GetTitledFirstNameNoTooltip]？私が自身を守ることができないとでも思いましたか？」"
+ court_outcome.1002.desc:1 "「[target.GetFirstName]！今行きます！」葉の間を抜けて空き地に飛び込んだ私の心臓は激しく鼓動し、顔には汗が流れていた。\n\nしかし、目の前の光景は期待していたものではなかった。そこには、そう、[ROOT.Char.Custom('LocalAnimal')]がいる——しかし、それは地面に倒れていて、眉間に矢が刺さっているのだ。[target.GetSheHe]、[target.GetFirstNameNoTooltip]が私の方を向き、[target.GetHerHis]の弓を下げる。\n\n「これは何ですか、[owner.GetTitledFirstNameNoTooltip]？私が自身を守ることができないとでも思いましたか？」"
  court_outcome.1002.a:0 "わ…私は道に迷っただけだが？"
  court_outcome.1005.desc:0 "私が近づくにつれ、叫び声は激しくなる。それは私の[target.Custom('RomanticComplimentAdjective')][target.GetFirstName]に間違いない—どこにいようが[target.GetHerHis]の声はわかる！\n\nしかし、[target.GetHerHis]の叫びは何か#EMP おかしい#!。[target.GetFirstNameNoTooltip]が本当に怖がっているとはとても思えない…あるいは[target.GetSheHe]が苦しんでいるとは…\n\nようやく[target.GetHerHim]の姿が見えた時、私の心は沈む。[target.GetSheHe]は生まれたときのように全裸で、[targets_lover.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]と共に草むらを転げまわっていた。"
  court_outcome.1005.a:0 "明らかに[target.GetHerHis]の心に私の居場所はない。"

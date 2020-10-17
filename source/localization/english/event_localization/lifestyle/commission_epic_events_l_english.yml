@@ -33,7 +33,7 @@
  commission_epic.0001.desc:0 "私に必要なことは、私の家の雄大さを示す古典的な物語である。[ROOT.Char.GetDynasty.GetBaseName]王朝の起源や、いかに私たちが偉大な運命を辿っているかについての[ROOT.Char.Custom('CompositionType')]を！\n\nこの物語の伝え方を知っている人だけが必要なのだ…"
  commission_epic.0001.a:0 "[writer.GetTitledFirstName], 巧みな語り部"
  writer_writes_epic:0 "語り手の[writer.GetTitledFirstName]は叙事詩を編纂します"
- commission_epic.0001.b:0 "私の名作[ROOT.Char.Custom('CommissionEpicScribes')]を集めよう"
+ commission_epic.0001.b:0 "我が最高の[ROOT.Char.Custom('CommissionEpicScribes')]を集めよう。"
  scribes_write_epic:0 "我が書記官たちは叙事詩を編集する"
  bards_write_epic:0 "我が書記官たちは叙事詩を編集する"
  commission_epic.0001.c:0 "たしかに少し[servant.Custom('GenderedLowlyServantType')]は低そうだがそれをできるんだろうか？"

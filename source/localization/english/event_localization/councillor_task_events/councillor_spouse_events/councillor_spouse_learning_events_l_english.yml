@@ -15,7 +15,7 @@
  councillor_spouse_learning.1603.other_guardian.t:0 "被後見人は配偶者による指導に感謝"
  add_patronage_spouse_education_points_effect.t:0 "配偶者の指導が子供の役に立った"
  add_patronage_spouse_education_points_effect.desc:1 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('patronage_student'))]、[patronage_student.GetTitledFirstName]は[councillor.GetTitledFirstNamePossessive]の指導のおかげで良い[education|E]を受ける可能性が高くなります。"
- add_patronage_spouse_education_points_child_effect.desc:0 "私の[patronage_student.Custom('GetDaughterSon')]、[patronage_student.GetTitledFirstName]は、[councillor.GetTitledFirstNamePossessive]の指導のおかげで良い[education|E]を受ける可能性が高くなります。"
+ add_patronage_spouse_education_points_child_effect.desc:0 "私の[patronage_student.Custom('GetDaughterSon')]、[patronage_student.GetTitledFirstName]は[councillor.GetTitledFirstNamePossessive]の指導のおかげで良い[education|E]を受ける可能性が高くなります。"
  councillor_spouse_learning.2601.t:1 "配偶者: さらなる教育"
  councillor_spouse_learning.2601.not_scholarly.desc:0 "「たまには本を読んでも損はしないでしょう。」我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]であり、勉強熱心な[councillor.GetTitledFirstName]はたびたび私に言う。[councillor.GetSheHe|U]は何か助けが必要であれば、私の教師となることを申し出ている。"
  councillor_spouse_learning.2601.scholarly.desc:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]である[councillor.GetTitledFirstName]は、私がかがんで本を読んでいるのを見つけるたび、目に見えて興奮する。\n\n「勉強のお手伝いをさせていただけませんか？誰かとアイデアを交換したり、新しい本を読むのはいかがですか？私は最近[ROOT.Char.Custom('education_conversation_subject')]の素晴らしい分析の本を手に入れたのですよ！」"

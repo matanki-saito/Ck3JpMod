@@ -35,7 +35,7 @@
  siege.1005.pow_toast.t:0 "重要人物を人質にしました"
  siege.1005.pow_toast.desc:1 "[barony.GetNameNoTier]を包囲中に[important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_siege_defender)]を捕らえた"
  siege.1005.pow_toast.desc.primary:1 "[barony.GetNameNoTier]を包囲中に敵の[important_hostage.GetTitledFirstName]を捕らえた"
- siege.1006.pow_toast.t:1 "Hostage Taken"
+ siege.1006.pow_toast.t:1 "人質を取られた"
  siege.1006.pow_toast.desc:1 "[occupant.GetTitledFirstName]は[barony.GetNameNoTier]を包囲後、[important_hostage.Custom2('MyCharacterIntroduction', ROOT.Char)]を人質に取った"
  siege.1007.pow_toast.t:0 "$siege.1005.pow_toast.t$"
  siege.1007.pow_toast.desc:1 "[occupant.GetTitledFirstName]は[barony.GetNameNoTier]を包囲後、[important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_siege_defender)]を人質に取った"
