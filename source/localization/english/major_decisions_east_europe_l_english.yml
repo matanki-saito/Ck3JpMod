@@ -95,7 +95,7 @@
  east_europe.0117.desc.intro:0 "Sadly, [hof.GetTitledFirstName] has elected #EMP not#! to denounce the $bosnian_church$ for heresy.\n\n"
  east_europe.0117.desc.critical_success:0 "さらに悪いことに、どういうわけか[heretic.GetTitledFirstName]が[hof.GetFaith.ReligiousHeadName]を説得して、私を破門させたのだ。どんな邪悪な魔術や暗黒の秘密があったのかは、[heretic.GetFirstNameNoTooltip]以外にはわからないが、今ではキリスト教の領主は、異教徒や教会分離論者といった嫌悪感だけで私を見ている。"
  east_europe.0117.desc.theological_debate:0 "[hof.GetHerHim]と[heretic.GetTitledFirstName]の間で、数週間にわたる激しい学術論争が行われ、[hof.GetFaith.ReligiousHeadName]は徐々に[heretic.GetFirstNamePossessiveNoTooltip]の考え方に近づいてきて、[heretic.GetFaith.GetAdherentNamePluralNoTooltip]が、単にやや遅れた[hof.GetFaith.GetAdherentNamePluralNoTooltip]であることに同意している。"
- east_europe.0117.desc.political_leverage:0 "[heretic.GetPrimaryTitle.GetNameNoTierNoTooltip]に送られた異端審問官の調査結果は、公に知られているだけでなく、徹底的に非難もされているため、これを取り巻く状況は、どう控え目に見ても疑わしいものとなっている。何か #EMP 他の #! 要因が[hof.GetFaith.ReligiousHeadName]の心を揺さぶったようだ。"
+ east_europe.0117.desc.political_leverage:0 "[heretic.GetPrimaryTitle.GetNameNoTierNoTooltip]に送られた異端審問官の調査結果は、公に知られているだけでなく、徹底的に非難もされているため、これを取り巻く状況は、どう控え目に見ても疑わしいものとなっている。何か#EMP 他の#!要因が[hof.GetFaith.ReligiousHeadName]の心を揺さぶったようだ。"
  east_europe.0117.desc.political_manoeuvrings:0 "数週間に及ぶ猛烈な手紙の執筆、偽造された証言、[heretic.GetPrimaryTitle.GetNameNoTierNoTooltip]の調査のために派遣された異端審問官への賄賂によって、私の告発は、単に政治的利益の可能性で動機付けられたものであり、まったくの嘘であると[hof.GetFaith.ReligiousHeadName]は確信している。"
  east_europe.0117.desc.outro:0 "\n\nFor the moment, the heretics have bought themselves some room to breath. Future [hof.GetFaith.ReligiousHeadName]s may not look on them so kindly..."
  east_europe.0117.a:0 "Gah, a waste of time and effort."

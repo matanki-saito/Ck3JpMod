@@ -4,7 +4,7 @@
  diplomacy_generic.0012.start.desc:0 "それが初めて起こったとき、私はそれについて少しも考えもしなかったが、[disobedient_subject.Custom2('MyCharacterIntroduction', ROOT.Char)]は​​より大胆な行動に出た。 [disobedient_subject.GetHerHis|U]の試みはもはや"
  diplomacy_generic.0012.council.desc:0 "評議会の場において見過ごせなくなった。"
  diplomacy_generic.0012.vassal.desc:0 "私の封臣たちの間で見過ごせなくなった。"
- diplomacy_generic.0012.end.desc:0 "\n\n[disobedient_subject.GetSheHe|U]は私の限界を試した。他の者も追従するだろうー私が[disobedient_subject.GetHerHis]を同じく辛い目に合わせない限りは…"
+ diplomacy_generic.0012.end.desc:0 "\n\n[disobedient_subject.GetSheHe|U]は私の限界を試した。他の者も追従するだろう——私が[disobedient_subject.GetHerHis]を同じく辛い目に合わせない限りは…"
  diplomacy_generic.0012.a:0 "[disobedient_subject.GetHerHim]を無視して、[disobedient_subject.GetHerHis]のアイデアを奪おう"
  make_invisible_option.tt:2 "あなたは[disobedient_subject.GetFirstName]が控えめで、無気力または野心を持たないだろうと推測します。"
  diplomacy_generic.0012.b:0 "[disobedient_subject.GetHerHis]の[disobedient_subject.Custom('PointOfRidicule')]を嘲れば、[disobedient_subject.GetHerHim]は黙るだろう。"

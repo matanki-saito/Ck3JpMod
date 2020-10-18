@@ -148,7 +148,7 @@
  yearly.5040.b.failure.effect.tt:0 "尋問は何の結果も産まない"
  yearly.5040.c.a:0 "あなたは敬愛する[ROOT.Char.GetTitleTierName]に隠し事などはしないだろうな？"
  yearly.5040.c.b:0 "どんな犠牲を払っても何を隠しているのか知る必要がある！"
- yearly.5040.c.success.tt:0 "I torture the information out of [whisperer_1.GetFirstNameNoTooltip] and [whisperer_2.GetFirstNameNoTooltip]"
+ yearly.5040.c.success.tt:0 "[whisperer_1.GetFirstNameNoTooltip]と[whisperer_2.GetFirstNameNoTooltip]を尋問して情報を引き出します"
  yearly.5040.c.failure.tt:0 "[whisperer_1.GetFirstName]と[whisperer_2.GetFirstNameNoTooltip]は非協力的だ"
  yearly.5040.d:0 "あぁ、大したことではないと思うが…"
  yearly.5041.desc.a:0 "私はなんとか二人の廷臣に気づかれずに彼らに近づくことができた。\n\n彼らは[scoped_vassal.GetTitledFirstName]によって企てられた私に対する陰謀について議論している！"

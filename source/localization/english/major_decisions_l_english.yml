@@ -19,7 +19,7 @@
  major_decisions.1103.opening_kingdoms:0 "ほかの誰にも成し得ないことを終えた。[kingdom_1.GetNameNoTierNoTooltip]の領土を[kingdom_2.GetNameNoTierNoTooltip]および[kingdom_3.GetNameNoTierNoTooltip]の領土と統合した。"
  major_decisions.1103.opening:0 "全廷臣たちと[ROOT.Char.GetFaith.PriestNeuterPlural]は、ついには私の玉座の前に集まった。この瞬間を彼らの目に、そしてより重要なことには[ROOT.Char.GetFaith.PantheonTerm]の目に、焼き付けた。"
  major_decisions.1103.i_am_religious_head:0 "\n\n私が自らの頭に王冠を被せるのは当然のことだ。私のしもべたちが、教会と世俗の両方が、私に頭を垂れる。"
- major_decisions.1103.blessed_by_religious_head:0 "\n\n[religious_figure.GetTitledFirstName]が私の頭に王冠を被せると、私は新たな帝国を宣言する。私のしもべである廷臣たちはここで証言する。宣言が私の唇から離れると、私の領域の全権力が、教会も世俗と同じく、私の前に跪いている。"
+ major_decisions.1103.blessed_by_religious_head:0 "\n\n[religious_figure.GetTitledFirstName]が私の頭に王冠を被せると、私は新たな帝国を宣言する。私のしもべである廷臣たちはここで目撃する。宣言が私の唇から離れると、私の領域の全権力が、教会も世俗と同じく、私の前に跪いている。"
  major_decisions.1103.a:0 "[new_title.GetNameNoTierNoTooltip]は頂点に君臨する!"
  major_decisions.1104.opening:0 "[founder.GetFirstName], our [founder.GetLadyLord] and ruler, has called all vassals and [founder.GetFaith.PriestNeuterPlural] of the realm to [founder.GetHerHim]. I cannot dispute that [founder.GetSheHe] has rightfully earned this moment in the eyes of [ROOT.Char.GetFaith.PantheonTerm]."
  major_decisions.1104.i_am_religious_head:0 "\n\nAs I place [founder.GetHerHis] new crown upon [founder.GetHerHis] head,"

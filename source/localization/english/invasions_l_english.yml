@@ -5,7 +5,7 @@
  almohad.1001.a.flavor:0 "地方の過激宗教団体がいつ誰かに迷惑をかけたことがあるのだ？"
  almohad.1001.b:0 "狂信者が続々とやってくる！"
  almohad.1001.b.conversion_tt:0 "[almohad_county.GetName]で既に信仰を改宗している場合は、このオプションを選択すると進歩が失われる可能性があります!"
- almohad.1001.player_warning:0 "@warning_icon! #X [almohad_county.GetNameNoTier]を[masmudi.GetName]から迅速に変換しないと Almohadsの台頭につながります。覚悟しておいて下さい。#!"
+ almohad.1001.player_warning:0 "@warning_icon! #X [almohad_county.GetNameNoTier]を[masmudi.GetName]から迅速に改宗しないと ムワッヒドの挙兵につながります。覚悟しておいて下さい。#!"
  almohad.1002.desc:0 "Almohadsとして知られる宗教運動が、必要ならば武力で「不信者からMaghrebを取り戻す」ことを意図して、その本部を出発しました。\n\n彼らのリーダーである[ibn_tumart.GetTitledFirstName]は、[ibn_tumart.GetHerHis]の独断的な実践に固執しており、（率直に言って）迷惑なので、かつては多くの学びの場から追い出されていました、しかし、[ibn_tumart.GetSheHe]は今、強力な信者の核を見つけ、[ibn_tumart.GetHerselfHimself]はMadhiに劣らないと宣言している!"
  almohad.1002.a:0 "この卑しい[ibn_tumart.GetFaith.PriestNeuter]が脅威であるかのように！"
  almohad.1002.a.target.tt:0 "Almohadsはあなたに戦争を仕掛けてくる！"

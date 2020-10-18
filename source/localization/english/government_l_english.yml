@@ -100,7 +100,7 @@
  title_revocation_rights:0 "称号の剥奪"
  title_revocation_rights_default:0 "デフォルト $title_revocation_rights$"
  title_revocation_rights_default_short:0 "デフォルト"
- title_revocation_rights_protected:0 "保護された $title_revocation_rights$"
+ title_revocation_rights_protected:0 "$title_revocation_rights$からの保護"
  title_revocation_rights_protected_desc:0 "#emphasis #bold [vassal|E]の特権:#!#!\n[liege|E]は[vassals_possessive|E]の[titles|E]を剥奪することはできません\n\n#flavor [vassal]は彼らの[titles]の所有権が保証され、[liege|E]が[revoke_title_reason]を持っているかどうかに関係なく、[liege|E]がそれらを剥奪することを防ぎます。#!"
  title_revocation_rights_protected_short:0 "剥奪不可"
  clan_government:0 "氏族制"

@@ -14,7 +14,7 @@
  combat_event.0004.b:0 "If [enemy_commander.GetSheHe] can be bested, so can I."
  combat_event.0004.b.zealous:0 "[ROOT.GetCharacter.GetFaith.WarGodNamePossessive]が[enemy_commander.GetWomanMan]をくじいてくれたことに感謝する。"
  combat_event.0005.t:0 "巨人を倒す"
- combat_event.0005.desc:0 "今日は考えられないことが起こった—私は[friendly_commander.Custom2('MyCharacterIntroduction', ROOT.Char)]に戦闘で負けてしまった！私は決して負けることはないと本気で思い始めていたが、今はすっかり元気をなくし、くじかれてしまった。\n\nこの損失にもかかわらず、私の評判はまだある程度は損なわれていないが、[friendly_commander.GetFirstName]が私の栄光と名声の一部を奪ったことは間違いない。"
+ combat_event.0005.desc:0 "今日は考えられないことが起こった——私は[friendly_commander.Custom2('MyCharacterIntroduction', ROOT.Char)]に戦闘で負けてしまった！私は決して負けることはないと本気で思い始めていたが、今はすっかり元気をなくし、くじかれてしまった。\n\nこの損失にもかかわらず、私の評判はまだある程度は損なわれていないが、[friendly_commander.GetFirstName]が私の栄光と名声の一部を奪ったことは間違いない。"
  combat_event.0005.a:0 "[friendly_commander.GetSheHe|U]が私のような者を倒したことは評価に値する。"
  combat_event.0005.b:0 "受け入れられない！[friendly_commander.GetSheHe|U]は私に逆らった日を後悔するだろう！"
  combat_event.0005.message:0 "[enemy_commander.GetHerHis]の戦闘での敗北に激怒し、[enemy_commander.GetTitledFirstName]は私への復讐を誓った！"

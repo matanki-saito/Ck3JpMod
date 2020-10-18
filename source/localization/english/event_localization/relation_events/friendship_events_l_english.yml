@@ -148,7 +148,7 @@
  friendship.3004.a:1 "私は[friend_being_disapproved.GetHerHim]を何があっても見捨てない。"
  friendship.3004.b:1 "[spouse.GetFirstName]が第一だ。"
  friendship.3005.t:0 "友人の選択"
- friendship.3005.desc:1 "私の良き友人ーというか元友人というべきかー[spouse_suffering.GetTitledFirstName]は、私をもはや[spouse_suffering.GetHerHis]の宮廷では歓迎しないと知らせてきた！\n\n理由は言われなかったが、[spouse_suffering.GetHerHis]の[spouse.GetWifeHusband]である[spouse.GetTitledFirstName]が私私を目の敵にしているのは知っている…"
+ friendship.3005.desc:1 "私の良き友人——というか元友人というべきか——[spouse_suffering.GetTitledFirstName]は、私をもはや[spouse_suffering.GetHerHis]の宮廷では歓迎しないと知らせてきた！\n\n理由は言われなかったが、[spouse_suffering.GetHerHis]の[spouse.GetWifeHusband]である[spouse.GetTitledFirstName]が私私を目の敵にしているのは知っている…"
  friendship.3005.a:0 "よくもこんなことができたものだな、[spouse_suffering.GetFirstName]？"
  friendship.3006.t:0 "好ましい関係"
  friendship.3006.desc:0 "私の友人にして助言者である[friend_on_council.GetTitledFirstName]は、[hooked_councillor.GetTitledFirstName]に好感を持たれている。[friend_on_council.GetSheHe|U]は、私が頼んだことであれ、それに報いねばならないことを[hooked_councillor.GetFirstNameNoTooltip]にはっきりさせた。"

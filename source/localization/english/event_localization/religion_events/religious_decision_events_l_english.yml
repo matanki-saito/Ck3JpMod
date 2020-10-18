@@ -98,7 +98,7 @@
  religious_decision.0302.desc.zoroastrian:0 "屍鬼ナスによる汚染を避けるため、私は[ROOT.Var('ancestor_to_bury').Char.GetFirstNamePossessive]の肉体が転生するダクマの塔に入ることを許されていない。\n\n代わりに、死体の扱いに特化した訓練を受けた数人の[ROOT.Char.GetFaith.PriestNeuterPlural]が[ROOT.Var('ancestor_to_bury').Char.GetHerHis]の死体を塔の頂上まで護衛する。\n\nしばらくすると、[ROOT.Char.GetFaith.PriestNeuterPlural]が戻ってくる。「完了しました、私の[ROOT.Char.GetTitleAsNameNoTooltip]。今や肉食鳥が[ROOT.Var('ancestor_to_bury').Char.GetHerHis]の体の肉をかき分け、太陽の光が[ROOT.Var('ancestor_to_bury').Char.GetHerHis]の骨を漂白するだろう。」"
  religious_decision.0302.a:0 "安らかに眠れ、[ROOT.Char.Custom2('RelationToMe', ROOT.Var('ancestor_to_bury').Char)]。"
  religious_decision.0401.t:0 "星を読む"
- religious_decision.0401.desc.beginning:1 "私は夜空を見上げ、天体の動きを追いながら、何度も夜を過ごしてきた。\n\n時が経つにつれ、あるパターンに気付き、何日もかけて分析した結果、今では自分の予測に自信が持てるようになった。兆候ははっきりとしておりー"
+ religious_decision.0401.desc.beginning:1 "私は夜空を見上げ、天体の動きを追いながら、何度も夜を過ごしてきた。\n\n時が経つにつれ、あるパターンに気付き、何日もかけて分析した結果、今では自分の予測に自信が持てるようになった。兆候ははっきりとしており——"
  religious_decision.0401.desc.great_battle:0 "大いなる戦いが待っている。"
  religious_decision.0401.desc.new_friends:0 "古傷を癒し、新しい友人を作る時が来ている。"
  religious_decision.0401.desc.hard_work:0 "努力が将来的に大きな幸運へとつながるだろう。"

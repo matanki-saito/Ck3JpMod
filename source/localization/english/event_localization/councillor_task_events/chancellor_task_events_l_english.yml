@@ -41,7 +41,7 @@
  chancellor_task.3001.desc:0 "私はこれまで長い間[councillor.GetCouncilTitle]である[councillor.GetTitledFirstName]をもてなしてきました。[councillor.GetSheHe]が私の家にいる間、私達に平伏し、あなたに隷属するように押し付けてきました。もううんざりです！\n\n一体なぜ[ROOT.Char.GetLadyLord]はこのような恐ろしいまでに不愉快な使者を送ってくるのでしょうか？"
  chancellor_task.3001.a:0 "[councillor.GetFirstNameNoTooltip]！何をやらかしたんだ？！"
  chancellor_task.3002.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
- chancellor_task.3002.desc:0 "[vassal.GetTitledFirstName]とのやり取りの中で、私は多分…誤って[vassal.GetHerHis]を義務を免除するという約束をしてしまったのかもしれない…\n\nそれを撤回するため力を尽くしましたが、もはや手段が残されていないのかもしれません…"
+ chancellor_task.3002.desc:0 "[vassal.GetTitledFirstName]とのやり取りの中で、私は多分…誤って[vassal.GetHerHis]の義務を免除するという約束をしてしまったのかもしれません…\n\nそれを撤回するため力を尽くしましたが、もはや手段が残されていないのかもしれません…"
  chancellor_task.3002.a:0 "この愚か者！"
  chancellor_task.3002.c:0 "いや、まだなんとかなるだろう。"
  chancellor_task.3002.d:0 "おや、私はそうは思わない。"

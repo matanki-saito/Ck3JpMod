@@ -46,7 +46,7 @@
  CREATE_TITLE_CONFIRM:1 "あなたは[prestige_i]$PRESTIGE|0V$を得る\n\nコスト:\n[gold_i]$GOLD|0V$"
  CREATE_TITLE_CONFIRM_ACCEPT:0 "創設"
  CREATE_TITLE_HAS_HOLDER:0 "称号はすでに[CHARACTER.GetUIName]が所有しています"
- CREATE_TITLE_NO_DEJURE_COUNTIES:0 "@warning_icon!#X [TITLE.GetName] does not have any [de_jure|E] [counties|E].#!"
+ CREATE_TITLE_NO_DEJURE_COUNTIES:0 "@warning_icon!#X [TITLE.GetName]はいかなる[de_jure|E]の[counties|E]も持っていません。#!"
  CREATE_TITLE_OR_CONDITION:1 "@warning_icon!#X 以下のいずれかを満たす必要があります:#!"
  CREATE_TITLE_OR_CONDITION_REASON:1 "@warning_icon!#X    [$TIERNAME$|E]級[titles|E]の必要数: $REQUIRED$ #weak (現在: $COUNTED$)#!#!"
  CREATE_TITLE_OR_CONDITION_REASON_REGULAR:0 "[$TIERNAME$|E]級[titles|E]の必要数: $REQUIRED$ #weak (現在: $COUNTED$)#!"

@@ -1,5 +1,5 @@
 ﻿l_english:
- ACTIVE_COUNCIL_TASK_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n我が [ActiveCouncilTask.GetPositionType.GetName]である[ActiveCouncilTask.GetCouncillor.GetUIName] が [ActiveCouncilTask.GetTaskType.GetName|V]に割り当てられた。"
+ ACTIVE_COUNCIL_TASK_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n我が[ActiveCouncilTask.GetPositionType.GetName]である[ActiveCouncilTask.GetCouncillor.GetUIName]が[ActiveCouncilTask.GetTaskType.GetName|V]に割り当てられた。"
  ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V] #!\n@warning_icon!#X この業務を継続させるには、評議会の役職にキャラクターを割り当ててください#!"
  POTENTIAL_COUNCIL_TASK_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n[ActiveCouncilTask.GetCouncillor.GetUIName]が[ActiveCouncilTask.GetTaskType.GetName|V]に割り当てられる。"
  council_task_possible_side_effects:1 "\n\n[councillor_task_possible_side_effects|E] #weak —— 評議員の能力#!"

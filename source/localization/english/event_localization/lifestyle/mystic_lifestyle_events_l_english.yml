@@ -7,7 +7,7 @@
  mystic_lifestyle.1001.b.flavor:0 "[ROOT.Char.GetFaith.HighGodNameAlternate] について考えたことを [priest.GetHerHim] に話す事はおそらくうまくいくまい"
  mystic_lifestyle.1002.opening:0 "[SCOPE.sC('religious_head').Custom2('AppropriateGreeting', ROOT.Char)]"
  mystic_lifestyle.1002.desc:0 "あなたが世間一般的ではない形式の祈りを定期的におこなっていると聞き警告しに来ました。\n\n私はあなたの馬鹿げた習慣を終わらせ、我々の信仰への誤った解釈に対して代償を支払うよう要求いたします。"
- mystic_lifestyle.1002.a:0 "我は汝よりも [ROOT.Char.GetFaith.HighGodName] のご意志を善く知る者だ！"
+ mystic_lifestyle.1002.a:0 "我は汝よりも[ROOT.Char.GetFaith.HighGodName]のご意志を善く知る者だ！"
  mystic_lifestyle.1003.opening:0 "[SCOPE.sC('vassal').Custom2('RelationToMeShort', ROOT.Char )] は私を悲惨に見誤った"
  mystic_lifestyle.1003.desc:0 "あなたの奇妙な試みは[ROOT.Char.GetFaith.PriestNeuterPlural]に承認されません、そしてあなたの責任を誰かが問わねばなりません。私が今できなければ、[ROOT.Char.GetFaith.HighGodName]の罰が下るでしょう。\n\n道理をわきまえ、こんな奇妙な道に背を向けてください。これがどんな異端や悪魔崇拝につながるかしれません！"
  mystic_lifestyle.1003.a:1 "[ROOT.Char.GetFaith.HighGodNamePossessive]の秘密をあなたは知らぬ、私は止められない!"

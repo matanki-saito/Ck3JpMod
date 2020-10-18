@@ -100,7 +100,7 @@
  childhood.1002.b:0 "自分の力でなんとかなるよ。"
  childhood.1002.b_1:0 "上手くいかない"
  childhood.1002.b_2:0 "私は凄いことをしている"
- childhood.1003.t:0 "Growing Pains"
+ childhood.1003.t:0 "深まる痛み"
  childhood.1003.desc1:0 "I was enjoying the weather, listening to the laughter of my [child.Custom('GetDaughterSon')] [child.GetTitledFirstName] and [child.GetHerHis] friend [friend.GetTitledFirstName], when all of a sudden I saw [child.GetTitledFirstName] fall and hurt [child.GetHerHis] knee. [child.GetSheHe|U] approached me, after some prompting from [child.GetHerHis] friend, and asked for my help in tending to the injury."
  childhood.1003.desc2:0 "I was walking the gardens, enjoying the weather, when I saw my [child.Custom('GetDaughterSon')] [child.GetTitledFirstName] fall and scrape [child.GetHerHis] knee while playing with [child.GetHerHis] [child.Custom('child_favorite_toy')]. When I approached [child.GetHerHim], asking if [child.GetSheHe] was alright, [child.GetSheHe] asked for my help in tending to the injury."
  childhood.1003.desc3:0 "I had set a demanding task for my [child.Custom('GetDaughterSon')] [child.GetTitledFirstName], asking [child.GetHerHim] to read a complicated book in only a couple of days. The evening before [child.GetSheHe] was supposed to present the material to me, [child.GetSheHe] came to me and asked for my help."

@@ -30,7 +30,7 @@
  COUNTY_HOLDING_MODIFIER_INCOME:0 "[county|E]における$TYPE|V$の区画からの収入"
  COUNTY_DEVELOPMENT_TAX_MOD:1 "[county_development|E]から: $VALUE|=+%0$"
  COUNTY_DEVELOPMENT_LEVY_MOD:1 "[county_development|E]から: $VALUE|=+%0$"
- IGNORED_DEVELOPMENT:0 "#weak $VALUE$#! "
+ IGNORED_DEVELOPMENT:0 "#weak $VALUE$#!"
  COUNTY_DEVELOPMENT:0 "$VALUE$"
  SUPPLY_MINIMUM:0 "最低限の供給"
  HOLDING_TT_CONSTRUCTING:1 "[BUILDING.GetName|V]を建設中 (完成予定 [DATE.GetString])"

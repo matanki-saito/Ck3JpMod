@@ -12,7 +12,7 @@
  MAA_MAINTENANCE_SHORT:0 "[Regiment.CalcMaintenanceCost]/月"
  MAA_HOME_BANNER:0 "Home Rally Point:"
  MAA_DESTROY:0 "解隊"
- MAA_ARMY:0 "In Army: [Regiment.GetArmy.GetName]"
+ MAA_ARMY:0 "従軍中: [Regiment.GetArmy.GetName]"
  MAA_DESTROY_CONFIRMATION_TITLE:0 "[REGIMENT.GetNameNoTooltip]の解隊"
  MAA_DESTROY_CONFIRMATION_TEXT:0 "[REGIMENT.GetNameNoTooltip]の連隊を解隊します。"
  MAA_DESTROY_CONFIRMATION_ACCEPT:0 "解隊"

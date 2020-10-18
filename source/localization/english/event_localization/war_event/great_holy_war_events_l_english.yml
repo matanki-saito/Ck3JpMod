@@ -119,7 +119,7 @@
  great_holy_war.0071.generic.defenders.desc:0 "下劣な[attacker.GetTitledFirstName]は、[defender.GetPrimaryTitle.GetNameNoTier]の罪の無い人々に[attacker.GetFaith.GHWName]を呼びかけている。\n\n我々が生き延びるためには、[attacker.GetHerHis]の指揮下にある狂信者の無慈悲な大群に対して結集しなければならない。"
  great_holy_war.0081.title:0 "A New [actor.GetFaith.GHWName]"
  great_holy_war.0081.desc:0 "理由は何であれ、[actor.GetFaith.GHWName]は当初の目標から離れ、[secondary_recipient.GetPrimaryTitle.GetNameNoTier]に移動した。\n\n我々の領地は少なくとも今のところ、[actor.GetFaith.GetAdjective]の過激派による残虐行為を免れているようだ。"
- great_holy_war.0081.a:0 "At least we are safe."
+ great_holy_war.0081.a:0 "少なくとも我々は安全だ。"
  great_holy_war.0082.desc:0 "ここしばらくの間、[actor.GetFaith.GetAdjective]信仰は[actor.GetFaith.GHWName]のために軍勢を増強してきた。\n\nしかし、予期せぬ運命のねじれで、この大軍を率いる狂信者たちは当初の計画を変更し、[secondary_recipient.GetPrimaryTitle.GetNameNoTier]に進軍することを決定した。"
  great_holy_war.0082.a:0 "We have only a little time to prepare!"
  great_holy_war.0085.toast:0 "[converter.GetTitledFirstNamePossessive] conversion has forced me to forsake my pledge"

@@ -1,6 +1,6 @@
 ﻿l_english:
  HAS_DYNASTY_PRESTIGE_TRIGGER:1 "[DYNASTY.GetBaseName][dynasty|E]が[dynasty_prestige_i]$NUM|V0$[dynasty_prestige|E]を持っている"
- NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:1 "[DYNASTY.GetBaseName][dynasty|E]が[dynasty_prestige_i]$NUM|V0$ の[dynasty_prestige|E]を持っていない"
+ NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:1 "[DYNASTY.GetBaseName][dynasty|E]が[dynasty_prestige_i]$NUM|V0$の[dynasty_prestige|E]を持っていない"
  HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:1 "[DYNASTY.GetBaseName][dynasty|E]の[dynasty_prestige_level|E] が[GetDynastyPrestigeLevelName( '(int32)$NUM$' )]$COMPARATOR$である ($NUM|V0$)"
  NOT_HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:1 "[DYNASTY.GetBaseName][dynasty|E]が[GetDynastyPrestigeLevelName( '(int32)$NUM$' )]$COMPARATOR$の[dynasty_prestige_level|E]を#bold 持っていない#! ($NUM|V0$)"
  HAS_DYNASTY_MODIFIER:1 "[DYNASTY.GetBaseName][dynasty|E]には$MODIFIER|V$があります"

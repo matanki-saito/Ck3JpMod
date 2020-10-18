@@ -44,7 +44,7 @@
  war_event.3101.b.tt:0 "[war.GetName]は継続します"
  war_event.3101.b:0 "[defender.GetSheHe|U]はこれで私を止められると思っているのか？ハッ！"
  war_event.3102.t:0 "[attacker.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
- war_event.3102.desc:0 "あなたの[ROOT.Char.GetFaith.HighGodName]の新たな宗派は説得力に欠けます。私の大義は未だ正しい—そこに慈悲はないでしょう。"
+ war_event.3102.desc:0 "あなたの[ROOT.Char.GetFaith.HighGodName]の新たな宗派は説得力に欠けます。私の大義は未だ正しい——そこに慈悲はないでしょう。"
  war_event.3102.a:0 "[ROOT.Char.Custom('CulturalCurse')|U]！"
  war_event.2003.desc:0 "今、[liege_invalidator.Custom2('MyCharacterIntroduction', invalidator)]があなたに対する戦争を起こしたため、私の軍勢は[liege_invalidator.GetHerHis]に加わるでしょう。"
  war_event.2003.a:0 "好きにすればいい。"
