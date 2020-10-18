@@ -111,7 +111,7 @@
  feast_default.2008.d:0 "ああ、[homosexual_character.GetFirstNameNoTooltip]、知っていればよかった。"
  feast_default.2008.d.unlock_text:0 "このオプションはあなたの[sexuality|E]のために利用可能です。"
  feast_default.2009.t:0 "$feast_header$ どうぞ続けて"
- feast_default.2009.desc:1 "私は[secret_holder.GetTitledFirstName]の話を熱心に聞いている。[secret_holder.GetSheHe]はジョッキの中の酒を飲み干そうとしながら、[secret_holder.GetHerHis]のあらゆる事を無警戒に話してしまっている。[secret_holder.GetSheHe]は私がどれだけ注意深く警戒して聞いているかに気づかなかった。\n\n [secret_holder.GetSheHe] は私の態度に気づくと立ち上がった。「酒席で適当な会話をしていただけで、ここでの話はすべてジョークですよ！」"
+ feast_default.2009.desc:1 "私は[secret_holder.GetTitledFirstName]の話を熱心に聞いている。[secret_holder.GetSheHe]はジョッキの中の酒を飲み干そうとしながら、[secret_holder.GetHerHis]のあらゆる事を無警戒に話してしまっている。[secret_holder.GetSheHe]は私がどれだけ注意深く警戒して聞いているかに気づかなかった。\n\n[secret_holder.GetSheHe]は私の態度に気づくと立ち上がった。「酒席で適当な会話をしていただけで、ここでの話はすべてジョークですよ！」"
  feast_default.2009.a:0 "それはたまたまですが、#EMP とても#!興味深いジョークです。"
  feast_default.2011.t:0 "$feast_header$ 約束は約束"
  feast_default.2011.desc:0 "礼儀作法といったものに無頓着な[favor_character.Custom2('MyCharacterIntroduction', ROOT.Char )]が私を後ろから叩く。「つまり！」[favor_character.GetSheHe]は声高に言う。「頼まれたことは何でもするよ。どんなことでも。私に頼めば、それで終わりさ！」\n\n[favor_character.GetFirstNamePossessive]の息は酒臭いが、しかし、その約束は、出席しているすべての客人に記録されている。"

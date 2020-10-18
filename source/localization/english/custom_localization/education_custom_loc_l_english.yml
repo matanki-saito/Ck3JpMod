@@ -49,7 +49,7 @@
  education_intrigue_1_outcome_description:0 "細やかさ、忍耐力がない[ROOT.Char.GetSheHe]には長期的な計画を達成するのは難しいようだ。だが少なくとも[ROOT.Char.GetSheHe]は計画を立てる努力はしている。"
  education_intrigue_2_outcome_description:1 "[ROOT.Char.GetSheHe]は、[ROOT.Char.GetHerselfHimself]が小さな策略を十分にできることを示しているが、それを洗練されていると呼ぶ人は少ないだろう。しかし、洗練さは必ずしも必要ではない。"
  education_intrigue_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は今、[ROOT.Char.GetSheHe]の欲しいものを手に入れるための多くの手段を知っています。何よりも重要なのは[ROOT.Char.GetSheHe]が欲しいものを手に入れることが政治的にどのような意味を持つのかをよく知っているということです。"
- education_intrigue_4_outcome_description:0 "Now it is harder to say, however. Everything that is tasked of [ROOT.Char.GetHerHim] is done by others before [ROOT.Char.GetSheHe] gets to it, and [ROOT.Char.GetSheHe] never tells petty lies the way [ROOT.Char.GetSheHe] used to. Perhaps [ROOT.Char.GetSheHe] was not as clever as [ROOT.Char.GetSheHe] seemed after all."
+ education_intrigue_4_outcome_description:0 "しかし、今ではそれを言うのは難しい。[ROOT.Char.GetHerHim]に課せられた仕事はすべて、[ROOT.Char.GetSheHe]がそれをする前に他の人が行い、[ROOT.Char.GetSheHe]は以前のように些細な嘘をつかない。結局のところ、[ROOT.Char.GetSheHe]は思ったほど賢くなかったのかもしれない。"
  education_learning_1_outcome_description:0 "知識の追求は、[ROOT.Char.GetHerHis]の頭の中にきちんと根付いているようには見えず、今では、本や書物に囲まれて過ごす時間は、[ROOT.Char.GetHerHim]にとっては喜びというよりむしろ雑用のように思える。"
  education_learning_2_outcome_description:0 "[ROOT.Char.GetSheHe]は勉強熱心ではなかったが、古典からの引用句を暗唱することはできる。[ROOT.Char.GetSheHe|U]はおそらく偉大な定理を書くことはないだろうが、[ROOT.Char.GetSheHe]は難解な定理を一つや二つ読む力があるかもしれない。"
  education_learning_3_outcome_description:0 "[ROOT.Char.GetSheHe]は熱心な学習者であり、知識のかなりの提供者となり、高度な理論的及び神学的議論を構築し、十分に発揮できる能力が[ROOT.Char.GetHerselfHimself]に備わっていることは分かっている。"

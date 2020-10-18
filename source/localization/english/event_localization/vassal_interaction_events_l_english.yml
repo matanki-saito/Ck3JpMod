@@ -25,7 +25,7 @@
  vassal_interaction.0005.a:0 "よくも私に逆らったな！"
  vassal_interaction.0005.b:0 "今回は受け入れざるを得ない。"
  vassal_interaction.0006.desc:0 "あなたの主張は正当なものであり、あなたの望む補償なしにこれを要求するのは公正ではないと考えます。"
- vassal_interaction.0006.favor:0 "I will be in your debt for this."
+ vassal_interaction.0006.favor:0 "この件ではあなたに借りておきます。"
  vassal_interaction.0006.gold:0 "戦いが終わるまではあなたが失った金を支払いましょう。"
  vassal_interaction.0006.a:0 "あなたの優しさに感謝します。"
  vassal_interaction.0006.b:0 "あなたの寛大さに感謝します。"

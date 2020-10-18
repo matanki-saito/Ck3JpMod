@@ -19,7 +19,7 @@
  COMBAT_ROLL_BASE:0 "基本"
  LEFT_SIDE_ADVANTAGE:0 "我らの優位性"
  RIGHT_SIDE_ADVANTAGE:0 "彼らの優位性"
- COMMANDER_MARTIAL_ADVANTAGE:1 "指揮官 [martial_skill|E]"
+ COMMANDER_MARTIAL_ADVANTAGE:1 "指揮官の[martial_skill|E]"
  COMMANDER_SIDE_ROLL:0 "[combat_roll|E]"
  COW_TT_OLD_ACTION:0 "#T 優位性の効果: [CombatSideModifierItem.GetCombatEffect.GetName|V]#!\n[CombatSideModifierItem.GetDescription]"
  COW_TT_ADVANTAGE:1 "#T [advantage|E]: #P 30%#! in your favor#!\nExtra damage dealt: #P +120%#!"

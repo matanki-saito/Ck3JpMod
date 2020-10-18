@@ -51,7 +51,7 @@
  chancellor_task.3101.b:0 "彼らの[ROOT.Char.GetTitleTierName]として、私の言うように彼らは行動するだろう！"
  chancellor_task.3101.c:0 "彼ら自身で解決させよう。"
  chancellor_task.3101.c.tt:0 "[attacker_vassal.GetFirstNameNoTooltip]と[defender_vassal.GetFirstNameNoTooltip]の間の戦争は続行します"
- chancellor_task.3102.desc:0 "私は[vassal.GetTitledFirstNamePossessive]が現状よりも重い義務契約を継承したことに気づいたが、未だ実施されていない。"
+ chancellor_task.3102.desc:0 "私は[vassal.GetTitledFirstNamePossessive]が現状よりも重い義務契約を継承したことに気づきましたが、未だ実施されていないようです。"
  chancellor_task.3102.a:0 "これを正す時がきた！"
  chancellor_task.3102.c:1 "放っておこう。今のところはな…"
  chancellor_task.3003.t:0 "権威の喪失"

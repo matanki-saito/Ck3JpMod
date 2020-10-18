@@ -102,7 +102,7 @@
  vassal.2620.desc:0 "私の[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('warmongering_vassal'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('warmongering_vassal'))]、[warmongering_vassal.GetTitledFirstName]は[warmongering_vassal.Custom('quirk_neg_present')]。\n\n「我が[ROOT.Char.GetLadyLord]、[holder_of_claim.GetTitledFirstName]にはあなたの怒りも、軍隊も見られません。なぜ始める気もない戦争を私に約束なさったのです？」"
  vassal.2620.a:0 "他にもやることがいろいろあってね…"
  vassal.2701.t:0 "[ROOT.Char.Custom('CommanderTraitBeingTaughtNoTooltip')]の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('teacher'))|U]"
- vassal.2701.desc:0 "我が[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('teacher'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('teacher'))]の[teacher.GetTitledFirstName]は軍事的な事柄での剛勇ぶりで知られている - それは私自身が特に欠けていると感じている分野である。"
+ vassal.2701.desc:0 "我が[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('teacher'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('teacher'))]の[teacher.GetTitledFirstName]は軍事的な事柄での剛勇ぶりで知られている——それは私自身が特に欠けていると感じている分野である。"
  vassal.2701.a:0 "[teacher.GetFirstNameNoTooltip]、私に稽古をつけてくれないか？"
  vassal.2701.a.tt:0 "私は[THIS.Char.Custom('CommanderTraitBeingTaught')]の特性を獲得しません"
  vassal.2701.a.random_list.success:0 "訓練は成功する"

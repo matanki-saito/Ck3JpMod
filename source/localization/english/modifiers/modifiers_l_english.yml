@@ -603,7 +603,7 @@
  combat_debt_level_3:0 "所有者は3年間[debt|E]をしている"
  combat_debt_level_4:0 "所有者は4年間[debt|E]をしている"
  combat_debt_level_5:0 "所有者は5年以上[debt|E]をしている"
- combat_debt_level_6:0 "所有者10年以上[debt|E]をしている"
+ combat_debt_level_6:0 "所有者が10年以上[debt|E]中"
  debt_level_0:0 "Slightly in [debt|E]"
  debt_level_1:0 "One year in [debt|E]"
  debt_level_2:0 "Two years in [debt|E]"

@@ -1,5 +1,5 @@
 ﻿l_english:
- yearly.1001.t:0 "Through Downcast Lashes"
+ yearly.1001.t:0 "まつ毛の奥に"
  yearly.1001.start.desc:0 "[married_seducer.GetTitledFirstNamePossessive]と目が合うのは今夜で20回目になるような気がするが、これは想像ではないことがわかった。テーブルに向かい合い見つめる[married_seducer.GetHerHis]の視線は真昼の日差しのように強烈に感じられた。\n\n[married_seducer.GetSheHe|U]は私を欲しており、"
  yearly.1001.end_hesitation.desc:0 "そして私の身体は目覚め反応しているのを感じる。しかし、[seducer_spouse.GetTitledFirstName]——[married_seducer.GetHerHis]の[seducer_spouse.GetWifeHusband]、そして我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('seducer_spouse'))]——は今夜もここにいる…"
  yearly.1001.end_intimidated.desc:0 "そして私は恐れている。[married_seducer.GetHerHim]を？[married_seducer.GetHerHis]の[seducer_spouse.GetWifeHusband]である[seducer_spouse.GetTitledFirstName]を？あるいは…私が何をするのかを？私には言えない。"

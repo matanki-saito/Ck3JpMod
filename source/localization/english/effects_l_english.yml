@@ -1171,7 +1171,7 @@
  CLEARED_TITLE_LAWS:0 "[TITLE.GetName]のすべての称号法は削除されました"
  ADD_TITLE_LAW:1 "[TITLE.GetName|U]が[LAW.GetName|V]の継承法を得るでしょう"
  leave_faction_with_cooldown_effect_third.tt:1 "#V $VALUE|0$年#!間他の[faction|E]に参加しないでしょう"
- leave_faction_with_cooldown_effect_first.tt:2 "あなたは#V $VALUE|0$年#!間、他の[faction|E]に参加できません"
+ leave_faction_with_cooldown_effect_first.tt:2 "#V $VALUE|0$年#!間、他の[faction|E]に参加できません"
  LEAVES_COURT:0 "[CHARACTER.GetLiege.GetShortUINamePossessive]の[court|E]を去ります"
  CHARACTER_LEAVES_COURT:0 "[CHARACTER.GetShortUIName|U]が[CHARACTER.GetLiege.GetShortUINamePossessive]の[court|E]を去ります"
  LEFT_COURT:0 "[CHARACTER.GetLiege.GetShortUINamePossessive]の[court|E]を去りました"

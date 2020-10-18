@@ -1,6 +1,6 @@
 ﻿l_english:
  PRISON_WINDOW:0 "私の捕囚"
- PRISONER_TOOLTIP:0 "#weak $TYPE$に収監中#!"
+ PRISONER_TOOLTIP:0 "#weak $TYPE$で収監中#!"
  CAN_NOT_RANSOM:0 "[CHARACTER.GetUIName]は身代金を支払うことはできません。"
  CAN_NOT_RELEASE:0 "[CHARACTER.GetUIName]は牢獄から解放できません。"
  CAN_NOT_EXECUTE:0 "[CHARACTER.GetUIName]は処刑できません。"
