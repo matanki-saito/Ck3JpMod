@@ -107,7 +107,7 @@
  learning_medicine.2030.d.trait:0 "日記を書くことは私を落ち着かせる"
  learning_medicine.2030.d.modifier:0 "くつろいだ気分ではないが、私の文章力は向上した"
  learning_medicine.2040.e:0 "丸一日休もう。"
- learning_medicine.2050.t:0 "出血"
+ learning_medicine.2050.t:0 "出血死"
  learning_medicine.2050.start.desc:0 "兵舎の医務室を視察していると、ひどく傷ついた兵士が担ぎ込まれてきた。「出血が多すぎる。医者はどこだ？」\n\n"
  learning_medicine.2050.physician.desc:0 "[physician.GetTitledFirstName]はどこにもいなかった。"
  learning_medicine.2050.no_physician.desc:0 "癒し手はどこにも見つからない。"

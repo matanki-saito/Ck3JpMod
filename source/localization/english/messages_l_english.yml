@@ -190,7 +190,7 @@
  msg_i_not_head_of_faith_anymore:0 "宗教指導者の変更"
  msg_i_not_head_of_faith_anymore_desc:0 "[LEFT_CHARACTER.GetShortUIName|U]はあなたに代わり、[FAITH.GetName]の[FAITH.ReligiousHeadName]になりました"
  msg_new_fascination_selected:0 "新しい[cultural_fascination|E]"
- msg_new_fascination_selected_desc:2 "あなたの[culture|E]は今$NAME|V$の[innovation|E]に[Concept( 'fascination', '志向' )|E]を定めています"
+ msg_new_fascination_selected_desc:2 "あなたの[culture|E]は今、$NAME|V$の[innovation|E]に[Concept( 'fascination', '志向' )|E]を定めています"
  msg_innovation_discovered:0 "革新性を発見しました"
  msg_innovation_discovered_desc:3 "あなたの[culture|E]が$NAME|V$を発見しました！"
  msg_fascination_discovered:0 "志向を獲得しました"

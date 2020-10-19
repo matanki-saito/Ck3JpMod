@@ -92,7 +92,7 @@
  CLAIMANT_SORT_STRENGTH:0 "軍事力"
  CLAIMANT_SORT_NAME:0 "名前"
  TITLE_CLAIMANTS_HEADER:0 "請求者"
- TITLE_CLAIMANTS_TOOLTIP:0 "#T [claimants|E]を見る#!\n#V [TitleViewWindow.GetNumberOfClaimants]#!人の[Select_CString( EqualTo_int32( TitleViewWindow.GetNumberOfClaimants, '(int32)1' ), 'Claimant','Claimants' )]"
+ TITLE_CLAIMANTS_TOOLTIP:0 "#T [claimants|E]を見る#!\n#V [TitleViewWindow.GetNumberOfClaimants]#!人の[Select_CString( EqualTo_int32( TitleViewWindow.GetNumberOfClaimants, '(int32)1' ), '請求者','請求者' )]"
  TITLE_SORT_BY:1 "並べ替え順:"
  SORT_BY_DIPLOMACY:0 "[diplomacy|E]能力で並べ替え: [Select_CString( And( CharacterSelectionList.IsSortingBySkill( '(int32)0' ), Not( CharacterSelectionList.GetSortOrder ) ), '昇順', '降順' )|V]"
  SORT_BY_MARTIAL:0 "[martial|E]能力で並べ替え: [Select_CString( And( CharacterSelectionList.IsSortingBySkill( '(int32)1' ), Not( CharacterSelectionList.GetSortOrder ) ), '昇順', '降順' )|V]"

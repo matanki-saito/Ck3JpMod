@@ -42,7 +42,7 @@
  NO_FOCUS:0 "フォーカスがありません"
  FOCUS_COOLDOWN_DATE:0 "@warning_icon!#X フォーカスの変更には時期尚早です。 [DATE.GetString]まで待つ必要があります#!"
  FOCUS_SET:0 "Choose this Lifestyle Focus"
- FOCUS_NO_EMPLOYER:1 "@warning_icon!#X Only the employer can change the Focus#!"
+ FOCUS_NO_EMPLOYER:1 "@warning_icon!#X 直接の主君のみがフォーカスを変更できます#!"
  already_reset_perks_tt:1 "すでに一度パークをリセットしています！"
  EXPERIENCE:0 "[Lifestyle.GetNameNoTooltip][experience|E]: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]"
  UNLOCKED_PERKS:0 "[Lifestyle.GetNameNoTooltip][perks|E]解禁済み: [Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"

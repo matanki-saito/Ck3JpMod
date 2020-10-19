@@ -453,7 +453,7 @@
  game_concept_matrilineal:0 "婿養子"
  game_concept_matrilineally:0 "母系"
  game_concept_matrilineal_desc:0 "$game_concept_matrilineal$[marriage|E]では、生まれた子供は母方の[house|E]の一員とされ、父方の家系には属しません。"
- game_concept_patrilineal:0 "家系"
+ game_concept_patrilineal:0 "父系"
  game_concept_patrilineal_desc:0 "$game_concept_patrilineal$[marriage|E]では、生まれた子供は父方の[house|E]の一員とされます。"
  game_concept_divorce:0 "離婚"
  game_concept_divorced:0 "離婚"

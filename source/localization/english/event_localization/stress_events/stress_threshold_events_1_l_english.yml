@@ -373,7 +373,7 @@
  stress_threshold.3421.desc.greedy:0 "私は平然とただコインを数え続けている。煌びやかな銀と金の山が、小さな城の櫓のように私を取り囲み、大きさと純度で分類されたそれは、私の財産のかなりの部分を占めている。"
  stress_threshold.3421.desc.lazy:0 "My eyes remain shut. I swing gently in my cloth sling, alone in the tallest tower I own, save for the messenger and a [ROOT.GetCharacter.GetTitleAsNamePossessiveNoTooltip|L] ransom in soft pillows and blankets."
  stress_threshold.3421.desc.arrogant:0 "I keep at my model construction of a new, perfect version of the ideal palace. It is like me in every detail, and, because I am making it, every last detail is inherently correct."
- stress_threshold.3421.desc.craven:0 "I remain firmly secured behind a heavy, iron-banded door. It would take a dozen stout soldiers to break in here, and in this safe, windowless room I am further from danger."
+ stress_threshold.3421.desc.craven:0 "私は重い鉄で出来た縞模様の扉の後ろでしっかりと守られている。ここに侵入するには十数人の頑丈な兵士が必要で、窓の無いこの安全な部屋では、危険ははるかに及ばない。"
  stress_threshold.3421.desc.gregarious:0 "後ろから聞こえてくる騒々しい笑い声と歓喜の音の向こうで、私は彼らの声がほとんど聞こえない。私のパーティーは盛り上がっており、すでに数日が経っている。"
  stress_threshold.3421.desc.cynical:0 "I stare back at them from the doorway of my sanctuary, my face a mask of disbelief. Burning, honestly? A clear and obvious lie. How can I ever know this is truly one of #EMP my#! servants? They could be anyone! Best to get rid of them quickly."
  stress_threshold.3421.desc.zealous:0 "I continue reading from [ROOT.GetCharacter.GetFaith.ReligiousText], surrounded by the sacred symbols of my faith, beseeching [ROOT.GetCharacter.GetFaith.HighGodName] for guidance. Only when it becomes clear that the messenger will not leave do I turn."

@@ -248,7 +248,7 @@
  feast_default.6231.b:0 "皆で協力する必要がある。さあ来るんだ。"
  feast_default.6231.c:0 "秘密の貯蔵庫を開ける時が来たな。"
  feast_default.6251.t:0 "$feast_header$ ジレンマ"
- feast_default.6251.desc:0 "ごちそうもだんだん少なくなってゆき、気がつけば[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest'))][guest.GetTitledFirstName]との会話も深まっている。\n\n[guest.GetSheHe|U]は[guest.Custom('subject_of_interest')]について私の意見を尋ねるー[guest.GetSheHe]は[guest.GetHerselfHimself]に強い関心を持っている。"
+ feast_default.6251.desc:0 "ごちそうもだんだん少なくなってゆき、気がつけば[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest'))][guest.GetTitledFirstName]との会話も深まっている。\n\n[guest.GetSheHe|U]は[guest.Custom('subject_of_interest')]について私の意見を尋ねる——[guest.GetSheHe]は[guest.GetHerselfHimself]に強い関心を持っている。"
  feast_default.6251.a:0 "私も興味をそそられるテーマです！"
  feast_default.6251.b:0 "どうでもいい。"
  feast_default.6251.c:0 "私はむしろ#EMP あなた#!のことを知りたいんだ…！"

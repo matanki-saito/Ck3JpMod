@@ -1,5 +1,5 @@
 ﻿l_english:
- PASS_LAW_TOOLTIP_TITLE:3 "[Select_CString(GuiLaw.IsEnacted, '', 'Pass')] [Law.GetNameNoTooltip]"
+ PASS_LAW_TOOLTIP_TITLE:3 "[Law.GetNameNoTooltip]を[Select_CString(GuiLaw.IsEnacted, '', '制定')]"
  LAW_TOOLTIP_TITLE:1 "[Law.GetNameNoTooltip]"
  ADD_LAW_CONFIRMATION_TITLE:1 "[LAW.GetNameNoTooltip]法を可決"
  ADD_LAW_CONFIRMATION_ACCEPT:0 "法を可決する"
