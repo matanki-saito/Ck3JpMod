@@ -288,7 +288,7 @@
  child_personality.111.desc:0 "[child.GetTitledFirstName]は前々から[child.Custom('child_object_of_interest_indefinite')]が欲しいと言っていたので、勉強にもっと力を入れてくれれば3ヶ月後にはそれを買ってやると伝えた。"
  child_personality.111.content:0 "\n\nすると[child.GetSheHe|U]から、ご褒美に関係なく今のまま勉強は続けると言われた。"
  child_personality.111.fickle:1 "\n\n [child.GetSheHe]はもうそんなことはどうでもいいと言って、[child.GetSheHe|U]は私の提案を簡単に振り払ってくれた。"
- child_personality.111.trusting:0 "\n\n[child.GetSheHe]と約束した時から [child.GetHerHis]はそれを真に受けて夢中で勉強するようになった。"
+ child_personality.111.trusting:0 "\n\n[child.GetSheHe]と約束した時から、[child.GetHerHis]はそれを真に受けて夢中で勉強するようになった。"
  child_personality.111.confirm_content:0 "私たちは、日常から生きることを学ぶ。"
  child_personality.111.confirm_fickle:0 "心変わりは健全な心である。"
  child_personality.111.confirm_trusting:0 "私はお前を騙したりしないよ、[child.GetFirstNameNoTooltip]。"

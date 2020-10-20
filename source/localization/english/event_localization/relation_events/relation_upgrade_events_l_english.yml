@@ -21,7 +21,7 @@
  relation_upgrade.0001.gossip:0 "誰か知っている人がいるはずだ…"
  relation_upgrade.0001.gossip.tt:0 "あなたは領国内からランダムな秘密を発見します。"
  relation_upgrade.0001.book:0 "[ROOT.Char.GetFaith.ReligiousText]を熟読するのは、常に良い時間の使い方だ。"
- relation_upgrade.0001.opt_out:0 "この災害で時間を無駄にしてしまった..."
+ relation_upgrade.0001.opt_out:0 "この災難で時間を無駄にしてしまった..."
  relation_upgrade.0011.t:0 "$relation_upgrade.0001.t$"
  relation_upgrade.0011.desc.opening:0 "$relation_upgrade.0001.desc.opening$"
  relation_upgrade.0011.desc.rival:0 "私が大会組織のまずさについて嘆いていると、[source.Custom2('MyCharacterIntroduction', ROOT.Char)]がいきなり近づいてきて、私を馬の水桶に押し込み、周りの皆はつられて爆笑している！"

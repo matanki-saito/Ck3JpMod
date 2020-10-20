@@ -45,7 +45,7 @@
  diplomacy_foreign.3008.desc.bribe:0 "賄賂で私から何か引き出せると思っているのなら、あなたは私を大きく見誤っています。強欲は非常に不道徳な特性です。"
  diplomacy_foreign.3008.desc.end:0 "思うに、私はあなたの友情を尊重してきたのですが…"
  diplomacy_foreign.3008.a:0 "しまった。"
- diplomacy_foreign.3008.a.tt:1 "少なくとも学べたものはありました！"
+ diplomacy_foreign.3008.a.tt:1 "少なくとも学べたものはあった！"
  diplomacy_foreign_special.1017.t:0 "もてなし"
  diplomacy_foreign_special.1017.desc:0 "貴族の国政術を学べば学ぶほど、私は隣人との良好な関係がいかに有益なものであるかを実感している。\n\n私は、彼らのうちの一人に私の宮廷を訪れてもらい、私がどれほど良い友人であるかを彼らに示したいのだが——誰を招待するべきだろうか？"
  diplomacy_foreign_special.1017.a:0 "[target_list_member_a.GetNameNoTooltip]だ。"

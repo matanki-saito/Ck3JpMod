@@ -25,7 +25,7 @@
  stress_smelling_of_sweat_desc:0 "汗の悪臭がこの人物の周りを漂っている。"
  stress_busy_writing:0 "Occupied Writing"
  stress_busy_writing_desc:0 "この人物はほとんどの時間を執筆に費やしている"
- irritating_everyone_modifier:1 "Lashing Out"
+ irritating_everyone_modifier:1 "暴言"
  irritating_everyone_modifier_desc:1 "この人物は彼らの苛立ちと怒りを制御するために何もしていない。"
  irritating_everyone_courtier_modifier:1 "$irritating_everyone_modifier$"
  irritating_everyone_courtier_modifier_desc:1 "$irritating_everyone_modifier_desc$"

@@ -36,7 +36,7 @@
  witch.2003.b:0 "これでやっと我が正体を[target.GetHerHim]に見せることができる。"
  witch.2003.b.tt:0 "[target.GetShortUIName|U]を$activity_witch_ritual$に招待することであなたの[secret|E]は知られます"
  witch.2003.c:0 "[target.GetSheHe|U]は[target.GetHerHis]の道を見つけねばならない。"
- witch.2003.message:0 "The witch reveals [owner.GetHerselfHimself] to me"
+ witch.2003.message:0 "魔女はその正体を明らかにする"
  witch.2004.t:1 "$convert_to_witch$: 閉ざされた精神、冷たい心"
  witch.2004.start.desc:0 "[target.GetFirstName] stirs from sleep as I climb through [target.GetHerHis] window. \"Who goes there?\" [target.GetSheHe] demands with an unsteady voice.\n\n\"My name is not relevant. I am here in the service of [owner.GetFaith.WitchGodName].\"\n\n"
  witch.2004.discovered.desc:0 "[target.GetFirstNameNoTooltip]は目を細める。[ROOT.Char.GetFirstNameNoTooltip]、あなたなのか？[owner.GetFaith.WitchGodName|U]？何を言ってるんだ！？"

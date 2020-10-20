@@ -125,6 +125,6 @@
  sway_ongoing.5014.desc_failed_expansion:0 "[ROOT.Char.GetSheHe]は私の食堂を荒らした…"
  sway_ongoing.5014.desc_failed_library:0 "[ROOT.Char.GetSheHe]は私の書斎を荒らした…"
  sway_ongoing.5014.desc_failed_gold:0 "[ROOT.Char.GetSheHe]は私の金を盗もうとした…"
- sway_ongoing.5014.desc_ending:0 "\n\n「#EMP えへん#!」すぐに別れの挨拶をした後に、またすぐに私は帰路についた。"
+ sway_ongoing.5014.desc_ending:0 "\n\n「#EMP えへん#!」 手短に挨拶を済ませると、すぐにまた私は帰路についた。"
  sway_ongoing.5014.a_good:0 "役に立ててよかった！"
  sway_ongoing.5014.a_bad:0 "たぶんそれが一番いい。"

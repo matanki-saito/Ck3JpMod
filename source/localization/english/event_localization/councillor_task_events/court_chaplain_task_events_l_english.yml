@@ -8,7 +8,7 @@
  court_chaplain_task.0301.b:0 "いや、止めよう。"
  court_chaplain_task.0301.b.tt:0 "請求権の捏造の進捗をすべて失う"
  court_chaplain_task.0302.desc:1 "私は大昔の... 出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができる証拠を取り揃えました。\n\nそれどころか、[duchy.GetName]の[ROOT.Char.GetLadyLord|U]であると公言することも出来ます!"
- court_chaplain_task.0302.desc_heretic_addition:0 "私は大昔の... 出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができるだけの証拠を取り揃えました。\n\n拝見したところによると生憎ですが[duchy_holder.GetFirstName]が#EMP [duchy_holder.GetFaith.GetAdherentName]#!であると言い放つのと同じように、御主君が[duchy.GetName]への請求権が持つこと論じることができますね - 神の恩寵によって！"
+ court_chaplain_task.0302.desc_heretic_addition:0 "私は大昔の...出所不明の資料を漁りまわり、ようやく御主君が[county.GetName]の正統な[ROOT.Char.GetLadyLord|U]であると主張することができるだけの証拠を取り揃えました。\n\n[duchy_holder.GetFirstName]が遺憾ながら#EMP [duchy_holder.GetFaith.GetAdherentName]#!であると主張していることを鑑みれば、御主君は神がお与えになった[duchy.GetName]の請求権をお持ちであるとさえ言えるでしょう！"
  court_chaplain_task.0302.a:0 "[county.GetNameNoTierNoTooltip]への請求権を主張しよう。"
  court_chaplain_task.0302.b:0 "いいぞ！[duchy.GetNameNoTierNoTooltip]のすべては私のものとなるだろう！"
  court_chaplain_task.0311.t:0 "[county.GetNameNoTierNoTooltip]の請求！"

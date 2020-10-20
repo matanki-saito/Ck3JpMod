@@ -19,4 +19,4 @@
  courtier_guest_management.1001.vassal.desc:0 "[exceptional_guest.GetShortUIName|U]は忠実で優れた封臣になるだろう"
  courtier_guest_management.1001.commander.desc:0 "[exceptional_guest.GetShortUIName|U]は優れた指揮官になるだろう"
  courtier_guest_management.1001.knight.desc:0 "[exceptional_guest.GetShortUIName|U]は経験豊かな戦士です"
- courtier_guest_management.1001.physician.desc:0 "[exceptional_guest.GetShortUIName|U]は癒し手の訓練を受けています"
+ courtier_guest_management.1001.physician.desc:0 "[exceptional_guest.GetShortUIName|U]は訓練を積んだ治療師です"

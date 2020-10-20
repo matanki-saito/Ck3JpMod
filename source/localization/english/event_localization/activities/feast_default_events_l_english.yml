@@ -116,7 +116,7 @@
  feast_default.2011.t:0 "$feast_header$ 約束は約束"
  feast_default.2011.desc:0 "礼儀作法といったものに無頓着な[favor_character.Custom2('MyCharacterIntroduction', ROOT.Char )]が私を後ろから叩く。「つまり！」[favor_character.GetSheHe]は声高に言う。「頼まれたことは何でもするよ。どんなことでも。私に頼めば、それで終わりさ！」\n\n[favor_character.GetFirstNamePossessive]の息は酒臭いが、しかし、その約束は、出席しているすべての客人に記録されている。"
  feast_default.2011.a:0 "あなたは約束を守る[favor_character.GetWomanMan]だよな？"
- feast_default.2011.b:0 "ハッ！[favor_character.GetTitledFirstNameNoTooltip]は酔い過ぎていて何を言っているのやらわからない！」"
+ feast_default.2011.b:0 "「ハッ！[favor_character.GetTitledFirstNameNoTooltip]は酔い過ぎていて何を言っているのやらわからない！」"
  feast_default.2012.t:0 "$feast_header$ 目撃者"
  feast_default.2012.desc:0 "外でよろめきながら用を足していると、角を曲がったところから叫び声が聞こえてきた。私が振り返ると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer'))]である[murderer.GetTitledFirstName]が冷たく笑いながら[murderer.GetHerHis]の剣を[murdered_guest.GetTitledFirstName]の顔に突き刺しているのを見た。\n\n私を振り返った[murderer.GetFirstName]の顔には驚きがあったが、私がどんな音を立てたとしても，それだけで十分であったに違いない。"
  feast_default.2012.a:0 "何を#EMP 殺って#!るんだ?!"

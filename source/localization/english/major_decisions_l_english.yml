@@ -48,7 +48,7 @@
  major_decisions.2001.b_tirakka:0 "I will found the University of Sankoré!"
  major_decisions.2001.fallback:0 "大学を...今日は造らない。"
  major_decisions.2001.fallback.tt:0 "The county's Development is too low, or it already has a Special Building Slot"
- major_decisions.2002.desc:1 "A new age of knowledge is upon us; a university has been founded in the realm of [founder.GetName]. It is quickly becoming a hub for scholars and other learned people, proclaiming it the ultimate environment for young people to learn the trivium and quadrivium, and all else one might need in order to understand the world."
+ major_decisions.2002.desc:1 "知識の新時代が到来した; [founder.GetName]の領国に大学が設立された。大学は急速に学者や他の知識人のための中心地になりつつあり、若者たちがトリウィウムやクアドリウィウム、そして世界を理解するために必要なすべてのものを学ぶための究極の環境であることを宣言している。"
  major_decisions.2002.a:1 "May their knowledge benefit us all!"
  major_decisions.2011.t:0 "The Wise [new_courtier.GetWomanMan|U]"
  major_decisions.2011.desc:0 "[new_courtier.GetName]は、[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('new_courtier') )]と賢さを兼ね備えた[new_courtier.GetWomanMan]で、私に丁寧な挨拶をしてきた。\n\n「あなたの新しい大学のことを聞いてきました！それほどまでに知識を好む[ROOT.Char.GetTitleAsNameNoTooltip]...あなたのお役に立てれば光栄です。」"

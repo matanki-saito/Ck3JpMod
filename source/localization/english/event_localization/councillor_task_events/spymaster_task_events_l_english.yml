@@ -101,7 +101,7 @@
  spymaster_task.1002.greeting:1 "関係者の皆様へ…"
  spymaster_task.1002.desc:0 "証拠となる書類を同封いたしました。繰り返しになりますが、このことは誰にも話してはなりません。我が主君である[councillor_liege.GetTitledFirstName]でさえ、これらの存在に気付いておらず、それはそのままにしておかなければなりません。"
  spymaster_task.1002.a:0 "これは私が受け取るはずではなかったものだと思うが…"
- spymaster_task.1002.a.tt:1 "#F ...but who am I to pass up a gift from a [councillor.GetCouncilTitle]?#!"
+ spymaster_task.1002.a.tt:1 "#F …だが[councillor.GetCouncilTitle]からの贈り物は上手く使わねばな#!"
  spymaster_task.1003.a.tt:1 "領域内の誰かが[courtier.GetTitledFirstNamePossessiveNoTooltip]の[secrets|E]の一つを知りました。\n\n"
  spymaster_task.1003.notification:0 "秘密の手紙を失くした"
  spymaster_task.1101.desc_opening:0 "私は[owner.GetTitledFirstName]による"

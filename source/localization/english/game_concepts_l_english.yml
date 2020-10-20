@@ -1489,7 +1489,7 @@
  game_concept_maneuver_desc:0 "$game_concept_maneuver$フェイズは、[battle|E]の開始時に発生する。[main_phase|E]が始まり、[armies|E]同士が抗戦するまでの時間を示す。"
  game_concept_combat_phase:0 "戦闘フェイズ"
  game_concept_combat_phase_desc:0 "$game_concept_combat_phase$は、[battle|E]の段階のことである。戦闘には、三つのフェイズがある; [maneuver|E]、[main_phase|E]、そして[aftermath|E]。"
- game_concept_hold:0 "Hold"
+ game_concept_hold:0 "所有"
  game_concept_title_heir:0 "称号後継者"
  game_concept_title_heirs:0 "称号後継者"
  game_concept_title_heir_desc:0 "称号後継者は特定の[title|E]とその[title_succession|E]における[heir|E]であり、現在の[holder|E]が死亡した場合その称号を受け取ります。"

@@ -1,6 +1,6 @@
 ﻿l_english:
- greeting_lover_object:0 "[second.GetTitledFirstName|U], my [ROOT.Char.Custom2('LoverSeductionObject', SCOPE.sC('second'))],"
- greeting_lover_fallback:0 "[second.GetTitledFirstName|U], my dear [second.Custom('LoverPetName')],"
+ greeting_lover_object:0 "[second.GetTitledFirstName|U]、我が[ROOT.Char.Custom2('LoverSeductionObject', SCOPE.sC('second'))]、"
+ greeting_lover_fallback:0 "[second.GetTitledFirstName|U]、我が親愛なる[second.Custom('LoverPetName')]、"
  greeting_liege_positive:1 "[ROOT.Char.Custom2('GreetingToLiegePositive', second)]"
  greeting_liege_negative:1 "[ROOT.Char.Custom2('GreetingToLiegeNegative', second)]"
  greeting_liege_liked:0 "我が[second.Custom('ComplimentAdjective')]主君、ご機嫌はいかがでしょうか"

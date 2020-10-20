@@ -180,7 +180,7 @@
  lover.2002.secret:0 "\n\n単に我々の恋愛を秘密にしておくだけでも計り知れない任務だ！"
  lover.2002.a:0 "いいや、[ROOT.GetCharacter.Custom('LoverPetName')]よ、私が気にしてないわけではないのだ！"
  lover.2003.t:0 "愛の「重荷」"
- lover.2003.desc:0 "[first_lover.GetSheHe|U] blames all [first_lover.GetHerHis] duties as a [first_lover.Custom('my_title')], but it feels though [first_lover.GetTitledFirstName] does not even look at me the way [first_lover.GetSheHe] used to.\n\nIs it really too much to ask that someone who claims to love you takes the time to spend at least a moment in your company?"
+ lover.2003.desc:0 "[first_lover.GetSheHe|U]は[first_lover.Custom('my_title')]としての[first_lover.GetHerHis]のすべての義務を責めているのだが、[first_lover.GetTitledFirstName]は以前の[first_lover.GetSheHe]のように 私を見ていないような気がする。\n\nあなたを愛していると言っている人が、あなたと共に過ごすのに少しでも時間を割いてくれと言うのは、本当に無理な注文なのだろうか？"
  lover.2003.a:0 "私はこれ以上の価値がある。"
  lover.2004.t:0 "壊れた約束"
  lover.2004.desc:0 "私の[ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))] [lover.GetTitledFirstName]は[lover.GetHerHis]が[lovers_lover.GetTitledFirstName]と結婚するのは政治的に必要なことだと主張しているが、[lover.GetSheHe]が[lover.GetHerHis]の[lover.Custom2('RelationToMe',SCOPE.sC('lovers_lover'))]に向ける微笑みの中にはいくつか疑わしいものもある…"

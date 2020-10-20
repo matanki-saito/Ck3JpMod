@@ -684,7 +684,7 @@
  MAKE_TOOLTIP_COMBINE:0 "#tooltip:$TOOLTIP$ $TEXT$#!"
  SET_CHARACTER_CONTROLLER_TITLE:0 "$TITLE$"
  SET_CHARACTER_CONTROLLER_TEXT:0 "$TEXT$"
- CHARACTER_DEAD_TOOLTIP_DATE_INFO:0 "[Character.GetDeathDate.GetString|V] [Character.GetAgeInfo] (born [Character.GetBirthDate.GetString|V])"
+ CHARACTER_DEAD_TOOLTIP_DATE_INFO:0 "[Character.GetDeathDate.GetString|V][Character.GetAgeInfo]([Character.GetBirthDate.GetString|V]生)"
  CHARACTER_DEAD_TOOLTIP_HIDE_KILLER:0 "$CHARACTER_DEAD_TOOLTIP_DATE_INFO$に[Character.GetDeathReasonHideKiller|U]"
  MISSING_CONTINUE_SAVE_GAME_TITLE:0 "Missing Savegame"
  MISSING_CONTINUE_SAVE_GAME_DESC:0 "セーブデータが見つかりません:\n$SAVE_GAME$"
