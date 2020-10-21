@@ -46,6 +46,7 @@ jobs:
           PARATRANZ_SECRET: ${{ secrets.PARATRANZ_SECRET }}
           AWS_S3_ACCESS_KEY: ${{ secrets.AWS_S3_ACCESS_KEY }}
           AWS_S3_SECRET_ACCESS_KEY: ${{ secrets.AWS_S3_SECRET_ACCESS_KEY }}
+          RUN_NUMBER: ${{ github.run_number }}
 
       - name: push translation
         run: |

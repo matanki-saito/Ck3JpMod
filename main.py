@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import shutil
+import textwrap
 import urllib.request
 import zipfile
 from os.path import join
@@ -83,10 +84,31 @@ def assembly_mod(mod_file_name,
     shutil.copytree(src=_(ext_paratranz_main_dir_path, "utf8", "game", "localization", "english"),
                     dst=_(mod_loc_root_dir_path, "english"))
 
+    # 特別なファイルを移す ISSUE #1 参照
+    game_replace_dir_path = _(mod_loc_replace_dir_path, "game")
+    os.makedirs(game_replace_dir_path, exist_ok=True)
+    shutil.copy(_(resource_dir_path, "japanese_l_english.yml"), game_replace_dir_path)
+
     # descriptor.modを置く
-    shutil.copy(_(resource_dir_path, "descriptor.mod"), mod_dir_path)
+    generate_descriptor_mod_file(mod_dir_path, os.environ.get("RUN_NUMBER"), "1.1.*", 2217567218)
 
     return mod_dir_path
+
+
+def generate_descriptor_mod_file(target_path, mod_version, game_version, remote_file_id):
+    text = textwrap.dedent("""\
+        version="1.%s"
+        name="Japanese Language Mod"
+        tags={
+        "Translation"
+        "Localization"
+        }
+        supported_version="%s"
+        remote_file_id="%d"
+    """ % (mod_version, game_version, remote_file_id))
+
+    with open(_(target_path, 'descriptor.mod'), 'wt') as fw:
+        fw.write(text)
 
 
 def generate_dot_mod_file(mod_title_name,
