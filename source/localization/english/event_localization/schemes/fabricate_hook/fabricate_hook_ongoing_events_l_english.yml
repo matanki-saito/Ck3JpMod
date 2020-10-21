@@ -1,5 +1,5 @@
 ﻿l_english:
- fabricate_hook_ongoing.0001.t:0 "$fabricate_hook_header$家族との接触"
+ fabricate_hook_ongoing.0001.t:0 "$fabricate_hook_header$ 家族との接触"
  fabricate_hook_ongoing.0001.desc:1 "[target.GetTitledFirstNamePossessive]の[target.Custom2('RelationToMe', SCOPE.sC('family_member'))]、[family_member.GetTitledFirstName]と不意に遭遇した。私が[target.GetFirstName]に対して少しは害意があるかもしれないことを知っているのに、[family_member.GetSheHe]は私の質問に喜んで答えた。"
  fabricate_hook_ongoing.0001.a:0 "「特に知っておくべき[target.GetSheHe]の弱点はないか？」"
  fabricate_hook_ongoing.0001.b:0 "「[target.GetHerHim]に近づくにはどうすればいい？」"

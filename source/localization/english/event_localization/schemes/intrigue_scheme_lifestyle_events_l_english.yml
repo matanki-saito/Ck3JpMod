@@ -28,7 +28,7 @@
  intrigue_scheme_lifestyle.3201.desc_animal:0 "What luck! That [target.GetTitledFirstNamePossessive] messenger birds would have a preference for the kind of seeds that can be found in my garden, and that they would stick around long enough for me to read the messages!"
  intrigue_scheme_lifestyle.3201.elope.desc:0 "何という幸運だ！私のスパイは、[target.GetLiege.Custom2('NamePossessiveCharacterIntroduction', target )]が下書きした手紙を保管している書斎への侵入方法を発見した。今や[target.GetLiege.GetHerHis]のメッセージは全て私が読むことができる！"
  intrigue_scheme_lifestyle.3201.desc:1 "何という幸運だ！私のスパイは、[target.GetTitledFirstName]が下書きした手紙を保管している書斎への侵入方法を発見した。今や[target.GetHerHis]のメッセージは全て私が読むことができる！"
- intrigue_scheme_lifestyle.3201.a:0 "Let's make this a regular thing!"
+ intrigue_scheme_lifestyle.3201.a:0 "また頼むぞ！"
  intrigue_scheme_lifestyle.3201.b:1 "[target.GetHerHis]の使者は私の手から餌を啄んでいる。"
  intrigue_scheme_lifestyle.3201.b.tt:1 "$modifier_hunt_friend_of_animal$の補正があるためこのオプションが利用可能です"
  intrigue_scheme_lifestyle.3201.c:0 "怪我の功名、ただそれだけだ。"

@@ -30,5 +30,5 @@
  mystic_lifestyle.1008.desc:0 "体調が衰えたにもかかわらず、会派を維持するためにできることをした。\n\nそれはかつてないほど激しくこの朝を見てくれ！ [ROOT.Char.GetFaith.HighGodName|U]が奇跡を起こしてくれたのだ！"
  mystic_lifestyle.1008.a:0 "我は快復した！"
  mystic_lifestyle.1009.opening:0 "私の親愛なる[SCOPE.sC('mystic').Custom2('RelationToMeShort', ROOT.Char )]殿へ"
- mystic_lifestyle.1009.desc:0 "あなたの我らの信仰への神秘的な探究心を称賛しなければならない！\n\n聞くところによると私は私自身を知るためにさらに1つか2つ学ぶことが残っているようだ！"
+ mystic_lifestyle.1009.desc:0 "あなたの我らの信仰への神秘的な探究心を称賛しなければならない！\n\n聞くところによると私は私自身を知るためにさらに一つか二つ学ぶことが残っているようだ！"
  mystic_lifestyle.1009.a:0 "共有できるとは喜ばしいことだ！"

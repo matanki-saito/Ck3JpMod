@@ -456,7 +456,7 @@
  doctrine_temporal_head_name:0 "世俗的"
  doctrine_parameter_temporal_head_of_faith:0 "[head_of_faith|E]の地位は[faith|E]の創始者に与えられ、その死後は[primary_heir|E]へ継承される"
  doctrine_parameter_temporal_head_of_faith_directed_holy_wars:1 "宗派が[great_holy_wars|E]を持つ時、宗派の指導者は戦争を指揮し、戦争目標を選ぶことができる。"
- doctrine_temporal_head_desc:0 "精神的なものと肉体的なものは本質的に結びついており不可分である。1つの領土に2人の異なる指導者がいるのは愚かなことだ。"
+ doctrine_temporal_head_desc:0 "精神的なものと肉体的なものは本質的に結びついており不可分である。一つの領土に二人の異なる指導者がいるのは愚かなことだ。"
  doctrine_marriage_type_name:0 "婚姻形式"
  doctrine_monogamy_name:0 "単婚制"
  doctrine_monogamy_desc:0 "結婚は二者の聖なる絆である。そのような絆を一度に複数の人々と結ぼうとすることは冒涜である。"

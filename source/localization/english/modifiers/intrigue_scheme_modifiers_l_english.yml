@@ -8,7 +8,7 @@
  lifestyle_intercepting_communication_modifier:0 "通信の傍受"
  lifestyle_intercepting_communication_modifier_desc:0 "標的の通信は読み取られている。"
  lifestyle_intercepted_communication_modifier:0 "傍受された通信"
- lifestyle_intercepted_communication_modifier_desc:0 "The target's communications were intercepted once."
+ lifestyle_intercepted_communication_modifier_desc:0 "標的の通信は読み取られていたことがある。"
  lifestyle_close_to_courtier_modifier:0 "廷臣への接近"
  lifestyle_close_to_courtier_modifier_desc:1 "標的の廷臣の一人に近づくことで、標的に簡単に接触できている"
  intrigue_scheme_mapped_surroundings_modifier:0 "周囲の図解"

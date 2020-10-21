@@ -24,7 +24,7 @@
  martial_strategy.2000.a:0 "より新しい本を読もう。"
  martial_strategy.2000.b:0 "古い巻物を解読してみる。"
  martial_strategy.2000.b.success:0 "私が古代の知識の一部を明らかにする"
- martial_strategy.2000.b.success.tt:1 "あなたが#V 20年間#![martial|E]#P 1#!、[learning|E]と[commander|E]#P 1#!のボーナスを得る"
+ martial_strategy.2000.b.success.tt:1 "あなたが#V 20年間、#![martial|E]#P 1#!、[learning|E]#P 1#!と一つの[commander|E]ボーナスを得る"
  martial_strategy.2000.b.failure:0 "巻物の解読に失敗する"
  martial_strategy.2000.b.failure.tt:1 "[stress|E]を得るか、諦めることになります"
  martial_strategy.2001.start.desc:0 "埃っぽい辞書の助けを借りても巻物は秘密を明かそうとはしないが、私は話を進めた。夜が深まるにつれ、信じられないような物語が私の前に展開していく…\n\n"

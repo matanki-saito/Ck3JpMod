@@ -16,7 +16,7 @@
  court_chaplain_religious_relations_opinion_modifier:0 "宗教的関係"
  accomplished_forger_perk:0 "[GetPerk( 'accomplished_forger_perk' ).GetName( GetPlayer )]"
  task_collect_taxes_modifier:0 "徴税"
- task_collect_taxes_perk_bonus_modifier:0 "Tax Person"
+ task_collect_taxes_perk_bonus_modifier:0 "徴税人"
  task_organize_levies_modifier:0 "組織化召募"
  marshal_task_levy_desertions_modifier:0 "徴募兵の脱走"
  marshal_task_levy_desertions_modifier_desc:1 "高い要求と過重な監督は、この人物の軍勢から大量の徴募兵を脱走させた。"

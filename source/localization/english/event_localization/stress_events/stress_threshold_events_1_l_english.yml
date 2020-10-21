@@ -44,7 +44,7 @@
  stress_threshold.1711.b.flagellant.effect:0 "$stress_threshold.1711.b.flagellant.gain$"
  stress_threshold.1711.c.profligate.gain:0 "$stress_threshold.1701.d.profligate.gain$"
  stress_threshold.1711.c.profligate.effect:0 "$stress_threshold.1701.d.profligate.gain$"
- stress_threshold.1711.d.improvident.gain:0 "Help yourself to the treasury, burgher. You need it."
+ stress_threshold.1711.d.improvident.gain:0 "お前たち、国庫から好きなだけ持って行っていいぞ。入り用だろう。"
  stress_threshold.1711.d.improvident.effect:0 "$stress_threshold.1711.d.improvident.gain$"
  stress_threshold.1711.e.journaller.gain:0 "日記に慰めを求めることにしよう。"
  stress_threshold.1711.e.journaller.effect:0 "$stress_threshold.1711.e.journaller.gain$"

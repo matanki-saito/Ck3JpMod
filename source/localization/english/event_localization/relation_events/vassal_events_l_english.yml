@@ -45,7 +45,7 @@
  vassal.2201.desc:0 "「我が、[ROOT.Char.GetTitleTierName]、私は助けることができませんでしたが、あなたがいくらかの金銭的援助から恩恵を受けるかもしれないことに気がつきました。」\n\n私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal_loan_holder'))]である[vassal_loan_holder.GetTitledFirstName]は[vassal_loan_holder.Custom('quirk_pos_present')]と、[vassal_loan_holder.GetSheHe]は一つの協定を提案する: 私の金庫の負担を軽減するための融資である。"
  vassal.2201.a:0 "助けに感謝する、[vassal_loan_holder.GetFirstNameNoTooltip]。"
  vassal.2201.a.money_loan_tooltip:0 "私は[vassal_loan_holder.GetFirstNameNoTooltip]から[gold_i]#bold [THIS.Var('amount_to_loan_root').GetValue]#!ゴールドを借ります。"
- vassal.2201.a.repay_loan:0 "I will need to use the #bold Repay Loan#! decision to repay the loan."
+ vassal.2201.a.repay_loan:0 "借金を返済するには#bold 借金を返済#!の決断を使用する必要があります。"
  vassal.2201.b:0 "そこまで#EMP 切羽詰まっては#!いない！"
  vassal.2205.desc_inherited:0 "我が[ROOT.Char.GetLadyLord]、私の亡き[vassal_loan_holder.Custom2('RelationToMe', SCOPE.sC('original_lender'))]は、かつてあなたに融資をいたしました。」\n\n[vassal_loan_holder.GetTitledFirstName]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('vassal_loan_holder'))]と続ける。「[vassal_loan_holder.GetHerHis]の後継者として借金の返済をお願いしに参りました。」"
  vassal.2205.desc_inherited_loan:0 "「我が[ROOT.Char.GetLadyLord]、私はかつてあなたの亡き[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('original_loaner'))]に大金をお貸ししました。\n\n[vassal_loan_holder.GetTitledFirstName]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('vassal_loan_holder'))]と続ける。「[vassal_loan_holder.GetHerHis]の後継者として、あなたにはその借金を返済する義務があります。」"

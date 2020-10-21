@@ -3,7 +3,7 @@
  intrigue_lifestyle_perk_indication:2 "あなたが[intrigue_lifestyle|E]の[perk|E]を得る可能性があります"
  intrigue_scheming_focus_point_clear_gain:0 "あなたの[intrigue_lifestyle|E]に関する理解が向上する"
  intrigue_scheming.1001.t:0 "[county.GetNameNoTierNoTooltip]の嘆き"
- intrigue_scheming.1001.desc:0 "「我々には軍隊のためにそれらの資源が必要だ！[county.GetNameNoTier]の小さな村が1つ飢えようと——」\n評議員同士の激しい口論に追われるように私が部屋の外に出ると、[county.GetNameNoTierNoTooltip]の代表である[councillor.GetTitledFirstName]が疲れた目で私に挨拶をして近づいてくる。"
+ intrigue_scheming.1001.desc:0 "「我々には軍隊のためにそれらの資源が必要だ！[county.GetNameNoTier]の小さな村が一つ飢えようと——」\n評議員同士の激しい口論に追われるように私が部屋の外に出ると、[county.GetNameNoTierNoTooltip]の代表である[councillor.GetTitledFirstName]が疲れた目で私に挨拶をして近づいてくる。"
  intrigue_scheming.1001.a:0 "ここへ。お前が収拾をつけるのだ。"
  intrigue_scheming.1001.b:0 "壮大な計画の中のたった一つの村が一体何だ？"
  intrigue_scheming.1011.t:0 "秘密の必要性"
