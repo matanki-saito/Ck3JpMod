@@ -29,7 +29,7 @@
  vassal_interaction.0006.gold:0 "戦いが終わるまではあなたが失った金を支払いましょう。"
  vassal_interaction.0006.a:0 "あなたの優しさに感謝します。"
  vassal_interaction.0006.b:0 "あなたの寛大さに感謝します。"
- vassal_interaction.0007.desc:0 "私は憤慨させられた、あなたの主君の命令のために賄賂を要求するなんて！私の要求にも不名誉な拒否以外は送ってきていない！"
+ vassal_interaction.0007.desc:0 "憤慨だ、そちらの君命のために賄賂を要求するとは！わが要求にも無礼な断わりしか返してこない！"
  vassal_interaction.0007.a:0 "結構だ。私は戦争に戻らなければ。"
  vassal_interaction.0011.desc:0 "[attacker.GetTitledFirstNamePossessive]の主張は正当なものだ。私はあなたが直ちに[attacker.GetHerHim]に降伏し、領国の秩序を回復するよう求める。"
  vassal_interaction.0011.a:0 "そうしなければならぬのであれば。"

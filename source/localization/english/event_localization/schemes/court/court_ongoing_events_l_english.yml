@@ -15,7 +15,7 @@
  court_ongoing.0502.t:0 "$court_event_title$ 愛の告白"
  court_ongoing.court_start_song.start.0502.desc:1 "宮廷で幾人の[ROOT.Char.Custom('LadiesLords')]とともに歩いていると、[owner.Custom2('MyCharacterIntroduction', ROOT.Char)]が近づいてくるのに気づいた。 [owner.GetHerHim]のために道の脇に寄ったところ、驚いたことに[owner.GetSheHe]は私の行く手を阻み、跪いてきたのだ！\n\nこの展開に戸惑っている間に[owner.GetTitledFirstNameNoTooltip]は歌を歌い始めた。\n\n"
  court_ongoing.court_start_song.bad.0502.desc:0 "To my great dismay, the [owner.GetWomanMan] before me cannot carry a tune to save [owner.GetHerHis] life. It takes a while before I am able to identify the song — it's a famous [target.GetCulture.GetNameNoTooltip] love ballad. [owner.GetSheHe|U] has altered the lyrics to include my name and mentions of my physical appearance, ruining the rhythm even further."
- court_ongoing.court_start_song.good.0502.desc:0 "私はすぐにその曲が何であるかに気づいた。 それは有名な[target.GetCulture.GetNameNoTooltip]の愛のバラッドだった。 これまでに何度も聞いたことがあったが、これほどの技術と情熱をもった一曲を聞いたのは初めてだ！\n\n曲の激しい感情は、私に向けられた[owner.GetFirstNamePossessiveNoTooltip]の視線に映し出されている。 [owner.GetSheHe|U]は一心不乱に目をそらさない。"
+ court_ongoing.court_start_song.good.0502.desc:0 "私はすぐにその曲が何であるかに気づいた。 それは有名な[target.GetCulture.GetNameNoTooltip]の愛のバラッドだった。 これまでに何度も聞いたことがあったが、これほどの技術と情熱をもった——曲を聞いたのは初めてだ！\n\n曲の激しい感情は、私に向けられた[owner.GetFirstNamePossessiveNoTooltip]の視線に映し出されている。 [owner.GetSheHe|U]は一心不乱に目をそらさない。"
  court_ongoing.court_start_sneaky_love_letter.start.0502.desc:0 "シーツを押しのけて横になると、長枕の上に小さな巻物が置いてあるのを見つけた。誰かが気付かれずに部屋に入ったのか？背筋が凍るような寒気がしたが、分厚い羊皮紙を慎重に広げてみると\n\n「私の[ROOT.Char.Custom('RomanticComplimentAdjective')]"
  court_ongoing.court_start_sneaky_love_letter.compliment.0502.desc:0 "[ROOT.Char.Custom('RomanticComplimentNoun')]よ！"
  court_ongoing.court_start_sneaky_love_letter.relative.0502.desc:0 "[owner.Custom2('RelationToMeShort', ROOT.Char)]よ！"

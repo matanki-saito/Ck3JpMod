@@ -1,6 +1,6 @@
 ﻿l_english:
  diplomacy_foreign.1074.t:0 "宗教的難民"
- diplomacy_foreign.1074.desc:0 "[heretic_ruler.GetTitledFirstName]は近くの[target_county.GetName]を支配しており、そこには多くの敬虔な[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]が暮らしている。[heretic_ruler.GetFaith.GetAdherentName]の[heretic_ruler.GetTitleAsName]はそこに住む[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]信者を容易に迫害することができ、彼らを[heretic_ruler.GetHerHis]の[ROOT.GetCharacter.Custom2('ToleranceValue', SCOPE.sC('heretic_ruler'))]の影響から守るのが私の責任である。"
+ diplomacy_foreign.1074.desc:0 "[heretic_ruler.GetTitledFirstName]は近くの[target_county.GetName]を支配しており、そこには多くの敬虔な[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]が暮らしている。[heretic_ruler.GetFaith.GetAdherentName]の[heretic_ruler.GetTitleAsName]はそこに住む[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]信者を容易に迫害することができ、彼らを[heretic_ruler.GetHerHis]の[ROOT.GetCharacter.Custom2('ToleranceValue', SCOPE.sC('heretic_ruler'))]影響から守るのは私の責任である。"
  diplomacy_foreign.1074.a:0 "我々は[heretic_ruler.GetHerHim]が忠実な信者たちを弾圧することを許すことはできない！"
  diplomacy_foreign.1074.b:0 "[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]をできるだけ多く安全な場所に移動させよう。"
  diplomacy_foreign.1074.c:0 "[heretic_ruler.GetFirstNameNoTooltip]に使節を送り、彼らの扱いについて話し合う。"

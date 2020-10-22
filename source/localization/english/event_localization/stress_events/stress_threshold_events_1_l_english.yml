@@ -116,7 +116,7 @@
  stress_threshold.1731.b.reclusive.effect:0 "$stress_threshold.1731.b.reclusive.gain$"
  stress_threshold.1731.c.profligate.gain:0 "I'll just stop to buy a few things on the way..."
  stress_threshold.1731.c.profligate.effect:0 "$stress_threshold.1731.c.profligate.gain$"
- stress_threshold.1731.d.comfort_eater.gain:0 "I'll think about returning early over lunch"
+ stress_threshold.1731.d.comfort_eater.gain:0 "昼食を食べながら早く帰ろう考える"
  stress_threshold.1731.d.comfort_eater.effect:0 "$stress_threshold.1731.d.comfort_eater.gain$"
  stress_threshold.1731.e.journaller.gain:0 "$stress_threshold.1711.e.journaller.gain$"
  stress_threshold.1731.e.journaller.effect:0 "$stress_threshold.1711.e.journaller.gain$"
