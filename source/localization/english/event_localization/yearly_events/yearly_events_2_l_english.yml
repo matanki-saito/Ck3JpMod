@@ -115,7 +115,7 @@
  yearly.1030.b:0 "それを要求できる立場か？ 教えろ。さもないと酷い目に遭うぞ！"
  yearly.1030.b.tt:1 "[hooked.GetTitledFirstName]に[secret_character.GetTitledFirstName]に関する[secret|E]を強制的に教えてもらいます"
  yearly.1030.c:0 "[secret_character.GetHerHim]よりお前を抑えていたほうが良いな。"
- yearly.1030.a.start.desc:0 "秘密を発見した、"
+ yearly.1030.a.start.desc:0 "秘密を発見した"
  yearly.1030.a.secret_deviant.desc:0 "[secret_character.GetTitledFirstNamePossessive]の性的倒錯について！"
  yearly.1030.a.secret_homosexual.desc:0 "[secret_character.GetWomenMen]に対する[secret_character.GetTitledFirstNamePossessive]の欲望について！"
  yearly.1030.a.secret_murder_attempt.desc:0 "[secret_character.GetTitledFirstNamePossessive]の[secret_target.GetTitledFirstNameOrMe]に対する殺人未遂の企てについて！"

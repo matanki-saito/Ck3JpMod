@@ -21,7 +21,7 @@
  councillor_spouse_stewardship.2001.c:0 "金で買えるものが一つあるとすれば、それは目と耳だ！"
  councillor_spouse_stewardship.2001.d:0 "とりあえず今は貯蓄しよう。"
  councillor_spouse_stewardship.2002.t:1 "配偶者: 煌びやかな機会"
- councillor_spouse_stewardship.2002.desc:0 "\"My [ROOT.Char.GetLadyLord].\" [courtier_lender.GetTitledFirstName] shuffles up to me and smiles [courtier_lender.Custom('quirk_pos_adverb')]. \"I was approached by [councillor.GetTitledFirstName] who in [councillor.GetHerHis] wisdom suggested an arrangement between the two of us. Since you could use some financial aid, and I could use some social assistance...\""
+ councillor_spouse_stewardship.2002.desc:0 "「私の[ROOT.Char.GetLadyLord]」 [courtier_lender.GetTitledFirstName]が私に近づいてきて、[courtier_lender.Custom('quirk_pos_adverb')]に微笑む。「私は[councillor.GetTitledFirstName]から提案を受けた。[councillor.GetHerHis]は賢明にも私たち二人の間の取り決めを提案した。あなたは財政的援助を受け、私は社会的援助を受けることができるので…」"
  councillor_spouse_stewardship.2002.a:0 "返済しよう、約束する。"
  councillor_spouse_stewardship.2002.money_loan_tooltip:0 "[courtier_lender.GetFirstNameNoTooltip]から[gold_i]#bold [THIS.Var('amount_to_loan').GetValue]#!ゴールドを借ります。"
  councillor_spouse_stewardship.2002.b:0 "代わりに[ROOT.Char.GetFaith.HouseOfWorship]に寄進してはいかがかな？"

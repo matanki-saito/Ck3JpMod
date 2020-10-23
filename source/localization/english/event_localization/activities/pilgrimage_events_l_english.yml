@@ -109,7 +109,7 @@
  pilgrimage.2014.desc:0 "[mystic.GetTitledFirstNamePossessive]のテントで寝落ちして目を覚ますと、テント自体がなくなっている。眠っていた敷物の上から使用人たちが私を起こしてくれているが、神秘主義者の痕跡は見当たらない。\n\n少なくとも気持ちよく寝れた！"
  pilgrimage.2014.a:0 "私のポーチが不思議と軽く感じるのはなぜだ？"
  pilgrimage.2015.desc:0 "正直言って、[mystic.GetTitledFirstName]が[mystic.GetSheHe]のように[mystic.GetHerHis]の奇行に答えられるとは思ってもいなかった。\n\n[mystic.GetSheHe]が何を企んでいるのか…まだ疑っているが、私は新鮮な視点を得ることができた。"
- pilgrimage.2015.a:0 "How #EMP can#! you get closer to [ROOT.Char.GetFaith.PantheonTerm]?"
+ pilgrimage.2015.a:0 "どうやって[ROOT.Char.GetFaith.PantheonTerm]に近づくことが#EMP できる#!というのだ？"
  pilgrimage.2501.t:0 "$pilgrimage_header$ 哀れな貧乏人"
  pilgrimage.2501.desc.opening:0 "側近たちと小さな町を旅していると、服の裾を引っ張られるような感触がした。振り向くと、痩せてボロボロの服を着た[beggar.GetWomanMan]が私を見上げている。\n\n「ああ、偉大な領主様、お願いします。貧しい乞食のためにコインを恵んでいただけませんか？私は飢えているのですが、地元の者は誰も助けてくれないのでございます。」"
  pilgrimage.2501.desc.virtue.generous:0 "\n\n寛大さは私の本来の性格ではないのだが、巡礼の旅をしていると、施しがすべての敬虔な[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]の人々に期待されていることが思い出される..."

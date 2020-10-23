@@ -362,7 +362,7 @@
  trait_lovers_pox:0 "性器ヘルペス"
  trait_lovers_pox_desc:0 "水疱と感染症を持つこの人物は、性病に苦しんでいる。"
  trait_lovers_pox_character_desc:0 "水疱と感染症を持つ[ROOT.GetCharacter.GetFirstNameNoTooltip]は、性病に苦しんでいる。"
- trait_leper:0 "癩病"
+ trait_leper:0 "らい病"
  trait_leper_desc:1 "この人物の皮膚には病変や変色した斑点が目立ち、快感や痛み、その他の感覚を感じる能力が低下していることが示されている。"
  trait_leper_character_desc:1 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]の皮膚には病変や変色した斑点が目立ち、快感や痛み、その他の感覚を感じる能力が低下していることが示されている。"
  trait_wounded_1:0 "負傷"

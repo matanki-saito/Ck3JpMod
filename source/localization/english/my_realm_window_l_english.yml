@@ -22,7 +22,7 @@
  MRW_TT_LEVIES_TO_MY_LIEGE:1 "#T あなたの[liege|E]に提供する[levies|E]#!"
  MRW_TT_TAXES_TO_ME:1 "#T あなたの[vassal|E]から支払われる[taxes|E]#!"
  MRW_TT_LEVIES_TO_ME:1 "#T あなたの[vassal|E]から与えられる[levies|E]#!"
- MRW_TT_NOT_RIGHTFUL_LIEGE:2 "@warning_icon!#X [Select_CString(Character.GetLiege.IsLocalPlayer, 'あなた', Character.GetLiege.GetUIName)]が[Character.GetShortUINamePossessive]の[rightful_liege|E]ではないため[levies|E]と[tax|E]が低減されています#!\n\n[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetUIName)]は[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetHerHis)]の[liege|E]が[de_jure|E]において[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetHerHis)]の[primary_title|E]([Character.GetPrimaryTitle.GetName])を含んだ[Character.GetPrimaryTitle.GetDeJureLiege.GetRankConcept]である[Character.GetPrimaryTitle.GetDeJureLiege.GetName]を保有していることを望んでいます。"
+ MRW_TT_NOT_RIGHTFUL_LIEGE:2 "@warning_icon!#X [Select_CString(Character.GetLiege.IsLocalPlayer, 'あなた', Character.GetLiege.GetUIName)]が[Character.GetShortUINamePossessive]の[rightful_liege|E]ではないため[levies|E]と[tax|E]が低減されています#!\n\n[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetUIName)]は[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetHerHis)]の[liege|E]が[de_jure|E]において[Select_CString(Character.IsLocalPlayer, 'あなた', Character.GetHerHis)]の[primary_title|E]([Character.GetPrimaryTitle.GetName])が属する[Character.GetPrimaryTitle.GetDeJureLiege.GetRankConcept]である[Character.GetPrimaryTitle.GetDeJureLiege.GetName]を保有していることを望んでいます。"
  MRW_TITLE_ALLEGIANCE:1 "#T [title_allegiance|E]#!\n[Character.GetShortUIName]はあなたよりも[Title.GetName]に忠誠を誓っています！"
  MRW_GOVERNMENT_FILTER_ALL:0 "すべて"
  MRW_GOVERNMENT_FILTER_ALL_TT:0 "#T すべての[vassals|E]を表示#!"

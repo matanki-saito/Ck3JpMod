@@ -14,7 +14,7 @@
  overworking_learning_modifier:0 "働きすぎの学者"
  overworking_learning_modifier_desc:0 "$overworking_stewardship_modifier_desc$"
  stress_trait_ongoing.0506.t:0 "Sweet Relief"
- stress_trait_ongoing.0506.desc_leper:0 "この壊滅的な病気は、私の体をゆっくりと蝕み、日に日に肉が剥がれ落ちていく。[ROOT.GetCharacter.GetTitleAsNameNoTooltip]、私はそうなのかもしれないが、私は、臣民たちが私を見た時に無価値な癩病患者としか見えないのではないかと恐れている。"
+ stress_trait_ongoing.0506.desc_leper:0 "この壊滅的な病気は、私の体をゆっくりと蝕み、日に日に肉が剥がれ落ちていく。[ROOT.GetCharacter.GetTitleAsNameNoTooltip]、私はそうなのかもしれないが、私は、臣民たちが私を見た時に無価値ならい病患者としか見えないのではないかと恐れている。"
  stress_trait_ongoing.0506.desc_gout_ridden:0 "ズキズキする手足の激痛は、何日も時間をかけてゆっくりと広がり身動きが取れない。私は時に疑問に思う、この痛みが変わらず続いた方がいいのか。それとも、鈍いものから焼け付く拷問のようなものまで、毎回変わる苦しみの波を乗りこなす方がいいのか。"
  stress_trait_ongoing.0506.desc_cancer:0 "Weeks drag by, a waiting game for this shooting pain or that. Some days are tolerable, but others I can hardly move or talk, and my breathe comes slower and slower. I can feel my remaining time on Earth falling away from me, robbed by this cancerous growth killing my body."
  stress_trait_ongoing.0506.desc_disfigured:1 "私の傷は外見上は治っていても、心の内では、私の醜い姿への苦悩がまだ燃え上がっている。私が一本の指で古傷の跡をなぞると、その悲惨な記憶が蘇ってくる。"
