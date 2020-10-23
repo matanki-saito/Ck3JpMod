@@ -16,7 +16,7 @@
  councillor_spouse_martial.1001.b.education_tt:0 "私は[child.GetFirstNamePossessiveNoTooltip]の軍事教育を進める"
  councillor_spouse_martial.1001.c:0 "今日は#EMP 私たちの#!名誉のために！"
  councillor_spouse_martial.1002.t:1 "配偶者: 私に代わる行動"
- councillor_spouse_martial.1002.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]は、かなりの時間を[councillor.GetHerHis]の名誉ある護衛を伴った領国内の旅に費やしている。私に代わって[councillor.GetSheHe]が解決できる問題はたくさんあるし、[councillor.GetTitledFirstName]が[councillor.GetHerHim]が伴っている軍の存在は、私の統治権をしっかりと思い出させてくれるものだ。"
+ councillor_spouse_martial.1002.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]は、かなりの時間を儀仗兵を伴った領国内の旅に費やしている。私に代わって[councillor.GetSheHe]が解決できる問題はたくさんあるし、[councillor.GetTitledFirstName]が伴っている軍の存在は、私の統治権をしっかりと思い出させてくれるものだ。"
  councillor_spouse_martial.1002.a:0 "我が[councillor.GetTitleAsNameNoTooltip]と私は領国を守る準備ができている！"
  councillor_spouse_martial.1002.b:0 "人々が適切にひれ伏すことを確認してくれ、愛する人よ。"
  councillor_spouse_martial.1002.c:0 "誰もが私を恐れ、私の足元にひれ伏すべきだ、[councillor.GetFirstNameNoTooltip]！"

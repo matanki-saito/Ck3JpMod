@@ -1,6 +1,6 @@
 ﻿l_english:
  yearly_saharan.0001.t:0 "[target_county.GetNameNoTierNoTooltip]における[source_county.GetProvince.GetCounty.GetFaith.GetAdherentNameNoTooltip]の交易商"
- yearly_saharan.0001.desc:0 "Trans-Saharan trade has always passed through these lands, bringing wealth, ideas, and ideologies. Typically, a ruler such as I simply has to take their fair share, and otherwise the routes run themselves.\n\nRecently, however, more and more [source_county.GetProvince.GetCounty.GetFaith.GetAdherentNameNoTooltip] merchants have been passing through [target_county.GetNameNoTier], bringing their faith and coin with them.\n\nOne consortium is asking my permission to settle and buy property, and have gathered a hefty gift to acquire my good graces."
+ yearly_saharan.0001.desc:0 "サハラを横断する貿易はこれらの土地を通過しながら、富や思想、イデオロギーをもたらして続けてきた。一般的に、私のような統治者は単に彼らの公正な分け前を取らなければならないし、そうでなければ、経路は自分たちで運営される。\n\nしかし、最近では[source_county.GetProvince.GetCounty.GetFaith.GetAdherentNameNoTooltip]の商人がどんどん[target_county.GetNameNoTier]を通過して、彼らの信仰と硬貨をもたらしている。\n\nある共同体は、財産を購入して決済する許可を求めており、私の好意を得るために多額の贈り物を集めてきた。"
  yearly_saharan.0001.a:0 "I graciously accept this tribute."
  yearly_saharan.0001.a.tt:0 "#WEAK This may influence the locals later...#!"
  yearly_saharan.0001.b:0 "You may continue to pass through, but that is all."

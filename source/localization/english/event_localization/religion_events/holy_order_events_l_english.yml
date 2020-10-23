@@ -1,7 +1,7 @@
 ﻿l_english:
  holy_order_hired_message:0 "聖戦騎士団を雇った"
  holy_order.hired_message:1 "[holy_order.GetName]が[actor.GetUIName]によって呼ばれています"
- holy_order_hired_by_enemy_message:0 "Enemy Holy Order"
+ holy_order_hired_by_enemy_message:0 "敵の聖戦騎士団"
  holy_order.hired_by_enemy:1 "[holy_order.GetName]は[actor.GetUIName]によって呼ばれ、現在我々に敵対しています"
  holy_order.destroyed_message:0 "[title.GetName]が打倒された。"
  holy_order_expanded:0 "聖戦騎士団の拡大"

@@ -57,7 +57,7 @@
  combat_action_3:0 "星 3/5"
  combat_action_4:0 "星 4/5"
  combat_action_5:0 "星 5/5"
- BALANCED_ADVANTAGE:0 "#T [advantage|E]: 両方とも利点がない#!"
+ BALANCED_ADVANTAGE:0 "#T [advantage|E]: 両方とも優位性がない#!"
  HAVE_ADVANTAGE:0 "#T [advantage|E]: $ADVANTAGE$分$COMBAT_RELATION_FAVOR$です#!\n$COMBAT_RELATION_POSSESIVE|U$攻撃力が$ADVANTAGE_DAMAGE_FACTOR|V0%$増加します"
  ADVANTAGE_POSITIVE:0 "$VALUE|0P$"
  ADVANTAGE_NEGATIVE:0 "$VALUE|0N$"

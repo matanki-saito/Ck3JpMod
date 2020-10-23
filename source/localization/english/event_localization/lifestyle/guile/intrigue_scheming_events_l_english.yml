@@ -101,7 +101,7 @@
  intrigue_scheming.3004.desc:0 "[hooked_courtier.GetTitledFirstName]は、[new_target.GetTitledFirstName]について有罪となるような情報を見つけることはできなかった。にもかかわらず、愚か者は[hooked_courtier.GetHerHis]の努力に対して[hooked_courtier.GetHerHis]の私への借りは返したと言い張っている。"
  intrigue_scheming.3004.a:0 "Am I not as imposing as I thought?"
  intrigue_scheming.3013.desc:0 "[hooked_courtier.GetTitledFirstName]は、[new_target.GetTitledFirstName]について有罪となるような情報を見つけることができなかったので、自分で用意しておいたのは正解だった。\n\n突然、[new_target.GetFirstName]には怪しい噂が飛び交っているようで、たまたま私がその証拠を全て握っている。"
- intrigue_scheming.3013.a:0 "[ROOT.Char.GetFaith.TricksterGodName] helps those who help themselves."
+ intrigue_scheming.3013.a:0 "[ROOT.Char.GetFaith.TricksterGodName]は自ら助くる者を助く。"
  intrigue_scheming.3014.desc:0 "[hooked_courtier.GetTitledFirstName]は、[new_target.GetTitledFirstName]について有罪となるような情報を見つけることができきなかった。残念なことに、私が慎重に仕込んだ噂はほとんど伝わっていないようで、私が[new_target.GetTitleTierName]に対して準備してきた告発を誰も信じはしないだろう。\n\nしかも、その嘘の噂の出所は私まで遡ってきた！"
  intrigue_scheming.3014.a:0 "友人の間での数少ない無害な嘘とは何だ？"
  intrigue_scheming.3021.desc:0 "叫び声が[new_target.Custom('ResidenceBuilding')]中に聞こえた。駆けつけた使用人たちは、戸惑う[new_target.GetTitledFirstName]を残して、[new_target.GetHerHis]の部屋に横たわる[hooked_courtier.GetTitledFirstName]の血まみれの死体と、その横にある[new_target.GetHerHis]のナイフを見つめていた。\n\n「私は一人で庭にいたんだ、信じてくれ！」 [new_target.GetSheHe]は、集まる廷臣たちにこう主張した。そんな薄っぺらい言い訳を誰が信じるだろうか？"

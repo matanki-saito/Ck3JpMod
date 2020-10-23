@@ -41,7 +41,7 @@
  NOT_REAL_FATHER_EQUAL_FIRST:1 "[TARGET_CHARACTER.GetShortUINamePossessive]はあなたの本当の父親では#bold ない#!"
  REAL_FATHER_EQUAL_THIRD:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の本当の父親である"
  NOT_REAL_FATHER_EQUAL_THIRD:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の本当の父親では#bold ない#!"
- PLAYER_HEIR_EQUAL_FIRST:2 "[TARGET_CHARACTER.GetShortUIName|U]はあなたの[player_heir|E]である"
+ PLAYER_HEIR_EQUAL_FIRST:2 "[TARGET_CHARACTER.GetShortUIName|U]は[player_heir|E]である"
  PLAYER_HEIR_EQUAL_THIRD:1 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の[player_heir|E]である"
  CHARACTER_FAITH_EQUAL_FIRST:1 "あなたは[FAITH.GetAdjective]である"
  NOT_CHARACTER_FAITH_EQUAL_FIRST:1 "あなたは[FAITH.GetAdjective]では#bold ない#!"

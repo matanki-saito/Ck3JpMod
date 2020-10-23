@@ -23,7 +23,7 @@
  intrigue_dread_special.1102.c.flavor:1 "安全な選択だが、リスクが低いと報酬も少ない。"
  intrigue_dread_special.1103.desc:0 "私が他の出演者と一緒にステージに出ると、観客の視線は私から離れない。\n\n一つのシーンが他のシーンに続くように、私は物語のリズムを感じることができ、それは私の中で脈打っている。私が最初のセリフを話す時には、まるで聴衆全員が息を止めているかのようだ。"
  intrigue_dread_special.1103.a:0 "人々はそれを#EMP 感じている#!に違いない！"
- intrigue_dread_special.1103.a.duel_success:0 "I interpret my character to a fault"
+ intrigue_dread_special.1103.a.duel_success:0 "私は自分の性格を欠点だと理解している"
  tooltip.intrigue_dread_special.1103.a.duel_success:0 "人々は私の演技に感銘を受けた"
  intrigue_dread_special.1103.a.duel_failure:0 "私は役に入り込むのに失敗する"
  tooltip.intrigue_dread_special.1103.a.duel_failure:0 "人々は感銘を受けなかった"

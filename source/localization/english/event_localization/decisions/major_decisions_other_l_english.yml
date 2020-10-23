@@ -13,7 +13,7 @@
  major_decisions.0103.a:0 "We should all be grateful to [scoped_ruler.GetHerHim]."
  major_decisions.0103.b:0 "Yet more blasphemy from [scoped_ruler.GetFirstNameNoTooltip]..."
  major_decisions.0500.t:0 "[ROOT.Char.GetDynasty.GetBaseNameNoTooltip]の力"
- major_decisions.0500.desc:0 "For generations, our dynasty has been known for the strength of its blood. Vigor, beauty, and intellect are all attributes associated with the [ROOT.Char.GetDynasty.GetBaseNameNoTooltip] name.\n\nMy own excellence only confirms this — all of our dynasty's best qualities in one perfect individual. My name and my gifts will live on through my descendants for centuries to come."
+ major_decisions.0500.desc:0 "何世代にもわたって、我々の王朝はその血統の強さで知られてきた。活力、美貌、知性はすべて[ROOT.Char.GetDynasty.GetBaseNameNoTooltip]の名にに関連付けられた属性である。\n\n私自身の優秀さはこのことを裏付けているに過ぎない——我々の王朝における最高の資質のすべてを完璧な一人の人間に託したのだ。私の名前と賜物は何世紀にもわたって子孫に受け継がれていくだろう。"
  major_decisions.0500.a:0 "輝かしい未来が広がっている！"
  major_decisions.0501.desc:0 "慎重に計画された婚姻、同盟、征服を経て、[ROOT.Char.GetDynasty.GetBaseNameNoTooltip]王朝は存在している世界の権力の間に確固たる地位を築いた。\n\n[realm_1.GetNameNoTierNoTooltip|U]、[realm_2.GetNameNoTierNoTooltip|U]、[realm_3.GetNameNoTierNoTooltip|U]、[realm_4.GetNameNoTierNoTooltip|U]…我々の領地は広く、遠くへ拡大している。数多の王冠が我々の頭上に存在するが、血によって我々は一つなのである。"
  major_decisions.0501.a:0 "我々の遺産は永遠に！"

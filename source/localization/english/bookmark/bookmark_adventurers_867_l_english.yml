@@ -26,7 +26,7 @@
  bookmark.0101.desc_living:1 "我が息子の[bewo.GetTitledFirstName]は目の中に入れても痛くないほど可愛い。我は疑問に思う..この可愛い単なる赤子は、父の冒険心と私の持つ大いなる遺産を受け継ぐ事ができるであろうか？"
  bookmark.0101.desc_dead:1 "我が息子の[bewo.GetTitledFirstName]は目の中に入れても痛くないほど可愛い。我は疑問に思う..この可愛い単なる赤子は、父の冒険の伝説と私から受け継いだ遺産を越える事ができるであろうか？"
  bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip]は[ROOT.Char.GetCulture.GetNameNoTooltip]の伝統を新しい世代に引き継がせなければなりません。"
- bookmark.0101.a.tt:1 "[bewo.GetUIName]があなたの[player_heir|E]になります"
+ bookmark.0101.a.tt:1 "[bewo.GetUIName]が[player_heir|E]になります"
  bookmark.0101.b:1 "息子の名や文化はなにであったとしても、我が息子は我が息子 。"
  bookmark.0101.b.tt:1 "#warning @warning_icon! この選択肢では[player_heir|E]が存在しないままになる可能性があります#!"
  bookmark.0101.c:0 "マガジヤの継承では男性を必要としません！"
