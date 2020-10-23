@@ -4,7 +4,7 @@ This is a Japanese localization mod for Crusader Kings III.
 
 ## Publish Flow
 
-![flow](flow.png)
+![flow](readme/flow.png)
 
 ## Mod tree
 
@@ -20,6 +20,8 @@ See source folder in reoisitory.
       - C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\clausewitz\localization
     - jomimi
       - C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\jomini\localization
+    - game
+      - special localized entries for japanese
   
 ## Steam workshop
 
@@ -42,18 +44,47 @@ No support
 
 ## File size
 
-6MB
+7MB
 
 ## Auto update
 
-Yes: Every 6h (UTC)
+Yes: Every 24h (UTC00:00 JST9:00)
 
-## Github actions secrets
+## Manual release
+
+Only collaborators
+
+![manual release](readme/manual.png)
+
+## How to use auto update program for other project ?
+
+### Github actions secrets
+
+You need to set following credentials to github actions.
 
 | name | description |
 |:---:|:---:|
-| AWS_S3_ACCESS_KEY | Amazon Web Service IAM access key. IAM must have a S3 write access authority|
-| AWS_S3_SECRET_ACCESS_KEY | Amazon Web Service IAM secret key|
 | PARATRANZ_SECRET | Your paratranz personal secret.|
-| STEAM_LOGIN_NAME | Your steam login name. You must have a target game.|
-| STEAM_LOGIN_PASSWORD | Your steam login password.|
+| STEAM_LOGIN_NAME | Your steam account name. You must have a target game.|
+| STEAM_LOGIN_PASSWORD | Your steam account password.|
+
+#### How to get Paratranz secret ?
+
+1. Go to user page from user portrait(upper right).
+2. Click key icon 
+![paratranz secret](readme/paratranz_secret.png)
+
+### Steam cmd secret files
+
+You need to prepare Steam cmd secret(ssfnXXXXXXXX).
+
+#### How to get Steam CMD secrets? 
+
+1. [Download](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip) SteamCmd and unpack download zip
+2. Run steamcmd using your steam account name and password
+3. Steamcmd generates ssfn files on working directory
+
+## References
+
+ - [SteamCmd](https://developer.valvesoftware.com/wiki/SteamCMD)
+ - [Upload mods using steamcmd](https://partner.steamgames.com/doc/sdk/uploading)
