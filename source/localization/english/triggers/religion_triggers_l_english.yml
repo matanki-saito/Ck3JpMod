@@ -35,7 +35,7 @@
  NOT_RELIGION_TAG_TRIGGER:0 "あなたの[faith]は$RELIGION|V$の#bold 一部ではない#!"
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]することが出来る"
  CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]#EMP することが出来ない#!"
- CANNOT_CREATE_HOF_TITLE_AT_OR_ABOVE_LIEGE_TIER:0 "You cannot become [head_of_faith|E] if it would make you at or above your [liege|E]'s [title_rank|E]"
+ CANNOT_CREATE_HOF_TITLE_AT_OR_ABOVE_LIEGE_TIER:0 "[liege|E]と同じかより上位の[title_rank|E]になるような場合に[head_of_faith|E]になることはできません"
  CHAR_CAN_ONLY_CREATE_ONE_FAITH:0 "この人物は改宗か新しい[faith|E]の創設をすでに行っています！"
  has_forced_defender:0 "あなたは守勢側を強いられています。"
  has_pledged_attacker:0 "あなたは盟約による攻撃側です"

@@ -1,7 +1,7 @@
 ﻿l_english:
  GOTO_CHARACTER:0 "#T [Character.GetShortUINamePossessiveNoTooltip]の場所へ移動#!\n[Character.GetLocationDesc]"
  CHARACTER_INTERACTION_ITEM_TOOLTIP_HEADER:0 "$NAME|T$"
- SHOW_MORE_INTERACTIONS_TT:0 "#T Show more [CharacterInteractionCategory.GetDescription]#!"
+ SHOW_MORE_INTERACTIONS_TT:0 "#T 他の[CharacterInteractionCategory.GetDescription]を表示#!"
  PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Unpin', 'Pin' )]\n#!画面右側のアウトライナーに[Character.GetHerHim]を固定し、このキャラクターを追跡できるようにします"
  interaction_category_diplomacy:0 "外交"
  interaction_category_friendly:0 "個人的"
@@ -10,7 +10,7 @@
  interaction_category_religion:0 "宗教"
  interaction_category_house_head:0 "家長"
  interaction_category_prison:0 "牢獄"
- interaction_category_uncategorized:0 "Uncategorized #D (DEBUG)#!"
+ interaction_category_uncategorized:0 "未分類 #D (デバッグ用)#!"
  INTERACTION_SENDER:0 "送付者"
  INTERACTION_RECIPIENT:0 "受領者"
  INTERACTION_SPOUSE:0 "配偶者"

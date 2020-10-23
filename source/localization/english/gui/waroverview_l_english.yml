@@ -1,6 +1,6 @@
 ﻿l_english:
- WAR_OVERVIEW_YOUR_PARTICIPANTS:3 "Attacker's Allies"
- WAR_OVERVIEW_THEIR_PARTICIPANTS:3 "Defender's Allies"
+ WAR_OVERVIEW_YOUR_PARTICIPANTS:3 "攻撃側同盟者"
+ WAR_OVERVIEW_THEIR_PARTICIPANTS:3 "防衛側同盟者"
  WAR_OUR_FORCES:1 "友軍戦力:"
  WAR_THEIR_FORCES:1 "敵軍戦力:"
  WAR_OVERVIEW_STARTED:1 "開戦: [WarOverviewWindow.GetWarDuration]前"
@@ -41,7 +41,7 @@
  WAR_OVERVIEW_MY_CONTRIBUTION:1 "あなたの[war_contribution|E]"
  WAR_OVERVIEW_BENEFICIARY:1 "あなたの[beneficiary|E]"
  WAR_OVERVIEW_BENEFICIARY_NAME:0 "[CHARACTER.GetUIName]"
- WAR_OVERVIEW_NO_BENEFICIARY:0 "#X Not Selected yet#!"
+ WAR_OVERVIEW_NO_BENEFICIARY:0 "#X 選択されていません#!"
  WAR_OVERVIEW_CONTRIBUTION_RANK:1 "[WarOverviewWindow.GetContributionRank(GetPlayer)|O]"
  WAR_OVERVIEW_CONTRIBUTION_NO_RANK:0 "-"
  WAR_OVERVIEW_PEACE_TERMS:1 "和平条約"
@@ -50,4 +50,4 @@
  WAR_OVERVIEW_SHOW_ALLIES:0 "#T [allies|E]を切り替え#!"
  WAR_OVERVIEW_TOTAL_SOLDIERS:0 "[soldiers|E]合計"
  WAR_PARTICIPANT_SOLDIERS:2 "[soldiers|E]: [soldier_i]$SOLDIERS$\n$knight_culture_player_plural$: [knight_i]$KNIGHTS$"
- COMPLETELY_BANKRUPT:0 "Significantly Bankrupt: $VALUE|+=0$"
+ COMPLETELY_BANKRUPT:0 "大規模な破産: $VALUE|+=0$"

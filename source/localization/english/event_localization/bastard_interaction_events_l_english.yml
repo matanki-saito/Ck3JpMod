@@ -42,7 +42,7 @@
  bastard_interaction.0007.a:0 "[legitimized_bastard.GetSheHe]が永遠に私の人生から消えますように。"
  bastard_interaction.0008.desc:0 "我が[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('parent'))]の婚外子である[legitimized_bastard.Custom('GetDaughterSon')]、[legitimized_bastard.GetTitledFirstName]は、[legitimized_bastard.GetHerHis]の新たな一族の長から認知された！"
  bastard_interaction.0008.a:0 "まるで[legitimized_bastard.GetSheHe]が「嫡出」であるかのように。"
- bastard_interaction.0009.t:0 "名家の当主"
+ bastard_interaction.0009.t:0 "王朝の後継者"
  bastard_interaction.0009.desc:0 "王家全ての長である[actor.GetTitledFirstName]様が、私を正統な後継者にするとの宣言をお出しになられた！家名を継ぐのはこの私であると。\n\n私は常に真の[ROOT.Char.GetDynasty.GetBaseName]であった。そして今、世界はそれを認めなければならない。"
  bastard_interaction.0009.a:0 "長かった！"
  bastard_interaction.0010.t:0 "もう一人の王朝継承者"
