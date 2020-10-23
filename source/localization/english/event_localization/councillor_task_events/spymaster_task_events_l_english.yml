@@ -110,7 +110,7 @@
  spymaster_task.1101.spy_on:0 "あなたの全ての秘密を明らかにする邪悪な計画を掴みました！"
  spymaster_task.1101.fallback:0 "あなたに対する邪悪な計画を掴みました！"
  spymaster_task.1101.ending:0 "\n\n私がこれを書いている間にも[owner.GetHerHis|U]はスパイを集めており、[owner.GetFirstName]が今のところは失敗しているとはいえ、[owner.GetSheHe]は今後も脅威であることに変わりはありません。\n我々が行動を起こさない限りは…"
- spymaster_task.1101.a:0 "This world might not be big enough for the two of us."
+ spymaster_task.1101.a:0 "我々二人には世界は狭すぎるかもな。"
  spymaster_task.1101.exposure_tt:0 "計画は暴露されました"
  spymaster_task.2001.t:0 "空っぽの告発"
  spymaster_task.2001.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]は大規模な陰謀の暴露と裁きのため[ROOT.Char.Custom('DefaultPriestTitle')]を連れてきた。しかしながら、[ROOT.Char.Custom('DefaultPriestTitle')]が自白を拒否すると、[councillor.GetTitledFirstName]には[councillor.GetHerHis]の告発に対する証拠や裏付けが全くなかった。"

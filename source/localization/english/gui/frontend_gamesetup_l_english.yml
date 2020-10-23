@@ -1,5 +1,5 @@
 ﻿l_english:
- SELECT_CHARACTER_ON_MAP:0 "Choose a Character on the Map."
+ SELECT_CHARACTER_ON_MAP:0 "マップ上で人物を選択します。"
  PICK_ANY_CHARACTER:2 "#light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!年の任意の統治者で開始..."
  BOOKMARK_DISABLED:0 "このブックマークは無効です"
  BOOKMARK_NOT_PICKED_CHARACTER:0 "ゲーム開始前にブックマークで人物を選択してください。または、「任意の人物を選択」をクリックして自由に選択してください。"

@@ -1,6 +1,6 @@
 ﻿l_english:
  visit_to_court_modifier:0 "Went on Court Visit"
- target_hates_owner_modifier:0 "They are hostile to me"
+ target_hates_owner_modifier:0 "彼らは敵対的である"
  target_tired_of_insistence_modifier:0 "Tired of my insistence"
  had_target_rebuffed_event:0 "私の誘惑を拒絶する"
  befriend_gregarious_target_modifier:0 "彼らは社交的である"
@@ -11,7 +11,7 @@
  respectful_despite_differences:0 "Respectful Despite Differences"
  lifestyle_common_interests_modifier:0 "共通の関心"
  lifestyle_common_interests_modifier_desc:0 "Our common interests makes it a lot easier to get along."
- lifestyle_spying_on_target_modifier:0 "Spying"
+ lifestyle_spying_on_target_modifier:0 "スパイ行為"
  lifestyle_spying_on_target_modifier_desc:0 "彼らを知るには好き嫌いを知る必要がある！"
  lifestyle_bugging_target_modifier:0 "Unwanted Friendliness"
  lifestyle_bugging_target_modifier_desc:1 "I will not let their rebuffs dissuade me!"

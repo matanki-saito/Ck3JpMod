@@ -1,5 +1,5 @@
 ﻿l_english:
- KILL_LIST:1 "[KillListWindow.GetCharacter.GetUINamePossessive|U] Kills"
- OPEN_KILL_LIST_TOOLTIP:1 "#I Click to open Kill List#!"
+ KILL_LIST:1 "[KillListWindow.GetCharacter.GetUINamePossessive|U]の殺害数"
+ OPEN_KILL_LIST_TOOLTIP:1 "#I クリックで殺した人一覧を開く#!"
  DEATH_DATE:0 "死亡日"
  DEATH_REASON:0 "死因"

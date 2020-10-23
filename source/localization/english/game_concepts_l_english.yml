@@ -927,7 +927,7 @@
  game_concept_county_modifier:0 "伯爵領の補正"
  game_concept_county_modifiers:0 "伯爵領の補正値"
  game_concept_county_modifier_desc:1 "$game_concept_county_modifiers$は[county|E]の様々な値に影響を与える修飾子です。\n\n[baronies|E]はそれぞれで独自の修飾子を持つ可能性があり、それらは$game_concept_county$の[holdings|E]の画面で確認出来ます。"
- game_concept_fleet:0 "艦隊"
+ game_concept_fleet:0 "船団"
  game_concept_fleets:0 "艦隊"
  game_concept_fleet_desc:1 "[armies|E]が海へ移動すると、自動的に$game_concept_fleet$に[embark|E]します。 [embarking]の費用として船の調達及び建造にかかるだけの[gold|E]が必要です。\n\n$game_concept_fleet$となった[armies]は非常に速い速度で海を航行できますが、維持費として#V 25%#!の費用がかかり、かつ海上に#V [GetDefine('NFleet', 'ATTRITION_AFTER_DAYS')|0]#!日以上とどまると、[supplies|E]が不足し始めます。\n\n$game_concept_fleets$は[battles|E]を行いません。\n\n$game_concept_army$が下船すると、$game_concept_fleet$は消え、$game_concept_army$は[recently_disembarked|E]状態になります。"
  game_concept_domain_income:0 "直轄領の収入"
