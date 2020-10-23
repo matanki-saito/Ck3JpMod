@@ -6,6 +6,7 @@ import json
 import os
 import shutil
 import textwrap
+import time
 import urllib.request
 import zipfile
 from os.path import join
@@ -20,7 +21,7 @@ def download_trans_zip_from_paratranz(project_id,
                                       out_file_path,
                                       base_url="https://paratranz.cn"):
     """
-    paratranzからzipをダウンロードする
+    paratranzからzipをダウンロードする。ダウンロード前にre-generateする
     :param project_id:
     :param secret:
     :param base_url:
@@ -28,8 +29,17 @@ def download_trans_zip_from_paratranz(project_id,
     :return:
     """
 
-    request_url = "{}/api/projects/{}/artifacts/download".format(base_url, project_id)
-    req = urllib.request.Request(request_url)
+    regenerate_request_url = "{}/api/projects/{}/artifacts/artifacts".format(base_url, project_id)
+    req = urllib.request.Request(regenerate_request_url, method="POST")
+    req.add_header("Authorization", secret)
+    with urllib.request.urlopen(req) as response:
+        print(response.read().decode("utf-8"))
+
+    # wait for regenerate
+    time.sleep(90)
+
+    download_request_url = "{}/api/projects/{}/artifacts/download".format(base_url, project_id)
+    req = urllib.request.Request(download_request_url)
     req.add_header("Authorization", secret)
 
     with open(out_file_path, "wb") as my_file:
