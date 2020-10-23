@@ -29,7 +29,7 @@ def download_trans_zip_from_paratranz(project_id,
     :return:
     """
 
-    regenerate_request_url = "{}/api/projects/{}/artifacts/artifacts".format(base_url, project_id)
+    regenerate_request_url = "{}/api/projects/{}/artifacts".format(base_url, project_id)
     req = urllib.request.Request(regenerate_request_url, method="POST")
     req.add_header("Authorization", secret)
     with urllib.request.urlopen(req) as response:
