@@ -19,7 +19,7 @@
  county_corruption_unsafe_highways_modifier_desc:0 "[county_corruption|E]\nこの伯爵領の街道は夜に森を通るよりも安全ではありません"
  county_corruption_uncooperative_guilds_modifier:0 "非協力的なギルド"
  county_corruption_uncooperative_guilds_modifier_desc:1 "[county_corruption|E]\n地元のギルドはこの伯爵領の統治者への協力を渋っている"
- county_corruption_lackluster_administration_modifier:0 "Lackluster Administration"
+ county_corruption_lackluster_administration_modifier:0 "精彩を欠く統治"
  county_corruption_lackluster_administration_modifier_desc:1 "[county_corruption|E]\nこの伯爵領の統治者はもはや領内の適切な統治に資金を供給できていない！"
  gain_county_corruption.message.low_control:0 "治安の悪化"
  gain_county_corruption.message.deficit:0 "借金がある"

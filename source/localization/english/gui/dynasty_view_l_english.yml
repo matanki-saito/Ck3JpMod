@@ -1,7 +1,7 @@
 ﻿l_english:
  DYNASTY_VIEW_CHILDREN_HIDE:0 "#T 子供を隠す#!"
  DYNASTY_VIEW_CHILDREN_SHOW:0 "#T 子供を表示#!"
- DYNASTY_VIEW_INFO_TITLE:0 "#T [Dynasty.GetBaseNameNoTooltip|U] Dynasty#!"
+ DYNASTY_VIEW_INFO_TITLE:0 "#T [Dynasty.GetBaseNameNoTooltip|U]王朝#!"
  DYNASTY_VIEW_PRESTIGE:0 "[Dynasty.GetPrestige|V0]の[dynasty_prestige|E]"
  DYNASTY_VIEW_HOUSES_AMOUNT:1 "[Dynasty.GetFoundedDynastyHousesCount|V]の[Select_CString( EqualTo_int32( Dynasty.GetFoundedDynastyHousesCount, '(int32)1' ), '家', '家' )]"
  DYNASTY_VIEW_HOUSES_TT:0 "#T [Dynasty.GetNameNoTooltip]王朝に連なるすべての家を確認する#!"
