@@ -1,29 +1,16 @@
 ﻿l_english:
- #game/localization/english/dynasties/dynasty_names_l_english.yml
- FOUNDER_BASED_NAME_POSTFIX:0 "" # "id"
- 
- #jomini/localization/jomini/script_system/script_system_l_english.yml
- POSSESSIVE_SPECIAL:0 "" # "'"
- POSSESSIVE_GENERAL:0 "" # "'s"
- POSSESSIVE_CHECK:0 "" # "s"
- 
- #game/localization/english/core_l_english.yml
- CHARACTER_POSS_SPECIAL:0 "" # "'"
- CHARACTER_POSS:0 "" # "'s"
- CHARACTER_POSS_CHECK:0 "" # "s"
- 
- #game/localization/english/dynasties/dynasty_names_l_english.yml
+ FOUNDER_BASED_NAME_POSTFIX:0 ""
+ POSSESSIVE_SPECIAL:0 ""
+ POSSESSIVE_GENERAL:0 ""
+ POSSESSIVE_CHECK:0 ""
+ CHARACTER_POSS_SPECIAL:0 ""
+ CHARACTER_POSS:0 ""
+ CHARACTER_POSS_CHECK:0 ""
  dynnp__:0 ""
- 
- ### "the" ###
- #game/localization/english/titles_l_english.yml
  d_aztec_pagan_reformed_article:0 ""
  d_baltic_pagan_reformed_article:0 ""
  d_finnish_pagan_reformed_article:0 ""
  d_norse_pagan_reformed_article:0 ""
- 
- ### "the " ###
- #game/localization/english/mercenaries_l_english.yml
  mercenary_company_allemannic_guard_article:0 ""
  mercenary_company_almogavars_1_article:0 ""
  mercenary_company_almogavars_2_article:0 ""
@@ -252,8 +239,6 @@
  mercenary_company_yoruba_band_article:0 ""
  mercenary_company_company_of_the_niger_article:0 ""
  mercenary_company_followers_of_oduduwa_article:0 ""
- 
- #game\localization\english\titles_l_english.yml
  b_the_uists_article:0 ""
  c_east_riding_article:0 ""
  c_inner_hebrides_article:0 ""
