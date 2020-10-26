@@ -80,7 +80,7 @@
  seduce_ongoing.gift_selection.rare_book:0 "[target.GetHerHim]のために貴重な本を手に入れよう。"
  seduce_ongoing.gift_selection.rare_book_tt:0 "[target.GetTitledFirstName]は知識、少なくともそれを含む物が好きだと思う"
  seduce_ongoing.gift_selection.handkerchief:0 "家紋のついたハンカチはどうだ。"
- seduce_ongoing.gift_selection.handkerchief_tt:0 "[target.GetTitledFirstName]は私を同じ体格の人からさがすしるしにうまく利用すると思う。"
+ seduce_ongoing.gift_selection.handkerchief_tt:0 "[target.GetTitledFirstName]は我が家門に縁あるしるしとして上手く使うだろう。"
  seduce_ongoing.gift_selection.object:0 "初めて会ったときの思い出の品である[SCOPE.Custom('SeductionObjectIndefinite')|U]はどうだろうか。"
  seduce_ongoing.gift_selection.object_tt:0 "[target.GetTitledFirstName]はすでに何らかの形で私のことを気にかけてくれていると思う"
  seduce_ongoing.1201.t:0 "厳選された贈り物"

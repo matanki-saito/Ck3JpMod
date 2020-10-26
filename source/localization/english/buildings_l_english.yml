@@ -628,7 +628,7 @@
  building_brihadeeswarar_temple_01:0 "$building_type_brihadeeswarar_temple_01$"
  building_brihadeeswarar_temple_01_desc:0 "$building_type_brihadeeswarar_temple_01_desc$"
  building_type_holy_site_mahabodhi_temple_01:0 "マハーボーディ寺院"
- building_type_holy_site_mahabodhi_temple_01_desc:0 "マハーボーディー寺院は、仏陀が悟りを開いたと言われる場所にある。ここは、仏教徒とヒンズー教徒の両方にとって重要な巡礼地である。この寺院は、紀元前三世紀にアショーカ王によって建造され、その後、たびたび改修・修復されている。"
+ building_type_holy_site_mahabodhi_temple_01_desc:0 "マハーボーディー寺院は、仏陀が悟りを開いたと言われる場所にある。ここは、仏教徒とヒンドゥー教徒の両方にとって重要な巡礼地である。この寺院は、紀元前三世紀にアショーカ王によって建造され、その後、たびたび改修・修復されている。"
  building_holy_site_mahabodhi_temple_01:0 "$building_type_holy_site_mahabodhi_temple_01$"
  building_holy_site_mahabodhi_temple_01_desc:0 "$building_type_holy_site_mahabodhi_temple_01_desc$"
  building_type_holy_site_great_mosque_of_cordoba_01:0 "コルドバの大モスク"

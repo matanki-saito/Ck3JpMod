@@ -20,7 +20,7 @@
  stewardship_domain.1042.c:0 "彼らが公正にできないなら、彼らの機会はない！"
  stewardship_domain.1052.t:0 "穀物倉庫への侵入"
  stewardship_domain.1052.desc:0 "害虫が[target_county.GetName]にあるいくつかの穀物倉庫へと住み着き、そこに貯蓄してあった種籾がだめになってしまった。 来年に植えられる作物が何もなくなってしまった自由農民が、援助を求めてやってきた。\n\n彼らの悲惨な状況を考えれば、この農民たちは最終的に私が提示した条件を受け入れざるをえないだろう。"
- stewardship_domain.1052.a:0 "私の農奴となるのなら穀物をわけてやろう...。"
+ stewardship_domain.1052.a:0 "私の農奴となるのなら穀物をわけてやろう…"
  stewardship_domain.1052.b:0 "同情し、穀物の蓄えを開放する。"
  stewardship_domain.1052.c:0 "[ROOT.Char.Custom('DefaultPriestTitlePlural')]に命令し、慈善事業を実施する。"
  stewardship_domain.1053.t:0 "腐敗徴税人"

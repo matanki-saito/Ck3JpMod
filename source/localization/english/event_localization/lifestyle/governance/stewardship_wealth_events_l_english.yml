@@ -20,7 +20,7 @@
  stewardship_wealth.1011.custom:0 "[THIS.Char.GetPrimaryTitle.GetName]の全ての領域"
  stewardship_wealth.1021.t:0 "戦争への支払い"
  stewardship_wealth.1021.desc:0 "戦争は金が掛かる、国庫は急速に空になり戦場にいる兵士への支払いをどうするか、私は考える必要がある。"
- stewardship_wealth.1021.a:0 "農民から更なる税を引き上げろ。"
+ stewardship_wealth.1021.a:0 "農民から追加の税を徴収しろ。"
  stewardship_wealth.1021.a.custom:0 "我が[domain|E]の全ての[county|E]"
  stewardship_wealth.1021.b:0 "必要の無い軍経費を減らせ。"
  stewardship_wealth.1021.b.success:0 "軍事予算の効率を上げる"

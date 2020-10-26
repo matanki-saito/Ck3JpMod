@@ -24,7 +24,7 @@
  CHOOSE_DYNASTY_PERK_CONFIRM_ACCEPT:0 "解禁"
  DYNASTY_LEGACY_PERK_COST:0 "\nコスト: $VALUE|V$[dynasty_prestige|E]"
  DYNASTY_VIEW_ALSO_DYNAST:1 "Also Dynasty Head of the [Character.GetDynasty.GetBaseName] Dynasty"
- DYNASTY_VIEW_ALSO_HOUSE_HEAD:0 "Head of the House [Character.GetHouse.GetName]"
+ DYNASTY_VIEW_ALSO_HOUSE_HEAD:0 "[Character.GetHouse.GetName]家の家長"
  DYNASTY_VIEW_PAN_TO_ME:0 "あなたへ飛ぶ"
  DYNASTY_VIEW_PAN_TO_ME_TT:0 "#T あなたへ飛ぶ#!"
  DYNASTY_VIEW_PAN_TO_DYNAST:0 "一族の現当主へ飛ぶ"
