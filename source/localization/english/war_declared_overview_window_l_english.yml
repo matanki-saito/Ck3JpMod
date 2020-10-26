@@ -16,7 +16,7 @@
  war_declared_flavor.subjugation.arrogant:0 "何を小しゃくな、私がおまえより明らかに優れているのに対等な君主を装うとは！おまえの哀れな軍隊を戦場で粉砕し、私の前にひざまずかせてやる！"
  war_declared_flavor.conquest:0 "おまえは弱い支配者であり所有する土地に相応しくない。真の君主がどんなものか見せてやろう—おまえの土地を奪い取ってからだがな！"
  war_declared_flavor.peasant:0 "おまえの傲慢には際限がない。しかし心配は無用だ。すぐに懲らしめて、謙虚にさせてやる！"
- war_declared_flavor.populist:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] If it is war you want, then you shall have it! We will not let anybody stop us from forming a new realm for ourselves!"
+ war_declared_flavor.populist:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]おまえが戦争を望むならば、我々が相手になってやる！我らの新しい国を作る運動は、誰にも止めさせはしない！"
  war_declared_flavor.independence:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]私たちはあまりにも長い間あなたの支配下で暮らしてきた。もうこれ以上我慢できない——血と鋼によって、私たちは自由になる！"
  war_declared_flavor.liberty:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] We can no longer tolerate the harsh laws which violate our ancient rights. By the sword, these laws will be cut down!"
  war_declared_flavor.claimant:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]あなたは僭越者で暴君だ。正統な君主を復権させる時が来たのだ！"

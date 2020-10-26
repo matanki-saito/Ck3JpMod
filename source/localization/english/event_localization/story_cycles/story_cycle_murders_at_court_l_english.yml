@@ -13,7 +13,7 @@
  murders_at_court.1001.d:0 "なにか目撃した者はいないのか？誰か、助けてくれ!"
  murders_at_court.1001.d.tt:0 "領内でこの事件を触れ回り、手掛かりと協力者を募る。"
  murders_at_court.1001.e:0 "個人的にこれを調査してみよう。"
- murders_at_court.1001.e.tt:0 "I will bring my knowledge to bear in this case"
+ murders_at_court.1001.e.tt:0 "この件では私の知識を実地に用いよう"
  murders_at_court.1002.t:1 "宮廷での殺人: 早朝の殺人"
  murders_at_court.1002.desc_named:0 "日が昇ると、夜の間に[victim.Custom2('MyCharacterIntroduction', ROOT.Char)]が殺害されたという知らせが私を迎える。残忍にも内臓を抉り出され、通行人に見られるように並べられていたというのだ…\n\n遺体はすぐに取り除かれ、太陽が沈む頃には恐ろしい行為の痕跡は見当たらない。"
  murders_at_court.1002.desc:0 "新たな日が訪れ、また新たな死体が見つかった。最近の殺人を扱うことが[ROOT.Char.Custom('ResidenceBuilding')]において日課であるかのような感覚になっていることに気付き、私は暗い気分になった。\n\n死体——内臓を抜かれた若い[ROOT.Char.Custom('RandomWomanMan')]——はすぐに取り除かれ、日が沈む頃には残虐な行為の痕跡は見当たらなくなっていた。"

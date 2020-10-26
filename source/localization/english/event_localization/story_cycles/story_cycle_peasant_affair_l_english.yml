@@ -3,7 +3,7 @@
  peasant_affair.1001.desc_opening:0 "「我が[ROOT.Char.GetLadyLord]、再びあなたに会えるまで、私の心は安らぎを知らなかった！私です、[peasant_character.GetFirstNameNoTooltip]。私を覚えているでしょう、我が[ROOT.Char.Custom('LoverPetName')]？」\n\n"
  peasant_affair.1001.desc_child:0 "私は自分の目を疑う。私が遠い昔のある夜、一夜を共にした美しい[peasant_character.GetWomanMan]、私の愛する[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('peasant_child'))][peasant_child.GetTitledFirstName]の[peasant_character.GetMotherFather]が宮廷に現れたのだ。"
  peasant_affair.1001.desc_their_child:0 "私は自分の目を疑う。私が遠い昔のある夜、一夜を共にした美しい[peasant_character.GetWomanMan]が宮廷に現れたのだ。[peasant_character.GetHerHim]の横には[peasant_character.GetHerHis]の[peasant_child.Custom('GetDaughterSon')]が立っていて、私は[peasant_child.GetHerHis]の年齢に反応せずにはいられない…"
- peasant_affair.1001.desc_rakish_night:0 "I cannot believe my eyes: the beautiful [peasant_character.GetWomanMan] I indulged in many moons ago during a wild night of abandon has shown up at court."
+ peasant_affair.1001.desc_rakish_night:0 "自分の目が信じられない、何ヶ月もまえ、思い切り激しい一夜をともにした美しい[peasant_character.GetWomanMan]が宮廷に現れたのだ。"
  peasant_affair.1001.desc:0 "私は自分の目を疑う。私が遠い昔に[ROOT.Char.Custom('FortifiedBuilding')]の外で偶然出会った美しい[peasant_character.GetWomanMan]が宮廷に現れたのだ。"
  peasant_affair.1001.a_1:0 "私の宮廷の一員としてここにいてくれ！"
  peasant_affair.1001.a_2:0 "[peasant_character.GetFirstNameNoTooltip]なのか？ここに留まるのは歓迎だ。"

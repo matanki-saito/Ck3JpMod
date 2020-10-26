@@ -14,7 +14,7 @@
  DECISION_NOT_VALID:0 "@warning_icon!#X すべての要件を満たしていません#!"
  DECISIONS_VIEW_COUNCILLOR:1 "On your [liege|E]'s [council|E]"
  DECISIONS_VIEW_LEAVE_COUNCIL:0 "Resign"
- DECISIONS_VIEW_LEAVE_COUNCIL_TT:1 "#T Resign from Council#!\nResign from the position of [GetPlayer.GetCouncilTitle], relinquishing any benefits of the position"
+ DECISIONS_VIEW_LEAVE_COUNCIL_TT:1 "#T 評議会を辞する#!\n[GetPlayer.GetCouncilTitle]の職位を辞し、当職におけるあらゆる便益を放棄する。"
  DECISIONS_VIEW_MAJOR_NOT_AVAILABLE:0 "利用可能な大きな決断はありません"
  LEAVE_COUNCIL_CONFIRMATION_TITLE:0 "評議会を離脱"
  LEAVE_COUNCIL_CONFIRMATION:0 "[CHARACTER.GetLiege.GetUIName]の[council|E]において[CHARACTER.GetCouncilTitle]であることの恩恵を受けられなくなります。"

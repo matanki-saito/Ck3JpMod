@@ -269,7 +269,7 @@
  yearly.1081.agent_scheme_type_fallback.desc:0 "[suspicious.GetSheHe|U]は計画を進めている誰かのために働いている、その計画は"
  yearly.1081.traitor_end.desc:0 "\n\nあの[suspicious.Custom('InsultAdjective')]裏切り者は、[suspicious.GetSheHe]に相応しいものを手に入れるだろう！"
  yearly.1081.useful_end.desc:0 "\n\nあの卑劣な[suspicious.Custom('InsultNoun')]め！この情報はきっと役に立つはずだ。"
- yearly.1081.secret.desc:0 "[suspicious.GetSheHe|U]は[guilty_owned_secret.Custom('SecretDescriptionThirdPerson')]だ！"
+ yearly.1081.secret.desc:0 "[suspicious.GetSheHe|U]は[guilty_owned_secret.Custom('SecretDescriptionThirdPerson')]！"
  yearly.1081.a:0 "私は知っていた！"
  yearly.1082.investigator_start.desc:0 "[investigator.GetTitledFirstName]は、[suspicious.GetTitledFirstNamePossessive]の活動に関する[investigator.GetHerHis]の調査を手ぶらのまま終えた。[investigator.GetSheHe|U]は、犯罪行為やその他の闇の行為の証拠は見つけられず——怪しい噂すら出てこなかった。"
  yearly.1082.you_start.desc:0 "私は影に隠れ、怪しげな居酒屋に行き、あらゆる石をひっくり返してみたが——[suspicious.GetTitledFirstName]を有罪にする証拠は見つからなかった。怪しい噂すらもなかった！"

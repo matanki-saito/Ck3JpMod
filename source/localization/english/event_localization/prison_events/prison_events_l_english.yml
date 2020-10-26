@@ -11,7 +11,7 @@
  prison.1002.rack.desc:0 "簡単な事さ。やはり古き良き拷問台に勝るものはないな。看守が[recipient.GetTitledFirstName]を部屋へ引きずってくると、[recipient.GetHerHis]の目線は直ぐに大きな木枠へと引き付けられた。"
  prison.1002.whip.desc:0 "おぉ、猫鞭の甘美なるキスが! 見た目はなんてことないが、これはナイフと同じように骨肉を剥ぎ取り身体を軽くする。[recipient.GetTitledFirstNamePossessive]の表情から察するに、そのことをよく知っているようだ。"
  prison.1002.rats.desc:0 "バケツの中のネズミは最初恥ずかしがっているように見えるかもしれないが、加熱してやると喜んで[`recipient.GetWomanMan]の胸を貪り穴を空けていく。私めが[recipient.GetTitledFirstName]様に状況のご説明していると、まるでチーズのようにその決意が溶けていきましたとさ。"
- prison.1002.anothers_secret.desc:0 "\n\n『やめ、やめろ、情報を持っている! [reveal_secret_owner.GetTitledFirstName]は[reveal_secret_owner.GetTitledFirstName][reveal_secret_owner.GetTitledFirstName][secret_to_reveal.Custom('SecretDescriptionThirdPerson')]! 全部話すから!』"
+ prison.1002.anothers_secret.desc:0 "\n\n『やめ、やめろ、情報を持っている! [reveal_secret_owner.GetTitledFirstName]は[secret_to_reveal.Custom('SecretDescriptionThirdPerson')]! 全部話すから!』"
  prison.1002.my_secret.desc:0 "\n\n『頼むからやめてくれ！#EMP 頼む#!知りたい事なら何でも言う！私…私は…[secret_to_reveal.Custom('SecretDescriptionFirstPerson')]！』"
  prison.1002.a:0 "へぇ面白いね。じゃあ[recipient.GetHerHim]を牢屋へ戻しておけ。"
  prison.1002.b:0 "まだ#emp 終わった#!なんて言ってないよな…"

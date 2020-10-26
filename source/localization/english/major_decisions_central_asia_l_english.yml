@@ -7,6 +7,6 @@
  become_greatest_of_khans_decision_enable_mongol_invasion_cb:1 "[mongol_invasion_casus_belli|E]にアクセスできるようになります"
  GREATEST_OF_KHANS_TITLE_REQUIREMENT:1 "[king|E]または[emperor|E]でなければならない"
  establish_bactrian_supremacy_decision:0 "バクトリアの支配権を打ち立てる"
- establish_bactrian_supremacy_decision_desc:0 "#F 何世代にもわたってバクトリア王は文明の交差点を支配してきました。 彼らの外套を取り上げキャラバンサライ(隊商宿)からオアシスまで我らが拡がるときが来ました。ここでは空の四隅の下で、私たちが統治者である。#!"
+ establish_bactrian_supremacy_decision_desc:0 "#F 何世代にもわたってバクトリア王は文明の交差点を支配してきた。彼らの外套を取り上げキャラバンサライ(隊商宿)からオアシスまで我らが拡大するときが来た。ここでは空の四隅の下で、私たちが統治者である。#!"
  establish_bactrian_supremacy_decision_tooltip:0 "東西南北を結ぶ交易路の優位性を示す"
  establish_bactrian_supremacy_decision_confirm:0 "祖先の地を請求する!"
