@@ -71,7 +71,7 @@
  yearly.3031.b.failure:0 "[liege.GetTitleAsNameNoTooltip]は、[fellow_vassal.GetFirstNameNoTooltip]により感服する"
  yearly.3031.c:0 "私はどのように[liege.GetFirstNamePossessiveNoTooltip]の注意を引くかを知っている…"
  yearly.3031.c.unlock_tt:0 "このオプションは私の[liege.GetTitledFirstNameNoTooltip]への魅力のために利用可能です"
- yearly.3031.c.consequence:0 "[liege.GetFirstNameNoTooltip] may pursue me further"
+ yearly.3031.c.consequence:0 "[liege.GetFirstNameNoTooltip]はさらに私を追ってくるかもしれない"
  yearly.3031.c.success:0 "注意を引きつけた"
  yearly.3031.d:0 "我々封臣は互いに争うのではなく、共に働くべきだ！"
  yearly.3040.t:0 "良き[ROOT.Char.GetFaith.GetAdjectiveNoTooltip|U]"
