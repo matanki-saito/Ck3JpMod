@@ -103,7 +103,7 @@
  childhood.1003.t:0 "深まる痛み"
  childhood.1003.desc1:0 "私は我が[child.Custom('GetDaughterSon')]の[child.GetTitledFirstName]と[child.GetHerHis]の友達の[friend.GetTitledFirstName]の笑い声を聞きながら、その日はいい天気に恵まれたのを喜んでいた。その時、突然[child.GetTitledFirstName]が倒れて膝を怪我するのを目にした。[child.GetSheHe|U]は友人たちの励ましを受けて、私のところに来てけがの手当てをしてくれるよう頼んできた。"
  childhood.1003.desc2:0 "いい天気に恵まれたのを喜びながら庭園を歩いていると、[child.Custom('child_favorite_toy')]で遊んでいた、私の[child.Custom('GetDaughterSon')]の[child.GetTitledFirstName]が転んで膝をすりむくのを見た。[child.GetHerHim]に駆け寄って大丈夫か聞くと、[child.GetSheHe]は傷の手当てをして欲しいと言ってきた。"
- childhood.1003.desc3:0 "私は我が[child.Custom('GetDaughterSon')]の[child.GetTitledFirstName]に難しい課題を与えた。それは難解な一冊の本を二、三日じゅうに読み通すようにというものだ。[child.GetSheHe]が資料を提出する予定の前日の夜になって、[child.GetSheHe]は私に助けを求めてきた。"
+ childhood.1003.desc3:0 "私は我が[child.Custom('GetDaughterSon')][child.GetTitledFirstName]に難しい課題を与えた。それは難解な一冊の本を二、三日じゅうに読み通すようにというものだ。[child.GetSheHe]が資料を提出する予定の前日の夜になって、[child.GetSheHe]は私に助けを求めてきた。"
  childhood.1003.a:0 "[child.GetSheHe]が私を頼ってくれて嬉しい！"
  childhood.1004.t:0 "疲れ切った心"
  childhood.1004.desc:1 "「お前は十分に睡眠を取っているか？」\n\n私の[guardian_parent.Custom('MotherFatherPossessive')]の質問で、最近はきちんと睡眠を取れていないことを思い出した。睡眠欲よりも、全ての課題を上手くやりとげねばならぬという常にのしかかる重圧のほうが大きくなっているのだ。\n\n[guardian_parent.GetSheHe|U]は夜は早めに休んで寝床に入るように言い、私は喜んでそれを受け容れた。"

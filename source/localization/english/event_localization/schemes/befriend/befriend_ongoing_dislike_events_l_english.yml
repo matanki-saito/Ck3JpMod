@@ -44,6 +44,6 @@
  befriend_ongoing_dislike.5004.b:0 "そして[target.GetSheHe|U]は、[target.GetHerHis]の食べ物が腐るのを見る。"
  befriend_ongoing_dislike.5005.t:0 "親善: 行動の呼びかけ"
  befriend_ongoing_dislike.5005.desc:0 "私は[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]にもっと私への理解を深めてもらおうとしているが、結果的には[target.GetHerHim]の私への理解は下がる一方だ。[target.GetHerHis]の原動力、[target.GetHerHis]の野心はどこにあるだろう？[target.GetSheHe]はまるで今のままでいることを気にも留めていないようだ。"
- befriend_ongoing_dislike.5005.a:0 "I'll try to settle for this as it is for now, then."
+ befriend_ongoing_dislike.5005.a:0 "今のところ、これで我慢しておこうと思う、とりあえず。"
  befriend_ongoing_dislike.5005.b:0 "そんな人物を理解する価値があるのか？"
  befriend_ongoing_dislike.5005.c:0 "密かにどんな野望を抱いているのだろう！？"

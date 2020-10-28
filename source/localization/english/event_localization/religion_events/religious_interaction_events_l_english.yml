@@ -42,7 +42,7 @@
  religious_interaction.1010:0 "あなたが罪を償おうとすることは称賛に値します。私はあなたの寛大な寄付を受け入れ、お返しに私の祝福を送ります。"
  religious_interaction.1011:0 "あなたの悪行は、ただ金で償うにはあまりに深刻です。もし本当に罪を償いたいのならば、自分のやり方を変え、本当に赦しを求めることを私に証明しなければなりません。その時だけ、あなたの寄付を受け入れます。"
  religious_interaction.1020:0 "[actor.GetTitledFirstName]からあなたの悪行について心配な知らせを聞きました。"
- religious_interaction.1021:0 "あなたは自分を[actor.GetFaith.GetAdherentName]だと思っているかもしれませんが、あなたの行動は、あなたが本当に[actor.GetFaith.HighGodName]の道に従っていないことを証明しています。私はあなた方の邪悪なふるまいが[actor.GetFaith.GetAdjective]の義の仮面の陰に隠れることを許すわけにはいかないので、あなた方を信仰から救い出すほかないのです。あなたの魂に[actor.GetFaith.HighGodName]の慈悲がありますように。"
+ religious_interaction.1021:0 "自分を[actor.GetFaith.GetAdherentName]だと思っているかもしれませんが、あなたの行動は、本当の[actor.GetFaith.HighGodName]の道に従っていないことを証明しています。邪悪なふるまいが[actor.GetFaith.GetAdjective]の義の仮面の陰に隠れることを私は許せません、あなたを信仰から破門するほかないのです。あなたの魂に[actor.GetFaith.HighGodName]の慈悲がありますように。"
  religious_interaction.1022:0 "私はあなたが語る[secondary_recipient.GetTitledFirstNamePossessive]の悪行の話に最も不安と畏れを感じております。このようにするのは私にとって心苦しいですが、[actor.GetFaith.GetAdjective]の信仰の為に[secondary_recipient.GetSheHe]は破門されなければならないという事に同意いたします。"
  religious_interaction.1023:0 "仲間である[actor.GetFaith.GetAdherentName]を破門させようとするとはあなたは一体何を考えているのですか？[actor.GetFaith.GetAdjective]信仰は政治的利益のために使う道具ではないのです！あなたはそのような要求により自身が破門されなかったことを幸運と思うべきです。 "
  religious_interaction.1024:0 "あなたは本当に自分の罪を悔い改め、自分を贖うために、長い道のりを歩んできたようですね。あなたの[actor.GetFaith.GetAdjective]信仰に対する冒涜は確かに許し難いものでしたが、最近のあなたの行動を見ていると、もう一度機会があると信じています。\n\nこのことを鑑み、私はここにあなたに対する破門を解除し、あなたが[actor.GetFaith.GetAdjective]信仰に戻ることを歓迎します。"

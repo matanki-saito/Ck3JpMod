@@ -48,7 +48,7 @@
  feast.2502.desc:0 "醜聞だ！[activity.GetOwner.GetTitledFirstName]は、[activity.GetOwner.GetHerHis]自身の饗宴に現れなかった！\n\n[activity.GetOwner.GetSheHe]は我々全員をバカにしようとしているのか？"
  feast.2502.a:0 "これは時間の無駄だ！"
  feast.5003.t:0 "$feast_header$ 祭りの終わり"
- feast.3601.desc:1 "[host.Custom2('MyCharacterIntroduction', ROOT.Char)]が会場を後にしたので、[host.GetHerHis]の開いた饗宴はお開きとなった。\n\n謙虚な客人たちが立ち去ったあと、私は[ROOT.Char.GetFaith.HighGodNameAlternate]が[host.GetFirstName]を、[host.GetSheHe]がその大広間で我々を歓迎してくれたのと同じくらい心からの[ROOT.Char.GetFaith.PositiveAfterLife]で、[host.GetFirstName]を迎えてくれますようにと祈った。"
+ feast.3601.desc:1 "[host.Custom2('MyCharacterIntroduction', ROOT.Char)]が会場を後にしたので、[host.GetHerHis]の開いた饗宴はお開きとなった。\n\n謙虚な客人たちが去ったあと、[host.GetFirstName]が大広間で我々を歓迎してくれたときのように、[ROOT.Char.GetFaith.HighGodNameAlternate]が[ROOT.Char.GetFaith.PositiveAfterLife]に、[host.GetHerHis]をあたたかく迎えてくれるよう私は祈った。"
  feast.3601.a:0 "実に楽しい宴だった！"
  feast.3601.a.tt:1 "#F あなたは…[host.GetSheHe]が死ぬまでそう思います。#!"
  feast.5004.desc:0 "牢獄に閉じ込められているので...私の盛大な饗宴は中止されるだろう。ああ、それを準備するのに費やした時間は... 無駄だった！"
