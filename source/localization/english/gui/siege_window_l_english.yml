@@ -62,7 +62,7 @@
  SW_TT_CANT_BREACH_WEAK_DEFENDER:1 "@no_siege_weapon_icon!包囲中の[army|E]はより強力な[siege_weapons|E]がなければ城壁を破壊できません"
  SW_TT_LOOT:0 "#T 戦利品: [gold_i][Siege.GetProvince.GetRaidLoot|0]\n#![siege|E]終了時に包囲側の[realm|E]に与えられます。"
  SW_TIME_LEFT_TT:0 "#T 最大残り時間\n#![SiegeWindow.GetTimeLeft]"
- SIEGE_GO_TO_HOLDING:0 "#T 区画を開く#!"
+ SIEGE_GO_TO_HOLDING:0 "#T 所領を開く#!"
  SIEGE_CANT_ASSAULT_NO_BREACH:0 "@warning_icon!#X 突撃するには城壁を破壊する必要があります#!"
  SIEGE_ASSAULT_TT_INFO:0 "この攻撃により、$PROG|1+=$の包囲進捗が進展しますが毎日$MEN|0-$人の死傷者が出ます。"
  SW_ASSAULTING_TEXT_ATTACKER:1 "突撃!"

@@ -96,7 +96,7 @@
  vassal.2601.desc:0 "「我が[ROOT.Char.GetLadyLord]、あなたは[holder_of_claim.GetTitledFirstName]を攻撃する理由があるのに、まだ手を出していない…」私の[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('warmongering_vassal'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('warmongering_vassal'))]、[warmongering_vassal.GetTitledFirstName]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('warmongering_vassal'))]と続ける。「なぜです？我々はあまりに長い時間平和でした、この機会に乗じるべきです！」"
  vassal.2601.a:0 "君は正しい、[warmongering_vassal.GetFirstNameNoTooltip]！"
  vassal.2601.a.tt:0 "#F [warmongering_vassal.GetFirstName]は私と交わした約束を覚えているでしょう#!"
- vassal.2601.b:0 "I will not be bullied into premature action."
+ vassal.2601.b:0 "早まった行動をさせないようにする。"
  vassal.2610.desc:0 "「あなたは正しいことをなさいました、我が[ROOT.Char.GetLadyLord]。我々は我々に何ができるかを[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('recipient'))][recipient.GetTitledFirstName]に見せるでしょう！あなたは[claim_to_fight_for.GetNameNoTier]を主張するでしょう！」"
  vassal.2610.a:0 "我々はこの戦争に勝利するだろう！"
  vassal.2620.desc:0 "私の[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('warmongering_vassal'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('warmongering_vassal'))]、[warmongering_vassal.GetTitledFirstName]は[warmongering_vassal.Custom('quirk_neg_present')]。\n\n「我が[ROOT.Char.GetLadyLord]、[holder_of_claim.GetTitledFirstName]にはあなたの怒りも、軍隊も見られません。なぜ始める気もない戦争を私に約束なさったのです？」"

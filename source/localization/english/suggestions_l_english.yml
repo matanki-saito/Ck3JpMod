@@ -7,7 +7,7 @@
  suggestion_construct_building_label:0 "建築物を建築"
  suggestion_construct_building:0 "提案: [landed_title.GetNameNoTierNoTooltip]に建築物を建設しましょう"
  suggestion_construct_building_desc:1 "[landed_title.GetNameNoTooltip]に建築物を建設すると、様々な効果や恩恵を得られ、長期的な見地で大きな効果が得られます。"
- suggestion_construct_building_click:1 "#I クリックで区画を開く#!"
+ suggestion_construct_building_click:1 "#I クリックで所領を開く#!"
  suggestion_fabricate_claim_label:0 "請求権を捏造できます"
  suggestion_fabricate_claim:0 "提案: [landed_title.GetNameNoTierNoTooltip]への請求権を捏造しましょう"
  suggestion_fabricate_claim_desc:1 "隣接する[landed_title.GetName]は豊かで繁栄していますが、[casus_belli|E]なしでは征服できません。\n\nあなたの [court_chaplain|E]や [realm_priest|E] を送り込み [claim|E]を偽造することは、[war|E] を起こし称号をあなたのものにする正当な理由を与えることになります。"

@@ -111,7 +111,7 @@
  seduce_outcome.3020.desc:0 "「プリヴィー」は小さな空間であり、最近堆積した汚物の匂いがぷんぷんする。でもプライベートだ、ああ、とってもプライベート...\n\n私は服を脱ぎながら、[owner.GetTitledFirstName ]を舐め回すように見る。[owner.GetSheHe|U]も同じことをしていた。そしてキスをしていると肉欲が高まって、見た目も匂いも不快で悲惨な空間にいることを忘れさせてくれた。"
  seduce_outcome.3030.a.desc:0 "[owner.GetTitledFirstName ]が食べ物を持ってやってきた。[owner.GetSheHe|U]が手を振り、私はそっと服を脱いで横になる。[owner.GetSheHe|U]は、チーズ、果物、蜂蜜を置く、体の上に、横に。"
  seduce_outcome.3030.alcohol.desc:0 "そして、私の胸に豊かにワインのそそぐ。"
- seduce_outcome.3030.b.desc:0 "\n\nキス、タッチ...二人はすぐに快感に包まれる。[owner.GetHerHis]の体と食物の味と匂いが混ざり合い、目を閉じて笑う — 甘い生活！"
+ seduce_outcome.3030.b.desc:0 "\n\nキス、タッチ...二人はすぐに快感に包まれる。[owner.GetHerHis]の体と食物の味と匂いが混ざり合い、目を閉じて笑う——甘い生活！"
  seduce_outcome.3040.desc:0 "影が長くなり、城壁の下の暗闇に[owner.GetTitledFirstName]が近づいてきて、[target.Custom('quirk_pos_adverb')]に微笑み、ささやく「私が来た理由を知っているだろう。」\n\nはじめはためらい、やがて逸りがちに、[owner.GetHerHim]のもとへ向かう。引き寄せられて脈が速くなる。壁の陰で愛を交わす、二人の情熱の上で見張りの巡回は続いた。"
  seduce_outcome.3050.desc:0 "私たちは夜に、外の世界の目と耳から身を隠して、こっそりと会う。[owner.GetSheHe|U]は私に、「私たちは秘密に結婚しましょう。私たち二人しか知らない。因習に押しつけられた結婚よりも優れた、純粋な結婚を！」と誓った。\n\n私は同意してうなずいた。感極まって息が切れた。そして、夜の暗がりの安全な覆いの下で、私たちは秘密の誓いを成し遂げる…"
  seduce_outcome.3301.t:0 "私の部屋で"

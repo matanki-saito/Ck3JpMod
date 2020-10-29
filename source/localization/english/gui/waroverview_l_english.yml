@@ -17,7 +17,7 @@
  TICKING_WARSCORE_TOOLTIP_HEADER:0 "#T [objectives|E]の支配からの[war_score|E]:#! $WARSCORE|0%=+$"
  NO_IMPRISONMENT_WARSCORE:0 "#weak 重要な捕虜は獲得されていません#!"
  NO_BATTLES_WARSCORE:0 "#weak 戦闘はありません#!"
- NO_OCCUPATION_WARSCORE:0 "#weak 占領地なし#!"
+ NO_OCCUPATION_WARSCORE:0 "#weak 占領された所領なし#!"
  NO_TICKING_WARSCORE:0 "#weak 目標は支配されていません#!"
  BATTLE_RESULT_ENTRY:0 "$WARSCORE|0%=+$ $PROVINCE$の戦い"
  WAR_LEADER_TOOLTIP:1 "#T [war_leader|E]:#!\n[CHARACTER.GetUINameNotMe]"

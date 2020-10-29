@@ -106,7 +106,7 @@
  yearly.1023.opening:0 "[vip.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
  yearly.1023.desc:0 "自分のちっぽけな計画から逃げられるとでも思っていたのですか？私の目はあらゆるところにあるのです、[ROOT.Char.GetLadyLord|U]、[ROOT.Char.GetFirstNameNoTooltip]、これからもあなたの後をしっかりついていきますよ。\n\n私の命に誓って——あなたは私に逆らったことを後悔することになるでしょう。"
  yearly.1023.a:0 "もっとうまくいくはずだった…"
- yearly.1030.t:0 "いつも[hooked.GetHerselfHimself|U]は自分が全ての[hooked.GetWomanMan|U]"
+ yearly.1030.t:0 "[hooked.GetHerselfHimself|U]は皆、我が身を第一に"
  yearly.1030.nervous.desc:0 "部屋の扉を開けると、そこには自分の袖をそわそわした様子で触る[hooked.GetTitledFirstName]が立っていた。 こんな時間に[hooked.GetSheHe]はなんの用だろうか？\n\n「深くお詫び申し上げます。 しかし、個人的にしなければならないお話があるのです。 #emp 非常に#!興味深いものを見つけました。」"
  yearly.1030.confident.desc:0 "ドアを強引にノックする音が頭の中の眠気を一掃した。こんな時間に誰が[ROOT.Char.GetTitleAsNameNoTooltip]の熟睡の邪魔をする？\n\n深夜の来訪者は[hooked.GetTitledFirstName]に他ならない。「誰にも聞かれずに個人的な事の話をしたいのですが、#EMP とてもとても#!興味深い秘密を発見しました。」"
  yearly.1030.end.desc:0 "\n\n[hooked.GetTitledFirstNameNoTooltip]は[secret_character.GetTitledFirstNamePossessive]の秘密の存在をちらつかせた。 [hooked.GetSheHe|U]は私が[hooked.GetHerHim]に対するフックを手放せば、それを教えても良いと言っている。"

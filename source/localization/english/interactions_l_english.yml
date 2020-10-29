@@ -948,7 +948,7 @@
  feudalize_tribal_holding_interaction:0 "部族を封建化"
  feudalize_tribal_holding_interaction_desc:0 "この[holding|E]のすべての[buildings|E]を破壊し、[feudal|E]へと変えます"
  feudalize_tribal_holding_interaction_title_not_county_or_below:0 "[county|E]または[barony|E]を選択"
- feudalize_tribal_holding_interaction_notification:0 "Feudalized Tribe"
+ feudalize_tribal_holding_interaction_notification:0 "部族を封建化"
  has_all_tribal_innovations:0 "部族時代の[innovations|E]をすべて保有している"
  they_have_usable_hook_on_them:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]に対して利用可能な[hook|E]を持っています"
  they_do_not_have_usable_hook_on_them:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]に対して利用可能な[hook|E]を持っていません"

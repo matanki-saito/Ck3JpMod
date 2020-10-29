@@ -107,7 +107,7 @@
  great_holy_war.0057.generic.outsiders.desc:0 "我が軍は[target_kingdom.GetNameNoTier]のために[the_faith.GHWName]に参加する準備をしている。我々のそばに[the_faith.WarGodName]がついているので、我々は必ず勝利するだろう！"
  great_holy_war.0057.a:0 "[the_faith.WarGodName]が我らを勝利に導くことを！"
  great_holy_war.0058.title:0 "臆病者のしるし"
- great_holy_war.0058.base.desc:0 "より高潔な戦士たちがまだ[target_kingdom.GetNameNoTier]に進軍している間、私は安全な避難所を求めて軍隊を放棄した。彼らが下劣な異教徒に対して容赦なく戦争をしている間、私の名前を汚してこの[the_faith.GHWName]を追撃するという決意に疑問を呈した。"
+ great_holy_war.0058.base.desc:0 "より高潔な戦士たちがまだ[target_kingdom.GetNameNoTier]に進軍している間、私は安全な避難所を求めて軍隊を放棄した。彼らが下劣な異教徒に対して容赦なく戦争をしている間、私の名前を汚してこの[the_faith.GHWName]を続行するという決意に疑問を呈した。"
  great_holy_war.0058.a:0 "戦場を去るべきじゃなかった…"
  great_holy_war.0061.title:0 "褒賞"
  great_holy_war.0061.notification:0 "[scoped_beneficiary.GetFirstName]は先日の[scoped_beneficiary.GetFaith.GHWName]における[scoped_beneficiary.GetHerHis]の家族の貢献に対して報酬が与えられました。"

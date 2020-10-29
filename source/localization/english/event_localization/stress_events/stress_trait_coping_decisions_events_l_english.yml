@@ -48,7 +48,7 @@
  stress_trait_coping_decisions.5001.t:0 "ストレス解消: 告白"
  stress_trait_coping_decisions.5001.desc_opening:0 "「告白したいことがあるので、今日は宮廷に集まった。"
  stress_trait_coping_decisions.5001.desc_secret:0 "私…私は[secret.Custom('SecretDescriptionFirstPerson')]。」"
- stress_trait_coping_decisions.5001.desc_sin:0 "I... I do not resist my [ROOT.Char.Custom('SinfulTrait')|l] side as much as would be proper.\""
+ stress_trait_coping_decisions.5001.desc_sin:0 "私…私は自身の[ROOT.Char.Custom('SinfulTrait')|l]の部分にしかるべくあらがっていない。」"
  stress_trait_coping_decisions.5001.desc:0 "「私…私は最近 罪深い考えに悩まされている。聞いてくれ…」"
  stress_trait_coping_decisions.5001.desc_ending:0 "\n\n部屋中に広がる衝撃へのざわめきは、私の安堵感を妨げるものではない。"
  stress_trait_coping_decisions.5001.a:0 "体がとても軽くなったようだ！"

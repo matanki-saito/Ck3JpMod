@@ -101,7 +101,7 @@
  INCOME_FROM_THEOCRACY_LEASE:0 "[church_holdings|E]"
  LEVIES_FROM_THEOCRACY_LEASE:0 "[church_holdings|E]"
  OTHER_VASSALS_LABEL:0 "他の封臣"
- INCOME_FROM_LEASE:0 "貸与された区画"
+ INCOME_FROM_LEASE:0 "貸与された所領"
  TAX_FROM_VASSALS:0 "[vassal_taxes|E]"
  TAX_TO_LIEGE:0 "[liege_taxes|E]"
  MEGADUKE_TAX_PENALTY:0 "[megaduke_penalty|E]"

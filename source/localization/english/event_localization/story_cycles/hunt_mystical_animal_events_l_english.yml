@@ -29,7 +29,7 @@
  hunt_mystical_animal.1008.a:0 "書状を送れ！"
  hunt_mystical_animal.1008.b:0 "そんなに落ち込まないぞ。"
  hunt_mystical_animal.1008.c:0 "[knight.GetFirstNameNoTooltip]を送り込んでやろう。"
- hunt_mystical_animal.1009.desc:0 "「我が[ROOT.Char.GetLadyLord]よ、あなたの探しているものはただの獣なのか…正直に言って心配です」\n\n白い[ROOT.Char.Custom('LocalAnimal')]の新たな目撃情報をふるいにかけると、[court_chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が私に近づいてくる。明らかにこれほど多大な注意を必要とするものは何事も[ROOT.Char.GetFaith.DevilName]によって送られている可能性がある; まるでその存在が[ROOT.Char.GetFaith.HighGodNameAlternate]、[ROOT.Char.GetFaith.HighGodHerselfHimself]自身のサインでは無いかのようだ！"
+ hunt_mystical_animal.1009.desc:0 "「我が[ROOT.Char.GetLadyLord]よ、あなたの探しているものはただの獣なのか…正直に言って心配です」\n\n白い[ROOT.Char.Custom('LocalAnimal')]の新たな目撃情報をふるいにかけると、[court_chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が私に近づいてくる。明らかにこれほど多大な注意を必要とするものは何事も[ROOT.Char.GetFaith.DevilName]によって発せられている可能性がある; その存在は[ROOT.Char.GetFaith.HighGodHerselfHimself]自身による[ROOT.Char.GetFaith.HighGodNameAlternate]のお告げでは無いようだ！"
  hunt_mystical_animal.1009.a:0 "あの[ROOT.Char.Custom('LocalAnimal')]は[ROOT.Char.GetFaith.HighGodName]からの使者なのだな。"
  hunt_mystical_animal.1009.a.success:0 "「お前は正しいかもしれない...」"
  hunt_mystical_animal.1009.a.failure:0 "「何を言ってるんだ？！」"

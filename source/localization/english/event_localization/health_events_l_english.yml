@@ -316,7 +316,7 @@
  health.3110.t:1 "[SCOPE.Custom('EventTitleDisease')]: 暗闇へ"
  health.3110.end.desc:0 "\n\n私の精神は黒魔術によって変化し、捻じ曲げられてしまったに違いない。私は決して、こんなことに喜んで同意などしていない。記憶はたびたび私の脳裏をよぎっている…"
  health.3200.death.desc:0 "その顔は確かに[sick_character.GetTitledFirstNamePossessive]のものだとわかるのだが、それでも[sick_character.GetHerHim]とはまるで別人のように見える。[sick_character.GetSheHe|U]はもはやそこには…存在していないのだ。体の残りの部分は厚い白布にくるまれ、[physician.GetTitledFirstNamePossessive]の失敗が引き起こした恐ろしい爪痕を覆い隠している。"
- health.3200.failure.desc:0 "それが[sick_character.GetTitledFirstName]であると認識するのには時間がかかる。[sick_character.GetSheHe|U]はあざだらけで腫れ上がっており、[sick_character.GetSheHe]はほとんど人間に見えない。[sick_character.GetHerHis]の手を握っていると、[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))]は話をしようとするが、声は[sick_character.GetHerHis]の口から出てこない。"
+ health.3200.failure.desc:0 "それが[sick_character.GetTitledFirstName]であると認識するのには時間がかかる。[sick_character.GetSheHe|U]はあざだらけで腫れ上がっており、[sick_character.GetSheHe]はほとんど人間に見えない。[sick_character.GetHerHis]の手を握っていると、[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))]は話をしようとするが、声が[sick_character.GetHerHis]の唇を通って出てこない。"
  health.3200.end.desc:0 "\n\n[physician.Custom('InsultAdjective')]医者が部屋の隅に立っていて、心配そうに[physician.GetHerHis]の手を握り締めている…"
  health.3200.death.tt:0 "[sick_character.GetTitledFirstName]は治療の途中で死亡しました。"
  health.3201.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sick_character'))]、[sick_character.GetFirstNamePossessive]の目には何か狂気のようなものが宿っている。私は[sick_character.GetHerHim]に何を見たのか尋ねてみるも、[sick_character.GetHerHis]の口からは何の言葉も発せられなかった。\n\n"
