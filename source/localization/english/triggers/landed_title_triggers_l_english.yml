@@ -1,8 +1,8 @@
 ﻿l_english:
- RECENT_HISTORY_TRIGGER:1 "Was $HISTORY|V$ recently (within $DURATION$)"
- NOT_RECENT_HISTORY_TRIGGER:1 "Was #bold not#! $HISTORY|V$ recently (within $DURATION$)"
- RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was $HISTORY|V$ recently (within $DURATION$)"
- NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was #bold not#! $HISTORY|V$ recently (within $DURATION$)"
+ RECENT_HISTORY_TRIGGER:1 "最近($DURATION$以内)に$HISTORY|V$した"
+ NOT_RECENT_HISTORY_TRIGGER:1 "最近($DURATION$以内)に$HISTORY|V$して#bold いない#!"
+ RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#!は最近($DURATION$以内)に$HISTORY|V$した"
+ NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#!は最近($DURATION$以内)に$HISTORY|V$して#bold いない#!"
  IS_CONTESTED_TRIGGER:0 "[war|E]で争われている"
  NOT_IS_CONTESTED_TRIGGER:0 "[war|E]で#bold 争われていない#!"
  IS_CONTESTED_TRIGGER_THIRD:0 "#V [TITLE.GetName]#!は[war|E]で争われている"

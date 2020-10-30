@@ -189,7 +189,7 @@
  lesson_basics_buildings_desc:3 "[holdings|E]は、[holding_type|E]に応じてさまざまなレベルの[taxes|E]と[levies|E]、建設及び改修が可能な[buildings|E]を提供します。\n\n#TUT まずは#TUT_KW $building_curtain_walls_01$#!を改修することをおすすめします。#!"
  lesson_basics_start_construction_tt:1 "首都のある所領（$cn_luimneach$）をクリックし、その建築物の中から#TUT_KW $building_curtain_walls_01$#!を選択しこの建物を#TUT_KW アップグレード#!してみましょう"
  lesson_basics_buildings_complete:0 "$lesson_basics_holdings_and_buildings$"
- lesson_basics_buildings_complete_desc:1 "お見事！ [building|E]の準備には時間がかかります。 $cn_luimneach$は一日にして成らずというわけです...…#EMP $building_type_curtain_walls_01$#!建設ウィンドウは自由に閉じて構いません。\n\n#TUT 建設・アップグレードが完了し次第、その効果を受けることができます。#!"
+ lesson_basics_buildings_complete_desc:1 "お見事！ [building|E]の準備には時間がかかります。 $cn_luimneach$は一日にして成らずというわけです……#EMP $building_type_curtain_walls_01$#!建設ウィンドウは自由に閉じて構いません。\n\n#TUT 建設・アップグレードが完了し次第、その効果を受けることができます。#!"
  lesson_basics_taxes:0 "課税（$lesson_basics_holdings$）"
  lesson_basics_taxes_desc:1 "すべての[holding|E]は[holder|E]へ[taxes|E]を献上します。 所有者が[vassal|E]であれば、その税金は[liege|E]へと献上されることとなります。\n\n税金は[gold_i][gold|E]の主な[income|E]源となります！\n\n#TUT [obligations|E]はこの税金の量に影響を与えます。 [war|E]中であることは[county|E]における[control|E]レベルへ影響し、結果として税金にも影響を与えます。#!"
  lesson_basics_vassals_concept:0 "封臣（$lesson_basics_vassals$）"
