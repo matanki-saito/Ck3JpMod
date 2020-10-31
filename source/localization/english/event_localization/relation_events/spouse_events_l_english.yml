@@ -16,7 +16,7 @@
  spouse.0005.a:0 "望むか望まないかにかかわらず、我々はこの中にいる。"
  spouse.0006.t:0 "夫婦間の不和"
  spouse.0006.desc:0 "私は[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('from_spouse') )]である[from_spouse.GetFirstName]のことを理解できない。[from_spouse.GetSheHe|U]は、[from_spouse.GetSheHe]が行っていることの理由を説明しようとするが、それは私にとっては無意味だ。\n\n我々は単に違いすぎるのだろうか？"
- spouse.0006.a:0 "[from_spouse.GetSheHe|U] is not making it easy for me."
+ spouse.0006.a:0 "[from_spouse.GetSheHe|U]は私を楽にしてくれない。"
  spouse.0007.t:0 "友人の友人"
  spouse.0007.desc:1 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('friend_in_common') )][friend_in_common.GetTitledFirstName]は、私の[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )][spouse.GetFirstName]と[friend_in_common.GetHerHim]が良い友人であると伝えてきた。私の[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )]がどのように他人に接しているかを知ることで、私は[spouse.GetHerHim]をより一層尊敬するようになっている。"
  spouse.0007.a:0 "笑顔になってしまうな。"

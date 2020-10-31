@@ -121,7 +121,7 @@
  hunt.4007.b:0 "助けてくれ！ [similar_participant.GetFirstNameNoTooltip]、なんとかしろ！"
  hunt.4007.c:0 "自惚れた廷臣ほど扱いにくいものはない!"
  hunt.4008.t:1 "$hunt_header$ 不審な後継者"
- hunt.4008.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('heir_participant'))]の[heir_participant.GetTitledFirstName]の[heir_participant.GetTitledFirstName]は[ROOT.Char.Custom('LocalAnimal')]を追いかけて一行よりも先に駆けていった。私はその後ろを追いかけると、[heir_participant.GetHerHim]は平民の上に立って、貧しい[peasant.GetWomanMan]の胸から矢を引き抜いているのを見つけました。[heir_participant.GetSheHe]は私を見るやいなや、矢を[heir_participant.GetHerHis]の背中に隠した。\n\n「[heir_participant.Custom2('RelationToMeShort', ROOT.Char)]上、これは[ROOT.Char.Custom('LocalAnimal')]です！私は誓います！」\n\nすぐに残りの狩猟参加者たちが追いつき、この事件の説明を求めるだろう。"
+ hunt.4008.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('heir_participant'))]の[heir_participant.GetTitledFirstName]は[ROOT.Char.Custom('LocalAnimal')]を追いかけて一行よりも先に駆けていった。私はその後ろを追いかけると、[heir_participant.GetHerHim]は平民の上に立って、貧しい[peasant.GetWomanMan]の胸から矢を引き抜いているのを見つけた。[heir_participant.GetSheHe]は私を見るやいなや、矢を[heir_participant.GetHerHis]の背中に隠した。\n\n「[heir_participant.Custom2('RelationToMeShort', ROOT.Char)]上、これは[ROOT.Char.Custom('LocalAnimal')]です！私は誓います！」\n\nすぐに残りの狩猟参加者たちが追いつき、この事件の説明を求めるだろう。"
  hunt.4008.a:0 "[heir_participant.GetFirstNameNoTooltip]は[peasant.GetHerHim]が勇ましく戦って彼女を救った、それを見たんだ！"
  hunt.4008.a.success:0 "誰もが私を信じている"
  hunt.4008.a.failure:0 "人は嘘で騙せない"
