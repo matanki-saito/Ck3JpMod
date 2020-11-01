@@ -7,7 +7,7 @@
  partition_base_desc:2 "#weak 継承時には亡くなった[ruler|E]が所有していた全ての[titles|E]は、その[eligible_children|E]に分配され、[player_heir|E]へは常に[primary_title|E]と[realm_capital|E]、およびこれに関連する直接的な[de_jure|E]の称号が与えられます。\n\n若い子供達には主要な称号と同じ[rank|E]から始まる称号が与えられます。利用できる称号がない場合、下位[rank|E]の称号が与えられます。あなたの後継者に対して、継承する権利のない称号を先に付与することはできません。\n#!"
  high_partition_succession_law:1 "高度分割相続制"
  high_partition_succession_law_subname:0 "全ての子供が継承する"
- high_partition_succession_law_effects:2 "\n#V $high_partition_succession_law$[succession]では、[titles]のほとんどは[player_heir]へと割り当てられますー残りは子供たちに分配されます。 #!\n\n#weak $partition_base_desc$\nあなたの後継者は#emp 常に#!前統治者の称号を少なくとも半分は継承します。\n#!"
+ high_partition_succession_law_effects:2 "\n#V $high_partition_succession_law$[succession]では、[titles]のほとんどは[player_heir]へと割り当てられますー残りは子供たちに分配されます。 #!\n\n#weak $partition_base_desc$\nプレイヤーの後継者は#emp 常に#!前統治者の称号を少なくとも半分は継承します。\n#!"
  confederate_partition_succession_law:1 "分割連合相続制"
  confederate_partition_succession_law_subname:0 "全ての子供が平等に継承する"
  confederate_partition_succession_law_effects:2 "\n#V $confederate_partition_succession_law$の下では、あなたの[titles]は子供達の間で平等に分配されます。より若い[realm_heirs]のために新たな[titles]が作成される可能性があります。#!\n\n#weak $partition_base_desc$\n十分な土地があれば、より若い子供達のための称号が作られ、与えられるでしょう。\n\n#!#X 部族の支配者はこの継承タイプに固定されています。#!\n"

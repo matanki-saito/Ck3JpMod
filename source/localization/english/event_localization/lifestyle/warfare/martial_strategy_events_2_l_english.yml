@@ -8,7 +8,7 @@
  strategy_stocked_larders_modifier:0 "大量に貯蔵された食糧"
  strategy_emptied_larders_modifier:0 "ほとんど空の食糧"
  strategy_fed_peasants_larders_modifier:0 "農民のためのパン"
- strategy_human_meat_larders_modifier:0 "Larders of Thoroughly-Ordinary Meat"
+ strategy_human_meat_larders_modifier:0 "なんの変哲もない食肉の貯蔵庫"
  strategy_entirely_unrelated_disappearances_modifier:0 "完全に無関係な盗難"
  martial_strategy.4010.t:0 "[crumbling_holding.GetNameNoTierNoTooltip]の壁"
  martial_strategy.4010.desc:0 "[crumbling_holding.GetNameNoTierNoTooltip]の代表団がゆっくりと私の私室を出て行き、長い会議がようやく終わった。嘆願者たちは崩れかけた城壁を修復するための金を求めており、私は彼らを助けるために主君としての義務を発動した。私は彼らに資金を送るかどうかを考えながら、テーブルの上で指を叩いている。優れた要塞は恐ろしく高価だ。\n\nもちろん、もし壁が崩れているかどうかにかかわらず、私は常にそれらの今までの収入をもっと個人的な問題に流用することができる…"

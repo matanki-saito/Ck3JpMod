@@ -106,7 +106,7 @@
  game_concept_primary_heir:0 "第一後継者"
  game_concept_primary_heirs:0 "第一後継者"
  game_concept_primary_heir_desc:0 "$game_concept_primary_heir$は[succession|E]において[ruler|E]の[primary_title|E]を相続するであろう人物です。これは通常（常にそうであるわけではありませんが）[player_heir|E]と同じ人物になります。"
- game_concept_player_heir:0 "あなたの後継者"
+ game_concept_player_heir:0 "プレイヤーの後継者"
  game_concept_player_heir_desc:1 "$game_concept_player_heir$は、[succession|E]によってプレイヤーがプレイし続けることになる[heir|E]です。\n\n$game_concept_player_heir$は通常[primary_heir|E]と同じですが、あなたの[primary_title|E]の[succession_law|E]によってあなたの[dynasty|E]に属さない人に継承される場合、代わりに2番目(または3番目、4番目など)の上位称号の王朝の跡継ぎとしてプレイし続けることになります。\n\nこのような状況は$game_concept_player_heir$が選挙による継承法の下で投票された場合によく見られます。"
  game_concept_disinherit:0 "廃嫡"
  game_concept_disinherited:0 "廃嫡"
