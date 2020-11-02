@@ -163,7 +163,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_GREEDY:0 "貪欲な[ROOT.Char.GetWomanMan]で、[ROOT.Char.GetSheHe]は領内の農民から好意を得られそうにない。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CRUEL:0 "たちの悪い[ROOT.Char.GetWomanMan]で、多くの人は、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の廷臣が[ROOT.Char.GetHerHim]を恐れて生きていくだろうと予期している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_TRUSTING:0 "Trusting and complacent, [ROOT.Char.GetFirstNamePossessiveNoTooltip] council may have more power over [ROOT.Char.GetHerHim] than what is right."
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_HONEST:0 "Unable to tell a lie, many fear that [ROOT.Char.GetHerHis] bluntness may not be fit for the delicate intricacies of politics."
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_HONEST:0 "嘘をつくことができないため、多くの人は、[ROOT.Char.GetHerHis]の無愛想さが政治の機微に合わないのではないかと心配している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_LAZY:0 "怠惰な[ROOT.Char.GetWomanMan]で、多くの人は[ROOT.Char.GetFirstNamePossessiveNoTooltip]の統治では何も起こらないのではないかと心配している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_GENEROUS:0 "A generous [ROOT.Char.GetWomanMan], many hope that [ROOT.Char.GetHerHis] good heart will not lead [ROOT.Char.GetHerHim] to empty the realm's coffers on futile causes."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_WRATHFUL:0 "Prone to rage, [ROOT.Char.GetFirstNamePossessiveNoTooltip] enemies and vassals alike are likely to live in fear of [ROOT.Char.GetHerHim]."

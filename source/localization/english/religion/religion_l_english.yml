@@ -346,7 +346,7 @@
  holy_site_wandala_effect_name:0 "[holy_site|E]#weak ($holy_site_wandala_name$)#!から"
  holy_site_kisi_name:0 "Kisi"
  holy_site_kisi_effect_name:0 "[holy_site|E]#weak ($holy_site_kisi_name$)#!から"
- holy_site_sherbro_name:0 "Sherbro"
+ holy_site_sherbro_name:0 "シェルブロ"
  holy_site_sherbro_effect_name:0 "[holy_site|E]#weak ($holy_site_sherbro_name$)#!から"
  holy_site_kayor_name:0 "Kayor"
  holy_site_kayor_effect_name:0 "[holy_site|E]#weak ($holy_site_kayor_name$)#!から"
