@@ -179,7 +179,7 @@
  childhood.1017.a.tt:1 "時には失敗をして学ぶことがある―—これは、[study_friend.GetFirstNamePossessiveNoTooltip]とあなたの[stewardship|E]の勉強をさらに進めるだろう。"
  childhood.1017.b:0 "そのままにしておいた方がいいな。"
  childhood.1018.t:0 "興味をそそる出来事"
- childhood.1018.desc:0 "[educator.GetTitledFirstName]が私に教え込もうとしていることが一つあるとすれば、それは時には嘘も必要だということだ。\n\n我が[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('study_friend'))][study_friend.GetFirstName]と私は、[province.GetName]の[province_holder.GetTitledFirstName]が、おそらく地域を繁栄させるために[province_holder.GetHerHis]の税務報告書の数字をごまかしているという噂を小耳に挟んだとき、私は自身が[educator.GetFirstNamePossessive]のレッスンのことを考えているのに気づく。"
+ childhood.1018.desc:0 "[educator.GetTitledFirstName]が私に教え込もうとしていることが一つあるとすれば、それは時には嘘も必要だということだ。\n\n我が[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('study_friend'))][study_friend.GetFirstName]と私は、[province.GetName]の[province_holder.GetTitledFirstName]が、おそらく地域を繁栄させるために[province_holder.GetHerHis]の税務報告書の数字をごまかしているという噂を小耳に挟んだとき、私は自身が[educator.GetFirstNamePossessive]の教訓のことを考えているのに気づく。"
  childhood.1018.a:1 "この情報は[educator.GetTitleAsNameNoTooltip]に届ける必要がある！"
  childhood.1018.a.tt:2 "これは、[study_friend.GetFirstNamePossessiveNoTooltip]とあなたの[intrigue|E]の勉強をさらに進めるだろう。"
  childhood.1018.b:0 "彼らは#EMP 本当に#!その余分なお金を使うことができたのだ。"
