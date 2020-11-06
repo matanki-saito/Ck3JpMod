@@ -123,7 +123,7 @@
  pet_animal.1113.b.tt:0 "犬の物欲しそうな目を前に、ドアを閉じる。"
  pet_animal.1113.b_success:1 "[ROOT.Char.Custom('DogStoryName')]は辛抱強く待っている"
  pet_animal.1113.b_failure:1 "[ROOT.Char.Custom('DogStoryName')]は冒険に出かける"
- pet_animal.1114.desc:2 "「申し訳ございません、[ROOT.Char.GetTitledFirstNameNoTooltip]」と[councillor.GetCouncilTitle][councillor.GetTitledFirstName]が言う。「貴方に反対しなければなりま——」\n\n#EMP *グルルル*#!\n\n[ROOT.Char.Custom('DogStoryName')]が喉から唸り声をあげると[councillor.GetTitledFirstNameNoTooltip]はビクッと退き、犬と私と後ろを確認している。\n\n「よく考えてみますと、それは妙案でござます！」"
+ pet_animal.1114.desc:2 "「申し訳ございません、[ROOT.Char.GetTitledFirstNameNoTooltip]」と[councillor.GetCouncilTitle][councillor.GetTitledFirstName]が言う。「貴方に反対しなければなりま——」\n\n#EMP *グルルル*#!\n\n[ROOT.Char.Custom('DogStoryName')]が喉から唸り声をあげると[councillor.GetTitledFirstNameNoTooltip]はビクッと退き、犬と私と後ろを確認している。\n\n「よく考えてみますと、それは妙案でございます！」"
  pet_animal.1014.a_girl:0 "なんて良いお嬢ちゃんだ、[ROOT.Char.Custom('DogStoryName')]！"
  pet_animal.1014.a_boy:0 "なんて良いお坊ちゃんだ、[ROOT.Char.Custom('DogStoryName')]！"
  pet_animal.1115.desc:2 "「では次の議題に移ります。」私の[councillor.GetCouncilTitle][councillor.GetTitledFirstName]が物憂げに続けた。「これは最も重要なことで–」\n\n#EMP *わんわん*#!\n\n[ROOT.Char.Custom('DogStoryHerHis')]が叱られた後、[ROOT.Char.Custom('DogStoryName')]が楽しそうに吠えている音だけが静寂が破っていた。"

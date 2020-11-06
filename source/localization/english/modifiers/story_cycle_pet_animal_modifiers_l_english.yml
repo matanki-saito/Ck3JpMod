@@ -2,7 +2,7 @@
  cat_story_modifier:0 "飼い猫"
  cat_story_modifier_desc:0 "この人物は愛猫と一緒に過ごすことを楽しんでいる"
  dog_story_modifier:0 "飼い犬"
- dog_story_modifier_desc:0 "忠実な犬はこのキャラクターがどこにいっても従います"
+ dog_story_modifier_desc:0 "忠実な犬はこの人物がどこに行っても従う"
  dog_story_walking_modifier:0 "犬の散歩"
  dog_story_walking_modifier_desc:0 "この人物は愛犬との散歩を頻繁に楽しんでいる"
  dog_story_fur_carpet_modifier:0 "毛皮のカーペット"
