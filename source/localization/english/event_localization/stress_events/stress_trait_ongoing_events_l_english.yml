@@ -37,7 +37,7 @@
  stress_trait_ongoing.0511.b:0 "(深呼吸して)そうだな、#EMP 先輩#!。"
  stress_trait_ongoing.0511.b_flavour:0 "食べる。全部。呪われた。ケーキ。"
  stress_trait_ongoing_0516.t:0 "さまよう精——"
- stress_trait_ongoing_0516.desc:0 "「——心はなぜこの会議はとても重要です。」\n\nああん？、わかった、はいはい。[important_guest.GetTitledFirstName]との会議をしてるんだった。何か…何か。我々は何の話をして#EMP いた#!んだ？何であれ[important_guest.GetSheHe|U]は、とても深刻な顔をしているな。\n\n私は手を伸ばし、もう一つのハシシが載ったケーキを手に取り、考えながらかじり始める。[important_guest.GetFirstNameNoTooltip]は私の空虚な間に眉をひそめ、そして、私はケーキをいくらか#EMP 食べ過ぎた#!のではないかと気がついた。"
+ stress_trait_ongoing_0516.desc:0 "「——なので、それがこの会談がとても重要な理由なのです。」\n\nああん？、わかった、はいはい。[important_guest.GetTitledFirstName]と会談をしてるんだった。何か…何か。我々は何の話をして#EMP いた#!んだ？何であれ[important_guest.GetSheHe|U]は、とても深刻な顔をしているな。\n\n私は手を伸ばし、もう一つのハシシが載ったケーキを手に取り、考えながらかじり始める。[important_guest.GetFirstNameNoTooltip]は私の空虚な間に眉をひそめ、そして、私はケーキをいくらか#EMP 食べ過ぎた#!のではないかと気がついた。"
  stress_trait_ongoing.0516.a:0 "ああ、もちろんだ、そのような大切な会議で…"
  stress_trait_ongoing.0516.a.tt_success:0 "[important_guest.GetFirstNameNoTooltip]はあなたの落ち着いた安定した対応に感動する"
  stress_trait_ongoing.0516.a.tt_fail:0 "あなたの明らかな酩酊状態に腹を立てる"
