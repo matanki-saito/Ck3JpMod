@@ -1,9 +1,9 @@
 ﻿l_english:
- rivalry.0001.t:0 "手斧を埋める"
+ rivalry.0001.t:0 "和解"
  rivalry.0001.desc:2 "「[ROOT.Char.GetTitledFirstNameNoTooltip]、我々には過去に意見の相違はあったが、そろそろ水に流しても良いとは思わないか？」\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、私から[rival.GetHerHim]への合図をする。「我々の間にあるものは何でも...新しいことを始めよう！」"
  rivalry.0001.a:1 "うん、そうしよう。"
  rivalry.0001.b:0 "私の前にひれ伏すのか！？[ROOT.Char.GetFaith.HighGodName]は善だ！"
- rivalry.0002.t:0 "手斧を埋める"
+ rivalry.0002.t:0 "和解"
  rivalry.0002.desc:0 "今、時間的展望と共に、すべてが奇妙なものに思える。私が抱えていた憎しみと、私が必死で引き起こそうと望んでいた痛みは... \nすべては何のためだったのか？\n\n[rival_response.GetTitledFirstName]を敵と呼ぶことは、もはや私にとっては意味がない。"
  rivalry.0002.a:0 "過去は水に流そう。"
  rivalry.0003.t:0 "無価値な敵"
