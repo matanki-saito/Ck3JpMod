@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-import hashlib
-import json
 import os
+import pathlib
 import shutil
 import textwrap
 import time
@@ -11,7 +10,7 @@ import urllib.request
 import zipfile
 from os.path import join
 
-from boto3.session import Session
+import regex
 
 _ = join
 
@@ -61,13 +60,12 @@ def assembly_mod(mod_file_name,
     :return:
     """
 
-    # TODO パス修正する
     ext_paratranz_main_dir_path = _(".", "tmp", "paratranz_ext_main")
     mod_dir_path = _(out_dir_path, mod_file_name)
     mod_loc_root_dir_path = _(mod_dir_path, "localization")
     mod_loc_replace_dir_path = _(mod_loc_root_dir_path, "replace")
 
-    # 初期化（githubactionでは必要ない）
+    # 初期化（github-actionsでは必要ない）
     if os.path.exists(ext_paratranz_main_dir_path):
         shutil.rmtree(ext_paratranz_main_dir_path)
     if os.path.exists(mod_dir_path):
@@ -87,12 +85,17 @@ def assembly_mod(mod_file_name,
                     _(mod_loc_replace_dir_path, "clausewitz"))
 
     # jominiを移す
-    shutil.copytree(_(ext_paratranz_main_dir_path, "utf8", "jomini", "localization"),
-                    _(mod_loc_replace_dir_path, "jomini"))
+    jomini_dir = _(mod_loc_replace_dir_path, "jomini")
+    shutil.copytree(src=_(ext_paratranz_main_dir_path, "utf8", "jomini", "localization"),
+                    dst=jomini_dir)
+
+    fix_ISSUE_1(path=jomini_dir)
 
     # gameを移す
+    game_dir = _(mod_loc_root_dir_path, "english")
     shutil.copytree(src=_(ext_paratranz_main_dir_path, "utf8", "game", "localization", "english"),
-                    dst=_(mod_loc_root_dir_path, "english"))
+                    dst=game_dir)
+    # japanese_mod(path=game_dir)
 
     # 特別なファイルを移す ISSUE #1 参照
     game_replace_dir_path = _(mod_loc_replace_dir_path, "game")
@@ -156,59 +159,28 @@ def generate_dot_mod_file(mod_title_name,
     return out_file_path
 
 
-def generate_distribution_file(url,
-                               mod_file_path,
-                               out_file_path):
-    """
-    trielaで使用する配布用設定ファイルを作成する。
-    :param url:
-    :param mod_file_path:
-    :param out_file_path:
-    :return:
-    """
-
-    with open(mod_file_path, 'rb') as fr:
-        md5 = hashlib.md5(fr.read()).hexdigest()
-
-    d_new = {'file_md5': md5,
-             'url': url,
-             'file_size': os.path.getsize(mod_file_path)}
-
-    with open(out_file_path, "w", encoding="utf-8") as fw:
-        json.dump(d_new, fw, indent=2, ensure_ascii=False)
+p = regex.compile(r"([ぁ-んァ-ヶ一-龥ー。、「」？！](?![ー？！。、「」]))")
 
 
-def upload_mod_to_s3(upload_dir_path,
-                     name,
-                     bucket_name,
-                     access_key,
-                     secret_access_key,
-                     region):
-    """
-    S3にファイルをアップロードする
-    :param upload_dir_path:
-    :param name:
-    :param bucket_name:
-    :param access_key:
-    :param secret_access_key:
-    :param region:
-    :return: CDNのURL
-    """
+def japanese_mod(path):
+    for file_path in pathlib.Path(path).glob('**/*.yml'):
+        with open(file_path, 'r', encoding="utf_8_sig") as fr:
+            txt = p.sub(repl=r"\1 ", string=fr.read())
 
-    # ディレクトリをzip圧縮する
-    out_zip_path = _(".", "tmp", "out.zip")
-    tmp_zip_file_path = _(".", "tmp", "out")
-    shutil.make_archive(tmp_zip_file_path, 'zip', root_dir=upload_dir_path)
+        with open(file_path, 'w', encoding="utf_8_sig") as fw:
+            fw.write(txt)
 
-    # セッション確立
-    session = Session(aws_access_key_id=access_key,
-                      aws_secret_access_key=secret_access_key,
-                      region_name=region)
 
-    s3 = session.resource('s3')
-    s3.Bucket(bucket_name).upload_file(out_zip_path, name)
+p2 = regex.compile(r"\s(POSSESSIVE_CHECK|POSSESSIVE_SPECIAL|POSSESSIVE_GENERAL):([0-9]+)\s\"[^\"]+\"")
 
-    return "{}/{}".format("https://d3fxmsw7mhzbqi.cloudfront.net", name), out_zip_path
+
+def fix_ISSUE_1(path):
+    for file_path in pathlib.Path(path).glob('**/script_system_l_english.yml'):
+        with open(file_path, 'r', encoding="utf_8_sig") as fr:
+            txt = p2.sub(repl=r' \1:\2 ""', string=fr.read())
+
+        with open(file_path, 'w', encoding="utf_8_sig") as fw:
+            fw.write(txt)
 
 
 def update_source(mod_folder_path):
@@ -221,17 +193,20 @@ def main():
     os.makedirs(_(".", "tmp"), exist_ok=True)
     os.makedirs(_(".", "out"), exist_ok=True)
     out_dir_path = _(".", "out")
+    zip_path = _(".", "tmp", "paratranz_main.zip")
 
     # main name
     mod_file_name = "japaneselang"
 
     # 翻訳の最新版をダウンロードする project_id=1518はCKIII JPのプロジェクトID
-    p_file_main_path = download_trans_zip_from_paratranz(
-        project_id=1518,
-        secret=os.environ.get("PARATRANZ_SECRET"),
-        out_file_path=_(".", "tmp", "paratranz_main.zip"))
-
-    print("p_file_main_path:{}".format(p_file_main_path))
+    if not os.path.exists(zip_path):
+        p_file_main_path = download_trans_zip_from_paratranz(
+            project_id=1518,
+            secret=os.environ.get("PARATRANZ_SECRET"),
+            out_file_path=zip_path)
+        print("p_file_main_path:{}".format(p_file_main_path))
+    else:
+        p_file_main_path = zip_path
 
     # Modを構築する（フォルダのまま）
     mod_folder_path = assembly_mod(
@@ -239,36 +214,7 @@ def main():
         resource_paratranz_main_zip_file_path=p_file_main_path,
         resource_dir_path=_(".", "resource"),
         out_dir_path=out_dir_path)
-
     print("mod_dir_path:{}".format(out_dir_path))
-
-    # .modファイルを作成する
-    generate_dot_mod_file(
-        mod_title_name="Japanese Language Mod",
-        mod_dir_name=mod_file_name,
-        mod_tags={"Translation", "Localisation"},
-        mod_image_file_path="title.jpg",
-        mod_supported_version="1.0.*",
-        out_dir_path=out_dir_path)
-
-    print("generate .mod file")
-
-    # S3にアップロード from datetime import datetime as dt
-    from datetime import datetime as dt
-    cdn_url, mod_pack_file_path = upload_mod_to_s3(
-        upload_dir_path=out_dir_path,
-        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}.zip'.format("ck3-steam-mod")),
-        bucket_name="triela-file",
-        access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
-        secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
-        region="ap-northeast-1")
-
-    print("cdn_url:{}".format(cdn_url))
-
-    # distributionファイルを生成する
-    generate_distribution_file(url=cdn_url,
-                               out_file_path=_(".", "out", "dist.v2.json"),
-                               mod_file_path=mod_pack_file_path)
 
     # utf8ファイルを移動する（この後git pushする）
     update_source(mod_folder_path=mod_folder_path)
