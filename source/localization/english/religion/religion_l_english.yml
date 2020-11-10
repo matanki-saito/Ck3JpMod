@@ -292,7 +292,7 @@
  holy_site_kerch_effect_name:0 "[holy_site|E]#weak ($holy_site_kerch_name$)#!から"
  holy_site_kara_khorum_name:0 "カラコルム"
  holy_site_kara_khorum_effect_name:0 "[holy_site|E]#weak ($holy_site_kara_khorum_name$)#!から"
- holy_site_qayaliq_name:0 "ケヤリク"
+ holy_site_qayaliq_name:0 "カヤリク"
  holy_site_qayaliq_effect_name:2 "[holy_site|E]#weak ($holy_site_qayaliq_name$)#!から"
  holy_site_gorgol_name:0 "ゴルゴル"
  holy_site_gorgol_effect_name:0 "[holy_site|E]#weak ($holy_site_gorgol_name$)#!から"
