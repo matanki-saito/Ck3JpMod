@@ -22,5 +22,5 @@
  south_asia.0012.a.like:0 "永遠は新しい守護者を得たようだ。"
  south_asia.0012.a.dislike:0 "まるで、誰かが[ruler_of_ganges.GetHerHim]のような日和見主義者を尊重するかのように！"
  south_asia.0013.t:0 "簒奪されし聖なる意図"
- south_asia.0013.desc:0 "領土を失ったことで、ガンジス川への私の権威は、もはやわが領国の人々や[ROOT.Char.GetFaith.PriestNeuterPlural]から尊重されなくなった。かわって[ruler_of_ganges.GetTitledName]が、かつて私が聖なる川の執事として号した地位を主張している。"
+ south_asia.0013.desc:0 "領土を失ったことで、ガンジス川への私の権威は、もはやわが領国の人々や[ROOT.Char.GetFaith.PriestNeuterPlural]から尊重されなくなった。かわって[ruler_of_ganges.GetTitledName]が、かつて私が聖なる川の管理者として号した地位を主張している。"
  south_asia.0013.a:0 "あの成り上がりはただの詐欺師だ！"
