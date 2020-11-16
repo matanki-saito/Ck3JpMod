@@ -204,7 +204,7 @@
  court_ongoing.1113.desc:0 "私はどうやら[competitor.GetTitledFirstNamePossessive]の力を甘くみていたようだ——[competitor.GetHerHis]の手による私の敗北は、痛みと同じくらいの恥辱を伴うものだった。唯一の慰めは、[target.GetTitledFirstName]がそれを目撃していなかったことだ。"
  court_ongoing.1113.a:0 "このことは忘れよう…"
  court_ongoing.1113.b:0 "私は復讐を果たす！私の言葉を信じろ！"
- court_ongoing.1114.desc:0 "計画が完璧に実行された時の満足感に勝るものはない。\n\n私が[competitor.GetTitledFirstNamePossessive]のカップに毒を注いだことに誰も気づかず、その後の光景はいつまでも忘れられないだろう。[competitor.GetSheHe|U]が[target.GetFirstNamePossessive]の[target.Custom('GetClothingArticle')]の上に嘔吐して、[target.GetHerHim]が彼を窮地から救うために飛び込んだ際、[target.GetSheHe]はたいへん感謝していた。"
+ court_ongoing.1114.desc:0 "計画が完璧に実行された時の満足感に勝るものはない！\n\n私が[competitor.GetTitledFirstNamePossessive]のカップに毒を注いだことに誰も気づかず、その後の光景はいつまでも忘れられないだろう。[competitor.GetSheHe|U]が[target.GetFirstNamePossessive]の[target.Custom('GetClothingArticle')]の上に嘔吐して、[target.GetHerHim]が彼を窮地から救うために飛び込んだ際、[target.GetSheHe]はたいへん感謝していた。"
  court_ongoing.1114.a:0 "[target.GetSheHe|U]は二度と[competitor.GetHerHis]に見向きもしないだろう！"
  court_ongoing.1115.desc:0 "結局のところ、[competitor.GetTitledFirstName]は私が[competitor.GetHerHim]に与えた評価よりもはるかに明敏だった。私が[competitor.GetHerHis]のカップに毒を盛ろうとした時、[competitor.GetSheHe|U]は私を現行犯で捕らえ、躊躇せず私を裏切った。"
  court_ongoing.1115.a:0 "見た目とは違うな…"

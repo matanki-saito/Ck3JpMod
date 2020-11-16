@@ -16,7 +16,7 @@
  murder_outcome.1003.a:0 "〈存分に召し上がれ〉、[target.GetFirstNameNoTooltip]よ…"
  murder_outcome.1003.b:0 "待て、より準備に時間をかけるべきだ！"
  murder_outcome.1004.t:0 "招かれざる客"
- murder_outcome.1004.desc:0 "私の刺客の一人が[SCOPE.Custom('VenomousCreature')]を調達し、暗くなる前にそれを[target.GetTitledFirstNamePossessive]のベッドの下に隠しておくよう手配しました。\n\n私の差配一つで[target.GetSheHe]は[SCOPE.Custom('VenomousCreatureType')]に噛まれ、死んだも同然となるだろう。"
+ murder_outcome.1004.desc:0 "私の刺客の一人が[SCOPE.Custom('VenomousCreature')]を調達し、暗くなる前にそれを[target.GetTitledFirstNamePossessive]のベッドの下に隠しておくよう手配した。\n\n私の差配一つで[target.GetSheHe]は[SCOPE.Custom('VenomousCreatureType')]に噛まれ、死んだも同然となるだろう。"
  murder_outcome.1004.a:0 "[target.GetFirstNameNoTooltip]が[SCOPE.Custom('VenomousCreatureTypePlural')]を恐れないことを望む…"
  murder_outcome.1004.b:0 "やめたほうがよさそうだ。"
  murder_outcome.1005.t:1 "$knight_culture_player_plural_no_tooltip$と庶民"
