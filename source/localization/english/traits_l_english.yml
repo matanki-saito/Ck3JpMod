@@ -638,7 +638,7 @@
  trait_kinslayer_3:0 "肉親殺し"
  trait_kinslayer_3_desc:0 "このキャラクターは近親者を亡き者にしました。"
  trait_kinslayer_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は近親者を亡き者にしました。"
- trait_deviant:0 "異常性愛者"
+ trait_deviant:0 "性的倒錯者"
  trait_deviant_desc:0 "この人物は...折衷的で、常識に囚われない嗜好を持つ。"
  trait_deviant_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は...折衷的で、常識に囚われない嗜好を持つ。"
  trait_cannibal:0 "食人嗜好者"

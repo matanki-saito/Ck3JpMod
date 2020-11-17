@@ -180,5 +180,5 @@
  seduce_outcome.8102.desc:0 "「これはやり過ぎです、[target.Custom2('RelationToMe', SCOPE.sC('owner') )]よ。私はあなたの[owner.Custom2('RelationToMe', SCOPE.sC('target') )]です、[ROOT.Char.GetFaith.HighGodNamePossessive]に誓って！」\n\n[target.GetFirstName]は[target.Custom('quirk_neg_present')]、[target.GetHerHis]へのロマンチックな誘いに対し[target.GetSheHe]は軽蔑をはっきりと示す。"
  seduce_outcome.8102.a:0 "私たちには何か特別なものがあると思っていました！"
  seduce_outcome.8103.t:0 "拒絶そして暴露"
- seduce_outcome.8103.desc:0 "「あなたにはうんざりです、[owner.GetFirstNameNoTooltip]。私はあなたの[owner.Custom2('RelationToMe', SCOPE.sC('target') )]です。[ROOT.Char.GetFaith.HighGodNamePossessive]に誓って。 あなたのグロテスクな変態行為を明るみに出します、嘘ではありません！」\n\n[target.GetFirstName]は[target.Custom('quirk_neg_present')]。[target.GetSheHe]へのロマンチックな誘いに対し[target.GetHerHis]は軽蔑をはっきりと示す。"
+ seduce_outcome.8103.desc:0 "「あなたにはうんざりです、[owner.GetFirstNameNoTooltip]。私はあなたの[owner.Custom2('RelationToMe', SCOPE.sC('target') )]です。[ROOT.Char.GetFaith.HighGodNamePossessive]に誓って。 あなたの奇怪な倒錯行為を明るみに出します、嘘ではありません！」\n\n[target.GetFirstName]は[target.Custom('quirk_neg_present')]。[target.GetSheHe]へのロマンチックな誘いに対し[target.GetHerHis]は軽蔑をはっきりと示す。"
  seduce_outcome.8103.a:0 "自分の[target.Custom2('RelationToMe', SCOPE.sC('owner') )]にこんな仕打ちをするのか！"

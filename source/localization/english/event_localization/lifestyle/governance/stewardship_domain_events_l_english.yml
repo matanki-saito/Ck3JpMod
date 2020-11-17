@@ -49,7 +49,7 @@
  stewardship_domain.6001.c:0 "駄目だ、今年は戦場で多くの人手が必要になる！"
  stewardship_domain.6002.t:0 "開拓"
  stewardship_domain.6002.desc:0 "数ヶ月前、[baron.GetTitledFirstName]は入植の準備のため、[barony.GetNameNoTier]の森の土地の開拓を始めました。木を根こそぎ切り倒し、道を切り開き、地面を削っています。\n\n[baron.GetFirstName]は[steward.GetCouncilTitle][steward.GetFirstName]に手紙を出して[baron.GetHerHis]の地域への徴税の軽減を求めている。また[baron.GetSheHe]は次の収穫までに仕事を終わらせたいと考えており、代わりに徴募兵を使いたいと考えている。"
- stewardship_domain.6011.t:0 "石工組合ととの取引"
+ stewardship_domain.6011.t:0 "石工組合との取引"
  stewardship_domain.6011.desc:0 "石工組合が[county.GetName]に設立された。私の個人的な仕事において、献身的な職人を持つことは、地域の繁栄を助けるだろう。"
  stewardship_domain.6011.a:0 "石工の親方と取引をしよう。"
  stewardship_domain_6011_great_deal:0 "良い取り引き"

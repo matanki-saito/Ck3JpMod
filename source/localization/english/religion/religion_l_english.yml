@@ -422,7 +422,7 @@
  doctrine_parameter_homosexuality_illegal:0 "[GetTrait('sodomite').GetName( GetDummyMale )][trait|E]を持つ男性は[criminals|E]"
  doctrine_parameter_homosexuality_shunned:0 "[GetTrait('sodomite').GetName( GetDummyMale )][trait|E]を持つ男性は[shunned|E]される"
  doctrine_parameter_homosexuality_accepted:0 "同性間の関係は完全に許容されている"
- doctrine_deviancy_name:0 "逸脱行為"
+ doctrine_deviancy_name:0 "性的倒錯"
  doctrine_deviancy_crime_name:0 "罪"
  doctrine_deviancy_crime_desc:0 "他者を愛するのにあるべき方法がただ一つなのは明らかである。その形式からの逸脱は罪深い者であり、罰せられなければならない。"
  doctrine_deviancy_shunned_name:0 "忌避"

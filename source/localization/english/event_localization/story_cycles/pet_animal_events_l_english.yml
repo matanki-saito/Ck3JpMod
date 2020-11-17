@@ -21,7 +21,7 @@
  pet_animal.0105.desc_murder:0 "「…私が関与した殺人が重くのしかかっている、それと…」"
  pet_animal.0105.desc_lover:0 "「…私が他に抱いている愛…」"
  pet_animal.0105.desc_homosexual:0 "「…同じ性別の人々に対して感じる衝動...」"
- pet_animal.0105.desc_deviant:0 "「…私が関与した逸脱行為…」"
+ pet_animal.0105.desc_deviant:0 "「…私が犯した倒錯行為…」"
  pet_animal.0105.desc_cannibal:0 "「…人間の肉を味わったから…」"
  pet_animal.0105.desc_murder_attempt:0 "「…私が他人の人生を終わらせようとした時…」"
  pet_animal.0105.desc_non_believer:0 "「…私は[person.GetFaith.HighGodName]を信じていないので…」"

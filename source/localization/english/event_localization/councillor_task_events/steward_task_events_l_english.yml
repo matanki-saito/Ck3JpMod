@@ -29,7 +29,7 @@
  steward_task.2002.a:0 "[councillor.GetFirstNameNoTooltip]！一体何をしたんだ！？"
  steward_task.2002.notification:0 "失政下の領民"
  steward_task.2003.t:0 "支配の喪失"
- steward_task.2003.desc:0 "我が[councillor.GetCouncilTitle]が[county.GetName]の新たな領地に入植させるために多大な努力をしたにもかかわらず、事態は手に負えなくなっているようだ。これだけ多くの人の移動ががあるのに、[councillor.GetTitledFirstName]は[county.GetTitleTierName]のどの地域ですでに入植していて、どの地域で土地開墾が計画されているのかを知らないようだ。確かに、誰も知らないようだ！"
+ steward_task.2003.desc:0 "我が[councillor.GetCouncilTitle]が[county.GetName]の新たな領地に入植させるために多大な努力をしたにもかかわらず、事態は手に負えなくなっているようだ。これだけ多くの人の移動があるのに、[councillor.GetTitledFirstName]は[county.GetTitleTierName]のどの地域ですでに入植していて、どの地域で土地開墾が計画されているのかを知らないようだ。確かに、誰も知らないようだ！"
  steward_task.2003.a:0 "この状況を収拾しろ、[councillor.GetFirstNameNoTooltip]よ！"
  steward_task.2003.notification:0 "支配の喪失"
  steward_task.2101.t:0 "効率的な課税"
