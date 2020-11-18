@@ -61,7 +61,7 @@
  USURP_TITLE_CONFIRM_ACCEPT:0 "簒奪"
  CREATE_TITLE_HOLDER_HAS_LAND:2 "@warning_icon!#X [CHARACTER.GetUIName]があなたの[faith|E]を[Concept( 'faith_hostility', 'Hostile' )|E]もしくはより悪いものとみなしているため、[CHARACTER.GetSheHe]は[title|E]に属するいかなる[de_jure|E]も持つことができません#!"
  DESTROY_TITLE_VASSAL_OPINION:1 "[TITLE.GetName]の[de_jure|E]の[vassals|E]は$TIME|V$日間あなたへの評価を$OPINION_CHANGE|N$失います"
- CREATE_TITLE_TOOLTIP_PRESTIGE_GAIN:1 "作成されたとき、あなたは[prestige_i]$PRESTIGE|0V$を得ます"
+ CREATE_TITLE_TOOLTIP_PRESTIGE_GAIN:1 "作成時、あなたは[prestige_i]$PRESTIGE|0V$を得ます"
  CREATE_TITLE_COST:0 "コスト: [gold_i]$GOLD|0V$"
  CREATE_TITLE_WOULD_GO_INDEPENDENT:1 "あなたの[liege|E]の主要称号と比して、同等以上の称号です"
  USURP_TITLE_TOOLTIP_PRESTIGE_GAIN:0 "簒奪時:\nあなたは[prestige_i]$PRESTIGE|0V$を獲得する"

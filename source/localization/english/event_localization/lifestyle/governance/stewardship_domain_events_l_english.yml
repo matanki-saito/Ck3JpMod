@@ -24,7 +24,7 @@
  stewardship_domain.1052.b:0 "同情し、穀物の蓄えを開放する。"
  stewardship_domain.1052.c:0 "[ROOT.Char.Custom('DefaultPriestTitlePlural')]に命令し、慈善事業を実施する。"
  stewardship_domain.1053.t:0 "腐敗徴税人"
- stewardship_domain.1053.desc:0 "[target_county.GetNameNoTier]の徴税記録にさまざまな矛盾や脱落があるのに気づいた。明らかに単純なミスで起きる間違いではない——誰か使い込んでる！\n\n残念ながら、この謎めいた犯人の痕跡は不規則すぎるので正しくどの徴税人の責任か判断するのは難しい。"
+ stewardship_domain.1053.desc:0 "[target_county.GetNameNoTier]の徴税記録にさまざまな矛盾や脱落があるのに気づいた。明らかに単純なミスで起きる間違いではない——誰かが使い込んでいる！\n\n残念ながら、この謎めいた犯人の痕跡は不規則すぎるので正しくどの徴税人の責任か判断するのは難しい。"
  stewardship_domain.1053.a:0 "この問題、慎重に捜査せよ…"
  stewardship_domain.1053.a.success:0 "犯人どもを見つけ、法の前に引き出した"
  stewardship_domain.1053.a.failure:0 "犯人どもは逃げ続けている"
