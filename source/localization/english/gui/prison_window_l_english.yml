@@ -4,7 +4,7 @@
  CAN_NOT_RANSOM:0 "[CHARACTER.GetUIName]は身代金を支払うことはできません。"
  CAN_NOT_RELEASE:0 "[CHARACTER.GetUIName]は牢獄から解放できません。"
  CAN_NOT_EXECUTE:0 "[CHARACTER.GetUIName]は処刑できません。"
- IMPRISONED_TIME:0 "$VALUE|V$間投獄されている"
+ IMPRISONED_TIME:0 "$VALUE|V$間投獄されています"
  PRISON_EMPTY:0 "囚人はいません"
  MASS_PRISONER_ACTIONS:0 "一括実行"
  MASS_PRISONER_ACTION_RANSOM:0 "身代金要求の一括実行"
