@@ -37,7 +37,7 @@
  SUCCESSION_ELECTION_WINDOW_NOT_ELECTOR:2 "[electors|E]の一人ではないため投票できません"
  SUCCESSION_ELECTION_WINDOW_CANDIDATE:0 "候補者"
  SUCCESSION_ELECTION_WINDOW_RANK:0 "階位: [SuccessionElectionWindow.GetCandidateFromCharacter( SuccessionElectionWindowElector.GetElectorCandidate.GetCandidate ).GetElectionRank]"
- SUCCESSION_ELECTION_WINDOW_NO_PLAYER_NOMINEE:0 "#T No Player candidate#!\nYou need to nominate someone to see the difference in elector's preference"
+ SUCCESSION_ELECTION_WINDOW_NO_PLAYER_NOMINEE:0 "#T プレイヤーの候補者なし#!\n選挙人の好みの違いを見るためには誰かを指名する必要があります"
  SUCCESSION_ELECTION_WINDOW_STANCE_WIN:0 "Next in line for Succession"
  SUCCESSION_ELECTION_WINDOW_STANCE_LOSS:0 "Not next in line for Succession"
  SUCCESSION_ELECTION_WINDOW_MY_CANDIDATE_STANCE:0 "[SelectLocalization( EqualTo_int32( SuccessionElectionWindowCandidate.GetElectionRank, '(int32)1' ), 'SUCCESSION_ELECTION_WINDOW_STANCE_WIN', 'SUCCESSION_ELECTION_WINDOW_STANCE_LOSS' )]"
