@@ -52,7 +52,7 @@
  marshal_task.2002.notification_leg:0 "[commander.GetTitledFirstName]は、私の[councillor.GetCouncilTitle]の指示による訓練の最中に足を失ってしまった！"
  marshal_task.2002.notification_hand:0 "[commander.GetTitledFirstName]は、私の[councillor.GetCouncilTitle]の指示による訓練の最中に不具になってしまった！"
  marshal_task.2003.t:0 "指揮官の死"
- marshal_task.2003.ending:0 "\n\n[councillor.GetCouncilTitle]は、すぐに医者を呼んだが、[commander.GetFirstName]はすぐに出血死した。"
+ marshal_task.2003.ending:0 "\n\n[councillor.GetCouncilTitle]は、すぐに医者を呼んだが、[commander.GetFirstName]はすぐに失血死した。"
  marshal_task.2003.a:0 "軍における悲劇的な損失だ。"
  marshal_task.2101.desc:0 "私の[councillor.GetCouncilTitle]、[councillor.GetTitledFirstName]が提案を持って私のもとにやって来る。\n\n「かつて[teacher.GetTitledFirstName]がそうであったように、私は[commander.GetTitledFirstName]が[commander.Custom('CommanderTraitSkillDescription')]のための多くの潜在能力を共有していることに気づきました。私は[commander.GetFirstName]が[teacher.GetFirstName]からの熱心な指導で多くのことを学べるだろうと信じております。」"
  marshal_task.2101.a:0 "そうしよう。"

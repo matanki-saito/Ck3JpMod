@@ -63,7 +63,7 @@
  child_personality.0010.t:0 "手の内にある命"
  child_personality.0010.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guardian'))]の[guardian.GetTitledFirstName]は弓で遊ぶために森に連れてきてくれた。一人で駆けていると、ほどなくして傷ついた一匹の雌鹿に出くわした。鹿は足を引きずって私から逃げようとしている。"
  child_personality.0010.a:0 "こいつは今まで仕留めた獲物のなかで一番大きいやつだ！"
- child_personality.0010.b:0 "動きがのろいな。刃物で突いて出血死する様を見ていることもできるぞ。"
+ child_personality.0010.b:0 "動きがのろいな。刃物で突いて失血死する様を見ていることもできるぞ。"
  child_personality.0010.c:0 "これは[guardian.GetFirstNameNoTooltip]が私を試しているんじゃないか？"
  child_personality.0011.t:0 "欲しくてしかたがない物"
  child_personality.0011.desc:0 "私はずっと[ROOT.GetCharacter.Custom('child_object_of_interest_indefinite')]を待ちわびている。[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guardian'))]の[guardian.GetTitledFirstName]は、勉強をもっと懸命に頑張ったら3ヶ月のうちにそれをくれると約束したのに。"

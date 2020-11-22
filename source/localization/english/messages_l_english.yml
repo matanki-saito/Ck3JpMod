@@ -32,7 +32,7 @@
  msg_siege_won:0 "包囲戦に勝利"
  msg_siege_won_desc:1 "あなたは現在[PROVINCE.GetName]を支配しています"
  msg_siege_loot:0 "包囲戦に勝利"
- msg_siege_loot_desc:1 "[PROVINCE.GetName]は管理下に置かれた\n[PROVINCE.GetName]の占領により[gold_i]$VALUE|V0$手に入れた"
+ msg_siege_loot_desc:1 "[PROVINCE.GetName]は管理下に置かれた\n[PROVINCE.GetName]の占領により[gold_i]$VALUE|V0$を手に入れた"
  msg_scheme_abandoned:0 "計画は放棄された"
  msg_scheme_abandoned_desc:0 "[CHARACTER.GetUINameNoTooltip]に対する$SCHEME_NAME|V$は放棄されています"
  msg_agent_joined_my_scheme:1 "スパイが計画に加わった: [LEFT_CHARACTER.GetShortUINameNoTooltip]"

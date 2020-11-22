@@ -66,7 +66,7 @@
  court_ongoing.1010.a.failure:0 "[insulter.GetFirstNameNoTooltip]に敗れる"
  court_ongoing.1010.b.success:0 "[insulter.GetFirstNameNoTooltip]に謝罪させる"
  court_ongoing.1010.b.failure:0 "[insulter.GetFirstNameNoTooltip]は聞く耳を持たない"
- court_ongoing.1011.desc:0 "[insulter.GetTitledFirstName]はうぬぼれた表情でニヤリと[insulter.GetHerHis]の剣を抜く。ああ、その傲慢な表情を[insulter.GetHerHis]の顔から消してやるのが、どんなに楽しいことか！\n\n[insulter.GetHerHim]との勝負が終わったとき、[insulter.GetTitledFirstNamePossessiveNoTooltip]の屈辱は相当なものだ。アザができて赤面した[insulter.GetSheHe]は、謝罪の声を上げ、足を引きずりながら[insulter.GetHerHis]の傷をなめる。\n\n一方、[target.GetTitledFirstName]は太陽のように輝いている。「あなたは真のヒーローだ、[ROOT.Char.GetTitledFirstNameNoTooltip]！永遠に感謝している！」"
+ court_ongoing.1011.desc:0 "[insulter.GetTitledFirstName]はうぬぼれた表情でニヤリと[insulter.GetHerHis]の剣を抜く。ああ、その傲慢な表情を[insulter.GetHerHis]の顔から消してやるのが、どんなに楽しいことか！\n\n[insulter.GetHerHim]との勝負が終わったとき、[insulter.GetTitledFirstNamePossessiveNoTooltip]の屈辱は相当なものだ。アザができて赤面した[insulter.GetSheHe]は、謝罪の声を上げ、足を引きずりながら[insulter.GetHerHis]の傷をなめる。\n\n一方、[target.GetTitledFirstName]は太陽のように輝いている。「あなたは真の英雄です、[ROOT.Char.GetTitledFirstNameNoTooltip]よ！永遠に感謝します！」"
  court_ongoing.1011.a:0 "光栄です、[target.GetLadyLord][target.GetFirstNameNoTooltip]"
  court_ongoing.1021.t:1 "献身の証"
  court_ongoing.1021.desc:0 "「[target.GetLadyLord|U][target.GetFirstName]！我が[target.Custom('RomanticComplimentAdjective')][target.Custom('RomanticComplimentNoun')]！」\n\n[owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私の前にほこりまみれでひざまずき、胸に右手を当てている。「あなたに名誉と幸福をもたらすことが私の唯一の望みなのです。どうか教えてください——どうすればあなたへの愛を証明できるかを。」"

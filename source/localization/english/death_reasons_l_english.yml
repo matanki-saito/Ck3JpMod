@@ -53,7 +53,7 @@
  death_disappearance:0 "跡形もなく姿を消した"
  death_dungeon:0 "獄中で死亡した"
  death_dungeon_passive:0 "$death_dungeon$"
- death_drinking_passive:0 "[CHARACTER.GetHerselfHimself]は飲酒により死亡した"
+ death_drinking_passive:0 "飲酒により死亡した"
  death_dungeon_killer:1 "[TARGET_CHARACTER.GetUINamePossessive]の地下牢で死亡した"
  death_fight:0 "戦いの中で死亡した"
  death_battle:0 "戦いで討ち取られた"

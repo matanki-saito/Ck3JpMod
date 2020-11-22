@@ -214,7 +214,7 @@
  vassalization_cb_white_peace_desc_defender:0 "あなたは独立を維持します。"
  vassalization_cb_white_peace_desc:0 "[defender.GetShortUIName|U]は独立を維持します。"
  vassalization_cb_defeat_desc_attacker:0 "[defender.GetShortUIName|U]は独立を維持します。全[factions|E]のあなたに対する[discontent|E]が増加します。"
- CONQUEST_CB_TITLE:3 "あなたは[THIS.GetLandedTitle.GetBaseName]の一部である[defender.GetShortUINamePossessive][realm|E]内のすべての領地を押収するだろう。"
+ CONQUEST_CB_TITLE:3 "あなたは[THIS.GetLandedTitle.GetBaseName]の一部である[defender.GetShortUINamePossessive][realm|E]内のすべての領地を押収するでしょう。"
  duchy_conquest_cb:0 "公爵領の征服"
  county_conquest_cb:0 "伯爵領の征服"
  county_conquest_cb_victory_desc_attacker:1 "あなたは係争された[title|E]を獲得します。"
