@@ -1351,7 +1351,7 @@
  THEY_CAN_USE_THE_CLAIM_THRONE_INTERACTION:0 "[CHARACTER.GetShortUIName|U]は[CHARACTER.GetHerHis]の主君に対して[claim_throne|E]を使用できます"
  DOMESTIC_AFFAIRS_EFFICIENCY_BONUS:0 "[domestic_affairs|E]効率: #P +[EmptyScope.ScriptValue('chains_of_loyalty_percentage')|0]%#!"
  VASSALS_LESS_LIKELY_TO_JOIN_INDEPENDENCE_FACTIONS:0 "[vassals|E]が[independence_factions|E]に参加する可能性は低いです"
- MY_VASSALS_ARE_MUCH_LESS_LIKELY_TO_JOIN_INDEPENDENCE_FACTIONS:0 "あなたの[vassals|E]が[independence_factions|E]に参加する可能性は低いです"
+ MY_VASSALS_ARE_MUCH_LESS_LIKELY_TO_JOIN_INDEPENDENCE_FACTIONS:0 "あなたの[vassals|E]が[independence_factions|E]に参加する可能性が低くなります"
  THEIR_VASSALS_ARE_MUCH_LESS_LIKELY_TO_JOIN_INDEPENDENCE_FACTIONS:0 "[CHARACTER.GetShortUINamePossessiveNoTooltip]の[vassals|E]が[independence_factions|E]に参加する可能性は低いです"
  RELIGIOUS_RELATIONS_EFFICIENCY_GAIN:0 "[religious_relations|E]効率: #P +[EmptyScope.ScriptValue('clerical_justifications_percentage')|0]%#!"
  FACTION_DISCONTENT_TARGET_REDUCTION:1 "[vassals|E]の[faction_military_power|E]しきい値: #P +[EmptyScope.ScriptValue('hard_rule_military_power_increase')|0]#!"

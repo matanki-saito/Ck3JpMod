@@ -122,7 +122,7 @@
  court_ongoing.1040.c.failure:0 "[necklace_owner.GetFirstNamePossessiveNoTooltip]の部屋で見つかる"
  court_ongoing.1040.d:0 "[target.GetFirstNamePossessiveNoTooltip]の嗜好を褒める。"
  court_ongoing.1050.t:0 "$court_event_title$ 珍しい花"
- court_ongoing.1050.start.desc:0 "我が[target.Custom('LoverPetName')]と一緒に[target_location.GetNameNoTooltip]の庭園を歩きながら、私は周囲の緑の草木を見渡しながら言った。「ここにある全ての美しさの中で、あなたの花に匹敵するものはひとつもありません、我が[target.GetLadyLord]よ」\n\n「ひとつだけありますよ」と[target.GetSheHe]はいたずらっぽく笑う。「[orchid_origin.GetNameNoTierNoTooltip]の珍しいランで、栽培はほとんど不可能な花です。"
+ court_ongoing.1050.start.desc:0 "我が[target.Custom('LoverPetName')]と一緒に[target_location.GetNameNoTooltip]の庭園を歩きながら、私は周囲の緑の草木を見渡して言った。「ここにある全ての美しさの中で、あなたに匹敵する花はひとつもありません、我が[target.GetLadyLord]よ」\n\n「ひとつだけありますよ」と[target.GetSheHe]はいたずらっぽく笑う。「[orchid_origin.GetNameNoTierNoTooltip]の珍しいランで、栽培はほとんど不可能な花です。"
  court_ongoing.1050.monastery.desc:0 "この地域でよく咲いているのは[orchid_location.GetNameNoTooltip]の修道院跡だけです。」"
  court_ongoing.1050.temple.desc:0 "この地域でよく咲いているのは[orchid_location.GetNameNoTooltip]にある[target_host.GetFaith.HouseOfWorship]の荒れ果てた庭だけです。」"
  court_ongoing.1050.a:0 "それを売ってくれる商人がいるはずだ。"
