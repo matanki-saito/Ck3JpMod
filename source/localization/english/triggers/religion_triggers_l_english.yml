@@ -40,3 +40,4 @@
  has_forced_defender:0 "あなたは守勢側を強いられています。"
  has_pledged_attacker:0 "あなたは盟約による攻撃側です"
  has_pledged_defender:0 "あなたは盟約による防御側です"
+ they_have_pledged_as_attacker:0 "They are a pledged attacker in your faith's [GREAT_HOLY_WAR.GetName]"

@@ -8,7 +8,7 @@
  CHARACTER_LIFESTYLE_OPEN_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip]#!\n#I クリックしてオープン#!"
  CHARACTER_LIFESTYLE_OPEN_TEXT:0 "オープン"
  LIFESTYLE_POINTS_TO_USE_TEXT:0 "[perks|E]をアンロック: [Character.GetPerkPoints( Lifestyle.Self )]"
- LIFESTYLE_POINTS_ALREADY_USED_TEXT:0 "[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"
+ LIFESTYLE_POINTS_ALREADY_USED_TEXT:1 "[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]\n[perks|E]"
  PERK_TOOLTIP_BASE:0 "#T [Perk.GetNameNoTooltip( Character.Self )]#!\n[Perk.GetEffectDescription( Character.Self )]"
  CHOOSE_PERK_TOOLTIP:0 "$PERK_TOOLTIP_BASE$\n[CharacterLifestyleWindow.CanSelectPerkDesc( Perk.Self )]\n#I クリックで解除#!"
  CHOOSE_PERK_UNLOCK_TEXT:0 "#I クリックでアンロック#!"

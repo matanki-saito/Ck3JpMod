@@ -8,3 +8,7 @@
  claim_throne_preparing_for_struggle_modifier:0 "戦いの準備"
  claim_throne_preparing_for_struggle_modifier_desc:0 "この人物は、主君との必然的な戦いに備えている。"
  claim_throne_claimed_world_modifier:0 "あらゆる野菜の主君"
+ claim_throne_rule_sword_modifier:0 "Armed Support"
+ claim_throne_tricked_peasants_modifier:0 "Fooled the Peasants"
+ claim_throne_tricked_nobles_modifier:0 "Fooled the Nobles"
+ claim_throne_fooled_them_all_modifier:0 "Fooled them All"

@@ -95,7 +95,7 @@
  tooltip.5020.c.fail:0 "[helpful_councillor.GetFirstNamePossessiveNoTooltip]が[scoped_heir.GetFirstNameNoTooltip]を教育する理由が私にはわからない"
  tooltip.5020.c.fail.effect:0 "私は対策を講じる必要があるかもしれない"
  tooltip.5020.c.critfail:0 "[helpful_councillor.GetFirstNameNoTooltip]は、私が[helpful_councillor.GetHerHim]をスパイすることを決めたことに気づく"
- tooltip.5020.c.critfail.effect:0 "[helpful_councillor.GetFirstName]は侮辱され[scoped_heir.GetFirstName]への指導を中止します"
+ tooltip.5020.c.critfail.effect:0 "[helpful_councillor.GetFirstName] is insulted and stops mentoring [scoped_heir.GetFirstName]"
  yearly.5021.deceitfulcouncillor.desc:0 "私が[helpful_councillor.GetFirstNamePossessive]の意図を疑ったことは正しかった！数日間[helpful_councillor.GetHerHim]を監視してみて、[helpful_councillor.GetSheHe]は私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('scoped_heir'))]と私を戦わせることにしか興味がないことがよくわかった。"
  yearly.5021.honestcouncillor.desc:0 "私のスパイは、[helpful_councillor.GetFirstName]を厳しく精査したにもかかわらず、[helpful_councillor.GetHerHis]の意図が純粋なもの以外であると信じることができるようなものは何も見つけることができなかった。\n\n[helpful_councillor.GetSheHe|U]は本当に、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('scoped_heir'))]がより良い統治者になるのを手助けすることにしか興味がないようだ。"
  yearly.5021.a:0 "[helpful_councillor.GetHerHim]に[scoped_heir.GetFirstNameNoTooltip]を指導させても害はあるまい！"

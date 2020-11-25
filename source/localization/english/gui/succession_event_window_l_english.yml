@@ -213,7 +213,7 @@
  SUCCESSION_EVENT_WINDOW_GAME_OVER_MEDIUM_SPLENDOR:0 "そしてそれは注目に値する王朝になった"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_LOW_SPLENDOR:0 "しかし、それは取るに足らないままで、歴史に永続的な足跡を残していない"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_LOW_SPLENDOR_SHORT:0 "そして、それは取るに足らないままで、歴史に永続的な足跡を残せなかった"
- SUCCESSION_EVENT_WINDOW_GAME_OVER_MIN_SPLENDOR:0 "しかし、それはあいまいで、あまり知られておらず、すぐに忘れられてしまった"
+ SUCCESSION_EVENT_WINDOW_GAME_OVER_MIN_SPLENDOR:1 "but it has remained obscure and will soon be forgotten"
  SUCCESSION_EVENT_WINDOW_DEAD_DESC:0 "[CHARACTER.Custom('DeathMessageIntro')] [CHARACTER.Custom('DeathMessageReason')] [CHARACTER.Custom('DeathMessageOutro')]"
  SUCCESSION_EVENT_WINDOW_HEIR_DESC:0 "[CHARACTER.GetTitledFirstNameNoTooltip]、王位につけり。[CHARACTER.Custom('HeirMessageInterface')]"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_DESC:2 "[CHARACTER.Custom('GameOverMessageInterface')]。[CHARACTER.Custom('GameOverMessageInterfaceDuration')][CHARACTER.Custom('GameOverMessageInterfaceSplendor')]。"

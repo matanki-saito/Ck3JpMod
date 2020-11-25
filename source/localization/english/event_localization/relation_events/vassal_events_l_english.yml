@@ -68,7 +68,7 @@
  vassal.2301.desc_intrigue:0 "特に#EMP 慎重な#!問題においては。"
  vassal.2301.desc_learning:0 "特に学術的な問題においては。"
  vassal.2301.desc_ending:1 "\n\n「閣下、[develop_county.GetName]でやりたいいくつかの仕事があります。もちろん閣下のご加護のもとに。」"
- vassal.2301.a:1 "[skilled_vassal.GetFirstNameNoTooltip]よ、治めてみよ！"
+ vassal.2301.a:2 "Take the reins, [skilled_vassal.GetFirstNameNoTooltip]!"
  vassal.2301.b_diplomacy:0 "いや、代わりに#EMP あなた#!は私の外交の専門知識に従うだろう。"
  vassal.2301.b_martial:0 "軍事的な武勇？はっ！これらの改革は#EMP 自分#!でやる。"
  vassal.2301.b_stewardship:0 "この統治上の問題なら自分で処理できる。"

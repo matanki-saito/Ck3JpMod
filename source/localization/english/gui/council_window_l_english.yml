@@ -62,7 +62,7 @@
  COUNCIL_WINDOW_CANT_REASSIGN_HEADER:0 "新しい[councillor|E]を任命できません:"
  COUNCIL_WINDOW_CANT_REASSIGN_WARNING:0 "新しい[councillor|E]を任命できません"
  COUNCIL_WINDOW_MAP_TASK_NAME:0 "[PotentialTaskLocationWindow.GetActiveTask.GetPositionName]の任務"
- COUNCIL_WINDOW_MAP_INSTRUCTION:1 "#I マップ上の場所をクリックで任務を割り当て\n右クリックでキャンセル #!"
+ COUNCIL_WINDOW_MAP_INSTRUCTION:2 "#I マップ上の場所をクリックで任務を割り当て\n右クリックでキャンセル #!"
  COUNCIL_WINDOW_MAP_INSTRUCTION_TT:0 "#I クリックでここに任務を割り当てる#!"
  COUNCIL_WINDOW_MAP_INSTRUCTION_CANCEL_TT:0 "#I 右クリックでキャンセル#!"
  COUNCIL_WINDOW_MAP_COUNCILLOR_TYPE:0 "あなたの[PotentialTaskLocationWindow.GetActiveTask.GetPositionName]"

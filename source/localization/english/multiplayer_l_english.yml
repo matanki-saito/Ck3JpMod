@@ -5,5 +5,5 @@
  LIVING_CHARACTERS:0 "生存している人物"
  MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY:0 "Microsoft専用"
  MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY_TT:1 "#T $MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY$\n#!$JOM_BULLET_WITH_TAB$このゲームは、Microsoft Storeのプレイヤーのみが列挙され閲覧可能です。\n$JOM_BULLET_WITH_TAB$パスワードがない場合は誰でも、ある場合はパスワードを知るプレイヤーだけがゲームに参加できます。\n$JOM_BULLET_WITH_TAB$招待される場合やホストがサーバーIDを共有している場合でもプレイヤーはゲームに参加できます。\n$JOM_BULLET_WITH_TAB$Microsoftアカウントを使用しているプレイヤーのみ参加可能です。"
- MULTIPLAYER_GUI_CLICK_TO_SELECT:0 "マップをクリックしてプレイする[character|E]を選択"
+ MULTIPLAYER_GUI_CLICK_TO_SELECT:1 "Click on the map to select a [character|E] to play, or to create your own Ruler as their replacement!"
  MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID:0 "#T クリップボードからサーバーIDを貼り付け#!"

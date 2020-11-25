@@ -45,4 +45,4 @@
  BANNER_CANT_RAISE_NOT_IN_WAR:0 "@warning_icon!#X 戦争中ではありません#!"
  CREATE_RALLY_POINT:0 "集結地を作成"
  RALLY_POINT_CHOOSE_LOCATION:0 "マップ上で場所を選択"
- RALLY_POINT_MAP_INSTRUCTION:0 "#I クリックで場所を選択\n右クリックでキャンセル#!"
+ RALLY_POINT_MAP_INSTRUCTION:1 "#I クリックで場所を選択\n右クリックでキャンセル#!"

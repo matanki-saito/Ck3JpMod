@@ -42,7 +42,7 @@
  FRONTEND_LOBBY_UNAVAILABLE_LOGIN:2 "@warning_icon! #X マルチプレイヤーをプレイするにはParadoxアカウントにログインしてください#!"
  FRONTEND_LOBBY_UNAVAILABLE_USERNAME:2 "@warning_icon!#X マルチプレイヤーゲームをプレイするには、ユーザー名を設定する必要があります。これはアカウント画面で行うことができます。#!"
  FRONTEND_LOGIN_PROMPT:0 "ログインウィンドウを開く"
- FRONTEND_OBSERVER_DESC:0 "直接参加せずにゲームの展開を見ながら、観察者としてプレイします。\n\nゲーム内に入ったら、Ctrlキーを押しながら人物をクリックすることで、人物の視点でゲームを見ることができます。\n\n人物としてプレイしたい場合は、後でこのロビーに戻ることができます。"
+ FRONTEND_OBSERVER_DESC:1 "直接参加せずにゲームの展開を見ながら、観察者としてプレイします。\n\nゲーム内に入ったら、Ctrlキーを押しながら人物をクリックすることで、人物の視点でゲームを見ることができます。\n\n人物としてプレイしたい場合は、後でこのロビーに戻ることができます。"
  SAVE_WINDOW_OVERWRITE:0 "上書き"
  SAVE_WINDOW_SAVE:0 "[SelectLocalization( SaveGameWindow.IsOverwrite, 'SAVE_WINDOW_OVERWRITE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), SaveGameWindow.IsIronman ), 'START_IRONMAN_SAVE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), Not( SaveGameWindow.IsIronman ) ), 'SAVE', '' )]"
  SAVE_WINDOW_SHOW_INVALID:0 "無効なセーブデータを表示"

@@ -76,7 +76,7 @@
  hunt.4002.desc:1 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('secret_sharer'))][secret_sharer.GetTitledFirstName]と私が[ROOT.Char.Custom('LocalAnimal')]を追跡していると、時と共に皆の喧騒が次第に小さくなる。\n\nもう仕留められる距離にいる時、[secret_sharer.GetFirstNameNoTooltip]が私に囁いた。「ようやく私たちだけになりました、[secret_owner.GetTitledFirstName]についてお耳に入れたいことがございます…」"
  hunt.4002.a:0 "お喋りする時間はない、私は[ROOT.Char.Custom('LocalAnimal')]を狩る！"
  hunt.4002.b:0 "何だと？詳しく教えてくれ…"
- hunt.4002.b.tt:0 "[THIS.Char.Custom('LocalAnimal')]は逃げ去る。"
+ hunt.4002.b.tt:1 "The [ROOT.Char.Custom('LocalAnimal')] gets away."
  hunt.4002.b.reveal:0 "[secret_owner.GetFirstNamePossessiveNoTooltip]の秘密を知る"
  hunt.4003.t:1 "$hunt_header$ 違法な獲物"
  hunt.4003.desc:0 "密猟者どもが、ここ[land_owner.GetTitleTierName]の森にいるだと？護衛と共に駆けつけた時、[ROOT.Char.Custom('LocalAnimal')]の死体の背後で、彼らは不器用ように隠れながら縮こまっていた。\n\n「私たちがやったのではありません、あなた様のご慈悲を」彼らの剣と弓はその言葉と矛盾している。"
