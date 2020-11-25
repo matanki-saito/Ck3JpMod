@@ -64,3 +64,5 @@
  chancellor_task.3104.a:0 "我々は[vassal.GetFirstNamePossessiveNoTooltip]の後継者の権利を必ず守らなければならない！"
  chancellor_task.3104.b:0 "現状を維持しよう。ところで対価だが…"
  chancellor_task.3104.c:0 "これ以上領土を細分化する必要はないだろう。"
+ chancellor_task.1001.title_message:0 "Blunder Results in Claim"
+ chancellor_task.1001.message:0 "[councillor.GetTitledFirstName] officially acknowledged your claim to the [target_county.GetName]"

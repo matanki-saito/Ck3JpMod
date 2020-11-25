@@ -1,7 +1,4 @@
 ﻿l_english:
- steward_task.0301.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
- steward_task.0301.county_complete:0 "[ROOT.Char.GetCulture.GetName]人の定住とその行政府による管理により、[county.GetNameNoTier]の人々は[ROOT.Char.GetCulture.GetName]の伝統文化を完全に受け入れました。"
- steward_task.0301.a:0 "素晴らしい仕事だ、[councillor.GetFirstNameNoTooltip]！"
  steward_task.1101.t:0 "向上した税収"
  steward_task.1101.desc:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]が領土ごとの価値と、そこから支払われた税収を一覧として読み上げていたところ、突然間違っているのではないかという金額が聞こえ、思わず[councillor.GetHerHim]を止めた。\n「[county.GetName]からどれだけの金を持ってきたって？！」\n\n[councillor.GetFirstName]は微笑んだ。「これを聞いてあなたは喜ぶと思っていましたよ。[ROOT.Char.GetLadyLord]」"
  steward_task.1101.a:2 "[ROOT.Char.GetFaith.WealthGodName]に誓って、もちろん嬉しいとも！"
@@ -29,7 +26,7 @@
  steward_task.2002.a:0 "[councillor.GetFirstNameNoTooltip]！一体何をしたんだ！？"
  steward_task.2002.notification:0 "失政下の領民"
  steward_task.2003.t:0 "支配の喪失"
- steward_task.2003.desc:0 "我が[councillor.GetCouncilTitle]が[county.GetName]の新たな領地に入植させるために多大な努力をしたにもかかわらず、事態は手に負えなくなっているようだ。これだけ多くの人の移動ががあるのに、[councillor.GetTitledFirstName]は[county.GetTitleTierName]のどの地域ですでに入植していて、どの地域で土地開墾が計画されているのかを知らないようだ。確かに、誰も知らないようだ！"
+ steward_task.2003.desc:0 "我が[councillor.GetCouncilTitle]が[county.GetName]の新たな領地に入植させるために多大な努力をしたにもかかわらず、事態は手に負えなくなっているようだ。これだけ多くの人の移動があるのに、[councillor.GetTitledFirstName]は[county.GetTitleTierName]のどの地域ですでに入植していて、どの地域で土地開墾が計画されているのかを知らないようだ。確かに、誰も知らないようだ！"
  steward_task.2003.a:0 "この状況を収拾しろ、[councillor.GetFirstNameNoTooltip]よ！"
  steward_task.2003.notification:0 "支配の喪失"
  steward_task.2101.t:0 "効率的な課税"

@@ -48,7 +48,7 @@ No support
 
 ## Auto update
 
-Yes: Every 24h (UTC00:00 JST9:00)
+Yes: Every 3days (UTC00:00 JST9:00)
 
 ## Manual release
 

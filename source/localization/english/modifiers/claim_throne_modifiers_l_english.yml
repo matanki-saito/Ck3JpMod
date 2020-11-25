@@ -1,5 +1,5 @@
 ﻿l_english:
- claim_throne_increased_responsibility:0 "Increased Responsiblity"
+ claim_throne_increased_responsibility:0 "責任の増加"
  claim_throne_increased_responsibility_desc:0 "I have acquired greater responsibility for the realm, strengthening my legitimacy."
  claim_throne_bought_support_modifier:0 "Bought Support"
  claim_throne_liege_ill_omens_modifier:0 "主君: 不吉な前兆"
@@ -8,3 +8,7 @@
  claim_throne_preparing_for_struggle_modifier:0 "戦いの準備"
  claim_throne_preparing_for_struggle_modifier_desc:0 "この人物は、主君との必然的な戦いに備えている。"
  claim_throne_claimed_world_modifier:0 "あらゆる野菜の主君"
+ claim_throne_rule_sword_modifier:0 "Armed Support"
+ claim_throne_tricked_peasants_modifier:0 "Fooled the Peasants"
+ claim_throne_tricked_nobles_modifier:0 "Fooled the Nobles"
+ claim_throne_fooled_them_all_modifier:0 "Fooled them All"

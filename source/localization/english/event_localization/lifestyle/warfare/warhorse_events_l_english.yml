@@ -32,7 +32,7 @@
  warhorse.1101.a:0 "一瞬一瞬を大切にして練習しなければならない！"
  warhorse.1101.b:0 "この日は天気が良すぎるので真価を正しく発揮できないだろう！"
  warhorse.1201.t:1 "[ROOT.Char.Custom('WarhorseStoryName')|U]: 病気になった[ROOT.Char.Custom('HorseStoryMareStallion')|U]"
- warhorse.1201.desc:0 "ある日のこと、[ROOT.Char.Custom('WarhorseStoryName')]は足を引きずり、頭を元気なさげに下げて厩舎からトボトボとふらつきながら歩いて出てきた。疑いの余地はありません— [ROOT.Char.Custom('HorseStoryMareStallion')]は病気になってしまったようです。\n\n厩番長は[ROOT.Char.Custom('HorseStoryHerHim')]の病気をなおす治療法があるが、それには高額な治療費が伴うと言っていた。\n"
+ warhorse.1201.desc:0 "ある日のこと、[ROOT.Char.Custom('WarhorseStoryName')]は足を引きずり、頭を元気なさげに下げて厩舎からトボトボとふらつきながら歩いて出てきた。疑いの余地はない— [ROOT.Char.Custom('HorseStoryMareStallion')]は病気になってしまった。\n\n厩番長は[ROOT.Char.Custom('HorseStoryHerHim')]の病気をなおす治療法があるが、それには高額な治療費が伴うと言っていた。\n"
  warhorse.1201.a:0 "金など私の最愛の馬[ROOT.Char.Custom('WarhorseStoryName')]のためには、ほとんど障害ではない！"
  warhorse.1201.b:0 "何が起こっても[ROOT.Char.GetFaith.HighGodName]のご意志であろう。"
  warhorse.1201.b_good:1 "[ROOT.Char.Custom('WarhorseStoryName')]は重い病気を乗り切った"

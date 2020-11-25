@@ -181,3 +181,6 @@
  birth.9002.b.tt:1 "[child.GetHerHim]にもっとふさわしい名前を付ける"
  birth.9003.desc:0 "私は[suggester.GetTitledFirstNamePossessive]の腕から赤ん坊を優しく受け取ると、[child.GetHerHis]の完全な可愛い目をのぞきこんだ。お前はどんな大人になるのだろうね？"
  birth.9003.a:0 "ずっといい。"
+ birth.1010.t:0 "Child of My Dynasty"
+ birth.1010.desc.twin:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to two [child.Custom('TwinDaughtersSonsChildren')]!\n\nSince the little ones are part of the [ROOT.Char.GetDynasty.GetName] dynasty they should be blessed with good names."
+ birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to a [child.Custom('GetDaughterSon')]!\n\nSince the little one is part of the [ROOT.Char.GetDynasty.GetName] dynasty [child.GetSheHe] should be blessed with a good name."

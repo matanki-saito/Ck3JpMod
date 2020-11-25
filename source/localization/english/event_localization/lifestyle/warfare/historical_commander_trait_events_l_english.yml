@@ -1,7 +1,7 @@
 ﻿l_english:
  historical_commander_trait.reject.tt:1 "#F あなたは新たな発想を得るために他の場所を探すことになるだろう#!"
  historical_commander_trait.0001.t:0 "\"ローマの敵\""
- historical_commander_trait.0001.desc:0 "古代の将軍の戦術を研究していた時、私は第二次ポエニ戦争中のハンニバル・バルカの功績を知り[ROOT.Char.Custom('surprised_reaction')]。\n\n#F 「ローマの敵」として知られるハンニバルの最高傑作はカンネの戦いで、約5万人の彼の軍隊が8万6千人の強大なローマ軍を出し抜き、包囲したことだった。囲まれて退却することができず、たった3,000人のローマ人だけが大虐殺を生き延びた。#!"
+ historical_commander_trait.0001.desc:1 "While studying the tactics of ancient generals I was [ROOT.Char.Custom('surprised_reaction')] to learn about the exploits of Hannibal Barca during the Second Punic War:\n\n#F Known as 'The Enemy of Rome', Hannibal's crowning achievement was the Battle of Cannae, where his army of roughly 50,000 outmaneuvered and encircled the larger 86,000 strong Roman army. Surrounded and unable to retreat, only 3,000 Romans survived the massacre.#!"
  historical_commander_trait.0001.a:0 "ハンニバルのように、私は敵を全滅させる！"
  historical_commander_trait.0001.b:0 "ハンニバルはファビアン戦略の真の使い手だ。"
  historical_commander_trait.0001.c:0 "多才さがハンニバル最大の強みだな。"

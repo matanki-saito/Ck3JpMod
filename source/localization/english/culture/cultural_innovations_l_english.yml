@@ -179,3 +179,4 @@
  innovation_deccan_unity:0 "デカンの統一"
  innovation_deccan_unity_desc:0 "我々の社会に新たな信仰や宗教が流入してきたことで、これまで地域主義に焦点を当ててきたことが間違いであったことが明らかになりました。我々は我々の信仰を持つ他の人々と団結し、外部からの圧力に立ち向かうことができる強く永続的な国家を確保すべきである。"
  same_culture_group_reduced_factionalism:0 "あなたの[culture_group|E]に属する[vassals|E]が[independence_factions|E]に参加する可能性は低くなる"
+ students_of_knighthood:0 "Children completing their education with a [martial|E] [education_focus|E] gain a $trait_education_martial_prowess$ [trait|E]."

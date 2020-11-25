@@ -65,7 +65,6 @@
  stress_threshold.1721.desc.honest:0 "良き正直な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。しかし、あらゆる布告や法律と共に、私は怠慢の嘘と小さな誤りが私の意図を捻じ曲げているのを見ることができる。私の地位にある他の人々は、とても勤勉で率直であるのに、なぜ私はこのような欺瞞的な性質で呪われなければならないのだろう？"
  stress_threshold.1721.desc.craven:0 "良き崇高な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の地位にある他の人々のように勇敢に行動するには、私は単にあまりに臆病であり、私の臣民たちもそのことに絶えず気付いているように思える。"
  stress_threshold.1721.desc.content:0 "自分の地位に満足し、無用な野心に縛られることなく、良き崇高な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私は、私の地位にある他の人々よりも嫉妬心が強く、自尊心が高い行動をしていると感じている。"
- stress_threshold.1721.desc.cynical:0 "良き合理的な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の臣民は常に他人の哲学を崇拝しているようで、自分の考えを述べることはないように見える。"
  stress_threshold.1721.desc.paranoid:0 "良き慎重な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だがすべてを予測することはできない。常により多くの裏切り者が見つかり、より多くの陰謀者が密室に隠れている。他の宮廷ではここまでの反逆はないように思われ、私はそれを引き起こした自分を責めることしかできない。"
  stress_threshold.1721.desc.callous:0 "良き現実主義的な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の臣民は、私がすることはすべて寛大さを欠いており、絶えず些細なことで無用に騒いでいると受け止めている。私の地位にある他の人々は、自身より下位の者を制御することに問題を抱えているようには見えない。"
  stress_threshold.1721.desc.compassionate:0 "良き情け深い[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の地位にある他の人々は、私よりもずっと愛されているように見える。ただ、私は自分が思うように人とのつながりが持てないのだ。"
@@ -469,3 +468,4 @@
  an_influx_of_eager_beggars_modifier_desc:0 "ここの多くの集落の通りには、コインを欲しがる乞食たちが並んでいる。"
  deplenished_forests_and_fields_modifier:0 "空っぽの森と野原"
  deplenished_forests_and_fields_modifier_desc:0 "この領地の鹿肉と鹿が隠れる草地は君主の饗宴によって荒廃している。"
+ stress_threshold.1721.desc.cynical_no_collide:0 "rational [ROOT.GetCharacter.GetTitleAsNameNoTooltip], but my subjects always seem to adore the philosophies of others and never my own musings."

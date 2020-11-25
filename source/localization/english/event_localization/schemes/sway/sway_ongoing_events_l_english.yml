@@ -101,7 +101,7 @@
  sway_ongoing.5013.desc_expansion_success:0 "必要なのはいくつかの献身的な注意だった– 私はすぐに[target.GetTitledFirstNamePossessiveNoTooltip]の食堂を順調に仕立て上げることができた。"
  sway_ongoing.5013.desc_expansion_failure:0 "私の努力とは裏腹に[target.GetTitledFirstNamePossessiveNoTooltip]の食堂は、私が始めた時よりも状態が悪くなっているような気がする...。"
  sway_ongoing.5013.desc_library_success:0 "綴じられた本、ゆったりと取り出しやすくした文書、装飾された背表紙…整理整頓の末に、ついに[target.GetTitledFirstNamePossessiveNoTooltip]の書斎というカオスの中で、秩序のようなものが見えてきた。"
- sway_ongoing.5013.desc_library_failure:0 "綴じられた本、緩んだ文書、装飾された背表紙…どんなに頑張っても、私は[target.GetTitledFirstNamePossessiveNoTooltip]の書斎の混乱に意味を見つけることができませんでした。"
+ sway_ongoing.5013.desc_library_failure:0 "綴じられた本、緩んだ文書、装飾された背表紙…どんなに頑張っても、私は[target.GetTitledFirstNamePossessiveNoTooltip]の書斎の混乱に意味を見つけることができなかった。"
  sway_ongoing.5013.desc_gold_success:0 "金庫を無防備にしておくことのリスクを説明しているうちに、[target.GetTitledFirstNamePossessiveNoTooltip]の目は開かれていく。\n\n「あ、もちろん外に出しっぱなしはいけませんね！[ROOT.Char.GetTitledFirstNameNoTooltip]、ありがとうございます 」"
  sway_ongoing.5013.desc_gold_failure:0 "金貨の入ったチェストを隠さずに保管することの危険性を説明していると、[target.GetTitledFirstNamePossessive]は目を細めた。\n\n「#EMP なぜ#!私の金貨に注目しているのですか？」"
  sway_ongoing.5013.desc_steal_success:0 "「私の金貨は！私の金貨はどこへ行ってしまったんだ？！」\n\nあなたは悩んでいる[target.GetTitledFirstName]が廊下で立っているのを見つけた。[target.GetHerHim]の前には空っぽのチェストがあった。「ああ、[ROOT.Char.GetTitledFirstNameNoTooltip]、あなたの言うことを聞いていればよかった！」"

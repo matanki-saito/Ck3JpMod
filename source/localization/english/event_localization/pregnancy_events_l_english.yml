@@ -97,7 +97,7 @@
  pregnancy.5001.b:0 "あなたはこの子供の父親では無い。"
  pregnancy.5002.t:0 "私たちの血"
  pregnancy.5002.love:0 "「もちろんあなたの子よ、[ROOT.Char.GetFirstNameNoTooltip]！」\n\n誰かに聞かれているのではないかという心配すら忘れてしまう。喜びと混乱が体中を駆け巡る。私の祈りが通じたかのように私たちの関係は祝福されている、たとえ…問題はあろうとも。"
- pregnancy.5002.not_love:0 "[ROOT.Char.GetFirstNameNoTooltip]、もちろんあなたの子よ！」\n\n誰かに聞かれなかったかと心配になったが、静寂が私たちを包む。ありがたいことに、急に考えるべきことが増えた。"
+ pregnancy.5002.not_love:0 "「もちろんあなたの子よ、[ROOT.Char.GetFirstNameNoTooltip]！」\n\n誰かに聞かれなかったかと心配になったが、静寂が私たちを包む。ありがたいことに、急に考えるべきことが増えた。"
  pregnancy.5002.a:0 "私たち二人の…子供か…"
  pregnancy.5002.b:0 "嬉しい知らせは分かち合わないと！"
  pregnancy.5003.t:0 "間違った考え"

@@ -53,7 +53,7 @@
  death_disappearance:0 "跡形もなく姿を消した"
  death_dungeon:0 "獄中で死亡した"
  death_dungeon_passive:0 "$death_dungeon$"
- death_drinking_passive:0 "[CHARACTER.GetHerselfHimself]は飲酒により死亡した"
+ death_drinking_passive:0 "飲酒により死亡した"
  death_dungeon_killer:1 "[TARGET_CHARACTER.GetUINamePossessive]の地下牢で死亡した"
  death_fight:0 "戦いの中で死亡した"
  death_battle:0 "戦いで討ち取られた"
@@ -115,3 +115,4 @@
  death_literalist_debate_killer:0 "教典に関する解釈の議論で[CHARACTER.GetHerHim]は[TARGET_CHARACTER.GetUIName]に徹底的に打ちのめされ心臓発作に見舞われた"
  death_hunting_accident_killer:1 "狩猟中の“事故”で[TARGET_CHARACTER.GetUIName]に殺された"
  death_plotting_killer:0 "$death_plotting$"
+ death_disappearance_killer:0 "disappeared without a trace on [TARGET_CHARACTER.GetUINamePossessive] orders"

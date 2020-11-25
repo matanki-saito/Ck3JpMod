@@ -65,7 +65,7 @@
  diplomacy_foreign_special.1018.a.tt:0 "[foreign_guest.GetTitledFirstName]はまもなく到着するでしょう"
  diplomacy_foreign_special.1019.t:1 "$diplomacy_foreign_special.1017.t$: 温かい歓迎"
  diplomacy_foreign_special.1019.start.desc:0 "[foreign_guest.Custom('ComplimentAdjective')][foreign_guest.GetTitledFirstName]はようやく到着した。我々は今夜、外国の客人を迎えるための饗宴を用意している。\n\n"
- diplomacy_foreign_special.1019.spouse.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('helper_spouse') )]である[helper_spouse.GetFirstName]があらゆる計画と準備に奔走してくれた。[helper_spouse.GetSheHe|U]は私に、最後の仕上げとして何か提案はないかと尋ねられた。"
+ diplomacy_foreign_special.1019.spouse.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('helper_spouse') )] [helper_spouse.GetFirstName] has been hard at work with all the planning and preparations. [helper_spouse.GetSheHe|U] has asked me if I have any suggestions for the final touches."
  diplomacy_foreign_special.1019.no_spouse.desc:0 "私はあらゆる計画と準備のため奔走してきた。すべてはほぼ完了していて、最後の仕上げを付け加えるためのいくらかの時間がある。"
  diplomacy_foreign_special.1019.a:0 "[foreign_guest_realm.GetNameNoTierNoTooltip]の特産品はいくつか知っている。"
  diplomacy_foreign_special.1019.a.success.tt:0 "[foreign_guest.GetTitledFirstNameNoTooltip]は我が家にいるように感じる"

@@ -66,3 +66,4 @@
  yearly.0011.fickle:0 "これについて考えがまとまらない…"
  yearly.0011.vengeful:0 "ハッ！誰かが当然の報いを受けるのだろう！"
  yearly.0011.forgiving:0 "偉大なる[ROOT.GetCharacter.GetFaith.HighGodName]よ、我らの罪をお許しください！"
+ yearly.0003.a:0 "The world will know of their crimes against [ROOT.Char.GetFaith.PantheonTerm]!"

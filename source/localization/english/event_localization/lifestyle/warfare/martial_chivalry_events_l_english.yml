@@ -32,7 +32,7 @@
  martial_chivalry.0007.desc:0 "馬に乗れば少しは気分が良くなると思った。少し運動をすれば回復の助けになるだろうと。私が落馬して宙を舞っている短い時間、傷の痛みは消え去り、私はここ数週間のうちで最も良い気分を味わった。\n\n地面に叩きつけられたとき、痛みや、他の俗世の事柄を気にする必要はもうなくなっていた。"
  martial_chivalry.0007.a:0 "その先に何が待っているのか？"
  martial_chivalry.0010.t:0 "[ROOT.Char.Custom('signature_weapon')|U]の流儀"
- martial_chivalry.0010.desc:0 "果てしなく続く金属同士のぶつかり合い、鎧の擦れ、汗の刺激…それは疲れるだけでなく、なじみのある舞踏だ。私の[ROOT.Char.Custom('signature_weapon')]を[ROOT.Char.Custom('SignatureWeaponAction')]と、攻撃、回避、防御を繰り返す。\n\n他の武器で腕を磨くのもいいかもしれない。"
+ martial_chivalry.0010.desc:0 "The endless clash of metal on metal, the chafing of armor, the sting of sweat... It is a dance that is as familiar as it is exhausting. To [ROOT.Char.Custom('SignatureWeaponAction')] my [ROOT.Char.Custom('signature_weapon')], attack, dodge, defend, and repeat.\n\nMaybe it would do me good to practice my skills with another weapon."
  martial_chivalry.0010.a:0 "私と私の信頼する[ROOT.Char.Custom('signature_weapon')]は別れることはない。"
  martial_chivalry.0010.b:0 "退屈を終わらせて、別の武器を渡せ！"
  martial_chivalry.0010.b.tt1:1 "あなたはそれがどのように行われるかを彼らに示します"
