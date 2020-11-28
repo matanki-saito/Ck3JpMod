@@ -151,7 +151,7 @@
  CV_TT_BASTARD_LOWBORN:0 "[ROOT.Char.LocalPlayerString( 'あなた', 'THIRD_IS' )]は[bastard|E]です"
  FAITH_CHARACTER_WINDOW:0 "[Faith.GetAdjectiveNoTooltip]"
  CULTURE_CHARACTER_WINDOW:0 "[Culture.GetNameNoTooltip]"
- CHARACTER_TT_NAME_AGE:0 "[Character.GetUINameNotMeNoTooltip]#medium , [Character.GetAge]#!"
+ CHARACTER_TT_NAME_AGE:0 "[Character.GetUINameNotMeNoTooltip]#medium 、[Character.GetAge]#!"
  HOOK_FOR_MAX_OPINION_NONE:0 "フックがない"
  HOOK_FOR_MAX_OPINION_WEAK:0 "[hook|E]"
  HOOK_FOR_MAX_OPINION_STRONG:0 "[strong_hook|E]"

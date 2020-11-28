@@ -88,7 +88,7 @@
  war_declaration_rights_default:0 "デフォルト $war_declaration_rights$"
  war_declaration_rights_default_short:0 "デフォルト"
  war_declaration_rights_allowed:0 "許可された $war_declaration_rights$"
- war_declaration_rights_allowed_desc:1 "#emphasis #bold [vassal|E] Privileges:#!#!\nThe [vassal|E] can declare [war|E] regardless of the [liege|E]'s [crown_authority|E]\nThe [vassal|E] pays #high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#! less for [casus_bellis|E] within the [realm|E]\n\n#flavor The [vassal] does not have to spend a [hook] if their [lieges] [crown_authority] prevents them from waging war. This special treatment also makes it easier for the [vassal] to declare wars inside the [realm|E], reducing the cost by #high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#!.#!"
+ war_declaration_rights_allowed_desc:1 "#emphasis #bold [vassal|E]の特権:#!#!\n[vassal|E]は[liege|E]の[crown_authority|E]に関係なく[war|E]を宣言できます\n[vassal|E]は、[realm|E]内の[casus_bellis|E]に対して#high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#!少ない支払いで済みます\n\n#flavor [lieges]の[crown_authority]が戦争することを妨げる場合、[vassal]は[hook]を使う必要はありません。この特別な処置により、[vassal]は[realm|E]内で戦争を宣言しやすくなり、コストが#high [EmptyScope.ScriptValue('war_declaration_rights_allowed_cost_reduction_tooltip')|0]%#!削減されます。#!"
  war_declaration_rights_allowed_short:0 "許可"
  council_rights:0 "評議会強制参加権"
  council_rights_none:0 "無し $council_rights$"

@@ -70,7 +70,7 @@
  MY_REALM_WINDOW_NO_CHILDREN:2 "@warning_icon!#X 後継者として指名できる子供がいません#!"
  MY_REALM_WINDOW_BUILDING_TT:0 "#T [building|E]: [Building.GetName]\n#![Building.GetEffectDescription]\n\n[Building.GetDescription]"
  MY_REALM_WINDOW_BUILDING_CONSTRUCTION_TT:0 "#T [HoldingItem.GetConstructionBuilding.GetName]を建造中\n#![HoldingItem.GetConstructionBuilding.GetEffectDescription]\n\n[HoldingItem.GetHolding.GetConstructionTimeLeft]\n\n[HoldingItem.GetConstructionBuilding.GetDescription]"
- my_realm_window_tax_contribution_clan_government:0 "[clan_government|E] [vassals|E]' [taxes|E] depend on their opinion of [liege|E]"
+ my_realm_window_tax_contribution_clan_government:0 "[clan_government|E][vassals|E]の[taxes|E]は[liege|E]に対する評価に依存します"
  my_realm_window_tax_contribution_tribal_government:0 "[tribal_government|E] [vassals|E]' contribution of [tax|E] depends on the [prestige_level|E] of their [liege|E]"
  my_realm_window_tax_contribution_theocracy_government:0 ""
  my_realm_window_tax_contribution_feudal_government:0 ""

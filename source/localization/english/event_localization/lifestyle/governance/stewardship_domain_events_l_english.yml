@@ -12,7 +12,7 @@
  stewardship_domain.1041.c.flavor:0 "...そして承認ギルドは彼らの儲けの一部を渡しに支払うでしょう!"
  stewardship_domain.1041.d:0 "[guild_county.GetNameNoTierNoTooltip]は#EMP 私の#!ものだ！私が公益を管理するのだ"
  stewardship_domain.1042.t:0 "傲慢なギルド"
- stewardship_domain.1042.desc:0 "[guild_county.GetName]の[guild_county.Custom('Governance_1041_GuildType')]は当地での鉄の販売について規制を強化した。\n\nギルドはは今、その力を利用して商品に法外な価格をつけギルドの主人たちを豊かにしているが、伯領から交易を衰退させている"
+ stewardship_domain.1042.desc:0 "[guild_county.GetName]の[guild_county.Custom('Governance_1041_GuildType')]は当地での鉄の販売について規制を強化した。\n\nギルドは今、その力を利用して商品に法外な価格をつけギルドの主人たちを豊かにしているが、伯領から交易を衰退させている"
  stewardship_domain.1042.a:0 "値下げについて彼らと交渉する"
  stewardship_domain.1042.a.success:0 "[guild_county.Custom('Governance_1041_GuildType')]から値引きを得ることになった。"
  stewardship_domain.1042.a.failure:0 "[guild_county.Custom('Governance_1041_GuildType')]は値引きを拒んだ"

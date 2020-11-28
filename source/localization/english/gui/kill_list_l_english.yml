@@ -1,5 +1,5 @@
 ﻿l_english:
  KILL_LIST:1 "[KillListWindow.GetCharacter.GetUINamePossessive|U]の殺害数"
- OPEN_KILL_LIST_TOOLTIP:4 "#T View Kills\n#!View all Characters [Character.GetShortUINameNoTooltip] [Character.LocalPlayerString( 'have', 'has' )] killed, [Character.LocalPlayerString( 'if you want to reminisce...', 'that you know of...' )]"
+ OPEN_KILL_LIST_TOOLTIP:4 "#T 殺した人一覧を開く\n#![Character.GetShortUINameNoTooltip]が殺した全ての人物を表示します、[Character.LocalPlayerString( 'あなたが思い出に浸りたいのであれば…', 'あなたがよく知っている...' )]"
  DEATH_DATE:0 "死亡日"
  DEATH_REASON:0 "死因"

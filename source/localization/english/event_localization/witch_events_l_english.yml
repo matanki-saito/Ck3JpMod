@@ -202,7 +202,7 @@
  witch.4003.a:0 "私は休暇を取ろう、仕事は完了した。"
  witch.4003.b:0 "[annoying_clergy.GetSheHe|U]は、より大きな真理のための準備ができている。"
  witch.4003.c:0 "[annoying_clergy.GetSheHe|U]は私の弟子となるだろう！"
- witch.4004.desc:0 "Under the innocent guise of theological queries, I have sowed doubt in [annoying_clergy.GetTitledFirstNamePossessive] heart. I can tell [annoying_clergy.GetHerHis] faith is wavering from [annoying_clergy.GetHerHis] uncertain answers and the shadow of worry that falls upon [annoying_clergy.GetHerHis] face when [annoying_clergy.GetSheHe] thinks no one is watching.\n\nI am not there, not yet, but a final attempt #EMP should#! break [annoying_clergy.GetHerHim]."
+ witch.4004.desc:0 "神学的な質問という無邪気な口実で、私は[annoying_clergy.GetTitledFirstNamePossessive]の心に疑いの種をまいた。誰も見ていないと思っている時の[annoying_clergy.GetHerHis]の顔に降りかかる懸念の影と、[annoying_clergy.GetHerHis]の不確かな答えから、[annoying_clergy.GetHerHis]の信仰が揺らいでいるのが伝わってくる。\n\n私はまだそこにはいない、まだ、しかし最後の試みが[annoying_clergy.GetHerHim]を壊す#EMP だろう#!。"
  witch.4004.a:0 "苦労した甲斐があった！"
  witch.4004.b:0 "私の時間は他のことに費やした方がいい。"
  witch.4005.desc:0 "私は[annoying_clergy.GetTitledFirstNamePossessive]の寝室に不愉快な真実の本を置いてきたが、[annoying_clergy.GetHerHim]はそれを数ページ読んだだけで火の中に放り込んでしまった。挑戦は、逆に[annoying_clergy.GetHerHis]の信仰を強めてしまったに違いない——私はもはや[annoying_clergy.GetHerHis]の心の中にある不確実を見抜くことはできない。"

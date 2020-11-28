@@ -94,4 +94,4 @@
  CULTURE_COOLTIP_GETNAME:0 "[Culture.GetNameNoTooltip|T]"
  TITUS_FILTER_SAME_VERSION:0 "同じチェックサム#weak ([GetMPChecksum])#!"
  MODIFIED_CHECKSUM:0 "[Select_CString( IsGameChecksumOk, '', '#X (Modified)#!' )]"
- SORT_BY:0 "Sort by: "
+ SORT_BY:0 "並べ替え:"

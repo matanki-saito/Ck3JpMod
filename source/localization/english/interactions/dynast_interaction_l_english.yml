@@ -27,5 +27,5 @@
  dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$が[recipient.GetShortUINameNoTooltip]を要求した。他のメンバーに対する攻撃的な戦争を直ちに終了させる[dynasty|E]"
  dynast_end_dynasty_wars_interaction_notification:0 "一族の戦争が終結した"
  recipient_secondary_legitimize_bastard_interaction:0 "私生児"
- ALREADY_HAVE_CLAIM_ON_THIS_TITLE:0 "You already have a claim on this title"
- ALREADY_HAVE_CLAIMS_ON_ALL_TITLES:0 "You already have claims on all of [TARGET_CHARACTER.GetTitledFirstNamePossessive] titles"
+ ALREADY_HAVE_CLAIM_ON_THIS_TITLE:0 "この称号に対する請求権をすでに持っています"
+ ALREADY_HAVE_CLAIMS_ON_ALL_TITLES:0 "すべての[TARGET_CHARACTER.GetTitledFirstNamePossessive]の称号に対する請求権をすでに持っています"

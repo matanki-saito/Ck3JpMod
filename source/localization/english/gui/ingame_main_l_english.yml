@@ -142,7 +142,7 @@
  STRESS_LEVEL_PROGRESS:0 "[stress_i]$NEXT|V$で次のレベル"
  STRESS_LEVEL_PROGRESS_MAX:1 "#X @warning_icon!あなたのストレスレベルはすでに最大です。[stress_i]$NEXT|V$になるとあなたは精神崩壊に苦しみ[stress_loss_i][GetDefine('NCharacter', 'STRESS_PER_LEVEL')|P]を失います#!"
  OBSERVER_MODE_ON:0 "#T この人物の視点から離れる#!"
- ACTIONS_TT:2 "#T Current Situation\n#!You have [ActionItemHandler.GetNumberOfUnreadActions|V] unread messages[ActionItemHandler.GetSuggestionsDebugTooltip]\n\n[SelectLocalization( ActionItemHandler.HasAvailableActions, 'ACTIONS_TT_CLICK_TO_VIEW', '' )]"
+ ACTIONS_TT:2 "#T 現状\n#![ActionItemHandler.GetNumberOfUnreadActions|V] つの未読通知があります[ActionItemHandler.GetSuggestionsDebugTooltip]\n\n[SelectLocalization( ActionItemHandler.HasAvailableActions, 'ACTIONS_TT_CLICK_TO_VIEW', '' )]"
  ACTIONS_TT_CLICK_TO_VIEW:0 "#I クリックで表示#!"
  INGAME_TOPBAR_CULTURE_HEAD:1 "[GetPlayer.GetCulture.GetNameNoTooltip]文化の[cultural_head|E]であるため、志向を変更可能です"
  INGAME_TOPBAR_NOT_CULTURE_HEAD:1 "@warning_icon!#X あなたは[GetPlayer.GetCulture.GetNameNoTooltip]文化の[cultural_head|E]ではないため、志向を変更できません#!"

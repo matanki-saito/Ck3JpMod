@@ -86,7 +86,7 @@
  adultery.1003.a.tt:0 "#F 知ることは慰めになる。#!"
  adultery.1003.b:0 "[mother.GetHerHim]は信じられない！"
  adultery.1003.duel_success:0 "真実を明らかにする"
- adultery.1003.duel_success_tt:0 "If someone else is the father of [mother.GetFirstNamePossessiveNoTooltip] child, I will find evidence of [mother.GetHerHis] unfaithfulness"
+ adultery.1003.duel_success_tt:0 "他の誰かが[mother.GetFirstNamePossessiveNoTooltip]の子の父親である場合、私は[mother.GetHerHis]の不貞の証拠を掴みます"
  adultery.1003.duel_failure:0 "スパイが発見される"
  adultery.1004.default_reaction:0 "[mother.GetTitledFirstNamePossessive]の目には涙が溢れている。"
  adultery.1004.reaction_callous:0 "[mother.GetTitledFirstName]は私を見つめ、[mother.GetHerHis]の顔は微動だにしない。"

@@ -470,7 +470,7 @@
  seduce_ongoing.5302.b:0 "ご好意を頂き光栄です、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))]、でもいけません。"
  seduce_ongoing.5303.desc:0 "私の手が[target.GetHersHis]の手を握っても、[target.GetFirstName]はひるまなかった、何を意味するか二人とも知っていたのに。私たちの会話が続き、[target.GetHerHis]の脈が上がるのを感じる。手のひらに汗をかき、呼吸が浅くなる。\n#EMP 今のは何だ？#!ああ、ただの下僕だ。\n\nわが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]と私は互いに言い訳をして、出発する、別々に。"
  seduce_ongoing.5303.a:0 "知っているよ、あなたも同じ気持ちだった、[target.GetFirstNameNoTooltip]。"
- seduce_ongoing.5304.desc:0 "冗談ででふざけているふりをするのだが、[target.GetFirstName]は私の気持ちを正しく理解した。\n\n「[target.Custom2('RelationToMe', SCOPE.sC('owner'))]は、決して...これは絶対にあってはならない！」[target.GetSheHe|U]は私一人を火のそばに残して行く。"
+ seduce_ongoing.5304.desc:0 "冗談でふざけているふりをするのだが、[target.GetFirstName]は私の気持ちを正しく理解した。\n\n「[target.Custom2('RelationToMe', SCOPE.sC('owner'))]は、決して...これは絶対にあってはならない！」[target.GetSheHe|U]は私一人を火のそばに残して行く。"
  seduce_ongoing.5304.a:0 "わかるよ、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]、だけど、まだ…"
  seduce_ongoing.5305.desc:0 "それはあまりにも突然のことなのに、私は驚かない。ある瞬間、私たちは火のそばに座り、次の瞬間、わが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))]が体を寄せてきます。そして、[owner.GetHerHis]の唇が私に押し付けられ、手が私の首、肩、太もも、股間を愛撫します。\n\n近づいてくる使用人の物音に私たちは慌てて離れ、私の思いはすぐに欲望に追いついた。"
  seduce_ongoing.5305.a:0 "やっとうまくいったような気がする。"

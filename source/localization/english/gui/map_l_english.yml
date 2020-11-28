@@ -67,7 +67,7 @@
  PROVINCE_TOOLTIP_MOVE_RALLY_POINT_HERE:0 "#I クリックでここに[rally_point|E]を移動#!"
  PROVINCE_TOOLTIP_MOVE_RALLY_POINT_HERE_RIGHT_CLICK:0 "#I 右クリックでここに[rally_point|E]を移動#!"
  PROVINCE_TOOLTIP_MOVE_RALLY_POINT_CANCEL:0 "#I 右クリックでキャンセル#!"
- DE_JURE_DRIFT_TARGET_DESCRIPTION:1 "#high De Jure Drift:#! [TITLE.GetNameNoTooltip] will become part of [TARGET_TITLE.GetNameNoTooltip] in approximately $DURATION$"
+ DE_JURE_DRIFT_TARGET_DESCRIPTION:1 "#high 慣習的領土の変遷:#! [TITLE.GetNameNoTooltip]は約$DURATION$で[TARGET_TITLE.GetNameNoTooltip]の一部となる"
  DE_JURE_DRIFT_PROGRESS_DESCRIPTION:0 "[TITLE.GetNameNoTooltip]は$DURATION$、[TARGET_TITLE.GetNameNoTooltip]に向けた慣習的領土の変遷中です"
  MAP_COUNTY_HOLDER_MAIN_TEXT:0 "\n最上位の領地: [TITLE.GetDeFactoTopLiege.GetNameNoTooltip|V]\n領主: [CHARACTER.GetUINameNoTooltip|UV]"
  MAP_COUNTY_HOLDER_RIGHT_CLICK:1 "#I 右クリックして伯爵領の保持者を選択する #!"

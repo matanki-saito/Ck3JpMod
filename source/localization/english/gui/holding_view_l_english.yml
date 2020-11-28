@@ -158,5 +158,5 @@
  VASSAL_POSSESSIVE:0 "封臣"
  HOLDING_VIEW_BUILDING_IN_VASSAL:0 "あなたの封臣の[holding|E]を建設します"
  CULTURE_COUNTY_WINDOW:0 "[Culture.GetNameNoTooltip]"
- BUILDING_NOT_THE_DIRECT_BARONY_HOLDER:0 "@warning_icon!#X Only the [holder|E] of this [holding|E] is able to cancel or replace [buildings|E]#!"
+ BUILDING_NOT_THE_DIRECT_BARONY_HOLDER:0 "@warning_icon!#X この[holding|E]の[holder|E]のみが[buildings|E]をキャンセルまたは置き換えできます#!"
  HOLDING_VIEW_ALREADY_CONSTRUCTING_HOLDING:0 "@warning_icon!#X You are already constructing a $HOLDING|V$ in this [county|E]#!"

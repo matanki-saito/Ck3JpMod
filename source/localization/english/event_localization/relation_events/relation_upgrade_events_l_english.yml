@@ -27,7 +27,7 @@
  relation_upgrade.0011.desc.rival:0 "私が大会組織のまずさについて嘆いていると、[source.Custom2('MyCharacterIntroduction', ROOT.Char)]がいきなり近づいてきて、私を馬の水桶に押し込み、周りの皆はつられて爆笑している！"
  relation_upgrade.0011.desc.friend:0 "テントの下で何かが起こるのを待っていると、[source.Custom2('MyCharacterIntroduction', ROOT.Char)]が私のテーブルにやって来て座る。「何かの大会か？ああ？ともかく、最近はどうだ？」"
  relation_upgrade.0011.desc.lover:0 "私が出場者が現れるのを待っていると、[source.Custom2('MyCharacterIntroduction', ROOT.Char)]が近寄ってきて、[source.GetHerHim]に自分たちの「[ROOT.Char.Custom('MartialTournamentAdjective')]」に私が参加しないか尋ねてくる。"
- relation_upgrade.0011.rival.accept:1 "How #EMP dare#! [source.GetSheHe]!?"
+ relation_upgrade.0011.rival.accept:1 "よくも#EMP そんなこと#!ができたものだな！？"
  relation_upgrade.0011.rival.accept.toast:0 "[rival.GetFirstNameNoTooltip]は腹を立てる"
  relation_upgrade.0011.rival.decline:0 "まあまあ面白かったよ..."
  relation_upgrade.0011.rival.decline.toast:0 "[rival.GetFirstNameNoTooltip]はそれを笑い飛ばす"

@@ -300,5 +300,5 @@
  lesson_war_final_notes_invalidated_step_1:0 "戦争の無効化"
  lesson_war_final_notes_invalidated_step_1_desc:0 "まだここにいらっしゃったんですか！素晴らしい！戦争が無効になったのは不思議ですね。$lesson_war_final_notes_reuse$"
  lesson_guided_final_notes_mission_step_1:0 "今度はどうすればいいの？"
- lesson_guided_final_notes_mission_step_1_desc:3 "There are many things you could do now that you have dipped your toes in some of the essential systems — Crusader Kings III is about setting your own goals.\n\nIf you want a suggestion, we recommend you try to become the King or Queen of all $k_ireland$! [war|E] is not the only way, either...\n\nOr you can click the #bold Current Situation#! button up top and see if any of the items under Suggestions or Current Situation strikes your fancy!"
+ lesson_guided_final_notes_mission_step_1_desc:3 "重要事項をよく知った今、できることがさまざまあるでしょう。 — Crusader Kingsは自分でゴールを設定するゲームです。\n\n仮に提案してほしいと言うのでしたら、$k_ireland$全土を統べる王ないし女王になることを目指してはいかがでしょうか！[war|E]が唯一の方法ではありません…\n\nあるいは、上部にある#bold 現状#!アイコンをクリックして、提案されている事項や、現在の状況の気になる点を確認してもよいでしょう！"
  lesson_open_war_overview_tt:0 "戦争画面を開く （ハイライトされています）"
