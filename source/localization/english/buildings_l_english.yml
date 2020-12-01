@@ -173,7 +173,7 @@
  building_type_cereal_fields_01:1 "農場と畑"
  building_type_cereal_fields_01_desc:1 "農場と畑はあらゆる経済のバックボーンである。人、獣、軍隊、宴会に食料を供給するーただの穀物だからといってその力を過小評価することはない。"
  building_cereal_fields_01:1 "農地"
- building_cereal_fields_01_desc:1 "作物畑は封建経済の支柱です。各畑の受け持ちは小規模な農民の家族行っていますが、彼らは寛大にも僅かな生産物の大部分をほぼ自発的に君主へ引き渡してくれます！"
+ building_cereal_fields_01_desc:1 "作物畑は封建経済の支柱です。各畑の受け持ちは小規模な農民の家族が行っていますが、彼らは寛大にも僅かな生産物の大部分をほぼ自発的に君主へ引き渡してくれます！"
  building_cereal_fields_02:1 "村落"
  building_cereal_fields_02_desc:1 "より多くの村落の建設は、より多くの農民が畑で働くことができることを意味する。そして我々全員がよく知っているとおり、農民が増えるほど税金も増えることになる！"
  building_cereal_fields_03:1 "納屋と倉庫"

@@ -1517,7 +1517,7 @@
  game_concept_gift:0 "贈り物"
  game_concept_gift_desc:0 "他の人物に贈り物を送ることは、[gold|E][gold_i]と引き換えにその人物の自分に対する[opinion|E]を上昇させることを意味します。\n\n強欲な受領者に対してはより多くの金を贈る必要がありますが、その分より高い評価を獲得できます。\n\nあなたの[diplomacy|E]が高いほど、獲得される評価が増加します。"
  game_concept_vote_strength:0 "票数"
- game_concept_tribal_holdings:0 "Tribal Holdings"
+ game_concept_tribal_holdings:0 "部族所領"
  game_concept_tribes:0 "Tribes"
  PROWESS_MUSCLE_INFO:0 "Increasing prowess will increase a Character's muscle mass."
  PROWESS_MUSCLE_INFO_PERSONAL:0 "[prowess|E]を上げると人物の筋肉量が増加します"

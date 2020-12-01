@@ -12,7 +12,7 @@
  abduct_outcome.1002.desc:1 "完全な機会が勝手にやってきた！[target.GetTitledFirstName]が[target.Custom('ResidenceBuilding')]から近くの街まで護衛なしで旅行するようだ。\n\n安全を確信しているのか…"
  abduct_outcome.1002.a:0 "完全な襲撃機会だ！"
  abduct_outcome.1003.t:0 "$abduct_event_title$歓迎されない客"
- abduct_outcome.1003.desc:0 "わが諜報員は[court_location.GetNameNoTierNoTooltip]の宮廷に出入り自由な状況だった、[target.GetTitledFirstName]は、すぐ手が届く範囲にいる！\n\n夜中に侵入する一団、安全な脱出を援護する一団、諜報員たちは別れて配置についた。麻袋から悲鳴がもれないあいだに済めば申し分ない。"
+ abduct_outcome.1003.desc:0 "わが諜報員は[court_location.GetNameNoTierNoTooltip]の宮廷に出入り自由な状況だった、[target.GetTitledFirstName]には、手を伸ばせばすぐだ！\n\n夜中に侵入する一団、安全な脱出を援護する一団、諜報員たちは別れて配置についた。生きよく暴れる麻袋から悲鳴がもれないあいだに済めば申し分ない。"
  abduct_outcome.1003.a:0 "この計画気に入った！"
  abduct_outcome.2001.desc:0 "成功！悪党たちは見事にやってのけた。[target.GetTitledFirstName]は無事、わが手中にあり。"
  abduct_outcome.2001.a:0 "[target.GetHerHis]の新しいお部屋、気に入ってもらえるかな…"

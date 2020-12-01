@@ -45,7 +45,7 @@
  holy_order.1001.intro:1 "私たち[holy_order.GetName]は組織が大きくなるにつれ、[ROOT.Char.GetFaith.GetAdjective]信仰の防衛を強化するために、より多くの土地を必要としています。"
  holy_order.1001.end:0 "\n\n[target_barony.GetName]は私たちの目的に完全に適しているため、私たちの大義のために貸し出していただきたいと思っています。"
  holy_order.1001.a:0 "承知した。[ROOT.Char.GetFaith.HighGodName]のために！"
- holy_order.1001.b:0 "[alternative_barony.GetNameNoTierNoTooltip]はあなたにも仕えてくれないのか？"
+ holy_order.1001.b:0 "[alternative_barony.GetNameNoTierNoTooltip]もあなたに仕えるべきかな？"
  holy_order.1001.c:1 "いや、この土地は与えられない。"
  holy_order.2001.t:0 "神の意図"
  holy_order.2001.desc:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))]である[child.GetFirstName]が私のところに来ると、私は[child.GetSheHe]が何かとても深刻な話を持って来たことがすぐにわかった。\n\n「[ROOT.Char.Custom('MotherFather')|U]よ、ここでの私の人生は永遠に他人の影に導かれるでしょう。代わりに私を[holy_order.GetName]に加え、[child.GetFaith.HighGodName]に奉仕させてください。しっかりと考えた上で、それが私が望むことです。」"

@@ -99,5 +99,5 @@
  murders_at_court.9999.desc:1 "しかし、私は[murderer.GetTitledFirstName]が死んだ途端に殺人が止まったことに気づかずにはいられない…"
  murders_at_court.9999.a:0 "[murderer.GetSheHe]がいなくなった今、私は確実なことを知ることはできないが…"
  murders_at_court.9989.desc:0 "しかし、私は[murderer.GetTitledFirstName]が宮廷を去った途端に殺人が止まったことに気づかずにはいられない…"
- murders_at_court.9989.a:0 "I'll keep an eye on that one."
- murders_at_court.9999.desc_opening:1 "As time goes by and no new bodies turn up I gradually relax again. The killer has stopped!\n\n"
+ murders_at_court.9989.a:0 "これからも目を光らせておこう。"
+ murders_at_court.9999.desc_opening:1 "時が経ち、新たな死体が出てこないことで、私はまた徐々に安定を取り戻していく。殺人者は止められた！\n\n"

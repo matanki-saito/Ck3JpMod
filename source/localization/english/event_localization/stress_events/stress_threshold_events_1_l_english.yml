@@ -69,7 +69,7 @@
  stress_threshold.1721.desc.callous:0 "良き現実主義的な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の臣民は、私がすることはすべて寛大さを欠いており、絶えず些細なことで無用に騒いでいると受け止めている。私の地位にある他の人々は、自身より下位の者を制御することに問題を抱えているようには見えない。"
  stress_threshold.1721.desc.compassionate:0 "良き情け深い[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の地位にある他の人々は、私よりもずっと愛されているように見える。ただ、私は自分が思うように人とのつながりが持てないのだ。"
  stress_threshold.1721.desc.fickle:0 "良き柔軟な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが何度考えても、いくら新しい情報がたくさん入っても、私の地位にある他の人々の方が、私よりも臨機応変であるように思える。"
- stress_threshold.1721.desc.vengeful:0 "公正な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]、少しばかりの復讐をし、報復を与える。 しかし、私の地位の人々は、もっと素早く報復しているようだ。"
+ stress_threshold.1721.desc.vengeful:0 "良き公正な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように、少しばかりの復讐をし、報復を与える。 しかし、私の地位の人々は、もっと素早く報復しているようだ。"
  stress_threshold.1721.desc.forgiving:0 "良き寛大な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私の臣民は問題を抱えて私のところに来ることを恐れている。私の地位にある他の人々は何百人にも心を開かせているようで、私はどうすればあのように人々を信頼させることができるのかわからない。"
  stress_threshold.1721.desc.fallback:0 "良き高貴な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]となるように。だが私は欠点に溢れている。"
  stress_threshold.1721.desc.rump:0 "\n\n私のような能無しをこんな高みに上げている、この世の理はいまいましい！"

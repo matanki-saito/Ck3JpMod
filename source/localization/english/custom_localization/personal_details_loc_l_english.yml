@@ -40,7 +40,7 @@
  holy_bock:0 "[ROOT.Char.GetFaith.ReligiousText]"
  leatherbound_journal:0 "革製の日誌"
  died_simply:0 "死んだ"
- died_house_arrest:0 "died in house arrest"
+ died_house_arrest:0 "軟禁中に死んだ"
  private_object_finest_leather_shoes:0 "見事な革靴"
  private_object_favorite_embroidered_cloak:0 "お気に入りの刺繍入りマント"
  private_object_ceremonial_sword:0 "儀式用の剣"

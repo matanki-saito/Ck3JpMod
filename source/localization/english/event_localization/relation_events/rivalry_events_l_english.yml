@@ -68,7 +68,7 @@
  rivalry.1016.a:0 "名前を入れなくて良かった。"
  rivalry.1016.a.exposed:0 "なぜあれを良い考えだなどと思ったのだろう？"
  rivalry.1017.t:0 "恥知らずな侮辱！"
- rivalry.1017.desc:2 "I was [ROOT.GetCharacter.Custom('quirk_pos_adverb')] going about my business when [from_rival.GetTitledFirstName] came up to me and insulted me straight to my face.\n\n\"[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U] [ROOT.GetCharacter.Custom('InsultNoun')], your presence makes me weep!"
+ rivalry.1017.desc:2 "私が[ROOT.GetCharacter.Custom('quirk_pos_adverb')]に用事を済ませていると、[from_rival.GetTitledFirstName]が私に近づいてきて、私を真っ向から侮辱してきた。\n\n「[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U][ROOT.GetCharacter.Custom('InsultNoun')]、お前の存在は私を悲しくさせてくれるよ！」"
  rivalry.1017.a:0 "大量の私自身への侮辱をともなうこの中傷に答えよう！"
  rivalry.1017.b:0 "あの哀れな噓つきは決闘で私に報いるだろう！"
  rivalry.1017.b.tt:0 "#F [from_rival.GetSheHe]よりも私の方が優れていることをあのろくでなしに示します#!"

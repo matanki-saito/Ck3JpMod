@@ -192,4 +192,4 @@
  east_europe.0034.b:0 "おそらく風は[scoped_ruler.GetFaith.HighGodName]に向かって吹いている…"
  east_europe.0034.c:0 "これは何という邪悪な異教だ！？"
  east_europe.0034.d:0 "私の仕事でも私の問題でもない。"
- east_europe.0015.tooltip:0 "The holding gains the [special_building|E] [GetBuilding('hall_of_heroes_01').GetName]"
+ east_europe.0015.tooltip:0 "所領が[special_building|E]である[GetBuilding('hall_of_heroes_01').GetName]を得ます"
