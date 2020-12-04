@@ -315,7 +315,7 @@
  game_concept_primary_spouse:0 "主要な配偶者"
  game_concept_primary_spouse_desc:0 "[GetFaithDoctrine('doctrine_polygamy').GetBaseName]を定めている[faiths|E]では、[rulers|E]は[spouses|E]のうち一人を$game_concept_primary_spouse$として定めなければなりません。支配者の$game_concept_primary_spouse$は[fertility|E]と[opinion|E]が増加し、[council|E]に席を持つことができます。"
  game_concept_available_spouse:0 "利用可能な配偶者"
- game_concept_available_spouse_desc:0 "[spouse|E]が支配者の[council|E]で働くためには、自身が責任を持ってその役割を果たせる状態になければなりません。\n\n$game_concept_spouse$がこのような責任を果たせない状況は多岐にわたり、中でもありがちなものを以下に記します:\n$BULLET_WITH_TAB$自身の[realm|E]を持つ[ruler|E]である\n$BULLET_WITH_TAB$別の支配者の[court|E]にいる\n$BULLET_WITH_TAB$[imprisoned|E]されている。これは国内・国外を問わない\n$BULLET_WITH_TAB$[GetTrait('incapable').GetName(GetPlayer)]の[trait|E]を持っている\n\n一時的に利用不能となっていた配偶者が利用可能となった場合、自動的に評議会で元の仕事に戻ります。\n\n配偶者が自らの領地を持つ支配者であっても、[direct_vassals|E]の場合は君主の評議会で働くことができますが、これに当てはまらない場合は利用可能とは見なされません。"
+ game_concept_available_spouse_desc:0 "[spouse|E]が支配者の[council|E]で働くためには、自身が責任を持ってその役割を果たせる状態になければなりません。\n\n$game_concept_spouse$がこのような責任を果たせない状況は多岐にわたり、中でもありがちなものを以下に記します:\n$BULLET_WITH_TAB$自身の[realm|E]を持つ[ruler|E]である\n$BULLET_WITH_TAB$別の支配者の[court|E]にいる\n$BULLET_WITH_TAB$[imprisoned|E]されている。これは国内・国外を問わない\n$BULLET_WITH_TAB$[GetTrait('incapable').GetName(GetPlayer)]の[trait|E]を持っている\n\n一時的に利用不能となっていた配偶者が利用可能となった場合、自動的に評議会で元の仕事に戻ります。\n\n配偶者が自らの領地を持つ支配者であっても、[direct_vassals|E]の場合は主君の評議会で働くことができますが、これに当てはまらない場合は利用可能とは見なされません。"
  game_concept_holding:0 "所領"
  game_concept_holdings:0 "所領"
  game_concept_holding_desc:0 "$game_concept_holding$は[barony|E]や[county_capital|E]の中心となる地域を指します。\n\n所領はその[holding_type|E]によって、[holder|E]に[taxes|E]と[levies|E]を提供します。[ruler|E]が個人的に所有している所領をまとめて[domain|E]と呼びます。"

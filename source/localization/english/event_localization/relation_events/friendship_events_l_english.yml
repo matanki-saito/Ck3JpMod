@@ -131,7 +131,7 @@
  friendship.2014.desc:0 "[talking_target.GetHerHim]と過ごしているうちに、友人の[friend_doing_interceding.GetTitledFirstName]は、[talking_target.GetTitledFirstName]と私の関係が…ピリピリしたものであることに気づいた。\n\nしかし、[friend_doing_interceding.GetFirstName]はそれに我慢できず、どうにかして[talking_target.GetFirstName]に、私が[talking_target.GetSheHe]が思っているほど悪くはないと納得させてくれた！"
  friendship.2014.a:0 "私の友人に大いに感謝している！"
  friendship.2015.t:0 "信念の変化"
- friendship.2015.desc:0 "私が[friend_interceded_for.GetTitledFirstName]をできるだけうまく描こうとしたところ、[talking_target.GetTitledFirstName]はだんだんと興味を持って聞いてくれるようになった。\n\n[talking_target.GetSheHe]が自身に対し「知らなかった！」と呟いたのが印象的だった。"
+ friendship.2015.desc:0 "私が[friend_interceded_for.GetTitledFirstName]をできるだけうまく描こうとしたところ、[talking_target.GetTitledFirstName]はだんだんと興味を持って聞いてくれるようになった。\n\n[talking_target.GetSheHe]が自分に向かって「知らなかった！」と呟いたのが印象的だった。"
  friendship.2015.a:0 "我が友は偉大な[friend_interceded_for.GetWomanMan]だ!"
  friendship.3001.t:0 "選ばれた友人たち"
  friendship.3001.desc:1 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse_benefitting') )]である[spouse_benefitting.GetTitledFirstName]は、周りを良い人々に囲まれている。\n\n[friend_being_approved.GetTitledFirstName]は、私の[spouse_benefitting.GetWifeHusband]が友人関係においていかに良いセンスを持っているかの一例だ。"

@@ -283,4 +283,4 @@
  SCHEME_NUMBER_OF_EXPOSED_AGENTS_TRIGGER:0 "[scheme|E]で暴露されたスパイ: $COMPARATOR$$NUM|V0$"
  SCHEME_POWER_RESISTANCE_RATIO_TRIGGER:0 "計画の抵抗力の比率: $NUM|V0$$COMPARATOR$"
  SCHEME_MONTHLY_PROGRESS_TRIGGER:0 "計画の月間進捗: $COMPARATOR$$NUM|V0$"
- SCHEME_SEDUCE_UNWILLING_TO_COMMIT_ADULTERY:0 "[target.GetTitledFirstName] does not want to dishonor themselves by committing adultery: $VALUE|+0=-+$"
+ SCHEME_SEDUCE_UNWILLING_TO_COMMIT_ADULTERY:0 "[target.GetTitledFirstName]は不貞により自身に不名誉を負いたくない: $VALUE|+0=-+$"

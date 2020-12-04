@@ -97,7 +97,7 @@
  msg_troops_disbanding_civil_war:0 "脱走"
  msg_troops_disbanding_civil_war_desc:0 "[LEFT_CHARACTER.GetShortUINameNoTooltip]からの$AMOUNT$人の徴募兵は内戦のため解散しました"
  msg_war_declared_on_liege:0 "主君が宣戦布告された！"
- msg_war_declared_on_liege_desc:1 "[LEFT_CHARACTER.GetShortUIName|U]は[RIGHT_CHARACTER.GetShortUIName]に攻撃されます"
+ msg_war_declared_on_liege_desc:1 "[LEFT_CHARACTER.GetShortUIName|U]は[RIGHT_CHARACTER.GetShortUIName]に攻撃されています"
  msg_war_declared_by_liege:0 "主君が宣戦布告！"
  msg_war_declared_by_liege_desc:1 "[LEFT_CHARACTER.GetShortUIName|U]は[RIGHT_CHARACTER.GetShortUIName]に宣戦布告しました"
  event_message_title:0 "$TITLE$"

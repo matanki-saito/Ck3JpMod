@@ -291,7 +291,7 @@
  feast_default.9001.a:0 "また会う時まで！"
  feast_default.9001.a.tt:0 "賓客のあなたへの評価が向上します。"
  feast_default.9002.t:0 "$feast_header$ 帰宅"
- feast_default.9002.desc_murder_feast:0 "とんでもない饗宴だった！私は[host.GetTitledFirstNamePossessive]の大広間で過ごした時間を、これからもずっと忘れないだろう。特に、あの...#EMP 燃えるような#!夜の終わりは。"
+ feast_default.9002.desc_murder_feast:0 "何という饗宴だっただろう！私は[host.GetTitledFirstNamePossessive]の大広間で過ごした時間を、これからもずっと忘れないだろう。特に、あの...#EMP 燃えるような#!夜の終わりは。"
  feast_default.9002.desc:0 "とんでもない饗宴だった！[host.GetTitledFirstNamePossessive]の大広間で過ごした時間を、これからもずっと忘れないだろう。"
  feast_default.9002.desc_imprisoned_host:0 "[host.GetSheHe]がそこにいられなかったのは残念だ..."
  feast_default.9002.desc_ending:1 "\n\n歓談とワインの痕跡を洗い流し、再び領地の[ROOT.Char.GetLadyLord]として任務を再開する時がきた。"

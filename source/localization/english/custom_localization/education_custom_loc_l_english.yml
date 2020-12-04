@@ -2,7 +2,7 @@
  martial_good_trait_match_good_outcome:0 "積極的で熱心な子どもであるし、[ROOT.Char.GetFirstName]が戦争や戦いに関する[ROOT.Char.GetHerHis]の学業において優秀であるのは当然のことだ。"
  martial_bad_trait_match_good_outcome:0 "控えめに言っても、手に負えない[ROOT.Char.GetFirstName]に、戦場での生活は向いてないような気がした。しかし、[ROOT.Char.GetSheHe]はそんな予想をすべて覆してみせた。"
  martial_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように戦争に関してあまり知らなかった子供でも、本当に理解することができるようになる。"
- education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。[ROOT.Char.GetSheHe|U]はいつか立派な指揮官になると確信しています。"
+ education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。[ROOT.Char.GetSheHe|U]はいつか立派な指揮官になると確信している。"
  education_martial_3_outcome_description_not_commander:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。軍の指揮に関して[ROOT.Char.GetSheHe]は恥辱に塗れることとはついぞ無縁であろう。"
  education_martial_4_outcome_description:0 "若くしてこれだけの技量を見せていることに感心する。[ROOT.Char.GetSheHe|U]は熟練の司令官でさえ発揮することはまれなほどの洞察力を示している。"
  martial_good_trait_match_bad_outcome:0 "[ROOT.Char.GetFirstNamePossessive]のエネルギッシュな性格は、戦争や戦闘への親和性の表れだと思われていたが、単に不道徳なだけだったのかもしれない。"

@@ -780,7 +780,7 @@
  KEEP_LIEGE_EFFECT_FIRST:1 "あなたは[TARGET_CHARACTER.GetShortUIName]の[vassal|E]のままです"
  KEEP_LIEGE_EFFECT_THIRD:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の[vassal|E]のままです"
  SPAWN_ACTIVITY:0 "[PROVINCE.GetName|V]で$TYPE|V$[activity|E]を作成します"
- I_SPAWN_ACTIVITY:1 "[PROVINCE.GetName|V]において$TYPE|V$を開始します"
+ I_SPAWN_ACTIVITY:1 "[PROVINCE.GetName|V]における$TYPE|V$を開始します"
  THEY_SPAWN_ACTIVITY:0 "[CHARACTER.GetShortUIName|U]は[PROVINCE.GetName|V]に$TYPE|V$[activity|E]を作成します"
  GET_TITLE:0 "[TARGET_TITLE.GetName]を獲得します"
  I_GET_TITLE:1 "あなたが[TARGET_TITLE.GetName]を獲得します"

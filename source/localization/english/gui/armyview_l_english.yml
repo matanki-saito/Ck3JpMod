@@ -91,7 +91,7 @@
  SPLIT_ARMY_FOR_SIEGE:1 "#T 包囲部隊を残す\n#!この[army|E]が[siege|E]を続けるのに十分な[soldiers|E]を残す"
  SPLIT_ARMY_DISABLED:0 "\n$DESC$"
  SPLIT_ARMY_FOR_SIEGE_NOT_ENOUGH_SOLDIERS:0 "@warning_icon!#X 分離するのに十分な兵士がいません#!"
- SPLIT_ARMY_FOR_SIEGE_TOO_MANY_SOLDIERS:2 "@warning_icon!#X Other Armies at this Holding have enough Soldiers to continue the Siege#!"
+ SPLIT_ARMY_FOR_SIEGE_TOO_MANY_SOLDIERS:2 "@warning_icon!#X この所領の他の軍勢は包囲継続に十分な兵士を持っています#!"
  BESIEGING:0 "包囲中"
  ARMY_COMPOSITION_ENTRY_MAX:0 "$TYPE$: $MAX|0V$"
  ARMY_COMPOSITION_ENTRY:0 "$TYPE$: $COUNT|0V$/$MAX|0V$ ($REINFORCE|0V=$/月)"

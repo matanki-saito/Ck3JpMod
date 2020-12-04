@@ -1,6 +1,6 @@
 ﻿l_english:
  rivalry.0001.t:0 "和解"
- rivalry.0001.desc:2 "「[ROOT.Char.GetTitledFirstNameNoTooltip]、我々には過去に意見の相違はあったが、そろそろ水に流しても良いとは思わないか？」\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、私から[rival.GetHerHim]への合図をする。「我々の間にあるものは何でも...新しいことを始めよう！」"
+ rivalry.0001.desc:2 "「[ROOT.Char.GetTitledFirstNameNoTooltip]、我々には過去に意見の相違はあったが、そろそろ水に流しても良いとは思わないか？」\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、私から[rival.GetHerHim]への合図をする。「我々の間の何もかもを...始めからやり直そう！」"
  rivalry.0001.a:1 "うん、そうしよう。"
  rivalry.0001.b:0 "私の前にひれ伏すのか！？[ROOT.Char.GetFaith.HighGodName]は善だ！"
  rivalry.0002.t:0 "和解"
