@@ -4,7 +4,7 @@
  elope.0001.positive.desc:0 "準備はすっかり整った。脱出ルートは調査済みだし、衛兵たちも買収済みで、[target.GetTitledFirstName]のほうも準備はできている。今夜[location.GetNameNoTooltip]に夜の帳が下りるとともに、私は我が[target.Custom('LoverPetName')]を自由の身にして、[target.GetHerHim]を私の[target.GetWifeHusband]とするのだ。"
  elope.0001.negative.desc:0 "リストは一通り暗記した。脱出ルートは調査済みだし、衛兵たちは買収できたはずだし、上手くいけば、私が送ったメモは[target.GetTitledFirstName]の手元に行くだろう。だが上手くいかなければ？多分[target.GetSheHe]は受け取っていない！しかも他のことも上手くいかないかもしれない…\n\n疑心暗鬼にとらわれている暇はない。チャンスは一度きりなのだ。何があろうとも[target.GetHerHim]のもとに行くか、この試みを諦めるかのどちらかだ。"
  elope.0001.a:0 "迎えに来ましたよ、[target.GetFirstNameNoTooltip]！"
- elope.0001.b:0 "私は何をしていたんだ、狂っている！"
+ elope.0001.b:0 "私は何をしているんだ、狂っている！"
  elope.0001.a.tt:0 "[target.GetShortUIName]との駆け落ちを試みる"
  elope.0001.a.success:0 "私は#P 成功する#!"
  elope.0001.a.failure_discover:0 "私は#N 失敗し、発見される#!"

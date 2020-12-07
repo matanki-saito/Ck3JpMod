@@ -51,7 +51,7 @@
  major_decisions.2002.desc:1 "知識の新時代が到来した; [founder.GetName]の領国に大学が設立された。大学は急速に学者や他の知識人のための中心地になりつつあり、若者たちがトリウィウムやクアドリウィウム、そして世界を理解するために必要なすべてのものを学ぶための究極の環境であることを宣言している。"
  major_decisions.2002.a:1 "彼らの智慧が万人の恩恵とならんことを！"
  major_decisions.2011.t:0 "賢明なる[new_courtier.GetWomanMan|U]"
- major_decisions.2011.desc:0 "[new_courtier.GetName]は、[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('new_courtier') )]と賢さを兼ね備えた[new_courtier.GetWomanMan]で、私に丁寧な挨拶をしてきた。\n\n「あなたの新しい大学のことを聞いてきました！それほどまでに知識を好む[ROOT.Char.GetTitleAsNameNoTooltip]...あなたのお役に立てれば光栄です。」"
+ major_decisions.2011.desc:0 "[new_courtier.GetName]は、賢さを兼ね備えた[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('new_courtier') )][new_courtier.GetWomanMan]で、私に丁寧な挨拶をしてきた。\n\n「あなたの新しい大学のことを聞いてきました！それほどまでに知識を好む[ROOT.Char.GetTitleAsNameNoTooltip]...あなたのお役に立てれば光栄です。」"
  major_decisions.2011.a:0 "ようこそ、ようこそ！"
  major_decisions.2011.b:0 "ここにお前の居場所はない。"
  major_decisions.3001.t:0 "緑の家"

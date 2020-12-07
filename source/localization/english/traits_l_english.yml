@@ -846,5 +846,5 @@
  ALREADY_HAS_TRAIT_IN_GROUP:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )]の特性は$CHARACTER_NAME$がすでに[TRAIT_GROUP.GetName]グループの特性#weak ([TRAIT_2.GetName( CHARACTER.Self )])#!を保有しているため追加できません#!"
  SEX_MALE:0 "男性"
  SEX_FEMALE:0 "女性"
- trait_crusader_siberian:0 "Ulgen's Nimrod"
- trait_crusader_king_siberian:0 "Ulgen's Chosen"
+ trait_crusader_siberian:0 "ウルゲンのニムロッド"
+ trait_crusader_king_siberian:0 "ウルゲンに選ばれし者"

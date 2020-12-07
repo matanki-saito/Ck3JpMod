@@ -134,7 +134,7 @@
  martial_chivalry_special.1204.desc:0 "私は[ROOT.Char.Custom('signature_weapon')]を[ROOT.Char.Custom('SignatureWeaponAction')]と、騎兵を率いて狂ったような速度で坂道を下っていく。しかし、揺れる鎧、掲げられる武器、戦いの叫びなどの混沌とした状況の中に、ある計画がある。我々が下の戦場にいる仮想の軍隊に衝突する時、すべての兵士は、打撃を準備し、後退し、手綱を捻り、戦いの中に戻って跳躍し、我々の専門性に自身の役割を見出す。\n\n我々は自然の力のように敵の上を突進し、彼らは大きな嵐の前の木のように折れるだろう。"
  martial_chivalry_special.1204.a:0 "邪魔者を一人残らず切り捨てるぞ！"
  martial_chivalry_special.1601.t:0 "軍馬の調教"
- martial_chivalry_special.1601.desc:0 "厩舎の点検していると私の視線は他の馬から遠ざかって管理されている[dummy_gender.Custom('HorseMareStallion')]に引き寄せられまた。[dummy_gender.GetSheHe|U]は頭を激しく振り、蹄を踏み鳴らし、力強い後ろ足とアーチ状のよく伸びだ首を披露している。この怪物は最高の馬体と最悪の気性が併存している。\n\nこんな軍馬は今まで見たことがないが、厩長は[dummy_gender.GetSheHe]は調教不可能であると言っている。"
+ martial_chivalry_special.1601.desc:0 "厩舎の点検をしていると私の視線は他の馬から遠ざかって管理されている[dummy_gender.Custom('HorseMareStallion')]に引き寄せられた。[dummy_gender.GetSheHe|U]は頭を激しく振り、蹄を踏み鳴らし、力強い後ろ足とアーチ状のよく伸びた首を披露している。この怪物には最高の馬体と最悪の気性が併存している。\n\nこんな軍馬は今まで見たことがないが、厩長は[dummy_gender.GetSheHe]は調教不可能であると言っている。"
  martial_chivalry_special.1601.a:0 "私は困難な挑戦から逃げたりはしない！"
  martial_chivalry_special.1601.b:0 "このような見栄えが立派な馬はむしろ高値をつけるであろう。"
  martial_chivalry_special.1601.c:0 "厩長は[dummy_gender.GetHerHim]を調教することで多くを学ぶだろう"

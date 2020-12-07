@@ -134,7 +134,7 @@
  msg_my_faction_disbanded:0 "派閥の解散"
  msg_my_faction_disbanded_desc:0 "[FACTION.GetName]は解散されました"
  msg_liege_passed_law:0 "新しい法律"
- msg_liege_passed_law_desc:1 "あなたの領主は[LAW.GetName]法を可決しました"
+ msg_liege_passed_law_desc:1 "あなたの主君は[LAW.GetName]法を可決しました"
  msg_liege_passed_title_law:0 "新しい称号法"
  msg_liege_passed_title_law_desc:0 "あなたの主君が[TITLE.GetName]に対する[LAW.GetName]法を可決しました"
  msg_liege_removed_title_law:0 "称号法が削除された"
