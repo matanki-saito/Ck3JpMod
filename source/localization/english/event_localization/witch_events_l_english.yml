@@ -26,7 +26,7 @@
  witch.2002.start.desc:0 "暗闇の中で目を開けると、すぐに不吉な予感に圧倒される。私は誰かに見られているのだろうか？\n\n「[ROOT.Char.GetFirstNameNoTooltip]、真理を受け入れる準備はできていますか？」"
  witch.2002.discovery.desc:0 "私はどこにいてもその声に気づく。 [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]に違いない。"
  witch.2002.no_discovery.desc:0 "座っていると、私は突然、完全に自覚する。見知らぬ[owner.GetWomanMan]の声の主を探して周りを見回すが、そこには影しかない。"
- witch.2002.end.desc:0 "\n\n「[owner.GetFaith.WitchGodName|U]は汝に祝福を与えよう。汝は[owner.GetFaith.WitchGodHerHis|U]の祝福を受け入れれるか？」"
+ witch.2002.end.desc:0 "\n\n「[owner.GetFaith.WitchGodName|U]は汝に祝福を与えよう。汝は[owner.GetFaith.WitchGodHerHis|U]の祝福を受け入れるか？」"
  witch.2002.a:0 "我が心のすべてを捧げます！"
  witch.2002.b:0 "私はそんなのと何もしたくない、去れ悪魔！"
  witch.2002.c:0 "[owner.GetFirstNameNoTooltip]、汝の罪は世間に知れ渡る！"
