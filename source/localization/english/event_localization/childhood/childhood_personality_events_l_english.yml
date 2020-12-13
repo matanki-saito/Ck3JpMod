@@ -225,7 +225,7 @@
  child_personality.106.confirm_vengeful:0 "ああ、子供らしい悪癖だ。"
  child_personality.106.confirm_chaste:0 "情欲の問題に触れるべきではない。"
  child_personality.106.confirm_stubborn:0 "最初に失敗しても、もう一度やってみるしかない。"
- child_personality.106.vengeful_change:0 "[child.GetFirstNameNoTooltip]は、[child.GetHerHim]をそのように扱わせるべきではない！"
+ child_personality.106.vengeful_change:0 "[child.GetFirstNameNoTooltip]は、誰にもあんな風に扱わせてはいけない！"
  child_personality.106.chaste_change:0 "もしかすると愛は[child.GetFirstNameNoTooltip]のためにならないのかもしれない...。"
  child_personality.106.stubborn_change:0 "[child.GetFirstNameNoTooltip]はそう簡単に諦めてはいけない！"
  child_personality.1071.t:0 "厳正な判断"

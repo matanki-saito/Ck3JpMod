@@ -461,7 +461,7 @@
  seduce_ongoing.5301.a:0 "[target.GetHerHis]の手が全てを物語っている。"
  seduce_ongoing.5301.a.tt:0 "#F 私のかすかな合図がうまく伝わることを願う#!"
  seduce_ongoing.5301.b:0 "二人きりで、[target.GetHerHis]の唇を拒絶しない。"
- seduce_ongoing.5301.b.tt:0 "#F 私のあからさまな興味が歓迎ことを願っている。 #!"
+ seduce_ongoing.5301.b.tt:0 "#F 私のあからさまな興味がうまく受け入れられることを願う #!"
  seduce_ongoing.5301.c:0 "せっかくの素敵な夜を台無しにしてしまうのは、とても残念なことだ。"
  seduce_ongoing.5301.c.tt:0 "#F またの機会にする。[THIS.Char.Custom2('RelationToMe', SCOPE.sC('target'))]はどこにも行かない。　#!"
  seduce_ongoing.5301.success_tt:0 "[target.GetFirstName]が私の口説きに応えてくれたら:"

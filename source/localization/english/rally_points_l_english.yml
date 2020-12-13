@@ -10,3 +10,4 @@
  RP_CANNOT_RAISE_ENEMY_TERRITORY:0 "#X [rally_point|E]に指定した地点が敵の領土になっています#!"
  RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X [occupation|E]下にある、あるいは敵の[armies|E]がいる[rally_point|E]では軍を召集できません。#!"
  RP_NOTHING_TO_RAISE:0 "#X 召集できる[armies|E]がありません#!"
+ RAISE_TROOPS_EXTRA_INFO: "#I Crtl+クリックで[armies|E]の[Concept( 'supply_limit', 'Supply Limits')|E]に基づく分割を#bold 行わない#!#!"
