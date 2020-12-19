@@ -21,5 +21,5 @@
  MASS_PRISONER_ACTION_RANSOM_TT:0 "#T $MASS_PRISONER_ACTION_RANSOM$#!\nすべての[prisoners|E]の身代金として[gold|E]を要求します。\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_PRISONER_ACTION_RELEASE_TT:0 "#T $MASS_PRISONER_ACTION_RELEASE$#!\nすべての[prisoners|E]を見返りなしに解放します。\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_PRISONER_ACTION_EXECUTE_TT:0 "#T $MASS_PRISONER_ACTION_EXECUTE$#!\nすべての[prisoners|E]を処刑します。\n\n$MASS_ACTION_TT_EXCLUDE$"
- MASS_ACTION_TT_EXCLUDE:0 "#weak Prisoners that are hidden by a filter or exempted from Mass Actions will not be affected.#!"
- MASS_PRISONER_ADDITIONAL_REASONS:0 "#X ...and more#!"
+ MASS_ACTION_TT_EXCLUDE:0 "#weak フィルタで隠されている、または一括実行から除かれている囚人は影響を受けません。#!"
+ MASS_PRISONER_ADDITIONAL_REASONS:0 "#X …その他#!"

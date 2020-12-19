@@ -181,7 +181,7 @@
  DETACH_FROM_UNIT_HEADER:0 "#T [army|E]の追随解除#!"
  DETACH_FROM_UNIT:0 "[TARGET_ARMY.GetName]への追随を解除します"
  NOT_ATTACHED_TO_ANY_UNIT:0 "@warning_icon!#X 他の[army|E]に追随していません#!"
- ATTACHED_ARMY_NAME:0 "Following:\n[Army.GetName]"
+ ATTACHED_ARMY_NAME:0 "追随中:\n[Army.GetName]"
  ATTACH_TO_ARMY_WINDOW_HEADER:0 "軍勢に追随"
  ATTACH_TO_ARMY_WINDOW_TEXT:0 "Select an [army|E] in [ArmyWindow.GetArmy.GetLocation.GetName] for [ArmyWindow.GetArmy.GetName] to follow."
  TOGGLE_ATTACH_TO_UNIT_WINDOW:0 "軍勢に追随"

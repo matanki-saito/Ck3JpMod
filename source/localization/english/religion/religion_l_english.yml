@@ -352,7 +352,7 @@
  holy_site_kayor_effect_name:0 "[holy_site|E]#weak ($holy_site_kayor_name$)#!から"
  holy_site_kasa_name:0 "カサ"
  holy_site_kasa_effect_name:0 "[holy_site|E]#weak ($holy_site_kasa_name$)#!から"
- holy_site_bono_name:0 "ボーノ"
+ holy_site_bono_name:0 "ボノ"
  holy_site_bono_effect_name:0 "[holy_site|E]#weak ($holy_site_bono_name$)#!から"
  holy_site_kumasi_name:0 "クマシ"
  holy_site_kumasi_effect_name:0 "[holy_site|E]#weak ($holy_site_kumasi_name$)#!から"
