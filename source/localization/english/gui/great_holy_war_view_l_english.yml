@@ -29,7 +29,7 @@
  GHW_WITHDRAW:0 "撤回"
  GHW_WITHDRAWPLEDGE:0 "誓約を撤回"
  GHW_GIVE_GOLD:0 "金を寄付する"
- GHW_CHANGE_BENEFICIARY:2 "[Select_CString( GetPlayer.GetBeneficiary.IsValid, 'Replace', 'Appoint' )]"
+ GHW_CHANGE_BENEFICIARY:2 "[Select_CString( GetPlayer.GetBeneficiary.IsValid, '置き換え', '任命' )]"
  GHW_MY_BENEFICIARY:0 "私の[beneficiary|E]"
  GHW_MY_CONTRIBUTION:0 "私の[contribution|E]"
  GHW_TOGGLE_BENEFICIARY:1 "慕われている候補者よりも優先する"
