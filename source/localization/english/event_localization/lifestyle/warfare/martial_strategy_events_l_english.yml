@@ -154,7 +154,7 @@
  martial_strategy_special.1399.desc_win:0 "[ROOT.Char.Custom('FortifiedBuilding')]は我々のものだ！"
  martial_strategy_special.1399.desc_loose:0 "戦いは敗北し、防衛側が勝利を収めた。"
  martial_strategy_special.1399.desc:0 "私は祝賀している兵士のたちの中に[siege_proposer.GetTitledFirstName]を見つけ、彼は私がよく指揮して突撃したと称賛してくれる。"
- martial_strategy_special.1399.desc_win2:0 "\n\n「彼らをご覧ください、我が[ROOT.Char.GetLadyLord]。気分転換が彼らにとって良い結果をもたらしたのです。あなたのの[ROOT.Char.Custom('FortifiedBuilding')]が攻撃側に奪われたばかりなのに、元気が出てきたようですね！」"
+ martial_strategy_special.1399.desc_win2:0 "\n\n「彼らをご覧ください、我が[ROOT.Char.GetLadyLord]。気分転換が彼らにとって良い結果をもたらしたのです。あなたの[ROOT.Char.Custom('FortifiedBuilding')]が攻撃側に奪われたばかりなのに、元気が出てきたようですね！」"
  martial_strategy_special.1399.desc_loose2:0 "\n\n「我が[ROOT.Char.GetLadyLord]、[ROOT.Char.Custom('FortifiedBuilding')]には失敗しましたが、部隊もあなたも気分転換で元気になったようですね！」\n\n私は同意するしかない。それに、私の[ROOT.Char.Custom('FortifiedBuilding')]がそう簡単には占領されないということを知っているのは慰めになる！"
  martial_strategy_special.1399.a:0 "我々の敵が成功することは決してない！"
  martial_strategy_special.1399.b:0 "防衛軍として、我々は優れている！"

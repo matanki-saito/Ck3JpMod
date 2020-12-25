@@ -587,7 +587,7 @@
  ATTACKERS_FRIENDLY:1 "#defender_color 攻撃側#!"
  DEFENDERS_HOSTILE:1 "#attacker_color 防衛側#!"
  OWNER:0 "所有者"
- PARTICIPATION_SCORE:0 "Participation Score"
+ PARTICIPATION_SCORE:0 "参加者のスコア"
  CURRENT_MAX:0 "$CURRENT|0$/$MAX|0$"
  CREATE:0 "作成"
  DEBUG_COLON:0 "#D DEBUG:#!"

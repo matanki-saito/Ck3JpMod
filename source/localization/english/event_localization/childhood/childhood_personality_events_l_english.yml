@@ -476,7 +476,7 @@
  child_personality.9900.sinful.postscript.desc:0 "人々の話題になればなるほど、私の扱いは悪くなっていく。私がやってもいないことを責められるほどに！"
  child_personality.9900.a.sinful:0 "不公平だ！なぜ[ancestor.GetHerHis]の行動で私が裁かれなければならないのだ？"
  child_personality.0061.t:0 "後見人の影響力"
- child_personality.0061.desc_opening:0 "I don't enjoy loneliness, yet I struggle to enjoy the company of others. There's always a feeling of worry that I'm making a fool of myself during social interactions."
+ child_personality.0061.desc_opening:0 "私は孤独を楽しめないが、他人との付き合いを楽しむのにも苦労している。人付き合いをしている間、私は自分が恥をかくのではないかという懸念を常に抱いている。"
  child_personality.0061.desc_shy:0 "Thus I feel a strong kinship with [guardian.GetTitledFirstNameNoTooltip], [ROOT.GetCharacter.Custom2('RelationToMe' , guardian)], who seem plagued by similar thoughts."
  child_personality.0061.desc_gregarious:0 "[guardian.GetTitledFirstNameNoTooltip], [ROOT.GetCharacter.Custom2('RelationToMe' , guardian)], is my complete opposite in that regard."
  child_personality.0061.desc_fallback:0 "I don't know if I'm alone with these thoughts..."

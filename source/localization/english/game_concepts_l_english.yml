@@ -482,7 +482,7 @@
  game_concept_allied:0 "同盟"
  game_concept_ally:0 "同盟者"
  game_concept_ally_i:0 "@alliance_icon!"
- game_concept_alliance_desc:2 "An $game_concept_alliance$ is a diplomatic relation between two [rulers|E]. [independent|E] Rulers can call on $game_concept_allies$ to join each others [wars|E].\n\nAlliances are created and maintained through a [marriage|E] or [betrothal|E], as long as the two characters that are wed are closely enough related to the two Rulers. For example, if a [king|E] marries off his daughter to another King's son, the two Kings become $game_concept_allies$.\n\n[lieges|E] can also create $game_concept_alliances$ with their [vassals|E]. The Liege cannot call the Vassal to War, but it prevents them from joining [factions|E]"
+ game_concept_alliance_desc:2 "$game_concept_alliance$は、二人の[rulers|E]間の外交関係です。[independent|E]した統治者は互いの[wars|E]に参戦させるため$game_concept_allies$を呼び出すことができます。\n\n同盟は[marriage|E]や[betrothal|E]によって構築され、結婚する二人の人物が二人の統治者と十分に密接に関連している限り維持されます。例えば、ある[king|E]が自身の娘を別の王の息子に嫁がせた場合、二人の王は$game_concept_allies$となります。\n\n[lieges|E]は、自身の[vassals|E]と$game_concept_alliances$を構築することもできます。この場合、主君は封臣を参戦させることはできませんが、封臣が[factions|E]に参加するのを防ぎます。"
  game_concept_war:0 "戦争"
  game_concept_wars:0 "戦争"
  game_concept_war_desc:0 "軍事闘争は[realm|E]拡張の最も直接的な手段です。しかし$game_concept_war$を布告するには、その行為を正当化する必要があり、これを[casus_belli|E]といいます。選んだ開戦事由で指定していたこと以上の利益を$game_concept_war$であげることはできません。\n\n戦争に勝つためには[battle|E]で敵の[armies|E]を打ち倒すか、敵の[holdings|E]を[occupying|E]する必要があります。これらを成功させることで[war_score|E]が蓄積し、最終的には[peace_offer|E]において敵に[defeat|E]を強制することができるようになります。\n\n$game_concept_war$の結果に関わらず、攻撃側には防衛側に対し一時的な[truce|E]期間が生じます。しかし防衛側は攻撃側に対し、特に制限なく、すぐに新たな戦争を起こすことができます。"

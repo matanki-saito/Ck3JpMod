@@ -96,7 +96,7 @@
  ACHIEVEMENT_DESC_norman_yoke_achievement:1 "1066年に庶子公ウィリアムとして開始し、ノルマンコンクエストで勝利し、イングランド文化となり、イングランド[kingdom|E]ではイングランド文化の[vassals|E]だけが自分の下にいる"
  ACHIEVEMENT_DESC_royal_dignity_achievement:1 "1066年にヴラチスラフ・プシェミスルとして開始し、[dynasty|E]がボヘミア[kingdom|E]と神聖ローマ帝国[empire|E]を同時に支配するように導く"
  ACHIEVEMENT_DESC_going_places_achievement:2 "867年にモンテギュのハスティンで開始し、任意の[kingdom|E][title_tier|E][title|E]を保持する"
- ACHIEVEMENT_DESC_land_of_the_rus_achievement:1 "867年にリューリク(The Troublemaker)として開始し、[dynasty|E]を率いてロシアの[empire|E]を統治する"
+ ACHIEVEMENT_DESC_land_of_the_rus_achievement:1 "867年にリューリク(The Troublemaker)として開始し、[dynasty|E]をロシア[empire|E]の支配者へと導く"
  ACHIEVEMENT_DESC_above_god_achievement:1 "あなたの[head_of_faith|E]に対して[strong_hook|E]を持つ"
  ACHIEVEMENT_DESC_paragon_of_virtue_achievement:1 "三つ以上の[virtuous|E][traits|E]を持つ。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_the_things_love_does_for_us_achievement:1 "[lover|E]が[murder|E]からあなたを救ってくれる"

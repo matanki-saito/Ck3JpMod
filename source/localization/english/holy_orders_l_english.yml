@@ -1,5 +1,5 @@
 ﻿l_english:
- holy_order_default:1 "[FAITH.GetAdjectiveNoTooltip] company of [TITLE.GetNameNoTierNoTooltip]"
+ holy_order_default:1 "[TITLE.GetNameNoTierNoTooltip][FAITH.GetAdjectiveNoTooltip]団"
  holy_order_faithful_of_highgod:0 "[FAITH.WarGodName]の信徒"
  holy_order_warriors_of_the_symbol:0 "[FAITH.ReligiousSymbol]戦士団"
  holy_order_guardians_of_divinerealm:0 "[FAITH.DivineRealm]守護者団"

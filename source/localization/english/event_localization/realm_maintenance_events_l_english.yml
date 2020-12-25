@@ -18,4 +18,4 @@
  realm_maintenance.1001.lease_revoked:0 "[new_liege.GetTitledFirstName]は[old_liege.GetTitledFirstNamePossessive]の称号の貸与を取り消したため、あなたの新しい主君になりました"
  realm_maintenance.1001.faction_demand:0 "[faction|E]により[old_liege.GetTitledFirstName]から[new_liege.GetTitledFirstName]に交替し、あなたの新しい主君になりました"
  realm_maintenance.1001.swear_fealty:0 "あなたは[new_liege.GetTitledFirstName]に忠誠を誓い、彼らの[vassal|E]になりました。"
- realm_maintenance.1001.error:1 "[new_liege.GetTitledFirstName] has become your new liege, but you don't know why!"
+ realm_maintenance.1001.error:1 "[new_liege.GetTitledFirstName]が新しいあなたの主君になりましたが、理由はわかりません！"
