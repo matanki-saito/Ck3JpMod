@@ -1079,7 +1079,7 @@
  NOT_TAKE_VOWS_INTERACTION_MARTIAL_EDUCATION:0 "[TARGET_CHARACTER.GetTitledFirstName]は[martial|E][education_trait|E]を所持して#bold いません#!"
  TAKE_VOWS_INTERACTION_MARTIAL_EDUCATION:0 "has a [martial|E] [education_trait|E] and can join a [holy_order|E]"
  imprison_decline_summary_cannot_fire_HoF:0 "@warning_icon!#X Even if you imprison [ROOT.Char.GetShortUINameNoTooltip] [ROOT.Char.GetSheHe] will still be the [ROOT.Char.GetTitleAsNameNoTooltip]!#!"
- EXECUTION_SACRIFICE:0 "Sacrifice"
+ EXECUTION_SACRIFICE:0 "生贄"
  HOF_ASK_FOR_CLAIM_THEOCRATIC_LESSEE:0 "[TARGET_CHARACTER.GetShortUIName|U]は、[theocratic_vassals|E]に対していかなる請求権も付与しません"
  char_interaction.0078.desc_them:0 "我々が[ward.GetTitledFirstName]について私が教育することで合意したのは理解しているが、実は…私はすでに他の被後見人で手一杯なのです。申し訳ありません。"
  char_interaction.0078.desc:0 "我々が[ward.GetTitledFirstName]について[guardian.GetTitledFirstName]が教育することで合意したのは理解しているが、実は…[guardian.GetSheHe|U]はすでに他の被後見人で手一杯なのです。申し訳ありません。"

@@ -67,7 +67,7 @@
  HOUSE_VIEW_DYNASTY_PRESTIGE_INCOME_TT_ALIVE_CAPPED:0 "$NUM|V$名の存命者 #weak (上限100名)#!"
  HOUSE_TT_NAME:0 "[DynastyHouse.GetBaseNameNoTooltip]家"
  DYNASTY_VIEW_CONCEPT:3 "[DynastyHouse.GetBaseNameNoTooltip]家の[dynasty|E]"
- HOUSE_VIEW_NOT_YOUR_HOUSE:0 "Noble [house|E]"
+ HOUSE_VIEW_NOT_YOUR_HOUSE:0 "貴族 [house|E]"
  HOUSE_LIST_HEAD:0 "[house_head|E]: [DynastyHouse.GetHeadOfHouse.GetName]"
  HOUSE_VIEW_LEGACY_TOOLTIP_HEADER:0 "#T $NAME$#!"
  HOUSE_VIEW_LEGACY_TOOLTIP_ITEM:0 "#T $PERK$#!\n$EFFECT$"

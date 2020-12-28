@@ -231,4 +231,4 @@
  doctrine_parameter_natural_primitivism_law_cost_increase:0 "法律コスト: #N +50%#!"
  tenets_name:0 "信条"
  tenet_consolamentum_name_alternate:0 "儀式的自殺"
- doctrine_parameter_unreformed_syncretic_conversion_malus_active:0 "Base speed of converting syncretised faiths is reduced by [EmptyScope.ScriptValue('conversion_syncretic_with_religion_malus_efficancy_procentage')|-0%]"
+ doctrine_parameter_unreformed_syncretic_conversion_malus_active:0 "習合された信仰の改宗速度が[EmptyScope.ScriptValue('conversion_syncretic_with_religion_malus_efficancy_procentage')|-0%] 減少します"

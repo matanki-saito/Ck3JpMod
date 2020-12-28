@@ -336,7 +336,7 @@
  lover.7001.a:0 "この瞬間をできるだけ長続きさせてみせる！"
  lover.7001.a.tt:0 "#F あるいは我々はいつかは友人以上の存在になれるのでしょうか？#!"
  lover.7001.b:0 "それで、あなたが言っていたことについて…"
- lover.7001.b.tt:0 "#F I don't want to [potential_lover.GetHerHim] to think we could be anything other than friends.#!"
+ lover.7001.b.tt:0 "#F 私は[potential_lover.GetHerHim]に、我々が友人以外の何者でもないとは思ってほしくない。#!"
  lover.7002.t:0 "私の[proposing_friend.Custom2('ComplimentAdjective', ROOT.Char)|U]友"
  lover.7002.desc:0 "[proposing_friend.GetTitledFirstNamePossessive]の横に座って、[ROOT.Char.Custom('subject_of_interest')]の話をしたり、[proposing_friend.GetHerHis]の私への視線を見て微笑んだり…突然の緊張感が伝わってきて、これを[proposing_friend.GetHerHis]の赤面した表情から感じるのは私だけではないはずだ。"
  lover.7003.t:0 "[potential_lover.Custom('InsultAdjective')|U]ライバル"
