@@ -172,7 +172,7 @@
  reclaim_britannia_decision_tooltip:0 "[ROOT.Char.GetCulture.GetName]文化が支配する"
  reclaim_britannia_decision_custom:0 "非ケルト文化の封臣を1人以上持つことはできません"
  reclaim_britannia_decision_confirm:1 "ブリタニアを取り戻す"
- HAS_NON_CELTIC_POWERFUL_VASSAL:0 "ブリソンまたはゴイデル[culture_group|E]に属するあなたのすべての[powerful_vassals|E]"
+ HAS_NON_CELTIC_POWERFUL_VASSAL:0 "あなたのすべての[powerful_vassals|E]がブリソンまたはゴイデル[culture_group|E]に属している"
  restore_the_danelaw_decision:0 "デーンロウの復興"
  restore_the_danelaw_decision_desc:0 "かつてのデーン人と同じやり方で、彼らは今再びこの地を支配するであろう!"
  restore_the_danelaw_decision_tooltip:0 "デーンロウ王国を改革する"
