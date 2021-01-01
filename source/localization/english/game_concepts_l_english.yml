@@ -847,7 +847,7 @@
  game_concept_torturing:0 "拷問"
  game_concept_torture_desc:0 "[imprisoned|E]キャラクターは[health|E]を損なわされたりと不具にされたりといった様々な手段で$game_concept_tortured$とされることがあります。\n\n拷問は[GetTrait('callous').GetName( GetNullCharacter )]及び[GetTrait('sadistic').GetName( GetNullCharacter )]を持つキャラクターの[stress|E]を緩和する一方、親切なキャラクターはストレスを受けます。\n\n[rulers|E]を拷問すると[dread|E]が増加します。"
  game_concept_banish:0 "追放"
- game_concept_banished:0 "追放された"
+ game_concept_banished:0 "追放"
  game_concept_banishment:0 "追放"
  game_concept_banishment_desc:1 "[imprisoned|E]キャラクターは[realm|E]から$game_concept_banished$とすることが出来ます。これは恐らく極めて厳しい制裁となります。$game_concept_banished$[landed|E]の支配者は退位させられ、$game_concept_banished$[courtiers|E]は資産を没収されます。\n\n大きな[crime|E]などの理由なき追放は[tyrannical|E]と見做されます。"
  game_concept_revoke:0 "剥奪"
