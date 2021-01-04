@@ -166,7 +166,7 @@
  setting_ai_limited_exclave_independence_desc:0 "独立したAIの統治者の飛び地は、海路またはその人物の慣習的領域を通じて首都がある地域と接続していない場合、平時の継承に際して独立します。"
  setting_ai_significant_exclave_independence:1 "重要(AIのみ)"
  setting_ai_significant_exclave_independence_desc:0 "独立したAIの統治者の飛び地は、海路またはその人物の慣習的領域の一部と繋がっていない場合、平時の継承に際して相次いで独立します。"
- setting_ai_total_exclave_independence:0 "#high 合計 (AIのみ)#!"
+ setting_ai_total_exclave_independence:0 "#high 完全 (AIのみ)#!"
  setting_ai_total_exclave_independence_desc:0 "独立したAIの統治者の飛び地は、海路を通じて接続していない場合に限り、平時に継承に際して相次いで独立します。"
  rule_regional_heresy:0 "地域的異端"
  setting_default_regional_heresy:0 "デフォルト"
