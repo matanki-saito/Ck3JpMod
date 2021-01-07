@@ -1,5 +1,5 @@
 ﻿l_english:
- SPLIT_ARMY_IN_HALF:0 "#T 半分に分割#!\nこの[army|E]ををほぼ等しい戦力に二分割する [armies|E]"
+ SPLIT_ARMY_IN_HALF:0 "#T 半分に分割#!\nこの[armies|E]をほぼ等しい戦力に二分割する"
  SPLIT_ARMY_IN_HALF_DISABLED:0 "\n$DESC$"
  SPLIT_ARMY_CUSTOM:1 "#T 分割して新しい[army|E]を編成#!\n新しい[army|E]を作るために、この[army|E]から[regiments|E]を切り離す。"
  SPLIT_ARMY_CUSTOM_TWO:1 "#T 再編成#!\n二つの[armies|E]を連隊に再編成します"

@@ -64,7 +64,7 @@
  yearly.3031.a:0 "口先上手な私にはそれほど難しくないはずだ。"
  yearly.3031.a.best_friend_success:0 "[best_friend.GetFirstNameNoTooltip]が[fellow_vassal.GetFirstNameNoTooltip]から気をそらす"
  yearly.3031.a.success:0 "私は[liege.GetTitleAsNameNoTooltip]に対して友好的になる"
- yearly.3031.a.failure:0 "[fellow_vassal.GetFirstNameNoTooltip]が[liege.GetTitleAsNameNoTooltip]の友達になる"
+ yearly.3031.a.failure:0 "[fellow_vassal.GetFirstNameNoTooltip]が[liege.GetTitleAsNameNoTooltip]の友人になる"
  yearly.3031.a.nemesis_failure:0 "[nemesis.GetFirstNameNoTooltip]が私を中傷する"
  yearly.3031.b:0 "[ROOT.Char.GetFaith.HighGodName]はすでに私に恩寵を与えてくれていることを説明しよう。"
  yearly.3031.b.success:0 "私は[liege.GetTitleAsNameNoTooltip]を感動させる"

@@ -388,6 +388,6 @@
  FACTION_CANT_JOIN_CREATE_ADULT:0 "$FACTION_CANT_JOIN_CREATE_ADULT_INT$"
  IS_AT_WAR_WITH_TARGET_REASON:0 "[secondary_recipient.GetShortUIName]は[recipient.GetShortUIName]と戦争中である: $VALUE|+0$"
  CULTURE_TRANSF_VASSAL:0 "[Culture.GetNameNoTooltip]"
- grant_titles_interaction_notification_effect_5:0 "[recipient.GetUINameNotMe] is now a fellow vassal"
+ grant_titles_interaction_notification_effect_5:0 "[recipient.GetUINameNotMe]は同輩の封臣です"
  WANTS_MORE_GOLD:0 "[recipient.GetSheHe|U]はさらなる[gold|E]を望む: $VALUE|=+0$"
  DIVORCE_OPENLY_INCESTUOUS_SPOUSE:0 "[secondary_recipient.GetShortUINameNoTooltip]は公然と近親相姦関係にある: $VALUE|=+0$"

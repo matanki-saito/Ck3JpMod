@@ -821,7 +821,7 @@
  PROVINCE_RECEIVED_MODIFIER_UNTIL_EFFECT:1 "[PROVINCE.GetName]の所領が$MODIFIER$を$DURATION|V$得ました"
  CHANGE_DEVELOPMENT_LEVEL:0 "[TITLE.GetName]の[development|E]レベルが$VALUE|=0+$変化するでしょう"
  CHANGE_DEVELOPMENT_PROGRESS:2 "[development|E]進捗が$VALUE|0+$増加します"
- CHANGE_DEVELOPMENT_PROGRESS_NEG:1 "[development|E]進捗が$VALUE|0-$減少しました"
+ CHANGE_DEVELOPMENT_PROGRESS_NEG:1 "[development|E]進捗が$VALUE|0-$減少します"
  THEY_CHANGE_DEVELOPMENT_PROGRESS:1 "[TITLE.GetName]の[development|E]進捗が$VALUE|0+$増加するでしょう"
  THEY_CHANGE_DEVELOPMENT_PROGRESS_NEG:1 "[TITLE.GetName]の[development|E]進捗が$VALUE|0-$減少するでしょう"
  CHANGE_COUNTY_CONTROL:0 "[control|E]レベルが$VALUE|=0+$変化するでしょう"

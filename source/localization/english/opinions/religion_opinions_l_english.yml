@@ -1,7 +1,7 @@
 ﻿l_english:
  tenet_excommunicated_crime:0 "[GetTrait('excommunicated').GetName( GetNullCharacter )]"
  tenet_divine_marriage_opinion:0 "Has a Divine Marriage"
- tenet_fellow_pacifist_opinion:0 "仲間の平和主義者"
+ tenet_fellow_pacifist_opinion:0 "同輩の平和主義者"
  tenet_communal_identity_opinion:0 "Communal Identity"
  tenet_temporal_condemnation_crime:0 "Temporal Condemnation"
  followed_the_chakravarti_opinion:0 "Converted for the Chakravarti"

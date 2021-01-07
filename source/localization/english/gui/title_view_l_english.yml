@@ -59,7 +59,7 @@
  USURP_TITLE_TOOLTIP_TITLE:1 "#T [TITLE.GetBaseName]を簒奪#!"
  USURP_TITLE_CONFIRM:0 "[TITLE.GetHolder.GetName]から[TITLE.GetName]を簒奪します。\n コスト:\n[gold_i]$GOLD|0V$\n\n私が[prestige_i]$PRESTIGE|0V$を獲得します"
  USURP_TITLE_CONFIRM_ACCEPT:0 "簒奪"
- CREATE_TITLE_HOLDER_HAS_LAND:3 "@warning_icon!#X あなたの[faith|E]が[Concept( 'faith_hostility', 'Hostile' )|E]またはより悪いものとだとみなしている者がその[de_jure|E]のいずれかを支配している間は、その[title|E]を簒奪することはできません#!"
+ CREATE_TITLE_HOLDER_HAS_LAND:3 "@warning_icon!#X あなたの[faith|E]が[Concept( 'faith_hostility', '敵対的' )|E]またはより悪いものとだとみなしている者がその[de_jure|E]のいずれかを支配している間は、その[title|E]を簒奪することはできません#!"
  DESTROY_TITLE_VASSAL_OPINION:1 "[TITLE.GetName]の[de_jure|E]の[vassals|E]は$TIME|V$日間あなたへの評価を$OPINION_CHANGE|N$失います"
  CREATE_TITLE_TOOLTIP_PRESTIGE_GAIN:1 "作成時、あなたは[prestige_i]$PRESTIGE|0V$を得ます"
  CREATE_TITLE_COST:0 "コスト: [gold_i]$GOLD|0V$"

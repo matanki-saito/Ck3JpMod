@@ -10,4 +10,4 @@
  MULTIPLAYER_LOBBY_PLAYED_BY_YOU:0 "あなたの人物"
  FAITH_LOBBY_WINDOW:0 "[Faith.GetAdjectiveNoTooltip]"
  CULTURE_LOBBY_WINDOW:0 "[Culture.GetNameNoTooltip]"
- MULTIPLAYER_LOBBY_RULER_DESIGNING:0 "#N In the Ruler Designer#!"
+ MULTIPLAYER_LOBBY_RULER_DESIGNING:0 "#N ルーラーデザイナー#!"

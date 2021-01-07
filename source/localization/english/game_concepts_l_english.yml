@@ -1519,7 +1519,7 @@
  game_concept_vote_strength:0 "票数"
  game_concept_tribal_holdings:0 "部族所領"
  game_concept_tribes:0 "Tribes"
- PROWESS_MUSCLE_INFO:0 "Increasing prowess will increase a Character's muscle mass."
+ PROWESS_MUSCLE_INFO:0 "武勇を上げると人物の筋肉量が増加します。"
  PROWESS_MUSCLE_INFO_PERSONAL:0 "[prowess|E]を上げると人物の筋肉量が増加します"
  game_concept_hostage:0 "人質"
  game_concept_hostages:0 "人質"

@@ -54,7 +54,7 @@
  child_personality.0008.c:0 "どこに行っても召使いの目が光っているのには、うんざりだ！"
  child_personality.0009.t:0 "子供の説教師"
  child_personality.0009.desc:0 "私は[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('child_preacher'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('child_preacher'))][child_preacher.GetTitledFirstName]がほかの子供たちに[child_preacher.GetFaith.random_GoodGodName]について説いて聞かせているのを見た。子供たちはしばらくは大笑いして横目で見ていたが、やがて[child_preacher.GetHerHim]を突き飛ばそうとした。こうした嘲けりにもかかわらず、[child_preacher.GetSheHe]は最初の一撃をくらうまで説教を続けようとした。"
- child_personality.0009.desc_fallback:0 "私は友達が他の子供たちに[ROOT.Char.GetFaith.random_GoodGodName]について説いて聞かせているのを見た。子供たちはしばらくは大笑いして横目で見ていたが、やがて私の友達をを突き飛ばそうとした。こうした嘲けりにもかかわらず、私の友達は最初の一撃をくらうまで説教を続けようとした。"
+ child_personality.0009.desc_fallback:0 "私は友達が他の子供たちに[ROOT.Char.GetFaith.random_GoodGodName]について説いて聞かせているのを見た。子供たちはしばらくは大笑いして横目で見ていたが、やがて私の友達を突き飛ばそうとした。こうした嘲けりにもかかわらず、私の友達は最初の一撃をくらうまで説教を続けようとした。"
  child_personality.0009.a:0 "守ってあげよう！"
  child_personality.0009.a.tt:1 "こんなことをしていたら君は怪我をするぞ。"
  child_personality.0009.b:0 "今すぐ皆を止めて、話を続けてもらおう。"

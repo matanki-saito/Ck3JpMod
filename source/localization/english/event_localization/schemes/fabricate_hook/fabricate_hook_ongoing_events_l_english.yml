@@ -21,5 +21,5 @@
  fabricate_hook_ongoing.0004.b.success:0 "あなたは[target.GetHerHim]について学ぶ"
  fabricate_hook_ongoing.0004.b.failure:0 "あなたが[target.GetSheHe|U]に発見される"
  fabricate_hook_ongoing.0004.b:0 "これにはじっくりと時間をかけよう。"
- fabricate_hook_ongoing.0005.desc:0 "People describe [target.GetTitledFirstName] as both [target.Custom('ComplimentAdjective')] and [target.Custom('InsultAdjective')], which tells me more about their relationship to [target.GetHerHim] than anything else.\n\nAlso, a curious number of people mention how often [target.GetSheHe] [ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('target'))] and talks about [target.Custom('herhis_subject_of_interest')]."
+ fabricate_hook_ongoing.0005.desc:0 "人々は[target.GetTitledFirstName]を[target.Custom('ComplimentAdjective')]と[target.Custom('InsultAdjective')]の両方として表現しているが、これは私に人々と[target.GetHerHim]との関係を何にもまして教えてくれる。\n\nまた、好奇心旺盛な人々は、[target.GetSheHe]が[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('target'))]、[target.Custom('herhis_subject_of_interest')]についてたびたび話をすることに言及している。"
  fabricate_hook_ongoing.0005.a:0 "この情報はきっと役に立つだろう。"

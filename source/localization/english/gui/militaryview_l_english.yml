@@ -14,7 +14,7 @@
  LEVIES_MAX:0 "$RAISE_MAX|V$"
  LEVIES_NOT_MAX:0 "$CURRENT|V$/$RAISE_MAX|V$"
  LEVIES_TOOLTIP:0 "#T 未召集の[levies|E]: $CURRENT|0V$/$RAISE_MAX|0V$#!"
- LEVIES_AFFECTED_BY_COUNTIES_HEADER:0 "#T The number of [rally_point|E] [levies|E] is lowered#!"
+ LEVIES_AFFECTED_BY_COUNTIES_HEADER:0 "#T [rally_point|E]の[levies|E]の数が低下#!"
  LEVIES_AFFECTED_BY_COUNTY_CONTROL:0 "@warning_icon!#X [rally_point|E]が低い[county_control]の伯爵領を抱えています#!"
  FROM_DOMAIN:0 "[domain|E]から"
  FROM_VASSALS:0 "[vassals|E]から"
