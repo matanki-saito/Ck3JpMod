@@ -180,7 +180,7 @@
  seduce_ongoing.1601.a.tt:0 "[target.GetSheHe]は宗教の話が聞きたいはずだ。"
  seduce_ongoing.1601.b:0 "『[SCOPE.Custom('RandomEntertainmentTextName')|U]』、楽しもう！"
  seduce_ongoing.1601.b.tt:0 "[target.GetSheHe]は面白い話が聞きたいはずだ。"
- seduce_ongoing.1601.c:0 "『[SCOPE.Custom('RandomInformativeTextName')|U] 』は我らに学ぶ機会を与えてくれる。."
+ seduce_ongoing.1601.c:0 "『[SCOPE.Custom('RandomInformativeTextName')|U] 』は我らに学ぶ機会を与えてくれる。"
  seduce_ongoing.1601.c.tt:0 "[target.GetSheHe]は有益な話が聞きたいはずだ。"
  seduce_ongoing.1603.desc:0 "宴会の余興が終わると退屈な夜になりそうだったが、[owner.GetTitledFirstName]が[SCOPE.Custom('BookInQuestion')]の朗読を提案してくれて助かった！"
  seduce_ongoing.1603.a:0 "私も大好きです！"

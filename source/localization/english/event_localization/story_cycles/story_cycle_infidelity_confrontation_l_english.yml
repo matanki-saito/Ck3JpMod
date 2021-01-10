@@ -28,7 +28,7 @@
  infidelity_confrontation.1000.break_up:0 "[infidelity_partner.GetSheHe]は私の注意を引くに値しないと#EMP わかっていた#!。"
  infidelity_confrontation.1000.expose:0 "あなたの下劣な不倫は世間に知れ渡るだろう！"
  infidelity_confrontation.1000.blackmail:0 "きっと、あなたはこれを秘密にしておきたいはずだ…"
- infidelity_confrontation.1000.imprison:0 "愛は地下牢であなたを暖めるだろう"
+ infidelity_confrontation.1000.imprison:0 "愛は地下牢であなたを暖め続けるだろう。"
  infidelity_confrontation.1000.opt_out:0 "考える時間が必要だ…"
  infidelity_confrontation.1000.opt_out.knew:0 "この茶番劇にはうんざりだ。"
  infidelity_confrontation.1000.opt_out.blackmail.tt:0 "私は[infidelity_partner.GetShortUIName]を[blackmailing|E]するか、[infidelity_partner.GetHerHim]を同じ辛い目に合わせるか、あるいは[infidelity_partner.GetHerHim]を許すことを検討できる"

@@ -292,6 +292,6 @@
  pilgrimage.5921.b:0 "$pilgrimage.4001.b$"
  pilgrimage.9001.t:0 "$pilgrimage_header$ 帰還"
  pilgrimage.9001.desc:0 "私の旅は長いものであったが、私は再び家に戻ってきた。なにが変わったというわけでもないが[ROOT.Char.GetFaith.PriestNeuterPlural]と[ROOT.Char.GetFaith.BishopNeuterPlural]が私をどのように扱うかで何かが変わった気がする。\n\n私は聖なる[ROOT.Char.GetWomanMan]の旅を経験した。私自身がどう感じているかはともかく、周りの人は、何かが変わったと言ってきた。"
- pilgrimage.9001.a:0 "我が家がやっぱりいい"
+ pilgrimage.9001.a:0 "我が家がやっぱりいい。"
  pilgrimage.2005.desc_close:0 "これらの領土の[ROOT.Char.GetTitleAsNameNoTooltip]についての話です。」"
  pilgrimage.2005.desc_far:0 "[title.GetNameNoTierNoTooltip]と言うどこか遠く離れた場所の[ROOT.Char.GetTitleAsNameNoTooltip]の話です。」"

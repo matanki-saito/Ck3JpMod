@@ -34,7 +34,7 @@
  start_abduct:0 "誘拐する #weak (計画)#!"
  start_abduct_notification:0 "誘拐"
  break_up_with_lover_interaction:0 "恋人と別れる"
- break_up_with_lover_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]との[lover|E][relation|E]が終了します"
+ break_up_with_lover_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]との[relation|E]([lover|E])が終了します"
  break_up_with_lover_interaction_notification:0 "恋人と別れた"
  blackmail_interaction:0 "恐喝"
  blackmail_interaction_desc:0 "[secret|E]を使用して[hook|E]を手に入れます"

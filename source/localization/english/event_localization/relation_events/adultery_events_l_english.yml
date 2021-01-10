@@ -98,7 +98,7 @@
  adultery.1004.reaction_lunatic:0 "私を見つめる[mother.GetTitledFirstName]は、いつになく頭がはっきりしているようだ。その瞳に翳りがさす。「密偵たちはもうあなたに教えたの？」"
  adultery.1004.reaction_positive_opinion:0 "「理解してほしいのです、あなたを傷つけたくはありません。」涙が[mother.GetTitledFirstNamePossessive]の顔を流れている。"
  adultery.1004.reaction_negative_opinion:0 "[mother.GetTitledFirstNamePossessive]の唇が[mother.GetHerHis]の硬直した表情に細い線を描いている。「ほっとしています。」"
- adultery.1004.default_admission:0 "\n\n長い沈黙の後、[mother.GetSheHe]はついにそれを認める。\"[real_father.GetTitledFirstName]が我が子の本当の父親だ。\""
+ adultery.1004.default_admission:0 "\n\n長い沈黙の後、[mother.GetSheHe]はついにそれを認める。「[real_father.GetTitledFirstName]が子供の本当の父親です。」"
  adultery.1004.a:0 "どうしてこんなことに？考える時間が必要だ。"
  adultery.1004.a.tt:0 "私は自分の秘密を守る。 今のところは。"
  adultery.1004.b:0 "この秘密は私たちだけのものにしなければ！"
