@@ -1,6 +1,6 @@
 ﻿l_english:
  fabricate_hook_header:0 "捏造によるフック:"
- fabricate_hook_hook_gained_on_you:0 "@warning_icon [owner.GetShortUIName] has fabricated a [hook|E] on you!"
+ fabricate_hook_hook_gained_on_you:0 "@warning_icon [owner.GetShortUIName]があなたに対する[hook|E]を捏造しました！"
  fabricate_hook_outcome.0001.t:1 "$fabricate_hook_header$ 秘密"
  fabricate_hook_outcome.0001.desc:0 "[target.GetTitledFirstName] は何かを隠しているようだ。これは幸運だ。 [target.GetHerHim]を捕らえる方法を工夫する必要がない。"
  fabricate_hook_outcome.0001.a:0 "[target.GetHerHim]に知らせればいいだけだが…"

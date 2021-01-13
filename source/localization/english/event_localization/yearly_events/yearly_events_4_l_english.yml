@@ -27,7 +27,7 @@
  yearly.4021.c_failure:0 "[child.GetTitledFirstNameNoTooltip]は[child.GetHerHis]の行動が大した結果ではなかったのだと学ぶ"
  yearly.4021.d:0 "[child.GetHerHim]を許してくれ！頼む、私は何でもするから…"
  yearly.4022.t:0 "帰還"
- yearly.4022.desc:0 "「やあ、[child.Custom2('RelationToMeShort', ROOT.Char)]」 [actor.GetTitledFirstNamePossessive]の刑務所で過ごした後の[ROOT.Char.Custom2('MyCharacterIntroduction', SCOPE.sC('child'))]は少しやつれているように見えるが、顔つきが変わった[child.Custom('quirk_neg_adjective')]の笑顔は、[child.GetHerHim]を今まで以上に生き生きとさせている。\n\n「刑期を務めることを教えてくれたあなたにお礼を言うのが待ちきれない」"
+ yearly.4022.desc:0 "「やあ、[child.Custom2('RelationToMeShort', ROOT.Char)]」 [actor.GetTitledFirstNamePossessive]の刑務所で過ごした後の[ROOT.Char.Custom2('MyCharacterIntroduction', SCOPE.sC('child'))]は少しやつれているように見えるが、顔つきが変わった[child.Custom('quirk_neg_adjective')]の笑顔は、[child.GetHerHim]を今まで以上に生き生きとさせている。\n\n「刑期を務めることを教えてくれたあなたにお礼を言うのが待ちきれない。」"
  yearly.4022.a:0 "おかえり、[child.GetFirstNameNoTooltip]。"
  yearly.4031.t:0 "獅子身中に虫あり"
  yearly.4031.desc_opening:0 "扉を開くより先に、むせかえるような肉の匂いが鼻を突いた。それは死んでまもない死体が放つ死臭だった。\n\n"

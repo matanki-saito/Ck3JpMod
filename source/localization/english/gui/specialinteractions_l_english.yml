@@ -321,7 +321,7 @@
  divorced_me_opinion:0 "私と離婚した"
  divorced_close_kin:0 "[close_family|E]と離婚した"
  set_me_aside_opinion:0 "Set Me Aside"
- temporal_condemnation_opinion:0 "Temporal Condemnation"
+ temporal_condemnation_opinion:0 "世俗的な非難"
  temporal_condemnation_condemned_me_opinion:0 "私を非難した"
  FACTION_CANT_JOIN_CREATE_ADULT_INT:0 "未成年の間に派閥を形成あるいは参加することはできません"
  CREATE_HOLY_ORDER_DECISION_NAME_LABEL:0 "名称:"

@@ -12,7 +12,7 @@
  fabricate_hook_ongoing.0003.desc:0 "私のスパイが、[target.GetTitledFirstNamePossessive]の[target.Custom('ResidenceBuilding')]における私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]の使用人と接触した。"
  fabricate_hook_ongoing.0003.desc_ending:0 "\n\n適切な動機さえ得られれば、[dummy_servant_gender.GetSheHe]は、喜んで[target.GetTitledFirstNameNoTooltip]の#EMP 噂#!を流し始めるだろう、[target.GetSheHe]が見た目ほど[target.Custom('FormalComplimentAdjective')]ではないのだと！"
  fabricate_hook_ongoing.0003.a:0 "[target.GetHerHis]の評判を台無しにしてやろう！"
- fabricate_hook_ongoing.0003.a_gregarious:0 "You #EMP know#! it's the right things to do."
+ fabricate_hook_ongoing.0003.a_gregarious:0 "#EMP 分かってるだろ#!、それは行うべきことだ。"
  fabricate_hook_ongoing.0003.b:0 "[target.GetHerHim]のそばに気の合った耳があるだけで十分だ。"
  fabricate_hook_ongoing.0003.b_lustful:0 "あるいは#EMP 我々#!は代わりにここで何かを始められるかも…"
  fabricate_hook_ongoing.0004.t:0 "$fabricate_hook_header$ 好みの問題"

@@ -241,7 +241,7 @@
  yearly.8300.t:0 "軍資金への貢献"
  yearly.8300.desc:0 "空っぽになりかけた金庫を恐れて見ていると、私の伝令官が我が封臣の四人が到着したと連絡してきた。\n\n[vassal_1.GetTitledFirstName]が発表しました。「我が主、我々は金貨を持って参りました。 敵に打ち勝つための出資でございます！」\n\n「我らも同じくと[vassal_2.Custom('FormalComplimentAdjective')][vassal_2.GetTitledFirstName]、[vassal_3.Custom('FormalComplimentAdjective')][vassal_3.GetTitledFirstName]、[vassal_4.Custom('FormalComplimentAdjective')][vassal_4.GetTitledFirstName]も続いた —— 我らを勝利にお導きください！」"
  yearly.8300.a:0 "君らの寛大さを歓迎します！"
- yearly.8300.b:0 "#emphasis 金貨#!とお前らは言ったか？衛兵、 #emphasis それを全部掴んで持ってこい。#!"
+ yearly.8300.b:0 "#emphasis 金貨#!とお前らは言ったか？衛兵、#emphasis それを全部掴んで持ってこい。#!"
  yearly.8300.c:0 "諸君らのあまりの気前良さは善しとするが、気持ちだけ受け取っておくぞ。"
  yearly.8300.d:0 "金貨？私はむしろお前の#emphasis 下着を徴収したい！#!"
  yearly.8400.t:0 "常軌を逸した倒錯者"

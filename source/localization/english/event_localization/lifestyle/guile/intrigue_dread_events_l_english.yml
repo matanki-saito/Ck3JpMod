@@ -66,7 +66,7 @@
  intrigue_dread.1501.b.tt1:0 "なんとかして厨房に忍び込むことに成功する"
  intrigue_dread.1501.b.tt2:0 "[cannibal_cook.GetSheHe|U]はどうにかレシピを秘密にしておく"
  intrigue_dread.1501.c:0 "ローズマリーと人肉か？素晴らしい選択だ！"
- intrigue_dread.1502.desc:0 "私が台所に入ると、暗くて何もない、煙で空気が重くなっている。片隅に[cannibal_cook.GetTitledFirstNamePossessive]の料理本があり、シミだらけだ。\n\n#EMP 肝臓を調理する際に、ビールの過剰摂取は臓器の質を著しく低下させることがあることが指摘されている——#!\nページをめくると胸に寒気がこみ上げてくる。\n#EMP …ただし、以下の年齢以下の幼児を調理する場合は——#!"
+ intrigue_dread.1502.desc:0 "私が台所に入ると、暗くて何もない、煙で空気が重くなっている。片隅に[cannibal_cook.GetTitledFirstNamePossessive]の料理本があり、シミだらけだ。\n\n#EMP 肝臓を調理する際に、ビールの過剰摂取は臓器の質を著しく低下させることがあることが指摘されている——#!\nページをめくると胸に寒気がこみ上げてくる。\n#EMP …ただし、下記の年齢以下の幼児を調理する場合は——#!"
  intrigue_dread.1502.a:0 "[cannibal_cook.GetHerHis]の首を持って来い！"
  intrigue_dread.1502.a.flavor:0 "でも皿の上には置くな"
  intrigue_dread.1502.b:0 "地下牢に[cannibal_cook.GetHerHim]を投獄しろ！"

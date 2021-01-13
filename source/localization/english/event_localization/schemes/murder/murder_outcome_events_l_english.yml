@@ -4,7 +4,7 @@
  murder_outcome_murdered_rival_tt:1 "あなたの[rival|E]より長生きするために:"
  murder_unknown_murder_against_you_was_successful:0 "#X あなたは不明な暗殺者によって暗殺されました！#!"
  murder_outcome.1001.t:0 "暗殺者！"
- murder_outcome.1001.d:0 "時は満ちた。私の刺客は配置についた。一人目がアサシンに金を払ったまさにその夜、計画は実行されるであろう。二人目が標的までの障害が存在しないことを保証し、三人目が[target.GetTitledFirstNamePossessive]の寝室にある燭台に微かな痕跡を残すだろう。\n\nすべての準備は整った。"
+ murder_outcome.1001.d:0 "時は満ちた。私の密偵たちは位置についた。その一人がまさに計画実行の夜、暗殺者に金を払う。二人目は城壁が無警戒なことを確かめる。三人目が[target.GetTitledFirstNamePossessive]の寝室まで蝋燭の微かな道しるべを残すのだ。\n\nすべての準備は整った。"
  murder_outcome.1001.a:0 "やれ。"
  murder_outcome.1001.b:0 "まて、まだ準備ができていない。"
  murder_outcome.1002.t:0 "見知らぬ人から"

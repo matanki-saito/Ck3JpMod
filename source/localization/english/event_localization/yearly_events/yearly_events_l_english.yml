@@ -18,7 +18,7 @@
  yearly.0002.desc:0 "我が[councillor.Custom('CouncilPosition')]として忠実に仕えていたので、私は[councillor.GetTitledFirstName]に宮廷内を自由に動く権利を与えた。\n\nしかし今[councillor.GetSheHe]は私の厚遇を利用して、我が[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child') )][child.GetFirstName]と恋仲になったということを知った！"
  yearly.0002.a:0 "彼らが罪を免れるためには結婚するしかない。"
  yearly.0002.c:0 "刃向うというのなら[councillor.GetFirstNameNoTooltip]には獄中で朽ち果ててもらおう！"
- yearly.0002.d:0 "表ざたにはしたくない…"
+ yearly.0002.d:0 "表沙汰にはしたくない…"
  yearly.0003.t:0 "禁じられた愛"
  yearly.0003.start.desc:0 "最初は冗談だと思っていた——我が[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetFirstName]と[relative.Custom2('HerHisCharacterIntroductionNoComma', SCOPE.sC('child'))]がどうやって恋人同士になったというのだ！？だが、私のスパイが入手した手紙は"
  yearly.0003.dislikes_incest.desc:0 "[child.GetWomanMan]が決して持ってはならない[child.GetHerHis]の[child.Custom2('RelationToMeShort', SCOPE.sC('relative'))]との出会いを描いている…"

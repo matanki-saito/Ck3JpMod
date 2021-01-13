@@ -33,7 +33,7 @@
  spymaster_task.0344.b:0 "私は完全に正当化されている。誰も私を裁くことはできぬ。"
  spymaster_task.0345.t:0 "諜報: 食人"
  spymaster_task.0311.secret_cannibal.shared:0 "\n\n[secret_holder.GetSheHe|U]は人生のより細部を楽しんでいるようだ。[ROOT.Char.Custom('RegionalDrink')]を1杯と、赤くて柔らかい肉をひと口。"
- spymaster_task.0311.secret_cannibal:0 "\n\nなんといっても[secret_holder.GetSheHe]は人肉で[secret_holder.GetHerHis]の空腹を満たしている！もっと気分が悪くなるようなことが他にあるのか？"
+ spymaster_task.0311.secret_cannibal:0 "\n\nなんといっても[secret_holder.GetSheHe]は人肉で[secret_holder.GetHerHis]の空腹を満たしている！これ以上に気分が悪いことが他にあろうか？"
  spymaster_task.0345.a.cannibal:0 "近いうちに[secret_holder.GetSheHe]がごちそうしてくれるといいな。"
  spymaster_task.0345.a:0 "ああ、穢らわしい人間だな。奴は私に嫌悪感をこれからも与え続けるのか？"
  spymaster_task.0346.t:0 "諜報: 愛人"

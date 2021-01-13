@@ -1139,7 +1139,7 @@
  game_concept_long_reign_desc:0 "'長い治世'は長期に渡って統治を行っている[liege|E]に対して[realm|E]の全てのキャラクターが持つ徐々に増加する[opinion|E]ボーナスです。\n\n同様に、新しい主君に対して臣民たちは徐々に減少する[short_reign|E]評価ペナルティを持ちます。"
  game_concept_troop_quality:0 "練度"
  game_concept_troop_quality_desc:0 "$game_concept_troop_quality$は、[soldiers|E]の数と関連した[army|E]の強さの示す。\n\n[knights|E]と[men_at_arms|E]のみで構成される$game_concept_army$は$game_concept_troop_quality$が高いのに対して、多くの[levies|E]で構成される$game_concept_army$は$game_concept_troop_quality$が低い。\n\n$game_concept_troop_quality$の高い小さな$game_concept_army$は、彼らの重量以上の力を発揮するということである——敵と交戦する前に兵士の数#Emphasis と#!$game_concept_troop_quality$の両方を慎重に考慮すべし！"
- game_concept_religious_family:0 "宗教的な家族"
+ game_concept_religious_family:0 "宗教グループ"
  game_concept_religious_families:0 "宗教的な家族"
  game_concept_religious_family_desc:0 "$game_concept_religious_family$は、[religions|E]的なグループである。$game_concept_religious_family$は、さまざまな宗教とその[faiths|E]がお互いをどのように見ているかに影響を与える。\n\n[GetReligionFamily('rf_abrahamic').GetName]のグループは、誰に対しても#weak (他のアプラハムの宗教を含む)#! [holy_wars|E]を容認する。宗教は[heresy|E]の影響を受けやすい。\n\n[GetReligionFamily('rf_eastern').GetName]のグループは、他の宗教的グループに対する聖戦を容認するのみである。\n\n[GetReligionFamily('rf_pagan').GetName]のグループは、誰に対しても聖戦を容認するが、聖戦を利用するためにはその宗教の信仰が改革される必要がある。"
  game_concept_debt:0 "借金"

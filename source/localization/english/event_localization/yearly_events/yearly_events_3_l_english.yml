@@ -86,7 +86,7 @@
  yearly.3041.b:1 "人手を他のところに集中させなさい。"
  yearly.3041.c:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]の務めを行なっているのは#EMP 私#!だ！"
  yearly.3051.t:0 "権利によって"
- yearly.3051.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]が[county.GetName]では [ROOT.Char.GetTitleAsNameNoTooltip]以外は保護者になれないという曖昧な法律について教えてくれました。\n\n通常ではこのような古臭い法律など却下されるが、この法律に則れば、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal'))]であり[county.GetNameNoTooltip]の現在の領主である[vassal.GetTitledFirstName]の土地を乗っ取る、またとない口実が転がり込んでくることになる。"
+ yearly.3051.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]が[county.GetName]では [ROOT.Char.GetTitleAsNameNoTooltip]以外は保護者になれないという曖昧な法律について教えてくれた。\n\n通常ではこのような古臭い法律など却下されるが、この法律に則れば、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal'))]であり[county.GetNameNoTooltip]の現在の領主である[vassal.GetTitledFirstName]の土地を乗っ取る、またとない口実が転がり込んでくることになる。"
  yearly.3051.a:0 "その法律によれば明確に、[ROOT.Char.GetTitleAsNameNoTooltip]が全ての権利を持っているのだ！"
  yearly.3051.b:0 "だが、我が恩寵で[vassal.GetFirstNameNoTooltip]は自身の称号を保持するのは構わない。"
  yearly.3061.t:0 "カゴへの対処"

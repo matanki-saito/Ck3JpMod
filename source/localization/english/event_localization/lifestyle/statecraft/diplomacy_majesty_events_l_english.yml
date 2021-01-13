@@ -81,7 +81,7 @@
  diplomacy_majesty.4090.b.success:0 "私は[me.GetTitleAsNameNoTooltip]に合った衣装を得る"
  diplomacy_majesty.4090.b.success.tt:1 "あなたの見事な新しい衣装は、本当に[me.GetTitleAsNameNoTooltip]にピッタリです！"
  diplomacy_majesty.4090.b.failure:0 "退屈で印象に残らない服を得る"
- diplomacy_majesty.4090.b.failure.tt:1 "あなたの新しい服は誰にも印象づけられません。"
+ diplomacy_majesty.4090.b.failure.tt:1 "あなたの新しい服は誰にも印象づけられない。"
  diplomacy_majesty.4090.c:0 "私の支配を正当化する#EMP もの#!は必要ない！"
  diplomacy_majesty.4090.c.zealous:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]のしもべに華美な装飾は必要ない！"
  diplomacy_majesty.4090.d.lunatic.male:0 "下着は足の牢獄以外の何物でもない！"
