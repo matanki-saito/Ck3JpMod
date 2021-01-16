@@ -21,7 +21,7 @@
  murders_at_court.1003.desc_opening:0 "私は[spouse.GetTitledFirstName]を、二人の寝室で見つけた。床には[spouse.GetHerHis]の血だまりが広がっていた。"
  murders_at_court.1003.desc_like:0 "私は泣きながら床に倒れ込み、[spouse.GetHerHim]を胸に抱き締める"
  murders_at_court.1003.desc:1 "私は床に倒れ込み、[spouse.GetHerHim]を胸に抱き締める"
- murders_at_court.1003.desc_end:0 "– [spouse.GetSheHe]はとても冷たい… あああ[ROOT.Char.GetFaith.HighGodName]よ、なぜ[spouse.GetSheHe]の体はこんなにも冷たくなっているのですか！？"
+ murders_at_court.1003.desc_end:0 "——[spouse.GetSheHe]はとても冷たい… あああ[ROOT.Char.GetFaith.HighGodName]よ、なぜ[spouse.GetSheHe]の体はこんなにも冷たくなっているのですか！？"
  murders_at_court.1004.t:1 "宮廷での殺人: 我が子"
  murders_at_court.1004.desc:0 "私は、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('child'))]である[child.GetTitledFirstName]が[child.GetHerHis]のベッドの中で——冷たくなって死んでいるのを発見した。寝具は血の海で、その滴がベッドの下の床をゆっくりと叩く#EMP ポタポタ#!という音が室内に響いているようだ。"
  murders_at_court.2001.t:1 "宮廷での殺人: 拡大"

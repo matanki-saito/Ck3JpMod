@@ -183,7 +183,7 @@
  NOT_ATTACHED_TO_ANY_UNIT:0 "@warning_icon!#X 他の[army|E]に追随していません#!"
  ATTACHED_ARMY_NAME:0 "追随中:\n[Army.GetName]"
  ATTACH_TO_ARMY_WINDOW_HEADER:0 "軍勢に追随"
- ATTACH_TO_ARMY_WINDOW_TEXT:0 "Select an [army|E] in [ArmyWindow.GetArmy.GetLocation.GetName] for [ArmyWindow.GetArmy.GetName] to follow."
+ ATTACH_TO_ARMY_WINDOW_TEXT:0 "[ArmyWindow.GetArmy.GetLocation.GetName]において[ArmyWindow.GetArmy.GetName]が追随する[army|E]を選択します"
  TOGGLE_ATTACH_TO_UNIT_WINDOW:0 "軍勢に追随"
  ATTACH_TO_UNIT_WINDOW_TEXT:0 "[AttachToArmyWindow.GetSelectedArmy.GetName]に追随"
  ATTACH:1 "追随"

@@ -14,7 +14,7 @@
  south_asia.0004.desc:0 "インドの地から大勢の預言者たちが到着し、彼らの「チャクラヴァルティ」の台頭を告げ、[chakravarti.GetHerHis]の博愛に熱狂している。"
  south_asia.0004.text:0 "\n\n[chakravarti.GetTitledFirstName]は巨大な儀式と信者の大群がその足下にあり、全世界の正当な支配者の外殻として公認している。"
  south_asia.0004.a:0 "[chakravarti.GetSheHe]は新たなる脅威となるのか、それとも偉大な同盟者か？"
- south_asia.0004.b:0 "異教徒はおろかな主張を続けることができます!"
+ south_asia.0004.b:0 "異教徒はおろかな主張を続けることができる！"
  south_asia.0011.t:0 "神聖な海域"
  south_asia.0011.desc:0 "日の出から日没まで、一日中、流れる川の中に腰の高さまで浸かって立つ。手で川の水をすくい、水を空に向けて上げては降ろす。何度も何度も。\n\n乾いた陸地に戻る頃には寒さで震えていたが、そこでは部下の[ROOT.Char.GetFaith.PriestNeuterPlural]が迎えてくれた。私は今日、私の手に流れた水だけでなく、川全体、そしてその中を流れる永遠の存在を守ることを誓った。"
  south_asia.0011.a:0 "[ROOT.Char.GetFaith.HighGodName]へのわが献身を疑う者はない。"

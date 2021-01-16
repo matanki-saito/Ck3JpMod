@@ -320,7 +320,7 @@
  character_to_guard_exists:1 "[CHARACTER.GetShortUINamePossessiveNoTooltip]の宮廷に依頼可能な後見人がいません"
  divorced_me_opinion:0 "私と離婚した"
  divorced_close_kin:0 "[close_family|E]と離婚した"
- set_me_aside_opinion:0 "Set Me Aside"
+ set_me_aside_opinion:0 "私を退けた"
  temporal_condemnation_opinion:0 "世俗的な非難"
  temporal_condemnation_condemned_me_opinion:0 "私を非難した"
  FACTION_CANT_JOIN_CREATE_ADULT_INT:0 "未成年の間に派閥を形成あるいは参加することはできません"

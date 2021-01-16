@@ -19,7 +19,7 @@
  house_arrest_ongoing.0004.desc1:0 "「君が自分の本と巻物をなくして寂しいだろうと思ってね、少しばかり市場から買ってきたよ！」"
  house_arrest_ongoing.0004.desc2:0 "「君がケーキが大好きだって知っているのでね、あの料理人は気が利かないから、ほら…」"
  house_arrest_ongoing.0004.desc3:0 "「このブレスレットを今日、町で見つけてね、君がこれを愛していたことを知っていたから、どうぞ、着けてみて！」"
- house_arrest_ongoing.0004.desc4:0 "「看守を説得出来たのはただこの程度だけど、庭の散歩で君の心が晴れたらいいと思うんだ!」"
+ house_arrest_ongoing.0004.desc4:0 "「看守を説得出来たのはただこの程度だけど、庭の散歩で君の心が晴れたらいいと思うんだ！」"
  house_arrest_ongoing.0004.desc:0 "\n\n親愛なる[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend_at_court') )]、[friend_at_court.GetTitledFirstName]はいつも私を気にかけ、私の刑がより楽になるよう努力してくれる。"
  house_arrest_ongoing.0004.a:0 "[friend_at_court.GetHerHim]なしでは、どうなっていたかわからない。"
  house_arrest_ongoing.0005.t:0 "私を苦しめるもの"

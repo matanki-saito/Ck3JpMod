@@ -33,7 +33,7 @@
  SUCCESSION_ELECTION_ELECTOR_ENTRY:0 "[CHARACTER.GetShortUINameNotMe]: $STRENGTH|V$"
  SUCCESSION_ELECTION_CANDIDATE_SCORE:0 "スコア: [SuccessionElectionWindowElectorVote.GetScore|+]"
  SUCCESSION_ELECTION_ELECTOR_PREFERENCE:0 "私の候補者への好み: [SuccessionElectionWindowElector.GetScoreDiff|+]"
- SUCCESSION_ELECTION_ELECTOR_MY_CHOICE:0 "Second choice"
+ SUCCESSION_ELECTION_ELECTOR_MY_CHOICE:0 "第二の選択"
  SUCCESSION_ELECTION_WINDOW_NOT_ELECTOR:2 "[electors|E]の一人ではないため投票できません"
  SUCCESSION_ELECTION_WINDOW_CANDIDATE:0 "候補者"
  SUCCESSION_ELECTION_WINDOW_RANK:0 "階位: [SuccessionElectionWindow.GetCandidateFromCharacter( SuccessionElectionWindowElector.GetElectorCandidate.GetCandidate ).GetElectionRank]"

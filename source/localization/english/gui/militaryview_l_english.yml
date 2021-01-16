@@ -66,7 +66,7 @@
  MAINTENANCE_COST_PART:0 "維持費: $VALUE$/月"
  REINFORCEMENT_COST_PART:0 "補充: $VALUE$/月"
  TOTAL_MAA_COST:0 "[Regiment.GetTotalCostString]"
- TOTAL_MAA_COST_TOOLTIP:0 "#T Maintenance: [Regiment.GetTotalCostString]/month#!#D 2 decimal pls#!\n#D Reinforcing#!"
+ TOTAL_MAA_COST_TOOLTIP:0 "#T 維持費: [Regiment.GetTotalCostString]/月#!#D 小数第2位#!\n#D 強化#!"
  TT_CAP_TITLE:0 "#T [men_at_arms|E]の連隊限界: $MAX|V$#!"
  TT_CAP_ABOVE:0 "@warning_icon!#X 上限超過: $VALUE|-%0$を追加で支払います！#!"
  TT_CAP_REGIMENT_COUNT:0 "連隊: $VALUE|V$"

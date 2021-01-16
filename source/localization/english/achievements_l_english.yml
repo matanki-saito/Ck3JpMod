@@ -173,4 +173,4 @@
  NOT_ACHIEVEMENT_DESC_moving_up_in_the_world_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_beacon_of_progress_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_mother_of_us_all_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
- rd_character_blocked_from_achievement: "May not be available for characters created in the Ruler Designer"
+ rd_character_blocked_from_achievement: "ルーラーデザイナーで作成された人物は使用できない場合があります"

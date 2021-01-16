@@ -3,7 +3,7 @@
  legitimize_bastard_interaction_extra_icon:0 "$hook_extra_icon$"
  legitimize_bastard_interaction_desc_house_head:1 "$house_head_interaction_header$ [secondary_recipient.GetShortUINameNoTooltip]を[legitimized_bastard|E]と宣言する\n\n#weak これは[secondary_recipient.GetSheHe]が我が[house|E]の[bastard|E]であるため選択できる#!"
  legitimize_bastard_interaction_desc_not_house_head:0 "[recipient.GetShortUINameNoTooltip]があなたの[bastard|E]を[legitimate|E]として認めるよう頼む\n#weak ([recipient.GetShortUINameNoTooltip]はあなたの[house|E]の[house_head_head|E]である)#!"
- legitimize_bastard_interaction_notification:0 "私生児の認知\"
+ legitimize_bastard_interaction_notification:0 "私生児の認知"
  legitimize_bastard_interaction_decline_notification:0 "認知されていない私生児"
  I_AM_HOUSE_HEAD_MODIFIER:0 "私が一族の長だ、私が自由に決める"
  PRESTIGOUS_IN_OUR_HOUSE:0 "名声のレベル: $VALUE|+0$"

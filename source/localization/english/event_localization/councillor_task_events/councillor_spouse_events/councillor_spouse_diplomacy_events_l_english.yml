@@ -12,7 +12,7 @@
  councillor_spouse_diplomacy.2001.desc_mother:0 "[councillor.GetTitledFirstName]はいつもの[councillor.Custom('quirk_pos_noun')]で[councillor.GetHerHis]と我々の[ROOT.Char.Custom('ChildChildrenGender')]を見守っている。「我が子には結婚相手がいなければならない。"
  councillor_spouse_diplomacy.2001.desc:0 "[councillor.GetTitledFirstName]はいつもの[councillor.Custom('quirk_pos_noun')]で[councillor.GetHerHis]と我々の[ROOT.Char.Custom('ChildChildrenGender')]を見守っている。「あなたがたの子には結婚相手がいなければならない。"
  councillor_spouse_diplomacy.2001.desc_end:0 "もし私に彼らの家庭教師をさせてくれたら、すぐに外の通りに求婚者が列をなすことになるだろう！」"
- councillor_spouse_diplomacy.2001.a:0 "我が世継ぎ、[child_heir.GetTitledFirstNameNoTooltip]は家庭教師を得た。"
+ councillor_spouse_diplomacy.2001.a:0 "我が世継ぎ、[child_heir.GetTitledFirstNameNoTooltip]は指導を得るだろう。"
  councillor_spouse_diplomacy.2001.b:0 "全員に指導が必要だ。"
  councillor_spouse_diplomacy.2001.b.all_kids:0 "未婚の我が子たち全員:"
  councillor_spouse_diplomacy.2001.c:0 "その代わり、感謝の仕方を教えてもらおうかな！"

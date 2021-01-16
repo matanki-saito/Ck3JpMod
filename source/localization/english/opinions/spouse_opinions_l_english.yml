@@ -17,5 +17,5 @@
  spouse_trusted_me_opinion:0 "私を信頼した"
  spouse_warned_me_opinion:0 "私に警告した"
  spouse_caused_suspicion_opinion:0 "疑惑を招いた"
- spouse_made_secondary_opinion:0 "Spurned Spouse"
- spouse_made_primary_opinion:0 "Favored Spouse"
+ spouse_made_secondary_opinion:0 "配偶者への拒否"
+ spouse_made_primary_opinion:0 "配偶者への好意"

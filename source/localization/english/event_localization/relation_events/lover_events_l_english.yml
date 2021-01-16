@@ -302,7 +302,7 @@
  lover.3216.b:0 "なぜ[original_lover.GetSheHe]は[original_lover.GetHerHis]の求愛のために他人を送ってきたのだ！？"
  lover.3217.desc:0 "送っていただいた[lover.Custom('MusicalPerformer')]は最高に楽しませてくれています！鳥のように歌い、手に紡錘を持って生まれてきたかのように散文を紡ぎ出してくれます。私は毎日あなたの愛に気づかされ、私の人生はより豊かなものになっています！"
  lover.3217.a:0 "よかった！"
- lover.3218.desc:0 "[ROOT.Char.Custom('LoverPetName')]、私をバカにしてるの？あなたが寄越した[lover.Custom('MusicalPerformer')]は調子を保つのもやっとだった。私が楽しんできた子供向けの散文詩のほうがずっとましだ。"
+ lover.3218.desc:0 "[ROOT.Char.Custom('LoverPetName')]、私をバカにしているのですか？あなたが寄越した[lover.Custom('MusicalPerformer')]は調子を保つのもやっとでした。私が楽しんできた子供向けの散文詩のほうがずっとましです。"
  lover.3218.a:0 "#EMP やはり#!吟遊詩人など行かせるべきではなかった！"
  lover.3219.t:0 "個人的な思い出の品"
  lover.3219.desc:0 "私の[ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))][lover.GetTitledFirstName]は、私の抱擁から遠く離れたところに暮らしている…もし[lover.GetSheHe]が私を思い出せる何か個人的なものを持っていれば、私は安心して休むことができるだろう。"

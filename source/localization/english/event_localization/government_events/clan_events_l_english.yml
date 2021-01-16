@@ -30,7 +30,7 @@
  clan.1101.d:0 "貴様が私の親族になれなかったのは私のせいではない！"
  clan.1101.d.custom:0 "[dynasty|E]の一員でない全ての[vassal|E]"
  clan.1201.t:0 "代表権なし"
- clan.1201.desc:0 "一人の[target_title.GetNameNoTier]出身の[culture.GetNameNoTooltip]人の[petitioner.GetWomanMan]が我が政府の代表の増員を求めて陳情に来ました\n\n「我が[ROOT.Char.GetLadyLord]、我々はあなたの忠実な民です、しかし、我々の地域社会がどのように統治されるかについては発言権がありません 。できれば我々の同胞の一人に統治権を与えて欲しいと頼むのは、そんなに大それたことでしょうか？」"
+ clan.1201.desc:0 "一人の[target_title.GetNameNoTier]出身の[culture.GetNameNoTooltip]人の[petitioner.GetWomanMan]が我が政府の代表の増員を求めて陳情にやってきた。\n\n「我が[ROOT.Char.GetLadyLord]、我々はあなたの忠実な民です、しかし、我々の地域社会がどのように統治されるかについては発言権がありません 。できれば我々の同胞の一人に統治権を与えて欲しいと頼むのは、そんなに大それたことでしょうか？」"
  clan.1201.a:0 "いいだろう。今から[target_title.GetNameNoTierNoTooltip]を統治するのは君にする！"
  clan.1201.b:0 "お前の故郷に便宜してやることもできる。お前の奉仕と引き換えにな..."
  clan.1201.c:0 "ありえない。"

@@ -20,7 +20,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_WOUNDED:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳にしてようやく平穏を取り戻した。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_CHRISTIANITY_1:0 "[ROOT.Char.GetFullNameNoTooltip]は、[ROOT.Char.GetAge]歳でキリストの抱擁の中に平和を見出した。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_CHRISTIANITY_2:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳で主の腕の中に眠る。"
- SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_1:0 "[ROOT.Char.GetFullNameNoTooltip] has left the transient house at the call of the True One at [ROOT.Char.GetAge] years of age."
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_1:0 "[ROOT.Char.GetFullNameNoTooltip]は唯一真なる神の呼ばれ[ROOT.Char.GetAge]歳でこの儚い住処を去った。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_2:0 "[ROOT.Char.GetFullNameNoTooltip]はこの儚い世界を捨てて、[ROOT.Char.GetAge]歳で[ROOT.Char.GetFaith.PositiveAfterLife]へ飛び立った。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_3:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳で永遠となった。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_NORSE_1:0 "[ROOT.Char.GetFullNameNoTooltip]は齢[ROOT.Char.GetAge]で[ROOT.Char.GetFaith.PositiveAfterLife]の宴会の席につけり。"

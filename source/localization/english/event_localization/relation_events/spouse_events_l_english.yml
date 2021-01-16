@@ -38,7 +38,7 @@
  spouse.1003.desc:0 "私は[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )]を心の底から愛しているわけではなく、[spouse.GetFirstName]と一緒に過ごす時間が増えれば増えるほど、その理由がわかってくる。[spouse.GetSheHe]のすることはすべて、ほんの少しだけ私をイライラさせるのだ。"
  spouse.1003.a:0 "私はこの人と共に人生を歩んでいかなければならない。"
  spouse.1004.t:0 "我々が共に過ごす時間"
- spouse.1004.desc:0 "想像がつきません。[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse') )|U]の[first_spouse.GetFirstName]は、お互いに一緒にいる時間が長くなればなるほど苛立ってくるようだ。もし私がもっとよく知らなかったら、私が[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )]を怒らせていたと言っていただろう！"
+ spouse.1004.desc:0 "想像がつかない。[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse') )|U]の[first_spouse.GetFirstName]は、お互いに一緒にいる時間が長くなればなるほど苛立ってくるようだ。もし私がもっとよく知らなかったら、私が[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse') )]を怒らせていたと言っていただろう！"
  spouse.1004.a:0 "しばらくは一緒に過ごす時間を少なくしよう。"
  spouse.2001.t:0 "慰め"
  spouse.2001.opening:0 "これだけ多くのことをする必要があり、時間もほとんどないため、私はそれが愛する[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse') )][spouse.GetFirstName]のためでなかったとしたら、どのように対処していたかわからない。"

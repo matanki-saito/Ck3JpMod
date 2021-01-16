@@ -588,7 +588,7 @@
  converted_from_old_culture_to_new_culture_tt:0 "[old_culture.GetName]から[new_culture.GetName]へ転向した"
  every_old_culture_vassal_holding_new_culture_land:0 "新しい文化の[counties|E]を持ち、あなたの[culture|E]を共有するすべての[vassal|E]"
  every_close_family_member_sharing_your_culture:0 "あなたの文化を共有する近親者"
- every_consort_sharing_your_culture:0 "あなたの文化を共有するすべての配偶者"
+ every_consort_sharing_your_culture:0 "あなたの文化を共有するすべての男妾"
  stress_loss_drunkard_decision:0 "酒に溺れる"
  stress_loss_drunkard_decision_desc:0 "酒飲み仲間との意気投合よ、一杯気分の安らぎよ…さあ、どんちゃん騒ぎで飲んだくれる時間だ！"
  stress_loss_drunkard_decision_tooltip:0 "羽を伸ばし、いくらかのストレスを失います"

@@ -26,5 +26,5 @@
  signature_weapon_slash_present:0 "深く切り込む"
  signature_weapon_crush_present:0 "骨を叩き潰す"
  signature_weapon_pierce_present:0 "深く突き刺す"
- article_a:0 "a"
- article_an:0 "an"
+ article_a:0 ""
+ article_an:0 ""

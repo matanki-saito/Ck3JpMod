@@ -139,7 +139,7 @@
  court_ongoing.1050.c.friend.f:0 "あなたの[helpful_friend.GetShortUINamePossessive]が薬師の特性を持つためこれが選択可能です"
  court_ongoing.1050.d:0 "「廃墟には幽霊が出ると聞いたが…」"
  court_ongoing.1050.e:0 "「あなたの美しい容姿に比べれば、きっと弱々しいものに違いない！」"
- court_ongoing.1050.f:0 "「いつかそれを見れる時が来るかもしれない」"
+ court_ongoing.1050.f:0 "「いつかそれを見れる時が来るかもしれない。」"
  court_ongoing.1100.t:1 "$court_event_title$: 詩の出版"
  court_ongoing.1100.desc:0 "[target.GetTitledFirstName]よりも愛すべき[target.GetWomanMan]はいない！[target.GetHerHis] がいる所では、私の言葉は失敗を招く——褒め言葉のどれひとつとして[target.GetHerHim]を言い当てられていない。もしかして、注意深く書かれた詩の方が[target.GetHerHis]の長所をうまく捉えられるだろうか？\n\n私は[target.GetHerHis]の…"
  court_ongoing.1100.compliment.tt:0 "[target.GetTitledFirstNamePossessive]の返事は、詩がどれだけ[target.GetHerHim]に合っているかで決まります。"
