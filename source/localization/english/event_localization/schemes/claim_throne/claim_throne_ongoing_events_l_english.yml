@@ -8,7 +8,7 @@
  claim_throne_ongoing.1002.a:0 "「ご心配には及びませぬ、我が君、私がよきにはからっておきましょう…」"
  claim_throne_ongoing.1002.b:0 "これはちょっとやり過ぎだな。"
  claim_throne_ongoing.1003.t:0 "稼ぎをサポート"
- claim_throne_ongoing.1003.desc:0 "もし私が[target_title.GetNameNoTier]の[target.GetTitleAsName]を務めるなら、現在の[target.GetTitledFirstName]が持っている以上の新しい廷臣の助けが必要なことは十分知っている。\n\n[target.GetTitleAsName]として私がいかに寛大であるかを知らしめることが、成功を生むでしょう。"
+ claim_throne_ongoing.1003.desc:0 "もし私が[target_title.GetNameNoTier]の[target.GetTitleAsName]を務めるなら、現在の[target.GetTitledFirstName]が持っている以上の新しい廷臣の助けが必要なことは十分知っている。\n\n[target.GetTitleAsName]として私がいかに寛大であるかを知らしめることが、成功を生むであろう。"
  claim_throne_ongoing.1003.a:0 "わが未来の家臣たちに見合うものなどない!"
  claim_throne_ongoing.1003.b:0 "来るべき闘争のために金が必要だ。"
  claim_throne_ongoing.1004.t:0 "支配権の宣告"

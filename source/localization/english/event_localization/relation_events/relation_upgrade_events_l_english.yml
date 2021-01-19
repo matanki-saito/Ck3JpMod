@@ -40,7 +40,7 @@
  relation_upgrade.0011.lover.decline:0 "はは、良い冗談だ…冗談#EMP だった#!んだよね？"
  relation_upgrade.0011.lover.decline.toast:0 "[lover.GetFirstNameNoTooltip]は笑い飛ばす"
  relation_upgrade.1001.t:0 "忘却の夜"
- relation_upgrade.1001.desc.intro:0 "[ROOT.GetCharacter.GetFaith.HighGodName]に誓ってこのパーティーは#EMP 退屈だ#!！[terrible_party_host.GetFirstName]は、世界が今までに#EMP 見たことのない#!最悪の主催者になってしまった。このいびきがでるような平凡な祝賀に、人間はどうやって耐えられるだろうか？\n\n私の目は部屋を見回す、気晴らしを求めて、あらゆる気晴らしを求めて。"
+ relation_upgrade.1001.desc.intro:0 "[ROOT.GetCharacter.GetFaith.HighGodName]に誓ってこのパーティーは#EMP 退屈だ#!！[terrible_party_host.GetFirstName]は、世界が今までに#EMP 見たことのない#!最悪の主催者になってしまった。このいびきがでるような平凡な祝宴に、人はどうやって耐えられるだろうか？\n\n私の目は部屋を見回す、気晴らしを求めて、あらゆる気晴らしを求めて。"
  relation_upgrade.1001.desc.friend:0 "[potential_friend.GetFirstName]が近くのベランダから気さくに手を振っている。"
  relation_upgrade.1001.desc.lover:0 "[potential_lover.GetFirstName]は私の前を通り過ぎる時、物憂げにため息をついている。"
  relation_upgrade.1001.desc.rival:0 "隅の方では[potential_rival.GetFirstName]が私を睨みつけている。"

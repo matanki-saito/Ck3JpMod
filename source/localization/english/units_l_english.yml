@@ -35,7 +35,7 @@
  UNIT_STATE_RAIDING:0 "略奪中"
  UNIT_STATE_RETREATING:0 "[PROVINCE.GetName]に退却中"
  KNIGHT_IN_THIS_ARMY_TOOLTIP:2 "この[army|E]に従軍中の$knight_culture_player$"
- KNIGHT_IN_ARMY_TOOLTIP:1 "[knight_i]Is a $knight_culture_player$ in an [army|E]"
+ KNIGHT_IN_ARMY_TOOLTIP:1 "[knight_i][army|E]内の$knight_culture_player$"
  UNIT_HOSTILE:0 "この[army|E]は[hostile_army|E]です"
  SUPPLY_BREAKDOWN_FRIENDLY_TERRITORY:0 "友好地域内"
  SUPPLY_BREAKDOWN_LIMIT:0 "[supply_limit|E]超過"

@@ -647,7 +647,7 @@
  special_doctrine_is_islamic_faith_desc:0 "かれらは預言者の律法のすべてに従っているわけではない。だがこの世界には、かれらの知る以上に、アッラーの御心に導かれている人がいる。やがて、そのような半信半疑の人たちも、悪しき道を捨てて、真のウンマの一員となるかもしれない！"
  doctrine_parameter_hostility_override_tenet_islamic_syncretism:2 "$tenet_islamic_syncretism_name$の信条を持つ非イスラム教の[faiths|E]は$hostility_evil_tooltippable$ではなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされます"
  special_doctrine_is_jewish_faith_name:0 "モーセの教え"
- special_doctrine_is_jewish_faith_desc:0 "Not all among the gentility dwell in sin. There are those who respect God's chosen people, and these deserve a measure of our respect in turn."
+ special_doctrine_is_jewish_faith_desc:0 "俗人全てが罪の中に暮らしているわけではない。神に選ばれし人々を尊崇する彼らこそ、我らの尊敬に値する者達である。"
  doctrine_parameter_hostility_override_tenet_jewish_syncretism:2 "$tenet_jewish_syncretism_name$の信条を持つ非ユダヤ教の[faiths|E]は$hostility_evil_tooltippable$ではなく[GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]とみなされます"
  TOO_FEW_SPOUSES_PIETY:0 "過少な配偶者"
  CRUSADER_STATE_CRUSADER_TITLE_NAME:1 "十字軍の[target_kingdom.GetNameNoTierNoTooltip]"
