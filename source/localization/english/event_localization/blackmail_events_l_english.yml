@@ -1,5 +1,5 @@
 ﻿l_english:
- blackmail.0001.t:0 "脅迫は拒否された！"
+ blackmail.0001.t:0 "恐喝は拒否された！"
  blackmail.0001.desc:0 "それが見当違いのプライドなのか、それとももっと大きな報復を恐れているのか、[recipient.GetTitledFirstName]は、私が[recipient.GetHerHim]に対して何の影響力も持たないと主張している！"
  blackmail.0001.a:0 "脅迫が行われ、その結果は一つしかありえない…"
  blackmail.0001.b:0 "認めたくはないが、この秘密を明かすことはできない。"

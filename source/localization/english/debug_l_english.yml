@@ -103,7 +103,7 @@
  is_widget_open_trigger:0 "ウィジェットを開いている"
  num_of_relation_oaf_trigger:0 "Number of secret oafs: $NUM|V0$"
  num_of_relation_intrigue_student_trigger:0 "策略の弟子の数: $NUM|V0$"
- num_of_relation_mentor_trigger:0 "Number of mentor relationships: $NUM|V0$"
+ num_of_relation_mentor_trigger:0 "助言関係の数: $NUM|V0$"
  num_of_relation_potential_friend_trigger:0 "友人候補の数: $NUM|V0$"
  num_of_relation_potential_rival_trigger:0 "ライバル候補の数: $NUM|V0$"
  num_of_relation_potential_lover_trigger:0 "恋人候補の数: $NUM|V0$"

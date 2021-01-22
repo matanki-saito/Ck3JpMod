@@ -258,7 +258,7 @@
  INTRIGUE_WINDOW_BLACKMAIL_STRONG_HOOK_TT:0 "#T 強いフックの秘密#!\n[Character.GetShortUIName]がこの[secret|E]による[blackmail|E]を受け入れた場合、あなたは[Character.GetHerHim]に対する[strong_hook|E]を獲得するでしょう"
  INTRIGUE_WINDOW_BLACKMAIL_WEAK_HOOK_TT:0 "#T 弱いフックの秘密#!\n[Character.GetShortUIName]がこの[secret|E]による[blackmail|E]を受け入れた場合、あなたは[Character.GetHerHim]に対する[weak_hook|E]を獲得するでしょう"
  INTRIGUE_WINDOW_BLACKMAIL_SECRET_EXPOSED:0 "(すでに暴露された)"
- INTRIGUE_WINDOW_BLACKMAIL_SECRET_SPENT:0 "(すでに脅迫された)"
+ INTRIGUE_WINDOW_BLACKMAIL_SECRET_SPENT:0 "(すでに恐喝された)"
  INTRIGUE_WINDOW_HOOK_EXPIRATION:0 "[Hook.GetExpirationDate.GetString]に期限切れ"
  INTRIGUE_WINDOW_HOOK_SHOW_ALL:0 "#T フックの表示#!\n#I クリックで全てのフックと使用可能なフックのみを切替#!"
  INTRIGUE_WINDOW_AGENT_DISCOVERED:0 "露見した"
