@@ -16,7 +16,7 @@
  DOCTRINE_ADD_SINS:0 "#indent_newline:2 $EFFECT_LIST_BULLET$以下の特性を[sins|E]とします: $TRAITS$\n以下の効果があります:#!\n"
  DOCTRINE_VIRTUE_SIN_TRAIT_ENTRY:0 "[TRAIT.GetName( GetPlayer )]"
  REL_HEAD_TITLE_NAME:1 "[my_faith.GetAdjectiveNoTooltip|U]の[my_faith.ReligiousHeadTitleName|U]"
- HOLY_SITE_UNDER_CONTROL:0 "#P [FAITH.GetName]により支配されている#!"
+ HOLY_SITE_UNDER_CONTROL:0 "#P [FAITH.GetName]によって支配されています#!"
  HOLY_SITE_NOT_UNDER_CONTROL:0 "@warning_icon! #X [FAITH.GetName]によって支配されていません #!"
  FAITH_WINDOW_HOLY_SITE_TOOLTIP:1 "#T [HolySite.GetName]の[holy_site|E]#!\n[GuiHolySiteItem.GetControlDesc]\n[GuiHolySiteItem.GetFaith.GetName]によって支配されている場合、以下の効果が適用されます:\n[HolySite.GetEffectDesc( GuiHolySiteItem.GetFaith )]\n\n#I クリックで[HolySite.GetBarony.GetName]を見る#!"
  FERVOR_GAIN_FROM_HOLY_SITES:0 "[holy_sites|E]から"

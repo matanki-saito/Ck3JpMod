@@ -200,7 +200,7 @@
  child_personality.104.confirm_diligent:0 "確かに！ 勤勉は[child.GetHerHim]を[child.GetSheHe]の望む場所へと連れて行くだろう。"
  child_personality.104.confirm_patient:0 "うむ、好機はいつでも待てば来るものだ。"
  child_personality.104.generous_change:0 "[child.GetSheHe|U]は[child.GetHerHis]自身の偉大さの下で、それは他者が果たす役割であることを決して忘れてはならない。"
- child_personality.104.diligent_change:0 "[child.GetSheHe|U]は努力は必ず実を結ぶということを教られなければならない。"
+ child_personality.104.diligent_change:0 "[child.GetSheHe|U]は努力が必ず実を結ぶということを教えられなければならぬ。"
  child_personality.104.patient_change:0 "親愛なる[child.GetFirstNameNoTooltip]よ、すべてのものには時間を与えられなければならない。"
  child_personality.1051.t:0 "気が短い"
  child_personality.1052.t:0 "冷静"
