@@ -30,7 +30,7 @@
  unlock_palatinate_contract:0 "#high $special_contract_palatinate_short$#!の[feudal_contract|E]を解禁"
  unlock_fortification_rights_contract:0 "#high $fortification_rights$#!の[feudal_contract|E]を解禁"
  unlock_coinage_rights_contract:0 "#high $coinage_rights$#!の[feudal_contract|E]を解禁"
- innovation_motte:0 "モット"
+ innovation_motte:0 "丘塁"
  innovation_motte_desc:0 "シンプルでありながら効果的な、盛り上がった土の小山に城を建てることは、文字通り敵を圧倒する高台を確保するための最良の方法である。"
  innovation_catapult:0 "オナガー"
  innovation_catapult_desc:0 "装填と発射に時間がかかるが、これらのようなねじり動力のカタパルトは、敵の射手の射程外にいながら敵の要塞を攻撃することを可能にします。"
