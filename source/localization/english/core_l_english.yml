@@ -61,7 +61,7 @@
  PLAYER_DATE:0 "$NAME$: [DATE.GetString|V]"
  GAME_START_DATE_STRING:0 "[DATE.GetString]に開始しました"
  GAME_YEARS_SINCE_START_DATE_STRING:0 "ゲームを開始してからの年数: $YEARS|V$"
- SVN_REVISION:0 "This is the SVN revision"
+ SVN_REVISION:0 "これはSVNリビジョンです"
  GREATER_THAN:0 "が右記より大きい:"
  LESS_THAN:0 "が右記未満:"
  EQUAL_TO:0 "が右記に等しい:"

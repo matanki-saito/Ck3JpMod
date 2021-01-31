@@ -553,7 +553,7 @@
  trait_excommunicated:0 "破門"
  trait_excommunicated_desc:0 "この人物は神事の参加を拒絶されている。"
  trait_excommunicated_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は神事の参加を拒絶されている。"
- trait_devoted:0 "献身的"
+ trait_devoted:0 "献身者"
  trait_devoted_male:0 "修道僧"
  trait_devoted_female:0 "尼"
  trait_devoted_desc:0 "この人物は、神のために自分の人生を捧げている。"
