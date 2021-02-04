@@ -1498,7 +1498,7 @@
  game_concept_skirmishers_desc:0 "軽装歩兵は軽装し敵を撹乱することに長けた[men_at_arms|E]です。\n\nそれぞれの軽装歩兵ごとに特徴がありますが、一般に[heavy_infantry|E]の[counter|E]であり、その代わり[archers|E]にカウンターを受けます。"
  game_concept_archers:0 "弓兵"
  game_concept_archer:0 "弓兵"
- game_concept_archers_desc:0 "弓兵は遠距離ぶきを携え自らの足で戦う[men_at_arms|E]です。\n\nそれぞれの弓兵ごとに特徴がありますが、一般に[skirmishers|E]の[counter|E]であり、その代わり[heavy_cavalry|E]と[light_cavalry|E]からカウンターを受けます。"
+ game_concept_archers_desc:0 "弓兵は遠距離武器を携え自らの足で戦う[men_at_arms|E]です。\n\nそれぞれの弓兵ごとに特徴がありますが、一般に[skirmishers|E]の[counter|E]であり、その代わり[heavy_cavalry|E]と[light_cavalry|E]からカウンターを受けます。"
  game_concept_light_cavalry:0 "軽騎兵"
  game_concept_light_cavalry_desc:0 "軽騎兵は適の偵察と追撃に優れた騎乗[men_at_arms|E]です。\n\nそれぞれの軽騎兵ごとに特徴がありますが、一般に[archers|E]の[counter|E]であり、その代わり[spearmen|E]にカウンターを受けます。\n\n軽騎兵はしばしば平坦な[terrain|E]に強いという特徴も持っています。\n\n[heavy_cavalry|E]と比較して、通常[pursuit|E]及び[screen|E]の面で優れています。"
  game_concept_heavy_cavalry:0 "重騎兵"
