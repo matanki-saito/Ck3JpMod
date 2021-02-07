@@ -68,7 +68,7 @@
  claimant_faction_desc:0 "[faction|E]の請求者たちは、[liege|E]の称号の簒奪を企む僭称者を支持している。"
  claimant_faction_short_effect_desc:0 "[ROOT.Faction.GetSpecialTitle.GetName]を要求している"
  FACTION_DEMAND_CLAIMANT:0 "請求者の要求"
- FACTION_DEMAND_CLAIMANT_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n[faction_targeted_title.GetNameNoTier]を制御する権限は、[faction_claimant.GetName]にある。これは神のご意思である。お前はその事実を認めよ、さもなくば強制的に認めさせるまでだ。"
+ FACTION_DEMAND_CLAIMANT_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\n[faction_targeted_title.GetNameNoTier]を支配する権限は、[faction_claimant.GetName]にある。これは神のご意思である。お前はその事実を認めよ、さもなくば強制的に認めさせるまでだ。"
  FACTION_DEMAND_CLAIMANT_DESC_ME:0 "[faction_targeted_title.GetNameNoTier]を支配する権利は、神のご意思によって私に委ねられ、私はそれを行うだけの力を持っている。この事実をお前は受け容れよ、さもなくば力ずくで認めさせるまでだ！"
  FACTION_DEMAND_CLAIMANT_ACCEPTED:0 "請求者の要求を受諾"
  FACTION_DEMAND_CLAIMANT_ACCEPTED_DESC:0 "この愚かな行いを断念する前に、国家が滅びるのは火を見るより明らかだ。領地を守る為に、私はお前の要求を呑まなければならないが、この不条理極まりない企ては忘れない！これはあんまりだ！"
