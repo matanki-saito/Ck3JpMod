@@ -43,7 +43,7 @@
  middle_europe_decisions.0013.b:0 "あー！これは続かないだろう。"
  middle_europe_decisions.0013.c:0 "彼らにとって良いかな…"
  middle_europe_decisions.0015.t:0 "西の帝国"
- middle_europe_decisions.0015.desc:0 "あまりにも長い間、ローマ帝国の西方の外殻は未請求のまま失われていた。私は家臣と聖職者に擁されて、[ceremony_locale.GetNameNoTooltip]で最も壮大な[founder.GetFaith.HouseOfWorship]で[founder_hof.GetTitledFirstName]に向き合っている。今日、それは変わる。\n\n[founder.GetFaith.HighGodName]に、その御心に従いこの帝国を支配する強さと慈悲を祝福されることを願い、私たちは暗黙のうちに祈りと捧げものを取り交わす。厳粛のうちに[founder_hof.GetTitledFirstNameNoTooltip]は私に王冠と剣を贈り、すべてのキリスト教世界に責任ある立場に任じた。\n\n静寂に続いて聖歌が高く響き、貴族たちの激しい歓声にかき消された。\n\nいま、私が神聖ローマ皇帝である。"
+ middle_europe_decisions.0015.desc:0 "あまりにも長きにわたり、ローマ帝国西方の外殻は未請求のまま失われていた。私は家臣と聖職者に擁され、[ceremony_locale.GetNameNoTooltip]で最も壮大な[founder.GetFaith.HouseOfWorship]で[founder_hof.GetTitledFirstName]に向き合っている。今日、それは変わる。\n\n[founder.GetFaith.HighGodName]に、その御心に従いこの帝国を支配する強さと慈悲を祝福されることを願い、私たちは暗黙のうちに祈りと捧げものを取り交わす。厳粛のうちに[founder_hof.GetTitledFirstNameNoTooltip]は私に王冠と剣を贈り、すべてのキリスト教世界に責任ある立場に任じた。\n\n静寂に続いて聖歌は高く響き、貴族たちの激しい歓喜の声に飲み込まれた。\n\nいま、私が神聖ローマ帝国皇帝である。"
  middle_europe_decisions.0015.a:0 "アウグストゥスからシャルルマーニュ、そして[founder.GetFirstNameNoTooltip]へ！"
  middle_europe_decisions.0016.desc:0 "西方のローマ帝国はしばらくのあいだ休眠状態にあり、帝国の尊厳に対する疑問の[founder.GetFaith.GetAdjectiveNoTooltip]答えを、ひいき目にも、不確かなままにしている。\n\n[founder.GetTitledFirstName]が、[founder_hof.GetTitledFirstName]の同意を得て、[ceremony_locale.GetNameNoTooltip]で最高位の[founder.GetFaith.HouseOfWorshipPlural]が主催する豪華な式典でシャルルマーニュの帝国を再興してきたように、いまでもそれは不確かだ。\n\n世界中で、ローマがついに真の神の継承者を再び持つことに確信を得て[founder.GetFaith.GetAdjectiveNoTooltip][founder.GetFaith.PriestNeuterPlural]たちは歓喜している。"
  middle_europe_decisions.0016.a:0 "ふん、帝国のもったいぶったうぬぼれだ。"
