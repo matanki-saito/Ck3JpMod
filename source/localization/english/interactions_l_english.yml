@@ -82,7 +82,7 @@
  cannot_host_feast_again_tt:0 "再び祝宴を催せない"
  cannot_hunt_again_tt:0 "再び狩猟できない"
  start_ai_goal:0 "#D Start ai goal#!"
- send_to_prayer_camp:0 "#D Send to prayer camp#!"
+ send_to_prayer_camp:0 "#D 祈りのキャンプに送る#!"
  debug_set_up_court:0 "#D Set up court#!"
  debug_find_bodyguard:0 "#D 護衛を見つける#!"
  debug_prime_for_plot:0 "#D 陰謀への備え#!"

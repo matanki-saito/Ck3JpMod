@@ -297,7 +297,7 @@
  MOD_OWNED_HOSTILE_SCHEME_SUCCESS_ADD:0 "[hostile_scheme|E]の[success_chance|E]"
  MOD_ENEMY_PERSONAL_SCHEME_SUCCESS_ADD:0 "敵の[personal_scheme|E]の[success_chance|E]"
  MOD_ENEMY_HOSTILE_SCHEME_SUCCESS_ADD:0 "敵の[hostile_scheme|E]の[success_chance|E]"
- murder_trusted_advice_modifier:0 "Trusted Advisor Agent"
+ murder_trusted_advice_modifier:0 "信頼された助言者であるスパイ"
  murder_trusted_by_target_modifier:0 "標的に信頼されている"
  scheme_drunkard_murder_target_modifier:0 "飲んだくれの標的"
  scheme_drunkard_murdering_drunkard_modifier:0 "飲んだくれの標的は飲んだくれ"

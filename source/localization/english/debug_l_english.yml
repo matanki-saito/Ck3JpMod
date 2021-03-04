@@ -101,7 +101,7 @@
  story_type_trigger:0 "ストーリーの種類"
  owns_a_story_trigger:0 "Owns a story"
  is_widget_open_trigger:0 "ウィジェットを開いている"
- num_of_relation_oaf_trigger:0 "Number of secret oafs: $NUM|V0$"
+ num_of_relation_oaf_trigger:0 "秘密の愚か者の数: $NUM|V0$"
  num_of_relation_intrigue_student_trigger:0 "策略の弟子の数: $NUM|V0$"
  num_of_relation_mentor_trigger:0 "助言関係の数: $NUM|V0$"
  num_of_relation_potential_friend_trigger:0 "友人候補の数: $NUM|V0$"

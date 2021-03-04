@@ -1,6 +1,6 @@
 ﻿l_english:
  tenet_excommunicated_crime:0 "[GetTrait('excommunicated').GetName( GetNullCharacter )]"
- tenet_divine_marriage_opinion:0 "Has a Divine Marriage"
+ tenet_divine_marriage_opinion:0 "神統結婚である"
  tenet_fellow_pacifist_opinion:0 "同輩の平和主義者"
  tenet_communal_identity_opinion:0 "共同のアイデンティティ"
  tenet_temporal_condemnation_crime:0 "世俗的な非難"
@@ -13,4 +13,4 @@
  literalist_debate_loser_opinion:0 "論争で私を打ち負かす"
  attempted_literalist_debate_opinion:0 "教典に関する解釈の議論を試みた"
  cavalier_accusations_opinion:0 "Cavalier Accusations"
- brought_heretics_to_my_notice_opinion:0 "Brought Heretics to my Notice"
+ brought_heretics_to_my_notice_opinion:0 "異端に私の注意を向けた"
