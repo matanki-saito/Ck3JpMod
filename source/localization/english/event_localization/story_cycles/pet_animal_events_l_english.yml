@@ -4,7 +4,7 @@
  pet_animal.0001.a:1 "なんて良い名前だ！"
  pet_animal.0101.t:0 "[ROOT.Char.Custom('CatStoryName')]: 贈り主"
  pet_animal.0101.desc:0 "廊下を横切る私を二つの[ROOT.Char.Custom('CatEyeColor')]の目が追いかけてきた。小さなニャアという鳴き声が沈黙を破り、[ROOT.Char.Custom('CatStoryName')]が私の足首に飛びかかってきた。"
- pet_animal.0101.desc_old:0 "[ROOT.Char.Custom('CatStorySheHe')|U]は良い年月を重ねてきたが、[ROOT.Char.Custom('CatHerHim')]の老いを止めることはできない！"
+ pet_animal.0101.desc_old:0 "この猫もさすがに老境に差し掛かってはいるが、なお元気な姿を見せてくれている！"
  pet_animal.0101.desc_young:0 "[ROOT.Char.Custom('CatStorySheHe')|U]は幼いのに獰猛だ！"
  pet_animal.0101.desc_middle:0 "猫としては全盛期だろうが、[ROOT.Char.Custom('CatStorySheHe')]は私に何の印象も残さない。"
  pet_animal.0101.desc_ending:0 "\n\n猫が飛び跳ねて去っていくと、私は猫が隠れていた場所にキラキラした贈り物を置いて行ってくれたことに気づく。"

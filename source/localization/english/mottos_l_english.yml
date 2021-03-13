@@ -53,7 +53,7 @@
  motto_trust_them:0 "信頼せよ"
  motto_disarmed_man:0 "丸腰の者を自由に攻撃する者は誰もいない"
  motto_drink_your_blood:0 "[CHARACTER.GetHouse.GetBaseNameNoTooltip]の[CHARACTER.Custom('GetDaughterSon')|U]よ、汝の血を飲め"
- motto_from_great_men:0 "From Great [CHARACTER.GetWomenMen|U] Come the Strong and Good"
+ motto_from_great_men:0 "偉大な[CHARACTER.GetWomenMen|U]により強さと善良さはもたらされる"
  motto_this_sigil:0 "この印形が勝利をもたらす"
  motto_from_all_my_heart:0 "我が赤心により"
  motto_regret_past:0 "過去の後悔も未来への恐怖もなく"

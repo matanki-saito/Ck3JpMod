@@ -1,7 +1,7 @@
 ﻿l_english:
  befriend_making_effort_modifier:0 "一層の努力"
- befriend_indebted_myself_modifier:0 "Indebted Myself"
- befriend_offered_leniency_modifier:0 "寛大さの申し出"
+ befriend_indebted_myself_modifier:0 "自身への借り"
+ befriend_offered_leniency_modifier:0 "寛容な申し出"
  befriend_irrigation_project_modifier:0 "潤沢な資金の灌漑事業"
  befriend_bonding_over_rival_modifier:0 "ライバルとの意気投合"
  befriend_studious_modifier:0 "関心事の研究"
@@ -12,7 +12,7 @@
  befriend_stewardship_study_modifier:0 "管理の研究"
  befriend_learning_study_modifier:0 "学識の研究"
  befriend_slanderous_rumors_modifier:0 "中傷的な噂"
- auspicious_offering_modifier:0 "Auspicious Offering"
+ auspicious_offering_modifier:0 "幸運な申し出"
  settled_differences_modifier:0 "相違点の解決"
  irreconcilable_differences_modifier:0 "相容れない相違点"
  kind_words_modifier:0 "親切な言葉"

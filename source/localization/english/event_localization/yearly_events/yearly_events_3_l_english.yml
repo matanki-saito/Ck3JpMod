@@ -19,7 +19,7 @@
  yearly.3002.a:0 "私の言うことを何でもしてくれるのならば許そう。"
  yearly.3002.b:0 "私の寛大さを人々に広めてくれるのなら許そう。"
  yearly.3003.t:0 "侮辱的な告発"
- yearly.3003.desc:1 "私が[neighbor.GetTitledFirstNamePossessiveNoTooltip]の手紙を[vassal.GetTitledFirstName]に提示すると、最初は混乱していたが、やがてそれは怒りに変わった。「私よりも[neighbor.GetHerHis]の言葉を信じるですか？私はいつも忠実な家臣であったではないか！」\n[vassal.GetHerHis|U]の憤りが私の心に疑いの種を植え付けた。私の行動は早すぎたのかもしれない。これ以上この関係を壊す前に償いをしなければならない！"
+ yearly.3003.desc:1 "私が[neighbor.GetTitledFirstNamePossessiveNoTooltip]の手紙を[vassal.GetTitledFirstName]に提示すると、最初は混乱していたが、やがてそれは怒りに変わった。「私よりも[neighbor.GetHerHis]の言葉を信じるのですか？私はいつも忠実な家臣であったではないか！」\n[vassal.GetHerHis|U]の憤りが私の心に疑いの種を植え付けた。私の行動は早すぎたのかもしれない。これ以上この関係を壊す前に償いをしなければならない！"
  yearly.3003.friend:0 "\nありがたいことに、ここで私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('friend'))]が介入してくれる。「これは単に[neighbor.GetTitledFirstNamePossessive]の誹謗中傷への警告に過ぎない。」と、[friend.GetTitledFirstName]は言う。"
  yearly.3003.a:0 "そうだ。私は君の忠誠心に報いたい！"
  yearly.3003.b:0 "あなたは昔からずっとそんな風に良い使用人だったね。"

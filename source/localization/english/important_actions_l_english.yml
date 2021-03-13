@@ -112,7 +112,7 @@
  action_too_many_held_duchies_desc:0 "$action_too_many_held_duchies_combined_group_description$"
  action_too_many_held_duchies_click:0 "#I クリックで公爵領を表示#!"
  action_dying:0 "瀕死"
- action_dying_desc:4 "あなたは死の入り口にいます。\n\n#help [player_heir|E]がいる場合はその人物でプレイを継続することになります。[vassals|E]はその人物には忠実ではないかもしれません。[gold|E]をあまり使わないようにして[mercenaries|E]や[Concept( '贈り物', '贈り物' )|E]のため、余裕を持たせておくと良いでしょう。#!"
+ action_dying_desc:4 "あなたは死の入り口にいます。\n\n#help [player_heir|E]がいる場合はその人物でプレイを継続することになります。[vassals|E]はその人物には忠実ではないかもしれません。[gold|E]をあまり使わないようにして[mercenaries|E]や[Concept( 'gift', 'gifts' )|E]のため、余裕を持たせておくと良いでしょう。#!"
  action_dying_label:1 "死の入り口にいます。"
  action_dying_click:1 "#I クリックであなたのキャラクターを見る！#!"
  action_empty_council_position:0 "[council|E]の地位が空白"

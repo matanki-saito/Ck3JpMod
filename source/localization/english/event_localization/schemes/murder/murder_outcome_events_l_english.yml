@@ -8,7 +8,7 @@
  murder_outcome.1001.a:0 "やれ。"
  murder_outcome.1001.b:0 "まて、まだ準備ができていない。"
  murder_outcome.1002.t:0 "見知らぬ人から"
- murder_outcome.1002.d:0 "私の刺客は、[target.GetTitledFirstName]のために、暗い森を抜けていくような旅行を計画した。しかし、彼の旅には、彼らを誤って殺してしまう、凶悪な強盗団が足りないだろう。\n\n私の目にはすでに、黒土に染み込む血液が浮かんでいる…"
+ murder_outcome.1002.d:0 "私の刺客は、[target.GetTitledFirstName]のために、暗い森を抜けていくような旅行を計画した。しかし、奴の旅には、奴らを誤って殺してしまう、凶悪な強盗団が足りないだろう。\n\n私の目にはすでに、黒土に染み込む血液が浮かんでいる…"
  murder_outcome.1002.a:0 "おや、あの森はそんなにも危険だったのだなあ。"
  murder_outcome.1002.b:0 "待て、今は適切なタイミングではない。"
  murder_outcome.1003.t:0 "死に至る食事"

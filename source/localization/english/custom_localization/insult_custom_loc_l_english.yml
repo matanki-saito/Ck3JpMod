@@ -82,7 +82,7 @@
  heartless_behavior:0 "人非人"
  insult_sentence_arrogant:0 "you are a self-made man, worshiping your creator"
  insult_sentence_lustful:0 "I feel so miserable when I am not with you; it is almost like being in your company"
- insult_sentence_subtle:0 "you are as subtle as a street corner doxy"
+ insult_sentence_subtle:0 "お前の狡賢さは街角の商売女のようだ"
  insult_sentence_highgod:0 "貴様の顔は[ROOT.GetCharacter.GetFaith.HighGodName]が常に良いものとは限らないことの証明だな"
  insult_sentence_beauty_bad:0 "I hear you love nature, in spite of what it did to you"
  insult_sentence_shiver:0 "you are a shiver, looking for a spine to run up"

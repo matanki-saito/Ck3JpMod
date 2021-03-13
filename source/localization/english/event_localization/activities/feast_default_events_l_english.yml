@@ -210,7 +210,7 @@
  feast_default.5005.d:0 "できることならガルムを#EMP 吸いたい#!な！"
  feast_default.6001.t:0 "$feast_header$ 適任者"
  feast_default.6001.dislike_spouse:1 "不仲なところも多々あるとはいえ、私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse'))]が私のご饗宴で非常によく働いてくれたことを認めなければならない。[spouse.GetFirstName]のおかげで、料理は時間通りに届き、客人は全員適切な席につき、全員が満足しているように見える。\n\n大きなテーブルで[spouse.GetHerHim]が私の隣にいて，饗宴が始まろうとしているとき，私は[spouse.GetHerHis]がこの祝宴の準備のために懸命に働いてくれたことに感謝してると[spouse.GetHerHim]に伝えた。"
- feast_default.6001.like_spouse:0 "私の愛する[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse'))]である[spouse.GetFirstName]は、饗宴のすべてが円滑に進むように、一生懸命働いてくれている。料理は時間通りに到着し、客は皆、正しい席に着き、皆が満足しているように見える。\n\n[spouse.GetFirstName]をそばに置いき、大きなテーブルですべての準備は整った。私は[spouse.GetHerHis]の手を握り、[spouse.GetHerHim]に微笑みかけてから、お祝いの開始を告げるために立ち上がる。"
+ feast_default.6001.like_spouse:0 "私の愛する[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('spouse'))]である[spouse.GetFirstName]は、饗宴のすべてが円滑に進むように、一生懸命働いてくれている。料理は時間通りに到着し、客は皆、正しい席に着き、皆が満足しているように見える。\n\n大きなテーブルで[spouse.GetFirstName]を私の隣に座らせ、すべての準備は整った。私は[spouse.GetHerHis]の手を握り、[spouse.GetHerHim]に微笑みかけてから、お祝いの開始を告げるために立ち上がる。"
  feast_default.6001.a:0 "[spouse.GetHerHim]がいなければ、私に何ができただろう。"
  feast_default.6002.t:0 "$feast_header$ 称賛された努力"
  feast_default.6002.desc:0 "宴会が始まり、客が陽気に食事をしたり飲んだりしていると、[guest.GetTitledFirstName]がメインテーブルの[spouse.GetFirstName]と私に近づいてきた。\n「これは素晴らしいごちそうですね！主催者に敬意を表します。」"
