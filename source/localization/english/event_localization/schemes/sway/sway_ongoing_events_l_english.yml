@@ -48,7 +48,7 @@
  sway_ongoing.5003.desc_nonsense:0 "\n\n今や私は[owner.Custom('LifestyleFocusTopic')]について何でも知っている振りをしなければいけない…"
  sway_ongoing.5003.desc:0 "\n\nなんと、[target.GetSheHe]もまた[owner.Custom('LifestyleFocusTopic')]に関心を持っている。"
  sway_ongoing.5003.a:0 "もっと話そう！"
- sway_ongoing.5003.b_diplomacy:0 "「じゃあ… 封臣についてはどう？」"
+ sway_ongoing.5003.b_diplomacy:0 "「じゃあ… 封臣についてはどうだ？」"
  sway_ongoing.5003.b_martial:0 "「じゃあ… 剣についてはどう？」"
  sway_ongoing.5003.b_stewardship:0 "「じゃあ… 金についてはどう？」"
  sway_ongoing.5003.b_intrigue:0 "「じゃあ… 陰謀についてはどう？」"

@@ -186,7 +186,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_DREAD:0 "恐ろしい存在である[ROOT.Char.GetSheHe]は、その冷酷さと残虐さにはすでに定評がある。"
  SUCCESSION_EVENT_WINDOW_HEIR_GENDER:0 "[ROOT.Char.GetWomanMan]が王位に就くことは、将来の不安定な時代の兆候ではないかと危惧する人もいる。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_REVELER:0 "魅力的かつ社交的な[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、愛想の良い主催者として領国中の多くの貴族から称賛されている。"
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ADMINISTRATOR:0 "学識のある執政者である[ROOT.Char.GetSheHe]は、王位に就くのに最もふさわしい人物の一人として認められている。"
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ADMINISTRATOR:0 "学識のある執政者たる[ROOT.Char.GetSheHe]は、王位に就くのに最もふさわしい人物の一人として認められている。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_SCHOLAR:0 "形而上学的な問題に関心があることで有名な[ROOT.Char.GetSheHe]は、世俗的な統治という日常的な問題に対処するのには不向きかもしれない。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CALLOUS_LONER:0 "冷たく思いやりの無い[ROOT.Char.GetWomanMan]で、[ROOT.Char.GetSheHe]は何も感じず、誰にも気を使わないと噂されている。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_VENGEFUL:0 "狭量で意地悪な[ROOT.Char.GetWomanMan]であり、[ROOT.Char.GetHerHis]の封臣たちは[ROOT.Char.GetHerHim]の周りで慎重に物事を進めなければならないだろう。"

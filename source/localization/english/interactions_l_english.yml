@@ -639,7 +639,7 @@
  char_interaction.0040.a:0 "何だと？なぜだ！？"
  char_interaction.0050.desc:1 "王朝の当主として、私はここにあなたの過去の罪を許し、[actor.GetDynastyName]王朝のメンバーの間でのあなたの糾弾を撤回する！"
  char_interaction.0050.a:0 "正義が下された！"
- char_interaction.0060.desc:1 "I rather like the [target.GetName], so, as your Dynasty Head, I have decided to lay claim to it. Make of this what you will."
+ char_interaction.0060.desc:1 "この[target.GetName]は家長である私にこそふさわしく、したがって私はそれを要求することとした。貴公はこれをどう考えるか。"
  char_interaction.0060.a:0 "これは良いことにはならない。"
  char_interaction.0070.desc:1 "このような[actor.GetDynastyName]王朝内での内紛は見苦しいものであり、すぐに終わらせなければならない。王朝の当主として、私はここに、あなたと王朝内のあなたの敵との間の白紙和平を宣言する！"
  char_interaction.0070.a:0 "とんでもないお節介だ！"
