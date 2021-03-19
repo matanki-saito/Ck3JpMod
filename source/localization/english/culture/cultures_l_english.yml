@@ -182,7 +182,7 @@
  kru:0 "クル"
  kru_collective_noun:0 "クル人"
  east_slavic_group:0 "東スラヴ"
- east_slavic_group_collective_noun:0 "東スラヴ人"
+ east_slavic_group_collective_noun:1 "East Slavs"
  russian:0 "ロシア"
  russian_collective_noun:1 "ロシア人"
  ilmenian:0 "イリメニ"

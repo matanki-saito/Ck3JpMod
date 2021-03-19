@@ -75,3 +75,6 @@
  learn_commander_trait.1391.a:0 "さあ、これを実戦の場に持っていくぞ！"
  learn_commander_trait.1491.desc:0 "[teacher.GetTitledFirstName]がここにいなくてこれを見なかったのは最良だったのかもしれないが…\n\n模擬戦では全てが間違っていたし、私の戦術はどれもうまくいかなかった！"
  learn_commander_trait.1491.a:0 "私にはまだいくつか学ぶべきことがあるようだ…"
+ learn_commander_trait.0009.t:0 "夜のような寒さ"
+ learn_commander_trait.0009.desc:0 "容赦ない寒さが多くの命を奪っていった。だが、私や私の兵士たちの命は例外だ。\n\n我々は雪の下のどこで食糧を採集するかを理解し、狼のように敵を追いかけ、真冬の最悪の寒さのように彼らに襲いかかるのだ..."
+ learn_commander_trait.0009.a:0 "雹のように打つ。"

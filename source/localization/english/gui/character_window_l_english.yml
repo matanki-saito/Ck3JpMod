@@ -159,3 +159,4 @@
  HAS_LEASE_APPROVAL_FROM_OPINION:0 "[CHARACTER.GetShortUINamePossessive]のあなたに対する[opinion|E]が$THRESHOLD|+=$以上である"
  HAS_NO_LEASE_APPROVAL:0 "[CHARACTER.GetShortUINamePossessive]のあなたに対する[opinion|E]が$THRESHOLD|+=$以下である"
  HAS_NO_LEASE_APPROVAL_CAN_HOOK:0 "[CHARACTER.GetShortUINamePossessive]のあなたに対する[opinion|E]が$THRESHOLD|+=$以下であり、[CHARACTER.GetHerHim]に対する$TYPE$を持っていない"
+ FIND_SPOUSE:0 "[spouse|E]を探す"

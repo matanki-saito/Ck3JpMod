@@ -58,3 +58,6 @@
  HAS_TITLE_LAW_FLAG_TRIGGER:0 "称号法を所持: $LAW$"
  IS_TITULAR_TRIGGER:0 "[titular_title|E]である"
  FORM_GERMANIA_CHRISTIAN_TRIGGER:0 "[CHARACTER.GetFaith.GetAdjective]の統治者としてあなたが$e_hre$に代わって改革可能"
+ TITLE_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有している"
+ TITLE_NOT_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有して#bold いない#!"
+ LANDED_TITLE_THIS_EQUAL:0 "$TITLE$である"

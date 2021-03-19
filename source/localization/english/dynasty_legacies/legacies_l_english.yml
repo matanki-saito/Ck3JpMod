@@ -48,3 +48,5 @@
  kin_legacy_3_name:0 "絶え間ないお手入れ"
  kin_legacy_4_name:0 "密接な絆"
  kin_legacy_5_name:0 "老当益壮"
+ erudition_legacy_2_modifier_name:0 "[GetDynastyPerk('erudition_legacy_2').GetName]"
+ erudition_legacy_4_modifier_name:0 "[GetDynastyPerk('erudition_legacy_4').GetName]"

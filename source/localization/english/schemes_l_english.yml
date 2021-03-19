@@ -156,3 +156,8 @@
  scheme_target_no_longer_courtier:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]の宮廷を去りました"
  scheme_target_no_longer_courtier_no_var:0 "[CHARACTER.GetShortUIName]はもはや廷臣ではありません"
  scheme_target_is_your_courtier:0 "[CHARACTER.GetShortUIName]があなたの廷臣となりました"
+ scheme_target_not_in_diplomatic_range:0 "[TARGET_CHARACTER.GetShortUIName|U]はもはや[diplomatic_range|E]内にありません"
+ befriend_invalidated_title:0 "@scheme_icon!親善計画が終了"
+ seduce_invalidated_title:0 "@scheme_icon!誘惑計画が終了"
+ sway_invalidated_title:0 "@scheme_icon!懐柔計画が終了"
+ scheme_target_no_longer_lover:0 "あなたと[TARGET_CHARACTER.GetShortUIName|U]はもはや恋人ではありません"

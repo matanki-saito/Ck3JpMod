@@ -3,7 +3,7 @@
  HOLDING_TAX_VALUE:1 "@gold_icon![Holding.GetIncome|2]"
  HOLDING_LOOT:1 "[raid_loot|E]:"
  HOLDING_LOOT_VALUE:0 "@gold_icon![Holding.GetProvince.GetRaidLoot|0V]"
- HOLDING_FORT_LEVEL:1 "[fort_level|E]:"
+ HOLDING_FORT_LEVEL:1 "[fort_level|E]"
  HOLDING_GARRISON:1 "[garrison|E]:"
  HOLDING_EMPTY:0 "[holding|E]なし"
  HOLDING_CONSTRUCTING:0 "[HOLDING_TYPE.GetName][holding|E]を建設中"

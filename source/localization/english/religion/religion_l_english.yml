@@ -747,3 +747,8 @@
  holy_site_ob_effect_name:0 "[holy_site|E]から#weak ($holy_site_ob_name$)#!"
  holy_site_olkhon_name:0 "オルコン"
  holy_site_olkhon_effect_name:0 "[holy_site|E]から#weak ($holy_site_olkhon_name$)#!"
+ faith_conversion_cost_sacrificed_hof:0 "Sacrificed [head_of_faith|E] of tolerated [faith|E]"
+ holy_site_jorvik_name:0 "Jorvik"
+ holy_site_jorvik_effect_name:0 "[holy_site|E]から#weak ($holy_site_jorvik_name$)#!"
+ holy_site_konugardr_name:0 "$cn_konugardr_NORSE$"
+ holy_site_konugardr_effect_name:0 "[holy_site|E]から #weak ($holy_site_konugardr_name$)#!"

@@ -138,7 +138,7 @@
  GO_BACK_VIEW_HISTORY:0 "#T 以前の画面を表示#!\n$VIEW_NAME$"
  I_CAN_ENFORCE_DEMANDS:1 "#I あなたの要求を飲ませることができます#!"
  TOGGLE_OUTLINER:0 "#T アウトライナーの切り替え#!"
- PLAYER_STRESS_TOOLTIP:1 "#T [stress_level|E]: [GetPlayer.GetStressLevel|V]/[GetDefine('NCharacter', 'MAX_STRESS_LEVEL')|V]\n#! [AddTextIfNotEmpty('#S 影響:#!\n', GetPlayer.StressLevelEffect )]\n[AddTextIf(Not(StringIsEmpty(GetPlayer.StressLevelEffect)), '\n')]#S [stress|E]: [stress_i][GetPlayer.GetStress|V]/[GetMaxStress|V]#!\n[GetPlayer.StressProgressDesc]"
+ PLAYER_STRESS_TOOLTIP:2 "#T [stress_level|E]: [GetPlayer.GetStressLevel|V]/[GetDefine('NCharacter', 'MAX_STRESS_LEVEL')|V]\n#![ConcatIfNeitherEmpty('#S Effects:#!\n', GetPlayer.StressLevelEffect )]\n[AddTextIf(Not(StringIsEmpty(GetPlayer.StressLevelEffect)), '\n')]#S [stress|E]: [stress_i][GetPlayer.GetStress|V]/[GetMaxStress|V]#!\n[GetPlayer.StressProgressDesc]"
  STRESS_LEVEL_PROGRESS:0 "[stress_i]$NEXT|V$で次のレベル"
  STRESS_LEVEL_PROGRESS_MAX:1 "#X @warning_icon!あなたのストレスレベルはすでに最大です。[stress_i]$NEXT|V$になるとあなたは精神崩壊に苦しみ[stress_loss_i][GetDefine('NCharacter', 'STRESS_PER_LEVEL')|P]を失います#!"
  OBSERVER_MODE_ON:0 "#T この人物の視点から離れる#!"

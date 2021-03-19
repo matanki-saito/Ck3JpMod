@@ -80,7 +80,7 @@
  cocky_behavior:0 "うぬぼれ"
  reclusive_behavior:0 "無情なる"
  heartless_behavior:0 "人非人"
- insult_sentence_arrogant:0 "you are a self-made man, worshiping your creator"
+ insult_sentence_arrogant:1 "you are a self-made [ROOT.GetCharacter.GetWomanMan], worshiping your creator"
  insult_sentence_lustful:0 "I feel so miserable when I am not with you; it is almost like being in your company"
  insult_sentence_subtle:0 "お前の狡賢さは街角の商売女のようだ"
  insult_sentence_highgod:0 "貴様の顔は[ROOT.GetCharacter.GetFaith.HighGodName]が常に良いものとは限らないことの証明だな"

@@ -46,3 +46,4 @@
  tribal_authority_3_effects:0 "$EFFECT_LIST_BULLET$[independent|E]している[tribal|E]の統治者は定住して[feudal|E]または[clan|E]国家となることができます"
  LAW_TOOLTIP_SUBTITLE:0 "#weak [Law.GetSubName]#!"
  LAW_TITLE_ALLEGIANCE_OPINION:0 "$EFFECT_LIST_BULLET$[title_allegiance|E]を誓っている封臣[opinion|E]: $VALUE|+=$"
+ I_LACK_TRIBAL_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:0 "You do not have Limited [tribal_authority|E]"

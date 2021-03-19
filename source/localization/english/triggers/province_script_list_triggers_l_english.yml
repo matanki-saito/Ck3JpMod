@@ -14,3 +14,4 @@
  county_opinion:0 "伯爵領の評価: $OPINION|=V$"
  county_control_rate:0 "伯爵領の支配率"
  num_county_followers:0 "伯爵領の従者の数: $NUM|V0$"
+ any_sub_realm_county:0 "Any Sub Realm County:"

@@ -180,3 +180,5 @@
  innovation_deccan_unity_desc:0 "我々の社会に新たな信仰や宗教が流入してきたことで、これまで地域主義に焦点を当ててきたことが間違いであったことが明らかになりました。我々は我々の信仰を持つ他の人々と団結し、外部からの圧力に立ち向かうことができる強く永続的な国家を確保すべきである。"
  same_culture_group_reduced_factionalism:0 "あなたの[culture_group|E]に属する[vassals|E]が[independence_factions|E]に参加する可能性は低くなる"
  students_of_knighthood:0 "[martial|E][education_focus|E]で教育を終えた子供は、$trait_education_martial_prowess$[trait|E]を得ます。"
+ innovation_viking_tradition:0 "Viking Tactics"
+ innovation_viking_tradition_desc:0 "The people of the north have a long tradition of trade, but also of piracy. Few are prepared to fight a threat that appears without warning from the banks of a river, and the viking warriors are masters of such warfare."

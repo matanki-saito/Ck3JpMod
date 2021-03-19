@@ -29,3 +29,7 @@
  recipient_secondary_legitimize_bastard_interaction:0 "私生児"
  ALREADY_HAVE_CLAIM_ON_THIS_TITLE:0 "この称号に対する請求権をすでに持っています"
  ALREADY_HAVE_CLAIMS_ON_ALL_TITLES:0 "すべての[TARGET_CHARACTER.GetTitledFirstNamePossessive]の称号に対する請求権をすでに持っています"
+ send_to_varangian_guard_interaction:0 "Send to the Varangian Guard #weak (Dynasty)#!"
+ send_to_varangian_guard_interaction_desc:0 "$dynasty_interaction_header$Send [recipient.GetShortUINameNoTooltip] away to gain glory and fortune in the Varangian Guard. Who knows, it might even help build character!"
+ send_to_varangian_guard_interaction_toast:0 "[recipient.GetFirstName] left for the Varangian Guard"
+ send_to_varangian_guard_interaction_toast_desc:0 "Fame and glory awaits!"

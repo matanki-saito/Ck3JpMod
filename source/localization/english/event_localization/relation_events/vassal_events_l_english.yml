@@ -22,7 +22,7 @@
  vassal.1120.a:0 "間違えるのは人間だけ！"
  vassal.1120.a.tt:0 "#F 私は約束を守り、あの[THIS.Char.GetFaith.HouseOfWorship]を建てるべきだったのかもしれません…#!"
  vassal.2001.t:0 "若者への教育"
- vassal.2001.desc:0 "「わが[ROOT.Char.GetLadyLord]、もし[child_to_educate.GetFirstName]があなたの後見で勉強する機会があれば、多くのことを学べるだろうと思います。」\n\nわれわれに手をふる前に、[vassal_proposing_education.GetTitledFirstNamePossessive]の[vassal_proposing_education.Custom2('RelationToMe', SCOPE.sC('child_to_educate'))]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('child_to_educate'))]。"
+ vassal.2001.desc:0 "「わが[ROOT.Char.GetLadyLord]、もし[child_to_educate.GetFirstName]があなたの後見で勉強する機会があれば、多くのことを学べるだろうと思います。」\n\n私たちに手をふる前に、[vassal_proposing_education.GetTitledFirstNamePossessive]の[vassal_proposing_education.Custom2('RelationToMe', SCOPE.sC('child_to_educate'))]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('child_to_educate'))]。"
  vassal.2001.a:0 "もちろん、私が[child_to_educate.Custom('GirlBoy')]を教育しよう。"
  vassal.2001.b:0 "あなたの[child_to_educate.Custom('GetDaughterSon')]はあなたの責任だ！"
  vassal.2101.t:0 "祝宴への情熱"

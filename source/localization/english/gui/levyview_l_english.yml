@@ -1,7 +1,7 @@
 ﻿l_english:
  LV_HEADER:0 "徴募兵"
  LV_COUNTS:0 "[LevyView.GetLivingCount|0]/[LevyView.GetMaxCount|0]"
- LV_FLAVOR:1 "徴募兵は、農民兵、暴徒、地元の傭兵、困窮した貴族といった雑多な道具や即席の武器を装備した人々によって構成されている——彼らがほとんどの軍勢の大部分を占めている。"
+ LV_FLAVOR:1 "徴募兵は、農民兵、暴徒、地元の傭兵、困窮した貴族といった雑多な道具や即席の武器を装備した人々によって構成されている —— 彼らがほとんどの軍勢の大部分を占めている。"
  LV_RAISED:0 "[LevyView.GetRaisedCount|0]人動員"
  LV_UNRAISED:0 "未召集"
  LV_MAINTENANCE:0 "維持費: [gold_i][LevyView.GetMaintenanceCost|2]/月"

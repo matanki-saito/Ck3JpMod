@@ -63,3 +63,5 @@
  warhorse_name_burko:0 "ブルコ"
  warhorse_name_aranjagaan:0 "アランジャガン"
  warhorse_name_boreas:0 "ボレアス"
+ winter_soldier_skill_desc:0 "warfare in winter"
+ trait_winter_soldier_tooltip:0 "[GetTrait('winter_soldier').GetName( ROOT.Char )]"

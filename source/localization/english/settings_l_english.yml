@@ -58,3 +58,5 @@
  SETTING_HIDE_COAST_BORDER_ON_ZOOM_TOOLTIP:0 "#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nこのオプションは、沿岸領域の境界線をいつ表示するかを制御します。\n$BASED_ON_ZOOM_LEVEL$の場合は、精細ズームレベルでは非表示になります。\n\n$ALWAYS_SHOW$や$ALWAYS_HIDE$を選択すると、沿岸領域の境界線が動的に隠れなくなる代わりに、パフォーマンスが向上する可能性があります。"
  SETTING_SHOW_NUDITY:0 "裸を表示"
  SETTING_SHOW_NUDITY_TOOLTIP:0 "#T $SETTING_SHOW_NUDITY$#!\n人物の裸を表示するかどうかを設定します。"
+ SETTING_WINTER_PARTICLE_EFFECTS:0 "冬季の雪の効果"
+ SETTING_WINTER_PARTICLE_EFFECTS_TOOLTIP:0 "#T $SETTING_WINTER_PARTICLE_EFFECTS$#!\nマップ内の一部の地域で冬が有効である時、雪の粒子効果を表示するかどうかを決定します。\n\nオフにした場合、パフォーマンスが向上するでしょう。"

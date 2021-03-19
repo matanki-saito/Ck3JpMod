@@ -36,5 +36,5 @@
  BOOKMARK_DYNASTY_TOOLTIP:0 "#T [dynasty|E] [BookmarkCharacter.GetDynastyTemplate.GetName]#!\n#weak [BookmarkCharacter.GetDynastyTemplate.GetMotto]#!"
  BOOKMARK_CHARACTER_TITLE_TYPE:0 "[BookmarkCharacter.GetTitleName]の[BookmarkCharacter.GetTitleTierName]#weak （[BookmarkCharacter.GetGovernmentType.GetName]）#!"
  BOOKMARK_RELATED_CHARACTER:0 "[BookmarkCharacterGUI.GetCharacter.GetName] #weak [BookmarkCharacterGUI.GetCharacter.GetRelation]#!"
- BOOKMARK_IRONMAN_ENABLED:0 "鉄人モード（#positive_value;italic 有効#!）"
- BOOKMARK_IRONMAN_DISABLED:0 "鉄人モード（#negative_value;italic 無効#!）"
+ BOOKMARK_IRONMAN_ENABLED:1 "鉄人モード"
+ BOOKMARK_IRONMAN_DISABLED:1 "鉄人モード"

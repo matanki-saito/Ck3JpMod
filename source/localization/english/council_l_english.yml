@@ -229,3 +229,7 @@
  councillor_court_chaplain_yazidi_kingdom_possessive:0 "ヤジデイ教祭司"
  councillor_court_chaplain_yazidi_empire:0 "ヤジデイ教長老長"
  councillor_court_chaplain_yazidi_empire_possessive:0 "ヤジデイ教長老長"
+ councillor_leaving_court_message_title:0 "評議員が宮廷を去った"
+ councillor_leaving_court_marriage_notification:0 "あなたの[council_task.GetPositionName]である[councillor.GetShortUINameNoTooltip|U]は所領持ちの配偶者との結婚のため、[councillor.GetHerHis]の地位を捨て、宮廷を去りました。"
+ councillor_leaving_court_landed_notification:0 "あなたの[council_task.GetPositionName]である[councillor.GetShortUINameNoTooltip|U]は称号の継承のため、[councillor.GetHerHis]の地位を捨て、宮廷を去りました。"
+ councillor_leaving_court_generic_fallback_notification:0 "あなたの[council_task.GetPositionName]である[councillor.GetShortUINameNoTooltip|U]は[councillor.GetHerHis]の地位を捨て、宮廷を去りました。"

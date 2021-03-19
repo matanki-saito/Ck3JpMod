@@ -753,3 +753,6 @@
  duke_feudal_brittany:0 "$duke$"
  duke_feudal_brittany_female:0 "$duke_female$"
  duchy_feudal_brittany:0 "$duchy$"
+ title_high_king:0 "High King"
+ title_high_queen:0 "High Queen"
+ title_high_kingdom:0 "High Kingdom"

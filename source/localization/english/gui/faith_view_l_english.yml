@@ -132,5 +132,5 @@
  TEMPORAL_HEAD_CREATED:0 "あなたが[head_of_faith|E]の称号を得ます"
  TEMPORAL_HEAD_NOT_CREATED:0 "[head_of_faith|E]の称号は作成されません。\n[EmptyScope.ScriptValue( 'holy_sites_to_create_temporal_head_of_faith' )|0V]か所の[holy_sites|E]を所有していれば後からでも作成可能です。"
  FAITH_CREATION_ADDS_TEMPORAL_HEAD_TEXT:0 "[temporal_head_of_faith|E]を制定\n[SelectLocalization( GreaterThanOrEqualTo_int32( GetPlayer.GetNumberOfControlledHolySites, FixedPointToInt( EmptyScope.ScriptValue( 'holy_sites_to_create_temporal_head_of_faith' ) ) ), 'TEMPORAL_HEAD_CREATED', 'TEMPORAL_HEAD_NOT_CREATED' )]"
- CREATE_TEMPORAL_HEAD_OF_FAITH_TITLE:0 "[head_of_faith|E]の[title|E]を創設"
- RECREATE_TEMPORAL_HEAD_OF_FAITH_TITLE:0 "[head_of_faith|E]の[title|E]を再創設"
+ CREATE_TEMPORAL_HEAD_OF_FAITH_TITLE:1 "宗教指導者の称号を創設"
+ RECREATE_TEMPORAL_HEAD_OF_FAITH_TITLE:1 "宗教指導者の称号を再創設"

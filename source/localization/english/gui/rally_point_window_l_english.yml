@@ -16,7 +16,7 @@
  RP_LEVIES_ENTRY:0 "[levies|E]: [ArmyComposition.GetMaxNumberOfLevies|V]"
  RP_MAA_ENTRY:0 "[men_at_arms|E]: [ArmyComposition.GetMaxNumberOfMAA|V]"
  RP_TIME_TO_RAISE:0 "召集時間: $VALUE|V$"
- RP_TIME_TO_RAISE_DELAY:0 "召集時間には、最近解散したばかりの[levies|E]の帰国のため、$VALUE$の遅延が含まれます。"
+ RP_TIME_TO_RAISE_DELAY:1 "召集時間には、最近解散したばかりの[soldiers|E]の帰国のため、$VALUE$の遅延が含まれます。"
  RP_RAISE_TOOLTIP_HEADER:0 "#T $RP_RAISE$#!\nこの[rally_point|E]が最も近くなるすべての[armies|E]を召集します。\n#weak 集結地が一つしかない場合は、すべての軍勢がここに召集されます。#!"
  RP_RAISE_RAID_TOOLTIP_HEADER:0 "#T $RP_RAISE_RAID$#!\nこの[rally_point|E]が最も近くなるすべての[armies|E]を[raiders|E]として召集します。\n#weak 集結地が一つしかない場合は、すべての軍勢がここに召集されます。#!"
  RP_RAISE_ALL_TOOLTIP_HEADER:0 "#T $RP_RAISE_ALL$#!\nどの[rally_point|E]に近いかによらず、#emphasis すべて#!の[armies|E]をここに召集します。"

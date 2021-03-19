@@ -11,7 +11,7 @@
  SUCCESSION_EVENT_WINDOW_LEAVE_GAME_TT:0 "マルチプレイゲームを離脱します"
  SUCCESSION_EVENT_WINDOW_CHANGE_CHARACTER:0 "新しいキャラクターを選択"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_1:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳でその魂を手放した。"
- SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_2:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳で[ROOT.Char.GetHerHis]の空蝉を捨てた。"
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_2:0 "[ROOT.Char.GetFullNameNoTooltip]、[ROOT.Char.GetAge]歳にして[ROOT.Char.GetHerHis]の空蝉を捨てん。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_3:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳で亡くなった。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_4:0 "[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetAge]歳でこの世を去った。"
  SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_5:0 "[ROOT.Char.GetFullNameNoTooltip]、齢[ROOT.Char.GetAge]にして身罷れり。さては[ROOT.Char.Custom('GetAfterLifeDestination')]。"

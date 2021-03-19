@@ -33,7 +33,7 @@
  make_soulmate_interaction:0 "この人物と#p 魂の伴侶#!になる"
  make_rival_interaction:0 "この人物と#p ライバル#!になる"
  make_friend_interaction:0 "この人物と#p 友人#!になる"
- check_for_court_owner_interaction:0 "Check for Court Owner"
+ check_for_court_owner_interaction:0 "宮廷の所有者を確認"
  learn_secrets_interaction:0 "この人物の秘密を知る"
  take_title_interaction:0 "この人物の持つ領地を獲得"
  take_title_and_vassals_interaction:0 "この人物の持つ領地と封臣を獲得"
@@ -137,3 +137,4 @@
  has_game_rule_trigger:0 "右記のゲームルールが設定されている: [GAME_RULE.GetName]"
  release_only_trigger:0 "釈放のみ"
  has_global_variable_trigger:0 "以下のグローバル変数を持っている: $VARIABLE$"
+ start_bout_interaction:0 "1対1の対決を開始"

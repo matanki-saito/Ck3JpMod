@@ -5,7 +5,6 @@
  childhood_education.0004.desc2:0 "[ward.GetSheHe]が我々の共通の関心事であった[ROOT.Char.Custom('education_focus')]を放棄するとは！"
  childhood_education.0004.desc_fallback:0 "[ward.GetSheHe|U]は今、[ward.Custom('education_focus_child')]に関する知識を追求している。"
  childhood_education.0004.a:0 "[ward.GetTitledFirstNameNoTooltip]は今、[ward.Custom('education_focus_child')]について学んでいる!"
- childhood_education.0004.b:0 "[ward.GetTitledFirstNameNoTooltip]は今、[ward.Custom('education_focus_child')]について学んでいる…"
  childhood_education.1011.t:0 "それこそが私なのだ"
  childhood_education.1011.desc:0 "[guardian.GetTitledFirstName]は私に、[guardian.GetHerHis]の民族— 即ち#EMP 私たちの#!民族について多くを教えてくれた。なので、私は[guardian.GetFaith.GetAdjective]の信仰を告白をするだけでなく、自分自身を[guardian.GetCulture.GetName]人であるとしっかり自覚している。"
  childhood_education.1011.a:0 "それが私の生きる唯一の道なのだ。"

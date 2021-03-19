@@ -44,7 +44,7 @@
  martial_authority.2054.toast.no_return:0 "我が右腕[right_hand_person.GetWomanMan]は監獄から解放されたが、私の下に戻って来なかった。"
  martial_authority.2055.message:0 "我が右腕[right_hand_person.GetWomanMan]は私の下から去った"
  martial_authority.2055.message.incapable:0 "我が右腕[right_hand_person.GetWomanMan]は無能になった"
- martial_authority.2056.message:0 "我が右腕[right_hand_person.GetWomanMan]は死んだ"
+ martial_authority.2056.message:1 "我が右腕である[ROOT.Char.GetWomanMan|U]は死んだ"
  martial_authority.2056.message.death:0 "我が右腕[right_hand_person.GetWomanMan]を私は殺した"
  martial_authority_special.1100.t:0 "身分を隠して"
  martial_authority_special.1100.start.desc:0 "今夜、私は自分の地位を示すあらゆる記章を外し、兵士たちの間を匿名で歩いた。静かな夜だ、なので口論が起きるとはっきりとその内容が聞こえる。\n\n"
