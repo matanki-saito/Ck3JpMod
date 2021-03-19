@@ -35,9 +35,9 @@ https://paratranz.cn/projects/1518
 
 https://discord.gg/Cu7zE5X
 
-## Game wiki
+## Game wiki for Japanese
 
-http://ck3.paradwiki.org
+https://ck3wiki.popush.cloud/
 
 ## Paradox Ironman mode
 No support
