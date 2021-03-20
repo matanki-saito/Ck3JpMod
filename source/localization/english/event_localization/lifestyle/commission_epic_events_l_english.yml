@@ -36,7 +36,7 @@
  commission_epic.0001.b:0 "我が最高の[ROOT.Char.Custom('CommissionEpicScribes')]を集めよう。"
  scribes_write_epic:0 "我が書記官たちは叙事詩を編集する"
  bards_write_epic:0 "我が書記官たちは叙事詩を編集する"
- commission_epic.0001.c:0 "たしかに少し[servant.Custom('GenderedLowlyServantType')]は低そうだがそれをできるんだろうか？"
+ commission_epic.0001.c:0 "卑しい[servant.Custom('GenderedLowlyServantType')]でもできるだろう？"
  servant_writes_epic:0 "従者の[servant.GetTitledFirstName] は叙事詩を編纂します"
  commission_epic.0001.d:0 "考え直そうか…"
  commission_epic.writing_begins:0 "編纂がはじまった..."

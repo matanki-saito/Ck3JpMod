@@ -625,7 +625,7 @@
  MOD_IGNORE_NEGATIVE_OPINION_OF_CULTURE:0 "他の[cultures|E]に否定的な評価がない"
  MOD_IGNORE_OPINION_OF_DIFFERENT_FAITH:0 "他の[faiths|E]に否定的な評価がない"
  MOD_DEFENDER_HOLDING_ADVANTAGE:0 "防衛側[advantage|E]"
- MOD_WINTER_MOVEMENT_SPEED:0 "Movement Speed in Provinces affected by Winter"
+ MOD_WINTER_MOVEMENT_SPEED:0 "冬のプロヴィンスでの行軍速度"
  MOD_SUPPLY_LOSS_WINTER:0 "Supply loss in Provinces affected by Winter"
  MOD_HARD_CASUALTY_WINTER:0 "[dead_soldiers|E] in Provinces affected by Winter"
  MOD_DEFENDER_WINTER_ADVANTAGE:0 "冬の影響を受けた州の防衛側[advantage|E]"

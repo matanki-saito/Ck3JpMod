@@ -301,7 +301,7 @@
  child_personality.112.desc:0 "[child.GetTitledFirstName]は我々の最近の宴会で困難な時間を過ごしていた。"
  child_personality.112.impatient:0 "[child.GetSheHe|U]は早々にこっそりと抜け出してしまい、その後ずっと姿が見えなかった。"
  child_personality.112.shy:0 "[child.GetSheHe|U]はテーブルの下に潜り込み、そこで食事の間ずっと人々から隠れていた。"
- child_personality.112.gluttonous:0 "[child.GetSheHe|U]は[child.GetHerHis]の顔をまるで食事の中に埋めて貪り、そして[child.GetSheHe]が話したことといえば料理を食した後の次の料理を尋ねる話だけでした。"
+ child_personality.112.gluttonous:0 "[child.GetSheHe|U]は顔を料理の中に埋め、次の料理をくれとしか言わなかった。"
  child_personality.112.confirm_impatient:0 "もっといいことがあるなら、それを代わりにやればいい。"
  child_personality.112.confirm_shy:0 "客人にあなたがいたことを知ってもらうのは重要である。"
  child_personality.112.confirm_gluttonous:0 "食事はいつも楽しいね！"

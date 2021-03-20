@@ -124,5 +124,5 @@
  great_holy_war.0082.a:0 "残された時間はわずかだ！"
  great_holy_war.0085.toast:0 "[converter.GetTitledFirstNamePossessive]の改宗によって私は誓約を破棄せざるを得なくなった"
  great_holy_war.0024.dead.recipient.title:0 "[ghw_claimant.GetFirstNameNoTooltip]は死んだ"
- great_holy_war.0028.dead.beneficiary_title:0 "Dead Beneficiary"
- great_holy_war.0029.invalid.beneficiary_title:0 "Invalid Beneficiary"
+ great_holy_war.0028.dead.beneficiary_title:0 "受益者の死"
+ great_holy_war.0029.invalid.beneficiary_title:0 "無効な受益者"
