@@ -52,6 +52,6 @@
  general_rebellion_decline_summary_warning:0 "@warning_icon!#X [ROOT.Char.GetShortUINameNoTooltip]が拒絶した場合、[ROOT.Char.GetSheHe]は不満を持つ他の[vassals|E]と共に反乱を起こすでしょう！#!"
  general_rebellion_decline_summary_auto_accept:0 ""
  ask_for_pardon_interaction_decline_toast:0 "恩赦の拒否"
- pardon_interaction:0 "Grant Pardon"
- pardon_interaction_desc:0 "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you."
+ pardon_interaction:0 "恩赦を与える"
+ pardon_interaction_desc:0 "[recipient.GetName]は[criminal|E][recipient.GetImprisonmentReasons]の嫌疑から、[tyranny|E]の非難を受けることなく[imprison|E]が可能です。\n\nしかし放免を望むなら恩赦を与えることも出来ます。これにより、[imprison|E]の名目はすべて喪失し、あなたへの[opinion|E]が上昇します。"
  pardon_interaction_toast:0 "Your benevolent liege, [actor.GetFirstName], has pardoned your crimes!"

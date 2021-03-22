@@ -3,7 +3,7 @@
  parent_meddling_decrease_tt:0 "私の[parent.Custom('MotherFather')]は、私が[parent.GetHerHis]の助言に従うことを喜んでいます。"
  parent.1001.t:0 "[parent.Custom('MotherFather')|U]の助言"
  parent.1001.desc:1 "私の[parent.Custom('MotherFather')]は私の領国の$knight_culture_player_plural_no_tooltip_lowercase$について、彼らの訓練の方法や、戦場で何を準備すべきかなど、様々なことを論評している。\n\n$knight_culture_player_plural_no_tooltip$でさえ、[parent.GetSheHe]の言っていることには多くの意味があることを認めている。"
- parent.1001.a:1 "\"So how #EMP should#! the $knight_culture_player_plural_no_tooltip_lowercase$ be organized, [parent.Custom('MotherFather')]?\""
+ parent.1001.a:1 "「それで、どのように$knight_culture_player_plural_no_tooltip_lowercase$を編成#EMP すべき#!だろうか、我が[parent.Custom('MotherFather')]？」"
  parent.1001.b:0 "彼らの戦い方は私が決める！"
  parent.1002.desc:0 "私の[parent.Custom('MotherFather')]は賢明な[parent.GetWomanMan]であり、人々のニーズや欲求について深く理解している。\n\n[parent.GetSheHe|U]はしばしば他人を相手にするとき、よく私を指導してくれる。"
  parent.1002.a:0 "正直、得ることのできる助言はすべて必要なものだ。"

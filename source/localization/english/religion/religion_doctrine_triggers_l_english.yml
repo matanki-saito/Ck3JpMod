@@ -43,4 +43,4 @@
  NOT_I_HAVE_DOCTRINE_PARAMETER:1 "あなたの[faith|E]が$PARAMETER_NAME$を持って#bold いない#!"
  THEY_HAS_DOCTRINE_PARAMETER:0 "[FAITH.GetName]が$PARAMETER_NAME$を持っている"
  NOT_THEY_HAS_DOCTRINE_PARAMETER:0 "[FAITH.GetName]が$PARAMETER_NAME$を持って#bold いない#!"
- INCOMPATIBLE_TENET_GRUESOME_FESTIVALS_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_gruesome_festivals').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_GRUESOME_FESTIVALS_TRIGGER:0 "[GetFaithDoctrine('tenet_gruesome_festivals').GetName( GetPlayer.GetFaith )]の[core_tenet|E]とは両立しない"
