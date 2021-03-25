@@ -759,7 +759,7 @@
  BANISH_EFFECT:2 "領国から[banished|E]される"
  BANISH_EFFECT_FIRST:2 "あなたは、領国から[banished|E]されます"
  BANISH_EFFECT_THIRD:1 "[CHARACTER.GetShortUIName|U]は領国から[banished|E]されます"
- DEPOSE_EFFECT:1 "[deposed|E]されます"
+ DEPOSE_EFFECT:1 "[deposed|E]させられます"
  DEPOSE_EFFECT_FIRST:1 "あなたは[deposed|E]させられます"
  DEPOSE_EFFECT_THIRD:0 "[CHARACTER.GetShortUIName|U]は[deposed|E]させられます"
  CHANGE_TITLE_HOLDER_EFFECT:0 "[TARGET_TITLE.GetName|V]を獲得します"

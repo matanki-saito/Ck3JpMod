@@ -1543,7 +1543,7 @@
  game_concept_single_combat_success_chance_skill:0 "Duel Success"
  game_concept_single_combat_success_chance_desc:0 "When fighting a $game_concept_single_combat_fight$, your $game_concept_single_combat_success_chance$ is how well you are doing in the $game_concept_single_combat_duel$. To win, you must get your $game_concept_single_combat_success_chance$ far above your opponent's.\n\nAs rounds go on, it becomes easier to win, meaning you need less lead over your opponent.\n\nThe counterpart to $game_concept_single_combat_success_chance$ is [single_combat_injury_chance|E]."
  game_concept_single_combat_injury_chance:0 "Risk of Injury"
- game_concept_single_combat_injury_chance_injure:0 "Injure"
+ game_concept_single_combat_injury_chance_injure:0 "負傷"
  game_concept_single_combat_injury_chance_injury_risk:0 "Injury Risk"
  game_concept_single_combat_injury_chance_desc:0 "[characters|E] in $game_concept_single_combat_fight_plural$ run the risk of hurting themselves, either by accidentally opening their guard to their opponent, or simply injuring themselves with their own weapon. As they fight, they also build $game_concept_single_combat_injury_chance$.\n\n$game_concept_single_combat_duel_plural$ that go on longer make it easier to hurt yourself.\n\nThe counterpart to $game_concept_single_combat_injury_chance$ is [single_combat_success_chance|E]."
  game_concept_single_combat_prowess_bonus:0 "Duel Edge Bonus"
