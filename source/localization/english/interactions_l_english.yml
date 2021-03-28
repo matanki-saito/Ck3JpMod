@@ -1094,7 +1094,7 @@
  ANSWER_SUM_NEGATIVE:0 "合計: $VALUE|=+0$ (合計が肯定的になった場合のみ受け入れるでしょう)"
  offer_concubine:0 "[RECIPIENT.Custom('ConcubineConsortOpp')|U]の提案"
  offer_concubine_desc:0 "[recipient.Custom('ConcubineConsortGameConceptOpp')|U]を[recipient.GetShortUINameNoTooltip]として贈る"
- OFFER_CONCUBINE_NOTIFICATION:0 "I think [secondary_actor.GetShortUIName] would serve you well as a [secondary_actor.Custom('ConcubineConsort')]. Will you let [secondary_actor.GetHerHim] into your bed?"
+ OFFER_CONCUBINE_NOTIFICATION:0 "[secondary_actor.GetShortUIName]を[secondary_actor.Custom('ConcubineConsort')]として差し出そうと思います。あなたの寝室に[secondary_actor.GetHerHim]を迎え入れてはどうですか？"
  actor_secondary_offer_concubine:0 "側室"
  CHARACTER_UNAVAILABLE_TO_BE_OFFERED_AS_CONCUBINE:0 "[TARGET_CHARACTER.GetShortUIName|U]は現在利用できません"
  offer_concubine_extra_icon:0 "$hook_extra_icon$"
