@@ -521,7 +521,7 @@
  seduce_ongoing.7001.t:0 "折り重なる仮面の下に"
  seduce_ongoing.7001.desc:0 "どうやって[target.GetTitledFirstName]に近づけばいいだろうか？どうも[target.GetSheHe|U]は友人といるのと同じくらいに黙っているのが好きな内気な人のようで、少なくとも見たところではそうらしい。[target.GetSheHe]のような人が私生活ではどうなのか分かりようがない。[target.GetSheHe]は大人しくて素直な人なのか、あるいは気性が激しく怒りっぽい人なのだろうか？\n\n一度、[target.GetHerHis]の硬い外壁を破ってやろう。とりあえずは少しのあいだ一人になってから、私が[target.GetHerHis]の心に残るようにする方法を決めなければならない。"
  seduce_ongoing.7001.a:0 "できる限り勇敢で魅力的でいよう。"
- seduce_ongoing.7001.a.tt:0 "#F あなたは[target.GetFirstNameNoTooltip]には秘かにロマンティックな一面があり、情熱的な恋人が好みだと思います#!"
+ seduce_ongoing.7001.a.tt:0 "#F あなたは[target.GetFirstNameNoTooltip]には秘かにロマンティックな一面があり、情熱的な恋人が好みだと思っている#!"
  seduce_ongoing.7001.b:0 "[target.GetFirstNameNoTooltip]には優しく近づきましょう、そう、友達みたいに。"
  seduce_ongoing.7001.b.tt:0 "#F [target.GetFirstNameNoTooltip]が優しい恋人を好むタイプであると、あなたは考えている！#!"
  seduce_ongoing.7001.c:0 "もっといい機会を待つよ…"
