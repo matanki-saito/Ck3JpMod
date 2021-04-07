@@ -1,5 +1,5 @@
 ﻿l_english:
- fp1_jomsvikings.0001.t:0 "A Helping Hand from [leader.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ fp1_jomsvikings.0001.t:0 "[leader.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]からの救いの手"
  fp1_jomsvikings.0001.desc.intro:0 "Quartered in their fortress of [leader.GetCapitalLocation.GetTitle.GetNameNoTier], the [leader.GetPrimaryTitle.GetNameNoTier] are a warrior order devoted to protecting the Old Ways of the [leader.GetFaith.GetName] faith against change, dishonor, and foreign faiths.\n\nFor my piety and virtue, [leader.GetTitledFirstName] has sent me a choice of two retainers: [retainer_a.GetFirstName],"
  fp1_jomsvikings.0001.desc.zealous:0 "who sacked a hundred churches,"
  fp1_jomsvikings.0001.desc.wrathful:0 "who once tore a bear clean in two,"
