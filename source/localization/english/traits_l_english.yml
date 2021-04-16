@@ -617,7 +617,7 @@
  trait_twin_desc:0 "この人物は双子として生まれた。"
  trait_twin_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は双子として生まれた。"
  trait_legitimized_bastard:0 "認知された私生児"
- trait_legitimized_bastard_desc:0 "この人物はもともと新生児として生まれたが、今では認知されている。"
+ trait_legitimized_bastard_desc:0 "この人物はもともと私生児として生まれたが、今では認知されている。"
  trait_legitimized_bastard_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は私生児として生まれたが、今では認知されている。"
  trait_disputed_heritage:0 "相続の異議"
  trait_disputed_heritage_desc:0 "この人物には相続について信憑性の高い噂がある。父親が別人だという人間が後を絶たない。"
