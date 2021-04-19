@@ -3,7 +3,7 @@
  game_concept_designate_chief_sacrifice_article:0 "主な生け贄の指定"
  game_concept_designate_chief_sacrifice_chief_sacrifice:0 "主な生け贄"
  game_concept_designate_chief_sacrifice_or_who:0 "あるいは他の誰か"
- game_concept_designate_chief_sacrifice_desc:0 "盛大な生け贄祭りを行う際、[characters|E]は[prisoners|E] の一人を主な生け贄に指定することができます。この$game_concept_prisoner$は最初に殺され、生贄となったキャラクターはより多くの[piety|E]を得ることができます。\n\n望ましい生け贄とは：\n$EFFECT_LIST_BULLET$ [faith|E]が[faith_hostile|L]または[faith_evil|L]である土地を持たない$game_concept_characters$。\n$EFFECT_LIST_BULLET$  [landed|E]$game_concept_characters$のうち、少なくとも[count|E]-[rank|E]であるもの。\n$EFFECT_LIST_BULLET$[heads_of_faith|E]（これは反響があるかもしれませんが）。"
+ game_concept_designate_chief_sacrifice_desc:0 "盛大な生贄祭りを行う際、[characters|E]は[prisoners|E] の一人を主な生贄に指定することができます。この$game_concept_prisoner$は最初に殺され、生贄となったキャラクターはより多くの[piety|E]を得ることができます。\n\n望ましい生贄とは：\n$EFFECT_LIST_BULLET$ [faith|E]が[faith_hostile|L]または[faith_evil|L]である土地を持たない$game_concept_characters$。\n$EFFECT_LIST_BULLET$  [landed|E]$game_concept_characters$のうち、少なくとも[count|E]-[rank|E]であるもの。\n$EFFECT_LIST_BULLET$[heads_of_faith|E]（これは反響があるかもしれませんが）。"
  game_concept_varangian_adventure:0 "ヴァリャーグの冒険者"
  game_concept_varangian_adventures:0 "ヴァリャーグの冒険者"
  game_concept_varangian_adventuring:0 "冒険"

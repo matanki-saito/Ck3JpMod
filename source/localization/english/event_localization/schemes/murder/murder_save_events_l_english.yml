@@ -29,7 +29,7 @@
  murder_save.0004.t:1 "$murder_save_header$ 遭遇"
  murder_save.0004.desc:0 "[target.GetTitledFirstName]はまだ生きている！\n\n私の雇った悪漢が[target.GetHerHis]の一行を待ち伏せしていたが、倒すことはできなかった！あるいは悪漢どもは[target.GetTitleTierName]を捕らえることができたかもしれない。[target.GetSheHe]が誇りにしている、あの凶暴で再三忌むべき軍馬がいなければ！"
  murder_save_failure_warhorse_tt:0 "[target.GetFirstNamePossessiveNoTooltip]の軍馬はその傷が元で死ぬ"
- murder_save.1004.opening:0 "雑木林から叫び声が聞こえてきたとき、私は従者と一緒に旅をしていた。「攻撃だ！[ROOT.Char.GetTitleTierName]を狙え！」待ち伏せだ！\n\n私の金目当ての単なる盗賊ではなく、私の命を狙う殺し屋だ！だが、私の信頼する[ROOT.Char.Custom('HorseStoryMareStallion')]は何をすべきかを知っている！[ROOT.Char.Custom('HorseStorySheHe')|U]は、私の警護が彼らを撃退するために集まっている間、彼らの振り回す刃から私を守るため、後ろ足で立つと足を蹴り上げる。"
+ murder_save.1004.opening:0 "私が従者と一緒に旅をしていると、雑木林から叫び声が聞こえてきた。「攻撃だ！[ROOT.Char.GetTitleTierName]を狙え！」待ち伏せだ！\n\n私の金目当ての単なる盗賊ではなく、私の命を狙う殺し屋だ！だが、私の信頼する[ROOT.Char.Custom('HorseStoryMareStallion')]は何をすべきかを知っている！[ROOT.Char.Custom('HorseStorySheHe')|U]は、私の警護が彼らを撃退するために集まっている間、彼らの振り回す刃から私を守るため、後ろ足で立つと足を蹴り上げる。"
  murder_save.1004.warhorse_dies:0 "\n\n戦いが終わって初めて[ROOT.Char.Custom('WarhorseStoryName')]が私の下に崩れ落ちる、[ROOT.Char.Custom('HorseStoryHerHis')]が深手を負っていたことに気がつく。[ROOT.Char.Custom('HorseStorySheHe')|U]は本当に最後の最後まで私を守ってくれた..."
  murder_save.1004.a:0 "この悪党は誰かに雇われていたが一体誰だ？"
  murder_save.1004.b:0 "背後に誰かいるのは明らかだ！"

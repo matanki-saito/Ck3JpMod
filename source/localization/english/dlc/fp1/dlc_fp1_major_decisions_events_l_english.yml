@@ -1,7 +1,7 @@
 ﻿l_english:
  fp1_major_decisions.0001.t:0 "The High [founder.Custom('GetQueenKing')] of the North"
  fp1_major_decisions.0001.desc:0 "It has long been my ambition to unite the great kingdoms of the North Sea beneath a single, permanent crown. For years I have toiled, winning recognition as a great ruler of each of my realms in turn, and today I make good on my dream.\n\nAfter extracting carefully-worded oaths of unceasing fealty from key vassals, Saxon, Norwegian, and Dane alike have acknowledged my office as High [founder.Custom('GetQueenKing')], the undisputed overlord of the North Sea.\n\nMayhaps my descendants will continue to rule the kingdoms as one. Mayhaps they won't. Thankfully, it no longer matters.\n\nWhoever wears the lesser crowns, #EMP all#! shall bow to the [founder.GetHouse.GetBaseNameNoTooltip] [founder.GetTitleAsNameNoTooltip]!"
- fp1_major_decisions.0001.a:0 "A lasting, mighty realm!"
+ fp1_major_decisions.0001.a:0 "永遠に続く、強大な領国！"
  fp1_major_decisions.0002.t:0 "$fp1_major_decisions.0001.t$"
  fp1_major_decisions.0002.desc:0 "For many years, my liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], has made it clear that [founder.GetSheHe] wishes [founder.GetHerHis] realm to survive [founder.GetHerHim].\n\nThough our kingdoms are bound together by ties of kinship and conflict, the sheer distance and differences between them has made this goal seem unattainable.\n\nToday, these doubts were proved unfounded, with [founder.GetFirstNameNoTooltip] distributing years of written oaths of mutually-binding fealty between all vassals of the realm.\n\nThe $title_high_kingdom$ of the $e_north_sea$ is born!"
  fp1_major_decisions.0002.a:0 "Hail the [founder.GetTitleAsNameNoTooltip]!"
