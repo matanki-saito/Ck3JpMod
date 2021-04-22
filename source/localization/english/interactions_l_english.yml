@@ -1105,7 +1105,7 @@
  RANSOM_EXTORTIONATE_GOLD_IMPRISONED_PERSPECTIVE_OPTION:0 "[gold_i]$EXTORTIONATE_RANSOM_COST|0$で"
  RANSOM_EXTORTIONATE_CURRENT_GOLD_OPTION:0 "[gold_i]$CURRENT_GOLD|0$と[prestige_i]$CURRENT_GOLD|0$で#weak ([gold_i]$EXTORTIONATE_RANSOM_COST|0$の完全な身代金を支払う余裕がない)#!"
  RANSOM_EXTORTIONATE_CURRENT_GOLD_IMPRISONED_PERSPECTIVE_OPTION:0 "[gold_i]$CURRENT_GOLD|0$で#weak ([gold_i]$EXTORTIONATE_RANSOM_COST|0$の完全な身代金を支払う余裕がない)#!"
- NOT_claimant_faction_already_exists:0 "A faction for [TARGET_CHARACTER.GetShortUINamePossessive|U] [claim|E] on [TITLE.GetName] already exists"
+ NOT_claimant_faction_already_exists:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U]の[TITLE.GetName]に対する[claim|E]の派閥は既に存在します"
  offer_vassalization_interaction_aibehavior_rightfulliegetitleholder_tt:0 "あなたは[recipient.GetHerHis]の[rightful_liege|E]である: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_rightfulvassaltitleholder_tt:0 "[recipient.GetSheHe|U]はあなたの[rightful_liege|E]である: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_not_rightfulliegetitleholder_tt:0 "あなたは[recipient.GetHerHis]の[rightful_liege|E]ではない: $VALUE|=+0$"

@@ -7,7 +7,7 @@
  yearly_0003_protected_by_liege:0 "主君による保護"
  yearly_0003_protected_by_liege_desc:0 "この人物の主君は、スパイや策略から積極的に彼らを守っている。"
  vassal_distrust_modifier:0 "疑い深い封臣"
- vassal_distrust_modifier_desc:1 "This liege has shown that they have less than perfect faith in their vassals' service\nRealm [laws|E]: #N +10%#! more expensive"
+ vassal_distrust_modifier_desc:1 "この主君は、封臣の奉仕に完全な信頼を置いていないことを示している\n領国[laws|E]: #N +10%#!の追加費用"
  protected_vassals_honor_modifier:0 "守られた封臣の名誉"
  protected_vassals_honor_modifier_desc:0 "この君主は封臣の名誉のために立ち上がった"
  liege_looking_away_modifier:0 "目をつぶる領主"

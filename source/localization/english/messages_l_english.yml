@@ -312,7 +312,7 @@
  msg_claim_war_invalidated_claimant_unavailable_dead_message:0 "[war.GetName]が終結しました。[claimant.GetTitledFirstName]が死去したため、[claimant.GetHerHis]の請求権を[attacker.GetTitledFirstName]が使用することはできなくなりました。"
  msg_claim_war_invalidated_claimant_unavailable_not_vassal_message:0 "[war.GetName]が終結しました。[claimant.GetTitledFirstName]は[attacker.GetTitledFirstName]の封臣または廷臣ではないため、[claimant.GetHerHis]の請求権を使用することはできなくなりました。"
  msg_concubine_accepted_title:0 "[secondary_actor.GetShortUIName]を[secondary_actor.Custom('ConcubineConsort')|U]として受け入れる"
- msg_concubine_offered_title:0 "Made [secondary_actor.GetTitledFirstName] [recipient.GetTitledFirstNamePossessive] [secondary_actor.Custom('ConcubineConsort')|U]"
+ msg_concubine_offered_title:0 "[secondary_actor.GetTitledFirstName]を[recipient.GetTitledFirstNamePossessive]の[secondary_actor.Custom('ConcubineConsort')|U]にした"
  msg_concubine_offer_rejected_title:0 "[secondary_actor.Custom('ConcubineConsort')|U]は拒否された"
  msg_concubine_offer_rejected:0 "[recipient.GetTitledFirstName]は[secondary_actor.GetTitledFirstName]に対し、[recipient.GetHerHis]の[secondary_actor.Custom('ConcubineConsort')]となることを拒否しました"
  msg_close_family_member_offered_as_concubine_title:0 "[secondary_actor.GetTitledFirstName]は[secondary_actor.Custom('ConcubineConsort')|U]にされました"

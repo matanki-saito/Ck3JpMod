@@ -63,7 +63,7 @@
  fp1_yearly.2204.desc:0 "「申し訳ない。」[new_berserker.GetFirstNameNoTooltip]は感情的な口調で言う。「腹が減ると気が短くなってしまうものでね。」\n\n大柄な[new_berserker.GetWomanMan]は手を差し出すと、私を助け起こす。[new_berserker.GetHerHis|U]の怒りは収まったようだ…今のところは。\n\n「戦いは楽しかった。喜んで君の仲間になるよ、我が友。」と、彼は言う。"
  fp1_yearly.2204.a:0 "「私は喜んであなたを迎え入れよう、友よ！」"
  fp1_yearly.2204.b:0 "「頼むから、立ち去ってくれ…」"
- grizzled_veterans:0 "白髪混じりの熟練者"
+ grizzled_veterans:0 "白髪交じりの熟練者"
  glory_seekers:0 "栄光の探求者"
  fp1_yearly.2300.t:0 "栄光の探求者"
  fp1_yearly.2300.desc:0 "[tavern_location.GetNameNoTier]の酒場には、最近、栄光を求める戦士たちが押し寄せている。\n\nその中には——新しい[recruiting_character.Custom('MistressMaster')]を探している老齢の戦い慣れした熟練のハスカールたちがいる。\n\nまた、海外で栄光をつかみたいと語っている熱心な若者たちもいる。\n\nあるいは、私は彼らのいく人かを雇うべきかもしれないが？"

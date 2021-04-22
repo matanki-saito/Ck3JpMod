@@ -12,7 +12,7 @@
  DYNASTY_VIEW_HOUSES:0 "一族"
  DYNASTY_VIEW_NAME:0 "[Dynasty.GetBaseNameNoTooltip]王朝"
  DYNASTY_VIEW_LIVING_MEMBERS_HEADER:0 "存命中メンバー([Dynasty.GetNumberOfLivingMembers|V])"
- DYNASTY_VIEW_LEGACY_EXPLANATION:2 "All members of the #high [Dynasty.GetBaseNameNoTooltip]#! Dynasty gain the benefits of these [dynasty_perks|E]. Acquiring new [dynasty_perks|E] becomes harder and harder as the cost increases by [dynasty_prestige_i]#V 500#! each time"
+ DYNASTY_VIEW_LEGACY_EXPLANATION:2 "すべての#high [Dynasty.GetBaseNameNoTooltip]#!王朝のメンバーはこれらの[dynasty_perks|E]の恩恵を得ます。新しい[dynasty_perks|E]の取得は難しくなり、毎回コストが[dynasty_prestige_i]#V 500#!上昇します"
  PARENT_DYNASTY_PERK_NEEDED:1 "@warning_icon!#X 以前の遺産をアンロックしていません#!"
  DYNASTY_PRESTIGE_NEEDED:0 "@warning_icon!#X $VALUE$の[dynasty_prestige|E]がありません#!"
  DYNASTY_PERK_TOOLTIP:0 "#T [DynastyPerk.GetNameNoTooltip]#!\n[DynastyPerk.GetEffectDescription( Dynasty.GetDynast )]"

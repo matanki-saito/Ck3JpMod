@@ -692,6 +692,6 @@
  PROWESS_IS_NOT_LESS_THAN:0 "[prowess|E]が[prowess_i]$NUM|V0$より上である"
  MY_PROWESS_IS_NOT_LESS_THAN:0 "あなたの[prowess|E]が[prowess_i]$NUM|V0$以上である"
  THEIR_PROWESS_IS_NOT_LESS_THAN:0 "[CHARACTER.GetShortUINamePossessive|V]の[prowess|E]が[prowess_i]$NUM|V0$以上である"
- ANY_SUB_REALM_TITLE:0 "Any [realm|E] [title|E]:"
+ ANY_SUB_REALM_TITLE:0 "すべての[realm|E][title|E]:"
  NOT_ANY_SUB_REALM_TITLE:0 "[realm|E][title|E]を所有して#bold いない#!"
  NOT_MY_HIGHEST_HELD_TITLE_TIER_IS_TIER:0 "所有している最も高位の称号が$COMPARATOR$$TIER|U$[rank|E]で#bold ない#!"

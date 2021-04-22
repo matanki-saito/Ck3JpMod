@@ -137,4 +137,4 @@
  has_game_rule_trigger:0 "右記のゲームルールが設定されている: [GAME_RULE.GetName]"
  release_only_trigger:0 "釈放のみ"
  has_global_variable_trigger:0 "以下のグローバル変数を持っている: $VARIABLE$"
- start_bout_interaction:0 "1対1の対決を開始"
+ start_bout_interaction:0 "一騎打ちを開始"

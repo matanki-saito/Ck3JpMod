@@ -372,7 +372,7 @@
  great_holy_war_directed_victory_desc:0 "最も貢献度が高いものが対象の王国を獲得します。対象の王国内の[titles|E]は受益者たちに分配されます。"
  religious_war_victory_desc_doctrine_pluralism:0 "対象となる[title|E]のうち、統治者が保有するすべての称号が[attacker.GetShortUIName]に継承されます。"
  great_holy_war_cooldown:0 "あなたの[faith|E]は、過去30年以内にすでに[great_holy_war|E]を行っています"
- CB_ATTACKER_HOF_HUMSACD:0 "Sacrificed your [head_of_faith|E]"
+ CB_ATTACKER_HOF_HUMSACD:0 "あなたの[head_of_faith|E]を生贄にした"
  enemy_gained_new_ally:0 "[this_character.GetTitledFirstName]は新しい同盟を形成しました"
  enemy_gained_new_ally_tt:0 "[other_character.GetTitledFirstName]は、おそらく[this_war.GetName]に敵として参戦します"
  PREVIOUS_VARANGIAN_ADVENTURES_COST:0 "Previous adventures"
