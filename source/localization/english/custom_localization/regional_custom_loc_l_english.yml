@@ -192,6 +192,6 @@
  curse_vaffanculo:0 "vaffanculo"
  curse_curses:0 "curses"
  curse_shit:0 "shit"
- curse_by_the_blood:0 "by the blood"
+ curse_by_the_blood:0 "血によって"
  curse_gods_wounds:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]の傷"
- curse_by_gods_nails:0 "by [ROOT.Char.GetFaith.HighGodNamePossessive] nails"
+ curse_by_gods_nails:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]の爪によって"

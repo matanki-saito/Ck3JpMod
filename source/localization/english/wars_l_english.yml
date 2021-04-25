@@ -375,4 +375,4 @@
  CB_ATTACKER_HOF_HUMSACD:0 "あなたの[head_of_faith|E]を生贄にした"
  enemy_gained_new_ally:0 "[this_character.GetTitledFirstName]は新しい同盟を形成しました"
  enemy_gained_new_ally_tt:0 "[other_character.GetTitledFirstName]は、おそらく[this_war.GetName]に敵として参戦します"
- PREVIOUS_VARANGIAN_ADVENTURES_COST:0 "Previous adventures"
+ PREVIOUS_VARANGIAN_ADVENTURES_COST:0 "以前の冒険者"

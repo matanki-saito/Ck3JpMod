@@ -401,7 +401,7 @@
  motto_we_swear_by_x:0 "我ら$1$に誓う"
  motto_we_carve_runes_of_x:0 "We Carve Runes of $1$"
  motto_with_x_and_y:0 "$1$及び$2$とともに"
- motto_we_tell_tales_of_x:0 "We Tell Tales of $1$"
+ motto_we_tell_tales_of_x:0 "我ら$1$の物語を伝える"
  motto_x_is_our_y:0 "$1$こそ我らの$2$"
  motto_x_guides_us:0 "$1$が我らを導く"
  motto_house_was_forged_by_x:0 "House [CHARACTER.GetHouse.GetBaseNameNoTooltip] was Forged by $1$"

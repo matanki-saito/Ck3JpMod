@@ -7,7 +7,7 @@
  fp1_adventure_legacy_4_name:0 "古参探検者"
  fp1_adventure_legacy_5_name:0 "地方分権当地"
  fp1_pillage_legacy_track_name:0 "略奪"
- fp1_pillage_legacy_track_desc:0 "As the saying goes, \"to the [GetPlayer.GetDynasty.GetBaseNameNoTooltip] Family go the spoils!\""
+ fp1_pillage_legacy_track_desc:0 "諺にもあるように、「戦利品は[GetPlayer.GetDynasty.GetBaseNameNoTooltip]家のものだ！」"
  fp1_pillage_legacy_1_name:0 "海の狼"
  fp1_pillage_legacy_2_name:0 "余裕のあるふところ"
  fp1_pillage_legacy_3_name:0 "手慣れた誘拐犯"
