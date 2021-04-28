@@ -49,7 +49,7 @@
  fp1_major_decisions.0033.desc.decision_founded:0 "長年にわたり活動を続けてきた[founder.GetFaith.GetAdjective]の狂信者である[founder.GetTitledFirstName]は、ついに[founder.GetHerHis]の夢を実現するのに十分な数の支持者を集めた。$b_jomsberg$のできたばかりの新しい要塞に、[founder.GetSheHe]は[founder.GetHerHis]の信仰を守るための新たな戦士の同胞団を集めている。\n\n$d_jomsvikings$の誕生である。"
  fp1_major_decisions.0033.desc.outro:0 "\n\nこの一団は古いやり方を守ることを主張して、アブラハム派、改革者、敵対する異教徒を問わず、バルト海の海域の内外で血みどろに略奪する。"
  fp1_major_decisions.0033.a:0 "すべての人々が[founder.GetFaith.HighGodNamePossessive]の怒りを知るであろう！"
- fp1_major_decisions.0033.b.competition:0 "Hrmf, competition you say?"
+ fp1_major_decisions.0033.b.competition:0 "ふむ、競争だというのだな？"
  fp1_major_decisions.0033.b.heathens:0 "#EMP *はぁ*#!…さらに異教徒の襲撃だと？"
  fp1_major_decisions.1001.t:0 "北海の[ROOT.Char.GetTitleAsNameNoTooltip]"
  fp1_major_decisions.1001.desc.dumb:0 "私はかなり魅力的な人生を送っている。[ROOT.Char.GetTitleAsNameNoTooltip]として、誰もが私を賢明で、慈悲深く、計り知れない#EMP 力#!を持っていると認識しており、まるで世界そのものが私を[ROOT.Char.GetFaith.HighGodNamePossessive]のお気に入りの[ROOT.Char.Custom('GetDaughterSon')]と見ているかのようだ。\n\n私の宮廷人たちは皆、それに同調し、私によく話してくれるが、中でも[sycophant.Custom2('MyCharacterIntroduction',ROOT.Char)]は特にそうだ。\n\n理由として、[sycophant.GetFirstNameNoTooltip]は、潮流そのものが私の命令に従うと主張し、私がそっと囁くだけで引き返すと言っているのだ…"
