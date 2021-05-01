@@ -521,7 +521,7 @@
  fp1_yearly.1063.trigger_failure.tt:0 "事情により[ship_funeral_candidate.GetFirstNamePossessiveNoTooltip]の公葬が中止になる"
  fp1_yearly.1063.a:0 "墳墓を封印せよ。"
  fp1_yearly.1071.t:0 "きらめくような清潔感"
- fp1_yearly.1071.desc:0 "The [ROOT.Char.GetCulture.GetNameNoTooltip] people are, famously, fastidiously clean.\n\nOne of life's great delights is hearing even our harshest foes bitterly admit that no man's beard is better combed, no [ROOT.Char.Custom('WomanManPossessive')] hair more regularly soaped, no [ROOT.Char.GetWomanMan]'s face scrubbed quite so clear of blemishes as that of a good [ROOT.Char.GetCulture.GetNameNoTooltip][ROOT.Char.GetWomanMan].\n\nToday is bath-day, but I feel as though a change of routine might do me good. After all, if all the [ROOT.Char.GetCulture.GetNameNoTooltip] are well-groomed, does it not behoove a [ROOT.Char.GetTitleAsNameNoTooltip] to be the #EMP best#! groomed?"
+ fp1_yearly.1071.desc:0 "[ROOT.Char.GetCulture.GetNameNoTooltip]の人々は、有名なように、潔癖なほどきれい好きです。\n\n人生の大きな楽しみのひとつは、最も厳しい敵でさえも、「良い[ROOT.Char.GetCulture.GetNameNoTooltip][ROOT.Char.GetWomanMan]ほど、髭をきれいに梳かしたり、[ROOT.Char.Custom('WomanManPossessive')]の髪を定期的に手入れしたり、[ROOT.Char.GetWomanMan]の顔をきれいに洗ったりすることはできない」と痛感することです。\n\n今日はお風呂の日ですが、いつもと違うことをした方が良いような気がします。やはり、[ROOT.Char.GetCulture.GetNameNoTooltip]の全員が身だしなみを整えているのであれば、[ROOT.Char.GetTitleAsNameNoTooltip]が#EMP 一番#!身だしなみを整えることは当然のことではないでしょうか？"
  fp1_yearly.1071.a:0 "衛生こそ長生きの秘訣だ！"
  fp1_yearly.1071.b:0 "ちょっとした気遣いができるかな...と"
  fp1_yearly.1071.c:0 "普段通りにするのが一番だ。"
