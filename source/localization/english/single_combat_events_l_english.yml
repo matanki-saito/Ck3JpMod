@@ -68,7 +68,7 @@
  single_combat.0001.enthusiastic_onslaught.motto:0 "#EMP [myself.GetHouse.GetMotto]#!、クズめ！"
  single_combat.0001.hail_mary:0 "これだけの実力者と戦うということは、私に失うものは何もないということだ。"
  single_combat.0001.pocket_sand:0 "お前の[my_foe.Custom('EyeEyes')]に#EMP [sc_defender.Custom('GritType')]#!を入れてやるのはいかがかな？#EMP そら！#!"
- single_combat.0001.nut_em:0 "Let's see how you like a skulling!"
+ single_combat.0001.nut_em:0 "貴様の髑髏がどんなものか見てみよう!"
  single_combat.0001.guard:0 "お前が私のガードを崩すことなどできぬ、[my_foe.GetFirstNameNoTooltip]！"
  single_combat.0001.probing_attack:0 "お前はいずれは隙を見せることになるのだ、臆病者め！"
  single_combat.0001.onslaught:0 "[myself.GetFaith.WarGodName]の怒りを思い知るがいい！"
