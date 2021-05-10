@@ -693,6 +693,6 @@
  claimant_faction_event_troops:0 "僭称者反乱軍"
  SAVE_NAME_LABEL:0 "ファイル名:"
  SAVE_TO_CLOUD_LABEL:0 "クラウドにセーブ"
- ERROR_ACTION:0 "\n#I Click me and I'll show them to you. Right-click me to clear the error log.#!"
+ ERROR_ACTION:0 "\n#I クリックしてそれらを表示します。右クリックでエラーログが消去されます。#!"
  CURRENT_SITUATION_SUGGESTIONS_EMPTY:1 "利用可能なものはありません"
- CHARACTER_INTERACTION_NOT_ALLOWED_IN_VARANGIAN_GUARD:0 "They are not allowed to serve as a [knight|E] in the target [court|E]"
+ CHARACTER_INTERACTION_NOT_ALLOWED_IN_VARANGIAN_GUARD:0 "彼らは目標の[court|E]で[knight|E]として奉仕することはできません"
