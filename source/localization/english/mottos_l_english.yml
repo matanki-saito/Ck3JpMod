@@ -404,7 +404,7 @@
  motto_we_tell_tales_of_x:0 "我ら$1$の物語を伝える"
  motto_x_is_our_y:0 "$1$こそ我らの$2$"
  motto_x_guides_us:0 "$1$が我らを導く"
- motto_house_was_forged_by_x:0 "House [CHARACTER.GetHouse.GetBaseNameNoTooltip] was Forged by $1$"
+ motto_house_was_forged_by_x:0 "[CHARACTER.GetHouse.GetBaseNameNoTooltip]家は$1$によって築かれた"
  motto_founder_shares_x:0 "[CHARACTER.GetFirstName]は$1$を分かち合う"
  motto_odins_wisdom:0 "オーディンの叡智"
  motto_odins_brilliance:0 "オーディンの輝き"
