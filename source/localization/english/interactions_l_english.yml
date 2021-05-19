@@ -761,7 +761,7 @@
  hof_redirect_great_holy_war_interaction:0 "標的を提案"
  recipient_secondary_hof_redirect_great_holy_war_interaction:0 "標的"
  hof_redirect_great_holy_war_interaction_desc:0 "十分な[piety|E]を使用することで、統治者は準備段階で別の王国を狙うよう[actor.GetFaith.Custom('GHWName')]のリーダーを説得することができます。"
- hof_redirected_ghw.0001.desc:0 "The [actor.GetFaith.GHWName] has been redirected to [secondary_recipient.GetName]"
+ hof_redirected_ghw.0001.desc:0 "[actor.GetFaith.GHWName]は[secondary_recipient.GetName]に対するものに変わっています"
  select_ghw_beneficiary_interaction:1 "受益者を選択"
  recipient_secondary_select_ghw_beneficiary_interaction:0 "[beneficiary]"
  select_ghw_beneficiary_interaction_desc:0 "進行中の[actor.GetFaith.Custom('GHWName')]の[beneficiary|E]となるあなたの[dynasty|E]における成人のメンバーを選択します。勝利した場合、あなたの[beneficiary|E]は、戦争への貢献度に比例した称号を受け取ります。"
