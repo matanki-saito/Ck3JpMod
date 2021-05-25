@@ -156,7 +156,7 @@
  intrigue_scheme_ongoing.5012.desc:0 "商人は何も言わず[SCOPE.Custom('VenomousCreature')]を織物のカゴに入れた。帰り道で蓋を開けてみると、なんとそれは空っぽだった…"
  intrigue_scheme_ongoing.5012.a:0 "どこへ行った…？どこへ——あああああああああ！"
  intrigue_scheme_ongoing.5013.desc:0 "\n\n「ママ、見て、見て！あの[ROOT.Char.GetWomanMan]の人、生き物を頭の上に乗せてるよ！」後ろから喜びに満ちた声が響き、私が振り向くとそこには人だかりができていた。"
- intrigue_scheme_ongoing.5013.a:0 "…ジャジャーン！今すぐ降りろ。#EMP 降りろ！#!"
+ intrigue_scheme_ongoing.5013.a:0 "…ジャジャーン！今すぐ降りろ。#EMP 降りろ！#!"
  intrigue_scheme_ongoing.5013.a.tt:0 "生き物は失ったが、少なくとも命は失わなかった…"
  intrigue_scheme_ongoing.5014.t:0 "豪華でエキゾチックな絨毯"
  intrigue_scheme_ongoing.5014.desc:0 "夜明けのはじまりの光のように、青々としていて、生き生きとしていて、やわらかい — 商人が、未来の良好な関係を願って、私に見事な絨毯をプレゼントしてくれた。\n\nその繊細な織り方に驚きながら、ある考えが浮かんできた。このような絨毯は足の踏み跡を消せるのではないか？不器用なスパイの足取りを隠してくれるのでは…？"

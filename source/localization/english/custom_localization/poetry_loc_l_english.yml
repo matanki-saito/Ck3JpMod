@@ -275,7 +275,7 @@
  GeneratePoem_Outro_Rhyming_Strife_03_A_01:0 "そのため、[ROOT.Var('poem_subject').Char.GetHerHis]の勇敢な意思に挑戦するものなどいない、"
  GeneratePoem_Outro_Rhyming_Strife_03_A_02:0 "$GeneratePoem_Outro_Rhyming_Strife_03_A_01$"
  GeneratePoem_Outro_Rhyming_Strife_03_A_03:0 "$GeneratePoem_Outro_Rhyming_Strife_03_A_01$"
- GeneratePoem_Outro_Rhyming_Strife_03_B_01:0 "Lest they discover where the last challenger went."
+ GeneratePoem_Outro_Rhyming_Strife_03_B_01:0 "最後の挑戦者がどこへ行ったのか、バレないように。"
  GeneratePoem_Outro_Rhyming_Strife_03_B_02:0 "来世へと送られることを望まないのであれば。"
  GeneratePoem_Outro_Rhyming_Strife_03_B_03:0 "さもなくば、恐ろしい怒りが彼らの体を引き裂くであろう。"
  GeneratePoem_Outro_Rhyming_Incompetence_01_A_01:0 "ああ、運命とは何と残酷な施しを与えるのだろう、"
