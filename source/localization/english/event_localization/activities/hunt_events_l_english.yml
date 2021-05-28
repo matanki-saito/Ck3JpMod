@@ -22,7 +22,7 @@
  hunt.1011.a:1 "子供みたいなことをしてるといつか報いを受けるぞ。"
  hunt.1011.b:0 "[hated_participant.GetTitleTierName]の行いはどうしようもない。"
  hunt.1011.c:0 "フッ、[nice_courtier.GetFirstNameNoTooltip]はビートの様に真っ赤だったな！"
- hunt.1012.desc:0 "弓を手に、静かな足取りで、目の前の[ROOT.Char.Custom('LocalAnimal')]を見据える…深呼吸をしていざ——あれは[hated_participant.GetTitledFirstName]か？\n\n[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('hated_participant'))]な[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_participant') )]は前方の[ROOT.Char.Custom('TerrainType')]を這っている。[ROOT.Char.Custom('LocalAnimalDesc')]の[ROOT.Char.Custom('LocalAnimal')]に完全に気を取られて私の存在を忘れている。"
+ hunt.1012.desc:0 "弓を手に、静かな足取りで、目の前の[ROOT.Char.Custom('LocalAnimal')]を見据える…深呼吸をしていざ——あれは[hated_participant.GetTitledFirstName]か？\n\n[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('hated_participant'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_participant') )]は前方の[ROOT.Char.Custom('TerrainType')]を這っている。[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]に完全に気を取られて私の存在を忘れている。"
  hunt.1012.a:0 "[hated_participant.GetHerHim]が目に入らなかったなんて残念だ…"
  hunt.1012.a.tt:0 "#EMP ビュンッ！#!"
  hunt.1012.b:0 "このやり方は違う！"
