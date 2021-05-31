@@ -3,7 +3,7 @@
  NO_INHERITABLE_TRAITS:0 "継承可能な特性はありません"
  CHANCE_OF_CHILDREN:0 "妊娠する可能性: $VALUE|V$"
  CHILDRENS_HOUSE:0 "この結婚の子供は[CHARACTER.GetHouse.GetBaseName][house|E]として生まれます"
- CHILDREN_NO_HOUSE:1 "#warning @warning_icon!この結婚の子供は[house|E]に生まれないでしょう#!"
+ CHILDREN_NO_HOUSE:1 "#warning @warning_icon!この結婚の子供は[house|E]格を持たず平民として生を受けます#!"
  CONCUBINE_CHILDREN_HOUSE:1 "このパートナーシップの子供たちは[MatchOffer.GetSecondaryActor.GetHouse.GetBaseName][house|E] に生まれます"
  MARRIAGE_INFO:0 "[MarriageInfo.GetMarriageOrBetrothal]"
  MARRIAGE_CHILDREN_CHANCE_INFO:1 "[MatchOffer.GetChanceOfChildrenDesc]"

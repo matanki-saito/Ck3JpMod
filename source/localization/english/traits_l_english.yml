@@ -705,7 +705,7 @@
  trait_unyielding_defender_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]が知る上で一つだけ確かなことがある。敵はここから先へと進めない。"
  trait_forder:0 "渡河名人"
  trait_forder_desc:0 "この人物は水辺の家にいるため、船から降りたり、海峡や川を渡って攻撃しても、戦闘でアドバンテージペナルティを課せられることはない。"
- trait_forder_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は水辺の家にいるため、船から降りたり、海峡や川を渡って攻撃しても、戦闘でアドバンテージペナルティをが課せられることはない。"
+ trait_forder_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は水辺の家にいるため、船から降りたり、海峡や川を渡って攻撃しても、戦闘でアドバンテージペナルティを課せられることはない。"
  trait_flexible_leader:0 "柔軟な指揮官"
  trait_flexible_leader_desc:0 "この人物は、防衛軍が要塞、地形、河川、海峡横断から得る地の利を減らす方法を知っている。"
  trait_flexible_leader_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は防衛軍が要塞、地形、河川、海峡横断から得る地の利を減らす方法を知っている。"
