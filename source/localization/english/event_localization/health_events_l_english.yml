@@ -244,7 +244,7 @@
  health.safe_treatment.3.desc:0 "[physician.GetTitledFirstName]は私に、ベッドに横になり、そうして[physician.GetHerHim]に手を差し出すように言った。[physician.GetSheHe]は我が手のひらを赤くなるまで強くこすったり叩いたりして、それから足の裏の治療を繰り返した。最後の仕上げとして、[physician.GetSheHe]は私の手足を優しく上下につまんだ。\n\nかくも風変わりな治療"
  health.safe_treatment.4.desc:0 "[physician.GetTitledFirstName]は私に、金色の小瓶に入った透明なポーションを差し出した。私は[physician.GetFirstNamePossessive]の治療薬を以前にも何度か味わったことがあったので、最初は心配したが、飲んでみると臭いも味も感じられなかった。私は成分について尋ねてみたが、[physician.GetSheHe]は門外不出の秘法であるとしか教えてくれなかった。\n\n不思議なポーション"
  health.safe_treatment.5.desc:1 "「呼吸を楽にして下さりませ」と、[physician.GetTitledFirstName]が私に指示した。[physician.GetHerHis]の手にある羽はほとんど空気のように軽く、[physician.GetSheHe]はそれで私の鼻の下を優しくなで始めた。「悪鬼よ、去れ！」[physician.GetSheHe]は私が大きなくしゃみをすると、せきたてた。\n\n奇妙なくすぐり"
- health.safe_treatment.6.desc:1 "[physician.GetTitledFirstName]は私の名義で小さな式典を手配した。我が家族や近しい側近が全員メインホールに集合すると、[ROOT.Char.Custom('DefaultPriestTitle')]は私の美徳と慈悲を強調する説教を行った。式典は一時間で、黙祷により終了した。\n\n[ROOT.Char.GetFaith.HealthGodName]に差し伸べられた手"
+ health.safe_treatment.6.desc:1 "[physician.GetTitledFirstName]は私の名義で小さな式典を手配した。我が家族や近しい側近が全員メインホールに集合すると、[ROOT.Char.Custom('DefaultPriestTitle')]は私の美徳と慈悲を強調する説教を行った。式典は一時間で、黙祷により終了した。\n\n[ROOT.Char.GetFaith.HealthGodName]に差し伸べられた手"
  health.safe_treatment.7.desc:1 "私は横に座っている[physician.GetTitledFirstName]と共に、[ROOT.Char.GetFaith.ReligiousText]の一節を朗読しながら多くの夕べを過ごした。\n\n[ROOT.Char.GetFaith.HealthGodName]の言葉"
  health.safe_treatment.8.desc:0 "[physician.GetTitledFirstName]は[ROOT.Char.Custom('DefaultPriestTitle')]を呼んで、宮廷で最高の歌手を呼び寄せたが、それは明るいテノールの声を持つ幼い子供であることが分かった。何日か続けて、その子は私を眠らせるために歌ってくれた。\n\n癒やしの声"
  health.safe_treatment.9.desc:0 "[physician.GetTitledFirstName]が緑色の粉末をかき混ぜるとコップから湯気が立ち上った。 [physician.GetSheHe|U]はその薬草を飲ませる前に、その治癒特性について詳しく説明した。 「根っこも入ってますよ」[physician.GetSheHe]は自慢げに明かした。\n\n苦い薬草"

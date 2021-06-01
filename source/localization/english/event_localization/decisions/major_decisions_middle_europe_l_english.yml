@@ -47,7 +47,7 @@
  middle_europe_decisions.0015.a:0 "アウグストゥスからシャルルマーニュ、そして[founder.GetFirstNameNoTooltip]へ！"
  middle_europe_decisions.0016.desc:0 "西方のローマ帝国はしばらくのあいだ休眠状態にあり、帝国の尊厳に対する疑問の[founder.GetFaith.GetAdjectiveNoTooltip]答えを、ひいき目にも、不確かなままにしている。\n\n[founder.GetTitledFirstName]が、[founder_hof.GetTitledFirstName]の同意を得て、[ceremony_locale.GetNameNoTooltip]で最高位の[founder.GetFaith.HouseOfWorshipPlural]が主催する豪華な式典でシャルルマーニュの帝国を再興してきたように、いまでもそれは不確かだ。\n\n世界中で、ローマがついに真の神の継承者を再び持つことに確信を得て[founder.GetFaith.GetAdjectiveNoTooltip][founder.GetFaith.PriestNeuterPlural]たちは歓喜している。"
  middle_europe_decisions.0016.a:0 "ふん、帝国のもったいぶったうぬぼれだ。"
- middle_europe_decisions.0016.b:0 "野蛮なゲルマン人め、#emphasis わたし#!がローマ皇帝だ！"
+ middle_europe_decisions.0016.b:0 "野蛮なゲルマン人め、#emphasis わたし#!がローマ皇帝だ！"
  middle_europe_decisions.0016.c:0 "帝国が平和であることを祈ろう。"
  middle_europe_decisions.0016.d:0 "輝かしき光景だ！"
  middle_europe_decisions.0004.desc.emperor_archduke:0 "帝位を掌握していることを利用して、[scoped_ruler.GetTitledFirstName]は自身にオーストリア大公の称号を合法的に付与し、どの王国にも匹敵するものとした。"

@@ -706,7 +706,7 @@
  char_interaction.0233.a:0 "何だと！？言語道断だ！"
  marriage_interaction.0010.desc:0 "婚姻の提案を喜んでお受けします！"
  marriage_interaction.0010.b_desc:0 "あなたの婚約の提案を喜んで受け入れます！"
- marriage_interaction.0010.c_desc:0 "あなたのプロポーズを受け入れます。"
+ marriage_interaction.0010.c_desc:0 "婚姻の提案を受け入れます。"
  marriage_interaction.0010.d_desc:0 "あなたの婚約の提案を受け入れます。"
  marriage_interaction.0010.e_desc:0 "私、[secondary_recipient.GetFirstName]は喜んであなたの求婚に応えます！"
  marriage_interaction.0010.mid.a_desc:0 "\n\nあなたの[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))][secondary_actor.GetFirstName]と、私の[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))][secondary_recipient.GetFirstName]は聖なる婚姻によって一緒になります。"

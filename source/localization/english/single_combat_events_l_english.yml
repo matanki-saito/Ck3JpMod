@@ -146,7 +146,7 @@
  single_combat.0001.tt.special_fallback:0 "#BOL ぐらつく基礎: #!あなたは[my_foe.GetFirstNameNoTooltip]の脛を蹴り上げます"
  single_combat.0001.tt.something_to_hide:0 "#BOL 隠し事: #! あなたは相手に、[my_foe.GetHerHim]に対して持っている[hook|E]を思い出させます"
  single_combat.0001.desc.my_feedback.wait_and_hope.will_die:0 "私は凍りつく。私はここで死ぬかもしれない。何もしなければ、私はここで死ぬ#EMP かもしれない#!のだ。私は[my_foe.GetFirstNameNoTooltip]がつまずいて倒れ、私に好機が訪れないかと祈るような気持ちで、震え、動くこともできない。"
- single_combat.0001.desc.my_feedback.wait_and_hope.will_live:0 "私は時を窺い、じっと待っている。私は最高の戦士ではないかもしれませんが、おそらく、十分なロープさえあれば、[my_foe.GetFirstNameNoTooltip]は自身を吊るすことになるだろう。"
+ single_combat.0001.desc.my_feedback.wait_and_hope.will_live:0 "私は時を窺い、じっと待っている。私は最高の戦士ではないかもしれないが、おそらく、十分なロープさえあれば、[my_foe.GetFirstNameNoTooltip]は自身を吊るすことになるだろう。"
  single_combat.0001.desc.my_feedback.unsure_attack:0 "その場しのぎの[myself.Custom('SignatureWeaponAttemptedLightPlural')]をいくつか試して、私の[myself.Custom('signature_weapon')]を失わないようにすることに集中したが、実際には相手に近づくことさえできなかった。"
  single_combat.0001.desc.my_feedback.enthusiastic_onslaught:0 "I have [myself.Custom('SignatureWeaponArticle')] [myself.Custom('signature_weapon')], I have an enemy, and I'm determined to introduce the two by any means. Wild swings, backhanded smacks, flailing strikes from my weapon's [myself.Custom('SignatureWeaponEndType')], anything to batter my foe."
  single_combat.0001.desc.my_feedback.hail_mary:0 "[myself.Custom('signature_weapon')]を荒々しく[myself.Custom('SignatureWeaponFlourishPresentParticiple')|U]、私は[my_foe.GetFirstNameNoTooltip]に向かって突進する。死ぬのであればせめて苦しい戦いにしてやろう、[my_foe.GetFirstNameNoTooltip]は私の必死の意気込みに追い込まれていく。"

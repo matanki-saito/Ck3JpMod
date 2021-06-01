@@ -114,7 +114,7 @@
  spouse.2012.t:0 "結婚の秘密"
  spouse.2012.secret_about_me:0 "私の[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse'))]には隠し通せないものがあると感じることがある。[spouse.GetFirstName]は理解してくれると分かっている。"
  spouse.2012.secret_about_spouse:0 "私が[spouse.GetFirstName]について知っていることがある。私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))]は無知の中で暮らし続けることはできない。"
- spouse.2012.secret_about_other:0 "聞き耳をたてる人たちから離れ、次に二人きりになったとき、あることを[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse'))]に打ち明けるべきかを考えている。\n\n私が[owner_of_secret.GetTitledFirstName]について知ったことは、[spouse.GetHerHim]にとって大きな関心事になるだろう。"
+ spouse.2012.secret_about_other:0 "次に、聞き耳を立てられないよう二人きりになったとき、あることを[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('spouse'))]に打ち明けようかと考えている。\n\n私が[owner_of_secret.GetTitledFirstName]について知ったことは、[spouse.GetHerHim]にとって大きな関心事になるだろう。"
  spouse.2012.a:1 "この秘密を[spouse.GetFirstNameNoTooltip]と共有しよう。"
  spouse.2012.a.tt:0 "秘密は[spouse.GetTitledFirstName]に明かされます"
  spouse.2012.b:0 "闇の中に置いておいた方が良いものもある。"

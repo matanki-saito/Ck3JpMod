@@ -130,7 +130,7 @@
  stewardship_duty.4042.a:0 "別の手段を試す必要があるな…"
  stewardship_duty.4043.desc:0 "それは交渉ではなかった——要求だった。[my_vassal.GetTitledFirstName]が[my_vassal.GetHerHis]の称号を維持できるのは、私がそれに満足しているからであり、私の味方でありつづけるならば譲歩すべきだとはっきりさせた。"
  stewardship_duty.4043.a:0 "$stewardship_duty.4041.a$"
- stewardship_duty.4044.desc:0 "負担がより重い契約を受け入れよという私の要求に[my_vassal.GetTitledFirstName]は尻込みしていた。\n\n私が[ROOT.Char.GetTitleAsNameNoTooltip]でこの国の君主であっても、原契約には特権が保証されており簡単に奪われるべきではないと[my_vassal.GetSheHe|U]は言った——少なくとも正当には。"
+ stewardship_duty.4044.desc:0 "負担がより重い契約を受け入れよという私の要求に[my_vassal.GetTitledFirstName]は尻込みしていた。\n\n私が[ROOT.Char.GetTitleAsNameNoTooltip]でこの国の君主であっても、原契約には特権が保証されており簡単に奪われるべきではないと[my_vassal.GetSheHe|U]は言った——少なくとも正当には。"
  stewardship_duty.4044.a:0 "$stewardship_duty.4042.a$"
  stewardship_duty.4060.t:0 "派閥の組織化"
  stewardship_duty.4060.desc.default:0 "戦争のさなかであっても、[faction_leader.GetTitledFirstName]と[targeting_faction.GetName]の援助者どもは、彼らの目的を進めるためにどんな口実でも利用するつもりだ！"
