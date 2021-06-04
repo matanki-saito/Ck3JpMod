@@ -28,7 +28,7 @@
  WAR_OVERVIEW_BATTLES:0 "[battles|E]: $WARSCORE$"
  WAR_OVERVIEW_OCCUPATION:0 "占領: $WARSCORE$"
  WAR_OVERVIEW_TICKING:0 "時間経過: $WARSCORE$"
- WAR_OVERVIEW_CANNOT_SEND:1 "@warning_icon!#X [war_leaders|E]のみが講和を提案してよい。#!"
+ WAR_OVERVIEW_CANNOT_SEND:1 "@warning_icon!#X [war_leaders|E]のみが講和を提案可能です。#!"
  SEND_BUTTON_VICTORY:0 "要求を飲ませる"
  SEND_BUTTON_WHITE_PEACE:0 "白紙和平の提案"
  SEND_BUTTON_DEFEAT:0 "降伏"
