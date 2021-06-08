@@ -27,3 +27,7 @@
  ACTIVITY_LOCATION:0 "場所: [ActivityWindow.GetActivity.GetLocation.GetName]"
  ACTIVITY_SELECT_ATTENDEES_IN_TOOLTIP:0 "[Select_CString( ActivityMapItem.GetActivity.GetType.GetActivityShowAccepted, ActivityMapItem.GetActivity.WriteListOfAcceptedGuests, '' )]"
  ACTIVITY_MAP_ITEM_TOOLTIP_TOGGLE_CLICKABLE:1 "#T [ActivityMapItem.GetActivity.GetName]#! $ACTIVITY_SELECT_ATTENDEES_IN_TOOLTIP$ #I [Select_CString( ActivityMapItem.GetActivity.GetType.HasActivityWindow, '\nClick to select', '' )]#!"
+ activity_playdate:0 "Meet Peers"
+ activity_playdate_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Peer Meet"
+ activity_playdate_desc:0 "Every child of stature in the realm has been invited to enjoy themselves, meet others their age, and play!"
+ activity_playdate_owner:0 "Host"

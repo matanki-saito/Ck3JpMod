@@ -1,3 +1,4 @@
 ﻿l_english:
  DATE_AD_YEAR:0 "西暦$YEAR$年"
  DATE_BC_YEAR:0 "紀元前$YEAR$年"
+ DATE_FORMATTING_LONG:0 "$DAY$ $MONTH$, $YEAR$"

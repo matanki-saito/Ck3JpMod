@@ -266,7 +266,7 @@
  single_combat.0031.desc.sc_defender.butchery:0 "私は虐殺には長けていたはずだが、ここでは何の役にも立っていない。"
  single_combat.0031.desc.sc_defender.stoic_veteran:0 "ミクラガルズで私が学んだことが何であれ、それは十分ではなかったらしく、相手が何度も受け流している。"
  single_combat.0031.desc.sc_defender.blade_dance:0 "私の華やかな試みは、相手が次々と反撃してきたことで、間違っていたことが判明する。"
- single_combat.0031.desc.sc_defender.wrath_of_highgod:0 "私の叫びのような祈りは、逆に相手に好機を与えるだけだ。"
+ single_combat.0031.desc.sc_defender.wrath_of_highgod:0 "私の叫ぶような祈りは、逆に相手に好機を与えるだけだ。"
  single_combat.0031.desc.sc_defender.hurt_me_better:0 "痛みはしばしば私の味方であったが、今日は私を見捨てたようだ。"
  single_combat.0031.desc.sc_defender.special_fallback:0 "私の蹴りに対して、相手は何の問題もなく身を引いている。"
  single_combat.0031.desc.sc_defender.something_to_hide:0 "相手は、私の暗黙の脅しを聞いていないか、または全く気にしていないのだ。"

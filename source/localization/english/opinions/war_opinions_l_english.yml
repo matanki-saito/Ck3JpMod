@@ -8,3 +8,5 @@
  rejected_call_to_offensive_war:0 "攻撃戦争への援軍を拒否した"
  contributed_in_war:0 "私の戦争で貢献した"
  peasant_revolt_opinion:0 "$vassal_lost_or_wp_faction_revolt_war$"
+ vassal_lost_faction_revolt_war:0 "Revolted against me"
+ vassal_wp_faction_revolt_war:0 "Revolted against me"

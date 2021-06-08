@@ -156,7 +156,7 @@
  GeneratePoem_Intro_Rhyming_Legacy_01_A_02:0 "$GeneratePoem_Intro_Rhyming_Legacy_01_A_01$"
  GeneratePoem_Intro_Rhyming_Legacy_01_A_03:0 "$GeneratePoem_Intro_Rhyming_Legacy_01_A_01$"
  GeneratePoem_Intro_Rhyming_Legacy_01_B_01:0 "彼らの行為、彼らの行動、彼らの膨れ上がった価値"
- GeneratePoem_Intro_Rhyming_Legacy_01_B_02:0 "And hope of good words there is no dearth"
+ GeneratePoem_Intro_Rhyming_Legacy_01_B_02:0 "良き言葉への希望は尽きない"
  GeneratePoem_Intro_Rhyming_Legacy_01_B_03:0 "彼らがこの国のどこで生まれたかは問題ではない、"
  GeneratePoem_Intro_Rhyming_Legacy_02_A_01:0 "[ROOT.Var('poem_subject').Char.GetWomenMen|U]は命が去ろうと恐れる必要はない、"
  GeneratePoem_Intro_Rhyming_Legacy_02_A_02:0 "$GeneratePoem_Intro_Rhyming_Legacy_02_A_01$"

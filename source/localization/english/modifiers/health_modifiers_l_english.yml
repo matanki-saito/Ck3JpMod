@@ -47,3 +47,5 @@
  gaining_weight_modifier_desc:0 "この人物は体重を増やす努力をしています。"
  losing_weight_modifier:0 "体重を減らす"
  losing_weight_modifier_desc:0 "この人物は痩せる努力をしています。"
+ almost_drowned_modifier:0 "Almost Drowned"
+ almost_drowned_modifier_desc:0 "This character almost drowned and is still shaken by the experience."

@@ -94,3 +94,6 @@
  murder_save_poison_dog_tt:0 "[target.GetFirstNamePossessiveNoTooltip]はその毒が元で死ぬ"
  murder_save.1012.desc:0 "私が食事をしようと座っていると、私の愛犬である[THIS.Char.Custom('DogStoryName')]が物欲しそうな目でな私の後を追いかけてきたので、私は皿の中の一切れを[THIS.Char.Custom('DogStoryHerHim')]のために床に落としてやった。\n\n食事を始めようとした矢先、私は大きく痛々しい鳴き声に驚いた。[THIS.Char.Custom('DogStoryName')]は床の上で悶え、[THIS.Char.Custom('DogStoryHerHis')]の悲しげな訴えは、[THIS.Char.Custom('DogStorySheHe')]がじっとしている間にますます弱くなっていく。食べ物には毒が入っていたのか！？"
  murder_save_poison_dog_dies:0 "[THIS.Char.Custom('DogStoryName')]はあなたを救い、その毒が元で死んだ"
+ murder_save.0013.t:0 "$murder_save_header$ The Gourmet Nose"
+ murder_save.0013.desc:0 "[target.GetTitledFirstName] still lives!\n\nThe poison, [target.Custom('GetExpensiveMeal')]... Everything was going according to plan until [target.GetSheHe] noticed something was off. We tried to poison [target.GetHerHis] favorite dish, and [target.GetSheHe] noticed it had a different smell at once and threw it away."
+ murder_save.1013.desc:0 "As I tuck into my favorite dinner, a curious smell strikes my nose. Hints of acidity linger beneath its usual aroma, the balance of the spices seems off... After questioning the cook, who said all was prepared normally, only one thought is in my mind: someone tried to poison me!"

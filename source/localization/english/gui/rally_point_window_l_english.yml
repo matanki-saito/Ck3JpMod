@@ -22,3 +22,6 @@
  RP_RAISE_ALL_TOOLTIP_HEADER:0 "#T $RP_RAISE_ALL$#!\nどの[rally_point|E]に近いかによらず、#emphasis すべて#!の[armies|E]をここに召集します。"
  RP_MOVE_RALLY_POINT:1 "#T 集結地を移動\n#!#I または、マップを直接右クリックしてください#!"
  RP_RAISE_BLOCK_AT_WAR:0 "@warning_icon!#X [war|E]中は[raiders|E]を召集できません#!"
+ RP_RAISE_MEN_AT_ARMS:0 "Raise All Men-at-Arms Here"
+ RP_NO_RAISABLE_TROOPS_MEN_AT_ARMS:0 "#X No unraised Men-at-Arms available#!"
+ RP_RAISE_MEN_AT_ARMS_TOOLTIP_HEADER:0 "#T $RP_RAISE$#!\nRaise all [men_at_arms|E] here.#!"
