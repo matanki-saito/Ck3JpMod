@@ -182,5 +182,5 @@
  claimant_faction_member_opinion:0 "主君を王位に就けた"
  raided_me_opinion:0 "私を襲撃した"
  treachery_opinion:0 "裏切り者"
- lost_weak_hook_opinion:0 "Lost a Weak Hook"
- lost_strong_hook_opinion:0 "Lost a Strong Hook"
+ lost_weak_hook_opinion:0 "弱いフックを失った"
+ lost_strong_hook_opinion:0 "強いフックを失った"

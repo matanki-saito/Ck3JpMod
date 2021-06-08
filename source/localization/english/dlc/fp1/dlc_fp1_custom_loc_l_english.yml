@@ -107,7 +107,7 @@
  SteleCommemoratesConquest_HardFought:0 "$SteleCommemoratesConquest_Intro$。この戦争は他のどの戦争よりも厳しい戦いだった。$SteleCommemoratesCarver$。"
  SteleCommemoratesConquest_EmbarrassinglyEasy:0 "$SteleCommemoratesConquest_Intro$。戦いは困惑するほど容易いものだった。$SteleCommemoratesCarver$。"
  SteleCommemoratesConquest_OftForgotten:0 "$SteleCommemoratesConquest_Intro$。この戦争は、その重要さにもかかわらず、忘れ去られがちである。$SteleCommemoratesCarver$。"
- SteleCommemoratesPromotion_Intro:1 "Raised for [second.MakeScope.Var('stele_commissioner').Char.GetTitledFirstNameNicknamed] to mark [second.MakeScope.Var('stele_commissioner').Char.GetHerHis] succession to the throne of [second.MakeScope.Var('stele_container').Title.GetNameNoTier]"
+ SteleCommemoratesPromotion_Intro:1 "[second.MakeScope.Var('stele_commissioner').Char.GetHerHis]の[second.MakeScope.Var('stele_container').Title.GetNameNoTier]王位継承を記念し[second.MakeScope.Var('stele_commissioner').Char.GetTitledFirstNameNicknamed]に掲げる。"
  SteleCommemoratesPromotion_Predestined:0 "$SteleCommemoratesPromotion_Intro$。多くの人はこれを運命的なものと考えている。$SteleCommemoratesCarver$。"
  SteleCommemoratesPromotion_TrulyWorthy:1 "$SteleCommemoratesPromotion_Intro$。真の統治者としてふさわしいのは[second.MakeScope.Var('stele_commissioner').Char.GetSheHe]のみであった。$SteleCommemoratesCarver$。"
  SteleCommemoratesPromotion_Magnificent:1 "$SteleCommemoratesPromotion_Intro$。[second.MakeScope.Var('stele_commissioner').Char.GetHerHis]の壮大な治世が100年続きますように。$SteleCommemoratesCarver$。"

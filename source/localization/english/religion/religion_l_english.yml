@@ -752,5 +752,5 @@
  holy_site_konugardr_effect_name:0 "[holy_site|E]から #weak ($holy_site_konugardr_name$)#!"
  PIETY_TEXT_ICON_judaism:0 "@piety_icon_judaism!"
  PIETY_TEXT_ICON_zoroastrian:0 "@piety_icon_zoroastrian!"
- holy_site_olympus_name:0 "Mount Olympus"
- holy_site_olympus_effect_name:0 "From [holy_site|E] #weak ($holy_site_olympus_name$)#!"
+ holy_site_olympus_name:0 "オリンポス山"
+ holy_site_olympus_effect_name:0 "[holy_site|E]から #weak ($holy_site_olympus_name$)#!"

@@ -187,7 +187,7 @@
  single_combat.0001.desc.my_feedback.hurt_me_better:0 "甘い痛みほど血が騒ぐものはないし、私ほど痛みを理解している者はいない。傷を煽るため、私は[my_foe.GetFirstNameNoTooltip]に突進して、野蛮な弾幕を解放するため、[myself.Custom('signature_weapon')]と共に[myself.Custom('SignatureWeaponAttemptedLightPlural')]。"
  single_combat.0001.desc.my_feedback.special_fallback:0 "その好機を見計らって、私は[my_foe.GetFirstNamePossessiveNoTooltip]の脛を狙って激しい蹴りを入れ、[my_foe.GetHerHim]の足をほとんど動けなくする。"
  single_combat.0001.desc.my_feedback.something_to_hide:0 "一瞬、[my_foe.GetFirstNameNoTooltip]は静止する。その時、[my_foe.GetHerHis]は頭の中で何かを理解したようで、[my_foe.GetHerHis]の体は、私が[my_foe.GetHerHim]を支配していることを思い出す重さにより、明らかに強さを失っている。"
- single_combat.0001.desc.opponent_response.wait_and_hope:0 "[my_foe.GetFirstNameNoTooltip]は、私が[my_foe.Custom('signature_weapon')]を投げ下ろすことを期待してるのか、じっとしたままだ。"
+ single_combat.0001.desc.opponent_response.wait_and_hope:1 "[my_foe.GetFirstNameNoTooltip] stays stock-still, seemingly hoping I'll just throw down my [myself.Custom('signature_weapon')]."
  single_combat.0001.desc.opponent_response.unsure_attack:0 "[my_foe.GetFirstNameNoTooltip]は、ためらいがちに、私に向けて[myself.Custom('SignatureWeaponAttemptedLight')]を放つが、その一撃は簡単に振り払われる。"
  single_combat.0001.desc.opponent_response.enthusiastic_onslaught.banned_house:0 "「#EMP [my_foe.GetFullNameNoTooltip]！#!」$single_combat.0001.desc.opponent_response.enthusiastic_onslaught.epilogue$"
  single_combat.0001.desc.opponent_response.enthusiastic_onslaught.own_house:0 "「貴様は[my_foe.GetHouse.GetNameNoTooltip]の家名を汚したのだ！」$single_combat.0001.desc.opponent_response.enthusiastic_onslaught.epilogue$"

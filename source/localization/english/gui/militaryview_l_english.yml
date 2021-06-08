@@ -130,4 +130,4 @@
  STRENGTH_COMPARISON_TOTAL_STRENGTH:0 "@soldier_icon![GuiMilitaryStrength.GetTargetTotal|0]"
  STRENGTH_COMPARISON_ALLIES:1 "[ally_i|E][GuiMilitaryStrength.GetTargetAlliesCount]"
  MEN_AT_ARMS_TYPE_NAME:1 "タイプ: #high [MenAtArmsType.GetBaseTypeName]#!"
- TT_RAISE_ALL_MEN_AT_ARMS:0 "#T Raise all Men-at-Arms#!\n[men_at_arms|E] will be raised at the [rally_point|E] closest to your [realm_capital|E]."
+ TT_RAISE_ALL_MEN_AT_ARMS:0 "#T 全常備軍を招集#!\n[men_at_arms|E]はあなたの[realm_capital|E]の最も近くの[rally_point|E]に集結します。"
