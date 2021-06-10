@@ -696,7 +696,7 @@
  ERROR_ACTION:0 "\n#I クリックしてそれらを表示します。右クリックでエラーログが消去されます。#!"
  CURRENT_SITUATION_SUGGESTIONS_EMPTY:1 "利用可能なものはありません"
  CHARACTER_INTERACTION_NOT_ALLOWED_IN_VARANGIAN_GUARD:0 "彼らは目標の[court|E]で[knight|E]として奉仕することはできません"
- RAISE_ALL_MEN_AT_ARMS:0 "全常備軍を招集"
+ RAISE_ALL_MEN_AT_ARMS:0 "全常備軍を召集"
  TRAIT_FLAG_DESC_can_dismiss_hooks_interaction:0 "Unlocks the [dismiss_strong_hook_interaction|E]"
  TRAIT_FLAG_DESC_can_abandon_hooks_interaction:0 "Unlocks the [abandon_hook_interaction|E]"
  TRAIT_FLAG_DESC_can_duel_criminals_interaction:0 "Unlocks the [force_duel_criminals_interaction|E]"

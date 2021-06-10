@@ -57,4 +57,4 @@
  HOLDING_TT_GARRISON_BASE:0 "Base"
  HOLDING_TT_GARRISON_REINFORCEMENT:0 "#T [garrison_reinforcement|E]#!"
  HOLDING_TT_GARRISON_UNDER_SIEGE:0 "#N [siege|E]#!"
- HOLDING_TT_GARRISON_UNDER_SIEGE_DESC:1 "@warning_icon!#X The [holding|E] is under [siege|E]#!"
+ HOLDING_TT_GARRISON_UNDER_SIEGE_DESC:1 "@warning_icon!#X [holding|E]は[siege|E]されています#!"

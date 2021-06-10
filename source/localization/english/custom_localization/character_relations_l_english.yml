@@ -143,4 +143,4 @@
  BLOCKER_TOO_OLD_FOR_CHILDREN:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe]は歳を取りすぎです#!"
  BLOCKER_TRAIT_BLOCKING_CHILDREN:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe]は[TRAIT.GetName( CHARACTER.Self )|L]です#!"
  BLOCKER_TOO_MANY_CHILDREN:0 "@warning_icon!#X [CHARACTER.GetShortUINameNotMe]と[TARGET_CHARACTER.GetShortUINameNotMe]の間には子供が多すぎます#!"
- BLOCKER_SAME_SEX:0 "@warning_icon!#X Same-sex concubinage cannot result in pregnancy#!"
+ BLOCKER_SAME_SEX:0 "@warning_icon!#X 同性間の関係では妊娠しません#!"

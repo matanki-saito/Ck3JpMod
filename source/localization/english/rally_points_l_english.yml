@@ -11,4 +11,4 @@
  RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X [occupation|E]下にある、あるいは敵の[armies|E]がいる[rally_point|E]では軍を召集できません。#!"
  RP_NOTHING_TO_RAISE:0 "#X 召集できる[armies|E]がありません#!"
  RAISE_TROOPS_EXTRA_INFO:0 "#I Crtl+クリックで[armies|E]の[Concept( 'supply_limit', '供給限界')|E]に基づく分割を#bold 行わない#!#!"
- RP_NOTHING_TO_RAISE_MAA:0 "#X No [men_at_arms|E] to raise#!"
+ RP_NOTHING_TO_RAISE_MAA:0 "#X 召集できる[men_at_arms|E]はありません#!"

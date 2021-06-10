@@ -99,4 +99,4 @@
  WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon!#X あなたは[faction_invite_from.GetTitledFirstName]と戦争中です#!"
  WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon!#X [faction_invite_from.GetTitledFirstName]は派閥に参加できません#!"
  peasant_faction_spawn_county_levies:0 "伯爵領の[levies]に比例する農民反乱の[army|E]が出現します"
- FACTION_POWER_INTERNAL_ISSUES:0 "Existing Factions: #V $VALUE|0$#!"
+ FACTION_POWER_INTERNAL_ISSUES:0 "存在する派閥: #V $VALUE|0$#!"
