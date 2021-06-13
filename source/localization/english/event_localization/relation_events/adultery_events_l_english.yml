@@ -142,7 +142,7 @@
  adultery.2006.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))]である[owner.GetTitledFirstName]は、私が[owner.GetHerHim]ではなく、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))]である[real_father.GetTitledFirstName]の[ROOT.Char.Custom('GetDaughterSon')]であることを知った！少なくとも、世間には知られていない…まだ。"
  adultery.2006.a:0 "今、私はどうやって[owner.GetHerHim]と向き合えばよいのだ？"
  adultery.2008.t:0 "私の[adultery_child.Custom('GetDaughterSon')|U]？"
- adultery.2008.desc:2 "This fear that has been growing in my chest was always justified!\n\nMy spies have discovered that I am not the father of [adultery_child.GetTitledFirstName]. [adultery_child.GetSheHe|U] is the result of an illicit union between [adultery_spouse.GetFirstName] and [real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]!"
+ adultery.2008.desc:2 "胸で高まるこの不安は、いつだって正しかった！\n\nスパイが、私が[adultery_child.GetTitledFirstName]の父親ではないことを明らかにした。[adultery_child.GetSheHe|U]は[adultery_spouse.GetFirstName]と[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]の野合の産物なのだ！"
  adultery.2008.a:0 "皆に知らしめよう——あれは我が子ではないと！"
  adultery.2008.b:0 "考える時間が必要だ。"
  adultery.2008.b.tt:0 "今のところは胸に秘めておこう。"

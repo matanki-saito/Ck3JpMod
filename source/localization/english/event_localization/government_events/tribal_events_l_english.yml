@@ -122,5 +122,5 @@
  tribal.1014.a:0 "呪ってやる！"
  tribal.1015.desc:0 "[liege_champion.GetTitledFirstName]は[liege_champion.Custom('signature_weapon')]を掲げて攻撃する。\n\n#EMP 身をかわし、前進し、牽制し…#![liege_champion.Custom('SignatureWeaponActionReaction')]とともに[liege_champion.GetSheHe]が[challenger.GetTitledFirstNamePossessive]の足を[liege_champion.Custom('SignatureWeaponCriticalPresent')]、[challenger.GetSheHe]がよろめく中、私はやり遂げたのだと悟る。"
  tribal.1015.a:0 "貴公が失敗から何かを学びますように！"
- tribal.1022.trigger_failure.challenger:0 "My [single_combat_duel|E] against [liege_to_challenge.GetFirstNameNoTooltip] has invalidated"
- tribal.1022.trigger_failure.liege_to_challenge:0 "My [single_combat_duel|E] against [challenger.GetFirstNameNoTooltip] has invalidated"
+ tribal.1022.trigger_failure.challenger:0 "[liege_to_challenge.GetFirstNameNoTooltip]に対する私の[single_combat_duel|E]は無効である"
+ tribal.1022.trigger_failure.liege_to_challenge:0 "[challenger.GetFirstNameNoTooltip]に対する私の[single_combat_duel|E]は無効である"

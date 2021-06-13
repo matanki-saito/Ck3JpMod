@@ -1141,7 +1141,7 @@
  force_duel_criminals_interaction.punishment_failed.loser.t:0 "You failed to punish[SCOPE.sC('sc_victor').GetUIName]"
  force_duel_anyone_interaction:0 "Release your Anger"
  force_duel_anyone_interaction_desc:0 "Challenge anyone to a [single_combat_duel|E], inflicting [stress|E] if you win."
- not_enough_stress:0 "You need a higher [stress_level|E]."
+ not_enough_stress:0 "より高い[stress_level|E]が必要。"
  expose_secret_interaction:0 "Expose a Secret"
  expose_secret_interaction_desc:0 "Exposing a secret destroys all [hooks|E] given by selected [secret|E]"
  divorce_character_dynast_request_interaction:0 "Enforce Divorce"

@@ -128,4 +128,4 @@
  religious_interaction.6.adultery:0 "on the grounds of adultery."
  religious_interaction.6.different_faith:0 "on the grounds of them not adhering to the true faith."
  religious_interaction.6.eunuch:0 "on the grounds of them not being adequately equipped."
- religious_interaction.6.a:0 "I am sorry, [secondary_recipient.GetFirstNameNoTooltip]."
+ religious_interaction.6.a:0 "すまない、[secondary_recipient.GetFirstNameNoTooltip]。"

@@ -113,4 +113,4 @@
  SteleCommemoratesPromotion_Magnificent:1 "$SteleCommemoratesPromotion_Intro$。[second.MakeScope.Var('stele_commissioner').Char.GetHerHis]の壮大な治世が100年続きますように。$SteleCommemoratesCarver$。"
  SteleCommemoratesPromotion_AweInspiring:0 "$SteleCommemoratesPromotion_Intro$。その式典は、すべての人に畏敬の念を抱かせるものだった。$SteleCommemoratesCarver$。"
  SteleCommemoratesPromotion_Majestic:1 "$SteleCommemoratesPromotion_Intro$。[second.MakeScope.Var('stele_commissioner').Char.GetHerHis]の偉大さに匹敵する統治者などほとんどいない。$SteleCommemoratesCarver$。"
- SteleCommemoratesAncestors_Poet:0 "$SteleCommemoratesAncestors_Intro$. [second.MakeScope.Var('stele_container').Char.GetSheHe|U] swung [second.MakeScope.Var('stele_container').Char.GetHerHis] words as skillfully as any sword. $SteleCommemoratesCarver$."
+ SteleCommemoratesAncestors_Poet:0 "$SteleCommemoratesAncestors_Intro$。[second.MakeScope.Var('stele_container').Char.GetSheHe|U]は言葉を、剣と同じように巧みに振り回した。$SteleCommemoratesCarver$。"

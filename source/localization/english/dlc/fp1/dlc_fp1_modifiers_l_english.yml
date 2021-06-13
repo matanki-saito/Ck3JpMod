@@ -134,7 +134,7 @@
  fp1_stele_promotion_strong:0 "権威のルーン石碑"
  fp1_stele_promotion_strong_custom_desc:1 "[ROOT.Char.Custom2_Title('SteleCommemoratesPromotion', SCOPE.sTitle('stele_location'))]"
  fp1_stele_promotion_weak:0 "$fp1_stele_promotion_strong$"
- fp1_yearly_0591_levy_modifier:1 "Supported at Ting"
+ fp1_yearly_0591_levy_modifier:1 "ディングでの支援"
  fp1_yearly_0591_levy_modifier_desc:1 "Petty drama at the local Ting has recently gained this county tracts of border land, causing new villages to spring up."
  fp1_yearly_0591_building_modifier:1 "Vindicated at Ting"
  fp1_yearly_0591_building_modifier_desc:1 "Political capital at the local Ting has allowed this county to claim several minor border territories, giving ample space to expand existing settlements."
