@@ -638,7 +638,7 @@
  debt_level_8:0 "50年以上の[debt|E]がある"
  debt_level_9:0 "100年以上の[debt|E]がある"
  winter_none_modifier:1 "温暖な[winter|E]"
- winter_mild_modifier:1 "Mild [winter|E]"
+ winter_mild_modifier:1 "穏やかな[winter|E]"
  winter_normal_modifier:1 "普通の[winter|E]"
  winter_harsh_modifier:1 "過酷な[winter|E]"
  tribal_government_vassal_opinion:0 "[tribal|E][vassal|E]の評価"

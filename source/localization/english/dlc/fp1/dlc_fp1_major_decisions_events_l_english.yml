@@ -70,7 +70,7 @@
  fp1_major_decisions.1011.desc.intro:0 "何年も前、私は$k_norway$の王という崇高な称号を得るまでは、絶対に髪を切らないと誓った。"
  fp1_major_decisions.1011.desc.gyda:0 "[gyda.GetTitledFirstName]の愛のために、"
  fp1_major_decisions.1011.desc.oath:0 "我が家の栄光、我が子らへの遺産のため、"
- fp1_major_decisions.1011.desc.outro:0 "私は100の王国を征服した。\n\n任務は完了し、私はもうこの不精な長い髪を維持する必要はない。\n\n残る問題は、この髪をどうするべきかということだが？"
+ fp1_major_decisions.1011.desc.outro:0 "私は100の王国を征服した。\n\n任務は完了し、私はもうこのくしゃくしゃになった長い髪を維持する必要はない。\n\n残る問題は、この髪をどうするべきかということだが？"
  fp1_major_decisions.1011.a:0 "我が誓いは成就した！"
  fp1_major_decisions.1011.b:0 "[gyda.GetFirstNameNoTooltip]と私はついに一緒になれる！"
  fp1_major_decisions.1011.c:0 "私の髪の毛は残る。それは、私が経験したすべての苦労の跡なのだから。"

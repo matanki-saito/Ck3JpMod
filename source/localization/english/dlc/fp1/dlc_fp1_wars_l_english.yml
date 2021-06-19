@@ -22,4 +22,4 @@
  fp1_varangian_adventurer_conquest.summaries.landed_family_old_domains:0 "すべての古い[landed|E]の[family|E]の[titles|E]は破棄されるか独立を与えられます"
  fp1_varangian_adventurer_conquest.summaries.old_vassals:0 "すべての古い[vassals|E]は独立を与えられます"
  FP1_SCANDINAVIAN_ADVENTURER_VASSAL_TRUCE_NAME:0 "Conceded after [SCOPE.sC('attacker').GetUINameNotMe|U] threatened to invade"
- fp1_varangian_adventurer_conquest.summaries.control_rebate:0 "[control|E] in the conquered [counties|E] will be boosted"
+ fp1_varangian_adventurer_conquest.summaries.control_rebate:0 "征服された[counties|E]での[control|E]が上昇します"

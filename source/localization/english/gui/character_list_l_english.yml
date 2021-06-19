@@ -184,7 +184,7 @@
  CHARACTER_LIST_FILTER_PRESET_APPLY_TOOLTIP:1 "#T Apply filters#! \n[CharacterSelectionList.GetApplyFilterPresetTooltip( FilterPresetItem.Self )]"
  CHARACTER_LIST_FILTER_PRESET_DELETE_TOOLTIP:0 "プリセットを削除"
  CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS_DESC:0 "[CharacterSelectionList.GetUnsaveableFiltersWarning]"
- CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS:0 "@warning_icon! #tooltip:CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS_DESC #X Some filters will not be saved!#!#!"
+ CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS:0 "@warning_icon!#tooltip:CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS_DESC #X いくつかのフィルターは保存されません#!#!"
  CHARACTER_LIST_HAS_NO_SAVEABLE_FILTERS:0 "@warning_icon! #X No selected filters can be saved!#!"
  CHARACTER_LIST_UNSAVABLE_FILTER:1 "@warning_icon!#X フィルター'$FILTER_TYPE$: $FILTER$'は保存されません#!"
  CHARACTER_LIST_OPEN_FILTER_PRESET_BUTTON_SELECT:1 "保存されたフィルタープリセットを選択"
