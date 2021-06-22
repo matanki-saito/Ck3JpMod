@@ -102,7 +102,7 @@
  great_holy_war.0056.b:0 "痛ましい。"
  great_holy_war.0056.c:0 "なんでまたそれ関係あるの？"
  great_holy_war.0057.title:0 "[the_faith.ReligiousSymbol|U]の戦士たち"
- great_holy_war.0057.crusader.desc:0 "我が軍は[target_kingdom.GetNameNoTier]の為の[the_faith.GHWName]に参加する準備ができている。[the_faith.WarGodName]の御意志により、我々はすぐに勝利を収めるであろう。異教徒の血で大地を赤く染め上げましょう。"
+ great_holy_war.0057.crusader.desc:0 "我が軍は[target_kingdom.GetNameNoTier]の為の[the_faith.GHWName]に参加する準備ができている。[the_faith.WarGodName]の御意志により、我々はすぐに勝利を収め、異教徒の血が大地を赤く染めるであろう。"
  great_holy_war.0057.mujahid.desc:0 "我々の偉大なる戦いがついにやってくる。我々の軍隊は異教徒との戦いに備え、[the_faith.WarGodName]の祝福を受けて、まもなく[target_kingdom.GetNameNoTier]の城壁に勝利をもたらすだろう。"
  great_holy_war.0057.generic.outsiders.desc:0 "我が軍は[target_kingdom.GetNameNoTier]のために[the_faith.GHWName]に参加する準備をしている。我々のそばに[the_faith.WarGodName]がついているので、我々は必ず勝利するだろう！"
  great_holy_war.0057.a:0 "[the_faith.WarGodName]が我らを勝利に導くことを！"

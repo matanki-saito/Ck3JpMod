@@ -478,7 +478,7 @@
  fp1_yearly.1014.desc.outro:0 "\n\n確かに$knight_culture_player_plural_no_tooltip_lowercase$を獲得するための通常の方法ではないだろうが、[stranger.GetHerHis]の挑戦に合格したことは#EMP 喜ばしい#!ことだ。"
  fp1_yearly.1014.a:0 "素晴らしい！貴公には料金以上の価値があるはずだ！"
  fp1_yearly.1014.b:0 "私には忍耐力を試したりはしない有能な戦士たちがたくさんいるのでね。"
- fp1_yearly.1015.t:0 "$fp1_yearly.1001.t$: 浮浪者"
+ fp1_yearly.1015.t:0 "$fp1_yearly.1001.t$: 放浪者"
  fp1_yearly.1015.desc.critical:0 "[stranger.GetFirstNameNoTooltip]は、[stranger.GetSheHe]が受ける処遇に当惑し、唖然とし、大喜びしている。小貴族として扱われることは、[stranger.GetHerHim]にとっては全く初めての体験であり、合点がいくまでにはかなりの時間を要したようだ。"
  fp1_yearly.1015.desc.standard:0 "[stranger.GetFirstNameNoTooltip] remains harmless enough, predictably getting up to little mischief in [stranger.GetHerHis] short time in my household. It isn't till I overhear [stranger.GetHerHim] having a hushed conversation that I twig."
  fp1_yearly.1015.desc.outro:0 "\n\nどうやら[stranger.GetSheHe]は、#EMP 実際に#!壁の中に紛れ込んだ放浪者にすぎなかったようだ。\n\n私がどうしたものかと悩んでいると、[stranger.GetFirstNameNoTooltip]が帽子を手にやってきて、恒久的に滞在させてほしいと懇願してきた。"

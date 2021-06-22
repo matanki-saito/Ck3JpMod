@@ -103,7 +103,7 @@
  fp1_other_decisions.0012.desc.outro:0 "これみよがしに欠席し、先立って使者を送ることもなかった。これは、正確には違法ではないにしても、私の権威に対する明らかな侮辱である。"
  fp1_other_decisions.0012.a:0 "畜生でクソッタレの[decliner_1.GetTitledFirstNameNoTooltip]めが！"
  fp1_other_decisions.0012.a.decliner_toast.t:0 "[blotter.GetTitledFirstNameNoTooltip]は[blotter.Custom('GruesomeFestivalName')]におけるあなたの不在に気づきます"
- fp1_other_decisions.0012.b:0 "Sod the bloody lot of them!"
+ fp1_other_decisions.0012.b:0 "奴ら全員を呪ってやる！"
  fp1_other_decisions.0012.b.all_decliners_list:0 "断ったすべての[vassals|E]"
  fp1_other_decisions.0012.c.singular:0 "えっ、[decliner_1.GetHerHis]がいない。"
  fp1_other_decisions.0012.c.plural:0 "えっ、彼らがいない。"

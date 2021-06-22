@@ -154,7 +154,7 @@
  feast_default.3006.t:0 "$feast_header$ 一夜"
  feast_default.3006.opening_1:0 "酔いと欲望とを乗り越え、[partner.Custom2('MyCharacterIntroduction', ROOT.Char )]と私は気がつけば二人きりだ。[partner.GetHerHis|U]の腕が私を囲み、[partner.GetHerHis]の唇が私の首に触れ、私たちは胸と股間に燃え盛る火を鎮める。"
  feast_default.3006.opening_2:1 "私は見知らぬベッドで目を覚ます、予期せぬ相手と共に。まだ少し痛む頭の霧の中から、前夜の記憶がゆっくりと形になっていく。[partner.Custom2('MyCharacterIntroduction', ROOT.Char )|U]と私は欲望によって結ばれた。"
- feast_default.3006.opening_3:0 "これは私は決してこんなことはしないと強く主張してきた。しかし、数杯飲んだ後、私は簡単に[partner.Custom2('MyCharacterIntroduction', ROOT.Char )]の腕の中に落ちた——[partner.GetHerHis]の魅惑的な罠に捕らわれてしまっのだ。すぐに私は[partner.GetHerHis]のベッドの中にいることに気がついた。"
+ feast_default.3006.opening_3:0 "私は決してこんなことはしないと強く主張してきた。しかし、数杯飲んだ後、私は簡単に[partner.Custom2('MyCharacterIntroduction', ROOT.Char )]の腕の中に落ちた——[partner.GetHerHis]の魅惑的な罠に捕らわれてしまったのだ。すぐに私は[partner.GetHerHis]のベッドの中にいることに気がついた。"
  feast_default.3006.both_married_love:0 "\n\n私は[partner.GetHerHim]なしで進んでいくと言う考えにほとんど耐えられないが、[partner.GetHerHis]の[partner.Custom2('RelationToMe', SCOPE.sC('partner_spouse'))]には決して知られてはならないし、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))]にも決して知られてはならない！"
  feast_default.3006.married_love:0 "\n\n私は[partner.GetHerHim]なしでやっていくという考えにほとんど耐えられないが、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))]にはここで何があったかを知られてはならない。"
  feast_default.3006.partner_married_love:0 "\n\n私は[partner.GetHerHim]なしでやっていくという考えにほとんど耐えられないが、[partner.GetHerHis]の[partner.Custom2('RelationToMe', SCOPE.sC('partner_spouse'))]である[partner_spouse.GetTitledFirstName]のことを考えると、私はどうすればいいのだろう？"

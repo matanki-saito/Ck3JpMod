@@ -286,7 +286,7 @@
  nick_troll_slayer:0 "トロル殺し"
  nick_tanglehair:0 "縺れ髪の"
  nick_the_bane_of_danes:0 "the Bane of Danes"
- nick_the_culture_wall:0 "the [CHARACTER.GetCulture.GetNameNoTooltip] Wall"
+ nick_the_culture_wall:0 "[CHARACTER.GetCulture.GetNameNoTooltip]の壁"
  nick_nord_foe:0 "Nord-Foe"
  nick_the_scourge_of_the_northerners:0 "the Scourge of the Northerners"
  nick_the_burner_of_ash:0 "the Burner of Ash"
