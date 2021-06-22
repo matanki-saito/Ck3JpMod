@@ -86,3 +86,5 @@
  POPS_LOGIN_upper-limit:0 "ユーザー名が長すぎます"
  POPS_LOGIN_LOGGED_IN:0 "あなたはログインに成功しています"
  POPS_LOGIN_CHANGE_USERNAME:0 "ユーザー名を変更してください"
+ POPS_LOGIN_MESSAGE:0 "$MESSAGE$"
+ POPS_LOGIN_UNKNOWN_ERROR:1 "不明なエラーが発生: $ERROR$"

@@ -21,7 +21,7 @@
  major_decisions.1103.i_am_religious_head:0 "\n\n私が自らの頭に王冠を被せるのは当然のことだ。私のしもべたちが、教会と世俗の両方が、私に頭を垂れる。"
  major_decisions.1103.blessed_by_religious_head:0 "\n\n[religious_figure.GetTitledFirstName]が私の頭に王冠を被せたとき、私は新たな帝国の設立を宣言した。私のしもべである廷臣たちはここで生き証人となる。宣言が私の唇から発せられたのち、私の領国の全権力が、教会も世俗と同じく、私の前に跪いている。"
  major_decisions.1103.a:0 "[new_title.GetNameNoTierNoTooltip]は頂点に君臨する！"
- major_decisions.1104.opening:0 "我らが[founder.GetLadyLord]で統治者の[founder.GetFirstName]は、全封臣と領国の[founder.GetFaith.PriestNeuterPlural]を[founder.GetHerHim]のもとに呼んだ。[founder.GetSheHe]がこの瞬間を[ROOT.Char.GetFaith.PantheonTerm]に、正当に目撃させたことに異論はない。"
+ major_decisions.1104.opening:0 "我らが主であり統治者の[founder.GetFirstName]は、全封臣と領国の[founder.GetFaith.PriestNeuterPlural]を[founder.GetHerHim]のもとに呼んだ。[founder.GetSheHe]がこの瞬間を[ROOT.Char.GetFaith.PantheonTerm]に、正当に目撃させたことに異論はない。"
  major_decisions.1104.i_am_religious_head:0 "\n\n[founder.GetHerHis]の新たな王冠を[founder.GetHerHis]の頭に被せると、"
  major_decisions.1104.religious_head_empire:0 "\n\n[founder.GetSheHe]が[founder.GetHerHis]の新たな王冠を[founder.GetHerHis]の頭に被せると、"
  major_decisions.1104.blessed_by_religious_head:0 "\n\n\n\n[religious_figure.GetTitledFirstName]が[founder.GetTitledFirstNamePossessive]の新たな王冠を[founder.GetHerHis]の頭に被せると、"

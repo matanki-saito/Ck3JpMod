@@ -124,3 +124,5 @@
  action_reactive_advice_varangian_adventure_click:0 "$click_to_open_lesson$"
  reactive_advice_varangian_adventure_step_1:0 "$game_concept_varangian_adventures$"
  reactive_advice_varangian_adventure_desc:0 "あなたは[varangian_adventure|E]を宣言できます。\n\n$culture_era_tribal$[era|E]の期間中は、この種類の戦争を利用でき、祖国の冷たい海岸から遠く離れた土地で新しい人生を始めることができます。\n\n$game_concept_varangian_adventures$を成功させると、自分の領国を海外に移転させるだけでなく、封臣を含めた既存の領土をすべて独立させることができます。\n\n$north_germanic_group$の支配者としてあなたが最初に行う[varangian_adventure|E]では、[GetGeographicalRegion('dlc_fp1_region_core_mainland_scandinavia').GetName]にある同[faith|E]、同[culture|E]の伯爵領から、新天地の征服を助ける追加の軍隊を召集します。"
+ reactive_advice_perk_bonus_cap:0 "$action_perk_bonus_cap_modes$"
+ reactive_advice_varangian_adventure:0 "$game_concept_varangian_adventures$"

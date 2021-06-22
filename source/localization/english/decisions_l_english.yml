@@ -652,7 +652,7 @@
  found_kingdom_of_bosnia_decision:0 "ボスニア王国の確立"
  found_kingdom_of_bosnia_decision_desc:0 "中央ボスニアの山河の領有権は南北の諸侯たちの間を絶えず行き来してきた。それももうすぐ終わることだろう…"
  found_kingdom_of_bosnia_decision_tooltip:0 "ボスニアは[kingdom|E]の[de_jure|E]となります"
- found_kingdom_of_bosnia_decision_confirm:0 "すべてのボスニアの[ROOT.Char.GetLadyLord|U]！"
+ found_kingdom_of_bosnia_decision_confirm:0 "すべてのボスニアの主君へ！"
  accuse_krstjani_of_heresy_decision:0 "$bosnian_church$の異端の告発"
  accuse_krstjani_of_heresy_decision_desc:0 "何年もの間、未開なボスニア高原には、東西両教会に属さない宗派が存在していたのだが、どちらもこの逸脱した宗派の伸長に構うことはなかった。\n\nしかし、それももはやこれまでだ！我々は[ROOT.Char.GetFaith.ReligiousHeadName]を正式に異端であると宣言するべきであり、彼らに隠れる場所はどこにもない！"
  accuse_krstjani_of_heresy_decision_tooltip:0 "キリスト教世界は、もはやこれらの分裂を容認するべきではない！"

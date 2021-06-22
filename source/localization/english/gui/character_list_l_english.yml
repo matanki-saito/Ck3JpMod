@@ -165,7 +165,7 @@
  CHARACTER_LIST_FILTER_PRESET_BUTTON_SAVE:1 "フィルターをプリセットに保存"
  CHARACTER_LIST_FILTER_PRESET_SAVED_PRESETS:1 "保存されたフィルタープリセット"
  CHARACTER_LIST_FILTER_PRESET_FILTER_DESC:0 "$FILTER_GROUP$: $FILTER$"
- CHARACTER_LIST_FILTER_PRESET_FILTER_DESC_ILLEGAL:0 "$FILTER_GROUP$: $FILTER$ @warning_icon! #X Incompatible with this Character Search Window#!"
+ CHARACTER_LIST_FILTER_PRESET_FILTER_DESC_ILLEGAL:0 "$FILTER_GROUP$: $FILTER$ @warning_icon!#X この人物検索ウィンドウとは互換性がありません#!"
  CHARACTER_LIST_OPEN_SAVE_FILTERS:0 "#T 保存したプリセットを開く#!\n保存したフィルタープリセットウィンドウを開きます。\n[CharacterSelectionList.GetUnsaveableFiltersWarning]"
  CHARACTER_LIST_OPEN_LOAD_FILTERS:0 "#T ロードしたフィルタープリセットを開く#!\nロードされたフォルタープリセットウィンドウを開きます。\n[CharacterSelectionList.GetOpenLoadFilterWarning]"
  CHARACTER_LIST_OPEN_LOAD_FILTERS_NO_FILTERS:0 "@warning_icon!#X 保存されたフィルタープリセットはありません#!"

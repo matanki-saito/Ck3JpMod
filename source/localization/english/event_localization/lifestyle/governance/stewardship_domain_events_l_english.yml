@@ -134,7 +134,7 @@
  stewardship_domain_special.1106.a:0 "今年から毎年開催する勅許を与える。"
  stewardship_domain_special.1107.desc_religious_objects:0 "「わが[ROOT.Char.GetLadyLord]、この小さな聖なる飾りでどうなると思っていたんですっけ？」\n\nこの神聖な小物は期待したように敬虔な心を惹きつけなかった、[local_baron.GetTitledFirstName]には大量の売れ残りが残された。"
  stewardship_domain_special.1107.desc_religious_food:0 "「わが[ROOT.Char.GetLadyLord]、こんな大量の食料をどうするつもりだったんですっけ？」\n\n地元の[local_baron.GetFaith.DevoteeMalePlural]と[local_baron.GetFaith.DevoteeFemalePlural]が用意した食事は神聖なる助けをえられるはずだった — ほとんど何も売れなかった。"
- stewardship_domain_special.1107.desc_religious_other:0 "わが[ROOT.Char.GetLadyLord]、この冒涜的な飾りでどうなると思っていたんですっけ？」\n\nこの外国の小物は人々にただ嫌悪感を抱かせた — 市場に出かける気をなくさせた。[local_baron.GetTitledFirstName]はすぐにそれらを焼いてしまうように助言されたが、損失はもう取り戻せない。"
+ stewardship_domain_special.1107.desc_religious_other:0 "わが[ROOT.Char.GetLadyLord]、この冒涜的な飾りでどうなると思っていたんですっけ？」\n\nこの外国の小物は人々にただ嫌悪感を抱かせた——市場に出かける気をなくさせた。[local_baron.GetTitledFirstName]はすぐにそれらを焼いてしまうように助言されたが、損失はもう取り戻せない。"
  stewardship_domain_special.1107.a:0 "波乱の幕開けだが、地元の人々がこれからうまくやっていくと信じている！"
  stewardship_domain_special.1301.increase_road_progress_1:0 "#V 街道の進捗#!が#P 1#!増加"
  stewardship_domain_special.1301.increase_road_progress_2:0 "#V 街道の進捗#!が#P 2#!増加"

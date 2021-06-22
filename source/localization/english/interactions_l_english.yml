@@ -755,7 +755,7 @@
  GHW_ATTACKER_HAS_RECENTLY_UNPLEDGED:0 "最近誓約を撤回していないことが必要です"
  GHW_ATTACKER_WAS_FORCED_BY_POPE:0 "強制された誓約は撤回できません"
  GHW_NO_WAR_AFTER_START:0 "すでに戦争中の場合は参加できません"
- GHW_ALREADY_GIVING_GOLD:0 "You are already considering a contribution"
+ GHW_ALREADY_GIVING_GOLD:0 "あなたはすでに寄付を検討しています"
  GHW_ALREADY_GIVEN_GOLD:0 "すでに[war_chest|E]に貢献しています"
  GHW_MUST_NOT_BE_REALM_PRIEST:0 "[realm_priest|E]であっては#bold ならない#!"
  hof_redirect_great_holy_war_interaction:0 "標的を提案"

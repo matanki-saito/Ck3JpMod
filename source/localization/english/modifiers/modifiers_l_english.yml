@@ -650,6 +650,6 @@
  MOD_ARMY_TOUGHNESS_MULT:0 "軍勢の[toughness|E]"
  MOD_ARMY_PURSUIT_MULT:0 "軍勢の[pursuit|E]"
  MOD_ARMY_SCREEN_MULT:0 "軍勢の[screen|E]"
- combat_debt_level_no_income:0 "Owner is in [debt|E]"
- debt_level_no_income:0 "In [debt|E]"
+ combat_debt_level_no_income:0 "所有者は[debt|E]がある"
+ debt_level_no_income:0 "[debt|E]がある"
  MOD_OPINION_OF_PARENTS:0 "両親の評価"
