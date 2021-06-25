@@ -29,4 +29,4 @@
  martial_authority_unremarkable_child:0 "[fighting_child.GetNameNoTooltip]はトーナメントで自身が全く目立たないことを証明します。"
  martial_authority.8100.desc:0 "乱闘の中で戦士たちは、[fighting_child.GetName]の周りをぎこちなく踊るだけで、明らかに[fighting_child.GetHerHim]を傷つけることを恐れている。しかし、[fighting_child.GetSheHe]はトーナメントのルールを無視して汚い攻撃で報復する。\n\n私は、[fighting_child.GetSheHe]が14フィートもある長槍を私の[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]である[murdered_knight.GetNamePossessive]の頭蓋骨の後ろに叩き込むのを見た。戦士たちは[fighting_child.GetHerHim]には形だけの打撃を与え続けるが、[fighting_child.GetSheHe]は別の戦士の脳天を突き刺す。\n\n「我が[ROOT.Char.GetLadyLord|U]、これを止めてください！」と、[marshal.GetTitledFirstName]は懇願する。"
  martial_authority.8100.a:0 "優勝者は決まったようだな！"
- martial_authority.8100.c:0 "Great [ROOT.GetCharacter.GetFaith.HighGodName], [fighting_child.GetNameNoTooltip]! My apologies for [fighting_child.GetHerHim]."
+ martial_authority.8100.c:0 "偉大な[ROOT.GetCharacter.GetFaith.HighGodName]、[fighting_child.GetNameNoTooltip]よ！申し訳ない。"

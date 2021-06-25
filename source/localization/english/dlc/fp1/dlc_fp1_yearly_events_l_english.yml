@@ -558,6 +558,6 @@
  fp1_yearly.0591.desc.suspicious_will:0 "[county_b.GetNameNoTier]の広大な土地を残した遺言の有効性を主張しているようだ。"
  fp1_yearly.0591.desc.sheltered_criminal:0 "[county_b.GetNameNoTier]からの犯罪者を匿っているようだ。"
  fp1_yearly.0591.desc.bad_luck:0 "[county_b.GetNameNoTier]の魔法使いに魔法をかけられ、呪われたと大声で叫んでいるようだ。"
- fp1_yearly.0591.desc.fly_tipping:0 "being stubborn about fly-tipping the rubbish of a town along the border with [county_b.GetNameNoTier]."
+ fp1_yearly.0591.desc.fly_tipping:0 "[county_b.GetNameNoTier]との境界にある町へのゴミの不法投棄について頑強に主張しているしているようだ。"
  fp1_yearly.0661.a.2:0 "雪の中で？いいだろう。"
  fp1_yearly.0661.a.2.tt:0 "You easily skid to victory"

@@ -75,4 +75,4 @@
  fp1_major_decisions.1011.b:0 "[gyda.GetFirstNameNoTooltip]と私はついに一緒になれる！"
  fp1_major_decisions.1011.c:0 "私の髪の毛は残る。それは、私が経験したすべての苦労の跡なのだから。"
  fp1_major_decisions.1011.c.tt:0 "あなたは$nick_tanglehair$として語り継がれるだろう"
- fp1_major_decisions.1012.t:0 "[king_of_norway.GetTitledFirstNameNoTooltip] claimed $k_norway$ first"
+ fp1_major_decisions.1012.t:0 "[king_of_norway.GetTitledFirstNameNoTooltip]が初めて$k_norway$を主張した"
