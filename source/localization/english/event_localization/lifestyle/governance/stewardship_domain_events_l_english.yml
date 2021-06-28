@@ -119,7 +119,7 @@
  stewardship_domain_special.1103.a:0 "今年から毎年開催する勅許を与える。"
  stewardship_domain_special.1104.desc_silk:0 "「我が[ROOT.Char.GetLadyLord]、すべてのこの絹で何をなさるおつもりですか？」\n\nどうやらこの地域では絹の需要はそれほど高くなく、[second_local_baron.GetTitledFirstName]の手元には高価な布地が売れずにたくさん残っています。"
  stewardship_domain_special.1104.desc_crops:0 "「わが[ROOT.Char.GetLadyLord]、作物がカビだらけで古くなっていますが、これをどういたしましょう？」\n\nこの地域では農作物の需要は高くなかったらしく、[second_local_baron.GetTitledFirstName]には沢山の売れ残こりがでた。"
- stewardship_domain_special.1104.desc_technology:0 "「わが[ROOT.Char.GetLadyLord]、この小さな飾りはどういたしましょう？」\n\nこの地域では驚きの新技術にも関心は惹かれなかったので、[second_local_baron.GetTitledFirstName]には沢山の売れ残こりでた。"
+ stewardship_domain_special.1104.desc_technology:0 "「わが[ROOT.Char.GetLadyLord]、この小さな飾りはどういたしましょう？」\n\nこの地域では驚きの新技術にも関心は惹かれなかったので、[second_local_baron.GetTitledFirstName]には沢山の売れ残りがでた。"
  stewardship_domain_special.1104.a:0 "波乱の幕開けだが、今の地元でならうまく扱えると確信している!"
  stewardship_domain_special.1105.desc:0 "聖なる都市の祭祀用品、[local_baron.GetFaith.DevoteeMalePlural]と[local_baron.GetFaith.DevoteeFemalePlural]が地元で育てた食料品、異教徒の不思議な小物など、世界中から集まった品々を[local_baron.GetTitledFirstName]が提供してくれた…\n\n「我が [ROOT.Char.GetLadyLord]、新しいフェアでどの品を売り込んで行きましょうか？」"
  stewardship_domain_special.1105.a:0 "地元の聖人をたたえ、祭祀用品に集中しよう！"
