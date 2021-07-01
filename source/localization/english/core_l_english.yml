@@ -12,7 +12,7 @@
  NEW:0 "新しい"
  TUTORIAL:0 "チュートリアル"
  CONTENT:0 "コンテンツ"
- LOAD_GAME:0 "ゲームをロード"
+ LOAD_GAME:0 "ゲームをロードする"
  SAVE_GAME:0 "ゲームを保存する"
  DELETE_GAME:0 "データを削除する"
  SAVE:0 "保存"

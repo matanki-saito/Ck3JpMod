@@ -10,7 +10,7 @@
  MASS_PRISONER_ACTION_RANSOM:0 "身代金要求の一括実行"
  MASS_PRISONER_ACTION_RELEASE:0 "一括釈放"
  MASS_PRISONER_ACTION_EXECUTE:0 "一括処刑"
- MASS_PRISONER_ACTION_RANSOM_BODY:1 "Ransom up to $AMOUNT|V$ characters from your dungeons."
+ MASS_PRISONER_ACTION_RANSOM_BODY:1 "最大で$AMOUNT|V$名の囚人を身代金と引き換えに解放します。"
  MASS_PRISONER_ACTION_RELEASE_BODY:0 "$AMOUNT|V$名の囚人を解放します。"
  MASS_PRISONER_ACTION_EXECUTE_BODY:0 "あなたの牢獄にいる$AMOUNT|V$名の人物を処刑します。\nこれにより家族や人物が処刑された領国の一部に動揺を与えます。"
  MASS_PRISONER_ACTION_RANSOM_ACCEPT:0 "身代金要求"

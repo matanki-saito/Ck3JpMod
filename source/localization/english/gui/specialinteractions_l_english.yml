@@ -70,7 +70,7 @@
  MARRY_PROMPT_SOMEONE:0 "#I 結婚させる人物を選択します#!"
  MARRY_PROMPT_BUILDING_LIST:0 "#I [CHARACTER.GetShortUIName]の潜在的な配偶者を探します#!"
  MARRY_PROMPT_CHARACTER:0 "#I [CHARACTER.GetShortUIName]と結婚する人物を選択します#!"
- MARRY_DIFFERENT_FAITH_REASON:1 "Your [faith|E] differs from [recipient.GetShortUIName]: $VALUE|+0$"
+ MARRY_DIFFERENT_FAITH_REASON:1 "あなたの[faith|E]が[recipient.GetShortUIName]と異なる: $VALUE|+0$"
  MARRY_UNIMPORTANT_COURTIER_REASON:0 "重要ではない[courtier|E]: $VALUE|+0$"
  MARRY_CARES_ABOUT_COURTIER_REASON:0 "[secondary_recipient.GetShortUIName|U]は[recipient.GetShortUIName]にとって重要である: $VALUE|+0$"
  MARRY_PARENT_OF_CHILDREN_REASON:0 "[secondary_recipient.GetShortUIName|U]は[recipient.GetShortUINamePossessive]の子供の親である: $VALUE|+0$"
