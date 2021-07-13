@@ -46,7 +46,7 @@
  pikemen_action:0 "パイク兵の陣形"
  archers_action:0 "弓兵一斉射撃"
  cavalry_action:0 "騎兵突撃"
- skirmishers_action:0 "軽装歩兵の側面攻撃"
+ skirmishers_action:0 "散兵の側面攻撃"
  COW_KNIGHT_COUNT_LEFT:1 "@knight_icon![CombatWindow.GetLeftKnightCount][CombatWindow.GetLeftSideMainParticipant.Custom('KnightCulturePluralNoTooltip')]"
  COW_TT_KNIGHT_COUNT_LEFT:0 "#T [knight_i][CombatWindow.GetLeftKnightCount][CombatWindow.GetLeftSideMainParticipant.Custom('KnightCulturePlural')]#!\n[CombatWindow.GetLeftKnightBreakdown]"
  COW_KNIGHT_COUNT_RIGHT:1 "@knight_icon![CombatWindow.GetRightKnightCount][CombatWindow.GetRightSideMainParticipant.Custom('KnightCulturePluralNoTooltip')]"

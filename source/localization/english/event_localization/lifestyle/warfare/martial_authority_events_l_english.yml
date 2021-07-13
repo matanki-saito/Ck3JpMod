@@ -51,7 +51,7 @@
  martial_authority_special.1100.heavy_infantry.desc:0 "一人の歩兵"
  martial_authority_special.1100.cavalry.desc:0 "一人の騎兵"
  martial_authority_special.1100.archer.desc:0 "一人の弓兵"
- martial_authority_special.1100.skirmisher.desc:0 "一人の軽装歩兵"
+ martial_authority_special.1100.skirmisher.desc:0 "一人の散兵"
  martial_authority_special.1100.pikemen.desc:0 "一人の槍兵"
  martial_authority_special.1100.end.desc:0 "が司令官である[officer.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を替わりとなる戦略の利点について説得しようとしている。[officer.GetFirstNameNoTooltip]はほとんど聞いていないようだ——近づくと激怒した司令官が拳を振り上げたところだった…"
  martial_authority_special.1100.a:0 "割り込み、兵士を守ろう。"
