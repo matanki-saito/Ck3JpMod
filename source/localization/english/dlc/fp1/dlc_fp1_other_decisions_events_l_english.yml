@@ -133,7 +133,7 @@
  fp1_other_decisions.0023.b:0 "彼らは一体どういう[blotter.GetWomanMan]#EMP なのだ#!！？"
  fp1_other_decisions.0024.t:0 "$fp1_other_decisions.0021.t$"
  fp1_other_decisions.0024.desc.intro:0 "一体何が私に取り憑いたのか？[unlucky_guest.GetFaith.DevilName]の手先が私の脳に入り込み、[unlucky_guest.GetShortUIName]を外国の偶像に生贄として捧げることを#EMP 公に#!容認してしまったとでもいうのだろうか？私の神への冒涜は、世界中のあらゆる正しい[unlucky_guest.GetFaith.GetAdherentName]の間で夕食の話題に上っている。\n\n"
- fp1_other_decisions.0024.desc.has_excommunication:0 "No writ of excommunication need arrive for the [unlucky_guest.GetFaith.PriestNeuterPlural] to refuse to hear my sins."
+ fp1_other_decisions.0024.desc.has_excommunication:0 "私の罪を聞くことを拒む[unlucky_guest.GetFaith.PriestNeuterPlural]に、破門状が届けられる必要はない。"
  fp1_other_decisions.0024.desc.does_not_have_excommunication:0 "いかに厳格さを欠く[unlucky_guest.GetFaith.PriestNeuterPlural]でさえも、私と目を合わそうとはしない。"
  fp1_other_decisions.0024.desc.outro:0 "私は[unlucky_guest.GetFaith.GetReligion.GetName]が懸念している限り、迷い、呪われている。"
  fp1_other_decisions.0024.a:0 "#EMP 私が何をしたというのだ！？#!"

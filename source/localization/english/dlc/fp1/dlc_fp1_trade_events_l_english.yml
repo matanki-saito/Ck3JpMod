@@ -71,7 +71,7 @@
  fp1_trade_events.1131.a:0 "ありえない！凍てつく地獄の故郷へと帰るのだ、 クズどもめ！"
  fp1_trade_events.1131.b:0 "欲しがっている土地があるのなら、与えてやればいいのではないか？"
  fp1_trade_events.1131.c:0 "私の経験では、兵士は栄光よりも金を好むものだ…"
- fp1_trade_events.1131.c.tt:0 "You pay a gafol directly to [attacker.GetFirstNamePossessiveNoTooltip] troops to have them disband"
+ fp1_trade_events.1131.c.tt:0 "あなたは[attacker.GetFirstNamePossessiveNoTooltip]の部隊を解散させるため、直接ガフォルを支払います。"
  fp1_trade_events.1131.d:0 "今までやってきた通り、この侵略者どもを追い払うのだ。"
  fp1_trade_events.1131.d.tt:0 "昔ながらの方法でノルドと戦います"
  fp1_trade_events.1171.t:0 "$fp1_trade_events.0000.t$: 聖なる救いの手"
