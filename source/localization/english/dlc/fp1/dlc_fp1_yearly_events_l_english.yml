@@ -274,7 +274,7 @@
  fp1_yearly.0521.e.tt:0 "雪玉があなたの凶暴性に火をつけます"
  fp1_yearly.0521.f:0 "私は忙しいんだ、[child.GetFirstNameNoTooltip]。悩ませるなら他の人にしてくれ。"
  fp1_yearly.0531.t:0 "氷上の[ROOT.Char.GetDynasty.GetBaseNameNoTooltip]家"
- fp1_yearly.0531.desc:0 "雪の積もった中庭に入るやいなや、[child.GetFirstName]が「[ROOT.Char.Custom('GetMaPa')|U]!」と叫んで私の袖を引っ張る。「ダメだ、スケートはできない。自分は氷に嫌われているんだよ。」\n\n早速見てみると、[child.GetSheHe]が言ったことは正しいかもしれない。[child.Custom('GetDaughterSon')]が[child.GetHerHis]の後に残した粉々になった氷の量は、まるでここで軍隊が行進したかのようだ。"
+ fp1_yearly.0531.desc:0 "雪の積もった中庭に入るやいなや、[child.GetFirstName]が「[ROOT.Char.Custom('GetMaPa')|U]!」と叫んで私の袖を引っ張る。「ダメだ、スケートができないよ。自分は氷に嫌われているんだ。」\n\n早速見てみると、[child.GetSheHe]が言ったことは正しいかもしれない。[child.Custom('GetDaughterSon')]が[child.GetHerHis]の後に残した粉々になった氷の量は、まるでここで軍隊が行進したかのようだ。"
  fp1_yearly.0531.a:0 "簡単さ！ここで私が説明してやろう…"
  fp1_yearly.0531.a.tt_success:0 "[child.GetFirstNameNoTooltip]は自信とバランス感覚を獲得する"
  fp1_yearly.0531.a.tt_failure:0 "あなたは[child.GetHerHim]をイライラさせるだけだ"
