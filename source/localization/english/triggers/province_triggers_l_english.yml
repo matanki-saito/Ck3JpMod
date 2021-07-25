@@ -5,7 +5,7 @@
  IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]である"
  NOT_IS_COUNTY_CAPITAL_TRIGGER:0 "ここは[county_capital|E]#bold でない#!"
  NOT_POTENTIAL_COUNTY_CONTROL_TASK_TRIGGER:1 "[TITLE.GetName]では、すでに[control|E]が100で、[county_corruption|E]もありません。"
- NOT_ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$COMPARATOR$$NUM|V$#bold でない#!"
+ NOT_ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "[TITLE.GetName]における[development|E]レベルが$NUM|V$$COMPARATOR$#bold でない#!"
  DEVELOPMENT_RATE_TRIGGER:0 "開発度: $NUM|V0$"
  HAS_COUNTY_MODIFIER_TRIGGER:0 "次の伯爵領補正を持っている: $MODIFIER$"
  IS_COASTAL_TRIGGER:0 "沿岸"

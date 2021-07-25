@@ -1,9 +1,9 @@
 ﻿l_english:
  RELIGION_TAG_TRIGGER:0 "$RELIGION|V$の一部である"
- FAITH_FERVOR_GLOBAL:0 "[fervor|E]が$COMPARATOR$$NUM|V0$である"
- NOT_FAITH_FERVOR_GLOBAL:0 "[fervor|E]が$COMPARATOR$$NUM|V0$#bold でない#!"
- FAITH_FERVOR_THIRD:0 "[FAITH.GetName]の[fervor|E]が$COMPARATOR$$NUM|V0$である"
- NOT_FAITH_FERVOR_THIRD:0 "[FAITH.GetName]の[fervor|E]が$COMPARATOR$$NUM|V0$#bold でない#!"
+ FAITH_FERVOR_GLOBAL:0 "[fervor|E]が$NUM|V0$$COMPARATOR$である"
+ NOT_FAITH_FERVOR_GLOBAL:0 "[fervor|E]が$NUM|V0$$COMPARATOR$#bold でない#!"
+ FAITH_FERVOR_THIRD:0 "[FAITH.GetName]の[fervor|E]が$NUM|V0$$COMPARATOR$である"
+ NOT_FAITH_FERVOR_THIRD:0 "[FAITH.GetName]の[fervor|E]が$NUM|V0$$COMPARATOR$#bold でない#!"
  FAITH_VIRTUES_GLOBAL:0 "$NUM|V0$個の[virtuous|E][traits|E]を持っている"
  NOT_FAITH_VIRTUES_GLOBAL:0 "$NUM|V0$個以下の[virtuous|E][traits|E]を持っている"
  FAITH_VIRTUES_FIRST:1 "あなたは$NUM|V0$個の[virtuous|E][traits|E]を持っている"

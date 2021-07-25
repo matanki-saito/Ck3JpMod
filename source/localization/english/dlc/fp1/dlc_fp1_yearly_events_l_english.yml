@@ -331,7 +331,7 @@
  fp1_yearly.0591.desc:1 "民会は寛大な[ROOT.Char.GetTitleAsNameNoTooltip]には必要な雑務であり、その地域の自由な[dummy_gender.GetWomenMen]たちが集まって、地元の事情や市場について話し合ったり、特権について争ったりする。\n\nさすがにこのような大規模な集まりともなると熱気を帯びてくるものだが、このディングも例外ではない。\n\n何やら怒鳴りあっているだけで私には詳細がわからないが、[county_a.GetNameNoTier]の[dummy_gender.GetWomenMen]が"
  fp1_yearly.0591.a:0 "[county_a.GetNameNoTierNoTooltip]の人々が正しい。"
  fp1_yearly.0591.b:0 "[county_b.GetNameNoTierNoTooltip]が我が支持を得る！"
- fp1_yearly.0591.c:0 "善良な[county_a.GetNameNoTierNoTooltip]の[dummy_gender.GetWomenMen]が#EMP [county_b.GetNameNoTierNoTooltip]#!からこれを奪うと言うのか？"
+ fp1_yearly.0591.c:0 "善良な[county_a.GetNameNoTierNoTooltip]の[dummy_gender.GetWomenMen]が#EMP [county_b.GetNameNoTierNoTooltip]#!との厄介事を片付けようと言うのか？"
  fp1_yearly.0591.d:0 "そのうち、みんな疲れてしまうだろう。"
  fp1_yearly.0601.t:0 "統治の最も困難な部分"
  fp1_yearly.0601.desc:0 "民会は、その性質上、#EMP 非常に#!退屈なものになりがちだ。\n\n感情が高ぶらず、劇的な展開になることがなければ、身分の低い自由な[dummy_gender.GetWomenMen]たちが些末なことを話し合ったり、雨の中で注目を浴びたりするだけのことだ。だが、私は[ROOT.Char.GetTitleAsNameNoTooltip]として、ここにいることを求められている。\n\nまるで毎秒毎秒老いていくかのようだ。\n\n[county.GetNameNoTier]の[dummy_gender.GetWomenMen]が終わりまで話し合っているのを眺める。\n\nこの生き地獄から救ってくれる戦争を望む。"
