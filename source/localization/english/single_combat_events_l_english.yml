@@ -143,7 +143,7 @@
  single_combat.0001.tt.blade_dance:0 "#BOL 剣の舞: #! 華やかな技が次々と繰り出され、あなたの決闘の腕前は後々まで語り継がれるでしょう"
  single_combat.0001.tt.wrath_of_highgod:0 "#BOL 神の怒り: #!叫ぶような祈りと共に、あなたは[myself.GetFaith.HighGodName]の前に畏まります"
  single_combat.0001.tt.hurt_me_better:0 "#BOL 燃え立つ痛み: #!痛みを楽しみながら、あなたは優位に立つため[my_foe.GetFirstNamePossessiveNoTooltip]の攻撃に身を晒します"
- single_combat.0001.tt.special_fallback:0 "#BOL ぐらつく基礎: #!あなたは[my_foe.GetFirstNameNoTooltip]の脛を蹴り上げます"
+ single_combat.0001.tt.special_fallback:0 "#BOL ぐらつく足元: #!あなたは[my_foe.GetFirstNameNoTooltip]の脛を蹴り上げます"
  single_combat.0001.tt.something_to_hide:0 "#BOL 隠し事: #! あなたは相手に、[my_foe.GetHerHim]に対して持っている[hook|E]を思い出させます"
  single_combat.0001.desc.my_feedback.wait_and_hope.will_die:0 "私は凍りつく。私はここで死ぬかもしれない。何もしなければ、私はここで死ぬ#EMP かもしれない#!のだ。私は[my_foe.GetFirstNameNoTooltip]がつまずいて倒れ、私に好機が訪れないかと祈るような気持ちで、震え、動くこともできない。"
  single_combat.0001.desc.my_feedback.wait_and_hope.will_live:0 "私は時を窺い、じっと待っている。私は最高の戦士ではないかもしれないが、おそらく、十分なロープさえあれば、[my_foe.GetFirstNameNoTooltip]は自身を吊るすことになるだろう。"
