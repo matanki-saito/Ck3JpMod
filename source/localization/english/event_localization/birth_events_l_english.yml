@@ -120,7 +120,7 @@
  birth.3011.desc:0 "私の[child.Custom('DaughterSon')]は最高だ。[child.GetHerHis|U]の小さな顔、[child.GetSheHe]の匂い... 。ずっとこうしていたかったが、助産師は[child.GetHerHim]が少し呼吸する間しか抱かせてくれなかった。彼女が[child.GetHerHim]を取り上げたことに抗議しようとしたが、腕が疲れ切ってて言葉が出てこなかった。\n\n\"心配しないでください、奥様。あなたの[child.Custom('DaughterSon')]は強くて健康です。今はあなたの事が心配です\"\n\n召使いたちが必死になって往復しているうちに、世界は暗くなっていく..."
  birth.3011.twin.a:1 "お願い... その子たちの名前を..."
  birth.3011.a:0 "お願い... [child.GetHerHis|U]の名前を..."
- birth.3012.start.desc:0 "やがて助産師が、やわらかく泣いていた包みを抱えて出産室から出てきたとき、私は安堵の気持ちがこみ上げてきた。\n\nそして彼女の顔を見る。\n\n\"ごめんなさい、私の[ROOT.Char.GetLadyLord]。[mother.GetLadyLord|U] [mother.GetFirstNameNoTooltip]... \" 彼女は上手く言葉に出来なかったが、その声のトーンが全てを物語っている。\n\n一つの命は消えた、だが"
+ birth.3012.start.desc:0 "やがて助産師が、やわらかく泣いていた包みを抱えて出産室から出てきたとき、私は安堵の気持ちがこみ上げてきた。\n\nそれから私は彼女の顔を見る。\n\n\"ごめんなさい、私の[ROOT.Char.GetLadyLord]。[mother.GetLadyLord|U] [mother.GetFirstNameNoTooltip]... \" 彼女は上手く言葉に出来なかったが、その声のトーンが全てを物語っている。\n\n一つの命は消えた、だが"
  birth.3012.desc_twin:0 "二つの新しい命が始まったばかり。私は私の[child.Custom('TwinDaughtersSonsChildren')]のために強くあり続けなければならない。"
  birth.3012.desc:0 "新しい命が始まったばかり。私は私の[child.Custom('DaughterSon')]のために強くあり続けなければならない。"
  birth.3012.a:0 "悲劇的な始まりだ..."
