@@ -18,7 +18,7 @@
  british_isles.2001.t:0 "もう[embracer_former_culture.GetNameNoTooltip|U]ではない"
  british_isles.2001.desc:0 "我々[embracer.GetCulture.GetCollectiveNounNoTooltip]がフランスを故郷と思っていた時代は、はるか昔のこととなった。我らの子供たちはここで生まれ、サクソン人に囲まれている。それゆえ子供たちにとって、ノルマンディーはいずれ霧深きブリタニアの岸辺の向こうにある、ぼやけた輪郭でしかなくなるだろう。\n\nゆえに我々が自分たちの地域の慣習を作っていけば、我々の文化の遺産はサクソンの地じゅうに広がり、新たなイングラドのアイデンティティーを生み出すことになるのだ。"
  british_isles.2001.a:0 "イングランドの民万歳！"
- british_isles.2002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))]の[embracer.GetName]と[embracer.GetHerHis]の家臣である[embracer.GetHerHis]の家族はアルビオンの呼びかけに耳を傾けてイングランド文化を受け容れることにした。"
+ british_isles.2002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))]の[embracer.GetName]と[embracer.GetHerHis]の家臣、そして[embracer.GetHerHis]の家族はアルビオンの呼びかけに耳を傾けてイングランド文化を受け容れることにした。"
  british_isles.2002.a:0 "それは時間の問題だったな。"
  british_isles.2002.b:0 "裏切り者め！"
  british_isles.3001.t:0 "厳かに我らは宣言する、"

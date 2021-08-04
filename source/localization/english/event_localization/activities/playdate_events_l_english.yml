@@ -2,7 +2,7 @@
  child_return_from_playdate_title:0 "子供の帰還"
  child_return_from_playdate_desc:0 "[child_scope.GetShortUIName]は[host.GetShortUINamePossessive]の宮廷における仲間の集いから帰還した"
  playdate_header:0 "仲間の集い:"
- playdate.0010.desc:0 "Why would you accept my invitation only to go to [other_host.GetTitledFirstNamePossessive] peer meet instead?! I will remember this."
+ playdate.0010.desc:0 "貴方は[other_host.GetTitledFirstNamePossessive]の仲間の集いに出席するだけなのに、どうして私の招待を受け入れて頂けたのでしょうか！？このことは覚えておきます。"
  playdate.0010.a:0 "しまった。"
  playdate.1001.opening_desc:0 "[barony.GetNameNoTier]の私の宮廷へ、仲間に会いに来てくださいませ！"
  playdate.1001.host_likes_me:0 "あなたにお会いできるこの機会を待っておりました、あなたの出席を願っています！"

@@ -64,7 +64,7 @@
  stewardship_lifestyle_highlight_desc:0 "あなたの管理的な[education|E]特性によって、ライフスタイルにおいて得る[experience|E]が#P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#!増加します。"
  stewardship_domain_focus:0 "領地フォーカス"
  stewardship_domain_focus_modifier:1 "[GetFocus('stewardship_domain_focus').GetName]"
- stewardship_domain_focus_desc:0 "私の領地と世話をしている人々が私の強さです。"
+ stewardship_domain_focus_desc:0 "私の領地とその世話をしている人々こそ私の強さだ。"
  stewardship_domain_focus_effect_desc:0 "領地フォーカスの補正:"
  domain_name:1 "建築家"
  stewardship_duty_focus:0 "職務フォーカス"

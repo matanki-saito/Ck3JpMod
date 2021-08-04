@@ -60,7 +60,7 @@
  stewardship_domain.6011.c:0 "農民どもがいるのになぜ彼らの助けが必要なのだ？"
  stewardship_domain.6012.desc:0 "お互いにどれほどの利益をもたらすか指摘されるまで、石工の指導者は組合を代表して行うどんな取引にも消極的に見えた。"
  stewardship_domain.6012.a:0 "暴力の脅しに頼る必要もなかった！"
- stewardship_domain.6013.desc:0 "長い謁見の後、石工長はそれ以上譲歩しませんでした。\n\n「これより安い価格ではできません」"
+ stewardship_domain.6013.desc:0 "長い謁見の後、石工長はそれ以上譲歩することはなかった。\n\n「これ以上安い価格では無理でございます。」"
  stewardship_domain.6013.a:0 "「合意しよう」"
  stewardship_domain.6013.b:0 "もっと安い石工をどこかで見つけられるはずだ。"
  stewardship_domain.6014.desc:0 "「我が[ROOT.Char.GetLadyLord]よ、あなたは私と石工の全てを侮辱しています！」石工の親方は私の申し出に全く満足していない。「実際、価格は上昇しているのです。もちろん単純に人件費です。私は[ROOT.Char.GetTitleTierName]にご理解いただけると確信しております。」"
