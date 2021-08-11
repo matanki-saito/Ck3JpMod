@@ -94,7 +94,7 @@
  fp1_other_decisions.0011.b.tt:0 "[blotter.GetFirstNameNoTooltip]は、いずれあなたの不在に気づくかもしれません"
  fp1_other_decisions.0011.c:0 "神聖な肉か！初めて味わうのが待ち遠しい…"
  fp1_other_decisions.0011.d:0 "行ってはやるが、人肉など食べないぞ。"
- fp1_other_decisions.0011.e:0 "There's no chance in [gf_faith.NegativeAfterLife] I'm going to #EMP that#!!"
+ fp1_other_decisions.0011.e:0 "[gf_faith.NegativeAfterLife]において私が#EMP そこ#!へ行く機会などない！"
  fp1_other_decisions.0011.e.tt:0 ""
  fp1_other_decisions.0012.t:0 "$fp1_other_decisions.0001.t$: 失われた面目"
  fp1_other_decisions.0012.desc.intro:0 "偉大な[blotter.Custom('GruesomeFestivalName')]であっても重要な人物が欠席することは珍しいことではないが、その場合、適当な使者が理由を説明し、代わりに出席することが礼儀とされている。\n\n"
