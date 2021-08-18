@@ -31,7 +31,7 @@
  IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "[FAITH.GetName]の[doctrines]のおかげで[rulers]は[CHARACTER.GetWomenMen]に[titles]を与えることが出来る"
  NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "[FAITH.GetName]の[doctrines]のために、[rulers]は[TARGET_CHARACTER.GetWomenMen]に[titles]を#bold 与えることが出来ない#!"
  I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "あなたの[realm|E]は[FAITH.GetAdjectiveNoTooltip][holders|E]で少なくとも$VALUE|0V$個の[FAITH.GetName][holy_sites|E]が含まれている"
- I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "[realm|E]内において[FAITH.GetAdjectiveNoTooltip]信仰の[holders|E]が治める[FAITH.GetName]の[holy_sites|E]が、$VALUE|0V$ヶ所#bold 未満です#!"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "[FAITH.GetAdjectiveNoTooltip]信仰の[holders|E]が治める[FAITH.GetName]の[holy_sites|E]の数は、[realm|E]内に$VALUE|0V$ヶ所#bold 未満です#!"
  NOT_RELIGION_TAG_TRIGGER:0 "あなたの[faith]は$RELIGION|V$の#bold 一部ではない#!"
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]することができる"
  CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]#EMP することができない#!"
