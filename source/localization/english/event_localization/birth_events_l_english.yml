@@ -146,7 +146,7 @@
  birth.3041.one_child.desc:0 "かわいい[child.GetFirstNameNoTooltip]を授かってから数週間が経ったが、"
  birth.3041.end:0 "それでも私はベッドに縛り付けられている。あまり改善されないまま日々が過ぎていくと、私の喜びは恐ろしい倦怠感に飲み込まれていく。"
  birth.3041.a:0 "そろそろ体力が戻ってくる頃ではないでしょうか？"
- birth.9002.t:0 "お名前は？"
+ birth.9002.t:0 "名前がなんだというの？"
  birth.9002.start.desc:0 "我が子を抱き、"
  birth.9002.worrying.desc:0 "[suggester.GetTitledFirstName]は不安を目に浮かべ私を見上げる。"
  birth.9002.tears.desc:0 "[suggester.GetTitledFirstName]は[suggester.GetHerHis]の頬から涙をぬぐい、私たちの子[child.Custom('GetDaughterSon')]から目を離さずに言った。"

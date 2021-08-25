@@ -52,7 +52,7 @@
  fp1_trade_events.0041.foreign_architects_no_growth.tt:0 "[development|E]が15以上であるあなたの[domain|E]である[counties|E]"
  fp1_trade_events.0041.partner_gets_raid_aid.tt:0 "[partner.GetFirstNamePossessiveNoTooltip]の脆弱な[duchies|E]の一つは[raid|E]が困難になります"
  fp1_trade_events.0041.raider_gets_civic_aid.tt:0 "[raider.GetFirstNamePossessiveNoTooltip]の[domain|E]は[development|E]の成長と建設コストの割引を得ます"
- fp1_trade_events.0041.partner.benefiting_counties.tt:0 "[counties|E] in the named [duchy|E]"
+ fp1_trade_events.0041.partner.benefiting_counties.tt:0 "[duchy|E]という名の[counties|E]"
  fp1_trade_events.0041.a.advanced:0 "彼らに[partner.GetCulture.GetNameNoTooltip]式の宮殿を作ってもらえないだろうか？"
  fp1_trade_events.0041.a.fallback:0 "学識ある者はいつでも歓迎する…"
  fp1_trade_events.0041.a.offer_accepted:0 "$fp1_trade_events.0011.a.accepted$"
