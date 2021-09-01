@@ -68,7 +68,7 @@
  stress_trait_coping_decisions.6501.a:0 "もう一度ペンを浸して…"
  stress_trait_coping_decisions.7001.t:0 "ストレス解消: 信用"
  stress_trait_coping_decisions.7001.desc:1 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('confidant'))]である[confidant.GetTitledFirstName]と長い会話をした後には、私は自分の思考が落ち着くのを感じることができる。"
- stress_trait_coping_decisions.7001.desc_ending:2 "\n\nしかし、私が再び宮廷に加わると、廷臣たちの顔には嫉妬の表情を見ることができた…結局、[confidant.GetFirstNamePossessive]の信頼が欲しくない者などいるのだろうか？"
+ stress_trait_coping_decisions.7001.desc_ending:2 "\n\nしかし、再び宮廷を見渡すしてみると、廷臣たちの顔に張り付く嫉妬を目の当たりすることになった…詰まるところ、[confidant.GetFirstNamePossessive]の信頼を望まぬ者などいるのか？ということだ。"
  stress_trait_coping_decisions.7001.a:0 "それでも私の心は安らいでいる。"
  stress_trait_coping_decisions.7002.desc:0 "徹底した長い会話をした後には、自分の思考が落ち着くのを感じることができる。"
  stress_trait_coping_decisions.7501.t:0 "ストレス解消: 汗を流そう"

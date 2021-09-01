@@ -5,7 +5,7 @@
  martial_authority.1031.b:0 "兵士達よ、追い出せ！"
  martial_authority.1031.c:0 "奴らは大事になるには酔い過ぎている、すぐ終わるさ。"
  martial_authority.2040.t:0 "野営地での争い"
- martial_authority.2040.desc:2 "自軍が野営地を設営した後、$knight_culture_player_plural_possessive_no_tooltip_lowercase$天幕から騒ぎが聞こえてきた。\n\n騒動を調査してみると、野次馬に取り囲まれて[first.GetTitledFirstName]と[second.GetTitledFirstName]が激しい口論をしているのを見つけた。"
+ martial_authority.2040.desc:2 "自軍が野営地を設営した後、$knight_culture_player_plural_possessive_no_tooltip_lowercase$が集う天幕から騒ぎが聞こえてきた。\n\n騒動を調査してみると、野次馬に取り囲まれて[first.GetTitledFirstName]と[second.GetTitledFirstName]が激しい口論をしているのを見つけた。"
  martial_authority.2040.a:0 "群衆に団結について演説しよう。"
  martial_authority.2040.a.success:0 "私の言葉は諍いから皆を引き離す"
  martial_authority.2040.a.failure:0 "私の言葉は口論に影響を及ぼさない"

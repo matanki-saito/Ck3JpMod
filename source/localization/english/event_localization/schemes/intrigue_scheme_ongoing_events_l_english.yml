@@ -164,7 +164,7 @@
  intrigue_scheme_ongoing.5014.a.success:0 "[target.GetSheHe|U]が贈り物を受け取る"
  intrigue_scheme_ongoing.5014.a.failure:0 "[target.GetSheHe|U]は何かおかしいと思っている"
  intrigue_scheme_ongoing.5014.b:0 "私の部屋では#EMP 素敵 #!に見えるのだろうが…"
- intrigue_scheme_ongoing.5015.desc:0 "[owner.GetTitledFirstName]からの贈り物として、鮮やかで柔らかい豪華な絨毯が届いた。\n\nなぜ[owner.GetSheHe]がこんな素敵な贈り物を送ってきてくれたのかはわからないが、絨毯のきめ細かい織り方は恋人の肌の様で気持ちが良い。"
+ intrigue_scheme_ongoing.5015.desc:0 "[owner.GetTitledFirstName]からの贈り物として、鮮やかで柔らかい豪華な絨毯が届いた。\n\nなぜ[owner.GetSheHe]がかような素敵な贈り物を送ってきてくれたのかは分からないが、絨毯のきめ細かい織り方は若い愛人の肌触りの様で心地よい。"
  intrigue_scheme_ongoing.5015.a:0 "この絨毯を私の部屋の床を敷こう!"
  intrigue_scheme_ongoing.5015.b:0 "それは処分したほうがいいな…"
  intrigue_scheme_ongoing.5016.t:0 "言葉の力"

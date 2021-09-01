@@ -107,7 +107,7 @@
  feast_default.2008.desc:1 "[homosexual_character.Custom2('MyCharacterIntroduction', ROOT.Char )]がこっそり会場を抜け出した時、[romance_target.Custom('FemaleMale')]の使用人の手に[homosexual_character.GetHerHis]の手が滑り込むのがちょっと見えた気がした。\n\n離れたところにある部屋で半裸の彼らを捕まえた時、私の疑いは確認された！"
  feast_default.2008.a:0 "他の[homosexual_character.GetWomanMan]と交際していたのか？！領国じゅうに知らせねば！"
  feast_default.2008.b:0 "この秘密をばらすつもりはないよ、[homosexual_character.GetFirstNameNoTooltip]。今のところはね。"
- feast_default.2008.c:0 "私の許しもなしに、#EMP 私の#!召使いに汚らしいことをしたのか！？"
+ feast_default.2008.c:0 "私の許しもなしに、#EMP 私の#!召使いに汚らわしいことをしたのか！？"
  feast_default.2008.d:0 "ああ、[homosexual_character.GetFirstNameNoTooltip]、知っていればよかった。"
  feast_default.2008.d.unlock_text:0 "このオプションはあなたの[sexuality|E]のために利用可能です。"
  feast_default.2009.t:0 "$feast_header$ どうぞ続けて"

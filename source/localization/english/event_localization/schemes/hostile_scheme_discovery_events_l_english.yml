@@ -41,7 +41,7 @@
  hostile_scheme_discovery.1002.murder:0 "殺人を企んでいるのは"
  hostile_scheme_discovery.1002.abduction:0 "誘拐を企んでいるのは"
  hostile_scheme_discovery.1002.elope:0 "駆け落ちを企んでいるのは"
- hostile_scheme_discovery.1002.fallback:0 "策略を巡らせているのは"
+ hostile_scheme_discovery.1002.fallback:0 "策謀を仕掛けている相手は"
  hostile_scheme_discovery.1002.a:0 "[owner.Custom('InsultAdjective')]悪魔め！"
  hostile_scheme_discovery.3003.t:0 "関与の露見"
  hostile_scheme_discovery.3003.desc:0 "[target.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私が"

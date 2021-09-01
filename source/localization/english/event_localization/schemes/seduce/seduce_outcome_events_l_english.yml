@@ -13,7 +13,7 @@
  seduce_outcome.0003.failure.desc:1 "どこへ行こうとも、[owner.Custom2('MyCharacterIntroduction', ROOT.Char)]が必ずついてきている。[owner.GetHerHis]の目をみつめ、[owner.GetHerHis]の口の端の言葉を聞けば…[owner.GetSheHe]が何を求めているかはわかりきったことだ。"
  seduce_outcome.0003.a.success:0 "もう永遠に地獄に住んでもいい！"
  seduce_outcome.0003.a.failure:0 "[owner.GetHerHim]のそばにい続けよう。#EMP とても#!そばに。"
- seduce_outcome.0003.a.tt:1 "[owner.GetShortUIName|U]が恋人になるかもしれない"
+ seduce_outcome.0003.a.tt:1 "[owner.GetShortUIName|U]は私の愛人になるかもしれない"
  seduce_outcome.0003.b.success:0 "明るく燃え上がり、はかなく消える、それがロマンス。"
  seduce_outcome.0003.b.failure:0 "今夜の気晴らしにはなるが、それだけだ。"
  seduce_outcome.0003.c:0 "なんて美しい…だが断るとしよう。"

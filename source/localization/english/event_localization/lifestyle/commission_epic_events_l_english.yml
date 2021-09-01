@@ -47,7 +47,7 @@
  commission_epic.reduced_chance:1 "[exceptional_epic|E]をつくる可能性が減少した"
  commission_epic.increased_chance:1 "[exceptional_epic|E]をつくる可能性が増加した"
  commission_epic.0002.t:0 "一族の叙事詩: 遠景"
- commission_epic.0002.writer:0 "我が家の叙事詩は順調に進んでいるようで、すでに何十年先にも引用されそうなセリフもあるが、[writer.GetTitledFirstName]]は物語の焦点についての疑問を抱えている。\n\n[writer.GetSheHe]が先に書いたほうが、私も答えやすい。そうすれば私は[writer.GetSheHe]が嫌うところを教えれるのであるが、[writer.GetSheHe]は今すぐ答えることを要求している。"
+ commission_epic.0002.writer:0 "我が家の叙事詩は順調に進んでいるようで、すでに何十年先にも引用されそうなセリフもあるが、[writer.GetTitledFirstName]は物語の焦点についての疑問を抱えている。\n\n[writer.GetSheHe]が先に書いたほうが、私も答えやすい。そうすれば私は[writer.GetSheHe]が嫌うところを教えれるのであるが、[writer.GetSheHe]は今すぐ答えることを要求している。"
  commission_epic.0002.servant:0 "家系図の作成を命じた使用人の[servant.GetFirstName]が少し苦戦しているようだ。けれども、[servant.GetSheHe]が少しでも向上しているのがとても印象的だ。結局のところ、[servant.GetSheHe]は読むことも韻を踏むこともできない。\n\n[servant.GetSheHe]は昼夜を問わず仕事をしていて、重要な質問をしてきた。「我が[ROOT.Char.GetLadyLord]よ、具体的に何をすべきですか？」"
  commission_epic.0002.scribes:0 "わが[ROOT.Char.Custom('CommissionEpicScribes')]は我が家の叙事詩に取り組み始めたが、すでにトラブルに巻き込まれている。彼らは何に焦点を当てるべきか合意できず、[ROOT.Char.Custom('CommissionEpicScribe')]はみな偶然にも自分の担当分野が最も強調されるべきだと主張している。\n\n「押し付けたくはありません、ですが、我々がお互いにズタズタになる前に#EMP あなたが#!決着をつけなくてはいけません！」"
  commission_epic.0002.a:0 "当然、私と我が運命について焦点を当てるべきだ!"

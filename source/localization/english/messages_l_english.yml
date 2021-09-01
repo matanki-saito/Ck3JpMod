@@ -247,7 +247,7 @@
  msg_my_hook_expired_desc:1 "あなたの[LEFT_CHARACTER.GetShortUIName]に対する[hook|E]は失効しました"
  msg_raid_war_invalidated_message:0 "[war.GetName]は終了しました: [defender.GetTitledFirstName]はもはや略奪されません。"
  death_notification_title:1 "あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )|U]、#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死去"
- lover_death_notification_title:0 "あなたの恋人の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡した"
+ lover_death_notification_title:0 "あなたの愛人の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡した"
  friend_death_notification_title:0 "あなたの友人の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡した"
  councillor_death_notification_title:0 "あなたの評議員の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡した"
  msg_perk_point_added:1 "[LIFESTYLE.GetName]のパークが利用可能"

@@ -1,7 +1,7 @@
 ﻿l_english:
  yearly.5001.t:0 "不運な遭遇"
- yearly.5001.duelling.desc:1 "突然の見覚えのある二人の声の響きに注意を引かれ、私は[bickering_spouse.GetWifeHusband]の私室へと導かれる。\n\n到着すると、私は私の[bickering_spouse.GetWifeHusband]である[bickering_spouse.GetFirstName]が、私の恋人の[bickering_lover.GetFirstName]と激しい議論に巻き込まれていることに衝撃を受ける。私に気づいた[bickering_attacker.GetFirstNameNoTooltip]は素早く[bickering_attacker.GetHerHis]の武器を取り出し、[bickering_defender.GetFirstNameNoTooltip]に向かって振り回し、"
- yearly.5001.backstabbing.desc:0 "食堂を出て自分の部屋に戻ろうとしていると、私は、人目につかない隅で、私の恋人である[bickering_lover.GetFirstNameNoTooltip]が私の[bickering_spouse.GetWifeHusband]と談笑しているのを見つけた。[bickering_defender.GetFirstName]は私に挨拶するために振り向き、知らず知らずのうちに[bickering_defender.GetHerselfHimself]自身の身を[bickering_attacker.GetFirstName]に晒し、"
+ yearly.5001.duelling.desc:1 "突然の見覚えのある二人の声の響きに注意を引かれ、私は[bickering_spouse.GetWifeHusband]の私室へと導かれる。\n\n来てみると、我が[bickering_spouse.GetWifeHusband]である[bickering_spouse.GetFirstName]が、我が愛人の[bickering_lover.GetFirstName]と激しい議論に巻き込まれているのに出くわして、私は驚愕した。私に気づいた[bickering_attacker.GetFirstNameNoTooltip]は素早く[bickering_attacker.GetHerHis]の武器を取り出し、[bickering_defender.GetFirstNameNoTooltip]に向かって振り回し、"
+ yearly.5001.backstabbing.desc:0 "食堂を出て自分の部屋に戻ろうとしていると、私は、人目につかない隅で、我が愛人である[bickering_lover.GetFirstNameNoTooltip]が私の[bickering_spouse.GetWifeHusband]と談笑しているのを見つけた。[bickering_defender.GetFirstName]は私に挨拶するために振り向き、知らず知らずのうちに[bickering_defender.GetHerselfHimself]自身の身を[bickering_attacker.GetFirstName]に晒し、"
  yearly.5001.duelling.attackerwins.desc:0 "[bickering_loser.GetHerHim]を打ち倒し、[bickering_loser.GetHerHim]は床に血を流し、死んでしまう。"
  yearly.5001.backstabbing.attackerwins.desc:0 "[bickering_attacker.GetFirstName]は、[bickering_winner.GetHerHis]のライバルの注意が逸れたのを素早く利用して、[bickering_loser.GetHerHis]の肺に短剣を突き刺す。"
  yearly.5001.duelling.defenderwins.desc:0 "しかし、最後の瞬間、[bickering_loser.GetHerHis]の攻撃は相手によって防がれ、[bickering_loser.GetHerHim]は強く押され、[bickering_loser.GetHerHim]は[bickering_loser.GetHerHis]自身の武器によって突き刺されてしまう。"

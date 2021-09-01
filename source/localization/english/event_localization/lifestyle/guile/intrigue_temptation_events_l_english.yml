@@ -10,7 +10,7 @@
  intrigue_temptation_special.1001.t:0 "愛と欲望の"
  intrigue_temptation_special.1001.desc:0 "夢見がちな表情と、物憂げなため息が意味するところは唯ひとつ——[wants_love.Custom2('MyCharacterIntroduction', ROOT.Char)]はロマンスに恋い焦がれている！\n\nひょっとして、私の縁結びの手腕を試せば、[wants_love.GetHerHis]の悩みを解決できるのではないか？　[wants_love.GetSheHe|U]はきっと感謝してくれる！"
  intrigue_temptation_special.1001.a:0 "[wants_love.GetFirstNameNoTooltip]はもう寂しい思いをすることはない！"
- intrigue_temptation_special.1001.a.tt:0 "[wants_love.GetTitledFirstName]が私好みの恋人になるかもしれない"
+ intrigue_temptation_special.1001.a.tt:0 "[wants_love.GetTitledFirstName]は私好みの愛人になるかもしれない"
  intrigue_temptation_special.1001.b:0 "私は自分の結婚に集中すべきだ。"
  intrigue_temptation_special.1001.c:0 "私は自分の恋愛に集中すべきだ。"
  intrigue_temptation_special.1002.t:0 "好みの問題"

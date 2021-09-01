@@ -61,7 +61,7 @@
  convert_to_witchcraft_interaction:1 "$convert_to_witchcraft_key$ #weak (計画)#!"
  convert_to_witchcraft_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]に[actor.GetFaith.WitchGodName]崇拝への改宗を試みます"
  convert_to_witchcraft:1 "$convert_to_witchcraft_key$計画"
- convert_to_witchcraft_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]を[SCHEME.GetOwner.GetFaith.WitchGodName]への道に導き、その力の本当の大きさを見せつける。."
+ convert_to_witchcraft_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]を[SCHEME.GetOwner.GetFaith.WitchGodName]への道に導き、その力の本当の大きさを見せつける。"
  convert_to_witchcraft_desc_general:0 "目標を真の道に導き、その力の大きさを見せつける。"
  convert_to_witchcraft_action:0 "改宗"
  convert_to_witchcraft_interaction_notification:0 "魔術崇拝への改宗"

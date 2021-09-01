@@ -175,7 +175,7 @@
  hunt.4014.a:0 "[hunt_participant.GetHerHim]の方へ向かおう。"
  hunt.4014.b:0 "どいて、私は医学の訓練を受けているんだ！"
  hunt.4014.c:0 "時間がない、[ROOT.Char.Custom('LocalAnimal')]が逃げている。"
- hunt.4015.t:1 "$hunt_header$ 恋人達"
+ hunt.4015.t:1 "$hunt_header$ 愛人関係"
  hunt.4015.desc:0 "私は[ROOT.Char.Custom('TerrainType')]へ獲物を追いかける、[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]にゆっくりと、しかし着実に近づいてく。\n\n突然、それは動揺し跳んで逃げていった。私は獲物が何を恐れたのか見にいくと、自分の目が信じられない——[lover_participant.GetTitledFirstNameNoTooltip]と[second_lover_participant.GetTitledFirstNameNoTooltip]が情熱的な抱擁をし、地面で絡みあっていた。"
  hunt.4015.a:0 "ゆっくりと後ずさる…私は何も見なかった。"
  hunt.4015.b:0 "「これは恥ずべきことだ！すぐに止めろ！」"
