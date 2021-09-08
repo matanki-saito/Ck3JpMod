@@ -1,7 +1,7 @@
 ﻿l_english:
  friendship.0001.t:0 "離れて漂う"
  friendship.0001.desc_opening:1 "時代も人も変わる。一番身近にいる人が他人のようになってしまうこともある。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]」[friend_in_question.Custom2('MyCharacterIntroduction', ROOT.Char)]は悲しげに微笑む。"
- friendship.0001.desc_murder:0 "「あなたの殺人によって…我々の間にもう友情は残っていない気がする。」"
+ friendship.0001.desc_murder:0 "「あなたが人を殺めるがゆえに…我々の間にもう友情は残っていない気がします。」"
  friendship.0001.desc:0 "「我々の間にもう友情は残っていない気がする。」"
  friendship.0001.a:0 "そういうものだ。"
  friendship.0001.b:1 "でも…楽しかった時のことを忘れないで！"

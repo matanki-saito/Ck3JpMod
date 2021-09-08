@@ -1,7 +1,7 @@
 ﻿l_english:
  pregnancy.1001.t:0 "懐妊！"
  pregnancy.1001.d:0 "私の胎内で子供が育っている。我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))]、[real_father.GetTitledFirstName]は誇りに思うだろう！"
- pregnancy.1001.a:0 "よし！"
+ pregnancy.1001.a:0 "快なり！"
  pregnancy.1002.t:0 "懐妊！"
  pregnancy.1002.d:0 "運命が私に微笑んだ！我が[spouse.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]は我が子供を身籠っている！"
  pregnancy.1002.a:0 "赤子をこの手で抱くのが待ち遠しい!"

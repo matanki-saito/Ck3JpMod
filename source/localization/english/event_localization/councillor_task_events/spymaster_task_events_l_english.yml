@@ -84,7 +84,7 @@
  spymaster_task.0399.desc:1 "我々の最善の努力にもかかわらず、私のスパイたちは未だに"
  spymaster_task.0399.home_court:0 "ここの宮廷において何の秘密も暴いていません。"
  spymaster_task.0399.other_court:0 "[target_character.GetTitledFirstNamePossessive]の宮廷において何の秘密も暴いていません。"
- spymaster_task.0399.nothing_to_find:1 "\n\n我々は何も見つけられないと思います。 ここは昼どきの墓地より何もないです。"
+ spymaster_task.0399.nothing_to_find:1 "\n\n何も見つからないかと存じます。 こちらには昼どきの墓地より何事もございません。"
  spymaster_task.0399.something_here:0 "\n\nしかし、私は影で何かが起こっていると確信しています。それが何かを見極めるために、もう少し時間をください。"
  spymaster_task.0399.a.recommended:0 "よかろう、あなたが一番良く知っているだろう"
  spymaster_task.0399.a.counter:0 "いいや、時間を無駄にしなくてもよい。"

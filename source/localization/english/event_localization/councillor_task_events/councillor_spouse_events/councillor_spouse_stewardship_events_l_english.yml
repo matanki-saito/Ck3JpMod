@@ -40,7 +40,7 @@
  councillor_spouse_stewardship.2004.a:0 "素晴らしい仕事だね！"
  councillor_spouse_stewardship.2004.b:0 "善行に見返りは必要ない。"
  councillor_spouse_stewardship.2005.t:1 "配偶者[county_to_boost.GetNameNoTierNoTooltip]への投資"
- councillor_spouse_stewardship.2005.desc:1 "「我が[ROOT.Char.GetLadyLord|U]よ。[county_to_boost.GetName]に投資する珍しい機会があるとを知りました。」\n\n[councillor.Custom('WifeHusband')][councillor.GetFirstName]がその事業投資の詳細を作成している。実際、もしその取引が成功したら[county_to_boost.GetNameNoTierNoTooltip]に大きな利益をもたらすのは想像に難くない。"
+ councillor_spouse_stewardship.2005.desc:1 "「我が[ROOT.Char.GetLadyLord|U]よ。[county_to_boost.GetName]に投資する稀有な機会があるとのことで、気になっています。」\n\n[councillor.Custom('WifeHusband')][councillor.GetFirstName]がその事業投資の詳細を作成している。実際、もしその取引が成功したら[county_to_boost.GetNameNoTierNoTooltip]に大きな利益をもたらすのは想像に難くない。"
  councillor_spouse_stewardship.2005.a:0 "危険を冒す価値はある！"
  councillor_spouse_stewardship.2005.a_1:0 "この取引は[county_to_boost.GetNameNoTierNoTooltip]に大きな利益をもたらす"
  councillor_spouse_stewardship.2005.a_2:0 "この取引が失敗に終わる"

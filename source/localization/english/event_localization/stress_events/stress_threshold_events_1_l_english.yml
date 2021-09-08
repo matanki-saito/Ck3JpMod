@@ -146,7 +146,7 @@
  stress_threshold.2301.d.drunkard.effect:0 "$stress_threshold.1701.i.drunkard.gain$"
  stress_threshold.2301.e.hashishiyah.gain:0 "$stress_threshold.1701.j.hashishiyah.gain$"
  stress_threshold.2301.e.hashishiyah.effect:0 "$stress_threshold.1701.j.hashishiyah.gain$"
- stress_threshold.2301.f:0 "これが憎い。"
+ stress_threshold.2301.f:0 "もう無理しんどい。"
  stress_threshold.2311.t:0 "精神崩壊: 過去からの苦しみ"
  stress_threshold.2311.desc.intro:0 "私は玉座に座り、何年も前にしたことを思い返しながら、思い出に心を重くする。"
  stress_threshold.2311.desc.generous:0 "私は本当に寛大な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]だっただろうか？私は実際に人々を助けたのだろうか？"

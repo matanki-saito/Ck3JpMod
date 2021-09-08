@@ -122,7 +122,7 @@
  playdate.3012.t:0 "$playdate_header$ 勇敢な$knight_culture_player_plural_no_tooltip$"
  playdate.3012.desc_knight:0 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と私が中庭で$knight_culture_player_plural_no_tooltip_lowercase$の訓練を見ていると、[knight.Custom2('MyCharacterIntroduction', ROOT.Char)]が笑顔で近づいてきた。"
  playdate.3012.desc_no_knight:0 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と私が数人の農民の訓練を見ていると、彼らの一人が笑顔で近づいてきた。"
- playdate.3012.desc:0 "\n\n「どうです[participant.Custom('GirlsBoysChildren')]、あなたに基本的な対処ができますかな？」"
+ playdate.3012.desc:0 "\n\n「いかがかな、幼き君よ、あなたに基本的な対処ができますかな？」"
  playdate.3012.a:0 "#EMP ああ！#!"
  playdate.3012.a.success:0 "あなたは基本的なことを習得する"
  playdate.3012.a.neutral:0 "どれほど頑張ってもうまくいかない"

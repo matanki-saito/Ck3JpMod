@@ -13,7 +13,7 @@
  activity_hunt_owner:0 "狩猟人"
  activity_meditation:0 "人里離れた瞑想"
  activity_meditation_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]人里離れた瞑想"
- activity_meditation_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName]は、彼らが安らかに瞑想することができるように、隠遁している。"
+ activity_meditation_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName]は、彼らが安らかに瞑想できるように、隠遁している。"
  activity_meditation_owner:0 "瞑想者"
  visit_seer:0 "予視者がやって来た"
  visit_seer_desc:0 "中世を生き延びる秘訣を何か知っているかもしれない。"

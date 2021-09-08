@@ -90,7 +90,7 @@
  FACTION_CLAIMANT_INVITE_REFUSED_CHILD_DESC:1 "やあ！君も[faction_target.GetTitledFirstName]のことを嫌なヤツだと思ってくれるのは嬉しいね。それに、[faction_target.GetHerHim]より僕の方が絶対良い君主になれると思うんだ！\n\n今は新しいオモチャで遊ぶのに忙しいけど…でも、もし君が勝ったらこのオモチャで一緒に遊んであげるって約束するよ！"
  FACTION_CLAIMANT_INVITE_REFUSED_INSIGNIFICANT_DESC:0 "ついに！　[faction_target.GetName]は[faction_target.GetTitleAsNameNoTooltip]を演じる道化師に過ぎず、私は我が大義のために国中が決起すると確信している。\n\nいまの私の地位の低さでは、あなたを援助することはできない。しかしこれだけは知っている——あなたが勝利を得た#emphasis 時#!、私はあなたが十分に報われるのを見るだろう。"
  FACTION_CLAIMANT_INVITE_REFUSED_DESC:1 "私の請求権に対するあなたの熱意には感謝するが、その努力は失敗する運命にあると感じずにはいられない。結果として私はあなたを支持はしないが、あなたがどのような形であれ成功を収めたならば、私は王位を受け入れよう。"
- FACTION_CLAIMANT_INVITE_REFUSED_OPT:0 "残念だ"
+ FACTION_CLAIMANT_INVITE_REFUSED_OPT:0 "是非もなし。"
  FACTION_CLAIMANT_EVERY_FACTION_MEMBER:0 "すべての派閥のメンバー"
  FACTION_CLAMAINT_DYNAMIC_NAME:0 "[ROOT.Faction.GetSpecialTitle.GetAdjective]玉座に[ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip]を戴かせる派閥"
  FACTION_POPULIST_DYNAMIC_NAME:0 "[ROOT.Var('faction_culture').Culture.GetNameNoTooltip]文化[ROOT.Var('faction_faith').Faith.GetAdjectiveNoTooltip]信徒の民族主義派閥"
