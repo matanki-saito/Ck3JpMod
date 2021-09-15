@@ -1,7 +1,7 @@
 ﻿l_english:
  fervor.1002.t:0 "司祭の不祥事"
- fervor.1002.desc.start:0 "[sinful_theocrat.GetFaith.GetAdjectiveNoTooltip]世界は[sinful_theocrat.Custom2('MyCharacterIntroduction', ROOT.Char)]について知ったことに[sinful_theocrat.Custom('GetShockedExpression')]おり、それによれば"
- fervor.1002.desc.start_hof:0 "[sinful_theocrat.GetFaith.GetAdjectiveNoTooltip]世界は[sinful_theocrat.GetTitledFirstName]について知ったことについて愕然としており、それによれば[sinful_theocrat.GetHerselfHimself]は"
+ fervor.1002.desc.start:0 "[sinful_theocrat.GetFaith.GetAdjectiveNoTooltip]世界は[sinful_theocrat.Custom2('MyCharacterIntroduction', ROOT.Char)]に関する醜聞に[sinful_theocrat.Custom('GetShockedExpression')]いる。それによれば"
+ fervor.1002.desc.start_hof:0 "[sinful_theocrat.GetFaith.GetAdjectiveNoTooltip]世界は[sinful_theocrat.GetTitledFirstName]に関する醜聞に愕然としており、それによれば[sinful_theocrat.GetHerselfHimself]は"
  fervor.1002.desc.lustful:0 "[sinful_theocrat.GetHerHis]の家で何人かの若い召使いと共に「大騒ぎ」をして捕まったのだ！それを発見した哀れな側近は、犯人たちが急いで服を掴んで着替えようとしている間、[dummy_clergy_gender.GetHerHis]の目を逸らすしかなかったという。"
  fervor.1002.desc.chaste:0 "何年も性交渉をしていないことが判明している。数多くの提案を受けたにもかかわらず、[sinful_theocrat.Custom('GetCouncilOrTitleName')]は誰とも肉体関係を持つことに全く興味がないようだ。"
  fervor.1002.desc.gluttonous:0 "[sinful_theocrat.Custom('GetExpensiveMeal')]、[sinful_theocrat.Custom('GetExpensiveMealAlt')]、[sinful_theocrat.Custom('GetExpensiveDessert')]や[sinful_theocrat.Custom('GetExpensiveDrink')]といった贅沢な御馳走で腹を満たしていることが明らかとなった。饗宴への過度の耽溺は[sinful_theocrat.GetHerHis]の正当性に暗い影を落としている。"
@@ -16,7 +16,7 @@
  fervor.1002.desc.impatient:0 "物事がきちんと行われるのを待つことができず、常に[sinful_theocrat.GetHerHis]の側近や召使たちに嫌がらせをしている！"
  fervor.1002.desc.arrogant:0 "[sinful_theocrat.GetHerselfHimself]自身が[sinful_theocrat.GetHerHis]の同僚たちよりも本質的に優れていると考えており、愚かさと何よりも疑念を抱くことができない。"
  fervor.1002.desc.humble:0 "[sinful_theocrat.GetHerHim]の周りの人の方が常に優秀であり、[sinful_theocrat.GetSheHe]は[sinful_theocrat.GetHerHis]の地位には値しないと考え、おとなしく、自信喪失に陥っていることが明らかになった！"
- fervor.1002.desc.deceitful:0 "は地元の[sinful_theocrat.Custom('DefaultPriestTitlePlural')]に日常的に嘘をついてきた。[sinful_theocrat.GetSheHe|U]はどうやら、[sinful_theocrat.GetHerHis]の狡猾な計略を推し進めるため、彼らを騙して虚偽の情報に基づいて行動させていたようだ！"
+ fervor.1002.desc.deceitful:0 "地元の[sinful_theocrat.Custom('DefaultPriestTitlePlural')]を日常的に欺いていたとのこと。どうやら、狡猾な計略を推し進めるため、彼らを騙して虚偽の情報に基づいて行動させていたようだ！"
  fervor.1002.desc.honest:0 "は、絶対的にひどい嘘つきであることが明らかとなり、その企てや誤った方向性は、笑えるほど説得力に欠けるものであった。"
  fervor.1002.desc.craven:0 "臆病でおとなしく、正しいことのために立ち上がるよりも、他人の要求に屈する人物であることが明らかとなった。"
  fervor.1002.desc.brave:0 "無謀にも[sinful_theocrat.GetHerselfHimself]と[sinful_theocrat.GetHerHis]の側近たちを、ただの安っぽいスリルのために不必要な危険にさらしてきたのだ！"

@@ -218,7 +218,7 @@
  yearly.8000.desc.cannibal:0 "\n\nこのような愉快な気前の良さは、優しい臣民の中にもなかなか見られないものだ。[vassal.GetFirstNamePossessiveNoTooltip]の瑞々しい忠誠心は真に味わうべきものだ！"
  yearly.8000.a:0 "入ってくれ！さあ、そこにある黄金を預けて…"
  yearly.8000.b:0 "は？…お前には#emphasis もっと#!差し出すものがあるのではないか？"
- yearly.8000.c:0 "黄金を自身でしまっておきなさい、お前の友誼は今のままでも充分だぞ！"
+ yearly.8000.c:0 "その黄金は取っておけ。汝の友誼は充分である！"
  yearly.8000.d:0 "[vassal.GetHerHim]を[ROOT.Char.Custom('ResidenceBuilding')]に#emphasis 入れるな#!！"
  yearly.8000.e:0 "一緒に…夕食でもどうだ？"
  yearly.8000.e.tt_eat_vassal:0 "あなたに食べられます"

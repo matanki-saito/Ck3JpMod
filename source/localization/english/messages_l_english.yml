@@ -158,7 +158,7 @@
  msg_spouse_invalidated:0 "配偶者の無効化"
  msg_spouse_invalidated_desc:2 "あなたの新しい[faith|E]の信条は[LEFT_CHARACTER.GetShortUIName]がもはやあなたの[spouse|E]でないことを示しています"
  msg_divorce:0 "離婚"
- msg_divorce_desc:0 "あなたは[LEFT_CHARACTER.GetShortUIName]から[divorced|E]を得ました。ー[LEFT_CHARACTER.GetSheHe]はあなたの[spouse|E]ではなくなりました。"
+ msg_divorce_desc:0 "あなたは[LEFT_CHARACTER.GetShortUIName]と[divorced|E]しました。ー[LEFT_CHARACTER.GetSheHe]はあなたの[spouse|E]ではなくなりました。"
  msg_spouse_invalidated_player_heir:0 "[player_heir|E]の$msg_spouse_invalidated$"
  msg_spouse_invalidated_player_heir_desc:0 "[LEFT_CHARACTER.GetShortUINamePossessive]の新しい[faith|E]の信条は[RIGHT_CHARACTER.GetShortUIName]がもはや[LEFT_CHARACTER.GetHerHis]の[spouse|E]でないことを示しています"
  msg_divorce_player_heir:0 "[player_heir|E]の$msg_divorce$"

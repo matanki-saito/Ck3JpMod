@@ -91,7 +91,7 @@
  great_holy_war.0052.b:0 "[ROOT.Char.GetFaith.WarGodName]よ、なぜ我々を罰するのだ？！"
  great_holy_war.0052.c:0 "[ghw_sponsor.Custom('GetUnbelieverNamePlural')]の言い争いは我々には関係ない。"
  great_holy_war.0053.title:0 "折れた[the_faith.ReligiousSymbol|U]"
- great_holy_war.0053.generic.attackers.desc:0 "[the_faith.WarGodName]の戦士たちは、[target_kingdom.GetNameNoTier]の門で死と屈辱しか見つけられなかった。\n\n[ghw_sponsor.GetTitledFirstName]によって熱心に呼びかけられ、支持された[the_faith.GHWName]は、信者の大義を傷つけるだけの惨敗に終わった。このことは確実に、より多くの冒涜者と異教徒を[the_faith.GetName]から遠ざけていくことになるだろう。"
+ great_holy_war.0053.generic.attackers.desc:0 "[the_faith.WarGodName]の戦士たちが、[target_kingdom.GetNameNoTier]の門で出会ったのは死と屈辱だけだった。\n\n[ghw_sponsor.GetTitledFirstName]が熱心に呼びかけ支援した[the_faith.GHWName]は、信者の大義を傷つけるだけの惨敗に終わった。この結果が多くの冒涜者と不信心者をつけあがらせ[the_faith.GetName]の正しき道から遠ざけることは間違いない。"
  great_holy_war.0053.generic.defenders.desc:0 "[the_faith.WarGodName]の哀れな兵士たちは、我々の戦士たちの敵ではなかった。\n\n[ghw_defender.GetTitledFirstName]の賢明かつ敬虔な指導のもと、[ghw_defender.GetFaith.GetAdjective]は侵略者を撃退し[target_kingdom.GetNameNoTier]に対する領有権を再確認した。おそらく次の機会には、[ghw_defender.GetFaith.WarGodName]の力を試す不毛な試みの中で、[the_faith.GetAdjective][ghw_sponsor.GetTitleTierName]は[ghw_sponsor.GetHerHis]の信奉者たちの命を投げ出そうとはしないだろう。"
  great_holy_war.0053.generic.outsiders.desc:0 "いくつかの挫折と屈辱的な敗北の後、[target_kingdom.GetNameNoTier]を征服するために[ghw_sponsor.GetTitledFirstName]が呼びかけた[the_faith.GHWName]は大失敗に終わった。\n\n[ghw_defender.GetTitledFirstNamePossessive]の旗の下で[ghw_defender.GetFaith.GetAdjective]の信者はすべての侵略者を追放し、彼らの指導者を降伏させた。"
  great_holy_war.0053.a:0 "[the_faith.WarGodName]は我らを見捨てられた！"

@@ -14,7 +14,7 @@
  diplomacy_family_focus_modifier:1 "[GetFocus('diplomacy_family_focus').GetName]"
  diplomacy_family_focus_desc:0 "あなたが選んだ家族ではなかったとしても、身近な人こそが一番重要です。"
  diplomacy_family_focus_effect_desc:0 "家族フォーカスの補正:"
- family_name:1 "一族の要人"
+ family_name:1 "一族の要"
  diplomacy_majesty_focus:0 "威厳フォーカス"
  diplomacy_majesty_focus_modifier:1 "[GetFocus('diplomacy_majesty_focus').GetName]"
  diplomacy_majesty_focus_desc:0 "王権とは、祭祀から、伝統から、そして栄光から溢れ出てくるものだ。"

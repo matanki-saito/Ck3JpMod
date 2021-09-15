@@ -63,7 +63,7 @@
  birth.1006.desc:0 "[child.Custom('GetDaughterSon')]と同時に私は[child.GetHerHis]の父親になったことを知った。"
  birth.1006.not_known:0 "\n\nありがたいことに、[spouse_of_mother.Custom2('HerHisCharacterIntroduction', SCOPE.sC('mother'))]は、[spouse_of_mother.GetHerHis]のものだと思っています。"
  birth.1006.unmarried:0 "\n\nありがたいことに、[mother.GetFirstNameNoTooltip]は私について沈黙を保っており、他の誰も真実を知らない。少なくとも今のところは…"
- birth.1006.a:0 "これは気をつけなければならない。"
+ birth.1006.a:0 "これは大いに気をつけなければならないな。"
  birth.1006.a.tt:1 "あなたは秘密を自分の中に隠している"
  birth.1006.a.message_desc:0 "本当の父は知っている"
  birth.1006.a.mother_message:0 "[real_father.GetTitledFirstName]は[real_father.GetSheHe]が真の父親であることを知りました。"

@@ -19,7 +19,7 @@
  war_declared_flavor.populist:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]おまえが戦争を望むならば、我々が相手になってやる！我らの新しい国を作る運動は、誰にも止めさせはしない！"
  war_declared_flavor.independence:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]私たちはあまりにも長い間あなたの支配下で暮らしてきた。もうこれ以上我慢できない——血と鋼によって、私たちは自由になる！"
  war_declared_flavor.liberty:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]古からの我らの権利を犯す過酷な法律は、もはや容認できない。剣によって、これら法は切り捨てられるであろう！"
- war_declared_flavor.claimant:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]あなたは僭越者で暴君だ。正統な君主を復権させる時が来たのだ！"
+ war_declared_flavor.claimant:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]汝は僭称者にして暴君である。正統なる君主に玉座を返す時が来たのだ！"
  war_declared_flavor.retraction_refused:0 "$char_interaction.0221.desc$"
  war_declared_flavor.revocation_refused:0 "$char_interaction.0201.desc$"
  war_declared_flavor.imprisonment_refused:0 "おまえを暴君と名付け、その権威に服従しない！我が領土は悪意ある支配に反旗を翻す！"

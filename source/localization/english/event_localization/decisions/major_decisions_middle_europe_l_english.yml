@@ -32,7 +32,7 @@
  middle_europe_decisions.0010.c:0 "この決定を真剣に考えるべきだ。"
  middle_europe_decisions.0011.desc:0 "[scoped_ruler.GetTitledFirstName]は、シチリア王国の新しい議会を形成するために、貴族、聖職者、市民の代表者を任命した。\n\nこの諮問機関は、[scoped_ruler.GetTitleTierName]とその後継者が、すべての臣民のために賢く効率的に統治できるように支援する。"
  middle_europe_decisions.0011.a:0 "なるほど…"
- middle_europe_decisions.0012.t:0 "フランス人の作品"
+ middle_europe_decisions.0012.t:0 "〈フランス人の作品〉"
  middle_europe_decisions.0012.desc:0 "新たな繁栄の時代が到来した。[scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]は、芸術と哲学の光り輝く灯台として暗黒時代から現れた。\n\n都市は商業の中心地に成長し、ローマ帝国の古代遺跡に匹敵する素晴らしい大聖堂を建設し、あらゆる種類の画家、吟遊詩人、哲学者を惹きつけている。我が王朝の賢明な庇護の下、[scoped_ruler.GetCulture.GetName]の人々は、ヨーロッパ全土の羨望の的になるであろう。"
  middle_europe_decisions.0012.a:0 "我らの偉大な仕事を続けていこう！"
  middle_europe_decisions.0013.t:0 "ゴシック期"

@@ -176,7 +176,7 @@
  seduce_ongoing.1601.t:0 "[location.GetNameNoTierNoTooltip]での読書会"
  seduce_ongoing.1601.t_no_location:0 "読書"
  seduce_ongoing.1601.desc:0 "祝賀会が終わり夜の余興も終わった頃に、[target.GetTitledFirstName]が朗読会を提案してきた。\n\nすぐに書記官がやってきて、客人たちは何を朗読して欲しいのかなと考えていたが、だがこれは私が[target.GetFirstName]の心を捉えるチャンスだと気づいてしまった。"
- seduce_ongoing.1601.a:0 "『[SCOPE.Custom('RandomReligiousTextName')]』のような敬虔なのにする"
+ seduce_ongoing.1601.a:0 "『[SCOPE.Custom('RandomReligiousTextName')]』のような敬虔なもの。"
  seduce_ongoing.1601.a.tt:0 "[target.GetSheHe]は宗教の話が聞きたいはずだ。"
  seduce_ongoing.1601.b:0 "『[SCOPE.Custom('RandomEntertainmentTextName')|U]』、楽しもう！"
  seduce_ongoing.1601.b.tt:0 "[target.GetSheHe]は面白い話が聞きたいはずだ。"

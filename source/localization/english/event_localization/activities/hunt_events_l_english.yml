@@ -88,7 +88,7 @@
  hunt.4004.t:1 "$hunt_header$ 獣を倒す"
  hunt.4004.desc:0 "神話に出てくる生き物だと思うかもしれないが、動物の姿をした神様かもしれない。今まで見た中で一番大きい[ROOT.Char.Custom('LocalAnimal')]だった。獣を負傷させた後も、追跡は半日続いた。\n\n私の前で死んで横たわっている姿が印象的だ。"
  hunt.4004.credit_receiver:0 "[credit_receiver.GetTitledFirstName]もただ驚愕するだけである。「こんなものは見たことがありません、我が[ROOT.Char.GetLadyLord]。」"
- hunt.4004.a:0 "剥製にしてその頭を私の大広間に飾れば見映えするだろう！"
+ hunt.4004.a:0 "その頭を私の大広間に飾れば見映えするだろう！"
  hunt.4004.b:0 "その獲物は我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('trophy_recipient'))]へ捧げよう。"
  hunt.4004.c:0 "これは壮麗なコートを作れるな！"
  hunt.4004.c.tt:0 "違う、#EMP 派手じゃない#!！"
