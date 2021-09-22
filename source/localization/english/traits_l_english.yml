@@ -203,7 +203,7 @@
  trait_humble_desc:0 "この人物は、人生に多くを求めない。"
  trait_humble_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、人生に多くを求めない。"
  trait_arrogant:0 "傲慢"
- trait_arrogant_desc:0 "この人物は彼らの自尊心を疑うことがない。"
+ trait_arrogant_desc:0 "この人物はその自尊心を疑うことがない。"
  trait_arrogant_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[ROOT.GetCharacter.GetHerHis]の自尊心を疑うことがない。"
  trait_deceitful:0 "嘘つき"
  trait_deceitful_desc:0 "嘘やごまかしをすることがこの人物の性格である。"

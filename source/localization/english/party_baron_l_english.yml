@@ -63,7 +63,7 @@
  party_baron.2006.desc:0 "「非常に特別な祭典」として饗宴に招待された私は、私自身のための[party_baron.GetTitledFirstNamePossessive]の祝賀会を見ることになった。\n\n覚えている限りこれ以上の幸せはなかったし、今は私の人生への欲求を少し取り戻せたような気がする！"
  party_baron.2006.a:0 "世界を見よう！"
  party_baron.2006.b:0 "大して特別ではなかった。"
- party_baron.2007.desc:0 "戦争の最中でも、[party_baron.GetTitledFirstName]は[party_baron.GetHerHis]のいつもの手口を見出す。私が自分の軍隊を調査していると、[party_baron.GetSheHe]は[party_baron.GetHerHis]自身の小さな軍勢の先頭に立って私のところにやって来る。\n\n「私は我々が手に入れられるものは全て手に入れたいと思い、何人かに声をかけたところ、彼らは志願兵として参加することを望んでいることがわかったのです！」\n\n志願兵だと…？私はこの兵士たちがどこから来たのか尋ねるべきだろうか？"
+ party_baron.2007.desc:0 "戦争の最中でも、[party_baron.GetTitledFirstName]は[party_baron.GetHerHis]のいつもの手口を見出す。私が自分の軍隊を見渡していると、[party_baron.GetSheHe]は[party_baron.GetHerHis]自身の小さな軍勢の先頭に立って私のところにやって来る。\n\n「私は我々が手に入れられるものは全て手に入れたいと思い、何人かに声をかけたところ、彼らは志願兵として参加することを望んでいることがわかったのです！」\n\n志願兵だと…？私はこの兵士たちがどこから来たのか尋ねるべきだろうか？"
  party_baron.2007.a:0 "これはまさに私が必要としているものだ！"
  party_baron.2007.b:0 "#EMP 助け#!と言うなら、君は#EMP プロ#!の軍勢を連れて来てくれるべきだった！"
  party_baron.2007.b_flavor:0 "ああ。ああ、あなたは…？"

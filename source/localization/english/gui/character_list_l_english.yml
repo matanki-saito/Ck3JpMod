@@ -56,7 +56,7 @@
  same_culture_filter_option:0 "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
  not_same_culture_filter_option_desc:1 "異[cultures|E]の人物のみ表示"
  not_same_culture_filter_option:1 "$same_culture_filter_option$以外"
- RELEVANCE_SORT:0 "関係性"
+ RELEVANCE_SORT:0 "適合度"
  ALLIANCE_POWER_SORT:0 "同盟兵力"
  PRESTIGE_GAIN_SORT:0 "威信増加量"
  offspring_filter_category:0 "子孫"

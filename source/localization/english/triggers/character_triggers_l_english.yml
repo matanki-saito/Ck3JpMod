@@ -609,7 +609,7 @@
  YOU_ALREADY_KNOW_A_BLACKMAILABLE_SECRET_YOU_CAN_USE:0 "あなたはすでに[hook|E]を得るための[blackmail|E]に使用できる[secret|E]を知っています"
  YOU_ALREADY_KNOW_A_CRIMINAL_SECRET_ABOUT_TARGET:0 "あなたはすでに[strong_hook|E]を得るための[blackmail|E]に使用できる[criminal|E][secret|E]を知っています"
  THIRD_IS_COWED:0 "[CHARACTER.GetShortUIName|U]は[cowed|E]ている"
- CANNOT_BE_ORDERED_TO_FIND_SECRETS_AT_OWN_COURT:0 "密偵長に対して自身の宮廷で秘密を探るよう指示することはできません"
+ CANNOT_BE_ORDERED_TO_FIND_SECRETS_AT_OWN_COURT:0 "密偵頭に自らの宮廷で秘密を探らせるよう指示することは出来ません"
  EAGER_FOR_MORE_VASSALS:0 "[CHARACTER.GetShortUIName|U]はより権力を得られる提案なら常に受け入れるでしょう"
  HAS_OPINION_MODIFIER_TRIGGER:0 "次の評価補正がある: $MODIFIER|V$"
  HAS_REVERSE_OPINION_MODIFIER_TRIGGER:0 "[TARGET_CHARACTER.GetShortUIName]が次の評価補正を持っている: $MODIFIER|V$"

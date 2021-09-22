@@ -10,7 +10,7 @@
  hunt_mystical_animal.1003.b:0 "この仕事は多大な労力が要る。まっぴらごめんだ。"
  hunt_mystical_animal.1003.b.tt:1 "もはやあなたはこの動物を狩猟しないでしょう。"
  hunt_mystical_animal.1003.c:0 "我が[steward.GetCouncilTitle]がこの仕事をやるだろう。"
- hunt_mystical_animal.1003.d:0 "私がこれをできる。私が#EMP しなければ#!！"
+ hunt_mystical_animal.1003.d:0 "私にはできる。私が#EMP しなければ#!！"
  hunt_mystical_animal.1004.desc:0 "「我が[ROOT.Char.GetLadyLord]！我々は地元の森で人々があの白い[ROOT.Char.Custom('LocalAnimal')]を知っているという報告を得ました！人々は繁栄から病気までその全てがそれに従っているなどと言っておりますが、皆がこの地域にいると確信しているようです。」\n\nあいつがここに？[location.GetNameNoTier]に？！"
  hunt_mystical_animal.1004.a:0 "行くぞ！"
  hunt_mystical_animal.1004.a.tt:0 "今度は私から逃げられないぞ。"

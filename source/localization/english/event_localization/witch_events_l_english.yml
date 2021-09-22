@@ -28,7 +28,7 @@
  witch.2002.no_discovery.desc:0 "座っていると、私は突然、完全に自覚する。見知らぬ[owner.GetWomanMan]の声の主を探して周りを見回すが、そこには影しかない。"
  witch.2002.end.desc:0 "\n\n「[owner.GetFaith.WitchGodName|U]は汝に祝福を与えよう。汝は[owner.GetFaith.WitchGodHerHis|U]の祝福を受け入れるか？」"
  witch.2002.a:0 "我が心のすべてを捧げます！"
- witch.2002.b:0 "私はそんなものと何もしたくない、去れ悪魔！"
+ witch.2002.b:0 "私はそんなものと関わりたくない。去れ、悪魔！"
  witch.2002.c:0 "[owner.GetFirstNameNoTooltip]、汝の罪は世間に知れ渡る！"
  witch.2003.t:1 "$convert_to_witch$: 新米の初心者"
  witch.2003.desc:0 "私は[target.GetFirstName]の寝姿を見ながら、[owner.GetFaith.WitchGodName]に素早く祈りを捧げる。最後に囁かれた言葉が私の唇を通り過ぎると、[target.GetHerHis]の潜在意識が、この瞬間を待っていたかのように[target.GetSheHe]は動き出した。\n\n私が影から身を乗り出し、[target.GetFirstNameNoTooltip]が[owner.GetFaith.WitchGodName]への祈りを捧げるとき、彼の目には恐れも迷いもない。いや、[target.GetHerHis]は心から受け入れ渇望している。"

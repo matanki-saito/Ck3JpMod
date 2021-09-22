@@ -1,6 +1,6 @@
 ﻿l_english:
  every_guest_scope_tt:0 "すべての客人"
- feast.0010.desc:0 "貴方は[other_host.GetTitledFirstNamePossessive]の饗宴に出席するだけなのに、どうして私の招待を受け取って頂けるのでしょうか。その饗宴のことは知りませんでしたが、このことは覚えておきます。"
+ feast.0010.desc:0 "どうして貴方が[other_host.GetTitledFirstNamePossessive]の饗宴に出席されて、代わりに私の招待を捨て置かれたのか理解に苦しみますが、今回のことは忘れませんのでお忘れなく。"
  feast.0010.a:0 "不幸だ。"
  feast.1501.opening:0 "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
  feast.1501.opening_desc:0 "ここに私の[barony.GetNameNoTier]の宮廷で開催する祝宴にご招待申し上げたい！"

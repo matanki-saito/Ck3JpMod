@@ -114,7 +114,7 @@
  hunt.4007.desc_lustful:0 "わが[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))]の[similar_participant.GetTitledFirstName]が狩具を着た姿は目覚ましい印象を与えている。[similar_participant.GetHerHim]へ向けていた私の興味は呪わしくも妨害された。"
  hunt.4007.desc_fallback:0 "ちょうど[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('similar_participant'))][similar_participant.GetTitledFirstName]と丘を登っていたときにそれを聞いた。"
  hunt.4007.desc_ending:0 "\n\n小枝が折れる音、枝のざわめき、鳥たちの怯えた鳴き声。 それの到来を告げる前触れだ。 巨大な[ROOT.Char.Custom('LocalAnimal')]が真っ直ぐこちらへ向かってくる。"
- hunt.4007.a:0 "道はここで終わる。 私によってな。"
+ hunt.4007.a:0 "我がいるからには先はないぞ。"
  hunt.4007.a.success:0 "獣を殺した"
  hunt.4007.a.failure:0 "負傷した"
  hunt.4007.a.critical_failure:0 "殺された"

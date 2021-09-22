@@ -3,7 +3,7 @@
  COUNCILWINDOW_POWERFUL_VASSAL_INFO:0 "@warning_icon!#X [CouncilWindow.GetNumberOfPowerfulVassalsNotInCouncil|V]人の[powerful_vassals|E]が[council|E]に入ることを要求しています#!"
  COUNCILWINDOW_TT_REPLACE:1 "#T [ACTIVE_COUNCIL_TASK.GetPositionName]を任命#!"
  COUNCILWINDOW_SELECT_COUNCILLOR:0 "[CouncilPositionType.GetName]が選択されていません"
- COUNCILLOR_RELEVANCE:0 "関係性"
+ COUNCILLOR_RELEVANCE:0 "適合度"
  COUNCILWINDOW_SELECT_TASK:0 "実行する任務を選択"
  POTENTIAL_LOCATION_ASSIGN:0 "任命"
  POTENTIAL_LOCATION_CANCEL:0 "キャンセル"

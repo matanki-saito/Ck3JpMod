@@ -1,6 +1,6 @@
 ﻿l_english:
  vassal.1001.t:0 "[ROOT.Char.GetFaith.HighGodName|U]のご意志のままに"
- vassal.1001.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('religious_liege'))]である[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('religious_liege'))][religious_liege.GetTitledFirstName]が私の領土を通過しているところだ。[religious_liege.GetSheHe]は建造物を調査すると、[religious_liege.GetSheHe]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('religious_liege'))]、眉をひそめる。\n\n「この景色を見て何が欠けているかわかるかね？[religious_liege.GetFaith.HighGodName]の栄光への賛辞である[religious_liege.GetFaith.HouseOfWorship]だ！」"
+ vassal.1001.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('religious_liege'))]である[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('religious_liege'))][religious_liege.GetTitledFirstName]が私の領土を通過しているところだ。[religious_liege.GetSheHe]は建物を見渡すと、[religious_liege.GetSheHe]は[ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('religious_liege'))]し、眉をひそめる。\n\n「この景色を見て何が欠けているかわかるかね？[religious_liege.GetFaith.HighGodName]の栄光への賛辞である[religious_liege.GetFaith.HouseOfWorship]だ！」"
  vassal.1001.a:0 "[ROOT.Char.GetFaith.HouseOfWorship]を建てることを約束しよう!"
  vassal.1001.a.tt:0 "#F 10年以内にそれが実現した場合[religious_liege.GetFirstNameNoTooltip]は約束を覚えていて、私への[favor|E]を高めるでしょう#!"
  vassal.1001.b_zealous:0 "[ROOT.Char.GetFaith.HighGodName]の代弁者とは、自分を何だと思っているのだ！？"

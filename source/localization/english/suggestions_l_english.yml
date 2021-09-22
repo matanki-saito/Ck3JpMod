@@ -33,7 +33,7 @@
  suggestion_raid:0 "提案: [landed_title.GetNameNoTierNoTooltip]を略奪しましょう"
  suggestion_raid_desc:0 "[raid|E]のために軍勢を[landed_title.GetNameNoTierNoTooltip]に送ると、$game_concept_raid_loot$を得られます。"
  suggestion_raid_click:1 "#I クリックで軍事画面を表示#!"
- suggestion_grant_title_label:0 "称号の授与"
+ suggestion_grant_title_label:0 "称号を授与しましょう"
  suggestion_grant_title:0 "提案: [recipient.GetShortUINameNoTooltip]に[landed_title.GetNameNoTierNoTooltip]を与えましょう"
  suggestion_grant_title_desc:0 "[recipient.GetShortUIName]は[landed_title.GetName]の[de_jure|E]の保有者です。領国を可能な限り慣習的領土の構成に沿わせることで、その安定性が増し、評価ペナルティが減少します。"
  suggestion_grant_title_click:1 "#I クリックで称号を授与#!"

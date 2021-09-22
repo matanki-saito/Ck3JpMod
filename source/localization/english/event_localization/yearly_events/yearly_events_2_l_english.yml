@@ -89,7 +89,7 @@
  yearly.1020.a.capture.desc:0 "[enemy.GetTitledFirstNameNoTooltip]を捕らえる"
  yearly.1020.a.capture.tt:0 "[vip.GetTitledFirstName]は、[enemy.GetTitledFirstName]を引き取った時に残りの金を渡します"
  yearly.1020.a.escape.desc:0 "[enemy.GetTitledFirstNameNoTooltip]は逃亡する"
- yearly.1020.b:0 "受諾するふりをして秘密裏に[enemy.GetFirstNameNoTooltip]に警告してやろう。"
+ yearly.1020.b:0 "乗ったと見せて裏で[enemy.GetFirstNameNoTooltip]に警告しよう。"
  yearly.1020.a.kill.desc:0 "[enemy.GetTitledFirstNameNoTooltip]は待ち伏せされて殺される"
  yearly.1020.a.kill.message:0 "[enemy.GetTitledFirstName]は待ち伏せされて殺されました"
  yearly.1020.b.success.desc:0 "[vip.GetTitledFirstNameNoTooltip]は私が[enemy.GetTitledFirstNameNoTooltip]を待ち伏せしたと信じる"

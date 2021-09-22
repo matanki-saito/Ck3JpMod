@@ -21,7 +21,7 @@
  pregnancy.1103.desc:0 "私には子供がいることをお知らせするが、この子は間違いなくそなたの子だ。\n\nこの子を授かった時には我らは結婚していたので、この子に私生児の汚名がついて回ることはない。誕生したら、この子はそなたの嫡出子として知られることになるだろう。"
  pregnancy.1103.desc_concubine:0 "私には子供がいることをお知らせするが、この子は間違いなくそなたの子だ。\n\nこの子を授かった時には我らは一緒になっていたので、この子に私生児の汚名がついて回ることはない。誕生したら、この子はそなたの子として知られることになるだろう。"
  pregnancy.1103.a:0 "分かった、そうしてくれ。"
- pregnancy_not_first_child_message:1 "あなたの[spouse.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]はあなたの子供を育てている"
+ pregnancy_not_first_child_message:1 "あなたの[spouse.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]はあなたの子供を身ごもっている"
  pregnancy.2001.t:0 "婚外子"
  pregnancy.2001.opening:0 "最近気分が悪い。これは明らかな兆しだ。私は身籠ってしまったのだ！"
  pregnancy.2001.father_is_married:0 "\n\n[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が間違いなく父親なのだが、[real_father.GetSheHe]は結婚しているし、私の子を[real_father.GetHerHis]の子だと認めることは決してないだろう！"

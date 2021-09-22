@@ -73,7 +73,7 @@
  stress_trait_ongoing.1501.b.flavor:0 "一人の時間があれば、少なくとも一時的に安堵感は得られるだろう。"
  stress_trait_ongoing.1501.c:0 "売春宿へ行けば[obsession.GetHerHim]のことも忘れられるだろう…"
  stress_trait_ongoing.1501.c.flavor:0 "#EMP 誰か#!がこれを乗り越えるための手助けをしてくれるはずだ。"
- stress_trait_ongoing.1501.d:0 "[obsession.GetFirstName]をこのような対象として見るべきではない、#EMP 間違っている#!！"
+ stress_trait_ongoing.1501.d:0 "[obsession.GetFirstName]をそんな目で見てはならない。#EMP 間違っている#!！"
  stress_trait_ongoing.1501.d.flavor:0 "この妄想は[obsession.GetHerHim]にとって不正であり、私にとっては有害だ。"
  stress_trait_ongoing.4501.t:0 "一口も食べられない"
  stress_trait_ongoing.4501.desc:0 "過去数週間は本当にストレスがたまっていたので、私はおいしくて風味の良い[ROOT.Char.Custom('FavoriteTreat')]を食べたいだけなんだ…たぶんいくつか…\n\nちくしょう、たぶんテーブルいっぱいに！\n\n悲しきかな、もう何も残っていないし、もっと作るための材料もないと料理人は伝えてきた。"

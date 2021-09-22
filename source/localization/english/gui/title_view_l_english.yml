@@ -155,7 +155,7 @@
  TITLE_VIEW_MERCENARY_NUMBER_OF_SOLDIERS:0 "[MercenaryCompany.GetCurrentSoldiers][soldiers|E]"
  CHARACTER_SORT_BY:0 "#T 並べ替え順: [Select_CString( CharacterSelectionList.GetSortOrder, '昇順', '降順' )]\n#!#I クリックで切替#!"
  FIND_VASSAL_HEADER:2 "称号の授与"
- FIND_VASSAL_RELEVANCE:0 "関係性"
+ FIND_VASSAL_RELEVANCE:0 "適合度"
  FIND_VASSAL_BUTTON_TOOLTIP:2 "#T $FIND_VASSAL_HEADER$#!\nこの[title|E]を授与する相手を選びます。\n\n$FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT$"
  FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT:0 "あなたの[realm|E]内にいる[vassals|E]、[guests|E]、[courtiers|E]へと[titles|E]を授与することが出来ます"
  GRANT_TO_LOCAL_NOBLE_HEADER:0 "新たな封臣を任命"

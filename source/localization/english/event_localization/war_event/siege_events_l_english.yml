@@ -1,6 +1,6 @@
 ﻿l_english:
- siege.0002.one_captured.t:1 "砦陥落で捕らえられた捕虜"
- siege.0002.several_captured.t:1 "砦陥落で捕らえられた捕虜"
+ siege.0002.one_captured.t:1 "包囲戦で捕らえられた捕虜"
+ siege.0002.several_captured.t:1 "包囲戦で捕らえられた捕虜たち"
  siege.0002.one_captured:0 "[barony.GetNameNoTier]を包囲中に[prisoner_1.Custom2('NamePossessiveCharacterIntroduction', SCOPE.sC('holder'))]を捕らえた。"
  siege.0002.two_captured:0 "[barony.GetNameNoTier]を包囲中に[prisoner_1.Custom2('NamePossessiveCharacterIntroduction', SCOPE.sC('holder'))]と[prisoner_2.Custom2('HerHisCharacterIntroduction', SCOPE.sC('holder'))] を捕らえた。"
  siege.0002.several_captured:0 "[barony.GetNameNoTier]を包囲中に[prisoner_1.Custom2('NamePossessiveCharacterIntroduction', SCOPE.sC('holder'))]と他[ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0]名を捕らえた。"

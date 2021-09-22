@@ -36,7 +36,7 @@
  COURT_SUCCESS_DESC:0 "あなたは[prestige|E]を獲得し、[TARGET_CHARACTER.GetShortUIName]が魂の伴侶になるかもしれない"
  CONVERT_TO_WITCHCRAFT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName|U]は魔女となる"
  SEDUCE_SUCCESS_DESC:1 "[TARGET_CHARACTER.GetShortUIName|U]があなたの[lover|E]になる"
- SWAY_SUCCESS_DESC:1 "あなたの[TARGET_CHARACTER.GetShortUINamePossessive]の[opinion|E]が#P [GetNamedValue('sway_opinion_increase_per_success')]#!になります"
+ SWAY_SUCCESS_DESC:1 "あなたへの[TARGET_CHARACTER.GetShortUINamePossessive]の[opinion|E]が#P [GetNamedValue('sway_opinion_increase_per_success')]#!増加します"
  CLAIM_THRONE_SUCCESS_DESC:1 "[TARGET_CHARACTER.GetPrimaryTitle.GetName]の[pressed_claim|E]を得ます"
  CLAIM_THRONE_DISCOVERY_DESC:2 "あなたは大量の[prestige|E]を失うのを回避する"
  SCHEME_I_AM_COUNCILLOR_OF_TARGET:1 "あなたは[target.GetShortUINamePossessive]の[council|E]に奉仕している: $VALUE|+=0$"

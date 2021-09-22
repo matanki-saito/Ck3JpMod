@@ -243,7 +243,7 @@
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_PORTUGAL_DESC:0 "あなたは本当に亡くなってしまったが、あなたによる$k_portugal$王国の創設は永遠に記憶されるのであろうか？"
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_BOSNIA_DESC:0 "$k_bosnia$王国の建国以来、ボスニアには馬ですらあなたの名を知らぬ者はいない。"
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_ARMENIA_DESC:0 "あなたの名は、$e_armenia$帝国の創設者として永遠に残るであろう。"
- SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_RUM_DESC:0 "$k_rum$王国はあなたの手で作られた、その創始者として、それはずっとあなたのものだ。"
+ SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_RUM_DESC:0 "$k_rum$王国はあなたの手で作られた。その創始者として、それはある意味ずっとあなたのものだ。"
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_ISRAEL_DESC:0 "$k_israel$王国が作られたのは、あなたの努力と勤勉さがあればこそだ。"
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_OUTREMER_DESC:0 "誰もそんなことができるとは思っていなかったが、あなたは$e_outremer$帝国として世界で最も争いの絶えない聖地を支配下に置いた。"
  SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_SWITZERLAND_DESC:0 "アルプス山脈を登ったとしても、$k_switzerland$王国を築いた後にあなたのものとなったものすべてを見ることはできないであろう。"
