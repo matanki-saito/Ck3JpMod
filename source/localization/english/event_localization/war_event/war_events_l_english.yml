@@ -9,7 +9,7 @@
  war_event.notification_liege_loss.t:0 "主君が戦争に敗北"
  war_event.1001.t:0 "主君が開戦"
  war_event.1001.desc:0 "戦争中の状況の変化の早さとは不思議なものだ。\n\n[recipient.Custom2('MyCharacterIntroduction', ROOT.Char)]に対する戦いの最中、[liege_invalidator.Custom2('MyCharacterIntroduction', ROOT.Char)]からの書状が届く。[liege_invalidator.GetSheHe|U]は私に自身の大義を捨て、[recipient.GetTitledFirstName]に対する#EMP [liege_invalidator.GetHerHis]#!の戦争に参加するよう伝えている。"
- war_event.1001.a:0 "し、しかし私の戦争はどうなる！？くそっ！"
+ war_event.1001.a:0 "し、しかし私の戦争はどうなる！？畜生めが！"
  war_event.2001.t:0 "新たな対戦相手"
  war_event.2001.desc:0 "この世界には何も確実なものはなく、特に戦争の時期はそうだ。[war.GetName]についても同様だ。\n\nこの紛争はもはや[previous_defender.Custom2('MyCharacterIntroduction', ROOT.Char)]に対してではなく、[defender.Custom2('MyCharacterIntroduction', ROOT.Char)]に対してものであるため、一度状況を見直すのが賢明かもしれない。"
  war_event.2001.a:0 "私の目標は変わらない。"

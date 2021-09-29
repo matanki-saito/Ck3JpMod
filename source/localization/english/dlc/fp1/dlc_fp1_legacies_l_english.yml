@@ -1,7 +1,7 @@
 ﻿l_english:
  fp1_adventure_legacy_track_name:0 "冒険"
  fp1_adventure_legacy_track_desc:0 "流寓精神、更に知りたいという欲望、見知らぬ世界の驚き"
- fp1_adventure_legacy_1_name:1 "放浪"
+ fp1_adventure_legacy_1_name:1 "放浪心"
  fp1_adventure_legacy_2_name:1 "贈り物を贈る者"
  fp1_adventure_legacy_3_name:0 "奇妙な神々"
  fp1_adventure_legacy_4_name:0 "古参探検者"
@@ -9,7 +9,7 @@
  fp1_pillage_legacy_track_name:0 "略奪"
  fp1_pillage_legacy_track_desc:0 "諺にもあるように、「戦利品は[GetPlayer.GetDynasty.GetBaseNameNoTooltip]家のものだ！」"
  fp1_pillage_legacy_1_name:0 "海の狼"
- fp1_pillage_legacy_2_name:0 "余裕のあるふところ"
+ fp1_pillage_legacy_2_name:0 "余裕あるふところ"
  fp1_pillage_legacy_3_name:0 "手慣れた誘拐犯"
- fp1_pillage_legacy_4_name:0 "殺戮者"
+ fp1_pillage_legacy_4_name:0 "戦場の収穫"
  fp1_pillage_legacy_5_name:0 "無慈悲"

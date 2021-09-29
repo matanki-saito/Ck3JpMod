@@ -112,7 +112,7 @@
  befriend_outcome.8007.desc:0 "昨夜、私の[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('target'))]の愛情を得るための最後の試みとして、私は私の最も恥ずべき秘密の一つを[target.GetHerHim]に明かすことにした。私の誠実さが二人の距離を縮めてくれると期待していたのだが、大間違いだった。\n\n[target.GetSheHe|U]は、私が[target.GetHerHis]の要求に屈しない限り、私の秘密を宮廷中にバラすと脅している！"
  befriend_outcome.8007.a:0 "いいだろう！いくら必要なんだ？"
  befriend_outcome.8007.b:0 "愛しい人、あなたが言うなら何でも！"
- befriend_outcome.8007.c:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]に脅迫されることなどない！"
+ befriend_outcome.8007.c:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]に恐喝されることなどない！"
  befriend_outcome.8008.t:0 "親善: 聖職者の不一致"
  befriend_outcome.8008.desc:0 "残念ながら、[target.GetTitledFirstName]は、私が[target.GetHerHis]の信頼を得ようとしていることは、[ROOT.Char.GetFaith.HighGodNameAlternate]の目において、私の罪の赦しを得るための策略に過ぎないと考えているようだ。\n\n私の友情の申し出を断るだけでは足りないとでも言うかのように、[target.GetTitledFirstNameNoTooltip]は、[owner.GetPrimaryTitle.GetName]の人々に説教するとき、私の名前を出して中傷し始めた！"
  befriend_outcome.8008.a:0 "もういい！諦めよう！"

@@ -40,7 +40,7 @@
  vassal_interaction.0012.a:0 "忠誠心への報酬はいつでも待てば来るものだ。"
  vassal_interaction.0013.desc:0 "[attacker.GetTitledFirstName]との戦争を放棄すれば私は多くのものを失うでしょう。将来の補償を約束してくれるなら譲歩することも可能ですが。"
  vassal_interaction.0014.desc:0 "降伏はあまりにも大きな代償を伴います。しかし、あなたが私に損失を補償してくれるのなら、私はあなたの要求通りにすることができるでしょう。"
- vassal_interaction.0015.desc:0 "降伏すれば、私はあまりにも多くのものを失うだろう。私は逆らう気はないが,[attacker.GetTitledFirstName]に手を縛られている。"
+ vassal_interaction.0015.desc:0 "降伏すれば、私はあまりにも多くのものを失ってしまいます。私に二心はございませんが、[attacker.GetTitledFirstName]がそうさせるのです。"
  vassal_interaction.0016.gold:0 "戦いが終わるまではあなたが失うものを支払いましょう。"
  vassal_interaction.0016.a:0 "少なくともまだ全てを失ったわけではない。"
  vassal_interaction.0016.b:0 "これを使って回復させよう。"

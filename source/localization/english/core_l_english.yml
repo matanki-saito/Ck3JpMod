@@ -676,7 +676,7 @@
  event_troop_default_name:2 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]の軍勢"
  CURRENT_SITUATION_SUGGESTIONS:0 "提案"
  CURRENT_SITUATION_HEADER:0 "現在の状況"
- CHARACTER_INTERACTION_BLACKMAIL_NO_SECRET:0 "脅迫に使える秘密がありません"
+ CHARACTER_INTERACTION_BLACKMAIL_NO_SECRET:0 "恐喝に使える秘密がありません"
  RESET_DISMISSED_BUTTON_TEXT:0 "リセット"
  RESET_DISMISSED_TOOLTIP:1 "#T リセット#!\n非表示にした#EMP $CURRENT_SITUATION_HEADER$#!の項目を元に戻します。\n\n#I クリックでリストを元に戻す#!"
  CHARACTER_INTERACTION_SAME_REALM_AS:0 "あなたの[realm|E]の人物でなければなりません"

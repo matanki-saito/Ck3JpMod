@@ -200,7 +200,7 @@
  murder_outcome.4301.disastrous_lack_of_planning:0 "\n\nもう少し我慢すべきだったかもしれない。暗殺者になるはず一団が、熱心な警護に仕事を阻止されただけでなく、何人かは私の責任を認めてしまった！"
  murder_outcome.4301.disastrous_attempt_1:0 "\n\n暗殺者になるはず一団が、熱心な警護に仕事を阻止されただけでなく、何人かは私の責任を認めてしまった！"
  murder_outcome.4301.a.discovered:0 "[target.GetHerHim]をやせ衰えさせておくのがそんなに良いことだろうか？"
- murder_outcome.4301.a:0 "くそっ！"
+ murder_outcome.4301.a:0 "呪いあれ！"
  murder_outcome.4401.failure_declaration_1:0 "どういうわけか、一体#EMP どういうわけか#!、[target.GetTitledFirstName]はまだ生きている！"
  murder_outcome.4401.failed_attempt_1:0 "暗殺者は[target.GetHerHis]の部屋に侵入したが、[target.GetTitleTierName]の顔にいくら長い時間枕を押し付けても、[target.GetWomanMan]は死ななかった。"
  murder_outcome.4401.disastrous_attempt_1:0 "\n\nすぐに十分な数の警護が到着し、暗殺者は計画だけでなく、私が関与していることまで自白してしまった！"

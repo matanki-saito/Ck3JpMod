@@ -9,7 +9,7 @@
  war_declared_flavor.zealous.fallback:2 "負けることはない、[ROOT.Char.GetFaith.HighGodName]と共にあるのだから！"
  war_declared_flavor.naughty:0 "随分とお行儀の悪い[ROOT.War.GetActiveCB.GetDefender.Custom('GirlBoy')]になってしまったな。このような行為は見過ごせない。覚悟を決めろ！戦場ではお前に相応しい罰を与えてやる！"
  war_declared_flavor.holy_war:1 "貴君の偽りの宗教は、あまりにも長い間、貴君の臣民を暗闇の中に閉じ込めていた。[ROOT.War.GetActiveCB.GetAttacker.GetFaith.HighGodName]の名において、私は彼らに真の信仰をもたらし、貴君の冒涜から解放する！"
- war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]、我は汝の土地を久しく切望していたが、畢竟その所有が認められる事はなかった。もはや堪え難し！我にふさわしいものを手にする時がついに来たのだ！"
+ war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]、我は汝の土地を久しく切望していたが、畢竟その所有が認められる事はなかった。もはや堪え難し！我にふさわしきものを手にする時がついに来たのだ！"
  war_declared_flavor.dejure:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] 私の所有する土地をあなたが占領することはもはや許されない。それらの所有権を取り戻す時が来たのだ！"
  war_declared_flavor.subjugation:0 "おまえの土地を我が領土に組み込む決定をした。受け入れろ、そうすれば慈悲を見せよう…抵抗するのなら、おまえがひざまずいてひれ伏すのを強制するまでだ！"
  war_declared_flavor.subjugation.tribal:0 "おまえは弱く、私は強い。望むものを得るために他の理由は必要ない！"

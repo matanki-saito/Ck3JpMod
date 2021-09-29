@@ -106,7 +106,7 @@
  action_too_many_held_duchies_combined_group_label:1 "多すぎる公爵領"
  action_too_many_held_duchies_label: "$action_too_many_held_duchies_combined_group_label$"
  action_too_many_held_duchies_combined_group_name:0 "$action_too_many_held_duchies_combined_group_label$"
- action_too_many_held_duchies_combined_group_description:2 "あなたは[king|E]または[emperor|E]として二つ以上の[duchies|E]を保有しており、あなたに対する[vassals|E]の[opinion|E]を低くしています。\n\n#help 二つよりも多くの$game_concept_duchies$を持つほど家臣たちは嫉妬します。彼らの不満を無視することができる間に、あなたの$game_concept_duchy$の[titles|E]の一部を与えることを検討してください。\n\n特に[realm_capital|E]のように$game_concept_counties$をたくさん保有している場所に$game_concept_duchies$を持っておくと良いでしょう。#!"
+ action_too_many_held_duchies_combined_group_description:2 "あなたは[king|E]または[emperor|E]として3以上の[duchies|E]を保有しており、あなたに対する[vassals|E]の[opinion|E]を低くしています。\n\n#help 2か所よりも多く（つまり3以上）の$game_concept_duchies$を持つほど家臣たちは嫉妬します。彼らの不満を無視することができる間に、あなたの$game_concept_duchy$の[titles|E]の一部を与えることを検討してください。\n\nとくに[realm_capital|E]のように$game_concept_counties$をたくさん保有している場所に$game_concept_duchies$の称号を持っておくと良いでしょう（$game_concept_duchies$の称号は$game_concept_counties$のそれより上位の称号です）。#!"
  action_too_many_held_duchies:0 "$action_too_many_held_duchies_combined_group_label$"
  action_too_many_held_duchies_combined_label:0 "[landed_title.GetNameNoTooltip]"
  action_too_many_held_duchies_desc:0 "$action_too_many_held_duchies_combined_group_description$"

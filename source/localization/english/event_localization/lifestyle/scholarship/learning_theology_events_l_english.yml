@@ -67,7 +67,7 @@
  learning_theology.3023.a:0 "むべなるかな。"
  learning_theology.3024.opening:0 "[compliment_receiver.Custom2('AppropriateGreeting', ROOT.Char)]"
  learning_theology.3024.desc:0 "空虚なうわべで[ROOT.Char.GetFaith.HighGodName]つかえる[ROOT.Char.GetWomanMan]を装っても私は騙されない。お前の曇った眼で人々の心を見ようとしても裏切られるだけだ！"
- learning_theology.3024.a:0 "ああ、くそっ！"
+ learning_theology.3024.a:0 "畜生め…！"
  learning_theology.3031.t:0 "信仰の違い"
  learning_theology.3031.desc_opening:0 "[county.GetName]の人々は[county.GetProvince.GetCounty.GetFaith.GetNameNoTooltip]に帰依し、[ROOT.Char.GetFaith.HighGodName]へ祈りを捧げることはない。\n\n"
  learning_theology.3031.desc_bishop:0 "[bishop.GetCouncilTitle|U][bishop.GetFirstName]はそれを異教と非難したが、人々は理解を求めていた…"

@@ -24,7 +24,7 @@
  marshal_task.1101.t:0 "よく組織化された兵役"
  marshal_task.1101.desc:0 "慎重な審査と徴募兵の選定により、私の[councillor.GetCouncilTitle]である[councillor.GetTitledFirstName]は、[county.GetName]内の農場が一つも放棄されることのないようにしてくれた。\n\n[councillor.GetSheHe]が保管している記録は、徴税の季節にも非常に便利なものとなるだろう…"
  marshal_task.1101.a:0 "素晴らしい働きだ、[councillor.GetFirstNameNoTooltip]！"
- marshal_task.1101.notification:0 "労役組織化の改良"
+ marshal_task.1101.notification:0 "よく組織化された賦役"
  marshal_task.1102.t:0 "軍事的影響力の増加"
  marshal_task.1102.desc:0 "[councillor.GetTitledFirstNamePossessive]の私の徴募兵を再編成する作業は、[county.GetName]へと移り、軍事的影響力が増している場所では驚異的な効果を発揮している。\n\n山賊たちは根こそぎ排除されており、密輸業者や誘拐者は怖くて活動できていない。"
  marshal_task.1102.a:0 "私の臣民は常に安心していられる。"

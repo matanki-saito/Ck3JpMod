@@ -437,7 +437,7 @@
  trait_beauty_good_male_2:0 "美形"
  trait_beauty_good_female_2:0 "佳麗"
  trait_beauty_good_2_desc:0 "この人物は美しい体形に恵まれている。"
- trait_beauty_good_2_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[ROOT.Char.Custom('FemaleMale')]の美しい体形に恵まれている。"
+ trait_beauty_good_2_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[ROOT.Char.Custom('FemaleMale')]としての美しい体形に恵まれている。"
  trait_beauty_good_3:0 "美人"
  trait_beauty_good_3_desc:0 "心奪われ、魅惑され、そして愛らしい。この人物は、美しく輝いている。"
  trait_beauty_good_3_character_desc:0 "心奪われ、魅惑され、そして愛らしい。[ROOT.GetCharacter.GetFirstNameNoTooltip]は、美しく輝いている。"

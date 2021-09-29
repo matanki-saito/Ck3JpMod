@@ -1,7 +1,7 @@
 ﻿l_english:
  blackmail.0001.t:0 "恐喝は拒否された！"
  blackmail.0001.desc:0 "それが見当違いのプライドなのか、それとももっと大きな報復を恐れているのか、[recipient.GetTitledFirstName]は、私が[recipient.GetHerHim]に対して何の影響力も持たないと主張している！"
- blackmail.0001.a:0 "脅迫が行われ、その結果は一つしかありえない…"
+ blackmail.0001.a:0 "脅しが行われ、その結果は一つしかありえない…"
  blackmail.0001.b:0 "認めたくはないが、この秘密を明かすことはできない。"
  blackmail.1001.t:0 "未知の恐怖"
  blackmail.1001.desc:0 "私の家臣は私の恐喝について何も知らないが、私の犠牲者である[blackmail_target.GetTitledFirstName]が私の周りでどのように振る舞っているかに気づいている。彼らは[blackmail_target.GetHerHis]の目に光る恐怖を見てきた..."

@@ -48,7 +48,7 @@
  feast_main_stable_breakin.9001.t:1 "$feast_header$ 宴の終わり"
  feast_main_stable_breakin.9001.deviant_caught:0 "[host_saying_goodbye.GetTitledFirstNamePossessive]の宴ももう終わりだ。お別れを言うのは寂しいが、[breakin_deviant.GetTitledFirstName]とあの牡牛のカップルと一緒にいなくて済むのは助かる…。"
  feast_main_stable_breakin.9001.in_good_fun:0 "[host_saying_goodbye.GetTitledFirstNamePossessive]の宴は終わった。\n\nお別れを言うのは寂しいが、少なくともこの先数年は、[breakin_stager.GetFirstName]と[breakin_stager.GetHerHis]や、浮かれた酔っ払いどものどんちゃん騒ぎを思い出して笑うことができるだろう。"
- feast_main_stable_breakin.9001.a:0 "また会う時まで！"
+ feast_main_stable_breakin.9001.a:0 "また会う日まで！"
  feast_main_stable_breakin.9002.deviant_caught:0 "いよいよ客人たちを見送る時が来た！\n\n彼らが去るのを見るのは寂しいことだ。[breakin_deviant.GetTitledFirstName]を除いては。\nまあ、私の素晴らしい牡牛を見るたびに思い出すことになるのだろうが。"
  feast_main_stable_breakin.9002.in_good_fun_or_what:0 "客人たちはご機嫌な様子で家路についた！\n\n今回の宴は我々の距離を近づけてくれたし、この先数年は、[breakin_stager.GetFirstName]と[breakin_stager.GetHerHis]の浮かれた酔っ払いどものどんちゃん騒ぎを思い出して笑うことができるだろう。\n\n[breakin_deviant.GetTitledFirstName]は、私の家畜の健康状態について冗談めかしながら褒めてくれた！"
  feast_main_stable_breakin.9002.in_good_fun:0 "客人たちはご機嫌な様子で家路についた！\n\n今回の宴は我々の距離を近づけてくれたし、この先数年は、[breakin_stager.GetFirstName]と[breakin_stager.GetHerHis]の浮かれた酔っ払いどものどんちゃん騒ぎを思い出して笑うことができるだろう。"

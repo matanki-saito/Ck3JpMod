@@ -88,7 +88,7 @@
  yearly.3051.t:0 "権利によって"
  yearly.3051.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]が[county.GetName]では [ROOT.Char.GetTitleAsNameNoTooltip]以外は保護者になれないという曖昧な法律について教えてくれた。\n\n通常ではこのような古臭い法律など却下されるが、この法律に則れば、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal'))]であり[county.GetNameNoTooltip]の現在の領主である[vassal.GetTitledFirstName]の土地を乗っ取る、またとない口実が転がり込んでくることになる。"
  yearly.3051.a:0 "その法律によれば明確に、[ROOT.Char.GetTitleAsNameNoTooltip]が全ての権利を持っているのだ！"
- yearly.3051.b:0 "我が恩寵で[vassal.GetFirstNameNoTooltip]は称号を保持するのは構わない。"
+ yearly.3051.b:0 "我が恩寵で[vassal.GetFirstNameNoTooltip]が称号を保持するのは構わない。"
  yearly.3061.t:0 "カゴへの対処"
  yearly.3061.desc:0 "考えただけでイライラする！[county.GetName]において、カゴたちは普通の人々と並んで 自由に暮らし、悪行により辛うじて敬遠されている程度なのだ！そして、それはすべて聖ヤコブの道に沿って発生している！\n\nもちろん彼らが裸足で歩いたり、橋の欄干に触れたり、[ROOT.Char.GetFaith.PriestNeuter]の手から直接聖体拝領を受けることは許されていないが、我々はそれ以上は#EMP 何も#!していない！\n\nこの耐え難い状況を続けることはできない。もし彼らが何かを企んでいるとしたら！？"
  yearly.3061.a:0 "カゴに重税を課し、奴らを抑えつけておこう！"

@@ -14,7 +14,7 @@
  elevate_mann_and_the_isles_decision_desc:0 "$c_isle_of_man$はノース人の侵入者らにとって安息地の役割を果たし、ブリテン諸島のみならず西ヨーロッパ全てに容易に立ち入ることが出来る類い稀なる場所である。\n\n求められているのは、全ての善良なるヴァイキングに道を示し、その内に秘めたる力を理解させ、そして島を黄金と鉄で埋め尽くす者なのだ！"
  elevate_mann_and_the_isles_decision_tooltip:0 "史上最も悪名高き海賊の支配者となる"
  elevate_mann_and_the_isles_decision_confirm:0 "不名誉と不朽の名声に！"
- hold_gruesome_festival_decision_blot_name:0 "盛大なる血の生贄（ブロート）の宴を開く"
+ hold_gruesome_festival_decision_blot_name:0 "生贄の大祭（ブロート）を開く"
  hold_gruesome_festival_decision_fallback_name:0 "大生贄祭の開催"
  hold_gruesome_festival_decision_desc.gf_humsac_practitioner:0 "全ての[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]が寄り集まり[ROOT.Char.GetFaith.PantheonTerm]に生贄を捧げる時が来た。これらの儀式は忠実なる信徒たちを互いに結びつけるだけでなく、全地の[ROOT.Char.GetTitleAsNameNoTooltip]としての我の立場を確認するものである。"
  hold_gruesome_festival_decision_desc.non_gf_practioner:0 "私の臣民の中には、自分たちの[GetPlayer.GetTitleAsNameNoTooltip]に祝福された盛大な生贄を捧げるものがいる。たとえ一握りの者たちのためでも実行することに同意すれば、まちがいなく彼らの賛成を得られるだろう。しかし、さらに野蛮な慣習を受け入れることは、彼らのやり方を軽蔑する者達が私を軽蔑することになるかもしれない。"

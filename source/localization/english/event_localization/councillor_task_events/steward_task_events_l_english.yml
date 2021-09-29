@@ -56,4 +56,4 @@
  steward_task.3103.t:0 "強化された連隊"
  steward_task.3103.desc:0 "[councillor.GetTitledFirstNamePossessive]が[county.GetNameNoTier]において、[ROOT.Char.GetCulture.GetName]の入植者を取り入れようと努力しているおかげで、奇妙なことが起きている。\n\n地元の人々は自身の領国の一部をより深く理解するようになったようで、領国のために戦う時が来れば、それぞれの村は最高の身体能力を持つ[ROOT.Char.Custom('LevyMenWomen')]を派遣することができる。実際、一部の農民は自ら進んで徴兵に臨んでいる！"
  steward_task.3103.a:0 "今、私はすべてを見てきた。"
- steward_task.3103.notification:0 "[ROOT.Char.GetCulture]の有志の徴募兵"
+ steward_task.3103.notification:0 "[ROOT.Char.GetCulture] の有志の徴募兵"
