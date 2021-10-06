@@ -5,6 +5,6 @@
  EVENT_OPTION_NO_LONGER_AVAILABLE:0 "@warning_icon!#X 利用不可能#!"
  tooltip_open_scheme_view:1 "#I 計画を表示#!"
  EVENT_OPTION_WILL_HAPPEN:0 "#S 発生するだろう\n#!"
- EVENT_OPTION_HAS_HAPPENED:0 "#S 発生した\n#!"
+ EVENT_OPTION_HAS_HAPPENED:0 "#S 発生している\n#!"
  EVENT_NOTHING_HAPPENS:1 "#F 直ちに影響はありません…#!"
  EVENT_OPTION_AI_CHANCE:1 "#Weak AIの重みづけ: $VALUE$#!"

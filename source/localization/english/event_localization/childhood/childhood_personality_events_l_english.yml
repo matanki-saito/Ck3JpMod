@@ -353,7 +353,7 @@
  child_personality.3005.a:0 "あいつらは別に私の上司じゃないぞ!"
  child_personality.3005.message:0 "私の[ROOT.Char.Custom2('RelationToMe',personality_child)]、[personality_child.GetTitledFirstName]は自分が何を欲しているかを正確に知っている!"
  child_personality.3006.desc:0 "[ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ]である[personality_child.GetTitledFirstName]の意見や要望にはきりがない。私が教えようとするのと同じくらいの時間、してほしいことを言ってくるのだ！"
- child_personality.3006.a:0 "手ごわいのか、不愉快なのか—微妙な線上だな。"
+ child_personality.3006.a:0 "手ごわいのか、しゃくに障るのか——微妙なところだな。"
  child_personality.3007.t:0 "がむしゃらに頑張るのではなく、賢く働こう"
  child_personality.3007.desc:0 "「親切にして頑張れ」と私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))]である[guardian.GetFirstName]は私に言い続けている。私は最善を尽くしているが、たまにとても疲れてしまうこともある！欲しいものを手に入れるためには、少し騙して嘘をついた方がより賢いのではないか！？"
  child_personality.3007.a:0 "そして、皆は簡単に騙されてしまう！"

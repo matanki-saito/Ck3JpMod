@@ -15,7 +15,7 @@
  yearly.3001.vassal_gains_strength:0 "[vassal.GetTitledFirstNamePossessiveNoTooltip]の陰謀が強化される"
  yearly.3001.d:0 "#EMP やはり！#![vassal.GetFirstNameNoTooltip]には償ってもらおう！"
  yearly.3002.t:0 "懺悔"
- yearly.3002.desc:0 "[vassal.GetTitledFirstName]は[vassal.GetSheHe]が[neighbor.GetTitledFirstNamePossessive]の手紙を突きつけられると、告白する他はない。\n\n「それは決して…そうじゃない…私はどうすればいいのだ？」[vassal.GetSheHe|U][vassal.Custom('quirk_neg_present')]、[vassal.GetHerHis]の顔には恐怖の二文字が見える。"
+ yearly.3002.desc:0 "[vassal.GetTitledFirstName]は[neighbor.GetTitledFirstNamePossessive]の手紙を突きつけられると、告白するより他なかった。\n\n「それはただの戯れ…戯れでして…我が主よ、覆水は盆に返らぬのでしょうか？」[vassal.GetSheHe|U]は[vassal.Custom('quirk_neg_present')]。[vassal.GetHerHis]の顔には恐怖の二文字が見える。"
  yearly.3002.a:0 "私の言うことを何でもしてくれるのならば許そう。"
  yearly.3002.b:0 "私の寛大さを人々に広めてくれるのなら許そう。"
  yearly.3003.t:0 "侮辱的な告発"

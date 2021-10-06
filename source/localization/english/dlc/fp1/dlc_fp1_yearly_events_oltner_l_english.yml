@@ -42,7 +42,7 @@
  fp1_yearly.2100.c.failure:0 "あなたは間に合わない"
  fp1_yearly.2100.c.tt:0 "あなたは[lover_1.GetFirstName]と[lover_2.GetFirstName]の争いを止めます。"
  fp1_yearly.2200.t:0 "退屈した狂戦士"
- fp1_yearly.2200.desc:0 "「見よ！我は[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('new_berserker'))|U][new_berserker.GetFirstNameNoTooltip]なり——エールのタンカードを持ってこい、[new_berserker.Custom('AttractionWomanManMultiple')]、そして[new_berserker.Custom('FavoriteTreatDemand')]！我が怒りを買いたいのか！？」[new_berserker.GetWomanMan]は集まった人々に向かって叫ぶ。\n\n明らかにこの大柄な戦士は退屈していて、トラブルを起こしたがっているようだ。もしかしたら、[new_berserker.GetHerHis]の怒りは、私の兵士たちの中に加えればもっと有効に使われるかもしれないが？\n\n「私の前に立ちはだかる者はいないのか？臆病者め！喧嘩のためなら何でもしてやるぞ…」"
+ fp1_yearly.2200.desc:0 "「見よ！我は[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('new_berserker'))|U][new_berserker.GetFirstNameNoTooltip]なり——エールの大酒杯（タンカード）を持ってこい、[new_berserker.Custom('AttractionWomanManMultiple')]、そして[new_berserker.Custom('FavoriteTreatDemand')]！我が怒りを買いたいのか！？」[new_berserker.GetWomanMan]は集まった人々に向かって叫ぶ。\n\n明らかにこの大柄な戦士は退屈していて、トラブルを起こしたがっているようだ。もしかしたら、[new_berserker.GetHerHis]の怒りは、私の兵士たちの中に加えればもっと有効に使われるかもしれないが？\n\n「私の前に立ちはだかる者はいないのか？臆病者め！喧嘩のためなら何でもしてやるぞ…」"
  fp1_yearly.2200.a:0 "誰にも臆病者と言わせはしないぞ、この[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('new_berserker'))][new_berserker.Custom('InsultNoun')]め！"
  fp1_yearly.2200.b:0 "我が兵士に加わるなら、[new_berserker.Custom('FavoriteTreatDemand')]をたっぷりとはずんでやるぞ。"
  fp1_yearly.2200.c:0 "もうすぐ襲撃の予定があるのだが、我が[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]として参加しないか？"

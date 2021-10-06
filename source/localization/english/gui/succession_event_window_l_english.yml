@@ -217,7 +217,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_DESC:0 "[CHARACTER.Custom('DeathMessageIntro')][CHARACTER.Custom('DeathMessageReason')][CHARACTER.Custom('DeathMessageOutro')]"
  SUCCESSION_EVENT_WINDOW_HEIR_DESC:0 "[CHARACTER.GetTitledFirstNameNoTooltip]、王位につけり。[CHARACTER.Custom('HeirMessageInterface')]"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_DESC:4 "[CHARACTER.Custom('GameOverMessageInterface')]。[CHARACTER.Custom('GameOverMessageInterfaceDuration')][CHARACTER.Custom('GameOverMessageInterfaceSplendor')]。[CHARACTER.Custom('GameOverMessageNotableAchievements')]"
- SUCCESSION_EVENT_WINDOW_END_DATE_DESC:2 "ゲームの終了日に到達しました。\n\n[SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageInterfaceDuration')][SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageInterfaceSplendor')]。[SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageNotableAchievements')]"
+ SUCCESSION_EVENT_WINDOW_END_DATE_DESC:2 "ゲームは終わりの日を迎えた。\n\n[SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageInterfaceDuration')][SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageInterfaceSplendor')]。[SuccessionEventWindow.GetDeadCharacter.Custom('GameOverMessageNotableAchievements')]"
  SUCCESSION_EVENT_WINDOW_HEADING:1 "あなたは死んだ"
  SUCCESSION_EVENT_WINDOW_HEADING_ALIVE:0 "あなたは退位しました"
  SUCCESSION_EVENT_WINDOW_HEADING_LINEAGE:0 "[SuccessionEventWindow.GetPlayerHeir.GetShortUINameNotMeNoTooltip]の系譜"

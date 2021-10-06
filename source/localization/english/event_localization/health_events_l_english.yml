@@ -66,7 +66,7 @@
  health.1008.partner.a:0 "[infecting_partner.GetFirstNameNoTooltip]…！"
  health.1008.no_partner.a:0 "どうやって？誰が！？"
  health.1013.t:1 "[SCOPE.Custom('EventTitleDisease')]: 梅毒（ユーラシア株）"
- health.1013.desc:0 "ただのちょっとした水ぶくれだと思っていた。我が不運を呪いながらも、これ以上悪化するとは想像だにしていなかった。今ではもう、赤い吹き出物が身体中に広がっている。\n\n次に何が起こるのかは分かっている。炎症、熱、あらゆる痛み、それからやせ衰える。そして最後には——もしそんなに長く生きていたら——気が狂ってしまうだろう。"
+ health.1013.desc:0 "ただのちょっとした水ぶくれだと思っていた。我が不運を呪いながらも、これ以上悪化するとは想像だにしていなかった。今ではもう、赤い吹き出物が身体中に広がっている。\n\n次に何が起こるのかは分かっている。炎症、熱、あらゆる痛み、それからやせ衰えるのだ。そして最後には——もしそんなに長く生きていたらの話だが——気が狂ってしまうだろう。"
  health.1013.court_physician.desc:0 "\n\n「我が [ROOT.Char.GetLadyLord]。容態は…芳しくないようでございます。手を尽くしてみます」"
  health.1013.partner.a:0 "私を呪っておるな、[infecting_partner.GetFirstNameNoTooltip]よ。"
  health.1013.no_partner.a:0 "私は呪われている。本当に完全に呪われている。"

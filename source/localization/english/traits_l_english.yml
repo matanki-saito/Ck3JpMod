@@ -175,7 +175,7 @@
  trait_gluttonous:0 "大食"
  trait_gluttonous_desc:0 "この人物はほどほど、とやらを馬鹿にしている。求めるものは#EMP すべて#!なのだ。"
  trait_gluttonous_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]はほどほど、とやらを認めない。[ROOT.GetCharacter.GetSheHe]は#EMP すべて#!欲しいのだ。"
- trait_generous:0 "寛大"
+ trait_generous:0 "太っ腹"
  trait_generous_desc:0 "博愛と慈善に満ちた行いは、この人物にとっては当たり前なことだ。"
  trait_generous_character_desc:0 "博愛と慈善に満ちた行いは、[ROOT.GetCharacter.GetFirstNameNoTooltip]にとっては当たり前なことだ。"
  trait_greedy:0 "強欲"

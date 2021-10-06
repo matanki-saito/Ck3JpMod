@@ -2,7 +2,7 @@
  submit_to_the_great_khan_decision:0 "大ハーンに服従する"
  submit_to_the_great_khan_decision_confirm:0 "忠誠を誓う"
  submit_to_the_great_khan_decision_opening_desc:0 "今こそモンゴル人が本当の世界の支配者であることを認める時だ。奴らと戦うのではなく、仲間となろう。"
- submit_to_the_great_khan_decision_tooltip:0 "あなたはモンゴル・カガンの封臣となり、モンゴル帝国に加入します。"
+ submit_to_the_great_khan_decision_tooltip:0 "モンゴル・カガンの封臣となり、モンゴル帝国に加わります"
  submit_to_the_great_khan_effect_tooltip:0 "[mongol_emperor.GetTitledFirstName]の封臣となる"
  mongol_invasion.1001.title:0 "ハーンが死去！"
  mongol_invasion.1001.generic.desc:0 "[ROOT.Char.GetFaith.HighGodName]様、感謝します！新しい支配者[new_khan.GetTitledFirstName]は確かに即位したが、[old_khan.GetFirstName]ほど恐ろしい奴ではないだろう。\n\n"

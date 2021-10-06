@@ -1,6 +1,6 @@
 ﻿l_english:
  martial_authority.1031.t:0 "傭兵のための慈悲"
- martial_authority.1031.desc:0 "旅館の喧騒、美味しいリンゴ酒、訓練の長い一日の後の穏やかな夜…傭兵の一撃で私の手からジョッキが叩き落され、安らぎの望みは全てリンゴ酒と一緒に床に流れていった。\n\n「お願いします、[ROOT.Char.GetLadyLord]」宿屋の主人が懇願する。「凶悪犯[scoped_mercenary.GetFirstNamePossessive]は何日も金を払わずに私の酒を飲み干しているんです！おまけに喧嘩をするので従業員もお客さんも怖がっているんです！」"
+ martial_authority.1031.desc:0 "旅館の喧騒、美味しいリンゴ酒、訓練の長い一日の後の穏やかな夜…傭兵の一撃で私の手から大酒杯（タンカード）が叩き落され、安らぎの望みは全てリンゴ酒と一緒に床に流れていった。\n\n「お願いいたします、[ROOT.Char.GetLadyLord]」宿屋の主人が懇願する。「凶悪犯[scoped_mercenary.GetFirstNamePossessive]は何日も金を払わずに私の酒を飲み干しているんです！おまけに喧嘩をするので店の者もお客さまも怖がっているんです！」"
  martial_authority.1031.a:0 "すぐに出ていくのなら飲み代は私が払おう。"
  martial_authority.1031.b:0 "兵士達よ、追い出せ！"
  martial_authority.1031.c:0 "奴らは大事になるには酔い過ぎている、すぐ終わるさ。"
@@ -18,7 +18,7 @@
  martial_authority.2041.desc:0 "立ち上がり演説をする。[ROOT.Char.GetPrimaryTitle.GetName]のために戦っていること、そして敵に対して団結して立ち向かわなければ、多くの敵が我々内部の争いを利用して、我々の土地を奪い、奴らに支配されてしまうだろう。\n\n恥ずかしそうな顔をして[first.GetTitledFirstName]と[second.GetTitledFirstName]は謝罪し、就寝の準備をし始める。"
  martial_authority.2041.a:0 "団結すれば、我々はさらに強くなる。"
  martial_authority.2042.t:0 "乱闘"
- martial_authority.2042.desc:0 "意見の相違を棚上げしてほしいとの願いが皆の耳に届くことはなく、口論はやがて皆が入り乱れての取っ組み合いの様相を呈してきた。\n\n食べ物が飛び飲み物が降り注ぐ中、ジョッキを投げつけ始め、果ては周囲の荷物を放り投げだすものもいた。"
+ martial_authority.2042.desc:0 "意見の相違を棚上げしてほしいとの願いが皆の耳に届くことはなく、口論はやがて皆が入り乱れての取っ組み合いの様相を呈してきた。\n\n食べ物が飛び飲み物が降り注ぐ中、大酒杯（タンカード）を投げつけ始め、果ては周囲の荷物を放り投げだすものもいた。"
  martial_authority.2042.a:0 "参加してみるか！"
  martial_authority.2042.a.success:0 "私がこの乱闘の唯一の勝者として浮上する"
  martial_authority.2042.a.failure:0 "私は乱闘で怪我をした"
