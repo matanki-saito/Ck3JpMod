@@ -1,7 +1,7 @@
 ﻿l_english:
  intrigue_dread_special.1101.t:0 "一芝居打つ"
  intrigue_dread_special.1101.desc:0 "派手な手綱と羽毛に身を包んだ二頭の馬、そして棺桶と人を積んだ馬車。\n\n間もなく、私と私の従者たちは、色とりどりの服を着て活気に満ちた劇団の巡回公演に遭遇した。\n\n「我が[ROOT.Char.GetLadyLord]！」通り過ぎる馬車から一人の初老の[ROOT.Char.Custom('RandomWomanMan')]が声をかけてくる。「あなたの物思いにふける視線が目に入りました。我々のショーに参加しませんか？」"
- intrigue_dread_special.1101.a.a:0 "強欲な農夫を演じよう！"
+ intrigue_dread_special.1101.a.a:0 "強欲な農場夫を演じよう！"
  intrigue_dread_special.1101.a.b:0 "私は年老いた[ROOT.Char.GetWifeHusband]を演じよう！"
  intrigue_dread_special.1101.a.c:0 "狡猾な下僕を演じよう！"
  intrigue_dread_special.1101.a.d:0 "私は若い愛人になりきるつもりだ！"

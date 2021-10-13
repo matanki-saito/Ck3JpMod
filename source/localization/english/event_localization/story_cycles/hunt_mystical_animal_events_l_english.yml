@@ -25,7 +25,7 @@
  hunt_mystical_animal.1007.b:0 "おぉ、このキノコ…うまそうだな。"
  hunt_mystical_animal.1007.b.success:0 "うまい！"
  hunt_mystical_animal.1007.b.failure:0 "うっ、ちょっと気持ちが悪くなってきた…"
- hunt_mystical_animal.1008.desc:0 "日が経つにつれ、私は白い[ROOT.Char.Custom('LocalAnimal')]のことを何も耳にしないため、そわそわし始める。\n\nきっと誰かが見たに違いない？[ROOT.Char.Custom('TerrainType')]を散らかしている農夫はどうなんだ？彼らの支援を訴えるべきかもしれない…"
+ hunt_mystical_animal.1008.desc:0 "日が経つにつれ、私は白い[ROOT.Char.Custom('LocalAnimal')]のことを何も耳にしないため、そわそわし始める。\n\nきっと誰かが見たに違いない？[ROOT.Char.Custom('TerrainType')]に散らばっている農民はどうなんだ？彼らの支援を乞うべきかもしれない…"
  hunt_mystical_animal.1008.a:0 "書状を送れ！"
  hunt_mystical_animal.1008.b:0 "そんなに落ち込まないぞ。"
  hunt_mystical_animal.1008.c:0 "[knight.GetFirstNameNoTooltip]を送り込んでやろう。"

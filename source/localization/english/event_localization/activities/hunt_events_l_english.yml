@@ -168,7 +168,7 @@
  hunt.4012.b:0 "これはただの[ROOT.Char.Custom('LocalAnimal')]だ。違うのを狩ろう。"
  hunt.4013.desc:0 "私は白い[ROOT.Char.Custom('LocalAnimal')]を追って[ROOT.Char.Custom('TerrainType')]へ入っていく。全く不自然な静寂が私たちに重く覆い被さると、唐突な声が私を現実に引き戻した。\n\n「我が[ROOT.Char.GetLadyLord]、ここにおられましたか！」\n\n振り向くと、一行が私に追いついたようだ。見返すと、あの[ROOT.Char.Custom('LocalAnimal')]は消えていた。"
  hunt.4013.a:0 "逃げられたかもしれない…今回は。"
- hunt.4013.a_modifier:0 "[activity_place.GetNameNoTier]の地元住民が動揺する"
+ hunt.4013.a_modifier:0 "[activity_place.GetNameNoTier]の領民が動揺する"
  hunt.4013.b:1 "私が…私が先に探していたんだ。うん。"
  hunt.4014.t:1 "$hunt_header$ 負傷"
  hunt.4014.desc:0 "[ROOT.Char.Custom('TerrainType')]を弾みながら通り抜けて、私は[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]を何時間も追いかけてきた。\n\nちょうど私が攻撃の準備をしていると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hunt_participant'))][hunt_participant.GetTitledFirstName]が痛みに泣き叫ぶのが聞こえた - [hunt_participant.GetSheHe]は倒れて[hunt_participant.GetHerHis]の足を掴んでいる。"

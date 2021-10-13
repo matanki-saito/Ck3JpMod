@@ -203,7 +203,7 @@
  attacker_river_crossing_modifier:0 "渡河"
  major_river_crossing_modifier:0 "大河渡河"
  attacker_major_river_crossing_modifier:0 "大河渡河"
- high_ground_modifier:0 "高台"
+ high_ground_modifier:0 "高地"
  rousing_speech_modifier:0 "力強い演説"
  sleeping_camp_modifier:0 "キャンプで眠る"
  MODIFIER_NAME_AND_DESC:0 "$NAME$\n $DESC$"

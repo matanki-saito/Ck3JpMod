@@ -177,7 +177,7 @@
  child_personality.102.compassionate_change:0 "子供ではないのだ。哀れな者に望みの水を持っていきなさい。"
  child_personality.102.callous_change:0 "奴に唾を吐け。奴を叩け。それ以上の価値などない。"
  child_personality.103.desc:0 "客である[robbed_guest.GetTitledFirstName]の旅行鞄から盗みを働こうとしていた[child.GetTitledFirstName]を捕まえた時は衝撃を受けた。"
- child_personality.103.deceitful:0 "\n別の子供が作ったゲームのせいにしていたが、[child.GetSheHe]が嘘をついていることはわかった。"
+ child_personality.103.deceitful:0 "\n別の子供が考えた遊びのせいにしていたが、[child.GetSheHe]が嘘をついていることはわかった。"
  child_personality.103.honest:0 "\n[child.GetSheHe|U]は逃げ切れると思っていたことを告白したが、今はそれが間違いだったと痛感している。"
  child_personality.103.humble:0 "\n[child.GetSheHe|U]は、[child.GetSheHe]がなぜ[child.GetSheHe]のやったことが間違っていたのかを今になって理解しているのか、印象に残る会話をしてくれた。"
  child_personality.1031.t:0 "嘘の代償"

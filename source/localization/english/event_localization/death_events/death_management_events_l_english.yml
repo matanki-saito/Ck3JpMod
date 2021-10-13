@@ -38,7 +38,7 @@
  death_management.1007.a:0 "一つの物語が終わり、新たな物語が始まる。"
  death_management.1007.a.tt:1 "あなたの後継者、 [dead_character.GetTitledFirstName]は[THIS.Char.Custom('DiedHouse_arrest')]。"
  death_management.1006.t:0 "呪いが解けた"
- death_management.1006.desc:0 "運命の紆余曲折は、いつも自分に有利になるとは限らない。[ROOT.Char.GetFaith.HighGodName]がお知りのように[dead_character.GetTitledFirstName]に会った日に私は呪われたのだ。だが、今日その呪いが解けた！運命は私に微笑みかけ、[dead_character.Custom('InsultAdjective')][dead_character.Custom('InsultNoun')]を墓場まで連れてきてくれたのだ！"
+ death_management.1006.desc:0 "運命の紆余曲折は、いつも自分に有利になるとは限らない。[ROOT.Char.GetFaith.HighGodName]がお知りのように[dead_character.GetTitledFirstName]に会った日に私は呪われたのだ。だが、今日その呪いが解けた！運命は私に微笑みかけ、[dead_character.Custom('InsultAdjective')][dead_character.Custom('InsultNoun')]を墓場まで連れていってくれたのだ！"
  death_management.1006.a.tt:1 "あなたのライバル、[dead_character.GetTitledFirstName]は[THIS.Char.Custom('DiedHouse_arrest')]。"
  death_management.parent.desc:2 "あなたの[dead_character.Custom('MotherFather')]、[dead_character.GetTitledFirstName]は[dead_character.GetDeathReason]"
  death_management.sibling.desc:2 "あなたの[dead_character.Custom('SisterBrother')]、[dead_character.GetTitledFirstNameNoTooltip]は[dead_character.GetDeathReason]"

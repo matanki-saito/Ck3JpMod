@@ -21,7 +21,7 @@
  hold_gruesome_festival_decision_tt:0 "あなたは盛大なる[GetPlayer.Custom('GruesomeFestivalName')]を催します。それに関連して、\n#indent_newline:0 $EFFECT_LIST_BULLET$ 饗宴の規模を決めます\n#indent_newline:0 $EFFECT_LIST_BULLET$  [designate_chief_sacrifice_or_who|E]を生贄に選びます\n#indent_newline:0 $EFFECT_LIST_BULLET$ あなたの臣民の[faith|E]の[core_tenets|E]に応じて[county_opinion|E]と[character|E] [opinion|E]が増減します"
  hold_gruesome_festival_decision_tt.piety_gain:0 "#indent_newline:0 あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、[piety|E]を獲得します"
  hold_gruesome_festival_decision_tt.piety_lose:0 "#indent_newline:0 #EMP あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、#! [piety|E]を失います"
- hold_gruesome_festival_decision_tooltip:0 "あなたは臣民を神聖で豪奢な儀式に加わるよう招待します"
+ hold_gruesome_festival_decision_tooltip:0 "神聖で豪奢な儀式に臣民を招待します"
  hold_gruesome_festival_decision_confirm:0 "死と新生。"
  raise_stele_decision_name:0 "ルーン石碑を建立する"
  raise_stele_decision_desc:0 "[GetPlayer.GetCulture.GetNameNoTooltip]の間では、重要な出来事を記念して、彫刻を施した石碑を建てる習慣がある。愛する人の死、紛争の解決、土地の獲得などなど。もしかしたら私はかかる石碑の恩恵を受けられるかもしれない…"

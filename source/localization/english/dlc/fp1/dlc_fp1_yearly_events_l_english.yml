@@ -65,7 +65,7 @@
  fp1_yearly.0041.b:0 "この…[explorer.GetFaith.HighGodName]についてもっと教えてくれないか？"
  fp1_yearly.0041.c:0 "#EMP 我が#!宮廷に横柄な外国人の居場所などない。"
  fp1_yearly.0051.t:0 "不穏な死"
- fp1_yearly.0051.desc:1 "数日前の[draugr.GetTitledFirstNamePossessive]の死は[capital_county.GetNameNoTier]の庶民たちの注目を集めないわけにはいかなかった。[draugr.GetSheHe]がどのような人物であったにせよ、[draugr.GetFirstNameNoTooltip]は地元の農民たちには不人気で、土地のあらゆる病気がその[draugr.Custom('WomanManPossessive')]の歩き回る死体のせいにされるのは当たり前になっている。\n\nまだ一週間も経っていないにもかかわらず、首都から手の届く距離にいるあらゆる農夫、木こり、汲取り人たちが、[draugr.GetFirstNamePossessiveNoTooltip]のドラウグについて不満を述べているようだ。\n\n#EMP 何とか#!しなければならない。"
+ fp1_yearly.0051.desc:1 "数日前の[draugr.GetTitledFirstNamePossessive]の死は[capital_county.GetNameNoTier]の庶民たちの注目を集めないわけにはいかなかった。[draugr.GetSheHe]がどのような人物であったにせよ、[draugr.GetFirstNameNoTooltip]は地元の農民たちには不人気で、土地のあらゆる病気がその[draugr.Custom('WomanManPossessive')]の歩き回る死体のせいにされるのは当たり前になっている。\n\nまだ一週間も経っていないにもかかわらず、首都から手の届く距離にいるあらゆる農民、木こり、汲取り人たちが、[draugr.GetFirstNamePossessiveNoTooltip]のドラウグ（死霊）についての不平を口にしているようだ。\n\n#EMP 何とか#!しなければならない。"
  fp1_yearly.0051.a:0 "私が[draugr.GetHerHis]の墓を直接訪問しよう。"
  fp1_yearly.0051.a.tt:0 "あなたは実物を調査することにします…"
  fp1_yearly.0051.b:0 "遺体を掘り起こして燃やしてしまえばいい。"

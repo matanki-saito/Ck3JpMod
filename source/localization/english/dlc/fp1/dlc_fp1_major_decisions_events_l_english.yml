@@ -33,7 +33,7 @@
  fp1_major_decisions.0022.a:0 "我々がこれから作る金のことだけを考えよう！"
  fp1_major_decisions.0022.b:0 "#EMP [founder.GetTitleAsNameNoTooltip]#!だと？[founder.GetSheHe|U]は泥棒男爵よりも酷い！"
  fp1_major_decisions.0023.t:0 "$fp1_major_decisions.0021.t$"
- fp1_major_decisions.0023.desc:0 "イギリス諸島の最も貧しい農民でさえ、海の災難、非道な[founder.GetFirstName]の名と、[founder.GetHerHis]の夢である略奪者の海賊の王国への承認を勝ち取るための、[founder.GetHerHis]の生涯にわたる探求について耳にしたことがある。\n\nそれは小貴族から農奴まで同じように恐怖を感じる伝説だが、最近は神話と歴史の境目が曖昧になってきているようだ。\n\n今日、#EMP [founder.GetTitleAsNameNoTooltip]#![founder.GetFirstNameNoTooltip]は、[founder.GetHerHis]のライフワークを完了したことを発表した。\n\nブリタニアはその中に新たな王国を数えることになったが、それは見るからに恐ろしいものだ。"
+ fp1_major_decisions.0023.desc:0 "ブリテン諸島の最も貧しい農民でさえ、海の災難、非道な[founder.GetFirstName]の名と、[founder.GetHerHis]の夢である略奪者の海賊の王国への承認を勝ち取るための、[founder.GetHerHis]の生涯にわたる探求について耳にしたことがある。\n\nそれは小貴族から農奴まで同じように恐怖を感じる伝説だが、最近は神話と歴史の境目が曖昧になってきているようだ。\n\n今日、#EMP [founder.GetTitleAsNameNoTooltip]#![founder.GetFirstNameNoTooltip]は、[founder.GetHerHis]の畢生の大業を完了したことを発表した。\n\nブリタニアはその中に新たな王国を数えることになったが、それは見るからに恐ろしいものだ。"
  fp1_major_decisions.0023.a:0 "[founder.GetSheHe|U]には#EMP 我々#!を襲撃する気はない、そうだな？"
  fp1_major_decisions.0023.b:0 "盗人の[founder.GetTitleAsNameNoTooltip]にすぎない！"
  fp1_major_decisions.0031.t:0 "ヨムスヴァイキングの鍛錬"
