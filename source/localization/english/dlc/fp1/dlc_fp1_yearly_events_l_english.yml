@@ -197,7 +197,7 @@
  fp1_yearly.0101.a.tt_failure:0 "[riddler.GetFirstNameNoTooltip]はあなたを出し抜く"
  fp1_yearly.0101.a.every_courtier_and_guest:0 "すべての[courtier|E]と[guest|E]"
  fp1_yearly.0101.b:0 "なぞなぞの本は何冊か読んだことがあるような気がするが…"
- fp1_yearly.0101.c:0 "スタート：ノータリンだったせいでこれから地下牢にぶち込まれるのはだーれだ？"
+ fp1_yearly.0101.c:0 "スタート: ノータリンだったせいでこれから地下牢にぶち込まれるのはだーれだ？"
  fp1_yearly.0101.c.tt:0 "あなたの過剰反応を人々は覚えているかもしれません…"
  fp1_yearly.0101.c.tt_nickname:0 "廷臣たちが陰で囁きます…"
  fp1_yearly.0101.d:0 "ありがたいが、私は[ROOT.Char.GetTitleAsNameNoTooltip]で、やるべきことがあるのだ。"

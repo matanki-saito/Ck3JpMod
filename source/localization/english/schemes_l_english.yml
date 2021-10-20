@@ -100,7 +100,7 @@
  claim_throne_action:0 "玉座を請求"
  claim_throne_successful_roll_tt:1 "[target_title.GetName]に対する[pressed_claim|E]を得ます"
  claim_throne_interaction_desc:0 "[recipient.GetPrimaryTitle.GetNameNoTier]の[claim_the_throne|E]ことを試みる"
- claim_throne_success_discovery_tt:0 "\n成功または失敗に関係なく："
+ claim_throne_success_discovery_tt:0 "\n成功または失敗に関係なく:"
  claim_throne_become_discovered_roll_tt:1 "捏造が露見した！"
  fabricate_hook:0 "捏造によるフック #weak (計画)#!"
  fabricate_hook_desc:0 "何もないところから[hook|E]を作るために、卑劣な手を使う。"

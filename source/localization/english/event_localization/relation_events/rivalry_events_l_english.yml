@@ -6,7 +6,7 @@
  rivalry.0002.t:0 "和解"
  rivalry.0002.desc:0 "今、時間的展望と共に、すべてが奇妙なものに思える。私が抱えていた憎しみと、私が必死で引き起こそうと望んでいた痛みは... \nすべては何のためだったのか？\n\n[rival_response.GetTitledFirstName]を敵と呼ぶことは、もはや私にとっては意味がない。"
  rivalry.0002.a:0 "過去は水に流そう。"
- rivalry.0003.t:0 "無価値な敵"
+ rivalry.0003.t:0 "無価値な対抗者"
  rivalry.0003.imprisoned.desc:0 "[nemesis.GetTitledFirstNamePossessive]の投獄の知らせが私に届いた時、"
  rivalry.0003.incapable.desc:0 "[nemesis.GetTitledFirstNamePossessive]の事故、そしてよだれを垂らして寝たきりの状態になっているという知らせを最初に聞いた時、"
  rivalry.0003.my_prisoner.desc:0 "[nemesis.GetTitledFirstNamePossessive]の卑屈な顔の前で独房の扉をピシャリと閉めたとき、"

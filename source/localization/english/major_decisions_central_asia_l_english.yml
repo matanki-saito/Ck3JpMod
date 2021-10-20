@@ -3,7 +3,7 @@
  become_greatest_of_khans_decision_desc:0 "#F 我らの広大な領域から向こう端の小さな集落までの全ての部族長を召集する準備ができている。彼らは私がハンの中のハン、つまりこの空の下にいる全ての者の主であることを宣言するだろう。\nここからだ、我らの征服は。 #!"
  become_greatest_of_khans_decision_tooltip:0 "モンゴル帝国を建国し、世界の支配者であるチンギス・ハンになります"
  become_greatest_of_khans_decision_confirm:0 "大クリルタイを開催する"
- become_greatest_of_khans_decision_gain_mongol_empire:1 "あなたの領域内は[mongol_empire|E]になりました"
+ become_greatest_of_khans_decision_gain_mongol_empire:1 "あなたの領国は[mongol_empire|E]になりました"
  become_greatest_of_khans_decision_enable_mongol_invasion_cb:1 "[mongol_invasion_casus_belli|E]にアクセスできるようになります"
  GREATEST_OF_KHANS_TITLE_REQUIREMENT:1 "[king|E]または[emperor|E]でなければならない"
  establish_bactrian_supremacy_decision:0 "バクトリアの支配権を打ち立てる"

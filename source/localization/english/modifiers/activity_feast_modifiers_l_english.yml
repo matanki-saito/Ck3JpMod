@@ -1,7 +1,7 @@
 ﻿l_english:
  feast_strategy_discussions_modifier:0 "戦略の論議"
  feast_strategy_discussions_modifier_desc:1 "経験豊富な指揮官と戦略について話し合うのが、この人物にとって実り多いことだと証明された。"
- feast_cavalry_insight_modifier:0 "騎兵の洞察力"
+ feast_cavalry_insight_modifier:0 "騎兵への造詣"
  feast_cavalry_insight_modifier_desc:1 "理論的戦略の構想を練ることで、この人物に騎兵をより効率的に使用する方法についてのアイデアを与えた。"
  feast_heavy_infantry_insight_modifier:0 "重歩兵への造詣"
  feast_heavy_infantry_insight_modifier_desc:1 "理論的戦略の構想を練ることで、重歩兵をより効率的に使用する方法についてのアイデアが得られた。"
@@ -44,7 +44,7 @@
  feast_good_food_modifier:0 "手の込んだ晩餐"
  feast_good_food_modifier_desc:0 "上質なものを食べることは、心にとっても精神にとっても良いことだ！"
  feast_household_efforts_modifier:0 "宮中の奮闘"
- feast_household_efforts_modifier_desc:1 "この人物の宮中の長は、客と宮廷の関係を取り持つために、輝かしい仕事をしている。"
+ feast_household_efforts_modifier_desc:1 "この人物の宮中の長は、客人と宮廷の関係を取り持つために、輝かしい仕事をしている。"
  feast_raucous_entertainment_modifier:0 "騒々しい余興"
  feast_raucous_entertainment_modifier_desc:0 "良き笑いは寿命を延ばす、あなたが笑い物にならない限りは。"
  feast_suspicious_of_food_modifier:0 "鵜の目鷹の目の食事"

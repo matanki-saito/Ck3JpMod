@@ -3,7 +3,7 @@
  held_hunt_modifier_desc:0 "この人物は最近狩りの準備をし、指定の日付まで再びやらないかもしれません。"
  hunt_punished_locals_modifier:0 "罰せられた密猟者"
  hunt_punished_locals_modifier_desc:0 "この領内の人々は森の密猟者達の為に補償する重荷に耐えています。"
- hunt_poacher_training_modifier:0 "密猟の訓練"
+ hunt_poacher_training_modifier:0 "密猟者からの訓練"
  hunt_poacher_training_modifier_desc:0 "この人物は密猟者から狩りの訓練を受けている。"
  hunt_upset_hunting_county_modifier:0 "森林独占に怒れる民衆"
  hunt_upset_hunting_county_modifier_desc:0 "この領内は、一握りの密猟者達の行動に対する扱いに興奮しています。"
