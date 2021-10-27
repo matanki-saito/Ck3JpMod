@@ -50,7 +50,7 @@
  debug_change_council_task_interaction:0 "評議会任務を変更"
  debug_trigger_localization_testing_interaction:0 "トリガーローカライゼーションをテスト"
  debug_start_era_of_crusades_interaction:0 "十字軍イベントを起こす"
- debug_start_era_of_jihads_interaction:0 "イスラム聖戦イベントを起こす"
+ debug_start_era_of_jihads_interaction:0 "ジハードの時代を引き起こす"
  debug_launch_natural_crusade_interaction:0 "史実の十字軍の開始"
  debug_murder_scheme_message:0 "暗殺計画が開始された"
  debug_abduct_scheme_message:0 "誘拐計画が開始された"

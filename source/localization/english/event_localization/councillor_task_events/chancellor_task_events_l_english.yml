@@ -1,6 +1,6 @@
 ﻿l_english:
  chancellor_task.1001.t:0 "新たな請求者"
- chancellor_task.1001.desc:0 "かつて見た事がない阿呆の中の阿呆だ…\n\n隣国との関係を改善するとかいう[councillor.GetCouncilTitle]、[councillor.GetTitledFirstNamePossessive]の馬鹿げた試みで、我が能なし[councillor.GetCouncilTitle]が[target_county.GetName]への[neighboring_ruler.GetTitledFirstNamePossessive]の請求権を公式に認めてしまったのだ！"
+ chancellor_task.1001.desc:0 "かつて見た事がない阿呆の中の阿呆だ……\n\n隣国との関係を改善するとかいう[councillor.GetCouncilTitle]、[councillor.GetTitledFirstNamePossessive]の馬鹿げた試みで、我が能なし[councillor.GetCouncilTitle]が[target_county.GetName]への[neighboring_ruler.GetTitledFirstNamePossessive]の請求権を公式に認めてしまったのだ！"
  chancellor_task.1001.a:0 "我が友を増やせとは言うたが、これでは敵が増えるだけだ！"
  chancellor_task.1002.t:0 "平和の終わり"
  chancellor_task.1002.desc:0 "[councillor.GetTitledFirstNamePossessive]の、評判を改善しようとする試みの中で、無能な[councillor.GetCouncilTitle]は昔の[target.GetName]との約束の一部を#EMP 無効化する#!ことに同意してしまった！\n\n[target.GetTitleTierName]の見解では、[target.GetSheHe]は望むがままに私に対して宣戦できるそうだ。"

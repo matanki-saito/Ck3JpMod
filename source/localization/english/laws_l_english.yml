@@ -32,7 +32,7 @@
  I_LACK_LAW_ALLOWING_DESIGNATE_HEIR:0 "あなたは絶対的な[crown_authority|E]を持っていません"
  MY_DYNASTY_MEMBER_LEADS_THE_ELECTION:1 "あなたの[dynasty|E]の一員（[CHARACTER.GetPrimaryTitle.GetHeir.GetShortUIName|V]）があなたの[primary_title|E]の選挙を主導しています"
  I_HAVE_POWERFUL_VASSAL_WITH_NEGATIVE_OPINION:2 "あなたに対して否定的な評価をしている[powerful_vassals|E]がおり、すべての[succession_law|E]の変更を阻害しています。"
- designate_heir:0 "継承者として指名する"
+ designate_heir:0 "後継者として指名する"
  CROWN_AUTHORITY_IS_ON_COOLDOWN:1 "あなたは最近王権を増加させました。再び増加できるのは[GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'crown_authority_cooldown') )]以降です"
  TRIBAL_AUTHORITY_IS_ON_COOLDOWN:1 "あなたは最近部族権限を増加させました。再び増加できるのは[GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'tribal_authority_cooldown') )]以降です"
  tribal_authority:0 "[tribal_authority|E]"

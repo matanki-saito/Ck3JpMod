@@ -920,7 +920,7 @@
  end_war_attacker_white_peace_defender_desc:0 "\nあなたの無意味な戦争で多くの血が流れていないか？我々のどちらも戦い続けることで何も得られるものは無い。和平を結ぼう。"
  end_war_attacker_defeat_attacker_desc:0 "\nなぜ貴公のように戦いにおいて手ごわい相手を敵に回そうという考えに至ったのか自分でも分からない。悲しいが過去は変えられず変えられるのは未来だけだ。\n\n私は降伏する——この争いを終わらせよう。"
  end_war_attacker_defeat_defender_desc:0 "\n私を打ち負かせると思っていたのかもしれないが、私は貴殿が間違っていることを証明した。問題を必要以上に混乱させてはならない——降伏せよ、そしてこの戦争を終わらせよう。"
- designate_heir_interaction:0 "後継ぎとして指名"
+ designate_heir_interaction:0 "後継者として指名"
  designate_heir_interaction_desc:1 "[recipient.GetShortUINameNoTooltip]をあなたの[designated_heir|E]として選択します"
  designate_heir_interaction_notification:0 "指定後継者"
  join_war_interaction:0 "参戦を提案"

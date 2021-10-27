@@ -8,7 +8,7 @@
  yearly_persian.1002.every_friend_and_neighboring_ruler:0 "すべての[friend|E]と近隣の[ruler|E]"
  yearly_persian.1002.every_spouse_and_close_family_member:0 "すべての[spouse|E]と[close_family_member|E]"
  yearly_persian.1101.t:0 "シュウービーヤ"
- yearly_persian.1101.desc.arabic:0 "イスラム教の普及と共にアラビア文化もアラビア半島から広がってきている。"
+ yearly_persian.1101.desc.arabic:0 "イスラームの拡大と共にアラビア文化もアラビア半島から外部へ広がってきている。"
  yearly_persian.1101.desc.seljuk:0 "セルジューク朝の偉大な征服以来、我々の歴史と文化は新しい臣民たちの間で広がっている。"
  yearly_persian.1101.desc.ending:0 "\n\n多くの部族や文化が私たちの[ROOT.Char.GetCulture.GetName]言語や伝統を取り入れる中で、イラン高原に住むペルシア人はこの広がりに猛烈に抵抗してきた。\n\n偉大なアケメネス朝とササン朝の帝国の遺産から独自の文化的伝統を引き出した彼らは、自分たちの祖先を非常に誇りに感じており、外国の支配に直面してもなお、彼らの歴史を守りたいと考えている。"
  yearly_persian.1101.every_county:0 "すべての[persian.GetName]の伯爵領"

@@ -7,7 +7,7 @@
  health.0002.t:1 "$health_wounded_title$ 治癒"
  health.0002.desc:0 "怪我は徐々に良くなり、絶え間ない痛みに苛まれることはなくなった。未だ万全ではないものの、一月前には出来なかったことの多くが出来るようになった。"
  health.0002.a:0 "完治が待ち遠しい。"
- health.0003.t:1 "$health_wounded_title$ 瀕死"
+ health.0003.t:1 "$health_wounded_title$ 死線の彷徨"
  health.0003.desc:0 "最悪な事態だ。ぽっかりとあいた傷口と骨折は、ともに私の体をゆっくりと蝕んだ。"
  health.0003.a:0 "私はこれを乗り切るかもしれない。"
  health.0004.t:1 "$health_wounded_title$ 熱病明け"

@@ -52,6 +52,6 @@
  greeting_supplimentary.positive.flattery.3:0 "貴君に平安がありますように。"
  greeting_supplimentary.positive.flattery.4:0 "あなたに安らぎと平和のあらんことを。"
  greeting_supplimentary.positive.flattery.5:0 "貴君の冷酷さが妬ましい。"
- greeting_supplimentary.positive.flattery.6:0 "貴君のすさまじい食欲は世界中で有名である。"
+ greeting_supplimentary.positive.flattery.6:0 "貴君の貪欲は世界中に知られるところである。"
  greeting_appropriate_positive_fallback:0 "[ROOT.Char.Custom2('GreetingToGenericPositive', second)]"
  greeting_appropriate_negative_fallback:0 "[ROOT.Char.Custom2('GreetingToGenericNegative', second)]"

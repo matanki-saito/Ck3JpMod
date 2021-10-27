@@ -35,7 +35,7 @@
  religious_interaction.5.outro:0 "教会が大いに懸念する条件となり、私は[actor.GetHerHis]の要求により[actor.GetName]に対し、[target.GetName]の請求権を与えました。"
  religious_interaction.5.a:0 "これは滑稽だ！"
  religious_interaction.1001.t.fatwa:0 "ファトワー発行！"
- religious_interaction.1001.t:0 "法律上の非難！"
+ religious_interaction.1001.t:0 "法による糾弾！"
  religious_interaction.1001.desc:1 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actor'))]、[actor.GetTitledFirstName]は、[actor.GetHerHis]の[actor.GetFaith.PriestNeuterPlural]が書いた手紙の中で、私を罪人として非難している！\n\nこれは私が[recipient.GetFaith.GetAdjective]の土地を支配する資格がないと主張する法的根拠とすることができるだろう。"
  religious_interaction.1001.a:0 "もし、[actor.GetSheHe]が私の主君じゃなかったら…"
  religious_interaction.1001.a.revoke_tt:0 "[actor.GetTitledFirstName]は私の称号の一つを[revoke|E]できる"

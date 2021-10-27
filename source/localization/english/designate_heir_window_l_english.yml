@@ -1,6 +1,6 @@
 ﻿l_english:
  DESIGNATE_HEIR_CHOOSE:0 "#I あなたの子供の一人を[designated_heir|E]として選ぶ #!"
- DESIGNATE_HEIR_ENACT:0 "跡継ぎの指名"
+ DESIGNATE_HEIR_ENACT:0 "後継者の指名"
  DESIGNATE_HEIR_WINDOW_DESIGNATED_HEIR:0 "@warning_icon!　現在指名されている後継者である"
  DESIGNATE_HEIR_COST_DESC:0 "コスト: @prestige_icon! $COST$"
  DESIGNATE_HEIR_SELECT_TARGET:0 "@warning_icon! #X 後継者が選択されていない#!"
