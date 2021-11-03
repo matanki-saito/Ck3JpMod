@@ -312,7 +312,7 @@
  game_concept_spouse:0 "配偶者"
  game_concept_spouses:0 "配偶者"
  game_concept_spouse_desc:1 "$game_concept_spouse$は人物の夫もしくは妻で、[marriage|E]した場合に生じます。\n\n正当な子孫や[heirs|E]を持つためには、あなたは配偶者か[concubine|E]（[bastards|E]も正当な子孫として認めることはできますが）を持つべきです。\n\n結婚、もしくは[betrothal|E]は[alliance|E]関係を作り出す唯一の方法で、これはあなた自身もしくは近しい関係の人物が関わる必要があります。\n\n（主な）配偶者は[council|E]の一員でもあり、多くの有用な[councillor_tasks|E]を果たしてくれます。\n\n[faith|E]の[doctrines|E]はどれくらいの$game_concept_spouses$を持てるか定め、[divorced|E]の条件についても定めています。"
- game_concept_primary_spouse:0 "主要な配偶者"
+ game_concept_primary_spouse:0 "第一配偶者"
  game_concept_primary_spouse_desc:0 "[GetFaithDoctrine('doctrine_polygamy').GetBaseName]を定めている[faiths|E]では、[rulers|E]は[spouses|E]のうち一人を$game_concept_primary_spouse$として定めなければなりません。支配者の$game_concept_primary_spouse$は[fertility|E]と[opinion|E]が増加し、[council|E]に席を持つことができます。"
  game_concept_available_spouse:0 "利用可能な配偶者"
  game_concept_available_spouse_desc:0 "[spouse|E]が支配者の[council|E]で働くためには、自身が責任を持ってその役割を果たせる状態になければなりません。\n\n$game_concept_spouse$がこのような責任を果たせない状況は多岐にわたり、中でもありがちなものを以下に記します:\n$BULLET_WITH_TAB$自身の[realm|E]を持つ[ruler|E]である\n$BULLET_WITH_TAB$別の支配者の[court|E]にいる\n$BULLET_WITH_TAB$[imprisoned|E]されている。これは国内・国外を問わない\n$BULLET_WITH_TAB$[GetTrait('incapable').GetName(GetPlayer)]の[trait|E]を持っている\n\n一時的に利用不能となっていた配偶者が利用可能となった場合、自動的に評議会で元の仕事に戻ります。\n\n配偶者が自らの領地を持つ支配者であっても、[direct_vassals|E]の場合は主君の評議会で働くことができますが、これに当てはまらない場合は利用可能とは見なされません。"

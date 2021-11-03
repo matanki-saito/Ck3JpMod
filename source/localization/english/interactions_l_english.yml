@@ -351,7 +351,7 @@
  I_MUST_BE_THE_WAR_LEADER:1 "同盟者に参戦要請するには[war_leader|E]である必要があります"
  I_HAVE_ALREADY_CALLED_THEM:1 "すでにあなたのすべての戦争に対し[CHARACTER.GetShortUIName]に参戦要請しています"
  I_CANNOT_CALL_A_VASSAL_AS_ALLY:1 "[vassals|E]を[allies|E]として参戦させることはできません"
- I_CANNOT_CALL_LIEGE_AGAINST_FELLOW_VASSAL:1 "同輩の[vassal|E]に対する戦争に[liege|E]を[ally|E]として呼び出すことはできません"
+ I_CANNOT_CALL_LIEGE_AGAINST_FELLOW_VASSAL:1 "仲間の[vassal|E]に対する戦争に[liege|E]を[ally|E]として呼び出すことはできません"
  I_AM_RECIPIENTS_PLAYER_HEIR:1 "あなたは[TARGET_CHARACTER.GetShortUIName]の[player_heir|E]です"
  IS_PLAYER_HEIR_OF_ACTOR:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetTitledFirstNamePossessiveOrMy]の[player_heir|E]です"
  THEY_CAN_EDUCATE:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]を教育できます"

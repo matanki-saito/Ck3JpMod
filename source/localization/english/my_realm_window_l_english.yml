@@ -129,6 +129,6 @@
  VASSAL_OPINION_DOMAIN_OVERRUN:0 "[domain_limit|E]超過"
  VASSAL_OPINION_DUCHIES_OVERRUN:0 "[duchies|E]が多すぎる"
  MY_REALM_WINDOW_VASSAL_OPINION:0 "封臣の評価: [MyRealmWindow.GetVassalOpinion|=+]"
- MY_REALM_WINDOW_VASSAL_OPINION_TT:0 "#T 封臣の[opinion|E]: [MyRealmWindow.GetVassalOpinion|=+]\n#!あなたの[vassals|E]全員に影響を与える評価の合計です。低い場合、多くの[factions|E]があなたと対立していると考えられます！\n\n#S ソース#!\n[MyRealmWindow.GetVassalOpinionBreakdown]"
+ MY_REALM_WINDOW_VASSAL_OPINION_TT:0 "#T 封臣の[opinion|E]: [MyRealmWindow.GetVassalOpinion|=+]\n#!あなたの[vassals|E]全員に影響を与える評価の合計です。低い場合、多くの[factions|E]があなたと対立していると考えられます！\n\n#S 評価のソース#!\n[MyRealmWindow.GetVassalOpinionBreakdown]"
  MY_REALM_WINDOW_NO_FEUDAL_CONTRACT_TT:0 "#T 個人的な法的義務はない\n#![feudal|E]の[vassals|E]([barons|E]を除く)だけが個人的な[obligations|E]を持つことができます"
  MY_REALM_WINDOW_ABSOLUTE_COUNTY_CONTROL:0 "[control|E]: $ABSOLUTE_COUNTY_CONTROL$"

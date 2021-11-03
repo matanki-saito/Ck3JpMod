@@ -1,9 +1,9 @@
 ﻿l_english:
  CHANGE_GHW_TARGET_TIMEOUT:0 "@warning_icon!#X 戦争が始まって$VALUE$日未満のため目標を変更できません#!"
  CHANGE_GHW_TARGET_WRONG_HOSTILITY:0 "@warning_icon!#X 我々は[TARGET_CHARACTER.GetNamePossessive]の宗派を敵対的と見なしていません#!"
- CHANGE_GHW_TARGET_SAME_CHARACTER:0 "@warning_icon!#X 選ばれたキャラクターはすでにこの大聖戦の対象となっています。#!"
+ CHANGE_GHW_TARGET_SAME_CHARACTER:0 "@warning_icon!#X 選ばれた人物はすでにこの大聖戦の対象となっています。#!"
  CHANGE_GHW_TARGET_HEADER:1 "戦争目標を変更する"
- CHANGE_GHW_TARGET:0 "@warning_icon!#X 新しいターゲットを選択してください#!"
+ CHANGE_GHW_TARGET:0 "@warning_icon!#X 新しい目標を選択してください#!"
  CHANGE_GHW_TARGET_CONFIRM:1 "戦争目標を変更する"
  CHANGE_GHW_TARGET_COST_TOOLTIP:1 "#T 切り換えコスト\n#!目標が切り換えられるたびにコストは増加します\n[ChangeGHWTargetWindow.GetCostTooltip]"
  CHANGE_GHW_TARGET_DEFENDERS:0 "防衛側"

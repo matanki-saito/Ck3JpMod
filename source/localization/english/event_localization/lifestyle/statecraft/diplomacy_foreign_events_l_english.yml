@@ -152,7 +152,7 @@
  diplomacy_foreign_special.1030.a_bad_guest:0 "[foreign_guest.GetSheHe|U]は私を利用したと思っているが、私は[foreign_guest.GetSheHe]が何をしたかわかっている。"
  diplomacy_foreign_special.1030.a_extroverted:0 "[foreign_guest.GetSheHe]が早くまた来てくれますように！"
  diplomacy_foreign_special.1030.a_introverted:0 "やっと平和と静けさが戻ってきた。"
- diplomacy_foreign_special.1030.a:0 "あなたの旅が迅速かつ安全でありますように！"
+ diplomacy_foreign_special.1030.a:0 "あなたの旅が滞りなく安全でありますように！"
  diplomacy_foreign_special.1031.t:1 "$diplomacy_foreign_special.1017.t$: 早い出発"
  diplomacy_foreign_special.1031.desc:0 "朝日が昇った頃に、[foreign_guest.GetTitledFirstNamePossessive]の使用人が大きな箪笥を運んでいるのに気がついた。私はその[dummy_servant_gender.GetWomanMan]の後を追って中庭に行くと、客人が[foreign_guest.GetHerHis]の馬車に積み込みを命じているのを見つけた。\n\n[foreign_guest.GetFirstName]は、私が[foreign_guest.GetHerHim]に挨拶をするとびっくりして、手紙や急ぎの用事について曖昧な言い訳して出発した。私は気まずい思いをしたものの、彼の無事を祈り、自分の部屋に急いで戻った。"
  diplomacy_foreign_special.1031.a:0 "想像していた通りにはいかないものだ…"

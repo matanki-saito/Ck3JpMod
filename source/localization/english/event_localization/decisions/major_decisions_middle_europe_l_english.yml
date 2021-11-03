@@ -19,7 +19,7 @@
  middle_europe_decisions.0006.a:0 "[scoped_ruler.GetSheHe]はとんでもない奴だ！"
  middle_europe_decisions.0006.b:0 "この帝国は長続きするのだろうか？"
  middle_europe_decisions.0007.t:0 "一ヶ国のブルグント"
- middle_europe_decisions.0007.desc:0 "ブルグントの全ての土地が一つの王冠の下に統一された。もはや戦乱の領域の間で分裂することなく、我々の古代の土地は、王国の威厳を取り戻した。\n\n私に対する[former_liege.GetTitledFirstNamePossessive]の権威が衰え始めてからしばらく経ち、もはや主君より同輩とみなしている存在には忠誠心を感じなくなっている。"
+ middle_europe_decisions.0007.desc:0 "ブルグントの全ての土地が一つの王冠の下に統一された。もはや狭く相争う領国の間で分裂することなく、我らの古来の土地は、王国の威厳を取り戻した。\n\n[former_liege.GetTitledFirstNamePossessive]の権威にかげりが見え始めてからしばらく経ち、私はもはや主君というより同輩とみなしている存在には忠誠心を感じなくなっている。"
  middle_europe_decisions.0007.a:0 "われらは誰の庇護もいらない！"
  middle_europe_decisions.0008.desc.liege:0 "私は以前から[scoped_ruler.GetTitledFirstNamePossessive]のブルグントの地を一つの旗の下に統合しようとする試みを懸念していたが、いま最悪の懸念が現実にとなった。\n\n恩知らずの野良犬は、ブルグント[scoped_ruler.GetTitleTierName]を宣言し、[scoped_ruler.GetHerHis]の臣従の誓いを破った。"
  middle_europe_decisions.0008.desc.others:0 "ブルグントの統一に数年を費やしたのち、[scoped_ruler.GetFirstName]自身が、ブルグント[scoped_ruler.GetTitleTierName]を戴冠し、[former_liege.GetTitledFirstName]からの独立を宣言することを決めた。\n\nこの厚かましい反逆行為はしばらく忘れられそうにない..."

@@ -387,7 +387,7 @@
  MOD_IGNORE_DIFFERENT_FAITH_OPINION:0 "異なる[faith|E]の評価を無視"
  MOD_RELIGIOUS_VASSAL_OPINION:0 "宗教的[vassal|E]の評価"
  MOD_DIRECT_VASSAL_OPINION:0 "[direct_vassal|E]の評価"
- MOD_FELLOW_VASSAL_OPINION:0 "同輩の[vassal|E]の評価"
+ MOD_FELLOW_VASSAL_OPINION:0 "仲間の[vassal|E]からの評価"
  theocracy_government_opinion_same_faith:0 "同じ宗派の[theocratic|E]指導者の評価"
  theocracy_government_opinion:0 "[theocratic|E]指導者の評価"
  republic_government_opinion:0 "[republican|E]統治者の評価"

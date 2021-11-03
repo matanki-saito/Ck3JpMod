@@ -303,4 +303,4 @@
  yearly.1090.b:0 "多ければ多いほど良い！"
  yearly.1090.c:0 "お前のような者の居場所はない。"
  yearly.1090.travelers_family:0 "[traveler.GetShortUIName|U]と[traveler.GetHerHis]の家族:"
- yearly_1090_add_courtier_effect.tt:0 "あなたの[courtier|E]になります"
+ yearly_1090_add_courtier_effect.tt:0 "あなたの[courtier|E]となります"

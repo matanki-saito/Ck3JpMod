@@ -58,7 +58,7 @@
  death_fight:0 "戦いの中で死亡した"
  death_battle:0 "戦いで討ち取られた"
  death_battle_killer:0 "[TARGET_CHARACTER.GetUIName]との戦いで討ち取られた"
- death_head_ripped_off:0 "首を刎ねられ死亡した"
+ death_head_ripped_off:0 "首をはねられ死亡した"
  death_head_ripped_off_killer:0 "[TARGET_CHARACTER.GetUIName]に首を刎ねられ死亡した"
  death_horse_riding_accident:0 "乗馬中の事故で死亡した"
  death_training_accident:0 "訓練中の事故で死亡した"

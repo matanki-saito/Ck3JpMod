@@ -279,7 +279,7 @@
  bully:1 "[bully|E]"
  victim:1 "[victim|E]"
  crush:1 "[crush|E]"
- oaf:0 "#D 愚か者 (不可視)#!"
+ oaf:0 "#D 侠客 (秘密)#!"
  soldier_friend:0 "#D 戦友 (不可視)#!"
  FRAME_RELATION_ME:1 "#T あなた#!"
  FRAME_RELATION_MY_HEIR:2 "#T [player_heir|E]#!"

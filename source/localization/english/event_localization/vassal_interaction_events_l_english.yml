@@ -46,7 +46,7 @@
  vassal_interaction.0016.b:0 "これを使って回復させよう。"
  vassal_interaction.you_owe_me:0 "私の言う通りにしろ！"
  vassal_interaction.war_ender_gives_up:1 "[recipient.GetShortUIName|U]は[actor.GetShortUINamePossessive]の命令により戦争を放棄しました"
- vassal_interaction.0022.desc:0 "私はあなたの同輩の封臣である[recipient.GetName]に対し、[recipient.GetHerHis]の独立を許可したことをお知らせします。"
+ vassal_interaction.0022.desc:0 "我は汝の仲間の封臣である[recipient.GetName]に対し、その独立を許可したことをここに告知する。"
  vassal_interaction.0022.a:0 "結構だ。"
  vassal_interaction.0023.desc:0 "私はあなたの家臣である[recipient.GetName]に対し、[recipient.GetHerHis]の独立を許可したことをお知らせします。"
  vassal_interaction.0023.a:0 "結構だ。"

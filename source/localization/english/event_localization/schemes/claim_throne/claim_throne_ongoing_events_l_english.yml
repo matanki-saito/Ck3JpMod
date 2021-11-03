@@ -31,7 +31,7 @@
  claim_throne_ongoing.1008.t:0 "皆を騙す"
  claim_throne_ongoing.1008.desc:1 "[target_title.GetName]への請求権を補強する私の努力については、おそらくいくつかの策略が助けとなるのかもしれない。\n\n終末が近いことを告げる文書が、最近、近隣の領域に出回っている。私は、少しの偽造と忍耐力があれば、[target.GetTitledFirstName]に代わり、私が支配すべきだと宣言する同様の文書を作ることができると確信している。\n\nしかし、このような文書はどのように使えばいいのだろう？"
  claim_throne_ongoing.1008.a:0 "公に展示しよう。"
- claim_throne_ongoing.1008.b:1 "同輩の家臣たちと共有しよう。"
+ claim_throne_ongoing.1008.b:1 "仲間の封臣たちと共有しよう。"
  claim_throne_ongoing.1008.c:0 "そんなことに首を突っ込むな。"
  claim_throne_ongoing.1008.c.tt:0 "あなたは代わりに時間をより賢く使う。"
  claim_throne_ongoing.1009.t:0 "見破られた嘘"
