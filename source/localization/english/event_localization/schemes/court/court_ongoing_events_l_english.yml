@@ -192,7 +192,7 @@
  court_ongoing.1111.a.success:0 "ああ、[owner.GetTitledFirstNameNoTooltip]！なんと勇ましい！"
  court_ongoing.1111.a.duel_failure:0 "哀れな[owner.GetTitledFirstNameNoTooltip]よ！傷の手当てをさせてくれ。"
  court_ongoing.1111.a.poison_failure:0 "[owner.GetTitledFirstNameNoTooltip]はこんな卑劣な手口は決して使わない！"
- court_ongoing.1111.b.poison_success:0 "放っておいてくれ！自分で何とかなる！"
+ court_ongoing.1111.b.poison_success:0 "放っておいてくれ！自分で何とかできる！"
  court_ongoing.1111.b.poison_failure:0 "よくもこんなことができたな、[owner.GetTitledFirstNameNoTooltip]！？"
  court_ongoing.1111.b.duel_success:0 "幼稚な喧嘩など印象に#EMP 残らない#!。"
  court_ongoing.1111.b:0 "嫉妬などあなたには似合わない、[owner.GetTitledFirstNameNoTooltip]。"

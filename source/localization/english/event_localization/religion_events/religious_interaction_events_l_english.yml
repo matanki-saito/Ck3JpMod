@@ -17,7 +17,7 @@
  religious_interaction.3.a:0 "[ROOT.Char.GetFaith.WealthGodName]を讃えよ。税金の払い戻しであるぞ！"
  religious_interaction.3.b:0 "これらの資金が私に勝利をもたらすだろう！"
  religious_interaction.3.c:0 "私はこの資金を賢く使うだろう。"
- religious_interaction.3.d:0 "この金は私の金庫を再び埋めてくれる！"
+ religious_interaction.3.d:0 "この金は金庫に空いた穴を埋めてくれる！"
  religious_interaction.32.desc:0 "私はあなたのご要望を検討した結果、それを却下することにいたしました。"
  religious_interaction.32.a:0 "なんてことだ！"
  religious_interaction.4.desc:0 "私はあなたの要求を熟慮した結果、[target.GetName]へのあなたの請求権を認めることにしました。"

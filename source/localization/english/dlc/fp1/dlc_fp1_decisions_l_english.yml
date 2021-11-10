@@ -22,7 +22,7 @@
  hold_gruesome_festival_decision_tt.piety_gain:0 "#indent_newline:0 あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、[piety|E]を獲得します"
  hold_gruesome_festival_decision_tt.piety_lose:0 "#indent_newline:0 #EMP あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、#! [piety|E]を失います"
  hold_gruesome_festival_decision_tooltip:0 "神聖で豪奢な儀式に臣民を招待します"
- hold_gruesome_festival_decision_confirm:0 "死と新生。"
+ hold_gruesome_festival_decision_confirm:0 "死と新生だ。"
  raise_stele_decision_name:0 "ルーン石碑を建立する"
  raise_stele_decision_desc:0 "[GetPlayer.GetCulture.GetNameNoTooltip]の間では、重要な出来事を記念して、彫刻を施した石碑を建てる習慣がある。愛する人の死、紛争の解決、土地の獲得などなど。もしかしたら私はかかる石碑の恩恵を受けられるかもしれない…"
  raise_stele_decision_tt.effects_list:0 "あなたの[counties|E]の1つは、以下のいずれかの[modifiers|E]を受け取ります。\n#indent_newline:0 $EFFECT_LIST_BULLET$ [GetModifier('fp1_stele_ancestors_strong').GetNameWithTooltip]\n#indent_newline:0 $EFFECT_LIST_BULLET$ [GetModifier('fp1_stele_conquest_strong').GetNameWithTooltip]\n#indent_newline:0 $EFFECT_LIST_BULLET$ [GetModifier('fp1_stele_promotion_strong').GetNameWithTooltip]"

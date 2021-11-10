@@ -9,7 +9,7 @@
  councillor_spouse_martial.0008.message:0 "威圧的な存在"
  councillor_spouse_martial.0009.message:0 "戦闘訓練"
  councillor_spouse_martial.1001.t:1 "配偶者: 競技会の日"
- councillor_spouse_martial.1001.desc:2 "輝く太陽の下、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]による競技会に農民たちが集まっている。 [councillor.GetTitledFirstName]が名誉を讃える競技会の公表を行った時、すべての$knight_culture_player_plural_no_tooltip_lowercase$が歓声をあげたが、今回に関しては私はただ座って見ていなければならないらしい。\n\nだが、私はただ王座に座ったままこの競技の日を過ごすつもりはない！"
+ councillor_spouse_martial.1001.desc:2 "輝く太陽の下、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]が主催する競技会に農民たちが集まっている。 [councillor.GetTitledFirstName]が名誉を讃える競技会の公表を行った時、すべての$knight_culture_player_plural_no_tooltip_lowercase$が歓声をあげたが、今回に関しては私はただ座って見ていなければならないらしい。\n\nだが、私はただ王座に座ったままこの競技の日を過ごすつもりはない！"
  councillor_spouse_martial.1001.a:2 "私も$knight_culture_player_plural_no_tooltip_lowercase$たちを応援するぞ！"
  councillor_spouse_martial.1001.commanders:2 "すべての$knight_culture_player_no_tooltip_lowercase$"
  councillor_spouse_martial.1001.b:0 "これは[child.GetFirstNameNoTooltip]になんらかの特性を与える絶好の機会だ！"
