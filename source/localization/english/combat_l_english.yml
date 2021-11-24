@@ -2,7 +2,7 @@
  COMBAT_NAME:1 "[PROVINCE.GetNameNoTooltip]の戦い"
  TOTAL_DEAD_AND_INITIAL_MEN:0 "$DEAD$"
  TOTAL_DEAD_AND_INITIAL_MEN_TOOLTIP:0 "死傷者: $DEAD|V$\n初期[soldiers|E]数: $INITIAL|V$"
- TOTAL_INITIAL_MEN:0 "当初の[soldiers|E]"
+ TOTAL_INITIAL_MEN:0 "初期[soldiers|E]数"
  TOTAL_MEN_ALIVE:0 "[soldiers|E]が生存"
  TOTAL_MEN_DEAD:0 "死傷者"
  COMBAT_BALANCE_ATTACKER_WINNING:0 "現在は攻撃側が優勢"

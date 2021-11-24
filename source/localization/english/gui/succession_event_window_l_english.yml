@@ -61,7 +61,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_FORNICATOR:0 "恥知らずな姦通者であった[ROOT.Char.GetSheHe]は、その制御不能で陰湿な欲望であるがゆえに人々に記憶されるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_MURDERER:0 "殺人者として知られる[ROOT.Char.GetSheHe]は、その来世で筆舌に尽くしがたいほどの罪を償うことになるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_SCANDAL_WITCH:0 "魔法のハーブを調合し[ROOT.Char.GetFaith.DevilName]と交わることで知られる[ROOT.Char.GetSheHe]は、その罪ゆえに来世では必ず焼かれることになるだろう。"
- SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_ACCOMPLISHMENT_SAOSHYANT:0 "ペルシャ帝国の神聖なる復興者であり、[ROOT.Char.GetHerHis]の栄光への歩みは、あまねく[ROOT.Char.GetFaith.PriestMalePlural]の説教の中で不朽の伝説となるだろう。間違いなく[ROOT.Char.GetSheHe]は今、[ROOT.Char.GetFaith.HighGodName]の隣に座っている。"
+ SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_ACCOMPLISHMENT_SAOSHYANT:0 "ペルシア帝国の神聖なる復興者であり、[ROOT.Char.GetHerHis]の栄光への歩みは、あまねく[ROOT.Char.GetFaith.PriestMalePlural]の説教の中で不朽の伝説となるだろう。間違いなく[ROOT.Char.GetSheHe]は今、[ROOT.Char.GetFaith.HighGodName]の隣に座っている。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_ACCOMPLISHMENT_RESTORER_ROME:0 "古の強大なる帝国を復興せる[ROOT.Char.GetSheHe]、その名はこの世ある限り栄光の名の下にあらん。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_ACCOMPLISHMENT_CRUSADER:0 "熱狂的な[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、近年の歴史の中で最も偉大な聖戦の一つで、[ROOT.Char.GetFaith.HighGodName]の栄光のために異教徒と戦った。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_DIPLOMAT:0 "根っからの外交官であり、[ROOT.Char.GetSheHe]が平和的に解決できない議論はなかった。"

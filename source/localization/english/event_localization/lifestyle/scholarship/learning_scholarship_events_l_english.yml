@@ -15,7 +15,7 @@
  learning_scholarship.1201.c.success:0 "[bird_sender.GetTitledFirstNameNoTooltip]は学識ある[bird_sender.GetWomanMan]だ。"
  learning_scholarship.1201.c.failure:0 "[bird_sender.GetTitledFirstNameNoTooltip]は侮辱された。"
  learning_scholarship.1401.t:0 "ガラスの石"
- learning_scholarship.1401.desc:0 "目の前のスクロールの文字を読み取るのに苦労しているうちに、また頭痛がしてきた。 なぜ書記官はこう小さな文字を書くのだろうか？！\n\n目を細めてもう一度見てみる。\n\n「...奇跡に他ならない。 ガラスの石の助けを借りれば、視力の悪い老いた[ROOT.Char.GetWomenMen]でも楽に読めるようになった。」"
+ learning_scholarship.1401.desc:0 "目の前の巻物の字を必死に読み取っていると、また頭痛がしてきた。 なぜ書記官はこう小さな文字を書くのだろうか？！\n\n目を細めてもう一度見てみる。\n\n「...奇跡に他ならない。 ガラスの石の助けを借りれば、視力の悪い老いた[ROOT.Char.GetWomenMen]でも楽に読めるようになった。」"
  learning_scholarship.1401.a:1 "この石が必要だ！"
  learning_scholarship.1401.b:0 "読めないものすべてを売り払え。"
  learning_scholarship.1401.c:0 "[bishop.GetTitledFirstNameNoTooltip]、助けが必要だ！"

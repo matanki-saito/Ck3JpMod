@@ -506,7 +506,7 @@
  building_petra_01:0 "$building_type_petra_01$"
  building_petra_01_desc:0 "$building_type_petra_01_desc$"
  building_type_house_of_wisdom_01:0 "知恵の館"
- building_type_house_of_wisdom_01_desc:0 "知恵の館には膨大な数の本が収蔵されており、そこの書記官たちは偉大な文学作品の翻訳を更に進めるべく昼夜を問わず働いている。それらの出典はギリシャ語、ペルシャ語、インド語等さまざまである。まさに世界中の知識の宝庫、人類の知識の輝かしき道標と言えるであろう! 草原の文盲の馬乗りどもには縁遠い場所だ…"
+ building_type_house_of_wisdom_01_desc:0 "知恵の館には膨大な数の本が収蔵されており、そこの書記官たちは偉大な文学作品の翻訳を更に進めるべく昼夜を問わず働いている。それらの出典はギリシャ語、ペルシア語、インド語等さまざまである。まさに世界中の知識の宝庫、人類の知識の輝かしき道標と言えるであろう! 草原の文盲の馬乗りどもには縁遠い場所だ…"
  building_house_of_wisdom_01:0 "$building_type_house_of_wisdom_01$"
  building_house_of_wisdom_01_desc:0 "$building_type_house_of_wisdom_01_desc$"
  building_type_palace_of_aachen_01:1 "$building_palace_of_aachen_01$"
