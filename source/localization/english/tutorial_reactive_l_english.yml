@@ -50,7 +50,7 @@
  action_reactive_advice_imprisoned_desc:0 "誰かが貴方を投獄しました!　これはよくありません…\n投獄されたとき、何が起きて何が出来るのか。いくつかのヒントを得るためにここを開いてください。"
  action_reactive_advice_imprisoned_click:0 "$click_to_open_lesson$"
  reactive_advice_imprisoned_step_1:0 "投獄された!"
- reactive_advice_imprisoned_desc:2 "貴方のキャラクターは囚われの身となり、今やその運命は他の誰かの気分次第です。このことに対する貴方の選択肢は多くはありません。\n\n貴方を[prisoner|E]としているキャラクターへ移動して#TUT_KW '自分の身代金を提供'#!の[interaction|E]を実行しましょう。運が良ければ身代金と引き換えに釈放されます!　運が悪ければ相手は[execute|E]を選択するかもしれませんが。\n\n#TUT 貴方を捕えている者と[war|E]状態にある場合、彼らは貴方に[victory|E]を強制出来ます。このことに関して貴方に出来ることは何もありません。以後気を付けましょう!\n\nもし貴方が[army|E]を[commanding|E]している時に捕縛されたのならば、それは貴方の[prowess_i][prowess|E]が低かった為に引き起こされた可能性があります。このようなリスクを避けるために、自ら軍隊を率いることをしないというのも時に良い選択となるでしょう。\n\n[siege|E]の時に囚われたのでしたら、それは貴方の[realm_capital|E]が[occupied|E]ということです。敵の手が首都に伸びないように努力しましょう!#!"
+ reactive_advice_imprisoned_desc:2 "貴方のキャラクターは囚われの身となり、今やその運命は他の誰かの気分次第です。このことに対する貴方の選択肢は多くはありません。\n\n貴方を[prisoner|E]としているキャラクターへ移動して#TUT_KW '自分の身代金を提供'#!の[interaction|E]を実行しましょう。運が良ければ身代金と引き換えに釈放されます!　運が悪ければ相手は[execute|E]を選択するかもしれませんが。\n\n#TUT 貴方を捕えている者と[war|E]状態にある場合、彼らは貴方に[victory|E]を強制出来ます。このことに関して貴方に出来ることは何もありません。以後気を付けましょう!\n\nもし貴方が[army|E]を[commanding|E]している時に捕縛されたのならば、それは貴方の[prowess_i][prowess|E]が低かった為に引き起こされた可能性があります。このようなリスクを避けるために、自ら軍隊を率いることをしないというのも時に良い選択となるでしょう。\n\n[siege|E]の時に囚われたのでしたら、それは貴方の[realm_capital|E]が[occupied|E]にあるということです。敵の手が首都に伸びないように努力しましょう!#!"
  reactive_advice_county_control:0 "$reactive_advice_county_control_step_1$"
  action_reactive_advice_county_control:0 "$open_tutorial_lesson$$reactive_advice_county_control_step_1$"
  action_reactive_advice_county_control_desc:1 "[county|E]の[control|E]が低下すると、そこから得られるものは少なくなります。\nここを開いて伯爵領の支配についての概要を学びましょう!"
