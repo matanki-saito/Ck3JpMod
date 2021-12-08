@@ -12,7 +12,7 @@
  DECLARE_WAR_INTERACTION_NO_SELECTED_TITLE:0 "@warning_icon!#X [title|E]が選択されていません#!"
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN_WARNING_TOOLTIP:0 "@warning_icon!#X $DECLARE_WAR_NO_CASUS_BELLI_CHOSEN$#!"
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "所持している[strong_hook|E]をあなたの[liege|E]に使う"
- DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:2 "[holy_war|E]: [DEFENDER.GetFaith.GetAdjective]の[rulers|E]らは[war|E]に参加するでしょう"
+ DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:2 "[holy_war|E]: [DEFENDER.GetFaith.GetAdjective]の[rulers|E]たちは[war|E]に参加するでしょう"
  DECLARE_WAR_CHANGE_WAR_GOAL_LABEL:1 "[objectives|E]:"
  DECLARE_WAR_ALLY_MILITARY_STRENGTH_DESC:0 "軍事力: [Character.GetMilitaryStrengthText]"
  DECLARE_WAR_ALLY_HEADER_ATTACKERS:0 "攻撃側"
