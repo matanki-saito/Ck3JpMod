@@ -17,7 +17,7 @@
  playdate.1002.a:0 "もちろん[child_scope.GetSheHe]は出席する。"
  playdate.1002.b:0 "拒否しよう。"
  playdate.2001.t:0 "$playdate_header$ 集い"
- playdate.2001.desc_opening:0 "みんなが集まった！\n\n小さな紳士淑女たちが部屋に案内されると、私は自分がどんどん興奮していくのを感じる。"
+ playdate.2001.desc_opening:0 "みんなが集まった！\n\n小さな紳士淑女たちが部屋に案内されると、私は興奮が高まっていくのを感じる。"
  playdate.2001.desc_guest_of_interest_1_2_3:0 "私は[guest_of_interest_1.Custom2('MyCharacterIntroduction', ROOT.Char)]と[guest_of_interest_2.Custom2('MyCharacterIntroduction', ROOT.Char)]、両方と会えたことに喜んでいる。[guest_of_interest_3.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]は言うまでもない！"
  playdate.2001.desc_guest_of_interest_1_and_2:0 "私は[guest_of_interest_1.Custom2('MyCharacterIntroduction', ROOT.Char)]と[guest_of_interest_2.Custom2('MyCharacterIntroduction', ROOT.Char)]、両方と会えたことに喜んでいる！"
  playdate.2001.desc_guest_of_interest_1:0 "私は[guest_of_interest_1.Custom2('MyCharacterIntroduction', ROOT.Char)]と会えたことに喜んでいる！"

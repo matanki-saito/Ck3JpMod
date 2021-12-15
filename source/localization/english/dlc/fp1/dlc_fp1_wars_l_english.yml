@@ -18,7 +18,7 @@
  fp1_varangian_adventurer_conquest.troops_raised.tt:0 "[capital_barony.GetNameNoTierNoTooltip]に冒険者が集まります"
  FP1_VARANGIAN_ADVENTURER_INDEPENDENCE_TRUCE_NAME:0 "[SCOPE.sC('attacker').GetUINameNotMe|U]が[attacker.GetHerHis]の土地を放棄した後、[SCOPE.sC('truce_loc').GetUINameNotMe|U]は"
  fp1_varangian_adventurer_conquest.summaries.family_transfer:0 "[landed|E][family|E]は征服した余分の[counties|E]を受け取ります"
- fp1_varangian_adventurer_conquest.summaries.old_domains:0 "過去に保有していた[titles|E]は全て破棄されるか、独立を与えられます"
+ fp1_varangian_adventurer_conquest.summaries.old_domains:0 "過去に保有していた[titles|E]は全て破棄されるか独立を与えられます"
  fp1_varangian_adventurer_conquest.summaries.landed_family_old_domains:0 "すべての古い[landed|E]の[family|E]の[titles|E]は破棄されるか独立を与えられます"
  fp1_varangian_adventurer_conquest.summaries.old_vassals:0 "すべての古い[vassals|E]は独立を与えられます"
  FP1_SCANDINAVIAN_ADVENTURER_VASSAL_TRUCE_NAME:0 "[SCOPE.sC('attacker').GetUINameNotMe|U]による侵略の脅しに対する譲歩"

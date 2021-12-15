@@ -8,7 +8,7 @@
  knight_culture_player_plural_possessive_no_tooltip_lowercase:0 "[GetPlayer.Custom( 'KnightCulturePluralPossessiveNoTooltipLowercase' )]"
  knight_culture_player_adjective_no_tooltip_lowercase:0 "[GetPlayer.Custom( 'KnightCultureAdjectiveNoTooltipLowercase' )]"
  knight_default_no_tooltip:0 "騎士"
- knight_default_no_tooltip_plural:0 "ナイト"
+ knight_default_no_tooltip_plural:0 "騎士"
  knight_faris_no_tooltip:0 "ファーリス"
  knight_faris_no_tooltip_plural:0 "ファーリス"
  knight_baghatur_no_tooltip:0 "バートル"

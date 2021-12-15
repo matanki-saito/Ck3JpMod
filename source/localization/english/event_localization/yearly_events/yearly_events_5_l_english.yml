@@ -191,7 +191,7 @@
  yearly.5052.desc.b.b:0 "\n\nとはいうものの、良き[ROOT.Char.GetTitleTierName]は[ROOT.Char.GetHerHis]の[scoped_spouse.GetTitleTierName]の側に立つべきであり、[scoped_spouse.GetFirstName]はこの出来事にすっかり打ちのめされているように見える。"
  yearly.5052.a:0 "[slighting_courtier.GetTitledFirstNameNoTooltip]と話をしよう。"
  yearly.5052.b:0 "この問題は全て忘れた方がいいと思うよ、[scoped_spouse.GetFirstNameNoTooltip]。"
- yearly.5053.desc.a:0 "私の[scoped_spouse.GetWifeHusband]がまたしても宮廷で誰かが[scoped_spouse.GetHerHim]を見下していると文句を言っている。今回は[slighting_courtier.GetTitledFirstName]が[scoped_spouse.GetHerHis]の怒りを買っているようだ。[scoped_spouse.GetSheHe|U]が今、私に何とかして欲しいと言っている。"
+ yearly.5053.desc.a:0 "私の[scoped_spouse.GetWifeHusband]がまたしても宮廷で誰かが[scoped_spouse.GetHerHim]を見下していると文句を言っている。今回は[slighting_courtier.GetTitledFirstName]が[scoped_spouse.GetHerHis]の怒りを買っているようだ。[scoped_spouse.GetSheHe|U]は今、私に何とかして欲しいと言っている。"
  yearly.5053.desc.b:0 "私は、[scoped_spouse.GetWifeHusband]が、[scoped_spouse.GetHerHim]によれば、[scoped_spouse.GetHerHis]の名誉を傷つけた宮廷の一員を処罰してほしいと求めてきたことにもはや少しも驚かない。それは私が[slighting_courtier.GetTitledFirstName]に対する[scoped_spouse.GetFirstName]の苦情の列挙にほとんど注意を向けることもないほど頻繁な出来事となっている。"
  yearly.5053.desc.b.a:0 "\n\nなぜこれほど多くの人が[scoped_spouse.GetHerHim]を悩ませているのか理解できない…"
  yearly.5053.desc.b.b:0 "\n\nより疑い深い[ROOT.Char.GetWifeHusband]なら、[scoped_spouse.GetSheHe]は私の善意を利用して[scoped_spouse.GetSheHe]の 嫌いな人を追い出そうとしているのではないかと疑い始めるかもしれない…"
