@@ -1,5 +1,5 @@
 ﻿l_english:
- martial_good_trait_match_good_outcome:0 "積極的で熱心な子どもであるし、[ROOT.Char.GetFirstName]が戦争や戦いに関する[ROOT.Char.GetHerHis]の学業において優秀であるのは当然のことだ。"
+ martial_good_trait_match_good_outcome:0 "積極的で熱心な子供であるし、[ROOT.Char.GetFirstName]が戦争や戦いに関する[ROOT.Char.GetHerHis]の学業において優秀であるのは当然のことだ。"
  martial_bad_trait_match_good_outcome:0 "控えめに言っても、手に負えない[ROOT.Char.GetFirstName]に、戦場での生活は向いてないような気がした。しかし、[ROOT.Char.GetSheHe]はそんな予想をすべて覆してみせた。"
  martial_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように戦争に関してあまり知らなかった子供でも、本当に理解できるようになる。"
  education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U]は戦闘技術と戦略と軍隊の管理のすべてにおいて優れた適性を示している。[ROOT.Char.GetSheHe|U]はいつか立派な指揮官になると確信している。"
@@ -27,7 +27,7 @@
  stewardship_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように管理に関してあまり知らなかった子供でも、本当に理解できるようになる。"
  stewardship_neutral_trait_match_bad_outcome:0 "長い間[ROOT.Char.GetFirstName]には管理の手法について学ぶための十分な教育を与えたいと望んでいた。だが、全ての努力は無駄となった。"
  intrigue_good_trait_match_good_outcome:0 "常に利口な子供であった[ROOT.Char.GetFirstName]は、[ROOT.Char.GetSheHe]が若干誤った方向に向けて綿密な計画を立てがちな生来の強い傾向を持っていることを、[ROOT.Char.GetHerHis]の学業の過程で幾度となく証明してきた。"
- intrigue_good_trait_match_bad_outcome:0 "子どもの頃に嘘をついた経験がかなりあるにもかかわらず、[ROOT.Char.GetFirstName]はその種の創造性をはっきりとしたやり方で利用するのは難しいと常日ごろ感じていた。"
+ intrigue_good_trait_match_bad_outcome:0 "子供の頃に嘘をついた経験がかなりあるにもかかわらず、[ROOT.Char.GetFirstName]はその種の創造性をはっきりとしたやり方で利用するのは難しいと常日ごろ感じていた。"
  intrigue_bad_trait_match_good_outcome:0 "内向的でしばしば物思いにふける子供であったにもかかわらず、[ROOT.Char.GetFirstName]は人心操作の術に強い好みを示すようになってきた。"
  intrigue_bad_trait_match_bad_outcome:0 "無口で引っ込み思案な子供だった[ROOT.Char.GetFirstName]は、[ROOT.Char.GetHerHis]の意思を貫徹することにあまり興味を示さなかった。"
  intrigue_neutral_trait_match_good_outcome:0 "十分な指導を受ければ、[ROOT.Char.GetFirstName]のように注意深い計画に関してあまり知らなかった子供でも、本当に理解できるようになる。"

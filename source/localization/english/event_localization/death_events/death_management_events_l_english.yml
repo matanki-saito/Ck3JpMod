@@ -12,7 +12,7 @@
  death_management.1001.t:0 "子に先立たれ"
  death_management.1001.murder:0 "[dead_character.GetTitledFirstName]は殺害された！\n\n"
  death_management.1001.tt:1 "あなたの[THIS.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_character'))]、[dead_character.GetTitledFirstName]は[THIS.Char.Custom('DiedHouse_arrest')]。"
- death_management.1001.child:0 "私は一番可愛い我が子に多くの希望を抱いていた。 あの子が学び、経験し、やることすべてに。 その人生にはたくさんの可能性があった。 いつかはその腕に子どもを抱いていたかもしれない。 しかし、そのどれももう実現することはない...。"
+ death_management.1001.child:0 "私は一番可愛い我が子に多くの希望を抱いていた。 あの子が学び、経験し、やることすべてに。 その人生にはたくさんの可能性があった。 いつかはその腕に子供を抱いていたかもしれない。 しかし、そのどれももう実現することはない...。"
  death_management.1001.like:0 "[ROOT.Char.GetFaith.HighGodName]よ、どうして[dead_character.GetFirstName]にこんなことができるのか？私が罪を犯したなら、どうして代わりに私を罰しなかったのか？[dead_character.GetSheHe|U]は何の罪もない、私の完璧な[dead_character.Custom('GetDaughterSon')]だったというのに！[dead_character.GetHerHim]の人生には、もっとたくさんのことが待っていたというのに…"
  death_management.1001.neutral:0 "この世の残酷さに驚くには年を取りすぎていると思っていたが、まさか自分の[dead_character.Custom('GetDaughterSon')]の死を経験することになるとは思いもしなかった。私が耐えなければならない苦しみから[dead_character.GetSheHe]が救われることが唯一の望みだ…"
  death_management.1001.dislike:0 "己の子供を愛するのは[ROOT.Char.Custom('MotherFather')]の義務ではないだろうか？しかし私は[dead_character.GetFirstNamePossessive]の死を嘆くことができない。私がどこかで間違っていたに違いない、[dead_character.GetHerHim]にけして許されざる道を歩ませてしまったのだ。ただ、[dead_character.GetSheHe]がそうなったのは私の責任かもしれないが、もはや過去のことなのだ。結局のところは。"

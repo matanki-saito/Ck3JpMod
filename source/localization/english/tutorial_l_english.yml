@@ -160,7 +160,7 @@
  lesson_basics_arrange_marriage_concept_desc:0 "\n\n#TUT これは貴方の[courtiers|E]同士のお見合いや特定の婚姻による[alliance|E]を設定する際に便利です。#!"
  lesson_basics_choosing_a_spouse:0 "キャラクターフィルター（$lesson_basics_marriage$）"
  lesson_basics_choosing_a_spouse_no_GUI_highlight:0 "$lesson_basics_choosing_a_spouse$"
- lesson_basics_choosing_a_spouse_desc:2 "[spouse|E]を選ぶ際に考慮すべき点が多くあります。 これを手助けするために、候補者の絞り込みに利用できるフィルター機能（ハイライト中）が用意されています。 考慮すべき点には、締結される[alliances|E]や、[skills|E]、性格[traits|E]、期待される[fertility|E]などがあります。\n\nいくつかの特性は[congenital|E]であり、これは子どもたちに遺伝する可能性があることを意味します。 もしかすると、そういった特性を持っている人がいいのではないでしょうか？\n\n#TUT 婚姻の対象として選択した人物の間にある#TUT_KW 白紙に戻す#!ボタンをクリックすることで、現在の選択状況を白紙に戻すことができます。 #TUT_KW 提案を送る#!までは何も起こりません。#!"
+ lesson_basics_choosing_a_spouse_desc:2 "[spouse|E]を選ぶ際に考慮すべき点が多くあります。 これを手助けするために、候補者の絞り込みに利用できるフィルター機能（ハイライト中）が用意されています。 考慮すべき点には、締結される[alliances|E]や、[skills|E]、性格[traits|E]、期待される[fertility|E]などがあります。\n\nいくつかの特性は[congenital|E]であり、これは子供たちに遺伝する可能性があることを意味します。 もしかすると、そういった特性を持っている人がいいのではないでしょうか？\n\n#TUT 婚姻の対象として選択した人物の間にある#TUT_KW 白紙に戻す#!ボタンをクリックすることで、現在の選択状況を白紙に戻すことができます。 #TUT_KW 提案を送る#!までは何も起こりません。#!"
  send_marriage_proposal_button_name:0 "提案を送る"
  lesson_basics_say_yes:0 "提案を送る ($lesson_basics_marriage$)"
  lesson_basics_said_yes:0 "$lesson_basics_say_yes$"

@@ -85,7 +85,7 @@
  sway_sway_success_message:0 "[target.GetShortUINameNoTooltip]を懐柔した"
  sway_sway_failed_message:0 "[target.GetShortUINameNoTooltip]は懐柔されなかった"
  sway_continue:1 "あなたは努力を続けます"
- sway_try_again:1 "別の試みをすることになるでしょう。"
+ sway_try_again:1 "別の試みをすることになるでしょう"
  scheme_interaction_tt_sway_desc:0 "自分の為にも、[recipient.GetShortUINameNoTooltip]の懐柔を試みよう!"
  sway_foreign_target:0 "標的は領国外にいる: $VALUE|=+0$"
  previously_swayed:0 "これまでの懐柔:$VALUE|=+0$"

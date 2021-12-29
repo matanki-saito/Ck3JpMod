@@ -48,7 +48,7 @@
  adultery.0009.desc:0 "[spouse.GetTitledFirstNamePossessive]の涙は言葉では言い表せないほど痛い。[spouse.GetHerHis]の顔をハンカチで隠す[spouse.GetSheHe]の姿に、私は絶句した。\n\n「私…私たちは永遠だと思っていた」 [spouse.GetSheHe]が嗚咽の合間にささやく。「私たちは約束した。#EMP あなたも#!約束したのに、[ROOT.Char.GetFirstNameNoTooltip]——それでもあなたは他の人とベッドを共にした。もう二度とあなたを信じられない。おしまいです。」"
  adultery.0009.a:0 "私は何と愚かなことを…"
  adultery.1001.t:0 "忠節への疑問"
- adultery.1001.opening:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]のお腹の中には子供がおり、本来私は大喜びするべき状況だ。しかし、[mother.GetSheHe]が挙動不審なので、何かおかしいという気持ちが拭えない。 \n\n"
+ adultery.1001.opening:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]のお腹の中には子供がおり、本来は大喜びするべき状況だ。しかし、[mother.GetSheHe]の挙動不審な様子を見ると、私は何かおかしいという気持ちを拭えない。 \n\n"
  adultery.1001.default:0 "[mother.GetSheHe]が言うとおり、私が本当に父親なのか、それとも[mother.GetSheHe]が私たちの結婚を裏切ったのか？"
  adultery.1001.hard_to_believe:0 "[mother.GetSheHe]がこのように私を裏切るとは信じ難いが、私が父親ではないという事もあり得るのだろうか？"
  adultery.1001.easy_to_believe:0 "[mother.GetSheHe]が私を裏切る可能性は非常に高そうだし、[mother.GetHerHis]の子供の父親は私ではないのだろう。"

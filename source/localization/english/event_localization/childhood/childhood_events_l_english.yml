@@ -119,7 +119,7 @@
  childhood.1007.opening:0 "[bully.GetTitledFirstName]は面倒な奴だ！\n\n"
  childhood.1007.young_malicious:0 "大好きな[ROOT.Char.Custom('child_favorite_toy')]と遊んでいた時、[bully.GetSheHe]が部屋に押し入ってきて、私の手から[ROOT.Char.Custom('child_favorite_toy')]を引ったくった。"
  childhood.1007.young_extroverted:0 "[bully.GetSheHe|U]はいつも他の子たちに私について嘘を吹きこんで、私が好かれないようにしている。"
- childhood.1007.young_dominant:0 "他の子どもたちと庭で遊んでいたら、突然[bully.GetSheHe]がやってきて、みんなに「一緒に遊ぶな」と命令してきた。"
+ childhood.1007.young_dominant:0 "他の子供たちと庭で遊んでいたら、突然[bully.GetSheHe]がやってきて、みんなに「一緒に遊ぶな」と命令してきた。"
  childhood.1007.young_emotional:0 "ちょうど廊下で[bully.GetHerHim]とすれ違ったとき、突然、[bully.GetSheHe]は私が[bully.GetHerHim]を叩いたと言って大声で泣き始めた 。"
  childhood.1007.malicious:0 "庭園を歩いていたら、突然、[bully.GetSheHe]が緑の中から出てきて、私を泥の中に押し倒した。[bully.GetSheHe|U]は終始笑っていた。"
  childhood.1007.dominant:0 "[bully.GetSheHe|U]はどうやら他の子供たちに 私を避けるように命じたようだ。私が近くにいると、みんな静かになる。 [bully.GetHerHis]のせいだと分かっているし、他の子供たちは何の意味も含んでいない事だと分かっているのだが、それでも心が痛む。"
