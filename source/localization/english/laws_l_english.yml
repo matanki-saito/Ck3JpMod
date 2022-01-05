@@ -39,7 +39,7 @@
  tribal_authority_0:0 "異なる部族"
  tribal_authority_0_effects_not_in_prev:1 "$EFFECT_LIST_BULLET$[characters|E]を[imprisoned|E]することは#N できない#!\n\n#weak 臣下は[levies|E]と[taxes|E]を提供するが、それ以外は自由にふるまうことができる。#!"
  tribal_authority_1:0 "制限された部族権限"
- tribal_authority_1_effects:0 "$EFFECT_LIST_BULLET$[characters|E]は[imprisoned|E]できる\n$EFFECT_LIST_BULLET$$game_concept_tribal$以外の[Concept('liege','主君')|E]を持つ[tribal|E]支配者は、[feudal|E]または[clan|E]になる可能性があります"
+ tribal_authority_1_effects:0 "$EFFECT_LIST_BULLET$[characters|E]の[imprisoned|E]が可能になります\n$EFFECT_LIST_BULLET$[tribal|E]の封臣は、政体が$game_concept_tribal$ではない[Concept('liege','主君')|E]に仕えている場合、同じ政体（[feudal|E]または[clan|E]）への移行が許可されます"
  tribal_authority_2:0 "高い部族権限"
  tribal_authority_2_effects:0 "$EFFECT_LIST_BULLET$[titles|E]の剥奪が可能\n$EFFECT_LIST_BULLET$[vassals|E]の引き抜きが可能"
  tribal_authority_3:0 "絶対的な部族権限"

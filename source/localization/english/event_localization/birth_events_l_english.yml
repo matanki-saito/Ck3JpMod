@@ -110,7 +110,7 @@
  birth.2104.desc.twin:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))][real_father.GetTitledFirstName]は[mother.GetTitledFirstName]との間に子供をもうけた。いま、[mother.GetFirstName]は私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))]の子供に乳を与えている。"
  birth.2104.a:0 "これをどうすればいいんだろう？"
  every_child_adult_non_bastard:0 "私生児を除くすべての成人した子供"
- birth.3001.t:0 "死産"
+ birth.3001.t:0 "難産、そして"
  birth.3001.desc_other_child:0 "「あと少しです、我が主！もう少しで産まれます！」最後のひと押しのとき、叫びが漏れた。体中が痛い。耐えきれないほどだ。そして、終わった。産んだのだ。\n\n「[dummy_gender.GetSheHe]はどうだ？」声を出すものやっとだ。「[dummy_gender.GetSheHe]は…[dummy_gender.Custom('GirlBoy')]か？」\n\n助産師は答えなかった。こちらを見ようともしなかった。いや、腕に抱いた動かない赤子を見ていた。"
  birth.3001.a:1 "[dummy_gender.GetSheHe]が息をしていない？！#EMP 息をしろ！ #!"
  birth.3001.a.tt:1 "[dummy_gender.Custom('DaughterSon')]は死産だった。"

@@ -334,7 +334,7 @@
  fp1_yearly.0591.c:0 "善良な[county_a.GetNameNoTierNoTooltip]の[dummy_gender.GetWomenMen]が#EMP [county_b.GetNameNoTierNoTooltip]#!との厄介事を片付けようと言うのか？"
  fp1_yearly.0591.d:0 "そのうち、みんな疲れてしまうだろう。"
  fp1_yearly.0601.t:0 "統治の最も困難な部分"
- fp1_yearly.0601.desc:0 "民会は、その性質上、#EMP 非常に#!退屈なものになりがちだ。\n\n感情が高ぶらず、劇的な展開になることがなければ、身分の低い自由な[dummy_gender.GetWomenMen]たちが些末なことを話し合ったり、雨の中で注目を浴びたりするだけのことだ。だが、私は[ROOT.Char.GetTitleAsNameNoTooltip]として、ここにいることを求められている。\n\nまるで毎秒毎秒老いていくかのようだ。\n\n[county.GetNameNoTier]の[dummy_gender.GetWomenMen]が終わりまで話し合っているのを眺める。\n\nこの生き地獄から救ってくれる戦争を望む。"
+ fp1_yearly.0601.desc:0 "民会は、その性質上、#EMP 非常に#!退屈になりがちだ。\n\n感情が高ぶらず、劇的な展開でもなければ、身分の低い自由な[dummy_gender.GetWomenMen]たちが些事を話し合ったり、雨の中で注目を浴びたりするだけのことだ。だが、私は[ROOT.Char.GetTitleAsNameNoTooltip]として、ここにいることを求められている。\n\nまるで毎秒毎秒老いていくかのようだ。\n\n[county.GetNameNoTier]の[dummy_gender.GetWomenMen]が終わりまで話し合っているのを眺める。\n\nこの生き地獄から救ってくれる戦争を望む。"
  fp1_yearly.0601.a:0 "起きていなければ。"
  fp1_yearly.0601.a.tt_success:0 "強い気持ちで平静を保つ"
  fp1_yearly.0601.a.tt_failure:0 "あなたはすぐに腰掛けから滑り落ちてしまう"

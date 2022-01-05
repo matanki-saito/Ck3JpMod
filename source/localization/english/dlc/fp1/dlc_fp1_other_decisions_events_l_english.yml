@@ -1,6 +1,6 @@
 ﻿l_english:
  fp1_other_decisions.0001.t:0 "壮大な[blotter.Custom('GruesomeFestivalName')|U]"
- fp1_other_decisions.0001.desc:0 "小規模な[blotter.Custom('GruesomeFestivalNamePlural')]は一年を通して様々な機会に開催されるが、10年に一度、[blotter.GetPrimaryTitle.GetNameNoTierNoTooltip]の[gf_faith.GetAdherentNamePlural]が壮大なお祝いと、最も重要な壮大な#EMP 生贄#!のため、一堂に会する。\n\n[gf_faith.PantheonTerm]のために多くの血が流されるが、供物の肉は信仰者たちに行き渡る。このような豊かな祝宴は、通常、途方も無い規模のパーティーとなる。\n\n当然、そのような催しには金がかかりますし、確かに#EMP すべての#![gf_faith.GetAdherentNamePluralNoTooltip]を招待する必要はない気もする…"
+ fp1_other_decisions.0001.desc:0 "小規模な[blotter.Custom('GruesomeFestivalNamePlural')]は一年を通して様々な機会に開催されるが、10年に一度、[blotter.GetPrimaryTitle.GetNameNoTierNoTooltip]の[gf_faith.GetAdherentNamePlural]が壮大なお祝いと、最大の関心事である立派な#EMP 生贄#!のため、一堂に会する。\n\n[gf_faith.PantheonTerm]のために多くの血が流されるが、供物の肉は信仰者たちに行き渡る。このような豊かな祝宴は、通常、途方も無い規模のパーティーとなる。\n\n当然、そのような催しには金がかかるし、確かに#EMP すべての#![gf_faith.GetAdherentNamePluralNoTooltip]を招待する必要はない気もする…"
  fp1_other_decisions.0001.a.capital:0 "[capital_county.GetNameNoTierNoTooltip]の民と宮廷の連中を招けば十分だろう？"
  fp1_other_decisions.0001.a.other:0 "[fallback_location.GetNamePossessiveNoTierNoTooltip]の人々は、我々をもてなすのに十分な信仰を維持しているな。"
  fp1_other_decisions.0001.b:0 "領内中からあらゆる自由な[blotter.Custom('WomenMenPeople_GenderPreference')]たちを呼び集めるべきだ！"

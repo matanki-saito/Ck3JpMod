@@ -140,6 +140,6 @@
  gallant_perk_name:0 "勇士"
  groomed_to_rule_msg_title:0 "支配のための身嗜み"
  LOYALTY_AND_RESPECT_PERK_STATS_EFFECT:0 "[spouse|E]の[councillor_tasks|E]からの[skills|E]が#p +25％#!されます。"
- dark_insight_gain_stats_tt:0 "[GetPerk('dark_insights_perk').GetName(GetPlayer)]を獲得できるかもしれません。"
+ dark_insight_gain_stats_tt:0 "[GetPerk('dark_insights_perk').GetName(GetPlayer)]によって能力が向上するかもしれません"
  dark_insights_maximum_insight_tt:0 "すでに可能なすべての[GetPerk('dark_insights_perk').GetName(GetPlayer)]を学習済みです。"
  dark_insights_gain_message:0 "深淵を覗く"

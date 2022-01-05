@@ -206,7 +206,7 @@
  stewardship_duty_special.1201.b:0 "そんな旅をしている場合ではない。"
  stewardship_duty_special.1201.b.tt:0 "旅には行かない"
  stewardship_duty_special.1201.continue_tooltip:0 "査察は続く。"
- stewardship_duty_special.1202.desc:0 "painting_land_owner.GetTitledFirstNamePossive]の土地に入ると、[painting_land_owner.Custom('MountedWarriorTerm')]と従者が出迎えてくれた。\n\n「[painting_land_owner.GetTitledFirstName]はわが[ROOT.Char.Custom('my_title')]を歓迎いたします。必要なだけここにご滞在してください。」"
+ stewardship_duty_special.1202.desc:0 "[painting_land_owner.GetTitledFirstNamePossessive]の土地に入ると、[painting_land_owner.Custom('MountedWarriorTerm')]と従者が出迎えてくれた。\n\n「[painting_land_owner.GetTitledFirstName]はわが[ROOT.Char.Custom('my_title')]を歓迎いたします。必要なだけここにご滞在してください。」"
  stewardship_duty_special.1202.a:0 "多くを学びたい。"
  stewardship_duty_special.1202.a.tt:0 "この地域の地図作成を始める。"
  stewardship_duty_special.1203.desc:0 "静かな道に見えたが、それが待ち伏せにはもってこいの道なのだろう。\n\n丘の向こうから山賊が突進してきて、矢と指令が急に飛び交い始めた。"
