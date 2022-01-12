@@ -101,7 +101,7 @@
  martial_chivalry.3001.desc:0 "さらに悪いことに、[my_liege.GetFirstName]はこの失敗を個人的に責めてきた。"
  martial_chivalry.3001.a:0 "俺を悪者にした新兵を罰してやれ！"
  martial_chivalry.3001.b:0 "領国のためにも、私はもっとうまくやらねばならない。"
- martial_chivalry.3001.c:0 "私はジョンを[my_liege.GetTitledFirstNameNoTooltip]させてしまった。"
+ martial_chivalry.3001.c:0 "私は[my_liege.GetTitledFirstNameNoTooltip]を失望させてしまった。"
  martial_chivalry.3002.t:0 "干渉"
  martial_chivalry.3002.desc:0 "今、[my_liege.GetFirstName]が新兵の育成方法の基本を教授してくれている！"
  martial_chivalry.3002.a:0 "[my_liege.GetFirstNamePossessiveNoTooltip]の助言を率直に受け入れる。"

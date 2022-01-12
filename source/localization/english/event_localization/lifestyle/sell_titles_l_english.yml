@@ -1,9 +1,9 @@
 ﻿l_english:
  sell_titles.0001.opening:0 "[vassal.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
- sell_titles.0001.desc.dislike:0 "あなたが売っている空約束には興味はありませんが、そんなに金が必要なのであれば、何らかの取り決めをすることができると私は思う。"
- sell_titles.0001.desc.normal:0 "これは私が光栄だと思うようなものではありません、我が[vassal.Custom2('RelationToMeShort', ROOT.Char)]よ。しかしあなたが金に困っているのであれば、何らかの取り決めができると私は考える。"
- sell_titles.0001.a:0 "いいですか、私は自分の領地のためにお金が必要なんだ。"
- sell_titles.0001.b:0 "これは農民が八百屋で値切るようなものではない！"
+ sell_titles.0001.desc.dislike:0 "あなたが売ろうとしている空手形に興味はありません。しかし、是が非でもお金が必要なのであれば、双方にとって悪くない決着が得られましょう。"
+ sell_titles.0001.desc.normal:0 "この話、私の望む栄誉とは比べるべくもありません、我が[vassal.Custom2('RelationToMeShort', ROOT.Char)]よ。ですが、金の話でお困りなのでしたら、双方にとって悪くない決着が得られましょう。"
+ sell_titles.0001.a:0 "わかるだろう、領国の利益を思えばこそお金が必要なのだ。"
+ sell_titles.0001.b:0 "市場での農夫を相手にした値切り交渉とはわけが違うのだ！"
  sell_titles.0002.desc:0 "「贈り物」と引き換えに下級称号を売っていると聞いたが。\n\n友よ、金が必要なら言ってくれればよかったのに！"
  sell_titles.0002.a:0 "そなたは真の友だ、[friend.GetFirstNameNoTooltip]よ！"
  sell_titles.0002.b:0 "これは受け入れられない。"

@@ -492,7 +492,7 @@
  fp1_yearly.1062.c:0 "飾りのついた帆船。[ship_funeral_candidate.GetFirstNameNoTooltip]には最高のものがふさわしい。"
  fp1_yearly.1062.d:0 "全部#EMP とんでもないくらい#!金がかかるな..."
  fp1_yearly.1063.t:0 "$fp1_yearly.1062.t$"
- fp1_yearly.1063.desc.intro:0 "私は参列者の前に立ち、泣いている遺族の一人一人に目をやりながら、スピーチを始めた。\n\n「[ship_funeral_candidate.GetFirstNameNoTooltip]、"
+ fp1_yearly.1063.desc.intro:0 "私は参列者の前に立ち、泣いている遺族の一人一人に目をやりながら、スピーチを始めた。\n\n「[ship_funeral_candidate.GetFirstNameNoTooltip]"
  fp1_yearly.1063.desc.achievements.title.duchy:0 "素晴らしい[ship_funeral_candidate.GetTitleAsNameNoTooltip]であり、"
  fp1_yearly.1063.desc.achievements.title.kingdom:0 "輝かしい[ship_funeral_candidate.GetTitleAsNameNoTooltip]として認められ、"
  fp1_yearly.1063.desc.achievements.title.empire:0 "堂々とした[ship_funeral_candidate.GetTitleAsNameNoTooltip]であり、"

@@ -4,4 +4,4 @@
  unlock_varangian_adventurer_cb:0 "[tribal|E] [era|E]の期間中、[varangian_adventure|E] [casus_belli|E]を解除する。"
  innovation_all_things:0 "あらゆるもの"
  innovation_all_things_desc:0 "我々の間には、自由で権力のある大人たちが集う公共の場で、誰もが統治者に不満を訴えることができるという強い伝統がある。もちろん、小市民の目の中で堂々としている人には、群衆を揺さぶる力があるかもしれないが...。"
- unlocks_authority_cooldown_breaking:0 "[characters|E]は、[crown_authority|E]と[tribal_authority|E]のクールダウンを解除することができるが、そのためには重い [prestige|E]コストが必要となる。"
+ unlocks_authority_cooldown_breaking:0 "[characters|E]は、[crown_authority|E]と[tribal_authority|E]のクールダウンを解除することができますが、そのためには多くの[prestige|E]コストが必要となります"
