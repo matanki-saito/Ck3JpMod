@@ -46,7 +46,7 @@
  VASSAL_CONTRIBUTION_AT_WAR_WITH_LIEGE:0 "[liege|E]と[war|E]中"
  MRW_YOUR_PLAYER_HEIR:1 "あなたが死亡したとき、[player_heir|E]としてプレイします"
  MRW_INHERITED_TITLES:0 "継承した[titles|E]"
- MY_REALM_WINDOW_NO_HEIR_FLAVOR:1 "@warning_icon!#X あなたには後継者がいません。ゲームはあなたが死ねば終了するでしょう#!"
+ MY_REALM_WINDOW_NO_HEIR_FLAVOR:1 "@warning_icon!#X 後継者がいません。ゲームはあなたが死ねば終了します#!"
  MY_REALM_WINDOW_EXCEPTIONS:1 "独自の[title_succession|E]法を持つ[titles|E]"
  MY_REALM_WINDOW_ELECTIONS:1 "選挙"
  MY_REALM_WINDOW_VOTE:2 "投票を見る"

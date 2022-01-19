@@ -1,6 +1,6 @@
 ﻿l_english:
  childhood.0002.t:0 "一緒に遊ぶ"
- childhood.0002.opening:0 "[crush.GetTitledFirstName]と一緒にいると楽しい！\n\n"
+ childhood.0002.opening:0 "[crush.GetTitledFirstName]と一緒にいるのは楽しい！\n\n"
  childhood.0002.loud:0 "[crush.GetSheHe|U]と一緒に遊ぶときはたくさんの事を気に掛ける必要があるけど、全然気にならない。[crush.GetHerHim]に会うときは普段より楽しい日になるんだ！"
  childhood.0002.quiet:0 "[crush.GetSheHe|U]は大抵いつも少し内気だけど、それでも[crush.GetHerHim]と会うときはいつも特別だ！"
  childhood.0002.fallback:0 "[crush.GetHerHim]に会うといつだってより楽しい日になる。いつも一緒に遊べたらいいのに。"
@@ -10,7 +10,7 @@
  childhood.0004.desc2:0 "最近、[friend.GetTitledFirstName]と私は一緒に沢山の時間をおしゃべりと遊びに費やしている。本当に楽しいなあ！"
  childhood.0004.desc3:0 "最近、私は[friend.GetFirstName]と多くの時間を過ごしている。"
  childhood_0004.desc3_rowdy:0 "[friend.GetSheHe|U]はいつも何かを企んでいて、一緒にいて飽きることがない！"
- childhood_0004.desc3_curious:0 "[friend.GetSheHe|U]は宮廷で起こっていることを何でも知っており、話していて飽きることが無い！"
+ childhood_0004.desc3_curious:0 "[friend.GetSheHe|U]は宮廷で起こっていることを何でも知っていて、話していて飽きることが無い！"
  childhood_0004.desc3_charming:0 "[friend.GetSheHe]ほど私を笑わせられる人は他にいないだろう！"
  childhood_0004.desc3_pensive:0 "[friend.GetSheHe|U]はいつだって正しい問いを私に投げかけ、全ての対話と議論の真実へ到達する。私は[friend.GetHerHim]と一緒にいて退屈することが無い！"
  childhood_0004.desc3_bossy:0 "私と会ったときはいつも、[friend.GetSheHe|U]は私が何をすべきかを正確に知っている。なので私は[friend.GetHerHim]と一緒にいて退屈することが無いのだ！"

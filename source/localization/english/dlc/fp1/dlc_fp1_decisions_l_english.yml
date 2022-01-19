@@ -1,7 +1,7 @@
 ﻿l_english:
  secure_high_kingdom_north_sea_decision:0 "北海帝国の創設"
  secure_high_kingdom_north_sea_decision_desc:0 "$k_england$、$k_denmark$、$k_norway$の三王国は天性ながらに似合いである。富裕で、獰猛で、そして貿易と高貴なる家柄とで結ばれている。もし誰ぞが三国の私利私欲さえ乗り越えたならば、三者の和合は永久のものとなる…"
- secure_high_kingdom_north_sea_decision_tooltip:1 "$k_england$、$k_denmark$、そして$k_norway$を、一つの[de_jure|E] [realm|E]へと束ねます"
+ secure_high_kingdom_north_sea_decision_tooltip:1 "$k_england$、$k_denmark$、そして$k_norway$を、一つの[de_jure|E]の[realm|E]へと束ねます"
  secure_high_kingdom_north_sea_decision_confirm:0 "何より、大王！"
  secure_high_kingdom_north_sea_decision_solve_danelaw:0 "目下、$k_danelaw$は[de_jure|E] [counties|E]となっており、先ず$k_england$が分離されなければならない。"
  secure_high_kingdom_north_sea_scripted_effect.daneland_reabsorbed.tt:0 "$k_daneland$の全ての[completely_controlled|E] [duchies|E]は$k_england$に戻り[de_jure_drift_drifted|E]となる。"

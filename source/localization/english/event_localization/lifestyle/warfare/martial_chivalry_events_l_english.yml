@@ -1,7 +1,7 @@
 ﻿l_english:
  martial_chivalry.0001.t:0 "価値のない挑戦"
  martial_chivalry.0001.opening:0 "最初は独りの下男が練習場に足を踏み入れるなど愚かだと思っていた。"
- martial_chivalry.0001.hard_fight:0 "しかし、予想以上の激戦となり、次第に[duel_opponent.GetSheHe]が[duel_opponent.GetHerHis]の乱暴で凶暴な攻撃を止められないことが明らかになってきた。"
+ martial_chivalry.0001.hard_fight:0 "しかし、予想以上の激戦となってきた。その上、とある状況が次第に明らかとなる。[duel_opponent.GetSheHe]は、自らの荒々しく凶暴な攻撃を止められないのだ。"
  martial_chivalry.0001.easy_fight:0 "\n\n最初は何の脅威でも無いように見えた[duel_opponent.GetTitledFirstName]であったが、すぐに[duel_opponent.GetSheHe]が荒々しい攻撃で私を傷つけるのを止められないことがわかり、"
  martial_chivalry.0001.conclusion:0 "[duel_opponent.GetHerHim]の武装解除が突然死活問題になった。\n\nようやく[duel_opponent.GetHerHis]の剣が地面に落ちたとき、私は安堵の表情を見せないようにしていた。"
  martial_chivalry.0001.a:0 "貴方のような人がもっといてもいいのだが！"

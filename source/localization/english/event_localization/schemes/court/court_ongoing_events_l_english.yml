@@ -114,7 +114,7 @@
  court_ongoing.1031.b:0 "これは... 予想外だな。"
  court_ongoing.1032.desc:0 "「我が[ROOT.Char.Custom('LoverPetName')]よ、じっくりと考えました。」[owner.GetTitledFirstName]はかごを優しく机に置きながら言った。「あなたのように明晰で独立した存在にとって、完璧な伴侶とは何か？私はひらめきました——猫ほどあなたにぴったりな伴侶はいないでしょう！」\n\n[owner.GetFirstNameNoTooltip|U]はかごを覆っていた毛布を外し、小さな子猫を見せてくれた。子猫は大きな[ROOT.Char.Custom('RandomCatEyeColor')]の目で私を見上げ、鳴き始めた。"
  court_ongoing.1040.t:1 "$court_event_title$ 煌めく金"
- court_ongoing.1040.end.desc:0 "[target.GetFirstNameNoTooltip]が私をじっと見つめる。「[necklace_owner.GetLadyLord|U][necklace_owner.GetFirstNamePossessiveNoTooltip]のネックレス素敵ですね 」と[target.GetSheHe]は言って、[necklace_owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の方向に[target.GetHerHis]の首を傾げる。「でも、私の首にはもっと似合うだろう」"
+ court_ongoing.1040.end.desc:0 "[target.GetFirstNameNoTooltip]が私をじっと見つめる。「[necklace_owner.GetLadyLord|U][necklace_owner.GetFirstNamePossessiveNoTooltip]のネックレスは素敵ですね 」[target.GetSheHe]はそう言うと、[necklace_owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の方向に[target.GetHerHis]の首を傾ける。「でも、私の首にはもっと似合うことでしょう。」"
  court_ongoing.1040.a:0 "同じネックレスを注文する。"
  court_ongoing.1040.b:0 "[necklace_owner.GetFirstNameNoTooltip]に[necklace_owner.GetHerHis]のネックレスを譲って貰えないか頼む。"
  court_ongoing.1040.c:0 "盗もう。"

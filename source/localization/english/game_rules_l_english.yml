@@ -117,7 +117,7 @@
  setting_off_de_jure_requirement_desc:0 "慣習的領土を持つ称号が破棄されることはありません。"
  de_jure_requirement_title:0 "[title_to_destroy.GetName] 没収！"
  de_jure_requirement_desc:0 "私は[title_to_destroy.GetNameNoTierNoTooltip]の支配者であると主張することはできない。何故ならばその地の慣習的領有権を私は所持していないからだ。"
- rule_multiplayer_murder_schemes:1 "マルチプレイ: 暗殺の策謀"
+ rule_multiplayer_murder_schemes:1 "マルチプレイ: 暗殺計画"
  setting_default_multiplayer_murder_schemes:0 "デフォルト"
  setting_default_multiplayer_murder_schemes_desc:0 "敵対的な策謀をプレイヤーとその家族に対して使用できます。"
  setting_no_players_multiplayer_murder_schemes:1 "#high プレイヤー以外#!"

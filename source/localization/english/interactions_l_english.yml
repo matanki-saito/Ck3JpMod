@@ -39,7 +39,7 @@
  blackmail_decline_summary:3 "@warning_icon!#X [recipient.GetShortUINameNoTooltip]が断った場合、[recipient.GetHerHis]の秘密が暴かれる可能性があります！#!"
  modify_vassal_contract:0 "封建契約の修正"
  liege_modify_vassal_contract_interaction:0 "$modify_vassal_contract$"
- liege_modify_vassal_contract_interaction_desc:0 "[recipient.GetShortUINamePossessiveNoTooltip]の[obligations|E]をあなたに再交渉します"
+ liege_modify_vassal_contract_interaction_desc:0 "[recipient.GetShortUINamePossessiveNoTooltip]のあなたに対する[obligations|E]を再交渉します"
  liege_modify_vassal_contract_interaction_extra_icon:0 "$hook_extra_icon$"
  modify_vassal_contract_interaction_notification:0 "封建契約の修正"
  vassal_modify_vassal_contract_interaction:0 "$modify_vassal_contract$"

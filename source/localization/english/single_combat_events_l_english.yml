@@ -219,7 +219,7 @@
  single_combat.0001.desc.opponent_response.jungle_stalker:0 "[my_foe.GetFirstNameNoTooltip]は掴みどころのない相手で、私の攻撃を受けてもさっと消えてしまい、密集した下草の中を、私にはとてもできないほど簡単に移動することができる。"
  single_combat.0001.desc.opponent_response.open_terrain_expert:0 "[my_foe.GetFirstNameNoTooltip]は開かれた環境をうまく利用しており、[my_foe.Custom('SignatureWeaponAttemptedLightPlural')]を見舞うと広い空間へと退避していく。"
  single_combat.0001.desc.opponent_response.rough_terrain_expert.rocky:0 "岩地での戦いに熟練している[my_foe.GetFirstNameNoTooltip]は、素早く高台を確保し、その優位性によって、[my_foe.GetSheHe]は#EMP ほとんど#!私の手足をもぎ取ったかのようだ。"
- single_combat.0001.desc.opponent_response.rough_terrain_expert.boggy:0 "私よりも湿地帯での戦いに慣れている[my_foe.GetFirstNameNoTooltip]は、何度も何度となく私を不快な水の中へと押し込もうとし、それはほとんど成功を収めている。"
+ single_combat.0001.desc.opponent_response.rough_terrain_expert.boggy:0 "私よりも湿原での戦いに慣れている[my_foe.GetFirstNameNoTooltip]は、何度も何度となく私を不快な水の中へと押し込もうとし、それはほとんど成功を収めている。"
  single_combat.0001.desc.opponent_response.forest_fighter:0 "熟練した森の[my_foe.GetWomanMan]である[my_foe.GetFirstNameNoTooltip]は、荊や茂みを問題なく通過しているようだが、私にとっては[my_foe.GetHerHim]の後から、危険な場所を通過することになる。"
  single_combat.0001.desc.opponent_response.raaargh:0 "[my_foe.GetFirstNameNoTooltip]が一瞬揺れたかと思うと、[my_foe.GetSheHe]は怒りを爆発させ、大地を揺るがすほどの大声で叫ぶと、見たこともない#EMP 凶暴性#!とともに体当りしてくる。"
  single_combat.0001.desc.opponent_response.hard_grit:0 "[my_foe.GetFirstNameNoTooltip]は困ったことに有能な戦士であり、[my_foe.GetSheHe]は強固な攻撃であっても回避したり、受け流したりして、それを私に向けて返してくる。"

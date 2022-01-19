@@ -55,7 +55,7 @@
  religious_decision.0201.forest:0 "[forest_location.GetNameNoTier]の人里離れた森。"
  religious_decision.0201.drylands:0 "[drylands_location.GetNameNoTier]の乾燥した低木地帯。"
  religious_decision.0201.mountains:0 "[mountains_location.GetNameNoTier]の人里離れた山。"
- religious_decision.0201.wetlands:0 "[wetlands_location.GetNameNoTier]の悪臭を放つ湿地"
+ religious_decision.0201.wetlands:0 "[wetlands_location.GetNameNoTier]の悪臭を放つ湿原"
  religious_decision.0201.jungle:0 "[jungle_location.GetNameNoTier]の不快な音に溢れたジャングル"
  religious_decision.0201.desert:0 "[desert_location.GetNameNoTier]の灼熱。"
  religious_decision.0201.optout:0 "今は忙しくて瞑想する時間などない。"

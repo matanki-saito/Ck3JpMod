@@ -8,7 +8,7 @@
  desert_mountains:0 "山地砂漠"
  combat_desert_mountains:0 "山地砂漠での防衛"
  jungle:0 "ジャングル"
- combat_jungle:0 "熱帯雨林での防衛"
+ combat_jungle:0 "ジャングルでの防衛"
  forest:0 "森林"
  combat_forest:0 "森林での防衛"
  oasis:0 "オアシス"

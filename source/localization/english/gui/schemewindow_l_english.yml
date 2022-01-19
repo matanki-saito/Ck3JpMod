@@ -68,7 +68,7 @@
  SCHEME_COOLDOWN_DATE_FORMAT:0 "[DATE.GetStringShort|V]"
  SCHEME_WINDOW_SUCCESS_CHANCE:0 "#V [Scheme.GetSuccessChance|%/]#!"
  SCHEME_WINDOW_SECRECY:0 "#V [Scheme.GetSecrecy|%/]#!"
- SCHEME_ITEM_PROGRESS_TOOLTIP:1 "#T [Scheme.GetProgressDescription] #!\n[scheme|E]は、その力と抵抗力に基づいて毎月[Scheme.GetProgressChance|%]の割合で進行している。\n\n[Scheme.GetPowerDescription]\n\n[Scheme.GetResistanceDescription]"
+ SCHEME_ITEM_PROGRESS_TOOLTIP:1 "#T [Scheme.GetProgressDescription] #!\n[scheme|E]は、その力と抵抗力に基づいて毎月[Scheme.GetProgressChance|%]の割合で進行しています。\n\n[Scheme.GetPowerDescription]\n\n[Scheme.GetResistanceDescription]"
  SCHEME_SUCCESS_FROM_AGENTS:0 "[agents|E]から: $VALUE|+%/0=$"
  SCHEME_SUCCESS_MINIMUM:0 "#weak 最小可能性: #!$VALUE|+%/0$"
  SCHEME_BASE_SECRECY:1 "基本: $VALUE|Z0%/$"

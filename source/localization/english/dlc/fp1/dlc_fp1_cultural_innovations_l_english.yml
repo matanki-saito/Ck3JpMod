@@ -1,7 +1,7 @@
 ﻿l_english:
  innovation_varangian_adventurers:0 "ヴァリャーグの冒険者"
  innovation_varangian_adventurers_desc:0 "私たちが住んでいるこの土地に何の恩義があるだろうか？何もない！領国の中心は土地ではなく人だ。そして我々は最高の土壌、最高の財宝、最高の宮殿に値しないのだろうか？それらを得る簡単な方法は#EMP 取りに行く#!ことだ！"
- unlock_varangian_adventurer_cb:0 "[tribal|E] [era|E]の期間中、[varangian_adventure|E] [casus_belli|E]を解除する。"
+ unlock_varangian_adventurer_cb:0 "[tribal|E][era|E]の間、[varangian_adventure|E]の[casus_belli|E]をアンロックします"
  innovation_all_things:0 "あらゆるもの"
- innovation_all_things_desc:0 "我々の間には、自由で権力のある大人たちが集う公共の場で、誰もが統治者に不満を訴えることができるという強い伝統がある。もちろん、小市民の目の中で堂々としている人には、群衆を揺さぶる力があるかもしれないが...。"
+ innovation_all_things_desc:0 "我々の間には、自由で権力のある大人たちが集う公共の場で、誰もが統治者に不満を訴えることができるという強い伝統がある。もちろん、小市民の目の中で堂々としている人には、群衆を揺さぶる力があるかもしれないが..."
  unlocks_authority_cooldown_breaking:0 "[characters|E]は、[crown_authority|E]と[tribal_authority|E]のクールダウンを解除することができますが、そのためには多くの[prestige|E]コストが必要となります"

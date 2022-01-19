@@ -84,7 +84,7 @@
  feast_default.2002.c:0 "この手紙を書いたのは[crush_3.GetFirstNameNoTooltip]だ。"
  feast_default.2002.potential_lover_tt:0 "正解であれば、その人をあなたの[lover|E]にするのは簡単なことでしょう"
  feast_default.2003.t:0 "$feast_header$ 共通した気質"
- feast_default.2003.desc:0 "初めはありふれた宴であったが、[other_guest.GetTitledFirstName]がいてくれたお陰で、やがてそれは特別なものとなった!\n\n私達は夜通し多くの事柄について語り合った。どうやら我々には多くの共通点があるようだった!　 [other_guest.GetHerHim]と過ごした時間はとても有意義なものであった。"
+ feast_default.2003.desc:0 "初めはありふれた宴であったが、[other_guest.GetTitledFirstName]がいてくれたお陰で、やがてそれは特別なものとなった！\n\n私達は夜通し多くの事柄について語り合った。どうやら我々には多くの共通点があるようだった！[other_guest.GetHerHim]と過ごした時間はとても有意義なものであった。"
  feast_default.2003.a:0 "なんと素晴らしい夜だろう!"
  feast_default.2005.t:0 "$feast_header$ おろしたての[ROOT.Char.Custom('GetClothingArticle')|U]全体に"
  feast_default.2005.desc:0 "[drunk.GetTitledFirstName]は飲みすぎていると我々全員が諫めたにもかかわらず、[drunk.GetSheHe]はまだまだ素面だ、大丈夫、酔ってなんかないさと言い張った。\n\n[drunk.GetHerHis]は席から立ちあがっただけで限界に達し、今や私はひどい悪臭を放つ吐瀉物にまみれている！"

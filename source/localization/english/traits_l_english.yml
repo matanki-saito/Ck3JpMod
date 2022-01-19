@@ -859,5 +859,5 @@
  trait_poet_desc:0 "この人物は、夜になると自身の考えや感情、経験を詩に表現することを楽しんでいる。"
  trait_poet_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、夜になると[ROOT.GetCharacter.GetHerHis]の考えや感情、経験を詩に表現することを楽しんでいる。"
  trait_winter_soldier:0 "冬季兵"
- trait_winter_soldier_desc:0 "この人物は、厳しい寒さに鍛えられており、寒さを自身の利点へと変える方法を知っている。"
- trait_winter_soldier_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、厳しい寒さに鍛えられており、寒さを[ROOT.GetCharacter.GetHerHis]の利点へと変える方法を知っている。"
+ trait_winter_soldier_desc:0 "この人物は、厳しい寒さに鍛えられており、寒さを自身の優位へと変える方法を知っている。"
+ trait_winter_soldier_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、厳しい寒さに鍛えられており、寒さを[ROOT.GetCharacter.GetHerHis]の優位へと変える方法を知っている。"
