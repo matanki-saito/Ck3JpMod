@@ -28,7 +28,7 @@
  war_event.3002.t:0 "[war_owner.Custom2('AppropriateGreeting', ROOT.Char)]"
  war_event.3002.desc.start:0 "あなたは兵士を送ると約束したにもかかわらず、戦場であなたの兵士を一人たりとも見たことがないのはどういうことでしょうか。"
  war_event.3002.desc.end.1:0 "このようなやり方で誓いを破るとは、あなたは自身とあなたの家族に不名誉をもたらしたのです。"
- war_event.3003.desc.end.2:0 "この点でのあなたの不履行は、私のあなたへの信頼を大きく傷つけました、[ROOT.Char.GetTitledFirstName]。"
+ war_event.3003.desc.end.2:0 "この不履行は、あなたへの信頼を大きく傷つけました、[ROOT.Char.GetTitledFirstName]。"
  war_event.3002.1.a:0 "結構だ。"
  war_event.3003.2.a:0 "次はもっと上手くやろう。"
  war_event.3003.2.b:0 "あるいは同盟を終わらせるべきかもしれない…？"

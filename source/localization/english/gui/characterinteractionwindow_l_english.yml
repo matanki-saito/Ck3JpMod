@@ -5,7 +5,7 @@
  PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Unpin', 'Pin' )]\n#!画面右側のアウトライナーに[Character.GetHerHim]を固定し、このキャラクターを追跡できるようにします"
  interaction_category_diplomacy:0 "外交"
  interaction_category_friendly:0 "個人的"
- interaction_category_hostile:0 "敵意"
+ interaction_category_hostile:0 "敵対的"
  interaction_category_vassal:0 "封臣と領地"
  interaction_category_religion:0 "宗教"
  interaction_category_house_head:0 "家長"

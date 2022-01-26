@@ -419,7 +419,7 @@
  child_personality.4013.a:0 "男の子も女の子もとても面白い！"
  child_personality.4014.desc:0 "周りの人の誰もがペアになりたがっているようで——笑顔でキスをしたり、他の子供たちと触れ合ったりしている。私が興味を示さないと、他の人は混乱しているようで、[dummy_opposite_gender.Custom('GirlBoyPlural')]は、あなたはみんなをもっと好きになるべきだと言う。"
  child_personality.4014.a:0 "本当に理解できない…"
- child_personality.4015.desc:0 "若い[ROOT.Char.Custom('OppositeGenderedLowlyServantType')]が、汗をかきながら[dummy_opposite_gender.GetHerHis]の頬を赤らめて歩くのを見ていると、私はうっとりする。この感じは何だろう？この憧れは？"
+ child_personality.4015.desc:0 "若い[ROOT.Char.Custom('OppositeGenderedLowlyServantType')]が、汗をかき頬を赤らめて歩くのを見ていると、私はうっとりする。この感じは何だろう？この憧れは？"
  child_personality.4015.a:0 "[dummy_opposite_gender.Custom('GirlBoyPlural')|U]はとても魅力的だ！"
  child_personality.9900.t:0 "生き写し"
  child_personality.9900.start.desc:0 "人々は、私が私の[ROOT.Char.Custom2('RelationToMe', ancestor)]である[ancestor.GetTitledFirstName]に生き写しだと言い続けている。私は[ancestor.GetHerHim]には会ったことがないが、彼らがそう言うとき笑顔になっているところからみると、それはきっと良いことなのだろう。\n\n"

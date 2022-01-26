@@ -3,7 +3,7 @@
  feast_main_stew_flood.0002.stew_introduction_blamed:0 "宴会場の暖炉の上に吊るされた大きな釜につまずいたとき、私は少々酔いが回りすぎていたようだった。大釜のふたが緩んで外れ、香ばしいスープが湧き出て、床はシチューの海に覆われてしまった！"
  feast_main_stew_flood.0002.stew_introduction_blame:0 "酔った勢いで、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('stew_sea_blamed'))]、[stew_sea_blamed.GetTitledFirstName]は、宴会場の真ん中の暖炉に吊るされた大釜の蓋を開けた！香ばしいスープが溢れ出て、床はシチューの海に覆われてしまった！"
  feast_main_stew_flood.0002.stew_introduction:0 "宴会の喧騒の中、[activity.GetOwner.GetTitledFirstNamePossessive]の使用人のひとりが、宴会場の中央にある暖炉の上に吊るされていた大釜の蓋を誤って外してしまった！部屋の半分をシチューの海で覆うほどの香ばしいスープが湧き出てきた！"
- feast_main_stew_flood.0002.someone_got_covered:0 "\n\n\[stew_sea_gets_covered.Custom('stew_flood_covered_adjective')]の[stew_sea_gets_covered.GetTitledFirstName]は、押し寄せる波につかまり、[stew_sea_gets_covered.GetHerHis]の顔面を脂が流れ落ちて[stew_sea_gets_covered.GetHerHis]の見てくれを台無しにしたのを大声で罵っていた。"
+ feast_main_stew_flood.0002.someone_got_covered:0 "\n\n[stew_sea_gets_covered.Custom('stew_flood_covered_adjective')]の[stew_sea_gets_covered.GetTitledFirstName]は、押し寄せる波につかまり、[stew_sea_gets_covered.GetHerHis]の顔面を脂が流れ落ちて[stew_sea_gets_covered.GetHerHis]の見てくれを台無しにしたのを大声で罵っていた。"
  feast_main_stew_flood.0002.splash_desc_standard:0 "\n\n慌てて飛び跳ねる足の間に、ドロリとした塊が脂ぎった触手を伸ばし始めたので、客人たちは広間の反対側へ殺到した。"
  feast_main_stew_flood.0002.every_target:0 "ひどい空腹に耐えかねて[stew_sea_glutton.GetTitledFirstName]は床に倒れこみ、[stew_sea_horrified_character.GetTitledFirstName]が恐怖のあまり見守る中、[stew_sea_glutton.GetSheHe]は床に溢れた肉を食べられるだけ食べてしまった。"
  feast_main_stew_flood.0002.only_glutton:0 "\n\nひどい空腹に耐えかねて、[stew_sea_glutton.GetTitledFirstName]は床に倒れ込み、[stew_sea_glutton.GetSheHe]が食べられるだけのありったけの肉を飲み込んでしまった。"

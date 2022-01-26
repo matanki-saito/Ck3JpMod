@@ -135,7 +135,7 @@
  RULER_DESIGNER_GENE_ONLY_WOMEN:0 "人物が女性の場合のみ視認可能です"
  MAX_SKILL_LABEL:0 "最大能力"
  MIN_SKILL_LABEL:0 "最小能力"
- RULER_DESIGNER_NO_EDUCATION_TOOLTIP:0 "#T [adults|E]のみが[education_trait|E]を持つことができます#!"
+ RULER_DESIGNER_NO_EDUCATION_TOOLTIP:0 "#T [adults|E]のみが[education_trait|E]を持てます#!"
  RULER_DESIGNER_FINALIZE_OVERWRITE_TITLE:0 "人物を完成"
  RULER_DESIGNER_FINALIZE_OVERWRITE_BODY:0 "作成した人物を完成させます。一度送信するとこの変更を元に戻すことはできませんが、送信してもよろしいですか？"
  RULER_DESIGNER_FINALIZE_OVERWRITE_ACCEPT:0 "送信"

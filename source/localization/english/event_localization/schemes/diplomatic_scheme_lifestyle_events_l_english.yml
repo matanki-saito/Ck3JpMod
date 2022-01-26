@@ -11,7 +11,7 @@
  diplomatic_scheme_lifestyle.3001.b.tt:0 "#F 戦略を考え直す必要がある。#!"
  diplomatic_scheme_lifestyle.3101.t:0 "対立"
  diplomatic_scheme_lifestyle.3101.desc_opening_good:1 "「これは誉め言葉ですが、私はあなたの意図が何であるのかよくわからないのです。」\n\n[target.GetTitledFirstName]は[target.Custom('quirk_pos_present')]とさらに続ける。「そして、あなたはいつもそばにいる...しばらくの間、私のことを放っておいてくれないか？」"
- diplomatic_scheme_lifestyle.3101.desc_opening_bad:0 "「これは止めなければなりません！」\n\n[target.GetTitledFirstName]は[target.Custom('quirk_neg_present')]と続ける。[ROOT.Char.GetFirstNameNoTooltip]、あなたの目的が何なのかはわからないが、しかし、私のあなたへの嫌悪感を高めるのが目的なら、それは確かに成功していますよ！」"
+ diplomatic_scheme_lifestyle.3101.desc_opening_bad:0 "「これは止めなければなりません！」\n\n[target.GetTitledFirstName]は[target.Custom('quirk_neg_present')]と続ける。「[ROOT.Char.GetFirstNameNoTooltip]、あなたの目的が何なのかはわかりませんが、しかし、嫌悪感を高めるのが目的なら確かに成功していますよ！」"
  diplomatic_scheme_lifestyle.3101.a:0 "しばらく手を引くことにします。"
  diplomatic_scheme_lifestyle.3101.a.tt:0 "#F しかし私は諦めていない！#!"
  diplomatic_scheme_lifestyle.3101.b:0 "あきらめないぞ！"

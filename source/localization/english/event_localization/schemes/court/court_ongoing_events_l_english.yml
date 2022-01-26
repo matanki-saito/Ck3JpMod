@@ -136,7 +136,7 @@
  court_ongoing.1050.b.friend:0 "[helpful_friend.GetTitledFirstNameNoTooltip]が助けてくれるかもしれない。"
  court_ongoing.1050.b.friend.f:0 "あなたの[helpful_friend.GetShortUINamePossessive]が高い[prowess|E]能力を持つためこれが選択可能です"
  court_ongoing.1050.c:0 "ほとんど不可能だって？すでに私のコレクションに入っているぞ！"
- court_ongoing.1050.c.friend.f:0 "あなたの[helpful_friend.GetShortUINamePossessive]が薬師の特性を持つためこれが選択可能です"
+ court_ongoing.1050.c.friend.f:0 "あなたの[helpful_friend.GetShortUINamePossessive]が薬師の特性を持つためこのオプションが選択可能です"
  court_ongoing.1050.d:0 "「廃墟には幽霊が出ると聞いたが…」"
  court_ongoing.1050.e:0 "「あなたの美しい容姿に比べれば、きっと弱々しいものに違いない！」"
  court_ongoing.1050.f:0 "「いつかそれを見れる時が来るかもしれない。」"

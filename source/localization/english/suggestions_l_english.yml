@@ -27,7 +27,7 @@
  suggestion_increase_control_click:1 "#I クリックで評議会画面を開く#!"
  suggestion_increase_opinion_label:0 "評価を上昇させましょう"
  suggestion_increase_opinion:0 "提案: [recipient.GetShortUINamePossessiveNoTooltip]のあなたへの評価を上げましょう"
- suggestion_increase_opinion_desc:0 "あなたの[actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))][recipient.GetShortUIName]のあなたへの[opinion|E]が低いです。[personal_scheme|E]によってあなたへの評価を向上させることで、もう少し生きやすくなるかもしれません。"
+ suggestion_increase_opinion_desc:0 "[actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))][recipient.GetShortUIName]からの[opinion|E]が低いです。[personal_scheme|E]による評価の向上があれば、もう少し生きやすくなるかもしれません。"
  suggestion_increase_opinion_click:1 "#I クリックで懐柔計画を開始#!"
  suggestion_raid_label:0 "略奪"
  suggestion_raid:0 "提案: [landed_title.GetNameNoTierNoTooltip]を略奪しましょう"
