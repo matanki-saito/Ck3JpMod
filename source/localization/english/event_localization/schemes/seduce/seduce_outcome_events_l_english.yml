@@ -163,7 +163,7 @@
  seduce_outcome.4004.a:0 "どうしてそんなことを？ここを開けて！"
  seduce_outcome.4005.desc:0 "[target.GetTitledFirstNamePossessive]の窓の下の格子垣はあまり頑丈ではないが、私と下半身の欲望を阻むものはなにもない。危険な登りが終わると、私の指が[target.GetHerHis]の窓辺にかかる。\n\n「[target.GetFirstNameNoTooltip]！開けて、私の[target.Custom('LoverPetName')]！私、いや、[ROOT.Char.GetFirstNameNoTooltip]だよ！」よろい戸を叩くが返事もない。\n\n「[target_liege.Custom2('RelationToMeShort', SCOPE.sC('target'))]に何の用だ、この[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNounSexual')]め！」見上げると、頭上の窓から[target_liege.GetTitledFirstName]が身を乗り出している！"
  seduce_outcome.4005.a:0 "帰りどきだな！"
- seduce_outcome.4900.desc:0 "幸福な眠りを楽しもうと自分の部屋へ向かおうとした時、窓からかすかなざわめきが聞こえた。ただの風だと思っていた —— 風が話し始めるまでは。\n\n「[target.GetFirstNameNoTooltip]！開けて、私の[target.Custom('LoverPetName')]！私です—— [owner.GetFirstNameNoTooltip]です！」鎧戸を押し開けると、なんと！[owner.GetWomanMan]は[target.GetTitledFirstNamePossessive]の窓に上ってきた！そいつは[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]だった！"
+ seduce_outcome.4900.desc:0 "幸福な眠りを楽しもうと自分の部屋へ向かおうとした時、窓からかすかなざわめきが聞こえた。ただの風だと思っていた —— 風が話し始めるまでは。\n\n「[target.GetFirstNameNoTooltip]！開けて、私の[target.Custom('LoverPetName')]！私です——[owner.GetFirstNameNoTooltip]です！」鎧戸を押し開けると、これは驚いた、[owner.GetWomanMan]が[target.GetTitledFirstNamePossessive]の窓に上ってきているではないか！しかもそいつは[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]だ！"
  seduce_outcome.4900.a.family:0 "[target_liege.Custom2('RelationToMeShort', SCOPE.sC('target'))]に何の用だ、この[owner.Custom('InsultNounSexual')]め！"
  seduce_outcome.4900.a.courtier:0 "[ROOT.Char.GetFaith.DevilName]にかけて、恥を知らぬのか？衛兵！"
  seduce_outcome.8101.t:1 "[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('owner') )|U]の愛"

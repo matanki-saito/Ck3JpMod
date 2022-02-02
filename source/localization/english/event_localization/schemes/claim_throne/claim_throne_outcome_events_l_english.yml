@@ -1,7 +1,7 @@
 ﻿l_english:
  do_not_execute_claim_throne_tooltip:0 "[target.GetPrimaryTitle.GetName]に対する請求権を得ない"
  claim_throne_outcome.1001.t:0 "玉座の要求"
- claim_throne_outcome.1001.desc:0 "私の懸命な努力の結果、ついに私が「出会った」証拠を提示する時が来た。それはつまり、私が古い王朝の結婚を通して[target_title.GetName]の正当な相続人であることだ。\n\n[target.GetSheHe]が私の邪魔をしている限り、[target.GetTitledFirstName]は単なる王位詐称者にすぎない！"
+ claim_throne_outcome.1001.desc:0 "懸命な努力の結果、ついに私が「発見した」証拠を提示する時が来た。古い王朝の結婚を通して[target_title.GetName]を正当に相続できるという証だ。\n\n[target.GetTitledFirstName]が私の邪魔をしている限り、[target.GetSheHe]は単なる王位僭称者にすぎない！"
  claim_throne_outcome.1001.a:1 "すぐに私が[target.GetPrimaryTitle.GetNameNoTierNoTooltip]の支配者となる！"
  claim_throne_outcome.1001.b:0 "おそらく、私は急ぎすぎている..."
  claim_throne_outcome.2001.opening:0 "ついに、私が[target_title.GetName]への正当な請求権を有する事実について、疑うものはいなくなった！"
@@ -11,7 +11,7 @@
  claim_throne_outcome.2001.b:0 "[target.GetFirstNameNoTooltip]は言いたい放題ぶちまけています！何も変わりませんが。"
  claim_throne_outcome.4001.opening:0 "[target_title.GetName]への請求権は誰からの承認も得られなかった！"
  claim_throne_outcome.4001.owner_discovered:0 "\n\nさらに悪いことに、[target.GetTitledFirstName]は私が[ROOT.Char.GetDynasty.GetBaseName]の王朝と[target_title.GetNameNoTierNoTooltip]の旧王朝の間の結婚記録をでっち上げようとしているのを発見したのである！"
- claim_throne_outcome.4001.owner_secret:0 "\n\n [ROOT.Char.GetDynasty.GetBaseName]の王朝と[target_title.GetNameNoTierNoTooltip]の旧王朝の間の結婚記録は不正確であるとして却下されたが、少なくとも誰もそれらを作ったのが私であることを発見することは無かった。"
+ claim_throne_outcome.4001.owner_secret:0 "\n\n[ROOT.Char.GetDynasty.GetBaseName]の王朝と[target_title.GetNameNoTierNoTooltip]の旧王朝の間の結婚記録は不正確であるとして却下されたが、少なくともそれらを作ったのが私だと露見することは無かった。"
  claim_throne_outcome.4001.a:0 "「私はただあなたの一族の栄光に加わりたかっただけです、我が君！」"
  claim_throne_outcome.4001.b:0 "必要なだけ時間をかけようと思う。"
  claim_throne_outcome.4001.c:0 "この勝負は、あまりにも危険すぎる。"

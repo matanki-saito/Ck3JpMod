@@ -47,6 +47,6 @@
  MERCENARY_COMPANY_COST_BANKRUPTCY_HIRED:0 "@warning_icon!#X 非常に多くの[debt|E]を抱えることになるため、この[mercenary_company|E]との契約を延長する余裕はありません#!"
  MERCENARY_COMPANY_COST_DEBT:0 "@warning_icon!#X この[mercenary_company|E]を雇用することで、あなたは[debt|E]を抱えることになります#!"
  MERCENARY_COMPANY_COST_DEBT_HIRED:0 "@warning_icon!#X この[mercenary_company|E]との契約を延長することで、あなたは[debt|E]を抱えることになります#!"
- HIRED_TROOPS_HIRED_BY:0 "#X [HiredTroop.GetHiredBy.GetShortUIName]によって雇用されていますが、あなたは後援者としてそれにかかわらず依頼することができます#!"
+ HIRED_TROOPS_HIRED_BY:0 "#X [HiredTroop.GetHiredBy.GetShortUIName]が雇用中ですが、あなたは後援者なので、先方に優先して依頼できます#!"
  HIRED_TROOPS_ALREADY_HIRED_BY_PLAYER:0 "@warning_icon!#X 彼らはすでにプレイヤーに雇用されています#!"
  HIRED_TROOPS_ALREADY_HIRED_BY_YOU:0 "@warning_icon!#X 彼らはすでにあなたに雇用されています#!"

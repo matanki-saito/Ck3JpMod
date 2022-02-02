@@ -1,8 +1,8 @@
 ﻿l_english:
  mentor_student.0001.t:0 "かつてあったもの"
- mentor_student.0001.desc:1 "「もうたくさんだ、[ROOT.Char.GetFirstNameNoTooltip]！」と私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )]である[mentor_to_lose.GetTitledFirstName]は叫び、[mentor_to_lose.Custom('quirk_neg_pp')]。\n\n「我々の関係は終わりだ、これがいい結果を生むには我々はあまりにも違いすぎる。もう自分のことは自分でやるんだ。」"
- mentor_student.0001.a:0 "結構。"
- mentor_student.0002.desc:1 "「もう貴方に教えることは何も残っていない。」\n\n我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )][mentor_to_lose.GetTitledFirstName]は[mentor_to_lose.Custom('quirk_pos_adverb')]に向かって微笑み、頷いた。「まだまだ学ぶべきことは多いですが、ここからは自分で学んで行きなさい。」"
+ mentor_student.0001.desc:1 "「もうたくさんだ、[ROOT.Char.GetFirstNameNoTooltip]！」と私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )]である[mentor_to_lose.GetTitledFirstName]は叫び、[mentor_to_lose.Custom('quirk_neg_pp')]。\n\n「我々の関係は終わりだ、これがいい結果を生むには我々はあまりにも違いすぎる。もう自分のことは自分でやりなさい。」"
+ mentor_student.0001.a:0 "結構だ。"
+ mentor_student.0002.desc:1 "「もう貴方に教えることは何も残っていない。」\n\n我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )][mentor_to_lose.GetTitledFirstName]は[mentor_to_lose.Custom('quirk_pos_adverb')]微笑み、頷いた。「まだまだ学ぶべきことは多いですが、ここからは自分で学んで行きなさい。」"
  mentor_student.0002.a:1 "[mentor_to_lose.GetSheHe|U]は本当に多くのことを教えてくれた！"
  mentor_student.0002.b:0 "我々の関係はさらに強いものとなったように感じる。"
  mentor_student.0003.t:0 "考え直す"

@@ -1,7 +1,7 @@
 ﻿l_english:
  hunt_header:0 "狩猟:"
  hunt.1001.t:1 "$hunt_header$ [ROOT.Char.Custom('LocalAnimal')|U]"
- hunt.1001.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hunting_courtier_1') )]である[hunting_courtier_1.GetTitledFirstName]が最初にそれを目撃した。 [ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]は周囲の景色と見分けるのが困難だが、たしかに下草を通して私たちを観察している。\n\n目があった瞬間、私の考えが伝わったかのように突如として飛び逃げた！"
+ hunt.1001.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hunting_courtier_1') )]である[hunting_courtier_1.GetTitledFirstName]が最初にヤツを目撃した。 [ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]は周囲の景色に溶け込み見分けがつかない。だが、たしかに藪の中から我らを観察している。\n\n目があった瞬間、私の考えが伝わったかのように突如として飛び逃げた！"
  hunt.1001.a:0 "走れ！"
  hunt.1001.b:0 "今はゆっくり進もう、 あの崖は険しそうだしな。"
  hunt.1002.desc_wounded_courtier:0 "[ROOT.Char.Custom('LocalAnimal')]を追いかけ渓谷を走り抜けていると、突如として[hunting_courtier_1.GetTitledFirstNamePossessive]の馬が足を取られ、[hunting_courtier_1.GetHerHim]は悲鳴と共に地面へ突き落とされた。\n\n命に別状はないようだが、[hunting_courtier_1.GetTitleTierName]はねじれるような痛みに苛まれている。"
@@ -132,7 +132,7 @@
  hunt.4008.c:0 "[heir_participant.GetFirstNameNoTooltip]は[heir_participant.GetHerHis]の犯罪に責任を取る必要がある。"
  hunt.4008.d:0 "[ROOT.Char.Custom('LocalAnimal')]に二人とも殺られてしまうとは最悪だ。"
  hunt.4009.t:1 "$hunt_header$ 狩られる"
- hunt.4009.desc:0 "#EMP がさっ！#!\n近くまで引き付けていた[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]が[ROOT.Char.Custom('TerrainType')]の中に消え、音のした方に振り返る。\n\n[schemer.GetTitledFirstName]、ナイフを引き抜いた我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('schemer'))]は私の後ろに立ち、その目には強い殺意が見て取れる。"
+ hunt.4009.desc:0 "#EMP がさっ！#!\n近くまで引き付けていた[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]が[ROOT.Char.Custom('TerrainType')]の中に消え、私は音のした方に振り返る。\n\n[schemer.GetTitledFirstName]、ナイフを引き抜いた我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('schemer'))]は私の後ろに立ち、その目には強い殺意が見て取れる。"
  hunt.4009.a:0 "お前では私に勝てぬ！"
  hunt.4009.a.success:0 "[schemer.GetTitledFirstNameNoTooltip]から逃げる"
  hunt.4009.a.failure:0 "[schemer.GetTitledFirstNameNoTooltip]から逃げるが負傷する"

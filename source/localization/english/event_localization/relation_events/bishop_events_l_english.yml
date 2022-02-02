@@ -19,7 +19,7 @@
  bishop.1011.b.outcome:0 "街路で血を流しているのが発見された"
  all_my_theocratic_vassals:0 "私のすべての神権制の封臣"
  bishop.1011.c:0 "理由を説明させてくれ…"
- bishop.1011.c.success_vassal:0 "[bishop.GetTitledFirstNameNoTooltip]は、そのために仲間を集めるほど納得している。"
+ bishop.1011.c.success_vassal:0 "[bishop.GetTitledFirstNameNoTooltip]は大義のために仲間を集めることに納得している"
  bishop.1011.c.success:0 "[bishop.GetTitledFirstNameNoTooltip]は私の動機を理解する。"
  bishop.1011.c.failure:0 "[bishop.GetTitledFirstNameNoTooltip]は無感動だ"
  bishop.1011.c.failure.tt:0 "[bishop.GetSheHe|U]が思い切った行動に出ます"

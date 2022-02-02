@@ -104,7 +104,7 @@
  SCHEME_EXPOSE_OWNER_EFFECT:0 "[CHARACTER.GetShortUIName]が[SCHEME.GetName|V]の首謀者であることが暴かれます"
  THEY_ARE_EXPOSED_AS_AGENT:1 "[TARGET_CHARACTER.GetShortUIName|U]が[agent|E]であることが暴かれます"
  THEY_HAVE_BEEN_EXPOSED_AS_AGENT:1 "[TARGET_CHARACTER.GetShortUIName|U]が[agent|E]であることが暴かれました"
- THEY_ARE_EXPOSED_AS_AGENT_IN_SCHEME_NAME:0 "[TARGET_CHARACTER.GetShortUIName|U]が[SCHEME.GetTarget.GetShortUIName]に対する[SCHEME.GetName]における[agent|E]であることが暴かれます"
+ THEY_ARE_EXPOSED_AS_AGENT_IN_SCHEME_NAME:0 "[TARGET_CHARACTER.GetShortUIName|U]が、[SCHEME.GetTarget.GetShortUIName]を対象とした [SCHEME.GetName]の[agent|E]だと暴かれます"
  THEY_HAVE_BEEN_EXPOSED_AS_AGENT_IN_SCHEME_NAME:0 "[TARGET_CHARACTER.GetShortUIName|U]が[SCHEME.GetTarget.GetShortUIName]に対する[SCHEME.GetName]における[agent|E]であることが暴かれました"
  SCHEME_COOLDOWN_EFFECT:0 "$DURATION|V$までの間、[TARGET_CHARACTER.GetShortUIName]に対する$TYPE|V$は開始できません"
  SCHEME_EXPOSE_CHARACTER_EFFECT:0 "[CHARACTER.GetShortUIName]が[SCHEME.GetName|V]にかかわっていることが暴かれます"

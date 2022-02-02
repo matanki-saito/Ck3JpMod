@@ -104,7 +104,7 @@
  stewardship_duty.4014.desc:0 "\n\n[my_liege.GetSheHe|U]がその座に在るのは[faction_member.GetFaith.HighGodNamePossessive]の意志だと私に思い出させた。[my_liege.GetHerHim]に反対するのは[faction_member.GetFaith.HighGodName]に反対することと同じことだ。"
  stewardship_duty.4014.a:0 "私は[my_liege.GetTitledFirstNameNoTooltip]に仕えながらも、[faction_member.GetFaith.HighGodName]にも仕えるのだ。"
  stewardship_duty.4015.t:0 "派閥の放棄"
- stewardship_duty.4015.desc:0 "[faction_member.GetSheHe]が私に忠誠を尽くすことで何を得るのかを明確にすることで、[faction_member.GetTitledFirstName]に[faction_member.GetHerHis]が[targeting_faction.GetName]の支持をやめるように説得した。\n\n[faction_member.GetHerHis|U]の不平不満は、私が提供しなければならなかったものに比べれば、あまりにも取るに足らないものだった。"
+ stewardship_duty.4015.desc:0 "明確にはっきりとさせた、忠誠を尽くすことの対価。それを交渉材料に[targeting_faction.GetName]の支持をやめるよう[faction_member.GetTitledFirstName]を説得した。\n\n[faction_member.GetHerHis|U]の不平不満の種は、こちらが差し出した対価に比べれば、あまりにも取るに足らない代物だった。"
  stewardship_duty.4015.a:0 "[faction_member.GetHerHim]には道理が通じると分かっていた！"
  stewardship_duty.4019.t:0 "派閥にしがみつく"
  stewardship_duty.4019.desc:0 "[faction_member.GetHerHim]を説得する努力にもかかわらず、[faction_member.GetTitledFirstName]は[targeting_faction.GetName]を去ろうとはせず、引き続き[faction_member.GetSheHe]は自分たちの利益を擁護し続けている。"

@@ -11,7 +11,7 @@
  CONVERT_BETROTHAL_TO_MARRIAGE:0 "[betrothal|E]を婚姻に変える"
  CHARACTER_UI_NAME:0 "[CHARACTER.GetUIName]"
  CREATE_MARRIAGE:1 "[CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]と[TARGET_CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]の[married|E]を提案します"
- BETROTHAL_ONE_CHARACTER:1 "[CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]と[TARGET_CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]の一人がまだ[child|E]であるため、[betrothed|E]を申し入れます。"
+ BETROTHAL_ONE_CHARACTER:1 "[CHARACTER.LocalPlayerString( '自分自身', 'CHARACTER_UI_NAME' )]と[TARGET_CHARACTER.LocalPlayerString( '自分自身', 'CHARACTER_UI_NAME' )]のどちらか一方がまだ[child|E]であるため、[betrothed|E]を申し入れます。"
  BETROTHAL_BOTH_CHARACTERS:1 "[CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]と[TARGET_CHARACTER.LocalPlayerString( 'Myself', 'CHARACTER_UI_NAME' )]が両者ともまだ[children|E]であるため、[betrothed|E]を申し入れます。"
  HAS_BETROTHAL_REASON:0 "既存の婚約: $VALUE|=+0$"
  CHARACTERS_ARE_BETROTHED:0 "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は[betrothed|E]している"

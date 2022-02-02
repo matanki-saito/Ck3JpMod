@@ -33,7 +33,7 @@
  stewardship_wealth.1051.b:0 "[freeman.GetSheHe]が大金を払えるのなら、その土地は[freeman.GetHersHis]のものだ。"
  stewardship_wealth.1051.d:0 "[target_county.GetNameNoTierNoTooltip]にある土地は私のもの、私だけのものだ！"
  stewardship_wealth.1061.t:0 "新たな習得"
- stewardship_wealth.1061.desc:0 "日々私の領国を管理する中で、追求できるいくつかの違った機会があることを私は理解している。\n\nそれぞれの機会には大きなポテンシャルがあるが、現実的にはその中の一つしか追求できない——最終的にどれが最も私に価値をもたらすのか決めなくてはならない。"
+ stewardship_wealth.1061.desc:0 "日々領国経営を重ねていく中で、探求に値する好機がいくつか違った形で訪れることがある。そういうものだと理解している。\n\nどの機会も大きなポテンシャルをそれぞれ秘めている。しかし、現実的に追求可能なのは一つだけ——最終的に最も価値をもたらすのはどれか、決めなくてはならない。"
  stewardship_wealth.1061.a:0 "失われた学術書の噂を聞いたことがある、再発見しよう。"
  stewardship_wealth.1061.a.success:0 "失われた学術書には膨大な知識の富が含まれている"
  stewardship_wealth.1061.a.failure:0 "失われた学術書は単なる古い台帳にすぎなかった"

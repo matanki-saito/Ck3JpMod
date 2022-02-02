@@ -291,7 +291,7 @@
  hungarian_invasion_war_warning_desc:0 "\n\n#X 移住は誰もが一回のキャンペーンごとに一度だけ試みることができます#!"
  HUNGARIAN_INVASION_WAR_NAME:1 "$mogyer$族による[TITLE.GetBaseName]への移住"
  HUNGARIAN_INVASION_WAR_NAME_BASE:0 ""
- HUNGARIAN_INVASION_CB_NAME:0 "パンノニアへの移住"
+ HUNGARIAN_INVASION_CB_NAME:0 "パンノニア移住"
  launch_hungarian_migration_scripted_effect.tt.pannonia_renamed:0 "$KINGDOM_PANNONIA$は$k_hungary$になります"
  launch_hungarian_migration_scripted_effect.tt.pannonia_renamed_and_usurped:0 "$KINGDOM_PANNONIA$が創設され、$k_hungary$に改名します"
  launch_hungarian_migration_scripted_effect.tt.destroy_other_kingdoms:0 "$k_hungary$以外に保有している[kingdoms|E]は廃止されます"

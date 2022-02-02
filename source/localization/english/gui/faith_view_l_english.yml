@@ -105,7 +105,7 @@
  RELIGIOUS_HEAD_TEMPORAL_HEAD:0 "[head_of_faith_temporal|E][head_of_faith|E]#E :#!"
  FAITH_BELIEFS:0 "信仰"
  FAITH_HOLY_SITES:0 "聖地"
- FAITH_HOLY_SITE_EXPLANATION:0 "[Faith.GetAdjectiveNoTooltip]を信仰する[ruler|E]によって支配されている聖地は[Faith.GetNameNoTooltip]の信徒すべてにボーナスを与えます"
+ FAITH_HOLY_SITE_EXPLANATION:0 "[Faith.GetAdjectiveNoTooltip]信仰の[ruler|E]が支配している聖地は、信徒すべてにボーナスを与えます"
  FAITH_HOLY_SITE_HOLDER_TOOLTIP:0 "#T [Character.GetPrimaryTitle.GetNameNoTooltip]\n#![ruler|E]: [Character.GetUIName]\n[faith|E]: [Character.GetFaith.GetName]\n\n[Select_CString( GuiHolySiteItem.IsHeldByFaith, '#same ', '#weak ' )][HolySite.GetName]の統治者が[Character.GetFaith.GetAdjectiveNoTooltip]の信徒であるため、この聖地はすべての[Faith.GetAdjectiveNoTooltip]の人物に対して[Select_CString( GuiHolySiteItem.IsHeldByFaith, 'ボーナスを与え', 'いかなるボーナスも与え' )][Select_CString( GuiHolySiteItem.IsHeldByFaith, 'ます', 'ません' )]#!\n\n#I クリックで表示#!"
  FAITH_DOCTRINES_HEADING:0 "#E [doctrines|E]#!"
  FAITH_CORE_TENETS_HEADING:0 "#E [core_tenets|E]#!"

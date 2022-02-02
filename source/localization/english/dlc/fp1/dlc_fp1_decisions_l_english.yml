@@ -17,7 +17,7 @@
  hold_gruesome_festival_decision_blot_name:0 "生贄の大祭（ブロート）を開く"
  hold_gruesome_festival_decision_fallback_name:0 "大生贄祭の開催"
  hold_gruesome_festival_decision_desc.gf_humsac_practitioner:0 "全ての[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]が寄り集まり[ROOT.Char.GetFaith.PantheonTerm]に生贄を捧げる時が来た。これらの儀式は忠実なる信徒たちを互いに結びつけるだけでなく、全地の[ROOT.Char.GetTitleAsNameNoTooltip]としての我の立場を確認するものである。"
- hold_gruesome_festival_decision_desc.non_gf_practioner:0 "私の臣民の中には、自分たちの[GetPlayer.GetTitleAsNameNoTooltip]に祝福された盛大な生贄を捧げるものがいる。たとえ一握りの者たちのためでも実行することに同意すれば、まちがいなく彼らの賛成を得られるだろう。しかし、さらに野蛮な慣習を受け入れることは、彼らのやり方を軽蔑する者達が私を軽蔑することになるかもしれない。"
+ hold_gruesome_festival_decision_desc.non_gf_practioner:0 "私の臣民の中には、自分たちの[GetPlayer.GetTitleAsNameNoTooltip]に祝福された盛大な生贄を捧げるものがいる。たとえ一握りの者たちのためでも実行に同意すれば、まちがいなく賛同を得られるだろう。しかし、より野蛮な慣習の受け入れは、そういった慣習を軽蔑する者達による私自身への軽蔑を招くかもしれない。"
  hold_gruesome_festival_decision_tt:0 "あなたは盛大なる[GetPlayer.Custom('GruesomeFestivalName')]を催します。それに関連して、\n#indent_newline:0 $EFFECT_LIST_BULLET$ 饗宴の規模を決めます\n#indent_newline:0 $EFFECT_LIST_BULLET$  [designate_chief_sacrifice_or_who|E]を生贄に選びます\n#indent_newline:0 $EFFECT_LIST_BULLET$ あなたの臣民の[faith|E]の[core_tenets|E]に応じて[county_opinion|E]と[character|E] [opinion|E]が増減します"
  hold_gruesome_festival_decision_tt.piety_gain:0 "#indent_newline:0 あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、[piety|E]を獲得します"
  hold_gruesome_festival_decision_tt.piety_lose:0 "#indent_newline:0 #EMP あなたは[GetPlayer.GetFaith.GetAdherentName]であるため、#! [piety|E]を失います"

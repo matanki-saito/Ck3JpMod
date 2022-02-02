@@ -51,7 +51,7 @@
  DYNASTY_VIEW_EXPAND_ROOT:0 "#T 親世代#!まで展開"
  DYNASTY_VIEW_DYNAST_OF:0 "[Character.GetDynasty.GetBaseNameNoTooltip]王朝の[dynast|E]"
  DYNASTY_VIEW_BECOME_DYNAST_ONE_HOUSE:0 "[Character.GetDynasty.GetBaseNameNoTooltip]王朝下の家はただ一つだけです。ゆえに当該[house_head|E]は[dynast|E]を兼任します。"
- DYNASTY_VIEW_BECOME_DYNAST:1 "$game_concept_dynast$になるためには、別の[house_head|E]が現在の$game_concept_dynast$と比較して、かなり大きな最大軍事力を獲得する必要があります(@soldier_icon![Character.GetDynasty.GetRequiredPowerToReplaceDynast|0])"
+ DYNASTY_VIEW_BECOME_DYNAST:1 "他の[house_head|E]が$game_concept_dynast$となるには、現$game_concept_dynast$よりもかなり大きな最大軍事力が必要です(@soldier_icon![Character.GetDynasty.GetRequiredPowerToReplaceDynast|0])"
  DYNASTY_VIEW_SHOW_LEGACY_COST:0 "コスト: [dynasty_prestige_i][Dynasty.GetNextPerkCost|V0]"
  DYNASTY_HOUSE_VIEW_PROGRESS_TOOLTIP:0 "進捗: [dynasty_prestige_i][Dynasty.GetPrestige|V0]/[Dynasty.GetNextPerkCost|0] 次の[dynasty_perk|E]まで"
  DYNASTY_HOUSE_VIEW_PROGRESS_LABEL:0 "次の[dynasty_perk|E]"

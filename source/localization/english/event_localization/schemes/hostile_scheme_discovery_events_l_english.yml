@@ -36,7 +36,7 @@
  hostile_scheme_discovery.4001.a:0 "これは大きな誤解だ！"
  hostile_scheme_discovery.4001.b:0 "饗宴で友人を作る方法を教えてあげる。"
  hostile_scheme_discovery.1002.t:0 "陰謀者の発見！"
- hostile_scheme_discovery.1002.intro:0 "我が[spymaster.GetCouncilTitle]が重大な知らせを持ってきた。[owner.Custom2('MyCharacterIntroduction', ROOT.Char)]が首謀者となる"
+ hostile_scheme_discovery.1002.intro:0 "我が[spymaster.GetCouncilTitle]が重大な知らせを持ってきた。[owner.Custom2('MyCharacterIntroduction', ROOT.Char)]が首謀者となり"
  hostile_scheme_discovery.1002.intro_no_spymaster:0 "重大な知らせがもたらされた。[owner.Custom2('MyCharacterIntroduction', ROOT.Char)]が首謀者となり"
  hostile_scheme_discovery.1002.murder:0 "計画した殺人の対象は"
  hostile_scheme_discovery.1002.abduction:0 "計画した誘拐の対象は"
