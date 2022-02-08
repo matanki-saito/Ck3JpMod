@@ -84,7 +84,7 @@
  intrigue_dread.1901.a:0 "試してみたいと思っていた毒薬があるのだが…"
  intrigue_dread.1901.b:0 "[disliked_courtier.GetSheHe]が宮廷で笑い者にされたらさぞ恥ずかしいだろうな。"
  intrigue_dread.1901.b.tt:0 "[disliked_courtier.GetFirstNamePossessiveNoTooltip]が[GetTrait('gregarious').GetName( GetPlayer )]の特性を持つためこのオプションが選択可能です"
- intrigue_dread.1901.c:0 "[disliked_courtier.GetHerHim]のために財布を軽くすれば、私の気分も軽くなる！"
+ intrigue_dread.1901.c:1 "A lighter purse for [disliked_courtier.GetHerHim] leads to a lighter mood for me!"
  intrigue_dread.1901.c.tt:0 "[disliked_courtier.GetFirstNamePossessiveNoTooltip]が[GetTrait('greedy').GetName( GetPlayer )]の特性を持つためこのオプションが選択可能です"
  intrigue_dread.1901.d:0 "「聞いたかい？[disliked_courtier.GetSheHe|U]はベッドじゃ小麦粉みたいにつまんないって。」"
  intrigue_dread.1901.d.tt:0 "[disliked_courtier.GetFirstNamePossessiveNoTooltip]が[GetTrait('lustful').GetName( GetPlayer )]の特性を持つためこのオプションが選択可能です"

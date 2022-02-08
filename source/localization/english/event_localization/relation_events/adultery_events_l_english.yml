@@ -49,7 +49,7 @@
  adultery.0009.a:0 "私は何と愚かなことを…"
  adultery.1001.t:0 "忠節への疑問"
  adultery.1001.opening:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))]、[mother.GetTitledFirstName]のお腹の中には子供がおり、本来は大喜びするべき状況だ。しかし、[mother.GetSheHe]の挙動不審な様子を見ると、私は何かがおかしいという気持ちを拭えない。 \n\n"
- adultery.1001.default:0 "[mother.GetSheHe]が言うとおり、私が本当に父親なのか、それとも[mother.GetSheHe]が私たちの結婚を裏切ったのか？"
+ adultery.1001.default:1 "Am I really the father as [mother.GetSheHe] claims, or has [mother.GetSheHe] betrayed our union?"
  adultery.1001.hard_to_believe:0 "[mother.GetSheHe]がこのように私を裏切るとは信じ難いが、私が父親ではないという事もあり得るのだろうか？"
  adultery.1001.easy_to_believe:0 "[mother.GetSheHe]が私を裏切る可能性は非常に高そうだし、[mother.GetHerHis]の子供の父親は私ではないのだろう。"
  adultery.1001.desc_sadistic:0 "私を苦しめるためだけに他人の子供を産むなんて、[mother.GetHerHim]ならやりかねない。"

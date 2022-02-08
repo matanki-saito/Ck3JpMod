@@ -52,3 +52,5 @@
  vassal_interaction.0023.a:0 "結構だ。"
  vassal_interaction.0030.desc:0 "あなたの嘆願は正当であり、私はあなたの見解に考えを改めています。\n\n私はここに、[recipient.GetPrimaryTitle.GetNameNoTooltip]に関する、現在までの一切すべての犯罪を永久に赦免します。あなたは自由な身分にとどまります!"
  vassal_interaction.0030.a:0 "これで安心！"
+ vassal_interaction.0040.desc:0 "While you hold the [target.GetBaseName], it is clear to everyone that it is #EMP I#! who govern it. Its many [county_in_title.Custom('TerrainTypeProvince')] and villages are overseen by #EMP my#! bailiffs and #EMP my#! magistrates.\n\nTherefore, I am laying claim to it. You are welcome to grant the title to me whenever you wish, else I am sure that it will fall to me in due time.\n\nOne way or another."
+ vassal_interaction.0040.a:0 "I have let [actor.GetFirstNameNoTooltip] grow too strong..."

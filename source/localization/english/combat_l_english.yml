@@ -89,7 +89,7 @@
  COMBAT_PREDICTION_LEVEL_3:1 "勝利の可能性が高いです"
  COMBAT_PREDICTION_LEVEL_4:1 "決定的な勝利を収めるでしょう"
  COMBAT_PREDICTION_EDGE_BETTER_COMMANDER:0 "[army_commander|E]の優位"
- COMBAT_PREDICTION_EDGE_COMMANDER_TRAITS:0 "[army_commander|E][traits|E]の多さ"
+ COMBAT_PREDICTION_EDGE_COMMANDER_TRAITS:1 "More [commander_traits|E]"
  COMBAT_PREDICTION_COMBAT_HEADER:0 "戦闘の可能性（$DURATION$後）"
  COMBAT_PREDICTION_EDGE_SOLDIERS_COUNT:0 "[soldiers|E]の多さ"
  COMBAT_PREDICTION_EDGE_QUALITY_COUNT:0 "[troop_quality|E]の高さ"
@@ -99,4 +99,3 @@
  MAAS_COUNTERED_IN_COMBAT:0 "[men_at_arms_counter|E]のため効果が低下した状態で戦う[men_at_arms|E]:"
  COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0]対[Combat.GetRightSide.GetCurrentFightingMen|0]\n#I クリックで表示#!"
  COMMANDER_ADVANTAGE_DESC:1 "#T 指揮官[advantage|E]: $ADVANTAGE$#!\n軍事能力: $SKILL|+=$\n$MODIFIERS$"
- COMMANDER_ADVANTAGE_ADJUSTED_DESC:1 "#T 指揮官[advantage|E]: $ADVANTAGE$#!\n軍事能力: $SKILL|+=$\n$MODIFIERS$$ADJUSTMENT$"

@@ -24,3 +24,8 @@
  south_asia.0013.t:0 "簒奪されし聖なる意図"
  south_asia.0013.desc:0 "領土を失ったことで、ガンジス川への私の権威は、もはやわが領国の人々や[ROOT.Char.GetFaith.PriestNeuterPlural]から尊重されなくなった。かわって[ruler_of_ganges.GetTitledName]が、かつて私が聖なる川の管理者として号した地位を主張している。"
  south_asia.0013.a:0 "あの成り上がりはただの詐欺師だ！"
+ south_asia.0021.t:0 "The [founder.GetTitleAsNameNoTooltip] of $k_bene_israel$"
+ south_asia.0021.desc:0 "Forced to live nomadic lives and living in small enclaves across the world, the Jewish people have lacked a home to call their own. The centuries of wandering, it seems, are at last at an end.\n\n[founder.GetNameNoTooltip] has been crowned [founder.GetTitleAsNameNoTooltip] of $k_bene_israel$. Though unlikely, it seems the Jewish people have found their home along the West coast of India, with the [founder.GetFaith.ReligiousHeadTitleName] restored and the declaration of a new Israel, [founder.GetTitledFirstNameNoTooltip] believes [founder.GetHerselfHimself] to be ushering in a new golden age for followers of Judaism the world over."
+ south_asia.0021.a:0 "A new home for us!"
+ south_asia.0021.b:0 "There is only one Israel!"
+ south_asia.0021.c:0 "What an unlikely coronation."

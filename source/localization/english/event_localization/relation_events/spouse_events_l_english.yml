@@ -93,7 +93,7 @@
  spouse.2005.t:0 "熱心に聞く"
  spouse.2005.desc:0 "[told_of_character.GetTitledFirstName]は[spouse.GetFirstName]に関する私の話に非常に感銘を受けたようだ！出発前[told_of_character.GetTitledFirstName]は、抱きしめようと[spouse.GetHerHim]を引き寄せた！"
  spouse.2005.a:0 "[spouse.GetHerHim]を飾る必要はほとんどなかった。"
- spouse.2006.t:0 "賛美に値する[spouse.GetWomanMan]"
+ spouse.2006.t:1 "A [spouse.GetWomanMan|U] Worthy of Praise"
  spouse.2006.good:0 "\n\n[initial_spouse.GetSheHe|U]は、私が[spouse.GetFirstName]を尊重すべきことについて、新たな視点を与えてくれた。"
  spouse.2006.a:1 "私に示してくれたことを感謝する、[initial_spouse.GetFirstNameNoTooltip]。"
  spouse.2007.t:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('initial_spouse'))]の支え"

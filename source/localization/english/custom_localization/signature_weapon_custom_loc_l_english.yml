@@ -235,3 +235,5 @@
  signature_weapon_killed_snapping_herhis_spine:0 "[second.GetHerHis]の背骨を真っ二つに折る"
  signature_weapon_killed_impaling_herhis_spine:0 "[second.GetHerHis]の背骨を串刺しにする"
  signature_weapon_killed_hacking_herhis_spine_in_two:0 "[second.GetHerHis]の背骨を真っ二つに叩き切る"
+ signature_weapon_name:0 "[ROOT.Var('signature_weapon_scope').Artifact.GetName]"
+ signature_weapon_type:0 "[ROOT.Char.Custom('signature_weapon')]"

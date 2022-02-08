@@ -8,3 +8,4 @@
  TRIGGER_LINE_BLOCKER:0 "@warning_icon! #X $TEXT$#!"
  TRIGGER_AND:0 "これらのすべて:"
  TRIGGER_OR:0 "以下の一つ以上を満たしている:"
+ SUPPRESS:0 ""

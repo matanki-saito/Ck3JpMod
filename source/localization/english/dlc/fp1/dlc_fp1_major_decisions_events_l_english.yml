@@ -76,3 +76,4 @@
  fp1_major_decisions.1011.c:0 "私の髪の毛は残る。それは、私が経験したすべての苦労の跡なのだから。"
  fp1_major_decisions.1011.c.tt:0 "あなたは$nick_tanglehair$として語り継がれるだろう"
  fp1_major_decisions.1012.t:0 "[king_of_norway.GetTitledFirstNameNoTooltip]が初めて$k_norway$を主張した"
+ fp1_founder_founded_the_jomsviking_tt:0 "A [holy_order|E] of [founder.GetTitledFirstNamePossessiveNoTooltip] [faith|E] has been founded\n$EFFECT_LIST_BULLET$[founder.GetFirstNameNoTooltip] became the order's [holy_order_patron|E]\""

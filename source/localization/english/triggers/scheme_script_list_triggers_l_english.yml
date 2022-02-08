@@ -13,4 +13,4 @@
  scheme_power_resistance_difference_trigger:0 "計画への抵抗力が異なっている"
  can_start_scheme_trigger:0 "[scheme|E]を開始可能"
  is_scheme_exposed_trigger:0 "[scheme|E]が露見している"
- NOT_WANTS_TO_BE_SOULMATES:0 "[TARGET_CHARACTER.GetTitledFirstName]が魂の伴侶となることを望んでいない"
+ NOT_WANTS_TO_BE_SOULMATES:1 "[TARGET_CHARACTER.GetShortUIName] does not want to be soulmates"

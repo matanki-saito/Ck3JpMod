@@ -17,7 +17,7 @@
  berserker_rage_killed_enemy_no_trait_friendly:1 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]が[TARGET_CHARACTER.GetShortUINameNoTooltip]の首をはねた！"
  berserker_rage_no_enemy_enemy:1 "敵の$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]が我が兵を相手に暴れ回り、[GetTrait('berserker').GetName( GetNullCharacter )]となった！"
  berserker_rage_no_enemy_friendly:1 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]が敵兵を相手に暴れ回り、[GetTrait('berserker').GetName( GetNullCharacter )]となった！"
- commander_wounded_no_enemy_friendly_player:1 "あなたは戦闘指揮中に敵兵によって負傷させられてしまった！"
+ commander_wounded_no_enemy_friendly_player:2 "You were wounded while leading your troops in battle!"
  commander_wounded_no_enemy_friendly:0 "指揮官[CHARACTER.GetUINameNoTooltip]は[CHARACTER.GetHerHis]は戦闘指揮中に負傷させられた！"
  commander_wounded_no_enemy_enemy:0 "ある勇敢な兵士が健闘し、敵の指揮官[CHARACTER.GetUINameNoTooltip]を戦闘中に負傷させた！"
  commander_wounded_by_enemy_friendly_player:1 "あなたは戦闘指揮中に[TARGET_CHARACTER.GetUINameNoTooltip]によって負傷させられてしまった！"

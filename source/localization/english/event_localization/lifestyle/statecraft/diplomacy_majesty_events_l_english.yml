@@ -176,3 +176,4 @@
  diplomacy_majesty_special.1050.title:0 "討論がうやむやのまま終了"
  diplomacy_majesty_special.1050.message:0 "[debater.GetTitledFirstName]を相手に私の討論の腕前を試す機会は訪れなかった。"
  diplomacy_majesty.4072.c:0 "$diplomacy_majesty.4070.b$"
+ diplomacy_majesty.4070.d:0 "My Court Tutor can certainly help me!"

@@ -10,3 +10,7 @@
  establish_bactrian_supremacy_decision_desc:0 "#F 何世代にもわたってバクトリア王は文明の交差点を支配してきた。彼らの外套を取り上げキャラバンサライ(隊商宿)からオアシスまで我らが拡大するときが来た。ここでは空の四隅の下で、私たちが統治者である。#!"
  establish_bactrian_supremacy_decision_tooltip:0 "東西南北を結ぶ交易路の支配を誇示します"
  establish_bactrian_supremacy_decision_confirm:0 "祖先の地を請求する！"
+ establish_yamagate_in_samarkand_decision:0 "Establish the $manichean_religious_head_title_name$ in Samarkand"
+ establish_yamagate_in_samarkand_decision_desc:0 "#F Just as Mar Sisin once led the faith in the Holy See of Babylon, so does our current $manichean_religious_head_title$ lead us here in Turan and Persia. By formalising the church’s divine mandate in Samarkand, the Manichean faith will be reborn and spread to a new people!#!"
+ establish_yamagate_in_samarkand_decision_tooltip:0 "Claim a new holy land in the east"
+ establish_yamagate_in_samarkand_decision_confirm:0 "$manichean$ is born anew!"

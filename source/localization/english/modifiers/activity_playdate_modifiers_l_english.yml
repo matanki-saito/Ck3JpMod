@@ -1,6 +1,6 @@
 ﻿l_english:
- playdate_minor_trinket_modifier:0 "美しい飾り物"
- playdate_minor_trinket_modifier_desc:0 "この人物は美しい小さな飾り物を持ち歩いている。"
+ playdate_minor_trinket_modifier:1 "Beautiful [SCOPE.Custom('child_object_of_interest_random')|U]"
+ playdate_minor_trinket_modifier_desc:1 "A beautifully crafted little toy trinket, sure to bring a smile to the face of any child."
  playdate_showing_weakness_modifier:0 "無力"
  playdate_showing_weakness_modifier_desc:0 "この人物は自身が無力であることを示した。"
  playdate_shown_bravery_modifier:0 "勇気を示した"

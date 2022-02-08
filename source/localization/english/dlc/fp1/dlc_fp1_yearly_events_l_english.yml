@@ -513,7 +513,7 @@
  fp1_yearly.1063.desc.achievements.double.outro:0 "[ship_funeral_candidate.GetHerHis]の喪失が我々の人生に残す穴を埋めることはできない。」"
  fp1_yearly.1063.desc.achievements.triple.intro:0 "は多くの顔を持っていた。[ship_funeral_candidate.GetSheHe|U]は、"
  fp1_yearly.1063.desc.achievements.triple.connector:0 "$fp1_yearly.1063.desc.achievements.double.connector$"
- fp1_yearly.1063.desc.achievements.triple.outro:1 "しかし私にとって何よりもまず、[ship_funeral_candidate.GetSheHe]は我が[mourner.Custom2('RelationToMe', ship_funeral_candidate)]であった。我々はもう二度と[ship_funeral_candidate.GetHerHis]のような人には会えないだろう。」"
+ fp1_yearly.1063.desc.achievements.triple.outro:2 "but to me, first and foremost, [ship_funeral_candidate.GetSheHe] was my [ship_funeral_candidate.Custom2('RelationToMe', mourner)]. We will never see [ship_funeral_candidate.GetHerHis] like again.\""
  fp1_yearly.1063.desc.ship_stone_small:0 "\n\n私の後ろにある墓には、すでに小さな船の複製が納められ、重みのある墓石に描かれ、玉石で埋められ、重みのある土の墓の下に埋められている。"
  fp1_yearly.1063.desc.ship_stone_grand:0 "\n\n私の後ろにある大きな墓には、すでに巨大な船の複製が収められ、ルーン石碑に描かれ、玉石で埋め尽くされ、それぞれの大きな石は故人の人生を物語っている。"
  fp1_yearly.1063.desc.ship_wood_ornate:0 "\n\n私の後ろにある墓には異国の木材と最高の船大工の手によって作られた船が納められている。この船が現世で航海することは決してないが、[ship_funeral_candidate.GetFaith.PantheonTerm]を喜ばせ故人に祝福を与えるかもしれない。"

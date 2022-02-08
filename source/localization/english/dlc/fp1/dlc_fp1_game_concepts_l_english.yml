@@ -2,7 +2,6 @@
  game_concept_designate_chief_sacrifice:0 "主な生け贄の指定"
  game_concept_designate_chief_sacrifice_article:0 "要となる生け贄の指定"
  game_concept_designate_chief_sacrifice_chief_sacrifice:0 "要となる生け贄"
- game_concept_designate_chief_sacrifice_or_who:0 "あるいは他の誰か"
  game_concept_designate_chief_sacrifice_desc:0 "生贄を捧げる盛大な祭を行う際、[prisoners|E]の一人を主要な生贄として指定できます。この$game_concept_prisoner$は最初に殺され、生贄となったキャラクターに起因して、より多くの[piety|E]を得ることがあります。\n\n望ましい生贄とは: \n$EFFECT_LIST_BULLET$ [faith|E]が[faith_hostile|L]または[faith_evil|L]であり土地を持たない$game_concept_characters$\n$EFFECT_LIST_BULLET$ [landed|E]$game_concept_characters$のうち、[rank|E]が[count|E]以上の人物\n$EFFECT_LIST_BULLET$[heads_of_faith|E]（これは各所への波紋があるかもしれませんが）"
  game_concept_varangian_adventure:0 "ヴァリャーグの冒険"
  game_concept_varangian_adventures:0 "ヴァリャーグの冒険"

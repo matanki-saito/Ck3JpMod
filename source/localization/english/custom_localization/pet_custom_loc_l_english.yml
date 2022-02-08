@@ -47,3 +47,8 @@
  dog_name_choplicker:0 "チョプリッカー"
  dog_name_shadow:0 "くろ"
  dog_name_snow:0 "スノウ"
+ eye_color_brown:0 "brown"
+ eye_color_gray:0 "gray"
+ cat_name_mittens_possessive:0 "Mittens'"
+ cat_name_paws_possessive:0 "Paws'"
+ cat_name_mittens:0 "Mittens"

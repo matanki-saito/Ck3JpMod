@@ -17,3 +17,5 @@
  spouse_held_local_tourney_opinion:0 "配偶者が地元で競技会を開催した"
  spouse_martial_display_of_force_opinion:0 "力の誇示"
  spouse_coerced_gift_opinion:0 "贈り物の強要"
+ chancellor_bestow_royal_favor_opinion:0 "Royal Favor"
+ steward_convince_dejure_upset_modifier:0 "Diplomatic Blunder"

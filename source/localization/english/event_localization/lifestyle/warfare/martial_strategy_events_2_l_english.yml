@@ -36,3 +36,7 @@
  martial_strategy.7000.d:0 "愚か者め！これ以上優れた軍略などない。"
  martial_strategy.7000.e:0 "お前の言うことにも一理ある…"
  martial_strategy.7000.f:0 "我々がお前を踏みつぶせば、その効率の良さが理解できるだろうよ。"
+ martial_strategy.4010.d:0 "My $royal_architect_court_position$ shall supervise the reconstruction."
+ martial_strategy.4010.d.tt_crit_success:0 "Your $royal_architect_court_position$ masterfully improves the walls of [crumbling_holding.GetNameNoTierNoTooltip]"
+ martial_strategy.4010.d.tt_success:0 "Your $royal_architect_court_position$ successfully rebuilds the walls of [crumbling_holding.GetNameNoTierNoTooltip]"
+ martial_strategy.4010.d.tt_botch:0 "Your $royal_architect_court_position$ completely botches the reconstruction"

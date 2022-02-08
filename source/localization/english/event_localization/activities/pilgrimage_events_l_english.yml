@@ -166,7 +166,7 @@
  pilgrimage.3003.b:0 "この巡礼の旅路にこのような道楽を楽しめるとは喜ばしい！"
  pilgrimage.3003.c:0 "その[doomsayer.GetWomanMan]は司祭でも#EMP なんでもない#!！[doomsayer.GetHerHim]を引き倒せ！"
  pilgrimage.3101.t:0 "$pilgrimage_header$ イフラーム"
- pilgrimage.3101.desc:0 "メッカの近くにいると、私は今、メッカの神聖な空間と外の世界との境界であるミカートの前に立っている。\n\nここから私はイフラームの状態に入らなければならない。儀式の浄化を受け、規定の服装だけをしなければならない。私はまた、性的な行為、罵り、傲慢で無礼な考えを慎まなければならない。"
+ pilgrimage.3101.desc:1 "As I near Mecca, I find myself now standing before the Mīqāt, the boundary between the sacred spaces of Mecca and the outside world.\n\nFrom this point on I must enter a state of Ihram, undergoing a ritual cleansing and wearing only the prescribed attire. I must also refrain from sexual acts, swearing, and arrogant or rude thoughts."
  pilgrimage.3101.a:0 "私は最大限の献身をもってイフラームに専念する。"
  pilgrimage.3101.b:0 "ええと…私が過ちを犯しても誰も気づかないと思う。"
  pilgrimage.3102.t:0 "$pilgrimage_header$ ズィヤーラ"

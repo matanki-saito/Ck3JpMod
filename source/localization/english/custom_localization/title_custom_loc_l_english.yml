@@ -20,3 +20,4 @@
  TitleRelationToMe_PrimaryTitle:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]の[primary_title|E]\n"
  TitleRelationToMe_Title:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]の[title|E]\n"
  TitleRelationToMe_None:0 ""
+ MythicalFounder_fallback:0 "the legendary founders of this land"

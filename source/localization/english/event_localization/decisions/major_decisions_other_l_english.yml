@@ -21,3 +21,6 @@
  major_decisions.0001.desc:0 "旧来のやり方は機能しているし、我々は常にそのことを尊重するだろう。しかし、[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]として、我々の繁栄を維持する為には、封建主義とその原則を採用しなければならないと私は結論を出した。これは偉業につながる道への決定的な一歩である！"
  major_decisions.0001.a:0 "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]万歳！"
  major_decisions.0002.opening:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]"
+ major_decisions.0200.t:0 "Back to the Roots"
+ major_decisions.0200.desc:0 "Though I am used to a strict hierarchical system and peasants who do not ask questions when tilling the fields, I find myself ruling nothing but unruly tribespeople. These people do not respect me, they only respect strength.\n\nI will show them strength! I will shed the trappings of majesty that my subjects loathe and seize their hearts with a raised sword!"
+ major_decisions.0200.a:0 "I'll prove my value!"
