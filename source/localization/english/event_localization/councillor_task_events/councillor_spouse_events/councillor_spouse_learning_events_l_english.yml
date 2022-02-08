@@ -59,7 +59,7 @@
  councillor_spouse_learning.1304.desc:0 "配偶者は[religious_vassal.GetTitledFirstNameNoTooltip]の後援者だ"
  councillor_spouse_learning.1305.desc:0 "配偶者の敬虔さは[religious_head.GetTitleAsNameNoTooltip]に感動を与えている"
  councillor_spouse_learning.2603.t:1 "配偶者: 責務に応じて"
- councillor_spouse_learning.2603.desc:0 "評議員の中には血縁や影響力を行使することだけが仕事だと信じている奴がいるが、なんと愚かなことか！結果を得ることを期待しても、しばしば失望することになる。\n\n長い一日の後、[councillor.GetFirstName]に不満をぶつけていると、[councillor.GetSheHe]が口をはさんだ。「私にやらせてください。少し教えてあげれば、彼らの知恵も磨かれるかもしれません。」"
+ councillor_spouse_learning.2603.desc:0 "評議員の中には血縁による権利や影響力があるからこその役職だ、などと信じている奴がいるが、なんと愚かなことか！その成果は期待通りではあるが、失望させられることもたびたびだ。\n\nある長い一日を終えた後に愚痴を垂れていると、[councillor.GetFirstName]が口をはさんできた。「私に任せてください。少しお稽古してあげれば、彼らの知恵も磨かれるかもしれません。」"
  councillor_spouse_learning.2603.a:0 "[chancellor.GetCouncilTitle|U][chancellor.GetFirstNameNoTooltip]には家庭教師が必要だ。"
  councillor_spouse_learning.2603.b:0 "[marshal.GetCouncilTitle|U][marshal.GetFirstNameNoTooltip]には助けが必要だ。"
  councillor_spouse_learning.2603.c:0 "我が[steward.GetCouncilTitle][steward.GetFirstNameNoTooltip]にも教えてあげてくれ。"

@@ -10,7 +10,7 @@
  chancellor_task.1003.a:0 "これはとんでもない勘違いをしているに違いない..."
  chancellor_task.1003.message:0 "[councillor.GetCouncilTitle]は[neighbor.GetTitledFirstName]を怒らせた。"
  chancellor_task.1102.t:0 "巧みな外交"
- chancellor_task.1102.desc:0 "私の[councillor.GetCouncilTitle]、[councillor.GetTitledFirstName]はこのところ[target.GetName]との停戦条約は誤りがあり、非合法的で、私にとって不公平な内容が含まれているということを、封臣や近隣の君主に納得させるため忙しく働いていた。\n\n今や私は望むがままに[target.GetHerHim]に対して宣戦できる！"
+ chancellor_task.1102.desc:0 "私の[councillor.GetCouncilTitle]、[councillor.GetTitledFirstName]はこのところ [target.GetName] との停戦条約に関して、忙しく働いていた。締結した内容に穴があり非合法的で不公平であったと、封臣や近隣の君主から納得を得ようとしていたのだ。\n\n今や、再度の宣戦布告は、望むがままだ！"
  chancellor_task.1102.a:0 "信じられないほど素晴らしい仕事だ、[councillor.GetFirstNameNoTooltip]よ！"
  chancellor_task.1103.opening:0 "[neighbor.Custom2('AppropriateGreetingPositive', ROOT.Char)]"
  chancellor_task.1103.desc:0 "[councillor.GetCouncilTitle][councillor.GetTitledFirstName]と往復書簡を続けてきたが、私は貴公の新たな一面を知ったと言わざるをえない。もしかしたら我が友人と呼べることを誇りに思うような存在なのかもしれないとさえ感じる。"

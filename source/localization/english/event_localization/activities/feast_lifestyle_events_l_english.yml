@@ -1,6 +1,6 @@
 ﻿l_english:
  feast_lifestyle.1001.t:1 "$feast_header$ 戦語り"
- feast_lifestyle.1001.desc:0 "[strategy_opponent.GetTitledFirstName]は、[strategy_opponent.GetSheHe]に私の戦争に関する見解を誤りだと指摘する権利があると思っているのか？\n\n戦いに遭遇した瞬間に、私の考えは崩れ去ると主張している。[strategy_opponent.GetSheHe]が何を知っているというのだ？"
+ feast_lifestyle.1001.desc:0 "何の権利があると思って[strategy_opponent.GetTitledFirstName]は、 戦争に関する私の見解を誤りだと言い張るのか？\n\nいざ戦いとなれば、たちまちそのような考えは崩れ去るだろう、とのこと。一体[strategy_opponent.GetSheHe]が何を知っているというのだ？"
  feast_lifestyle.1001.a:0 "戦場で決着をつける機会がほしいところだ。"
  feast_lifestyle.1001.a.tt:2 "少なくとも[strategy_opponent.GetFirstName]は、貴方が[martial_lifestyle|E]の理解を正しいと主張できることを示した。"
  feast_lifestyle.1002.t:1 "$feast_header$ 隠された意味"
