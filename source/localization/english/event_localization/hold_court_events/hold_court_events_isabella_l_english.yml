@@ -1,5 +1,5 @@
 ﻿l_english:
- hold_court.4001.t:0 "Scourge"
+ hold_court.4001.t:0 "災厄"
  hold_court.4001.desc.intro:0 "[annoyed_vassal.GetTitledFirstName] storms to the front of my throne room. \"[ROOT.Char.Custom2('RelationToMeAddress', annoyed_vassal)|U], many think [preferred_heir.GetTitledFirstName] should become your successor over [annoying_heir.GetTitledFirstName]. It is known across [ROOT.Char.GetPrimaryTitle.GetNameNoTooltip] your heir [annoying_heir.GetTitledFirstNameNoTooltip] so offends as to make offense a skill!"
  hold_court.4001.heir_street_fight:0 "The bloody villain lingers outside of taverns and taunts drunken peasants into fights. Several have died in these brawls where [annoying_heir.GetSheHe] kills for sport!\""
  hold_court.4001.heir_robbery:0 "On my journey here I was robbed by a horse[annoying_heir.GetWomanMan] in garish finery. [annoying_heir.GetSheHe|U] stripped and tied me to a tree, before removing [annoying_heir.GetHerHis] mask and gloating [annoying_heir.GetSheHe] was actually [annoying_heir.GetTitledFirstNameNoTooltip]!\""

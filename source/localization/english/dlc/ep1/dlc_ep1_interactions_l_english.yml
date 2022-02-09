@@ -7,5 +7,5 @@
  indebt_guest_interaction.tt.direct_indebted_guest:0 "You will get a chance to direct [recipient.GetTitledFirstName] to go somewhere"
  indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName] will not be pressured and flees"
  INDEBT_GUEST_INTRIGUE_ACTOR:0 "[actor.GetShortUINamePossessive|U] [intrigue|E]: $VALUE|=+0$"
- INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[recipient.GetShortUINamePossessive|U] [intrigue|E]: $VALUE|=+0$"
+ INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[recipient.GetShortUINamePossessive|U][intrigue|E]: $VALUE|=+0$"
  INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "[recipient.GetShortUINamePossessive|U] excess [court_grandeur|E]: $VALUE|=+0$"

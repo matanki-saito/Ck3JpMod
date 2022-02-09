@@ -1,5 +1,5 @@
 ﻿l_english:
- court_jester_prefix:0 "Court Jester: "
+ court_jester_prefix:0 "宮廷道化師:"
  jester.100.t:0 "$court_jester_prefix$My Rival Fool, Covered in Stool"
  jester.100.desc:0 "Another stressful day... as I sit down to get some peace and quiet, my chamber doors suddenly burst open.\n\nIs that my rival-made-jester [jester.GetTitledFirstName], dressed up in a filth-soaked [jester.Custom('GetClothingArticle')] with an unbelievably garish [jester.Custom('GetAccessory')|l]!? Now [jester.GetSheHe] looks as excrement-like on the outside as I know [jester.GetHerHim] to be on the inside!\n\n\"Your [ROOT.Char.Custom('GetExpensiveDrink_Singular')]... my #EMP Liege#!\" [jester.GetSheHe] says, a massive frown across [jester.GetHerHis] face.\n\nSometimes life is good, after all."
  jester.100.a:0 "A toast to you, dear [jester.GetFirstNameNoTooltip]!"

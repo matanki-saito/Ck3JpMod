@@ -1104,7 +1104,7 @@
  offer_vassalization_interaction_aibehavior_not_rightfulliegetitleholder_tt:0 "あなたは[recipient.GetHerHis]の[rightful_liege|E]ではない: $VALUE|=+0$"
  marriage_interaction.0042.desc:1 "I have decided to give you to [recipient.GetTitledFirstName] as [recipient.GetHerHis] concubine."
  marriage_interaction.0043.desc_concubine:1 "I have released your concubine from my prison to serve as [recipient.GetTitledFirstNamePossessive] concubine."
- marriage_interaction.0043.desc_spouse:1 "I have released your [secondary_actor.Custom('WifeHusband')] from my prison to serve as [recipient.GetTitledFirstNamePossessive] concubine."
+ marriage_interaction.0043.desc_spouse:1 "私はあなたの[secondary_actor.Custom('WifeHusband')]を[recipient.GetTitledFirstNamePossessive]の側室として奉仕させるため牢獄から解放しました。"
  AI_WANDERLUST:0 ""
  INTERACTION_MARTIAL_EDUCATION:0 "[recipient.GetSheHe|U]は[martial|E][education|E]を持っている: $VALUE|=+0$"
  INTERACTION_CRAVEN:0 "[GetTrait('craven').GetName( recipient )]: $VALUE|=+0$"

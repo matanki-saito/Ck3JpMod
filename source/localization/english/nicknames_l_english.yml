@@ -291,7 +291,7 @@
  nick_the_scourge_of_the_northerners:0 "北方人を苛む者"
  nick_the_burner_of_ash:0 "灰を焼く者"
  DEFAULT_NICKNAME_DESC:0 "Friends and foes across the land know [CHARACTER.GetShortUINameNoTooltip] as '[CHARACTER.GetNicknameNoTooltip]'"
- nick_the_child_of_devilgod:0 "the Spawn of [CHARACTER.GetFaith.DevilName|U]"
+ nick_the_child_of_devilgod:0 "[CHARACTER.GetFaith.DevilName|U]の落とし子"
  nick_the_cosmic_poet:0 "the Cosmic Poet"
  nick_the_sleeper:0 "the Sleeper"
  nick_the_garlic:0 "the Garlic King"
