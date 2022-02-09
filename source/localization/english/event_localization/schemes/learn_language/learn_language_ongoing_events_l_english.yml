@@ -80,7 +80,7 @@
  learn_language_ongoing.1090.no_friend.desc:0 "\n\nPerhaps I need a break?"
  learn_language_ongoing.1090.a:0 "I can always lean on [helpful_friend.GetFirstNameNoTooltip] for support!"
  learn_language_ongoing.1090.b:0 "No matter how hard it is, I must persevere!"
- learn_language_ongoing.1090.c:0 "I need a break..."
+ learn_language_ongoing.1090.c:0 "休憩が必要だ…"
  encouraged_by_friend_modifier:0 "Encouraged by Friend"
  learn_language_ongoing.1100.t:1 "$learn_language$: The [ROOT.Char.GetTitleTierName] that Cares"
  learn_language_ongoing.1100.desc:3 "It's no secret that I'm working hard on learning the [scheme.GetTarget.GetCulture.GetLanguage.GetName] language, and it seems that it's becoming common knowledge among the [target.GetCulture.GetNameNoTooltip] peasantry.\n\nThey are referring to me as 'the [ROOT.Char.GetTitleTierName] that cares', a flattering thing indeed. Even the lower nobles are lauding my efforts!\n\nI feel like my efforts have brought [ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] and  [target.GetCulture.GetCollectiveNounNoTooltip] closer together."

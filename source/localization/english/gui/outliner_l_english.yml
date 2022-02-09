@@ -17,4 +17,6 @@
  OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I クリックで軍隊を選択#!"
  OUTLINER_ARMY_CLICK_TO_PAN:0 "#I クリックで所在地に移動#!"
  OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I 右クリックして場所に移動 #!"
- OUTLINER_PINNED_CHARACTER: "[Character.GetShortUINameNotMeNoTooltip]#medium 、[Character.GetAge]歳#!"
+ OUTLINER_PINNED_CHARACTER:0 "[Character.GetShortUINameNotMeNoTooltip]#medium 、[Character.GetAge]歳#!"
+ OUTLINER_SPONSORED_INSPIRATIONS:0 "Sponsored Inspirations"
+ OUTLINER_NO_SPONSORED_INSPIRATIONS:0 "No sponsored Inspirations"

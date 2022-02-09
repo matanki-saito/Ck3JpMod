@@ -26,7 +26,7 @@
  MAA_DECREASE_SIZE_TOOLTIP:1 "#T $MAA_DECREASE_SIZE$#!\n維持費が下記の通り減少します:\n[MenAtArmsView.GetReduceSizeBlockers][MenAtArmsType.GetReinforcementCostString( GetPlayer )]\n[MenAtArmsType.GetFullStrengthMaintenanceCostForPlayerString]"
  MAA_DESTROY_TOOLTIP:0 "#T 連隊の解隊#!\n[MenAtArmsView.GetReduceSizeBlockers]$MAA_FULL_MAINTENANCE_TEXT$: [Regiment.CalcReinforcementCost]/月\n$MAA_UNRAISED_MAINTENANCE_TEXT$[Regiment.CalcUnraisedCost]/月"
  MAA_AT_MAX_SIZE:0 "最大規模に達している"
- MAA_SIZE_CHANGE:0 "@soldier_icon! +[Regiment.GetMAAType.GetStackSize]"
+ MAA_SIZE_CHANGE:1 "@[Regiment.GetMAAType.GetIconKey]_icon!+[Regiment.GetMAAType.GetStackSize]"
  MAA_REINFORCING:1 "戦力補充中"
  REGIMENT_CURRENT_SIZE:0 "規模 [Regiment.GetMAAChunkCount]/[Regiment.CalcMaxMAAChunkCount]"
  MAA_TT_BUY_TITLE:0 "#T $COUNT$人の兵士を追加#!"

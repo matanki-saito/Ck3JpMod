@@ -16,3 +16,4 @@
  MAP_RAID_TOOLTIP:0 "#T 進行中の襲撃#!\n予想される終了時点: [Raid.GetEta.GetString]\n獲得した[raid_loot|E]: [gold_i][Raid.GetProvince.GetProvinceLoot|0V]\n\n#I クリックで襲撃を表示#!"
  RECENTLY_RAIDED_TOOLTIP:0 "#T 最近略奪された#!\nこの所領は最近略奪されており、[Province.GetEndOfRecentlyLooted.GetString]までは再び略奪することはできません"
  ARMY_LOOT_INFO:0 "戦利品: [gold_i][Army.GetRaidLoot|V0]/[Army.GetLootCap|V0]"
+ MAP_ICON_EMBARK_COST:0 "@gold_icon![FleetPredictionMapIcon.GetEmbarkCost|V0][Select_CString(FleetPredictionMapIcon.IsCostOverOwned, '@warning_icon!', '')]"

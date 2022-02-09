@@ -218,7 +218,7 @@
  health.3101.c:0 "私は喜んで…新しいことに挑戦する。"
  health.3101.d:0 "放っておいてくれ！"
  health.3101.e:0 "医者を呼べ！今すぐ！"
- health.3101.e.tt:1 "My servants will search for possible [GetCourtPositionType('court_physician_court_position').GetName()] candidates"
+ health.3101.e.tt:1 "使用人は[GetCourtPositionType('court_physician_court_position').GetName()]に相応しい候補者を捜索するだろう"
  safe_diseaste_treatment.tt:0 "安全な治療は危険が殆どなく、一時的に症状を軽減します"
  risky_diseaste_treatment.tt:0 "危険な治療は大きな転換をもたらす可能性がありますが、症状の悪化や永久的な損傷につながる可能性もあります"
  mystic_diseaste_treatment.tt:0 "神秘的な治療は予測不可能なものです。奇妙な儀式の結果は奇跡的となり得ますが、それはまた、あなたの気を狂わせるかもしれません…"

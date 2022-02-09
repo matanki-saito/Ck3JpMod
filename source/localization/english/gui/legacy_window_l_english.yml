@@ -34,3 +34,4 @@
  LEGACY_OFFENSIVEGH_WARS:0 "- $COUNT$の攻撃側での大聖戦"
  LEGACY_DEFENSIVEGH_WARS:0 "- $COUNT$での防衛側での大聖戦"
  LEGACY_LINEAGE_YOU:0 "あなたです"
+ LEGACY_KILLS_TOOLTIP:0 "#T Kills: [GetDataModelSize(Character.GetKills)|V]#!"

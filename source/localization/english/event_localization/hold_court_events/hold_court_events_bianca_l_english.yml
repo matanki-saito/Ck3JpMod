@@ -15,7 +15,7 @@
  hold_court.3001.desc.dead:0 "Oh, what a wondrous feast that was! Such a shame that [feast_vassal.GetTitledFirstName] didn't get to see it. Some of the attendees recalled the memory of my promised feast to [feast_vassal.GetHerHim], and spoke warmly of my dedication to my court's entertainment. Some assumed that this celebration was also dedicated in memory to [feast_vassal.GetFirstNameNoTooltip]. Either way, keeping my promise has in turn yielded the benefit of everyone attending speaking highly of my court!"
  hold_court.3001.a:0 "I'm sure the next feast will be even better!"
  hold_court.3001.b:0 "Another cup in [feast_vassal.GetHerHis] name!"
- hold_court.3010.t:0 "An Unconventional Preacher"
+ hold_court.3010.t:0 "慣習にそぐわない宣教師"
  hold_court.3010.desc.opening:0 "\"[ROOT.Char.Custom2('RelationToMeAddress', religious_vassal)|U],\" [religious_vassal.GetTitledFirstNamePossessive] voice is severe. \"I request that we launch an investigation about an infamous preacher in [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]. You see, this preacher is... Well... "
  hold_court.3010.desc.preacher_gender:0 "That [unconventional_preacher.GetSheHe]'s a #EMP [unconventional_preacher.GetWomanMan]!#! "
  hold_court.3010.desc.closing:0 "This is not in accordance with our faith!\"\n\n[tolerant_vassal.GetTitledFirstName] interjects [religious_vassal.GetFirstNamePossessiveNoTooltip] speech by raising [tolerant_vassal.GetHerHis] hand and taking a step forward. \"[ROOT.Char.Custom2('RelationToMeAddress', tolerant_vassal)|U], while [religious_vassal.GetFirstNameNoTooltip] is correct in [religious_vassal.GetHerHis] assessment, that is the preacher's #EMP only#! flaw. Everything [unconventional_preacher.GetSheHe] teaches is in accordance with our faith.\""

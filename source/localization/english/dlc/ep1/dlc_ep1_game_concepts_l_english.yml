@@ -1,5 +1,5 @@
 ﻿l_english:
- game_concept_royal_court:0 "Royal Court"
+ game_concept_royal_court:0 "宮中"
  game_concept_royal_courts:0 "Royal Courts"
  game_concept_royal_court_desc:1 "Distinguished [rulers|E] are famed enough to maintain a Royal Court, which gives access to a variety of bonuses and opportunities.\n\nWhen a [GetGovernment( 'feudal_government' ).GetName] or [GetGovernment( 'clan_government' ).GetName] [ruler|E] becomes [king|E] or [emperor|E], they gain access to their Royal Court.\n\nEach Royal Court has a [court_grandeur_level|E], which gives benefits based on how famed the Royal Court is, and which [court_type|E] the Royal Court is.\n\nPetitioners, [vassals|E], and [courtiers|E] may appear at your Royal Court, or you can [hold_court|E] to invite anyone in the [realm|E] to air their grievances.\n\nA Royal Court also allows the Ruler to display [court_artifacts|E], and [inspired|E] [guests|E] may appear at the Royal Court, offering to create new [artifacts|E].\n\nWhen you die, your [player_heir|E] will inherit your Royal Court."
  game_concept_court_grandeur_level:0 "Court Grandeur Level"
@@ -26,8 +26,8 @@
  game_concept_court_type_desc:2 "As a part of their [royal_court|E], [rulers|E] can have a designated $game_concept_court_type$.\n\nEach $game_concept_court_type$ provides the Ruler and the [court|E] with their own set of bonuses, depending on [court_grandeur_level|E].\n\nThe [ethos|E] of a Ruler's [culture|E] decides which Court Types they can have.\n\nThe different Court Types are:\n$BULLET_WITH_TAB$[GetCourtType('court_diplomatic').GetName]\n$BULLET_WITH_TAB$[GetCourtType('court_warlike').GetName]\n$BULLET_WITH_TAB$[GetCourtType('court_administrative').GetName]\n$BULLET_WITH_TAB$[GetCourtType('court_intrigue').GetName]\n$BULLET_WITH_TAB$[GetCourtType('court_scholarly').GetName]"
  game_concept_court_type_trait:0 "Court Type Trait"
  game_concept_court_type_trait_desc:2 "After serving [EmptyScope.ScriptValue('years_to_gain_court_type_trait')|0] years in a [royal_court|E] a [courtier|E] receives a [trait|E] reflecting the [court_type|E] of that court.\n\nThe quality of this Trait is decided by how long the [character|E] has served as a Courtier in the Court."
- game_concept_court_language:0 "Court Language"
- game_concept_court_languages:0 "Court Languages"
+ game_concept_court_language:0 "宮廷言語"
+ game_concept_court_languages:0 "宮廷言語"
  game_concept_court_language_desc:1 "A Court Language is the official [language|E] of a [royal_court|E], spoken by the nobility and used by the bureaucracy.\n\nThe [court_grandeur|E] Baseline is increased for each [realm|E] [county|E] that shares the Language, for each Royal Court which speaks the same Court Language, and if it is the [ruler|E]'s native Language."
  game_concept_inspiration:0 "Inspiration"
  game_concept_inspirations:0 "Inspirations"

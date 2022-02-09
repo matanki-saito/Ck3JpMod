@@ -11,7 +11,7 @@
  DECISIONS_VIEW_MAJOR_TOGGLE:0 "この決断が利用可能になった時に通知する"
  DECISION_DETAIL_REQUIREMENTS:0 "要件"
  DECISION_DETAIL_EFFECTS:0 "効果"
- DECISION_NOT_VALID:0 "@warning_icon!#X すべての要件を満たしていません#!"
+ DECISION_NOT_VALID:1 "@warning_icon! #X You do not fulfill all the requirements#!"
  DECISIONS_VIEW_COUNCILLOR:1 "[liege|E]の[council|E]"
  DECISIONS_VIEW_LEAVE_COUNCIL:0 "辞任"
  DECISIONS_VIEW_LEAVE_COUNCIL_TT:1 "#T 評議会を辞する#!\n[GetPlayer.GetCouncilTitle]の職位を辞し、当職におけるあらゆる便益を放棄する。"
