@@ -1,7 +1,7 @@
 ﻿l_english:
  fund_inspiration_interaction:1 "ひらめきの後援"
- fund_inspiration_interaction_desc:2 "Sponsor [recipient.GetShortUINamePossessiveNoTooltip] [inspiration|E] to start a [project|E] that might lead to you gaining an [artifact|E].\n\nThe potential artifact's quality and the cost of sponsorship will vary based on [recipient.GetHerHis] skills."
- fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U] and [recipient.GetHerHis] family"
+ fund_inspiration_interaction_desc:2 "[recipient.GetShortUINamePossessiveNoTooltip]の[inspiration|E]を後援し、[artifact|E]の獲得につながる可能性のある[project|E]を開始します。\n\n可能性がある宝物の品質と後援にかかるコストは、[recipient.GetHerHis]のスキルによって異なります。"
+ fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U]と[recipient.GetHerHis]の家族"
  indebt_guest_interaction:0 "Indebt Guest"
  indebt_guest_interaction_desc:0 "Have your [Concept('court_amenities','Servants')|E] testify to a litany of expenses caused during [recipient.GetShortUINamePossessive] stay, #EMP then#! offer them a way out..."
  indebt_guest_interaction.tt.direct_indebted_guest:0 "You will get a chance to direct [recipient.GetTitledFirstName] to go somewhere"

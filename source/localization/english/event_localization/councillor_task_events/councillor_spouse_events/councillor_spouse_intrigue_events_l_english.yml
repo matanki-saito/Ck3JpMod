@@ -1,5 +1,5 @@
 ﻿l_english:
- councillor_spouse_intrigue.0001.message:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U] and [spymaster.GetCouncilTitle] Cooperate"
+ councillor_spouse_intrigue.0001.message:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U]と[spymaster.GetCouncilTitle]が連携"
  councillor_spouse_intrigue.0002.message:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U]が計画を暴く"
  councillor_spouse_intrigue.0003.message:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U]が秘密を発見"
  councillor_spouse_intrigue.0004.message:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U]が計画を支援"
