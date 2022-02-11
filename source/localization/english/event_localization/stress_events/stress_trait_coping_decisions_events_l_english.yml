@@ -58,7 +58,7 @@
  stress_trait_coping_decisions.5501.desc:0 "[ROOT.Char.Custom('FavoriteTreat')]の別の一皿が目の前に置かれてると、自分が落ち着いているのを感じる。\n\n美味しいものほど心を落ち着かせてくれるものはない。"
  stress_trait_coping_decisions.5501.a:0 "もっと[ROOT.Char.Custom('FavoriteTreat')]を持ってこい！"
  stress_trait_coping_decisions.5502.t:0 "ストレス解消: 突然の饗宴"
- stress_trait_coping_decisions.5502.desc:0 "給仕人が食事の用意をするのをまっていると、大広間で[ROOT.Char.Custom('lowly_servant_type')]に偶然出くわした。\n\n[ROOT.Char.GetSheHe|U]は[ROOT.Char.GetHerselfHimself]に言いわけしようとするが、今は困るな、やっちゃうか？ちょうど偶然に、想像しうる最高の食事に出くわした！\n\n[ROOT.Char.GetHerHim]を連れて誰も悲鳴を聞くことが出ない地下に下りる。それから#EMP 饗宴#!！"
+ stress_trait_coping_decisions.5502.desc:0 "給仕人が食事の用意をするのをまっていると、大広間で[ROOT.Char.Custom('lowly_servant_type')]に偶然出くわした。\n\n[ROOT.Char.GetSheHe|U]は[ROOT.Char.GetHerselfHimself]に言いわけしようとするが、今はそれどころではないのでは？ちょうど偶然に想像しうる最高の食事に出くわした！\n\n[ROOT.Char.GetHerHim]を連れて誰にも悲鳴が聞こえない地下室に下りる。それから#EMP 饗宴#!！"
  stress_trait_coping_decisions.5502.a:0 "そして階上では私を待っているデザートがある！"
  stress_trait_coping_decisions.6001.t:0 "ストレス解消: 食事を止める"
  stress_trait_coping_decisions.6001.desc:0 "「料理人には、当面の間は食事に参加しないことを伝えてくれ。」\n\n言葉が口から出た瞬間、私は軽くなったような気がする——もう気が散ることもなく、もう我慢できない食べ物をやっとのことで飲み込む必要はないのだ！今、私は重要なことに集中できる。"

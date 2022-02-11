@@ -1,5 +1,5 @@
 ﻿l_english:
- court_position.9001.t:0 "$murder_save_header$ $food_taster_court_position$"
+ court_position.9001.t:0 "$murder_save_header$$food_taster_court_position$"
  court_position.9001.desc:0 "My attempt on [target.GetTitledFirstNamePossessive] life has been thwarted!\n\nMy agents failed to account for [target.GetTitledFirstNamePossessive] food taster, and the poison never even made it to [target.GetHerHis] plate."
  court_position.9001.food_taster_dies:0 "\n\nAt least the taster succumbed to the poison. [food_taster.GetTitledFirstName] won't get in my way again."
  court_position.9002.desc:0 "An assassin has made an attempt on my life! Thankfully my trusted food taster, [food_taster.GetFirstName], was doing [food_taster.GetHerHis] job and the poison never even made it to my plate."

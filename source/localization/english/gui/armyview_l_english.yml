@@ -189,5 +189,5 @@
  ATTACH:1 "追随"
  LEVIES_REGIMENTS:1 "@soldier_icon![levies|e]"
  MAA_REGIMENTS_ICON:1 "@$ICONKEY$_icon!$NAME$"
- ARMY_VIEW_LEVIES_TOOLTIP:0 "#T Levies#!"
+ ARMY_VIEW_LEVIES_TOOLTIP:0 "#T 徴募兵#!"
  ARMY_UNIT_COOLTIP_NAME:0 "- [UnitItem.GetArmy.GetNameNoTooltip]"

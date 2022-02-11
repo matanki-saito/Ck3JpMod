@@ -154,7 +154,7 @@
  diplomacy_foreign_special.1030.a_introverted:0 "やっと平和と静けさが戻ってきた。"
  diplomacy_foreign_special.1030.a:0 "あなたの旅が滞りなく安全でありますように！"
  diplomacy_foreign_special.1031.t:1 "$diplomacy_foreign_special.1017.t$: 早い出発"
- diplomacy_foreign_special.1031.desc:1 "The sun has barely risen when I notice one of [foreign_guest.GetTitledFirstNamePossessive] servants carrying a large chest. I follow the [dummy_servant_gender.GetWomanMan] to the courtyard, where I find my guest overseeing the loading of [foreign_guest.GetHerHis] carriages.\n\n[foreign_guest.GetFirstName] startles when I greet [foreign_guest.GetHerHim] and proceeds to make a vague excuse about a letter and some urgent business. Awkwardly, I wish [foreign_guest.GetHerHim] a safe journey and scamper back to my private quarters."
+ diplomacy_foreign_special.1031.desc:1 "朝日が昇った頃に、[foreign_guest.GetTitledFirstNamePossessive]の使用人が大きな箪笥を運んでいるのに気がついた。私はその[dummy_servant_gender.GetWomanMan]の後を追って中庭に行くと、客人が[foreign_guest.GetHerHis]の馬車に積み込みを命じているのを見つけた。\n\n[foreign_guest.GetFirstName]は、私が[foreign_guest.GetHerHim]に挨拶をするとびっくりして、手紙や急ぎの用事について曖昧な言い訳をして出発した。私は気まずい思いをしたものの、[foreign_guest.GetHerHim]の無事を祈り、自分の部屋に急いで戻った。"
  diplomacy_foreign_special.1031.a:0 "想像していた通りにはいかないものだ…"
  diplomacy_foreign.0100.opening:0 "[other_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
  diplomacy_foreign.0100.desc:0 "我々の後継者である[main_heir.GetTitledFirstName]と[other_heir.GetTitledFirstName]との会談を手配することが、我々の領国の最善の利益になるかもしれないと私は考えます。彼らが今、安定した健全な関係を築けるようにすることは、我々の領土の将来の安定を確実にすることにつながるでしょう。"

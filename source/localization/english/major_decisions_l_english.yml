@@ -64,5 +64,5 @@
  major_decisions.3100.a:0 "先祖のやり方が最善だ！"
  major_decisions.3100.d:0 "あぁ、考え直してみれば分割するほうが公平だな。"
  major_decisions.3100.tt_opinion_witengamot:1 "Vassals of [cultures|E] with $tradition_the_witenagemot_name$ [culture_tradition|E]"
- major_decisions.3100.tt_opinion_thing:1 "Vassals of [cultures|E] of $heritage_north_germanic_name$ [heritage|E]"
- major_decisions.3100.tt_opinion_tanistry:1 "Vassals whose [cultures|E] of $heritage_goidelic_name$ [heritage|E]"
+ major_decisions.3100.tt_opinion_thing:1 "$heritage_north_germanic_name$の[heritage|E]をつぐ[cultures|E]の封臣"
+ major_decisions.3100.tt_opinion_tanistry:1 "$heritage_goidelic_name$の[heritage|E]をつぐ[cultures|E]の封臣"

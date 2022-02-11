@@ -8,7 +8,7 @@
  yearly.9100.a.tooltip_b:0 "You made the situation even worse"
  yearly.9100.a.success:0 "I learned about gardening!"
  yearly.9100.a.failure:0 "Gardening is a waste of time!"
- yearly.9110.t:0 "The Flower Thief"
+ yearly.9110.t:0 "花泥棒"
  yearly.9110.desc:0 "My gardener [gardener.GetTitledFirstName] storms into the council chambers and furiously approach my [romantic_councillor.GetCouncilTitle], [romantic_councillor.GetTitledFirstName].\n\n\"How #EMP dare#! you ruin the [ROOT.Char.GetTitleTierNamePossessive] garden?! By #EMP stealing#! rare and precious flowers no less!\"\n\n[romantic_councillor.GetFirstNameNoTooltip] is clearly unaffected by the gardener's temper. \"I thought they would make a perfect gift for my [councillor_spouse.GetWifeHusband]. Being a romantic is hardly a crime, is it?\""
  yearly.9110.a:0 "But ruining my garden is. You'll pay for the damages. Now."
  yearly.9110.b:0 "You step out of line [gardener.GetFirstNameNoTooltip]!"

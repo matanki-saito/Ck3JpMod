@@ -9,7 +9,7 @@
  councillor_spouse_stewardship.1007.desc:0 "快適な暮らし"
  councillor_spouse_stewardship.1008.desc:0 "健全な宮廷"
  councillor_spouse_stewardship.1009.desc:0 "開発交渉"
- councillor_spouse_stewardship.1010.desc:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U] Resolves Courtier Debt"
+ councillor_spouse_stewardship.1010.desc:1 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U]は廷臣の借金を解消する"
  councillor_spouse_stewardship.1011.desc.guilds:0 "打ち負かされたギルド"
  councillor_spouse_stewardship.1011.desc.serfs:0 "なだめられた農奴"
  councillor_spouse_stewardship.1011.desc.corruption:0 "徴税人の管理"

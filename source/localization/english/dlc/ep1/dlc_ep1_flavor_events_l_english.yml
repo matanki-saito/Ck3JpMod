@@ -1,5 +1,5 @@
 ﻿l_english:
- tradition_header:0 "Traditions:"
+ tradition_header:0 "伝統:"
  ep1_flavor.1000.t:0 "$tradition_header$ A Visiting Eunuch"
  ep1_flavor.1000.desc:0 "A travelling eunuch is presenting [eunuch_target.GetHerselfHimself] at my court today.\n\n\"Greetings, oh most [ROOT.Char.Custom('ComplimentAdjective')] [ROOT.Char.GetTitleTierName].\" [eunuch_target.GetSheHe] says, respectfully.\n\n\"My name is [eunuch_target.GetFirstName], a wanderer of repute — I have lent my knowledge to noble scholar-Kings, and tended the harems of great Sultans — now I am here, offering my services to you. For a modest fee.\"\n\nAn intriguing character, perhaps I should employ [eunuch_target.GetHerHim]?"
  ep1_flavor.1000.a:0 "A fair offer, I accept."

@@ -37,4 +37,4 @@
  AGENT_WILL_ACCEPT:0 "#P 参加するでしょう($ACCEPTANCE|=0$)#!"
  AGENT_WILL_ACCEPT_DESC:0 "#T 計画に参加するでしょう#!"
  SCHEME_POWER_TRIGGER:0 "[scheme_power|E]: $VALUE|+0$"
- RESPECTED_HOST:0 "[target.GetShortUINameNoTooltip] is an esteemed host: $VALUE|+0$"
+ RESPECTED_HOST:0 "[target.GetShortUINameNoTooltip]は尊敬される主催者である: $VALUE|+0$"

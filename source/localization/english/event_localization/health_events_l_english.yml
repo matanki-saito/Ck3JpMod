@@ -206,7 +206,7 @@
  health.3001.d.two:0 "どちらも良い印象を抱けない。"
  health.3001.d.more:0 "どれもパッとせんな。"
  health.3001.e:0 "[excellent_skill_option.GetFirstNameNoTooltip]は学者の仲間内では広く知られた者。"
- health.3001.d.tt:1 "I do not recruit anyone as my [GetCourtPositionType('court_physician_court_position').GetName()]"
+ health.3001.d.tt:1 "[GetCourtPositionType('court_physician_court_position').GetName()]としては誰も採用しません"
  health.3101.t:1 "[SCOPE.Custom('EventTitleDisease')]: 治療の時間"
  health.3101.start.desc:0 "「これから治療を行います。"
  health.3101.safe_recommendation.desc:0 "単なるチンキ剤で十分であるとほぼ確信しておりますが、"

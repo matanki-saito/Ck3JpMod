@@ -16,7 +16,7 @@
  stewardship_general.5011.c:0 "時間の無駄だ！"
  stewardship_general.5011.every_courtier:1 "すべての[courtier|E]"
  stewardship_general.5013.t:0 "深遠の獣"
- stewardship_general.5013.desc:1 "As I stroll through the gardens, I notice my [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('carp_food'))] [carp_food.GetTitledFirstName] sitting on a rock by the carp pond. Leaning down over the edge, [carp_food.GetSheHe] trails [carp_food.GetHerHis] fingers through the water. A shadow stirs beneath the surface..."
+ stewardship_general.5013.desc:1 "私が庭を散歩していると、[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('carp_food'))][carp_food.GetTitledFirstName]が鯉の池の傍にある岩に座っているのに気がつく。池の縁に身を乗り出して、[carp_food.GetSheHe]は水の中で指を動かしている。一つの影が水面下で蠢いていた…"
  stewardship_general.5013.a:0 "[carp_food.GetFirstNameNoTooltip]、下がれ！そこから下が…あぁ！"
  stewardship_general.5041.t:0 "はぐれ召使い"
  stewardship_general.5041.desc:0 "卑しい[ROOT.GetCharacter.Custom('lowly_servant_type')]が我が家から盗みを働いていた！"

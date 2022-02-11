@@ -10,7 +10,7 @@
  south_asia.0003.text:0 "\n\nわが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('chakravarti'))]が聖なる泉から現れたとき、その瞬間の全力が私を打つのです。[chakravarti.GetFaith.AltPriestTermPlural]は、[chakravarti.GetHerHim]を全世界の正当な支配者チャクラヴァルティとして宣言した。\n\n[chakravarti.GetTitledFirstName]が眼下の平原を眺めると、その通りだと感じずにはいられない。"
  south_asia.0003.a:0 "あなたの勝利へ参加させてください！"
  south_asia.0003.b:0 "世界の支配者は次に何をするのか？"
- south_asia.0004.relevant_religion:0 "インド帝国からのニュースを伝えるために、伝道者たちが続々と到着してきた。時代を超えて初めて チャクラヴァルティが台頭したのです"
+ south_asia.0004.relevant_religion:0 "インド帝国からのニュースを伝えるために、伝道者たちが続々と到着してきた。時代を超えて初めてチャクラヴァルティが台頭したのです"
  south_asia.0004.desc:0 "インドの地から大勢の預言者たちが到着し、彼らの「チャクラヴァルティ」の台頭を告げ、[chakravarti.GetHerHis]の博愛に熱狂している。"
  south_asia.0004.text:0 "\n\n[chakravarti.GetTitledFirstName]は巨大な儀式と信者の大群がその足下にあり、全世界の正当な支配者の外殻として公認している。"
  south_asia.0004.a:0 "[chakravarti.GetSheHe]は新たなる脅威となるのか、それとも偉大な同盟者か？"

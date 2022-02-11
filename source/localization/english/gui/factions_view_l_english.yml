@@ -86,5 +86,5 @@
  FACTION_WINDOW_OPINION_OF_TARGET:0 "対象への評価: [CharacterListItem.GetOpinionOfOtherCharacter|+=]"
  NOT_faction_relation_blocks_joining_friend:0 "[friend|E]に対する派閥を形成あるいは参加することはできません"
  NOT_faction_relation_blocks_joining_lover:0 "[lover|E]に対する派閥を形成あるいは参加することはできません"
- CLAIMANT_TITLES_NO_TITLES:0 "No claimable titles"
- NO_POTENTIAL_CLAIMANTS:0 "No potential claimants"
+ CLAIMANT_TITLES_NO_TITLES:0 "請求可能な称号なし"
+ NO_POTENTIAL_CLAIMANTS:0 "潜在的な請求者なし"

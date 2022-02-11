@@ -133,7 +133,7 @@
  vassal.3001.desc:0 "\n\nいうまでもなく、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))][spouse.GetFirstName]と私はずっと努力してきた、きっと何か上手くいかない理由があるのだ。"
  vassal.3001.a:0 "おそらく[vassal_to_ask.GetFirstNameNoTooltip]がいくつか助言をくれるはずだ！"
  vassal.3001.b:0 "これは個人的な問題だ。"
- vassal.3002.desc:1 "\"[ROOT.Char.GetFirstNameNoTooltip], you have been blessed with multiple [ROOT.Char.Custom('ChildChildrenGender')], and I have not had similar luck. Do you have any advice on how to... remedy that?\"\n\nI cannot believe it! My [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('liege_with_trouble'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('liege_with_trouble'))], [liege_with_trouble.GetTitledFirstName], is asking me for pointers in the bedchamber!"
+ vassal.3002.desc:1 "「[ROOT.Char.GetFirstNameNoTooltip]、あなたは多くの[ROOT.Char.Custom('ChildChildrenGender')]に恵まれているが、私にはそうした幸運がない。何か助言をくれないか？…その…改善について」\n\n信じられない！私の[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('liege_with_trouble'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('liege_with_trouble'))]、[liege_with_trouble.GetTitledFirstName]は私に寝室での夜の営みにおける助言を求めてきたのだ！"
  vassal.3002.a:1 "乾燥した豚の睾丸とワインの組み合わせなどいかがかな？"
  vassal.3002.a.critical_success:0 "私の助言は驚くべき結果をもたらす"
  vassal.3002.a.success:0 "私の助言は良い結果をもたらす"

@@ -29,7 +29,7 @@
  MILITARY_STRENGTH_RATIO_NO_STRENGTH:0 "我々は一兵も持っていません"
  REALTIVE_STENGTH_ONE_MAA:1 "彼らの[men_at_arms|E]は大部分が[MEN_AT_ARMS_TYPE.GetName|L]です。"
  REALTIVE_STENGTH_TWO_MAA:1 "彼らの[men_at_arms|E]は大部分が[MEN_AT_ARMS_TYPE.GetName|L]と[MEN_AT_ARMS_TYPE_2.GetName|L]です。"
- LIST_LEVIES_STRING:1 "@soldier_icon![levies|E]: $CURRENT|0V$/$MAX|0V$ "
+ LIST_LEVIES_STRING:1 "@soldier_icon![levies|E]: $CURRENT|0V$/$MAX|0V$"
  LIST_KNIGHTS_STRING:2 "[knight_i][CHARACTER.Custom( 'KnightCulturePlural' )]: $NUM|0V$"
  LIST_MAA_STRING:0 "[men_at_arms|E]: $CURRENT|0V$/$MAX|0V$"
  LIST_EVENT_TROOPS_STRING:2 "[special_troops|E]: $CURRENT|0V$"

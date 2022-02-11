@@ -31,7 +31,7 @@
  bookmark.0002.desc:0 "廷臣たちが初めて「大王(The Great)[ROOT.Char.GetFirstNameNoTooltip]万歳！」と喝采したとき、私はとても光栄に思った。私はそれ以上に何か思ったわけではない。だがそれ以来、皆が私を大王と呼ぶようになった。\n\n[capital.GetNameNoTooltip]から[province.GetNameNoTooltip]に至るまで、あらゆる場所で、民は私のことを[ROOT.Char.GetFirstNameNoTooltip]大王と呼んでいる。"
  bookmark.0002.a:0 "彼らを失望させないよう、より一層努力しなくては。"
  bookmark.0004.t:1 "Vengeance"
- bookmark.0004.desc:1 "Finally, after all this time, I have the [prisoner.Custom('InsultAdjective')] [prisoner.GetName] at my mercy! When I heard of my [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('dead'))] [dead.GetNamePossessive] death at [prisoner.GetHerHis] hands, I swore I would have my vengeance. And I am a [ROOT.Char.GetWomanMan] of my word."
+ bookmark.0004.desc:1 "私は[prisoner.Custom('InsultAdjective')][prisoner.GetName]にもはや何の憐れみも抱かない．[prisoner.GetHerHis]は[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('dead'))][dead.GetNamePossessive]を殺した張本人だ。奴を決して許さない。私は奴に復讐を誓った。そしてその誓いがついに果たされるときが来た。"
  bookmark.0004.a.custom:0 "各々の[dead.GetShortUIName]の[close_family_member|E]"
  bookmark.0004.a:0 "肋骨を裂き、血まみれの肺を翼のように掲げん！"
  bookmark.0004.b:0 "[ROOT.Char.GetFaith.HighGodName]よ、私は[prisoner.GetWomanMan]を貴方の手に託します！"

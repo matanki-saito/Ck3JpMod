@@ -23,7 +23,7 @@
  unlock_late_medieval_economic_buildings:0 "すべての中世後期の[economic_buildings|E]を解禁"
  unlock_late_medieval_military_buildings:0 "すべての中世後期の[military_buildings|E]を解禁"
  unlock_late_medieval_fortification_buildings:0 "すべての中世後期の[fortification_buildings|E]を解禁"
- unlocks_naval_raiding:0 "もし[raid|E]が可能な勢力であれば、海を超えての[raid|E]を解禁"
+ unlocks_naval_raiding:0 "もし[raid|E]が可能な勢力であれば、海を越えての[raid|E]を解禁"
  unlocks_sailable_major_rivers:1 "大河を航行する能力を解禁"
  unlock_march_contract:0 "#high $special_contract_march_short$#!の[feudal_contract|E]を解禁"
  unlock_scutage_contract:0 "#high $special_contract_scutage_short$#!の[feudal_contract|E]を解禁"

@@ -148,7 +148,7 @@
  court_ongoing.1100.failure.tt:0 "[target.GetFirstNameNoTooltip]がネガティブな返事をする"
  court_ongoing.1100.compassionate:0 "優しくて思いやりのある心について書こう。"
  court_ongoing.1100.bold:0 "まったく恐れを知らない心について書こう。"
- court_ongoing.1100.honorable:1 "Noble righteousness."
+ court_ongoing.1100.honorable:1 "高潔な正義について書こう。"
  court_ongoing.1100.greed:0 "遠大な野望について書こう。"
  court_ongoing.1100.rational:0 "果てしない知恵について書こう。"
  court_ongoing.1100.zealous:0 "燃えるような信仰について書こう。"

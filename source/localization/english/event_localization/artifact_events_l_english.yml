@@ -11,7 +11,7 @@
  artifact_damaged_toast:0 "Artifact Damaged"
  artifact_damaged_in_siege:0 "My [DAIBE_artifact.GetName] took [DAIBE_artifact.MakeScope.Var('DAIBE_damage').GetValue|V0] damage in the siege of [DAIBE_location.GetNameNoTooltip]"
  artifact_damaged_in_duel:0 "My [DAIBE_artifact.GetName] took [DAIBE_artifact.MakeScope.Var('DAIBE_damage').GetValue|V0] damage in my duel with [DAIBE_opponent.GetShortUINameNoTooltip]"
- artifact_claim_gained_notification:0 "Gained Artifact Claim"
+ artifact_claim_gained_notification:0 "宝物の請求権を手に入れた"
  artifact_claim_lost_notification:0 "Lost Artifact Claim"
  artifact.0011.t:1 "[this_artifact.Custom('InventoryCourtArtifact')] Lost!"
  artifact.0011.tooltip:0 "You lost [this_artifact.GetName] to [owner.GetTitledFirstNameNoTooltip]"

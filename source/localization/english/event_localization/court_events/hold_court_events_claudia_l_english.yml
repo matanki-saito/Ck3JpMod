@@ -52,7 +52,7 @@
  hold_court_6040_c_clueless:0 "The book's script and content are beyond your comprehension"
  hold_court.6040.d:0 "It must be a work of [ROOT.Char.GetFaith.DevilName]! BURN IT!"
  hold_court.6040.e:0 "Who cares about books?"
- hold_court.6050.t:0 "A Holy Tomb"
+ hold_court.6050.t:0 "聖なる墓"
  hold_court.6050.desc:1 "The peasant in front of me seems about to explode with excitement.\n\n\"My [ROOT.Char.GetLadyLord]! The miracles! The holiness! We have been #EMP BLESSED#!!\"\n\n[6050_pop.GetHerHis|U] enthusiastic ramblings are confusing, but I finally get the gist of it: [6050_pop.GetSheHe] wants me to sponsor the cult of a local saint who has recently died in [6050_tomb.GetNameNoTooltip]. [6050_holy.GetFirstName] was a miracle—maker in life, known for [6050_holy.Custom('GetMiracle1')] and [6050_holy.Custom('GetMiracle2')]. [6050_holy.GetHerHis|U] tomb is attracting devoted visitors from all over the realm."
  hold_court.6050.desc_hof:0 "\n\nAs [head_of_faith|E], it is my prerogative to decide whether to condemn or promote this cult."
  hold_court.6050.a:0 "[6050_holy.GetHerHis|U] Holiness will get the veneration [6050_holy.GetSheHe] deserves."

@@ -1,5 +1,5 @@
 ﻿l_english:
- pay_homage_decision:0 "Pay Homage"
+ pay_homage_decision:0 "敬意を払う"
  pay_homage_decision_desc:0 "I can formally and publicly pledge allegiance to my liege, strengthening trust and the legitimacy of both our positions."
  pay_homage_decision_tooltip:0 "Formally pledge [pay_homage|E] to your [liege|E]"
  pay_homage_decision_effects:0 "You travel to [THIS.Char.GetLiege.GetTitledFirstNamePossessive] court to pay Homage"

@@ -50,7 +50,7 @@
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_HEADER_YES:0 "#T [papal_recipient|E]を無効にする #!"
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_HEADER_NO:0 "#T [papal_recipient|E]に従う#!"
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_BODY_YES:0 "あなたが[GREAT_HOLY_WAR.GetName]の主要な貢献者である場合、あなたの受益者には主要称号が与えられます。この立場を選択すると、勝利時に共有される軍資金から獲得するゴールドの量が減少します。"
- GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_BODY_NO:2 "If you are the main contributor to the [GREAT_HOLY_WAR.GetName], [Select_CString( GREAT_HOLY_WAR.GetDesignatedWinner.IsValid, GREAT_HOLY_WAR.GetDesignatedWinner.GetShortUIName, 'the Favored Candidate' )] will receive the title being fought over. Picking this stance will grant you rights to a larger share of the War Chest shared upon victory."
+ GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_BODY_NO:2 "あなたが[GREAT_HOLY_WAR.GetName]の主要な貢献者である場合、[Select_CString( GREAT_HOLY_WAR.GetDesignatedWinner.IsValid, GREAT_HOLY_WAR.GetDesignatedWinner.GetShortUIName, 'the Favored Candidate' )]は係争されている称号を受け取ることができます。この立場を選択すると、勝利時に共有される軍資金のより多くの分け前を得る権利が与えられます。"
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_PROMPT_YES:2 "#I クリックで無効にする #!"
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_PROMPT_NO:2 "#I クリックで従う#!"
  GHW_PLEDGE_TT_HEADER:0 "#T 軍事支援を誓約#!"

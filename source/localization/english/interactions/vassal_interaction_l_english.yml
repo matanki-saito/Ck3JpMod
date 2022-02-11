@@ -53,7 +53,7 @@
  general_rebellion_decline_summary_auto_accept:0 ""
  ask_for_pardon_interaction_decline_toast:0 "恩赦の拒否"
  pardon_interaction:0 "恩赦を与える"
- pardon_interaction_desc:1 "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you."
+ pardon_interaction_desc:1 "[recipient.GetName]は[criminal|E]([recipient.GetImprisonmentReasons( actor.Self )])の嫌疑により、[tyranny|E]の非難を受けることなく[imprison|E]が可能です。\n\nしかし放免を望むなら恩赦を与えることも出来ます。これにより、[imprison|E]の名目はすべて喪失し、あなたへの[opinion|E]が上昇します。"
  pardon_interaction_toast:0 "慈悲深い主君である[actor.GetFirstName]が、あなたの罪を赦した！"
  vassal_claim_liege_title_interaction:0 "主君の称号を請求"
  vassal_claim_liege_title_interaction_desc:0 "If you control a majority #weak (51%)#! of the [counties|E] that are [de_jure|E] to one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"

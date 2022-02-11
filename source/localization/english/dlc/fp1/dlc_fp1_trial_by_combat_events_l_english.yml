@@ -58,4 +58,4 @@
  fp1_tbc.0121.desc.outro:0 "\n\n勝利は愚か者と物乞いの元へ行ってしまった。"
  fp1_tbc.0121.a:0 "$fp1_tbc.0051.a$"
  fp1_ep1_tbc.0101.e:0 "My already designated $champion_court_position$, [knight_alternative.GetTitledFirstNameNoTooltip], shall represent me."
- fp1_ep1_tbc.0101.e.tt:0 "[knight_alternative.GetTitledFirstName] will fight for you"
+ fp1_ep1_tbc.0101.e.tt:0 "[knight_alternative.GetTitledFirstName]はあなたのために戦うでしょう"

@@ -15,7 +15,7 @@
  courtier_guest_management.1001.marriage_me.desc:1 "あなたの良い[exceptional_guest.Custom('WifeHusband')]になるだろう"
  courtier_guest_management.1001.marriage_my_sons.desc:1 "あなたの息子の一人の良い[exceptional_guest.Custom('WifeHusband')]になるだろう"
  courtier_guest_management.1001.marriage_my_daughters.desc:1 "あなたの娘の一人の良い[exceptional_guest.Custom('WifeHusband')]になるだろう"
- courtier_guest_management.1001.marriage_my_child.desc:1 "my [marriage_child.Custom('GetDaughterSon')], [marriage_child.GetShortUIName]"
+ courtier_guest_management.1001.marriage_my_child.desc:1 "私の[marriage_child.Custom('GetDaughterSon')]、[marriage_child.GetShortUIName]の良い[exceptional_guest.Custom('WifeHusband')]になるだろう"
  courtier_guest_management.1001.vassal.desc:0 "[exceptional_guest.GetShortUIName|U]は忠実で円熟した封臣になるだろう"
  courtier_guest_management.1001.commander.desc:0 "[exceptional_guest.GetShortUIName|U]は熟練した指揮官になるだろう"
  courtier_guest_management.1001.knight.desc:0 "[exceptional_guest.GetShortUIName|U]は経験豊かな戦士です"
