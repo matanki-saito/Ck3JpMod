@@ -47,5 +47,5 @@
  suggestion_can_hire_court_positions_click:0 "#I Click to view available Court Positions#!"
  suggestion_request_war_aid_petition:0 "Request Military Assistance"
  suggestion_request_war_aid_petition_label:0 "Suggestion: Request Military Assistance"
- suggestion_request_war_aid_petition_desc:0 "You can ask your [liege|E] for help in your [war|E]. They may join, or pay for soldiers."
- suggestion_request_war_aid_petition_click:0 "#I Click to view your [lieges|E]'s [royal_court|E]#!"
+ suggestion_request_war_aid_petition_desc:0 "あなたは自身の[war|E]で[liege|E]に助けを求めることができます。彼らは参戦するか、兵士に金を払う可能性があります。"
+ suggestion_request_war_aid_petition_click:0 "#I クリックで[lieges|E]の[royal_court|E]を表示#!"

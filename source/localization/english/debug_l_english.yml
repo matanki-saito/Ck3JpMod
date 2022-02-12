@@ -149,7 +149,7 @@
  learn_language_debug_interaction:0 "Insta-learn their Language"
  debug:0 "#D デバッグ#!"
  set_relation_interaction:0 "Set Relationship"
- set_relation_debug:0 "Make #P Friend#!/#N Rival#!/#color_yellow Lover#!"
+ set_relation_debug:0 "#P 友人#!/#N ライバル#!/#color_yellow 愛人#!になる"
  set_relation_debug_friend:0 "#P 友人#!"
  set_relation_debug_rival:0 "#N ライバル#!"
  set_relation_debug_lover:0 "#color_yellow 愛人#!"

@@ -714,7 +714,7 @@
  elephant_cavalry_recruitment_cost_mult:0 "[elephant_cavalry|E] Recruitment Cost"
  elephant_cavalry_max_size_add:0 "Max Size of [elephant_cavalry|E] [regiments|E]"
  tribal_government_levy_contribution_mult:0 "[tribal|E] $MOD_VASSAL_LEVY_CONTRIBUTION_MULT$"
- MOD_COURT_GRANDEUR_BASELINE:1 "[court_grandeur|E] Bonus"
+ MOD_COURT_GRANDEUR_BASELINE:1 "[court_grandeur|E]ボーナス"
  MOD_MONTHLY_COURT_GRANDEUR_CHANGE_ADD:0 "Monthly [court_grandeur|E] Change"
  MOD_MONTHLY_COURT_GRANDEUR_CHANGE_MULT:0 "$MOD_MONTHLY_COURT_GRANDEUR_CHANGE_ADD$"
  hidden_nooks_and_crannies_architect_modifier:0 "Advanced Hidden Nooks and Crannies"

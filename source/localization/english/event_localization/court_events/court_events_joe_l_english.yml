@@ -220,7 +220,7 @@
  court.8130.desc.body:0 "\"I heard you with my own ears!\", [champion.GetFirstNameNoTooltip] lowers back, \"I demand satisfaction for this slight against my [ROOT.Char.GetLadyLord]!\""
  court.8130.desc.outro:0 "\n\nAll look to me for my say on the matter, as [mediator.GetFirstNameNoTooltip] keeps the two apart."
  court.8130.a:0 "[champion.GetFirstNameNoTooltip] will defend my honor."
- court.8130.a.tt_champion:0 "[champion.GetTitledFirstNameNoTooltip] wins the duel"
+ court.8130.a.tt_champion:0 "[champion.GetTitledFirstNameNoTooltip]が決闘に勝利！"
  court.8130.a.tt_vassal:0 "[vassal.GetTitledFirstNameNoTooltip] wins the duel"
  court.8130.a.tt:0 "[champion.GetTitledFirstName] and [vassal.GetTitledFirstName] have a [single_combat_duel|E]"
  court.8130.b:0 "A misunderstanding; [vassal.GetFirstNameNoTooltip] is a loyal vassal."

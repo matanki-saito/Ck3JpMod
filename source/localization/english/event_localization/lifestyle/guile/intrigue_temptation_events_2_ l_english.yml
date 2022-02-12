@@ -12,7 +12,7 @@
  intrigue_temptation.3100.wood_desc:0 "不格好に掘られた木の皿に、"
  intrigue_temptation.3100.vellum_desc:0 "ベラム紙にしみだらけのインク絵で"
  intrigue_temptation.3100.a:0 "なんとおぞましい！"
- intrigue_temptation.3100.a.tt:0 "宮廷にいる貞淑な人物は誰でもあなたを少しだけ尊敬するでしょう"
+ intrigue_temptation.3100.a.tt:0 "宮廷にいる貞節な人物は誰でもあなたを少しだけ尊敬するでしょう"
  intrigue_temptation.3100.b:0 "一方には熱心な馬鹿が、一方には秘密が。"
  intrigue_temptation.3100.b.tt:0 "[propositioning_courtier.GetShortUINameNoTooltip]から秘密を引き出すことを試みます"
  intrigue_temptation.3100.b.tt.secret_gained:0 "ベッドの中で、[propositioning_courtier.GetShortUINameNoTooltip]がそのような面白い話をしてくれる。"

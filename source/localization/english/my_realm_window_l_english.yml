@@ -122,7 +122,7 @@
  TAX_CONTRIBUTION_FACTOR_KNOWN_VALUE:0 "@gold_icon![taxes|E] 乗数: $VALUE|+=%1$"
  LEVY_CONTRIBUTION_KNOWN_VALUE:0 "@soldier_icon![levies|E]: $VALUE|+=%1$"
  LEVY_CONTRIBUTION_FACTOR_KNOWN_VALUE:0 "@soldier_icon![levies|E] 乗数: $VALUE|+=%1$"
- VASSAL_CONTRACT_VASSAL_TITLE:2 "Modifying the Contract of\n#high [VassalContract.GetVassal.GetFirstNameNoTooltip] [VassalContract.GetVassal.GetHouse.GetNameNoTooltip]\nRuler of [VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTierNoTooltip]#!"
+ VASSAL_CONTRACT_VASSAL_TITLE:2 "契約の変更\n#high [VassalContract.GetVassal.GetFirstNameNoTooltip][VassalContract.GetVassal.GetHouse.GetNameNoTooltip]\n[VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTierNoTooltip]の統治者#!"
  CONTRACT_EFFECTS_HEADER:0 "影響:"
  VASSAL_OPINION_DIPLOMACY:0 "自分の[diplomacy|E]能力"
  VASSAL_OPINION_TYRANNY:0 "[tyrant|E]"

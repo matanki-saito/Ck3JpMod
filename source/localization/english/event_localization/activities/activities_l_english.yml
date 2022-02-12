@@ -32,7 +32,7 @@
  activity_playdate_desc:0 "領国内のすべての子供たちは、自身が楽しみ、同年代の人々に出会い、そして遊ぶために招待されています！"
  activity_playdate_owner:0 "主催者"
  activity_hold_court:0 "謁見"
- activity_hold_court_name:1 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]の宮廷の聴衆"
+ activity_hold_court_name:1 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]の宮廷における謁見"
  activity_hold_court_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName]は、[ACTIVITY.GetOwner.GetHerHim]が注意を要するあらゆる問題を持ち込むよう、すべての臣下を招待している。"
  activity_petition_liege:0 "主君への請願"
  activity_petition_liege_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]の請願"

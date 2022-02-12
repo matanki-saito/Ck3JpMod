@@ -1,5 +1,5 @@
 ﻿l_english:
- fire_court_physician_effect.tt:1 "[THIS.Char.GetShortUIName] is no longer [GetCourtPositionType('court_physician_court_position').GetName()]"
+ fire_court_physician_effect.tt:1 "[THIS.Char.GetShortUIName]は[GetCourtPositionType('court_physician_court_position').GetName()]ではなくなります"
  health.0001.desc:0 "傷は癒えた"
  health_wounded_title:0 "負傷:"
  health.0002.t:1 "$health_wounded_title$ 治癒"
