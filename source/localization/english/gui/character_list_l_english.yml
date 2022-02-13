@@ -192,7 +192,7 @@
  not_same_heritage_filter_option:1 "$same_heritage_filter_option$でない"
  direct_vassal_relation_filter:0 "直臣"
  direct_vassal_relation_filter_desc:0 "直接の[vassals|E]の人物のみ表示"
- inspiration_filter:0 "霊感"
+ inspiration_filter:0 "ひらめき"
  has_inspiration_filter:0 "ひらめきを持っている"
  has_inspiration_filter_desc:0 "[inspiration|E]を持つ人物のみ表示"
  not_has_inspiration_filter:0 "ひらめきなし"

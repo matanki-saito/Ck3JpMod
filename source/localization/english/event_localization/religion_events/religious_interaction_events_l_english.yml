@@ -101,7 +101,7 @@
  used_literalist_debate_modifier:0 "最近議論をした"
  used_literalist_debate_modifier_desc:0 "この人物は最近、信仰の根幹に関わる議論を開始した。"
  literally_debated_modifier:0 "最近議論をした"
- literally_debated_modifier_desc:0 "この人物は最近、彼らの信仰の基本について議論しています。"
+ literally_debated_modifier_desc:0 "この人物は最近、信仰の根幹に関わる議論を行っている。"
  religious_interaction.2401.desc_intro:0 "相手と私は[debate_locale.GetNameNoTierNoTooltip]の大きなホールで会うことになった。わずか数フィートしか離れていない不安定なテーブルの上に立ち、熱心な観衆の群れに囲まれている。議論が始まるのを待ちわびている人たちの間には、無言の静けさが漂っている。\n\n"
  religious_interaction.2401.desc_won:0 "一時間かけて、私は[recipient.GetTitledFirstName]を論破し、[recipient.GetHerHis]の信仰心と貞操観念を攻撃し、[actor.GetFaith.HighGodName]に対する[recipient.GetHerHis]の忠誠心にさえ疑問を投げかけた。観衆はたちが悪く、[recipient.GetTitledFirstNameNoTooltip]に腐った卵やカビの生えたキャベツをぶつけ、それは[recipient.GetSheHe]がホールから逃げ出すまで続いた。"
  religious_interaction.2401.desc_lost:0 "[recipient.GetTitledFirstNamePossessive]の言葉の猛攻がすぐに始まり、私に反論する機会はほとんどなく、いつの間にか群衆は勝者を決めていた。\n\n数分間、腐った野菜の雨に耐え続けたが、農民の一人が私の頭に生きたにわとりを投げつけてきたので、ついに退却を余儀なくされた。"

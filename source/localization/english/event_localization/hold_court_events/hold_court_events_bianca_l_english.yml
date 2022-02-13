@@ -5,7 +5,7 @@
  hold_court.3000.desc.likes:0 "\"[ROOT.Char.Custom2('RelationToMeAddress', feast_vassal)|U], there's much to celebrate under your rule! Please, allow me to pay for the expenses of your next feast! Perhaps in return you would grant me a favor in the future?\""
  hold_court.3000.desc.dislikes:0 "\"[ROOT.Char.Custom2('RelationToMeAddress', feast_vassal)|U]. The people in your realm need the occasional joyous gathering where they can forget their stresses. I would gladly finance a feast, even if held under your name, as it's for the good of the [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]. Though I would duly expect a favor in recompense.\""
  hold_court.3000.a:1 "Very well, I accept."
- hold_court.3000.a.tt:0 "Hosting a feast in the near future will yield a reward of [court_grandeur_value|E]."
+ hold_court.3000.a.tt:0 "近々、宴を主催して、[court_grandeur_value|E]の向上を図るつもりだ。"
  hold_court.3000.b:1 "No strings attached! Your liege demands it!"
  hold_court.3000.c:1 "Perhaps we can arrange something more agreeable?"
  hold_court.3000.c.success:0 "[feast_vassal.GetTitledFirstNameNoTooltip] agrees to renege on their request of a favor"

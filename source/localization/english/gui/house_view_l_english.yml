@@ -69,6 +69,6 @@
  HOUSE_VIEW_MAX_MILITARY_STRENGTH:2 "最大軍事力: @soldier_icon!#high [Character.GetMaxMilitaryStrengthWithoutHires|0]#!"
  HOUSE_LIST_HEAD_MAX_MILITARY_STRENGTH:1 "@soldier_icon![DynastyHouse.GetHeadOfHouse.GetMaxMilitaryStrengthWithoutHires|0]"
  HOUSE_LIST_MILITARY_STRENGTH_TT:0 "[house_head|E]の最大軍事力"
- CUSTOMIZE_HOUSE_HEADER:0 "Customize House [DynastyHouse.GetBaseNameNoTooltip]"
+ CUSTOMIZE_HOUSE_HEADER:0 "[DynastyHouse.GetBaseNameNoTooltip]家のカスタマイズ"
  CUSTOMIZE_HOUSE:0 "#T 家をカスタマイズ#!"
  CUSTOMIZE_HOUSE_PLAYER_NOT_ALLOWED:0 "@warning_icon!#X [DYNASTY_HOUSE.GetBaseNameNoTooltip]家はカスタマイズできません#!"

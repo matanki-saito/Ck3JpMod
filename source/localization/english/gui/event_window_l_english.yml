@@ -11,5 +11,5 @@
  REGENERATE_EVENT_CONTENTS:0 "#T イベント内容を再生成#!\nすべての場所、ポートレートなどが再生成されます。"
  TOGGLE_DATA_SYSTEM:0 "#T Toggle data system#!\nWill toggle whether the data system is run, making brackets and such show. Same as Localization.ToggleSkipDataSystemInLocOutput"
  COPY_EVENT_CONTENTS:0 "#T イベント内容をコピー#!\nイベントテキストの内容をクリップボードにコピーします"
- COURT_EVENT_DAYS_REMAINING:0 "@warning_icon!#X [CourtEventItem.GetDaysRemaining] days remaining#!"
+ COURT_EVENT_DAYS_REMAINING:0 "@warning_icon!#X 残り[CourtEventItem.GetDaysRemaining]日#!"
  COURT_EVENT_TIME_WARNING:0 "The last option will be chosen for you in #HIGH [EventWindowData.GetDaysRemaining]#! days"
