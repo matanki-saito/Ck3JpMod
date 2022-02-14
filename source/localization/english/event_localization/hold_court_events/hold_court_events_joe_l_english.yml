@@ -669,7 +669,7 @@
  hold_court.8221.d:0 "Everyone, back to your chambers!"
  hold_court.8221.e:1 "Is #DIE1 #EMP this#! how#! #DIE2 it ends?#!"
  hold_court.8221.f:0 "You there, guard! Stay by my side."
- hold_court.8221.end_hold_court:0 "The Hold Court session will be canceled"
+ hold_court.8221.end_hold_court:0 "謁見は中断となるだろう"
  hold_court.8222.killed:0 "[assassin.GetTitledFirstName] was killed while assassinating [victim.GetTitledFirstName]"
  hold_court.8222.imprison:0 "[assassin.GetTitledFirstName] was imprisoned while assassinating [victim.GetTitledFirstName]"
  hold_court.8222.success:0 "[assassin.GetTitledFirstName] succeeding in assassinating [victim.GetTitledFirstName]"
