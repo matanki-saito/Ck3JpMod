@@ -211,7 +211,7 @@
  ARTIFACT_CLAIMS:0 "宝物の請求権"
  NEW_ARTIFACT:1 "#V 新しい#!"
  EQUIPPED_ARTIFACT:2 "[Select_CString( Artifact.IsCourtArtifact, '飾られた', '装備された' )][Inventory.GetEquippedSlotOfMaxSlotText( Artifact.Self )]"
- CHARACTER_WITHOUT_ROYAL_COURT_COURT_ARTIFACT_TAB:1 "Since [Character.GetShortUIName] [Character.LocalPlayerString( 'have', 'has' )] no [royal_court|e], [Character.GetShortUIName] [Character.LocalPlayerString( 'have', 'has' )] nowhere to display these [court_artifacts|e]."
+ CHARACTER_WITHOUT_ROYAL_COURT_COURT_ARTIFACT_TAB:1 "[Character.GetShortUIName]が[royal_court|e]を持っていないため、[Character.GetShortUIName]はどこにも展示する[court_artifacts|e]を持っていません。"
  ARTIFACT_TITLE_ASSOCIATION:1 "[Artifact.GetAssociatedTitle.GetNameWithUnderlying]に継承"
  EMPTY_INVENTORY_TOOLTIP:0 "@warning_icon!#X 表示する[artifacts|e]または[artifact_claims|e]がないためインベントリを表示できません#!"
  ARTIFACT_PERSONAL_CLAIM:0 "個人の請求権"

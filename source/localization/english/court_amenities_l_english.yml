@@ -98,7 +98,7 @@
  COURT_AMENITIES_EXPENSES_NEW_MONTHLY_COST:0 "新しいコスト: [CourtAmenitiesWindow.GetNewMonthlyCost]"
  COURT_AMENITIES_APPLY_WARNING:0 "適用されると、変更された快適さは#X 12ヶ月間ロックされます#!"
  COURT_AMENITIES_CONFIRM_TITLE:1 "快適さレベルを変更"
- COURT_AMENITIES_CONFIRM_DESC:1 "If you change [court_amenities|E] in your Royal Court, you cannot that category again for [DATE.GetTimeToDate] ([DATE.GetStringLong]).\nThe new set of Amenities will cost $COST$."
+ COURT_AMENITIES_CONFIRM_DESC:1 "王宮における[court_amenities|E]を変更すると、[DATE.GetTimeToDate]間（[DATE.GetStringLong]まで）同カテゴリは再変更できません。\n変更後の快適さの維持費は$COST$です。"
  COURT_AMENITIES_CONFIRM_ACCEPT:0 "変更"
  COURT_AMENITIES_COOLTIP_ABOVE_DESCRIPTION:0 "維持費: [CourtAmenitiesSetting.GetCostDescription( GetPlayer )]\n[CourtAmenitiesSetting.GetEffectDescription]"
  COURT_AMENITIES_NEED_CHANGE:0 "@warning_icon!#X 快適さは変更されていません#!"

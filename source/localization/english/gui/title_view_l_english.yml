@@ -133,7 +133,7 @@
  TITLE_I_HAVE_UNPRESSED_CLAIM:0 "@unpressed_claim![title|E]に対する[unpressed_claim|E]を持っています"
  TITLE_I_HAVE_IMPLICIT_CLAIM:0 "@implicit_claim!この[title|E]に対する[implicit_claim|E]を持っています"
  TITLE_VIEW_GO_TO_HOLDING:0 "#I クリックで所領画面に移動#!"
- TITLE_VIEW_DE_JURE_TITLES:0 "[TITLE.GetBaseName]における$TIER$の[de_jure|E]"
+ TITLE_VIEW_DE_JURE_TITLES:0 "[TITLE.GetBaseName]における[de_jure|E]内の$TIER$"
  TITLE_VIEW_DE_JURE_BARONIES:0 "[TITLE.GetName]内の[baronies|E]"
  TITLE_VIEW_TITULAR:1 "[TitleViewWindow.GetTitle.GetNameNoTooltip|U]の下には[de_jure|E]の称号がありません"
  TITLE_VIEW_BARONY_NO_DEJURE:0 "[baronies|E]がその下に[de_jure|E]の称号を持つことはありません"
