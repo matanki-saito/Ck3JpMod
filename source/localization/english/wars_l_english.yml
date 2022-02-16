@@ -385,7 +385,7 @@
  DEBUG_ARTIFACT_WAR_NAME_FALLBACK:0 "$DEBUG_ARTIFACT_WAR_NAME$"
  artifact_war_victory_desc:0 "You take ownership of all [artifacts|e] that you have a claim on belonging to [defender.GetShortUIName|U] and their [vassals|e]."
  artifact_war_victory_desc_defender:0 "[attacker.GetShortUIName|U] takes ownership of all [artifacts|e] that they have a claim on belonging to you and your [vassals|e]."
- artifact_war_white_peace_desc:0 "No [artifacts|e] change hands."
+ artifact_war_white_peace_desc:0 "[artifacts|e]の保有者は変わりません。"
  artifact_war_defeat_desc:0 "$artifact_war_white_peace_desc$"
  artifact_war_invalidated_desc:0 "$ARTIFACT_WAR_NAME$ invalidated!"
  artifact_war:0 "[artifact|E]"

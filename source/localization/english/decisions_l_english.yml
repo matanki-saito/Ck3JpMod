@@ -367,7 +367,7 @@
  form_rum_sultanate_decision_effect_tooltip:0 "独立したルーム王国が建設されます"
  create_armenian_empire_decision:0 "大アルメニアの復活"
  create_armenian_empire_decision_desc:0 "ギリシアとペルシアだけが皇帝の威厳を保ってきたわけではない。遠い昔、ローマが皇帝というものを知らなかった時代、この地の君主は王の中の王であった。その時代がふたたび訪れるかもしれない"
- create_armenian_empire_decision_tooltip:0 "アルメニが[de_jure|E]としての[empire|E]となります"
+ create_armenian_empire_decision_tooltip:0 "アルメニアが[de_jure|E]としての[empire|E]となります"
  create_armenian_empire_decision_effects_de_jure_tt_a:0 "以下の[kingdoms|E]を保有している場合、それらはいずれも[armenian_armenia_empire.GetNameNoTier]の[de_jure|E]となります:\n[armenian_georgia.GetNameNoTier]、[armenian_daylam.GetNameNoTier]、[armenian_jazira.GetNameNoTier]、[armenian_syria.GetNameNoTier]、[armenian_anatolia.GetNameNoTier]、[armenian_pontus.GetNameNoTier]、[armenian_jerusalem.GetNameNoTier]"
  create_armenian_empire_decision_effects_de_jure_tt_b:1 "$custom_greater_armenia$内のすべての[duchies|E]は[armenian_armenia.GetNameNoTier]の[de_jure|E]となるか、あなたが[kingdom|E]を保有している場合はその一部に留まります。"
  create_armenian_empire_decision_confirm:0 "再び、海より海まで。"

@@ -121,7 +121,7 @@
  NO_HYBRIDIZE_INFO_HERITAGE:0 "あなたの文化の[heritage|E]を同じくする文化との[hybrid_culture|E]は形成できません"
  NO_HYBRIDIZE_INFO_PARENT:0 "自分の文化の親となる文化との[hybrid_culture|E]は形成できません。"
  NO_HYBRIDIZE_INFO_CHILD:0 "自分の文化の子となる文化との[hybrid_culture|E]は形成できません"
- HYBRIDIZE_CULTURE_LABEL:0 "Form Hybrid Culture"
+ HYBRIDIZE_CULTURE_LABEL:0 "混合文化を形成"
  HYBRIDIZE_CULTURE_TOOLTIP:0 "#T $HYBRIDIZE_CULTURE_LABEL$#!\nForm a new [hybrid_culture|E], creating a combination of aspects of both the [GetPlayer.GetCulture.GetNameNoTooltip] and [Culture.GetNameNoTooltip] Cultures\n\n[GetPlayer.GetCulture.GetHybridizationBlockers( Culture.Self )]"
  DIVERGE_CULTURE_LABEL:0 "文化を分岐する"
  DIVERGE_CULTURE_TOOLTIP:0 "#T Diverge Culture#!\nDiverge from [Culture.GetName], creating a new [divergent_culture|E].\n\n[GetPlayer.GetCulture.GetDivergenceBlockers]"

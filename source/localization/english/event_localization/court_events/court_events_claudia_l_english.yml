@@ -67,7 +67,7 @@
  court_6020_all_courtiers_and_guests_christian:1 "すべての同宗教の[courtiers|E]と[guests|E]"
  court_6020_all_courtiers_or_guests_polith:1 "All your other (non-cynical) [courtiers|E] and [guests|E]"
  court.6030.t:0 "ニンニク[ROOT.Char.Custom('GetQueenKing')]のバラード"
- court.6030.desc:1 "「#EMP 我々の小さな町の物語、\nニンニクの冠を持つ[ROOT.Char.Custom('GetQueenKing')]の、\n[ROOT.Char.Custom('GetUnbelieverNamePlural')]と戦うために[ROOT.Char.GetSheHe]はロバに乗り、\nでも[ROOT.Char.GetHerHis]がうまくいったのは子猿に対してだけだった…#!」\n\nこの呪われたバラードは放浪の吟遊詩人や平民たちといった人々の間で非常に人気がある——#EMP いや、人気がありすぎる#!、私自身とその主人公の間に不穏なほどの共通点を見出してからというもの…だが[6030_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が私の顔に向かって臆面もなく歌うのを聞くのはさすがに度を越している！"
+ court.6030.desc:1 "「#EMP 我々の小さな町の物語、\nニンニクかぶった[ROOT.Char.Custom('GetQueenKing')]様は、\nロバに乗って[ROOT.Char.Custom('GetUnbelieverNamePlural')]との戦いへ、\n捕まえたのは子猿一匹…#!」\n\nこの呪われたバラードは放浪の吟遊詩人や平民たちといった人々の間で非常に人気がある——#EMP いや、人気がありすぎる#!、私自身とその主人公の間に不穏なほどの共通点を見出してからというもの…だが[6030_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が私の顔に向かって臆面もなく歌うのを聞くのはさすがに度を越している！"
  court.6030.a:0 "でも#EMP それは#!とても愉快な話だ！"
  court.6030.b:0 "これは#EMP 非常に#!恥ずべきものだ…"
  court.6030.c:0 "#EMP お前はそれを愉快だと思うのか！？#!"

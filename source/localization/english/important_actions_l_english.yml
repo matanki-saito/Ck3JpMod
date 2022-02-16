@@ -353,7 +353,7 @@
  action_title_election_click:0 "#I クリックで選挙画面を表示#!"
  action_too_few_spouses:0 "過少な配偶者"
  action_too_few_spouses_label:0 "$action_too_few_spouses$"
- action_too_few_spouses_desc:0 "同[faith|E]の同胞に、適切な人数の[spouses|E]がいる示しがついていません。\n\n#help 現在付加されている[piety|E]ペナルティを取り消すには結婚しなければなりません。#!"
+ action_too_few_spouses_desc:0 "適切な人数の[spouses|E]がいないため、同[faith|E]の同胞に示しがついていません。\n\n#help 現在付加されている[piety|E]ペナルティを取り消すには結婚しなければなりません。#!"
  action_too_few_spouses_click:0 "#I クリックで宮廷内の配偶者候補を表示#!"
  action_can_lawfully_imprison_HELP:0 "\n\n#help [ruler|E]として、すべての[criminal|E]を投獄する必要はありませんが、金持ちや権力者の囚人がいると便利です。自由と引き換えに彼らから何かを得ることもできますし、もしあなたが血に飢えているなら、彼らを処刑することもできます。#!"
  action_can_create_title_HELP:0 "\n\n#help 称号の創設には[gold|E]がかかりますが、以下の利益があります: $CREATE_USURP_TITLE_PROS_CONS$#!"
