@@ -1,7 +1,7 @@
 ﻿l_english:
  INVENTORY_TITLE:0 "宝物庫"
  ANTIQUARIAN:0 "Antiquarian"
- PORTRAIT_NO_ANTIQUARIAN:0 "#T No $antiquarian_court_position$ employed#!\n#weak An $antiquarian_court_position$ will slow down [durability|E] decay and enable the #V $commission_artifact_decision$#! [decision|E].\n\n#I Click to employ an $antiquarian_court_position$#!"
+ PORTRAIT_NO_ANTIQUARIAN:0 "#T $antiquarian_court_position$が空席です#!\n#weak $antiquarian_court_position$は[durability|E]の劣化を軽減します。また、#V $commission_artifact_decision$#!の[decision|E]が実行可能になります。#!\n\n#I クリックすることで、$antiquarian_court_position$を雇用します#!"
  OPEN_INVENTORY_TOOLTIP:2 "#T 宝物庫を開く#!"
  REFORGE_OR_REPAIR:1 "$repair_or_reforge_and_repair$"
  INVENTORY_REFORGE_OR_REPAIR:0 "#T $REFORGE_OR_REPAIR$#!"

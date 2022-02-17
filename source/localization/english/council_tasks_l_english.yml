@@ -79,7 +79,7 @@
  marshal_supress_crime_modifier:0 "犯罪の抑制"
  marshal_supress_crime_modifier_desc:0 "#F この伯爵領は汚職に対する抵抗がある#!"
  task_suppress_crime_notification_tooltip:0 "$task_suppress_crime$から"
- task_train_commanders:0 "指揮官を訓練"
+ task_train_commanders:0 "指揮官の訓練"
  task_train_commanders_modifier:0 "$task_train_commanders$"
  task_train_commanders_effect_desc:3 "\n\n[commander|E]または[knight|E]を改善または新しく発見する可能性が毎月#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|1P]%#!\n$TAB$評議員の[martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|1P]%#!"
  task_train_commanders_commander_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_erudition_bonus')|P]%#!"

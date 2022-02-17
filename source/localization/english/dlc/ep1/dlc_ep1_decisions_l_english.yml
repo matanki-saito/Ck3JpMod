@@ -1,6 +1,6 @@
 ﻿l_english:
- order_mass_eviction_decision:0 "Order Mass Eviction"
- order_mass_eviction_decision_desc:0 "It's no secret that we lack spare rooms here at court in [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], nor that we have more than a few scrounging \"guests\" taking advantage of my- #EMP our#! hospitality.\n\nTypically, it would be rude to demand such layabouts move on, but if I were to claim that we simply cannot house them..."
+ order_mass_eviction_decision:0 "集団追放令を出す"
+ order_mass_eviction_decision_desc:0 "秘密にすらなってないが、[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の王宮は予備の部屋すら事欠く始末。いや、我が、#EMP 我らが#!もてなしに乗じた、浅ましい「お客人の方々」の滞在が少々どころではなくなってきたのだ。\n\n例のごとくぶしつけではあるが、ぐうたらな方々にお引き取り願うことにした。だが、もう泊められないと単純に言い放ってしまっては…"
  order_mass_eviction_decision.tt.courtier_option:0 "Due to your severe lack of lodgings, you may also opt to evict unimportant courtiers"
  order_mass_eviction_decision_tooltip:0 "Send your [guests|E] packing"
  order_mass_eviction_decision_confirm:0 "Space is at a premium!"

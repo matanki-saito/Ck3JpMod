@@ -28,7 +28,7 @@
  game_concept_court_type_trait_desc:2 "After serving [EmptyScope.ScriptValue('years_to_gain_court_type_trait')|0] years in a [royal_court|E] a [courtier|E] receives a [trait|E] reflecting the [court_type|E] of that court.\n\nThe quality of this Trait is decided by how long the [character|E] has served as a Courtier in the Court."
  game_concept_court_language:0 "宮廷言語"
  game_concept_court_languages:0 "宮廷言語"
- game_concept_court_language_desc:1 "宮廷言語とは[royal_court|E]で公的に使われる[language|E]のことで、貴族は日常語として、官僚は公用語として使用されています。\n\n[court_grandeur|E]の基本ラインは、該当の言語を共有する[realm|E]内の[county|E]毎、同じ宮廷言語を話す王宮毎、[ruler|E]の母語かどうか、に関連して増加します。"
+ game_concept_court_language_desc:1 "宮廷言語とは[royal_court|E]で公的に使われる[language|E]のことで、貴族は日常語として、官僚は公用語として使用しています。\n\n[court_grandeur|E]の基本ラインは、該当の言語を共有する[realm|E]内の[county|E]毎、同じ宮廷言語を話す王宮毎、[ruler|E]の母語かどうか、に関連して増加します。"
  game_concept_inspiration:0 "ひらめき"
  game_concept_inspirations:0 "ひらめき"
  game_concept_inspired:0 "Inspired"
