@@ -896,7 +896,7 @@
  court_amenities_interactions.0013.desc:1 "As time goes by, many in [debate_locale.GetNameNoTierNoTooltip] have taken to calling me the [actor.GetTitleAsNameNoTooltip] of Fashion!"
  court_amenities_interactions.0013.a:0 "Hail to the [actor.GetTitleAsNameNoTooltip]!"
  commission_epic_artifact_tt:1 "You may receive a Family Epic [artifact|E]"
- PETITION_LIEGE_DECISION_SELECT_PETITION_TITLE:0 "Choose a type of [petition_liege|E]"
+ PETITION_LIEGE_DECISION_SELECT_PETITION_TITLE:0 "[petition_liege|E]の種類を選択"
  PAY_HOMAGE_DECISION_SELECT_GIFT_TITLE:0 "Choose a [pay_homage|E] gift"
  convert_to_tribalism_decision:0 "Embrace Tribalism"
  convert_to_tribalism_decision_desc:0 "How can I call myself a lord when it doesn't mean anything for my people? If I cannot convert them, there is only one alternative: I need to adopt them."
