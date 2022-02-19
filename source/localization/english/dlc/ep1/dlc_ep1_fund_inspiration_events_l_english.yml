@@ -950,7 +950,7 @@
  inspiration_type_object_artisan:0 "[ROOT.Char.Custom('InspirationArtisanBaseType')]"
  inspiration_type_object_smith:0 "[ROOT.Char.Custom('InspirationSmithBaseType')]"
  inspiration_type_object_alchemy:0 "tincture"
- inspiration_type_object_fallback:0 "project"
+ inspiration_type_object_fallback:0 "プロジェクト"
  inspiration_artisan_base_type_chest:0 "chest"
  inspiration_artisan_base_type_box:0 "box"
  inspiration_artisan_base_type_sculpture:0 "sculpture"

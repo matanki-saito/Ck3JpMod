@@ -183,4 +183,4 @@
  vassal.5060.desc:0 "[vassal.GetTitledFirstName]に対し[vassal.GetHerHis]の[claim.GetName]における請求権を巡って戦争をすると誓ってから一年が経った。[vassal.GetTitledFirstName]は、私が[vassal.GetHerHis]に代わって行動しなかったことを不満に思うだろう。"
  vassal.5060.a:0 "そんな約束をするべきではなかったのかもしれない。"
  vassal.5060.b:0 "まだその時ではない、そうだろう？"
- vassal.1110.a:0 "I live to serve [religious_vassal.GetFaith.HighGodName]."
+ vassal.1110.a:0 "私は[religious_vassal.GetFaith.HighGodName]に仕えるために生きている。"

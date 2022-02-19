@@ -143,7 +143,7 @@
  health.2101.bubonic_plague_spreads.desc:0 "また別の魂が死の扉の前に立っていて、ぞっとする便毒が[sick_character.GetHerHis]の肌をぼろぼろにしている。"
  health.2101.imporant.desc:1 "My poor [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetFirstName] is fighting for [sick_character.GetHerHis] life."
  health.2101.prisoner.desc:1 "この不運なる犠牲者は[sick_character.GetTitledFirstName]、特別な囚人様であらせられる。"
- health.2101.courtier_or_guest.desc:1 "The unfortunate victim is my [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetTitledFirstName]."
+ health.2101.courtier_or_guest.desc:1 "この不幸なる犠牲者こそは我が[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetTitledFirstName]である。"
  health.2101.immune.desc:0 "\n\n私はこの破壊的な病気の災禍には免疫があるが、[sick_character.GetFirstNamePossessive]の存在は宮廷におる他の皆に危険をもたらす。"
  health.2101.not_immune.desc:0 "\n\n[sick_character.GetHerHis]の肉に宿った病毒は我らに危険をもたらす。[sick_character.GetSheHe]が苦しみに置かれている間は、宮廷での生活は安全ではない。"
  health.2101.a:0 "[sick_character.GetHerHim]を隔離し、救済を祈る。"
