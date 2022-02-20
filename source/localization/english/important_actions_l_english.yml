@@ -388,7 +388,7 @@
  action_title_lost_from_realm_on_foreign_ruler_succession_combined_group_label:0 "封臣が外国の称号を継承した場合、領国が失われます"
  action_title_lost_from_realm_on_foreign_ruler_succession_combined_group_name:0 "封臣が外国の称号を継承した場合、領国が失われます"
  action_title_lost_from_realm_on_foreign_ruler_succession_combined_group_description:0 "あなたの[vassals|E]の中には、現在の[primary_title|E]よりも上位の[Concept( 'title_tier', 'Tier' )|E]の外国の称号を[Concept( 'heir', 'inherit' )|E]する者がいます。\n\n$TLFR_FOREIGN_RULER_SUCCESSION_TIPS$"
- TLFR_FOREIGN_RULER_SUCCESSION_TIPS:0 "#help 封臣が外国の領地で現在の[primary_title|E]よりも高い[title_rank|E]の称号を得た場合、その封臣はあなたの封臣ではなくなります。\n\n以下の方法で、封臣があなたの領地を離れるのを防ぐことができるかもしれません: \n$BULLET_WITH_TAB$封臣の称号を[Concept( 'revoke', 'Revoking' )|E]する\n$BULLET_WITH_TAB$封臣が継承するものと同等の[Concept('title_tier', 'Tier')|E]の称号を与える#!"
+ TLFR_FOREIGN_RULER_SUCCESSION_TIPS:0 "#help 封臣が、外国の、現[primary_title|E]よりも高い[title_rank|E]の称号を得た場合、その封臣はあなたの封臣ではなくなります。\n\n以下の方法で、封臣の離脱を防げるかもしれません: \n$BULLET_WITH_TAB$封臣の称号を[Concept( 'revoke', '剥奪' )|E]する\n$BULLET_WITH_TAB$封臣が継承するものと同等の[Concept('title_tier', '階級')|E]の称号を与える#!"
  action_disabled_building_HELP:0 "\n\n#help 無効化された建物は、その所有者に利益をもたらしません。建物が無効になっている理由はたくさんありますが、最も一般的なものは[government|E]の種類が不適当であることです。#!"
  action_send_child_to_university_desc:1 "あなたの子供を大学に送ることができます。\n\n#help 大学[building|E]があなたの[realm|E]に存在します！そこへ子供を教育のために送ることは、彼らの[education|E]を向上させるので有益です。\n\nしかし、あなたはすでに特定の[guardian|E]を思い定めているかもしれません。#!"
  is_defender_in_war_trigger:0 "[war.GetName]で防衛側である"
