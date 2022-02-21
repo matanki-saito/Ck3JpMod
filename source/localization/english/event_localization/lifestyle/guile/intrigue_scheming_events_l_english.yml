@@ -135,7 +135,7 @@
  intrigue_scheming.3052.a:0 "[vassal_target.GetFirstNamePossessiveNoTooltip]の悲鳴を聞いても、[liege_target.GetFirstNameNoTooltip]は納得がいった。"
  intrigue_scheming.3053.desc:0 "私は[liege_target.GetTitledFirstName]を[vassal_target.GetTitleTierName]の誘いによって[vassal_target.GetTitledFirstNamePossessive]の地下牢へとおびき寄せた。そこで私は我々の主人が[vassal_target.GetHerHis]自身の家の囚人であることを明かすのを待った。\n\n[liege_target.GetFirstName]は私の予想に反し拷問の展示に怯えてはいなかった。「お前の卑劣な性質が私を恐れさせることなどないぞ、 [ROOT.Char.GetTitledFirstName]！」"
  intrigue_scheming.3053.a:0 "その後では、[vassal_target.GetFirstNamePossessiveNoTooltip]の慈悲の嘆願でも、私を元気づけることは出来ない。"
- intrigue_scheming.3061.t:0 "混乱した遺産"
+ intrigue_scheming.3061.t:0 "混乱した出自"
  intrigue_scheming.3061.desc:0 "何日もの間、[target.GetDynasty.GetBaseName]の血統を気にしていたが、今は確信している。[target.GetTitledFirstName]が、[target.GetHerHis]の[target.Custom2('RelationToMe', SCOPE.sC('heir'))]である[heir.GetTitledFirstName]の父親であることを証明できる決定的な証拠は無い！\n\n証拠が不足しているところには、証拠を仕掛けることができる…[heir.GetFirstNamePossessive]の出自について新たな真実を書き上げる時が来たのだ！"
  intrigue_scheming.3061.a:0 "[new_father.GetTitledFirstNameNoTooltip]が立派な父親になるだろう。"
  intrigue_scheming.3061.b:0 "[mother.GetTitledFirstName]が使用人と交わっただと？恥だ！"

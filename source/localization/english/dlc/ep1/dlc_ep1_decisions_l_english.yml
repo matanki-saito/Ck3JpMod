@@ -1,7 +1,7 @@
 ﻿l_english:
  order_mass_eviction_decision:0 "集団追放令を出す"
  order_mass_eviction_decision_desc:0 "秘密にすらなってないが、[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の王宮は予備の部屋すら事欠く始末。いや、我が、#EMP 我らが#!もてなしに乗じた、浅ましい「お客人の方々」の滞在が少々どころではなくなってきたのだ。\n\n例のごとくぶしつけではあるが、ぐうたらな方々にお引き取り願うことにした。だが、もう泊められないと単純に言い放ってしまっては…"
- order_mass_eviction_decision.tt.courtier_option:0 "宿泊スペースがひっ迫しているため、重要性を欠く廷臣らに立ち退いてもらう選択もやむを得ない"
+ order_mass_eviction_decision.tt.courtier_option:0 "宿泊スペースがひっ迫しているため、重要性を欠く廷臣らに立ち退いてもらう選択もやむを得ません"
  order_mass_eviction_decision_tooltip:0 "[guests|E]連中を追い出します"
  order_mass_eviction_decision_confirm:0 "スペースは貴重だ！"
  AT_LEAST_ONE_GUEST_TRIGGER:0 "[guest|E]が1人以上いる"

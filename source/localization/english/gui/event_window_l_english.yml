@@ -12,4 +12,4 @@
  TOGGLE_DATA_SYSTEM:0 "#T Toggle data system#!\nWill toggle whether the data system is run, making brackets and such show. Same as Localization.ToggleSkipDataSystemInLocOutput"
  COPY_EVENT_CONTENTS:0 "#T イベント内容をコピー#!\nイベントテキストの内容をクリップボードにコピーします"
  COURT_EVENT_DAYS_REMAINING:0 "@warning_icon!#X 残り[CourtEventItem.GetDaysRemaining]日#!"
- COURT_EVENT_TIME_WARNING:0 "The last option will be chosen for you in #HIGH [EventWindowData.GetDaysRemaining]#! days"
+ COURT_EVENT_TIME_WARNING:0 "最後のオプションは、#HIGH [EventWindowData.GetDaysRemaining]#!日以内に選ばれます。"

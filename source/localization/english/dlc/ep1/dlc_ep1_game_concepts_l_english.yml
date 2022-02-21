@@ -1,6 +1,6 @@
 ﻿l_english:
  game_concept_royal_court:0 "王宮"
- game_concept_royal_courts:0 "Royal Courts"
+ game_concept_royal_courts:0 "王宮"
  game_concept_royal_court_desc:1 "傑出した[rulers|E]は王宮の手厚い維持管理でも著名で、多様なボーナスや好機の数々を手に出来ます。\n\n[GetGovernment( 'feudal_government' ).GetName]や[GetGovernment( 'clan_government' ).GetName]における[ruler|E]は、[king|E]や[emperor|E]を戴冠すると、王宮を活用できるようになります。\n\n王宮にはそれぞれ[court_grandeur_level|E]があり、「王宮がどれだけ有名なのか」を基礎として利益を提供します。また、[court_type|E]もあります。\n\n請願者、[vassals|E]、[courtiers|E]が、不意に王宮へと姿を見せることがあるかもしれません。もしくは、[realm|E]中に存在する不平不満を並べ立てる誰かを招いて、[hold_court|E]を開催できます。\n\n王宮には、[court_artifacts|E]の展示も可能です。もしかすると新たに[artifacts|E]の製作を申し出る[inspired|E]が生まれた[guests|E]が現れるかもしれません。\n\n自らの逝去にあたって、[player_heir|E]が王宮を相続します。"
  game_concept_court_grandeur_level:0 "宮廷の威光レベル"
  game_concept_court_grandeur_levels:0 "宮廷の威光レベル"
@@ -31,7 +31,7 @@
  game_concept_court_language_desc:1 "宮廷言語とは[royal_court|E]で公的に使われる[language|E]のことで、貴族は日常語として、官僚は公用語として使用しています。\n\n[court_grandeur|E]の基本ラインは、該当の言語を共有する[realm|E]内の[county|E]毎、同じ宮廷言語を話す王宮毎、[ruler|E]の母語かどうか、に関連して増加します。"
  game_concept_inspiration:0 "ひらめき"
  game_concept_inspirations:0 "ひらめき"
- game_concept_inspired:0 "Inspired"
+ game_concept_inspired:0 "ひらめき"
  game_concept_inspiration_desc:2 "ひらめきを得た[characters|E]とは、[project|E]を抱える腕利きの職人のことです。[project|E]は、あなたが[sponsor|E]になるかどうかで完遂の可否が決まります。\n\nこういった人物は、[artifact|E]の作成を目的とする、宝物の作成依頼の[decision|E]を用いることで雇えます。[SelectLocalization( HasDlcFeature( 'royal_court' ), 'game_concept_inspiration_desc_DLC', '' )]\n\n[project|E]の完遂時、後援者は成果として普通は宝物を手にします。"
  game_concept_inspiration_desc_DLC:0 "\n\nさらには、ひらめきを得た人物は[royal_courts|E]へと定期的に訪れます。特に、高い[court_grandeur_level|E]において顕著です。"
  game_concept_sponsor:0 "後援者"

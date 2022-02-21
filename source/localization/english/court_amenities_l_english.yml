@@ -21,7 +21,7 @@
  court_food_quality_decent_desc:0 "この宮廷は、時折、斬新な美味しさが提供される。"
  court_food_quality_lavish_desc:0 "シェフの一団が、常に美味しいご馳走を提供する。大皿の料理を持った召使いが集まった客人に付き従う。"
  court_food_quality_exotic_desc:0 "使用人は外国へと送られ、豊富なエキゾチックな食べ物と共に戻ってくる。このホールを通過しない料理に喜びなどない。"
- court_lodging_standards:0 "Lodging Standards"
+ court_lodging_standards:0 "宿の基準"
  court_lodging_standards_default:1 "窮屈な寝室"
  court_lodging_standards_small:0 "小さな寝室"
  court_lodging_standards_middling:0 "普通の寝室"

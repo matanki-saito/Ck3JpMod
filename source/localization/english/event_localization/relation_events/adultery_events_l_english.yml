@@ -138,7 +138,7 @@
  adultery.2002.b:0 "これで安心だ！"
  adultery.2003.desc:0 "「はい、お父——いえ、[ROOT.Char.GetFirstNameNoTooltip]、[real_father.GetTitledFirstName]が私の本当の[real_father.Custom('MotherFather')]です！」\n\n私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]である[adultery_spouse.GetTitledFirstNamePossessive]の裏切りの痛みは、ようやく真実を知った時の安堵感にほとんど打ち消されている。[adultery_spouse.GetSheHe]と[adultery_child.GetFirstName]がこれを私に対してずっと隠し続けてきたと考えると…"
  adultery.2003.a:0 "よくも彼らは私をこんな風に騙してくれたな！？"
- adultery.2006.t:0 "私の遺産"
+ adultery.2006.t:0 "私の出自"
  adultery.2006.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))]である[owner.GetTitledFirstName]は、私が[owner.GetHerHim]ではなく、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))]である[real_father.GetTitledFirstName]の[ROOT.Char.Custom('GetDaughterSon')]であることを知った！少なくとも、世間には知られていない…まだ。"
  adultery.2006.a:0 "今、私はどうやって[owner.GetHerHim]と向き合えばよいのだ？"
  adultery.2008.t:0 "私の[adultery_child.Custom('GetDaughterSon')|U]？"

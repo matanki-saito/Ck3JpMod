@@ -7,7 +7,7 @@
  single_combat.0001.desc.sc_defender.intro:1 "少し離れて向き合い、[sc_attacker.GetTitledFirstName]と私は互いの出方を伺う。[sc_attacker.Custom('SignatureWeaponNameOrType')]から繰り出される一撃は、きっと恐るべきものとなるだろう。私はもう一度[sc_defender.Custom('SignatureWeaponNameOrType')]を握り直す。冷たく輝くその武器は、普段よりもずっと重く感じられた。\n\n"
  single_combat.0001.desc.capstone.intro.first_blood:0 "負けても死ぬわけではない。それなのに、一体この緊張感は何だというのだ！？"
  single_combat.0001.desc.capstone.intro.deadly:0 "勝敗は今この場で決せられる。覚悟は決まった。"
- single_combat.0001.desc.sc_attacker.intro:1 "孤を描くように歩きながら、[sc_defender.GetTitledFirstName]は私の様子を伺っている。[sc_defender.GetSheHe]が[sc_defender.Custom('SignatureWeaponNameOrType')]を固く握りしめた。私も[sc_attacker.Custom('SignatureWeaponNameOrType')]を構え直す。"
+ single_combat.0001.desc.sc_attacker.intro:1 "弧を描くように歩きながら[sc_defender.GetTitledFirstName]と私は、お互いの様子を伺っている。[sc_defender.GetSheHe]が[sc_defender.Custom('SignatureWeaponNameOrType')]を固く握りしめた。私も[sc_attacker.Custom('SignatureWeaponNameOrType')]を構え直す。"
  single_combat.0001.desc.sc_attacker.intro.epilogue:1 "\n\n静寂は破られ、戦いが始まる。\n\n"
  single_combat.0001.duel_success.none:0 "#difficulty_hard なし#! あなたの[single_combat_success_chance|E]が上昇"
  single_combat.0001.duel_success.low:0 "#difficulty_hard 低い#! あなたの[single_combat_success_chance|E]が上昇"
