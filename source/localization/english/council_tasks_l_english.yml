@@ -352,7 +352,7 @@
  task_convince_dejure:0 "慣習的領土内の地域の説得"
  task_convince_dejure_effect_desc:0 "#S #V 100%#!到達時#!:\n$TAB$任務対象の[county|E]からその[ruler|E]に対して、自身を[de_jure|E]の主君へと譲り渡すよう要求が発せられる"
  steward_convince_dejure_potential_county_tt:0 "You are the [de_jure|E] liege but not the current [ruler|E] of the target [county|E]"
- steward_convince_dejure_potential_county_tt_2:0 "If the task fails, it cannot be tried on the same county for 10 years"
+ steward_convince_dejure_potential_county_tt_2:0 "任務が失敗した場合、10年間は同じ伯爵領で試すことはできません"
  task_convince_dejure_gain_prestige:0 "\n$EFFECT_LIST_BULLET$#P 威信増加量#!"
  task_convince_dejure_diplomatic_blunder:0 "\n$EFFECT_LIST_BULLET$#N Diplomatic Blunder#!"
  task_convince_dejure_lose_prestige:0 "\n$EFFECT_LIST_BULLET$#N 威信低下量#!"

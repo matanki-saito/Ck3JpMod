@@ -160,7 +160,7 @@
  petition_liege.0205.a:0 "A fair offer — I accept."
  petition_liege.0205.b:0 "Are you kidding? I'm pushed to my limits as it is!"
  petition_liege_skillcheck_counter_tt:0 "Attempt to convince your liege by other means"
- petition_liege.0209.t:0 "$petition_liege_header$ Rejected"
+ petition_liege.0209.t:0 "$petition_liege_header$拒否"
  petition_liege.0209.desc.intro:0 "$petition_liege.0201.desc.intro$"
  petition_liege.0209.desc.bridge:0 "\n\nAfter listening to the speech, [petition_liege.GetSheHe] frowns and rebuffs me."
  petition_liege.0209.desc.bridge.apologetic:1 "$petition_liege.0209.desc.bridge$ \"I apologize, but, for the good of [petition_liege.GetPrimaryTitle.GetNameNoTierNoTooltip], I must refuse your request.\""

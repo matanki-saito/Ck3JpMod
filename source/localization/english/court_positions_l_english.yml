@@ -260,7 +260,7 @@
  cultural_emissary_court_position_desc:0 "$cultural_emissary_court_position$の目的とは、異なる文化間に相互理解の向上です。そのために儀式的で崇高な手法を用います。"
  court_artificer_court_position:0 "Court Artificer"
  court_artificer_court_position_desc:0 "A $court_artificer_court_position$ is someone who's proven themselves able to craft great things. While they mostly lull around in your court, the hope is for inspiration to strike once more."
- court_artificer_employer_custom_effect_description:0 "Has a chance to become [inspired|E] again (based on [aptitude|E])\n@warning_icon!#X Will leave the [court|E] if fired#!"
+ court_artificer_employer_custom_effect_description:0 "再び[inspired|E]を得る可能性があります([aptitude|E]に基づく)\n@warning_icon!#X 解任された場合[court|E]を去るでしょう#!"
  court_artificer_inspired_effect:0 "あなたの[GetCourtPositionType('court_artificer_court_position').GetName()][artificer.GetFirstName]が[inspiration|E]を得ました"
  has_an_inspiration:0 "有効な[inspiration|E]を持っている"
  has_a_completed_inspiration:0 "以前に[inspiration|E]を完了させている"

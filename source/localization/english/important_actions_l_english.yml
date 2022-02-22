@@ -497,7 +497,7 @@
  action_has_open_court_event_label:1 "終了していない宮廷イベントがあります"
  action_has_open_court_event_desc:1 "You have an unfinished business in your [royal_court|E], you should return and take action."
  action_has_open_court_event_click:0 "#I クリックで表示#!"
- action_has_courtier_or_guest_with_inspiration:1 "[Concept('inspiration','Inspired')|E] Person can be [Concept('sponsor','Sponsored')|E]"
+ action_has_courtier_or_guest_with_inspiration:1 "[Concept('inspiration','ひらめき')|E]を得た人物を[Concept('sponsor','後援')|E]可能です。"
  action_has_courtier_or_guest_with_inspiration_label:0 "廷臣または客人の一人が[inspiration|E]を持っています"
  action_has_courtier_or_guest_with_inspiration_desc:0 "廷臣または客人の一人が[inspiration|E]を持っており、[artifact|E]の制作のために後援が可能です"
  action_has_courtier_or_guest_with_inspiration_click:0 "#I クリックで表示#!"

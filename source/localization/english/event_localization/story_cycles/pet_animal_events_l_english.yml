@@ -206,5 +206,5 @@
  pet_animal.0197.desc_court_5020:0 "Ever since I started limiting the comings and goings of [ROOT.Char.Custom('CatStoryName')] I have seen [ROOT.Char.Custom('CatStoryHerHim')] less and less.\n\nIt has now been weeks since I last saw [ROOT.Char.Custom('CatStoryHerHim')] and I fear that [ROOT.Char.Custom('CatStorySheHe')] has left me for good.\n\nMy courtiers seem happy about their fur-free quarters, but my lap has never felt so empty..."
  pet_animal.0197.desc:0 "[ROOT.Char.Custom('CatStoryName')] has taken to straying further and further from home lately and staying away for longer periods of time.\n\nIt has now been weeks since I last saw [ROOT.Char.Custom('CatStoryHerHim')] and I fear that [ROOT.Char.Custom('CatStorySheHe')] has left me for good."
  pet_animal.0197.a:0 "Please come back, [ROOT.Char.Custom('CatStoryName')]!"
- pet_animal.0199.b:0 "I will make sure that you'll forever be by my side!"
+ pet_animal.0199.b:0 "いつでも私の傍にいてくれるようにしよう!"
  pet_animal.0199.b.tt:0 "You gain a small tanned hide [court_artifact|E]"

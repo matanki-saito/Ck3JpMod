@@ -1,6 +1,6 @@
 ﻿l_english:
- courtier_gained_court_type_trait_title:0 "[courtier.GetShortUINameNoTooltip] Gained Court Trait"
- multiple_courtiers_gained_court_type_trait_title:0 "Courtiers Gained Court Trait"
+ courtier_gained_court_type_trait_title:0 "[courtier.GetShortUINameNoTooltip]は宮廷の特性を得た"
+ multiple_courtiers_gained_court_type_trait_title:0 "廷臣は宮廷の特性を得た"
  multiple_courtiers_gained_diplomatic_2_trait_desc:0 "[courtier_1.GetShortUIName]、[courtier_2.GetShortUIName]その他[THIS.Var('num_other_relevant_courtiers').GetValue|V0]人の廷臣は[GetTrait('diplomatic_court_2').GetName( GetNullCharacter )]の[trait|E]を獲得した"
  multiple_courtiers_gained_diplomatic_1_trait_desc:0 "[courtier_1.GetShortUIName]、[courtier_2.GetShortUIName]その他[THIS.Var('num_other_relevant_courtiers').GetValue|V0]人の廷臣は[GetTrait('diplomatic_court_1').GetName( GetNullCharacter )]の[trait|E]を獲得した"
  multiple_courtiers_gained_warlike_2_trait_desc:0 "[courtier_1.GetShortUIName]、[courtier_2.GetShortUIName]その他[THIS.Var('num_other_relevant_courtiers').GetValue|V0]人の廷臣は[GetTrait('warlike_court_2').GetName( GetNullCharacter )]の[trait|E]を獲得した"

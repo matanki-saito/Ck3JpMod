@@ -86,7 +86,7 @@
  scorn_reaction:0 "軽蔑"
  pride_reaction:0 "誇り"
  gained_royal_court_toast:0 "王宮を獲得"
- gained_royal_court_toast_desc:0 "今、あなたは[royal_court|E]を持っています"
+ gained_royal_court_toast_desc:0 "今やあなたは、[royal_court|E]の主です"
  court_maintenance.0012.t:0 "卓越の印"
  court_maintenance.0012.desc:0 "我が王朝の名声が高まるにつれ、輝かしい[ROOT.Char.GetDynasty.GetName]の紋章への親しみも広がっている。\n\n"
  court_maintenance.0012.desc_illustrious:0 "我が一族のシンボルは今や世界中に知られ、宰相に言及され、子供たちに教えられ、[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]に足を踏み入れたこともない異国の商人たちをも喜ばせている。"
