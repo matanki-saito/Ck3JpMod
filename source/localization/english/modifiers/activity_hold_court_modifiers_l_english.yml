@@ -1,8 +1,8 @@
 ﻿l_english:
- hold_court_written_language_women_modifier:0 "Language of Women"
- hold_court_written_language_women_modifier_desc:0 "This character has learned to use a written language developed specifically for women."
- hold_court_written_language_women_advanced_modifier:0 "Advanced Language of Women"
- hold_court_written_language_women_advanced_modifier_desc:0 "This character has reached fluency and a deep understanding of a written language developed specifically for women."
+ hold_court_written_language_women_modifier:0 "女言語"
+ hold_court_written_language_women_modifier_desc:0 "この人物は女性のために開発された書き言葉を使いこなすことができる。"
+ hold_court_written_language_women_advanced_modifier:0 "高度な女言語"
+ hold_court_written_language_women_advanced_modifier_desc:0 "この人物は女性のために開発された書き言葉を流暢に使い、深く理解している。"
  hold_court_written_language_men_modifier:0 "Language of Men"
  hold_court_written_language_men_modifier_desc:0 "This character has learned to use a written language developed specifically for men."
  hold_court_written_language_men_advanced_modifier:0 "Advanced Language of Men"

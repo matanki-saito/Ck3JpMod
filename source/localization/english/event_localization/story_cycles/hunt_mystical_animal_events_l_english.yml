@@ -39,4 +39,4 @@
  hunt_mystical_animal.9001.a:0 "…そして私は矢を放つ。"
  hunt_mystical_animal.9002.desc:0 "「我が[ROOT.Char.GetLadyLord]！地元の農民からあなた様に贈り物です。[dummy_peasant_gender.GetSheHe|U]はこの白さは天然だと断言していますが、私は今まで見たことがありません！」\n\n湧き上がる震えと共に私はその包みに近づく——そしてそこにはそれが横たわっていた、私が長年費やしていたあの白い[ROOT.Char.Custom('LocalAnimal')]。"
  hunt_mystical_animal.9002.a:0 "これは何かの冗談だろう…！"
- hunt_mystical_animal.1003.e:0 "[m_hunt.GetTitledFirstName], organize a search party!"
+ hunt_mystical_animal.1003.e:0 "[m_hunt.GetTitledFirstName]、捜索班を組織せよ！"
