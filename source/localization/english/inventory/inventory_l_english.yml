@@ -1,5 +1,5 @@
 ﻿l_english:
- MOD_ARTIFACT_DECAY_REDUCTION_ADD:0 "Artifact Decay Reduction"
+ MOD_ARTIFACT_DECAY_REDUCTION_ADD:0 "宝物劣化の軽減"
  MOD_ARTIFACT_DECAY_REDUCTION_MULT:0 "$MOD_ARTIFACT_DECAY_REDUCTION_ADD$"
  artifact_history_created_title:1 "[HISTORY_ENTRY.GetDate.GetString]"
  artifact_history_created_desc:2 "[HISTORY_ENTRY.GetLocation.GetNameNoTooltip]において[SelectLocalization( HISTORY_ENTRY.HasActor, HISTORY_ENTRY.GetActor.GetNameNoTooltip, 'UNKNOWN_BENEFACTOR' )]により[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]のために製作された"

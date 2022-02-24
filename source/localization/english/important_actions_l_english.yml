@@ -491,7 +491,7 @@
  action_can_reforge_artifact_combined_label:0 "[artifact.GetName]"
  action_has_unopened_court_event:2 "宮廷イベントが利用可能"
  action_has_unopened_court_event_label:2 "新しい宮廷イベントがあります"
- action_has_unopened_court_event_desc:2 "A situation has appeared in your [royal_court|E] that you can weigh in on."
+ action_has_unopened_court_event_desc:2 "あなたの[royal_court|E]に、あなたが検討することができる事態が現れました。"
  action_has_unopened_court_event_click:1 "$action_has_open_court_event_click$"
  action_has_open_court_event:1 "宮廷イベントを再開"
  action_has_open_court_event_label:1 "終了していない宮廷イベントがあります"

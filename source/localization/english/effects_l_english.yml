@@ -1686,7 +1686,7 @@
  custom.every_male_courtier:0 "すべての男性[courtier|E]"
  guest_and_family_move_to_specific_pool_effect.tt.family:0 "The [character|E] and any [family|E] traveling with them"
  set_knight_status:0 "[THIS.GetCharacter.GetShortUINameNoTooltip] is forbidden from serving as a Knight"
- SPONSOR_INSPIRATION:0 "[INSPIRATION.GetOwner.Custom('InspirationTypeDescription')]ため、[INSPIRATION.GetOwner.GetShortUIName|U]に対して@gold_icon![INSPIRATION.GetBaseGoldCost]を提供します"
+ SPONSOR_INSPIRATION:0 "[INSPIRATION.GetOwner.GetShortUIName|U]による[INSPIRATION.GetOwner.Custom('InspirationTypeDescription')]に、@gold_icon![INSPIRATION.GetBaseGoldCost]を出資します"
  SPONSORED_INSPIRATION:1 "[INSPIRATION.GetOwner.GetShortUIName|U]に対して@gold_icon![INSPIRATION.GetBaseGoldCost]を提供しました"
  STOP_SPONSORING_INSPIRATION:0 "[INSPIRATION.GetOwner.GetShortUINamePossessive|U]の[INSPIRATION.GetName]への後援を中止します"
  STOPPED_SPONSORING_INSPIRATION:0 "[INSPIRATION.GetOwner.GetShortUINamePossessive|U]の[INSPIRATION.GetName]への後援を中止しました"

@@ -69,7 +69,7 @@
  ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS_PLURAL:0 "[court_artifacts|E]"
  ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS:2 "あなたは[LocalPlayerNewArtifacts.GetNumNewArtifactsOfCategory( 'court' )|V]の新しい[SelectLocalization( GreaterThan_int32( LocalPlayerNewArtifacts.GetNumNewArtifactsOfCategory( 'court' ), '(int32)1' ), 'ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS_PLURAL', 'ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS_SINGLE' )]を持っています"
  ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS_BULLET:0 "$EFFECT_LIST_BULLET$$ROYAL_COURT_STATUS_NEW_COURT_ARTIFACTS$"
- ROYAL_COURT_STATUS_CGV_EXPECTATIONS:2 "あなたに[court_grandeur|E]は[court_grandeur_expectations|E]を下回っています"
+ ROYAL_COURT_STATUS_CGV_EXPECTATIONS:2 "あなたの[court_grandeur|E]は[court_grandeur_expectations|E]を下回っています"
  ROYAL_COURT_STATUS_CGV_EXPECTATIONS_BULLET:0 "$EFFECT_LIST_BULLET$$ROYAL_COURT_STATUS_CGV_EXPECTATIONS$"
  ROYAL_COURT_STATUS_CURRENT_EVENTS:2 "あなたの宮廷に[LocalPlayerCourtEvents.GetNumberCourtEvents|V]個の未処理の[Select_CString( GreaterThan_int32( LocalPlayerCourtEvents.GetNumberCourtEvents, '(int32)1' ), '事態', '事態' )]があります"
  ROYAL_COURT_STATUS_CURRENT_EVENTS_BULLET:0 "$EFFECT_LIST_BULLET$$ROYAL_COURT_STATUS_CURRENT_EVENTS$"
