@@ -76,7 +76,7 @@
  COURT_POSITIONS_category_frivolous:0 "Frivolous"
  COURT_POSITIONS_category_fighters:0 "Fighters"
  COURT_POSITIONS_months_of_service:1 "Months of service: $MONTHS$"
- COURT_POSITIONS_years_of_service:1 "Years of service: $YEARS$"
+ COURT_POSITIONS_years_of_service:1 "就任$YEARS$年目"
  COURT_POSITION_TOOLTIP_EFFECT_ON_YOUR_LIEGE:0 "あなたの[liege|e]への影響:"
  COURT_POSITION_TOOLTIP_EFFECT_ON_LIEGE:0 "[liege|e]への影響:"
  COURT_POSITION_TOOLTIP_SCALED_EFFECT_ON_LIEGE:0 "Effect on [liege|e], based on employee's [aptitude|e]:"

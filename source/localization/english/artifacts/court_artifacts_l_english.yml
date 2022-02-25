@@ -310,7 +310,7 @@
  feature_book_decoration_pattern_embroidered:0 "The cover is [Artifact.GetFeatureText( 'book_cover_material' )] that has been embroidered to display a repeating image of [Artifact.GetFeatureText( 'decoration_pattern' )]"
  feature_book_decoration_pattern_carved:0 "The cover is [Artifact.GetFeatureText( 'book_cover_material' )] that has been carved to display a repeating image of [Artifact.GetFeatureText( 'decoration_pattern' )]"
  feature_book_decoration_pattern_painted:0 "The cover is [Artifact.GetFeatureText( 'book_cover_material' )] that has been painted to display a repeating image of [Artifact.GetFeatureText( 'decoration_pattern' )]"
- feature_book_title_fallback:0 "$artifact_name_prefix_artifact_scope$ Book"
+ feature_book_title_fallback:0 "$artifact_name_prefix_artifact_scope$の本"
  feature_book_title_unification:0 "$artifact_name_prefix_artifact_scope$ To Unify a Realm"
  feature_book_title_creation:0 "$artifact_name_prefix_artifact_scope$ To Form a Realm"
  feature_book_title_restoration:0 "$artifact_name_prefix_artifact_scope$ To Restore a Realm"
