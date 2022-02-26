@@ -69,7 +69,7 @@
  hold_court.6060.b.tt.failure:0 "[6060_rich.GetFirstNameNoTooltip]は [6060_rich.GetHerHis]の最後の申し出を支持し、あなたは強欲な愚か者のように見えます"
  hold_court.6060.c:0 "お前の金など必要ない。"
  hold_court.6070.t:0 "同盟の芽生え"
- hold_court.6070.desc:1 "「我が[ROOT.Char.GetLadyLord]、私は[6070_embassy.GetTitledFirstName]と申します、あなた様の同盟者である[6070_sender.GetTitledFirstName]の大使です。[6070_sender.GetHerHis]の親愛なるご挨拶と申し出をお届けしに参りました。」\n\n「我が主君は何よりも貴殿との友情を重んじるており、善意の証として、[6070_sender.GetSheHe]はあなたにこの子——[6070_sender.GetHerHis]の[6070_child.Custom('GetDaughterSon')]である[6070_child.GetFirstName]をお送りしますので、お好きなように教育していただきたい。」\n\n「私の[6070_sender.GetLadyLord]は、この行為があなたとの同盟を強化することを望んでおり、[6070_child.GetFirstNameNoTooltip]が偉大な手の中に入ることを確信しております。」"
+ hold_court.6070.desc:1 "「我が[ROOT.Char.GetLadyLord]、私は[6070_embassy.GetTitledFirstName]と申します、あなた様の同盟者である[6070_sender.GetTitledFirstName]の大使です。[6070_sender.GetHerHis]の親愛なるご挨拶と申し出をお届けしに参りました。」\n\n「我が主君は何よりも貴殿との友情を重んじており、善意の証として、[6070_sender.GetSheHe]はあなたにこの子——[6070_sender.GetHerHis]の[6070_child.Custom('GetDaughterSon')]である[6070_child.GetFirstName]をお送りしますので、お好きなように教育していただきたい。」\n\n「私の[6070_sender.GetLadyLord]は、この行為があなたとの同盟を強化することを望んでおり、[6070_child.GetFirstNameNoTooltip]が偉大な手の中に入ることを確信しております。」"
  hold_court.6070.a:0 "申し出を喜んでお受けしよう。"
  hold_court.6070.b:0 "もちろんだ！[6070_friend.GetFirstNameNoTooltip]、[6070_child.GetHerHim]を案内しよう！"
  hold_court.6070.c:1 "受け入れよう——だが、私は代わりに婚約を期待している。"

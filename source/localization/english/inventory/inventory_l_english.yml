@@ -144,7 +144,7 @@
  DETAILS_TAB_HISTORY:0 "経歴"
  DETAILS_TAB_CLAIMS:1 "請求者"
  DETAILS_TAB_CLAIM_INTERACTIONS:0 "あなたが請求権をもっている"
- DETAILS_TAB_NO_CLAIMANTS:0 "この[artifact|E]への[artifact_claim|E]を持っているものはいない"
+ DETAILS_TAB_NO_CLAIMANTS:0 "この[artifact|E]への[artifact_claim|E]を持っている者はいません"
  CHARACTER_HAS_NO_ARTIFACTS:1 "[artifacts|E]が存在しません"
  CHARACTER_HAS_NO_CLAIMED_ARTIFACTS:2 "[artifact_claims|E]が存在しません"
  ARTIFACT_DETAILS_TITLE:0 "宝物の詳細"

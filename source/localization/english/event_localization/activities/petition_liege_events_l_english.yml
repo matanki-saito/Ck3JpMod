@@ -223,7 +223,7 @@
  petition_liege.9999.shy:0 "I can't wait to get back to my chambers..."
  petition_liege.9999.gregarious:0 "This seems like a good opportunity to mingle with my court."
  petition_liege.9999.every_guest_and_courtier:0 "Every Guest and Courtier:"
- petition_liege_block_firing_councillor_effect_tt:0 "[petition_vassal.GetShortUIName|U] cannot be removed from [council|E] for 5 years"
+ petition_liege_block_firing_councillor_effect_tt:0 "[petition_vassal.GetShortUIName|U]は5年間、[council|E]から削除できません"
  petition_liege_0101_county_control_effect_tt:0 "All held Counties with less than 66 [control|E]"
  petition_liege_county_control_modifier:0 "Royal Bailiffs"
  petition_liege_county_control_modifier_desc:0 "The holder of this county has requested their liege's bailiffs' aid in restoring order."

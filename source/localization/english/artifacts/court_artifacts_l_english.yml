@@ -6,7 +6,7 @@
  feature_tapestry_scene_geometric_patterns:0 "この布は幾何学的な形が連なった複雑な模様を表すように織られています。"
  feature_tapestry_scene_hunt:0 "弓と槍で武装した数人の狩人が、傷ついた動物を取り囲み、今まさにとどめを刺そうとする狩猟の光景が描かれた布。"
  feature_tapestry_scene_myth:0 "古代の神々、畏怖の念を抱かせる怪物たち、恐れ知らずの英雄たちの姿が織り込まれた、神話の一場面を描いた布です。"
- feature_tapestry_scene_calligraphic:0 "この布は華麗な装飾文字を継ぎ目なく組み合わせた複雑な模様を表すように織られています。"
+ feature_tapestry_scene_calligraphic:0 "この布は、華麗な装飾文字を継ぎ目なく組み合わせた複雑な模様を表すように織られている。"
  feature_tapestry_scene_bucolic:0 "この布には、ある人は畑に種をまき、ある人は畑を耕し、ある人は収穫物を刈り取るという、一年を通しての畑での穏やかな日常が描かれている。"
  feature_tapestry_scene_battle:0 "この布は、[Artifact.GetOwner.GetTitledFirstName]により [Artifact.GetOwner.MakeScope.Var('epic_loser').Char.GetTitledFirstName] に対して勝利している[Artifact.GetOwner.MakeScope.Var('epic_battle_location').Province.GetName]の有名な戦いの転換点を描いている。"
  feature_tapestry_scene_coronation:0 "[Artifact.GetOwner.GetTitledFirstName|U]は[Artifact.GetOwner.GetHerHis]の戴冠式で、歓声の中、戴冠するシーンを中心に描かれている。"

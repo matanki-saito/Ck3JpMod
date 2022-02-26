@@ -69,7 +69,7 @@
  hold_court.7010.a:0 "「お前を当家で召し抱え、報いることとしよう。」"
  hold_court_7010_new_courtier:0 "[frontier_hero.GetName]が宮廷に加わります"
  hold_court.7010.b:0 "「真の英雄にはその能力に相応しい地位を与えるべきだ。」"
- hold_court.7010.b1.tt:0 "[frontier_hero.GetNameNoTooltip]に[frontier_hero_county.GetName]を報酬として与える。既存の貴族達を怒らせますが、[frontier_hero.GetName]を忠実な封臣として獲得します。"
+ hold_court.7010.b1.tt:0 "[frontier_hero.GetNameNoTooltip]に[frontier_hero_county.GetName]を報酬として与えます。既存の貴族達を怒らせますが、[frontier_hero.GetName]を忠実な封臣として獲得します。"
  hold_court.7010.b2.tt:1 "[frontier_hero.GetNameNoTooltip]に現在[lost_county_vassal.GetName]が保有する伯爵領を与える。[lost_county_vassal.GetTitledFirstNameNoTooltip]は怒らせますが、[frontier_hero.GetFirstNameNoTooltip]の封臣としての忠誠を強固にします。"
  hold_court_7010_loyal_vassal:0 "[frontier_hero.GetName]はあなたの新たな封臣となります"
  hold_court.7010.c:0 "「お前を英雄として称えることとしよう！」"

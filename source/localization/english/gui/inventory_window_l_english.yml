@@ -1,6 +1,6 @@
 ﻿l_english:
  INVENTORY_TITLE:0 "宝物庫"
- ANTIQUARIAN:0 "Antiquarian"
+ ANTIQUARIAN:0 "古物蒐集家"
  PORTRAIT_NO_ANTIQUARIAN:0 "#T $antiquarian_court_position$が空席です#!\n#weak $antiquarian_court_position$は[durability|E]の劣化を軽減します。また、#V $commission_artifact_decision$#!の[decision|E]が実行可能になります。#!\n\n#I クリックすることで、$antiquarian_court_position$を雇用します#!"
  OPEN_INVENTORY_TOOLTIP:2 "#T 宝物庫を開く#!"
  REFORGE_OR_REPAIR:1 "$repair_or_reforge_and_repair$"
