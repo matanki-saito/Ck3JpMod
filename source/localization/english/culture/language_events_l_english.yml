@@ -1,5 +1,5 @@
 ﻿l_english:
- language_events.0001.t:0 "語彙の不振"
+ language_events.0001.t:0 "言葉の不振"
  language_events.0001.desc:1 "複数の言語を頭の中に入れておくのは大変で、話している言語ですら忘れていく一方だ！\n\nつい先日、私は[language_to_forget.GetLanguage.GetNameNoTooltip]と[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]の単語をうっかりごちゃ混ぜに使い自己紹介をした…指摘されるまで混同していることさえ気づかなかった！\n\nもはや私の頭から[language_to_forget.GetLanguage.GetNameNoTooltip]を外してしまうべきなのか…？"
  language_events.0001.a:0 "忘却してしまおう…"
  language_events.0001.b:0 "ダメだ！もっと努力して勉学に励まねば！"

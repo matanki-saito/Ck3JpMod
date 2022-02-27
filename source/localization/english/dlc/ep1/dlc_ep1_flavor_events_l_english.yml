@@ -9,7 +9,7 @@
  ep1_flavor.1000.c.success:0 "滞在するよう[eunuch_target.GetFirstNameNoTooltip]を説得する"
  ep1_flavor.1000.c.failure:0 "[eunuch_target.GetFirstNameNoTooltip]があなたを守銭奴だと罵り移動する"
  ep1_flavor.1200.t:0 "$tradition_header$ 取引のコツ"
- ep1_flavor.1200.desc:0 "宦官の[eunuch_target.GetFirstName]が私の視界に踏み入ってきた、[eunuch_target.Custom('quirk_pos_pp')]。\n\n「たくさんのことを御知りなようで、偉大な[ROOT.Char.GetTitleTierName]。しかし、貴方様の無上の頭脳でさえ理解できないことがこの世にはあるのです――その極意と知識を貴方様と共有したい次第でございます。」[eunuch_target.GetSheHe]は囁いた。\n\n「お代は頂きますが。」\n\nそりゃそうだ。それにしても、私の興味を引き付ける。"
+ ep1_flavor.1200.desc:0 "宦官の[eunuch_target.GetFirstName]が私の視界に踏み入りつつ、[eunuch_target.Custom('quirk_pos_pp')]。\n\n「たくさんのことを御知りなようで、偉大な[ROOT.Char.GetTitleTierName]。しかし、貴方様の無上の頭脳でさえ理解できないことがこの世にはあるのです――その極意と知識を貴方様と共有したい次第でございます。」[eunuch_target.GetSheHe]は囁いた。\n\n「お代は頂きますが。」\n\nそりゃそうだ。それにしても、私の興味を引き付ける。"
  ep1_flavor.1200.a:0 "お前は言語の極意を知っていると聞いたことがある。"
  ep1_flavor.1200.b:0 "私に敵は多い。どうやって奴らを屠ればいい？"
  ep1_flavor.1200.c:0 "我が領国は繁栄せねばならぬ、どうしたらその栄華を見られるか？"
