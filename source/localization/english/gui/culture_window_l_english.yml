@@ -154,7 +154,7 @@
  tradition_group_realm:0 "領国"
  tradition_group_regional:0 "Regional"
  tradition_group_societal:0 "社会"
- tradition_group_ritual:0 "Ritual"
+ tradition_group_ritual:0 "祭事"
  REFORM_CULTURE_LABEL:0 "[Culture.GetNameNoTooltip]文化を改革する"
  REFORM_CULTURE_TOOLTIP:1 "[reform|E] [traditions|E], [ethos|E] or [culture_pillars|E] of [Culture.GetName]\n\n[SelectLocalization(Culture.IsReforming, 'REFORM_CULTURE_TOOLTIP_WARNING','')]"
  REFORM_CULTURE_TOOLTIP_WARNING:0 "@warning_icon!#X [reformation|E]が現在進行中です。"

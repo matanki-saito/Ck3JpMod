@@ -40,7 +40,7 @@
  hold_court.7000.spouse_other.desc:1 "次の請願者の組にはすぐに気が付いた。[rival_1.GetName]と[rival_2.GetName]だ。この二人には激しい確執があることが知られている。気掛かりなのは、この二人が言い争っていないということだ。\n\n「我が君」と[rival_1.GetName]は言上を始める。「人々は貴方の[controversial_spouse.GetTitledFirstName]に対して大きな不服を抱いていると申し上げねばなりません。[controversial_spouse.GetHerHis]の最近の振る舞いは善き、そして忠実なる[controversial_spouse.GetTitledFirstName]とは言い難いものであると思われます。何かしらのご対応をお願い申し上げます。」"
  hold_court.7000.a:1 "別の見方もあるのではないかと思うが…"
  hold_court.7000.a.success:0 "[rival_1.GetTitledFirstNameNoTooltip]と[rival_2.GetTitledFirstNameNoTooltip]に案件を撤回させることに成功する"
- hold_court.7000.a.success.toast:0 "Successful Negotiation"
+ hold_court.7000.a.success.toast:0 "抜かりない交渉"
  hold_court.7000.a.failure:0 "[rival_1.GetTitledFirstNameNoTooltip]と[rival_2.GetTitledFirstNameNoTooltip]に案件を撤回させることに失敗する"
  hold_court.7000.a.failure.toast:0 "Failed Negotiation"
  hold_court.7000.b:1 "[rival_2.GetFirstNameNoTooltip]よ、お前の敵は私ではないぞ。[rival_1.GetSheHe|U]だ！"

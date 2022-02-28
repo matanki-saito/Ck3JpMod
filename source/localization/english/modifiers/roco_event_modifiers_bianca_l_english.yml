@@ -36,5 +36,5 @@
  cultural_acceptance_gain_hold_court_event_outcome:0 "A decision at court changed the cultural acceptance."
  fund_inspiration_missing_peasants_modifier:0 "Missing Peasants"
  fund_inspiration_missing_peasants_modifier_desc:0 "Panic in the countryside is spreading as peasants are mysteriously disappearing."
- held_public_execution_modifier:0 "Held Public Execution"
- held_public_execution_modifier_desc:0 "A public execution was held as a spectacle for the crowd."
+ held_public_execution_modifier:0 "公開処刑の執行"
+ held_public_execution_modifier_desc:0 "衆人環視のもと見世物として公開処刑が行われました。"
