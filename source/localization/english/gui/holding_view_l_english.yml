@@ -162,7 +162,7 @@
  BUILDING_GARRISON_REINFORCEMENT_FACTOR:0 "[garrison_reinforcement|E]: @garrison_icon!$VALUE|+=0%$"
  HOLDING_SELECTION_VIEW_WRONG_HOLDING_TYPE_INFO_DEFAULT:0 "建設後、所領を誰かに与える必要があります"
  HOLDING_SELECTION_VIEW_WRONG_HOLDING_TYPE_INFO_THEOCRATIC:0 "寺院は建設後、あなたの[realm_priest|E]に貸与されます。"
- BUILDING_DISABLED_BY_GRACE_PERIOD:0 "@warning_icon! Holding disabled to avoid the penalties of being above the [domain_limit|E]. Will re-enable in [DATE.GetTimeDiffFromNowNoDays] or when no longer above the Domain Limit"
+ BUILDING_DISABLED_BY_GRACE_PERIOD:0 "@warning_icon![domain_limit|E]超過によるペナルティが課されました。解除には、[DATE.GetTimeDiffFromNowNoDays]間の経過ないし直轄領上限を下回る必要があります。"
  CREATE_NEW_HOLDING_BUTTON:0 "新しい所領を建設"
  CREATE_NEW_HOLDING_HEADING:0 "新たな[holding|E]を建設"
  HOLDING_VIEW_CAN_UPGRADE_BUILDING:0 "#help この[holding|E]をアップグレード可能です、クリックで詳細を表示し建設を開始します！#!"

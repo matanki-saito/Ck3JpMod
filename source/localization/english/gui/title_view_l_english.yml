@@ -176,4 +176,4 @@
  GRANT_TO_LOCAL_CULTURE_NOBLE_BUTTON_HOLDING_VIEW_COUNTY_TOOLTIP:0 "$GRANT_TO_LOCAL_CULTURE_NOBLE_BUTTON_HOLDING_VIEW_BASE_TOOLTIP$\n\n#S 効果一覧#! \n[FindVassalListWindow.GetTitle.GetAutoGrantCountyToLocalRulerEffectDesc(GetPlayer)]\n\n#I クリックで授与します#!"
  GRANT_TO_LOCAL_CULTURE_NOBLE_ACCEPTANCE:0 "文化の需要が増加します"
  CREATE_TITLE_MIN_COST:0 "最小コスト"
- grant_title_info_text:0 "Or choose a Character in your Realm..."
+ grant_title_info_text:0 "もしくは、領内から授与対象を選んでください…"
