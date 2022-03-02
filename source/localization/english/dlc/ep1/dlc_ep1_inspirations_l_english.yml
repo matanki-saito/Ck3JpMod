@@ -36,7 +36,7 @@
  INSPIRATION_ITEM_PROGRESS_TOOLTIP:0 "#T ひらめきの進捗: [Inspiration.GetProgress|0V]/#V 10#!#!\n[inspiration|E]が進捗を得る可能性は毎月[Inspiration.GetProgressChance|%/V]です。"
  INSPIRATION_ESTIMATED_REMAINING:0 "#V ~[Inspiration.GetEstimatedTimeRemaining]#!"
  INSPIRATION_ESTIMATED_TIME_TOOLTIP:0 "#T 完了までの推定時間: #V ~[Inspiration.GetEstimatedTimeRemaining]#!#!\nこれは現在の進捗可能性[Inspiration.GetProgressChance|%/V]に基づきます。"
- TT_INSPIRATION_WIDGET:1 "#T ひらめきを得たプロジェクト#!\n[Character.GetUIName]は[Character.GetCurrentInspiration.GetName]を得ました―[Character.Custom('InspirationTypeDescriptionFuturePresent')]。\n\n#I クリックで表示#!"
+ TT_INSPIRATION_WIDGET:1 "#T ひらめきを得たプロジェクト#!\n[Character.GetUIName]は[Character.GetCurrentInspiration.GetName]を得ました―[Character.Custom('InspirationTypeDescriptionFuturePresent')]\n\n#I クリックで表示#!"
  weapon_inspiration:0 "武器のひらめき"
  weapon_inspiration_desc:1 "武器のひらめきを持つ人物は、武器の[artifact|E]を鍛錬する[inspired|E]を持ちます。これは手に持って運ぶことのできる剣や槍が含まれます。"
  armor_inspiration:0 "鎧のひらめき"

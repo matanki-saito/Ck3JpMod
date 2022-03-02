@@ -7,7 +7,7 @@
  pay_homage.0001.desc.hook:0 "You have my word that I will do whatever it is you wish of me, my [homage_liege.GetLadyLord]."
  pay_homage.0001.desc.contract:0 "To mark your dominion and my fealty to you, I will pledge greater obligations as your vassal."
  pay_homage.0001.a:0 "すぐに[homage_vassal.GetTitledFirstNameNoTooltip]を案内してくれ。"
- pay_homage.0001.a.tt:0 "あなたは[homage_vassal.GetTitledFirstName]を[royal_court|E]に受け入れる"
+ pay_homage.0001.a.tt:0 "あなたは[homage_vassal.GetTitledFirstName]を[royal_court|E]に受け入れます"
  pay_homage.0001.b:0 "[homage_vassal.GetHerHis|U]など私にとって何の意味もない。"
  pay_homage.0001.b.tt:0 "あなたは[homage_vassal.GetTitledFirstName]を追い払う"
  pay_homage.0009.opening:1 "[homage_liege.Custom2('AppropriateGreeting', ROOT.Char )]"
