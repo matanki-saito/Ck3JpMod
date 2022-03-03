@@ -1572,7 +1572,7 @@
  game_concept_language_desc:3 "言語とは[culture_pillar|E]であり、ある[culture|E]に属する民衆の大多数が話す言語を定めます。同じ言語を用いる$game_concept_cultures$は、[cultural_acceptance_baseline|E]の恒久的なボーナスを得ます。\n\n[character|E]は、言語を1つ以上覚えることが可能です。新たな言語を身に着けることで[cultural_acceptance|E]が改善し、その言語を話す人物や[counties|E]からの[opinion|E]ペナルティを半分にします。[faction_independence|E]や[claimant_factions|E]の発生も抑制されます。\n\n[GetScheme('learn_language').GetTypeName]の[scheme|E]を利用することで、[language_limit|E]までは、制限なく新たな言語を習得できます。"
  game_concept_language_limit:1 "外国語上限"
  game_concept_language_limit_desc:1 "所定の限度まで[languages|E]の数々を十分に記憶しておけます。限界を超えると、言語を忘れてしまうか、[stress|E]を受けるかします。\n\n自[culture|E]の言語は、この限度にカウントされません。\n\n限度は次の要素によって決まります：\n$EFFECT_LIST_BULLET$#V 1#!を基礎値とする\n$EFFECT_LIST_BULLET$[learning_i][learning|E][EmptyScope.ScriptValue('language_learning_divide_value')|V0]ポイント毎に#V 1#!増加する\n$EFFECT_LIST_BULLET$[GetPerk('open_minded_perk').GetName(GetPlayer)]の[perk|E]で#V 2#!増加する\n$EFFECT_LIST_BULLET$[GetPerk('smooth_operator_perk').GetName(GetPlayer)]の[perk|E]で#V 1#!増加する\n$EFFECT_LIST_BULLET$[GetDynastyPerk('ep1_culture_legacy_1').GetName]の[dynasty_perk|E]で#V 1#!増加する"
- game_concept_heritage:0 "遺産"
+ game_concept_heritage:0 "系統"
  game_concept_heritage_desc:0 "系統とは[culture_pillar|E]の一つであって、多様な[cultures|E]の数々に共通する系統を意味します。\n\n同じ系統をもつ文化同士は、通常、互いに高い[Concept( 'cultural_acceptance', 'Acceptance' )|E]を有します。"
  game_concept_martial_custom:0 "軍の慣習"
  game_concept_martial_custom_desc:1 "軍の慣習とは[culture_pillar|E]の一つで、[commanders|E]や[knights|E]の性別に関する規定を定めます。\n\nいくつかの[traditions|E]や[doctrines|E]であれば、特定の[characters|E]のためにこれらのルールを変更可能です。"

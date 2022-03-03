@@ -188,7 +188,7 @@
  CHARACTER_LIST_UNSAVABLE_FILTERS:0 "#low 以下のフィルターは保存されません: #indent_newline:2 \n$FILTERS$#!#!"
  same_heritage_filter_option_desc:2 "同[heritage|E]の人物のみ表示"
  same_heritage_filter_option:2 "[GetPlayer.GetCulture.GetHeritage.GetNameNoTooltip]の系統"
- not_same_heritage_filter_option_desc:3 "異なる[Concept( '遺産', '遺産' )|E]の人物のみ表示"
+ not_same_heritage_filter_option_desc:3 "異なる[Concept( '系統', '系統' )|E]の人物のみ表示"
  not_same_heritage_filter_option:1 "$same_heritage_filter_option$でない"
  direct_vassal_relation_filter:0 "直臣"
  direct_vassal_relation_filter_desc:0 "直接の[vassals|E]の人物のみ表示"

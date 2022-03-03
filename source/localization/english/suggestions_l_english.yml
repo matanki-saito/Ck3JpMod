@@ -43,7 +43,7 @@
  suggestion_recruit_maa_click:0 "#I クリックで軍事画面を表示#!"
  suggestion_can_hire_court_positions:0 "宮廷職を雇用できます"
  suggestion_can_hire_court_positions_label:0 "提案: もっと多くの宮廷職を雇用しましょう"
- suggestion_can_hire_court_positions_desc:0 "You should invest some gold in filling more [court_positions|E] to gain their bonuses."
+ suggestion_can_hire_court_positions_desc:0 "[court_positions|E]ボーナスを得るために空席を埋めるべく資金を投じるべきだ。"
  suggestion_can_hire_court_positions_click:0 "#I クリックで利用可能な宮廷職を表示#!"
  suggestion_request_war_aid_petition:0 "軍事支援を要求できます"
  suggestion_request_war_aid_petition_label:0 "提案: 軍事支援を要求しましょう"

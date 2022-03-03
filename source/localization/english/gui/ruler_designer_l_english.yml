@@ -45,7 +45,7 @@
  RULER_DESIGNER_CULTURE_LIST_LABEL:0 "文化"
  RULER_DESIGNER_LIST_ENTRY_EXPAND:0 "展開"
  RULER_DESIGNER_LIST_ENTRY_COLLAPSE:0 "折りたたむ"
- RULER_DESIGNER_LIST_CULTURE_ENTRY_TOOLTIP:3 "#T [SelectLocalization( CollapsibleCultureListGroup.AreChildrenVisible, 'RULER_DESIGNER_LIST_ENTRY_COLLAPSE', 'RULER_DESIGNER_LIST_ENTRY_EXPAND' )] [CulturePillar.GetNameNoTooltip] Heritage#!"
+ RULER_DESIGNER_LIST_CULTURE_ENTRY_TOOLTIP:3 "#T [CulturePillar.GetNameNoTooltip]系統を[SelectLocalization( CollapsibleCultureListGroup.AreChildrenVisible, 'RULER_DESIGNER_LIST_ENTRY_COLLAPSE', 'RULER_DESIGNER_LIST_ENTRY_EXPAND' )]#!"
  RULER_DESIGNER_LIST_FAITH_ENTRY_TOOLTIP:1 "#T [Religion.GetNameNoTooltip]の宗派を[SelectLocalization( CollapsibleReligionListGroup.AreChildrenVisible, 'RULER_DESIGNER_LIST_ENTRY_COLLAPSE', 'RULER_DESIGNER_LIST_ENTRY_EXPAND' )]#!"
  RULER_DESIGNER_LIST_CULTURE_ENTRY_SELECT_TOOLTIP:1 "#I クリックで[CultureTemplate.GetName][culture|E]を選択#!"
  RULER_DESIGNER_LIST_FAITH_ENTRY_SELECT_TOOLTIP:1 "#I クリックで[Faith.GetNameNoTooltip]を選択#!"

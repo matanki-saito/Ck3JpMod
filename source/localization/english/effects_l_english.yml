@@ -1695,7 +1695,7 @@
  ADDED_PROGRESS_TO_INSPIRATION:0 "[INSPIRATION.GetName]が進捗$VALUE|0+$を得ました"
  LOSE_PROGRESS_TO_INSPIRATION:0 "[INSPIRATION.GetName]が進捗$VALUE|0-$を失います"
  LOST_PROGRESS_TO_INSPIRATION:0 "[INSPIRATION.GetName]が進捗$VALUE|0-$を失いました"
- INVEST_GOLD:0 "Invest [gold_i]$VALUE|0-$ in [INSPIRATION.GetOwner.GetShortUINamePossessive|U] [INSPIRATION.GetName]"
+ INVEST_GOLD:0 "[INSPIRATION.GetOwner.GetShortUINamePossessive|U]の[INSPIRATION.GetName]に[gold_i]$VALUE|0-$援助する"
  BEGIN_CREATE_HOLDING_REFUND:0 "[SelectLocalization( StringIsEmpty( '$COST$' ), '', '. $COST$ will be refunded, if construction is manually cancelled' )]"
  BEGIN_CREATE_HOLDING_EFFECT_GLOBAL:0 "Start construction of a $HOLDING_NAME$$BEGIN_CREATE_HOLDING_REFUND$"
  BEGIN_CREATE_HOLDING_EFFECT:0 "Start construction of a $HOLDING_NAME$ in [PROVINCE.GetName]$BEGIN_CREATE_HOLDING_REFUND$"

@@ -17,4 +17,4 @@
  yearly_persian.1101.b.seljuk:0 "#EMP 彼ら#!の慣習を取り入れることで、我々は第三のペルシア帝国を確立できるかもしれない！"
  yearly_persian.1101.c:0 "我々はこのような多様な背景を持つ臣民に恵まれている！"
  yearly_persian.1101.c.warning:0 "$stewardship_domain.1073.c.warning$"
- yearly_persian.1002.every_iranian_character:2 "Every [iranian.GetName] [heritage|E] Vassal and Courtier"
+ yearly_persian.1002.every_iranian_character:2 "[iranian.GetName]の[heritage|E]の封臣と廷臣すべて"

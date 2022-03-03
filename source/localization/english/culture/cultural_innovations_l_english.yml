@@ -178,7 +178,7 @@
  innovation_condottieri_desc:0 "裕福であることと、中心部に位置していることから、イタリアは、活発な戦役中でないときには、傭兵会社がセールスをするための主要な中心地となっている。すでに来ているのだから、通常よりも良いレートで交渉できるはずだ。"
  innovation_deccan_unity:0 "デカンの統一"
  innovation_deccan_unity_desc:0 "我々の社会に新たな信仰や宗教が流入してきたことで、これまで地域主義に焦点を当ててきたことは間違いであったことが明らかになった。我々は我々の信仰を持つ他の人々と団結し、外部からの圧力に立ち向かうことができる強く永続的な国家を確保すべきである。"
- same_culture_group_reduced_factionalism:1 "[vassals|E] whose [culture|E] has a shared [heritage|E] with yours are less likely to join [independence_factions|E]"
+ same_culture_group_reduced_factionalism:1 "あなたの[culture|E]と同[heritage|E]の[culture|E]である[vassals|E]が[independence_factions|E]に参加する可能性は低くなる"
  students_of_knighthood:0 "[martial|E][education_focus|E]で教育を終えた子供は、$trait_education_martial_prowess$[trait|E]を得ます。"
  innovation_viking_tradition:0 "ヴァイキングの戦術"
  innovation_viking_tradition_desc:0 "北方の人々は長い交易の伝統を持っているが、同時に海賊でもあった。川のほとりから何の前触れもなく現れる脅威と戦う準備ができている者はほとんどいないが、ヴァイキングの戦士たちはそのような戦いの達人である。"
