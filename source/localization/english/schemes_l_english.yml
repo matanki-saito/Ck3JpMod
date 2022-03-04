@@ -170,7 +170,7 @@
  learn_language_learn_language_failed_message:0 "言語を学ぶことに失敗した"
  scheme_interaction_tt_learn_language_desc:0 "I will learn [recipient.GetShortUINamePossessiveNoTooltip] [language|E]!"
  learn_language_invalidated_cannot_learn_language_desc:0 "You can no longer learn [target.GetShortUINamePossessive] [language|E]"
- learn_language_invalidated:0 "$learn_language$ Invalidated"
+ learn_language_invalidated:0 "$learn_language$ 無効"
  learn_language_invalidated_dead_desc:0 "[target.GetShortUIName|U]は死去しました。あなたは[target.GetHerHim]に対し$learn_language$をもはや使用できません。"
  learn_language_complete:1 "You have learned [target.GetShortUINamePossessiveNoTooltip] [target.GetCulture.GetLanguage.GetName] [language|E]"
  learn_language_invalidated_title:0 "@scheme_icon!$learn_language$が終了"

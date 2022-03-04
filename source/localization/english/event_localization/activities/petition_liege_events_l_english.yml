@@ -210,7 +210,7 @@
  petition_liege.0601.desc.liege_imprisoned_me:0 "$petition_liege.0601_shared_intro$私は最終的に[petition_liege.GetTitledFirstName]を捕らえた！"
  petition_liege.0601.desc.liege_imprisoned:0 "$petition_liege.0601_shared_intro$[petition_liege.GetTitledFirstName]は[petition_liege.GetImprisonedBy.GetTitledFirstName]によって捕らえられた。"
  petition_liege.0601.desc.new_liege:0 "私の要求は、新しい主君である[ROOT.Char.GetLiege.GetTitledFirstNameRegnal]に向けられる必要があるだろう。"
- petition_liege.0601_shared_intro:0 "ちょうど、私の請願が動き出し、実を結ぼうとしているところで、"
+ petition_liege.0601_shared_intro:0 "ちょうど、私の請願が動き出し、実を結ぼうとしていた矢先に、"
  petition_liege.0601.desc:0 "\n\nこれで確実に状況は変わる。"
  petition_liege.0601.a_court:0 "より大きなものへと進もう。"
  petition_liege.0601.a_prison:0 "くそっ。"
