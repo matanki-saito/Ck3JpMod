@@ -977,7 +977,7 @@
  fund_inspiration.0043.option_house:0 "[ROOT.Char.GetHouse.GetNameNoTooltip]家の意匠だ。"
  fund_inspiration.0043.option_dynasty:0 "[ROOT.Char.GetDynasty.GetNameNoTooltip]の紋章だ。"
  fund_inspiration.0043.option_dynasty_tt:0 "王朝の旗の品質は[dynasty_prestige_level|E]に連動しています"
- fund_inspiration.0044.t:0 "$commission_artifact_decision$: 壁掛け"
+ fund_inspiration.0044.t:0 "$commission_artifact_decision$: 壁飾り"
  fund_inspiration.0044.desc:0 "私の古物蒐集家である、[antiquarian.GetTitledFirstName]が正式に私の依頼に対する資金を受け取りにやってきた。「あなたは壁の覆いを新しくする時かと！」[antiquarian.GetSheHe|U]はおずおずと私を見る。\n\n「エヘン、私は有能な織工を見つけなければなりません、我が[ROOT.Char.GetLadyLord]…作ってほしいものは何でしたかな？」[antiquarian.GetSheHe|U]は手の中でぼんやりと財布を転がし、私の決断を待っている。"
  fund_inspiration.0044.option_tapestry:0 "我がホールにふさわしい立派なタペストリーを。"
  fund_inspiration.0044.option_banner:0 "旗を新しく仕立ててくれ。"

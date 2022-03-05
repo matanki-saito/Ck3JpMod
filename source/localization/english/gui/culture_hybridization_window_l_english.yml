@@ -55,4 +55,4 @@
  HYBRID_COA_DESC:0 "Will use Coat of Arms elements from both Cultures"
  HYBRID_FASHION_DESC:0 "Will use Fashion from both Cultures"
  HYBRID_NAMES:0 "両文化の名前を使う"
- CULTURE_CREATION_TRADITIONS_COUNT:0 "Pick up to [GetPlayer.GetCulture.GetMaxNumberOfTraditions] [traditions|E] from either [culture|E] ([HybridizationWindow.GetTraditionPicksTotal] selected)"
+ CULTURE_CREATION_TRADITIONS_COUNT:0 "両方の[culture|E]から[GetPlayer.GetCulture.GetMaxNumberOfTraditions]個の[traditions|E]を選択してください（[HybridizationWindow.GetTraditionPicksTotal]個選択されています）"

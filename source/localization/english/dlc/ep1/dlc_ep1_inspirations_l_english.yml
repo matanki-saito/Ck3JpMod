@@ -26,7 +26,7 @@
  CHARACTER_HAS_INSPIRATION_TOOLTIP:1 "#T ひらめき#!\n[Character.GetUIName]には[Character.GetCurrentInspiration.GetName]があります——[Character.Custom('InspirationTypeDescriptionFuturePresent')]\n\n[Character.Custom('InspiredPersonQuality')]"
  inspiration_type_desc_present:0 "[ROOT.Char.GetSheHe]は[ROOT.Char.Custom('InspirationTypeDescription')]"
  inspiration_type_desc_future:0 "[ROOT.Char.GetSheHe]は[ROOT.Char.Custom('InspirationTypeDescription')]を求めています"
- CHARACTER_HAS_COMPLETED_AN_INSPIRATION_TOOLTIP:1 "#T ひらめきの完遂#!\n[Character.GetUIName]はその生涯の間に[inspiration|E]を完遂した―[Character.GetSheHe]は[Character.Custom('InspirationTypeDescriptionPast')]。"
+ CHARACTER_HAS_COMPLETED_AN_INSPIRATION_TOOLTIP:1 "#T ひらめきの完遂#!\n[Character.GetUIName]はその生涯の間に[inspiration|E]を完遂しました―[Character.GetSheHe]は[Character.Custom('InspirationTypeDescriptionPast')]。"
  INSPIRATIONS_HEADER:0 "ひらめき"
  SELECTED_INSPIRATION_TEXT:1 "[Character.GetUINameNoTooltip]には[Character.GetCurrentInspiration.GetName]があります——[Character.Custom('InspirationTypeDescriptionFuturePresent')]\n\n[Character.Custom('InspiredPersonQuality')]"
  SELECTED_INSPIRATION_HEADER:0 "ひらめき"

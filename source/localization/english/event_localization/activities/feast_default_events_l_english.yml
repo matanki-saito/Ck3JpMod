@@ -311,7 +311,7 @@
  feast_default.2013.c.success:0 "Everyone believes that the spillage was an accident"
  feast_default.2013.c.failure:0 "No one believes that the spillage was an accident"
  feast_default.2013.d:0 "No need to rush. I'll think of something some other time."
- feast_default.9001.desc_exotic:0 "With everyone headed home with bellies full of exotic delicacies, I am proud to say that the feast was a success!"
+ feast_default.9001.desc_exotic:0 "異国料理のフルコースに腹を満たした皆が帰路へ着くのを見送りつつ、饗宴が成功したと言えることを誇った！"
  feast_default.9001.desc_lavish:0 "With all my guests leaving my castle with the entire contents of my vast pantry in their bellies, I am proud to say that the feast was a success!"
  feast_default.9001.desc_meager:0 "With all my guests having done fighting for the last of my meager table scraps, it gives me great relief to watch them finally leave with loose clothing and growling bellies."
  feast_default.9002.desc_exotic:0 "What a feast! Before coming, I could have never imagined the exotic delicacies I would sample in my time in [host.GetTitledFirstNamePossessive] halls. This was a feast I will never forget!"

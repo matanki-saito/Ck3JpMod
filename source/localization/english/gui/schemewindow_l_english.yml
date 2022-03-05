@@ -79,7 +79,7 @@
  SCHEME_BASE_SUCCESS:0 "基本: $VALUE|Z=0$"
  SCHEME_AGENT_TOOLTIP:0 "#T スパイ[SchemeAgentItem.GetCharacter.GetShortUIName|U]#!\n[SchemeAgentItem.GetSuccessDesc]\n\n[scheme_power|E]: [SchemeAgentItem.GetInfluence|1=+]"
  SCHEME_AGENT_SUCCESS:0 "[success_chance|E]: $VALUE|+=0$\n$DESC$"
- SCHEME_ESTIMATED_TIME_TOOLTIP:1 "#T Estimated time to completion: #V ~[Scheme.GetEstimatedTimeRemaining]#!#!\nThis is based on the current chance to progress of [Scheme.GetProgressChance|%/V], based on the current [scheme_power|E] and [scheme_resistance|E]"
+ SCHEME_ESTIMATED_TIME_TOOLTIP:1 "#T 完了までの想定期間: #V ~[Scheme.GetEstimatedTimeRemaining]#!#!\nこの期間は、現在の進捗率[Scheme.GetProgressChance|%/V]、[scheme_power|E]、[scheme_resistance|E]に基づきます"
  SCHEME_READY_TOOLTIP:0 "#T 策謀準備完了#!\nこの策謀の進捗は最大となり、すぐに完了します。"
  SCHEME_WINDOW_EXPOSED_TOOLTIP:0 "#T 露見#! \nこの計画は暴露されました。 目標の人物の知るところとなります。"
  SCHEME_WINDOW_NO_KNOWN_AGENTS:0 "#weak まだ暴かれたスパイはいません#!"

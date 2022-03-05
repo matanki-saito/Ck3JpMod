@@ -16,7 +16,7 @@
  terrain_mountains:0 "山"
  terrain_desert:0 "砂漠"
  terrain_oasis:0 "オアシス"
- terrain_jungle:0 "密林"
+ terrain_jungle:0 "ジャングル"
  terrain_taiga:0 "タイガ"
  terrain_wetlands:0 "湿原"
  terrain_steppe:0 "草原"
