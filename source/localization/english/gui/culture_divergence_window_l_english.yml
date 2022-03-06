@@ -7,7 +7,7 @@
  DIVERGE_CULTURE_NAME:0 "[Select_CString( StringIsEmpty( DivergenceWindow.GetNewCultureName ), 'Choose Name', '' )] [DivergenceWindow.GetNewCultureName]"
  CULTURE_DIVERGENCE_COOLDOWN:0 "#weak 各統治者は一度だけ文化を分岐することができます。この[divergent_culture|E]は[EmptyScope.ScriptValue('culture_divergence_cooldown')|0]年間、そこから別の文化を分岐させることはできません。#!"
  CULTURE_CREATION_DIVERGENCE_ACCEPTANCE_TEXT:0 "[GetPlayer.GetCulture.GetCollectiveNoun]の受容は100%になります"
- CULTURE_AESTHETICS_DIVERGE_TOOLTIP:0 "#T [CultureAesthetics.GetName] Aesthetics#!\n[CultureAesthetics.GetDesc]"
+ CULTURE_AESTHETICS_DIVERGE_TOOLTIP:0 "#T [CultureAesthetics.GetName]の美学#!\n[CultureAesthetics.GetDesc]"
  CULTURE_AESTHETICS_DESC:0 "命名慣習: $NAME_LIST$\n建築: $BUILDING|V$\nファッション: $CLOTHES|V$\n紋章: $COAT_OF_ARMS|V$\n軍の装備: $UNIT|V$"
  CULTURE_CREATION_REPLACE_TRADITION_HEADER:1 "利用可能な伝統"
  TRADITION_BASE_COST_HEADER:0 "基本コスト: $COST$"

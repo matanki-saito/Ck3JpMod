@@ -1,6 +1,6 @@
 ﻿l_english:
  hold_court.8001.t:0 "商業の抑圧"
- hold_court.8001.desc:0 "明らかに私の裕福なホールで勝手が違う様子の田舎の商人が前に出てくる。私は手招きする。「おいで、時間がないぞ。」\n\n「は、はい、我が[ROOT.Char.GetLadyLord]！」[merchant.GetSheHe]はどもりながら言う。「私は[merchant.GetFirstName]と申します、[town.GetNameNoTier]、[town.GetDeJureLiege.GetNameNoTierPossessive]で最大の[town.GetTierAsNameNoTooltip]の不満を持つ交易商と自由民の代表です。」\n\n「[mayor.GetFirstName]、我々の[mayor.GetTitleTierName]は[mayor.Custom('get_hold_court_8001_flaw')]——我々は謙虚に、[mayor.GetSheHe]が他の誰かに置き換えていただくようお願いします…」"
+ hold_court.8001.desc:0 "明らかに私の裕福なホールで勝手が違う様子の田舎の商人が前に出てくる。私は手招きする。「おいで、時間がないぞ。」\n\n「は、はい、我が[ROOT.Char.GetLadyLord]！」[merchant.GetSheHe]はどもりながら言う。「私は[merchant.GetFirstName]と申します、[town.GetNameNoTier]、[town.GetDeJureLiege.GetNameNoTierPossessive]で最大の[town.GetTierAsNameNoTooltip]の不満を持つ交易商と自由民の代表です。」\n\n「我々の[mayor.GetTitleTierName]である[mayor.GetFirstName]は[mayor.Custom('get_hold_court_8001_flaw')]——我々は謙虚に、[mayor.GetSheHe]が他の誰かに置き換えていただくようお願いします…」"
  hold_court.8001.a:0 "[town.GetBaseNameNoTierPossessiveNoTooltip]の選挙が早くやってくるだろう。"
  hold_court.8001.b:0 "よろしい、#EMP お前が#!新しい[mayor.GetTitleTierName]になるべきだ！"
  hold_court.8001.b.tt_success:0 "[merchant.GetFirstNameNoTooltip]は[town.GetBaseNameNoTierNoTooltip]にとって適切だ"

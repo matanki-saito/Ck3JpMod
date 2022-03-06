@@ -54,7 +54,7 @@
  game_concept_artifact_durability_desc:2 "Every [artifact|E] has a Durability. When all Durability is lost, the Artifact is destroyed.\n\nDurability decays over time, but can also be lost in certain events, such as [sieges|E] and on [succession|E].\n\nDurability can be restored by choosing to [reforge|E] or [repair|E] the Artifact."
  game_concept_artifact_claim:0 "宝物の請求権"
  game_concept_artifact_claims:0 "宝物の請求権"
- game_concept_artifact_claim_desc:3 "$game_concept_artifact_claim$とは、[artifact|E]を所有する法的権利のことです。\n\n[artifact|E]への請求権を所有している場合、仮に宝物を現有していなければ、で該当の宝物とその所有者に対して様々な行動を起こせるようになります（例えば[GetScheme('steal_back_artifact').GetTypeName][scheme|E]を用いるなど）。\n\n請求権には[character|E]に行使する[personal_artifact_claims|E]と[houses|E]に行使する[house_artifact_claims|E]があります。\n\n宝物の請求権は、[title_claims|E]よりも簡素です；権利が有るか無いかのどちらかです。また、次代に継承しません。"
+ game_concept_artifact_claim_desc:3 "$game_concept_artifact_claim$とは、[artifact|E]を所有する法的権利のことです。\n\n[artifact|E]への請求権を所有している場合、仮に宝物を現有していなければ、で該当の宝物とその所有者に対して様々な行動を起こせるようになります（例えば[GetScheme('steal_back_artifact').GetTypeName][scheme|E]を用いるなど）。\n\n請求権には[character|E]に付与される[personal_artifact_claims|E]と[houses|E]に付与される[house_artifact_claims|E]があります。\n\n宝物の請求権は、[title_claims|E]よりも簡素です；権利が有るか無いかのどちらかです。また、次代に継承しません。"
  game_concept_personal_artifact_claim:0 "宝物の個人請求権"
  game_concept_personal_artifact_claims:0 "宝物の個人請求権"
  game_concept_personal_artifact_claim_desc:2 "$game_concept_personal_artifact_claim$とは、個人に属する[artifact_claim|E]です。それと対照になるのが[house_artifact_claim|E]となります。\n\n宝物所有者が死亡すると、その子供が、親の有していた宝物全てに対する請求権を取得します。\n\n[siege|E]や[raid|E]によって宝物を奪われることでも、奪われた宝物への請求権を取得します。\n\n宝物の請求権の継承は、決して発生しません。"

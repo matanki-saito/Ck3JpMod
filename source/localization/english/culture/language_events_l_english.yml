@@ -3,7 +3,7 @@
  language_events.0001.desc:1 "複数の言語を頭の中に入れておくのは大変で、話している言語ですら忘れていく一方だ！\n\nつい先日、私は[language_to_forget.GetLanguage.GetNameNoTooltip]と[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]の単語をうっかりごちゃ混ぜに使い自己紹介をした…指摘されるまで混同していることさえ気づかなかった！\n\nもはや私の頭から[language_to_forget.GetLanguage.GetNameNoTooltip]を外してしまうべきなのか…？"
  language_events.0001.a:0 "忘却してしまおう…"
  language_events.0001.b:0 "ダメだ！もっと努力して勉学に励まねば！"
- language_events.0002.b.tt:0 "You send collectors to 'tax' [gold_i]#P 50#! from every [vassal_speaking_other_language.GetCulture.GetName] county in [vassal_speaking_other_language.GetTitledFirstNamePossessive] realm"
+ language_events.0002.b.tt:0 "あなたは[vassal_speaking_other_language.GetTitledFirstNamePossessive]の領国の全ての[vassal_speaking_other_language.GetCulture.GetName]から[gold_i]#P 50#!の「税」を集めるための徴税人を派遣します"
  language_events.0002.t:0 "共通言語"
  language_events.0002.desc:0 "我が封臣[vassal_speaking_other_language.GetTitledFirstName]が、私の[vassal_speaking_other_language.GetCulture.GetLanguage.GetName]の会話能力が堪能であると公に称賛していることが私の耳まで届いてきた！――この言語は[vassal_speaking_other_language.GetHerHis]の臣下の間で使われている。\n\n我が顧問は、[vassal_speaking_other_language.GetHerHis]の行為を認める[vassal_speaking_other_language.GetCulture.GetLanguage.GetNameNoTooltip]の手紙を[vassal_speaking_other_language.GetHerHim]に送り、この機会を十分に活用してはどうかと提案している。"
  language_events.0002.a:0 "「より良い理解は共栄へ達する！」"

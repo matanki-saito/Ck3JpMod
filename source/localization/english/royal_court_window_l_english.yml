@@ -147,7 +147,7 @@
  ROYAL_COURT_ARTIFACT_PLACE_ARTIFACT_FROM_STORAGE_DESC:0 "スロットをクリックして、宝物をそこに配置します"
  ROYAL_COURT_ARTIFACT_PLACE_ARTIFACT_IN_SLOT_TOOLTIP:1 "#T [InventorySlot.GetName]#!\n\n[SelectLocalization( And( RoyalCourtWindow.HasSelectedArtifact, RoyalCourtWindow.HasSelectedSlot), 'ROYAL_COURT_SLOT_TOOLTIP_SELECT', 'ROYAL_COURT_SLOT_TOOLTIP_DISPLAY_ARTIFACT' )]"
  ROYAL_COURT_ARTIFACT_STORAGE_EQUIPABLE_HEADER:0 "[RoyalCourtWindow.GetSelectedSlot.GetName]の宝物"
- ROYAL_COURT_ARTIFACT_TOOLTIP_INTERACTION_INFO:0 "\n#I [Select_CString( RoyalCourtWindow.IsArtifactSelected( Artifact.Self ), 'Click to go back', 'Click to select' )][Select_CString( Or( Not( RoyalCourtWindow.GetCharacter.IsLocalPlayer ), Or( RoyalCourtWindow.HasSelectedArtifact, RoyalCourtWindow.HasSelectedSlot ) ), '', '\nRight-click to store' )]#!"
+ ROYAL_COURT_ARTIFACT_TOOLTIP_INTERACTION_INFO:0 "\n#I [Select_CString( RoyalCourtWindow.IsArtifactSelected( Artifact.Self ), 'クリックで戻る', 'クリックで選択' )][Select_CString( Or( Not( RoyalCourtWindow.GetCharacter.IsLocalPlayer ), Or( RoyalCourtWindow.HasSelectedArtifact, RoyalCourtWindow.HasSelectedSlot ) ), '', '\n右クリックで保管' )]#!"
  NO_ROCO_HEADER:0 "[royal_court|E]にアクセスできません:"
  NO_ROCO_MISSING_DLC:0 "@warning_icon!#X DLC: The Royal Courtを持っていません#!"
  NO_ROCO_NOT_ALIVE:0 "@warning_icon!#X あなたは死んでいます#!"

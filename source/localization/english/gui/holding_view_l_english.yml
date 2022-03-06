@@ -37,7 +37,7 @@
  BUILDING_EFFECT_AND_DESC_DISABLED_TOOLTIP:3 "[BUILDING.GetEffectDescriptionAtProvince( CHARACTER.Self, PROVINCE.Self, CULTURE.Self )]\n\n$DISABLED$\n\n[BUILDING.GetDescription]"
  CONSTRUCTING_BUILDING_DESC:3 "[BUILDING.GetEffectDescriptionAtProvince( CHARACTER.Self, PROVINCE.Self, CULTURE.Self )]\n\n$TIME$\n\n[BUILDING.GetDescription]"
  CONSTRUCTING_BUILDING_TIME_LEFT:0 "残り$DAYS$"
- CONSTRUCT_HOLDING_PRIMARY:1 "The first stage of this [holding|E] is the $NAME|V$"
+ CONSTRUCT_HOLDING_PRIMARY:1 "この[holding|E]の第一段階は$NAME|V$です"
  HOLDING_NOT_THE_COUNTY_HOLDER:1 "@warning_icon!#X この[county|E]の[holder|E]または彼らの[liege|E]のみが新しい[holding|E]を建設できます#!"
  BUILDING_NOT_THE_BARONY_HOLDER:1 "@warning_icon!#X この[holding|E]の[holder|E]または彼らの[liege|E]のみが新しい[building|E]を建設できます#!"
  BUILDING_NOT_THE_BARONY_LESSEE:0 "@warning_icon!#X この[holding|E]の[lessee|E]のみが新しい[building|E]を建設できます#!"

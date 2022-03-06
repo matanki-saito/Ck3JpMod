@@ -211,7 +211,7 @@
  has_any_artifact_filter_option_desc:0 "1つ以上の[artifact|E]を所有している人物のみ表示"
  has_any_court_artifact_filter_option:0 "宮廷の宝物を持っている"
  has_any_court_artifact_filter_option_desc:0 "1つ以上の[court_artifact|E]を所有している人物のみ表示"
- has_any_inventory_artifact_filter_option:0 "Has any Inventory Artifact"
+ has_any_inventory_artifact_filter_option:0 "宝物庫の宝物を持っている"
  has_any_inventory_artifact_filter_option_desc:0 "1つ以上の[inventory_artifact|E]を所有している人物のみ表示"
  has_no_artifact_filter_option:0 "宝物を未所持"
  has_no_artifact_filter_option_desc:0 "[artifacts|E]を持たない人物のみ表示"
