@@ -37,5 +37,5 @@
  global_culture.3011.desc:0 "南イタリアとシチリア島の人々は折衷主義的に混住することで、数々の影響を受けいれた独自の文化を生み出した。\n\n今では明らかに[county_to_change.GetName]の人々は、もはや[old_culture.GetName]としてではなく、生来の[sicilian.GetCollectiveNoun]として自分たちを見ている!"
  global_culture.3011.a:0 "興味深い展開だ..."
  global_culture.3012.a:0 "素晴らしい！"
- global_culture.0015.desc_norse:0 "Traders, raiders, and mercenaries... our Norse ancestors have long traveled from Scandinavia all throughout Europe and even beyond, leaving their mark everywhere they went.\n\nNow it appears that this age may be coming to an end, as our motherland is fractured by cultural differences and clan rivalries into [danish.GetName], [swedish.GetName], and [norwegian.GetName] identities."
- global_culture.0015.b:0 "What does this mean for the future of our people?"
+ global_culture.0015.desc_norse:0 "交易商、略奪者、傭兵…我々ノース人の祖先は、長い間スカンディナヴィアからヨーロッパ全土、さらにその先へと旅し、行く先々に足跡を残してきた。\n\n今、この時代は終わりを告げようとしており、我々の母国は、文化の違いや部族の対立によって、[danish.GetName]、[swedish.GetName]、[norwegian.GetName]のアイデンティティーに分断されている。"
+ global_culture.0015.b:0 "このことは、我が民族の将来にとって何を意味するのだろうか？"

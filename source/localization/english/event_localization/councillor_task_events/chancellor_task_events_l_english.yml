@@ -66,5 +66,5 @@
  chancellor_task.3104.c:0 "これ以上領土を細分化する必要はないだろう。"
  chancellor_task.1001.title_message:0 "請求権の誘発に至る失態"
  chancellor_task.1001.message:0 "[councillor.GetTitledFirstName]が、あなたの[target_county.GetName]への請求権を公認しました"
- chancellor_task.0991_end_desc:0 "[target_character.GetTitledFirstNamePossessiveNoTooltip] opinion of you will not increase more."
- chancellor_task.0991_increase_desc:0 "[target_character.GetTitledFirstNameNoTooltip] was impressed and honored by the Royal Favor you bestowed upon [target_character.GetHerHim]."
+ chancellor_task.0991_end_desc:0 "[target_character.GetTitledFirstNamePossessiveNoTooltip]のあなたへの評価はこれ以上は上がらないでしょう。"
+ chancellor_task.0991_increase_desc:0 "[target_character.GetTitledFirstNameNoTooltip]はあなたが[target_character.GetHerHim]に与えた王家の恩寵に感動し、光栄に思っています。"

@@ -150,5 +150,5 @@
  spymaster_task.3007.a:0 "私はスパイなんて知らないよ、[target_character.GetFirstNameNoTooltip]。"
  spymaster_task.3007.b:0 "ああ、彼らはきっと帰り道で迷ったんだ！"
  spymaster_task.3009.end:0 "彼らに退くよう求めたところ、[councillor_liege.GetTitleTierName]は承諾したが、私は気をつけておかねばならない…"
- spymaster_task.0311.secret_non_believer.other_sect:0 "\n\nIt seems as if [secret_holder.GetSheHe] might be starting to turn from the [ROOT.Char.GetFaith.GetAdjective] path, adopting instead the misguided teachings of the [secret_holder.GetFaith.GetAdherentNamePlural]. [secret_holder.GetFaith.HighGodName] must weep to see [secret_holder.GetFaith.HighGodHerHis] lessons twisted so."
- spymaster_task.0311.secret_bastard.i_am_not_real_father:0 "\n\n[bastard.GetTitledFirstName] is not my true child, but the [bastard.Custom('DaughterSon')] of [actual_father.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]!"
+ spymaster_task.0311.secret_non_believer.other_sect:0 "\n\n[secret_holder.GetSheHe]は[ROOT.Char.GetFaith.GetAdjective]の道から外れ、代わりに[secret_holder.GetFaith.GetAdherentNamePlural]の誤った教えを取り入れ始めているように思える。[secret_holder.GetFaith.HighGodName]は[secret_holder.GetFaith.HighGodHerHis]の教えがそのように捻じ曲げられるのをみて、嘆かれるに違いない。"
+ spymaster_task.0311.secret_bastard.i_am_not_real_father:0 "\n\n[bastard.GetTitledFirstName]は私の本当の子供ではなく、[actual_father.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の[bastard.Custom('DaughterSon')]なのだ！"

@@ -65,5 +65,5 @@
  warhorse_name_boreas:0 "ボレアス"
  winter_soldier_skill_desc:0 "冬の戦闘"
  trait_winter_soldier_tooltip:0 "[GetTrait('winter_soldier').GetName( ROOT.Char )]"
- warhorse_name_veillantif:0 "Veillantif"
- warhorse_name_incitatus:0 "Incitatus"
+ warhorse_name_veillantif:0 "ヴェイヤンティフ"
+ warhorse_name_incitatus:0 "インキタトゥス"

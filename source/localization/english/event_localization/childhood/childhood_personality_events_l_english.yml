@@ -153,7 +153,7 @@
  child_personality.101.craven:1 "\n\n[child.GetSheHe|U]は他の子に会うのを避けて城中に隠れている。"
  child_personality.101.lazy:1 "\n\n[child.GetSheHe|U]は他の子に会うのを避け何日もベッドから出ていない。"
  child_personality.101.arbitrary:0 "\n\n[child.GetSheHe|U]は誰かを絞首刑にする方法を尋ね始めた。もし[child.GetSheHe]がそうすべきだと感じたときに。"
- child_personality.1011.t:1 "[child.GetFirstNameNoTooltip] in Hiding"
+ child_personality.1011.t:1 "[child.GetFirstNameNoTooltip]は隠れている"
  child_personality.1012.t:0 "[child.GetHerHis]の部屋に閉じこもっている"
  child_personality.1013.t:0 "処罰への疑問"
  child_personality.101.confirm_craven:0 "よし。無用な厄介事を抱えようとしてはならぬ。"

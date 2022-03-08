@@ -185,4 +185,4 @@
  commission_epic.2002.a.tt:0 "完了すると、あなたは[hostile_scheme_resistance|E]を向上させる一族の叙事詩の[artifact|E]を受け取ります"
  commission_epic.2004.a.tt:0 "完了すると、あなたは戦闘の[advantage|E]を向上させる一族の叙事詩の[artifact|E]を受け取ります"
  commission_epic.2005.b.tt:0 "完了すると、あなたは[personal_scheme|E]の[success_chance|E]を向上させる一族の叙事詩の[artifact|E]を受け取ります"
- commission_epic.2006.a.tt:0 "On completion, you will receive a Family Epic book [artifact|E] which increases [piety|E] and same [faith|E] tax"
+ commission_epic.2006.a.tt:0 "完了すると、あなたは[piety|E]と同じ[faith|E]の税を向上させる一族の叙事詩の[artifact|E]を受け取ります"

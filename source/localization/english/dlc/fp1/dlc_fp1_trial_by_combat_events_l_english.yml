@@ -57,5 +57,5 @@
  fp1_tbc.0121.desc.reward.humiliation:0 "\n\n[actor.GetFirstNamePossessiveNoTooltip]へのとりとめのない「謝罪文」を読み上げるのには長い時間がかかり、その間、私は歯を食いしばり、言葉を詰まらせていた。[actor.GetHerHis|U]のお抱えの詩人たちは、私の表情を記憶するために、ただ後ろで笑っているだけだった。"
  fp1_tbc.0121.desc.outro:0 "\n\n勝利は愚か者と物乞いの元へ行ってしまった。"
  fp1_tbc.0121.a:0 "$fp1_tbc.0051.a$"
- fp1_ep1_tbc.0101.e:0 "My already designated $champion_court_position$, [knight_alternative.GetTitledFirstNameNoTooltip], shall represent me."
+ fp1_ep1_tbc.0101.e:0 "すでに指名されている$champion_court_position$、[knight_alternative.GetTitledFirstNameNoTooltip]が私の代理だ。"
  fp1_ep1_tbc.0101.e.tt:0 "[knight_alternative.GetTitledFirstName]はあなたのために戦うでしょう"

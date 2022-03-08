@@ -76,5 +76,5 @@
  marshal_task.3102.desc:0 "我が[baron.Custom2('RelationToMe', ROOT.Char)]、\nあなたの[councillor.GetCouncilTitle][councillor.GetTitledFirstName]は[county.GetName]の再編成に尽力しており、我々はすでにその恩恵を享受しています。\nこのような有能な[councillor.GetWomanMan]を派遣して下さったことに対し個人的に感謝したいと思います！"
  marshal_task.3102.a:0 "[councillor.GetFirstNameNoTooltip]よ、これからも頑張ってくれ。"
  marshal_task.3102.notification:0 "[councillor.GetCouncilTitle]は封臣を感動させた"
- marshal_task.4002.notification:0 "Disorganized Royal Guards"
+ marshal_task.4002.notification:0 "不規律な近衛兵"
  task_manage_guards_disorganized_modifier:0 "$marshal_task.4002.notification$"

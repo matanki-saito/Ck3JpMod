@@ -80,7 +80,7 @@
  great_holy_war.0050.a:0 "[ROOT.Char.GetFaith.WarGodName]は、これらの[ghw_sponsor.Custom('GetUnbelieverNamePlural')]から我々を守るだろう！"
  great_holy_war.0051.catholic.attackers.desc:0 "ついに[target_kingdom.GetNameNoTier]の恥ずべき[ghw_defender.Custom('GetUnbelieverNamePlural')]に[the_faith.WarGodNamePossessive]の聖なる怒りをぶつける時が来た。\n\n[ghw_sponsor.GetTitledFirstName]が集めた正義の怒りと不屈の決意に燃えた十字軍の大軍勢は、邪悪なる者に神聖なる正義を知らしめ、[the_faith.DivineRealm]に召されたときの安住の地を得るために出発する。"
  great_holy_war.0051.generic.attackers.desc:0 "ついに[ghw_defender.Custom('GetUnbelieverNamePlural')]の血で[target_kingdom.GetNameNoTier]の地を聖別し、[the_faith.WarGodName]の栄光のためにこの地の領有権を主張する時が来た。\n\n我々の聖なる戦士たちは、勝利を収めようとも、不信心者との戦闘で死のうとも、その献身が彼らに[the_faith.PositiveAfterLife]の場所を与えるという確信を持って進軍する。"
- great_holy_war.0051.generic.defenders.desc:0 "[ghw_sponsor.GetTitledFirstName]によって集結した[ghw_sponsor.Custom('GetUnbelieverNamePlural')]の大軍が[target_kingdom.GetNameNoTier]への進軍を開始した。\n\n明らかに[ROOT.Char.GetFaith.DevilName]に触発された、これらの野蛮な戦士たちは、もし我々が彼らを止めなければ、我々の土地を荒らし、我々の民を容赦なく虐殺するだろう！[target_kingdom.GetNameNoTierNoTooltip]の全ての[ghw_defender.GetFaith.GetAdjective]信徒のために、我々は勝利しなければならない！"
+ great_holy_war.0051.generic.defenders.desc:0 "[ghw_sponsor.GetTitledFirstName]の号によって集結した [ghw_sponsor.Custom('GetUnbelieverNamePlural')]の大軍が[target_kingdom.GetNameNoTier]への進軍を開始した。\n\n[ROOT.Char.GetFaith.DevilName]の扇動が明らかである野蛮な戦士たちを止めなければ、我々の土地を荒らし、我々の民を容赦なく虐殺するだろう！[target_kingdom.GetNameNoTierNoTooltip]に住まう全ての[ghw_defender.GetFaith.GetAdjective]信徒のために、我々は勝利しなければならない！"
  great_holy_war.0051.generic.start.tt:0 "[target_kingdom.GetNameNoTierNoTooltip]のための[the_faith.GHWName]が直ちに立ち上げられます！"
  great_holy_war.0052.title.winners:0 "[the_faith.GHWName]の勝利"
  great_holy_war.0052.title.losers:0 "[the_faith.ReligiousSymbol|U]の報復"

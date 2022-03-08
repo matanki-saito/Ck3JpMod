@@ -203,7 +203,7 @@
  learn_own_court_language_action:0 "Learn Court Language from"
  learn_own_court_language_desc:1 "I will attempt to learn [SCHEME.GetOwner.GetCourtLanguage.GetName], my [court_language|E], from [SCHEME.GetTarget.GetShortUINameNoTooltip]."
  learn_own_court_language_desc_general:0 "The Learn My Court Language [scheme|E] is a [personal_scheme|E] where you try to learn the [court_language|E] of your [royal_court|E]. $learn_language_desc_general_shared$"
- scheme_interaction_tt_learn_own_court_language_approved:0 "Attempt to learn [recipient.GetShortUINamePossessiveNoTooltip] [court_language|E].\n\n#weak Current [language_limit|E]: [actor.MakeScope.ScriptValue('current_extra_languages')|V0] out of [actor.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
+ scheme_interaction_tt_learn_own_court_language_approved:0 "[recipient.GetShortUINamePossessiveNoTooltip]の[court_language|E]を学ぼうとします。\n\n#weak 現在の[language_limit|E]: [actor.MakeScope.ScriptValue('language_soft_cap')|V0]言語中[actor.MakeScope.ScriptValue('current_extra_languages')|V0]言語#!"
  learn_liege_court_language:0 "$learn_own_court_language$"
  learn_liege_court_language_action:0 "Learn Court Language from"
  learn_liege_court_language_desc:1 "I will attempt to learn [SCHEME.GetOwner.GetLiege.GetCourtLanguage.GetName], my [liege|E]'s [court_language|E], from [SCHEME.GetTarget.GetShortUINameNoTooltip]."
