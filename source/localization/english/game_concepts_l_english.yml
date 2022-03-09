@@ -1533,7 +1533,7 @@
  game_concept_kings:0 "王"
  game_concept_emperors:0 "皇帝"
  game_concept_cultural:0 "Cultural"
- game_concept_prestigious:0 "誉れ高き"
+ game_concept_prestigious:0 "誉れ高い"
  game_concept_dynasty_members:0 "王朝メンバー"
  game_concept_medical_treatments:0 "医療"
  game_concept_medical_treatments_desc:0 "When a character becomes [ill|E] or [GetTrait('wounded_1').GetName( GetNullCharacter )] a Medical Treatment can help them recover faster.\n\nThe one responsible for treating you and your [courtiers|E] is the [GetCourtPositionType('court_physician_court_position').GetName()]. Try to always have one employed if you can afford their salary.\n\nThe more treatments a Court Physician performs, the more their skill will grow, granting them [GetTrait('physician_2').GetName( GetNullCharacter )] [traits|E]."
