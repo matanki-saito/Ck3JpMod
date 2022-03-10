@@ -278,7 +278,7 @@
  child_personality.110.paranoid:0 "\n\n[child.GetSheHe|U]は、その遭遇が自分を試すために用意された演出だと思い込み、後で私に怒りを露わにした。"
  child_personality.110.confirm_ambitious:0 "[child.GetFirstNameNoTooltip]よ、偉業がそなたを待っている。"
  child_personality.110.confirm_sadistic:0 "ただの動物だ。"
- child_personality.110.confirm_paranoid:0 "その通り、あれはテストだ。よく見抜いたな、[child.GetFirstName]。"
+ child_personality.110.confirm_paranoid:1 "Yes, it was certainly a test. Well done, [child.GetFirstNameNoTooltip]."
  child_personality.110.ambitious_change:0 "ならば、自力であの動物を倒せると私に示してみろ！"
  child_personality.110.sadistic_change:0 "常に傷つくのは自分以外、そう仕向けるのだ。"
  child_personality.110.paranoid_change:0 "これはテストだ。次はもっとうまくやれ。"

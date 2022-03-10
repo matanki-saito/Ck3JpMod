@@ -140,7 +140,7 @@
  learning_scholarship_special.3099.termination.toast:0 "変成挫折"
  learning_scholarship_special.3099.termination.desc.prison:0 "牢獄で変成実験は無理だ。"
  learning_scholarship_special.3099.termination.desc.incapable:0 "こんな体で変成実験は無理だ。"
- learning_scholarship.4000.t:0 "親愛なる[ROOT.GetCharacter.GetFaith.HighGodName]よ、外へ！"
+ learning_scholarship.4000.t:1 "Dear [ROOT.GetCharacter.GetFaith.HighGodName], Go Outside!"
  learning_scholarship.4000.desc:0 "夜遅く、私は古典的な文法についての興味深い論文を読みふけっていた。前の読者が残した愉快で皮肉めいた余白に私が笑い始めたとき、私の[spouse_uninterested_in_study.GetWifeHusband]が部屋に入ってきた。\n\n「意気地なしの[ROOT.Char.GetWomanMan]め！あなたは研究以外のことを放棄して、夕暮れから夜明けまで部屋に閉じこもって読書ばかりしている。埃まみれの巻物から頭を上げるのです、さもなければ、今夜は私のベッドに来ないでください。」"
  learning_scholarship.4000.a:0 "仰せのままに。"
  learning_scholarship.4000.b:0 "あるいは、我々はこれから抄録を共に読めるようになるかもしれない。"
@@ -211,3 +211,4 @@
  learning_scholarship.5006.a:0 "Fear is the little death that brings total obliteration."
  learning_scholarship_paranoid_trait.tt:0 "You gained this trait because you were unable to make sense of the passage in [sacred_text.GetName]"
  learning_scholarship_paranoid_trait_possible:0 "You might gain the [trait|E] [GetTrait('paranoid').GetName( GetNullCharacter )]"
+ learning_lifestyle_experience_gain_indication:0 "I might gain [learning_lifestyle|E] [lifestyle_experience|E]"

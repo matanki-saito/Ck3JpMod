@@ -29,3 +29,5 @@
  hold_court_ploughs_to_swords:0 "Ploughshares to Swords"
  hold_court_ploughs_to_swords_desc:0 "The farms of this county lay empty; their tenants enlisted to fight instead of sow."
  promote_culture_modifier:0 "Celebrated Culture"
+ divide_and_conquer_modifier:0 "Religious Propaganda"
+ divide_and_conquer_modifier_desc:0 "The locals of this county have been subjected to religious propaganda, rallying them to their liege's banner."

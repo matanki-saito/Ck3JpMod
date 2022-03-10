@@ -12,5 +12,7 @@
  establish_bactrian_supremacy_decision_confirm:0 "祖先の地を請求する！"
  establish_yamagate_in_samarkand_decision:0 "Establish the $manichean_religious_head_title_name$ in Samarkand"
  establish_yamagate_in_samarkand_decision_desc:0 "#F Just as Mar Sisin once led the faith in the Holy See of Babylon, so does our current $manichean_religious_head_title$ lead us here in Turan and Persia. By formalising the church’s divine mandate in Samarkand, the Manichean faith will be reborn and spread to a new people!#!"
- establish_yamagate_in_samarkand_decision_tooltip:0 "Claim a new holy land in the east"
+ establish_yamagate_in_samarkand_decision_tooltip:1 "Claim a new holy land in the East"
  establish_yamagate_in_samarkand_decision_confirm:0 "$manichean$ is born anew!"
+ hof_exists_tt:1 "Your [head_of_faith|E] exists"
+ samarkand_held_by_you_or_vassal_tt:0 "$c_samarkand$ must be held by you or a [vassal|E]"

@@ -263,7 +263,7 @@
  mercenary_company_khanty_host_article:0 ""
  mercenary_company_khorasan_band:0 "コラサニ傭兵団"
  mercenary_company_khorasan_band_article:0 ""
- mercenary_company_kievan_band:0 "キエフ傭兵団"
+ mercenary_company_kievan_band:1 "Kyivan Band"
  mercenary_company_kievan_band_article:0 ""
  mercenary_company_kushite_band:0 "クシュ傭兵団"
  mercenary_company_kushite_band_article:0 ""

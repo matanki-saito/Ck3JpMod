@@ -88,7 +88,7 @@
  hold_court.4600.b:0 "構想が気に入った！[chancellor.GetCouncilTitle]！私が悪魔だという言葉を広めよ。"
  hold_court.4600.b.tt:0 "良くも悪くも、[THIS.GetCharacter.GetFaith.DevilName]に対するあなたの類似は知られることになるでしょう。"
  hold_court.4600.c:0 "私は、本当にそんな忌まわしいことをしてきたのか？"
- hold_court.4600.c.tt:0 "変化に遅すぎるということはありません"
+ hold_court.4600.c.tt:1 "It is not too late for change."
  hold_court.4600.d:0 "馬鹿馬鹿しい！[ROOT.Char.GetFaith.WitchGodName|U]は[ROOT.GetCharacter.GetFaith.DevilName]よりはるかに優れている！"
  hold_court.4600.d.success:0 "あなたの宮廷はあなたの冗談を笑う"
  hold_court.4600.d.failure:0 "廷臣はあなたが冗談を言っているのではないと疑う"

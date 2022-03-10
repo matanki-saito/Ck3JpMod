@@ -39,7 +39,7 @@
  court.0102.b:0 "大変な人生だが、生きなければならない者もいる。"
  court.0102.c:0 "ハッ！お前は俺の溝にいるネズミよりも同情に値しないよ！"
  court.0103.t:0 "重大な機会"
- court.0103.desc.opening:0 "[executioner.GetSheHe]がますます高価な服を着て、孔雀のように気取って歩いていることで、[executioner.Custom2('MyCharacterIntroduction', ROOT.Char)]は私の目を引いている。\n\n私が尋ねると、[executioner.GetSheHe]は黄色い歯を見せて笑い、呪われた者から価値ある物を横取りしてきたのだと教えてくれた。"
+ court.0103.desc.opening:1 "[executioner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been catching my eye as of late, as [executioner.GetSheHe] appears to be wearing increasingly expensive attire and strutting around like a peacock.\n\nUpon enquiry, [executioner.GetSheHe] gives me a yellow toothy grin and tells me [executioner.GetSheHe] has been appropriating things of value from the damned."
  court.0103.desc.hair_and_teeth:0 "[executioner.GetHerHis|U]の事業には、囚人の毛髪を人形師に、歯がないものには歯を、魔術を実践するものには眼球さえも売ることが含まれる。"
  court.0103.desc.jewelry:0 "[executioner.GetSheHe|U]は、呪われた者たちから衣服や宝石を盗んで売り、地下牢に残された限られた財産の中からかなりの利益を得ていることを告白している。[executioner.GetSheHe|U]は最近死んだ人間の死体からさえも盗んでいるのだ！"
  court.0103.desc.meat:0 "[executioner.GetSheHe|U]は最近死んだ人を肉にし、それを異国の肉として市場で売りさばいていた！[executioner.GetSheHe|U]は、呪われた者はそのような最後の依頼を受けるに値しないため、承認された葬儀を行うよりも、この方法がより良い選択肢であると主張する。"

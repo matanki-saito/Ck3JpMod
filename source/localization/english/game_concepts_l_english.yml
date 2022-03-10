@@ -1516,7 +1516,7 @@
  game_concept_winter_severity_harsh:0 "過酷な冬"
  game_concept_winter_severity_harsh_desc:0 "[GetModifier( 'winter_harsh_modifier' ).GetDesc]"
  game_concept_deceitful_progress_hostile_schemes_decision:0 "$deceitful_progress_hostile_schemes_decision$の決断"
- game_concept_deceitful_progress_hostile_schemes_decision_desc:0 "[decision|E]により、[hostile_scheme|E]を改善できます。 [stress|E]と引き換えに[success_chance|E]と[scheme_power|E]を付与します。"
+ game_concept_deceitful_progress_hostile_schemes_decision_desc:1 "A [decision|E] allowing you to improve your [hostile_schemes|E]. Grants [success_chance|E] and [scheme_power|E] in exchange for [stress|E]."
  game_concept_diligent_development_focus_decision:0 "$diligent_development_focus_decision$の決断"
  game_concept_diligent_development_focus_decision_desc:0 "[decision|E]により、[capital|E]を向上させることができます。[stress|E]と引き換えに[development|E]を付与します。"
  game_concept_impatient_rushing_all_schemes_decision:0 "$impatient_rushing_all_schemes_decision$の決断"

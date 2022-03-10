@@ -8,3 +8,7 @@
  language_events.0002.desc:0 "我が封臣[vassal_speaking_other_language.GetTitledFirstName]が、私の[vassal_speaking_other_language.GetCulture.GetLanguage.GetName]の会話能力が堪能であると公に称賛していることが私の耳まで届いてきた！――この言語は[vassal_speaking_other_language.GetHerHis]の臣下の間で使われている。\n\n我が顧問は、[vassal_speaking_other_language.GetHerHis]の行為を認める[vassal_speaking_other_language.GetCulture.GetLanguage.GetNameNoTooltip]の手紙を[vassal_speaking_other_language.GetHerHim]に送り、この機会を十分に活用してはどうかと提案している。"
  language_events.0002.a:0 "「より良い理解は共栄へ達する！」"
  language_events.0002.b:0 "「あーはっは！お前からもっと徴税出来そうだ、親愛なる封臣よ。」"
+ language_events.0010.t:0 "It's Time for Your [language_to_forget.GetLanguage.GetNameNoTooltip|U] Lesson!"
+ language_events.0010.desc:0 "I wake up in a sweat after a grueling nightmare, where an owl was constantly following me and testing my knowledge in the [language_to_forget.GetLanguage.GetNameNoTooltip] language.\n\nA symbol of wisdom in some cultures, the feathered fiend was stalking me throughout the night, and I dreaded disappointing it. Perhaps there is such a thing as \"too much knowledge\" and this dream is a result of all the stress I feel in keeping my skills sharp."
+ language_events.0010.a:0 "This cannot go on."
+ language_events.0010.b:0 "I will continue to push myself daily!"

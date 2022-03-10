@@ -426,7 +426,7 @@
  fund_inspiration.2120.m:0 "「放せ、淫蕩な罪人め！」"
  fund_inspiration.2120.leave_flavor:0 "あなたは急いで帰る"
  fund_inspiration.2130.t:0 "$fund_inspiration.title$ 気まぐれな刺激"
- fund_inspiration.2130.desc:0 "私の[inspiration_owner.Custom('GetInspirationOwnerType')]、[inspiration_owner.GetTitledFirstName]の非常に深刻な表情を見て、私は[inspiration_owner.GetSheHe]がすぐ私のために用意されるはずの素晴らしい[inspiration_owner.Custom('GetInspirationTypeObject')]に関して、悪い知らせを持ってきたのでなければよいがと願っている。\n\n「我が主君、ここにおられましたか…私は仕事の壁にぶつかっております——大したことはありませんが。プレッシャーに押しつぶされそうで、アイデアが浮かばないのです！」[inspiration_owner.GetSheHe|U]は神経質そうに笑う。\n\n「ただ少しだけ…ひらめきが必要なのです！強大な[ROOT.Char.GetTitleAsNameNoTooltip]様、何か…いくつか過去の事例を調べさせていただきたいのですが？」"
+ fund_inspiration.2130.desc:1 "I bump into a very grave looking [inspiration_owner.GetTitledFirstName], my [inspiration_owner.Custom('GetInspirationOwnerType')], hoping that [inspiration_owner.GetSheHe] doesn't bring ill news of the splendid [inspiration_owner.Custom('GetInspirationTypeObject')] [inspiration_owner.GetSheHe] should soon have ready for me. \n\n\"Oh, there you are my liege... I have hit a wall in my work — nothing major! My ideas have gone to ground as the pressure mounts!\" [inspiration_owner.GetSheHe|U] laughs nervously. \n\n\"I just need some... inspiration! Mighty [ROOT.Char.GetTitleAsNameNoTooltip], might you have some... prior examples I could examine?\""
  fund_inspiration.2130.a.library:0 "「書庫へ行くがよい！」"
  fund_inspiration.2130.a.armory:0 "「武器庫へ行くがよい！」"
  fund_inspiration.2130.a.hall:0 "「大広間へ行くがよい！」"

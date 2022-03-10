@@ -10,7 +10,7 @@
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_NOMINEE:1 "#T [SuccessionElectionWindowElector.GetElectorCandidate.GetCandidate.GetShortUINameNoTooltip]を支持している#!"
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_NOMINEE_TT:1 "#T [SuccessionElectionWindow.GetElectorFromCharacter( Character.Self ).GetElectorCandidate.GetCandidate.GetShortUINameNoTooltip]を支持している#!"
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_PLAYER_NOMINEE:1 "#T あなたの候補者、[SuccessionElectionWindow.GetTitle.GetPlayerNominee.GetShortUINameNotMeNoTooltip]#!"
- SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_PLAYER_NOMINEE_INFO:1 "#weak [Character.GetShortUINameNoTooltip]は[SuccessionElectionWindow.GetTitle.GetPlayerNominee.GetShortUINamePossessiveNoTooltip]のスコアが[SuccessionElectionWindowElector.GetElectorCandidate.GetScore|+]より大きくなれば[SuccessionElectionWindow.GetTitle.GetPlayerNominee.GetShortUINameNoTooltip]に投票するでしょう#!"
+ SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_PLAYER_NOMINEE_INFO:2 "#weak Will vote for [SuccessionElectionWindow.GetTitle.GetPlayerNominee.GetShortUINameNoTooltip] if [SuccessionElectionWindow.GetTitle.GetPlayerNominee.GetHerHis] score is greater than [SuccessionElectionWindowElector.GetElectorCandidate.GetScore|+]#!"
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_IS_OTHER_PLAYER:0 "$SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_NOMINEE$\n[Character.PlayerName|V]が決断"
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_IS_LOCAL_PLAYER:0 "$SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_NOMINEE$\n私が決断"
  SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_FORCED_VOTE:0 "$SUCCESSION_ELECTION_WINDOW_VOTE_BREAKDOWN_NOMINEE$\n$SUCCESSION_ELECTION_WINDOW_TT_FORCED_VOTE$"
