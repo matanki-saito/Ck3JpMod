@@ -91,7 +91,7 @@
  COURT_AMENITY_OWNER_MODIFIER_HEADER:0 "#S 所有者:#!"
  COURT_AMENITY_COURTIER_GUEST_MODIFIER_HEADER:0 "#S 廷臣と客人:#!"
  COURT_AMENITY_SETTING_NO_EFFECT:0 "#weak 影響なし#!"
- COURT_AMENITY_CATEGORY_ON_COOLDOWN:0 "@warning_icon!#X Recently changed $CATEGORY_NAME$, can change them again in [DATE.GetTimeToDate] ([DATE.GetStringLong])#!"
+ COURT_AMENITY_CATEGORY_ON_COOLDOWN:0 "@warning_icon!#X 最近$CATEGORY_NAME$を変更したので、[DATE.GetTimeToDate]に再び変更することができます（[DATE.GetStringLong]）#!"
  COURT_AMENITIES_EXPENSES:0 "[court_amenities|E]"
  COURT_AMENITIES_EXPENSES_FOR:0 "$COURT_AMENITY$"
  COURT_AMENITIES_EXPENSES_MONTHLY_COST:1 "[CourtAmenitiesWindow.GetMonthlyCost]"

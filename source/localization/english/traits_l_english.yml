@@ -327,7 +327,7 @@
  trait_athletic_character_desc:0 "定期的な運動は、[ROOT.GetCharacter.GetFirstNameNoTooltip]の心の平穏を保ちストレス解消に役立つだろう。"
  trait_pregnant:0 "妊娠"
  trait_pregnant_desc:0 "この人物は子供を授かっている。"
- trait_pregnant_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[SCOPE.ScriptValue('pregnancy_month')]子供を妊娠している。"
+ trait_pregnant_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は妊娠[SCOPE.ScriptValue('pregnancy_month')]ヶ月だ。"
  trait_depressed_1:1 "鬱"
  trait_depressed_1_desc:0 "この人物には、人生の素晴らしさを理解することが難しい。"
  trait_depressed_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]には、人生の素晴らしさを理解することが難しい。"
