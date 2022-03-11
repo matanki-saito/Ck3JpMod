@@ -127,7 +127,7 @@
  DIVERGE_CULTURE_TOOLTIP:0 "#T 文化の分岐#!\n[Culture.GetName]から分岐する新しい[divergent_culture|E]を作成します。\n\n[GetPlayer.GetCulture.GetDivergenceBlockers]"
  CULTURE_CREATION_DATE:0 "[DATE.GetYear]に形成"
  CULTURE_CREATION_DATE_DIVERGED:0 "[DATE.GetYear]年に[CULTURE.GetName]文化から分岐した"
- CULTURE_CREATION_DATE_HYBRID:0 "[CULTURE.GetName]と[TARGET_CULTURE.GetName]から[DATE.GetYear]に形成"
+ CULTURE_CREATION_DATE_HYBRID:0 "[CULTURE.GetName]と[TARGET_CULTURE.GetName]から[DATE.GetYear]年に形成"
  ADD_TRADITION_WINDOW_TITLE:0 "伝統を確立"
  REPLACE_TRADITION_WINDOW_TITLE:0 "伝統を置き換え"
  ADD_TRADITION_LABEL:0 "伝統を確立"

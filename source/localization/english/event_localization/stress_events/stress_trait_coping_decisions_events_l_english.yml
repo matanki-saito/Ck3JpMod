@@ -71,7 +71,7 @@
  stress_trait_coping_decisions.7001.desc_ending:2 "\n\nしかし、再び宮廷を見渡すしてみると、廷臣たちの顔に張り付く嫉妬を目の当たりすることになった…詰まるところ、[confidant.GetFirstNamePossessive]の信頼を望まぬ者などいるのか？ということだ。"
  stress_trait_coping_decisions.7001.a:0 "それでも私の心は安らいでいる。"
  stress_trait_coping_decisions.7002.desc:0 "徹底した長い会話をした後には、自分の思考が落ち着くのを感じることができる。"
- stress_trait_coping_decisions.7501.t:1 "$stress_trait_coping_decisions.activity$ Sweat It Out"
+ stress_trait_coping_decisions.7501.t:1 "$stress_trait_coping_decisions.activity$ 汗を流そう"
  stress_trait_coping_decisions.7501.desc:0 "我が[ROOT.Char.Custom('ResidenceBuilding')]の周囲をひと回りジョギングすると、汗と一緒に悩み事が流れ落ちるのを感じる。\n\n一部の愚か者は私がそのような運動で問題から逃げていると言ってくるが、私は解決に向かって走っていると言い返している！"
  stress_trait_coping_decisions.7501.a:0 "さあ！もう一周！"
  stress_trait_coping_decisions.activity:0 "Stress Coping:"

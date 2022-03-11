@@ -1173,7 +1173,7 @@
  leave_faction_with_cooldown_effect_third.tt:2 "[CHARACTER.GetShortUIName]は#V $VALUE|0$年#!間別の[faction|E]に参加できません"
  leave_faction_with_cooldown_effect_first.tt:2 "#V $VALUE|0$年#!間、他の[faction|E]に参加できません"
  LEAVES_COURT:1 "[CHARACTER.GetCurrentLocation.GetCounty.GetTitle.GetHolder.GetShortUINamePossessive]の[court|E]を去ります"
- CHARACTER_LEAVES_COURT:1 "[CHARACTER.GetShortUIName|U] leaves [CHARACTER.GetCurrentLocation.GetCounty.GetTitle.GetHolder.GetShortUINamePossessive] [court|E]"
+ CHARACTER_LEAVES_COURT:1 "[CHARACTER.GetShortUIName|U]が[CHARACTER.GetCurrentLocation.GetCounty.GetTitle.GetHolder.GetShortUINamePossessive]の[court|E]を去ります"
  LEFT_COURT:0 "[CHARACTER.GetLiege.GetShortUINamePossessive]の[court|E]を去りました"
  CHARACTER_LEFT_COURT:0 "[CHARACTER.GetShortUIName|U]が[CHARACTER.GetLiege.GetShortUINamePossessive]の[court|E]を去りました"
  RECRUIT_COURTIER_EFFECT:1 "[TARGET_CHARACTER.GetShortUIName]を[court|E]に採用します"

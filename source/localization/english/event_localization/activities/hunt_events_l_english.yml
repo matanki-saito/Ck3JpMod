@@ -224,7 +224,7 @@
  hunt.9001.b:0 "私たちは失意のまま家に帰る。"
  hunt.9001.c:0 "ひとまずこの冒険から離れよう。"
  hunt.9001.d:0 "帰ろうか。"
- hunt.skull_tt:1 "Will receive a [THIS.Char.Custom('LocalAnimal')] skull [court_artifact|E]"
+ hunt.skull_tt:1 "[THIS.Char.Custom('LocalAnimal')]の頭蓋骨の[court_artifact|E]を受け取ります"
  hunt.8001.t:0 "$hunt_header$ 美しい標本"
  hunt.8001.desc:0 "[ROOT.Char.Custom('LocalAnimal')]を連れて[activity_place.GetName]から戻ってくると、私はそれを死してなお賞賛せずにはいられなくなる。その皮や頭蓋骨が、私の宮廷の壁に飾られているのを想像すると――とても素敵だ！ああ、でもどれを選択すればいいのだろう？"
  hunt.8001.a:0 "その豊かな毛皮は、会話のネタとしても最適だろう。"

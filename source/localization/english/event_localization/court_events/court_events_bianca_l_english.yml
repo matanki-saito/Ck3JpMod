@@ -48,7 +48,7 @@
  court.3011.c.tt.gain_inspiration:0 "[inspired_writer.GetFirstNameNoTooltip]は傑作を書くための触発を受けるようになります！"
  court.3011.c.tt.hurt:0 "[inspired_writer.GetFirstNameNoTooltip]はあなたの支援がないことに傷つきます。"
  court.3020.t:0 "不潔な臭い"
- court.3020.desc.opening:1 "\"[ROOT.Char.Custom2('RelationToMeAddress', latrine_chancellor)|U]. A word, please.\"\n\nMy [latrine_chancellor.GetCouncilTitle], [latrine_chancellor.GetTitledFirstName], approaches me during a brief lull while attending court matters. [latrine_chancellor.GetSheHe|U] gestures to a less populated spot in the room, and I follow [latrine_chancellor.GetHerHim] there.\n\n\"I'm concerned about the state of "
+ court.3020.desc.opening:1 "「[ROOT.Char.Custom2('RelationToMeAddress', latrine_chancellor)|U]。ちょっとよろしいですか。」\n\n我が[latrine_chancellor.GetCouncilTitle]、[latrine_chancellor.GetTitledFirstName]は法廷での問題に出席している短い休憩の間に、私に近づいてくる。[latrine_chancellor.GetSheHe|U]は、部屋の中で人気のない場所を指し示し、私は[latrine_chancellor.GetHerHim]について行く。\n\n「私は"
  court.3020.desc.castle:0 "[capital.GetNameNoTooltip]の城砦の状態が気がかりです。"
  court.3020.desc.city:0 "[capital.GetNameNoTooltip]の市庁舎の状態が気がかりです。"
  court.3020.desc.temple:0 "[capital.GetNameNoTooltip]の礼拝所の状態が気がかりです。"

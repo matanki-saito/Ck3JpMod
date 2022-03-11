@@ -52,7 +52,7 @@
  martial_chivalry.1012.b.success:1 "恐怖に向き合う"
  martial_chivalry.1012.b.failure:1 "この場所はあなたを怯えさせる"
  martial_chivalry.1021.t:0 "戦闘の混乱"
- martial_chivalry.1021.desc:1 "A sword strikes across my chest plate, an elbow slams into my helmet, a soldier easily avoids my clumsy counter... The mock battle rages around me, but I struggle to find my focus.\n\nI am tempted to let my guard down as soon as the fighting lulls, but I know the second assault is about to start."
+ martial_chivalry.1021.desc:1 "胸板に剣が打ち込まれ、ヘルメットに肘が打ち込まれ、兵士は私の下手な反撃を簡単に回避する…模擬戦が私の周りで行われているが、私は集中力を見出すのに苦労している。\n\n戦闘が小康状態になるとすぐに油断したくなるが、次の攻撃が始まるのは分かっている。"
  martial_chivalry.1021.a:0 "一旦引き下がろう。"
  martial_chivalry.1021.b:0 "正面から突撃する！"
  martial_chivalry.1021.b.success:0 "突撃が相手を怯えさせる"
