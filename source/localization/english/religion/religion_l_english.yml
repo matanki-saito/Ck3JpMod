@@ -262,7 +262,7 @@
  holy_site_akkel_effect_name:0 "[holy_site|E]#weak ($holy_site_akkel_name$)#!から"
  holy_site_perm_name:0 "ペルム"
  holy_site_perm_effect_name:0 "[holy_site|E]#weak ($holy_site_perm_name$)#!から"
- holy_site_kiev_name:1 "Kyiv"
+ holy_site_kiev_name:1 "キエフ"
  holy_site_kiev_effect_name:0 "[holy_site|E]#weak ($holy_site_kiev_name$)#!から"
  holy_site_novgorod_name:0 "ノヴゴロド"
  holy_site_novgorod_effect_name:0 "[holy_site|E]#weak ($holy_site_novgorod_name$)#!から"

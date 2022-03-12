@@ -18,7 +18,7 @@
  hold_court_8001.desc_incompetent:0 "最も基本的な記録さえも維持できないのです"
  hold_court_8001.desc_infirm:0 "町の問題に注意を払うどころか、[mayor.GetHerHis]のベッドを離れるのもやっとです"
  hold_court_8001.desc_incapable:0 "この数週間、言葉を発せず、[mayor.GetHerHis]の仕事が山積みになったままです"
- hold_court_8001.desc_old:0 "冬を経験しすぎて、仕事で要求される活力を失いつつあります"
+ hold_court_8001.desc_old:0 "寄る年波に勝てず、仕事に必要な活力を失いつつあります"
  hold_court_8001.desc_fallback:0 "商業や町の利益を阻害する存在です"
  hold_court_8001_deposed_modifier:0 "市民の干渉"
  hold_court_8001_ignored_modifier:0 "商業の抑圧"

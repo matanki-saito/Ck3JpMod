@@ -122,7 +122,7 @@
  NO_HYBRIDIZE_INFO_PARENT:0 "自分の文化の親となる文化との[hybrid_culture|E]は形成できません。"
  NO_HYBRIDIZE_INFO_CHILD:0 "自分の文化の子となる文化との[hybrid_culture|E]は形成できません"
  HYBRIDIZE_CULTURE_LABEL:0 "混合文化を形成"
- HYBRIDIZE_CULTURE_TOOLTIP:0 "#T $$HYBRIDIZE_CULTURE_LABEL$#!\n[GetPlayer.GetCulture.GetNameNoTooltip]と[Culture.GetNameNoTooltip]、両文化の側面を組み合わせた新しい[hybrid_culture|E]を形成します\n\n[GetPlayer.GetCulture.GetHybridizationBlockers( Culture.Self )]"
+ HYBRIDIZE_CULTURE_TOOLTIP:0 "#T $HYBRIDIZE_CULTURE_LABEL$#!\n[GetPlayer.GetCulture.GetNameNoTooltip]と[Culture.GetNameNoTooltip]、両文化の側面を組み合わせた新しい[hybrid_culture|E]を形成します\n\n[GetPlayer.GetCulture.GetHybridizationBlockers( Culture.Self )]"
  DIVERGE_CULTURE_LABEL:0 "文化を分岐する"
  DIVERGE_CULTURE_TOOLTIP:0 "#T 文化の分岐#!\n[Culture.GetName]から分岐する新しい[divergent_culture|E]を作成します。\n\n[GetPlayer.GetCulture.GetDivergenceBlockers]"
  CULTURE_CREATION_DATE:0 "[DATE.GetYear]に形成"

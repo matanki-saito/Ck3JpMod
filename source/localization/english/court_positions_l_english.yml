@@ -236,7 +236,7 @@
  bodyguard_court_position_desc:1 "$bodyguard_court_position$は、すべての攻撃者に対する王室の最後の防衛線である。彼らはどんんな場所でも付いていき、そしてそこに潜んでいるかもしれない危険に躊躇なく身を投じていく。"
  champion_court_position:1 "代闘士"
  champion_employer_custom_effect_description:1 "いくつかの[single_combat_duel_plural|E]においてあなたの代わりを務めることが可能"
- champion_court_position_desc:1 "$champion_court_position$とは死線を知る腕の立つ戦士で、決闘において主君の代理を務めます。"
+ champion_court_position_desc:1 "$champion_court_position$とは死線を知る腕の立つ戦士で、決闘において主君の代理を務める。"
  court_musician_court_position:0 "宮廷楽士"
  court_musician_employer_custom_effect_description:1 "[feast|E]主催による[opinion|E]の上昇量を増やします"
  court_musician_court_position_desc:1 "$court_musician_court_position$は、君主と宮廷を楽しませるために歌を歌ったり楽器を演奏したりする芸術家である。"
