@@ -223,7 +223,7 @@
  intrigue_scheme_ongoing.5026.b_agent:0 "「あなたはすでに私を助けることに同意している、だから…」"
  intrigue_scheme_ongoing.5026.b:0 "「だが[target.GetFaith.HighGodName]によれば…」"
  intrigue_scheme_ongoing.5026.b_scholar:0 "「[target.GetFaith.HighGodName]が何を望んでいるかを考えてみよう。」"
- intrigue_scheme_ongoing.5026.b_scholar_tt:1 "What a coincidence that it will be the same as what I want!"
+ intrigue_scheme_ongoing.5026.b_scholar_tt:1 "私が求めているものと同じになるとは、なんという偶然だろう！"
  intrigue_scheme_ongoing.5026.c:0 "それは[target.GetHerHim]と[target.GetFaith.PantheonTerm]との間の問題だ。"
  intrigue_scheme_ongoing.1006.a.success:0 "[agent_in_question.GetFirstNameNoTooltip]は気づかれないままだ"
  intrigue_scheme_ongoing.1006.a.failure:0 "[agent_in_question.GetFirstNameNoTooltip]が発見される"

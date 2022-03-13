@@ -770,7 +770,7 @@
  drylands_development_growth_factor:1 "乾燥地([terrain|E])での$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$"
  world_steppe_development_growth_factor:1 "$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$ in the [GetGeographicalRegion('world_steppe').GetName] [region|E]"
  clan_government_opinion_same_faith:0 "[clan|E] Ruler of Same [faith|E] Opinion"
- feudal_government_opinion:0 "[feudal|E] Ruler Opinion"
+ feudal_government_opinion:0 "[feudal|E]の統治者の評価"
  plains_holding_construction_gold_cost:0 "平地での$MOD_HOLDING_CONSTRUCTION_GOLD_COST$"
  farmlands_holding_construction_gold_cost:0 "農地での$MOD_HOLDING_CONSTRUCTION_GOLD_COST$"
  hills_holding_construction_gold_cost:0 "丘陵での$MOD_HOLDING_CONSTRUCTION_GOLD_COST$"

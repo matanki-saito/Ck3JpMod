@@ -186,7 +186,7 @@
  petition_liege.0401.desc.third_fallback:0 "とは言え、[third_portrait.GetTitledFirstName]は常に私を気に入ってくれている"
  petition_liege.0401.desc.third:1 "——あるいは[third_portrait.GetSheHe]は私の主張の正しさを説明してくれるのでは？\n\n"
  petition_liege.0401.desc.outro:0 "[petition_liege.GetTitleAsNameNoTooltip]は私に背を向け、すれに[petition_liege.GetHerHis]の注意は他のものへと移っている。私は何かを#EMP しなければ#!！"
- petition_liege.0401.first:0 "I know just the thing to trip [first_portrait.GetFirstNameNoTooltip] up..."
+ petition_liege.0401.first:0 "[first_portrait.GetFirstNameNoTooltip]を混乱させるちょうどいい方法を知っている..."
  petition_liege.0401.second:0 "「[second_portrait.GetFirstNameNoTooltip]！"
  petition_liege.0401.second_diplomacy:0 "$petition_liege.0401.second$ここにはきっと妥協の余地があるのでは？」"
  petition_liege.0401.second_martial:0 "$petition_liege.0401.second$もちろん#EMP あなた#!は、私の言いたいことが分かっているだろう？"

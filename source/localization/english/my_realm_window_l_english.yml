@@ -104,7 +104,7 @@
  MY_REALM_WINDOW_MAP_ICON_LOW_CONTROL:0 "低い[control|E]"
  MY_REALM_WINDOW_DOMAIN_LEVIES:0 "[domain|E]の[levies|E]"
  MY_REALM_WINDOW_VASSAL_LEVIES:0 "[vassal|E]の[levies|E]"
- ME_REALM_WINDOW_EMPTY_HOLDINGS:2 "Empty Holdings: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
+ ME_REALM_WINDOW_EMPTY_HOLDINGS:2 "空き所領: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
  MY_REALM_WINDOW_POWERFUL_VASSAL:1 "[powerful_vassal|X]"
  MY_REALM_WINDOW_TITLES_LOST_ON_SUCCESSION:0 "@warning_icon!継承時に失われる称号: [MyRealmWindow.GetNumTitlesLost]"
  MY_REALM_WINDOW_VASSAL_LIMIT:0 "[vassal_limit|E]: "

@@ -461,4 +461,4 @@
  stewardship_domain_special.9999.desc_not_education:0 "\n\n成し遂げたことを見渡して実感する、私は行政上無視出来ぬ存在になった！"
  stewardship_domain_special.9999.a:0 "統治についてならどんなことも必ず学んできた！"
  stewardship_domain_special.9999.a.tt:1 "[stewardship_lifestyle|E]を学ぶことについては、手を伸ばしたいと思っていたところまで届いたように感じる。"
- stewardship_domain.1052.d:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('almoner'))] will distribute grain to them."
+ stewardship_domain.1052.d:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('almoner'))]が、彼らに穀物を配布するだろう。"

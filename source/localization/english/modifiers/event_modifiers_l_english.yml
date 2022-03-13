@@ -116,7 +116,7 @@
  great_smithy_investment_character_modifier:0 "$great_smithy_investment_modifier$"
  great_smithy_investment_character_modifier_desc:0 "Having wisely invested their money this character can now draw benefits from a very productive blacksmith business."
  great_mason_investment_character_modifier:0 "$great_mason_investment_modifier$"
- great_mason_investment_character_modifier_desc:0 "Wisely invested money has meant that this character can draw benefits from a very efficient mason business."
+ great_mason_investment_character_modifier_desc:0 "賢明な投資が意味するところは、この人物が極めて生産性の高いレンガ取引を通じた利益獲得が可能であるということだ。"
  great_religious_sculptor_investment_character_modifier:0 "$great_religious_sculptor_investment_modifier$"
  great_religious_sculptor_investment_character_modifier_desc:0 "Wisely invested money has brought this character ready access to fine religious sculptures."
  great_jeweler_investment_character_modifier:0 "$great_jeweler_investment_modifier$"

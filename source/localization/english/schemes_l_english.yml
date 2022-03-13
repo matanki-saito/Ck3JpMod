@@ -172,7 +172,7 @@
  learn_language_invalidated_cannot_learn_language_desc:0 "You can no longer learn [target.GetShortUINamePossessive] [language|E]"
  learn_language_invalidated:0 "$learn_language$ 無効"
  learn_language_invalidated_dead_desc:0 "[target.GetShortUIName|U]は死去しました。あなたは[target.GetHerHim]に対し$learn_language$をもはや使用できません。"
- learn_language_complete:1 "You have learned [target.GetShortUINamePossessiveNoTooltip] [target.GetCulture.GetLanguage.GetName] [language|E]"
+ learn_language_complete:1 "[target.GetShortUINamePossessiveNoTooltip]の[target.GetCulture.GetLanguage.GetName][language|E]を習得した"
  learn_language_invalidated_title:0 "@scheme_icon!$learn_language$が終了"
  LEARN_LANGUAGE_SUCCESS_DESC:2 "あなたは[TARGET_CHARACTER.GetCulture.GetLanguage.GetName]の[language|E]を習得します\n#weak 現在の[language_limit|E]: [CHARACTER.MakeScope.ScriptValue('language_soft_cap')|V0]言語中[CHARACTER.MakeScope.ScriptValue('current_extra_languages')|V0]言語#!"
  scheme_target_same_language_as_existing_scheme:1 "あなたはすでに[TARGET_CHARACTER.GetCulture.GetLanguage.GetName]を習得しています"
