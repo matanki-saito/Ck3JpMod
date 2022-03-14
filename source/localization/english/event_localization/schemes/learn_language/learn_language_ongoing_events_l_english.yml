@@ -124,7 +124,7 @@
  learn_language_ongoing.1130.c:0 "ありがとう、でも大丈夫だ。"
  motivated_by_love_modifier:0 "愛によるやる気"
  learn_language_ongoing.1130.a.success:0 "浮ついた教師とはいえ、[lover_to_help.GetFirstNameNoTooltip]は適任だ"
- learn_language_ongoing.1130.a.failure:0 "[lover_to_help.GetFirstNameNoTooltip] thinks it's appropriate to #EMP start#! your lessons with words such as 'terpsichorean', 'transmogrify' and 'lugubrious'"
+ learn_language_ongoing.1130.a.failure:0 "[lover_to_help.GetFirstNameNoTooltip]は、「terpsichorean」、「transmogrify」、「lugubrious」などの単語でレッスンを#EMP 開始#!するのが適切だと考えています。"
  learn_language_ongoing.1140.t:1 "$learn_language$: 救いの手"
  learn_language_ongoing.1140.desc:4 "\"You are learning [scheme.GetTarget.GetCulture.GetLanguage.GetName], I see — good choice, speaking it will surely strengthen your position as [ROOT.Char.GetTitleTierName].\" my [SCOPE.sC('root_for_loc').Custom2('RelationToMeShort', SCOPE.sC('close_one_to_help'))] [close_one_to_help.GetFirstName] exclaims, [close_one_to_help.Custom('quirk_pos_pp')].\n\n\"I speak [target.GetCulture.GetNameNoTooltip] natively. Perhaps I could be of assistance, [SCOPE.sC('close_one_to_help').Custom2('RelationToMeShort', SCOPE.sC('root_for_loc'))]?\" [close_one_to_help.GetSheHe] says."
  learn_language_ongoing.1140.a:0 "Could you help me make sense of this sentence?"

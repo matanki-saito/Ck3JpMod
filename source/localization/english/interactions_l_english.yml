@@ -1148,7 +1148,7 @@
  abduct_own_children_block:0 "#weak （[GetTrait('sadistic').GetName(GetNullCharacter)]のような）#!自分の子に対し[hostile_schemes|E]を用いることを可能とする特性を持っていない"
  learn_language_interaction:0 "言語を学ぶ#weak (計画)#!"
  learn_language_interaction_notification:0 "言語を学ぶ"
- divorce_cannot_concubine_ex_wife:0 "You will be unable to take [recipient.GetShortUINameNoTooltip] as a [concubine|E] for a period of 50 years."
+ divorce_cannot_concubine_ex_wife:0 "50年間[recipient.GetShortUINameNoTooltip]を[concubine|E]にできません。"
  take_concubine_ex_spouse:0 "過去の[recipient.GetWifeHusband]を側室として娶ることはできない。"
  public_execution_tooltip:0 "あなたが[capital|E]で公開処刑を行ったため:"
  public_execution_control_effect:0 "すべての[domain|E]である[counties|E]が#P [actor.MakeScope.ScriptValue('executioner_control_value_tooltip')|0]#!の[control|E]を得ます"

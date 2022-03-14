@@ -165,4 +165,4 @@
  tooltip_scandinavian_elective_capital_opinion:0 "首都の[county_opinion|E]: $VALUE|=+0$"
  tooltip_scandinavian_elective_capital_development:0 "首都の[county_development|E]: $VALUE|=+0$"
  tooltip_scandinavian_elector_vote_prowess:0 "[candidate.GetSheHe|U]は偉大な[prowess|E]の戦士である: $VALUE|=+0$"
- tooltip_feudal_vote_strength_pope:0 "Papal Influence: $VALUE|=+0$"
+ tooltip_feudal_vote_strength_pope:0 "教皇への影響力: $VALUE|=+0$"

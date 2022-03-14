@@ -64,7 +64,7 @@
  pay_homage.0201.insult:0 "来るべきではなかった。"
  homage_delivery_stutter_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]がやっと文章の半分まで来たところで[homage_vassal.GetHerHis]のどもりが、[homage_vassal.GetHerHim]に水を差した。私の苦痛に満ちた廷臣たちは、[homage_vassal.GetHerHis]の声を征服しようとする勇敢な試みをじっと見つめている。"
  homage_delivery_lisp_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]の演説は…記憶に残るものだ。[homage_vassal.GetHerHis]の発音不全は、その重厚さを鈍らせ、[homage_vassal.GetSheHe]はその多くの歯擦音を操る中で、私の寛大ではない廷臣たちのくすくす笑いを無視しようとする。"
- homage_delivery_wheeze_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]のそれは興味深いものだ。その光景に明らかに緊張し、急な到着に興奮しているのか、[homage_vassal.GetSheHe]は、息をするのも苦しい様子で、休憩を挟みながら言葉を紡いでいく。"
+ homage_delivery_wheeze_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]のそれは興味深いものだ。眼下の光景に明らかに緊張し、急遽とした入来に興奮しているのか、[homage_vassal.GetSheHe]は、息をするのも苦しい様子で、休憩を挟みながら言葉を紡いでいく。"
  homage_delivery_slow_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]の演説は…良いとは言えない。[homage_vassal.GetSheHe]は、いくつかの点で[homage_vassal.GetHerHis]の思考の繋がりを失い、脇道にそれ、重要な単語のいくつかを誤解したり、発音を誤ったりしている。"
  homage_delivery_inconceivable_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]の演説は…面白いものだった。 [homage_vassal.GetSheHe|U]は古語や、明らかに本当の意味を知らないような重大な言葉を挿入して、長さを二倍にし、より学識のある廷臣たちを圧倒しているのだ。"
  homage_delivery_stutter_vassal:0 "私がやっと最初の誓いの言葉を言いかけたところで、どもりが私に水を差した。宮廷が笑いと困惑をもって見守る中、私は結局は前に進めたが、その日は私の苦しみによって特徴付けられる。"

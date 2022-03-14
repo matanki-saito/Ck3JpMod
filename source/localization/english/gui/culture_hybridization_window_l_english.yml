@@ -36,7 +36,7 @@
  CULTURE_CREATION_AESTHETICS:0 "美学"
  CULTURE_CREATION_TOO_MANY_TRADITIONS:0 "#X @warning_icon!$MAX$より多くの伝統が選択されています#!"
  CULTURE_CREATION_NAME_IN_USE:0 "#X @warning_icon!$NAME$と言う名前の文化はすでに存在します#!"
- CULTURE_CREATION_NEED_PILLARS_FROM_BOTH:0 "#X @warning_icon!Must pick Pillars from both Cultures, not counting shared Pillars#!"
+ CULTURE_CREATION_NEED_PILLARS_FROM_BOTH:0 "#X @warning_icon!両文化から支柱を選んでください。今のところ文化の支柱の分担になっていません#!"
  CULTURE_CREATION_BLOCKERS_HEADER:0 "文化を作成できない"
  HYBRID_NAME_FORMAT_0:0 "[TARGET_CULTURE.GetPrefixNoTooltip][CULTURE.GetNameNoTooltip]"
  HYBRID_COLLECTIVE_NOUN_FORMAT_0:0 "[TARGET_CULTURE.GetPrefixNoTooltip][CULTURE.GetCollectiveNounNoTooltip]"

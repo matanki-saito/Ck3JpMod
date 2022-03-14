@@ -90,5 +90,5 @@
  ghw_from_which_tenet_struggle_submission:0 "$tenet_struggle_submission_name$"
  ghw_from_which_tenet_warmonger:0 "$tenet_warmonger_name$"
  unbeliever_unbeliever:0 "不信心者"
- unbeliever_unbeliever_adj:0 "unbelieving"
+ unbeliever_unbeliever_adj:0 "不信心者"
  actual_bishop_title_possessive:0 "[ROOT.Char.Custom('GetActualBishopTitlePossessive')]"

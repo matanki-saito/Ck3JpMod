@@ -152,7 +152,7 @@
  tradition_group_law:0 "法"
  tradition_group_combat:0 "戦争"
  tradition_group_realm:0 "領国"
- tradition_group_regional:0 "Regional"
+ tradition_group_regional:0 "地域"
  tradition_group_societal:0 "社会"
  tradition_group_ritual:0 "祭事"
  REFORM_CULTURE_LABEL:0 "[Culture.GetNameNoTooltip]文化を改革する"
