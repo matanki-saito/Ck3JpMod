@@ -612,7 +612,7 @@
  game_concept_dread:0 "恐怖"
  game_concept_dreadful:0 "恐ろしい"
  game_concept_dreaded:0 "恐ろしい"
- game_concept_dread_desc:4 "$game_concept_dread$は[ruler|E]がどれだけ恐れられているかを示す指標です。\n\n支配者は、[prisoners|E]の拷問や処刑といった残酷で凶悪な行為によって、$game_concept_dread$を増やします。\n\n恐怖は[tyrant|E]としてのプレイを可能にします。言うことを聞かない[vassals|E]は、[intimidated|E]されたり、[cowed|E]になったりして、あなたへの対抗を恐れるからです。\n\n恐怖は、0から100の範囲で遷移します。時間が経つにつれ、[personality_traits|E]によって決められている自然な恐怖の値に近づく傾向があります。\n\n#high 恐怖に満ちた[ruler]は以下の恩恵を受けます: #!\n$BULLET_WITH_TAB$[vassals]は[factions|E]に参加しない\n$BULLET_WITH_TAB$[vassals]は[scheming|E]に参加しない\n$BULLET_WITH_TAB$[vassal]の賛同が増加する #weak (称号を取り消すなど)#!\n$BULLET_WITH_TAB$[offer_vassalization|E]の賛同が増加する\n$BULLET_WITH_TAB$[electors|E]があなたと同じように投票しやすくなる\n$BULLET_WITH_TAB$封臣が[law|E]の変更に反対しにくくなる\n\n#weak 注意: 勇敢で大胆な[vassals]は恐怖の影響を受けにくくなります#!"
+ game_concept_dread_desc:4 "$game_concept_dread$は[ruler|E]がどれだけ恐れられているかを示す指標です。\n\n支配者は、[prisoners|E]の拷問や処刑といった残酷で凶悪な行為によって、$game_concept_dread$を増やします。\n\n恐怖は[tyrant|E]としてのプレイを可能にします。言うことを聞かない[vassals|E]が[intimidated|E]されたり、[cowed|E]になったりして、あなたへの対抗を恐れるからです。\n\n恐怖は、0から100の範囲で遷移します。時間が経つにつれ、[personality_traits|E]によって決められている自然な恐怖の値に近づく傾向があります。\n\n#high 恐怖に満ちた[ruler]は以下の恩恵を受けます: #!\n$BULLET_WITH_TAB$[vassals]は[factions|E]に参加しない\n$BULLET_WITH_TAB$[vassals]は[scheming|E]に参加しない\n$BULLET_WITH_TAB$[vassal]の賛同が増加する #weak (称号を取り消すなど)#!\n$BULLET_WITH_TAB$[offer_vassalization|E]の賛同が増加する\n$BULLET_WITH_TAB$[electors|E]があなたと同じように投票しやすくなる\n$BULLET_WITH_TAB$封臣が[law|E]の変更に反対しにくくなる\n\n#weak 注意: 勇敢で大胆な[vassals]は恐怖の影響を受けにくくなります#!"
  game_concept_truce:0 "停戦"
  game_concept_truces:0 "停戦"
  game_concept_truce_desc:0 "あらゆる[war|E]において、戦後に$game_concept_truce$が結ばれます。これは攻撃側が同じ[ruler|E]に再度宣戦できない期間のことです。（防衛側は停戦に縛られることはありません）\n\n停戦は破棄することも可能ですが、その場合は厳しいペナルティが課せられます。"
