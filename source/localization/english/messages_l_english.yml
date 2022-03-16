@@ -361,6 +361,6 @@
  msg_letter_event_timeout_desc:0 "$EVENT_TIMEOUT_EFFECTS$"
  msg_letter_event_timeout_tt:0 "$EVENT_TIMEOUT_EFFECTS$"
  msg_law_invalidated_no_new_law:0 "Law Removed"
- msg_law_invalidated_no_new_law_desc:0 "[LAW.GetName] is no longer valid and has been removed."
+ msg_law_invalidated_no_new_law_desc:0 "[LAW.GetName]はもはや有効ではなく、削除されました。"
  msg_court_amenity_setting_invalidated:0 "Court Amenity setting invalidated"
  msg_court_amenity_setting_invalidated_desc:0 "Court Amenity setting $INVALID_SETTING$ was invalidated and has been replaced with $DEFAULT_SETTING$."

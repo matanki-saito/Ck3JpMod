@@ -287,7 +287,7 @@
  RULER_DESIGNER_TITLE_NAME_DEFINITE:0 "[RulerDesignerWindow.GetTitleName]"
  RULER_DESIGNER_TITLE_NAME:0 "[SelectLocalization( RulerDesignerWindow.TitleUsesDefiniteForm, 'RULER_DESIGNER_TITLE_NAME_DEFINITE', 'RULER_DESIGNER_TITLE_NAME_TIER' )]"
  CULTURE_RD_TOOLTIP_ETHOS:1 "[ethos|E]: [Culture.GetEthos.GetName]"
- RULER_DESIGNER_HOUSE_MOTTO_TT:0 "#weak 家訓が入力されていない場合は、完了時にランダムに作成されます#!"
+ RULER_DESIGNER_HOUSE_MOTTO_TT:0 "#weak モットーが入力されていない場合は、完了時にランダムに作成されます#!"
  RULER_DESIGNER_CUSTOMIZE_DYNASTY:0 "#T 王朝をカスタマイズ#!"
  RULER_DESIGNER_CUSTOMIZE_TITLE:0 "#T 称号をカスタマイズ#!"
  RULER_DESIGNER_FINISH_CUSTOMIZE_DYNASTY:0 "#T 王朝のカスタマイズを終了#!"

@@ -83,4 +83,4 @@
  game_concept_repair:0 "修理"
  game_concept_repair_artifact_desc:0 "When an [artifact|E] has low [durability|E], you can choose to Repair it.\n\nYou need to have a [GetCourtPositionType('antiquarian_court_position').GetName()] and pay [gold|E] to Repair an Artifact.[SelectLocalization( HasDlcFeature( 'court_artifacts' ), 'game_concept_repair_artifact_desc_DLC', '' )]"
  game_concept_repair_artifact_desc_DLC:0 "\n\nAlternatively, you can choose to [reforge|E] the Artifact."
- game_concept_court_grandeur_expectation: "Court Grandeur Expectation"
+ game_concept_court_grandeur_expectation: "宮廷の威光の期待値"
