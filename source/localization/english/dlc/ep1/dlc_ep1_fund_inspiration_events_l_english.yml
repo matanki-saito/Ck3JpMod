@@ -587,7 +587,7 @@
  fund_inspiration.6101.a:0 "自身の小さな肖像画を中に入れよう。"
  fund_inspiration.6101.b:0 "小さな詩を書いて、中に封印しよう。"
  fund_inspiration.6101.c:0 "むしろ私は自分で持っておきたい。"
- fund_inspiration.6102.desc:0 "私がそろそろ寝ようかと準備をしている時、突然足に焼けるような痛みが走った。\n\n調べてみると、私の足の裏に小さな彫刻が食い込んでいて、そこから足が突き出ている。\n\n[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、一番近い戸口から気弱そうな表情で私を見ている。「申し訳ありません、それはあなたの最新の依頼のための試作品でございます。私が落としたのでしょう。」"
+ fund_inspiration.6102.desc:0 "私がそろそろ寝ようかと準備をしている時、突然足に焼けるような痛みが走った。\n\n調べてみると、私の足の裏に小さな彫刻が食い込んでいて、そこから足が突き出ている。\n\n[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、一番近い戸口から気弱そうな表情で私を見ている。「申し訳ありません、それはあなたの最近の依頼のための試作品でございます。私が落としたのでしょう。」"
  fund_inspiration.6102.a:0 "「それを抜いてさっさと消え失せろ！」"
  fund_inspiration.6102.b:0 "「侍医に診せるべきだな。」"
  fund_inspiration.6102.c:0 "自分でそれを抜いてポケットに入れる。"

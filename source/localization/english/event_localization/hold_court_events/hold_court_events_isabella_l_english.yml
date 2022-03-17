@@ -36,7 +36,7 @@
  hold_court.4100.unimpressed:0 "封臣は無感動だ"
  disabled_fallback:0 "無効"
  hold_court.4200.t:0 "庇護"
- hold_court.4200.desc:0 "我が同盟者であり、かつては強大だった[fleeing_ally.GetTitledFirstName]が、今は汚物と糞尿にまみれ、予告もなく我が玉座の前に到着する。\n\n「あの腹を膨らせたヒキガエル、私のかつての後継者である[usurping_heir.GetTitledFirstName]が、私を領国から追放し、称号を奪ったのです。私は命からがらここに逃れてきました。」\n\n[fleeing_ally.GetSheHe|U]は私の前にひざまずく。「あなたのような恐ろしい方が私に屋根を与えてくれなければ、私はすぐに溝で腐ってしまうでしょう。どうか、あなたに人の心がおありなら、私に庇護をお与えください。」"
+ hold_court.4200.desc:0 "我が同盟者であり、かつては強大だった[fleeing_ally.GetTitledFirstName]が、今は汚物と糞尿にまみれ、予告もなく我が玉座の前に到着する。\n\n「あの腹を膨らませたヒキガエル、私のかつての後継者である[usurping_heir.GetTitledFirstName]が、私を領国から追放し、称号を奪ったのです。私は命からがらここに逃れてきました。」\n\n[fleeing_ally.GetSheHe|U]は私の前にひざまずく。「あなたのような恐ろしい[ROOT.Char.GetWomanMan]が私に屋根を与えてくれなければ、私はすぐに溝で腐ってしまうでしょう。どうか、あなたに人の心がおありなら、私に庇護をお与えください。」"
  hold_court.4200.a:0 "あなたとは友人同士だ、私の酌取りに任命しよう。"
  hold_court.4200.b:0 "あなたは私の玉座の側に居場所を得るだろう…私の足載せ台として！"
  hold_court.4200.c:0 "すぐに[usurping_heir.GetTitledFirstNameNoTooltip]に知らせよう！[usurping_heir.GetSheHe|U]はとても喜ぶはずだ！"
