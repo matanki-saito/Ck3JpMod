@@ -115,7 +115,7 @@
  sway_ongoing.5014.desc_opening:0 "玄関で[target.GetTitledFirstName]を見かけたので、朝の見送りをするのを待っていた。私が近寄ると[target.GetHerHim]の独り言が聞こえる。\n\n"
  sway_ongoing.5014.desc_great:0 "「[ROOT.Char.GetSheHe|U]は偉大で、[target.Custom('ResidenceBuilding')]は新しいようだ…」"
  sway_ongoing.5014.desc_good:0 "「[ROOT.Char.GetSheHe|U]は実にこの場所を修繕してくれた」"
- sway_ongoing.5014.desc_bad:0 "「[ROOT.Char.GetSheHe|U]実にこの場所を滅茶苦茶にした」"
+ sway_ongoing.5014.desc_bad:0 "「[ROOT.Char.GetSheHe|U]は実にこの場所を滅茶苦茶にしてくれた」"
  sway_ongoing.5014.desc_failed_but:0 "しかし"
  sway_ongoing.5014.desc_failed_dot:0 "ー"
  sway_ongoing.5014.desc_failed_three:0 "[ROOT.Char.GetSheHe]は私の書斎や食堂を荒らし、#EMP そして#!私の金を盗もうとした…"

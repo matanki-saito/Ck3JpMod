@@ -441,7 +441,7 @@
  culture_parameter_introverted_trait_bonuses:1 "[GetTrait('chaste').GetName( GetNullCharacter )]、[GetTrait('content').GetName( GetNullCharacter )]、[GetTrait('humble').GetName( GetNullCharacter )]、[GetTrait('shy').GetName( GetNullCharacter )]及び[GetTrait('temperate').GetName( GetNullCharacter )]の[traits|E]はボーナスを与えられます"
  culture_parameter_poorly_educated_leaders_distrusted:0 "[GetTrait('education_stewardship_1').GetName( GetNullCharacter )]や[GetTrait('education_diplomacy_1').GetName( GetNullCharacter )]のような貧弱な[education_traits|E]を持つ[rulers|E]は信用されません"
  culture_parameter_city_buildings_more_powerful:0 "[city_holdings|E]がより多くの[taxes|E]、[development|E]と[levies|E]をもたらします"
- culture_parameter_city_buildings_less_control:0 "[city_holdings|E] significantly lowers [control|E] gain"
+ culture_parameter_city_buildings_less_control:0 "[city_holdings|E]は[control|E]の成長を大幅に下げます"
  culture_parameter_peasant_and_populist_factions_less_common:0 "異なる[culture|E]の[peasant_factions|E]と[popular_factions|E]はあまり一般的ではありません"
  culture_parameter_unlock_garuda_warrior_title:0 "Can appoint [knights|E] to the Garuda Warrior [court_position|E], increasing their [prowess|E] as well as the likeliness that they will die in battle"
  culture_parameter_can_travel_along_rivers:0 "$unlocks_sailable_major_rivers$"

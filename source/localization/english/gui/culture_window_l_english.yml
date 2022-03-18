@@ -175,7 +175,7 @@
  REFORMATION_REPLACE_TRADITION_PROGRESS_MULT:0 "Replacing an existing [tradition|E]"
  REFORMATION_PROGRESS_BREAKDOWN:0 "#S 月間進捗#![Culture.GetReformation.GetProgressBreakdown]"
  REFORMATION_TRADITION_REPLACEMENT_LABEL:0 "Replacing with [CultureReformation.GetNewTradition.GetNameNoTooltip()]"
- REFORMATION_NEW_TRADITION_INFO:0 "To be established in [CultureReformation.GetTimeLeft]"
+ REFORMATION_NEW_TRADITION_INFO:0 "[CultureReformation.GetTimeLeft]で確立されます"
  REFORMATION_CONFIRM_CANCEL_TITLE:0 "改革を中止する"
  REFORMATION_CONFIRM_CANCEL_BODY:0 "Do you want to cancel the current reformation?"
  REFORMATION_CONFIRM_CANCEL_ACCEPT:0 "承諾"
