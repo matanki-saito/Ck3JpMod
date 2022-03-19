@@ -18,7 +18,7 @@
  hunt.1003.b.tt:0 "待ってくれ!"
  hunt.1011.t:1 "$hunt_header$ 無礼な家臣"
  hunt.1011.desc_horse:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('nice_courtier') )] [nice_courtier.GetTitledFirstName]が下馬し始めた途端であった。片足がまだ鐙にかかったままであったのに、あろうことか[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('hated_participant'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_participant') )] [hated_participant.GetTitledFirstName]は馬をドンとぶつけたではないか。[nice_courtier.GetTitledFirstName]はよろめきながら、野営地の向こう側へと去っていった。"
- hunt.1011.desc_talk:0 "「[nice_courtier.Custom('InsultAdjective')]の[nice_courtier.Custom('InsultNoun')][nice_courtier.GetFirstNameNoTooltip]を見てみな！」狩猟用の馬から[hated_participant.GetTitledFirstName]が野次っている。\n\n[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('nice_courtier') )][nice_courtier.GetTitledFirstName]はその侮辱に耐えられないようだ。"
+ hunt.1011.desc_talk:0 "「[nice_courtier.Custom('InsultAdjective')][nice_courtier.Custom('InsultNoun')][nice_courtier.GetFirstNameNoTooltip]を見てみな！」狩猟用の馬から[hated_participant.GetTitledFirstName]が野次っている。\n\n[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('nice_courtier') )][nice_courtier.GetTitledFirstName]はその侮辱に耐えられないようだ。"
  hunt.1011.a:1 "子供みたいなことをしてるといつか報いを受けるぞ。"
  hunt.1011.b:0 "[hated_participant.GetTitleTierName]の行いはどうしようもない。"
  hunt.1011.c:0 "フッ、[nice_courtier.GetFirstNameNoTooltip]はビートの様に真っ赤だったな！"

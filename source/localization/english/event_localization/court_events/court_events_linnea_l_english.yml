@@ -66,7 +66,7 @@
  court.5050.c:0 "こんな感じに笑い者となるつもりなら、雇ってやっても良いぞ！"
  court.5055.t:0 "色彩豊かな才能"
  court.5055.desc:0 "私は[painter.Custom2('MyCharacterIntroduction', ROOT.Char)]が床に座り、こぼれた絵の具とキャンバスの破片に囲まれているのを見つける、今月で三回目だ。\n\n廷臣たちは[painter.GetHerHim]が芸術的な天才であると囁いているが、しかし、使用人たちは、[painter.GetHerHis]の#EMP ひらめき#!をきっかけとした、床の絵の具を擦り落とすことに文句を言っている。"
- court.5055.a:0 "これは止める必要があるぞ、[painter.GetFirstNameNoTooltip]。"
+ court.5055.a:0 "これはやめねばならんぞ、[painter.GetFirstNameNoTooltip]よ。"
  court.5055.b:0 "[painter.GetHerHis|U]の天才的才能は育まれるだろう！"
  court.5055.b_tt:0 "[painter.GetFirstNameNoTooltip]は、[painter.GetHerHis]の芸術的探求を続けます。"
  court.5056.desc_opening:1 "[painter.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は年々、その筆と共に才能を開花させている。[painter.GetHerHis]の、他の分野への興味と能力も同様もまた同様だ。\n\n"

@@ -212,4 +212,4 @@
  learn_court_language_interaction_notification:0 "宮廷言語を学ぶ"
  learn_language_invalidated_already_know_court_language_desc:0 "あなたはすでにこの[court_language|E]を知っています"
  learn_language_desc_general_shared:0 "この計画は、主にあなた自身の[learning|E]に依存しています。\n\n[success_chance|E]は多くのものに影響されますが、主にあなたの[learning_skill|E]、あなたの[court_chaplain|E]、共通した[heritage|E]を持っているかどうか、および既に知っている言語の数によって影響を受けます。若い[characters|E]はより簡単に新しい言語を学ぶことができます。"
- CAN_NOT_FABRICATE_HOOKS_ON_WANDERERS:0 "Hooks cannot be fabricated on Wandering characters"
+ CAN_NOT_FABRICATE_HOOKS_ON_WANDERERS:0 "さまよう人物にフックを作成することはできません"
