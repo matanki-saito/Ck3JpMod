@@ -241,7 +241,7 @@
  artifact_pedestal_rock_description:0 "空から降ってきたという言い伝えのある珍しい岩で、[owner.GetCulture.GetNameNoTooltip]では神聖視されている。"
  artifact_pedestal_pouch_name:0 "$artifact_name_prefix$のポーチ"
  artifact_pedestal_pouch_description:0 "宝石や遺物、小さな宝物を入れるのに最適な、豪華な装飾が施されたポーチ。"
- artifact_pedestal_scroll_name:0 "$artifact_name_prefix$ Laws"
+ artifact_pedestal_scroll_name:0 "$artifact_name_prefix$法典"
  artifact_pedestal_scroll_description:0 "A formal-looking scroll containing the fundamental laws of the [owner.GetPrimaryTitle.GetNameNoTooltip] set by [owner.GetTitledFirstNameNoTooltip]."
  artifact_pedestal_religious_head_letter_name:0 "[compliment_receiver.GetTitledFirstNameNoTooltip]からの手紙"
  artifact_pedestal_religious_head_letter_description:0 "こう書かれている: 「$learning_theology.3022.desc$」\n\n手紙は[letter_receiver.GetTitledFirstName]に捧げられ、[compliment_receiver.GetTitledFirstName]の署名がある。"
