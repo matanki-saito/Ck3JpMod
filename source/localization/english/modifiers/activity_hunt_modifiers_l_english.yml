@@ -48,5 +48,5 @@
  hunt_chose_truth_modifier_desc:0 "この人物は自身を犠牲にして真実を語っている"
  hunt_mystical_animal_modifier:0 "神獣を仕留める"
  hunt_mystical_animal_modifier_desc:0 "この人物は、神秘的な白い動物を狩り、殺した"
- hunt_protected_their_secret_modifier:0 "Protective of Secrets"
- hunt_protected_their_secret_modifier_desc:0 "This character is keeping their cards close to their chest"
+ hunt_protected_their_secret_modifier:0 "秘密の保護"
+ hunt_protected_their_secret_modifier_desc:0 "この人物は、自分の手の内を隠している。"

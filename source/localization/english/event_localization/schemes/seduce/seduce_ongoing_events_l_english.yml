@@ -278,7 +278,7 @@
  seduce_ongoing.4001.a:0 "それは[target.GetLadyLord]への大胆な告白となるだろう！"
  seduce_ongoing.4001.b:0 "[target.GetHerHim]への私の欲望をヴェールに包んだ暗示の方が好みだ。"
  seduce_ongoing.4001.b.failure:0 "献呈は気づかれない"
- seduce_ongoing.4001.c:1 "The people at [court_location.GetNameNoTierNoTooltip] will bask in my glory!"
+ seduce_ongoing.4001.c:1 "[court_location.GetNameNoTierNoTooltip]の人々は我が栄光に浴するだろう！"
  seduce_ongoing.4002.desc:1 "\n\n[ROOT.Char.Custom('MusicalPerformer')]がまた新たな詩節を始めるとき、宮廷全体の前で私に向けての献呈に喜ぶ素振りを見せないようにしている。"
  seduce_ongoing.4002.a:0 "[owner.GetTitledFirstNameNoTooltip]は本当に最高だった！"
  seduce_ongoing.4003.desc:1 "\n\n[ROOT.Char.Custom('MusicalPerformer')]がまだ新しい詩節を始めると、私はきまり悪げに大広間から歩み出る。一曲一曲が[owner.GetTitledFirstName]から私に捧げられたものなのだ！"

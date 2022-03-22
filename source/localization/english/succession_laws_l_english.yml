@@ -55,7 +55,7 @@
  feudal_elective_succession_law:0 "封建選挙制"
  princely_elective_succession_law:0 "選挙王制"
  feudal_elective_succession_law_effects:1 "[ruler|E]の[close_family|E]及び直臣の中から[title_heir|E]を選挙で指名できます。選挙権は統治者だけでなく、その[title|E]に属する[de_jure|E]の[vassals|E]も持っています。但し選挙に参加できる封臣は、[ranks|E]が主君の称号から2つ下までの直臣のみです。"
- princely_elective_succession_law_effects:1 "皇帝と七人の選帝侯は、自分たちの中から[title_heir|E]を指名することができ、[ruler|E]の[legitimate|E]な子供や兄弟姉妹、および帝国の他の主要な[de_jure|E]の[vassal|E]を指名することができる。歴史的な選挙人の[title|E]が異教徒によって保持されているか、または存在しない場合は、別の[de_jure|E]の封臣が代わりを務めることになる。この[succession_law|E]は、[faith|E]と[piety|E]を重要視している。\n\nこの王国の選挙権を有するのは、ケルン、マインツ、トリーアの伯爵領と、ボヘミア、東フランケン、オストファーレン、オストマルクの公爵領である。"
+ princely_elective_succession_law_effects:1 "皇帝と七人の選帝侯は、自分たちの中から[title_heir|E]を指名することができ、[ruler|E]の[legitimate|E]な子供や兄弟姉妹、および帝国の他の主要な[de_jure|E]の[vassal|E]を指名することができる。歴史的な選挙人の[title|E]が異教徒によって保持されているか、または存在しない場合は、別の[de_jure|E]の封臣が代わりを務めることになる。この[succession_law|E]は、[faith|E]と[piety|E]を重要視している。\n\nこの王国の選挙権を有するのは、ケルン、マインツ、トリーアの伯爵領と、ボヘミア、東フランケン、オストファーレン、ノルトマルクの公爵領である。"
  gaelic_elective_succession_law:0 "タニストリー選挙制"
  gaelic_elective_succession_law_effects:2 "[ruler|E]と特定の[vassals|E]は、統治者の[dynasty|E]の中から[title_heir|E]（タニスト）を指名できます。封臣は[close_family|E]よりも年長で遠縁の者を好む傾向にあります。統治者、および選挙対象の[title|E]から2つ下でかつ[baron|E][rank|E]以上の封臣だけが、選挙への参加を許されます。"
  saxon_elective_succession_law:1 "サクソン選挙制"

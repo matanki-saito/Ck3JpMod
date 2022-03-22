@@ -4,5 +4,5 @@
  DEATH_DATE:0 "死亡日"
  DEATH_REASON:0 "死因"
  ARTIFACT_KILL_LIST:0 "[ArtifactKillListWindow.GetArtifact.GetName|U] Kills"
- OPEN_ARTIFACT_KILL_LIST_TOOLTIP:0 "#T View Kills\n#!View all Characters that [Artifact.GetName] has killed"
+ OPEN_ARTIFACT_KILL_LIST_TOOLTIP:0 "#T 殺害者一覧を開く\n#![Artifact.GetName]が殺した全ての人物を表示します"
  ARTIFACT_FORGOTTEN_SOLDIER_KILLS:0 "#S 忘れられた兵士たち#!: [Artifact.GetForgottenSoldiersCount|V]"

@@ -34,7 +34,7 @@
  ACHIEVEMENT_DESC_rise_of_the_ghurids_achievement:0 "867年か1066年のゴール公爵でスタートし、[GetGeographicalRegion('dlc_ep1_achievement_rise_of_the_ghurids').GetName]の[region|E]を征服する"
  ACHIEVEMENT_DESC_brave_and_bold_achievement:1 "867年にピャスト家としてスタートし、ポーランドを統治して封建制を採用し、希少度が名高いまたは有名なレガリア、冠、武器、鎧を所有する"
  ACHIEVEMENT_DESC_lingua_franca_achievement:1 "全世界のすべての[royal_courts|E]で自身の[court_language|E]が話されるようにする。$rd_character_blocked_from_achievement$"
- ACHIEVEMENT_DESC_beta_israel_achievement:2 "As a Jewish King in East Africa, diverge your [culture|E]. $rd_character_blocked_from_achievement$"
+ ACHIEVEMENT_DESC_beta_israel_achievement:2 "東アフリカのユダヤの王として、[culture|E]を分岐させる。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_they_belong_in_a_museum_achievement:0 "冒険の[inspiration|E]を完了させた[character|E]を$antiquarian_court_position$に任命する"
  ACHIEVEMENT_DESC_i_made_this_achievement:0 "あなたが[artifact_claim|E]を持たない[artifact|E]を略奪し、[heir|E]に継承させる"
  ACHIEVEMENT_DESC_nobody_comes_to_fika_achievement:1 "With the County of Fika as your [primary_title|E], diverge your [culture|E] and spread it to 30 [counties|E] held by you or your [vassals|E]"

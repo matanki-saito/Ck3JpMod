@@ -39,7 +39,7 @@
  court_diplomatic_acceptance_bonus_desc:1 "Increased #V $offer_vassalization_interaction$#! Acceptance scaled by [grandeur|E]"
  accept_culture_task_more_effective_desc:0 "[accept_culture|E]の効果: #P +[EmptyScope.ScriptValue('court_administrative_steward_task_bonus')|0]%#!"
  support_schemes_task_more_effective_desc:0 "$task_support_schemes$の効果: #P +[EmptyScope.ScriptValue('court_intrigue_spymaster_task_bonus')|0]%#!"
- court_intrigue_agent_acceptance_desc:0 "Increased [agent|E] Acceptance for [hostile_schemes|E]"
+ court_intrigue_agent_acceptance_desc:0 "[hostile_schemes|E]への[agent|E]の受け入れを増加"
  scholarly_inspiration_discount_desc:0 "[inspiration|E]コスト: #P -[EmptyScope.ScriptValue('court_scholarly_inspiration_discount')|0]%#!"
  scholarly_inspiration_frequency_desc:0 "[inspired|E]を得た[characters|E]がより頻繁に[court|E]へ訪れるでしょう"
  court_tribal: "部族制の宮廷"

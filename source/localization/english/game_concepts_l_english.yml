@@ -630,7 +630,7 @@
  game_concept_tribal_desc:0 "部族の領国では、伯爵領の[development|E]の成長は阻害され、部族の時代の[innovations|E]は越えられず、新しい[holdings|E]の建設もできず、[succession_law|E]の変更も普通はできません。\n\nしかし、[gold|E]ではなく[prestige|E]を使うことで、領国に建設したり、[men_at_arms|E]を雇ったり、[feudal|E]の領国より多くの[casus_belli|E]を得られたりします。また、非部族制の軍は、敵対する部族の領域において[supply_limit|E]のペナルティを受けます。"
  game_concept_clan:0 "氏族"
  game_concept_clan_government:0 "氏族政治"
- game_concept_clan_desc:0 "氏族とは[government_form|E]の一種であり、[vassals|E]が[liege|E]に納める[taxes|E]や[levies|E]の量は彼らの主君に対する[opinion|E]に基づきます。但し、主君の[crown_authority|E]は評価に関わらず供給すべき最低量を増加させることが出来ます。"
+ game_concept_clan_desc:0 "氏族とは[government_form|E]の一種であり、[vassals|E]が[liege|E]に納める[taxes|E]や[levies|E]の量はその主君への[opinion|E]に基づきます。但し、主君の[crown_authority|E]の拡大に伴って評価と無関係に納めるべき最低量が増加していきます。"
  game_concept_theocracy:0 "神権制"
  game_concept_theocracies:0 "神政領"
  game_concept_theocratic:0 "神権制"
