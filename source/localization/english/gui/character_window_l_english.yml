@@ -88,7 +88,7 @@
  HEALTH_EXCELLENT_DESC:0 "[CHARACTER.GetShortUIName|U]は気力活力に満ちている！"
  HEALTH_EXCELLENT_DESC_ME:1 "あなたは気力活力に満ちている！"
  HEALTH_SOURCES:0 "原因:"
- HEALTH_NEGATION_CAUSE:0 "#P +$CAUSE$#! #weak (ペナルティを軽減するだけ)#!"
+ HEALTH_NEGATION_CAUSE:0 "#P +$CAUSE$#! #weak (ペナ軽減のみ)#!"
  HEALTH_POSITIVE_CAUSE:0 "#P +$CAUSE$#!"
  HEALTH_NEGATIVE_CAUSE:0 "#N -$CAUSE$#!"
  CV_ALLOW_MARRY_TT:0 "#T 婚姻を許可する#!\n#D 許されていない#!"

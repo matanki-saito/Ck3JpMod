@@ -7,7 +7,7 @@
  learn_language_outcome.1000.b.failure:3 "私の[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]の手紙は不誠実な真似ごととして伝わる"
  target_responds:0 "[target.GetTitledFirstName]はあなたの手紙に返事をする"
  learn_language_outcome.1001.opening:0 "[owner.Custom2('AppropriateGreeting', target)]"
- learn_language_outcome.1001.desc:5 "I have studied the [target.GetCulture.GetLanguage.GetName] language for many moons. I personally penned this missive using the [target.GetCulture.GetLanguage.GetNameNoTooltip] script — a letter of friendship from a speaker of [owner.GetCulture.GetLanguage.GetName]!\n\nI wish for our future diplomatic dealings to benefit us both greatly!"
+ learn_language_outcome.1001.desc:5 "幾夜もかけて[target.GetCulture.GetLanguage.GetName]の言語を勉強してきました。自ら筆をとり、[target.GetCulture.GetLanguage.GetNameNoTooltip]の文字も使いました――[owner.GetCulture.GetLanguage.GetName]話者からの友好の手紙です！\n\n願わくば、我々の外交関係に更なる共栄を！"
  learn_language_outcome.1001.a:4 "[owner.GetSheHe|U]が[target.GetCulture.GetLanguage.GetNameNoTooltip]を習得だって？感動した、宜しく伝えてくれ！"
  learn_language_outcome.1001.b:0 "フン！見栄を張りたい[owner.GetHerHis|U]の無駄な試みは笑いものだ！"
  learn_language_outcome.2000.t:1 "$learn_language$: 失敗"

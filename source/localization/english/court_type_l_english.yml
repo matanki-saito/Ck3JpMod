@@ -36,7 +36,7 @@
  COUNCILLOR_LIEGE_HAS_COURT_TYPE_BONUS:0 "$court_administrative$"
  DIPLOMATIC_COURT_ACCEPTANCE_INCREASE_REASON:0 "[recipient.GetShortUIName|U]はあなたの$court_diplomatic$の[court_grandeur|E]に感銘を受ける: $VALUE|+=0$"
  INTRIGUE_COURT_AGENT_ACCEPTANCE_REASON:0 "あなたの$court_intrigue$は説得力がある: $VALUE|+=0$"
- court_diplomatic_acceptance_bonus_desc:1 "Increased #V $offer_vassalization_interaction$#! Acceptance scaled by [grandeur|E]"
+ court_diplomatic_acceptance_bonus_desc:1 "[grandeur|E]に伴って#V $offer_vassalization_interaction$#!が受け入れやすくなる"
  accept_culture_task_more_effective_desc:0 "[accept_culture|E]の効果: #P +[EmptyScope.ScriptValue('court_administrative_steward_task_bonus')|0]%#!"
  support_schemes_task_more_effective_desc:0 "$task_support_schemes$の効果: #P +[EmptyScope.ScriptValue('court_intrigue_spymaster_task_bonus')|0]%#!"
  court_intrigue_agent_acceptance_desc:0 "[hostile_schemes|E]への[agent|E]の受け入れを増加"
