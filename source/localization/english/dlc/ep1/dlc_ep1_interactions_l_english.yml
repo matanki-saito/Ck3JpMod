@@ -8,4 +8,4 @@
  indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName]は圧力を受けずに逃げます"
  INDEBT_GUEST_INTRIGUE_ACTOR:0 "[actor.GetShortUINamePossessive|U]の[intrigue|E]: $VALUE|=+0$"
  INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[recipient.GetShortUINamePossessive|U][intrigue|E]: $VALUE|=+0$"
- INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "[recipient.GetShortUINamePossessive|U] excess [court_grandeur|E]: $VALUE|=+0$"
+ INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "[recipient.GetShortUINamePossessive|U]の超過した[court_grandeur|E]: $VALUE|=+0$"
