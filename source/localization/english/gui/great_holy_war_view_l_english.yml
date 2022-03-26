@@ -32,7 +32,7 @@
  GHW_CHANGE_BENEFICIARY:2 "[Select_CString( GetPlayer.GetBeneficiary.IsValid, '置き換え', '任命' )]"
  GHW_MY_BENEFICIARY:0 "私の[beneficiary|E]"
  GHW_MY_CONTRIBUTION:0 "私の[contribution|E]"
- GHW_TOGGLE_BENEFICIARY:1 "慕われている候補者よりも優先する"
+ GHW_TOGGLE_BENEFICIARY:1 "支持された称号候補者よりも優先する"
  GHW_MAX_WARCHEST:0 "最大！"
  GHW_WARCHEST_SHARE:0 "[war_chest|E]の取り分"
  GHW_SCORE:0 "スコア"
