@@ -2,7 +2,7 @@
  ep1_character_interaction.0001.t:0 "適正な補償"
  ep1_character_interaction.0001.desc.intro:0 "[recipient.GetFirstName]は非常に#EMP 恐ろしい#!顔をしているように見える。というのも、使用人たちが[recipient.GetHerHim]を告発するために次々と呼び出されて、それぞれが[recipient.GetSheHe]が"
  ep1_character_interaction.0001.desc.lustful:0 "宮廷の高価な寝具の大半を取り返しがつかないほどに汚してしまい、"
- ep1_character_interaction.0001.desc.chaste:0 "continually moves or obscures any art [recipient.GetSheHe] considers distasteful, forcing them to spend hours a day righting things and"
+ ep1_character_interaction.0001.desc.chaste:0 "[recipient.GetSheHe]が不快に感じる芸術を絶えず移動させたり、隠したりして、一日に何時間も修正することを強要しており、"
  ep1_character_interaction.0001.desc.gluttonous:0 "他の宮廷の残りを合わせたよりも多くの量を一人で食べ、"
  ep1_character_interaction.0001.desc.temperate:0 "夕食のたびに人を見下し、我々の最高の料理人三人を追い出し、"
  ep1_character_interaction.0001.desc.greedy:0 "我々の最も高価な装飾品から貴金属を切り取っているところを目撃され、"
