@@ -76,7 +76,7 @@
  hold_court.6070.d:0 "申し訳ないが、今はこの責任を引き受けることはできない。"
  hold_court.6070.e:1 "あの子は悪名高い脅威だ——まさか[6070_child.GetHerHim]を私に押し付けてきたのか!"
  hold_court.6080.t:0 "[6080_culture.GetNameNoTooltip|U]の植民"
- hold_court.6080.desc:0 "「我が[ROOT.Char.GetLadyLord]、私は[6080_county.GetNameNoTooltip]の[6080_culture.GetNameNoTooltip]の人々を代表して参りました。」[6080_count.Custom2('MyCharacterIntroduction', ROOT.Char)]は言う。\n\n「我々は献身的で忠実な臣民ですが、我々の土地は貧しく、開発されておらず、人口も少ないのです。どうか、再入植し、我々の伝統に従って管理することをお許しください！」\n\n「あなたの慈悲深い保護のもとで我らの土地はまだ繁栄することができます、そしてあなたは新しい忠実な家臣を得るでしょう！」"
+ hold_court.6080.desc:0 "「我が[ROOT.Char.GetLadyLord]、私は[6080_county.GetNameNoTooltip]の[6080_culture.GetNameNoTooltip]の人々を代表して参りました。」[6080_count.Custom2('MyCharacterIntroduction', ROOT.Char)]は言う。\n\n「我々は献身的で忠実な臣民ですが、土地は貧しく、開発されておらず、人口も少ないのです。どうか、再入植と我々の伝統に従った管理をお許しください！」\n\n「慈悲深い保護のもとで我らの土地はまだ繁栄できます、そしてあなたは新しい忠実な家臣を得るのです！」"
  hold_court.6080.a:0 "結構だ。あなたの人々は私のために[6080_county.GetNameNoTooltip]に入植することができる。"
  hold_court.6080.a.tt:0 "あなたは[6080_count.GetFirstNamePossessiveNoTooltip]が死ぬまでこの称号を剥奪することはできません。"
  hold_court.6080.b:0 "私は[6080_county.GetNameNoTooltip]にとって何が最良か知っている。"

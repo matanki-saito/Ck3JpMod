@@ -112,7 +112,7 @@
  fund_inspiration.0061.table:0 "おしゃれで、しかも丈夫なテーブルが欲しい！"
  fund_inspiration.0061.throne:0 "私のホールにふさわしい壮大な玉座を作ろう！"
  fund_inspiration.0062.t:0 "職人のひらめきへの出資"
- fund_inspiration.0071.desc:0 "「私の試みに対して出資いただき、ありがとうございます、我が[ROOT.Char.GetLadyLord]！」\n\n[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は平静を保とうとしているが、[inspiration_owner.GetHerHis]の目には興奮が見てとれ、[inspiration_owner.GetSheHe]は続ける。「私は金属を#EMP 素晴らしいもの#!へと加工することができます。あるいは何かご希望がおありでしょうか？」"
+ fund_inspiration.0071.desc:0 "「私の試みに対して出資いただき、ありがとうございます、我が[ROOT.Char.GetLadyLord]！」\n\n[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は平静を保とうとしているが、[inspiration_owner.GetHerHis]の目には興奮が見てとれ、[inspiration_owner.GetSheHe]は続ける。「私は金属を#EMP 素晴らしいもの#!へと加工できます。あるいは何かご希望がおありでしょうか？」"
  fund_inspiration.0071.brooch:0 "美しいブローチが欲しい！"
  fund_inspiration.0071.regalia:0 "私の名声にふさわしいレガリアを作ってくれ。"
  fund_inspiration.0071.crown:0 "私の頭に載せるのにふさわしい堂々たる王冠だ！"

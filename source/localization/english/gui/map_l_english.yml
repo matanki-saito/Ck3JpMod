@@ -85,7 +85,7 @@
  faiths_MAP_MODE_TOOLTIP_CLICK_TO_SELECT:0 "\n#I クリックで[PROVINCE.GetCounty.GetFaith.GetNameNoTooltip]を選択#!"
  ADDITIONAL_MAPMODES:0 "追補マップ一覧"
  ZOOM_LEVEL_PAPER_MAP:0 "羊皮紙マップ"
- ZOOM_LEVEL_PAPER_MAP_TOOLTIP:0 "$ZOOM_LEVEL_PAPER_MAP$では世界に存在する全独立[realms|E]を概観することができます。\n\n#TUT このマップモードでは、マップをクリックすると[realms|E]が選択されます。#!"
+ ZOOM_LEVEL_PAPER_MAP_TOOLTIP:0 "$ZOOM_LEVEL_PAPER_MAP$では世界に存在する全独立[realms|E]を概観できます。\n\n#TUT このマップモードでは、マップをクリックすると[realms|E]が選択されます。#!"
  ZOOM_LEVEL_POLITICAL:0 "政治マップ"
  ZOOM_LEVEL_POLITICAL_TOOLTIP:0 "$ZOOM_LEVEL_POLITICAL$ではある地域における[rulers|E]を広く概観することができ、[wars|E]の計画や、[vassals|E]の管理、[realms|E]を探索することなどに適しています。\n\n#TUT このマップモードでは、マップをクリックすると[realms|E]が選択されます。#!"
  ZOOM_LEVEL_DETAILS:0 "詳細マップ"

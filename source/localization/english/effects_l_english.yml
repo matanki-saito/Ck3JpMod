@@ -1508,7 +1508,7 @@
  REFUND_PERKS_PAST_EFFECT:0 "すべてのパークが払い戻されました"
  REMOVE_SPECIAL_CHARACTER_EFFECT:0 "[TARGET_CHARACTER.GetShortUINamePossessive]は特別な人物から削除されます"
  REMOVE_SPECIAL_CHARACTER_PAST_EFFECT:0 "[TARGET_CHARACTER.GetShortUINamePossessive]は特別な人物から削除されました"
- ALLOW_IN_SCHEME_PAST_EFFECT:0 "[SCHEME.GetName]にスパイとして参加することができます"
+ ALLOW_IN_SCHEME_PAST_EFFECT:0 "[SCHEME.GetName]にスパイとして参加できます"
  ADD_PERK_EFFECT:1 "[PERK.GetName( CHARACTER.Self )]のパークを得ます"
  ADD_PERK_PAST_EFFECT:1 "[PERK.GetName( CHARACTER.Self )]のパークを得ました"
  SET_GENERATED_ASEXUALITY_CHANCE_EFFECT:0 "生成された人物が[asexual|E]となる可能性が#V $VALUE$%#!となります"

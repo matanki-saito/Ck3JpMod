@@ -196,7 +196,7 @@
  hire_physician_decision:0 "侍医の捜索"
  hire_physician_decision_tooltip:3 "あなたの使用人は、[GetCourtPositionType('court_physician_court_position').GetName()]の地位に適した何人かの候補者を提案してくるでしょう"
  hire_physician_decision_desc:1 "我が宮廷で病人や負傷者の世話をするためには、侍医が欠かせない。私は使用人たちに適当な候補者を何人か連れてくるように頼もう。"
- hire_physician_decision_effect_tooltip:4 "[GetCourtPositionType('court_physician_court_position').GetName()]の候補者グループが提示され、あなたはその中の一人を手数料と[gold_i][SCOPE.ScriptValue('court_position_physician_salary')]の月給で雇用することができます"
+ hire_physician_decision_effect_tooltip:4 "[GetCourtPositionType('court_physician_court_position').GetName()]の候補者グループが提示され、あなたはその中の一人を手数料と[gold_i][SCOPE.ScriptValue('court_position_physician_salary')]の月給で雇用できます"
  hire_physician_decision_confirm:0 "捜索を開始"
  antiquarian_employer_custom_effect_description:0 "あなたは[artifacts|E]の$repair_or_reforge_and_repair$が可能になります\n#V $commission_artifact_decision$#!の[decision|E]をアンロック\n[sieges|E]や[raids|E]から[artifacts|E]を守ります"
  chief_eunuch_court_position:1 "宦官長"

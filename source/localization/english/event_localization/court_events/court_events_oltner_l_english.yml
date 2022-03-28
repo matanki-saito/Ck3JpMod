@@ -77,7 +77,7 @@
  court_maintenance.0011.a:0 "彼らの新しい[ROOT.Char.GetTitleTierName]に会わせてやろう!"
  court_maintenance.0011.a.tooltip:0 "あなたは宮廷に入ります"
  court_maintenance.0011.b:0 "他に注意することがある。"
- court_maintenance.0011.b.tooltip:0 "宮廷に行くのを後にすることができます"
+ court_maintenance.0011.b.tooltip:0 "宮廷に行くのを後まわしにできます"
  court_maintenance.0011.banner_tooltip:1 "[messenger.GetName]は、あなたの家と王朝の二つの新しい旗をくれます。"
  court_maintenance.0011.banner_house_tooltip:0 "[messenger.GetName]はあなたの家の紋章が入った新しい旗をくれます"
  court_maintenance.0011.banner_dynasty_tooltip:0 "[messenger.GetName]はあなたの王朝の紋章が入った新しい旗をくれます"

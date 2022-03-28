@@ -35,7 +35,7 @@
  artifact.1001.desc.kills_tons:0 "[this_artifact.GetDesc]\n\nもはや戦いの役には立たないが、この武器が主張する[ROOT.Var('num_kills').GetValue|V0]人の命は、それを見つめるすべての人に畏怖と恐怖を与え、武勇の伝説的象徴にしている。"
  artifact.3000.t:0 "劣化した宝物: 再利用"
  artifact.3000.desc.antiquarian_intro:0 "私の$antiquarian_court_position$[antiquarian.GetTitledFirstName]は不安そうな表情を浮かべて私に近づいてくる。\n\n「我が[ROOT.GetCharacter.GetLadyLord]、あなたの[this_artifact.GetName]の状態が完全に荒廃してしまったことに、私はますます憂慮しています。バラバラになってしまっているのです！」"
- artifact.3000.desc.antiquarian:0 "\n\n「今となっては修復しても遅いかもしれませんが、すべてが失われたわけではありません。もし許していただければ、私はそれを有用な部品に分解して、将来の宝物に使用することができます！」"
+ artifact.3000.desc.antiquarian:0 "\n\n「今となっては修復しても遅いかもしれませんが、すべてが失われたわけではありません。もし許していただければ、有用な部品に分解し、将来の宝物へと活用できます！」"
  artifact.3000.desc.servant_intro:1 "一人の使用人が後ろめたい表情で私に近づいてきて、[dummy_servant_gender.GetHerHis]は後ろに何かを隠している。\n\n「我が[ROOT.GetCharacter.GetLadyLord]、いつものように宝物のコレクションを掃除していたら、あなたの[this_artifact.GetName]が全く使い物にならない状態になっていることに気づきました。"
  artifact.3000.desc.servant:0 "「宮廷の専門家でなければ、かつての栄光を取り戻すことはできないかもしれませんが、我々は新しい宝物に再利用するために、破片を取っておいた方が良いのではないでしょうか…」"
  artifact.3000.a:0 "辛いところではあるが、進めてくれ。"

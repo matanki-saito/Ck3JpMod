@@ -35,7 +35,7 @@
  REFUND_PERKS_CONFIRM_TITLE:0 "パークをリセット"
  REFUND_PERKS_CONFIRM_DESC:1 "$EFFECTS$\n#weak これは一生に一度だけ行うことができます#!"
  REFUND_PERKS_CONFIRM_ACCEPT:0 "リセット"
- REFUND_PERKS_TOOLTIP:0 "#T パークをリセット#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak 一生に一度だけパークをリセットすることができます！#!\n#I クリックしてリセット#!"
+ REFUND_PERKS_TOOLTIP:0 "#T パークをリセット#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak 一生に一度だけパークをリセットできます！#!\n#I クリックしてリセット#!"
  PLAYER_LIFESTYLE_TOOLTIP:1 "[GetLifestyleTooltipForCharacter( GetPlayer )]\n[GetLifestyleTooltipWarnings( GetPlayer )]\n\n#I クリックで[lifestyle|E]を表示#!"
  PLAYER_EDUCATION_FOCUS_TOOLTIP:1 "[GetLifestyleTooltipForCharacter( GetPlayer )]\n\n#I クリックで[education_focus|E]を表示#!"
  PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING:0 "@warning_icon!#X [lifestyle|E]を選択していません#!"

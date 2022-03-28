@@ -49,7 +49,7 @@
  councillor_spouse_learning.2301.c:0 "これは私が聖なるコミュニティに戻って歓迎されるチャンスだ！"
  councillor_spouse_learning.2301.d:0 "[religious_head.GetHerHim]に知らしめよう——我々がしていることはすべて[councillor.GetFaith.HighGodName]のためであると。"
  councillor_spouse_learning.2602.t:1 "配偶者: 視野を広げるとき"
- councillor_spouse_learning.2602.not_root.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('student'))][student.GetTitledFirstName]は確かに[student.Custom('highest_skill_noun')]について知っているが、[councillor.GetTitledFirstName]は[student.GetHerHim]が[student.GetHerHis]の視野を広げる時が来たと考えている。\n\n「私は新しい教材を手に入れて課題を準備し、[student.GetHerHim]の家庭教師をすることができます。どの科目が[student.GetFirstNameNoTooltip]にとって最も有益だと思いますか？」"
+ councillor_spouse_learning.2602.not_root.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('student'))][student.GetTitledFirstName]は確かに[student.Custom('highest_skill_noun')]について知っているが、[councillor.GetTitledFirstName]は[student.GetHerHim]が[student.GetHerHis]の視野を広げる時が来たと考えている。\n\n「私なら、新しい教材を手に入れ、課題を準備し、ささやかながら[student.GetHerHim]の家庭教師を務められるのですが。どの科目が[student.GetFirstNameNoTooltip]にとって最も有益だと思いますか？」"
  councillor_spouse_learning.2602.root.desc:0 "「あなたは[student.Custom('highest_skill_noun')]について多少の理解がありますが、[student.GetPrimaryTitle.GetNameNoTierNoTooltip]の[student.GetTitleTierName]は幅広い能力を持っているべきです。」我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))]はそう言うと、[ROOT.Char.Custom2('QuirkPPPosOrNeg', SCOPE.sC('councillor'))]。\n\n「私は新しい本を手に入れたり、課題を用意したり、いくらかの指導を行うことができるでしょう。あなたが最も興味を持っている主題は何ですか？」"
  councillor_spouse_learning.2602.a:0 "外交だな。"
  councillor_spouse_learning.2602.b:0 "軍事理論についてだ。"

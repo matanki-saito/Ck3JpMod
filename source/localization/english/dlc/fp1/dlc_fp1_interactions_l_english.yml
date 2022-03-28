@@ -49,6 +49,6 @@
  TBC_OPINION_HUMILIATION_TRAIT_FORGIVING:0 "[GetTrait('forgiving').GetName(recipient.Self)]は$TBC_OPINION_HUMILIATION$を認めている: $VALUE|=+0$"
  designate_shieldmaiden_interaction_extra_icon:0 "$hook_extra_icon$"
  designate_shieldmaiden_interaction:0 "楯の乙女にする"
- designate_shieldmaiden_interaction_desc:1 "[recipient.GetFirstNameNoTooltip]に[recipient.Custom('ShieldPersonFemaleMale')|U]として戦う機会を提供します。\n\n#weak [recipient.Custom('ShieldPersonFemaleMale')|U]は[actor.Custom('KnightCulture')]や[commander|E]に任命することができ、[GetScheme('murder').GetTypeName][scheme|E]からあなたを救うこともできるかもしれません。[close_family|E]のみを[recipient.Custom('ShieldPersonFemaleMale')|U]にすることができます。#!"
+ designate_shieldmaiden_interaction_desc:1 "[recipient.GetFirstNameNoTooltip]に[recipient.Custom('ShieldPersonFemaleMale')|U]として戦う機会を提供します。\n\n#weak [recipient.Custom('ShieldPersonFemaleMale')|U]は[actor.Custom('KnightCulture')]や[commander|E]に任命可能で、[GetScheme('murder').GetTypeName][scheme|E]からあなたを救えるかもしれません。[close_family|E]のみを[recipient.Custom('ShieldPersonFemaleMale')|U]にできます。#!"
  designate_shieldmaiden_interaction_notification:0 "[recipient.GetShortUIName]は[recipient.Custom('ShieldPersonFemaleMale')|U]になりました！"
  challenge_to_trial_by_combat_interaction_HIGHLIGHTED:0 "Highlighted because the opportunity to do a Trial-by-Combat is rare!"

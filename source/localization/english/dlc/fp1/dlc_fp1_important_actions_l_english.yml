@@ -11,7 +11,7 @@
  action_can_challenge_to_single_combat_unimportant:0 "@warning_icon!#X [recipient.GetSheHe|U]はあなたにとって重要ではありません#!"
  action_can_challenge_to_single_combat_HELP:0 "\n\n#help [ruler|E]として、あなたはすべての[criminal|E]に挑む必要はなく、代わりに[imprison|E]する機会が来るまで待つことが有益であるかもしれません。高い[prowess|E]の$game_concept_characters$が挑戦しても、すべての[trials_by_combat|E]は[single_combat_fight_plural|E]で行われることに注意してください。#!"
  action_can_make_shieldmaiden:0 "楯の乙女にできます"
- action_can_make_shieldmaiden_label:0 "[recipient.GetShortUINameNoTooltip]を[recipient.Custom('ShieldPersonFemaleMale')|U]にすることができます"
+ action_can_make_shieldmaiden_label:0 "[recipient.GetShortUINameNoTooltip]を[recipient.Custom('ShieldPersonFemaleMale')|U]にできます"
  action_can_make_shieldmaiden_combined_label:0 "[recipient.GetShortUINameNoTooltip]"
  action_can_make_shieldmaiden_desc:0 "[recipient.GetUIName]は高い[prowess|E][skill|E]を持っており、[recipient.Custom('ShieldPersonFemaleMale')|U]となることを受け入れるでしょう。$action_can_make_shieldmaiden_HELP$"
  action_can_make_shieldmaiden_click:0 "#I クリックで[recipient.Custom('ShieldPersonFemaleMale')|U]にする#!"

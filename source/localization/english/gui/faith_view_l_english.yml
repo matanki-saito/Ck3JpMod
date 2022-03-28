@@ -57,7 +57,7 @@
  FAITH_CREATION_PAGAN_REFORM_TEXT:2 "#high [GetPlayer.GetFaith.GetName]#!の改革は、それを組織化された宗派にします。組織化された宗派は[holy_wars|E]が実行可能になり、[court_chaplains|E]による[counties|E]の改宗効率が向上します。"
  FAITH_CREATION_ADDS_CHURCH_PROPERTY_TEXT:1 "[church_property|E]を制定\n[court_chaplain|E]が[domain|E]内の寺院を統治します"
  FAITH_CREATION_ADDS_LAY_CLERGY_TEXT:1 "[church_property|E]を廃止\n[GetPlayer.GetFaith.Custom('HouseOfWorshipPlural')|U]を直接統治できるようになり、[domain_limit|E]に数えられるようになります"
- FAITH_CREATION_COOLDOWN:2 "#weak 各統治者は一度だけ信仰を創設し、または改革することができます！#!"
+ FAITH_CREATION_COOLDOWN:2 "#weak 各統治者は一度だけ信仰の創設または改革が可能です！#!"
  FAITH_CREATION_CREATE:1 "宗派の創設"
  FAITH_CREATION_REFORM:1 "宗派の改革"
  FAITH_CONVERSION_CONVERT:1 "改宗する"
