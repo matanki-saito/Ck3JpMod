@@ -145,4 +145,4 @@
  ra_artifact_inventory_open_step_desc:0 "[inventory_artifacts|E]はあなたの宝物庫に収納されます。開いてみましょう。"
  ra_artifact_inventory_open_step_open:0 "宝物庫を開く（ハイライトされています）"
  ra_artifact_inventory_welcome:0 "$ra_artifact_inventory_general$"
- ra_artifact_inventory_welcome_desc:0 "宝物庫では、さまざまな恩恵を得るため[inventory_artifacts|E]を装備することができます。これによって特定の[skill|E]が上昇したり、[prestige|E]が上昇したりします。\n\nまた[inventory_artifacts|E]を[repair|E]あるいは[reforge|E]することでその[durability|E]を回復し、時間が経っても壊れないようにすることができます。\n\nまたあなたがどの[artifact_claims|E]を持っているかも確認できます。[artifacts|E]を自分のものにしようと挑戦してみてください！"
+ ra_artifact_inventory_welcome_desc:0 "宝物庫では、さまざまな恩恵を得るため[inventory_artifacts|E]を装備できます。これによって特定の[skill|E]や[prestige|E]が上昇したりします。\n\nまた[inventory_artifacts|E]の[repair|E]あるいは[reforge|E]で[durability|E]を回復し、時間経過による破損を防げます。\n\nまたどういった[artifact_claims|E]を持っているかも確認できます。[artifacts|E]を自分のものにしようと挑戦してみてください！"

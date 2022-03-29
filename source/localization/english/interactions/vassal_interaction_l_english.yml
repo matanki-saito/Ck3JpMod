@@ -56,7 +56,7 @@
  pardon_interaction_desc:1 "[recipient.GetName]は[criminal|E]([recipient.GetImprisonmentReasons( actor.Self )])の嫌疑により、[tyranny|E]の非難を受けることなく[imprison|E]が可能です。\n\nしかし放免を望むなら恩赦を与えることも出来ます。これにより、[imprison|E]の名目はすべて喪失し、あなたへの[opinion|E]が上昇します。"
  pardon_interaction_toast:0 "慈悲深い主君である[actor.GetFirstName]が、あなたの罪を赦した！"
  vassal_claim_liege_title_interaction:0 "主君の称号を請求"
- vassal_claim_liege_title_interaction_desc:0 "あなたの[lieges|E]の[titles|E]の一つに対して[de_jure|E]である[counties|E]の過半数#weak （51％以上）#!をあなたが支配していれば、[prestige|E]を使って[unpressed_claim|E]を手にすることができます！"
+ vassal_claim_liege_title_interaction_desc:0 "あなたの[lieges|E]の[titles|E]の一つに対して[de_jure|E]である[counties|E]の過半数#weak （51％以上）#!を支配していれば、[prestige|E]を使って[unpressed_claim|E]を手にできます！"
  HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "あなたが自分の[lieges|E]の[titles|E]の一つに対して過半数#weak （51%以上）#!を支配しているのならば、[prestige|E]を使って[unpressed_claim|E]を得ることができます！"
  NOT_HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "あなたはこの[title|E]の[de_jure|E]を構成する[counties|E]の少なくとも#V 51%#!以上を支配していない"
  higher_prestige_level_than_liege:0 "[liege|E]より[prestige_level|E]が高い"

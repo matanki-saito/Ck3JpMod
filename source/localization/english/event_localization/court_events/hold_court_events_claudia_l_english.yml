@@ -120,7 +120,7 @@
  6110_custom_every_realm_1:0 "[6110_vassal_1.GetShortUINamePossessive]の領国内のすべての伯爵領"
  6110_custom_every_realm_2:0 "[6110_vassal_2.GetShortUINamePossessive]の領国内のすべての伯爵領"
  hold_court.6120.t:0 "真実の日"
- hold_court.6120.desc:0 "「我が[ROOT.Char.GetLadyLord]——」[steward.Custom2('MyCharacterIntroduction', ROOT.Char)]が議論に加わる。「私には課税を改善するアイデアがございます。」\n\n「あなたは調査員を派遣して、臣民にあらゆる財産について質問することができます。その名前、所有者、拡張、価値、そして何人の人間と動物がそこに住んでいるのか！」"
+ hold_court.6120.desc:0 "「我が[ROOT.Char.GetLadyLord]——」[steward.Custom2('MyCharacterIntroduction', ROOT.Char)]が議論に加わる。「課税を改善するアイデアがございます」\n\n「調査員を派遣し、あらゆる財産について臣民に尋ねるのです。手始めはその名前から、所有者、拡張、価値、何人の人間と動物がそこに住んでいるのかに至るまでです！」"
  hold_court.6120.desc.seneschal:0 "\n\n「お願いでございます、我が[ROOT.Char.GetLadyLord]、私にこの問題を監督させてください。」[seneschal.Custom2('YourCharacterIntroduction', ROOT.Char)|U]は主張する。"
  hold_court.6120.desc.swans:0 "\n\n「そして、私はあなたの土地にいるすべての白鳥のリストを提供いたします！私のお気に入りは[keeper_swans.Custom('GetSwanName')]です！最近、彼女のお腹が柔らかく、いかにフワフワしていることをお伝えいたしましたでしょうか？昨日、散歩に行ったときには…」私は、[keeper_swans.GetSheHe]が血に汚れた鳥の話をブツブツ言っているので、[keeper_swans.Custom2('MyCharacterIntroduction', ROOT.Char)]を無視することにした。"
  hold_court.6120.desc.jester:0 "\n\n「でも数字にはもう#EMP うんざりだ#!！」[jester.Custom2('MyCharacterIntroduction', ROOT.Char)]は不満を言う。「さあ、代わりに踊りましょう！」"

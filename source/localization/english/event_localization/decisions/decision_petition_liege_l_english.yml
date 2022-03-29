@@ -29,7 +29,7 @@
  petition_liege_war_aid_tt:2 "あなたが少なくとも――[EmptyScope.ScriptValue('petition_war_aid_score_value')|0]%の[war_score|E]以上で負けている#X 非[realm|E][war|E]の[war_leader|E]でない#!"
  petition_liege_war_aid_liege_tt:1 "#X [liege|E]は既にあなたの進行中の[wars|E]に関与しています"
  petition_liege_war_aid_levies_tt:1 "#X [liege|E]はあなたの[war|E]に参加する危険を冒すほど強くありません"
- petition_liege_decision_effects_war_aid:0 "[THIS.Char.GetLiege.GetSheHe|U]は進行中の[war|E]に参加したり、軍隊を提供したりすることができます"
+ petition_liege_decision_effects_war_aid:0 "[THIS.Char.GetLiege.GetSheHe|U]は進行中の[war|E]に参加したり、軍隊を提供したりできます"
  petition_liege_war_aid_troops:0 "主君の召集軍"
  petition_liege_internal_war_aid_tt:0 "#X [liege|E]は[factions|E]と戦争中です#!"
  petition_liege_external_war_aid_tt:0 "#X [liege|E]は対外的な[wars|E]で忙しいです#!"

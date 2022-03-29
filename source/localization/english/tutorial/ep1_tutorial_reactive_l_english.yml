@@ -26,7 +26,7 @@
  ra_rc_throne_room_open_desc:0 "続けて、玉座の間へ戻りましょう"
  ra_rc_throne_room_open_prompt:0 "玉座の間画面を開く（ハイライトされています）"
  ra_rc_throne_room:0 "$ra_rc_intro$"
- ra_rc_throne_room_desc:1 "ここは玉座の間です。ここでは時々さまざまな状況や[court_events|E]がここで展開され、あなたは進行しているものごとへ介入することができます。"
+ ra_rc_throne_room_desc:1 "ここは玉座の間です。ここでは時々さまざまな状況や[court_events|E]がここで展開され、あなたは進行しているものごとへ介入できます。"
  ra_rc_hold_court:0 "謁見"
  ra_rc_hold_court_desc:1 "玉座の間に活気が足りないと感じたら、[hold_court|E]を行うことができます。これはあなたの[realm|E]中から請願者を招き、あなたの賢明なる判断を下すべき問題をもたらすものです。"
  ra_rc_grandeur_open:0 "$ra_rc_grandeur$"
