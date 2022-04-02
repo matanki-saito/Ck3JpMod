@@ -1,7 +1,7 @@
 ﻿l_english:
  fired_court_position:0 "Fired Court Position Holder"
- cultural_acceptance_foreign_merchants:0 "[foreign_merchant.GetCulture.GetName] Merchant Community"
- cultural_acceptance_foreigners_expelled:0 "[foreign_merchant.GetCulture.GetName] Merchants Expelled"
+ cultural_acceptance_foreign_merchants:0 "[foreign_merchant.GetCulture.GetName]の商人社会"
+ cultural_acceptance_foreigners_expelled:0 "[foreign_merchant.GetCulture.GetName]商人の追放"
  court_7030_merchant_privileges:0 "Merchant Privileges Extended"
  court_7030_merchant_privileges_desc:0 "This character has offered special privileges to a group of foreign merchants, in exchange for access to their expansive merchant navy."
  foreign_merchant_community:0 "外国の商人社会"
