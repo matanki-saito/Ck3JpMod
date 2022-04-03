@@ -43,7 +43,7 @@
  game_concept_artifact_desc_DLC:0 "宝物は、2つのカテゴリーのいずれかに分類されます：\n$BULLET_WITH_TAB$[inventory_artifacts|E]は、人物が着用したり運んだりできます。\n$BULLET_WITH_TAB$[court_artifacts|E]は、[ruler|E]の[royal_court|E]に設置できます。"
  game_concept_court_artifact:0 "宮廷の宝物"
  game_concept_court_artifacts:0 "宮廷の宝物"
- game_concept_court_artifact_desc:3 "宮廷の宝物とは、[ruler|E]の[royal_court|E]に展示される[artifact|E]のことです。例えばタペストリーや美麗な絵が載った書籍等があります。\n\n宮廷の宝物は、王宮における[court_grandeur|E]の定める要因の一つです。\n\n所有可能な宝物の数は、無制限です。ただし、宝物の種類と合うスロットに展示したものだけが効果を発揮します。\n\n[inspired|E]を得た[characters|E]に出資したり宝物の作成依頼や[inventory_artifact|E]の[reforge|E]を選択することで、宮廷の宝物を新たに製作できます。"
+ game_concept_court_artifact_desc:3 "宮廷の宝物とは、[ruler|E]の[royal_court|E]に展示される[artifact|E]のことです。例えばタペストリーや美麗な絵が載った書籍等があります。\n\n宮廷の宝物は、王宮における[court_grandeur|E]の定める要因の一つです。\n\n所有可能な宝物の数は、無制限です。ただし、宝物の種類と合うスロットに展示したものだけが効果を発揮します。\n\n[inspired|E]を得た[characters|E]への出資、宝物の作成依頼、[inventory_artifact|E]の[reforge|E]を選択することで、宮廷の宝物を新たに製作できます。"
  game_concept_inventory_artifact:0 "宝物庫の宝物"
  game_concept_inventory_artifacts:0 "宝物庫の宝物"
  game_concept_inventory_artifact_desc:4 "Inventory Artifacts are [artifacts|E] that a [character|E] wears or carries with them, such as a weapon or a crown.\n\nThere is no limit to how many Artifacts a Character can have, but only those equipped in a slot of its type has any effect.\n\nYou can create new Inventory Artifacts from [inspired|E] [characters|E], or from the Commission Artifact Decision."
