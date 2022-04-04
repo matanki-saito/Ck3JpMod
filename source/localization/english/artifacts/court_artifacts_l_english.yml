@@ -291,7 +291,7 @@
  artifact_pedestal_cornerstone_name:0 "盗まれた礎石"
  artifact_pedestal_cornerstone_name_desc:0 "[rival.GetTitledFirstNamePossessive]の[rival.Custom('FortifiedBuilding')]の礎石"
  artifact_book_title:0 "[newly_created_artifact.GetFeatureText( 'book_title' )]"
- artifact_book_description:0 "[newly_created_artifact.Custom('ArtifactBookDescType')]の[newly_created_artifact.GetFeatureText( 'book_decoration' )]"
+ artifact_book_description:0 "[newly_created_artifact.Custom('ArtifactBookDescType')][newly_created_artifact.GetFeatureText( 'book_decoration' )]"
  artifact_book_title_based_desc:0 "[ROOT.Artifact.GetFeatureText( 'book_topic' )]を可能にするためのすべての犠牲と困難な仕事の詳細を説明する[ROOT.Artifact.GetOwner.Custom('ArtifactArticleBookContentQuality')|U]の本。レタリングは[ROOT.Artifact.GetOwner.Custom('ArtifactQuality')]で、[ROOT.Artifact.GetOwner.Custom('ArtifactAdverbWealth')]の説明がされている。"
  artifact_book_other_desc_1:0 "[ROOT.Artifact.GetOwner.Custom('ArtifactArticleWealth')|U]本は[ROOT.Artifact.GetFeatureText( 'book_subject' )]に対する[ROOT.Artifact.GetOwner.Custom('ArtifactArticleBookContentQuality')]理解を示しながら、[ROOT.Artifact.GetFeatureText( 'book_topic' )]のような主題にも触れている。"
  artifact_book_other_desc_2:0 "[ROOT.Artifact.GetFeatureText( 'book_topic' )]に関する本――[ROOT.Artifact.GetOwner.Custom('ArtifactBookContentQuality')]のコメントが多くあり、[ROOT.Artifact.GetOwner.Custom('ArtifactAdverbWealth')]が図解されている。"
