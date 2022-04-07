@@ -691,7 +691,7 @@
  has_other_cultures_in_council_desc:0 "You must not have any [councillors|E] with a different [culture|E] from your own"
  20_percent_churches:0 "この[culture|E]の[counties|E]のうち[temple|E]を持つものは#V 20%#!未満である"
  must_be_feudal_or_clan:0 "あなたは[feudal|E]または[clan|E][government|E]でなければなりません"
- only_one_marriage_tradition_allowed:0 "Only one [marriage|E] [tradition|E] is allowed and the following cannot be combined: $tradition_monogamous_name$, $tradition_polygamous_name$, and $tradition_concubines_name$"
+ only_one_marriage_tradition_allowed:0 "[marriage|E]の[tradition|E]は一つだけが許され、以下は両立できません:$tradition_monogamous_name$、$tradition_polygamous_name$及び$tradition_concubines_name$"
  culture_in_winter_geographical_region_trigger_desc:0 "この[culture|E]は現在、冬の影響を受けた[region|E]に存在しない"
  culture_in_non_sedentary_geographical_region_trigger_desc:0 "この[culture|E]は現在[GetGeographicalRegion('world_steppe').GetName]に存在しない"
  culture_in_india_region_trigger_desc:0 "この[culture|E]は現在[GetGeographicalRegion('world_india').GetName]に存在しない"

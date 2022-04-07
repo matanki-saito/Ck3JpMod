@@ -140,7 +140,7 @@
  steward_accept_culture_increased_opinion_modifier:0 "Overtures Appreciated"
  steward_accept_culture_increased_development_spread_modifier:0 "文化的好奇心"
  steward_de_jure_denied_modifier:0 "慣習的領土の否認"
- steward_de_jure_denied_modifier_desc:0 "The inhabitants of this County are displeased with their ruler, who has refused to let them join their De Jure ruler."
+ steward_de_jure_denied_modifier_desc:0 "この伯爵領の住民は、慣習的領土の統治者に加わることを拒否され、彼らの統治者に対し不満を抱いている。"
  chancellor_task_bestow_royal_favor_vassal_modifier:0 "王家の恩寵を与えられた"
  chancellor_task_bestow_royal_favor_vassal_boosted_modifier:0 "$chancellor_task_bestow_royal_favor_vassal_modifier$"
  task_bestow_royal_favor_prestige_modifier:0 "王家の恩寵の授与"

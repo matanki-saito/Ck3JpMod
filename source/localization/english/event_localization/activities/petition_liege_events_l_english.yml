@@ -224,7 +224,7 @@
  petition_liege.9999.gregarious:0 "廷臣の皆と親しく話し合う良い機会だったな。"
  petition_liege.9999.every_guest_and_courtier:0 "全ての客人と廷臣:"
  petition_liege_block_firing_councillor_effect_tt:0 "[petition_vassal.GetShortUIName|U]は5年間、[council|E]から削除できません"
- petition_liege_0101_county_control_effect_tt:0 "All held Counties with less than 66 [control|E]"
+ petition_liege_0101_county_control_effect_tt:0 "所有している、[control|E]が66を下回る伯爵領の全て"
  petition_liege_county_control_modifier:0 "王家の廷吏"
  petition_liege_county_control_modifier_desc:0 "この伯爵領の所有者は、秩序を回復するために、主君の廷吏の助力を要請している。"
  petition_liege_county_control_modifier_tt:0 "[increase_control|E]はこの補正を持つ伯爵領において早く進行します"
