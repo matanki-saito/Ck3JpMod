@@ -233,7 +233,7 @@
  child_personality.1073.t:0 "節制への触発"
  child_personality.107.desc:0 "卑しい泥棒の死刑判決を受けて、[child.Custom2('MyCharacterIntroduction', ROOT.Char)]にどう思うか聞いてみた。"
  child_personality.107.just:0 "\n\n[child.GetSheHe|U]はこのような小さな罪にしては厳しすぎる判決だと答えた。"
- child_personality.107.cynical:0 "\n\n [child.GetSheHe|U]は、いかなる神もこのような厳しい法によって支配される領地を望まれるのか、と疑問を呈した。"
+ child_personality.107.cynical:0 "\n\n [child.GetSheHe|U]は、いかなる神がこのような厳しい法によって支配される領地を望まれるのか、と疑問を呈した。"
  child_personality.107.temperate:0 "\n\n[child.GetSheHe|U]は、[child.GetSheHe]自身が扱える以上のものには手を伸ばせないという教訓を学んだと主張した。"
  child_personality.107.confirm_just:0 "確かに罪と罰が釣り合っていなかったな。"
  child_personality.107.confirm_cynical:0 "[child.GetFaith.HighGodNamePossessive]の正義を期待してはいけない。"

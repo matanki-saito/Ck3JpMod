@@ -46,7 +46,7 @@
  game_concept_court_artifact_desc:3 "宮廷の宝物とは、[ruler|E]の[royal_court|E]に展示される[artifact|E]のことです。例えばタペストリーや美麗な絵が載った書籍等があります。\n\n宮廷の宝物は、王宮における[court_grandeur|E]の定める要因の一つです。\n\n所有可能な宝物の数は、無制限です。ただし、宝物の種類と合うスロットに展示したものだけが効果を発揮します。\n\n[inspired|E]を得た[characters|E]への出資、宝物の作成依頼、[inventory_artifact|E]の[reforge|E]を選択することで、宮廷の宝物を新たに製作できます。"
  game_concept_inventory_artifact:0 "宝物庫の宝物"
  game_concept_inventory_artifacts:0 "宝物庫の宝物"
- game_concept_inventory_artifact_desc:4 "Inventory Artifacts are [artifacts|E] that a [character|E] wears or carries with them, such as a weapon or a crown.\n\nThere is no limit to how many Artifacts a Character can have, but only those equipped in a slot of its type has any effect.\n\nYou can create new Inventory Artifacts from [inspired|E] [characters|E], or from the Commission Artifact Decision."
+ game_concept_inventory_artifact_desc:4 "宝物庫の宝物とは、[character|E]が身に着けたり持ち運んだりする、武器や王冠のような[artifacts|E]を指します。\n\n宝物の所有数に制限はありません。しかし、その効果の発揮は適正なタイプのスロットに装備している場合に限ります。\n\n[inspired|E]を得た[characters|E]や宝物の製作依頼の決断によって、新たな宝物を作成できます。"
  game_concept_project:0 "プロジェクト"
  game_concept_project_desc:2 "プロジェクトとは、[inspired|E]を得た[character|E]が自らのビジョンを実現させようと[sponsor|E]の援助を受けた規格のようなものです。通常、[artifact|E]の作成という形で実現が図られます。"
  game_concept_artifact_durability:0 "宝物の耐久度"

@@ -798,7 +798,7 @@
  fervor_loss_ecumenical_patriarchate:0 "$fervor_gain_ecumenical_patriarchate$"
  fervor_loss_scandalous_priest:0 "司祭の不祥事"
  fervor_loss_scandalous_hof:0 "[head_of_faith|E]の不祥事"
- fervor_gain_virtous_priest:0 "[virtuous_theocrat.GetFaith.GetAdjectiveNoTooltip] exaltation"
+ fervor_gain_virtous_priest:0 "[virtuous_theocrat.GetFaith.GetAdjectiveNoTooltip]の称揚"
  fervor_gain_new_heresy:0 "Birth of the [heretic_faith.GetAdjectiveNoTooltip] Heresy"
  fervor_gain_defector_heresy:0 "$fervor_gain_new_heresy$"
  RELIGION_TITLE_TEXT:0 "[Religion.GetNameNoTooltip] #weak ([Religion.GetFamily.GetName])#!"

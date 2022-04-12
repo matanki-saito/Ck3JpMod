@@ -79,7 +79,7 @@
  intrigue_scheme_ongoing.3003.b.hard_failure:0 "あなたが[defender.Custom('TerrainType')]で一晩中、道に迷う"
  intrigue_scheme_ongoing.3003.c:0 "アイデアを放棄する。"
  intrigue_scheme_ongoing.3004.t:0 "地図"
- intrigue_scheme_ongoing.3004.desc:0 "地元の居酒屋で猟師が騒ぎを起こしていると我がスパイたちが知らせてくれた。その[hunter.GetWomanMan]は「真珠と絹を身に着けた派手な[owner.GetWomanMan]」との取引で大金を得たと大声で自慢して、山ほどの金を浪費していた。\n\nどうやら[hunter.GetSheHe]は見知らぬ高貴な[owner.GetWomanMan]のために地元の[defender.Custom('TerrainType')]の地図を描いたようだ。スパイたちは、その[owner.GetWomanMan]が私か臣下の一人に対して策謀を巡らせているに違いないと考えている。"
+ intrigue_scheme_ongoing.3004.desc:0 "地元の居酒屋で猟師がどんちゃん騒ぎを起こしている。そんな知らせが間諜からいくつも上がってきている。その[hunter.GetWomanMan]は「真珠と絹を身に着けた派手な[owner.GetWomanMan]」とのデカいヤマを当てたと大声でひけらかし、湯水のごとく散財していたとのこと。\n\nどうやら素性も知らぬ高貴な[owner.GetWomanMan]に地元の[defender.Custom('TerrainType')]の地図を描いて見せたようだ。その[owner.GetWomanMan]が私か臣下に対して策謀を企てているに違いないと、間諜らは考えている。"
  intrigue_scheme_ongoing.3004.a:0 "この情報をもたらしたことに感謝する。"
  intrigue_scheme_ongoing.3004.b:0 "その愚か者を地下牢にぶち込め！"
  intrigue_scheme_ongoing.3004.c:0 "[hunter.GetHerHim]を連れて来い。[hunter.GetHerHis]の記憶を呼び起こせるだろう…"
