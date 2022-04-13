@@ -107,7 +107,7 @@
  stewardship_duty.4015.desc:0 "明確にはっきりとさせた、忠誠を尽くすことの対価。それを交渉材料に[targeting_faction.GetName]の支持をやめるよう[faction_member.GetTitledFirstName]を説得した。\n\n[faction_member.GetHerHis|U]の不平不満の種は、こちらが差し出した対価に比べれば、あまりにも取るに足らない代物だった。"
  stewardship_duty.4015.a:0 "[faction_member.GetHerHim]には道理が通じると分かっていた！"
  stewardship_duty.4019.t:0 "派閥にしがみつく"
- stewardship_duty.4019.desc:0 "[faction_member.GetHerHim]を説得する努力にもかかわらず、[faction_member.GetTitledFirstName]は[targeting_faction.GetName]を去ろうとはせず、引き続き[faction_member.GetSheHe]は自分たちの利益を擁護し続けている。"
+ stewardship_duty.4019.desc:0 "説得の努力も空しく、[faction_member.GetTitledFirstName]は[targeting_faction.GetName]を去ろうとはせず、引き続き自分たちの利益に拘泥し続けている。"
  stewardship_duty.4019.a:0 "私と共に立つ利益をなぜ[faction_member.GetSheHe]は理解してくれぬのか？"
  stewardship_duty.4020.t:0 "離脱の申し出"
  stewardship_duty.4020.desc:0 "[faction_member.GetTitledFirstName]はもはや派閥に所属していない。"

@@ -2,7 +2,7 @@
  pay_homage_header:0 "忠誠の誓い："
  pay_homage.0001.opening:0 "[homage_vassal.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
  pay_homage.0001.desc:0 "栄光なる[homage_liege.GetTitleAsNameNoTooltip]に敬意を表し忠誠心を示すため、ここ[homage_liege.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]へと参じました。\n\n"
- pay_homage.0001.desc.submission:0 "服従の誓いだけでも、私の名誉を証明するのに十分であることを望みます。"
+ pay_homage.0001.desc.submission:0 "ただ服従の誓いのみが私の名誉の証に足る。そうであることを望みます。"
  pay_homage.0001.desc.gold:0 "私の善意と奉仕の証として、あなたの威厳にふさわしい豊かな贈り物をお届け致します。"
  pay_homage.0001.desc.hook:0 "あなたが望むことならば何でもすると約束します、我が主。"
  pay_homage.0001.desc.contract:0 "あなたの支配とあなたへの忠誠を示すために、私はあなたの封臣としてより大きな責務を誓います。"
