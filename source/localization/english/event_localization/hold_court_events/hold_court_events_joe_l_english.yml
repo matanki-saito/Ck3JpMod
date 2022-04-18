@@ -321,7 +321,7 @@
  hold_court.8110.a:0 "へぇ、そうか？続けてくれ。"
  hold_court.8110.b:0 "[steward.GetCouncilTitleFirstNameNoTooltip]、行け。何とかしろ。頼むぞ。"
  hold_court.8110.c:0 "#EMP 私を#!笑ったのか？絞首刑だ！"
- hold_court.8110.d:0 "お前は滑稽者だ。#EMP 私の#!滑稽者だ。"
+ hold_court.8110.d:0 "お前は道化だ。#EMP 私の#!道化だ。"
  hold_court.8110.e:0 "何だ？この[peasant.GetWomanMan]はどうやって入ってきたんだ？誰か？"
  hold_court_8110_common_modifier:0 "庶民に触れる"
  hold_court_8110_haughty_modifier:0 "気取った"
