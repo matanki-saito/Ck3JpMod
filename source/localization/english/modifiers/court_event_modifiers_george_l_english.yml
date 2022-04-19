@@ -3,7 +3,7 @@
  cultural_acceptance_foreign_merchants:0 "[foreign_merchant.GetCulture.GetName]の商人社会"
  cultural_acceptance_foreigners_expelled:0 "[foreign_merchant.GetCulture.GetName]商人の追放"
  court_7030_merchant_privileges:0 "商人特権の拡大"
- court_7030_merchant_privileges_desc:0 "This character has offered special privileges to a group of foreign merchants, in exchange for access to their expansive merchant navy."
+ court_7030_merchant_privileges_desc:0 "この人物は、広大な商船隊の利用と引き換えに、外国の商人たちに特権を与えた。"
  foreign_merchant_community:0 "外国の商人社会"
  foreign_merchant_community_desc:0 "この伯爵領には外国商人の共同体が繁栄している。"
  fervor_gain_ascetic_example:0 "禁欲主義からのひらめき"

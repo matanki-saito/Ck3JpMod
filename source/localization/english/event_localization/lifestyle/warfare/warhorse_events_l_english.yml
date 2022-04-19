@@ -83,5 +83,5 @@
  warhorse.0002.g:0 "インキタトゥス——皇帝カリグラのお気に入りだ！"
  warhorse.1001.f:0 "That's what I pay a $master_of_horse_court_position$ for!"
  warhorse.1001.f.tt:0 "あなたの$master_of_horse_court_position$は[ROOT.Char.Custom('HorseStoryMareStallion')]の調教を開始します。"
- warhorse.1001.f.failure:0 "You overestimated your $master_of_horse_court_position$"
+ warhorse.1001.f.failure:0 "あなたは$master_of_horse_court_position$を過大評価する"
  warhorse.1001.f.failure.tt:0 "[m_horse.GetTitledFirstNameNoTooltip]は[ROOT.Char.Custom('WarhorseStoryName')]の調教に失敗する"
