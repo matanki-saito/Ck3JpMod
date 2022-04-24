@@ -65,7 +65,7 @@
  game_concept_court_positions:0 "宮廷職"
  game_concept_court_position_desc:2 "$game_concept_court_positions$とは、[liege|E]を補助する目的で、[courtiers|E]や[vassals|E]に与えるられる特別な役割のことです。\n\n$game_concept_court_positions$から得られる利益の数々は、各職を務める人物の[aptitude|E]によって決まります。\n\n$game_concept_court_positions$への登用に制限はありません。しかし、月給として[gold|E]を支払わねばなりません。また、解任には[prestige|E]が必要です。"
  game_concept_aptitude:0 "適正"
- game_concept_aptitude_desc:2 "[character|E]の$game_concept_aptitude$とは、特定の[court_position|E]においてどれだけ有能なのかを決定づけます。\n\n$game_concept_aptitude$は、悲惨から傑出までの5段階で評価されます。$game_concept_aptitude$のレベルによって、[court_position|E]を雇用する[liege|E]の得るボーナスが決まります。\n\n例えば、[GetTrait('physician_3').GetName( GetNullCharacter )]を持っていれば、$court_physician_court_position$として仕えることで自然とより備わりやすくなります。"
+ game_concept_aptitude_desc:2 "[character|E]の$game_concept_aptitude$は、特定の[court_position|E]においてどれだけ有能かを定めます。\n\n$game_concept_aptitude$は悲惨から傑出までの5段階で評価されます。$game_concept_aptitude$のレベルによって、[court_position|E]を雇用する[liege|E]のボーナスが決まります。\n\n例えば、[GetTrait('physician_3').GetName( GetNullCharacter )]である人物は、当然ながら$court_physician_court_position$となるに人一倍ふさわしい素養を備えています。"
  game_concept_court_event:0 "宮廷イベント"
  game_concept_court_events:0 "宮廷イベント"
  game_concept_court_event_desc:0 "A $game_concept_court_event$ is an event involving the members of your [court|E], they are viewable in the [royal_court|E]."
