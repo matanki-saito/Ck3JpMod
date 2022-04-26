@@ -14,7 +14,7 @@
  suggestion_fabricate_claim_click:1 "#I クリックで称号を表示#!"
  suggestion_create_title_label:0 "称号を創設できます"
  suggestion_create_title:0 "提案: [landed_title.GetNameNoTooltip]を作成しましょう"
- suggestion_create_title_desc:1 "あなたは[landed_title.GetName]を[create|E]するのに十分な[de_jure|E]を所有しています。創設することで、あなたは大きな[prestige|E]を獲得し、それに属する全ての称号の[rightful_liege|E]となります。"
+ suggestion_create_title_desc:1 "[landed_title.GetName]を[create|E]するのに十分な[de_jure|E]を所有しています。創設することで、大きな[prestige|E]を獲得し、創設した称号に属する全称号の[rightful_liege|E]となります。"
  suggestion_create_title_click:1 "#I クリックで称号を表示#!"
  SUGGESTIONS_DEBUG:0 "#D SUGGESTIONS DEBUG: #!"
  suggestion_convert_county_label:0 "伯爵領を改宗できます"

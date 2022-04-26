@@ -1599,7 +1599,7 @@
  LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "[varangian_adventuring|E]の際に上限以上のボーナス兵力を受けとります\n[dynast_interaction|E]: #V ヴァリャーグ親衛隊を送る#!\n#weak [dynast]は、[skills]や[traits]獲得機会を得るため、封土のない成人の[dynasty]メンバーを送り出せるようになります。なお、その際に[prestige][prestige_i]を支払う必要があります#!"
  ADD_LOOT_RAIDING_ARMY_EFFECT:1 "現在の略奪軍に$VALUE|0V$の戦利品が加わります"
  ADD_LOOT_RAIDING_ARMY_PAST_EFFECT:1 "略奪軍に$VALUE|0V$の戦利品が加わりました"
- send_to_varangian_guard_interaction_effect_desc:1 "#weak ヴァリャーグ親衛隊に所属している間、[CHARACTER.GetShortUIName]は[CHARACTER.GetHerHis]の[skills|E]を増やしたり、[traits|E]を獲得したりする可能性がある一方、[CHARACTER.GetSheHe]が負傷したり、さらに悪い事態に陥る可能性もあります。[CHARACTER.GetSheHe|U]は数年以内には帰還しますが、呼び戻すことはできません。#!"
+ send_to_varangian_guard_interaction_effect_desc:1 "#weak ヴァリャーグ親衛隊に所属している間、[CHARACTER.GetShortUIName]は自身の[skills|E]向上や[traits|E]獲得の可能性がある一方、負傷に留まらない事態に陥る可能性もあります。[CHARACTER.GetSheHe|U]は数年以内には帰還しますが、呼び戻すことはできません。#!"
  custom.every_courtier_and_guest:0 "すべての[courtier|E]と[guest|E]"
  custom.every_knight:0 "すべての[knight|E]"
  CHARACTER_DECLINES_INVITATION:0 "[CHARACTER.GetShortUIName|U]は招待を拒否します"
