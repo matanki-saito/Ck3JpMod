@@ -365,7 +365,7 @@
  action_upgrade_tribal_holding_type_combined_label:0 "[landed_title.GetNameNoTierNoTooltip]"
  action_upgrade_tribal_holding_type:0 "封建化すべき[tribal|E][holding|E]"
  action_upgrade_tribal_holding_type_combined_group_name:0 "$action_upgrade_tribal_holding_type_combined_group_label$"
- action_upgrade_tribal_holding_type_combined_group_description:0 "非[tribal|E][character|E]として、$game_concept_tribal$[holdings|E]はあなたに[levies|E]も[taxes|E]ももたらしません。あなたは$game_concept_holding$を改め、[castle|E]にする必要があります。$action_upgrade_tribal_holding_type_HELP$"
+ action_upgrade_tribal_holding_type_combined_group_description:0 "[tribal|E]制ではない[character|E]が治める$game_concept_tribal$[holdings|E]は、[levies|E]も[taxes|E]ももたらしません。$game_concept_holding$を改め、[castle|E]にする必要があります。$action_upgrade_tribal_holding_type_HELP$"
  action_upgrade_tribal_holding_type_label:0 "[landed_title.GetNameNoTier]を封建化すべきです"
  action_upgrade_tribal_holding_type_desc:0 "$action_upgrade_tribal_holding_type_combined_group_description$"
  action_upgrade_tribal_holding_type_click:1 "#I クリックして$game_concept_holding$を選択#!"
