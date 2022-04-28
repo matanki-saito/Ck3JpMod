@@ -13,7 +13,7 @@
  court.3000.c.tt.success:0 "[foreign_guest.GetFirstNamePossessiveNoTooltip]と[family_member.GetFirstNamePossessiveNoTooltip]の関係は深まる"
  court.3000.c.tt.neutral:0 "[foreign_guest.GetFirstNameNoTooltip]と[family_member.GetFirstNameNoTooltip]の距離が縮まる"
  court.3000.d:0 "[foreign_guest.GetFirstNameNoTooltip]はもはや我が宮廷では歓迎されない！"
- court.3000.neutral_outcome:0 "The spike of interest in each other peters out to how it was before."
+ court.3000.neutral_outcome:0 "互いへの関心の高まりは、以前のように尽きていく。"
  court.3000.friendly_outcome:0 "二人は友人、あるいは恋人にすらなるかもしれない…"
  court.3000.better_friends_outcome:0 "二人は友人になるかもしれない、あるいはそれ以上にも…"
  court.3010.t:0 "触発された作品"
