@@ -129,4 +129,4 @@
  learn_language_ongoing.1140.desc:4 "\"You are learning [scheme.GetTarget.GetCulture.GetLanguage.GetName], I see — good choice, speaking it will surely strengthen your position as [ROOT.Char.GetTitleTierName].\" my [SCOPE.sC('root_for_loc').Custom2('RelationToMeShort', SCOPE.sC('close_one_to_help'))] [close_one_to_help.GetFirstName] exclaims, [close_one_to_help.Custom('quirk_pos_pp')].\n\n\"I speak [target.GetCulture.GetNameNoTooltip] natively. Perhaps I could be of assistance, [SCOPE.sC('close_one_to_help').Custom2('RelationToMeShort', SCOPE.sC('root_for_loc'))]?\" [close_one_to_help.GetSheHe] says."
  learn_language_ongoing.1140.a:0 "Could you help me make sense of this sentence?"
  learn_language_ongoing.1140.b:0 "Would you like to join my lessons, from now on?"
- helpful_assistance_modifier:0 "Helpful Assistance"
+ helpful_assistance_modifier:0 "役立つ助力"

@@ -98,4 +98,4 @@
  CHARACTER_TOOLTIP_INSTRUCTION_COURT_SCENE:0 "#I クリックで表示\n右クリックで対話#!"
  CHARACTER_COURT_POSITIONS_TOOLTIP:0 "[Character.GetLiege.GetShortUINamePossessive|U]の[Character.GetHeldCourtAndCouncilPositionsString]"
  DEBUG_TITLE_KEYS:0 "Title key and dejure lieges:"
- DEBUG_REGION_KEYS:0 "Geographical regions:"
+ DEBUG_REGION_KEYS:0 "地理学的な地方:"

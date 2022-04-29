@@ -12,7 +12,7 @@
  CULTURE_CREATION_NAMING_COLLECTIVE_NOUN:0 "$CULTURE_CREATION_NAMING_COLLECTIVE_NOUN_BASE$:"
  CULTURE_CREATION_NAMING_PREFIX_BASE:0 "接頭辞"
  CULTURE_CREATION_NAMING_PREFIX:0 "$CULTURE_CREATION_NAMING_PREFIX_BASE$:"
- HYBRIDIZE_CULTURE_NAME:0 "[Select_CString( StringIsEmpty( HybridizationWindow.GetNewCultureName ), 'Choose Name', '' )] [HybridizationWindow.GetNewCultureName]"
+ HYBRIDIZE_CULTURE_NAME:0 "[Select_CString( StringIsEmpty( HybridizationWindow.GetNewCultureName ), 'Choose Name', '' )][HybridizationWindow.GetNewCultureName]"
  CULTURE_CREATION_NEW_CULTURE_HEADER:0 "新しい文化"
  CULTURE_CREATION_NEW_CULTURE_TEXT:0 "あなたを[culture_head|E]として新しい[culture|E]が作成されます"
  CULTURE_CREATION_ACCEPTANCE_HEADER:0 "受容"
