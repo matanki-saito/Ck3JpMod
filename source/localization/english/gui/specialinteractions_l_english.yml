@@ -360,7 +360,7 @@
  IS_SAME_HOUSE_REASON:0 "同じ[house|e]: $VALUE|=+0$"
  DECLARED_WAR_REASON:0 "自分に宣戦布告した: $VALUE|=+0$"
  IS_AT_WAR_REASON:0 "あなたが[war|E]中である: $VALUE|=+0$"
- GRANT_REVOKE_VIEW_WRONG_HOLDING_TYPE:0 "#T 適切でない種類の[holding|E]#!\n[Title.GetProvince.GetHolding.GetType.GetName|V]の所領は[GetPlayer.GetGovernment.GetName]の政体を持つ人物によっては効果的に保有されず、全く[taxes|E]や[levies|E]を拠出しません"
+ GRANT_REVOKE_VIEW_WRONG_HOLDING_TYPE:0 "#T 適切でない種類の[holding|E]#!\n[Title.GetProvince.GetHolding.GetType.GetName|V]制の所領は[GetPlayer.GetGovernment.GetName]の政体の人物が保有しても有効ではなく、全く[taxes|E]や[levies|E]を拠出しません"
  grant_title_modifier_stack_baronies:3 "[recipient.GetShortUIName|U]の[actor.GetShortUIName]への[opinion|E]が、今後#V 50年間#!にわたり[SCOPE.ScriptValue('grant_title_opinion_sum_baronies')|+0]増加する。#weak (男爵位を受領した)#!"
  grant_title_modifier_stack_counties:3 "[recipient.GetShortUIName|U]の[actor.GetShortUIName]への[opinion|E]が、今後#V 50年間#!にわたり[SCOPE.ScriptValue('grant_title_opinion_sum_counties')|+0]増加する。#weak (伯爵位を受領した)#!"
  grant_title_modifier_stack_duchies:3 "[recipient.GetShortUIName|U]の[actor.GetShortUIName]への[opinion|E]が、今後#V 50年間#!にわたり[SCOPE.ScriptValue('grant_title_opinion_sum_duchies')|+0]増加する。#weak (公爵位を受領した)#!"

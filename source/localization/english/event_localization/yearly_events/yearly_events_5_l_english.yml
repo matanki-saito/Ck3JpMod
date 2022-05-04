@@ -179,7 +179,7 @@
  yearly.5050.c.success.effect.tt:0 "[scoped_spouse.GetFirstNameNoTooltip]の言っていることの真偽を知る"
  yearly.5050.c.failure.desc.tt:0 "[scoped_spouse.GetFirstNameNoTooltip]は理由を述べることを拒む"
  yearly.5050.c.failure.effect.tt:0 "[scoped_spouse.GetWifeHusband]は私に行動を起こすよう求める"
- yearly.5051.desc.a.a:0 "話を聞けば聞くほど、我が[scoped_spouse.GetWifeHusband]が私に本当のことを言っていないという確信を得た。話し終わる頃には、[scoped_spouse.GetFirstName]が[slighting_courtier.GetTitledFirstName]を貶すために全くの嘘の話を作り上げたのではないかという印象が強く残った。"
+ yearly.5051.desc.a.a:0 "話を聞けば聞くほど、我が[scoped_spouse.GetWifeHusband]が真実を語っていないという確信を得た。話し終わる頃、私に残ったのは[scoped_spouse.GetFirstName]が[slighting_courtier.GetTitledFirstName]を貶す全くのデタラメを作り上げたのだという印象であった。"
  yearly.5051.desc.a.b:0 "私の[scoped_spouse.GetWifeHusband]の主張を注意深く調べた結果、私は[scoped_spouse.GetFirstName]が私に真実を語っているという結論に達した。\n\n[slighting_courtier.GetTitledFirstName]は[scoped_spouse.GetHerHis]の名誉を深く傷つけ、それにより[slighting_courtier.GetSheHe]は私の厚遇に対して唾を吐きかけたのだ。"
  yearly.5051.z:0 "もしも廷臣らがこの過った訴えを知ったなら…"
  yearly.5051.a:0 "[slighting_courtier.GetFirstNameNoTooltip]に対して、この根も葉もない告発を謝るべきではなかろうか。"

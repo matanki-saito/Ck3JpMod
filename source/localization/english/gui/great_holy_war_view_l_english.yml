@@ -55,7 +55,7 @@
  GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_PROMPT_NO:2 "#I クリックで従う#!"
  GHW_PLEDGE_TT_HEADER:0 "#T 軍事支援を誓約#!"
  GHW_UNPLEDGE_TT_HEADER:0 "#T 軍事援助の取り下げ#!"
- GHW_PLEDGE_TT_BODY:0 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]に参戦しましょう！参戦者は[war_chest|E]を一部を得られ、その[beneficiary|E]は[GREAT_HOLY_WAR.GetTargetTitle.GetName]の[ruler|E]となることができます"
+ GHW_PLEDGE_TT_BODY:0 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]に参戦しましょう！参戦者は[war_chest|E]を一部を得られ、その[beneficiary|E]は[GREAT_HOLY_WAR.GetTargetTitle.GetName]の[ruler|E]となれます"
  GHW_UNPLEDGE_TT_BODY:1 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]から離脱します。あなたは[war_chest|E]の取り分を放棄し、[beneficiary|E]もあなたと離脱します"
  GHW_CONTRIBUTE_WAR_CHEST_TT_HEADER:0 "#T 軍資金を捧げる#!"
  GHW_CONTRIBUTE_WAR_CHEST_TT_BODY:0 "[piety|E]と引き換えに[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]へ多額の[gold|E]を寄付します。"

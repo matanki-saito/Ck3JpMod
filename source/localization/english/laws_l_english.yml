@@ -43,7 +43,7 @@
  tribal_authority_2:0 "高い部族権限"
  tribal_authority_2_effects:0 "$EFFECT_LIST_BULLET$[titles|E]の剥奪が可能\n$EFFECT_LIST_BULLET$[vassals|E]の引き抜きが可能"
  tribal_authority_3:0 "絶対的な部族権限"
- tribal_authority_3_effects:0 "$EFFECT_LIST_BULLET$[independent|E]している[tribal|E]の統治者は定住して[feudal|E]または[clan|E]国家となることができます"
+ tribal_authority_3_effects:0 "$EFFECT_LIST_BULLET$[independent|E]している[tribal|E]の統治者は定住して[feudal|E]または[clan|E]国家となれます"
  LAW_TOOLTIP_SUBTITLE:0 "#weak [Law.GetSubName]#!"
  LAW_TITLE_ALLEGIANCE_OPINION:0 "$EFFECT_LIST_BULLET$[title_allegiance|E]を誓っている封臣[opinion|E]: $VALUE|+=$"
  I_LACK_TRIBAL_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:0 "あなたは制限された[tribal_authority|E]を持っていません"

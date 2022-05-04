@@ -277,7 +277,7 @@
  befriend_ongoing.6008.desc:0 "まるで私が[owner.GetTitledFirstName]の手で監禁状態から解放されたのは、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))]である[target.GetTitledFirstName]による画策のように思える！"
  befriend_ongoing.6008.a:0 "感謝してもしきれません、[target.GetFirstNameNoTooltip]。"
  befriend_ongoing.6009.t:0 "親善: 善意"
- befriend_ongoing.6009.desc:0 "献身を約束することで、[target.GetTitledFirstName]に対する私の善意についての強いメッセージを送ることができる。\n\n誰でも強い好意は評価してくれる。"
+ befriend_ongoing.6009.desc:0 "献身を約束することで、[target.GetTitledFirstName]に対する私の善意についての強いメッセージを送れる。\n\n誰でも強い好意は評価してくれる。"
  befriend_ongoing.6009.a:0 "約束は公式に儀礼的なものとなるだろう！"
  befriend_ongoing.6009.b:0 "[target.GetSheHe]が来る日も来る日も約束を忘れないようにしよう。"
  befriend_ongoing.6009.c:0 "このようなことは避けた方が良い。"
