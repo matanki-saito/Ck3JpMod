@@ -240,7 +240,7 @@
  fund_inspiration.2002.a:0 "「地下牢にいる者たちを好きなように使うがよい。」"
  fund_inspiration.2002.b:1 "「ここに、農民を何人か拉致するための金がある。」"
  fund_inspiration.2002.c:0 "「国境は遠くない。外国の農民を誘拐して来い。」"
- fund_inspiration.2002.toast_outcome.negative:0 "Evidence leads to you as the cause of the missing peasants"
+ fund_inspiration.2002.toast_outcome.negative:0 "農民が行方不明になった原因は、あなたであるとの証拠が導かれる"
  fund_inspiration.2002.toast_outcome.positive:0 "You get away with the kidnapping of peasants"
  fund_inspiration.2002.d:0 "[inspiration_owner.GetTitledFirstNamePossessiveNoTooltip]の要求を拒否する。"
  fund_inspiration.2003.t:0 "$fund_inspiration.title$ 崩壊"
