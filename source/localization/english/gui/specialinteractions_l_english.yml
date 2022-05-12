@@ -425,7 +425,7 @@
  AI_REFUSAL_WOUNDED:0 "[recipient.GetShortUIName|U]は負傷している: $VALUE|=+0$"
  AI_DYNASTY_PRESTIGE_REASON_NOBLE:1 "[secondary_actor.GetShortUIName|U]は[noble|E]である: $VALUE|=+0$"
  AI_DYNASTY_PRESTIGE_REASON_LOWBORN_NO_POSITIVE_TRAIT:0 "あなたの候補者が肯定的な[congenital|E]の[traits|E]を持たない[lowborn|E]である: $VALUE|=+0$"
- AI_NO_FERTILITY_REASON:0 "[recipient.GetShortUIName|U] has no [heir|E], and the union will have no [fertility|E]: $VALUE|=+0$"
+ AI_NO_FERTILITY_REASON:0 "[recipient.GetShortUIName|U]には[heir|E]がなく、結婚が[fertility|E]を持たない: $VALUE|=+0$"
  AI_ATTRACTION_REASON:0 "[recipient.GetShortUIName|U]は[secondary_actor.GetShortUIName|U]に魅了されている: $VALUE|=+0$"
  MARRIAGE_DOCTRINE_PRESTIGE_EFFECT:0 "[CHARACTER.GetFaith.GetName]の教義: $PRESTIGE_MULT|0+=%$"
  COURT_GRANDEUR_LEVEL_MARRIAGE_ACCEPTANCE_BOOST_MODIFIER:0 "[recipient.GetShortUIName|U]は私の[royal_court|E]に感銘を受けている: $VALUE|+=0$"

@@ -167,5 +167,5 @@
  CREATE_NEW_HOLDING_HEADING:0 "新たな[holding|E]を建設"
  HOLDING_VIEW_CAN_UPGRADE_BUILDING:0 "#help この[holding|E]をアップグレード可能です、クリックで詳細を表示し建設を開始します！#!"
  HOLDING_VIEW_CAN_NOT_UPGRADE_BUILDING:0 "#help 現在この[holding|E]をアップグレードできません、クリックで詳細と将来可能なアップグレードを表示します。#!"
- RAID_TT_MONTHS_OF_RAID_LOOT_MULT:0 "Months of [raid_loot|E]"
+ RAID_TT_MONTHS_OF_RAID_LOOT_MULT:0 "月間の[raid_loot|E]"
  RAID_TT_MONTHLY_LOOT:0 "月間[raid_loot|E]"
