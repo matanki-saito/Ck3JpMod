@@ -121,7 +121,7 @@
  great_religious_sculptor_investment_character_modifier_desc:0 "賢明な投資によって、この人物が上等な宗教的な彫像を利用する準備が整った。"
  great_jeweler_investment_character_modifier:0 "$great_jeweler_investment_modifier$"
  great_jeweler_investment_character_modifier_desc:0 "賢明な投資によって、この人物の宝飾取引に好景気がもたらされた。"
- sleep_deprived_modifier_desc:0 "Poor domestic conditions are depriving this character of much needed rest."
+ sleep_deprived_modifier_desc:0 "下手な世話を受けたことで、この人物から非常に重要な安らぎが奪われてしまった。"
  medicine_student_modifier:0 "Student of Medicine"
  medicine_student_modifier_desc:0 "This character shall be an improved physician from their studies"
  trepanning_learning_penalty_modifier:0 "Hole in my Head"

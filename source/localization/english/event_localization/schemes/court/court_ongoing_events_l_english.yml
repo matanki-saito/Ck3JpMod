@@ -253,7 +253,7 @@
  court_ongoing.1211.b.success:0 "策略は誰にもばれない"
  court_ongoing.1211.b.failure:0 "[target.GetSheHe|U]が欺瞞に気付く"
  court_ongoing.1211.c:0 "もう止めよう。"
- court_ongoing.1212.desc:0 "さらにもう一晩ぐっすりと眠った後に日が昇ると、私は部屋の外で寝ずの番をし、私の休息を平穏に保ち、邪魔されないようにしてくれている[owner.GetTitledFirstName]に感謝するしかない。"
+ court_ongoing.1212.desc:0 "さらにもう一晩ぐっすりと眠り、そして日が昇った。その間、部屋の外で寝ずの番をし、休息を平穏に保ち、邪魔が入らぬようにしてくれた[owner.GetTitledFirstName]には感謝しかない。"
  court_ongoing.1212.a:0 "我が勇敢なる守護者よ！"
  court_ongoing.1213.desc:0 "眠ろうとしていた矢先、真っ暗な夜の闇の中で、突然、#EMP ドスン#!という大きな音が聞こえてきた！寝室の外を覗いて、私が見たのは床でぐっすりと眠っている[owner.GetTitledFirstName]の姿だった。"
  court_ongoing.1213.a:0 "我が勇敢なる衛兵よ..."
