@@ -127,7 +127,7 @@
  reactive_advice_varangian_adventure_step_1:0 "$game_concept_varangian_adventures$"
  reactive_advice_varangian_adventure_desc:0 "あなたは[varangian_adventure|E]を宣言できます。\n\n$culture_era_tribal$[era|E]の期間中は、この種類の戦争を利用でき、祖国の冷たい海岸から遠く離れた土地で新しい人生を始めることができます。\n\n$game_concept_varangian_adventures$を成功させると、自分の領国を海外に移転させるだけでなく、封臣を含めた既存の領土をすべて独立させることができます。\n\n$north_germanic_group$の支配者としてあなたが最初に行う[varangian_adventure|E]では、[GetGeographicalRegion('dlc_fp1_region_core_mainland_scandinavia').GetName]にある同[faith|E]、同[culture|E]の伯爵領から、新天地の征服を助ける追加の軍隊を召集します。"
  action_reactive_advice_court_positions:0 "$open_tutorial_lesson$$ra_court_pos_open_view$"
- action_reactive_advice_court_positions_desc:0 "Open this for an introduction to Court Positions"
+ action_reactive_advice_court_positions_desc:0 "宮廷職の紹介のためこれを開いてください"
  action_reactive_advice_court_positions_click:0 "$click_to_open_lesson$"
  ra_court_pos_open_view:0 "宮廷職"
  ra_court_pos_open_view_desc:0 "[court_positions|E]は、あなたの[courtiers|E]と[vassals|E]へ与えることのできる職と名誉のことです。\n\nそれぞれ、月給を支払う代わりに恩恵を得られます。例えば、[GetCourtPositionType('court_physician_court_position').GetName()]はあなたとあなたの[court|E]の健康を保つことが出来ます。"
