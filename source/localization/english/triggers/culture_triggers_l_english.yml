@@ -36,7 +36,7 @@
  LACKS_OVERLAPPING_CULTRAD_TRADITION_SEAFARING_NOT:0 "$tradition_seafaring_name$の[tradition|E]とは両立しない"
  LACKS_OVERLAPPING_CULTRAD_TRADITION_POETRY_NOT:0 "$tradition_poetry_name$の[tradition|E]とは両立しない"
  LACKS_OVERLAPPING_CULTRAD_TRADITION_STORYTELLERS_NOT:0 "$tradition_storytellers_name$の[tradition|E]とは両立しない"
- any_ancestor_culture_was_mystical:1 "At least one ancestor culture must have the $tradition_mystical_ancestors_name$ [tradition|E]."
+ any_ancestor_culture_was_mystical:1 "少なくとも一つの祖先の文化が$tradition_mystical_ancestors_name$の[tradition|E]を持つ必要がある。"
  mystical_ancestors_disinherit:0 "文化が$tradition_mystical_ancestors_name$の[tradition|E]を持っていない。"
  HAS_CULTURAL_PILLAR_FIRST:1 "[CULTURE.GetName|U][culture|E]が[CULTURE_PILLAR.GetName]の[culture_pillar|E]を持っている"
  HAS_CULTURAL_PILLAR_FIRST_NOT:1 "[CULTURE.GetName|U][culture|E]が[CULTURE_PILLAR.GetName]の[culture_pillar|E]を持っていない"
