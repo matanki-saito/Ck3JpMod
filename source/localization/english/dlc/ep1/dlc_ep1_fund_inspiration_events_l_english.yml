@@ -743,7 +743,7 @@
  fund_inspiration.6512.h:0 "[rival.GetFirstNamePossessiveNoTooltip]の破滅だ！"
  fund_inspiration.6512.i:0 "そんなことより——その石を持ってこい!"
  fund_inspiration.7001.t:0 "$fund_inspiration.title$ 思い出の名前"
- fund_inspiration.7001.desc:0 "[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が考え込んだ表情で私に近づいてくる。「あなたにとって特別な人は誰かいらっしゃいますか、我が[ROOT.Char.GetLadyLord]？」\n\n[inspiration_owner.GetSheHe|U]は、そのような個人的な質問に対する私の苛立ちを表情から読み取ったのか、さらに続ける。「つまり、依頼された宝物を捧げたい方がいるのでしょうか？上手く進んではいますが、意味のある碑文を入れることでそれをさらに個人的なものに感じさせることができるでしょう！」"
+ fund_inspiration.7001.desc:0 "[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が考え込んだ表情で話しかけてきた。「我が[ROOT.Char.GetLadyLord]よ、あなたにとって特別な方はいらっしゃいますか？」\n\n[inspiration_owner.GetSheHe|U]は、そのような立ち入った質問に対する私の苛立ちを表情から読み取ったのか、さらに続ける。「つまり、ご依頼の宝物を捧げたい方がいるのでしょうか、ということです。上手く進んではいますが、意味のある言葉を刻むことでよりいっそう身近に感じるものへとなりましょう！」"
  fund_inspiration.7001.a:1 "我が最愛の[dedication_a.GetFirstNameNoTooltip]に！"
  fund_inspiration.7001.b:1 "[dedication_b.GetFirstNameNoTooltip]の思い出の中に…"
  fund_inspiration.7001.c:0 "[ROOT.Char.GetFaith.HighGodNameAlternate]のみが私を導いてくださる！"

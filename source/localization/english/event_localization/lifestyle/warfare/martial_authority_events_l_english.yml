@@ -70,7 +70,7 @@
  martial_authority_special.1102.a:0 "少なくとも技術を一つ二つ学んだ。"
  martial_authority_special.1103.desc:0 "私が声を上げると、[officer.GetTitledFirstNamePossessive]の腕は凍り付く。私の言葉の感情の強さが心に響いたようで——[officer.GetHerHis]の表情は恥ずかしさへと変わっていく。[officer.GetSheHe|U]は謝罪の言葉を口にしてその場から逃げ出す。"
  martial_authority_special.1501.t:0 "脱走兵"
- martial_authority_special.1501.desc:1 "巡回の指揮をしていたところ、 宵闇の中に集団の人影を発見した。 フード付きのマントで顔は見えないが、歩き方から[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('deserting_soldier') )]である[deserting_soldier.GetTitledFirstName]であると分かった。\n\n「[ROOT.Char.GetLadyLord]」、部下の一人が囁く。「脱走しているようです。どうしますか？」"
+ martial_authority_special.1501.desc:1 "巡回の指揮をしていたところ、宵闇の中に人影の集団を発見した。 フード付きのマントで隠れて顔は見えないが、歩き方から[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('deserting_soldier') )]である[deserting_soldier.GetTitledFirstName]だと分かった。\n\n「[ROOT.Char.GetLadyLord]様」部下の一人が囁く。「脱走です。如何しますか？」"
  martial_authority_special.1501.a:0 "捕まえろ、今すぐにだ！"
  martial_authority_special.1501.a.success:0 "我々は脱走者たちを捕らえる"
  martial_authority_special.1501.a.failure:0 "脱走者たちに逃げられる"

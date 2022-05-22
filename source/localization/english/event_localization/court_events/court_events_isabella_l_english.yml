@@ -74,7 +74,7 @@
  court.4355.c:0 "[caravan_attacker.GetSheHe]は私の命令に関係なく、略奪を続けると感じている。"
  court.4355.c.tt:0 "#F [caravan_attacker.GetSheHe|U]はやります#!"
  court.4400.t:0 "頭を得る"
- court.4400.desc:0 "ローブを着た[head_chasing_monk.GetWomenMen]の一群が私の玉座の間に乱入し、床を激しく捜索して椅子からスカートに至るまですべてを根こそぎにした。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]！」一人が叫ぶ。「我々は、[ROOT.GetCharacter.GetFaith.HighGodName]が[the_headless.GetHerHim]に与えた予言の一部として、誕生時に首を切られた偉大なる聖なる[the_headless.GetWomanMan]、[the_headless.GetTitledFirstNameNoTooltip]の信奉者である。聖人にはよくあることだが[the_headless.GetHerHis]の頭は転がり始めたのだ。我々はそれを追いかけて来たが、それは#EMP 確かに#!丘の上を転がってあなたの[ROOT.GetCharacter.Custom('FortifiedBuilding')]の中に入っていったのだ！」"
+ court.4400.desc:0 "ローブ姿の[head_chasing_monk.GetWomenMen]の一群が玉座の間に乱入すると、熱に浮かされたようにこの部屋を探し回った。椅子からスカートに至るまで家探しする様子は気でも違えたかのようだ。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]よ！」一人が叫ぶ。「我らは、首無しの君[the_headless.GetTitledFirstNameNoTooltip]の信奉者である。[the_headless.GetHerHim]は誕生時に[ROOT.GetCharacter.GetFaith.HighGodName]より賜った予言の一部を元に、首を落とされた偉大にして聖なる[the_headless.GetWomanMan]である。聖像によく起きがちだが[the_headless.GetHerHis]の頭が転がり出してしまったのである。国中を追いかけて来たのであるが、#EMP 確かに#!丘の転がり登ってあなたの[ROOT.GetCharacter.Custom('FortifiedBuilding')]の中に入っていったのである！」"
  court.4400.a:0 "[ROOT.GetCharacter.Custom('FortifiedBuilding')]の探索を許可しよう。"
  court.4400.b:0 "私も探索に参加するぞ！"
  court.4400.c:0 "カルトが私の宮廷を引っ掻き回すのは許さない！"
