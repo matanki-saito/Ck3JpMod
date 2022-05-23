@@ -242,7 +242,7 @@
  hold_court.6180.e:0 "[c_eunuch.GetHerHim]を置き換えてはどうだ！？"
  hold_court.6180.f:0 "根拠のない懸念だ。却下する。"
  hold_court.6190.t:0 "夜の影"
- hold_court.6190.desc:1 "私の玉座に近づいてきたその[6190_local.GetWomanMan]は明らかに平民だ。「我が[ROOT.Char.GetLadyLord]」[6190_local.GetSheHe]は話し始める。「私は[capital.GetNameNoTooltip]の地元の共同体を代表して参りました。」\n\n「ここ数ヶ月、我々の墓地は遺体の消失に悩まされているのです！すべてが掘り返され、何の痕跡も残っていません。最初、我々は野生動物や解しがたい力の仕業かと恐れていたのですが、しかし、あなたの$court_physician_court_position$[physician.GetTitledFirstName]が[physician.GetHerHis]の実験のため死者を運んでいるところを、現行犯で捕まったのです！」\n\n「どうかこの冒涜を止めてください！」"
+ hold_court.6190.desc:1 "玉座へと歩み寄るその[6190_local.GetWomanMan]は明らかに平民であった。「我が[ROOT.Char.GetLadyLord]様」[6190_local.GetSheHe]は話し始める。「私は[capital.GetNameNoTooltip]の地元の皆を代表して参りました」\n\n「ここ数ヶ月、我らは墓地からの遺体消失に悩まされておりました！すべてが掘り返されたのに、何の手掛かりもなく、はじめは、野生動物や解しがたい力の仕業かと震えておりました。しかし、あなた様の$court_physician_court_position$[physician.GetTitledFirstName]が遺体を運び去ろうとする現場を取り押さえたのです。聞けば持ち去った遺体は実験に使うのだとか！」\n\n「どうかこのような冒涜を止めては下さいませんか！」"
  hold_court.6190.a:0 "人体の研究は、悲しいが必要なことだ。"
  hold_court.6190.b:0 "どうして私を呼ばなかったんだ、[physician.GetFirstNameNoTooltip]！？"
  hold_court.6190.c:0 "新鮮な——#EMP 生身の#!——身体は、より良い被験者となる…"

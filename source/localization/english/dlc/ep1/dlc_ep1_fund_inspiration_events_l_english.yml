@@ -303,7 +303,7 @@
  fund_inspiration.2041.b:0 "「[rival.GetHerHim]を[ROOT.Char.Custom('FortifiedBuilding')]から放り出せ！」"
  fund_inspiration.2041.c:0 "私のやり方で処理しよう…"
  fund_inspiration.2050.t:0 "$fund_inspiration.title$ 尊敬される意見"
- fund_inspiration.2050.desc:0 "我が[inspiration_owner.Custom('GetInspirationOwnerType')]、[inspiration_owner.GetTitledFirstName]は私に[inspiration_owner.GetHerHis]の最新の進捗について報告する。[inspiration_owner.Custom('GetInspirationTypeTool')]と[inspiration_owner.Custom('GetInspirationTypeStation')]の限界について物憂げな説明を聞いている間、私の頭の中には、[inspiration_owner.Custom('GetInspirationTypeObject')]に関する大胆なアイデアが渦巻いている…\n\n製作中のものは#EMP 私の#!得意分野ではないかもしれないが、だからといって、私は自分の金の使い方に口出しできないわけではない！"
+ fund_inspiration.2050.desc:0 "我が[inspiration_owner.Custom('GetInspirationOwnerType')]の[inspiration_owner.GetTitledFirstName]から最新の進捗報告を受ける。[inspiration_owner.Custom('GetInspirationTypeTool')]と[inspiration_owner.Custom('GetInspirationTypeStation')]の限界について物憂げな説明を聞いている間、私の頭の中には、[inspiration_owner.Custom('GetInspirationTypeObject')]に関する大胆なアイデアが渦巻いている…\n\n製作中のものは#EMP 私の#!得意分野ではないかもしれないが、だからといって、自分の金の使い方に口出しできないわけではない！"
  fund_inspiration.2050.a:0 "いくつか提案があるのだが…"
  fund_inspiration.2050.b:0 "私の経歴は、独特の洞察を与えてくれる。"
  fund_inspiration.2050.c:0 "#EMP この#!切り口で考えてみたことはあるか？"

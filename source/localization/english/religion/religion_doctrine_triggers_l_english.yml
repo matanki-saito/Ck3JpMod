@@ -23,7 +23,7 @@
  INCOMPATIBLE_WITH_ALL_CRIMINAL_DOCTRINES:0 "特定の行為を[criminal|E]とみなす全ての[doctrines|E]と両立しない"
  ADULTERY_MUST_BE_FULLY_ACCEPTED:0 "不倫を[shunned|E]や[criminal|E]にする[doctrine|E]とは両立しない"
  HAS_DOCTRINE:0 "[FAITH_DOCTRINE.GetName(FAITH.Self)]の教義を持っている"
- NOT_HAS_DOCTRINE:0 "[FAITH_DOCTRINE.GetName(FAITH.Self)]の教義を持って#bold いない#!"
+ NOT_HAS_DOCTRINE:0 "[FAITH_DOCTRINE.GetName(FAITH.Self)]された教義を有して#bold いない#!"
  I_HAVE_DOCTRINE:1 "あなたの[faith|E]が[FAITH_DOCTRINE.GetName(FAITH.Self)]の教義を持っている"
  NOT_I_HAVE_DOCTRINE:1 "あなたの[faith|E]が[FAITH_DOCTRINE.GetName(FAITH.Self)]の教義を持って#bold いない#!"
  THEY_HAS_DOCTRINE:0 "[FAITH.GetName]が[FAITH_DOCTRINE.GetName(FAITH.Self)]の教義を持っている"

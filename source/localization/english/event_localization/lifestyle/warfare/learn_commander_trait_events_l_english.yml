@@ -41,7 +41,7 @@
  learn_commander_trait_final_test_failure_tt:0 "#F まだ十分に学べていない#!"
  learn_commander_trait.13.desc:0 "騎乗の[teacher.GetTitledFirstName]が近づいてくると「見事です！」と大音声。「敵役」を務めた徴募兵らも我が部隊の効率性に畏敬の念を示した。\n\n私が[ROOT.Char.Custom('CommanderTraitBeingTaught')]というものが何であるかを理解したことに疑いの余地はないようだ。"
  learn_commander_trait.13.a:0 "たくさんのことを学べた。"
- learn_commander_trait.14.desc:0 "「もしかしたら、あなたが学ぶべきことがもう少しあるかもしれません...」と[teacher.GetTitledFirstName]は手を伸ばして、泥の上から私を助けてくれた。\n\n我が軍の成績はあまりよくなかった。[teacher.GetSheHe]が正しいかもしれないことを白状しなければならない。"
+ learn_commander_trait.14.desc:0 "「もしかしたらもう少し、学ぶべきことがあるやもしれませんね...」と[teacher.GetTitledFirstName]は手を伸ばして、泥濘から救い上げてくれた。\n\n我が軍の傑出度合いを見せられたとは言えない。[teacher.GetSheHe]が正しいかもしれないと白状しなければならない。"
  learn_commander_trait.14.a:0 "もう一度やり方を教えてくれ。"
  learn_commander_trait.14.a.tt:1 "「もう一度やってみよう…」"
  learn_commander_trait.14.b:0 "これは難しすぎる！"
