@@ -1,6 +1,6 @@
 ﻿l_english:
  stress_threshold_special.1001.t:0 "精神崩壊: 激しい悲しみ"
- stress_threshold_special.1001.desc_intro_standard:0 "人生は決して楽なものではないが、私の[ROOT.Char.Custom2('RelationToMeShort', deceased_character)]である[deceased_character.GetFirstName]を失ったことが、私を隅へと追い詰めてしまった気がする。\n\n"
+ stress_threshold_special.1001.desc_intro_standard:0 "人生とは決して楽なものではない。しかし、我が[ROOT.Char.Custom2('RelationToMeShort', deceased_character)][deceased_character.GetFirstName]の喪失によって、私は人生の崖っぷちへと追い込まれてしまった。そんな気がしている。\n\n"
  stress_threshold_special.1001.desc_intro_lover:0 "私の人生から光は消えてしまった。\n\n私の[deceased_character.Custom('LoverPetName')][deceased_character.GetFirstName]の死と共に、突然、人生はより暗いものへと変わった。"
  stress_threshold_special.1001.desc_intro_friend:0 "友人である[deceased_character.GetFirstName]はいつも私のそばにいてくれた。 [deceased_character.GetHerHis]の死を簡単受け入れられるとは思っていなかったが、こんなに大変だとは 想像もしていなかった。"
  stress_threshold_special.1001.desc_spouse:0 "[deceased_character.GetSheHe|U]は私の人生のパートナーであり、多くの試練や試練を乗り越える手助けをしてくれた。意見の相違はあったかもしれないが、[deceased_character.GetHerHim]のいない人生に直面するのは…大変なことだと感じている。\n\n[deceased_character.GetHerHim]なしでどうやってやっていけばいいだろう？"

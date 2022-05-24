@@ -33,7 +33,7 @@
  court.1020.b:0 "[fugitive.GetFirstNameNoTooltip]は私の客人であり—私の保護下にある。"
  court.1020.c:0 "[fugitive.GetFirstNameNoTooltip]？[fugitive.GetFirstNameNoTooltip]などという人物はここにはいないが……"
  court.1030.t:0 "貧相なマナー"
- court.1030.desc:0 "#EMP ~げーっぷ~#!\n\n大きな音が食堂に響き渡ると、すべての会話が突然途絶える。[chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[chaplain.GetHerHis]の腹をさすりにっこりする。「あぁ～、入れるより出すほうがいいって父はいつも言ってたな！」\n\n廷臣たちは信じられないような視線を送っていたが、[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が私を見て、「我が[ROOT.Char.GetTitleAsNameNoTooltip]、あれは全くもってこの場に相応しくありませんでしたな！そう思いませんか？」"
+ court.1030.desc:0 "#EMP ~げーっぷ~#!\n\n大きな音が食堂に響き渡ると、不意を打たれたようにすべての会話が途絶える。[chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は腹をさすりにっこりする。「あぁ～、入れるより出すほうがいいって父はいつも言ってたな！」\n\n廷臣たちの視線が信じられないものでも見るようにがらりと変わる中、[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が私へ向くと聞えよがしに言い放った。「我が[ROOT.Char.GetTitleAsNameNoTooltip]、あれは全くもってこの場に相応しくありませんでしたな！そう思いませんか？」"
  court.1030.a:0 "[chaplain.GetFirstNameNoTooltip]は[chaplain.GetFaith.HighGodName]に仕える[chaplain.GetWomanMan]だ。[chaplain.GetHerHim]には然るべき扱いをしなければならない。"
  court.1030.b:0 "[chaplain.Custom('GetActualBishopTitle')]だろうとなかろうと、[chaplain.GetFirstNameNoTooltip]は正しいマナーを#EMP 学ぶことになる#!…"
  court.1030.b.flavor:0 "…さもないと[chaplain.GetSheHe]は豚小屋で豚と一緒に食事をすることになるぞ！"

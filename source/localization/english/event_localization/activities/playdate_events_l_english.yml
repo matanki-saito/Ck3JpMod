@@ -159,7 +159,7 @@
  playdate.4001.b:0 "私は[participant.GetFirstNameNoTooltip]に[participant.GetCulture.GetLanguage.GetName]を教えてもらえばいいのかも？"
  playdate.4001.c:0 "べー、なぜ私が悩まなきゃいけないんだ？楽しみたいだけなのに！"
  playdate.4000.t:0 "泣き濡れる"
- playdate.4000.desc:0 "一人の廷臣が、まるでその場だけ色褪せてしまったかの様子で、一つの小さな黒い木箱と悲報を手に現れた。\n\n我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('drowned_participant'))]の[drowned_participant.GetFirstNameNoTooltip]が、[host.GetTitledFirstName]と興じる最中に溺れ、命を落としたと。\n\n涙があふれ続ける両の目で、なんとか、その木箱を覗き込み――だが、一目見て理解してしまった。その亡骸が、間違いなく我が愛しい人だと。"
+ playdate.4000.desc:0 "一人の廷臣が、まるでその場だけ色褪せてしまったかの様子で、一つの小さな黒い木箱と悲報を携えて、現れた。\n\n我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('drowned_participant'))]の[drowned_participant.GetFirstNameNoTooltip]が、[host.GetTitledFirstName]と興じる最中に溺れ、命を落としたと。\n\n涙があふれ続ける両の目で、なんとかその木箱を覗き込み――だが一目見て理解してしまった。その亡骸が、間違いなく我が愛しい人だと。"
  playdate.4000.a:0 "[ROOT.Char.GetFaith.PositiveAfterLife]でも変わらず楽しく遊んでいてほしい。"
  playdate.4000.b:0 "無邪気さとは、死に至る毒である。"
  playdate.4000.c:0 "[host.GetTitledFirstNameNoTooltip]に同じ運命が待ち受けんことを。"
