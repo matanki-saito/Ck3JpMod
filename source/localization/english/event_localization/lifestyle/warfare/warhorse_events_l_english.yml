@@ -79,7 +79,7 @@
  warhorse.0003.balius:0 "バリオス——アキレウスの持つ馬の一つ！"
  warhorse.0003.xanthos:0 "クサントス——アキレウスのもう一頭の馬のほうが合っている！"
  warhorse.0003.boreas:0 "ボレアス——古代ギリシャの北風の神！"
- warhorse.0002.f:0 "Veillantif — like Roland's horse!"
+ warhorse.0002.f:0 "ヴェイヤンティフ——ローランの馬の如く！"
  warhorse.0002.g:0 "インキタトゥス——皇帝カリグラのお気に入りだ！"
  warhorse.1001.f:0 "That's what I pay a $master_of_horse_court_position$ for!"
  warhorse.1001.f.tt:0 "あなたの$master_of_horse_court_position$は[ROOT.Char.Custom('HorseStoryMareStallion')]の調教を開始します。"

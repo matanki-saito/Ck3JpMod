@@ -95,7 +95,7 @@
  stress_trait_coping_decisions.7503.d:0 "普段の訓練の仕上げに専念する。"
  stress_trait_coping_decisions.7503.success:0 "あなたは勝利を収める！"
  stress_trait_coping_decisions.7503.failure:0 "[random_knight.GetTitledFirstNameNoTooltip]は挑戦に勝利する"
- stress_trait_coping_decisions.7504.desc:0 "一人で運動していると、やる気を持続させるのが難しいことがある。\n\n仲間がいれば、嫌なことがあった日もやる気が上がるだけでなく、自分の進歩を確認するときに比較できる相手になることができる。\n\nどんな仲間が一番自分に合っているのか？私が尊敬できる者、油断できない者、あるいは私が決して望んでいないことを知っている者か？"
+ stress_trait_coping_decisions.7504.desc:0 "一人で運動していると、やる気を持続させるのが難しいことがある。\n\n仲間を見つけられれば、嫌なことがあった日でもやる気が出るだろう。それだけでなく、自分の進歩を確認するときに比較の物差しにもなるはずだ。\n\nどんな仲間が一番自分に合っているのか？尊敬できる者か、油断できない者か、あるいは決して好んで望むことのない、私が知る誰かか？"
  stress_trait_coping_decisions.7504.a:0 "羨ましい腕前を持つ者と一緒に練習するべきだ。[ideal_character.GetFirstNameNoTooltip]のように！"
  stress_trait_coping_decisions.7504.b:0 "[similar_character.GetFirstNameNoTooltip]は体格が似ていて、私のやり方を真似ることができる。"
  stress_trait_coping_decisions.7504.c:0 "[not_ideal_character.GetFirstNameNoTooltip]が努力しているのを見ると、やる気が出てくる。"

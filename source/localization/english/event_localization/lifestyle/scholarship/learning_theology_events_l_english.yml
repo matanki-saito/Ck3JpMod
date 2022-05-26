@@ -8,7 +8,7 @@
  learning_theology.1301.b:0 "ふむ、面白そうな本だな…"
  learning_theology.1301.c:0 "それは#EMP お前の#!問題に聞こえるのだが？"
  learning_theology.2020.t:0 "[ROOT.Char.GetFaith.ReligiousText|U]の力"
- learning_theology.2020.desc:0 "[court_chaplain.GetCouncilTitle|U][court_chaplain.GetFirstName]は[ROOT.Char.GetFaith.ReligiousText]の聖なる美徳についての一節をよく引用している。私も自分で一節を引用し、注意を払っていたことを証明する必要がある——できれば[court_chaplain.GetHerHis]の性格に合ったものが良いだろう。\n\n私は…"
+ learning_theology.2020.desc:0 "[court_chaplain.GetCouncilTitle|U][court_chaplain.GetFirstName]は[ROOT.Char.GetFaith.ReligiousText]の聖なる美徳の節からいくつも引用し披露している。私も自分で一節披露して、軽視していないと示したいところだ——できれば[court_chaplain.GetHerHis]の性格を考慮したものが良いだろう。\n\n私は…"
  learning_theology.2020.brave:0 "勇気に関する一節を暗唱しよう…"
  learning_theology.2020.just:0 "公正さに関する一節を暗唱しよう…"
  learning_theology.2020.temperate:0 "節制に関する一節を暗唱しよう…"

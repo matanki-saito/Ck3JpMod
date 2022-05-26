@@ -141,7 +141,7 @@
  death_bear:0 "熊により断片に引き裂かれた"
  death_wolverine:0 "クズリに食い刻まれた"
  death_lynx:0 "オオヤマネコに食い殺された"
- death_moose:0 "ヘラジカに大量虐殺された"
+ death_moose:0 "ムースに惨たらしく殺された"
  death_ritually_hung_then_eaten:0 "儀式の中で絞殺され、食べられた"
  death_ritually_hung_then_eaten_killer:0 "[TARGET_CHARACTER.GetUINamePossessive]信仰の名の下に、儀式において絞殺され、食べられた"
  death_ritually_hung:0 "儀式の中で絞殺された"
