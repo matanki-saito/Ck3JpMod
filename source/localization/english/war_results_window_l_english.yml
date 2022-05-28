@@ -27,7 +27,7 @@
  ATTACKER_INVALID:0 "$WAR_OVER_GREETING$もはやこの戦争を続ける理由は存在しない。"
  ATTACKER_WHITE_PEACE:0 "$WAR_OVER_GREETING$汝からの和平の提案に応じる。ひとまずこの争いは終わりとしよう。"
  ATTACKER_LOSS:0 "$WAR_OVER_GREETING$貴殿の向こう見ずな戦争は、最初から絶望的であった。貴殿の愚行を終わりにし、そちらの降伏を受け入れよう。"
- DEFENDER_WIN:0 "$WAR_OVER_GREETING$私が敗北したことは承知だ。貴殿の要求を飲む以外に選択肢はないようだ。"
+ DEFENDER_WIN:0 "$WAR_OVER_GREETING$負けを認めよう。貴殿の要求を飲む以外に道はないようだな。"
  DEFENDER_INVALID:0 "$ATTACKER_INVALID$"
  DEFENDER_WHITE_PEACE:0 "$ATTACKER_WHITE_PEACE$"
  DEFENDER_LOSS:0 "$WAR_OVER_GREETING$この戦争は長引きすぎた。終わりにできることを嬉しく思う。そちらの降伏を受け入れよう。"
