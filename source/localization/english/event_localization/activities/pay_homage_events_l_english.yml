@@ -21,7 +21,7 @@
  pay_homage.0101.desc:0 "玉座にて訪問客の到着をじっと待ち構えていたところ、ほどなくして先ぶれがあり、[homage_vassal.GetTitledFirstName]が案内されやってきた。\n\n"
  pay_homage.0101.desc.submission:0 "[homage_vassal.GetSheHe|U]は[homage_liege.GetPrimaryTitle.GetTierAsNameNoTooltip]の家臣として忠実に仕えるという[homage_vassal.GetHerHis]の誓い以外は何も提供せず、跪き、敬意を表している。\n\n"
  pay_homage.0101.desc.gold:0 "[homage_vassal.GetSheHe|U]が跪くと、幾人かの従者が硬貨や貴重品などの贈り物を広げ、服従と敬意を表した。誓いが立てられ、書記が[homage_liege.GetPrimaryTitle.GetNameNoTooltip]への奉仕の請願を記録する。\n\n"
- pay_homage.0101.desc.hook:0 "[homage_vassal.GetSheHe|U] kneels in deference, and, among [homage_vassal.GetHerHis] other oaths to serve [homage_liege.GetPrimaryTitle.GetNameNoTooltip], puts [homage_vassal.GetHerselfHimself] at my disposal and in my debt.\n\n"
+ pay_homage.0101.desc.hook:0 "[homage_vassal.GetSheHe|U]は跪き、[homage_liege.GetPrimaryTitle.GetNameNoTooltip]に仕えるという他の誓いの中で、自身を私の自由に、私への借りの中に置く。\n\n"
  pay_homage.0101.desc.contract:0 "[homage_vassal.GetSheHe|U]は跪き、[homage_liege.GetPrimaryTitle.GetNameNoTooltip]に仕えるという他の誓いの中で、[homage_liege.GetPrimaryTitle.GetTierAsNameNoTooltip]の封建領主として私に大きな貢献を申し出ている。\n\n"
  pay_homage.0101.desc.language:2 "[homage_vassal.GetTitleAsNameNoTooltip]は明らかに[homage_liege.GetCourtLanguage.GetNameNoTooltip]の誓いを練習して来たのだろうが、[homage_liege.GetSheHe]はいくつかの節の発音を誤って、その意味をユーモアたっぷりに変え、廷臣たちは窮屈そうにくすくす笑いをしている。"
  pay_homage.0101.desc.clumsy:0 "[homage_vassal.GetTitledFirstNameNoTooltip]が立ち上がると、ぎこちなくよろめく。[homage_vassal.GetSheHe]が恥ずかしさで頬を紅潮させながら私の足元に倒れこむと、宮廷が一斉に息をのんだ。"
