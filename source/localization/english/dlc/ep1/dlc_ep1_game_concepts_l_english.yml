@@ -83,4 +83,4 @@
  game_concept_repair:0 "修理"
  game_concept_repair_artifact_desc:0 "[artifact|E]の[durability|E]が低くなっても、修理という選択肢があります。\n\n宝物を修理するためには、[GetCourtPositionType('antiquarian_court_position').GetName()]を雇い、[gold|E]を支払う必要があります。[SelectLocalization( HasDlcFeature( 'court_artifacts' ), 'game_concept_repair_artifact_desc_DLC', '' )]"
  game_concept_repair_artifact_desc_DLC:0 "\n\nあるいは、宝物を[reforge|E]するという選択肢もあります。"
- game_concept_court_grandeur_expectation: "宮廷の威光の期待値"
+ game_concept_court_grandeur_expectation:0 "宮廷の威光の期待値"

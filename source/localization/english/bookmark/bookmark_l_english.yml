@@ -38,3 +38,6 @@
  BOOKMARK_RELATED_CHARACTER:0 "[BookmarkCharacterGUI.GetCharacter.GetName] #weak [BookmarkCharacterGUI.GetCharacter.GetRelation]#!"
  BOOKMARK_IRONMAN_ENABLED:1 "鉄人モード"
  BOOKMARK_IRONMAN_DISABLED:1 "鉄人モード"
+ BOOKMARK_RELATION_LIEGE:0 "(Liege)"
+ BOOKMARK_HOUSE_TOOLTIP:0 "#T [house|E] [BookmarkCharacter.GetDynastyHouseTemplate.GetName]#!\n#weak [BookmarkCharacter.GetDynastyHouseTemplate.GetMotto]#!"
+ BOOKMARK_DYNASTY_OR_HOUSE_TOOLTIP:0 "[SelectLocalization( BookmarkCharacter.HasDynastyHouse, 'BOOKMARK_HOUSE_TOOLTIP', 'BOOKMARK_DYNASTY_TOOLTIP' )]"

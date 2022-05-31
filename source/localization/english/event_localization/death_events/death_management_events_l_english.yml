@@ -1,5 +1,5 @@
 ﻿l_english:
- death_management.1000.killed.tt:0 "我が[THIS.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))]の[dead_character.GetTitledFirstName]は[killer.GetTitledFirstName]によって殺された。"
+ death_management.1000.killed.tt:1 "[dead_character.GetTitledFirstName] was killed by [killer.GetTitledFirstName]."
  death_management.1000.t:0 "死が二人を分かつまで"
  death_management.1000.murder:0 "[dead_character.GetTitledFirstName]は殺害された！\n\n"
  death_management.1000.like:0 "どうすればこの心の痛みに耐えることができるのだろうか？不可能だ！まだ、私はここにいる。あなたが動かなくなった間にも、私の心臓は脈打っている。ああ、[dead_character.GetFirstName]、私の[dead_character.Custom('LoverPetName')]。あなたを失った人生は違ったものになってしまうだろう。"
@@ -244,3 +244,4 @@
  death_management.9998.a.tt:1 "粛々と準備に取り掛かろう。"
  death_management.1007.same_or_higher_tier:0 "[dead_character.GetHerHis]の治世が我々の国を一つにできたかどうかは知る由もない。"
  death_management.4008.desc.like:0 "婚約者の[dead_character.GetTitledFirstName]が[house_arrest_holder.GetTitledFirstName]の虜となって亡くなったと知らされたとき、[dead_character.GetTitledFirstName]との生活の夢はすべて崩れ落ちた。今となっては、私が想像していたことは何一つ叶わないものとなった。私たちの希望と夢も築き上げるはずであった家族も…全てが消えてしまったのだ。"
+ death_management.1005.desc.ritual_best_friend:0 "[dead_character.GetFirstName] is dead! My best and truest friend cut down, taken by the cold embrace of [ROOT.Char.GetFaith.DeathDeityName] before [dead_character.GetHerHis] time. I weep, I wail, I tear at my hair and clothing, but I know I'll never see [dead_character.GetHerHim] again.\n\nHow... how can I can go on now?\n\n[dead_character.GetFirstNameNoTooltip], dear, sweet [dead_character.GetFirstNameNoTooltip] would want me to, and I have to hope that [dead_character.GetHerHis] memory can sustain me through these dark times, but life seems like a candle without a flame without [dead_character.GetHerHim]."

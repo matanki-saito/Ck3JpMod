@@ -299,3 +299,6 @@
  RULER_DESIGNER_TOGGLE_SHOW_ACCESSORIES_TOOLTIP:0 "[SelectLocalization( RulerDesignerWindow.ShouldShowAcesssories, 'RULER_DESIGNER_TOGGLE_SHOW_ACCESSORIES_TOOLTIP_SHOW', 'RULER_DESIGNER_TOGGLE_SHOW_ACCESSORIES_TOOLTIP_HIDE' )]"
  chin_def:0 "はっきりした顎"
  chin_def_neg:0 "滑らかな顎"
+ eye_socket_color_01:0 "Dark Socket Type 1"
+ eye_socket_color_02:0 "Dark Socket Type 2"
+ eye_socket_color_03:0 "Dark Socket Type 3"

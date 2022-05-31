@@ -76,3 +76,8 @@
  western_clothing_gfx:0 "大陸ヨーロッパ"
  western_coa_gfx:0 "大陸ヨーロッパ"
  western_unit_gfx:0 "大陸ヨーロッパ"
+ iberian_building_gfx:0 "Iberian"
+ iberian_christian_unit_gfx:0 "Iberian"
+ iberian_muslim_unit_gfx:0 "Andalusian"
+ iberian_christian_clothing_gfx:0 "Iberian"
+ iberian_muslim_clothing_gfx:0 "Andalusian"

@@ -31,3 +31,6 @@
  promote_culture_modifier:0 "称揚の文化"
  divide_and_conquer_modifier:0 "宗教的プロパガンダ"
  divide_and_conquer_modifier_desc:0 "この伯爵領の人々は宗教的なプロパガンダを受け、主君の旗のもとに結集している。"
+ small_investment_in_revolt_modifier:0 "Peasant Outcry"
+ medium_investment_in_revolt_modifier:0 "Peasant Outrage"
+ high_investment_in_revolt_modifier:0 "Peasant Riots"

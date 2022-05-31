@@ -112,7 +112,7 @@
  TV_TIER_INFO:1 "[Title.GetRankConcept]の[title|E]"
  TV_HOLY_ORDER_LABEL:1 "[FAITH.GetReligion.GetAdjective]の[holy_order|E]"
  TV_MERCENARY_COMPANY_LABEL:0 "[mercenary_company|E]"
- TITLE_VIEW_HEAD_OF_FAITH:0 "[FAITH.GetAdjective]の[head_of_faith|E]"
+ TITLE_VIEW_HEAD_OF_FAITH:0 "$ENTRIES$ [head_of_faith|E]"
  TV_NO_CLAIM:1 "#weak この称号には[claim|E]がありません #!"
  TV_NOT_CREATED:0 "#weak まだ称号が作成されていません#!"
  TV_MY_TITLE:1 "#weak あなたの称号#!"
@@ -177,3 +177,4 @@
  GRANT_TO_LOCAL_CULTURE_NOBLE_ACCEPTANCE:0 "文化の需要が増加します"
  CREATE_TITLE_MIN_COST:0 "最小コスト"
  grant_title_info_text:0 "もしくは、領内から授与対象を選んでください…"
+ TITLE_VIEW_HEAD_OF_FAITH_ENTRY:0 "[FAITH.GetAdjective]"

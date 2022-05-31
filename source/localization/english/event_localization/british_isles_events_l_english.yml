@@ -70,7 +70,7 @@
  negotiate_the_danelaw_accept_effect.de_jure_holdings_recognised.tt:0 "[ntd_nord.GetTitledFirstName]が少なくとも一つの[county|E]を所有しているすべての$k_england_adj$の[duchies|E]は$k_danelaw_article$$k_danelaw$の[de_jure|E]の一部となります"
  negotiate_the_danelaw_accept_effect.independent_holdings_recognised.tt:0 "$north_germanic_group$[culture|E]または$germanic_religion$[faith|E]の[ruler|E]であるすべての独立した$k_england_adj$の[duchies|E]は$k_danelaw_article$$k_danelaw$の[de_jure|E]の一部となります"
  negotiate_the_danelaw_accept_effect.riled_independents_list:0 "$k_england$内のすべての独立した統治者"
- TRUCE_SIGNED_PARTITION:0 "王国分割の一環としての停戦が成立した\n\n"
+ TRUCE_SIGNED_PARTITION:1 "\nTruce signed as part of partitioning the kingdom"
  resolve_danelaw_partition_effect.adjust_de_jures.tt:0 "$k_danelaw_article$$k_danelaw$の一部であるすべての[de_jure|E]は$k_england$に[de_jure_drift_drifted|E]します"
  resolve_danelaw_partition_effect.coa_changed.tt:0 "$k_england$は$k_danelaw_article$$k_danelaw$の紋章を使用します"
  resolve_danelaw_partition_effect.all_claimants:0 "すべての請求者"

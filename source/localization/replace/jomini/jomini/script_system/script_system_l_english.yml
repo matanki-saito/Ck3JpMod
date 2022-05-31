@@ -53,3 +53,7 @@
  JOMINI_ANY_TRIGGER_PERCENT_less_or_equal:0 "$PERCENT|0%V$以下"
  JOMINI_ANY_TRIGGER_PERCENT_equal:0 "$PERCENT|0%V$と等しい"
  JOMINI_ANY_TRIGGER_PERCENT_not_equal:0 "Any percentage but $PERCENT|0%V$"
+ EFFECT_LIST_BULLET:0 "• "
+ TRIGGER_AND:0 "All of these:"
+ TRIGGER_OR:0 "At least one of these:"
+ SUPPRESS:0 ""

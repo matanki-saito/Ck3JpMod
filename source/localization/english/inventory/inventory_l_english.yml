@@ -224,3 +224,7 @@
  ARTIFACT_EFFECT:0 "[SelectLocalization( Artifact.HasCanBenefit, 'ARTIFACT_EFFECT_HAS_CAN_BENEFIT', '' )][Artifact.GetModifierEffects]"
  ARTIFACT_EFFECT_HAS_CAN_BENEFIT:0 "#S #TOOLTIP:ARTIFACT_EFFECT_REQUIREMENT_TT #L 要件#!を満たしている場合#!:#!\n"
  ARTIFACT_EFFECT_REQUIREMENT_TT:0 "[Artifact.GetCanBenefitPlayerDesc]"
+ miscellaneous_when_not_court:0 "$trinket$"
+ artifact_miscellaneous_when_not_court:0 "$miscellaneous_when_not_court$"
+ artifact_scientific_apparatus:0 "Scientific Apparatus"
+ artifact_jug:0 "Jug"

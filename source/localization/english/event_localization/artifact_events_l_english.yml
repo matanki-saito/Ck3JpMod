@@ -191,3 +191,4 @@
  relic_name_health:0 "[ROOT.Char.GetFaith.HealthGodName]"
  relic_name_symbol:0 "[ROOT.Char.GetFaith.ReligiousSymbol|U]"
  relic_name_text:0 "[ROOT.Char.GetFaith.ReligiousText|U]"
+ artifact.1001.a.tt.free:0 "#instruction This [artifact|E] can be converted for free!#!"

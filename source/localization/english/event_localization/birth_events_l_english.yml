@@ -190,3 +190,7 @@
  birth.9004.a:0 "ああ、#EMP もっと#!良い名前がいい！"
  birth.9004.b:0 "よく考えると、[ROOT.Char.GetFirstNameNoTooltip]は良い名前だ……"
  birth.9004.b.tt:0 "あなたは以前の名前のままでいます。"
+ birth.1006.bastard_explanation:0 "You learned of [child.GetFirstName]'s birth, the mother, [mother.GetShortUIName] gains the [secret.GetName] Secret"
+ birth.9004.desc:0 "[child.GetFirstNameNoTooltip].\n\nInitially I was fond of the name, but now it seems strange to my ears. What will [child.GetSheHe] think of [child.GetHerHis] name once grown up?\n\nMaybe I should change it to something better?"
+ birth.9004.b.other:0 "Actually [child.GetFirstNameNoTooltip] is pretty good, after all..."
+ birth.9004.b.tt.other:0 "[child.GetFirstNameNoTooltip] keeps [child.GetHerHis] old name"

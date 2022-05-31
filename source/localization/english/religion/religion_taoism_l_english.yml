@@ -1,8 +1,6 @@
 ﻿l_english:
  taoism_religion:0 "道教"
  taoism_religion_adj:0 "道教"
- taoism_religion_adjerent:0 "道教徒"
- taoism_religion_adjerent_plural:0 "道教徒"
  taoism_religion_desc:0 "道(タオ)は万物の根源、天地自然であり、宇宙を貫く原理原則である。道(タオ)に則して生きることで幸せを享受し、死後も不滅の精神として道(タオ)の中で生き続ける。"
  taoism_high_god_name:0 "道(タオ)"
  taoism_high_god_name_possessive:0 "道(タオ)"
@@ -87,3 +85,5 @@
  taoism_negative_afterlife_2:0 "$taoism_divine_realm$"
  taoism_negative_afterlife_3:0 "$taoism_divine_realm$"
  witchgodname_taoism_daode_tianzun_possessive:0 "道徳天尊"
+ taoism_religion_adherent:0 "Taoist"
+ taoism_religion_adherent_plural:0 "Taoists"

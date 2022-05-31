@@ -853,3 +853,8 @@
  learn_language_schemes_add:1 "最大[GetScheme('learn_language').GetTypeName][schemes|E]"
  max_learn_language_schemes_add:0 "$learn_language_schemes_add$"
  world_innovation_elephants_development_growth_factor:0 "[GetGeographicalRegion('world_innovation_elephants').GetName][region|E]での$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$"
+ holy_order_government_levy_contribution_add:0 "[holy_order|E] [vassal|E] [levy|E] [modifier_contribution|E]"
+ farmlands_development_growth:0 "$farmlands_development_growth_factor$"
+ MOD_MONTHLY_COUNTY_CONTROL_GROWTH_AT_WAR:0 "[control|E] Growth when at [war|E]"
+ MOD_MONTHLY_COUNTY_CONTROL_GROWTH_FACTOR_AT_WAR:0 "[control|E] Growth when at [war|E]"
+ befriend_scheme_power_add:0 "[GetScheme('befriend').GetTypeName] [scheme_power|E]"

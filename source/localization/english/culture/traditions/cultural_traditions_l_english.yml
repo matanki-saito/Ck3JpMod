@@ -996,3 +996,7 @@
  culture_tradition_events.0141.b.tt.success:0 "You illuminate [mendicant_mystic.GetFirstNameNoTooltip]"
  culture_tradition_events.0141.b.tt.failure:0 "You remain at loggerheads"
  culture_tradition_events.0141.c:0 "Your [mendicant_mystic.GetFaith.HighGodName]! How many levies has [mendicant_mystic.GetFaith.HighGodNameSheHe|U] got?"
+ not_bellicose_or_courtly_desc:0 "The [culture|E] does not have the $ethos_bellicose_name$ or $ethos_courtly_name$ [ethos|E]"
+ not_egalitarian_or_courtly_desc:0 "The [culture|E] does not have the $ethos_egalitarian_name$ or $ethos_courtly_name$ [ethos|E]"
+ lack_iberian_heritage_or_language_penalty_desc:0 "The [culture|E] lacks $heritage_iberian_name$ [heritage|E] #EMP and#! the [culture_head|E] does not speak the $language_iberian_name$ [language|E]"
+ lack_martial_learning_or_chess_board_penalty_desc:0 "You have neither at least [EmptyScope.ScriptValue('very_high_skill_rating')|0] [martial|E], at least [EmptyScope.ScriptValue('very_high_skill_rating')|0] [learning|E], nor an [artifact|E] that would let you play [board_games|E]"
