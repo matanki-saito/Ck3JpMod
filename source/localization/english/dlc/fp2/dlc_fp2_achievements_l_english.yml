@@ -19,5 +19,5 @@
  ACHIEVEMENT_DESC_fp2_iberian_compromise:1 "End the [iberian_struggle|E] through compromise."
  ACHIEVEMENT_fp2_holiday_in_iberia:0 "Holidaying in Iberia"
  ACHIEVEMENT_DESC_fp2_holiday_in_iberia:0 "Start as an [struggle_uninvolved|E] character, become [struggle_involved|E] and end the Iberian [struggle|E]."
- ACHIEVEMENT_fp2_el_cid_achievement:0 "Legacy of The Campeadores"
+ ACHIEVEMENT_fp2_el_cid_achievement:0 "カンペアドールの遺産"
  ACHIEVEMENT_DESC_fp2_el_cid_achievement:1 "Create and rule $k_valencia$ as an heir to El Cid. $rd_character_blocked_from_achievement$"
