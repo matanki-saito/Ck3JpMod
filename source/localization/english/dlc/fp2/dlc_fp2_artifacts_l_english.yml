@@ -1,5 +1,5 @@
 ﻿l_english:
- fp2_chalice_dona_urraca:0 "Chalice of Dona Urraca"
+ fp2_chalice_dona_urraca:0 "ドニャ・ウラカの聖杯"
  fp2_chalice_dona_urraca_desc:0 "A ritual chalice carved from deepest onyx and encrusted with jewels and gold latticework. Commissioned by [owner.GetTitledFirstName] to honor the Church."
  fp2_santiago_aquamanile:0 "(Former) $fp2_santiago_bells$"
  fp2_santiago_aquamanile_desc:0 "[reforger.GetTitledFirstName|U] forged these jugs from the molten slag of the $fp2_santiago_bells$. Though now used to ritually cleanse their owner's hands, their mere existence confirms the primacy of Islam over Christianity."

@@ -1,5 +1,5 @@
 ﻿l_english:
- board_games.0000.t:0 "The Beautiful Game: [SCOPE.Custom('BG_GameType')|U]"
+ board_games.0000.t:0 "素晴らしいゲーム: [SCOPE.Custom('BG_GameType')|U]"
  board_games.0001.t:0 "$board_games.0000.t$"
  board_games.0001.desc.opponent_winning.diplomacy.low:0 "\"You know,\" muses my opponent, \"I may not be much of a talker, but I'm alarmingly good at [SCOPE.Custom('BG_GameType')].\""
  board_games.0001.desc.opponent_winning.diplomacy.medium:0 "\"Ahhhh, if only public speaking was as easy as beating you at [SCOPE.Custom('BG_GameType')],\" remarks my opponent."

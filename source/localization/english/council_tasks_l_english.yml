@@ -310,7 +310,7 @@
  spouse_task_intrigue_good_unskilled_notification_tooltip:0 "配偶者の策略能力は[councillor.Custom('intrigue_skill_level')]ですが、良事が起きています。"
  spouse_task_intrigue_good_skilled_notification_tooltip:0 "配偶者の策略能力が[councillor.Custom('intrigue_skill_level')]なので、僥倖が導かれています。"
  spouse_task_learning_good_unskilled_notification_tooltip:0 "配偶者の学識能力は[councillor.Custom('learning_skill_level')]ですが、良事が起きています。"
- spouse_task_learning_good_skilled_notification_tooltip:1 "Your spouse's [councillor.Custom('learning_skill_level')] learning skill led to this windfall."
+ spouse_task_learning_good_skilled_notification_tooltip:1 "配偶者の学識能力が[councillor.Custom('learning_skill_level')]なので、僥倖が導かれています。"
  task_foreign_affairs_effect_desc_family_business_bonus_prestige:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_family_business_modifier')|P]"
  task_foreign_affairs_effect_desc_family_business_bonus_opinion:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_family_business_modifier')|P]"
  task_domestic_affairs_family_business_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_erudition_bonus')|2]#!"

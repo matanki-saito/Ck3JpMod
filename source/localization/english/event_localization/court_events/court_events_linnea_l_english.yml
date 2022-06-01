@@ -60,7 +60,7 @@
  court.5042.desc_no_chastiser:0 "しかし、私の廷臣たちはそのユーモアを理解せず、これ以上の悪ふざけを非難することをはっきりと告げてきている。そして彼らは警戒するようになるだろう。"
  court.5042.a:0 "ただのイタズラだったんだ！"
  court.5050.t:0 "蔑まれた廷臣"
- court.5050.desc:2 "「なぜ私ではなく、あの[courtier_given_title.Custom('InsultNoun')] [courtier_given_title.GetTitledFirstName] に宮廷での地位を与えるのですか?」\n\n[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は憤慨している。どうやら[courtier.GetSheHe]は、この栄誉は[courtier.GetHerHim]に与えられるものであり、他の誰にも与えられないと確信していたようである。"
+ court.5050.desc:2 "「なぜ私ではなく、あの[courtier_given_title.Custom('InsultNoun')] [courtier_given_title.GetTitledFirstName] に宮廷での地位を与えるのですか?」\n\n[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は憤慨している。どうやら、その栄誉は自分こそふさわしく他の誰でもない、と確信していたようである。"
  court.5050.a:0 "馬鹿なことを言うのはやめろ！"
  court.5050.b:1 "あなたの言う通り、あなたはその地位を得るに値する。"
  court.5050.c:0 "こんな感じに笑い者となるつもりなら、雇ってやっても良いぞ！"
