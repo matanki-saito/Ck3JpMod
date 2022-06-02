@@ -50,6 +50,6 @@
  suggestion_request_war_aid_petition_desc:0 "あなたは自身の[war|E]で[liege|E]に助けを求めることができます。彼らは参戦するか、兵士に金を払う可能性があります。"
  suggestion_request_war_aid_petition_click:0 "#I クリックで[lieges|E]の[royal_court|E]を表示#!"
  suggestion_create_nation_fracturing_faction:0 "Create a $nation_fracturing_faction$"
- suggestion_create_nation_fracturing_faction_label:0 "Suggestion: $suggestion_create_nation_fracturing_faction$"
+ suggestion_create_nation_fracturing_faction_label:0 "提案: $suggestion_create_nation_fracturing_faction$"
  suggestion_create_nation_fracturing_faction_desc:0 "You can challenge your [liege|E] and try to dissolve the realm to gain independence to you and all of their [vassals|E]"
  suggestion_create_nation_fracturing_faction_click:0 "#I Click to view Faction against your [liege]#!"

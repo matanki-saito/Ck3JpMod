@@ -10,7 +10,7 @@
  fp2_santiago_bells_melted_desc:0 "Recovered from the hands of the infidel, melted down, and returned to something like their original form by [reforger.GetTitledFirstName], the illustrious Bells of Santiago de Compostela ring out to comfort all Christendom."
  fp2_santiago_bells_melted_tally_desc:0 "$fp2_santiago_bells_melted_desc$\n\nThe frequently-forged metal has changed hands [ROOT.Var('artefact_santiago_bells').GetValue] times."
  fp2_armillary_sphere:0 "アーミラリ天球儀"
- fp2_armillary_sphere_desc:0 "An intricate astrological device of [SCOPE.Custom('ArtifactQuality')] craftsmanship. The rings are carved from [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] inlaid with [newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )], and model the meandering paths of the empyrean in wondrous detail."
+ fp2_armillary_sphere_desc:0 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した複雑な占星術の道具。輪は[newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )]をはめ込んだ[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]を彫刻して作られており、曲がりくねった天空の道を驚くほど精細に再現している。"
  fp2_2p_chess_board:0 "Lucky Chess Board"
  fp2_2p_chess_board_desc:0 "Instrumental in a resoundingly successful game against [bg_loser.GetTitledFirstName], this tool of leisure first brought its patented luck to [bg_victor.GetTitledFirstName]."
  fp2_4p_chess_board:0 "Four-Player Chess Board"

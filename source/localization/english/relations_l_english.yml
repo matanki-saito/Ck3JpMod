@@ -435,5 +435,5 @@
  lass:0 "女の子"
  lad:0 "男の子"
  my:0 "我が"
- FRAME_RELATION_MY_LIEGE:0 "#T This is your [liege|E]#!"
- FRAME_RELATION_NON_POWERFUL_VASSAL:0 "#T Vassal#!"
+ FRAME_RELATION_MY_LIEGE:0 "#T [liege|E]#!"
+ FRAME_RELATION_NON_POWERFUL_VASSAL:0 "#T 封臣#!"

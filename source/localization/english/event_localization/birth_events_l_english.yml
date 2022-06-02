@@ -191,6 +191,6 @@
  birth.9004.b:0 "よく考えると、[ROOT.Char.GetFirstNameNoTooltip]は良い名前だ……"
  birth.9004.b.tt:0 "あなたは以前の名前のままでいます。"
  birth.1006.bastard_explanation:0 "You learned of [child.GetFirstName]'s birth, the mother, [mother.GetShortUIName] gains the [secret.GetName] Secret"
- birth.9004.desc:0 "[child.GetFirstNameNoTooltip].\n\nInitially I was fond of the name, but now it seems strange to my ears. What will [child.GetSheHe] think of [child.GetHerHis] name once grown up?\n\nMaybe I should change it to something better?"
+ birth.9004.desc:0 "[child.GetFirstNameNoTooltip]。\n\n私はかつてその名を好んでいたはずだが、今は何やら奇妙なものに聞こえる。[child.GetSheHe]が成長し大人になった時、自身の名前をどう思うだろう？\n\nより良いものに変えた方がいいのではないか？"
  birth.9004.b.other:0 "Actually [child.GetFirstNameNoTooltip] is pretty good, after all..."
- birth.9004.b.tt.other:0 "[child.GetFirstNameNoTooltip] keeps [child.GetHerHis] old name"
+ birth.9004.b.tt.other:0 "[child.GetFirstNameNoTooltip]は自身の以前の名前を保持します"

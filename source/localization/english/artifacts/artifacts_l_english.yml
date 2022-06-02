@@ -835,5 +835,5 @@
  improvised_billhook_desc:0 "この片手鉈は、低木から枝を切るために使用される。王にはふさわしくないが、その湾曲した刃は鎧の割れ目を見つけるのに驚くほど優れている。"
  football_cup_desc:0 "このカップは、サッカーの試合での勝利を記念して依頼された。"
  participation_trophy_desc:0 "このカップは、サッカーの試合での「勝利」を記念して依頼された。"
- fp2_blessed_junk:0 "[ROOT.Char.Custom('TrinketLookAdjective')|U] $blessed_artifact_modifier$"
- fp2_blessed_junk_desc:0 "A [ROOT.Char.Custom('TrinketLookAdverbFollowup')] [ROOT.Char.Custom('TrinketLookAdjective')] though otherwise pointless artifact. $blessed_artifact_modifier_desc$."
+ fp2_blessed_junk:0 "[ROOT.Char.Custom('TrinketLookAdjective')|U]$blessed_artifact_modifier$"
+ fp2_blessed_junk_desc:0 "[ROOT.Char.Custom('TrinketLookAdverbFollowup')][ROOT.Char.Custom('TrinketLookAdjective')]だが、それ以外は無意味なアーティファクトだ。$blessed_artifact_modifier_desc$"

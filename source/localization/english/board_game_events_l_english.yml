@@ -1,8 +1,8 @@
 ﻿l_english:
  board_games.0000.t:0 "素晴らしいゲーム: [SCOPE.Custom('BG_GameType')|U]"
  board_games.0001.t:0 "$board_games.0000.t$"
- board_games.0001.desc.opponent_winning.diplomacy.low:0 "\"You know,\" muses my opponent, \"I may not be much of a talker, but I'm alarmingly good at [SCOPE.Custom('BG_GameType')].\""
- board_games.0001.desc.opponent_winning.diplomacy.medium:0 "\"Ahhhh, if only public speaking was as easy as beating you at [SCOPE.Custom('BG_GameType')],\" remarks my opponent."
+ board_games.0001.desc.opponent_winning.diplomacy.low:0 "「なあ」相手は熟考している。「私は口下手かもしれないが、[SCOPE.Custom('BG_GameType')]は驚くほど得意なんだ。」"
+ board_games.0001.desc.opponent_winning.diplomacy.medium:0 "「ああー、人前で話すのが[SCOPE.Custom('BG_GameType')]で君を倒すのと同じくらい簡単だったらな。」相手は言う。"
  board_games.0001.desc.opponent_winning.diplomacy.high:0 "\"I genuinely don't know which is easier,\" laments my opponent, \"beating you at [SCOPE.Custom('BG_GameType')] or telling the tale of your embarrassing loss.\""
  board_games.0001.desc.opponent_winning.martial.low:0 "\"If war was as easy as [SCOPE.Custom('BG_GameType')], I'd rule the world by now,\" laughs my opponent. \"But then, that's just me.\""
  board_games.0001.desc.opponent_winning.martial.medium:0 "\"Mmmm, you're not much of a strategist, are you?\" chortles my opponent."
