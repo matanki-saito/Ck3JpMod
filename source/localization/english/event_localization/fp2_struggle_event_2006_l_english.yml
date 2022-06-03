@@ -1,5 +1,5 @@
 ﻿l_english:
- fp2_struggle.2006.t:0 "The Borders of Faith"
+ fp2_struggle.2006.t:0 "信仰の境界"
  fp2_struggle.2006.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fp2_2006_vassal_in_crisis'))] [fp2_2006_vassal_in_crisis.GetTitledFirstName] approaches me in private with clear doubt in [fp2_2006_vassal_in_crisis.GetHerHis] eyes.\n\n[fp2_2006_vassal_in_crisis.GetSheHe|U] explains to me that [fp2_2006_vassal_in_crisis.GetHerHis] faith is faltering due to [fp2_2006_vassal_in_crisis.GetHerHis] time spent guarding the border against [fp2_2006_foreign_faith.GetNameNoTooltip] and fraternizing with the enemy. [fp2_2006_vassal_in_crisis.GetHerHis|U] words are not in jest. It feels as if the slightest mistake, could push [fp2_2006_vassal_in_crisis.GetHerHim] away from [ROOT.Char.GetFaith.HighGodName].\n\nYet, this is an opportunity to strengthen our fervor as well as our relationship."
  fp2_struggle.2006.a:0 "\"Someone call a priest!\""
  fp2_struggle.2006.a.a:0 "[fp2_2006_vassal_in_crisis.GetTitledFirstNameNoTooltip] remains in doubt"

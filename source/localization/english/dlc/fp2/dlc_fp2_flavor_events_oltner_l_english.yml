@@ -1,5 +1,5 @@
 ﻿l_english:
- rice_fields_modifier:0 "Rice Fields"
+ rice_fields_modifier:0 "水田"
  rice_fields_modifier_desc:0 "Peasants in this province are growing nutritious rice, filling their bellies and inspiring new cuisine."
  fp2_flavor.0001.t:0 "A Crop of New Ideas"
  fp2_flavor.0001.desc:0 "[rice_propagator.GetTitledFirstNamePossessive] capital is truly prosperous. The peasants of [rice_propagator_capital.GetNameNoTier] are fat and happy – and #EMP productive!#!\n\nThe Muslims have brought a new crop to their lands, rice. It is easy to grow and feeds the people well. Is this part of their success, I wonder? I would not mind more productive peasantry myself...\n\nPerhaps I should establish rice fields in my own capital? But how should I get started?"

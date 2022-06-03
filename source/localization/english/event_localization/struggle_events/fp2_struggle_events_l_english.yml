@@ -101,7 +101,7 @@
  fp2_struggle.0901.a:0 "This is for the best."
  fp2_struggle.0901.tt:0 "[THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier] has become a [de_jure|E] [empire|E]"
  fp2_struggle.0911.desc:0 "\n\n[struggle_ender.GetTitledFirstName] has officialy renounced any intentions to unite the peninsula under a common crown, and declared any who would that title illegitimate.\n\nThe disparate realms molded by centuries of invasion and reconquest are now too entrenched to be united."
- fp2_struggle.0911.a:0 "We will not forget the dream of Hispania..."
+ fp2_struggle.0911.a:0 "ヒスパニアの夢を忘れはしないぞ..."
  fp2_struggle.0902.t:0 "$struggle_iberia_ending_conciliation_decision$"
  fp2_struggle.0902.desc:0 "\n\nA sworn guarantee of protection, which only I am now in a position to enforce, will ensure the diverse peoples of the region may live and worship freely.\n\n[ROOT.Char.GetFaith.HighGodName] willing, the wars of the past will remain there, and the other Iberian princes will see the benefits of co-existence."
  fp2_struggle.0902.a:0 "Send the heralds."

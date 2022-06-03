@@ -1,6 +1,6 @@
 ﻿l_english:
  reactive_advice_struggle:0 "闘争"
- action_reactive_advice_struggle:0 "Advice: Struggles"
+ action_reactive_advice_struggle:0 "アドバイス: 闘争"
  action_reactive_advice_struggle_desc:1 "闘争への参加が可能です。ここを開いてあなたにとってどういう意味を持つのかをより詳しく学びましょう。"
  action_reactive_advice_struggle_click:0 "$click_to_open_lesson$"
  lessons_struggle_introduction:0 "闘争"

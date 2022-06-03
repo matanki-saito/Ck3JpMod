@@ -4,7 +4,7 @@
  culture_parameter_knights_die_less_but_are_captured_more:0 "[knights|E] in [battle|E] die less but are captured more"
  culture_parameter_characters_more_likely_to_be_captured_in_sieges:0 "[characters|E] with a [liege|E] of this [culture|E] are more likely to be captured in [sieges|E]"
  culture_parameter_can_demand_higher_ransoms_from_lower_tiers:0 "Can demand higher ransoms for lower [rank|E] [rulers|E]"
- tradition_fp2_strategy_gamers_name:1 "Tabletop Warriors"
+ tradition_fp2_strategy_gamers_name:1 "盤上の戦士"
  tradition_fp2_strategy_gamers_desc:0 "Any commander can gamble and get lucky on the day of battle. A #EMP real#! strategist keeps their mind honed through practice and pretend so that they have no #EMP need#! of 'luck'."
  culture_parameter_commanders_likelier_to_gain_commander_traits:0 "[commanders|E] are likelier to gain [commander_traits|E]"
  culture_parameter_may_challenge_to_board_games:0 "May always challenge other [characters|E] to [board_games|E]"

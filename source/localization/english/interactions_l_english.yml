@@ -1084,7 +1084,7 @@
  AI_YOU_ARE_THE_HOUSE_HEAD:1 "あなたは[recipient.GetHerHis]の[house_head|E]である: $VALUE|=+0$"
  is_not_wandering_child:1 "親族でない子供である"
  release_pow_at_end_of_war:0 "すべての戦争参加者により捕らえられた[hostages|EU]が解放されます。"
- ANSWER_SUM_NEGATIVE:0 "合計: $VALUE|=+0$ (合計が肯定的になった場合のみ受け入れるでしょう)"
+ ANSWER_SUM_NEGATIVE:0 "合計: $VALUE|=+0$ (合計がプラスになった場合のみ受け入れるでしょう)"
  offer_concubine:1 "側室の提案"
  offer_concubine_desc:1 "[concubine|E]を[recipient.GetShortUINameNoTooltip]に贈る"
  OFFER_CONCUBINE_NOTIFICATION:1 "[secondary_actor.GetShortUIName]を[concubine|E]として差し出そうと思います。あなたの寝室に[secondary_actor.GetHerHim]を迎え入れてはどうですか？"
