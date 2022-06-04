@@ -43,7 +43,7 @@
  name_i_see:0 "承知した。"
  iberia_north_africa.0002.b:0 "ポルトガルに[ROOT.Char.GetFaith.WarGodName]の祝福あれ！"
  iberia_north_africa.0002.c:0 "どう思われようとも、私は[ROOT.Char.GetCulture.GetName]のままだ。"
- iberia_north_africa.0101.t:0 "Loyalty to St. Peter's Throne"
+ iberia_north_africa.0101.t:0 "聖ペテロの御座への忠誠"
  iberia_north_africa.0101.desc:0 "It's been no small feat, but my family has mustered enough [religious_leader.GetFaith.GetAdjective] lands and spiritual authority to be able to invoke a conclave of our highest clerics. Finally our blood, sweat, and toil have paid off in full.\n\nThe assembled [religious_leader.GetFaith.PriestNeuterPlural] in [religious_leader.GetCapitalLocation.GetTitle.GetBaseNameNoTier] bicker eagerly about policy, thronging the halls and corridors of my keep with dozens of proposals and the occasional theologically-induced fistfight. We know we wish to cleave to Rome and [pope.GetTitledFirstName], but agree on little more than that.\n\nAfter weeks of deadlock, it falls to me, as the host and their [religious_leader.GetTitleAsNameNoTooltip], to arbitrate."
  iberia_north_africa.0101.a:0 "One people, one faith!"
  iberia_north_africa.0101.a.tt:0 "You advocate for a more $doctrine_pluralism_righteous_name$ path"

@@ -913,7 +913,7 @@
  form_the_kingdom_of_aragon_decision.tt.drift.d_navarra:0 "If you [completely_control|E] [d_navarra.GetDefinitiveName], it will be [de_jure_drift_drifted|E] into [k_aragon.GetDefinitiveName]."
  appoint_a_righteous_caliph_decision:0 "Appoint a Righteous Caliph"
  appoint_a_righteous_caliph_decision_desc:0 "[ROOT.Char.GetFaith.GetReligiousHead.GetTitledFirstName] is a distant, unworthy figure, ill-prepared to lead the Ummah. Being [ROOT.Char.GetFaith.GetReligiousHead.GetFaith.GetAdjective], [ROOT.Char.GetFaith.GetReligiousHead.GetSheHe] simply doesn't #EMP understand#! many of the subtle truths of [ROOT.Char.GetFaith.GetAdjective] thought.\n\n[ROOT.Char.GetFaith.GetReligiousHead.GetSheHe|U] may not, but #EMP I#! do..."
- appoint_a_righteous_caliph_decision_confirm:0 "I am guided by [ROOT.Char.GetFaith.PositiveAfterLife|U]!"
+ appoint_a_righteous_caliph_decision_confirm:0 "私は[ROOT.Char.GetFaith.PositiveAfterLife|U]に導かれている！"
  appoint_a_righteous_caliph_decision_tooltip:0 "Lead [ROOT.Char.GetFaith.GetNameNoTooltip] away from the [ROOT.Char.GetFaith.GetReligiousHead.GetFaith.GetAdjectiveNoTooltip] path"
  appoint_a_righteous_caliph_decision.tt.you_become_caliph:0 "[THIS.Char.GetShortUIName|U] [Select_CString(THIS.Char.IsLocalPlayer, 'are', 'is' )] the new [THIS.Char.GetFaith.GetAdjective] [head_of_faith|E]"
  appoint_a_righteous_caliph_decision.need_at_least_ten_same_faith_counties:0 "You have at least [EmptyScope.ScriptValue('appoint_a_righteous_caliph_decision_same_faith_county_count')|0] [CHARACTER.GetFaith.GetAdjective] [counties|E]"

@@ -1,7 +1,7 @@
 ﻿l_english:
  head_of_faith.0000.new_faith_submitted_for_hook:0 "[ROOT.Char.GetTitledFirstName] has submitted to your caliphate"
- head_of_faith.0000.wishes_to_schism_caliphate_flag_added:0 "Abandoning your chosen caliphate will be easier for your lifetime"
- head_of_faith.0000.t:0 "Heirs of the Prophet"
+ head_of_faith.0000.wishes_to_schism_caliphate_flag_added:0 "選択したカリフ制を放棄することは、生涯にわたって容易になります"
+ head_of_faith.0000.t:0 "預言者の後継者"
  head_of_faith.0000.desc:0 "and all true believers expect me, as the faith's preeminent member, to pledge myself to an existing caliph.\n\nOnly by submission to the ultimate authority below [ROOT.Char.GetFaith.HighGodName] can I derive my own authority, no matter what our other theological differences.\n\nThe main question before me is, of course, to #EMP whom#! — though the smartest amongst us also ask how #EMP sincerely#! — I will pledge..."
  head_of_faith.0001.t:0 "$head_of_faith.0000.t$: Sunni"
  head_of_faith.0001.desc:0 "We [ROOT.Char.GetFaith.GetAdherentName] have chosen to follow the path of the heirs of Abu Bakr, $head_of_faith.0000.desc$"
