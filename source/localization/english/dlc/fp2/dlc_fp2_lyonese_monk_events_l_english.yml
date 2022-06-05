@@ -1,6 +1,6 @@
 ﻿l_english:
  fp2_lyonese_monk.0000.t.revealed:0 "Strange Teachings:"
- fp2_lyonese_monk.0000.t.council:0 "Conclave:"
+ fp2_lyonese_monk.0000.t.council:0 "教皇選挙:"
  fp2_lyonese_monk_cancel_chain_effect.tt:0 "During the attempted arrest, [acolyte.GetFirstName] is killed"
  fp2_lyonese_monk.0000.tt.continues_to_teach:0 "[acolyte.GetFirstName] continues to teach"
  fp2_lyonese_monk.0000.tt.teachings_fade:0 "[acolyte.GetFirstNamePossessive] teachings will fade"
@@ -12,7 +12,7 @@
  fp2_lyonese_monk.0000.tt.favour_radicals:0 "The [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] wins the debate"
  fp2_lyonese_monk.0001.t:0 "A Storm-Tossed Night"
  fp2_lyonese_monk.0001.desc:0 "Winds batter and wail at the stones of [acolyte_host.GetCapitalLocation.GetTitle.GetNameNoTier], howling through the night like the hounds of [acolyte_host.GetFaith.NegativeAfterLife], trying furiously to tear me from my fastness.\n\nThe call of my warm bedchamber awaits, far from these drafty hallways, but... is that the door to the hall? I whirl, jerking at the unexpected noise, and am confronted with a drenched, bedraggled holy [acolyte.GetWomanMan], staggering into the dry.\n\n\"My-\", [acolyte.GetSheHe] coughs, hacking up a lump of wet phlegm, \"my [acolyte_host.GetLadyLord], please! The gale is fierce and I have been on the road for many months. I beg of you, allow me a bed till sunrise and storm-break?\"."
- fp2_lyonese_monk.0001.a:0 "Of course, stay as long as you like!"
+ fp2_lyonese_monk.0001.a:0 "もちろん、好きなだけ滞在してくれ！"
  fp2_lyonese_monk.0001.b:0 "You may linger for #EMP a#! night."
  fp2_lyonese_monk.0001.c:0 "No beggars in [acolyte_host.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]. #EMP Out#!."
  fp2_lyonese_monk.0011.t:0 "A Friend of Your [acolyte_host.Custom2('RelationToMeShort', dead_owner)|U]"
