@@ -40,7 +40,7 @@
  TRIGGER_CALC_TRUE_IF_LESS_EQ_THAN:0 "at most"
  TRIGGER_CALC_TRUE_IF_EQUAL_TO:0 "と等しい"
  TRIGGER_CALC_TRUE_IF_NOT_EQ:0 "と異なる値"
- TRIGGER_CALC_TRUE_IF:0 "$COMPARATOR$ #variable $AMOUNT$#! of the following must be true"
+ TRIGGER_CALC_TRUE_IF:0 "以下の#variable $AMOUNT$#!つ$COMPARATOR$が満たされている"
  JOMINI_ANY_TRIGGER_COUNT_greater_than:0 "$COUNT|V$より多い"
  JOMINI_ANY_TRIGGER_COUNT_greater_or_equal:0 "$COUNT|V$以上"
  JOMINI_ANY_TRIGGER_COUNT_less_than:0 "$COUNT|V$未満"
