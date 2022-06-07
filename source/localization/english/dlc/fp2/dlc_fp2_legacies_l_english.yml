@@ -24,7 +24,7 @@
  LEGACY_DYNASTY_MORE_PRESTIGE_FROM_WAR_SUPPORT_HOUSE_MEMBERS:1 "[house|E]のメンバーの戦争に貢献すると、[prestige_i] [prestige|E]をさらに獲得できます\nすべての[house|E]のメンバーは#V $call_house_member_to_war_interaction$#!をアンロック "
  LEGACY_DYNASTY_UNLOCK_SHARE_SECRETS:1 "#V $share_known_secrets_interaction$#!をアンロック：既知の[secrets|E]を[house|E]のメンバーと交換します"
  LEGACY_DYNASTY_UNLOCK_DISINHERIT_CHILDREN:0 "[dynasty|E]のメンバーは、[prestige_i] [prestige|E]と[tyranny|E]のコストで[children|E]を[disinherit|e]できます。"
- LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:1 "あなたの[councillors|E]の[skills|E]#P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#!"
+ LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:1 "あなたの[councillors|E]の[skills|E]は#P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#!を得る"
  inner_circle_salary_mod:0 "$fp2_coterie_legacy_1_name$"
  share_known_secrets_interaction:0 "秘密共有"
  share_known_secrets_interaction.tt.no_secrets_to_share:1 "共有するのに適した秘密はないと感じています"

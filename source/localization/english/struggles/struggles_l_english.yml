@@ -107,7 +107,7 @@
  struggle_parameter_struggle_vips_and_culture_faith_heads_may_develop_spontaneous_positive_or_negative_relations:0 "重要な[characters|E]は自発的に負または正の[relations|E]を築く可能性があります"
  struggle_parameter_involved_or_interloper_wars_in_struggle_region_cheaper_costs:0 "[struggle_involved|E]と[struggle_interloper|E] [characters|E]は、異なる[faith|E]の[characters|E]に対して[wars|E]の支払いが少なくなります。"
  struggle_parameter_county_culture_conversion_in_region_proceeds_faster:1 "[promote_culture|E]は[struggle_region|E]内でより速く進行します"
- struggle_parameter_struggle_cb_cost_minor:1 "[struggle_conquest|E] [casus_belli|E]の方が安い"
+ struggle_parameter_struggle_cb_cost_minor:1 "[struggle_conquest|E] の[casus_belli|E]のコストが低くなります"
  struggle_parameter_struggle_cb_cost_major:0 "[struggle_conquest|E] [casus_belli|E]の方が高い"
  struggle_parameter_unlocks_border_raid_casus_belli:2 "[border_raid|E] [casus_belli|E]をアンロック"
  struggle_parameter_unlocks_bargain_fealty_interaction:2 "[bargain_fealty|E] [interaction|E]をアンロック"
