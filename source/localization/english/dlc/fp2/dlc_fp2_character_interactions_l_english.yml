@@ -95,7 +95,7 @@
  invite_foreign_ruler_to_desc:1 "他の[realm|E]から[ruler|E]を招待してあなたの饗宴や狩猟に参加させます"
  invite_foreign_ruler_to.feast.tooltip:0 "You start a $host_feast_decision$ with [recipient.GetTitledFirstName] as a special guest"
  invite_foreign_ruler_to.hunt.tooltip:0 "You start a $start_hunt_decision$ with [recipient.GetTitledFirstName] as a special guest"
- INVITE_FOREIGN_RULER_TO_NOTIFICATION:0 "我々は友人になるべきです！どうかこの申し出を受け入れてくださいますように。"
+ INVITE_FOREIGN_RULER_TO_NOTIFICATION:0 "我々は友人になるべきです！どうか私の催す宴へ参加してくださいますように。"
  invited_to_hunt.accept.actor.tt:0 "[recipient.GetTitledFirstName] accepted your invitation to join your hunt"
  invited_to_feast.accept.actor.tt:0 "[recipient.GetTitledFirstName] accepted your invitation to join your feast"
  invited_to_hunt.accept.recipient.tt:0 "You accepted [actor.GetTitledFirstName]'s invitation to hunt"
