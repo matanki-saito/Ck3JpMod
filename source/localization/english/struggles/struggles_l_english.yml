@@ -131,4 +131,4 @@
  STRUGGLE_START_EVENT_PHASE_TITLE:1 "各アイコンを調べて、現在の[struggle_phase|E]の効果を確認します"
  STRUGGLE_END_EVENT_DESC:0 "[Struggle.GetName]を終了し、[StrugglePhase.GetName]エンディングを達成しました。"
  no_call_ally_for_this_war_tt:0 "この[war|E]にはあなたの同盟を呼ぶことはできません"
- STRUGGLE_EFFECT_TT_CHARACTER_INVOLVEMENT:0 "[Struggle.GetNameNoTooltip]の人物[Character.GetStruggleInvolvementType( Struggle.Self )]の[Character.GetShortUINameNoTooltip|U] [Select_CString( Character.IsLocalPlayer, 'are', 'is' )]"
+ STRUGGLE_EFFECT_TT_CHARACTER_INVOLVEMENT:0 "[Character.GetShortUINameNoTooltip|U][Select_CString( Character.IsLocalPlayer, 'は', 'は' )][Struggle.GetNameNoTooltip]において[Character.GetStruggleInvolvementType( Struggle.Self )]です"
