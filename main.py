@@ -85,9 +85,11 @@ def assembly_mod(mod_file_name,
                     _(mod_loc_replace_dir_path, "clausewitz"))
 
     # jominiを移す
+    # trigger_system_l_englishが入っていると一部の環境で表示が不正になるため除外した
+    # https://discord.com/channels/439564919072096276/739722048691109888/983636821818871819
     jomini_dir = _(mod_loc_replace_dir_path, "jomini")
     shutil.copytree(src=_(ext_paratranz_main_dir_path, "utf8", "jomini", "localization"),
-                    dst=jomini_dir)
+                    dst=jomini_dir, ignore=shutil.ignore_patterns("*/trigger_system_l_english.yml"))
 
     fix_ISSUE_1(path=jomini_dir)
 
