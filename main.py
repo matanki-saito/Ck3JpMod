@@ -89,7 +89,7 @@ def assembly_mod(mod_file_name,
     # https://discord.com/channels/439564919072096276/739722048691109888/983636821818871819
     jomini_dir = _(mod_loc_replace_dir_path, "jomini")
     shutil.copytree(src=_(ext_paratranz_main_dir_path, "utf8", "jomini", "localization"),
-                    dst=jomini_dir, ignore=shutil.ignore_patterns("*/trigger_system_l_english.yml"))
+                    dst=jomini_dir, ignore=shutil.ignore_patterns("trigger_system_l_english.yml"))
 
     fix_ISSUE_1(path=jomini_dir)
 
@@ -186,7 +186,7 @@ def fix_ISSUE_1(path):
 
 
 def update_source(mod_folder_path):
-    shutil.rmtree("source", ignore_errors=True)
+    shutil.rmtree("source/", ignore_errors=True)
     shutil.copytree(mod_folder_path, _("source"))
 
 
