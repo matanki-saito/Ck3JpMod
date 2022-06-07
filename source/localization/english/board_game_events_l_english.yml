@@ -131,7 +131,7 @@
  board_games.0001.desc.i_am_winning.trait.forgiving:0 "相手は全く悲嘆にくれた様子で、[bg_opponent.GetHerHis]の[bg_opponent.Custom('MaskFace')]の[bg_opponent.Custom('MaskFace_BehindAcross')]にいつもの痛烈な皮肉の跡は微塵もない。"
  board_games.0001.desc.i_am_winning.trait.rowdy:0 "「念のため言っておくが」相手は囁くように言う。「もし私が負けたら、このゲームを全部お前のバカな頭に投げつけてやるぞ。」"
  board_games.0001.desc.i_am_winning.trait.charming:0 "「#EMP もう少し#!手加減する気はないか？」病的に甘い声色で相手は尋ねる。"
- board_games.0001.desc.i_am_winning.trait.curious:0 "\"Wait... how are you #EMP winning#!?\". my opponent seems positively incredulous."
+ board_games.0001.desc.i_am_winning.trait.curious:0 "「待て…お前はどうやって#EMP 勝ったんだ#!？」相手は信じられないような表情を浮かべている。"
  board_games.0001.desc.i_am_winning.trait.pensive:0 "\"Oh, no, I knew I shouldn't have played... now I've wasted your time...\" mumbles my opponent."
  board_games.0001.desc.i_am_winning.trait.bossy:0 "\"Hrmf, if we'd played with #EMP my#! rules #EMP then#! I'd be showing you!\" moans my opponent."
  board_games.0001.desc.i_am_winning.relation.friend:0 "\"Damnation,\" chuckles my friend, \"you don't ease up at [SCOPE.Custom('BG_GameType')] for anyone, do you?\""
