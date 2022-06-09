@@ -342,7 +342,7 @@
  zoroastrian_restore_high_priesthood_decision_tooltip:0 "[ROOT.Char.GetFaith.GetAdjective]の祭司制度を確立します"
  zoroastrian_restore_high_priesthood_decision_effect_tooltip:0 "[THIS.Char.GetFaith.GetAdjective]の祭司制度が確立されます"
  become_saoshyant_decision:0 "サオシャントになる"
- become_saoshyant_decision_confirm:0 "私は一つだ！"
+ become_saoshyant_decision_confirm:0 "私がその救世主だ！"
  become_saoshyant_decision_desc:0 "イスラーム教徒を追い出し、ゾロアスターの支配をペルシア帝国全体に復活させることによって、敬虔な支配者はゾロアスターの予言したサオシャント、つまり世界の救世主と認められるかもしれない。"
  become_saoshyant_decision_tooltip:0 "サオシヤントになります"
  become_saoshyant_decision_effect_tooltip:0 "サオシヤントになります"

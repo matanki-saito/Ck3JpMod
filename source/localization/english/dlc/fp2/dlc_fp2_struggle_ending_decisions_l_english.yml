@@ -61,7 +61,7 @@
  fp2_struggle_conciliation_house_reward_modifier:0 "調停"
  fp2_struggle_conciliation_house_reward_modifier_desc:0 "This house accepted that the way to a lasting peace in Iberia lies in peace and tolerance."
  fp2_struggle_can_create_empire_of_hispania_tt:0 "[GetTitleByKey('e_spain').GetNameNoTier][empire|E]の作成はアンロックされます"
- fp2_struggle_compromise_destroy_hispania_tt:1 "The [empire|E] of [GetTitleByKey('e_spain').GetNameNoTier] is permanently #negative_value destroyed#!"
+ fp2_struggle_compromise_destroy_hispania_tt:1 "[GetTitleByKey('e_spain').GetNameNoTier][empire|E]は永久に#negative_value 破壊されます#!"
  CB_COST_FP2_STRUGGLE_HOSTILITY_CULTURE_DISCOUNT:0 "Iberian Hostility"
  CB_COST_FP2_STRUGGLE_HOSTILITY_FAITH_DISCOUNT:0 "$CB_COST_FP2_STRUGGLE_HOSTILITY_CULTURE_DISCOUNT$"
  struggle_iberia_ending_hostility_decision_correct_phase_tt:1 "現在の[struggle_phase|E]は[struggle_phase_iberia_hostility|E]である"
