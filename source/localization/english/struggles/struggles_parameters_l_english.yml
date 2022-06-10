@@ -34,7 +34,7 @@
  TRUCE_FP2_WARD:0 "[ward|E]の教育"
  struggle_parameter_unlocks_golden_age_jewish_science_decision:1 "[golden_age_jewish_science_in_iberia_decision|E] [decision|E]をアンロック"
  struggle_parameter_unlocks_build_pilgrim_roads_decision:1 "[build_holy_pilgrim_roads_decision|E] [decision|E]をアンロック"
- struggle_parameter_struggle_cheaper_buy_truce:1 "[purchase_truce_interaction|E] [interaction|E]のコストは[gold_i][gold|E]より少なくなります"
+ struggle_parameter_struggle_cheaper_buy_truce:1 "[purchase_truce_interaction|E] [interaction|E]の[gold_i][gold|E]コストはより少なくなります"
  struggle_parameter_struggle_prestige_from_feast:1 "[feast|E] [activity|E]はより多くの[prestige_i][prestige|E]をもたらします"
  struggle_parameter_struggle_agents_less_likely_to_join_schemes:1 "[agent|E]受け入れ：#N  -25#!"
  struggle_parameter_unlocks_sell_minor_title_for_kings_and_higher:1 "王と皇帝の[sell_titles_decision|E]をアンロック"

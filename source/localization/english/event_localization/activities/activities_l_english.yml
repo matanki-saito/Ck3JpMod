@@ -40,6 +40,6 @@
  activity_adventure_name:0 "冒険"
  activity_adventure_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName]はその地域で冒険中である。"
  activity_adventure_owner:0 "冒険者"
- activity_pay_homage:0 "敬意"
+ activity_pay_homage:0 "忠誠の誓い"
  activity_pay_homage_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]の敬意"
  activity_pay_homage_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName]は[ACTIVITY.GetOwner.GetHerHis]の主君である[ACTIVITY.GetOwner.GetLiege.GetTitledFirstName]に正式な敬意を表したいと考えている。"

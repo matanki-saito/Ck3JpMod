@@ -86,7 +86,7 @@
  STRUGGLE_PHASE_EFFECTS_UNINVOLVED:0 "#S [struggle_uninvolved|E]への効果:#!"
  struggle_parameter_claims_in_region_cost_prestige_not_gold_for_involved_parties:2 "[struggle_region|E]の[fabricating_claims|E]は、[gold_i][gold|E]ではなく[prestige_i][prestige|E]のコストがかかります"
  struggle_parameter_holy_wars_in_region_cannot_be_declared:0 "[holy_wars|E]は[struggle_region|E]で宣戦布告できません"
- struggle_parameter_involved_or_interloper_wars_in_struggle_region_cheaper_prestige_costs:2 "[struggle_region|E]内の[wars|E]のコストは[prestige_i][prestige|E]より少なくなります"
+ struggle_parameter_involved_or_interloper_wars_in_struggle_region_cheaper_prestige_costs:2 "[struggle_region|E]内での[wars|E]の[prestige_i][prestige|E]コストはより少なくなります"
  struggle_parameter_county_faith_conversion_in_region_proceeds_faster:1 "[convert_county|E]は[struggle_region|E]内でより速く進行します"
  struggle_parameter_cheaper_to_convert_to_struggle_faith:1 "[struggle_involved|E][faith|E]への改宗はより安価です"
  struggle_parameter_cheaper_to_convert_to_struggle_culture:1 "[struggle_involved|E] [culture|E]への転向はより安価です"
