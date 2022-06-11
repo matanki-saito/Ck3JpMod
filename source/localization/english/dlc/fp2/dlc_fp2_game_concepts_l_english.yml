@@ -62,7 +62,7 @@
  game_concept_iberian_reclamation:0 "Iberian Reclamation"
  game_concept_iberian_reclaiming:0 "Iberian Reclaiming"
  game_concept_iberian_reclamations:0 "Iberian Reclamations"
- game_concept_iberian_reclamation_desc:2 "This is a special type of [war|E] available to [struggle_involved|E] [rulers|E] of the [iberian_struggle|E].\n\nThe attacker aims to conquer a [duchy|E] which contains any [struggle_involved|E] [counties|E] held by an [struggle_interloper|E] or [struggle_uninvolved|E] [ruler|E], or [vassalize|E] them if they hold no land outside that Duchy."
+ game_concept_iberian_reclamation_desc:2 "これは特別なタイプの[war|E]で、[iberian_struggle|E]の[struggle_involved|E]の[rulers|E]が利用可能です。\n\n攻撃側の目的は、ある条件の[duchy|E]の征服ないし[vassalize|E]です。その条件とは、[struggle_interloper|E]もしくは[struggle_uninvolved|E]の[ruler|E]が所有する[struggle_involved|E][counties|E]を含むかどうかです。この時、当該公爵領以外の領土を有していなければ、[vassalize|E]となります。"
  game_concept_enforce_truce:0 "Enforce Truce"
  game_concept_enforced_truce:0 "Enforced Truce"
  game_concept_enforce_truce_desc:2 "This is a special type of [interaction|E] available to [struggle_involved|E] [rulers|E] which ends a [war|E] in a [white_peace|E] and establishes [truces|E].\n\nIt may only be used to end wars between other [struggle_involved|E] [rulers|E] of lower [rank|E] in which at least one side is [independent|E] or part of the same [realm|E]."
