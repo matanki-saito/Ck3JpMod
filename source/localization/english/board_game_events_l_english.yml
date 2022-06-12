@@ -109,7 +109,7 @@
  board_games.0001.desc.i_am_winning.trait.arrogant:0 "「実際には私は負けてはいないんだ、そうだろ。」相手は鼻高々に話す。「お前はそう#EMP 思う#!かもしれないが、あり得ない話なんだ。」"
  board_games.0001.desc.i_am_winning.trait.humble:0 "相手の耳は#EMP 明らかに#!狼狽で赤く染まっている。「あなたの技術は否定しない…」[bg_opponent.GetSheHe]は唾をのんで言う。「完璧だ。」"
  board_games.0001.desc.i_am_winning.trait.deceitful:0 "「厠へ行きたがっているようだな」同情したような口調で相手が言う。「遠慮するな、盤は私が見張っといてやるから。」"
- board_games.0001.desc.i_am_winning.trait.honest:0 "「まさかそんな…」相手は一瞬動きを止める。「#EMP 難しい#!ものだま。」"
+ board_games.0001.desc.i_am_winning.trait.honest:0 "「まさかそんな…」相手は一瞬動きを止める。「#EMP 難しい#!ものだな。」"
  board_games.0001.desc.i_am_winning.trait.craven:0 "相手はずっとそわそわしており、今にも逃げ出しそうな様子だ。"
  board_games.0001.desc.i_am_winning.trait.brave:0 "「私には計画があるんだ。」相手は自慢げに言う。「このゲーム全体の流れが変わることになるだろう！」"
  board_games.0001.desc.i_am_winning.trait.shy:0 "相手は黙ったままじっと顔をしかめ、どうしたらこのゲームを[bg_opponent.GetHerHis]の[SCOPE.Custom('BG_GamePiecePlural')]に持っていけるか思案しているようだ。"
