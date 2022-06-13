@@ -144,7 +144,7 @@
  artifact_small_hide_acquisition_hunt:0 "[ROOT.Artifact.GetOwner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTier]の[ROOT.Artifact.GetOwner.MakeScope.Var('adventure_artifact_location').Title.Custom('TerrainTypeCountyScope')]において狩られた"
  create_artifact_small_hide_tooltip:2 "[inspiration_owner.GetShortUIName]が狩りをし、[SCOPE.Custom('ArtifactQuality')]の結果の皮をなめす"
  artifact_animal_hide_medium_name:3 "[owner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTierNoTooltip]の[newly_created_artifact.Custom('ArtifactAnimalAdjective')|U][newly_created_artifact.Custom('ArtifactAnimalType')|U]の皮"
- artifact_animal_hide_medium_description:2 "[location.GetName]で狩られた[newly_created_artifact.GetFeatureText( 'animal_hide_type' )]のなめし革。革は[SCOPE.Custom('ArtifactQuality')]質である。"
+ artifact_animal_hide_medium_description:2 "[location.GetName]で狩られた[newly_created_artifact.GetFeatureText( 'animal_hide_type' )]のなめし革。革は[SCOPE.Custom('ArtifactQuality')]品質である。"
  create_artifact_medium_hide_tooltip:1 "[inspiration_owner.GetShortUIName]が狩りをし、[SCOPE.Custom('ArtifactQuality')]の結果の皮をなめす"
  artifact_animal_hide_big_name:3 "[owner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTierNoTooltip]の[newly_created_artifact.Custom('ArtifactAnimalAdjective')|U][newly_created_artifact.Custom('ArtifactAnimalType')|U]の皮"
  artifact_animal_hide_big_description:2 "[location.GetName]で狩られた[newly_created_artifact.GetFeatureText( 'animal_hide_type' )]のなめし革。革は巨大で、[SCOPE.Custom('ArtifactQuality')]品質である。"

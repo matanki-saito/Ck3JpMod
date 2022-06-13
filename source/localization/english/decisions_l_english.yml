@@ -567,7 +567,7 @@
  establish_norman_culture_decision_effect.tt:0 "北フランスにおけるすべての[old_culture_1.GetName]と[old_culture_2.GetName]文化の伯爵領と人物は[new_culture.GetName]文化になります"
  establish_norman_culture_decision_effect.tt.2:0 "[normandy_title.GetName]は$d_normandy$に名称が変更されます"
  form_the_kingdom_of_aragon_decision:0 "アラゴン王国の創設"
- form_the_kingdom_of_aragon_decision_desc:1 "The children of the great Ebro river have spent centuries being sidelined. By the Romans, by the Visigoths, by the Franks, by the Arabs. As long as they toil for foreign conquerors and distant capitals, their lands are not truly their own, and the people clamor for a local kingdom of their own."
+ form_the_kingdom_of_aragon_decision_desc:1 "偉大なエブロ川の子供たちは何世紀にもわたって傍観されてきた。 ローマ人、西ゴート族、フランク人、アラブ人によってだ。 彼らが外国の征服者と遠くの首都のために苦労している限り、彼らの土地は本当に彼ら自身のものではなく、人々は自身の地元の王国を求めている。"
  form_the_kingdom_of_aragon_decision_confirm:0 "我が故郷、我が王国よ！"
  form_the_kingdom_of_aragon_decision_tooltip:0 "アラゴン王国を創設します"
  convert_to_local_culture_decision:0 "地元の文化へ転向する"
