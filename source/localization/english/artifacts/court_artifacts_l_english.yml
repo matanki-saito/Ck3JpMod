@@ -139,7 +139,7 @@
  feature_animal_hide_type_dragon:0 "ドラゴン"
  feature_animal_hide_type_lynx:0 "山猫"
  artifact_small_hide_name:2 "[owner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTierNoTooltip]の[newly_created_artifact.Custom('ArtifactAnimalAdjective')|U][newly_created_artifact.Custom('ArtifactAnimalType')|U]の皮"
- artifact_small_hide_description:2 "[newly_created_artifact.GetFeatureText( 'animal_hide_type' )]のなめし革で、[newly_created_artifact.Custom('ArtifactSmallHideAcquisitionMethod')]。[SCOPE.Custom('ArtifactQuality')]な品質である。"
+ artifact_small_hide_description:2 "[newly_created_artifact.GetFeatureText( 'animal_hide_type' )]のなめし革で、[newly_created_artifact.Custom('ArtifactSmallHideAcquisitionMethod')]。[SCOPE.Custom('ArtifactQuality')]品質である。"
  artifact_small_hide_acquisition_pet:1 "[ROOT.Artifact.GetOwner.GetTitleAsNamePossessiveNoTooltip]と生涯を共にした大切な友を称えるために保存される"
  artifact_small_hide_acquisition_hunt:0 "[ROOT.Artifact.GetOwner.MakeScope.Var('adventure_artifact_location').Title.GetNameNoTier]の[ROOT.Artifact.GetOwner.MakeScope.Var('adventure_artifact_location').Title.Custom('TerrainTypeCountyScope')]において狩られた"
  create_artifact_small_hide_tooltip:2 "[inspiration_owner.GetShortUIName]が狩りをし、[SCOPE.Custom('ArtifactQuality')]の結果の皮をなめす"
