@@ -967,7 +967,7 @@
  eat_cheese_decision_tooltip:0 "Your aging cheese is ready to be eaten."
  eat_cheese_decision_confirm:0 "Consume the cheese"
  eat_cheese_effect_tt:0 "The longer the cheese has aged the more stress you will lose when eating it."
- golden_age_jewish_science_in_iberia_decision:0 "Sponsor Jewish Sciences"
+ golden_age_jewish_science_in_iberia_decision:0 "ユダヤ科学への支援"
  golden_age_jewish_science_in_iberia_decision_desc:0 "Iberia is home to many scholars from around the known world. With a little funding, we could achieve a new era of learning and establish a hub for culture and knowledge-sharing which will reign supreme for decades to come."
  golden_age_jewish_science_in_iberia_decision_hardcoded_trigger_text.a:0 "Your [culture_head|E] approves of you"
  golden_age_jewish_science_in_iberia_decision_hardcoded_trigger_text.b:0 "You are not the current sponsor of the ongoing golden age"

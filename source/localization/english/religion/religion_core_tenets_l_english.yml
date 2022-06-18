@@ -275,4 +275,4 @@
  doctrine_parameter_adoptionists_attractively_intuitive_theology:0 "[EmptyScope.ScriptValue('fp2_lyonese_monk_conversion_bonus_root_value')|=+%0] conversion speed against other [GetReligionByKey('christianity_religion').GetAdjective] [faiths|E]"
  doctrine_parameter_can_use_islamic_artefacts:0 "Can use Islamic [artifacts|E] at full benefit"
  doctrine_parameter_can_use_jewish_artefacts:0 "Can use Jewish [artifacts|E] at full benefit"
- doctrine_parameter_unlock_jizya_contract:0 "Unlocks the Jizya [vassal_contract|E]"
+ doctrine_parameter_unlock_jizya_contract:0 "ジズヤの[vassal_contract|E]をアンロック"
