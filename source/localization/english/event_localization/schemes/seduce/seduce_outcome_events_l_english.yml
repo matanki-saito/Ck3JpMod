@@ -90,7 +90,7 @@
  seduce_outcome.2307.b:0 "何と[target.Custom('InsultNounSexual')]。放っておいてくれ。"
  seduce_outcome.2308.t:0 "愛しい[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))|U]"
  seduce_outcome.2308.desc_illigal:0 "わが[target.Custom('ComplimentAdjective')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))][target.GetTitledFirstName]は[target.Custom('quirk_pos_adverb')]に微笑むと、私が感じる魅力が不道徳的だなんてことも思い出せなくなってしまう。\n\n[target.GetSheHe]が私の[ROOT.Char.Custom('GetUpperClothingArticle')]を捲くり上げて、その手を這わせてくると…そんなことどうでも良くなる。"
- seduce_outcome.2308.desc_not_illigal:0 "我が[target.Custom('ComplimentAdjective')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))][target.GetTitledFirstName]が[target.Custom('quirk_pos_adverb')]笑うと、私は自制しているふりを一切しなくなった。[target.GetHerHim]の[ROOT.Char.Custom('GetUpperClothingArticle')]を引き裂き、[target.GetHerHis]の腰に手を回し、[target.GetHerHis]の首筋に口付けし、[target.GetHerHis]自身に対する私の疼くような欲望を…\n\n"
+ seduce_outcome.2308.desc_not_illigal:0 "我が[target.Custom('ComplimentAdjective')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))][target.GetTitledFirstName]が[target.Custom('quirk_pos_adverb')]に笑うと、私は自制しているふりを一切しなくなった。[target.GetHerHim]の[ROOT.Char.Custom('GetUpperClothingArticle')]を引き裂き、[target.GetHerHis]の腰に手を回し、[target.GetHerHis]の首筋に口付けし、[target.GetHerHis]自身に対する私の疼くような欲望を…\n\n"
  seduce_outcome.2308.a:0 "[target.Custom2('RelationToMeShort', ROOT.Char)]が[ROOT.Char.GetHerHis]の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))]に抱く愛は間違ってはいない！"
  seduce_outcome.2308.b:0 "[target.GetSheHe|U]は私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))]以外の何者でもない。"
  seduce_outcome.2309.t:0 "情熱の痛み"
