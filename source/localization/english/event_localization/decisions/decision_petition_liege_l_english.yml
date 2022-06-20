@@ -94,4 +94,4 @@
  petition_liege_faith_tt:0 "#X あなたはあなたの[liege|E]と同じ[faith|E]に従っていません#!"
  petition_liege_holding_tt:0 "#X あなたの[liege|E]は[holding|E]を建設する余裕がありません#!"
  petition_liege_debt_tt:0 "#X あなたの[liege|E]には[debt|E]があります#!"
- petition_liege_council_no_petition_valid_tt:0 "#X There is nothing you could ask of your liege#!"
+ petition_liege_council_no_petition_valid_tt:0 "#X あなたの主君に依頼できるものは何もありません#!"

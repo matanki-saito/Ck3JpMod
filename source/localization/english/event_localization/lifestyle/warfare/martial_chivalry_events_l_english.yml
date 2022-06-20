@@ -139,7 +139,7 @@
  martial_chivalry_special.1601.b:0 "見栄えが良い馬だ、むしろいい値段で売れるだろう。"
  martial_chivalry_special.1601.c:1 "厩長は[dummy_gender.GetHerHim]を調教することで多くを学ぶだろう"
  martial_chivalry_special.1601.a.tt:1 "その馬はあなたのものになるかもしれません"
- martial_chivalry_special.1603.desc:1 "私が近づくと馬は耳を後ろに寄せ、私が見えてないかのように無視しているのがはっきりとわかる。この最初の出会いは、[dummy_gender.GetHerHis]の信頼と尊敬を勝ち得るために重要なものであり、そして私は、それをどうすべきかを決めなければならない。"
+ martial_chivalry_special.1603.desc:1 "私が近づくと馬は耳を後ろに寄せ、見えてないかのように無視しているのがはっきりとわかる。この初顔合わせは肝心だ。[dummy_gender.GetHerHis]の信頼と尊敬を勝ち得るか否かを左右する。そして私は、どうすべきかを決める必要に迫られていた。"
  martial_chivalry_special.1603.a:0 "こいつを調教するには、しっかりした腕が必要だ！"
  martial_chivalry_special.1603.a.tt:0 "[prowess|E]が高い、あるいは大胆な性格である場合、成功する可能性が高いです"
  martial_chivalry_special.1603.b:0 "紳士的にゆっくり動けば、[dummy_gender.GetSheHe]は私を信頼するだろう。"
