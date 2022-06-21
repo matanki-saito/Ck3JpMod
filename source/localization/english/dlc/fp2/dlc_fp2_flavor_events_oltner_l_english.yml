@@ -1,6 +1,6 @@
 ﻿l_english:
  rice_fields_modifier:0 "水田"
- rice_fields_modifier_desc:0 "Peasants in this province are growing nutritious rice, filling their bellies and inspiring new cuisine."
+ rice_fields_modifier_desc:0 "この地方の農民たちは栄養価の高い米を栽培し、空腹を満たし、新たな料理に刺激を与えている。"
  fp2_flavor.0001.t:0 "農地の改良"
  fp2_flavor.0001.desc:0 "[rice_propagator.GetTitledFirstNamePossessive]の首都はとても繫栄している。[rice_propagator_capital.GetNameNoTier]の農民は肥えており幸せだ–#EMP 生産的#!でもある！\n\nイスラム教徒は彼らの土地に新しい作物、米をもちこんだ。 育てやすく、人々をよく養える。 これが彼らの成功の一因なのだろうか？ 私は、農民の生産性など気にしないのだが...\n\n私は首都に水田を作るべきなのか？ だが、どうやって始めればよいのだろう？"
  fp2_flavor.0001.a:0 "[rice_propagator.GetFirstNamePossessiveNoTooltip]は金を払えば教えてくれるだろう。"
@@ -8,6 +8,6 @@
  fp2_flavor.0001.c:0 "秘密を探ってやる...スパイを送りこめ。"
  fp2_flavor.0001.d:0 "忘れよう、イスラム教徒とは取引しない。"
  fp2_flavor.0001.b.success:0 "あなたは[rice_propagator.GetHerHim]の説得に成功します"
- fp2_flavor.0001.b.failure:0 "[rice_propagator.GetFirstNameNoTooltip] is insulted"
- fp2_flavor.0001.c.success:0 "Your agent steals the secret"
- fp2_flavor.0001.c.failure:0 "[rice_propagator.GetFirstNameNoTooltip] is furious"
+ fp2_flavor.0001.b.failure:0 "[rice_propagator.GetFirstNameNoTooltip]は侮辱された"
+ fp2_flavor.0001.c.success:0 "あなたのスパイは秘密を盗み出す"
+ fp2_flavor.0001.c.failure:0 "[rice_propagator.GetFirstNameNoTooltip]が猛威を振るう"
