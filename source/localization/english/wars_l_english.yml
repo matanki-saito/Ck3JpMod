@@ -445,3 +445,4 @@
  CB_COST_STRUGGLE_PHASE_HOSTILITY:0 "[struggle_phase_iberia_hostility|E]"
  CB_COST_STRUGGLE_PHASE_COMPROMISE:0 "[struggle_phase_iberia_compromise|E]"
  CB_COST_STRUGGLE_PHASE_CONCILIATION:0 "[struggle_phase_iberia_conciliation|E]"
+ struggle_involvement_cb_check_failure:0 "You must both be in the same [struggle|E] and this [casus_belli|E] must not be forbidden during the current [struggle_phase|E]"

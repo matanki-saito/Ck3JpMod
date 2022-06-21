@@ -450,3 +450,4 @@
  VASSAL_WITH_MARRIAGE_FAVOR:0 "Unfulfilled $marriage_favor_rights$"
  UNITY_PERK_BONUS:0 "$fp2_coterie_legacy_3_name$: $VALUE|=+0$"
  AI_RELEVANT_TRAITS:0 "Relevant Traits: $VALUE|=+0$"
+ WONT_FIGHT_MEANINGLESS_REASON:0 "Won't partake in meaningless conflict: $VALUE|=+0$"

@@ -54,3 +54,5 @@
  INCOMPATIBLE_TENET_SHARED_HOF_MONOGAMY_VS_POLYGAMY:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ polygamy"
  INCOMPATIBLE_TENET_SHARED_HOF_WORLD_VS_UNRESTRICTED_INCEST:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ unrestricted incest"
  DOCTRINE_REQUIRES_THEOCRATIC_HEAD_OF_FAITH_TRIGGER:0 "Requires the [doctrine|E] [spiritual_head_of_faith|E]"
+ INCOMPATIBLE_TENET_SACRIFICIAL_CEREMONIES_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_sacrificial_ceremonies').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_CONSOLAMENTUM_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_consolamentum').GetName( GetPlayer.GetFaith )]"

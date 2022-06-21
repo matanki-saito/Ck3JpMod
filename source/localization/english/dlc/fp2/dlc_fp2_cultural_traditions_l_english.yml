@@ -194,3 +194,5 @@
  on_remove_relation_best_friend.lose_synergy_modifiers.root.tt:0 "[target.GetFirstNameNoTooltip]があなたの日常業務を手助けしなくなった"
  on_remove_relation_best_friend.lose_synergy_modifiers.target.tt:0 "[ROOT.Char.GetFirstNameNoTooltip]があなたの日常業務を手助けしなくなった"
  on_death_relation_best_friend.lose_synergy_modifiers.root.tt:0 "$on_remove_relation_best_friend.lose_synergy_modifiers.root.tt$"
+ bet_gold_actor_not_enough_gold:0 "You do not have enough [gold|E]"
+ bet_gold_recipient_not_enough_gold:0 "Your opponent do not have enough [gold|E]"

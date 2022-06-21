@@ -118,7 +118,7 @@
  playdate.3011.a:0 "私たちが親ならいいよ！"
  playdate.3011.b:0 "いいよ。[disliked_participant.GetFirstNameNoTooltip]は犬だ！"
  playdate.3011.c:0 "いや、バカらしい。それよりチェスをしよう。"
- playdate.3011.c.tt:0 "あなたは[ROOT.Char.Custom('education_focus_child')]の技術をさらに学習します"
+ playdate.3011.c.tt:0 "You further your studies in the art of [THIS.Char.Custom('education_focus_child')]"
  playdate.3012.t:0 "$playdate_header$ 勇敢な$knight_culture_player_plural_no_tooltip$"
  playdate.3012.desc_knight:0 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と私が中庭で$knight_culture_player_plural_no_tooltip_lowercase$の訓練を見ていると、[knight.Custom2('MyCharacterIntroduction', ROOT.Char)]が笑顔で近づいてきた。"
  playdate.3012.desc_no_knight:0 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と私が数人の農民の訓練を見ていると、彼らの一人が笑顔で近づいてきた。"

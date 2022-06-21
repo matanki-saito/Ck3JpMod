@@ -104,6 +104,6 @@
  catalyst_invite_diff_faith_culture_to_feast:0 "Invited to [feast|E] [struggle_catalyst_catalyst|E]"
  catalyst_invite_diff_faith_culture_to_feast_desc:0 "異なる[faith|E]または[culture|E]の[struggle_involved|E]である[ruler|E]を[feast|E]に招待する"
  catalyst_grant_land_local_noble:0 "Granted to local noble [struggle_catalyst_catalyst|E]"
- catalyst_grant_land_local_noble_desc:0 "あなたの[counties|E]を[struggle_involved|E]の[culture|E]に属する地元貴族に与える"
+ catalyst_grant_land_local_noble_desc:0 "Grant one of your [counties|E] to a local noble of an [struggle_involved|E] [culture|E]"
  catalyst_convert_local_culture_faith:0 "Converted to local beliefs [struggle_catalyst_catalyst|E]"
  catalyst_convert_local_culture_faith_desc:0 "地元の[struggle_involved|E]である[culture|E]または[faith|E]に改宗する"

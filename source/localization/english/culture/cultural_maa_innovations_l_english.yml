@@ -120,3 +120,6 @@
  tradition_mountain_herding_desc:0 "この文化は乾燥した地域の中で涼しい山々を住処としてきた。これらの高地の遊牧民と農民は、回復力のある頑丈な戦士を作りあげており、長い時間をかけた彼らの労力は裸の砂漠のはるか上にこの民族を繁栄させたのである。"
  tradition_burman_royal_army_name:0 "王立陸軍"
  tradition_burman_royal_army_desc:0 "$innovation_royal_army_tradition_desc$"
+ culture_parameter_unlock_maa_huanch_vaulter:0 "Can recruit [GetMaA('guanch_vaulter').GetName] as [men_at_arms|E]"
+ innovation_pole_vault:0 "Pole Vault"
+ innovation_pole_vault_desc:0 "The pole vault, is a simple invention which requires much training and practice to master. A skilled vaulter will be able to propel themselves forward over great gaps and tall rocks, as well as over some fortifications."

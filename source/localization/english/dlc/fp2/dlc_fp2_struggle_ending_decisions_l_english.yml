@@ -1,6 +1,6 @@
 ﻿l_english:
  struggle_iberia_ending_hostility_decision:1 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の優位"
- struggle_iberia_ending_hostility_decision_desc:0 "強力な指導者がついにこの半島を戦争と分裂の窮地から引きずり出す時が来た。 イベリアは、[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の[ROOT.Char.Custom('GetQueenKing')|l]の旗を掲げて団結する！"
+ struggle_iberia_ending_hostility_decision_desc:0 "It is time for a strong leader to finally drag this peninsula from the mire of war and division. Iberia will be united under a [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.Custom('GetQueenKing')|l] flying the [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] banner!"
  struggle_iberia_ending_hostility_decision_tooltip:0 "イベリアの[struggle|E]を終わらせる"
  struggle_iberia_ending_hostility_decision_confirm:1 "イベリアの闘争を終わらせる"
  struggle_iberia_ending_hostility_decision_kingdom_tt:0 "あなたは[GetTitleByKey('e_spain').GetNameNoTier]の[kingdoms|E]の少なくとも2つの[de_jure|E]を[hold|E]および[completely_control|E]している ([SCOPE.ScriptValue('fp2_struggle_ending_kingdom_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_hostility_kingdom_total_value')|0])"
@@ -72,3 +72,6 @@
  CB_COST_FP2_STRUGGLE_COMPROMISE_MULTIPLIER:0 "Compromise"
  struggle_compromise_duchy_transfer_tt:0 "接続され、[completely_controlled|E][duchies|E]は[top_liege|E]の主要な[kingdom|E]の[de_jure|E]に編入されます"
  fp2_struggle_can_keep_using_struggle_clash_tt:0 "[struggle_conquest|E]は引き続き利用可能です"
+ struggle_iberia_ending_hostility_decision_united_spanish_throne_tt:0 "You united the Spanish Thrones under your [primary_title|E]"
+ struggle_iberia_ending_hostility_decision_county_light_tt:0 "75% of the [de_jure|E] [counties|E] of your [capital|E] [kingdom|E] ([THIS.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]) must be [THIS.Char.GetCulture.GetName] and [THIS.Char.GetFaith.GetAdjective] ([SCOPE.ScriptValue('fp2_struggle_hostility_county_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_hostility_county_total_light_value')|0])"
+ struggle_ending_decision_correct_involvement_tt: "You are [struggle_involved|E]"

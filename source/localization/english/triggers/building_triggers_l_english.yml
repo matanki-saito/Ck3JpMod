@@ -34,3 +34,5 @@
  NOT_HAS_SPECIAL_BUILDING_TRIGGER_GLOBAL:0 "[special_building|E]が#bold ない#!"
  HAS_SPECIAL_BUILDING_TRIGGER_THIRD:0 "[PROVINCE.GetName]には[special_building|E]がある"
  NOT_HAS_SPECIAL_BUILDING_TRIGGER_THIRD:0 "[PROVINCE.GetName]には[special_building|E]がない"
+ HAS_HOLDING_DESC:0 "[PROVINCE.GetName] contains a [holding|E]"
+ NOT_HAS_HOLDING_DESC:0 "[PROVINCE.GetName] does #bold not#! contain a [holding|E]"
