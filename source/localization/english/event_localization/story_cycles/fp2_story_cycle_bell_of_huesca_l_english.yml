@@ -1,5 +1,5 @@
 ﻿l_english:
- bell_special_yearly.1000.t:0 "The Bell of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ bell_special_yearly.1000.t:0 "[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の鐘"
  bell_special_yearly.1000.desc:0 "My [steward.GetCouncilTitle] [steward.GetFirstName] has suggested I survey a nearby abandoned church from the time of the Visigoths.\n\nAmidst the barrel-vaulted ceiling and the horseshoe arches, there is a once-beauteous bell tower, with several ruined bells missing their clappers.\n\nAs I wander through the ruin, I hear a clattering of hooves. Peering through a hole, I see [faction_member_1.GetTitledFirstName] is approaching. Might [faction_member_1.GetSheHe] think this place could be a hideout for his traitorous faction?"
  bell_special_yearly.1000.a:0 "I could kill [faction_member_1.GetHerHim] with no one around to see!"
  bell_special_yearly.1000.a.tt:0 "You sneak up on [faction_member_1.GetTitledFirstName] and try to kill [faction_member_1.GetHerHim]"

@@ -19,7 +19,7 @@
  fp2_struggle.1001.b.tt:0 "あなたの信仰は、未婚で子持ちの女性を良く思わない。"
  fp2_struggle.1001.c:0 "彼らは私の法廷に滞在してもよい！ たくさん食べ物があるぞ！"
  fp2_struggle.1001.c.tt:0 "あなたは領地内のすべての貧しいシングルマザーを宮廷に招きます。"
- fp2_struggle.1001.d:0 "Surely, my benevolent vassals can help fund this."
+ fp2_struggle.1001.d:0 "もちろんだ、私の慈悲深い家臣はこれに資金を提供するだろう。"
  fp2_struggle.1001.e:0 "私はおまえの[ROOT.Char.GetTitleTierName]であり、乳母ではない！"
  fp2_struggle.1001.specialdescpositive:0 "喜んで支払う家臣はあなたの#positive_value 10#!の#color_light_blue 評価#!を獲得します"
  fp2_struggle.1001.specialdescnegative:0 "支払うことに満足していない家臣はあなたの#color_light_blue 評価#!を#negative_value 10#!失います"

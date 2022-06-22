@@ -93,7 +93,7 @@
  contract_assistance_war_already_contracted_tt:0 "あなたは戦争ですでに[contracting_assistance|E]である"
  invite_foreign_ruler_to:0 "活動に誘う"
  invite_foreign_ruler_to_desc:1 "他の[realm|E]から[ruler|E]を招待してあなたの饗宴や狩猟に参加させます"
- invite_foreign_ruler_to.feast.tooltip:0 "You start a [feast|E] with [recipient.GetTitledFirstName] as a special guest"
+ invite_foreign_ruler_to.feast.tooltip:0 "[recipient.GetTitledFirstName]と特別な賓客として、[feast|E]を始める"
  invite_foreign_ruler_to.hunt.tooltip:0 "You call a [hunt|E] with [recipient.GetTitledFirstName] as a special guest"
  INVITE_FOREIGN_RULER_TO_NOTIFICATION:0 "我々は友人になるべきです！どうか私の催す宴へ参加してくださいますように。"
  invited_to_hunt.accept.actor.tt:0 "[recipient.GetTitledFirstName]は、あなたからの狩りへの招待を受け入れた"

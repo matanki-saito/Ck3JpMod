@@ -148,7 +148,7 @@
  found_kingdom_toledo_faith_tt:0 "Your [faith|E] is [GetFaithByKey('mozarabic_church').GetName], or was created from it"
  found_kingdom_toledo_duchy_tt:0 "You [hold|E] and [completely_control|E] any [duchy|E] which [de_jure|E] borders the [GetTitleByKey('d_toledo').GetName], and which is part of a [kingdom|E] with more than two [de_jure|E] [duchies|E]"
  found_kingdom_toledo_capital_tt:0 "[GetTitleByKey('c_toledo').GetNameNoTier] is your [realm_capital|E]"
- fp2_other_decisions.1100.t:0 "The Kingdom of Toledo"
+ fp2_other_decisions.1100.t:0 "トレド王国"
  fp2_other_decisions.1100.desc:0 "With the strength of my position now beyond all doubt, the coronation in [GetTitleByKey('c_toledo').GetNameNoTier] has at last gone ahead as planned.\n\nIt is high time we [ROOT.Char.GetFaith.GetAdherentNamePlural] carved out our own domain, distinct from the petty taifas and the dominions of the north; a realm to rival the Visigothic kingdom of old!"
  fp2_other_decisions.1100.a:0 "Long may our kingdom prosper."
  fp2_other_decisions.1101.desc:0 "Going from strength to strength, [toledo_former.GetTitledFirstName] has had [toledo_former.GetHerselfHimself] formally crowned in [GetTitleByKey('c_toledo').GetNameNoTier].\n\nThe strength of this new [toledo_former.GetFaith.GetAdjective] kingdom, incorporating the lands of the old dominions of Iberia, is now beyond doubt.\n\n"
