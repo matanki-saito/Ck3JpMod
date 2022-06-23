@@ -996,7 +996,7 @@
  deposed_and_become_wanderer:0 "[recipient.GetShortUINameNoTooltip]は[deposed|E]させられ[wanderer|E]になります"
  court_interaction_notification:0 "ロマンス"
  arrange_marriage_interaction_accept_betrothal_toast:0 "婚約"
- arrange_marriage_interaction_accept_betrothal_toast_desc:0 "[secondary_actor.GetShortUINameNoTooltip|U] [Select_CString( secondary_actor.IsLocalPlayer, 'are', 'is' )] now betrothed to [secondary_recipient.GetShortUINameNoTooltip]"
+ arrange_marriage_interaction_accept_betrothal_toast_desc:0 "[secondary_actor.GetShortUINameNoTooltip|U][Select_CString( secondary_actor.IsLocalPlayer, 'は', 'は' )][secondary_recipient.GetShortUINameNoTooltip]と婚約した"
  msg_ransom_prisoner:0 "身代金の受領"
  devour_as_execution_tooltip:0 "[recipient.GetHerHim]を食べたため:"
  ransom_cost_trigger:0 "身代金のコスト: $RANSOM_COST|0$"

@@ -1,5 +1,5 @@
 ﻿l_english:
- board_games.0000.t:0 "The Greatest Game: [SCOPE.Custom('BG_GameType')|U]"
+ board_games.0000.t:0 "偉大なゲーム: [SCOPE.Custom('BG_GameType')|U]"
  board_games.0001.t:0 "$board_games.0000.t$"
  board_games.0001.desc.opponent_winning.diplomacy.low:0 "「なあ」相手は熟考している。「私は口下手かもしれないが、[SCOPE.Custom('BG_GameType')]は驚くほど得意なんだ。」"
  board_games.0001.desc.opponent_winning.diplomacy.medium:0 "「ああー、人前で話すのが[SCOPE.Custom('BG_GameType')]で君を倒すのと同じくらい簡単だったらな。」相手は言う。"

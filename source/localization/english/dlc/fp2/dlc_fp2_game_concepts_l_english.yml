@@ -43,7 +43,7 @@
  game_concept_struggle_involved_culture:0 "関与している文化"
  game_concept_struggle_involved_cultures:0 "関与している文化たち"
  game_concept_struggle_involved_culture_desc:0 "Some [cultures|E] start already [struggle_involved|E] in the [struggle|E]. Others may become involved due to changing circumstances."
- game_concept_dissolution_faction:0 "派閥の解散"
+ game_concept_dissolution_faction:0 "解体派閥"
  game_concept_dissolution_factions:0 "派閥らの解散"
  game_concept_faction_dissolution:0 "解散"
  game_concept_dissolution_faction_desc:0 "The [dissolution_faction|E] seeks to destroy the [realm|E] of their [liege|E]. If they are successful, all the vassals in the realm become [independent|E], and their liege loses their [primary_title|E]."

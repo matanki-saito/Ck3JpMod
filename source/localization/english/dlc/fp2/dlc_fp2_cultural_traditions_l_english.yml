@@ -10,7 +10,7 @@
  culture_parameter_may_challenge_to_board_games:0 "常に他の[characters|E]に[board_games|E]を挑むことができる"
  culture_parameter_may_wager_land_on_board_games:0 "双方のプレイヤーがこのルールを共有している場合、個人的に[board_games|E]で[county|E]を賭けることができる"
  challenge_to_2p_chess_interaction:2 "ボードゲームを挑む"
- challenge_to_2p_chess_interaction_desc:2 "[board_game|E]ｓｗ[recipient.GetName]をプレイする"
+ challenge_to_2p_chess_interaction_desc:2 "[recipient.GetName]と[board_game|E]をする"
  CHALLENGE_TO_2P_CHESS_INTERACTION_NOTIFICATION:2 "こんにちは我が良き[actor.Custom2('RelationToMeShort', recipient)]！[actor.Custom('BG_GameType_Concept_Dark')]の刺激的なゲームをしませんか？"
  CHESS_FRIENDLY:1 "親善試合"
  CHESS_PRESTIGE:1 "威信を賭ける"
