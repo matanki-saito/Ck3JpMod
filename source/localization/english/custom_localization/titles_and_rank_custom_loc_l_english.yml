@@ -32,7 +32,7 @@
  lord_plural_lower_case:0 "領主"
  sir_lower_case:0 "サー"
  sir_plural_lower_case:0 "サー"
- empress_lower_case:0 "empress"
+ empress_lower_case:0 "女帝"
  faith_devotee_female:0 "[ROOT.Char.GetFaith.DevoteeFemale]"
  faith_devotee_male:0 "[ROOT.Char.GetFaith.DevoteeMale]"
  faith_devotee_fallback:0 "[ROOT.Char.GetFaith.DevoteeNeuter]"
