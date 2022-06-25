@@ -853,7 +853,7 @@
  special_doctrine_adoptionist_school_felicitous_doctrine_desc:0 "Felician $adoptionist$ believes in practicality above purity, understanding that it must work within hostile systems to undermine them. A heinous lie in pursuit of a noble cause is thought to be worth a thousand blunt truths."
  special_doctrine_adoptionist_school_radical_doctrine_name:0 "Radical School"
  special_doctrine_adoptionist_school_radical_doctrine_desc:0 "Radical $adoptionist_adherent_plural$ admit no God but the Father, accept no divinity from mortal flesh, and acknowledge no $christianity_religion_adherent_plural$ but themselves. To receive Christ without agreeing on every #EMP letter#! of canon is to acknowledge apostasy."
- doctrine_parameter_same_hof_hostility_override:0 "Considers other [faiths|E] that share their [head_of_faith|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_same_hof_hostility_override:0 "同じ[head_of_faith|E]を共有する他の[faiths|E]を[GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]とみなします"
  holy_site_tenerife_name:0 "テイデ山"
  holy_site_tenerife_effect_name:0 "From [holy_site|E] #weak ($holy_site_tenerife_name$)#!"
  holy_site_madiera_name:0 "マデイラ"
