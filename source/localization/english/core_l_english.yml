@@ -108,7 +108,7 @@
  ARMY_NAME_RAIDER:1 "$NUM|O$[PROVINCE.GetNameNoTooltip]の略奪者"
  GATHERING_ARMY_NAME:0 "$LOCATION$に軍を集める"
  DEAD:0 "死去"
- DEAD_SINCE:0 "[DATE.GetStringShort|V]死去"
+ DEAD_SINCE:0 "[DATE.GetStringShort|V]没"
  DIED_AT_AGE:1 "享年$AGE|V$"
  DIED_AT_AGE_SINGULAR:1 "享年$AGE|V$"
  DIED_AS_INFANT:1 "ー 幼児のうちに"
