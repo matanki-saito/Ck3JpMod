@@ -14,7 +14,7 @@
  fp2_yearly.4005.desc:0 "それゆえ、土地の商人のひとりが私に謁見を求めてきたのは珍しいことだった。\n\n「我々[mozarab_merchant.GetFaith.GetAdherentNamePlural]は人生の中で、少しばかり余計な…厄介事に向き合う傾向がございます」[mozarab_merchant.GetSheHe|U]は淡々として悪意もなく語ったが、[mozarab_merchant.GetHerHis]の言葉には明らかな強さが見え隠れしていた。\n\n「我々の望みは、[mozarab_quarter.GetName]にある街のほんの一部を、我らのものと呼び、そこで同胞たちと暮らすことです。我が[ROOT.Char.GetLadyLord]、私はあなたに、寛大な心を持ってこれをお許しいただけないかとお願いすべく参上したのです」"
  fp2_yearly.4005.a:0 "我が街にようこそ。"
  fp2_yearly.4005.b:0 "我が街を汚すな！"
- fp2_yearly.4006.t:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]建築家"
+ fp2_yearly.4006.t:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]の建築家"
  fp2_yearly.4006.desc:0 "It is a brave person who would accost me as I'm leaving the [ROOT.Char.GetFaith.HouseOfWorship] after my daily worship, but one such [mozarab_priest.GetWomanMan] has tried exactly that. I note the crucifix looped around [mozarab_priest.GetHerHis] neck with some suspicion as [mozarab_priest.GetSheHe] begins to speak.\n\n\"My [ROOT.Char.GetLadyLord], I only ask a minute of your time. All I want is for my flock to be able to worship in a [mozarab_priest.GetFaith.HouseOfWorship] as all good followers of [mozarab_priest.GetFaith.HighGodName] should!\" The nervous priest stops, and looks at me imploringly.\n\nLetting the [mozarab_priest.GetFaith.GetAdherentNamePlural] build places of worship would make converting them trickier, but perhaps some leniency might aid the cohesiveness of my realm?"
  fp2_yearly.4006.a:0 "許可しよう。汝の[mozarab_priest.GetFaith.HouseOfWorshipPlural]を建てるが良い。"
  fp2_yearly.4006.b:0 "#EMP 決して #!我が土地に異教徒の小屋を建てるな！"
