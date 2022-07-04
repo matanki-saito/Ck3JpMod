@@ -450,5 +450,5 @@
  health.7000.a.lazy:0 "少なくとも私は一日中ベッドで寝ていられる..."
  health.7100.desc:0 "今日は何の日だろう？今回はどのくらい休んでいたのだろうか？\n\n頻繁に訪れる人の顔を見て——しわや傷跡のような——今もなお時が流れているという証拠となる#bold 何か#!を探している自分に気付く。どういうわけか他の人との交流では、彼ら彼女らが私に#bold 話しかける#!のではなく、私に向かって#bold 一方的に話している#!ように感じられる。\n\n私はまだ私なのか、それとも肉体を離れた魂なのだろうか？私は生きているのか、あるいはただ存在しているだけなのだろうか？"
  health.7100.a:0 "私の存在そのものが拷問だ。"
- health.1003.court_amenities_gout.desc:0 "My court is renowned for having luxuriant, relentless servings of food. As my feet start swelling, it dawns that many of us might have to prepare for relentless pain, too."
+ health.1003.court_amenities_gout.desc:0 "我が宮廷は、豪華で容赦ない食事で有名だ。私が満腹を感じ始めたとき、我々の多くも、執拗な痛みに備える必要があるかもしれないということに気づいた。"
  health.3001.a.tt:1 "[GetCourtPositionType('court_physician_court_position').GetName()]として、月給[gold_i][SCOPE.ScriptValue('court_position_physician_salary')]を支払います"

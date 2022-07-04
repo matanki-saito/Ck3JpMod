@@ -137,7 +137,7 @@
  has_game_rule_trigger:0 "右記のゲームルールが設定されている: [GAME_RULE.GetName]"
  release_only_trigger:0 "釈放のみ"
  has_global_variable_trigger:0 "以下のグローバル変数を持っている: $VARIABLE$"
- start_bout_interaction:1 "Start Duel/Board Game"
+ start_bout_interaction:1 "決闘/ボードゲームを開始"
  make_nemesis_interaction:0 "#p 仇敵#!になる"
  take_domain_interaction:0 "直轄領を獲得する"
  take_realm_interaction:1 "直轄領もしくは領国を獲得する"

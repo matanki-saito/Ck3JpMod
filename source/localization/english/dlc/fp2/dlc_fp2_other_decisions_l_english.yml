@@ -26,7 +26,7 @@
  fp2_struggle_secure_iberian_foothold_empire_dejure_effect_tt:0 "[GetTitleByKey('e_spain').GetNameNoTier]の[de_jure|E]の[kingdom|E]は全て[THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier][empire|E]の[de_jure|E]になります"
  fp2_struggle_secure_iberian_foothold_ends_the_struggle_tt:0 "[iberian_struggle|E]が終わります"
  iberian_footholder_transfer_tt:0 "[THIS] [THIS.Title.GetName] [THIS.GetName]"
- fp2_other_decisions.1000.t:0 "$secure_iberian_foothold_decision_title$: [iberian_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip] Consolidation"
+ fp2_other_decisions.1000.t:0 "$secure_iberian_foothold_decision_title$: [iberian_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip]の統合"
  fp2_other_decisions.1000.involved_religion:0 "The wars of the fractious princedoms of Iberia almost brought the [ROOT.Char.GetFaith.GetReligion.GetAdjective] realms of the region to their knees.\n\nWithout our intervention, [ROOT.Char.GetFaith.HighGodNamePossessive] faithful would have eventually been driven from the peninsula by the imperious infidels.\n\n"
  fp2_other_decisions.1000.desc:0 "The divided faiths and peoples of Iberia have given us a grand opportunity, too busy fighting each other to oppose the [ROOT.Char.GetFaith.GetReligion.GetAdjective] invasion of the peninsula."
  fp2_other_decisions.1000.involved_faith:0 "We are the legitimate defenders of the [ROOT.Char.GetFaith.GetAdherentNamePlural] of the west, now safe under the protection of [ROOT.Char.GetPrimaryTitle.GetDefinitiveName]."

@@ -16,7 +16,7 @@
  fp1_trade_events.0003.a.tt_success:0 "提案は受け入れられた！"
  fp1_trade_events.0003.b:0 "#EMP 取引#!だと？こんな悪党どもと！？"
  fp1_trade_events.0003.b.tt_failure:0 "提案は拒否された！"
- TRUCE_TRADE_DEAL:1 "\nTruce signed in exchange for cessation of raiding"
+ TRUCE_TRADE_DEAL:1 "\n略奪の中止と引き換えに停戦が成立します"
  fp1_trade_events.0000.t:0 "略奪か、交易か"
  fp1_trade_events.0011.t:0 "$fp1_trade_events.0000.t$ 心地よいもてなし"
  fp1_trade_events.0011.desc.subsequent_renewal:0 "数十年の間、"
