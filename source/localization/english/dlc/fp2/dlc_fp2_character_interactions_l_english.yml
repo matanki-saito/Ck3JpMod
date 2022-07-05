@@ -3,7 +3,7 @@
  PURCHASE_TRUCE_NOTIFICATION:0 "あなたと私は敵でなく、友人であるべきです！どうか、この贈り物を相互友好条約への署名と引き換えに受け取ってください。"
  purchase_truce_interaction_desc:0 "[gold|E]と引き換えに、[recipient.GetTitledFirstName]と先んじて[truce|E]を交渉する"
  purchase_truce_interaction.accept.actor.tt:0 "[recipient.GetTitledFirstName]は私の贈り物を受け取った"
- purchase_truce_interaction.accept.recipient.tt:0 "[actor.GetTitledFirstName]は私の金を送り返してきた"
+ purchase_truce_interaction.accept.recipient.tt:0 "[actor.GetTitledFirstName]は私に金を送ってきた"
  purchase_truce_interaction.decline.actor.tt:0 "[recipient.GetTitledFirstName]は私の贈り物を拒絶した"
  purchase_truce_interaction.decline.recipient.tt:0 "[actor.GetTitledFirstName]は私の意図を不安がっている"
  TRUCE_PURCHASED:0 "\n[actor.GetTitledFirstName]から[recipient.GetTitledFirstName]へ、多額の[gold|E]の支払いとともに締結された休戦"
