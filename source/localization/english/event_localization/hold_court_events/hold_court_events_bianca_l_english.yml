@@ -44,7 +44,7 @@
  hold_court.3040.e:0 "あるいは次の機会に研究してみよう。"
  hold_court.3050.t:0 "高貴な義務"
  hold_court.3050.desc:0 "「もうそろそろ、再び謁見を行うことを検討されてはどうかと思いますが。」我が[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('reminder_person'))][reminder_person.GetTitledFirstName]は厳しい声で言う。\n\n「前回、民衆が嘆願を行ってから長い時間が経ち、あなたの関心を引くべき問題のリストは蓄積されております。」それから[reminder_person.GetSheHe|U]は、長く待たされていることに不満を持つ嘆願者について私に伝える。\n\n「[ROOT.Char.GetHerHis]の人々を導くのが統治者の責任であり、彼らはあなたの指導を必要としているのです、[ROOT.Char.Custom2('RelationToMeAddress', reminder_person)]。」"
- hold_court.3050.a:0 "You're the one who needs a reminder of their place!"
+ hold_court.3050.a:0 "お前こそ、自分の立場をわきまえろ！"
  hold_court.3050.b:0 "いずれはそうしよう。"
  hold_court.3050.c:0 "彼らをなだめている間に、私は優先すべき事柄に対処する。"
  hold_court.3060.t:0 "腐敗への対処"
