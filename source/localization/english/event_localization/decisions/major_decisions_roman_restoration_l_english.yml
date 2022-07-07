@@ -24,7 +24,7 @@
  roman_restoration.0004.desc.byzantines:0 "想像を絶する事態が起きた！西方の僭称者たちが、東方諸州に血みどろの道を切開き、我らが栄光なる帝国の中心地を奪い取ったのだ。\n\nかつての属州の殆どをその支配に復し、[scoped_emperor.GetTitledFirstName]は己の野蛮なる指導の下にローマ帝国を再興することを宣言した。"
  roman_restoration.0004.desc.others:0 "シャルルマーニュが教皇レオ三世によって戴冠されて以来、ギリシャ人の帝国は西方の僭称者に軽蔑の眼差しを向けてきた。しかし、[scoped_emperor.GetTitledFirstName]は不可能を成し遂げた。古代における東西境界の回復である。\n\nキリストの聖なる光の下で鍛えられたこの新たな帝国は、唯一の真のインペリウム・ローマーヌムとして、暗黒の世界に秩序をもたらす準備ができている。"
  roman_restoration.0004.a:0 "まさか…？"
- roman_restoration.0004.b:0 "奴らも僭称者に過ぎない！"
+ roman_restoration.0004.b:0 "それでも奴らは僭称者に過ぎない！"
  roman_restoration.0005.t:0 "アウグストゥス"
  roman_restoration.0005.desc.regular:0 "元老院と軍により称賛された私は、復活したローマ帝国の正当なる支配者として認められた。\n\nただ一人の[ROOT.Char.GetWomanMan]にこれ以上の名誉も責任も与えられることはない。長く権力の座にとどまろうというのであれば、臣民の期待に応える必要があるだろう。"
  roman_restoration.0005.desc.holy:0 "[ROOT.Char.GetFaith.GetAdjective]の聖職者と軍に称賛された私は、復活したローマ帝国の正当なる支配者として認められた。\n\n[ROOT.Char.GetFaith.HighGodName]の恩寵により、私は長きに渡って正当なる統治を為せるだろう。"
