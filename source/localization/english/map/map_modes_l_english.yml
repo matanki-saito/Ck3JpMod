@@ -35,4 +35,4 @@
  government:0 "$MAPMODE_GOVERNMENT_NAME$"
  government_desc:0 "$MAPMODE_GOVERNMENT$"
  struggle:0 "関与"
- struggle_desc:0 "#T Involvement#!\nShows involvement status of [realms|E] with in the [struggle_region|E]."
+ struggle_desc:0 "#T 関与#!\n[struggle_region|E]内の[realms|E]の関与状況を表示します。"

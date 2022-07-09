@@ -1,6 +1,6 @@
 ﻿l_english:
  tradition_fp2_state_ransoming_name:0 "身代金状態"
- tradition_fp2_state_ransoming_desc:0 "すべての兵士は、自分の身を省みず主君のために戦う覚悟を持っています！ 彼らが戦場で捕らえられることを考えると、持ち場に関係なく、彼らの身の安全をいくらか保証することは主君にふさわしいのではないしょうか？"
+ tradition_fp2_state_ransoming_desc:0 "すべての兵士は、自分の身を省みず主君のために戦う覚悟を持っているのだ！ 彼らが戦場で捕らえられることを考えると、持ち場に関係なく、彼らの身の安全をいくらか保証することは主君にとってふさわしい行いではないか？"
  culture_parameter_knights_die_less_but_are_captured_more:0 "[knights|E]の[battle|E]における死は少ないが、捕虜になることは多い"
  culture_parameter_characters_more_likely_to_be_captured_in_sieges:0 "この[culture|E]の[liege|E]を持つ[characters|E]は、[sieges|E]において捕縛されやすくなっている"
  culture_parameter_can_demand_higher_ransoms_from_lower_tiers:0 "下位の[rank|E]の[rulers|E]に対して、より高い身代金を要求することができる"
