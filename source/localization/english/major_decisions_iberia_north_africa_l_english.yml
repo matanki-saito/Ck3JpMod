@@ -210,7 +210,7 @@
  iberia_north_africa.2013.d:0 "Gift me an artifact worthy of display at [chosen_holy_site_for_pilgrim_roads.GetNameNoTierNoTooltip]."
  iberia_north_africa.2013.d.tooltip:0 "[fp2_iberia_north_africa_2013_head_of_faith.GetTitledFirstName] will gift you a blessed [artifact|E]"
  iberia_north_africa.2013.notif.t:0 "Paths of Piousness"
- struggle_iberia_form_portugal_decision_correct_phase_tt:0 "The current [struggle_phase|E] is [struggle_phase_iberia_opportunity|E]"
+ struggle_iberia_form_portugal_decision_correct_phase_tt:0 "現在の[struggle_phase|E]が[struggle_phase_iberia_opportunity|E]である"
  iberia_north_africa.9101.t:0 "カナリア王国"
  iberia_north_africa.9101.desc.intro:0 "Since time immemorial, each of the islands have called themselves a “kingdom”, but now with all of the islands under the diligent rulership of [canarias_former.GetTitledFirstName], the time has come to unite the crowns into one.\n\n"
  iberia_north_africa.9101.desc.iberian:0 "With the final defeat of the heathenous Guanche Kings, there is little left to prevent the spread of [canarias_former.GetFaith.GetName] among the islands’ inhabitants and solidify [canarias_former.GetTitledFirstNamePossessiveNoTooltip]’s rule over the islands. [title_k_canarias.GetNameNoTierNoTooltip] has now been declared a [title_k_canarias.GetTierAsNameNoTooltip], with [canarias_former.GetName] as its first [canarias_former.GetTitleAsNameNoTooltip]!"
