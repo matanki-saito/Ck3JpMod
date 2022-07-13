@@ -226,5 +226,5 @@
  ARTIFACT_EFFECT_REQUIREMENT_TT:0 "[Artifact.GetCanBenefitPlayerDesc]"
  miscellaneous_when_not_court:0 "$trinket$"
  artifact_miscellaneous_when_not_court:0 "$miscellaneous_when_not_court$"
- artifact_scientific_apparatus:0 "Scientific Apparatus"
- artifact_jug:0 "Jug"
+ artifact_scientific_apparatus:0 "科学装置"
+ artifact_jug:0 "水差し"

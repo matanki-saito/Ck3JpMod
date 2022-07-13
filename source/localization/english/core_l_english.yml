@@ -742,7 +742,7 @@
  INVALID:0 "無効"
  DEFAULT_TEXT:0 "#D デフォルトテキスト#!"
  SCOPE_ARTIFACT:0 "[ROOT.Artifact.GetName]:"
- SCOPE_DEBUG_STRUGGLE:0 "[struggle|E] $NAME$ [$ID$]"
+ SCOPE_DEBUG_STRUGGLE:0 "[struggle|E]$NAME$[$ID$]"
  ERROR_HOOF_4:0 "I am Reconqat. Sometimes I'm here instead of Errorhoof. Don't call it a Reconquista otherwise I'll get sad. There are also $ERRORS$ error(s) in your game. $ERROR_ACTION$"
  SCOPE_STRUGGLE:0 "[ROOT.Struggle.GetName]"
  OR:0 " or "

@@ -159,7 +159,7 @@
  FORMER_SPOUSE:0 "元[spouse|E]"
  CHARACTER_TT_NAME:0 "[Character.GetUINameNotMeNoTooltip]"
  CHARACTER_TT_AGE:0 "[Character.GetAge]歳"
- CV_COURTIER_SPONSOR_INSPIRATION:0 ", or if you [sponsor|E] [Character.GetHerHis] [Character.GetCurrentInspiration.GetName]"
+ CV_COURTIER_SPONSOR_INSPIRATION:0 "、またはあなたが[Character.GetHerHis]の[Character.GetCurrentInspiration.GetName]を[sponsor|E]している"
  CV_COURTIER_STAY_REASON:0 "$knight_culture_player$や[councillor|E][SelectLocalization( And( HasDlcFeature( 'inspirations' ), CHARACTER.HasInspiration ), 'CV_COURTIER_SPONSOR_INSPIRATION', '' )]としての雇用といった"
  RENAME_CHARACTER:0 "#I クリックで人物の名前を変更#!"
  VASSAL_SORT_POWER:0 "$CLAIMANT_SORT_STRENGTH$"

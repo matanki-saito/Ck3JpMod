@@ -169,4 +169,4 @@
  HOLDING_VIEW_CAN_NOT_UPGRADE_BUILDING:0 "#help 現在この[holding|E]をアップグレードできません、クリックで詳細と将来可能なアップグレードを表示します。#!"
  RAID_TT_MONTHS_OF_RAID_LOOT_MULT:0 "月間の[raid_loot|E]"
  RAID_TT_MONTHLY_LOOT:0 "月間[raid_loot|E]"
- BUILDING_EFFECT_COUNTY_HOLDER_CHARACTER_HEADER:0 "#low Holder of this County:#!"
+ BUILDING_EFFECT_COUNTY_HOLDER_CHARACTER_HEADER:0 "#low この伯爵領の所有者:#!"

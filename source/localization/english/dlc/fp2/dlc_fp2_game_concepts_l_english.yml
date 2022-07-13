@@ -46,7 +46,7 @@
  game_concept_dissolution_faction:0 "解体派閥"
  game_concept_dissolution_factions:0 "派閥らの解散"
  game_concept_faction_dissolution:0 "解散"
- game_concept_dissolution_faction_desc:0 "The [dissolution_faction|E] seeks to destroy the [realm|E] of their [liege|E]. If they are successful, all the vassals in the realm become [independent|E], and their liege loses their [primary_title|E]."
+ game_concept_dissolution_faction_desc:0 "[dissolution_faction|E]は、その[liege|E]が統治する[realm|E]を打ち砕こうとします。成功すれば、領国の封臣全てが[independent|E]となります。加えて、元君主は[primary_title|E]を失います。"
  game_concept_improve_city_province_decision:0 "$improve_city_province_decision_name$の決断"
  game_concept_improve_city_province_decision_desc:0 "[city_holding|E]で利用可能な[buildings|E]の数を増やすことを可能にする[decision|E]。"
  game_concept_border_raid:0 "国境の襲撃"

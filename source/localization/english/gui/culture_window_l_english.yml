@@ -78,7 +78,7 @@
  CULTURAL_ACCEPTANCE_FROM_SHARED_REALMS:0 "[Concept( 'culture_intermingling', '領内の文化混淆' )|E]"
  CULTURAL_ACCEPTANCE_FROM_VASSALS:0 "封臣"
  CULTURAL_ACCEPTANCE_FROM_REGRESSION:0 "[Concept( 'cultural_acceptance_baseline', 'Baseline' )|E]に向けて低下($BASELINE|%/0$)"
- CULTURAL_ACCEPTANCE_FROM_REGRESSION_NO_INTERACTION:0 "Decay towards [Concept( 'cultural_acceptance_baseline', 'Baseline' )|E], no interaction ($BASELINE|%/0$)"
+ CULTURAL_ACCEPTANCE_FROM_REGRESSION_NO_INTERACTION:0 "[Concept( 'cultural_acceptance_baseline', 'Baseline' )|E]に向けて低下、相互作用なし($BASELINE|%/0$)"
  CULTURAL_ACCEPTANCE_DIMINISHING_RETURNS:0 "現在の受容"
  CULTURAL_ACCEPTANCE_FROM_NO_INTERACTION:0 "関係行動なし"
  CULTURAL_ACCEPTANCE_FROM_TASK:1 "[CHARACTER.GetShortUINameNotMe]は[promoting_cultural_acceptance|E]中です"
