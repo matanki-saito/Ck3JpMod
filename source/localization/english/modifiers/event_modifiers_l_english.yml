@@ -158,7 +158,7 @@
  playing_with_miniatures:0 "ミニチュアで遊ぶ"
  playing_with_miniatures_desc:0 "This character is distractedly dreaming of thin paints"
  artifact_3000_reusing_artifact_weapon_modifier:0 "金属の再利用"
- artifact_3000_reusing_artifact_weapon_modifier_desc:1 "この人物は以前の宝物を溶かし、原材料にして保管した。これらは新しい武器や鎧の役に立つかもしれない。"
+ artifact_3000_reusing_artifact_weapon_modifier_desc:1 "この人物はかつての宝物を溶かし、原材料にして保管した。これらは新しい武器や鎧の役に立つかもしれない。"
  artifact_3000_reusing_artifact_wood_modifier:0 "材木の再利用"
  artifact_3000_reusing_artifact_wood_modifier_desc:1 "この人物は以前の宝物を分解して、原材料にして保管した。これらは新しい工芸的な宝物の役に立つかもしれない。"
  artifact_3000_reusing_artifact_jewels_modifier:0 "宝石の再利用"
