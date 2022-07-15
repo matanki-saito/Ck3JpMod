@@ -426,7 +426,7 @@
  nation_fracturing_faction_war_defeat_defender_desc:0 "[defender.GetShortUIName|U]はすべての反逆した封臣を投獄し、各人への[revoke_title_reason|E]を獲得します。"
  nation_fracturing_defeat_attacker_desc:0 "[defender.GetShortUIName|U]はあなたたち反逆した封臣すべてを投獄し、各反逆者への[revoke_title_reason|E]を獲得します。"
  nation_fracturing_defeat_end_desc:0 "[nation_fracturing_faction|E]は解散され、そのメンバーは[SCOPE.ScriptValue('faction_war_defeat_cooldown')|0]年間は派閥に参加できません。"
- MEDI_CONQUEST_CB_NAME:0 "Mediterranean Conquest for [county|E]"
+ MEDI_CONQUEST_CB_NAME:0 "[county|E]の地中海征服"
  fp2_mediterranean_conquest_cb:0 "地中海の征服"
  STRUGGLE_WAR_NAME:2 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]と[DEFENDER.GetPrimaryTitle.GetName]の[struggle_conquest_conquest|E]"
  STRUGGLE_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
