@@ -11,5 +11,5 @@
  fabrication_hook:0 "捏造"
  trial_by_combat_hook:0 "決闘裁判に勝利"
  sumptuary_crime_hook:0 "奢侈禁止令を破った"
- minor_crime_accomplice_hook:0 "Crime Accomplice"
- major_crime_accomplice_hook:0 "Serious Crime Accomplice"
+ minor_crime_accomplice_hook:0 "犯罪の共犯"
+ major_crime_accomplice_hook:0 "重大犯罪への共犯"
