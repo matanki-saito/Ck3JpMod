@@ -392,4 +392,4 @@
  task_conversion.tt.forbidden.due_to_struggle_phase:0 "この[struggle_phase_phase|E]において、あなたはこの[struggle|E][struggle_region_region|E]内で[convert_county|E]を使用できません"
  COURT_CHAPLAIN_CONVERSION_EASIER_TO_CONVERT_FAITH_IN_MOUNTAINS_BONUS_MODIFIER:0 "[councillor.GetFaith.GetName]――山岳の[GetFaithDoctrine('tenet_cthonic_redoubts').GetBaseName]"
  COURT_CHAPLAIN_CONVERSION_HARDER_TO_CONVERT_FAITH_AWAY_IN_MOUNTAINS_MALUS_MODIFIER:0 "[county.GetFaith.GetName]――山岳の[GetFaithDoctrine('tenet_cthonic_redoubts').GetBaseName]"
- fp2_lyonese_monk_faith_conversion_task_desc:0 "[GetFaithByKey('adoptionist').GetAdherentName] converting other $christianity_religion_adherent_plural$"
+ fp2_lyonese_monk_faith_conversion_task_desc:0 "[GetFaithByKey('adoptionist').GetAdherentName]を他の$christianity_religion_adherent_plural$に改宗します"

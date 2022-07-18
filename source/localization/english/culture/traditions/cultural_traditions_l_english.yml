@@ -951,7 +951,7 @@
  cannot_have_tradition_byzantine_succession:0 "$cannot_combine_tradition_trigger_desc$#high $tradition_byzantine_succession_name$#!を持っていない"
  cannot_have_vegetarianism_and_sacred_hunts:0 "#high $tradition_vegetarianism_name$#!の[tradition|E]は#high $tradition_sacred_hunts_name$#!と並存できない"
  cannot_have_vegetarianism_and_hunters:0 "#high $tradition_vegetarianism_name$#!の[tradition|E]は#high $tradition_hunters_name$#!と並存できない"
- remove_marriage_traditions:0 "The [culture_scope.GetName] [culture|E] loses any [marriage|E]-altering [traditions|E] that conflict with the [doctrines|E] of [faith_scope.GetName]"
+ remove_marriage_traditions:0 "[culture_scope.GetName][culture|E]は、[faith_scope.GetName]の[doctrines|E]に抵触する[marriage|E]を変更する[traditions|E]を失います"
  culture_tradition_events.0100.t:0 "文化と信仰の破壊"
  culture_tradition_events.0100.desc:0 "[head_of_faith.GetTitledFirstName]からの書状が届いた。それは社交的な挨拶で始まり、[culture_scope.GetName]の人々の目から見た私の重要性を概説している。\n\n"
  culture_tradition_events.0100.tradition_monogamous:0 "「人々が一夫一婦制を実践している限り、あなたは[faith_scope.GetAdjective]の教義に違反していることを理解しなければならない！私はただ、あなたの救済を願っている。すべての善良な[faith_scope.GetAdjectiveNoTooltip]の義務は、一人の配偶者だけ​​で果たすことはできない。」と、書状には綴られている。"

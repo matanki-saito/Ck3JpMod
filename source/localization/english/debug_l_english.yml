@@ -233,5 +233,5 @@
  start_bout_interaction_board_game_tabula:0 "タブラ"
  start_bout_interaction_board_game_hnefatafl:0 "フナファテフル"
  debug_sex_interaction:0 "#italic Sleep#! With Character"
- debug_change_every_county:0 "Take Action In Every County"
+ debug_change_every_county:0 "全ての伯爵領にアクションを起こす"
  debug_change_every_county.a:0 "完全支配"
