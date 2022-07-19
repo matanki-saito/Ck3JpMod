@@ -28,7 +28,7 @@
  artifact_cabinet_name:0 "$artifact_name_prefix$の飾り棚"
  artifact_cabinet_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した飾り棚。[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]のパネルで組み立てられている。[newly_created_artifact.GetFeatureText( 'wood_decoration' )]"
  create_artifact_cabinet_tooltip:0 "[inspiration_owner.GetShortUIName]は[SCOPE.Custom('ArtifactQuality')]職人芸の飾り棚を製作しました"
- artifact_diwan_name:0 "$artifact_name_prefix$のディーワーン"
+ artifact_diwan_name:0 "$artifact_name_prefix$の長椅子"
  artifact_diwan_description:0 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した長椅子。頑丈な[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]の構造でできており、枕で覆われている。[newly_created_artifact.GetFeatureText( 'wood_decoration' )]"
  create_artifact_diwan_tooltip:0 "[inspiration_owner.GetShortUIName]は[SCOPE.Custom('ArtifactQuality')]職人芸の長椅子を製作しました"
  artifact_table_name:0 "$artifact_name_prefix$の机"

@@ -46,7 +46,7 @@
  inspiration_artisan_type_box:0 "箱"
  inspiration_artisan_type_sculpture:0 "彫刻"
  inspiration_artisan_type_cabinet:0 "飾り棚"
- inspiration_artisan_type_diwan:0 "a diwan"
+ inspiration_artisan_type_diwan:0 "長椅子"
  inspiration_artisan_type_table:0 "机"
  inspiration_artisan_type_throne:0 "玉座"
  smith_inspiration_description_set_type:0 "[ROOT.Char.Custom('InspirationSmithType')][ROOT.Char.Custom('InspirationForgePresentFuture')]"
