@@ -68,7 +68,7 @@
  seduce_outcome.2303.a:0 "そんな雄弁な[target.GetWomanMan]を否定できるのは誰だ？"
  seduce_outcome.2303.b:0 "確かにやりとりは楽しかったが、この会話は終わりだ。"
  seduce_outcome.2304.t:0 "開放的な空の下で"
- seduce_outcome.2304.desc:0 "[target.GetTitledFirstName]と私は並んでしゃがみこんでいる。目の前の[ROOT.Char.Custom('LocalAnimalDesc')]する[ROOT.Char.Custom('LocalAnimal')]は私たちの存在に気づいていない。私の注意点は揺るがない — 特に注意点は[target.GetFirstNamePossessive]の[target.Custom('GetClothingArticle')]が私に度々接触していたことだった。私が[target.GetHerHim]を抱きしめようと手を伸ばすと、[target.GetSheHe]もまた、私の#EMP 他の場所に#!注意点を持っていたことに気づいた。\n\n[ROOT.Char.Custom('LocalAnimal')]が[ROOT.Char.Custom('TerrainType')]の中へ消えていくとき、二人の裸の肉体は互いに柔らかい大地に包まれ、そして揺さぶられていた。"
+ seduce_outcome.2304.desc:0 "[target.GetTitledFirstName]と私は並んでしゃがみこんでいる。目の前の[ROOT.Char.Custom('LocalAnimalDesc')][ROOT.Char.Custom('LocalAnimal')]は私たちの存在に気づいていない。私の注意点は揺るがない — 特に注意点は[target.GetFirstNamePossessive]の[target.Custom('GetClothingArticle')]が私に度々接触していたことだった。私が[target.GetHerHim]を抱きしめようと手を伸ばすと、[target.GetSheHe]もまた、私の#EMP 他の場所に#!注意点を持っていたことに気づいた。\n\n[ROOT.Char.Custom('LocalAnimal')]が[ROOT.Char.Custom('TerrainType')]の中へ消えていくとき、二人の裸の肉体は互いに柔らかい大地に包まれ、そして揺さぶられていた。"
  seduce_outcome.2304.a:0 "一緒にこうなるのが自然なことだったんだ！"
  seduce_outcome.2304.b:0 "バラバラな部分を一つに結合すること— それはすべて人生の一部です。"
  seduce_outcome.2305.t:0 "恋文"
