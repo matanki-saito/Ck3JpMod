@@ -61,4 +61,4 @@
  TITLE_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有している"
  TITLE_NOT_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有して#bold いない#!"
  LANDED_TITLE_THIS_EQUAL:0 "$TITLE$である"
- FORM_HISPANIA_MUST_END_STRUGGLE_TRIGGER:0 "$e_spain$ cannot be formed till the [iberian_struggle|E] has been resolved"
+ FORM_HISPANIA_MUST_END_STRUGGLE_TRIGGER:0 "[iberian_struggle|E]が解決されない限り、$e_spain$は形成できません"
