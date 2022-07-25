@@ -585,7 +585,7 @@
  NOT_MISSING_UNIQUE_ANCESTORS_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U]は$NUM|E$名を超える人数の異なった祖先を持っていては#bold ならない#!"
  character_this_equal:1 "標的は[CHARACTER.GetShortUIName]である"
  character_scope_equal:1 "標的は[CHARACTER.GetShortUIName]である"
- none_this_equal:2 "Target is unknown"
+ none_this_equal:2 "目標が不明である"
  YOU_COMPLETELY_CONTROL_TITLE_DESC:0 "あなたが[TARGET_TITLE.GetNameNoTier]を[completely_control|E]している"
  YOU_DO_NOT_COMPLETELY_CONTROL_TITLE_DESC:0 "あなたが[TARGET_TITLE.GetNameNoTier]を[completely_control|E]#bold していない#!"
  COMPLETELY_CONTROLS_TITLE_DESC:1 "[TARGET_TITLE.GetNameNoTier]を[completely_controls|E]している"

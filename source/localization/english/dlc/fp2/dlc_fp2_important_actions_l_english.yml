@@ -9,7 +9,7 @@
  action_can_offer_assistance_combined_group_description:0 "Other [struggle_involved|E] [rulers|E] are fighting [wars|E], allowing you to offer to aid them in exchange for [gold|E]"
  action_can_offer_assistance_combined_unimportant:0 "$action_can_offer_assistance_unimportant$"
  action_can_offer_assistance_unimportant:0 "@warning_icon!#X あなたはすでに[war|E]中です#!"
- action_can_offer_assistance_HELP:1 "\n\n#help As a [ruler|E], you may also be invaded, and it may be beneficial to wait until you are in a safe position to join another [war|E].#!"
+ action_can_offer_assistance_HELP:1 "\n\n#help [ruler|E]としてあなたは侵略される可能性もあり、安全な状態になるまで待って、別の[war|E]に参加するのが得策かもしれません。#!"
  action_can_bargain_fealty:0 "支援と引き換えに臣従関係を提案可能"
  action_can_bargain_fealty_label:0 "You can offer [recipient.GetShortUINameNoTooltip] your service in exchange for their protection"
  action_can_bargain_fealty_combined_label:0 "[recipient.GetShortUINameNoTooltip]"

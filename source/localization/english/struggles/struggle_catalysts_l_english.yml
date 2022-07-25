@@ -76,7 +76,7 @@
  catalyst_vassalize_independent_ruler:0 "[independent_ruler]臣従化の[struggle_catalyst_catalyst|E]"
  catalyst_vassalize_independent_ruler_desc:0 "[independent_ruler|E]を臣従させる"
  catalyst_join_war_as_assisant:0 "[struggle_catalyst_catalyst|E]の戦争に参戦"
- catalyst_join_war_as_assisant_desc:1 "Join a war by selling your services to a non-ally [struggle_involved|E] [ruler|E]"
+ catalyst_join_war_as_assisant_desc:1 "非同盟国である[struggle_involved|E]の[ruler|E]に奉仕を売ることで戦争に参加します"
  catalyst_win_any_war_within_the_region:0 "戦争に勝利した[struggle_catalyst_catalyst|E]"
  catalyst_win_any_war_within_the_region_desc:1 "あなたが始めた他の[struggle_involved|E]である[ruler|E]との戦争に勝利する"
  catalyst_becomes_rival_with_involved:0 "ライバル関係拡大の[struggle_catalyst_catalyst|E]"
