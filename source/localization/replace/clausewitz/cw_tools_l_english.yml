@@ -62,7 +62,7 @@
  map_content_editor_property_paint_tooltip:0 "プロパティの描画モードです。有効な場合、マップとの相互作用により、このプロパティ値が割り当てられます。"
  map_content_editor_property_paint_map_tooltip_title:0 "プロパティ描画モード"
  map_content_editor_property_paint_map_tooltip_desc:0 "地図上をクリックし、描画すると、現在選択されているプロパティの値が割り当てられます。"
- map_content_editor_property_paint_mode_desc:0 "Currently painting with property #color:{0.9,0.9,0} $NAME$ #!"
+ map_content_editor_property_paint_mode_desc:0 "現在、プロパティ#color:{0.9,0.9,0} $NAME$#!で描画中"
  map_content_editor_sub_tool_paint_pixels:0 "ピクセル描画モード"
  map_content_editor_sub_tool_erase_pixels:0 "ピクセル消去モード"
  map_content_editor_sub_tool_select_mode:0 "選択モード"
