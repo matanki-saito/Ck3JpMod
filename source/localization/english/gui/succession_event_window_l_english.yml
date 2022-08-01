@@ -253,4 +253,4 @@
  SUCCESSION_EVENT_WINDOW_END_DATE_RESTORED_DUMNONIA_DESC:0 "あなたによってコーンウォールの人々は再び$k_cornwall$王国となるために立ち上がった。"
  SUCCESSION_EVENT_WINDOW_END_DATE_RESTORED_CAROLINGIAN_DESC:0 "シャルルマーニュにとっては夢のようなことであっても、$e_france$王国の復興者であるあなたにとってそれは現実である。"
  SUCCESSION_EVENT_WINDOW_END_DATE_RESTORED_HOLY_ROMAN_EMPIRE_DESC:0 "あなたは、失われた栄光の$e_hre$の真の体現者であり、それはあなたの力により再び確立されたのである。"
- SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_CANARIAS_DESC:0 " Everyone across the islands know your name as the founder of the Kingdom of $k_canarias$."
+ SUCCESSION_EVENT_WINDOW_END_DATE_CREATED_CANARIAS_DESC:0 "島中の誰もが、$k_canarias$王国の創始者としてあなたの名前を知っている。"

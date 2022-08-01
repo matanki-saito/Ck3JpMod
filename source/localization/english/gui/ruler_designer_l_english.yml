@@ -282,7 +282,7 @@
  hairstyles:0 "髪型"
  beards:0 "髭の形"
  RULER_DESIGNER_CLIPPING_NOTE:0 "極端な形状は、頭飾りや衣服に干渉する可能性があります"
- RULER_DESIGNER_SEXUALITY_NOT_AVAILABLE_INFO:0 "Children develop a sexuality as they age"
+ RULER_DESIGNER_SEXUALITY_NOT_AVAILABLE_INFO:0 "子供は年齢とともに性的関心を発達させます"
  RULER_DESIGNER_TITLE_NAME_TIER:0 "[RulerDesignerWindow.GetTitleName]の[RulerDesignerWindow.GetCharacterToOverwrite.GetPrimaryTitle.GetTierAsNameNoTooltip]"
  RULER_DESIGNER_TITLE_NAME_DEFINITE:0 "[RulerDesignerWindow.GetTitleName]"
  RULER_DESIGNER_TITLE_NAME:0 "[SelectLocalization( RulerDesignerWindow.TitleUsesDefiniteForm, 'RULER_DESIGNER_TITLE_NAME_DEFINITE', 'RULER_DESIGNER_TITLE_NAME_TIER' )]"
