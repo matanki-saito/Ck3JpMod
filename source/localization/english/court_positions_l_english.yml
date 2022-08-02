@@ -22,7 +22,7 @@
  APPOINT_COURT_POSITION_VIEW_REPLACE_CONSEQUENCE_FOR_REVOKE:0 "#T この役職を剥奪すると次のようになります: #!"
  APPOINT_COURT_POSITION_VIEW_REPLACE_CONSEQUENCE_FOR_REVOKE_TOOLTIP:0 "#X [AppointCourtPositionView.ReplaceRevokeText]#!"
  APPOINT_COURT_POSITION_VIEW_APTITUDE:0 "[aptitude|e]: [AppointCourtPositionView.GetAptitudeTextFor(Character.Self)]"
- APPOINT_COURT_POSITION_VIEW_OPINION_BONUS:0 "[AppointCourtPositionView.GetSelectedCharacter.GetShortUINameNoTooltip]からの[opinion|e]：[AppointCourtPositionView.GetOpinionBonusForSelectedEmployee|=+]"
+ APPOINT_COURT_POSITION_VIEW_OPINION_BONUS:0 "[AppointCourtPositionView.GetSelectedCharacter.GetShortUINameNoTooltip]からの[opinion|e]: [AppointCourtPositionView.GetOpinionBonusForSelectedEmployee|=+]"
  COURT_WINDOW_COURT_POSITIONS:0 "宮廷職"
  COURT_POSITION_REPLACE:0 "#T [Character.GetShortUINameNoTooltip]を置き換え#!"
  COURT_POSITION_REVOKE:0 "#T [Character.GetShortUINameNoTooltip]を罷免#!"

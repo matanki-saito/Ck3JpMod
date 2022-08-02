@@ -51,7 +51,7 @@
  game_concept_improve_city_province_decision_desc:0 "[city_holding|E]で利用可能な[buildings|E]の数を増やすことを可能にする[decision|E]。"
  game_concept_border_raid:0 "国境の襲撃"
  game_concept_border_raids:0 "国境の襲撃"
- game_concept_border_raiding:0 "国境の襲撃中"
+ game_concept_border_raiding:0 "国境の襲撃"
  game_concept_border_raid_desc:3 "これは特殊な形態の[war|E]で、イベリアの[struggle|E]における[struggle_involved|E]であり[rulers|E]である者同士が利用でき、特定の敵[realm|E]内にある[county|E]の[siege|E]を目的とするものです。\n\nこの[war|E]における[war_leader|E]は、[war_target|E]の確保により[gold|E]を手にし、[development|E]と[control|E]を失墜させます。また、[buildings|E]破壊の可能性もあり、より多くの[gold|E]がもたらされ、[development|E]や[siege|E]を行う[army|E]規模の拡大のチャンスが増えます。\n\n攻撃側は、[war_target|E]の[occupying|E]によって、[war_score|E]の迅速な獲得が見込めます。"
  game_concept_bargain_fealty:0 "忠誠の買い取り"
  game_concept_bargained_fealty:0 "買い取った忠誠"

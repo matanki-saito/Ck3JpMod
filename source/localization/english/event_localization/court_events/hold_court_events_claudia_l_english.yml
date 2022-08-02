@@ -53,7 +53,7 @@
  hold_court.6040.d:0 "[ROOT.Char.GetFaith.DevilName]の作品に違いない！燃やせ！"
  hold_court.6040.e:0 "誰が本など気にするのだ？"
  hold_court.6050.t:0 "聖なる墓"
- hold_court.6050.desc:1 "目前の農夫は、興奮を爆発させそうであった。\n\n「[ROOT.Char.GetLadyLord]様！奇跡です！神聖なのです！#EMP 祝福を授かった#!のです！」\n\n[6050_pop.GetHerHis|U]の、熱に浮かされ何事かぶつぶつ呟きつづける様子はこちらの混乱を誘う。しかし、ついに言わんとする核心を掴んだ：[6050_pop.GetSheHe]は、最近[6050_tomb.GetNameNoTooltip]で死んだ土着信仰の聖人の後援を私に望んでいるようだ。生前、[6050_holy.GetFirstName]は奇跡の——体現者であったとのこと。また、[6050_holy.Custom('GetMiracle1')]こと、そして、[6050_holy.Custom('GetMiracle2')]ことで知られていると。[6050_holy.GetHerHis|U]の墓は、あまねく領国から熱心な参拝者を集めるだろうとも。"
+ hold_court.6050.desc:1 "目前の農夫は、興奮を爆発させそうであった。\n\n「[ROOT.Char.GetLadyLord]様！奇跡です！神聖なのです！#EMP 祝福を授かった#!のです！」\n\n[6050_pop.GetHerHis|U]の、熱に浮かされ何事かぶつぶつ呟きつづける様子はこちらの混乱を誘う。しかし、ついに言わんとする核心を掴んだ: [6050_pop.GetSheHe]は、最近[6050_tomb.GetNameNoTooltip]で死んだ土着信仰の聖人の後援を私に望んでいるようだ。生前、[6050_holy.GetFirstName]は奇跡の——体現者であったとのこと。また、[6050_holy.Custom('GetMiracle1')]こと、そして、[6050_holy.Custom('GetMiracle2')]ことで知られていると。[6050_holy.GetHerHis|U]の墓は、あまねく領国から熱心な参拝者を集めるだろうとも。"
  hold_court.6050.desc_hof:0 "\n\n[head_of_faith|E]として大権を振るい、この信仰を激しく非難するか列聖とするか判断しよう。"
  hold_court.6050.a:0 "[6050_holy.GetHerHis|U]の神聖な行いは、崇拝を得るに値するのだろう。"
  hold_court.6050.b:0 "分かっておる。その聖人は我が夢へと現れたのだ。"
