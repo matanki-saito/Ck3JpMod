@@ -14,7 +14,7 @@
  pet_animal.0103.desc:0 "外に出ると、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal'))][vassal.GetTitledFirstName]が我が猫[ROOT.Char.Custom('CatStoryName')]の横にしゃがんで、優しく頭を撫でている姿を目にした。\n\n「[ROOT.Char.GetLadyLord]、とても愛らしい猫をお持ちですね」"
  pet_animal.0103.a:0 "とても鋭いな！"
  pet_animal.0104.t:0 "[ROOT.Char.Custom('CatStoryName')]: 喉鳴らしの慰め"
- pet_animal.0104.desc:0 "また別のストレスフルな一日を終えると、私は自室の椅子に崩れ落ちた――このことをあとどれぐらい続ければいい？\n\n突然小さくニャーと聞こえると、私の猫[ROOT.Char.Custom('CatStoryName')]が私の膝に飛び乗り喉を鳴らし始めた。しばらく[ROOT.Char.Custom('CatStoryHerHim')]と座っていると、ただただ静寂を感じつつ[ROOT.Char.Custom('CatStoryHerHis')]の[ROOT.Char.Custom('CatFurColor')]の毛を撫でていた。"
+ pet_animal.0104.desc:0 "また別のストレスに満ちた一日を終えると、私は自室の椅子に崩れ落ちた――こんなことをあとどれぐらい続ければよいのだ？\n\n突然小さくニャーと聞こえると、私の猫[ROOT.Char.Custom('CatStoryName')]が私の膝に飛び乗り喉を鳴らし始めた。しばらく[ROOT.Char.Custom('CatStoryHerHim')]と座っていると、ただただ静寂を感じつつ[ROOT.Char.Custom('CatStoryHerHis')]の[ROOT.Char.Custom('CatFurColor')]の毛を撫でていた。"
  pet_animal.0104.a:0 "もうちょっとやれる気がしてきたな。"
  pet_animal.0105.t:0 "[ROOT.Char.Custom('CatStoryName')]: 明かされる秘密"
  pet_animal.0105.desc_opening:0 "#EMP ニャー！#!\n\n見下ろすと私の猫[ROOT.Char.Custom('CatStoryName')]が足元に巻物を落としたようだ―[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('person'))][person.GetTitledFirstNamePossessive]の独特の様式で封がしてある。好奇心に負け、この文章をざっと読む…\n\n"

@@ -33,7 +33,7 @@
  catalyst_revoked_powerful_diff_faith_vassal_religious_protection_desc:2 "[powerful_vassal_possessive|E] [GetVassalContractType( 'religious_rights' ).GetObligationName( 'religious_rights_protected' )|E] [contract|E]を削除します"
  catalyst_broke_truce_against_important_character:0 "[truce|E]破棄の[struggle_catalyst_catalyst|E]"
  catalyst_broke_truce_against_important_character_desc:4 "[struggle_involved|E]である[ruler|E]との[truce|E]を破棄する"
- catalyst_discovery_of_very_important_murder:1 "暴露された宗派 [GetScheme('murder').GetTypeName]の[struggle_catalyst_catalyst|E]"
+ catalyst_discovery_of_very_important_murder:1 "暴露された派閥の[GetScheme('murder').GetTypeName]の[struggle_catalyst_catalyst|E]"
  catalyst_discovery_of_very_important_murder_desc:4 "[struggle_involved|E] 王、[head_of_faith|E]または[culture_head|E]が殺害されたことを暴露する"
  catalyst_fabricating_duchy_level_claims:0 "捏造された[duchy|E]の[claims|E]の[struggle_catalyst_catalyst|E]"
  catalyst_fabricating_duchy_level_claims_desc:3 "闘争地域内の[duchy|E]-[title_tier|E] [title|E]の[fabricate_claim|E]"
