@@ -98,7 +98,7 @@
  stewardship_domain_pecuniary_oversight_modifier:0 "金銭上の監督"
  stewardship_domain_expanded_public_works_modifier:0 "拡大した公共事業"
  county_extorted_modifier:0 "徴発された伯領"
- county_extorted_modifier_desc:0 "​この伯領は支配者から強い徴発を受けている。"
+ county_extorted_modifier_desc:0 "​この伯領は統治者から強い徴発を受けている。"
  extorted_theocratic_vassals_modifier:0 "神権制の封臣からの徴発"
  extorted_theocratic_vassals_modifier_desc:0 "この人物は、自らの領国における宗教的権威に対して、出来得る限りの徴発を行っている"
  extorted_vassals_modifier:0 "封臣からの徴発"

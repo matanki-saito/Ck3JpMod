@@ -1,6 +1,6 @@
 ﻿l_english:
- fp2_struggle.3001.t:0 "戦争の値段"
- fp2_struggle.3001.desc:0 "[struggle_3001_steward.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は荘重な態度で部屋に入る。「[ROOT.GetCharacter.GetLadyLord]様」、[struggle_3001_steward.GetSheHe]は言う、「私たちの金庫はほとんど空です。この時期は危険です」[struggle_3001_steward.GetSheHe|U]はこれ以上言う必要はない。 沈黙の中で、私は不機嫌そうな表情をする。「[ROOT.GetCharacter.GetLadyLord|U] 様...」、[struggle_3001_steward.GetSheHe]は私が去るときに繰り返す。"
+ fp2_struggle.3001.t:0 "戦争の価値"
+ fp2_struggle.3001.desc:0 "[struggle_3001_steward.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は荘重な態度で部屋に入る。「我が[ROOT.GetCharacter.GetLadyLord]」、[struggle_3001_steward.GetSheHe]は言う、「私たちの金庫はほとんど空です。この時期は危険です」[struggle_3001_steward.GetSheHe|U]はこれ以上言う必要はない。 沈黙の中で、私は不機嫌そうな表情をする。「我が[ROOT.GetCharacter.GetLadyLord|U]…」、[struggle_3001_steward.GetSheHe]は私が去るときに繰り返す。"
  fp2_struggle.3001.desc_no_war_intro:0 "\n\n私が持っているのはこの王冠だけだ。 この王冠と良い統治をする義務がある。 しかし、それを維持するための富がなければ何が良いというのか？"
  fp2_struggle.3001.desc_war_intro:0 "\n\n私が持っているのはこの王冠だけだ。 この王冠と良い統治をする義務がある。 しかし、私の敗北に関係なく奪われる王冠は何が良いというのか？"
  fp2_struggle.3001.desc_outro:0 "私は手を伸ばして、冷たい物質に触る — 黄金だ。\n\n私はそれに興味があるだろういくつかの悪徳商人を知っている..."

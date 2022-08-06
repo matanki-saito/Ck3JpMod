@@ -1,7 +1,7 @@
 ﻿l_english:
  become_chakravarti_decision:0 "転輪聖王（チャクラヴァルティ）になる"
- become_chakravarti_decision_desc:0 "#F 必要な儀式と式典をもって、天下を統べる正当な支配者としての神聖な地位を宣言する。#!"
- become_chakravarti_decision_tooltip:0 "インドを世界のしかるべき支配者として統一します"
+ become_chakravarti_decision_desc:0 "#F 必要な儀式と式典をもって、天下を統べる正当な統治者としての神聖な地位を宣言する。#!"
+ become_chakravarti_decision_tooltip:0 "インドを世界のしかるべき統治者として統一します"
  become_chakravarti_decision_indian_empires_unite_effect:0 "インド帝国を統合する"
  become_chakravarti_decision_new_primary_title_effect:0 "インド帝国は、私の新たな[primary_title|E]になる"
  become_chakravarti_decision_confirm:0 "儀式に参加する"

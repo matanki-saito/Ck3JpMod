@@ -324,7 +324,7 @@
  hold_court.8110.d:0 "お前は道化だ。#EMP 私の#!道化だ。"
  hold_court.8110.e:0 "何だ？この[peasant.GetWomanMan]はどうやって入ってきたんだ？誰か？"
  hold_court_8110_common_modifier:0 "庶民に触れる"
- hold_court_8110_haughty_modifier:0 "気取った"
+ hold_court_8110_haughty_modifier:0 "うぬぼれ"
  hold_court_8110_steward_modifier:0 "紛争の解決"
  hold_court_8110_execute_modifier:0 "Local Gem Executed"
  hold_court_8110_jester_modifier:0 "庶民を嘲笑う"

@@ -122,4 +122,4 @@
  tradition_burman_royal_army_desc:0 "$innovation_royal_army_tradition_desc$"
  culture_parameter_unlock_maa_huanch_vaulter:0 "[GetMaA('guanch_vaulter').GetName]を[men_at_arms|E]として採用可能"
  innovation_pole_vault:0 "棒高飛び"
- innovation_pole_vault_desc:0 "The pole vault, is a simple invention which requires much training and practice to master. A skilled vaulter will be able to propel themselves forward over great gaps and tall rocks, as well as over some fortifications."
+ innovation_pole_vault_desc:0 "棒高跳びは、単純な発明であるが、それを習得するには多くの訓練と練習とが必要である。熟練した棒高跳び選手は大きな隙間や高い岩、さらには要塞さえも乗り越えることができるだろう。"
