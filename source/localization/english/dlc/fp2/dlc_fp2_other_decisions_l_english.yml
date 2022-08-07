@@ -107,7 +107,7 @@
  fp2_council_opinion_mozarabic_effect_tt:0 "すべてのモサラベ派の出席者"
  fp2_council_opinion_other_effect_tt:0 "すべての非モラサべ派の出席者"
  fp2_council_conversion_modifier_tt:0 "この補正がある間、他の[religions|E]に対して、伯爵領内の信仰を改宗する速度が速くなります"
- fp2_council_heresies_modifier_tt:0 "Convert Faith in County will progress faster against same-[religion|E] [faiths|E] with [head_of_faiths|E] this modifier is present"
+ fp2_council_heresies_modifier_tt:0 "この補正が存在する[head_of_faiths|E]を持つ同[religion|E]の[faiths|E]に対して、伯爵領の信仰を改宗する速度はより速くなります"
  excluded_from_council_toledo_tt:0 "他のすべての[diplomatic_range|E]における[THIS.Char.GetFaith.GetReligion.GetAdjective]の[head_of_faith|E]"
  fp2_council_end_tt:0 "[SCOPE.ScriptValue('council_of_toledo_counter_value')][THIS.Char.Custom('get_council_of_toledo_count_suffix')]トレド会議が終了します"
  fp2_small_council_modifier:0 "トレド会議"

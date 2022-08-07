@@ -125,7 +125,7 @@
  commission_epic.2004.t:0 "一族の叙事詩: ひらめきに撃たれて"
  commission_epic.2004.desc_scribes:0 "[ROOT.Char.Custom('CommissionEpicComposer')|U]は、我が家の叙事詩の中で、戦争や戦いに関して…"
  commission_epic.2004.desc_composer:0 "[ROOT.Char.Custom2('CommissionEpicComposer', composer)]は、我が家の叙事詩の中で、戦争や戦いに関して…"
- commission_epic.2004.desc:1 "いくつかの脚色を入れている。これは劇的に場面を演出するが、特定の場面で[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('marshal'))]が顔をしかめるので、私は気分を害したかと心配した。\n\nようやく[marshal.GetSheHe]が考えを話してくれた時は思わずほっとした。「くだらないことばかりですが、この[ROOT.Char.Custom('CompositionDetail')]の部分は私にいくつかのアイデアを与えてくれました…」"
+ commission_epic.2004.desc:1 "いくつかの脚色を入れている。これは劇的に場面を演出するものだが、特定の場面で[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('marshal'))]が顔をしかめるので、私は気分を害したのではないかと心配した。\n\nようやく[marshal.GetSheHe]が考えを話してくれた時は思わずほっとした。「くだらぬものばかりですが、この[ROOT.Char.Custom('CompositionDetail')]の部分は私にいくつかのアイデアを与えてくれました…」"
  commission_epic.2004.a:0 "どこで思いついたことでも、利用すべきだ！"
  commission_epic.2004.b:0 "私に話を聞かせてくれ、詳細にな…"
  commission_epic.2005.t:0 "一族の叙事詩: 正直と認識"

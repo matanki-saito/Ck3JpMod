@@ -53,7 +53,7 @@
  pay_homage.0201.desc.insult_language:1 "[homage_liege.GetFirstNameNoTooltip]は私を厳しく見つめ、それから笑い声を上げると、私の誤った発音の誓いを下手な[homage_vassal.GetCulture.GetLanguage.GetNameNoTooltip]の訛りでオウム返しのように繰り返している…"
  pay_homage.0201.desc.insult_clumsy:0 "[homage_liege.GetFirstNameNoTooltip]は口に手を当てて大きく笑い、宮廷はゆっくりと笑いに包まれる。これが私が記憶される方法なのか…"
  pay_homage.0201.desc.insult_infatuation:0 "[homage_liege.GetFirstNameNoTooltip]は[homage_liege.GetHerHis]の[SCOPE.sC('homage_liege').Custom2('RelationToMeShort', SCOPE.sC('homage_infatuation'))]を怒った様子で見つめると、私を認めることなく部屋から追い出す。"
- pay_homage.0201.desc.insult_delivery:0 "[homage_liege.GetFirstNameNoTooltip] bowls over, cackling as [homage_liege.GetSheHe] recounts parts of my speech in detail..."
+ pay_homage.0201.desc.insult_delivery:0 "[homage_liege.GetFirstNameNoTooltip]は大笑いすると、私の演説の細部を繰り返し、キャッキャッという笑い声を上げている…"
  pay_homage.0201.desc.brush_off:0 "驚いたことに、[homage_liege.GetFirstNameNoTooltip]はほとんど何もなかったかのように振る舞い、私の敬意を優雅に受け入れる。\n\n"
  pay_homage.0201.desc.outro:0 "[homage_liege.GetFirstNameNoTooltip]は自分に立ち上がるように命じると、[homage_liege.GetHerHis]が満足したことや自分が[homage_liege.GetHerHis]の代わりに統治する土地の権利を認めたのだった。"
  pay_homage.0201.smooth.submission:0 "[homage_liege.GetTitleAsNameNoTooltip]よ、万歳。"
