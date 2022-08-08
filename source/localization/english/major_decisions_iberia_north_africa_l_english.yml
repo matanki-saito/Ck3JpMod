@@ -107,7 +107,7 @@
  iberia_north_africa.0121.c:0 "伝統を共有する価値のある宗教がもっとあるはずだ。"
  iberia_north_africa.0121.c.tt:0 "あなたは、より$doctrine_pluralism_pluralistic_name$的な道を提唱します"
  iberia_north_africa.0121.d:0 "私が変化を強要しようとするならば、私は[old_faith.GetNameNoTooltip]よりも腐敗しているのか？"
- iberia_north_africa.0121.d.tt:0 "You leave the faith as you find it"
+ iberia_north_africa.0121.d.tt:0 "信仰を見つけたままにしておきます"
  iberia_north_africa.0122.t:0 "$iberia_north_africa.0121.t$"
  iberia_north_africa.0122.desc.intro:0 "[religious_leader.GetTitledFirstNamePossessive]の"
  iberia_north_africa.0122.desc.excommunicated:0 "[old_faith.GetName]からの破門は、ついに[religious_leader.GetHerHim]にとって我慢ならないものになったようだ。"

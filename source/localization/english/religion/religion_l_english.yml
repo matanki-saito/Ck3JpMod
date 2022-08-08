@@ -831,7 +831,7 @@
  fervor_loss_ruler_converted:0 "統治者の改宗"
  fervor_gain_persecuted:0 "迫害による刺激"
  faith_conversion_cost_conversion_blocked_till_decision_taken:0 "この[faith|E]は[decision|E]によってアンロックされる必要があります"
- faith_conversion_cost_conversion_blocked_till_nebulous_circumstances:0 "This [faith|E] must be unlocked through #EMP mysterious circumstances#!"
+ faith_conversion_cost_conversion_blocked_till_nebulous_circumstances:0 "この[faith|E]は#EMP 不可思議な状況#!を通じてアンロックされる必要があります"
  holy_site_toledo_mozarabic_name:0 "トレド"
  holy_site_toledo_mozarabic_effect_name:0 "[holy_site|E]#weak ($holy_site_toledo_name$)#!から"
  holy_site_carthage_adoptionist_name:0 "カルタゴ"

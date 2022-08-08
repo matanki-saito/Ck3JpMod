@@ -100,7 +100,7 @@
  petition_liege.0101.bribe_factions.construct_temple:0 "派閥を抜けるのであれば、あなたは[petition_liege.GetFaith.HouseOfWorship]を手に入れるだろう。"
  petition_liege.0101.bribe_factions.development:0 "あなたの忠誠心が、この優しさに対する正当な対価なのだ。"
  petition_liege.0101.bribe_contract.council_seat:0 "惜しみない寄付があれば、あなたの地位を確保することができよう。"
- petition_liege.0101.bribe_contract.pay_debt:0 "I will increase your dues by way of repayment."
+ petition_liege.0101.bribe_contract.pay_debt:0 "返済の手段として、あなたの負担を増やすとしよう。"
  petition_liege.0101.bribe_contract.war_aid:0 "贈り物は双方向でなければならない。"
  petition_liege.0101.bribe_contract.vassal_war:0 "平和のために、あなたは私に何を与えてくれるのかな？"
  petition_liege.0101.bribe_contract.faction_war:0 "感謝を示すなら、私はあなたを助けよう。"
