@@ -321,7 +321,7 @@
  board_games.0001.e.tt.crit_failure.tt:0 "$board_games.0001.tt.crit_failure.points$"
  board_games.0001.f.random.a:0 "これではだめだ。腕相撲でどうだ？"
  board_games.0001.f.random.b:0 "If you try to move that [SCOPE.Custom('BG_GamePiece')], you're getting decked."
- board_games.0001.f.random.c:0 "*stab the board*"
+ board_games.0001.f.random.c:0 "*盤を一突き*"
  board_games.0001.f.random.d:0 "#BER I'll 'ave you!#!"
  board_games.0001.f.tt:0 "[SCOPE.Custom('BG_GameType')]において、[prowess|E]は[SCOPE.Custom('BG_CounterSkill_Prowess')]によって迎撃されます"
  board_games.0001.f.tt.crit_success:0 "$board_games.0001.tt.crit_success$"

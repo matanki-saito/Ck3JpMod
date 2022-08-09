@@ -56,7 +56,7 @@
  stewardship_general.2001.tt:0 "装身具を受け取りました"
  stewardship_general.2002.t:1 "印象深い展示"
  stewardship_general.2002.desc.intro:0 "我々が次の二つの屋台を通り過ぎると、"
- stewardship_general.2002.desc_impressed:0 "[helpful_councillor.GetTitledFirstNameNoTooltip]は私に笑顔で言う。\n\n「うむ、かなり良い！私自身も、これ以上のものはできないでしょう。」\n\n[helpful_councillor.GetSheHe|U]は何気なく隣の屋台の装飾品に目をやると、私を見越して横目で見ている。"
+ stewardship_general.2002.desc_impressed:0 "[helpful_councillor.GetTitledFirstNameNoTooltip]は私に笑顔で言う。\n\n「うむ、かなり良い！私でも、これ以上のものはできないでしょう。」\n\n[helpful_councillor.GetSheHe|U]は何気なく隣の屋台の装飾品に目をやると、私を見越して横目で見ている。"
  stewardship_general.2002.desc_very_impressed:0 "[helpful_councillor.GetTitledFirstNameNoTooltip] tugs at my sleeve in excitement.\n\n'By [ROOT.Char.GetFaith.HighGodName], that was a most delicious display! Such eloquence! One could barely keep up with the perpetual honey-soaked phrases in that bartering #EMP dance#!.' \n\n[helpful_councillor.GetSheHe|U] looks at me bewildered and with admiration."
  stewardship_general.2002.desc_insulted:0 "[helpful_councillor.GetTitledFirstNameNoTooltip]は不満そうな様子で私を見ている。\n\n「あれは…確かに面白い展示でしたね。我が[ROOT.Char.GetLadyLord]、私たちの狙いが何だったのかはよくわかりませんが、商人は欲しいものを手に入れたのでしょうね…」\n\n[helpful_councillor.GetSheHe|U]が先を歩き始め、我々の会話の終わりを告げる。"
  stewardship_general.2002.desc_very_insulted:0 "[helpful_councillor.GetTitledFirstNameNoTooltip]は反対を込めて鼻を鳴らす。\n\n「頭の悪い者にとっては、[bought_trinket.GetName]はかろうじてその名にふさわしいと主張できるでしょう。でも、我々のここでの判断は正しかったと#EMP 確信しています#!…」\n\n[helpful_councillor.GetSheHe|U]は明らかに、先ほどの私の貧弱な展示品に不満を持っているようだ。"
