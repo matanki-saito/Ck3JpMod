@@ -9,7 +9,7 @@
  enter_text_save_in_death_title:0 "テキストを保存"
  enter_text_save_in_death_desc:0 "クールなテキストを保存して、あなたの死後もそれがどのように続くかを見てみましょう"
  enter_text_save_in_death_opt:0 "行くぞ！"
- enter_text_save_in_death_retreive_desc:0 "You saved the text '[text_character.GetLocalizedText( 'test_saved_text' )]' on '[text_character.GetUIName]'"
+ enter_text_save_in_death_retreive_desc:0 "「[text_character.GetLocalizedText( 'test_saved_text' )]」を[text_character.GetUIName]に保存しました"
  enter_text_save_in_death_retreive_opt:0 "I'm sure this won't be misused in any way..."
  enter_text_save_in_death_clear_opt:0 "セーブテキストの消去"
  debug.322.title:0 ""
