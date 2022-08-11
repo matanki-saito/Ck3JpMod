@@ -48,7 +48,7 @@
  pay_homage.0201.desc.success:0 "[homage_liege.GetHerHis]の書記たちがその出来事を記録する中、私は主君の前に跪き、多くの敬意を表す誓いの言葉を述べる。\n\n"
  pay_homage.0201.desc.submission:0 "こうして儀式は終わった。[homage_liege.GetPrimaryTitle.GetTierAsNameNoTooltip]の家臣として忠実に使えるという約束以外、我が[homage_liege.GetTitleAsNameNoTooltip]に差し出せるものは何もなかった。\n\n"
  pay_homage.0201.desc.gold:0 "その後、従者たちは、集まった宮廷の人々の前で、私の豊かな贈り物を[homage_liege.GetTitleAsNameNoTooltip]に贈呈する。\n\n"
- pay_homage.0201.desc.hook:0 "Then comes my promise, that [homage_liege.GetSheHe] may call on me for any favor, as a loyal supporter of the [homage_liege.GetTitleAsNameNoTooltip] in all [homage_liege.GetHerHis] endeavors.\n\n"
+ pay_homage.0201.desc.hook:0 "それから来る私の約束は、[homage_liege.GetHerHis]のあらゆる努力における[homage_liege.GetTitleAsNameNoTooltip]の忠実な支援者として、[homage_liege.GetSheHe]が私に何かの支持を求めるかもしれないということだ。\n\n"
  pay_homage.0201.desc.contract:0 "次は私の贈り物の番だ。私は、自身の忠誠の証として、また王家の利益のため、[homage_liege.GetPrimaryTitle.GetTierAsNameNoTooltip]への貢献を増やすことを断言する。\n\n"
  pay_homage.0201.desc.insult_language:1 "[homage_liege.GetFirstNameNoTooltip]は私を厳しく見つめ、それから笑い声を上げると、私の誤った発音の誓いを下手な[homage_vassal.GetCulture.GetLanguage.GetNameNoTooltip]の訛りでオウム返しのように繰り返している…"
  pay_homage.0201.desc.insult_clumsy:0 "[homage_liege.GetFirstNameNoTooltip]は口に手を当てて大きく笑い、宮廷はゆっくりと笑いに包まれる。これが私が記憶される方法なのか…"
