@@ -326,7 +326,7 @@
  hold_court_8110_common_modifier:0 "庶民に触れる"
  hold_court_8110_haughty_modifier:0 "うぬぼれ"
  hold_court_8110_steward_modifier:0 "紛争の解決"
- hold_court_8110_execute_modifier:0 "Local Gem Executed"
+ hold_court_8110_execute_modifier:0 "地元の逸材の処刑"
  hold_court_8110_jester_modifier:0 "庶民を嘲笑う"
  hold_court.8120.t:0 "福音の反動"
  hold_court.8120.desc:0 "私は貧しい[peasant.GetFaith.GetAdherentName]、謙虚さと懇願の洞察に出会う。\n\n「栄誉ある[ROOT.Char.GetTitleAsNameNoTooltip]様、私は、[conversion_target.GetNameNoTierPossessive]の人々に嫌がらせをし、[ROOT.Char.GetFaith.GetName]を採り入れるため、彼らを駆り立てている司祭を止めてくださるよう嘆願に参りました。」\n\n"
