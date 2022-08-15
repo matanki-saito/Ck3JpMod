@@ -995,7 +995,7 @@
  culture_tradition_events.0141.b:0 "[ROOT.Char.GetFaith.GetNameNoTooltip]の信仰のメリットを明瞭にさせてくれないか…"
  culture_tradition_events.0141.b.tt.success:0 "あなたは[mendicant_mystic.GetFirstNameNoTooltip]を明らかにする"
  culture_tradition_events.0141.b.tt.failure:0 "あなたは対立したままだ"
- culture_tradition_events.0141.c:0 "Your [mendicant_mystic.GetFaith.HighGodName]! How many levies has [mendicant_mystic.GetFaith.HighGodNameSheHe|U] got?"
+ culture_tradition_events.0141.c:0 "あなたの[mendicant_mystic.GetFaith.HighGodName]！[mendicant_mystic.GetFaith.HighGodNameSheHe|U]は一体どれほど召集できたのかね？"
  not_bellicose_or_courtly_desc:0 "[culture|E]には$ethos_bellicose_name$や$ethos_courtly_name$の[ethos|E]が存在しない"
  not_egalitarian_or_courtly_desc:0 "[culture|E]には$ethos_egalitarian_name$や$ethos_courtly_name$の[ethos|E]が存在しない"
  lack_iberian_heritage_or_language_penalty_desc:0 "[culture|E]は$heritage_iberian_name$の[heritage|E]が欠けており、#EMP さらには#![culture_head|E]は$language_iberian_name$の[language|E]を話さない"

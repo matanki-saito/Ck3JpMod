@@ -66,7 +66,7 @@
  petition_liege.0101.bribe_gold.county_opinion:0 "この訪問には多くの費用がかかるな。"
  petition_liege.0101.bribe_gold.fortify_border:0 "さあ、あなたはそのような対策に金がかかるのはご存知だろう。"
  petition_liege.0101.bribe_gold.title_liege:0 "請求権は、あなたにとってどれほどの価値があるのかな？"
- petition_liege.0101.bribe_gold.title_vassal:0 "What is it too you, [petition_vassal.GetFirstNameNoTooltip]?"
+ petition_liege.0101.bribe_gold.title_vassal:0 "君に何の関係があるのだね、[petition_vassal.GetFirstNameNoTooltip]？"
  petition_liege.0101.bribe_gold.construct_city:0 "そういったものがいかに高価か、あなたはきっとご存知だろう。"
  petition_liege.0101.bribe_gold.construct_temple:0 "あなたはきっと離れを後援するのだろう？"
  petition_liege.0101.bribe_gold.development:0 "もちろん、だが若干の埋め合わせは必要だろうな。"

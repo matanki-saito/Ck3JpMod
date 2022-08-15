@@ -60,7 +60,7 @@
  pay_homage.0201.smooth.gold:0 "忠誠の対価は…"
  pay_homage.0201.smooth.hook:0 "それが小さな好意であることを願うとしよう…"
  pay_homage.0201.smooth.contract:0 "奉仕の重荷は…"
- pay_homage.0201.faux_pas:0 "A just liege after all."
+ pay_homage.0201.faux_pas:0 "結局はただの主君か。"
  pay_homage.0201.insult:0 "来るべきではなかった。"
  homage_delivery_stutter_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]がやっと文章の半分まで来たところで[homage_vassal.GetHerHis]のどもりが、[homage_vassal.GetHerHim]に水を差した。私の苦痛に満ちた廷臣たちは、[homage_vassal.GetHerHis]の声を征服しようとする勇敢な試みをじっと見つめている。"
  homage_delivery_lisp_liege:0 "[homage_vassal.GetTitledFirstNamePossessiveNoTooltip]の演説は…記憶に残るものだ。[homage_vassal.GetHerHis]の発音不全は、その重厚さを鈍らせ、[homage_vassal.GetSheHe]はその多くの歯擦音を操る中で、私の寛大ではない廷臣たちのくすくす笑いを無視しようとする。"
