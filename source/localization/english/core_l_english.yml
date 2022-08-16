@@ -743,7 +743,7 @@
  DEFAULT_TEXT:0 "#D デフォルトテキスト#!"
  SCOPE_ARTIFACT:0 "[ROOT.Artifact.GetName]:"
  SCOPE_DEBUG_STRUGGLE:0 "[struggle|E]$NAME$[$ID$]"
- ERROR_HOOF_4:0 "I am Reconqat. Sometimes I'm here instead of Errorhoof. Don't call it a Reconquista otherwise I'll get sad. There are also $ERRORS$ error(s) in your game. $ERROR_ACTION$"
+ ERROR_HOOF_4:0 "私はレコンキャットです。時々、私はエラーフーフの代わりにここに来ます。レコンキスタとは呼ばないで、悲しくなってしまうので。ゲームに$ERRORS$のエラーがあります。$ERROR_ACTION$"
  SCOPE_STRUGGLE:0 "[ROOT.Struggle.GetName]"
  OR:0 "または"
  OR_LIST:0 "、または"
