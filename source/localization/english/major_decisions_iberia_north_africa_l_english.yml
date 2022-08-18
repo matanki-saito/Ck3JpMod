@@ -112,7 +112,7 @@
  iberia_north_africa.0122.desc.intro:0 "[religious_leader.GetTitledFirstNamePossessive]の"
  iberia_north_africa.0122.desc.excommunicated:0 "[old_faith.GetName]からの破門は、ついに[religious_leader.GetHerHim]にとって我慢ならないものになったようだ。"
  iberia_north_africa.0122.desc.rivalry_with_hof:0 "[old_faith.GetReligiousHead.GetTitledFirstName]との対立は、ついに必然的な沸点へと到達したようだ。"
- iberia_north_africa.0122.desc.negative_piety_level:0 "prior transgressions against [old_faith.GetName] are due to be dwarfed by [religious_leader.GetHerHis] next."
+ iberia_north_africa.0122.desc.negative_piety_level:0 "[old_faith.GetName]に対する以前の罪は、[religious_leader.GetHerHis]の次の罪の前では小さく見えてしまうようだ。"
  iberia_north_africa.0122.desc.lorgar:0 "…より#EMP 原初的#!なものを信じたいという欲望はあまりにも強くなり、[religious_leader.GetHerHim]を異端への道へと導いたようだ。"
  iberia_north_africa.0122.desc.sinful_traits:0 "罪深いやり方は、ついに、[religious_leader.GetHerHis]の[old_faith.GetAdjective]信仰に完全に勝利してしまったようだ。"
  iberia_north_africa.0122.desc.virtuous_basque_pagan_traits:0 "田園の生活の美徳によるゆっくりとした誘惑は、ついに完成したようだ。"
