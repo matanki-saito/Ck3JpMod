@@ -250,7 +250,7 @@
  yearly.8400.special:0 "聞け、私はお前が行くべき#emphasis 場所#!を知ってるぞ。"
  yearly.8400.b:0 "どうしてこんなことを？さあ、こっちの地下牢へ来い！"
  yearly.8400.c:0 "こんな事は二度とするな。わかったか？"
- yearly.8400.d:0 "#emphasis そのようなこと#!ができるとは考えもしなかった 。魅惑的だな…"
+ yearly.8400.d:0 "#emphasis そんなやり方#!があるとは思いもしなかった。魅惑的だな…"
  yearly.8400.a.tt:0 "[deviant_guest.GetTitledFirstName]を[appropriate_court_target_owner.GetTitledFirstName]の宮廷に送れば、[deviant_guest.GetSheHe]は良いスパイになるでしょう…"
  yearly.8500.opening:0 "[current_head_of_faith.Custom2('AppropriateGreeting', ROOT.Char)]"
  yearly.8500.desc.a:0 "あなたが置かれている状況は不幸です。それでも、私はあなたにこの贈り物を提供します、あなたがこの危険な時代に勝利できるように。\n\n[current_head_of_faith.GetFaith.HighGodName]があなたの側に留まることを祈ります。"
