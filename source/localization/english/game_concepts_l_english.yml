@@ -1645,7 +1645,7 @@
  game_concept_board_game_types:0 "ボードゲームの種類"
  game_concept_board_game_type_counter:0 "対抗"
  game_concept_board_game_type_counters:0 "対抗"
- game_concept_board_game_type_desc:0 "When playing a $game_concept_board_game$, different play styles $game_concept_board_game_type_counter$ your opponent. Countering their moves severely reduces the points they gain from them, even if successful. Skilled opponents may not your own skills and deliberately attempt to $game_concept_board_game_type_counter$ #EMP you#!.\n\n$game_concept_board_game_type_chess_desc$\n\n$game_concept_board_game_type_pachisi_desc$\n\n$game_concept_board_game_type_hnefatafl_desc$\n\n$game_concept_board_game_type_tabula_desc$"
+ game_concept_board_game_type_desc:0 "$game_concept_board_game$のプレイ時には、異なるプレイスタイルで相手に$game_concept_board_game_type_counter$します。相手の動きに対抗すると、たとえ成功しても得られるポイントが大きく減少します。熟練した対戦相手は、あなた自身のスキルではなく、意図的に#EMP あなたに#!$game_concept_board_game_type_counter$しようとする可能性があります。\n\n$game_concept_board_game_type_chess_desc$\n\n$game_concept_board_game_type_pachisi_desc$\n\n$game_concept_board_game_type_hnefatafl_desc$\n\n$game_concept_board_game_type_tabula_desc$"
  game_concept_board_game_type_chess:0 "チェス"
  game_concept_board_game_type_chess_desc:0 "$game_concept_board_game_type_chess$において:\n$EFFECT_LIST_BULLET$[martial|E]は[learning|E]に$game_concept_board_game_type_counters$\n$EFFECT_LIST_BULLET$[learning|E]は[intrigue|E]に$game_concept_board_game_type_counters$\n$EFFECT_LIST_BULLET$[intrigue|E]は[martial|E]に$game_concept_board_game_type_counters$"
  game_concept_board_game_type_pachisi:0 "パチーシ"
