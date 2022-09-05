@@ -1,6 +1,6 @@
 ﻿l_english:
- learning_zealous_path_tt:0 "#F この選択は宗教に対する熱狂を冷ます可能性があります#!"
- learning_cynical_path_tt:0 "#F この選択は宗教に対する冷笑を弱める可能性があります#!"
+ learning_zealous_path_tt:0 "#F この選択は宗教に対する熱狂を高める可能性があります#!"
+ learning_cynical_path_tt:0 "#F この選択は宗教に対する冷笑を強める可能性があります#!"
  learning_scholarship_focus_point_clear_gain:1 "[learning_lifestyle|E]への理解が向上します"
  learning_lifestyle_rank_up_indication:0 "[learning_lifestyle|E]の[perk|E]を獲得する可能性があります"
  learning_scholarship.1101.t:0 "識字能力の欠如"
