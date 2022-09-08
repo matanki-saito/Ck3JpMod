@@ -57,3 +57,4 @@
  TRIGGER_AND:0 "これらのすべて:"
  TRIGGER_OR:0 "以下の1つ以上を満たしている:"
  SUPPRESS:0 ""
+ JOMINI_ANY_TRIGGER_COUNT_PROGRESS_ALL: "Currently, $CURRENT|V$ out of $TARGET|V$ fulfill this requirement"

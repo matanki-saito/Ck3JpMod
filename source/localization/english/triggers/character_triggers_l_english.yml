@@ -743,7 +743,7 @@
  ANY_COURT_POSITION_HOLDER:0 "あらゆる宮廷職の保持者"
  HAS_ROYAL_COURT:0 "王宮を有している"
  NOT_HAS_ROYAL_COURT:0 "王宮を有していない"
- YOU_THEY_HAS_ROYAL_COURT:0 "[CHARACTER.GetShortUIName|U]が王宮を有している"
+ YOU_THEY_HAS_ROYAL_COURT:1 "[CHARACTER.GetShortUIName|U]が王宮を有している"
  NOT_YOU_THEY_HAS_ROYAL_COURT:0 "[CHARACTER.GetShortUIName|U]が王宮を有していない"
  ENGAGED_IN_SINGLE_COMBAT:0 "あなたが現在、[single_combat_duel|E]中である"
  HAS_PENDING_COURT_EVENTS_FIRST:0 "あなたに保留中の[court_events|E]がある"

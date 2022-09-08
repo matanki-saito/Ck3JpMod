@@ -858,3 +858,5 @@
  MOD_MONTHLY_COUNTY_CONTROL_GROWTH_AT_WAR:0 "[war|E]中の[control|E]増加"
  MOD_MONTHLY_COUNTY_CONTROL_GROWTH_FACTOR_AT_WAR:0 "[war|E]中の[control|E]増加"
  befriend_scheme_power_add:0 "[GetScheme('befriend').GetTypeName][scheme_power|E]"
+ archer_cavalry_siege_value_add:0 "[archer_cavalry|E] [siege_progress|E]"
+ light_cavalry_siege_value_add:0 "[light_cavalry|E] [siege_progress|E]"

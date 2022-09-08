@@ -1000,3 +1000,8 @@
  not_egalitarian_or_courtly_desc:0 "[culture|E]には$ethos_egalitarian_name$や$ethos_courtly_name$の[ethos|E]が存在しない"
  lack_iberian_heritage_or_language_penalty_desc:0 "[culture|E]は$heritage_iberian_name$の[heritage|E]が欠けており、#EMP さらには#![culture_head|E]は$language_iberian_name$の[language|E]を話さない"
  lack_martial_learning_or_chess_board_penalty_desc:0 "あなたは[EmptyScope.ScriptValue('very_high_skill_rating')|0]以上の[martial|E]、[EmptyScope.ScriptValue('very_high_skill_rating')|0]以上の[learning|E]、[board_games|E]をプレイできるような[artifact|E]のどちらも持っていない"
+ culture_parameter_loyal_trait_more_valued:0 "The [GetTrait('loyal').GetName( GetNullCharacter )] [trait|E] is more valued"
+ culture_parameter_disloyal_trait_less_spurned:0 "The [GetTrait('disloyal').GetName( GetNullCharacter )] [trait|E] is less looked down upon than it is in other cultures"
+ culture_parameter_disloyal_trait_more_common:0 "The [GetTrait('disloyal').GetName( GetNullCharacter )] [trait|E] is more common"
+ culture_parameter_loyal_trait_more_common:0 "The [GetTrait('loyal').GetName( GetNullCharacter )] [trait|E] is more common"
+ culture_parameter_tells_stories:0 "Characters tell each other stories, increasing [skills|E]"

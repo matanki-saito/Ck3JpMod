@@ -38,3 +38,5 @@
  AGENT_WILL_ACCEPT_DESC:0 "#T 計画に参加するでしょう#!"
  SCHEME_POWER_TRIGGER:0 "[scheme_power|E]: $VALUE|+0$"
  RESPECTED_HOST:0 "[target.GetShortUINameNoTooltip]は尊敬される主催者である: $VALUE|+0$"
+ HAS_LOYAL_TRAIT:0 "[GetTrait('loyal').GetName( GetNullCharacter )] [trait|E]: $VALUE|+0=$"
+ HAS_DISLOYAL_TRAIT:0 "[GetTrait('disloyal').GetName( GetNullCharacter )] [trait|E]: $VALUE|+0=$"

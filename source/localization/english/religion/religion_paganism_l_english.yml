@@ -1377,7 +1377,7 @@
  acham_divine_realm3:0 "$acham_positive_afterlife$"
  acham_religious_symbol:0 "グアティマク"
  acham_religious_symbol2:0 "$acham_religious_symbol$"
- acham_religious_symbol3: "$acham_religious_symbol$"
+ acham_religious_symbol3:0 "$acham_religious_symbol$"
  north_african_acham_pagan:0 "アチャマン信仰"
  north_african_acham_pagan_adj:0 "アチャマン信仰"
  north_african_acham_pagan_adherent:0 "アチャマン信徒"

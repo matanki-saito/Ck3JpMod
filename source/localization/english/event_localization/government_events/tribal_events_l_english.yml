@@ -79,7 +79,7 @@
  tribal.1203.desc_sabotaged_racer:0 "私が[villain_racer.GetTitledFirstName]のそばに寄った時、[villain_racer.GetSheHe]は突然、私の方に向かってきて、その瞬間、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('racer'))][racer.GetTitledFirstName]の苦痛の悲鳴が聞こえた。鞍から振り返ると、[racer.GetHerHim]は血まみれになって地面に倒れ、[racer.GetHerHis]の馬は、もはや背中には無いが腹の下にぶら下がっている鞍と必死に戦っている。"
  tribal.1203.desc_sabotaged_villain:0 "突然、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('villain_racer'))][villain_racer.GetTitledFirstName]の苦痛の悲鳴が聞こえた。私は鞍から振り返って、地面で血まみれになっている[villain_racer.GetHerHim]と、[villain_racer.GetHerHis]が手に持っているちぎれた手綱を目にした。"
  tribal.1203.desc:0 "これほどのものはない！風の音、ひづめの音——私が[villain_racer.GetTitledFirstName]の横に近づくと、突然、[villain_racer.GetSheHe]は私の方に向きを変え、もう少しで私の馬がバランスを崩しそうになった！"
- tribal.1203.a:0 "振り返って[racer.GetHerHim]を助けなければならない！"
+ tribal.1203.a:1 "I must turn around and help [villain_racer.GetHerHim]!"
  tribal.1203.b_nothing_sabotaged:0 "邪魔だ。"
  tribal.1203.b:0 "いいぞ！競争相手が一人減った。"
  tribal.1203.b.tt:0 "あなたはレースに集中します"

@@ -34,3 +34,4 @@
  sell_titles.1007.t:0 "称号の売却: 黒い羊"
  sell_titles.1007.desc:0 "平民が気まぐれで貴族になれないのには理由がある。[merchant.GetTitledFirstName]が私の宮廷に入って以来、[merchant.GetSheHe]は恥ずべき存在でしかない。\n\n[merchant.GetHerHis]が私の一族であるという主張を私が支持したので今更どうしようもないが、二度と同じ失敗は繰り返すまい。"
  sell_titles.1007.a:0 "なんと残念なことだ…"
+ sell_titles.0002.opening:0 "[friend.Custom2('AppropriateGreetingPositive', ROOT.Char )]"

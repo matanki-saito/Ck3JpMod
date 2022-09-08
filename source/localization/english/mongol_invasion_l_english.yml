@@ -5,7 +5,7 @@
  submit_to_the_great_khan_decision_tooltip:0 "モンゴル・カガンの封臣となり、モンゴル帝国に加わります"
  submit_to_the_great_khan_effect_tooltip:0 "[mongol_emperor.GetTitledFirstName]の封臣となる"
  mongol_invasion.1001.title:0 "ハーンが崩御した！"
- mongol_invasion.1001.generic.desc:0 "[ROOT.Char.GetFaith.HighGodName]様、感謝いたします！新たな支配者[new_khan.GetTitledFirstName]が即位を宣したものの、きっと[old_khan.GetFirstName]ほど恐るべき奴ではないだろう。\n\nもしかすると、これはモンゴルの侵略の終わりですらあるかもしれんぞ？"
+ mongol_invasion.1001.generic.desc:1 "Thank [ROOT.Char.GetFaith.HighGodName]! Although a new ruler has been proclaimed, [new_khan.GetTitledFirstName], [new_khan.GetSheHe] can surely not be as horrifying as [old_khan.GetFirstName].\n\nPerhaps this is even the end of Mongol aggression?"
  mongol_invasion.1001.sympathetic.desc:0 "偉大なる[old_khan.GetWomanMan]が皆を残して世を去った。[old_khan.GetFirstName]の死に伴い、[new_khan.GetFirstName]は新たなる[new_khan.GetTitleAsNameNoTooltip]となったことを宣言した！\n\n[old_khan.GetFirstNameNoTooltip]は永遠に馬を駆け、残されし世界はその奮励の賜物がためにより良くなる。"
  mongol_invasion.1001.generic.oblivious.desc:0 "どこかの重要な遊牧民の王が亡くなったといういくつかの報告を受けている。"
  mongol_invasion.1001.a:0 "いい厄介払いよ！"

@@ -63,7 +63,7 @@
  CULTURE_RELATION_MY_TOP_REALM:0 "あなたの[top_realm|E]の[culture|E]"
  CULTURE_VIEW_OVERVIEW:0 "伝統と文化的支柱"
  CULTURE_VIEW_INNOVATIONS:0 "革新性([Culture.GetCultureEra.GetNameNoTooltip])"
- CULTURE_VIEW_ACCEPTANCE:1 "[Concept( 'cultural_acceptance', 'Acceptance' )|E]: [Culture.GetAcceptance( GetPlayer.GetCulture )|%/0V]"
+ CULTURE_VIEW_ACCEPTANCE:1 "[Concept( 'cultural_acceptance', '文化受容度' )|E]: [Culture.GetAcceptance( GetPlayer.GetCulture )|%/0V]"
  CULTURE_ACCEPTANCE_TOOLTIP:0 "#T 文化の受容: [Culture.GetAcceptance( GetPlayer.GetCulture )|%/0]\n#!#weak [GetPlayer.GetCulture.GetName]と[Culture.GetNameNoTooltip]間の相互受容#!\n\n[Culture.GetYearlyAcceptanceChangeDesc( GetPlayer.GetCulture )]\n\n[Culture.GetAcceptanceBaselineDesc( GetPlayer.GetCulture )]\n\n[Culture.GetAcceptanceChangelog( GetPlayer.GetCulture )]"
  CULTURE_VIEW_ACCEPTANCE_DIFF:0 "[Culture.GetAcceptanceDiff( GetPlayer.GetCulture )|2+=]"
  CULTURE_VIEW_ACCEPTANCE_DIFF_BRACKETS:0 "([Culture.GetAcceptanceDiff( GetPlayer.GetCulture )|1+=])"

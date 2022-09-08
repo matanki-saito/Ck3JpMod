@@ -430,7 +430,7 @@
  fund_inspiration.2130.a.library:0 "「書庫へ行くがよい！」"
  fund_inspiration.2130.a.armory:0 "「武器庫へ行くがよい！」"
  fund_inspiration.2130.a.hall:0 "「大広間へ行くがよい！」"
- fund_inspiration.2130.a.tt:0 "[inspiration_owner.GetFirstNameNoTooltip]の [inspiration|E]の品質や進歩が改善される可能性があります"
+ fund_inspiration.2130.a.tt:0 "The quality or progress of [inspiration_owner.GetFirstNamePossessiveNoTooltip] [inspiration|E] may be improved"
  fund_inspiration.2130.a.flavor:0 "きっと何か助けを見つけられるはずだ！"
  fund_inspiration.2130.b:0 "「あなたに必要なものはわかっている！」"
  fund_inspiration.2130.b.great:0 "[inspiration_owner.GetFirstNamePossessiveNoTooltip]の熟考が成長する"

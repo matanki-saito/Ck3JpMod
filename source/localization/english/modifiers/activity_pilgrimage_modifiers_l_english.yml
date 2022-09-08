@@ -29,3 +29,7 @@
  pilgrimage_religious_reflections_modifier:0 "巡礼での神秘家との邂逅"
  pilgrimage_rest_and_good_health_modifier:0 "穏やかな旅行者"
  pilgrimage_rest_and_good_health_modifier_desc:0 "この人物は、旅をする時はとても気楽にしている。"
+ pilgrimage_botched_miracle_modifier:0 "Suffered a Botched Miracle"
+ pilgrimage_botched_miracle_modifier_desc:0 "This character's affliction was made worse by a botched miracle."
+ pilgrimage_miracle_witness_modifier:0 "Witness to a Miracle"
+ pilgrimage_miracle_witness_modifier_desc:0 "This character witnessed a miracle."

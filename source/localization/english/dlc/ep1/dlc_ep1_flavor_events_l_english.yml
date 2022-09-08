@@ -271,7 +271,7 @@
  ep1_flavor.2040.desc.outro_bad_praise:0 "「[exotic_blade_holder.GetPrimaryTitle.GetNameNoTierNoTooltip]の技による素晴らしい作品です！この輝きをご覧ください！」"
  ep1_flavor.2040.a:0 "「それを手放すこともできるだろう…」"
  ep1_flavor.2040.tt_my:0 "あなたが[my_artifact.GetName]を失います"
- ep1_flavor.2040.tt_exotic:0 "あなたは[exotic_blade.GetNameNoTooltip]の所有者になります"
+ ep1_flavor.2040.tt_exotic:0 "You will become the owner of [exotic_blade.GetName]"
  ep1_flavor.2040.toast:0 "その[exotic_blade.GetType|l]は素晴らしい"
  ep1_flavor.2040.toast_poor:0 "その[exotic_blade.GetType|l]は輝きがない"
  ep1_flavor.2040.b:0 "「小銭入れを持ってこい！」"

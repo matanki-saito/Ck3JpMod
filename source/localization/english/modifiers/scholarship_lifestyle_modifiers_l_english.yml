@@ -47,3 +47,7 @@
  rebuked_the_heathen_modifier_desc:0 "この人物は、異教徒、異端者、背教者、その他#EMP 不道徳な#!性格の者とは関わりを持たない。"
  refused_heathen_knowledge_modifier:0 "異教徒の知識を拒否"
  refused_heathen_knowledge_modifier_desc:0 "この人物は敬虔で純粋な本を好む。"
+ court_of_poetry_modifier:0 "Court of Poetry"
+ court_of_poetry_modifier_desc:0 "This character's halls reverberate with refined words — the air they breathe is flowery with linguistic flourishes."
+ beauty_of_language_modifier:0 "Beauteous Language"
+ beauty_of_language_modifier_desc:0 "This character has found an endless joy in the elegant mystery of words: a passion meant to be shared."

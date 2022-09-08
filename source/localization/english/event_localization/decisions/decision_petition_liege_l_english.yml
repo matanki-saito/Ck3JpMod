@@ -95,3 +95,4 @@
  petition_liege_holding_tt:0 "#X あなたの[liege|E]は[holding|E]を建設する余裕がありません#!"
  petition_liege_debt_tt:0 "#X あなたの[liege|E]には[debt|E]があります#!"
  petition_liege_council_no_petition_valid_tt:0 "#X あなたの主君に依頼できるものは何もありません#!"
+ petition_liege_city_planning_innovation_tt:0 "#X Both you and your [liege|E] must belong to [cultures|E] with the City Planning [innovation|E]#!"
