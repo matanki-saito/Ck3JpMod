@@ -100,7 +100,7 @@
  CHARACTER_WINDOW_VIEW_EDUCATION_FOCUS:0 "#I クリックで教育方針を表示#!"
  LIFESTYLE_FOCUS_ICON_HEADER:1 "#T [lifestyle|E]: [CHARACTER.GetFocus.GetName]#!"
  LIFESTYLE_FOCUS_ICON_HEADER_NO_FOCUS:1 "#T [lifestyle|E]: 無し#!"
- EDUCATION_FOCUS_ICON_HEADER:1 "#T Education Focus: [CHARACTER.GetFocus.GetNameNoTooltip]#!"
+ EDUCATION_FOCUS_ICON_HEADER:1 "#T 教育方針: [CHARACTER.GetFocus.GetNameNoTooltip]#!"
  EDUCATION_FOCUS_ICON_HEADER_NO_FOCUS:0 "#T 教育方針: 無し#!"
  SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S 影響:#!\n[SkillItem.GetSkillEffects]"
  SKILL_NO_EFFECT:0 "現レベルでの影響なし"

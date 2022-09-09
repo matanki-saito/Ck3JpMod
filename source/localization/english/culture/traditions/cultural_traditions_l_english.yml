@@ -342,7 +342,7 @@
  culture_parameter_minimum_prowess_for_knights:0 "[knights|E]は[prowess|E][prowess_i]#V 12#!以上で#EMP なければなりません#!"
  culture_parameter_blademaster_trait_bonuses:0 "[GetTrait('blademaster_2').GetName( GetNullCharacter )]の[traits|E]は追加のボーナスを持ちます"
  culture_parameter_prowess_from_martial_education:0 "[martial|E]・[education|E][traits|E]はいずれも[prowess|E]を与えます"
- culture_parameter_martial_education_more_valued:0 "[martial|E]・[education|E][traits|E]はより評価されます"
+ culture_parameter_martial_education_more_valued:0 "[martial|E]の[education|E][traits|E]はより評価されます"
  culture_parameter_high_prowess_ignores_knight_restrictions:0 "[prowess|E][prowess_i]#V 10#!以上の人物は、ほぼ無制限に[knight|E]となれます"
  culture_parameter_blademaster_traits_more_common:0 "[knights|E]は戦闘において[GetTrait('blademaster_2').GetName( GetNullCharacter )]の[traits|E]を獲得しやすくなります"
  culture_parameter_prowess_from_religious_traits:0 "[GetTrait('education_learning_3').GetName( GetNullCharacter )]、[GetTrait('devoted').GetName( GetNullCharacter )]、[GetTrait('theologian').GetName( GetNullCharacter )]のような[traits|E]は[prowess|E]を与えます"
