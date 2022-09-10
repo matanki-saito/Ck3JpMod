@@ -348,7 +348,7 @@
  befriend_ongoing.9101.desc:0 "私の親愛なる[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('scoped_friend') )]である[scoped_friend.GetFirstName]は、私が[target.GetTitledFirstName]に対する私の立場を改善しようとしていることを察し、私に[scoped_friend.GetHerHis]の援助を申し出てくれた。\n\n[scoped_friend.GetSheHe|U]は、[scoped_friend.GetSheHe]と[target.GetFirstNameNoTooltip]がよく似た種類の人物であると私に保証している。[scoped_friend.GetFirstNameNoTooltip]は、私が[target.GetHerHis]の信頼を得るために何をすべきかを正確に知っている。"
  befriend_ongoing.9101.a:0 "お願いだ、教えてくれ！"
  befriend_ongoing.9101.b:0 "ありがとう、でも私に助けは必要ない。"
- befriend_ongoing.9102.desc:1 "These days, it seems as if [owner.GetFirstName] can only think of one thing. [target.GetSheHe|U] is fully committed to earning [target.GetFirstNamePossessive] trust, so I decided to help [owner.GetHerHim].\n\n[owner.GetFirstNameNoTooltip] was thrilled to receive my insight and claimed [owner.GetSheHe] will not forget my kind gesture."
+ befriend_ongoing.9102.desc:1 "最近、[owner.GetFirstName]はまるで一つのことしかことしか考えられないのではないかと思われるようだ。[target.GetSheHe|U]は[target.GetFirstNamePossessive]の信頼を得ることに完全に傾倒していることから、私は[owner.GetHerHim]を助けることを決めた。\n\n[owner.GetFirstNameNoTooltip]は私の洞察を受け取ると興奮し、[owner.GetSheHe]は私の親切な行為を忘れないだろうと主張した。"
  befriend_ongoing.9102.a:0 "友人とはこういうものではないだろうか？"
  befriend_ongoing.9103.t:0 "親善: 恐るべき誤解"
  befriend_ongoing.9103.vassal.desc:0 "私は[target.GetTitledFirstName]を驚かせることを期待し[target.GetHerHis]の名誉のために素晴らしい饗宴を準備していたのだが、[target.GetSheHe]はぎりぎりの土壇場で参加を辞退することを決めた。\n\nどうやら[target.GetSheHe]は私のサプライズが、実際は[target.GetHerHim]の暗殺の陰謀の一部だと思っていたようだ！"

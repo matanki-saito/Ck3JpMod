@@ -776,7 +776,7 @@
  fervor_gain_saoshyant:0 "サオシャントの到来"
  fervor_loss_theology_doctrine_change:0 "新教義"
  fervor_gain_mended_schism:0 "大分裂の修復"
- fervor_loss_mended_schism:0 "Ecumenical faiths declared heretical"
+ fervor_loss_mended_schism:0 "異端宣告を受けた超教派的信仰"
  fervor_gain_papacy_restored:0 "教皇権の復活"
  fervor_gain_papacy_destroyed:0 "教皇権の破棄"
  fervor_loss_papacy_destroyed:0 "$fervor_gain_papacy_destroyed$"

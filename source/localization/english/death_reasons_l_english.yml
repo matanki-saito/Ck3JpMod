@@ -34,7 +34,7 @@
  death_obesity:0 "肥満に関連する合併症により死亡した"
  blind:1 "つまづいて転落死した"
  death_inbred:0 "近親交配を起因とする合併症によって死亡した"
- death_physician_mistreatment:1 "died after a botched treatment"
+ death_physician_mistreatment:1 "不適切な治療後に死亡した"
  UNKNOWN_DEATH_REASON:0 "原因不明の死を遂げた"
  death_murder:0 "殺害された"
  death_murder_killer:0 "[TARGET_CHARACTER.GetUIName]に殺害された"

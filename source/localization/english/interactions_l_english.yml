@@ -883,7 +883,7 @@
  char_interaction.0235.a:0 "素晴らしい知らせだ！"
  char_interaction.0236.desc:0 "熟慮した結果、私は貴方の申し出を断らざるを得ないという結論に達しました。"
  char_interaction.0236.a:0 "厄介だ…"
- SCHEME_PREDICTION_NAME:0 "[InteractionSchemeInfo.GetTarget.GetTitledFirstNameNoTooltip][InteractionSchemeInfo.GetScheme.GetActionName]"
+ SCHEME_PREDICTION_NAME:0 "[InteractionSchemeInfo.GetTarget.GetTitledFirstNameNoTooltip]の[InteractionSchemeInfo.GetScheme.GetActionName]"
  INTERACTION_START_SCHEME:0 "[scheme]の開始"
  SCHEME_PREDICTION_AGENTS:1 "予測されるスパイ: #high [InteractionSchemeInfo.GetNumberOfPotentialAgents]#!"
  SCHEME_PREDICTION_AGENTS_TT:0 "#T 加担を見込める[agents|E]:\n#![InteractionSchemeInfo.BuildPotentialAgents]"
