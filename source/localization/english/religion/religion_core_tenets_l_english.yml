@@ -284,4 +284,4 @@
  tenet_megaliths_desc:0 "礼拝は、単に神殿の中で行うべきものではなく、これらは人間の原始的な建造物であり、我々全員を取り巻く神の創造物から目をそらすものである。我々は石と野外とを受け入れ、創造主が与えてくれた石を、彼らが喜ぶように並べ、神へと近づける。"
  doctrine_parameter_can_build_megaliths:0 "[temple|E]所領の巨石、公爵領の首都の大巨石の建設をそれぞれ有効にします。"
  province_is_of_a_megalith_faith_tt:0 "この[county|E]は、巨石の重要性を信じる[faith|E]に従う必要があります。"
- doctrine_parameter_hostility_override_west_african_unreformed_faith_doctrine:0 "Considers African [GetFaithDoctrine('west_african_unreformed_faith_doctrine').GetBaseName] [faiths|E], and is considered by African [GetFaithDoctrine('west_african_unreformed_faith_doctrine').GetBaseNameNoTooltip] $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
+ doctrine_parameter_hostility_override_west_african_unreformed_faith_doctrine:0 "アフリカの[GetFaithDoctrine('west_african_unreformed_faith_doctrine').GetBaseName]一[faiths|E]となります。また、アフリカの[GetFaithDoctrine('west_african_unreformed_faith_doctrine').GetBaseNameNoTooltip]他$game_concept_faiths$からの印象は、$hostility_evil_tooltippable$でなく[GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]となります"

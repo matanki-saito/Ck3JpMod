@@ -1295,7 +1295,7 @@
  friend_respected_other_religion_corresponding:0 "[CHARACTER.GetShortUIName|U] showed respect for [TARGET_CHARACTER.GetShortUINamePossessive] faith."
  friend_pet:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a cute pet."
  friend_fellow_nerd:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a good book."
- friend_saved_life:0 "[CHARACTER.GetShortUIName|U] saved [TARGET_CHARACTER.GetShortUINamePossessive] life and became friends."
+ friend_saved_life:0 "[CHARACTER.GetShortUIName|U]は、[TARGET_CHARACTER.GetShortUINamePossessive]の命を救ったことがきっかけで、互いに友人となった。"
  friend_snowball_fight:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a childhood snowball fight."
  friend_childhood_game:0 "As children, [CHARACTER.GetShortUIName] and [TARGET_CHARACTER.GetShortUIName] bonded while playing a game of pretend together."
  friend_childhood_knight:0 "As children, [CHARACTER.GetShortUIName] and [TARGET_CHARACTER.GetShortUIName] bonded while trying to learn the basics of knightly sparring together."

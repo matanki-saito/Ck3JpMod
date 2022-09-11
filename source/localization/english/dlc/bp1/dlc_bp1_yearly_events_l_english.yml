@@ -1,8 +1,8 @@
 ﻿l_english:
  bp1_yearly.2000.t:0 "A Gift Fit For..."
- bp1_yearly.2000.desc.intro:0 "The hustle and bustle is palpable among the traveling merchant stalls. The temporary shacks are stacked to the rafters, and contain all manner of knickknacks. "
- bp1_yearly.2000.desc.greed_flavor:0 "These pieces look expensive... but maybe they would be worthwhile."
- bp1_yearly.2000.desc.not_greed_flavor:0 "These pieces are positively radiant and would make a lovely gift."
+ bp1_yearly.2000.desc.intro:0 "旅商人の屋台の喧騒が伝わってくる。仮設の小屋が軒を連ね、そこには多種多様な雑貨が置かれていた。"
+ bp1_yearly.2000.desc.greed_flavor:0 "見るからに高そうな品々が並ぶ…だが、それに見合うだけの価値があるのかもしれない。"
+ bp1_yearly.2000.desc.not_greed_flavor:0 "眩いばかりに輝く品々が並んでいる。素敵な贈り物になってくれそうだ。"
  bp1_yearly.2000.desc.single:0 "\n\nAs [bp1_yearly_2000_partner_a.GetShortUIName] and I walk by one of the merchants peddling jewellery, [bp1_yearly_2000_partner_a.GetSheHe] hesitates slightly as [bp1_yearly_2000_partner_a.GetSheHe] leans in for a closer look.\n\nPerhaps one of these would brighten the day for my [ROOT.Char.Custom2('PartnerOpinionDescription', SCOPE.sC('bp1_yearly_2000_partner_a') )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('bp1_yearly_2000_partner_a'))]?"
  bp1_yearly.2000.desc.duo:0 "\n\nAs I walk by one of the merchants peddling jewellery, I hesitate and lean in for a closer look.\n\nPerhaps one of these would brighten the day for my cherished [bp1_yearly_2000_partner_a.GetShortUIName] or [bp1_yearly_2000_partner_b.GetShortUIName]?"
  bp1_yearly.2000.a_single:0 "A [ROOT.Char.Custom('RandomJewellry')], fit for [bp1_yearly_2000_partner_a.GetShortUIName]!"

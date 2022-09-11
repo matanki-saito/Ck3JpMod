@@ -791,7 +791,7 @@
  fervor_gain_israel_recreated:0 "[israel_title.GetName]の再現"
  fervor_gain_priesthood_recreated:0 "大祭司の再建"
  fervor_loss_saoshyant:0 "$fervor_gain_saoshyant$"
- fervor_gain_sacrficed_head_of_faith:0 "Sacrificed [sacrificed_hof.GetName]"
+ fervor_gain_sacrficed_head_of_faith:0 "[sacrificed_hof.GetName]を生贄にした"
  fervor_gain_iconoclast_patriarchate:0 "聖像破壊派総主教庁"
  fervor_loss_iconoclast_patriarchate:0 "$fervor_gain_iconoclast_patriarchate$"
  fervor_gain_ecumenical_patriarchate:0 "全地総主教庁"
