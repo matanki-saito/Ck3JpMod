@@ -757,4 +757,4 @@
  num_suffix_7:0 "$num_suffix_0$"
  num_suffix_8:0 "$num_suffix_0$"
  num_suffix_9:0 "$num_suffix_0$"
- CHARACTER_AI_BUDGET_TOOLTIP:0 "$BUDGET_CATEGORY$: $BUDGET_GOLD|V0$ / $BUDGET_MAXIMUM|0$\n"
+ CHARACTER_AI_BUDGET_TOOLTIP:0 "$BUDGET_CATEGORY$: $BUDGET_GOLD|V0$/$BUDGET_MAXIMUM|0$\n"
