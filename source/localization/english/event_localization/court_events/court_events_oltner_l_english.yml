@@ -12,7 +12,7 @@
  court.9001.a:0 "[flirty_spouse.GetFirstNameNoTooltip]は#EMP 私のもの#!だ。剣を抜け！"
  court.9001.b:0 "それを渡せ！[flirty_knight.GetFirstNameNoTooltip]——お前を領国から追放する！"
  court.9001.c:0 "宮廷愛はとても純粋で、とても無垢なものだ！"
- court.9001.a.tt:0 "#V 決闘#![flirty_knight.GetFirstName]をあなたの[flirty_spouse.GetWifeHusband]から離れさせます！\n#weak この決闘で死に至ることはありません。#!\nあなたが勝利すれば、[flirty_spouse.GetFirstNamePossessive]の心はあなただけのものになるでしょう。もし負ければ、何が起こるか誰が知っているでしょうか？\n\nあなたの[prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[flirty_knight.GetFirstNamePossessive]の[prowess|E]: [prowess_i]#V [flirty_knight.GetProwess]#!"
+ court.9001.a.tt:0 "[flirty_knight.GetFirstName]に#V 決闘#!を申し込み、[flirty_knight.GetHerHim]をあなたの[flirty_spouse.GetWifeHusband]から追い出します！\n#weak この決闘で死に至ることはありません。#!\nあなたが勝利すれば、[flirty_spouse.GetFirstNamePossessive]の心はあなただけのものになるでしょう。もし負ければ、どう転ぶかは誰にも分かりません。\n\nあなたの[prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[flirty_knight.GetFirstNamePossessive]の[prowess|E]: [prowess_i]#V [flirty_knight.GetProwess]#!"
  how_could_you_opinion:0 "なんて事を"
  court.9002.trigger_failure:0 "私の[flirty_knight.GetFirstNameNoTooltip]との決闘は無効になる"
  court.9004.t:0 "$court.9001.t$: 勝利"
