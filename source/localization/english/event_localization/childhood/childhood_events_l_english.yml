@@ -242,7 +242,7 @@
  childhood.2300.t:0 "家系図の中の言語"
  childhood.2300.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('parent'))]は、時折、あちこちに[parent.GetCulture.GetLanguage.GetName]を挿入し、私はその言葉に対する理解が深まっているのを感じている。私の努力次第では、[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('parent'))]に新しい方法で話しかけられるほどに熟練できるかもしれない！"
  childhood.2300.a:0 "私は[parent.Custom('GetMamaPapa')]のように話せるようになる！"
- childhood.2300.b:0 "This is boring! Why learn [parent.GetCulture.GetLanguage.GetNameNoTooltip] anyway!?"
+ childhood.2300.b:0 "くだらない！そもそもなぜ[parent.GetCulture.GetLanguage.GetNameNoTooltip]を学ぶ必要がある！？"
  childhood.2300.a.success_parent_desc:2 "[ward.GetFirstName] learned the [parent.GetCulture.GetLanguage.GetName] [language|E] through observation."
  childhood.0002.end:0 "\n\nWhenever our eyes meet, my stomach fills up with butterflies... Oh, I wonder if [crush.GetSheHe] would like this [ROOT.Char.Custom('get_region_flower_type')] that I found?"
  childhood.0002.b:0 "No... we should just be friends."
