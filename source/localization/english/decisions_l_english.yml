@@ -997,3 +997,4 @@
  convert_whole_realm_to_feudalism_west_african_pagan_decision.tt.vassal_count:0 "あなたが[count|E][rank|E]以上の[vassals|E]を[EmptyScope.ScriptValue('convert_whole_realm_to_feudalism_west_african_pagan_decision_vassal_count_value')|0]人以上持っている"
  convert_whole_realm_to_feudalism_west_african_pagan_decision.tt.wa_capital_development:0 "あなたの[capital|E]が[GetGeographicalRegion('world_africa_west').GetName]内にあり、少なくとも[EmptyScope.ScriptValue('convert_whole_realm_to_feudalism_west_african_pagan_decision_wa_capital_development_value')|0]の[development|E]を持っている"
  faith_qualifies_for_west_african_pagan_feudalisation_trigger.tt:0 "あなたの[faith|E]が[GetFaithDoctrine('west_african_unreformed_faith_doctrine').GetBaseName]である"
+ revive_taltoism_decision_before_last_date: "The date is 1100.1.1 or earlier"

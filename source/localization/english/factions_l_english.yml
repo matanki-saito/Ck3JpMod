@@ -114,7 +114,7 @@
  FACTION_DEMAND_COLLAPSE_SEND_DEMAND_NOTIFICATION:1 "[faction_target.GetPrimaryTitle.GetNameNoTier]の終焉！"
  FACTION_DEMAND_COLLAPSE_SEND_DEMAND_NOTIFICATION_DESC:0 "時は来た！[faction.GetName]に対する完全な支持によって、[faction_target.GetName]は、今まで所有していた[faction_target.GetSheHe]の権利を失ったも同然である。我々は、独立を与えられるか、さもなくば力ずくで奪い取るかのどちらかだ！"
  faction_demand.1002.tt:1 "[faction_target.GetPrimaryTitle.GetNameNoTier]は破棄されます"
- FACTION_DEMAND_POPULIST_REFUSE_TT:0 "#high [peasant_leader.GetTitledFirstName]#! and the #high [faction.GetName]#! declares [war|E] on you"
+ FACTION_DEMAND_POPULIST_REFUSE_TT:0 "#high [peasant_leader.GetTitledFirstName]#!と#high [faction.GetName]#!はあなたに宣戦布告します"
  FACTION_DEMAND_POPULIST_VASSAL_DESC_SAME_CULTURE_AND_FAITH:0 "You may share our traditions and our beliefs, but we cannot tolerate you or the [faction_target.Custom('InsultAdjective')] [faction_target.GetTitledFirstName] any longer!\n\nEither stand aside, or aid us in gaining the freedom we rightly deserve!"
  FACTION_DEMAND_POPULIST_VASSAL_DESC_CULTURE:0 "We will not stand for the foreign oppression of [peasant_leader.GetCulture.GetName] traditions any longer. Our time is now at hand!\n\nWe will demand nothing less than total freedom from your liege, [faction_target.GetTitledFirstName]!"
  FACTION_DEMAND_POPULIST_VASSAL_DESC_FAITH:0 "We will not stand for your vile oppression of faithful [peasant_leader.GetFaith.GetAdherentNamePlural] any longer. Our time is now at hand!\n\nWith [peasant_leader.GetFaith.WarGodName] guiding us, we will rise up and free ourselves from the rule your liege, [faction_target.GetTitledFirstName]!"
