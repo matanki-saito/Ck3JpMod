@@ -342,5 +342,5 @@
  action_ongoing_house_feud_click:0 "#I クリックで[house_feud|E]の家長を表示#!"
  action_ongoing_house_feud_unimportant:0 "@warning_icon!#N あなたの家は現在[house_feud|E]に敗北しています#!"
  swap_feud_tt:0 "[house_feud_existing.GetBaseName][house|E]との[house_feud|E]が終了"
- house_feud_cooldown_tt:0 "Your [house|E] will not be able to start another [feud|E] for 25 years"
- house_reward_modifier_tt:0 "This modifier is based on your current [feud|E] score"
+ house_feud_cooldown_tt:0 "あなたの[house|E]は25年間、別の[feud|E]を開始できません"
+ house_reward_modifier_tt:0 "この補正はあなたの現在の[feud|E]スコアに基づきます"
