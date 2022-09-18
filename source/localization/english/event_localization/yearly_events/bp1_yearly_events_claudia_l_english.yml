@@ -67,7 +67,7 @@
  bp1_yearly.1030.c_killed:0 "You are killed"
  bp1_yearly.1031.desc:0 "[rival.GetTitledFirstNamePossessive]が病で臥せっているとの報せが届いてから、居ても立っても居られなかった。とにかくこの目で見る必要がある。それでここまで来た。[rival.GetHerHis]がほとんど動かすベッドに横たわり、最後の力を振り絞って命にすがりつく姿を見ていると、心をかき乱されてしまう。"
  bp1_yearly.1031.desc_nemesis:0 "\n\nWouldn't it be easier to just let go of all the pain and anger? And yet, [nemesis.GetFirstNameNoTooltip] has never looked so weak, or so exposed... Frail enough that I could #EMP snap#! [nemesis.GetHerHim] with my bare hands..."
- bp1_yearly.1031.desc_rival:0 "\n\n\"Did you even recognize me, you [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.Custom('InsultNoun')]?\" [rival.GetHerHis|U] face seems to contract for a moment, and [rival.GetHerHis] eyes roll around searchingly but without ever focusing on me."
+ bp1_yearly.1031.desc_rival:0 "\n\n「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]よ、私のことが分かるか？」[rival.GetHerHis|U]の顔はわずかに動いて目を動かしたが、私を見据えることはなかった。"
  bp1_yearly.1031.desc_guard:0 "While I'm lost in my musings, I warily take notice of the cold eyes of [nemesis.GetFirstNamePossessiveNoTooltip] [GetCourtPositionType('bodyguard_court_position').GetName()], [guard.GetTitledFirstName], staring at me from the side of the room."
  bp1_yearly.1031.a:0 "もう全部水に流そうじゃないか？"
  bp1_yearly.1031.b:0 "お前はしかるべき報いを受けたのだ。"

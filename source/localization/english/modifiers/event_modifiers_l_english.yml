@@ -222,4 +222,4 @@
  footballer_modifier_desc:0 "この人物は最近サッカーの試合に勝った"
  footballer_health_modifier:0 "活発なサッカー選手"
  footballer_health_modifier_desc:0 "この人物はサッカーの試合に参加し、体力と健康とを維持している。"
- perfume_bottle:0 "[ROOT.Char.GetFirstNamePossessive] Perfume"
+ perfume_bottle:0 "[ROOT.Char.GetFirstNamePossessive]の香水"

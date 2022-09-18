@@ -837,7 +837,7 @@
  participation_trophy_desc:0 "このカップは、サッカーの試合での「勝利」を記念して依頼された。"
  fp2_blessed_junk:0 "[ROOT.Char.Custom('TrinketLookAdjective')|U]$blessed_artifact_modifier$"
  fp2_blessed_junk_desc:0 "[ROOT.Char.Custom('TrinketLookAdverbFollowup')][ROOT.Char.Custom('TrinketLookAdjective')]だが、それ以外は無意味なアーティファクトだ。$blessed_artifact_modifier_desc$"
- perfume_bottle_description:0 "[ROOT.Char.GetFirstNameNoTooltip]はこの香りの成分を集めた"
+ perfume_bottle_description:0 "[ROOT.Char.GetFirstNameNoTooltip]は次の香りの成分を集めた"
  easteregg_artifact_nicks_weapon:0 "Amity"
  easteregg_artifact_nicks_weapon_description:0 "A truly magnificent weapon, sure to make lord and lady alike swoon in its presence. A small inscription on its hilt reads \"For when subtlety fails.\""
  easteregg_artifact_chad_book:0 "The Annotated Aeneid"
