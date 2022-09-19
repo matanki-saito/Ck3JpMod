@@ -12,5 +12,5 @@
  NOT_ANY_IN_DE_JURE_ALL_GLOBAL:0 "非慣習的領土[titles|E]"
  ANY_IN_DE_JURE_ALL_THIRD:0 "[TITLE.GetName]の任意の慣習的領土[titles|E]"
  NOT_ANY_IN_DE_JURE_ALL_THIRD:0 "[TITLE.GetName]の非慣習的領土[titles|E]"
- ANY_REALM_COUNTY: "Any [realm|E] [county|E]:"
- ANY_REALM_COUNTY_COUNT: "$PARAMETERS$ [realm|E] [counties|E]:"
+ ANY_REALM_COUNTY: "任意の[realm|E]の[county|E]:"
+ ANY_REALM_COUNTY_COUNT: "[realm|E]の[counties|E]の$PARAMETERS$:"

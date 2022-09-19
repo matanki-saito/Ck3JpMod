@@ -209,7 +209,7 @@
  hold_court_8080_upset_modifier:0 "相手にされない市民"
  hold_court_8080_prison_modifier:0 "虐待された市長"
  hold_court.8090.t:0 "宮廷内の居場所"
- hold_court.8090.desc.intro:3 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal'))] [vassal.GetTitledFirstName] takes a turn bending my ear before the assembled court. \n\n\"Glorious [vassal.Custom2('RelationToMeShort', ROOT.Char)], give me the honor of [vassal.Custom('GetTargetCourtPositionDesc')]"
+ hold_court.8090.desc.intro:3 "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal'))]の[vassal.GetTitledFirstName]は、 廷内の衆目が集まる面前で私の耳を傾けさせるような仕草をとった。\n\n「栄えある[vassal.Custom2('RelationToMeShort', ROOT.Char)]よ、我に [vassal.Custom('GetTargetCourtPositionDesc')] の栄誉を与え給え"
  hold_court.8090.desc.intro_advocate:3 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('vassal_advocate'))], [vassal_advocate.GetTitledFirstName], herds a [vassal.Custom('GetYoungMiddleAgedOld')] [vassal.GetWomanMan] before the assembled court. \n\n\"Glorious [ROOT.Char.GetTitleAsNameNoTooltip], give my [vassal_advocate.Custom('ComplimentAdjective')] [vassal_advocate.Custom2('RelationToMeShort', SCOPE.sC('vassal'))], [vassal.GetTitledFirstName], the honor of [vassal.Custom('GetTargetCourtPositionDesc')]"
  hold_court.8090.desc.rival:2 "――その上で[old_holder.GetTitledFirstName]を片付けて頂ければ。ええ、あの[old_holder.Custom('InsultAdjective')][old_holder.Custom('InsultNoun')]をです。"
  hold_court.8090.desc.arrogant:2 "――その役目、私こそ適任かと。"
