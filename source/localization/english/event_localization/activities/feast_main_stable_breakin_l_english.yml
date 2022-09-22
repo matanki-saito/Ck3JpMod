@@ -56,6 +56,6 @@
  feast_main_stable_breakin.9003.deviant_caught:0 "[host_saying_goodbye.GetTitledFirstNamePossessive]の宴もいよいよ終わりだ。\n\nこれまでと同じように[breakin_deviant.GetTitledFirstName]を見るのは難しいが、最初に厩舎に乱入した連中の注意を引いてくれた[breakin_deviant.GetHerHim]には感謝すべきなのだろう。"
  feast_main_stable_breakin.9003.in_good_fun:0 "というわけで、また宴が終わる。まったくなんて時間だったろう！\n\n[host_saying_goodbye.GetSheHe]が他の客たちが我々の騎行を大層楽しんでいるのを見たおかげで、[host_saying_goodbye.GetTitledFirstName]は我々のちょっとした乱入騒ぎを許してくれたようだ。次回が待ちきれない！"
  feast_main_stable_breakin.9003.a:0 "結局、やったことはそう悪くはなかった。"
- feast_main_stable_breakin.9004.deviant_caught:0 "宴から家路につく時、私はもうこの国の貴族やご婦人方が自分を以前と同じようには見てくれないと気づいた。[host_saying_goodbye.GetTitledFirstName]は私の名を非難したし、ついさっきまで一緒に飲んで笑っていた[breakin_stager.GetFirstName]などは、[breakin_stager.GetHerselfHimself]の視線を私に向けようとはしなかった。\nそう、いまは疾く去るべし、だ。"
+ feast_main_stable_breakin.9004.deviant_caught:0 "宴から家路につく時、私はもうこの国の貴族やご婦人方が自分を以前と同じようには見てくれないと気づいた。[host_saying_goodbye.GetTitledFirstName]は私の名を非難したし、ついさっきまで一緒に飲んで笑っていた[breakin_stager.GetFirstName]などは、視線を私に向けようとはしなかった。\nそう、いまは疾く去るべし、だ。"
  feast_main_stable_breakin.9004.in_good_fun:0 "宴は終わった。私は自分のしでかしたことから逃げおおせたのが信じられない！\n私は去り際に、[host_saying_goodbye.GetHerHis]の動物たちの健康状態について、[host_saying_goodbye.GetTitledFirstName]を褒め称えた。\n\n[host_saying_goodbye.GetSheHe]が知っていればなあ！"
  feast_main_stable_breakin.9004.a:0 "これからは自重する！たぶん。"
