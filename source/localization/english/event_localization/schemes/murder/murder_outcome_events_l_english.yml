@@ -355,4 +355,4 @@
  murder_outcome.4301.house_feud:0 "\n\nDamn these [target.GetHouse.GetBaseName] scoundrels!"
  murder_outcome.2001.house_feud:0 "\n\nThat's one less [target.GetHouse.GetBaseName] to worry about in any case!"
  murder_outcome.2001.b:0 "This is only the beginning."
- murder_outcome.2001.c:0 "Justice is served."
+ murder_outcome.2001.c:0 "正義は果たされた。"

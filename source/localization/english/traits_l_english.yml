@@ -917,6 +917,6 @@
  trait_loyal_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]はほとんどの者より人間関係を真摯に扱う。"
  TRAIT_FLAG_DESC_join_factions_less:0 "[factions|E]に参加して[liege|E]に対抗する可能性が低い"
  TRAIT_FLAG_DESC_join_factions_more:0 "[factions|E]に参加して[liege|E]に対抗する可能性が高い"
- trait_disloyal:0 "Disloyal"
+ trait_disloyal:0 "不忠"
  trait_disloyal_desc:0 "Where most people see a relationship this person sees an opportunity."
  trait_disloyal_character_desc:0 "Where most people see a relationship [ROOT.GetCharacter.GetFirstNameNoTooltip] sees an opportunity."

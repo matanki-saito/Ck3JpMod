@@ -310,4 +310,4 @@
  SCHEME_KNOWN_LANGUAGES_MODIFIER:0 "すでに習得した[languages|E]の数: $VALUE|+0=$"
  scheme_executes_immediately:0 "[scheme|E]を直ちに実行します"
  SCHEME_TEACHER_KNOWS_YOUR_LANGUAGE_MODIFIER:0 "教師はあなたの[language|E]を知っている: $VALUE|+0=$"
- SCHEME_TARGET_IS_FEUD_TARGET:0 "[target.GetShortUINameNoTooltip] is member of [house_feud|E] [house|E]: $VALUE|+0=$"
+ SCHEME_TARGET_IS_FEUD_TARGET:0 "[target.GetShortUINameNoTooltip]は[house_feud|E]のある[house|E]の一員である: $VALUE|+0=$"

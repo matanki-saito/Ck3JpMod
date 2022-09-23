@@ -1,7 +1,7 @@
 ﻿l_english:
- bested_rival_modifier:0 "Bested Rival"
- bested_rival_modifier_desc:0 "This character refused to be made a laughing stock by their rival."
- bested_nemesis_modifier:0 "Bested Nemesis"
- bested_nemesis_modifier_desc:0 "この人物は、宿敵から笑いものにされることを拒んだ。"
+ bested_rival_modifier:0 "困難なライバル"
+ bested_rival_modifier_desc:0 "この人物は、ライバルから笑いものにされることを拒んだ。"
+ bested_nemesis_modifier:0 "困難な仇敵"
+ bested_nemesis_modifier_desc:0 "この人物は、仇敵から笑いものにされることを拒んだ。"
  unpredictable_modifier:0 "予測不可能"
- unpredictable_modifier_desc:0 "この人物の反応を誰も予測できません"
+ unpredictable_modifier_desc:0 "この人物の反応は誰も予測できない。"

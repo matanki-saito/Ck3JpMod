@@ -4,7 +4,7 @@
  jester.100.desc:0 "またストレスフルな一日だ…いくらか平穏と静寂を得ようと腰掛けると、突然私の部屋のドアが勢いよく開いた。\n\n驚くほど派手な[jester.Custom('GetAccessory')|l]を身に着け、汚物塗れの[jester.Custom('GetClothingArticle')]で盛装している、道化師にされた我がライバル[jester.GetTitledFirstName]ではないか！？[jester.GetSheHe]の外面は排泄物塗れだが[jester.GetHerHim]の内面も同じ状況だろう！\n\n「あなたの[ROOT.Char.Custom('GetExpensiveDrink_Singular')]…我が#EMP 主#!」[jester.GetHerHis]の顔中に深い皺ができるほどしかめっ面の[jester.GetSheHe]は言った。\n\nまったく、時に人生はいいものだ。"
  jester.100.a:0 "君に祝杯をあげよう、親愛なる[jester.GetFirstNameNoTooltip]！"
  covered_in_feces:0 "糞塗れ"
- covered_in_feces_desc:1 "This character has been covered head-to-toe in excrement."
+ covered_in_feces_desc:1 "この人物は頭からつま先まで排泄物に塗れた。"
  jester.200.t:0 "$court_jester_prefix$ 笑いは百薬の長"
  jester.200.desc:0 "「[ROOT.Char.GetTitleTierName]と[ROOT.Char.Custom('lowly_servant_type')]、私の[ROOT.Char.GetLadyLord|U]についての話を聞いたことがありますか？お伝えしましょう！」我が道化師[jester.GetTitledFirstName]は楽しそうに話した。\n\n私の顔は赤らみ笑い涙が頬をつたう、[jester.GetSheHe]はどこから笑話を仕入れるのだろうか？[jester.GetSheHe|U]は大変面白い！\n\nもう仕事に戻る時間かもしれない、さもなくば私は笑い#EMP 死ぬ#!！"
  jester.200.a:0 "いいぞ、もっと話せ！"

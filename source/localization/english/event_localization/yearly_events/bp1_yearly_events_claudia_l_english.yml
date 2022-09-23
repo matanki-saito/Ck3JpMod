@@ -93,7 +93,7 @@
  bp1_yearly.1050.desc:0 "I am comfortably soaking at the bathhouse, finally getting some well-deserved downtime, when a grating voice from somewhere nearby interrupts my tranquil thoughts.\n\n\"Did you see [ROOT.Char.GetHerHis]...? And that #EMP ridiculously#! tiny...?\" A little farther into the room, I spot [new_rival.GetTitledFirstName] making obscene gestures, surrounded by a crowd of laughing sycophants. It is hard to miss that they are all staring at me."
  bp1_yearly.1050.desc_nemesis:0 "\n\nTHAT'S IT!! I'm sick and tired of [new_rival.GetHerHis] nonsense! [new_rival.GetFirstNameNoTooltip] has been antagonizing me for way too long, and now [new_rival.GetSheHe] is also trying to ruin my bath time?! I've never met such a [new_rival.Custom('InsultAdjective')] [new_rival.Custom('InsultNoun')] as [new_rival.GetHerHim]! CURSE YOU, [new_rival.GetFirstNameNoTooltip]!"
  bp1_yearly.1050.desc_rival:0 "\n\nI barely know [new_rival.GetHerHim], and I already feel like I hate [new_rival.GetHerHim]. How #EMP dares#! [new_rival.GetFirstNameNoTooltip] ridicule me in public?! I will not forget this slight..."
- bp1_yearly.1050.a:0 "[new_rival.GetSheHe|U] will pay for this."
+ bp1_yearly.1050.a:0 "[new_rival.GetSheHe|U]は代償を支払うことになる。"
  bp1_yearly.1050.b:0 "I want [new_rival.GetHerHim] dead. #EMP NOW#!."
  bp1_yearly.1050.c:0 "I'm probably overreacting..."
  bp1_yearly.1060.t:0 "迷信的な心"

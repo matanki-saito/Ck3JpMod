@@ -397,4 +397,4 @@
  task_domestic_affairs_tyranny_bureaucrats_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_erudition_bonus')|P0]%#!"
  task_domestic_affairs_tyranny_family_business_bonus_desc:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_family_business_bonus')|P0]%#!"
  task_domestic_affairs_tyranny_chains_of_loyalty_bonus_desc:0 "\n$TAB$[GetPerk('chains_of_loyalty_perk').GetName(GetPlayer)]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_chains_of_loyalty_bonus')|P0]%#!"
- minimum_conversion:0 "Minimum #low (0.10)#!"
+ minimum_conversion:0 "最小#low (0.10)#!"
