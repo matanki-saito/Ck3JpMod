@@ -359,7 +359,7 @@
  child_personality.3007.a:0 "そして、皆は簡単に騙されてしまう！"
  child_personality.3007.message:0 "私の[ROOT.Char.Custom2('RelationToMe',personality_child)]である[personality_child.GetTitledFirstName]は欺瞞的でもあり狡猾でもある！"
  child_personality.3008.t:0 "可愛い笑顔とちっちゃな嘘"
- child_personality.3008.desc:1 "ちょうど[personality_child.GetHerHis]の年の他の子供のように、私の[ROOT.GetCharacter.Custom2('RelationToMe' , personality_child)]、[personality_child.GetTitledFirstName]は時々嘘をつき限界を試す。しかしながら[personality_child.GetSheHe]はしばしば[personality_child.GetHerHis]の愛らしい振る舞いで嫌疑を避け[personality_child.GetSheHe]を捕まえても、みんな[personality_child.GetHerHim]を許してしまう。\n\n[personality_child.GetSheHe]はどれだけうまく逃れてきたんだろうな..."
+ child_personality.3008.desc:1 "ちょうど[personality_child.GetHerHis]の年の他の子供のように、私の[ROOT.GetCharacter.Custom2('RelationToMe' , personality_child)]、[personality_child.GetTitledFirstName]は時々嘘をつき限界を試す。しかしながら[personality_child.GetSheHe]はしばしば愛らしい振る舞いで嫌疑を避け[personality_child.GetSheHe]を捕まえても、みんな[personality_child.GetHerHim]を許してしまう。\n\n[personality_child.GetSheHe]はどれだけうまく逃れられるのだろう..."
  child_personality.3008.a:0 "これからも目が離せないなあ。"
  child_personality.3009.t:1 "思索に耽る"
  child_personality.3009.desc:1 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))]の[guardian.GetFirstName]は、私にもっと他の子と遊べと言ってくる。でも、彼らは騒がしいんだ！静かにしないと、自分の考えが聞こえてこないじゃないか！"
