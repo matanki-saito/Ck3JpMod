@@ -117,5 +117,5 @@
  stewardship_tax_enforcement_modifier_desc:0 "This character's tax enforcers are known to collect... despite any human cost."
  stewardship_rampaging_knights_modifier:0 "Rampaging Knights"
  stewardship_rampaging_knights_modifier_desc:0 " This character's enforcers eagerly assail villages and battlefields alike in search of advancement."
- stewardship_stolen_taxes_modifier:0 "Stolen Taxes"
- stewardship_stolen_taxes_modifier_desc:0 "Warriors from another realm have robbed the peasantry."
+ stewardship_stolen_taxes_modifier:0 "盗まれた税"
+ stewardship_stolen_taxes_modifier_desc:0 "別の領国からの戦士が農民を略奪した。"

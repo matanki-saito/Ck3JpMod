@@ -226,7 +226,7 @@
  hold_court.8090.a:0 "お前が適任だ、[vassal.GetFirstNameNoTooltip]。"
  hold_court.8090.b:0 "[old_holder.GetFirstNameNoTooltip]には身を退いてもらわんとな。"
  hold_court.8090.c:0 "今のところ必要なのは、お前の持つ他の才能だな。"
- move_and_grant_court_position_effect_tooltip:1 "[candidate.GetFirstNameNoTooltip] gains a role"
+ move_and_grant_court_position_effect_tooltip:1 "[candidate.GetFirstNameNoTooltip]は役割を得ます"
  hold_court.8090.d.advocate:0 "それより、[vassal.GetHerHim]に相応しい#EMP 特別なあて#!があるんだが…"
  hold_court.8090.d:0 "それより、お前に相応しい#EMP 特別なあて#!があるんだが…"
  hold_court.8090.e.advocate:0 "そういった役職に[vassal.GetSheHe|U]は向いてない。"
