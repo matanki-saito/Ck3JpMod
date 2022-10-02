@@ -1,8 +1,8 @@
 ﻿l_english:
- bp1_yearly.1000.t:0 "A New Hobby"
- bp1_yearly.1000.desc:0 "My best friend [friend.GetTitledFirstName] approaches me with a big smile on [friend.GetHerHis] face.\n\n\"My dearest friend, we finally see each other! I feel like we never spend any quality time together lately... Maybe, you'd be willing to try something new with me? I know just the thing to distract your mind, restore your body, and lift your spirits!"
- bp1_yearly.1000.desc_cannibal:0 "\n\n\"Why don't you come to my place for dinner? I have a fresh batch of #EMP special#! meat like you've never tasted before — #EMP forbidden#! meat, if you catch my drift...\""
- bp1_yearly.1000.desc_deviant:0 "\n\n\"You should join me in my #EMP explorations#! some night! Nothing is more refreshing than finding pleasure in all the small things... Or #EMP big ones#!, if you prefer... What do you think of #EMP [friend.Custom('DeviantObjectPlural')]#!?\""
+ bp1_yearly.1000.t:0 "新たな趣味"
+ bp1_yearly.1000.desc:0 "親友である[friend.GetTitledFirstName]が満面の笑みを浮かべて私に近づいてくる。\n\n「親愛なる友よ、遂に会えたね！最近、一緒に充実した時間を過ごすことがないような気がする…もしかしたら、君は私と何か新しいことに挑戦したいのでは？ 私は、あなたの心を和ませ、体を回復させ、気分を高揚させるちょうど良いものを知っているよ！」"
+ bp1_yearly.1000.desc_cannibal:0 "\n\n「私の家に夕食を食べに来ないか？君が今まで味わったことのないような#EMP 特別な#!肉があるんだ——#EMP 禁断の#!肉、言いたいことはわかるだろう…？」"
+ bp1_yearly.1000.desc_deviant:0 "\n\n「君は今夜の私の#EMP 冒険#!に参加するべきだ！小さなことに喜びを見出すことほど、爽快なことはない…君が好むならあるいは#EMP 大きなもの#!でもいいが…#EMP [friend.Custom('DeviantObjectPlural')]#!はどうだい？」"
  bp1_yearly.1000.desc_witch:0 "\n\n\"Why don't you join me for a night stroll? I know all the secret arts to capture fortune, trap death, enslave love, and attract gold; I would just #EMP love#! to teach them all to you!\""
  bp1_yearly.1000.desc_hashish:0 "\n\n\"When stress and responsibilities get you down, I have just the right recipe to leave all your troubles behind! Have you ever tried my #EMP special cakes#!?\""
  bp1_yearly.1000.desc_drunkard:0 "\n\n\"#EMP [ROOT.Char.Custom('RegionalAlcoholicDrink')|U]#!!! My friend, let's drink our sorrows away! Letting one cup force back another is the best of all medicines!\""
