@@ -170,7 +170,7 @@
  rivalry.3001.desc.opening:0 "まるで[rival.GetSheHe]が人としての最悪の悪徳を受け入れてでもいるかのように、[rival.GetTitledFirstName]は今、私を面と向かって侮辱している！\n\n"
  rivalry.3001.malicious:0 "[rival.GetSheHe|U]は使者を送り、届いた下品な批判を宮廷中に聞こえるようにした。「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstName]へ、」という言葉でそれは始まり、文が進むにつれて言葉はますます悪化していくだけである。[rival.Custom('InsultAdjective')][rival.GetWomanMan]はいい度胸をしているな！"
  rivalry.3001.benevolent:0 "[rival.GetSheHe|U]は手紙を送り、関係改善を求めると同時に私のことを「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstName]」と呼んでいる。[rival.GetSheHe|U]は今、[rival.GetHerHis]の本性を現している！"
- rivalry.3001.dominant:1 "[rival.GetSheHe|U] sent a messenger, addressing me as the \"[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]\", and practically begging for a fight!"
+ rivalry.3001.dominant:1 "[rival.GetSheHe|U]は使者を送り、その中で私を「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstName]」と呼んだが、それは喧嘩をしたいと頼んでいるようなものだ！"
  rivalry.3001.submissive:0 "私は私室で、夜に紛れてひそかに持ち込まれた紙片を見つけた。「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstName]へ」という言葉でそれは始まり、文が進むにつれて言葉はますます悪化していくだけである。[rival.Custom('InsultAdjective')][rival.GetWomanMan]は、それに[rival.GetHerHis]の署名を入れる度胸まで持ち合わせていた！"
  rivalry.3001.extroverted:1 "[rival.GetSheHe|U] sent a messenger to me while I was holding court, who greeted me as the \"[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]\", and continued to drag my name through the mud in front of everyone!"
  rivalry.3001.emotional:1 "[rival.GetSheHe|U] sent a messenger accusing me of \"sabotaging [rival.GetFirstNamePossessiveNoTooltip] whole life\", calling me the \"[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]\", and then proceeded to make a scene."
