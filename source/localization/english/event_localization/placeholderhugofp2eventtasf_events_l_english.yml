@@ -36,7 +36,7 @@
  fp2_struggle.2001.d.notif.desc:0 "[fp2_2001_desperate_county.GetName]の農民たちは、解放のための貢ぎ物を支払うために、最後の貴重品をかき集めてきました"
  fp2_struggle.2001.e:0 "何もできん、だが、人々は自分たちでなんとかするだろう。"
  fp2_struggle.2001.e.desc:0 "あなたは[fp2_2001_desperate_county.GetHolder.GetName]の支配下に農民の運命を委ねます"
- fp2_struggle.2001.f:0 "私は[fp2_2001_desperate_county.GetHolder.GetTitleAsNameNoTooltip]ト共にある。[fp2_2001_desperate_county.GetHolder.GetHerHim]に裏切りを知らせなければ！"
+ fp2_struggle.2001.f:0 "[fp2_2001_desperate_county.GetHolder.GetTitleAsNameNoTooltip]側に立とう。[fp2_2001_desperate_county.GetHolder.GetHerHim]に裏切りを知らせなければ！"
  fp2_every_major_vassal_notifier:0 "すべての有力な封臣"
  fp2_every_major_same_faith_vassal_notifier:0 "すべての有力な[dyloc_powerful_vassal_faith.GetAdjective]の封臣"
  fp2_every_major_different_faith_vassal_notifier:0 "すべての非[dyloc_powerful_vassal_faith.GetAdjective]の封臣"
