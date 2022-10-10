@@ -166,7 +166,7 @@
  trait_specific_ongoing.2025.e.failure:0 "廷臣たちはあなたの策略を見抜く"
  trait_specific_ongoing.2025.every_courtier:0 "すべての廷臣"
  trait_specific_ongoing.3001.t:0 "不幸は連帯を愛す"
- trait_specific_ongoing.3001.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sympathetic_character') )][sympathetic_character.GetTitledFirstName]は、私が法廷を開いて、まだ周りに人が集まっている中、私に近づいてきた。\n\n「我が[ROOT.Char.GetLadyLord]、あなたもまた…憂鬱な時期に苦しんでいると聞いています。もしかしたら、我々の経験を話し合えるかもしれませんが？」"
+ trait_specific_ongoing.3001.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sympathetic_character') )][sympathetic_character.GetTitledFirstName]は、私が謁見を終えて、まだ周りに人が集まっている中、私に近づいてきた。\n\n「我が[ROOT.Char.GetLadyLord]、あなたもまた…憂鬱な時期に苦しんでいると聞いています。もしかしたら、我々の経験を話し合えるかもしれませんが？」"
  trait_specific_ongoing.3001.a:0 "来てくれ、我々は話すことがたくさんある。"
  trait_specific_ongoing.3001.b:0 "私にそのような問題はない！一体何を言ってるんだ！？"
  trait_specific_ongoing.3001.b.tt:0 "アハハ…ハ。"

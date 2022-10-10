@@ -83,7 +83,7 @@
  ep1_flavor.2000.infantry:0 "「[ROOT.Char.Custom('GetRegionalInfantryMAA')|l]は良い乱闘が大好きだ。」"
  ep1_flavor.2000.cavalry:0 "「ペグを取れ！[ROOT.Char.Custom('GetRegionalCavalryMAA')|l]は乗れ！」"
  ep1_flavor.2000.cavalry_joust:0 "「馬上槍試合には、優れた技術が求められる。」"
- ep1_flavor.2000.cavalry_tzykanion:0 "\"The riders will play tyzkanion!\""
+ ep1_flavor.2000.cavalry_tzykanion:0 "「騎手たちがツィカニオンの試合をする！」"
  ep1_flavor.2000.cavalry_chovgan:0 "「彼らにチョウガンをやらせよう！」"
  ep1_flavor.2000.archer_cavalry:0 "「騎兵は走るウサギを使って訓練する。」"
  ep1_flavor.2000.skirmishers:0 "「我が[ROOT.Char.Custom('GetRegionalInfantryMAA')|l]が失敗することはない。」"
