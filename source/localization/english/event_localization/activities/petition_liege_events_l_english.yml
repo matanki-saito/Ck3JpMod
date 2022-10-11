@@ -147,7 +147,7 @@
  petition_liege.0201.desc.title_liege:0 "\n\n私は丁寧に[petition_liege.GetHerHis]の[petition_claim.GetName]に対する正当な請求権を主張し、それを裏付ける長い文書を提供して、[petition_liege.GetTitleAsNamePossessiveNoTooltip]の回答を待っている。"
  petition_liege.0201.desc.title_vassal:0 "\n\n私は、[petition_claim.GetName]に対する自分の請求権の証拠を巧みに提示すると、[second_party.GetTitledFirstName]のそれに対する優越を強調する。"
  petition_liege.0201.desc.construct_city:0 "\n\n私は[petition_construct_county.GetName]における[petition_construct.GetName]の居留地を発展させるための主張を並べ、練習してきたとおりに、その利点を列挙する。"
- petition_liege.0201.desc.construct_temple:0 "\n\nI humbly present the case for a new [petition_liege.GetFaith.HouseOfWorship] in the [petition_construct_county.GetName], to be built at the settlement of [petition_construct.GetName]."
+ petition_liege.0201.desc.construct_temple:0 "\n\n[petition_construct_county.GetName]の新たな[petition_liege.GetFaith.HouseOfWorship]に、[petition_construct.GetName]の開拓地を建設することを謹んで提案いたします"
  petition_liege.0201.desc.development:0 "\n\n私は[petition_county_example.GetName]と[petition_liege.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTier]の異なる状況について、またそのバランスを取り戻すために何ができるかを丁寧に説明する。"
  petition_liege.0201.desc.bridge:1 "\n\n演説を聞いた後、[petition_liege.GetSheHe]は私に暖かく微笑んで言う。「その通りだ、[petition_liege.Custom2('RelationToMeShort', petition_vassal)]よ！この問題を処理するためにすぐに代理の者を派遣しよう。」"
  petition_liege.0201.desc.council_second_party:0 "私は確実に[second_party.GetFullName]より悪いことはない…"

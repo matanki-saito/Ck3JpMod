@@ -12,7 +12,7 @@
  feast_main_stew_flood.0003.t:1 "$feast_header$ シチュー海"
  feast_main_stew_flood.0003.stew_introduction_blame:0 "酔った勢いで、[stew_sea_blamed.GetTitledFirstName]は宴会場の真ん中にある暖炉の上にぶら下がっている大釜の蓋を開けてしまった！部屋の半分をシチューの海で覆うほどの香ばしいスープが湧き出てきた！"
  feast_main_stew_flood.0003.stew_introduction:0 "宴会の喧騒の中、愚かな召使いが宴会場の暖炉にかかっていた大釜の蓋をうっかり外してしまった！部屋の半分をシチューの海で覆うほどの香ばしいスープが湧き出てきた！"
- feast_main_stew_flood.0003.someone_got_covered:0 "\n\n大釜の隣に座っていた[stew_sea_gets_covered.Custom('stew_flood_covered_adjective')]の[stew_sea_gets_covered.GetTitledFirstName]は、押し寄せる波につかまり、[stew_sea_gets_covered.GetHerHis]の顔面を脂が流れ落ちて見てくれを台無しにしたのを大声で罵っていた。"
+ feast_main_stew_flood.0003.someone_got_covered:0 "\n\n大釜の隣に座っていた[stew_sea_gets_covered.Custom('stew_flood_covered_adjective')]の[stew_sea_gets_covered.GetTitledFirstName]は、押し寄せる波につかまり、[stew_sea_gets_covered.GetHerHis]の顔面を脂が流れ落ちて、自分の見てくれを台無しにしたのを大声で罵っていた。"
  feast_main_stew_flood.0003.splash_desc_standard:0 "慌てて飛び跳ねる足の間に、ドロリとした塊が脂ぎった触手を伸ばし始めたので、客人たちは広間の反対側へ殺到した。"
  feast_main_stew_flood.0003.every_target:0 "\n\nひどい空腹に耐えかねて[stew_sea_glutton.GetTitledFirstName]は床に倒れこみ、[stew_sea_horrified_character.GetTitledFirstName]が恐怖のあまり見守る中、[stew_sea_glutton.GetSheHe]は床に溢れた肉を食べられるだけ食べてしまった。"
  feast_main_stew_flood.0003.only_glutton:0 "\n\nひどい空腹に耐えかねて、[stew_sea_glutton.GetTitledFirstName]は床に倒れ込み、[stew_sea_glutton.GetSheHe]が食べられるだけのありったけの肉を飲み込んでしまった。"
