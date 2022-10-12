@@ -1346,5 +1346,5 @@
  INTERACTION_ARROGANT:0 "[GetTrait('arrogant').GetName( recipient )]: $VALUE|=+0$"
  INTERACTION_STUBBORN:0 "[GetTrait('stubborn').GetName( recipient )]: $VALUE|=+0$"
  any_unequipped_artifact_tt:0 "あなたが装備していない[artifact|E]を持っている必要があります"
- can_be_granted_titles_interaction_tt:0 "[recipient.GetWomenMen|U] must be a Dominant, Equal, or Clerical Gender within your [faith|E] ([actor.GetFaith.GetName])"
- AI_GUARDIAN_FEUD_HESITANCE:0 "Won't give child to [house_feud|E] [house|E]: $VALUE|=+0$"
+ can_be_granted_titles_interaction_tt:0 "[recipient.GetWomenMen|U]はあなたの[faith|E]（[actor.GetFaith.GetName]）のなかでもっとも有力か、同等、あるいは聖職者の性別である必要があります"
+ AI_GUARDIAN_FEUD_HESITANCE:0 "[house_feud|E][house|E]を子供に与えない：$VALUE|=+0$"

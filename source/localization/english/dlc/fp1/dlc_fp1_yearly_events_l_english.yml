@@ -287,7 +287,7 @@
  fp1_yearly.0541.c:0 "お前は#EMP 我が#![child.Custom('GetDaughterSon')]を困らせるのか？クビだ！"
  fp1_yearly.0541.d:0 "本当に、#EMP 心から#!どうでもいい。"
  fp1_yearly.0551.t:0 "怪しい取引"
- fp1_yearly.0551.desc:0 "始まりは、たまの供応でのことだった。変わった習慣ではあるが、私は善き[ROOT.Char.GetCulture.GetNameNoTooltip]人の[ROOT.Char.GetWomanMan]であるし、[ROOT.Char.GetCulture.GetNameNoTooltip]人の[ROOT.Char.GetWomanMan]で安全とは言えないニシンを食べたことがない者はいないだろう。\n\nしかし、この数週間で、[antisocialite.GetTitledFirstNamePossessive]の#EMP 腐った#!魚への偏愛は、まだ許容できる特異性からピリっとくるような遍在性へと変化した。\n\n今朝、[antisocialite.GetSheHe]が便所に何をしたかを発見したとき、私はもう十分だと思った。廊下で[antisocialite.GetHerHim]を見つけた時、[antisocialite.GetHerHis]の顔は泡だらけの塩水に浸され、半分の魚の目がゆったりと顎に垂れていた。"
+ fp1_yearly.0551.desc:0 "始まりは、たまの供応でのことだった。変わった習慣ではあるが、私は善き[ROOT.Char.GetCulture.GetNameNoTooltip]人の[ROOT.Char.GetWomanMan]であるし、[ROOT.Char.GetCulture.GetNameNoTooltip]人の[ROOT.Char.GetWomanMan]で安全とは言えないニシンを食べたことがない者はいないだろう。\n\nしかし、この数週間で、[antisocialite.GetTitledFirstNamePossessive]の#EMP 腐った#!魚への偏愛は、かなり奇妙な風習から、刺激的な遍在性へと変化した。\n\n今朝、[antisocialite.GetSheHe]が便所に何をしたかを発見したとき、私はもう十分だと思った。廊下で[antisocialite.GetHerHim]を見つけた時、[antisocialite.GetHerHis]の顔は泡だらけの塩水に浸され、半分の魚の目がゆったりと顎に垂れていた。"
  fp1_yearly.0551.a:0 "座れ、[antisocialite.GetFirstNameNoTooltip]。話したいことがある。"
  fp1_yearly.0551.a.tt_success:0 "あなたは自分の言いたいことを雄弁に物語る"
  fp1_yearly.0551.a.tt_failure:0 "[antisocialite.GetFirstNameNoTooltip]は信じられないくらい侮辱される"
