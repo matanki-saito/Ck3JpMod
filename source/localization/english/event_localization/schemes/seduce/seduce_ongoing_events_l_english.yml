@@ -316,7 +316,7 @@
  seduce_ongoing.4017.a:0 "それは…私たち二人で、私たちは——"
  seduce_ongoing.4018.desc:0 "親愛なる[owner.GetTitledFirstName]へ、\n\n[court_location.GetNameNoTier]への訪問は、とても楽しかったです。私は[court_location.Custom('BaronyTownType')]で、決して見られると思っていなかった部分を知ることができました！"
  seduce_ongoing.4018.a:0 "どうぞお気遣いなく。"
- seduce_ongoing.4101.t:0 "最愛のバルコニー"
+ seduce_ongoing.4101.t:0 "愛しい人のバルコニー"
  seduce_ongoing.4101.desc_opening:0 "[target.GetTitledFirstNamePossessive]の窓は暖かい光に照らされていて、下からでも中の動きが見える。\n\n"
  seduce_ongoing.4101.desc_same_court:0 "脈の鼓動が耳の中で大きく響いている。私は自身の[ROOT.Char.Custom('ResidenceBuilding')]の中に居るのかもしれない。しかし[target.GetHerHis]の欲望を勝ち取ろうとしているとき、私は我が家でありながらも見知らぬ土地に足を踏み入れているのだ。"
  seduce_ongoing.4101.desc_other_court:0 "脈の鼓動が耳の中で大きく響いている。[court_location.GetNameNoTier]を訪ねて来た事、そして[target.GetHerHim]と寝る機会を求めていた事は、私を深海の中に置き去りにしてしまった。"
