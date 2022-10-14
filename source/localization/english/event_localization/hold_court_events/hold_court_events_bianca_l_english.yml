@@ -83,7 +83,7 @@
  hold_court.3090.c:0 "[ROOT.GetCharacter.GetCulture.GetNameNoTooltip]の偉大さを伝えるため[different_culture_vassal.GetCulture.GetCollectiveNounNoTooltip]の土地で展示会を開催しよう！"
  hold_court.3090.d:0 "こんなことに金をかける余裕はない。"
  hold_court.3091.t:0 "文化的アイデンティティの融合"
- hold_court.3091.desc:0 "我が[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('same_culture_vassal'))][same_culture_vassal.GetTitledFirstName]が私に近づいてくると、期待に満ちた空気が流れる。\n\n「我が[ROOT.Char.GetLadyLord]、重大なお知らせがありますが、私にはこの問題を解決するための解決策がございます。[different_culture_vassal.GetCulture.GetCollectiveNoun]と[same_culture_vassal.GetCulture.GetCollectiveNoun]がより、いや、#EMP あまりにも#!類似していることが分かってきたのです。革新の最前線にいるのは我々[same_culture_vassal.GetCulture.GetCollectiveNounNoTooltip]であることを彼らに示すことが最も重要です！」"
+ hold_court.3091.desc:0 "期待に満ちた空気を纏って、我が[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('same_culture_vassal'))][same_culture_vassal.GetTitledFirstName]が近づいてくる。\n\n「我が[ROOT.Char.GetLadyLord]、重大なお知らせをお持ちしました。[different_culture_vassal.GetCulture.GetCollectiveNoun]と[same_culture_vassal.GetCulture.GetCollectiveNoun]がより、いや、#EMP あまりにも#!類似していることが分かってきたのです。ですが、この問題の解決策がございます。その肝は、革新の最前線にいるのは我々[same_culture_vassal.GetCulture.GetCollectiveNounNoTooltip]だと示すことです！」"
  hold_court.3091.a:0 "我々の豊かな[same_culture_vassal.GetCulture.GetNameNoTooltip]文化を祝うための祭りを開催しよう！"
  hold_court.3091.b:0 "我々の偉大な成果を披露する展示会を手配してくれ。"
  hold_court.3091.c:0 "他の文化に対して優越感を持つ必要などない。"

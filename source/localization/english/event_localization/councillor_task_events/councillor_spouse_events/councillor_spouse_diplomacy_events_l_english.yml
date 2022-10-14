@@ -28,7 +28,7 @@
  councillor_spouse_diplomacy.2003.b:0 "[rival.GetHerHis]の顔を改めてやる！"
  councillor_spouse_diplomacy.2003.c:0 "[rival.GetHerHim]を[SCOPE.Custom('PersonalityGetSharedTraitDescriptionFromFlag')]と呼ぶのか?！[rival.GetHerHis]の本性を明らかにしてやろう…"
  councillor_spouse_diplomacy.2004.t:1 "配偶者: 都合のいい請求"
- councillor_spouse_diplomacy.2004.desc:1 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]である[councillor.GetTitledFirstName]が、勢い込んで[claimant.GetWomanMan]を私の前に連れてきた。\n\n「我が[ROOT.Char.GetTitleTierName]よ、[claimant.GetTitledFirstName]を紹介させていただきたい。[title_to_claim.GetName]の請求者でございます」\n\n[claimant.GetFirstName]は私に恭しくお辞儀をし、言った。「光栄です、[claimant.Custom2('RelationToMeAddress', ROOT.Char)]よ。残念ながら、[title_to_claim.GetNameNoTier]は、我が掌中からは程遠いところにございます…私の傍らでともに利を得るものがおらぬ限りは。」"
+ councillor_spouse_diplomacy.2004.desc:1 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]である[councillor.GetTitledFirstName]が、勢い込んで私の前に[claimant.GetWomanMan]を連れてきた。\n\n「我が[ROOT.Char.GetTitleTierName]よ、[claimant.GetTitledFirstName]を紹介させていただきたい。[title_to_claim.GetName]の請求者でございます」\n\n[claimant.GetFirstName]は私に恭しくお辞儀をし、言った。「光栄です、[claimant.Custom2('RelationToMeAddress', ROOT.Char)]よ。残念ながら、[title_to_claim.GetNameNoTier]は、我が掌中からは程遠いところにございます…私の傍らでともに利を得るものがおらぬ限りは」"
  councillor_spouse_diplomacy.2004.a:0 "私なら力になれるかもしれない。"
  councillor_spouse_diplomacy.2004.a.tt:0 "#F [claimant.GetFirstNameNoTooltip]を我が宮廷に留めておけば、時が来た時に[claimant.GetHerHis]の請求権を行使することができるでしょう#!"
  councillor_spouse_diplomacy.2004.b:0 "せいぜい頑張るのだな。"
