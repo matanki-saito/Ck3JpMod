@@ -1,6 +1,6 @@
 ﻿l_english:
  fp2_struggle.2006.t:0 "信仰の境界"
- fp2_struggle.2006.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fp2_2006_vassal_in_crisis'))][fp2_2006_vassal_in_crisis.GetTitledFirstName]は明らかに疑いの眼差しを持って、私的な時間に私に近づいてきた。\n\n[fp2_2006_vassal_in_crisis.GetSheHe|U]は、[fp2_2006_foreign_faith.GetNameNoTooltip]から国境を守り、敵と友好を深めることに時を費やしたことで、[fp2_2006_vassal_in_crisis.GetHerHis]の信仰が揺らいでいると説明した。[fp2_2006_vassal_in_crisis.GetHerHis|U]の言葉は冗談などではない。ほんの少しの誤りが、[ROOT.Char.GetFaith.HighGodName]から[fp2_2006_vassal_in_crisis.GetHerHim]を遠ざけてしまうように感じられる。\n\nしかしながら、これは我々の熱意だけでなく、関係を強化する機会でもある。"
+ fp2_struggle.2006.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fp2_2006_vassal_in_crisis'))][fp2_2006_vassal_in_crisis.GetTitledFirstName]は明らかに疑いの眼差しを持って、私的な時間を過ごす私のもとへ訪れた。\n\n[fp2_2006_vassal_in_crisis.GetSheHe|U]は、[fp2_2006_foreign_faith.GetNameNoTooltip]から国境を守り、敵と友好を深めることに時を費やしたことで、自らの信仰が揺らいでいると説明した。その言葉は冗談などではない。ほんの少しの誤りが、[ROOT.Char.GetFaith.HighGodName]から[fp2_2006_vassal_in_crisis.GetHerHim]を遠ざけてしまうように感じられる。\n\nしかしながら、これは我々の熱意はおろか、関係さえも強化する機会でもある。"
  fp2_struggle.2006.a:0 "「誰か司教を呼んでくれ！」"
  fp2_struggle.2006.a.a:0 "[fp2_2006_vassal_in_crisis.GetTitledFirstNameNoTooltip]は未だ疑いの中にある"
  fp2_struggle.2006.a.b:0 "[fp2_2006_vassal_in_crisis.GetTitledFirstNameNoTooltip]は[fp2_2006_vassal_in_crisis.GetTitledFirstNameNoTooltip]の存在に脅威を感じている"
