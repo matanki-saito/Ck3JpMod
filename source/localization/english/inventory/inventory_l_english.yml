@@ -14,7 +14,7 @@
  artifact_history_conquest_title:0 "[HISTORY_ENTRY.GetDate.GetString]"
  artifact_history_conquest_desc:2 "[HISTORY_ENTRY.GetActor.GetTitledFirstNameNicknamedNoTooltipRegnal]に対する戦争で[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]により奪取"
  artifact_history_taken_in_siege_title:0 "[HISTORY_ENTRY.GetDate.GetString]"
- artifact_history_taken_in_siege_desc:1 "[HISTORY_ENTRY.GetLocation.GetNameNoTooltip]の包囲の後[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]によって奪われた"
+ artifact_history_taken_in_siege_desc:1 "[HISTORY_ENTRY.GetLocation.GetNameNoTooltip]の包囲の後、[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]によって奪われた"
  artifact_history_reforged_title:0 "[HISTORY_ENTRY.GetDate.GetString]"
  artifact_history_reforged_desc:1 "[HISTORY_ENTRY.GetLocation.GetNameNoTooltip]で[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]により再鋳造された"
  artifact_history_discovered_title:0 "[HISTORY_ENTRY.GetDate.GetString]"

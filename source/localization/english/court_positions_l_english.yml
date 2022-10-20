@@ -124,7 +124,7 @@
  court_position_skill_stewardship:0 "[stewardship|E]能力"
  court_position_skill_intrigue:0 "[intrigue|E]能力"
  court_position_languages:0 "既知の[languages|E]"
- court_position_landed_penalty:0 "多忙な判決"
+ court_position_landed_penalty:0 "統治で多忙"
  court_position_skill_health:0 "[health|E]"
  court_position_physician_3_trait:0 "[GetTrait('physician_3').GetName( ROOT.Char )]"
  court_position_physician_2_trait:0 "[GetTrait('physician_2').GetName( ROOT.Char )]"

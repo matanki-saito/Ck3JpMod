@@ -220,7 +220,7 @@
  generate_artifact_with_history_debug_inherited:0 "[ROOT.Char.GetShortUIName]によって[recipient.GetShortUIName]から継承された"
  generate_artifact_with_history_debug_reforged:0 "[ROOT.Char.GetCurrentLocation.GetName]で[ROOT.Char.GetShortUIName]によって再鋳造された"
  generate_artifact_with_history_debug_conquest:0 "[recipient.GetShortUIName]に対する戦争中に[ROOT.Char.GetShortUIName]が奪い取った"
- generate_artifact_with_history_debug_taken_in_siege:0 "[recipient.GetCurrentLocation.GetName]の包囲の後[ROOT.Char.GetShortUIName]が奪い取った"
+ generate_artifact_with_history_debug_taken_in_siege:0 "[recipient.GetCurrentLocation.GetName]の包囲の後、[ROOT.Char.GetShortUIName]が奪い取った"
  debug_generic_option:0 "#D これはデバッグオプションです#!"
  debug_generic_option_can_disable_text:0 "#D 、デバッグが無効の場合は変更されます#!"
  debug_generic_option_can_disable:0 "$debug_generic_option$$debug_generic_option_can_disable_text$"

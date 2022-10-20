@@ -300,7 +300,7 @@
  game_concept_castle:0 "城砦"
  game_concept_castles:0 "城砦"
  game_concept_castle_holdings:0 "城砦所領"
- game_concept_castle_holding_desc:0 "城砦所領は最も強固に要塞化された[holding_type|E]であり、[feudal|E]、[clan|E]、[tribal|E]そして[holy_orders|E]の[rulers|E]にとって基本的な種類の所領です。[taxes|E]よりも[levies|E]を多く提供する傾向があります。"
+ game_concept_castle_holding_desc:0 "城砦所領は最も強固に要塞化された[holding_type|E]であり、[feudal|E]、[clan|E]、[tribal|E]そして[holy_orders|E]の[rulers|E]にとって標準的な所領です。[taxes|E]よりも[levies|E]を多く供出する傾向があります。"
  game_concept_temple_holding:0 "寺院所領"
  game_concept_temple:0 "神殿"
  game_concept_temples:0 "神殿"

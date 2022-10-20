@@ -216,7 +216,7 @@
  hold_court.6150.c:0 "くだらん！この狂った異端者を燃やせ！"
  hold_court.6150.d:0 "この愚者を私の前から追い払え。"
  hold_court.6160.t:0 "空っぽの財源"
- hold_court.6160.desc:0 "「我が[ROOT.Char.GetLadyLord]」[6160_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)]が何かを強く悔いたような表情で話し始める。「昨年、私の領地は本当に厳しい状況で、あらゆる面で余分な出費が必要となり、私の金庫は悲しいことに空っぽになってしまったのです…」\n\n「心苦しいのですが、私の借金を返済するために、あなたの寛大さに訴えることにしたのです。」"
+ hold_court.6160.desc:0 "「我が[ROOT.Char.GetLadyLord]」[6160_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)]が悲哀に満ちた表情で話し始める。「昨年、私の領地は本当に厳しい状況でした。あらゆる面で予想外の出費が必要となり、私の金庫は悲しいことに空っぽになってしまったのです…」\n\n「心苦しいのですが、借金を返すため、あなたの寛大さに訴えることにしたのです。」"
  hold_court.6160.desc_friend:0 "\n\n「我々を結ぶ絆の下に、どうか助けてください！」"
  hold_court.6160.desc_hook:0 "\n\n「もしそうしていただければ、私はあなたが私に返すべき借りについて考慮します。」"
  hold_court.6160.desc_fallback:0 "\n\n「私が困っていたときの、あなたの寛大さを忘れることはありません！」"

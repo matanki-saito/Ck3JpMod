@@ -6,7 +6,7 @@
  artifact_lost_in_siege:0 "[SAISE_artifact.GetName]は[SAISE_location.GetNameNoTooltip]の包囲中に[SAISE_attacker.GetShortUINameNoTooltip]によって盗まれた"
  artifact_lost_in_raid:0 "[SAISE_artifact.GetName]は[SAISE_location.GetNameNoTooltip]に対する[SAISE_attacker.GetHerHis]の略奪において[SAISE_attacker.GetShortUINameNoTooltip]によって盗まれた"
  artifact_seized_toast:0 "宝物を奪った"
- artifact_seized_in_siege:0 "私は[SAISE_location.GetNameNoTooltip]の包囲の後[SAISE_artifact.GetName]を奪った"
+ artifact_seized_in_siege:0 "[SAISE_location.GetNameNoTooltip]包囲の後、[SAISE_artifact.GetName]を奪った"
  artifact_seized_in_raid:0 "私は[SAISE_location.GetNameNoTooltip]に対する私の略奪において[SAISE_artifact.GetName]を奪った"
  artifact_damaged_toast:0 "宝物が損傷を受けた"
  artifact_damaged_in_siege:0 "私の[DAIBE_artifact.GetName]は[DAIBE_location.GetNameNoTooltip]の包囲において[DAIBE_artifact.MakeScope.Var('DAIBE_damage').GetValue|V0]のダメージを受けた"

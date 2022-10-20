@@ -31,7 +31,7 @@
  hold_court.3020.d:0 "[village.GetCountyData.GetCulture.GetCollectiveNounNoTooltip]からの要求を拒否する。"
  custom.every_county_of_culture:0 "すべての[village.GetCountyData.GetCulture.GetName]の[county|E]"
  hold_court.3030.t:0 "記念碑の修復"
- hold_court.3030.desc:0 "一人の農民の[different_culture_peasant.GetWomanMan]が私の前に立ち、[different_culture_peasant.GetHerHis]の嘆願を宮廷に伝える。\n\n「最近の戦争で田園が被害を受け、犯人が誰なのかわかりませんが、[province.GetName]から我々[different_culture_peasant.GetCulture.GetCollectiveNounNoTooltip]にとって重要な文化財を略奪されてしまったのです。嘆願いたします、どうか、我々がそれを修復できるよう、あなたの資金を割いてはいただけませんか！」\n\n農民は[different_culture_peasant.GetHerHis]の要求を下手なお辞儀で終わらせる——彼らの下賎な身分を明確に示すものだ。"
+ hold_court.3030.desc:0 "一人の農民の[different_culture_peasant.GetWomanMan]が私の前に立ち、その嘆願を宮廷に伝える。\n\n「この前の戦争で全住民が被害を被りました。誰が悪いのかはわかりません。ですが、我々[different_culture_peasant.GetCulture.GetCollectiveNounNoTooltip]にとって重要な文化財が[province.GetName]から略奪されてしまったのです。どうかお願いでございます、元の姿をもう一度見させては下さいませんか。そのために資金を割いてはいただけませんか！」\n\nその農民は、自らの要求をぎこちないお辞儀で締めた——それは、下賎な身分を明確に示すものであった。"
  hold_court.3030.a:0 "「あなたは修復に必要な資金を受け取ることができる。」"
  hold_court.3030.b:0 "残った材料を他の建物に使え。"
  hold_court.3030.c:0 "「この件に金をかける余裕はない。」"

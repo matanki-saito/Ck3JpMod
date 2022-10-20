@@ -114,7 +114,7 @@
  playdate.3010.c:0 "自分たちで露店を出してみよう！"
  playdate.3010.c.tt:0 "葉っぱで小石を「買う」、調子を合わせてくれる商人もいます"
  playdate.3011.t:0 "$playdate_header$ ままごと"
- playdate.3011.desc:1 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、[participant.GetHerHis]の腕に布の山を抱えて私に近づいてくる。[participant.GetSheHe]が私の目の前で床にそれを放り投げたとき、私はそれが大人用の服の山であることに気づいた！\n\n「一緒にままごとをしよう！」"
+ playdate.3011.desc:1 "[participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、その腕に布の山を抱えて私に近づいてくる。私の目の前で床にその山を放り投げたとき、それが大人用の服の山だと気づいた！\n\n「一緒にままごとをしよう！」"
  playdate.3011.a:0 "私たちが親ならいいよ！"
  playdate.3011.b:0 "いいよ。[disliked_participant.GetFirstNameNoTooltip]は犬だ！"
  playdate.3011.c:0 "いや、バカらしい。それよりチェスをしよう。"
