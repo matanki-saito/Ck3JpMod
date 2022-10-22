@@ -106,7 +106,7 @@
  seek_aid_of_the_spirits_decision_confirm:0 "精霊の助けを求める"
  meditate_in_seclusion_decision:0 "隠遁生活を送る"
  meditate_in_seclusion_decision_tooltip:0 "世俗の生活から離れ、自分の内面に集中します"
- meditate_in_seclusion_decision_desc:0 "瞑想を通してのみ、我々は宇宙の本質を理解することができる。\n\nそれは私の他の責任を放棄することを意味しているが、瞑想のために人里離れた場所へと引き下がることにより、私は私自身と私が住む宇宙についてより多くを学ぶかもしれない。"
+ meditate_in_seclusion_decision_desc:0 "瞑想を通してのみ、宇宙の本質の理解が可能となる。\n\nそれは他の責任の数々を放棄することを意味するが、瞑想のために隠遁することで、自分自身と自らが生きる宇宙について、より多くの悟りを得られるのかもしれない。"
  meditate_in_seclusion_decision_confirm:0 "隠遁生活を送る"
  meditate_in_seclusion_tooltip:0 "あなたは[stress|E]を失い、[traits|E]を獲得し、あるいはさらに[learning|E]能力が向上する可能性があります"
  give_sky_burial_decision:0 "あなたの[ROOT.Char.Custom2('RelationToMe', ROOT.Var('ancestor_to_bury').Char)|U]に鳥葬を認める"
