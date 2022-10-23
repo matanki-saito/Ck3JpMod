@@ -39,7 +39,7 @@
  best_friend_died_desc_second_perspective:2 "あなたは、[dead_relation.GetDeathReasonHideKiller]である親友[dead_relation.GetFullName]を喪う痛みを味わった"
  best_friend_died_desc_third_perspective:2 "[owner.GetName]は、[dead_relation.GetDeathReasonHideKiller]である親友[dead_relation.GetFullName]を喪う痛みを味わった"
  birthday_party:0 "誕生日パーティ"
- birthday_party_desc:1 "私の友人である[friend1.GetFirstName]と[friend2.GetFirstName]が開いてくれたサプライズ誕生日パーティ"
+ birthday_party_desc:1 "私の友人である[friend1.GetFirstName]と[friend2.GetFirstName]がサプライズで誕生日パーティを開いてくれた"
  birthday_party_desc_second_perspective:1 "あなたの友人である[friend1.GetFirstName]と[friend2.GetFirstName]がサプライズで誕生日パーティを開いてくれた"
  birthday_party_desc_third_perspective:1 "[owner.GetNamePossessive]の友人である[friend1.GetFirstName]と[friend2.GetFirstName]がサプライズで[owner.GetHerHim]の誕生日パーティを開いてくれた"
  broke_up_lovers_desc:0 "[old_lover.GetName]と別れた"
