@@ -167,7 +167,7 @@
  court_position_inappetetic_trait:0 "[GetTrait('inappetetic').GetName( ROOT.Char )]"
  court_position_torturer_trait:0 "[GetTrait('torturer').GetName( ROOT.Char )]"
  court_position_sadistic_trait:0 "[GetTrait('sadistic').GetName( ROOT.Char )]"
- court_position_clergy_trait:0 "[clergy|E]の一部である"
+ court_position_clergy_trait:0 "[clergy|E]の地位にある"
  court_position_completed_inspiration:0 "[inspiration|E]を完了している"
  court_position_high_skills_trait:0 "非常に熟練している"
  court_position_gardener_trait:0 "[GetTrait('lifestyle_gardener').GetName( ROOT.Char )]"

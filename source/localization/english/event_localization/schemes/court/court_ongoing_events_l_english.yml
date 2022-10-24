@@ -24,7 +24,7 @@
  court_ongoing.court_start_sparring.start.0502.desc:1 "武器同士がぶつかる音と熱い歓声に、私の注意が中庭の方へと引き寄せられていく。何事だろうか？\n\nそこで鎧を纏った二人の戦士による"
  court_ongoing.court_start_sparring.bad.0502.desc:0 "ぎくしゃくとしたスパーリングに出くわした。無駄に力のこもった一振りの後、片方がつまずく。私はそれを見て、興醒めしないよう努めるのでやっとだった。"
  court_ongoing.court_start_sparring.good.0502.desc:0 "活気のあるスパーリングに出くわした。どちらも戦場での試練を潜り抜けてきている。そのことに疑いの余地はない。"
- court_ongoing.court_start_sparring.great.0502.desc:0 "息を呑むような実戦形式の立ち合いに出くわした 。こんな[owner.Custom('SignatureWeaponArticle')][owner.Custom('signature_weapon')]技を見たのは初めてだ！目が離せない！"
+ court_ongoing.court_start_sparring.great.0502.desc:0 "息を呑むような実戦形式の立ち合いに出くわした。ここまでの[owner.Custom('SignatureWeaponArticle')][owner.Custom('signature_weapon')]さばきを見たのは初めてだ！目が離せない！"
  court_ongoing.court_start_sparring.end.0502.desc:0 "\n\n無謀にも見えた最後の打ち合いで、一方の戦士が相手の武器を取り上げる。驚いたことに、その戦士は私の前に跪くと兜を脱いだ。[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]であった！\n\n「この勝利をあなたに捧げます、[ROOT.Char.GetTitledFirstNameNoTooltip]よ。」と厳かに語る。「あなたに名誉をもたらすこと。これが私の唯一の望みなのです！」"
  court_ongoing.0502.a:0 "喜ばせるは我が[owner.GetLadyLord]よ！"
  court_ongoing.0502.b.incest:0 "何？お前は私の#EMP [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('owner'))]#!だぞ！"

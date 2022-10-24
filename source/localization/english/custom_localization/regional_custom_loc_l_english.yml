@@ -21,7 +21,7 @@
  terrain_wetlands:0 "湿原"
  terrain_steppe:0 "草原"
  terrain_floodplains:0 "氾濫原"
- terrain_drylands:0 "荒野"
+ terrain_drylands:0 "乾燥地"
  terrain_forest:0 "森林"
  animal_hart:0 "鹿"
  animal_stag:0 "アカシカ"

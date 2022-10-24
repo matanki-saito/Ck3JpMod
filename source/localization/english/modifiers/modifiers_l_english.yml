@@ -830,7 +830,7 @@
  wetlands_levy_size:0 "湿原での$MOD_LEVY_SIZE$"
  steppe_levy_size:0 "ステップでの$MOD_LEVY_SIZE$"
  floodplains_levy_size:0 "氾濫原での$MOD_LEVY_SIZE$"
- drylands_levy_size:0 "荒野での$MOD_LEVY_SIZE$"
+ drylands_levy_size:0 "乾燥地での$MOD_LEVY_SIZE$"
  plains_supply_limit_mult:0 "平地での$MOD_SUPPLY_LIMIT_MULT$"
  farmlands_supply_limit_mult:0 "農地での$MOD_SUPPLY_LIMIT_MULT$"
  hills_supply_limit_mult:0 "丘陵での$MOD_SUPPLY_LIMIT_MULT$"

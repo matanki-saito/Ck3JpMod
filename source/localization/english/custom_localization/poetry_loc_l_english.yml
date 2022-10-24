@@ -266,7 +266,7 @@
  GeneratePoem_Outro_Rhyming_Strife_01_B_01:0 "そして、次の扉には、[ROOT.Var('poem_subject').Char.GetHerHis]の剣がもたらされた。"
  GeneratePoem_Outro_Rhyming_Strife_01_B_02:0 "彼らは帝国が如何にして作られたかを学ぶであろう。"
  GeneratePoem_Outro_Rhyming_Strife_01_B_03:0 "自身がどちらの側で戦ってきたのか、彼らはすぐにわかるだろう。"
- GeneratePoem_Outro_Rhyming_Strife_02_A_01:0 "そして[ROOT.Var('poem_subject').Char.GetSheHe]が戦場へと出ていくとき、すべての人々は震えるだろう、"
+ GeneratePoem_Outro_Rhyming_Strife_02_A_01:0 "そして[ROOT.Var('poem_subject').Char.GetSheHe]が出征のとき、万人は震えるだろう、"
  GeneratePoem_Outro_Rhyming_Strife_02_A_02:0 "$GeneratePoem_Outro_Rhyming_Strife_02_A_01$"
  GeneratePoem_Outro_Rhyming_Strife_02_A_03:0 "$GeneratePoem_Outro_Rhyming_Strife_02_A_01$"
  GeneratePoem_Outro_Rhyming_Strife_02_B_01:0 "そして敵に盾の厚さが足りないことを見せつける。"
