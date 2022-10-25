@@ -19,7 +19,7 @@
  hold_court.1001.b:0 "この宮廷を前に誰一人として私を脅迫することはできぬ！衛兵！[rumormonger.GetHerHim]を捕えよ！"
  hold_court.1001.c:0 "消えろ、デマ屋め!我が宮廷にお前のような者の居場所はない!"
  hold_court.1011.t:0 "$hold_court_header$ 参戦要請"
- hold_court.1011.desc:0 "「あぁ、慈悲深き[ROOT.Char.GetTitledFirstNameNoTooltip]様、私は[claimant_guest.GetFirstName]と申します。大きな不正を正すべく貴方様のお力添えを求め遥々ここまで参りました。」\n\n私の目の前にいるこの[claimant_guest.GetWomanMan]は深々とお辞儀をして、よく練習したであろう[claimant_guest.GetHerHis]の嘆願を続ける。「現在「[target_title.GetNameNoTier]の玉座に[target_character.Custom2('MyCharacterIntroduction', claimant_guest)|U]が座っていますが、私こそがその土地の真の正当な領主なのです！」\n\n「もし私の請求にお力を貸していただけるのであれば、貴方様に忠誠を誓い、我が命尽きるまでお仕えいたしましょう。」"
+ hold_court.1011.desc:0 "「あぁ、慈悲深き[ROOT.Char.GetTitledFirstNameNoTooltip]様、私は[claimant_guest.GetFirstName]と申す者。大きな不正を正すべく貴方様のお力添えを求め遥々ここまで参りました。」\n\n目の前の[claimant_guest.GetWomanMan]は、深々とお辞儀すると、よく練習したであろう口上を続ける。「いま[target_title.GetNameNoTier]の玉座には[target_character.Custom2('MyCharacterIntroduction', claimant_guest)|U]が座っています。ですが、私こそがその地を治める、真に正当な領主なのです！」\n\n「私の請求権にまつわるこの問題へと、お力を貸して頂いた暁には、忠誠を誓います。我が命尽きるまでお仕え致しましょう。」"
  hold_court.1011.a:0 "戦争のためのなんという美しい日だろう！"
  hold_court.1011.b:0 "即刻お引き取りを――私に[target_character.GetTitleAsNameNoTooltip]を怒らせる危険は冒せない。"
  hold_court.1011.c:0 "あなたを助けることはできないが、私のもてなしを楽しんでくれ。"
