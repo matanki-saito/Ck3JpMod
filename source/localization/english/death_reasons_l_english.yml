@@ -1,5 +1,5 @@
 ﻿l_english:
- death_natural_causes:1 "[CHARACTER.GetHerHis]が睡眠中に死んだ。"
+ death_natural_causes:1 "[CHARACTER.GetHerHis]が睡眠中に死んだ"
  death_old_age:0 "老衰で死亡した"
  death_bubonic_plague:1 "[GetTrait('bubonic_plague').GetName( CHARACTER.Self )]により死亡した"
  death_smallpox:2 "[GetTrait('smallpox').GetName( CHARACTER.Self )]により死亡した"
