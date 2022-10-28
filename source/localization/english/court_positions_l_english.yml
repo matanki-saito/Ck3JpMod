@@ -225,7 +225,7 @@
  court_tutor_employer_custom_effect_description:2 "[education|E]の結果が向上します\n#V $make_child_learn_language_interaction$#!の[interaction|E]をアンロック"
  court_tutor_court_position_desc:1 "$court_tutor_court_position$は、宮廷にいるすべての子供たちの[education|E]を担当しており、彼らのスキルは生徒たちにどれだけの影響を与えるかに影響する。子どもはこれまで通り、個別の[guardians|E]を持つことができる。"
  royal_architect_court_position:0 "王室建築家"
- royal_architect_court_position_desc:1 "$royal_architect_court_position$は、領国内のあらゆる建築計画を監督している、彼らの明示する許可なしにレンガを敷くことも、また一秒を費やすこともない。"
+ royal_architect_court_position_desc:1 "$royal_architect_court_position$は、領国内のあらゆる建築計画を監督している。彼らの明確な許可なしに、レンガを積むことに一秒たりとも費やすことはできない。"
  court_poet_court_position:0 "宮廷詩人"
  court_poet_employer_custom_effect_description:1 "ランダムで[inspirations|E]を得る可能性があります"
  court_poet_court_position_desc:1 "$court_poet_court_position$は、言葉と詩の専門家であり、主君と宮廷のすべての人々に娯楽と知的刺激と感情的な体験を提供する。"
