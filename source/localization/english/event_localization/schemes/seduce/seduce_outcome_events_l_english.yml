@@ -73,7 +73,7 @@
  seduce_outcome.2304.b:0 "バラバラな部分を一つに結合すること— それはすべて人生の一部です。"
  seduce_outcome.2305.t:0 "恋文"
  seduce_outcome.2305.desc_opening:0 "「[letterAuthor.Custom2('love_letter', SCOPE.sC('love_letter_target'))]"
- seduce_outcome.2305.desc_ending:0 "」\n\n[target.GetTitledFirstName]から届いた手紙を読んですぐに、私は[target.GetHerHis]の部屋に向かっっている。"
+ seduce_outcome.2305.desc_ending:0 "」\n\n[target.GetTitledFirstName]から届いた手紙を読んですぐに、私は[target.GetHerHis]の部屋に向かっている。"
  seduce_outcome.2305.a:0 "[target.GetHerHis]の言葉には行動でこたえよう！"
  seduce_outcome.2305.a_terrible:0 "#F いやむしろ[target.GetHerHis]の言葉に込められた意味…あの詩は怖かった！#!"
  seduce_outcome.2305.a_okay:0 "#F そして、言葉にできないものを補うのだ！#!"

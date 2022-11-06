@@ -227,7 +227,7 @@
  action_mega_duke_penalty_click:0 ""
  action_in_debt:0 "借金がある"
  action_in_debt_label:1 "あなたは借金があります"
- action_in_debt_desc:6 "[gold|E]が0未満であるため、[debt|E]j状態となります！\n\n借金中は、次のような影響があります: \n$BULLET_WITH_TAB$[war|E]を宣言できません\n$BULLET_WITH_TAB$[gold|E]を必要とする[men_at_arms|E]の補充ができません\n$BULLET_WITH_TAB$[county_corruption|E]があなたの[domain|E]に広がります\n$BULLET_WITH_TAB$[vassals|E]は[factions|E]に参加する可能性が高くなります\n\n借金が多ければ多いほど、その罰則は厳しくなります。現在の借金のレベルには、以下の追加の効果があります: \n\n[GetPlayer.GetDebtModifierDescription]\n\n#help 毎月のゴールドを獲得できていない場合は、例えば以下の方法で経費を削減することを検討してください: \n$BULLET_WITH_TAB$あなたの[armies|E]を解散する\n$BULLET_WITH_TAB$あなたの[men_at_arms|E]の数を減らす、または解隊する\n$BULLET_WITH_TAB$[marshal|E]を利用して[control|E]を増やす\n$BULLET_WITH_TAB$[court_positions|E]の任を解く#!"
+ action_in_debt_desc:6 "[gold|E]が0未満であるため、[debt|E]状態となります！\n\n借金中は、次のような影響があります: \n$BULLET_WITH_TAB$[war|E]を宣言できません\n$BULLET_WITH_TAB$[gold|E]を必要とする[men_at_arms|E]の補充ができません\n$BULLET_WITH_TAB$[county_corruption|E]があなたの[domain|E]に広がります\n$BULLET_WITH_TAB$[vassals|E]は[factions|E]に参加する可能性が高くなります\n\n借金が多ければ多いほど、その罰則は厳しくなります。現在の借金のレベルには、以下の追加の効果があります: \n\n[GetPlayer.GetDebtModifierDescription]\n\n#help 毎月のゴールドを獲得できていない場合は、例えば以下の方法で経費を削減することを検討してください: \n$BULLET_WITH_TAB$あなたの[armies|E]を解散する\n$BULLET_WITH_TAB$あなたの[men_at_arms|E]の数を減らす、または解隊する\n$BULLET_WITH_TAB$[marshal|E]を利用して[control|E]を増やす\n$BULLET_WITH_TAB$[court_positions|E]の任を解く#!"
  action_in_debt_click:0 ""
  action_send_child_to_university:0 "子供を大学に送る"
  action_send_child_to_university_label:0 "子供を大学に送る"
