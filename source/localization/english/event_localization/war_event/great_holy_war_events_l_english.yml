@@ -46,7 +46,7 @@
  great_holy_war.0018.a:0 "[scoped_pope.GetFaith.WarGodName]の軍勢に参加しよう！"
  great_holy_war.0018.b:0 "もう少し考える必要がある…"
  great_holy_war.0003.title:0 "信徒は戦争に備えよ"
- great_holy_war.0003.catholic.desc:1 "バチカンからの教皇の特使が我が宮廷にやって来た。[ghw_sponsor.GetTitledFirstName]はすべての善良なキリスト教徒の諸侯に挙兵を呼びかけた。[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]として、普遍の教会が呼びかけるこの最も神聖な大義を支援するために軍隊の準備をすることが期待されている。\n\n聖地[target_kingdom.GetBaseNameNoTier]を冒涜する卑劣な[target_character.Custom('GetUnbelieverNamePlural')]との戦いに挑む全ての者たちに、聖座はすべての罪からの完全な赦しと天国での場所の保証を約束する。"
+ great_holy_war.0003.catholic.desc:1 "バチカンからの教皇の特使が我が宮廷にやって来た。[ghw_sponsor.GetTitledFirstName]はすべての善良なキリスト教徒の諸侯に挙兵を呼びかけた。[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]として、カトリック教会が呼びかけるこの最も神聖な大義を支援するために軍隊の準備をすることが期待されている。\n\n聖地[target_kingdom.GetBaseNameNoTier]を冒涜する卑劣な[target_character.Custom('GetUnbelieverNamePlural')]との戦いに挑む全ての者たちに、聖座はすべての罪からの完全な赦しと天国での場所の保証を約束する。"
  great_holy_war.0003.fallback.desc:0 "輝かしい知らせが我が宮廷に届いた。[ghw_sponsor.GetTitledFirstName]は、すべての正しい[ghw_sponsor.GetFaith.GetAdherentNamePluralNoTooltip]が一つの旗の下に結集し、[ghw_sponsor.GetFaith.GHWName]において[ghw_sponsor.GetFaith.WarGodName]の栄光のために、信仰の敵に対して進軍する時が来たと決定した。\n\nこの神聖な旅に加わるすべての者に、[ghw_sponsor.GetTitleTierName]は[ghw_sponsor.GetFaith.DivineRealm]における地位を確保するであろう。"
  great_holy_war.0003.a:0 "我が戦士たちは戦う準備ができている！"
  great_holy_war.0003.a.tt:0 "[ghw_sponsor.GetTitledFirstName]が呼びかけた[ghw_sponsor.GetFaith.GHWName]が始まればすぐに参戦を誓約します"
