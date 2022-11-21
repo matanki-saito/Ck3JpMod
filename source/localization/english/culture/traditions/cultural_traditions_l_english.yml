@@ -597,7 +597,7 @@
  culture_parameter_prestige_from_temple_construction:1 "[temple|E][holdings|E]を建設することで大量の[prestige_i][prestige|E]を獲得します"
  culture_parameter_less_likely_to_force_conversion:0 "[rulers|E]は[vassals|E]へ改宗要求を行いにくくなります"
  culture_parameter_enables_unite_africa_decision:0 "アフリカの[heritage|E]を持たない文化もアフリカ統一の[decision|E]が可能になります"
- culture_parameter_hunting_archery_building_bonuses:0 "#V $building_type_hunting_grounds_01$#!の種類の[buildings|E]は#V Archers#!の性能を向上させます"
+ culture_parameter_hunting_archery_building_bonuses:0 "#V $building_type_hunting_grounds_01$#!の種類の[buildings|E]は#V 弓兵#!の性能を向上させます"
  culture_parameter_gregarious_trait_gives_bonuses:0 "[GetTrait('gregarious').GetName( GetNullCharacter )]の[trait|E]は追加のボーナスを持ちます"
  culture_parameter_building_barracks_piety_bonuses:1 "この[culture|E]の人物は#V $building_type_barracks_01$#!の種類の[buildings|E]から[piety_i][piety|E]を得ます"
  culture_parameter_can_build_quarries_in_hills:2 "#V $building_type_quarries_01$#!の種類の[buildings|E]はこの[culture|E]の[counties|E]内の丘陵[terrain|E]の[holdings|E]に建設できます"
