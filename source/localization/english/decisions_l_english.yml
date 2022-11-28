@@ -761,7 +761,7 @@
  impatient_rushing_all_schemes_decision_missing_scheme_effect:0 "あなたのアクティブな[schemes|E]は即座に進行します"
  msg_impatient_rushing_all_schemes:0 "[schemes|E]の準備ができました！"
  start_hunt_decision.tt.servants_prestige.reduced:0 "#N 野生動物を追い込む勢子役の[Concept('court_amenities','召使い')|E]が不足していて狩りが難しくなっています。うまくいかなければ[prestigious|E]とは言えないでしょう#!"
- start_hunt_decision.tt.servants_prestige.increased:0 "#P あなたの十分な[Concept('court_amenities','Servants')|E]が動物をうまく追い出して、狩りがうまくいけばより多くの[prestige|E]を獲得できます#!"
+ start_hunt_decision.tt.servants_prestige.increased:0 "#P [Concept('court_amenities','召使い')|E]が十分にいるのでうまいこと狩り出せます。狩りがうまくいきさえすれば、より多くの[prestige|E]を獲得できます#!"
  start_hunt_decision_master_of_hunt:0 "#P $master_of_hunt_court_position$を雇用しているので、首尾よく狩り出来そうです#!"
  host_exotic_feast_decision:0 "エキゾチックな祝宴を催す"
  host_lavish_feast_decision:0 "豪華な祝宴を催す"

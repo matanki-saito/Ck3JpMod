@@ -105,7 +105,7 @@
  WEALTH_RICH:0 "裕福"
  WEALTH_POOR:0 "貧弱"
  ARMY_NAME:1 "[PROVINCE.GetNameNoTooltip]の第$NUM$軍"
- ARMY_NAME_RAIDER:1 "$NUM|O$[PROVINCE.GetNameNoTooltip]の略奪者"
+ ARMY_NAME_RAIDER:1 "[PROVINCE.GetNameNoTooltip]の第$NUM$略奪軍"
  GATHERING_ARMY_NAME:0 "$LOCATION$に軍を集める"
  DEAD:0 "死去"
  DEAD_SINCE:0 "[DATE.GetStringShort|V]没"
