@@ -9,7 +9,7 @@
  east_europe.0010.t:0 "スラヴィアの誕生"
  east_europe.0010.desc:0 "私は不可能だと思われたことをやり遂げた。この日、すべてのスラヴ人が一つの旗の下に団結して立つ。私の新帝国は西のヨーロッパの中心から東の凍ったツンドラまで伸びている！\n\n歴史上、このような偉業を成し遂げた英雄は数人しかいない。今、私はその一人であり、私の名前は永遠に生き続けるだろう。"
  east_europe.0010.a:0 "スラヴィアの栄光のために！"
- east_europe.0015.t:0 "[defender_of_highgod.GetFaith.HighGodName]の守り手"
+ east_europe.0015.t:0 "[defender_of_highgod.GetFaith.HighGodName]の守護者"
  east_europe.0015.desc:0 "英雄の殿堂は建設された…"
  east_europe.0015.a:0 "...[target_list_member_a.GetNameNoTierNoTooltip]に。"
  east_europe.0015.b:0 "... [target_list_member_b.GetNameNoTierNoTooltip]に。"

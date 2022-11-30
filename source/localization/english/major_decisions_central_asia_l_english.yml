@@ -11,7 +11,7 @@
  establish_bactrian_supremacy_decision_tooltip:0 "東西南北を結ぶ交易路の支配を誇示します"
  establish_bactrian_supremacy_decision_confirm:0 "祖先の地を請求する！"
  establish_yamagate_in_samarkand_decision:0 "サマルカンドに$manichean_religious_head_title_name$を設立"
- establish_yamagate_in_samarkand_decision_desc:0 "#F かつてマール・シシンがバビロンの聖座で信仰を導いたように、私たちの現在の$manichean_religious_head_title$はここトゥランとペルシャで私たちを導いているのだ。サマルカンドの教会の神託を正式に受けることで、マニ教の信仰が生まれ変わり新しい民衆に広まっていく！#!"
+ establish_yamagate_in_samarkand_decision_desc:0 "#F かつてマール・シシンがバビロンの聖座で信仰を導いたように、私たちの現在の$manichean_religious_head_title$はここトゥランとペルシャで私たちを導いているのだ。今、サマルカンドの教会の神託を正式に受けることでマニ教の信仰は生まれ変わり、新たに民衆に広まっていくだろう！#!"
  establish_yamagate_in_samarkand_decision_tooltip:1 "東洋の新たな聖地を請求する"
  establish_yamagate_in_samarkand_decision_confirm:0 "$manichean$が新たに誕生しました！"
  hof_exists_tt:1 "あなたの[head_of_faith|E]が存在する"

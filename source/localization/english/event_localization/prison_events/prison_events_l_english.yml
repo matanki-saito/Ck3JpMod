@@ -28,7 +28,7 @@
  prison.1020.t:0 "盲目"
  prison.1020.start.desc:0 "看守はパニックに陥った[recipient.GetTitledFirstName]を部屋に引きずり込む。「お願いします！許してください、何でもしますから！」[recipient.GetHerHis|U]の抵抗は、看守が[recipient.GetHerHim]を猿轡にかけ、テーブルの上に縛り付けたことで遮られた。\n\n"
  prison.1020.cruel.desc:0 "「おぉ、[recipient.GetFirstNameNoTooltip]よ、」私は芝居がかった溜息をつく。「あなたと私は何一つ意見が合わなかった。だが\"明るい面\"では、ケリをつける方法を決めたぞ。」"
- prison.1020.compassionate.desc:0 "「野蛮に見えるかもしれないが、」医者が[physician.GetHerHis]の器具を準備している間に私は言う。「これは領地を安定させるために必要なんだ。本当さ——君の苦痛に愉悦などしていないよ。」"
+ prison.1020.compassionate.desc:0 "「野蛮に見えるかもしれないが、」医者が[physician.GetHerHis]の器具を準備している間に私は言う。「これは領地を安定させるために必要なんだ。おお、誓って——君の苦痛に愉悦などしていないよ。」"
  prison.1020.child.desc:1 "「これで万事良くなるでしょう」と医者は[recipient.GetTitledFirstName]に鎮静薬を差し出した。[recipient.GetHerHis|U]の小さな手は震えていたが、それに構わず飲み干した。\n\n[recipient.Custom('GirlBoy')]が眠りに落ちるとすぐに、医者は私をじっと見た。「本当によろしいのですか？我が君」"
  prison.1020.a:0 "おぉ凄い、#emp 痛そう#!だな。"
  prison.1020.b:0 "理由はちゃんとある。"

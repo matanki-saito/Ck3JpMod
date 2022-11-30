@@ -60,7 +60,7 @@
  artifact_wall_big_edessa:2 "これはキリスト教の最初のイコンとされるイエスの顔の奇跡的なイメージを描いた布「マンデュリオン」である。エデッサのアブガル王が起源とされている。"
  artifact_wall_shield:0 "壁の盾"
  artifact_wall_shield_name:0 "$artifact_name_prefix$盾"
- artifact_wall_shield_description:1 "頑丈な[newly_created_artifact.GetFeatureText( 'shaft_wood' )]の板と[newly_created_artifact.GetFeatureText( 'head_metal' )]での縁取りの結び付きで組み立てられた[SCOPE.Custom('ArtifactQuality')] 職人芸が生み出した木の盾である。縁には[newly_created_artifact.GetFeatureText( 'decoration_material_inlay_HSB' )]がはめ込まれ、[newly_created_artifact.GetFeatureText( 'decoration_pattern' )]のイメージで塗装されている。"
+ artifact_wall_shield_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した木製の盾である。頑丈な[newly_created_artifact.GetFeatureText( 'shaft_wood' )]の板を[newly_created_artifact.GetFeatureText( 'head_metal' )]で縁取った作りになっている。その縁には[newly_created_artifact.GetFeatureText( 'decoration_material_inlay_HSB' )]がはめ込まれ、[newly_created_artifact.GetFeatureText( 'decoration_pattern' )]の意匠が描かれている。"
  artifact_wall_shield_special:0 "$artifact_wall_shield$"
  artifact_wall_axe_description:0 "$artifact_axe_description$"
  artifact_wall_sword_description:0 "$artifact_sword_description$"
