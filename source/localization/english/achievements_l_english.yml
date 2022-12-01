@@ -90,7 +90,7 @@
  ACHIEVEMENT_DESC_give_a_dog_a_bone_achievement:1 "1066年にマチルダ・ディ・カノッサとして開始し、あなたの[dynasty|E]がイタリア[kingdom|E]を統治し、50人以上の存命の[dynasty|E]メンバーを持つ。なおかつ[holy_order|E]を設立する"
  ACHIEVEMENT_DESC_al_andalus_achievement:1 "イベリアのイスラーム教徒として開始し、イベリア全土を支配して、[decision|E]でトゥール・ポワティエ間の戦いの報復を果たす"
  ACHIEVEMENT_DESC_wily_as_the_fox_achievement:1 "1066年に「狐公」ロバートとして開始し、シチリア[kingdom|E]を統治する。またエピルス、ヘラス、またはテッサロニカ$game_concept_kingdom$を保有する。そして以上の本来の[counties|E]を全てカトリックに改宗させる"
- ACHIEVEMENT_DESC_sibling_rivalry_achievement:1 "1066年にヒメナ三兄弟のいずれかで開始し、スペイン[emperor|E]となる"
+ ACHIEVEMENT_DESC_sibling_rivalry_achievement:1 "1066年にヒメノ三兄弟のいずれかで開始し、スペイン[emperor|E]となる"
  ACHIEVEMENT_DESC_blood_eagle_achievement:1 "ラグナル・ロズブロークの息子のいずれかで開始し、ブリテン諸島の全てを征服する"
  ACHIEVEMENT_DESC_kings_to_the_seventh_generation_achievement:2 "867年にアンジュー伯ウード・カペーで開始し、[dynasty|E]をフランス[kingdom|E]の支配者へと導く"
  ACHIEVEMENT_DESC_norman_yoke_achievement:1 "1066年に庶子公ウィリアムとして開始し、ノルマンコンクエストで勝利する。なおかつ、あなたとそのイングランド[kingdom|E]の[vassals|E]がすべてイングランド文化である"
