@@ -21,7 +21,7 @@
  doctrine_parameter_divine_marriage_piety_gain_active:2 "[close_family|E]のメンバーと結婚する場合には、[GetFaithDoctrine('doctrine_monogamy').GetBaseName]の婚姻ボーナスに加え大量の[piety|E]も付与されます"
  tenet_pacifism_name:0 "平和主義"
  tenet_pacifism_desc:0 "暴力は、苦しみ、痛み、後悔をもたらすだけの忌まわしい行為だ。できるだけそれを避けようと努力することで、より強く、より安全な社会を築くことができる。"
- doctrine_parameter_holy_wars_forbidden:0 "[holy_wars|E]または[raid|E]を宣言できません"
+ doctrine_parameter_holy_wars_forbidden:0 "Cannot declare [holy_wars|E] or [raid|E]"
  doctrine_parameter_pacifist_opinion_active:0 ""
  pacifist_opinion_active_opinion_name:0 "仲間の平和主義者"
  pacifist_opinion_active_county_opinion_name:0 "仲間の平和主義者の伯爵領"

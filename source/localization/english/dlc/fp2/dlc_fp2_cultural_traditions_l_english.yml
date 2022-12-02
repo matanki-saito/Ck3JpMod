@@ -6,7 +6,7 @@
  culture_parameter_can_demand_higher_ransoms_from_lower_tiers:0 "下位の[rank|E]の[rulers|E]に対して、より高い身代金を要求することができる"
  tradition_fp2_strategy_gamers_name:1 "卓上の戦士"
  tradition_fp2_strategy_gamers_desc:0 "いかなる将帥も、戦いの日に賭けに出て幸運を掴むことはできる。#EMP 本物の#!戦略家は、演習によって精神を研ぎ澄ませており、「運」など#EMP 不要#!である"
- culture_parameter_commanders_likelier_to_gain_commander_traits:0 "[commanders|E]は[commander_traits|E]を獲得しやすくなっている"
+ culture_parameter_commanders_likelier_to_gain_commander_traits:1 "[commanders|E] are more likely to gain [commander_traits|E]"
  culture_parameter_may_challenge_to_board_games:0 "常に他の[characters|E]に[board_games|E]を挑むことができる"
  culture_parameter_may_wager_land_on_board_games:0 "双方のプレイヤーがこのルールを共有している場合、個人的に[board_games|E]で[county|E]を賭けることができる"
  challenge_to_2p_chess_interaction:2 "ボードゲームを挑む"

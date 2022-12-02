@@ -555,7 +555,7 @@
  fund_inspiration.5021.b:0 "人生は冒険だ、宝物を求めてあの地域を探検せよ！"
  fund_inspiration.5021.b.tt:0 "[inspiration_owner.GetTitledFirstNameNoTooltip]は[adventuring_location.GetNameNoTierNoTooltip]を探検します。"
  fund_inspiration.6001.t:0 "ステップと鞍は私の心を駆け抜ける、"
- fund_inspiration.6001.desc:0 "私は何ヶ月も馬に乗っています。私の背中は決して回復しないでしょう！雌馬の発酵乳と空の下での夜の味を私はかなり身につけました。\n\nこの便りで、楽器の上に置かれた装飾的な馬の頭である、モリンホールの刻まれた先端をお送りいたします。あるいは何かに使えるかもしれません。"
+ fund_inspiration.6001.desc:1 "I have been riding for months on end. My rear shall never recover! I've acquired quite the taste for fermented mare's milk and nights beneath the open sky.\n\nWith this courier, I send a carved tip of a Morin Khuur — the decorative horse head placed atop instruments. Perhaps you have a use for it."
  fund_inspiration.6001.a:0 "これを持っておこう！"
  fund_inspiration.6001.b:0 "それを宮廷楽士に送ってやろう。"
  fund_inspiration.6002.t:0 "インドの旅はまだ続く！"

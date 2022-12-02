@@ -1,6 +1,6 @@
 ﻿l_english:
  DETACH_COMMANDER:0 "指揮官を解任"
- CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName]は軍隊を指揮できない#!"
+ CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName] cannot command an army#!"
  CANT_COMMAND_REASON_DEAD:0 "  -死亡している"
  CANT_COMMAND_REASON_IN_POOL:0 "  -予備要員になっている"
  CANT_COMMAND_REASON_FEMALE:0 "  -女性である"

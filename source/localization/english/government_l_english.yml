@@ -76,7 +76,7 @@
  succession_rights_default:0 "デフォルトの$succession_rights$"
  succession_rights_default_short:0 "デフォルト"
  succession_rights_forced_partition:0 "分割相続の強制"
- succession_rights_forced_partition_desc:0 "#emphasis #bold [vassal|E]に対する制約事項#!#!\n[vassal|E]は分割相続制以外の[succession_law|E]を採用できません。\n[vassal|E]は自らの[succession_law|E]を分割相続制へ切り替えます。\n[vassal|E]は[laws|E]の変更の為に#high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]#!%多くの[prestige|E]を支払います。\n\n#flavor [vassal|E]はその[realm|E]において分割相続制以外の継承法を決して採用しないように強制されます。また、こうした行政上の障害により[vassals]の[law]変更のコストは#high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]%#!増加します。#!"
+ succession_rights_forced_partition_desc:0 "#emphasis #bold [vassal|E] Restrictions:#!#!\nThe [vassal|E] cannot have any [succession_law|E] beyond Partition\nThe [vassal|E] switches their [succession_law|E] to Partition\nThe [vassal|E] pays #high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]%#! more [prestige|E] to change [laws|E]\n\n#flavor The [vassal|E] is forced to never have any other form of succession but Partition for their [realm|E]. The administrative hurdle of this also increases the [vassals] [law] costs by #high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]%.#!#!"
  succession_rights_forced_partition_short:0 "分割相続の強制"
  coinage_rights:0 "貨幣鋳造権"
  coinage_rights_none:0 "$coinage_rights$なし"

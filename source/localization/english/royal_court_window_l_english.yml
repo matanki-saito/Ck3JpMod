@@ -25,7 +25,7 @@
  CHARACTER_HAS_NO_ROYAL_COURT:2 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U]は[royal_court|E]を持っていません#!"
  INVALID_COURT_LANGUAGE:0 "@warning_icon!#X 無効な[court_language|E]です#!"
  CANNOT_SET_SAME_COURT_LANGUAGE:1 "@warning_icon!#X [CULTURE_PILLAR.GetNameNoTooltip]はすでに[CHARACTER.GetShortUINamePossessiveNoTooltip]の[court_language|E]です#!"
- COURT_LANGUAGE_COOLDOWN:0 "@warning_icon!#X [DATE.GetStringLong]まで新しい[court_language|E]は採用できません#!"
+ COURT_LANGUAGE_COOLDOWN:0 "@warning_icon!#X Cannot adopt a new [court_language|E] until [DATE.GetStringLong]#!"
  OUT_OF_RANGE_COURT_LANGUAGE:0 "@warning_icon!#X [CULTURE_PILLAR.GetNameNoTooltip]は[CHARACTER.GetShortUINamePossessiveNoTooltip]の母国語であるか、[diplomatic_range|E]内の[ruler|E]の[court_language|E]である必要があります#!"
  ADOPT_COURT_LANGUAGE:0 "新たな宮廷言語として採用"
  ADOPT_COURT_LANGUAGE_INFO:0 "コスト: #high [Character.GetAdoptCourtLanguageCost]#!\n新しい[court_language]の採用後[GetTimeDifferenceWithDays( GetDefine( 'NRoyalCourt', 'COURT_LANGUAGE_ADOPTION_COOLDOWN' ) )]間は他の言語を採用できません"

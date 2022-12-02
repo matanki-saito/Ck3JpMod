@@ -224,7 +224,7 @@
  msg_de_jure_county_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]は当該伯爵領を支配しません。"
  msg_de_jure_all_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや係争中の慣習的領土を支配しません。"
  msg_religious_war_invalidation_region_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや目標の地域を支配しません。"
- msg_religious_war_invalidated_hostility_level_message:1 "[war.GetName]は終了しました: [attacker.GetShortUIName]による[defender.GetFaith.GetAdjective][faith|E]への$game_concept_holy_war$は不可能になります。"
+ msg_religious_war_invalidated_hostility_level_message:1 "The [war.GetName] has ended: [attacker.GetShortUIName] cannot $game_concept_holy_war$ the [defender.GetFaith.GetAdjective] [faith|E]."
  msg_invasion_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや目標の地域を支配しません。"
  msg_mongol_invasion_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや目標の地域を支配しません。"
  msg_county_conquest_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]は当該伯爵領を支配しません。"

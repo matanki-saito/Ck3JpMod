@@ -42,3 +42,4 @@
  faith_creation.1010.a:0 "[faith.HighGodName]に栄光あれ！"
  faith_creation.1011.message.title:0 "宗教指導者の確立"
  faith_creation.1011.message.desc:0 "これまで指導者が不在であった[faith.GetAdjective][faith.AltPriestTermPlural]は[HoF.GetFirstName]を彼らの新しい[faith.ReligiousHeadName]としました"
+ faith_creation.1001.desc.spiritual.sameold:0 "\n\nThe [reformed_faith.GetAdjectiveNoTooltip] [reformer.Custom('DefaultPriestTitlePlural')] have chosen to keep [reformed_hof.GetFirstNameNoTooltip] as their [reformed_faith.ReligiousHeadName], [reformer.GetSheHe] will continue to determine religious doctrine and arbitrate inter-faith disputes for the entire [reformed_faith.GetAdjectiveNoTooltip] world."

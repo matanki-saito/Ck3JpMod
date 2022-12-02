@@ -544,7 +544,7 @@
  END_OF_COMBAT_ACTION_ITEM:1 "#T $WINLOSE$#!\n$BATTLENAME$\n"
  DIPLOMATIC_ITEM_TOOLTIP:0 "[DiplomaticItem.GetTooltip]\n[DiplomaticItem.GetTimeoutDesc]\n[DiplomaticItem.GetInteractionDesc]"
  TRAIT_TOOLTIP_IN_LIST:0 "[TRAIT.GetName( CHARACTER.Self )|V]"
- TRAIT_CAN_NOT_HAVE_CHILDREN:0 "@warning_icon! #X 子供を持つことができない #!"
+ TRAIT_CAN_NOT_HAVE_CHILDREN:0 "@warning_icon!#X Cannot have children#!"
  TRAIT_FLAG_DESC_can_not_marry:0 "@warning_icon!  #X 結婚できない #!"
  TRAIT_FLAG_DESC_can_murder_own_children:0 "自分の子に対し[hostile_schemes|E]を使うことができる"
  TRAIT_FLAG_DESC_extra_scheme_power_vs_rivals:0 "ライバルに対する[hostile_scheme|E]の[success_chance|E]: #P +[EmptyScope.ScriptValue('vengeful_scheme_success_chance_modifier')|0]#!"

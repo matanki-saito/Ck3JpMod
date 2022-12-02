@@ -57,4 +57,4 @@
  TRIGGER_AND:0 "これらのすべて:"
  TRIGGER_OR:0 "以下の1つ以上を満たしている:"
  SUPPRESS:0 ""
- JOMINI_ANY_TRIGGER_COUNT_PROGRESS_ALL: "次の全ての条件を達成している（現在の達成者は$TARGET|V$人中$CURRENT|V$人）"
+ JOMINI_ANY_TRIGGER_COUNT_PROGRESS_ALL:0 "次の全ての条件を達成している（現在の達成者は$TARGET|V$人中$CURRENT|V$人）"

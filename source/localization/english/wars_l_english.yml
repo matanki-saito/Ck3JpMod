@@ -446,3 +446,4 @@
  CB_COST_STRUGGLE_PHASE_COMPROMISE:0 "[struggle_phase_iberia_compromise|E]"
  CB_COST_STRUGGLE_PHASE_CONCILIATION:0 "[struggle_phase_iberia_conciliation|E]"
  struggle_involvement_cb_check_failure:0 "両者とも同じ[struggle|E]でなければならず、この[casus_belli|E]は現在の[struggle_phase|E]の間は禁じられたものであってはなりません"
+ subjugation_war_warning_desc:0 "\n\n#X You may only attempt one Subjugation [war|E] per lifetime#!"

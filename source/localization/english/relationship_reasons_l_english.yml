@@ -1417,3 +1417,7 @@
  rival_dismissed_requests_corresponding:0 "[CHARACTER.GetShortUIName]の要求は[TARGET_CHARACTER.GetShortUIName|U]によって却下された。"
  friend_gave_council_seat:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]を評議員として雇用した"
  friend_gave_council_seat_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]に評議員として雇用された"
+ rival_generic_coerced_with_strong_hook:0 "[TARGET_CHARACTER.GetShortUIName|U] coerced [CHARACTER.GetShortUINamePossessive] with a [strong_hook|E]."
+ rival_generic_coerced_with_strong_hook_corresponding:0 "[CHARACTER.GetShortUIName|U] coerced [TARGET_CHARACTER.GetShortUINamePossessive] with a [strong_hook|E]."
+ fp2_progress_towards_rival_funded_revolt_against_me:0 "[TARGET_CHARACTER.GetShortUIName|U] funded unrest against [CHARACTER.GetShortUINamePossessive]."
+ fp2_progress_towards_rival_funded_revolt_against_me_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] destabilized the realm of [CHARACTER.GetShortUINamePossessive]."

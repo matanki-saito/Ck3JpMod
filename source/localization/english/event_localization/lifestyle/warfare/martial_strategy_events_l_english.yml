@@ -201,7 +201,7 @@
  martial_strategy_special.1404.d.tt:0 "[soldier_friend.GetSheHe|U]が彼らを安全に城まで連れていくだろう。"
  martial_strategy_special.1405.t:0 "行軍中"
  martial_strategy_special.1405.desc:1 "小さな村を通っていると、粗末な身なりにもかかわらず、町の見張りが皆、私の紋章のついた武器を持っていることに気がついた！\n\nぬかるんだ道で出迎えてくれたのは、自称、町の「神の守護者」である[zealot.GetTitledFirstName]であった。私の兵士たちは、この説教者が仕える[zealot.GetFaith.HighGodName]を助けるために鎧を捨てたのだ！"
- martial_strategy_special.1405.a:0 "私はすでに神の権利によって統治している！"
+ martial_strategy_special.1405.a:1 "私はすでに神の権利によって統治している！"
  martial_strategy_special.1405.a.tt:1 "#F 「これらの兵士たちは、#EMP 私#!が神の計画に従い、[zealot.GetFaith.HighGodName]によって選ばれたことを覚えておいた方が良い。」#!"
  martial_strategy_special.1405.b:0 "ここから逃げるのに一日だけやろう、狂信者め。"
  martial_strategy_special.1405.b.tt:2 "#F 「その[zealot.GetWomanMan]を罰するのは危険なようだが、[zealot.GetHerHim]を追放すれば、今のところ問題は解決するだろう。」#!"

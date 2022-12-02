@@ -151,7 +151,7 @@
  learning_theology_special.1102.b.failure:0 "[scholar.GetShortUINameNoTooltip]に私の二枚舌を暴露された"
  learning_theology_special.1102.d:0 "だいぶ勉強になったな！"
  learning_theology.3051.t:0 "[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]における[ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip]の演劇"
- learning_theology.3051.desc.intro:0 "[ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip]の有名な劇作家である[passion_playwright.GetName]が公演開催するつもりらしい、そのような話が私の耳に入ってきた。題目は"
+ learning_theology.3051.desc.intro:1 "It has been brought to my attention that [passion_playwright.GetName], a renowned [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip] playwright, intends to hold a performance of [passion_playwright.GetHerHis] work titled:"
  learning_theology.3051.passion:0 "[ROOT.Char.GetFaith.random_GoodGodNames]の情熱"
  learning_theology.3051.arabian_nights:0 "[ROOT.Char.GetPrimaryTitle.GetAdjective]の二千夜"
  learning_theology.3051.inferno:0 "[ROOT.Char.GetFaith.random_EvilGodNames]の業火"

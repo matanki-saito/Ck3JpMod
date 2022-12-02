@@ -1834,3 +1834,5 @@
  all_children_custom:0 "全ての子供"
  GAINED_POTENTIAL_FRIEND:0 "[TARGET_CHARACTER.GetShortUIName]との友情の形成に近づきました"
  I_LOSE_MEMORY_EFFECT:0 "[CHARACTER.GetShortUIName|U]が思い出を忘れます"
+ custom.every_non_callous_or_sadistic_courtier_and_guest:0 "Every non-callous or sadistic [courtier|E] and [guest|E]"
+ custom.every_zealous_courtier_and_guest:0 "Every zealous [courtier|E] and [guest|E]"
