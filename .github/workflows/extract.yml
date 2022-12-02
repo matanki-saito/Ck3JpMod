@@ -72,12 +72,6 @@ jobs:
           dir
           cd game
           dir
-          cd steamapps
-          dir
-          cd common
-          dir
-          cd "Crusader Kings III"
-          dir
         shell: cmd
 
       - name: Extract files

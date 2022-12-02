@@ -45,7 +45,7 @@ def main():
 	shutil.rmtree(extract_path, ignore_errors=True)
 	os.makedirs(extract_path, exist_ok=True)
 
-	base_path = Path("./tmp/game/steamapps/common/Crusader Kings III")
+	base_path = Path("./tmp/game")
 
 	shutil.copytree(base_path.joinpath(Path("game", "localization", "english")), extract_path.joinpath(Path("game", "localization", "english")))
 	shutil.copytree(base_path.joinpath(Path("jomini", "localization")), extract_path.joinpath(Path("jomini", "localization")), copy_function=en_filter)
