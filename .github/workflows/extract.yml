@@ -36,6 +36,10 @@ jobs:
         run: |
           pip install boto3
 
+      - name: Install requests
+        run: |
+          pip install requests
+
       - name: Get steamcmd
         run: |
           curl https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip --output steamcmd.zip
@@ -64,7 +68,15 @@ jobs:
 
       - name: check
         run: |
-          cd ./tmp/game/steamapps/common/Crusader Kings III
+          cd tmp
+          dir
+          cd game
+          dir
+          cd steamapps
+          dir
+          cd common
+          dir
+          cd "Crusader Kings III"
           dir
         shell: cmd
 
