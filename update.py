@@ -55,14 +55,14 @@ def update_new_file(base_path: Path, source_path: Path, project_id, secret, base
 
     file_name = source_path.name
     file_data_binary = open(source_path, 'rb').read()
+    data = {'path': str(Path("/").joinpath(source_path.relative_to(base_path).parent)).replace("\\", "/")}
     files = {
-        'file': (file_name, file_data_binary,  'application/json; charset=utf-8'),
-        'path': str(Path("/").joinpath(source_path.relative_to(base_path).parent)).replace("\\", "/")
+        'file': (file_name, file_data_binary,  'application/yaml; charset=utf-8')
     }
 
     url = "{}/api/projects/{}/files".format(base_url, project_id)
     headers = {'Authorization': secret}
-    response = requests.post(url, files=files, headers=headers)
+    response = requests.post(url, files=files, data=data, headers=headers)
 
     print("new")
     print(response)
