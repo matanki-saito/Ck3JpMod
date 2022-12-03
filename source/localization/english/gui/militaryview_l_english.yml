@@ -82,7 +82,7 @@
  TT_MAA_RAISED:0 "#T 召集済の[men_at_arms|E]#!"
  TT_MAA_UNRAISED:0 "#T 未召集の[men_at_arms|E]#!"
  TT_MAA_ENTRY_BUTTON:0 "#T [regiment|E]の管理#!"
- TT_CANT_RAISE_AT_WAR:0 "@warning_icon!#X Cannot raise regiments while at peace!#!"
+ TT_CANT_RAISE_AT_WAR:0 "@warning_icon!#X 平時には連隊を召集できません#!"
  MILITARY_VIEW_BANNERS:0 "[rally_points|E]"
  MILITARY_VIEW_EVENT_TROOPS:0 "[special_troops|E]"
  MILITARY_VIEW_EVENT_TROOPS_ASSOCIATED_WAR:0 "[War.GetName]が終結した時点で解隊されます"

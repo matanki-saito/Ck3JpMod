@@ -541,7 +541,7 @@
  culture_parameter_facilitate_alliance_acceptance:0 "[alliance|E]交渉の受け入れ: #P +50#!"
  culture_parameter_facilitate_white_peace:0 "[white_peace|E]受け入れ: #P +10#!"
  culture_parameter_more_frequent_hunts:0 "[hunt|E][activities|E]再使用までの期間: #P -50%#!"
- culture_parameter_cannot_hunt:1 "Cannot use the [hunt|E] [activity|E]"
+ culture_parameter_cannot_hunt:1 "[hunt|E][activity|E]を使用することはできません"
  culture_parameter_sacred_hunts:1 "[hunt|E][activity|E]を完了することで[piety_i][piety|E]が得られます"
  culture_parameter_hunting_traits_more_common:0 "[GetTrait('hunter_2').GetName( GetNullCharacter )]の[traits|E]を獲得する[characters|E]がより一般的になります"
  culture_parameter_reveler_traits_more_common:0 "[GetTrait('reveler_2').GetName( GetNullCharacter )]の[traits|E]を獲得する[characters|E]がより一般的になります"

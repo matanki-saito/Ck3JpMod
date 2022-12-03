@@ -136,7 +136,7 @@
  FABRICATE_HOOK_SUCCESS_DESC:0 "あなたは[TARGET_CHARACTER.GetShortUIName]に対する[hook|E]を手に入れる"
  FABRICATE_HOOK_DISCOVERY_DESC:0 "あなたは[TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip]の[court|E]においてフックの捏造を続けることが出来る"
  scheme_interaction_tt_spy_on_approved:1 "[recipient.GetShortUIName]が隠そうとしていることが何であれ、間もなく明らかとなるだろう!"
- SCEHEME_ON_COOLDOWN:0 "#X Cannot use the $SCHEME_NAME$ on [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]#!"
+ SCEHEME_ON_COOLDOWN:0 "#X [DATE.GetStringLong]まで[TARGET_CHARACTER.GetShortUIName]に対する$SCHEME_NAME$は使用できません#!"
  scheme_target_is_incapable:0 "[target.GetShortUIName|U]が[GetTrait('incapable').GetName( target )]の特性を持っている"
  elope:1 "$elope_verb$"
  elope_action:0 "$elope_verb$:"

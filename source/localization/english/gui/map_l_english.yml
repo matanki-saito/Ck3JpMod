@@ -61,7 +61,7 @@
  PROVINCE_TOOLTIP_CTRL_TO_FORCE_GATHERING:0 "#I - Ctrlキーを押しながら右クリックで集結@gathering_icon!を中止し即座に移動#!"
  PROVINCE_TOOLTIP_ETA:1 "#I - 到着予定日時: [DATE.GetTimeDiffFromNow]([DATE.GetStringShortNoYear])#!"
  PROVINCE_TOOLTIP_CLICK_TO_RETREAT:0 "\n#I 右クリックで戦闘を放棄しここに退却#!"
- PROVINCE_TOOLTIP_CLICK_CANT_RETREAT:0 "Cannot retreat from Battle for $DAYS$ more days"
+ PROVINCE_TOOLTIP_CLICK_CANT_RETREAT:0 "あと$DAYS$間は戦闘から退却できません"
  PROVINCE_TOOLTIP_ADD_RALLY_POINT_HERE:0 "#I クリックでここに[rally_point|E]を追加#!"
  PROVINCE_TOOLTIP_ADD_RALLY_POINT_CANCEL:0 "#I 右クリックでキャンセル#!"
  PROVINCE_TOOLTIP_MOVE_RALLY_POINT_HERE:0 "#I クリックでここに[rally_point|E]を移動#!"

@@ -55,7 +55,7 @@
  FACTION_WINDOW_PRESS_DEMANDS:0 "要求の強請"
  FACTION_WINDOW_PRESS_DEMANDS_TT_TITLE:0 "#T 要求の強請#!"
  FACTION_WINDOW_PRESS_DEMANDS_TT_DESC:0 "[faction|E]が標的に対し最後通牒を送ります。受け入れられた場合、派閥の要求が満たされます。標的が受け入れない場合には、[civil_war|E]になるでしょう。"
- FACTION_WINDOW_PRESS_DEMANDS_TT_CANT_WAR:0 "@warning_icon!#X Cannot press demands while the faction is in war#!"
+ FACTION_WINDOW_PRESS_DEMANDS_TT_CANT_WAR:0 "@warning_icon!#X 派閥の戦争中は要求を強請できません#!"
  FACTION_WINDOW_PRESS_DEMANDS_TT_CANT_DATE:1 "@warning_icon!#X この派閥の要求を再び強請するには[DATE.GetString|V]まで待つ必要があります#!"
  FACTION_WINDOW_PRESS_DEMANDS_TT_LEADER_PLAYER:1 "派閥のリーダーはプレイヤーであるため、不満や[faction_military_power|E]の閾値に関わらず要求は送ることができる"
  FACTION_WINDOW_PRESS_DEMANDS_TT_CANT_DISCONTENT:0 "@warning_icon!#X 要求を強請するには派閥の不満が$THRESHOLD|%0V$を超えていなければなりません#!"
