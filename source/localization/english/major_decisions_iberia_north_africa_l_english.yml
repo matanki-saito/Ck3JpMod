@@ -182,7 +182,7 @@
  iberia_north_africa.2003.a:0 "実際それは#ber 私の#!権威に属する。さあ、仕事に取り掛かれ。"
  iberia_north_africa.2003.a.flavor:0 "あなたは両方の学者を怒らせ、彼らの軽蔑を互いにではなく、あなたに集中させています。"
  iberia_north_africa.2003.b:0 "もちろん哲学者だ、アリストテレスのような賢者がそうあるべきだ。"
- iberia_north_africa.2003.c:0 "How can you believe philosophers if you cannot trust Ezekiel?"
+ iberia_north_africa.2003.c:0 "エゼキエルを信じられずして、どうして哲学者を信じられよう？"
  iberia_north_africa.fp2_pilgrim_roads_generic_title_intro:0 "巡礼者の道:"
  iberia_north_africa.2011.t:0 "$iberia_north_africa.fp2_pilgrim_roads_generic_title_intro$ 流浪の戦士"
  iberia_north_africa.2011.desc:0 "[chosen_location_for_pilgrim_roads.GetName]を散策していると、大きな木がその下で休息するよう静かに私を誘惑しているように感じられた。私は、一人の[generated_actor.GetWomanMan]と並び、涼しい木陰に腰を下ろす。「あなたは巡礼者かな？」私は尋ねる。"

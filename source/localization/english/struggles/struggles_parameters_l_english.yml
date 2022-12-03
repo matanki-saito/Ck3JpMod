@@ -6,7 +6,7 @@
  struggle_parameter_unlocks_fabricate_hooks_for_all:2 "[struggle_involved|E]の[rulers|E]に対する[GetScheme('fabricate_hook').GetTypeName][scheme|E]をアンロック"
  struggle_parameter_unlocks_claim_throne_for_all:2 "[struggle_involved|E]の[rulers|E]に対する[GetScheme('claim_throne').GetTypeName][scheme|E]をアンロック "
  struggle_parameter_unlocks_incite_revolts_interaction:2 "[struggle_involved|E]の[rulers|E]に対する[incite_revolts_interaction|E][interaction|E]をアンロック"
- struggle_parameter_unlocks_forced_vassalization_casus_belli:3 "Unlocks the [vassalize_casus_belli|E]"
+ struggle_parameter_unlocks_forced_vassalization_casus_belli:3 "[vassalize_casus_belli|E]をアンロック"
  struggle_parameter_powerful_vassal_can_claim_liege_titles:2 "[powerful_vassals|E]の$vassal_claim_liege_title_interaction$[interaction|E]をアンロック"
  struggle_parameter_unlocks_claim_throne_for_powerful_vassals:2 "[struggle_involved|E]の[rulers|E]に対する[powerful_vassals|E]の[GetScheme('claim_throne').GetTypeName][scheme|E]をアンロック"
  struggle_parameter_holy_order_can_be_created_by_dukes:1 "公爵の[holy_order|E]作成を有効にします"

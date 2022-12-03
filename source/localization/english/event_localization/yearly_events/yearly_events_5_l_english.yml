@@ -256,4 +256,4 @@
  yearly.8500.desc.a:0 "あなたが置かれている状況は不幸です。それでも、私はあなたにこの贈り物を提供します、あなたがこの危険な時代に勝利できるように。\n\n[current_head_of_faith.GetFaith.HighGodName]があなたの側に留まることを祈ります。"
  yearly.8500.desc.b:0 "不信心者に対するあなたの正義の戦いは、見過ごされてはおりません。私は個人的にあなたがこの混乱した時代を乗り切るのに十分な金を持たせた使者を派遣しました。\n\n[current_head_of_faith.GetFaith.HighGodName]があなたをお守りくださいますように。"
  yearly.8500.a:0 "跪き、[current_head_of_faith.GetFaith.HighGodName]に祈ろう！"
- yearly.8500.b:0 "I cannot possibly accept this gift, it is too much."
+ yearly.8500.b:0 "この贈り物は受け取れない、あまりにも多すぎる。"

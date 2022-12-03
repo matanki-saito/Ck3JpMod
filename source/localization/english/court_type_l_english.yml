@@ -1,7 +1,7 @@
 ﻿l_english:
  CHANGE_COURT_TYPE_HIDE:0 "#I 宮廷タイプ変更ウィンドウを非表示#!"
  CHANGE_COURT_TYPE_SHOW:0 "#I クリックで宮廷#!タイプを変更"
- COURT_TYPE_NOT_VALID:0 "@warning_icon!#X You cannot switch to this court type:#!"
+ COURT_TYPE_NOT_VALID:0 "@warning_icon!#X この宮廷タイプは変更できません:#!"
  CHANGE_COURT_TYPE_ACCEPT:1 "宮廷タイプを変更"
  CHANGE_COURT_TYPE_ACCEPT_NO_SELECTION:0 "宮廷タイプを選択"
  CHANGE_COURT_TYPE_HEADER:0 "宮廷タイプを変更"
