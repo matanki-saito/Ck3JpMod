@@ -86,7 +86,7 @@
  contract_assistance_war_msg_title:0 "$contract_assistance_interaction$: 戦争の終結"
  contract_assistance_war_msg_hirer_paid_desc:1 "[contract_assistance_helper.GetHerHis]の[war_contribution|E]が少なくとも[SCOPE.ScriptValue('saved_contribution_value')|Z0]となっていたので、[contract_assistance|E]に対する[contract_assistance_helper.GetShortUIName]を支払った"
  contract_assistance_war_msg_helper_paid_desc:1 "あなたの[war_contribution|E]が少なくとも[SCOPE.ScriptValue('saved_contribution_value')|Z0]であったため、[contract_assistance|E]に対する[contract_assistance_hirer.GetShortUIName]があなたに支払われた"
- contract_assistance_war_msg_hirer_kept_desc:1 "You did not pay [contract_assistance_helper.GetShortUIName] for [contract_assistance|E], as [contract_assistance_helper.GetHerHis] [war_contribution|E] was less than [SCOPE.ScriptValue('saved_contribution_value')|Z0]"
+ contract_assistance_war_msg_hirer_kept_desc:1 "[contract_assistance_helper.GetHerHis]の[war_contribution|E]が[SCOPE.ScriptValue('saved_contribution_value')|Z0]よりも少なかったため、あなたは[contract_assistance|E]に対する[contract_assistance_helper.GetShortUIName]を支払わなかった"
  contract_assistance_war_msg_helper_kept_desc:1 "あなたの[war_contribution|E]が[SCOPE.ScriptValue('saved_contribution_value')|Z0]よりも少なかったため、[contract_assistance|E]に対する[contract_assistance_hirer.GetShortUIName]はあなたに支払われなかった"
  contract_assistance_war_msg_hirer_invalidated_desc:0 "戦争が無効になったため、あなたは[contract_assistance|E]に対する[contract_assistance_helper.GetShortUIName]を支払っていない"
  contract_assistance_war_msg_helper_invalidated_desc:0 "戦争が無効になったため、[contract_assistance_hirer.GetShortUIName]から[contract_assistance|E]に対するあなたへの報酬が支払われなかった"

@@ -862,4 +862,4 @@
  holy_site_cartagena_effect_name:0 "[holy_site|E]#weak ($holy_site_cartagena_name$)#!から"
  west_african_unreformed_faith_doctrine_name:0 "$unreformed_faith_doctrine_name$"
  west_african_unreformed_faith_doctrine_desc:0 "$unreformed_faith_doctrine_desc$"
- fervor_gain_holy_order_expelled_by_force:0 "[holy_order|E]expelled by another [faith|E]"
+ fervor_gain_holy_order_expelled_by_force:0 "別の[faith|E]による[holy_order|E]の追放"
