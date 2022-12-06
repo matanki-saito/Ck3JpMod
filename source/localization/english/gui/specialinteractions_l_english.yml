@@ -455,4 +455,4 @@
  AI_TITLE_IS_IN_CAPITAL_DUCHY:0 "[landed_title.GetName]は[actor.GetShortUINamePossessive]の首都が属する公爵領である: $VALUE|=+0$"
  AI_VASSAL_IS_IN_CAPITAL_DUCHY:0 "封臣は[actor.GetShortUINamePossessive]の首都が属する公爵領に属している: $VALUE|=+0$"
  GRANT_TITLES_ITEM_CANT_HEAD_OF_FAITH:0 "宗教指導者の称号は授与できません"
- SELECT_HOLY_ORDER_LEASE_TO_REVOKE:0 "Select lease"
+ SELECT_HOLY_ORDER_LEASE_TO_REVOKE:0 "貸与の選択"

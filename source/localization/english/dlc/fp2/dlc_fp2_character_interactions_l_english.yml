@@ -113,5 +113,5 @@
  share_known_secrets_interaction_extra_icon:0 "$hook_extra_icon$"
  incite_revolts_interaction_notif_failure:0 "[recipient.GetShortUINameNoTooltip] connects me to the revolt"
  incite_revolts_interaction_notif_success:0 "[recipient.GetShortUINameNoTooltip] does not notice my meddling"
- OA_AI_LOYALTY_TOWARDS_ALLIES_REASON:0 "Loyalty towards [ally|E]: $VALUE|=+0$"
- no_activity_available:0 "There is no [activity|E] available"
+ OA_AI_LOYALTY_TOWARDS_ALLIES_REASON:0 "[ally|E]への忠誠: $VALUE|=+0$"
+ no_activity_available:0 "利用可能な[activity|E]はありません"
