@@ -11,7 +11,7 @@
  DLC_ENABLED:0 "DLC is enabled"
  DLC_NOT_ENABLED:0 "DLC is #X not#! enabled"
  DLC_FEATURES:0 "Features:"
- DLC_BUTTON_TOOLTIP:0 "#T [DlcItem.GetDlc.GetName]#!\n[DlcItem.GetDlc.GetDesc]\n\n#low [SelectLocalization( DlcItem.GetDlc.IsEnabled, 'DLC_ENABLED', 'DLC_NOT_ENABLED' )]#!\n#I Click to visit store#!"
+ DLC_BUTTON_TOOLTIP:0 "#T [DlcItem.GetDlc.GetName]#!\n[DlcItem.GetDlc.GetDesc]\n\n#low [SelectLocalization( DlcItem.GetDlc.IsEnabled, 'DLC_ENABLED', 'DLC_NOT_ENABLED' )]#!\n#I クリックしてストアに移動#!"
  DLC005_FP2:0 "The Fate of Iberia"
  DLC006_BP1:0 "Friends & Foes"
  dlc_001:0 "$DLC001_PREORDER$"
