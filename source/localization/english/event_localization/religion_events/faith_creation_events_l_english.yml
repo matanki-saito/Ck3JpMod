@@ -42,4 +42,4 @@
  faith_creation.1010.a:0 "[faith.HighGodName]に栄光あれ！"
  faith_creation.1011.message.title:0 "宗教指導者の確立"
  faith_creation.1011.message.desc:0 "これまで指導者が不在であった[faith.GetAdjective][faith.AltPriestTermPlural]は[HoF.GetFirstName]を彼らの新しい[faith.ReligiousHeadName]としました"
- faith_creation.1001.desc.spiritual.sameold:0 "\n\nThe [reformed_faith.GetAdjectiveNoTooltip] [reformer.Custom('DefaultPriestTitlePlural')] have chosen to keep [reformed_hof.GetFirstNameNoTooltip] as their [reformed_faith.ReligiousHeadName], [reformer.GetSheHe] will continue to determine religious doctrine and arbitrate inter-faith disputes for the entire [reformed_faith.GetAdjectiveNoTooltip] world."
+ faith_creation.1001.desc.spiritual.sameold:0 "\n\n[reformed_faith.GetAdjectiveNoTooltip]の[reformer.Custom('DefaultPriestTitlePlural')]は、[reformed_hof.GetFirstNameNoTooltip]の続投を選択した。引き続き[reformed_hof.GetSheHe]は[reformed_faith.ReligiousHeadName]となり、あまねく[reformed_faith.GetAdjectiveNoTooltip]世界がために教義を定め、宗派間紛争を調停していくこととなる。"

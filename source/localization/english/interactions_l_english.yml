@@ -1348,4 +1348,4 @@
  any_unequipped_artifact_tt:0 "あなたが装備していない[artifact|E]を持っている必要があります"
  can_be_granted_titles_interaction_tt:0 "[recipient.GetWomenMen|U]はあなたの[faith|E]（[actor.GetFaith.GetName]）のなかでもっとも有力か、同等、あるいは聖職者の性別である必要があります"
  AI_GUARDIAN_FEUD_HESITANCE:0 "[house_feud|E][house|E]を子供に与えない：$VALUE|=+0$"
- INTERACTION_INTRIGUE_EDUCATION:0 "[intrigue] [education_trait|E]: $VALUE|=+0$"
+ INTERACTION_INTRIGUE_EDUCATION:0 "[intrigue][education_trait|E]: $VALUE|=+0$"
