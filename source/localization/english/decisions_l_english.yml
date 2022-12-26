@@ -730,7 +730,7 @@
  negotiate_the_danelaw_integrate_duchies_decision.inform_minor_players.t:0 "領国の統合"
  negotiate_the_danelaw_integrate_duchies_decision.inform_minor_players.tt:0 "あなたの領国の一部は、強制的に他の王国に統合されました"
  formalise_the_daneland_decision:0 "デーンランドを成立させる"
- formalise_the_daneland_decision_desc:0 "我々の人々は$k_england$の何に関心を持っているだろうか？我々には、独自の法があるだけではない。我々は独自の慣習、言語、伝統、自身の#EMP 文化#!を持っている。彼らは我々の土地に対して、我々が彼らに対して持っている以上の権利など持ってはいないのだ。"
+ formalise_the_daneland_decision_desc:0 "我らの民草は$k_england$にどんな関心を持っているのだろう？我々には、独自の法だけではない。慣習があり、言語があり、伝統があり、#EMP 文化#!がある。我々の大地なのだ。奴らに請求権など、ありはしないのだ。"
  formalise_the_daneland_decision_confirm:0 "このライバル関係は我々には不似合いだ。"
  formalise_the_daneland_decision_tooltip:0 "統一された$k_england$のための闘いを放棄します"
  formalise_the_daneland_decision.must_be_after_1100.tt:0 "1100年1月1日以後である"
