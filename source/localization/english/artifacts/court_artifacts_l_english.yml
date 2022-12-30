@@ -305,7 +305,7 @@
  feature_book_cover_material_gold:0 "金"
  feature_book_cover_material_silver:0 "銀"
  feature_book_cover_material_HSB_ivory:1 "象牙"
- feature_book_decoration_gems:0 "表紙は[Artifact.GetFeatureText( 'book_cover_material' )]で、[Artifact.GetFeatureText( 'decoration_pattern' )]の模様が表示され、[Artifact.GetFeatureText( 'decoration_material_gem' )]の挿入の配置を言明している"
+ feature_book_decoration_gems:0 "表紙は[Artifact.GetFeatureText( 'book_cover_material' )]製。そこに施された[Artifact.GetFeatureText( 'decoration_pattern' )]の模様は[Artifact.GetFeatureText( 'decoration_material_gem' )]の装飾であしらわれた挿絵によって際立っている"
  feature_book_decoration_gems_and_clasp:0 "$feature_book_decoration_gems$、そして装飾的な留め具で閉じられている"
  feature_book_decoration_pattern_embroidered:0 "表紙は[Artifact.GetFeatureText( 'book_cover_material' )]で、[Artifact.GetFeatureText( 'decoration_pattern' )]の模様を表示するよう刺繍されている"
  feature_book_decoration_pattern_carved:0 "表紙は[Artifact.GetFeatureText( 'book_cover_material' )]で、[Artifact.GetFeatureText( 'decoration_pattern' )]の模様を表示するよう彫られている"

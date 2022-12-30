@@ -258,7 +258,7 @@
  health.safe_treatment.19.desc:0 "聖杯の中の液体は温かくて酸っぱいものであった。「それは他の熱を追い払うことでしょう」。[physician.GetTitledFirstName]は説明した。\n\nポーション"
  health.safe_treatment.20.desc:0 "[physician.GetTitledFirstName]は四体液のバランスを取るために、私に塩水を飲ませて嘔吐させた。それはたいへん効果的であった。\n\n胃内洗浄"
  health.safe_treatment.21.desc:0 "[physician.GetTitledFirstName]は私の不快を取り除くために、二、三日の間、逆さにぶら下がって寝るよう命じた。「調和を取り戻すでしょう」と[physician.GetSheHe]は断言した。\n\n私はコウモリのような気分になった。\n\n奇妙な寝相"
- health.3103.end.desc:0 "がまさしく必要なものだと分かった。 今のところ、最悪であった症状は緩和され、世界が少し明るくなったように見える。"
+ health.3103.end.desc:0 "がまさしく必要なものだと分かった。 今のところ、最悪であった症状は緩和され、 世界が少し明るくなったように見える。"
  health.3103.a:0 "素晴らしい働きだ、[physician.GetFirstNameNoTooltip]。"
  health.3104.t:1 "[SCOPE.Custom('EventTitleDisease')]: 悪いことは重なる"
  health.3104.end.desc:0 "私の状態を改善することは何一つ無かった。実のところ、具合が悪くなっているように思う。"

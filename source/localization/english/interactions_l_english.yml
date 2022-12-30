@@ -833,7 +833,7 @@
  kick_from_court_knight_warning_tt:2 "@warning_icon!#X [kicked.GetShortUIName]は私の$knight_culture_player$です#!"
  KICK_FROM_COURT_INTERACTION_TRAVELLING_FAMILY_INVALID_LOC:0 "[CHARACTER.GetShortUIName|U]は親しい家族を置き去りにすることになる"
  invite_to_court_interaction:0 "宮廷へ招く"
- invite_to_court_interaction_desc:0 "[recipient.GetShortUINameNoTooltip] をあなたの[court|E]へ招きます。宮廷で[recipient.GetSheHe]はあなたの[courtier|E]になるでしょう"
+ invite_to_court_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]を[court|E]へ招きます。宮廷であなたの[courtier|E]になるでしょう"
  invite_to_court_interaction_notification:0 "宮廷に到着"
  invite_to_court_interaction_extra_icon:0 "$hook_extra_icon$"
  AI_YOUR_LOVER:0 "[recipient.GetSheHe|U]はあなたの愛人である: $VALUE|=+0$"

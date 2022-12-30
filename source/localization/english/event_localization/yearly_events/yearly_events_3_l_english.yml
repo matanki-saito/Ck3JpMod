@@ -81,7 +81,7 @@
  yearly.3040.c:0 "[religious_head.GetTitleAsNameNoTooltip]はきっと信心深い[ROOT.Char.GetLadyLord]を高く評価するだろう"
  yearly.3040.d:0 "[ROOT.Char.Custom('DefaultPriestTitlePlural')]はすでに私に畏敬の念を抱いている。"
  yearly.3041.opening:0 "[vassal.Custom2('AppropriateGreeting', ROOT.Char)]"
- yearly.3041.desc:0 "私はあなたが[ROOT.Char.GetFaith.HighGodNameAlternate]の献身的なしもべであることを知っています。それゆえ、私はあなたに、あなたに対する我々の義務が、[ROOT.Char.GetFaith.HighGodNamePossessive]の務めにおける我々の能力を圧迫している事実に、同情の目を向けていただきたいと思います。\n\nあるいは我々の重い義務の一部を免除してはいただけないでしょうか？"
+ yearly.3041.desc:0 "貴方様が[ROOT.Char.GetFaith.HighGodNameAlternate]の献身的なしもべであることはわかっております。それゆえ、同情の目を向けていただきたいのです。負わされた臣下としての義務が、[ROOT.Char.GetFaith.HighGodNamePossessive]の務めを成す我々の能力を圧し潰そうとしている事実に。\n\n出来得るなら、重い義務をいくらか免除してはいただけないでしょうか？"
  yearly.3041.a:1 "私の金は[ROOT.Char.GetFaith.HighGodNamePossessive]の金だ。"
  yearly.3041.b:1 "人手を他のところに集中させなさい。"
  yearly.3041.c:0 "[ROOT.Char.GetFaith.HighGodNamePossessive]の務めを行なっているのは#EMP 私#!だ！"

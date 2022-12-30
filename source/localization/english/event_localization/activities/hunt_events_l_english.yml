@@ -87,7 +87,7 @@
  hunt.4003.c.tt_failure:0 "民衆が激怒する"
  hunt.4004.t:1 "$hunt_header$ 獣を倒す"
  hunt.4004.desc:0 "神話に謳われるけものだろうか、あるいは動物の姿をした神様か。とにかく今まで見た中で一番大きい[ROOT.Char.Custom('LocalAnimal')]だった。傷を負わせた後でさえ、追跡は半日も続いた。\n\n堂々たる様子を保ちつつも、今や息絶え、眼前に横たわっている。"
- hunt.4004.credit_receiver:0 "[credit_receiver.GetTitledFirstName]も ただ驚愕するだけである。「ここまでのものは見たことがありません、我が[ROOT.Char.GetLadyLord]。」"
+ hunt.4004.credit_receiver:0 "[credit_receiver.GetTitledFirstName]もただ驚愕するだけである。「ここまでのものは見たことがありません、我が[ROOT.Char.GetLadyLord]。」"
  hunt.4004.a:0 "その頭を私の大広間に飾れば見映えするだろう！"
  hunt.4004.b:0 "その獲物は我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('trophy_recipient'))]へ捧げよう。"
  hunt.4004.c:0 "これは壮麗なコートを作れるな！"
