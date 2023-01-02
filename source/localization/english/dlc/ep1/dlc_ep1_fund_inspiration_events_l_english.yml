@@ -68,7 +68,7 @@
  fund_inspiration.0031.e:0 "私による[restored_title.GetName]の復元の成功こそこそ書かれるべきだ！"
  fund_inspiration.0031.f:0 "お前の判断を信じよう。"
  fund_inspiration.0032.t:0 "本のひらめきへの出資"
- fund_inspiration.0041.desc:0 "「私に信頼を置いていただきありがとうございます、我が[ROOT.Char.GetLadyLord]！」[inspiration_owner.GetTitledFirstName]は微笑んで続ける。「その信用は間違いではございません、私は何年もかけて技術を磨き、本当に素晴らしい敷物や掛け布を織り上げてきたのでございますから。」\n\n「しかしながら、あなたにとっては私はタペストリーが最良かと存じます——よく織られたそれは部屋の注目を集め、その持ち主を何よりも雄弁に物語ってくれます。ただ、問題は、タペストリーで何を表現するべきか、ということでございますが？」"
+ fund_inspiration.0041.desc:0 "「信頼を賜り、ありがとうございます、我が[ROOT.Char.GetLadyLord]よ！」[inspiration_owner.GetTitledFirstName]は微笑んで続ける。「その信用は間違いではございません、何年もかけて技術を磨き、本当に素晴らしい敷物や掛け布を織り上げてきたのでございますから。」\n\n「しかしながら、タペストリーがあなた様に相応しく存じます——よく織られたそれは部屋中の注目を集め、その持ち主を何よりも雄弁に物語ってくれます。ただ、問題は、タペストリーで何を表現するべきか、でございます。いかが致しましょう？」"
  fund_inspiration.0041.option_battle:0 "[ROOT.Var('epic_battle_location').Province.GetNameNoTooltip]の戦いにおける私の勝利への賞賛だ。"
  fund_inspiration.0041.option_abstract:0 "抽象的な芸術美を追求した作品だ。"
  fund_inspiration.0041.option_nature:0 "手つかずの自然の美しさを見せるものだ。"
