@@ -40,7 +40,7 @@
  hold_court.1041.b:0 "更なる宗教税で十分では？"
  hold_court.1041.c:0 "[ROOT.Char.GetFaith.DivineRealm|U]は[ROOT.Char.GetFaith.HighGodNamePossessive]直轄領だ。[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip|U]、[ROOT.Char.GetFaith.HighGodNameSheHe]は私だけに託されたものだ。"
  hold_court.0021.t:0 "$hold_court_header$ 終幕"
- hold_court.0021.desc:0 "最後の請願者が去ると、後を追うように廷臣の面々もこの部屋を後にする。どこか他所に仕事を抱えているのだろう。他方、居残った者は各々、謁見中の議事の数々について何事か話し合っている。\n\n一連の儀式ばった重苦しさがすっかり消え去ってしまうと、ガヤガヤとした騒々しさ、宮廷生活のいつもの忙しなさが、王宮へと帰ってきた。"
+ hold_court.0021.desc:0 "最後の請願者が去ると、後を追うように廷臣の面々もこの部屋を後にする。どこか他所に仕事を抱えているのだろう。他方、居残った者は各々、謁見中の議事の数々について何事か話し合っている。\n\n一連の儀式ばった重苦しさがすっかり消え去ってしまうと、がやがやとした騒々しさ、宮廷生活のいつもの忙しなさが、王宮へと帰ってきた。"
  hold_court.0021.a:0 "この場での役目は果たした。"
  hold_court.0021.arrogant:0 "私の存在感が畏怖を生み出し、それを臣下が浴する…結構なことだ。"
  hold_court.0021.shy:0 "寝室にさっさと引っ込みたい、もう待てない…"

@@ -53,7 +53,7 @@
  CANNOT_SPLIT_ARMY_EMBARKED:0 "@warning_icon!#X 乗船中の[armies|E]を分割することはできません#!"
  CANNOT_SPLIT_SIEGE_SPLIT_NOT_FOUND:0 "@warning_icon!#X この[siege|E]の間は[army|E]を二つに分割できません#!"
  CANNOT_SPLIT_NO_HIRED_OR_EVENT_TROOPS:0 "@warning_icon!#X 軍勢に雇用兵または[special_troops|E]はいません#!"
- CANNOT_SPLIT_ONLY_HIRED_OR_EVENT_TROOPS:0 "@warning_icon!#X 軍に雇用兵もしくは[special_troops|E]しか存在しません#!"
+ CANNOT_SPLIT_ONLY_HIRED_OR_EVENT_TROOPS:0 "@warning_icon!#X 軍に雇用兵または[special_troops|E]しか存在しません#!"
  SELECT_COMMANDER_HEADER:1 "#T 新たな[commander|E]を選択#!"
  SUPPLY_STATE_TOOLTIP:1 "#T [supplies|E]: $SUPPLY|V$/$FULL_SUPPLY|V0$#!\n$STATE|V$"
  SUPPLY_STATE_POSITIVE:0 "補給物資#P +$CHANGE$#!/月"

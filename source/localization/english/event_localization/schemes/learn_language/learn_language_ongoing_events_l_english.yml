@@ -84,7 +84,7 @@
  encouraged_by_friend_modifier:0 "友人からの励まし"
  learn_language_ongoing.1100.t:1 "$learn_language$: 気づかいの[ROOT.Char.GetTitleTierName]"
  learn_language_ongoing.1100.desc:3 "秘密でもなんでもない話だが、熱心に[scheme.GetTarget.GetCulture.GetLanguage.GetName]の学習に励んでいる。どうやら、それが[target.GetCulture.GetNameNoTooltip]系の農民に広く知られるようになったようだ。\n\n彼らは口々に私を「気遣いの[ROOT.Char.GetTitleTierName]」と呼ぶ。全く喜ばせてくれるものだ。下位の貴族ですら私の励みを誉めそやすほどだ！\n\n努力の甲斐あってか、[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]と[target.GetCulture.GetCollectiveNounNoTooltip]との仲が深まったように思う。"
- learn_language_ongoing.1100.a:3 "ひょっとすると、[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]と[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]の#EMP 両言語を駆使して#!演説した方が良いのでは？"
+ learn_language_ongoing.1100.a:3 "もしや[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]と[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]の#EMP 両方で#!演説すべきか？"
  learn_language_ongoing.1100.b:0 "奴らの記憶を消すんだ、そんなことに気を散らす余裕はない。"
  learn_language_ongoing.1100.c:0 "これほど幸運なことはない！"
  learn_language_ongoing.1100.a.success:0 "素晴らしい演説をします"

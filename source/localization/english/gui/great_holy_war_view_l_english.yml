@@ -74,6 +74,6 @@
  GHW_RANK_NONE:0 "-"
  GHW_FORMAT_RANK:0 "$NUM|O$"
  GHW_NO_SCORE:0 "取り分なし"
- GHW_NO_SCORE_TT:0 "#T [spiritual_head_of_faith|E]はいかなる[contribution|E]もしくは取り分を得られません#!"
+ GHW_NO_SCORE_TT:0 "#T [spiritual_head_of_faith|E]はいかなる[contribution|E]または取り分をも得られません#!"
  ghw_heir_to_a_title:0 "[title|E]の[heir|E]である"
  ghw_married_to_a_ruler:0 "[ruler|E]と[married|E]している"

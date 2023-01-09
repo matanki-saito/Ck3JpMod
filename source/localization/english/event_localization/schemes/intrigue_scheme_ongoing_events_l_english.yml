@@ -87,7 +87,7 @@
  intrigue_scheme_ongoing.3004.toast:0 "計画が露見した"
  intrigue_scheme_ongoing.3005.t:0 "空飛ぶ使者"
  intrigue_scheme_ongoing.3005.desc:0 "計画が実現に近づくにつれ、迅速なコミュニケーションが鍵となる。もし必要になったら、[pigeon_recipient.GetTitledFirstName]は[root_location.GetNameNoTooltip]にいる私に緊急のメッセージを送るために、特別に賢いハトを持っている。\n\nでも、どうやって鳥を[target_location.GetNameNoTooltip]の[defender.Custom('ResidenceBuilding')]の中に入れればいいのだろう？"
- intrigue_scheme_ongoing.3005.c.f:0 "あなたのスパイである[elope_agent.GetShortUIName]が[friend|E]、[close_family_member|E]、もしくは[pigeon_recipient.GetShortUIName]の[elope_agent.Custom('FemaleMale')]使用人であるためこの選択肢が有効です"
+ intrigue_scheme_ongoing.3005.c.f:0 "あなたのスパイである[elope_agent.GetShortUIName]が[friend|E]、[close_family_member|E]、または[pigeon_recipient.GetShortUIName]の[elope_agent.Custom('FemaleMale')]使用人であるため、この選択肢が有効です"
  intrigue_scheme_ongoing.3005.a:0 "地元の鳩匠（トレーナー）が「贈り物」として届ける。"
  intrigue_scheme_ongoing.3005.a.success:0 "「贈り物」が[pigeon_recipient.GetShortUIName]に到着する"
  intrigue_scheme_ongoing.3005.a.failure:0 "[defender.GetShortUIName|U]は鳩匠を解雇する"

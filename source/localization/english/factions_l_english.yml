@@ -31,7 +31,7 @@
  peasant_faction_short_effect_desc:0 "[county_control|E]を低下させる事を望んでいる"
  peasant_faction_every_county:0 "派閥に与している全ての伯爵領"
  FACTION_DEMAND_PEASANT:1 "[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstName]へ"
- FACTION_DEMAND_PEASANT_DESC:0 "俺ら百姓はお前のクソひでえ法律のせいでクソなげえこと苦しんでんだ。もうやってられっかよ！これ以上税金は払わねぇ。\n\nてめえの金庫がすっからかん、てめえの倉も空っぽのぽってな事になっちまえば、お前も俺らをもうちょっと大事にしときゃ良かったって思うだろうよ。"
+ FACTION_DEMAND_PEASANT_DESC:0 "俺ら百姓はな、お前のクソひでえ法律のせいでクソなげえこと苦しんでんだ。もうやってられっかよ！これ以上税金は払わねぇ。\n\nてめえの金庫がすっからかん、てめえの倉も空っぽのぽってな事になっちまえば、お前も俺らをもうちょっと大事にしときゃ良かったって思うだろうよ。"
  FACTION_DEMAND_PEASANT_ACCEPT:0 "課税に特権を与えるしかないのかもしれないな…"
  FACTION_DEMAND_PEASANT_REFUSE:0 "農民は主君に仕えていれば良い！これは絶対だ！"
  FACTION_PEASANT_NAME:0 "農民の蜂起"

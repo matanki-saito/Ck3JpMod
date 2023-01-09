@@ -36,7 +36,7 @@
  reactive_advice_protecting_against_hostile_schemes_step_1:0 "策謀から身を守る"
  reactive_advice_protecting_against_hostile_schemes_step_2:0 "$reactive_advice_protecting_against_hostile_schemes_step_1$"
  reactive_advice_protecting_against_hostile_schemes_desc:0 "足元にご注意を!支配者の常として、あなたの死を望んで[scheme|E]を企てる者は多く存在します…\n\n家臣達のあなたに対する[opinion|E]が高い状態であることを目指しましょう。しかし、その中でも最も重要なのは #emphasis 常に#!、あなたの[spymaster|E]の忠誠です。\n\n#TUT あなたは知らなかったかもしれませんが、あなたは常に[hostile_schemes|E]の標的となりえます。策謀から身を守るために、[vassals|E]と[courtiers|E]を満足させておくことをお勧めします。#!"
- reactive_advice_protecting_against_hostile_schemes_2_desc:0 "あなたに対する評価が著しく低い密偵頭を持つことは命取りとなり得ます。これは[secret_schemes|E]を発見する術が無いことに等しいからです！\n\n#TUT このことは[tyrant|E]としてプレイしようとする場合に特に注意が必要です。[dread|E]を以って家臣達を抑え込んだとしても、彼らは策謀を以ってあなたに対抗することが出来ます。\n\n最後になりますが、[GetTrait('sadistic').GetName( GetPlayer )]若しくは[GetTrait('ambitious').GetName( GetPlayer )]の特性を持つあなたの称号に対する[claimants|E]には注意して下さい...#!"
+ reactive_advice_protecting_against_hostile_schemes_2_desc:0 "あなたに対する評価が著しく低い密偵頭を持つことは命取りとなり得ます。これは[secret_schemes|E]を発見する術が無いことに等しいからです！\n\n#TUT このことは[tyrant|E]としてプレイしようとする場合に特に注意が必要です。[dread|E]を以って家臣達を抑え込んだとしても、彼らは策謀を以ってあなたに対抗することが出来ます。\n\n最後になりますが、[GetTrait('sadistic').GetName( GetPlayer )]または[GetTrait('ambitious').GetName( GetPlayer )]の特性を持つあなたの称号に対する[claimants|E]には注意して下さい...#!"
  reactive_advice_protect_against_factions:0 "$reactive_advice_protect_against_factions_step_1$"
  action_reactive_advice_protect_against_factions:0 "$open_tutorial_lesson$$reactive_advice_protect_against_factions_step_1$"
  action_reactive_advice_protect_against_factions_desc:0 "派閥は放置するには危険な脅威です。\nここを開いて派閥の概要を見て、どのように彼らを扱えば良いか学び取ってください！"

@@ -818,7 +818,7 @@
  commission_tapestry_tooltip:1 "#T 壁飾り#! \n$IS_VALID_BLOCKER$\n$DESC$"
  commission_furniture_tooltip:0 "#T 家具#!\n$IS_VALID_BLOCKER$\n$DESC$"
  commission_book_tooltip:0 "#T 本#!\n$IS_VALID_BLOCKER$\n$DESC$"
- restore_roman_empire_decision_tt:0 "あなたの宗教がキリスト教か、グレコローマン、もしくはあなたの文化がローマである"
+ restore_roman_empire_decision_tt:0 "あなたの宗教がキリスト教か、グレコ・ローマ宗教、またはあなたの文化がローマである"
  outremer_decision_hybrid_tt:0 "あなたは[THIS.Char.GetCulture.GetPrefix]――つまり[hybrid_culture.GetName]の[hybrid_culture|E] を$innovation_men_at_arms$と$innovation_desert_tactics$の[innovations|E]で形成することになります"
  unite_the_western_slavs_decision_tt_1:1 "あなたの主な称号は、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国です"
  unite_the_western_slavs_decision_tt_2:1 "あなたは皇帝で、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国のいずれかを保有しています"

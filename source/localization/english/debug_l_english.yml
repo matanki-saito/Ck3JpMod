@@ -140,7 +140,7 @@
  start_bout_interaction:1 "決闘/ボードゲームを開始"
  make_nemesis_interaction:0 "#p 仇敵#!になる"
  take_domain_interaction:0 "直轄領を獲得する"
- take_realm_interaction:1 "直轄領もしくは領国を獲得する"
+ take_realm_interaction:1 "直轄領または領国を獲得する"
  give_criminal_trait_interaction:0 "彼らを強化された#difficulty_hard 犯罪者#!にする"
  give_criminal_trait_interaction_tt:0 "[recipient.GetShortUIName]は犯罪者の特性を与えられている"
  test_effect_localization_interaction:0 "相互作用効果のローカリゼーションをテスト"

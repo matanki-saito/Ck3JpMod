@@ -18,7 +18,7 @@
  court_chaplain_task.1002.notification:0 "貧弱な修辞学"
  court_chaplain_task.1101.notification:0 "印象的な修辞学"
  court_chaplain_task.2001.notification:0 "改宗への抵抗"
- court_chaplain_task.2002.notification:0 "改宗に対する大衆の抵抗"
+ court_chaplain_task.2002.notification:0 "改宗に対する民衆の抵抗"
  court_chaplain_task.2101.notification:0 "熱心な改宗"
  court_chaplain_task.2102.notification:1 "新たな[councillor.GetFaith.HouseOfWorshipPlural|U]が確立された"
  court_chaplain_task.2103.notification:0 "新鮮さがみなぎる改宗志願者"

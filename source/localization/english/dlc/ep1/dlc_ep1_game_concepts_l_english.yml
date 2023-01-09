@@ -1,7 +1,7 @@
 ﻿l_english:
  game_concept_royal_court:0 "王宮"
  game_concept_royal_courts:0 "王宮"
- game_concept_royal_court_desc:2 "傑出した[rulers|E]は王宮の手厚い維持管理でも著名で、多様なボーナスや好機の数々を手に出来ます。\n\n[GetGovernment( 'feudal_government' ).GetName]、[GetGovernment( 'clan_government' ).GetName]、[GetGovernment( 'tribal_government' ).GetName]における[ruler|E]は、[king|E]や[emperor|E]を戴冠すると、王宮の利用が可能になります。\n\n王宮にはそれぞれ[court_grandeur_level|E]があり、「王宮がどれだけ有名なのか」に基づいて利益を発生します。また、[court_type|E]もあります。\n\n請願者、[vassals|E]、[courtiers|E]が、不意に王宮へと姿を見せることがあります。もしくは、[realm|E]中の不平不満を抱く者らを招いて、[hold_court|E]を開催できます。\n\n王宮には、[court_artifacts|E]の展示も可能です。もしかすると新たな[artifacts|E]の製作を申し出る[inspired|E]を得た[guests|E]が現れるかもしれません。\n\n自らの逝去にあたっては、[player_heir|E]が王宮を相続します。"
+ game_concept_royal_court_desc:2 "傑出した[rulers|E]は王宮の手厚い維持管理でも著名で、多様なボーナスや好機の数々を手に出来ます。\n\n[GetGovernment( 'feudal_government' ).GetName]、[GetGovernment( 'clan_government' ).GetName]、[GetGovernment( 'tribal_government' ).GetName]における[ruler|E]は、[king|E]や[emperor|E]を戴冠すると、王宮の利用が可能になります。\n\n王宮にはそれぞれ[court_grandeur_level|E]があり、「王宮がどれだけ有名なのか」に基づいて利益を発生します。また、[court_type|E]もあります。\n\n請願者や[vassals|E]、[courtiers|E]が、不意に王宮へと姿を見せることがあります。あるいは[realm|E]中の不平不満を抱く者らを招いて、[hold_court|E]を開催できます。\n\n王宮には、[court_artifacts|E]の展示も可能です。もしかすると新たな[artifacts|E]の製作を申し出る[inspired|E]を得た[guests|E]が現れるかもしれません。\n\n自らの逝去にあたっては、[player_heir|E]が王宮を相続します。"
  game_concept_court_grandeur_level:0 "宮廷の威光レベル"
  game_concept_court_grandeur_levels:0 "宮廷の威光レベル"
  game_concept_grandeur_level:0 "威光レベル"
@@ -38,7 +38,7 @@
  game_concept_sponsor_desc:2 "後援者とは、[inspired|E]を得た[character|E]の[project|E]に投資している[ruler|E]のことです。"
  game_concept_artifact:0 "宝物"
  game_concept_artifacts:0 "宝物"
- game_concept_artifact_desc:5 "宝物とは、注目すべき品物のことで、活用した人物にボーナスの数々をもたらします。\n\n[SelectLocalization( HasDlcFeature( 'court_artifacts' ), 'game_concept_artifact_desc_DLC', 'game_concept_artifact_desc_NO_DLC' )]\n\nいくつかのより特別な宝物には、相応に高い[rarity|E]が付与されています。\n\nまた、[titles|E]と同様に、宝物に対する[artifact_claims|E]を入手できて、対象の宝物の奪取を試みることができます。\n\n加えて、宝物には[durability|E]もあり、ゼロになると壊れてしまいます。\n\n宝物は、常に所有者の[player_heir|E]へと相続されます。仮に[close_family_member|E]以外の誰かが相続すると、[durability|E]がある程度失われます。もしくは、すっかり壊れてしまうことさえあります。"
+ game_concept_artifact_desc:5 "宝物とは、注目すべき品物のことで、活用した人物にボーナスの数々をもたらします。\n\n[SelectLocalization( HasDlcFeature( 'court_artifacts' ), 'game_concept_artifact_desc_DLC', 'game_concept_artifact_desc_NO_DLC' )]\n\nいくつかのより特別な宝物には、相応に高い[rarity|E]が付与されています。\n\nまた、[titles|E]と同様に、宝物に対する[artifact_claims|E]を入手できて、対象の宝物の奪取を試みることができます。\n\n加えて、宝物には[durability|E]もあり、ゼロになると壊れてしまいます。\n\n宝物は、常に所有者の[player_heir|E]へと相続されます。仮に[close_family_member|E]以外の誰かが相続すると、[durability|E]がある程度失われます。あるいは、すっかり壊れてしまうことさえあります。"
  game_concept_artifact_desc_NO_DLC:0 "宝物は身につけたり持ち歩いたりできることから、[inventory_artifacts|E]とも呼ばれます。"
  game_concept_artifact_desc_DLC:0 "宝物は、2つのカテゴリーのいずれかに分類されます:\n$BULLET_WITH_TAB$[inventory_artifacts|E]は、人物が着用したり運んだりできます。\n$BULLET_WITH_TAB$[court_artifacts|E]は、[ruler|E]の[royal_court|E]に設置できます。"
  game_concept_court_artifact:0 "宮廷の宝物"

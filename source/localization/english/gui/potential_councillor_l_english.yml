@@ -10,4 +10,4 @@
  POTENTIAL_COUNCILLOR_REASSIGN_TT_TITLE:0 "#T $NAME$に再任命する#!"
  POTENTIAL_COUNCILLOR_SWAP_TT_TITLE:0 "#T 評議員の担当を入れ替える#!"
  POTENTIAL_COUNCILLOR_SWAP_TT_DESC:0 "$CHARACTER_POSITION$[CHARACTER.GetShortUINamePossessiveNoTooltip]の担当と$TARGET_POSITION$[TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip]の担当を入れ替える"
- NO_POTENTIAL_COUNCILLORS:1 "この地位に適格な[vassals|E]もしくは[courtiers|E]がいません"
+ NO_POTENTIAL_COUNCILLORS:1 "この地位に適格な[vassals|E]または[courtiers|E]がいません"
