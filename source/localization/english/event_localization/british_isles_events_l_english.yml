@@ -50,7 +50,7 @@
  british_isles.1021.t:0 "$british_isles.1011.t$"
  british_isles.1021.intro:0 "[ntd_actor.GetTitledFirstName]はおそらく、$k_england$の支配をめぐる私の最大の競争相手である。\n\nよって、[ntd_actor.GetHerHis]の自筆で書かれ押印された、私と領地を分割しないかという提案の手紙が来るなどということは、今日、私は予想だにしていなかった。\n\n"
  british_isles.1021.nord:0 "敵は私に、ノルドの自治に対する承諾と支援、[ntd_actor.GetHerHis]と同格の[ntd_recipient.Custom('QueenKing')]を提案している。私や私が支配する者の土地は、#EMP 私#!の支配下に入る。"
- british_isles.1021.brit:0 "敵は私に対し、私がノルドの自治及び、[ntd_actor.GetSheHe]がすでに領土を保有している地における同等の地位への支持に同意するのであれば、私を$k_england$の[ntd_recipient.Custom('QueenKing')]として承認することを提案している。"
+ british_isles.1021.brit:0 "敵は私に対し、私がノルドの自治、及び[ntd_actor.GetSheHe]がすでに領土を保有している地における同等の地位への支持に同意するのであれば、私を$k_england$の[ntd_recipient.Custom('QueenKing')]として承認することを提案している。"
  british_isles.1021.outro:0 "\n\n私の頭上に王冠があると考えると…魅力的だと言わざるを得ないのが正直なところだ。"
  british_isles.1021.a:0 "誰もが否定できない王冠、とでも言うのか？"
  british_isles.1021.a.accepted:0 "協定は受け入れられる"

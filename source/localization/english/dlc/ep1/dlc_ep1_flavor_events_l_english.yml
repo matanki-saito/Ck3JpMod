@@ -277,7 +277,7 @@
  ep1_flavor.2040.b:0 "「小銭入れを持ってこい！」"
  ep1_flavor.2040.c:0 "「ハッ！#EMP [exotic_blade_holder.GetCapitalLocation.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTierNoTooltip]#!…くだらない！お前と一緒に出て行け！」"
  ep1_flavor.2060.t:0 "大いなる善"
- ep1_flavor.2060.desc:0 "地方の[sandford_scope.GetTitle.GetHolder.GetTitleAsNamePossessiveNoTooltip]の下役である[detective_scope.GetFirstName]が内々に謁見を求めてきており、最近の[victim_scope.GetTitledFirstName]及び他の訪問者が私の宮廷で行方不明になっている背後に誰がいるかを知っていると主張している。\n\n「我が[ROOT.Char.GetLadyLord]！私は交易商である[grocer_scope.GetTitledFirstName]が率いる陰の組織を発見したのです。彼らは自らを[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の夜警団と呼び、そして、彼らが[ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip]の威厳を汚したと主張する人々は、しばしばすぐに姿を消してしまうのです！」\n\n私がその雑貨商を連れてくると、[grocer_scope.GetSheHe]は全てを否定し、その[detective_scope.GetWomanMan]は長年[ROOT.Char.GetCapitalLocation.GetNameNoTooltip]の汚い通りで過ごしてきたことで妄言を語っているのだと主張している…"
+ ep1_flavor.2060.desc:0 "地方の[sandford_scope.GetTitle.GetHolder.GetTitleAsNamePossessiveNoTooltip]の下役である[detective_scope.GetFirstName]が内々に謁見を求めてきており、最近の[victim_scope.GetTitledFirstName]、及び他の訪問者が私の宮廷で行方不明になっている背後に誰がいるかを知っていると主張している。\n\n「我が[ROOT.Char.GetLadyLord]！私は交易商である[grocer_scope.GetTitledFirstName]が率いる陰の組織を発見したのです。彼らは自らを[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の夜警団と呼び、そして、彼らが[ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip]の威厳を汚したと主張する人々は、しばしばすぐに姿を消してしまうのです！」\n\n私がその雑貨商を連れてくると、[grocer_scope.GetSheHe]は全てを否定し、その[detective_scope.GetWomanMan]は長年[ROOT.Char.GetCapitalLocation.GetNameNoTooltip]の汚い通りで過ごしてきたことで妄言を語っているのだと主張している…"
  ep1_flavor.2060.a:0 "「きっとそこには合理的な理由があるだろう。」"
  ep1_flavor.2060.a.tt:0 "[detective_scope.GetFirstName]と[grocer_scope.GetFirstName]が去ります"
  ep1_flavor.2060.b:0 "「[grocer_scope.GetFirstNameNoTooltip]を捕らえ、私のために働かせよう！」"

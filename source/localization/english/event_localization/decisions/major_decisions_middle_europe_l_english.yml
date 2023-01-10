@@ -60,7 +60,7 @@
  polabia_held_or_nonexistent.tt:0 "$k_sorbia$が存在しないかあなたが保持している。"
  middle_europe_decision.0017.tt:0 "皇帝として、ザクセンは作成時に[vassal|E]または[courtier|E]に与えられます。"
  middle_europe_decisions.0017.t:0 "ザクセン選帝侯領"
- middle_europe_decisions.0017.desc:0 "ポラーブは長い間、[hre_emperor_scope.GetPrimaryTitle.GetTierAsNameNoTooltip]の敵の手から離れていたが、今やその民は$e_hre$を真の故郷だと考えるようになった。\n\nザクセン選帝侯領の確立により、オーバーザクセン地方は、現在および将来にわたって、[hre_emperor_scope.GetTitleAsNameNoTooltip]の手中にあり、[hre_emperor_scope.GetFaith.HighGodName]の指導下に置かれるだろう。"
+ middle_europe_decisions.0017.desc:0 "ポラーブは長い間、[hre_emperor_scope.GetPrimaryTitle.GetTierAsNameNoTooltip]の敵の手から離れていたが、今やその民は$e_hre$を真の故郷だと考えるようになった。\n\nザクセン選帝侯領の確立により、オーバーザクセン地方は、現在および百代にわたって、[hre_emperor_scope.GetTitleAsNameNoTooltip]の手中にあり、[hre_emperor_scope.GetFaith.HighGodName]の指導下に置かれるだろう。"
  middle_europe_decisions.0017.a:0 "ザクセンに栄光を！"
  middle_europe_decisions.0017.b:0 "[heir_scope.Custom2('MyCharacterIntroduction', ROOT.Char)|U]はこの称号にふさわしい。"
  middle_europe_decisions.0017.c:0 "[most_powerful_saxon.GetNameNoTooltip]は真に価値あるものだ。"

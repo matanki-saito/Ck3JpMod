@@ -7,7 +7,7 @@
  petition_liege_decision_second_tooltip:0 "$DESC$\n$petition_liege_grace_tt$\n\n$IS_VALID_BLOCKER$"
  petition_liege_grace_tt:0 "#weak 主君への請願は今後5年間利用できなくなります#!"
  CHOOSE_PETITION_DECISION_NEXT_STEP_BUTTON:0 "請願タイプを選ぶ"
- petition_liege_warning_effect:0 "#weak [liege|E]の性格、[opinion|E]、および[petition_liege|E]タイプが、受け入れの可能性に影響を与えます#!"
+ petition_liege_warning_effect:0 "#weak [liege|E]の性格、[opinion|E]および[petition_liege|E]タイプが、受け入れの可能性に影響を与えます#!"
  petition_liege_decision_option_council_seat:0 "評議会への任命\n#low [council|E]の議席を与える#!"
  petition_liege_council_seat_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]に対してあなたに[council|E]の地位を与えてくれるよう要請します"
  petition_liege_council_seat_tooltip:0 "$petition_liege_decision_second_tooltip$"

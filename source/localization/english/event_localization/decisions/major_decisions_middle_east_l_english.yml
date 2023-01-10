@@ -12,7 +12,7 @@
  middle_east_decisions.0003.desc:0 "異教徒による聖地占領以来、ムハンマドの忠実なる信徒たちは、指導者も、聖戦を再開する意志もなく四方八方に散り散りになってしまった。\n\nだがそれも今日までのこと。[reformer.GetFaith.HighGodNamePossessive]の慈悲により、私はメッカとメディナを奪還し、アラビアに満ちる異教徒たちの勢いを食い止めた。幾人かの偉大なる聖典の学者たちの支持を受け、私は[reformer.GetFaith.GetName]の新たなカリフとして認められた。いまだ祖国を汚す邪悪な異教徒たちに対し、信徒たちを導く準備はできている。"
  middle_east_decisions.0003.a:0 "アッラーは偉大なり！"
  middle_east_decisions.0004.desc.ashari:0 "異教徒による聖地占領以来、ムハンマドの忠実なる信徒たちは、指導者も、聖戦を再開する意志もなく四方八方に散り散りになってしまった。\n\nだがそれも今日までのこと。[reformer.GetFaith.HighGodNamePossessive]の慈悲により、[reformer.GetFirstName]はメッカとメディナを奪還し、アラビアに満ちる異教徒たちの勢いを食い止めた。幾人かの偉大なる聖典の学者たちの支持を受け、[reformer.GetSheHe]は[reformer.GetFaith.GetName]の新たなカリフとして認められた。いまだ祖国を汚す邪悪な異教徒たちに対し、[reformer.GetHerHis]の信徒たちを導く準備はできている。"
- middle_east_decisions.0004.desc.other:0 "異教徒による聖地占領以来、[reformer.GetFaith.GetName]の信徒たちは、指導者も、聖戦を再開する意志もなく四方八方に散り散りになってしまった。\n\nしかし、[reformer.GetFirstName]の賢明なる指導のもとに、彼らはふたたび集結しつつある。聖都メッカおよびメディナを奪還し、[reformer.GetHerHis]が新たなるカリフとしての地位を正当化させたのち、[reformer.GetFirstName]は異教徒に対する偉大なる戦争を再開させる準備を整えた。"
+ middle_east_decisions.0004.desc.other:0 "異教徒による聖地占領以来、[reformer.GetFaith.GetName]の信徒たちは、指導者も、聖戦を再開する意志もなく四方八方に散り散りになってしまった。\n\nしかし、[reformer.GetFirstName]の賢明なる指導のもとに、彼らはふたたび集結しつつある。聖都たるメッカおよびメディナを奪還し、[reformer.GetHerHis]が新たなるカリフとしての地位を正当化させたのち、[reformer.GetFirstName]は異教徒に対する偉大なる戦争を再開させる準備を整えた。"
  middle_east_decisions.0004.a:0 "アッラーは偉大なり！"
  middle_east_decisions.0004.b:0 "お前の知る悪魔のほうがまだマシだ…"
  middle_east_decisions.0005.t:0 "約束の地"

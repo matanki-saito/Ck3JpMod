@@ -151,7 +151,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_HUMBLE:0 "敬虔で謙虚な[ROOT.Char.GetWomanMan]である[ROOT.Char.GetFirstNameNoTooltip]は、王座よりも[ROOT.Char.GetFaith.HouseOfWorship]の方が似合うのではないかと心配する声も多い。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ARBITRARY:0 "堕落した不正な[ROOT.Char.GetWomanMan]で、その監督下で領国が崩壊を始めたとき、多くの人は封臣が黙ってはいないと思っている。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_TEMPERATE:0 "控えめで温厚な[ROOT.Char.GetWomanMan]である[ROOT.Char.GetFirstNamePossessiveNoTooltip]の受け身な性格もまた[ROOT.Char.GetHerHis]を破滅させる原因になるかもしれない。"
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CHASTE:0 "[ROOT.Char.GetHerHis]の配偶者、および家族に誠実な[ROOT.Char.GetFirstNameNoTooltip]は、すべての個人的な関心事よりも、[ROOT.Char.GetHerHis]の王朝の利益を優先するに違いない。"
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CHASTE:0 "[ROOT.Char.GetHerHis]の配偶者および家族に誠実な[ROOT.Char.GetFirstNameNoTooltip]は、すべての個人的な関心事よりも、[ROOT.Char.GetHerHis]の王朝の利益を優先するに違いない。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_LUSTFUL:0 "[ROOT.Char.GetHerHis|U]の目は常に次の標的に向けられている。領国の封臣たちは、[ROOT.Char.GetFirstNameNoTooltip]が王座に就くと、彼らの配偶者を閉じ込めておくことでうまくやっている。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CONTENT:0 "[ROOT.Char.GetHerHis]は現状に満足しており、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の封臣たちは[ROOT.Char.GetHerHis]の消極的な性格を嘲笑うかもしれない。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_PATIENT:0 "計画がまとまるのをずっと待っていられる[ROOT.Char.GetWomanMan]であり、多くの人は、ゆっくりではあるが——大きな変化がこの王国に訪れることを期待している。"

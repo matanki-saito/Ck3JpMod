@@ -259,7 +259,7 @@
  seduce_ongoing.2011.desc:0 "[target.GetFirstName]は 「愛の秘薬」に何も感じなかったようで、もう馬鹿げた農民の迷信を話そうとも、何の収穫もなかった。それどころか、[target.GetSheHe]はそれだけで苛立っているようだった！"
  seduce_ongoing.2011.a:0 "今日の[target.GetSheHe|U]はいつになく機嫌が悪いようだ。"
  seduce_ongoing.3001.t:0 "ハーツ＆マインズ"
- seduce_ongoing.3001.desc:0 "[target.GetTitledFirstName]が[target.GetHerHis]の[target.Custom2('RelationToMe', SCOPE.sC('close_character'))][close_character.GetTitledFirstName]と親しい事を知った。[close_character.GetHerHis]の好意を得ることで、[target.GetFirstNamePossessive]の注意を引くことができるかもしれない。"
+ seduce_ongoing.3001.desc:0 "[target.GetTitledFirstName]が自身の[target.Custom2('RelationToMe', SCOPE.sC('close_character'))][close_character.GetTitledFirstName]と親しい事を知った。その好意が得られれば、[target.GetFirstNamePossessive]の関心を引けるかもしれない。"
  seduce_ongoing.3001.a:0 "[close_character.GetFirstNameNoTooltip]をものにしてみせる。[close_character.GetSheHe]が何を求めようと。"
  seduce_ongoing.3001.b:0 "好意を見せたければ、それをして見せるべきだ。"
  seduce_ongoing.3001.c:0 "私は[close_character.GetHerHis]の借金返済を援助できる。"

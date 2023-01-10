@@ -39,7 +39,7 @@
  STACK_SIZE_MAA:0 "連隊規模: $VALUE|V$"
  MONTHLY_MAINTENANCE_LABEL:0 "月間維持費:"
  MONTHLY_MAX_MAINTENANCE_LABEL:0 "#weak 最大:#!"
- MONTHLY_MAX_MAINTENANCE_TT:0 "#T 最大の軍隊維持費#!\n最大限度の軍隊を全召集した際の軍事費です。\n@warning_icon!#X [fleets|E]に乗船済みの[armies|E]があれば、実際の維持費はより高くなります。#!\n\n現在の[gold|E]及び[income|E]によると、[MilitaryView.GetAllRaisedTime]間、破産状態に陥ることなく全軍動員し続けられます。"
+ MONTHLY_MAX_MAINTENANCE_TT:0 "#T 最大の軍隊維持費#!\n最大限度の軍隊を全召集した際の軍事費です。\n@warning_icon!#X [fleets|E]に乗船済みの[armies|E]があれば、実際の維持費はより高くなります。#!\n\n現在の[gold|E]及び[income|E]しだいでは、[MilitaryView.GetAllRaisedTime]間、破産状態に陥ることなく全軍動員し続けられます。"
  MONTHLY_MAX_MAINTENANCE_VIEW:0 "([MilitaryView.GetAllRaisedTime])"
  MONTHLY_REINFORCEMENT_COST_LABEL:1 "毎月の補充"
  MV_MORE_THAN_FIVE_YEARS:1 "> #V 5年#!"

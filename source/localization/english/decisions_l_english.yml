@@ -32,7 +32,7 @@
  escape_from_prison_decision_confirm:0 "私を捕らえられる鉄格子はない！"
  escape_from_prison_decision_effect_tooltip:0 "@warning_icon! 試みが成功するかどうかはあなたの[prowess|E]と[traits|E]に左右されます"
  tribal_challenge_ruler_decision:0 "[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U]への挑戦"
- tribal_challenge_ruler_decision_desc:0 "[ROOT.Char.GetLiege.GetFirstName]は[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip]の称号を[ROOT.Char.GetLiege.GetHersHis]の疑いのないものであるかのように扱っている。我々の指導者が誰かを決定するのは能力や強さだけではないと言わんばかりだ。\n\n私、[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetLiege.GetHerHis]の称号及びすべての[ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTier]への権利に対して疑問を抱いており、私はもう黙っていることはしないだろう！"
+ tribal_challenge_ruler_decision_desc:0 "[ROOT.Char.GetLiege.GetFirstName]は[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip]の称号を[ROOT.Char.GetLiege.GetHersHis]の疑いのないものであるかのように扱っている。我々の指導者が誰かを決定するのは能力や強さだけではないと言わんばかりだ。\n\n私、[ROOT.Char.GetFullNameNoTooltip]は[ROOT.Char.GetLiege.GetHerHis]の称号、及びすべての[ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTier]への権利に対して疑問を抱いており、私はもう黙っていることはしないだろう！"
  tribal_challenge_ruler_decision_tooltip:0 "[ROOT.Char.GetLiege.GetHerHis]の称号と[ROOT.Char.GetLiege.GetHerHis]の領土を賭け、[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U]に挑戦します"
  tribal_challenge_ruler_effect_tooltip:0 "[liege_to_challenge.GetTitledFirstNameNoTooltip]が挑戦を取り決める\n"
  tribal_challenge_ruler_desc_success:0 "挑戦に勝利した"
