@@ -45,7 +45,7 @@
  coming_of_age.1001.a:0 "日々に新たなり。"
  coming_of_age.1002.t:0 "[educated_child.GetFirstNameNoTooltip]が成人する"
  coming_of_age.1002.desc:0 "[educated_child.Custom('GetDaughterSon')]が子供から大人へと成長するのを見るのは誇らしい。\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')][educated_child.Custom('DescribingEducationOutcome')]"
- coming_of_age.1002.patronaged_spouse_plus_1.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstNamePossessive]による[educated_child.GetFirstNamePossessive]の教育への貢献は言うまでもない。[patronage_spouse_tutor.GetHerHis|U]の授業は[educated_child.GetFirstName]の今後の人生において[educated_child.GetHerHis]にとって役立つ貴重な知識を与えてくれた。"
+ coming_of_age.1002.patronaged_spouse_plus_1.desc:0 "\n\n[patronage_spouse_tutor.GetTitledFirstNamePossessive]による教育への貢献は言うまでもない。[patronage_spouse_tutor.GetHerHis|U]の授業は[educated_child.GetFirstName]の今後の人生に役立つ貴重な知識を与えてくれた。"
  coming_of_age.1002.patronaged_spouse_plus_2_or_more.desc:0 "\n\n [patronage_spouse_tutor.GetTitledFirstName]は子供に貴重な指導をしてくれている。[educated_child.GetFirstName]は、[patronage_spouse_tutor.GetHerHim]がいなければ、ここまでたどり着くことはなかっただろう。"
  coming_of_age.1003.t:0 "教育の終わり"
  coming_of_age.1003.standard:0 "私の被後見人[educated_child.GetTitledFirstName]は成人を迎え、私の手を離れる時がやってきた。\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')][educated_child.Custom('DescribingEducationOutcome')]"

@@ -189,7 +189,7 @@
  child_personality.7101.arbitrary:0 "無理もない。誰が[other_child.GetFirstNameNoTooltip]など気にするのだ？"
  child_personality.7101.impatient:0 "友人を救うために行動を起こしたのだな？立派だ！"
  child_personality.7101.change.honest:0 "お前は自分の悪事を認めるべきだった、このガキめ！"
- child_personality.7101.change.arbitrary:0 "お前は遊び続けるべきだった、[other_child.GetFirstNameNoTooltip]の代わりなどいくらでもいるのだから。"
+ child_personality.7101.change.arbitrary:0 "遊んどれば良かったのだ。[other_child.GetFirstNameNoTooltip]の代わりなど幾らでもおる"
  child_personality.7101.change.impatient:0 "なぜ[other_child.GetHerHim]を#EMP すぐに#!助けなかった！？"
  child_personality.7200.t:0 "仄暗い洞窟"
  child_personality.7200.desc:0 "「[other_child.Custom('child_favorite_toy')]が欲しいか？え、どうなんだ？#EMP じゃあ取ってこい！#!」[other_child.GetFirstName]はそう叫ぶと、小さな[other_child.Custom('GirlBoy')]の[other_child.Custom('child_favorite_toy')]を暗い暗い洞窟の奥へと投げ入れてしまった。小さな[other_child.Custom('GirlBoy')]は、堪えきれずに泣き出してしまう。\n\n「あれは#EMP クモ#!や#EMP 蛇#!の仲間になるんだ！もう戻ってはこないぞ、永遠に！」[other_child.GetFirstNameNoTooltip]は笑いながら叫ぶ。\n\n[other_child.GetFirstNameNoTooltip]は、あのかわいそうな[other_child.Custom('GirlBoy')]に、どうしてあんな意地悪ができるのだろう！？洞窟は気味の悪い生き物でいっぱいだが…でも#EMP 何とかしなければ！#!"
