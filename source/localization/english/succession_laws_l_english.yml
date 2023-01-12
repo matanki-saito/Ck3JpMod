@@ -60,7 +60,7 @@
  gaelic_elective_succession_law_effects:2 "[ruler|E]および[vassals|E]は、統治者の[dynasty|E]の中から[title_heir|E]（「タニスト」）を指名できます。ただし、選挙への参加が許される[vassals|E]は、[baron|E][rank|E]以上で、かつタニストの[title|E]から1つか2つ下の階級の[vassals|E]だけです。封臣たちは、[close_family|E]よりも年長で遠縁の者を好む傾向にあります。"
  saxon_elective_succession_law:1 "サクソン選挙制"
  saxon_elective_succession_law_subname:0 "賢人会議"
- saxon_elective_succession_law_effects:1 "直臣の中で最も[powerful_vassal|E]、[ruler|E]の[legitimate|E]な子供たち、及びその他の正当な[claimant|E]の中から、[title_heir|E]が選挙で指名されます。選挙に参加できるのは、[ruler|E]、および成人の封臣です。ただし、封臣は、[ruler|E]の[de_jure|E]の封臣で、かつ[ranks|E]が[ruler|E]の[title|E]から1つか2つ下の直臣でなければなりません。"
+ saxon_elective_succession_law_effects:1 "直臣の中で最も[powerful_vassal|E]、[ruler|E]の[legitimate|E]な子供たち、およびその他の正当な[claimant|E]の中から、[title_heir|E]が選挙で指名されます。選挙に参加できるのは、[ruler|E]、および成人の封臣です。ただし、封臣は、[ruler|E]の[de_jure|E]の封臣で、かつ[ranks|E]が[ruler|E]の[title|E]から1つか2つ下の直臣でなければなりません。"
  scandinavian_elective_succession_law:1 "スカンディナヴィア選挙制"
  scandinavian_elective_succession_law_subname:0 "ディング"
  scandinavian_elective_succession_law_effects:2 "[ruler|E]、およびすべての[de_jure|E]の[vassals|E]（男爵を除く）は、統治者の[extended_family|E]、および選択可能な[claimants|E]の中から、[title_heir|E]を指名できます。この[succession_law|E]における[voting_power|E]は、[elector|E]の[domain|E][county_development|E]の合計値と[capital|E][county_opinion|E]の影響を受けます。"
