@@ -149,7 +149,7 @@
  GOVERNMENT_RULE_INFO:0 "- $RULE|V$が可能"
  GOVERNMENT_HOLDING_INFO:0 "- [HOLDING_TYPE.GetName|V][holdings|E]を保有可能"
  GOVERNMENT_CLAN_NOT_ALLIED:0 "氏族の[vassal|E]として[alliance|E]しない"
- GOVERNMENT_CLAN_NOT_ALLIED_POWERFUL:0 "強大な氏族の[vassal|E]として[alliance|E]しない"
+ GOVERNMENT_CLAN_NOT_ALLIED_POWERFUL:0 "[alliance|E]していない氏族制の有力な[vassal|E]"
  government_can_raid_rule:0 "戦利品を目的とした他国の[counties|E]への[raiding|E]が可能である"
  SUPPLY_MULT_DIFERENT_GOVERNMENT:0 "[GOVERNMENT_TYPE.GetAdjective]の土地"
  CONTRACT_LIEGE_SIGNATURE:0 "主君、\n[VassalContract.GetLiege.GetHouse.GetBaseNameNoTooltip]家の\n[VassalContract.GetLiege.GetTitledFirstNameNoTooltip]"

@@ -156,7 +156,7 @@
  AI_MY_COURTIER_CHILD:0 "彼らの廷臣の子供: $VALUE|=+0$"
  AI_GUARDIANS_OWN_CHILD:0 "後見人自身の子供:$VALUE|=+0$"
  AI_FOREIGN_COURT:0 "国外の宮廷: $VALUE|=+0$"
- AI_CHILD_TO_FOREIGN_COURT:0 "子供を国外の宮廷へ送っている: $VALUE|=+0$"
+ AI_CHILD_TO_FOREIGN_COURT:0 "子供を国外の宮廷に送ることになる: $VALUE|=+0$"
  AI_YOUR_OWN_CHILD:0 "あなた自身の子供: $VALUE|=+0$"
  AI_EDUCATE_YOU:0 "あなたを教育している: $VALUE|=+0$"
  AI_YOUR_COURTIER_CHILD:0 "あなたの廷臣の子供: $VALUE|=+0$"

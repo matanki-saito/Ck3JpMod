@@ -829,7 +829,7 @@
  scarab_brooch.desc:0 "スカラベのような形をした繊細なブローチ。エメラルドの象眼は健康に有益な影響があると言われている。"
  easteregg_artifact_elisabeth_plush:0 "エリザベスの狐のぬいぐるみ"
  easteregg_artifact_elisabeth_plush_description:0 "エリザベスの狐のぬいぐるみは、彼女が人生の大半をともにした愛用の玩具だ。自分を雇う者のために複雑な暗号を編んでいる時などは、エリザベスはよくぬいぐるみに話しかけていた。これは、持ち主に狐の狡猾さを得たかのような心地よさと刺激をもたらすのだ。"
- child_toy_template_tt:0 "[inventory_artifact|E]を身につけるには、[child|E]でなければならない。"
+ child_toy_template_tt:0 "この[inventory_artifact|E]は[child|E]だけが身に着けられる。"
  improvised_halberd_desc:0 "この即席の斧槍には鉈鎌がついており、いざというときに便利な即席武器となっている。"
  improvised_dagger_desc:0 "農具を改造して作った即席の短剣で、手軽さと切れ味はそのままだ。"
  improvised_billhook_desc:0 "この片手鉈は、低木から枝を切るために使用される。王にはふさわしくないが、その湾曲した刃は鎧の割れ目を見つけるのに驚くほど優れている。"

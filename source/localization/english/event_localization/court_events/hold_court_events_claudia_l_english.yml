@@ -1,6 +1,6 @@
 ﻿l_english:
  hold_court.6000.t:0 "空の穀物倉"
- hold_court.6000.desc_intro:0 "私の前には[6000_poor.Custom2('MyCharacterIntroduction', ROOT.Char)]が頭を低く垂れて立っている。\n\n「我が[ROOT.Char.GetLadyLord]、[6000_province.GetNameNoTooltip]は最近の"
+ hold_court.6000.desc_intro:0 "目前に、頭を低く垂れた[6000_poor.Custom2('MyCharacterIntroduction', ROOT.Char)]が立っている。\n\n「我が[ROOT.Char.GetLadyLord]、[6000_province.GetNameNoTooltip]は最近の"
  hold_court.6000.desc_occupation:0 "敵の占領で大きな打撃を受けております。"
  hold_court.6000.desc_raiding:0 "襲撃と略奪で大きな打撃を受けております。"
  hold_court.6000.desc_epidemics:0 "伝染病で大きな打撃を受けております。"

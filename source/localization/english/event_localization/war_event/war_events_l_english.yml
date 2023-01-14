@@ -19,7 +19,7 @@
  war_event.2002.desc:0 "我々は残念ながらこの紛争の中で異なる陣営にいる。それは決して私の意図ではなく、私は軍隊を撤退させるだろう。"
  war_event.2002.a:0 "賢明な選択だ。"
  war_event.3001.t:0 "[war_owner.Custom2('AppropriateGreeting', ROOT.Char)]"
- war_event.3001.desc:0 "二年前、あなたは[war.GetName]で私を支援すると約束したが、これまでのところ何の支援もしてくれなかった。\n\nあなたが私を助けるために指さえ決して上げないならば、我々の同盟に何か意味があるのか？"
+ war_event.3001.desc:0 "二年前、あなたは[war.GetName]で私を支援すると約束したが、これまでのところ何の支援もしてくれなかった。\n\nあなたが私を助けるために指さえ決して上げないとするならば、我々の同盟に何か意味があるのか？"
  war_event.3001.a:0 "すぐに援軍を送ろう！"
  war_event.3001.a.tt:0 "12か月以内に[war_contribution|E]を獲得しなかった場合、[prestige_level|E]を失い、[war_owner.GetTitledFirstNameNoTooltip]との同盟関係を危険にさらすことになります！"
  war_event.3001.b:0 "この金の箱は私の不在を埋め合わせるはずだ..."

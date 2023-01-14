@@ -1,7 +1,7 @@
 ﻿l_english:
  FP2_BORDER_RAID_CB_NAME:0 "[DEFENDER.GetPrimaryTitle.GetNameNoTier]に対する[border_raid|E]"
  FP2_BORDER_RAID_CB_SPECIFIC_NAME:0 "[TITLE.GetBaseNameNoTier]の[border_raid|E]"
- FP2_BORDER_RAID_WAR_NAME:0 "第$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[TITLE.GetBaseNameNoTier][border_raid|E]"
+ FP2_BORDER_RAID_WAR_NAME:0 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjective]による[TITLE.GetBaseNameNoTier][border_raid|E]"
  FP2_BORDER_RAID_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  fp2_border_raid:0 "[border_raid|E]"
  border_raid_cb_desc_victory_attacker:0 "あなたは目標の[county|E]の[development|E]に応じた[gold|E]を獲得しますが、開発度は低下します。\n$border_raid_building_tt$\n$border_raid_warning_tt$"
@@ -16,7 +16,7 @@
  border_raid_message_title:0 "国境の伯爵領が略奪された"
  FP2_EXPEL_INTERLOPER_CB_NAME:0 "[DEFENDER.GetPrimaryTitle.GetNameNoTier]に対する[iberian_reclamation|E]"
  FP2_EXPEL_INTERLOPER_CB_SPECIFIC_NAME:0 "[TITLE.GetBaseNameNoTier]の[iberian_reclamation|E]"
- FP2_EXPEL_INTERLOPER_WAR_NAME:0 "第$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip]による[TITLE.GetBaseNameNoTier]の[iberian_reclamation|E]"
+ FP2_EXPEL_INTERLOPER_WAR_NAME:0 "$ORDER$[ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip]による[TITLE.GetBaseNameNoTier]の[iberian_reclamation|E]"
  FP2_EXPEL_INTERLOPER_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  iberian_reclamation_cb_victory_desc_attacker_vassalize:0 "あなたが[defender.GetShortUIName|U]を臣従させます"
  iberian_reclamation_cb_victory_desc_defender_vassalize:0 "[attacker.GetShortUIName|U]はあなたを臣従させます"

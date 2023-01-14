@@ -269,7 +269,7 @@
  hold_court_8090_interest_fallback:0 "\n\nこういった仕事は、#EMP 誰か#!が務め上げるべきだと思うのだが…"
  hold_court_8090_favorites_modifier:0 "お気に入りと遊ぶ"
  hold_court.8100.t:0 "宮廷の子供たち"
- hold_court.8100.desc.intro:1 "[ward.GetFullNameNicknamedPossessive]の悲しげな両の目に相対する。その目は、[ward.Custom2('RelationToMeShort', SCOPE.sC('advocate'))]の[advocate.GetTitledFirstName]によって優しく導かれ、玉座へと進み出るにつれてますます大きく一層哀れなものとなっていった。\n\n「[ROOT.Char.GetTitleAsNameNoTooltip]」[advocate.GetSheHe]は嘆く。「この[ward.Custom('GirlBoy')]は"
+ hold_court.8100.desc.intro:1 "[ward.GetFullNameNicknamedPossessive]の悲しげな両の目に相対する。[ward.Custom2('RelationToMeShort', SCOPE.sC('advocate'))]の[advocate.GetTitledFirstName]が優しく手を引いて、玉座へ歩み寄るにつれて、その目はますます大きく一層哀れなものとなっていった。\n\n「[ROOT.Char.GetTitleAsNameNoTooltip]」[advocate.GetSheHe]は嘆いた。「この[ward.Custom('GirlBoy')]は"
  hold_court.8100.desc.vassal:0 "[ward.GetLiege.GetFirstNamePossessive]の宮廷において、"
  hold_court.8100.desc.court:0 "あなたの宮廷において、"
  hold_court.8100.desc.body:0 "最愛の[ward.Custom('get_hold_court_8100_parent')]の[ward.Custom('get_hold_court_8100_situation')]以来、見守ってくれる者が誰もいない状況なのです——どうかこの子の将来に目を向けてやってくださいませ。」\n\n"
