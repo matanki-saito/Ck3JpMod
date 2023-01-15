@@ -181,7 +181,7 @@
  action_disabled_building_combined_group_name:1 "無効化された建造物"
  action_disabled_building_combined_group_description:2 "あなたの[holdings|E]内の複数の[buildings|E]が無効になっています。$action_disabled_building_HELP$"
  action_nominate_successor:0 "後継者の指名"
- action_nominate_successor_desc:4 "あなたは[landed_title.GetName]の[title_heir|E]に投票していません。\n\n#help [titles|E]の中には、直系の親族に引き継がれるのではなく、後継者が選ばれる選挙形式の[succession|E]を採用しているものもあります。理想的にはあなたの[realm_heirs|E]の一人か、[dynasty|E]のメンバーが良いですが、誰かには投票しなければなりません。#!"
+ action_nominate_successor_desc:4 "あなたは[landed_title.GetName]の[title_heir|E]に投票していません。\n\n#help [titles|E]の中には、直系の親族に引き継がれるのではなく、後継者が選ばれる選挙形式の[succession|E]を採用しているものもあります。理想的にはあなたの[realm_heirs|E]の一人か、[dynasty|E]のメンバーが良いですが、とにかく、誰かには投票しなければなりません。#!"
  action_nominate_successor_click:1 "#I クリックで選挙画面を表示#!"
  action_can_call_house_member:1 "家の一員に要請が可能です"
  action_can_call_house_member_combined_group_label:3 "家の一員に参戦要請できます"

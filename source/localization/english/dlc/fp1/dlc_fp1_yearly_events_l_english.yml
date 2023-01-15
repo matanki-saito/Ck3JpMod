@@ -511,7 +511,7 @@
  fp1_yearly.1063.desc.achievements.double.intro:0 "は、稀有な才能と多様な関心を持った人物であった。"
  fp1_yearly.1063.desc.achievements.double.connector:0 "そして"
  fp1_yearly.1063.desc.achievements.double.outro:0 "[ship_funeral_candidate.GetHerHis]の喪失が我々の人生に残す穴を埋めることはできない。」"
- fp1_yearly.1063.desc.achievements.triple.intro:0 "は多くの顔を持っていた。[ship_funeral_candidate.GetSheHe|U]は、"
+ fp1_yearly.1063.desc.achievements.triple.intro:0 "彼はそれは多くの顔を見せていた。[ship_funeral_candidate.GetSheHe|U]は、"
  fp1_yearly.1063.desc.achievements.triple.connector:0 "$fp1_yearly.1063.desc.achievements.double.connector$"
  fp1_yearly.1063.desc.achievements.triple.outro:2 "しかし私にとって何よりもまず、[ship_funeral_candidate.GetSheHe]は我が[ship_funeral_candidate.Custom2('RelationToMe', mourner)]であった。我々はもう二度と[ship_funeral_candidate.GetHerHis]のような人には会えないだろう。」"
  fp1_yearly.1063.desc.ship_stone_small:0 "\n\n私の後ろにある塚には重々しい墓の下で、すでに小さな船の複製が納められ、厚い墓石が重ねられ、玉石で満たされ、埋められている。"

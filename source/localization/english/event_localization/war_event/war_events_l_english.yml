@@ -29,7 +29,7 @@
  war_event.3002.desc.start:0 "あなたは兵士を送ると約束したにもかかわらず、戦場であなたの兵士を一人たりとも見たことがないのはどういうことでしょうか。"
  war_event.3002.desc.end.1:0 "このようなやり方で誓いを破るとは、あなたは自身とあなたの家族に不名誉をもたらしたのです。"
  war_event.3003.desc.end.2:0 "この不履行は、あなたへの信頼を大きく傷つけました、[ROOT.Char.GetTitledFirstName]。"
- war_event.3002.1.a:0 "結構だ。"
+ war_event.3002.1.a:0 "どうぞご勝手に。"
  war_event.3003.2.a:0 "次はもっと上手くやろう。"
  war_event.3003.2.b:0 "あるいは同盟を終わらせるべきかもしれない…？"
  war_event.neighbor_war.both_neighbors.t:0 "隣国の戦争が終結"
