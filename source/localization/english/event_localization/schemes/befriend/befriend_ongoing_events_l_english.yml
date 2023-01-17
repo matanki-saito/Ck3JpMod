@@ -252,7 +252,7 @@
  befriend_ongoing.5007.diplomacy:0 "宮廷の礼儀作法や伝統に則った会話ができるほどには、独学を積むことができるだろう。"
  befriend_ongoing.5007.intrigue:0 "秘密に秘められた力についての会話ができるほどには、独学を積むことができるだろう。ありとあらゆる秘密について。"
  befriend_ongoing.5007.stewardship:0 "領国の様々な封建契約の複雑さについての会話ができるほどには、独学を積むことができるだろう。"
- befriend_ongoing.5007.learning:0 "魂の形而上学的な性質についての会話ができるほどには、独学を積むことができるだろう。"
+ befriend_ongoing.5007.learning:0 "魂の形而上学的な性質についての会話ができるほどには、自己研鑽できるだろう。"
  befriend_ongoing.5007.a:0 "余裕がある限り、研究するに値する主題だ。"
  befriend_ongoing.5007.a.success:0 "あなたは新たな見識を得る"
  befriend_ongoing.5007.a.failure:0 "研究の仕方が間違っていた"

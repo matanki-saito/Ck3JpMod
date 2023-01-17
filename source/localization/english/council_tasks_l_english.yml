@@ -201,7 +201,7 @@
  SCALED_COUNCILLOR_STEWARDSHIP_VALUE:2 "[councillor.GetCouncilTitle][councillor.GetShortUINamePossessive]の[stewardship_skill|E]"
  STEWARD_PROGRESS_BASE:0 "基本"
  DEVELOP_COUNTY_PERK_BONUS_VALUE:1 "$planned_cultivation_perk_name$"
- STEWARD_PROMOTE_CULTURE_COMMUNAL_IDENTITY_BONUS_MODIFIER:2 "[councillor_liege.GetFaith.GetName] —— 共同体の独自性"
+ STEWARD_PROMOTE_CULTURE_COMMUNAL_IDENTITY_BONUS_MODIFIER:2 "[councillor_liege.GetFaith.GetName] —— 共同体の同一性"
  STEWARD_PROMOTE_CULTURE_INNOVATION_BONUS_EAST_SETTLING:1 "[councillor_liege.GetCulture.GetName] —— 東方植民"
  STEWARD_PROMOTE_CULTURE_LOCAL_TRADITIONS_RESPECTED:1 "地元の伝統が尊重された"
  STEWARD_PROMOTE_CULTURE_SHUUBIYYA:0 "シュウービーヤ運動"
