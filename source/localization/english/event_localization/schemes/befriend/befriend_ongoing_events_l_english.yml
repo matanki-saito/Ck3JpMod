@@ -351,7 +351,7 @@
  befriend_ongoing.9102.desc:1 "最近、[owner.GetFirstName]はまるで一つのことしかことしか考えられないのではないかと思われるようだ。[target.GetSheHe|U]は[target.GetFirstNamePossessive]の信頼を得ることに完全に傾倒していることから、私は[owner.GetHerHim]を助けることを決めた。\n\n[owner.GetFirstNameNoTooltip]は私の洞察を受け取ると興奮し、[owner.GetSheHe]は私の親切な行為を忘れないだろうと主張した。"
  befriend_ongoing.9102.a:0 "友人とはこういうものではないだろうか？"
  befriend_ongoing.9103.t:0 "親善: 恐るべき誤解"
- befriend_ongoing.9103.vassal.desc:0 "私は[target.GetTitledFirstName]を驚かせることを期待し[target.GetHerHis]の名誉のために素晴らしい饗宴を準備していたのだが、[target.GetSheHe]はぎりぎりの土壇場で参加を辞退することを決めた。\n\nどうやら[target.GetSheHe]は私のサプライズが、実際は[target.GetHerHim]の暗殺の陰謀の一部だと思っていたようだ！"
+ befriend_ongoing.9103.vassal.desc:0 "[target.GetTitledFirstName]を驚かそうと、その名誉を讃える素晴らしい饗宴を準備していた。それなのに、[target.GetSheHe]はぎりぎりの土壇場で参加の辞退を決めてしまった。\n\nどうやら私のサプライズを、はっきり言ってしまえば、[target.GetHerHim]を暗殺する陰謀の一環だと思っていたようだ！"
  befriend_ongoing.9103.ruler.desc:1 "私は最近、[target.GetTitledFirstNamePossessive]の宮廷に使節を送り、[ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]の富と力を詳しく語ることで、[target.GetHerHis]の尊敬を得ることを望んでいる。\n\nしかし、使者の報告を聞いていると、[target.GetHerHim]の印象はかなり違っていたようだ。[target.GetSheHe|U]は、[target.GetSheHe]が私に服従しない限り、私が[target.GetHerHis]の[target.GetPrimaryTitle.GetNameNoTierNoTooltip]を侵略すると脅していると思っているようだ！"
  befriend_ongoing.9103.a:0 "[target.GetHerHim]には、[target.GetSheHe]が何を望んでいるかを考えさせよう。"
  befriend_ongoing.9103.b:0 "謝罪が必要なのかもしれない。"
