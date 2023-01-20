@@ -36,7 +36,7 @@
  claim_throne_ongoing.1008.c.tt:0 "あなたは代わりに時間をより賢く使います。"
  claim_throne_ongoing.1009.t:0 "見破られた嘘"
  claim_throne_ongoing.1009.desc:0 "[fraud_catcher.GetTitledFirstName]は、私の最近の文書が単なる偽造であり、その中の主張はどれも真実ではないと主張して、[fraud_catcher.GetHerselfHimself]の名声を高めようとしているようだ。\n\nさらに悪いことに、[target.GetTitledFirstName]はその全ての言葉を信じているのだ！見破られてしまったのか？"
- claim_throne_ongoing.1009.a:0 "これはテストだ、君は全て失敗したな。"
+ claim_throne_ongoing.1009.a:0 "これは腕試しだったのだ。君は全て失敗したな。"
  claim_throne_ongoing.1009.b:0 "私が嘘をついたなどと、よくもまあ非難できたものだな？"
  claim_throne_ongoing.1009.b.duel_success:0 "説得力のある主張を展開する"
  tooltip.claim_throne_ongoing.1009.b.duel_success:0 "みんな騙されている"

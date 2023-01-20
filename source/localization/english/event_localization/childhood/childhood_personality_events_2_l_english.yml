@@ -182,7 +182,7 @@
  child_personality.7100.c:0 "包帯を取りに行かないと、すぐに！"
  child_personality.7101.t:0 "$child_personality.7100.t$"
  child_personality.7101.desc:0 "[ROOT.Char.Custom('CulturalCurse')|U]め！あの忌々しいガキども、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetFirstName]と[child.GetHerHis]の友人の[other_child.GetFirstName,]が武器庫に忍び込んで捕まった、彼らは武器が危険なものだということもわからないのか！？\n\n"
- child_personality.honest.desc:0 "[other_child.GetFirstNameNoTooltip]は武器で自身を傷つけてしまったが、幸いにも[child.GetFirstNameNoTooltip]が外に飛び出して近くの大人を捕まえ、自分たちがやったことをすべて認めた。\n\n[child.GetFirstNameNoTooltip]は本当に取り乱しているようだ、[child.GetSheHe]は二度と不正を行うことはないだろう。"
+ child_personality.honest.desc:0 "[other_child.GetFirstNameNoTooltip]は武器で自身を傷つけてしまったが、幸いにも[child.GetFirstNameNoTooltip]が外に飛び出して近くの大人を捕まえ、自分たちがやったことをすべて認めた。\n\n[child.GetFirstNameNoTooltip]は本当に取り乱しているようだ。[child.GetSheHe]が二度と不正を行うことはないだろう。"
  child_personality.arbitrary.desc:0 "召使いの一人が、その現場を押さえた。[other_child.GetFirstNameNoTooltip]は床で泣きながら血を流しており、その間、[child.GetFirstNameNoTooltip]はただ、[child.GetHerHis]が盗んだ[child.Custom('signature_weapon')]で遊び続けていた…\n\nおそらく、[child.GetFirstNameNoTooltip]は#EMP 「[other_child.GetFirstNameNoTooltip]が失敗したからといって遊びを止めるのは嫌だった」#!のだろうが、あの[child.Custom('GirlBoy')]はこれからどうなるのだろう…"
  child_personality.impatient.desc:0 "[child.GetFirstNameNoTooltip]は、自身を傷つけてしまった[other_child.GetFirstNameNoTooltip]のために包帯を探していたところ近くにあった鎧を倒してしまい、召使いに捕らえられた。\n\nどうやら[child.GetFirstNameNoTooltip]は、軽率で無知な計画が大好きなようだ…"
  child_personality.7101.honest:0 "自分のしたことをちゃんと認めたのは良かった。"

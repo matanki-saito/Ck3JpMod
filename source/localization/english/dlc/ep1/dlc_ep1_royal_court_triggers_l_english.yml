@@ -12,6 +12,6 @@
  GLOBAL_CULTURE_AGE_IS:0 "[culture|E]が$NUM|V0$年経っている"
  GLOBAL_CULTURE_AGE_IS_NOT:0 "[culture|E]が$NUM|V0$年経って#bold いない#!"
  CULTURE_AGE_IS_AT_LEAST:0 "[CULTURE.GetName|U]が$NUM|V0$年以上経っている"
- CULTURE_AGE_IS_LESS_THAN:0 "[CULTURE.GetName|U]が$NUM|V0$年未満"
+ CULTURE_AGE_IS_LESS_THAN:0 "[CULTURE.GetName|U]成立から$NUM|V0$年を未だ経過していない"
  GLOBAL_CULTURE_AGE_IS_AT_LEAST:0 "[culture|E]が$NUM|V0$年以上経っている"
- GLOBAL_CULTURE_AGE_IS_LESS_THAN:0 "[culture|E]が$NUM|V0$年未満"
+ GLOBAL_CULTURE_AGE_IS_LESS_THAN:0 "[culture|E]成立から$NUM|V0$年を未だ経過していない"
