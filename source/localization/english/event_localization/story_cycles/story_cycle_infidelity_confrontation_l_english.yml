@@ -50,7 +50,7 @@
  infidelity_confrontation.1011.apologetic_start.desc:0 "涙が[infidelity_partner.GetFirstNamePossessive]の頬を流れる。それは後悔の涙なのか、あるいは恐怖なのか？\n\n「どうか、許してください。お願いです！終わらせます、もちろんそうします、愚かな間違いだった——それだけです！誓います！」"
  infidelity_confrontation.1012.apologetic_start.desc:0 "私がまくしたてる間も、[infidelity_partner.GetFirstName]はじっと黙ったままだ。その頬を涙が伝い落ちる。しかし、ようやく[infidelity_partner.GetSheHe]が口にした言葉は、私の予想だにしないものだった。\n\n"
  infidelity_confrontation.1012.apologetic_imprisonment.desc:0 "「申し訳ありませんが、それはできません。私は[infidelity_partners_lover.GetFirstName]への気持ちを否定するくらいなら、地下牢で残された時間を過ごしたいと思っています。それほど私を憎んでいるのなら——私が苦しむ姿を見たいのなら——そうすればいいのです。」"
- infidelity_confrontation.1012.apologetic_break_up.desc:0 "「傷つけるつもりはなかったのです、本当にごめんなさい。でも、[infidelity_partners_lover.GetFirstName]への気持ちは否定できないのです。私たちが持っているもの——それにかなうものは他に何もありません。あなたでさえも。」"
+ infidelity_confrontation.1012.apologetic_break_up.desc:0 "「傷つけるつもりはなかったのです。本当にごめんなさい。でも、[infidelity_partners_lover.GetFirstName]への気持ちは否定できないのです。私たちが持っているもの——それにかなうものは他に何もありません。あなたでさえも。」"
  infidelity_confrontation.1012.unapologetic_imprisonment.desc:0 "[ROOT.Char.GetFirstNameNoTooltip]？あなたとまた一緒にいるくらいなら、残りの人生を地下牢で過ごすほうがマシです！」"
  infidelity_confrontation.1012.unapologetic_break_up.desc:0 "[ROOT.Char.GetFirstNameNoTooltip]？あなたはずっと愚か者でした。ありがとう、私の目をひらいてくれて。今なら、あなたのことがよくわかります！」"
  infidelity_confrontation.1012.a:0 "いいだろう！好きにすればいい！[infidelity_partner.Custom('InsultAdjective')][infidelity_partner.Custom('InsultNounSexual')]め！"

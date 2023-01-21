@@ -31,7 +31,7 @@
  global_culture.3003.desc:0 "我々は、ノース人の祖先が故郷と呼んだ土地から遠く離れているが、ネウストリアの地こそが、我々の国である。我が民族の指導者として、将来の繁栄を保証するのは私の責任である。我々が繁栄していく為には、新しい環境に適応しなければならない。我々は、肥沃な土地を利用してきた先人から学ばなければならない。\n\nこの政令によって、我々は一族の利益のために我々の生き方を変えていく。我々は自分達こそ、ここに住まう民族として新しい道を切り開いていくのだ。"
  global_culture.3003.a:0 "今日から我々は自分達の事をノルマンと呼ぶ事にするのだ。"
  global_culture.3005.t:0 "$global_culture.3002.t$"
- global_culture.3005.desc:0 "スカンディナビア出身のノルド人入植者の一団が、フランス北部の海岸に定住し、そこに新しい故郷を作った。\n\n彼らのリーダーである[norman_founder.GetTitledFirstName]は、[norman_founder.GetHerHis]の民がこの新しい土地で成功するために、いくつかの地元の習慣や伝統を取り入れるように命じた。"
+ global_culture.3005.desc:0 "スカンディナビア出身のノルド人入植者の一団が、フランス北部の海岸に定住し、そこに新しい故郷を作った。\n\n彼らのリーダーである[norman_founder.GetTitledFirstName]は、[norman_founder.GetHerHis]の民がこの新しい土地で成功するために、いくつかの地元の風習や伝統を取り入れるように命じた。"
  global_culture.3005.a:0 "これはこの地にとって何を意味するのか？"
  global_culture.3011.t:0 "[sicilian.GetNameNoTooltip]文化の伝播"
  global_culture.3011.desc:0 "南イタリアとシチリア島の人々は折衷主義的に混住することで、数々の影響を受けいれた独自の文化を生み出した。\n\n今では明らかに[county_to_change.GetName]の人々は、もはや[old_culture.GetName]としてではなく、生来の[sicilian.GetCollectiveNoun]として自分たちを見ている!"

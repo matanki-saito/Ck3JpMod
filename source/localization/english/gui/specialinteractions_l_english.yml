@@ -114,7 +114,7 @@
  EDUCATION_HOOK:0 "[hook|e]を使う"
  MARRIAGE_HOOK:0 "[hook|e]を使う"
  MARRIAGE_MATRILINEAL_TOGGLE:0 "婿養子"
- MARRIAGE_MATRILINEAL_TOGGLE_TOOLTIP:0 "#T 母系結婚への変更#!\nもし私たちが必要と感じるならば、私たちは[matrilineal|E]を条件とするだろう"
+ MARRIAGE_MATRILINEAL_TOGGLE_TOOLTIP:0 "#T 母系結婚への変更#!\nもし必要を感じるならば、[matrilineal|E]を条件にできます"
  MARRIAGE_SPOUSE_COUNCILLOR_BOOST_HEIR:0 "[recipient.GetShortUIName|U]は私の後継者の良い噂を聞いた: $VALUE|+=0$"
  MARRIAGE_SPOUSE_COUNCILLOR_BOOST_CHILD:0 "[recipient.GetShortUIName|U]は私の子供の良い噂を聞いた: $VALUE|+=0$"
  wishes_well_for_lovers_tooltip:0 "[recipient.GetShortUIName|U]は愛人同士の幸せを願っている: $VALUE|=+0$"

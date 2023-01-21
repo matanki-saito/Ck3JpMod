@@ -192,7 +192,7 @@
  east_europe.0034.c:0 "これは何という低劣な異教だ！？"
  east_europe.0034.d:0 "私には関係がなく、私の問題でもない。"
  east_europe.0015.tooltip:0 "所領が[special_building|E]である[GetBuilding('hall_of_heroes_01').GetName]を得ます"
- east_europe.0011.desc:0 "[slav_uniter.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は不可能を可能にした――[slav_uniter.GetSheHe]はすべてのスラブ民族を一つの旗のもとに統一させた。この巨大な帝国は繁栄を続けるのか、それとも古い確執や習慣によって引き裂かれてしまうのか？それは[ROOT.Char.GetFaith.FateGodName]だけが知っている。"
+ east_europe.0011.desc:0 "[slav_uniter.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は不可能を可能にした――[slav_uniter.GetSheHe]はすべてのスラブ民族を一つの旗のもとに統一させた。この広大なる帝国は繁栄を続けるのか、それとも古き確執と風習によって引き裂かれてしまうのか？それは[ROOT.Char.GetFaith.FateGodName]のみぞ知る。"
  east_europe.0200.t:0 "リヴォニアの[founder.GetTitleAsNameNoTooltip]"
  east_europe.0200.desc.christian:1 "バルト諸国は何世紀にもわたって原始的で未開の地であり、単にさまざまな異端的信仰や悪魔崇拝者の本拠地であったに過ぎない。リヴォニアの[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]の[founder.GetTitleAsNameNoTooltip]の戴冠式で、[founder.GetFaith.HighGodName]の力がこの湿った極寒の土地を温めているのだ。\n\n[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]がバルト諸国で成功するという使命を持って、私は自由にリヴォニアを宣言することができる。それはつまり[founder.GetFaith.random_GoodGodNames]の言葉を広めるという私たちの共通の使命をもとにバルト諸国のすべてを団結させる称号である。"
  east_europe.0200.desc.nonchristian:1 "バルト人は何世紀もの間、自分たちの民族のための王国を欠いており、ヴァイキングが私たちの沿岸の村を荒らし、遠い国からの外国人宣教師が我々を原始的で未開の地と名付けたが――今はもうない。バラバラのバルト海の人々は今リヴォニアの王冠の前に一緒にひざまずくのだ。\n\n私の[founder.GetTitleAsNameNoTooltip]としての戴冠式により、[founder.GetCulture.GetName]の人々だけでなく、海岸線に並ぶすべてのバルト人にとって黄金時代の到来を告げる。"

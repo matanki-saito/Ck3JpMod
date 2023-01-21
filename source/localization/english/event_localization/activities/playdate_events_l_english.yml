@@ -153,7 +153,7 @@
  playdate.9002.a:0 "[host.GetFirstNameNoTooltip]よさらば！"
  playdate.4001.t:0 "$playdate_header$ 言葉の壁"
  playdate.4001.desc.rowdy:0 "「#EMP 退屈(dull)#!じゃない、#EMP 可愛い(doll)#!って言ったんだ！うわ！」[participant.GetTitledFirstName]は明らかに我々の言葉の壁に煽られている。両手を上に上げ、今にも癇癪を起こしそうな様子だ。"
- playdate.4001.desc.pensive:0 "「ごめんなさい…#EMP 住処#!。彼女は海外の束縛ではなく、謙虚な住処に戻るのです。[participant.GetHerHis]のしっかりした礼儀作法にもかかわらず、[participant.GetTitledFirstNamePossessive]はイライラして眉をひそめている。"
+ playdate.4001.desc.pensive:0 "「申し訳ない…#EMP 住処#!。彼女は異国の束縛ではなく、つましい住処に戻るのです」[participant.GetHerHis]のしっかりした礼儀作法にもかかわらず、[participant.GetTitledFirstNamePossessive]はいらいらして眉をひそめている。"
  playdate.4001.desc:0 "\n\n[ROOT.Char.GetCulture.GetLanguage.GetName]と[participant.GetCulture.GetLanguage.GetName]は、共通点よりも相違点の方が多いようで、それゆえ、我々は互いに話すことに苦労している。\n\n怒らずに一緒に遊べるように何かできるかもしれないが、あるいは自然に解決することを祈るしかないのだろうか？"
  playdate.4001.a:0 "ゆっくり、大きな声で話そう！それならきっと大丈夫だ！"
  playdate.4001.b:0 "私は[participant.GetFirstNameNoTooltip]に[participant.GetCulture.GetLanguage.GetName]を教えてもらえばいいのかも？"

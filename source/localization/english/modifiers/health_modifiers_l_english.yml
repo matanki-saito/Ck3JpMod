@@ -14,7 +14,7 @@
  risky_disease_treatment_success_low_modifier:0 "病気の症状が劇的に軽減"
  risky_disease_treatment_success_low_modifier_desc:0 "治療が大成功したため、この人物の病気の症状が軽減されています。"
  risky_disease_treatment_failure_modifier:0 "病気の医療過誤"
- risky_disease_treatment_failure_modifier_desc:0 "悲惨な治療により、このキャラクターの病気の症状が悪化しています。"
+ risky_disease_treatment_failure_modifier_desc:0 "悲惨な治療により、この人物の病気の症状が悪化しています。"
  safe_wound_treatment_success_high_modifier:0 "傷の治療に成功"
  safe_wound_treatment_success_high_modifier_desc:0 "治療の成功により、この人物の傷の症状が軽減されています。"
  safe_wound_treatment_success_low_modifier:0 "傷の治療に成功"
