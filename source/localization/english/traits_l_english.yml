@@ -266,7 +266,7 @@
  trait_vengeful_desc:0 "この人物は、受けた侮辱や不義理を働いた人のことをよく覚えている。"
  trait_vengeful_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は些細なことや、[ROOT.GetCharacter.GetHerHim]に不義理を働いた人のことを忘れたりするのが遅い。"
  trait_forgiving:0 "寛容"
- trait_forgiving_desc:0 "この人物はたいていの出来事から次へと進むのが早い。"
+ trait_forgiving_desc:0 "この人物は、たいていの出来事から吹っ切れるのが早い。"
  trait_forgiving_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]はたいていの出来事から次へと進むのが早い。"
  trait_rowdy:0 "悪童"
  trait_rowdy_desc:1 "この子はいつもはしゃいでいて、元気いっぱいでいたずら好きだ。何かを企んだときには、他の子が怪我をすることも珍しくない。"

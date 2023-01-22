@@ -128,7 +128,7 @@
  grant_titles_interaction_notification_effect_3:1 "あなたの[vassal|E][recipient.GetShortUINameNotMe]は、現在[loc_title.GetBaseName]およびその他[titles|E]の称号を保持している"
  revoke_title:0 "称号を剥奪"
  revoke_title_interaction:0 "称号を剥奪"
- revoke_title_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]から[title|E]を奪います\n\n@warning_icon!#weak 剥奪の理由がない限り[tyranny|E]が発生する可能性があります#!"
+ revoke_title_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]から[title|E]を奪います\n\n@warning_icon!#weak 剥奪の理由がない限り[tyranny|E]に陥る可能性があります#!"
  revoke_title_interaction_extra_icon:0 "$hook_extra_icon$"
  GRANT_REVOKE_TITLES_NEW_DOMAIN_LABEL:0 "新たな直轄領の規模:"
  GRANT_REVOKE_TITLE_NEW_DOMAIN_SIZE:0 "#T 新たな[domain|E]の規模: $SIZE$/[CHARACTER.GetDomainLimit] [holdings|E]#!"
