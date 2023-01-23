@@ -713,7 +713,7 @@
  marriage_interaction.0010.mid.c_desc:0 "\n\n私は丁重に手を取り、あなたの[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))]の[secondary_actor.GetFirstName]と神聖なる結婚をします。"
  marriage_interaction.0010.mid.c_no_acquaintance_desc:0 "\n\n私は優雅にあなたの廷臣[secondary_actor.GetFirstName]の手を取って聖なる結婚をします。"
  marriage_interaction.0010.mid.d_desc:0 "\n\nあなたの[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))][secondary_actor.GetFirstName]は、私の[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))][secondary_recipient.GetFirstName]と婚約します。"
- marriage_interaction.0010.mid.e_desc:0 "\n\n私の[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.GetFirstName]と婚約します。"
+ marriage_interaction.0010.mid.e_desc:0 "\n\nあなたは、私の[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.GetFirstName]と婚約します。"
  marriage_interaction.0010.mid.f_desc:0 "\n\nあなたの[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))]の[secondary_actor.GetFirstName]と、その時が来たら喜んで手を握ります。"
  marriage_interaction.0010.ending.a_desc:0 "\n\n[recipient.GetFaith.HighGodName]が彼らに長寿と多くの子供を与えんことを!"
  marriage_interaction.0010.ending.b_desc:0 "\n\n彼らの結婚は[recipient.GetFaith.FertilityGodName]に祝福されるでしょう！"

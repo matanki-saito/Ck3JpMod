@@ -4,7 +4,7 @@
  ep1_culture_legacy_1_name:0 "語学生"
  ep1_culture_legacy_2_name:0 "敏腕の通訳"
  ep1_culture_legacy_3_name:0 "意思疎通"
- ep1_culture_legacy_4_name:0 "聞こえ高き家法"
+ ep1_culture_legacy_4_name:0 "伝統の尊重"
  ep1_culture_legacy_5_name:0 "共存共栄"
  legacy_additional_language_effect:0 "追加で#V 1#![language|E]をペナルティなしで習得可能です"
  legacy_cultural_acceptance_from_language_schemes_effect:0 "[GetScheme('learn_language').GetTypeName][schemes|E]を完了すると[cultural_acceptance|E]が#P 1%#!上昇する"

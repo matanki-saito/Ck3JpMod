@@ -1323,7 +1323,7 @@
  game_concept_claimant_faction:0 "$claimant_faction$"
  game_concept_claimant_faction_desc:1 "$game_concept_claimant_faction$は自らの[liege|E]が保有する[title|E]に特定の[claimant|E]を据えようとします。成功した場合、君主は請求者に対してその称号を譲り渡さねばならず、[vassal|E]の主従関係もそれに応じて再構成されます。全ての[faction|E]参加者は請求者に対する[hook|E]を得ます。"
  game_concept_peasant_faction:0 "$peasant_faction$"
- game_concept_peasant_faction_desc:2 "$game_concept_peasant_faction$は低い[county_opinion|E]の[counties|E]によって定着されます。他の[factions|E]とは異なり、これは[faction_military_power|E]が低い場合でも決起します。農民どもは一般的に文盲で楽観的であるためです…農民反乱が成功した場合、[realm|E]の支配値が大幅に低下します。"
+ game_concept_peasant_faction_desc:2 "$game_concept_peasant_faction$は低い[county_opinion|E]の[counties|E]によって生成されます。他の[factions|E]とは異なり、これは[faction_military_power|E]が低い場合でも決起します。農民たちは一般に文盲で楽観的であるためです……農民反乱が成功した場合、[realm|E]の支配値が大幅に低下します。"
  game_concept_popular_faction:0 "$populist_faction$"
  game_concept_popular_faction_desc:0 "$game_concept_popular_faction$は、[culture|E]や[faith|E]といった共通項を持ち、かつ[county_opinion|E]が低い[counties|E]が存在することで発生します。この派閥は、自由を求めて自らと文化や信仰を同じくする新しい[ruler|E]を据えようとします。この種の反乱は多くの場合、大変危険です。"
  game_concept_buy_claim:0 "$buy_claim_interaction$"

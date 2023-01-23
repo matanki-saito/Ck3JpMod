@@ -1,6 +1,6 @@
 ﻿l_english:
  bell_special_yearly.1000.t:0 "[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の鐘"
- bell_special_yearly.1000.desc:0 "我が[steward.GetCouncilTitle]である[steward.GetFirstName]は、近くにあち廃墟となっている西ゴート時代の教会を調査するよう提案している。\n\n樽型アーチの天井と馬蹄形のアーチの中に、かつては美しかった鐘楼があり、舌を失った鐘がいくつか残っている。\n\n私が廃墟の中を歩き回っていると、蹄の音が聞こえてきた。穴から覗くと、[faction_member_1.GetTitledFirstName]が近づいているのが見える。あるいは、[faction_member_1.GetSheHe]はここが彼の裏切り者たちの派閥の隠れ家になると考えるのではないだろうか？"
+ bell_special_yearly.1000.desc:0 "我が[steward.GetCouncilTitle]である[steward.GetFirstName]は、近くにあち廃墟となっている西ゴート時代の教会を調査するよう提案している。\n\n樽型アーチの天井と馬蹄形のアーチの中に、かつては美しかった鐘楼があり、舌を失った鐘がいくつか残っている。\n\n私が廃墟の中を歩き回っていると、蹄の音が聞こえてきた。穴から覗くと、[faction_member_1.GetTitledFirstName]が近づいているのが見える。あるいは、[faction_member_1.GetSheHe]はここが彼の裏切り者たちの派閥の隠れ家になると考えているのではないだろうか？"
  bell_special_yearly.1000.a:0 "誰も見ていない中で[faction_member_1.GetHerHim]を殺すことができるかも！"
  bell_special_yearly.1000.a.tt:0 "あなたは[faction_member_1.GetTitledFirstName]に忍び寄り、[faction_member_1.GetHerHim]を殺そうとします"
  bell_special_yearly.1000.b:0 "静かにそっとこの場を離れるべきだな。"

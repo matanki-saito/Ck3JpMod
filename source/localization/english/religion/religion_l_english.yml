@@ -647,7 +647,7 @@
  special_doctrine_is_jewish_faith_name:0 "モーセの教え"
  special_doctrine_is_jewish_faith_desc:0 "俗人全てが罪の中に暮らしているわけではない。神に選ばれし人々を尊崇する彼らこそ、我らの尊敬に値する者達である。"
  doctrine_parameter_hostility_override_tenet_jewish_syncretism:3 "$tenet_jewish_syncretism_name$の信条を持つ非ユダヤ教の[faiths|E]は$hostility_evil_tooltippable$ではなく[GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]とみなされます"
- TOO_FEW_SPOUSES_PIETY:0 "過少な配偶者"
+ TOO_FEW_SPOUSES_PIETY:0 "配偶者が少なすぎます"
  CRUSADER_STATE_CRUSADER_TITLE_NAME:1 "十字軍の[target_kingdom.GetNameNoTierNoTooltip]"
  CRUSADER_STATE_FAITH_TITLE_NAME:1 "[title_recipient.GetFaith.GetAdjective|U][target_kingdom.GetNameNoTierNoTooltip|U]"
  religion_the_gods:0 "神々"
