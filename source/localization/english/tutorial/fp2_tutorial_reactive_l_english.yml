@@ -4,7 +4,7 @@
  action_reactive_advice_struggle_desc:1 "闘争への参加が可能です。ここを開いてあなたにとってどういう意味を持つのかをより詳しく学びましょう。"
  action_reactive_advice_struggle_click:0 "$click_to_open_lesson$"
  lessons_struggle_introduction:0 "闘争"
- lessons_struggle_introduction_desc:0 "今やあなたは[struggle|E]の真っ只中にいます！\n\n[struggle_struggles|E]とは、とある[region|E]を舞台にした長きにわたる戦乱のことで、関与する者全ての行いによって領域が塗り替わっていくものです。そして異なった複数の[struggle_phase_phases|E]が定められています。この地方における状況の移り変わりは、[war|E]、[faith|E]、[culture|E]による影響を受けます。\n\n究極的には、[struggle|E]を如何に終わらせるかを決め得るただ一人とならんがために、全関与者が競い合います。そして、その地方の全関与者が影響を受けるのです。"
+ lessons_struggle_introduction_desc:0 "今やあなたは[struggle|E]の真っ只中にいます！\n\n[struggle_struggles|E]とは、とある[region|E]を舞台にした長きにわたる戦乱のことで、関与する者全ての行いによって領域が塗り替わっていくものです。そして異なった複数の[struggle_phase_phases|E]が定められています。この地方における状況の移り変わりは、[war|E]、[faith|E]、[culture|E]による影響を受けます。\n\n最終的には、[struggle|E]をいかに終わらせるかを決め得るただ一人とならんがために、すべての関与者が競い合います。そして、その地方のすべての関与者が影響を受けるのです。"
  lessons_struggle_region_open:0 "闘争地方"
  lessons_struggle_region_open_desc:1 "[struggle_region|E]は、新しく引かれた境界線内に示されていて、闘争アイコン上にカーソルを置くとその境界線がハイライトされます。この地方に土地を持つ人物だけが[struggle|E]に参加することになります。\n\n#TUT この地方の外にいる[characters|E]も[struggle|E]への関与が可能です。それには、この[struggle_region|E]の内部に領土を確保した上で、そこに[capital|E]を移動させる必要があります。#!"
  lessons_struggle_view_open:0 "闘争ビューへのアクセス"

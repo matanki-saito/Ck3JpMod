@@ -420,7 +420,7 @@
  bp1_yearly.8060.t:0 "我が意のまま"
  bp1_yearly.8060.opening:0 "私は、[primary_combat_winner.GetPrimaryTitle.GetAdjectiveNoTooltip]と[primary_combat_loser.GetPrimaryTitle.GetAdjectiveNoTooltip]の死体が散乱した[combat_location.GetNameNoTooltip]の[combat_location.GetTerrain.GetNameNoTooltip|l]をしばらく眺め、足かせをはめられた捕虜のほうに目を向けた。\n\n"
  bp1_yearly.8060.desc.nemesis:0 "[captured_rival.GetTitledFirstName]、あの忌々しい[ROOT.Char.GetFaith.NegativeAfterLife]の[captured_rival.Custom('InsultNoun')]がようやく我が手の中にある！長い間、私は我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('captured_rival'))]を辱めを与えることを夢見てきたのだ…"
- bp1_yearly.8060.desc.war_leader:0 "ついに我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('captured_rival'))]、[captured_rival.GetTitledFirstName]は我が手の中にあり、我々の戦争における勝利は、今やほぼ確実なものとなっている…\n\n「君に従う」[captured_rival.GetSheHe|U]は唸るように言う。「私を解放すれば、君は望みのものを手に入れることができる。」"
+ bp1_yearly.8060.desc.war_leader:0 "ついに我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('captured_rival'))]、[captured_rival.GetTitledFirstName]は我が手中となった。我らが戦争における勝利は、今やほぼ確実なものとなっている…\n\n「降参だ」[captured_rival.GetSheHe|U]は唸るように言う。「解放すれば、望みのものを手に出来よう。」"
  bp1_yearly.8060.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('captured_rival'))]、[captured_rival.GetTitledFirstName]は不機嫌そうに私を睨みつけ、それが私の心の底を温めていく。"
  bp1_yearly.8060.closing.multi:0 "\n\n[captured_rival.GetHerHim]後ろには、悪辣な[captured_rival_2.GetTitledFirstName]がイライラした様子で跪いている。"
  bp1_yearly.8060.closing.ransom:0 "\n\n[captured_rival.GetSheHe|U]はひどく興奮した様子で叫ぶ。「私には身代金の合意がある！」"

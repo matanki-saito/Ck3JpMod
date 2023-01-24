@@ -62,7 +62,7 @@
  reactive_advice_looming_game_over_desc:5 "なんということでしょう！あなたには[player_heir|E]がいないようです。もし今、あなたが死んでしまえばそこで[game_over|E]です。 — ではそれを回避することにしましょう！\n\n#TUT このような状況になった場合、恐らくあなたは王朝の最後の一人となっています。やるべきことは一つです — [legitimate|E]後継者を作りましょう！\n\nもしあなたが片方の性でしか相続が許可されない制度の下にいるのでしたら、[gender_law|E]を制限の少ないものに変更してみては如何でしょうか。何人かの[bastards|E]がいるのでしたら、今こそ彼らを認知する時です！\n\n他の方法としては[fertility|E]の高いキャラクターと[married|E]するのも良いでしょう (経験則ではありますが、45歳を超えた女性が妊娠することは稀です)。これも上手くいきそうにない場合は[spouse|E]を[divorce|E]するか[GetScheme('murder').GetTypeName]して他の誰かと再婚するか、あるいは[GetScheme('seduce').GetTypeName][scheme|E]を使って私生児を作りましょう。\n\n残された時間は限られています。不要なリスクは避けましょう！#!"
  reactive_advice_bankruptcy:0 "$reactive_advice_bankruptcy_step_1$"
  action_reactive_advice_bankruptcy:0 "$open_tutorial_lesson$$reactive_advice_bankruptcy_step_1$"
- action_reactive_advice_bankruptcy_desc:0 "あなたは[gold_i]ゴールドを持っていません。現在、借金をしている状態にあります!\nここを開いて借金の概要を掴み、如何にこの状態を抜け出すか学びましょう。"
+ action_reactive_advice_bankruptcy_desc:0 "あなたは[gold_i]ゴールドを持っていません。現在、借金をしている状態にあります！\nここを開いて借金の概要をつかみ、いかにこの状態を抜け出すかを学びましょう。"
  action_reactive_advice_bankruptcy_click:0 "$click_to_open_lesson$"
  reactive_advice_bankruptcy_step_1:0 "借金"
  reactive_advice_bankruptcy_desc:2 "あなたは[gold_i][gold|E]を使い果たしてしまいました。これは非常に良くありません。費用を削減し、可能な限り国庫を満たすように努めねばなりません！\n\n#TUT [debt|E]の状態にある時、[wars|E]の宣言や[men_at_arms|E]の増強など多くの事が出来なくなり、[county_corruption|E]を引き起こします。制御不能な負債の山に埋もれないようにしましょう！\n\n最も効果の明らかな対策は現在進行中の[wars|E]の幾つかを終わらせることです。平和な状態であれば[armies|E]の維持費を払う必要はありません。大量の資金を失っているのであれば、幾つかの常備軍の解散も選択肢に入ることになるでしょう。\n\n[faith|E]がそれを許可するのであれば、[head_of_faith|E]に対して#TUT_KW $hof_ask_for_gold_interaction$#![interaction|E]を実行するか、#TUT_KW $borrow_from_holy_order_decision$#!の決断の実行が選択肢になります。\n\nそれが可能な状態にあるならば$stewardship_wealth_focus_short$[focus|E]に切り替えるのも良いアイデアです。#!"
