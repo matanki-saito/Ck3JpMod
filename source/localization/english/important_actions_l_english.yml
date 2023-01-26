@@ -369,7 +369,7 @@
  action_upgrade_tribal_holding_type_label:0 "[landed_title.GetNameNoTier]を封建化すべきです"
  action_upgrade_tribal_holding_type_desc:0 "$action_upgrade_tribal_holding_type_combined_group_description$"
  action_upgrade_tribal_holding_type_click:1 "#I クリックして$game_concept_holding$を選択#!"
- action_upgrade_tribal_holding_type_HELP:0 "\n\n#help $game_concept_tribal$$game_concept_holdings$は$game_concept_tribal$[government|E]の[rulers|E]にとっては非常に便利ですが、他の人にとっては適切に統治できるものではありません。しかし、[gold|E]を地元の部族の改革に投資することで、[holding_type|E]を$game_concept_castle$に恒久的に変更することができ、誰でも統治できるようになります！#!"
+ action_upgrade_tribal_holding_type_HELP:0 "\n\n#help $game_concept_tribal$$game_concept_holdings$は$game_concept_tribal$[government|E]の[rulers|E]にとっては非常に便利ですが、他の[rulers|E]にとっては適切に統治できるものではありません。しかし、[gold|E]を地元の部族の改革に投資することで、[holding_type|E]を$game_concept_castle$へと永久に変更することができ、誰でも統治できるようになります！「部族領の封建化」（塔のアイコン）をクリックしてください。#!"
  CALL_TO_WAR_HELP:1 "\n\n#help 他の[rulers|E]を戦争に参加させた方が勝利の可能性が高くなりますが、参加する[ally|E]ごとに[prestige|E]を消費しなければならないことに注意してください。[dynasty|E]のメンバーへの参戦要請には[dynasty_prestige|E]が必要ですが、[house|E]のメンバーはコストなしで参戦してくれます——あなたの要請を受け入れればですが。#!"
  action_has_any_display_cb_on_HELP:0 "\n\n#help 自分の軍や[allies|E]が敵よりも強い場合、戦争は非常に有益なものになります。[titles|E]を奪い[realm|E]を広げ[prestige_experience|E]を獲得できます。\n\nしかし、戦争にはコストがかかり、特に[defeat|E]を飲む必要に迫られれば一段と嵩んでしまいます。野心的な隣人は、あなたの領国が弱体化する隙を狙っているかもしれないのです。#!"
  action_primary_heir_wrong_dynasty_no_replacement_exists:0 "$action_primary_heir_wrong_dynasty_but_replacement_exists$"

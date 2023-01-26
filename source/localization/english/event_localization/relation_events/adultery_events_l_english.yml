@@ -68,7 +68,7 @@
  adultery.1002.t:0 "這いよる疑惑"
  adultery.1002.desc_paranoid:1 "「その子は本当は私の子じゃないとわかっている！」私の[spouse.Custom('WifeHusbandPossessive')]の目は非難と共に大きく見開かれている。「誰なのだ？」[adultery_spouse.GetSheHe]が主張する。「誰だ？」"
  adultery.1002.desc_chaste:0 "「あなたが産む子は本当に私の子なのか？」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))]は尋ねる。「あなたの献身は理解している…一人の[spouse.GetWomanMan]として…何よりも[spouse.GetFaith.HighGodName]に対して。」"
- adultery.1002.desc_craven:0 "「そ…その子は本当に私の子なのか？」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]は答えを恐れているように見える。"
+ adultery.1002.desc_craven:0 "「そ……その子は本当に私の子なのか？」わが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]は回答を恐れているように見える。"
  adultery.1002.desc_vengeful:0 "「あなたが抱いている子は本当に私の子なのか？」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]は尋ねる。「私は[adultery_spouse.GetFaith.HighGodName]に誓おう、もし私に嘘をついたら…」"
  adultery.1002.desc_compassionate:0 "「あなたが抱いている子は本当に私の子なのか？」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]は尋ねる。「あなたが何をしたにせよ、私は苦しんでほしくはない…」"
  adultery.1002.worried:0 "「教えてくれ、それは本当に私の子か？」[adultery_spouse.GetTitledFirstName]はひどく取り乱しているようだ。[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('adultery_spouse'))]の目は心配そうに私を見つめている。"

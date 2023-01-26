@@ -240,7 +240,7 @@
  hunt.5001.b:0 "なぜ他人の考えを気にしなければならないのか？"
  hunt.5001.c:0 "「おい、あそこにあるのは何だ！？」"
  hunt.5001.c.success:0 "[hunting_courtier.GetTitledFirstNameNoTooltip]は本の中に出てくる最も古いトリックに騙される"
- hunt.5002.desc:0 "この狩りの旅は、今のところあまり成果がない。完全に諦めている一団もあれば、せっかくの天気の良い日に外で過ごそうとしている一団もあるようだ。だが…私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hunting_courtier'))][hunting_courtier.GetFirstName]は一体何をしているのだろう？[hunting_courtier.GetSheHe|U]は地面にしゃがみ込み、楽しそうに鼻歌を歌っているのだ。\n\n「我が[ROOT.Char.GetLadyLord|U]、ご覧ください！ここには、役に立つ薬草や花々がたくさんあるのです！これは痛みを和らげ、これは折れた[hunting_courtier.Custom('RandomSaintBone')|l]の回復を助け、これは[hunting_courtier.Custom('RandomDisease')|l]を防ぐと言われているものです…」\n\n[hunting_courtier.GetSheHe|U]は獲物を探す代わりに、[hunting_courtier.GetSheHe]が集めた植物についてしゃべり続けている。"
+ hunt.5002.desc:0 "この狩りの旅は、今のところあまり成果がない。完全に諦めている一団もあれば、せっかくの天気の良い日に外で過ごそうとしている一団もあるようだ。だが…私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hunting_courtier'))][hunting_courtier.GetFirstName]は一体何をしているのだろう？[hunting_courtier.GetSheHe|U]は地面にしゃがみ込み、楽しそうに鼻歌を歌っているのだ。\n\n「我が[ROOT.Char.GetLadyLord|U]、ご覧ください！ここには、役に立つ薬草や花々がたくさんあるのです！これは痛みを和らげ、これは折れた[hunting_courtier.Custom('RandomSaintBone')|l]の回復を助け、またこれはある病気さえも防ぐと言われております……その[hunting_courtier.Custom('RandomDisease')|l]」\n\n[hunting_courtier.GetSheHe|U]は獲物を探す代わりに、[hunting_courtier.GetSheHe]が集めた植物についてしゃべり続けている。"
  hunt.5002.a:0 "馬に戻れ、[hunting_courtier.GetFirstNameNoTooltip]…"
  hunt.5002.b:0 "魅力的だ！#EMP あの#!花はどうだ？"
  hunt.5002.c:0 "お、お前は魔術を実践しているのか…？"

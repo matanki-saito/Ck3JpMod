@@ -74,7 +74,7 @@
  practiced_manners_modifier:0 "礼儀作法の指導"
  practiced_manners_modifier_desc:0 "この人物の礼儀作法は非の打ち所がない"
  cheaper_men_at_arms_modifier:0 "常備軍のための交渉"
- cheaper_men_at_arms_modifier_desc:0 "熟練した交渉により、常備軍の維持費はより低いものとなります"
+ cheaper_men_at_arms_modifier_desc:0 "熟練した交渉により、常備軍の維持費はより低いものとなる。"
  less_building_time_modifier:0 "活力あふれる労働者"
  less_building_time_modifier_desc:0 "この所領の建設労働者はやる気に満ちています"
  less_building_cost_modifier:0 "有益な取引"

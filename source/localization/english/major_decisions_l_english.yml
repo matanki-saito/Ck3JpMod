@@ -17,7 +17,7 @@
  major_decisions.1102.a.dislike:0 "[founder.GetTitleAsNameNoTooltip]万歳…"
  major_decisions.1102.has_become_royal:0 "[founder.GetFirstName]は[new_title.GetNameNoTier]の[founder.GetTitleAsNameNoTooltip]になりました"
  major_decisions.1103.opening_kingdoms:0 "朕、他の何びとたりとも成し得ぬことを全うせり。朕はここに、[kingdom_1.GetNameNoTierNoTooltip]を、[kingdom_2.GetNameNoTierNoTooltip]及び[kingdom_3.GetNameNoTierNoTooltip]と合邦せしめたり。"
- major_decisions.1103.opening:0 "――全封臣と[ROOT.Char.GetFaith.PriestNeuterPlural]は、ついには我が玉座の前に集まった。我はこの瞬間を彼らに、そして何よりも[ROOT.Char.GetFaith.PantheonTerm]に目撃させたのである。"
+ major_decisions.1103.opening:0 "――全封臣と[ROOT.Char.GetFaith.PriestNeuterPlural]は、いよいよ我が玉座の前に集まった。我はこの瞬間を彼らに、そして何よりも[ROOT.Char.GetFaith.PantheonTerm]に目撃させたのである。"
  major_decisions.1103.i_am_religious_head:0 "\n\n我が自らの手で戴冠するのは当然のことだ。我がしもべたちが、俗界と聖界のいずれもが、我に頭を垂れるのだから。"
  major_decisions.1103.blessed_by_religious_head:0 "\n\n[religious_figure.GetTitledFirstName]が我が頭上に戴冠したとき、我は新たなる帝国の創設を宣言した。我がしもべたる家臣たちはここで生き証人となるのだ。そして宣言が我が口唇から発せられるや、我が領国の全権力は、俗界も聖界も問わず我の前に跪いている。"
  major_decisions.1103.a:0 "[new_title.GetNameNoTierNoTooltip]は頂点に君臨する！"

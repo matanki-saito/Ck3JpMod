@@ -344,7 +344,7 @@
  msg_court_position_removed_desc:0 "[LEFT_CHARACTER.GetShortUIName]はもうあなたに[COURT_POSITION_TYPE.GetNameNoTooltip]として雇用されていません"
  msg_court_position_invalidated_employee:1 "[COURT_POSITION_TYPE.GetNameNoTooltip]の職を失った"
  msg_court_position_invalidated_employee_desc:0 "[LEFT_CHARACTER.GetShortUIName]はもはやあなたを[COURT_POSITION_TYPE.GetNameNoTooltip]として雇用できません"
- msg_court_position_invalidated_employer:1 "[COURT_POSITION_TYPE.GetNameNoTooltip]は役職を辞した"
+ msg_court_position_invalidated_employer:1 "[COURT_POSITION_TYPE.GetNameNoTooltip]の役職は空席となった"
  msg_court_position_invalidated_employer_desc:0 "[LEFT_CHARACTER.GetShortUIName]はもはやあなたの[COURT_POSITION_TYPE.GetNameNoTooltip]ではありません"
  msg_becomes_obese:1 "肥満になった"
  msg_becomes_obese_desc:0 "あなたは[GetModifier( 'obese_modifier' ).GetNameWithTooltip]になりました"

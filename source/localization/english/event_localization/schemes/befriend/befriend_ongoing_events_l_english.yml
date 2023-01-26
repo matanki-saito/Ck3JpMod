@@ -362,7 +362,7 @@
  befriend_ongoing.9104.c:0 "純潔な血が私の信念を示すだろう！"
  befriend_ongoing.9104.d:0 "[owner.GetFaith.HighGodNamePossessive]の愛のための私の痛み！"
  befriend_ongoing.9104.e:0 "もし私が[target.GetHerHis]の祭壇の上にいたらどうだ？"
- befriend_ongoing.9104.e.tt:0 "#F 私は[target.GetTitledFirstName]と聖餐式に参加します#!"
+ befriend_ongoing.9104.e.tt:0 "#F 私は[target.GetTitledFirstName]と聖体礼拝に参加します#!"
  befriend_ongoing.9104.f:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('scoped_mate') )]が[target.GetHerHis]の渇きを癒しますように！"
  befriend_ongoing.9104.f.tt:0 "#F [scoped_mate.GetFirstName]が私に代わって[target.GetTitledFirstName]を仲介するでしょう#!"
  befriend_ongoing.9104.g:0 "[target.GetFaith.HouseOfWorship]に身を捧げる。"

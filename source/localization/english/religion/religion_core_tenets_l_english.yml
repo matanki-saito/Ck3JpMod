@@ -1,6 +1,6 @@
 ﻿l_english:
  doctrine_core_tenets_name:1 "信条"
- tenet_communion_name:0 "聖餐"
+ tenet_communion_name:0 "聖体礼拝"
  tenet_communion_desc:0 "我々の儀式は単なる象徴的なものではない——神の存在そのものを呼び起こすものである。実際に我々の儀式に参加できない、あるいは参加しない人々は、真の信者ではない。"
  doctrine_parameter_seek_indulgences_active:1 "[head_of_faith|E]に[gold|E]を支払って#V 贖宥状を求める#!ことで、[piety|E]を入手できます"
  doctrine_parameter_seek_indulgences_active_2:0 "[criminal|E]な行動を犯してしまった人物は、#V 贖宥状を求める#!ことで赦しを得られます"
@@ -257,7 +257,7 @@
  doctrine_parameter_easier_to_convert_faith_in_mountains:0 "山地[terrain|E]における[convert_county|E]速度: #P +[EmptyScope.ScriptValue('easier_to_convert_faith_in_mountains_bonus_loc_control')|0]%#!"
  doctrine_parameter_easier_to_convert_culture_in_same_faith_mountains:0 "同[faith|E]の山地[terrain|E]における[promote_culture|E]速度: #P +[EmptyScope.ScriptValue('promote_culture_easier_to_convert_culture_in_same_faith_mountains_bonus_loc_control')|0]%#!"
  doctrine_parameter_harder_to_convert_faith_away_in_mountains:0 "山地[terrain|E]における敵対的な[convert_county|E]速度: #P [EmptyScope.ScriptValue('harder_to_convert_faith_away_in_mountains_malus_loc_control')|0]%#!"
- tenet_rite_name:0 "儀礼"
+ tenet_rite_name:0 "慣行儀礼"
  tenet_rite_desc:0 "我々の信仰は母なる宗派とそれほど大きな違いはない...教義の主要な点、そして最も重要な、裁定のための究極の権威が一致しているのに、なぜ詳細なところで揉めなければならない？"
  doctrine_parameter_maintains_head_of_faith_on_creation:0 "新たな[faiths|E]は創設時に古い[head_of_faith|E]を保持します"
  doctrine_parameter_ecumenical_christians_keep_ecumenism:0 "[GetPlayer.Custom('GetRiteEcumenismFullOrEmpty')]"

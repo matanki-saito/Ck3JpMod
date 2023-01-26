@@ -92,7 +92,7 @@
  get_skull_artifact:0 "あなたが頭蓋骨の[court_artifact|E]を獲得します"
  court.0112.t:0 "衣装部屋の死体"
  court.0112.desc:1 "私は、どんな素晴らしい生地が奥に眠っているのかと、自分の輝かしい衣装部屋の奥深くにまで足を踏み入れていることに気がついた。そこで他のものよりもはるかに重い格子柄のかばんを見つけ、それを切り開くと、腐敗した死体の強烈な悪臭が鼻孔を刺激し、私は後ろ向きに倒れた。\n\n見知らぬ死体が、一部は腐敗してミイラ化し、[corpse.GetHerHis]自身の体液の中に座って、私に向かってゆっくりと口を開いているのだ。\n\n私が赤ん坊のように叫ぶと、それに呼び寄せられるように[guilty_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が入口に現れ、[guilty_courtier.GetHerHis]は自責と嫌悪を知り尽くしたような表情を浮かべている。\n\n「我が[ROOT.Char.GetLadyLord]、私自身を守るためだった、という言葉をどうか信じていただきたい！[corpse.GetSheHe|U]はあなたの部屋に侵入し、もし私が行動しなければ、[corpse.GetName]は私を殺していたか、あるいは[guilty_courtier.GetFaith.HighGodName]のみぞ知ることになっていたでしょう！」\n\n[guilty_courtier.GetNameNoTooltip]は、明らかに悲しみに打ちひしがれているので、[guilty_courtier.GetSheHe]は対決することなく、すぐに私に告白してきたのだろう。「お願いです、見て見ぬふりをしてください、そうすれば、私が最も裕福な[ROOT.Char.GetTitleAsNameNoTooltip]も青ざめるような衣服を仕上げてあげますよ。」"
- court.0112.a:0 "この身体のような緑か？良い取引だ。"
+ court.0112.a:0 "この屍のような緑か？買い得だ。"
  court.0112.a.tt:0 "あなたがレガリアの宝物を獲得します"
  court.0112.b:0 "すぐに[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]のすべてが、お前がしたことを知ることになる！"
  court.0112.c:0 "このことは二度と口にしないようにしよう。"

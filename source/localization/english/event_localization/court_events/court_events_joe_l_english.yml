@@ -178,7 +178,7 @@
  court.8110.t:0 "断頭台の上に"
  court.8110.desc.intro:0 "我が[my_executioner.Custom('quirk_neg_adjective')]$executioner_court_position$、[my_executioner.GetTitledFirstName]は、宮殿を当てもなく歩き回り、駄々をこねる子供の繊細さで[my_executioner.Custom('quirk_neg_pp')]。\n\nついに私は、宮廷でのこのような残念な姿が許せなくなり、強く尋ねる。「一体#EMP どうした#!んだ！？」\n\n[my_executioner.GetSheHe|U]はぎょっとしたようだが、すぐに答える。「我が[ROOT.Char.GetLadyLord]、お許しください、ただ、ここ数週間、良い殺し方ができていないのです…」\n\n「さて、"
  court.8110.desc.leader_1:0 "あの憎むべき扇動者である[prisoner_1.GetTitledFirstName]は、"
- court.8110.desc.heretic:0 "あの騒々しい異端者である[prisoner_1.GetTitledFirstName]は、"
+ court.8110.desc.heretic:0 "あの鉄面皮の異端者たる[prisoner_1.GetTitledFirstName]は、"
  court.8110.desc.heathen:0 "あの腐った異教徒である[prisoner_1.GetTitledFirstName]は、"
  court.8110.desc.infidel:0 "あの神をも恐れぬ不信心者である[prisoner_1.GetTitledFirstName]は、"
  court.8110.desc.noble:0 "あの哀れな悪魔である[prisoner_1.GetTitledFirstName]は、"

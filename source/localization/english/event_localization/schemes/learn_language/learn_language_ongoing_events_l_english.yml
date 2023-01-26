@@ -62,7 +62,7 @@
  learn_language_ongoing.1070.b:0 "お前らは私を笑いものにするのか？#EMP 全員鞭打ちの刑だ。#!"
  learn_language_ongoing.1070.c:0 "まぁある意味、これ#EMP は#!教育的なのだろう…"
  erotic_novel_connoisseur_modifier:0 "官能小説の玄人"
- lauded_loud_reader_modifier:0 "称賛された大声の朗読者"
+ lauded_loud_reader_modifier:0 "称えられし大声の朗読者"
  lauded_loud_reader_modifier_desc:0 "この人物は「興味深い」大声の朗読で宮廷を楽しませた。"
  learn_language_ongoing.1080.t:1 "$learn_language$: 知識を授けた"
  learn_language_ongoing.1080.desc:5 "我が宮廷教師[court_tutor.GetFirstName]は[scheme.GetTarget.GetCulture.GetLanguage.GetName]を習得しようとする私の努力に一日中力を貸してれる。\n\n教育に関する[court_tutor.GetHerHis|U]の献身はひらめきに富んでいた――読み物としての[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]の手紙、会話相手としての博識な[scheme.GetTarget.GetCulture.GetNameNoTooltip]の[ROOT.Char.GetWomanMan]、秀逸な覚え歌と私に持ち込まれない日は無かった。\n\n本当に、[court_tutor.GetFirstNamePossessiveNoTooltip]の助けなしではここまで来ることはできなかっただろう。"
