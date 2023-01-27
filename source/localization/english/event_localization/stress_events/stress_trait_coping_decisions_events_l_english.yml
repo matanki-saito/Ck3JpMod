@@ -1,7 +1,7 @@
 ﻿l_english:
  stress_trait_coping_decisions.1001.t:0 "ストレス解消: 飲もう！"
  stress_trait_coping_decisions.1001.desc:0 "もう一杯で、肩の荷が下りる。#EMP これこそが#!余暇の過ごし方で、禁酒は苦痛なのだ。"
- stress_trait_coping_decisions.1001.a:0 "私は– #EMP ﾋｯｸ#! とっても気分が良い！"
+ stress_trait_coping_decisions.1001.a:0 "私は――#EMP ﾋｯｸ#! もうすっかり気分が良い！"
  stress_trait_coping_decisions.1002.t:0 "ストレス解消: 飲み友達！"
  stress_trait_coping_decisions.1002.desc:0 "「どうも！[ROOT.Char.GetFirstNameNoTooltip]！」\n\n突然、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fellow_drunkard'))]である[fellow_drunkard.GetTitledFirstName]がカップを片手に私の横に座った。どうやら[fellow_drunkard.GetSheHe]もまた酒場でくつろいでいるようで、我々は一晩、一緒に飲みながら過ごした。こんなにリラックスできたのは#EMP 数ヶ月#!ぶりだ！"
  stress_trait_coping_decisions.1002.a:0 "飲もう、我が友よ！"

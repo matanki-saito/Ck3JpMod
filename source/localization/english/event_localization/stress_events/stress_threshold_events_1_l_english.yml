@@ -365,7 +365,7 @@
  stress_threshold.3411.l:0 "そうだ！私は退位するぞ！"
  stress_threshold.3411.l.list:0 "あなたを憎んでいないすべての[vassal|E]"
  stress_threshold.3411.l.tt:0 "あなたの[titles|E]に対するすべての[claims|E]が[pressed|E]ものになります"
- stress_threshold.3421.t:0 "精神崩壊: 放蕩の支配地"
+ stress_threshold.3421.t:0 "精神崩壊: 放蕩の支配するところ"
  stress_threshold.3421.desc.intro:0 "「我が主君」従僕は嘆願する「何とかしていただけませんか？[burning_holding.GetNameNoTier]が燃えております！助けを送らなければなりません！」\n\n"
  stress_threshold.3421.desc.lustful:0 "私は背伸びをすると、両手を若く美しい肉体に自然に触れさせた。後ろの呻きと喘ぎ声の合唱は、来訪者をまったく気にしていない様子だ。"
  stress_threshold.3421.desc.gluttonous:0 "私は食べ物を口に押し込み続ける、気まずい数分が経過し、一人饗宴を中断する、使者は明確な指示なしに帰るつもりがないことがわかった。"
