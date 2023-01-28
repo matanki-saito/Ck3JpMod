@@ -1,6 +1,6 @@
 ﻿l_english:
  doctrine_core_tenets_name:1 "信条"
- tenet_communion_name:0 "聖体礼拝"
+ tenet_communion_name:0 "聖餐"
  tenet_communion_desc:0 "我々の儀式は単なる象徴的なものではない——神の存在そのものを呼び起こすものである。実際に我々の儀式に参加できない、あるいは参加しない人々は、真の信者ではない。"
  doctrine_parameter_seek_indulgences_active:1 "[head_of_faith|E]に[gold|E]を支払って#V 贖宥状を求める#!ことで、[piety|E]を入手できます"
  doctrine_parameter_seek_indulgences_active_2:0 "[criminal|E]な行動を犯してしまった人物は、#V 贖宥状を求める#!ことで赦しを得られます"
