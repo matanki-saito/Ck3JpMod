@@ -5,7 +5,7 @@
  stress_threshold_special.1001.desc_intro_friend:0 "友人である[deceased_character.GetFirstName]はいつも私のそばにいてくれた。 [deceased_character.GetHerHis]の死を簡単受け入れられるとは思っていなかったが、こんなに大変だとは 想像もしていなかった。"
  stress_threshold_special.1001.desc_spouse:0 "[deceased_character.GetSheHe|U]は私の人生のパートナーであり、多くの試練や試練を乗り越える手助けをしてくれた。意見の相違はあったかもしれないが、[deceased_character.GetHerHim]のいない人生に直面するのは…大変なことだと感じている。\n\n[deceased_character.GetHerHim]なしでどうやってやっていけばいいだろう？"
  stress_threshold_special.1001.desc_child_toddler:0 "まだまだ若く、人生と可能性に満ち溢れていた。今は、完全にまだ…\n\nずっと動かない。もう二度と笑うことも泣くこともない。"
- stress_threshold_special.1001.desc_child_older:0 "今でも赤ん坊だった頃の[deceased_character.GetHerHim]を覚えている。とても小さく、とても壊れやすかった。にもかかわらず、[deceased_character.GetSheHe]は生き、成長し、年を重ねた…今までは。[deceased_character.GetSheHe]は突然止まってしまった。\n\n私は[deceased_character.GetHerHis]の将来にとても多くのことを期待した…見たいと思っていた多くのものが、今や決して実現できないものとなってしまった。"
+ stress_threshold_special.1001.desc_child_older:0 "今でも赤ん坊であった頃の[deceased_character.GetHerHim]を覚えている。とても小さく、とても脆かった。にもかかわらず、[deceased_character.GetSheHe]は生き延び、成長し、年を重ねた……今し方までは。[deceased_character.GetSheHe]は突如として事切れてしまった。\n\n私は[deceased_character.GetHerHis]の将来にとても多くのことを期待した……見たいと思っていた多くのものが、今や決して成就し得ないものとなった。"
  stress_threshold_special.1001.desc_parent:0 "最終的にはそうならざるを得ないことは分かっていたが、私は[ROOT.Char.Custom2('RelationToMe', deceased_character)]の死のに対する準備ができていなかったことに気づいている。\n\n突然、私はもはや[deceased_character.GetHerHim]に慰めや助言を求めることはできなくなったのだ。\n\n昔それらがあった場所はただ空っぽになっていて…そこを埋めることはできるのだろうか？"
  stress_threshold_special.1001.desc_lover:1 "毎日毎日が戦いであり、私は[deceased_character.GetHerHis]がいなくなった中に意味を見出そうともがいている。一緒に過ごした素敵な時間が頭から離れない…\n\nこれ以上のものは決してないだろう。"
  stress_threshold_special.1001.desc_friend:0 "\n\n[deceased_character.GetSheHe|U]はいつも私を励ましてくれたし、私が窮地に陥っても助けてくれた。最近の私の悩みの中で、[deceased_character.GetHerHis]がいなくなってしまったことは特に大きなものだ。"

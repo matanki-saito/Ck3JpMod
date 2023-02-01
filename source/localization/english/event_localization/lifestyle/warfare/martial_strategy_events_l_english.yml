@@ -107,7 +107,7 @@
  martial_strategy_special.1301.t:0 "包囲下にて"
  martial_strategy_special.1301.desc:1 "「すべての兵士の真の敵は自己満足です。」[siege_proposer.Custom2('MyCharacterIntroduction', ROOT.Char)]は[siege_proposer.Custom('quirk_pos_pp')]前に言う。我々は私の[ROOT.Char.Custom('FortifiedBuilding')]の壁の上に並んで立ち、下で訓練をしている兵士たちを見下ろしている。\n\n[ROOT.Char.Custom('FortifiedBuilding')]の門を厚い木板に交換して、軍勢の矢筒の矢を和らげることができるでしょう。」[siege_proposer.GetSheHe]は続ける。「兵士を率いて[ROOT.Char.Custom('FortifiedBuilding')]に対し模擬の突撃をしてみてください、そして、彼らがどのように行動しているかを見てみましょう！」"
  martial_strategy_special.1301.a:0 "我々の時間は防衛の改善に費やした方が良い。"
- martial_strategy_special.1301.b:0 "いい考えだ。あなたは防衛側を率いるべきだ！"
+ martial_strategy_special.1301.b:0 "いい考えだ。お前は守り手を率いるべきだ！"
  martial_strategy_special.1301.b.tt:0 "#F 演習を始めよう！#!"
  martial_strategy_special.1302.t:1 "$martial_strategy_special.1301.t$: 最初の突撃"
  martial_strategy_special.13.a.tt:0 "#F より高い報酬をもたらす可能性のあるリスクの高いアプローチ。#!"

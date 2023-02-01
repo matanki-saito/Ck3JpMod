@@ -1,8 +1,8 @@
 ﻿l_english:
  befriend_outcome.1001.t:0 "親善: 夜のお出かけ"
- befriend_outcome.1001.desc:0 "[target.GetTitledFirstName]が[barony.GetNameNoTier]の[barony.Custom('BaronyTownType')]にある荘園に客人として訪れることを知り、[target.GetHerHim]に会う絶好の機会だと気づいた。\n\n"
+ befriend_outcome.1001.desc:0 "[target.GetTitledFirstName]が[barony.GetNameNoTier]の[barony.Custom('BaronyTownType')]にある荘園に客人として訪れることを知り、[target.GetHerHim]に会う絶好の機会であると悟った。\n\n"
  befriend_outcome.1002.t:0 "親善: 舞踏会の席で"
- befriend_outcome.1002.desc:0 "[target.GetTitledFirstName]が[barony.GetNameNoTier]の[barony.Custom('BaronyTownType')]での舞踏会に参加することを知り、[target.GetHerHim]と顔を合わせて時を過ごす絶好の機会だと判断した。\n\n"
+ befriend_outcome.1002.desc:0 "[target.GetTitledFirstName]が[barony.GetNameNoTier]の[barony.Custom('BaronyTownType')]での舞踏会に参加することを知り、[target.GetHerHim]と顔を合わせて時を過ごす絶好の機会であると判断した。\n\n"
  befriend_outcome.1201.t:0 "親善: 公式な会談"
  befriend_outcome.1201.desc:0 "これまでの我々の意見の相違にもかかわらず、[target.GetTitledFirstNamePossessive]の顧問は、意見の相違を解消して不和から離れる機会として会談を提案している。\n\n"
  befriend_outcome.1301.t:0 "親善: 地所"

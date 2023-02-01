@@ -55,7 +55,7 @@
  yearly.5008.a:0 "だが今回は、私が犠牲者を選ぼう！"
  yearly.5008.b:0 "いや、私はこのゲームにはうんざりしてきた。"
  yearly.5009.desc:0 "提案は却下された"
- yearly.5010.t:0 "情け深い不協和音"
+ yearly.5010.t:0 "心優しき仲違い"
  yearly.5010.desc:0 "私の苦難に心を動かされた[bickering_vassal_1.GetTitledFirstName]は、私の義務の重荷を軽減することを願い、何度も私に[bickering_vassal_1.GetHerHis]の助言と援助を提供している。\n\nしかし、[bickering_vassal_1.GetFirstNamePossessiveNoTooltip]の注意は、[bickering_vassal_2.GetTitledFirstName]の怒りを招くことになった。「[bickering_vassal_1.GetFirstNameNoTooltip]は信用できません！これはあなたを利用するための策略に過ぎないのです、我が主君。」"
  yearly.5010.a:0 "私はそれに値する者だけに信頼を置くだろう。"
  yearly.5010.b:0 "我ら三人の共通点を見つけることは出来ないのだろうか？"

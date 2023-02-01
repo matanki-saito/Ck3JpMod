@@ -550,7 +550,7 @@
  convert_to_religion_interaction_desc:0 "[recipient.GetShortUINamePossessiveNoTooltip]の[faith|E]に改宗します\n#weak ([actor.GetFaith.GetName]から[recipient.GetFaith.GetName]へ) #!"
  convert_at_war_interaction:0 "$convert_to_religion_interaction$"
  convert_at_war_interaction_desc:0 "[holy_war|E]を終了するため[recipient.GetShortUINamePossessiveNoTooltip][faith|E]に改宗します\n#weak ([actor.GetFaith.GetName]から[recipient.GetFaith.GetName]へ)#!"
- CONVERT_AT_WAR_INTERACTION_NOTIFICATION:0 "やっとあなたの[recipient.GetFaith.HighGodName]の力強さがわかりました。腕を下ろしてください、そうすれば[recipient.GetFaith.GetNameNoTooltip]に改宗します。"
+ CONVERT_AT_WAR_INTERACTION_NOTIFICATION:0 "やっとあなたの[recipient.GetFaith.HighGodName]の力強さがわかりました。武器を下ろしてください、そうすれば[recipient.GetFaith.GetNameNoTooltip]に改宗します。"
  is_head_of_religion:0 "[CHARACTER.GetSheHe]は[CHARACTER.GetHerHis][faith|E]の宗教上のトップなので、[CHARACTER.GetShortUIName|U]は改宗しないだろう。"
  TEST_INTERACTION_NOT_IMPLEMENTED:0 "テスト関係行動 — 実行できません(N/A)"
  offer_vassalization_true_ruler_perk_tt:0 "あなたは[GetPerk( 'true_ruler_perk' ).GetName( GetPlayer )]を持っている: $VALUE|=+0$"
