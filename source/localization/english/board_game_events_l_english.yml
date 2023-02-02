@@ -228,7 +228,7 @@
  bg_gamepiece_counters:0 "カウンター"
  bg_gamepiece_pieces:0 "駒"
  bg_gamedecider_cowrie:0 "タカラガイ"
- bg_gamedecider_die:0 "賽子"
+ bg_gamedecider_die:0 "賽(さい)"
  bg_gamedecider_quill:0 "採点用のペン"
  bg_randomdirection_northern:0 "北方"
  bg_randomdirection_western:0 "西方"

@@ -329,7 +329,7 @@
  murder_outcome.5002.child_pushed:0 "それを見たのは外で遊んでいるときだった。階段を登っていくお菓子の痕跡。頂上に着くと、私は端からぶら下がっているバスケットを見つけたが、私が手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——気がつくと自分の[ROOT.Char.Custom('GetUpperClothingArticle')]の後ろが壁に引っかかり私は壁にぶら下がっていた。#EMP ふぅ！#!"
  murder_outcome.2500.desc:0 "[target.GetTitledFirstName]と[ROOT.Char.GetFaith.DevilName|U]の会談を手配するための準備を続けていると、私はある出来事に邪魔されてしまう。[owner.Custom('InsultNoun')]は遠くに旅をしており、今は私の手の届かないところにいる！"
  murder_outcome.2500.a:0 "私からは逃れられても、死からは逃れられないぞ！"
- murder_outcome.1008.t:0 "命の飲み物"
+ murder_outcome.1008.t:0 "命の水"
  murder_outcome.1008.desc:0 "私の刺客は、飲み物に溶かしても痕跡を残さない目立たない粉末を手に入れた。[target.GetTitledFirstNamePossessive]のカップの補充と取り扱いを担当する使用人は賄賂を受け取り目をつぶった。残っているのは、毒を次の[target.GetHerHis]の爽やかな飲み物にこっそりと持ち込むことの私の承認だけだ。"
  murder_outcome.1008.a:0 "[target.GetShortUINamePossessiveNoTooltip]の健康に乾杯！"
  murder_outcome.2008.desc_drunkard:0 "[target.GetTitledFirstName]は死んだ、あれほど[target.GetSheHe]が愛した[target.Custom('RegionalAlcoholicDrink')]によって殺害されたのだ！"

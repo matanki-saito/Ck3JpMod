@@ -88,7 +88,7 @@
  ACHIEVEMENT_DESC_the_emerald_isle_achievement:1 "アイルランドの君主として開始し、アイルランド[kingdom|E]を保有する"
  ACHIEVEMENT_DESC_from_rags_to_riches_achievement:2 "[count|E]として開始し、自らの一族を[empire|E]の支配者へと導く"
  ACHIEVEMENT_DESC_give_a_dog_a_bone_achievement:1 "1066年にマチルダ・ディ・カノッサとして開始し、あなたの[dynasty|E]がイタリア[kingdom|E]を統治し、50人以上の存命の[dynasty|E]メンバーを持つ。なおかつ[holy_order|E]を設立する"
- ACHIEVEMENT_DESC_al_andalus_achievement:1 "イベリアのイスラーム教徒として開始し、イベリア全土を支配して、[decision|E]でトゥール・ポワティエ間の戦いの報復を果たす"
+ ACHIEVEMENT_DESC_al_andalus_achievement:1 "イベリアのイスラーム君主として開始し、イベリア全土を支配して、[decision|E]でトゥール・ポワティエ間の戦いの復讐を果たす"
  ACHIEVEMENT_DESC_wily_as_the_fox_achievement:1 "1066年に「狐公」ロバートとして開始し、シチリア[kingdom|E]を統治する。またエピルス、ヘラス、またはテッサロニカ$game_concept_kingdom$を保有する。そして以上の本来の[counties|E]を全てカトリックに改宗させる"
  ACHIEVEMENT_DESC_sibling_rivalry_achievement:1 "1066年にヒメノ三兄弟のいずれかで開始し、スペイン[emperor|E]となる"
  ACHIEVEMENT_DESC_blood_eagle_achievement:1 "ラグナル・ロズブロークの息子のいずれかで開始し、ブリテン諸島の全てを征服する"

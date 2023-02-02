@@ -57,7 +57,7 @@
  yearly.3021.t:0 "[deathbed_character.GetHerHis|U]の死の床で"
  yearly.3021.desc:0 "私の古い[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('deathbed_character'))]である[deathbed_character.GetTitledFirstName]がもう長くはないことは、今や明らかだ。\n\n私が[deathbed_character.GetHerHis]の死の床に行くと、[deathbed_character.GetSheHe]が長い人生を生きてきたことがわかる。だが、別れを告げるのに十分な時間はないのではないだろうか？私は、冷たくなり、息が静かになるまで、[deathbed_character.GetHerHis]の手を握る。"
  yearly.3021.a:0 "この先の人生に安らぎがありますように、[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('deathbed_character'))]。"
- yearly.3031.t:0 "先へ進む"
+ yearly.3031.t:0 "立身出世"
  yearly.3031.desc:0 "私の主君、[liege.GetTitledFirstName]のおかげで、私も[fellow_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)]も尊敬されている。しかし、称号、名誉、富を与えることとなると、私たちのどちらかが常に対等な者たちの中で一番になる。\n\n[capital.GetNameNoTierNoTooltip]の[liege.Custom('ResidenceBuilding')|U]での集会は、私が[liege.GetTitleAsNamePossessiveNoTooltip]の寵愛を受けている人物であることを確かめる機会を与えてくれた。"
  yearly.3031.friend:0 "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('best_friend'))]である[best_friend.GetTitledFirstName]をそばに置くことが、きっと助けになるだろう。"
  yearly.3031.rival:0 "しかし、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('nemesis'))]である[nemesis.GetTitledFirstName]は[nemesis.GetSheHe]が私の努力を妨害しようとしていることを隠そうともしない！"

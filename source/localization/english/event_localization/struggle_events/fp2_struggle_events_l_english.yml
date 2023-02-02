@@ -74,7 +74,7 @@
  fp2_struggle.0051.c:0 "fp2_struggle.0051.c"
  fp2_struggle.0051.c.refuses_to_engage:0 "fp2_struggle.0051.c.refuses_to_engage"
  fp2_struggle.0501.t:1 "$iberian_struggle$"
- fp2_struggle.0501.desc:1 "その知らぬ者なき故事の故に、イベリア半島は争乱に陥っている。 部外者はその地を虎視し、強大なイスラム教徒やキリスト教徒の勢力がその人々を左右しようとしている。 しかし、最終的にはその土地で生涯を送る人々がその運命を決定するのだ。\n\n"
+ fp2_struggle.0501.desc:1 "イベリア半島は、過去の栄光から生じた争乱に陥っている。 よそ者はこの地をむさぼり、強大なるイスラーム教徒とキリスト教徒の諸勢力がこの地の人々を左右しようとしている。 しかし最後には、この大地で生涯を送る人々がその運命を決するのだ。\n\n"
  fp2_struggle.0501.desc.involved:0 "私は我が国土への展望を失いはしない。[ROOT.Char.GetFaith.HighGodName]にかけて、[ROOT.Char.GetHouse.GetNameNoTooltip]家はこの難局を克服し、我が意志の成就を目撃するだろう。\n\n"
  fp2_struggle.0501.desc.interloper:0 "時局と運命を私がつかむ時が来た。 盤上にはすべてのピースが配置されているのがわかる。 私は前進することを知っている。[ROOT.Char.GetHouse.GetNameNoTooltip]家を止めることはできない。\n\n"
  fp2_struggle.0501.desc.mottocall:0 "[ROOT.Char.GetHouse.GetMotto]！"
