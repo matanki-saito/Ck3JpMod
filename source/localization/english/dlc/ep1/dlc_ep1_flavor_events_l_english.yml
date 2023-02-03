@@ -260,7 +260,7 @@
  ep1_flavor.2040.t:0 "異国の武具"
  ep1_flavor.2040.desc:1 "奇妙な品物をたずさえた幾人もの商人が、確かめようの無い不思議で満ちた数多の物語を遠方からもたらした。\n\n[foreign_merchant.GetCulture.GetNameNoTooltip]の行商人の一団が、#EMP [exotic_blade_holder.GetCulture.GetNameNoTooltip]#!の品々を持ってきたと言う。偉大なる統治者、その名も#EMP [exotic_blade_holder.GetFullNameNoTooltipRegnal]#!が治める宮廷から遠路はるばるやってきたのだと。\n\n一団の長[foreign_merchant.GetTitledFirstName]が、陰気にニヤリと笑う。"
  ep1_flavor.2040.desc.artifact:0 "「お持ちの[my_artifact.GetName]を拝見しました。もし手放されるのなら、この唯一無二である[exotic_blade.GetType|l]を進呈しましょう…」"
- ep1_flavor.2040.desc.gold:0 "「これなる唯一無二の[exotic_blade.GetType|l]があなた様の物となるかもしれませぬぞ——もちろん特別なお値段で——偉大なる[ROOT.Char.GetTitleAsNameNoTooltip]よ……」\n\nありそうな話だ！"
+ ep1_flavor.2040.desc.gold:0 "「これなる唯一無二の[exotic_blade.GetType|l]をあなた様にご提供できるかもしれません——もちろん特別なお値段で——偉大なる[ROOT.Char.GetTitleAsNameNoTooltip]よ……」\n\n本物らしい眉唾物だ全く！"
  ep1_flavor.2040.desc.outro:0 "商人の話を確かめる方法があればいいのだが..."
  ep1_flavor.2040.desc.outro_antiquarian:1 "私は[antiquarian.GetTitledFirstName]に助言を求める。"
  ep1_flavor.2040.desc.outro_good_praise:1 "「確かに偽物ではありません、閣下、間違いなく[exotic_blade_holder.GetPrimaryTitle.GetAdjectiveNoTooltip]作で、しかも質の高いものです。」"
