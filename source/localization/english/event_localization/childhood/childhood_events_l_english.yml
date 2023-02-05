@@ -106,7 +106,7 @@
  childhood.1003.desc3:0 "私は我が[child.Custom('GetDaughterSon')][child.GetTitledFirstName]に難しい課題を与えた。それは難解な一冊の本を二、三日じゅうに読み通すようにというものだ。[child.GetSheHe]が資料を提出する予定の前日の夜になって、[child.GetSheHe]は私に助けを求めてきた。"
  childhood.1003.a:0 "[child.GetSheHe]が私を頼ってくれて嬉しい！"
  childhood.1004.t:0 "疲れ切った心"
- childhood.1004.desc:1 "「お前は十分に睡眠を取っているか？」\n\n私の[guardian_parent.Custom('MotherFatherPossessive')]の質問で、最近はきちんと睡眠を取れていないことを思い出した。睡眠欲よりも、全ての課題を上手くやりとげねばならぬという常にのしかかる重圧のほうが大きくなっているのだ。\n\n[guardian_parent.GetSheHe|U]は夜は早めに休んで寝床に入るように言い、私は喜んでそれを受け容れた。"
+ childhood.1004.desc:1 "「我が子よ、最近は十分に眠れてなさそうだね？」\n\n私の[guardian_parent.Custom('MotherFatherPossessive')]の質問で、最近はきちんと睡眠を取れていないことを思い出した。睡眠欲よりも、全ての課題を上手くやりとげねばならぬという常にのしかかる重圧のほうが大きくなっているのだ。\n\n[guardian_parent.GetSheHe|U]は夜は早めに休んで寝床に入るように言い、私は喜んでそれを受け容れた。"
  childhood.1004.a:0 "ありがとう、[guardian_parent.Custom('MotherFather')]さん。"
  childhood.1005.t:0 "疲れ切った心"
  childhood.1005.desc:1 "「お前は時間というものをどう使っているのか！？」\n\n我が[guardian_parent.Custom('MotherFatherPossessive')]の叱責は私の心に重くのしかかった。私は自分に課されたどの課題も完全に仕上げようと努力しているのだが、[guardian_parent.GetSheHe]はけして満足していないようだ。"
