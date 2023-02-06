@@ -231,7 +231,7 @@
  learning_scholarship.6000.g.tt:0 "[illiterate.GetSheHe|U]は行動の[illiterate.GetWomanMan]だ――他人が[illiterate.GetHerHim]のために読むことができる！"
  learning_scholarship.6000.h:0 "冒涜的？ もう少し教えて…"
  learning_scholarship.6000.h.tt:0 "あなたは[illiterate.GetTitleAsNamePossessiveNoTooltip]の言葉の響きを#EMP 実に#!不敬なものにできる"
- learning_scholarship.6000.non_believer:0 "[illiterate.GetTitledFirstName]が無神論者であるという証拠を得た。"
+ learning_scholarship.6000.non_believer:0 "[illiterate.GetTitledFirstName]が不信仰者であるという証拠を得た。"
  learning_scholarship.6000.i:0 "[illiterate.GetCulture.GetNameNoTooltip]の詩に栄誉を与え、[illiterate.GetHerHim]を鼓舞する。"
  learning_scholarship.6000.i.tt:0 "あなたの宮廷では、[illiterate.GetCulture.GetNameNoTooltip]の詩がしばしば朗読されるだろう。"
  learning_scholarship.6000.j:1 "知識とは、それぞれの言葉の不思議を見出すもの…"

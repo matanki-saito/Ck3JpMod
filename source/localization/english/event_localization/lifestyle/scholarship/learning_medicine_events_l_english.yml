@@ -160,7 +160,7 @@
  learning_medicine_special.1001.desc:0 "私は人体と未だ知られざるその秘密に心惹かれる。生と死への疑問はいつでも心のどこかにあった。\n\n読んで学ぶのは好きだったしそれはそれで良いのだが、自分の手で研究しもっと多くを知りたい、という考えが頭から離れない。"
  learning_medicine_special.1001.a:0 "病気による遺体の変化を研究してみるか。"
  learning_medicine_special.1001.b:0 "死者の肉体には敬意を！"
- learning_medicine_special.1002.desc:0 "死体の下腹部から内臓がはみ出して腫れ上がっていた。そのぐちょぐちょ絡まった塊を息をこらえながらも慎重に選り分けていたが、それは無駄な努力だった。死体の腐った臭いがゆっくりと肺に忍び込むと咳き込まずにはいられない。\n\n何かを切り開くと、にちゃにちゃと黄色い膿汁が手術台の上いっぱいに溢れ広がった。\n\n「#EMP これは#!なんだ？」"
+ learning_medicine_special.1002.desc:0 "死体の下腹部から内臓がはみ出して腫れ上がっていた。そのぐちょぐちょ絡まった塊を息をこらえながらも慎重に選り分けていたが、それは無駄な努力だった。死体の腐った臭いがゆっくりと肺に忍び込めば、咳き込まずにはいられない。\n\n何かを切り開くと、にちゃにちゃと黄色い膿汁が手術台の上いっぱいに溢れ広がった。\n\n「#EMP これは#!なんだ？」"
  learning_medicine_special.1002.a:0 "[scoped_physician.GetTitledFirstNameNoTooltip]なら手助けを頼めるかも？"
  learning_medicine_special.1002.a.good:0 "[scoped_physician.GetTitledFirstName]が研究を助けてくれる"
  learning_medicine_special.1002.a.bad:0 "[scoped_physician.GetTitledFirstName]は私の実験にショックを受ける"

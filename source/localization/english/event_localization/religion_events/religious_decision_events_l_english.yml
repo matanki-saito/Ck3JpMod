@@ -123,7 +123,7 @@
  religious_decision.0501.nonjewish.tt:0 "すべての非ユダヤ教の封臣:"
  religious_decision.0502.t:0 "[khazar_khan.GetTitleAsNameNoTooltip]と[khazar_khan.GetFaith.GetAdherentNameNoTooltip]信仰"
  religious_decision.0502.desc.intro:0 "何世代にもわたって、[khazar_khan.GetPrimaryTitle.GetNameNoTierNoTooltip]の貴族たちは、[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]信仰への献身を公言してきたが、[khazar_khan.GetPrimaryTitle.GetAdjectiveNoTooltip]社会では、地元の神を持つ宗教的多元主義がずっと一般的であった。"
- religious_decision.0502.desc.body:0 "しかし、最近になって、[khazar_khan.GetTitleAsNameNoTooltip]と領国のラビは、[khazar_khan.GetPrimaryTitle.GetTierAsNameNoTooltip]における民俗的宗教と非信仰者の本質をめぐって議論をエスカレートさせている。\n\nしかし、[khazar_khan.GetTitleAsNameNoTooltip]は決断を下した。"
+ religious_decision.0502.desc.body:0 "一方、最近になって、[khazar_khan.GetTitleAsNameNoTooltip]と領国のラビたちは、[khazar_khan.GetPrimaryTitle.GetTierAsNameNoTooltip]における民俗宗教と不信仰者の本質をめぐって議論を白熱させている。\n\nしかしながら、[khazar_khan.GetTitleAsNameNoTooltip]は決断を下した。"
  religious_decision.0502.desc.righteous:0 "勅令によれば、未だに古いやり方を崇拝している者は、もはや[khazar_khan.GetPrimaryTitle.GetTierAsNameNoTooltip]内で優遇措置を受けることはできず、[khazar_khan.GetTitleAsNameNoTooltip]への忠誠を誓う者はすべて神そのものへの忠誠も誓う必要がある。"
  religious_decision.0502.desc.fundamentalist:0 "宗教的多元主義が終焉を迎えただけでなく、正統な[khazar_khan.GetFaith.GetNameNoTooltip]を実践していない者は必然的に[khazar_khan.GetPrimaryTitle.GetTierAsNameNoTooltip]の敵である。[khazar_khan.GetTitleAsNameNoTooltip]は[khazar_khan.GetFaith.GetNameNoTooltip]をステップとさらのその向こうにも広げようとし、この新しい時代の宗教戦争に参加することは、あらゆる良き[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の義務であると宣言している。"
  religious_decision.0502.a:0 "[ROOT.Char.GetFaith.GetNameNoTooltip]にとって真に暗黒の日だ。"
