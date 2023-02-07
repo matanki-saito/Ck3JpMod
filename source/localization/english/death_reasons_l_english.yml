@@ -24,7 +24,7 @@
  death_wounded_2:0 "$death_wounded_1$"
  death_wounded_3:0 "$death_wounded_1$"
  death_wounds:0 "$death_wounded_1$"
- death_maimed:1 "内臓の損傷がもとで死亡した"
+ death_maimed:1 "内臓破裂により死亡した"
  death_flagellant:1 "[CHARACTER.GetHerselfHimself]を鞭打って死んだ"
  death_physique_bad_1:1 "[CHARACTER.GetHerHis]の持病によって死んだ"
  death_physique_bad_2:0 "$death_physique_bad_1$"

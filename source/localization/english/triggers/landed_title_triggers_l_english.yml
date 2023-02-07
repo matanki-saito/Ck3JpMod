@@ -57,7 +57,7 @@
  HAS_ORDER_OF_SUCCESSION_TRIGGER:0 "継承権を所持"
  HAS_TITLE_LAW_FLAG_TRIGGER:0 "称号法を所持: $LAW$"
  IS_TITULAR_TRIGGER:0 "[titular_title|E]である"
- FORM_GERMANIA_CHRISTIAN_TRIGGER:0 "あなたが神権的な宗教指導者をいただくキリスト教――たとえばカトリック――の信徒ではない（信徒ならば$e_hre$しか作成できない）"
+ FORM_GERMANIA_CHRISTIAN_TRIGGER:0 "あなたが教権的な宗教指導者をいただくキリスト教――たとえばカトリック――の信徒ではない（信徒ならば$e_hre$しか作成できない）"
  TITLE_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有している"
  TITLE_NOT_HELD_YEARS:0 "$TITLE$を$VALUE|V0$年間所有して#bold いない#!"
  LANDED_TITLE_THIS_EQUAL:0 "$TITLE$である"

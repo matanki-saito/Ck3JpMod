@@ -59,7 +59,7 @@
  bp1_yearly.5702.diplomacy:0 "[skilful_friend.GetSheHe]が話すと、[skilful_friend.GetHerHis]のすべての言葉に人々はすがりつく。[skilful_friend.GetHerHis|U]の気まぐれな舌は、どんなに苛ついた皮肉屋であろうとも魅了してしまうような甘い言葉を紡ぐのだ。私は、[skilful_friend.GetSheHe]が森に木を売りつけることだってできると確信している！"
  bp1_yearly.5702.martial:0 "[skilful_friend.GetHerHis]の頭脳に秘められた深遠なる戦術眼は、天下の並み居る名将たちを恥じ入らせるほどのものだ。戦場において、瞬時に敵の弱点を見抜く天性の才を持つ[skilful_friend.GetFirstNameNoTooltip]こそは、力によって領国を押し拡げたい[ROOT.Char.GetLadyLord]にとって大いなる宝となるだろう。"
  bp1_yearly.5702.stewardship:0 "[skilful_friend.GetSheHe]が金銭の心がわかるというのは、まあそれでも控えめな表現だろう。[skilful_friend.GetSheHe]が会計を担当する時、[skilful_friend.GetHerHis]の目を逃れられるコインは一枚だって存在しない。財政に関して[skilful_friend.GetFirstNamePossessiveNoTooltip]は抜け目のない鋭さを持ち合わせており、その帳尻合わせは魔法が如く、なにもないところにお金を見出し、無駄な出費は肉屋のごとく切り捨てることができるのだ。"
- bp1_yearly.5702.intrigue:0 "敵に回したくはない人々の中でも、[skilful_friend.GetFirstNamePossessiveNoTooltip]は間違いなくそのリストのてっぺん辺りにいる。人心操作の達人で華麗なる策謀家でもある[skilful_friend.GetHerHis]のスキルは、キッチンメイドから甘いお菓子をかすめ取るがごとく、王朝崩壊の礎を築いてしまうのだ。"
+ bp1_yearly.5702.intrigue:0 "敵に回したくはない人々の中でも、[skilful_friend.GetFirstNamePossessiveNoTooltip]は間違いなくそのリストのてっぺん辺りにいる。人心操作の達人で華麗なる策謀家でもある[skilful_friend.GetHerHis]の技能は、厨房の女中から甘いお菓子をかすめ取るがごとく、王朝崩壊の礎を築いてしまうのだ。"
  bp1_yearly.5702.learning:0 "[skilful_friend.GetHerHis|U]の学者としての知性は実に巨大で、領国の中で匹敵するものは誰ひとりいない。[skilful_friend.GetHerHis|U]の哲学的・神学的な問題に対する理解力は、もっとも神聖にして賢明なる宗教指導者とも対等に議論ができるほどであり、また内面の問題に直面した時も、[skilful_friend.GetHerHim]が動揺するのを見たことがない。いまもまた[skilful_friend.GetHerHim]が、何十年も経験を積んだ名工[skilful_friend.GetWomanMan]であるかのように、巧みかつ容易に、難題について話しながら廊下を歩くのが聞こえている。"
  bp1_yearly.5702.prowess:0 "優れた戦士として天下にその名を轟かせる[skilful_friend.GetHerHis]の剣の腕前を疑うものは、誰ひとりいない。中庭に置かれた訓練用の人形に、[skilful_friend.GetSheHe]が達人と呼ぶにふさわしい苛烈さと優雅さで斬りつけるさまを見れば、気弱な決闘者たちの心はたちまちのうちに砕かれることだろう。"
  bp1_yearly.5702.fallback:0 "頼みの綱"

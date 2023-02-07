@@ -19,7 +19,7 @@
  elope.1002.desc_not_naked:0 "私はやっとの思いでベッドから這い出ると、服を着ながら大声で命令を下した。"
  elope.1002.desc:0 "\n\n捜索は何時間も続いている。昼前になって彼らは[target.GetTitledFirstName]からの署名入りの手紙を発見する。手書きの文字は間違いなく[target.GetHersHis]のものだ。\n\n"
  elope.1002.apologetic_relationship.desc:0 "「わが愛する[target.GetFirstNameNoTooltip]よ。本当に申し訳ない。しかし私はわが心に従わねばならない。私は運命の人——[owner.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]と結婚せんがため、あなたのもとを去るのだ。」"
- elope.1002.unapologetic_relationship.desc:0 "「私は[owner.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]と結婚するために去ります。私の後を追わないで——私は再びあなたのものになるなら、死んだ方がましです！」"
+ elope.1002.unapologetic_relationship.desc:0 "「私は[owner.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]と結婚するために去ります。私の後を追わないで——私は再びあなたのものになるなら、死んだ方がマシです！」"
  elope.1002.apologetic_family.desc:0 "「[ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('target'))|U]、私は運命の人——[owner.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]と結婚するために去るのです。私は幸せになりたいだけです。あなたが心の中で許してくれることを願っています。」"
  elope.1002.unapologetic_family.desc:0 "「あなたが自分の[ROOT.Char.Custom2('RelationToMeShort' , target)]を本当に愛してくれていたのなら、幸せになってほしいと思っていたはずです。しかし、あなたがほとんど私を気遣ってくれないので、私は自分の心に従って去ることにしたのです。私は[owner.Custom2('YourCharacterIntroduction', ROOT.Char)]と結婚します、あなたは私を止めることはできません！」"
  elope.1002.a.fallback:0 "一体どうしてだ？"
