@@ -61,7 +61,7 @@
  court.5042.a:0 "ただのイタズラだったんだ！"
  court.5050.t:0 "蔑まれた廷臣"
  court.5050.desc:2 "「なぜ私でなく、あの[courtier_given_title.Custom('InsultNoun')][courtier_given_title.GetTitledFirstName]に宮廷での地位を与えるのですか?」\n\n[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は憤慨している。どうやら、他の誰でもない、その栄誉には自分こそがふさわしい、と確信していたようである。"
- court.5050.a:0 "馬鹿なことを言うのはやめろ！"
+ court.5050.a:0 "あのなあ、戯言を抜かすな！"
  court.5050.b:1 "あなたの言う通り、あなたはその地位を得るに値する。"
  court.5050.c:0 "こんな感じに笑い者となるつもりなら、雇ってやっても良いぞ！"
  court.5055.t:0 "色彩豊かな才能"

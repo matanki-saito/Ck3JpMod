@@ -156,7 +156,7 @@
  SPYMASTER_PROGRESS_BASE:0 "基本"
  ESPIONAGE_PERK_BONUS_VALUE:1 "[GetPerk('digging_for_dirt_perk').GetName(GetPlayer)]"
  TARGET_SPYMASTER_disrupt_schemes:1 "標的の密偵頭が計画を妨害している"
- TARGET_IS_LIEGE_penalty:0 "標的はあなたの主君や上位者である"
+ TARGET_IS_LIEGE_penalty:0 "標的はあなたの主君または上位者である"
  task_collect_taxes:0 "徴税"
  task_collect_taxes_effect_desc:2 "[domain|E]の税: #P +[SCOPE.ScriptValue('steward_collect_taxes_scale_tooltip_total')|2]%#!\n$TAB$[councillor.GetCouncilTitle][councillor.GetShortUIName]の[stewardship_skill|E]: #P +[SCOPE.ScriptValue('steward_collect_taxes_scale_base')|1]%#!"
  task_collect_taxes_tax_man_bonus_desc:2 "\n$TAB$[GetPerk('tax_man_perk').GetName(GetPlayer)]: #P +[SCOPE.ScriptValue('steward_collect_taxes_perk_bonus_scale')|2]%#!"

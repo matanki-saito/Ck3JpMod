@@ -1,6 +1,6 @@
 ﻿l_english:
  fp2_urbanism_legacy_track_name:1 "都市"
- fp2_urbanism_legacy_track_desc:1 "都市はその建設者の洗練を反映し、世界中の貴族を魅了する"
+ fp2_urbanism_legacy_track_desc:1 "その建設者の洗練を反映し、世界中の貴族を魅了する街"
  fp2_urbanism_legacy_1_name:1 "勢いづく都市"
  fp2_urbanism_legacy_4_name:2 "誉れ高き開発"
  fp2_urbanism_legacy_3_name:0 "熱心な寄贈者"
@@ -12,7 +12,7 @@
  fp2_coterie_legacy_2_name:0 "頼りになる家"
  fp2_coterie_legacy_3_name:0 "一家団結"
  fp2_coterie_legacy_4_name:0 "共有の諜報"
- fp2_coterie_legacy_5_name:0 "都合のよいルーツ"
+ fp2_coterie_legacy_5_name:0 "都合の良いルーツ"
  cultural_acceptance_gain_gift_dynasty_perk:0 "$fp2_urbanism_legacy_2_name$ [dynasty_perk|E]から"
  LEGACY_DYNASTY_UNLOCK_CITY_CELEBRATION_DECISION:1 "[improve_city_province_decision|E]をアンロック"
  LEGACY_DYNASTY_CITIES_INCREASE_DEVELOPMENT:1 "すべての[city|E]は、[county|E]の毎月の[development_growth|E]を増加させる: #P + 20％#!"

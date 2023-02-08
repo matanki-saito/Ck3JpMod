@@ -1,6 +1,6 @@
 ﻿l_english:
  blood_legacy_track_name:1 "血統"
- blood_legacy_track_desc:0 "最も有能な後継者を生み出すための慎重な生殖"
+ blood_legacy_track_desc:0 "最も有能な後継者を生み出すための用意周到な生殖"
  blood_legacy_1_name:0 "高貴なる血脈"
  blood_legacy_2_name:1 "血の結晶"
  blood_legacy_3_name:0 "強靭なる血筋"
@@ -28,7 +28,7 @@
  guile_legacy_4_name:0 "お咎めなし"
  guile_legacy_5_name:1 "家族一丸"
  erudition_legacy_track_name:1 "学識"
- erudition_legacy_track_desc:0 "スキルのあるゲスト、聖職者の承認、有能なアドバイザー"
+ erudition_legacy_track_desc:0 "優れた客人、聖職者の承認、有能なアドバイザー"
  erudition_legacy_1_name:0 "活気ある宮廷"
  erudition_legacy_2_name:0 "叙階された統治"
  erudition_legacy_3_name:0 "知識の宝庫"

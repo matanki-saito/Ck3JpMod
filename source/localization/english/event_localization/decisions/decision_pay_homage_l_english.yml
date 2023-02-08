@@ -8,7 +8,7 @@
  pay_homage_grace_tt:0 "#weak 忠誠の誓いは同じ主君に一度だけしか行えません#!"
  pay_homage_gift_warning_effect:0 "#weak 贈り物は忠誠の誓いの報酬を増加させます#!\n$pay_homage_grace_tt$"
  pay_homage_grace_valid_tt:0 "まだ[THIS.Char.GetLiege.GetTitledFirstName]に[pay_homage|E]を行なっていない。"
- PAY_HOMAGE_DECISION_NEXT_STEP_BUTTON:0 "忠誠の誓いの際の贈り物を選ぶ"
+ PAY_HOMAGE_DECISION_NEXT_STEP_BUTTON:0 "忠誠の誓いで贈る物を選ぶ"
  petition_available_adult_tt:0 "有用な成人である"
  petition_available_liege_tt:0 "[THIS.Char.GetLiege.GetTitledFirstName]は有用な成人である"
  pay_homage_decision_option_submission:0 "服従を証する\n#low 何も与えない#!"

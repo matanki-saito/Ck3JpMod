@@ -29,7 +29,7 @@
  major_decisions.1104.a:0 "[new_title.GetNameNoTierNoTooltip]は永遠に存続するだろう！"
  major_decisions.1105.t:0 "領国の簒奪"
  major_decisions.1105.desc:0 "「[founder.GetTitleAsNameNoTooltip]」[new_title.GetNameNoTierNoTooltip]の[founder.GetFirstName]は新王国と、#EMP 我が#!正当な領土のいくらかが国土の一部であると宣言した。"
- major_decisions.1105.a:0 "あの僭称者が最後のひとりではない…"
+ major_decisions.1105.a:0 "あの僭称者が最後のひとりではない……"
  major_decisions.2001.t:0 "大学"
  major_decisions.2001.desc_first:0 "知識の新時代が到来した！私は建築者や学者と次々に会い、着々と壮大な大学の計画が形になってきている。\n\n"
  major_decisions.2001.desc_more:0 "大学のレンガを敷設する準備ができたと大工の棟梁から連絡があった。――まだ決まっていないのは場所と名前だけだ！"
