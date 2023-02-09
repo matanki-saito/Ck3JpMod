@@ -181,7 +181,7 @@
  steal_back_artifact:1 "宝物を盗む"
  start_stealing_back_artifact:0 "宝物を盗む#weak (計画)#!"
  steal_back_artifact_general_desc:1 "人物が強盗を組織して、自身が請求権を持つ[artifact|e]を盗み出す[scheme|E]です。"
- steal_back_artifact_action:0 "宝物を盗む対象は"
+ steal_back_artifact_action:0 "宝物を盗む"
  steal_back_artifact_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]から正当に私のものを盗もうとする。"
  steal_back_artifact_desc_general:1 "あなたは対象から自身の請求権をもつ宝物を盗みます。"
  scheme_interaction_tt_steal_back_artifact_approved:0 "[recipient.GetShortUIName]は、もはや私のものを正当に所有することはできないであろう！"

@@ -1,6 +1,6 @@
 ﻿l_english:
  PHASE_CATALYST_DESCRIPTION_HEADER:2 "#S [StrugglePhase.GetNameNoTooltip]へのきっかけ#!"
- PHASE_CATALYST_DESCRIPTION_HEADER_INFO:1 "#I フェイズの進捗を増やすために、きっかけを何度でも完了できます#!"
+ PHASE_CATALYST_DESCRIPTION_HEADER_INFO:1 "#I きっかけが何度も揃うことはフェイズの移行をさらに進ませます#!"
  PHASE_CATALYST_DESCRIPTION_ENTRY:1 "$EFFECT_LIST_BULLET$ [CatalystEntry.GetCatalyst.GetDescription]: #I 進捗[CatalystEntry.GetWorth|+=]#!"
  PHASE_CATALYST_COMPLETIONS:0 "[Select_CString(GreaterThan_int32(Struggle.GetNumCompletionsOfCatalystForPhase(StruggleWindow.GetSelectedPhase, CatalystEntry.GetCatalyst), '(int32)0'), '#COLOR_GREEN ', '#COLOR_GRAY ')]x[Struggle.GetNumCompletionsOfCatalystForPhase(StruggleWindow.GetSelectedPhase, CatalystEntry.GetCatalyst)]#!"
  catalyst_passing_of_time:1 "[struggle_catalyst_catalyst|E]の年間進捗"

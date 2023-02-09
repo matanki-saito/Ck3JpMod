@@ -386,7 +386,7 @@
  msg_struggle_phase_end:1 "$STRUGGLE_PHASE$フェイズは移行中です"
  msg_struggle_phase_end_desc:0 "@$STRUGGLE_PHASE_ICON$! $STRUGGLE_PHASE$は@$STRUGGLE_PHASE_ICON_NEXT$! $STRUGGLE_PHASE_NEXT$に移行しています 。\n\n$STRUGGLE_PHASE_NEXT$は、$DAYS_UNTIL_TRANSITION$日で開始されます。"
  msg_struggle_phase_end_tt:2 "$msg_struggle_phase_transitioned_tt$"
- msg_struggle_phase_transitioned:1 "フェイズ移行は完了しました"
+ msg_struggle_phase_transitioned:1 "新たなフェイズに移行しました"
  msg_struggle_phase_transitioned_desc:0 "$STRUGGLE_NAME$が@$STRUGGLE_PHASE_ICON$! $STRUGGLE_PHASE$に移行しました。"
  msg_struggle_phase_transitioned_tt:0 "$msg_struggle_phase_transitioned_desc$"
  msg_set_relation_friend_title:1 "@friend_icon!友になりました"

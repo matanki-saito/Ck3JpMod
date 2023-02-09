@@ -10,7 +10,7 @@
  scandinavian_adventurer_fp1_modifier:0 "流浪のヴァイキング"
  scandinavian_adventurer_fp1_modifier_desc:0 "この人物は、悪漢や冒険者の軍隊と共にスカンディナヴィアから逃れ、別の場所で領土を切り開くことを目指している。"
  nithing_fp1_modifier:0 "ニシング"
- nithing_fp1_modifier_desc:0 "この人物は$north_germanic_group_collective_noun$にとって無価値であり、死んだものとみなされて、奴隷よりも下に見られる。"
+ nithing_fp1_modifier_desc:0 "この人物は$north_germanic_group_collective_noun$にとって無価値であり、死んだものと見なされ、あるいは奴隷よりも下に見られる。"
  stingy_host_fp1_modifier:0 "ケチな主人"
  stingy_host_fp1_modifier_desc:0 "この人物は、重要でない人物には宮廷での温かい食事さえも断ることで知られている。"
  generous_host_fp1_modifier:0 "寛容な主人"

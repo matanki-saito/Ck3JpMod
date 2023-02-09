@@ -15,7 +15,7 @@
  secure_iberian_foothold_decision_confirm:0 "最強へ。"
  fp2_struggle_uninvolved_or_external_tt:0 "あなたの[capital|E]が[GetGeographicalRegion('world_europe_west_iberia').GetName]の[region|E]の外側にある"
  fp2_struggle_secure_iberian_foothold_empire_tt:0 "[GetTitleByKey('e_spain').GetNameNoTier]ではない[empire|E][title|E]を[hold|E]している"
- fp2_struggle_phase_hostility_or_opportunity_tt:1 "イベリアの[struggle_phase|E]は[struggle_phase_iberia_hostility|E]または[struggle_phase_iberia_opportunity|E]（現在: [GetStruggle('iberian_struggle').GetCurrentPhase.GetName]）だ"
+ fp2_struggle_phase_hostility_or_opportunity_tt:1 "イベリアの[struggle_phase|E]は[struggle_phase_iberia_hostility|E]または[struggle_phase_iberia_opportunity|E]（現在: [GetStruggle('iberian_struggle').GetCurrentPhase.GetName]）です"
  fp2_struggle_secure_iberian_foothold_kingdom_iberian_tt:0 "あなたは[GetTitleByKey('e_spain').GetNameNoTier]の[de_jure|E]な[kingdom|E]を[hold|E]し、[completely_control|E]している"
  fp2_struggle_secure_iberian_foothold_kingdom_faith_tt:0 "少なくともこの[titlepossessive|E]な[de_jure|E]の[counties|E]のうちの#Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_faith_target_percent_value')|0]#!は[THIS.Char.GetFaith.GetAdjective]だ"
  fp2_struggle_secure_iberian_foothold_kingdom_border_tt:0 "あなたが[GetTitleByKey('e_spain').GetNameNoTier]と、それに隣り合った[kingdom|E]の[de_jure|E]（[GetTitleByKey('e_spain').GetNameNoTier]に隣接）とを[hold|E]している。"
