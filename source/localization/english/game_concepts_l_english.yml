@@ -119,7 +119,7 @@
  game_concept_councillor_task:0 "評議員の任務"
  game_concept_councillor_tasks:0 "評議員の任務"
  game_concept_councillor_task_desc:1 "$game_concept_councillor_tasks$は[councillors|E]に与えられる重要な役割です。これらの任務には特に対象を持たない全般的なものと、特定の[county|E]や[court|E]に目標を定めたものがあります。\n\nあなたが評議員と[relation|E]にある場合、完了時間のあるタスクには多少時間がかかる場合があります。\n\n#weak 注意すべきなのは、評議員はこれらの任務をこなすため物理的に立ち会うのではなく、単にそれを指揮するだけだということです。#!"
- game_concept_councillor_task_possible_side_effects:0 "起こり得るボーナス"
+ game_concept_councillor_task_possible_side_effects:0 "あり得るボーナスとペナルティ"
  game_concept_councillor_task_possible_side_effects_desc:2 "[councillor_task|E]は時に思わぬ結果を招くことがあります。これは良いものであることも悪いものであることもありますが、良い結果は評議員の該当する[skill|E]が高いほど起きやすくなり、反対に悪い結果は該当能力が低いほど起きやすくなります。"
  game_concept_chancellor:0 "宰相"
  game_concept_chancellors:0 "宰相"

@@ -37,7 +37,7 @@
  fervor.1002.desc.fickle:0 "困難な状況になると[sinful_theocrat.GetHerHis]の立場に立つことができず、[sinful_theocrat.GetHerHis]の決定に対する抵抗の最初の兆候で負けを認めてしまう。"
  fervor.1002.desc.vengeful:0 "これまでに[sinful_theocrat.GetHerHim]を傷つけた全ての人のリストを持っており、彼らに仕返しして復讐により[sinful_theocrat.GetHerHis]の欲望を満たすための様々な方法を詳細に計画している。"
  fervor.1002.desc.forgiving:0 "定期的に責任を果たさない者を適切に罰することを怠り、代わりに罰する前に彼らに第二、第三の機会を与えることを好んでいる！"
- fervor.1002.desc.fallback:0 "信じられないほどの不信心者であり、[sinful_theocrat.Custom('GetCouncilOrTitleName')]に期待される最低限の基準さえ満たしていない。"
+ fervor.1002.desc.fallback:0 "信じられないほどの不敬神であり、[sinful_theocrat.Custom('GetCouncilOrTitleName')]に期待される最低限の基準さえ満たしていない。"
  fervor.1002.desc.end:0 "\n\n [sinful_theocrat.GetFaith.AltPriestTermPlural]の不祥事は今に始まったことではないが、あまりにも身近なところで起きていることに不穏な空気が漂っている…"
  fervor.1002.desc.end_hof:0 "\n\n [sinful_theocrat.GetFaith.AltPriestTermPlural]の間での不祥事は今に始まったことではないが、多くの人は宗派の指導者がそのような誘惑に屈することに愕然としている。"
  fervor.1002.b:0 "違反行為について、[sinful_theocrat.GetHerHim]を非難する！"

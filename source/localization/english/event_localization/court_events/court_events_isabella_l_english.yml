@@ -68,7 +68,7 @@
  court.4350.c.tt:0 "#F あなたは[caravan_attacker_liege.GetNameNoTooltip]との交易を停止します#!"
  court.4355.t:0 "サラセン人と戦う勇者は誰か？"
  court.4355.desc:0 "「我が主君」[reporting_marshal.GetCouncilTitle]が呼びかける。「私は[caravan_attacker.GetTitledFirstName]が、[caravan_attacker.GetSheHe]と貴族の一団が山賊のように出没し、[attacked_liege.GetCapitalLocation.GetTitle.GetNameNoTier]からの砂糖を運ぶ隊商を荒らし回っていることを自慢げに話していると耳にしております。これらの犬は聖戦のために垂涎し、[attacked_liege.GetTitledFirstName]を挑発しようとしているのです。しかしながら、私はどんな戦闘よりも交易の方が我々には必要であることを言わせていただきます——」\n\n「我々に食べ物はいらない、ただ異教徒の血を飲めばいいのだ！」玉座の間の向こう側で[caravan_attacker.GetTitledFirstNameNoTooltip]が叫ぶ。"
- court.4355.a:0 "よくやった！不信心者の襲撃は神聖な行為だ！"
+ court.4355.a:0 "よくやった！不信心者どもへの略奪は神聖な行為だ！"
  court.4355.a.tt:0 "あなたはさらに交易の襲撃を手配します"
  court.4355.b:0 "衛兵！[caravan_attacker.GetSheHe]が悔い改めるまで砂糖ボウルで叩いてやれ。"
  court.4355.c:0 "[caravan_attacker.GetSheHe]は私の命令に関係なく、略奪を続けると感じている。"

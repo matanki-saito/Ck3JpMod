@@ -565,7 +565,7 @@
  piety_level_3_desc:2 "$piety_level_3$は三つ目の[piety_level|E]です。次のレベルは[GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]です。\n効果:\n[GetPietyLevelDesc('(int32)3')|=+]"
  piety_level_4:1 "美徳の模範"
  piety_level_4_desc:2 "$piety_level_4$は四つ目の[piety_level|E]です。次のレベルは[GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]です。\n効果:\n[GetPietyLevelDesc('(int32)4')|=+]"
- piety_level_5:1 "宗教的アイコン"
+ piety_level_5:1 "信教の象徴"
  piety_level_5_desc:2 "$piety_level_5$は五つ目にして最高の[piety_level|E]です。\n効果:\n[GetPietyLevelDesc('(int32)5')|=+]"
  prestige_level_0:1 "不埒者"
  prestige_level_0_desc:1 "$prestige_level_0$は最も低い[prestige_level|E]です。次のレベルは[GetModifier( 'prestige_level_1' ).GetNameWithTooltip|L]\n効果:\n[GetPrestigeLevelDesc('(int32)0')|=+]"

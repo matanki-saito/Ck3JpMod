@@ -321,7 +321,7 @@
  hold_court.8120.b.tt_christianity:0 "[THIS.Char.GetFaith.GetName]は$tenet_christian_syncretism_name$の[core_tenet|E]を持っています"
  hold_court.8120.b.tt_islam:0 "[THIS.Char.GetFaith.GetName]は$tenet_islamic_syncretism_name$の[core_tenet|E]を持っています"
  hold_court.8120.b.tt_judaism:0 "[THIS.Char.GetFaith.GetName]は$tenet_jewish_syncretism_name$の[core_tenet|E]を持っています"
- hold_court.8120.c:0 "[ROOT.Char.GetFaith.CreatorName]は、非信者に対して支払いを求める。"
+ hold_court.8120.c:0 "[ROOT.Char.GetFaith.CreatorName]は、不信仰者に対して支払いを求める。"
  hold_court.8120.c.tt_tenet:0 "[THIS.Char.GetFaith.GetName]は$tenet_tax_nonbelievers_name$の[core_tenet|E]を持っていません"
  hold_court.8120.d:0 "[ROOT.Char.GetFaith.DevilName]がお前を待っている、[ROOT.Char.Custom2('GetUnbelieverTerm', SCOPE.sC('peasant'))]よ。"
  hold_court.8120.e:0 "だめだ。"

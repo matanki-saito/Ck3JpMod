@@ -15,7 +15,7 @@
  holy_order.0001.c:0 "遠い場所だ。[recipient.GetHerHim]へ！"
  holy_order.0001.d:0 "いま、あなたは[holy_order_4.GetName]の問題児だ。"
  holy_order.0001.e:0 "私は間違っていた——あなたはここにいるべきだ！"
- holy_order.0002.desc:0 "私は神に奉仕せよとの呼びかけに応えるつもりです、私を義の道に導いてくれたことに感謝します。"
+ holy_order.0002.desc:0 "私は崇高なる御力にお仕えせよとの呼びかけにお応えする所存です。私を義の道へと導いて頂きましたことに感謝いたします。"
  holy_order.0002.a:0 "あなたが[ROOT.Char.GetFaith.HighGodName]の役に立てると信じている！"
  char_interaction.0001.opening_low_piety:0 "貴公のような罪深い存在が、[ROOT.Char.GetFaith.HighGodName]の聖戦騎士団に這いつくばってやって来るとは…世俗的な豊かさを心配する前に、まず自分の魂の救済に集中すべきです。"
  holy_order.0200.desc:0 "金を求める貴方の請願は聞きました、[order.GetName]はそれに応じるでしょう。"
