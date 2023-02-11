@@ -38,7 +38,7 @@
  greeting_appropriate_negative_foreign_ruler:1 "[ROOT.Char.Custom2('GreetingToForeignRulerNegative', second)]"
  greeting_supplimentary.negative:0 "[ROOT.Char.Custom2('NegativeSupplimentaryGreeting', second)]"
  greeting_supplimentary.negative.tales:0 "汝の悪行の聞こえはアイルランドからキャセイに至るまで口の端に上るところだ。"
- greeting_supplimentary.negative.greek:0 "貴君の有する傲岸不遜な性格は、ギリシャの悲劇が扱うところである。"
+ greeting_supplimentary.negative.greek:0 "貴君の有する傲慢野卑なる性格は、ギリシャの悲劇が扱うところである。"
  greeting_supplimentary.negative.insult.1:0 "貴君の体液が生きながらに腐り果てることを願う。"
  greeting_supplimentary.negative.insult.2:0 "貴君の人生が短く悲惨なものであらんことを。"
  greeting_supplimentary.negative.insult.3:0 "貴君が英知と無縁の人生を送られんことを。"

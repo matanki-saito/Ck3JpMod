@@ -27,7 +27,7 @@
  intrigue_scheme_ongoing.1007.a:0 "私の計画は前進する、懸命に働いてくれることを期待している！"
  intrigue_scheme_ongoing.1007.b:0 "そうだな、時間がかかってしまった。ここへ来て一緒に座ろう。"
  intrigue_scheme_ongoing.1008.t:0 "蔦のように絡む"
- intrigue_scheme_ongoing.1008.desc:0 "[defender.GetTitledFirstName]は裏切り者の策略家を追い詰めることを望み、宮廷の警備を強化しているようだ。私の策略家の仲間である[agent.GetTitledFirstName]は、[agent.GetSheHe]が望まない疑惑を引き寄せてしまったのではないかと懸念している。"
+ intrigue_scheme_ongoing.1008.desc:0 "[defender.GetTitledFirstName]は、謀反人を突き止めようと宮廷の警備を強化しているようだ。わが共謀者[agent.GetTitledFirstName]は、もしかすると厄介な疑惑を招いてしまったのは[agent.GetSheHe]ではないかと心配している。"
  intrigue_scheme_ongoing.1008.a:0 "私は[agent.GetFirstNamePossessiveNoTooltip]の能力を信じている。"
  intrigue_scheme_ongoing.1008.a.success:0 "[agent.GetFirstNameNoTooltip]は気づかれないままだ"
  intrigue_scheme_ongoing.1008.a.failure:0 "[agent.GetFirstNameNoTooltip]が発見される"
