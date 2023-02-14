@@ -716,7 +716,7 @@
  trait_reaver:0 "強奪者"
  trait_reaver_desc:0 "強奪者は勝利と同じくらい戦利品を切望している: 何か価値のあるものがあれば、それを見つけるだろう。"
  trait_reaver_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は勝利とほぼ同じくらい戦利品を求めている: 何か価値のあるものがあれば、[ROOT.GetCharacter.GetSheHe]はそれを見つけるだろう。"
- trait_reckless:0 "無謀なる"
+ trait_reckless:0 "向こう見ず"
  trait_reckless_desc:0 "もし少しでも優位があった場合、向こう見ずな指揮官は確実にチャンスを手に入れるだろう。"
  trait_reckless_character_desc:0 "有利なことがあれば[ROOT.GetCharacter.GetFirstNameNoTooltip]はきっとそれをつかむだろう。"
  trait_holy_warrior:0 "聖戦士"
