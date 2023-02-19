@@ -178,7 +178,7 @@
  yearly.1050.c.success.tt:0 "[heir.GetTitledFirstName]はもう決闘を行わないでしょう"
  yearly.1050.c.success.wounded.tt:0 "[heir.GetTitledFirstName]が負傷する可能性があります"
  yearly.1050.c.failure.wounded.tt:0 "私が負傷する可能性があります"
- yearly.1050.c:0 "ふん！あなたの[heir.Custom2('RelationToMeShort', ROOT.Char)]がその方法を教えてくれるでしょう！"
+ yearly.1050.c:0 "ふん！ならばお前の[heir.Custom2('RelationToMeShort', ROOT.Char)]がその方法を教えてやろう！"
  yearly.1050.critical_success.desc:0 "私は[heir.GetFirstNameNoTooltip]を打ち負かす"
  yearly.1050.failure.desc:0 "私は決闘に敗れる"
  yearly.1051.t:0 "決闘家の帰還"
