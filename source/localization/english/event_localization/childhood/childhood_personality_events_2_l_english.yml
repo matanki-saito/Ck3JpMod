@@ -72,7 +72,7 @@
  sweet_child_opinion:0 "優しい子供"
  thankful_opinion:0 "感謝"
  child_personality.7040.t:0 "かくれんぼで見た"
- child_personality.7040.desc:0 "使用人部屋の衣装だんすは#EMP 最高の#!隠れ場所だ！自分のかくれんぼの天才ぶりが恐ろしい！するとドアのすきまから、[lover_1.GetFirstName]と[lover_2.GetFirstName]がいきなり現れるのが見えた。\n\n「ああ、我が[lover_2.Custom('RomanticComplimentAdjective')]」[lover_2.Custom('RomanticComplimentNoun')]よ、#EMP もう待ちきれない#!！早く君の衣装を剥いでしまいたい！」[lover_1.GetFirstNameNoTooltip]が鼻息を荒くして[lover_2.GetFirstNamePossessiveNoTooltip]の体を掴む。\n\n「ああもっと！もっとしてください、[lover_1.Custom('RaunchyComplimentNoun')]！」[lover_2.GetFirstNameNoTooltip]は大きなうめき声をあげ、ベットに身を投げた。\n\n"
+ child_personality.7040.desc:0 "使用人部屋の衣装だんすは#EMP 最高の#!隠れ場所だ！自分のかくれんぼの天才ぶりが恐ろしい！するとドアのすきまから、[lover_1.GetFirstName]と[lover_2.GetFirstName]がいきなり現れるのが見えた。\n\n「ああ、我が[lover_2.Custom('RomanticComplimentAdjective')][lover_2.Custom('RomanticComplimentNoun')]よ、#EMP もう待ちきれない#!！早く君の衣装を剥いでしまいたい！」[lover_1.GetFirstNameNoTooltip]が鼻息を荒くして[lover_2.GetFirstNamePossessiveNoTooltip]の体を掴む。\n\n「ああもっと！もっとしてください、[lover_1.Custom('RaunchyComplimentNoun')]！」[lover_2.GetFirstNameNoTooltip]は大きなうめき声をあげ、ベットに身を投げた。\n\n"
  child_personality.7040.desc_motherfather:0 "母上？父上？いったい……いったい#EMP 何を#!されているのですか！？"
  child_personality.7040.desc_father:0 "ち、父上？いったい#EMP 何を#!されているのですか！？"
  child_personality.7040.desc_mother:0 "は、母上？いったい#EMP 何を#!されているのですか！？"
