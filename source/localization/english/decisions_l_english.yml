@@ -382,7 +382,7 @@
  accept_cannibalism_decision:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]食人嗜好"
  accept_cannibalism_decision_desc:1 "我らの創造主たる[ROOT.Char.GetFaith.CreatorName]は、[ROOT.Char.GetFaith.CreatorHerHis|U]の似姿で我らを創造した。神の鏡像を摂取することで、我らは[ROOT.Char.GetFaith.HighGodNameAlternate]により近づく。"
  all_my_family_members:1 "あなたのすべての[close_family_members|E]"
- all_my_intimidated_vassals:1 "あなたのすべての[intimidated|E]された封臣"
+ all_my_intimidated_vassals:1 "あなたのすべての[intimidated|E]した封臣"
  accept_cannibalism_decision_confirm:0 "ご馳走しよう！"
  accept_cannibalism_decision_tooltip:1 "食人嗜好に寛容な教義を採用するためのコストが大幅に削減されます"
  faith_accept_cannibalism:0 "食人嗜好に寛容な教義を採用するためのコストが大幅に削減されます"

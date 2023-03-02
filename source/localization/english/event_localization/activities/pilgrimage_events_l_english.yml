@@ -19,7 +19,7 @@
  pilgrimage_learn_from_the_bishops_failure:0 "知識は理解できないままだ"
  pilgrimage_return_home:0 "[start_location.GetNameNoTier]に帰ります"
  pilgrimage.0001.t:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の巡礼"
- pilgrimage.0001.desc:0 "聖地への巡礼の旅に行くときが来たな。しかし、どの聖地にする？"
+ pilgrimage.0001.desc:0 "聖地巡礼の旅に出る時が来た。されど、どの聖地にしたものか？"
  pilgrimage.0001.a:0 "我が信仰の聖地 [holy_site_1.GetNameNoTierNoTooltip]"
  pilgrimage.0001.b:0 "[holy_site_2.GetNameNoTierNoTooltip]の[ROOT.Char.GetFaith.HouseOfWorshipPlural]"
  pilgrimage.0001.c:0 "[holy_site_3.GetNameNoTierNoTooltip]へ！"

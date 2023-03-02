@@ -16,7 +16,7 @@
  greeting_family_negative:1 "[ROOT.Char.Custom2('GreetingToFamilyNegative', second)]"
  greeting_family_liked:1 "親愛なる[ROOT.Char.Custom2('RelationToMeShort', second)]よ"
  greeting_family_fallback:1 "[ROOT.Char.Custom2('RelationToMeShort', second)]、ご機嫌はいかがでしょうか"
- greeting_foreign_ruler:1 "[second.GetNameNoTooltip]よ、ご機嫌はいかがか、"
+ greeting_foreign_ruler:1 "[second.GetNameNoTooltip]、ご機嫌よろしゅう"
  greeting_foreign_ruler_negative:1 "[second.Custom('InsultAdjective')][second.GetTitledFirstNameNoTooltip]へ"
  greeting_foreign_ruler_positive:1 "[second.Custom('ComplimentAdjective')][second.GetNameNoTooltip]へ"
  greeting_generic:1 "[second.GetNameNoTooltip]、ご機嫌はいかがでしょうか"

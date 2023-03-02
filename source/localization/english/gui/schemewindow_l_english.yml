@@ -173,7 +173,7 @@
  SCHEME_MOVES_ME_UP_THE_SUCCESSION:0 "これにより継承順位が上がる: $VALUE|+0=$"
  SCHEME_COMPASSIONATE_NOT_MURDER_CHILDREN:0 "私は子供を傷つけたくはない: $VALUE|+0=$"
  SCHEME_I_AM_A_COWARD:0 "危険すぎる: $VALUE|+0=$"
- SCHEME_I_AM_INTIMIDATED:0 "[target.GetShortUINameNoTooltip]によって[intimidated|E]されている: $VALUE|+0=$"
+ SCHEME_I_AM_INTIMIDATED:0 "[target.GetShortUINameNoTooltip]に対して[intimidated|E]している: $VALUE|+0=$"
  SCHEME_I_AM_COWED:0 "私は[target.GetShortUINameNoTooltip]に[cowed|E]している: $VALUE|+0=$"
  SCHEME_ZEALOUS_AGAINST_HEATHEN:0 "彼らは[target.GetFaith.GetAdjective]である: $VALUE|+0=$"
  SCHEME_I_LIKE_TARGET:0 "[target.GetShortUINameNoTooltip]が好きだ: $VALUE|+0=$"

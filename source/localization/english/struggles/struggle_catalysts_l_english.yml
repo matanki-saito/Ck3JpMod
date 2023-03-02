@@ -1,6 +1,6 @@
 ﻿l_english:
  PHASE_CATALYST_DESCRIPTION_HEADER:2 "#S [StrugglePhase.GetNameNoTooltip]へのきっかけ#!"
- PHASE_CATALYST_DESCRIPTION_HEADER_INFO:1 "#I きっかけが何度も揃うことはフェイズの移行をさらに進ませます#!"
+ PHASE_CATALYST_DESCRIPTION_HEADER_INFO:1 "#I きっかけを何度も満たすことはフェイズの移行をさらに進ませます#!"
  PHASE_CATALYST_DESCRIPTION_ENTRY:1 "$EFFECT_LIST_BULLET$ [CatalystEntry.GetCatalyst.GetDescription]: #I 進捗[CatalystEntry.GetWorth|+=]#!"
  PHASE_CATALYST_COMPLETIONS:0 "[Select_CString(GreaterThan_int32(Struggle.GetNumCompletionsOfCatalystForPhase(StruggleWindow.GetSelectedPhase, CatalystEntry.GetCatalyst), '(int32)0'), '#COLOR_GREEN ', '#COLOR_GRAY ')]x[Struggle.GetNumCompletionsOfCatalystForPhase(StruggleWindow.GetSelectedPhase, CatalystEntry.GetCatalyst)]#!"
  catalyst_passing_of_time:1 "[struggle_catalyst_catalyst|E]の年間進捗"
@@ -36,7 +36,7 @@
  catalyst_discovery_of_very_important_murder:1 "暴露された派閥の[GetScheme('murder').GetTypeName]の[struggle_catalyst_catalyst|E]"
  catalyst_discovery_of_very_important_murder_desc:4 "[struggle_involved|E] 王、[head_of_faith|E]または[culture_head|E]が殺害されたことを暴露する"
  catalyst_fabricating_duchy_level_claims:0 "捏造された[duchy|E]の[claims|E]の[struggle_catalyst_catalyst|E]"
- catalyst_fabricating_duchy_level_claims_desc:3 "闘争地域内の[duchy|E]-[title_tier|E] [title|E]の[fabricate_claim|E]"
+ catalyst_fabricating_duchy_level_claims_desc:3 "闘争地方内の[duchy|E]-[title_tier|E] [title|E]の[fabricate_claim|E]"
  catalyst_forming_alliance_with_major_uninvolved_power:0 "外国権力との[allied|E]の[struggle_catalyst_catalyst|E]"
  catalyst_forming_alliance_with_major_uninvolved_power_desc:2 "少なくとも[EmptyScope.ScriptValue('catalyst_forming_alliance_with_major_uninvolved_power_power_realm_size_value')|0] [realm_size|E]を持つ[struggle_uninvolved|E] [realm|E]で[alliance|E]を形成します"
  catalyst_accepted_independence_faction_demands:0 "$catalyst_accepted_demand_from_faction_requesting_culture_faith_conversion$[struggle_catalyst_catalyst|E]"

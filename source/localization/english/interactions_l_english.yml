@@ -560,7 +560,7 @@
  offer_vassalization_interaction_aibehavior_amkingtier_tt:0 "[recipient.GetShortUIName|U]は[recipient.GetTitleTierName]である: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_recent_war_tt:0 "あなたは最近戦争をした: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_independence_war_tt:0 "[recipient.GetSheHe|U]は私に対する独立のために戦った: $VALUE|=+0$"
- offer_vassalization_interaction_aibehavior_widetitletier_tt:0 "我々の[title_tiers|E]の大きな違い: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_widetitletier_tt:0 "あなたとの[title_tiers|E]の大きな違い: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_distantrealm_tt:0 "[recipient.GetHerHis|U]の領国はあなたから離れている: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_remoterealm_tt:0 "[recipient.GetHerHis|U]の領国とあなたの領国は離れている: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_power_tt:1 "あなたとの軍事力の違い: $VALUE|=+0$ #weak (max +20)#!"

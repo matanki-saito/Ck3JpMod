@@ -122,7 +122,7 @@
  intrigue_scheming.3041.b:0 "[vassal_target.GetFirstNameNoTooltip]は[liege_target.GetHerHim]に私を恐れさせるのに役立つはずだ！"
  intrigue_scheming.3041.b.torture_desc:0 "[vassal_target.GetFirstNameNoTooltip]はまったく無傷のままでは済まないかもしれない"
  intrigue_scheming.3041.b.success:0 "断固たる手は必ず効く！"
- intrigue_scheming.3041.b.failure:0 "[liege_target.GetFirstNameNoTooltip]は威圧されない"
+ intrigue_scheming.3041.b.failure:0 "[liege_target.GetFirstNameNoTooltip]は気後れしない"
  intrigue_scheming.3041.c:0 "目標を達成するための助けは必要ない。"
  intrigue_scheming.3042.desc:0 "[liege_target.GetTitledFirstName]は、[vassal_target.GetTitledFirstNamePossessive]の裏切りが#EMP 全くの#!驚きであったかのように、愕然とした表情をしている。「お前はどれほど求めてもこれを支持するのか…この[ROOT.Char.Custom('InsultNoun')]を！？」\n\n[vassal_target.GetFirstName]は厳かにうなずく——計画通りに。私はもうすぐ出来上がる新しい駒を見て微笑む。「一瞬たりとも[vassal_target.GetSheHe]が一人であると信じてはならない。」"
  intrigue_scheming.3042.a:0 "さて、私があなたにしてほしいことは…"

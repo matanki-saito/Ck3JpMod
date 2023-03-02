@@ -184,7 +184,7 @@
  seduce_ongoing.1601.c.tt:0 "[target.GetSheHe]は有益な話が聞きたいはずだ。"
  seduce_ongoing.1603.desc:0 "宴会の余興が終わると退屈な夜になりそうだったが、[owner.GetTitledFirstName]が[SCOPE.Custom('BookInQuestion')]の朗読を提案してくれて助かった！"
  seduce_ongoing.1603.a:0 "私も大好きです！"
- seduce_ongoing.1604.desc:0 "書記官が朗読してくれたときに、[target.GetFirstName]は完全に夢中になっているようでした。\n\n朗読が終わると[target.GetSheHe|U]は私に近づいてきた。「良い選択ですね。[ROOT.Char.GetFirstName]」と[target.GetSheHe]は言った。そして[target.Custom('quirk_pos_present')]。"
+ seduce_ongoing.1604.desc:0 "書記官が朗読する中、[target.GetFirstName]は完全に夢中になっているようだった。\n\n朗読が終わると[target.GetSheHe|U]は私に近づいてきた。「良いご選択ですね。[ROOT.Char.GetFirstName]様」と[target.GetSheHe]は言った。そして[target.Custom('quirk_pos_present')]。"
  seduce_ongoing.1604.a:0 "素晴らしかったよねえ？"
  seduce_ongoing.1605.desc_1:0 "退屈な集まりは、[owner.GetTitledFirstName]が[SCOPE.Custom('BookInQuestion')]を読もうと提案したとき、さらにひどくなった。"
  seduce_ongoing.1605.desc_2:0 "幸いなことに、[other_guest.GetTitledFirstName]が代わりに[SCOPE.Custom('GoodBookSuggestion')]を読みましょうと提案してくれた。"

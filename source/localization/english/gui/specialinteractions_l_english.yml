@@ -18,7 +18,7 @@
  DESIRES_ALLIANCE:0 "[recipient.GetShortUIName|U]は[alliance|E]を望んでいる: $VALUE|=+0$"
  DOES_NOT_WANT_ALLIANCE:0 "[recipient.GetShortUIName|U]は同盟を望んでいない: $VALUE|=+0$"
  YOU_HAVE_TOO_MANY_ALLIANCES:0 "あなたは既存の[alliances|E]が多すぎる: $VALUE|=+0$"
- INTIMIDATED_REASON:3 "[intimidated_i]あなたによる[intimidated|E]: $VALUE|=+0$"
+ INTIMIDATED_REASON:3 "[intimidated_i]あなたに対する[intimidated|E]: $VALUE|=+0$"
  COWED_REASON:3 "あなたへの[terrified_i][cowed|E]: $VALUE|=+0$"
  MARRYING_UP_REASON:1 "[secondary_recipient.GetShortUIName|U]にとって上方婚である: $VALUE|=+0$"
  MARRYING_DOWN_REASON:1 "[secondary_recipient.GetShortUIName|U]にとって下方婚である: $VALUE|=+0$"

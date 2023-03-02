@@ -719,7 +719,7 @@
  fund_inspiration.6510.desc:1 "\n\n「申し訳ございません、我が[ROOT.Char.GetLadyLord]、しかし、森の中で私はあなたのようなものを奪う自警団に遭遇したのです。この地を支配する[enemy_liege.GetTitledFirstName]の権威主義的な拳を前に、彼らは貴族をたぶらかし、盗めるだけ盗もうとしているのです。私の心はむしろこの寄せ集めの一団に傾いており、宮廷に戻ることはないだろうと考えています。」\n\n「彼らのタイツも宮廷で流行しているものよりずっと良いし、むしろ私に似合っています。」"
  fund_inspiration.6510.a:0 "もしかしたら、あなたは私が貧しい人々のためにより多くのことをするのを手伝ってくれるだろうか？"
  fund_inspiration.6510.b:0 "戻ってこないと言うのなら、刺客を送り込むぞ！"
- fund_inspiration.6510.b.toast_outcome.positive:0 "[inspiration_owner.GetTitledFirstNameNoTooltip]は怯えている"
+ fund_inspiration.6510.b.toast_outcome.positive:0 "[inspiration_owner.GetTitledFirstNameNoTooltip]は気後れしている"
  fund_inspiration.6510.b.toast_outcome.positive.continue:0 "冒険は続く"
  fund_inspiration.6510.b.toast_outcome.positive.flee:0 "[inspiration_owner.GetSheHe|U]はあなたの宮廷から逃げ出す。"
  fund_inspiration.6510.b.toast_outcome.refusal:0 "[inspiration_owner.GetTitledFirstNameNoTooltip]は無感動だ"
