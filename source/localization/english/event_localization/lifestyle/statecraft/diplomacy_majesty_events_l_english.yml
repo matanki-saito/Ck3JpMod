@@ -132,7 +132,7 @@
  diplomacy_majesty_special.1011.b.rival:0 "ライバルになる可能性がある"
  diplomacy_majesty_special.1012.desc:0 "[debater.GetFirstNamePossessive]の性格について私が知っていることを念頭に置いて、私が信じる[debater.GetHerHim]に勝つための最善の方法は…"
  diplomacy_majesty_special.1012.a:0 "…論理に基づいて私の主張を構築することだ。"
- diplomacy_majesty_special.1012.a.tt:0 "合理的、利己的、懐疑的、冷淡な人にはうまく機能します"
+ diplomacy_majesty_special.1012.a.tt:0 "合理的、利己的、懐疑的、冷酷な人にはうまく機能します"
  diplomacy_majesty_special.1012.b:0 "…何があっても冷静でいることだ。"
  diplomacy_majesty_special.1012.generic.tt:0 "この戦術の有効性は、[debater.GetTitledFirstNamePossessive]の性格にどれだけ合致しているかにかかっています。"
  diplomacy_majesty_special.1012.b.tt:0 "大胆、活発、執念深いまたは不道徳な人にはうまく機能します。"

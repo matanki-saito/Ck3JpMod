@@ -129,7 +129,7 @@
  death_management.2008.b:0 "#EMP 死がふたりを分かつ#!まで、先に進んでしまった。"
  death_management.3000.t:0 "私が二人を分かつまで"
  death_management.3000.like:0 "ああ、[dead_character.GetFirstName]、私の[dead_character.Custom('LoverPetName')]。私の地下牢で死んでしまうとは…今でも私が[dead_character.GetHerHim]を愛していると言ったら信じるだろうか。"
- death_management.3000.neutral:0 "敬愛なる[dead_character.GetFirstName]よ。私はあなたを愛していなかったかもしれないし、死の原因だったかもしれない。それでも私は、今まで思いもよらなかったほどにあなたの死を感じている。あなたは永遠の友として、常に隣にいた。我が地下牢がその命を奪ってしまうとは…"
+ death_management.3000.neutral:0 "敬愛なる[dead_character.GetFirstName]よ。私はあなたを愛していなかったかもしれないし、死の原因だったかもしれない。それでも私は、今まで思いもよらなかったほどにあなたの死を感じている。あなたは永遠の友として、常に隣にいた。我が地下牢がその命を奪ってしまうとは……"
  death_management.3000.dislike:0 "親愛なる今は亡き[dead_character.GetWifeHusband]よ、我が地下牢でお前が息を引き取ったとき、私は安堵した。恥ずべきことかもしれないが、我々の間に失われる愛など無かったのだ。"
  death_management.3000.a:0 "[dead_character.GetSheHe]が安らかに眠れますように。"
  death_management.3000.b:0 "誰が予想できたというのか？"

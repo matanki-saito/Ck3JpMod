@@ -163,7 +163,7 @@
  child_personality.101.arbitrary_change:0 "いじめっ子はどんな罰を受けてもおかしくない。"
  child_personality.101.craven_change:0 "どこへ行っても隠れているように！"
  child_personality.1021.t:0 "卑しい農民"
- child_personality.1022.t:0 "痛みを和らげる"
+ child_personality.1022.t:0 "苦しみを和らげて"
  child_personality.1023.t:0 "傷口に塩を塗る"
  child_personality.102.desc_court_location:2 "[child.GetTitledFirstName]と[court_location.Custom('BaronyTownType')]にいると、[child.GetHerHis]の注意はさらし台に鎖でつながれた罪人に向いた。"
  child_personality.102.desc:1 "ある時、私は市場にて[child.GetTitledFirstName]を伴っていた。 ふと[child.GetHerHis]の注意が、さらし台に繋がれた罪人へ向かった。"

@@ -955,7 +955,7 @@
  game_concept_dynasty_prestige_level_6:0 "顔が利く"
  game_concept_dynasty_prestige_level_7:0 "名高い"
  game_concept_dynasty_prestige_level_8:0 "輝かしい"
- game_concept_dynasty_prestige_level_9:0 "夢物語"
+ game_concept_dynasty_prestige_level_9:0 "神話的"
  game_concept_dynasty_prestige_level_10:0 "伝説"
  game_concept_dynasty_prestige_level_0_desc:0 "#T $game_concept_dynasty_prestige_level_0$#!\n[GetDynastyPrestigeLevelEffect('(int32)0')][GetDynastyPrestigeLevelNext('(int32)0')]"
  game_concept_dynasty_prestige_level_1_desc:0 "#T $game_concept_dynasty_prestige_level_1$#!\n[GetDynastyPrestigeLevelEffect('(int32)1')][GetDynastyPrestigeLevelNext('(int32)1')]"

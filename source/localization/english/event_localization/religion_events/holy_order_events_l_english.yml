@@ -1,5 +1,5 @@
 ﻿l_english:
- holy_order_hired_message:0 "聖戦騎士団を雇った"
+ holy_order_hired_message:0 "聖戦騎士団を雇用"
  holy_order.hired_message:1 "[holy_order.GetName]が[actor.GetUIName]によって招集されています"
  holy_order_hired_by_enemy_message:0 "敵の聖戦騎士団"
  holy_order.hired_by_enemy:1 "[holy_order.GetName]は[actor.GetUIName]によって招集され、現在我々に敵対しています"

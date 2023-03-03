@@ -13,7 +13,7 @@
  intrigue_scheming.1011.b:0 "今後はより警戒する必要があるな。"
  intrigue_scheming.1012.desc:0 "長い夜が明け、空が白んで来ても、私も暗号作成者である[cryptographer.GetTitledFirstName]も休む暇はない。\n\n"
  intrigue_scheming.1012.desc_archimedes:0 "「アルキメデスに暗号の研究をさせれば、こんな苦行はすぐに終わるだろうに。暗号と暗号化のページが次々と...」"
- intrigue_scheming.1012.desc_al_kindi:0 "「アル=キンディーに暗号の研究をさせれば、こんな苦行はすぐに終わるだろうに。暗号と暗号化のページが次々と...」"
+ intrigue_scheming.1012.desc_al_kindi:0 "「アル＝キンディーに暗号の研究をさせれば、こんな苦行はすぐに終わるだろうに。暗号と暗号化のページが次々と...」"
  intrigue_scheming.1012.desc_ending:0 "\n[cryptographer.GetTitledFirstNamePossessive]のつぶやきが、眠気の霧の中から私に届く。"
  intrigue_scheming.1012.a:0 "話し合うことがたくさんある、あなたと私は…"
  intrigue_scheming.1012.a.duel_success:0 "[cryptographer.GetTitledFirstNameNoTooltip]と私は新しい暗号の開発に成功する"

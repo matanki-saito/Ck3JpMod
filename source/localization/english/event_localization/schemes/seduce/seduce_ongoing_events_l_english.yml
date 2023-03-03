@@ -173,7 +173,7 @@
  seduce_ongoing.1802.b.good:0 "次はもっと頑張らないと。"
  seduce_ongoing.1802.b.bad:0 "なんと恥ずべきことか…"
  seduce_ongoing.1802.c:0 "こんな注目には全く興味がない！"
- seduce_ongoing.1601.t:0 "[location.GetNameNoTierNoTooltip]での読書会"
+ seduce_ongoing.1601.t:0 "ある朗読会"
  seduce_ongoing.1601.t_no_location:0 "読書"
  seduce_ongoing.1601.desc:0 "祝賀会が終わり夜の余興も終わった頃に、[target.GetTitledFirstName]が朗読会を提案してきた。\n\nすぐに書記官がやってきて、客人たちは何を朗読して欲しいのかなと考えていたが、だがこれは私が[target.GetFirstName]の心を捉えるチャンスだと気づいてしまった。"
  seduce_ongoing.1601.a:0 "『[SCOPE.Custom('RandomReligiousTextName')]』のような敬虔なもの。"

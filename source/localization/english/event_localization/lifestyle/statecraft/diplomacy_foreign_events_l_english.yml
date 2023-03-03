@@ -204,7 +204,7 @@
  diplomacy_foreign.1105.hostdead.desc:0 "不幸にも[other_ruler.GetTitledFirstName]が亡くなってしまったことで、子供たちを互いに知り合いにして、互いの領国の友好的な関係を確保しようとする我々の計画もまた消えてしまった。"
  diplomacy_foreign.1105.guestdead.desc:0 "悲しいことに、私と[other_ruler.GetTitledFirstNamePossessive]の計画は、[other_heir.GetFirstName]の突然の死によって打ち切られてしまった。"
  diplomacy_foreign.1105.fallback.desc:0 "運命のいたずらにより、[main_heir.GetFirstName]と[other_heir.GetFirstName]の会談は阻止されてしまった。おそらく今後また、新たな機会が訪れることだろう。"
- diplomacy_foreign.1105.a:0 "何という悲劇だ…"
+ diplomacy_foreign.1105.a:0 "何という悲劇だ……"
  diplomacy_foreign.1150.t:0 "国境線の整理"
  diplomacy_foreign.1150.desc:0 "しばらくの間、私は[neighbor.GetTitledFirstNamePossessive]の領国と私の領国の歴史的な国境と現在の国境の不一致について考えていた。\n\n[neighbor.GetSheHe|U]は[ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]に正当に帰属するべき[county.GetName]の土地を支配しているが、一方で、私は現在、[neighbor.GetTitledFirstNameNoTooltip]が支配権を主張している[neighbor_county.GetName]の土地を支配している。"
  diplomacy_foreign.1150.a:0 "解決策は単純だ…"
