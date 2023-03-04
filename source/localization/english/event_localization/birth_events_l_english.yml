@@ -6,7 +6,7 @@
  birth.0002.desc:0 "子供が生まれるたびに私の愛情は増していく。生まれたばかりの赤ちゃんを抱っこしていると、今までにないほど暖かく親切に迎えてくれる。子供たちの集まりがとても見事なものに思えてくるのだ。"
  birth.0002.a:0 "生まれながらにして持ち合わせた優しさ!"
  birth.1001.t:0 "わが[child.Custom('GetDaughterSon')|U]"
- birth.1001.heir.t:0 "わが[child.Custom('GetDaughterSon')|U]と後継者"
+ birth.1001.heir.t:0 "わが[child.Custom('GetDaughterSon')|U]にして後継者"
  birth.1001.daughters.t:0 "娘たち"
  birth.1001.sons.t:0 "息子たち"
  birth.1001.children.t:0 "赤子たち"

@@ -100,7 +100,7 @@
  stress_threshold.1721.m:0 "いや、私も他の者に負けず劣らずで良いほうだ！"
  stress_threshold.1721.n:0 "もしかしたら私は希少な肉を渇望してるのかもしれない..."
  stress_threshold.1731.t:0 "精神崩壊: 自分の時間がない"
- stress_threshold.1731.desc.intro:1 "最近、統治することは非常に疲れる仕事のように思える。それはまるで[ROOT.GetCharacter.GetPrimaryTitle.GetNameNoTierNoTooltip]の臣民が私の明確な指示がなければ、自分のケツを拭くことさえできないようなものだ！\n\nそこで私は"
+ stress_threshold.1731.desc.intro:1 "ここのところ、統治することは大変に消耗する仕事になっている。まるで私のはっきりとした指示がなければ、[ROOT.GetCharacter.GetPrimaryTitle.GetNameNoTierNoTooltip]の臣民は誰一人として自分の尻さえ拭けないかのようだ！\n\nそこで私は"
  stress_threshold.1731.desc.lustful:0 "地元の売春宿への小さな逃避行を計画し、そこでは、擦り切れて痛くなるまで居座ってやるつもりだったのだが、"
  stress_threshold.1731.desc.gluttonous:0 "有名な酒場への小さな逃避行を計画し、珍しい異国の料理を食べてみるつもりだったのだが、"
  stress_threshold.1731.desc.brave:0 "特に苛烈だと評判の遠征に出かけるつもりだったのだが"

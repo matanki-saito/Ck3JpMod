@@ -131,7 +131,7 @@
  feast_default.3002.discovery_tt:0 "#F 召使いは多くを見ていて、話すかもしれない…#!"
  feast_default.3002.b:0 "ダメだ、見つかってしまうかもしれない。"
  feast_default.3003.t:0 "$feast_header$ 不愉快な仲間"
- feast_default.3003.desc:1 "そのような楽しい饗宴であったのだが、そこに#EMP [rival.GetSheHe]#!が現れた。私は[rival.GetTitledFirstNameNoTooltip]の侵略的な悪臭に汚されない夜を一夜も過ごせないとでもいうのか？\n\n最悪なのは[rival.GetSheHe]が私に横に寄り添う時の[rival.GetHerHis]の鼻にかかるギーギーという声だ。「なぜそんな不機嫌な顔をしているんだ、[ROOT.Char.GetFirstNameNoTooltip]？」"
+ feast_default.3003.desc:1 "そのような楽しい饗宴であったのだが、そこに#EMP [rival.GetSheHe]#!が現れた。私はこの身体を蝕む[rival.GetTitledFirstNameNoTooltip]の悪臭に汚されない夜を一夜も過ごせないとでもいうのか？\n\n最悪なのは[rival.GetSheHe]がこそこそと私に近づき、鼻にかかった不快な声を出すことだ。「何故にそのような不機嫌なお顔をなさるのですか、[ROOT.Char.GetFirstNameNoTooltip]様？」"
  feast_default.3003.a:0 "[rival.GetSheHe|U]を見ると顔を殴ってやりたくなる！"
  feast_default.3004.t:0 "$feast_header$ 侮辱的な口論"
  feast_default.3004.desc:0 "たらふく飲み食いした後で、私は大声で会話をしている中心に[rival_guest.Custom2('MyCharacterIntroduction', ROOT.Char )]を見つけた。[rival_guest.GetSheHe|U]は私の存在に気づくとすぐに私の方を向く。\n\n「そして#EMP お前#!——お前の存在こそ今宵の汚点だよ！」"

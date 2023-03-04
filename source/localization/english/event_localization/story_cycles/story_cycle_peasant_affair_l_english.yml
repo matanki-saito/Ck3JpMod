@@ -18,7 +18,7 @@
  peasant_affair.2001.a:0 "[peasant_character.GetHerHim]を探さないと!"
  peasant_affair.2001.a.tt:0 "#F すぐに捜索を始める!#!"
  peasant_affair.2001.b:0 "もし[peasant_character.GetHerHim]を忘れられるなら、それが一番いいだろう。"
- peasant_affair.2001.c:0 "くじけないぞ!これは我が決意に対する試練だ!"
+ peasant_affair.2001.c:0 "くじけないぞ！これは我が決意に対する試練だ！"
  peasant_affair.2002.desc_opening:0 "「我が君、捜索を命じられた農民の痕跡は何一つ見つかりませんでした。私の権力では使える手段が限られているので、できることはそう多くありません...」\n\n"
  peasant_affair.2002.desc_child:1 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]の[councillor.GetTitledFirstName]がぺこぺこしていた時すらも、私の眼は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('peasant_child'))]である[peasant_child.GetTitledFirstName]の好奇心旺盛な顔に向けられていた。"
  peasant_affair.2002.desc:1 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))]の[councillor.GetTitledFirstName]がぺこぺこしていた時すらも、私の思考はあの魅惑の夜にそれていく..."

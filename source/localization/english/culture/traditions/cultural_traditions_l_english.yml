@@ -496,7 +496,7 @@
  recruit_mountain_specialist_decision_tooltip:0 "$recruit_mountain_specialist_decision.tt$"
  recruit_mountain_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
  recruit_dry_specialist_decision:0 "乾燥地の専門家を雇用する"
- recruit_dry_specialist_decision_desc:0 "[ROOT.Char.GetCulture.GetCollectiveNoun]にとって、焼けつくような陽の光など手慣れたものだ。灼熱の下、遠く広くどこへでも出かけていく。我が軍勢が行軍中の暑さで倒れぬよう望むなら、慣れた者をガイドに招くのは当然だろう。"
+ recruit_dry_specialist_decision_desc:0 "[ROOT.Char.GetCulture.GetCollectiveNoun]にとって、焼けつくような陽の光など手慣れたものだ。灼熱の下、遠く広くどこへでも進む。我が軍勢が行軍中の暑さで死に絶えること無きよう望むなら、彼らの案内を乞わねばならない。"
  recruit_dry_specialist_decision.tt:0 "[GetTrait('desert_warrior').GetName( GetNullCharacter )]の[trait|E]を持つ、[martial|E]能力の高い[commander|E]が[court|E]に加わります"
  recruit_dry_specialist_decision_tooltip:0 "$recruit_dry_specialist_decision.tt$"
  recruit_dry_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"

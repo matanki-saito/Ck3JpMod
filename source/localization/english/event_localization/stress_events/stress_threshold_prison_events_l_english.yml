@@ -48,7 +48,7 @@
  stress_threshold_prison.2011.desc_spoon:0 "それは暗い地下牢での生活の中で、数少ない不変の存在の一つであり、慰めと仲間の数少ない源の一つだ…私のスプーンは必要な時にはいつもそこにいて、暗い日々の中でも私を裁くことはない。"
  stress_threshold_prison.2011.desc_cockroach:0 "そこにまたゴキブリがいた、独房の暗い隅に座っていた。それは私の仲間であり、信頼できる友人であり、息子だ。仲間はこの惨めな場所で私を見守ってくれている。"
  stress_threshold_prison.2011.desc_end:0 "\n\n私はこれほどまでに他の存在とのつながり、そのような献身と共感とを感じたことはなかった。"
- stress_threshold_prison.2011.a:0 "ここへおいで、小さな[ROOT.Char.Custom('prison_pet')]、そして君を抱かせておくれ。"
+ stress_threshold_prison.2011.a:0 "ここへおいで、かわいい[ROOT.Char.Custom('prison_pet')]、そして君を抱かせておくれ。"
  stress_threshold_prison.2021.t:1 "精神崩壊: 暗黒の隅で"
  stress_threshold_prison.2021.desc:0 "看守は私が何日も一人でいたと言っているが、私はもっとよく知っている。私は彼らが私を見て、私を品定めし、私の恐れと弱さを値踏みしているのを#EMP 感じる#!ことができる…\n\nあらゆる音が彼らの存在、彼らの脅威のすべての影を私に教えてくれる。"
  stress_threshold_prison.2021.a:0 "絶えず警戒しておかなければ！"

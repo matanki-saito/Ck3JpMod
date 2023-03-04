@@ -112,7 +112,7 @@
  court.6060.desc_drunkard_courtier:1 "\n\n部屋の隅にいた、[courtier_drunkard.GetTitledFirstName]が議論に割り込んでくる。「あなたにとって良い量のワインとは、#EMP 全て#!だよ！」"
  court.6060.desc_ending:0 "\n\nワインに対する私の立場とは何だろう？"
  court.6060.a:0 "ワインは[ROOT.Char.GetFaith.DevilName]への扉を開く！"
- court.6060.b:0 "少量のワインは体液のバランスを保ってくれる。"
+ court.6060.b:0 "少量のワインは体液の調和を保ってくれる。"
  court.6060.c:0 "[courtier_drunkard.GetFirstNameNoTooltip|U]よ、乾杯だ！"
  court.6060.d:0 "答えはこの大酒杯の底にあるさ！"
  court.6070.t:0 "文字の価値"

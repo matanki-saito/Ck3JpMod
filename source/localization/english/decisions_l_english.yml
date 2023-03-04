@@ -593,7 +593,7 @@
  stress_loss_rakish_decision_desc_woman_ending:0 "性的快楽ほど心を和らげるものはない。"
  stress_loss_rakish_decision_desc_man_ending:0 "良き自由ほど心を和らげるものはない。"
  stress_loss_rakish_decision_tooltip:0 "欲望にふけることによってあなたの心を和らげます"
- stress_loss_rakish_decision_confirm:0 "[ROOT.Char.Custom('AttractionGirlBoyPlural')]よ！ここに来てみたよ"
+ stress_loss_rakish_decision_confirm:0 "[ROOT.Char.Custom('AttractionGirlBoyPlural')]よ、やあやあ我こそは！"
  stress_loss_reclusive_decision:0 "隠遁生活に入る"
  stress_loss_reclusive_decision_desc:1 "心を集中させ、雑念や不安を取り除くには世俗を離れねばならない。独りになれば心を研ぎ澄まし、癒しを得られる。"
  stress_loss_reclusive_decision_tooltip:0 "隠遁生活に入り自身の心に向き合います"

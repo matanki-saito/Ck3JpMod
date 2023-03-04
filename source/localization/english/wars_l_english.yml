@@ -406,7 +406,7 @@
  CB_STRUGGLE_PHASE_DISCOUNT:0 "[struggle_phase|E]"
  CB_STRUGGLE_PHASE_SURCHARGE:0 "[struggle_phase|E]"
  NATION_FRACTURING_WAR_NAME:1 "[Character.GetPrimaryTitle.GetDefinitiveNameNoTooltip]解体戦争"
- nation_fracturing_faction_war:1 "[Character.GetPrimaryTitle.GetDefinitiveNameNoTooltip]解体派"
+ nation_fracturing_faction_war:1 "[THIS.Char.GetPrimaryTitle.GetNameNoTier]解体派の派閥"
  nation_fracturing_faction_war_victory_desc_local_player_attacker_alone:2 "[defender.GetPrimaryTitle.GetBaseName]は破棄され[defender.GetShortUINamePossessive|U]の[vassals|E]たちは独立します。"
  nation_fracturing_faction_war_victory_desc_local_player_defender_attacker_alone:2 "[defender.GetPrimaryTitle.GetBaseName]は破棄され[defender.GetShortUINamePossessive|U]の[vassals|E]たちは独立します。"
  player_nation_fracturing_faction_war_victory_desc_local_player_defender_attacker_alone:2 "[defender.GetPrimaryTitle.GetBaseName|U]は破棄されあなたの[vassals|E]たちは独立します。"

@@ -569,7 +569,7 @@
  piety_level_5_desc:2 "$piety_level_5$は五つ目にして最高の[piety_level|E]です。\n効果:\n[GetPietyLevelDesc('(int32)5')|=+]"
  prestige_level_0:1 "不埒者"
  prestige_level_0_desc:1 "$prestige_level_0$は最も低い[prestige_level|E]です。次のレベルは[GetModifier( 'prestige_level_1' ).GetNameWithTooltip|L]\n効果:\n[GetPrestigeLevelDesc('(int32)0')|=+]"
- prestige_level_1:1 "由緒正しい"
+ prestige_level_1:1 "定評がある"
  prestige_level_1_desc:1 "$prestige_level_1$は二つ目の[prestige_level|E]です。次のレベルは[GetModifier( 'prestige_level_2' ).GetNameWithTooltip|L]です。\n効果:\n[GetPrestigeLevelDesc('(int32)1')|=+]"
  prestige_level_2:1 "一目置かれている"
  prestige_level_2_desc:1 "$prestige_level_2$は三つ目の[prestige_level|E]です。次のレベルは[GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]です。\n効果:\n[GetPrestigeLevelDesc('(int32)2')|=+]"

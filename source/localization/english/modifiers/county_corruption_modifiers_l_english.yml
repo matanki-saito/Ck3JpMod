@@ -25,4 +25,4 @@
  gain_county_corruption.message.deficit:0 "借金がある"
  gain_county_corruption.message.county_corruption:0 "腐敗"
  gain_county_corruption.message.desc:0 "[county_corruption|E]:\n$EFFECT$"
- remove_county_corruption.message.marshal_removal:1 "領内統制を強化"
+ remove_county_corruption.message.marshal_removal:1 "領内支配の強化"
