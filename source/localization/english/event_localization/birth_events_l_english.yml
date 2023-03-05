@@ -62,7 +62,7 @@
  birth.1006.desc.twin:0 "双子を身籠もり、同時に、私たちは私こそが彼らの父親であることを知っている。"
  birth.1006.desc:0 "[child.Custom('GetDaughterSon')]を身籠り、同時に、私たちは私こそが[child.GetHerHis]の父親であることを知っている。"
  birth.1006.not_known:0 "\n\nありがたいことに、[spouse_of_mother.Custom2('HerHisCharacterIntroduction', SCOPE.sC('mother'))]は、[spouse_of_mother.GetHerHis]のものだと信じている。"
- birth.1006.unmarried:0 "\n\nありがたいことに、[mother.GetFirstNameNoTooltip]は私について沈黙を保っており、他の誰も真実を知らない。少なくとも今のところは…"
+ birth.1006.unmarried:0 "\n\nありがたいことに、[mother.GetFirstNameNoTooltip]は私について沈黙を保っており、他の誰も真実を知らない。少なくとも今のところは……"
  birth.1006.a:0 "これは大いに気をつけなければならないな。"
  birth.1006.a.tt:1 "あなたはこれを秘密のままにしておきます"
  birth.1006.a.message_desc:0 "本当の父はこのことを知っています"

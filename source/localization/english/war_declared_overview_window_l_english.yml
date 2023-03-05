@@ -15,7 +15,7 @@
  war_declared_flavor.subjugation.tribal:0 "弱者は敗れ、強者が勝つ。貴様はそれ以外の理由が必要だと言うのかね！"
  war_declared_flavor.subjugation.arrogant:0 "その口を閉じよ。余とおぬしが対等などあり得ぬ！おぬしの軍隊など、余の敵ではないということを思い知るがいい！"
  war_declared_flavor.conquest:0 "汝、柔弱なる統治者にして、汝の有する領地に値せず。真の君主とはいかなるものか見せてしんぜよう――汝から奪いし土地をもってして！"
- war_declared_flavor.peasant:0 "てめえのイキリはどんだけ限界超えてんだよって話だよな。でも心配ご無用。もうすぐ謙虚さってもんを叩き込まれっからよ！"
+ war_declared_flavor.peasant:0 "てめえのイキリはどんだけ限界超えてんだよって話だよな。けど心配ご無用。もうちょいで謙虚さってもんを叩き込まれっからよ！"
  war_declared_flavor.populist:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]戦いを望むというのか。ならば受けて立とう！何者だろうと、我らを止められはしない！"
  war_declared_flavor.independence:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]我らはあまりにも長きにわたって汝の支配下で生きてきた。もはや耐えられぬ――鉄血をもって我ら自由とならん！"
  war_declared_flavor.liberty:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]貴方は古くからの我らの権利を犯し、この地に圧政を敷いた。我らが立ち上がるのは、我ら自身を鎖から解き放つためだ！"

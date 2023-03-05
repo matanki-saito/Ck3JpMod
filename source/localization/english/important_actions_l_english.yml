@@ -65,7 +65,7 @@
  action_lifestyle_stewarship_click:0 "$action_can_spend_perk_point_click$"
  action_can_choose_dynasty_perk:0 "王朝の遺産が利用可能"
  action_can_choose_dynasty_perk_label:1 "[dynasty_perk|E]をアンロックするべきです"
- action_can_choose_dynasty_perk_desc:2 "あなたはあなたの[dynasty|E]の[dynasty_perk|E]をアンロックするだけの十分な[dynasty_prestige|E]を持っています。\n\n#help [dynast|E]として、あなたは王朝に属するものに名誉を使うことができますが、遺産はあなたの王朝全体への長期ボーナスです。#!"
+ action_can_choose_dynasty_perk_desc:2 "あなたは[dynasty|E]の[dynasty_perk|E]をアンロックするのに十分な[dynasty_prestige|E]を持っています。\n\n#help [dynast|E]として、あなたは名誉を使って同じ王朝のメンバーに行動を起こさせることもできますが、遺産はあなたの王朝全体への長期にわたるボーナスです。#!"
  action_can_choose_dynasty_perk_click:1 "#I クリックで遺産を選択#!"
  action_can_lawfully_imprison:0 "犯罪者を投獄可能"
  action_can_lawfully_imprison_label:1 "合法的に[recipient.GetShortUINameNoTooltip]を投獄できます"

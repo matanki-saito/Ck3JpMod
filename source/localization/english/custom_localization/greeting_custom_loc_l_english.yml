@@ -45,7 +45,7 @@
  greeting_supplimentary.negative.insult_muslim.1:0 "貴君の七番目の祖父に呪いあれ。"
  greeting_supplimentary.negative.insult_muslim.2:0 "死んだラクダの腹の中に生きたまま縫われんことを。"
  greeting_supplimentary.negative.insult_muslim.3:0 "アッラーが貴君の一族を根絶やしにされんことを。"
- greeting_supplimentary.negative.insult_muslim.4:0 "お前は不潔な野良犬の子だ。"
+ greeting_supplimentary.negative.insult_muslim.4:0 "汝、汚らわしき犬の子よ。"
  greeting_supplimentary.positive:0 "[ROOT.Char.Custom2('PositiveSupplimentaryGreeting', second)]"
  greeting_supplimentary.positive.flattery.1:0 "貴君とその家系に祝福を。"
  greeting_supplimentary.positive.flattery.2:0 "貴君の英知と慈悲は伝説となっている。"
