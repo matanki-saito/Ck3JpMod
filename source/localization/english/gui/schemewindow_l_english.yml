@@ -252,7 +252,7 @@
  NOBODY_HAS_HOOKS_ON_ME:1 "#weak 誰もあなたのフックを持っていません#!"
  I_HAVE_NO_SECRETS:1 "#weak 秘密はありません#!"
  INTRIGUE_WINDOW_PRISONERS:0 "囚人"
- INTRIGUE_WINDOW_SORT_DURATION:0 "捕囚期間"
+ INTRIGUE_WINDOW_SORT_DURATION:0 "投獄期間"
  INTRIGUE_WINDOW_WEAK_HOOKS_COUNT:0 "#T [weak_hooks|E]の数#!"
  INTRIGUE_WINDOW_STRONG_HOOKS_COUNT:0 "#T [strong_hooks|E]の数#!"
  INTRIGUE_WINDOW_BLACKMAIL_STRONG_HOOK_TT:0 "#T 強いフックの秘密#!\n[Character.GetShortUIName]がこの[secret|E]による[blackmail|E]を受け入れた場合、あなたは[Character.GetHerHim]に対する[strong_hook|E]を獲得するでしょう"

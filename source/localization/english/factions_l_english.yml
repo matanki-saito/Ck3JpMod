@@ -100,7 +100,7 @@
  WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon!#X [faction_invite_from.GetTitledFirstName]は派閥に参加できません#!"
  peasant_faction_spawn_county_levies:0 "伯爵領の[levies]に比例する農民反乱の[army|E]が出現します"
  FACTION_POWER_INTERNAL_ISSUES:0 "存在する派閥: #V $VALUE|0$#!"
- nation_fracturing_faction:1 "[THIS.Char.GetPrimaryTitle.GetNameNoTier]解体派の派閥"
+ nation_fracturing_faction:1 "[Character.GetPrimaryTitle.GetDefinitiveNameNoTooltip]解体派の派閥"
  nation_fracturing_faction_desc:1 "$nation_fracturing_faction$の[faction|E]メンバーは、[liege|E]の領国を解体しようとしている。\n\n#S 最後通牒#!\nすべての派閥メンバーが[independent|E]します。\n[liege|E]が[primary_title|E]および同[title_tier|E]の[titles|E]を失います。"
  nation_fracturing_faction_short_effect_desc:0 "彼らは[liege|E]の領国の解体を望んでいます"
  liege_primary_title_dissolution:0 "くびきはもはや取り払われた！"
