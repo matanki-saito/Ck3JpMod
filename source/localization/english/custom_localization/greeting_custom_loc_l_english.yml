@@ -47,7 +47,7 @@
  greeting_supplimentary.negative.insult_muslim.3:0 "アッラーが貴君の一族を根絶やしにされんことを。"
  greeting_supplimentary.negative.insult_muslim.4:0 "汝、汚らわしき犬の子よ。"
  greeting_supplimentary.positive:0 "[ROOT.Char.Custom2('PositiveSupplimentaryGreeting', second)]"
- greeting_supplimentary.positive.flattery.1:0 "貴君とその家系に祝福を。"
+ greeting_supplimentary.positive.flattery.1:0 "貴君とその家系に神のご加護があらんことを願うばかりである。"
  greeting_supplimentary.positive.flattery.2:0 "貴君の英知と慈悲は伝説となっている。"
  greeting_supplimentary.positive.flattery.3:0 "貴君に平安があらんことを。"
  greeting_supplimentary.positive.flattery.4:0 "あなたに安らぎと平和のあらんことを。"
