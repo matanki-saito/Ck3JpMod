@@ -734,7 +734,7 @@
  trait_cautious_leader:0 "用心深い指揮官"
  trait_cautious_leader_desc:0 "用心深い指揮官は、潜在的な利益を犠牲にしても、戦闘で不用意なリスクを取らぬように注意する。"
  trait_cautious_leader_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、潜在的な利益を犠牲にしても、戦闘で不用意なリスクを取らぬように注意する。"
- trait_organizer:0 "組織の編成者"
+ trait_organizer:0 "機動的な指揮官"
  trait_organizer_desc:0 "有能な手腕でよく組織された軍隊は、いかなる状況でも迅速に敵の裏をかくことができる。"
  trait_organizer_character_desc:0 "有能な手腕でよく組織された軍隊は、いかなる状況でも迅速に敵の裏をかくことができる。"
  trait_sea_raider:0 "海賊"

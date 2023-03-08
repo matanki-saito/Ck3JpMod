@@ -81,7 +81,7 @@
  yearly.1015.immediate.tt:0 "[abductee.GetTitledFirstName]は私の宮廷に戻りました"
  yearly.1015.a.trusting:0 "[abductee.GetFirstNamePossessiveNoTooltip]の無事の帰還を[ROOT.Char.GetFaith.HighGodName]に感謝する！"
  yearly.1015.a.paranoid:0 "[abductee.GetFirstNameNoTooltip]は何か隠している、私はそう確信している…"
- yearly.1015.a:0 "何を信じていいのかわからない…"
+ yearly.1015.a:0 "何を信じてよいのか分からない……"
  yearly.1020.opening:0 "[vip.Custom2('AppropriateGreeting', ROOT.Char)]"
  yearly.1020.desc:1 "数日後、私の[enemy.Custom('InsultAdjective')][vip.Custom2('RelationToMeShort', SCOPE.sC('enemy'))]である[enemy.GetTitledFirstName]が[my_county.GetNameNoTierNoTooltip]を通過する。待ち伏せし[enemy.GetHerHim]を捕らえてくれれば、惜しみない報酬を用意しよう。\n\n私の申し出を受けてくれれば、まずは半分の金を、残りの半分は[enemy.GetTitledFirstNameNoTooltip]を捕らえてくれれば渡そう。もし[enemy.GetSheHe]が死んでも悲しむことはないが、[enemy.GetHerHis]の死体に対して金を払うつもりはない。\n\nこの内容が私たち以外に漏れることはないと信じている。 お返事を楽しみにしている。"
  yearly.1020.a:0 "待ち伏せに適した場所を知っているぞ..."

@@ -665,7 +665,7 @@
  CLOUDSAVE_QUOTA_EXCEEDED_TOOLTIP:0 "クラウドの保存容量の限界を超えてしまいました。古いクラウドのデータを削除して空き容量を確保してみてください。"
  TRAIT_NAME_WITH_BASE:0 "$NAME$ #weak ($BASE$)#!"
  peasant_faction_event_troops:0 "農民蜂起"
- populist_faction_event_troops:0 "民衆の反乱"
+ populist_faction_event_troops:0 "民衆派の反乱"
  mongol_event_troops:0 "モンゴルの大軍勢"
  first_almohad_event_troops:0 "結集した部族"
  second_almohad_event_troops:0 "ムワッヒド朝"
