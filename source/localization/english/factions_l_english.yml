@@ -49,7 +49,7 @@
  FACTION_DEMAND_POPULIST_REFUSE:0 "自由を欲するだと？ お前は血を見る事になるぞ！"
  FACTION_POPULIST_REVOLT_TITLE_NAME:0 "民衆派の蜂起"
  FACTION_POPULIST_CREATED_TITLE_NAME:0 "[base_county.GetNameNoTierNoTooltip]"
- liberty_faction:0 "分権派"
+ liberty_faction:0 "分権派の派閥"
  liberty_faction_desc:0 "分権派の[faction|E]は、[crown_authority|E]を下げる事を求めているが、それを除けば[realm|E]に対して忠実である。"
  liberty_faction_short_effect_desc:0 "[crown_authority|E]を低下させる事を望んでいる"
  FACTION_DISCONTENT_CA_1:0 "限定的な王権 #V $VALUE|0$%#!"

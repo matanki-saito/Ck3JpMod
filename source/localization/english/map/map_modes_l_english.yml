@@ -34,5 +34,5 @@
  houses_desc:0 "$MAPMODE_HOUSES$"
  government:0 "$MAPMODE_GOVERNMENT_NAME$"
  government_desc:0 "$MAPMODE_GOVERNMENT$"
- struggle:0 "関与"
+ struggle:0 "参加"
  struggle_desc:0 "#T 関与#!\n[struggle_region|E]内の[realms|E]の関与状況を表示します。"
