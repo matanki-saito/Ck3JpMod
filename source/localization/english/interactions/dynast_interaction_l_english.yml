@@ -8,7 +8,7 @@
  restore_inheritance_interaction_notification:0 "復元された継承権"
  denounce_interaction:0 "糾弾"
  denounce_interaction_desc:0 "$dynasty_interaction_header$[recipient.GetShortUINameNoTooltip]を[denounce|E]します\n\n#weak これは我々の[dynasty|E]すべてのメンバーに[recipient.GetHerHim]に対する[imprisonment_reason|E]を与えます#!"
- denounce_interaction_notification:0 "糾弾された一族の一員"
+ denounce_interaction_notification:0 "一族の糾弾されたメンバー"
  forgive_interaction:0 "許す"
  denounced_change_to_forgiven:0 "#V $denounced_opinion$の評価#! #weak (-50)#! が#V $forgave_denounced_opinion$#! #weak (-25)#! に変更されます ([opinion|E]#P +25#!)"
  forgiven_changed_to_denounced:0 "#V $forgave_denounced_opinion$の評価#! #weak (-25) #!が#V $denounced_opinion$#! #weak (-50)#! に変更されます ([opinion|E]#N -25#!)"
