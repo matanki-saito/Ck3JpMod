@@ -320,7 +320,7 @@
  trait_journaller_desc:0 "この人物は、考えを書き留めることで悩み事に対処しやすくしている。"
  trait_journaller_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、[ROOT.GetCharacter.GetHerHim]の考えを書き留めることで悩み事に対処しやすくしている。"
  trait_confider:0 "自白者"
- trait_confider_desc:0 "腹心と問題を共有することで、この人物は一人の時よりも遥かに良い人生を歩むことが出来るようになった。"
+ trait_confider_desc:0 "この人物は、腹心と問題を共有することで、一人では出来ないほど遥かによく人生に対処できるようになった。"
  trait_confider_character_desc:0 "[ROOT.GetCharacter.GetHerHis]と問題を共有することで、[ROOT.GetCharacter.GetFirstNameNoTooltip]は一人の時よりも遥かに良い人生を歩むことが出来るようになった。"
  trait_athletic:0 "運動好き"
  trait_athletic_desc:0 "定期的な運動は、この人物の心の平穏を保ちストレス解消に役立つだろう。"
