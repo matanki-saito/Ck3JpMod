@@ -152,3 +152,4 @@
  SETTING_AUDIO_OPTION_NIGHTMODE_TOOLTIP:0 "#T $SETTING_AUDIO_OPTION_NIGHTMODE$\n#!夜間再生用に音を柔らかくし、高音域を暗くし、ダイナミックレンジを圧縮します。"
  SETTING_NODE_EDITOR_DRAG_PAN_MODE:0 "ノードエディタ ドラッグ移動モード"
  SETTING_LENS_FLARE_TOOLTIP: "#T $SETTING_LENS_FLARE$\n#!ブルーム効果が非常に高い領域で現れるレンズフレア効果を有効にします。この効果の発現にはブルームを有効にしておく必要があります。\n\n無効化によりパフォーマンスが向上する場合があります。"
+ SETTING_RENDERER_TOOLTIP:0 "Determines which renderer is being used."
