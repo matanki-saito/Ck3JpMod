@@ -15,6 +15,7 @@
  DLC004_EP1:0 "The Royal Court"
  DLC005_FP2:0 "The Fate of Iberia"
  DLC006_BP1:0 "Friends & Foes"
+ DLC008_SP2:0 "Elegance of the Empire"
 
 
  dlc_001:0 "$DLC001_PREORDER$"
@@ -29,3 +30,5 @@
  dlc_005_desc:0 "The sun-kissed lands of Iberia await your glorious rule with Crusader Kings III: Fate of Iberia flavor pack. Deeply rich in history, culture and people, the peninsula's medieval destiny is ready to be shaped by your majestic hand, be it clad in conciliatory velvet or as an iron fist."
  dlc_006:0 "$DLC006_BP1$"
  dlc_006_desc:0 "Beware, ruler - tread carefully with those you call friend or enemy; they are two sides of the same coin. Your relationships matter more than ever, and with Crusader Kings III: Friends & Foes, witness those closest to you come alive in the most intimate detail."
+ dlc_008:0 "$DLC008_SP2$"
+ dlc_008_desc:0 "Dress your rulers in the finest of finery with this clothing pack. Based on the garments and regalia of Emperor Henry II and the Empress Cunigunde, this pack includes not only new robes and dresses, but historically appropriate crowns and other items. Exclusively available to owners of Chapter II."

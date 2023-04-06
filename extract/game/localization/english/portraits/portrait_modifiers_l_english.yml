@@ -344,6 +344,17 @@
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_fp2_iberian_christian_war_nobility_01:0 "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_fp2_iberian_christian_war_nobility_01$"
 
 
+####################################
+### SP2 - Elegance of the Empire ###
+####################################
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_sp2_western_imp_01:0 "Emperor's Tunic"
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_sp2_western_imp_01:0 "Empress' Gown"
+
+
 ##########################################
 ################ Headgear ################
 ##########################################
@@ -590,6 +601,20 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_fp2_iberian_christian_war_nobility_01:1 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_fp2_iberian_christian_war_nobility_01$"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_fp2_iberian_muslim_war_nobility_01:1 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_fp2_iberian_muslim_war_nobility_01$"
 
+
+####################################
+### SP2 - Elegance of the Empire ###
+####################################
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_sp2_western_imp_01:0 "Imperial Crown of Hildesheim"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_sp2_western_hi_nob_01:0 "Jewelry-Adorned Cap"
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_sp2_western_imp_01:0 "Crown of Cunigunde"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_sp2_western_hi_nob_01:0 "Circlet with Pearls and Gemstones"
+
+
 ###############
 ### Special ###
 ###############
@@ -769,6 +794,9 @@
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp2_iberian_muslim_03:1 "Forked Beard"
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp2_iberian_christian_04:0 "Droopy Mustache"
 
+### SP2 Beards ###
+ PORTRAIT_MODIFIER_custom_beards_m_beard_sp2_western_01:0 "Regal Mustache"
+
 #######################################
 ################ Cloak ################
 #######################################
@@ -794,6 +822,14 @@
  PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_fp1_nobility_01:0 "Shieldmaiden's Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_fp1_nobility_02:0 "Chieftess' Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_fp1_nobility_03:0 "Norse Shoulder Wrap"
+
+### SP2 - Elegance of the Empire ###
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_sp2_western_imp_01:0 "Coronation cloak"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_sec_sp2_western_imp_01:0 "$PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_sp2_western_imp_01$"
 
 ##################################################
 ################ Monarchs Journey ################
