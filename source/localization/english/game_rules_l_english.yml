@@ -86,7 +86,7 @@
  setting_randomized_faiths_on_desc:0 "人物と州にはランダムな信仰が割り当てられます。ゲーム内のあらゆる信仰が利用可能です。"
  rule_faith_acceptance:0 "信仰の受容"
  setting_default_faith_acceptance:0 "デフォルト"
- setting_default_faith_acceptance_desc:0 "ある信仰の他の信仰に対する姿勢は、教義によって決定されます。"
+ setting_default_faith_acceptance_desc:0 "ある宗派の他の宗派に対する姿勢は、教義によって決定されます。"
  setting_full_faith_acceptance:1 "#high 完全#!"
  setting_full_faith_acceptance_desc:0 "あらゆる信仰が他の信仰を完全に受容します。異なる信仰を持つことによる評価のペナルティはありません。"
  rule_random_ruler_placement:0 "ランダムな統治者の配置"
