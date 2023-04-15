@@ -242,7 +242,7 @@
  intrigue_scheming_special.1001.t:0 "夢芝居"
  intrigue_scheming_special.1001.desc:0 "微かに聞こえた囁き声と鋭い一瞥は、パズルを完成させる最後のピースだった。私の[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('courtier_spy'))][courtier_spy.GetTitledFirstName]は、誰も想像がつかないほど権謀術数に精通した人物だったのだ。\n\nそのような[courtier_spy.GetWomanMan]が宮廷にいるのは心穏やかではないが、もし信頼を得ることができたなら多くを学べるだろう。"
  intrigue_scheming_special.1001.a:0 "私と[courtier_spy.GetHerHim]は、「同じ穴のムジナ」だと分かってもらおう！"
- intrigue_scheming_special.1001.b:0 "あまりに危険が大きい、#EMP 私は#!#EMP [courtier_spy.GetHerHim]を信用できない#!。"
+ intrigue_scheming_special.1001.b:0 "あまりに危険が大きい。#EMP 私は#!#EMP [courtier_spy.GetHerHim]を信用できない#!。"
  intrigue_scheming_special.1001.c:0 "[courtier_spy.GetSheHe|U]は消えなければならない！"
  intrigue_scheming_special.1002.desc:0 "何日もかかったが、ついに[courtier_spy.GetSheHe]が一人でいる時に、#EMP 偶然にも#![courtier_spy.GetTitledFirstName]に出くわした。「[courtier_spy.GetLadyLord|U][courtier_spy.GetTitledFirstNameNoTooltip]、私はずっと——」\n「もしあなたが部屋に入った所で、皿を落とした若い給仕に怒鳴っている配偶者を見つけたら、あなたならどうする？」\n\n[courtier_spy.GetSheHe]は私を試しているのだろうか？私たちには共通点がたくさんあることを [courtier_spy.GetHerHim]に納得させるチャンスなのかもしれない。"
  intrigue_scheming_special.1002.a:0 "給仕が罰せられるのは当然だろう。"

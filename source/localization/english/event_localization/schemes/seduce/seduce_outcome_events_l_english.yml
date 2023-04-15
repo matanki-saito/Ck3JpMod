@@ -16,7 +16,7 @@
  seduce_outcome.0003.a.tt:1 "[owner.GetShortUIName|U]は私の愛人になるかもしれません"
  seduce_outcome.0003.b.success:0 "明るく燃え上がり、はかなく消える、それがロマンス。"
  seduce_outcome.0003.b.failure:0 "今夜の気晴らしにはなるが、それだけだ。"
- seduce_outcome.0003.c:0 "なんて美しい…だが断るとしよう。"
+ seduce_outcome.0003.c:0 "なんと美しい…だが断るとしよう。"
  seduce_outcome.0003.d:0 "金輪際ご免だ！[owner.GetHerHis]のふしだらな本性を世間が知ろう！"
  seduce_outcome.0003.e:0 "この手の駆け引きには飽きた。皆に言う、一人にしてくれ！"
  seduce_outcome.0003.e.tt:0 "#V 10#!年間、私を誘惑しようとする者はいなくなります"

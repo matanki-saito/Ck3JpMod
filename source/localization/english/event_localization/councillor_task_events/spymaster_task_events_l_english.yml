@@ -145,7 +145,7 @@
  spymaster_task.3005.end:0 "\n\nしかし、私が彼らに退くよう要求したところ、[councillor_liege.GetTitleTierName]は全てを否定した！"
  spymaster_task.3005.a:0 "ずうずうしい悪党め！"
  spymaster_task.3006.end:0 "\n\n彼らに退くよう命じたところ[councillor_liege.GetTitleTierName]は承諾したが、私は気をつけておかねばならない…"
- spymaster_task.3006.a:0 "闇の囁きは闇の行動に先行して起こる。"
+ spymaster_task.3006.a:0 "邪悪な囁きは邪悪な行いに先んずるものだ。"
  spymaster_task.3007.desc:0 "秘密を探っているスパイは私の宮廷の悩みの種となっており、彼らがあなたの[councillor.GetCouncilTitle]に雇われていると知った時の私の驚きを想像してください！この茶番を直ちに終わらせてください！"
  spymaster_task.3007.a:0 "私はスパイなんて知らないよ、[target_character.GetFirstNameNoTooltip]。"
  spymaster_task.3007.b:0 "ああ、彼らはきっと帰り道で迷ったんだ！"
