@@ -104,7 +104,7 @@
  task_increase_control_lose_opinion:0 "\n$EFFECT_LIST_BULLET$#N 伯爵領からの評価を失う#!"
  task_increase_control_lose_control:0 "\n$EFFECT_LIST_BULLET$#N 支配の喪失#!"
  task_increase_control_baron_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#N 男爵からの評価の低下#!"
- task_increase_control_corruption_notification:1 "あなたの[councillor.GetCouncilTitle]が[county.GetNameNoTier]における汚職を削除"
+ task_increase_control_corruption_notification:1 "あなたの[councillor.GetCouncilTitle]が[county.GetNameNoTier]にて汚職を排除"
  task_increase_control_notification_tooltip:0 "$task_increase_control$から"
  task_increase_control_improved_vassal_opinion:0 "\n$EFFECT_LIST_BULLET$#P 封臣からの評価が向上#!"
  task_increase_control_improve_vassal_contract:1 "\n$EFFECT_LIST_BULLET$#P [feudal_contract]の改善#!"

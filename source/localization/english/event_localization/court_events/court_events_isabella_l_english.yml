@@ -73,7 +73,7 @@
  court.4355.b:0 "衛兵！[caravan_attacker.GetSheHe]が悔い改めるまで砂糖ボウルで叩いてやれ。"
  court.4355.c:0 "[caravan_attacker.GetSheHe]は私の命令に関係なく、略奪を続けると感じている。"
  court.4355.c.tt:0 "#F [caravan_attacker.GetSheHe|U]はやります#!"
- court.4400.t:0 "頭を得る"
+ court.4400.t:0 "首探し"
  court.4400.desc:0 "ローブ姿の[head_chasing_monk.GetWomenMen]の一群が玉座の間に乱入すると、熱に浮かされたようにこの部屋を探し回った。椅子からスカートに至るまで家探しする様子は気でも違えたかのようだ。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]よ！」一人が叫ぶ。「我らは、首無しの君[the_headless.GetTitledFirstNameNoTooltip]の信奉者である。[the_headless.GetHerHim]は誕生時に[ROOT.GetCharacter.GetFaith.HighGodName]より賜った予言の一部を元に、首を落とされた偉大にして聖なる[the_headless.GetWomanMan]である。聖像によく起きがちだが[the_headless.GetHerHis]の頭が転がり出してしまったのである。国中を追いかけて来たのであるが、#EMP 確かに#!丘の転がり登ってあなたの[ROOT.GetCharacter.Custom('FortifiedBuilding')]の中に入っていったのである！」"
  court.4400.a:0 "[ROOT.GetCharacter.Custom('FortifiedBuilding')]の探索を許可しよう。"
  court.4400.b:0 "私も探索に参加するぞ！"

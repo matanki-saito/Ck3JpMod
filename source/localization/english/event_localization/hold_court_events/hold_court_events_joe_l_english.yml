@@ -636,7 +636,7 @@
  hold_court.8221.a.bodyguard:0 "彼らを処刑せよ！"
  hold_court.8221.a.alone:0 "暗殺者を処刑せよ！"
  hold_court.8221.execute_bodyguard:0 "[assassin.GetTitledFirstName]と[bodyguard.GetTitledFirstName]が処刑される"
- hold_court.8221.execute_alone:0 "[assassin.GetTitledFirstName]は処刑される"
+ hold_court.8221.execute_alone:0 "[assassin.GetTitledFirstName]が処刑される"
  hold_court.8221.b.bodyguard:0 "やつらを投獄しろ！"
  hold_court.8221.b.alone:0 "[assassin.GetHerHim]を投獄しろ！"
  hold_court.8221.imprison_bodyguard:0 "[assassin.GetTitledFirstName]と[bodyguard.GetTitledFirstName]は投獄される"

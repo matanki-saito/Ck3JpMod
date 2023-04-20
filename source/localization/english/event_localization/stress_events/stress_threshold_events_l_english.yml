@@ -26,7 +26,7 @@
  stress_threshold.1011.reclusive.gain:0 "誘惑を避けるために引きこもらねば！"
  stress_threshold.1011.reclusive.effect:0 "孤独の中でのみ平穏が見つかるだろう！"
  stress_threshold.1011.conversion.interfaith:0 "もしや[new_faith.HighGodName]への新しい観点が私を救ってくれるだろうか？"
- stress_threshold.1011.conversion.intrafaith:0 "[ROOT.Char.GetFaith.HighGodName]が出来なかったことを[new_faith.HighGodName]が助けてくれるのではないだろうか？"
+ stress_threshold.1011.conversion.intrafaith:0 "私を助けてくれるのは[ROOT.Char.GetFaith.HighGodName]ではなく、[new_faith.HighGodName]では？"
  stress_threshold.1011.conversion.judaism:0 "古い戒律が私の純真さを助けてくれるだろう。"
  stress_threshold.1011.conversion.christianity:0 "イエスよ、私をこの誘惑から救ってくれ！"
  stress_threshold.1011.exercise.gain:0 "もしかしたら、違う捌け口が効くかもしれない…"
