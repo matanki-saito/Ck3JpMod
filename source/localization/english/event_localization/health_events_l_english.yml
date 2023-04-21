@@ -310,7 +310,7 @@
  health.3108.a:0 "どう思えばよいか……というか何を信じればよいか分からない"
  health.3109.t:1 "[SCOPE.Custom('EventTitleDisease')]: 矛盾せる感情"
  health.3109.end.desc:0 "\n\n起こったことにまだ不安だが、しかし症状の大半がなくなっているのを否定できない。"
- health.3109.a:0 "私が何を期待していたのか分からないが、ともかく期待外れだった。"
+ health.3109.a:0 "何の予想も出来なかったが、大したものでもなかったな。"
  health.3110.t:1 "[SCOPE.Custom('EventTitleDisease')]: 暗闇へ"
  health.3110.end.desc:0 "\n\n私の精神は黒魔術によって変化し、捻じ曲げられてしまったに違いない。私は決して、こんなことに喜んで同意などしていない。記憶はたびたび私の脳裏をよぎっている…"
  health.3200.death.desc:0 "その顔は確かに[sick_character.GetTitledFirstNamePossessive]のものだとわかるのだが、それでも[sick_character.GetHerHim]とはまるで別人のように見える。[sick_character.GetSheHe|U]はもはやそこには…存在していないのだ。体の残りの部分は厚い白布にくるまれ、[physician.GetTitledFirstNamePossessive]の失敗が引き起こした恐ろしい爪痕を覆い隠している。"
