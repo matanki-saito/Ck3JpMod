@@ -58,7 +58,7 @@
  child_personality.7030.c:0 "……鍋を洗う！当り前じゃないか！"
  child_personality.7031.t:0 "$child_personality.7030.t$"
  child_personality.7031.desc:0 "「これはこれは[ROOT.Char.GetLadyLord]様、ご機嫌麗しゅう」お抱え料理人の[cook.GetFirstName]が語りかける。「じつは先ほどあなた様の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))]の[child.GetFirstName]様がお見えになりましてね。調理室の鍋をぜんぶ洗って綺麗にすると仰られたのですよ、ところが……」\n\n[cook.GetSheHe|U]は深いため息を付いた。\n\n"
- child_personality.lazy.desc:0 "「……まるで小さなネズミみたいに、全部の料理をかじったんですよ！そしたら小麦粉袋に入って寝てしまう！私に言わせれば鞭でぶっ叩いたほうがいいと思いますけどね、でもこの子をどうするかは、あなた様にお任せいたします！」\n\nこの子はあまりにも無気力で怠惰だ。これでは死体と変わりないではないか！"
+ child_personality.lazy.desc:0 "「……まるで小さなネズミみたいに、全部の料理をつまみ食いしたんですよ！そしたら粉袋の上で寝てしまう！私に言わせれば鞭でぶっ叩いたほうがいいと思いますけどね、でもこの子をどうするかは、あなた様にお任せいたします！」\n\nこの子はあまりにも無気力で怠惰だ。これでは死体と変わりないではないか！"
  child_personality.gluttonous.desc:0 "「[child.GetSheHe]は手当たり次第にお菓子をぜんぶ食べてしまったのですよ！まるで小さな豚です！もう汗だくで顔を真っ赤にするくらい夢中でお食べになられて……」\n\n[child.GetFirstNameNoTooltip]は甘い誘惑に勝てなかったようだ。しかしこれはいささか危ういのでは……"
  child_personality.compassionate.desc:0 "「……本当に鍋を#EMP 全部#!洗われたんですよ！しかも大鍋まで！私めが言う前に！何とも可愛らしい子をお持ちでいらっしゃる」\n\nこれはなんという親切心だろう。しかし[child.GetFirstNamePossessiveNoTooltip]の身分にあった行動と言えるだろうか……？"
  child_personality.7031.lazy:0 "いいぞ、必要以上に浪費する暇なんてないんだからな！"
