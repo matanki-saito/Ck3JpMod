@@ -618,7 +618,7 @@
  bp1_yearly.8180.d:0 "裏切りの脅しをかける気か！"
  bp1_yearly.8180.d.flavor:0 "あなたを手に入れられないのであれば…"
  bp1_yearly.8190.t:0 "[sycophant_scope.GetFirstNamePossessiveNoTooltip]の才能"
- bp1_yearly.8190.opening:1 "中庭を横切ると、ようやく私の[ROOT.Char.Custom2('RelationToMe', sycophant_scope)]、[sycophant_scope.GetFirstName]を評価してくれる人がいて私は嬉しい限りだ。\n\n「ああ、負け惜しみには耳を貸してはいけませんよ。」[friendly_scope.GetTitledFirstName]は歌うように言う。「あなたは長い間、最高の[sycophant_scope.GetCouncilTitle][ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]を持っています——少なくとも#EMP 私は#!それを知っていますよ！」\n\n"
+ bp1_yearly.8190.opening:1 "中庭を横切ると、ようやく私の[ROOT.Char.Custom2('RelationToMe', sycophant_scope)]、[sycophant_scope.GetFirstName]を評価してくれる人がいて私は嬉しい限りだ。\n\n「ああ、負け惜しみには耳を貸してはいけませんよ。」[friendly_scope.GetTitledFirstName]は歌うように言う。「あなたは長い間、最高の[sycophant_scope.GetCouncilTitle]、それも[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]で1番の友を持っています——少なくとも#EMP 私は#!それを知っていますよ！」\n\n"
  bp1_yearly.8190.twitch:0 "一瞬、[jealous_scope.GetTitledFirstName]が四つ角の向こうの影のある厩舎で目を光らせているのが見えたが、[jealous_scope.GetSheHe]はすぐに暗闇に溶け込んでしまった。"
  bp1_yearly.8190.desc:0 "私が[sycophant_scope.GetHerHis]の中に見たものは本物だとわかっていた！"
  bp1_yearly.8190.a:0 "ようやく、目が利く仲間が現れたか！"
