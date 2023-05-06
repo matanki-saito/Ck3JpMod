@@ -1,7 +1,7 @@
 ﻿l_english:
  subject_extortion.0001.t:0 "臣下からの強制徴発: 有力な封臣"
- subject_extortion.0001.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('extortion_target'))]、[extortion_target.GetTitledFirstName]は——裕福な[extortion_target.GetWomanMan]だ。[extortion.GetHerHis]の様子から判断すると、私が何の目的で[extortion_target.GetHerHim]に近づいてきたのかを既に勘付いているようだ。\n\n「私は忠誠を誓い、貢納も払っている、」[extortion_target.GetSheHe]は主張する。「何をこれ以上要求するのか？」"
- subject_extortion.0001.a:0 "ちょっとした忠誠心への試練と考えて欲しい！"
+ subject_extortion.0001.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('extortion_target'))]、[extortion_target.GetTitledFirstName]は——裕福な[extortion_target.GetWomanMan]だ。[extortion.GetHerHis]の様子から判断すると、私が何の目的で[extortion_target.GetHerHim]に近づいてきたのかを既に勘付いているようだ。\n\n「私は忠誠を誓い、貢納も払っている…」[extortion_target.GetSheHe]は主張する。「これ以上何をお求めになるのか？」"
+ subject_extortion.0001.a:0 "ほんのちょっと、忠誠心を試したいだけさ！"
  subject_extortion.0001.b:0 "心配いらない、#EMP 皆に#!払ってもらうのだ。"
  subject_extortion.0001.c:0 "ああ、でもまだ私に借りがある、覚えているか？"
  subject_extortion.0001.d:0 "[extortion_target.GetFirstNameNoTooltip]、ただの冗談さ！"
