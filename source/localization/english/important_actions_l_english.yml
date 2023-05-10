@@ -238,7 +238,7 @@
  action_war_declared_click:0 "#I クリックで表示#!"
  action_war_summary_header:1 "#T 戦争の終結#!"
  action_war_summary_victory:0 "我々は$WAR_NAME$に勝利した"
- action_war_summary_white_peace:0 "$WAR_NAME$は[white_peace|E]で集結しました"
+ action_war_summary_white_peace:0 "$WAR_NAME$は[white_peace|E]で終結しました"
  action_war_summary_defeat:0 "我々は$WAR_NAME$に敗北した"
  action_war_summary_invalid:0 "$WAR_NAME$が無効になりました"
  action_war_summary_click:0 "#I クリックして戦争の概要を表示#!"
