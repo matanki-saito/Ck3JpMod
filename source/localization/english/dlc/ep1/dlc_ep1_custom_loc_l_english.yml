@@ -82,5 +82,6 @@
  weaver_inspiration_banner_house_description:0 "家の旗"
  weaver_inspiration_banner_dynasty_description:0 "王朝の旗"
  weaver_inspiration_banner_fallback_description:0 "旗"
- inspiration_artisan_type_armillary_sphere:0 "天球儀"
  inspiration_smith_type_aquamanile:0 "水差し"
+ inspiration_artisan_type_scientific_apparatus:0 "a scientific apparatus"
+ inspiration_artisan_type_urn:0 "an urn"

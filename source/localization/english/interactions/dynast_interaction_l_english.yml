@@ -33,3 +33,4 @@
  send_to_varangian_guard_interaction_desc:0 "$dynasty_interaction_header$[recipient.GetShortUINameNoTooltip]を送り出してヴァリャーグ親衛隊の栄光と富を手に入れましょう！あるいは人格の形成に役立つかもしれません！"
  send_to_varangian_guard_interaction_toast:1 "[recipient.GetShortUIName]はヴァリャーグ親衛隊のため去った"
  send_to_varangian_guard_interaction_toast_desc:0 "名声と栄光が待っている！"
+ courtly_vassal_disapproves_disinheriting:0 "Every [GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] [vassal|E] ([actor.MakeScope.ScriptValue('number_of_courtly_vassals')|V0]) loses #N 20#! [opinion|E] of [actor.GetShortUIName] for #V 10 years#! #weak (Disapproves of Disinheriting non-Disputed Heir)#!"

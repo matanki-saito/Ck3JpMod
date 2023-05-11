@@ -220,3 +220,4 @@
  CHARACTER_LIST_FILTER_PRESET_TEXT_FILTER_DESC_ILLEGAL:0 "$FILTER_GROUP$: $FILTER$@warning_icon!#X このセーブデータとは互換性がありません#!"
  CHARACTER_LIST_FILTER_PRESET_TEXT_FILTER_DESC_INVALID_GAME_VERSION:0 "$FILTER_GROUP$: $FILTER$@warning_icon!#X このゲームバージョンとは互換性がありません#!"
  INVALID_TEXT_FILTER_TYPE_CULTURE_GROUP:0 "文化グループ"
+ vassal_stance_filter:0 "Vassal Stance"

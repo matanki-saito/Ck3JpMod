@@ -21,3 +21,7 @@
  zoroastrianism_religion_opinion:0 "$zoroastrianism_religion_adherent$の評価"
  islam_religion_opinion:0 "$islam_religion_adherent$の評価"
  christianity_religion_opinion:0 "$christianity_religion_adherent$の評価"
+ brought_me_on_pilgrimage_opinion:0 "Brought me on Pilgrimage"
+ rf_eastern_adherent:0 "Eastern"
+ rf_eastern_opinion:1 "$rf_eastern_adherent$ Opinion"
+ rf_pagan_opinion:0 "$pagan_adherent$ Opinion"

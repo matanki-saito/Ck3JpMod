@@ -39,3 +39,4 @@
  raiding.0004.c.architect:0 "あなたは補償の監督のため[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('architect'))]である[architect.GetTitledFirstNameNoTooltip]を派遣します。"
  raiding.0004.c.feed.desc2:0 "我が主君は建築家と行政官のチームを率いて[sacked_county.GetNameNoTierNoTooltip]の復興を助けるため、王室建築家を派遣した。"
  raiding.0011.desc_non_tribal:0 "あなたの略奪者は戦利品として[ROOT.Var('raid_loot').GetValue|V0][gold_i]を持ち帰りましたが、あなたは[SCOPE.ScriptValue('non_tribal_loot_value')|V0][prestige_i]の称賛を犠牲にします。"
+ raiding.0004.a.tribal:0 "Curse those [raider.GetPrimaryTitle.GetAdjectiveNoTooltip] dogs!"

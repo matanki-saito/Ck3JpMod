@@ -21,7 +21,7 @@
  CAN_SPONSOR_INSPIRATION_BASE_GOLD_COST:0 "@warning_icon!#X [Character.GetUIName]は[inspiration|E]の後援に必要な@gold_icon!$GOLD|V$[gold|E]の余裕がありません。#!"
  INSPIRATION_GENERAL_TOOLTIP_SPONSOR:0 "[Inspiration.GetSponsor.GetUIName|U]"
  INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR:0 "なし"
- INSPIRATION_GENERAL_TOOLTIP:2 "[SelectLocalization( StringIsEmpty( Inspiration.GetCompletionEffect ), '', 'INSPIRATION_GENERAL_TOOLTIP_EFFECT' )]#S 進捗: #![Inspiration.GetProgress|V]/[GetDefine( 'NInspiration', 'MAX_PROGRESS' )|V]\n#S 投資した[gold|E]: #!@gold_icon![Inspiration.GetInvestedGold|V]\n#S 所有者: #![Inspiration.GetOwner.GetUIName]\n#S 後援者: #![SelectLocalization( Inspiration.GetSponsor.IsValid, 'INSPIRATION_GENERAL_TOOLTIP_SPONSOR', 'INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR' )]\n\n#F [Inspiration.GetDescription]#!"
+ INSPIRATION_GENERAL_TOOLTIP:2 "[SelectLocalization( StringIsEmpty( Inspiration.GetCompletionEffect ), '', 'INSPIRATION_GENERAL_TOOLTIP_EFFECT' )]#S Progress:#! [Inspiration.GetProgress|V]/[GetDefine( 'NInspiration', 'MAX_PROGRESS' )|V]\n#S Invested [gold|E]:#! @gold_icon! [Inspiration.GetInvestedGold]\n#S Owner:#! [Inspiration.GetOwner.GetUIName]\n#S Sponsor:#! [SelectLocalization( Inspiration.GetSponsor.IsValid, 'INSPIRATION_GENERAL_TOOLTIP_SPONSOR', 'INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR' )]\n\n#F [Inspiration.GetDescription]#!"
  INSPIRATION_GENERAL_TOOLTIP_EFFECT:0 "#S 効果:#!\n[Inspiration.GetCompletionEffect]\n\n"
  CHARACTER_HAS_INSPIRATION_TOOLTIP:1 "#T ひらめき#!\n[Character.GetUIName]には[Character.GetCurrentInspiration.GetName]がある——[Character.Custom('InspirationTypeDescriptionFuturePresent')]。\n\n[Character.Custom('InspiredPersonQuality')]"
  inspiration_type_desc_present:0 "[ROOT.Char.GetSheHe]は[ROOT.Char.Custom('InspirationTypeDescription')]"

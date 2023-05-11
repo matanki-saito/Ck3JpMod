@@ -1,3 +1,4 @@
 ﻿l_english:
  kochinim_history_loc:0 "[CULTURE.GetName]と不明な$israelite_group$[heritage|E]文化から[DATE.GetYear]年に形成"
  vlach_history_loc:0 "[CULTURE.GetName]と不明な$south_slavic_group$[heritage|E]文化から[DATE.GetYear]年に形成"
+ bulgarian_history_loc:0 "Formed from [CULTURE.GetName] and an unknown culture of $south_slavic_group$ [heritage|E] in the year [DATE.GetYear]"

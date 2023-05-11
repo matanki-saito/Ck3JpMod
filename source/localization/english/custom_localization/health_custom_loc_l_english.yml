@@ -4,3 +4,8 @@
  age_young:0 "若年"
  age_middle_aged:0 "中年"
  age_old:0 "高齢"
+ medic_doctor:0 "doctor"
+ medic_physic:0 "physic"
+ medic_surgeon:0 "surgeon"
+ medic_sawbones:0 "sawbones"
+ medic_barber:0 "barber"

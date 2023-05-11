@@ -56,3 +56,5 @@
  DOCTRINE_REQUIRES_THEOCRATIC_HEAD_OF_FAITH_TRIGGER:0 "[doctrine|E][spiritual_head_of_faith|E]が必要"
  INCOMPATIBLE_TENET_SACRIFICIAL_CEREMONIES_TRIGGER:0 "[GetFaithDoctrine('tenet_sacrificial_ceremonies').GetName( GetPlayer.GetFaith )]の[core_tenet|E]とは両立しない"
  INCOMPATIBLE_TENET_CONSOLAMENTUM_TRIGGER:0 "[GetFaithDoctrine('tenet_consolamentum').GetName( GetPlayer.GetFaith )]の[core_tenet|E]とは両立しない"
+ INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_VS_FORBIDDEN_PILGRIMAGES:0 "Incompatible with the [doctrine|E] $doctrine_pilgrimage_name$: [GetFaithDoctrine('doctrine_pilgrimage_forbidden').GetBaseName]"
+ REQUIRES_EXALTATION:0 "Requires the [core_tenet|E] $tenet_carnal_exaltation_name$"

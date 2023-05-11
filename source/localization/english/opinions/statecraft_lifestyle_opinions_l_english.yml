@@ -3,3 +3,4 @@
  renewed_attention:0 "新たな関心"
  statecraft_family_meaning_opinion:0 "家族の意義"
  perk_negotiated_alliance_opinion:0 "同盟契約"
+ event_negotiated_alliance_opinion:0 "$perk_negotiated_alliance_opinion$"

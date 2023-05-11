@@ -128,3 +128,6 @@
  befriend_outcome.6007.desc:0 "私には理解できないが、[owner.GetTitledFirstName]が[target.GetTitledFirstName]を説得して[target.GetHerHis]の派閥を解散させた。\n\n昨晩、[target.GetSheHe|U]はメンバー全員を集めて、[target.GetSheHe]が[owner.GetTitledFirstNameNoTooltip]に反対したのは間違いであり、[target.GetSheHe]は我々の紛争が平和的に解決されることを望んでいると発表した。"
  befriend_outcome.6007.a.a:0 "[target.GetTitledFirstNameNoTooltip]は我々を裏切った！"
  befriend_outcome.6007.a.b:0 "[target.GetSheHe]の言うことにも一理ある…"
+ befriend_outcome.2007.opening_travel:0 "Much to my delight, one of [target.GetTitledFirstNamePossessive] couriers has found me here in [current_location.GetName] as my entourage and I make our way toward [next_destination.GetName].\n\n"
+ befriend_outcome.2007.opening_no_travel:0 "Much to my delight, one of [target.GetTitledFirstNamePossessive] couriers has arrived here at my [ROOT.Char.Custom('FortifiedBuilding')] in [ROOT.Char.GetLocation.GetName].\n\n"
+ befriend_outcome.2007.desc:0 "[courier.GetSheHe|U] carries good news, for [target.GetFirstNameNoTooltip] wishes to formalize our friendship! I never expected us to grow so close, but [target.GetSheHe] has proven [target.GetHerselfHimself] to be a reliable and forthright [target.GetWomanMan], with only my best interests at heart."

@@ -196,3 +196,4 @@
  diplomacy_family_special.2231.a:0 "すべてうまくいくとわかっていた！"
  diplomacy_family_special.2233.desc:0 "私はここ数年、[heir.GetFirstName]に[heir.GetHerHis]の行動を変えるように促してきたが、私の努力は実を結んだようだ！\n\n[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')]であることは、[heir.GetHerHim]にとって第二の天性とも言うべきことのようで、[heir.GetSheHe]はもはやそのように振る舞うための努力をする必要がないほど習慣化されている。"
  diplomacy_family_special.2233.a:0 "[heir.GetFirstNameNoTooltip]が人として成長しているのを見て嬉しい。"
+ diplomacy_family.2253.c:0 "Everyone shall know about our love!"

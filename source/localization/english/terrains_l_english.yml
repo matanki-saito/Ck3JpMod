@@ -33,3 +33,7 @@
  TERRAIN_MILD_WINTER:0 "穏やかな$winter$"
  TERRAIN_NORMAL_WINTER:0 "普通の$winter$"
  TERRAIN_HARSH_WINTER:0 "過酷な$winter$"
+ sea:0 "Sea"
+ coastal_sea:0 "Coastal Sea"
+ TERRAIN_TRAVEL_EFFECTS_HEADER:0 "#S Travel Effects:#!"
+ TERRAIN_DANGER:1 "[travel_danger|E]: $VALUE|=-0$"

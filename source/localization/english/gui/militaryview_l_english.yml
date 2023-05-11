@@ -131,3 +131,5 @@
  STRENGTH_COMPARISON_ALLIES:1 "[ally_i|E][GuiMilitaryStrength.GetTargetAlliesCount]"
  MEN_AT_ARMS_TYPE_NAME:1 "タイプ: #high [MenAtArmsType.GetBaseTypeName]#!"
  TT_RAISE_ALL_MEN_AT_ARMS:0 "#T 全常備軍を招集#!\n[men_at_arms|E]はあなたの[realm_capital|E]の最も近くの[rally_point|E]に集結します。"
+ MV_KNIGHTS_AND_ACCOLADES:0 "$knight_culture_player_plural$ and [accolades|E]"
+ KV_HEADER_ACCOLADES:0 "$knight_culture_player_plural_no_tooltip$ and Accolades"

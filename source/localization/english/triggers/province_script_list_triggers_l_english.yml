@@ -15,3 +15,6 @@
  county_control_rate:0 "伯爵領の支配率"
  num_county_followers:0 "伯爵領の従者の数: $NUM|V0$"
  any_sub_realm_county:0 "任意の下位の領国の伯爵領:"
+ ALL_DIRECTLY_OWNED_PROVINCES:0 "All Held Baronies:"
+ ANY_OF_MY_DIRECTLY_OWNED_PROVINCES:0 "Any of your Held Baronies:"
+ ANY_OF_THEIR_DIRECTLY_OWNED_PROVINCES:0 "Any of [CHARACTER.GetShortUINamePossessive] Held Baronies:"

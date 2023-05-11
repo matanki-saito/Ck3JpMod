@@ -89,7 +89,7 @@
  south_asia.0039.b:0 "いつの日か、倒れた信者たちの仇を取ってやる。"
  south_asia.0039.c:0 "異教徒同士の些末な争いに過ぎない。"
  south_asia.0040.t:0 "信仰の確保？"
- south_asia.0040.desc:0 "私の主君であり、この土地の統治者である[proselytiser.GetFullName]は、民衆を[proselytiser.GetHerHis]の信仰である[proselytiser.GetFaith.GetName]に改宗させることに熱心に取り組んでいる。[proselytiser.GetHerHis]の策略が進むにつれ、私の土地において、彼らの信仰や彼らの主君の信仰を広めようとする説教師や誦出者の波を止めることは不可能となった。\n\n上座部仏教が定着しても、伝統的なアリ仏教の信者はアラカン山脈周辺の森林地帯に溶け込んでいるが、その数は減り、公開の礼拝も避けられるようになっている。"
+ south_asia.0040.desc:1 "[proselytiser.GetFullName], my liege and the ruler of these lands, has been hard at work converting the populace to [proselytiser.GetHerHis] faith, [proselytiser.GetFaith.GetName]. As [proselytiser.GetHerHis] machinations progress, it has been impossible to stop the flood of preachers and Bhāṇakas venturing through my lands to spread their faith, and that of their [proselytiser.GetLadyLord]'s.\n\nEven as Theravada takes hold, the traditional Ari adherents melt away into forest strongholds around the Arakan mountains, dwindling in numbers and shying away from open worship."
  south_asia.0040.a:0 "素晴らしい！真の信仰は栄えるだろう！"
  south_asia.0040.b:0 "これらの行動は、決して忘れ去られることはないだろう。"
  south_asia.0040.c:0 "これは私には関係ないことだ。"

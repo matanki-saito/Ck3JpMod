@@ -819,3 +819,4 @@
  single_combat.1004.e:0 "あなたは攻撃側で、死に至ることはない"
  single_combat.1004.f:0 "あなたは防御側で、死に至ることはない"
  single_combat.1004.g:0 "いや、気にするな"
+ single_combat.result.tt.practice_no_wounds:0 "As this was a restrained bout, neither of you are wounded"

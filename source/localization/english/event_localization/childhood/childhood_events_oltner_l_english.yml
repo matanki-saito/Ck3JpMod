@@ -37,7 +37,6 @@
  death_sow:0 "雌豚に噛まれて死んだ"
  death_horse:0 "跳ね上がった馬に殺された"
  death_camel:0 "跳ね上がったラクダに殺された"
- death_elephant:0 "象に踏まれて死んだ"
  death_roof_tile:0 "落ちてきた屋根のタイルで[CHARACTER.GetHerHis]の頭を潰された"
  childhood.7100.a:0 "な…何！？い…いやだ！"
  childhood.7100.b:0 "…#DIE1 ハ#!ハハ！みんな見たか！"

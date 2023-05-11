@@ -69,3 +69,4 @@
  holy_order.2005.desc:0 "[child.GetTitledFirstNamePossessive]の訪問はいつもより長く続いた。[child.Custom('DaughterSon')]が大広間を何日も占拠し——私の料理を腹一杯貪り食い、召使たちに嫌がらせをするようになって初めて——私は[holy_order.GetName]に戻るという話題を持ち出した。[child.GetHerHis|U]の反応は残念ながら熱狂的なものだった。\n\n「[ROOT.Char.Custom('MotherFather')]よ、聞いていなかったのですか？[grandmaster.GetTitledFirstName]は、[child.GetFaith.GetName]への私の義務を免除してくれるほど寛大な存在なのです！私は家族に仕えるために、ようやく家に帰ってきたのです。」"
  holy_order.2005.a:0 "ええ、お前は…ここに残るのか？"
  holy_order.destroyed_title:0 "聖戦騎士団は解散した"
+ holy_order.0200.desc_opening:0 "[recipient.Custom2('AppropriateGreetingPositive', ROOT.Char )]"

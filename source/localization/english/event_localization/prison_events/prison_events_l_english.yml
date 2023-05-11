@@ -10,7 +10,7 @@
  prison.1001.b:0 "…"
  prison.1002.rack.desc:0 "「拷問をするなど大して難しいことじゃない。昔ながらの器具でも十分事足りるからな。」看守に引きずられてきた[recipient.GetTitledFirstName]の目はすぐに拷問台に引き付けられた。"
  prison.1002.whip.desc:0 "「痛いだろう？こいつはただの鞭じゃない。こいつは骨ぐらいなら簡単に断つことができるんだ。大したものだろう？」[recipient.GetTitledFirstNamePossessive]の顔を見ればわかる。こいつはきっと全て知っている。"
- prison.1002.rats.desc:0 "「この怖がりなネズミも、君の胸ぐらいなら簡単にかじり取れるんだ。分かったかね？」[recipient.GetTitledFirstName]にそう言ってやると、[recipient.GetHerHis]の抵抗の意志はみるみるうちに失われていった。"
+ prison.1002.rats.desc:1 "The rats in the bucket might seem shy at first, but they will happily gnaw their way through a [recipient.GetWomanMan]'s chest once some heat is added. As I explain the concept to [recipient.GetTitledFirstName], [recipient.GetHerHis] resolve melts away before my eyes."
  prison.1002.anothers_secret.desc:0 "\n\n『や、やめろ! わかった! [reveal_secret_owner.GetTitledFirstName]は[secret_to_reveal.Custom('SecretDescriptionThirdPerson')]! 知っていることは全て話す!だからそれだけは…!』"
  prison.1002.my_secret.desc:0 "\n\n「頼むからやめてくれ！#EMP 頼む#!知りたい事なら何でも言う！私…私は…[secret_to_reveal.Custom('SecretDescriptionFirstPerson')]！」"
  prison.1002.a:0 "…よろしい。おい、そいつを牢屋に戻しておけ。"

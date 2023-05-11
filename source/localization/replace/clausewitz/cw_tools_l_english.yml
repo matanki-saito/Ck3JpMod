@@ -77,3 +77,7 @@
  map_content_editor_content_desc_under_mouse:0 "-----------------\n座標軸でのコンテンツ[#color:{0.9,0.9,0} $X$#!x#color:{0.9,0.9,0} $Y$#!]: "
  map_content_editor_cannot_switch_tool_while_interacting:0 "ユーザーが現在のツールを操作している間は、ツールを切り替えることができません。"
  gui_animation_tool_dataflow_tooltip:0 "プロパティのデータフローの方向です。\n^—最初のキーフレームは無視され、代わりにウィジェットのデータが使用されます（デフォルト）。\nv—最初のキーフレームは無視されないので、そのデータがアニメーションの開始に使用されます。"
+ TOOLS_ANSWER_YES:0 "はい#!"
+ TOOLS_ANSWER_NO:0 "いいえ#!"
+ pdxns_math_AbsF_desc:0 "Get the positive representation of any valid float value"
+ pdxns_math_AddF_desc:0 "Add two float values together"

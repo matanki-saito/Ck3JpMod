@@ -23,3 +23,4 @@
  INVENTORY_COURT_ARTIFACTS_BUTTON_TOOLTIP:1 "[Character.GetShortUINamePossessiveNoTooltipNoFormat]の[royal_court|e]の[court_artifacts|e]に移動します"
  INVENTORY_COURT_ARTIFACTS_BUTTON_NO_ROYAL_COURT_TOOLTIP:0 "蓄えられている[court_artifacts|e]を表示します"
  INVENTORY_EQUIPPED_ARTIFACTS_HEADER:0 "[Character.LocalPlayerString( 'あなた', Character.GetShortUIName )|U]が装備中の[inventory_artifacts|e]"
+ INVENTORY_DESTROY_ARTIFACT:0 "Destroy"

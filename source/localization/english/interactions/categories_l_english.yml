@@ -4,7 +4,7 @@
  HOSTILE_ACTIONS:0 "敵対行動"
  VASSAL_ACTIONS:0 "封臣行動"
  COURT_ACTIONS:0 "宮中行動"
- IMPRISOMENT_ACTIONS:0 "投獄行動"
+ IMPRISOMENT_ACTIONS:1 "imprisonment actions"
  RELIGIOUS_ACTIONS:0 "宗教的行動"
  HOUSE_HEAD_ACTIONS:0 "家長行動"
  UNCATEGORIZED_ACTIONS:0 "その他の行動"
@@ -15,3 +15,4 @@
  SCHEME_ACTIONS:0 "策謀行動"
  MORE_INTERACTIONS_CLICKABLE:0 "#clickable さらに$VALUE$つの行動がとれます...#!"
  MORE_INTERACTIONS:0 "#weak その他...#!"
+ DIARCH_ACTIONS:0 "diarch"

@@ -81,3 +81,7 @@
  feast_benevolent_ruler_modifier_desc:0 "あなたは寛大さを示した。"
  feast_sneakily_defaced_artifact_modifier:0 "汚された宝物"
  feast_sneakily_defaced_artifact_modifier_desc:0 "あなたはこっそりと宝物を汚した。"
+ feast_spilled_stew_modifier:0 "Spilled Stew"
+ feast_spilled_stew_modifier_desc:0 "This character has generously hosted a feast which was literally swimming in food."
+ feast_7201_goh_honoured_modifier:0 "Highly Esteemed"
+ feast_7201_goh_honoured_modifier_desc:0 "This character has been publically honored at a noble's feast."

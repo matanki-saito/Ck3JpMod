@@ -178,7 +178,7 @@
  roman_restoration.0175.t:0 "ギリシャ人の逆襲"
  roman_restoration.0175.desc:0 "学者たちは[hre_emperor.GetTitledFirstName]がどれほど愚かな行為によってローマの正統なる後継者に対し戦争を仕掛けたかのか長らく議論を重ねることだろう。私からヨーロッパを支配する神聖なる権利を剥奪しようとするこの僭称者の哀れなる試みは、予想された通りの屈辱的な敗北をもたらすだけだった。"
  roman_restoration.0175.a:0 "最初から分かり切っていたことだ。"
- roman_restoration.1204.t:0 "哀れな[ROOT.Char.Custom('GirlBoy'))]よ"
+ roman_restoration.1204.t:0 "You wretched [ROOT.Char.Custom('GirlBoy')],"
  roman_restoration.1204.desc_vassal:0 "私はお前を汚物から引き出した、そして、再びそこへ投げ入れることができる！#EMP コンスタンティノープル#!、この軽蔑すべき世界の学問の最後の柱が、#EMP 本当に#!自身のものになるとは思っていなかったのだろう！お前の小さなつま先は、その輝くレンガを踏みしめるに値するものではない！それを返すのだ、さもなければ金角湾が貴殿の死に場所となるぞ——必要とあらば、この私がお前をそこへ放り込んでやろう。"
  roman_restoration.1204.a:0 "私はただ、あなたのために面倒を見ていただけだ！"
  roman_restoration.1204.b:0 "その騒がしい背が玉座の上で突き刺されることを願う。"

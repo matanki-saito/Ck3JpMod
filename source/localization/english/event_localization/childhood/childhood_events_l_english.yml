@@ -244,7 +244,7 @@
  childhood.2300.a:0 "私は[parent.Custom('GetMamaPapa')]のように話せるようになる！"
  childhood.2300.b:0 "くだらない！そもそもなぜ[parent.GetCulture.GetLanguage.GetNameNoTooltip]を学ぶ必要がある！？"
  childhood.2300.a.success_parent_desc:2 "[ward.GetFirstName]は観察を通じて[parent.GetCulture.GetLanguage.GetName]の[language|E]を学んだ"
- childhood.0002.end:0 "\n\n目が合うたび、私の胸はドキドキする…ああ、[crush.GetSheHe]は私が見つけたこの[ROOT.Char.Custom('get_region_flower_type')]を気に入ってくれるだろうか？"
+ childhood.0002.end:1 "\n\nWhenever our eyes meet, my stomach fills up with butterflies... Oh, I wonder if [crush.GetSheHe] would like this [ROOT.Char.GetCurrentLocation.Custom('get_region_flower_type')] that I found?"
  childhood.0002.b:0 "いや…我々はただの友人であるべきだ。"
  crush_returned:0 "[crush.GetFirstNameNoTooltip]もあなたが好きだ！"
  crush_crushed:0 "[crush.GetFirstNameNoTooltip]はただ友人になりたいだけだ…"

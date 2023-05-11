@@ -166,3 +166,7 @@
  tooltip_scandinavian_elective_capital_development:0 "首都の[county_development|E]: $VALUE|=+0$"
  tooltip_scandinavian_elector_vote_prowess:0 "[candidate.GetSheHe|U]は偉大な[prowess|E]の戦士である: $VALUE|=+0$"
  tooltip_feudal_vote_strength_pope:0 "教皇への影響力: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_myself_diarch:0 "I govern the [realm|E] already: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_liege_candidate_diarch:0 "I am loyal to [holder.GetTitledFirstNamePossessiveNoTooltip] choice"
+ tooltip_feudal_elector_vote_regent_already_governs:0 "[candidate.GetSheHe|U] governs the [realm|E] already: $VALUE|=+0$"
+ tooltip_feudal_vote_strength_is_diarch:0 "Regent Power: $VALUE|=+0$"
