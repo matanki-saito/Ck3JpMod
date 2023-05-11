@@ -39,6 +39,10 @@ jobs:
         run: |
           pip install boto3
 
+      - name: Install requests
+        run: |
+          pip install requests
+
       - name: Update loca source to paratranz
         run: |
           python update.py
