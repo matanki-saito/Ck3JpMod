@@ -134,7 +134,7 @@
  birth.3031.princessprince.desc:0 "「小さき[child.GetLadyLord]"
  birth.3031.daughterson.desc:0 "「あなたの[child.Custom('DaughterSon')]"
  birth.3031.end.desc:0 "のご体重はあるべき重さに達しておりません。私どもは最善を尽くします、わが [ROOT.Char.GetLadyLord]。しかし結局のところ、御命は[ROOT.Char.GetFaith.FateGodNamePossessive]の御手に委ねられております」"
- birth.3031.a:0 "静かにしろ、[child.GetFirstNameNoTooltip]！泣かないでくれ！"
+ birth.3031.a:0 "落ちつけ、[child.GetFirstNameNoTooltip]！泣かないでくれ！"
  birth.3034.t:0 "たくましい成長"
  birth.3034.desc:0 "ほとんどの子供たちは私より強い。遊んでるときでも、私はよく座って休む。でも今日は厩舎までレースをし、私が勝った！"
  birth.3034.a:0 "[ROOT.Char.Custom('child_favorite_toy')]はどこだ？一緒に遊ぼう！"

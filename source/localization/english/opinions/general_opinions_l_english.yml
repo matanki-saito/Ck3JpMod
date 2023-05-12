@@ -262,7 +262,7 @@
  zealot_disapproves_of_cynicism_opinion:0 "[GetVassalStance( 'zealot' ).GetTextIcon][GetVassalStance( 'zealot' ).GetName] Disapproves of Cynicism"
  minority_disapproves_of_conversion_opinion:0 "[GetVassalStance( 'minority' ).GetTextIcon][GetVassalStance( 'minority' ).GetName] Disapproves of Conversion"
  barons_and_minor_landholders_disapproves_baron_revocations_opinion:0 "[GetVassalStance( 'barons_and_minor_landholders' ).GetTextIcon][GetVassalStance( 'barons_and_minor_landholders' ).GetName] Disapproves of Revoking Baronies"
- embezzled_opinion:0 "Embezzled From Me"
+ embezzled_opinion:0 "私から横領した"
  strife_opinion:0 "Caused [strife|E]"
  rebuffed_opinion:0 "Rebuffed Me"
  cheater_opinion:0 "Cheater"

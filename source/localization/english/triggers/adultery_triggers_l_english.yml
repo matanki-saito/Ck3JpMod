@@ -2,4 +2,4 @@
  TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U]があなたの[house|E]の[bastard|E]ではない"
  HOUSE_HEAD_DOES_NOT_APPROVE:0 "あなたの[house_head|E]である[CHARACTER.GetShortUIName]が庶子の認知を認めない"
  MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U]が結婚しており、男女間の間違いを決して認めようとはしない"
- WOULD_NOT_CHEAT_ON_A_PARTNER:0 "[TARGET_CHARACTER.GetShortUIName|U] has at least one partner they would never betray"
+ WOULD_NOT_CHEAT_ON_A_PARTNER:0 "[TARGET_CHARACTER.GetShortUIName|U]には、決して裏切らないパートナーが少なくとも一人はいる"
