@@ -79,5 +79,5 @@
  gui_animation_tool_dataflow_tooltip:0 "プロパティのデータフローの方向です。\n^—最初のキーフレームは無視され、代わりにウィジェットのデータが使用されます（デフォルト）。\nv—最初のキーフレームは無視されないので、そのデータがアニメーションの開始に使用されます。"
  TOOLS_ANSWER_YES:0 "はい#!"
  TOOLS_ANSWER_NO:0 "いいえ#!"
- pdxns_math_AbsF_desc:0 "Get the positive representation of any valid float value"
- pdxns_math_AddF_desc:0 "Add two float values together"
+ pdxns_math_AbsF_desc:0 "有効な正の小数点数を取得する"
+ pdxns_math_AddF_desc:0 "2つの浮動小数点数の値を追加する"

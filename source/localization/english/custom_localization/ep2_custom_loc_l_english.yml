@@ -1,9 +1,9 @@
 ﻿l_english:
  good_thing:0 "good"
  bad_thing:0 "bad"
- period_of_time_few_days:0 "a few days"
- period_of_time_week:0 "a week"
- period_of_time_fortnight:0 "a fortnight"
+ period_of_time_few_days:0 "数日"
+ period_of_time_week:0 "一週間"
+ period_of_time_fortnight:0 "二週間"
  period_of_time_three_weeks:0 "nearly three weeks"
  period_of_time_month:0 "nearly a month"
  period_of_time_two_months:0 "nearly two months"

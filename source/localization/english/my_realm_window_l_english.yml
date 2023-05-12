@@ -155,5 +155,5 @@
  MY_REALM_WINDOW_FUTURE_DIARCH:3 "[CHARACTER.GetDiarchTitle]-Presumptive: [TARGET_CHARACTER.GetShortUINameNoTooltip|U], [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_DESIGNATED_DIARCH:3 "Appointed [CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U], [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_ACTIVE_DIARCH:2 "[CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U]、[TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
- MY_REALM_WINDOW_ACTIVE_DIARCHY:0 "Sharing Power in [Character.Custom('GetDiarchyArticle')] [Character.GetDiarchyTypeNameNoTooltip]"
- MY_REALM_WINDOW_STATUS_INACTIVE_DIARCHY:0 "Not Sharing Power"
+ MY_REALM_WINDOW_ACTIVE_DIARCHY:0 "[Character.Custom('GetDiarchyArticle')][Character.GetDiarchyTypeNameNoTooltip]と権力を共有している"
+ MY_REALM_WINDOW_STATUS_INACTIVE_DIARCHY:0 "権力は共有されていない"

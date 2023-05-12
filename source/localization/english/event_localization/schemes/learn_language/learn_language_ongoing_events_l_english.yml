@@ -140,4 +140,4 @@
  learn_language_ongoing.1300.b.failure:0 "You fail to communicate with [interlocutor.GetFirstNameNoTooltip]"
  learn_language_ongoing.1300.c:0 "\"Join us on our journey to [next_destination.GetNameNoTooltip]!\""
  learn_lang_cult_acceptance_gain_debate:0 "Engaged in an amicable debate while traveling"
- interlocutor_entourage_member:0 "Interlocutor Joined Entourage"
+ interlocutor_entourage_member:0 "対話者が従者に参加しました"

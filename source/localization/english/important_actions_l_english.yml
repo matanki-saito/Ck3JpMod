@@ -164,7 +164,7 @@
  action_no_heir_desc:5 "あなたの[titles|E]は、あなたの[dynasty|E]の[heir|E]に継承されません！\n\n#help あなたの王朝の継承者がいなければ、ゲームは終了します！あなた（またはあなたの近親者の1人）は、[realm|E]の[succession_laws|E]と[gender_laws|E]で継承を認められた正当な子供を作る必要があります！ #!"
  action_no_heir_click:1 "#I クリックであなたのキャラクターを見る#!"
  action_title_lost_from_realm_on_succession:1 "@bad_icon! Your Realm will lose land if Vassal dies"
- action_title_lost_from_realm_on_succession_label:1 "@bad_icon! Your Realm will lose land if [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip] dies"
+ action_title_lost_from_realm_on_succession_label:1 "@bad_icon![recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip]が死ぬとあなたの領国の土地は失われるでしょう"
  action_title_lost_from_realm_on_succession_desc:3 "Your [vassal|E] [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUIName] holds [titles|E] that will be inherited by [rulers|E] who are not your [vassals|E].\n\n$TLFR_CROWN_AUTHORITY_TIP$"
  action_title_lost_from_realm_on_succession_click:0 "#I クリックで表示#!"
  action_title_lost_from_realm_on_succession_combined_label:1 "[recipient.GetPrimaryTitle.Custom('GetTierIcon')] [recipient.GetUINameNoTooltip]"

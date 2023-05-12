@@ -38,4 +38,4 @@
  SETTINGS_INPUT_RESET_INPUT_PROFILE:0 "初期設定に戻す"
  SETTINGS_INPUT_BINDING_TEXT:0 "行動「$INPUT_ACTION$」のための入力バインディングを選択してください\n\n$INPUT_NAME$"
  SETTINGS_INPUT_BINDING_WARNING_TEXT:0 "警告: 「$INPUT_ACTION$」のためのこの入力バインディングがすでに存在します！\n「$SETTINGS_INPUT_CONFIRM$」を押して古いバインディングを削除します"
- APPLY:0 "Apply"
+ APPLY:0 "適用"

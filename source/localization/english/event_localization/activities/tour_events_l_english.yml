@@ -373,7 +373,7 @@
  tour_grounds_events.3001.desc.type.majesty:0 "and the locals are clearly awed by the grandeur and pomp of my escort.\n\n"
  tour_grounds_events.3001.desc.type.taxation:0 "and the presence of my coffer wagon and tax collectors quickly noted.\n\n"
  tour_grounds_events.3001.desc.type.intimidation:0 "while my many guard's stern discipline gives my subjects some pause.\n\n"
- tour_grounds_events.3001.desc.mid.hates_vassal:0 "Sharing the rooms of this [stop_host_scope.Custom('InsultAdjective')] [visiting_liege.Custom('InsultNoun')] is a disgusting necessity; hopefully it will be over quickly."
+ tour_grounds_events.3001.desc.mid.hates_vassal:0 "この[stop_host_scope.Custom('InsultAdjective')][visiting_liege.Custom('InsultNoun')]との部屋の共有は許し難いことでしょうね。お早う終わる事を祈ってますよ。"
  tour_grounds_events.3001.desc.mid.lover:0 "It pains me to have to labor under such public formalities with my beloved — if only there were time to catch up alone..."
  tour_grounds_events.3001.desc.mid.friend:0 "Though we meet with the burden of formalities, visiting a good friend is always a welcome reprieve."
  tour_grounds_events.3001.desc.mid.close_family:0 "My [ROOT.Char.Custom2('RelationToMeShort', stop_host_scope)] and I embrace, careful to dutifully maintain the formality of the occasion."

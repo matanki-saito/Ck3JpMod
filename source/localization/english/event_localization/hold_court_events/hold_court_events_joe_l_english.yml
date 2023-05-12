@@ -752,5 +752,5 @@
  court_position_qadi:0 "[GetCourtPositionType('chief_qadi_court_position').GetName()]"
  court_position_garuda:0 "[GetCourtPositionType('garuda_court_position').GetName()]"
  court_position_keeper_of_swans:0 "[GetCourtPositionType('keeper_of_swans_court_position').GetName()]"
- court_position_desc_travel_leader:1 "guiding you on all your travels"
+ court_position_desc_travel_leader:1 "あなたの旅路を助ける"
  court_position_travel_leader:0 "[GetCourtPositionType('travel_leader_court_position').GetName()]"

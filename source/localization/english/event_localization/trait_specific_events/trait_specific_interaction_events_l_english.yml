@@ -18,7 +18,7 @@
  trait_specific_interactions.0001.desc.poem:0 "\n\n$trait_specific_interactions.000.generate_poem$\n\n"
  trait_specific_interactions.0001.desc.outro:0 "$trait_specific_interactions.000.outro$"
  trait_specific_interactions.0001.a:0 "これについてどう感じているのか、自分でもわからない…"
- trait_specific_interactions.0001.b:0 "[actor.GetFirstNameNoTooltip]、これには#EMP 本当に#!心がこもっているのがわかる！"
+ trait_specific_interactions.0001.b:0 "[actor.GetFirstNameNoTooltip]、これは#EMP 本当に#!心からのものであることはわかった！"
  trait_specific_interactions.0001.c:0 "ふっ、たわごとだ！"
  trait_specific_interactions.0011.t:0 "文字の慰め"
  trait_specific_interactions.0011.desc.intro:0 "$trait_specific_interactions.000.intro.part1$悲しみや喪失感をテーマにした作品、$trait_specific_interactions.000.intro.part3$"

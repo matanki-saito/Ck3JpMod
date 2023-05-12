@@ -43,7 +43,7 @@
  fancy_mounts_option_desc:0 "Your experienced stable-hands outfit your entourage with the finest mounts in all the realm."
  military_recruits_option:0 "Train Knights"
  military_recruits_option_desc:0 "You bring along your weakest knights to train and learn from the challenges to be faced on the open road."
- military_recruits_option.t:0 "Knight Joins Entourage"
+ military_recruits_option.t:0 "騎士が従者に加わった"
  military_recruits_option.desc:0 "Your most unskilled knights have been added to your entourage because you chose the $military_recruits_option$ travel option."
  travel_events.0060.notification.a:0 "Knight's Trait Improved: [selected_knight.GetShortUIName]"
  travel_events.0060.notification_desc:0 "[selected_knight.GetShortUINamePossessive] skill increase resulted from experience gained while traveling in your entourage.#"
