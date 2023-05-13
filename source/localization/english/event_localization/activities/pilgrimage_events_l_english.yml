@@ -355,7 +355,7 @@
  pilgrimage_inherited_pilgrimage_log:0 "[CHARACTER.GetShortUIName|U] decided to keep going on the pilgrimage to [PROVINCE.GetNameNoTooltip]"
  pilgrimage_burial_log_title:0 "Laid to Rest"
  pilgrimage_burial_log:0 "[CHARACTER.GetShortUIName|U] laid the remains of [CHARACTER.GetHerHis] predecessor [TARGET_CHARACTER.GetShortUIName] to rest in the holy location of [PROVINCE.GetNameNoTooltip]"
- pilgrimage.0040.t:1 "$pilgrimage_header$ A Journey's End"
+ pilgrimage.0040.t:1 "$pilgrimage_header$旅の終わり"
  pilgrimage.0040.desc:0 "And so my spiritual journey has come to an abrupt end. Much like the leaf falling into the stormy river however, we can but see where the new circumstances take us."
  pilgrimage.0040.desc_moved_capital:0 "Now that my capital is in fact the lustrous location of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], there is not much point for me to continue my [GetActivityType('activity_pilgrimage').GetNameNoTooltip].\n\nI should focus on wrapping up my journey there and try my luck with another holy site."
  pilgrimage.0040.a:0 "I am a leaf in the river."

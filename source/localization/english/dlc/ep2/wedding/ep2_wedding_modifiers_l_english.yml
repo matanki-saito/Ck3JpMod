@@ -40,7 +40,7 @@
  gwedding_magnificent_wedding_modifier_desc:1 "This character got married in a magnificent [GetActivityType( 'activity_wedding' ).GetName]"
  wedding_of_the_century_modifier:0 "Guest to the Wedding of the Century"
  wedding_of_the_century_modifier_desc:1 "This character took part in a magnificent [GetActivityType( 'activity_wedding' ).GetName]"
- wedding_fertility_delay_modifier:0 "Waiting for the Wedding Night"
+ wedding_fertility_delay_modifier:0 "結婚初夜を待っています"
  wedding_fertility_delay_modifier_desc:0 "A marriage cannot be consummated until the Wedding Night"
  wedding_wants_to_be_faithful_modifier:0 "Trying to be Faithful"
  wedding_wants_to_be_faithful_modifier_desc:0 "This character only has eyes for their spouse"

@@ -1,5 +1,5 @@
 ﻿l_english:
- locale_window_your_intent:0 "Your [intent|e]"
+ locale_window_your_intent:0 "あなたの[intent|e]"
  locale_window_guests_header:0 "Guests"
  locale_window_all_guests_button:0 "All Guests ([GetDataModelSize(Activity.GetAttendingCharacters)])"
  locale_window_all_guests_button_tooltip:0 "Show all attending [guests|e]"
@@ -25,5 +25,5 @@
  locale_window_status_icon_location_tooltip:0 "You are at [Activity.GetCurrentPhase.GetLocation.GetName]"
  locale_window_status_icon_special_guest_tooltip:0 "You are a [Activity.GetSpecialGuestTypeForCharacter(GetPlayer).GetNameIfHost( Activity.GetHost )] in [Activity.GetName]"
  locale_window_widget_current_phase_header:0 "[SelectLocalization( Activity.IsCurrentPhaseActive, 'locale_window_widget_current_phase_active', 'locale_window_widget_current_phase_passive' )]"
- locale_window_widget_current_phase_passive:0 "#bold Currently#!: #high Waiting for#! [Activity.GetCurrentPhase.GetPhase.GetName]"
+ locale_window_widget_current_phase_passive:0 "#bold 現在#!：[Activity.GetCurrentPhase.GetPhase.GetName]が始まるのを#high 待って#!います。"
  locale_window_widget_current_phase_active:0 "#bold Currently#!: #high Engaged with#! [Activity.GetCurrentPhase.GetPhase.GetName]"

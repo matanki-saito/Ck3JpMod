@@ -74,7 +74,7 @@
  activity_system.0331.t:0 "Incapable"
  activity_system.0331.desc:0 "Our host, [host.GetName], have been deemed incapable by those around [host.GetHerHim] and is seen as entirely unfit to manage [host.GetHerHis] own affairs, including [host.GetHerHis] [activity_type.GetNameNoTooltip()]!\n\nAlas, we must all return home empty-handed. "
  activity_system.0331.a:0 "What a shame."
- SELECT_ACTIVITY_DECISION_TITLE:0 "#D Select Activity Type#!"
+ SELECT_ACTIVITY_DECISION_TITLE:0 "#D 活動タイプの選択#!"
  SELECT_ACTIVITY_DECISION_NEXT_STEP_BUTTON:0 "$SELECT_ACTIVITY_DECISION_TITLE$"
  hold_grand_activity_option_tournament:0 "$activity_tournament$"
  hold_grand_activity_option_tournament_desc:0 "$activity_tournament$"

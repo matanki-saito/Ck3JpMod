@@ -9,5 +9,5 @@
  ransomed_from_prison:0 "最近釈放された"
  abductor_opinion:0 "誘拐犯"
  attempted_murder_opinion:0 "殺人を企てた"
- escaped_from_prison_opinion:0 "Escaped Prison"
- escaped_from_prison_crime:0 "Escaped Prison"
+ escaped_from_prison_opinion:0 "脱獄した"
+ escaped_from_prison_crime:0 "脱獄した"

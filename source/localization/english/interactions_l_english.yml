@@ -1428,7 +1428,7 @@
  DIARCH_SHOULD_EDUCATE_LIEGE_TO_DIARCH:0 "Responsibility as [regent|E]"
  destroy_artifact_interaction:2 "Destroy Artifact"
  destroy_artifact_interaction_desc:0 "This artifact will be destroyed"
- interactions_general.tt.must_select_one_option:0 "You must select at least one option"
+ interactions_general.tt.must_select_one_option:0 "最低でも一つは選択しなければなりません"
  find_suitable_accolade_successor_interaction:0 "Seek Worthy Accolade Successor"
  find_suitable_accolade_successor_interaction_desc:0 "Call for an eligible [knight|e] to join your [court|e]"
  find_suitable_accolade_successor_interaction.tt:0 "A [knight|e] who fulfills this [accolade|e]'s requirements will join your [court|e] within #high 6 months#!\n\n@alert_icon! #alert_trial Seek Worthy Accolade Successor will be unavailable for #high 2 years#!#!"

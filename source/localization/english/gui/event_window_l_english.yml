@@ -16,5 +16,5 @@
  EVENT_WINDOW_OPTION_AVAILABLE_DREAD:0 "This option is available because of your [dread|E]"
  EVENT_WINDOW_OPTION_AVAILABLE_ACTIVITY_INTENT:0 "This option is available because of your [GetPlayer.GetInvolvedActivityIntent.GetName] [intent|E]"
  TOGGLE_DEBUG_OPTION_TOOLTIPS:0 "#T Show option tooltips#!\nDisplay all options next to the event window (global setting)"
- TRAVEL_EVENT_WINDOW_CURRENT_LOCATION:0 "Currently in:"
+ TRAVEL_EVENT_WINDOW_CURRENT_LOCATION:0 "現在地:"
  TRAVEL_EVENT_WINDOW_NEXT_DESTINATION:0 "次の目的地: ~[TravelPlanData.GetNextDestination.GetEstimatedArrivalDate.GetTimeToDate]"

@@ -294,7 +294,7 @@
  ACHIEVEMENTS_WILL_BE_DISABLED_OBSERVER_MODE:1 "@warning_icon!#X Playing in observer mode will disable achievements#!"
  ACHIEVEMENTS_WILL_BE_DISABLED_MULTIPLAYER:1 "@warning_icon!#X Opening your game to multiplayer will disable achievements#!"
  ACHIEVEMENTS_DEBUG_MODE_WARNING:0 "@warning_icon!#X Debug mode is currently active - any console commands or debug actions will disable achievements for the playthrough#!"
- GAME_RULES_CATEGORY_DROPDOWN_NONE_SELECTED:0 "Select a category"
+ GAME_RULES_CATEGORY_DROPDOWN_NONE_SELECTED:0 "カテゴリ選択"
  game_rule_category_none:0 "All"
  game_rule_category_difficulty:0 "Difficulty"
  game_rule_category_titles:0 "Titles & Realm"

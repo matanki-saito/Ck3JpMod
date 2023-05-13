@@ -209,4 +209,4 @@
  ECONOMY_BUILDINGS_HEADER:0 "Showing: [county|E] [income|E] and [special_buildings|E]"
  COUNTY_CONTROL_HEADER:0 "Showing: [control|E]"
  TT_AWAY_FROM_CAPITAL_WIDGET:1 "#T Away from Capital#!\nYou are currently away from your [realm_capital|E] of [Character.GetCapitalLocation.GetName] in [Character.GetCurrentLocation.GetName]\n\n#I Click to view [travel|E] planner#!"
- ACTIVITY_VIEW_TRAVEL:0 "View Travel"
+ ACTIVITY_VIEW_TRAVEL:0 "旅の様子を見る"

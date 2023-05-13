@@ -1,6 +1,6 @@
 ﻿l_english:
  yearly.9100.t:0 "庭園での騒ぎ"
- yearly.9100.desc:0 "As I enter the gardens, I barely have the time to take a single step before I hear someone shouting profanities. \"#EMP [gardener.Custom('CulturalCurse')|U]!#!\"\n\nI walk around a hedge in search of the source and spot my gardener [gardener.GetTitledFirstName] toiling away in the earth with a scowl on [gardener.GetHerHis] face. [gardener.GetSheHe|U] notices my approach and quickly gets up on [gardener.GetHerHis] feet.\n\n\"Oh! Forgive me, my [ROOT.Char.GetLadyLord|U]. I did not expect anyone else to be out here... Some stupid animal, a [gardener.Custom('GetAnimalType')] no doubt, has ruined #EMP all#! of my recent work! I planted these herbs only the day before yesterday!\""
+ yearly.9100.desc:0 "私が庭園に入ると、一歩も歩かないうちに、誰かが罵り声を上げるのが聞こえる。「#EMP [gardener.Custom('CulturalCurse')|U]！#!」\n\n私がその原因を探るために生け垣を回ると、庭師である[gardener.GetTitledFirstName]が顔をしかめながら土の中で懸命に働いているのを見つけた。[gardener.GetSheHe|U]は私が近づくのに気づくと、素早く立ち上がる。\n\n「おお、お許しください、我が[ROOT.Char.GetLadyLord|U]。まさか、こんなところに人がいらっしゃったとは…何頭かの愚かな動物、間違いなく[gardener.Custom('GetAnimalType')]が私の仕事を#EMP 全て#!台無しにしてしまったのでございます！このハーブは一昨日植えたばかりだったのです！」"
  yearly.9100.a:0 "手伝わせてくれ！"
  yearly.9100.b:0 "つまらないものだが、あなたの重労働に対して！"
  yearly.9100.c:0 "それ#EMP は#!不運な…だが、私のために止める必要はないぞ！"

@@ -167,6 +167,6 @@
  tooltip_scandinavian_elector_vote_prowess:0 "[candidate.GetSheHe|U]は偉大な[prowess|E]の戦士である: $VALUE|=+0$"
  tooltip_feudal_vote_strength_pope:0 "教皇への影響力: $VALUE|=+0$"
  tooltip_feudal_elector_vote_myself_diarch:0 "私はすでに[realm|E]を統治している: $VALUE|=+0$"
- tooltip_feudal_elector_vote_liege_candidate_diarch:0 "I am loyal to [holder.GetTitledFirstNamePossessiveNoTooltip] choice"
+ tooltip_feudal_elector_vote_liege_candidate_diarch:0 "私は[holder.GetTitledFirstNamePossessiveNoTooltip]の選択に従う"
  tooltip_feudal_elector_vote_regent_already_governs:0 "[candidate.GetSheHe|U]はすでに[realm|E]を統治している: $VALUE|=+0$"
  tooltip_feudal_vote_strength_is_diarch:0 "摂政の権力: $VALUE|=+0$"

@@ -6,7 +6,7 @@
  apa_read_a_book_title:0 "[first.GetShortUIName|U] Read an Educational Treatise"
  apa_joked_together_title:0 "[first.GetShortUIName|U] and [second.GetShortUIName|U] Shared a Fun Joke"
  apa_rescued_kid_title:0 "[first.GetShortUIName|U] Rescued [second.GetShortUIName|U] From a [first.Custom('GetSmallHidingObject')|U]"
- barrel:0 "barrel"
+ barrel:0 "樽"
  chest:0 "chest"
  cupboard:0 "cupboard"
  casket:0 "casket"

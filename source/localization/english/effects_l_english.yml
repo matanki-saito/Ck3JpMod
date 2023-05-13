@@ -1306,7 +1306,7 @@
  UNLOCK_BEFRIEND_SCHEME:1 "[GetScheme('befriend').GetTypeName][scheme|E]をアンロックします"
  I_CAN_USE_THE_BEFRIEND_SCHEME:2 "あなたは[GetScheme('befriend').GetTypeName][scheme|E]を利用できます"
  THEY_CAN_USE_THE_BEFRIEND_SCHEME:1 "[CHARACTER.GetShortUIName|U]は[GetScheme('befriend').GetTypeName][scheme|E]を利用できます"
- EACH_FRIEND_ADDS_STRESS_REDUCTION:3 "Each [friend|E] adds: [stress_gain_i]#P -5%#! [stress|E] Gain (To the Maximum of [EmptyScope.ScriptValue('confidants_max')|0])"
+ EACH_FRIEND_ADDS_STRESS_REDUCTION:3 "[friend|E]一人ごとに以下を追加: [stress_gain_i][stress|E]増加 #P -5%#! (最大[EmptyScope.ScriptValue('confidants_max')|0]名分まで)"
  CHILDREN_ARE_BORN_WITH_EXTRA_STATS:0 "子供が#P 1#!から#P 3#!の追加の[skill|E]ポイントを受け取ります"
  BEFRIEND_SUCCESS_CHANCE_AGAINST_FAMILY:0 "[personal_scheme|E]の[success_chance|E]: 家族のメンバーに対して#P +[EmptyScope.ScriptValue('thicker_than_water_bonus')|0]%#!"
  PERSONAL_SCHEME_SUCCESS_CHANCE_AGAINST_DYNASTY:0 "[personal_scheme|E]の[success_chance|E]: [dynasty|E]のメンバーに対し#P +[EmptyScope.ScriptValue('kin_legacy_4_success_chance')|0]%#!"

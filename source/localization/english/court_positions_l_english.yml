@@ -309,7 +309,7 @@
  court_cave_hermit_position_tt:0 "あなたが旅で$court_cave_hermit_position$を見つけた。"
  travel_leader_court_position:0 "旅の世話役"
  travel_leader_court_position_desc:0 "$travel_leader_court_position$は全ての旅程において、旅行中の雑務を行います。彼らは主君が安全かつ時間通りに目的地に到着できるように取り計らっています。"
- hire_travel_leader_decision:0 "$travel_leader_court_position$を探す"
+ hire_travel_leader_decision:0 "$travel_leader_court_position$の捜索"
  hire_travel_leader_decision_effect_tooltip:0 "あなたの使用人が[GetCourtPositionType('travel_leader_court_position').GetName()]の地位に適した者を探してきます。"
  hire_travel_leader_decision_desc:0 "よい$travel_leader_court_position$こそ成功する度に必要なものだ。適切な人員を連れてくるように命じよう。"
  hire_travel_leader_decision_confirm:0 "捜索を開始"

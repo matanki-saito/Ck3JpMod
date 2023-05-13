@@ -42,7 +42,7 @@
  feast.2501.a.shy:0 "ここにはたくさんの人がいるな..."
  feast.2501.a:0 "待ちきれないな！"
  feast.2501.b:0 "これには時間を費やす価値がある。"
- feast.5003.t:0 "End of Festivities"
+ feast.5003.t:0 "祭りの終わり"
  feast.3601.desc:1 "[host.Custom2('MyCharacterIntroduction', ROOT.Char)]が会場を後にしたので、[host.GetHerHis]の開いた饗宴はお開きとなった。\n\n謙虚な客人たちが去ったあと、[host.GetFirstName]が大広間で我々を歓迎してくれたときのように、[ROOT.Char.GetFaith.HighGodNameAlternate]が[ROOT.Char.GetFaith.PositiveAfterLife]に、[host.GetHerHis]をあたたかく迎えてくれるよう私は祈った。"
  feast.3601.a:0 "実に楽しい宴だった！"
  feast.3601.a.tt:1 "#F あなたは…[host.GetSheHe]が死ぬまでそう思ったことでしょう。#!"

@@ -43,7 +43,7 @@
  apa_lead_procession_title:0 "[first.GetShortUIName|U] organized a religious procession"
  apa_comet_sighted_title:0 "[first.GetShortUIName|U] sighted a comet"
  apa_good_omen_title:0 "[first.GetShortUIName|U] observed good omen"
- apa_pilgrim_protection_title:0 "The Acclaimed [first.GetShortUIName|U] protected pilgrims"
+ apa_pilgrim_protection_title:0 "称賛されし[first.GetShortUIName|U]が巡礼者を守り抜いた"
  apa_pilgrim_hospitals_title:0 "[first.GetShortUIName|U] received treatment at a Pilgrim's Hospital in [province.GetNameNoTooltip]"
  apa_charity_for_the_poor_title:0 "[first.GetShortUIName|U] Afforded Charity for the Poor of [province.GetNameNoTooltip]"
  apa_donated_to_holy_site_temple_title:0 "[first.GetShortUIName|U] Donated Funds for the Preservation of the [province.GetNameNoTooltip] Holy Sites"
