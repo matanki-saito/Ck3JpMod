@@ -1205,7 +1205,7 @@
  courtier_trait_intrigue:0 "furtive ways"
  courtier_trait_prowess:0 "prowess"
  every_title_held_by_vassal:0 "Every [county|E] title held by [stop_host_scope.GetFirstName]"
- every_title_held_by_vassal_and_vassals:0 "Every [county|E] title within [stop_host_scope.GetFirstNamePossessive] realm"
+ every_title_held_by_vassal_and_vassals:0 "全ての[county|E]の称号は[stop_host_scope.GetFirstNamePossessive]の領国の中にある"
  artifact_secret_journal_name:0 "Mysterious Journal"
  artifact_secret_journal_description:0 "A leather-bound book locked with an unintelligible puzzle. Looking upon it fills you with curiosity and dread."
  haunted_by_ghosts_log_title:0 "Haunted by Ghosts"

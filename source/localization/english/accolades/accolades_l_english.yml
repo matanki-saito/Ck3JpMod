@@ -6,7 +6,7 @@
  CREATE_ACCOLADE_CONFIRM:0 "Bestowing this honorific will increase the [acclaimed_knight|E]'s [opinion|e] of #high you#!.\n\nCost: #high $COST$#!"
  CREATE_ACCOLADE_CONFIRM_ACCEPT:0 "$CREATE_ACCOLADE$"
  CREATE_ACCOLADE_COST:0 "#T $CREATE_ACCOLADE$#!\nYour $knight_culture_player_no_tooltip$'s [accolade_types|e] will begin providing you positive effects, which increase as they gain [glory|E].\n\nCost: #high $COST$#!"
- CREATE_ACCOLADE_EMPTY_TYPE:0 "Empty Accolade Attribute"
+ CREATE_ACCOLADE_EMPTY_TYPE:0 "叙勲の後継者がいない"
  CREATE_ACCOLADE_SELECT_KNIGHT:1 "Select your new [accolade|e]'s [acclaimed_knight|E]. The [knight|e]'s [skills|e] and [traits|e] determine which [accolade_types|e] are available."
  CREATE_ACCOLADE_ASSIGN:0 "Appoint $knight_culture_player_no_tooltip$"
  CREATE_ACCOLADE_ASSIGN_TT:0 "#help Press to appoint this character [acclaimed_knight|E] of this [accolade|E]"

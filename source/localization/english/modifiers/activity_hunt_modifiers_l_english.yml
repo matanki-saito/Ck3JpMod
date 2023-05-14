@@ -119,7 +119,7 @@
  hunt_success_chance.dog_story_beasthound_modifier:0 "[GetModifier( 'dog_story_beasthound_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_mismanaged_game_modifier:0 "[GetModifier( 'hunt_mismanaged_game_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_punished_locals_modifier:0 "[GetModifier( 'hunt_punished_locals_modifier' ).GetNameWithTooltip]"
- hunt_success_chance.recent_hunt_held:0 "Recent Hunts in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
+ hunt_success_chance.recent_hunt_held:0 "[ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]の狩猟圧"
  hunt_success_chance.hunting_grounds:0 "$building_type_hunting_grounds_01$ [building|E]"
  hunt_success_chance.logging_camps:0 "$building_type_logging_camps_01$ [building|E]"
  hunt_success_chance.royal_forest:0 "$building_type_royal_forest_01$ [building|E]"

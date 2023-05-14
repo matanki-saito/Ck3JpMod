@@ -281,7 +281,7 @@
  take_artifact_player:0 "Give to Player"
  year_of_birth_trigger:0 "[CHARACTER.GetShortUINamePossessive] year of birth $CURRENT_VALUE$ is $COMPARATOR$ $NUM$"
  EVENT_DEBUG_TOOLTIP:0 "#P Click to open Event Script in associated editor#!\n#weak (remember that you can change the default Editor!)#!"
- add_glory_interaction:0 "Add Accolade Glory"
+ add_glory_interaction:0 "叙勲の栄誉を加える"
  add_glory_debug_high_tt:0 "Add 2500 Glory (set [accolade|E] to max rank)"
  add_glory_debug_low_tt:0 "Add 250 Glory"
  add_glory_debug_delete_tt:0 "Set Glory to 0"

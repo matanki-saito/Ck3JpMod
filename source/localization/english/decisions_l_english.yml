@@ -1014,6 +1014,6 @@
  call_for_acclaimed_knight_candidates_decision.tt:0 "Eligible candidates for every [inactive_accolade|e] will appear within the next year and become [knights|e]"
  accolade.0013.notification:0 "Acclaimed Knight Candidate Arrives"
  accolade_call_acclaimed_knight_tooltip:0 "The worthy [chosen_knight.GetUIName] may be appointed as [accolade_in_need.GetName]"
- accolade.0013.notification_fail:0 "No Worthy Candidates for Accolade"
- accolade_call_acclaimed_knight_fail_notification_tooltip:0 "One of your Accolades will remain Inactive, as no worthy $knight_culture_player_no_tooltip_lowercase$ has come forward"
+ accolade.0013.notification_fail:0 "叙勲に値するものがいない"
+ accolade_call_acclaimed_knight_fail_notification_tooltip:0 "$knight_culture_player_no_tooltip_lowercase$に値するものが名乗り出ていないために叙勲の少なくとも1つが無効化されています"
  you_have_empty_accolades:0 "You have at least one [inactive_accolade|e] and no [knights|e] who can be Appointed to it"

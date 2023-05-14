@@ -147,5 +147,5 @@
  religious_decision.0603.a:0 "悪魔め！卑怯者め！冒涜者め！"
  religious_decision.0603.b:0 "[old_caliph.GetTitledFirstNameNoTooltip]では[old_caliph.GetHerHis]の家を保つことはできぬ…"
  religious_decision.0603.c:0 "はっ！なんとも劇的な展開だな！"
- religious_decision.0210.toast:0 "You begin meditating"
- religious_decision.0291.toast:1 "You conclude your meditation"
+ religious_decision.0210.toast:0 "瞑想を始める"
+ religious_decision.0291.toast:1 "瞑想を終わらせる"

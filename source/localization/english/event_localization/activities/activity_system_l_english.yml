@@ -8,7 +8,7 @@
  activity_pulse_action_guest_friendship:0 "[second.GetShortUINameNoTooltip|U] Compliments [first.GetShortUINameNoTooltip|U]"
  guest_insulted_title:0 "$activity_pulse_action_guest_insulted$"
  activity_pulse_action_guest_insulted:0 "[second.GetShortUINameNoTooltip|U] Insults [first.GetShortUINameNoTooltip|U]"
- activity_system.0040.t:1 "Tournament Ended"
+ activity_system.0040.t:1 "トーナメントの幕は閉じた"
  activity_system.0040.desc:1 "Alas! With the new circumstances surrounding the Tournament, a quick chat with the organizers confirms your fears: the Tournament must be cancelled.\n\nFiles of despondent people file past, sniffling and disappointed children clutching their parents' hands. Hopefully, in the near future, there might be another chance for these festivities to resume."
  activity_system.0040.a:1 "A true pity."
  activity_system.0080.t:1 "A New Host"

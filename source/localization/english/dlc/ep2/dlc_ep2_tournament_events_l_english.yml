@@ -312,7 +312,7 @@
  ep2_tournament_events.2502.desc:1 "As I disengage from a brief clinch with [versus_contestant.GetFirstName], I catch [versus_contestant.GetHerHim] by surprise and grab [versus_contestant.GetHerHim] by the neck! Completely unprepared, [versus_contestant.GetFirstNamePossessiveNoTooltip] neck audibly cracks from the impact, the force causing [versus_contestant.GetHerHim] to scream in panic.\n\nThe crowd erupt, but the raucous cheers quickly die down to whispered confusion as I loosen my grasp. The moment my arm had made contact, a sickening #EMP pop#! signaled that all was not well, and the pain juddering through my finger confirms some manner of dislocation.\n\n[versus_contestant.GetFirstNameNoTooltip] is still gathering themselves. If I react quickly, perhaps..."
  ep2_tournament_events.2502.a:0 "Right, well, there's only one thing for it."
  ep2_tournament_events.2502.b:0 "If I favor my other hand I might still be able to win this..."
- ep2_tournament_events.2502.c:0 "I'm injured! I must concede."
+ ep2_tournament_events.2502.c:0 "怪我をした！ギブアップ！"
  ep2_tournament_events.2502.a.tt:0 "Attempt to pop the finger back into its joint"
  ep2_tournament_events.2502.a.tt.success:0 "Your impromptu treatment works"
  ep2_tournament_events.2502.a.tt.failure:0 "Ow! That didn't help at all!"

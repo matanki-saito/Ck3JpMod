@@ -1035,7 +1035,7 @@
  coastal_sea_travel_danger:0 "[GetTerrain( 'coastal_sea' ).GetName]の[travel_danger|E]"
  MOD_STRIFE_OPINION_GAIN_MULT:0 "[strife|E] Gain"
  MOD_STRIFE_OPINION_LOSS_MULT:0 "[strife|E] Loss"
- MOD_ACTIVE_ACCOLADES:0 "[accolades|E] Available"
+ MOD_ACTIVE_ACCOLADES:0 "[accolades|E] が出来る"
  MOD_ACCOLADE_GLORY_GAIN_MULT:0 "[accolade|e] [glory|E] Gain"
  MOD_LEVY_MAINTENANCE:0 "[levy|E]維持費"
  MOD_UNCONTROLLED_PROVINCE_ADVANTAGE:0 "非支配地域における攻撃側[advantage|E]"

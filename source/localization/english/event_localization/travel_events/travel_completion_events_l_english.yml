@@ -1,5 +1,5 @@
 ﻿l_english:
- travel_completion_event.1000.t:1 "$travel_event_prefix$ Arrival"
+ travel_completion_event.1000.t:1 "$travel_event_prefix$ 到着"
  travel_completion_event.1000.desc.home:0 "やっとこさ、やっとこさ帰ってきた！長旅を終えて、[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に戻ってくるのは何よりの喜びである。しばらく休養するのが待ち遠しい。 "
  travel_completion_event.1000.desc.abroad:0 "長い旅路の末、ようやく[final_destination_province.GetName]に到着した！しばらくは、砂塵道や鞍擦れから解放されそうだ。 "
  travel_completion_event.1000.desc.activity:0 "[ROOT.Char.GetInvolvedActivity.GetName]に参加する時が来た。\n\n"
@@ -10,6 +10,6 @@
  travel_completion_event.1000.desc.cultural_ambassador:0 "我が文化使節の尽力により、[ROOT.Char.GetCulture.GetName]の受容がより進んだ。\n\n"
  travel_completion_event.1000.a:1 "おお[ROOT.Char.GetFaith.HighGodName]よ、私はここに帰ってきたぞ…"
  travel_completion_event.1000.b:1 "旅路は刺激的だが、帰路もまた乙なのだよ。"
- cultural_ambassador_cultural_acceptance_gain_desc:0 "文化施設との旅"
+ cultural_ambassador_cultural_acceptance_gain_desc:0 "文化使節との旅"
  cultural_ambassador_toast.t:0 "[cultural_ambassador.GetFirstNameNoTooltip]は文化受容度を増加させます"
  cultural_ambassador_option.tt:0 "Effects from your Cultural Ambassador:\n$EFFECT_LIST_BULLET$The [cultural_acceptance|E] between every [culture|E] you visited and the [SCOPE.GetRootScope.GetCharacter.GetCulture.GetName] increased by #positive_value +1%#!"
