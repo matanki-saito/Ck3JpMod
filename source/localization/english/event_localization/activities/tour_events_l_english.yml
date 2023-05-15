@@ -161,7 +161,7 @@
  tour_general.1001.e.success.tt:0 "You have survived"
  tour_general.1001.e.success.desc:0 "You survived the fight."
  tour_general.1001.e.bodyguard.desc:0 "Your bodyguard stepped in to save you."
- tour_general.1001.e.slain.tt:0 "You have been slain"
+ tour_general.1001.e.slain.tt:0 "あなたは殺された"
  tour_general.1001.e.slain.desc:0 "You lost the fight."
  tour_general.1001.e.failure:0 "You fail the attack"
  tour_general.1001.e.bodyguard:0 "[tour_general_1001_bodyguard.GetTitledFirstNameNoTooltip] steps in"

@@ -3,7 +3,7 @@
  terrain_desc:0 "$MAPMODE_TERRAIN$"
  baronies:0 "男爵領"
  baronies_desc:0 "$MAPMODE_BARONIES$"
- counties:1 "County Titles"
+ counties:1 "伯爵領の称号"
  counties_desc:0 "$MAPMODE_COUNTIES$"
  realms:0 "領国"
  realms_desc:0 "$MAPMODE_REALMS$"

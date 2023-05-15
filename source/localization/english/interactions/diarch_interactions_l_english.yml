@@ -189,7 +189,7 @@
  liege_dismiss_temporary_regency_interaction:0 "摂政の解任"
  liege_dismiss_temporary_regency_interaction_desc:0 "I am perfectly capable of conducting my own affairs, and can divest [recipient.GetShortUINameNoTooltip] of [recipient.GetHerHis] #EMP limited#! authority"
  liege_dismiss_temporary_regency_interaction.tt.dynasty_receives_prestige:0 "The [recipient.GetDynasty.GetBaseName] [dynasty|E] receives [dynasty_prestige_i] [EmptyScope.ScriptValue('liege_dismiss_temporary_regency_interaction_dynasty_prestige_value')|V+0] [dynasty_prestige|E]"
- liege_dismiss_temporary_regency_interaction.tt.recipient_notification:2 "[actor.GetShortUINameNoTooltip|U][CharHaveHas(actor)]は摂政としての[CharMyHerHis(recipient)]の役職を[recipient.GetShortUIName]に解任した"
+ liege_dismiss_temporary_regency_interaction.tt.recipient_notification:2 "解任"
  liege_dismiss_entrenched_regency_interaction:0 "図々しい執政を解任する"
  liege_dismiss_entrenched_regency_interaction_desc:0 "[recipient.GetShortUINameNoTooltip] may have coiled [recipient.GetHerselfHimself] around the vital organs of state, but it's time for [recipient.GetHerHim] to #EMP leave#!"
  liege_dismiss_entrenched_regency_interaction.tt.dynasty_receives_prestige:0 "[recipient.GetDynasty.GetBaseName] [dynasty|E] receives [dynasty_prestige_i] [EmptyScope.ScriptValue('liege_dismiss_entrenched_regency_interaction_dynasty_prestige_value')|V+0] [dynasty_prestige|E]"

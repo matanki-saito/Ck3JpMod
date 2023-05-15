@@ -1,5 +1,5 @@
 ﻿l_english:
- completed_hajj_memory:0 "completed a Hajj"
+ completed_hajj_memory:0 "ハッジを完遂"
  completed_first_hajj_desc:0 "I undertook my very first Hajj to [ROOT.Var('hajj_destination').GetProvince.GetCounty.GetName]"
  completed_first_hajj_desc_second_perspective:0 "you undertook your very first Hajj to [ROOT.Var('hajj_destination').GetProvince.GetCounty.GetName]"
  completed_first_hajj_desc_third_perspective:0 "[owner.GetName] undertook [owner.GetHerHis] very first Hajj to [ROOT.Var('hajj_destination').GetProvince.GetCounty.GetName]"

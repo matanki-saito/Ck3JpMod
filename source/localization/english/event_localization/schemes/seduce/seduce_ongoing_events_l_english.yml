@@ -534,7 +534,7 @@
  seduce_ongoing.7102.a:0 "やり方を見直すべきだろうな…"
  seduce_ongoing.7201.desc:0 "「あなたのことをもっとよく知りたい。」\n[target.GetTitledFirstName]は最初は緊張していたが、時間が経つにつれて安心し、私の望みに下心はないと信じるようになった。\n\n別れ際に、[target.GetFirstNameNoTooltip]に素敵な時間を過ごしてくれたことを感謝すると、私の笑顔にぎこちない笑顔を返してくれた。この過ごした時間は読書では得られない、これだけの笑顔を一日で見たのは初めてだ。きっと、[target.GetFirstNameNoTooltip]は私のことをずっと想っていてくれるだろう。"
  seduce_ongoing.7202.desc:1 "[target.GetTitledFirstName]と二人きりの時間を得ることは難しくない。難しいのは、[target.GetHerHim]と普通の会話をすることだ。[target.GetHerHim]に質問をすると、思いつく限り最も短い答えで、会話を打ち切られてしまう。まるで歯を無限に抜いているように感じるのだ！"
- seduce_ongoing.7202.desc_animal:0 "\n\nI can't stop thinking that I would get more of a response from a dead [ROOT.Char.Custom('GetAnimalType')] than from [target.GetFirstNameNoTooltip]."
+ seduce_ongoing.7202.desc_animal:0 "\n\nまるで[target.GetFirstNameNoTooltip]よりも死んだ[ROOT.Char.Custom('GetAnimalType')]の方が良い反応を返してくれるのではないかと考えてしまうほどだ。"
  seduce_ongoing.4001.desc.court_musician:0 "[court_location.GetNameNoTier]において、まもなく[target.Custom('MusicalPerformer')]が宮廷での上演を行うはずだ。私がそれを、愛情の対象である[target.GetTitledFirstName]に捧げるものとなるよう、[dummy_musician_gender.GetHerHim]に演奏を変えてもらうのは容易い要求だろう。\n\nあるいは、$court_musician_court_position$に参加してもらうよう頼むことで、私はそこにいる観客の前で自身を良く見せるための曲を演奏してもらうこともできる。"
  seduce_ongoing.4001.d:0 "こんなことに首を突っ込むべきではない。"
  seduce_ongoing.4002.desc.opening:0 "宮廷ではよく芸人が出入りするものだが、今回は我々にとって特別なことが約束されており、確かにそうだった。"

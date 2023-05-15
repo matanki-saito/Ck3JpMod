@@ -1,5 +1,5 @@
 ﻿l_english:
- ep2_accolade_events.0100.t:0 "The Hunter's Art"
+ ep2_accolade_events.0100.t:0 "狩人の技術"
  ep2_accolade_events.0100.desc:0 "To blindly chase a wild creature, launching arrow after arrow or spurring ever harder?\n\n\"Futile!\" laughs [huntsmaster.GetName], my renowned [ROOT.Char.Custom('KnightCultureNoTooltipLowercase')].\n\nBeasts can be cunning. They scent the stalker on approach, scatter before the hunting-pack, and turn violent when cornered. Bringing down quarries means knowing them and their wilderness well and, once the horn is sounded — never relenting.\n\nThe most skilled of hunters is [huntsmaster.GetFirstNameNoTooltip]. In [huntsmaster.GetHerHis] company,"
  ep2_accolade_events.0100.desc.both:0 "my [ROOT.Char.Custom2('RelationToMeShort', new_hunter_2)] [new_hunter_2.GetFirstName] and I are coming to know the ways of [ROOT.Char.GetFaith.HighGodName]'s creatures... and the ways of outwitting them."
  ep2_accolade_events.0100.desc.heir:0 "my [ROOT.Char.Custom2('RelationToMeShort', new_hunter)] [new_hunter.GetFirstName] is coming to know the ways of [ROOT.Char.GetFaith.HighGodName]'s creatures... and the ways of outwitting them."

@@ -6,7 +6,7 @@
  DLC:0 "DLC"
  DLC_CONTENT_AVAILABLE:0 "利用可能なコンテンツ"
  DLC_CONTENT_OWNED:0 "所有しているコンテンツ"
- DLC_COMPLETE_COLLECTION:0 "Complete your collection"
+ DLC_COMPLETE_COLLECTION:0 "コレクションを完成させる"
  VISIT_STORE_BUTTON:0 "ストアへ移動"
  DLC_ENABLED:0 "DLCは有効です"
  DLC_NOT_ENABLED:1 "DLCは#X 無効#!です"

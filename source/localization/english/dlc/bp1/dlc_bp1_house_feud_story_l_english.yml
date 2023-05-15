@@ -356,4 +356,4 @@
  house_feud_bad_modifier_custom_desc:0 "This [house|E] gained a reputation for letting its enemies get the better of it in its [house_feud|E] with House [SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]."
  house_feud_even_modifier_custom_desc:0 "This [house|E] gained a reputation for giving as good as it got in its [house_feud|E] with House [SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]."
  house_feud_good_modifier_custom_desc:0 "This [house|E] gained a reputation for not accepting an insult without returning it twofold in its [house_feud|E] with House [SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]."
- house_feud_excellent_modifier_custom_desc:0 "This [house|E] gained a reputation for not taking slights lightly, going to great lengths to defend itself in its [house_feud|E] with House [SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]."
+ house_feud_excellent_modifier_custom_desc:0 "この[house|E]は、[SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]家との[house_feud|E]において、侮蔑されることを軽視せず、自らを守るためにあらゆる手段を講じるという評判だ。"

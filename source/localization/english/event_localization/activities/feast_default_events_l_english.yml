@@ -268,7 +268,7 @@
  feast_default.8003.a:0 "#EMP A toast.#!"
  feast_default.8052.desc:0 "「火事だ！」\n\n客の間に恐怖が渦巻く中、私は[host.Custom2('MyCharacterIntroduction', ROOT.Char)]を探し回るが、[host.GetHerHis]の椅子は空席だった。\n\n火はあっという間に燃え広がり、[ROOT.Char.Custom('RegionalDrink')]に染まった布と着飾った参加者へ瞬く間に燃え移る。私の肌は水ぶくれになり、#EMP 皮が剥け、#!私は悲鳴を上げるが、うねる煙が立ちどころに叫び声を掻き消してしまうので、それも不可能になる。"
  feast_default.8052.a:0 "栄光に包まれて死にたいといつも願っていたのに…"
- feast_default.8061.a:2 "I guess the feast is now over."
+ feast_default.8061.a:2 "思うに、饗宴はたった今、終わってしまったようだ。"
  feast_default.9001.t:1 "As My Guests Depart"
  feast_default.9001.desc:0 "皆がそれぞれの家に向かうのを見つつ、饗宴が成功したと言えることを誇りに思う！"
  feast_default.9001.spouse:0 "\n\n饗宴の成功は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))][spouse.GetFirstName]のおかげであるところが大きく、最後の数人の客を見送る時には[spouse.GetSheHe]に対する感謝の念しか感じない。"

@@ -44,7 +44,7 @@
  MULTI_DESTINATION_PICKER_SELECTION_COUNT_MAX:0 "@warning_icon!#X Selected stops: [ActivityPlanner.GetNumPickedPhases]/[ActivityPlanner.GetNumPickablePhases]#!"
  CUSTOMIZE_TOUR:0 "Customize Tour"
  CHANGE_DESTINATION_TT:0 "#T 目的地を変える#!"
- TRAVEL_TITLE:0 "Travel"
+ TRAVEL_TITLE:0 "旅"
  TRAVEL_EFFECTS_HEADER:0 "Travel Effects"
  TRAVEL_OPTIONS_HEADER:0 "Travel Options"
  TRAVEL_OPTION_TT:0 "#T [TravelOption.GetName]#!\n[TravelOption.GetTooltip( TravelPlanData.Self )]"

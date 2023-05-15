@@ -7,7 +7,7 @@
  experienced_captains_option_desc:0 "経験豊富な船長があなたの従者となってくれるように要請をして、海を渡る時の危険性を大幅に軽減します。"
  captain_recruited.t:0 "船長を採用した"
  captain_recruited.tt:0 "[GetTrait('forder').GetName( GetNullCharacter )]の特性を持つ船乗りがあなたの従者となるでしょう"
- hire_experienced_mercenaries_option:0 "護衛を雇う"
+ hire_experienced_mercenaries_option:0 "護衛の傭兵を雇う"
  hire_experienced_mercenaries_option_desc:0 "熟練した傭兵たちを護衛として従者に加えることは旅路のあらゆる状況での安全性と移動速度を高める役に立つでしょう。"
  mercenary_leader.t:0 "傭兵団長を採用した"
  mercenary_leader_recruited.tt:0 "[mercenary|E]の団長があなたの従者として加わるでしょう"

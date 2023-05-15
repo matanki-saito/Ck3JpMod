@@ -76,7 +76,7 @@
  court.7400.b.tt:1 "[guest.GetHerHim]を宮廷の下働きとして雇います。"
  court.7400.c:1 "惨めな寄生虫よ、来たところへ戻りなさい！"
  court.7600.title:0 "野性の心"
- court.7600.desc:1 "My [child.Custom('GetDaughterSon')] [child.GetName] walks into my throne room with mud and blood caked all over [child.GetHerHis] face! I stand up in consternation, intending to rebuke my [child.Custom('GetDaughterSon')] for [child.GetHerHis] impropriety, when $master_of_hunt_court_position$ [huntmaster.GetFirstName] strides in, similarly muddied and blood-stained, grinning from ear to ear.\n\n\"My liege, [child.GetTitledFirstNameNoTooltip] here deserves the court's praise! [child.GetSheHe|U] brought down a mighty [child.Custom('GetAnimalType')] during our hunt, perhaps the finest I've seen this year.\"\n\nI'm gobsmacked; had no idea [child.GetSheHe] was even hunting."
+ court.7600.desc:1 "我が[child.Custom('GetDaughterSon')][child.GetName]は泥と血にまみれた顔で、私の玉座の間へやってきた！仰天した私がその不適当さから[child.Custom('GetDaughterSon')]を叱責しようと立ち上がると、$master_of_hunt_court_position$[huntmaster.GetFirstName]が同じく泥と血にまみれ、満面の笑みを浮かべながら歩いてきた。\n\n「我が主君、[child.GetTitledFirstNameNoTooltip]は宮廷の称賛に値します！[child.GetSheHe|U]は、狩りの最中に強大な[child.Custom('GetAnimalType')]を倒したのです、これは今年見た獲物の中でも随一のものでは無いでしょうか！」\n\n私は非常に驚いた。[child.GetSheHe]が狩りをしていたことさえ知らなかったのだから。"
  court.7600.a:1 "このような外出は#EMP 止める#!べきだ。"
  court.7600.b:1 "うむむ、私の[child.Custom('GetDaughterSon')]をもっと試してみるべきかもしれない…"
  court.7600.b.tt:1 "別の狩りで[child.GetNameNoTooltip]を限界まで追い込むように[huntmaster.GetNameNoTooltip]に指示します。"

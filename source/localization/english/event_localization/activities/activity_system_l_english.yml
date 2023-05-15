@@ -3,7 +3,7 @@
  activity_tournament_province_desc:1 "You hold a Tournament in [ROOT.Province.GetName]\nProvinces with suited buildings give out a [gold_i][gold|E] discount"
  activity_tournament_conclusion_desc:0 "#D Please fill me in and put me in the right file designer senpai UwU#!"
  activity_feast_guest_desc:0 "$BULLET_WITH_TAB$Participants may gain attending characters [opinion|E]\n$BULLET_WITH_TAB$Participants may lose [stress_loss_i][stress|E]\n$BULLET_WITH_TAB$Participants may gain the [GetTrait('lifestyle_reveler').GetName( GetNullCharacter )] [trait|E]"
- activity_tournament_guest_desc:1 "#weak If you are eligible, joining a Tournament will offer a chance to win contests and therefore prizes, as well as relax and take in the sights and sounds. It also provides an opportunity for you to sharpen your martial skills.#!"
+ activity_tournament_guest_desc:1 "#weak 参加資格があるトーナメントに参加すれば、大会で優勝して賞品を獲得するチャンスに恵まれるだけでなく、リラックスして観光も楽しむことができます。また、自分の武術を磨く機会にもなります。#!"
  guest_friendship_title:0 "$activity_pulse_action_guest_friendship$"
  activity_pulse_action_guest_friendship:0 "[second.GetShortUINameNoTooltip|U] Compliments [first.GetShortUINameNoTooltip|U]"
  guest_insulted_title:0 "$activity_pulse_action_guest_insulted$"

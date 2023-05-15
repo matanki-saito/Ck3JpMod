@@ -500,7 +500,7 @@
  cultural_festival.4311.d:0 "I must admit, I've lost it a long time ago"
  cultural_festival.4311.proper_gift_taost:0 "Displayed correct gift"
  cultural_festival.4311.no_gift_toast:0 "Tried to trick [giving_gift_memory_owner.GetNameNoTooltip]"
- cultural_festival.4311.liege_failed_toast:0 "Your deeds are used against you"
+ cultural_festival.4311.liege_failed_toast:0 "因果が応報した"
  cultural_festival.4312.t:0 "$cultural_festival.4310.t$"
  cultural_festival.4312.desc:0 "[gift_receiver.GetTitledFirstName] ponders for a moment after being asked about the gift.\n\n"
  cultural_festival.4312.desc.decoy_gift:0 "\"Oh, yes, I remember as if it was yesterday! You gave me [decoy_gift.GetName]. I even still have it with me, do you want to hold it?\"\n\n[gift_receiver.GetSheHe|U] looks very confident, as [gift_receiver.GetSheHe] swiftly orders [gift_receiver.GetHerHis] men to bring the gift."

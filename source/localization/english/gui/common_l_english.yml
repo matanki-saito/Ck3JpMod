@@ -1,5 +1,5 @@
 ﻿l_english:
- CHARACTER_IN_ACTIVITY_LOCATION:1 "In Activity: [ACTIVITY.GetBaronyNameExplicitly|V]"
+ CHARACTER_IN_ACTIVITY_LOCATION:1 "活動に参加中:[ACTIVITY.GetBaronyNameExplicitly|V]"
  CHARACTER_IN_LOCATION:1 "Located in [PROVINCE.GetBaronyNameExplicitly|V]"
  CLOSE_TOOLTIP:0 "#T $CLOSE_LABEL$#!"
  MINIMIZE_TOOLTIP:0 "#T 最小化#!"

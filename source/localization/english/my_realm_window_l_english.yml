@@ -152,7 +152,7 @@
  MRW_HEIR_PREFERRED:1 "[Concept('vassal_stance','Preferred')|E] By: [MyRealmWindow.GetCharacter.GetVassalStancesThatPrefer( Character.Self )]"
  MY_REALM_WINDOW_VASSAL_STANCES:0 "[vassal_stances|E]#V :#!"
  VASSAL_CONTRACT_IS_BLOCKED:0 "This [contract|E] has already been changed, you cannot modify it.\n\nYou can still view current [obligations|E]."
- MY_REALM_WINDOW_FUTURE_DIARCH:3 "[CHARACTER.GetDiarchTitle]-Presumptive: [TARGET_CHARACTER.GetShortUINameNoTooltip|U], [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
+ MY_REALM_WINDOW_FUTURE_DIARCH:3 "推定される[CHARACTER.GetDiarchTitle]：[TARGET_CHARACTER.GetShortUINameNoTooltip|U] [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_DESIGNATED_DIARCH:3 "Appointed [CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U], [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_ACTIVE_DIARCH:2 "[CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U]、[TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_ACTIVE_DIARCHY:0 "[Character.Custom('GetDiarchyArticle')][Character.GetDiarchyTypeNameNoTooltip]と権力を共有している"
