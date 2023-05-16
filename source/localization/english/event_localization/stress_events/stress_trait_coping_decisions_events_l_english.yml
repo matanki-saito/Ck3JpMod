@@ -88,7 +88,7 @@
  stress_trait_coping_decisions.7503.desc:0 "私は訓練の途中、同じく体を動かしている[random_knight.GetTitledFirstName]を発見する。[random_knight.GetHerHim]を観察してみると——[random_knight.GetSheHe]は健康だけでなく、体力も絶好調のようだ。[random_knight.GetHerHis]に対して、自分の腕前を測ってみたいのだが、だが、どんな方法で？\n\n勝ちを望むのであれば、複数の要素を考慮したほうが良いのだろうか？生身の強さか、それともスタミナや知恵まで含めた総合力か？"
  stress_trait_coping_decisions.7503.a:0 "二人でレスリングをすることを提案する。"
  stress_trait_coping_decisions.7503.a.tt:0 "あなたは純粋な力で圧倒することで勝てると考えます"
- stress_trait_coping_decisions.7503.b:0 "[random_knight.GetHerHim]にスパーリングマッチを挑む。"
+ stress_trait_coping_decisions.7503.b:0 "[random_knight.GetHerHim]に練習試合を挑む。"
  stress_trait_coping_decisions.7503.b.tt:0 "あなたは、腕前と武術の組み合わせが勝利につながると考えます"
  stress_trait_coping_decisions.7503.c:0 "「競走ではどうだ？」"
  stress_trait_coping_decisions.7503.c.tt:0 "あなたは、腕前と健康の組み合わせがあなたの競走を長持ちさせるのに役立つと考えます"

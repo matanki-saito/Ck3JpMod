@@ -201,7 +201,7 @@
  intrigue_protected_by_loved_one_modifier_desc:0 "この人物は、自分を守るためならば#EMP 何でも#!してくれる愛する人がいます。"
  intrigue_defied_loved_one_opinion:1 "愛する人に反抗した"
  intrigue_dread.2101.t:0 "[family_member.GetFirstNameNoTooltip]の風説"
- intrigue_dread.2101.desc.intro:0 "「あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('family_member'))]による[family_member.Custom2('MyCharacterIntroduction', ROOT.Char)]に関する悪い噂について耳にして… 私はその流説のもとについて調べました。」[spymaster.Custom2('MyCharacterIntroduction', ROOT.Char)]は手紙の束をごそごそと持ち出す。\n\nこの手紙の数々は[hater.GetName]が[family_member.GetFirstName]の名前に泥を塗ろうとした確固とした証拠であるという。"
+ intrigue_dread.2101.desc.intro:0 "「あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('family_member'))][family_member.GetFirstName]に関する悪い噂について耳にして… 私はその流説のもとについて調べました。」[spymaster.Custom2('MyCharacterIntroduction', ROOT.Char)]は手紙の束をごそごそと持ち出す。\n\nこの手紙の数々は[hater.GetName]が[family_member.GetFirstName]の名前に泥を塗ろうとした確固とした証拠であるという。"
  intrigue_dread.2101.desc.failed_assassination:0 "[hater.GetSheHe|U]によれば[family_member.GetFirstName]が[hater.GetHerHim]のことを殺そうとしたとさえ言って非難しているのです！"
  intrigue_dread.2101.desc.committed_adultery:0 "[hater.GetSheHe|U]は[family_member.GetFirstName]が不埒な[family_member.GetWifeHusband]などというわけのわからぬ話まで言っているのです！"
  intrigue_dread.2101.desc.bullied_me:0 "[family_member.GetSheHe]が[hater.GetNameNoTooltip]に対して悪質ないじめをしていた幼少期からの…[family_member.GetFirstName]が生まれついての悪だと言っているのです。"

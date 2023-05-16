@@ -1,5 +1,5 @@
 ﻿l_english:
- travel_danger_prefix:0 "Danger:"
+ travel_danger_prefix:0 "危険:"
  travel_danger_events.1000.t:1 "$travel_danger_prefix$ Mountains out of Mole Hills"
  travel_danger_events.1000.desc:0 "The road has gotten incredibly hilly the past few hours and everyone is beginning to weary.\n\nAfter a while longer, with no end of the hills in sight, one of my traveling companions, [travel_leader.GetFirstName], approaches me and says:\n\n\"M'[ROOT.Char.GetLadyLord], our mounts cannot carry on like this for much longer. The poor animals need a break or I fear they'll collapse! We must stop to rest!\"\n\n[travel_leader.GetSheHe|U] knows full well that this will delay our journey to [destination.GetName]..."
  travel_danger_events.1000.a:0 "[travel_leader.GetSheHe|U] is right. It would be wise to rest."
@@ -120,7 +120,7 @@
  travel_danger_events.1012.desc_food_taster:0 "$travel_danger_events.1012.desc$ We should ask [food_taster.GetFirstName] about it.\"\n\n\"I must say, it's a peculiar delicacy and nothing suggests immediate danger, however...\" \"So it's safe to eat then!\" [poisonous_plant_eater.GetFirstNameNoTooltip] quickly interrupts."
  travel_danger_events.1012.desc_unknown:0 "$travel_danger_events.1012.desc$」私は叫んだ。\n\n「はい！見た目も香りも#EMP とても美味しそう#!ですが、どんな味がするのでしょうか？少しだけ齧ってみてもいいでしょうか？」[poisonous_plant_eater.GetSheHe]は言う。"
  travel_danger_events.1012.desc_again:0 "Once more the road ahead is dangerous, so for safety we have to settle for the night. While the others set up the camp I catch [poisonous_plant_eater.GetFirstName] picking up another unknown fruit.\n\n\"I admire your curiosity [poisonous_plant_eater.GetFirstNameNoTooltip].\"\n\nI smile, but [poisonous_plant_eater.GetSheHe] gives me a mischievous look instead, then bursts:\n\n\"I'm sorry my [poisonous_plant_eater.Custom2('RelationToMe', ROOT.Char)], but I cannot help myself!\" as [poisonous_plant_eater.GetSheHe] tries to sink [poisonous_plant_eater.GetHerHis] teeth into the fruit."
- travel_danger_events.1012.a:0 "「ちょっと待て、毒だったらどうするんだ?!」"
+ travel_danger_events.1012.a:0 "「ちょっと待て、毒だったらどうするんだ？！」"
  travel_danger_events.1012.a_again:0 "\"Stop putting #EMP everything#! in your mouth!\""
  travel_danger_events.1012.a.tt:0 "あなたはその植物を掴んで投げ飛ばす"
  travel_danger_events.1012.regular_plant:0 "結局は無害な植物だった"

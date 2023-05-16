@@ -879,7 +879,7 @@
  ai_cultural_hybridization_decision_tooltip:0 ""
  ai_cultural_hybridization_decision_desc:0 ""
  ai_cultural_hybridization_decision_confirm:0 ""
- culture_not_female_only_tt:1 "Your culture has a [tradition|E] that enables [GetLaw('female_only_law').GetName] [succession|E] and your [faith|E] does not have the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] [doctrine|E]"
+ culture_not_female_only_tt:1 "あなたの文化には[GetLaw('female_only_law').GetName][succession|E]の継承を可能にする[tradition|E]があり、あなたの[faith|E]には[GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName]の[doctrine|E]がありません"
  female_only_law_faith_or_culture_trigger:0 "あなたの[faith|E]は[GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName]の[doctrine|E]を持たず、あなたの[culture|E]は[GetLaw('female_only_law').GetName]を許可する[culture_tradition|E]を持っていない"
  female_preference_law_faith_or_culture_trigger:0 "あなたの[faith|E]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]または[GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName]の[doctrines|E]を持たず、あなたの[culture|E]は[GetLaw('female_preference_law').GetName]を許可する[culture_tradition|E]を持っていない"
  equal_law_culture_faith_or_innovation_trigger:1 "あなたの[faith|E]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]の[doctrine|E]を持たず、あなたの[culture|E]は[GetLaw('equal_law').GetName]を許可する[culture_tradition|E]を持っていない"

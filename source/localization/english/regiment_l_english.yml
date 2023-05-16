@@ -192,7 +192,7 @@
  REPLACE_MAA_ORIGIN_BODY:0 "Replace the [stationed|E] [Province.GetMaaOriginHere.GetName] in [Province.GetBaronyNameExplicitly] with [Regiment.GetName]"
  REPLACE_MAA_ORIGIN_ACCEPT:0 "置き換え"
  VIEW_MAA_ORIGIN_TT:0 "#T [stationed_regiment|E]を表示#!"
- SHOW_MAA_ORIGIN_TT:0 "#T [stationed_regiment|E]#!\n[Province.GetTitle.GetHolder.GetShortUIName|U] [Province.GetTitle.GetHolder.LocalPlayerString( 'have', 'has' )] [stationed|E] a [regiment|E] of [Province.GetMaaOriginHere.GetName] #weak ([Province.GetMaaOriginHere.GetMAAType.GetBaseTypeName])#! in this [holding|E]."
+ SHOW_MAA_ORIGIN_TT:0 "#T [stationed_regiment|E]#!\nこの[holding|E]には[Province.GetTitle.GetHolder.GetShortUIName|U]が有する[Province.GetMaaOriginHere.GetName]#weak ([Province.GetMaaOriginHere.GetMAAType.GetBaseTypeName])#! [regiment|E]が[stationed|E]しています。"
  MAA_UNSTATIONED:0 "未駐留"
  REGIMENT_ORIGIN_STAT_ENTRY_ADD:0 "[stationed_holding|E]から: $VALUE|+=0$"
  REGIMENT_ORIGIN_STAT_ENTRY_MULT:0 "[stationed_holding|E]から: $VALUE|+=%0$"

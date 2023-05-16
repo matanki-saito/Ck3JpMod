@@ -28,7 +28,7 @@
  diarch_attempt_to_overthrow_liege.tt.win.considered_merciful:0 "#P 勝利#!：あなたの慈悲により[strife|E]が[tyranny|E]になるのを軽減する"
  diarch_attempt_to_overthrow_liege.tt.lose.usurper_captured:0 "#N 敗北#!：あなたは[imprisoned|E]される"
  diarch_attempt_to_overthrow_liege.tt.win.liege_captured:0 "#P 勝利#!：あなたの[liege|E]は[imprisoned|E]される"
- diarch_attempt_to_overthrow_liege.tt.win.liege_dies:0 "#P 勝利#!:あなたの[liege|E]は[character_death_dies|E]"
+ diarch_attempt_to_overthrow_liege.tt.win.liege_dies:0 "#P 勝利#!: あなたの[liege|E]に冷たい[character_death_dies|E]をくれてやる"
  diarch_attempt_to_overthrow_liege.tt.loss.usurper_dies:0 "#N 敗北#!：あなたは[character_death_die|E]"
  diarch_attempt_to_overthrow_liege.tt.coup_diplomacy:0 "外交によるクーデター\n#low $diarch_attempt_to_overthrow_liege.tt.coup_diplomacy_desc$#!"
  diarch_attempt_to_overthrow_liege.tt.coup_diplomacy_desc:0 "言葉によってこれを成そう"

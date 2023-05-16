@@ -199,7 +199,7 @@
  hunt_every_attempted_murderer_tt:0 "Against each murderer, you"
  activity_hunt_location_legendary_sighting_tt:0 "[county|E] must have a [GetModifier('hunt_sighting_legendary_modifier').GetNameWithTooltip]"
  activity_hunt_location_any_game_tt:0 "Location must have some hunting game"
- activity_hunt_selection_tooltip:1 "Hunt wild game with your court, for sport and glory\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[prestige_i] [prestige|E]\n$BULLET_WITH_TAB$[stress_loss_i] [stress|E] Loss"
+ activity_hunt_selection_tooltip:1 "運動と栄光のためにあなたの庭で野生の鳥獣を狩猟します\n\n予想される報酬:\n$BULLET_WITH_TAB$[prestige_i] [prestige|E]\n$BULLET_WITH_TAB$[stress_loss_i] [stress|E]減少"
  hunt_kill_success_melee_root:1 "あなたは[activity.Custom('GetAnimalTypeKill')]を狩った"
  hunt_kill_success_melee_guest:1 "[animal_slayer.GetFirstNameNoTooltip]は[activity.Custom('GetAnimalTypeKill')]を狩った"
  hunt_kill_failure_melee_root:1 "あなたは[activity.Custom('GetAnimalTypeKill')]に傷つけられた"

@@ -43,7 +43,7 @@
  game_concept_struggle_involved_culture:0 "関係勢力の文化"
  game_concept_struggle_involved_cultures:0 "関係勢力の諸文化"
  game_concept_struggle_involved_culture_desc:0 "[cultures|E]の中には、最初から[struggle|E]の[struggle_involved|E]となっているものもあります。それ以外の[cultures|E]は、様々な状況の変化によって今後関与する可能性があります。"
- game_concept_dissolution_faction:0 "解体派の派閥"
+ game_concept_dissolution_faction:0 "解体派閥"
  game_concept_dissolution_factions:0 "派閥の解散"
  game_concept_faction_dissolution:0 "解散"
  game_concept_dissolution_faction_desc:0 "[dissolution_faction|E]は、その[liege|E]が統治する[realm|E]を打ち砕こうとします。成功すれば、領国の封臣全てが[independent|E]となります。加えて、元君主は[primary_title|E]を失います。"

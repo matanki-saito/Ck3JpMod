@@ -565,7 +565,7 @@
  travel_events.2108.desc_outro:0 "「[holding_location.GetNameNoTooltip]で[province_liege.GetCulture.GetNameNoTooltip]のもてなしにご参加くださいますよう！」"
  travel_events.2108.a:0 "光栄なことだ！"
  travel_events.2108.a_negative:0 "生きていてよかった、そう思う。"
- travel_events.2108.a.tt:0 "[province_liege.GetShortUIName]が助けに来ました！"
+ travel_events.2108.a.tt:0 "所領の主が助けに来ました！"
  travel_events.2109.t:0 "$travel_events.2108.t$"
  travel_events.2109.desc_intro:0 "盗賊どもは何が自分たちを襲ったのかわかっていない。私は最高の戦士たちを率いて[holding_location.GetName]の外で戦い、暑い夏の日のバターのように集団を切り裂いた。"
  travel_events.2109.desc_negative:0 "\n\n私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('travelling_ruler'))][travelling_ruler.GetTitledFirstName]は雷に打たれたかのように呆然としながら、我々の突撃と[travelling_ruler.GetHerHis]の旅の一団の防衛の成功を眺めている。"
