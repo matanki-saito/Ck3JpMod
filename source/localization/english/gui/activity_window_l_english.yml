@@ -58,7 +58,7 @@
  activity_passive_state_short:0 "Waiting"
  activity_passive_state_full:0 "[Character.GetUIName|U] [Character.LocalPlayerString( 'are', 'is' )] [SelectLocalization( Or( Activity.GetType.IsOpenInvite, EqualTo_int32( Activity.GetNumWaitingForCharacters, '(int32)0') ), 'activity_waiting_for_phase', 'activity_waiting_for_guests' )]"
  activity_active_state_short:0 "Engaged"
- activity_active_state_full:0 "[Character.GetUIName|U][Character.LocalPlayerString( 'are', 'is' )][Activity.GetCurrentPhase.GetPhase.GetName]に参加している"
+ activity_active_state_full:0 "[Character.GetUIName|U]は[Activity.GetCurrentPhase.GetPhase.GetName]に参加している"
  activity_uninvolved_state_short:0 "Uninvolved"
  activity_uninvolved_state_full:0 "[Character.GetUIName|U][Character.LocalPlayerString( 'are', 'is' )][Activity.GetCurrentPhase.GetPhase.GetName]に参加していません"
  activity_travel_state_verb:0 "[Concept( 'travel', '旅路' )|E]"

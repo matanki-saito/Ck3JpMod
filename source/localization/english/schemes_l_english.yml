@@ -222,7 +222,7 @@
  FREEZE_REASON_TARGET_TRAVELING:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]が旅行中である"
  BEFRIENDING_AT_FEAST:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]があなたと同じ饗宴に参加している"
  overthrow_regent:0 "摂政の打倒"
- overthrow_regent_action:0 "Overthrow"
+ overthrow_regent_action:0 "打倒"
  overthrow_regent_desc:0 "I will kidnap and [imprison|E] [SCHEME.GetTarget.GetShortUINameNoTooltip], forcing them to hand [SCHEME.GetTarget.GetHerHis] office as [SCHEME.GetTarget.GetDiarchTitle] to me!"
  overthrow_regent_desc_general:0 "The $overthrow_regent$ [scheme|E] is a [hostile_scheme|E] that aims usurp its target place as [regent|E] whilst [imprisoning|E] them. It is a [secret_scheme|E] based on [intrigue|E], that can recruit [agents|E].\n\nA successfully overthrown [scheme_target|E] will be $game_concept_imprisoned$ by the [scheme_owner|E] (if [landed|E]) or the [liege|E] (if not)."
  overthrow_regent_scheme_invalidated_title:0 "@scheme_icon!誘拐計画が終了"

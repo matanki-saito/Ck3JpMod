@@ -14,7 +14,7 @@
  hunt.8010.falcon_failure:0 "$hunt.8000.falcon_failure$"
  hunt.8010.b:0 "Focus on tracking."
  hunt.8020.t:0 "The Gift-Giver"
- hunt.8020.desc:0 "My [activity.Custom('GetRaptorType')] takes a perch and keenly spies across the landscape. In a flash, the bird descends upon something and turns to a frenzy once it has reached its prey. It pecks and claws at something on the ground, though I can't see what.\n\nI hurry over to the frantic screeching [activity.Custom('GetRaptorType')] and find it hawing not over a dead beast, but a small collection of coins and trinkets! The value doesn't seem to be too extravagant, and I'm sure I wouldn't be able to find the original owner even if I wanted to."
+ hunt.8020.desc:0 "私の連れた[activity.Custom('GetRaptorType')]が高い止まり木へと陣取り、広大な眺望一面を鋭く見渡した。次の瞬間だった。何かに向けて滑り落ちるように飛んでいく。ひとたび獲物へ食らいつくと一転して騒がしくなった。地面で何かに爪を立てついばんでいる。とはいえ、こちらから見えてはいないのだが。\n\n半狂乱で甲高い鳴き声を上げる[activity.Custom('GetRaptorType')]のところへと急いで駆けつける。すると、そこにあったのは獣の亡骸ではなく、コインや装身具の小さなコレクションであった！そこまで法外に価値がありそうにも見えず、仮に元の持ち主を探そうとしても、叶わないだろうことは明白であった。"
  hunt.8020.a:0 "\"A fine find, my feathered friend!\""
  hunt.8020.b:0 "\"These riches belong to [ROOT.Char.WealthGodName].\""
  hunt.8030.t:0 "Tracking [activity.Custom('GetRaptorType')|U]"

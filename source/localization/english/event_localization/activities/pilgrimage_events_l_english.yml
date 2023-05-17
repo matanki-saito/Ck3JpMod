@@ -280,7 +280,7 @@
  pilgrimage_cost_distance:0 "Distance Cost"
  pilgrimage_phase_solo:0 "巡礼"
  pilgrimage_phase_solo_desc:0 "The pilgrimage is a spiritual journey into ones personal beliefs. A pilgrimage's success is governed by choices made while traveling as much as ones made at the destination."
- activity_pilgrimage_guest_desc:0 "$BULLET_WITH_TAB$Participants may gain [piety|E]\n$BULLET_WITH_TAB$Participants may lose [stress_loss_i][stress|E]\n$BULLET_WITH_TAB$Participants may gain the [GetTrait('pilgrim').GetName( GetNullCharacter )] [trait|E]"
+ activity_pilgrimage_guest_desc:0 "$BULLET_WITH_TAB$参加者は[piety|E]を獲得する場合があります\n$BULLET_WITH_TAB$参加者は[stress_loss_i][stress|E]を解消する場合があります\n$BULLET_WITH_TAB$参加者は[GetTrait('pilgrim').GetName( GetNullCharacter )]の[trait|E]を獲得する場合があります"
  pilgrimage_type_pious:0 "敬虔な巡礼"
  pilgrimage_type_pious_desc:1 "$EFFECT_LIST_BULLET$ イベントで特に敬虔な行動を選択することができます\n$EFFECT_LIST_BULLET$ 完了時に追加の[piety|E]を得ることができます\n\n#weak 巡礼の目的は、神への敬意を表し、自分の精神の本質と真につながることです。#!"
  pilgrimage_type_worldly:0 "世俗的な巡礼"

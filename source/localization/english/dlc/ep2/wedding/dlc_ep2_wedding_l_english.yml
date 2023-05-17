@@ -29,7 +29,7 @@
  province_desc_wedding_holy_site:0 "\n#P + It's a Holy Site of your Faith#!\n#weak This will lead to a [piety_i] [piety|E] gain.#!"
  every_cruel_vassal:0 "Every cruel vassal"
  wedding_every_other_vassal:0 "Every other vassal"
- activity_wedding_guest_desc:0 "$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$Host and Spouses [opinion|E]\n$BULLET_WITH_TAB$May lose [stress_loss_i][stress|E]\n$BULLET_WITH_TAB$May gain [GetModifier( 'wedding_of_the_century_modifier' ).GetNameWithTooltip|L]\n$BULLET_WITH_TAB$May gain [GetTrait('lifestyle_reveler').GetName( GetNullCharacter )] [trait_level_track_xp|E]"
+ activity_wedding_guest_desc:0 "$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$主催と配偶者の[opinion|E]\n$BULLET_WITH_TAB$[stress_loss_i][stress|E]解消の可能性\n$BULLET_WITH_TAB$[GetModifier( 'wedding_of_the_century_modifier' ).GetNameWithTooltip|L]獲得の可能性\n$BULLET_WITH_TAB$[GetTrait('lifestyle_reveler').GetName( GetNullCharacter )]の[trait_level_track_xp|E]獲得の可能性"
  activity_wedding_guest_help_text:0 "\nWedding Guests take part in the celebrations, ready to be wowed by the lavishness of the event and impressed by the spouses and the host!\nWeddings are social and political events, ripe with occasions to mingle and make meaningful connections with the guests."
  wedding_phase_ceremony:0 "Wedding Ceremony"
  wedding_phase_ceremony_desc:0 "All the rituals and preparations that lead up to the exchange of vows that make the marriage official."

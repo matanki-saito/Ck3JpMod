@@ -11,7 +11,7 @@
  ACTIVITY_LIST_HOST_NO_GRAND_ACTIVITIES:0 "No Grand Activities"
  ACTIVITY_LIST_HOST_NO_REGULAR_ACTIVITIES:0 "活動なし"
  ACTIVITY_LIST_NO_ACTIVITY_INVITATIONS:0 "保留中の活動への招待はありません"
- ACTIVITY_LIST_NO_JOINABLE_ACTIVITIES:4 "現在、近隣の[ruler|E]が開催中でかつ参加可能な[GetActivityType( 'activity_tournament' ).GetNameNoTooltip]はありません"
+ ACTIVITY_LIST_NO_JOINABLE_ACTIVITIES:4 "現在、近隣の[ruler|E]が開催中でかつ参加可能な\n[GetActivityType( 'activity_tournament' ).GetNameNoTooltip]はありません"
  ACTIVITY_LIST_NOTIFY_ME_ABOUT_TOURNAMENTS:1 "トーナメントに参加可能になった際に通知する"
  ACTIVITY_LIST_OPEN_TRAVEL_SETTINGS:0 "Open Travel Settings"
  ACTIVITY_LIST_CLOSE_TRAVEL_SETTINGS:0 "Close Travel Settings"

@@ -26,7 +26,7 @@
  ACTIVITY_GUESTS_HEADER:0 "客人"
  ACTIVITY_GUESTS_OF_HONOR_LABEL:0 "Guests of Honor"
  ACTIVITY_OTHER_GUESTS_BUTTON_TEXT:2 "他の客人([ActivityPlanner.GetNumInvitedCharacters])"
- ACTIVITY_ALL_GUESTS_BUTTON_TEXT:3 "Manage Guests ([ActivityPlanner.GetNumInvitedCharacters])"
+ ACTIVITY_ALL_GUESTS_BUTTON_TEXT:3 "客人の管理（[ActivityPlanner.GetNumInvitedCharacters]）"
  ACTIVITY_PLANNER_SUMMARY:0 "概要"
  ACTIVITY_SUMMARY_COOLDOWN_HEADER:0 "クールダウン"
  ACTIVITY_COOLDOWN:2 "@alert_icon!#alert_trial [ActivityType.GetNameNoTooltip]を主催すると、[GetTimeDifferenceWithDays( ActivityType.CalcCooldownDays( GetPlayer ) )]間、利用できなくなります。#!"
