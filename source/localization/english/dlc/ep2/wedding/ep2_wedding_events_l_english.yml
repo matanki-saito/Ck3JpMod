@@ -51,7 +51,7 @@
  ep2_wedding.0200.desc_spouse_fallback:0 "The formal ceremony is over, and I'm officially married to [my_spouse.GetFirstName]. It's going to take some time to get used to the idea, and I'm left to idly wonder to myself what my life will be like now.\n\nMy musings, however, are quickly interrupted as the whole wedding party starts moving towards the banquet venue.\n\nThere will be time to ponder the future. For the time being, let's celebrate!"
  ep2_wedding.0200.a:0 "楽しもう！"
  ep2_wedding.0300.t:0 "結婚初夜の始まり"
- ep2_wedding.0300.desc:0 "すべての来賓が満足し、かなり疲れているがまだ式典は終わりではない。\n\n私は早速、新郎新婦を寝室まで案内する祝いの行列を作る。新郎新婦たちには#EMP 二人っきり#!で祝ってもらいましょう。残される我々はまた乾杯をしよう！"
+ ep2_wedding.0300.desc:0 "すべての来賓が満足し、かなり疲れているがまだ式典は終わりではない。\n\n私は早速、新郎新婦を寝室まで案内する祝いの行列を作る。新郎新婦たちには#EMP 二人っきり#!で祝って貰わなければならないからだ。残される我々はまた乾杯をしよう！"
  ep2_wedding.0300.desc_spouse:0 "The feast has started winding down, with everyone sated and tired, but the day is still not over for [other_spouse.GetFirstName] and me.\n\nA procession of guests leads us to our bedchamber, for the legitimacy of a wedding pends on it being consummated!"
  ep2_wedding.0300.desc_guest:0 "It feels like I've been eating, drinking, mingling, dancing, and singing for days.\n\nSoon, the celebrations will wind down, and the spouses will retire to their private chambers for the consummation of the wedding. For us who remain, though, let's pour another drink, and let's toast to the spouses!"
  ep2_wedding.0300.a:0 "おっ、お楽しみの時間だな。"

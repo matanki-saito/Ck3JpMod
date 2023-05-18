@@ -14,7 +14,7 @@
  artifact_claim_gained_notification:0 "宝物の請求権を手に入れる"
  artifact_claim_lost_notification:0 "宝物の請求権を喪失する"
  artifact.0011.t:1 "[this_artifact.Custom('InventoryCourtArtifact')]を失った！"
- artifact.0011.tooltip:0 "あなたは[this_artifact.GetName]を[owner.GetTitledFirstNameNoTooltip]に奪われました"
+ artifact.0011.tooltip:0 "あなたは[owner.GetTitledFirstNameNoTooltip]との関係を通して[this_artifact.GetName]を失いました"
  artifact.0012.t:1 "[this_artifact.Custom('InventoryCourtArtifact')]を得た！"
  artifact.0012.tooltip:0 "あなたは[old_owner.GetTitledFirstNameNoTooltip]から[this_artifact.GetName]を獲得しました"
  artifact.0021.t:1 "[this_artifact.Custom('InventoryCourtArtifact')]が破壊された！"

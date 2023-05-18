@@ -232,7 +232,7 @@
  feast_default.6101.c:0 "[troubled_guest.GetFirstNameNoTooltip]！二人きりで話がある。"
  feast_default.6101.c.tt:0 "二人とも休憩が必要だ…"
  feast_default.6111.t:1 "話し相手"
- feast_default.6111.desc:0 "料理の一皿が次の皿に入れ替わると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_talk_to'))] [guest_to_talk_to.GetTitledFirstName]は、[guest_to_talk_to.Custom('subject_of_interest')]について延々と語っていく。\n\n「…そうして、我々はあの窮地から助け出されたのです！退屈させては居ませぬか、我が[ROOT.Char.GetLadyLord]？」"
+ feast_default.6111.desc:0 "料理の一皿が次の皿に入れ替わると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_talk_to'))] [guest_to_talk_to.GetTitledFirstName]は、[guest_to_talk_to.Custom('subject_of_interest')]について延々と語っていく。\n\n「…そうして、我々はあの窮地から助け出されたのです！おっと、もしかして退屈な話だったでしょうか？」"
  feast_default.6111.a:0 "いやいや、無礼講だ。続けてくれ！"
  feast_default.6111.b:0 "代わりにお前のことについて、もっと話さないか？"
  feast_default.6111.c:0 "お前が笑いものになるのは退屈しないな！"

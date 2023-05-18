@@ -1,5 +1,5 @@
 ﻿l_english:
- tournament_events.8000.t:0 "A Fine Favor"
+ tournament_events.8000.t:0 "素敵なお誘い"
  tournament_events.8000.desc.intro:0 "As I prepare for my upcoming match, I spot [favor_giver_1.GetName] hailing me by waving a [favor_giver_1.Custom('GetRandomFavor')] around, offering me [favor_giver_1.GetHerHis] favor."
  tournament_events.8000.desc.mid.two:0 "\n\nBefore I can respond, [favor_giver_2.GetName] appears, holding a [favor_giver_2.Custom('GetRandomFavor')] out for me and insisting I take [favor_giver_2.GetHerHis] favor instead!"
  tournament_events.8000.desc.mid:0 "I feel fortunate to have earned [favor_giver_1.GetHerHis] support and affection, and to take this favor would signify my interest in [favor_giver_1.GetHerHim] in the realm of courtship and chivalry."

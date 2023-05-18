@@ -1374,7 +1374,7 @@
  CANNOT_GRANT_OWN_DIARCH_AS_VASSAL_THIRD:0 "You cannot grant away your [CHARACTER.GetDiarchTitle]"
  offer_vassalization_emissary_accolade_tt:0 "You employ at least one politically gifted $knight_culture_player_no_tooltip_lowercase$"
  just_widowed_interaction_reason:0 "[recipient.GetShortUIName]はあなたのグランドウェディング中に前の配偶者が死んだことを訝しんでいる：$VALUE|=+0$"
- marriage_interaction.0010.gwedding.desc:0 "\n\nI also look forward to the promised [GetActivityType('activity_wedding').GetName]; try not to disappoint me."
+ marriage_interaction.0010.gwedding.desc:0 "\n\n加えて、約束された[GetActivityType('activity_wedding').GetName]の件に関しては非常に楽しみにしていますよ。万が一にも私をがっかりさせるようなことは無いようにお願いします。"
  WASTREL_ACCOLADE_BONUS:0 "Your [acclaimed_knight|E] makes life at court look enticing: $VALUE|=+0$"
  character_interaction_recipient_recieve_on_cooldown:0 "$character_interaction_against_on_cooldown$"
  NOT_character_can_not_target_self:1 "Cannot target yourself"

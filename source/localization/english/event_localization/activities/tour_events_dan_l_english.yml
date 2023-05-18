@@ -1,5 +1,5 @@
 ﻿l_english:
- tour_travel.3000.t:0 "No [ROOT.Char.GetFaith.HouseOfWorshipPlural|U]?"
+ tour_travel.3000.t:0 "[ROOT.Char.GetFaith.HouseOfWorshipPlural|U]ではないと？"
  tour_travel.3000.desc:0 "I visit a village while traveling through [ROOT.Char.GetCurrentLocation.GetNameNoTooltip] and spend some time discussing matters of local worship with a particularly pious peasant called [pious_peasant.GetName].\n\n\"We don't even have a [ROOT.Char.GetFaith.HouseOfWorship], 'ere. We have to travel for days if we want to step foot in a house of [ROOT.Char.GetFaith.HighGodName|U].\""
  tour_travel.3000.a:0 "We could help construct a simple [ROOT.Char.GetFaith.HouseOfWorship]."
  tour_travel.3000.b:0 "I will build a grand [ROOT.Char.GetFaith.HouseOfWorship] here."
