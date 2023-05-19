@@ -22,7 +22,7 @@
  sibling.0005.t:0 "紛争の源"
  sibling.0005.desc:0 "しばらくすれば、私は[sibling.Custom2('MyCharacterIntroduction', ROOT.Char )]に報いの日が来るであろうということはわかっていた。\n\n[vassal.GetTitledFirstName]は[vassal.GetHerselfHimself]自身だけでなく私のすべての[ROOT.GetCharacter.Custom('powerful_vassals_loc')]に代わって、私の耐え難い[ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )]をどうにかしてほしいという要求を私に示した。"
  sibling.0005.a:0 "「[sibling.GetHerHim|U]についてそんな風に言うんじゃない！」"
- sibling.0005.b:1 "[sibling.GetSheHe|U]は、[sibling.GetHerHis]の行動が受け入れられないことを学ばなければならない。"
+ sibling.0005.b:1 "[sibling.GetSheHe|U]は、[sibling.GetHerHis]行動が受け入れられないことを学ばなければならない。"
  sibling.0005.c:1 "いい加減にしろ、[sibling.GetFirstNameNoTooltip]！"
  sibling.1001.t:0 "外交支援"
  sibling.1001.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') ) ]である[sibling.GetTitledFirstName]は、[sibling.GetHerHis]の弁舌をどのように有効に使うかというアイデアと共に私のところへやって来た。\n\n「私は特使として奉仕することもできますし、書記として公文書の口述もできます。」"

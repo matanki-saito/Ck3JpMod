@@ -63,7 +63,7 @@
  tour_stop_dinner_log:0 "[CHARACTER.GetTitledFirstName]は[PROVINCE.GetName]の饗宴のために[TARGET_CHARACTER.GetTitledFirstName]を訪れた"
  tour_stop_cultural_festival_log_title:0 "$tour_stop_tour_grounds_log_title$"
  tour_stop_cultural_festival_log:0 "[CHARACTER.GetTitledFirstName]は[PROVINCE.GetName]の文化的な祝祭のために[TARGET_CHARACTER.GetTitledFirstName]を訪れた"
- tour_base_cost:0 "Base"
+ tour_base_cost:0 "基本"
  activity_tour_guest_desc:0 "客人方は、[vassals|E]への訪問の旅に同行します"
  activity_tour_province_desc:2 "Visit [ROOT.Province.GetTitle.GetHolder.GetName] in [ROOT.Province.GetName]\nYour [GetPlayer.Custom2('RelationToMe', ROOT.Province.GetTitle.GetHolder)]\n[opinion|E] of you: [ROOT.Province.GetTitle.GetHolder.GetOpinionOf( GetPlayer )|+=]"
  5_courtiers_or_more:0 "You must have at least 5 [courtiers|E]"

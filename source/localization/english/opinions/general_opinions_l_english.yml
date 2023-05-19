@@ -242,7 +242,7 @@
  orchestrated_coup_opinion:0 "Orchestrated Coup"
  treasonous_usurped_my_diarch:0 "Usurped my [regent|E]"
  promise_to_predecessor:0 "Promise to Predecessor"
- preferred_heir_opinion:0 "Preferred Heir"
+ preferred_heir_opinion:0 "好ましい継承者である"
  unpreferred_heir_opinion:0 "Unpreferred Heir"
  courtly_title_creation_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] Approves of [title|E] Creation"
  courtly_lowborn_grant_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] Disapproves of [lowborn|E] [title|E] Grants"

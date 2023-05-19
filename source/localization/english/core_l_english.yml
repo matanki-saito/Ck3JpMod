@@ -742,7 +742,7 @@
  CHARACTER_TRAVELING_TOOLTIP:0 "#T 旅行中#!\n[SelectLocalization(Character.GetTravelPlan.GetData.GetActivity.IsValid, 'CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION', '')]による[Character.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]への[traveling|E]"
  CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION:0 "[SelectLocalization(ObjectsEqual(Character.GetTravelPlan.GetData.GetActivity.GetHost.Self, Character.Self),'CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_HOSTING','CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_ATTENDING')]"
  CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_HOSTING:0 "[Character.GetTravelPlan.GetData.GetActivity.GetName]により"
- CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_ATTENDING:0 "[Character.GetShortUIName][Select_CString(Character.IsLocalPlayer, 'are', 'is' )][Character.GetTravelPlan.GetData.GetActivity.GetName]に参加しているので"
+ CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_ATTENDING:0 "[Character.GetShortUIName]は[Character.GetTravelPlan.GetData.GetActivity.GetName]に参加しているので"
  CHARACTER_SPOUSE:0 "配偶者"
  CHARACTER_WIFE_PLURAL:0 "妻"
  CHARACTER_HUSBAND_PLURAL:0 "夫"

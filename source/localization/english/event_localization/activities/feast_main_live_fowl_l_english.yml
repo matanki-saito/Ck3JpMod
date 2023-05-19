@@ -45,5 +45,5 @@
  feast_main_live_fowl.9004.a:1 "そんなにひどい宴ではなかった。"
  feast_main_live_fowl.9005.desc:0 "[host_saying_goodbye.GetTitledFirstNamePossessive] feast is soon going to be over. It seems most guests had a good time so far, even if I wish a little less of their reminiscing was about me running across tables.\nAt least [fowl_dinner_target.GetFirstName] thanked me for having chased away the bird after it attacked [fowl_dinner_target.GetHerHim]."
  feast_main_live_fowl.9005.a:0 "次の宴ではもう少し落ち着こう。"
- feast_live_fowl_log_title:0 "Bird Attack"
+ feast_live_fowl_log_title:0 "鳥の攻撃"
  feast_live_fowl_log:0 "[TARGET_CHARACTER.GetTitledFirstName] was assaulted by a live bird at the dinner table."
