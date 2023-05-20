@@ -570,7 +570,7 @@
  ep2_wedding.1310.b:1 "[other_guest.GetFirstNameNoTooltip], come join us!"
  ep2_wedding.1310.c:0 "Let's sneak out so we can talk properly!"
  ep2_wedding.1310.d:0 "You must excuse me, my friend."
- wedding_banquet_bond_log_title:0 "Banquet Bond"
+ wedding_banquet_bond_log_title:0 "宴の絆"
  wedding_banquet_bond_log:0 "[CHARACTER.GetUIName|U] and [TARGET_CHARACTER.GetUIName] spent the whole banquet talking and laughing, strengthening their friendship."
  ep2_wedding.1310.b.newfriends:1 "[other_guest.GetFirstNameNoTooltip] gets along with you and [friend.GetFirstNameNoTooltip] splendidly"
  ep2_wedding.1310.log.b.newfriends:0 "[CHARACTER.GetUIName|U] called [TARGET_CHARACTER.GetUIName] to [CHARACTER.GetHerHis] table, and [TARGET_CHARACTER.GetSheHe] got along splendidly with [CHARACTER.GetShortUINamePossessive] friends."

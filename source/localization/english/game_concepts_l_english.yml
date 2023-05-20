@@ -1699,7 +1699,7 @@
  game_concept_hunt_danger_desc:1 "たとえ穏やかな獣でも、追跡の熱狂に駆られた時の予測不可能な行動は多くの強靭な戦士の命を奪ってきた。\n\nより高い$game_concept_hunt_dangerous$を持つ獣は狩人たちにより多くの[prestige_i|E][prestige|E]を与える。\n\n荒野がどれだけの僻地であるかと豊富な機会も、客人を選ぶ時の参考になるでしょう…"
  game_concept_wedding_ceremony:0 "セレモニー"
  game_concept_wedding_ceremony_desc:0 "[GetActivityType('activity_wedding').GetName]でのこの[activity_phase|E]で、[spouses|E]と[married|E]の誓いを交わし、正式に結婚する。"
- game_concept_wedding_banquet:0 "宴楽"
+ game_concept_wedding_banquet:0 "饗宴"
  game_concept_wedding_banquet_desc:0 "[GetActivityType('activity_wedding').GetName]の[activity_phase|E]は酒とご馳走を楽しむ時間です。存分に楽しみ、騒ぎ、歌い明かそう！"
  game_concept_wedding_night:0 "結婚初夜"
  game_concept_wedding_night_desc:0 "[GetActivityType('activity_wedding').GetName]の[activity_phase|E]は新郎新婦が寝室で「一緒に」結婚式を完遂させます。客人はその間も祝福のために飲み明かします。"

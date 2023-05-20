@@ -47,7 +47,7 @@
  fp2_struggle_compromise_house_reward_modifier:0 "妥協"
  fp2_struggle_compromise_house_reward_modifier_desc:0 "この家は彼らの領国をイベリアの闘争から導き出しました。"
  fp2_struggle_compromise_defensive_reward_modifier:0 "地域の拠点"
- fp2_struggle_compromise_defensive_reward_modifier_desc:1 "この伯爵領は、何世紀にもわたる闘争を生き延びたイベリアの王子の一人の歴史的な首都です。"
+ fp2_struggle_compromise_defensive_reward_modifier_desc:1 "この伯爵領は、何世紀にもわたる闘争を生き延びたイベリアの公国の歴史的な首都である。"
  struggle_iberia_ending_conciliation_decision:1 "緊張緩和"
  struggle_iberia_ending_conciliation_decision_desc:0 "過去数世紀の傷痕は簡単には癒やされないが、半島が永続的な平和を見つけるために、私たちは努力しなければならない。 確かに、イベリアは私たち全員のものだ。"
  struggle_iberia_ending_conciliation_decision_tooltip:0 "$struggle_iberia_ending_hostility_decision_tooltip$"

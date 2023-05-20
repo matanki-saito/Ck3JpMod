@@ -599,7 +599,7 @@
  artifact_philosophers_stone_description:0 "卑金属を金に変えることができる神話上の錬金術の物質が入った箱。[newly_created_artifact.GetFeatureText( 'box_material' )]の箱は[SCOPE.Custom('ArtifactQuality')]職人芸である。[newly_created_artifact.GetFeatureText( 'box_decoration' )]。"
  artifact_panacea_name:0 "$artifact_name_prefix$万能薬"
  artifact_panacea_description:0 "既知の病や不調を癒やす万能薬。[SCOPE.Custom('ArtifactQuality')]職人芸による[newly_created_artifact.GetFeatureText( 'box_material' )]製の外箱に収められている。[newly_created_artifact.GetFeatureText( 'box_decoration' )]。"
- artifact_elixir_name:0 "$artifact_name_prefix$[newly_created_artifact.GetFeatureText( 'elixir_type' )|U]"
+ artifact_elixir_name:0 "$artifact_name_prefix$の[newly_created_artifact.GetFeatureText( 'elixir_type' )|U]"
  artifact_elixir_description:0 "[newly_created_artifact.Custom('ArtifactElixirTypeDesc')]らしきもので満たされた手ごろな大きさの[SCOPE.Custom('ArtifactArticleWealth')]瓶。[newly_created_artifact.GetFeatureText( 'glass_decoration' )]。"
  create_artifact_banner_tooltip:0 "[inspiration_owner.GetShortUIName]は[SCOPE.Custom('ArtifactQuality')]職人芸で大きな旗を製作しました"
  artifact_pedestal_skull_goblet_name:0 "頭骨の盃"

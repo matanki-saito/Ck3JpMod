@@ -193,7 +193,7 @@
  fp1_yearly.0101.t:0 "なぞなぞゲーム"
  fp1_yearly.0101.desc:0 "なぞなぞは[ROOT.Char.GetCulture.GetNameNoTooltip]人の間で愛されている娯楽である。二人以上の人がますます難しい問題を交換し、しばしば韻を踏み、寓話や神話に浸っている。\n\nある長くて怠惰な日に、[riddler.Custom2('MyCharacterIntroduction',ROOT.Char)]は、宮廷にいる半分の人が見ているであろう中で、私にゲームを挑もうと考えたようだ。"
  fp1_yearly.0101.a:0 "#EMP 私#!の話術を試すのか？面白い！"
- fp1_yearly.0101.a.tt_success:0 "私はゲームに勝つ"
+ fp1_yearly.0101.a.tt_success:0 "あなたはゲームに勝つ"
  fp1_yearly.0101.a.tt_failure:0 "[riddler.GetFirstNameNoTooltip]はあなたを出し抜く"
  fp1_yearly.0101.a.every_courtier_and_guest:0 "すべての[courtier|E]と[guest|E]"
  fp1_yearly.0101.b:0 "なぞなぞの本は何冊か読んだことがあるような気がするが…"

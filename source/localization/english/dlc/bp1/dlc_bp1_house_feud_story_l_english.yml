@@ -342,7 +342,7 @@
  action_ongoing_house_feud_click:0 "#I クリックで[house_feud|E]の家長を表示#!"
  action_ongoing_house_feud_unimportant:0 "@warning_icon!#N あなたの家は現在[house_feud|E]に敗北しています#!"
  swap_feud_tt:0 "[house_feud_existing.GetBaseName][house|E]との[house_feud|E]が終了"
- house_feud_cooldown_tt:1 "あなたの[house|E]は25年間、別の[house_feud|E]]を開始できません"
+ house_feud_cooldown_tt:1 "あなたの[house|E]は25年間、別の[house_feud|E]を開始できません"
  house_reward_modifier_tt:1 "この補正はあなたの現在の[house_feud|E]スコアに基づきます"
  house_feud_family_broken_grand_wedding_flavor:0 "グランドウェディングを誓った[ROOT.Var('house_feud_victim').Char.GetFirstName]と[ROOT.Var('house_feud_attacker').Char.GetFirstName]の婚約が[ROOT.Var('house_feud_attacker').Char.GetHouse.GetBaseName]によって台無しにされたことに[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は怒り狂っています。"
  house_feud_head_broken_grand_wedding_flavor:0 "[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は、盛大な結婚式を約束していたにも関わらず、[ROOT.Var('house_feud_first_owner').Char.GetHerHis][ROOT.Var('house_feud_attacker').Char.GetFirstName]との婚約が[ROOT.Var('house_feud_attacker').Char.GetHouse.GetBaseName]家によって破られたことに激怒した"

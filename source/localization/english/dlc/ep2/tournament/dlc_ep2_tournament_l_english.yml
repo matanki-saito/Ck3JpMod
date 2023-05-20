@@ -538,7 +538,7 @@
  tournament_contest_header:0 "[activity.GetCurrentPhase.GetPhase.GetName]:"
  tournament_header:0 "[activity.GetShortNameNoTooltip]:"
  tournament_complete_log_title:0 "Tournament Concludes"
- tournament_complete_log:1 "[CHARACTER.GetTitledFirstNamePossessive] Grand Tournament in [PROVINCE.GetName] came to a close"
+ tournament_complete_log:1 "[PROVINCE.GetName]での[CHARACTER.GetTitledFirstNamePossessive]のグランドトーナメントが幕を閉じた。"
  tournament_dedicated_victory_log_title:0 "Victory Dedicated"
  tournament_dedicated_victory_log:0 "[CHARACTER.GetTitledFirstName] dedicated [CHARACTER.GetHerHis] victory to [TARGET_CHARACTER.GetTitledFirstName]"
  tournament_prize_armor_name:0 "勝利の[newly_created_artifact.GetType|U]"

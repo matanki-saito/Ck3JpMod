@@ -1429,6 +1429,6 @@
  destroy_artifact_interaction:2 "宝物を処分する"
  destroy_artifact_interaction_desc:0 "この宝物は処分されます"
  interactions_general.tt.must_select_one_option:0 "最低でも一つは選択しなければなりません"
- find_suitable_accolade_successor_interaction:0 "Seek Worthy Accolade Successor"
+ find_suitable_accolade_successor_interaction:0 "叙勲に相応しい後継者を探す"
  find_suitable_accolade_successor_interaction_desc:0 "Call for an eligible [knight|e] to join your [court|e]"
- find_suitable_accolade_successor_interaction.tt:0 "A [knight|e] who fulfills this [accolade|e]'s requirements will join your [court|e] within #high 6 months#!\n\n@alert_icon! #alert_trial Seek Worthy Accolade Successor will be unavailable for #high 2 years#!#!"
+ find_suitable_accolade_successor_interaction.tt:0 "[accolade|e]の要件を満たす[knight|e]が#high 6ヶ月#!以内にあなたの[court|e]に加わります\n\n@alert_icon! #alert_trial  叙勲に相応しい後継者を探すは#high 2年間#! 使えなくなります#!"

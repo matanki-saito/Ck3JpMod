@@ -1,6 +1,6 @@
 ﻿l_english:
  tour_grounds_events.6000.t:0 "偶然の出会い"
- tour_grounds_events.6000.desc:0 "家臣と一緒にいて景色を変えるのは良いことだが、常に変化するレイアウトは、混乱を深めるだけだ。自分の判断で放っておくと、私は夜食をどこで見つけるかなど、日常的な必需品をどこで探せばよいのかも、ほとんどわからない。\n\n[stop_host_scope.GetTitledFirstNamePossessive]の[stop_host_scope.Custom('FortifiedBuilding')]での手当たり次第の失敗の中で一つのドアを開けると、私は"
+ tour_grounds_events.6000.desc:0 "家臣たちのところに滞在し、過ごす環境を変化させていくことは良いことだ。しかし過ごす場所の間取りが常に変わり続けることは、混乱が深まることにしかならない。私一人では、普段遣いのものをどこで探せばよいのかも分からない… 夜食をどこで探せばよいのかさえ分からない。\n\n[stop_host_scope.GetTitledFirstNamePossessive]の[stop_host_scope.Custom('FortifiedBuilding')]で行き当たりばったりに扉を開いていく中で、ある扉を開けた時、私は"
  tour_grounds_events.6000.desc.three_consorts:0 "[stop_host_scope.GetFirstNameNoTooltip]と[stop_host_scope.GetHerHis]の配偶者である[orgy_consort_1.GetFirstNameNoTooltip]、[orgy_consort_2.GetFirstNameNoTooltip]、そして[orgy_consort_3.GetFirstNameNoTooltip]が、不安定ながら近くに立ち、何か#EMP 親密な#!関係にあるようなのを目にする。\n\n"
  tour_grounds_events.6000.desc.one_consort:0 "[stop_host_scope.GetFirstNameNoTooltip]と[stop_host_scope.GetHerHis]の[stop_host_scope.Custom2('RelationToMeShort',orgy_consort_1)]が不安定ながら近くに立ち、何か#EMP 親密な#!関係にあるようなのを目にする。蝋燭が柔らかく部屋を照らし、ラベンダーの甘い香りが充満している。\n\n"
  tour_grounds_events.6000.desc.outro:0 "家臣は苦笑いを浮かべ、私を手招きするように近づいた。"

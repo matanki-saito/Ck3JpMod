@@ -208,7 +208,7 @@
  intrigue_dread.2101.desc.bad_friend:0 "[hater.GetSheHe|U]は[family_member.GetFirstName]が信用ならざるものであり、[family_member.GetFirstName]が友情を蔑ろにしたというのです。"
  intrigue_dread.2101.desc.sinner:0 "[hater.GetSheHe|U] は [family_member.GetFirstNamePossessive] の人物を嘲笑し、[family_member.GetHerHim] の衝撃的で罪深い行動を非難しています。"
  intrigue_dread.2101.desc.outro:0 "\n\n[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('family_member'))]のこのような噂について、真に受けるような人はいるでしょうか？"
- intrigue_dread.2101.a:0 "ふむ、では逆に[family_member.GetFirstName]に関するより恐ろしい噂を流せば皆は何も言えなくなるのではないかね。"
+ intrigue_dread.2101.a:0 "ふむ、では逆に[family_member.GetFirstName]に関するより恐ろしい噂を流せばよいのでは？"
  intrigue_dread.2101.a.tt.success:0 "人々は[family_member.GetFirstName]がなんでもできると思い込む"
  tooltip.intrigue_dread.2101.a.duel_success:0 "人々は心底震える"
  intrigue_dread.2101.a.tt.failure:0 "そんなものは誰も信じない"
