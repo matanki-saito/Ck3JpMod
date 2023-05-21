@@ -46,7 +46,7 @@
  activity_system.1010.a:0 "安らかに眠れ、[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('host'))]よ…"
  activity_system.1010.tt:0 "[host.GetShortUINamePossessiveNoTooltip]の[activity|E]は中止された"
  activity_system.1011.desc:0 "My liege, [host.GetNameRegnal], has shed [host.GetHerHis] mortal coil whilst touring the realm. Tragically, [host.GetSheHe] [host.GetDeathReason].\n\nThe rest of the Tour has been canceled as [host.GetFirstNamePossessiveNoTooltip] entourage begins their mournful journey home, bearing [host.GetHerHis] body to its final resting place."
- activity_system.0300.t:0 "War Waits for no [ROOT.Char.GetWomanMan|U]"
+ activity_system.0300.t:0 "戦いは[ROOT.Char.GetWomanMan|U]を待たなかった"
  activity_system.0300.desc.intro.traveling:0 "The blaring of war horns have reached me even here in [target_activity_location.GetName] as I am en route to attend my [target_activity_type.GetNameNoTooltip] in [target_activity_location.GetName]. "
  activity_system.0300.desc.intro.activity:0 "The blaring of war horns have reached me even here in [target_activity_location.GetName] as I am in the midst of hosting a [target_activity_type.GetNameNoTooltip]. "
  activity_system.0300.desc.attacker:1 "[war_opponent.GetNameRegnal|U]との戦争に突入した。"

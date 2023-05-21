@@ -1,10 +1,10 @@
 ﻿l_english:
  spouse_skill_diplomacy_improves_title:0 "$activity_pulse_action_spouse_skill_diplomacy_improves$"
- activity_pulse_action_spouse_skill_diplomacy_improves:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U] [first.GetWifeHusband|U]'s Diplomatic Skill Improves"
+ activity_pulse_action_spouse_skill_diplomacy_improves:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U]の[first.GetWifeHusband|U]の外交能力が向上"
  spouse_gives_host_prestige_title:0 "$activity_pulse_action_spouse_gives_host_prestige$"
  activity_pulse_action_spouse_gives_host_prestige:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U] [first.GetWifeHusband|U]'s Diplomatic Skill Impresses [second.GetShortUINameNoTooltip]"
  spouse_manages_feast_splendidly_title:0 "$activity_pulse_action_spouse_manages_feast_splendidly$"
- activity_pulse_action_spouse_manages_feast_splendidly:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U] [first.GetWifeHusband|U]'s Stewardship Astonishes Guests"
+ activity_pulse_action_spouse_manages_feast_splendidly:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U]の[first.GetWifeHusband|U]の管理能力が向上"
  spouse_impresses_clergy_title:0 "$activity_pulse_action_spouse_impresses_clergy$"
  activity_pulse_action_spouse_impresses_clergy:0 "[first.GetPrimarySpouse.GetShortUINamePossessiveNoTooltip|U] [first.GetWifeHusband|U]'s Learning Impresses [second.GetShortUINameNoTooltip]"
  spouse_gives_hook_title:0 "$activity_pulse_action_spouse_gives_hook$"

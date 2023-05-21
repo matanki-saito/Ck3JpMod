@@ -1,6 +1,6 @@
 ﻿l_english:
  travel_danger_prefix:0 "危険:"
- travel_danger_events.1000.t:1 "$travel_danger_prefix$ Mountains out of Mole Hills"
+ travel_danger_events.1000.t:1 "$travel_danger_prefix$もぐら塚を抜けて山"
  travel_danger_events.1000.desc:0 "The road has gotten incredibly hilly the past few hours and everyone is beginning to weary.\n\nAfter a while longer, with no end of the hills in sight, one of my traveling companions, [travel_leader.GetFirstName], approaches me and says:\n\n\"M'[ROOT.Char.GetLadyLord], our mounts cannot carry on like this for much longer. The poor animals need a break or I fear they'll collapse! We must stop to rest!\"\n\n[travel_leader.GetSheHe|U] knows full well that this will delay our journey to [destination.GetName]..."
  travel_danger_events.1000.a:0 "[travel_leader.GetSheHe|U] is right. It would be wise to rest."
  travel_danger_events.1000.b:0 "\"I'll brook no delays. We press onward!\""
@@ -8,7 +8,7 @@
  travel_danger_events.1001.desc:0 "I press us on a bit further, keen on making it to [destination.GetName] according to plan. As we crest the largest hill yet, I think our struggles might finally come to an end, when...\n\n#EMP THUD! ... THUD, THUD, THUD!#!\n\nI turn to see the source of the noise and gasp as all our mounts start collapsing to the ground! It seems that [travel_leader.GetFirstName] was right... these poor beasts can only take so much strain. I should have listened when I had the chance."
  travel_danger_events.1001.a:0 "\"[travel_leader.GetFirstNameNoTooltip], go the nearest town and purchase fresh mounts.\""
  travel_danger_events.1001.b:0 "\"We proceed on foot!\""
- travel_danger_events.1002.t:1 "$travel_danger_prefix$ Treacherous Slopes"
+ travel_danger_events.1002.t:1 "$travel_danger_prefix$危険な斜面"
  travel_danger_events.1002.desc:0 "As we travel through [current_location.GetName], I take in the beautiful view from the mountainside. When I steal my eyes away to focus back on the stony path ahead, I realize we have been surrounded by group of ruffians! A tall [bandit.GetWomanMan], presumably the leader, steps out in front of our caravan.\n\n\"Passin' through these mountains'll cost ya. Don't care who ya are, anyone passin' through my mountains pays.\""
  travel_danger_events.1002.a:0 "\"Let's talk this through.\""
  travel_danger_events.1002.a.success:0 "You persuade the bandits"

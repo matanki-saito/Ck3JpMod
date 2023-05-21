@@ -478,7 +478,7 @@
  EXTENDED_FAMILY_REASON:0 "We are [extended_family|E]: $VALUE|=+0$"
  AI_MILITARY_BALANCE_REASON:0 "Difference in Military Strength: $VALUE|=+0$"
  grant_title_modifier_courtly_lowborn_grant_penalty:0 "Every [GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] [vassal|E] ([actor.MakeScope.ScriptValue('number_of_courtly_vassals')|V0]) gains [SCOPE.ScriptValue('courtly_vassal_lowborn_grant_penalty')|+0] [opinion|E] of [actor.GetShortUIName] for #V 10 years#! #weak (Disapproves of Lowborn Grants)#!"
- GRAND_WEDDING_PROMISE_INFO:5 "#T Toggle Grand Wedding Promise\n#!Promise to organize a [GetActivityType( 'activity_wedding' ).GetName], making the [marriage|E] offer more likely to be accepted\n\nAverage Cost: [gold_i] [actor.MakeScope.ScriptValue('ui_avg_wedding_cost')|0V]\n\n@alert_icon! #alert_trial If both [spouses|E] are [adults|E], you have 3 years to fulfill your promise, or there will be serious consequences!#!"
+ GRAND_WEDDING_PROMISE_INFO:5 "#T グランドウェディングの約束を取りつける\n#![GetActivityType( 'activity_wedding' ).GetName]の主催を約束することで、[marriage|E]を受け付けてもらいやすくなります。\n\n平均コスト：[gold_i][actor.MakeScope.ScriptValue('ui_avg_wedding_cost')|0V]\n\n@alert_icon!#alert_trial お互いの[spouses|E]が[adults|E]を迎え、3年以内に開催の約束をあなたが果たさなかった時、深刻な問題を引き起こします#!"
  grand_wedding_already_promised_tt:1 "You can only promise one [GetActivityType( 'activity_wedding' ).GetName] at the same time"
  grand_wedding_only_dominant_side:0 "Only the dominant side in a Betrothal can offer to organize a [GetActivityType( 'activity_wedding' ).GetName]"
  grand_wedding_only_family:0 "You can only organize a [GetActivityType( 'activity_wedding' ).GetName] for members of your own family"

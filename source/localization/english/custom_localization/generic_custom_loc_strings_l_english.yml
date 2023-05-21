@@ -144,5 +144,5 @@
  laugh_type_wheeze:0 "#EMP ハアハア#!"
  laugh_type_wheeze_long:0 "#EMP ヒャッヒャッヒャ#!"
  laugh_type_snort:0 "#EMP フン#!"
- relation_nemesis:0 "nemesis"
- relation_rival:0 "rival"
+ relation_nemesis:0 "仇敵"
+ relation_rival:0 "ライバル"

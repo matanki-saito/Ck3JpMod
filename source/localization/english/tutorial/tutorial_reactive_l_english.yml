@@ -242,7 +242,7 @@
  ra_regency_future_regent_succession_desc:0 "If your current [regent|E] dies or is otherwise unable to act as a [regent|E], the next Character in the Succession order will take their place."
  ra_regency_future_regent_conclusion:0 "$REACTIVE_ADVICE_FUTURE_REGENT$"
  ra_regency_future_regent_conclusion_desc:0 "For now, consider designating a [regent|E], if you want more control over who will rule in your stead."
- REACTIVE_ADVICE_TRAVEL_PLANNING:0 "Travel Planning"
+ REACTIVE_ADVICE_TRAVEL_PLANNING:0 "旅の計画"
  action_reactive_advice_travel_planning:0 "$open_tutorial_lesson$$REACTIVE_ADVICE_TRAVEL_PLANNING$"
  action_reactive_advice_travel_planning_desc:0 "You are about to Travel, open this to learn more about planning your Travel."
  action_reactive_advice_travel_planning_click:0 "$click_to_open_lesson$"

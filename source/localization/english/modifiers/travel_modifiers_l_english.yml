@@ -1,8 +1,8 @@
 ﻿l_english:
  travel_returning_home_modifier:0 "Homeward Bound"
  travel_returning_home_modifier_desc:0 "This traveling party is eager to return home."
- positive_roadside_reading_modifier:0 "Travel: Good Omens"
- negative_roadside_reading_modifier:0 "Travel: Bad Omens"
+ positive_roadside_reading_modifier:0 "旅路:吉兆"
+ negative_roadside_reading_modifier:0 "旅路:凶兆"
  nonverbal_modifier:0 "Nonverbal"
  nonverbal_modifier_desc:0 "This character has a limited understanding of spoken language."
  feral_modifier:0 "Feral"

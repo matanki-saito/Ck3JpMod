@@ -1430,5 +1430,5 @@
  destroy_artifact_interaction_desc:0 "この宝物は処分されます"
  interactions_general.tt.must_select_one_option:0 "最低でも一つは選択しなければなりません"
  find_suitable_accolade_successor_interaction:0 "叙勲に相応しい後継者を探す"
- find_suitable_accolade_successor_interaction_desc:0 "Call for an eligible [knight|e] to join your [court|e]"
+ find_suitable_accolade_successor_interaction_desc:0 "継承資格がある[knight|e]を[court|e]に呼ぶ"
  find_suitable_accolade_successor_interaction.tt:0 "[accolade|e]の要件を満たす[knight|e]が#high 6ヶ月#!以内にあなたの[court|e]に加わります\n\n@alert_icon! #alert_trial  叙勲に相応しい後継者を探すは#high 2年間#! 使えなくなります#!"

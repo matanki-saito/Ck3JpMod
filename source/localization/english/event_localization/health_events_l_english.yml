@@ -330,7 +330,7 @@
  inform_relatives_about_disease_treatment_effect.risky_failure.desc:0 "[physician.GetTitledFirstName]は[sick_character.GetTitledFirstName]の治療を失敗しました"
  inform_relatives_about_disease_treatment_effect.mystic_failure.desc:0 "[physician.GetTitledFirstNamePossessive]の儀式が失敗に終わってから、[sick_character.GetTitledFirstName]は別人のようになってしまいました！"
  physician_level_up_chance_effect.t:0 "侍医が知見を得る"
- health.4000.t:1 "$health_wounded_title$ 私の負傷した[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U]"
+ health.4000.t:1 "$health_wounded_title$ 私の傷ついた[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U]"
  health.4000.start.desc:0 "私の[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))] [sick_character.GetTitledFirstName] が負傷してしまった。"
  health.4000.infected_wound.desc:1 "そして[sick_character.GetHerHis]の肉は腐り腫れ上がっている。\n\n適切な治療ができていれば、そして[ROOT.Char.GetFaith.HealthGodName]が慈悲深いのならば、なんとかなるはずなのだが。"
  health.4000.gangrene.desc:1 "そして[sick_character.GetHerHis]の肉は腐り壊死している。\n\n[sick_character.GetHerHis]の皮膚は黒ずんでしまっている。もはやその行く末を知るのは[ROOT.Char.GetFaith.FateGodName]のみだ。"

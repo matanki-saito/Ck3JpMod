@@ -339,7 +339,7 @@
  action_can_use_hook_to_change_contract_label:1 "@cs_weak_hook_icon! You can Change your [actor.Custom2('RelationToMe', recipient)] [recipient.GetShortUINamePossessiveNoTooltip] Contract"
  action_can_use_hook_to_change_contract_combined_label:1 "Your [actor.Custom2('RelationToMe', recipient)], [recipient.GetUINameNoTooltip]"
  action_can_use_hook_to_change_contract_click:1 "#I クリックして契約を変更#!"
- action_can_ask_hof_for_money:1 "@gold_icon!You can ask your Head of Faith for Gold"
+ action_can_ask_hof_for_money:1 "@gold_icon! 宗教指導者にゴールドを要求できます"
  action_can_ask_hof_for_money_label:0 "$action_can_ask_hof_for_money$"
  action_can_ask_hof_for_money_desc:1 "あなたの[head_of_faith|E]である[recipient.GetUIName]は[gold|E]の嘆願を受け入れるでしょう。\n\n#help もしあなたが[gold|E]に乏しいなら、[piety|E]を利用して、あなたの国庫を拡張することを検討するべきです！#!"
  action_can_ask_hof_for_money_click:0 "#I クリックで$hof_ask_for_gold_interaction$#!"

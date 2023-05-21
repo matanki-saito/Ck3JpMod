@@ -137,7 +137,7 @@
  theocracy_government_vassal_contribution_wrong_faith:0 "@warning_icon!#X [liege|E]は誤った[faith|E]を持っている#!"
  theocracy_government_vassal_contribution_piety_level:0 "[liege|E]は[GetPietyLevelName(liege.GetPietyLevel)|L]である"
  holy_order_government:0 "聖戦騎士団"
- holy_order_government_desc:0 "騎士団の聖戦士たちは、異教徒との戦いと信仰への奉仕に人生を捧げてきました。彼らは信心深い主君から託された城を守りきるかもしれません。盟主には諸侯の中から一番階級の高い人物が選ばれます。"
+ holy_order_government_desc:0 "騎士団の聖戦士たちは、異教徒との戦いと信仰への奉仕に人生を捧げてきました。彼らは信心深い主君から託された城を守りきるかもしれません。総長には騎士団の構成員から最も軍事値の高い者が選ばれます。"
  holy_order_government_adjective:0 "聖戦騎士団"
  holy_order_government_realm:0 "聖戦騎士団"
  mercenary_government:0 "傭兵団"

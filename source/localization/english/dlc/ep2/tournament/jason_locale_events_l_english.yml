@@ -108,7 +108,7 @@
  poached_drunk_knight_log:1 "[CHARACTER.GetTitledFirstName] seized on [TARGET_CHARACTER.GetTitledFirstNamePossessive] drunken oaths to poach the warrior from [TARGET_CHARACTER.GetHerHis] liege."
  drunk_knight_dies_log_title:0 "Victim to Revelry"
  drunk_knight_dies_log:1 "[TARGET_CHARACTER.GetTitledFirstName] drank [TARGET_CHARACTER.GetHerselfHimself] to death while on a wild binge with [CHARACTER.GetTitledFirstName]."
- drunk_knight_marries_log_title:0 "The Night's Promises"
+ drunk_knight_marries_log_title:0 "夜の約束"
  drunk_knight_marries_log:1 "[TARGET_CHARACTER.GetTitledFirstName] emerged from heavy carousing with both a new master and a marriage into [CHARACTER.GetTitledFirstNamePossessive] family."
  drunk_knight_beats_log_title:0 "Terror of the Tavern"
  drunk_knight_beats_log:1 "While drunk, [TARGET_CHARACTER.GetTitledFirstName] badly beat a number of prominent warriors to earn a place among [CHARACTER.GetTitledFirstNamePossessive] $knight_culture_player_plural_no_tooltip_lowercase$."

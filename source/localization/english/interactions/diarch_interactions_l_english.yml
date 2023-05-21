@@ -121,7 +121,7 @@
  syphon_treasury_medium_sum_modifier_desc:0 "Much of the tax from this county is accounted for, but sometimes things disappear from the records."
  syphon_treasury_small_sum_modifier:0 "Lost tax shipment"
  syphon_treasury_small_sum_modifier_desc:0 "Nothing too out of the ordinary — the money's sure to turn up soon, right?"
- diarch_shift_privileges_interaction:0 "Shift Privileges"
+ diarch_shift_privileges_interaction:0 "任命特権"
  diarch_shift_privileges_interaction_desc:1 "Generate gold by selling #EMP dubious#! monopolies, rights, and entitlements to minor private actors within [recipient.GetShortUINamePossessiveNoTooltip] lands$diarch_boilerplate_postscript_partial$"
  recipient_secondary_diarch_shift_privileges_interaction:0 "$recipient_secondary_diarch_interaction$"
  diarch_shift_privileges_interaction.tt.no_affectable_counties:0 "[recipient.GetShortUINameNoTooltip] has no [counties|E] that have not already been affected by $diarch_shift_privileges_interaction$"

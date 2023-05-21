@@ -62,7 +62,7 @@
  fp2_struggle.1010.smithgoesaway:1 "[great_swordsmith.GetNameNoTooltip]は、鍛冶屋のギルドを指揮します。"
  fp2_struggle.1010.paranoid_rivals:1 "兵士を武装させると、近隣の統治者が心配するかもしれません。"
  fp2_struggle.1010.smithmakesweapon:1 "[great_swordsmith.GetNameNoTooltip]は、あなたが依頼した剣を鍛造している間、あなたの宮廷に留まります。"
- fp2_struggle.1010.swordsmith_imprisoned:0 "あなたは彼の秘密を学ぶために[great_swordsmith.GetNameNoTooltip]を投獄して拷問します"
+ fp2_struggle.1010.swordsmith_imprisoned:0 "あなたは彼の秘密を知るために[great_swordsmith.GetNameNoTooltip]を投獄して拷問します"
  fp2_struggle.1010.compassionate_courtiers:0 "すべての廷臣がこれに賛同するわけではありません"
  toledo_compromise_flavor:0 "[great_swordsmith.GetNameNoTooltip]とギルドを無理やり歩み寄らせます。"
  fp2_struggle.1010.swordsmith_leaves:0 "[great_swordsmith.GetNameNoTooltip]は他の宮廷に行きます。"

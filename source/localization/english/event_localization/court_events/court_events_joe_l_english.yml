@@ -87,7 +87,7 @@
  court.8050.a:0 "あなたのような信頼できる[servant.GetWomenMen]がもっと必要だな、[servant.GetFirstNameNoTooltip]。"
  court.8050.a.tt:0 "[servant.GetFirstNameNoTooltip]はあなたの[court|E]に加わります"
  court.8050.b:0 "他にはどんなことを聞いた？"
- court.8050.b.tt:0 "あなたは宮廷で他の誰かの秘密を学びます"
+ court.8050.b.tt:0 "あなたは宮廷で他の誰かの秘密を知ります"
  court.8050.b.tt_secret:1 "[vassal_2.GetTitledFirstNamePossessive]の秘密"
  court.8050.c:0 "これをやろう——私にだけ報告するように。"
  court.8050.c.tt:0 "この補正がある間、あなたの[spymaster|E]は策略を乱す可能性が高くなります"

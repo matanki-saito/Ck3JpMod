@@ -642,7 +642,7 @@
  stress_loss_athletic_decision_tooltip:0 "健全なる肉体は健全なる精神を生む"
  stress_loss_athletic_decision_confirm:0 "さあ行こう！"
  DECISION_COOLDOWN_WARNING:1 "@alert_icon!#alert_trial  「$DECISION_NAME$」は今後$COOLDOWN$間利用できなくなります#!"
- SHOW_DECISION_TOOLTIP:3 "#T [Decision.GetTitleForPlayer]#!\n[Decision.GetCommandDescForPlayer][Select_CString(StringIsEmpty(Decision.GetCommandDescForPlayer),'','\n')][Decision.GetShortDescForPlayer]\n\n#I Click to select#!"
+ SHOW_DECISION_TOOLTIP:3 "#T [Decision.GetTitleForPlayer]#!\n[Decision.GetCommandDescForPlayer][Select_CString(StringIsEmpty(Decision.GetCommandDescForPlayer),'','\n')][Decision.GetShortDescForPlayer]\n\n#I クリックして選択#!"
  all_courtiers_except_confidant:0 "友人を除くすべての[courtiers|E]"
  found_kingdom_of_bosnia_decision:0 "ボスニア王国の創設"
  found_kingdom_of_bosnia_decision_desc:0 "中央ボスニアの山河の領有権は南北の諸侯たちの間を絶えず行き来してきた。それももうすぐ終わることだろう…"
