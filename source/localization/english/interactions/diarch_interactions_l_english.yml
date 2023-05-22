@@ -20,7 +20,7 @@
  diarch_interaction_pay_prestige_partial:1 "[prestige_i] Gamble #EMP some#! political [prestige|E]"
  diarch_interaction_pay_prestige_full:1 "[prestige_i] Commit significant political [prestige|E]"
  custom_description.tt.must_target_liege:0 "[recipient.GetShortUINameNoTooltip] is not your [liege|E]"
- diarch_interaction_requesting_sign_off.tt:0 "I have a small matter for your final approval. Nothing you need to read in great detail, my [intermediary.GetLadyLord] — I'll just be getting on with it, shall I?"
+ diarch_interaction_requesting_sign_off.tt:0 "少々些細な問題がございます。ただ、あなた様の最終確認が必要でして。ああ、下記の長々とした部分は読まずとも結構、ただ承認の印だけをどうぞ、わが[intermediary.GetLadyLord]。\n私はやるべきことをやるだけです、そうでしょう？"
  diarch_action_vetoed.tt:0 "Liege vetoed [actor.GetDiarchTitle] action against you"
  call_ally_interaction.tt.diarchs_called_to_internal_wars:0 "[diarchs|E] can only be called in internal defensive [wars|E]"
  cannot_take_overt_hostile_actions_against_diarch.tt:0 "You cannot take #EMP overt#! hostile actions against your [diarch|E]"

@@ -8,7 +8,7 @@
  locale_window_enter_locale_tooltip:1 "[ActivityLocale.GetName]に入る\n\n[ActivityLocale.GetDescription]"
  locale_window_enter_locale_error_not_arrived:0 "@warning_icon!#X まだこの活動の開催地に到着していません。#!"
  locale_window_enter_locale_error_no_activity:0 "@warning_icon!#X 活動していません。#!"
- locale_window_enter_locale_error_no_character:0 "@warning_icon!#X You are observer.#!"
+ locale_window_enter_locale_error_no_character:0 "@warning_icon!#X あなたは観察者です。#!"
  locale_window_enter_locale_error_no_locale:0 "@warning_icon!#D Invalid locale.#!"
  locale_window_enter_locale_error_no_effect:0 "@warning_icon!#D この活動拠点には何の効果もありません。#!"
  locale_window_enter_locale_global_cooldown:0 "@warning_icon!いずれの活動拠点にも[DATE.GetTimeToDate()]後まで訪問できません。"

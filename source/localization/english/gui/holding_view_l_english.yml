@@ -76,7 +76,7 @@
  ABORT_BUILDING_CONFIRM_ACCEPT:0 "中止"
  ABORT_HOLDING_CONFIRM:0 "この建設を中止することで、費用は返還され、ここに別の所領を建設できます。"
  CANCEL_HOLDING_CONSTRUCTION:0 "[HoldingView.GetHolding.GetConstructingHoldingType.GetName]の建設を中止"
- CANCEL_HOLDING_CONSTRUCTION_TOOLTIP:1 "[HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip]での[HoldingView.GetHolding.GetConstructingHoldingType.GetName]の建設を中止し、費用が変換されます。"
+ CANCEL_HOLDING_CONSTRUCTION_TOOLTIP:1 "[HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip]での[HoldingView.GetHolding.GetConstructingHoldingType.GetName]の建設を中止し、費用が返還されます。"
  REPLACE_BUILDING:0 "$TYPE$を置き換える"
  REPLACE_BUILDING_BUTTON:0 "置き換える"
  REPLACE_BUILDING_PROMPT:0 "#X この建造物を置き換えると既存の建造物は破壊されます。かかった費用は返還されません。#!"
