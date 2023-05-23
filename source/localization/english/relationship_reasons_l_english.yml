@@ -1464,7 +1464,7 @@
  rival_denied_courtly_love_corresponding:1 "[TARGET_CHARACTER.GetShortUIName|U] was kept at court by [CHARACTER.GetShortUIName], denying [TARGET_CHARACTER.GetHerHim] of [TARGET_CHARACTER.GetHerHis] true love."
  rival_no_holy_site_monk:0 "[CHARACTER.GetShortUIName|U] forbid [TARGET_CHARACTER.GetShortUIName] from answering [TARGET_CHARACTER.GetHerHis] religious calling."
  rival_no_holy_site_monk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName] was stopped from answering [TARGET_CHARACTER.GetHerHis] religious calling by [CHARACTER.GetShortUIName|U]."
- lover_wnight_gifts:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName|U] exchanged gifts during their Wedding Night."
+ lover_wnight_gifts:0 "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName|U]は結婚初夜に贈り物を交換しあった。"
  nemesis_monarch_of_grim_and_grievance:0 "[CHARACTER.GetShortUIName|U] was crowned by [TARGET_CHARACTER.GetShortUIName] as the least attractive person of the realm."
  nemesis_monarch_of_grim_and_grievance_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] crowned [CHARACTER.GetShortUIName] as the least attractive person of the realm."
  nemesis_animal_contest:1 "[TARGET_CHARACTER.GetShortUIName|U] was picked by [CHARACTER.GetShortUIName] as the winner of a farm animal contest."

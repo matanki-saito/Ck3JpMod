@@ -88,7 +88,7 @@
  ep2_locale_events.1501.b.success:0 "[seduce_target.GetFirstName|U] delights in your cynicism"
  ep2_locale_events.1501.b.failure:0 "[seduce_target.GetFirstNameNoTooltip|U] is horrified by your apostasy"
  ep2_locale_events.1501.c:0 "Maybe I should just leave."
- ep2_locale_events.1510.t:0 "$tournament_locale_religious_building$: Sacrilegious Spree"
+ ep2_locale_events.1510.t:0 "$tournament_locale_religious_building$: 罰当たりなバカ騒ぎ"
  ep2_locale_events.1510.desc:0 "As silence falls over the assembled worshipers gathered for the daily ceremony, the calm is suddenly broken by a swift approach of shouting and hollering.\n\nThe door bursts open, and a dozen laughing revelers tumble into the [ROOT.Char.GetFaith.HouseOfWorship],"
  ep2_locale_events.1510.alcohol:0 "tankards and kegs in hand."
  ep2_locale_events.1510.hashish:0 "stinking of hashish."

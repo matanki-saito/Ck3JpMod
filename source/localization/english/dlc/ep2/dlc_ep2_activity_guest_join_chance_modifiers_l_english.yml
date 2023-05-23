@@ -5,7 +5,7 @@
  ACTIVITY_GUEST_HIGHER_RANK_REASON:1 "[ROOT.Char.GetSheHe|U]は[rank|E]が高い：$VALUE|=+0$"
  ACTIVITY_GUEST_CLOSE_FAMILY_REASON:1 "[ROOT.Char.GetSheHe|U]は[close_family|E]：$VALUE|=+0$"
  ACTIVITY_GUEST_EXTENDED_FAMILY_REASON:1 "[ROOT.Char.GetSheHe|U]は[extended_family|E]：$VALUE|=+0$"
- ACTIVITY_GUEST_SAME_DYNASTY_REASON:1 "[ROOT.Char.GetSheHe|U] is of your [dynasty|E]: $VALUE|=+0$"
+ ACTIVITY_GUEST_SAME_DYNASTY_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[dynasty|E]だ：$VALUE|=+0$"
  ACTIVITY_GUEST_SPOUSE:0 "[ROOT.Char.GetSheHe|U] is your [spouse|E]: $VALUE|=+0$"
  ACTIVITY_GUEST_VASSAL_REASON:0 "[ROOT.Char.GetSheHe|U] is your [vassal|E]: $VALUE|=+0$"
  ACTIVITY_GUEST_LIEGE_REASON:0 "[ROOT.Char.GetSheHe|U] is your [liege|E]: $VALUE|=+0$"

@@ -117,7 +117,7 @@
  OBLIGATION_LIEGE_MODIFIER:0 "#S [liege|E]:#!"
  OBLIGATION_VASSAL_MODIFIER:0 "#S [vassal|E]:#!"
  RESET_CONTRACT_CHANGES:0 "リセット"
- VASSAL_CONTRACT_NOT_DEFAULT:1 "This [contract|E] has at some point been changed to include non-standard [obligations|E]."
+ VASSAL_CONTRACT_NOT_DEFAULT:1 "この[contract|E]は、ある時点で標準的でない[obligations|E]を含むように変更されています。"
  TAX_CONTRIBUTION_KNOWN_VALUE:0 "@gold_icon![taxes|E]: $VALUE|+=%1$"
  TAX_CONTRIBUTION_FACTOR_KNOWN_VALUE:0 "@gold_icon![taxes|E] 乗数: $VALUE|+=%1$"
  LEVY_CONTRIBUTION_KNOWN_VALUE:0 "@soldier_icon![levies|E]: $VALUE|+=%1$"

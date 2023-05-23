@@ -158,7 +158,7 @@
  feast.7203.desc.bragged:0 "[goh.GetTitledFirstName]\n\nSurprisingly, but not too surprisingly, [host.GetFirstNameNoTooltip] mostly glosses over [host.GetHerHis] guest and instead praises [host.GetHerselfHimself] for the quality of the feast thrown. A tad rude, at best, and the amount of clapping reflects that."
  feast.7203.a:0 "いいぞ、いいぞ！"
  feast.7203.b.goh_honoured:0 "正直、[goh.GetFirstNameNoTooltip]のことはそんなに好きでは無いが！"
- feast.7203.b.goh_dishonoured:0 "That was unseemly."
+ feast.7203.b.goh_dishonoured:0 "こういうのはよくないと思うが。"
  feast.0800.t:1 "$feast_header$ A Feast Cut Short"
  feast.0800.desc:0 "My predecessor, [host.GetNameRegnal], has shed [host.GetHerHis] mortal coil whilst organizing a feast. Tragically, [host.GetSheHe] [host.GetDeathReason].\n\n"
  feast.0800.desc.entourage:0 "$activity_system.1010.desc.entourage$"

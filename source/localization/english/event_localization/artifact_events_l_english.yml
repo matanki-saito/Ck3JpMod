@@ -75,7 +75,7 @@
  artifact.3040.b:0 "これで貸し借りはなしだ。"
  artifact.3040.c:0 "あなたの助けなど必要ない。"
  artifact.3050.t:0 "宝物の劣化！"
- artifact.3050.desc:0 "あなたが持っている高品質の宝物([this_artifact.GetName])は[durability|E]が0に近づいており、破壊される可能性があります！"
+ artifact.3050.desc:0 "あなたが持っている高品質の宝物の[this_artifact.GetName]は[durability|E]が0に近づいており、破壊される可能性があります！"
  artifact.4000.t:0 "呪いの噂"
  artifact.4000.desc.antiquarian_intro:0 "私の$antiquarian_court_position$[antiquarian.GetTitledFirstName]はここ数日何かを懸念している様子だったが、今日、[antiquarian.GetSheHe]はついに私に近づいてきた。\n\n「我が[ROOT.Char.GetLadyLord]、あなたの貴重な所有物の一つである[this_artifact.GetName]について、心配な知らせがあるのです。宮廷中がその品に関する噂でもちきりで、客人も廷臣も恐れと疑惑の目でそれを見ています…彼らはそれが#EMP 呪われている#!と信じているのです！噂されているのは、"
  artifact.4000.desc.servant_intro:0 "ここ数日、私の法廷がいつもより噂で賑わっているのに気付かずにはいられない。とはいえ、私が部屋に入ると途端に静かになってしまうのだが。\n\n私がようやく一人の使用人を捕まえて説明するよう求めると、[dummy_servant_gender.GetHerHis]は答える。「我が[ROOT.Char.GetLadyLord]、ご存知ないのですか？あなたの[this_artifact.GetName]です！皆それが#EMP 呪われた#!ものであることを知っています！明らかなのは、"

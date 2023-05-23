@@ -97,7 +97,7 @@
  no_taxation_modifier:0 "祭典税なし"
  festival_taxation_modifier:0 "祭典税"
  cultural_festival.2040.t:0 "教養のない祭典…？"
- cultural_festival.2040.desc:0 "[stop_host_scope.GetTitledFirstName]に、[stop_host_scope.GetHerHis]の人々の慣習を示す文化的な祝祭の開催を依頼したとき、私は何を期待していたのかわからなかったが…少なくとも#EMP これ#!ではない。\n\n私は、訓練不足の演技者たちの協調性のない踊りから目をそらすと、用意された食事に安らぎを見出そうとする——#EMP ブッ#!、[stop_host_scope.Custom('RegionalEdibleMeat')]はほとんど火が通っておらず、[stop_host_scope.Custom('get_region_root_vegetable_plural')]ではすっかり炭になってしまっている。これは[cultural_festival_scope.GetAdjectiveNoTooltip]の文化をよく表しているものなのだろうか？"
+ cultural_festival.2040.desc:0 "[stop_host_scope.GetTitledFirstName]に、[stop_host_scope.GetHerHis]の人々の慣習を示す文化的な祝祭の開催を依頼したとき、私は何を期待していたのかわからなかったが…少なくとも#EMP これ#!ではない。\n\n私は、訓練不足の演技者たちの協調性のない踊りから目をそらすと、用意された食事に安らぎを見出そうとする——#EMP ブッ#!、[stop_host_scope.Custom('RegionalEdibleMeat')]はほとんど火が通っておらず、[stop_host_scope.Custom('get_region_root_vegetable_plural')]はすっかり炭になってしまっている。これは[cultural_festival_scope.GetAdjectiveNoTooltip]の文化をよく表しているものなのだろうか？"
  cultural_festival.2040.a:0 "こ…これは#EMP ひどい#!。改善の助けが必要だ。"
  cultural_festival.2040.b:0 "そんなに悪くはないのでは。"
  cultural_festival.2040.c:0 "ハッ！我々が[ROOT.Char.GetCulture.GetCollectiveNoun]の踊りを見せてやろう。"

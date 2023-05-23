@@ -528,7 +528,7 @@
  tournament_resigned_log_title:0 "[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName] Resignation"
  tournament_resigned_log:0 "[CHARACTER.GetTitledFirstName] resigned from the [CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName] contest"
  tournament_resigned_versus_log_title:0 "$tournament_resigned_log_title$"
- tournament_resigned_versus_log:0 "[TARGET_CHARACTER.GetTitledFirstName] progressed by default after [CHARACTER.GetTitledFirstName] resigned"
+ tournament_resigned_versus_log:0 "[TARGET_CHARACTER.GetTitledFirstName]は[CHARACTER.GetTitledFirstName]の棄権により不戦勝"
  tournament_placed_wager_log_title:0 "Placed Wager"
  tournament_placed_wager_log:0 "[CHARACTER.GetTitledFirstName] bet on [TARGET_CHARACTER.GetTitledFirstName] to win the [CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName] contest"
  tournament_placed_wager_log_tt:0 "[CHARACTER.Var('tournament_wager_payout').GetValue|0]"

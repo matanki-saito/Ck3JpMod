@@ -282,7 +282,7 @@
  msg_murder_scheme_agent_leave_message:1 "[agent.GetTitledFirstName]は[target.GetTitledFirstName]を暗殺するあなたの計画から離脱しました"
  mongols_sieged_county.t:0 "モンゴルの軍勢による[county.GetName]の略奪"
  msg_vassal_contract_level_invalidated:0 "[obligation|E]が無効化"
- msg_vassal_contract_level_invalidated_desc:0 "[RIGHT_CHARACTER.GetUINamePossessiveNoTooltip]の $OBLIGATION_TYPE_0|V$の法的義務は無効になりました"
+ msg_vassal_contract_level_invalidated_desc:0 "[RIGHT_CHARACTER.GetUINamePossessiveNoTooltip]の$OBLIGATION_TYPE_0|V$の法的義務は無効になりました"
  msg_vassal_contract_2_levels_invalidated:0 "[obligations|E]が無効化"
  msg_vassal_contract_2_levels_invalidated_desc:0 "[RIGHT_CHARACTER.GetUINamePossessiveNoTooltip]の$OBLIGATION_TYPE_0|V$と$OBLIGATION_TYPE_1|V$の法的義務は無効になりました"
  msg_vassal_contract_multiple_levels_invalidated:0 "[obligations|E]が無効化"

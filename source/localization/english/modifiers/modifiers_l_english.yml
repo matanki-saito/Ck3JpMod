@@ -44,7 +44,7 @@
  MOD_SCHEME_SUCCESS:0 "[scheme|E]の[success_chance|E]"
  MOD_COMBAT_PURSUE_EFFICIENCY:1 "[command_modifier_i|E][pursuit|E]効率"
  MOD_COMBAT_COUNTER_EFFICIENCY:2 "[men_at_arms_counter|E]効率"
- MOD_SIEGE_PHASE_TIME:2 "[command_modifier_i|E][siege|E]フェーズ時間"
+ MOD_SIEGE_PHASE_TIME:2 "[command_modifier_i|E][siege|E]イベント発生間隔"
  MOD_SIEGE_MORALE_LOSS:1 "[command_modifier_i|E]日毎の[siege_progress|E]"
  MOD_CONTROLLED_PROVINCE_ADVANTAGE:0 "支配地域での防衛側[advantage|E]"
  MOD_REVOLTING_SIEGE_MORALE_LOSS_ADD:0 "[revolts|E]に対する[siege_progress|E]"
