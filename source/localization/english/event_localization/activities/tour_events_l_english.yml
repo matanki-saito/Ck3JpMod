@@ -817,7 +817,7 @@
  host_dinner_events.3050.annoyed_courtier:0 "あなたは[non_eater_scope.GetHerHim]を苛立たせた"
  host_dinner_events.3050.b:0 "[non_eater_scope.GetHerHim]のために言い訳しよう。"
  host_dinner_events.3060.title:0 "美味しいご馳走"
- host_dinner_events.3060.desc:0 "今夜の食事は本当に楽しかったです。私はこれまで、香辛料の効いたものから甘いものまで、ありとあらゆるものを食べてきたが、この素晴らしい[stop_host_scope.Custom('GetExpensiveDessert')]ほど、私の食欲をそそるものはなかった！\n\nどれだけ食べても、どれだけ味を味わっても、それは私の頭から離れない。噛むたびにその味に夢中になり、口の中に風味が広がり、私は[ROOT.Char.GetFaith.PositiveAfterLife]の体験に一歩近づいていく。\n\nお腹はパンパンに詰まっていて、服も圧迫されているのに、私はもっと手を伸ばしたくなるのだ。"
+ host_dinner_events.3060.desc:0 "今夜の食事は本当に楽しかった。私はこれまで、香辛料の効いたものから甘いものまで、ありとあらゆるものを食べてきたが、この素晴らしい[stop_host_scope.Custom('GetExpensiveDessert')]ほど、私の食欲をそそるものはなかった！\n\nどれだけ食べても、どれだけ味を味わっても、それは私の頭から離れない。噛むたびにその味に夢中になり、口の中に風味が広がり、私は[ROOT.Char.GetFaith.PositiveAfterLife]の体験に一歩近づいていく。\n\nお腹はパンパンに詰まっていて、服も圧迫されているのに、私はもっと手を伸ばしたくなるのだ。"
  host_dinner_events.3060.a:0 "そうしないのは勿体無い！"
  host_dinner_events.3060.satisfying_dessert:0 "あなたは満足する"
  host_dinner_events.3060.too_much_dessert:0 "あなたは食べすぎた"

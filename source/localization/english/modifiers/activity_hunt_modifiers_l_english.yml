@@ -105,7 +105,7 @@
  dog_story_beasthound_modifier_desc:1 "この高貴な犬は、凶暴な獣と戦えるよう訓練を行っており、どんな場所でも主人について行く。\n#weak [hunt_dangerous|E]がある獣に対する[hunt_success_chance|E]が僅かに上昇する。#!"
  hunt_success_chance.trait:0 "[GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]の[trait_level_track_xp|E]"
  hunt_success_chance.terrain:0 "[ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly] has [ROOT.Activity.GetCurrentPhase.GetLocation.GetTerrain.GetName] [terrain|E]"
- hunt_success_chance.development:0 "High [development|E] in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
+ hunt_success_chance.development:0 "[ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]の高い[development|E]"
  hunt_success_chance.no_holding:0 "[ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]には[holding|E]が無い"
  hunt_success_chance.master_of_hunt:0 "[GetCourtPositionType('master_of_hunt_court_position').GetName()]の[aptitude|E]"
  hunt_success_chance.hunt_option_attendants:0 "$hunt_option_attendants$の[activity_option|E]"

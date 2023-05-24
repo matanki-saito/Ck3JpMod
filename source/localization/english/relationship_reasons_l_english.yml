@@ -1585,7 +1585,7 @@
  lover_tournament_praying_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U] performative act of worship enraptured [CHARACTER.GetShortUIName] at a tournament"
  lover_tournament_cynical_prayer:0 "[CHARACTER.GetShortUINamePossessive|U] cynical act of worship struck a chord with [TARGET_CHARACTER.GetShortUIName] at a tournament"
  lover_tournament_cynical_prayer_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U] cynical act of worship struck a chord with [CHARACTER.GetShortUIName] at a tournament"
- friend_dinner_chat:0 "[CHARACTER.GetShortUIName|U] had a friendly conversation with [TARGET_CHARACTER.GetShortUIName|U] at dinner"
+ friend_dinner_chat:0 "[CHARACTER.GetShortUIName|U]は夕食で[TARGET_CHARACTER.GetShortUIName|U]と友好的な会話をした"
  friend_dinner_chat_corresponding:0 "$friend_dinner_chat$"
  friend_confidant:0 "[CHARACTER.GetShortUIName|U] confided in [TARGET_CHARACTER.GetShortUIName|U]"
  friend_confidant_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] confided in [CHARACTER.GetShortUIName|U]"

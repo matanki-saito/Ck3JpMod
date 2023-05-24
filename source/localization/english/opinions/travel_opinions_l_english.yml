@@ -1,9 +1,9 @@
 ﻿l_english:
  left_companion_behind_opinion:0 "Left Companion Behind"
- let_ill_recover_opinion:0 "Let Ill Recover"
- cared_for_my_health_opinion:0 "Cared For My Health"
+ let_ill_recover_opinion:0 "病気から回復させた"
+ cared_for_my_health_opinion:0 "私の健康に配慮した"
  tried_to_poison_me_opinion:0 "Tried To Poison Me"
- ignored_my_illness_opinion:0 "Ignored My Illness"
+ ignored_my_illness_opinion:0 "私の病気を無視した"
  whipped_me_opinion:0 "Whipped Me"
  spy_suspicion_opinion:0 "Studied My Military"
  poached_military_opinion:0 "Poached My Military"

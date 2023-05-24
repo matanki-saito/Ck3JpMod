@@ -48,7 +48,7 @@
  TRAVEL_EFFECTS_HEADER:0 "Travel Effects"
  TRAVEL_OPTIONS_HEADER:0 "旅のオプション"
  TRAVEL_OPTION_TT:0 "#T [TravelOption.GetName]#!\n[TravelOption.GetTooltip( TravelPlanData.Self )]"
- TRAVEL_OPTIONS_EQUIPPED:0 "Equipped"
+ TRAVEL_OPTIONS_EQUIPPED:0 "準備済み"
  TRAVEL_OPTIONS_EMPTY:0 "旅のオプションをつけない"
  TRAVEL_OPTIONS_SELECT:0 "旅のオプションを選ぶ"
  REMOVE_TRAVEL_OPTION:0 "#T 旅のオプションを取り除く#!"

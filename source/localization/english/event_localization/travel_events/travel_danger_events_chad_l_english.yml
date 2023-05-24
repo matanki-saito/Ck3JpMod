@@ -1,6 +1,6 @@
 ﻿l_english:
  travel_danger_events.5000.t:0 "$travel_danger_prefix$血の気が多い"
- travel_danger_events.5000.intro.land:0 "[location.GetName]にて長い旅をしている時、一行は[location.Custom('GetProvinceFoliageDesc')]の開けた場所で立ち止まることになった。[entourage_member_one.GetFirstName]と[entourage_member_two.GetFirstName]のつまらぬ喧嘩に対応せねばならなかったからだ。\n\n"
+ travel_danger_events.5000.intro.land:0 "[location.GetName]にて長い旅をしている時、一行は[location.Custom('GetProvinceFoliageDesc')]に囲まれた空き地で立ち止まることになった。[entourage_member_one.GetFirstName]と[entourage_member_two.GetFirstName]のつまらぬ喧嘩に対応せねばならなかったからだ。\n\n"
  travel_danger_events.5000.intro.sea:0 "外からでも聞こえるような怒声とドタドタという音が聞こえた。急いでそこに向かうと[entourage_member_one.GetFirstName]と[entourage_member_two.GetFirstName]が緊迫した様子でがなりあっていた。\n\n"
  travel_danger_events.5000.craven:0 "「[entourage_member_two.GetFirstNameNoTooltip]、からかうのはやめてくれないか？後ろから脅かされるのは不快だし、ましてや[location.Custom('GetTerrainLandPlural')]の途中で！」\n\n「おいおい、ほんの冗談だよ、冗談！お前の勇気を試したかっただけさ、大したことないだろ？」"
  travel_danger_events.5000.brave:0 "「立て、この出来損ないの[entourage_member_two.Custom('InsultNoun')]め、#EMP 戦うがいい#!！お前の価値を見せてみろ！そうでないならお前のような卑劣などうしようもない臆病者、ここから出ていって野垂れ死ぬがいい！」[entourage_member_one.GetFirstNameNoTooltip]は地面に唾を吐いた。\n\n[entourage_member_two.GetFirstNameNoTooltip]は恐怖して、[entourage_member_two.GetHerselfHimself]の顔に涙をうかべ、すすり泣いている"
