@@ -303,7 +303,7 @@
  hunt_distinguished_ability_title:0 "[hunter.GetShortUINamePossessiveNoTooltip|U]の能力がめざましい"
  hunt_annoyed_owner_title:0 "[first.GetShortUINamePossessiveNoTooltip|U] Resented [second.GetShortUINamePossessiveNoTooltip] Hunt"
  hunt_impressive_grounds_title:0 "[second.GetShortUINameNoTooltip|U] Admired [first.GetShortUINamePossessiveNoTooltip] Hunting Grounds"
- hunt_eggs_found_title:0 "[eggman.GetShortUINameNoTooltip|U] Found Raptor Eggs"
+ hunt_eggs_found_title:0 "[eggman.GetShortUINameNoTooltip|U]は猛禽の卵を見つけた"
  hunt_sighting_standard_desc:0 "[ROOT.Title.Custom('GetAnimalPlural')|VU] sighted in [ROOT.Title.GetNameNoTier]"
  hunt_sighting_dangerous_desc:0 "[ROOT.Title.Custom('GetAnimalPlural')|VU] terrorizing [ROOT.Title.GetNameNoTier]"
  hunt_sighting_legendary_desc:0 "[ROOT.Title.Custom('GetLegendaryColor')|VU] [ROOT.Title.Custom('GetAnimalType')|VU] rumored in [ROOT.Title.GetNameNoTier]"

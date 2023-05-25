@@ -7,7 +7,7 @@
  ep2_locale_events.1000.b:0 "The table's tab is on me!"
  ep2_locale_events.1000.c:0 "I think this lot has had quite enough."
  ep2_locale_events.1000.d:0 "Enjoy your evening, [drinking_leader.GetFirstNameNoTooltip]!"
- drinks_round_tt:0 "Every drinker"
+ drinks_round_tt:0 "すべての酒飲み"
  ep2_locale_events.1000.hangover_tt:0 "Never again..."
  ep2_locale_events.1002.t:1 "$tournament_locale_tavern$: Dare to Drink?"
  ep2_locale_events.1002.desc:0 "The local pub is rammed with bodies, as is expected when a Tournament rolls into town. Amongst all the newcomers, though, there sits a [local_drunk.GetWomanMan] who clearly is a fixture at the establishment. [local_drunk.GetSheHe|U] eyes me with suspicion as I sit down.\n\n\"What are #EMP you#! doing here?\" [local_drunk.GetSheHe|U] finally blurts out as my drink arrives. I turn to face [local_drunk.GetHerHim]; [local_drunk.GetSheHe] rises unsteadily to [local_drunk.GetHerHis] feet.\n\n\"Forgive my presumptions, #EMP my [ROOT.Char.GetLadyLord]#!,\" — A flourishing, scornful bow punctuates the statement — \"but I reckon you couldn't handle half of that, let alone all of it!\""

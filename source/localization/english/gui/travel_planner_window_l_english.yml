@@ -87,4 +87,4 @@
  INVALID_TRAVEL_ROUTE_DEVIATION_TOO_LARGE:0 "@warning_icon! #X Travel route deviation too large: $PATH_DURATION_DIFF|0$ days over maximum#!"
  TRAVEL_PLANNER_INVITED_ACTIVITY_START:0 "活動の開始日時:[Activity.GetActiveStartDate.GetString]"
  TRAVEL_PLANNER_INVITED_ACTIVITY_ESTIMATED_ARRIVAL:0 "到着予定日：[TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate.GetString]"
- TRAVEL_PLANNER_INVITED_WILL_NOT_ARRIVE_IN_TIME:0 "@warning_icon!#X You will not arrive to the [Activity.GetShortNameNoTooltip] in time#!"
+ TRAVEL_PLANNER_INVITED_WILL_NOT_ARRIVE_IN_TIME:0 "@warning_icon!#X [Activity.GetShortNameNoTooltip]には間に合わないだろう#!"

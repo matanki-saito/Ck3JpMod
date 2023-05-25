@@ -126,5 +126,5 @@
  hunt_success_chance.culture:0 "[ROOT.Activity.GetHost.GetCulture.GetName] [culture_traditions|E]"
  hunt_success_chance.events:0 "Events"
  hunt_success_chance.sighting:0 "[ROOT.Activity.Custom('GetAnimalType')|U] [hunt_sighting_no_prefix|E]"
- hunt_dangerous_beast_slain_modifier:0 "Dangerous Beast Slain"
- hunt_dangerous_beast_slain_modifier_desc:0 "The minds of the local populace are eased by the knowledge there is one fewer terror roaming the wilds."
+ hunt_dangerous_beast_slain_modifier:0 "危険な獣を殺した"
+ hunt_dangerous_beast_slain_modifier_desc:0 "荒野を徘徊する恐怖の対象が一つ減ったことで、住民の心も安らいでいる。"

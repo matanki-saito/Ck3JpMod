@@ -1715,7 +1715,7 @@
  game_concept_scheme_resistance_single:0 "抵抗力"
  game_concept_development_i:0 "@development_icon!"
  game_concept_control_i:0 "@control_icon!"
- game_concept_county_control_desc:0 "$game_concept_county_control$ measures the grip that the government has on the population of a [county|E]. It is crucial especially for collecting [taxes|E] from the [holdings|E].\n\nWhen a County changes hands through [war|E], Control goes down drastically, which is a good reason to vassalize the current [holder|E] instead (if the [casus_belli|E] allows). County Control can also be damaged by [sieges|E] and [Concept( 'peasant_faction', 'Peasant Uprisings' )|E].\n\nLow Control may lead to [county_corruption|E], and the primary way of increasing Control is a [councillor_task|E] available to your [marshal|E]."
+ game_concept_county_control_desc:0 "$game_concept_county_control$とは、行政府が[county|E]の民衆をどれだけ掌握しているかを示す尺度です。とくに[holdings|E]から収集する[taxes|E]と強く関連します。\n\n[war|E]によって伯爵領の所有者が変わると支配値は大幅に下がります。これは、現在の[holder|E]に対して(仮に[casus_belli|E]が使えるとしても)戦争ではなく臣従の提案を選択する相応の根拠となります。また、伯爵領の支配値は[sieges|E]や[Concept( 'peasant_faction', '農民蜂起' )|E]によっても大きなダメージを受けます。\n\n低い支配値は[county_corruption|E]を招きます。増加させる主な方法は[marshal|E]に[councillor_task|E]を実行させることです。"
  game_concept_cultural_acceptance_i:0 "@cultural_acceptance_icon!"
  game_concept_knight_desc_TOTO_DLC:0 "You gain [prestige|E] each time one of your $game_concept_knights$ successfully [contest_qualifies|E] for or wins a [GetActivityType( 'activity_tournament' ).GetName] [contest|E].\n\n"
  game_concept_knight_desc_NO_TOTO_DLC:0 ""
