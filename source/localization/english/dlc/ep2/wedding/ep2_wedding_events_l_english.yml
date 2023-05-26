@@ -230,7 +230,7 @@
  wedding_cleansing_dismiss_log:0 "[CHARACTER.GetUIName|U]は彼女の結婚式の前の伝統的な清めの儀式を却下した"
  ep2_wedding.1100.d:0 "風呂はとても#EMP リラックス#!できる…"
  ep2_wedding.1020.t:0 "それはあなたなのか？"
- ep2_wedding.1020.desc:0 "「結婚式は政治でしかない。」未来の[spouse_2.Custom('WifeHusband')]が加わるのを待つ間、私は心を固くする。\n\n「ただの政治だ。」私は自身に繰り返す。「何が悪いのだ？」\n\nしかし、私は[spouse_2.GetFirstName]を初めて見る瞬間の準備は何もできていない。[spouse_2.GetHerHis]の優しい表情は、どんな肖像画や説明でもうまく表現できないだろう。[spouse_2.GetHersHis]のような美しさを歌った詩人はいないだろう。目が合うと時が止まり、他の人は消えてしまうような気がする。\n\nすると[spouse_2.GetSheHe]が微笑んでくれて、私にはわかるん。すべてがうまくいくと。"
+ ep2_wedding.1020.desc:0 "「結婚式は政治でしかない。」未来の[spouse_2.Custom('WifeHusband')]が加わるのを待つ間、私は心を固くする。\n\n「ただの政治だ。」私は自身に繰り返す。「何が悪いのだ？」\n\nしかし、私は[spouse_2.GetFirstName]を初めて見る瞬間の準備は何もできていない。[spouse_2.GetHerHis]の優しい表情は、どんな肖像画や説明でもうまく表現できないだろう。[spouse_2.GetHersHis]のような美しさを歌った詩人はいないだろう。目が合うと時が止まり、他の人は消えてしまうような気がする。\n\nすると[spouse_2.GetSheHe]が微笑んでくれて、私にはわかる。すべてがうまくいくと。"
  ep2_wedding.1020.a:0 "もしかして、私が待ち望んでいたのはあなたなのか？"
  wedding_first_sight_log_title:0 "キューピットの矢"
  wedding_first_sight_log:0 "[CHARACTER.GetUIName|U]と[TARGET_CHARACTER.GetUIName]は一目で恋に落ちた"
