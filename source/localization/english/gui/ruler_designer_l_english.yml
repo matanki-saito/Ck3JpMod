@@ -31,7 +31,7 @@
  RULER_DESIGNER_POINTS_LIMIT_VALUE:0 "[GetDefine( 'NRulerDesigner', 'IRONMAN_POINT_MAX' )|V]"
  RULER_DESIGNER_POINTS_LIMIT_LABEL:0 "実績限界: $RULER_DESIGNER_POINTS_LIMIT_VALUE$"
  RULER_DESIGNER_AGE_LABEL:0 "年齢"
- RULER_DESIGNER_AGE:1 "#high [RulerDesignerWindow.GetAge]#! [Select_CString( GreaterThan_int32( RulerDesignerWindow.GetAge, '(int32)1' ), 'Years', 'Year' )]"
+ RULER_DESIGNER_AGE:1 "#high [RulerDesignerWindow.GetAge]#! 歳"
  RULER_DESIGNER_BIRTH_YEAR:0 "誕生: 西暦[RulerDesignerWindow.GetBirthYear]年"
  RULER_DESIGNER_WEIGHT_LABEL:0 "体重"
  RULER_DESIGNER_TRAITS_LABEL:1 "[traits|E]"

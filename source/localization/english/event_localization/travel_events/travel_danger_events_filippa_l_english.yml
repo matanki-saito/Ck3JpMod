@@ -42,4 +42,4 @@
  travel_danger_events.4010.e.flavor:0 "私はもっと酷いのを見たことがある。"
  travel_danger_events.4010.e.pneumonic.t:0 "肺炎"
  travel_danger_events.4010.e.no_change.t:0 "変化なし"
- every_patient_entourage_tt:0 "[GetTrait('patient').GetName( GetNullCharacter )]のすべての側近メンバー"
+ every_patient_entourage_tt:0 "[GetTrait('patient').GetName( GetNullCharacter )]のすべての従者メンバー"

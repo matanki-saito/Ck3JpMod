@@ -1,6 +1,6 @@
 ﻿l_english:
  ACTIVITY_LOG_ENTRY_EFFECT:0 ""
- activity_tournament_province_desc:1 "You hold a Tournament in [ROOT.Province.GetName]\nProvinces with suited buildings give out a [gold_i][gold|E] discount"
+ activity_tournament_province_desc:1 "[ROOT.Province.GetName]でトーナメントを開催します\n所領にある適切な建造物により、[gold_i][gold|E]のコストが減少します"
  activity_tournament_conclusion_desc:0 "#D Please fill me in and put me in the right file designer senpai UwU#!"
  activity_feast_guest_desc:0 "$BULLET_WITH_TAB$参加者が出席した人物の[opinion|E]を獲得する場合があります\n$BULLET_WITH_TAB$参加者が[stress_loss_i][stress|E]を解消する場合があります\n$BULLET_WITH_TAB$参加者が[GetTrait('lifestyle_reveler').GetName( GetNullCharacter )]の[trait|E]を獲得する場合があります"
  activity_tournament_guest_desc:1 "#weak 参加資格があるトーナメントに参加すれば、大会で優勝して賞品を獲得するチャンスに恵まれるだけでなく、リラックスして観光も楽しむことができます。また、自分の武術を磨く機会にもなります。#!"

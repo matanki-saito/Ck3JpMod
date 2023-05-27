@@ -1072,7 +1072,7 @@
  ep2_wedding.1330.f.confession.tt:1 "[spouse.GetFirstNameNoTooltip|U]は[spouse.GetSheHe]に他の愛人がいるかどうかを明らかにします"
  ep2_wedding.1330.g:0 "ようやく、我々はもう自身の愛を隠す必要はない！"
  ep2_wedding.1340.t:0 "結婚式への哀悼"
- ep2_wedding.1340.desc.intro:0 "「[cynic.Custom2('RelationToMe', SCOPE.sC('nervous_spouse'))|U]、あなたには同情する…」[cynic.GetTitledFirstName]は私に結婚生活がどんなものかを教えてくれる。"
+ ep2_wedding.1340.desc.intro:0 "「[cynic.Custom2('RelationToMe', SCOPE.sC('nervous_spouse'))|U]よ、あなたには同情する…」[cynic.GetTitledFirstName]は私に結婚生活がどんなものかを教えてくれる。"
  ep2_wedding.1340.i_would_know:0 "「私にはわかる。」[cynic.GetSheHe]は愚痴をこぼす。"
  ep2_wedding.1340.like_me_and:0 "「私と[disliked_spouse.GetFirstName]のように。」[cynic.GetSheHe]は愚痴をこぼす。"
  ep2_wedding.1340.cheating:0 "夫が妻を裏切り、妻は夫を裏切る、嘘と屈辱のオンパレード。"

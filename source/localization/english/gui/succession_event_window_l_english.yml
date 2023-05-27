@@ -98,7 +98,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_PERSONALITY_COMPASSIONATE:0 "優しく、思いやりのある魂で知られる[ROOT.Char.GetSheHe]は、その友人たちによって大切に記憶されることになるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_PERSONALITY_PATIENT:0 "[ROOT.Char.GetHerHis]は決して声を荒げるような人ではなく、[ROOT.Char.GetSheHe]は忍耐の模範だった。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_PERSONALITY_HUMBLE:1 "謙虚な[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、その功績について誰にも騒がれたくないと思っていた。"
- SUCCESSION_EVENT_WINDOW_HEIR_UNDERAGE:1 "Merely [ROOT.Char.GetAge] years old, [ROOT.Char.GetSheHe] will need to rely on [ROOT.Char.GetHerHis] [ROOT.Char.GetDiarchTitle] [ROOT.Char.GetDiarchy.GetDiarch.GetTitledFirstNameNicknamedNoTooltip] during [ROOT.Char.GetHerHis] first years of rule."
+ SUCCESSION_EVENT_WINDOW_HEIR_UNDERAGE:1 "わずか[ROOT.Char.GetAge]歳にすぎず、その統治開始から数年間は、[ROOT.Char.GetDiarchTitle][ROOT.Char.GetDiarchy.GetDiarch.GetTitledFirstNameNicknamedNoTooltip]に頼る必要があるだろう。"
  SUCCESSION_EVENT_WINDOW_HEIR_USELESS:0 "領土を同時に維持するための技能を持っていないため、[ROOT.Char.GetHerHis]の統治は失敗する運命にあるのかもしれない。"
  SUCCESSION_EVENT_WINDOW_HEIR_MILITARY:0 "才気ある戦術家であるため、多くの人は[ROOT.Char.GetHerHim]が王国を率いて戦場で多くの勝利をもたらすことを期待している。"
  SUCCESSION_EVENT_WINDOW_HEIR_LEARNING:0 "賢明に学んだ[ROOT.Char.GetWomanMan]、進歩と革新は[ROOT.Char.GetHerHis]法のもとで期待されている。"

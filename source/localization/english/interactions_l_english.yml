@@ -1382,7 +1382,7 @@
  INTERACTION_TRUSTING:0 "[GetTrait('trusting').GetName( recipient )]: $VALUE|=+0$"
  INTERACTION_LOYAL:0 "[GetTrait('loyal').GetName( recipient )]: $VALUE|=+0$"
  INTERACTION_DISLOYAL:0 "[GetTrait('disloyal').GetName( recipient )]: $VALUE|=+0$"
- MATCH_OFFER_NO_ALLIANCES:0 "This Marriage will not result in an [alliance|E]"
+ MATCH_OFFER_NO_ALLIANCES:0 "この結婚では、[alliance|E]関係を生じません"
  diarch_imprison_reason_for_player.tt:1 "@portrait_punishment_icon! #weak Crime — You are allowed to rightfully imprison [recipient.GetShortUIName], if the opportunity presents itself#!"
  char_interaction.0261.desc:0 "By the authority invested in me by [intermediary.GetTitledFirstName], I hereby strip you of your false rule of the [landed_title.GetName]. You are to relinquish the title to me in custody for the Crown, effective immediately."
  char_interaction.0261.a:0 "An outrageous abuse of power!"

@@ -46,7 +46,7 @@
  travel_danger_events.6010.c:0 "力を誇示することこそ抑止力になる。"
  travel_danger_events.6010.c.success:0 "あなたは一人残される"
  travel_danger_events.6010.c.failure:0 "彼らはあなたに挑戦する"
- travel_danger_events.6010.c.wound:0 "ランダムな側近メンバーが負傷します"
+ travel_danger_events.6010.c.wound:0 "ランダムな従者メンバーが負傷します"
  travel_danger_events.6010.d:0 "ただ買い上げるだけだ。"
  travel_danger_events.6011.t:0 "$travel_danger_prefix$ 前方の戦闘"
  travel_danger_events.6011.intro:0 "恐れを抱く地元住民の警告を聞くまでもなく、この先に戦闘が起こっているのは明らかだ。戦争の残骸、犠牲者、仮設キャンプがいたるところに見られる。\n\n"

@@ -69,7 +69,7 @@
  tour_travel.3040.c:0 "残念だが、私にはもっとやるべきことがあるのだ、平民よ。"
  tour_travel.3040.c.foreign:0 "これはあなたの[ROOT.Char.GetCurrentLocation.GetCounty.GetHolder.GetTitleAsNameNoTooltip]の問題だ、平民よ。"
  entourage_member_wounded_toast:0 "山賊は[woundee.GetShortUINameNoFormat]を傷つける"
- entourage_member_wound_chance_tt:0 "ランダムな側近メンバーが負傷します"
+ entourage_member_wound_chance_tt:0 "ランダムな従者メンバーが負傷します"
  truth_of_it_sleuth_toast:0 "あなたは真実を見つける"
  truth_of_it_skill_toast:0 "あなたは知恵を集める"
  truth_of_it_stress_toast:0 "洞察は得られない"

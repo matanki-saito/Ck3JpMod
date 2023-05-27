@@ -1,6 +1,6 @@
 ﻿l_english:
  ep2_wedding.0101.t:0 "死ぬまで…"
- ep2_wedding.0101.desc.intro:0 "客人はみんな庭に集まっている。素晴らしい晴天だ。私は自分の[dummy_gender.GetWomenMen]たちを見渡す——優雅な主催者として私が約束した護衛だ。#EMP 重#!装備だ。もうすぐ、私の準備は実を結ぶ。\n\n[spouse_2.GetTitledFirstName]が[spouse_2.GetHerHis]の側近と一緒に到着するのが見える"
+ ep2_wedding.0101.desc.intro:0 "客人はみんな庭に集まっている。素晴らしい晴天だ。私は自分の[dummy_gender.GetWomenMen]たちを見渡す——優雅な主催者として私が約束した護衛だ。#EMP 重#!装備だ。もうすぐ、私の準備は実を結ぶ。\n\n[spouse_2.GetTitledFirstName]が[spouse_2.GetHerHis]の従者と一緒に到着するのが見える"
  ep2_wedding.0101.desc.spouse:0 "。結婚——たった一日だけの。"
  ep2_wedding.0101.desc.bad:0 "。このような卑しい存在は消し去らなければ。"
  ep2_wedding.0101.desc.good:0 "…すまない、愛する人よ。"
@@ -83,7 +83,7 @@
  ep2_wedding.0955.t:0 "赤い夜明け"
  ep2_wedding_departure_intro:0 "広間は前日と何も変わっていない。使用人たちがテーブルを掃除し、音楽もなく、ほとんどの客人はすでに帰ってしまった。"
  ep2_wedding.0955.desc.intro:0 "$ep2_wedding_departure_intro$\n\n残った人々に別れを告げる準備をしながら、"
- ep2_wedding.0955.desc.failed:0 "私が[spouse_2.GetTitledFirstNamePossessive]の顔をちらっと見ると、[spouse_2.GetHerHis]は側近たちと楽しそうに話している。\n\n[spouse_2.GetSheHe]が私を疑っているのは知っているし、それには立派な理由がある。この結婚は退屈なものにはならないだろう。"
+ ep2_wedding.0955.desc.failed:0 "私が[spouse_2.GetTitledFirstNamePossessive]の顔をちらっと見ると、[spouse_2.GetHerHis]は従者たちと楽しそうに話している。\n\n[spouse_2.GetSheHe]が私を疑っているのは知っているし、それには立派な理由がある。この結婚は退屈なものにはならないだろう。"
  ep2_wedding.0955.desc.murder:0 "私は[spouse_2.GetTitledFirstName]を思い浮かべる時間を作る。逝ってしまった。"
  ep2_wedding.0955.good:0 "こんな風に終わる必要はなかったのだ。"
  ep2_wedding.0955.bad:0 "ようやく私は、[spouse_2.GetHerHis]の[spouse_2.Custom('InsultAdjective')]の顔を見なくて済むのだ。"
