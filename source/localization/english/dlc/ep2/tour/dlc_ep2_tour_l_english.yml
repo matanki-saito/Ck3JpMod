@@ -13,7 +13,7 @@
  tour_phase_tour_grounds:2 "地固めのツアー"
  tour_phase_tour_grounds_desc:0 "あなたの[vassal|E]の所領での[tour_the_grounds|E]は[control|E]を増やすだろう"
  tour_phase_dinner:1 "会食"
- tour_phase_dinner_desc:0 "封臣が主催する[hosted_dinner|E]を楽しむことは、あなたの[vassal|E]の[opinion|E]をあげることに繋がります。"
+ tour_phase_dinner_desc:0 "封臣が主催する[hosted_dinner|E]を楽しむことは、あなたの[vassal|E]の[opinion|E]を上げることに繋がります。"
  tour_phase_cultural_festival:1 "文化的な祝祭"
  tour_phase_cultural_festival_desc:0 "[cultural_festival|E]を楽しみ、異文化と交流することで、[county_opinion|E]と[cultural_acceptance|E]を上昇させます。"
  tour_phase_journey_home:0 "家に帰る"

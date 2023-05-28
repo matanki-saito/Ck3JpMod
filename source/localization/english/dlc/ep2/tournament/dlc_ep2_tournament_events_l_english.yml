@@ -8,7 +8,7 @@
  tournament_events.0050.recruit:0 "I've already seen plenty of candidates ripe for induction into the ranks of my [ROOT.Char.Custom('KnightCulturePluralNoTooltipLowercase')]!"
  tournament_events.0050.relax:0 "There are few places so excellent to relieve some stress and enjoy oneself as a Tournament, and I intend to take full advantage!"
  tournament_events.0050.a:0 "待ちきれない！"
- tournament_events.0100.t:1 "$tournament_header$ Opening"
+ tournament_events.0100.t:1 "$tournament_header$ 始まり"
  tournament_events.0100.desc:0 "トーナメント開催が迫ってきている！\n\n"
  tournament_events.0100.host:0 "大勢が群れを成して[activity.GetCurrentPhase.GetLocation.GetName]にある我が地を踏んだ。その価値を示そうと。スペクタクルと単純に楽しもうと。"
  tournament_events.0100.contestant:0 "Like many others who have flocked to [activity.GetCurrentPhase.GetLocation.GetName], eagerly awaiting the contests to come, I busy myself socializing and preparing my equipment."

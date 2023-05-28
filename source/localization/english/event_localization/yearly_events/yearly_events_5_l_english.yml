@@ -65,7 +65,7 @@
  yearly.5010.c:0 "君の警告に留意しておくよ、[bickering_vassal_2.GetFirstNameNoTooltip]。"
  yearly.5010.d:0 "では、あなたの[ROOT.Char.GetTitleTierName]の名誉を守ろう！"
  yearly.5010.deceitfail.desc:0 "[bickering_vassal_2.GetTitledFirstName]を騙して[bickering_vassal_1.GetTitledFirstName]と決闘させることができなかった。"
- yearly.5011.desc:0 "[bickering_vassal_1.GetFirstNamePossessive]と[bickering_vassal_2.GetFirstNamePossessive]の間の互いの軽蔑を、公然とした敵対心に駆り立てるのには、それほど時間はかからない。互いに悪口が交わされた後、ついに[bickering_vassal_2.GetFirstNameNoTooltip]が[bickering_vassal_2.GetHerHis]の[bickering_vassal_2.Custom('signature_weapon')]を[bickering_vassal_1.GetFirstNameNoTooltip]に対して取り、相手もそれに親切に応じた。\n\n短いが激しい打撃の応酬の末、[bickering_vassal_winner.GetTitledFirstNameNoTooltip]が勝利を手にした一方、[bickering_vassal_winner.GetHerHis]の相手は地面に血を流したまま残された。。"
+ yearly.5011.desc:0 "[bickering_vassal_1.GetFirstNamePossessive]と[bickering_vassal_2.GetFirstNamePossessive]の間の互いの軽蔑を、公然とした敵対心に駆り立てるのには、それほど時間はかからない。互いに悪口が交わされた後、ついに[bickering_vassal_2.GetFirstNameNoTooltip]が[bickering_vassal_2.GetHerHis]の[bickering_vassal_2.Custom('signature_weapon')]を[bickering_vassal_1.GetFirstNameNoTooltip]に対して取り、相手もそれに親切に応じた。\n\n短いが激しい打撃の応酬の末、[bickering_vassal_winner.GetTitledFirstNameNoTooltip]が勝利を手にした一方、[bickering_vassal_winner.GetHerHis]の相手は地面に血を流したまま残された。"
  yearly.5011.a.new:0 "あなたがこんなに私に対して献身的だったとは知らなかった、[bickering_vassal_winner.GetFirstNameNoTooltip]…"
  yearly.5011.b.new:0 "行動は言葉よりも雄弁のようだな。"
  yearly.5011.b.old:0 "あなたがいなかったら私はどうしていただろう、[bickering_vassal_winner.GetFirstNameNoTooltip]？"

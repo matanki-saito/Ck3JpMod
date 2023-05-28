@@ -447,5 +447,5 @@
  on_diarch_change.notification.vassal.fallback.desc:1 "[old_diarch.GetShortUIName|U] [Select_CString( old_diarch.IsLocalPlayer, 'are', 'is' )] replaced by [diarch.GetShortUIName] as your liege's new [liege.GetDiarchTitle]."
  msg_diarchy_more_power_title:0 "[LEFT_CHARACTER.GetLiege.GetDiarchTitle]は更に強力になった"
  msg_diarchy_more_power_effect:0 "[scales_of_power|E]が新しいレベルに到達し、[LEFT_CHARACTER.GetLiege.GetDiarchTitle]はより多くの[diarch_powers|E]を利用できます"
- msg_diarchy_less_power_title:0 "[LEFT_CHARACTER.GetLiege.GetDiarchTitle] is now less powerful"
- msg_diarchy_less_power_effect:1 "[scales_of_power|E] swing has dropped to a lower level and the [LEFT_CHARACTER.GetLiege.GetDiarchTitle] has fewer [diarch_powers|E]"
+ msg_diarchy_less_power_title:0 "[LEFT_CHARACTER.GetLiege.GetDiarchTitle]の権力が低下"
+ msg_diarchy_less_power_effect:1 "[scales_of_power|E]が低いレベルに低下し、[LEFT_CHARACTER.GetLiege.GetDiarchTitle]の[diarch_powers|E]が減少しました"

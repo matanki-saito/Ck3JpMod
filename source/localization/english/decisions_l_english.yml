@@ -1016,4 +1016,4 @@
  accolade_call_acclaimed_knight_tooltip:0 "[chosen_knight.GetUIName]は[accolade_in_need.GetName]に値するものでしょう"
  accolade.0013.notification_fail:0 "叙勲に値するものはいない"
  accolade_call_acclaimed_knight_fail_notification_tooltip:0 "$knight_culture_player_no_tooltip_lowercase$に値するものが名乗り出ていないために叙勲の少なくとも1つが無効化されています"
- you_have_empty_accolades:0 "あなたは少なくとも1つの[inactive_accolade|e]がありますが、それに任命できる[knights|e]もいません"
+ you_have_empty_accolades:0 "少なくとも一つの[inactive_accolade|e]があるが、それに任命できる[knights|e]がいない"

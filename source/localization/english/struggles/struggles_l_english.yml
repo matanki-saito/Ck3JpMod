@@ -135,4 +135,4 @@
  STRUGGLE_INVOLVED_NO_CONCEPT:0 "$game_concept_struggle_involved$"
  STRUGGLE_INTERLOPER_NO_CONCEPT:0 "$game_concept_struggle_interloper$"
  STRUGGLE_UNINVOLVED_NO_CONCEPT:0 "$game_concept_struggle_uninvolved$"
- found_empire_decision_not_part_of_iberian_struggle:0 "$iberian_struggle$における[struggle_uninvolved|E]です"
+ found_empire_decision_not_part_of_iberian_struggle:0 "$iberian_struggle$における[struggle_uninvolved|E]である"
