@@ -128,7 +128,7 @@
  PROVINCE_TOOLTIP_ARMY_ADVANTAGE_ADJUSTMENT:0 "$ADJUSTMENTS|=+$"
  CHARACTER_TRAVELING_OWNER:0 "旅の途中で[PROVINCE.GetName|V]にいる"
  CHARACTER_TRAVELING_ENTOURAGE:0 "In [TRAVEL_PLAN.GetData.GetOwner.GetShortUINamePossessive|V] [entourage|E] in [PROVINCE.GetName|V]"
- PROVINCE_TOOLTIP_SELECT_MAA_ORIGIN_HERE:0 "#I Click to station [REGIMENT.GetNameNoTooltip] here#!"
+ PROVINCE_TOOLTIP_SELECT_MAA_ORIGIN_HERE:0 "#I クリックして、ここに[REGIMENT.GetNameNoTooltip]を駐留する#!"
  PROVINCE_TOOLTIP_SELECT_MAA_ORIGIN_CANCEL:0 "#I 右クリックでキャンセル#!"
  ECONOMY_MAP_TOOLTIP_ENTRY:0 "\n[HOLDING.GetNameNoTooltip]の[HOLDING.GetType.GetName]: @gold_icon![HOLDING.GetIncome|+=1]/月"
  ECONOMY_MAP_TOOLTIP:0 "#T [ROOT.Province.GetCounty.GetName]伯爵領#!\n[GetEconomyMapModeTooltip( ROOT.Province )]"

@@ -1,8 +1,8 @@
 ﻿l_english:
- MY_HAS_DIARCHY_PARAMETER:0 "My [diarchy|E] type allows this"
- NOT_MY_HAS_DIARCHY_PARAMETER:0 "My [diarchy|E] type does #bold not#! allow this"
- THEIR_HAS_DIARCHY_PARAMETER:0 "[CHARACTER.GetShortUINamePossessive] [diarchy|E] type allows this"
- NOT_THEIR_HAS_DIARCHY_PARAMETER:1 "[CHARACTER.GetShortUINamePossessive] [diarchy|E] type does #bold not#! allow this"
+ MY_HAS_DIARCHY_PARAMETER:0 "私の[diarchy|E]の種類がこれを許可している"
+ NOT_MY_HAS_DIARCHY_PARAMETER:0 "私の[diarchy|E]の種類がこれを許可して#bold いない#!"
+ THEIR_HAS_DIARCHY_PARAMETER:0 "[CHARACTER.GetShortUINamePossessive]の[diarchy|E]の種類がこれを許可している"
+ NOT_THEIR_HAS_DIARCHY_PARAMETER:1 "[CHARACTER.GetShortUINamePossessive]の[diarchy|E]の種類がこれを許可して#bold いない#!"
  MY_HAS_DIARCHY_ACTIVE_PARAMETER:0 "The [scales_of_power|E] in your [CHARACTER.GetDiarchyTypeName] favor you enough"
  NOT_MY_HAS_DIARCHY_ACTIVE_PARAMETER:0 "The [scales_of_power|E] in your [CHARACTER.GetDiarchyTypeName] are swung against you"
  THEIR_HAS_DIARCHY_ACTIVE_PARAMETER:0 "The [scales_of_power|E] in [CHARACTER.GetShortUINamePossessive] [CHARACTER.GetDiarchyTypeName] are swung against [CHARACTER.GetHerHim]"

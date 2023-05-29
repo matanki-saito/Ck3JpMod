@@ -1,7 +1,7 @@
 ﻿l_english:
  COURT_GRANDEUR_LABEL:1 "[court_grandeur|E]:"
  COURT_AMENITIES_LABEL:0 "[court_amenities|E]"
- COURT_GRANDEUR_LEVEL_TOOLTIP:4 "#S Effects#!\n[CourtGrandeurWindow.GetModifierDescForLevel(CourtGrandeurLevel.GetValue)]\n[AddLocalizationIf( GreaterThan_int32( CourtGrandeurLevel.GetValue, '(int32)1' ), 'MODIFIER_PREVIOUS_LEVELS_APPLY' )]"
+ COURT_GRANDEUR_LEVEL_TOOLTIP:4 "#S 効果#!\n[CourtGrandeurWindow.GetModifierDescForLevel(CourtGrandeurLevel.GetValue)]\n[AddLocalizationIf( GreaterThan_int32( CourtGrandeurLevel.GetValue, '(int32)1' ), 'MODIFIER_PREVIOUS_LEVELS_APPLY' )]"
  COURT_GRANDEUR_PROGRESS_TOOLTIP_HEADER:1 "#T [court_grandeur|E]: [CourtGrandeurData.GetCurrent|2]#!"
  COURT_GRANDEUR_PROGRESS_TOOLTIP_BASELINE:2 "#S 基本ライン: #!#underline [CourtGrandeurData.GetBase|V0]#!"
  COURT_GRANDEUR_PROGRESS_TOOLTIP_BASELINE_SIMPLE:0 "#weak (基本ライン#underline [CourtGrandeurData.GetBase|0]#!)#!"

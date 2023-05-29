@@ -79,5 +79,5 @@
  iberian:0 "イベリア"
  Norse:0 "Norse"
  SETTING_HUD_SKIN_TOOLTIP:0 "#T $SETTING_HUD_SKIN$#!\nSets visual theme of the HUD interface - 2D UI shown on the main game screen.\n\nIf $hud_skin_auto$ is selected, HUD will change depending on culture, faith and realm capital of the player"
- SETTING_RICH_PRESENCE:0 "Rich Presence"
- SETTING_RICH_PRESENCE_TOOLTIP:0 "#T $SETTING_RICH_PRESENCE$#!\nShow information about your current play session to your friends if your platform supports it."
+ SETTING_RICH_PRESENCE:0 "リッチプレゼンス"
+ SETTING_RICH_PRESENCE_TOOLTIP:0 "#T $SETTING_RICH_PRESENCE$#!\nプラットフォームがサポートしている場合は、現在のプレイセッションに関する情報をフレンドに表示します。"

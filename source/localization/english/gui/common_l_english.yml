@@ -1,6 +1,6 @@
 ﻿l_english:
  CHARACTER_IN_ACTIVITY_LOCATION:1 "活動に参加中:[ACTIVITY.GetBaronyNameExplicitly|V]"
- CHARACTER_IN_LOCATION:1 "Located in [PROVINCE.GetBaronyNameExplicitly|V]"
+ CHARACTER_IN_LOCATION:1 "[PROVINCE.GetBaronyNameExplicitly|V]に位置する"
  CLOSE_TOOLTIP:0 "#T $CLOSE_LABEL$#!"
  MINIMIZE_TOOLTIP:0 "#T 最小化#!"
  CLOSE_LABEL:0 "閉じる"
@@ -100,5 +100,5 @@
  DEBUG_TITLE_KEYS:0 "称号キーと慣習的領土の主君:"
  DEBUG_REGION_KEYS:0 "地理的な地域:"
  NEXT_TOOLTIP:0 "#T $NEXT_LABEL$#!"
- NEXT_LABEL:0 "Next"
- NONE:0 "None"
+ NEXT_LABEL:0 "次"
+ NONE:0 "なし"

@@ -60,5 +60,5 @@
  RECOMMEND_START_BOOKMARK:0 "ここから始めることをお薦めします"
  RESET:0 "リセット"
  LOBBY_OBSERVER_MODE_TOOLTIP:0 "$JOMINI_MULTIPLAYER_GUI_OBSERVE_TOOLTIP$[ConcatIfNeitherEmpty( '\n\n', SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_OBSERVER_MODE', '' ))]"
- LOBBY_MULTIPLAYER_TOOLTIP:0 "[LobbyView.GetOpenMultiplayerToolTip][ConcatIfNeitherEmpty( '\n\n', SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_MULTIPLAYER', '' ))]"
+ LOBBY_MULTIPLAYER_TOOLTIP:0 "[LobbyView.GetOpenMultiplayerToolTip] [ConcatIfNeitherEmpty( '\n\n', SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_MULTIPLAYER', '' ))]"
  INGAME_MENU_SWITCH_CHARACTER:0 "[SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_SWITCH_CHARACTER', '' )]"

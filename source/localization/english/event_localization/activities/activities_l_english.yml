@@ -208,7 +208,7 @@
  activity_pilgrimage.is_valid.pilgrim_or_patient:0 "以下の1つ以上を満たしている:\n$EFFECT_LIST_BULLET$あなたが[GetTrait('patient').GetName(GetNullCharacter)]である\n$EFFECT_LIST_BULLET$あなたが[GetTrait('pilgrim').GetName(GetNullCharacter)]の[trait|E]を持っている\n$EFFECT_LIST_BULLET$あなたが[GetTrait('hajjaj').GetName(GetNullCharacter)]の[trait|E]を持っている"
  activity_pilgrimage.is_valid.hajjed_recently:0 "You can only go on Hajj once every [EmptyScope.ScriptValue('hajj_cooldown_value')|0] years"
  ACTIVITY_TYPE_ON_COOLDOWN:0 "@warning_icon!#X この活動は[DATE.GetTimeToDate()]まで開けない#!"
- is_healthy_tt:0 "Is healthy"
+ is_healthy_tt:0 "建康である"
  hunt_rampage_bodyguard_log_title:0 "#D TODO_CD: hunt_rampage_bodyguard_log_title#!"
  level_5_reward_tt_title:0 "ツアーの終わり"
  level_4_reward_tt_title:0 "$level_5_reward_tt_title$"
