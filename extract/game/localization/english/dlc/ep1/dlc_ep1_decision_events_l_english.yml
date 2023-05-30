@@ -28,6 +28,7 @@
 
  ep1_decision.0201.t:0 "Linguists at Court"
  ep1_decision.0201.desc:1 "At last the search for a [target_court_language.GetCourtLanguage.GetName] linguist has come to fruition. The candidates have been presented in front of me, each of them carrying their own expertise in foreign languages."
+ ep1_decision.0201.tt.aptitude:0 "[selected_linguist.GetUINamePossessive] [aptitude|E] is [selected_linguist.GetCourtPositionAptitude( GetCourtPositionType( 'court_tutor_court_position' ) )]"
  ep1_decision.0201.a:2 "[good_linguist.GetNameNoTooltip] is a renowned [target_court_language.GetCourtLanguage.GetNameNoTooltip] linguist."
  ep1_decision.0201.b:0 "[medium_linguist.GetNameNoTooltip] will do the job."
  ep1_decision.0201.c:1 "[scholarly_linguist.GetNameNoTooltip] is a famous [target_court_language.GetCourtLanguage.GetNameNoTooltip] expert!"

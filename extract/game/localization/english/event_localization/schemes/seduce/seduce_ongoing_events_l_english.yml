@@ -212,7 +212,7 @@
  seduce_ongoing.1802.b.bad:0 "How embarrassing..."
  seduce_ongoing.1802.c:0 "I have no interest in these attentions!"
 
- seduce_ongoing.1601.t:0 "A Reading in [location.GetNameNoTierNoTooltip]"
+ seduce_ongoing.1601.t:1 "A Reading in [location.GetNameNoTooltip]"
  seduce_ongoing.1601.t_no_location:0 "A Reading"
  seduce_ongoing.1601.desc:0 "The celebrations had come to an end and the evening's entertainment seemed to be over, when [target.GetTitledFirstName] suggested a reading.\n\nA clerk soon arrives, wondering what the guests would like to hear, and I see my chance to impress [target.GetFirstName]."
  seduce_ongoing.1601.a:0 "Something pious, like [SCOPE.Custom('RandomReligiousTextName')]."

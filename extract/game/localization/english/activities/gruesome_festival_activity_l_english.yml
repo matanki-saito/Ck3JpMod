@@ -20,6 +20,7 @@
  gruesome_festival_option_sacrifice_poser_blotter:0 "$gruesome_festival_option_sacrifice_genuine_blotter$"
 
  gf_suitable_rank_valid:0 "You are neither independent nor a King [rank|E] vassal"
+ gf_valid_county_faith:0 "You don't control any County of a faith that would allow a [GetActivityType( 'activity_gruesome_festival' ).GetName]"
 
 ### ANIMALS
 

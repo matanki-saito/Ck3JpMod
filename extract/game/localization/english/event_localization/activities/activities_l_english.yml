@@ -82,6 +82,7 @@
  feast_type_murder_valid_tt:1 "You have hosted a Murder [GetActivityType('activity_feast').GetName] in the past 15 years"
  wedding_type_murder_valid_tt:1 "You have hosted a Bloody [GetActivityType('activity_wedding').GetName] in the past 15 years"
  honorary_guest:2 "Honorary Guest"
+ honorary_guest_concept: "[honorary_guest|E]"
  honorary_guest_for_host:0 "Murder Target"
  honorary_guest_regular:0 "$honorary_guest$"
  honorary_guest_regular_for_host:0 "$honorary_guest$"
@@ -142,9 +143,9 @@
  murder_feast_liege_kill_tt:0 "[ROOT.Char.GetShortUIName] successfully killed [ROOT.Char.GetHerHis] liege"
  murder_feast_hof_kill_tt_title:0 "$murder_feast_liege_kill_tt_title$"
  murder_feast_hof_kill_tt:0 "[ROOT.Char.GetShortUIName] successfully killed [ROOT.Char.GetHerHis] head of faith"
- activity_window_character_honorary_guest_traveling_murder:0 "[honorary_guest|E]\n[Character.GetShortUINameNoTooltip|U]"
- activity_window_character_honorary_guest_murder:0 "[honorary_guest|E]\n[Character.GetShortUINameNoTooltip|U]"
- activity_feast_province_desc:0 "You hold a Feast in [ROOT.Province.GetName]\nProvinces with suited buildings give out a [gold_i][gold|E] discount"
+ activity_window_character_honorary_guest_traveling_murder:0 "[SelectLocalization( IsActivityHost( Activity, GetPlayer ), 'honorary_guest_for_host', 'honorary_guest_concept' )]\n[Character.GetShortUINameNoTooltip|U]\n[traveling|E] in [Character.GetCurrentLocation.GetName]\n ~[Character.GetTravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate.GetStringLong|V]"
+ activity_window_character_honorary_guest_murder:0 "[SelectLocalization( IsActivityHost( Activity, GetPlayer ), 'honorary_guest_for_host', 'honorary_guest_concept' )]\n[Character.GetShortUINameNoTooltip|U]"
+ activity_feast_province_desc:1 "You hold a Feast in [ROOT.Province.GetName]\nProvinces with suited buildings give out a [gold_i][gold|E] discount\n"
  
  #Hunt
  activity_hunt:0 "Hunt"
@@ -216,7 +217,7 @@
  activity_invite_rule_guests:1 "Court Guests"
  activity_invite_rule_guests_no_default:0 "$activity_invite_rule_guests$"
  activity_invite_spouses:0 "Spouses"
- activity_invite_spouses_no_default:0 "$activity_invite_rule_spouses$"
+ activity_invite_spouses_no_default:0 "$activity_invite_spouses$"
  activity_invite_rule_house_witches:0 "House"
  activity_invite_rule_other_witches:0 "Other"
  activity_invite_rule_landless_courtiers:0 "Unlanded $activity_invite_rule_courtiers$"
@@ -293,3 +294,12 @@
  activity_gruesome_festival_predicted_cost:0 "The cost of a [GetActivityType( 'activity_gruesome_festival' ).GetNameNoTooltip] is primarily affected by the [activity_options|E] you select."
  activity_witch_ritual_predicted_cost:0 "The cost of a [GetActivityType( 'activity_witch_ritual' ).GetNameNoTooltip] is primarily based on your [income|E]"
  activity_playdate_predicted_cost:0 "The cost of a [GetActivityType( 'activity_playdate' ).GetNameNoTooltip] is primarily affected by your [income|E] and [title_tier|E]."
+
+ liege_accolades_glory_reward_title:0 "[glory|E] Gained"
+ liege_accolades_glory_reward:0 "Attendees spoke reverently of the martial virtue among them, particularly that of [root_scope.GetShortUINamePossessive] [root_scope.Custom('KnightCulturePluralNoTooltip')|l]"
+
+ knight_accolade_glory_reward_title:0 "[glory|E] Gained"
+ knight_accolade_glory_reward:0 "[root_scope.GetShortUIName], a [root_scope.Custom('KnightCultureNoTooltip')|l] of note, awed and impressed"
+
+ liege_accolades_glory_reward_tour_title:0 "[glory|E] Gained"
+ liege_accolades_glory_reward_tour:0 "[root_scope.GetShortUINamePossessive] [root_scope.Custom('KnightCulturePluralNoTooltip')|l] rode through the land, their splendor and dominance most evident"

@@ -11,7 +11,7 @@
  hunt_success_bar:0 "[hunt_success_chance_no_prefix|E]: [Activity.MakeScope.Var( 'hunt_success_chance' ).GetValue|V1]%#!"
  hunt_cannot_hunt_parameter_tt:0 "[culture|E] is unable to Hunt"
  # Province Descs
- activity_hunt_province_desc:0 ""
+ activity_hunt_province_desc:1 "You hold a Hunt in [ROOT.Province.GetName]\nVarious factors influence [hunt_success_chance|E]\n"
  activity_hunt_province_desc_standard_sighting:0 "#P +++ [ROOT.Province.GetTitle.GetDeJureLiege.Custom('GetAnimalType')|U] Sighting#!\n"
  activity_hunt_province_desc_dangerous_sighting:0 "#P +++ [ROOT.Province.GetTitle.GetDeJureLiege.Custom('GetAnimalType')|U] Sighting#!\n"
  activity_hunt_province_desc_falconry_sighting:0 "#P +++ [ROOT.Province.GetTitle.GetDeJureLiege.Custom('GetAnimalType')|U] Sighting#!\n"

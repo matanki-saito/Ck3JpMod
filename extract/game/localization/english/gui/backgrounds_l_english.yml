@@ -96,7 +96,7 @@
  ep2_tournament_mena:0 "Arabic Tournament"
  ep2_tournament_tribal:0 "Tribal Tournament"
  ep2_tournament_western:0 "Western Tournament"
- contest_bg_melee:0 "Meelee Tournament"
+ contest_bg_melee:1 "Melee Tournament"
  contest_bg_archery:0 "Archery Tournament"
  contest_bg_horseracing:0 "Horse-Racing Tournament"
  contest_bg_boardgames:0 "Boardgame Tournament"

@@ -440,6 +440,9 @@
  kochinim:0 "Kochinim"
  kochinim_prefix:0 "Kocheo"
  kochinim_collective_noun:0 "Kochinims"
+ bavlim:0 "Bavlim"
+ bavlim_prefix:0 "Bavleo"
+ bavlim_collective_noun:0 "Bavlims"
  #Latin group
  latin_group:0 "Latin"
  latin_group_collective_noun:0 "Latins"

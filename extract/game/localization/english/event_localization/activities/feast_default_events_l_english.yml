@@ -163,6 +163,50 @@
  feast_default.1020.tt:0 "Artifact Defaced"
  GUESTS_LIKED_DEFACING:0 "#z [CHARACTER.MakeScope.Var('num_unhappy_guests').GetValue|0]#! guest(s) appreciate this action:"
 
+ feast_default.1030.t:0 "Heroes of Our Time"
+ feast_default.1030.desc:0 "A flourish ends [minstrel.GetFirstNamePossessive] first impassioned recital. Eyes are dried, tables thumped.\n\n"Another tale!" offers [minstrel.GetSheHe]. "Shall I sing of how the great $knight_culture_player_no_tooltip_lowercase$ [knight_1.GetFirstName]"
+ feast_default.1030.ethical:0 "nobly championed the meek?"
+ feast_default.1030.amoral:0 "savaged foes of every description?"
+ feast_default.1030.leader:0 "led comrades through great peril?"
+ feast_default.1030.morally_neutral:0 "first demonstrated [knight_1.GetHerHis] virtue?"
+ feast_default.1030.aggressive:0 "Of [knight_2.GetFirstName] striking forth, unstoppable?"
+ feast_default.1030.defensive:0 "Of [knight_2.GetFirstName] standing fast like a mountain?"
+ feast_default.1030.champion:0 "Of [knight_2.GetFirstName] winning victory, singlehandedly?"
+ feast_default.1030.stance_neutral:0 "Of [knight_2.GetFirstName] restoring [knight_2.GetHerHis] benighted name?"
+
+ feast_default.1030.subtle:0 "The canniest of [knight_3.GetCulture.GetCollectiveNounNoTooltip], [knight_3.GetFirstName]?"
+ feast_default.1030.forceful:0 "The mightiest of [knight_3.GetCulture.GetCollectiveNounNoTooltip], [knight_3.GetFirstName]?"
+ feast_default.1030.equestrian:0 "The [knight_3.GetCulture.GetCollectiveNounNoTooltip] rider, [knight_3.GetFirstName]?"
+ feast_default.1030.intensity_neutral:0 "The finest of [knight_3.GetCulture.GetCollectiveNounNoTooltip], [knight_3.GetFirstName]?"
+ feast_default.1030.courtly:0 "[knight_4.GetFirstName] and [knight_4.GetHerHis] true friendships?"
+ feast_default.1030.militant:0 "[knight_4.GetFirstName] and [knight_4.GetHerHis] battles won?"
+ feast_default.1030.fighty_neutral:0 "[knight_4.GetFirstName] and [knight_4.GetHerHis] honored oaths?"
+ feast_default.1030.wrap_up:0 "These warfarers rival those of old!"\n\nDoubtlessly, as this feast's performers ramble on to other courts, my favored tale will be retold many times over."
+
+ feast_default.1030.a:0 "[knight_1.GetFirstNameNoTooltip], [accolade_1.GetNameNoTooltip]!"
+ feast_default.1030.a.tt:0 "Let retellings inspire all, from the lowest scullery brats to the greatest $knight_culture_player_plural_no_tooltip_lowercase$."
+ feast_default.1030.b:0 "[knight_2.GetFirstNameNoTooltip], [accolade_2.GetNameNoTooltip]!"
+ feast_default.1030.b.tt:0 "They'll say [knight_2.GetSheHe] cannot be beaten!"
+ feast_default.1030.c:0 "[knight_3.GetFirstNameNoTooltip], [accolade_3.GetNameNoTooltip]!"
+ feast_default.1030.c.tt:0 "All shall know [knight_3.GetHerHim] as the equal of any hero of yore."
+ feast_default.1030.d:0 "[knight_4.GetFirstNameNoTooltip], [accolade_4.GetNameNoTooltip]!"
+ feast_default.1030.d.tt:0 "An ever-more popular doer of quests and deeds... real and otherwise."
+
+ knightly_tales_modifier:0 "Knights of Song"
+ knightly_tales_modifier_desc:0 "This character's knights inspire popular stories which elevate the status of the warrior nobility."
+
+ riders_of_song_modifier:0 "Riders of Song"
+ riders_of_song_modifier_desc:0 "Young squires and seasoned horsemen alike yearn to charge into the fray alongside this character's knights."
+
+ tales_of_knightly_valor_modifier:0 "Tales of Knightly Valor"
+ tales_of_knightly_valor_modifier_desc:0 "Bold aspirants, some no better than vagabonds, plead to serve alongside this character's knights."
+
+ tales_of_knightly_leadership_modifier:0 "Tales of Knightly Leadership"
+ tales_of_knightly_leadership_modifier_desc:0 "It's considered an honor to answer to the wise authority of this character's knights."
+
+
+#feared by all enemies
+
  feast_default.2001.t:1 "Embarrassing Impatience"
  feast_default.2001.desc:0 "[host.GetTitledFirstName] announced a slight delay to the serving of the food, and [glutton.GetTitledFirstName] looks ready to burst with frustration!\n\nIn between grumbles from [glutton.GetHerHis] stomach I only hear grumbles of displeasure."
  feast_default.2001.a:0 "[glutton.GetSheHe|U] is making a fool of [glutton.GetHerselfHimself]."
@@ -362,6 +406,7 @@
  feast_default.6101.desc_opening:0 "The pleading gaze I receive from my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('troubled_guest'))] [troubled_guest.GetFirstName] is taking on a desperate tone. A group of guests are approaching the corner [troubled_guest.GetSheHe] has hid in all evening, and the walls are hindering [troubled_guest.GetHerHis] escape.\n\n"
  feast_default.6101.desc_liked:0 "The poor [troubled_guest.GetWomanMan] has never been good with people!"
  feast_default.6101.desc_disliked:0 "To think a [troubled_guest.GetTitleTierName] would act in such a way..."
+ feast_default.6101.desc_disliked_unlanded:0 "To think my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('troubled_guest'))] would act in such a way..."
  feast_default.6101.a:0 "I will distract the converging guests."
  feast_default.6101.b:0 "Come now, [troubled_guest.GetFirstNameNoTooltip]. Tell us a story!"
  feast_default.6101.c:0 "[troubled_guest.GetFirstNameNoTooltip]! I need to talk to you. In private."

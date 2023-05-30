@@ -116,6 +116,8 @@
  MARRY_CARES_ABOUT_COURTIER_REASON:0 "[secondary_recipient.GetShortUIName|U] is important to [recipient.GetShortUIName]: $VALUE|+0$"
  MARRY_PARENT_OF_CHILDREN_REASON:0 "[secondary_recipient.GetShortUIName|U] is a parent of [recipient.GetShortUINamePossessive] children: $VALUE|+0$"
  AI_OPINION_REASON:1 "[CHARACTER.GetShortUINamePossessive] Opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$"
+ AI_OPINION_REASON_SPOUSE:0 "[CHARACTER.GetShortUINamePossessive] Opinion of the spouse, [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$"
+ AI_OPINION_REASON_ACTOR:0 "[CHARACTER.GetShortUINamePossessive] Opinion of the matchmaker, [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$"
  AI_REFUSAL_IS_TREASON:0 "Refusal is Treason: $VALUE|=+0$"
  AI_CLAIMANT_PENALTY:0 "[recipient.GetShortUIName|U] is backed by a faction: $VALUE|=+0$"
  AI_PRISON_FEUDAL_COMPLEX_PERK:0 "[GetPerk( 'prison_feudal_complex_perk' ).GetName( GetPlayer )]: $VALUE|=+0$"
@@ -172,7 +174,7 @@
  MARRIAGE_HOOK:1 "Use a [hook_i][hook|e]"
  MARRIAGE_MATRILINEAL_TOGGLE:0 "Matrilineal"
  MARRIAGE_MATRILINEAL_TOGGLE_TOOLTIP:1 "#T Toggle Matrilineal#!\nShow candidates who would accept a [matrilineal|E] Marriage"
- MARRIAGE_GRAND_WEDDING_TOGGLE:1 "Grand Wedding[GetActivityType('activity_wedding').GetTextIcon]"
+ MARRIAGE_GRAND_WEDDING_TOGGLE:1 "Grand Wedding [GetActivityType('activity_wedding').GetTextIcon]"
  MARRIAGE_SPOUSE_COUNCILLOR_BOOST_HEIR:0 "[recipient.GetShortUIName|U] heard good things about my heir: $VALUE|+=0$"
  MARRIAGE_SPOUSE_COUNCILLOR_BOOST_CHILD:0 "[recipient.GetShortUIName|U] heard good things about my child: $VALUE|+=0$"
  COURT_GRANDEUR_LEVEL_MARRIAGE_ACCEPTANCE_BOOST_MODIFIER:0 "[recipient.GetShortUIName|U] is impressed by my [royal_court|E]: $VALUE|+=0$"
@@ -340,6 +342,7 @@
  REVOKE_BARONY_TITLE_CANT_GIVE_REASON_OCCUPIED:0 "@warning_icon!#X [TITLE.GetName] is [occupied|E]#!"
  REVOKE_TITLE_CANT_GIVE_REASON_BECOME_UNLANDED:1 "@warning_icon!#X [TITLE.GetName] cannot be revoked from [CHARACTER.GetShortUIName] as it would make [CHARACTER.GetHerHim] hold only [titles|E] with no land#!"
  REVOKE_TITLE_CANT_REVOKE_REASON_BARONY_WITHOUT_COUNTY:1 "@warning_icon!#X You must revoke all of [TITLE_2.GetName] instead of only [TITLE.GetName]#!"
+ REVOKE_TITLE_CANT_REVOKE_REASON_NON_DOMAIN_BARONY:0 "@warning_icon!#X [TITLE.GetName] is a [barony|E] not part of your [domain|E] and thus cannot be revoked from [CHARACTER.GetShortUIName]#!"
  REVOKE_TITLE_SELECT:0 "@warning_icon!#X There is no title selected#!"
  REVOKE_TITLE_REVOKE:0 "#T Revoke the selected title from [CHARACTER.GetShortUIName]#!"
  REVOKE_TITLE_PROVINCE_TITLE_TOOLTIP:4 "You can revoke [TITLE.GetName]\n#I Click to select it for revocation#!"
@@ -513,6 +516,7 @@
  grand_wedding_only_dominant_side:0 "Only the dominant side in a Betrothal can offer to organize a [GetActivityType( 'activity_wedding' ).GetName]"
  grand_wedding_only_family:0 "You can only organize a [GetActivityType( 'activity_wedding' ).GetName] for members of your own family"
  grand_wedding_mp_ai:0 "You can't offer a [GetActivityType( 'activity_wedding' ).GetName] to another player"
+ grand_wedding_secondary_regent: "[regents|E] cannot partake in a [GetActivityType( 'activity_wedding' ).GetName]"
 
  SELECT_HOLY_ORDER_LEASE_TO_REVOKE:0 "Select lease"
 

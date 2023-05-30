@@ -14,7 +14,7 @@
  stewardship_wealth.1001.b.givehook:0 "I will owe [wealthy_vassal.GetTitledFirstNameNoTooltip] a favor if [wealthy_vassal.GetSheHe] helps me out."
  stewardship_wealth.1001.c:0 "I will demand tribute from my vassals!"
  stewardship_wealth.1001.c.tt:0 "Every vassal:"
- stewardship_wealth.1001.d:0 "Confiscate church property to raise funds."
+ stewardship_wealth.1001.d:1 "Confiscate religious property to raise funds."
  stewardship_wealth.1001.e:0 "I will tighten my belt and save what I can."
  
  # Minting New Coins, bu Stephen Arthur and Sean Hughes

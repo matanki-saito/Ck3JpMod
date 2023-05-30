@@ -167,8 +167,8 @@
  playdate.3013.c:0 "You... You're a witch! You're a bad person."
 
  playdate.3014.t:1 "The [priest.GetCouncilTitle|U]"
- playdate.3014.desc_participant:0 "We are exploring the local [ROOT.Char.GetFaith.HouseOfWorship] when [participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and I stumble across [priest.Custom2('MyCharacterIntroduction', ROOT.Char)] surrounded by scrolls.\n\n"They are journals from long ago, are you interested in such things?"
- playdate.3014.desc:0 "I am exploring the local [ROOT.Char.GetFaith.HouseOfWorship] when I stumble across [priest.Custom2('MyCharacterIntroduction', ROOT.Char)|U] surrounded by scrolls.\n\n"They are journals from long ago, are you interested in such things?"
+ playdate.3014.desc_participant:0 "We are exploring the local [ROOT.Char.GetFaith.HouseOfWorship] when [participant.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and I stumble across [priest.Custom2('MyCharacterIntroduction', ROOT.Char)] surrounded by scrolls.\n\n"They are journals from long ago, are you interested in such things?""
+ playdate.3014.desc:0 "I am exploring the local [ROOT.Char.GetFaith.HouseOfWorship] when I stumble across [priest.Custom2('MyCharacterIntroduction', ROOT.Char)|U] surrounded by scrolls.\n\n"They are journals from long ago, are you interested in such things?""
  playdate.3014.a:0 "Yes! Teach me about them."
  playdate.3014.a.success:0 "You take to the art of journaling"
  playdate.3014.a.neutral:0 "You pick up on some things"

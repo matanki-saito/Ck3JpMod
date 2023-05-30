@@ -19,3 +19,5 @@
 
  TRAVEL_EVENT_WINDOW_CURRENT_LOCATION:0 "Currently in:"
  TRAVEL_EVENT_WINDOW_NEXT_DESTINATION:0 "Next destination: ~[TravelPlanData.GetNextDestination.GetEstimatedArrivalDate.GetTimeToDate]"
+ 
+ EVENT_CONTENT_SOURCE_TT:0 "This Event is from '[EventWindowData.GetContentSourceDlc.GetName|V]'"

@@ -138,7 +138,7 @@
  task_train_commanders_maa_boost_effect_desc:0 "[knight_effectiveness|E], [men_at_arms|E]' [damage|E] and [toughness|E]:\n$TAB$Increases by #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_monthly_increase')|1]%#!/month up to #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_max')|1]%#! (Currently: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_scale')|1]%#!)\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_base')|1]%#!"
  task_train_commanders_commander_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_erudition_bonus')|P]%#!"
  task_train_commanders_commander_family_business_bonus_desc:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_family_business_bonus')|P]%#!"
- task_train_commanders_acclaimed_knight_drills_hastiludes:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight] Drills [hastiludes]#!"
+ task_train_commanders_acclaimed_knight_drills_hastiludes:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight] Drills [GetTrait('tourney_participant').GetNameNoTooltip( GetNullCharacter )]#!"
  task_train_commanders_commander_learns_from_commander:1 "\n$EFFECT_LIST_BULLET$#P Commander Gains [commander_trait]#!"
  task_train_commanders_knight_improved:0 "\n$EFFECT_LIST_BULLET$#P [knight] Improved#!"
  task_train_commanders_commander_wounded:0 "\n$EFFECT_LIST_BULLET$#N Commander Wounded#!"

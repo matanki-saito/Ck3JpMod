@@ -90,6 +90,7 @@
  death_horse_riding_accident:0 "died in a horse riding accident"
  death_training_accident:0 "died in a training accident"
  death_ate_themselves_to_death:0 "ate [CHARACTER.GetHerselfHimself] to death"
+ death_tumultuous_guts:0 "died of a tumultuous gut brought on by rich food"
  death_hunting_accident:1 "fell from [CHARACTER.GetHerHis] horse while hunting"
  death_hunting_accident_killer:0 "was killed by [TARGET_CHARACTER.GetUIName] in a hunting accident"
  death_mysterious:0 "died under mysterious circumstances"
@@ -133,6 +134,7 @@
  death_attacked_killer:1 "was attacked and killed by [TARGET_CHARACTER.GetUIName]"
  death_feast_accident:0 "died when a feast went horribly wrong"
  death_fall:0 "fell to [CHARACTER.GetHerHis] death"
+ death_fell_bedchamber:0 "fell from the window of [CHARACTER.GetHerHis] bedchamber to [CHARACTER.GetHerHis] death"
  death_drowned:0 "drowned"
  death_poison:0 "was poisoned"
  death_poison_killer:0 "was poisoned by [TARGET_CHARACTER.GetUIName]"
@@ -216,6 +218,7 @@
  death_too_much_dessert:0 "died of a faint heart after eating too much dessert"
  death_too_much_dessert_killer:0 "was fed a dessert poisoned by [TARGET_CHARACTER.GetUIName]"
  death_choked:0 "choked on [CHARACTER.GetHerHis] food"
+ death_choked_pus:0 "choked on quincy-induced pus"
  death_spectator_injured:0 "was killed by an accident at a Tournament"
  death_drank_to_death:0 "drank [CHARACTER.GetHerselfHimself] into such a stupor that [CHARACTER.GetSheHe] died"
  death_coup_successful:0 "was killed during a successful palace coup"
@@ -253,9 +256,9 @@
  death_sacrificed_to_foreign_gods_killer:0 "was sacrificed to foreign gods by [TARGET_CHARACTER.GetUIName]"
  death_tournament_stands_collapsed:0 "was killed when [CHARACTER.GetHerHis] tournament stand collapsed"
 
- death_contest_duel_accident:0 "was accidentally in a tournament duel"
+ death_contest_duel_accident:0 "was accidentally killed in a tournament duel"
  death_contest_duel_accident_killer:0 "was accidentally killed by [TARGET_CHARACTER.GetUIName] in a tournament duel"
- death_contest_wrestling_accident:0 "was accidentally in a tournament wrestling bout"
+ death_contest_wrestling_accident:0 "was accidentally killed in a tournament wrestling bout"
  death_contest_wrestling_accident_killer:0 "was accidentally killed by [TARGET_CHARACTER.GetUIName] in a tournament wrestling bout"
  death_contest_board_game_accident:0 "was accidentally killed during a tournament board-game match"
  death_contest_board_game_accident_killer:0 "was accidentally killed by [TARGET_CHARACTER.GetUIName] during a tournament board-game match"
@@ -265,6 +268,12 @@
  
  death_murder_feast:0 "was killed during a feast"
  death_murder_feast_killer:0 "was killed during a feast by order of [TARGET_CHARACTER.GetUIName]"
+
+ death_courtier_mistakenly_stabbed:0 "was accidentally slain by a courtier during a scuffle"
+ death_courtier_mistakenly_stabbed_killer:0 "was accidentally slain by [TARGET_CHARACTER.GetUINamePossessive] hand during a scuffle"
+ death_violent_storm:0 "perished during the chaos of a violent storm"
+ death_apoplexy:0 "succumbed to fatal apoplexy"
+ death_run_over_cart:0 "was run over by a speeding cart"
 
  # HUNT
  death_deer:0 "was skewered on a stag's antlers"
@@ -287,6 +296,14 @@
  death_hunting_mistakenly_stabbed_killer:0 "was accidentally slain at [TARGET_CHARACTER.GetUINamePossessive] hand while hunting"
  death_hunting_mysterious:0 "died under mysterious circumstances while hunting"
  death_hunting_mysterious_killer:0 "was killed by [TARGET_CHARACTER.GetUIName] under mysterious circumstances while hunting"
+ death_slaughtered_by_guards:0 "was butchered by armed guards in a melee"
+ death_camp_fever:0 "passed from a sudden, virulent disease camping with [CHARACTER.GetHerHis] army"
+ death_march_malaise:0 "died suddenly of a minor illness when on the march"
+ death_froze:0 "froze to death"
+ death_heatstroke:0 "died of heatstroke"
+ death_assassinated_by_soldiers:0 "was assassinated by disgruntled soldiers"
+ death_cut_off_by_enemy_troops_offensive:0 "was slaughtered by enemy soldiers when advancing too far without support"
+ death_cut_off_by_enemy_troops_defensive:0 "was slaughtered by enemy soldiers during a chaotic retreat"
 
  # TRAVEL DANGER
  death_fallen_from_a_mountain:0 "has fallen from the mountain trail"

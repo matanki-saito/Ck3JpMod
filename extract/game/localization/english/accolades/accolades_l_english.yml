@@ -59,7 +59,7 @@
  ACCOLADE_ASSIGN_SUCCESSOR_ONLY_PRIMARY_TT:0 "$ACCOLADE_ASSIGN_SUCCESSOR_TT$\n@warning_icon! #X As they fulfill only Primary [accolade_type|e] requirements, [accolade_succession|e] will have increased [glory|e] loss and may replace the [accolade|e]'s Secondary Attribute#!"
  ACCOLADE_CANNOT_ASSIGN_SUCCESSOR_TT:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] does not fulfill the successor requirements of this [accolade|E] #!"
  CREATE_ACCOLADE_SET_PRIMARY_TYPE_TT:0 "#help Set this [accolade_type|E] as the $ACCOLADE_PRIMARY_TYPE$#!"
- CREATE_ACCOLADE_SET_SECONDARY_TYPE_TT:0 "help Set this [accolade_type|E] as the  $ACCOLADE_SECONDARY_TYPE$#!"
+ CREATE_ACCOLADE_SET_SECONDARY_TYPE_TT:0 "#help Set this [accolade_type|E] as the  $ACCOLADE_SECONDARY_TYPE$#!"
  ACCOLADE_CHANGE_PRIMARY_TYPE:0 "Change $ACCOLADE_PRIMARY_TYPE$"
  ACCOLADE_CHANGE_SECONDARY_TYPE:0 "Change $ACCOLADE_SECONDARY_TYPE$"
  CREATE_ACCOLADE_CANNOT_CHANGE_TYPES:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] does not fulfill the requirements of any other [accolade_types|E] than those currently selected #!"
@@ -188,9 +188,8 @@
  accolade_fearsome:0 "Fearsome"
  accolade_contender:0 "Contender"
 
- accolade_influences_regency:1 "$EFFECT_LIST_BULLET$[scales_of_power|E] Balancing Point: [EmptyScope.ScriptValue('accolade_scales_of_power_value')|-0]"
-
- accolade_influences_regency_high:1 "$EFFECT_LIST_BULLET$[scales_of_power|E] Balancing Point: [EmptyScope.ScriptValue('accolade_scales_of_power_value_high')|-0]"
+ accolade_influences_regency:2 "$EFFECT_LIST_BULLET$[entrenched_regency|E] [scales_of_power|E] Balancing Point: [EmptyScope.ScriptValue('accolade_scales_of_power_value')|-0]"
+ accolade_influences_regency_high:2 "$EFFECT_LIST_BULLET$[entrenched_regency|E] [scales_of_power|E] Balancing Point: [EmptyScope.ScriptValue('accolade_scales_of_power_value_high')|-0]"
 
 
  accolade_tour_end_bonus:0 "$EFFECT_LIST_BULLET$[grand_tours|E] boost [vassal|E] [levy|E] [modifier_base_contribution|E] and [siege_progress|E] against [revolts|E], after completion"

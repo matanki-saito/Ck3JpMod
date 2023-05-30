@@ -1471,6 +1471,11 @@
  INCREASED_CULTURAL_ACCEPTANCE_WITH:1 "Acceptance between the [CULTURE.GetCollectiveNoun] and the [TARGET_CULTURE.GetCollectiveNoun] has been increased by $VALUE|+^/%$"
  REDUCED_CULTURAL_ACCEPTANCE_WITH:1 "Acceptance between the [CULTURE.GetCollectiveNoun] and the [TARGET_CULTURE.GetCollectiveNoun] has been decreased by $VALUE|-^/%$"
 
+ REMOVE_CULTURAL_TRADITION:0 "Loses the [CULTURE_TRADITION.GetName] tradition"
+ ADD_CULTURAL_TRADITION:0 "Gains the [CULTURE_TRADITION.GetName] tradition"
+ REMOVE_CULTURAL_TRADITION_THIRD:0 "The [CULTURE.GetName] culture loses the [CULTURE_TRADITION.GetName] tradition"
+ ADD_CULTURAL_TRADITION_THIRD:0 "The [CULTURE.GetName] culture gains the [CULTURE_TRADITION.GetName] tradition"
+
  LEARN_LANGUAGE_OF_CULTURE_FIRST:1 "You learn the [TARGET_CULTURE.GetLanguage.GetName] [language|E]"
  LEARN_LANGUAGE_OF_CULTURE_THIRD:1 "[CHARACTER.GetShortUIName|U] learns the [TARGET_CULTURE.GetLanguage.GetName] [language|E]"
  LEARN_LANGUAGE_OF_CULTURE_GLOBAL:1 "Learns the [TARGET_CULTURE.GetLanguage.GetName] [language|E]"

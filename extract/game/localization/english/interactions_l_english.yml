@@ -302,7 +302,7 @@
  BANISH_TYRANNY_WARNING:0 "@warning_icon!#X This is an act of [tyranny|E], causing your subjects to lose #V [EmptyScope.ScriptValue('banishment_tyranny_gain')|0]#! [opinion|E] of you#!"
  REVOKE_TITLE_TYRANNY_WARNING:0 "@warning_icon!#X This is an act of [tyranny|E], causing your subjects to lose #V [EmptyScope.ScriptValue('revoke_title_tyranny_gain')|0]#! [opinion|E] of you#!"
  REVOKE_VASSAL_TYRANNY_WARNING:0 "@warning_icon!#X This is an act of [tyranny|E], causing your subjects to lose #V [EmptyScope.ScriptValue('revoke_vassal_tyranny_gain')|0]#! [opinion|E] of you#!"
- IS_ALLOWED_TO_IMPRISON_DESC:4 "[Select_CString( recipient.IsLocalPlayer, 'You', recipient.GetShortUIName )] [Select_CString( recipient.IsLocalPlayer, 'are', 'is' )] a known [criminal|E] #weak ([recipient.GetImprisonmentReasons( actor.Self )])#!, allowing [imprisoner.GetShortUIName] to imprison [Select_CString( recipient.IsLocalPlayer, 'you', recipient.GetShortUIName )] without being viewed as a [tyrant|E]"
+ IS_ALLOWED_TO_IMPRISON_DESC:4 "[Select_CString( recipient.IsLocalPlayer, 'You', recipient.GetShortUIName )] [Select_CString( recipient.IsLocalPlayer, 'are', 'is' )] a known [criminal|E] #weak ([recipient.GetImprisonmentReasons( actor.Self )])#!, allowing [imprisoner.GetShortUIName] to imprison [Select_CString( recipient.IsLocalPlayer, 'you', recipient.GetHerHim )] without being viewed as a [tyrant|E]"
  IS_ALLOWED_TO_EXECUTE_DESC:2 "[recipient.GetShortUIName|U] is a known [criminal|E] #weak ([recipient.GetExecuteReasons( actor.Self )])#!, allowing you to execute [recipient.GetHerHim] without being viewed as a [tyrant|E]"
  IS_ALLOWED_TO_EXECUTE_HOSTILE_RELIGION_DESC:2 "[victim.GetShortUINamePossessive|U] faith, [victim.GetFaith.GetName], is considered to be either $hostility_hostile_tooltippable$ or $hostility_evil_tooltippable$ by your faith, allowing you to execute [victim.GetHerHim] without being viewed as a [tyrant|E]."
  IS_ALLOWED_TO_IMPRISON_NO_RECIPIENT_DESC:2 "#weak As [Select_CString( imprisoner.IsLocalPlayer, 'I', imprisoner.GetShortUIName )] [Select_CString( imprisoner.IsLocalPlayer, 'have', 'has' )] a fair reason, no one will think [Select_CString( imprisoner.IsLocalPlayer, 'me', imprisoner.GetShortUIName )] a [tyrant|E]#!"
@@ -498,13 +498,13 @@
  BLACKMAIL_INTERACTION_PARANOID_ACCEPTANCE:0 "[recipient.GetSheHe|U] is Paranoid: $VALUE|=+0$"
 
  BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_ACTOR:0 "\nI know that [father.GetShortUIName] is not the real father of [secret_target.GetShortUIName], but that I am!"
- BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_OTHER:0 "\nI know that [father.GetShortUIName] is not the real father of [secret_target.GetShortUIName], and that [real_father.GetShortUIName] is!"
+ BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_OTHER:1 "\nI know that [father.GetShortUIName] is not the real father of [secret_target.GetShortUIName], and that [secret_target.GetRealFather.GetShortUIName] is!"
  BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_TARGET_ACTOR:0 "\nI know that you are not the [recipient.Custom('GetDaughterSon')] of [father.GetShortUIName], but that you are mine!"
- BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_TARGET_OTHER:0 "\nI know that [father.GetShortUIName] is not your true father, but that [real_father.GetShortUIName] is!"
+ BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_TARGET_OTHER:1 "\nI know that [father.GetShortUIName] is not your true father, but that [secret_target.GetRealFather.GetShortUIName] is!"
  BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_ACTOR:0 "\nI know that I am the true father of [secret_target.GetShortUIName]."
- BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_OTHER:0 "\nI know that [real_father.GetShortUIName] is the true father of [secret_target.GetShortUIName]."
+ BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_OTHER:1 "\nI know that [secret_target.GetRealFather.GetShortUIName] is the true father of [secret_target.GetShortUIName]."
  BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_TARGET_ACTOR:0 "\nI know that I am your true father."
- BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_TARGET_OTHER:0 "\nI know the identity of your true father, [real_father.GetShortUIName]!"
+ BLACKMAIL_NOTIFICATION_SECRET_UNMARRIED_ILLEGITIMATE_CHILD_TARGET_OTHER:1 "\nI know the identity of your true father, [secret_target.GetRealFather.GetShortUIName]!"
 
  # Communion Rite interaction Descs
  seek_indulgences_interaction:0 "Seek Indulgences"

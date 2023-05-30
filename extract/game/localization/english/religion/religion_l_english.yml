@@ -113,6 +113,7 @@
  faith_conversion_cost_conversion_blocked_till_decision_taken:0 "This [faith|E] must be unlocked via [decision|E]"
  faith_conversion_cost_conversion_blocked_till_nebulous_circumstances:0 "This [faith|E] must be unlocked through #EMP mysterious circumstances#!"
  faith_conversion_cost_unreformed_to_organized:0 "[GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faith|E] converting to an [organized|E] [faith]"
+ faith_reformation_via_decision:0 "This [faith|E] can only be reformed via [decision|E]"
 
  MINIMUM_FAITH_CONVERSION_PIETY_COST:0 "Minimum Cost: [GetLocalPlayerPietyTextIcon]$VALUE|V$"
 
@@ -242,6 +243,10 @@
  holy_site_kochi_effect_name:0 "From [holy_site|E] #weak ($holy_site_kochi_name$)#!"
  holy_site_manipur_name:0 "Manipur"
  holy_site_manipur_effect_name:0 "From [holy_site|E] #weak ($holy_site_manipur_name$)#!"
+ holy_site_hamadan_name:0 "Hamadan"
+ holy_site_hamadan_effect_name:0 "From [holy_site|E] #weak ($holy_site_hamadan_name$)#!"
+ holy_site_babylon_name:0 "Babylon"
+ holy_site_babylon_effect_name:0 "From [holy_site|E] #weak ($holy_site_babylon_name$)#!"
 
  #Holy Sites: Dualism
  holy_site_khozistan_name:0 "Khozistan"
@@ -892,6 +897,13 @@
  is_jewish_faith_name:0 "$special_doctrine_is_jewish_faith_name$"
  special_doctrine_is_jewish_faith_desc:0 "Not all among the gentility dwell in sin. There are those who respect God's chosen people, and these deserve a measure of our respect in turn."
  doctrine_parameter_hostility_override_tenet_jewish_syncretism:3 "Non-Jewish [faiths|E] with the $tenet_jewish_syncretism_name$ tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
+
+ prophecy_of_malachi_name:0 "The Prophecy of Malachi"
+ special_doctrine_not_allowed_to_hof_name:0 "Dismantled Priesthood"
+ not_allowed_to_hof_name:0 "$special_doctrine_not_allowed_to_hof_name$"
+ prophecy_of_malachi_desc:0 "Under traditional Jewish doctrine, a new High Priest can only be named either with the coming of the Prophet or if a descendant of Aaron fit to serve as priest is found."
+ special_doctrine_not_allowed_to_hof_desc:0 "The High Priesthood of this faith has been completely dismantled. Any attempts to name a High Priest would first require a thorough reconstruction of traditional church structure."
+ doctrine_parameter_block_from_create_hof_parameter:0 "This faith cannot recreate its [head_of_faith|E] under normal circumstances."
 
  special_doctrine_is_eastern_faith_name:0 "Multireligious Interweaving"
  is_eastern_faith_name:0 "$special_doctrine_is_eastern_faith_name$"
