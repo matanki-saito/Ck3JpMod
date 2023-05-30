@@ -449,3 +449,5 @@
  msg_diarchy_more_power_effect:0 "[scales_of_power|E]が新しいレベルに到達し、[LEFT_CHARACTER.GetLiege.GetDiarchTitle]はより多くの[diarch_powers|E]を利用できます"
  msg_diarchy_less_power_title:0 "[LEFT_CHARACTER.GetLiege.GetDiarchTitle]の権力が低下"
  msg_diarchy_less_power_effect:1 "[scales_of_power|E]が低いレベルに低下し、[LEFT_CHARACTER.GetLiege.GetDiarchTitle]の[diarch_powers|E]が減少しました"
+ grand_wedding_cancelled_by_regency_title: "Grand Wedding Cancelled"
+ grand_wedding_cancelled_by_regency_desc: "[diarch.GetTitledFirstName] became [diarch.GetLiege.GetTitledFirstNamePossessive] [regent|E] and can no longer attend [diarch.GetHerHis] [GetActivityType('activity_wedding').GetName] with [betrothed.GetTitledFirstName]"

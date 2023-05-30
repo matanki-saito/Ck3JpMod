@@ -111,3 +111,4 @@
  travel_progress_towards_trait_2_tt:0 "[THIS.Char.GetShortUINamePossessive][GetTrait('lifestyle_traveler').GetName( GetNullCharacter )][trait|E]の経験値が上がる"
  travel_progress_towards_trait_3_tt:0 "[THIS.Char.GetShortUINamePossessive][GetTrait('lifestyle_traveler').GetName( GetNullCharacter )][trait|E]の経験値が非常に上がる"
  travel_xp_gain_message:0 "[GetTrait('lifestyle_traveler').GetName( GetNullCharacter )]の経験値"
+ TRAVEL_NAME_FOR_activity_witch_ritual:0 "$TRAVEL_NAME_FOR_activity_tournament$"

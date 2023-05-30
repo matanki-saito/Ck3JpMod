@@ -58,7 +58,7 @@
  ACTIVITY_PLANNER_CHANGE_LOCATION_TT:0 "#T 場所を変える#!"
  ACTIVITY_PLANNER_CHANGE_SPECIAL_GUEST_TT:1 "#I クリックして特別な客人を表示\n右クリックで特別な客人をクリア#!"
  ACTIVITY_PLANNER_CHANGE_REQUIRED_SPECIAL_GUEST_TT:0 "#T 必要な特別な客人\n#!@warning_icon!#X この活動には[ActivitySpecialGuest.GetType.GetNameForHost]が必要です#!"
- ACTIVITY_PLANNER_OPTION_TT:0 "#T [ActiveActivityOption.GetOption.GetName]#weak ([ActiveActivityOption.GetCategory.GetName]レベル[Add_int32( ActiveActivityOption.GetOption.GetIndexInCategory, '(int32)1' )]#!#!\n[ActiveActivityOption.GetOption.GetDescription]"
+ ACTIVITY_PLANNER_OPTION_TT:0 "#T [ActiveActivityOption.GetOption.GetName]#weak ([ActiveActivityOption.GetCategory.GetName]レベル[Add_int32( ActiveActivityOption.GetOption.GetIndexInCategory, '(int32)1' )])#!#!\n[ActiveActivityOption.GetOption.GetDescription]"
  ACTIVITY_DESTINATION_HEADER:0 "目的地"
  ACTIVITY_DESTINATION_TRAVEL_TIME:0 "移動時間：@time_icon![TravelPlanData.GetNextDestination.GetEstimatedArrivalDate.GetTimeDiffFromNow]"
  ACTIVITY_DESTINATION_TOTAL_TRAVEL_TIME:0 "合計移動時間：@time_icon![TravelPlanData.GetFinalDestination.GetEstimatedArrivalDate.GetTimeDiffFromNow]"

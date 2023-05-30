@@ -391,7 +391,7 @@
  wedding_religious_complaints_log_title:0 "$ep2_wedding.1190.t$"
  ep2_wedding.1200.t:0 "[ROOT.Char.GetMotherFather|U]の想い"
  ep2_wedding.1200.desc:0 "ついにこの日がやってきた。立派な[my_child.Custom('GetBrideGroom')]である[my_child.GetFirstName]をこれ以上になく誇らしく思う！\n\n「[my_child.GetSheHe]を見ろよ！#EMP 輝いていないか#!？」「しかもとってもお似合いではないか」「全てが完璧だなぁ！」\n隣席から不服そうな賞賛の声が耳に入る。"
- ep2_wedding.1200.desc_interest:0 "\n\nようやく振り向いたとき、隣席の人物が[listener.GetTitledFirstName]であることに気づいた。この機会を活かすことができる…"
+ ep2_wedding.1200.desc_interest:0 "\n\nようやく振り向いたとき、隣席の人物が他でもない[listener.GetTitledFirstName]であることに気づいた。この機会を活かすことができる…"
  ep2_wedding.1200.desc_generic:0 "\n\n私の側では、[listener.GetTitledFirstName]がただ丁寧に微笑んでいる。"
  ep2_wedding.1200.a:0 "ただただ誇らしい"
  ep2_wedding.1200.b:0 "嫉妬か？"

@@ -18,3 +18,4 @@
  TOGGLE_DEBUG_OPTION_TOOLTIPS:0 "#T Show option tooltips#!\nDisplay all options next to the event window (global setting)"
  TRAVEL_EVENT_WINDOW_CURRENT_LOCATION:0 "現在地:"
  TRAVEL_EVENT_WINDOW_NEXT_DESTINATION:0 "次の目的地まで: ~[TravelPlanData.GetNextDestination.GetEstimatedArrivalDate.GetTimeToDate]"
+ EVENT_CONTENT_SOURCE_TT:0 "This Event is from '[EventWindowData.GetContentSourceDlc.GetName|V]'"

@@ -37,7 +37,7 @@
  ACTIVITY_LIST_DETAIL_JOIN_PHASES_HEADER:0 "[activity_phases|E]"
  ACTIVITY_LIST_DETAIL_JOIN_LOCATION:0 "$ACTIVITY_CURRENT_LOCATION$の開催"
  ACTIVITY_LIST_DETAIL_JOIN_TRAVEL_TIME:0 "移動時間: #V ~[GetTimeDifferenceWithDays( ActivityListDetailJoinView.GetEstimatedTravelTime )]#!"
- ACTIVITY_LIST_INVITATION:0 "[Activity.GetHost.Custom2( 'AppropriateGreeting', GetPlayer )]\n[Activity.GetHost.Custom2('GetInviteToActivityFlavor', GetPlayer)]"
+ ACTIVITY_LIST_INVITATION:1 "[Activity.GetHost.Custom2( 'AppropriateGreeting', GetPlayer )]\n[Activity.GetHost.Custom2('GetInviteToActivityFlavor', GetPlayer)][Activity.GetHost.Custom2('GetTournamentPrizeFlavor', GetPlayer)]"
  ACTIVITY_LIST_INVITATION_SIGNATURE:0 "署名\n#font:TitleFont [Character.GetUINameNoTooltip]#!"
  ACTIVITY_LIST_DETAIL_JOIN_DEPARTURE_TIME:0 "[ActivityListDetailJoinView.GetLatestDepartureDate.GetTimeToDate|V]以内に出発しないと間に合いません！"
  ACTIVITY_LIST_DETAIL_JOIN_REQUIRED_SPECIAL_GUEST:0 "[ActivitySpecialGuestType.GetNameForGuest]であるため、[activity|E]はあなたが来るまで待ってくれるでしょう"

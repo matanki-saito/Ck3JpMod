@@ -96,7 +96,7 @@
  ep2_tournament_mena:0 "アラビアのトーナメント"
  ep2_tournament_tribal:0 "部族のトーナメント"
  ep2_tournament_western:0 "西洋のトーナメント"
- contest_bg_melee:0 "団体戦トーナメント"
+ contest_bg_melee:1 "Melee Tournament"
  contest_bg_archery:0 "アーチェリートーナメント"
  contest_bg_horseracing:0 "競馬トーナメント"
  contest_bg_boardgames:0 "ボードゲームトーナメント"

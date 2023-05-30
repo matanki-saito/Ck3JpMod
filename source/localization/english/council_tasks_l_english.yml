@@ -400,6 +400,6 @@
  minimum_conversion:0 "最小#low (0.10)#!"
  task_martial_good_acclaimed_knight_notification_tooltip:0 "これは栄光ある[acclaimed_knight]により引き起こされた"
  task_train_commanders_acclaimed_knight_levy_captaincy:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は差し押さえの準備をする#!"
- task_train_commanders_acclaimed_knight_drills_hastiludes:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は[hastiludes]を鍛える#!"
+ task_train_commanders_acclaimed_knight_drills_hastiludes:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は[GetTrait('tourney_participant').GetNameNoTooltip( GetNullCharacter )]を鍛える#!"
  task_increase_control_acclaimed_knight_subdues_peasantry:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は地元の農民を屈服させる#!"
  STEWARD_PROMOTE_CULTURE_DIVERGENT_VS_PARENTS_BONUS_MODIFIER:0 "新しく出来た[divergent_culture|E]は親の[culture|E]を置換します"

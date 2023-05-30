@@ -54,7 +54,7 @@
  COA_DESIGNER_EMBLEM_INSTANCES_TAB_HEADER:0 "エンブレム"
  COA_DESIGNER_EMBLEM_INSTANCES_PANEL_HEADER:0 "エンブレム"
  COA_DESIGNER_EMBLEM_INSTANCES_ALL_BUTTON:0 "全て"
- COA_DESIGNER_EMBLEM_INSTANCES_PAGE:0 "[CoatOfArmsDesignerPagedEmblemInstances.GetCurrentPage]/[CoatOfArmsDesignerPagedEmblemInstances.GetMaxPage]"
+ COA_DESIGNER_EMBLEM_INSTANCES_PAGE:1 "[PagedContainerData.GetCurrentPage]/[PagedContainerData.GetMaxPage( GetDataModelSize( CoatOfArmsDesignerEmblemInstancesPanel.GetAllEmblemInstances ) )]"
  COA_DESIGNER_EMBLEM_TEXTURES:0 "テクスチャ"
  COA_DESIGNER_EMBLEM_INSTANCE_SELECT_ALL:0 "#I クリックで全て選択\n右クリックで全て解除#!"
  COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT:0 "#I クリックで選択\nShift+クリックで選択を切り替え#!"

@@ -30,4 +30,5 @@
  ep1_decision.0201.c:1 "[scholarly_linguist.GetNameNoTooltip]は名高い[target_court_language.GetCourtLanguage.GetNameNoTooltip]の専門家だ！"
  ep1_decision.0201.d:0 "私は[cheap_linguist.GetNameNoTooltip]は実際にはタダ働きしてくれるだろうことを知っている！"
  ep1_decision.0201.e:0 "考え直そう…"
- learn_court_language_toast_title:1 "[target_court_language.GetCourtLanguage.GetName]教師を採用しました"
+ learn_court_language_toast_title:1 "[target_court_language.GetCourtLanguage.GetName]の教師を採用しました"
+ ep1_decision.0201.tt.aptitude:0 "[selected_linguist.GetUINamePossessive]の[aptitude|E]が[selected_linguist.GetCourtPositionAptitude( GetCourtPositionType( 'court_tutor_court_position' ) )]"

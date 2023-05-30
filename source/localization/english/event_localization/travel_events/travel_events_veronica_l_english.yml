@@ -128,7 +128,7 @@
  travel_events.3030.c.success:0 "あなたは留まるよう[fleeing_knight.GetHerHim]を説得する"
  travel_events.3030.c.failure:0 "あなたは言葉選びに失敗する"
  travel_events.3030.d:0 "我々の宮廷には、二人を迎えるのに十分な部屋がある。"
- travel_events.3030.e:0 "[foreign_lady_scope.GetHerHis|U]の目は確かに美しく、[foreign_lady_scope.GetHerHis]の髪はとても柔らかそうだ…"
+ travel_events.3030.e:0 "[foreign_lady_scope.GetHerHis|U]の目は美しく、[foreign_lady_scope.GetHerHis]の髪は柔らかげで…"
  travel_events.3030.f:0 "愛が#EMP 憎い#!。彼らの首を刎ねろ。"
  travel_events.3040.t:0 "$travel_event_prefix$ 危険な興味"
  travel_events.3040.desc:1 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に到達して以来、毎朝、[bishop.Custom2('MyCharacterIntroduction', ROOT.Char)]は[bishop.GetHerHis]のわらを残し、静かに私の視界から消えていく。今回こそ[bishop.GetHerHis]の行く先を見つけ出そうと決心した私は、[bishop.GetHerHim]が地元の[foreign_bishop.Custom('GetActualBishopTitle')][foreign_bishop.GetFirstName]と活発に話をしている姿を見つける。\n\n式典が始まり、蝋燭の光が[foreign_bishop.GetFirstNameNoTooltip]を照らし、壁に影が紅葉のように浮かび上がる。「[bishop.GetFirstNameNoTooltip]」礼拝が終わった後、私は彼を呼ぶ。「何をしているんだ？」\n\n「閣下、真実とは一つではないのかもしれませんね。」"
