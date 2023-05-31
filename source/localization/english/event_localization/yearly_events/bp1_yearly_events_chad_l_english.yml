@@ -7,7 +7,7 @@
  bp1_yearly.3001.c.tt:0 "あなたと[friend.GetFirstNameNoTooltip]は、友情と陽気な騒ぎを優先して金を浪費します"
  bp1_yearly.3001.d:0 "「君はもう少し余裕があるのでは？」"
  bp1_yearly.3002.t:0 "窮乏の友人"
- bp1_yearly.3002.desc:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]の[friend.GetTitledFirstNameNoTooltip]を訪ねた。すると、ここ[friend.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の様子が以前とすっかり変わっていることに気付いた。\n\nいつもの[friend.GetSheHe|U]なら、[friend.Custom('GetExpensiveDrink')]や[friend.Custom('GetExpensiveDessert')]でのもてなしがあった。しかし今日は、ひとかけらのパンくずさえどこにも無く、ただ一杯の水がテーブルを彩るだけであった。\n\n何かつらい目にあっているのか。そう尋ねる。うつむいたまま、影も色濃くこう答えた：「君にはわからないよ、ここからが正念場だなんて…」"
+ bp1_yearly.3002.desc:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]の[friend.GetTitledFirstNameNoTooltip]を訪ねた。すると、ここ[friend.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の様子が以前とすっかり変わっていることに気付いた。\n\nいつもの[friend.GetSheHe|U]なら、[friend.Custom('GetExpensiveDrink')]や[friend.Custom('GetExpensiveDessert')]でのもてなしがあった。しかし今日は、ひとかけらのパンくずさえどこにも無く、ただ一杯の水がテーブルを彩るだけであった。\n\n何かつらい目にあっているのか。そう尋ねる。うつむいたまま、影も色濃くこう答えた: 「君にはわからないよ、ここからが正念場だなんて…」"
  bp1_yearly.3002.a:0 "出来得る限りの援助をせねば。"
  bp1_yearly.3002.b:0 "「ええと、そろそろ帰らないといけないんだよ…」"
  bp1_yearly.3002.b.tt:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]の窮状を見なかったことにします"

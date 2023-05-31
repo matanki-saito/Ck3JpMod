@@ -8,7 +8,7 @@
  stewardship_wealth.1001.b.givehook:0 "[wealthy_vassal.GetTitledFirstNameNoTooltip]が助けてくれるなら、[wealthy_vassal.GetSheHe]に借りが出来るだろう。"
  stewardship_wealth.1001.c:0 "我が封臣に貢物を要求する！"
  stewardship_wealth.1001.c.tt:0 "封臣すべて:"
- stewardship_wealth.1001.d:1 "Confiscate religious property to raise funds."
+ stewardship_wealth.1001.d:1 "資金調達の為に宗教的財産を没収する。"
  stewardship_wealth.1001.e:0 "ベルトを引き締めて出来る限りの貯蓄をしよう。"
  stewardship_wealth.1011.t:0 "貨幣の新造"
  stewardship_wealth.1011.desc:0 "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の至る所で流通する硬貨を決定することは私の権利であり責任である。\n\n私の決断はその硬貨がどのように——引いては私の領国がどのように——世界中に見られるかを決めるだろう。"

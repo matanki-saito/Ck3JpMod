@@ -453,7 +453,7 @@
  health.1003.court_amenities_gout.desc:0 "我が宮廷は、豪華で容赦ない食事で有名だ。私が満腹を感じ始めたとき、我々の多くも、執拗な痛みに備える必要があるかもしれないということに気づいた。"
  health.3001.a.tt:1 "[GetCourtPositionType('court_physician_court_position').GetName()]として、月給[gold_i][SCOPE.ScriptValue('court_position_physician_salary')]を支払います"
  health.1001.b:0 "#EMP すぐに#!家に帰らねば！"
- health.travel.t:0 "[SCOPE.Custom('EventTitleDisease')]：旅の終わり？"
+ health.travel.t:0 "[SCOPE.Custom('EventTitleDisease')]: 旅の終わり？"
  health.travel.option.home:0 "自宅で最高のケアを受けることができる"
  health.travel.option.home.flavor:0 "あなたは[ROOT.Char.GetInvolvedActivity.GetNameNoTooltip]を放棄し、家路につく"
  health.travel.option.continue:0 "我々は頑張らねばならない。"

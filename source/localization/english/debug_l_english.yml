@@ -268,7 +268,7 @@
  start_bout_interaction_board_game_fidchell:0 "フィトヘル"
  change_cultural_acceptance_debug_interaction:0 "文化受容を変える"
  set_relation_debug_lover_secret:0 "#color_yellow 愛人#!#weak （秘密）#!"
- do_a_crime_embezzle_interaction:0 "犯罪：横領"
+ do_a_crime_embezzle_interaction:0 "犯罪: 横領"
  do_a_crime_embezzle_interaction_desc:0 "彼らの必要量を上回る"
  do_a_crime_embezzle_interaction_steal_x1:0 "1枚盗む"
  do_a_crime_embezzle_interaction_steal_x100:0 "100枚盗む"

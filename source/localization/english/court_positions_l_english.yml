@@ -264,7 +264,7 @@
  has_a_completed_inspiration:0 "以前に[inspiration|E]を完了させている"
  COURT_POSITIONS_YOUR_SALARY:0 "$COURT_POSITION$"
  does_not_have_a_full_time_job:0 "すでに常勤の[court_position|E]または[councillor|E]に雇用されて#bold いない#!こと"
- APPOINT_COURT_POSITION_VIEW_salary_per_travel:0 "旅を始める時の給料：[Character.GetTravelLeaderCost|U]"
+ APPOINT_COURT_POSITION_VIEW_salary_per_travel:0 "旅を始める時の給料: [Character.GetTravelLeaderCost|U]"
  APPOINT_COURT_POSITION_VIEW_COURTIER_SORT_TRAVEL_SPEED:0 "旅のスピード"
  APPOINT_COURT_POSITION_VIEW_COURTIER_SORT_TRAVEL_SAFETY:0 "旅の安全性"
  COURT_POSITION_FOR_EMPLOYER:0 "[CourtPosition.GetEmployer.GetUINameNoTooltip]のため"

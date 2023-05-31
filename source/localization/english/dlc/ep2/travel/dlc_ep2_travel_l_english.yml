@@ -12,7 +12,7 @@
  TRAVEL_SAFETY:1 "[travel_safety|E]"
  TRAVEL_PLAN_TOOLTIP_DESC:0 "[TravelPlan.GetData.GetNextDestination.GetProvince.GetName]への旅路 [SelectLocalization( TravelPlan.GetData.GetActivity.IsValid , 'TRAVEL_PLAN_TOOLTIP_ACTIVITY_DESC', '' )]\n$BULLET_WITH_TAB$現在地: [TravelPlan.GetData.GetCurrentLocation.GetName]\n$BULLET_WITH_TAB$到着予定日: [TravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate.GetTimeDiffFromNow]\n\n[SelectLocalization( TravelPlan.GetData.GetTravelLeader.IsValid, 'TRAVEL_PLAN_TOOLTIP_LEADER_DESC', '')]@travel_speed_icon! [TravelPlan.GetData.GetSpeedMultiplierAsPercentage]% [travel_speed|E]\n@travel_safety_icon! [TravelPlan.GetData.GetSafetyValue|0] [travel_safety|E]"
  TRAVEL_PLAN_TOOLTIP_ACTIVITY_DESC:0 "[TravelPlan.GetData.GetActivity.GetName()]のための"
- TRAVEL_PLAN_TOOLTIP_LEADER_DESC:0 "[GetCourtPositionType('travel_leader_court_position').GetNameNoTooltip()]：[TravelPlan.GetData.GetTravelLeader.GetName()]\n"
+ TRAVEL_PLAN_TOOLTIP_LEADER_DESC:0 "[GetCourtPositionType('travel_leader_court_position').GetNameNoTooltip()]: [TravelPlan.GetData.GetTravelLeader.GetName()]\n"
  TRAVEL_BASE_SPEED:0 "移動速度の基礎値"
  TRAVEL_BASE_SAFETY:0 "安全性の基礎値"
  TRAVEL_SPEED_BREAKDOWN_TITLE:1 "旅の移動速度"

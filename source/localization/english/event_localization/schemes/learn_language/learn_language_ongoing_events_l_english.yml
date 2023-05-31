@@ -108,7 +108,7 @@
  easily_read_fables_modifier:0 "すらすら読める物語集"
  seemingly_feeble_minded_modifier:0 "見かけは暗愚"
  seemingly_feeble_minded_modifier_desc:0 "この人物は童話を読んでいる姿をよく目撃されている。その結果、未だに精神が成熟していないのではとの印象が付いた。"
- learn_language_ongoing.1120.b.tt:0 "#V [insensitive_asshole.GetFirstName]の出過ぎた真似を咎めるため、#V 決闘を行います#!\n#weak これは「死を賭けない」決闘です#!\n勝利すると、[prestige_i][prestige|E]と[scheme|E]への[modifier|E]を獲得します。敗北すると、笑い者になります。\n\nあなたの[prowess|E]：[prowess_i]#V [root_for_loc.GetProwess]#!\n[insensitive_asshole.GetFirstNamePossessive][prowess|E]: [prowess_i]#V [insensitive_asshole.GetProwess]#!"
+ learn_language_ongoing.1120.b.tt:0 "[insensitive_asshole.GetFirstName]の出過ぎた真似を咎めるため、#V 決闘を行います#!\n#weak これは「死を賭けない」決闘です#!\n勝利すると、[prestige_i][prestige|E]と[scheme|E]への[modifier|E]を獲得します。敗北すると、笑い者になります。\n\nあなたの[prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[insensitive_asshole.GetFirstNamePossessive][prowess|E]: [prowess_i]#V [insensitive_asshole.GetProwess]#!"
  learn_language_ongoing.1121.trigger_failure:0 "私の[insensitive_asshole.GetFirstNameNoTooltip]との決闘は無効になる"
  learn_language_ongoing.1123.t:0 "$learn_language_ongoing.1120.t$"
  learn_language_ongoing.1123.desc:0 "「降参です！お許しを。あなたは知恵遅れでは決してありません！何卒！」[insensitive_asshole.GetTitledFirstName]がそう叫ぶ。\n\n#EMP 私を#!侮辱すればどうなるか、これで伝わっただろう！"

@@ -215,7 +215,7 @@
  learning_scholarship.6000.t:0 "数文字の[illiterate.GetWomanMan|U]"
  learning_scholarship.6000.desc:0 "このように、[teacher.Custom2('HerHisCharacterIntroduction',illiterate)]の最善の努力にも関わらず、[illiterate.GetName]は村の愚か者と同じ程度の読み書きしか出来ないままだった。\n\n「もっとも賢明にして悟りし[ROOT.Char.GetTitleTierName]よ」[teacher.GetFirstNameNoTooltip]は媚びへつらいながら言った。「我が主君が読み書きを学ぶようにするには、どうすればよいでしょう？」"
  learning_scholarship.6000.willing_pupil:0 "\n\n[teacher.GetSheHe|U]はため息をつき、憤慨した。\n\n「[illiterate.GetTitleAsNameNoTooltip]は、読書のためだけに[illiterate.GetHerselfHimself]の時間を費やしたくはない、と…」"
- learning_scholarship.6000.holy_book_insult:0 "\n\n[teacher.GetSheHe|U]は躊躇し、つぶやく：\n\n「[illiterate.GetFaith.ReligiousText]の最初の聖行で悪戦苦闘なさったのちに[illiterate.GetTitleAsNameNoTooltip]がおっしゃったのは…神聖でも悟り#EMP でも#!無かったと…」"
+ learning_scholarship.6000.holy_book_insult:0 "\n\n[teacher.GetSheHe|U]は躊躇し、つぶやく。\n\n「[illiterate.GetFaith.ReligiousText]の最初の聖行で悪戦苦闘なさったのちに[illiterate.GetTitleAsNameNoTooltip]がおっしゃったのは…神聖でも悟り#EMP でも#!無かったと…」"
  learning_scholarship.6000.poetry_insult:0 "\n\n教師はニヤニヤした。\n\n「もっとも優雅な[illiterate.GetCulture.GetNameNoTooltip]の詩に悪戦苦闘したあとで[illiterate.GetTitledFirstNameNoTooltip]が言うには…優雅でも悟り#EMP でも#!無かった…」"
  learning_scholarship.6000.very_willing_pupil:0 "\n\n[teacher.GetSheHe|U]は私の貯め込んだ知識を示した。\n\n「[illiterate.GetTitleTierName]は、苦労して一千行読んでも、あなたのように知識を得られないことを恐れています」"
  learning_scholarship.6000.a:0 "私の[illiterate.GetCouncilTitle]には、遠い民族についての詳細が必要だ。"

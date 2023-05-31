@@ -74,7 +74,7 @@
  SETTING_MAP_HIGHLIGHT_TOOLTIP:0 "#T $SETTING_MAP_HIGHLIGHT$#!\n地図上のカーソルのハイライトの強さを決定します"
  SETTINGS_DISCARD_CHANGES:0 "変更を破棄"
  SETTING_HUD_SKIN:0 "HUDスキン"
- hud_skin_auto:0 "Dynamic"
+ hud_skin_auto:0 "ダイナミック"
  default:0 "デフォルト"
  iberian:0 "イベリア"
  Norse:0 "Norse"

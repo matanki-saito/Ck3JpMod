@@ -1,6 +1,6 @@
 ﻿l_english:
- poi_special_buildings.visit:0 "Visited the [province.GetHolding.GetSpecialBuildingType.GetName]"
- poi_capitals.visit:0 "Visited the capital of the [province.GetTitle.GetDeFactoTopLiege.GetBaseName]"
- poi_mausoleum_at_halicarnassus.visit:0 "Visited the Mausoleum at Halicarnassus"
- poi_lighthouse_of_alexandria.visit:0 "Visited the Lighthouse of Alexandria"
- poi_grand_city.visit: "Visited the Great City of [province.GetName]"
+ poi_special_buildings.visit:0 "[province.GetHolding.GetSpecialBuildingType.GetName]を訪れた"
+ poi_capitals.visit:0 "[province.GetTitle.GetDeFactoTopLiege.GetBaseName]の首都に到着した"
+ poi_mausoleum_at_halicarnassus.visit:0 "ハリカルナッソスの霊廟を訪れた"
+ poi_lighthouse_of_alexandria.visit:0 "アレクサンドリアの灯台を訪れた"
+ poi_grand_city.visit: "[province.GetName]の偉大な都市を訪れた"

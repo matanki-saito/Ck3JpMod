@@ -3,7 +3,7 @@
  ACCOLADE:0 "アコレード"
  ACCOLADES:0 "アコレード"
  CREATE_ACCOLADE:0 "叙勲の作成"
- CREATE_ACCOLADE_CONFIRM:0 "この敬称を授与することは#high あなた#!の[acclaimed_knight|E]の[opinion|e]を増加させます。\n\nコスト：#high $COST$#!"
+ CREATE_ACCOLADE_CONFIRM:0 "この敬称を授与することは#high あなた#!の[acclaimed_knight|E]の[opinion|e]を増加させます。\n\nコスト: #high $COST$#!"
  CREATE_ACCOLADE_CONFIRM_ACCEPT:0 "$CREATE_ACCOLADE$"
  CREATE_ACCOLADE_COST:0 "#T $CREATE_ACCOLADE$#!\nあなたの$knight_culture_player_no_tooltip$の[accolade_types|e]はあなたに恩恵をもたらし、その効果は[glory|E]に応じて増えていきます。\n\nコスト：#high $COST$#!"
  CREATE_ACCOLADE_EMPTY_TYPE:0 "叙勲の後継者がいない"
