@@ -199,7 +199,7 @@
  tournament_events.1250.favor_tt:0 "[favor_recipient.GetUIName] receives your favor"
  tournament_favor_accepted_title:0 "Favor Accepted"
  tournament_favor_rejected_title:0 "Favor Rejected"
- tournament_favor_accepted_desc:0 "[THIS.Char.GetSheHe|U] accepts your favor"
+ tournament_favor_accepted_desc:0 "[THIS.Char.GetSheHe|U]はあなたの情熱を受け入れた"
  tournament_favor_rejected_desc:0 "[THIS.Char.GetSheHe|U] rejects your favor"
  tournament_events.1251.t:0 "$tournament_events.1250.t$"
  tournament_events.1251.discrete:0 "In a moment of relative calm, away from the main grounds of the tournament, I find myself alone with my [favor_recipient.Custom2('RelationToMe', favor_giver)], [favor_giver.GetTitledFirstName], whose mischievous look is hard to resist.\n\n"

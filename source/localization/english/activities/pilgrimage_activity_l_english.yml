@@ -49,5 +49,5 @@
  apa_donated_to_holy_site_temple_title:0 "[first.GetShortUIName|U] Donated Funds for the Preservation of the [province.GetNameNoTooltip] Holy Sites"
  apa_tended_to_travellers_title:0 "[first.GetShortUIName|U] Tended to Other Travelers in [province.GetNameNoTooltip]"
  apa_spiritual_journey_title:0 "[first.GetShortUIName|U]と[second.GetShortUIName|U]は霊的な旅を共有することで絆を深めた"
- every_pilgrimage_entourage_character:0 "Every Activity Guest"
+ every_pilgrimage_entourage_character:0 "すべての活動の客人"
  apa_overcome_with_emotion_title:0 "Overcome with Religious Emotion, [first.GetShortUIName|U] Fell into Tears"

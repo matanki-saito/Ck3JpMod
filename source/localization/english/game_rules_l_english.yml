@@ -355,7 +355,7 @@
  rule_random_harm_target:0 "ランダムHarmターゲット"
  setting_random_harm_boilerplate:0 "ランダムに[characters|E]を殺したり、無力化したり、[health|E]を傷つけるイベントが発生する可能性があります。"
  setting_harm_target_all:0 "誰でも"
- setting_harm_target_all_desc:0 "どの$game_concept_character$も$setting_random_harm_boilerplate$"
+ setting_harm_target_all_desc:0 "どの$game_concept_character$にも、$setting_random_harm_boilerplate$"
  setting_harm_target_player_only:0 "プレイヤーのみ"
  setting_harm_target_player_only_desc:0 "プレイヤーにのみ、$setting_random_harm_boilerplate$"
  setting_harm_target_ai_only:0 "AIのみ"
