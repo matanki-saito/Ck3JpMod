@@ -360,6 +360,6 @@
  murder_outcome.1002.opening_travel:0 "私の部下が、[target.GetTitledFirstName]が現在、いくつかの荒野を通り[province.GetName]へ向かう旅に出ていることを聞きつけた。\n\n$murder_outcome.1002.d$"
  murder_outcome.1007.travel:0 "[target.GetTitledFirstName]はいま、[province.GetName]のどこかで船に乗っている。"
  murder_outcome.1007.desc_ending_travel:0 "\n\nもし、私の部下が燃えやすい液体を船材に染み込ませ、唯一のボートで脱出しながら船に火を放ったとしたら悲劇だ……そうすれば確実に、[target.GetFirstNamePossessiveNoTooltip]は側近とともに死ぬことになる。"
- every_entourage_member:0 "[target.GetTitledFirstNamePossessiveNoTooltip]の側近のすべてのメンバー："
+ every_entourage_member:0 "[target.GetTitledFirstNamePossessiveNoTooltip]の側近のすべてのメンバー: "
  murder_outcome.5001.sunken_boat_travel:1 "広い海で船に乗っていると、突然空から炎の矢がこちらに向かって降り注いできた！\n\nその矢は重い#EMP ブスッ#!という音ともに命中し、瞬く間に船全体が炎に包まれ、私は冷たい海中に身を投げた。服は重く、身体を水中に引きずり込もうとするが、私は泳ごうとし、なにかにしがみつこうとし、#EMP 呼吸#!しようとする…"
  murder_unknown_murder_against_you_was_successful_other:0 "#X [THIS.Char.GetShortUIName]は不明な暗殺者によって暗殺されました！#!"

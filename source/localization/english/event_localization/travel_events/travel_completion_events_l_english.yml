@@ -12,4 +12,4 @@
  travel_completion_event.1000.b:1 "旅路は刺激的だが、帰路もまた乙なのだよ。"
  cultural_ambassador_cultural_acceptance_gain_desc:0 "文化使節との旅"
  cultural_ambassador_toast.t:0 "[cultural_ambassador.GetFirstNameNoTooltip]は文化受容度を増加させます"
- cultural_ambassador_option.tt:0 "あなたの文化使節の影響：\n$EFFECT_LIST_BULLET$あなたが訪れた全ての[culture|E]と[SCOPE.GetRootScope.GetCharacter.GetCulture.GetName]の[cultural_acceptance|E]が#positive_value +1%#!上昇します"
+ cultural_ambassador_option.tt:0 "あなたの文化使節の影響: \n$EFFECT_LIST_BULLET$あなたが訪れた全ての[culture|E]と[SCOPE.GetRootScope.GetCharacter.GetCulture.GetName]の[cultural_acceptance|E]が#positive_value +1%#!上昇します"

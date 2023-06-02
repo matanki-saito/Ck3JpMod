@@ -63,4 +63,4 @@
  middle_east_decisions.0007.desc.intro:0 "There has not been a Kohen – a High Priest of Judaism — since the Romans destroyed the Second Temple roughly a thousand years ago. At long last, this position has been filled, and the High Priesthood reconstituted.\n\n"
  middle_east_decisions.0007.desc.me:0 "As an influential and pious leader of Jewish people, the priestly class have of course determined that I am the best candidate to lead the Jewish religion into a new era. Though I lack the traditional blood of Aaron required to be Kohen Gadol, priests and laymen alike celebrate my ordainment as head of the High Priesthood."
  middle_east_decisions.0007.desc.not_me:0 "Like the Jewish priests of ancient times, the Kohen Gadol was traditionally required to be a descendant of Aaron, the older brother of Moses. Due to a lack of suitable candidates, this requirement has been waived, but the new High Priest still enjoys the respect of the [ROOT.Char.GetFaith.GetAdjective] religious communities."
- middle_east_decisions.0007.a.me:0 "My leadership will inspire us all!"
+ middle_east_decisions.0007.a.me:0 "私の指導が皆を鼓舞するであろう！"

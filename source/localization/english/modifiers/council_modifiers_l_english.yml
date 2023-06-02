@@ -144,4 +144,4 @@
  chancellor_task_bestow_royal_favor_vassal_modifier:0 "王家の恩寵を与えられた"
  chancellor_task_bestow_royal_favor_vassal_boosted_modifier:0 "$chancellor_task_bestow_royal_favor_vassal_modifier$"
  task_bestow_royal_favor_prestige_modifier:0 "王家の恩寵の授与"
- task_domestic_affairs_parochial_opinion_moidifier:0 "[domestic_affairs|E] ([GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName])"
+ task_domestic_affairs_parochial_opinion_moidifier:0 "[domestic_affairs|E]([GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName])"

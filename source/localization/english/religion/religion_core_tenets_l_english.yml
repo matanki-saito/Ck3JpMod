@@ -292,4 +292,4 @@
  tenet_anusim:0 "アヌシーム"
  tenet_esotericism_kabbalah:0 "カバラ"
  tenet_esotericism_kabbalah_desc:0 "カバラの教えは、永遠の神、アイン・ソフとして知られる無限の性質と、神の創造物との関係を定命の者たちに理解させるものだ。カバラは、ユダヤ教の神秘学の根底を成すもので、カバラの実践者たちは、しばしば他のユダヤ教諸派との関わりを持つ。"
- tenet_religious_kabbalah_cost_tooltip:0 "カバラ：#P -10％#!"
+ tenet_religious_kabbalah_cost_tooltip:0 "カバラ: #P -10％#!"

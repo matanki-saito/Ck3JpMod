@@ -12,7 +12,7 @@
  diarchies.0000.diarch_fails_to_skim_mandate.t:1 "[liege.GetDiarchTitle|U] fails to skim from [mandate|E]"
  diarchies.0000.diarch_rejects_mandate.t:1 "[liege.GetDiarchTitle|U]は[personality_trait|E]のために[mandate|E]を拒否"
  diarchies.0000.diarch_lax_with_mandate.t:1 "[liege.GetDiarchTitle|U]が[mandate|E]の義務を回避"
- diarchies.0000.diarch_mandate_fail.tt.obtain_gold.liege:0 "[diarch.GetSheHe|U] tried to obtain you [gold|E]"
+ diarchies.0000.diarch_mandate_fail.tt.obtain_gold.liege:0 "[diarch.GetSheHe|U]はあなたに[gold|E]を手に入れさせようとした"
  diarchies.0000.diarch_mandate_fail.tt.obtain_gold.split:0 "[diarch.GetSheHe|U]はあなたたちのために[gold|E]を手に入れようとした"
  diarchies.0000.diarch_mandate_fail.tt.obtain_gold.self:0 "[diarch.GetSheHe|U]は自身のために[gold|E]を手に入れようとした"
  diarchies.0000.diarch_mandate_fail.tt.acquire_character.liege:0 "[diarch.GetSheHe|U] tried to obtain you a [courtier|E]"

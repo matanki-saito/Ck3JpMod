@@ -18,7 +18,7 @@
  death_management.1001.dislike:0 "己の子供を愛するのは[ROOT.Char.Custom('MotherFather')]の義務ではないだろうか？しかし私は[dead_character.GetFirstNamePossessive]の死を嘆くことができない。私がどこかで間違っていたに違いない、[dead_character.GetHerHim]にけして許されざる道を歩ませてしまったのだ。ただ、[dead_character.GetSheHe]がそうなったのは私の責任かもしれないが、もはや過去のことなのだ。結局のところは。"
  death_management.1001.a:0 "[dead_character.GetSheHe|U]はこんな目に遭うべきではなかった。"
  death_management.1001.c:0 "後悔するには遅すぎた。"
- death_management.1001.d:0 "安らかに眠れ、[dead_character.GetFirstNameNoTooltip]。"
+ death_management.1001.d:0 "安らかに眠れ、我が[dead_character.GetFirstNameNoTooltip]。"
  death_management.1004.t:0 "残る虚しさ"
  death_management.1004.desc:0 "君が私に手足を絡めてきた時、いつも鮮烈な体の感覚を感じていた。同じような存在感が今もベッドにある。だが、これは君ではなく、[dead_character.GetFirstName]、君が残した苦悩と切望だ。日中は自分のことで頭が一杯だ。だが、ここでは、君の記憶が鮮明なここでは、逃げ場はない。"
  death_management.1004.a:0 "この痛みはいつになったら消えるのだ？"

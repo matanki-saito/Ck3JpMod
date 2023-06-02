@@ -247,7 +247,7 @@
  debug_9601.b:0 "犬が"
  debug_9601.c:0 "うーん、ねこ"
  debug_9601.d:0 "動物やない"
- change_tournament_score:0 "トーナメントの得点を変える"
+ change_tournament_score:0 "競技会の得点を変える"
  score_massive:0 "#P 増やす#!"
  score_major:0 "#P 増やす#!"
  score_medium:0 "#P 増やす#!"

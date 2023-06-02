@@ -910,7 +910,7 @@
  trait_disloyal:0 "不忠"
  trait_disloyal_desc:0 "多くの人が「関係」を見るところに、この人物は「機会」を見る。"
  trait_disloyal_character_desc:0 "多くの人が「関係」を見るところに、[ROOT.GetCharacter.GetFirstNameNoTooltip]は「機会」を見る。"
- TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE:0 "Requires [TraitLevelTrackEntry.GetXpRequired|V0]+ [trait_level_track_xp|E]\n[TraitLevelTrackEntry.GetModifierDescription( Character.Self )][AddLocalizationIf( GreaterThan_int32( TraitLevelTrackEntry.GetLevel, '(int32)1' ), 'MODIFIER_PREVIOUS_LEVELS_APPLY_NEWLINE' )]"
+ TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE:0 "[TraitLevelTrackEntry.GetXpRequired|V0]以上の[trait_level_track_xp|E]が必要\n[TraitLevelTrackEntry.GetModifierDescription( Character.Self )][AddLocalizationIf( GreaterThan_int32( TraitLevelTrackEntry.GetLevel, '(int32)1' ), 'MODIFIER_PREVIOUS_LEVELS_APPLY_NEWLINE' )]"
  TRAIT_LEVEL_TRACK_ENTRY_DESC:2 "#V レベル[TraitLevelTrackEntry.GetLevel]#!\n$TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE$"
  TRAIT_LEVEL_TRACK_ENTRY_DESC_TT:0 "\n\n#S レベル[TraitLevelTrackEntry.GetLevel]#!\n$TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE$"
  TRAIT_LEVEL_TRACK_TT:2 "#T [TraitLevelTrack.GetName]#!\n現在のレベル: [Character.GetTraitTrackLevel( Trait.Self, TraitLevelTrack.Self )|V]#weak ([ComplexBar.GetCurrentValue][trait_level_track_xp|E])#!\n#flavor [TraitLevelTrack.GetDescription]#![AddLocalizationIf( GreaterThan_int32( TraitLevelTrackEntry.GetLevel, '(int32)0' ), 'TRAIT_LEVEL_TRACK_ENTRY_DESC_TT' )]"

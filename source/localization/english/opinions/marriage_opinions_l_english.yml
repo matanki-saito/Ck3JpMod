@@ -16,7 +16,7 @@
  stole_concubine_opinion:0 "私の[concubine|E]を奪った"
  same_sex_with_no_acceptance_opinion:0 "同性との関係を強要した"
  former_same_sex_with_no_acceptance_opinion:0 "かつて同性との関係を強要されたことがある人物"
- married_lowborn_opinion:0 "[liege|E] married [lowborn|E] Spouse"
+ married_lowborn_opinion:0 "[liege|E]が[lowborn|E]の配偶者と結婚した"
  broke_betrothal_grand_wedding_opinion:0 "グランドウエディングの婚約を破棄した"
  prestigious_wedding_opinion:0 "[liege|E] will hold a Grand Wedding"
  non_prestigious_wedding_opinion:0 "[liege|E] will not hold a Grand Wedding"

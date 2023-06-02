@@ -1,5 +1,5 @@
 ﻿l_english:
- personal_scheme_ongoing.1000.t:0 "[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]：異国風の贈り物"
+ personal_scheme_ongoing.1000.t:0 "[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]: 異国風の贈り物"
  personal_scheme_ongoing.1000.desc:0 "今や[scheme_to_apply_gift_to.GetTarget.GetTitledFirstName]に対する[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]の計画がある、巡礼中に買った異国風の贈り物を[scheme_to_apply_gift_to.GetTarget.GetHerHim]に贈ることを考えるべきかもしれません。"
  personal_scheme_ongoing.1000.desc_gift:0 "[ROOT.Var('6540_exotic_wares_gift').GetProvince.GetName]。"
  personal_scheme_ongoing.1000.desc_super_gift:0 "[ROOT.Var('6540_exotic_wares_super_gift').GetProvince.GetName]。"

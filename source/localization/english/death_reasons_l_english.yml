@@ -212,7 +212,7 @@
  death_too_much_dessert:0 "デザートの食べすぎでぶっ倒れて死んだ"
  death_too_much_dessert_killer:0 "[TARGET_CHARACTER.GetUIName]に毒入りデザートを食べさせられて死んだ"
  death_choked:0 "[CHARACTER.GetHerHis]の食べ物で窒息した"
- death_spectator_injured:0 "トーナメントで事故死した"
+ death_spectator_injured:0 "競技会で事故死した"
  death_drank_to_death:0 "死ぬほど飲んで死んだ"
  death_coup_successful:0 "宮廷のクーデターで殺された"
  death_coup_successful_killer:0 "[TARGET_CHARACTER.GetUIName]に$death_coup_successful$"

@@ -692,7 +692,7 @@
  hunt.2530.t:0 "[sighting_county.GetNameNoTierNoTooltip]の[sighting_province.GetTitle.GetDeJureLiege.Custom('GetAnimalPlural')|U]"
  hunt.2530.opening_master:0 "My Master Falconer, [sighting_character.GetTitledFirstName], enters my chambers brimming with excitement.\n\n"
  hunt.2530.opening_falconer:0 "My [ROOT.Char.Custom2('RelationToMe', sighting_character)], [sighting_character.GetTitledFirstName], known for [sighting_character.GetHerHis] interest in falconry, enters my chambers brimming with excitement.\n\n"
- hunt.2530.desc:0 "\"I am hearing much talk from [sighting_county.GetNameNoTier]: it is said there are excellent prospects for hunting thereabouts, with many a worthy [sighting_county.Custom('GetAnimalType')] seen roaming the [sighting_province.Custom('GetTerrainTypePlural')]!\""
+ hunt.2530.desc:0 "「私が[sighting_county.GetNameNoTier]について聞いた話は以下の通りであります。[sighting_county.Custom('GetAnimalType')]が[sighting_province.Custom('GetTerrainTypePlural')]にて大量に目撃されており、狩りの機会としてはこの上ないものでしょう。」"
  hunt.2540.t:0 "From Here to There"
  hunt.2540.desc:1 "\"My [ROOT.Char.GetLadyLord], your gamemasters report that the abundant [sighting_county.Custom('GetAnimalPlural')] of [old_sighting_county.GetBaseNameNoTier] seem to have moved off those parcels and into the [sighting_county.GetName]!\""
  hunt.2540.legendary:0 "\"My [ROOT.Char.GetLadyLord], your gamemasters report that the [sighting_county.Custom('GetLegendaryColor')] [sighting_county.Custom('GetAnimalType')] of [old_sighting_county.GetBaseNameNoTier] disappeared for a while before being spotted in nearby [sighting_county.GetBaseNameNoTier]!"

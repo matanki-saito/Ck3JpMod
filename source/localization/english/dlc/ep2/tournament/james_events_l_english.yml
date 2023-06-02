@@ -12,5 +12,5 @@
  flower:0 "花"
  wreath:0 "花冠"
  ring:0 "指輪"
- soulmate_tournament:0 "[CHARACTER.GetShortUIName|U]はトーナメント中に[TARGET_CHARACTER.GetShortUINameNoTooltip]の求愛を獲得した"
- soulmate_tournament_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]はトーナメント中に[CHARACTER.GetShortUINameNoTooltip]の求愛を獲得した"
+ soulmate_tournament:0 "[CHARACTER.GetShortUIName|U]は競技会の間に[TARGET_CHARACTER.GetShortUINameNoTooltip]の求愛を獲得した"
+ soulmate_tournament_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は競技会の間に[CHARACTER.GetShortUINameNoTooltip]の求愛を獲得した"

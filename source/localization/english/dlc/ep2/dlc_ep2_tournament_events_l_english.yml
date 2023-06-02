@@ -425,7 +425,7 @@
  ep2_tournament_events.4006.desc:0 "二頭の馬は速歩を始める。私の槍はいつもの位置まで引き下げられ始めるが、対戦相手の[versus_contestant.GetFirstName]には同じ動きが見られない。その代わり、[versus_contestant.GetHerHis]の槍は私から離れ、明後日の方向に向けられていた。\n\n「慈悲の棄権」は、ジョストに詳しい人間には良く知られている。棄権は、意図的に相手から外れた所を狙うことで、仕切り直しをしたいという合図になる。その要求に従うことが、対戦相手への敬意の表れとなるのだ。\n\nもちろん、それは相手の願いを#EMP 理解#!した場合のみだが…"
  ep2_tournament_events.4006.a:0 "たやすい勝利は望むところではない。"
  ep2_tournament_events.4006.a.tt:0 "[versus_contestant.GetFirstNamePossessiveNoTooltip]の慈悲の棄権を尊重する。"
- ep2_tournament_events.4006.b:0 "なんと、私は彼の願いに気づかなかったようだ！"
+ ep2_tournament_events.4006.b:0 "なんと、私は相手の願いに気づかなかったようだ！"
  ep2_tournament_events.4006.b.tt:0 "槍を動かすな。"
  ep2_tournament_events.4007.t:1 "$tournament_versus_header$運命と馬丁"
  ep2_tournament_events.4007.desc:0 "慌ただしく手綱をさばきながら、[versus_contestant.GetFirstName|U]が馬に乗って私のそばを歩く。傍らで足を引きずっているのは[versus_contestant.GetHerHis]の馬丁だ。[groom.GetSheHe|U]は驚くほどのボロをまとい、その布地の縫い目はほつれている。\n\n「お前の名は何だっけ、我が[groom.GetWomanMan]よ？」[groom.GetSheHe|U]は驚いて顔を上げるが、主君と馬は[groom.GetHerHim]抜きで歩いていく。\n\n「[groom.GetFirstName]でございます、我が[ROOT.Char.GetLadyLord]」返事の途中で、私の馬を世話するパリッとした身なりの同輩に、[groom.GetHerHis]の羨望の眼差しが向けられたのに気づいた。"

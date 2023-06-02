@@ -1,6 +1,6 @@
 ﻿l_english:
  relation_upgrade.0001.t:0 "大会でのトラブル"
- relation_upgrade.0001.desc.opening:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として、私は地方の[ROOT.Char.Custom('MartialTournamentAdjective')]の大会に参加することになったのだが、出場者が遅れている——少なくともあと一時間は大会が始まりそうにない。\n\n"
+ relation_upgrade.0001.desc.opening:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として、私は地方の[ROOT.Char.Custom('MartialTournamentAdjective')]の競技会に参加することになったのだが、出場者が遅れている——少なくともあと一時間は大会が始まりそうにない。\n\n"
  relation_upgrade.0001.desc.rival:0 "[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U]はここにいて、いつものように横柄な態度を取っている。[rival.GetHerHis|U]が不満ばかり言っていることで、#EMP いつも以上に#!皆を惨めなものにさせてしまう。"
  relation_upgrade.0001.desc.friend:0 "周りを見回すと、近くのテントの下に退屈そうに座る[friend.Custom2('MyCharacterIntroduction', ROOT.Char)|U]の姿が見える。"
  relation_upgrade.0001.desc.lover:0 "周りを見渡すと、[lover.Custom2('MyCharacterIntroduction', ROOT.Char)]が[lover.GetHerselfHimself]の観覧席のそばに座り、かなり寂しそうな顔をしているのに気づく。"

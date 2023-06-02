@@ -36,7 +36,7 @@
  host_gains_steward_xp_title:0 "$activity_pulse_action_host_gains_steward_xp$"
  activity_pulse_action_host_gains_steward_xp:0 "[first.Custom('RegionalDrink')|U] Vendors Praise [first.GetShortUINameNoTooltip|U]"
  host_gains_intrigue_xp_title:0 "$activity_pulse_action_host_gains_intrigue_xp$"
- activity_pulse_action_host_gains_intrigue_xp:1 "[first.GetShortUINameNoTooltip|U] Sweet-talk[_s(first)] [second.GetShortUINameNoTooltip|U]"
+ activity_pulse_action_host_gains_intrigue_xp:1 "[first.GetShortUINameNoTooltip|U]は[second.GetShortUINameNoTooltip|U]をおだてる"
  ridiculed_food_title:0 "$activity_pulse_action_ridiculed_food$"
  activity_pulse_action_ridiculed_food:1 "[first.GetShortUINameNoTooltip|U] Lambast[_s(first)] the Quality of the [root_scope.Custom('GetExpensiveMeal')|U]"
  guest_tells_fantastic_joke_title:0 "$activity_pulse_action_guest_tells_fantastic_joke$"

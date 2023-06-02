@@ -240,7 +240,7 @@
  artifact_history_ransomed_title:0 "[HISTORY_ENTRY.GetDate.GetString]"
  artifact_history_ransomed_desc:0 "[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]によって買い戻された"
  ARTIFACT_CREATOR:0 "制作主: [Artifact.GetCreator.GetName]"
- tournament_prize_creation:0 "トーナメントの賞品"
+ tournament_prize_creation:0 "競技会の賞品"
  tournament_prize_won:0 "大会で勝ち取った"
  artifact_bowl:0 "ボウル"
  artifact_plate:0 "皿"
