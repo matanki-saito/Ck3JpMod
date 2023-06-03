@@ -73,7 +73,7 @@
  liege_local_benevolence_title:0 "$activity_pulse_action_liege_local_benevolence$"
  activity_pulse_action_liege_local_benevolence:0 "慈悲深い存在"
  liege_intimidated_courtier_title:0 "$activity_pulse_action_liege_intimidated_courtier$"
- activity_pulse_action_liege_intimidated_courtier:0 "Courtiers intimidated"
+ activity_pulse_action_liege_intimidated_courtier:0 "廷臣たちは脅迫された"
  liege_visited_benevolence_title:0 "$activity_pulse_action_liege_visited_benevolence$"
  activity_pulse_action_liege_visited_benevolence:0 "[second.GetBaseNameNoTooltip]の開発度が上昇"
  levied_tax_title:0 "$activity_pulse_action_levied_tax$"

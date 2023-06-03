@@ -154,6 +154,6 @@
  religious_decision.0501.d:0 "[ROOT.Char.GetFaith.GetNameNoTooltip] is the one true faith, and the [ROOT.Char.GetCulture.GetCollectiveNounNoTooltip] are [ROOT.Char.GetFaith.HighGodNamePossessive] messengers."
  religious_decision.0503.t:0 "ヘブライ語"
  religious_decision.0503.desc:0 "As the most influential ruler of [hebrew_language_adopter_scope.GetCulture.GetName] culture, and a ruler of a vast Jewish realm, [hebrew_language_adopter_scope.GetName] has decreed that Hebrew is now both the liturgical and common language of the [hebrew_language_adopter_scope.GetCulture.GetNameNoTooltip] people!\n\nHebrew has been the liturgical language of the Jewish faith for millennia, but now that [hebrew_language_adopter_scope.GetNameNoTooltip] rules over a Jewish majority, the need to use other languages in everyday life is diminishing. Though not all [hebrew_language_adopter_scope.GetCulture.GetNameNoTooltip] people practice the Jewish faith, it will likely only take a generation or two before all are speaking the Hebrew language."
- religious_decision.0503.a.jewish:0 "L'chaim!"
+ religious_decision.0503.a.jewish:0 "人生に乾杯を！"
  religious_decision.0503.a.non_jewish:0 "I'd better start practicing."
- religious_decision.0503.b:0 "I can't speak this strange language!"
+ religious_decision.0503.b:0 "こんな変な言語は話せない！"

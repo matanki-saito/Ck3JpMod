@@ -176,7 +176,7 @@
  pet_animal.2004.desc:0 "\n\n[ROOT.Char.Custom('DogStorySheHe')]が近づいてくると[ROOT.Char.Custom('DogStoryHerHis')]の口に滴る血と血糊が見ることができる。意気消沈して[ROOT.Char.Custom('DogStorySheHe')]が来たところへ歩みを進めると、すぐに私の猫[ROOT.Char.Custom('CatStoryName')]の動かなくなった体に出会う。"
  pet_animal.2004.a:0 "あぁ、なんてことだ…[ROOT.Char.Custom('DogStoryName')]、どうしてそんなことをする？"
  pet_animal.2005.desc_opening:0 "[ROOT.Char.Custom('CatStoryName')]も[ROOT.Char.Custom('DogStoryName')]も見つけることができない。[ROOT.Char.Custom('ResidenceBuilding')]とその周辺を探し回るが、誰も彼らを見掛けていない。\n\n"
- pet_animal.2005.desc:0 "引き返そうとしたちょうどそのとき、私は地面に小さな血溜まりを見つけた。次から次へ、また次から次へと…これを辿っているうちに私は血だらけの毛皮の山に至ったー二つの引き裂かれた死体が大地の上で絡み合っていた。彼らが誰であるかは間違えようがない。"
+ pet_animal.2005.desc:0 "引き返そうとしたちょうどそのとき、私は地面に小さな血溜まりを見つけた。次から次へ、また次から次へと…これを辿っているうちに私は血だらけの毛皮の山に至った——二つの引き裂かれた死体が大地の上で絡み合っていた。彼らが誰であるかは間違えようがない。"
  pet_animal.2005.a:0 "どうして仲良く出来ないんだ？！"
  pet_animal.2006.desc:0 "振り返ろうとした瞬間、彼らを見つけた――地面にくったりと横たわっていた。ああ、ついに…しかし、近づくと[ROOT.Char.Custom('CatStoryNamePossessive')]の頭が動き出し、その疲れた目で私を見ると、すぐに眠りにもどる。"
  pet_animal.2006.a:0 "ああ、彼らは…ほんとに上手くやったんだな！"

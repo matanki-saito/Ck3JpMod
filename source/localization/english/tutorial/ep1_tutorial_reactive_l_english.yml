@@ -15,7 +15,7 @@
  lessons_ep1_hybrid_culture_benefits:0 "混合文化の恩恵"
  lessons_ep1_hybrid_culture_benefits_desc:0 "混合文化を形成することには、いくつかの恩恵があります。\n\n$EFFECT_LIST_BULLET$親文化の双方から[culture_pillars|E]や[culture_traditions|E]を選ぶことができるようになります\n$EFFECT_LIST_BULLET$新しい文化は、親文化の双方からすべての[innovations|E]を継承します\n$EFFECT_LIST_BULLET$新しい文化は、親文化の双方へ高い文化受容度を持ちます\n$EFFECT_LIST_BULLET$混合文化は形成後しばらくの間、親文化の土地をより早く転向させることができます"
  action_reactive_advice_royal_court:0 "$open_tutorial_lesson$$ra_rc_intro$"
- action_reactive_advice_royal_court_desc:0 "王宮の紹介の為、王宮を開く"
+ action_reactive_advice_royal_court_desc:0 "ここを開いて、王宮の紹介を始めましょう"
  action_reactive_advice_royal_court_click:0 "$click_to_open_lesson$"
  ra_rc_intro:0 "王宮"
  ra_rc_intro_desc:2 "自分の[royal_court|E]を利用できるようになりました！\n\n王宮は、あなたが世界の舞台へ堂々と立つことを象徴する特別な宮廷であり、多くの新しい選択肢や恩恵を利用できます。\n\n[GetGovernment( 'feudal_government' ).GetName]、[GetGovernment( 'clan_government' ).GetName][government|E]、[GetGovernment( 'tribal_government' ).GetName]の[kings|E]と[emperors|E]が王宮を利用できます。"

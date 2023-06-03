@@ -30,7 +30,7 @@
  action_close_family_can_marry_combined_group_name:1 "@cs_arrange_marriage_icon!近親者が結婚可能です"
  action_close_family_can_marry_combined_group_label:2 "@cs_arrange_marriage_icon!家族の一員が結婚可能です"
  action_close_family_can_marry_combined_group_description:2 "[close_family|E]の何人かは結婚する資格があります。\n\n#help [marriages|E]を手配すれば[dynasty|E]の利益になり新しい[alliances|E]を結ぶことができるかもしれません。#!"
- action_close_family_can_marry_combined_label:3 "Your [actor.Custom2('RelationToMe', recipient)], [recipient.GetShortUINameNoTooltip], [recipient.GetAge] #low [recipient.Custom2('GetSuccessionLinePositionCurrentSituation', actor)]"
+ action_close_family_can_marry_combined_label:3 "あなたの[recipient.GetAge]歳の[actor.Custom2('RelationToMe', recipient)]である[recipient.GetShortUINameNoTooltip]#low [recipient.Custom2('GetSuccessionLinePositionCurrentSituation', actor)]"
  action_can_take_concubine:1 "@concubine_icon!側室が少なすぎます"
  action_can_take_concubine_label:0 "$action_can_take_concubine$"
  action_can_take_concubine_desc:2 "あなたは現在、あなたの階級における[concubines|E]の人数を満たしていないようです。\n\n#help より多くの[concubines|E]を娶ることで、現在苦しんでいる[prestige|E]のペナルティを無効にします。#!"

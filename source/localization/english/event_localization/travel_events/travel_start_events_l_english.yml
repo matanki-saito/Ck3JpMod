@@ -144,7 +144,7 @@
  travel_start_event.1051.desc: "has been invited to a gathering of peers by [host.GetTitledFirstName]."
  travel_start_event.1051.single: "\n\n[child_1.GetSheHe|U] is packed and ready, and clearly excited to leave for [host.GetCapitalLocation.GetNameNoTooltip]."
  travel_start_event.1051.multiple: "\n\nThey are packed and ready, and clearly excited to leave for [host.GetCapitalLocation.GetNameNoTooltip]."
- travel_start_event.1051.a_cynical: "Very well..."
+ travel_start_event.1051.a_cynical: "いいだろう…"
  travel_start_event.1051.a: "Have a good time, [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))]!"
  travel_start_event.1051.a.multiple: "Have a good time, children!"
  travel_start_event.1051.b: "I think not!"

@@ -1056,7 +1056,7 @@
  trait_track_falconer_xp_gain_mult:0 "Falconer #weak ([GetTrait('lifestyle_hunter').GetName( GetNullCharacter )])#! [trait_level_track_xp|E] Gain"
  tourney_participant_xp_gain_mult:0 "[GetTrait('tourney_participant').GetName( GetNullCharacter )]の[trait_level_track_xp|E]を獲得"
  trait_track_foot_xp_gain_mult:0 "野戦#weak ([GetTrait('tourney_participant').GetName( GetNullCharacter )])#!の[trait_level_track_xp|E]を獲得"
- trait_track_bow_xp_gain_mult:0 "弓術#weak [GetTrait('tourney_participant').GetName( GetNullCharacter )])#!の[trait_level_track_xp|E]を獲得"
+ trait_track_bow_xp_gain_mult:0 "弓術#weak ([GetTrait('tourney_participant').GetName( GetNullCharacter )])#!の[trait_level_track_xp|E]を獲得"
  trait_track_horse_xp_gain_mult:0 "馬術#weak ([GetTrait('tourney_participant').GetName( GetNullCharacter )])#!の[trait_level_track_xp|E]を獲得"
  trait_track_wit_xp_gain_mult:0 "教養#weak ([GetTrait('tourney_participant').GetName( GetNullCharacter )])#!の[trait_level_track_xp|E]を獲得"
  trait_track_lifestyle_blademaster_xp_gain_mult:0 "[GetTrait('lifestyle_blademaster').GetName( GetNullCharacter )]の[trait_level_track_xp|E]"

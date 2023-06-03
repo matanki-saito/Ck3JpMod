@@ -262,5 +262,5 @@
  petition_liege.9001.construct_temple:0 "Fund a new temple in my realm."
  petition_liege.9001.development:0 "Resettle some of their subjects in my realm."
  petition_liege.9001.fallback:0 "Simply fill my coffers."
- petition_liege.0101.accept.fallback:0 "Very well, your coffers shall be filled."
+ petition_liege.0101.accept.fallback:0 "よろしい、あなたの金庫はいっぱいになるでしょう。"
  petition_liege_costs_refunded:0 "$petition_liege_decision$ costs refunded"

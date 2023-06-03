@@ -60,7 +60,7 @@
  game_concept_personal_artifact_claim_desc:2 "$game_concept_personal_artifact_claim$とは、個人に属する[artifact_claim|E]です。それと対照になるのが[house_artifact_claim|E]となります。\n\n宝物所有者が死亡すると、その子供が、親の有していた宝物全てに対する請求権を取得します。\n\n[siege|E]や[raid|E]によって宝物を奪われることでも、奪われた宝物への請求権を取得します。\n\n宝物の請求権の継承は、決して発生しません。"
  game_concept_house_artifact_claim:0 "宝物の家伝請求権"
  game_concept_house_artifact_claims:0 "宝物の家伝請求権"
- game_concept_house_artifact_claim_desc:1 "ある[artifact|E]を長期間に渡り所有していると、その宝物に対して[house|E]全体として[artifact_claim|E]を入手することになります。これを$game_concept_house_artifact_claim$と言います。\n\nあなたの家の一員が特定の宝物を持っていない場合に限り、$game_concept_house_artifact_claim$の行使が可能となります。\n\n[cadet_branch|E]が派生する際、派生した家のメンバーが有する既存の家伝請求権のいくつかは、派生した家へと移行します。"
+ game_concept_house_artifact_claim_desc:1 "ある[artifact|E]を長期間に渡り所有していると、その宝物に対して[house|E]全体として[artifact_claim|E]を入手することになります。これを$game_concept_house_artifact_claim$と言います。\n\nあなたの家の一員が当該の宝物を持っていない場合に限り、$game_concept_house_artifact_claim$の行使が可能となります。\n\n[cadet_branch|E]が新設される際、新分家に属するメンバーが有する既存の家伝請求権はどれも、そのまま新分家へと移行します。"
  game_concept_court_position:0 "宮廷職"
  game_concept_court_positions:0 "宮廷職"
  game_concept_court_position_desc:2 "$game_concept_court_positions$とは、[liege|E]を補助する目的で、[courtiers|E]や[vassals|E]に与えるられる特別な役割のことです。\n\n$game_concept_court_positions$から得られる利益の数々は、各職を務める人物の[aptitude|E]によって決まります。\n\n$game_concept_court_positions$への登用に制限はありません。しかし、月給として[gold|E]を支払わねばなりません。また、解任には[prestige|E]が必要です。"

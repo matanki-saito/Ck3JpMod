@@ -63,7 +63,7 @@
  commission_epic.1001.a:0 "良いものが欲しい！ #EMP 今すぐ#!にでも欲しい！"
  commission_epic.1001.b:0 "終わるまで[ROOT.Char.Custom2('CommissionEpicComposerThem', composer)]に出資しよう。"
  commission_epic.1001.b_scribes:0 "終わるまで[ROOT.Char.Custom('CommissionEpicComposerThem')]に出資しよう。"
- commission_epic.1001.c:0 "さて、すでにできているところをPart１に分けてみると…"
+ commission_epic.1001.c:0 "さて、すでにできているところをパート1に分けてみると…"
  commission_epic.1002.t:0 "一族の叙事詩: 豊富すぎる材料"
  commission_epic.1002.composer:0 "[composer.GetTitledFirstName]は、[powerful_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)]に[composer.GetSheHe]が私の先祖について発見したいくつかの刺激的な詳細について話している。「さて、私は[ROOT.Char.Custom('CompositionDetail')]の部分は事実だと信じます、なぜなら——」\n\n確かにそれは魅力的なのだが、[composer.GetSheHe]は壮大な[ROOT.Char.Custom('CompositionType')]を完成させていないのだろうか？さて、この変わった逸話に関しては…"
  commission_epic.1002.scribes:0 "書記官の数人は、私の先祖について発見したいくつかの刺激的な詳細について[powerful_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)]に語っている。\n\n「さて、[ROOT.Char.Custom('CompositionDetail')]の部分は、実際にあったかもしれないと私は信じます、なぜなら——」\n\n確かに魅力的ではあるが、彼らは壮大な[ROOT.Char.Custom('CompositionType')]を完成させるつもりなのだろうか？さて、この変わった逸話に関しては…"
