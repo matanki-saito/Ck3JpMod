@@ -616,7 +616,7 @@
  action_accolade_successor_available_combined_group_description:0 "Appointing the eligible Successors will prevent each of these from becoming an [inactive_accolade|e] on [accolade_succession|e].$action_accolade_successor_available_HELP$"
  action_empty_accolade_slot:1 "@acclaimed_knight_icon! 叙勲を作成できます"
  action_empty_accolade_slot_label:1 "@acclaimed_knight_icon! 叙勲を作成できます"
- action_empty_accolade_slot_desc:1 "You are below your maximum number of [accolades|E] and one of your [knights|e] can be appointed as an [acclaimed_knight|e].$action_empty_accolade_slot_HELP$"
+ action_empty_accolade_slot_desc:1 "あなたは[accolades|E]の最大数に達しておらず、あなたの[knights|e]に[acclaimed_knight|e]$action_empty_accolade_slot_HELP$として任命可能な者が居ます。"
  action_empty_accolade_slot_HELP:1 "\n\n#help Unless there is an [inactive_accolade|E] you'd like to reinstate instead, you should consider paying a [prestige|e] cost to create a new Accolade.#!"
  action_empty_accolade_slot_unimportant:1 "@warning_icon! #X The Knight may also be a valid Successor for an existing Accolade"
  action_empty_accolade_slot_click:0 "#I クリックであなたの騎士を表示#!"

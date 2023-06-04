@@ -62,7 +62,7 @@
  holy_site_santiago_effect_name:0 "[holy_site|E]#weak ($holy_site_santiago_name$)#!から"
  holy_site_kent_name:0 "カンタベリー"
  holy_site_kent_effect_name:0 "[holy_site|E]#weak ($holy_site_kent_name$)#!から"
- holy_site_segrada_familia_name:0 "大聖堂が建設中"
+ holy_site_segrada_familia_name:0 "建設中の大聖堂"
  holy_site_segrada_familia_effect_name:0 "[holy_site|E] #weak ($holy_site_segrada_familia_name$)#!から"
  holy_site_constantinople_name:0 "コンスタンティノープル"
  holy_site_constantinople_effect_name:0 "[holy_site|E]#weak ($holy_site_constantinople_name$)#!から"
