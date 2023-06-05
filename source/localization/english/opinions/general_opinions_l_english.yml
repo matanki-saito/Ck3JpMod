@@ -264,7 +264,7 @@
  barons_and_minor_landholders_disapproves_baron_revocations_opinion:0 "[GetVassalStance( 'barons_and_minor_landholders' ).GetTextIcon][GetVassalStance( 'barons_and_minor_landholders' ).GetName] Disapproves of Revoking Baronies"
  embezzled_opinion:0 "私から横領した"
  strife_opinion:0 "Caused [strife|E]"
- rebuffed_opinion:0 "Rebuffed Me"
+ rebuffed_opinion:0 "私を拒絶した"
  cheater_opinion:0 "Cheater"
  loyalty_opinion:0 "忠誠"
  threatened_opinion:0 "脅された"

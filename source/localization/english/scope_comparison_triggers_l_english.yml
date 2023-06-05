@@ -92,7 +92,7 @@
  FAITH_RELIGION_EQUAL_GLOBAL:0 "[RELIGION.GetAdjective]の[faith|E]である"
  NOT_FAITH_RELIGION_EQUAL_GLOBAL:0 "[RELIGION.GetAdjective]の[faith|E]では#bold ない#!"
  CHARACTER_FAITH_NONE:0 "同じ[faith|e]の信者である"
- CHARACTER_HOUSE_EQUAL_NONE:0 "Is a fellow [house|E] member"
+ CHARACTER_HOUSE_EQUAL_NONE:0 "同じ[house|E]の一員である"
  PROVINCE_CAPITAL_EQUAL_GLOBAL:0 "[CHARACTER.GetShortUINamePossessive]の[realm_capital]である"
  NOT_PROVINCE_CAPITAL_EQUAL_GLOBAL:0 "[CHARACTER.GetShortUINamePossessive]の[realm_capital]#bold ではない#!"
  PROVINCE_CAPITAL_EQUAL_THIRD:0 "[CHARACTER.GetShortUINamePossessive]の[realm_capital]が[PROVINCE.GetBaronyNameExplicitly]である"
