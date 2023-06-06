@@ -49,7 +49,7 @@
  church_tax_title:0 "$activity_pulse_action_church_tax$"
  activity_pulse_action_church_tax:0 "追加の聖職者の税"
  increased_control_title:0 "$activity_pulse_action_increased_control$"
- activity_pulse_action_increased_control:0 "Control Restored in [second.GetNameNoTooltip]"
+ activity_pulse_action_increased_control:0 "[second.GetNameNoTooltip]の支配が回復"
  courtier_friendship_title:0 "$activity_pulse_action_courtier_friendship$"
  activity_pulse_action_courtier_friendship:1 "[first.GetShortUIName|U]は[second.GetShortUIName]と友人になった"
  courtiers_became_lovers_title:0 "$activity_pulse_action_courtiers_became_lovers$"

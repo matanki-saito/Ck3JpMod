@@ -572,7 +572,7 @@
  contest_events.1102.kill:0 "\n\n次の瞬間、感覚が鈍くなり、耳鳴りがする。荒れた地面に大の字になって倒れる私を、大地がゆっくりと駆け上がって迎えてくれる。私は[murder_actor.GetSheHe]の顔をちらりと見るが、世界が黒く染まる前に、そこに何の関連性も見いだせない。"
  contest_events.1102.a:0 "この惨めなろくでなしめ！"
  contest_events.1102.b:0 "汚い[ROOT.Char.Custom('InsultNoun')]め！"
- contest_events.1102.c:0 "#weak *ゴホゴホ*#!"
+ contest_events.1102.c:0 "#weak *ゴボゴボ*#!"
  contest_events.1110.t:1 "攻撃の機会"
  contest_events.1110.desc:1 "私は、[murder_target.GetTitledFirstName]を打ちのめす機会を辛抱強く待っていたが、ついにその時が来たようだ。\n\n[activity.GetCurrentPhase.GetPhase.GetName]は、ちょっとした事故を見事に覆い隠してくれるだろう…"
  contest_events.1110.a:0 "#EMP これ#!をかわせるかな！"

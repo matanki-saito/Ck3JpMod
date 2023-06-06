@@ -25,7 +25,7 @@
  warhorse.1001.d:0 "[ROOT.Char.Custom('HorseStorySheHe')] に欠けているものがあるとすれば、それは荒々しさだ。"
  warhorse.1001.e:0 "興味がない。"
  warhorse.1001.e.tt:1 "#F 「[THIS.Char.Custom('WarhorseStoryName')]に私以外のトレーナーなど必要ない！」#!"
- warhorse.1002.desc:0 "[ROOT.Char.Custom('WarhorseStoryName')]は[ROOT.Char.Custom('HorseStoryHerHis')]の調教を受け、結果はすぐに確認できました！"
+ warhorse.1002.desc:0 "[ROOT.Char.Custom('WarhorseStoryName')]は[ROOT.Char.Custom('HorseStoryHerHis')]の調教を受け、その結果はめざましいものとなった！"
  warhorse.1002.a:0 "金の使い方が上手い！"
  warhorse.1101.t:1 "[ROOT.Char.Custom('WarhorseStoryName')|U]: よく晴れた日"
  warhorse.1101.desc:0 "厩舎に向かうと、[ROOT.Char.Custom('WarhorseStoryName')]の幸せそうないな鳴き声が聞こえてきた。[ROOT.Char.Custom('HorseStorySheHe')|U]は素晴らしい天気なので[ROOT.Char.Custom('HorseStoryHerHis')]の足を伸ばして休みたいと思っているようで、私もそれに同意せずにはいられなかった。"

@@ -782,7 +782,7 @@
  hunt.4900.d:0 "That's it, we're going home!"
  hunt.4008.t_2:0 "An Honest Mistake"
  hunt.4008.animal:1 "t-the [activity.Custom('GetAnimalMale')] did it! I swear!\"\n\n"
- hunt.4008.fallback:0 "i-it wasn't my fault! I swear!\"\n\n"
+ hunt.4008.fallback:0 "わ、私のせいじゃない！誓って！」\n\n"
  hunt.4008.closing:0 "Soon enough the rest of the party will catch up and demand an explanation."
  hunt.4008.b.failure_tt:1 "[hunt_participant.GetTitledFirstNamePossessive] [secret.GetName] [secret|E] is exposed"
  hunt.4008.c.flavor:0 "Even if it was only a peasant..."

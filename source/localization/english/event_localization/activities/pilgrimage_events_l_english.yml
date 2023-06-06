@@ -722,7 +722,7 @@
  pilgrimage.6790.b:0 "「それよりも、あなたの教えに興味があるのです。」"
  pilgrimage.6790.c:0 "「私は自分のことを#EMP 何も#!変える必要はない。」"
  pilgrimage.6800.t:0 "使命"
- pilgrimage.6800.desc:0 "私が神聖な敷地に入ると、[called_member.GetTitledFirstName]がぼんやりした表情で祭壇を見つめている。「[called_member.GetFirstNameNoTooltip]…」私は[called_member.GetHerHim]に呼びかける。\n\n「閣下。」[called_member.GetSheHe]は平然として言う。「あなたにお願いしたいがあるのですが、お許しください。この場所は、私の魂を動かし、私には想像もできなかった方法で精神を揺さぶりました。\n\n[called_member.GetFaith.HighGodName]は私に語りかけ、[called_member.GetFaith.HighGodHerHis]の声は澄んで、厳しく、的確です。それは進み続け、ずっと進み続けます。それは今私が聞くことができる唯一の音です。全世界は静まり返っています。\n\nもし残れるのであれば、私はそれに人生を捧げたいと思っています。」"
+ pilgrimage.6800.desc:0 "私が神聖な敷地に入ると、[called_member.GetTitledFirstName]がぼんやりした表情で祭壇を見つめている。「[called_member.GetFirstNameNoTooltip]…」私は[called_member.GetHerHim]に呼びかける。\n\n「閣下。」[called_member.GetSheHe]は平然として言う。「あなたにお願いしたいことがあるのですが、お許しください。この場所は、私の魂を動かし、私には想像もできなかった方法で精神を揺さぶりました。\n\n[called_member.GetFaith.HighGodName]は私に語りかけ、[called_member.GetFaith.HighGodHerHis]の声は澄んで、厳しく、的確です。それは進み続け、ずっと進み続けます。それは今私が聞くことができる唯一の音です。全世界は静まり返っています。\n\nもし残れるのであれば、私はそれに人生を捧げたいと思っています。」"
  pilgrimage.6800.a:0 "「わかった。あなたがやるべきことをやるべきだ。」"
  pilgrimage.6800.b:0 "「故郷には[ROOT.Char.GetFaith.HouseOfWorshipPlural]がないのか？」"
  pilgrimage.6800.c:0 "「そんな戯言はすぐに捨てるんだ。」"

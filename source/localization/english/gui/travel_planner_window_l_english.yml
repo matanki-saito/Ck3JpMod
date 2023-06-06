@@ -1,5 +1,5 @@
 ﻿l_english:
- TRAVEL_PLAN_DESTINATION_LIST_DEPARTURE:0 "目的地：[TravelPlanData.GetDepartureDate.GetString]の[TravelPlanData.GetDepartureLocation.GetName]"
+ TRAVEL_PLAN_DESTINATION_LIST_DEPARTURE:0 "目的地: [TravelPlanData.GetDepartureDate.GetString]の[TravelPlanData.GetDepartureLocation.GetName]"
  TRAVEL_PLAN_DESTINATION_LIST_ARRIVED:0 "[TravelPlanDestination.GetIndex]の目的地: [TravelPlanDestination.GetArrivalDate.GetString]に[TravelPlanDestination.GetProvince.GetName]へ到着した"
  TRAVEL_PLAN_DESTINATION_LIST_FUTURE:0 "[TravelPlanDestination.GetIndex]の目的地: [TravelPlanDestination.GetProvince.GetName]へ[TravelPlanDestination.GetEstimatedArrivalDays]に到着するだろう"
  TRAVEL_PLAN_DESTINATION:0 "[Select_CString( PlannedActivityPhase.HasLocation, PlannedActivityPhase.GetLocation.GetName, 'Choose a location' )]"
@@ -84,7 +84,7 @@
  TRAVEL_COMPANION_DESC_ACTIVITY_OPTION:0 "活動のオプションにより参加"
  TRAVEL_COMPANION_DESC_TRAVEL_OPTION:0 "[TRAVEL_PLAN_COMPANION.GetTravelOption.GetName]により参加"
  PROVINCE_TRAVEL_DANGER_TOOLTIP:0 "#T [Province.GetBaronyNameExplicitly]#!"
- INVALID_TRAVEL_ROUTE_DEVIATION_TOO_LARGE:0 "@warning_icon!#X 旅の経路の偏差が大きすぎます：$PATH_DURATION_DIFF|0$日を超えています#!"
+ INVALID_TRAVEL_ROUTE_DEVIATION_TOO_LARGE:0 "@warning_icon!#X 旅の経路の偏差が大きすぎます: $PATH_DURATION_DIFF|0$日を超えています#!"
  TRAVEL_PLANNER_INVITED_ACTIVITY_START:0 "活動の開始日時:[Activity.GetActiveStartDate.GetString]"
  TRAVEL_PLANNER_INVITED_ACTIVITY_ESTIMATED_ARRIVAL:0 "到着予定日: [TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate.GetString]"
  TRAVEL_PLANNER_INVITED_WILL_NOT_ARRIVE_IN_TIME:0 "@warning_icon!#X [Activity.GetShortNameNoTooltip]には間に合わないだろう#!"

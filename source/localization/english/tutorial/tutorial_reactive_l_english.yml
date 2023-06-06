@@ -250,7 +250,7 @@
  ra_travel_planning_intro:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
  ra_travel_planning_intro_desc:0 "あなたは、現在いる場所から[travel|E]立とうとしています。出発する前に、計画を立てるべきです。"
  ra_travel_planning_entourage:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
- ra_travel_planning_entourage_desc:0 "一人[travel|E]は滅多にありません：旅の供となる[characters|E]を[entourage|E]と言います。\n\nそういった人物は、到着先でも旅に加わることがよくあります。"
+ ra_travel_planning_entourage_desc:0 "一人[travel|E]は滅多にありません: 旅の供となる[characters|E]を[entourage|E]と言います。\n\nそういった人物は、到着先でも旅に加わることがよくあります。"
  ra_travel_planning_speed_safety:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
  ra_travel_planning_speed_safety_desc:0 "[travel|E]の計画にあたり大事な事が二つあります。[travel_speed|E]と[travel_safety|E]です。\n\n基本速度は100%です。速度数値が高ければ、より早く目的地へと辿り着けます。\n\n安全性は、旅路にて被りかねない[travel_danger|E]を幾らか相殺するものです。高い安全性を確保することで、あなたと[entourage|E]が危険地域を低リスクで踏破できます。"
  ra_travel_planning_caravan_master:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"

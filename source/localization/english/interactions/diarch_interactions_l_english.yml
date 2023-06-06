@@ -144,7 +144,7 @@
  PROMISE_GOLD_LARGE:0 "[gold_i] Promise an #EMP extortionate#! payment"
  diarch_coup_liege_interaction.tt.action_blocked_by_loyalty_hook:0 "あなたの[liege|E]の忠誠の[hook|E]がこれを企てることを妨げています"
  diarch_coup_liege_interaction.tt.secondary_recipient_is_already_in_list:0 "[secondary_recipient.GetShortUIName]はすでにクーデターを支持しています"
- diarch_coup_liege_interaction.tt.secondary_recipient.joins_conspiracy:0 "[secondary_recipient.GetShortUIName|U] joins your conspiracy"
+ diarch_coup_liege_interaction.tt.secondary_recipient.joins_conspiracy:0 "[secondary_recipient.GetShortUIName|U]があなたの陰謀に参加します"
  diarch_coup_liege_interaction.tt.secondary_recipient.reward:0 "If you successfully launch your coup, [secondary_recipient.GetShortUIName] automatically collects [secondary_recipient.GetHerHis] reward"
  diarch_coup_liege_interaction.tt.secondary_recipient.chancellor_sabotage:0 "[realm|E]の[chancellor|E]として[secondary_recipient.GetShortUINamePossessive]は、[diplomacy|E]クーデターの間の[recipient.GetShortUIName]への支援を拒否するでしょう"
  diarch_coup_liege_interaction.tt.secondary_recipient.spymaster_sabotage:0 "[realm|E]の[spymaster|E]として[secondary_recipient.GetShortUINamePossessive]は、[intrigue|E]クーデターの間の[recipient.GetShortUIName]への支援を拒否するでしょう"
