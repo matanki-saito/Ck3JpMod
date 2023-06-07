@@ -165,4 +165,4 @@
  EXTENDED_RELATIONS_TOOLTIP:0 "[Character.GetRelationToStringExtended( GetPlayer )]"
  SPOUSE_DIARCH:0 "$SPOUSE$-[Character.GetDiarchTitle]"
  CHARACTER_WINDOW_GOTO_PREVIOUS_FIND_SPOUSE:0 "#T Previous: Find [spouse|E]#!"
- CHARACTER_WINDOW_GOTO_DIARCH:0 "#T Next: [CHARACTER.GetLiege.GetDiarchTitle] [CHARACTER.GetUIName]#!"
+ CHARACTER_WINDOW_GOTO_DIARCH:0 "#T 次: [CHARACTER.GetLiege.GetDiarchTitle][CHARACTER.GetUIName]#!"

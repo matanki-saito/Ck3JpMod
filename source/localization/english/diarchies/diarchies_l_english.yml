@@ -19,7 +19,7 @@
  swell_armies_mandate:0 "軍隊を拡大する"
  swell_armies_mandate_desc:1 "#BOL [mandate|E]が生じ得る効果一覧:#!\n$EFFECT_LIST_BULLET$ 有意な[men_at_arms|E][modifiers|E]\n$EFFECT_LIST_BULLET$ 有意な[levy|E]$game_concept_modifiers$\n$EFFECT_LIST_BULLET$ [knights|E][courtiers|E]の熟練\n\n#WEAK 現在そして将来行われる作戦行動は新兵を必要としている。そこで[liege|E]はその調達を[regent|E]に命じた。#!"
  promote_authority_mandate:0 "権威を強化"
- promote_authority_mandate_desc:1 "#BOL [mandate|E]が生じ得る効果一覧:#!\n$EFFECT_LIST_BULLET$ [characters|E]や[counties|E]の[factions|E]離脱\n$EFFECT_LIST_BULLET$ [crown_authority|E]強化\n$EFFECT_LIST_BULLET$[councillor|E]の[opinion|E]向上\n\n#WEAK [liege|E]が[regent|E]に対して権力の確立や集約の補佐を要求します。#!"
+ promote_authority_mandate_desc:1 "#BOL [mandate|E]が生じ得る効果一覧:#!\n$EFFECT_LIST_BULLET$ [characters|E]や[counties|E]の[factions|E]離脱\n$EFFECT_LIST_BULLET$ [crown_authority|E]強化\n$EFFECT_LIST_BULLET$ [councillor|E]の[opinion|E]向上\n\n#WEAK [liege|E]が[regent|E]に対して権力の確立や集約の補佐を要求します。#!"
  mandate_aptitude.fill_coffers.category:0 "$fill_coffers_mandate$"
  mandate_aptitude.fill_coffers.primary_skill.stewardship:0 "[mandate|E]は[stewardship|E]に依存している"
  mandate_aptitude.fill_coffers.secondary_skill.learning:0 "[mandate|E]に[learning|E]を用いる"

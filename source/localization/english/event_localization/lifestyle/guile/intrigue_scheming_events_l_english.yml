@@ -1,5 +1,5 @@
 ﻿l_english:
- available_because_of_dread_tt:0 "あなたが[dread|E]であるためこのオプションが選択可能です"
+ available_because_of_dread_tt:0 "あなたの[dread|E]のためこのオプションが選択可能です"
  intrigue_lifestyle_perk_indication:2 "あなたが[intrigue_lifestyle|E]の[perk|E]を得る可能性があります"
  intrigue_scheming_focus_point_clear_gain:0 "あなたの[intrigue_lifestyle|E]に関する理解が向上します"
  intrigue_scheming.1001.t:0 "[county.GetNameNoTierNoTooltip]の嘆き"

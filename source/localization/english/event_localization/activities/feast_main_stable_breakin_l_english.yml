@@ -46,7 +46,7 @@
  feast_main_stable_breakin.0007.what_a_silly_bunch:0 "\n\n我々はたしかに見せ場を作ったようだ。ありがたいことに、ホストが我々のしでかしたことを大目に見ようと思うくらいには、他の客たちは楽しんでくれたようだった。"
  feast_main_stable_breakin.0007.a:0 "全て覚えているふりをしよう。"
  feast_main_stable_breakin.9001.t:2 "宴の終わり"
- feast_main_stable_breakin.9001.deviant_caught:1 "[host_saying_goodbye.GetTitledFirstNamePossessive] feast is soon going to be at an end. It's sad to think that we will have to say farewell, although it won't be so bad to no longer have to be in the company of [breakin_deviant.GetTitledFirstName] and that ox..."
+ feast_main_stable_breakin.9001.deviant_caught:1 "[host_saying_goodbye.GetTitledFirstNamePossessive]の宴がまもなく、終わりを迎えようとしている。別れを告げねばならない、そう思うと寂しいものだ。だが、[breakin_deviant.GetTitledFirstName]とあの牡牛のカップルと一緒にいなくて済むのは助かる…。"
  feast_main_stable_breakin.9001.in_good_fun:1 "[host_saying_goodbye.GetTitledFirstNamePossessive]の宴がまもなく、終わりを迎えようとしている。\n\n別れを告げねばならない、そう思うと寂しいものだ。だが、少なくともこの先数年は、[breakin_stager.GetFirstName]やともに浮かれた酔っ払いどものどんちゃん騒ぎを思い出して笑うことができるだろう。"
  feast_main_stable_breakin.9001.a:1 "What a great time we are having!"
  feast_main_stable_breakin.9002.deviant_caught:1 "そろそろ客人たちを見送らなければ、そう考えねばならぬな！\n\n皆を見送る、寂しくなりそうだ。[breakin_deviant.GetTitledFirstName]を除いては。\nまあ、私の素晴らしい牡牛を見るたびに思い出すことになるのだろうが。"

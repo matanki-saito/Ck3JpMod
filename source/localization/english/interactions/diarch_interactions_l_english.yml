@@ -187,7 +187,7 @@
  HIGHLIGHTED_CAN_DIARCH_ENTRENCH_REGENCY:0 "#EMP You can become [entrenched|E]!"
  diarch_entrench_regency_interaction.tt.recipient_notification:0 "[actor.GetShortUINameNoTooltip] has $game_concept_entrenched_regency_entrenched$ [actor.GetHerselfHimself] as your $game_concept_regent$"
  liege_dismiss_temporary_regency_interaction:0 "摂政の解任"
- liege_dismiss_temporary_regency_interaction_desc:0 "I am perfectly capable of conducting my own affairs, and can divest [recipient.GetShortUINameNoTooltip] of [recipient.GetHerHis] #EMP limited#! authority"
+ liege_dismiss_temporary_regency_interaction_desc:0 "自分が負う業務の数々を完璧に全うできます。そして、[recipient.GetShortUINameNoTooltip]に預けた#EMP わずかな#!権力を取り返すことができます。"
  liege_dismiss_temporary_regency_interaction.tt.dynasty_receives_prestige:0 "The [recipient.GetDynasty.GetBaseName] [dynasty|E] receives [dynasty_prestige_i] [EmptyScope.ScriptValue('liege_dismiss_temporary_regency_interaction_dynasty_prestige_value')|V+0] [dynasty_prestige|E]"
  liege_dismiss_temporary_regency_interaction.tt.recipient_notification:2 "解任"
  liege_dismiss_entrenched_regency_interaction:0 "図々しい執政を解任する"

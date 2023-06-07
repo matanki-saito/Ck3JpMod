@@ -303,7 +303,7 @@
  cultural_festival.3031.e.tt:0 "あなたはライバルである[farm_animal_rival.GetShortUIName]に勝者を冠を与えます"
  favourite_animal_contest_modifier:0 "動物コンテストの審査"
  underdog_animal_contest_modifier:0 "醜い動物に戴冠した"
- underdog_animal_contest_modifier_desc:0 "この人物は美コンテストの優勝者に魅力的なな動物を選んだ。"
+ underdog_animal_contest_modifier_desc:0 "この人物は美しさのコンテストの優勝者に魅力的な動物を選んだ。"
  mocked_animal_fair_modifier:0 "嘲笑された動物フェア"
  cultural_acceptance_farm_contest:0 "動物コンテスト"
  regional_farm_animal_goat:0 "山羊"

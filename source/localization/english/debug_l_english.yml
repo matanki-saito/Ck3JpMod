@@ -281,7 +281,7 @@
  take_artifact_player:0 "プレイヤーに渡す"
  year_of_birth_trigger:0 "[CHARACTER.GetShortUINamePossessive]よ誕生$CURRENT_VALUE$から$COMPARATOR$$NUM$年"
  EVENT_DEBUG_TOOLTIP:0 "#P クリックでアソシエイトエディターでのイベントスクリプトを開く#!\n#weak （デフォルトエディターに変えられることを覚えておいてください）#!"
- add_glory_interaction:0 "叙勲の栄誉を加える"
+ add_glory_interaction:0 "勲等に栄誉を与える"
  add_glory_debug_high_tt:0 "2500の栄誉を与える（[accolade|E]が最大になる）"
  add_glory_debug_low_tt:0 "250の栄誉を与える"
  add_glory_debug_delete_tt:0 "栄誉を0にする"

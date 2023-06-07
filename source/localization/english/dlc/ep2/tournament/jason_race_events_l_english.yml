@@ -25,7 +25,7 @@
  contest_wound_attendees_effect:0 "多くの$activity_tournament$参加者が[GetTrait('wounded_1').GetName( GetNullCharacter )]します"
  contest_wound_non_root_attendees_effect:0 "他の多くの$activity_tournament$参加者が[GetTrait('wounded_1').GetName( GetNullCharacter )]します"
  jason_race_events.2.t:0 "高速で曲がる"
- jason_race_events.2.desc:1 "馬は馬場に沿って轟音を立てて走り、その走る体は土煙に覆われ、騎手の罵声や叫び声は蹄の音と群衆の叫び声にかき消される。\n\nそれでも、あなたの騎手である[jockey.GetFirstName]が急接近するカーブに全神経を集中させていることはわかる。他の馬が急カーブをゆっくり進む中、あなたの騎手は馬を強く急がせる。\n\nほんの指先ほどの差で、[jockey.GetFirstNameNoTooltip]と#EMP  [ROOT.Char.Custom('GetContestHorseRaceName')]#!が先行馬たちの間をすり抜ける。観客が一斉に息を呑む、信じられないような大技だ！"
+ jason_race_events.2.desc:1 "馬は馬場に沿って轟音を立てて走り、その走る体は土煙に覆われ、騎手の罵声や叫び声は蹄の音と群衆の叫び声にかき消される。\n\nそれでも、あなたの騎手である[jockey.GetFirstName]が急接近するカーブに全神経を集中させていることはわかる。他の馬が急カーブをゆっくり進む中、あなたの騎手は馬を強く急がせる。\n\nほんの指先ほどの差で、[jockey.GetFirstNameNoTooltip]と#EMP  [ROOT.Char.Custom('GetContestHorseRaceName')]号#!が先行馬たちの間をすり抜ける。観客が一斉に息を呑む、信じられないような大技だ！"
  jason_race_events.2.a:0 "そのような能力は戦場にこそふさわしい！"
  jason_race_events.2.a.tt:0 "私の騎兵も、同じように大胆に走れるよう訓練しなければならない。"
  jason_race_events.2.b:1 "私の側近は新しい斥候を使えるかもしれない…"

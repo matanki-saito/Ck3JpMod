@@ -44,7 +44,7 @@
  ACTIVITY_DESTINATION_SELECTION_HEADER:0 "目的地の選択"
  ACTIVITY_DESTINATION_SELECTION:0 "選択可能な場所が地図上に表示されます。\n[ActivityType.GetLocalizedText( 'destination_selection' )]\n\n#I あなたの[ActivityType.GetNameNoTooltip]のための場所を選択#!"
  ACTIVITY_DESTINATION_INVALID_MAX_PHASES_IN_PROVINCE:0 "@warning_icon!#X [Province.GetBaronyNameExplicitly]はすでに計画された[activity_phase|E]の目的地です#weak ([barony|E]ごとに最大$AMOUNT_ALLOWED|V$)#!#!"
- ACTIVITY_DESTINATION_INVALID_TOTAL_MAX_PHASES_REACHED:0 "@warning_icon!#X You have selected the maximum amount of [activity_phases|E] ($AMOUNT_ALLOWED$)#!"
+ ACTIVITY_DESTINATION_INVALID_TOTAL_MAX_PHASES_REACHED:0 "@warning_icon!#X [activity_phases|E]を最大まで選択済みです($AMOUNT_ALLOWED$)#!"
  ACTIVITY_TYPE_CONCEPT_SELECTOR:0 "[SelectLocalization( ActivityType.IsGrandActivity, grand_activity, activity )|E]"
  ACTIVITY_PLANNER_MAIN_HEADING:1 "$ACTIVITY_TYPE_CONCEPT_SELECTOR$の計画: [ActivityType.GetName]"
  ACTIVITY_PLANNER_CONTEST_HEADER:0 "[contests|e]:"

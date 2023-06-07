@@ -100,7 +100,7 @@
  travel_danger_events.1011.b_physician:0 "ふむ、[court_physician.GetTitledFirstNameNoTooltip]なら何とかできるだろう！"
  travel_danger_events.1011.b_physician_success:0 "$travel_danger_events.1011.b.success$"
  travel_danger_events.1011.b_physician_failure:0 "$travel_danger_events.1011.a.failure$"
- travel_danger_events.1011.b:0 "こういう時の対処法をどこかで読んだはずをだ。"
+ travel_danger_events.1011.b:0 "こういう時の対処法をどこかで読んだはずだ。"
  travel_danger_events.1011.b.success:0 "凍傷の治療は成功した"
  travel_danger_events.1011.b.failure:0 "凍傷の治療は失敗した"
  travel_danger_events.1011.b_root_knows_winter:0 "冬の専門家とは私の事だ。"

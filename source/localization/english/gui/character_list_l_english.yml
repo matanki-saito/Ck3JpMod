@@ -183,7 +183,7 @@
  CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS:0 "@warning_icon!#tooltip:CHARACTER_LIST_HAS_UNSAVEABLE_FILTERS_DESC #X いくつかのフィルターは保存されません#!#!"
  CHARACTER_LIST_HAS_NO_SAVEABLE_FILTERS:0 "@warning_icon!#X 保存可能なフィルターが選択されていません！#!"
  CHARACTER_LIST_UNSAVABLE_FILTER:2 "@warning_icon!#X フィルター'$FILTER_TYPE$: $FILTER$'は保存されません#!"
- CHARACTER_LIST_OPEN_FILTER_PRESET_BUTTON_SELECT:1 "保存済フィルタープリセットを選択"
+ CHARACTER_LIST_OPEN_FILTER_PRESET_BUTTON_SELECT:1 "保存済プリセット選択"
  CHARACTER_LIST_OPEN_FILTER_PRESET_BUTTON_CURRENT_SELECTED:2 "有効なフィルター: [CharacterFilterPreset.GetName]"
  CHARACTER_LIST_UNSAVABLE_FILTERS:0 "#low 以下のフィルターは保存されません: #indent_newline:2 \n$FILTERS$#!#!"
  same_heritage_filter_option_desc:2 "同[heritage|E]の人物のみ表示"

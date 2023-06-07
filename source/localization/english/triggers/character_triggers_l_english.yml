@@ -803,4 +803,4 @@
  HAS_TRAIT_XP_SINGLE_NONE:0 "Has $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
  custom.not_attending_activity:0 "Is not attending an [activity|E]"
  IS_PLAYERS_ACCLAIMED_KNIGHT:0 "[CHARACTER.GetShortUIName] is another Player's [acclaimed_knight|e]"
- HAS_POTENTIAL_ACCOLADE_SUCCESSORS:0 "This [accolade|e] already has potential Successors"
+ HAS_POTENTIAL_ACCOLADE_SUCCESSORS:0 "この[accolade|e]には、既に継承可能な者がいます"

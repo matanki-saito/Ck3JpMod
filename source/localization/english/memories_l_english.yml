@@ -799,7 +799,7 @@
  big_city_visited_desc:0 "I visited the great city of [ROOT.Var('city_location').GetProvince.GetName] in my travels"
  big_city_visited_desc_second_perspective:0 "you visited the great city of [ROOT.Var('city_location').GetProvince.GetName] in your travels"
  big_city_visited_desc_third_perspective:0 "[owner.GetName]  visited the great city of [ROOT.Var('city_location').GetProvince.GetName] in [owner.GetHerHis] travels"
- tournament_won_contest_memory:0 "Contest Won"
+ tournament_won_contest_memory:0 "大会に勝った"
  tournament_won_contest_memory_desc_team_host:0 "My team won the [ROOT.Var('contest_type').GetFlagName] contest at my [GetActivityType( 'activity_tournament' ).GetName]"
  tournament_won_contest_memory_desc_team:1 "my team won the [ROOT.Var('contest_type').GetFlagName] contest at [host.GetTitledFirstNamePossessive] [GetActivityType( 'activity_tournament' ).GetName]"
  tournament_won_contest_memory_desc_host:0 "I won the [ROOT.Var('contest_type').GetFlagName] contest at my [GetActivityType( 'activity_tournament' ).GetName]"
