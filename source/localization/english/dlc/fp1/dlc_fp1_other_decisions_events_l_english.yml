@@ -25,7 +25,7 @@
  fp1_other_decisions.0002.animals_only.magnificent.piety:0 "$fp1_other_decisions.0002.piety_gain.rump$、#positive_value [THIS.Var('piety_gain_magnificent_animal').GetValue|0]#![piety_i]を得ます"
  fp1_other_decisions.0002.animals_only.magnificent.piety.loss:0 "$fp1_other_decisions.0002.piety_gain.rump$、#negative_value [THIS.Var('piety_gain_magnificent_animal').GetValue|0]#![piety_i]を失います"
  fp1_other_decisions.0002.c:0 "伝統は大切だ。[gf_faith.PantheonTerm|U]は人間の血を味わう。"
- fp1_other_decisions.0002.human_sacrifice.regular.opinion:0 "[gf_faith.GetAdherentNamePlural]の[opinion|E]や[county_opinion|E]のは壮大な動物の生贄に匹敵するくらい上がります"
+ fp1_other_decisions.0002.human_sacrifice.regular.opinion:0 "[gf_faith.GetAdherentNamePlural]の[opinion|E]や[county_opinion|E]は壮大な動物の生贄に匹敵するくらい上がります"
  fp1_other_decisions.0002.animals_only.offended_humsac_haters:0 "人身御供を支持しない者の[opinion|E]や[county_opinion|E]を失います"
  fp1_other_decisions.0002.human_sacrifice.regular.piety:0 "$fp1_other_decisions.0002.piety_gain.rump$、#positive_value [THIS.Var('piety_gain_standard_human').GetValue|0]#![piety_i]を得ます"
  fp1_other_decisions.0002.human_sacrifice.regular.piety.loss:0 "$fp1_other_decisions.0002.piety_gain.rump$、#negative_value [THIS.Var('piety_gain_standard_human').GetValue|0]#![piety_i]を失います"

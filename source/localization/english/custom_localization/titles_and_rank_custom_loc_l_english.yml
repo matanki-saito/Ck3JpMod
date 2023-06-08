@@ -46,6 +46,6 @@
  title_tier_crown_current_situation:0 "[ROOT.Char.Custom('GetPrimaryTitleTierIcon')]"
  in_realm_current_situation:0 "#P (あなたの領国外)#!"
  not_in_realm_current_situation:0 "#low （あなたの領国の中で）#!"
- not_in_realm_alliance_current_situation:0 "[second.GetSheHe|U]はあなたの[wars|E]で役に立つかもしれない@soldier_icon![second.GetMilitaryStrengthText][soldiers|E]だ。"
+ not_in_realm_alliance_current_situation:0 "[second.GetSheHe|U]はあなたの[wars|E]で役立つ可能性のある@soldier_icon![second.GetMilitaryStrengthText]の[soldiers|E]を持っています。"
  in_realm_alliance_current_situation:0 "封臣との同盟によって[factions|E]への参加を予防します。しかし、[war|E]への参戦は呼びかけられません。"
  current_situation_blank:0 ""

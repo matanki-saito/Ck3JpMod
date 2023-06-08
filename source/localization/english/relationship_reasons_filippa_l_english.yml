@@ -5,7 +5,7 @@
  rival_dismissed_antpath_superstition_corresponding:0 "[CHARACTER.GetShortUINamePossessive|U] superstitions about crossing ant paths [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] grossly dismissed by [TARGET_CHARACTER.GetShortUIName]."
  rival_sabotaged_my_pastures:0 "[TARGET_CHARACTER.GetShortUIName|U] accidentally sabotaged [CHARACTER.GetShortUINamePossessive] pastures."
  rival_sabotaged_my_pastures_corresponding:0 "[CHARACTER.GetShortUINamePossessive|U] pastures [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] sabotaged by [TARGET_CHARACTER.GetShortUIName]."
- friend_improved_my_pastures:0 "[TARGET_CHARACTER.GetShortUIName|U] improved [CHARACTER.GetShortUINamePossessive] pastures."
+ friend_improved_my_pastures:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の牧草地を改良した。"
  friend_improved_my_pastures_corresponding:0 "[CHARACTER.GetShortUINamePossessive|U] pastures [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] improved by [TARGET_CHARACTER.GetShortUIName]."
  rival_almost_crushed_by_elephant:0 "[TARGET_CHARACTER.GetShortUIName|U] had an elephant crush [CHARACTER.GetShortUIName]."
  rival_almost_crushed_by_elephant_corresponding:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] almost crushed by an elephant, perpetrated by [TARGET_CHARACTER.GetShortUIName]."

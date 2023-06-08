@@ -639,7 +639,7 @@
  nick_the_hotspur_desc:1 "[CharYouSheHe(CHARACTER)]はあまりに早く決断するため、[CharYourHerHis(CHARACTER)]の踵の拍車は地面に触れる間もないと言われている。"
  nick_the_vanquisher_desc:1 "望む者あらば[CHARACTER.GetShortUINameNoTooltipNoFormat]に挑むが良い――[CharYouSheHe(CHARACTER)]は[CHARACTER.GetFaith.DeathDeityName]の大鎌なのだ。"
  nick_the_bloody_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]にとって誰が何人死のうとどうでもいい事だ。"
- nick_the_shy_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]を直接見た人がほとんどないといことが[CHARACTER.GetShortUINameNoTooltipNoFormat]の異名の由来と[CharYourHerHis(CHARACTER)]について人々が知っていることのほぼ全てである。"
+ nick_the_shy_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]を直接見た人はほとんどいない。それが[CHARACTER.GetShortUINameNoTooltipNoFormat]の異名の由来であり、[CharYourHerHis(CHARACTER)]について人々が知っていることのほぼ全てである。"
  nick_the_giant_desc:1 "噂によれば[CharYouSheHe(CHARACTER)]は家と同じぐらいでかいとのことだが、それは比べる家によって話が変わってくると思うというのが[CharYourHerHis(CHARACTER)]の経験上の意見だ。"
  nick_bad_hand_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はそれが[CharYourHerHis(CHARACTER)]の強力な右フックだと主張しているが、[CharYouSheHe(CHARACTER)]は単にトランプに絶望しているだけだとおおかたの人間は知っている。"
  nick_the_little_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は一般的に背が低いと考えられている。"

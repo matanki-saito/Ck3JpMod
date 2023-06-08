@@ -181,7 +181,7 @@
  SELECT_REGIMENT_ORIGIN_INVALID_REGIMENT:0 "@warning_icon!#X 無効な[regiment|E]です#!"
  SELECT_REGIMENT_ORIGIN_INVALID_MAA:0 "@warning_icon!#X [regiment|E]が[men_at_arms|E]では#bold ありません#!#!"
  SELECT_REGIMENT_ORIGIN_RAISED_REGIMENT:0 "@warning_icon!#X [regiment|E]は召集済みです#!"
- SELECT_REGIMENT_ORIGIN_RAISING_REGIMENT:0 "@warning_icon!#X [regiment|E] is being raised#!"
+ SELECT_REGIMENT_ORIGIN_RAISING_REGIMENT:0 "@warning_icon!#X [regiment|E]は召集中です#!"
  SELECT_REGIMENT_ORIGIN_INVALID_PROVINCE:0 "@warning_icon!#X 無効な[holding|E]です#!"
  SELECT_REGIMENT_ORIGIN_ALREADY_AT_PROVINCE:0 "@warning_icon!#X [REGIMENT.GetNameNoTooltip]はすでに[PROVINCE.GetBaronyNameExplicitlyNoTooltip]に[stationed|E]しています#!"
  SELECT_REGIMENT_ORIGIN_PROVINCE_NOT_OWNED:0 "@warning_icon!#X [PROVINCE.GetBaronyNameExplicitlyNoTooltip]はあなたの[domain|E]では#bold ありません#!#!"
