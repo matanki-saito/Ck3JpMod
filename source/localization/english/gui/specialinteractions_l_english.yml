@@ -464,7 +464,7 @@
  GRAND_WEDDING_PROMISE_REASON_1:0 "[GetActivityType( 'activity_wedding' ).GetName]が約束されている: $VALUE|=+0$"
  GRAND_WEDDING_MAGNIFICENT_HOST_REASON:0 "$gwedding_magnificent_host_modifier$"
  GRAND_WEDDING_DYNASTY_LEGACY_BONUS:1 "$ep2_activities_legacy_track$: $VALUE|=+0$"
- ENTRENCHED_REGENT_WILL_SUPPORT_LIEGE:0 "[entrenched_regent|E] Protects [realm|E]: $VALUE|=+0$"
+ ENTRENCHED_REGENT_WILL_SUPPORT_LIEGE:0 "[entrenched_regent|E]が[realm|E]を守る: $VALUE|=+0$"
  MARRIAGE_GRAND_WEDDING_TOGGLE:1 "[GetActivityType('activity_wedding').GetTextIcon]グランドウェディング"
  NOT_grant_titles_interaction_can_only_give_diarch_de_jure_liege_to_diarch:0 "As [CHARACTER.GetShortUIName] is your [CHARACTER.GetDiarchTitle], you can only give [CHARACTER.GetHerHis] [de_jure|E] [liege|E] [title|E] to [CHARACTER.GetHerHim]"
  grant_title_landing_acclaimed_knight_warning:0 "@warning_icon! #X Granting a title above [barony|e]-rank will invalidate this [acclaimed_knight|e]#!"

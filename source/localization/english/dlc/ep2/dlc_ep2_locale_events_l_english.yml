@@ -490,7 +490,7 @@
  ep2_locale_events.1060.a.failure:0 "あなたは金を失う"
  ep2_locale_events.4530.t:0 "$tournament_locale_weaponsmith$: ハンマーの知恵"
  ep2_locale_events.4530.desc:0 "道の反対側から炎のゆらめきが優しく見える。ドアを開ける前から、その暖かさが私の体を包み込んでくれる。店内では、鍛冶屋が釘を並べている。\n\n「何かお役に立てますでしょうか、閣下？」[tournament_weaponsmith.GetSheHe]は尋ねる。その額は石炭で汚れている。ここの空気は濃い。"
- ep2_locale_events.4530.a:0 "「鍛冶屋は呪いを解くことができると聞いたことがある。どうか、私の魂を鎮めてくれ。」"
+ ep2_locale_events.4530.a:0 "「鍛冶屋は呪いを解くことができると聞いた。私の魂を鎮めてくれ。」"
  ep2_locale_events.4530.a.tt:0 "あなたは迷信深くなります"
  ep2_locale_events.4530.b:0 "「専門的な技術を見せてもらえないか？」"
  ep2_locale_events.4530.b.success:0 "あなたの能力が向上する"

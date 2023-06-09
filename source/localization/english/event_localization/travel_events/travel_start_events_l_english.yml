@@ -145,7 +145,7 @@
  travel_start_event.1051.single: "\n\n[child_1.GetSheHe|U]は準備と荷造りを済ませ、[host.GetCapitalLocation.GetNameNoTooltip]へ向かおうとウキウキの様子だ。"
  travel_start_event.1051.multiple: "\n\n彼らは荷造りと準備を済ませ、[host.GetCapitalLocation.GetNameNoTooltip]へ向かおうとウキウキの様子だ。"
  travel_start_event.1051.a_cynical: "いいだろう…"
- travel_start_event.1051.a: "楽しんでこい、[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))]！"
+ travel_start_event.1051.a: "楽しんでこい！"
  travel_start_event.1051.a.multiple: "行ってらっしゃい、我が子達よ！"
  travel_start_event.1051.b: "下らん！"
  playdate_depart_tt: "[THIS.Char.GetTitledFirstName]は[host.GetInvolvedActivity.GetName]に参加する"
