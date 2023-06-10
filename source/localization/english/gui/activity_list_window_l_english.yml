@@ -8,7 +8,7 @@
  ACTIVITY_LIST_HOST_GRAND:0 "[grand_activity|E]の[activity_host_short|E]"
  ACTIVITY_LIST_JOIN:0 "[activity|E]への招待"
  ACTIVITY_LIST_JOIN_TOURNAMENT_HEADER:1 "[GetActivityType( 'activity_tournament' ).GetName]への参加"
- ACTIVITY_LIST_HOST_NO_GRAND_ACTIVITIES:0 "No Grand Activities"
+ ACTIVITY_LIST_HOST_NO_GRAND_ACTIVITIES:0 "壮大な活動なし"
  ACTIVITY_LIST_HOST_NO_REGULAR_ACTIVITIES:0 "活動なし"
  ACTIVITY_LIST_NO_ACTIVITY_INVITATIONS:0 "保留中の活動への招待はありません"
  ACTIVITY_LIST_NO_JOINABLE_ACTIVITIES:4 "現在、近隣の[ruler|E]が開催中でかつ参加可能な\n[GetActivityType( 'activity_tournament' ).GetNameNoTooltip]はありません"

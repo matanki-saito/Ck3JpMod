@@ -49,7 +49,7 @@
  murder_outcome.1401.a:0 "これが最良なのだ。"
  murder_outcome.1401.b:0 "いや、これは間違っているように思える。"
  murder_outcome.2000.t:0 "運命の悪戯"
- murder_outcome.2000.desc:0 "私は[target.GetTitledFirstNamePossessive]のこの世からの旅立ちのために準備万端整えたというのに、たかが騎士見習いに邪魔されてしまうとは。あの[owner.Custom('InsultNoun')]は私の手を借りることなく死んでしまった。"
+ murder_outcome.2000.desc:0 "[target.GetTitledFirstNamePossessive]のこの世からの旅立ちのために準備万端整えていたが、使用人の報告によってその作業は中断することとなった。あの[owner.Custom('InsultNoun')]は私の手を借りることなく死んでしまったのだと！"
  murder_outcome.2000.a:0 "[ROOT.Char.GetFaith.DevilName|U]は[target.GetHerHis]の仲間たちも欲しがっているに違いない！"
  murder_outcome.2000.a.tt:0 "[target.GetTitledFirstName]が[target.GetDeathReason]"
  murder_outcome.2001.t:0 "暗殺者！"

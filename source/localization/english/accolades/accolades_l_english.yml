@@ -289,7 +289,7 @@
  accolade_the_foe_of_enemy_faith:0 "$OPTION_2$の$OPTION_1$"
  accolade_the_knight_of_aspect:0 "$OPTION_1$の[CHARACTER.GetLiege.Custom('KnightCultureNoTooltip')]"
  accolade_goodest_of_knights:0 "$OPTION_2$の$OPTION_1$"
- accolade_the_material_knight:0 "$OPTION_2$$OPTION_1$"
+ accolade_the_material_knight:0 "$OPTION_1$の$OPTION_2$"
  accolade_foe_of_the_hostile_culture:0 "$OPTION_2$の$OPTION_1$"
  accolade_panther:0 "ヒョウ"
  accolade_tiger:0 "虎"

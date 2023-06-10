@@ -1,5 +1,5 @@
 ﻿l_english:
- ACTIVITY_GUEST_OPINION_REASON:1 "[host.GetShortUINameNoTooltip]の[opinion|E]: $VALUE|=+0$"
+ ACTIVITY_GUEST_OPINION_REASON:1 "[host.GetShortUINameNoTooltip]に対する[opinion|E]: $VALUE|=+0$"
  ACTIVITY_GUEST_ACTIVITY_LEVEL_REASON:2 "[host.GetShortUINamePossessive|U]の[title_tier|E]: $VALUE|=+0$"
  ACTIVITY_GUEST_LOWER_RANK_REASON:1 "[ROOT.Char.GetSheHe|U]は[rank|E]が低い: $VALUE|=+0$"
  ACTIVITY_GUEST_HIGHER_RANK_REASON:1 "[ROOT.Char.GetSheHe|U]は[rank|E]が高い: $VALUE|=+0$"

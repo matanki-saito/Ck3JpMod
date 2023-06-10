@@ -21,7 +21,7 @@
  travel_danger_events.1002.b.failure:1 "返り討ちにあう"
  travel_danger_events.1002.b.failure.desc:0 "$travel_danger_events.1002.a.failure.desc$"
  travel_danger_events.1002.c:0 "用心棒の出番だぞ、このバカの相手をしてやれ！"
- travel_danger_events.1002.c.tt:0 "You send your guards from the [travel_option|E] to take care of the bandits"
+ travel_danger_events.1002.c.tt:0 "[travel_option|E]から盗賊に対応する護衛を送り出します"
  travel_danger_events.1002.d:0 "金ならやるから案内してくれと言ったらどうなる？"
  travel_danger_events.1002.e:0 "この場所はだな…"
  travel_danger_events.1003.t:1 "$travel_danger_prefix$濡れた底"

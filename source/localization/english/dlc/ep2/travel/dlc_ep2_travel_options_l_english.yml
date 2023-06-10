@@ -47,7 +47,7 @@
  military_recruits_option.desc:0 "$military_recruits_option$の旅のオプションを選択したため、最も未熟な騎士が従者に追加されました。"
  travel_events.0060.notification.a:0 "騎士の特性が改善された: [selected_knight.GetShortUIName]"
  travel_events.0060.notification_desc:0 "あなたの従者としての旅の経験を通して、[selected_knight.GetShortUINamePossessive]の能力が上昇しました。"
- travel_events.0060.notification.b:0 "騎士は著しい#Improved: [selected_knight.GetShortUIName]"
+ travel_events.0060.notification.b:0 "注目の騎士たる#Improved: [selected_knight.GetShortUIName]"
  travel_events.0060.notification.c:0 "騎士は成長した: [selected_knight.GetShortUIName]"
  travel_events.0060.notification.d:0 "騎士は栄誉を得る: [selected_knight.GetShortUIName]"
  superior_armaments_option:0 "優れた装備品"

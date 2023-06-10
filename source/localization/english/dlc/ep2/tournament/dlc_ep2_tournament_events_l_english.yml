@@ -598,7 +598,7 @@
  tournament_events.6514.dismiss:0 "$tournament_events.6514.reply$、[woo_target.GetSheHe]は軽蔑するように目を丸くしている。"
  tournament_events.6514.praise:0 "$tournament_events.6514.reply$、[woo_target.GetSheHe]は私の言葉に白けたのか、すぐに興味を失ってしまう。"
  tournament_events.6514.god:0 "$tournament_events.6514.reply$、[woo_target.GetSheHe]は半分しか聞いていないような感じでぼーっとしている。"
- tournament_events.6514.fallback:0 "$tournament_events.6513.reply$[woo_target.GetSheHe]は私との同伴からすぐに離れることができない。"
+ tournament_events.6514.fallback:0 "$tournament_events.6513.reply$、[woo_target.GetSheHe]は私の仲間からすぐに離れることができない。"
  tournament_events.6514.desc:0 "\n\n[woo_target.GetHerHis]に別れを告げた後に一人で立っていると、このような完全な失敗をした私を愚かだと思わずにはいられない…"
  tournament_events.6514.a:0 "私は何を考えていたんだ…？"
  tournament_events.6900.t:1 "$tournament_header$ 地元の槍騎兵"

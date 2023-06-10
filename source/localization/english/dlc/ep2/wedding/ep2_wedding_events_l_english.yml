@@ -405,7 +405,7 @@
  ep2_wedding.1200.failure.tt:0 "あなたは[listener.GetFirstNameNoTooltip]を感動させることができませんでした"
  ep2_wedding.1200.e.success:0 "[listener.GetFirstNameNoTooltip|U]は興味を持つ"
  ep2_wedding.1200.e.failure:0 "[listener.GetFirstNameNoTooltip|U]は興味がない"
- ep2_wedding.1200.e.success.tt:0 "You make progress in setting up [listener.GetFirstNameNoTooltip] with [intent_target.GetFirstNameNoTooltip]"
+ ep2_wedding.1200.e.success.tt:0 "[intent_target.GetFirstNameNoTooltip]を使用した[listener.GetFirstNameNoTooltip]の準備が進んだ"
  wedding_gloating_log:0 "[CHARACTER.GetUIName|U]は結婚式の成功をほくそ笑んで[TARGET_CHARACTER.GetUIName]を不快にした。"
  wedding_gloating_log_title:0 "ほくそ笑む"
  wedding_alliance_log:0 "[CHARACTER.GetUIName|U]は強力な結婚の繋がりを示すことで[TARGET_CHARACTER.GetUIName]との同盟を獲得した。"

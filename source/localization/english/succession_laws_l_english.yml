@@ -10,7 +10,7 @@
  high_partition_succession_law_effects:2 "\n#V $high_partition_succession_law$[succession]では、[titles]のほとんどは[player_heir]へと与えられ、残りが他の子供たちに分配されます。 #!\n\n#weak $partition_base_desc$\n家系の後継者が#emp 必ず#!前統治者が所持していた称号の半分以上を継承するように分配されます。\n#!"
  confederate_partition_succession_law:1 "分割連合相続制"
  confederate_partition_succession_law_subname:0 "全ての子供が平等に継承する"
- confederate_partition_succession_law_effects:2 "\n#V $confederate_partition_succession_law$の下では、あなたの[titles]は子供達の間で平等に分配されます。分配の時、年少の[realm_heirs]のために新たな[titles]が作成される危険性があります。#!\n\n#weak $partition_base_desc$\n十分な土地があれば、年少の子供達のために新たな称号が作られ、与えられることでしょう。\n\n#!#X 部族時代の統治者はこの継承タイプに固定されています。#!\n"
+ confederate_partition_succession_law_effects:2 "\n#V $confederate_partition_succession_law$の下では、あなたの[titles]は子供達の間で平等に分配されます。分配の時、年少の[realm_heirs]のために新たな[titles]が作成される危険性があります。#!\n\n#weak $partition_base_desc$\n十分な土地がある時、年少の子供達のために新たな称号が作られ、自動的に与えられてしまいます。\n\n#!#X 部族時代の統治者はこの継承タイプに固定されています。#!\n"
  single_heir_succession_law:4 "長子相続制"
  single_heir_succession_law_subname:0 "最年長の子供が継承する"
  single_heir_succession_law_effects:1 "\n#V $single_heir_succession_law$[succession]下では、あなたの長子がすべての[titles]を継承します。#!\n\n#weak 継承時には、亡くなった統治者の[titles|e]はすべて最年長の[eligible_child|E]である[player_heir|E]に相続されます。 それより若い子供らには何も与えられません。\n#!"

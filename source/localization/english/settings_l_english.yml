@@ -78,7 +78,7 @@
  default:0 "デフォルト"
  iberian:0 "イベリア"
  Norse:0 "ノース"
- SETTING_HUD_SKIN_TOOLTIP:0 "#T $SETTING_HUD_SKIN$#!\nSets visual theme of the HUD interface - 2D UI shown on the main game screen.\n\nIf $hud_skin_auto$ is selected, HUD will change depending on culture, faith and realm capital of the player"
+ SETTING_HUD_SKIN_TOOLTIP:0 "#T $SETTING_HUD_SKIN$#!\nHUDインターフェイスのビジュアルテーマ (メイン ゲーム画面に表示される2D UI)を設定します。\n\n$hud_skin_auto$が選択されている場合、プレイヤーの文化、宗派、領国首都に応じてHUDが変化します。"
  SETTING_RICH_PRESENCE:0 "リッチプレゼンス"
  SETTING_RICH_PRESENCE_TOOLTIP:0 "#T $SETTING_RICH_PRESENCE$#!\nプラットフォームがサポートしている場合は、現在のプレイセッションに関する情報をフレンドに表示します。"
  SETTINGS_CATEGORY_GAME_FLAVOR:0 "フレーバー"

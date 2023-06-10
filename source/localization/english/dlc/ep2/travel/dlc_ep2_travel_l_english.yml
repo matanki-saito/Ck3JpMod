@@ -22,7 +22,7 @@
  TRAVEL_DANGER_ROUTE_SUMMARY_ICON_TT:0 "#T [CriticalDanger.GetDangerType.GetName]\n#![CriticalDanger.GetProvince.GetName]"
  TRAVEL_DANGER_CHANCE_OF_EVENT:0 "危険な出来事"
  PROVINCE_TERRAIN_TRAVEL_DANGER:0 "[terrain|E]からの危険性"
- PROVINCE_OWNER_OPINION:0 "[holder_possessive|E]の[opinion|E]"
+ PROVINCE_OWNER_OPINION:0 "[holder_possessive|E]のあなたに対する[opinion|E]"
  TRAVEL_DANGER_LOW_COUNTY_CONTROL:0 "低い[control|E]からの危険性"
  TRAVEL_DANGER_LOW_DEVELOPMENT:0 "低い[development|E]からの危険性"
  TRAVEL_DANGER_SEA_PROVINCE:0 "海からの危険性"

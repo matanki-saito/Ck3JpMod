@@ -184,7 +184,7 @@
  artifact.4090.a.tt:0 "遺物と武器は合体します"
  artifact_weapon_relic_desc:0 "[this_artifact.GetDesc]\n\n[ROOT.Char.GetFaith.GetName]の遺物である[that_artifact.GetNameNoTooltip]が持ち手に埋め込まれている。"
  relic_weapon_name:0 "[ROOT.Char.Custom('artifact_relic_desc')]の[this_artifact.GetType|U]"
- embedded_not_destroyed_tooltip:0 "[that_artifact.GetName]は、私の[this_artifact.GetName]の中に埋め込まれています"
+ embedded_not_destroyed_tooltip:0 "[that_artifact.GetName]は、私の[this_artifact.GetName]の中に埋め込まれます"
  relic_name_afterlife:0 "[ROOT.Char.GetFaith.PositiveAfterLife|U]"
  relic_name_highgod:0 "[ROOT.Char.GetFaith.HighGodName]"
  relic_name_highgod_alternate:0 "[ROOT.Char.GetFaith.HighGodNameAlternate]"

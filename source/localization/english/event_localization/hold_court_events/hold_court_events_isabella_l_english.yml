@@ -41,7 +41,7 @@
  hold_court.4200.b:0 "あなたは私の玉座の側に居場所を得るだろう…私の足載せ台として！"
  hold_court.4200.c:0 "すぐに[usurping_heir.GetTitledFirstNameNoTooltip]に知らせよう！[usurping_heir.GetSheHe|U]はとても喜ぶはずだ！"
  hold_court.4300.t:0 "私を飾れ！私を飾れ！"
- hold_court.4300.desc:0 "宮廷が始まる前に、我が[proposing_chancellor.GetCouncilTitle]が私を脇へと引き寄せる。驚いたことに、[proposing_chancellor.GetSheHe]は派手な[ROOT.Char.Custom('GetAccessory')|l]を振り回している。\n\n「我が[ROOT.Char.GetLadyLord]、あなたの宮廷には非常に多くの人が参加しています。私は、あなたが全員の顔と出身地を記憶することについて、いささかの挑戦を受けていることを知っています。私は解決策をご提案いたします。宮廷において、すべての人が見分けのつく地元の様式のドレスを着用することを命じるのです。」\n\n[proposing_chancellor.GetSheHe|U]は[ROOT.Char.Custom('GetAccessory')|l]を私に押し付ける。「地域ごとの流行がはっきりしない者については…私が自由に仕立て屋を雇い、彼らが着るべき新しい伝統的な衣服を『提案する』ことにします。」"
+ hold_court.4300.desc:0 "謁見の進行が進もうしていたときだった。聞かれたくないことでもあるのか、[proposing_chancellor.GetCouncilTitle]が私をその場の袖へと引き寄せた。驚いたことに派手な[ROOT.Char.Custom('GetAccessory')|l]を振りかざしている。\n\n「我が[ROOT.Char.GetLadyLord]、この謁見には非常に多くの人が参列します。私は存じております。全員の顔と出身地を記憶するという、いささか手ごたえのある難事にあなた様が取り組んでいらっしゃることを。そこで解決策をご提案いたします。謁見中でも、すべての人が見分けのつくような、地元の様式のドレスを着用することを命じるのです。」\n\n[proposing_chancellor.GetSheHe|U]は[ROOT.Char.Custom('GetAccessory')|l]を私に押し付ける。「地域ごとの流行がはっきりしない者については…まことに勝手ながら私の判断で仕立て屋を雇います。その上で、彼らが着るべき新しい伝統的な衣装を『提案させる』ことにします。」"
  hold_court.4300.a:0 "私は顔を忘れたりしない！私は大丈夫だ。"
  hold_court.4300.a.success:0 "あなたは客への挨拶で口ごもることはない"
  hold_court.4300.a.failure:0 "あなたは到着した客人を混同する"
