@@ -937,7 +937,7 @@
  trait_lifestyle_hunter_desc:0 "この人物は野生の呼び声の中生きている。"
  trait_lifestyle_hunter_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は野生の呼び声の中生きている。"
  trait_track_hunter:0 "狩猟"
- trait_track_hunter_desc:0 "角の音、猟犬、獲物!弓や馬によって、野蛮な獣を倒すことに匹敵するスリルがあるだろうか！"
+ trait_track_hunter_desc:0 "角の音、猟犬、獲物！弓や馬によって、野蛮な獣を倒すことに匹敵するスリルがあるだろうか！"
  trait_track_falconer:0 "鷹狩り"
  trait_track_falconer_desc:0 "鷹とハヤブサによって行う狩りほど高貴なスポーツはない。"
  trait_track_lifestyle_mystic:0 "神秘主義者"
