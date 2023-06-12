@@ -846,7 +846,7 @@
  nick_the_righteous_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は正義と公平性について高度な良識を持っていることで知られている。"
  nick_the_venerable:0 "徳に満ちし"
  nick_the_venerable_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は敬虔なる道を歩み、信頼を勝ち得てきた。"
- nick_the_miracle_worker:0 "奇跡による献身"
+ nick_the_miracle_worker:0 "奇跡による献身者"
  nick_the_miracle_worker_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は神秘主義に手を出しているが、それも全ては善行のためである。"
  nick_the_merciful:0 "慈悲の"
  nick_the_merciful_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は許し、寛大で、怒りからは程遠い。囚人が[CharYourHerHis(CHARACTER)]の地下牢に長く幽閉されることは少ないだろう。"

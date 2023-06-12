@@ -99,7 +99,7 @@
  hunt.8530.b:0 "「助けて！助けてくれ！」"
  hunt.8530.c:0 "この忌々しい足を取り除かなければ！"
  hunt.8540.t:1 "[activity.Custom('GetLegendaryColor')|U][activity.Custom('GetAnimalType')|U]: 前兆"
- hunt.8540.desc.intro:1 "私は[activity.Custom('GetLegendaryColor')][activity.Custom('GetAnimalType')]が私を嘲笑う様子を再び夢に見ている。それは私を睨みつけ、雷鳴のような[activity.Custom('GetAnimalSoundParticiple')]とともに、私は叫びながら目覚め、狩猟キャンプの世界へと引き戻された。\n\n"
+ hunt.8540.desc.intro:1 "私は[activity.Custom('GetLegendaryColor')][activity.Custom('GetAnimalType')]が私を嘲笑う様子を再び夢に見ている。それが私を睨みつけ、雷鳴のように[activity.Custom('GetAnimalSoundParticiple')]と共に、私は叫びながら目覚め、狩猟キャンプの世界へと引き戻された。\n\n"
  hunt.8540.desc.mid.witch:0 "[ROOT.Char.GetFaith.WitchGodName|U]が夢を通じて私と交信し、獣がそこにいる、それを殺すのは私の仕事だと告げているに違いない。窓の外を見ると、あらゆる種類の動物が同じ方向を見つめているのが見える。"
  hunt.8540.desc.mid.orion:0 "窓の外を見ると、狩人の星座が今まで見たことのないほど明るく輝き、まるで私を呼んでいるかのようだ。"
  hunt.8540.desc.mid.ursa_major:1 "窓の外を見ると、澄んだ夜空に[activity.Custom('GetAnimalType')]の星座がキラキラと輝き、私を荒野へと呼んでいる。"

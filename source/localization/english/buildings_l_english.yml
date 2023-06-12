@@ -1,7 +1,7 @@
 ﻿l_english:
  building_type_castle_01:0 "城"
  building_type_castle_01_desc:1 "評判の良い貴族の家だけでなく、周囲の町や農地を守るために設計された城塞。"
- building_castle_01:1 "モット"
+ building_castle_01:1 "丘塁"
  building_castle_01_desc:1 "この小さいながらも手ごわい要塞は、盛り上げられた土塁の上に位置している。"
  building_castle_02:1 "キープ"
  building_castle_02_desc:1 "天守#weak （または本丸）#!は要塞化された住居として、あるいは最後の防衛線として機能する大きな塔である。"

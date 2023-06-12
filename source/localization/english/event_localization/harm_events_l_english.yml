@@ -186,7 +186,7 @@
  harm.0591.a:0 "身を投げ出す。"
  harm.0591.a.tt.success:0 "無事だ"
  harm.0591.a.tt.failure:0 "市民の鍋が寺院で直撃する"
- harm.0591.b:0 "#EMP 安全じゃない？！#!"
+ harm.0591.b:0 "#EMP どこも安全じゃないのか！？#!"
  harm.0591.b.tt:0 "いつものパラノイア的発作の速度が活きた"
  harm.0591.c:0 "もう動いている。"
  harm.0591.c.tt.success:0 "$harm.0591.a.tt.success$"
