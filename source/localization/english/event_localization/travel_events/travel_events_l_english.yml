@@ -252,7 +252,7 @@
  travel_events.4030.b:0 "良い行いには良い報酬を。"
  travel_events.4030.c:0 "大したことじゃない、報酬は無用だ。"
  travel_events.4031.t:0 "$travel_event_prefix$ 金属の[heartless_knight_scope.GetWomanMan|U]"
- travel_events.4031.desc.intro:1 "本当に、[ROOT.Char.GetCurrentLocation.GetName]を散策するのはまさに[ROOT.Char.GetFaith.CreatorName]からの贈り物だ。だがこの場所の静けさは突然、激しいうめき声と甲冑の音によって破られる！\n\n「ああ！この金属の牢獄から私を出してくれ！従者は私の態度に腹を立て、私を『薄情者』とまで呼んで私を見捨てたのです！」\n\n"
+ travel_events.4031.desc.intro:1 "本当に、[ROOT.Char.GetCurrentLocation.GetName]を散策するのはまさに[ROOT.Char.GetFaith.CreatorName]からの贈り物だ。だがこの場所の静けさは突然、激しいうめき声と甲冑の音によって破られる！\n\n「ああ！この金属の牢獄から出してくれ！従者は私の態度に腹を立て、『薄情者』とまで呼んで見捨てたのだ！」\n\n"
  travel_events.4031.desc.mid.callous:0 "私は笑いをこらえようとするが、田園地帯をガチャガチャと音を立てて歩き回るこの愚か者の姿を想像するともう限界だ。"
  travel_events.4031.desc.mid:0 "この奇妙な [heartless_knight_scope.GetWomanMan]が何をやらかしたにせよ、[heartless_knight_scope.GetHerHis]の鎧に永遠に閉じ込められることを正当化するのには十分ではなかっただろう。"
  travel_events.4031.desc.outro:0 "もちろん誰かが[heartless_knight_scope.GetHerHim]を助けてやることもできるが、本当にその価値があるのだろうか？"

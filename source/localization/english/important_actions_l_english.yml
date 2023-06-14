@@ -565,7 +565,7 @@
  action_can_pardon_label:1 "@law_icon![actor.Custom2('RelationToMe', recipient)][recipient.Custom('GetPrimaryTitleTierIcon')][recipient.GetShortUINameNoTooltip]に恩赦を与えられます"
  action_can_pardon_combined_label:1 "あなたの[actor.Custom2('RelationToMe', recipient)][recipient.Custom('GetPrimaryTitleTierIcon')][recipient.GetShortUINameNoTooltip]"
  action_can_pardon_desc:0 "[recipient.GetUIName]は[crimes|E]に及び、[recipient.GetImprisonmentReasons( actor.Self )]となりました。ですが、恩赦を与えられます。"
- action_can_pardon_click:0 "#I Click to pardon [recipient.GetHerHim]#!"
+ action_can_pardon_click:0 "#I クリックで[recipient.GetHerHim]に恩赦を与える#!"
  action_can_pardon_combined_group_label:1 "@law_icon! 犯罪者に恩赦を与えられます"
  action_can_pardon_combined_group_name:1 "@law_icon! 犯罪者に恩赦を与えられます"
  action_can_pardon_combined_group_description:0 "[crimes|E]を犯した臣下に対して恩赦を与えられます。"
