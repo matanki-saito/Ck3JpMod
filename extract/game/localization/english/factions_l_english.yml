@@ -254,5 +254,5 @@
  FACTION_REASON_POWER_MINIMAL:0 "Weak [faction_military_power|E]: $FACTOR|0%+=$"
  FACTION_REASON_FACTION_LEADER:0 "I am the [faction|E] leader: $VALUE|0+=$"
 
- FACTION_REASON_REGENT_CULTURAL_REASONS: "[regent_possessive|E] [culture|E]: $VALUE|0+=$"
- FACTION_REASON_REGENT_FAITH_REASONS: "[regent_possessive|E] [faith|E]: $VALUE|0+=$"
+ FACTION_REASON_REGENT_CULTURAL_REASONS:0 "[regent_possessive|E] [culture|E]: $VALUE|0+=$"
+ FACTION_REASON_REGENT_FAITH_REASONS:0 "[regent_possessive|E] [faith|E]: $VALUE|0+=$"

@@ -679,7 +679,7 @@
  tournament_events.7000.c:0 "Guards! #EMP Guards!#! There is a #EMP [mulan.GetWomanMan]#! in our tournament!"
 
  # TOOLTIPS
- tournament_not_competing_tt:1 "[THIS.Char.GetShortUIName] will not compete in any [contests|E]"
+ tournament_not_competing_tt:2 "[THIS.Char.GetShortUIName|U] will not compete in any [contests|E]"
  tournament_prize_template_tt:1 "Cannot equip a [GetActivityType( 'activity_tournament' ).GetName] [prize|E] until it has been awarded"
 
  # ACTIVITY LOG

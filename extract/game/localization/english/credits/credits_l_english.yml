@@ -267,7 +267,7 @@
  TITLE_LOCALIZATION_TOOLS:0 "#credits_subheader Localization Tools#!"
  TITLE_SPANISH:0 "#credits_subheader Spanish#!"
  HEADER_BETA_TESTERS:0 "#credits_header BETA TESTERS#!"
- TITLE_TEAM: "#credits_subheader Team#!"
+ TITLE_TEAM:0 "#credits_subheader Team#!"
 
  HEADER_LICENSES:1 "#credits_header LICENSES#!"
  TITLE_LICENCE_NOTIFICATION_HEADER:1 "#credits_subheader License Notification Header#!"

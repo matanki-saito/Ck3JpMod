@@ -98,7 +98,7 @@
 
  INVALID_TRAVEL_ROUTE_DEVIATION_TOO_LARGE:0 "@warning_icon! #X Travel route deviation too large: $PATH_DURATION_DIFF|0$ days over maximum#!"
 
- TRAVEL_PLANNER_ACCEPT_TRAVEL_PLAN: "Accept Travel Plan"
+ TRAVEL_PLANNER_ACCEPT_TRAVEL_PLAN:0 "Accept Travel Plan"
 
  TRAVEL_PLANNER_INVITED_ACTIVITY_START:0 "Activity start: [Activity.GetActiveStartDate.GetString]"
  TRAVEL_PLANNER_INVITED_ACTIVITY_ESTIMATED_ARRIVAL:0 "Estimated arrival: [TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate.GetString]"
@@ -113,9 +113,9 @@
  TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings_economic:0 "$TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings$"
  TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings_wonder:0 "$TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings$"
  TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings_diplomatic:0 "$TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings$"
- TRAVEL_POINT_OF_INTEREST_TT_poi_capitals:0 "Capital of [Province.GetTitle.GetDeFactoTopLiege.GetName][SelectLocalization( And( HasDlcFeature( 'royal_court' ), Province.GetTitle.GetDeFactoTopLiege.GetHolder.HasRoyalCourt() ), 'TRAVEL_POINT_OF_INTEREST_TT_poi_capitals_court_type', '')]"
- TRAVEL_POINT_OF_INTEREST_TT_poi_capitals_court_type:0 "\n([court_type|E]: [Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetCourtType.GetName])"
+ TRAVEL_POINT_OF_INTEREST_TT_poi_capitals:1 "Capital of [Province.GetTitle.GetHolder.GetPrimaryTitle.GetName][SelectLocalization( And( HasDlcFeature( 'royal_court' ), Province.GetTitle.GetHolder.HasRoyalCourt() ), 'TRAVEL_POINT_OF_INTEREST_TT_poi_capitals_court_type', '')]"
+ TRAVEL_POINT_OF_INTEREST_TT_poi_capitals_court_type:1 "\n([court_type|E]: [Province.GetTitle.GetHolder.GetCourtType.GetName])"
  TRAVEL_POINT_OF_INTEREST_TT_poi_mausoleum_at_halicarnassus:0 "Mausoleum at Halicarnassus"
  TRAVEL_POINT_OF_INTEREST_TT_poi_lighthouse_of_alexandria:0 "Lighthouse of Alexandria"
- TRAVEL_POINT_OF_INTEREST_TT_poi_grand_city: "Great City of [Province.GetBaronyNameExplicitly]"
- poi_grand_city_visit_event_tt: "Will trigger a Sight-Seeing Event"
+ TRAVEL_POINT_OF_INTEREST_TT_poi_grand_city:0 "Great City of [Province.GetBaronyNameExplicitly]"
+ poi_grand_city_visit_event_tt:0 "Will trigger a Sight-Seeing Event"

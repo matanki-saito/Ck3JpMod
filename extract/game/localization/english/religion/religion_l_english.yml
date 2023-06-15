@@ -645,6 +645,8 @@
  doctrine_parameter_witchcraft_illegal:0 "Characters with the [GetTrait('witch').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_witchcraft_shunned:0 "Characters with the [GetTrait('witch').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_witchcraft_accepted:0 "Characters with the [GetTrait('witch').GetName( GetPlayer )] [trait|E] are fully accepted"
+ witchcraft_illegal_name:0 "Criminal Witchcraft Doctrine"
+ witchcraft_shunned_name:0 "Shunned Witchcraft Doctrine"
  
  doctrine_head_of_faith_name:0 "Head of Faith"
  doctrine_head_of_faith_desc:0 "The [head_of_faith|E] is the leader of a [faith|E]"

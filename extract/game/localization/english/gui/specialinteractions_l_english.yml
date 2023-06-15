@@ -516,7 +516,7 @@
  grand_wedding_only_dominant_side:0 "Only the dominant side in a Betrothal can offer to organize a [GetActivityType( 'activity_wedding' ).GetName]"
  grand_wedding_only_family:0 "You can only organize a [GetActivityType( 'activity_wedding' ).GetName] for members of your own family"
  grand_wedding_mp_ai:0 "You can't offer a [GetActivityType( 'activity_wedding' ).GetName] to another player"
- grand_wedding_secondary_regent: "[regents|E] cannot partake in a [GetActivityType( 'activity_wedding' ).GetName]"
+ grand_wedding_secondary_regent:0 "[regents|E] cannot partake in a [GetActivityType( 'activity_wedding' ).GetName]"
 
  SELECT_HOLY_ORDER_LEASE_TO_REVOKE:0 "Select lease"
 

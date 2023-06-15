@@ -256,7 +256,7 @@
  DECLARE_ME_REGENT_PROPOSAL:0 "The realm needs a secure plan should you be indisposed, and I'm sure we agree that I am the best possible candidate for a future regent. I ask you to confirm my natural position publicly."
  declare_me_regent_interaction.tt.success:0 "[recipient.GetShortUIName] accepts your sensible proposal"
  declare_me_regent_interaction.tt.failure:0 "[recipient.GetShortUIName] rejects your outrageous demands"
- declare_me_regent_interaction.tt.opinion_of_current_regent: "[opinion|E] of current [recipient.GetDiarchTitle]: $VALUE|+=0$"
+ declare_me_regent_interaction.tt.opinion_of_current_regent:0 "[opinion|E] of current [recipient.GetDiarchTitle]: $VALUE|+=0$"
  declare_me_regent_interaction.tt.actor_is.close_family:0 "[close_family|E] should aid my rule: $VALUE|+=0$"
  declare_me_regent_interaction.tt.actor_is.extended_family:0 "[extended_family|E] should aid my rule: $VALUE|+=0$"
  declare_me_regent_interaction.tt.actor_is.house_member:0 "My [house|E] should aid my rule: $VALUE|+=0$"

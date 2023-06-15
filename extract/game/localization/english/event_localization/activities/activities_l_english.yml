@@ -82,7 +82,7 @@
  feast_type_murder_valid_tt:1 "You have hosted a Murder [GetActivityType('activity_feast').GetName] in the past 15 years"
  wedding_type_murder_valid_tt:1 "You have hosted a Bloody [GetActivityType('activity_wedding').GetName] in the past 15 years"
  honorary_guest:2 "Honorary Guest"
- honorary_guest_concept: "[honorary_guest|E]"
+ honorary_guest_concept:0 "[honorary_guest|E]"
  honorary_guest_for_host:0 "Murder Target"
  honorary_guest_regular:0 "$honorary_guest$"
  honorary_guest_regular_for_host:0 "$honorary_guest$"

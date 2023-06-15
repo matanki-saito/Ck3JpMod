@@ -177,7 +177,7 @@
  hunt_dangerous_beast_slain_modifier:0 "Dangerous Beast Slain"
  hunt_dangerous_beast_slain_modifier_desc:0 "The minds of the local populace are eased by the knowledge there is one fewer terror roaming the wilds."
 
- hunt_medicinal_herbs_modifier: "$useful_herbs$"
- hunt_medicinal_herbs_modifier_desc: "$useful_herbs_desc$"
- hunt_poisonous_herbs_modifier: "$poisonous_plants$"
- hunt_poisonous_herbs_modifier_desc: "$poisonous_plants_desc$"
+ hunt_medicinal_herbs_modifier:0 "$useful_herbs$"
+ hunt_medicinal_herbs_modifier_desc:0 "$useful_herbs_desc$"
+ hunt_poisonous_herbs_modifier:0 "$poisonous_plants$"
+ hunt_poisonous_herbs_modifier_desc:0 "$poisonous_plants_desc$"
