@@ -247,7 +247,7 @@
  activity_gruesome_festival_predicted_cost:0 "[GetActivityType( 'activity_gruesome_festival' ).GetNameNoTooltip]のコストは主に、選択する[activity_options|E]によって影響を受けます。"
  activity_witch_ritual_predicted_cost:0 "[GetActivityType( 'activity_witch_ritual' ).GetNameNoTooltip]のコストは、主にあなたの[income|E]に基づいています。"
  activity_playdate_predicted_cost:0 "[GetActivityType( 'activity_playdate' ).GetNameNoTooltip]のコストは主に、あなたの[income|E]と[title_tier|E]に影響を受けます。"
- honorary_guest_concept: "[honorary_guest|E]"
+ honorary_guest_concept:0 "[honorary_guest|E]"
  liege_accolades_glory_reward_title:0 "[glory|E]を獲得"
  liege_accolades_glory_reward:0 "Attendees spoke reverently of the martial virtue among them, particularly that of [root_scope.GetShortUINamePossessive] [root_scope.Custom('KnightCulturePluralNoTooltip')|l]"
  knight_accolade_glory_reward_title:0 "[glory|E]を獲得"

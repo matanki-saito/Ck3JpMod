@@ -493,4 +493,4 @@
  AI_OPINION_REASON_SPOUSE:0 "[CHARACTER.GetShortUINamePossessive]から、この婚姻の配偶者たる[TARGET_CHARACTER.GetShortUIName]への評価: $VALUE|=+0$"
  AI_OPINION_REASON_ACTOR:0 "[CHARACTER.GetShortUINamePossessive]から、この婚姻の仲人たる[TARGET_CHARACTER.GetShortUIName]への評価: $VALUE|=+0$"
  REVOKE_TITLE_CANT_REVOKE_REASON_NON_DOMAIN_BARONY:0 "@warning_icon!#X [TITLE.GetName]の[barony|E]はあなたの[domain|E]では無いため、[CHARACTER.GetShortUIName]から剥奪することは出来ません#!"
- grand_wedding_secondary_regent: "[regents|E]は[GetActivityType( 'activity_wedding' ).GetName]に参加出来ません"
+ grand_wedding_secondary_regent:0 "[regents|E]は[GetActivityType( 'activity_wedding' ).GetName]に参加出来ません"

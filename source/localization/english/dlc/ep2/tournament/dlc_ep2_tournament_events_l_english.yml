@@ -622,7 +622,7 @@
  tournament_events.7000.b:0 "私ならばお前のようなものでも活かしてやれる。"
  tournament_events.7000.b.tt:0 "あなたの[mulan.Custom('KnightCulture')]になります"
  tournament_events.7000.c:0 "衛兵！#EMP 衛兵#!！#EMP [mulan.GetWomanMan]#!がいる！我らが競技会に！"
- tournament_not_competing_tt:1 "[THIS.Char.GetShortUIName]はいかなる[contests|E]にも参加できません"
+ tournament_not_competing_tt:2 "[THIS.Char.GetShortUIName|U] will not compete in any [contests|E]"
  tournament_prize_template_tt:1 "授賞式まで[GetActivityType( 'activity_tournament' ).GetName]の[prize|E]を受け取ることはできません"
  tournament_placed_joust_wager_log_title:0 "ジョストの賭けが行われた"
  tournament_placed_joust_wager_log:1 "[CHARACTER.GetTitledFirstName]はジョスト大会の優勝者として[TARGET_CHARACTER.GetTitledFirstName]に賭けた"

@@ -631,7 +631,7 @@
  action_inactive_accolade_combined_group_description:0 "You have more than one [inactive_accolade|e] with assigned [acclaimed_knights|e] or a candidates eligible to be Appointed.$action_inactive_accolade_HELP$"
  action_restore_accolade:0 "@acclaimed_knight_icon! 叙されていない勲等を復活できます"
  action_restore_accolade_label:0 "@acclaimed_knight_icon! #high 勲等の復活#!の決断が行えます"
- action_restore_accolade_desc:0 "You have at least one [inactive_accolade|e] with no valid [acclaimed_knight|e].$action_restore_accolade_HELP$"
+ action_restore_accolade_desc:0 "有効な[acclaimed_knight|e]がない[inactive_accolade|e]が一つ以上あります。$action_restore_accolade_HELP$"
  action_restore_accolade_HELP:0 "\n\n#help その任に就く資格のある[knight|e]を探す: #high 勲等の復活#![decision|e]がこれに有用で、あなたの叙されていない勲等の[accolade_type|e]の資格を持つ騎士を招待してくれるでしょう。#!"
  action_restore_accolade_click:0 "#I クリックして決断を見る#!"
  action_end_regency:0 "あなたの[actor.GetDiarchyTypeName]の終わり"

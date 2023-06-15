@@ -220,5 +220,5 @@
  FACTION_REASON_BYZANTINE_RELIGION:0 "ビザンツの[liege|E]と同じ[religion|E]である: $VALUE|0+=$"
  FACTION_REASON_POWER_MINIMAL:0 "弱い[faction_military_power|E]: $FACTOR|0%+=$"
  FACTION_REASON_FACTION_LEADER:0 "私は[faction|E]の指導者である: $VALUE|0+=$"
- FACTION_REASON_REGENT_CULTURAL_REASONS: "[regent_possessive|E]の[culture|E]: $VALUE|0+=$"
- FACTION_REASON_REGENT_FAITH_REASONS: "[regent_possessive|E]の[faith|E]: $VALUE|0+=$"
+ FACTION_REASON_REGENT_CULTURAL_REASONS:0 "[regent_possessive|E]の[culture|E]: $VALUE|0+=$"
+ FACTION_REASON_REGENT_FAITH_REASONS:0 "[regent_possessive|E]の[faith|E]: $VALUE|0+=$"
