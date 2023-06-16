@@ -185,7 +185,7 @@
  setting_launch_off:1 "#high プレイヤーのみ#!"
  setting_launch_off_desc:0 "AIはハンガリー人の移住を開始しようとしません。"
  ACHIEVEMENT_FILTER_BUTTON_ALL:0 "すべて"
- ACHIEVEMENT_FILTER_BUTTON_UNLOCKED:0 "解除されました"
+ ACHIEVEMENT_FILTER_BUTTON_UNLOCKED:0 "解除済"
  ACHIEVEMENT_FILTER_BUTTON_LOCKED:0 "ロックされています"
  ACHIEVEMENT_FILTER_BUTTON_POSSIBLE:0 "可能"
  ACHIEVEMENT_FILTER_SHOW:0 "実績を表示:"

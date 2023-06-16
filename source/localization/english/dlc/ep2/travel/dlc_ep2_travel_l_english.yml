@@ -104,7 +104,7 @@
  trait_traveler_3:0 "熟練した旅行者"
  trait_track_travel:0 "冒険者"
  trait_track_travel_desc:0 "多くの人、場所、状況の経験が人を世俗的にするのかもしれない。"
- trait_track_danger:0 "季節"
+ trait_track_danger:0 "旅人"
  trait_track_danger_desc:0 "開かれた道では多くの危険が不注意で不準備な旅行者を待ち構えている。"
  travel_progress_towards_trait_0_tt:0 "[THIS.Char.GetShortUINameNoFormat|U]は[GetTrait('lifestyle_traveler').GetName( GetNullCharacter )]の[lifestyle_trait|E]として適応している。"
  travel_progress_towards_trait_1_tt:0 "[THIS.Char.GetShortUINamePossessive][GetTrait('lifestyle_traveler').GetName( GetNullCharacter )][trait|E]の経験値が僅かに上がる"

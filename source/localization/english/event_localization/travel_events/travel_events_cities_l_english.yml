@@ -35,7 +35,7 @@
  souvenir_tooltip:0 "宝物は[city_province.GetNameNoTooltip]の売り手から獲得されます"
  souvenir_bought:0 "[souvenir.GetName]は[city_province.GetNameNoTooltip]で購入された"
  travel_city_baghdad_intro:0 "[city_province.GetNameNoTooltip]の門をくぐると、アラビア語圏とイスラム世界の伝統的な中心地に到達したのだと実感せずにはいられない。\n\n"
- travel_city_baghdad_suq_al_warraqin_title:0 "[city_province.GetNameNoTooltip]: Suq al-Warraqin"
+ travel_city_baghdad_suq_al_warraqin_title:0 "[city_province.GetNameNoTooltip]: スーク アルワッラーキン"
  travel_city_baghdad_royal_enclosure_title:0 "[city_province.GetNameNoTooltip]: 王の部屋"
  travel_city_baghdad_cemeteries_title:0 "[city_province.GetNameNoTooltip]の過去"
  travel_city_baghdad_suq_al_warraqin:0 "街の中心に近づくにつれ、空気は知的な文学談義で満たされるようになった。この通り全体、橋の上も含めて、何百もの繁盛する書店や文芸サロンで占められているのだ。"

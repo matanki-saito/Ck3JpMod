@@ -1260,7 +1260,7 @@
  game_concept_ducal_conquest_casus_belli_desc:0 "[duchy|E]階級の[uncreated_title|E]を作成するのに必要な[counties|E]を押収する[casus_belli|E]です。"
  game_concept_vassalize_casus_belli:0 "強制的に属国にする開戦事由"
  game_concept_vassalization_casus_belli:0 "強制的に属国にする"
- game_concept_vassalized_casus_belli:0 "強制的に属国にさせた"
+ game_concept_vassalized_casus_belli:0 "強制的に属国にする"
  game_concept_vassalize_casus_belli_desc:3 "近隣のより低級の独立[ruler|E]に対し[vassalization|E]を強制する[casus_belli|E]です。[GetPerk( 'forced_vassalage_perk' ).GetName( GetPlayer )][perk|E]によって解禁されます。\n\n[realm|E]が#V [EmptyScope.ScriptValue('vassalize_default_size')|0]#![counties|E]を超えない統治者は臣従させられます。\n\nこの制限は以下の革新性につき#P +[EmptyScope.ScriptValue('vassalize_growth_per_innovation')|0]#!増加します:\n$EFFECT_LIST_BULLET$#V $innovation_casus_belli$#!\n$EFFECT_LIST_BULLET$#V $innovation_chronicle_writing$#!\n$EFFECT_LIST_BULLET$#V $innovation_divine_right$#!\n$EFFECT_LIST_BULLET$#V $innovation_rightful_ownership$#!"
  game_concept_title_creation:0 "称号の作成"
  game_concept_create:0 "作成"
