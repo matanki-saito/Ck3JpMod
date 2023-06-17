@@ -55,7 +55,7 @@
  berserker_rage_killed_enemy_no_trait_v7_friendly:0 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]は力強い咆哮で[TARGET_CHARACTER.GetShortUINameNoTooltip]を恐怖死させた！"
  berserker_rage_killed_enemy_no_trait_v8_enemy:0 "我らの$knight_culture_player_no_tooltip_lowercase$[TARGET_CHARACTER.GetShortUINameNoTooltip]は[TARGET_CHARACTER.GetHerHis]の頭蓋骨を[GetTrait('berserker').GetName( GetNullCharacter )][CHARACTER.GetShortUINameNoTooltip]にかち割られた！"
  berserker_rage_killed_enemy_no_trait_v8_friendly:0 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]は[TARGET_CHARACTER.GetShortUINameNoTooltip]の頭蓋骨をかち割った！"
- berserker_rage_killed_enemy_no_trait_v9_enemy:0 "我らの$knight_culture_player_no_tooltip_lowercase$[TARGET_CHARACTER.GetShortUINameNoTooltip]は[GetTrait('berserker').GetName( GetNullCharacter )][CHARACTER.GetShortUINameNoTooltip]に[TARGET_CHARACTER.GetHerHis]自身の腸で絞め殺された！"
+ berserker_rage_killed_enemy_no_trait_v9_enemy:0 "我らの$knight_culture_player_no_tooltip_lowercase$[TARGET_CHARACTER.GetShortUINameNoTooltip]は[GetTrait('berserker').GetName( GetNullCharacter )][CHARACTER.GetShortUINameNoTooltip]に自分の腸で絞め殺された！"
  berserker_rage_killed_enemy_no_trait_v9_friendly:0 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]は[TARGET_CHARACTER.GetShortUINameNoTooltip]を[TARGET_CHARACTER.GetHerHis]自身の腸で絞め殺した！"
  shieldmaiden_skill_killed_enemy_no_trait_v1_enemy:0 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]は[TARGET_CHARACTER.GetShortUINameNoTooltip]に首を斬り落とされた！"
  shieldmaiden_skill_killed_enemy_no_trait_v1_friendly:0 "我らの$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]は[TARGET_CHARACTER.GetShortUINameNoTooltip]の首を斬り落とした！"

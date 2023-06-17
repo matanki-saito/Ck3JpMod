@@ -4,7 +4,7 @@
  diarch_rebel_or_crime_summary.crominal:1 "[recipient.GetTitledFirstName]が拒否した場合は、[imprisonment|E] (および[war|E]での多額の[gold|E])を強制するか、[recipient.GetLiege.GetTitledFirstName]に対して[recipient.GetHerHim]を[criminal|E]と宣言できます"
  diarch_boilerplate_postscript_full:0 "despite not being [recipient.GetHerHis] [liege|E]$diarch_boilerplate_postscript_partial$"
  diarch_boilerplate_postscript_partial:0 "\n\n@warning_icon!#weak これはあなたの仲間の[vassals|E]との[strife|E]を招くでしょう#!"
- diarch_using_powers.t:1 "[actor.GetLiege.GetDiarchTitle] Leveraging Position"
+ diarch_using_powers.t:1 "[actor.GetLiege.GetDiarchTitle] 影響力のある地位"
  IS_IN_DIARCHY:0 "You are in a [diarchy|E]"
  swing_scales_interaction_by_liege.t:0 "主君のあなたに対する権力の秤錘が変化"
  swing_scales_interaction_by_diarch.t:2 "[recipient.GetDiarchTitle|U]のあなたに対する権力の秤錘が変化"

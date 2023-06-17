@@ -131,7 +131,7 @@
  death_skull_cracked_open:0 "頭をかち割られた"
  death_skull_cracked_open_killer:0 "[TARGET_CHARACTER.GetUIName]に頭をかち割られた"
  death_strangled_with_own_intestines:0 "[CHARACTER.GetHerHis]自身の腸で絞め殺された"
- death_strangled_with_own_intestines_killer:0 "[TARGET_CHARACTER.GetUIName]に[CHARACTER.GetHerHis]自身の腸で絞め殺された"
+ death_strangled_with_own_intestines_killer:0 "[TARGET_CHARACTER.GetUIName]に自分の腸で絞め殺された"
  death_decapitated:0 "首を斬り落とされた"
  death_decapitated_killer:0 "[TARGET_CHARACTER.GetUIName]に首を斬り落とされた"
  death_piteously_cut_down:0 "哀れにも斬り倒された"

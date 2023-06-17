@@ -217,7 +217,7 @@
  SCHEME_PROGRESS_FROZEN_REASON:0 "進捗は$REASON$のため凍結されます"
  SCHEME_PROGRESS_FROZEN_DATE_REASON:0 "進捗は$REASON$のため[DATE.GetString|V]まで凍結されます"
  murder_entourage_successful_roll_tt:0 "[target.GetShortUINamePossessiveNoTooltip]の従者の何人かが殺されます！"
- DIARCH_REALM_INFLUENCE:0 "[diarchs|E] [scheme|E] better in their [liege|E]'s [realm|E]: $VALUE|=+%/0$"
+ DIARCH_REALM_INFLUENCE:0 "[diarchs|E]の[scheme|E]は彼らの[liege|E]の[realm|E]より優れている：$VALUE|=+%/0$"
  FREEZE_REASON_TRAVELING:0 "あなたが旅行中である"
  FREEZE_REASON_TARGET_TRAVELING:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]が旅行中である"
  BEFRIENDING_AT_FEAST:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]があなたと同じ饗宴に参加している"

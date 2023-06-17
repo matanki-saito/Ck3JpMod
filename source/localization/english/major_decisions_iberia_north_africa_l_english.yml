@@ -1,6 +1,6 @@
 ﻿l_english:
  iberia_north_africa.0005.t:0 "統一されたスペイン"
- iberia_north_africa.0005.desc:0 "今ひとたびスペインの玉座は一人の[ROOT.Char.GetTitleAsNameNoTooltip]の下に統一された。偽りの君主達は玉座を退き、[ROOT.Char.GetPrimaryTitle.GetNameNoTier]はいまだかつてなく強力に立位する。\n\nいつか私がこの世を去り、[ROOT.Char.GetFaith.DivineRealm]へ赴こうとも、遺産は永遠に地上に残り、[ROOT.Char.GetTitledFirstNameNoTooltip]ー―スペインの[ROOT.Char.GetMotherFather|U]と称されるであろう。"
+ iberia_north_africa.0005.desc:0 "今ひとたびスペインの玉座は一人の[ROOT.Char.GetTitleAsNameNoTooltip]の下に統一された。偽りの君主達は玉座を退き、[ROOT.Char.GetPrimaryTitle.GetNameNoTier]はいまだかつてなく強力に立位する。\n\nいつか私がこの世を去り、[ROOT.Char.GetFaith.DivineRealm]へ赴こうとも、遺産は永遠に地上に残り、[ROOT.Char.GetTitledFirstNameNoTooltip]——スペインの[ROOT.Char.GetMotherFather|U]と称されるであろう。"
  iberia_north_africa.0005.a:1 "新時代の幕開けだ。"
  iberia_north_africa.0006.start.desc:0 "スペインの王国は次々と、[spain_uniter.GetPrimaryTitle.GetNameNoTier]の軍門に降っていった。"
  iberia_north_africa.0006.relation_former.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', spain_uniter)][spain_uniter.GetTitledFirstName]"
