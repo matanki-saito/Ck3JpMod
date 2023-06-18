@@ -321,7 +321,7 @@
  supply_state_supplied_advantage:2 "軍が補給を受けている"
  supply_state_running_low_advantage:2 "軍の補給が不足している"
  supply_state_starving_advantage:2 "軍は飢えている"
- recently_disembarked_advantage:1 "相手は[recently_disembarked|E]"
+ recently_disembarked_advantage:1 "[recently_disembarked|E]"
  gathering_army_advantage:0 "軍は召集中"
  holding_defender_advantage:0 "守備的[buildings|E]"
  unreformed_faith_province:2 "[unreformed_pagan_combat_bonus|E]"

@@ -1,5 +1,5 @@
 ﻿l_english:
- rival_race_sabotage_accusation:0 "[CHARACTER.GetShortUIName|U] accused [TARGET_CHARACTER.GetShortUIName] of treacherous sabotage after a racing collision."
- rival_race_sabotage_accusation_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] accused [CHARACTER.GetShortUIName] of treacherous sabotage after a racing collision."
- friend_shared_disappointment:0 "[CHARACTER.GetShortUINamePossessive|U] kindness after a shared loss at the races birthed a bond from disappointment."
- friend_shared_disappointment_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U] kindness after a shared loss at the races birthed a bond from disappointment."
+ rival_race_sabotage_accusation:0 "[CHARACTER.GetShortUIName|U]は、レース中の衝突のあとで、[TARGET_CHARACTER.GetShortUIName]の危険な妨害行為を告発した。"
+ rival_race_sabotage_accusation_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は、レース中の衝突のあとで、[CHARACTER.GetShortUIName]の危険な妨害行為を告発した。"
+ friend_shared_disappointment:0 "[CHARACTER.GetShortUINamePossessive|U]のいたわりが、レースでともに敗北を喫した後に、失意から絆を生むきっかけになった。"
+ friend_shared_disappointment_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U]のいたわりが、レースでともに敗北を喫した後に、失意から絆を生むきっかけになった。"

@@ -889,7 +889,7 @@
  fund_inspiration.9100.a.failure:0 "[adventurer.GetFirstNameNoTooltip]が[adventurer.Custom('GetAnimalType')]に襲われる！"
  fund_inspiration.9100.b.success:0 "[adventurer.GetFirstNameNoTooltip]は突進してくる野生の[adventurer.Custom('GetAnimalType')]を殺す"
  fund_inspiration.9100.b.failure:0 "[adventurer.GetFirstNameNoTooltip]は突進してくる野生の[adventurer.Custom('GetAnimalType')]に打ち負かされる"
- fund_inspiration.9100.b.maimed:0 "[adventurer.GetFirstName]は[adventurer.Custom('GetAnimalType')]によって不具にさせられる"
+ fund_inspiration.9100.b.maimed:0 "[adventurer.GetFirstName]は[adventurer.Custom('GetAnimalType')]に深手を負わされる"
  inspiration_owner_type_writer:0 "作家"
  inspiration_owner_type_weaponsmith:0 "武器職人"
  inspiration_owner_type_armorer:0 "鎧職人"
