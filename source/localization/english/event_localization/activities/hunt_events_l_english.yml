@@ -56,7 +56,7 @@
  hunt.1023.a:0 "さあ、[ROOT.Char.Custom('DogStoryName')]、取ってくるんだ！"
  hunt.1023.a.good:2 "[ROOT.Char.Custom('DogStoryName')]が[host.Custom('GetAnimalType')|l]を倒す"
  hunt.1023.a.bad:0 "[ROOT.Char.Custom('DogStoryName')]が闘いで死ぬ"
- hunt.1023.b:2 "私が仕留める、[ROOT.Char.GetWomanMan]対[host.Custom('GetAnimalType')|l]だ。"
+ hunt.1023.b:2 "私が仕留める、[ROOT.Char.GetWomanMan]と[host.Custom('GetAnimalType')|l]の対峙だな。"
  hunt.4001.t:2 "撃つ"
  hunt.4001.desc_1:1 "私は黙って、[host.GetCurrentLocation.Custom('GetProvinceGroundDesc')]でしゃがみこんでいる私の[ROOT.Char.Custom2('RelationToMe', hunt_participant)][hunt_participant.GetTitledFirstName]が同じことをするのを黙って眺める。"
  hunt.4001.desc_2:2 "[activity.Custom('GetAnimalType')]までの距離を慎重に判断し、槍を手に完璧にバランスを保ちながら…\n\n私の[ROOT.Char.Custom2('RelationToMe', hunt_participant)][hunt_participant.GetTitledFirstName]は隣にしゃがみこんで、[hunt_participant.GetHerHis]の槍を持ち上げる。"

@@ -1,6 +1,6 @@
 ﻿l_english:
  travel_danger_events.9000.t:1 "$travel_danger_prefix$ ブンブンという災厄"
- travel_danger_events.9000.desc:0 "[location.GetName]の[location.Custom('GetTerrainTypePlural')]には、小さな、暗い、吸血性の昆虫が#EMP 群がっている#!。我々が何をしようと、どこに行こうと、彼らはそこにいて——[ROOT.Char.GetFaith.DevilName]自身が送る拷問のような雲の如く、私たちの血を吸い上げるのだ！\n\n馬だけでなく、私の側近たちも好戦的になり、怒りっぽくなっている…特に私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('mosquito_victim'))][mosquito_victim.GetFirstName]は[mosquito_victim.GetHerHis]の血豆に覆われた腕を激しく振り回している。"
+ travel_danger_events.9000.desc:0 "[location.GetName]の[location.Custom('GetTerrainTypePlural')]には、小さな、暗い、吸血性の昆虫が#EMP 群がっている#!。我々が何をしようと、どこに行こうと、やつらはそこにいて——[ROOT.Char.GetFaith.DevilName]自身が送る拷問のような雲の如く、私たちの血を吸い上げるのだ！\n\n馬だけでなく、側近たちも好戦的になり、怒りっぽくなっている…特に私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('mosquito_victim'))][mosquito_victim.GetFirstName]は[mosquito_victim.GetHerHis]の血豆に覆われた腕を激しく振り回している。"
  travel_danger_events.9000.deviant:0 "#EMP 愉快だ！#!皆、裸になれ！"
  travel_danger_events.9000.herbalist:0 "このハーブが役に立つかもしれない…"
  travel_danger_events.9000.a:0 "押し通るぞ、彼らは単なる#EMP 虫だ！#!"

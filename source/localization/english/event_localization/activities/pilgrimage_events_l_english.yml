@@ -733,7 +733,7 @@
  pilgrimage.6810.desc:0 "「…さあ行きなさい、子よ。」私が[ROOT.Char.GetFaith.HouseOfWorship]に入ると[bishop_pilgrim.GetTitledFirstName]の呟きが聞こえる。巡礼者は立ち去る前にお辞儀をし、司祭の手が金色に輝いているのが見える。\n\n「ああ、親愛なる[ROOT.Char.GetTitleAsNameNoTooltip]、あなたも罪を赦されたいのですか？[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]を訪れる巡礼者に贖宥状を与えるという命令を[religious_head_scope.GetTitledFirstName]が出しています——適正な価格で、ですが。」"
  pilgrimage.6810.a:0 "「どうか、私のために[ROOT.Char.GetFaith.HighGodName]を執り成してください。」"
  pilgrimage.6810.b:0 "[my_heir.GetFirstNameNoTooltip]のために一つもらっておけば有用かもしれない。"
- pilgrimage.6810.c:0 "「[ROOT.Char.GetFaith.DivineRealm]への入場はどうやったら購入できる？」"
+ pilgrimage.6810.c:0 "「[ROOT.Char.GetFaith.DivineRealm]への入場が金で買えるものだとでも？」"
  pilgrimage.6820.t:0 "巡礼者のガイド"
  pilgrimage.6820.desc:0 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の市場は、私が聞いたこともない言葉で叫び、味わったこともないスパイスを売る商人たちで賑わっている。\n\n「巡礼者のガイドです！最も安全な経路を学び、 [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の驚異を発見してください！」そのうちの一人が、私の方向に小さな本を振りながら大声で叫んでいる。"
  pilgrimage.6820.a:0 "「一つもらおう！」"
