@@ -451,7 +451,7 @@
  hunt.1030.a:0 "素晴らしい提案だ。"
  hunt.1030.b:0 "いや、追い込みで狩りたい！"
  hunt.1030.c:0 "さあ行こう！"
- hunt.1032.opening:1 "私たちは、勢子の叫び声と猟犬の鳴き声が大きくなるにつれて、期待に胸を張りながら、隠された弓列から[activity.Custom('GetAnimalType')]見据える。\n\n"
+ hunt.1032.opening:1 "私たちは、勢子の叫び声と猟犬の鳴き声が大きくなるにつれて、期待に胸を張りながら、隠された弓列から[activity.Custom('GetAnimalType')]を見据える。\n\n"
  hunt.1032.desc:1 "その[activity.Custom('GetAnimalColor')][activity.Custom('GetAnimalMale')]は恐怖に駆られ[activity.Custom('GetAnimalChargeParticiple')]、[activity.Custom('GetAnimalDanger')]は手足をじたばたさせながら、覗き込む我らの頭に突っ込んできた。"
  hunt.1032.a:0 "待て！#EMP 私の#!獲物だ！"
  hunt.1032.b:0 "止まれ！[hunt_participant.GetFirstNamePossessiveNoTooltip]！"
