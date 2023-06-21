@@ -1,6 +1,6 @@
 ﻿l_english:
  tour_grounds_events.7000.t:0 "目に見えないもの…"
- tour_grounds_events.7000.desc:0 "[stop_host_scope.GetTitledFirstName|U]はこれまでとても親切な主催者であり、[stop_host_scope.GetHerHis]の土地や財産を誇らしげに私に見せてくれていたので、[stop_host_scope.GetSheHe]がどもり始め、明らかに我々が通りすぎようとしている目立たない扉から私の注意をそらそうとしたことに、私はびっくりした。\n\n「私に何か#EMP 隠している#!のか、[stop_host_scope.GetFirstNameNoTooltip]？」\n\n私は[stop_host_scope.GetHerHis]の唖然としている瞬間を利用する——恥辱？#EMP 罪の意識#!？——沈黙してドアを押し開けると、目に入ったものに私は驚かされる。"
+ tour_grounds_events.7000.desc:0 "[stop_host_scope.GetTitledFirstName|U]はこれまでとても丁重な主催者であった。自らの土地や財産を誇らしげに見せてくれていたのだ。だからこそ、どもり始めたこと、明らかに我々が通りすぎようとしている目立たない扉から注意をそらそうとし始めたことに、非常に驚いた。\n\n「[stop_host_scope.GetFirstNameNoTooltip]、何か#EMP 隠し事#!でも？」\n\n[stop_host_scope.GetHerHis]が唖然とした瞬間を利用する——それは恥辱によるものか？それとも#EMP 罪の意識か#!？——私は静かにドアを押し開ける。そして、目に入ったものに驚かされた。"
  tour_grounds_events.7000.desc_artifacts:0 "宝物、宝石、さらには[stop_host_scope.GetFirstNamePossessiveNoTooltip]の[this_artifact.GetName]まで！"
  tour_grounds_events.7000.desc_pantry:0 "隠された食料庫には、外国のスパイス、味付けされた肉、ハチミツ、塩の樽が天井まで積み上げられている！"
  tour_grounds_events.7000.desc_cellar:0 "地下室全体に、遠い国から取り寄せられた高価なワインや果実酒が天井まで積み上げられている！"
