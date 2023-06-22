@@ -215,7 +215,7 @@
  level_3_reward_tt_title:0 "$level_5_reward_tt_title$"
  level_2_reward_tt_title:0 "$level_5_reward_tt_title$"
  level_1_reward_tt_title:0 "$level_5_reward_tt_title$"
- failed_to_get_reward_tt_title:0 "Failed to get any rewards"
+ failed_to_get_reward_tt_title:0 "成果をあげられなかった"
  tournament_activity_cost_discount_war_camps_desc:0 "開催地には$building_type_war_camps_01$がある"
  tournament_activity_cost_discount_barracks_desc:0 "開催地には$building_type_barracks_01$がある"
  tournament_activity_cost_max_discount_desc:0 "開催地には$building_type_hall_of_heroes_01$がある"

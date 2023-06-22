@@ -138,7 +138,7 @@
  death_piteously_cut_down_killer:0 "[TARGET_CHARACTER.GetUIName]に哀れにも斬り倒された"
  death_wolf:0 "狼に食い裂かれた"
  death_wolves:0 "狼たちに食い裂かれた"
- death_bear:0 "熊により断片に引き裂かれた"
+ death_bear:0 "熊によりずたずたに引き裂かれた"
  death_wolverine:0 "クズリに食い刻まれた"
  death_lynx:0 "オオヤマネコに食い殺された"
  death_moose:1 "エルクに惨たらしく殺された"

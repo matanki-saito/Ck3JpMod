@@ -496,7 +496,7 @@
  tournament_events.6050.b.horse_race:0 "#EMP [sabotage_target_2.Custom('GetContestHorseRaceName')]号#!で[sabotage_target_2.GetFirstNameNoTooltip]が勝つのは許せない。"
  tournament_events.6050.c:0 "[sabotage_target_3.GetFirstNameNoTooltip]をなだめる必要がある。"
  tournament_events.6050.c.horse_race:0 "[sabotage_target_3.GetFirstNamePossessiveNoTooltip]の#EMP [sabotage_target_3.Custom('GetContestHorseRaceName')]号#!をなだめる必要がある。"
- tournament_events.6050.d:0 "これで勝てるわけがない..."
+ tournament_events.6050.d:0 "他にも勝つ方法はあるさ…"
  tournament_events.6050.success:0 "あなたの妨害工作が成功する"
  tournament_events.6050.detected:0 "あなたの妨害工作がバレる"
  tournament_events.6050.failure:0 "あなたの妨害工作が失敗する"

@@ -363,7 +363,7 @@
  culture_parameter_less_prestige_from_battles:0 "[battles|E]からの[prestige|E]と[prestige_experience|E]: [prestige_i]#N -75%#!"
  culture_parameter_same_faith_inheritance_only:0 "[faith|E]が同じ人物だけが継承できます"
  culture_parameter_wanderers_gain_extra_combat_skills:0 "[wanderers|E]は時の経過とともに、[martial|E]、[prowess|E]、[commander_traits|E]といった追加の戦闘スキルを獲得します"
- culture_parameter_wanderers_gain_extra_economic_skills:0 "[wanderers|E]は時の経過とともに、[stewardship|E]、[lifestyle_traits|E]といった経済スキルを獲得します"
+ culture_parameter_wanderers_gain_extra_economic_skills:0 "[wanderers|E]は時の経過とともに、[stewardship|E]能力や[lifestyle_traits|E]といった経済スキルを獲得します"
  culture_parameter_mercenary_courtiers_gain_extra_skills:0 "[mercenary|E]の[courts|E]内の[knights|E]は[prowess|E]の獲得が速くなります"
  culture_parameter_more_likely_to_leave_court:0 "仕事のない[courtiers|E]は[wanderers|E]になる可能性がより高いです"
  culture_parameter_courtiers_less_likely_to_leave_same_culture_court:0 "彼らの[liege|E]が同じ[culture|E]の場合、仕事のない[courtiers|E]が[wanderers|E]になる可能性は低いです"
