@@ -29,7 +29,7 @@
  fp1_other_decisions.0002.animals_only.offended_humsac_haters:0 "人身御供を支持しない者の[opinion|E]や[county_opinion|E]を失います"
  fp1_other_decisions.0002.human_sacrifice.regular.piety:0 "$fp1_other_decisions.0002.piety_gain.rump$、#positive_value [THIS.Var('piety_gain_standard_human').GetValue|0]#![piety_i]を得ます"
  fp1_other_decisions.0002.human_sacrifice.regular.piety.loss:0 "$fp1_other_decisions.0002.piety_gain.rump$、#negative_value [THIS.Var('piety_gain_standard_human').GetValue|0]#![piety_i]を失います"
- fp1_other_decisions.0002.human_sacrifice.optional_victim_picker:0 "オプションとして、あなたの[prisoners|E]の中から[designate_chief_sacrifice_article|E]を指定できます"
+ fp1_other_decisions.0002.human_sacrifice.optional_victim_picker:0 "オプションとして、あなたの[prisoners|E]の中から[designate_chief_sacrifice_article|E]が可能です"
  fp1_other_decisions.0002.human_sacrifice.become_cannibal:0 "あなたは[blotter.Custom('GruesomeFestivalName')]で[GetTrait('cannibal').GetName( GetNullCharacter )]になります"
  fp1_other_decisions.0002.d:0 "最高級の生贄のみを使おう。[blotter.Custom('WomanManPerson_GenderPreference')]も動物も…"
  fp1_other_decisions.0002.human_sacrifice.magnificent.opinion:0 "[gf_faith.GetAdherentNamePlural]の[opinion|E]や[county_opinion|E]が最大まで上がります"

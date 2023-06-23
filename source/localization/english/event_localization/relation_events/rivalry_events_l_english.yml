@@ -29,7 +29,7 @@
  rivalry.1001.a:1 "お前を呪ってやる、[rival.GetFirstNameNoTooltip]！"
  rivalry.1010.t:0 "悪意ある行為"
  rivalry.1010.desc:0 "[rival.GetTitledFirstNamePossessive]の[rival.Custom('InsultBehavior')]は私を常に悩ませてきたが、"
- rivalry.1010.desc.patient:0 "私でさえ、あんまりな[rival.GetTitledFirstNamePossessive]の[rival.Custom('InsultBehavior')]を耐えていられるのは、それがまさに手に負えなくなるまでだ、そして"
+ rivalry.1010.desc.patient:0 "私でさえ、あんまりな[rival.GetTitledFirstNamePossessive]の[rival.Custom('InsultBehavior')]ふるまいには耐えることしか出来ない。ただ、手に負えなくなってしまうまでは、だが。そして"
  rivalry.1010.desc.end:0 "最近は以前にも増してイライラしてきた。この仕打ちに対し私は何とか[rival.GetHerHim]に仕返ししたいが、どのような形で報復してやればいいのだろう？"
  rivalry.1010.a:0 "[rival.GetHerHim]を何年も悩ませる恥ずべき噂を広めよう！"
  rivalry.1010.a.success.tt:0 "#F その噂が多くの陰口や憶測へとつながります#!"

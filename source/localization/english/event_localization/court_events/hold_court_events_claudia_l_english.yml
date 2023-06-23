@@ -42,7 +42,7 @@
  hold_court.6040.b.tt:0 "あなたの古物蒐集家は無能です"
  hold_court_6040_b_fake:1 "本はひどく巧妙に作られた偽物であり——無価値で役に立たない"
  hold_court_6040_b_generic:0 "本は確かに古いが、単なる[6040_monk.Custom('GetOldBook')]だ。"
- hold_court_6040_b_clueless:0 "本の起源や目的については、あなたの古物蒐集家でも解明することができない"
+ hold_court_6040_b_clueless:0 "その本の起源や目的は、あなたの古物蒐集家でも解明できない"
  hold_court_6040_b_artifact:0 "本は、古くて貴重な名著の複写だ！"
  hold_court.6040.c:0 "私に見せてくれ、#EMP 今すぐ#!！"
  hold_court.6040.c.tt:1 "それは——ひどく巧妙な偽物です！"
