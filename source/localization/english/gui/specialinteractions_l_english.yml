@@ -460,7 +460,7 @@
  GRAND_WEDDING_PROMISE:1 "[GetActivityType( 'activity_wedding' ).GetNameNoTooltip]"
  THUG_REASON:0 "Your [acclaimed_knight|E] is intimidating: $VALUE|=+0$"
  THUG_REASON_HIGH:0 "Your [acclaimed_knight|E] is very intimidating: $VALUE|=+0$"
- jizya_religious_protection_tt:0 "[contract|E] starts with [GetVassalContractType( 'jizya_special_rights' ).GetObligationName( 'jizya_special_rights_granted' )]"
+ jizya_religious_protection_tt:0 "[contract|E]は[GetVassalContractType( 'jizya_special_rights' ).GetObligationName( 'jizya_special_rights_granted' )]で始まります"
  GRAND_WEDDING_PROMISE_REASON_1:0 "[GetActivityType( 'activity_wedding' ).GetName]が約束されている: $VALUE|=+0$"
  GRAND_WEDDING_MAGNIFICENT_HOST_REASON:0 "$gwedding_magnificent_host_modifier$"
  GRAND_WEDDING_DYNASTY_LEGACY_BONUS:1 "$ep2_activities_legacy_track$: $VALUE|=+0$"

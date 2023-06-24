@@ -1787,7 +1787,7 @@
  game_concept_scales_of_power_scales:0 "秤錘"
  game_concept_scales_of_power_desc:2 "[power_sharing|E]の間、[liege|E]と[diarch|E]との権力のバランスは$game_concept_scales_of_power$によって示されます。\n\n$game_concept_scales_of_power_scales$が$game_concept_diarch$に傾くと、[diarch_powers|E]がアンロックされます。この時、[diarch_affected_actions|E]に対しては主君側に追加の代価が求められることでしょう。\n\n一方で、$game_concept_liege$に傾いたのなら、[diarchy|E]を終わらせることはより容易になるでしょう。\n\n$game_concept_scales_of_power_scales$は以下の方法で振り回すことができます: \n$EFFECT_LIST_BULLET$対立する相手に対して$swing_scales_currency_interaction$ [character_interaction|E]を使用すること\n$EFFECT_LIST_BULLET$[mandate|E]のイベントで$game_concept_liege$に対して（どんなに冷淡な手段になるとしても）$game_concept_diarch$として忠実に仕えること"
  game_concept_entrenched_regency:0 "定着した執政体制"
- game_concept_entrenched_regency_entrenched:0 "定着した"
+ game_concept_entrenched_regency_entrenched:0 "定着"
  game_concept_entrenched_regency_regency:0 "執政体制"
  game_concept_entrenched_regent:0 "定着した執政"
  game_concept_entrenched_regents:0 "定着した執政"
