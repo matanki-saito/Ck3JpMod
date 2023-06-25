@@ -315,7 +315,7 @@
  travel_events.4039.a:0 "あるいは、ちょっとだけ休めるかもしれない…"
  travel_events.4039.b:0 "移動を続けなければ！"
  travel_events.4040.t:0 "$travel_event_prefix$ 文化的志向"
- travel_events.4040.desc:1 "[ROOT.Char.GetCurrentLocation.GetCounty.GetName]に入って以来、私はまるで壮大な庭の動物のように扱われるようにななった。人々は、私の話し方や身のこなしを驚いて見つめている。\n\n私たちが道を進んでいると、突然、奇妙で熱狂的な一人の[fanboy_character_scope.GetWomanMan]が私に近づいてきた。他の群衆とは異なり、[ROOT.Char.GetCulture.GetLanguage.GetName]語を話すようだ。\n\n「私の言葉、本当だった！よりにもよってここで[ROOT.Char.GetCulture.GetName]の[ROOT.Char.GetTitleAsNameNoTooltip]に！私は[ROOT.Char.GetCulture.GetNameNoTooltip]の慣習に長い間憧れ、[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]語まで身に付けたのです！なんと光栄なことでしょう！」"
+ travel_events.4040.desc:1 "[ROOT.Char.GetCurrentLocation.GetCounty.GetName]に入って以来、私はまるで壮大な庭の動物のように扱われるようになった。人々は、私の話し方や身のこなしを驚いて見つめている。\n\n私たちが道を進んでいると、突然、奇妙で熱狂的な一人の[fanboy_character_scope.GetWomanMan]が私に近づいてきた。他の群衆とは異なり、[ROOT.Char.GetCulture.GetLanguage.GetName]を話すようだ。\n\n「私の言葉、本当だった！よりにもよってここで[ROOT.Char.GetCulture.GetName]の[ROOT.Char.GetTitleAsNameNoTooltip]に！私は[ROOT.Char.GetCulture.GetNameNoTooltip]の慣習に長い間憧れ、[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]まで身に付けたのです！なんと光栄なことでしょう！」"
  travel_events.4040.a:0 "名誉はすべてあなたのものだ。"
  travel_events.4040.b:0 "#EMP あなたの#!仲間の人々について教えてくれ。"
  travel.caught_red_handed:0 "あなたは現行犯で捕まった"

@@ -34,7 +34,7 @@
  host_gains_diplo_xp_title:0 "$activity_pulse_action_host_gains_diplo_xp$"
  activity_pulse_action_host_gains_diplo_xp:0 "[first.GetShortUINameNoTooltip|U]は[second.GetShortUINameNoTooltip|U]と交渉した"
  host_gains_steward_xp_title:0 "$activity_pulse_action_host_gains_steward_xp$"
- activity_pulse_action_host_gains_steward_xp:0 "[first.Custom('RegionalDrink')|U] Vendors Praise [first.GetShortUINameNoTooltip|U]"
+ activity_pulse_action_host_gains_steward_xp:0 "[first.Custom('RegionalDrink')|U]商人が[first.GetShortUINameNoTooltip|U]を称えた"
  host_gains_intrigue_xp_title:0 "$activity_pulse_action_host_gains_intrigue_xp$"
  activity_pulse_action_host_gains_intrigue_xp:1 "[first.GetShortUINameNoTooltip|U]は[second.GetShortUINameNoTooltip|U]をおだてる"
  ridiculed_food_title:0 "$activity_pulse_action_ridiculed_food$"

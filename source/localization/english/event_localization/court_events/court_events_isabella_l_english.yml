@@ -26,7 +26,7 @@
  court.4200.d:0 "ケーキの巻き上げ？独創的だな、ご婦人！"
  court.4200.e:0 "確かに、全裸で秘密地下牢に放り込まれて#EMP みたい#!ものだな。"
  court.4200.f:0 "私がもっと逃げられる隠された拷問部屋だ。"
- court.4200.g:0 "誰にも邪魔されずに狼狽できる部屋が欲しいと#EMP ずっと#!願っていた！"
+ court.4200.g:0 "誰にも邪魔されず狼狽できる部屋を#EMP ずっと#!願っていた！"
  court.4250.t:0 "私の塔はあなたの塔より大きい！"
  court.4250.desc:1 "「弱々しい[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の廷臣どもめ、」[tower_challenger_rival.GetTitledFirstName]が玉座の間の前で怒鳴っている。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]が泥にまみれた豚のように地面にうずくまっている間、私はこの荒廃した世界が見たこともないほど高い塔を[tower_challenger_rival.GetCapitalLocation.GetTitle.GetNameNoTier]に建てた。私の[tower_challenger_rival.Custom('FortifiedBuilding')]からはほとんど惑星を掴み取ることができる。あなたの星はどこにあるのかな、[ROOT.Char.GetTitledFirstNameNoTooltip]？」\n\n我が[concerned_steward.GetCouncilTitle|l][concerned_steward.GetTitledFirstName]は私の肩に慎重に手を置く。「我が[ROOT.Char.GetLadyLord]、[tower_challenger_rival.GetTitledFirstNamePossessiveNoTooltip]の塔は、構造的に問題のある粘土と糊でできた400フィートの塔です。[tower_challenger_rival.GetHerHis]の挑発は無視して崩壊するのを待っておきましょう！」"
  court.4250.a:0 "高慢な背中に、その空の針を突き刺してやろう！"
