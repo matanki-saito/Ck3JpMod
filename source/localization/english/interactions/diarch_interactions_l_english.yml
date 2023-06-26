@@ -16,7 +16,7 @@
  recipient_secondary_diarch_interaction:0 "あなたの[liege|E]は警告を受けるでしょう"
  diarch_interaction.skill_gamble.tt.success:0 "[actor.GetShortUINamePossessiveNoTooltip|U]の改竄は成功した"
  diarch_interaction.skill_gamble.tt.failure:0 "[actor.GetShortUINamePossessiveNoTooltip|U]の計画が完全に失敗します"
- diarch_interaction_pay_prestige_none:0 "You pay no [prestige|E]"
+ diarch_interaction_pay_prestige_none:0 "あなたは[prestige|E]を消費しない"
  diarch_interaction_pay_prestige_partial:1 "[prestige_i]#EMP いくらかの#!政治的な[prestige|E]を賭ける"
  diarch_interaction_pay_prestige_full:1 "[prestige_i]相当な政治的[prestige|E]を投入する"
  custom_description.tt.must_target_liege:0 "[recipient.GetShortUINameNoTooltip]はあなたの[liege|E]ではありません"

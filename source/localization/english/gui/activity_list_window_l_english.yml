@@ -48,6 +48,6 @@
  ACTIVITY_DECLINE_INVITE_POPUP_ACCEPT:0 "拒否"
  ACTIVITY_SUMMARY_TITLE:0 "[Activity.GetHost.GetName]の[Activity.GetType.GetName]"
  ACTIVITY_SUMMARY_LOCATION:0 "[Activity.GetCurrentPhase.GetLocation.GetName]において(あなたの移動時間は[GetTimeDifferenceWithDays( TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDays )])"
- ACTIVITY_SUMMARY_JOIN_TIME:2 "You have [GetTimeBetweenDates( TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate, Activity.GetActiveStartDate.Self )] left to join (it starts in [Activity.GetActiveStartDate.GetTimeToDate])"
+ ACTIVITY_SUMMARY_JOIN_TIME:2 "参加するまであと[GetTimeBetweenDates( TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate, Activity.GetActiveStartDate.Self )]日です([Activity.GetActiveStartDate.GetTimeToDate]に開始)"
  ACTIVITY_SUMMARY_VIEW_ACTIVITY:0 "活動を表示"
  ACTIVITY_SUMMARY_PLAN_TRAVEL:0 "旅の計画"

@@ -224,7 +224,7 @@
  overthrow_regent:0 "摂政の打倒"
  overthrow_regent_action:0 "打倒"
  overthrow_regent_desc:0 "I will kidnap and [imprison|E] [SCHEME.GetTarget.GetShortUINameNoTooltip], forcing them to hand [SCHEME.GetTarget.GetHerHis] office as [SCHEME.GetTarget.GetDiarchTitle] to me!"
- overthrow_regent_desc_general:0 "The $overthrow_regent$ [scheme|E] is a [hostile_scheme|E] that aims usurp its target place as [regent|E] whilst [imprisoning|E] them. It is a [secret_scheme|E] based on [intrigue|E], that can recruit [agents|E].\n\nA successfully overthrown [scheme_target|E] will be $game_concept_imprisoned$ by the [scheme_owner|E] (if [landed|E]) or the [liege|E] (if not)."
+ overthrow_regent_desc_general:0 "$overthrow_regent$[scheme|E]は[hostile_scheme|E]であり、標的を[imprisoning|E]する一方で[regent|E]の地位を簒奪することを目的とします。[intrigue|E]に基づく[secret_scheme|E]であり、[agents|E]を雇用することができます。\n\n打倒に成功した場合、[scheme_target|E]は[scheme_owner|E]([landed|E]の場合)またはその[liege|E](なしの場合)によって$game_concept_imprisoned$されます。"
  overthrow_regent_scheme_invalidated_title:0 "@scheme_icon!誘拐計画が終了"
  overthrow_regent_scheme_i_imprisoned_them_message:0 "[target.GetShortUIName|U]は既に私の牢獄にいます"
  overthrow_regent_scheme_cannot_become_regent:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]によって投獄されている。"

@@ -53,7 +53,7 @@
  NOT_MY_LOYALTY_AS_DIARCH:0 "私の[CHARACTER.GetDiarchTitle]としての[diarch_loyalty|E]が$NUM|0V$$COMPARATOR$#bold ではない#!"
  THEIR_LOYALTY_AS_DIARCH:0 "[CHARACTER.GetShortUINamePossessive]の[CHARACTER.GetDiarchTitle]としての[diarch_loyalty|E]が$NUM|0V$$COMPARATOR$である"
  NOT_THEIR_LOYALTY_AS_DIARCH:0 "[CHARACTER.GetShortUINamePossessive]の[CHARACTER.GetDiarchTitle]としての[diarch_loyalty|E]が$NUM|0V$$COMPARATOR$#bold ではない#!"
- I_AM_DESIGNATED_DIARCH:0 "[CHARACTER.GetLiege.GetName] designated me as [CHARACTER.GetLiege.GetHerHis] [CHARACTER.GetLiege.GetDiarchTitle]"
+ I_AM_DESIGNATED_DIARCH:0 "[CHARACTER.GetLiege.GetName]が[CHARACTER.GetLiege.GetHerHis]の[CHARACTER.GetLiege.GetDiarchTitle]として私を指名した"
  NOT_I_AM_DESIGNATED_DIARCH:0 "I'm not a designated [CHARACTER.GetLiege.GetDiarchTitle] of [CHARACTER.GetLiege.GetName]"
  THEY_ARE_DESIGNATED_DIARCH:0 "[CHARACTER.GetLiege.GetName]が[CHARACTER.GetLiege.GetHerHis]の[CHARACTER.GetLiege.GetDiarchTitle]として[CHARACTER.GetName]を指名している"
  NOT_THEY_ARE_DESIGNATED_DIARCH:0 "[CHARACTER.GetName] not a designated [CHARACTER.GetLiege.GetDiarchTitle] of [CHARACTER.GetLiege.GetName]"
