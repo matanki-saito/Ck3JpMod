@@ -18,7 +18,7 @@
  ep2_wedding.0100.desc_guest:1 "私は興奮しながら自分の周りを見渡す。\n\n私の目に映る場所には、会話している客人、あらゆる場所に飾られた花、食器を持った召使いたち、そして最後の仕上げを確認する誇り高き主催者である[host.GetTitledFirstName]がいる。緊張しながらも興奮している配偶者、[spouse_1.GetTitledFirstName]と[spouse_2.GetTitledFirstName]は準備を整えて立っている。\n\nこれから式典が始まるのだ！"
  ep2_wedding.0100.desc_root_pregnant:0 "しかし、配偶者のもとへ向かう途中、客人たち全員の批判的な目が、私の明らかに妊娠しているお腹に向けられていることに気付かずにはいられなかった。仕方がない…"
  ep2_wedding.0100.desc_spouse_pregnant:0 "しかし、私自身を含む全員の注目が、紛れもなく妊娠している花嫁のお腹に釘付けになっていることはすぐにわかった… 気まずいことになりそうだな。"
- ep2_wedding.0100.a:0 "これ以上は待てない！"
+ ep2_wedding.0100.a:0 "待ちきれない！"
  ep2_wedding.0101.desc:0 "私の計画がすべて実を結ぼうとしている。\n\nだがとりあえず、式典を始めるとしよう！"
  ep2_wedding.0150.t:0 "結婚式"
  ep2_wedding.0150.desc:1 "式はいよいよ終盤だ。\n\n伝統的な儀式が終わりあとは最後の誓い、両者の同意、婚姻契約が結ばれるだけだ！[spouse_1.GetTitledFirstName]と[spouse_2.GetTitledFirstName]の二人が「誓います」と言うと群衆は歓声を上げ二人の門出に立ち会った。"

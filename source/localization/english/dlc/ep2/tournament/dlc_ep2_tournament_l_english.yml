@@ -774,5 +774,5 @@
  tournament_melee_prize_log_title:0 "$tournament_phase_melee$ 賞品"
  tournament_melee_prize_log:0 "$tournament_phase_melee$大会に優勝したことで、[CHARACTER.GetTitledFirstName]は[ARTIFACT.GetName]を[TARGET_CHARACTER.GetTitledFirstName]に授与した"
  tournament_melee_team_winner_log_title:0 "$tournament_phase_melee$ 勝者"
- tournament_melee_team_winner_log:0 "[CHARACTER.GetTitledFirstNamePossessive]のチームは[TARGET_CHARACTER.GetTitledFirstNamePossessive]を倒して$tournament_phase_melee$大会を優勝した"
+ tournament_melee_team_winner_log:0 "[CHARACTER.GetTitledFirstNamePossessive]のチームは[TARGET_CHARACTER.GetTitledFirstNamePossessive]を倒して$tournament_phase_melee$大会で優勝した"
  tournament_aptitude.events:0 "$hunt_success_chance.events$"

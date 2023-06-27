@@ -29,7 +29,7 @@
  hajj_destination_safa_marwah_athletic_log_title:0 "$hajj_destination_safa_marwah_log_title$"
  hajj_destination_safa_marwah_athletic_log:0 "[CHARACTER.GetName]はサファーとマルワの間を何度も歩き、[CHARACTER.GetHerHis]の献身を証明した"
  hajj_destination_safa_marwah_log_title:0 "サファーとマルワ"
- hajj_destination_safa_marwah_log:0 "[CHARACTER.GetName]はサファーとマルワの間を 七回熱心に歩いた"
+ hajj_destination_safa_marwah_log:0 "[CHARACTER.GetName]はサファーとマルワの間を七回熱心に歩いた"
  hajj_destination_safa_marwah_lazy_log_title:0 "$hajj_destination_safa_marwah_log_title$"
  hajj_destination_safa_marwah_lazy_log:0 "[CHARACTER.GetHerHis]自身の心地よさのために、[CHARACTER.GetName]はサファーとマルワの間の行程で手を抜いた"
  hajj_destination_damm_log_title:0 "罰: ダム"
