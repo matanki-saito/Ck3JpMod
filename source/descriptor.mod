@@ -1,4 +1,4 @@
-version="1.817"
+version="1.818"
 name="Japanese Language Mod"
 tags={
 "Translation"

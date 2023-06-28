@@ -123,7 +123,7 @@
  travel_events.4014.a:0 "待って！もう一度だけチャンスをくれ！"
  travel_events.4014.b:0 "お前のことは忘れない、[feral_child_scope.GetFirstNameNoTooltip]。"
  travel_events.4015.t:0 "$travel_event_prefix$ 言葉の壁"
- travel_events.4015.desc:0 "我々のキャラバンは、この異国の地で少し迷子になってしまったようだ。\n\n[travel_leader_scope.GetName]は何時間も[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の周囲で我々を引き回した挙句、[travel_leader_scope.GetSheHe]はやっとプライドを飲み込んで道を尋ねたが、[travel_leader_scope.GetSheHe]は明らかに熟練した[ROOT.Char.GetCurrentLocation.GetCulture.GetLanguage.GetNameNoTooltip]語話者とは言えないようだ。"
+ travel_events.4015.desc:0 "我々のキャラバンは、この異国の地で少し迷子になってしまったようだ。\n\n[travel_leader_scope.GetName]は何時間も[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の周囲で我々を引き回した挙句、[travel_leader_scope.GetSheHe]はやっとプライドを飲み込んで道を尋ねたが、[travel_leader_scope.GetSheHe]は明らかに熟練した[ROOT.Char.GetCurrentLocation.GetCulture.GetLanguage.GetNameNoTooltip]話者とは言えないようだ。"
  travel_events.4015.a:0 "私がやってみよう。"
  travel_events.4015.b:0 "幸い、私は[ROOT.Char.GetCurrentLocation.GetCulture.GetLanguage.GetNameNoTooltip]に堪能だ！"
  travel_events.4016.t:1 "$travel_danger_prefix$ 残酷すぎる暑さ"

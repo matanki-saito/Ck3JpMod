@@ -1589,7 +1589,7 @@
  CHEAPER_AGENTS_LEGACY:0 "[agent|E]の買収コスト: [gold_i]#P -50%#!"
  LEGACY_SEDUCE_BONUSES:1 "[send_gift|E]場合のコスト: [gold_i]#P -50%#!\n[GetScheme('seduce').GetTypeName]の[success_chance|E]: #P +[EmptyScope.ScriptValue('fp1_adventure_legacy_2_success_chance_seduction')|0]%#!\n[GetScheme('seduce').GetTypeName][schemes|E]の成功により[prestige|E][prestige_i]を獲得します\n#weak (リスクの高い誘惑ほど、多くの威信が得られます)#!"
  LEGACY_BONUS_PER_FRIEND:1 "[vassals|E]に対する[GetScheme('befriend').GetTypeName]が可能です\nそれぞれの[friend|E]関係があなたに#P 3#!の[vassal|E]の[opinion|E]、#P 2#!の[county_opinion|E]、#P +1%#![gold_i][vassal|E][tax|E][modifier_contribution|E]を与えます\n#weak (最大[friends]5人まで)#!"
- LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "[varangian_adventuring|E]の際に上限以上のボーナス兵力を受けとります\n[dynast_interaction|E]: #V ヴァリャーグ親衛隊を送る#!\n#weak [dynast]は、[skills]や[traits]獲得機会を得るため、封土のない成人の[dynasty]メンバーを送り出せるようになります。なお、その際に[prestige][prestige_i]を支払う必要があります#!"
+ LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "[varangian_adventuring|E]の際に上限以上のボーナス兵力を受け取ります\n[dynast_interaction|E]: #V ヴァリャーグ親衛隊を送る#!\n#weak [dynast]は、[skills]や[traits]獲得機会を得るため、封土のない成人の[dynasty]メンバーを送り出せるようになります。なお、その際に[prestige][prestige_i]を支払う必要があります#!"
  ADD_LOOT_RAIDING_ARMY_EFFECT:1 "現在の略奪軍に$VALUE|0V$の戦利品が加わります"
  ADD_LOOT_RAIDING_ARMY_PAST_EFFECT:1 "略奪軍に$VALUE|0V$の戦利品が加わりました"
  send_to_varangian_guard_interaction_effect_desc:1 "#weak ヴァリャーグ親衛隊に所属している間、[CHARACTER.GetShortUIName]は自身の[skills|E]向上や[traits|E]獲得の可能性がある一方、負傷に留まらない事態に陥る可能性もあります。[CHARACTER.GetSheHe|U]は数年以内には帰還しますが、呼び戻すことはできません。#!"

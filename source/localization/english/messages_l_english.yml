@@ -249,7 +249,7 @@
  death_notification_title:1 "あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )|U]、#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死去"
  lover_death_notification_title:0 "あなたの愛人の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡する"
  friend_death_notification_title:0 "あなたの友人の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡する"
- councillor_death_notification_title:0 "あなたの評議員の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡する！"
+ councillor_death_notification_title:0 "あなたの評議員の#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が死亡！"
  msg_perk_point_added:1 "[LIFESTYLE.GetName]のパークが利用可能"
  msg_perk_point_added_desc:1 "[LIFESTYLE.GetName]ライフスタイルのパークを新たに選択取得できるようになった"
  msg_focus_invalidated:1 "ライフスタイルフォーカスの無効化"

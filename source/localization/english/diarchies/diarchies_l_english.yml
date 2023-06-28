@@ -151,7 +151,7 @@
  diarch_loyalty_score.regency.tradition_chivalry.gain:0 "[liege|E]の高潔さ&[culture|E]が[GetCultureTradition('tradition_chivalry').GetName]を持っている"
  diarch_loyalty_score.regency.tradition_chivalry.loss:0 "[liege|E]は不埒者であり、[culture|E]は[GetCultureTradition('tradition_chivalry').GetName]を持っている"
  diarch_loyalty_score.regency.tradition_philosopher_culture:0 "[learning|E][education|E]&[culture|E]が[GetCultureTradition('tradition_philosopher_culture').GetName]を持っている"
- diarch_loyalty_score.regency.tradition_vegetarianism:0 "[ROOT.Char.GetLiege.Custom('GetLiegeYour')|U] disgusting food preferences"
+ diarch_loyalty_score.regency.tradition_vegetarianism:0 "[ROOT.Char.GetLiege.Custom('GetLiegeYour')|U]の不快な食べ物の好み"
  diarch_loyalty_score.regency.tradition_eye_for_an_eye:0 "[culture|E]が[GetCultureTradition('tradition_eye_for_an_eye').GetName]を持っている"
  diarch_loyalty_score.regency.tradition_byzantine_succession:0 "[culture|E]が[GetCultureTradition('tradition_byzantine_succession').GetName]を持っている"
  diarch_loyalty_score.regency.tradition_warrior_culture:0 "[ROOT.Char.GetLiege.Custom('GetLiegeYour')|U]は[martial|E][education|E]を受けていない＆[culture|E]が[GetCultureTradition('tradition_warrior_culture').GetName]を持っている"
