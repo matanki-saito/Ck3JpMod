@@ -897,5 +897,5 @@
  prophecy_of_malachi_desc:0 "伝統的なユダヤ教の教義では、新たな大祭司は、預言者が現れるか、アロンの子孫で祭司にふさわしい人物が見つかるか、いずれかの場合にのみ指名される。"
  special_doctrine_not_allowed_to_hof_desc:0 "この信仰の大祭司職は完全に解体された。 大祭司の指名を試みるには、まず伝統的な教会構造を徹底的に再構築する必要がある。"
  doctrine_parameter_block_from_create_hof_parameter:0 "この信仰は、通常の状態では[head_of_faith|E]を再創設できない。"
- witchcraft_illegal_name:0 "Criminal Witchcraft Doctrine"
- witchcraft_shunned_name:0 "Shunned Witchcraft Doctrine"
+ witchcraft_illegal_name:0 "魔術を罪とする教義"
+ witchcraft_shunned_name:0 "魔術を忌避する教義"

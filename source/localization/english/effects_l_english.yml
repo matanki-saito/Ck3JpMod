@@ -1914,7 +1914,7 @@
  custom.every_active_accolade:0 "すべての[acclaimed_knight|E]"
  custom.every_activity_guest_with_trait_in_common:0 "あなたと[trait|E]を1つでも共通する客人"
  custom.every_landed_activity_guest:0 "全ての[landed|E]の[activity|E]の客人"
- BEGIN_CREATE_HOLDING_EFFECT_PAST:0 "[PROVINCE.GetName]の$BEGIN_CREATE_HOLDING_REFUND$で$HOLDING_NAME$の建設が始まった"
+ BEGIN_CREATE_HOLDING_EFFECT_PAST:0 "[PROVINCE.GetName]で$HOLDING_NAME$の建設が始まった$BEGIN_CREATE_HOLDING_REFUND$"
  ADD_COMPANION_EFFECT:1 "旅の[entourage|E]から[TARGET_CHARACTER.GetShortUIName]を雇用した"
  THEY_ADD_COMPANION_EFFECT:1 "[TARGET_CHARACTER.GetShortUIName]は、旅の[entourage|E]として雇われます"
  I_ADD_COMPANION_EFFECT:0 "あなたの旅の従者から[TARGET_CHARACTER.GetShortUIName]を雇用する"
