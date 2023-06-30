@@ -458,7 +458,7 @@
  hunt.1032.e:0 "今だ！みな#EMP 蜂の巣にしてやれ#!！"
  hunt.1032.e.tt:1 "[activity.Custom('GetAnimalType')]は矢の雨に青ざめる"
  hunt.1032.f:0 "#EMP 逃げろーっ！#!"
- hunt.1033.desc:1 "Our plans were for nought, the beast sensed our trap by wind or connivance, and refused to be led into our ambush by the flushers.\n\nAt last, it slipped their clutches entirely, disappearing into the [host.GetCurrentLocation.Custom('GetTerrainTypePlural')]..."
+ hunt.1033.desc:1 "計画は無に帰した。その獣が罠に勘付いたのは風のせいか、そもそもわかっていたのか。勢子による待ち伏せからの扇動は、撥ねつけられてしまった。\n\n結局、その群れはすっかり去ってしまい、この[host.GetCurrentLocation.Custom('GetTerrainTypePlural')]から跡形もなく消えてしまった…"
  hunt.1033.a:0 "利口なやつだ…"
  hunt.1033.b:0 "全部[hunt_participant.GetFirstNamePossessiveNoTooltip]のせいだ！"
  hunt.1040.t:1 "そろりそろりと"
