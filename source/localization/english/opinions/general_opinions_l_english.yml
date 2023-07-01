@@ -245,7 +245,7 @@
  preferred_heir_opinion:0 "好ましい継承者である"
  unpreferred_heir_opinion:0 "好ましくない跡継ぎだ"
  courtly_title_creation_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName]の[title|E]創設への賛同"
- courtly_lowborn_grant_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] Disapproves of [lowborn|E] [title|E] Grants"
+ courtly_lowborn_grant_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName]は[lowborn|E]への[title|E]授与に不満"
  courtly_disinherit_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName]の係争中でない後継者[disinheriting|E]への不満"
  courtly_court_position_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName]の[court_position|E]への賛同"
  glory_hound_approves_war_victory_opinion:0 "[GetVassalStance( 'glory_hound' ).GetTextIcon][GetVassalStance( 'glory_hound' ).GetName]の攻撃的[victory|E]への賛同"
