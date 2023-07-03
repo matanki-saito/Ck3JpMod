@@ -36,7 +36,7 @@
  hold_court.3030.b:0 "残った材料を他の建物に使え。"
  hold_court.3030.c:0 "「この件に金をかける余裕はない。」"
  hold_court.3040.t:0 "笑いを求めて"
- hold_court.3040.desc:0 "一瞬の静寂の中、[jester_requester.GetHerHis]が今度は自分の番だと気づく前に、私は[jester_requester.GetTitledFirstName]を見て[ROOT.Char.Custom2('QuirkPPPosOrNeg', SCOPE.sC('jester_requester'))]。「[ROOT.Char.Custom2('RelationToMeAddress', jester_requester)|U]！」[jester_requester.GetSheHe|U]は言い、[jester_requester.GetHerHim]が考えをまとめるための貴重な時間を与えてから、続ける。\n\n「笑顔と笑い声は、活気ある宮廷の大きな尺度です！従って、訪れる私たちを楽しませてくれる、素敵な道化師になりそうな者についての提案を持って参りました！」\n\n「[ROOT.Char.Custom2('RelationToMeAddress', kill_joy)|U]、よろしいですかな。」[kill_joy.GetTitledFirstName]は外側から話し始める。「道化師は、この宮廷の洗練された空気を台無しにし、その優雅さを粗野で幼稚なユーモアに置き換えてしまうでしょう。」"
+ hold_court.3040.desc:0 "一瞬の静寂の中、私は[jester_requester.GetTitledFirstName]を見て[ROOT.Char.Custom2('QuirkPPPosOrNeg', SCOPE.sC('jester_requester'))]。程なく[jester_requester.GetHerHis]は自分の番だと気づき、「[ROOT.Char.Custom2('RelationToMeAddress', jester_requester)|U]！」と声を上げた。そして、考えをまとめるための貴重な時間を割いてやり、続けさせた。\n\n「笑顔と笑い声は、宮廷の活気さを測る素晴らしい物差しでございます！従って、訪れる私たちを楽しませてくれる、そんな素敵な道化師になりそうな者を見繕ってはいかでしょうか！」\n\n「[ROOT.Char.Custom2('RelationToMeAddress', kill_joy)|U]、よろしいですかな。」[kill_joy.GetTitledFirstName]が横から口出しする。「道化師は、この宮廷の洗練された空気を台無しにし、その優雅さを粗野で幼稚なユーモアに置き換えてしまうでしょう。」"
  hold_court.3040.a:0 "この道化師を雇うことにしよう！"
  hold_court.3040.b:0 "馬鹿に見せる名人、[jester_requester.GetTitledFirstNameNoTooltip]にぴったりの役だ。"
  hold_court.3040.c:0 "[kill_joy.GetTitledFirstNameNoTooltip]が笑いを好まないのであれば、我々は[kill_joy.GetHerHim]を笑わせてやろう！"

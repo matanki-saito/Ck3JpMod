@@ -9,7 +9,7 @@
  gruesome_festival_size_large_desc:1 "$EFFECT_LIST_BULLET$[opinion|E]の変化が頻繁に発生します\n\n#weak [GetPlayer.GetPrimaryTitle.GetTierAsNameNoTooltip]のすべての[GetPlayer.Custom('LadyLordNoble_GenderPreference')|U]と庶民が招待される！#!"
  activity_gruesome_festival_destination_selection:0 "$activity_gruesome_festival$を主催できるのは$gruesome_festivals_active_name$[doctrine|E]を持つ州だけです。"
  activity_gruesome_festival_conclusion_desc:1 "[GetActivityType( 'activity_gruesome_festival' ).GetName]は終了しました"
- activity_gruesome_festival_guest_desc:1 "$BULLET_WITH_TAB$参加者は[piety|E]を獲得する場合があります\n$BULLET_WITH_TAB$参加者は他の参加者の[opinion|E]を獲得する場合があります\n$BULLET_WITH_TAB$参加者は[stress_loss_i][stress|E]を解消する場合があります"
+ activity_gruesome_festival_guest_desc:1 "$BULLET_WITH_TAB$参加者の[piety|E]獲得の可能性\n$BULLET_WITH_TAB$参加者の、他の参加者からの[opinion|E]獲得の可能性\n$BULLET_WITH_TAB$参加者の[stress_loss_i][stress|E]解消の可能性"
  gruesome_festival_option_sacrifice:0 "Sacrifice Fodder"
  gruesome_festival_option_sacrifice_poser_blotter:0 "$gruesome_festival_option_sacrifice_genuine_blotter$"
  gf_suitable_rank_valid:0 "あなたは独立していないし王[rank|E]の封臣でもない"

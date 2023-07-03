@@ -60,7 +60,7 @@
  pay_homage.0201.smooth.gold:0 "忠誠の対価は…"
  pay_homage.0201.smooth.hook:0 "それが小さな好意であることを願うとしよう…"
  pay_homage.0201.smooth.contract:0 "奉仕の重荷は…"
- pay_homage.0201.faux_pas:0 "結局はただの主君か。"
+ pay_homage.0201.faux_pas:0 "なんと公正な主君であることよ。"
  pay_homage.0201.insult:0 "来るべきではなかった。"
  homage_delivery_stutter_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]がやっと文章の半分まで来たところで[ROOT.Char.GetHerHis]のどもりが、[ROOT.Char.GetHerHim]に水を差した。私の苦痛に満ちた廷臣たちは、[ROOT.Char.GetHerHis]の声を征服しようとする勇敢な試みをじっと見つめている。"
  homage_delivery_lisp_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]の演説は…記憶に残るものだ。[ROOT.Char.GetHerHis]の発音不全は、その重厚さを鈍らせ、[ROOT.Char.GetSheHe]はその多くの歯擦音を操る中で、私の寛大ではない廷臣たちのくすくす笑いを無視しようとする。"
