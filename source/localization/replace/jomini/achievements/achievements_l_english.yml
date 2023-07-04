@@ -1,7 +1,7 @@
 ﻿l_english:
  ACHIEVEMENT_UNLOCKED:0 "実績は解除されています！"
  ACHIEVEMENT_LOCKED:0 "実績はロックされています"
- ACHIEVEMENT_NOT_POSSIBLE:0 "このキャンペーンでは実績は無効です。"
+ ACHIEVEMENT_NOT_POSSIBLE:0 "現在のキャンペーンでこの実績は解除できません"
  ACHIEVEMENTS:0 "実績"
  ACHIEVEMENT_FILTER_POSSIBLE:0 "達成可能なものを表示"
  ACHIEVEMENT_FILTER_NOT_POSSIBLE:0 "達成不可能なものを表示"

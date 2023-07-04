@@ -153,7 +153,7 @@
  MY_REALM_WINDOW_VASSAL_STANCES:0 "[vassal_stances|E]#V :#!"
  VASSAL_CONTRACT_IS_BLOCKED:0 "この[contract|E]は既に行われており、今はもう変えられません。\n\n現在の[obligations|E]を見ることは出来ます。"
  MY_REALM_WINDOW_FUTURE_DIARCH:3 "推定される[CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U] [TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
- MY_REALM_WINDOW_DESIGNATED_DIARCH:3 "[CHARACTER.GetDiarchTitle]に任命する: [TARGET_CHARACTER.GetDiarchLoyaltyLabel]の[TARGET_CHARACTER.GetShortUINameNoTooltip|U]"
+ MY_REALM_WINDOW_DESIGNATED_DIARCH:3 "指名された[CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetDiarchLoyaltyLabel]な[TARGET_CHARACTER.GetShortUINameNoTooltip|U]"
  MY_REALM_WINDOW_ACTIVE_DIARCH:2 "[CHARACTER.GetDiarchTitle]: [TARGET_CHARACTER.GetShortUINameNoTooltip|U]、[TARGET_CHARACTER.GetDiarchLoyaltyLabel]"
  MY_REALM_WINDOW_ACTIVE_DIARCHY:0 "[Character.Custom('GetDiarchyArticle')][Character.GetDiarchyTypeNameNoTooltip]と権力を共有している"
  MY_REALM_WINDOW_STATUS_INACTIVE_DIARCHY:0 "権力は共有されていない"
