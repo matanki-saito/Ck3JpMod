@@ -872,7 +872,7 @@
  RULERS_FAMILY_IS_MARRIED_TO_THEM:0 "[CHARACTER.GetShortUIName]が[TARGET_CHARACTER.GetShortUIName]の子、親、兄弟姉妹、孫、祖父母、おじ、おば、姪、甥のいずれかと結婚している。"
  RULERS_CHILD_PARENT_SIBLING_IS_MARRIED_TO_OTHER_RULERS:0 "[CHARACTER.GetTitledFirstNamePossessive]の子・親・兄弟が[TARGET_CHARACTER.GetShortUIName]の子・親・兄弟と結婚している"
  HAS_SENT_INTERACTION_ALREADY:1 "一度に送ることができる関係行動は一つだけです"
- ALREADY_HAS_AN_ALLIANCE_DEAL:1 "交渉による[alliance|E]関係を一つ持つことができます"
+ ALREADY_HAS_AN_ALLIANCE_DEAL:1 "交渉による[alliance|E]関係を一つ構築できます"
  NOT_ALREADY_HAS_AN_ALLIANCE_DEAL:0 "すでに交渉による[alliance|E]関係が一つ結ばれています"
  negotiate_alliance_effect_tooltip:0 "[recipient.GetTitledFirstName]と相互の[alliance|E]を締結する"
  negotiate_alliance_effect_recipient_tooltip:1 "[actor.GetTitledFirstName]と相互の[alliance|E]関係になります"

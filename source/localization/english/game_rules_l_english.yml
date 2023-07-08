@@ -155,7 +155,7 @@
  setting_random_mongol_invasion_desc:0 "モンゴルはランダムな時期に侵略してきます。"
  rule_exclave_independence:0 "飛び地独立"
  setting_off_exclave_independence:1 "#high オフ#!"
- setting_off_exclave_independence_desc:0 "独立した統治者は飛び地を世界のどこにでも持つことができます。"
+ setting_off_exclave_independence_desc:0 "独立した統治者は飛び地を世界のどこにでも所有できます。"
  setting_limited_exclave_independence:1 "#high 限定的#!"
  setting_limited_exclave_independence_desc:0 "独立した統治者の飛び地は、少なくとも一つの伯爵領が海路を通じて首都がある地域と接続しているか、またはその人物の慣習的領域である場合を除いて、平時の継承に際して独立します。"
  setting_significant_exclave_independence:1 "#high 重要#!"

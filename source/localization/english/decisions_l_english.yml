@@ -556,7 +556,7 @@
  adopt_special_succession_decision_desc:0 "分割継承は我々を弱体化させ、分裂させる。領国の有力者たちは歴史ある代替案を受け入れるだろうか…"
  adopt_special_succession_decision_confirm:0 "問題について検討する"
  adopt_special_succession_decision_tooltip:0 "分割[succession|E]を、地方様式の選挙$game_concept_succession$に置き換えます"
- adopt_special_succession_decision_effects.tt:1 "あなたの[culture|E]に基づいて、伝統的な選挙[succession|E]の形式を選ぶことができます\n$EFFECT_LIST_BULLET$分割[succession|E]を用いて、あなたの最上位の[rank|E][titles|E]のいずれかに適用されます"
+ adopt_special_succession_decision_effects.tt:1 "あなたの[culture|E]に基づいて、伝統的な選挙[succession|E]の形式を選択できます。\n$EFFECT_LIST_BULLET$分割[succession|E]を用いて、あなたの最上位の[rank|E][titles|E]のいずれかに適用されます"
  implemented_traditional_succession_law_opinion:0 "伝統的な相続法の施行"
  found_kingdom_decision_advanced_succesion:0 "高度な継承法がない"
  found_kingdom_decision_elective_succesion:0 "選挙による継承法がない"
