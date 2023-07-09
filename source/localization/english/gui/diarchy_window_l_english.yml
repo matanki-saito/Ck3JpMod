@@ -1,7 +1,7 @@
 ﻿l_english:
  DIARCHY_WINDOW_HEADER:0 "$game_concept_diarchy$"
  DIARCHY_WINDOW_STATUS_ACTIVE_DIARCHY:0 "[Character.Custom('GetDiarchyArticle')][Character.GetDiarchyTypeName]による[sharing_power|E]"
- DIARCHY_WINDOW_STATUS_INACTIVE_DIARCHY:0 "[sharing_power|E]はない"
+ DIARCHY_WINDOW_STATUS_INACTIVE_DIARCHY:0 "[sharing_power|E]状態ではない"
  DIARCHY_WINDOW_TITLE_DESIGNATED_DIARCH:2 "[CHARACTER.GetPrimaryTitle.GetName]の[CHARACTER.GetDiarchTitle]に任命された"
  DIARCHY_WINDOW_TITLE_FUTURE_DIARCH:2 "[CHARACTER.GetPrimaryTitle.GetName]の有力な[CHARACTER.GetDiarchTitle]候補"
  DIARCHY_WINDOW_TITLE_ACTIVE_DIARCH:1 "[CHARACTER.GetPrimaryTitle.GetName]の[CHARACTER.GetDiarchTitle]"
@@ -34,7 +34,7 @@
  DIARCHY_WINDOW_VISIBLY_DISLOYAL:1 "#N 利己的 #!"
  DIARCHY_WINDOW_UNKNOWN_LOYALTY:1 "#V 状況次第#!"
  DIARCHY_WINDOW_DIARCH_LOYALTY_TOOLTIP_HEADER:0 "#T [diarch_loyalty|E]#!"
- DIARCHY_WINDOW_SCALES_OF_POWER_INACTIVE:0 "#T [scales_of_power|E]#!\n#I  [regency|E]など、[sharing_power|E]の時に利用できるようになる#!"
+ DIARCHY_WINDOW_SCALES_OF_POWER_INACTIVE:0 "#T [scales_of_power|E]#!\n#I  [regency|E]など、[sharing_power|E]時に利用できるようになる#!"
  DIARCHY_WINDOW_SCALES_OF_POWER_ACTIVE:0 "#T [scales_of_power|E]#!\n#I [interaction|E]によってあなたに傾き、[mandate|E]の遂行によって[diarch|E]に傾きます#!"
  DIARCHY_WINDOW_SCALES_OF_POWER_INACTIVE_BECOME_DIARCH:0 "#T [scales_of_power|E]#!\n#I あなたの[liege|E]の[regent|E]は$game_concept_scales_of_power_scales$から利益を得ています#!"
  DIARCHY_WINDOW_SCALES_OF_POWER_HELP:0 "[interaction|E]によってあなたに傾き、[mandate|E]の遂行によって[diarch|E]に傾きます。"

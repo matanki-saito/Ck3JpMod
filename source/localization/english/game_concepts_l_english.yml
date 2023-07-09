@@ -1740,7 +1740,7 @@
  game_concept_strife_desc:2 "$game_concept_strife$は、同輩の[vassals|E]による[diarch|E]によって起きる[opinion|E]ペナルティです。\n\n$game_concept_diarch$が[liege|E]と同じ権限を持っていないときの[mandate|E]イベントや$game_concept_diarch$が[diarch_powers|E]を使用するとき、政争は発生します。"
  game_concept_diarchy:0 "権力の共有"
  game_concept_diarchies:0 "権力の共有"
- game_concept_sharing_power:0 "共有された権力"
+ game_concept_sharing_power:0 "権力の共有"
  game_concept_power_sharing:0 "権力の共有"
  game_concept_diarchy_desc:2 "権力の共有は[ruler|E]が[diarch|E]として選出された[vassals|E]や[courtiers|E]に何らかの権限を共有している時に発生します。\n\n権力を共有している統治者は[mandates|E]を$game_concept_diarch$に決めることが出来ますが、$game_concept_diarch$は特別な[diarch_powers|E]を用いることが出来ます。\n\n[scales_of_power|E]は統治者と$game_concept_diarch$のどちらがより強い権限を持っているかの指標です。"
  game_concept_diarch:0 "共同統治者"

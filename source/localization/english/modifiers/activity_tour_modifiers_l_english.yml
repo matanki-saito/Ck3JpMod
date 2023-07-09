@@ -39,7 +39,7 @@
  stomach_ache_modifier_desc:0 "この人物は、最近食事を摂りすぎて胃が痛くなった。"
  ate_human_heart:0 "勇敢な胃袋"
  ate_human_heart_desc:0 "この人物は最近、強力な戦士の強さが植え付けられたと信じられるものを食べた。"
- ate_human_heart_bad:0 "Uneasy Stomach"
+ ate_human_heart_bad:0 "不安なお腹"
  ate_human_heart_bad_desc:0 "この人物は最近、強力な戦士の力が植え付けられたと信じられているものを食べたが、それに対して悪い反応を示した。"
  succesful_food_experiment_modifier:0 "成功した食の実験"
  succesful_food_experiment_modifier_desc:0 "この人物は食の実験をし、夢でしか味わえない感覚を体験した。"

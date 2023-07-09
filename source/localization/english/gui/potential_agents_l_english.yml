@@ -40,5 +40,5 @@
  RESPECTED_HOST:0 "[target.GetShortUINameNoTooltip]は尊敬される主催者である: $VALUE|+0$"
  HAS_LOYAL_TRAIT:0 "[GetTrait('loyal').GetName( GetNullCharacter )][trait|E]: $VALUE|+0=$"
  HAS_DISLOYAL_TRAIT:0 "[GetTrait('disloyal').GetName( GetNullCharacter )][trait|E]: $VALUE|+0=$"
- SCHEME_AGENT_STRIFE_LIKELIHOOD:0 "[target.GetShortUINameNoTooltip] has caused undue [strife|E]: $VALUE|+0$"
+ SCHEME_AGENT_STRIFE_LIKELIHOOD:0 "[target.GetShortUINameNoTooltip]が過度な[strife|E]を引き起こしている: $VALUE|+0$"
  IS_POLITICKER:0 "My [accolade|E] encourages amoral political cunning: $VALUE|+0$"

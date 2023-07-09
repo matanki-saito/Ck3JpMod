@@ -33,7 +33,7 @@
  doctrine_parameter_vows_of_poverty_active:0 "[rulers|E]は貧困の誓いを立てる[decide|E]ができ、毎月の[tax|E]収入は減少しますが、毎月得られる[piety|E]は増加します"
  tenet_human_sacrifice_name:0 "人身御供"
  tenet_human_sacrifice_desc:0 "我々の献身を証明する最良の方法は、犠牲の行為である。我々が提供できる最も価値ある犠牲は、人命の犠牲だ。"
- doctrine_parameter_human_sacrifice_active:1 "[executions|E]によって[piety|E]を失うのでなく取得するようになります\n$EFFECT_LIST_BULLET$[sharing_power|E]の時、[executions|E]は[prestige|E]を消費しなくなります"
+ doctrine_parameter_human_sacrifice_active:1 "[executions|E]によって[piety|E]を失うのでなく取得するようになります\n$EFFECT_LIST_BULLET$[sharing_power|E]時、[executions|E]は[prestige|E]を消費しなくなります"
  doctrine_parameter_flower_war_cb_active:0 "隣接領土に対する[flowery_war|E]の[casus_belli|E]が付与されます"
  tenet_consolamentum_name:1 "耐忍"
  tenet_consolamentum_desc:0 "年をとったり病気になったりすると、罪の魂を清める儀式を行なう。それが終われば、私たちは人生を早く確実に終わらせ、罪が私たちに再び感染する機会を与えないようにする。"

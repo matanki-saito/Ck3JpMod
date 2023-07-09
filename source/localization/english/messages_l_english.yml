@@ -420,7 +420,7 @@
  msg_end_diarchy_title:0 "[LEFT_CHARACTER.GetDiarchyTypeName]は終わった"
  msg_end_diarchy_effect:0 "今や[RIGHT_CHARACTER.GetName]との[sharing_power|E]は行われていない"
  on_left_diarchy.notification.vassal.t:0 "主君の[ROOT.Char.GetDiarchyTypeName]は終わった"
- on_left_diarchy.notification.vassal.desc:0 "[ROOT.Char.GetShortUIName]はもはや[old_diarch.GetShortUIName]と[sharing_power|E]ではない"
+ on_left_diarchy.notification.vassal.desc:0 "[ROOT.Char.GetShortUIName]はもはや[old_diarch.GetShortUIName]と[sharing_power|E]を行っていない"
  msg_change_diarchy_type_title:0 "私の[power_sharing|E]の種類が変わった"
  msg_change_diarchy_type_effect:0 "私の$OLD_TYPE$が$NEW_TYPE$に変わった"
  on_diarch_change.notification.liege.boilerplate.t:1 "私の[liege.GetDiarchTitle]が変わった"
