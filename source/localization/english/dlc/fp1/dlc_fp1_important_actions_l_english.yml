@@ -2,7 +2,7 @@
  action_can_challenge_to_single_combat:0 "遠く離れた犯罪者に挑戦できます"
  action_can_challenge_to_single_combat_label:0 "[recipient.GetShortUINameNoTooltip]に$game_concept_trial_by_combat$を挑むことができます"
  action_can_challenge_to_single_combat_combined_label:0 "[recipient.GetShortUINameNoTooltip]"
- action_can_challenge_to_single_combat_desc:1 "[recipient.GetUIName]はあなたに対する[crimes|E]([recipient.GetImprisonmentReasons( actor.Self )])を犯しましたが、[imprisoned|E]ことはできず、代わりにあなたは[recipient.GetHerHim]に[trial_by_combat|E]を挑むことができます。$action_can_challenge_to_single_combat_HELP$"
+ action_can_challenge_to_single_combat_desc:1 "[recipient.GetUIName]はあなたに対する[crimes|E]([recipient.GetImprisonmentReasons( actor.Self )])を犯しましたが、[imprisoned|E]することはできず、代わりにあなたは[recipient.GetHerHim]に[trial_by_combat|E]を挑むことができます。$action_can_challenge_to_single_combat_HELP$"
  action_can_challenge_to_single_combat_click:0 "#I クリックで[recipient.GetHerHim]に挑戦する#!"
  action_can_challenge_to_single_combat_combined_group_label:0 "犯罪者に$game_concept_trial_by_combat$を挑むことができます"
  action_can_challenge_to_single_combat_combined_group_name:0 "犯罪者に$game_concept_trial_by_combat$を挑むことができます"
