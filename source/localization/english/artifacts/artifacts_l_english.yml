@@ -423,7 +423,7 @@
  feature_armor_helmet_cervelliere:0 "一式に頭部をすっぽり覆う半球状のサーブレア、鎖帷子の被り物、[Artifact.GetFeatureText( 'generic_material_cloth' )]製の鎧下を含む"
  feature_armor_helmet_kulah_khud:0 "一式にペルシア式ヘルムと鎖帷子の首当てを含む"
  feature_armor_decoration_etched_pattern:0 "鎧全体には[Artifact.GetFeatureText( 'decoration_pattern' )]の模様が刻まれている"
- feature_armor_decoration_inlay_pattern:0 "鎧全体が[Artifact.GetFeatureText( 'decoration_material_inlay' )]で飾られ、[Artifact.GetFeatureText( 'decoration_pattern' )]の模様を描き出している。"
+ feature_armor_decoration_inlay_pattern:0 "鎧全体が[Artifact.GetFeatureText( 'decoration_material_inlay' )]で装飾され、[Artifact.GetFeatureText( 'decoration_pattern' )]の模様があしらわれている"
  feature_armor_decoration_painted_pattern:0 "鎧全体に[Artifact.GetFeatureText( 'decoration_pattern' )]の意匠が描かれている"
  feature_armor_decoration_lines:0 "鎧全体に細い線を彫り込むことで、素材の表情を引き立たせている"
  feature_armor_decoration_gold_plating:0 "鎧全体に厚い金のメッキが施されている"

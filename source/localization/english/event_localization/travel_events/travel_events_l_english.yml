@@ -110,7 +110,7 @@
  travel_events.4011.b:0 "我々の旅に加わりたまえ！"
  travel_events.4011.c:0 "残念だが何も聞こえない…"
  travel_events.4012.t:0 "$travel_event_prefix$ [feral_child_scope.GetFirstNameNoTooltip]、[feral_child_scope.Custom('GetAnimalType')|U]の[feral_child_scope.Custom('GirlBoy')|U]"
- travel_events.4012.desc:1 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の荒野を旅していると、私はどこからか監視されているという独特の感覚を感じる。下手ながら隠れてはいるが、弱々しく汚い[feral_child_scope.Custom('GirlBoy')]が我々の側近たちを監視しているのが見える。\n\n商人のメンバーによると、この土地には[feral_child_scope.GetFirstNameNoTooltip]と呼ばれる人物がおり、その人物は人間社会から遠く離れて[feral_child_scope.Custom('GetAnimalType')]によって育てられたと言われているという。\n\nどうやら、この哀れな生き物は我々に興味を持ったようで、理解しやすい熟練度とは言えないものの、基本的な[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]語を話し始めた。"
+ travel_events.4012.desc:1 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の荒野を旅していると、私はどこからか監視されているという独特の感覚を感じる。下手ながら身を潜めた、弱々しく薄汚れた[feral_child_scope.Custom('GirlBoy')]が我ら一行を監視しているのが見える。\n\n商人連中によると、この辺りは[feral_child_scope.GetFirstNameNoTooltip]と呼ばれる輩に悩まされているとのこと。そいつは[feral_child_scope.Custom('GetAnimalType')]に人間社会から遠く離れたところで育てられたそうだ。\n\nどうやら、この哀れな生き物は我々に興味を持ったようで、堪能とは言えないまでも、基本的な[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]を話し始めた。"
  travel_events.4012.a:0 "[feral_child_scope.Custom('GirlBoy')]を訓練しよう！"
  travel_events.4012.b:0 "放っておけ。"
  travel_events.4012.c:0 "[feral_child_scope.Custom('GetAnimalType')]の仲間のところまで[feral_child_scope.GetHerHim]を追いかけるぞ！"

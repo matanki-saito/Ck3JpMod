@@ -59,7 +59,7 @@
  court.0106.b:0 "この哀れな魂に優しく接してあげてくれ。"
  court.0106.c:0 "その恐ろしい場所で何をしようが、それはあなたの勝手だ。"
  court.0107.t:1 "[unruly_child.GetNameNoTooltip]の絶望"
- court.0107.desc:1 "私の玉座から、[unruly_child.Custom2('MyCharacterIntroduction', ROOT.Char)]の本能的な叫び声と争う音が聞こえてくる。すぐに立ち上がって廊下を走っていると、私は、片腕にかわいそうな[unruly_child.Custom('GetLassLad')]を抑え、もう片方の腕でぎこちなく本を握りしめている[tutor.Custom2('MyCharacterIntroduction', ROOT.Char)]を見て思わず立ち止まる。\n\n私が説明を求めて怒鳴りつける間もなく、二人はそれぞれの言い分をしゃべり始める。\n\n「[unruly_child.GetTitledFirstNameNoTooltip]は[tutor.Custom('GetTutorEducation')]の芸術に関する私の傑作を読むことを拒んでいるのです！」教師は叫ぶ。\n\n「この退屈な本のことなら何度も聞いてるよ！」[unruly_child.GetNameNoTooltip]が抗議する。「すごく#EMP 退屈なんだ！#!」"
+ court.0107.desc:1 "自分の玉座にいると、[unruly_child.Custom2('MyCharacterIntroduction', ROOT.Char)]の感情的な叫び声と争うような音が聞こえてくる。すぐさま立ち上がり廊下を駆け、そして、滑るように立ち止まった。片腕にかわいそうな[unruly_child.Custom('GetLassLad')]を抑え、もう片方にきまり悪そうに本を握りしめている[tutor.Custom2('MyCharacterIntroduction', ROOT.Char)]を見つけたのだ。\n\n私が説明を求めて怒鳴りつける間もなく、二人はそれぞれの言い分をしゃべり始める。\n\n「[unruly_child.GetTitledFirstNameNoTooltip]は[tutor.Custom('GetTutorEducation')]技能に関する私の傑作を読むことを拒んでいるのです！」教師は叫ぶ。\n\n「この退屈な本のことなら何度も聞いてるよ！」[unruly_child.GetNameNoTooltip]が抗議する。「すんごく#EMP 退屈なんだから！#!」"
  court.0107.a:1 "[unruly_child.GetNameNoTooltip]、[tutor.GetNameNoTooltip]が最高の知であることを信じなさい。"
  court.0107.b:1 "この本は魅力的なようだ。あるいはあなたから買い取ることはできるかな？"
  court.0107.b.tt:0 "あなたが本の宝物を獲得します"
