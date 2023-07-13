@@ -1,5 +1,5 @@
 ﻿l_english:
- WAR_ORDER_NUMBER:0 "$NUM|O$"
+ WAR_ORDER_NUMBER:0 "第$NUM|O$次"
  WAR_SCORE_BATTLES_GAIN:0 "[battles|E]での勝利: $VALUE|=+0%/$"
  WAR_SCORE_OCCUPATION_GAIN:0 "#S 占領している伯爵領: $VALUE|=+0%/$ (最大値:$CAP|=+0%/$)#!"
  WAR_SCORE_CAPITAL_GAIN:0 "敵首都の占領: $VALUE|=+0%/$"
