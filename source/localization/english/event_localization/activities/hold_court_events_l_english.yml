@@ -9,7 +9,7 @@
  hold_court.0001.b:0 "よくよく考えてみると、外は大変良い陽気だなぁ…"
  hold_court.0001.b.tooltip:0 "謁見を終了し、請求者たちを家へと帰す"
  hold_court.1001.t:0 "$hold_court_header$ 間接的諜報活動"
- hold_court.1001.desc:0 "客人の[rumormonger.GetTitledFirstName]が[rumormonger.GetHerHis]の顔をにやけさせながら私の玉座に近づき、深くお辞儀をする。\n\n「ご挨拶申し上げます、陛下。最近、[neighboring_realm.GetName]を訪れた際、[neighboring_ruler.GetTitledFirstNamePossessive]についての#EMP 魅力的#!なネタをいくつか学びました。私はあなたとこれらを共有することができれば幸いです...代償は払ってもらいますが。」"
+ hold_court.1001.desc:0 "客人の[rumormonger.GetTitledFirstName]が顔をにやけさせながら玉座に歩み寄り、深くお辞儀をする。\n\n「ご挨拶申し上げます、陛下。先ごろ[neighboring_realm.GetName]を訪問した際、[neighboring_ruler.GetTitledFirstNamePossessive]に関する#EMP 魅力的#!なネタをいくつか学びました。あなた様と共有できれば幸いです...見返りは頂きますが。」"
  hold_court.1001.a:0 "高額だが、知らずにはいられない。"
  hold_court.1001.a.seducer:0 "もしかしたら私達は、別の取り決めができるんじゃないか?"
  hold_court.1001.a.success:0 "[rumormonger.GetTitledFirstNamePossessive]の情報は価値ある脅迫材料を含んでいる"

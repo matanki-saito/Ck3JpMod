@@ -44,7 +44,7 @@
  cultural_festival_begins_tt:1 "文化的な祝祭の活動を開始します"
  cultural_festival.2001.t:0 "出だしの失敗"
  cultural_festival.2001.desc.intro:0 "メインステージの音楽が流れると、すかさず踊り手たちが登場する。その動きの美しさは、まるで舞台の一部のようだ。彼らが両手を広げると、まるで木が枝を伸ばしているように見える。\n\n踊り手の一人が舞台の木の壁を登り始めると、会場からどよめきが起こる。「今」[injured_artist.GetSheHe]は言う。「私は復讐しなければ——#EMP あああああああああ#!。」\n\n"
- cultural_festival.2001.desc.child:1 "[injured_artist.GetSheHe]が地面に落ちると、[injured_artist.GetHerHis]のフードが外れて、[stop_host_scope.GetTitledFirstNamePossessive]の[injured_artist.Custom('GetDaughterSon')]である[injured_artist.GetName] の顔が現れる。"
+ cultural_festival.2001.desc.child:1 "[injured_artist.GetSheHe]が地面に落ちると、[injured_artist.GetHerHis]のフードが外れて、[stop_host_scope.GetTitledFirstNamePossessive]の[injured_artist.Custom('GetDaughterSon')]である[injured_artist.GetName]の顔が現れる。"
  cultural_festival.2001.desc.normal:0 "演技者が地面に倒れ込むと、群衆の静寂の中で、誰もが澄んだ#EMP 割れる音#!を聞いた。"
  cultural_festival.2001.a:0 "ああ…あれは痛いだろうな。"
  cultural_festival.2001.b:0 "「すぐに医者を呼べ！」"
