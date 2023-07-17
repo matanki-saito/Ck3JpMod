@@ -383,7 +383,7 @@
  tour_grounds_events.3001.desc.outro:1 "\n\n時間が経てば分かることだ。"
  tour_grounds_events.3001.a:1 "さあ始めよう！"
  tour_grounds_events.3002.title:0 "狩猟の腕前"
- tour_grounds_events.3002.desc.intro:0 "私が[touring_grounds_scope.GetNameNoTooltip]の土地の旅を続けていると、私の主人は、自身で[stop_host_scope.GetHerHis]の狩猟の腕前を披露することを決めたようだ。皆の関心が[stop_host_scope.GetHerHim]に集中する中、"
+ tour_grounds_events.3002.desc.intro:0 "私が[touring_grounds_scope.GetNameNoTooltip]の土地の旅を続けていると、私のもてなし人は、自身で[stop_host_scope.GetHerHis]の狩猟の腕前を披露することを決めたようだ。皆の関心が[stop_host_scope.GetHerHim]に集中する中、"
  tour_grounds_events.3002.desc.mid.crit:0 "[stop_host_scope.GetNameNoTooltip]は遠く離れた[stop_host_scope.Custom('GetAnimalType')]の頭蓋骨を一撃で射抜く。\n\n誰もが感銘を受けているようだが、これはもしかすると"
  tour_grounds_events.3002.desc.mid.succ:0 "[stop_host_scope.GetNameNoTooltip]は近くの[stop_host_scope.Custom('GetAnimalType')]をわずかな労力で倒してしまう。\n\n誰もが感銘を受けているようだが、これはもしかすると"
  tour_grounds_events.3002.desc.mid.fail:0 "[stop_host_scope.GetNameNoTooltip]は[stop_host_scope.GetHerHis]の標的をかすめることすらできず、私の行列を大いに楽しませてくれる。\n\n皆は笑っているが、これは"

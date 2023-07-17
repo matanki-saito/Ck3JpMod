@@ -30,7 +30,7 @@
  stewardship_duty.0017.c.failure.tt:0 "妥協点が見つからない"
  stewardship_duty.0017.c.failure.desc:0 "妥協点が見つからず、[councillor_1.GetFirstName]と[councillor_2.GetFirstName]双方は失望している。"
  stewardship_duty.1055.t:0 "望まぬ妊娠"
- stewardship_duty.1055.desc:0 "私の接見室で劇的な光景が展開した、それは[new_mothers_parent.Custom2('MyCharacterIntroduction', ROOT.Char)]が、[new_mothers_parent.GetHerHis]の[new_mothers_parent.Custom2('RelationToMeShort', new_mother)][new_mother.Custom('Governance_1055_OutOfWedlock')]を妊娠させたとして[new_father.Custom2('MyCharacterIntroduction', ROOT.Char)]を告発したのだ。\n\n[new_fathers_parent.GetTitledFirstName]は憤然として彼の息子に有罪の証拠は無いと申し立てた。「たとえ、せがれのせいだとしても、ふしだらに育った[new_mother.GetFirstNamePossessive]の過ちに間違いない！」\n\n議論は白熱しており、手に負えなくなる前に何とかしなければならない。"
+ stewardship_duty.1055.desc:0 "私の接見室で劇的な光景が展開した、それは[new_mothers_parent.Custom2('MyCharacterIntroduction', ROOT.Char)]が、[new_mothers_parent.GetHerHis]の[new_mothers_parent.Custom2('RelationToMeShort', new_mother)]に[new_mother.Custom('Governance_1055_OutOfWedlock')]を妊娠させたとして[new_father.Custom2('MyCharacterIntroduction', ROOT.Char)]を告発したのだ。\n\n[new_fathers_parent.GetTitledFirstName]は憤然として彼の息子に有罪の証拠は無いと申し立てた。「たとえ、せがれのせいだとしても、ふしだらに育った[new_mother.GetFirstNamePossessive]の過ちに間違いない！」\n\n議論は白熱しており、手に負えなくなる前に何とかしなければならない。"
  stewardship_duty.1055.a:0 "[new_mothers_parent.GetFirstNameNoTooltip]、あなたが望むように白黒つけなさい。"
  stewardship_duty.1055.b:0 "[new_father.GetFirstNameNoTooltip]に罪なし、[new_mothers_parent.GetFirstNameNoTooltip]に負うところは何もない！"
  stewardship_duty.1055.e:0 "なぜお前たちはささいな争いで私の邪魔をする！？"
