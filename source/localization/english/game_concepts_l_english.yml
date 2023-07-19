@@ -1454,7 +1454,7 @@
  game_concept_heavy_infantry_desc:0 "重歩兵は重い装甲と武器を備え、自らの足で戦う[men_at_arms|E]です。\n\nそれぞれの重歩兵ごとに特徴がありますが、一般に[spearmen|E]の[counter|E]であり、その代わり[skirmishers|E]からカウンターを受けます。"
  game_concept_title_ranks:0 "階位"
  game_concept_title_rank_desc:0 "個人の称号[title_tier|E]と同じように、$game_concept_title_rank$は[ruler|E]がゲーム内階層構造のどの位置にいるのかを決定します。\n\nすべての称号階級は階位と結びついており、[holder|E]が従えることのできる[vassals|E]の階位の最高位を決定します。\n\n[emperor|E] > [king|E] > [duke|E] > [count|E] > [baron|E]"
- game_concept_completely_controlled:0 "完全に支配された"
+ game_concept_completely_controlled:0 "完全に支配していた"
  game_concept_unreformed_pagan_combat_bonus:1 "未改革自然宗教の戦闘優位性"
  game_concept_unreformed_pagan_combat_bonus_desc:1 "[GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName]の[GetReligionFamily('rf_pagan').GetName]の[faiths|E]はそれを信仰している[counties|E]において[battle|E]の[advantage|E]を得ます。"
  game_concept_personality:0 "性格"

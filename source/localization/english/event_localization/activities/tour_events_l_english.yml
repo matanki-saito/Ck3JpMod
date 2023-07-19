@@ -1067,7 +1067,7 @@
  tour_becomes_less_majestic_tt:0 "あなたのグランドツアーから#N 荘厳さが減少#!します"
  tour_becomes_less_avaricious_tt:0 "あなたのグランドツアーから#N 強欲さが減少#!します"
  tour_becomes_less_intimidating_tt:0 "あなたのグランドツアーから#N 威嚇性が減少#!します"
- cheaper_to_convert_to_local_faith_tt:0 "あなたが[ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetName]に改宗すると#P 50％#!の割引を得ることができます"
+ cheaper_to_convert_to_local_faith_tt:0 "あなたが[ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetName]に改宗するとき#P 50％#!の割引を得ることができます"
  friend_adjusted_meal:0 "[CHARACTER.GetShortUIName|U]は減量のため[TARGET_CHARACTER.GetShortUINamePossessive]の食事を調整した"
  friend_adjusted_meal_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は減量のため[CHARACTER.GetShortUINamePossessive]の食事を調整した"
  friend_let_me_be_fussy:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の騒がしさに寛容であった"

@@ -1158,7 +1158,7 @@
  building_holy_site_canterbury_cathedral_03_desc:0 "$building_type_holy_site_canterbury_cathedral_02_desc$"
  university_effect_desc:1 "同じ[realm|E]内の[rulers|E]の#V $EDUCATION_UNIVERSITY$#![education|E]オプションを有効化"
  university_toto_effect_desc:0 "$tournament_cost_discount_effect_desc$内$tournament_phase_board_game$と$tournament_phase_recital$$tournament_contest_cost_discount_effect_desc$\n"
- university_roco_effect_desc:0 "後援され#V 本#!の[inspirations|E]の質が向上した\n"
+ university_roco_effect_desc:0 "後援された#V 本#!の[inspirations|E]の質が向上した\n"
  stables_effect_desc:1 "[SelectLocalization( HasDlcFeature( 'tours_and_tournaments' ), 'stables_toto_effect_desc', 'stables_no_toto_effect_desc' )]"
  stables_toto_effect_desc:0 "$tournament_horse_cost_low_discount_effect_toto_desc$\n$fancy_mounts_option_effect_desc$"
  stables_no_toto_effect_desc:0 "$unlocks_building_desc$$fancy_mounts_option_effect_desc$"

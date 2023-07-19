@@ -38,7 +38,7 @@
  pilgrimage_intent.1020.a.conversion_failed.desc:0 "あなたは巡礼者を改宗させられない"
  pilgrimage_intent.1020.b:0 "「[pilgrim_character.GetFaith.HighGodName|U]をどのように崇拝しているのか教えてくれ。」"
  pilgrimage_intent.1020.c:0 "我々はとても似ている、一緒に来てほしい！"
- cheaper_to_convert_to_pilgrim_faith_tt:0 "あなたが[THIS.Char.GetFaith.GetName]に改宗すると#P 50％#!の割引を得ることができます"
+ cheaper_to_convert_to_pilgrim_faith_tt:0 "あなたが[THIS.Char.GetFaith.GetName]に改宗するとき#P 50％#!の割引を得ることができます"
  pilgrimage_intent.1030.t:0 "$reflections_intent_header$ 穏やかな空き地"
  pilgrimage_intent.1030.desc:0 "ここ[ROOT.Char.GetCurrentLocation.GetName]の道端の静けさの中で、私はこれまでに経験したことのない、圧倒的な平穏と静けさの感覚が押し寄せてくるのを感じる。\n\n小さな尾根を越えたところで、道の脇に、もう何十年も人も獣も立ち入っていないような空き地が見えてきた。ここでは私は[ROOT.Char.GetFaith.HighGodNamePossessive|U]の存在を感じることができ、しばらくの間、ここで静かに思索にふけるべきかもしれない。"
  pilgrimage_intent.1030.desc_sea:0 "この海では、天候が穏やかで水平線に船も見えないときには、平穏と静けさに圧倒される。[ROOT.Char.GetFaith.HighGodNamePossessive|U]の存在感はここでは特に強く、私を満たしてくれる。\n\nあるいは我々はもうしばらく、この湾に身を置いて静かな思索にふけるべきかもしれないが？"
