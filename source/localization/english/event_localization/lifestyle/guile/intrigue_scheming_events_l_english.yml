@@ -263,7 +263,7 @@
  intrigue_scheming_special.1003.e:0 "スパイと話をして、彼らが何を言うのか確かめる。"
  intrigue_scheming_special.1003.f:0 "将校に世話を任せ、私を一人にしてほしいと頼む。"
  intrigue_scheming_special.1003.g:0 "スパイ?！そんなことは絶対に——絶対にあり得ない！"
- intrigue_scheming_special.1003.h:0 "もちろんスパイは時間内に何らかの答えを出す必要がある。"
+ intrigue_scheming_special.1003.h:0 "きっとスパイはなにか吐いてくれるだろう、すぐにでも。"
  intrigue_scheming_special.1004.desc_good:0 "[courtier_spy.GetSheHe|U]は次のシナリオを描く前に、自らにうなずく。\n\n"
  intrigue_scheming_special.1004.desc_bad:0 "[courtier_spy.GetHerHis|U]は眉をひそめ、視線は冷たくなっていく。\n\n"
  intrigue_scheming_special.1004.desc:0 "「あなた様があるご決定をなされるとします——例えばある伯爵領のすべての税金を引き上げます——その決定に封臣の一人が公然と疑いを呈していることに、あなた様はお気づきになられます。どのように応じられますか？」"

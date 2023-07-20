@@ -24,7 +24,7 @@
  tour_travel.3004.b:0 "これは何かの#EMP 冗談#!か？取り壊せ！"
  tour_travel.3004.c:0 "実際、それはかなり正確だ。"
  tour_travel.3005.t:0 "よく知られた罪"
- tour_travel.3005.desc:0 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]を通過する際、私は犬のように柱につながれた哀れな囚人の前を通る。[criminal_peasant.GetSheHe]は慈悲を乞うように私に声をかける。\n\n「あなたの罪は何だ？」私は[ROOT.Char.GetTitleAsNameNoTooltip]にふさわしい威厳を持って尋ねる。\n\n「私は [criminal_secret.GetNameNoTooltip] であると告発されています。残念ながら、この告発には反論できません。」\n\n私の額には小さな汗の玉がいくつも浮かんでいる。#EMP 私#!もまた[criminal_secret.GetNameNoTooltip]なのだから。"
+ tour_travel.3005.desc:0 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]を通過する際、私は犬のように柱につながれた哀れな囚人の前を通る。[criminal_peasant.GetSheHe]は慈悲を乞うように私に声をかける。\n\n「あなたの罪は何だ？」私は[ROOT.Char.GetTitleAsNameNoTooltip]にふさわしい威厳をまとわせながら尋ねることとした。\n\n「私は[criminal_secret.GetNameNoTooltip]を犯せし者であると追及され、くわえて残念ながら、この告発には反論の余地がないのです。」\n\n私の額には小さな汗の玉がいくつも浮かんでいる。この#EMP 私#!もまた[criminal_secret.GetNameNoTooltip]の罪を抱えているのだから。"
  tour_travel.3005.a:0 "[criminal_peasant.GetHerHim]を解放しろ！"
  tour_travel.3005.b:0 "何と恐ろしい、ひどい罪だ…"
  tour_travel.3006.t:0 "支配者の生活"
