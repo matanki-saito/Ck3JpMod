@@ -115,7 +115,7 @@
  hunt.8540.c:0 "[ROOT.Char.GetFaith.CreatorName|U]からの贈り物"
  hunt.8540.d:0 "これは美しい、[intent_target_character.GetFirstName]に見せてやらないと！"
  hunt.8550.t:0 "[activity.Custom('GetLegendaryColor')|U]の糞"
- hunt.8550.desc:0 "私は伝説的な[activity.Custom('GetLegendaryColor')|U][activity.Custom('GetAnimalType')|U]の追跡を進めている。その痕跡は私を一般的な道から外れさせ、その後それは完全に不明瞭なものになる。私は絶望が心を支配していくのを感じるが、突然息を呑むようなものを見つける。\n\n今まで見たこともないような、純粋な[activity.Custom('GetLegendaryColor')]の糞が落ちている！獣そのものが[activity.Custom('GetLegendaryColor')]であれば、その糞も同じような色であることは当然だろう。"
+ hunt.8550.desc:0 "私は伝説的な[activity.Custom('GetLegendaryColor')|U][activity.Custom('GetAnimalType')|U]の追跡を進めている。その痕跡は私を一般的な道から外れさせ、その後それは完全に不確かなものであるのでは、とさえ感じさせる。私は絶望が心を支配していくのを感じるが、突然息を呑むようなものを見つけた。\n\n今まで見たこともないような、純粋な[activity.Custom('GetLegendaryColor')]糞が落ちている！獣そのものが[activity.Custom('GetLegendaryColor')]のであれば、その糞も同じような色であることは当然なのではないか？"
  hunt.8550.a:0 "これは正しいに#EMP 違いない#!！"
  hunt.8550.a.success:0 "その糞はあなたを近くへ導く"
  hunt.8550.a.failure:0 "あなたは獣の痕跡を見失う"

@@ -179,7 +179,7 @@
  ep2_wedding.1010.t:0 "素晴らしい歓迎"
  ep2_wedding.1010.desc:0 "[1010_target.GetTitledFirstNamePossessive]の到着に注意するよう使用人たちに早めに伝えておいて良かった。結婚式の準備の真っ最中に、そうでなければ見逃してしまっていただろうから。\n\n代わりに、[1010_target.GetFirstNameNoTooltip]が入場してきたとき、私は最も意匠を凝らした服を着て儀仗兵に囲まれ中庭の真ん中に誇らしげに立っていた。"
  ep2_wedding.1010.diplo:0 "\n\n「あなたをお迎えできることを大変嬉しく思います、[1010_target.GetTitledFirstNameNoTooltip]！私のもてなしは最も心地よいものであり、私の領国が提供するあらゆる驚異に感動していただけるものと確信しております！」"
- ep2_wedding.1010.seduce:0 "\n\n「愛する[1010_target.GetTitledFirstNameNoTooltip]！愛しの【1010_target.GetTitledFirstNameNoTooltip】さん！ようやくここに来られましたね！あなたの輝きを浴びることができれば、私にとってこれほど嬉しい祝いはないでしょう！」"
+ ep2_wedding.1010.seduce:0 "\n\n「愛しの[1010_target.GetTitledFirstNameNoTooltip]！ようやくここに来られましたね！あなたの輝きを浴びることができれば、私にとってこれほど嬉しい祝いはないでしょう！」"
  ep2_wedding.1010.match:0 "\n\n「ようこそ、[1010_target.GetTitledFirstNameNoTooltip]！[1010_match.GetFirstName]もご挨拶しなさい！#EMP [1010_target.GetHerHim]と[1010_target.GetHerHis]のご家族に良い印象を持っていただかないと。わかるね？」私は激しく囁いて付け加える。"
  ep2_wedding.1010.a:0 "庭をご案内しましょう！"
  ep2_wedding.1010.a.success:0 "[1010_target.GetFirstNameNoTooltip]はあなたの庭を気に入る"
