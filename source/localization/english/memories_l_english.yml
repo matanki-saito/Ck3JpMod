@@ -683,7 +683,7 @@
  seduced_at_feast_desc:0 "私は$seduced_at_feast_boilerplate$した"
  seduced_at_feast_desc_second_perspective:1 "あなたは$seduced_at_feast_boilerplate$した"
  seduced_at_feast_desc_third_perspective:1 "[owner.GetFirstName]は$seduced_at_feast_boilerplate$した"
- befriended_at_feast_memory:0 "饗宴での絆"
+ befriended_at_feast_memory:0 "饗宴にて絆を結んだ"
  befriended_at_feast:0 "$befriended_at_feast_memory$"
  befriended_at_feast_boilerplate:1 "饗宴では、[friend.GetTitledFirstName]と楽しく話し、良い経験をした"
  befriended_at_feast_desc:0 "私は$befriended_at_feast_boilerplate$"

@@ -1,7 +1,7 @@
 ﻿l_english:
- travel_start_event.1000.t_murder:0 "陰惨な始まり"
- travel_start_event.1000.t_sick:0 "あやふやな始まり"
- travel_start_event.1000.t:0 "清々しい始まり"
+ travel_start_event.1000.t_murder:0 "不穏なる出立日和"
+ travel_start_event.1000.t_sick:0 "躊躇せし出立日和"
+ travel_start_event.1000.t:0 "清新なる出立日和"
  travel_start_event.1000.intro_activity:1 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))][host.GetTitledFirstName]は[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]での[ROOT.Char.GetInvolvedActivity.GetShortName]を主催しており、我々が出発する時が来た。"
  travel_start_event.1000.intro_my_activity:1 "私は[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]への[ROOT.Char.GetInvolvedActivity.GetShortName]を主催しており、我々が出発する時が来た。"
  travel_start_event.1000.desc_sick:0 "私のこのような体調、病気の下で旅に出るということが、旅に付随する通常の危険に加え、さらなるリスクであると考えられることを私は十分に承知している。だが、たとえ私の状態が良くないとしても、見せ物は続けなければならない。\n\n[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]に向けて出発しよう、[ROOT.Char.GetFaith.HighGodName]が我々の旅を見守ってくださいますように。"
