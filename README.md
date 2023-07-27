@@ -76,13 +76,13 @@ You need to set following credentials to github actions.
 
 ### Steam cmd secret files
 
-You need to prepare Steam cmd secret(ssfnXXXXXXXX).
+You need to prepare Steam cmd secret(config/config.vdf).
 
 #### How to get Steam CMD secrets? 
 
 1. [Download](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip) SteamCmd and unpack download zip
 2. Run steamcmd using your steam account name and password
-3. Steamcmd generates ssfn files on working directory
+3. Steamcmd updates config.vdf files on ./config directory
 
 ## References
 
