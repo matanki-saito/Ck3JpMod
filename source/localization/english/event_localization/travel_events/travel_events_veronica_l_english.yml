@@ -241,7 +241,7 @@
  tour_travel.3111.t:0 "寄り道: 宴会"
  tour_travel.3111.desc_intro:0 "ランプの光は弱く、ほとんど感じられない。年老いた召使いが料理を出してくれる。魚だ。スパイスはない。\n\n[ghino_di_tacco_scope.GetTitledFirstNameNoTooltip]は少し神経質にすぎるようで、このような貧しい地域を統治することの難しさ、法外な税金について話している。「最後の神父は数ヶ月で辞めてしまいました。」[ghino_di_tacco_scope.GetSheHe]は水で薄めたワインを片付けながら呟いた。\n\n"
  tour_travel.3111.desc_breaking_down:0 "その直後、[ghino_di_tacco_scope.GetSheHe|U]は泣き崩れ、[ghino_di_tacco_scope.GetHerHis]の両手に顔を埋めてしまった。「私は…正直に申し上げます。あなたをここに招いたのは、あなたから何か盗むためだったのです、親愛なる閣下。どうかお許しください。」"
- tour_travel.3111.desc_committed:0 "[ghino_di_tacco_scope.GetSheHe|U] はすぐに便所に行ってくると言い訳し、途中で偶然私にぶつかった。"
+ tour_travel.3111.desc_committed:0 "[ghino_di_tacco_scope.GetSheHe|U]はすぐに便所に行ってくると言い訳し、途中で偶然私にぶつかった。"
  tour_travel.3111.a:1 "「さあ、これを持って、二度と盗みなどしてはいかんぞ。」"
  tour_travel.3111.b:0 "「こんなことがあったことさえ、すべてを忘れよう。」"
  tour_travel.3111.c:0 "「さあ、#EMP お前#!にはこの代償を払ってもらうぞ。」"

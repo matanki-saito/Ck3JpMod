@@ -50,7 +50,7 @@
  activity_hunt_conclusion_desc_legendary:0 "そのとらえどころ無き[activity.Custom('GetLegendaryColor')|][activity.Custom('GetAnimalType')]との対決は未だ続き、終わりの時は見えそうもない…"
  activity_hunt_conclusion_desc_falconry_success:0 "[activity.Custom('GetAnimalPlural')]を捕らえるという偉業を通して[activity.Custom('GetRaptorPlural')]は私たちに誇りを与えてくれたのだ！"
  activity_hunt_conclusion_desc_falconry:1 "[activity.Custom('GetAnimalPlural')]を捕らえるための[activity.Custom('GetRaptorPlural')]は成功しなかった…"
- activity_hunt_conclusion_desc_standard_success:1 "栄光とともに[activity.Custom('GetAnimalPlural')]の狩猟から帰還します！"
+ activity_hunt_conclusion_desc_standard_success:1 "栄光とともに[activity.Custom('GetAnimalPlural')]の狩猟から帰るとしようか！"
  activity_hunt_conclusion_desc_standard:0 "[activity.Custom('GetAnimalPlural')]は苦い結果となりました…"
  activity_hunt_guest_help_text:1 "[activity_guests|E]には交流の機会があり、積極的に参加すれば狩りと軍事の能力を伸ばす良い機会となるでしょう。\n[GetVassalStance( 'glory_hound' ).GetTextIcon][GetVassalStance( 'glory_hound' ).GetName][vassals|E]はこのスポーツの機会に感謝し、[opinion|E]を得ることが出来るでしょう。\n$activity_hunt_guest_help_text_party_size$。"
  activity_hunt_guest_help_text_party_size:0 "[GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]が参加するごとに僅かながら[hunt_success_chance_no_prefix|E]が上昇します"
