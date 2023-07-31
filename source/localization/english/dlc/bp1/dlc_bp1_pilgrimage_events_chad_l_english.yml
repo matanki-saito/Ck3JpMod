@@ -3,7 +3,7 @@
  pilgrimage.6001.desc:0 "私が[destination_title.GetNameNoTierNoTooltip]への長い行列を歩きつつ、[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]に置いてきた快適さを思っていると、私の後ろから私の名前を叫ぶ声が聞こえる。\n\n私の友人の[friend.GetFirstNameNoTooltip]が私に駆け寄ってきて、「[ROOT.Char.GetTitledFirstNameNoTooltip]！私たちが同じ聖地を目指して旅するとは、なんと幸運なことでしょう！この長く寂しい[destination_title.GetNameNoTierNoTooltip]への道を一緒に行きませんか？」と言う。"
  pilgrimage.6001.a:0 "私の耳は常に友に開かれている。"
  pilgrimage.6001.b:0 "一人でいたいんだ、ありがとう。"
- pilgrimage.6001.c:0 "恥を知れ。私たちは信仰に集中するためここにいるのです。"
+ pilgrimage.6001.c:0 "恥を知れ。我らがここにいるのは信仰に集中するためだ！"
  pilgrimage.6002.desc:0 "[friend.GetFirstNameNoTooltip|U]と私がその日の旅の残りを、あれこれと、陰謀と冗談、戦いと恋人、古い友人と新しい友人についておしゃべりして過ごしており、私たちが[ROOT.Char.Custom('subject_of_interest')]について熱く語っている最中に、一緒に旅をしていた人々の列が突然止まってしまった。\n\n列の先頭から疲れたような声が聞こえてくる。「ここで野営するんだ！」\n\n[friend.GetFirstNameNoTooltip|U]はいたずらな笑みを[friend.GetHerHis]の顔に浮かべながら私を見て。「ようやくだ！とはいえ、野営を準備する前にちょっと寄り道をするのはどうでしょう？長旅で[friend.GetWomanMan]の喉が渇いたたら…」"
  pilgrimage.6002.a:0 "液体のリフレッシュって響きが神々しいですね。"
  pilgrimage.6002.b:0 "#EMP 怒れ！#!"
