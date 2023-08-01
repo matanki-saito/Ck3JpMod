@@ -207,7 +207,7 @@
  diarchy_ending_gift_cash:1 "[gold_i][gold|E]を打診する"
  diarchy_ending_gift_cash_desc:0 "誠意はありがとうの言葉ではなく、金だ"
  liege_dismiss_entrenched_regency_interaction.tt.no_gift_necessary:0 "[recipient.GetShortUINameNoTooltip]には、[actor.GetShortUINameNoTooltip]に抵抗したり補償を要求したりするほどの政治的影響力がありません"
- liege_dismiss_entrenched_regency_interaction.tt.stiff_them:0 "[actor.GetShortUINameNoTooltip|U] [Select_CString(actor.IsLocalPlayer, 'stiff', 'stiffs' )] [recipient.GetShortUINameNoTooltip] out of a just reward"
+ liege_dismiss_entrenched_regency_interaction.tt.stiff_them:0 "[actor.GetShortUINameNoTooltip|U]は[recipient.GetShortUINameNoTooltip]に何も払いません"
  liege_dismiss_entrenched_regency_interaction.tt.force_ending:0 "[scales_of_power|E]は決定的に私に不利に傾いています"
  liege_dismiss_entrenched_regency_interaction.modifier.desc.loyal_diarch:0 "あなたの忠実な僕である: $VALUE|+=0$"
  liege_dismiss_entrenched_regency_interaction.modifier.desc.could_freely_dismiss_me:0 "何も得られないかもしれない: $VALUE|+=0$"

@@ -60,7 +60,7 @@
  ep2_wedding_ewan.0001.desc.t3.hate.just:0 "$ep2_wedding_ewan.0001.desc.t3.hate.honest$"
  ep2_wedding_ewan.0001.desc.t3.hate.craven:0 "「気をつけろ！」[char_2.GetFirstNameNoTooltip]は唾を吐き、打ち出されたジャグリングの玉を避けながら言う。「血の気の多い雇い人たちだ、安心して食事もできやしない…」"
  ep2_wedding_ewan.0001.desc.t3.hate.paranoid:0 "「あまりにも奇妙な顔、あまりにも奇妙な『道具』。」[char_2.GetFirstNameNoTooltip]は罵るように言う。「あれのように！偽物の剣を飲み込んでいるのか、それとも潜んでいる暗殺者なのか？」"
- ep2_wedding_ewan.0001.a:0 "「[char_1.GetFirstNameNoTooltip]は明らかにその権利がある。」"
+ ep2_wedding_ewan.0001.a:0 "「[char_1.GetFirstNameNoTooltip]の言う通りだ。」"
  ep2_wedding_ewan.0001.a.host:0 "「[char_1.GetFirstNameNoTooltip]、楽しんでくれているようで何よりだ！」"
  ep2_wedding_ewan.0001.b:0 "「[char_2.GetFirstNameNoTooltip]に同意せざるを得ない。」"
  ep2_wedding_ewan.0001.b.host:0 "「彼らを雇ったときには別のことを想定していたんだけどね、[char_2.GetFirstNameNoTooltip]。」"
