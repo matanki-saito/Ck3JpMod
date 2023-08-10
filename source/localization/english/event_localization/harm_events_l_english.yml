@@ -51,7 +51,7 @@
  harm.0551.c.tt.success:1 "$harm.0551.a.tt.success$"
  harm.0551.c.tt.failure:1 "$harm.0551.a.tt.failure$"
  harm.0000.tt.spared_for_now:0 "あなたは大丈夫。とりあえず今は。"
- harm.0000.tt.no_permanent_damage:0 "苦しみは永遠では無い。"
+ harm.0000.tt.no_permanent_damage:0 "尾を引くような傷は負わなかった。"
  harm.0000.tt.physician:0 "#EMP [ROOT.Char.Custom('GetRandomCourtMedic')|U]! [medic.GetFirstNameNoTooltip]!#!"
  harm.0000.tt.incapable.success:0 "治らない傷ではなかった。"
  harm.0000.tt.incapable.failure:0 "あなたは何とも意志薄弱な姿となる"

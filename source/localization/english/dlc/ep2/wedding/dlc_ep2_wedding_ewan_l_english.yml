@@ -163,7 +163,7 @@
  ep2_wedding_ewan.0021.a:0 "「はは、[char_1.GetFirstNamePossessiveNoTooltip]の好意的な言葉に感謝を。」"
  ep2_wedding_ewan.0021.a.host:0 "「装飾の多くは私が直々に選んだものなんだ、[char_1.GetFirstNameNoTooltip]。」"
  ep2_wedding_ewan.0021.b:0 "「あなたの指摘は正しいと思う、[char_2.GetFirstNameNoTooltip]。」"
- ep2_wedding_ewan.0021.b.host:0 "「[char_2.GetFirstNameNoTooltip]は正しい。それは私が念頭に置いていたものではないんだ。」"
+ ep2_wedding_ewan.0021.b.host:0 "「[char_2.GetFirstNameNoTooltip]は正しい。やや私の想定と違ったのだ。」"
  ep2_wedding_ewan.0021.c:0 "[intent_target.GetFirstNameNoTooltip]はかなり寂しそうだ…"
  ep2_wedding_ewan.0021.d:0 "関わらないことだ。"
  ep2_wedding_ewan.0031.t:0 "社交的な晩餐"
