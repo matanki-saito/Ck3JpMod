@@ -86,7 +86,7 @@
  friendship.1009.t:0 "一つの助言"
  friendship.1009.desc:0 "[courtier_on_offer.GetTitledFirstName]がいかに偉大な使用人であるかという話を聞いたのはこれが初めてではなかったが、今、[first_friend.GetTitledFirstName]が[courtier_on_offer.GetHerHim]を私の宮廷に送ってきた。[courtier_on_offer.GetSheHe|U]は、[first_friend.GetFirstName]と私の友情の証として、[courtier_on_offer.GetHerselfHimself]を提供している。"
  friendship.1009.a:1 "私への奉仕を歓迎する、[courtier_on_offer.GetFirstNameNoTooltip]！"
- friendship.1009.b:1 "[first_friend.GetTitledFirstNameNoTooltip]がそう簡単に与えてしまうようでは、そこまで良いもののわけがない。"
+ friendship.1009.b:1 "[first_friend.GetTitledFirstNameNoTooltip]が殊更に惜しまない程度のものなど要らん。"
  friendship.1009.rejection_tooltip:1 "[courtier_on_offer.GetTitledFirstNameNoTooltip]は送り返されます"
  friendship.2001.t:0 "伝えるべきこと"
  friendship.2001.desc:0 "私の秘密は、決して下に置くことができない不快な重荷だが、私はそれを誰かと共有することで、背負っているものが軽くなるかもしれない。\n\n[friend_receiving_confession.GetTitledFirstName]ならきっと私を理解してくれると思う。"
