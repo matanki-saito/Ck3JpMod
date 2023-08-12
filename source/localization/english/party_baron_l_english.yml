@@ -58,7 +58,7 @@
  party_baron.2004.desc:0 "[party_baron.GetTitledFirstName]が酒で酔っ払っているのか、それとも[party_baron.GetHerHim]の周りで行われている祝祭の熱気に酔っているだけなのかはわからない。それが何であれ、[party_baron.GetSheHe]に抱きしめられた瞬間、私もそれを感じることができた。\n\n「ねえ、」 [party_baron.GetSheHe]は言う。「本当にあなたは私の中で最高の友達の一人だと思う」\n\nそれからの夜のほとんどは[party_baron.GetHerHis]の大いに楽しむ姿を見ていた。[party_baron.GetHerHim]と乾杯している誰よりも[party_baron.GetHerHim]のことを理解しているかもしれないと思い始めている。"
  party_baron.2004.a:0 "あなたもだよ、[party_baron.GetFirstNameNoTooltip]…"
  party_baron.2005.t:0 "$party_baron_header$"
- party_baron.2005.desc:0 "私は[party_baron.GetTitledFirstName]が私の宮廷に現れたときには、驚いたが、嬉しかった。[party_baron.GetSheHe]が二人だけで話したいと言うことであればなおさらだ。\n\n「饗宴や祝宴の場では言いたくなかったのです。」[party_baron.GetSheHe|U]は珍しく深刻そうで、あの軽快な笑顔は今回は消えている。「あなたがどれだけ私にとって大切であるか、言葉では言い表せません。私には多くの友人がいますが、あなたのような人はいません。その友情を私は最後まで大切にしていきたいのです。」"
+ party_baron.2005.desc:0 "[party_baron.GetTitledFirstName]が私の宮廷に現れたときには驚いたが、嬉しかった。二人だけで話したいと言うことであればなおさらだ。\n\n「饗宴や祝宴の場では言いたくなかったのです。」[party_baron.GetSheHe|U]には珍しく真剣そうで、あの軽快な笑顔は今回は消えている。「あなたがどれだけ大切な存在か、言葉では言い表せません。多くの友人はいれども、あなたのような人はいません。その友情を最後まで大切にしていきたいのです。」"
  party_baron.2005.a:0 "「私もだよ、[party_baron.GetFirstNameNoTooltip]。私もだ。」"
  party_baron.2006.desc:0 "「非常に特別な祭典」として饗宴に招待された私は、私自身のための[party_baron.GetTitledFirstNamePossessive]の祝賀会を見ることになった。\n\n覚えている限りこれ以上の幸せはなかったし、今は私の人生への欲求を少し取り戻せたような気がする！"
  party_baron.2006.a:0 "世界を見よう！"

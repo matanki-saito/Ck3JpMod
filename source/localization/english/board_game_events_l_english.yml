@@ -155,7 +155,7 @@
  board_games.0001.desc.i_am_winning.match_history.recently_lost_against.default:0 "「いや、いや、いや！」相手は弱音を吐く。「#EMP 勘弁#!してくれ、#EMP 君に#!じゃないよ！」"
  board_games.0001.desc.i_am_winning.match_history.recently_lost_against.county:0 "相手は[bg_opponent.Custom('EyeEyes')]を丸くして[bg_opponent.GetHerHis]の[bg_opponent.Custom('MaskFace')]の汗を拭っており、我々のプレイの間、[bg_opponent.GetHerHim]に[bg_myself.MakeScope.Var('bg_recent_land_less_stake').Title.GetNameNoTier]を失わせたゲームを心の中で再生しているのは間違いない。"
  board_games.0001.desc.i_am_winning.match_history.recently_lost_against.gamble:0 "「一勝さえできれば、一勝さえできれば、一勝さえ…」相手は何度も何度も口の中でひそひそとつぶやいている。"
- board_games.0001.desc.intro.opening.defender:0 "[bg_opponent.GetTitledFirstName]は、すでに私たちの小さな[SCOPE.Custom('BG_GameType')]の開始を待っていて、#color_blue_gray [bg_myself.Custom('BG_RandomFacialExpression')]#!で座り、 [bg_opponent.GetHerHis]の特徴全体で大きく書き込んでいる。"
+ board_games.0001.desc.intro.opening.defender:0 "[bg_opponent.GetTitledFirstName]は、すでに互いのささやかな[SCOPE.Custom('BG_GameType')]対局の開始を待っていて、その目鼻立ちを覆わんばかりに大きく刻まれた#color_blue_gray [bg_myself.Custom('BG_RandomFacialExpression')]#!で席に着いていた。"
  board_games.0001.desc.intro.opening.attacker:0 "[bg_opponent.GetTitledFirstName]が私の向かいの席に座る。[SCOPE.Custom('BG_GameType')]の小さなゲームは始まろうとしている。#color_blue_gray [SCOPE.Custom('BG_RandomFacialExpression')]#!が私の[bg_myself.Custom2('RelationToMeShort',bg_opponent)]にどれほどの自信があるかを正確に伝えてくれている。\n\n[bg_opponent.GetSheHe|U]が先行で、開幕を飾る、"
  board_games.0001.desc.intro.subsequent:0 "試合は進み、[bg_opponent.GetFirstName]は続ける、"
  board_games.0001.desc.intro.diplomacy.crit_success:0 "危険であることは言うまでもないが、腹立たしいほど大胆な技の数々で。"

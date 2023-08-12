@@ -590,7 +590,7 @@
  OFFER_RANSOM_PROPOSAL_PERSONAL:0 "私はあなたを私の監督下から解放したいと思っていますが、自由はタダというわけにはいきません。私の提案を検討してください。"
  OFFER_RANSOM_PROPOSAL:0 "私は[secondary_recipient.GetShortUIName]を私の監督下から解放したいと思っていますが、自由はタダというわけにはいきません。私の提案を検討してください。"
  PAY_RANSOM_PROPOSAL_PERSONAL:0 "私はこれ以上の投獄に耐えられません！私の自由と引き換えにこの申し出を受け入れてもらえませんか？"
- PAY_RANSOM_PROPOSAL:0 "[secondary_recipient.GetShortUIName|U]は私にとって大切です。この申し出と引き換えに[secondary_recipient.GetHerHim]を手放してもらえませんか？"
+ PAY_RANSOM_PROPOSAL:0 "[secondary_recipient.GetShortUIName|U]は私にとって大切な存在なのです。どうか、この申し出と引き換えに返しては頂けませんか？"
  RELEASE_PRISONER_OFFER:0 "あなたの主人であることを楽しんできましたが、私はあなたを手放すことにしました。"
  RELEASE_PRISONER_OFFER_CONDITIONAL:0 "あなたを牢獄から解放しても構わないが、無条件というわけには…"
  HOUSE_HEAD_DEMAND_CONVERSION:0 "家長として、私は唯一の真の信仰である[actor.GetFaith.GetName]を受け入れるようあなたに求める。"
