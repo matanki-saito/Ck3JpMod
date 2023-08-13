@@ -141,7 +141,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_PARANOID_DECEITFUL:0 "ずる賢く人を信用しない人物で、多くの人は[ROOT.Char.GetHerHim]が自分達の名前が刻まれた短剣を持っていると予期している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_COMPASSIONATE:0 "なよびかに情あり。[ROOT.Char.GetFirstNamePossessiveNoTooltip]の下にて封臣共も栄ゆるべし。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ARROGANT:0 "思い上がりたるものなり。[ROOT.Char.GetFirstNamePossessiveNoTooltip]の世、[ROOT.Char.GetHouse.GetName]家の栄光とも恥とも——未だ知れず。"
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CYNICAL:0 "[ROOT.Char.GetFaith.ReligiousText]]の言葉に心留むることなし。多くが[ROOT.Char.GetFirstNamePossessiveNoTooltip]の世、[ROOT.Char.GetFaith.HighGodName]の怒りによりて約まらんと恐る。"
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CYNICAL:0 "[ROOT.Char.GetFaith.ReligiousText]の言葉に心留むることなし。多くが[ROOT.Char.GetFirstNamePossessiveNoTooltip]の世、[ROOT.Char.GetFaith.HighGodName]の怒りによりて約まらんと恐る。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_GREGARIOUS:0 "口が達者で社交的であるため、多くの人は[ROOT.Char.GetFirstNameNoTooltip]が難無く廷臣を[ROOT.Char.GetHerHis]のそばに引き寄せるだろうと期待している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ZEALOUS:1 "[ROOT.Char.GetFaith.HighGodName]を動揺させないように長い時間をかけて祈りを捧げることで、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の統治が領国に祝福をもたらすことを多くの人は確信している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_AMBITIOUS:0 "野心的な[ROOT.Char.GetWomanMan]であることから、多くの人が[ROOT.Char.GetHerHis]の統治下で王国が成長し、繁栄することを期待している。"

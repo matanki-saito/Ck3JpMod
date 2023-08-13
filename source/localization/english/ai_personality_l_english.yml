@@ -1,7 +1,7 @@
 ﻿l_english:
  AI_PERSONALITY_ADJECTIVE_NOUN:0 "$ADJECTIVE$$NOUN$"
  AI_PERSONALITY_NEUTRAL:0 "バランス型"
- AI_PERSONALITY_TOOLTIP:0 "#T 性格\n#!キャラクターの性格は彼らの下す決定に影響します。性格は主に[traits|E]によって決まります。\n\nプレイヤーに操作されているキャラクターは、行動をコントロールされているため、性格を持ちません。"
+ AI_PERSONALITY_TOOLTIP:0 "#T 性格\n#!キャラクターの性格はその意思決定に影響します。性格は主に[traits|E]によって決まります。\n\nプレイヤーに操作されているキャラクターは、行動をコントロールされているため、性格を持ちません。"
  AI_PERSONALITY_IS_PLAYER_TOOLTIP:0 "#T 性格\n#!この人物はあなた以外によって操作されています。"
  honor_noun:0 "優しい[Select_CString( CHARACTER.IsFemale, '女', '男' )]"
  honor_adj:0 "高潔な"
