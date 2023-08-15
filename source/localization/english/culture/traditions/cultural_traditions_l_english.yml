@@ -1034,5 +1034,5 @@
  culture_parameter_steppe_hunt_success_chance:0 "[GetTerrain( 'steppe' ).GetName]における[hunt_success_chance|E]が増加"
  culture_parameter_mountains_hunt_success_chance:0 "[GetTerrain( 'mountains' ).GetName]や[GetTerrain( 'desert_mountains' ).GetName]における[hunt_success_chance|E]が増加"
  culture_parameter_drylands_hunt_success_chance:0 "[GetTerrain( 'drylands' ).GetName]や[GetTerrain( 'desert' ).GetName]における[hunt_success_chance|E]が増加"
- culture_parameter_jungle_hunt_success_chance:0 "[GetTerrain( 'jungle' ).GetName]における[hunt_success_chance|E]が増加した"
- culture_parameter_wetlands_hunt_success_chance:0 "[GetTerrain( 'wetlands' ).GetName]と[GetTerrain( 'wetlands' ).floodplains]における[hunt_success_chance|E]が増加した"
+ culture_parameter_jungle_hunt_success_chance:0 "[GetTerrain( 'jungle' ).GetName]における[hunt_success_chance|E]が増加しました"
+ culture_parameter_wetlands_hunt_success_chance:0 "[GetTerrain( 'wetlands' ).GetName]と[GetTerrain( 'wetlands' ).floodplains]における[hunt_success_chance|E]が増加しました"

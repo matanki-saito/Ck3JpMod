@@ -30,7 +30,7 @@
  pay_homage.0101.desc.success:0 "最後に[homage_vassal.GetTitleAsNameNoTooltip]へと立つよう促し、満足したと告げた。そして、私に代わって治めている[homage_vassal.GetFirstNamePossessiveNoTooltip]の領地を一段と良く統治せよと命じた。"
  pay_homage.0101.smooth.submission:0 "「存分に仕えよ、[homage_vassal.GetTitledFirstNameNoTooltip]」"
  pay_homage.0101.smooth.gold:0 "「あなたの気前の良い贈り物を受け入れよう、[homage_vassal.GetTitledFirstNameNoTooltip]。」"
- pay_homage.0101.smooth.hook:0 "「私はあなたに要求することができると知って嬉しい、[homage_vassal.GetTitledFirstNameNoTooltip]。」"
+ pay_homage.0101.smooth.hook:0 "「あなたに要求できると分かり嬉しく思う、[homage_vassal.GetTitledFirstNameNoTooltip]。」"
  pay_homage.0101.smooth.contract:0 "「あなたの奉仕は貴重なものだ、[homage_vassal.GetTitledFirstNameNoTooltip]。」"
  pay_homage.0101.faux_pas.language:0 "「よく頑張ったな、[homage_vassal.GetFirstNameNoTooltip]。それは簡単な言語ではないな。」"
  pay_homage.0101.faux_pas.clumsy:0 "「お前たちの誓いこそ私にとっての全てだ。」"

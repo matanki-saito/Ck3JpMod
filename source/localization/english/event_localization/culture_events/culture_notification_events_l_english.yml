@@ -27,7 +27,7 @@
  culture_notification.1111.ethos.spiritual:0 "自分自身の中と世界の両方に広く答えを求め、[new_culture.GetCollectiveNounNoTooltip]はかつてないほど神聖で敬虔なものになりつつある。"
  culture_notification.1111.ethos.egalitatian:0 "生まれた環境が必ずしも才能や能力を予測するものではないことを認め、[new_culture.GetCollectiveNounNoTooltip]は社会としてより平等主義的で開かれたものになってきている。"
  culture_notification.1111.ethos.unchanged:0 "彼らの人生観は基本的に変わらず、[new_culture.GetCollectiveNounNoTooltip]と[parent_1.GetCollectiveNounNoTooltip]の違いは何よりも政治的なもののように思われる――しかし、伝統や政策、国境による分断が一つの集団を二つの集団に変えてしまったという事実は残っている。"
- culture_notification.1111.outro.other:0 "\n\n[founder.GetHerHis]は、巧みな操作からか、それとも人々を新しい時代へと導こうとする真の願いからか、[founder.GetTitledFirstName]は[founder.GetHerselfHimself]をこの文化の目覚めの指導者として位置づけている。"
+ culture_notification.1111.outro.other:0 "\n\n[founder.GetTitledFirstName]は、巧みな小細工からか、それとも人々を新しい時代へと導こうとする真の願いからか、自らをこの文化の目覚めの指導者として位置づけている。"
  culture_notification.1111.outro.founder:0 "\n\n[new_culture.GetNameNoTooltip]と共に人々が私の導きを待っている。我々の共存する未来の舞台に上がる時が来た。"
  culture_notification.1111.a.other:0 "この状況がどうなるか見物だな。"
  culture_notification.1111.a.founder:0 "新たなる年、新たなる時代、新たなる人々へ！"
