@@ -156,7 +156,7 @@
  came_to_my_wedding_opinion_host_low:0 "[host.GetTitledFirstNameNoTooltip]は$wedding_opinion_low$"
  came_to_my_wedding_opinion_spouse_1_low:0 "[spouse_1.GetTitledFirstNameNoTooltip]は$wedding_opinion_low$"
  came_to_my_wedding_opinion_spouse_2_low:0 "[spouse_2.GetTitledFirstNameNoTooltip]は$wedding_opinion_low$"
- ep2_wedding.1000.t:0 "芸術的な違い"
+ ep2_wedding.1000.t:0 "芸術性の違い"
  ep2_wedding.1000.desc:0 "家柄に見合った結婚式を挙げるだけでもストレスなのに、私は[spouse_2.GetFirstNamePossessive]の親族とも付き合わなければならない。\n\n[spouse_2.GetHerHis|U]の[spouse_2.Custom2('RelationToMe', SCOPE.sC('1000_relative'))]、[1000_relative.GetTitledFirstName]は今日は明るく早朝に到着すると、それ以来ずっと私の後を追いかけて、休みなくあれやこれやと文句を言い続けている。私が目の奥に割れるような頭痛が広がるのを感じている中でも、[1000_relative.GetSheHe]は怯むことなくしゃべり続ける。"
  ep2_wedding.1000.desc_servants:0 "\n\n「#EMP 本当に#!これで召使いが足りるとお思いですか？まさか#EMP 私が#![ROOT.Char.Custom('GetExpensiveMeal')]を運ぶとでも思っているのかね！？伝説によれば、私の曽祖父の結婚式では召使いが多すぎて、帽子で太陽が隠れてしまうほどだったよ！」"
  ep2_wedding.1000.desc_dec:0 "\n\n「あの花は何色ですか？その花は[spouse_2.GetFirstNamePossessiveNoTooltip]の外観と#EMP ひどく#!ぶつかるだろうなぁ！あと、なぜこんな#EMP 味気ない#!配置をテーブルに選んだんだろう！それから、この#EMP 派手な#!布も勘弁してくれ！」"
