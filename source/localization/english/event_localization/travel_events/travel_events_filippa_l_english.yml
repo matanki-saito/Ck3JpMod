@@ -318,7 +318,7 @@
  travel_events.2027.c:0 "列に並べ、#EMP 農民よ。#!"
  travel_events.2027.d:0 "なぜ監督と一緒に食事をしないのだ？"
  travel_events.2028.t:0 "$travel_event_prefix$ 建築家の熟考"
- travel_events.2028.desc:1 "我々の側近が[ROOT.Char.GetCurrentLocation.GetName]の採石場に入ったとき、[budding_architect.GetFirstName]は深い物思いにふけっていた。[budding_architect.GetSheHe|U]は、荒くカットされた大きな木のテーブルにもたれて、巻物に何かを描くのに没頭している。\n\n私が[budding_architect.GetHerHis]の肩越しに近づくと、それが[budding_architect.GetHerHis]の注意を引いたようだ。「閣下！そこにおられたのですか、気づかずに申し訳ございません！」\n\n[budding_architect.GetSheHe]が何をしていたのかを尋ねると、[budding_architect.GetFirstNameNoTooltip]が答える。\n「ああ、建設や基礎的な構築に関する考えを書いていたのです。私もそれなりの建築家ですからね。」[budding_architect.GetSheHe]は恥ずかしそうに笑う。"
+ travel_events.2028.desc:1 "我々の一行が[ROOT.Char.GetCurrentLocation.GetName]の採石場に入ったとき、[budding_architect.GetFirstName]は深い物思いにふけっていた。荒くカットされた大きな木のテーブルにもたれて、巻物に何かを描くのに没頭している。\n\n私がその肩越しに近づくと、それが[budding_architect.GetFirstName]の注意を引いたようだ。「閣下！そこにおられたのですか、気づかずに申し訳ございません！」\n\n何をしていたのかを尋ねると、\n「ああ、建設や基礎的な構築に関する考えを書いていたのです。私もそれなりの建築家ですから。」と、[budding_architect.GetFirstNameNoTooltip]は恥ずかしそうに笑って答えた。"
  travel_events.2028.a_architect:0 "これは良いものだ。一つもらっていこう！"
  travel_events.2028.a:0 "建築家なのか？ 図面を一枚持っていこう！"
  holding_blueprint:0 "建築家の図面"

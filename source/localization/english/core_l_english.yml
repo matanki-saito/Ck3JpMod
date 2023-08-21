@@ -739,7 +739,7 @@
  DEBUG_TRAVEL_COMPANIONS_COMPANION:0 "[CHARACTER.GetUIName]"
  DEBUG_TRAVEL_COMPANIONS_SEPARATOR:0 "、"
  DEBUG_TRAVEL_ACTIVITY:1 "[ACTIVITY.GetName]の活動"
- CHARACTER_TRAVELING_TOOLTIP:0 "#T 旅行中#!\n[SelectLocalization(Character.GetTravelPlan.GetData.GetActivity.IsValid, 'CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION', '')]による[Character.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]への[traveling|E]"
+ CHARACTER_TRAVELING_TOOLTIP:0 "#T 旅行中#!\n[SelectLocalization(Character.GetTravelPlan.GetData.GetActivity.IsValid, 'CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION', '')][Character.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]への[traveling|E]"
  CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION:0 "[SelectLocalization(ObjectsEqual(Character.GetTravelPlan.GetData.GetActivity.GetHost.Self, Character.Self),'CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_HOSTING','CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_ATTENDING')]"
  CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_HOSTING:0 "[Character.GetTravelPlan.GetData.GetActivity.GetName]により"
  CHARACTER_TRAVELING_ACTIVITY_TOOLTIP_ADDITION_ATTENDING:0 "[Character.GetShortUIName]は[Character.GetTravelPlan.GetData.GetActivity.GetName]に参加しているので"

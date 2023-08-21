@@ -2,7 +2,7 @@
  travel_danger_prefix:0 "危険:"
  travel_danger_events.1000.t:1 "$travel_danger_prefix$もぐら塚を抜けて山"
  travel_danger_events.1000.desc:0 "この道はとんでもない丘陵地帯だ。小一時間は歩いているが、皆はそろそろ疲れを隠しきれないでいる。\n\n随分歩いたが、平らかな道に戻りそうな気配はない。すると旅を共にする[travel_leader.GetFirstName]が私に進言してきた。\n\n「[ROOT.Char.GetLadyLord]様、私たちの騎獣どももこのような道を歩き続けることは厳しいと思います。この子達をそろそろ休ませてあげなければ、潰れてしまうのではないかと不安に感じております。一旦立ちどまり、まとまった休みをとらなければ！」\n\n[travel_leader.GetSheHe|U]も[destination.GetName]への旅路が遅れることになることを承知しての進言であろうが…"
- travel_danger_events.1000.a:0 "[travel_leader.GetSheHe|U]よ、よく言った。1度休むのが賢明だろう。"
+ travel_danger_events.1000.a:0 "よく言った。1度休むのが賢明だろう。"
  travel_danger_events.1000.b:0 "遅れることなどあってはならぬ。進軍だ！"
  travel_danger_events.1001.t:0 "$travel_danger_events.1000.t$"
  travel_danger_events.1001.desc:0 "計画に従い、[destination.GetName]への旅路を少しでも進めようと私は強行した。今の丘はこの遍路で最大のものであり、文字通りここが最大の山場となろう、という時に…\n\n#EMP ドサ！…ドサ！ドサ！ドサ！#!\n\n私がその音に気づいて振り向くと、引き連れた騎獣たちが全て倒れ伏せていた。[travel_leader.GetFirstName]は正しかった… この可哀想な獣たちはずっと休まずにいたのだ。私はその機会をみすみす逸したのだ。"

@@ -2,4 +2,4 @@
  BUILDING_REQUIREMENT_TRIBAL_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName]に[tribal|E]所領がある"
  BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName]は[castle|E]、[city|E]または[temple|E]でないといけない"
  NOT_BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName]は[castle|E]、[city|E]または[temple|E]ではない"
- NOT_BUILDING_REQUIREMENT_HALL_OF_HEROES_FAILED:0 "英雄の殿堂はバルト文化、スラヴ文化、フィン文化の蛮族でしか使うことが出来ない"
+ NOT_BUILDING_REQUIREMENT_HALL_OF_HEROES_FAILED:0 "バルト文化、スラヴ文化、フィン文化の蛮族に限り、英雄の殿堂を利用できる"

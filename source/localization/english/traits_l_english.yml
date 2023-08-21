@@ -611,7 +611,7 @@
  trait_legitimized_bastard_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は私生児として生まれたが、今では認知されている。"
  trait_disputed_heritage:0 "相続の異議"
  trait_disputed_heritage_desc:0 "この人物には相続について信憑性の高い流聞がある。父親が別人だという噂が後を絶たない。"
- trait_disputed_heritage_character_desc:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]には相続について信憑性の高い流聞がある。父親が[ROOT.GetCharacter.GetHerHis]ではないという噂が後を絶たない。"
+ trait_disputed_heritage_character_desc:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]には相続について信憑性の高い流聞がある。[ROOT.GetCharacter.GetHerHis]の父親が他の誰かではないかという噂が後を絶たない。"
  trait_wild_oat:0 "婚外子"
  trait_wild_oat_desc:0 "この人物は婚外子である。"
  trait_wild_oat_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は婚外子である。"
