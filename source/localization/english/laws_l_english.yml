@@ -17,7 +17,7 @@
  crown_authority_1:0 "限定的な王権"
  crown_authority_1_effects:1 "$EFFECT_LIST_BULLET$統治者は、継承法を利用可能な分割系[succession_laws|E]へ変更することが可能\n$EFFECT_LIST_BULLET$[titles|E]の剥奪が可能\n$EFFECT_LIST_BULLET$[vassals|E]の引き抜きが可能"
  crown_authority_2:0 "高い王権"
- crown_authority_2_effects:3 "$EFFECT_LIST_BULLET$統治者は、相続法を全ての利用可能な[succession_laws|E]へ変更することが可能\n$EFFECT_LIST_BULLET$[vassals|E]は[liege|E]に対し[hook|E]を使用しない限り、他の封臣と[war|E]することができない\n$EFFECT_LIST_BULLET$封臣の[titles|E]は[realm|E]外の人物に対して相続されない\n$EFFECT_LIST_BULLET$称号の剥奪や封臣の引き抜きを拒否した封臣は[criminals|E]として扱われる"
+ crown_authority_2_effects:3 "$EFFECT_LIST_BULLET$統治者は、相続法を全ての利用可能な[succession_laws|E]へ変更可能\n$EFFECT_LIST_BULLET$[vassals|E]は[liege|E]に対し[hook|E]を使用しない限り、他の封臣と[war|E]できない\n$EFFECT_LIST_BULLET$封臣の[titles|E]は[realm|E]外の人物に対して相続されない\n$EFFECT_LIST_BULLET$称号の剥奪や封臣の引き抜きを拒否した封臣は[criminals|E]として扱われる"
  crown_authority_3:0 "絶対的王権"
  crown_authority_3_effects:1 "$EFFECT_LIST_BULLET$[vassals|E]は[hook|E]を[liege|E]に使用しない限り、いかなる[war|E]も行えない\n$EFFECT_LIST_BULLET$統治者は自分の[heir|E]を指名することが可能"
  crown_authority_1_effects_not_in_prev:0 "$EFFECT_LIST_BULLET$[clan_government][vassals|E]は少なくとも[EmptyScope.ScriptValue('clan_government_levies_min_ca_1')|%0V]の[levies|E]と[EmptyScope.ScriptValue('clan_government_tax_min_ca_1')|%0V]の[income|E]を提供します"

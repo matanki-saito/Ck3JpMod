@@ -143,3 +143,5 @@
  OPINION_CULTURAL_ACCEPTANCE:0 "[cultural_acceptance|E]"
  CULTURAL_ACCEPTANCE_KNOWS_LANGUAGE:1 "[TARGET_CHARACTER.GetShortUIName]が[CHARACTER.GetCulture.GetLanguage.GetName]話者なので[GetDefine('NCharacterOpinion', 'CULTURE_ACCEPTANCE_MULT_KNOWS_LANGUAGE')|%0]減"
  OPINION_STRIFE:0 "[strife|E]"
+ HOOK_STATE_PERPETUAL_COOLDOWN: "[perpetual_hook|E], can be used again after [DATE.GetString|V]"
+ HOOK_STATE_PERPETUAL: "[perpetual_hook|E]"

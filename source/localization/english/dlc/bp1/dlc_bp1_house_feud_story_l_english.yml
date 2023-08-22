@@ -5,7 +5,7 @@
  bp1_house_feud.0001.a:0 "私はそれを人生の使命としよう。"
  bp1_house_feud.0001.b:0 "もっと良い力の使い道があるはずだ…"
  bp1_house_feud.0002.t:0 "同族の結束"
- bp1_house_feud.0002.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))][house_feud_victim.GetTitledFirstName]は常に[house_feud_victim.GetHerHis]の不快なライバル、[house_feud_attacker.GetTitledFirstName]を不満に思っている。\n\n私が[house_feud_victim.GetHerHim]に会うたび、[house_feud_victim.GetSheHe]は「[house_feud_attacker.GetHouse.GetBaseName]家の[house_feud_attacker.Custom('VenomousCreature')|U]」について触れ、私に[house_feud_attacker.GetHerHim]を倒すための助言や手助けをするようしきりに求めてくる。"
+ bp1_house_feud.0002.desc:1 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))], [house_feud_victim.GetTitledFirstName], constantly bemoans the vileness of [house_feud_victim.GetHerHis] rival, [house_feud_attacker.GetTitledFirstName].\n\nEach time I see [house_feud_victim.GetHerHim], [house_feud_victim.GetSheHe] mentions the [SCOPE.Custom('VenomousCreature')|U] of House [house_feud_attacker.GetHouse.GetBaseName]', and urges me to offer advice or aid in bringing [house_feud_attacker.GetHerHim] down."
  bp1_house_feud.0002.a:0 "これは家族の問題のように聞こえる。"
  bp1_house_feud.0002.b:0 "よくも[house_feud_attacker.GetFirstNameNoTooltip]は私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))]に挑戦できたものだな？"
  bp1_house_feud.0002.c:0 "[house_feud_victim.GetSheHe|U]は自身で問題を解決するべきだ。"

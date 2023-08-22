@@ -130,7 +130,7 @@
  child_personality.7070.c:0 "ニヤニヤして我慢だ。"
  child_personality.7070.c.flavor:0 "敗北に耐えてそれを受け入れる。"
  child_personality.7071.t:0 "$child_personality.7070.t$"
- child_personality.7071.desc:0 "数日前の夜、[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))]の[child.GetFirstNamePossessive]の料理に[other_child.GetFirstName]が唾を吐いたらしい。\n\n"
+ child_personality.7071.desc:0 "Apparently [other_child.GetFirstName] spit in my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetFirstNamePossessive] food during dinner a few nights ago.\n\n"
  child_personality.vengeful.desc:0 "「この[other_child.Custom('InsultNoun')]め！」[child.GetFirstNameNoTooltip]が叫ぶ。「でもお前は[child.Custom('InsultNoun')]だ！」[other_child.GetFirstNameNoTooltip]が言い返す。\n\n[child.GetFirstNameNoTooltip]は[other_child.GetFirstNameNoTooltip]とあれ以来毎日喧嘩している！[child.GetHerHim]にとって、ある種の些細な復讐を企てない日はないのだ…"
  child_personality.deceitful.desc:0 "料理人の一人が[child.GetFirstNameNoTooltip]がこっそり[other_child.GetFirstNamePossessiveNoTooltip]の料理に唾を吐いているところに出くわした！これが、[other_child.GetFirstNameNoTooltip]がここ最近数回の夕食の間に少し#EMP 青ざめて#!いる理由だ——[child.GetSheHe]は何日も[other_child.GetFirstNamePossessiveNoTooltip]の食べ物に唾を吐いていたに違いない、少しせせら笑って…"
  child_personality.calm.desc:0 "[child.GetFirstNameNoTooltip]は[other_child.GetFirstNameNoTooltip]のいじめに反応しないことで[other_child.GetHerHis]を疲れさせようとしているように見える。何度[other_child.GetFirstNameNoTooltip]が[child.GetHerHim]を[child.Custom('InsultNoun')]と呼び、あるいは[child.GetHerHim]の頬を引っ叩いても…"

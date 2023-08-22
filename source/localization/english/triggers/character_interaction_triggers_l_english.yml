@@ -1,3 +1,4 @@
 ﻿l_english:
  IS_PLAYER_HEIR_OF:0 "#D TODO このトリガーは、おそらくコード化されたバージョンに置き換える必要があります！#!"
  CHARACTER_IS_PRESSING_TARGET_CHARACTERS_CLAIM:0 "[CHARACTER.GetShortUIName|U]が[TARGET_CHARACTER.GetShortUINamePossessive]の請求を後押ししている"
+ HOSTAGE_OATH_OF_FRIENDSHIP: "[actor.GetShortUIName|U] and [recipient.GetShortUIName] swore eternal support when they became childhood friends"

@@ -30,7 +30,7 @@
  death_management.1005.a.tt:3 "あなたの友人、[dead_character.GetTitledFirstName]は[THIS.Char.Custom('DiedHouse_arrest')]。"
  death_management.friend.desc:4 "あなたの友人、[dead_character.GetTitledFirstName]は死んだ。"
  death_management.1007.t:0 "運命の悪戯"
- death_management.1007.start_murder:0 "[dead_character.GetTitledFirstName]は殺害された！[dead_character.GetSheHe]がどのような"
+ death_management.1007.start_murder:1 "[dead_character.GetTitledFirstName] has been murdered!"
  death_management.1007.start:3 "今日、[dead_character.GetTitledFirstName]の死によって、[ROOT.Char.GetPrimaryTitle.GetNameNoTier]の行く末は変わってしまった。"
  death_management.1007.mytitle:2 "[dead_character.GetSheHe]がどのような[ROOT.Char.GetTitleTierName]になっていたのかも、"
  death_management.1007.ruler:1 "[dead_character.GetSheHe]がどのような統治者になっていたのかも、"

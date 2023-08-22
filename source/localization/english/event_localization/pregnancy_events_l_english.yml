@@ -87,7 +87,7 @@
  pregnancy.3003.a.tt:0 "秘密は内に秘められたままだ"
  pregnancy.3003.b:0 "ああ、これは嬉しい知らせだ！"
  pregnancy.3004.t:0 "大きくなったお腹"
- pregnancy.3004.desc:1 "[mother.GetTitledFirstName]が私のところに来て、すぐに理由がわかった。[mother.GetSheHe|U]のお腹には子供がいて、[mother.GetHerHis]の心の中にも、私の心の中にも、父親が誰なのかという疑念はほとんどない。しかし、[spouse.GetFirstName]と結婚したからには、私の関与が秘密のままであることを祈るしかない。"
+ pregnancy.3004.desc:1 "[mother.GetTitledFirstName] has come to me, and I immediately knew why. [mother.GetSheHe|U] is with child, and there is as little doubt in [mother.GetHerHis] heart, as in mine, as to who the father is.\n\nHowever, with my marriage to [spouse.GetFirstName] there is nothing I can do except hope that my involvement stays secret."
  pregnancy.3004.a:0 "こんなことになるとは思わなかった。"
  pregnancy.5001.t:0 "「知る必要がある！」"
  pregnancy.5001.desc:0 "[real_father_inquirer.GetTitledFirstName]が私を求めてきた。私のお腹に手を置いて、[real_father_inquirer.GetSheHe]が心配そうな表情で私を見ている。"

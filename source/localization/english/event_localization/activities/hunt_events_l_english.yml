@@ -1016,7 +1016,7 @@
  hunt.7212.desc:0 "私は装備を整えるために一瞬立ち止まる。突然小枝が折れる音が静寂を破り、[abduct_actor.GetTitledFirstName]が急いで私に近づいてくるのが見える。"
  hunt.7212.accomplice_2:0 "[accomplice_2.GetFirstName]と[accomplice.GetFirstName]もすぐ後ろに続いている。"
  hunt.7212.accomplice:0 "[accomplice.GetFirstName]も[abduct_actor.GetHerHis]のすぐ後ろに続いている。"
- hunt.7212.success:0 "\n\n[murder_actor.GetFirstNamePossessiveNoTooltip]の目に決意の色を見るのが遅れた私は、[murder_actor.GetHerHis]のタックルをかわしきれず、ドスンと言う音とともに[ROOT.Char.GetCurrentLocation.Custom('GetProvinceGroundDesc')]の中に倒れる。\n\n気を取り直して振り返ると、[murder_actor.GetSheHe]が頭上に大きな岩を抱えて立っている！「さらばだ、[ROOT.Char.GetFirstNameNotooltip]。」"
+ hunt.7212.success:0 "\n\nI see the determination in [murder_actor.GetFirstNamePossessiveNoTooltip] eyes too late, failing to dodge [murder_actor.GetHerHis] tackle, and am sent down into the [ROOT.Char.GetCurrentLocation.Custom('GetProvinceGroundDesc')] with a thud.\n\nWhen I recover my wits and turn, [murder_actor.GetSheHe] is standing over me, holding a large rock over [murder_actor.GetHerHis] head! \"Goodbye, [ROOT.Char.GetFirstNameNoTooltip].\""
  hunt.7212.failure:0 "\n\n明らかなに何かが間違っている。[murder_actor.GetFirstNameNoTooltip]が突然突進してきて、私はぶざまに地面へと転げ落ちるが、[murder_actor.GetSheHe]が[ROOT.Char.GetCurrentLocation.Custom('GetProvinceGroundDesc')]の中でバランスを崩し、悪態をついている間に何とか立ち上がることができた。\n\n私は[ROOT.Char.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中を疾走し、助けを求める。パーティはそれほど遠くには行っていないはずだ！"
  hunt.7212.a:0 "「な、何をす…！」"
  hunt.7212.b:0 "とにかく走れ！"

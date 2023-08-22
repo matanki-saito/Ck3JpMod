@@ -476,3 +476,4 @@
  strongly_dislikes_defender:0 "彼らは防衛側をひどく嫌っている"
  custom.attacker_every_active_accolade:0 "[defender.GetShortUINamePossessive]の[rank|E]が高いため、[attacker.GetShortUINamePossessive]の[acclaimed_knights|E]"
  custom.defender_every_active_accolade:0 "[defender.GetShortUINamePossessive]の[rank|E]が高いため、[attacker.GetShortUINamePossessive]の[acclaimed_knights|E]"
+ WAR_BREAKING_HOSTAGE: "@warning_icon!#X Declaring War will affect [hostages|E]!#!"

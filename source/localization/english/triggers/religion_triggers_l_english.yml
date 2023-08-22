@@ -34,7 +34,7 @@
  I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "[FAITH.GetAdjectiveNoTooltip]信仰の[holders|E]が治める[FAITH.GetName]の[holy_sites|E]の数は、[realm|E]内に$VALUE|0V$ヶ所#bold 未満です#!"
  NOT_RELIGION_TAG_TRIGGER:0 "あなたの[faith]は$RELIGION|V$の#bold 一部ではない#!"
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]することができる"
- CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]#EMP することができない#!"
+ CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName]であるため、[bastards|E]を[legitimized|E]#EMP できない#!"
  CANNOT_CREATE_HOF_TITLE_AT_OR_ABOVE_LIEGE_TIER:0 "[liege|E]と同じかより上位の[title_rank|E]になるような場合に[head_of_faith|E]になることはできません"
  CHAR_CAN_ONLY_CREATE_ONE_FAITH:0 "この人物は改宗か新しい[faith|E]の創設をすでに行っています！"
  has_forced_defender:0 "あなたは防御側であることを強制されている"

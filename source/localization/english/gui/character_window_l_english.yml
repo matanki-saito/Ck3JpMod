@@ -166,3 +166,4 @@
  SPOUSE_DIARCH:0 "$SPOUSE$-[Character.GetDiarchTitle]"
  CHARACTER_WINDOW_GOTO_PREVIOUS_FIND_SPOUSE:0 "#T 前: [spouse|E]を探す#!"
  CHARACTER_WINDOW_GOTO_DIARCH:0 "#T 次: [CHARACTER.GetLiege.GetDiarchTitle][CHARACTER.GetUIName]#!"
+ WARDEN_OF: "[Concept( 'warden', 'Warden @hostage_icon!' )|E]"

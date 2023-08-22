@@ -32,3 +32,6 @@
  DLC007_EP2:0 "Tours and Tournaments"
  dlc_007:0 "$DLC007_EP2$"
  dlc_007_desc:0 "グランドトーナメント、グランドウェディング、グランドツアーの開催と参加から得た栄光に浸るために、危険な中世の土地を旅しながら歴史を作り上げてください。"
+ DLC009_BP2: "Wards & Wardens"
+ dlc_009: "$DLC009_BP2$"
+ dlc_009_desc: "In Wards & Wardens, child rulers and their guardians take center stage. Rear young princes and nobles in a world where eternal glory is a battle away, and danger lurks in every shadow."

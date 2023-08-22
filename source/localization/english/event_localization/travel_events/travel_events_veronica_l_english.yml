@@ -121,7 +121,7 @@
  vigorous_dancer_modifier:0 "精力的な踊り手"
  vigorous_dancer_modifier.desc:0 "この人物は、最も活気のあるジグを見事にマスターしているため、可能な限り頻繁に実践し、感動を与えることができる。"
  travel_events.3030.t:0 "$travel_event_prefix$ 外国の待遇"
- travel_events.3030.desc:0 "道ばたで摘んだ花をいじる[fleeing_knight.Custom2('MyCharacterIntroduction', ROOT.Char)]を目にするのは、初めてではない。[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の所領を見渡していると、ときどき[fleeing_knight.GetHerHis]のため息が聞こえてくることさえ確かにあるのだ。\n\n「閣下」私の観察の目に気づくと語り始めた。「ここから遠く離れたところ。私の心が新しい家を見つけたのです。秘密でもなんでもないのです。ああ、閣下、魂は[foreign_lady_scope.GetTitledFirstName]のために痛み、欲望は終わりを知りません、その目、髪…一礼でさえ待ち焦がれます、一言でもあれば死んでもいいのです。お願いでございます、[foreign_lady_scope.GetHerHim]と一緒にいさせてください。」"
+ travel_events.3030.desc:0 "It's not the first time I catch [fleeing_knight.Custom2('MyCharacterIntroduction', ROOT.Char)] fiddling around with some flowers [fleeing_knight.GetSheHe]'s been picking along the road. Sometimes I'd swear I even hear him sighing, overlooking [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]'s holding.\n\n\"My liege,\" [fleeing_knight.GetSheHe] says. \"It's not a secret that my heart has found a new home far from home. Alas, my soul aches for [foreign_lady_scope.GetTitledFirstName], my desires know no end, [foreign_lady_scope.GetHerHis] eyes, [foreign_lady_scope.GetHerHis] hair... I long for just a salute, I'd die for a word. Please, I beg you, let me stay with [foreign_lady_scope.GetHerHim].\""
  travel_events.3030.a:0 "どこの誰がそんなに大事だというのだ？"
  travel_events.3030.b:0 "お前が供をすべきは#EMP この私#!だ。"
  travel_events.3030.c:0 "そんな若気の至りに浸っている時間はないのだぞ。"

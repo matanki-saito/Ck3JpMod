@@ -52,3 +52,6 @@
  HAS_CULTURAL_TRADITION_GLOBAL_NOT:0 "[CULTURE.GetName|U][culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有していない"
  HAS_CULTURAL_TRADITION_NONE:0 "[culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有している"
  NOT_HAS_CULTURAL_TRADITION_NONE:0 "[culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有していない"
+ NUM_DISCOVERED_INNOVATIONS_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! is $COMPARATOR$ $NUM|V0$"
+ NOT_NUM_DISCOVERED_INNOVATIONS_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! is not $COMPARATOR$ $NUM|V0$"
+ NUM_DISCOVERED_INNOVATIONS_IN_ERA_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of Discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! in the $ERA$ [era|E] is $COMPARATOR$ $NUM|V0$"

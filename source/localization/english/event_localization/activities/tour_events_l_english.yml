@@ -1031,7 +1031,7 @@
  tour_general.9999.phase_tour_grounds:0 "あなたの[ROOT.Char.Custom('FortifiedBuilding')]と土地を視察する予定である。"
  tour_general.9999.phase_dinner:0 "あなたの[ROOT.Char.Custom('FortifiedBuilding')]で素晴らしい宴を受ける予定である。"
  tour_general.9999.phase_cultural_festival:0 "地元の[ROOT.Char.GetCulture.GetNameNoTooltip]の祭典を楽しむ予定である。"
- tour_general.9999.phase_fallback:0 "あなたの所領を視察し、あなたの活動に関する知らせを聞くことを楽しみにしている。"
+ tour_general.9999.phase_fallback:1 "to see your holdings and hear news of your doings."
  tour_general.9999.type_majesty:0 "\n\n[host.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]が、彼らの正当な主君の素晴らしさと優雅さに目を向ける時が来たのだ。"
  tour_general.9999.type_intimidation:0 "\n\n[host.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]に対し、自分たちが誰に仕えているか、そして反逆に対する罰を思い出させる時が来たのだ。"
  tour_general.9999.type_taxation:0 "\n\n[host.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]の紳士淑女たちは、私に納めるべき十分の一税を差し出すことだろう。"

@@ -39,3 +39,4 @@
  diarch_attempt_to_overthrow_liege.tt.coup_prowess:0 "武勇によるクーデター\n#low $diarch_attempt_to_overthrow_liege.tt.coup_prowess_desc$#!"
  diarch_attempt_to_overthrow_liege.tt.coup_prowess_desc:0 "暴力に限る。"
  coup_prowess_tooltip:0 "あなたの陰謀の内容は殴ってブチのめすという緻密なものです。"
+ diarch_attempt_to_overthrow_liege_bypass: "You have already laid the groundwork for such an attempt"

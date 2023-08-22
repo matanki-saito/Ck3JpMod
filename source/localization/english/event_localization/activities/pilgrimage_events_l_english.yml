@@ -814,3 +814,4 @@
  pilgrimage.9100.a_has_gift:0 "いただきます！"
  pilgrimage.9100.b:0 "これは保管しておくのが賢明だろう。"
  pilgrimage.9100.b.tt:0 "次の[personal_scheme|E]の計画力と成功確率を上げるために、商品を使用する機会を得ることができます"
+ activity_pilgrimage_imaginary_friend_location_desc: "\n#positive_value +++ Honor your Imaginary Friend#!"

@@ -238,3 +238,4 @@
  overthrow_regent_scheme_interaction_desc:0 "[recipient.GetFirstNameNoTooltip]を[imprison|E]する陰謀を開始し、[recipient.GetDiarchTitle]である[recipient.GetHerHim]を置き換えます"
  overthrow_regent_scheme_interaction.tt.started_scheme:0 "[recipient.GetFirstNameNoTooltip]の打倒を画策する"
  declare_me_regent_interaction.tt.opinion_of_current_regent:0 "現在の[recipient.GetDiarchTitle]の[opinion|E]: $VALUE|+=0$"
+ overthrow_regent_scheme_interaction.tt.filtered_due_to_incumbent_politicking: "Due to the politicking of a prior [recipient.GetLiege.GetDiarchTitle], you have been disavowed from the [recipient.GetLiege.GetDiarchyTypeName] succession"
