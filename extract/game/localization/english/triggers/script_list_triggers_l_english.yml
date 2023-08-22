@@ -34,3 +34,7 @@
  ANY_OF_MY_HELD_TITLES_COUNT:0 "$PARAMETERS$ of my held [titles|E]:"
  ANY_HELD_TITLE_PERCENT:0 "$PARAMETERS$ held [titles|E]:"
  ANY_OF_MY_HELD_TITLES_PERCENT:0 "$PARAMETERS$ of my held [titles|E]:"
+
+ ANY_WARDEN_HOSTAGE: "Any [hostage|E]:"
+ ANY_WARDEN_HOSTAGE_FIRST: "Any of my [hostages|E]:"
+ ANY_WARDEN_HOSTAGE_THIRD: "Any of [CHARACTER.GetShortUINamePossessive] [hostages|E]:"

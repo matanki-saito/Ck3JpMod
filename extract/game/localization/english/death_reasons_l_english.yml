@@ -306,10 +306,14 @@
  death_cut_off_by_enemy_troops_defensive:0 "was slaughtered by enemy soldiers during a chaotic retreat"
 
  # TRAVEL DANGER
- death_fallen_from_a_mountain:0 "has fallen from the mountain trail"
+death_fallen_from_a_mountain:0 "has fallen from the mountain trail"
  death_mountain_rescue_operation:0 "heroically died on a mountain slope while attempting to rescue a fellow traveler"
  death_fall_in_hole:0 "fell in a hole"
  death_fall_in_hole_killer:0 "was pushed into a hole by [TARGET_CHARACTER.GetUIName]"
  death_stampede:0 "was trampled by a stampeding herd"
  death_avalanche:0 "was buried by an avalanche"
  death_poisonous_forage:0 "ate some poisonous plants by mistake"
+
+ #BP2
+ death_hostage_execution: "was executed while being a hostage"
+ death_hostage_execution_killer: "was executed while being [TARGET_CHARACTER.GetUINamePossessive] hostage"

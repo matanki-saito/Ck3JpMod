@@ -182,3 +182,27 @@
  advaitism_adherent:0 "Advaita Vedantin"
  advaitism_adherent_plural:0 "Advaita Vedantins"
  advaitism_desc:0 "Unlike many Hindu faiths, Advaita Vedanta emphasizes the unity of the Atman, the true self, with the Brahman, the truest reality, and believes that moksha can be achieved in life as well as death."
+
+ #Saura
+ saura: "Saurism"
+ saura_adj: "Saurite"
+ saura_adherent: "Saurite"
+ saura_adherent_plural: "Saurites"
+ saura_desc: "Surya the Sun God, the visible Brahman, is the foremost deity of the Saurites. Rooted in Vedic tradition, Saurites characterize Surya as being seated in a chariot drawn by seven horses, each one representing a color of the rainbow."
+
+ saura_good_god_ushas: "Ushas"
+ saura_good_god_mitra: "Mitra"
+ saura_good_god_aranyani: "Aranyani"
+ saura_good_god_saranyu: "Saranyu"
+ saura_good_god_chaya: "Chaya"
+ saura_good_god_shani: "Shani"
+ saura_good_god_aditi: "Aditi"
+
+ saura_high_god_name: "Surya"
+ saura_high_god_name_possessive: "Surya's"
+ saura_health_god_name: "Dhanvantari"
+ saura_health_god_name_possessive: "Dhanvantari's"
+ saura_night_god_name: "Ratri"
+ saura_night_god_name_possessive: "Ratri's"
+ saura_war_god_name: "Skanda"
+ saura_war_god_name_possessive: "Skanda's"

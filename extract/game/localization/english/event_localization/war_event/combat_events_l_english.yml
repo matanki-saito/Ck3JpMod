@@ -37,15 +37,15 @@
  combat_event.1004.pow_message.t:0 "[ROOT.Char.Custom2('RelationToMeShort', primary_prisoner)|U] Taken Prisoner"
  combat_event.1004.pow_message.desc.end:1 "by [combat_winner.Custom2('YourCharacterIntroduction', ROOT.Char)] after [combat_winner.GetSheHe] won the Battle of [combat_location.GetName]!"
 
- combat_event.1005.pow_toast.t:0 "Valuable Hostage Captured"
- combat_event.1005.pow_toast.desc:1 "Your forces took [important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] hostage after capturing [important_hostage.GetHerHim] during the Battle of [combat_location.GetName]."
- combat_event.1005.pow_toast.desc.primary:1 "Your forces took your foe [important_hostage.GetTitledFirstName] hostage after capturing [important_hostage.GetHerHim] during the Battle of [combat_location.GetName]."
- combat_event.1006.pow_toast.t:0 "Heir Taken Hostage"
- combat_event.1006.pow_toast.desc:1 "[combat_winner.GetTitledFirstName] captured [important_hostage.Custom2('YourCharacterIntroduction', ROOT.Char)] and took [important_hostage.GetHerHim] hostage after the Battle of [combat_location.GetName]."
+ combat_event.1005.pow_toast.t:1 "Valuable Prisoner Captured"
+ combat_event.1005.pow_toast.desc:2 "Your forces took [valuable_prisoner.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] prisoner after capturing [valuable_prisoner.GetHerHim] during the Battle of [combat_location.GetName]."
+ combat_event.1005.pow_toast.desc.primary:2 "Your forces took your foe [valuable_prisoner.GetTitledFirstName] prisoner after capturing [valuable_prisoner.GetHerHim] during the Battle of [combat_location.GetName]."
+ combat_event.1006.pow_toast.t:1 "Heir Taken Prisoner"
+ combat_event.1006.pow_toast.desc:2 "[combat_winner.GetTitledFirstName] captured [valuable_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)] and took [valuable_prisoner.GetHerHim] prisoner after the Battle of [combat_location.GetName]."
  combat_event.1007.pow_toast.t:0 "$combat_event.1005.pow_toast.t$"
  combat_event.1007.pow_toast_primary.t:0 "Enemy War Leader Captured"
- combat_event.1007.pow_toast.desc:0 "[combat_winner.GetTitledFirstName] captured [important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] after the Battle of [combat_location.GetName] and took [important_hostage.GetHerHim] hostage."
- combat_event.1007.pow_toast.desc.primary:1 "[combat_winner.GetTitledFirstName] captured your foe [important_hostage.GetTitledFirstName] after the Battle of [combat_location.GetName] and took [important_hostage.GetHerHim] hostage."
+ combat_event.1007.pow_toast.desc:1 "[combat_winner.GetTitledFirstName] captured [valuable_prisoner.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] after the Battle of [combat_location.GetName] and took [valuable_prisoner.GetHerHim] prisoner."
+ combat_event.1007.pow_toast.desc.primary:2 "[combat_winner.GetTitledFirstName] captured your foe [valuable_prisoner.GetTitledFirstName] after the Battle of [combat_location.GetName] and took [valuable_prisoner.GetHerHim] prisoner."
 
   # Combatants Slain
  combat_event.1012.slain_message.t:0 "Enemy Combatants Slain"

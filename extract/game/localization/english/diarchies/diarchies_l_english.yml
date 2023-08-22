@@ -8,6 +8,51 @@
  remove_strife_per_invited_powerful_vassal_effect.tt:1 "[host.GetShortUIName|U] lost #P [host.MakeScope.Var('strife_loss_total').GetValue|0]#! [strife|E] due to attending [powerful_vassals|E] from [host.GetLiege.GetPrimaryTitle.GetBaseName]"
 
  ##################################################
+ # #Swing Update Strings
+ update_diarchy_swing_with_perspective_effect.preamble: "[liege_loc.GetShortUINamePossessive|U] [liege_loc.GetDiarchyTypeName] [scales_of_power|E] swings by"
+ update_diarchy_swing_with_perspective_effect.postamble.diarch: "#!towards [liege_loc.GetDiarchy.GetDiarch.GetShortUIName]"
+ update_diarchy_swing_with_perspective_effect.postamble.liege: "#!towards [liege_loc.GetShortUIName]"
+
+ update_diarchy_swing_with_perspective_effect.liege_perspective.miniscule_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.minor_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.medium_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.major_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.massive_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.monumental_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.miniscule_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.minor_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.medium_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.major_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.massive_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.liege_perspective.monumental_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.miniscule_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.minor_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.medium_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.major_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.massive_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.monumental_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #P [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0]#! $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.miniscule_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0]"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.minor_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0]"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.medium_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0]"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.major_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0]"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.massive_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0]"
+ update_diarchy_swing_with_perspective_effect.diarch_perspective.monumental_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ #N [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0]"
+
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.miniscule_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.minor_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.medium_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.major_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.massive_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.monumental_sop_swing_diarch_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.diarch$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.miniscule_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('miniscule_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.minor_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('minor_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.medium_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('medium_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.major_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('major_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.massive_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('massive_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+ update_diarchy_swing_with_perspective_effect.neutral_perspective.monumental_sop_swing_liege_gain.tt: "$update_diarchy_swing_with_perspective_effect.preamble$ [EmptyScope.ScriptValue('monumental_sop_swing_diarch_gain')|0] $update_diarchy_swing_with_perspective_effect.postamble.liege$"
+
+ ##################################################
  # #Invalid Strings
  ## Nouns
  invalid_child:0 "child"
@@ -195,6 +240,18 @@
  diarch_loyalty_score.regency.loyalty_hook.self:0 "$loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.loyalty_hook.predecessor:0 "$predecessor_loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.ai_honour:0 "[personality|E] is supremely Honorable"
+
+ raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.overflow_edgecase: "Your [diarch|E]'s [diarch_loyalty|E] will likely stay $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.remains_static: "Your [diarch|E]'s [diarch_loyalty|E] will remain $DIARCHY_WINDOW_VISIBLY_DISLOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.to_selfless: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_UNKNOWN_LOYALTY$ to $DIARCHY_WINDOW_VISIBLY_LOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.to_situational: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_VISIBLY_DISLOYAL$ to $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.situational.to_selfless: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_UNKNOWN_LOYALTY$ to $DIARCHY_WINDOW_VISIBLY_LOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.situational.to_self_interested: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_UNKNOWN_LOYALTY$ to $DIARCHY_WINDOW_VISIBLY_DISLOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.situational.remains_static: "Your [diarch|E]'s [diarch_loyalty|E] will remain $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.overflow_edgecase: "Your [diarch|E]'s [diarch_loyalty|E] will likely stay $DIARCHY_WINDOW_VISIBLY_LOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.remains_static: "Your [diarch|E]'s [diarch_loyalty|E] will remain $DIARCHY_WINDOW_VISIBLY_LOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.to_self_interested: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_VISIBLY_LOYAL$ to $DIARCHY_WINDOW_VISIBLY_DISLOYAL$"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.to_situational: "Your [diarch|E]'s [diarch_loyalty|E] will go from $DIARCHY_WINDOW_VISIBLY_LOYAL$ to $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
 
  ##################################################
  # #Schemes

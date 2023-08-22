@@ -115,14 +115,14 @@
  feast_default.1017.b:0 "This is excellent!"
  feast_default.1017.b_honest:0 "I hope nobody finds out..."
 
- #Shiny Trinkets continued - The witness confronts you
+ #Shiny Trinkets continued - The witness confronts you via proxy
  feast_default.1018.t:1 "... Will Emerge"
- feast_default.1018.desc_intro:0 "Out of the blue, [witness.GetTitledFirstNameNoTooltip] shows up on my doorstep. It is clear that [witness.GetSheHe] has an ulterior motive to [witness.GetHerHis] visit.\n\n"...[feast_host.GetTitledFirstNameNoTooltip] has reportedly been looking for the [trinket_to_steal.GetName] and honestly, I am not sure #EMP what#! I saw, but I thought it best to hear your side of the story, #EMP as it were#!. Did you happen to lay eyes on it during the feast?" [witness.GetSheHe|U] eyes me up and down."
- feast_default.1018.desc_greedy:0 "\n\nHow dare [witness.GetSheHe]! Nails digging into the palm of my hands, I struggle not to glare openly at [witness.GetTitledFirstNameNoTooltip]'s overt smugness while I attempt to figure out my next move."
- feast_default.1018.desc_default:0 "\n\nMy heart is again thumping in my ears as I feel a trickle of sweat run down my back. This is the risk I run in return for that sweet, sweet moment of procurement."
+ feast_default.1018.desc_intro:1 "Out of the blue, an emissary from [witness.GetTitledFirstName], named [witness_proxy.GetTitledFirstName], shows up at my doorstep. "Greetings, my [ROOT.Char.GetLadyLord]! I carry word from [witness.GetHerHis] most gracious [witness.GetTitledFirstNameNoTooltip]."\n\nThe emissary looks slightly uncomfortable: "[witness.GetTitledFirstNameNoTooltip] will let it be known that [feast_host.GetTitledFirstName] has been looking for [feast_host.GetHerHis] [trinket_to_steal.GetName] and... ", [witness_proxy.GetSheHe] pauses briefly, "it would seem as if my [witness.Custom('MistressMaster')] thinks you might have laid eyes on it during the feast?" [witness_proxy.GetTitledFirstNameNoTooltip] eyes me up and down."
+ feast_default.1018.desc_greedy:0 "\n\nHow dare [witness.GetTitledFirstNameNoTooltip]! Nails digging into the palm of my hands, I struggle to remain calm and level-headed in face of these allegations."
+ feast_default.1018.desc_default:1 "\n\nMy heart is thumping in my ears as I feel a trickle of sweat run down my back. This is the risk I run in return for that sweet, sweet moment of procurement."
  feast_default.1018.a:0 "I have a coin pouch here that might have."
  feast_default.1018.a_contempt:0 "Take this coin pouch and be gone with you!"
- feast_default.1018.a_tt:0 "[witness.GetTitledFirstNameNoTooltip] keeps this to [witness.GetHerselfHimself]"
+ feast_default.1018.a_tt:1 "[witness.GetTitledFirstNameNoTooltip] better keep this to [witness.GetHerselfHimself]!"
  feast_default.1018.b:0 "That old thing? Never saw it."
  feast_default.1018.b_contempt:0 "That old thing? Never. Saw. It."
  feast_default_1018_success.desc:0 "[witness.GetTitledFirstNameNoTooltip] is convinced"
@@ -130,10 +130,8 @@
  feast_default_1018_success.t:0 "Successful Persuasion"
  feast_default_1018_failure.t:0 "Failed Persuasion"
  feast_default.1018.c:0 "Laid eyes... #EMP and hands#! on it!"
- feast_default.1018.d:0 "It was an honest mistake! I will return it!"
- feast_default.1018.d_tt:0 "It won't happen again!"
 
- #Shiny Trinkets continued - You return the piece to the feast_host
+ #OPRHANED - Shiny Trinkets continued - You return the piece to the feast_host
  feast_default.1019.t:1 "The Apology"
  feast_default.1019_start:0 "As I enter [feast_host.GetTitledFirstNameNoTooltip]'s chambers, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('feast_host'))] looks at me with a"
  feast_default.1019.desc_intro_redeemed:0 "$feast_default.1019_start$ disappointed gaze.\n\n"I did not see this coming, I admit. To have my own [feast_host.Custom2('RelationToMe', ROOT.Char)] fall prey to such shameful behavior... truly this must weigh on you. I applaud your confession, it is the first step towards betterment.""
@@ -150,6 +148,7 @@
  feast_default_1019_redeemed.t:0 "Redeemed"
  feast_default_1019_condemned.t:0 "Condemned"
 
+ #Dislike the host, deface a displayed Court Artifact
  feast_default.1020.t:1 "The Accident"
  feast_default.1020.desc:0 "As I saunter around the halls of my despicable [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('feast_host'))], [feast_host.GetTitledFirstNameNoTooltip], I scrutinize [feast_host.GetHerHis] collection of artifacts on display. Such gaudiness — maybe [feast_host.GetSheHe] ought to be taken down a peg or two...\n\nMy gaze lingers on the [feast_target_artifact.GetName]."
  feast_default.1020.a_knock_over:0 "Maybe I'll #EMP accidentally#! knock it over..."
@@ -157,11 +156,12 @@
  feast_default.1020.a_drunkard:0 "I could spill my [ROOT.Char.Custom('RegionalDrink')] all over it..."
  feast_default.1020.a_lustful:0 "I #EMP strongly#! desire to deface it utterly..."
  feast_default.1020.a.tt_success:0 "You deface the artifact undetected"
- feast_default.1020.a.tt_fined:0 "[activity.GetOwner.GetTitledFirstNameNoTooltip] fines you for your deed"
- feast_default.1020.a.tt_imprisoned:0 "[activity.GetOwner.GetTitledFirstNameNoTooltip] retaliates"
+ feast_default.1020.a.tt_fined:0 "[feast_host.GetTitledFirstNameNoTooltip] fines you for your deed"
+ feast_default.1020.a.tt_imprisoned:0 "[feast_host.GetTitledFirstNameNoTooltip] retaliates"
  feast_default.1020.b:0 "No, I better not risk it."
  feast_default.1020.tt:0 "Artifact Defaced"
  GUESTS_LIKED_DEFACING:0 "#z [CHARACTER.MakeScope.Var('num_unhappy_guests').GetValue|0]#! guest(s) appreciate this action:"
+ feast_default.1020.tt_guests: "#z [THIS.Var('num_unhappy_guests').GetValue|0]#! guest(s) appreciate this action and gain opinion of you"
 
  feast_default.1030.t:0 "Heroes of Our Time"
  feast_default.1030.desc:0 "A flourish ends [minstrel.GetFirstNamePossessive] first impassioned recital. Eyes are dried, tables thumped.\n\n"Another tale!" offers [minstrel.GetSheHe]. "Shall I sing of how the great $knight_culture_player_no_tooltip_lowercase$ [knight_1.GetFirstName]"

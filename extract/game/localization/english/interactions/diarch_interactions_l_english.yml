@@ -269,3 +269,4 @@
  overthrow_regent_scheme_interaction:0 "Overthrow Regent"
  overthrow_regent_scheme_interaction_desc:0 "Start plotting to [imprison|E] [recipient.GetFirstNameNoTooltip] and replace [recipient.GetHerHim] as [recipient.GetDiarchTitle]"
  overthrow_regent_scheme_interaction.tt.started_scheme:0 "You are trying to overthrow [recipient.GetFirstNameNoTooltip]"
+ overthrow_regent_scheme_interaction.tt.filtered_due_to_incumbent_politicking: "Due to the politicking of a prior [recipient.GetLiege.GetDiarchTitle], you have been disavowed from the [recipient.GetLiege.GetDiarchyTypeName] succession"

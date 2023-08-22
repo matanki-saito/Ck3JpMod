@@ -258,3 +258,13 @@
  insult_shunt_female:0 "shunt"
  insult_blunt_female:0 "blunt"
  impotent_female:0 "barren"
+
+ insult_noun_clumsy_oaf: "$oaf_insult$"
+ insult_noun_clumsy_buffoon: "$buffoon$"
+ insult_noun_clumsy_dimwit: "dimwit"
+ insult_noun_clumsy_nimrod: "nimrod"
+ 
+ insult_adjective_clumsy_clumsy: "clumsy"
+ insult_adjective_clumsy_stumbling: "stumbling"
+ insult_adjective_clumsy_blundering: "blundering"
+ insult_adjective_clumsy_fumbling: "fumbling"

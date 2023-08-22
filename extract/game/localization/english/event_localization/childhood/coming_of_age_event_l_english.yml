@@ -62,7 +62,7 @@
  coming_of_age.1003.rank_2:0 "\n\nWhile not excellent results, I am sure [educated_child.GetHerHis] parents will have no complaints."
  coming_of_age.1003.rank_3:0 "\n\nI am sure [educated_child.GetHerHis] parents will be pleased with my tutelage."
  coming_of_age.1003.rank_4:0 "\n\n[educated_child.GetHerHis|U] parents will surely be proud to call [educated_child.GetHerHim] their [educated_child.Custom('GetDaughterSon')]!"
- coming_of_age.1003.a:0 "Until we meet again, [educated_child.GetFirstName]."
+ coming_of_age.1003.a:0 "Until we meet again, [educated_child.GetFirstNameNoTooltip]."
 
  coming_of_age.0003.desc_child_start:1 " My $knight_culture_player_adjective_no_tooltip_lowercase$ training alongside this has "
  coming_of_age.0003.desc_child_1:0 "gone poorly, and I learned little from my combat instructors."
@@ -72,7 +72,7 @@
 
  coming_of_age.1004.t:0 "Education at an End"
  coming_of_age.1004.desc:0 "My Ward, [educated_child.GetTitledFirstName], has come of age, and it is time [educated_child.GetSheHe] left my care.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
- coming_of_age.1004.a:0 "Until we meet again, [educated_child.GetFirstName]."
+ coming_of_age.1004.a:0 "Until we meet again, [educated_child.GetFirstNameNoTooltip]."
 
  coming_of_age.1005.t:0 "Education at an End"
  coming_of_age.1005.desc:0 "My Ward, [educated_child.GetTitledFirstName], has come of age, and it is time [educated_child.GetSheHe] left my care.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')] [educated_child.Custom('DescribingEducationOutcomeProwess')]"

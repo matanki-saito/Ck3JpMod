@@ -18,7 +18,7 @@
  court.6000.f:0 "It is all true. Yet we must forgive and forget."
  court.6002.desc:0 "I have my nose buried in some international correspondence when [spymaster.GetTitledFirstName] bursts into the room, dragging a scared-looking [author.GetTitledFirstName] behind him. \n\n "My liege, I found [author.GetHerHim]! The scoundrel who has written that shameful book of lies on your predecessor, [predecessor.GetTitledFirstName]!""
  court.6002.b.desc_opening:0 "In the past months, I have dedicated every moment of my free time to the search for the elusive snake that was circulating a book on my predecessor's faults."
- court.6002.b.desc_ending:1 "After many a sleepless night, I've finally found the culprit: it's the cowardly [author.GeTitledFirstName]! \n\nAs [author.GetSheHe] stands before me trembling, awaiting judgment, I think carefully on what to say next."
+ court.6002.b.desc_ending:2 "After many a sleepless night, I've finally found the culprit: it's the cowardly [author.GetTitledFirstName]! \n\nAs [author.GetSheHe] stands before me trembling, awaiting judgment, I think carefully on what to say next."
  court.6002.a:0 "You ought to be ashamed of your disgraceful lies!"
  court.6002.a.tt:0 "The chastised author rescinds [author.GetHerHis] declarations."
  court.6002.b:0 "Guards, arrest this traitor!"

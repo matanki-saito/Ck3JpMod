@@ -110,7 +110,7 @@
  pregnancy.3003.b:0 "Oh, this is joyous news!"
 
  pregnancy.3004.t:0 "A Swollen Belly"
- pregnancy.3004.desc:1 "[mother.GetTitledFirstName] has come to me, and I immediately knew why. [mother.GetSheHe|U] is with child, and there is as little doubt in [mother.GetHerHis] heart, as in mine, as to who the father is. However, with my marriage to [spouse.GetFirstName] there is nothing I can do except hope that my involvement stays secret."
+ pregnancy.3004.desc:1 "[mother.GetTitledFirstName] has come to me, and I immediately knew why. [mother.GetSheHe|U] is with child, and there is as little doubt in [mother.GetHerHis] heart, as in mine, as to who the father is.\n\nHowever, with my marriage to [spouse.GetFirstName] there is nothing I can do except hope that my involvement stays secret."
  pregnancy.3004.a:0 "I never thought it would come to this."
 
  pregnancy.5001.t:0 ""I Need to Know!""

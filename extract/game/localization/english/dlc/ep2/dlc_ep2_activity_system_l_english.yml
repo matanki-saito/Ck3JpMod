@@ -1,6 +1,4 @@
-﻿# Interaction Localization for inviting people to activities 
-
-l_english:
+﻿l_english:
 
  invite_to_activity_interaction:1 "Invite to Activity"
  invite_to_activity_accepted:0 "Invitation Accepted"

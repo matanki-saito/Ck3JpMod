@@ -801,3 +801,8 @@
  action_designate_regent_for_hook_help:0 "\n\n#help [recipient.GetFirstNameNoTooltip] will receive a [strong_hook|E] on any #P Selfless#! Regent you designate, as long as they are still #P Selfless#! when you pass. The [hook|E] will expire when [recipient.GetSheHe] is 21.#!"
  action_designate_regent_for_hook_click:0 "#I Click to open the Diarchy window#!"
 
+ action_can_hire_wet_nurse: "@child_icon! Employ a $wet_nurse_court_position$"
+ action_can_hire_wet_nurse_label: "@child_icon! You are not employing a $wet_nurse_court_position$"
+ action_can_hire_wet_nurse_desc: "You are not employing a $wet_nurse_court_position$ as a [court_position|E].\n\n#help $wet_nurse_court_position_desc$#!"
+ action_can_hire_wet_nurse_click: "#I Click to view#!"
+ action_can_hire_wet_nurse_unimportant: "@warning_icon! #X $find_wet_nurse_decision$ decision is unavailable#!"

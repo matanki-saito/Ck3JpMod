@@ -19,7 +19,7 @@
  bastard_interaction.0002.house_head:0 "I have declared my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('legitimized_bastard'))] [legitimized_bastard.GetFirstName] to be my legitimate child and a member of House [actor.GetHouse.GetBaseName]. It has taken me a lot of thought to arrive at this conclusion, and while some might disagree, it was the right thing to do."
  bastard_interaction.0002.dynast:0 "I have declared my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('legitimized_bastard'))] [legitimized_bastard.GetFirstName] to be a legitimate scion of the [actor.GetDynasty.GetBaseName] Dynasty."
  bastard_interaction.0002.approved:0 "I have declared my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('legitimized_bastard'))] [legitimized_bastard.GetFirstName] to be my legitimate child and a member of House [actor.GetHouse.GetBaseName]. It has taken me a lot of thought to arrive at this conclusion, and while some might disagree, it was the right thing to do."
- bastard_interaction.0002.a:0 "Your future is bright, [legitimized_bastard.GetFirstNameNoTooltip] [actor.GetHouse.GetName]."
+ bastard_interaction.0002.a:1 "Your future is bright, [legitimized_bastard.GetFirstNameNoTooltip] [actor.GetHouse.GetNameNoTooltip]."
  bastard_interaction.0003.t:0 "All Is Well That Ends Well"
  bastard_interaction.0003.desc:0 "It took [actor.GetHerHim] some time to arrive at the conclusion, but finally [actor.GetTitledFirstName] has legitimized our [secondary_recipient.Custom('DaughterSon')] [secondary_recipient.GetFirstName]. As a member of House [actor.GetHouse.GetBaseName] [secondary_recipient.GetFirstName] has a brighter future now than I had ever dared to hope for."
  bastard_interaction.0003.a:0 "Make us proud!"

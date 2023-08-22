@@ -73,3 +73,9 @@
  ChildhoodPersonalityTrait_bossy:0 "[GetTrait('bossy').GetName( ROOT.Char )]"
  ChildhoodPersonalityTrait_curious:0 "[GetTrait('curious').GetName( ROOT.Char )]"
  ChildhoodPersonalityTrait_pensive:0 "[GetTrait('pensive').GetName( ROOT.Char )]"
+
+ diplomatic_education: "$education_diplomacy_loc$"
+ martial_education: "$education_martial_loc$"
+ stewardship_education: "$education_stewardship_loc$"
+ intrigue_education: "$education_intrigue_loc$"
+ learning_education: "$education_learning_loc$"

@@ -24,6 +24,7 @@
  ACTIVITY_INTENT_TARGET_LABEL:0 "[ActivityIntent.GetName] Target"
  ACTIVITY_SINGLE_INTENT_TOOLTIP:0 "#T [ActivityIntent.GetName]#!\n[ActivityIntent.GetDescription]"
  ACTIVITY_OPEN_INTENT_WINDOW:0 "$ACTIVITY_SINGLE_INTENT_TOOLTIP$\n\n#I Click to change [intent|E]#!"
+ ACTIVITY_OPEN_INTENT_WINDOW_DISABLED: "$ACTIVITY_SINGLE_INTENT_TOOLTIP$\n\n#X Cannot change [intent|E] during active events!#!"
  ACTIVITY_SELECT_INTENT_NO_VALID_TARGET:0 "@warning_icon!#X No valid target for [ACTIVITY_INTENT.GetName]#!"
  ACTIVITY_CHANGE_INTENT_TARGET_TOOLTIP:0 "#T Change [intent|E] target#!"
  ACTIVITY_CHANGE_INTENT_POTENTIAL_TARGET_HEADER:0 "Potential Targets"
@@ -113,6 +114,11 @@
  activity_window_character_travel_spouse_2:0 "[Character.Custom('GetBrideGroom')|U]\n[Character.GetShortUINameNoTooltip|U]\n[traveling|E] in [Character.GetCurrentLocation.GetName]\n ~[Character.GetTravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate.GetStringLong|V]"
  activity_window_character_guest:1 "[activity_guest_short|E]\n[Character.GetShortUINameNoTooltip|U]"
  activity_window_character_player:0 "[SelectLocalization( IsActivityHost( Activity, Character ), 'activity_window_character_host', 'activity_window_character_guest' )]"
+ 
+ activity_window_character_travel_noble_student: "Noble Student\n[Character.GetShortUINameNoTooltip|U]\n[traveling|E] in [Character.GetCurrentLocation.GetName]\n ~[Character.GetTravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate.GetStringLong|V]"
+ activity_window_character_noble_student: "Noble Student\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_student: "Student\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_teacher: "Teacher\n[Character.GetShortUINameNoTooltip|U]"
 
  ACTIVITY_WINDOW_SPECIAL_PROGRESS_TOOLTIP:0 "Score: [ActivityWindow.GetSpecialProgressValue|^V]"
 

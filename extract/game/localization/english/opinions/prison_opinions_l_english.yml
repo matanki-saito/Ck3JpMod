@@ -1,5 +1,6 @@
 ﻿l_english:
  imprisoned_me:0 "In Prison"
+ imprisoned_me_past: "Imprisoned Me"
  imprisoned_close_relative:0 "Imprisoned Close Relative"
  released_from_prison:0 "Released from Prison"
  demanded_claim_renouncement:0 "Forced to Renounce Claims"

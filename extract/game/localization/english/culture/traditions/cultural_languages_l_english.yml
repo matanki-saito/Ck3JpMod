@@ -85,3 +85,10 @@
  aesthetics_norman_name:0 "Norman"
  aesthetics_scottish_name:0 "Scottish"
  aesthetics_sicilian_name:0 "Sicilian"
+
+#Dead Languages - Only used in custom loc
+language_hebrew_name: "Hebrew"
+language_pali_name: "Pali"
+language_avestan_name: "Avestan"
+language_classical_tibetan_name: "Classical Tibetan"
+language_sanskrit_name: "Sanskrit"

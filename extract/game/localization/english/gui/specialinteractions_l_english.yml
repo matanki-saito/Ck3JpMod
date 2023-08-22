@@ -528,3 +528,10 @@
  AI_I_AM_INCAPABLE:0 "I am [GetTrait('incapable').GetName(GetNullCharacter)]: $VALUE|=+0$"
  AI_I_AM_IMPRISONED:0 "I am [imprisoned|E]: $VALUE|=+0$"
  AI_LACKS_POLITICAL_CAPITAL:0 "I don't have the [prestige|E] to resist: $VALUE|=+0$"
+
+HAS_DIPLOMACY_SKILL_REASON: "Has [diplomacy_skill|E]: $VALUE|=+0$"
+HAS_MARTIAL_SKILL_REASON: "Has [martial_skill|E]: $VALUE|=+0$"
+HAS_INTRIGUE_SKILL_REASON: "Has [intrigue_skill|E]: $VALUE|=+0$"
+HAS_STEWARDSHIP_SKILL_REASON: "Has [stewardship_skill|E]: $VALUE|=+0$"
+HAS_LEARNING_SKILL_REASON: "Has [learning_skill|E]: $VALUE|=+0$"
+HAS_PROWESS_SKILL_REASON: "Has [prowess_skill|E]: $VALUE|=+0$"

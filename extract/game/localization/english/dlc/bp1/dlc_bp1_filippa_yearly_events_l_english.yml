@@ -187,7 +187,7 @@
  custom_loc_sisterhood:0 "sisterhood"
  custom_loc_brotherhood:0 "brotherhood"
  #SkillFlag
- custom_loc_diplomacy:0 "diplomatic abilities"
+ custom_loc_diplomacy:0 "diplomatic abilities" 
  custom_loc_martial:0 "martial arts"
  custom_loc_stewardship:0 "stewardship"
  custom_loc_intrigue:0 "intrigue"

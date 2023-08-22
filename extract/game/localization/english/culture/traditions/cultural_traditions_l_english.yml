@@ -1133,3 +1133,13 @@
  culture_parameter_drylands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'drylands' ).GetName] and [GetTerrain( 'desert' ).GetName]"
  culture_parameter_jungle_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'jungle' ).GetName]"
  culture_parameter_wetlands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'wetlands' ).GetName] and [GetTerrain( 'wetlands' ).floodplains]"
+
+ #BP2 Traditions
+ tradition_noble_adoption_name: "Noble Adoption"
+ tradition_noble_adoption_desc: "Adopting orphaned children into noble houses is commonplace in this society. The blood of the covenant is thicker than the water of the womb."
+ culture_parameter_allows_adoption: "[characters|E] of this [culture|E] are able to offer [adoption|E] to [children|E] who are not directly related to any [rulers|E]"
+ culture_parameter_free_adoption: "[characters|E] of this [culture|E] can [adopt|E] without spending any [prestige|E] or [dynasty_prestige|E]"
+
+ traditionalist_discount_desc: "The [culture|E] was led towards traditionalism by its [culture_head|E]"
+ culture_parameter_more_hostage_acceptance: "[characters|E] of this [culture|E] are more willing to send away, take, and return [hostages|E]"
+ culture_parameter_more_hostage_acceptance_for_vassals: "[characters|E] of this [culture|E] are more willing to send away, take, and return [hostages|E] with their [liege|E]"

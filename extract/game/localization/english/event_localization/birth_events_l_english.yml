@@ -81,7 +81,7 @@
  birth.1010.t:0 "Child of My Dynasty"
  birth.1010.t_twins:0 "Children of My Dynasty"
  birth.1010.desc.twin:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to two [child.Custom('TwinDaughtersSonsChildren')]!\n\nSince the little ones are part of the [ROOT.Char.GetDynasty.GetName] dynasty they should be blessed with good names."
- birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to a [child.Custom('GetDaughterSon')]!\n\nSince the little one is part of the [ROOT.Char.GetDynasty.GetName] dynasty [child.GetSheHe] should be blessed with a good name."
+ birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to a [child.Custom('GetDaughterSon')]!\n\nSince the little one is part of the [ROOT.Char.GetDynasty.GetName] dynasty, [child.GetSheHe] should be blessed with a good name."
 
  birth.1100.title:0 "[child.Custom('GetTaltosTerm')] Born"
  birth.1100.message:0 "The [child.Custom('DefaultPriestTitlePlural')] have identified [child.Custom2('MyCharacterIntroduction', ROOT.Char)] as a [child.Custom('GetTaltosTerm')].\n\nChosen by the [child.GetFaith.PantheonTerm] for a mysterious purpose, what does this child's future hold?"

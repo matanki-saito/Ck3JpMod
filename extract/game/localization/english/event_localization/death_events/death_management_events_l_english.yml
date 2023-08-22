@@ -36,7 +36,7 @@
  death_management.friend.desc:4 "Your friend, [dead_character.GetTitledFirstName], died."
 
  death_management.1007.t:0 "A Twist of Fate"
- death_management.1007.start_murder:0 "[dead_character.GetTitledFirstName] has been murdered! Now we will never know what kind of"
+ death_management.1007.start_murder:1 "[dead_character.GetTitledFirstName] has been murdered!"
  death_management.1007.start:3 "Today, with the passing of [dead_character.GetTitledFirstName], the future of [ROOT.Char.GetPrimaryTitle.GetNameNoTier] has changed in its course."
  death_management.1007.same_or_higher_tier:0 "We will never know if [dead_character.GetHerHis] reign would have united our lands together,"
  death_management.1007.mytitle:2 "We will never know what kind of [ROOT.Char.GetTitleTierName] [dead_character.GetSheHe] would have become,"

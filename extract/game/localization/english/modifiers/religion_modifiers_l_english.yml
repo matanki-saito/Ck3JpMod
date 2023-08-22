@@ -99,3 +99,6 @@
 
  feud_with_the_church_modifier:0 "Feud with the Church"
  feud_with_the_church_modifier_desc:0 "This character is known to be engaged in a bitter feud with the Church, and may do something drastic."
+
+ sun_trial_suspicious_modifier: "Suspicious Sun Trial"
+ sun_trial_suspicious_modifier_desc: "This character is known to have conducted a Sun Trial that ended in somewhat suspicious circumstances, bringing them into disrepute."

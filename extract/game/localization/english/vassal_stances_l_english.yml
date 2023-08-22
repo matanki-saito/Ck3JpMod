@@ -129,3 +129,10 @@
  every_participating_courtly_vassal:1 "Every participating $courtly_vassal$ ([THIS.Char.MakeScope.ScriptValue('number_of_participating_courtly_vassals')|V0])"
  every_participating_parochial_vassal:1 "Every participating $parochial_vassal$ ([THIS.Char.MakeScope.ScriptValue('number_of_participating_parochial_vassals')|V0])"
  every_participating_zealot_vassal:1 "Every participating $zealot_vassal$ ([THIS.Char.MakeScope.ScriptValue('number_of_participating_zealot_vassals')|V0])"
+
+# For diplomatic interactions
+ every_glory_hound_vassal_actor: "Every $glory_hound_vassal$ ([actor.MakeScope.ScriptValue('number_of_glory_hound_vassals')|V0])"
+ every_courtly_vassal_actor: "Every $courtly_vassal$ ([actor.MakeScope.ScriptValue('number_of_courtly_vassals')|V0])"
+ every_parochial_vassal_actor: "Every $parochial_vassal$ ([actor.MakeScope.ScriptValue('number_of_parochial_vassals')|V0])"
+ every_zealot_vassal_actor: "Every $zealot_vassal$ ([actor.MakeScope.ScriptValue('number_of_zealot_vassals')|V0])"
+ every_minority_vassal_actor: "Every $minority_vassal$ ([actor.MakeScope.ScriptValue('number_of_minority_vassals')|V0])"

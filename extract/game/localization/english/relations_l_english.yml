@@ -38,6 +38,7 @@
  relation_niece:0 "niece"
  relation_nephew:0 "nephew"
  relation_aunt:0 "aunt"
+ relation_auntie: "auntie"
  relation_uncle:0 "uncle"
  relation_cousin:0 "cousin"
  relation_cousin_female:0 "cousin"
@@ -172,6 +173,8 @@
  relation_court_gardener_male:0 "court gardener"
  relation_chief_qadi_female:0 "chief qadi"
  relation_chief_qadi_male:0 "chief qadi"
+ relation_wet_nurse_female: "wet nurse"
+ relation_wet_nurse_male: "wet nurse"
  relation_court_physician_female_possessive:0 "court physician's"
  relation_court_physician_male_possessive:0 "court physician's"
  relation_keeper_of_swans_female_possessive:0 "keeper of the swans's"
@@ -216,6 +219,8 @@
  relation_court_gardener_male_possessive:0 "court gardener's"
  relation_chief_qadi_female_possessive:0 "chief qadi's"
  relation_chief_qadi_male_possessive:0 "chief qadi's"
+ relation_wet_nurse_female_possessive:0 "wet nurse's"
+ relation_wet_nurse_male_possessive:0 "wet nurse's"
  relation_liege_female:0 "liege"
  relation_liege_male:0 "liege"
  relation_ward:0 "ward"
@@ -294,7 +299,8 @@
  relation_travel_leader_mother:0 "mother and caravan leader"
  relation_travel_leader_father:0 "father and caravan leader"
  relation_travel_leader:0 "caravan leader"
-
+ relation_hostage: "hostage"
+ relation_warden: "warden"
  #Possessive
  relation_mother_possessive:0 "mother's"
  relation_grandmother_possessive:0 "grandmother's"
@@ -410,7 +416,8 @@
  relation_father_consort_possessive:1 "father-concubine's"
  relation_brother_consort_possessive:1 "brother-concubine's"
  relation_son_consort_possessive:1 "son-concubine's"
-
+ relation_hostage_possessive: "hostage's"
+ relation_warden_possessive: "warden's"
  ###CharacterIntroduction###
 
  #Perspective specific NoComma
@@ -574,6 +581,8 @@
  patriarch:0 "patriarch"
  mother_ma:0 "ma"
  father_pa:0 "pa"
+ mother_mum: "mum"
+ father_dad: "dad"
 
  lass:0 "lass"
  lad:0 "lad"
