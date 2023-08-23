@@ -326,5 +326,5 @@
  find_wet_nurse_decision: "$wet_nurse_court_position$の捜索"
  find_wet_nurse_decision_desc: "$wet_nurse_court_position$はある種の宮廷の富と繁栄の象徴といえる。彼女たちは子供たちを病気から守り、成長を見守ることが使命なのだ。元気で健康的な候補者がいないものか。"
  find_wet_nurse_decision_effect_tooltip: "あなたの召使いたちが[GetCourtPositionType('wet_nurse_court_position').GetName()]の職に適切な候補者を探してきます。"
- find_wet_nurse_decision_confirm: "捜索を始める"
+ find_wet_nurse_decision_confirm: "捜索を開始"
  court_position_has_child: "子供がいる"

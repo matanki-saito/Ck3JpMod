@@ -296,5 +296,5 @@
  death_assassinated_by_soldiers:0 "不満を抱いた兵士によって暗殺された"
  death_cut_off_by_enemy_troops_offensive:0 "援兵も無しに前進しすぎたため、敵兵に虐殺された"
  death_cut_off_by_enemy_troops_defensive:0 "撤退の混乱のさなかに敵兵に討たれた"
- death_hostage_execution: "was executed while being a hostage"
- death_hostage_execution_killer: "was executed while being [TARGET_CHARACTER.GetUINamePossessive] hostage"
+ death_hostage_execution: "人質として暮らす間に処刑された"
+ death_hostage_execution_killer: "[TARGET_CHARACTER.GetUINamePossessive]の人質として暮らしてる間に処刑された"

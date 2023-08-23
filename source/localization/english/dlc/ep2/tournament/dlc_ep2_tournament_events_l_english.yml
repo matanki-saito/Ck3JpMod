@@ -732,7 +732,7 @@
  tournament_board_game_winner_modifier_desc:0 "この人物の卓上競技の熟練度は、競技会のボードゲーム大会で優勝したときに証明された。"
  tournament_melee_participant_modifier:0 "団体戦の参加者"
  tournament_melee_participant_modifier_desc:0 "この人物は競技会で団体戦に参加し、ある程度の名声と富を獲得した。"
- tournament_joust_participant_modifier:0 "Jouster"
+ tournament_joust_participant_modifier:0 "ジョストの参加者"
  tournament_joust_participant_modifier_desc:0 "この人物は競技会でジョストに参加し、ある程度の名声と富を獲得した。"
  tournament_wrestling_participant_modifier:0 "レスラー"
  tournament_wrestling_participant_modifier_desc:0 "この人物は競技会でレスリングに参加し、ある程度の名声と富を獲得した。"

@@ -3,5 +3,5 @@
  pilgrimage_worldliness:0 "実現された世俗性"
  pilgrimage_piousness_desc:0 "\n\nあなたの[pilgrimage|E]が辿り着くまでにどれほど敬虔なものであったか。\n\nより敬虔な人ほど、より良い[activity|E]を得るでしょう。"
  pilgrimage_worldliness_desc:0 "\n\nあなたの[pilgrimage|E]が辿り着くまでどれだけ世俗的だったか。\n\n世俗的であればあるほど、あなたが得る[activity|E]は良い物になるでしょう"
- fallback_liturgical_province_language: "Archaic-[ROOT.Province.GetCulture.GetLanguage.GetName]"
- fallback_liturgical_character_language: "Archaic-[ROOT.Char.GetCulture.GetLanguage.GetName]"
+ fallback_liturgical_province_language: "アルカイック=[ROOT.Province.GetCulture.GetLanguage.GetName]"
+ fallback_liturgical_character_language: "アルカイック＝[ROOT.Char.GetCulture.GetLanguage.GetName]"
