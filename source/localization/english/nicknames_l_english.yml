@@ -996,7 +996,7 @@
  nick_bloody_hand_desc:1 "自傷する絶望の後、[CHARACTER.GetShortUINameNoTooltipNoFormat]は「[CHARACTER.GetNicknameNoTooltip]」として知られるようになった。"
  nick_the_nameless:0 "名無しの"
  nick_the_nameless_desc:0 "誰なんだ？"
- nick_prince_of_fashion: "the [CHARACTER.Custom('GetPrincessPrince')] of Fashion"
+ nick_prince_of_fashion: "服好きの[CHARACTER.Custom('GetPrincessPrince')]"
  nick_prince_of_fashion_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharHaveHas(CHARACTER)] been ridiculed for [CharYourHerHis(CHARACTER)] fashion choices."
  nick_the_true_culture: "the True [CHARACTER.GetCulture.GetNameNoTooltip]"
  nick_the_true_culture_desc: "A stout advocate and a tireless defender, preferring [CHARACTER.GetCulture.GetName] ways and customs always."

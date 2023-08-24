@@ -205,7 +205,7 @@
  ra_regency_regent_powers:0 "$REACTIVE_ADVICE_REGENCY_TERM$"
  ra_regency_regent_powers_desc:0 "As a [regent|E] you get special [diarch_powers|E] you can use on your [liege|E] or your fellow [vassals|E]. Your Liege always has [veto|E] rights over these $game_concept_diarch_powers$.\n\nUsing these Powers on your fellow Vassals may be seen as an overreach of power, giving you a [strife|E] [opinion|E] penalty."
  ra_regency_regent_open_UI:0 "$REACTIVE_ADVICE_REGENCY_TERM$"
- ra_regency_regent_open_UI_desc:0 "Now let's have a look at your [regency|E]!"
+ ra_regency_regent_open_UI_desc:0 "では、あなたの[regency|E]を見てみましょう！"
  ra_regency_regent_open_UI_prompt:0 "$REACTIVE_ADVICE_REGENCY_OPEN_VIEW_PROMPT$"
  ra_regency_regent_open_tab:0 "$REACTIVE_ADVICE_REGENCY_TERM$"
  ra_regency_regent_open_tab_desc:0 "Your status as a [regent|E] is shown in the '$DIARCHY_WINDOW_LIEGE_TAB$' tab."

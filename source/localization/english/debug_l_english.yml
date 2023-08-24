@@ -161,7 +161,7 @@
  add_artifact_interaction_armor:0 "鎧"
  add_artifact_interaction_shinies:0 "光り物"
  add_artifact_interaction_book:0 "本"
- add_artifact_interaction_furniture:0 "家具"
+ add_artifact_interaction_furniture:0 "調度品"
  add_artifact_interaction_trinket:0 "装飾品"
  add_random_artifact_interaction:1 "ランダムな個人の宝物"
  add_claim_on_artifact_interaction:1 "[personal_artifact_claim|E]を追加"

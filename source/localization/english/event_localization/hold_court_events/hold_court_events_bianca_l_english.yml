@@ -12,7 +12,7 @@
  hold_court.3000.c.failure:0 "[feast_vassal.GetTitledFirstNameNoTooltip]は同意せず、支払いの申し出を撤回する"
  hold_court.3000.d:1 "残念だが、受け入れられない。"
  hold_court.3001.desc:0 "何と素晴らしい饗宴だったのだろう！あの日、[feast_vassal.GetTitledFirstName]に約束した饗宴はまだ記憶に新しく、私の饗宴に参加した人たちは恍惚の表情で私を讃えている。私の足元で歓声を上げ賛美する人々の姿に、私は幸福に酔ったような気分になった！また、[feast_vassal.GetFirstNameNoTooltip]に対する約束を守ったことの追加の恩恵は、出席したすべての人が私の宮廷を高く評価していることだ！"
- hold_court.3001.desc.dead:0 "ああ、なんという不思議な饗宴だったのだろう！[feast_vassal.GetTitledFirstName]がそれを見ることができなかったのはとても残念だ。出席者の中には、私が[feast_vassal.GetHerHim]と約束した饗宴の記憶を思い出し、私の宮廷の娯楽への献身を温かく語ってくれる者もいた。また、この饗宴も[feast_vassal.GetFirstNameNoTooltip]の思い出に捧げられたものだとする者もいた。いずれにせよ、約束を守ったことで、参加者が私の宮廷を高く評価してくれるという恩恵を得ることができた！"
+ hold_court.3001.desc.dead:0 "ああ、なんと素晴らしい饗宴だったのだろう！[feast_vassal.GetTitledFirstName]に見せられなかったのがとても残念だ。出席者の中には、私が[feast_vassal.GetHerHim]と約束した饗宴の記憶を思い出し、私の宮廷の娯楽への献身を温かく語ってくれる者もいた。また、この饗宴も[feast_vassal.GetFirstNameNoTooltip]の思い出に捧げられたものだとする者もいた。いずれにせよ、約束を守ったことで、参加者が私の宮廷を高く評価してくれるという恩恵を得ることができた！"
  hold_court.3001.a:0 "次の饗宴はきっとさらに良いものになるはずだ！"
  hold_court.3001.b:0 "[feast_vassal.GetHerHis]の名でもう一杯！"
  hold_court.3010.t:0 "慣習にそぐわない宣教師"
