@@ -7,7 +7,7 @@
  INVALID_ACTIVITY_NO_PLANNED_PHASES:0 "@warning_icon!#X 計画された[activity_phases|E]がありません#!"
  INVALID_ACTIVITY_PHASE_WITHOUT_TYPE:0 "@warning_icon!#X [activity_phases|E]の一つにフェイズタイプがありません#!"
  INVALID_ACTIVITY_PHASE_WITHOUT_LOCATION:0 "@warning_icon!#X [activity_phases|E]の一つのための場所が選択されていません#!"
- INVALID_ACTIVITY_HOST_ALREADY_IN_ACTIVITY:1 "@warning_icon!#X [CHARACTER.GetUIName|U] is already involved in an [activity|E]#!"
+ INVALID_ACTIVITY_HOST_ALREADY_IN_ACTIVITY:1 "@warning_icon!#X [CHARACTER.GetUIName|U]はすでに[activity|E]に関与しています#!"
  INVALID_ACTIVITY_IN_THE_PAST:1 "@warning_icon!#X 過去における[activity|E]は開始できません#!"
  INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_EMPTY:1 "@warning_icon!#X 誰かが[ACTIVITY_SPECIAL_GUEST.GetNameForHost]として参加する必要があります#!"
  INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_DECLINED:1 "@warning_icon!#X [CHARACTER.GetUIName|U]は[ACTIVITY_SPECIAL_GUEST.GetNameForHost]として参加する必要があります#!"
