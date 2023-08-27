@@ -479,7 +479,7 @@
  nick_priest_hater_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の聖職者嫌いは有名であるが、僧侶たちは識字率が高いため、その旨はよく記録されている。"
  nick_priest_eater_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は聖職者を何より嫌っているが、その肉の味だけは認めている。"
  nick_the_able_desc:1 "領国の統治？戦争？自炊の方法？子供の宥め方に建物のデザイン、それに乳歯の抜き方？[CharYouSheHe(CHARACTER)]が専念したことで出来ないことはほとんどない。特化・専門化・熟練など、つまるところ虫がする言い訳に過ぎない。"
- nick_the_mad_desc:1 "もし彼らが[CharYouSheHe(CHARACTER)]のみが知ることを知っていたのなら、彼らも笑うことだろう。人生とは狂気の神の一時の夢なのだから。"
+ nick_the_mad_desc:1 "もし彼らが[CharYouSheHe(CHARACTER)]のみが知ることを知っていたのなら、彼らも笑うことだろう。人生とは狂気の神の遊戯に過ぎないのだから。"
  nick_the_ruthless_desc:1 "誰もが必要だと思っても実行出来るかどうかは別の話だ。だが、[CharYouSheHe(CHARACTER)]はやる。"
  nick_the_simple_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の考えを表すには「天啓」以外の文字が無い。"
  nick_the_leper_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は[CharYourHerHis(CHARACTER)]の肉を蝕む忌むべき病から逃れられなかったが、世界もまた[CharYouHerHim(CHARACTER)]を忘れられないだろう。"
