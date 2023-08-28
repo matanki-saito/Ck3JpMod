@@ -183,7 +183,7 @@
  birth.9003.a:0 "ずっといい。"
  birth.1010.t:0 "我が王朝の子"
  birth.1010.desc.twin:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が二人の[child.Custom('TwinDaughtersSonsChildren')]を産んでくれた！\n\n小さな子らは[ROOT.Char.GetDynasty.GetName]王朝の一員として、良き名と共に祝福されるだろう。"
- birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has given birth to a [child.Custom('GetDaughterSon')]!\n\nSince the little one is part of the [ROOT.Char.GetDynasty.GetName] dynasty, [child.GetSheHe] should be blessed with a good name."
+ birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が[child.Custom('GetDaughterSon')]を産んでくれた！\n\nこの子は[ROOT.Char.GetDynasty.GetName]王朝の一員なのだから、[child.GetSheHe]には良い名前が授けられるべきだ。"
  birth.1010.t_twins:0 "我が王朝の子"
  birth.9004.t:0 "名前がなんだというの？"
  birth.9004.desc.me:0 "[ROOT.Char.GetFirstNameNoTooltip]。\n\n時折思うのだが、これは未来の歴史家がどう読むか考え込んでしまうような、何とも冴えない名前だ。\n\n私は[ROOT.Char.GetTitleAsNameNoTooltip]なのだし、別の名で呼んで欲しいのなら、世界にその名をを知らしめるだけでよいのではないか？"
