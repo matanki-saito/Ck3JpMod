@@ -1,6 +1,6 @@
 ﻿l_english:
  fp1_yearly.2000.t:0 "旅行熱"
- fp1_yearly.2000.desc:0 "\"I am leaving, [parent.GetMotherFather]. Me and [lover_of_child.GetFirstNameNoTooltip] are #EMP in love#!!\"\n\nI roll my [ROOT.Char.Custom('EyeEyes')] at [child_to_leave.GetFirstNameNoTooltip]. What is my fool of a [child_to_leave.Custom('GetDaughterSon')] up to #EMP now?#!\n\n\"[lover_of_child.GetFirstNameNoTooltip] and I will seek adventure! The world is vast, and there is glory to be found! I wish to shout #EMP '[child_to_leave.GetHouse.GetMotto]'#! at the world, until it remembers my name!\"\n\nIt is evident that my #EMP beloved#! [child_to_leave.Custom('GetDaughterSon')] is being serious. I am going to have to do something."
+ fp1_yearly.2000.desc:0 "「私は出ていきます、[parent.GetMotherFather]。私と[lover_of_child.GetFirstNameNoTooltip]は#EMP 愛し合っているのです！#!」\n\n目を丸くして[child_to_leave.GetFirstNameNoTooltip]を見る。愚かな[child_to_leave.Custom('GetDaughterSon')]は#EMP 今まで#!何をしてきたのだ？\n\n「[lover_of_child.GetFirstNameNoTooltip]と私は冒険を求めています！世界は広大で、そこには栄光がある！私の名を覚えてくれるまで、私は#EMP “[child_to_leave.GetHouse.GetMotto]”#!と叫びたいのです！」\n\n私の#EMP 最愛の#![child_to_leave.Custom('GetDaughterSon')]が本気で言っているのは明らかだ。私は何かをしなければならない。"
  fp1_yearly.2000.a:0 "「ここに来なさい、親愛なる[child_to_leave.Custom('GetDaughterSon')]よ。今こそ#EMP 愛の鞭#!が必要だ。」"
  fp1_yearly.2000.b:0 "「聞きなさい、家庭にいれば#EMP 栄光#!があるのだよ。」"
  fp1_yearly.2000.c:0 "「あるいは、#EMP これ#!が去ることを忘れさせてくれるのでは？」"

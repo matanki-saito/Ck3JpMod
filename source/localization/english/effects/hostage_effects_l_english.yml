@@ -1,6 +1,6 @@
 ﻿l_english:
- I_TAKE_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]はあなたの[hostage|E]になる"
- THEY_TAKE_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の[hostage|E]になる"
+ I_TAKE_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]はあなたの[hostage|E]になります"
+ THEY_TAKE_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の[hostage|E]になります"
  I_TOOK_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]はあなたの[hostage|E]になった"
  THEY_TOOK_HOSTAGE: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の[hostage|E]になった"
  I_RETURN_FROM_HOSTAGE: "私は[hostage|E]ではなくなるだろう"
