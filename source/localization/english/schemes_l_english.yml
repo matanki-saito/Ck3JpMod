@@ -223,7 +223,7 @@
  BEFRIENDING_AT_FEAST:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]があなたと同じ饗宴に参加している"
  overthrow_regent:0 "摂政の打倒"
  overthrow_regent_action:0 "打倒"
- overthrow_regent_desc:0 "I will kidnap and [imprison|E] [SCHEME.GetTarget.GetShortUINameNoTooltip], forcing them to hand [SCHEME.GetTarget.GetHerHis] office as [SCHEME.GetTarget.GetDiarchTitle] to me!"
+ overthrow_regent_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]を攫い[imprison|E]するのだ、そして[SCHEME.GetTarget.GetDiarchTitle]としてその執務室を掌握してくれよう！"
  overthrow_regent_desc_general:0 "$overthrow_regent$[scheme|E]は[hostile_scheme|E]であり、標的を[imprisoning|E]する一方で[regent|E]の地位を簒奪することを目的とします。[intrigue|E]に基づく[secret_scheme|E]であり、[agents|E]を雇用することができます。\n\n打倒に成功した場合、[scheme_target|E]は[scheme_owner|E]([landed|E]の場合)またはその[liege|E](なしの場合)によって$game_concept_imprisoned$されます。"
  overthrow_regent_scheme_invalidated_title:0 "@scheme_icon!誘拐計画が終了"
  overthrow_regent_scheme_i_imprisoned_them_message:0 "[target.GetShortUIName|U]は既に私の牢獄にいます"
