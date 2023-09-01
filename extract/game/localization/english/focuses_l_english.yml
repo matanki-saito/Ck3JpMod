@@ -116,6 +116,7 @@
  education_rank_2_percentage:0 "20%"
  education_rank_3_percentage:0 "30%"
  education_rank_4_percentage:0 "40%"
+ education_rank_5_percentage: "50%"
 
  ### EDUCATION
  FOCUS_NO_AGE:1 "#X @warning_icon!A child of less than $AGE$ cannot have an [education_focus|E]#!"

@@ -30,7 +30,7 @@
  activity_adult_education_guest_desc: ""
  activity_adult_education_conclusion_desc: "The [GetActivityType( 'activity_adult_education' ).GetName] has concluded"
  activity_adult_education_selection_tooltip: "Go on a [GetActivityType('activity_adult_education').GetName], a period at a renowned center of studies\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[education_trait|E]\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [skill|E] Points\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [lifestyle_experience|E]"
- activity_adult_education_destination_selection: ""
+ activity_adult_education_destination_selection: "You can only start a [GetActivityType('activity_adult_education').GetName] in provinces with a Large Religious Center or a University."
  adult_education_studies_completed_log: "[CHARACTER.GetShortUIName|U] completed [CHARACTER.GetHerHis] [GetActivityType('activity_adult_education').GetName] at [PROVINCE.GetBaronyNameExplicitly]"
  adult_education_studies_completed_log_title: "[GetActivityType('activity_adult_education').GetName] Completed"
  activity_education_no_culture_center: "There is no higher education center here!"
@@ -44,6 +44,7 @@
  activity_adult_education_special_type_bar_segment_tt_1: "#t Average Studies (Tier 2)#!\nYou gain #P 1#! [perk|E] point\nMedium chance to upgrade your [education_trait|E]"
  activity_adult_education_special_type_bar_segment_tt_2: "#t Good Studies (Tier 3)#!\nYou gain #P 2#! [perk|E] points\nHigh chance to upgrade your [education_trait|E]"
  activity_adult_education_special_type_bar_segment_tt_3: "#t Perfect Studies (Tier 4)#!\nYou gain #P 3#! [perk|E] points\nVery high chance to upgrade your [education_trait|E]"
+ activity_adult_education_province_desc: "You start a [GetActivityType( 'activity_adult_education' ).GetName] in [ROOT.Province.GetName]\nVarious factors influence your $activity_adult_education_success$"
 
  # EVENTS
  goliardic_shenanigans_effect_tt: "You partake in [goliardic_shenanigans|E]!"

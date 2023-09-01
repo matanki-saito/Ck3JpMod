@@ -27,7 +27,7 @@
  geometrical_shapes: "what geometrical shape is more apt to represent the divine"
 
  rock_name: "[ROOT.Char.GetLocalizedText( 'story_cycle_rock_name' )]"
- rock_name_possessive: "[ROOT.Char.Custom( 'rockStoryName' )]'s"
+ rock_name_possessive: "[ROOT.Char.Custom( 'RockStoryName' )]'s"
  rock_name_cliff: "Cliff"
  rock_name_sandy: "Sandy"
  rock_name_rocky: "Rocky"

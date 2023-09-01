@@ -703,7 +703,7 @@
 
  #Offer Vassalization/Fealty
  offer_vassalization_true_ruler_perk_tt:0 "You have [GetPerk( 'true_ruler_perk' ).GetName( GetPlayer )]: $VALUE|=+0$"
- offer_vassalization_education_diplomacy_5_tt: "[GetTrait('education_diplomacy').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ offer_vassalization_education_diplomacy_5_tt: "[GetTrait('education_diplomacy_5').GetName( GetNullCharacter )]: $VALUE|=+0$"
  offer_vassalization_emissary_accolade_tt:0 "You employ at least one politically gifted $knight_culture_player_no_tooltip_lowercase$"
  offer_vassalization_interaction_aibehavior_differentfaith_tt:0 "You are of a different [faith|E]: $VALUE|=+0$"
  offer_vassalization_interaction_aibehavior_culture_tt:0 "You are of a different [culture|E]: $VALUE|=+0$"
@@ -1658,8 +1658,8 @@
  find_suitable_accolade_successor_interaction_desc:0 "Call for an eligible [knight|e] to join your [court|e]"
  find_suitable_accolade_successor_interaction.tt:0 "A [knight|e] who fulfills this [accolade|e]'s requirements will join your [court|e] within #high 6 months#!\n\n@alert_icon! #alert_trial Seek Worthy Accolade Successor will be unavailable for #high 2 years#!#!"
 
- adoption.0001.opening: "[actor.Custom2('AppropriateGreetingPositive', recipient)]"
- adoption.0001.desc: "I accept your offer of adoption. I'm proud to call myself a member of the [actor.GetDynastyName] Dynasty and your kin!"
+ adoption.0001.opening: "[recipient.Custom2('AppropriateGreetingPositive', actor)]"
+ adoption.0001.desc: "I accept your offer of adoption. I'm proud to call myself a member of House [actor.GetHouse.GetBaseName], and your kin!"
  adoption.0001.a: "Please, call me "[actor.Custom('GetMumDad')]"."
 
  ward_invalidated_during_travel_title: "Ward Invalidated"
@@ -1668,6 +1668,9 @@
  ward_departs_tt: "[ward.GetFirstNameNoTooltip] departs for [guardian.GetCurrentLocation.GetNameNoTooltip]"
  guardian_departs_title: "Guardian Sets Out"
  guardian_departs_tt: "[guardian.GetFirstNameNoTooltip] departs for [ward.GetCurrentLocation.GetNameNoTooltip]"
+ adoptee_departs_title: "Adoptee Sets Out"
+ adoptee_departs_tt: "[adoptee.GetFirstNameNoTooltip] departs for [adopter.GetCurrentLocation.GetNameNoTooltip]"
+ adoptee_leaves_for_adopter_tt: "@alert_icon! #alert_trial [adoptee.GetFirstName] must first [travel|E] to [adopter.GetFirstNamePossessive] court#!"
  ward_leaves_for_guardian_tt: "@alert_icon! #alert_trial [ward|E] must first [travel|E] to [guardian_possessive|E] court#!"
  guardian_leaves_for_ward_tt: "@alert_icon! #alert_trial [guardian|E] must first [travel|E] to [ward_possessive|E] court#!"
  ward_already_offered_awaiting_response_tt: "Already under negotiation to become someone's [ward|E]"

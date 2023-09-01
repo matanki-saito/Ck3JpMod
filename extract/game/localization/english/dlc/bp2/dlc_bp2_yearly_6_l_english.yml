@@ -3,7 +3,7 @@ bp2_yearly.6000.t: "Not the [ROOT.Char.GetCulture.GetNameNoTooltip] Way"
 bp2_yearly.6000.desc.intro: "As my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hosted_child'))] [hosted_child.GetName] presents [hosted_child.GetHerselfHimself], [tutor.GetName] recounts a week of failed teaching and frustrations."
 
 bp2_yearly.6000.desc.fault.bellicose: "\n\n"The child was never told that all [hosted_child.GetSheHe] wants must be #EMP taken#!! [hosted_child.GetFirstNameNoTooltip] chooses peace with [hosted_child.GetHerHis] peers over proving [hosted_child.GetHerselfHimself]! This is all the [hosted_child.Custom('GirlBoy')] knows!""
-bp2_yearly.6000.desc.fault.bureaucratic:  "\n\n"The child is a disordered catastrophe! [hosted_child.GetSheHe|U] dreams the days away. [hosted_child.GetSheHe|U] knowns not the clean undergarment from the soiled! Chaos is all the [hosted_child.Custom('GirlBoy')] knows!""
+bp2_yearly.6000.desc.fault.bureaucratic: "\n\n"The child is a disordered catastrophe! [hosted_child.GetSheHe|U] dreams the days away. [hosted_child.GetSheHe|U] knowns not the clean undergarment from the soiled! Chaos is all the [hosted_child.Custom('GirlBoy')] knows!""
 bp2_yearly.6000.desc.fault.communal: "\n\n"The child bad-mouths [hosted_child.GetHerHis] own mother! Never was [hosted_child.GetSheHe] warned against it. The [hosted_child.Custom('GirlBoy')] was left to act alone, stand alone, and care not for the kin awaiting [hosted_child.GetHerHim].""
 bp2_yearly.6000.desc.fault.courtly: "\n\n"The child was taught nothing of refined things! I need rap [hosted_child.GetHerHis] skull to have [hosted_child.GetHerHim] bow before you, O [ROOT.Char.GetTitleAsNameNoTooltip]. Can [hosted_child.GetSheHe] recite verse? Speak fairly to the other sex? No!""
 bp2_yearly.6000.desc.fault.egalitarian: "\n\n"[hosted_child.GetSheHe|U] was never taught respect for the peoples sharing our land. The child imitated a [realm_minority.GetNameNoTooltip] dignitary's accent by bleating like a sheep! That's [hosted_child.GetHerHis] education?!""
@@ -551,7 +551,7 @@ eschews_flaunting_of_hostages_modifier_desc: "Hostages of this character are car
 
  bp2_yearly.6170.t: "A Pact with the Uncivilized"
  bp2_yearly.6170.desc: ""No [ROOT.Char.GetDynastyHouseName] is pleased with what you've done!" grates my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('kin'))] [kin.GetFirstName].\n\n"How could you send [hostage.GetName], my [hostage.Custom('ComplimentAdjective')] [kin.Custom2('RelationToMeShort', SCOPE.sC('hostage'))], to a stinking hall where barbarous men utter '[warden.Custom('CulturalCurse')|U]!' and never 'Praise [ROOT.Char.GetFaith.HighGodName]'? Where dogs defecate freely on wildmen and local [warden.GetCulture.GetName] lords alike?"\n\nIndeed, [warden.GetName] is no cultured [ROOT.Char.GetCulture.GetName], but nonetheless a rather worthy—\n\n"[hostage.GetFirstNameNoTooltip] is held hostage in an hut!" screams [kin.GetFirstNameNoTooltip]. "#EMP See to [hostage.GetHerHis] needs!#! His rights as a [ROOT.Char.GetTitleAsNamePossessiveNoTooltip] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hostage'))]!""
-  bp2_yearly.6170.a: "Yes, it's an affront to [hostage.GetHerHis] dignity, and mine."
+ bp2_yearly.6170.a: "Yes, it's an affront to [hostage.GetHerHis] dignity, and mine."
  bp2_yearly.6170.a.tt: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hostage'))] must have all the sophisticated comforts of home!"
  bp2_yearly.6170.b: "Duty to your family binds you all."
  bp2_yearly.6170.b.tt: "[hostage.GetFirstNamePossessiveNoTooltip] sacrifice should be but one of many in service to House [ROOT.Char.GetDynastyHouseNameNoTooltip]."
@@ -652,7 +652,7 @@ bp2_yearly.6210_notification_tooltip_high: "[ruler.GetTitledFirstName] wishes to
 cultural_acceptance_embracing_identity: "Exchanged compliments on common [heritage|E]"
 
 bp2_yearly.6211.notification_high: "Reforms: Pleased Cousins"
-bp2_yearly.6211_notification_tooltip_high:  "[pleased_culture.GetName] lords and commoners are inspired by the new fervor among their [ROOT.Char.GetCulture.GetName] cousins and migrate to your lands in greater numbers."
+bp2_yearly.6211_notification_tooltip_high: "[pleased_culture.GetName] lords and commoners are inspired by the new fervor among their [ROOT.Char.GetCulture.GetName] cousins and migrate to your lands in greater numbers."
 
 cultural_acceptance_reformer_migration: "Migration and rapid adoption of practices"
 
