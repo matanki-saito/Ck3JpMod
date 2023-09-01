@@ -158,3 +158,7 @@
  bp2_yearly.5109.b.failure: "[child.GetFirstNameNoTooltip] is inconsolable"
  bp2_yearly.5109.c: "I'm... not sure what to say here."
  bp2_yearly.5109.c.tt: "Let's see if I can just slink away..."
+ bp2_yearly.5107.b.tt: "\"A Tie-ght joust indeed\""
+ bp2_yearly.5107.b.tt_success: "You might win the next tournament"
+ bp2_yearly.5107.b.tt_fail: "It was just a game"
+ bp2_yearly.5107.b_tt_fail: "You learn nothing from it"

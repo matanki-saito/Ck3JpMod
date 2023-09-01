@@ -132,3 +132,4 @@
  education_intrigue_tt.affinity:0 "\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]を持つ子供は大抵策略教育に親和性を示すでしょう。#!"
  education_intrigue_tt.disaffinity:0 "\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]を持つ子供は、策略教育には適さないかもしれません。#!"
  education_intrigue_effect_desc:0 "[education_focus|E]の選択は、以下の効果を引き起こすでしょう。"
+ education_rank_5_percentage: "50%"

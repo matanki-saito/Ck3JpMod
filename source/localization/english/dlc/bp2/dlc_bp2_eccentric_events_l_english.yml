@@ -36,7 +36,7 @@
  child_personality.7401.change.fickle: "\"One's whims must be as changing as flowing water.\""
  child_personality.7401.change.stubborn: "\"No, always bury your feet and demand others move.\""
  stress_threshold.2360.t: "精神崩壊: 訪問者"
- stress_threshold.2360.desc: "ようやく、宮廷の生活のストレスから一息つこうと、自分の部屋で安らぎを見つける。しかし、眠りかけた瞬間、私のドアにリズミカルで強いタッピング音が鳴り響き、眠れなくなってしまう。\n\n真夜中の訪問者が誰かを確認するためにドアを開けてみると、小さな黒い鳥に顔を襲われた。通常ならば[ROOT.Char.GetFaith.CreatorNamePossessive]の創造物の一つが訪れることは贈り物なのだろうが、この小さな黒い害虫は絶え間なく部屋中で羽ばたき、私に向かって鳴き叫んでいる。拳を握りしめ、心臓の高鳴りを感じている。"
+ stress_threshold.2360.desc: "I at last find some reprieve from the stresses of courtly life in my private chambers, but then as I sit on the brink of sleep, I am kept awake by a hard melodic tapping at my door.\n\nI swing it open to see who this midnight visitor is, only for my face to be assaulted by a small black bird. While usually a visit from one of [ROOT.Char.GetFaith.CreatorNamePossessive] creations would be a gift, this little black pest ceaselessly flutters about the room, cawing and screeching at me. I feel my fist tighten and my heart begin to race."
  stress_threshold.2360.a.eccentric.gain: "こいつは私に話しかけている。"
  stress_threshold.2360.a.eccentric.effect: "あぁ、この時間に訪問者だね！ちょっとおしゃべりしましょう。"
  stress_threshold.2360.b.irritable.gain: "I can't take this anymore!"

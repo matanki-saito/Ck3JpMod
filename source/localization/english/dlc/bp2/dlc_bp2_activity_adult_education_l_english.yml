@@ -28,7 +28,7 @@
  activity_adult_education_guest_desc: ""
  activity_adult_education_conclusion_desc: "[GetActivityType( 'activity_adult_education' ).GetName]は終了した"
  activity_adult_education_selection_tooltip: "Go on a [GetActivityType('activity_adult_education').GetName], a period at a renowned center of studies\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[education_trait|E]\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [skill|E] Points\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [lifestyle_experience|E]"
- activity_adult_education_destination_selection: ""
+ activity_adult_education_destination_selection: "You can only start a [GetActivityType('activity_adult_education').GetName] in provinces with a Large Religious Center or a University."
  adult_education_studies_completed_log: "[CHARACTER.GetShortUIName|U]は[PROVINCE.GetBaronyNameExplicitly]での[CHARACTER.GetHerHis]の[GetActivityType('activity_adult_education').GetName]を終えた"
  adult_education_studies_completed_log_title: "[GetActivityType('activity_adult_education').GetName]を全うした"
  activity_education_no_culture_center: "もはや高等な教育機関ではない"
@@ -287,3 +287,4 @@
  available_friend_lover: "あなたが[friends|E]か[lovers|E]であるため選択できます"
  available_liege: "あなたが[local_ruler.GetFirstNamePossessive]の[liege|E]であるため選択できます"
  available_higher_tier: "あなたの[rank|E]が[local_ruler.GetFirstName]より高いため選択できます"
+ activity_adult_education_province_desc: "You start a [GetActivityType( 'activity_adult_education' ).GetName] in [ROOT.Province.GetName]\nVarious factors influence your $activity_adult_education_success$"

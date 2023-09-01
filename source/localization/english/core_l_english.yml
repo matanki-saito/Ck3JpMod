@@ -762,7 +762,7 @@
  RELATION_HOSTAGE_HOME: "[TARGET_CHARACTER.GetShortUIName]からの人質"
  RELATION_HOSTAGE_AWAY: "[TARGET_CHARACTER.GetShortUINamePossessive]の人質"
  RELATION_PRISONER_HOME: "[TARGET_CHARACTER.GetShortUINamePossessive]の囚人"
- RELATION_PRISONER_AWAY: "[TARGET_CHARACTER.GetShortUIName]からの囚人"
+ RELATION_PRISONER_AWAY: "囚人"
  TRAIT_FLAG_DESC_agent_acceptance_25: "[agent|E]受け入れ値：#P +25#!"
  TRAIT_FLAG_DESC_scheme_start_progress: "[scheme|E]の始まった時の進捗：#P +3#!"
  TRAIT_FLAG_DESC_offer_vassalisation_25: "[offer_vassalization|E]の受け入れ値：#P +25#!"

@@ -35,7 +35,6 @@
  apa_prayer_title:0 "[first.GetShortUIName|U]は孤独な祈りの時間を過ごした"
  apa_silent_contemplation_title:0 "[first.GetShortUIName|U]は静かな思索に耽る"
  apa_preaching_to_unbelievers_title:0 "[first.GetShortUIName|U]は地元の不信心者を改宗させた"
- apa_sight_seeing_title:0 "[first.GetShortUIName|U]と[second.GetShortUIName|U] が[province.GetNameNoTooltip]の近くの観光地へ小旅行をした"
  apa_cultured_discussion_title:0 "[first.GetShortUIName|U]は文化的な議論に参加した"
  apa_audience_title:0 "[first.GetShortUIName|U]は[second.GetTitleAsNameNoTooltip|U]に敬意を表した"
  apa_picked_up_local_language_title:0 "[first.GetShortUIName|U]は[second.GetNameNoTooltip]の地元の人から[second.GetCulture.GetLanguage.GetNameNoTooltip]の言語を学んだ"
@@ -51,3 +50,4 @@
  apa_spiritual_journey_title:0 "[first.GetShortUIName|U]と[second.GetShortUIName|U]は霊的な旅を共有することで絆を深めた"
  every_pilgrimage_entourage_character:0 "すべての活動の客人"
  apa_overcome_with_emotion_title:0 "宗教的興奮を乗り越え、[first.GetShortUIName|U]は涙を流した"
+ apa_sight_seeing_group_title:0 "[first.GetShortUIName|U] and [second.GetShortUIName|U] Made an Excursion from [province.GetNameNoTooltip] to Nearby Sights"
