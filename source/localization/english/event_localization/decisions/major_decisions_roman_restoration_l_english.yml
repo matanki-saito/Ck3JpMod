@@ -182,4 +182,4 @@
  roman_restoration.1204.desc_vassal:0 "私はお前を汚物から引き出した、そして、再びそこへ投げ入れることができる！#EMP コンスタンティノープル#!、この軽蔑すべき世界の学問の最後の柱が、#EMP 本当に#!自身のものになるとは思っていなかったのだろう！お前の小さなつま先は、その輝くレンガを踏みしめるに値するものではない！それを返すのだ、さもなければ金角湾が貴殿の死に場所となるぞ——必要とあらば、この私がお前をそこへ放り込んでやろう。"
  roman_restoration.1204.a:0 "私はただ、あなたのために面倒を見ていただけだ！"
  roman_restoration.1204.b:0 "その騒がしい背が玉座の上で突き刺されることを願う。"
- roman_restoration.0001.desc.fallback: "The Imperium Romanum stands strong once more, restored to its ancient glory under my enlightened rule, ready to spread civilization, safety, and the love of [ROOT.Char.GetFaith.HighGodName] to all the corners of the known world. For the Senate and People of Rome!"
+ roman_restoration.0001.desc.fallback: "ローマ帝国は再び強く蘇り、そのあり姿は余がしろしめす法の下、古代の栄光を取り戻した。文明を、安寧を、そして[ROOT.Char.GetFaith.HighGodName]のいと深き愛！その全てをあまねく世界に伝えるのだ。ローマの人民と元老院のために！SPQR！"
