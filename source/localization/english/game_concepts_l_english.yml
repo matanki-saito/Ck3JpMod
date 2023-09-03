@@ -1599,7 +1599,7 @@
  game_concept_hybrid_culture_desc_NO_DLC:0 "$game_concept_hybrid_culture$とは、二つの異なる文化が合体して形成された[culture|E]のことです。\n\n新しい文化は、[divergent_culture|E]として出現することもあります。"
  game_concept_divergent_culture:0 "分岐した文化"
  game_concept_divergent_cultures:0 "分岐した文化"
- game_concept_diverge:0 "分岐する"
+ game_concept_diverge:0 "分岐"
  game_concept_divergent_culture_desc:0 "[SelectLocalization( HasDlcFeature( 'diverge_culture' ), 'game_concept_divergent_culture_desc_DLC', 'game_concept_divergent_culture_desc_NO_DLC' )]"
  game_concept_divergent_culture_desc_DLC:1 "$game_concept_divergent_culture$とは、[ruler|E]が、既存[culture|E]から派生させた文化です。\n\n$game_concept_divergent_culture$は、[heritage|E]を引き継ぎますが、他は元文化から変更できます。\n\nこの文化からさらに派生するには、少なくとも[EmptyScope.ScriptValue('culture_divergence_cooldown')|0]年経過しなければなりません。また、派生に要する[prestige|E]は、作成する統治者の[realm_size|E]に基づきます。\n\n新しい文化は、[hybrid_culture|E]として出現することもあります。"
  game_concept_divergent_culture_desc_NO_DLC:0 "$game_concept_divergent_culture$は、既存[culture|E]から派生した文化です。\n\n新しい文化は、[hybrid_culture|E]として出現することもあります。"

@@ -7,5 +7,5 @@
  THEY_RETURN_FROM_HOSTAGE: "[CHARACTER.GetName]は[hostage|E]ではなくなるだろう"
  I_RETURNED_FROM_HOSTAGE: "私はもはや[hostage|E]ではない"
  THEY_RETURNED_FROM_HOSTAGE: "[CHARACTER.GetName]はもはや[hostage|E]ではない"
- I_ATTACK_TRUCE_HOSTAGE_FATE: "#X [hostage|E]の運命を決める：[TARGET_CHARACTER.GetShortUIName|U]#!"
- THEY_ATTACK_TRUCE_HOSTAGE_FATE: "#X [hostage|E]の運命を決める：[TARGET_CHARACTER.GetShortUIName|U]#!"
+ I_ATTACK_TRUCE_HOSTAGE_FATE: "#X [hostage|E]の運命を決める: [TARGET_CHARACTER.GetShortUIName|U]#!"
+ THEY_ATTACK_TRUCE_HOSTAGE_FATE: "#X [hostage|E]の運命を決める: [TARGET_CHARACTER.GetShortUIName|U]#!"

@@ -50,4 +50,4 @@
  apa_spiritual_journey_title:0 "[first.GetShortUIName|U]と[second.GetShortUIName|U]は霊的な旅を共有することで絆を深めた"
  every_pilgrimage_entourage_character:0 "すべての活動の客人"
  apa_overcome_with_emotion_title:0 "宗教的興奮を乗り越え、[first.GetShortUIName|U]は涙を流した"
- apa_sight_seeing_group_title:0 "[first.GetShortUIName|U] and [second.GetShortUIName|U] Made an Excursion from [province.GetNameNoTooltip] to Nearby Sights"
+ apa_sight_seeing_group_title:0 "[first.GetShortUIName|U]と[second.GetShortUIName|U]は[province.GetNameNoTooltip]から近くの観光地までの小旅行を楽しんだ"
