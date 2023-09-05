@@ -153,7 +153,7 @@
  bp2_yearly.6020.pay_vassals: "You pay [gold_i|E]#N [root_scope.MakeScope.ScriptValue('minor_gold_value')]#! to all your [powerful_vassals|E] #EMP and#! lose [gold_i|E]#N [root_scope.MakeScope.ScriptValue('minor_gold_value')]"
  bp2_yearly.6050.reaffirmation_path: "@alert_icon! #alert_trial This #EMP rapidly#! contributes to reaffirming your [root_scope.GetCulture.GetNameNoTooltip] customs#!"
  bp2_yearly.6050.reform_path: "@alert_icon! #alert_trial This contributes to your sweeping [advanced_culture.GetNameNoTooltip] reforms#!"
- cultural_acceptance_gain_beginning_reforms: "A [ruler|E] began importing the other [culture|E]'s customs"
+ cultural_acceptance_gain_beginning_reforms: "[ruler|E]が他[culture|E]の慣習を取り入れ始めた"
  cultural_acceptance_gain_building_familiar_settlements: "A reformer's [realm|E] rebuilt in a now-shared style"
  cultural_acceptance_turned_away_trade: "With lies of grand projects, a [ruler|E] cheated builders and traders of the other [culture|E]"
  massive_construction_efforts_modifier: "Massive Construction Efforts"
