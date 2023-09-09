@@ -85,5 +85,5 @@
  bhakti_germanic_generic_thor_desc:0 "この人物が好むのは、保護、嵐、人間性と強さの神であるトールである。"
  bhakti_germanic_generic_freyr:0 "フレイヤの信者"
  bhakti_germanic_generic_freyr_desc:0 "この人物が好むのは、平和と収穫、慈悲深き支配の神であるフレイヤである。"
- sun_trial_suspicious_modifier: "Suspicious Sun Trial"
- sun_trial_suspicious_modifier_desc: "This character is known to have conducted a Sun Trial that ended in somewhat suspicious circumstances, bringing them into disrepute."
+ sun_trial_suspicious_modifier: "うさんくさい太陽の試練"
+ sun_trial_suspicious_modifier_desc: "この人物は太陽の試練を執り行ったことで知られているが、その結果は疑わしきものであり、試練の評判を貶めた"

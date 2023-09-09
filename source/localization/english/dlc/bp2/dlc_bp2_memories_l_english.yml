@@ -1,5 +1,5 @@
 ﻿l_english:
- imaginary_friend_gained_memory: "gained an imaginary friend"
- imaginary_friend_gained_memory_desc: "I gained an imaginary friend named [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"
- imaginary_friend_gained_memory_desc_second_perspective: "you gained an imaginary friend named [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"
- imaginary_friend_gained_memory_desc_third_perspective: "[owner.GetName] gained an imaginary friend named [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"
+ imaginary_friend_gained_memory: "想像上の友人を得た"
+ imaginary_friend_gained_memory_desc: "[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip] という名の想像上の友人を得た"
+ imaginary_friend_gained_memory_desc_second_perspective: "あなたは [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip] という名の想像上の友人を得た"
+ imaginary_friend_gained_memory_desc_third_perspective: "[owner.GetName]は[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]という名の想像上の友人を得た"

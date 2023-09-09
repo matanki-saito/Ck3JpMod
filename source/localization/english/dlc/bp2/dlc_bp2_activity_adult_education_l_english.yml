@@ -27,7 +27,7 @@
  activity_adult_education_host_desc: "$BULLET_WITH_TAB$[education_trait|E]が強化されるでしょう\n$BULLET_WITH_TAB$[skill|E]の経験値を得るでしょう\n$BULLET_WITH_TAB$[lifestyle_experience|E]を得るでしょう\n$BULLET_WITH_TAB$[lifestyle_traits|E]を得るでしょう\n$BULLET_WITH_TAB$本の[artifacts|E]を得るでしょう\n$BULLET_WITH_TAB$高い能力を持つ人物が宮廷に加わるかもしれません"
  activity_adult_education_guest_desc: ""
  activity_adult_education_conclusion_desc: "[GetActivityType( 'activity_adult_education' ).GetName]は終了した"
- activity_adult_education_selection_tooltip: "Go on a [GetActivityType('activity_adult_education').GetName], a period at a renowned center of studies\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[education_trait|E]\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [skill|E] Points\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [lifestyle_experience|E]"
+ activity_adult_education_selection_tooltip: "[GetActivityType('activity_adult_education').GetName]を行い、学問の高名な中心地にて一期間過ごします\n\n予想される報酬:\n$BULLET_WITH_TAB$[education_trait|E]\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [skill|E]値\n$BULLET_WITH_TAB$[diplomacy_i][martial_i][stewardship_i][intrigue_i][learning_i] [lifestyle_experience|E]"
  activity_adult_education_destination_selection: "You can only start a [GetActivityType('activity_adult_education').GetName] in provinces with a Large Religious Center or a University."
  adult_education_studies_completed_log: "[CHARACTER.GetShortUIName|U]は[PROVINCE.GetBaronyNameExplicitly]での[CHARACTER.GetHerHis]の[GetActivityType('activity_adult_education').GetName]を終えた"
  adult_education_studies_completed_log_title: "[GetActivityType('activity_adult_education').GetName]を全うした"
