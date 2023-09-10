@@ -108,7 +108,7 @@
  artifact_bird_feather_raptor_description:1 "[owner.GetTitledFirstNamePossessive]が飼っていた[owner.GetInvolvedActivity.Custom('GetRaptorType')]の羽。[location.GetBaronyNameExplicitly]での狩猟中、一回り大きい猛禽の類に落とされた。"
  feature_bird_feather_type_feather:0 "羽"
  artifact_bird_feather:1 "羽"
- slay_beast_intent:0 "獣を殺す"
+ slay_beast_intent:0 "獣殺し"
  slay_beast_intent_desc:1 "あなたはただ良き狩りをし、獲物を捕らえたいだけです。"
  I_AM_REMOVED_FROM_ACTIVITY:1 "活動から離脱した"
  CHARACTER_IS_REMOVED_FROM_ACTIVITY:0 "活動から[CHARACTER.GetShortUIName]が離脱する"

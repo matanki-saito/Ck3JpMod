@@ -355,7 +355,7 @@
  feast_default.1020.a_drunkard:0 "全体に[ROOT.Char.Custom('RegionalDrink')]をこぼしてやることも…"
  feast_default.1020.a_lustful:0 "徹底的に汚してやりたいと#EMP 強く#!思う…"
  feast_default.1020.a.tt_success:0 "あなたは気づかれずに宝物を汚す"
- feast_default.1020.a.tt_fined:0 "[feast_host.GetTitledFirstNameNoTooltip] fines you for your deed"
+ feast_default.1020.a.tt_fined:0 "[feast_host.GetTitledFirstNameNoTooltip]はあなたの行為に罰金を科す"
  feast_default.1020.a.tt_imprisoned:0 "[feast_host.GetTitledFirstNameNoTooltip] retaliates"
  feast_default.1020.b:0 "いや、それは危険すぎる。"
  feast_default.1020.tt:0 "宝物は汚された"
