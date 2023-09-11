@@ -318,7 +318,7 @@
  murder_outcome.5001.poisoned_candy:0 "外で遊んでいると、それは目の前に現れた。美味しそうな[ROOT.Char.Custom('FavoriteTreat')]だ。誰も近くにいないし、一口かじっても誰も気づかないだろう…\n\n世界が傾き、お腹が悲鳴を上げる間に時間だけが過ぎ、#EMP 息をすることができない#!！ 手から[ROOT.Char.Custom('FavoriteTreat')]が滑り落ちるのと同時に私は地面に崩れ落ちる。"
  murder_outcome.5001.child_pushed_dog:0 "それが聞こえたのは外で遊んでいるときだった。私の愛犬[ROOT.Char.Custom('DogStoryName')]の絶望的な叫びだ！見上げると、高い壁からロープでぶら下がっている[ROOT.Char.Custom('DogStoryHerHim')]が見え、私は全力で[ROOT.Char.Custom('DogStoryHerHis')]のそばに駆け寄る。\n\n[ROOT.Char.Custom('DogStoryHerHim')]を助けようと手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——"
  murder_outcome.5001.child_pushed_cat:0 "それが聞こえたのは外で遊んでいるときだった。私の愛猫[ROOT.Char.Custom('CatStoryName')]の絶望的な叫びだ！見上げると、高い壁からロープでぶら下がっている[ROOT.Char.Custom('CatStoryHerHim')]が見え、私は全力で[ROOT.Char.Custom('CatStoryHerHis')]のそばに駆け寄る。\n\n[ROOT.Char.Custom('CatStoryHerHim')]を助けようと手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——"
- murder_outcome.5001.child_pushed_toy:0 "それを見たのは外で遊んでいるときだった。私の大好きな[target.Custom('child_favorite_toy')]が高い壁からロープでぶら下がっている。私は全力で階段を登ったが、私が手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——"
+ murder_outcome.5001.child_pushed_toy:0 "それを見たのは外で遊んでいるときだった。私の大好きなおもちゃが高い壁からロープでぶら下がっている。私は全力で階段を登ったが、私が手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——"
  murder_outcome.5001.child_pushed:0 "それを見たのは外で遊んでいるときだった。階段を登っていくお菓子の痕跡。頂上に着くと、私は端からぶら下がっているバスケットを見つけたが、私が手を伸ばした時、世界がぐるりと反転し、私は落下していく。地面が迫ってきて私が目を閉じると——"
  murder_outcome.5002.bricked:0 "[home_province.GetName]で行われている地元の祝祭に参加しているので、私は夜は歓談とワインに酔いしれて過ごしている。\n\n朝になって目を覚ますと、湿った地下室の中で、私は自身の酷い二日酔いとともに新たに作られた壁がほとんど出口を覆っているのを発見する…誰かが私をここに埋めようとしたのだ！"
  murder_outcome.5002.sunken_boat:0 "私が[province.GetNameNoTier]の港で船に乗っていると、突然、空から火のついた矢が私の方に向かって飛んできた！\n\nそれは紙一重でボートを外れ、冷たい海の中で火が消えていくのを見ようと身を乗り出したとき、私はボートの木から独特の匂いを感じた。ギリシア火薬だ！これは私の命を狙った試みだったのだ。"

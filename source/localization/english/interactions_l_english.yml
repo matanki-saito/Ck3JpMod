@@ -1,7 +1,7 @@
 ﻿l_english:
  ANSWER_YES:1 "#P 受け入れるでしょう#!"
  ANSWER_NO:1 "#N #bold 受け入れない#!でしょう#!"
- ANSWER_BLOCK:1 "回答をブロック"
+ ANSWER_BLOCK:1 "回答を黙殺する"
  ANSWER_MAYBE:1 "#Z 受け入れる可能性があります#!"
  ANSWER_ACKNOWLEDGE:0 "閉じる"
  REPLY_ANSWER_YES:0 "承諾"
