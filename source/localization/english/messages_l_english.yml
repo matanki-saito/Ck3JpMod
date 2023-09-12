@@ -111,7 +111,7 @@
  msg_lose_trait:0 "特性の喪失"
  msg_lose_trait_desc:1 "あなたは[TRAIT.GetName( CHARACTER.Self )|L]の特性を失いました"
  msg_gain_nickname:0 "新しい異名"
- msg_gain_nickname_desc:1 "あなたは「[CHARACTER.GetNickname|V]」と呼ばれるようになります"
+ msg_gain_nickname_desc:1 "あなたは「[CHARACTER.GetNickname|V]」という異名を得ました。"
  msg_lost_nickname:0 "異名の喪失"
  msg_lost_nickname_desc:0 "あなたはもはや「[CHARACTER.GetNickname|V]」とは呼ばれません"
  msg_title_rank_up:0 "階位の獲得"
