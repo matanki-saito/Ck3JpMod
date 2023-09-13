@@ -17,7 +17,7 @@
  adult_education_books_normal: "Books and Notes"
  adult_education_books_normal_desc: "$EFFECT_LIST_BULLET$Slightly increased Activity Success Progress\n$EFFECT_LIST_BULLET$Random [skill|E] point\n\n#weak All the prescribed tools to graduate successfully.#!"
  adult_education_books_good: "Library of Knowledge"
- adult_education_books_good_desc: "$EFFECT_LIST_BULLET$Increased Activity Success Progress\n$EFFECT_LIST_BULLET$Illustrious Book [artifact|E]\n\n#weak Centers of studies have an active market for knowledge; you can't miss the chance to exchange your books and buy many new ones!#!"
+ adult_education_books_good_desc: "$EFFECT_LIST_BULLET$Increased Activity Success Progress\n$EFFECT_LIST_BULLET$Illustrious Book [artifact|E]\n$EFFECT_LIST_BULLET$Random [skill|E] point\n\n#weak Centers of studies have an active market for knowledge; you can't miss the chance to exchange your books and buy many new ones!#!"
  education_study_phase: "$activity_adult_education$"
  education_study_phase_desc: "A semester dedicated to attending classes, participating in debates, and living like a student."
  study_hard_intent: "Study Hard"
