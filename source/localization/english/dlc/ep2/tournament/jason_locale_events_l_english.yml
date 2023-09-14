@@ -25,7 +25,7 @@
  knight_not_participating_log_title:0 "家臣の出場辞退"
  knight_not_participating_log:1 "[CHARACTER.GetTitledFirstNamePossessive]の戦士である[TARGET_CHARACTER.GetTitledFirstName]は競技会を辞退した。噂は絶えない。"
  knight_dismissed_log_title:0 "家臣の解任"
- knight_dismissed_log:1 "[CHARACTER.GetTitledFirstName] released the noted competitor [TARGET_CHARACTER.GetTitledFirstName] from [CHARACTER.GetHerHis] service following a mysterious incident."
+ knight_dismissed_log:1 "[CHARACTER.GetTitledFirstName]は、謎の多い出来事が起きてのち、名うての競技者[TARGET_CHARACTER.GetTitledFirstName]をその任から解いた。"
  jason_locale_events.210.t.camel_cavalry:0 "砂漠の支配者"
  jason_locale_events.210.t.elephant_cavalry:0 "修行中の象使い"
  jason_locale_events.210.t.horse_archer:0 "去り際の一撃"
