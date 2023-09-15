@@ -58,7 +58,7 @@
  bp2_hostage_system.0202.t: "Awaited Return"
  bp2_hostage_system.0202.desc: "I waited hopefully as my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hostage'))], [hostage.GetFirstNamePossessive], birthday approached, it being the custom for hostages to be sent home once they are no longer children.\n\nAlas, it seems [hostage_warden.GetTitledFirstNamePossessive] plan is to keep [hostage.GetFirstNameNoTooltip] at [hostage_warden.GetCapitalLocation.GetNameNoTooltip] a while longer...\n\n"
  bp2_hostage_system.0202.a: "There must be a good reason."
- bp2_hostage_system.0203.t: "Home Again"
+ bp2_hostage_system.0203.t: "再び我が家へ"
  bp2_hostage_system.0203.desc: "[hostage_home_court.GetTitledFirstNamePossessive]の[hostage_home_court.Custom2('RelationToMe', SCOPE.sC('hostage'))]である[hostage.GetFirstName]を帰路につかせてからというもの、[hostage_home_court.GetHerHis]からの返事を内心不安とともに待っていた。\n\n"
  bp2_hostage_system.0203.closing: "返事は迅速で、我が門戸にて[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('my_hostage'))]の[my_hostage.GetFirstName]とすぐに会えるだろうとのこと。"
  bp2_hostage_system.0204.t: "Stuck in Limbo"

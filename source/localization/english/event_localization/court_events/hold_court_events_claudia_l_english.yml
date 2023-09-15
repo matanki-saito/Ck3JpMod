@@ -15,7 +15,7 @@
  hold_court.6000.d:0 "あなた自身で何とかできるはずだ。"
  hold_court.6000.e:0 "税を払うことだ、さもないと大変なことになるぞ…"
  hold_court.6010.t:0 "土地の授与"
- hold_court.6010.desc:0 "[6010_embassy.Custom2('MyCharacterIntroduction', ROOT.Char)]という地方都市からの使節が抗議に訪れた。その都市は、隣接領からひどい仕打ちを受けているとのこと。その統治者は[6010_church.GetCouncilTitle][6010_church.GetFirstNameNoTooltip]。[6010_count.Custom2('MyCharacterIntroduction', ROOT.Char)]の庇護下にあるという。\n\n「かの連中は、我らが耕地を力づくで占領し、取り上げようとしております。その上、各土地の所有者を神罰を下るぞと脅したり、乱暴狼藉を働いたりして、勝手に土地の財産を売り払っているのです！お願いです、我が[ROOT.Char.GetLadyLord]、あいつらに正義の鉄槌を！」"
+ hold_court.6010.desc:0 "とある地方都市から[6010_embassy.Custom2('MyCharacterIntroduction', ROOT.Char)]という使節が抗議に訪れた。その都市は隣接領からひどい仕打ちを受けているとのこと。隣接領の統治者は[6010_church.GetCouncilTitle][6010_church.GetFirstNameNoTooltip]。[6010_count.Custom2('MyCharacterIntroduction', ROOT.Char)]の庇護下にあるという。\n\n「かの連中は、我らが耕地を力づくで占領し、取り上げようとしております。その上、各土地の所有者を神罰を下るぞと脅したり、乱暴狼藉を働いたりして、勝手に土地の財産を売り払っているのです！お願いです、我が[ROOT.Char.GetLadyLord]、あやつらに正義の鉄槌を！」"
  hold_court.6010.a:0 "[6010_church.GetFirstNameNoTooltip]の行いは、正当な権利に基づいている。"
  hold_court.6010.b:0 "[6010_church.GetFirstNameNoTooltip]は法の上にあらず。"
  6010_revoke_title_reason:0 "あなたが[6010_count.GetFirstNameNoTooltip]に対する[revoke_title_reason|E]を得ます"

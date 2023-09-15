@@ -43,7 +43,7 @@
  bp1_yearly.5602.a:0 "一度くらいは役立たせてやる。"
  bp1_yearly.5602.b:0 "[ROOT.Char.GetFaith.HighGodName]には汝の魂を。豚には汝の頭を！"
  bp1_yearly.5701.t:0 "遊びに来る？"
- bp1_yearly.5701.desc:0 "[married_friend.GetFirstNamePossessive]とその配偶者である[friend_spouse.GetFirstName]の関係は、実に幸福で実りあるものだと私は思っているが、最近[married_friend.GetSheHe]は、ふたりの関係が深まるにつれて、親友である自分と過ごす時間がますます減ってきている。私が、例えば[married_friend.GetHerHim]を散歩に誘って外に連れ出そうとしても、[married_friend.GetSheHe]は結婚の義務に縛られているようだ。\n\n古き良き時代が懐かしい"
+ bp1_yearly.5701.desc:0 "[married_friend.GetFirstNamePossessive]とその配偶者である[friend_spouse.GetFirstName]の関係は、実に幸福で実りあるものだと私は思っているが、最近[married_friend.GetSheHe]は、ふたりの関係が深まるにつれて、親友である自分と過ごす時間がますます減ってきている。私が、例えば[married_friend.GetHerHim]を散歩に誘って外に連れ出そうとしても、[married_friend.GetSheHe]は結婚の義務に縛られているようだ。\n\n古き良き時代が懐かしい。"
  bp1_yearly.5701.desc.ladsladslads:0 "颯爽と出かけていって、最上級の[ROOT.Char.Custom('RegionalDrink')]を吐くまで呑んで、次の晩もまた同じことを繰り返していたものだ！"
  bp1_yearly.5701.desc.nodrinky:0 "土地の酔っ払いどもがぐでんぐでんになって醜態を晒すのを眺めながら、我々も楽しい夜を過ごしたものだ！"
  bp1_yearly.5701.desc.ending:0 "\n\nどれだけの時を過ごしたことだろうか！　あの惨めな、[friend_spouse.Custom('InsultAdjective')][friend_spouse.GetFirstNameNoTooltip]に邪魔されることさえなければ…"

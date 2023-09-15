@@ -62,4 +62,4 @@
  WAR_OVERVIEW_HOSTAGE_DEMAND_VALUE: "[secondary_recipient.GetShortUINamePossessive|U]の[hostage|E]としての価値：$VALUE|0+=$"
  WAR_OVERVIEW_WHITE_PEACE_HOSTAGE_OFFER_VALUE: "白紙和平時の[secondary_actor.GetShortUINamePossessive|U]の[hostage|E]としての価値：$VALUE|0+=$"
  WAR_OVERVIEW_WHITE_PEACE_HOSTAGE_DEMAND_VALUE: "白紙和平時の[secondary_recipient.GetShortUINamePossessive|U]の[hostage|E]としての価値：$VALUE|0+=$"
- WAR_OVERVIEW_HOSTAGES_DISALLOWED: "[hostages|E] cannot be used to settle [WarOverviewWindow.GetWar.GetActiveCB.GetType.GetName]"
+ WAR_OVERVIEW_HOSTAGES_DISALLOWED: "[WarOverviewWindow.GetWar.GetActiveCB.GetType.GetName]解決には[hostages|E]を利用できません"

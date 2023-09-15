@@ -258,7 +258,7 @@
  bp2_adult_education.9100.a: "I could use some servants to carry all my books..."
  bp2_adult_education.9100.b: "\"Peasants — get us more cups, I'm getting the other students!\""
  bp2_adult_education.9100.c: "Better tell the teachers before they destroy the place..."
- changed_my_life_opinion: "Changed my Life"
+ changed_my_life_opinion: "新たな人生"
  bp2_adult_education.9200.t: "A Sultry Study Break"
  bp2_adult_education.9200.desc: "The library is empty, except for me and [student_flirt.GetFirstName]. I've been reading the same page in [SCOPE.Custom('RandomInformativeTextName')] over and over, but it's of no use — I cannot concentrate.\n\nNot when [student_flirt.GetSheHe] keeps gently biting the tip of [student_flirt.GetHerHis] quill, while softly running a finger across [student_flirt.GetHerHis] [student_flirt.Custom('ObjectifiedFeature')] — and she keeps looking me #EMP directly in the eyes#! while doing it!\n\n\"I think we deserve a... break, my [ROOT.Char.Custom('RomanticComplimentNoun')]?\" [student_flirt.GetSheHe|U] moans softly."
  bp2_adult_education.9200.a: "Must. Focus. On. Book."
