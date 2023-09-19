@@ -269,7 +269,7 @@
  travel_events.3130.a.failure:0 "暗殺者はあなたを負傷させて逃走する"
  travel_events.3130.b:1 "\"Guards! Catch [sexy_assassin.GetHerHim]!\""
  travel_events.3130.b.success:0 "あなたは暗殺者を倒し、手紙を添えて送り返す"
- travel_events.3130.c:1 "\"Or you could join #EMP my#! agents...\""
+ travel_events.3130.c:1 "「お前は#EMP 私の#!スパイに加わることもできる…」"
  travel_events.3130.d:1 "\"Pleasant circumstances, you say...?\""
  travel_events.3130.e:0 "「行け。二度と会いたくない。」"
  executed_assassin_modifier:0 "暗殺の回避"

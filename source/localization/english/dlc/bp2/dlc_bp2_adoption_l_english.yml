@@ -19,4 +19,4 @@
  we_are_alike_tt: "私たちは共通する[traits|E]を持つ：$VALUE|=+0$"
  we_are_NOT_alike_tt: "私たちは反対の[traits|E]を持つ：$VALUE|=+0$"
  ambition_tt: "私はもっと偉大になりたい：$VALUE|=+0$"
- every_non_content_child: "Every [child|E] who is not [GetTrait('content').GetName( actor )]"
+ every_non_content_child: "すへての[child|E]が[GetTrait('content').GetName( actor )]でない"

@@ -845,7 +845,7 @@
  offensive_war_desc_second_perspective_populist: "you led a [ROOT.Var('war_culture').Culture.GetAdjective] [ROOT.Var('war_faith').Faith.GetAdjective] revolt against [other_party.GetTitledFirstName]"
  offensive_war_desc_third_perspective_peasant: "[owner.GetFirstName] led a peasant revolt against [other_party.GetTitledFirstName]"
  offensive_war_desc_third_perspective_populist: "[owner.GetFirstName] led a [ROOT.Var('war_culture').Culture.GetAdjective] [ROOT.Var('war_faith').Faith.GetAdjective] revolt against [other_party.GetTitledFirstName]"
- defensive_war_desc_peasant: "A peasant revolt, led by [other_party.GetFirstName], rose up against me"
+ defensive_war_desc_peasant: "[other_party.GetFirstName]は農民を率いて私への反乱を起こした"
  defensive_war_desc_populist: "A [ROOT.Var('war_culture').Culture.GetAdjective] [ROOT.Var('war_faith').Faith.GetAdjective] revolt, led by [other_party.GetFirstName], rose up against me"
  defensive_war_desc_second_perspective_peasant: "A peasant revolt, led by [other_party.GetFirstName], rose up against you"
  defensive_war_desc_second_perspective_populist: "A [ROOT.Var('war_culture').Culture.GetAdjective] [ROOT.Var('war_faith').Faith.GetAdjective] revolt, led by [other_party.GetFirstName], rose up against you"

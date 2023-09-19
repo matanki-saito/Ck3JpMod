@@ -308,7 +308,7 @@
  hold_court_8110_execute_modifier:0 "地元の逸材の処刑"
  hold_court_8110_jester_modifier:0 "庶民を嘲笑う"
  hold_court.8120.t:0 "福音の反動"
- hold_court.8120.desc:0 "私は貧しい[peasant.GetFaith.GetAdherentName]、謙虚さと懇願の洞察に出会う。\n\n「栄誉ある[ROOT.Char.GetTitleAsNameNoTooltip]様、私は、[conversion_target.GetNameNoTierPossessive]の人々に嫌がらせをし、[ROOT.Char.GetFaith.GetName]を採り入れるため、彼らを駆り立てている司祭を止めてくださるよう嘆願に参りました。」\n\n"
+ hold_court.8120.desc:0 "私は貧しい[peasant.GetFaith.GetAdherentName]を介して、謙虚さと懇願の洞察に出会う。\n\n「栄誉ある[ROOT.Char.GetTitleAsNameNoTooltip]様、私は、[conversion_target.GetNameNoTierPossessive]の人々を悩ませている司祭を、[ROOT.Char.GetFaith.GetName]を採り入れるよう彼らを駆り立てている司祭を、止めてくださるよう嘆願に参りました。」\n\n"
  hold_court.8120.desc.same_religion:1 "「我々は皆、[peasant.GetFaith.CreatorName]の教えに従い、[peasant.GetFaith.CreatorHerHim|U]に導きと慈悲を求めているのです！我が[ROOT.Char.GetLadyLord]、我々が地元の儀式を守り、暴力や非難を恐れず生きていけるようにしてくださいませ。」"
  hold_court.8120.desc.same_culture:0 "「信仰は違うとしても、我々は結局は皆[peasant.GetCulture.GetName]の兄弟であり姉妹なのです。我々が[peasant.GetFaith.HighGodName]に従うにせよ、[ROOT.Char.GetFaith.HighGodName]に従うにせよ、平和に暮らしていくことはできないのでしょうか？」"
  hold_court.8120.desc.other:0 "「我々は[peasant.GetCulture.GetName]であり、我々の伝統は偉大な[ROOT.Char.GetCulture.GetName]の人々とは異なります。我々は共に祖先の風習を守り、平和のうちに[peasant.GetFaith.CreatorName]を崇拝しようではありませんか。どうかお慈悲を、我が[ROOT.Char.GetLadyLord]。」"
