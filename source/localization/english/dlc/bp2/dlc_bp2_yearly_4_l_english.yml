@@ -131,7 +131,7 @@
  childhood_prison_endure_desc: "This character quietly endures their fate of recurring imprisonment."
  generational_hostage: "Generational Hostage"
  generational_hostage_desc: "This character has some mental comfort in knowing that their parent endured a similar hostage ordeal and survived."
- abandoned_opinion: "Abandoned"
+ abandoned_opinion: "見捨てられた"
  famed_parent_became_very_famous: "Famed Parent"
  famed_parent_became_very_famous_desc: "My [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became [GetPrestigeLevelName( famed_parent.GetPrestigeLevel )]"
  famed_parent_became_very_famous_desc_second_perspective: "your [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became [GetPrestigeLevelName( famed_parent.GetPrestigeLevel )]"
