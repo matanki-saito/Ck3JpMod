@@ -43,7 +43,7 @@
  bp2_yearly.5010.a.flavor: "A few flickers of those childhood embers still remain..."
  bp2_yearly.5010.a.tt: "You ask [marry_crush.GetFirstNameNoTooltip] to marry you"
  bp2_yearly.5010.b: "They were good times, weren't they?"
- bp2_yearly.5011.t: "A Decent Proposal"
+ bp2_yearly.5011.t: "まともな提案"
  bp2_yearly.5011.desc: "\"Do you remember,\" [root_crush.GetFirstName] says, turning to me as we chat in the garden, \"that we pledged to marry each other when we were children, if we were both unwed as adults?\"\n\nTaken aback, I cast my mind through my memories. I #EMP do#! remember. In a garden very like this one, we made those naive, hopeful childhood pledges. We were so young, so passionate. The memory brings an unbidden smile.\n\n\"I haven't forgotten.\" [root_crush.GetFirstNameNoTooltip] is a degree more earnest than I had expected. [root_crush.GetSheHe|U] takes my hand in [root_crush.GetHersHis]. \"I meant what I said. We are both unwed. I remember how happy we were.\""
  bp2_yearly.5011.a: "...yes. Yes, let's do it."
  bp2_yearly.5011.b: "What childish nonsense! Pull yourself together."
