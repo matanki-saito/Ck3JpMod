@@ -797,7 +797,7 @@
  nick_one_leg:0 "隻脚の"
  nick_one_leg_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の一本しかない足は人々に「[CHARACTER.GetNicknameNoTooltip]」と呼ばれるに足る目立つ特徴だ。"
  nick_of_a_thousand_faces:0 "千面相"
- nick_of_a_thousand_faces_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はいつも違う顔をしている…もし[CharYouHerHim(CHARACTER)]がそうなら…"
+ nick_of_a_thousand_faces_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はいつも違う顔をしている…[CharYouHerHim(CHARACTER)]の気分次第で…"
  nick_the_plaguebearer:0 "病気持ち"
  nick_the_plaguebearer_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は流行病に罹って苦しんでいるので、皆距離を取りたがる。"
  nick_the_persevering:0 "不撓不屈"

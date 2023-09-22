@@ -97,7 +97,7 @@
  single_combat.0001.hard_grit:0 "#EMP 本物#!の戦士とは、私のことだ！"
  single_combat.0001.feint_and_stab:1 "かかったな#EMP アホ#!が！"
  single_combat.0001.butchery:0 "私に挑んだことを#EMP 後悔#!するがいい…！"
- single_combat.0001.stoic_veteran.general:0 "どうした？その程度なら、貴様の#EMP 部下#!の方が何倍も強かったぞ！"
+ single_combat.0001.stoic_veteran.general:0 "#EMP 貴様#!など我らヴァリャーグの敵に比べればゴミよ！"
  single_combat.0001.stoic_veteran.other_varangian:0 "よくも親衛隊の名を汚してくれたな！"
  single_combat.0001.blade_dance:0 "速度には自信があるのでね！"
  single_combat.0001.wrath_of_highgod:0 "[myself.GetFaith.HighGodNameAlternate]、そして[myself.GetFaith.WarGodName]よ！私に力を！"
