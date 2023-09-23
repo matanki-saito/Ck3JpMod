@@ -80,7 +80,7 @@
  conquest_history:0 "征服"
  conquest_holy_war_history:0 "聖戦で征服"
  conquest_claim_history:0 "称号請求者として征服"
- conquest_populist:0 "大衆反乱によって征服"
+ conquest_populist:0 "民衆反乱によって征服"
  conquest_populist_history:0 "$conquest_populist$"
  revoked_history:0 "剥奪"
  returned_history:0 "復位"
