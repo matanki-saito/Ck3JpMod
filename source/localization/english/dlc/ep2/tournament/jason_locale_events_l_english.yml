@@ -113,7 +113,7 @@
  drunk_knight_beats_log_title:0 "酒場の恐怖"
  drunk_knight_beats_log:1 "酔った勢いで、[TARGET_CHARACTER.GetTitledFirstName]は数多くの名高い戦士たちをひどく打ち負かし、[CHARACTER.GetTitledFirstNamePossessive]の$knight_culture_player_plural_no_tooltip_lowercase$の一員に選ばれた。"
  drunk_oaths_log_title:0 "赤ら顔の募兵者"
- drunk_oaths_log:1 "[CHARACTER.GetTitledFirstName] compelled a group of soused $knight_culture_player_plural_no_tooltip_lowercase$, [TARGET_CHARACTER.GetTitledFirstName] the greatest among them, to leave their lieges for [CHARACTER.GetHerHim]."
+ drunk_oaths_log:1 "[CHARACTER.GetTitledFirstName]はもっとも偉大な$knight_culture_player_plural_no_tooltip_lowercase$である[TARGET_CHARACTER.GetTitledFirstName]のために側近を残すように強要した"
  jason_locale_events.0220.t:0 "勝利を育みし地にて"
  jason_locale_events.0220.desc:0 "私に仕える幾人もの$knight_culture_player_plural_no_tooltip_lowercase$が、来る日に備えた鍛錬のために寄り集まっていた。その従者も装具一式を纏う。[senior_knight.GetTitledFirstName]と私はその集団の前へと立った。\n\n「$knight_culture_player_plural_no_tooltip$の諸君！諸君らは知らなかろうが、謹んで知らしめよう、」[senior_knight.GetFirstNameNoTooltip]が力強く発する。「こちらにおわそう方は、我らを統べる[ROOT.Char.GetTitleAsNameNoTooltip]であらせられる！我ら共に栄誉を得んがため備えようぞ！」\n\n私へと向き直ると、その[senior_knight.Custom('EyeEyes')]がきらりと光る。\n\n「ご下命を賜りたく」"
  jason_locale_events.0220.a:0 "我らが敵手を見定めよ。やつらの急所を見抜くのだ。"

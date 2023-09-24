@@ -58,7 +58,7 @@
  activity_system.0300.b.tt:0 "[target_activity.GetNameNoTooltip]は中止され、客人は全員家路につきます"
  activity_system.0300.b.tt.cost:0 "一部のコストは払い戻される可能性があります"
  activity_system.0301.t:0 "[target_activity_type.GetNameNoTooltip]の中止"
- activity_system.0301.desc:0 "#EMP 戦争だ、戦争だ！#![target_activity_host.GetTitledFirstNamePossessive]が叫び、[knights|l]を天高く突き抜ける雷鳴のように招集した。\n\n我らが[target_activity_type.GetNameNoTooltip]にあずかれなかった[war_opponent.Custom('InsultNoun')]の[war_opponent.GetNameRegnal]がやった事で相違ないだろう。[target_activity_host.GetTitleAsNameNoTooltip]は徴募兵の派遣と[target_activity_host.GetFaith.WarGodName]への勝利の祈りのために活動の中止を宣言した。\n\n[target_activity_type.GetNameNoTooltip]は高貴で価値のあるものだったのに、より大きな軍靴の音で掻き消されてしまった。"
+ activity_system.0301.desc:0 "#EMP 戦争だ、戦争だ！#![target_activity_host.GetTitledFirstNamePossessive]が叫び、[knights|l]を天高く突き抜ける雷鳴のように招集した。\n\n我らが[target_activity_type.GetNameNoTooltip]から省かれた[war_opponent.Custom('InsultNoun')][war_opponent.GetNameRegnal]がやった事で相違ないだろう。[target_activity_host.GetTitleAsNameNoTooltip]は徴募兵の派遣と[target_activity_host.GetFaith.WarGodName]への勝利の祈りのために活動の中止を宣言した。\n\n[target_activity_type.GetNameNoTooltip]は高貴で価値のあるものだったのに、より大きな軍靴の音で掻き消されてしまった。"
  activity_system.0301.a:0 "なんたる茶番…"
  activity_system.0310.desc.intro:0 "[target_activity_host.GetPossessiveNameRegnal|U]の[target_activity_type.GetNameNoTooltip]に参加するために[target_activity_location.GetName]にいると、戦の角笛の音が聞こえてきた。[attacker.GetTitledFirstName|U]と[defender.GetTitledFirstName|U]の戦争の支援のために私が召喚されたらしい。"
  activity_system.0310.a.tt:0 "[target_activity_type.GetNameNoTooltip]への参加を継続します"
