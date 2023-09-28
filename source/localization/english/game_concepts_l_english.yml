@@ -1091,7 +1091,7 @@
  game_concept_knight_i:0 "@knight_icon!"
  game_concept_knight_desc:4 "$game_concept_knight$はあなたの[army|E]内で直接戦闘に参加する[vassal|E]または[courtier|E]です。\n\n[battles|E]の間、$game_concept_knights$は自身の[prowess_skill|E]を用いて、より効果的に戦闘できます。高い$game_concept_prowess$が意味するところは、敵により多くのダメージを与えられるということです。また、$game_concept_battle$から生き延びやすく、無傷で潜り抜けることすら容易くなります。\n\n[SelectLocalization( HasDlcFeature( 'tours_and_tournaments' ), 'game_concept_knight_desc_TOTO_DLC', 'game_concept_knight_desc_NO_TOTO_DLC' )][SelectLocalization( HasDlcFeature( 'accolades' ), 'game_concept_knight_desc_ACCOLADE_DLC', '' )]#weak 騎士は[culture]や[faith]によっては異なった名前で呼ばれます。例えば、$knight_champion_no_tooltip_plural$、$knight_faris_no_tooltip_plural$、$knight_baghatur_no_tooltip_plural$などです。\n\n騎士が表しているのは、キャラクター自身とその従者の双方による一部隊となります#!"
  game_concept_knight_effectiveness:0 "騎士の効力"
- game_concept_knight_effectiveness_desc:0 "[ruler|E]の騎士の効力によって[battle|E]におけて[knights|E]がどれだけよく戦うかが決定されます。\n\n100%であれば騎士たちは通常通りに戦い、200%であるならば彼らは[prowess|E]が2倍になったかのように戦います。"
+ game_concept_knight_effectiveness_desc:0 "[ruler|E]の騎士効力は、[knights|E]が[battle|E]でどれだけよく戦うかを決定します。\n\n100%であれば額面通りに戦い、200%であるならばその[prowess|E]が2倍になったかのように戦います。"
  game_concept_short_reign:0 "短い治世"
  game_concept_short_reign_desc:0 "'短い治世'は新しい[liege|E]に対して[realm|E]の全てのキャラクターが持つ徐々に減少する[opinion|E]ペナルティです。\n\n同様に、長期に渡って統治を行っている主君に対して臣民たちは徐々に増加する[long_reign|E]評価ボーナスを持ちます。"
  game_concept_long_reign:0 "長い治世"

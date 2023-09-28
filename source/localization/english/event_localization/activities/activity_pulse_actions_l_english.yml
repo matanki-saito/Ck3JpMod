@@ -20,7 +20,7 @@
  guest_of_honor_praised_title:0 "$activity_pulse_action_guest_of_honor_praised$"
  activity_pulse_action_guest_of_honor_praised:0 "名誉の客人である[first.GetShortUINameNoTooltip]は[first.Custom('FormalComplimentAdjective')|U]を称賛した"
  guest_impressed_by_court_artifact_title:0 "$activity_pulse_action_guest_impressed_by_court_artifact$"
- activity_pulse_action_guest_impressed_by_court_artifact:1 "[first.GetShortUINameNoTooltip] Impressed by [second.GetShortUINamePossessiveNoTooltip] [court_artifacts|E]"
+ activity_pulse_action_guest_impressed_by_court_artifact:1 "[first.GetShortUINameNoTooltip]は[second.GetShortUINamePossessiveNoTooltip]の[court_artifacts|E]に感銘を受けた"
  guest_chokes_on_bone_title:0 "$activity_pulse_action_guest_chokes_on_bone$"
  activity_pulse_action_guest_chokes_on_bone:1 "[first.GetShortUINameNoTooltip]は[first.Custom('GetFoodBird')|U]の骨を詰まらせた"
  guest_brawl_title:0 "$activity_pulse_action_guest_brawl$"

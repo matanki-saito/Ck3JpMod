@@ -1,7 +1,7 @@
 ﻿l_english:
  ACTIVITY_LOG_ENTRY_EFFECT:1 "#S 効果#!\n$EFFECT$"
  activity_tournament_province_desc:2 "[ROOT.Province.GetName]で競技会を開催します\n所領にある適切な建造物により、[gold_i][gold|E]のコストが減少します"
- activity_tournament_conclusion_desc:0 "#D Please fill me in and put me in the right file designer senpai UwU#!"
+ activity_tournament_conclusion_desc:0 "#D 記入して正しいファイルデザイナーを入れてください☆（ゝω・）vｷｬﾋﾟ#!"
  activity_feast_guest_desc:0 "$BULLET_WITH_TAB$参加者の、他の参加者からの[opinion|E]獲得の可能性\n$BULLET_WITH_TAB$参加者の[stress_loss_i][stress|E]解消の可能性\n$BULLET_WITH_TAB$参加者の[GetTrait('lifestyle_reveler').GetName( GetNullCharacter )][trait|E]獲得の可能性"
  activity_tournament_guest_desc:1 "#weak 参加資格がある競技会に参加すれば、大会で優勝して賞品を獲得するチャンスに恵まれるだけでなく、リラックスして観光も楽しむことができます。また、自分の武術を磨く機会にもなります。#!"
  guest_friendship_title:0 "$activity_pulse_action_guest_friendship$"
