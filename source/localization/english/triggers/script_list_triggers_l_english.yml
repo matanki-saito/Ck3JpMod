@@ -29,5 +29,5 @@
  ANY_HELD_TITLE_PERCENT:0 "保有する[titles|E]の$PARAMETERS$:"
  ANY_OF_MY_HELD_TITLES_PERCENT:0 "私が保有する[titles|E]の$PARAMETERS$:"
  ANY_WARDEN_HOSTAGE: "Any [hostage|E]:"
- ANY_WARDEN_HOSTAGE_FIRST: "Any of my [hostages|E]:"
- ANY_WARDEN_HOSTAGE_THIRD: "Any of [CHARACTER.GetShortUINamePossessive] [hostages|E]:"
+ ANY_WARDEN_HOSTAGE_FIRST: "私の[hostages|E]の誰か:"
+ ANY_WARDEN_HOSTAGE_THIRD: "[CHARACTER.GetShortUINamePossessive]の[hostages|E]の誰か:"

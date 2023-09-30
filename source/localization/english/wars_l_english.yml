@@ -485,4 +485,4 @@
  invasion_vassal_transfer_tt: "Every [de_jure|E] [vassal|E] of the target titles"
  invasion_title_transfer_tt: "[defender.GetShortUINamePossessive|U] [THIS.Title.GetBaseName] is transferred to [attacker.GetShortUIName]"
  invasion_title_transfer_2_tt: "Every occupied [defender.GetPrimaryTitle.GetAdjectiveNoTooltip] [county|E] is transferred to [attacker.GetShortUIName]"
- invasion_titles_destroyed_tt: "Every target title"
+ invasion_titles_destroyed_tt: "全ての標的の称号"

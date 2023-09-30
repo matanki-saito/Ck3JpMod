@@ -157,4 +157,4 @@
  bp2_hostage_system.0400.adopted_stay: "\n\nAll the same, [hostage.GetSheHe] has gladly decided to remain at my court in [ROOT.Char.GetCapitalLocation.GetName] for the time being."
  bp2_hostage_system.0401.adopted: "I have heard rumors that my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hostage'))], [hostage.GetFirstName], now considers [hostage.GetHerselfHimself] a part of House [hostage.GetHouse.GetBaseName]! [warden.GetTitledFirstName], that [warden.Custom('InsultNoun')], must have poisoned [hostage.GetHerHis] mind!"
  bp2_hostage_system.0401.adopted_stay: "\n\nIt is even said [hostage.GetFirstNameNoTooltip] considers #EMP [warden.GetCapitalLocation.GetName]#! to be [hostage.GetHerHis] true home, not [ROOT.Char.GetCapitalLocation.GetName]!"
- bp2_hostage_system.0401.b: "Treachery!"
+ bp2_hostage_system.0401.b: "裏切ったな！"
