@@ -612,5 +612,5 @@
  travel_events.2111.a_compassionate:0 "何てことをしてしまったのだ..."
  travel_events.2111.a_sadist:0 "愉快だな！"
  travel_events.2111.a_dead:0 "いずれそうなる運命だったのだ。"
- travel_events.2010.a_tt_2: "[ROOT.Char.GetTitledFirstName] burned down your orchards in [location_county.GetNameNoTier]!"
- travel_events.2105.a.tt: "[visiting_ruler.GetShortUIName] came to your aid!"
+ travel_events.2010.a_tt_2: "[ROOT.Char.GetTitledFirstName]は[location_county.GetNameNoTier]であなたの果樹園を燃やす！"
+ travel_events.2105.a.tt: "[visiting_ruler.GetShortUIName]が助けに来た！"

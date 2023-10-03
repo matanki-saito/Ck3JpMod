@@ -1,7 +1,7 @@
 ﻿l_english:
  I_AM_HOSTAGE: "I am being held hostage"
  NOT_I_AM_HOSTAGE: "I am not a hostage"
- THEY_ARE_HOSTAGE: "[CHARACTER.GetName] is being held hostage"
+ THEY_ARE_HOSTAGE: "[CHARACTER.GetName]は人質です"
  NOT_THEY_ARE_HOSTAGE: "[CHARACTER.GetName] is not being held hostage"
  I_AM_HOSTAGE_WARDEN: "I am a warden"
  NOT_I_AM_HOSTAGE_WARDEN: "I am not a warden"
