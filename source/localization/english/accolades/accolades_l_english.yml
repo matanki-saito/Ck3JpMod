@@ -29,7 +29,7 @@
  ACCOLADE_SUCCESSOR:0 "後継者"
  ACCOLADE_SUCCESSOR_NAME:0 "後継者: [Accolade.GetSuccessor.GetUIName]"
  ACCOLADE_ACCLAIMED_KNIGHT:0 "叙勲された$knight_culture_player_no_tooltip$"
- ACCOLADE_ACCLAIMED_KNIGHT_NAME:0 "称賛された$knight_culture_player_no_tooltip$: [Accolade.GetAcclaimedKnight.GetUIName]"
+ ACCOLADE_ACCLAIMED_KNIGHT_NAME:0 "叙勲された$knight_culture_player_no_tooltip$: [Accolade.GetAcclaimedKnight.GetUIName]"
  ACCOLADE_GLORY_AND_LEVEL:0 "[glory|E]: [Accolade.GetGlory|0]　#low 第 [Accolade.GetCurrentRankNumber] 位階#!"
  CURRENT_ACCOLADE_GLORY_AND_LEVEL:0 "現在の$ACCOLADE_GLORY_AND_LEVEL$"
  ACCOLADE_CHANGE_SUCCESSOR:0 "勲等の後継者を変更"

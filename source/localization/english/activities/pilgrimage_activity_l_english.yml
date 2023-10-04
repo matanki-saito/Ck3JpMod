@@ -42,7 +42,7 @@
  apa_lead_procession_title:0 "[first.GetShortUIName|U]は宗教的行進を組織した"
  apa_comet_sighted_title:0 "[first.GetShortUIName|U]が彗星を見つけた"
  apa_good_omen_title:0 "[first.GetShortUIName|U]は吉兆を観察した"
- apa_pilgrim_protection_title:0 "称賛されし[first.GetShortUIName|U]が巡礼者を守り抜いた"
+ apa_pilgrim_protection_title:0 "叙勲されし[first.GetShortUIName|U]が巡礼者を守り抜いた"
  apa_pilgrim_hospitals_title:0 "[first.GetShortUIName|U]は[province.GetNameNoTooltip]の巡礼者の病院で治療を受けた"
  apa_charity_for_the_poor_title:0 "[first.GetShortUIName|U]は[province.GetNameNoTooltip]の貧しい人々に慈善活動を提供した"
  apa_donated_to_holy_site_temple_title:0 "[first.GetShortUIName|U]は[province.GetNameNoTooltip]の聖地の保存のために資金を寄付した"

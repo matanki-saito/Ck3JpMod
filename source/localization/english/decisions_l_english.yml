@@ -1012,7 +1012,7 @@
  call_for_acclaimed_knight_candidates_decision_tooltip:0 "[inactive_accolade|e]のために[acclaimed_knights|e]となれるものが現れます"
  call_for_acclaimed_knight_candidates_decision_confirm:0 "使者に伝えよ"
  call_for_acclaimed_knight_candidates_decision.tt:0 "来年以内に[inactive_accolade|e]となりうるものが現れ、[knights|e]となるでしょう"
- accolade.0013.notification:1 "称賛に値する$knight_culture_player_no_tooltip$が参上した"
+ accolade.0013.notification:1 "叙勲に値する$knight_culture_player_no_tooltip$が参上した"
  accolade_call_acclaimed_knight_tooltip:0 "[chosen_knight.GetUIName]は[accolade_in_need.GetName]に値するものでしょう"
  accolade.0013.notification_fail:0 "叙勲に値するものはいない"
  accolade_call_acclaimed_knight_fail_notification_tooltip:0 "$knight_culture_player_no_tooltip_lowercase$に値する者が名乗り出ていないため、勲等の少なくとも1つが無効化されています"

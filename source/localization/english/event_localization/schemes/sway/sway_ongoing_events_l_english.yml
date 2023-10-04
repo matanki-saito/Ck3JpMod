@@ -24,7 +24,7 @@
  sway_ongoing.5001.desc:0 "先日のやり取りの中で、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]は[target.GetHerHis]の野心や関心を重視していきたいと漏らしていた。\n\n今後の手紙には、[target.GetHerHis]の心に寄り添った話題が盛り込んであるか確認#EMP しよう#!…"
  sway_ongoing.5001.diplomacy_lifestyle:0 "[target.GetSheHe]は外交事を重視するのが好きなはずだ。"
  sway_ongoing.5001.martial_lifestyle:0 "[target.GetSheHe]は戦果を評価すると聞いたことがある。"
- sway_ongoing.5001.stewardship_lifestyle:0 "領地の支配者は[target.GetHerHim]に興味を抱いている。"
+ sway_ongoing.5001.stewardship_lifestyle:0 "領地支配は[target.GetHerHim]の関心事だ。"
  sway_ongoing.5001.intrigue_lifestyle:0 "[target.GetSheHe|U]は陰謀と策略を実に楽しんでいる。"
  sway_ongoing.5001.learning_lifestyle:0 "私は良き本ほど[target.GetHerHim]を惹き付けるものはないと信じている！"
  sway_ongoing.5001.a.tt:0 "今後の手紙でこの話題を微妙に含めよう"

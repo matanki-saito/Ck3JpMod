@@ -115,7 +115,7 @@
  bp2_character_interaction.1002.desc_honest: "$bp2_character_interaction.desc_honest$「いやあ、本当に無いって」[recipient.GetFirstNameNoTooltip]は軽薄に笑う。「いつも僕は正直者さ…」"
  bp2_character_interaction.1002.desc_craven: "$bp2_character_interaction.desc_craven$「やめろ、離せ！」[recipient.GetFirstNameNoTooltip]は叫ぶ。「高貴な[recipient.Custom('KnightCultureNoTooltip')|l]のように、私は死など恐れるものか！」"
  bp2_character_interaction.1002.desc_brave: "$bp2_character_interaction.desc_brave$「でも…私…」と、[recipient.GetFirstNameNoTooltip]は小さな声で言う。「死にたくないの…」"
- bp2_character_interaction.1002.desc_shy: "$bp2_character_interaction.desc_shy$「貴方がいない間にどんなことを言われているか、[recipient.Custom2('RelationToMeShort', ROOT.Char)]さん…知ったらそんなこと言えないだろうね」"
+ bp2_character_interaction.1002.desc_shy: "$bp2_character_interaction.desc_shy$「貴方がいない間にどんなことを言われているか、[recipient.Custom2('RelationToMeShort', ROOT.Char)]さん…知っていたなら、そんな気取った事言えなくなるよ？」"
  bp2_character_interaction.1002.desc_gregarious: "$bp2_character_interaction.desc_gregarious$「お願いだから…」[recipient.Custom('GirlBoy')]は懇願する。「一人にして」"
  bp2_character_interaction.1002.desc_ambitious: "$bp2_character_interaction.desc_ambitious$「ええ…？」[recipient.GetFirstNameNoTooltip]は困り顔だ。「人はいずれ老いるものでしょう？」"
  bp2_character_interaction.1002.desc_content: "$bp2_character_interaction.desc_content$「だがいつか…」[recipient.GetFirstNameNoTooltip]は不服だ。「いつか、偉大になってみせる…」"

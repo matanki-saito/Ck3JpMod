@@ -70,7 +70,7 @@
  rival_chastised_child_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]を懲らしめた"
  bp2_security_compromised: "脆弱なセキュリティ"
  bp2_security_compromised_desc: "この人物は宮廷で何者かが怪しい情報のやり取りをしてるのを発見した"
- bp2_start_loyalty_story_cycle: "[hostage.GetFirstName]は[hostage.GetSheHe]が[hostage.GetHerHis]の忠誠を疑問に思い始るだろう。"
+ bp2_start_loyalty_story_cycle: "[hostage.GetFirstName]は誰にその忠義を示すべきか疑問に思い始るだろう。"
  bp2_make_hostage_more_loyal: "[hostage.GetSheHe]が大人になった時、[hostage.GetFirstName]はあなたに忠誠を誓いやすくなります"
  bp2_make_hostage_less_loyal: "[hostage.GetSheHe]が大人になった時、[hostage.GetFirstName]はあなたに忠誠を誓いにくくなります"
  hostage_loyalty: "忠実な人質"

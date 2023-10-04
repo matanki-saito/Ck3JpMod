@@ -249,7 +249,7 @@
  hold_court.6190.d:0 "#EMP 衛兵！#!この墓泥棒を捕らえよ！"
  hold_court.6190.e:0 "[physician.GetFirstNameNoTooltip]、それを止めよ。"
  hold_court.6200.t:0 "[6200_province.GetNameNoTooltip]の怪物"
- hold_court.6200.desc:0 "今、私の前にはげっそりと痩せ衰えたように見える農民が立っている。「我が[ROOT.Char.GetLadyLord]、お願いです、お助けください！」\n\n「[6200_province.GetName]の[6200_province.Custom('TerrainTypeProvince')]において#EMP 怪物#!が徘徊し、牛や農民たちを殺しております…その姿を見た者はほとんどおりませんが、哀れな犠牲者たちの無残な姿を見れば、疑う余地はございません。それは明らかに巨大な[ROOT.Char.Custom('GetAnimalType')]、これまで見たこともないほど血に飢えたやつです！」\n\n「どうかあなた様の最強の狩人を送って、その貪欲な顎から私たちをお守りください！」"
+ hold_court.6200.desc:0 "今、私の前にはげっそりと痩せ衰えた相貌の農民が立っている。「お願いでございます、お助けください！」\n\n「[6200_province.GetName]の[6200_province.Custom('TerrainTypeProvince')]で#EMP 怪物#!が徘徊し、牛や農民たちを殺しております…その姿を見た者はほとんどおりませんが、哀れな犠牲者たちの無残な姿を見れば、疑う余地はございません。それは明らかに巨大な[ROOT.Char.Custom('GetAnimalType')]、これまで見たこともないほど血に飢えたやつです！」\n\n「どうかあなた様の最強の狩人を送って、その貪欲な顎から私たちをお守りください！」"
  hold_court.6200.a:0 "この金をやるから、自分で狩人を雇うのだ。"
  hold_court.6200.b:0 "我が$master_of_hunt_court_position$[m_hunt.GetFirstNameNoTooltip]がそれを調査するだろう。"
  hold_court.6200.b.success:0 "[m_hunt.GetFirstNameNoTooltip]が怪物を殺す"
