@@ -144,5 +144,5 @@
  close_tutelage_scheme: "Close Tutelage"
  close_tutelage_tutor: "Close Tutelage"
  close_tutelage_tutor_desc: "This character is giving close personal guidance to a child, aiding their education, but at the cost of their own mental stability."
- changing_habits: "Changing Habits"
- changing_habits_desc: "This character is attempting to adjust their behavior to please others."
+ changing_habits: "気性の変質"
+ changing_habits_desc: "この人物は、他人に気に入られたくて自らの振る舞いを直そうと試みている。"

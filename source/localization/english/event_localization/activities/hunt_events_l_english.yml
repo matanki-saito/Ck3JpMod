@@ -313,7 +313,7 @@
  hunt.0510.desc:0 "\n\n未だ見つけざるものだが、私は確信している。その捉えどころ無き奴が近くにいるのだ…"
  hunt.0510.a:0 "その獣は我が手に落ちるだろう！"
  hunt.0520.t.sighting:0 "厄介な[activity.Custom('GetAnimalType')|U]め！"
- hunt.0520.t.tiger:0 "Felis Horribilis"
+ hunt.0520.t.tiger:0 "おぞましき猫"
  hunt.0520.t.lion:0 "金色の毛"
  hunt.0520.t.leopard:0 "斑点のある獲物"
  hunt.0520.t.lynx:0 "優雅な獲物"
