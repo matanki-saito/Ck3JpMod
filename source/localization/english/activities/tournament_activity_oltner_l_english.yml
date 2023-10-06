@@ -77,7 +77,7 @@
  tournament_events.9006.desc_end:0 "\n\n半刻は経っているはずなのに、ほんの数秒のように思える――[memory_holder.GetSheHe]はたしかに物語の紡ぎ方を知っている！"
  tournament_events.9006.a:0 "これは今後の競技で役立つだろう！"
  tournament_events.9006.b:0 "ここから何かを学べた気がする。"
- lifestyle_experience_increased:0 "ライフスタイル経験値が増加した"
+ lifestyle_experience_increased:0 "ライフスタイル経験値の増加"
  you_learn_a_little:0 "あなたはわずかに学んだ"
  you_learn_a_lot:0 "あなたは多くのことを学んだ"
  tournament_events.9006.shy:0 "あんな風に公衆の面前で話せるようになればよいのだが…"

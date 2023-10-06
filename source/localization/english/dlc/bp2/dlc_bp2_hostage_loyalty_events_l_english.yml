@@ -55,7 +55,7 @@
  bp2_yearly.8060.b: "「あなたは名前だけでも私の[hostage.Custom('GetDaughterSon')]だ。」"
  bp2_yearly.8060.c: "「私はいつでもあなたの[ROOT.Char.Custom('GetAuntUncle')]ですよ。」"
  bp2_yearly.8061.t: "[ROOT.Char.Custom('GetAuntUncle')|U]よ永遠に"
- bp2_yearly.8061.desc: "[hostage.GetFirstName]が初めて宮廷に来たて私が[hostage.GetHerHis]の[ROOT.Char.Custom('GetAuntUncle')]になってから今まで長い時が経った。大人になった[hostage.GetHerHim]を見ると、[hostage.GetHerHim]は血が繋がっているような家族の絆を感じる。\n\n[hostage.GetFirstNameNoTooltip]は私の前に跪き、[hostage.GetHerHis]が大好きな[ROOT.Char.Custom('GetAuntUncle')]として、[hostage.GetHerHis]に永遠の忠誠を誓った。"
+ bp2_yearly.8061.desc: "初めて[hostage.GetFirstName]が宮廷に来て、私がその[ROOT.Char.Custom('GetAuntUncle')]になった。その時から随分と長い時を経て、今では大人になった[hostage.GetFirstName]。そんな[hostage.GetHerHim]とは血が繋がった家族のような絆を感じる。\n\n[hostage.GetFirstNameNoTooltip]は私の前に跪き、永遠の忠誠を誓った。だって、大好きな[ROOT.Char.Custom('GetAuntUncle')]なのだから。"
  bp2_yearly.8061.a: "素晴らしい。"
  bp2_yearly.8063.t: "蔑まれた人質"
  bp2_yearly.8063.desc: "[hostage.GetFirstName]が初めて宮廷に来て私が[hostage.GetHerHis]の[ROOT.Char.Custom('GetAuntUncle')]になってから長い時が経った。今は[hostage.GetWomanMan]となり、[hostage.GetSheHe]が私を見る目に耐えられない。宮廷に座り、[hostage.GetHerHis]が私に向けてくる嫌悪や侮蔑の眼差しは[ROOT.Char.GetHouse.GetNameNoTooltip]の育て方が失敗したことを示している。"

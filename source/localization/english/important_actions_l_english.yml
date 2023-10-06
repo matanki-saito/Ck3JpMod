@@ -621,7 +621,7 @@
  action_empty_accolade_slot_unimportant:1 "@warning_icon!#X その騎士は既存の勲等の後継者としても任命可能です"
  action_empty_accolade_slot_click:0 "#I クリックであなたの騎士を表示#!"
  action_inactive_accolade:0 "@acclaimed_knight_icon!叙されていない勲等の復活が可能です"
- action_inactive_accolade_label:0 "@acclaimed_knight_icon! #high [recipient.GetNameNoTooltip]#!は復帰できます"
+ action_inactive_accolade_label:0 "@acclaimed_knight_icon! #high [recipient.GetNameNoTooltip]#!を復位できます"
  action_inactive_accolade_combined_label:0 "@acclaimed_knight_icon!#high [recipient.GetNameNoTooltip]#!"
  action_inactive_accolade_desc:0 "[recipient.GetName]には、任命されていた[acclaimed_knight|e]、もしくは叙勲される資格のある候補者が居ます。$action_inactive_accolade_HELP$"
  action_inactive_accolade_HELP:0 "\n\n#help [inactive_accolade|e]が空位であるなら新たな[knight|e]を叙すことで、叙勲されていた騎士が居るなら「復位」することで、[prestige|e]コストを払うことなく効果を復元することができます。\n\nそうせずに、叙されていない勲等を恒久的に「破壊」することによって、この勲等の「叙勲された騎士」を騎士に任命しないようにすることも可能です。#!"
