@@ -16,7 +16,7 @@
  ACTIVITY_GUEST_NEMESIS_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[nemesis|E]である: $VALUE|=+0$"
  ACTIVITY_GUEST_FRIEND_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[friend|E]である: $VALUE|=+0$"
  ACTIVITY_GUEST_BEST_FRIEND_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[best_friend|E]である: $VALUE|=+0$"
- ACTIVITY_GUEST_LOVER_REASON:1 "[ROOT.Char.GetSheHe|U]はあたなの[lover|E]である: $VALUE|=+0$"
+ ACTIVITY_GUEST_LOVER_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[lover|E]である: $VALUE|=+0$"
  ACTIVITY_GUEST_SOULMATE_REASON:1 "[ROOT.Char.GetSheHe|U]はあなたの[soulmate|E]である: $VALUE|=+0$"
  ACTIVITY_GUEST_FAITH_ASTRAY_REASON:1 "[host.GetFaith.GetAdherentNamePlural]は[ROOT.Char.GetFaith.GetAdherentNamePlural]の[faith_astray|E]を検討する: $VALUE|=+0$"
  ACTIVITY_GUEST_FAITH_HOSTILE_REASON:1 "[host.GetFaith.GetAdherentNamePlural]は[ROOT.Char.GetFaith.GetAdherentNamePlural]の[faith_hostile|E]を検討する: $VALUE|=+0$"

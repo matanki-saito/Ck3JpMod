@@ -9,7 +9,7 @@
  bp2_yearly.8050.desc.mid.traits: "私は、かつて故郷と呼んだ場所にいる人々よりも、共通点がとても多いと感じる。"
  bp2_yearly.8050.desc.outro: "私は一体全体何者なのだろうか！？[hostage.GetHouse.GetName|U]か？[ROOT.Char.GetHouse.GetName]か？"
  bp2_yearly.8050.a: "「もちろん私はあなたの[ROOT.Char.Custom('GetAuntieUncle')]ですよ。」"
- bp2_yearly.8050.b: "「あたなは人質だ。それ以上のものではない。」"
+ bp2_yearly.8050.b: "「あなたは人質だ。それ以上のものではない。」"
  bp2_yearly.8051.t: "妥協の手紙"
  bp2_yearly.8051.desc: "私は[hostage.GetFirstNamePossessive]の寝室に行ったが[hostage.GetHerHim]の姿は見えなかった。ただ[hostage.GetHerHis]の文机には[hostage.GetHomeCourt.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]に宛てた書きかけの手紙の山が文机の上に散らばってるのを見つけた。\nその手紙には私の宮廷の詳細、隠れる場所や私の給仕、さらには私を裏切りそうな不穏分子に関することがみっちりと書かれていた。振り返ると戸口に[hostage.GetFirstNameNoTooltip]が狩られる直前の獲物のように呆然と立ち尽くしていた。"
  bp2_yearly.8051.a: "「おぉ、[hostage.Custom('GetNieceNephew')]、全ては許される。」"

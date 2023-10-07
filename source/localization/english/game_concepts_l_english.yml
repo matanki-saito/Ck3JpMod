@@ -979,7 +979,7 @@
  game_concept_core_tenets:1 "信条"
  game_concept_holy_war:0 "聖戦"
  game_concept_holy_wars:0 "聖戦"
- game_concept_holy_war_holy:0 "聖なる"
+ game_concept_holy_war_holy:0 "聖戦"
  game_concept_holy_war_desc:4 "$game_concept_holy_war$とはある[faith|E]の[ruler|E]が異なる宗派を持つ支配者に対して仕掛ける特殊な[war|E]です。\n\n$game_concept_holy_war$は通常、非常に破壊的であり、聖戦の勝利者は対象地域の全ての[counties|E]を自らの手に収めます。しかしながら、攻撃側の宗派が[GetFaithDoctrine('doctrine_pluralism_pluralistic').GetBaseName]であったり、防衛側の対象地域の[vassals|E]に攻撃側と同じ信仰を持つ者がいる場合は幾つかの封臣は単に攻撃側の封臣へと移譲されるに留まります。 \n\n他の戦争とは異なり、ターゲットと同じ宗派を持つ支配者たちは防衛側に参加するにあたって[alliance|E]を必要としません。\n\n聖戦は、異なる[religious_families|E]によって許可されたり、または制限されることがあります。"
  game_concept_great_holy_war:0 "大聖戦"
  game_concept_great_holy_wars:0 "大聖戦"
