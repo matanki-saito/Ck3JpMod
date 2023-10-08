@@ -73,7 +73,7 @@
  diarch_imprison_interaction.tt.inform_recipient:1 "[actor.GetShortUIName|U]はあなたの[imprisoned|E]を試みました"
  diarch_subsidise_crown_authority_interaction:0 "主君の権威を補助する"
  diarch_subsidise_crown_authority_interaction_desc:0 "[liege|E]が[recipient.GetHerHis]の[crown_authority|E]または[tribal_authority|E]を高めるのを助けるため、あなた自身の[prestige|E]を使用することを申し出ます。これにはあなたの[diarch_powers|E]の一部が必要となる場合があります。$diarch_boilerplate_postscript_partial$"
- DIARCH_SUBSIDISE_AUTHORITY_PROPOSAL:0 "申し上げたき儀が、領国における王権強化に関する提案がいくつかございます。必要なのは御印――私の側にご足労頂ければと存じます。言わずもがな、お歴々の方々が不公平だと考えぬ限りでございますが。"
+ DIARCH_SUBSIDISE_AUTHORITY_PROPOSAL:0 "申し上げたき儀、領国における王権強化に関する提案がいくつかございます。必要なのは御印──私の側にご足労頂ければと。言わずもがな、お歴々の方々が不公平だと考えぬ限りでございますが。"
  diarch_subsidise_crown_authority_interaction.tt.cannot_subsidise_past_necessary:0 "あなたの[liege|E]はあなたが必要とするすべての権限を持っています"
  diarch_subsidise_crown_authority_interaction.tt.liege_cannot_have_max_authority:0 "あなたの[liege|E]はすでに最大限の権威を持っています"
  diarch_subsidise_crown_authority_interaction.tt.accepted:0 "[recipient.GetTitledFirstNameNoTooltip]は受け入れる"

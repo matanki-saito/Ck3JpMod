@@ -10,7 +10,7 @@
  drinks_round_tt:0 "すべての酒飲み"
  ep2_locale_events.1000.hangover_tt:0 "もう二度と…"
  ep2_locale_events.1002.t:1 "$tournament_locale_tavern$: あえて飲む？"
- ep2_locale_events.1002.desc:0 "競技会が町にやってくると、当然のように地元の酒場は人々でごった返している。しかし、新参者の中に混じって、明らかにこの店の常連である一人の[local_drunk.GetWomanMan]が座っている。私が席に着くと[local_drunk.GetSheHe|U]は疑いの目で私を見る。\n\n「#EMP ここで#!何をしてるんだ？」私の飲み物が届くと、ついに[local_drunk.GetSheHe|U]は出し抜けに言う。私が[local_drunk.GetHerHim]に向き直ると、[local_drunk.GetSheHe]はふらふらした足取りで立ち上がる。\n\n「無礼をお許しくださいませ、#EMP 閣下#!。」——大げさな軽蔑に満ちたお辞儀が言葉を中断させる——「でも、あんたはその全部どころか半分も飲みきれないと思うんでね！」"
+ ep2_locale_events.1002.desc:0 "競技会が町にやってくると、当然のように地元の酒場は人々でごった返している。しかし、新参者の中に混じって、明らかにこの店の常連である一人の[local_drunk.GetWomanMan]が座っている。私が席に着くと[local_drunk.GetSheHe|U]は疑いの目で私を見る。\n\n「#EMP ここで#!何をしてるんだ？」私の飲み物が届くと、ついに[local_drunk.GetSheHe|U]は出し抜けに言う。私が[local_drunk.GetHerHim]に向き直ると、[local_drunk.GetSheHe]はふらふらした足取りで立ち上がる。\n\n「無礼をお許しくださいませ、#EMP 閣下#!。」──大げさな軽蔑に満ちたお辞儀が言葉を中断させる──「でも、あんたはその全部どころか半分も飲みきれないと思うんでね！」"
  ep2_locale_events.1002.a:0 "さあ、敵意は必要ない。一杯奢ろうか？"
  ep2_locale_events.1002.b:0 "そうか？#EMP 大杯を出してくれ！#!"
  ep2_locale_events.1002.b.success:0 "あなたは[local_drunk.GetFirstNameNoTooltip]を飲み負かす"

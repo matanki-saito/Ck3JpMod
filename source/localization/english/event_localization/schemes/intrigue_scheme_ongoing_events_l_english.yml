@@ -82,7 +82,7 @@
  intrigue_scheme_ongoing.3004.desc:0 "地元の居酒屋で猟師がどんちゃん騒ぎを起こしている。そんな知らせが間諜からいくつも上がってきている。その[hunter.GetWomanMan]は「真珠と絹を身に着けた派手な[owner.GetWomanMan]」とのデカいヤマを当てたと大声でひけらかし、湯水のごとく散財していたとのこと。\n\nどうやら素性も知らぬ高貴な[owner.GetWomanMan]に地元の[defender.Custom('TerrainType')]の地図を描いて見せたようだ。その[owner.GetWomanMan]が私か臣下に対して策謀を企てているに違いないと、間諜らは考えている。"
  intrigue_scheme_ongoing.3004.a:0 "この情報をもたらしたことに感謝する。"
  intrigue_scheme_ongoing.3004.b:0 "その愚か者を地下牢にぶち込め！"
- intrigue_scheme_ongoing.3004.c:0 "[hunter.GetHerHim]を連れて来い。[hunter.GetHerHis]の記憶を呼び起こせるだろう…"
+ intrigue_scheme_ongoing.3004.c:0 "連れて来い。私ならそいつの記憶を呼び起こせるだろう…"
  intrigue_scheme_ongoing.3004.c.tt:0 "[scheme_hostile|E]的計画か、悪意のある[scheme|E]が暴かれる"
  intrigue_scheme_ongoing.3004.toast:0 "計画が露見した"
  intrigue_scheme_ongoing.3005.t:0 "空飛ぶ使者"
