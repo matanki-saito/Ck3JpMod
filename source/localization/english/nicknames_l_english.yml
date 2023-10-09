@@ -838,7 +838,7 @@
  nick_the_bellower_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はとても、とても声がデカく、とても、とても怖い。"
  nick_the_healer:0 "治癒士"
  nick_the_healer_desc:2 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は医術の技法を学び、その行使を厭わない。"
- nick_the_prophet:0 "予言者"
+ nick_the_prophet:0 "預言者"
  nick_the_prophet_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は名高い宗教的象徴である。"
  nick_the_understanding:0 "解せし"
  nick_the_understanding_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は多感で、理性的で、求められれば喜んで助言する。"
