@@ -155,7 +155,7 @@
  feast.7203.desc.intro:0 "$feast.7202.desc.intro$"
  feast.7203.desc.honoured:0 "その主賓は[goh.GetTitledFirstName]である。\n\n少し長いけれども、ちゃんとしたスピーチだ。しかし、こういうことはたいていそうだ。スピーチが終わると、集まった客は拍手と喝采を送るが、中にはより熱狂的な者もいる。"
  feast.7203.desc.slagged_off:0 "その主賓は[goh.GetTitledFirstName]である。\n\n驚くべきことに、[host.GetFirstNameNoTooltip]は客人の方に目を向けると、[goh.GetHerHim]を称賛するどころか、すぐに[goh.GetFirstNamePossessiveNoTooltip]の知性、道徳的性格、一般的な匂いを疑問視する、大声で率直に言ってむしろ見事な話を始めたのだ。我々観客は、ただただ呆然とするばかりだ。"
- feast.7203.desc.bragged:0 "その主賓は[goh.GetTitledFirstName]である。\n\n驚いたことに、というかさほど驚くべきことでもないのだが、[host.GetFirstNameNoTooltip]は客人をほとんど気にかけることもなく、代わりに自身が提供したご馳走の質について自画自賛し始める。良く言えば少し無礼であり、拍手の量がそれを反映している。"
+ feast.7203.desc.bragged:0 "その主賓は[goh.GetTitledFirstName]である。\n\n驚いたことに、というかさほど驚くべきことでもないのだが、[host.GetFirstNameNoTooltip]は客人をほとんど気にかけることもなく、代わりに自身が提供したご馳走の質について自画自賛し始める。贔屓目に見てもやや無礼な振る舞いであり、拍手の量がそれを反映している。"
  feast.7203.a:0 "いいぞ、いいぞ！"
  feast.7203.b.goh_honoured:0 "正直、[goh.GetFirstNameNoTooltip]のことはそんなに好きでは無いが！"
  feast.7203.b.goh_dishonoured:0 "こういうのはよくないと思うが。"

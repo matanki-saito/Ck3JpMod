@@ -41,7 +41,7 @@
  child_personality.7020.b:0 "また会ったらどうしよう！？#EMP 絶対に#!護衛を付けないと……！"
  child_personality.7020.c:0 "お願い！ぶたないで！何もしないから！"
  child_personality.7021.t:0 "$child_personality.7020.t$"
- child_personality.7021.desc:0 "わが[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetFirstName]に何があったのか！？[child.GetSheHe|U]はひどく傷つき、殴られ——それなのに相手の名前を言おうとしない！年上の兄弟なのか？それとも誰かやんごとなき人を怒らせてしまったのか？\n\n"
+ child_personality.7021.desc:0 "わが[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetFirstName]に何があったのか！？[child.GetSheHe|U]はひどく傷つき、殴られ──それなのに相手の名前を言おうとしない！年上の兄弟なのか？それとも誰かやんごとなき人を怒らせてしまったのか？\n\n"
  child_personality.shy.desc:0 "今では[child.GetSheHe]はほとんど口を開かず、人が近づくと毎回隠れてしまう……かわいそうに……"
  child_personality.paranoid.desc:0 "今では影がちらつくだけでも恐怖ですくみ上っている。可哀想に、あれが自分を襲ってくると思っているのだろうか？[child.GetSheHe|U]はいつも不安そうに周りを見渡して、警戒している……"
  child_personality.craven.desc:0 "針の一本が落ちただけでも、[child.GetFirstNameNoTooltip]は走ってクローゼットに逃げ込んでしまう。可哀そうに、いつも怖がっているようだ……"

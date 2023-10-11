@@ -434,7 +434,7 @@
  artifact_armor_mail_description:2 "鎖帷子が装飾の余地なく覆い、[SCOPE.Custom('ArtifactQuality')]技術で鋲打ちされ一体となった鎧は、並のそれとは隔絶している"
  artifact_armor_plate_description:2 "鎧は着用者を完全に保護するための[SCOPE.Custom('ArtifactAdverbQuality')]鋳造の大きな[newly_created_artifact.GetFeatureText( 'armor_material' )]板で構成されている"
  artifact_armor_scale_description:2 "鎧は[SCOPE.Custom('ArtifactAdverbQuality')]作られた[newly_created_artifact.GetFeatureText( 'armor_material' )]の鱗で構成されており、それが革の裏地に固定されている"
- artifact_armor_lamellar_description:2 "この鎧は、紐状の[newly_created_artifact.GetFeatureText( 'generic_material_cordage' )]の布地で[SCOPE.Custom('ArtifactAdverbQuality')]束ねられた[newly_created_artifact.GetFeatureText( 'armor_material' )]プレートを繋ぎ合わせて出来ている。縁と裏地は細かい[newly_created_artifact.GetFeatureText( 'generic_material_cloth' )]で切り整えてある。"
+ artifact_armor_lamellar_description:2 "この鎧は、紐状の[newly_created_artifact.GetFeatureText( 'generic_material_cordage' )]の布地で[SCOPE.Custom('ArtifactAdverbQuality')]束ねられた[newly_created_artifact.GetFeatureText( 'armor_material' )]プレートを繋ぎ合わせて出来ている。縁と裏地は細かい[newly_created_artifact.GetFeatureText( 'generic_material_cloth' )]で切り整えてある"
  artifact_armor_laminar_description:2 "この鎧は、横長の[newly_created_artifact.GetFeatureText( 'armor_material' )]を重ね連ねて[newly_created_artifact.GetFeatureText( 'generic_material_cordage' )]の糸を[SCOPE.Custom('ArtifactAdverbQuality')]編み込んだひもで締めて形作られている。装飾と裏地は上質な[newly_created_artifact.GetFeatureText( 'generic_material_cloth' )]で仕立ててある"
  artifact_armor_brigandine_description:2 "鎧の[newly_created_artifact.GetFeatureText( 'armor_material' )]は[SCOPE.Custom('ArtifactAdverbQuality')]長方形の鋼板が内部に並び、[newly_created_artifact.GetFeatureText( 'generic_material_cloth' )]の層で覆われている"
  artifact_armor_fallback_description:2 "[SCOPE.Custom('ArtifactDecorationArmor')]。"

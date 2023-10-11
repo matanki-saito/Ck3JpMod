@@ -76,7 +76,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_TORTURER:0 "[ROOT.Char.GetHerHis]はサディスティックな性格で知られ、[ROOT.Char.GetSheHe]は拷問や切断を芸術へと昇華した。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_FAMILY_FIRST:0 "いつも[ROOT.Char.GetHerHis]の家族のためを第一に考える[ROOT.Char.GetWomanMan]である[ROOT.Char.GetSheHe]は、そのすべての子孫に輝かしい未来を約束するために[ROOT.Char.GetHerHis]の人生を捧げた。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_MYSTIC:1 "夜の大半を研究室で過ごすことで知られる[ROOT.Char.GetSheHe]は、その[ROOT.Char.Custom('ResidenceBuilding')]の秘密の中で、邪悪な呪文を作り出している魔術師以外の何者でもないと多くの人から信じられていた。"
- SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_PHYSICIAN:0 "人の身体と精神の理解に熱心だった[ROOT.Char.GetSheHe]は、自然とユーモアに関するその該博な知識のために、多くの若い学者から求められた尊敬すべき医師であった。"
+ SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_PHYSICIAN:0 "人の身体と精神の理解に熱心だった[ROOT.Char.GetSheHe]は、自然と体液に関するその該博な知識のために、多くの若い学者から求められた尊敬すべき医師であった。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_GALLANT:0 "勇気と勇敢さの模範となる[ROOT.Char.GetSheHe]は、あらゆる困難に直面しても、温厚で公正な気質であったことで、いつまでも人々に記憶されるだろう。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_LIFESTYLE_HERBALIST:1 "高名な薬草師であり、[ROOT.Char.GetSheHe]は適切な調合によってすべての病気を治すことができると言われていた。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_PERSONALITY_MALICIOUS:0 "狡猾な[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、その狭量で意地悪な性格によって、長く記憶されるだろう。"
