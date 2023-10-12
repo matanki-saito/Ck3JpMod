@@ -123,7 +123,7 @@
  court_position_skill_diplomacy:0 "[diplomacy|E]能力"
  court_position_skill_stewardship:0 "[stewardship|E]能力"
  court_position_skill_intrigue:0 "[intrigue|E]能力"
- court_position_languages:0 "既知の[languages|E]"
+ court_position_languages:0 "習得済みの[languages|E]"
  court_position_landed_penalty:0 "統治で多忙"
  court_position_skill_health:0 "良い[health|E]状態"
  court_position_physician_3_trait:1 "$court_position_physician_1_trait$"

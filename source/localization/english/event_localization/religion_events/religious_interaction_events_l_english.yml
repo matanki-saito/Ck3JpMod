@@ -68,7 +68,7 @@
  religious_interaction.2012.desc:0 "私はあなたの信仰の知恵を目にしておりますが、暗闇から光の中へ至る道のりがどれほど長く曲がりくねったものであるかもご理解いただきたく存じます。\n\nあなたが私が必要なものを何でも支援すると約束してくだされば、その旅は幾分楽なものになるでしょう。"
  religious_interaction.2012.a:0 "[ROOT.Char.GetFaith.GetNameNoTooltip]のために、どこであろうと受けいれる。"
  religious_interaction.2012.b:0 "あなたの魂のために交渉するつもりはない！"
- religious_interaction.2012.c:0 "あなたはまず、他にも返済する借金がある。"
+ religious_interaction.2012.c:0 "そもそも返すべき借りがあるのでは無いのかな？"
  religious_interaction.2021.opening:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]"
  religious_interaction.2021.desc:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]\n今こそ、私に続いて光の中へ進む時だ、我が[actor.Custom2('RelationToMe', SCOPE.sC('recipient'))]。私へのあらゆる借りを考慮し、あなたが[actor.GetFaith.GetName]に改宗することを要求する！"
  religious_interaction.2021.a:0 "私は…いいでしょう、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actor'))]。"

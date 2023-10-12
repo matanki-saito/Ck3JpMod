@@ -161,7 +161,7 @@
  CV_COURTIER_STAY_REASON:0 "$knight_culture_player$や[councillor|E][SelectLocalization( And( HasDlcFeature( 'inspirations' ), CHARACTER.HasInspiration ), 'CV_COURTIER_SPONSOR_INSPIRATION', '' )]としての雇用といった"
  RENAME_CHARACTER:0 "#I クリックで人物の名前を変更#!"
  VASSAL_SORT_POWER:0 "$CLAIMANT_SORT_STRENGTH$"
- KNOWN_LANGUAGES_TOOLTIP:1 "#T 既知の[languages|E]#!\n[Character.GetKnownLanguagesString]\n\n#weak 現在の[language_limit|E]: [Character.MakeScope.ScriptValue('current_extra_languages')|V0]/[Character.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
+ KNOWN_LANGUAGES_TOOLTIP:1 "#T 習得済みの[languages|E]#!\n[Character.GetKnownLanguagesString]\n\n#weak 現在の[language_limit|E]: [Character.MakeScope.ScriptValue('current_extra_languages')|V0]/[Character.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
  EXTENDED_RELATIONS_TOOLTIP:0 "[Character.GetRelationToStringExtended( GetPlayer )]"
  SPOUSE_DIARCH:0 "$SPOUSE$-[Character.GetDiarchTitle]"
  CHARACTER_WINDOW_GOTO_PREVIOUS_FIND_SPOUSE:0 "#T 前: [spouse|E]を探す#!"

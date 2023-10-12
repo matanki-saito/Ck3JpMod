@@ -366,7 +366,7 @@
  task_religious_relations_effect_desc_family_business_bonus_opinion:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('court_chaplain_religious_relations_opinion_max_family_business_modifier')|P]"
  FAMILY_BUSINESS_BONUS_VALUE:0 "$tradition_family_entrepreneurship_name$"
  CUSTOMS_DYNASTY_PERK_BONUS_VALUE:0 "[GetDynastyPerk('ep1_culture_legacy_2').GetName]"
- FABRICATE_CLAIM_LANGUAGE_SCHOLARS_BONUS:0 "既知の[languages|E]の数から"
+ FABRICATE_CLAIM_LANGUAGE_SCHOLARS_BONUS:0 "[languages|E]の習得数から"
  COUNCILLOR_LIEGE_IS_INDEPENDENT:0 "独立した[ruler|E]"
  task_accept_culture:0 "文化受容の促進"
  task_accept_culture_desc:0 "[county.GetProvince.GetCounty.GetCulture.GetName]と[councillor_liege.GetCulture.GetName][cultures|E]間の[cultural_acceptance|E]: [SCOPE.ScriptValue( 'task_accept_culture_progress' )|+=2]/年"

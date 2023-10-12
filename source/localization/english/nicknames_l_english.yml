@@ -451,7 +451,7 @@
  nick_the_cannibal_desc:1 "[CharYourHerHis(CHARACTER)]のよく手入れされた犬歯、そこに血が滴った笑みを[CharYourHerHis(CHARACTER)]が零す時、殆どの人は見てられないと目を背ける。"
  nick_the_dragon_desc:0 "$nick_the_dragoness_desc$"
  nick_the_devourer_desc:1 "[CharYourHerHis(CHARACTER)]の底無しの胃に幾人が飲み込まれたかを知れば、世界は震撼するだろう。"
- nick_the_bewitched_desc:1 "[CHARACTER.GetFaith.HighGodName]に禁止され、[CHARACTER.GetFaith.WitchGodName]に呪われたその名、[CHARACTER.GetShortUINameNoTooltipNoFormat]を口にするものは少ない。"
+ nick_the_bewitched_desc:1 "[CHARACTER.GetFaith.HighGodName]に禁じられ、[CHARACTER.GetFaith.WitchGodName]に呪われしその名、[CHARACTER.GetShortUINameNoTooltipNoFormat]を口にするものは少ない。"
  nick_the_witch_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は人智を超えたものを取り扱うという。"
  nick_the_unfaithful_desc:1 "[CharYourHerHis(CHARACTER)]の意見によれば結婚式の誓いなんてちょっとした心構えみたいなものらしい。"
  nick_the_unchaste_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は婚外子を作ったと考えられている。"

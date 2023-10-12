@@ -56,7 +56,7 @@
  bp2_hostage_system.0201.c: "[my_hostage.GetSheHe]がもっと大人になってから考えるとも。"
  bp2_hostage_system.0201.c.adult: "私はそうは思わないがね。"
  bp2_hostage_system.0202.t: "帰還、待ち焦がれて"
- bp2_hostage_system.0202.desc: "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hostage'))]、[hostage.GetFirstNamePossessive]の成人の誕生日を期待して待っていた。\n\n悲しきかな、[hostage_warden.GetTitledFirstNamePossessive]の計画は[hostage.GetFirstNameNoTooltip]をもう少し[hostage_warden.GetCapitalLocation.GetNameNoTooltip]に留めておこうというらしい。\n\n"
+ bp2_hostage_system.0202.desc: "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hostage'))]、[hostage.GetFirstNamePossessive]の成人の誕生日を期待して待っていた。\n\n悲しきかな、[hostage_warden.GetTitledFirstNamePossessive]の計画は[hostage.GetFirstNameNoTooltip]をもう少し[hostage_warden.GetCapitalLocation.GetNameNoTooltip]に留めておこうという魂胆らしい。\n\n"
  bp2_hostage_system.0202.a: "何か思うところがあるのだろう。"
  bp2_hostage_system.0203.t: "再び我が家へ"
  bp2_hostage_system.0203.desc: "[hostage_home_court.GetTitledFirstNamePossessive]の[hostage_home_court.Custom2('RelationToMe', SCOPE.sC('hostage'))]である[hostage.GetFirstName]を帰路につかせてからというもの、[hostage_home_court.GetHerHis]からの返事を内心不安とともに待っていた。\n\n"

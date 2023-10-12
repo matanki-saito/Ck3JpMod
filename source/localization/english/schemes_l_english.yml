@@ -81,7 +81,7 @@
  sway_action:0 "懐柔"
  sway_desc:0 "[SCHEME.GetTarget.GetShortUINameNoTooltip]に私のことを理解してもらい、気に入って貰えるように努力していきたいと思う。"
  sway_desc_general:1 "懐柔計画は他の人物のあなたへの[opinion|E]を改善することを目的とする[personal_scheme|E]です。この計画はあなた自身の[diplomacy|E]に最も依存しています。これは[hostile_scheme|E]ではないため、[secret_scheme_single|E]ではなく[agents|E]も使いません。\n\n多くの計画と異なり、懐柔は完了と共に再開します。これによって得られる評価は重複するため、この計画をアクティブに保つことで[scheme_target|E]はあなたをどんどん好きになります。"
- scheme_interaction_tt_sway_approved:2 "[recipient.GetShortUINameNoTooltip]の懐柔を試み、[recipient.GetHerHis]のあなたへの[opinion|E]を改善します"
+ scheme_interaction_tt_sway_approved:2 "[recipient.GetShortUINameNoTooltip]の懐柔を試み、あなたへの[opinion|E]を改善します"
  sway_sway_success_message:0 "[target.GetShortUINameNoTooltip]が懐柔される"
  sway_sway_failed_message:0 "[target.GetShortUINameNoTooltip]は懐柔されなかった"
  sway_continue:1 "あなたは努力を続けます"

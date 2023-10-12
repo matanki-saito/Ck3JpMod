@@ -1201,7 +1201,7 @@
  COVER_TRAVEL_EXPENSES:0 "旅費を支払う"
  join_war_interaction_already_in_target_war:0 "あなたはすでにこの戦争に参加しています"
  gift_artifact_interaction:0 "宝物を贈る"
- gift_artifact_interaction_desc:0 "宝物の一つを[recipient.GetShortUINameNoTooltip]に贈り、[recipient.GetHerHis]のあなたへの評価を向上させます"
+ gift_artifact_interaction_desc:0 "宝物の一つを[recipient.GetShortUINameNoTooltip]に贈り、あなたへの評価を向上させます"
  gift_artifact_interaction_notification:0 "宝物を贈った"
  GIFT_ARTIFACT_PROPOSAL:0 "心ばかりの贈り物をお受け取りください。私の大切な宝物でしたので、それがあなたにとっても栄誉となり、役立つことを願っております。"
  GIFT_ARTIFACT_ACCEPT:1 "承諾"

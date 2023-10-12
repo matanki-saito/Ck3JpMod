@@ -15,7 +15,7 @@
  bp2_yearly.8051.a: "「おぉ、[hostage.Custom('GetNieceNephew')]、全ては許される。」"
  bp2_yearly.8051.b: "「あなたは二度と家に手紙を書かないだろう。」"
  bp2_yearly.8051.c: "「もう二度と部屋から出られないぞ！」"
- invalidates_hostage_tt: "[hostage.GetFirstName|U]はあなたの人質でななくなった"
+ invalidates_hostage_tt: "[hostage.GetFirstName|U]はあなたの人質ではなくなりました"
  bp2_yearly.8052.t: "いじめ"
  bp2_yearly.8052.desc: "中庭は宮廷の子供達が遊び回る声で溢れている。騒々しいにも関わらず、[hostage.GetFirstName]の悲痛な叫びが私を呼び寄せるまでは妙に平穏だった。\n\n「止めてくれ！止めてくれ！[ROOT.Char.GetFirstNameNoTooltip]、[mean_child.GetFirstName]が俺を殴るのを止めない！」"
  bp2_yearly.8052.a: "[mean_child.GetFirstNameNoTooltip]はいじめをやめるべきだ。"
