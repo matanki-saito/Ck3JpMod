@@ -825,7 +825,7 @@
  recruit_guest_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]をあなたの[courtier|E]として雇う"
  recruit_guest_interaction_extra_icon:0 "$hook_extra_icon$"
  kick_from_court_interaction:0 "放逐"
- kick_from_court_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]を[wanderer|E]に変えあなたの[court|E]から[recipient.GetHerHim]を追い出します"
+ kick_from_court_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]を[court|E]から追い出して[wanderer|E]にします"
  kick_from_court_interaction_desc_guest:0 "[recipient.GetShortUINameNoTooltip]をあなたの[court|E]から追い払います"
  kick_from_court_councillor_warning_tt:0 "@warning_icon!#X [kicked.GetShortUIName]は私の[kicked.GetCouncilTitle]です#!"
  kick_from_court_claimant_warning_tt:0 "@warning_icon!#X [kicked.GetShortUIName]は[kicked_claim.GetName]への請求権を持っています#!"

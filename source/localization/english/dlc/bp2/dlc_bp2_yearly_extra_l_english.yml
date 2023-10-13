@@ -1,7 +1,7 @@
 ﻿l_english:
  bp2_yearly_extra.0001.t: "大好きな評議員"
- bp2_yearly_extra.0001.desc: "Fascinating and intriguing. I have been watching the council at work, and one councilor in particular [ROOT.Char.Custom2( 'RelationToMe', target_councilor )], [target_councilor.GetTitledFirstName], has caught my interest.\n\nIt is clear to me that we share the same passions. I find myself spending more and more time with the council."
+ bp2_yearly_extra.0001.desc: "魅力的で興味深い。私は評議会の活動を見守っており、特に評議員である[ROOT.Char.Custom2( 'RelationToMe', target_councilor )]の[target_councilor.GetTitledFirstName]に興味を持ちはじめた。\n\nどうも我らは同じ情熱を共有していることは明らかだ。私は評議会と一緒に過ごす時間がますます増えてきた。"
  bp2_yearly_extra.0001.a: "力になりたい！"
- bp2_yearly_extra.0001.a.tt: "Helping or making a mess? Getting your hands dirty will make you learn. "
+ bp2_yearly_extra.0001.a.tt: "助けて、ともに試行錯誤するか？手を動かすことが学びの一歩だろう。"
  bp2_yearly_extra.0001.b: "ただ彼らの仕事を見ていたい。"
- bp2_yearly_extra.0001.b.tt: "It is always safer to stand back and take some notes."
+ bp2_yearly_extra.0001.b.tt: "無難に後ろでメモでも取っておこう。"

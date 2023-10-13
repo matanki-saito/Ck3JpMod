@@ -355,7 +355,7 @@
  game_concept_house_heads:0 "家長"
  game_concept_house_head_head:0 "指導者"
  game_concept_house_head_desc:1 "[dynasty|E]内の[house|E]にはそれぞれ$game_concept_house_head$が存在し、家の一員に対して独特の権力を発揮します。\n\n特に言えば、家長は[bastards|E]を認知することが出来たり、家の一員を[war|E]に呼んだり、[landed|E]の一員に対して改宗を要求できます。家長はその地位にいる間に生まれた家の全員に対して[weak_hook|E]を得ます。"
- game_concept_denounce:0 "非難する"
+ game_concept_denounce:0 "非難"
  game_concept_denouncement:0 "非難"
  game_concept_denounce_desc:1 "[dynast|E]は[dynasty_prestige|E]を使用し[dynasty|E]のメンバーを非難できます。\n\n同じ王朝のメンバー(王朝の当主自身を含む)は非難されたメンバーに対して[imprisonment_reason|E]を得ます。"
  game_concept_hook:0 "フック"
