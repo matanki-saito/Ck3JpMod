@@ -366,7 +366,7 @@
  fund_inspiration.2080.t:0 "$fund_inspiration.title$ 創造の自由"
  fund_inspiration.2080.antiquarian:0 "「これは馬鹿げている！」[rival.GetTitledFirstName]は抗議する。「[ROOT.Char.GetTitleAsNamePossessiveNoTooltip]の個人コレクションの管理者として、私はあなたの作品の品質を保証する責任があるのだ！」"
  fund_inspiration.2080.artificer:0 "「これは馬鹿げている！」[rival.GetTitledFirstName]は抗議する。「私は[ROOT.Char.GetTitleAsNameNoTooltip]の信頼ある職人だ！ただ作品さえ見せてもらえれば、何か助けることもできるだろう！」"
- fund_inspiration.2080.desc:0 "\n\n「完成したらあなたはそれを見るだろうよ！」[inspiration_owner.GetTitledFirstName]は言い返す。「作っているものが王室にふさわしいのであれば、あなたは[inspiration_owner.GetHerHis]の仕事にその[inspiration_owner.GetWomanMan]を専念させるべきだ！」"
+ fund_inspiration.2080.desc:0 "\n\n「完成したら見られるだろうよ！」[inspiration_owner.GetTitledFirstName]は言い返す。「作っているものが王室にふさわしいのであれば、あなたは[inspiration_owner.GetHerHis]の仕事にその[inspiration_owner.GetWomanMan]を専念させるべきだ！」"
  fund_inspiration.2080.a:0 "「[antiquarian.GetFirstNameNoTooltip]はその品質を保証する#EMP だろう#!、[inspiration_owner.GetFirstNameNoTooltip]。」"
  fund_inspiration.2080.b:0 "「自分の職務に専念しなさい、[antiquarian.GetFirstNameNoTooltip]。」"
  fund_inspiration.2080.success:0 "[antiquarian.GetFirstNameNoTooltip]は[inspiration_owner.GetFirstNamePossessiveNoTooltip]の仕事を向上させる"

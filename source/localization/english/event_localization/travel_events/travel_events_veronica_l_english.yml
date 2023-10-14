@@ -131,7 +131,7 @@
  travel_events.3030.e:0 "[foreign_lady_scope.GetHerHis|U]の目は美しく、[foreign_lady_scope.GetHerHis]の髪は柔らかげで…"
  travel_events.3030.f:0 "愛が#EMP 憎い#!。彼らの首を刎ねろ。"
  travel_events.3040.t:0 "$travel_event_prefix$ 危険な興味"
- travel_events.3040.desc:1 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に到達して以来、毎朝、[bishop.Custom2('MyCharacterIntroduction', ROOT.Char)]は[bishop.GetHerHis]のわらを残し、静かに私の視界から消えていく。今回こそ[bishop.GetHerHis]の行く先を見つけ出そうと決心した私は、[bishop.GetHerHim]が地元の[foreign_bishop.Custom('GetActualBishopTitle')][foreign_bishop.GetFirstName]と活発に話をしている姿を見つける。\n\n式典が始まり、蝋燭の光が[foreign_bishop.GetFirstNameNoTooltip]を照らし、壁に影が紅葉のように浮かび上がる。「[bishop.GetFirstNameNoTooltip]」礼拝が終わった後、私は彼を呼ぶ。「何をしているんだ？」\n\n「閣下、真実とは一つではないのかもしれませんね。」"
+ travel_events.3040.desc:1 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に到着して以来、毎朝、[bishop.Custom2('MyCharacterIntroduction', ROOT.Char)]は寝床をそのままに、静かに私の視界から消え去っていた。今度こそ行く先を突き止めようと決心した私は、[bishop.GetFirstNameNoTooltip]が地元の[foreign_bishop.Custom('GetActualBishopTitle')][foreign_bishop.GetFirstName]と活発に話をしている姿を見つける。\n\n典礼が始まると、蝋燭の光が[foreign_bishop.GetFirstNameNoTooltip]を照らす。その影が枯れ葉のように壁に浮かび上がる。「[bishop.GetFirstNameNoTooltip]」礼拝が終わった後、私は呼びかけた。「何をしているんだ？」\n\n「閣下、ふとこんな考えが思い浮かんだのです、真実とは一つではないのかもしれない、と。」"
  travel_events.3040.a:0 "確かに式典は印象深いものだった…"
  travel_events.3040.b:0 "これはありえない！#EMP ありえない！#!"
  travel_events.3040.c:0 "ここは冷静に議論する余地がある。"

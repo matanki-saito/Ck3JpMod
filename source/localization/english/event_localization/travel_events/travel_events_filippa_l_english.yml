@@ -328,7 +328,7 @@
  trainee_salary_mod:0 "安い給与"
  travel_events.2028.c:0 "それは…素敵だな…これからも頑張ってくれ。"
  travel_events.2029.t:1 "$travel_event_prefix$ 覚醒"
- travel_events.2029.desc:1 "我々が[ROOT.Char.GetCurrentLocation.GetName]の南にある穀物畑に到着すると、日も暮れたというのに[crop_circler.GetFirstName]が懸命に働いている。[crop_circler.GetSheHe|U]は、大きな平らな木片と重い石を使って、あっという間に作物を平らにしていく。\n\n私は、その[crop_circler.GetWomanMan]が労働しているのを見て顔をしかめ、[crop_circler.GetSheHe]に一体何をしようとしているのかと尋ねる。\n\n[crop_circler.GetSheHe|U]はたじろぎ、そして、偽りの[crop_circler.GetFaith.GetReligion.GetAdjectiveNoTooltip]の教えの後ろに隠れるのではなく、我々全員が目を覚まして真の主人に会う必要があるということについて長い説教を始めるのだった。私は驚いて数歩後ずさりする。"
+ travel_events.2029.desc:1 "我々が[ROOT.Char.GetCurrentLocation.GetName]の南にある穀物畑に到着すると、日も暮れたというのに[crop_circler.GetFirstName]という[crop_circler.GetWomanMan]が懸命に働いていた。[crop_circler.GetSheHe|U]は、大きく平らな木片と重い石を使って、あっという間に作物を平らにしていた。\n\n私は、その[crop_circler.GetWomanMan]の仕事ぶりを見て顔をしかめ、一体何をしようとしているのかと尋ねる。\n\n[crop_circler.GetSheHe|U]はたじろぐも、長口上を熱くうち始めた。曰く、偽りの[crop_circler.GetFaith.GetReligion.GetAdjectiveNoTooltip]の教えの後ろに隠れるのではなく、我々全員が目を覚まして真の指導者に会う必要がある、と。私は驚きのあまり、何歩か後ずさる。"
  travel_events.2029.a:1 "やめろ、この異端者め！"
  travel_events.2029.b:0 "よくも[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]を汚したな！"
  travel_events.2029.c:0 "#EMP 真の主人#!とやらについてもっと教えてくれ。"
