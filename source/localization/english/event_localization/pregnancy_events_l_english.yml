@@ -130,7 +130,7 @@
  pregnancy.6005.a:0 "[real_father.GetFirstNameNoTooltip]、よくもこんなことができたな？"
  pregnancy.6006.t:0 "すべての疑いを超えて"
  pregnancy.6006.desc:1 "[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[mother.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]のお腹にいる子供の実父であると告発された！"
- pregnancy.6006.real_father_married:1 "\n\n[real_father.GetSheHe]は、[spouse.Custom2('HerHisCharacterIntroduction', SCOPE.sC('real_father'))]と契りを交わした[real_father.GetHerHis]の結婚を大切に考えていないのだろうか？"
+ pregnancy.6006.real_father_married:1 "\n\n[real_father.GetSheHe]は自らの結婚を、[spouse.Custom2('HerHisCharacterIntroduction', SCOPE.sC('real_father'))]と交わした契りを、大切だとは考えていないということか？"
  pregnancy.6006.real_father_unmarried:1 "[real_father.GetSheHe]は、[real_father.GetHerHis]の家族の名誉について何も考えなかったのだろうか？"
  pregnancy.6006.a:0 "この庶子は我々にとって何を意味するのだろうか？"
  pregnancy.6999.t:0 "別の男によって"
