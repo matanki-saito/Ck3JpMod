@@ -31,7 +31,7 @@
  modifier_hunt_resisted_advances:0 "誘惑への抵抗"
  modifier_hunt_resisted_advances_desc:0 "この人物は誘惑のセイレーンの歌に抵抗した。"
  hunt_mediated_fight_modifier:0 "調停者"
- hunt_mediated_fight_modifier_desc:0 "この人物は、喧嘩する2人の間でうまく交渉することができた。これは貴重な教訓だ。"
+ hunt_mediated_fight_modifier_desc:0 "この人物は、喧嘩する二人の間でうまく交渉することができた。これは貴重な教訓だ。"
  hunt_protected_peasants_modifier:0 "守られた農民"
  hunt_protected_peasants_modifier_desc:1 "この領域の農民たちは保護されていると感じている。"
  hunt_disturbed_locals_modifier:0 "動揺した領民"

@@ -139,7 +139,7 @@
  court.6072.b.tt:0 "確かに見栄えは良いですが、署名した内容を読んでいないという事実を覆い隠すことはできません"
  court.6072.c:0 "全てはお前のせいだ、[tutor_6070.GetFirstNameNoTooltip]！"
  court.6080.t:0 "[6080_visitor.GetFirstNameNoTooltip]の気前のよさ"
- court.6080.desc:0 "ここ数日、隣国の[6080_visitor.GetTitledFirstName]が聖地か何かへ行く途上で、私の宮廷を訪れている。\n\n[6080_visitor.GetHerHis]の到着以来、[6080_visitor.GetSheHe]は、私の廷臣に対する気前のよさで私を凌駕し、今や彼らは威厳もなく[6080_visitor.GetHerHis]の金を舐め回している！崇拝する廷臣たちに囲まれた[6080_visitor.GetHerHim]を何度も見たとき、私は嘲笑を隠せない。それは#EMP 私の#!廷臣なのだ。\n\n「あなたにはこの財布を、良き[beneficiary_1.GetFirstName]！"
+ court.6080.desc:0 "ここ数日、隣国の[6080_visitor.GetTitledFirstName]が聖地かどこかへ行く途上で、私の宮廷に滞在している。\n\n[6080_visitor.GetSheHe]は、ここへ到着して以来、私の廷臣らへの気前のよさで主たる私よりも注目を集めている。幾人もの廷臣が今や、品位の欠片もなく[6080_visitor.GetHerHis]の金を前に涎を垂らさんばかり！崇拝する者に囲まれた[6080_visitor.GetHerHim]を何度も目にするなかで、私は呆れ笑いを隠せないでいた。#EMP 私の#!廷臣なのだぞ。\n\n「あなたにはこの財布を、良き[beneficiary_1.GetFirstName]！"
  court.6080.desc_2:0 "このコインもあなたに、親切な[beneficiary_2.GetFirstName]！"
  court.6080.desc_3:0 "甘い[beneficiary_child.GetFirstName]、あなたには甘いハニーケーキを！"
  court.6080.desc_end:0 "忘れないでおくれ、富は分かち合うものなのだ！」"
