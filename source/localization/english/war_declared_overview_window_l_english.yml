@@ -9,7 +9,7 @@
  war_declared_flavor.zealous.fallback:2 "敗北など決してあり得ない。[ROOT.Char.GetFaith.HighGodName]は我らとともにある！"
  war_declared_flavor.naughty:0 "随分と悪い子に育ったものだ。せいぜい戦いの用意を済ませておくがいい。貴様のその振る舞いを、戦場で叩き直してやる！"
  war_declared_flavor.holy_war:1 "民に異端の教えを吹き込み、闇へと落とした不届き者め。[ROOT.War.GetActiveCB.GetAttacker.GetFaith.HighGodName]の名において貴様に裁きを下し、民を真の教えに目覚めさせてやる！"
- war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]ただその地を譲るだけで良いのだと、余は何度も申してきたではないか。だがおぬしが寄越した返事は拒絶だけだった。もはや堪忍ならぬ！力尽くで手に入れるとしよう！"
+ war_declared_flavor.greedy:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]ただその地を譲るだけで良いのだと、私は何度も申してきたではないか。だがおぬしが寄越した返事は拒絶だけだった。もはや堪忍ならぬ！力尽くで手に入れるとしよう！"
  war_declared_flavor.dejure:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)]そなたが不法に占拠している土地は、本来私の正当な領地なのだ。今こそ真の支配者に返してもらおうか！"
  war_declared_flavor.subjugation:0 "余の軍門に降れ。さすれば余もおぬしを許そう。だが、余に歯向かうならば、相応の報いを受けることになるだろう！"
  war_declared_flavor.subjugation.tribal:0 "弱者は敗れ、強者が勝つ。貴様はそれ以外の理由が必要だと言うのかね！"

@@ -326,7 +326,7 @@
  action_can_demand_payment:1 "@cs_weak_hook_icon! 支払いの要求が可能"
  action_can_demand_payment_combined_group_label:1 "@cs_weak_hook_icon! 支払いを要求できます"
  action_can_demand_payment_combined_group_name:0 "$action_can_demand_payment_combined_group_label$"
- action_can_demand_payment_desc:2 "[hook|E]を使うことで[gold|E]を支払うように[recipient.GetUIName]に対して要求することが出来ます。\n\n[recipient.GetSheHe|U]は現在、@gold_icon!#V [recipient.MakeScope.ScriptValue('golden_obligation_value_check_current_situation')|0]/[recipient.MakeScope.ScriptValue('golden_obligation_value')|0]#!の要求可能なゴールドを持っています。$action_can_demand_payment_HELP$"
+ action_can_demand_payment_desc:2 "[hook|E]を使うことで[gold|E]を支払うように[recipient.GetUIName]に対して要求することが出来ます。\n\n[recipient.GetSheHe|U]は現在、@gold_icon!#V [recipient.MakeScope.ScriptValue('golden_obligation_value_check_current_situation')|0]/[recipient.MakeScope.ScriptValue('golden_obligation_value')|0]#!の所持金額/要求可能金額を持っています。$action_can_demand_payment_HELP$"
  action_can_demand_payment_combined_group_description:1 "[hooks|E]を使うことで[gold|E]を支払うように要求することが出来ます。$action_can_demand_payment_HELP$"
  action_can_demand_payment_label:1 "@cs_weak_hook_icon! あなたの[actor.Custom2('RelationToMe', recipient)]である[recipient.GetShortUINameNoTooltip]から @gold_icon!#V [recipient.MakeScope.ScriptValue('golden_obligation_value_check_current_situation')|0]/[recipient.MakeScope.ScriptValue('golden_obligation_value')|0]の支払いを要求出来ます。#!"
  action_can_demand_payment_combined_label:1 "あなたの[actor.Custom2('RelationToMe', recipient)][recipient.GetUINameNoTooltip]、@gold_icon!#V [recipient.MakeScope.ScriptValue('golden_obligation_value_check_current_situation')|0]/[recipient.MakeScope.ScriptValue('golden_obligation_value')|0]#!"
