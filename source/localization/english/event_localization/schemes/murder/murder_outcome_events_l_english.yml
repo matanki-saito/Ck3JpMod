@@ -213,7 +213,7 @@
  murder_outcome.5001.gang_of_thugs:0 "暗い森の中を従者と共に旅していると、悪党の一団に襲われる。彼らが金よりも我々の命に関心があるのはすぐに明らかとなり、私の部下たちは勇敢に戦ったが、悪党どもは奇襲を得意としていた。\n\n私は安全だと感じるまで出来る限りの速さで走る。その時、戦いの騒ぎの向こうから一つの弓の弦の澄み切った音が聞こえてくる。"
  murder_outcome.5001.hired_assassin:0 "真夜中に目を覚ますと、私の部屋に暗い人影が見えた。護衛たちに何が起こったのかは分からないが、月の光が刃に反射してキラリと光るのを見たとき、もう手遅れだと悟った。\n\n十分に鋭利な短剣は身体を貫く時にはほとんど音を立てず、悶絶するような痛みが走る中で、自分の悲鳴がもう聞こえているかどうかさえ分からなかった。"
  murder_outcome.5001.creepy_crawly_intro:0 "足に何かが掠るのを感じた瞬間上掛けを払いのけたが、その素早い動きは[SCOPE.Custom('VenomousCreatureType')]を煽るだけだ。"
- murder_outcome.5001.creepy_crawly_known:0 "暗い部屋の中でも、私は[SCOPE.Custom('VenomousCreature')]の姿を認める。どうやって私のベットの中へ入り込んだのだろう？"
+ murder_outcome.5001.creepy_crawly_known:0 "暗い部屋の中でも、私は[SCOPE.Custom('VenomousCreature')]の姿を認める。どうやって私のベッドの中へ入り込んだのだろう？"
  murder_outcome.5001.creepy_crawly_unknown:0 "[SCOPE.Custom('VenomousCreatureType')]は機敏に差し迫ると、毒牙を突き立てた。"
  murder_outcome.5001.creepy_crawly_end:0 "最初はかろうじてその[SCOPE.Custom('VenomousCreatureAttack')]を感じることができただけだったが、すぐに体中に焼けるような痛みが流れる。私は助けを求めるが、最高の侍医がそばにいるにもかかわらず、世界はゆっくりと私から遠ざかっていく。"
  murder_outcome.5001.riled_up_mob:0 "私が[home_province.GetNameNoTier]の通りを馬で駆けていると、怒鳴り声と叫び声を上げる農民の群衆が私の従者に襲いかかってきた。何が起こったかわからない間に、農民たちは私を馬から引き摺り下ろして殴り始める。衛兵の叫び声が聞こえてくるが、彼らが私の元に到着するずっと前に、世界が私の視界から消えていく。"

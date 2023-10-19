@@ -1,5 +1,5 @@
 ﻿l_english:
- pay_homage_decision:0 "忠誠を誓う"
+ pay_homage_decision:0 "忠誠の誓い"
  pay_homage_decision_desc:0 "私は公的かつ儀礼的に我が主君に忠誠の誓いを行なえる。それは相互の信頼を深め、地位を強化する。"
  pay_homage_decision_tooltip:0 "儀礼としてあなたの[liege|E]に[pay_homage|E]を誓約します"
  pay_homage_decision_effects:0 "あなたは忠誠の誓いをするために[THIS.Char.GetLiege.GetTitledFirstNamePossessive]の宮廷に旅立つ"
@@ -12,7 +12,7 @@
  petition_available_adult_tt:0 "有用な成人である"
  petition_available_liege_tt:0 "[THIS.Char.GetLiege.GetTitledFirstName]は有用な成人である"
  pay_homage_decision_option_submission:0 "服従を証する\n#low 何も与えない#!"
- pay_homage_submission_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]はあなたによる[pay_homage|E]の誓いだけを受け容れるでしょう"
+ pay_homage_submission_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]はあなたによる[pay_homage|E]だけを受け容れるでしょう"
  pay_homage_submission_tooltip:0 "$pay_homage_decision_second_tooltip$"
  pay_homage_decision_option_gold:0 "…そして贈り物を授ける\n#low [gold|E]を与える#!"
  pay_homage_gold_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]はあなたから[gold|E]の贈り物を受け取るでしょう"

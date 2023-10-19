@@ -856,7 +856,7 @@
  found_kingdom_of_livonia_decision_desc:0 "バルト人は何世紀もの間、自分たちの王国と呼べるものを持たずにいた。この荒涼とした未開の地の部族と共通点のない異教徒の信仰は長い間アイデンティティを持たなかったが、おそらくそれを私はすべて変えるだろう…"
  found_kingdom_of_livonia_decision_tooltip:0 "リヴォニアは[de_jure|E]の[kingdom|E]になります"
  found_kingdom_of_livonia_decision_confirm:0 "すべてのバルト人の[ROOT.Char.GetLadyLord|U]よ！"
- introduce_a_new_fashion_at_court_decision:0 "宮廷に流行のファッションを取り入れる"
+ introduce_a_new_fashion_at_court_decision:0 "宮廷への流行ファッションの取り入れ"
  introduce_a_new_fashion_at_court_decision_desc:0 "我々のものほど洒落た宮廷はない！宮廷はファッションの激戦区であり、貴族の間での新しい流行を確立するため、私なりに努力する時がやってきた…"
  introduce_a_new_fashion_at_court_decision_tooltip:0 "[prestige|E]のため、宮廷に新しいファッションを取り入れることを試みます"
  introduce_new_fashion_duel_tooltip:0 "宮廷の人物はあなたのスタイルが実施されないように[diplomacy|E]で決闘しようとすることがあります。"

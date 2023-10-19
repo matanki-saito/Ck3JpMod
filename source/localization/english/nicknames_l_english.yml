@@ -466,7 +466,7 @@
  nick_the_spider_desc:0 "ここでは気をつけろ、と彼らは言う。どこに行っても貴方は$nick_the_spider$の糸の上なのだから。"
  nick_the_fox_desc:1 "狡猾で、抜け目なく、野心的。[CharYourHerHis(CHARACTER)]の美徳は騎士道に反するかもしれないが、とても#EMP 効果的#!だ。"
  nick_the_shrewd_desc:1 "[CharYouSheHe(CHARACTER)]とカードで遊ぶのはやめておけ。奴は生粋のイカサマ師だ。"
- nick_the_gracious_desc:1 "[CharYourHerHis(CHARACTER)|U]の素晴らしいマナー、高貴な立ち居振る舞い、そして堂々とした耽溺。それこそが[CHARACTER.GetShortUINameNoTooltipNoFormat]が卓上の名士である理由なのです。"
+ nick_the_gracious_desc:1 "その素晴らしい作法、高貴な立ち居振る舞い、そして堂々とした寛恕。それこそが[CHARACTER.GetShortUINameNoTooltipNoFormat]が卓上の名士である理由なのです。"
  nick_the_magnanimous_desc:1 "[CharYouSheHe(CHARACTER)]が恩を仇で返すという話は全く聞かない。"
  nick_the_architect_desc:1 "ほとんどの人はレンガと木材に労働者の仕事を見るが、[CharYouSheHe(CHARACTER)|U]が見るのはその#EMP 可能性#!だ"
  nick_the_wise_desc:1 "[CharYourHerHis(CHARACTER)]の意見は聞いておいて損は無い。[CharYouSheHe(CHARACTER)]が意見してくれるかは別として。"

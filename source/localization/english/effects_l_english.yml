@@ -1300,7 +1300,7 @@
  CASUS_BELLI_COST_PERK_REDUCTION:0 "[casus_belli|E]コスト: #P -[EmptyScope.ScriptValue('bellum_justum_discount_percentage')|0]%#!"
  CASUS_BELLI_COST_DYNASTY_PERK_REDUCTION:0 "[casus_belli|E]コスト: #P -20%#!"
  PERK_CAN_SIGN_ALLIANCE:0 "[marriage|E]なしで[alliance|E]を提案できます"
- PERK_TRUCE_BREAKING_COST_REDUCTION:0 "[truces|E]を短くしそれらを破棄した時の[prestige|E]ペナルティがなくなります"
+ PERK_TRUCE_BREAKING_COST_REDUCTION:0 "[truces|E]を短期化し、停戦破棄時の[prestige|E]ペナルティを無くします"
  EACH_ALLIANCE_GRANTS_DIPLOMACY:1 "[alliance|E]毎に付与: [diplomacy_i]#P +1#!(最大[EmptyScope.ScriptValue('embassies_max')|0]まで)"
  FABRICATE_CLAIM_SPEED_GAIN:1 "[fabricate_claim|E]速度: #P +[EmptyScope.ScriptValue('accomplished_forger_percentage')|0]%#!\n[buy_artifact_claim_interaction|E]をアンロック"
  UNLOCK_BEFRIEND_SCHEME:1 "[GetScheme('befriend').GetTypeName][scheme|E]をアンロックします"
