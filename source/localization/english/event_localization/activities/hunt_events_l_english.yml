@@ -1511,7 +1511,7 @@
  hunt_abduct_failure_key_title:0 "$hunt_abduct_defer_key_title$"
  hunt_abduct_failure_key:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]の誘拐に失敗した"
  hunt_arrow_dimiss_log_title:0 "$hunt.7800.t$"
- hunt_arrow_dimiss_log:0 "[CHARACTER.GetShortUIName|U]は、[CHARACTER.GetHerHim]に当たりそうになった矢を偶然だとして退けた"
+ hunt_arrow_dimiss_log:0 "[CHARACTER.GetShortUIName|U]は、[CHARACTER.GetHerHim]に当たりそうな矢を寸前で避けた"
  hunt_arrow_investigate_log_title:0 "$hunt_arrow_dimiss_log_title$"
  hunt_arrow_investigate_log:0 "[CHARACTER.GetShortUIName|U]は、[CHARACTER.GetHerHim]に当たりそうだった矢を誰が放ったのか特定できなかった"
  hunt_arrow_flee_log_title:0 "$hunt_arrow_dimiss_log_title$"

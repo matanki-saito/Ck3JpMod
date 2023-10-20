@@ -69,7 +69,7 @@
  befriend_outcome.0002.t:0 "[owner.GetTitledFirstNamePossessiveNoTooltip]との友情"
  befriend_outcome.0002.critsucc.desc:0 "[owner.GetTitledFirstName]とここ数年でこれほど親しくなるとは思ってもいなかった。\n\n何度も何度も、[owner.GetSheHe]は[owner.GetHerselfHimself]が信頼できて率直な[owner.GetWomanMan]であることを証明してくれて、私の最善の利益だけを念頭に置いてくれている。"
  befriend_outcome.0002.succ.desc:0 "[owner.GetTitledFirstName]と私との共通点がどれだけ多いか、私は実感し始めている。加えて、ここ数ヶ月に渡って自ら証明した、どれだけ[owner.GetSheHe]が頼れるか存在か、という点にも私は気づき始めている。"
- befriend_outcome.0002.fail.desc:1 "[owner.GetHerHis]が何度も私を口説こうとしているのは気づかずにはいられなかったし、[owner.GetTitledFirstNamePossessive]が突然私に関心を寄せてきたことにはイライラせずにはいられない。\n\nそして、[owner.Custom('WomanManPossessive')]の意図が純粋ではないという感情を私は捨て去ることができない…"
+ befriend_outcome.0002.fail.desc:1 "[owner.GetHerHis]が何度も私を口説こうとしているのは気づかずにはいられなかったし、[owner.GetTitledFirstNamePossessive]が突然私に関心を寄せてきたことにはイライラせずにはいられない。\n\nそして、[owner.Custom('WomanManPossessive')]意図が純粋ではないという疑念を私は捨て去ることができない…"
  befriend_outcome.0002.critfail.desc:1 "[owner.GetHerHis]が何度も私を口説こうとしているのは気づかずにはいられなかったし、[owner.GetTitledFirstNamePossessive]が突然私に関心を寄せてきたことにはイライラせずにはいられない。\n\nどちらかと言えば、[owner.GetHerHis]の私を感動させたいという強迫観念と、[owner.GetHerHis]の捏造された愛情の失態を見せることで、私は[owner.GetHerHim]をより一層嫌いになっただけだ。"
  befriend_outcome.0002.a:0 "真の友はまことに得難きものだ。"
  befriend_outcome.0002.b.success:0 "もっと一緒に過ごそう！"

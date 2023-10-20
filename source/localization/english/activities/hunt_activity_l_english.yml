@@ -224,7 +224,7 @@
  hunt_kill_critical_failure_bow_tt:0 "獣は逃げ出した"
  hunt_kill_miss_bow_tt:0 "矢は外れた"
  hunt_quarry_selected_log_title:0 "獲物を狩った"
- hunt_quarry_selected_log:1 "[CHARACTER.GetShortUIName|U]により一行は[CHARACTER.GetInvolvedActivity.Custom('GetAnimalArticle')][CHARACTER.GetInvolvedActivity.Custom('GetAnimalType')]を狩ると決まった"
+ hunt_quarry_selected_log:1 "[CHARACTER.GetShortUIName|U]一行は[CHARACTER.GetInvolvedActivity.Custom('GetAnimalArticle')][CHARACTER.GetInvolvedActivity.Custom('GetAnimalType')]を狩ることにした"
  hunt_chase_method_selected_log_title:0 "狩猟方式"
  hunt_chase_method_selected_log:1 "[CHARACTER.GetShortUIName|U]は[CHARACTER.GetInvolvedActivity.Custom('GetAnimalType')]を追いかけ、追い詰めることを決めた"
  hunt_quarry_legendary_log_title:0 "獲物を狩った"

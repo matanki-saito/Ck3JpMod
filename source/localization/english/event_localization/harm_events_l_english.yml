@@ -166,7 +166,7 @@
  harm.0571.c.tt.success:0 "$harm.0000.tt.incapable.success$"
  harm.0571.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
  harm.0572.t:0 "$harm.0571.t.prefix$: ちょっとした事故"
- harm.0572.desc:0 "[ROOT.Char.GetCurrentLocation.GetName]の私の住まいの中で、[sparring_partner.GetTitledFirstName]と剣の鍛錬を踊るようにしている。戦場なら[sparring_partner.GetHerHim]は1000は死んでそうな出来だが。\n\nどうにも[sparring_partner.GetSheHe|U]は私ほどの戦士ではないようだ。\n\nそれでも戦場にて私の勇名を轟かすためには必要な時間…[ROOT.Char.GetFaith.WarGodName]にかけて！このバカが私の頭骨を砕くところだった！"
+ harm.0572.desc:0 "[ROOT.Char.GetCurrentLocation.GetName]の私の住まいの中で、[sparring_partner.GetTitledFirstName]と踊るような剣の鍛錬に励んでいる。戦場なら[sparring_partner.GetHerHim]は千は死に瀕することになるだろう。\n\nどうにも[sparring_partner.GetSheHe|U]は私ほどの戦士ではないようだ。\n\nそれでも戦場にて私の勇名を轟かすためには必要な時間だ……[ROOT.Char.GetFaith.WarGodName]にかけて！このバカが私の頭骨を砕くところだった！"
  harm.0572.a:0 "気をつけろ、殺す気か！"
  harm.0572.a.tt:0 "#WEAK もっとひどい目に合うかもしれませんけどね…#!"
  harm.0581.t.prefix:0 "たまには一人で"
