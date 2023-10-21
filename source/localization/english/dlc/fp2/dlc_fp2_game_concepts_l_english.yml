@@ -35,7 +35,7 @@
  game_concept_struggle_phase_iberia_hostility_desc:2 "この$game_concept_struggle_phase_phase$では、緊張が高まり、冷静さが失われます。[struggle_phase_iberia_opportunity|E]の間を通して繰り返された悪意ある行為と膨らんだ誤解は、[cultures|E]もしくは[faiths|E]（または#EMP さらに酷くは#!両方）の異なる相手への憎悪の増大につながります。\n\nしかし、そのような流血はいつまでも存続できません。 最終的には、冷静な思考または単なる疲弊が、イベリア半島を[struggle_phase_iberia_compromise|E]に導きます。"
  game_concept_struggle_phase_iberia_compromise:1 "妥協フェイズ"
  game_concept_struggle_phase_iberia_compromise_desc:2 "$game_concept_struggle_phase_iberia_compromise$は、イベリアの人々の間で育まれる和解を表しています。それが[struggle_phase_iberia_hostility|E]の紛争から来る戦争疲れによるものであろうと、あるいは[struggle_phase_iberia_conciliation|E]を通した平和的で巧妙な勢力拡大の結果であろうと、 $game_concept_struggle_phase_iberia_compromise$では、お互いの違いは脇に追いやられ、共通の歴史と遺産はかつての敵を結びつけます。\n\nイベリア半島はここで岐路に立っており、もし紛争が再発したならば、そのときは[struggle_phase_iberia_opportunity|E]が待ち構えています。"
- game_concept_struggle_phase_iberia_conciliation:1 "調停フェイズ"
+ game_concept_struggle_phase_iberia_conciliation:1 "和解フェイズ"
  game_concept_struggle_phase_iberia_conciliation_desc:1 "この$game_concept_struggle_phase_phase$は、興味深い[struggle_phase_iberia_compromise|E]の産物です。調停$game_concept_struggle_phase_phase$の間を通して、イベリアの人々の関係はとても友好的なものとなり、[faith|E]間の[marriages|E]は特によく見られます。それは部外者が彼らの寛容さを解釈しがたいと感じるほどです。 \n\nただし、これはいつまでも続くものではありません。信頼関係は悪用され、最後には[iberian_struggle|E]は[struggle_phase_iberia_compromise|E]に引き戻されます。"
  game_concept_struggle_involved_faith:0 "関係勢力の宗派"
  game_concept_struggle_involved_faiths:0 "関係勢力の諸宗派"

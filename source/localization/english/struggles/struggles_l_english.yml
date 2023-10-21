@@ -7,7 +7,7 @@
  struggle_iberia_phase_hostility_desc:0 "$game_concept_struggle_phase_iberia_hostility_desc$"
  struggle_iberia_phase_compromise:0 "妥協"
  struggle_iberia_phase_compromise_desc:0 "$game_concept_struggle_phase_iberia_compromise_desc$"
- struggle_iberia_phase_conciliation:0 "調停"
+ struggle_iberia_phase_conciliation:0 "和解"
  struggle_iberia_phase_conciliation_desc:0 "$game_concept_struggle_phase_iberia_conciliation_desc$"
  CURRENT_PHASE:0 "現在のフェイズ"
  PHASE_EFFECTS_HEADER:0 "フェイズ効果"

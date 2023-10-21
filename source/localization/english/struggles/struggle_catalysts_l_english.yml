@@ -45,7 +45,7 @@
  catalyst_conducted_border_raid_desc:1 "他の$game_concept_struggle_involved$ $game_concept_character$が保有する隣接する[county|E]で[border_raids|E]を開始します"
  catalyst_learned_new_language_important:0 "[language|E]学習の[struggle_catalyst_catalyst|E]"
  catalyst_learned_new_language_important_desc:2 "[struggle_involved|E]である[ruler|E]の[language|E]を学習する"
- catalyst_toledo_council_conciliation:0 "$fp2_small_council_modifier$調停の[struggle_catalyst_catalyst|E]"
+ catalyst_toledo_council_conciliation:0 "$fp2_small_council_modifier$和解の[struggle_catalyst_catalyst|E]"
  catalyst_toledo_council_conciliation_desc:0 "トレド評議会はイベリアの平和を促進することを決定します"
  catalyst_toledo_council_compromise:0 "$fp2_small_council_modifier$妥協の[struggle_catalyst_catalyst|E]"
  catalyst_toledo_council_compromise_desc:0 "$catalyst_toledo_council_conciliation_desc$"
