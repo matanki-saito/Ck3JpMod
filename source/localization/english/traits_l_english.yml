@@ -558,7 +558,7 @@
  trait_devoted_jainism_male:0 "牟尼"
  trait_devoted_jainism_female:0 "アリーカ"
  trait_mujahid:0 "ムジャヒディン"
- trait_mujahid_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[ROOT.GetCharacter.GetHerHis]のイスラーム教徒の義務を果たし、ジハードに参加した。"
+ trait_mujahid_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は[ROOT.GetCharacter.GetHerHis]のイスラム教徒の義務を果たし、ジハードに参加した。"
  trait_hajjaj_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]はハッジ、メッカにあるアッラーの家（カアバ聖殿）への巡礼を完遂した。"
  trait_sayyid:0 "サイイド"
  trait_sayyida:0 "サイイダ"

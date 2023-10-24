@@ -4,7 +4,7 @@
  lover.0001.desc_murder:0 "「私たちの間のきらめきは衰えて…あなたが人を殺したかと思うと... やりすぎだ！」"
  lover.0001.desc:0 "「私たちの間のきらめき——それが無くなってしまったようだ。」"
  lover.0001.a:1 "同意する。我々は別々の道を歩む時だ。"
- lover.0001.b:1 "でも…すべての楽しい時間を思い出して！"
+ lover.0001.b:1 "でも…いいこともたくさんあった！"
  lover.0001.b.tt:0 "[lover.GetSheHe|U] は、私たちの関係にもう一度機会を与えます。"
  lover.0002.t:0 "情熱の終わり"
  lover.0002.still_in_love:0 "[first_lover.GetHerHis|U]の言葉は今でも耳に残っている。[first_lover.GetTitledFirstName]が私に話しかけてきたその憂鬱な口調で、私は[first_lover.GetSheHe]が私を傷つけようとしているように感じずにはいられなかった。\n\n「私は…でも私はあなたを愛している！」私は乾いた喉から無理やり絞り出した。私の懇願も、[first_lover.GetHerHis]の心を変えることはできなかった。"
