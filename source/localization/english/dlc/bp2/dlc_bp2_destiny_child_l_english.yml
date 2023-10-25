@@ -35,7 +35,7 @@
  destiny_child.1020.b: "薬草学は興味深い研究分野だ！"
  destiny_child.1020.c: "「ああ…だが本来の勉学を疎かにするでないぞ」"
  destiny_child.1025.t: "音に聞こゆ"
- destiny_child.1025.desc: "考え事をしていると、馬のけたたましい鳴き声が私を我に返した。見上げると、馬に跨がった戦士が中庭を通ってゆっくりと近づいてくるのが見えた。\n\n「[ROOT.Char.GetFirstNameNoTooltip]殿はおられるか！貴殿だろうか？」[famous_knight.GetSheHe|U]は私を見下ろし、一礼した。「子供を探しに参りました。[destiny_child.GetFirstNameNoTooltip|U]を保護しておられるのは貴殿ですね？」私はかろうじて頷いたが、それをかき消すように見張り番が駆け寄ってきた。\n\n「恐れることはありませんぞ。私はこれでも名が通っておりますが、[destiny_child.GetFirstNamePossessiveNoTooltip]の噂は野火のように広まっております」[famous_knight.GetSheHe|U]はそう言って兜を脱いだ。「[destiny_child.GetHerHis]とお目にかかれるなら光栄です。そして、おそらくその運命を育む手助けができるのではないかと思います」"
+ destiny_child.1025.desc: "考え事をしていると、馬のけたたましい鳴き声が私を我に返した。見上げると、馬に跨がった戦士が中庭を通ってゆっくりと近づいてくるのが見えた。\n\n「[ROOT.Char.GetFirstNameNoTooltip]殿はおられるか！貴殿だろうか？」[famous_knight.GetSheHe|U]は私を見下ろし、一礼した。「子供を探しに参りました。[destiny_child.GetFirstNameNoTooltip|U]を保護しておられるのは貴殿ですね？」私はかろうじて頷いたが、それをかき消すように見張り番が駆け寄ってきた。\n\n「恐れることはありませんぞ。私はこれでも名が通っておりますが、[destiny_child.GetFirstNamePossessiveNoTooltip]の噂は野火のように広まっております」[famous_knight.GetSheHe|U]はそう言って兜を脱いだ。「[destiny_child.GetHerHis]にお目にかかれるなら光栄です。そして、おそらくその運命を育む手助けができるのではないかと思います」"
  destiny_child.1025.a: "#EMP 「失せろ、#!薄汚い暗殺者め！#EMP 衛兵！」#!"
  destiny_child.1025.b: "[destiny_child.GetHerHim]に教えを授けてくれると？素晴らしい考えだ！"
  destiny_child.1025.c: "「これからもここに留まってみるというのはどうかね？」"
