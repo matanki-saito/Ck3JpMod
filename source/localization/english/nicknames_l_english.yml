@@ -359,7 +359,7 @@
  nick_tiny_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U][CharAreIs(CHARACTER)]はその…高さへの野心について知られている"
  nick_bluetooth_desc:1 "その1人だけが持つ黒い歯は、[CHARACTER.GetShortUINameNoTooltipNoFormat]に独特で有名な笑みを与えた。"
  nick_canmore_desc:1 "大首領とも言い、[CharYouSheHe(CHARACTER)]はその領国を統べるに足る強者と考えられている。"
- nick_tanglehair_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はノルウェーの王になるまで[CharYourHerHis(CHARACTER)]の髪を決して洗うことも、切る事も、櫛で梳くことも決してしないという誓いを立てた。"
+ nick_tanglehair_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はノルウェーの王になるまで、その髪を洗うことも、切ることも、櫛で梳くことも決してしないという誓いを立てた。"
  nick_fairhair_desc:1 "[CharYourHerHis(CHARACTER)]の軍旗の下にノルウェーが統べられた時、[CharYourHerHis(CHARACTER)]の髪は再び切られ、整えられ、香に浸される権利を得た。苦労と闘いを勝ち抜いたその髪こそ最も麗しい美髪である。"
  nick_haardraade_desc:1 "[CharYourHerHis(CHARACTER)]の顔を見れば、人々は$nick_haardraade$と呼ぶだろう。後ろに手を組み、喜びを知らない在り方と厳格なる正義を以て[CharYouHerHim(CHARACTER)]は$nick_the_tyrant$と呼ばれるのだ。"
  nick_hardeknud_desc:1 "[CharYourHerHis(CHARACTER)|U]の名前は[CharYouSheHe(CHARACTER)]が多くの呼び方で知られていることから発音に対してあまり同意を得られていないようだ。"

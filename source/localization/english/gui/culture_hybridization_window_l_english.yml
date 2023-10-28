@@ -39,7 +39,7 @@
  CULTURE_CREATION_NEED_PILLARS_FROM_BOTH:0 "#X @warning_icon!両文化から支柱を選んでください。今のところ文化の支柱の分担になっていません#!"
  CULTURE_CREATION_BLOCKERS_HEADER:0 "文化を作成できない"
  HYBRID_NAME_FORMAT_0:0 "[CULTURE.GetNameNoTooltip]系[TARGET_CULTURE.GetPrefixNoTooltip]"
- HYBRID_COLLECTIVE_NOUN_FORMAT_0:0 "[CULTURE.GetCollectiveNounNoTooltip]系[TARGET_CULTURE.GetPrefixNoTooltip]"
+ HYBRID_COLLECTIVE_NOUN_FORMAT_0:0 "[TARGET_CULTURE.GetPrefixNoTooltip]の[CULTURE.GetCollectiveNounNoTooltip]"
  HYBRID_PREFIX_FORMAT_0:0 "[CULTURE.GetPrefixNoTooltip]系[TARGET_CULTURE.GetPrefixNoTooltip]"
  HYBRID_NAME_FORMAT_1:0 "[CULTURE.GetPrefixNoTooltip]系[TARGET_CULTURE.GetNameNoTooltip]"
  HYBRID_COLLECTIVE_NOUN_FORMAT_1:0 "[CULTURE.GetPrefixNoTooltip]系[TARGET_CULTURE.GetCollectiveNounNoTooltip]"

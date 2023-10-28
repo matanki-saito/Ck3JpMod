@@ -90,7 +90,7 @@
  sex_memory_modifier:0 "強壮なる記憶"
  bp1_yearly.7053.a.1:0 "この計画は成功率ボーナスを得るだろう。"
  bp1_yearly.7054.t:0 "物忘れ"
- bp1_yearly.7054.desc:0 "「[forgotten_memory.GetDescription]、だって?」私は戸惑いながら訪ねる。\n\n我が [memory_child.Custom('GetDaughterSon')]である[memory_child.GetFirstName]は心配そうに私を見ている。「もちろん！何度もこの話をしたでしょう、覚えてないのですか？」\n\n実のところ覚えていないのだ。最近、記憶の細かいところがあやふやになってきているが、そう打ち明けるのは弱気の表れかもしれない。"
+ bp1_yearly.7054.desc:0 "「[forgotten_memory.GetDescription]、だって?」私は戸惑いながら訪ねる。\n\n我が[memory_child.Custom('GetDaughterSon')]である[memory_child.GetFirstName]は心配そうに私を見ている。「もちろん！何度もこの話をしたでしょう、覚えてないのですか？」\n\n実のところ覚えていないのだ。最近、記憶の細かいところがあやふやになってきているが、そう打ち明けるのは弱気の表れかもしれない。"
  bp1_yearly.7054.a:0 "そうだ、私の勘違いだった。"
  bp1_yearly.7054.b:0 "最近、物忘れがひどいのだ。"
  bp1_yearly.7055.t:0 "記憶を記録する"
