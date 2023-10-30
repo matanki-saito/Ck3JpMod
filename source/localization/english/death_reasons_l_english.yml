@@ -18,7 +18,7 @@
  death_bleeder:0 "失血死した"
  death_depressed:0 "$death_spindly$"
  death_lunatic:0 "$death_spindly$"
- death_possessed:0 "発作で死亡した"
+ death_possessed:0 "発作を起こして死んだ"
  death_incapable:0 "$death_possessed$"
  death_wounded_1:0 "傷がもとで死亡した"
  death_wounded_2:0 "$death_wounded_1$"
