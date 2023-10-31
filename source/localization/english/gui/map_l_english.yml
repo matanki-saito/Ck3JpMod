@@ -72,7 +72,7 @@
  MAP_COUNTY_HOLDER_MAIN_TEXT:0 "\n最上位の領地: [TITLE.GetDeFactoTopLiege.GetNameNoTooltip|V]\n領主: [CHARACTER.GetUINameNoTooltip|UV]"
  MAP_COUNTY_HOLDER_RIGHT_CLICK:1 "#I 右クリックして伯爵領の保持者を選択 #!"
  MAP_OCCUPANT_TEXT:0 "占領者: [CHARACTER.GetUINameNoTooltip|UV]"
- HOUSES_MAP_MODE_TOOLTIP:0 "#T [ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetNameNoTooltip]家#!:\n[ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HOUSES_MAP_MODE_TOOLTIP:0 "#T [ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetNameNoTooltip]の家名#!:\n[ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetHouse.GetBaseNameNoTooltip]"
  houses_MAP_MODE_TOOLTIP_CLICK_TO_SELECT:0 "\n#I クリックして王朝画面を表示#!"
  GOVERNMENTS_MAP_MODE_TOOLTIP:1 "#T 伯爵領の保有者\n政治体制#!: [ROOT.Province.GetCounty.GetTitle.GetHolder.GetGovernment.GetNameNoTooltip]\n最上位の領主\n政治体制: [ROOT.Province.GetCounty.GetTitle.GetDeFactoTopLiege.GetHolder.GetGovernment.GetNameNoTooltip]"
  governments_MAP_MODE_TOOLTIP_CLICK_TO_SELECT:0 "\n#I クリックで領地画面を開く#!"
