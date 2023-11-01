@@ -52,7 +52,7 @@
  stewardship_wealth.5002.safe_mason.desc:0 "石工——完璧な形状だ、"
  stewardship_wealth.5002.safe_religious_sculptor.desc:0 "彫刻家——[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の像だ、"
  stewardship_wealth.5002.safe_jeweler.desc:0 "宝石商——壮麗な金銀細工だ、"
- stewardship_wealth.5002.middle.desc:1 "ここへの投資は手堅そうだ——そう考える私の側に、いつの間にか[investor.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] が現れた。\n\n「[ROOT.Char.Custom2('RelationToMeAddress', investor)]よ、一言よろしいでしょうか。あちらに"
+ stewardship_wealth.5002.middle.desc:1 "ここへの投資は手堅そうだ——そう考える私の側に、いつの間にか[investor.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]が現れた。\n\n「[ROOT.Char.Custom2('RelationToMeAddress', investor)]よ、一言よろしいでしょうか。あちらに"
  stewardship_wealth.5002.risky_smithy.desc:0 "鍛冶場がございます。"
  stewardship_wealth.5002.risky_mason.desc:0 "石工の工房がございます。"
  stewardship_wealth.5002.risky_religious_sculptor.desc:0 "彫刻家の露店がございます。"

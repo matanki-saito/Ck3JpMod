@@ -309,7 +309,7 @@
  ep2_tournament_events.2501.a.tt.success:0 "かなりうまくいった"
  ep2_tournament_events.2501.a.tt.failure:0 "あなたの戦術は失敗に終わった"
  ep2_tournament_events.2502.t:0 "脱臼"
- ep2_tournament_events.2502.desc:1 "[versus_contestant.GetFirstName]の短いクリンチから離脱すると、私は不意に[versus_contestant.GetHerHim]をキャッチし、[versus_contestant.GetHerHim]の首根っこをつかむ。完全に準備ができていない、[versus_contestant.GetFirstNamePossessiveNoTooltip]首からバキッという音が流れ、[versus_contestant.GetHerHim]がパニックで叫び始めた。\n\n群衆は噴火しますが、私が手を離せばすぐに騒々しい歓声は囁くような混乱に消えました。だが、私の腕が接触した瞬間、気持ち悪い#EMP 感覚が走る#!。私の指を通る痛みは、何らかの脱臼であろうことに気づいた。\n\n[versus_contestant.GetFirstNameNoTooltip]はまだ自分の首を不安に思って確かめている。もし私がすぐに組み付けば、容易に…"
+ ep2_tournament_events.2502.desc:1 "[versus_contestant.GetFirstName]の短いクリンチから離脱すると、私は[versus_contestant.GetHerHim]の不意をついて、首根っこをつかむ。完全に準備ができていない、[versus_contestant.GetFirstNamePossessiveNoTooltip]の首からバキッという音が流れ、[versus_contestant.GetHerHim]がパニックで叫び始めた。\n\n観客は噴火したかのように喚くが、私が手を離せばすぐに騒々しい歓声は囁くような混乱に消えた。だが、腕を動かそうとした瞬間、#EMP 気持ち悪い#!感覚に襲われる。私の指を通る痛みは、何らかの脱臼であろうことに気づいた。\n\n[versus_contestant.GetFirstNameNoTooltip]はまだ自分の首を不安に思って確かめている。もし私がすぐに組み付けば、容易に…"
  ep2_tournament_events.2502.a:0 "なるほど、ではこうするしかないな。"
  ep2_tournament_events.2502.b:0 "片手でも全力でやればいけそうだな…"
  ep2_tournament_events.2502.c:0 "怪我をした！ギブアップ！"
