@@ -697,7 +697,7 @@
  char_interaction.0230.a_court_chaplain_stayed:0 "ああ、これは…ぶざまだな。"
  char_interaction.0231.title:0 "報い"
  char_interaction.0231.a:0 "よきかな。"
- char_interaction.0232.desc:0 "あまりにも長い間、私は[actor.GetTitledFirstName]の手によって苦しめられてきました。私たちの包囲網が[actor.GetHerHis]の忠実な家臣たちを苦しめている間も、私は黙って傍観することはない。私はあなたにこの暴君を退治するための戦いに加わって欲しい。"
+ char_interaction.0232.desc:0 "あまりにも長い間、私は[actor.GetTitledFirstName]の手によって苦しめられてきた。我らが包囲網が[actor.GetHerHis]に媚びへつらう家臣たちを苦しめている間、私はぼんやりと傍観するつもりはない。そこで私はあなたにも、この暴君を打破するための戦いに加わって欲しくお願い申し上げる。"
  char_interaction.0232.a:0 "あなたは一人ではない！"
  char_interaction.0232.b:0 "裏切り者め！"
  char_interaction.0233.desc:0 "王位に対する罪により、あなたをここに逮捕する。"

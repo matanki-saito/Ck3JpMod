@@ -917,7 +917,7 @@
  host_dinner_events.1070.desc:0 "今夜[runaway_courtier.GetName]を側に置くように手配したときには、私はあまり気にしていなかったのだが、皿が行き来するにつれて、この素晴らしい[runaway_courtier.GetWomanMan]にますます興味をそそられるようになった。\n\n「ああ、首都に戻ってもこんなに面白い生活が送れるのであれば。ほとんどの日、私はただ宮廷に寝泊まりし、疲れと怠け心を募らせていました。ここでは、楽しい会話を望む必要はありません。私をあなたの廷臣として迎えていただけませんか？」"
  host_dinner_events.1070.a:0 "「もちろんだ、私に加われ！」"
  host_dinner_events.1070.b:0 "「ダメだ。」"
- host_dinner_events.1071.title:0 "宮廷の交流"
+ host_dinner_events.1071.title:0 "宮廷間のやり取り"
  host_dinner_events.1071.desc:1 "[runaway_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が歩み寄って来る。私の宮廷から[stop_host_scope.GetNamePossessive]の宮廷へと加わっても良い。そのような許可を[stop_host_scope.GetNamePossessive]自身から与えられた、と主張している。\n\nこれを通せば、確かに[stop_host_scope.GetTitleAsNameNoTooltip|U]に対する私の地位は向上するだろう。だが、私の宮廷から廷臣を盗むという侮辱を、本当に多めに見ることができるのだろうか？"
  host_dinner_events.1071.a:0 "「[runaway_courtier.GetNameNoTooltip]は私のものだ！」"
  host_dinner_events.1071.refused_to_let_them_go:0 "[visiting_liege.GetName]は[runaway_courtier.GetName]を手放すことを拒否した"

@@ -122,7 +122,7 @@
  lesson_basics_lifestyles_2_b_desc:0 "既にご理解頂けているかもしれませんが、[focus|E]を選択したことにより、あなたの[character|E]は現在、時間の経過とともに[lifestyle_experience|E]を獲得しています。$lesson_basics_lifestyles_2_reuse$"
  lesson_basics_interacting_1:0 "他の人物$lesson_basics_interacting$"
  lesson_basics_interacting_1_desc:1 "[focus|E]を選択したので、次に他の人物の説明に移りましょう！クルセイダーキングスⅢの初心者なら、[characters|E]との関わりが重要であることと、その手段に対して多くの選択肢があることを覚えておきましょう。\n\n#TUT 自分などのキャラクターポートレートを右クリックすることで、[marriage|E]の手配や[scheme|E]の開始などの[interactions|E]のリストを見ることができます。 [wars|E]もここから開始しますが、でもそれは後回しにしましょう。#!"
- lesson_basics_open_character_view_tt:0 "キャラクター画面を開く"
+ lesson_basics_open_character_view_tt:0 "人物画面を開く"
  lesson_basics_open_interactions_tt:2 "[player_heir|E]の$game_concept_character$ポートレートを右クリックして利用可能な関係行動を確認する"
  lesson_basics_interacting_2:0 "贈り物をする（$lesson_basics_interacting$）"
  lesson_basics_interacting_2_desc:2 "基本から始めましょう — みんなお金が大好きです！ [player_heir|E]に贈り物を送ってみましょう。\n\n#TUT ほとんどの[interactions|E]では、詳細を表す第二のウィンドウが表示されます。 このウィンドウによって行動を行うかキャンセルするかを選択できます。#!"

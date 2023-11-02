@@ -1,5 +1,5 @@
 ﻿l_english:
- SETTING_ANIMATED_PORTRAITS:0 "キャラクターのアニメーション"
- SETTING_ANIMATED_PORTRAITS_TOOLTIP:0 "#T $SETTING_ANIMATED_PORTRAITS$\n#!著名なキャラクターをアニメーションするかを決定します。\n\n無効化によりパフォーマンスが向上する場合があります。"
- SETTING_PORTRAITS_SSAO:0 "キャラクターのSSAO"
+ SETTING_ANIMATED_PORTRAITS:0 "人物のアニメーション"
+ SETTING_ANIMATED_PORTRAITS_TOOLTIP:0 "#T $SETTING_ANIMATED_PORTRAITS$\n#!著名な人物をアニメーションするかを決定します。\n\n無効化によりパフォーマンスが向上する場合があります。"
+ SETTING_PORTRAITS_SSAO:0 "人物のSSAO"
  SETTING_PORTRAITS_SSAO_TOOLTIP:0 "#T $SETTING_PORTRAITS_SSAO$\n#!肖像画にスクリーン空間のアンビエントオクルージョンを適用するかどうかを決定します。\n\n無効化によりパフォーマンスが向上する場合があります。"

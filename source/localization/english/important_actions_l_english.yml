@@ -472,7 +472,7 @@
  action_hook_expiring_combined_group_description:0 "あなたが持っている期限付きの[hooks|E]を使わないと、それらは消えてしまいます"
  action_hook_expiring_label:1 "@cs_weak_hook_icon! あなたの[actor.Custom2('RelationToMe', recipient)][recipient.GetShortUINameNoTooltip]への[hook|E]がもうすぐ期限切れとなります"
  action_hook_expiring_combined_label:1 "あなたの[actor.Custom2('RelationToMe', recipient)]、[recipient.GetUINameNoTooltip]"
- action_hook_expiring_click:0 "#I クリックでキャラクター画面を開く#!"
+ action_hook_expiring_click:0 "#I クリックで人物画面を開く#!"
  action_can_create_head_of_faith_title:1 "@titles_icon! [actor.GetFaith.GetAdjectiveNoTooltip] [head_of_faith|E]を創設できます"
  action_can_create_head_of_faith_title_desc:1 "$action_can_create_head_of_faith_title_spiritual_desc$\n\n#help 宗教指導者の称号を作成することで、あなたが[temporal_head_of_faith|E]になります！#!"
  action_can_create_head_of_faith_title_label:1 "@titles_icon![actor.GetFaith.GetAdjectiveNoTooltip]の[head_of_faith|E]を創設"
