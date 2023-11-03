@@ -33,7 +33,7 @@
  bp2_yearly.8054.b: "私自身、何かしら伝説的な存在である。"
  bp2_yearly.8054.b.success: "[hostage.GetFirstName]はあなたの話に感動している"
  bp2_yearly.8054.b.failure: "[hostage.GetFirstName]はあなたを信じていない"
- bp2_yearly.8054.c: "ドラゴンを殺したなんて言ったかな？"
+ bp2_yearly.8054.c: "私がドラゴンを殺した話はご存知か？"
  bp2_yearly.8055.t: "個性の衝突"
  bp2_yearly.8055.desc: "[hostage.GetFirstName]は最近私の周りではなんだかよそよそしく、私に会う事を避けているようだ。私はようやく[hostage.GetHerHim]をつかまえ、[hostage.GetHerHis]の冷たい肩に同情をもって手を置いた。\n\n[hostage.GetSheHe|U]はただそれを受け流し、私に背を向け歩き出した。「私に何かご用でしょうか？あなたと一緒にいる時間全てが単純に拷問なのです！あなたは[ROOT.Char.Custom('InsultNoun')]なので、一刻も早くここを離れたい。」"
  bp2_yearly.8055.a: "私は変われる！"
