@@ -244,7 +244,7 @@
  murder_outcome.5002.beat_to_death_in_dungeon:0 "独房の扉が開いたとき、私は解放されるのではないかと一瞬だけ期待した。しかし、すぐに入ってきたマントを着た人影が私の希望を打ち砕き、私を激しく殴り始めた。\n\n言いたくはないが、それは偶然の出来事だった——しかしタイミングよく——我が護衛の到着が、私の命を救った。"
  murder_outcome.5002.unwelcome_guest_house_arrest:0 "ある旧友が私の部屋で待っていると思っていたので、[target_home.GetNameNoTier]出身の古い[dummy_gender.Custom('GenderedLowlyServantType')]の一人がそこで待っていたのには驚いた。\n\n私はすぐに危険を察知した。[dummy_gender.GetSheHe]が隠し持っていた短剣を抜くと、私は外の衛兵を呼びながら扉に向かって走った。召使はすぐに捕まった。"
  murder_outcome.5002.strangle_incapable:0 "世界はまだあるのだろうか？私は時の流れを感じることができない。あの痛みは胸の中にあるのだろうか？心の灰色の雲の上に降ってくるのはあの夜なのだろうか？焦点を合わせるのがとても難しい。\n\nあの存在たちは私の周囲にいるのだろうか？私は聞こえないが、誰かが叫んでいるような#EMP 気がする#! 。そして再び静寂が訪れる。"
- murder_outcome.5002.schemer_known:0 "\n\n間違いなく[owner.Custom('InsultAdjective')]で[owner.Custom('InsultNoun')]、[owner_to_reveal.GetTitledFirstName]の仕業だ！"
+ murder_outcome.5002.schemer_known:0 "\n\n間違いなく[owner.Custom('InsultAdjective')][owner.Custom('InsultNoun')]、[owner_to_reveal.GetTitledFirstName]の仕業だ！"
  murder_outcome.5002.will_find_out:0 "この件の背後にいる奴を暴き出してやる！"
  murder_outcome.5002.revenge_will_be_had:0 "後悔させてやる！"
  murder_outcome.5002.child:0 "こんなに残酷な大人がいるだろうか？"

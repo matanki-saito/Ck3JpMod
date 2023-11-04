@@ -660,7 +660,7 @@
  hold_court.8240.b:0 "そういった情熱は開花させてやるべきだ！"
  hold_court.8240.c:0 "解決する方法は一つしかない。"
  hold_court.8241.t:0 "迷う選択"
- hold_court.8241.desc:0 "[vassal_1.GetTitledFirstName]と[vassal_2.GetTitledFirstName]が、何やら論争しながら、私の前へと進んでくる。\n\n「我が[ROOT.Char.GetLadyLord]」[vassal_1.GetFirstName]は吐き捨てるように言う。「私は数ヶ月間、輝かしい[yearn_target.GetFirstName]との結婚を求めて来ましたが、[vassal_2.GetFirstName]の[vassal_2.Custom('InsultNoun')]もまた[yearn_target.GetHerHim]を追い回しているのです！」\n\n[vassal_2.GetFirstName]は憤慨して声を張り上げる。「閣下、本当に馬鹿馬鹿しい！[vassal_1.Custom('InsultAdjective')][vassal_1.Custom('InsultNoun')]は私が[ROOT.Char.GetPrimaryHolding.GetNameNoTierNoTooltip]で紹介するまで、その[yearn_target.GetWomanMan]について聞いたことすらなかったのですぞ！」"
+ hold_court.8241.desc:0 "[vassal_1.GetTitledFirstName]と[vassal_2.GetTitledFirstName]が、何やら論争しながら、私の前へと進んでくる。\n\n「我が[ROOT.Char.GetLadyLord]」[vassal_1.GetFirstName]は吐き捨てるように言う。「私は数ヶ月間、輝かしい[yearn_target.GetFirstName]との結婚を求めて来ましたが、[vassal_2.Custom('InsultNoun')]の[vassal_2.GetFirstName]もまた[yearn_target.GetHerHim]を追い回しているのです！」\n\n[vassal_2.GetFirstName]は憤慨して声を張り上げる。「閣下、本当に馬鹿馬鹿しい！[vassal_1.Custom('InsultAdjective')][vassal_1.Custom('InsultNoun')]は私が[ROOT.Char.GetPrimaryHolding.GetNameNoTierNoTooltip]で紹介するまで、その[yearn_target.GetWomanMan]について聞いたことすらなかったのですぞ！」"
  hold_court.8241.a:0 "あなたに祝福を、[vassal_1.GetTitledFirstNameNoTooltip]。"
  hold_court.8241.b:0 "まあ、[vassal_2.GetTitledFirstNameNoTooltip]が#EMP 先だった#!のだろう…"
  hold_court.8241.c:0 "[yearn_target.GetFirstNameNoTooltip]#EMP は#!かなり魅惑的だな。"

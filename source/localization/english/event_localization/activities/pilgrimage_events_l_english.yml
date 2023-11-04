@@ -448,7 +448,7 @@
  pilgrimage.1130.d.flavor:0 "[shrine_faithist.GetFaith.HighGodName]は存在しないのだから！"
  pilgrimage.1130.e:0 "舌を動かすんじゃない、[ROOT.Char.Custom2('GetUnbelieverTerm', shrine_mocker)]。"
  pilgrimage.1130.f:0 "さあ、ぐずぐずせずに行こう。"
- pilgrimage.1130.f.other:0 "[ROOT.Char.GetFaith.HighGodName]は[shrine_province.GetCounty.GetFaith.GetAdherentNameNoTooltip]を待ちはしない。"
+ pilgrimage.1130.f.other:0 "[ROOT.Char.GetFaith.HighGodName]は[shrine_province.GetCounty.GetFaith.GetAdherentNameNoTooltip]など気にかけはしないさ。"
  pilgrimage.1140.t:0 "$pilgrimage_header$ 数の安全"
  pilgrimage.1140.desc:0 "我々が[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTier]を進んでいくと、[ROOT.Char.GetFaith.GetAdjective]の巡礼団の指導者だと主張する[group_leader.GetCulture.GetName]の庶民が近づいてきた。\n\n「良き[ROOT.Char.GetTitleAsNameNoTooltip]様、我々は何週間も[destination.GetName]への道を進んできたのですが、道はあまりにも危険で、今は食料も不足しているのです。」\n\n「皆さんの助けがいただければ、我々はいつまでも感謝するでしょう。」"
  pilgrimage.1140.a:0 "多いほど楽しい！"
