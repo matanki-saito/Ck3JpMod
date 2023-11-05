@@ -32,7 +32,7 @@
  hunt_mystical_animal.1009.desc:1 "「我が[ROOT.Char.GetLadyLord]よ、あなたの探しているものはただの獣なのか…正直に言って心配です」\n\n[ROOT.Char.Custom('GetLegendaryColor')][ROOT.Char.Custom('GetAnimalType')]の新たな目撃情報をふるいにかけると、[court_chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が私に近づいてくる。\n\n明らかにこれほど多大な注意を必要とするものは何事も[ROOT.Char.GetFaith.DevilName]によって発せられている可能性がある; その存在は[ROOT.Char.GetFaith.HighGodNameAlternate]の天啓では無いのではないか？"
  hunt_mystical_animal.1009.a:1 "あの[ROOT.Char.Custom('GetAnimalType')]は[ROOT.Char.GetFaith.HighGodName]からの使者なのだぁっ！"
  hunt_mystical_animal.1009.a.success:0 "「お前は正しいかもしれない...」"
- hunt_mystical_animal.1009.a.failure:0 "「何を言ってるんだ？！」"
+ hunt_mystical_animal.1009.a.failure:0 "「おまえは何を言っているんだ」"
  hunt_mystical_animal.1009.b:0 "お前には関係ないことだ。"
  hunt_mystical_animal.1009.c:0 "お前の言う通りだ、私は何を考えていたんだ？"
  hunt_mystical_animal.9001.desc:2 "[ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitlyNoTooltip]の[ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')]へ深く深く足跡を辿っていくと、私の周りに完全な静寂が訪れる。\n\nまるで空気から生まれたかのように、あの[activity.Custom('GetLegendaryColor')][activity.Custom('GetAnimalType')]が私の前に現れ、太陽の光で毛皮を眩いほど光らし夢の様に深い瞳をしている。私は弓を構える…"

@@ -239,7 +239,7 @@
  lesson_basics_culture_open_view_trigger:0 "文化画面を開く（ハイライトされています）"
  lesson_basics_culture_elements:0 "文化"
  lesson_basics_culture_elements_desc:1 "[culture|E]は[ethos|E]、[culture_pillars|E]、そして[traditions|E]によって定義されます。それぞれ、文化のメンバー全員に与える様々なメリットやペナルティーを決めています。\n\n#V 特色#!は、文化の中核となる価値観を表すものです。どのような伝統が文化の中で利用可能かを決定する主な要素です。[SelectLocalization( GetPlayer.IsValid, 'lesson_basics_culture_elements_desc_INGAME', '' )]\n\n#V 文化的支柱#!は文化の起源を反映したもので、変更できません。他の文化の[cultural_acceptance|E]に強い影響を与えますが、それ以外は特色よりも重要度が低くなっています。\n\n文化の#V 伝統#!はより柔軟性がありますが、それでも文化にとって非常に重要であることに変わりはありません。特色や文化的支柱とは異なり、伝統は文化指導者が変更できます。"
- lesson_basics_culture_elements_desc_INGAME:1 "あなたのような[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]の文化が持つ特色は、[GetPlayer.GetCulture.GetEthos.GetName]です。"
+ lesson_basics_culture_elements_desc_INGAME:1 "あなたの文化、[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]が持つ特色は、[GetPlayer.GetCulture.GetEthos.GetName]です。"
  lesson_basics_culture_culture_head:0 "文化（文化指導者）"
  lesson_basics_culture_culture_head_desc:0 "[culture_head|E]はその[culture|E]で最大の[realm|E]を持つ[ruler|E]です。[SelectLocalization( GetPlayer.IsValid, 'lesson_basics_culture_culture_head_desc_INGAME', '' )]\n\n文化指導者はその文化に新たな伝統を確立することが出来ます。\n\nまた、その文化の技術的・社会的進化においても、重要な役割を果たします。これから見ていきましょう。"
  lesson_basics_culture_culture_head_desc_INGAME:0 "[SelectLocalization(ObjectsEqual(GetPlayer, GetPlayer.GetCulture.GetCultureHead), 'lesson_basics_culture_culture_head_desc_YOU', 'lesson_basics_culture_culture_head_desc_OTHER' )]"
