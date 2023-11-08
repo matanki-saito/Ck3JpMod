@@ -1,6 +1,6 @@
 ﻿l_english:
  bp2_yearly.6000.t: "Not the [ROOT.Char.GetCulture.GetNameNoTooltip] Way"
- bp2_yearly.6000.desc.intro: "As my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hosted_child'))] [hosted_child.GetName] presents [hosted_child.GetHerselfHimself], [tutor.GetName] recounts a week of failed teaching and frustrations."
+ bp2_yearly.6000.desc.intro: "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hosted_child'))][hosted_child.GetName]が現れると、[tutor.GetName]は一週間にわたる授業の失敗や挫折を詳しくの述べた。"
  bp2_yearly.6000.desc.fault.bellicose: "\n\n\"The child was never told that all [hosted_child.GetSheHe] wants must be #EMP taken#!! [hosted_child.GetFirstNameNoTooltip] chooses peace with [hosted_child.GetHerHis] peers over proving [hosted_child.GetHerselfHimself]! This is all the [hosted_child.Custom('GirlBoy')] knows!\""
  bp2_yearly.6000.desc.fault.bureaucratic: "\n\n\"The child is a disordered catastrophe! [hosted_child.GetSheHe|U] dreams the days away. [hosted_child.GetSheHe|U] knowns not the clean undergarment from the soiled! Chaos is all the [hosted_child.Custom('GirlBoy')] knows!\""
  bp2_yearly.6000.desc.fault.communal: "\n\n\"The child bad-mouths [hosted_child.GetHerHis] own mother! Never was [hosted_child.GetSheHe] warned against it. The [hosted_child.Custom('GirlBoy')] was left to act alone, stand alone, and care not for the kin awaiting [hosted_child.GetHerHim].\""
