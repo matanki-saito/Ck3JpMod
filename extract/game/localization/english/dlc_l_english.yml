@@ -18,6 +18,7 @@
  DLC007_EP2:0 "Tours and Tournaments"
  DLC008_SP2:0 "Elegance of the Empire"
  DLC009_BP2: "Wards & Wardens"
+ DLC010_FP3: "Legacy of Persia"
 
 
  dlc_001:0 "$DLC001_PREORDER$"
@@ -38,3 +39,5 @@
  dlc_008_desc:0 "Dress your rulers in the finest of finery with this clothing pack. Based on the garments and regalia of Emperor Henry II and the Empress Cunigunde, this pack includes not only new robes and dresses, but historically appropriate crowns and other items. Exclusively available to owners of Chapter II."
  dlc_009: "$DLC009_BP2$"
  dlc_009_desc: "In Wards & Wardens, child rulers and their guardians take center stage. Rear young princes and nobles in a world where eternal glory is a battle away, and danger lurks in every shadow."
+ dlc_010: "$DLC010_FP3$"
+ dlc_010_desc: "The Sassanid Empire is long gone, and the Abbasid Caliphate is pressuring the remaining Iranian Dynasties into submission. Will you fall in line, or forge a new Empire? The future of Persia is in your hands!"

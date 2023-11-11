@@ -2,7 +2,7 @@
 
  # bp1_yearly_events_chad
  bp1_yearly.3001.t:0 "A Friend Indeed"
- bp1_yearly.3001.desc:0 "Things have been a bit tight around the [ROOT.Char.Custom( 'FortifiedBuilding' )] as of late. No matter how much I collect in taxes, I just haven't been able to make ends meet!\n\n[friend.GetTitledFirstNameNoTooltip], ever the dutiful [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))], has come to visit me during this bout of bad luck. As we discuss my current troubles, he offers to replenish my coffers with a hearty stimulus.\n\n[friend.GetFirstNameNoTooltip] clasps my hands and softly says "Let me help you, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]. I know you would do the same for me.""
+ bp1_yearly.3001.desc:0 "Things have been a bit tight around the [ROOT.Char.Custom( 'FortifiedBuilding' )] as of late. No matter how much I collect in taxes, I just haven't been able to make ends meet!\n\n[friend.GetTitledFirstNameNoTooltip], ever the dutiful [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))], has come to visit me during this bout of bad luck. As we discuss my current troubles, [friend.GetSheHe] offers to replenish my coffers with a hearty stimulus.\n\n[friend.GetFirstNameNoTooltip] clasps my hands and softly says "Let me help you, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]. I know you would do the same for me.""
  bp1_yearly.3001.a:0 "Praise [ROOT.Char.GetFaith.WealthGodName] for this glorious surprise!"
  bp1_yearly.3001.b:0 "I could never impose on a friend."
  bp1_yearly.3001.c:0 "What I really need is a few drinks..."

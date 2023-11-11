@@ -35,6 +35,7 @@
  apply_medium_investment_in_revolt_on_random_county:0 "A random county will gain [GetModifier('medium_investment_in_revolt_modifier').GetNameWithTooltip]"
  apply_high_investment_in_revolt_on_random_county:0 "A random county will gain [GetModifier('high_investment_in_revolt_modifier').GetNameWithTooltip]"
  at_least_one_county_with_neutral_negative_opinion:0 "At least one [county|E] has a negative [county_opinion|E]"
+ must_select_an_investment: "You must select an investment level"
  incite_revolts_interaction_result.tt:0 "Revolt funded in [chosen_county.GetName]"
  incite_revolts_interaction_result.desc:0 "The discontent is growing, and hopefully a revolt will start soon."
  incite_revolts_interaction_notif_failure:0 "[recipient.GetShortUINameNoTooltip] connects me to the revolt"

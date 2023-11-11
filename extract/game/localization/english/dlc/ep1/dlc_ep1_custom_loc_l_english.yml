@@ -67,12 +67,16 @@
  inspiration_smith_type_crown:0 "a crown"
  inspiration_smith_type_goblet:0 "a goblet"
  inspiration_smith_type_aquamanile:0 "an aquamanile"
+ inspiration_smith_type_incense_burner_sculpture: "an incense burner"
 
  alchemy_inspiration_description:0 "[ROOT.Char.Custom('InspirationStudyPresentFuture')] alchemy"
  inspiration_alchemy_type_elixirs:0 "[ROOT.Char.Custom('InspirationStudyPresentFuture')] elixirs"
  inspiration_alchemy_type_metals:0 "[ROOT.Char.Custom('InspirationStudyPresentFuture')] metals"
  inspiration_alchemy_type_panacea:0 "[ROOT.Char.Custom('InspirationCreatePresentFuture')] a cure for all diseases"
  inspiration_alchemy_type_immortality:0 "[ROOT.Char.Custom('InspirationStudyPresentFuture')] immortality"
+
+ research_inspiration_description:0 "scouring libraries and old tomes"
+ research_inspiration_description_past: "carried out research for [ROOT.Var('created_artifact_for').Char.GetUIName]"
 
  weapon_inspiration_description_past:0 "forged a weapon for [ROOT.Var('created_artifact_for').Char.GetUIName]"
  armor_inspiration_description_past:0 "made armor for [ROOT.Var('created_artifact_for').Char.GetUIName]"

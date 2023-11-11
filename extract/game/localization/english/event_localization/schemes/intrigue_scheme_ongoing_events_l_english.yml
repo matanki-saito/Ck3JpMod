@@ -198,6 +198,7 @@
  intrigue_scheme_ongoing.5013.a.tt:0 "I lost the creature, but at least I didn't lose my life..."
 
  intrigue_scheme_ongoing.5014.t:0 "Plush and Exotic Carpet"
+ intrigue_scheme_ongoing.5014.t_persian: "$persian_has_plush_carpet_modifier$"
  intrigue_scheme_ongoing.5014.desc:0 "Plush, vibrant, and soft as the first light of dawn — a merchant presents me with an exquisite carpet in the hopes of good future relations.\n\nAs I marvel at the fine weave I am struck by a thought. Wouldn't a carpet like this muffle the treading of feet? Even conceal the steps of a bumbling agent...?"
  intrigue_scheme_ongoing.5014.a:0 "[target.GetTitledFirstNameNoTooltip] will be honored by such a gift."
  intrigue_scheme_ongoing.5014.a.success:0 "[target.GetSheHe|U] accepts the gift"

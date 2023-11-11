@@ -27,3 +27,5 @@
  CHARACTER_CANNOT_BE_IN_FACTION_DUE_TO_MODIFIER:0 "You have a [modifier|E] preventing you from being in a [faction|E]"
  IS_A_FACTION_MEMBER_TRIGGER:0 "Is a faction member"
  FACTION_CAN_PRESS_DEMANDS_TRIGGER:0 "Faction can press demands"
+
+ nation_fracturing_faction.can_character_create_ui.blocked_by_struggle: "Your [liege|E] holds one or more [titles|E] that cannot be [dissolution_faction_dissolved|E] due to an ongoing [struggle|E]"

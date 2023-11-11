@@ -59,6 +59,8 @@
  smith_inspiration_desc:0 "A character who has a Metalsmith Inspiration is [inspired|E] to forge something more extravagant, and smaller, than a sword or an armor. These are the artists making crowns and goblets, shining and bejeweled."
  alchemy_inspiration:0 "Alchemy Inspiration"
  alchemy_inspiration_desc:0 "A character who has an Alchemy Inspiration is [inspired|E] to explore, purify, and create substances and metals, create elixirs, and ultimately perfect the human body and soul."
+ research_inspiration: "Research Inspiration"
+ research_inspiration_desc: "A character who has a Research Inspiration is [inspired|E] to discover new knowledge for the benefit of their [sponsor|E]. If successful, they will improve learning within their sponsor's [dynasty|E] or even discover a new [innovation|E] for their culture."
 
  weapon_inspiration_cost_tt:0 "Weapon Inspirations are based on [martial|E] and [prowess|E]"
  armor_inspiration_cost_tt:0 "Armor Inspirations are based on [martial|E] and [prowess|E]"

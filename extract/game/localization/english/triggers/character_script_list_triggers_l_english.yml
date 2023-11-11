@@ -7,6 +7,7 @@
  ANY_POOL_CHARACTER:0 "Any pool character:"
 
  ANY_OF_CHARACTERS_VASSALS:1 "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_OR_BELOW: "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E] or [landed|E] characters under them:"
  ALL_OF_CHARACTERS_VASSALS:1 "All of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
  ANY_OF_CHARACTERS_VASSALS_PERCENT:0 "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
  ANY_OF_CHARACTERS_VASSALS_COUNT:0 "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"

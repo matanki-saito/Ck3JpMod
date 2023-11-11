@@ -31,6 +31,13 @@
  COUNCILLOR_MISSING_SPOUSE:0 "You have no [available_spouse|E]"
  COUNCILLOR_LIEGE_MISSING_SPOUSE:2 "[CouncilWindow.GetCharacter.GetShortUIName] has no [available_spouse|E]"
  COUNCILLOR_WILL_BE_ASSIGNED:0 "The [councillor|E] is about to be assigned"
+ COUNCILLOR_MISSING_VIZIER: "You have no [vizier|E] or [spouse|E]"
+ COUNCILLOR_LIEGE_MISSING_VIZIER: "[CouncilWindow.GetCharacter.GetShortUIName] has no [vizier|E] or [spouse|E]"
+ COUNCILLOR_MISSING_CHANCELLOR: "You have no [chancellor|E]"
+ COUNCILLOR_MISSING_MARSHAL: "You have no [marshal|E]"
+ COUNCILLOR_MISSING_STEWARD: "You have no [steward|E]"
+ COUNCILLOR_MISSING_SPYMASTER: "You have no [spymaster|E]"
+ COUNCILLOR_MISSING_COURT_CHAPLAIN: "You have no [court_chaplain|E]"
 
  learn_on_the_job_modifier:0 "$learn_on_the_job_perk_name$"
 
@@ -46,6 +53,9 @@
  councillor_spymaster_possessive:0 "Spymaster's"
  councillor_court_chaplain:0 "Court Chaplain"
  councillor_court_chaplain_possessive:0 "Court Chaplain's"
+ councillor_vizier: "Confidant"
+ councillor_vizier_desc: "As a [clan_government|E] Ruler you can decide to assign either your [vizier|E] or any of your [spouses|E] as your Confidant. Whoever you choose will support you in your daily tasks."
+ councillor_vizier_possessive: "Confidant's"
 
 #Flavor localization for Court Chaplains, sorted by Religion.
 

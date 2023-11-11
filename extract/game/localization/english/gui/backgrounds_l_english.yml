@@ -1,4 +1,5 @@
 ﻿l_english:
+ fp3_frontend_iranian: "Iranian Throneroom"
  fp2_frontend_iberian:0 "Iberian Throneroom"
  frontend_tribal:0 "Tribal Throneroom"
  fp1_frontend_tribal:0 "Norse Tribal Throneroom"
@@ -107,3 +108,9 @@
  bp2_university: "Western University"
  bp2_nursery: "Nursery"
  bp2_university_mena: "Madrasa"
+ fp3_bathhouse: "Arabic Bathhouse"
+ fp3_temple: "Iranian Temple"
+ fp3_docks: "Iranian Docks"
+ fp3_throneroom: "Iranian Throneroom"
+ fp3_courtyard_night: "Iranian Dark Corridor"
+ fp3_cave: "Cave Interior"

@@ -249,6 +249,7 @@
  FACTION_REASON_STRUGGLE_PHASE:0 "Current [struggle_phase|E]: $VALUE|0+=$"
  FACTION_REASON_ELECTIVE_PRIMARY:0 "[liege|E]'s [primary_title|E] has Elective [succession_law|E]: $VALUE|0+=$"
  FACTION_REASON_BYZANTINE_RELIGION:0 "Same [religion|E] as Byzantine [liege|E]: $VALUE|0+=$"
+ FACTION_REASON_PERSIAN_STRUGGLE: "Part of the [persian_struggle|E]: $VALUE|0+=$"
 
 #populist_faction
  FACTION_REASON_POWER_MINIMAL:0 "Weak [faction_military_power|E]: $FACTOR|0%+=$"
@@ -256,3 +257,11 @@
 
  FACTION_REASON_REGENT_CULTURAL_REASONS:0 "[regent_possessive|E] [culture|E]: $VALUE|0+=$"
  FACTION_REASON_REGENT_FAITH_REASONS:0 "[regent_possessive|E] [faith|E]: $VALUE|0+=$"
+
+#struggle faction modifiers
+ FACTION_FP3_STRUGGLE_FRICTION: "Ongoing [struggle|E]: $VALUE|0+=$"
+ FACTION_FP3_STRUGGLE_FRICTION_CALIPHAL: "[struggle|E] position on [liege|E]: $VALUE|0+=$"
+ FACTION_REASON_unity_more_likely_claimant_factions: "$competitive$ [house_unity_level|E]: $VALUE|0+=$"
+ FACTION_REASON_unity_significantly_more_likely_claimant_factions: "$antagonistic$ [house_unity_level|E]: $VALUE|0+=$"
+ FACTION_REASON_unity_less_likely_claimant_factions: "$friendly$ [house_unity_level|E]: $VALUE|0+=$"
+ FACTION_REASON_unity_significantly_less_likely_claimant_factions: "$harmonious$ [house_unity_level|E]: $VALUE|0+=$"

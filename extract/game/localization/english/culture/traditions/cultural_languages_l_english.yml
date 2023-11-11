@@ -55,6 +55,7 @@
  language_basque_name:0 "Basque"
  language_chadic_name:0 "Chadic"
  language_cushitic_name:0 "Cushitic"
+ language_sabaki_name: "Sabaki"
  language_ethiopic_name:0 "Ethiopic"
  language_soninke_name:0 "Soninke"
  language_manding_name:0 "Manding"
@@ -75,6 +76,7 @@
  language_wallachian_name:0 "Dacian Vulgar"
  language_italian_name:0 "Italian Vulgar"
  language_ayneha_name:0 "Ayneha"
+ language_north_dravidian_name: "North Dravidian"
 
  aesthetics_norwegian_name:0 "Norwegian"
  aesthetics_swedish_name:0 "Swedish"

@@ -5,6 +5,7 @@
  PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'Unpin', 'Pin' )]\n#!Keep track of this Character by pinning [Character.GetHerHim] in the Outliner on the right side of the screen"
  interaction_category_diplomacy:0 "Diplomacy"
  interaction_category_friendly:0 "Personal"
+ interaction_category_clan: "Clan"
  interaction_category_hostile:0 "Hostile"
  interaction_category_vassal:0 "Vassalage & Court"
  interaction_category_religion:0 "Religion"

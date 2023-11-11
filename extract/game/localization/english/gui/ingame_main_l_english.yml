@@ -9,6 +9,7 @@
  FACTION_BUTTON:0 "#T Factions#!"
  PRISON_BUTTON:0 "#T Prisoners#!"
  COURT_BUTTON:1 "#T Courtiers#!"
+ TAX_JURISDICTIONS_BUTTON: "#T Tax Jurisdictions#!"
  IM_TT_FIND_TITLE:1 "#T Find Title#!\nFind any [title|E] in the game."
  IM_TT_SHOW_LEGACY:0 "#T Show Lineage#!\nSee all the characters you have played."
  IM_TT_FIND_CHARACTER:0 "#T Find Character#!\nFind any living character in the game."
@@ -212,3 +213,4 @@
 
  TT_AWAY_FROM_CAPITAL_WIDGET:1 "#T Away from Capital#!\nYou are currently away from your [realm_capital|E] of [Character.GetCapitalLocation.GetName] in [Character.GetCurrentLocation.GetName]\n\n#I Click to view [travel|E] planner#!"
  ACTIVITY_VIEW_TRAVEL:0 "View Travel"
+ SELECT_VALID_OPTION: "Select a valid option"

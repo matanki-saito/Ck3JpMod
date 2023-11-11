@@ -49,3 +49,5 @@
  not_in_realm_alliance_current_situation:0 "[second.GetSheHe|U] has @soldier_icon![second.GetMilitaryStrengthText] [soldiers|E] that could help in your [wars|E]."
  in_realm_alliance_current_situation:0 "Allying a Vassal prevents them from joining [factions|E], but you can't call them to [war|E]."
  current_situation_blank:0 ""
+ GetIncumbentOrNone.holder: "[ROOT.Title.GetHolder.GetShortUIName]"
+ GetIncumbentOrNone.uncreated: "the [ROOT.Title.GetBaseName]"

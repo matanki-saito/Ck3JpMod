@@ -41,6 +41,11 @@
  divide_and_conquer_modifier:0 "Religious Propaganda"
  divide_and_conquer_modifier_desc:0 "The locals of this county have been subjected to religious propaganda, rallying them to their liege's banner."
 
+ debug_max_popular_opinion_modifier: "$send_friendliness$"
+ debug_max_popular_opinion_modifier_desc: "$debug_generic_option$"
+ debug_min_popular_opinion_modifier: "$debug_make_dislike_me_interaction$"
+ debug_min_popular_opinion_modifier_desc: "$debug_generic_option$"
+
  lost_holy_order_modifier:0 "Lost Holy Order"
  lost_holy_order_modifier_desc:0 "Discontent has been fueled by the dismantling of the Holy Order that once held these lands."
 

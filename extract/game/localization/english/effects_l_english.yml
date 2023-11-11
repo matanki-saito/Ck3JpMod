@@ -162,12 +162,12 @@
  I_WILL_MARRY_MATRILINEALLY_EFFECT:1 "You will [matrilineally|E] [marry|E] [TARGET_CHARACTER.GetShortUIName]"
  THEY_WILL_MARRY_MATRILINEALLY_EFFECT:0 "[CHARACTER.GetShortUIName|U] will [matrilineally|E] [marry|E] [TARGET_CHARACTER.GetShortUIName]"
  
- CHANGED_MY_GOVERNMENT:1 "Changed your government to [GOVERNMENT_TYPE.GetName]"
- CHANGED_THEIR_GOVERNMENT:1 "Changes [CHARACTER.GetName] government to [GOVERNMENT_TYPE.GetName]"
- CHANGED_GOVERNMENT:1 "Changed government to [GOVERNMENT_TYPE.GetName]"
- CHANGE_GOVERNMENT:1 "Changes government to [GOVERNMENT_TYPE.GetName]"
- CHANGE_MY_GOVERNMENT:1 "Changes your government to [GOVERNMENT_TYPE.GetName]"
- CHANGE_THEIR_GOVERNMENT:1 "Changes [CHARACTER.GetName] government to [GOVERNMENT_TYPE.GetName]"
+ CHANGED_MY_GOVERNMENT:1 "Changed your [government|E] to [GOVERNMENT_TYPE.GetName]"
+ CHANGED_THEIR_GOVERNMENT:1 "Changes [CHARACTER.GetShortUINamePossessive] [government|E] to [GOVERNMENT_TYPE.GetName]"
+ CHANGED_GOVERNMENT:1 "Changed [government|E] to [GOVERNMENT_TYPE.GetName]"
+ CHANGE_GOVERNMENT:1 "Changes [government|E] to [GOVERNMENT_TYPE.GetName]"
+ CHANGE_MY_GOVERNMENT:1 "Changes your [government|E] to [GOVERNMENT_TYPE.GetName]"
+ CHANGE_THEIR_GOVERNMENT:1 "Changes [CHARACTER.GetShortUINamePossessive] [government|E] to [GOVERNMENT_TYPE.GetName]"
 
  FORBID_FROM_SCHEME_EFFECT:0 "Forbid from being an Agent in [SCHEME.GetName]"
  ALLOW_IN_SCHEME_EFFECT:0 "Allow to join [SCHEME.GetName] as an Agent"
@@ -184,12 +184,21 @@
 
  SET_CHARACTER_FAITH_EFFECT:0 "[CHARACTER.GetShortUIName|U] changes Faith to [FAITH.GetName|V]"
 
+ I_CONVERT_SECRETLY_TO: "You convert to [FAITH.GetName|V]"
+ THEY_CONVERTS_SECRETLY_TO: "[CHARACTER.GetShortUIName|U] converts to [FAITH.GetName|V]"
+ COVERTS_SECRETLY_TO: "Converts to [FAITH.GetName|V]"
+ I_CONVERTED_SECRETLY_TO: "You converted to [FAITH.GetName|V]"
+ THEY_CONVERTED_SECRETLY_TO: "[CHARACTER.GetShortUIName|U] converted to [FAITH.GetName|V]"
+ COVERTED_SECRETLY_TO: "Converted to [FAITH.GetName|V]"
+
 
  CONVERTS_WITH_CONVERSION:0 "Changes Faith to [FAITH.GetName|V]\n$EFFECT_LIST_BULLET$[close_family|E] may convert as well\n$EFFECT_LIST_BULLET$[vassals|E] may convert as well"
  I_CONVERT_WITH_CONVERSION:1 "You convert to [FAITH.GetName|V]\n$EFFECT_LIST_BULLET$[close_family|E] may convert with you\n$EFFECT_LIST_BULLET$[vassals|E] may convert with you"
  THEY_CONVERT_WITH_CONVERSION:0 "[CHARACTER.GetShortUIName|U] converts to [FAITH.GetName|V]\n$EFFECT_LIST_BULLET$[close_family|E] may convert with you\n$EFFECT_LIST_BULLET$[vassals|E] may convert with you"
  I_CONVERTED_WITH_CONVERSION:1 "You changed Faith to [FAITH.GetName|V]\n$EFFECT_LIST_BULLET$[close_family|E] may convert with you\n$EFFECT_LIST_BULLET$[vassals|E] may convert with you"
- START_WAR_EFFECT:1 "Starts a war against [TARGET_CHARACTER.GetShortUIName] with the "$CASUS_BELLI$" [casus_belli|E]"
+ START_WAR_EFFECT_FIRST: "You start a war against [TARGET_CHARACTER.GetShortUIName] with the "$CASUS_BELLI$" [casus_belli|E]"
+ START_WAR_EFFECT_THIRD: "[CHARACTER.GetShortUIName|U] starts a war against [TARGET_CHARACTER.GetShortUIName] with the "$CASUS_BELLI$" [casus_belli|E]"
+ START_WAR_EFFECT:2 "[CHARACTER.GetShortUIName|U] starts a war against [TARGET_CHARACTER.GetShortUIName] with the "$CASUS_BELLI$" [casus_belli|E]"
  END_WAR_ATTACKER_VICTORY:0 "[WAR.GetActiveCB.GetAttacker.GetUIName] wins the [WAR.GetName]"
  END_WAR_DEFENDER_VICTORY:0 "[WAR.GetActiveCB.GetDefender.GetUIName] wins the [WAR.GetName]"
  END_WAR_EFFECT_WHITE_PEACE:0 "The [WAR.GetName|V] ends in a [white_peace|E]"
@@ -632,6 +641,7 @@
  GAINED_POTENTIAL_RIVAL:0 "Grew closer to forming a rivalry with [TARGET_CHARACTER.GetShortUIName]"
  I_LOSE_POTENTIAL_RIVAL:1 "You and [TARGET_CHARACTER.GetShortUIName] are no longer at each other's throats"
  LOSES_POTENTIAL_RIVAL:0 "Is no longer at the throat of [TARGET_CHARACTER.GetShortUIName]"
+ THEY_LOSE_POTENTIAL_RIVAL: "[CHARACTER.GetShortUIName|U] is no longer at the throat of [TARGET_CHARACTER.GetShortUIName]"
  THEY_GAIN_POTENTIAL_RIVAL:0 "[CHARACTER.GetShortUIName|U] grows closer to forming a rivalry with [TARGET_CHARACTER.GetShortUIName]"
  THEY_GAINED_POTENTIAL_RIVAL:0 "[CHARACTER.GetShortUIName|U] grew closer to forming a rivalry with [TARGET_CHARACTER.GetShortUIName]"
  
@@ -1109,21 +1119,21 @@
  THEIR_HOUSE_RECEIVED_MODIFIER_EFFECT:1 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gained $MODIFIER|V$"
  MY_HOUSE_RECEIVE_MODIFIER_EFFECT:1 "Your [house|E] gains $MODIFIER|V$"
  THEIR_HOUSE_RECEIVE_MODIFIER_EFFECT:1 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gains $MODIFIER|V$"
- HOUSE_RECEIVES_MODIFIER_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gains $MODIFIER|V$"
+ HOUSE_RECEIVES_MODIFIER_EFFECT:1 "Gains $MODIFIER|V$"
 
  ADDS_HOUSE_MODIFIER_UNTIL:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gains $MODIFIER|V$ for $DURATION|V$"
  MY_HOUSE_RECEIVED_MODIFIER_UNTIL_EFFECT:1 "Your [house|E] gained $MODIFIER|V$ for $DURATION|V$"
  THEIR_HOUSE_RECEIVED_MODIFIER_UNTIL_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gained $MODIFIER|V$ for $DURATION|V$"
  MY_HOUSE_RECEIVE_MODIFIER_UNTIL_EFFECT:1 "Your [house|E] gains $MODIFIER|V$ for $DURATION|V$"
  THEIR_HOUSE_RECEIVE_MODIFIER_UNTIL_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gains $MODIFIER|V$ for $DURATION|V$"
- HOUSE_RECEIVES_MODIFIER_UNTIL_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] gains $MODIFIER|V$ for $DURATION|V$"
+ HOUSE_RECEIVES_MODIFIER_UNTIL_EFFECT:1 "Gains $MODIFIER|V$ for $DURATION|V$"
 
  REMOVES_HOUSE_MODIFIER:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] loses $MODIFIER|V$"
  MY_HOUSE_LOST_MODIFIER_EFFECT:1 "Your [house|E] lost $MODIFIER|V$"
  THEIR_HOUSE_LOST_MODIFIER_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] lost $MODIFIER|V$"
  MY_HOUSE_LOSES_MODIFIER_EFFECT:1 "Your [house|E] loses $MODIFIER|V$"
  THEIR_HOUSE_LOSE_MODIFIER_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] loses $MODIFIER|V$"
- HOUSE_LOSES_MODIFIER_EFFECT:0 "[house|E] [DYNASTY_HOUSE.GetBaseName|V] loses $MODIFIER|V$"
+ HOUSE_LOSES_MODIFIER_EFFECT:1 "Loses $MODIFIER|V$"
 
  ADDS_DYNASTY_MODIFIER:1 "The [DYNASTY.GetBaseName|V] [dynasty|E] gains $MODIFIER|V$"
  MY_DYNASTY_RECEIVED_MODIFIER_EFFECT:1 "Your [dynasty|E] gained $MODIFIER|V$"
@@ -1390,8 +1400,8 @@
  DYNASTY_LOSES_PRESTIGE_EFFECT:1 "[dynasty|E] [DYNASTY.GetBaseName] loses [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
  DYNAST_GAINED_PRESTIGE_EFFECT:1 "[dynasty|E] [DYNASTY.GetBaseName] gained [dynasty_prestige_i]$VALUE|+0$ [dynasty_prestige|E]"
  DYNAST_LOST_PRESTIGE_EFFECT:1 "[dynasty|E] [DYNASTY.GetBaseName] lost [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
- DYNASTY_GAINED_PRESTIGE_GLOBAL_EFFECT:1 "[dynasty|E] [DYNASTY.GetBaseName] gains [dynasty_prestige_i]$VALUE|+0$ [dynasty_prestige|E]"
- DYNASTY_LOST_PRESTIGE_GLOBAL_EFFECT:1 "[dynasty|E] [DYNASTY.GetBaseName] loses [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
+ DYNASTY_GAINED_PRESTIGE_GLOBAL_EFFECT:2 "Gains [dynasty_prestige_i]$VALUE|+0$ [dynasty_prestige|E]"
+ DYNASTY_LOST_PRESTIGE_GLOBAL_EFFECT:2 "Loses [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
  DYNASTY_GAIN_PRESTIGE_EFFECT:0 "[dynasty|E] [DYNASTY.GetBaseName] gains [dynasty_prestige_i]$VALUE|+0$"
  DYNASTY_LOSE_PRESTIGE_EFFECT:0 "[dynasty|E] [DYNASTY.GetBaseName] spends [dynasty_prestige_i]$VALUE|-0$"
 
@@ -1787,7 +1797,7 @@
 
  CHILDREN_ARE_BORN_WITH_EXTRA_STATS:0 "Children receive #P 1#! to #P 3#! extra [skill|E] points"
 
- BEFRIEND_SUCCESS_CHANCE_AGAINST_FAMILY:0 "[personal_scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('thicker_than_water_bonus')|0]%#! against family members"
+ BEFRIEND_SUCCESS_CHANCE_AGAINST_FAMILY:0 "[personal_scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('thicker_than_water_bonus')|0]%#! against family members\nYou are able to use the [fp3_free_house_member_cb|E] [casus_belli|E]\nYou are able to use the [fp3_unify_house_cb|E] [casus_belli|E]"
  PERSONAL_SCHEME_SUCCESS_CHANCE_AGAINST_DYNASTY:0 "[personal_scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('kin_legacy_4_success_chance')|0]%#! against [dynasty|E] members"
 
  GAIN_SKILL_FROM_AGING:1 "Increase [skills|E] with Age"
@@ -2170,6 +2180,11 @@
  custom.every_activity_guest:2 "Every [activity_guest_short|E]"
  custom.every_active_accolade:0 "Every [acclaimed_knight|E]"
  custom.every_activity_guest_with_trait_in_common:0 "Every guest with at least one [trait|E] in common with you"
+ custom.every_vassal_who_likes_you: "Every [vassal|E] that likes [ROOT.Char.GetShortUIName]"
+ custom.every_vassal_who_dislikes_you: "Every [vassal|E] that dislikes [ROOT.Char.GetShortUIName]"
+ 
+ custom.every_vassal_who_likes_you.fp3: "Every [vassal|E] that likes #high you#! or supports #high the Caliph#!"
+ custom.every_vassal_who_dislikes_you.fp3: "Every [vassal|E] that dislikes #high you#!"
  custom.every_landed_activity_guest:0 "Every [landed|E] [activity|E] guest"
  custom.every_parochial_or_courtly_vassal: "Every [GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName] or [GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] [vassal|E]"
  custom.every_zealot_vassal: "Every [GetVassalStance( 'zealot' ).GetTextIcon][GetVassalStance( 'zealot' ).GetName] [vassal|E]"
@@ -2177,6 +2192,12 @@
  custom.every_courtly_vassal: "Every [GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] [vassal|E]"
  custom.every_minority_or_parochial_vassal: "Every [GetVassalStance( 'minority' ).GetTextIcon][GetVassalStance( 'minority' ).GetName] or [GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName] [vassal|E]"
  custom.every_same_culture_held_county: "Every held [county|E] of your [culture|E]"
+ custom.every_involved_struggle_ruler: "Every [struggle_involved|E] [ruler|E]"
+ custom.every_interloper_struggle_ruler: "Every [struggle_interloper|E] [ruler|E]"
+ custom.every_opposed_involved_struggle_ruler.supporter: "Every [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] [struggle_involved|E] [ruler|E]"
+ custom.every_opposed_interloper_struggle_ruler.supporter: "Every [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] [struggle_interloper|E] [ruler|E]"
+ custom.every_opposed_involved_struggle_ruler.detractor: "Every [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] [struggle_involved|E] [ruler|E]"
+ custom.every_opposed_interloper_struggle_ruler.detractor: "Every [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] [struggle_interloper|E] [ruler|E]"
 
  guest_and_family_move_to_specific_pool_effect.tt.family:0 "The [character|E] and any [family|E] traveling with them"
 
@@ -2294,7 +2315,9 @@
  CREATE_ARTIFACT_EFFECT_THIRD_PAST:0 "[CHARACTER.GetShortUIName|U] gained $ARTIFACT_NAME$ [artifact|E]"
 
  START_STRUGGLE_EFFECT:0 "Starts a $TYPE|V$ [struggle|E]"
+ END_STRUGGLE_EFFECT: "Ends the $TYPE|V$ [struggle|E]"
  ACTIVATE_STRUGGLE_CATALYST:0 "Activate $CATALYST_NAME$"
+ ACTIVATE_STRUGGLE_CATALYST_PAST: "Activated $CATALYST_NAME$"
  CHANGE_STRUGGLE_PHASE_EFFECT:0 "Change phase to $STRUGGLE_PHASE$"
 
  SET_ARTIFACT_RARITY_EFFECT:0 "Becomes $RARITY$"
@@ -2433,11 +2456,11 @@
  THEY_CHANGED_DIARCHY_TYPE:1 "[CHARACTER.GetNamePossessive] [power_sharing|E] transitioned into [CHARACTER.Custom('GetDiarchyArticle')] [CHARACTER.GetDiarchyTypeName]"
  GLOBAL_CHANGED_DIARCHY_TYPE:0 "[CHARACTER.GetShortUINamePossessive] [power_sharing|E] transitioned into [CHARACTER.Custom('GetDiarchyArticle')] [CHARACTER.GetDiarchyTypeName]"
 
- I_SET_DIARCH:0 "[TARGET_CHARACTER.GetName] is my new [CHARACTER.GetDiarchTitle]"
- THEY_SET_DIARCH:0 "[TARGET_CHARACTER.GetName] is [CHARACTER.GetNamePossessive] new [CHARACTER.GetDiarchTitle]"
+ I_SET_DIARCH:1 "[TARGET_CHARACTER.GetShortUIName] is my new [CHARACTER.GetDiarchTitle]"
+ THEY_SET_DIARCH:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString( TARGET_CHARACTER.IsLocalPlayer, 'are', 'is' )] [CHARACTER.GetShortUINamePossessive] new [CHARACTER.GetDiarchTitle]"
 
- I_CHANGED_DIARCH:0 "[TARGET_CHARACTER.GetName] has become my new [CHARACTER.GetDiarchTitle]"
- THEY_CHANGED_DIARCH:0 "[TARGET_CHARACTER.GetName] has become [CHARACTER.GetNamePossessive] new [CHARACTER.GetDiarchTitle]"
+ I_CHANGED_DIARCH:1 "[TARGET_CHARACTER.GetShortUIName] has become my new [CHARACTER.GetDiarchTitle]"
+ THEY_CHANGED_DIARCH:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString( TARGET_CHARACTER.IsLocalPlayer, 'become', 'becomes' )] [CHARACTER.GetShortUINamePossessive] new [CHARACTER.GetDiarchTitle]"
 
  I_SET_POWER_LEVEL:0 "My [CHARACTER.GetDiarchyTypeName] [scales_of_power|E] are set to $VALUE|0$"
  THEY_SET_POWER_LEVEL:1 "[CHARACTER.GetNamePossessive] [CHARACTER.GetDiarchyTypeName] [scales_of_power|E] swing is set to $VALUE|0$"
@@ -2550,3 +2573,13 @@
  SKIP_ACTIVITY_PHASE_GLOBAL:0 "[activity_phase|E] is skipped"
  SKIP_ACTIVITY_PHASE_FIRST_PAST:0 "The last [activity_phase|E] in [ACTIVITY.GetName] has been skipped"
  SKIP_ACTIVITY_PHASE_GLOBAL_PAST:0 "[activity_phase|E] has been skipped"
+ 
+ SET_HOUSE_HEAD_GLOBAL_PAST: "[Character.GetShortUIName|U] became the [DynastyHouse.GetBaseName|V] [house_head|E]"
+ SET_HOUSE_HEAD_GLOBAL: "[Character.GetShortUIName|U] will become the [DynastyHouse.GetBaseName|V] [house_head|E]"
+
+ FIRE_TAX_COLLECTOR_FIRST_PAST: "[TARGET_CHARACTER.GetShortUIName] stopped being [CHARACTER.GetShortUINamePossessive] [tax_collector|E]"
+ FIRE_TAX_COLLECTOR_THIRD_PAST: "[TARGET_CHARACTER.GetShortUIName] stopped being [CHARACTER.GetShortUINamePossessive] [tax_collector|E]"
+ FIRE_TAX_COLLECTOR_PAST: "[TARGET_CHARACTER.GetShortUIName] stopped being a [tax_collector|E]"
+ FIRE_TAX_COLLECTOR_FIRST: "[CHARACTER.GetShortUIName|U] fire the [tax_collector|E] [TARGET_CHARACTER.GetShortUIName]" 
+ FIRE_TAX_COLLECTOR_THIRD: "[CHARACTER.GetShortUIName|U] fires the [tax_collector|E] [TARGET_CHARACTER.GetShortUIName]"
+ FIRE_TAX_COLLECTOR: "[TARGET_CHARACTER.GetShortUIName|U] stops being a [tax_collector|E]"

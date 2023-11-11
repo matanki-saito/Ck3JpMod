@@ -62,8 +62,8 @@
  HAS_CULTURAL_PILLAR_THIRD:0 "$HAS_CULTURAL_PILLAR_FIRST$"
  HAS_CULTURAL_PILLAR_THIRD_NOT:0 "$HAS_CULTURAL_PILLAR_FIRST_NOT$"
 
- HAS_CULTURAL_PARAMETER_FIRST:1 "[CULTURE.GetName|U] has the required [tradition|E]"
- HAS_CULTURAL_PARAMETER_FIRST_NOT:1 "[CULTURE.GetName|U] does not have the required [tradition|E]"
+ HAS_CULTURAL_PARAMETER_FIRST:1 "[CULTURE.GetName|U] has the $PARAMETER_NAME$ [tradition|E]"
+ HAS_CULTURAL_PARAMETER_FIRST_NOT:1 "[CULTURE.GetName|U] does not have the $PARAMETER_NAME$ [tradition|E]"
  HAS_CULTURAL_PARAMETER_THIRD:0 "$HAS_CULTURAL_PARAMETER_FIRST$"
  HAS_CULTURAL_PARAMETER_THIRD_NOT:0 "$HAS_CULTURAL_PARAMETER_FIRST_NOT$"
 
@@ -71,3 +71,6 @@
  NOT_NUM_DISCOVERED_INNOVATIONS_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! is not $COMPARATOR$ $NUM|V0$"
 
  NUM_DISCOVERED_INNOVATIONS_IN_ERA_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of Discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! in the $ERA$ [era|E] is $COMPARATOR$ $NUM|V0$"
+
+ HAS_SAME_CULTURAL_HERITAGE: "You share the same [Concept('culture','cultural')|E] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE_NOT: "You do not share the same [Concept('culture','cultural')|E] [heritage|E]"

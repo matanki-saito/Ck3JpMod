@@ -15,4 +15,6 @@
  DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty_prestige_level|E]: $NUM|V0$"
  HAS_DYNASTY_TRIGGER:0 "Is a member of a [dynasty|E]"
  DYNASTY_NUM_UNLOCKED_PERKS:0 "Number of unlocked perks: $NUM|V0$"
- HAS_DYNASTY_PERK_NONE:0 "[dynasty|E] has the [DYNASTY_PERK.GetName] Legacy"
+ HAS_DYNASTY_PERK_NONE:0 "The [dynasty|E] has the [DYNASTY_PERK.GetName] Legacy"
+ NOT_HAS_DYNASTY_PERK: "The [DYNASTY.GetBaseName] [dynasty|E] does not have the [DYNASTY_PERK.GetName] Legacy"
+ HAS_DYNASTY_PERK: "The [DYNASTY.GetBaseName] [dynasty|E] has the [DYNASTY_PERK.GetName] Legacy"

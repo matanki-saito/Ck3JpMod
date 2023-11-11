@@ -19,6 +19,7 @@
  executed_close_relation_opinion:0 "Executed Close Relation"
  executed_my_countryman_modifier:0 "Executed my Subject"
  executed_guest_modifier:0 "Executed another Guest"
+ executed_valuable_prisoner_modifier: "Executed Valuable Prisoner"
 
  tortured_family_member:0 "Tortured Family Member"
  tortured_me:0 "Tortured Me"

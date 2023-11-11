@@ -124,6 +124,7 @@
  every_parochial_vassal:0 "Every $parochial_vassal$ ([root_scope.MakeScope.ScriptValue('number_of_parochial_vassals')|V0])"
  every_parochial_vassal_no_count:0 "Every $parochial_vassal$"
  every_zealot_vassal:0 "Every $zealot_vassal$ ([root_scope.MakeScope.ScriptValue('number_of_zealot_vassals')|V0])"
+ every_minority_vassal: "Every $minority_vassal$ ([root_scope.MakeScope.ScriptValue('number_of_minority_vassals')|V0])"
 
  every_participating_glory_hound_vassal:1 "Every participating $glory_hound_vassal$ ([THIS.Char.MakeScope.ScriptValue('number_of_participating_glory_hound_vassals')|V0])"
  every_participating_courtly_vassal:1 "Every participating $courtly_vassal$ ([THIS.Char.MakeScope.ScriptValue('number_of_participating_courtly_vassals')|V0])"

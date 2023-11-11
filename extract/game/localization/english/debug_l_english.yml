@@ -103,6 +103,9 @@
  debug_sex_interaction:0 "#italic Sleep#! With Character"
  debug_change_every_county:0 "Take Action In Every County"
  debug_change_every_county.a:0 "Completely Control"
+ debug_change_every_county.b: "Set Popular Opinion to:"
+ debug_change_every_county.b.a: "$debug_change_every_county.b$ $game_concept_high$"
+ debug_change_every_county.b.b: "$debug_change_every_county.b$ $curse_shit$"
  test_effect_localization_interaction:0 "Test Interaction Effect Localization"
  change_cultural_acceptance_debug_interaction:0 "Change Cultural Acceptance"
  increase_cultural_acceptance_debug_interaction:0 "Cultural Acceptance #P +25%#!"
@@ -259,6 +262,7 @@
  is_frontend_character_selected:0 "Is a frontend character selected"
  fertility_trigger:0 "Fertility: $NUM|V0$"
  witchcraft_scheme_blocked_trigger:0 "Witchcraft scheme possible"
+ crypto_religionist_scheme_blocked_trigger: "Crypto-[ROOT.Char.GetSecretFaith.GetName] scheme possible"
  has_game_rule_trigger:0 "Has game rule: [GAME_RULE.GetName]"
  release_only_trigger:0 "Release Only"
  has_global_variable_trigger:0 "Has Global Variable: $VARIABLE$"
@@ -315,6 +319,13 @@
  add_glory_debug_high_tt:0 "Add 2500 Glory (set [accolade|E] to max rank)"
  add_glory_debug_low_tt:0 "Add 250 Glory"
  add_glory_debug_delete_tt:0 "Set Glory to 0"
+
+ debug_progress_all_active_schemes_interaction: "Complete Active Schemes"
+
+ debug.511.a: "Set rabbinism as secret faith for [ROOT.Char.GetName]"
+ debug.511.b: "Remove [ROOT.Char.GetSecretFaith.GetName] as [ROOT.Char.GetName] secret faith"
+ debug.512.a: "[ROOT.Char.GetName] has [ROOT.Char.GetSecretFaith.GetName] as their secret faith"
+ 
  change_hunt_success_chance:0 "Change Hunt Success Chance"
  ERROR_FLAG_INDEX:0 "-"
  
@@ -333,3 +344,6 @@
  truce_one_way_give: "One-Way (Give)"
  truce_two_way: "Two-Way"
  TRUCE_DEBUG: "#D Debug Truce#!"
+
+ steam_rich_presence_debug_t: "Test your steam rich presence"
+ steam_rich_presence_debug_desc: "You: [GetPlayer.Custom('rich_presence_flavor_status')] [GetPlayer.GetFullName]\n\nA sayyid: [sayyid.Custom('rich_presence_flavor_status')] [sayyid.GetFullName]\n\nA Caliph detractor: [fp3_struggle_detractor.Custom('rich_presence_flavor_status')] [fp3_struggle_detractor.GetFullName]\n\nA Caliph Supporter: [fp3_struggle_supporter.Custom('rich_presence_flavor_status')] [fp3_struggle_supporter.GetFullName]\n\nThe Caliph in 867: [sus_caliph.Custom('rich_presence_flavor_status')] [sus_caliph.GetFullName]\n\nIberian Struggle: [iberian_struggle.Custom('rich_presence_flavor_status')] [iberian_struggle.GetFullName]\n\nPersian Struggle: [persian_struggle.Custom('rich_presence_flavor_status')] [persian_struggle.GetFullName]"

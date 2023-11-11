@@ -267,6 +267,10 @@
  msg_vassalization_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] can no longer be vassalized."
  msg_subjugation_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] can no longer be subjugated."
  msg_excommunication_war_invalidation_trait_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] is no longer Excommunicated."
+ msg_raid_war_invalidated_message:0 "The [war.GetName] has ended: [defender.GetTitledFirstName] can no longer be raided"
+ msg_free_house_member_war_invalidated_message: "The [war.GetName] has ended: [defender.GetTitledFirstName] no longer has any imprisoned members of [house|E] [attacker.GetHouse.GetBaseNameNoTooltip] "
+ msg_unify_house_war_invalidated_message: "The [war.GetName] has ended: [defender.GetTitledFirstName] no longer has any vassals of [house|E] [attacker.GetHouse.GetBaseNameNoTooltip] "
+
  msg_my_hook_replaced:0 "Hook Replaced"
  msg_my_hook_replaced_desc:1 "Your [hook|E] on [LEFT_CHARACTER.GetShortUIName] has been replaced with a [HOOK.GetName] Hook"
  msg_my_hook_added:0 "Hook Gained"
@@ -280,11 +284,12 @@
  msg_hook_on_me_expired_desc:1 "[LEFT_CHARACTER.GetShortUINamePossessive] [HOOK.GetName] [hook|E] on you has expired"
  msg_my_hook_expired:0 "Hook Expired"
  msg_my_hook_expired_desc:1 "Your [hook|E] on [LEFT_CHARACTER.GetShortUIName] has expired"
- msg_raid_war_invalidated_message:0 "The [war.GetName] has ended: [defender.GetTitledFirstName] can no longer be raided"
+
  death_notification_title:1 "Your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )|U] #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
  lover_death_notification_title:0 "Your Lover #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
  friend_death_notification_title:0 "Your Friend #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
  councillor_death_notification_title:0 "Your Councillor #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
+
  msg_perk_point_added:1 "[LIFESTYLE.GetName] Perk Available"
  msg_perk_point_added_desc:1 "You can unlock a new Perk for the [LIFESTYLE.GetName] Lifestyle"
  msg_focus_invalidated:1 "Lifestyle Focus Invalidated"
@@ -425,6 +430,11 @@
  msg_set_relation_lover_desc:0 "[GetRelation( 'lover' ).GetReasonFor( LEFT_CHARACTER.Self, RIGHT_CHARACTER.Self )]"
  msg_set_relation_soulmate_title:1 "@soulmate_icon! Found Soulmate"
  msg_set_relation_soulmate_desc:0 "[GetRelation( 'soulmate' ).GetReasonFor( LEFT_CHARACTER.Self, RIGHT_CHARACTER.Self )]"
+
+ msg_house_unity_change_stage: "House Unity Level Changed"
+ msg_house_unity_change_stage_desc: "Your [house_unity|E] has changed Level to $HOUSE_UNITY_STAGE_NAME|U$"
+ msg_house_unity_change_stage_tt: "$msg_house_unity_change_stage_desc$"
+ 
  
  msg_start_diarchy_title:0 "I entered into [LEFT_CHARACTER.GetDiarchy.GetDiarch.Custom('GetDiarchyArticle')] [LEFT_CHARACTER.GetDiarchyTypeName]"
  msg_start_diarchy_effect:0 "I began [sharing_power|E] with [RIGHT_CHARACTER.GetName]"

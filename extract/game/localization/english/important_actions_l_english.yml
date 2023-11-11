@@ -518,6 +518,8 @@
  action_can_propose_alliance_to_family_member_label:1 "@alliance_icon! You can Negotiate an Alliance with your [actor.Custom2('RelationToMe', recipient)] [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetShortUINameNoTooltip], #low @soldier_icon![recipient.GetMilitaryStrengthText]#! [actor.Custom2('GetInOrOutsideRealm', recipient)]"
  action_can_propose_alliance_to_family_member_combined_label:1 "Your [actor.Custom2('RelationToMe', recipient)] [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip], #low @soldier_icon![recipient.GetMilitaryStrengthText]#! [actor.Custom2('GetInOrOutsideRealm', recipient)]"
  action_can_propose_alliance_to_family_member_click:0 "#I Click to Negotiate Alliance#!"
+ action_can_propose_alliance_to_family_member_combined_unimportant: "@warning_icon! #X You will not be able to call them to War#!"
+ action_can_propose_alliance_to_family_member_unimportant: "@warning_icon! #X You will not be able to call [recipient.GetHerHim] to War#!"
  
  action_can_potentially_propose_alliance_to_family_member:0 "@alliance_icon! Potential Alliance Negotiations"
  action_can_potentially_propose_alliance_to_family_member_combined_group_label:0 "@alliance_icon! Potential Alliance Negotiations"
@@ -640,6 +642,16 @@
  action_can_hire_court_physician_label:1 "@court_physician_icon! You are not employing a Court Physician"
  action_can_hire_court_physician_desc:1 "You are not employing a Court Physician as a [court_position|E], you should hire one.\n\n#help A Court Physician will treat [diseases|E] and wounds both for you and your [courtiers|E], making them invaluable for staying alive.#!"
  action_can_hire_court_physician_click:0 "#I Click to view#!"
+
+ action_appoint_tax_collector: "@tax_collector_icon! Appoint a Tax Collector"
+ action_appoint_tax_collector_label: "@tax_collector_icon! You are not taxing your Vassals"
+ action_appoint_tax_collector_desc: "You are not taxing your [clan|E] [vassals|E].\n\n#help [tax_collectors|E] are in charge of collecting [levies|E] and [gold|E] from your Clan Vassals. You should appoint a $game_concept_tax_collector$ and assign [taxpayers|E] to your [tax_jurisdictions|E].#!"
+ action_appoint_tax_collector_click: "#I Click to view#!"
+ 
+ action_assign_tax_payers: "@tax_collector_icon! Assign Taxpayers"
+ action_assign_tax_payers_label: "@tax_collector_icon! Your Tax Collector has no Taxpayers"
+ action_assign_tax_payers_desc: "You are not taxing your [clan|E] [vassals|E].\n\n#help A [tax_jurisdiction|E] with a [tax_collector|E] but no [taxpayers|E] will not yield any [gold|E] or [levy|E] contribution. Assign Clan Vassals as $game_concept_taxpayers$ to collect $game_concept_taxes$ from them.#!"
+ action_assign_tax_payers_click: "#I Click to view#!"
 
  action_station_men_at_arms:0 "@stationed_regiment_icon! Men-at-Arms can be Stationed"
  action_station_men_at_arms_label:0 "@stationed_regiment_icon! You can station a Men-at-Arms Regiment"

@@ -20,7 +20,7 @@
 
  general_rebellion_decline_summary:0 "[recipient.Custom2('RevokeTitleDeclineSummary', SCOPE.sC('actor'))]"
  general_rebellion_decline_summary_warning:0 "@warning_icon!#X If [ROOT.Char.GetShortUINameNoTooltip] declines [ROOT.Char.GetSheHe] will rise up in rebellion with other disgruntled [vassals|E]!#!"
- general_rebellion_decline_summary_auto_accept:0 "" #Supposed to be empty, we want no warning about them rising up in rebellion if they can't refuse and do so
+ general_rebellion_decline_summary_auto_accept:0 ""
 
 
  stop_attacker_vassal_war_interaction:0 "Stop Vassal War"
@@ -72,6 +72,7 @@
  
  pardon_interaction:0 "Grant Pardon"
  pardon_interaction_desc:1 "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you."
+ pardon_interaction_has_jirga_desc: "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you, as well as give you prestige due to your $tradition_fp3_jirga_name$#! tradition."
  pardon_interaction_toast:0 "Your benevolent liege, [actor.GetFirstName], has pardoned your crimes!"
 
  county_must_have_city_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip] must contain one [city|E] or have a [development|E] level of over 20."

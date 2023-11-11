@@ -179,3 +179,10 @@
  tooltip_scandinavian_elective_capital_opinion:0 "Capital [county_opinion|E]: $VALUE|=+0$"
  tooltip_scandinavian_elective_capital_development:0 "Capital [county_development|E]: $VALUE|=+0$"
  tooltip_scandinavian_elector_vote_prowess:0 "[candidate.GetSheHe|U] is a warrior of great [prowess|E]: $VALUE|=+0$"
+
+ #Tribal Elective
+ tooltip_tribal_elective_development: ""Total [development|E], modified by [faith|E] and [heritage|E]: $VALUE|=+0$"
+ tooltip_tribal_elective_capital_opinion: "Capital [county_opinion|E]: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_elder: "[candidate.GetSheHe|U] is a venerable elder: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_stranger: "[candidate.GetSheHe|U] is not of my tribe: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_relative: "[candidate.GetSheHe|U] belongs to my clan: $VALUE|=+0$"

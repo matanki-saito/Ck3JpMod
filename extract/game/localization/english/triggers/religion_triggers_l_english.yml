@@ -53,3 +53,7 @@
  has_pledged_attacker:0 "You are a pledged attacker"
  they_have_pledged_as_attacker:0 "They are a pledged attacker in your faith's [GREAT_HOLY_WAR.GetName]"
  has_pledged_defender:0 "You are a pledged defender"
+
+ ANY_FAITH_RULER_GLOBAL: "Any [FAITH.GetAdjectiveNoTooltip] [ruler|E]"
+
+

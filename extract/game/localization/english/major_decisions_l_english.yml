@@ -79,3 +79,4 @@
  major_decisions.3100.tt_opinion_witengamot:1 "Vassals of [cultures|E] with $tradition_the_witenagemot_name$ [culture_tradition|E]"
  major_decisions.3100.tt_opinion_thing:1 "Vassals of [cultures|E] of $heritage_north_germanic_name$ [heritage|E]"
  major_decisions.3100.tt_opinion_tanistry:1 "Vassals whose [cultures|E] of $heritage_goidelic_name$ [heritage|E]"
+ major_decisions.3100.tt_opinion_jirga: "Vassals of [cultures|E] with $tradition_fp3_jirga_name$ [culture_tradition|E]"

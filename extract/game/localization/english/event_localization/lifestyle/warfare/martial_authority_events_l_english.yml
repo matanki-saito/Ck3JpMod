@@ -49,8 +49,8 @@
 
  martial_authority.2052.message:0 "I Imprisoned My Right-Hand [right_hand_person.GetWomanMan]"
  martial_authority.2053.toast:0 "My right-hand [right_hand_person.GetWomanMan] has been imprisoned by [imprisoner.Custom2('MyCharacterIntroduction'), ROOT.Char], and cannot serve me unless freed."
- martial_authority.2054.toast:0 "My right-hand [right_hand_person.GetWomanMan] has been freed from prison and has returned to my service."
- martial_authority.2054.toast.no_return:0 "My right-hand [right_hand_person.GetWomanMan] has been freed from prison, but has not returned to my service."
+ martial_authority.2054.toast:1 "My right-hand [right_hand_person.GetWomanMan] Returns to my Service"
+ martial_authority.2054.toast.no_return:1 "My right-hand [right_hand_person.GetWomanMan] Does Not Return to my Service"
  martial_authority.2055.message:0 "My Right-Hand [right_hand_person.GetWomanMan] Left My Service"
  martial_authority.2055.message.incapable:0 "My Right-Hand [right_hand_person.GetWomanMan] Has Become Incapable"
  martial_authority.2056.message:1 "My Right-Hand [ROOT.Char.GetWomanMan|U] Died"

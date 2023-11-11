@@ -469,7 +469,7 @@
  accolade_night_god:0 "[ROOT.Char.GetFaith.NightGodName]"
  accolade_household_god:0 "[ROOT.Char.GetFaith.HouseholdGodName]"
  accolade_fertility_god:0 "[ROOT.Char.GetFaith.FertilityGodName]"
- accolade_good_god:0 "[ROOT.Char.GetFaith.random_GoodGodNames]"
+ accolade_good_god:0 "[ROOT.Char.GetFaith.GoodGodNames]"
  accolade_high_god:0 "[ROOT.Char.GetFaith.HighGodName]"
 
  accolade_mandate:0 "Mandate"

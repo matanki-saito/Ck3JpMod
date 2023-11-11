@@ -101,6 +101,7 @@
  ## Combat Move Option Copy
  single_combat.0001.wait_and_hope:0 "Maybe if I wait, [my_foe.GetSheHe]'ll trip on [my_foe.GetHerHis] [my_foe.Custom('signature_weapon')]?"
  single_combat.0001.unsure_attack:0 "Uh, have at thee! Just #EMP die#!!"
+ single_combat.0001.unsure_attack_non_fatal: "Uh, have at thee! Just #EMP yield#!!"
  single_combat.0001.enthusiastic_onslaught.banned_house:0 "#EMP [myself.GetFullNameNoTooltip]!#!"
  single_combat.0001.enthusiastic_onslaught.own_house:0 "You are a disgrace to the [myself.GetHouse.GetNameNoTooltip] name!"
  single_combat.0001.enthusiastic_onslaught.motto:0 "#EMP [myself.GetHouse.GetMotto]#!, scum!"

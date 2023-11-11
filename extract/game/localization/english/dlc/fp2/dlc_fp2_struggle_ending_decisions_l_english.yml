@@ -89,4 +89,5 @@
  CB_COST_FP2_STRUGGLE_COMPROMISE_MULTIPLIER:0 "Compromise"
  struggle_compromise_duchy_transfer_tt:0 "Connected and [completely_controlled|E] [duchies|E] transfer [de_jure|E] to the primary [kingdom|E] of their [top_liege|E]"
  fp2_struggle_can_keep_using_struggle_clash_tt:0 "[struggle_conquest|E] remains available"
- struggle_ending_decision_correct_involvement_tt:0 "You are [struggle_involved|E]"
+ struggle_ending_decision_correct_involvement_tt:1 "You are [struggle_involved|E] in [persian_struggle|E]"
+ must_not_be_persia_involved_tt: "You must not be [struggle_involved|E] in [persian_struggle|E]"

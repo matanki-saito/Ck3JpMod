@@ -380,6 +380,28 @@
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp2_iberian_christian_war_nob_01_hi:0 "Iberian Christian Armor High"
 
 
+############################
+### FP3 - Sands of Time ###
+############################
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_01_lo: "Iranian Low Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_02_lo: "Iranian Low Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_03_lo: "Iranian Low Nobility Clothing 3"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_01_hi: "Iranian High Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_02_hi: "Iranian High Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_03_hi: "Iranian High Nobility Clothing 3"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_war_nob_01: "Iranian Nobility Armor"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_01_lo:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_01_lo$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_02_lo:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_02_lo$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_03_lo:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_03_lo$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_01_hi:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_01_hi$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_02_hi:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_02_hi$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_nob_03_hi:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_nob_03_hi$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_fp3_iranian_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_fp3_iranian_war_nob_01$"
+
 ####################################
 ### SP2 - Elegance of the Empire ###
 ####################################
@@ -680,6 +702,26 @@
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp2_iberian_muslim_war_nob_01_lo:0 "Andalusian Non-Decorated Helmet"
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp2_iberian_muslim_war_nob_01_hi:1 "Andalusian Decorated Helmet"
 
+###########
+### FP3 ###
+###########
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_iranian_imp_01: "Iranian Imperial Crown"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_iranian_roy_01: "Iranian Crown"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_iranian_nob_01: "Kolah Namadi"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_iranian_nob_02: "Qalansuwa Tawila"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_iranian_war_nob_01: "Peacock Helmet"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_turkic_nob_01: "Woolly Cap"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_fp3_turkic_nob_02: "Sharbush"
+ PORTRAIT_MODIFIER_custom_special_m_headgear_fp3_iranian_face_mask_01: "Turko-Persian Mask"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp3_iranian_imp_01: "Iranian Imperial Crown"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp3_iranian_roy_01: "Winged Crown"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp3_iranian_nob_01: "Laced Cap with Bow"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp3_iranian_nob_02: "Round Cap with Ornament "
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_fp3_iranian_war_nob_01: "Peacock Helmet"
 
 ####################################
 ### SP2 - Elegance of the Empire ###
@@ -820,6 +862,20 @@
  PORTRAIT_MODIFIER_custom_hair_female_hair_fp2_iberian_muslim_02_common:0 "Fine Curls"
  PORTRAIT_MODIFIER_custom_hair_female_hair_fp2_iberian_muslim_03_common:0 "Four Braids"
 
+### Male FP3 Hair ###
+ PORTRAIT_MODIFIER_custom_hair_m_hair_fp3_iranian_01:1 "Long Split in Strands"
+ PORTRAIT_MODIFIER_custom_hair_m_hair_fp3_iranian_02:1 "Seljuk Braids"
+ PORTRAIT_MODIFIER_custom_hair_m_hair_fp3_iranian_03:1 "Medium with Wavy Ends"
+
+ ### Female FP3 Hair ###
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_01:1 "Medium Curls with Earring"
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_01_common:1 "Medium Curls"
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_02:1 "Long Split in Strands with Earring"
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_02_common:1 "Long Split in Strands"
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_03:1 "Medium Buns with Earring"
+ PORTRAIT_MODIFIER_custom_hair_f_hair_fp3_iranian_03_common:1 "Medium Buns"
+
+
  ### Male Special ###
  PORTRAIT_MODIFIER_custom_hair_male_hair_special_01:0 "Epic Dreads"
 
@@ -872,6 +928,11 @@
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp2_iberian_christian_03:1 "Caballero's Beard"
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp2_iberian_muslim_03:1 "Forked Beard"
  PORTRAIT_MODIFIER_custom_beards_male_beard_fp2_iberian_christian_04:0 "Droopy Mustache"
+
+ ### FP3 Beards ###
+ PORTRAIT_MODIFIER_custom_beards_m_beard_fp3_iranian_01:1 "Medium Beard with Knot"
+ PORTRAIT_MODIFIER_custom_beards_m_beard_fp3_iranian_02:1 "Long Pointy Beard"
+ PORTRAIT_MODIFIER_custom_beards_m_beard_fp3_iranian_03:1 "Babylonian Beard"
 
 ### SP2 Beards ###
  PORTRAIT_MODIFIER_custom_beards_m_beard_sp2_western_01:0 "Regal Mustache"
@@ -1363,9 +1424,9 @@
  throne_room_bow_1:0 "Bowing, Version One"
  throne_room_bow_2:0 "Bowing, Version Two"
  throne_room_bow_3:0 "Bowing, Version Three"
- throne_room_one_handed_passive_1:0 "One Handed Weapon Passive, Version One"
- throne_room_one_handed_passive_2:0 "One Handed Weapon Passive, Version Two"
- throne_room_two_handed_passive_1:0 "One Handed Weapon Passive, Version Three"
+ throne_room_one_handed_passive_1:1 "Passive with Sword"
+ throne_room_one_handed_passive_2:1 "Passive with Axe"
+ throne_room_two_handed_passive_1:1 "Passive with Spear"
  throne_room_writer:0 "Book & Quill"
  crossbow:0 "Crossbow"
  hunting_shortbow_rest_arrow_default:0 "Shortbow Idle, Default Arrow"

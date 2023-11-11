@@ -43,5 +43,7 @@
  RESPECTED_HOST:0 "[target.GetShortUINameNoTooltip] is an esteemed host: $VALUE|+0$"
  IS_POLITICKER:0 "My [accolade|E] encourages amoral political cunning: $VALUE|+0$"
  SCHEME_TAUGHT_TO_SCHEME: "You taught me to intrigue for you: $VALUE|+0$"
+ IS_PART_OF_STRUGGLE: "[target.GetShortUINameNoTooltip] part of the [struggle|E]: $VALUE|+0$"
  INTRIGUE_EDUCATION_5_BONUS: "[GetTrait('education_intrigue_5').GetName( GetNullCharacter )]: $VALUE|+0$"
  SCHEME_DUTIOUS_FAMILY: "You are stern on familial duty: $VALUE|+0$"
+

@@ -26,6 +26,7 @@
  clan.1101.t:0 "Balance of Power"
  clan.1101.desc:0 "[vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has come to me with a complaint. "Your family members have too much power in the [ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]. No matter how hard vassals such as myself work, we will never even come close to them!\n\nI implore you to remedy this injustice. After all, even the appearance of nepotism can breed resentment among your vassals...""
  clan.1101.a:0 "I hear your concerns, and will take them under advisement."
+ clan.1101.a.flavor: "You talk your way out of taking any meaningful action while still putting [vassal.GetFirstNameNoTooltip]'s mind at ease"
  clan.1101.b:0 "You are right. I will take steps to fix this immediately!"
  clan.1101.b.custom:0 "Every [vassal|E] [dynasty|E] member"
  clan.1101.b.tt:0 "Gains a [revoke_title_reason|E]"

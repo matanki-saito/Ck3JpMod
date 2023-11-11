@@ -9,7 +9,7 @@
  NOT_GOVERNMENT_HAS_FLAG_TRIGGER_THIRD:0 "Requires that [CHARACTER.GetShortUINamePossessive] $FLAG$"
 
  GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E] allows: $RULE|V$"
- THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|V] [government|E] allows: $RULE|V$"
+ THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|VU] [government|E] allows: $RULE|V$"
 
  GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] disallows: $RULE|V$"
 

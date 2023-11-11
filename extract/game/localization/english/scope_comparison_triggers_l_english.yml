@@ -18,6 +18,8 @@
  NOT_LIEGE_EQUAL_FIRST:1 "You are #bold not#! a vassal of [TARGET_CHARACTER.GetShortUIName]"
  LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] vassal"
  NOT_LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] vassal"
+ TOP_LIEGE_EQUAL_FIRST: "You are the [top_liege|E]"
+ NOT_TOP_LIEGE_EQUAL_FIRST: "You are #bold not#! the [top_liege|E]"
  KILLER_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] was killed by [TARGET_CHARACTER.GetShortUIName]"
  NOT_KILLER_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] was #bold not#! killed by [TARGET_CHARACTER.GetShortUIName]"
  IMPRISONER_EQUAL_FIRST:1 "You are a prisoner of [TARGET_CHARACTER.GetShortUIName]"
