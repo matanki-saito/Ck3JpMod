@@ -4,7 +4,7 @@
  pay_homage_decision_tooltip:0 "儀礼としてあなたの[liege|E]に[pay_homage|E]を誓約します"
  pay_homage_decision_effects:0 "あなたは忠誠の誓いをするために[THIS.Char.GetLiege.GetTitledFirstNamePossessive]の宮廷に旅立つ"
  pay_homage_decision_confirm:0 "$pay_homage_decision$"
- pay_homage_decision_second_tooltip:0 "$DESC$\n$pay_homage_grace_tt$\n\n$IS_VALID_BLOCKER$"
+ pay_homage_decision_second_tooltip:0 "$DESC$\n$pay_homage_grace_tt$"
  pay_homage_grace_tt:0 "#weak 忠誠の誓いは同じ主君に一度だけしか行えません#!"
  pay_homage_gift_warning_effect:0 "#weak 贈り物は忠誠の誓いの報酬を増加させます#!\n$pay_homage_grace_tt$"
  pay_homage_grace_valid_tt:0 "まだ[THIS.Char.GetLiege.GetTitledFirstName]に[pay_homage|E]を行なっていない。"

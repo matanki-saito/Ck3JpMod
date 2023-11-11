@@ -631,3 +631,4 @@
  hunt_animal_slayer_memory_desc_second_perspective:1 "[ROOT.Var('location').Province.GetBaronyNameExplicitly]における[host.GetTitledFirstNamePossessive]の[GetActivityType('activity_hunt').GetName]で[SCOPE.Custom('GetAnimalType')]を狩った"
  hunt_animal_slayer_memory_desc_host_third_perspective:1 "[ROOT.Var('location').Province.GetBaronyNameExplicitly]における[animal_slayer.GetTitledFirstName]の[GetActivityType('activity_hunt').GetName]で[animal_slayer.GetHerHis]は[SCOPE.Custom('GetAnimalType')]を狩った"
  hunt_animal_slayer_memory_desc_third_perspective:1 "[ROOT.Var('location').Province.GetBaronyNameExplicitly]における[host.GetTitledFirstNamePossessive]の[GetActivityType('activity_hunt').GetName]で[animal_slayer.GetTitledFirstName]は[SCOPE.Custom('GetAnimalType')]を狩った"
+ activity_hunt_province_desc_rainbow_mountains_major: "#P +++ $building_type_rainbow_mountains_01$#! ([building|E])\n"

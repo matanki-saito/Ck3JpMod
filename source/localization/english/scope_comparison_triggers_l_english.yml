@@ -101,3 +101,5 @@
  NOT_PROVINCE_CAPITAL_EQUAL_FIRST:0 "あなたの[realm_capital]が[PROVINCE.GetBaronyNameExplicitly]#bold ではない#!"
  ACCOLADE_TYPE_EQUAL_GLOBAL:0 "この[accolade_type|e]は無効です"
  ACCOLADE_TYPE_EQUAL_NONE:0 "この[accolade_type|e]は無効です"
+ TOP_LIEGE_EQUAL_FIRST: "You are the [top_liege|E]"
+ NOT_TOP_LIEGE_EQUAL_FIRST: "You are #bold not#! the [top_liege|E]"

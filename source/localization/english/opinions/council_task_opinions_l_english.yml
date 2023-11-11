@@ -19,3 +19,7 @@
  spouse_coerced_gift_opinion:0 "贈り物の強要"
  chancellor_bestow_royal_favor_opinion:0 "王家の恩寵"
  steward_convince_dejure_upset_modifier:0 "外交的失策"
+ marshal_task_train_commanders_supported_my_child_opinion: "Supported My Child"
+ marshal_task_train_commanders_rebuffed_my_child_opinion: "Rebuffed My Child"
+ steward_taxed_me_opinion: "Taxed Me"
+ steward_doubted_my_accounting_opinion: "Doubted My Accounting"

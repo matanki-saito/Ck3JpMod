@@ -26,3 +26,7 @@
  rf_eastern_opinion:1 "$rf_eastern_adherent$の評価"
  rf_pagan_opinion:0 "$pagan_adherent$の評価"
  rf_abrahamic_opinion:0 "[GetReligionFamily('rf_abrahamic').GetName]の評価"
+ ashari_opinion: "[GetFaithByKey('ashari').GetAdherentName] Opinion"
+ muwalladi_opinion: "[GetFaithByKey('muwalladi').GetAdherentName] Opinion"
+ maturidi_opinion: "[GetFaithByKey('maturidi').GetAdherentName] Opinion"
+ mutazila_opinion: "[GetFaithByKey('mutazila').GetAdherentName] Opinion"

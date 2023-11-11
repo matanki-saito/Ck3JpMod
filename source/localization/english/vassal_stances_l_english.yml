@@ -124,3 +124,4 @@
  every_parochial_vassal_actor: "全ての$parochial_vassal$（[actor.MakeScope.ScriptValue('number_of_parochial_vassals')|V0]）"
  every_zealot_vassal_actor: "全ての$zealot_vassal$（[actor.MakeScope.ScriptValue('number_of_zealot_vassals')|V0]）"
  every_minority_vassal_actor: "全ての$minority_vassal$（[actor.MakeScope.ScriptValue('number_of_minority_vassals')|V0]）"
+ every_minority_vassal: "Every $minority_vassal$ ([root_scope.MakeScope.ScriptValue('number_of_minority_vassals')|V0])"

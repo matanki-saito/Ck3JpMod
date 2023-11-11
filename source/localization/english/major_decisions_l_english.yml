@@ -66,3 +66,4 @@
  major_decisions.3100.tt_opinion_witengamot:1 "$tradition_the_witenagemot_name$の[culture_tradition|E]をもつ[cultures|E]の封臣"
  major_decisions.3100.tt_opinion_thing:1 "$heritage_north_germanic_name$の[heritage|E]をつぐ[cultures|E]の封臣"
  major_decisions.3100.tt_opinion_tanistry:1 "$heritage_goidelic_name$の[heritage|E]をつぐ[cultures|E]の封臣"
+ major_decisions.3100.tt_opinion_jirga: "$tradition_fp3_jirga_name$の[culture_tradition|E]を持つ[cultures|E]の封臣"

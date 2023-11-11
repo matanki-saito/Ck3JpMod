@@ -1,6 +1,6 @@
 ﻿l_english:
  bp1_yearly.3001.t:0 "真の友"
- bp1_yearly.3001.desc:0 "最近、[ROOT.Char.Custom( 'FortifiedBuilding' )]の周辺がやや苦境にある。私がいくら税金を集めても、生計が成り立たないのだ！\n\n常に従順な[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]である[friend.GetTitledFirstNameNoTooltip]が、この不幸な時に私を訪ねてきてくれた。我々が現在の問題について議論すると、彼は心からの励ましとともに、私の金庫を補うことを提案してくれる。\n\n[friend.GetFirstNameNoTooltip]は私の手を握りしめ、優しく言う。「私に手伝わせてくれ、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]よ。君は私にも同じことをしてくれると信じている。」"
+ bp1_yearly.3001.desc:0 "近頃、[ROOT.Char.Custom( 'FortifiedBuilding' )]あたりがやや苦しい。いくら税金を集めても、生計が成り立たないのだ！\n\nいつも義理堅い[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]の[friend.GetTitledFirstNameNoTooltip]が、この不幸な時に訪ねてきてくれた。[friend.GetSheHe]と現在の問題について議論すると、心からの励ましとともに、不足分の手当を提案してくれたのだ。\n\n[friend.GetFirstNameNoTooltip]は私の手を握りしめ、優しく言う。「私に手伝わせてくれ、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]よ。同じ状況に陥ったなら同じことをしてくれると信じているよ。」"
  bp1_yearly.3001.a:0 "[ROOT.Char.GetFaith.WealthGodName]による、この輝かしい驚きを称えよ！"
  bp1_yearly.3001.b:0 "友人に押しつけるなど、決してできない。"
  bp1_yearly.3001.c:0 "本当に私が必要なのは一杯の酒だ…"

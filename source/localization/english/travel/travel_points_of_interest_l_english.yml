@@ -4,3 +4,4 @@
  poi_mausoleum_at_halicarnassus.visit:0 "ハリカルナッソスの霊廟を訪れた"
  poi_lighthouse_of_alexandria.visit:0 "アレクサンドリアの灯台を訪れた"
  poi_grand_city.visit:0 "[province.GetName]の偉大な都市を訪れた"
+ poi_natural_feature.visit: "Visited [province.GetHolding.GetSpecialBuildingType.GetName]"

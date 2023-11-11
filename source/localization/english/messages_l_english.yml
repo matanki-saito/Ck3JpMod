@@ -451,3 +451,8 @@
  msg_diarchy_less_power_effect:1 "[scales_of_power|E]が低いレベルに低下し、[LEFT_CHARACTER.GetLiege.GetDiarchTitle]の[diarch_powers|E]が減少しました"
  grand_wedding_cancelled_by_regency_title:0 "グランドウェディングは中止になった"
  grand_wedding_cancelled_by_regency_desc:0 "[diarch.GetTitledFirstName]は[diarch.GetLiege.GetTitledFirstNamePossessive]の[regent|E]となり、もはや[betrothed.GetTitledFirstName]との[diarch.GetHerHis]の[GetActivityType('activity_wedding').GetName]に参加しません"
+ msg_free_house_member_war_invalidated_message: "The [war.GetName] has ended: [defender.GetTitledFirstName] no longer has any imprisoned members of [house|E] [attacker.GetHouse.GetBaseNameNoTooltip] "
+ msg_unify_house_war_invalidated_message: "The [war.GetName] has ended: [defender.GetTitledFirstName] no longer has any vassals of [house|E] [attacker.GetHouse.GetBaseNameNoTooltip] "
+ msg_house_unity_change_stage: "House Unity Level Changed"
+ msg_house_unity_change_stage_desc: "Your [house_unity|E] has changed Level to $HOUSE_UNITY_STAGE_NAME|U$"
+ msg_house_unity_change_stage_tt: "$msg_house_unity_change_stage_desc$"

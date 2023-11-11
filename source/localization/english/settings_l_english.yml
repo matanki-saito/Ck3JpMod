@@ -87,3 +87,4 @@
  SETTING_SHOW_CONTENT_SOURCE_TOOLTIP:0 "#T $SETTING_SHOW_CONTENT_SOURCE$#!\nイベントがどのDLCに由来するか表示するかを設定します"
  SETTING_USE_DYNASTY_NAMED_REALMS:0 "王朝の名を冠した領国"
  SETTING_USE_DYNASTY_NAMED_REALMS_TOOLTIP:0 "#T $SETTING_USE_DYNASTY_NAMED_REALMS$#!\n文化によっては、主要なタイトルの名前がその王朝と同じに変更されます（アッバース朝など）"
+ iranian: "$e_persia_adj$"

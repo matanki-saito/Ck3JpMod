@@ -13,3 +13,6 @@
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE:0 "#X 反対#!"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE_TT:1 "#T 継承法変更に賛同#!\n[Character.GetShortUIName]は[succession_law|E]の変更を支持しているか、反対できない状況にある。\n\n[Character.GetSheHe|U]は以下のいずれかにより賛同している:\n$BULLET_WITH_TAB$あなたに対し正の[opinion|E]を持っている\n$BULLET_WITH_TAB$あなたに[cowed|E]している\n$BULLET_WITH_TAB$何者かに[imprisoned|E]されている"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE_TT:2 "#T 継承法変更に反対#!\n[Character.GetShortUIName]はいかなる[succession_law|E]の変更をも妨害するだろう。\n\n賛同させるためには、[Character.GetShortUIName]は以下のいずれかを満たす必要がある:\n$BULLET_WITH_TAB$あなたに対し正の[opinion|E]を持っている\n$BULLET_WITH_TAB$あなたに[cowed|E]している\n$BULLET_WITH_TAB$何者かに[imprisoned|E]されている"
+ SUCCESSION_LAW_CHANGE_WINDOW_CLAN_TITLE: "Changing Clan [succession_laws|E]"
+ SUCCESSION_LAW_CHANGE_WINDOW_CLAN_DESC: "In the [GetGovernment('clan_government').GetName] [government|E], [succession_laws|E] are dictated by the current [house_unity|E] score. Each [house_unity_level|E] will activate its corresponding [succession_law|E] unless the ruler is using a $SUCCESSION_LAW_CHANGE_WINDOW_SINGLE_HEIR_LAWS$ law such as $single_heir_succession_law$."
+ SUCCESSION_LAW_CHANGE_WINDOW_CLAN_CHANGE_LAW_BUTTON_TOOLTIP: "You are [clan|E] and can't change the [succession_laws|E] this way. The [succession_laws|E] of [clan|E] is determinded by their [house_unity_level|E]."

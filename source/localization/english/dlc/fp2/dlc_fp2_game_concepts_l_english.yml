@@ -76,3 +76,4 @@
  game_concept_build_holy_pilgrim_roads_decision_desc:1 "より安楽に巡礼できるよう、聖地への道を大規模に整備する[decision|E]です。"
  game_concept_purchase_truce_interaction:0 "$purchase_truce_interaction$"
  game_concept_purchase_truce_interaction_desc:1 "[gold_i][gold|E]と引き換えに[truces|E]を先取り購入できるようにする[interaction|E]です。"
+ game_concept_dissolution_faction_dissolved: "Dissolved"

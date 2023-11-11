@@ -74,5 +74,6 @@
  fp2_struggle_can_keep_using_struggle_clash_tt:0 "[struggle_conquest|E]は引き続き利用可能です"
  struggle_iberia_ending_hostility_decision_united_spanish_throne_tt:0 "あなたは、あなたの[primary_title|E]の下でスペインの王位を統合している"
  struggle_iberia_ending_hostility_decision_county_light_tt:0 "あなたの[capital|E]がある[kingdom|E]([THIS.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTier])の[de_jure|E]の[counties|E]の75%が[THIS.Char.GetCulture.GetName]及び[THIS.Char.GetFaith.GetAdjective]でなければなりません([SCOPE.ScriptValue('fp2_struggle_hostility_county_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_hostility_county_total_light_value')|0])"
- struggle_ending_decision_correct_involvement_tt:0 "あなたが[struggle_involved|E]である"
+ struggle_ending_decision_correct_involvement_tt:1 "You are [struggle_involved|E] in [persian_struggle|E]"
  fp2_struggle_conciliation_caravanserai_unlock_tt:0 "[GetGeographicalRegion('world_europe_west_iberia').GetName]での#V $building_type_caravanserai_01$#!種類の[buildings|E]の建設が永久的に許可されます"
+ must_not_be_persia_involved_tt: "You must not be [struggle_involved|E] in [persian_struggle|E]"

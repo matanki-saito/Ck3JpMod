@@ -170,3 +170,8 @@
  tooltip_feudal_elector_vote_liege_candidate_diarch:0 "私は[holder.GetTitledFirstNamePossessiveNoTooltip]の選択に従う"
  tooltip_feudal_elector_vote_regent_already_governs:0 "[candidate.GetSheHe|U]はすでに[realm|E]を統治している: $VALUE|=+0$"
  tooltip_feudal_vote_strength_is_diarch:0 "摂政の権力: $VALUE|=+0$"
+ tooltip_tribal_elective_development: "\"Total [development|E], modified by [faith|E] and [heritage|E]: $VALUE|=+0$"
+ tooltip_tribal_elective_capital_opinion: "Capital [county_opinion|E]: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_elder: "[candidate.GetSheHe|U] is a venerable elder: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_stranger: "[candidate.GetSheHe|U] is not of my tribe: $VALUE|=+0$"
+ tooltip_tribal_elector_vote_relative: "[candidate.GetSheHe|U] belongs to my clan: $VALUE|=+0$"

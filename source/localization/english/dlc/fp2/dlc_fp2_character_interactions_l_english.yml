@@ -115,3 +115,4 @@
  incite_revolts_interaction_notif_success:0 "[recipient.GetShortUINameNoTooltip]はこちらの干渉に気付きません"
  OA_AI_LOYALTY_TOWARDS_ALLIES_REASON:0 "[ally|E]への忠誠: $VALUE|=+0$"
  no_activity_available:0 "利用可能な[activity|E]はありません"
+ must_select_an_investment: "You must select an investment level"

@@ -30,3 +30,4 @@
  attempted_abduct_close_family_crime:0 "$attempted_abduct_close_family$"
  attempted_abduct_me:0 "誘拐を企てた"
  attempted_abduct_me_crime:0 "$attempted_abduct_me$"
+ executed_valuable_prisoner_modifier: "Executed Valuable Prisoner"

@@ -254,3 +254,4 @@
  knight_accolade_glory_reward:0 "記された[root_scope.Custom('KnightCultureNoTooltip')|l]である[root_scope.GetShortUIName]は感動し、感銘を受けた"
  liege_accolades_glory_reward_tour_title:0 "[glory|E]を獲得"
  liege_accolades_glory_reward_tour:0 "[root_scope.GetShortUINamePossessive]の[root_scope.Custom('KnightCulturePluralNoTooltip')|l]は大地、素晴らしさ、その支配を駆け抜けることで明白なものとした"
+ ACTIVITY_OPTION_DESC: "[ActivityPlanner.NoOp][ActivityOption.GetDescription]"

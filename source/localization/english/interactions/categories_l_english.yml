@@ -16,3 +16,4 @@
  MORE_INTERACTIONS_CLICKABLE:0 "#clickable さらに$VALUE$つの行動がとれます...#!"
  MORE_INTERACTIONS:0 "#weak その他...#!"
  DIARCH_ACTIONS:0 "共同統治"
+ CLAN_ACTIONS: "氏族の行動"

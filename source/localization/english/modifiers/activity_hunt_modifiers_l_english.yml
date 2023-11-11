@@ -132,3 +132,4 @@
  hunt_medicinal_herbs_modifier_desc:0 "$useful_herbs_desc$"
  hunt_poisonous_herbs_modifier:0 "$poisonous_plants$"
  hunt_poisonous_herbs_modifier_desc:0 "$poisonous_plants_desc$"
+ hunt_success_chance.rainbow_mountains_01: "$building_type_rainbow_mountains_01$[building|E]"

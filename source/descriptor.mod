@@ -1,8 +1,8 @@
-version="1.960"
+version="1.961"
 name="Japanese Language Mod"
 tags={
 "Translation"
 "Localization"
 }
-supported_version="1.10.*"
+supported_version="1.11.*"
 remote_file_id="2217567218"

@@ -78,3 +78,7 @@
  optimized_weighting_failure_desc:0 "不公平な加重制度のため、商人はこの伯爵領を避ける傾向がある。"
  new_weighting_system:0 "新しい加重システム"
  new_weighting_system_desc:0 "この伯爵領は新しい優れた加重システムの恩恵を受けている。"
+ debug_max_popular_opinion_modifier: "$send_friendliness$"
+ debug_max_popular_opinion_modifier_desc: "$debug_generic_option$"
+ debug_min_popular_opinion_modifier: "$debug_make_dislike_me_interaction$"
+ debug_min_popular_opinion_modifier_desc: "$debug_generic_option$"

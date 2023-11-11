@@ -402,7 +402,6 @@
  fp2_struggle.3001.c:0 "待て！ この一族で王冠を持っているのは私だけではないぞ。"
  fp2_struggle.3001.c_flavour:0 "あなたの配偶者は彼らの王冠を失います。"
  fp2_struggle.3001.d:0 "この王冠が外れるのは私が死んだときだけだ！"
- nick_the_crownless:0 "王冠なし"
  struggle_3001_spouse_crown_modifier:0 "王冠の売却"
  fp2_struggle.3011.t:0 "苦難の乙女"
  fp2_struggle.3011.desc:1 "「我が[ROOT.GetCharacter.GetLadyLord]！予想外の出来事が起きました！」 [struggle_3011_marshal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、[struggle_3011_marshal.GetHerHis]は息をのみ、[struggle_3011_marshal.GetHerHis]の額は汗をかいている。 「[struggle_3011_county_town.GetNameNoTier]の女性たちは、街を守るために武装しています。」"
