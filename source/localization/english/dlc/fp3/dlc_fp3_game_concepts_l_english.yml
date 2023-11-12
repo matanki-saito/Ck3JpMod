@@ -1,5 +1,5 @@
 ﻿l_english:
- game_concept_persian_struggle: "Iranian Intermezzo"
+ game_concept_persian_struggle: "イランの幕間劇"
  game_concept_persian_struggle_desc: "The $game_concept_persian_struggle$ depicts the tumultuous decline of the Abbasid Caliphate, in which Mesopotamia was ravaged by rebellions and power struggles and several Persian rulers asserted their independence.\n\nThough [struggle_involved|E] [characters|E] can have many agendas, most will want to either become a [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] and work towards restoring the power of the Caliphate, or a [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] and try to destroy it.\n\nThe [struggle|E] shifts between two [struggle_phase_phases|E] - [struggle_persia_phase_unrest|E] and [struggle_persia_phase_stabilisation|E]."
  game_concept_kindle_royal_fire_decision: "Kindle Royal Fire Decision"
  game_concept_kindle_royal_fire_decision_desc: "A [decision|E] that enables you to kindle a royal fire, gaining bonuses to [health|E] and [dynasty_prestige|E]."

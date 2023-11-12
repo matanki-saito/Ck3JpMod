@@ -210,5 +210,5 @@
  COUNTY_CONTROL_HEADER:0 "表示中: [control|E]"
  TT_AWAY_FROM_CAPITAL_WIDGET:1 "#T 首都から離れました#!\nあなたは[Character.GetCapitalLocation.GetName]の[realm_capital|E]から離れて、現在は[Character.GetCurrentLocation.GetName]にいます。\n\n#I クリックで[travel|E]の計画を表示#!"
  ACTIVITY_VIEW_TRAVEL:0 "旅の様子を見る"
- TAX_JURISDICTIONS_BUTTON: "#T Tax Jurisdictions#!"
+ TAX_JURISDICTIONS_BUTTON: "#T 税務管轄地#!"
  SELECT_VALID_OPTION: "Select a valid option"

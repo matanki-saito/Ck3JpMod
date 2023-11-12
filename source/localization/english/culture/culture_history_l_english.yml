@@ -2,5 +2,5 @@
  kochinim_history_loc:0 "[CULTURE.GetName]と不明な$israelite_group$[heritage|E]文化から[DATE.GetYear]年に形成"
  vlach_history_loc:0 "[CULTURE.GetName]と不明な$south_slavic_group$[heritage|E]文化から[DATE.GetYear]年に形成"
  bulgarian_history_loc:0 "[DATE.GetYear]年に$south_slavic_group$の[heritage|E]である不明な文化と[CULTURE.GetName]から形成された。"
- scythian_heritage_loc: "Diverged from Scythian in the year [DATE.GetYear]"
- bactrian_heritage_loc: "Formed from Bactrian and [CULTURE.GetName] in the year [DATE.GetYear]"
+ scythian_heritage_loc: "[DATE.GetYear]年にスキタイ文化から分岐した"
+ bactrian_heritage_loc: "バクトリアと[CULTURE.GetName]から[DATE.GetYear]年に形成"
