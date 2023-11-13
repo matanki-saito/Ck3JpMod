@@ -771,7 +771,7 @@
  SCOPE_HOUSE_UNITY: "[ROOT.HouseUnity.GetName]"
  SCOPE_TAX_SLOT: "[ROOT.TaxSlot.GetName]"
  clan_government_cost_tooltip: "あなたの[government|E]は[GetGovernment('clan_government').GetName]です"
- azariqa_fanatics: "アザリクの狂信者"
+ azariqa_fanatics: "アズラクの狂信者"
  yaqubs_ayyar_loyalists: "アヤールの支持者"
  persian_warriors: "ペルシアの戦士"
  aptitude_terrible: "悲惨"

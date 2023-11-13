@@ -433,7 +433,7 @@
  KHVARENAH_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('fp3_khvarenah_legacy_4').GetName]"
  FABRICATE_CLAIM_ANY_STRUGGLE_BONUS: "Ongoing [struggle|E]"
  task_accept_culture_consulted_house_bonus_desc: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('steward_accept_culture_family_business_bonus_yearly_increase')|P]"
- task_vizier_default: "Assist Ruler"
+ task_vizier_default: "統治者の援助"
  task_vizier_default_effect_desc: "$task_spouse_default_effect_desc$"
  task_vizier_court_politics: "$task_court_politics$"
  task_vizier_court_politics_effect_desc: "$task_court_politics_effect_desc$"

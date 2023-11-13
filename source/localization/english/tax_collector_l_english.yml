@@ -15,7 +15,7 @@
  TAX_SLOT_FIRE_TAX_COLLECTOR_BUTTON_NO_TAX_COLLECTOR: "#T Fire [tax_collector|E]#!"
  TAX_SLOT_CHANGE_COLLECTION_OPTION_BUTTON: "#T Change [tax_decree|E]#!"
  TAX_SLOT_ADD_NEW_TAX_COLLECTOR_BUTTON: "#T Appoint [tax_collector|E]#!"
- APPOINT_TAX_COLLECTOR_VIEW_APTITUDE: "#L [TaxSlotType.GetTaxCollectorAptitudeTextFor(Character.Self)]#! [aptitude|e]"
+ APPOINT_TAX_COLLECTOR_VIEW_APTITUDE: "#L [TaxSlotType.GetTaxCollectorAptitudeTextFor(Character.Self)]#![aptitude|e]"
  VASSAL_CONTRIBUTION_TAX_COLLECTOR_APTIDUE: "徴税官の適性：$APTITUDE$"
  VASSAL_CONTRIBUTION_NO_TAX_COLLECTOR: "[tax_jurisdiction|E]: [TAX_SLOT.GetName]"
  TAX_SLOTS_WINDOW_HEADER: "あなたの税務管轄地"

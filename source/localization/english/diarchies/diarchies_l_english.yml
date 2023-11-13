@@ -167,7 +167,7 @@
  raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.to_situational: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_VISIBLY_LOYAL$から$DIARCHY_WINDOW_UNKNOWN_LOYALTY$になる可能性があります"
  family_member_is_civil_servant: "[family_member|E] is Civil Servant"
  civil_servant_salary_and_corruption: "Civil Servant Enrichment"
- vizierate_diarchy_type: "大宰相体制"
+ vizierate_diarchy_type: "大宰相制"
  vizierate_diarch_title: "[vizier|E]"
  unlock_mulct_vizier_interaction: "#P [lieges|E] can compel their [diarch|E] to give them [gold_i][gold|E] via the $mulct_vizier_interaction$ [interaction|E]#!"
  lieges_swing_more_against_diarchs: "[lieges|E] $swing_scales_currency_interaction$ further towards themselves than usual #WEAK (when taking the [interaction|E])#!"
