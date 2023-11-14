@@ -1105,5 +1105,5 @@
  zealot_ai_zeal: "[GetVassalStance( 'zealot' ).GetTextIcon][GetVassalStance( 'zealot' ).GetName] [personality|E] $player_facing_ai_zeal$"
  zealot_ai_boldness: "[GetVassalStance( 'zealot' ).GetTextIcon][GetVassalStance( 'zealot' ).GetName] [personality|E] $player_facing_ai_boldness$"
  minority_ai_energy: "[GetVassalStance( 'minority' ).GetTextIcon][GetVassalStance( 'minority' ).GetName] [personality|E] $player_facing_ai_energy$"
- MOD_NUM_TAX_SLOTS: "Available [tax_jurisdictions|E]"
+ MOD_NUM_TAX_SLOTS: "利用出来る[tax_jurisdictions|E]"
  clan_tax_slot_add: "$MOD_NUM_TAX_SLOTS$"

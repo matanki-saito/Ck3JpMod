@@ -55,7 +55,7 @@
  artifact_wall_banner_name:1 "[target.GetAdjectiveNoTooltip]バナー"
  artifact_wall_banner_description:3 "これは[target.GetAdjective]の旗で、[target.GetHolder.GetTitleAsName]の権威の象徴である。"
  artifact_wall_banner_kaviani_name:0 "デラフシュ・カヴィアニ"
- artifact_wall_banner_kaviani:1 "伝説のデラフシュ・カヴィアニは、没落したサーサーン朝の王旗であり、ペルシャ帝国の後継者たちの独自性と誇りの象徴です。"
+ artifact_wall_banner_kaviani:1 "伝説のデラフシュ・カヴィアニは、没落したサーサーン朝の王旗であり、ペルシャ帝国の後継者たちの独自性と誇りの象徴である。"
  artifact_wall_big_edessa_name:1 "エデッサの聖像"
  artifact_wall_big_edessa:2 "これはキリスト教の最初のイコンとされるイエスの顔の奇跡的なイメージを描いた布「マンデュリオン」である。エデッサのアブガル王が起源とされている。"
  artifact_wall_shield:0 "壁掛けの装飾盾"
