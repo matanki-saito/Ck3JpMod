@@ -4,7 +4,7 @@
  bp1_yearly.4000.desc.alive:0 "今思い返してもすばらしい思い出だ。たとえ何が起きようとも、私には家族がいる。それが[ROOT.Char.GetHouse.GetName]家を強くするのだ。"
  bp1_yearly.4000.desc.dead:0 "そなたがまだ生きていたらと何度思ったことか。笑いも、対立も、思い出もたくさんあった……そなたがいなくなって、[ROOT.Char.GetHouse.GetName]家は寂しくなった。"
  bp1_yearly.4000.desc_end:0 "\n\n#EMP 『[ROOT.Char.GetHouse.GetMotto]』#!私は一人つぶやいた。"
- bp1_yearly.4000.a:0 "お前がまだ生きていたら、それだけでいいんだ……"
+ bp1_yearly.4000.a:0 "君がここにいて、一緒にそれを言ってくれたらな…"
  bp1_yearly.4000.b:0 "この思い出を大事にしよう！"
  bp1_yearly.4000.c:0 "この思い出を詩で称えよう！"
  bp1_yearly.4000.c.success:0 "家族は感謝してくれる"

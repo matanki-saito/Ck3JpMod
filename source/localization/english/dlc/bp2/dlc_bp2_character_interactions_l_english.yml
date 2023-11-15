@@ -49,7 +49,7 @@
  bp2_character_interaction.desc_brave: "$bp2_character_interaction.desc_craven_common$「さあっ、やるんだ！」 私は強く主張し、ついに笑顔でぶん殴られる。\n\n「何も恐れることはないぞ、[recipient.Custom('GirlBoy')]！私を殴れるなら、#EMP 何でもできる#!のではないか？挑み、努め、失敗するがよい！その後に名誉や愛、義務に殉じて死を歓迎するのだ──その全てが犬死よりも素晴らしい！」"
  bp2_character_interaction.1001.desc_brave_self: "$bp2_character_interaction.desc_brave$「[recipient.GetFaith.HighGodName]、[recipient.GetPrimaryTitle.GetNameNoTier]！」 [recipient.GetFirstNameNoTooltip]は叫ぶ。「私は失敗しません！」"
  bp2_character_interaction.1001.desc_brave_liege: "$bp2_character_interaction.desc_brave$「[recipient.GetFaith.HighGodName]と[recipient.GetLiege.GetPrimaryTitle.GetNameNoTier]！」 [recipient.GetFirstNameNoTooltip]は叫ぶ。「私は失敗しません！」"
- bp2_character_interaction.1001.desc_brave_root: "$bp2_character_interaction.desc_brave$「[recipient.GetFaith.HighGodName] と [ROOT.Char.GetPrimaryTitle.GetNameNoTier]！」 [recipient.GetFirstNameNoTooltip]は叫ぶ。「私は失敗しません！」"
+ bp2_character_interaction.1001.desc_brave_root: "$bp2_character_interaction.desc_brave$「[recipient.GetFaith.HighGodName]よ！[ROOT.Char.GetPrimaryTitle.GetNameNoTier]よ！」 [recipient.GetFirstNameNoTooltip]は叫ぶ。「私は失敗しません！」"
  bp2_character_interaction.desc_shy_common: "[recipient.GetSheHe]は最近一人で遊ぶことが多く、なにかを一人でしようとする傾向は最近、より強くなっている気がする。「どうした？」と聞いてみた。\n\n「どうした…って、何、[recipient.Custom2('RelationToMeShort', ROOT.Char)]さん。誰かをせせら笑ったりとか、誰かの悪い噂がどうのとか…もう、どうでもいいでしょ。」"
  bp2_character_interaction.desc_shy: "$bp2_character_interaction.desc_shy_common$「それはそうだ。嘆かわしいがね。」私はため息を吐く。「お前はいずれ誰かと常に顔を合わせねばならず、ほとんどの時間を人付き合いに使うことになるだろう。公私の別はなく、いずれ外面の顔しか残らなくなる。なればこそ、自分をしっかり持て。孤独には孤独の価値があるんだ。」\n\n"
  bp2_character_interaction.1001.desc_shy: "$bp2_character_interaction.desc_shy$[recipient.GetFirstNameNoTooltip]の返事は呟くように小さく、そして、目を合わせなくなった。"

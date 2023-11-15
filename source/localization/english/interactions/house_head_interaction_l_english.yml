@@ -10,5 +10,5 @@
  accuse_of_decandence_interaction_desc: "$house_head_interaction_header$[recipient.GetShortUINameNoTooltip]の退廃を糾弾します。[recipient.GetHerHis]の評判は傷つき、[house_unity|E]は@dynasty_house_unity_antagonistic!#V $antagonistic$#!に向かうでしょう。"
  extoll_virtuousness_interaction: "美徳の激賞"
  extoll_virtuousness_interaction_desc: "$house_head_interaction_header$[recipient.GetShortUINamePossessiveNoTooltip]の美徳を激賞します。[recipient.GetHerHis]の評判は上がり、[house_unity|E]は@dynasty_house_unity_harmonious!#V $harmonious$#!に向かうでしょう。"
- extoll_interaction_notification: "糾弾された一門"
- accuse_of_decandence_interaction_notification: "激賞された一門"
+ extoll_interaction_notification: "激賞された一門"
+ accuse_of_decandence_interaction_notification: "糾弾された一門"

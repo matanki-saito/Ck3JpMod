@@ -98,7 +98,7 @@
  bp2_yearly.1010.desc_toddler: "[hugging_child.GetHerHis]の歳にしては驚くべき速度のよちよち歩きで近づいてくる。\n\n[hugging_child.GetSheHe|U]はその全身で私の足にしがみついてくる。きつく抱きついて、その小さな顔で私のことを見上げてくるのだ。"
  bp2_yearly.1010.desc_rambler: "風のように駆け寄ってきて、「#EMP ぎゅーっ！#!」と。\n\n[hugging_child.GetSheHe|U]は全力で抱きついて、私の尻に顔をうずめてくる。"
  bp2_yearly.1010.desc_kid: "部屋に入ってくる。\n\n[hugging_child.GetSheHe|U]は一瞬ためらうような顔をして、それでも私のもとに駆け寄ってきつく抱きついてきた。"
- bp2_yearly.1010.desc_teenager: "ゆっくりと部屋に歩み入るが、年頃らしく親の存在になど興味を示していないそぶりだ。\n\n不意に、ぎゅっと、きつい抱擁に包まれた。[hugging_child.GetSheHe|U] は素早く離れ、恥ずかしそうな表情を浮かべている。"
+ bp2_yearly.1010.desc_teenager: "ゆっくりと部屋に歩み入るが、年頃らしく親の存在になど興味を示していないそぶりだ。\n\n不意に、ぎゅっと、きつい抱擁に包まれた。[hugging_child.GetSheHe|U]は素早く離れ、恥ずかしそうな表情を浮かべている。"
  bp2_yearly.1010.outro_callous: "\n\n……何だ、この胸に走る温かさは？"
  bp2_yearly.1010.outro_young: "\n\n私は[hugging_child.GetHerHim]を見つめた。涙で視界がぼやける。先の仕草にお返しするような気持ちで[hugging_child.GetHerHis]の髪をなでた。"
  bp2_yearly.1010.outro_older: "\n\n[hugging_child.GetHerHis]の肩を抱きしめて、子の気持ちに精一杯応えようとする中、私の目には密やかに涙が浮かんでいた。"

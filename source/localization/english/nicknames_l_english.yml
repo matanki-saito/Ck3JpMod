@@ -728,7 +728,7 @@
  nick_strongarm_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は常に下らないものをぶん投げる準備が出来ている。故にその剛腕は勝利を齎すのだ。"
  nick_baby_eating_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の由来はその意味のままであるが故に人々を恐れさせる。"
  nick_the_dung_named_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]を中傷する者たちが囁くところによると、[CharYouSheHe(CHARACTER)]は生後まもなく洗礼盤を汚したのだという…"
- nick_with_the_tress_desc:1 "世界中の痺れるロマンチストたちが[CharYourHerHis(CHARACTER)]の恋人の髪を肌身離さず持ち続けた話を語り継いだ。"
+ nick_with_the_tress_desc:1 "世界中の夢見がちなロマンチストたちが恋人の髪を肌身離さず持ち続けたその話を語り継いだ。"
  nick_with_the_lock_desc:0 "$nick_with_the_tress_desc$"
  nick_irontooth_desc:1 "[CharYouSheHe(CHARACTER)]は野獣のような牙を持っているというが、少なくともその顎の強さは事実のようだ。"
  nick_the_dunged_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は皆が臭いについて口にすることで記憶に残って欲しくは無さそうだ。"

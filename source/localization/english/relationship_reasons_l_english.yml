@@ -1809,7 +1809,7 @@
  rival_ignored_ideas: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の最高でまっとうなアイデアを無視した。"
  rival_ignored_ideas_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の最高でまっとうなアイデアを無視した。"
  rival_football_broken: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の物を誤って壊し、それに直面した時に逃げ出した。"
- rival_football_broken_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive] の物を誤って壊し、それに直面した時に逃げ出した。"
+ rival_football_broken_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の物を誤って壊し、それに直面した時に逃げ出した。"
  rival_kicked_shins: "子供のころのサッカーの試合中、[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の脛をしこたま強く蹴った。"
  rival_kicked_shins_corresponding: "子供のころのサッカーの試合中、[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の脛をしこたま強く蹴った。"
  friend_joined_game: "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は、若かりし頃、内気な者同士で意気投合して友達になった。"

@@ -503,7 +503,7 @@
  DYNASTY_LEGACY_KHVARENAH_MARRIAGE_ACCEPTANCE_PERK_MODIFIER: "Your [dynasty|E] has [GetDynastyPerk( 'fp3_khvarenah_legacy_3' ).GetName]: $VALUE|=+0$"
  WONT_HELP_STRUGGLE_FOE_REASON: "Opposing [struggle|E] Side: $VALUE|=+0$"
  HAS_YOUR_SUPPORT_REASON: "Has your support: $VALUE|=+0$"
- TRADE_PIETY_FOR_BETTER_AI_ACCEPTANCE: "Use [piety|E] to increase acceptance"
+ TRADE_PIETY_FOR_BETTER_AI_ACCEPTANCE: "[piety|E]を使って受諾値を上げる"
  WE_ARE_SOULMATES: "You are soulmates: $VALUE|=+0$"
  DIPLOMACY_SKILL_REASON: "Diplomacy Skill: $VALUE|=+0$"
  MARTIAL_SKILL_REASON: "Martial Skill: $VALUE|=+0$"

@@ -313,7 +313,7 @@
  commander_advantage:0 "指揮官の能力"
  commander_trait_advantage:0 "指揮官の特性"
  defending_controlled_province_advantage:0 "$MOD_CONTROLLED_PROVINCE_ADVANTAGE$"
- MODIFIER_TIME_LEFT:2 "#weak Until [DATE.GetString]#!"
+ MODIFIER_TIME_LEFT:2 "#weak [DATE.GetString]まで#!"
  MODIFIER_MULTIPLE_INSTANCES:1 "$NAME$ ($NUMBER|V$)"
  dungeon:0 "地下牢"
  house_arrest:0 "軟禁"

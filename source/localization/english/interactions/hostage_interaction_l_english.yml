@@ -78,7 +78,7 @@
  hostage_executed_toast: "人質の処刑"
  hostage_spared_toast: "人質の助命"
  bp2_hostage_hook_failed_tt: "[hostage.GetFirstName]への[perpetual_hook|E]を得られませんでした#weak （[THIS.Char.MakeScope.Var( 'hook_chance' ).GetValue|1]%の確率）#!"
- hostage_truce_ending_tt: "@warning_icon! #negative_value [actor.GetShortUIName|U]および[recipient.GetShortUIName] は制限なくもう一方を攻撃できます#!"
+ hostage_truce_ending_tt: "@warning_icon! #negative_value [actor.GetShortUIName|U]および[recipient.GetShortUIName]は制限なくもう一方を攻撃できます#!"
  spared_me_opinion: "命を救われた"
  spared_hostage_opinion: "人質の命が救われた"
  killed_hostage_opinion: "人質の殺害"
