@@ -1027,7 +1027,7 @@
  nick_the_ambidextrous: "双刀の"
  nick_the_lute_player: "リュート名人"
  nick_the_lute_player_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はリュートの名人として知られている。"
- nick_the_rekindler_of_iran: "ペルシアの篝火"
+ nick_the_rekindler_of_iran: "ペルシアの炎"
  nick_the_rekindler_of_iran_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は数世紀に渡るアラビアの支配にも屈せず、ペルシアの独立を回復した。"
  nick_the_righteous_caliph: "正義"
  nick_the_righteous_caliph_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は正しく、公平だ。[CHARACTER.GetFaith.HighGodNameAlternate]の眼の如く。"

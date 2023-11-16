@@ -335,5 +335,5 @@
  court_position_khvarenah_legacy_4: "雇用者の[dynasty|E]が[GetDynastyPerk( 'fp3_khvarenah_legacy_4' ).GetName]を持つ"
  court_position_khvarenah_legacy_1: "[dynasty|E]が[GetDynastyPerk( 'fp3_khvarenah_legacy_1' ).GetName]を持つ"
  court_position_innovation_mural_sextant: "[dynasty|E]が[GetInnovation('fp3_innovation_mural_sextant').GetName]を持つ"
- capable_magistrates_modifier: "有能な判事たち"
+ capable_magistrates_modifier: "有能な裁判官"
  opinion_of_liege: "[liege|E]の評価"

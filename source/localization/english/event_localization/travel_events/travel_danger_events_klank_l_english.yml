@@ -25,7 +25,7 @@
  travel_danger_events.3001.b.success:0 "素早い雪崩の救助"
  travel_danger_events.3001.b.failure:0 "困難な雪崩の救助"
  travel_danger_events.3001.c:0 "私は中にいよう…もうしばらく。"
- travel_danger_events.3002.opening:1 "[ROOT.Char.GetTitledFirstName],"
+ travel_danger_events.3002.opening:1 "我が[ROOT.Char.GetTitledFirstName]へ"
  travel_danger_events.3002.desc:0 "我が主君、残念なお知らせですが、最近恐ろしい雪崩が[avalanche_location.GetName]を通過したそうです。\n\nそれは多くの魂を奪い、通過した旅行者を含む生き残った人々の生活を混乱させております。"
  travel_danger_events.3002.a.special:0 "知っている！私も#EMP その場#!にいたのだから！"
  travel_danger_events.3002.a.default:0 "なんと恐ろしい！"

@@ -41,4 +41,4 @@
  has_pledged_attacker:0 "あなたは誓約により攻撃側である"
  has_pledged_defender:0 "あなたは誓約により防御側である"
  they_have_pledged_as_attacker:0 "彼らはあなたの宗派の[GREAT_HOLY_WAR.GetName]において攻撃側であることを誓約している"
- ANY_FAITH_RULER_GLOBAL: "Any [FAITH.GetAdjectiveNoTooltip] [ruler|E]"
+ ANY_FAITH_RULER_GLOBAL: "いずれか[FAITH.GetAdjectiveNoTooltip]の[ruler|E]"

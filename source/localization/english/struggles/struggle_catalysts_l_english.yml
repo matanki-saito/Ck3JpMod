@@ -234,7 +234,7 @@
  catalyst_caliph_or_emperor_loses_revolt_war_desc: "The [holder|E] of the [GetTitleByKey('d_sunni').GetBaseName] or the [GetTitleByKey('e_arabia').GetBaseName] loses a [civil_war|E]"
  catalyst_caliph_or_emperor_accepts_faction_demands: "[holder|E] of the [GetTitleByKey('d_sunni').GetBaseName] or the [GetTitleByKey('e_arabia').GetBaseName] accepted a [faction|E]'s demands"
  catalyst_caliph_or_emperor_accepts_faction_demands_desc: "The [holder|E] of the [GetTitleByKey('d_sunni').GetBaseName] or the [GetTitleByKey('e_arabia').GetBaseName] accepts a [faction|E]'s demands"
- catalyst_caliph_died_violently: "The Sunni [GetFaithByKey('ashari').ReligiousHeadName|U] died violently"
+ catalyst_caliph_died_violently: "スンニ派[GetFaithByKey('ashari').ReligiousHeadName|U]が暴力的に死亡した"
  catalyst_caliph_died_violently_desc: "The Sunni [GetFaithByKey('ashari').ReligiousHeadName|U] dies violently\n#WEAK ([EmptyScope.ScriptValue('catalyst_cooldown_between_significant_character_deaths_years_value')] year cooldown)#!"
  catalyst_caliph_died_naturally: "The Sunni [GetFaithByKey('ashari').ReligiousHeadName|U] died naturally"
  catalyst_caliph_died_naturally_desc: "The Sunni [GetFaithByKey('ashari').ReligiousHeadName|U] dies naturally\n#WEAK ([EmptyScope.ScriptValue('catalyst_cooldown_between_significant_character_deaths_years_value')] year cooldown)#!"

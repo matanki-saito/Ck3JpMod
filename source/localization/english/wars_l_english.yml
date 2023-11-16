@@ -490,7 +490,7 @@
  CB_GENERIC_PHASE_BONUS: "Current [struggle_phase|E]"
  CB_STRUGGLE_CONCESSION_ENDING: "Lasting impact of $persian_struggle$"
  remove_regent_cb_temporary_fort: "[defender.GetPrimaryTitle.GetBaseName] loses the [GetModifier( 'temporary_fort_province_modifier' ).GetNameWithTooltip]"
- fp3_install_loyalist_cb: "Install Loyalist"
+ fp3_install_loyalist_cb: "忠誠を誓わせる"
  fp3_install_loyalist_cb_cooldown_trigger: "You may only use this [casus_belli|E] once a year!"
  fp3_install_loyalist_cb_no_valid_puppet: "@warning_icon! As there are no valid [vassals|E] to use as puppets, you will find a [Concept('lowborn','local')|E] leader to act as puppet! This will cost additional [prestige|E], and will increase friction within the [defender.GetPrimaryTitle.GetName|U]."
  fp3_install_loyalist_cb_victory_desc: "The [ruler|E] of [defender.GetPrimaryTitle.GetBaseName|U] is deposed and replaced with a [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] of the Caliph."

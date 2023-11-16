@@ -10,7 +10,7 @@
  ACHIEVEMENT_fp3_royal_flush_achievement: "ロイヤルフラッシュ"
  ACHIEVEMENT_DESC_fp3_royal_flush_achievement: "$tenet_fp3_fedayeen_name$の[doctrine|E]を持つ[faith|E]の人物として、[lowborn|E]、[king|E]、[emperor|E]を始末する。"
  ACHIEVEMENT_fp3_fiscal_res_achievement: "財政責任"
- ACHIEVEMENT_DESC_fp3_fiscal_res_achievement: "5つの[tax_collector|E]枠を優秀な[aptitude|E]の人物で埋める・"
+ ACHIEVEMENT_DESC_fp3_fiscal_res_achievement: "5つの[tax_collector|E]枠を優秀な[aptitude|E]の人物で埋める。"
  ACHIEVEMENT_fp3_abassid_strong_achievement: "アッバースの力"
  ACHIEVEMENT_DESC_fp3_abassid_strong_achievement: "$persian_struggle$の[struggle|E]で$struggle_persia_ending_assertion$のエンディングを迎える。"
  ACHIEVEMENT_fp3_challenger_caliphate_achievement: "シーア派の再誕"
