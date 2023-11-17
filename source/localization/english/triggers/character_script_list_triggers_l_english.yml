@@ -14,4 +14,4 @@
  NOT_ANY_IN_DE_JURE_ALL_THIRD:0 "[TITLE.GetName]の非慣習的領土[titles|E]"
  ANY_REALM_COUNTY:0 "任意の[realm|E]の[county|E]:"
  ANY_REALM_COUNTY_COUNT:0 "[realm|E]の[counties|E]の$PARAMETERS$:"
- ANY_OF_CHARACTERS_VASSALS_OR_BELOW: "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E] or [landed|E] characters under them:"
+ ANY_OF_CHARACTERS_VASSALS_OR_BELOW: "[CHARACTER.GetShortUINamePossessive]の[vassals|E]か[landed|E]のいずれかである："

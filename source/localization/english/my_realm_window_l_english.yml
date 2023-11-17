@@ -161,4 +161,4 @@
  MY_REALM_WINDOW_MY_LEVIES_LEVEL:0 "$VASSAL_CONTRACT_MY_OBLIGATIONS_TITLE_LEVIES$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_levies' )]"
  MY_REALM_WINDOW_VASSAL_FEUDAL_TAX: "$NON_FEUDAL_VASSAL_CONTRACT_OBLIGATIONS_TITLE$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_taxes' )]"
  MY_REALM_WINDOW_VASSAL_FEUDAL_LEVIES: "$NON_FEUDAL_VASSAL_CONTRACT_OBLIGATIONS_TITLE_LEVIES$: [VassalContract.GetShortObligationLevelNameWithHighlightFor( 'feudal_government_levies' )]"
- MY_REALM_WINDOW_FROM_TO_LIEGE_CLAN: "To [liege|E] #high #L ([TaxSlot.GetObligation.GetName])#!#!"
+ MY_REALM_WINDOW_FROM_TO_LIEGE_CLAN: "[liege|E]へ#high #L （[TaxSlot.GetObligation.GetName]）#!#!"

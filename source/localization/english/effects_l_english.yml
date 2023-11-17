@@ -1570,7 +1570,7 @@
  SAT_THEIR_MOTHER:0 "[TARGET_CHARACTER.GetShortUIName|U][Select_CString( TARGET_CHARACTER.IsLocalPlayer, 'が', 'が' )][CHARACTER.GetShortUIName]の新しい母親です"
  REMOVED_HOOK_EFFECT_FIRST:0 "あなたは[TARGET_CHARACTER.GetShortUIName]に対する$TYPE$[hook|E]を失いました"
  all_unlanded_family_members:0 "[THIS.GetCharacter.GetShortUIName]のすべての$game_concept_unlanded$の[family_members|E]"
- DYNASTY_GAINED_PRESTIGE_GLOBAL_EFFECT:2 "Gains [dynasty_prestige_i]$VALUE|+0$ [dynasty_prestige|E]"
+ DYNASTY_GAINED_PRESTIGE_GLOBAL_EFFECT:2 "[dynasty_prestige_i]$VALUE|+0$の[dynasty_prestige|E]を得ます"
  DYNASTY_LOST_PRESTIGE_GLOBAL_EFFECT:2 "Loses [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
  leave_faction_with_cooldown_effect_global.tt:0 "#V $VALUE|0$年#!間は別の[faction|E]に参加できません"
  THEY_MADE_CONCUBINE_EFFECT:1 "[CHARACTER.GetShortUIName]が[TARGET_CHARACTER.GetShortUIName]を[CHARACTER.GetHerHis]の[TARGET_CHARACTER.Custom('ConcubineWomanManGameConcept')]として娶りました"
