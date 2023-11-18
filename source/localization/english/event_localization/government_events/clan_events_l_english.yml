@@ -34,4 +34,4 @@
  clan.1201.a:0 "いいだろう。今から[target_title.GetNameNoTierNoTooltip]を統治するのは君にする！"
  clan.1201.b:0 "便宜を図ってやることもできる、奉仕と引き換えだがな…"
  clan.1201.c:0 "ありえない。"
- clan.1101.a.flavor: "You talk your way out of taking any meaningful action while still putting [vassal.GetFirstNameNoTooltip]'s mind at ease"
+ clan.1101.a.flavor: "[vassal.GetFirstNameNoTooltip]を安心させながら分かりやすく何をすべきか教える"

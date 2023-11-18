@@ -59,7 +59,7 @@
  bp2_yearly.7004.b.tt: "[nursed_child.GetFirstNameNoTooltip]に歩き続けるようにプレッシャーをかけます。"
  bp2_yearly.7004.c: "$bp2_yearly.7003.c$"
  bp2_yearly.7005.t: "$bp2_yearly.7003.title$の歯"
- bp2_yearly.7005.desc: "休んでいると、我が[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]である[nursed_child.GetFirstName]と[nursed_child.GetHerHis]の乳母が部屋に意気揚々と入ってきた。パレード然としていると言っても過言ではない。[wet_nurse.GetFirstName]は使者のように仰々しくポーズを取って布告する。\n\n「我が主君！あなたは劇的な瞬間を迎えるでしょう！[nursed_child.GetFirstNameNoTooltip]がこれをあなたに贈りたいと！」[wet_nurse.GetSheHe|U]は[nursed_child.GetHerHim]の背中をそっと押す。「さあ、[nursed_child.GetFirstNameNoTooltip]。教えてあげるのよ。」\n\n「[nursed_child.Custom2('RelationToMeShort', ROOT.Char)|U]、初めて歯が抜けたんだ！」[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]は歯抜けの顔でニンマリと笑い、初めて抜けた歯をポーチに入れて私に手渡した。"
+ bp2_yearly.7005.desc: "休んでいると、我が[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]である[nursed_child.GetFirstName]と[nursed_child.GetHerHis]の乳母が部屋に意気揚々と入ってきた。パレード然としていると言っても過言ではない。[wet_nurse.GetFirstName]は使者のように仰々しくポーズを取って布告する。\n\n「我が主君！あなたは劇的な瞬間を迎えるでしょう！[nursed_child.GetFirstNameNoTooltip]がこれをあなたに贈りたいと！」[wet_nurse.GetSheHe|U]は[nursed_child.GetHerHim]の背中をそっと押す。「さあ、[nursed_child.GetFirstNameNoTooltip]。教えてあげるのよ。」\n\n「[nursed_child.Custom2('RelationToMeShort', ROOT.Char)|U]上、初めて歯が抜けたんだ！」[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]は歯抜けの顔でニンマリと笑い、初めて抜けた歯をポーチに入れて私に手渡した。"
  bp2_yearly.7005.a: "素敵だ！でもそれは君がお守りとして大事にしなさい。"
  bp2_yearly.7005.b: "これは…贈り物には贈り物で返さねばな。"
  bp2_yearly.7005.b.tt: "あなたは乳歯を受け取る"

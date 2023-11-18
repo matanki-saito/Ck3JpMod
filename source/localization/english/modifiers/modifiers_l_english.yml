@@ -1088,7 +1088,7 @@
  world_persian_empire_development_growth_factor: "$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$ in the [GetGeographicalRegion('world_persian_empire').GetName] [region|E]"
  max_murder_schemes_add: "Max [GetScheme('murder').GetTypeName] [schemes|E]"
  MODIFIER_DEFINITION_VALUE_PER_HOUSE_UNITY_MEMBER: " \t#weak Increase per [landed|E] [house|E] member#!"
- MODIFIER_DEFINITION_MAIN_DESC_HOUSE_UNITY: "This modifier increases per [landed|E] [house|E] member (#bold $MULTIPLIER|0$#!/#bold 10#!)"
+ MODIFIER_DEFINITION_MAIN_DESC_HOUSE_UNITY: "この補正は[landed|E]の[house|E]の成員毎に増加します (#bold $MULTIPLIER|0$#!/#bold 10#!)"
  MODIFIER_DEFINITION_BASE_VALUE: "Base value"
  player_facing_ai_energy: "Energy"
  player_facing_ai_honor: "Honor"

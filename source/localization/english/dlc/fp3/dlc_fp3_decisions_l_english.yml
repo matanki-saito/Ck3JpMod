@@ -194,7 +194,7 @@
  fp3_name_read_in_friday_prayer_decision_confirm: "全てのものに聞こえるように！"
  fp3_name_read_in_friday_prayer_decision_tooltip: "Change your allegiance in the [persian_struggle|E]"
  name_read_in_friday_prayer_crown_authority: "Your [liege|E] has the law [autonomous_vassals_crown_authority|E]"
- favour_skilled_outsiders_decision: "熟練した外部の人材を招へいする"
+ favour_skilled_outsiders_decision: "熟練した外部の人材を招聘する"
  favour_skilled_outsiders_decision_desc: "私の政権にはほとんど適性が無い癖に管理職に就いている者がいる—―才能のある下々が無能と凡夫の厚い層の下でやきもきしていると言うのにだ。それも私のような[ROOT.Char.GetCulture.GetName]の貴族からよそ者と思われていると言うだけの理由で！\n\n私には崇高な目的がある。その為に有用な臣下を用意して何が悪い？"
  favour_skilled_outsiders_decision_confirm: "ダイヤモンドの原石を！"
  favour_skilled_outsiders_decision_tooltip: "[vassals|E]を憤慨させるかもしれませんが、あなたの[court|E]に外国人の素質ある人間を連れてきます。"
