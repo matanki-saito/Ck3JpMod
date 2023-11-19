@@ -33,7 +33,7 @@
  fp3_clan.1030.b: "[target_taxed_vassal.GetFirstNameNoTooltip]は[target_taxed_vassal.GetHerHis]への支払いを行うだろう。"
  fp3_clan.1030.c: "自分たちで解決しなさい。"
  fp3_clan.1040.t: "管理不足の土地"
- fp3_clan.1040.desc: "我が税徴収官 [target_tax_collector.GetFirstName] は、最新の[target_tax_collector.GetHerHis]の領地調査に関する報告書を提出し、大きな懸念事項を明らかにしている。\n\n「陛下、[target_taxed_vassal.GetTitledFirstName]が[target_taxed_vassal.GetHerHis]領地を管理しているやり方はまったく許容できません！もしも有能な管理者がいれば、[target_taxed_vassal.GetPrimaryTitle.GetNameNoTier]の土地でより多くのことができるでしょう。」"
+ fp3_clan.1040.desc: "我が税徴収官 [target_tax_collector.GetFirstName]は、最新の[target_tax_collector.GetHerHis]の領地調査に関する報告書を提出し、大きな懸念事項を明らかにしている。\n\n「陛下、[target_taxed_vassal.GetTitledFirstName]が[target_taxed_vassal.GetHerHis]領地を管理しているやり方はまったく許容できません！もしも有能な管理者がいれば、[target_taxed_vassal.GetPrimaryTitle.GetNameNoTier]の土地でより多くのことができるでしょう。」"
  fp3_clan.1040.a: "封臣全員に、彼らの責任を思い出させよ。"
  fp3_clan.1040.b: "私がじきじきに[target_taxed_vassal.GetHerHim]に教えてやるつもりだ！"
  fp3_clan.1040.b.success: "[target_taxed_vassal.GetTitledFirstNameNoTooltip]に成功裏に指示を与えました。"

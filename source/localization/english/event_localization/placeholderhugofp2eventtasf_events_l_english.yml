@@ -219,7 +219,7 @@
  fp2_struggle.2023.d.a:0 "あなたは酔いつぶれます"
  fp2_struggle.2023.d.b:0 "樽ごと飲む"
  fp2_struggle.2025.t:0 "成功からの苦しみ"
- fp2_struggle.2025.desc:1 "暖かい日光の下にさらされているのは、荒れ果てた畑と崩れかけた建物のある小さな土地であり、朽ちた石を通りぬける風は孤独の嘆きをささやいている。 これは、[fp2_2025_razed_land.GetNameNoTier]にある多くの村の一つであり、去った住民は、戦争が終わっても二度と戻ることはなく、[ROOT.Char.GetPrimaryTitle.GetName]の旗が上空ではためいている。\n\n「美しい、そう思いませんか？」 私の[ROOT.Char.Custom2('RelationToMe', fp2_2025_marshal)] [fp2_2025_marshal.GetFirstName]は尋ねる、「ここは自由な土地であり、復興の準備ができています。我々は成功の記念碑を建てることができます」。"
+ fp2_struggle.2025.desc:1 "暖かい日光の下にさらされているのは、荒れ果てた畑と崩れかけた建物のある小さな土地であり、朽ちた石を通りぬける風は孤独の嘆きをささやいている。 これは、[fp2_2025_razed_land.GetNameNoTier]にある多くの村の一つであり、去った住民は、戦争が終わっても二度と戻ることはなく、[ROOT.Char.GetPrimaryTitle.GetName]の旗が上空ではためいている。\n\n「美しい、そう思いませんか？」 私の[ROOT.Char.Custom2('RelationToMe', fp2_2025_marshal)][fp2_2025_marshal.GetFirstName]は尋ねる、「ここは自由な土地であり、復興の準備ができています。我々は成功の記念碑を建てることができます」。"
  fp2_struggle.2025.a:0 "新しい民は、戦うのではなく、嘆き悲しむ時間が必要だな…"
  fp2_struggle.2025.b:0 "素晴らしい考えだ！ここに最高の記念碑が立つだろう！"
  fp2_struggle.2025.c:0 "この町を元に戻そう。"

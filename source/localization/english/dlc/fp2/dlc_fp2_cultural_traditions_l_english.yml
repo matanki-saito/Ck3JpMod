@@ -18,7 +18,7 @@
  CHESS_LAND:1 "領地を賭ける"
  challenge_to_2p_chess_interaction.decline.actor.tt:1 "[recipient.GetTitledFirstName]はもっと他にやることがある"
  challenge_to_2p_chess_interaction.decline.recipient.tt:1 "[actor.GetTitledFirstName]が私に憤慨している"
- challenge_to_2p_chess_interaction.accept.game_commences.tt:1 "[actor.Custom('BG_GameType_Concept')] のゲームがすぐに始まるでしょう"
+ challenge_to_2p_chess_interaction.accept.game_commences.tt:1 "[actor.Custom('BG_GameType_Concept')]のゲームがすぐに始まるでしょう"
  perk_interaction.0122.victor_toast.t:1 "あなたはゲームに勝ちました！"
  perk_interaction.0122.loser_toast.t:1 "あなたはゲームに負けました！"
  fp2_bg_interaction.winner.actor:1 "[Select_CString( actor.IsLocalPlayer, 'あなたが勝利した', '相手が勝利した' )]場合"

@@ -392,7 +392,7 @@
  fund_inspiration.2100.success:0 "あなたは物事をスムーズに進める"
  fund_inspiration.2100.failure:0 "あなたは確執をさらに悪化させる"
  fund_inspiration.2110.t:0 "$fund_inspiration.title$ 目利き仲間"
- fund_inspiration.2110.desc:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('generous_vassal'))], [generous_vassal.GetTitledFirstName], accosts me: \"Well met, [generous_vassal.Custom2('RelationToMeShort', ROOT.Char)]! I've heard tell of your patronage of [inspiration_owner.GetFirstName] the [inspiration_owner.Custom('GetInspirationOwnerType')]. They say [inspiration_owner.GetSheHe] is [inspiration_owner.Custom('InspirationTypeDescription')] worthy of a [ROOT.Char.GetTitleAsNameNoTooltip].\" \n\nPlease, take this and give it to [inspiration_owner.GetHerHim]. "
+ fund_inspiration.2110.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('generous_vassal'))][generous_vassal.GetTitledFirstName]が語り掛けてくる。「ようこそいらっしゃいました！[inspiration_owner.Custom('GetInspirationOwnerType')][inspiration_owner.GetFirstName]へのご後援、存じ上げております。なんでも[ROOT.Char.GetTitleAsNameNoTooltip]に値する[inspiration_owner.Custom('InspirationTypeDescription')]とか。」\n\n「お願いでございます、これを[inspiration_owner.GetHerHim]に渡しては頂けませんか。」"
  fund_inspiration.2110.desc.generous:0 "[generous_vassal.GetFirstNameNoTooltip]はその気前の良さで評判だが、[generous_vassal.GetSheHe]はどうやら新たな使い道を見つけたようだな…"
  fund_inspiration.2110.desc.dweeb:0 "[generous_vassal.GetFirstNameNoTooltip]は多くのものに興味を持っているが、貴重な宝物とそれを生み出す精神もその一つだ…"
  fund_inspiration.2110.desc.friend:0 "[generous_vassal.GetFirstNameNoTooltip]は暖かく微笑み、[generous_vassal.GetHerHis]の手には金貨の入った袋をぶら下げている。"

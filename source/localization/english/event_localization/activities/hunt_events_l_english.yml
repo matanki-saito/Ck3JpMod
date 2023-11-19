@@ -837,7 +837,7 @@
  hunt.5001.d.poisonous:0 "#EMP [ROOT.Char.GetFaith.DeathDeityName]からの贈り物だ…#!"
  hunt.5001.d.medicinal:0 "#EMP [ROOT.Char.GetFaith.HealthGodName]からの贈り物だ…#!"
  hunt.5002.opening_position:1 "[hunt_participant.GetHeldCourtPositionsString][hunt_participant.GetFirstName]は下馬すると、[hunt_participant.GetCurrentLocation.Custom('GetProvinceGroundDesc')]にしゃがみこんだ。そして、[host.GetCurrentLocation.Custom('get_region_flower_type')]の花を丹念に調べ始めた。"
- hunt.5002.opening:0 "私の[ROOT.Char.Custom2('RelationToMe', hunt_participant)]、[hunt_participant.GetFirstName] は地面にしゃがみ、元気よく鼻歌を歌いながら[host.GetCurrentLocation.Custom('get_region_flower_type_plural')]を選んでいる。"
+ hunt.5002.opening:0 "私の[ROOT.Char.Custom2('RelationToMe', hunt_participant)]、[hunt_participant.GetFirstName]は地面にしゃがみ、元気よく鼻歌を歌いながら[host.GetCurrentLocation.Custom('get_region_flower_type_plural')]を選んでいる。"
  hunt.5002.second_position:0 "[hunt_participant.GetHerHim]の側で、[hunt_participant_2.GetHeldCourtPositionsString][hunt_participant_2.GetFirstName]は、花びらを指さし高ぶった様子で喧しくしゃべり始めた。"
  hunt.5002.second:1 "[ROOT.Char.Custom2('RelationToMe', hunt_participant_2)][hunt_participant_2.GetFirstName]は、ひたすらに聞き耳を立て、不安げに見つめている。\n\n"
  hunt.5002.alone:0 "[hunt_participant.GetSheHe|U]は狩りにまったく興味がないようだ。\n\n"

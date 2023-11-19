@@ -128,7 +128,7 @@
  bp1_house_feud.0300.a:0 "[ROOT.Char.GetHouse.GetBaseNameNoTooltip]家はその敵を忘れることはない。"
  bp1_house_feud.0300.b:0 "長くなりすぎたな。"
  bp1_house_feud.0410.t:0 "$story_cycle_house_feud_title$: 脅威に悩まされる"
- bp1_house_feud.0410.desc:1 "「お願いだ！」 [house_feud_victim.GetTitledFirstName] はさめざめと泣いている。「こんなまともじゃない恨み方はもう止めさせてくれ！ 私は#EMP どこへ#!行くのも怖いし、[house_feud_rival.GetHouse.GetBaseName] の名を聞いただけで飛び上がってしまう！」\n\n[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))] は明らかに動揺している...私は家族にもたらされる危険と、[house_feud_rival.GetTitledFirstName] に教訓を与える必要性の間で悩んでいる。"
+ bp1_house_feud.0410.desc:1 "「お願いだ！」 [house_feud_victim.GetTitledFirstName]はさめざめと泣いている。「こんなまともじゃない恨み方はもう止めさせてくれ！ 私は#EMP どこへ#!行くのも怖いし、[house_feud_rival.GetHouse.GetBaseName]の名を聞いただけで飛び上がってしまう！」\n\n[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))]は明らかに動揺している...私は家族にもたらされる危険と、[house_feud_rival.GetTitledFirstName]に教訓を与える必要性の間で悩んでいる。"
  bp1_house_feud.0410.a:0 "お前は正しい...これを終わらせる時が来たようだな。"
  bp1_house_feud.0410.b:0 "いや、最後までやり遂げなければ。"
  bp1_house_feud.0420.t:1 "$story_cycle_house_feud_title$: [house_feud_liege.GetTitleAsNamePossessiveNoTooltip]の訴え"

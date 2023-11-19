@@ -50,4 +50,4 @@
  in_realm_alliance_current_situation:0 "封臣との同盟によって[factions|E]への参加を予防します。しかし、[war|E]への参戦は呼びかけられません。"
  current_situation_blank:0 ""
  GetIncumbentOrNone.holder: "[ROOT.Title.GetHolder.GetShortUIName]"
- GetIncumbentOrNone.uncreated: "the [ROOT.Title.GetBaseName]"
+ GetIncumbentOrNone.uncreated: "[ROOT.Title.GetBaseName]"

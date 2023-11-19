@@ -1,6 +1,6 @@
 ﻿l_english:
  clan_event.2000.t: "仕事中の学び"
- clan_event.2000.desc: "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('improved_tax_collector'))] [improved_tax_collector.GetName] は最近、非常に優れた仕事をしているようだ。そして、これにより、将来の見通しで[improved_tax_collector.GetHerHis]の仕事を大いに指導し影響を与える機会が巡ってきた。\n\nもしかしたら、これは[improved_tax_collector.GetHerHim]にとって[improved_tax_collector.GetHerHis]のスキルをさらに向上させるチャンスなのだろうか？"
+ clan_event.2000.desc: "私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('improved_tax_collector'))][improved_tax_collector.GetName]は最近、非常に優れた仕事をしているようだ。そして、これにより、将来の見通しで[improved_tax_collector.GetHerHis]の仕事を大いに指導し影響を与える機会が巡ってきた。\n\nもしかしたら、これは[improved_tax_collector.GetHerHim]にとって[improved_tax_collector.GetHerHis]のスキルをさらに向上させるチャンスなのだろうか？"
  clan_event.2000.a: "人々の要求に注意を払え"
  clan_event.2000.b: "警備巡回を配置せよ。#EMP それ#!により封臣たちを従わせることができるだろう。"
  clan_event.2000.c: "台帳を保持し、仕事を整理せよ。"

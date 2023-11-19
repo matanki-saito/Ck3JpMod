@@ -124,7 +124,7 @@
  child_personality.7061.change.cynical:0 "すべてたわごとだよ、[child.Custom('GirlBoy')]。無視しておけば良い。"
  child_personality.7061.change.content:0 "すでに知っていることで満足すること、それこそが幸せなのだ。"
  child_personality.7070.t:0 "血と唾"
- child_personality.7070.desc:0 "ああ、[child.Custom('GetExpensiveMeal')]、私の #EMP 大好物だ！#!堪能しようとしたとき、私の喜びは [other_child.GetFirstName] によって突然中断される。[other_child.GetSheHe] は何が望みなんだ?\n\n「こんにちは、#EMP [child.Custom('InsultNoun')]！#!何を食べているんだい? なんか不味そうだね——#EMP 美味しくしてあげるよ!#!」[other_child.GetFirstNameNoTooltip]が叫び、私の皿に近づく。\n\n#flatulence *なんてこった！*#! 汚い唾液の塊が私の食事にまっすぐ入った。\n\n「ほら、もっと美味しくなった！ぶははは！」[other_child.GetSheHe|U] は歯を見せてにやにや笑いっている。"
+ child_personality.7070.desc:0 "ああ、[child.Custom('GetExpensiveMeal')]、私の #EMP 大好物だ！#!堪能しようとしたとき、私の喜びは [other_child.GetFirstName]によって突然中断される。[other_child.GetSheHe]は何が望みなんだ?\n\n「こんにちは、#EMP [child.Custom('InsultNoun')]！#!何を食べているんだい? なんか不味そうだね——#EMP 美味しくしてあげるよ!#!」[other_child.GetFirstNameNoTooltip]が叫び、私の皿に近づく。\n\n#flatulence *なんてこった！*#! 汚い唾液の塊が私の食事にまっすぐ入った。\n\n「ほら、もっと美味しくなった！ぶははは！」[other_child.GetSheHe|U]は歯を見せてにやにや笑いっている。"
  child_personality.7070.a:0 "[other_child.Custom('InsultNoun')]、やりやがったな！"
  child_personality.7070.b:0 "こっちも[other_child.GetHerHis]の食事にこっそり唾を吐いてやる…#EMP 召し上がれ#!"
  child_personality.7070.c:0 "ニヤニヤして我慢だ。"

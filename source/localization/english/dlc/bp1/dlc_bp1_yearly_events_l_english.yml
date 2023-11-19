@@ -211,7 +211,7 @@
  bp1_yearly.5713.c:0 "私に任せて"
  bp1_yearly.5713.d:0 "私を強請ろうっていうのか！？"
  bp1_yearly.5714.t:0 "別れを告げる"
- bp1_yearly.5714.desc:0 "私の心には深く果てしない穴が開いてしまった。\n\n[deceased_pal.GetFirstName]は常に仲間であり、親友だった。[deceased_pal.GetHerHim]が私の人生から居なくなってしまったことは、二度と治らない傷を負ったように感じる。[deceased_pal.GetSheHe] がくれたメモを手で握りしめる - [deceased_pal.GetSheHe] が私にくれた#EMP 最後の#!メモは、辛い。 私はそれを読もうとするが、書かれている大切な言葉が涙で洗い流されるのが怖くて読めないのだ。\n\n私の周りには多くの会葬者が集まってるが、ただただ孤独を感じている。"
+ bp1_yearly.5714.desc:0 "私の心には深く果てしない穴が開いてしまった。\n\n[deceased_pal.GetFirstName]は常に仲間であり、親友だった。[deceased_pal.GetHerHim]が私の人生から居なくなってしまったことは、二度と治らない傷を負ったように感じる。[deceased_pal.GetSheHe]がくれたメモを手で握りしめる——[deceased_pal.GetSheHe]が私にくれた#EMP 最後の#!メモは、辛い。 私はそれを読もうとするが、書かれている大切な言葉が涙で洗い流されるのが怖くて読めないのだ。\n\n私の周りには多くの会葬者が集まってるが、ただただ孤独を感じている。"
  bp1_yearly.5714.a:0 "この日を決して忘れないだろう"
  bp1_yearly.5714.a.catharsis:0 "#weak ある程度のカタルシスを経験する#!"
  bp1_yearly.5714.a.sad:0 "#weak あなたはただただ悲しむ#!"
