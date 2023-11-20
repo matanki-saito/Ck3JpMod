@@ -60,7 +60,7 @@
  DEMAND_SUBMISSION_RECIPIENT_IS_LOYAL: "[recipient.GetShortUIName|U] is [GetTrait('loyal').GetName(recipient.Self)]: $VALUE|=+0$"
  DEMAND_SUBMISSION_RECIPIENT_IS_TRUSTING: "[recipient.GetShortUIName|U] is [GetTrait('trusting').GetName(recipient.Self)]: $VALUE|=+0$"
  DEMAND_SUBMISSION_RECIPIENT_IS_PARANOID: "[recipient.GetShortUIName|U] is [GetTrait('paranoid').GetName(recipient.Self)]: $VALUE|=+0$"
- DEMAND_SUBMISSION_NOTIFICATION: "It is not enough to recognize me as your [recipient.GetFaith.ReligiousHeadName]; you must cede all earthly authority to me in the name of [recipient.GetFaith.random_GoodGodNames]."
+ DEMAND_SUBMISSION_NOTIFICATION: "あなたが私を[recipient.GetFaith.ReligiousHeadName]として認識するだけでは不十分だ。[recipient.GetFaith.random_GoodGodNames]の名において、あなたは地上のあらゆる権限を私に委ねなければならない。"
  DEMAND_SUBMISSION_INSTALL_LOYALIST_WARNING: "The #high $fp3_install_loyalist_cb$#! [casus_belli|E] is #V 50%#! cheaper when used against this ruler"
  I_AM_NOT_INVOLVED_IN_FP3_STRUGGLE: "I am not [struggle_involved|E] in the [persian_struggle|E]"
  THEY_ARE_NOT_INVOLVED_IN_FP3_STRUGGLE: "[TARGET_CHARACTER.GetShortUIName]は[persian_struggle|E]の[struggle_involved|E]でない"
