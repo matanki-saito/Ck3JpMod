@@ -605,7 +605,7 @@
  nick_the_selfish_desc:1 "[CharYouSheHe(CHARACTER)]がｍ#EMP [CharYourHerHimself(CHARACTER)]#!以外のことを考えていないのを世間は知っている。"
  nick_the_worthy_desc:1 "誰がそう判断したのかは議論の余地があるが、[CHARACTER.GetShortUINameNoTooltipNoFormat]が実に優れた[CHARACTER.GetWomanMan]であることは、誰もが認めるところだ。"
  nick_the_unworthy_desc:0 "[CHARACTER.GetWomanMan]の失敗、理論においても実践においても。"
- nick_the_traitor_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の言葉には、それを運ぶ空気と同等の価値がある。"
+ nick_the_traitor_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の言葉には、それを運ぶ空気と同等の価値しかない。"
  nick_the_courageous_desc:1 "情熱と激情をくぐり抜け、[CharYouSheHe(CHARACTER)]は信頼され続ける事ができる。"
  nick_the_brilliant_desc:1 "この者の才知に匹敵するものはほとんどいない――果敢に挑めるものはさらに僅かだろう。"
  nick_the_demon_desc:1 "[CHARACTER.GetFaith.DevilName|U]は[CHARACTER.GetFaith.random_NegativeAfterLife]の議会で[CHARACTER.GetShortUINameNoTooltipNoFormat]に必ずや立派な推薦を与えるだろう。"

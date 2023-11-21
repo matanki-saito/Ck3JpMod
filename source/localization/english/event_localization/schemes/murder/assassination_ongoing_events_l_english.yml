@@ -1,5 +1,5 @@
 ﻿l_english:
- do_not_execute_assassination_tooltip: "Do not attempt the assassination"
+ do_not_execute_assassination_tooltip: "暗殺を試みない"
  assassination_ongoing.0001.t: "秘されし同胞"
  assassination_ongoing.0001.desc: "手飼いの暗殺者である[assassin.GetName]は[secret_sympathizer.GetName]が[target.GetNamePossessive]の廷臣でありながら我々の大義へ共感を示していることを知らせてきた—―要は、[ROOT.Char.GetFaith.GetName]への信仰を密かに行っていること言うことだ。\n\n「上手くすれば[secret_sympathizer.GetSheHe|U]は我々に援助してくれるやも」[assassin.GetFirstNameNoTooltip]は提案する。「しかし見返りとして[secret_sympathizer.GetSheHe]は[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の偉大な戦士として取り上げてくれと。あなたの祝福と後ろ盾が欲しいのだろうな」"
  assassination_ongoing.0001.a: "[ROOT.Char.GetFaith.HighGodNameAlternate]に[secret_sympathizer.GetHerHim]の話を良さげにしておこう。"

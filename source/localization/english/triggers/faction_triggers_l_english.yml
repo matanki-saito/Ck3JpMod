@@ -20,4 +20,4 @@
  CHARACTER_CANNOT_LOWER_CROWN_AUTHORITY:0 "[CHARACTER.GetShortUIName|U]は既に可能な限り低い[crown_authority|E]です"
  IS_A_FACTION_MEMBER_TRIGGER:0 "派閥のメンバーである"
  FACTION_CAN_PRESS_DEMANDS_TRIGGER:0 "派閥が要求を押し付けることができる"
- nation_fracturing_faction.can_character_create_ui.blocked_by_struggle: "Your [liege|E] holds one or more [titles|E] that cannot be [dissolution_faction_dissolved|E] due to an ongoing [struggle|E]"
+ nation_fracturing_faction.can_character_create_ui.blocked_by_struggle: "あなたの[liege|E]が持つ一つ以上の[titles|E]が進行中の[struggle|E]によって[dissolution_faction_dissolved|E]を無効化している"

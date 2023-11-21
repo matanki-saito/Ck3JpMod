@@ -8,7 +8,7 @@
  trait_fp3_struggle_detractor_desc: "この人物が思うに、カリフが治めるべきはせいぜいバグダードぐらいであり…というか、バグダードから#EMP 出るな#!！"
  trait_fp3_struggle_detractor_non_orthodox_sunni_character_desc: "[ROOT.GetCharacter.GetFaith.GetAdherentName]である[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]のカリフへの恭順は心からのものと言うより、形式的なものだ。"
  trait_fp3_struggle_detractor_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]からすればカリフが治めるべきはせいぜいバグダードぐらいであり…というか、バグダードから#EMP 出るな#!！"
- trait_fp3_struggle_supporter: "親カリフ制派"
+ trait_fp3_struggle_supporter: "親カリフ派"
  trait_fp3_struggle_supporter_desc: "この人物はカリフ国家が中東の覇権を再び確固たるものとすべきだと考えている。"
  trait_fp3_struggle_supporter_character_is_caliph_desc: "[ROOT.GetCharacter.GetTitleAsName|U]として[ROOT.GetCharacter.GetFirstNameNoTooltip]は大西洋からインダス川まで、あらゆるイスラムの至上の[ROOT.GetCharacter.Custom('MistressMaster')]として君臨している。"
  trait_fp3_struggle_supporter_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip|U]はカリフ国家が中東の覇権を再び確固たるものとすべきだと考えている。"
