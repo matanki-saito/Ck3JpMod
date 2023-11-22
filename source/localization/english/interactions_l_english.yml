@@ -1482,7 +1482,7 @@
  ask_for_conversion_interaction_accept_tooltip: "@warning_icon!#X [THIS.Char.GetShortUINameNoTooltip|U]は[recipient.GetFaith.GetName]の信仰を密かに続ける可能性があります#!"
  ASK_FOR_CONVERSION_RECIPIENT_IS_FICKLE: "[recipient.GetShortUIName|U] is [GetTrait('fickle').GetName( GetPlayer )]: $VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_IS_PIOUS: "[recipient.GetShortUIName|U] is [$game_concept_pious$|L]: $VALUE|=+0$"
- GENERIC_YOUR_PIETY_LEVEL_MODIFIER: "Your [piety_level|E]: $VALUE|=+0$"
+ GENERIC_YOUR_PIETY_LEVEL_MODIFIER: "あなたの[piety_level|E]：$VALUE|=+0$"
  char_interaction.0041.desc: "Your [recipient.Custom('InsultBehavior')] and decadent behavior brings shame upon all of house [actor.GetHouse.GetBaseName] — and as House Head I find it my duty to inform the rest of the clan of your [recipient.Custom('InsultAdjective')] ways.\n\nMay [actor.GetFaith.HighGodNamePossessive] light guide you back onto a virtuous path... although I doubt it."
  char_interaction.0041.a: "Slander!"
  char_interaction.0042.desc: "You are both [recipient.Custom('FormalComplimentAdjective')] and [recipient.Custom('ComplimentAdjective')], an inspiration to all of house [actor.GetHouse.GetBaseName] — and as House Head it is my duty to extol your virtues to the entire clan!\n\nMay you remain in [actor.GetFaith.HighGodNamePossessive] grace."

@@ -331,7 +331,7 @@
  SCHEME_TRAIT_HONEST: "[GetTrait('honest').GetName( owner.Self )]: $VALUE|+0=$"
  SCHEME_TRAIT_FICKLE: "[GetTrait('fickle').GetName( owner.Self )]: $VALUE|+0=$"
  KHVARENAH_LEGACY_DESC: "[GetDynastyPerk( 'fp3_khvarenah_legacy_2' ).GetName]: $VALUE|+0=$"
- SCHEME_ASSASSIN_APTITUDE_MODIFIER: "Your [GetCourtPositionType('master_assassin_court_position').GetName()]'s [aptitude|E]: $VALUE|+0=$"
+ SCHEME_ASSASSIN_APTITUDE_MODIFIER: "あなたの[GetCourtPositionType('master_assassin_court_position').GetName()]の[aptitude|E]：$VALUE|+0=$"
  SCHEME_TARGET_IS_YOUNG: "[target.GetShortUINameNoTooltip] is young: $VALUE|+0=$"
  SCHEME_TARGET_IS_CLERGY: "$court_position_clergy_trait$: $VALUE|+0=$"
  SCHEME_HEAD_OF_FAITH_REASON: "[target.GetShortUINameNoTooltip] is the #EMP [target.GetTitleAsNameNoTooltip]#!: $VALUE|+0=$"

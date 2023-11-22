@@ -383,7 +383,7 @@
  fp3_yearly.8032.c: "The [ROOT.Char.GetDynastyHouseName] house is quite glorious, now that you mention it..."
  fp3_yearly.8032.d: "Indeed...life is like a brief candle, too easily snuffed out."
  fp3_yearly.8033.t: "凍った楽しみ"
- fp3_yearly.8033.desc: "他の誰よりも、甘い物に目が無く、拘りを持つ[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sorbet_enthusiast'))]の[sorbet_enthusiast.GetTitledFirstName]が夕食のテーブルで明白な不足を見つけた。\n\n「#italic ファールーデ#!が……ない！」[sorbet_enthusiast.GetSheHe]は叫んだ。ファールーデとは、麺、シロップ、バラ水を使った冷菓子で、ペルシア料理の至極だ。「調達業者に依頼していたはずなのに……」と[sorbet_enthusiast.GetSheHe]は続けます。「[yakhchal_county.GetNameNoTier]の#italic ヤフ・チャール#!氷室が地震で崩壊したと伝え聞きました。我々はすぐに何とかしないと、もしそうしなければ、宮廷全体が苦しんで、東洋のカルトか何かと間違われるほどに落ちぶれちゃいますよ！」"
+ fp3_yearly.8033.desc: "他の誰よりも、甘い物に目が無く、拘りを持つ[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sorbet_enthusiast'))]の[sorbet_enthusiast.GetTitledFirstName]が夕食のテーブルの明白な不足を見つけた。\n\n「#italic ファールーデ#!が……ない！」[sorbet_enthusiast.GetSheHe]は叫んだ。ファールーデとは麺、シロップ、バラ水によって作り出される冷菓子であり、ペルシア料理の至極だ。「調達業者に依頼していたはずなのに……」と[sorbet_enthusiast.GetSheHe]は続ける。「[yakhchal_county.GetNameNoTier]の#italic ヤフ・チャール#!氷室が地震で崩壊したと伝え聞きました。我々はすぐに何とかしないと、もしそうしなければ宮廷全体が苦しんで、東方の胡乱な者だと蔑まれてしまいます！」"
  fp3_yearly.8033.a: "領国にファールーデが無くなるなど！供給を守らねば！"
  fp3_yearly.8033.b: "私にこの種の贅沢は必要ないし、あなたもそうだろう。"
  fp3_yearly.8033.c: "その通りだ。氷室を修復するために金を送ろう。"

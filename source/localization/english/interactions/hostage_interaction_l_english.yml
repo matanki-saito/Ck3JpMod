@@ -215,5 +215,5 @@
  RECALL_HOSTAGE_PROPOSAL: "我が[actor.Custom2('RelationToMeShort', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.GetTitledFirstName]を宮廷にお戻し頂く要請をせねばならなくなりました。"
  char_interaction.0341.desc: "残念ながら、あなたの[actor.Custom2('RelationToMeShort', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.GetFirstName]は今しばらく[recipient.GetCapitalLocation.GetNameNoTooltip]に留まって貰わねばなりません。"
  char_interaction.0341.a: "戯言を…"
- HOSTAGE_RETAINED_ADULTHOOD_REASON: "Did not return a [hostage|E] on adulthood: $VALUE|=+0$"
- halved_hostage_prestige_tt: "[THIS.Char.GetShortUINamePossessive|U] [prestige_i|E][prestige|E] income from [hostages|E] is reduced for [SCOPE.ScriptValue('hostage_adulthood_retained_halved_prestige_duration_value')|0V] years"
+ HOSTAGE_RETAINED_ADULTHOOD_REASON: "成人した[hostage|E]を返していない：$VALUE|=+0$"
+ halved_hostage_prestige_tt: "[THIS.Char.GetShortUINamePossessive|U]の[hostages|E]からの[prestige_i|E][prestige|E]収入は[SCOPE.ScriptValue('hostage_adulthood_retained_halved_prestige_duration_value')|0V]年減少します"

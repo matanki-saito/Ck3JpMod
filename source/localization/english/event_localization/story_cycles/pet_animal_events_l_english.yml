@@ -228,7 +228,7 @@
  pet_animal.0202.a.failure: "[ROOT.Char.Custom('CatStoryName')]は頑固者、動く気はない"
  pet_animal.0202.b: "まあ、[ROOT.Char.Custom('CatStoryHerHim')]の邪魔をするのも悪いか…"
  pet_animal.0203.t: "[ROOT.Char.Custom('CatStoryName')]：浮気者！"
- pet_animal.0203.desc: "#EMP 猫なで声#!…？それに、猫の鳴き声？\n\n床に座っているのは[random_courtier.GetFirstName]と[random_courtier.GetHerHis]の腕に抱かれた[ROOT.Char.Custom('CatStoryName')]だ。我が愛猫は[ROOT.Char.Custom('CatStoryHerHim')]に媚び見上げ、手足を絡みつかせ、[random_courtier.GetFirstNameNoTooltip]は愛おしそうに揺らしている。\n\n私が挨拶をしても、人は頭を下げるものの、猫は満足そうに[ROOT.Char.Custom('CatStoryHerHis')]の顔を腕にうずめるだけだ。理性と裏腹に、嫉妬の心が沸き上がる。"
+ pet_animal.0203.desc: "#EMP 猫なで声#!…？それに、猫の鳴き声？\n\n床に座っているのは[random_courtier.GetFirstName]と[random_courtier.GetHerHis]の腕に抱かれた[ROOT.Char.Custom('CatStoryName')]だ。我が愛猫は[ROOT.Char.Custom('CatStoryHerHim')]に媚びて見上げ、手足を絡みつかせ、[random_courtier.GetFirstNameNoTooltip]は愛おしそうに揺らしている。\n\n私が挨拶をしても、人は頭を下げるものの、猫は満足そうに[ROOT.Char.Custom('CatStoryHerHis')]の顔を腕にうずめるだけだ。理性と裏腹に、嫉妬の心が沸き上がる。"
  pet_animal.0203.a: "おい！うちの猫ちゃんだぞ！"
  pet_animal.0203.b: "[ROOT.Char.Custom('CatStoryHerHis')]に嫌われるようなことをしただろうか…"
  pet_animal.0204.t: "[ROOT.Char.Custom('CatStoryName')]：いずれは万病に効く"
