@@ -312,6 +312,7 @@
 
  fp3_struggle_assertion_spread_faith_through_struggle_region_tt: "All [struggle_region|E] [counties|E] and [struggle_involved|E] [rulers|E] of different [faiths|E] have a #Z [SCOPE.ScriptValue('fp3_strengthen_caliphate_ending_conversion_chance_percent_value')|0]%#! chance to convert to your [faith|E]"
  FACTION_REASON_FP3_SUPPORTER: "[GetTrait('fp3_struggle_supporter').GetName(GetNullCharacter)] of the Caliph: $VALUE|0+=$"
+ FACTION_REASON_DETRACTORS_STICK_TOGETHER: "I am also a [GetTrait('fp3_struggle_detractor').GetName(GetNullCharacter)]: $VALUE|0+=$"
 
  fp3_iranian_faith_for_rekindle_persia_spread_to_fellow_iranians_tt: "All Iranian [heritage|E] [struggle_region|E] [counties|E] and [struggle_involved|E] [rulers|E] of different [faiths|E] have a #Z [SCOPE.ScriptValue('fp3_iranian_faith_for_rekindle_persia_conversion_chance_percent_value')|0]%#! chance to convert to [propagated_faith.GetName]"
 
@@ -369,7 +370,7 @@
  choose_azariqa_tooltip: "Choosing to adopt the unquestionably violent [GetFaithByKey('azariqa').GetAdjective] [faith|E] is a radical idea... but there's no denying that a [GetCourtPositionType('master_assassin_court_position').GetName()] would be a great asset against the [GetFaithDoctrine('muhammad_succession_sunni_doctrine').GetBaseName] Caliph."
  choose_azariqa_name: "[GetFaithByKey('azariqa').GetNameNoTooltip]"
  choose_zurvanism_desc: "[GetFaithByKey('zurvanism').GetName]"
- choose_zurvanism_tooltip: "I will shoulder the mantle left behind by the [GetReligionByKey('zoroastrianism_religion').GetAdjective] prophet [GetFaithByKey('zurvanism').GetAdjective] and promote [GetFaithDoctrine('tenet_islamic_syncretism').GetBaseName] — we will see a return of the glories of old, but the mark that [GetReligionByKey('islam_religion').GetName] has left is inorexable and must be embraced. This is well and truly the #EMP only#! way forward for my beloved Persia!"
+ choose_zurvanism_tooltip: "I will shoulder the mantle left behind by the [GetReligionByKey('zoroastrianism_religion').GetAdjective] prophet [GetFaithByKey('zurvanism').GetAdjective] and promote [GetFaithDoctrine('tenet_islamic_syncretism').GetBaseName] — we will see a return of the glories of old, but the mark that [GetReligionByKey('islam_religion').GetName] has left is inexorable and must be embraced. This is well and truly the #EMP only#! way forward for my beloved Persia!"
  choose_zurvanism_name: "[GetFaithByKey('zurvanism').GetNameNoTooltip]"
  CHOOSE_PERSIAN_FAITH: "Insha'Allah!"
  adopt_a_new_faith_for_persia_decision_confirm: "Insha'Allah!"

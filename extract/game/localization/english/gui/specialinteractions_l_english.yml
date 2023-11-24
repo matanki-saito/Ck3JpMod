@@ -344,7 +344,6 @@
  REVOKE_TITLE_CANT_GIVE_REASON_OCCUPIED:0 "@warning_icon!#X One or more holdings in [TITLE.GetName] are [occupied|E]#!"
  REVOKE_BARONY_TITLE_CANT_GIVE_REASON_UNDER_SIEGE:0 "@warning_icon!#X [TITLE.GetName] is under [siege|E]#!"
  REVOKE_BARONY_TITLE_CANT_GIVE_REASON_OCCUPIED:0 "@warning_icon!#X [TITLE.GetName] is [occupied|E]#!"
- REVOKE_TITLE_CANT_GIVE_REASON_BECOME_UNLANDED:1 "@warning_icon!#X [TITLE.GetName] cannot be revoked from [CHARACTER.GetShortUIName] as it would make [CHARACTER.GetHerHim] hold only [titles|E] with no land#!"
  REVOKE_TITLE_CANT_REVOKE_REASON_BARONY_WITHOUT_COUNTY:1 "@warning_icon!#X You must revoke all of [TITLE_2.GetName] instead of only [TITLE.GetName]#!"
  REVOKE_TITLE_CANT_REVOKE_REASON_NON_DOMAIN_BARONY:0 "@warning_icon!#X [TITLE.GetName] is a [barony|E] not part of your [domain|E] and thus cannot be revoked from [CHARACTER.GetShortUIName]#!"
  REVOKE_TITLE_SELECT:0 "@warning_icon!#X There is no title selected#!"

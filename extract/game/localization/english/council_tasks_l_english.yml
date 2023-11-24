@@ -395,7 +395,7 @@
  CUSTOMS_DYNASTY_PERK_BONUS_VALUE:0 "[GetDynastyPerk('ep1_culture_legacy_2').GetName]"
  KHVARENAH_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('fp3_khvarenah_legacy_4').GetName]"
 
- SCALED_COUNCILLOR_LEARNING_VALUE:2 "[councillor.GetCouncilTitle] [councillor.GetShortUINamePossessive] Learning Skill"
+ SCALED_COUNCILLOR_LEARNING_VALUE:2 "[councillor.GetCouncilTitleFirstNamePossessive] [learning|E]"
  COURT_CHAPLAIN_PROGRESS_BASE:0 "Base"
  CONVERSION_PERK_BONUS_VALUE:1 "[GetPerk('zealous_proselytizer_perk').GetName(GetPlayer)]"
  CONVERSION_DYNASTY_PERK_BONUS_VALUE:1 "[GetDynastyPerk('erudition_legacy_5').GetName]"
@@ -504,3 +504,10 @@
  task_vizier_manage_domain_effect_desc: "$task_manage_domain_effect_desc$"
  task_vizier_patronage: "$task_patronage$"
  task_vizier_patronage_effect_desc: "$task_patronage_effect_desc$"
+
+ liege_converting_county_title: "Liege Converting [county.GetNameNoTierNoTooltip]"
+ liege_converting_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] is [converting|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
+ liege_stopped_converting_county_title: "Liege Conversion Halted"
+ liege_stopped_converting_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has stopped [converting|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
+ liege_converted_county_title: "Liege Converted [county.GetNameNoTierNoTooltip]"
+ liege_converted_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has [converted|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"

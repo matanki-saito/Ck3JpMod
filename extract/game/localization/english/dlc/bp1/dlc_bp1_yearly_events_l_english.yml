@@ -381,7 +381,7 @@
  bp1_yearly.8010.b:0 "I am not sure [bp1_8010_best_friend.GetFirstNameNoTooltip]..."
  # Rival of my Rival
  bp1_yearly.8020.opening:0 "[bp1_8020_friend.Custom2('AppropriateGreeting', ROOT.Char)]"
- bp1_yearly.8020.desc:0 "I have lately heard of your disputes with that [bp1_8020_rival.Custom('InsultAdjective')] [bp1_8020_rival.Custom('InsultNoun')], [bp1_8020_rival.GetName], a most contemptible excuse for a [bp1_8020_rival.GetWomanMan]. \n\nGiven our mutual interests, I am sure we will get along well, friend."
+ bp1_yearly.8020.desc:0 "I have heard of your disputes with that [bp1_8020_rival.Custom('InsultAdjective')] [bp1_8020_rival.Custom('InsultNoun')], [bp1_8020_rival.GetFirstName], a most contemptible excuse for a [bp1_8020_rival.GetWomanMan].\n\nGiven our mutual interests, I am sure we will get along well, friend."
  bp1_yearly.8020.a:0 "I eagerly await the opportunity to discuss this further."
  bp1_yearly.8020.b:0 "Messengers are so unreliable these days..."
  bp1_yearly.8020.b.flavor:0 "Forward the letter to [bp1_8020_rival.GetTitledFirstNameNoTooltip]"

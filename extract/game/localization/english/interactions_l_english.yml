@@ -338,6 +338,7 @@
  RELEASE_BANISH:0 "[banish|E]"
  RELEASE_TAKE_VOWS:0 "Take the Vows"
  RELEASE_TAKE_VOWS_VALID:0 "[recipient.GetShortUIName|U] enters into a monastic covenant."
+ RELEASE_TAKE_VOWS_INVALID_RECRUIT: "You must Recruit a character before forcing them to Take the Vows."
  take_vows_decline_summary:1 "If [recipient.GetShortUINameNoTooltip] declines [recipient.GetSheHe] will remain in your [court|E]"
  RELEASE_RECRUIT:0 "Recruit"
  RELEASE_AS_EXECUTIONER:0 "Employ Executioner"
@@ -1707,3 +1708,7 @@
  ward_nearing_adulthood_tt: "@warning_icon! #X [TARGET_CHARACTER.GetShortUIName] will soon be an adult#!"
  ward_travelling_tt: "[THIS.Char.GetShortUIName|U] is traveling to become a [ward|E]"
  guardian_travelling_tt: "[THIS.Char.GetShortUIName|U] is traveling to become a [guardian|E]"
+
+ offer_vassalization_interaction_aibehavior_rival_tt_2: "[secondary_recipient.GetSheHe|U] is your [rival|E]: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_nemesis_tt_2: "[secondary_recipient.GetSheHe|U] is your [nemesis|E]: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_dynasty_tt_2: "[secondary_recipient.GetSheHe|U] belongs to your [dynasty|E]: $VALUE|=+0$"

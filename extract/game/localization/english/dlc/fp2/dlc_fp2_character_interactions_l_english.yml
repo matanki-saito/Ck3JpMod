@@ -25,6 +25,8 @@
  PT_AI_RECIPIENT_IS_ROUGHLY_EQUAL:0 "[recipient.GetSheHe|U] is roughly equal in strength to you: $VALUE|=+0$"
  PT_AI_RECIPIENT_IS_SOMEWHAT_STRONGER:0 "[recipient.GetSheHe|U] is somewhat stronger than you: $VALUE|=+0$"
  PT_AI_RECIPIENT_IS_MUCH_STRONGER:0 "[recipient.GetSheHe|U] is much stronger than you: $VALUE|=+0$"
+ PT_AI_IS_PACIFIST_FAITH_2: "[secondary_recipient.GetFaith.GetName] is pacifist: $VALUE|=+0$"
+ PT_AI_IS_PACIFIST_CULTURE_2: "[secondary_recipient.GetCulture.GetName] is pacifist: $VALUE|=+0$"
 
  incite_revolts_interaction:1 "$game_concept_incite_revolts_interaction$"
  incite_revolts_interaction_desc:0 "Invest [gold|E] in order to destabilize [recipient.GetHerHis] [realm|E]"

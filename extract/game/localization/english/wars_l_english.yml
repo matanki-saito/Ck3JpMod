@@ -537,7 +537,6 @@
 
  fp3_install_loyalist_cb: "Install Loyalist"
  fp3_install_loyalist_cb_cooldown_trigger: "You may only use this [casus_belli|E] once a year!"
- fp3_install_loyalist_cb_no_valid_puppet: "@warning_icon! As there are no valid [vassals|E] to use as puppets, you will find a [Concept('lowborn','local')|E] leader to act as puppet! This will cost additional [prestige|E], and will increase friction within the [defender.GetPrimaryTitle.GetName|U]."
  fp3_install_loyalist_cb_victory_desc: "The [ruler|E] of [defender.GetPrimaryTitle.GetBaseName|U] is deposed and replaced with a [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] of the Caliph."
  fp3_install_loyalist_cb_defeat_desc: "[defender.GetPrimaryTitle.GetName|U] remains under the impartial rule of [defender.GetShortUIName|U]."
  cb_rejected_caliph_discount: "Rejected the Caliph's authority"
@@ -590,7 +589,7 @@
  fp3_seljuk_horde_army_title: "Nomadic Settler Group"
  fp3_seljuk_invasion_cb: "$fp3_seljuk_invasion_cb_name$"
  fp3_seljuk_invasion_cb_name: "Nomadic Invasion"
- fp3_seljuk_invasion_war_name: "Seljuk $fp3_seljuk_invasion_cb_name$"
+ fp3_seljuk_invasion_war_name: "Seljuk $fp3_seljuk_invasion_cb_name$ of [TITLE.GetNameNoTier]"
  #Seljuk Victory
  fp3_seljuk_invasion_cb_victory_desc: "The $fp3_seljuk_horde_title_title$ take the contested [titles|E] by force."
  fp3_seljuk_invasion_cb_victory_desc_attacker: "You take the contested [titles|E] by force."

@@ -707,7 +707,7 @@
  duke_feudal_independent_female_iranian_group:2 "[SelectLocalization( CHARACTER.HasLandedTitles, 'PRIMARY_TITLE_BASE_NAME', 'SPOUSE_PRIMARY_TITLE_BASE_NAME' )]banebshen"
  PRIMARY_TITLE_BASE_NAME: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
  SPOUSE_PRIMARY_TITLE_BASE_NAME: "[Character.GetPrimarySpouse.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
- duchy_feudal_independent_iranian_group:1 "[CHARACTER.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]shahdom"
+ duchy_feudal_independent_iranian_group:1 "Shahdom"
  king_feudal_male_iranian_group:0 "Shah"
  king_feudal_female_iranian_group:0 "Banebshen"
  kingdom_feudal_iranian_group:1 "Shahdom"

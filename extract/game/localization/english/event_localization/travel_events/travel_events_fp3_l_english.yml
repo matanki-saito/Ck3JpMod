@@ -66,7 +66,7 @@ travel_events_fp3.0021.c: "[fp3_young_rascal.Custom('GirlBoy')|U], you must lear
 
 ### Tower of Silence
 travel_events_fp3.0030.t: "$travel_event_prefix$ A Feast for Falcons"
-travel_events_fp3.0030.desc.intro: "Birds of prey circle overhead, casting ominous shadows on the sun beaten landscape. As I ascend the slope of a looming hill, the stench of spoiling meat dominates my senses.\n\nI see bodies laid out orderly on the rocks. Vultures and falcons are pulling at the meat, stringy bloody chunks dangling from their beaks. A man in simple garbs is overseeing the sky burial, he gestures at me.\n\n"Please take your leave, [ROOT.Char.GetTitleAsNameNoTooltip], this place is only for Nusessalars...""
+travel_events_fp3.0030.desc.intro: "Birds of prey circle overhead, casting ominous shadows on the sun-beaten landscape. As I ascend the slope of a looming hill, the stench of spoiling meat dominates my senses.\n\nI see bodies laid out orderly on the rocks. Vultures and falcons pull at the meat, stringy, bloody chunks dangle from their beaks. A man in simple garb oversees the sky burial. He gestures at me.\n\n"Please take your leave, [ROOT.Char.GetTitleAsNameNoTooltip], this place is only for Nusessalars...""
 travel_events_fp3.0030.a: "This is barbaric, we'll bury these bodies!"
 every_faith_vassal: "Every [local_faith.GetAdjective] Vassal"
 travel_events_fp3.0030.b: "I hope I get to go like this, Nasu cleansed from my body..."

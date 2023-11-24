@@ -226,10 +226,10 @@
  catalyst_became_friend_lover_supporter_detractor_desc: "$supporter_and_detractor_caps$ become [friends|E] or [lovers|E]"
 
  catalyst_unnatural_death_supporter: "$catalyst_unnatural_death_important_character$"
- catalyst_unnatural_death_supporter_desc: "A [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] is killed"
+ catalyst_unnatural_death_supporter_desc: "A [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] [ruler|E] is killed"
 
  catalyst_unnatural_death_detractor: "$catalyst_unnatural_death_important_character$"
- catalyst_unnatural_death_detractor_desc: "A [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] is killed"
+ catalyst_unnatural_death_detractor_desc: "A [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] [ruler|E] is killed"
 
  catalyst_reveal_secret_supporter: "$catalyst_reveal_secret_important$"
  catalyst_reveal_secret_supporter_desc: "Reveal the [secret|E] of a [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] [ruler|E]"
