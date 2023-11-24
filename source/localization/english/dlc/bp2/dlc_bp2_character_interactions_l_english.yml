@@ -146,3 +146,4 @@
  guardian_influenced_personality_fail: "影響されなかった子供の性格"
  guardian_influenced_personality_fail_desc: "[actor.GetShortUINameNoTooltip]は[target_trait.GetName(actor)]の特性をあなたの子、[recipient.GetShortUINameNoTooltip]に付与しようとしたが、失敗した。"
  influence_child_personality_interaction_trait_limit: "[CHARACTER.GetShortUINameNoTooltip]は既に#V 4つ#!の[personality_traits|E]がある"
+ influence_child_personality_interaction_all_same_traits: "[CHARACTER.GetShortUINameNoTooltip] already has the same [personality_traits|E] or the opposite traits"

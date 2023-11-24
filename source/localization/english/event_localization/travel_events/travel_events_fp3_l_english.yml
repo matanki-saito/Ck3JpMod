@@ -55,7 +55,7 @@
  travel_events_fp3.0021.b.failure.desc: "あなたの手には負えない"
  travel_events_fp3.0021.c: "[fp3_young_rascal.Custom('GirlBoy')|U]よ、目上の者に敬意を払うことを学ばなければならぬ！"
  travel_events_fp3.0030.t: "$travel_event_prefix$ 隼のための宴"
- travel_events_fp3.0030.desc.intro: "猛禽が頭上を旋回し、太陽に焼かれた風景に不吉な影を投げかける。私が迫る丘の斜面を登るにつれて、腐肉の悪臭が私の感覚を支配していく。\n\n岩の上には整然と配置された遺体がある。ハゲワシと隼が肉を引っ張り、血のついた糸状の塊がくちばしから垂れ下がっている。質素な服を着た男が空葬を見守っており、彼は私に手を振っている。\n\n「お帰りください、[ROOT.Char.GetTitleAsNameNoTooltip]、ここはヌセッサラだけのための場所です...」"
+ travel_events_fp3.0030.desc.intro: "Birds of prey circle overhead, casting ominous shadows on the sun-beaten landscape. As I ascend the slope of a looming hill, the stench of spoiling meat dominates my senses.\n\nI see bodies laid out orderly on the rocks. Vultures and falcons pull at the meat, stringy, bloody chunks dangle from their beaks. A man in simple garb oversees the sky burial. He gestures at me.\n\n\"Please take your leave, [ROOT.Char.GetTitleAsNameNoTooltip], this place is only for Nusessalars...\""
  travel_events_fp3.0030.a: "なんと野蛮な！遺体を埋葬すべきだ！"
  every_faith_vassal: "すべての[local_faith.GetAdjective]の封臣"
  travel_events_fp3.0030.b: "私もこうして葬られたいものだ、体からナスが浄化されて..."

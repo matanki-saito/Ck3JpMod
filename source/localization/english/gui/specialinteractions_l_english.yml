@@ -251,7 +251,6 @@
  REVOKE_TITLE_CANT_GIVE_REASON_OCCUPIED:0 "@warning_icon!#X [TITLE.GetName]の一つ以上の所領が他勢力の[occupied|E]にあります#!"
  REVOKE_BARONY_TITLE_CANT_GIVE_REASON_UNDER_SIEGE:0 "@warning_icon!#X [TITLE.GetName]は[siege|E]下にあります#!"
  REVOKE_BARONY_TITLE_CANT_GIVE_REASON_OCCUPIED:0 "@warning_icon!#X [TITLE.GetName]は[occupied|E]にあります#!"
- REVOKE_TITLE_CANT_GIVE_REASON_BECOME_UNLANDED:1 "領地なしに[titles|E]を保持することになるため@warning_icon!#X [TITLE.GetName]を[CHARACTER.GetShortUIName]から剥奪することはできない。"
  REVOKE_TITLE_CANT_REVOKE_REASON_BARONY_WITHOUT_COUNTY:1 "@warning_icon!#X [TITLE.GetName]だけではなくすべての[TITLE_2.GetName]を剥奪しなければなりません#!"
  REVOKE_TITLE_SELECT:0 "@warning_icon!#X 称号が選択されていません#!"
  REVOKE_TITLE_REVOKE:0 "#T [CHARACTER.GetShortUIName]から選択した称号を剥奪する#!"

@@ -2166,3 +2166,4 @@
  FIRE_TAX_COLLECTOR_FIRST: "[CHARACTER.GetShortUIName|U]は[tax_collector|E]の[TARGET_CHARACTER.GetShortUIName]を解雇するだろう"
  FIRE_TAX_COLLECTOR_THIRD: "[CHARACTER.GetShortUIName|U]は[tax_collector|E]の[TARGET_CHARACTER.GetShortUIName]を解雇するだろう"
  FIRE_TAX_COLLECTOR: "[TARGET_CHARACTER.GetShortUIName|U]は[tax_collector|E]をやめるだろう"
+ custom.all_faction_members_same_dynasty: "$custom.all_faction_members$ of the same [dynasty|E]"

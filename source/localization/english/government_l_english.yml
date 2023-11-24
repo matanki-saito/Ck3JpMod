@@ -336,7 +336,7 @@
  unlock_jizya_contract_name: "[GetFaithDoctrine('tenet_tax_nonbelievers').GetBaseName]の[core_tenet|E]"
  iqta_special_rights_tax_collector: "イクター制"
  iqta_special_rights_tax_collector_desc: "[vassal|E]はより低い義務の代わりに[liege|E]に[men_at_arms|E]を提供します"
- iqta_special_rights_tax_collector_flavor_desc: "イクターとは租税代行制度の一種だ。地方の有力者が国家に代わって税金を徴収する幅広い権限を与えられている。その見返りとして、彼らは家臣のために大量の兵士を供出せねばならない。"
+ iqta_special_rights_tax_collector_flavor_desc: "Iqta is a tax farming system where local magnates are given wide authority to collect taxes on behalf of the state."
  ghazi_special_rights_tax_collector: "ガーズィの略奪権"
  ghazi_special_rights_tax_collector_desc: "#emphasis #bold [vassal|E] Privilege:#!#!\nThe [vassal|E] pays less [piety|E] to use [holy_war|E] [casus_bellis|E] but more [prestige_i][prestige|E] for any other [casus_bellis|E] \n\n#flavor The [vassal|E] is chosen as a warrior of the [faith|E] by the [liege|E], charged with carrying the borders outwards through [holy_war|E].#!"
  ghazi_special_rights_tax_collector_flavor_desc: "信仰と辺境の戦士であるガーズィは、略奪と山賊行為を行って収入を集め、国家の宗教的な敵対者に対して終わりのない戦争を繰り広げている。"

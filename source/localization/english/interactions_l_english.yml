@@ -1495,3 +1495,7 @@
  IS_NOT_AWARE_OF_SHARED_CRYPTO_RELIGION: "You do not know whether [TARGET_CHARACTER.GetShortUINameNoTooltip] practices Crypto-[CHARACTER.GetSecretFaith.GetName]"
  court_amenities_interactions.0001.a.tt_success: "#positive_value You successfully defend your clothing choices#!"
  court_amenities_interactions.0001.a.tt_failure: "#negative_value Your sartorial arguments hold little water#!"
+ RELEASE_TAKE_VOWS_INVALID_RECRUIT: "You must Recruit a character before forcing them to Take the Vows."
+ offer_vassalization_interaction_aibehavior_rival_tt_2: "[secondary_recipient.GetSheHe|U] is your [rival|E]: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_nemesis_tt_2: "[secondary_recipient.GetSheHe|U] is your [nemesis|E]: $VALUE|=+0$"
+ offer_vassalization_interaction_aibehavior_dynasty_tt_2: "[secondary_recipient.GetSheHe|U] belongs to your [dynasty|E]: $VALUE|=+0$"

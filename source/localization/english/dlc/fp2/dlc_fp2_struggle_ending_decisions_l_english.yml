@@ -77,3 +77,4 @@
  struggle_ending_decision_correct_involvement_tt:1 "あなたが[persian_struggle|E]における[struggle_involved|E]です"
  fp2_struggle_conciliation_caravanserai_unlock_tt:0 "[GetGeographicalRegion('world_europe_west_iberia').GetName]での#V $building_type_caravanserai_01$#!種類の[buildings|E]の建設が永久的に許可されます"
  must_not_be_persia_involved_tt: "[persian_struggle|E]における[struggle_involved|E]であってはなりません"
+ struggle_ending_decision_correct_involvement_spain_tt: "You are [struggle_involved|E] in [iberian_struggle|E]"
