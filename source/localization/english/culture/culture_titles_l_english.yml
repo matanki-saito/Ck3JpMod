@@ -749,7 +749,7 @@
  kingdom_feudal_muslim_iranian_group:0 "大首長国"
  duke_feudal_independent_male_iranian_group:2 "シャー"
  duke_feudal_independent_female_iranian_group:2 "バンビシュン"
- duchy_feudal_independent_iranian_group:1 "Shahdom"
+ duchy_feudal_independent_iranian_group:1 "シャー国"
  duke_feudal_brittany:0 "$duke$"
  duke_feudal_brittany_female:0 "$duke_female$"
  duchy_feudal_brittany:0 "$duchy$"

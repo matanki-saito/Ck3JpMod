@@ -142,7 +142,7 @@
  bp1_house_feud.0501.t:1 "$story_cycle_house_feud_title$: [house_feud_attacker.GetHouse.GetBaseNameNoTooltip]の敵対"
  bp1_house_feud.0501.reciprocating:1 "[house_feud_attacker.Custom('InsultAdjective')][house_feud_attacker.GetFirstName]は、我が一族の公然の恨みを[house_feud_attacker.GetHerHis]自身に帰し、我々の正当な不満に対する哀れで中傷的な反応を示したのだ。"
  bp1_house_feud.0501.new:1 "私は、[house_feud_attacker.GetTitledFirstName]、あの卑劣な[house_feud_attacker.Custom('InsultNoun')]が、[ROOT.Char.GetHouse.GetBaseName]を[house_feud_attacker.GetHerHis]の一族の永遠の敵として誓っていると聞いている。"
- bp1_house_feud.0501.desc:0 "\n\nHa, to think [other_house_feud_story.Custom('GetFamilyFeudShortFlavor')] has actually raised some [house_feud_attacker.GetDynastyHouseName] hackles!"
+ bp1_house_feud.0501.desc:0 "\n\nハッ、本当に[other_house_feud_story.Custom('GetFamilyFeudShortFlavor')]が[house_feud_attacker.GetDynastyHouseName]を怒らせてしまうとはな！"
  bp1_house_feud.0501.a:0 "ああ、思いは#EMP 同じだな#!！"
  bp1_house_feud.0501.b:0 "我々は新たな敵を得たようだ。"
  bp1_house_feud.0501.c:0 "なんと幼稚な。"

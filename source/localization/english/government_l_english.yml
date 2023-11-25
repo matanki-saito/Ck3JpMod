@@ -266,7 +266,7 @@
  unity_improve_logistics_decision_desc: "戦争の勝敗は様々な要因によって決まる。優れた兵站と物資は、精兵を擁することと同じくらい重要だ。私は一族内で新しい政策を実施し、物資と装備を共有するよう全員に要求すれば、軍隊の能力を大幅に向上させることができるだろう。"
  unity_improve_logistics_decision_tooltip: "軍の需要によりよく対応するために、兵站と補給を共有するように一族に要求します"
  unity_improve_logistics_decision_confirm: "兵站の共有を要求しよう"
- unity_steer_house_direction_decision: "氏族の方針を定める"
+ unity_steer_house_direction_decision: "家の方針を定める"
  unity_steer_house_direction_decision_desc: "家長として、私の言葉は家族のメンバーたちにとって非常に重要な意味を持っている。慎重な言葉と行動によって、私は仲間のメンバーたちに特定の行動を取らせ、私たちの結束に大きな影響を与えることができる。"
  unity_steer_house_direction_decision_confirm: "$unity_steer_house_direction_decision$"
  unity_steer_house_direction_decision_tooltip: "[house_unity|E]の舵取りの方針を決める"
