@@ -104,7 +104,7 @@
  ACHIEVEMENT_DESC_know_your_place_achievement:1 "[war|E]において[faction|E]を打ち負かす"
  ACHIEVEMENT_DESC_monumental_achievement:1 "個人の[domain|E]のいずれか一ヶ所で[duchy_building|E]を完全にアップグレードする"
  ACHIEVEMENT_DESC_its_not_a_cult_achievement:1 "[faith|E]を作成する"
- ACHIEVEMENT_DESC_the_things_we_do_for_love_achievement:2 "あなたの[lover_possessive|E]の[spouse|E]を暗殺する"
+ ACHIEVEMENT_DESC_the_things_we_do_for_love_achievement:2 "あなたの[lover_possessive|E][spouse|E]を暗殺する"
  ACHIEVEMENT_DESC_an_unfortunate_accident_achievement:2 "自分が暗殺した誰かから[title|E]を継承する"
  ACHIEVEMENT_DESC_death_did_us_part_achievement:2 "[spouse|E]を暗殺する"
  ACHIEVEMENT_DESC_for_the_faith_achievement:1 "どちらの側かを問わず、成功した[great_holy_war|E]に参戦する"
