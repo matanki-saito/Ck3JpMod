@@ -20,7 +20,7 @@
  tooltip_feudal_elector_vote_fellow_culture:0 "[candidate.GetSheHe|U]の文化は自分と同じ[culture|E]である: $VALUE|=+0$"
  tooltip_feudal_elector_vote_stranger:0 "[candidate.GetSheHe|U]は私の慣習に不慣れである: $VALUE|=+0$"
  tooltip_feudal_elector_vote_foreigner:0 "[candidate.GetSheHe|U]は外国人である: $VALUE|=+0$"
- tooltip_feudal_elector_vote_strangers_pet:0 "[candidate.GetSheHe|U]は外国人のペットである: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_strangers_pet:0 "[candidate.GetSheHe|U]は外国人の言いなりだ: $VALUE|=+0$"
  tooltip_feudal_elector_vote_foreigners_pet:0 "[candidate.GetSheHe|U]は外国人の操り人形である: $VALUE|=+0$"
  tooltip_feudal_elector_vote_political_concerns:0 "[candidate.GetSheHe]が継承した場合領外から統治を行うかもしれない: $VALUE|=+0$"
  tooltip_feudal_elector_vote_encroaching_foreigner:0 "[candidate.GetSheHe|U]はこの領国への野心を持った領外の領主である: $VALUE|=+0$"
