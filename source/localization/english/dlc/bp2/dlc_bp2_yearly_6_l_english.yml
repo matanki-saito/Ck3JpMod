@@ -86,7 +86,7 @@
  bp2_yearly.6010.d: "A beauteous composition, actually."
  bp2_yearly.6010.d.tt: "Let this lament be sung far and wide: its beauty matters more than its content."
  bp2_yearly.6020.t: "子供たちはけらけらと"
- bp2_yearly.6020.desc: "As I share the latest news from [snitch.GetHomeCourt.GetTitledFirstNamePossessive] court, my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('snitch'))] [snitch.GetName] seems oddly amused, a faraway smile"
+ bp2_yearly.6020.desc: "[snitch.GetHomeCourt.GetTitledFirstNamePossessive]の宮廷からの最近の便りを伝えると[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('snitch'))]の[snitch.GetName]は楽しそうにする。"
  bp2_yearly.6020.child: "on [snitch.GetHerHis] tiny face.\n\n\"I've got a story, [ROOT.Char.GetTitleAsNameNoTooltip]. A tale I made from my own seeings! But... not supposed to say. Promised I wouldn't.\"\n\n[snitch.GetSheHe|U] giggles with mischievous delight, reveling in a rare power over [snitch.GetHerHis] elders.\n\n\"Naughty!\" crows [snitch.GetFirstNameNoTooltip]."
  bp2_yearly.6020.youth: "across [snitch.GetHerHis] oily adolescent face.\n\n\"I've got a story, [ROOT.Char.GetTitleAsNameNoTooltip]: you just reminded me of it. Something never to repeat! But... I was so little. Feels so long ago now.\"\n\n[snitch.GetSheHe|U] snickers with wicked delight, reveling in this rare power over those [snitch.GetSheHe] was reared [snitch.GetHerHim].\n\n\"Naughty!\" crows [snitch.GetFirstNameNoTooltip]."
  bp2_yearly.6020.liege: "「なんて尊く、それでいてお茶目なんだ！」"
