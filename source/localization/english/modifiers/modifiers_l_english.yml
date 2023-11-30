@@ -1087,7 +1087,7 @@
  claim_throne_scheme_power_mult: "[GetScheme('claim_throne').GetTypeName]の[scheme_power|E]"
  world_persian_empire_development_growth_factor: "[GetGeographicalRegion('world_persian_empire').GetName]の[region|E]の$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$"
  max_murder_schemes_add: "最大[GetScheme('murder').GetTypeName]の[schemes|E]数"
- MODIFIER_DEFINITION_VALUE_PER_HOUSE_UNITY_MEMBER: "\t #weak [landed|E]の[house|E]の一員事に増える#!"
+ MODIFIER_DEFINITION_VALUE_PER_HOUSE_UNITY_MEMBER: "　#weak [landed|E]の[house|E]の一員ごとに増加#!"
  MODIFIER_DEFINITION_MAIN_DESC_HOUSE_UNITY: "この補正は[landed|E]の[house|E]の成員毎に増加します (#bold $MULTIPLIER|0$#!/#bold 10#!)"
  MODIFIER_DEFINITION_BASE_VALUE: "基本値"
  player_facing_ai_energy: "活力的"

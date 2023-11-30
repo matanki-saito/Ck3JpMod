@@ -4,7 +4,7 @@
  fp3_struggle.0051.desc.caliph: "私の背後には、[Mostaza.GetTitleTierName]たち、[Mutawakkil.GetFirstName]、[Muntasir.GetFirstName]、そして[Mustain.GetFirstName]といった亡霊たちが静かに佇んでいる—―彼らは皆、この[struggle|E]の犠牲となった者たちだ。反抗的なペルシア人と裏切り者のテュルク人は、私が先代の亡霊たちに仲間入りするのを期待しているが、私にはまだ局面を好転させる力がある！"
  fp3_struggle.0051.desc.involved: "これは[ROOT.Char.GetHouse.GetNameNoTooltip]家が行動し栄光に昇るべき時だ。我々はカリフ国の救世主となるのか、それとも統一されたウンマの夢を完全に打ち砕くのか、その選択を迫られている。"
  fp3_struggle.0051.desc.interloper: "最後の3人の[Mostaza.GetTitleAsNameNoTooltip]が突如として絶命した中、誰もが[Mostaza.GetFirstName]も同じ運命に追随するだろうと予測している。この混沌と不確かさの中で、[ROOT.Char.GetHouse.GetNameNoTooltip]家には様々な機会が広がっている…"
- fp3_struggle.0051.desc.supporter: "かつてないほどに[ROOT.Char.GetHouse.GetNameNoTooltip]家の忠誠心と安定した勤勉さが必要とされている。これは我々が栄光を追求し、カリフ国を救い、[ROOT.Char.GetFaith.GetAdjective]の理念の真の擁護者となるべき時だ！"
+ fp3_struggle.0051.desc.supporter: "かつてないほどに[ROOT.Char.GetHouse.GetNameNoTooltip]家の忠誠心と安定した勤勉さが必要とされている。今こそ我々が栄光を追求し、カリフ国を救い、[ROOT.Char.GetFaith.GetAdjective]の理念の真の擁護者となるべき時だ！"
  fp3_struggle.0051.desc.detractor: "イスラムの指導者たちが絶え間ない危機に直面する今こそ、[ROOT.Char.GetHouse.GetNameNoTooltip]家が自らの運命の主人となり、歴史の年代記に名前を刻む絶好の機会が訪れたのだ。"
  fp3_struggle.0051.desc.unrest: "$fp3_struggle.0051.desc$"
  fp3_struggle.0051.desc.stabilization: "一連の危機の後、[Mostaza.GetPrimaryTitle.GetName]は立ち直りつつあり、ペルシアでは血塗られた闘争が徐々に収束しつつある。"
