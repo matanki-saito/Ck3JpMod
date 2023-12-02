@@ -1501,7 +1501,7 @@
  game_concept_garrison_reinforcement:0 "守備隊補充速度"
  game_concept_garrison_reinforcement_desc:0 "[fortified_holding|E]の$game_concept_garrison_reinforcement$は、[siege|E]終了後に[garrison|E]が回復する速度を定義します。\n\n毎月、[garrison|E]は現在の最大容量の一定割合分だけ補充されます。 [holding|E]をアップグレードすることで増やすことができます。\n\nただし、[siege|E]の間、増援は凍結され、割合は0に設定されます。"
  game_concept_playdate:0 "$activity_playdate$"
- game_concept_playdate_desc:0 "領国の若き支配者や廷臣たちが集まり、日頃の憂さを忘れて遊ぶ[activity|E]です。\n\n参加者は[stress|E]を失い、主催者に対する[opinion|E]は向上します。また、多くの子供たちが集まることで、他にも様々な影響があるかもしれません。\n\n[ruler|E]は、自身の[liege|E]や[vassals|E]を(様々な[courtiers|E]たちとともに)$activity_playdate$に招待します。"
+ game_concept_playdate_desc:0 "An [activity|E] where rulers and courtiers below the age of [EmptyScope.ScriptValue('less_than_two_years_to_adulthood_value')|0V] gather to play and forget the dreariness of the day.\n\nParticipants will lose [stress|E] and increase their [opinion|E] of the host. There may also be any number of other consequences from bringing that many children together.\n\nA [ruler|E] will invite their [liege|E] and their [vassals|E] (along with various [courtiers|E]) to a $activity_playdate$."
  game_concept_winter:0 "冬の厳しさ"
  game_concept_winter_desc:0 "冬は時間の経過とともに着実に[supply|E]を消耗させ、冬の影響を受けた男爵領にいる間、軍隊は補給物資を失っていきます。厳しさが増すごとに供給のペナルティは増えていきます。冬には、[Concept( 'winter_severity_mild', '穏やか' )|E]、[Concept( 'winter_severity_normal', '通常' )|E]、[Concept( 'winter_severity_harsh', '過酷' )|E]の三つの異なる厳しさがあります。"
  game_concept_winter_severity_mild:0 "穏やかな冬"

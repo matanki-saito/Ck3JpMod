@@ -538,7 +538,7 @@
  nick_the_knight_of_gabriel_desc:1 "燃える神剣、復讐の天使。[CharYouSheHe(CHARACTER)]は血のレンガを積み上げて$e_outremer$を作り上げた。"
  nick_the_shepherd_desc:1 "神に選ばれし者がどこにいるかなど分からない。[CharYouSheHe(CHARACTER)]はただ彼らを安全な家に導くだけだ。"
  nick_the_judge_desc:1 "$k_israel$は時代を通して公平さと真の審判を追い求めてきた。[CharYouSheHe(CHARACTER)|U]はしばしばその息吹を感じる。"
- nick_the_saoshyant_desc:1 "アフラ・マズダーの寵愛に世界が包まれた時、[CharYouSheHe(CHARACTER)]は光を取り戻すために降臨していたのだ。"
+ nick_the_saoshyant_desc:1 "When all the world seemed swallowed by [CHARACTER.GetFaith.DevilName], [CharYouSheHe(CHARACTER)] [CharWereWas(CHARACTER)] there to restore the Light."
  nick_the_timely_rain_desc:1 "その精神の寛大さ、尊敬に能う振る舞いが[CHARACTER.GetShortUINameNoTooltipNoFormat]の名を知らしめる。"
  nick_the_jade_unicorn_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は杖に関しては無敵と言われている。"
  nick_the_wizard_desc:1 "人々はしばしば、この人物が使う独特な計時法に集中するあまり、優れたトリックを説明できないようだ。"
