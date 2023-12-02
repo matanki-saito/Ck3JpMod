@@ -827,14 +827,14 @@
  not_bellicose_egalitarian_or_communal_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_egalitarian_name$ or $ethos_communal_name$ [ethos|E]"
  not_bellicose_egalitarian_or_courtly_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_egalitarian_name$ or $ethos_courtly_name$ [ethos|E]"
  not_bellicose_egalitarian_or_bureaucratic_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_egalitarian_name$ or $ethos_bureaucratic_name$ [ethos|E]"
- not_bureaucratic_egalitarian_or_stoic_desc:0 "The [culture|E] does not have the $ethos_bureaucratic_name$, $ethos_stoic_name$ or $ethos_egalitarian_name$ [ethos|E]"
+ not_bellicose_egalitarian_or_stoic_desc:0 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_stoic_name$ or $ethos_egalitarian_name$ [ethos|E]"
  not_bellicose_stoic_or_communal_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_stoic_name$ or $ethos_communal_name$ [ethos|E]"
  not_bellicose_stoic_or_bureaucratic_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_stoic_name$ or $ethos_bureaucratic_name$ [ethos|E]"
  not_bellicose_courtly_or_communal_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_courtly_name$ or $ethos_communal_name$ [ethos|E]"
  not_bellicose_stoic_or_courtly_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_stoic_name$ or $ethos_courtly_name$ [ethos|E]"
  not_bellicose_spiritual_or_stoic_desc:1 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_spiritual_name$ or $ethos_stoic_name$ [ethos|E]"
  not_bellicose_bureaucratic_or_spiritual_desc:0 "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_bureaucratic_name$ or $ethos_spiritual_name$ [ethos|E]"
-
+ not_bellicose_egalitarian_or_spiritual_desc: "The [culture|E] does not have the $ethos_bellicose_name$, $ethos_egalitarian_name$ or $ethos_spiritual_name$ [ethos|E]"
  ## Stoic.
 
  ## Bureaucratic.

@@ -1,10 +1,10 @@
 ﻿l_english:
- IS_TRAVELLING_TRIGGER:0 "Is travelling"
- I_AM_TRAVELLING_TRIGGER:0 "I am travelling"
- THEY_ARE_TRAVELLING_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is travelling"
- NOT_IS_TRAVELLING_TRIGGER:0 "Is not travelling"
- NOT_I_AM_TRAVELLING_TRIGGER:0 "I am not travelling"
- NOT_THEY_ARE_TRAVELLING_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is not travelling"
+ IS_TRAVELLING_TRIGGER: "Is traveling"
+ I_AM_TRAVELLING_TRIGGER: "I am traveling"
+ THEY_ARE_TRAVELLING_TRIGGER: "[CHARACTER.GetShortUIName|V] is traveling"
+ NOT_IS_TRAVELLING_TRIGGER: "Is not traveling"
+ NOT_I_AM_TRAVELLING_TRIGGER: "I am not traveling"
+ NOT_THEY_ARE_TRAVELLING_TRIGGER: "[CHARACTER.GetShortUIName|V] is not traveling"
 
  TRAVEL_PLAN_IS_ABORTED_TRIGGER:0 "Travel plan is aborted"
  NOT_TRAVEL_PLAN_IS_ABORTED_TRIGGER:0 "Travel plan is not aborted"

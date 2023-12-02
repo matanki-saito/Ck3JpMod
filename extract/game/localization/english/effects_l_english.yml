@@ -2177,7 +2177,7 @@
  custom.every_attending_character_but_courtly:2 "Every [GetVassalStance( 'courtly' ).GetTextIcon]Non-[GetVassalStance( 'courtly' ).GetName] attending [vassal|E]"
  custom.every_non_callous_or_sadistic_courtier_and_guest:0 "Every non-callous or sadistic [courtier|E] and [guest|E]"
  custom.every_zealous_courtier_and_guest:0 "Every zealous [courtier|E] and [guest|E]"
- custom.every_entourage_character:0 "Every travelling [character|E]"
+ custom.every_entourage_character: "Every traveling [character|E]"
  custom.every_activity_guest:2 "Every [activity_guest_short|E]"
  custom.every_active_accolade:0 "Every [acclaimed_knight|E]"
  custom.every_activity_guest_with_trait_in_common:0 "Every guest with at least one [trait|E] in common with you"

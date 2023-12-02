@@ -868,7 +868,10 @@
  char_interaction.0082.a: "Very good."
  
  char_interaction.0083.t: "A Mind to Mold"
- char_interaction.0083.intro: "Young [ward.GetTitledFirstName], [ward_liege.GetTitledFirstNamePossessive] [ward_liege.Custom2('RelationToMeShort', SCOPE.sC('ward'))], has at last arrived from [ward_liege.GetPrimaryTitle.GetNameNoTierNoTooltip] for [ward.GetHerHis] education."
+ char_interaction.0083.intro: "Young [ward.GetTitledFirstName],"
+ char_interaction.0083.not_related: "[ward_liege.GetTitledFirstNamePossessive] [ward_liege.Custom2('RelationToMeShort', SCOPE.sC('ward'))],"
+ char_interaction.0083.related: "my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('ward'))],"
+ char_interaction.0083.outro: "has at last arrived from [ward_liege.GetPrimaryTitle.GetNameNoTierNoTooltip] for [ward.GetHerHis] education."
  char_interaction.0083.desc.host: "\n\n[guardian.GetTitledFirstName] will soon begin [guardian.GetHerHis] lessons."
  char_interaction.0083.desc: "\n\nOnce [ward.GetSheHe] is settled in, the lessons will begin."
  char_interaction.0083.a: "Excellent."
