@@ -19,7 +19,7 @@
  ENDING_DECISION_AVAILABLE:0 "[struggle|E]を終わりに出来ます"
  ENDING_DECISION_UNAVAILABLE:0 "[struggle|E]をまだ終結できません"
  ENDING_DECISION_AREA_HEADER:1 "#high 闘争の終結:#! [Struggle.GetNameNoTooltip]の[StrugglePhase.GetNameNoTooltip]"
- ENDING_DECISION_AREA_DESCRIPTION:0 "#I [Struggle.GetNameNoTooltip]を終わらせるには、次のいずれかのエンディングの決断を選択してください#!"
+ ENDING_DECISION_AREA_DESCRIPTION:0 "#I [Struggle.GetNameNoTooltip]を終わらせるには次のいずれかのエンディングの決断を選択してください#!"
  STRUGGLE_PHASE_BONUS:0 "[struggle_phase|E]ボーナス"
  STRUGGLE_PHASE_MALUS:0 "[struggle_phase|E]マルス"
  CHAPLAIN_CONVERT_COUNTY_STRUGGLE_BONUS:0 "$STRUGGLE_PHASE_BONUS$"
