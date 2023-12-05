@@ -807,4 +807,4 @@
  YOU_CANNOT_ASSASSINATE_THE_FAITHFUL: "暗殺者は[faith|E]の同志を標的にしない。"
  NOT_I_HAVE_SUB_REALM_SIZE_TRIGGER: "[CHARACTER.GetPrimaryTitle.GetName]の[realm_size|E]が$NUM|V0$以下である#weak ($CURRENT_VALUE|V0$)#!"
  NOT_THEY_HAVE_SUB_REALM_SIZE_TRIGGER: "[CHARACTER.GetTopLiege.GetPrimaryTitle.GetName]の[realm_size|E]が$NUM|V0$以下である#weak ($CURRENT_VALUE|V0$)#!"
- CHARACTER_ARE_IS_INCAPABLE: "[CHARACTER.GetShortUIName|U] [CharAreIs(CHARACTER)] incapable"
+ CHARACTER_ARE_IS_INCAPABLE: "[CHARACTER.GetShortUIName|U]は無能力者だ"
