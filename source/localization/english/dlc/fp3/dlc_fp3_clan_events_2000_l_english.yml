@@ -14,7 +14,7 @@
  clan_event.2000.b.success: "[improved_tax_collector.GetNameNoTooltip]は封臣を怯えさせた"
  clan_event.2000.c.success: "[improved_tax_collector.GetNameNoTooltip]はより多くの徴税を行う"
  clan_event.2000.d.success: "[improved_tax_collector.GetNameNoTooltip]は秘密を見つけた"
- every_taxed_vassal_tt: "すべての[taxpayer|E]が[tax_collector_name.GetName]に任命された"
+ every_taxed_vassal_tt: "[tax_collector_name.GetName]に割り振られた全ての[taxpayer|E]"
  clan_event.2001.t: "教育的な課税"
  clan_event.2001.opening_desc: "[educational_tax_collector.GetName]は徴税官としての職務を通じてかなり多くのことを学んでいるようだ。これは、[educational_tax_collector.GetSheHe]から受ける最近の取り組みの報告からも明らかだ。\n\n"
  clan_event.2001.education_diplomacy: "「...そして、言葉だけで全体の状況を改善できました！これが外交が素晴らしい芸術たる所以ですね」"

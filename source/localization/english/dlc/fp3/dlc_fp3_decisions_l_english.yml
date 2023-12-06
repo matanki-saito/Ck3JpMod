@@ -79,7 +79,7 @@
  fp3_embellish_capital_decision_confirm: "Ornament your capital"
  fp3_embellish_capital_decision_tooltip: "Choose a new architectural feature with which to ornament your [capital|E]."
  recently_conquered_land_tooltip: "You have recently conquered a [county|E] you can plunder"
- fp3_embellish_capital_decision_effects.tt: "You may chose a suitable architect from your [court|E] as well as a project to pursue. This will greatly benefit your [capital|E] [county|E], and may additionally provide bonuses such as [prestige|E], [piety|E] or [dynasty_prestige|E]."
+ fp3_embellish_capital_decision_effects.tt: "あなたの[court|E]から建築家と、執り行う企画を選びます。これが上手く行けば[capital|E]の[county|E]に絶大な利益をもたらし、[prestige|E]、[piety|E]、[dynasty_prestige|E]をたくさん獲得できるでしょう。"
  embellish_capital_royal_architect_tooltip: "My $royal_architect_court_position$ will be charged with overseeing the construction of a grand, new addition to my [capital|E]"
  embellish_capital_option_royal_architect: "My Royal Architect"
  embellish_capital_consort_courtier_tooltip: "One of my [courtiers|E] will be charged with overseeing the construction of a grand, new addition to my [capital|E]"
