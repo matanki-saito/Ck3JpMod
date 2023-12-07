@@ -45,4 +45,4 @@
  SCHEME_TAUGHT_TO_SCHEME: "あなたは私に、あなたのために陰謀を企てることを教えてくれた: $VALUE|+0$"
  INTRIGUE_EDUCATION_5_BONUS: "[GetTrait('education_intrigue_5').GetName( GetNullCharacter )]: $VALUE|+0$"
  SCHEME_DUTIOUS_FAMILY: "これは一家の義務だ：$VALUE|+0$"
- IS_PART_OF_STRUGGLE: "[target.GetShortUINameNoTooltip] part of the [struggle|E]: $VALUE|+0$"
+ IS_PART_OF_STRUGGLE: "[target.GetShortUINameNoTooltip]は[struggle|E]中だ：$VALUE|+0$"

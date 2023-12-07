@@ -83,7 +83,7 @@
  travel_events.1215.b:0 "私も訓練すればそんな風になれる！"
  travel_events.1215.a.tt:1 "[GetCultureTradition('tradition_martial_admiration').GetName]の伝統を確立する[prestige_i][prestige|E]コストが#P [EmptyScope.ScriptValue('tradition_travel_discount')|-0] #!減少します"
  travel_events.1216.t:0 "$travel_event_prefix$ 旅する思想家"
- travel_events.1216.desc:0 "One thing I notice as we pass through [ROOT.Char.GetCurrentLocation.GetNameNoTooltip] is that every other [ROOT.Char.GetCurrentLocation.GetCulture.GetNameNoTooltip] traveler claims to be a philosopher.\n\nAt first I'm sceptical of this but after being roundly outwitted in my third conversation in a row, I start to think perhaps there is something to their claims.\n\nThe latest philosopher, [local_philosopher.GetNameNoTooltip] is practically laughing at my latest attempts at logical argument."
+ travel_events.1216.desc:0 "我々が[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]を通って気づいたのは、他の[ROOT.Char.GetCurrentLocation.GetCulture.GetNameNoTooltip]の旅行者がすべて哲学者であると主張していることだ。\n\n最初は懐疑的だったのだが、三回目の対話で完敗してからは、私は彼らの主張には何かあるのではないかと思うようになった。\n\n最後に会った哲学者である[local_philosopher.GetNameNoTooltip]は、私が最近試みた論理的な議論を実質的に笑っているようだ。"
  travel_events.1216.a:0 "彼らの文化がどのように機能しているのか、もっと学ばなければならない。"
  travel_events.1216.b:0 "私自身は何を学べるのだろう？"
  travel_events.1216.a.tt:1 "[GetCultureTradition('tradition_philosopher_culture').GetName]の伝統を確立する[prestige_i][prestige|E]コストが#P [EmptyScope.ScriptValue('tradition_travel_discount')|-0] #!減少します"

@@ -871,7 +871,7 @@
  tournament_contest_resign_tt_first:0 "[CHARACTER.GetShortUIName|U]は[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][contest|E]を棄権します"
  tournament_contest_resign_tt_past:0 "[CHARACTER.GetShortUIName|U]は[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][contest|E]を棄権しました"
  tournament_contest_resign_round_tt:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の棄権により不戦勝となります"
- tournament_contest_resign_round_tt_first:0 "[CHARACTER.GetShortUIName|U] progress by default due to [TARGET_CHARACTER.GetShortUINamePossessive] resignation"
+ tournament_contest_resign_round_tt_first:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の棄権により不戦勝となります"
  tournament_contest_resign_round_tt_past:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の棄権により不戦勝となりました"
  tournament_contest_resign_win_tt:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の棄権により[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][contest|E]で優勝します"
  tournament_contest_resign_win_tt_first:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の棄権により[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][contest|E]で優勝します"

@@ -68,4 +68,4 @@
  must_not_have_landed_relatives_tt:0 "[CHARACTER.GetNameNoTooltip]は所領持ちの親族がいてはなりません"
  must_be_one_county_count_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip]は、[CHARACTER.GetShortUINameNoTooltip]の唯一の伯爵領である必要があります"
  appoint_podesta_interaction_notification:0 "任命された共和制の監督官"
- pardon_interaction_has_jirga_desc: "You consider [recipient.GetName] to be a [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] them at any time without gaining [tyranny|E].\n\nIf you would prefer that they remain free, you can choose to pardon them. This will remove any and all reasons you have to [imprison|E] them and increase their [opinion|E] of you, as well as give you prestige due to your $tradition_fp3_jirga_name$#! tradition."
+ pardon_interaction_has_jirga_desc: "あなたは[recipient.GetName]を[criminal|E]（[recipient.GetImprisonmentReasons( actor.Self )]）として[tyranny|E]と見なされることなく[imprison|E]することができます。\n\nもし彼らが自由の身のままであることを望むのであれば、恩赦という選択肢もあります。そうすることで[imprison|E]理由が全て取り除かれ、彼らのあなたに対する[opinion|E]が高まるだけでなく、あなたの伝統の$tradition_fp3_jirga_name$#!によって威信が得られます。"

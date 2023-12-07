@@ -171,4 +171,4 @@
  RAID_TT_MONTHLY_LOOT:0 "月間[raid_loot|E]"
  BUILDING_EFFECT_COUNTY_HOLDER_CHARACTER_HEADER:0 "#low この伯爵領の所有者:#!"
  BUILDNING_MODIFIER_FROM_CULTURE:0 "$BUILDING_NAME$#weak (文化から)#!"
- CANT_SET_REALM_CAPITAL_WHILE_TRAVELING: "#X You cannot change your [realm_capital|E] while [traveling|E]#!"
+ CANT_SET_REALM_CAPITAL_WHILE_TRAVELING: "#X [traveling|E]中はあなたの[realm_capital|E]を変えられません#!"
