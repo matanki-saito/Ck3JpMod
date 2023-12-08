@@ -124,7 +124,7 @@
  catalyst_became_detractor_fp3: "An important [character|E] took the [decision|E] to become a [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]"
  catalyst_became_detractor_fp3_desc: "重要な[character|E]が[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]となる[decision|E]をする"
  catalyst_ruler_chooses_persian_faith: "An important [character|E] took the [GetDecisionWithKey('adopt_a_new_faith_for_persia_decision').GetName] [decision|E]"
- catalyst_ruler_chooses_persian_faith_desc: "Important [character|E] takes the [GetDecisionWithKey('adopt_a_new_faith_for_persia_decision').GetName] [decision|E]"
+ catalyst_ruler_chooses_persian_faith_desc: "重要な[character|E]が[GetDecisionWithKey('adopt_a_new_faith_for_persia_decision').GetName][decision|E]を行った"
  catalyst_new_islamic_temple_construction: "Built a new [islam_religion.GetName] [temple_holding|E]"
  catalyst_new_islamic_temple_construction_desc: "Construct a new [temple_holding|E] in an #high Islamic#! province"
  catalyst_install_loyalist_cb: "[fp3_install_loyalist_cb|E]の[casus_belli|E]の行使に成功した"

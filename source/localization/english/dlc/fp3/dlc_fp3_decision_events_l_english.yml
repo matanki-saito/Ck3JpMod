@@ -101,7 +101,7 @@
  fp3_decision.0001.b: "ペルシアの王たちの栄光にふさわしい、緻密な儀式を行おう！"
  fp3_decision.0001.c: "控えめな儀式で十分だ。"
  fp3_decision.0001.d: "The flames can wait."
- fp3_decision.0001_pledged_to_quench_fire: "このディシジョンは20年間利用できません。"
+ fp3_decision.0001_pledged_to_quench_fire: "この決断は20年間利用できません。"
  fp3_decision.0001.a.tt: "あなたは聖なる炎を消すという厳粛な誓いを立てます。"
  fp3_decision.0002.t: "王室の炎の消失"
  fp3_decision.0002.desc: "Disaster strikes! As the armies of [occupant.GetName] sacked [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] and assailed the [ROOT.Char.Custom('ResidenceBuilding')], some of their soldiers reached the room housing my royal fire, and wickedly put it out. This could be perceived as a tremendously bad omen for the [ROOT.Char.GetDynastyNameNoTooltip] dynasty."
