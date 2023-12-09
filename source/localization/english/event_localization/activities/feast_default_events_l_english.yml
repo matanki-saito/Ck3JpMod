@@ -69,7 +69,7 @@
  feast_default.1013.c:0 "…そして庇うため真っ直ぐに突進する。"
  feast_default.1013.d:0 "「あなたが見た通り、私は[guest_to_save.GetFirstNameNoTooltip]を守るため行動した。」"
  feast_default.1014.t:1 "目撃者"
- feast_default.1014.desc:0 "私の[guest_to_murder.Custom('InsultAdjective')][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))]である[guest_to_murder.GetTitledFirstName]は、私が外でよろめきながら用を足していると、私を嘲笑う。血管の中ですでに沸騰している怒りは、[guest_to_murder.GetSheHe]が私に向かって歩いてくると、ますます勢いを増していく。「誰かと思えば！[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')][ROOT.Char.GetFirstNameNoTooltip]じゃないか！賭けてもいいがお前は——」\n\n[guest_to_murder.GetFirstNamePossessive]の腹立たしい顔に私が刃を突き刺した瞬間、背後から柔らかな息をのむ声が聞こえた。"
+ feast_default.1014.desc:0 "私の[guest_to_murder.Custom('InsultAdjective')][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))]である[guest_to_murder.GetTitledFirstName]は、私が外でよろめきながら用を足していると、嘲笑混じりに近づいてきた。血管の中ですでに沸騰している怒りが、[guest_to_murder.GetSheHe]が私に向かって歩いてくるにつれて、ますます勢いを増していくのがわかる。\n\n「誰かと思えば！[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]の[ROOT.Char.GetFirstNameNoTooltip]じゃないか！賭けてもいいがお前は——」\n\n[guest_to_murder.GetFirstNamePossessive]の腹立たしい顔に私が刃を突き刺した瞬間、背後から柔らかな息をのむ声が聞こえた。"
  feast_default.1014.a:0 "お願いだ、[witness.GetTitledFirstNameNoTooltip]、誰にも言わないでくれ！"
  feast_default.1014.a_2:0 "あなたは見たことを誰にも言わないだろう。"
  feast_default.1014.b:0 "こんな時間にこんな場所にいたことについて説明してもらおう！"

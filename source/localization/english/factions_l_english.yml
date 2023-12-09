@@ -4,7 +4,7 @@
  FACTION_POWER_HARD_RULE:0 "[GetPerk( 'hard_rule_perk' ).GetName( GetPlayer )]: #V +$VALUE|0$#!"
  FACTION_DEMAND_ACCEPT:0 "是非に及ばず..."
  FACTION_DEMAND_REFUSE:0 "私は脅しに屈する気はない！"
- FACTION_DEMAND_ACCEPTED_OPT:0 "賢明な決断だ"
+ FACTION_DEMAND_ACCEPTED_OPT:0 "賢明な判断だ。"
  FACTION_DEMAND_REFUSED_OPT:0 "よろしい、ならば戦争だ！"
  faction_demand.2004.opt_tt:1 "[faction_target.GetShortUIName]との戦争に参戦します"
  FACTION_DEMAND_SEND_DEMAND_NOTIFICATION_OPT:0 "最後通牒を突きつけてやる！"

@@ -205,7 +205,7 @@
  clan_unity_caused_trouble.desc: "stirred up trouble with [unity_target.GetName]"
  clan_unity_refused_alignment.desc: "[unity_target.GetName] refused to align on the issue of the Caliphate with [unity_character.GetName]"
  clan_unity_changed_alignment.desc: "[unity_target.GetName] aligned on the issue of the Caliphate with [unity_character.GetName]"
- unity_changed_title: "[house_unity|E]が変わった"
+ unity_changed_title: "[house_unity|E]の変化"
  unity_changed_desc: "[actor.GetName] "
  clan_unity_assigned_to_council.desc: "assigned [unity_target.GetName] to [unity_character.GetHerHis] council"
  clan_unity_assigned_to_court_position.desc: "assigned [unity_target.GetName] to one of [unity_character.GetHerHis] [court_position|E]"
