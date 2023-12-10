@@ -16,7 +16,7 @@
  travel_danger_events.5000.paranoid:0 "「カアアアア！お前、お前は私を殺すためにいるんだ！嘘をつくなよこの[entourage_member_one.Custom('InsultAdjective')]、忌まわしきスパイめ！」[entourage_member_one.GetFirstNameNoTooltip]は半狂乱だ。\n\n「まあ座れよ。[entourage_member_one.GetFirstNameNoTooltip]、この私だぞ。なぜそう思うんだ。」[entourage_member_one.GetWomanMan]を落ち着かせようと[entourage_member_two.GetFirstNameNoTooltip]は宥める。"
  travel_danger_events.5000.zealous:0 "[entourage_member_one.GetFirstNameNoTooltip]は[entourage_member_one.GetFaith.GetNameNoTooltip]の美徳を称賛しているようです。「…しかし、あなた。あなたは良い生活を送るための[entourage_member_one.GetFaith.HighGodName]の重要性を理解していませんね？」\n\n「#EMP またこれだよ#! ！」[entourage_member_two.GetFirstNameNoTooltip]は[entourage_member_two.GetHerHis]の目を転がします。「なぁ[entourage_member_two.GetFaith.HighGodName]よ、お前が聞いているなら、この訳の分からん[entourage_member_one.Custom('InsultNoun')]のお説教から助けてくれ！」"
  travel_danger_events.5000.fallback:0 "「お前の馬鹿さ加減には呆れ返るよ、[entourage_member_one.Custom('InsultAdjective')][entourage_member_one.Custom('InsultNoun')]め！」[entourage_member_one.GetFirstNameNoTooltip]は[location.Custom('GetProvinceGroundDesc')]を[entourage_member_one.GetHerHis]の足で苛立ったように蹴っている。\n\n「この完璧な旅にケチをつけてるのはお前だけだ！#EMP まだこんなところか？#!なんて分かれ道に来る度にグチグチ言いやがって！」[entourage_member_two.GetFirstNameNoTooltip]は言い返した。"
- travel_danger_events.5000.a:0 "来い、そして詫びろ。2人ともだ。"
+ travel_danger_events.5000.a:0 "来い、そして詫びろ。二人ともだ。"
  travel_danger_events.5000.a.success:0 "あなたは[entourage_member_one.GetFirstNameNoTooltip]と[entourage_member_two.GetFirstNameNoTooltip]の行き違いを解決するように忠告する"
  travel_danger_events.5000.a.failure:0 "[entourage_member_one.GetFirstNameNoTooltip]と[entourage_member_two.GetFirstNameNoTooltip]は分かり合えない"
  entourage_member_one_leaves.tt:0 "[entourage_member_one.GetFirstNameNoTooltip]はあなたの旅路から離れた"

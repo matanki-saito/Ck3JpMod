@@ -240,7 +240,7 @@
  court_chaplain_religious_relations_modifier_desc:0 "この人物の宮廷司祭はその宗教的地位の改善に取り組んでいる"
  task_religious_relations_notification_tooltip:0 "$task_religious_relations$から"
  ERUDITION_DYNASTY_PERK_BONUS_VALUE:0 "[GetDynastyPerk('erudition_legacy_5').GetName]"
- SCALED_COUNCILLOR_LEARNING_VALUE:2 "[councillor.GetCouncilTitleFirstNamePossessive] [learning|E]"
+ SCALED_COUNCILLOR_LEARNING_VALUE:2 "[councillor.GetCouncilTitleFirstNamePossessive]の[learning|E]"
  COURT_CHAPLAIN_PROGRESS_BASE:0 "基本"
  CONVERSION_PERK_BONUS_VALUE:1 "[GetPerk('zealous_proselytizer_perk').GetName(GetPlayer)]"
  CONVERSION_DYNASTY_PERK_BONUS_VALUE:1 "[GetDynastyPerk('erudition_legacy_5').GetName]"

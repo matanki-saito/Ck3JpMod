@@ -413,7 +413,7 @@
  bp2_yearly.6202.opening: "[home_court.GetCapitalLocation.GetTitle.GetNameNoTier]に再び戻り、この手紙を書いています。"
  bp2_yearly.6202.assembled_nobles: "あなたの嘆願を私がした時、[home_court.GetTitleAsNamePossessive]の宮廷では卓越した貴族も並んでおり、緊張致しました。\n\n"
  bp2_yearly.6202.nostalgia: "そよ風が木々の間をすり抜ける姿はかつてよく見たもので、変わりないことに安心しました。ともかく、あなたの嘆願を伝えさせて頂きました。\n\n"
- bp2_yearly.6202.impatient: "私の赤子の頃しか知らない下らない貴族たち、あなたの嘆願を代弁し始めたら黙りこくっちゃって。\n\n"
+ bp2_yearly.6202.impatient: "私の赤子の頃しか知らない下らない貴族たちもあなたの嘆願を熱弁したら黙りこくっていましたよ。\n\n"
  bp2_yearly.6202.received_empathy: "群衆は[ROOT.Char.GetPrimaryTitle.GetNameNoTierPossessive]の不幸を聞き、涙を流していました。私の[hostage.Custom2('RelationToMeShort', SCOPE.sC('home_court'))]は深く感動していたように思います。"
  bp2_yearly.6202.received_debate: "議論は紛糾しました。私の[hostage.Custom2('RelationToMeShort', SCOPE.sC('home_court'))]はあなたの友軍となることはありませんが、[home_court.GetHerHis]の家族を戦士にしたいとは言ってくれています。"
  bp2_yearly.6202.received_scorn: "「[ROOT.Char.GetSheHe]はいかなる権利で我が助力を求めているというのだ？」私は返答出来ませんでした。[hostage.Custom2('RelationToMeShort', SCOPE.sC('home_court'))]の不興を買ってしまったかもしれません。"

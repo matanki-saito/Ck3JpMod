@@ -357,7 +357,7 @@
  travel_events.1020.intro.fallback:0 "[GetCourtPositionType('travel_leader_court_position').GetName()]の地位が空白となったことで、私は側近に目を向ける。少なくとも、私が再び故郷に戻り、適切な代わりを探せるようになるまで、よく働いてくれそうな者はいないだろうか？\n\n"
  travel_events.1020.desc.two_entourage_members:0 "実は、[old_travel_leader.GetFirstNamePossessiveNoTooltip]の後任を容易に務めることができる人物が二人がいる。私の[ROOT.Char.Custom2('RelationToMeShort',temp_caravan_master_option_1)]、[temp_caravan_master_option_1.GetName]あるいは、私の[ROOT.Char.Custom2('RelationToMeShort',temp_caravan_master_option_2)]、[temp_caravan_master_option_2.GetName]のいずれかであれば、ピンチのときにもよく役立ってくれるはずだ。"
  travel_events.1020.desc.one_entourage_member:0 "私の従者の中で、その任に当たることができるのは一人しかいない。私の[ROOT.Char.Custom2('RelationToMeShort',temp_caravan_master_option_1)]、[temp_caravan_master_option_1.GetFirstName]である。しかしながら、[temp_caravan_master_option_2.GetName]という地元の人物もまた[temp_caravan_master_option_2.GetHerHis]の奉仕の提供を申し出ている。"
- travel_events.1020.desc.fallback:0 "不運なことに、私は市場から家への帰り道を見つけることさえあやふやで、まして[next_destination.GetName]への旅路を計画することなど出来やしない状態だ。だが幸運も回ってきた。2人の地元住民が我らに奉仕したいと打診してきているのだ。"
+ travel_events.1020.desc.fallback:0 "不運なことに、私は市場から家への帰り道を見つけることさえあやふやで、まして[next_destination.GetName]への旅路を計画することなど出来やしない状態だ。だが幸運も回ってきた。二人の地元住民が我らに奉仕したいと打診してきているのだ。"
  travel_events.1020.a:0 "[temp_caravan_master_option_1.GetFirstNameNoTooltip]にしよう。"
  travel_events.1020.b:0 "[temp_caravan_master_option_2.GetFirstNameNoTooltip|U]で問題ない。"
  travel_events.1020.a.aptitude:0 "[temp_caravan_master_option_1.GetFirstNamePossessiveNoTooltip]の[aptitude|E]は[temp_caravan_master_option_1.GetCourtPositionAptitude( GetCourtPositionType( 'travel_leader_court_position' ) )]です"

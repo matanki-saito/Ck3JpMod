@@ -253,7 +253,7 @@
  you_learn_something: "あなたは学びを得る"
  you_are_hampered: "あなたの学習は中途半端だ"
  bp2_adult_education.9100.t: "百姓の宴"
- bp2_adult_education.9100.desc: "私の寝る間も惜しむ勉強は突然中断された。#EMP うあーーー！！！#!叫び声？#EMP バターーン！！！#!耳を塞ぎたくなる！#EMP ガッシャーーーーン！#!音源だけは高価そうだな。何が起きているんだ！？\n\n騒動の原因は2人の百姓らしい。こんな所までどうやってきたのかは[ROOT.Char.GetFaith.HighGodName]のみぞしるだが、わかるのは奴らが大学にある[ROOT.Char.Custom('GetExpensiveDrink_Singular')]を樽ごとバカ飲みしているということだ。\n\n「これで#EMP ヒーック#!奴らも思い知るぜ！」1人が叫ぶ。「おう、#EMP モジ#!が読めるだけでよくこんなにエラソーにできるよなぁ！」もう1人も続く。"
+ bp2_adult_education.9100.desc: "私の寝る間も惜しむ勉強は突然中断された。#EMP うあーーー！！！#!叫び声？#EMP バターーン！！！#!耳を塞ぎたくなる！#EMP ガッシャーーーーン！#!音源だけは高価そうだな。何が起きているんだ！？\n\n騒動の原因は二人の百姓らしい。こんな所までどうやってきたのかは[ROOT.Char.GetFaith.HighGodName]のみぞしるだが、わかるのは奴らが大学にある[ROOT.Char.Custom('GetExpensiveDrink_Singular')]を樽ごとバカ飲みしているということだ。\n\n「これで#EMP ヒーック#!奴らも思い知るぜ！」一人が叫ぶ。「おう、#EMP モジ#!が読めるだけでよくこんなにエラソーにできるよなぁ！」もう一人も続く。"
  bp2_adult_education.9100.read: "哀れな魂ども…仕方ない、読み書きを教えてやる！"
  bp2_adult_education.9100.a: "本を運ばせるだけなら知性は要らないか…"
  bp2_adult_education.9100.b: "「百姓ども、杯を持ってこい、他の学生も連れてきてやる！」"

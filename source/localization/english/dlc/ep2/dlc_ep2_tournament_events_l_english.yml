@@ -344,7 +344,7 @@
  ep2_tournament_events.2505.b:1 "引き分けだと？私をここから運び出してくれ！"
  ep2_tournament_events.2505.b.tt.success:0 "あなたの勝ち"
  ep2_tournament_events.2505.b.tt.failure:0 "[versus_contestant.GetFirstNameNoTooltip]の勝ち"
- ep2_tournament_events.2505.b.tt.doublefailure:0 "2人とも動けない"
+ ep2_tournament_events.2505.b.tt.doublefailure:0 "二人とも動けない"
  ep2_tournament_events.2505.b.tt.sadistic:0 "全ての[GetTrait('sadistic').GetName( GetNullCharacter )]の廷臣と客人"
  ep2_tournament_events.2505.b.tt.notsadistic:0 "全ての[GetTrait('sadistic').GetName( GetNullCharacter )]でない廷臣と客人"
  ep2_tournament_events.2506.t:0 "新しい展望"

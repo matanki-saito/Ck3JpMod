@@ -58,7 +58,7 @@
  bp1_yearly.7010.t:1 "忠誠心を試す"
  bp1_yearly.7010.desc:2 "何度も頭をよぎってしまう。[tested_friend.GetFirstNamePossessive]の忠誠心が偽りだったら？[tested_friend.GetSheHe]は真の友人なのか？それともただのおべっか使いなのか？\n\nちょっとした試練を与えれば、私も納得できるだろう……\n\n間者や偽の秘密、差出人不明の贈り物を使う。[tested_friend.GetHerHim]が私の信頼を裏切るとしたら、どんな手だろうか？"
  bp1_yearly.7010.a:1 "銀貨を30枚。"
- bp1_yearly.7010.b:1 "2人……いや#EMP 3人#!の美しい[tested_friend.Custom('AttractionWomanManMultiple')]を。やる気もある。"
+ bp1_yearly.7010.b:1 "二人……いや#EMP 三人#!の美しい[tested_friend.Custom('AttractionWomanManMultiple')]を。やる気もある。"
  bp1_yearly.7010.c:1 "[tested_friend.GetHerHis]の#EMP 別の#!友人[friends_friend.GetFirstNameNoTooltip]に富を約束する。"
  bp1_yearly.7010.d:0 "こんなのは私にふさわしくない"
  bp1_yearly.7010.toast.betrayed:1 "[tested_friend.GetSheHe|U]があなたを裏切る"
