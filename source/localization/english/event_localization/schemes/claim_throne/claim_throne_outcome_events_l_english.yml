@@ -8,7 +8,7 @@
  claim_throne_outcome.2001.discovered:0 "\n\n[target.GetTitledFirstName]は、 王朝に絡む昔の婚儀に関する私の主張を、完全にでっち上げだと確信している。が、その一方で重要なのは、[target.GetSheHe]が反証できないという点だ。"
  claim_throne_outcome.2001.no_awareness:0 "\n\n古い王朝の結婚の正確な詳細は時の霧に包まれているが、その真実性を疑う理由はない。[target.GetTitledFirstName]でさえ、私の主張が正当だと認めねばならない。"
  claim_throne_outcome.2001.a:0 "何も私を止められぬ！"
- claim_throne_outcome.2001.b:0 "[target.GetFirstNameNoTooltip]は言いたい放題ぶちまけています！何も変わりませんが。"
+ claim_throne_outcome.2001.b:0 "[target.GetFirstNameNoTooltip]が何を言おうと、時すでに遅しだ。"
  claim_throne_outcome.4001.opening:0 "[target_title.GetName]への請求権は誰からの承認も得られなかった！"
  claim_throne_outcome.4001.owner_discovered:0 "\n\nさらに悪いことに、[target.GetTitledFirstName]は私が[ROOT.Char.GetDynasty.GetBaseName]の王朝と[target_title.GetNameNoTierNoTooltip]の旧王朝の間の結婚記録をでっち上げようとしているのを発見したのである！"
  claim_throne_outcome.4001.owner_secret:0 "\n\n[ROOT.Char.GetDynasty.GetBaseName]の王朝と[target_title.GetNameNoTierNoTooltip]の旧王朝の間の結婚記録は不正確であるとして却下されたが、少なくともそれらを作ったのが私だと露見することは無かった。"

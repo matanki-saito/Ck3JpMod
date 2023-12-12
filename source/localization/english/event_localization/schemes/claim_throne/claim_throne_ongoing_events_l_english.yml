@@ -5,7 +5,7 @@
  claim_throne_ongoing.1001.b:0 "[ROOT.Char.GetFaith.AltPriestTermPlural]だけがこの兆候を解釈できる。"
  claim_throne_ongoing.1002.t:0 "獲得した権威"
  claim_throne_ongoing.1002.desc:1 "私が[target_title.GetName]の称号を追い求めているのは、権力への単純な欲望に駆られているのではなく、巨大な責任を背負うことができるのは私だけだからだ！[target.GetTitledFirstName]でさえこれを認めているようで、王国のためにますます重要な仕事を与えてくれる。\n\n間もなく、私は[target_title.GetTierAsNameNoTooltip]を実質的に統治することになるかもしれない…"
- claim_throne_ongoing.1002.a:0 "「ご心配には及びませぬ、我が君。この私がよきにはからっておきましょう…」"
+ claim_throne_ongoing.1002.a:0 "「置きになさらずとも、我が君。私がなんとかします…」"
  claim_throne_ongoing.1002.b:0 "これはちょっとやり過ぎだな。"
  claim_throne_ongoing.1003.t:0 "支援の獲得"
  claim_throne_ongoing.1003.desc:0 "もし私が[target_title.GetNameNoTier]の[target.GetTitleAsName]を務めるなら、現在の[target.GetTitledFirstName]が持っている以上の新しい廷臣の助けが必要なことは十分知っている。\n\n[target.GetTitleAsName]として私がいかに寛大であるかを知らしめることが、成功を生むであろう。"

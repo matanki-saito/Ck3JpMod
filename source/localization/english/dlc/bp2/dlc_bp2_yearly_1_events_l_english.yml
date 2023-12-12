@@ -109,7 +109,7 @@
  bp2_yearly.1015.t: "黄金の子"
  bp2_yearly.1015.intro: "ある朝、一日の準備をしていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('golden_child'))]である[golden_child.GetFirstName]が私に近づいてきた："
  bp2_yearly.1015.desc_guardian: "\n\n「[ROOT.Char.Custom('MistressMaster')|U][ROOT.Char.GetFirstNameNoTooltip],"
- bp2_yearly.1015.desc_parent: "\n\n「[golden_child.Custom2('RelationToMeShort', ROOT.Char)|U],"
+ bp2_yearly.1015.desc_parent: "\n\n「[golden_child.Custom2('RelationToMeShort', ROOT.Char)|U]さん、"
  bp2_yearly.1015.outro: "昨日、北の塔を探検している最中にこれを見つけました。どうぞ受け取ってください。」[golden_child.GetSheHe]は小さな、ぼろぼろの小銭入れを手渡してきた。中からカランと音が鳴る。"
  bp2_yearly.1015.a: "ありがとう！"
  bp2_yearly.1015.a.flavor: "なんと面白い子だ。"
