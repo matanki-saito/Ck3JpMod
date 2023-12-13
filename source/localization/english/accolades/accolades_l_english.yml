@@ -7,7 +7,7 @@
  CREATE_ACCOLADE_CONFIRM_ACCEPT:0 "$CREATE_ACCOLADE$"
  CREATE_ACCOLADE_COST:0 "#T $CREATE_ACCOLADE$#!\nあなたの$knight_culture_player_no_tooltip$の[accolade_types|e]はあなたに恩恵をもたらし、その効果は[glory|E]に応じて増えていきます。\n\nコスト: #high $COST$#!"
  CREATE_ACCOLADE_EMPTY_TYPE:0 "勲等の後継者がいない"
- CREATE_ACCOLADE_SELECT_KNIGHT:1 "あなたの新しい[accolade|e]の[acclaimed_knight|E]を選びましょう。[knight|e]の[skills|e]と[traits|e]は[accolade_types|e]を解禁することに貢献します。"
+ CREATE_ACCOLADE_SELECT_KNIGHT:1 "あなたの新しい[accolade|e]に値する[acclaimed_knight|E]を選びましょう。[knight|e]の[skills|e]と[traits|e]に応じて様々な[accolade_types|e]がアンロックされます。"
  CREATE_ACCOLADE_ASSIGN:0 "$knight_culture_player_no_tooltip$を任命する"
  CREATE_ACCOLADE_ASSIGN_TT:0 "#help この人物をこの[accolade|E]による[acclaimed_knight|E]に選出します"
  ACCOLADE_GLORY_VALUE:0 "[glory|E]: $VALUE|0$"
