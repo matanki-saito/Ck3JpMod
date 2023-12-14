@@ -6,7 +6,7 @@
  ease_tension_toast.failure:0 "あなたの努力は失敗した。"
  bad_intrigue.tt:0 "このオプションは、陰謀スキルが低いために使用できます。"
  fp2_struggle.1000.t:0 "火を焚く"
- fp2_struggle.1000.desc:0 "[tension_county.GetName]にて、[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]と[tension_county.GetCountyData.GetFaith.GetAdjectiveNoTooltip]の住民の間で衝突が発生した。「この機会を利用しましょう」[tension_councillor.GetCouncilTitle][tension_councillor.GetFirstName]はこう続ける。「手頃な兵士を[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の民兵の中から募集する、その機会とするのです。その上、その兵士たちは国元で#italic 訓練#!し続けるのであれば、そう悪くない話ではありませんか！となれば、実際に件の衝突を#italic 助長#!することで...」\"\n\n[tension_county.GetNameNoTierNoTooltip]に火を放てと？苛烈な狂信者を徴募せんがために？"
+ fp2_struggle.1000.desc:0 "[tension_county.GetName]にて、[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]と[tension_county.GetCountyData.GetFaith.GetAdjectiveNoTooltip]の住民の間で衝突が発生した。\n\n「この機会を利用しましょう」[tension_councillor.GetCouncilTitle][tension_councillor.GetFirstName]はこう続ける。\n\n「手頃な兵士を[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の民兵の中から募集する、その機会とするのです。その上、その兵士たちは国元で#italic 奉仕#!し続けるのであれば、そう悪くない話ではありませんか！となれば、我らがやるべき事はこの宗教的衝突を#italic 助長#!することでは無いでしょうか…？」\n\n失敗すれば[tension_county.GetNameNoTierNoTooltip]は火の海になるやもしれん。それも苛烈な狂信者を私兵とするためにだ。"
  fp2_struggle.1000.a:0 "憎しみを広めよう...慎重に。"
  fp2_struggle.1000.b:0 "君ならうまくやれると信じている"
  fp2_struggle.1000.c:0 "いや、緊張を和らげようと思う。"

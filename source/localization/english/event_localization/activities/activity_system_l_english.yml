@@ -97,7 +97,7 @@
  activity_system.0400.desc_no_leader:0 "私は空と持っているすべての地図を精査し続けているが、計算が合っていないことは明らかだ。\n\n我々はスケジュールより[GetTimeBetweenDates(ROOT.Char.GetInvolvedActivity.GetActiveStartDate.Self, ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate)]日ほど遅れており、今の速度で旅を続けた場合、目的地に間に合わなくなるだろう。"
  activity_system.0400.a:0 "急げ。"
  activity_system.0400.a.tt:0 "あなたは途中でスピードが上がることを期待します"
- activity_system.0400.b:0 "取るに足らぬ考えだ。"
+ activity_system.0400.b:0 "なんて下らない事をしていたのか。"
  activity_system.0401.t:0 "手遅れ"
  activity_system.0401.desc_leader:0 "[travel_leader.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が険しい顔で私に近づいてきた。\n\n「我が[ROOT.Char.GetTitleAsNameNoTooltip]、残念なお知らせですが、我々は間に合いませんでした。今日から活動が始まりましたが、我々は単純にその場にいないのです。」"
  activity_system.0401.desc_no_leader:0 "今日がその日だ。今日から活動が始まったが、私の努力にもかかわらず、我々は単純にその場にいない。\n\nあとは引き返して帰路につくだけだ。"

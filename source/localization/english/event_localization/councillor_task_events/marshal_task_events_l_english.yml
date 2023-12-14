@@ -86,7 +86,7 @@
  marshal_task.0304.a_clan: "いかなる[ROOT.Char.GetHouse.GetBaseNameNoTooltip]の子も軍列に並ぶ栄誉に値する。"
  marshal_task.0304.a_neutral: "そなたの[beneficiary_of_nepotism.Custom('GetDaughterSon')]を軍列に加えよう。"
  marshal_task_0304_a_tt: "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U]は[TARGET_CHARACTER.GetShortUINameNoTooltip|U]が20年以内に解雇されれば憤慨するでしょう#!"
- marshal_task.0304.b: "[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は何故廷臣としての居場所だけ満足出来ぬのだ？"
+ marshal_task.0304.b: "[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は廷臣にするが、それ以上は求めるな。"
  marshal_task.0304.b.success: "[advocate_of_nepotism.GetTitledFirstNameNoTooltip]はあなたの言葉に満足する"
  marshal_task.0304.b.failure: "[advocate_of_nepotism.GetTitledFirstNameNoTooltip]はあなたの言葉に憤慨する"
  marshal_task.0304.c: "戦場は#EMP 託児所#!ではない！"
