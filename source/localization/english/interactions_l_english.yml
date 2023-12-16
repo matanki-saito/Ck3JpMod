@@ -388,7 +388,7 @@
  YEARLY_1010_ABDUCTED:0 "[CHARACTER.GetShortUIName|U]は誘拐され、[CHARACTER.GetHerHis]の居場所は不明です"
  YEARLY_1010_ABDUCTOR:0 "[CHARACTER.GetShortUIName|U]は極秘任務に乗り出しており、[CHARACTER.GetHerHis]の居場所は不明です"
  BLACKMAIL_NOTIFICATION_OPENING:0 "かくなりしは遺憾とするところ。"
- BLACKMAIL_NOTIFICATION_SECRET_DEVIANT:0 "\n 君の...異常な性癖を知ってる。"
+ BLACKMAIL_NOTIFICATION_SECRET_DEVIANT:0 "\n君の…なんというか、異常な性癖を聞いたぞ！"
  BLACKMAIL_NOTIFICATION_SECRET_HOMOSEXUAL:0 "\nあなたが他の[recipient.GetWomenMen]たちと共に過ごすのを好む証拠があるのだがね。"
  BLACKMAIL_NOTIFICATION_SECRET_MURDER:0 "\n知っているぞ…お前が[secret_target.GetShortUINamePossessive]を殺した真犯人だと！"
  BLACKMAIL_NOTIFICATION_SECRET_MURDER_ATTEMPT:0 "\n君が[secret_target.GetShortUIName]を殺そうとした証拠を持っているぞ！"

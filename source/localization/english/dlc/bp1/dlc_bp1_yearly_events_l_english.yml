@@ -596,7 +596,7 @@
  bp1_yearly.8162.a:0 "なぜ#EMP あんな#!ことを、[sycophant_scope.GetFirstNameNoTooltip]…"
  bp1_yearly.8162.a.flavor:0 "どうして召使いのネタなんかにこだわったんだ？"
  bp1_yearly.8170.t:0 "[sycophant_scope.GetFirstNamePossessiveNoTooltip]の友"
- bp1_yearly.8170.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', sycophant_scope)]、[sycophant_scope.GetFirstName]に会う機会は次第に少なくなってきている。代わりに、[sycophant_scope.GetSheHe]は我が[ROOT.Char.Custom2('RelationToMe', friendly_scope)]、[friendly_scope.GetTitledFirstName]とより多くの時間を過ごしているようだ…\n\n私は二人が冗談を言い合いながら太ももを叩き、私の方をちらちらと見てはクスクス笑っているのに遭遇した。\n\nこれをどうするべきだろうか…"
+ bp1_yearly.8170.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', sycophant_scope)]、[sycophant_scope.GetFirstName]に会う機会は次第に少なくなってきている。代わりに、[sycophant_scope.GetSheHe]は我が[ROOT.Char.Custom2('RelationToMe', friendly_scope)]、[friendly_scope.GetTitledFirstName]とより多くの時間を過ごしているようだ…\n\n私は二人が冗談を言い合いながら膝を叩き、私の方をちらちらと見てはクスクス笑っているのに遭遇した。\n\nこれをどうするべきだろうか…"
  bp1_yearly.8170.a:0 "私はその上を行く。"
  bp1_yearly.8170.a.flavor:0 "もうこれ以上、[sycophant_scope.GetHerHim]に時間を浪費することはない"
  bp1_yearly.8170.b:0 "あぁ、[sycophant_scope.GetFirstNameNoTooltip]、少しいいか？"
