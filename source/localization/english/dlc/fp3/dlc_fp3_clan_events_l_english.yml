@@ -69,7 +69,7 @@
  fp3_clan.8006.b: "いってらっしゃい、裏切り者には気を付けるんだよ…"
  fp3_clan.8006.c: "ほら、スパイを何人か雇え、ただし私の家族には近づくな。"
  fp3_clan.8008.t: "血抜きのように"
- fp3_clan.8008.desc: "最近、無慈悲な徴税官として知られる[ambitious_tax_collector.GetName]がしばしば沈思黙考している姿を目にした。しかし、とうとう何か得心するものがあったようで、[ambitious_tax_collector.GetSheHe]が私を探していると聞き及んだ。\n\n「我が[ROOT.Char.GetLadyLord]、封臣たちが税逃れをするためにつまらぬ正当化を行ってきたことはご承知のことだと思いますが…よくよく考えてみれば、思い至りました。私もすればいいのです、ああ、その、#italic 正当化#!とやらを…」\n\n[ambitious_tax_collector.GetSheHe|U]は古びた文書をいくつか持ちだしてきた。「これはあなたの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('beleaguered_clan_member'))]、[beleaguered_clan_member.GetTitledFirstName]がこれまで考えられてきたよりも多くの税逃れをしてきたと示す『証拠』にて。幸い、他の臣下に対する同様のものも幾つかあります」"
+ fp3_clan.8008.desc: "最近、無慈悲な徴税官として知られる[ambitious_tax_collector.GetName]がしばしば沈思黙考している姿を目にした。しかし、とうとう何か得心するものがあったようで、[ambitious_tax_collector.GetSheHe]が私を探していると聞き及んだ。\n\n「我が[ROOT.Char.GetLadyLord]、封臣たちが税逃れをするためにつまらぬ正当化を行ってきたことはご承知のことだと思いますが…よくよく考えてみれば、思い至りました。私もすればいいのです、ああ、その、｢#italic 正当化#!」とやらをね…」\n\n[ambitious_tax_collector.GetSheHe|U]は古びた文書をいくつか持ちだしてきた。「これはあなたの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('beleaguered_clan_member'))]、[beleaguered_clan_member.GetTitledFirstName]がこれまで考えられてきたよりも多くの税逃れをしてきたと示す『証拠』にて。幸い、他の臣下に対する同様のものも幾つかあります」"
  fp3_clan.8008.a: "多ければ多いほどいいからな！"
  fp3_clan.8008.b: "[beleaguered_clan_member.GetTitledFirstNameNoTooltip]に注目してみようか。"
  fp3_clan.8008.c: "私欲の為に家中を亀裂を及ぼすような真似はしたくない。"
