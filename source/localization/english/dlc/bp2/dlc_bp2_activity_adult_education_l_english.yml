@@ -181,7 +181,7 @@
  bp2_adult_education.1050.c: "いや、勉学を修めるためにここにいるのだ。"
  bp2_adult_education.1060.t: "イエスとノー――然りと否"
  bp2_adult_education.1060.desc: "[location.GetBaronyNameExplicitly]での[ROOT.Char.GetFaith.GetAdjective]の教義に関する綿密な研究は私に多くの新しい疑問を突き付けてくる。その中には明確な答えがないどころか矛盾さえしているように思える。\n\n信仰は理性によって補完されうるか？\n信仰は見えないものにのみ働くのか？\nでは見えないものとは何であるというのか？\n\n#EMP 然り、あるいは否#!…"
- bp2_adult_education.1060.a: "矛盾の果てにこそ意味がある、のか…"
+ bp2_adult_education.1060.a: "矛盾した世界の果てにこそ、意味が──"
  bp2_adult_education.1060.b: "答えは実践から生じるはずだ！"
  bp2_adult_education.1060.c: "頭がおかしくなりそう。"
  bp2_adult_education.1060.a.tt: "あなたは本の宝物を得る"
