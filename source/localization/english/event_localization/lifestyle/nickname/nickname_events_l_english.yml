@@ -79,7 +79,7 @@
  lifestyle_nicknames.1000.end_bad_good:0 "\n\n「何はともあれ、私はそんな名前では呼ばないと約束しましょう」[informer.GetFirstNameNoTooltip]は笑って言った。"
  lifestyle_nicknames.1000.end_good_good:0 "\n\n「実に素晴らしい！」[informer.GetFirstNameNoTooltip]は明るい調子で言った。"
  lifestyle_nicknames.1000.a:0 "この異名なら受け入れられそうだ！"
- lifestyle_nicknames.1000.b:0 "「[nickname_getter.GetNicknameNoTooltip|U]」？#EMP なんだと！？#!ありえない！"
+ lifestyle_nicknames.1000.b:0 "「[nickname_getter.GetNicknameNoTooltip|U]」だと？#EMP なんだそれは#!！？ありえん！"
  lifestyle_nicknames.1000.c:0 "暗闇の中の一筋の光か…"
  lifestyle_nicknames.1000.d:0 "ああ。人生というのはもっと悪く#emp なれる#!ものなのだな。"
  lifestyle_nicknames.1000.e:0 "*賛同のうなり声を上げる*"

@@ -109,7 +109,7 @@
  fp2_struggle.2010.b:0 "首を切り落としてやる、ヘビ野郎め！"
  fp2_struggle.2010.c:0 "戦うよりは金を払う方がマシか…"
  fp2_struggle.2011.desc:0 "[fp2_2009_garduna_guild_master.GetFirstName]を倒したことで、盗賊団とその活動は麻痺した。"
- fp2_struggle.2011.a:0 "#DIE2 盗賊の#![Select_CString(ROOT.Char.IsFemale,'女王','王')]となるのも良いものだ。"
+ fp2_struggle.2011.a:0 "#DIE2 盗賊の[Select_CString(ROOT.Char.IsFemale,'女王','王')]#!よ、さらば"
  fp2_struggle.2012.t:0 "現地からの報告:"
  fp2_struggle.2012.desc:0 "[fp2_2009_involved_capital_county.GetNameNoTierNoTooltip]を食い物にする冷酷な盗賊の一団が存在しています。誰かが意図的にこのような犯罪者に資金を提供し、我々に対して行動を起こさせたことは明らかです。とりあえず、この地域の安全を確保するために、元帥を配置するのが賢明でしょう。"
  fp2_struggle.2012.a:0 "誰がやったにせよ、これは汚いやり方だ！"

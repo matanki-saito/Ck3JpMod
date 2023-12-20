@@ -1,7 +1,7 @@
 ﻿l_english:
  fp2_chalice_dona_urraca:0 "ドニャ・ウラカの聖杯"
  fp2_chalice_dona_urraca_desc:0 "深遠なるオニキスを彫刻し、宝石を散りばめ、金の格子細工を施した儀式用の杯。教会の栄誉を称えるため、[owner.GetTitledFirstName]から託された。"
- fp2_santiago_aquamanile:0 "（かつての）$fp2_santiago_bells$"
+ fp2_santiago_aquamanile:0 "奪われし$fp2_santiago_bells$"
  fp2_santiago_aquamanile_desc:0 "[reforger.GetTitledFirstName|U]は、$fp2_santiago_bells$を融かした滓から鍛造された水差しだ。いまは持ち主の手を清める儀式に使われているだけだが、その存在だけでも、イスラム教がキリスト教よりも優位に立っていることが分かる。"
  fp2_santiago_aquamanile_melted_desc:0 "つい最近、[reforger.GetTitledFirstName]によって#EMP 再び#!融かされたかつての$fp2_santiago_bells$は、もっとも激しく争われている現存の水差しのひとつだ。現在の形は、イベリアに於けるイスラム教の優位を高らかに告げている。"
  fp2_santiago_aquamanile_melted_tally_desc:0 "$fp2_santiago_aquamanile_melted_desc$\n\n頻繁に鍛造が繰り返される金属で、[ROOT.Var('artefact_santiago_bells').GetValue]回ほど手が加えられている。"

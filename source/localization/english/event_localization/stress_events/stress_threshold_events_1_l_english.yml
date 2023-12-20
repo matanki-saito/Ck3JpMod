@@ -87,7 +87,7 @@
  stress_threshold.1721.f.contrite.effect:0 "$stress_threshold.1721.f.contrite.gain$"
  stress_threshold.1721.g.comfort_eater.gain:0 "気分が良くなるまで御馳走が必要だ！"
  stress_threshold.1721.g.comfort_eater.effect:0 "また饗宴を開こう！何度でも、何度でも！"
- stress_threshold.1721.h.inappetetic.gain:0 "コックに夕食を作るのをやめるように言ってほしい。食欲がないんだ。"
+ stress_threshold.1721.h.inappetetic.gain:0 "食欲がない。私の夕食は要らないと厨房に言おう……"
  stress_threshold.1721.h.inappetetic.effect:0 "$stress_threshold.1721.h.inappetetic.gain$"
  stress_threshold.1721.i.journaller.gain:0 "$stress_threshold.1711.e.journaller.gain$"
  stress_threshold.1721.i.journaller.effect:0 "$stress_threshold.1711.e.journaller.gain$"

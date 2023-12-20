@@ -131,7 +131,7 @@
  bp2_hostage_system.0500.t: "新たな家"
  bp2_hostage_system.0500.desc: "[hostage_home_court.GetPrimaryTitle.GetNameNoTierNoTooltip]から来訪せし人質である[hostage.GetFirstName]が私に挨拶をしにきた。"
  bp2_hostage_system.0500.anxious: "[hostage_home_court.GetTitledFirstNamePossessive]の[hostage_home_court.Custom2('RelationToMe', SCOPE.sC('hostage'))]と聞いているが、[hostage.GetHerHis]が[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]での新生活に不安を感じているのは疑うべくもない。"
- bp2_hostage_system.0500.home: "\n\n「そなたの[hostage.Custom2('RelationToMe', SCOPE.sC('hostage_home_court'))]は信じるに値する人物のようだな」[hostage.GetHerHim]を励ましてみる。「何、きっとそう悪くない生活だ、案ずるな。」"
+ bp2_hostage_system.0500.home: "\n\n「そなたの[hostage.Custom2('RelationToMe', SCOPE.sC('hostage_home_court'))]は信じるに値する人物のようだな」[hostage.GetHerHim]への励ましの言葉をどうにか捻り出す。「何、きっとそう悪くない生活だ、案ずるな。」"
  bp2_hostage_system.0500.away: "\n\n我が臣民たちに囲まれれば[hostage.GetHerHim]もここが第二の故郷と思ってくれるだろう。"
  bp2_hostage_system.0500.a.home: "早速そなたの部屋を見せてあげよう。"
  bp2_hostage_system.0500.a: "協定は今のところ働いているようだな。"
