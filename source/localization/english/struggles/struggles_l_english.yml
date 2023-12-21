@@ -169,7 +169,7 @@
  STRUGGLE_ENDING_EFFECTS_BUTTON: "[StruggleWindow.GetSelectedPhase.GetNameNoTooltip]のエンディング効果の表示"
  STRUGGLE_INVOLVEMENT_SORT_FAITH: "宗派"
  STRUGGLE_INVOLVEMENT_SORT_CULTURE: "文化"
- STRUGGLE_ENDING_PHASE_WARNING_MESSAGE: "#value [Struggle.GetPhaseDurationValue]#!が[ending_phase|E]に達した時、自動的にそれに応じた効果を発揮し、#high [Struggle.GetName]#!を強制終了します。"
+ STRUGGLE_ENDING_PHASE_WARNING_MESSAGE: "この[ending_phase|E]の進捗状況が#value [Struggle.GetPhaseDurationValue]#!ポイントに到達すると、このエンディングと紐づいた各種効果が自動的に適応され、#high [Struggle.GetName]#!を終了します。"
  STRUGGLE_ENDING_PHASE_WINDOW_TITLE: "[StrugglePhase.GetNameNoTooltip]のエンディング"
  STRUGGLE_ENDING_PHASE_EFFECTS_TITLE: "#Bold エンディングフェイズの効果：#!#!"
  STRUGGLE_ENDING_PHASE_NO_EFFECT_DESC: "#Italic このエンディングに特筆すべき効果はない#!"

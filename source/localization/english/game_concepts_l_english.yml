@@ -1947,7 +1947,7 @@
  game_concept_accolade_ranks:0 "勲等の位階"
  game_concept_accolade_rank_short:0 "位階"
  game_concept_accolade_rank_desc:1 "[accolade|e]は、#value 6つ#!の進行段階を持ち、それぞれの段階で特定の[accolade_types|e]に関連するボーナス（例: [knight_army_modifiers|e]）が解放されます。\n\n各段階は[glory|E]を獲得することで解放されますが、栄誉を失うと段階が失われることもあります。\n\n奇数の段階は勲等の主要な属性によって提供され、偶数の段階は副次的な属性によって提供されます。"
- game_concept_inactive_accolade:0 "叙されていない勲等"
+ game_concept_inactive_accolade:0 "効果を発揮していない勲等"
  game_concept_inactive_accolade_desc:1 "[accolades|E]は、無効になると叙されていない状態となります。\n\n勲等が非アクティブになる条件は以下の通りです: \n$EFFECT_LIST_BULLET$[acclaimed_knight|e]またはその[ruler|E]が[accolade_type|e]の要件を満たさなくなった場合\n$EFFECT_LIST_BULLET$ 叙勲された騎士が死亡したり、後継者がいないまま主君の[court|e]を去った場合\n$EFFECT_LIST_BULLET$ [ruler|E]が手動で勲等を返上させた場合"
  game_concept_glory:0 "栄誉"
  game_concept_glory_desc:1 "[accolade|E]による栄誉は[accolade_rank|E]に応じて増えていきます。\n\n栄誉は[acclaimed_knight|E]が[battles|E]を勝つこと、戦士を打ち倒すこと、[GetActivityType( 'activity_tournament' ).GetName][contests|E]で活躍すること、[activities|E]に参加することで高まります。\n\nしかしながら、叙勲された騎士が敗北した戦闘に関与した場合、[accolade_succession|e]時、および勲等が[inactive_accolade|E]となった場合、栄誉は減少します。"

@@ -1,7 +1,7 @@
 ﻿l_english:
  start_hunt_mystical_animal_story_cycle_effect.tt:1 "#EMP あれを見つけるまで、休息はない！#!"
  hunt_mystical_animal.1001.t:1 "かの[ROOT.Char.Custom('GetLegendaryColor')|U][ROOT.Char.Custom('GetAnimalType')|U]"
- hunt_mystical_animal.1001.desc:1 "私が狙っている[ROOT.Char.Custom('GetAnimalChargePresent')]が夢の中に出てきて、その深い瞳で私を品定めし、[ROOT.Char.Custom('GetLegendaryColor')]の毛皮を誇示している。\n\n我々は[legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')]に立っていた。何もかもが静かで、私はいくら動いても獲物に近づくことはできなかった。\n\n自分を引っ掻いて目が覚めると、決心は固まった。"
+ hunt_mystical_animal.1001.desc:1 "私が狙っている[ROOT.Char.Custom('GetAnimalChargePresent')]が夢の中に出てきて、その深い瞳で私を品定めし、[ROOT.Char.Custom('GetLegendaryColor')]毛皮を誇示している。\n\n我々は[legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')]に立っていた。何もかもが静かで、私はいくら動いても獲物に近づくことはできなかった。\n\n自分を引っ掻いて目が覚めると、決心は固まった。"
  hunt_mystical_animal.1001.a:0 "これ以上逃さぬぞ！"
  hunt_mystical_animal.1002.desc:1 "[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]で従者と[ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')]で外出していると、曲がりくねった道がそこへと近づけた。その場でまたもや、太陽で微かに光るそれを見たのだ——[ROOT.Char.Custom('GetLegendaryColor')][ROOT.Char.Custom('GetAnimalType')]。\n\n皆に伝えようと私が振り返り、引き返すと[ROOT.Char.Custom('GetAnimalType')]はすでに去っていた。"
  hunt_mystical_animal.1002.a:0 "あいつは私を嘲笑っている！"

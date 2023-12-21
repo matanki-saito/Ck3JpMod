@@ -232,7 +232,7 @@
  court_ongoing.1121.c:0 "「確かに、私はもう十分だ。」"
  court_ongoing.1121.c.success:0 "[unpleasant_guest.GetShortUIName|U]はあなたの誠実さを評価する"
  court_ongoing.1121.c.failure:0 "[unpleasant_guest.GetShortUIName|U]は侮辱される"
- court_ongoing.1121.d:0 "[ROOT.Char.GetTitleAsNameNoTooltip]の時間は全ての人のためのものだ。[owner.GetFirstNameNoTooltip]はそれを知っているはずだ。"
+ court_ongoing.1121.d:0 "[ROOT.Char.GetTitleAsNameNoTooltip]の時間は万人に向けられるべきもの、[owner.GetFirstNameNoTooltip]に甘える訳には…"
  court_ongoing.1121.e:0 "必要以上に長くはいられない！"
  court_ongoing.1201.t:0 "要請"
  court_ongoing.1201.desc:0 "「[target.GetLadyLord|U][target.GetFirstName]よ、お望みの方法で我が献身を証明させてください！」[owner.GetTitledFirstName]は献身の証明を巧みに私に懇願した——それも私の好みにあった方法で。何日もの間[owner.GetHerHim]に慎ませるのは…"
