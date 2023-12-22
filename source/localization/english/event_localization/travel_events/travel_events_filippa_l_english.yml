@@ -425,7 +425,7 @@
  travel_events.2037.c_child:0 "いやだ。これは邪道なゲームのような気がする。"
  travel_events.2038.t:0 "$travel_event_prefix$ 真の狙い"
  travel_events.2038.desc:0 "あらゆる種類の野生動物で溢れる[ROOT.Char.GetCurrentLocation.GetName]について、[entourage_character.GetTitledFirstName]と私は、狩猟にはもってこいの場所であるということに同意している。\n\nまともな外出をするために滞在する時間はないが、その地域を横断していると、我々は森の端で自然のままの野生のウサギを見つけた。その毛皮には独特の模様があり、私はその動物を調査するよう、[entourage_character.GetFirstNameNoTooltip]に指示した。\n\nウサギを見つけた[entourage_character.GetSheHe]はニヤリと笑う。「[entourage_character.Custom2('RelationToMeShort', ROOT.Char)]、友好的な賭けはいかがですか？あの純粋な仲間を矢で射抜いたほうが勝ちです。」"
- travel_events.2038.a:0 "取引のように聞こえるな！"
+ travel_events.2038.a:0 "ちょっとした勝負をお望みらしいな！"
  travel_events.2038.a_your_kill.tt:0 "あなたが殺す"
  travel_events.2038.a_your_kill.desc:0 "あなたの矢は完璧にウサギの心臓を貫く"
  travel_events.2038.a_their_kill.tt:0 "[entourage_character.GetShortUINameNoTooltip]が殺す"

@@ -322,7 +322,7 @@
  animal_type_reindeer_plural:0 "$animal_type_reindeer$"
  animal_type_buck:0 "牡鹿"
  animal_type_buck_plural:0 "鹿"
- animal_type_elk:0 "エルク"
+ animal_type_elk:0 "ヘラジカ"
  animal_type_elk_plural:0 "$animal_type_elk$"
  animal_type_hart_plural:0 "鹿"
  animal_type_zubr:0 "バイソン"

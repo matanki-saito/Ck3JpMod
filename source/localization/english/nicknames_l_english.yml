@@ -749,7 +749,7 @@
  nick_pirate_slayer:0 "海の懲罰者"
  nick_pirate_slayer_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は悪名高い海賊を鏖殺した。"
  nick_son_of_dangerous_animal:0 "[CHARACTER.Custom('GetAnimalPlural')|U]の[CHARACTER.Custom('GetDaughterSon')|U]"
- nick_son_of_dangerous_animal_desc:1 "もちろん[CharYouHerHim(CHARACTER)]をそう呼ぶだけで実際はそうでは無いが…よく人間の胎からこんなケダモノが産まれたものだな？"
+ nick_son_of_dangerous_animal_desc:1 "もちろん人が[CharYouHerHim(CHARACTER)]をそう呼ぶだけで実際はそうでは無いが…よく人間の胎からこんなケダモノが産まれたものだな？"
  nick_the_own_culture:0 "[CHARACTER.GetCulture.GetNameNoTooltip]の者"
  nick_the_own_culture_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の偉業は[CharYourHerHis(CHARACTER)]の文化の代表であり、[CharYouSheHe(CHARACTER)]はそれに誇りを持っています。"
  nick_the_mother_culture:0 "[CHARACTER.GetMother.GetCulture.GetNameNoTooltip]の子"

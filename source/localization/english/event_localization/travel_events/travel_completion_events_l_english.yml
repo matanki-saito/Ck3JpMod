@@ -6,7 +6,7 @@
  travel_completion_event.1000.desc.no_activity:0 "しかしまた、旅への誘いが聞こえてくるようだ。\n\n"
  travel_completion_event.1000.stats:2 "我が従者の報告によると[travel_plan_scope.MakeScope.Var('travel_plan_elapsed_days').GetValue]日出かけて[travel_plan_scope.MakeScope.Var('travel_plan_provinces_traversed').GetValue]の男爵領を踏破したと言う。\n\n"
  travel_completion_event.1000.stats.travel_leader:0 "我が[GetCourtPositionType('travel_leader_court_position').GetNameNoTooltip()]の[travel_leader_scope.GetName]の報告によると、我々は[travel_plan_scope.MakeScope.Var('travel_plan_elapsed_days').GetValue]日間出かけて[travel_plan_scope.MakeScope.Var('travel_plan_provinces_traversed').GetValue]の男爵領を踏破したと言う。\n\n"
- travel_completion_event.1000.desc.memory:0 "この[travel_conc_memory.GetDescription]は忘れぬことだろう"
+ travel_completion_event.1000.desc.memory:0 "この[travel_conc_memory.GetDescription]ことは忘れぬだろう。"
  travel_completion_event.1000.desc.cultural_ambassador:0 "我が文化使節の尽力により、[ROOT.Char.GetCulture.GetName]の受容がより進んだ。\n\n"
  travel_completion_event.1000.a:1 "おお[ROOT.Char.GetFaith.HighGodName]よ、私はここに帰ってきたぞ…"
  travel_completion_event.1000.b:1 "旅路は刺激的だが、帰路もまた乙なのだよ。"
