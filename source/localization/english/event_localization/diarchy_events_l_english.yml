@@ -511,7 +511,7 @@
  diarchy.9025.desc:0 "我々が玉座の間に飛び込むと同時に、[liege.GetTitledFirstName]の悲鳴で、[liege.Custom('MistressMaster')]のために死を覚悟した武装した騎士たちが押し寄せてくる。\n\n私と仲間は、すぐに死骸になるであろう寄せ集めをできる限り叩き切っていくが、とにかく数が多すぎる。退却しなければ、引き返さなければ——[usurper.GetFaith.FateGodName]に誓って、彼らも我々の後ろにいる。そこに…逃げ場はない。\n\nいやだ、いやだ、#EMP いやだ！#!せっかくの計画、せっかくの努力、すべてが無駄になってしまう！"
  diarchy.9025.a:0 "こんな終わり方なはずでは——#BER ぐあああああ！#!"
  vizierate.1001.t: "[propositioner.Custom2('AppropriateGreetingPositive', ROOT.Char)]"
- vizierate.1001.desc.intro: "You must agree that [vizier.GetFirstName] is proving a terrible vizier — an utterly corrupt disgrace to the office, but I have spent a considerable amount of time and coin preparing a plan to"
+ vizierate.1001.desc.intro: "[vizier.GetFirstName]は酷いワズィールだと証明せねばならない──このようなことは恥ずべき不祥事だが、私が計画にどれだけの時間と金を注ぎ込んだことを思えば……"
  vizierate.1001.desc.diplomacy: "bring [vizier.GetHerHis] key supporters and best agents to my side."
  vizierate.1001.desc.stewardship: "snake [vizier.GetHerHis] business interests and bribe [vizier.GetHerHis] guards."
  vizierate.1001.desc.intrigue: "stymy [vizier.GetHerHis] best guards and capture [vizier.GetHerHim] for torture."
