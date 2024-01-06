@@ -602,7 +602,7 @@
  nick_the_quick_desc:0 "頭も速く、体も速い。"
  nick_the_quick_ironic:0 "$nick_the_quick$"
  nick_the_quick_ironic_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は人々に、[CharYouSheHe(CHARACTER)]は機転が利くと言う。そうではない。"
- nick_the_selfish_desc:1 "[CharYouSheHe(CHARACTER)]がｍ#EMP [CharYourHerHimself(CHARACTER)]#!以外のことを考えていないのを世間は知っている。"
+ nick_the_selfish_desc:1 "[CharYouSheHe(CHARACTER)]が#EMP [CharYourHerHimself(CHARACTER)]#!以外のことを考えていないのを世間は知っている。"
  nick_the_worthy_desc:1 "誰がそう判断したのかは議論の余地があるが、[CHARACTER.GetShortUINameNoTooltipNoFormat]が実に優れた[CHARACTER.GetWomanMan]であることは、誰もが認めるところだ。"
  nick_the_unworthy_desc:0 "[CHARACTER.GetWomanMan]の失敗、理論においても実践においても。"
  nick_the_traitor_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の言葉には、それを運ぶ空気と同等の価値しかない。"
