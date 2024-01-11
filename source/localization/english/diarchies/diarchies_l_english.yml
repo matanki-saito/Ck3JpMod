@@ -162,7 +162,7 @@
  raise_diarch_opinion_with_loyalty_update_effect.tt.situational.to_self_interested: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_UNKNOWN_LOYALTY$から$DIARCHY_WINDOW_VISIBLY_DISLOYAL$になる可能性があります"
  raise_diarch_opinion_with_loyalty_update_effect.tt.situational.remains_static: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_UNKNOWN_LOYALTY$であり続けるでしょう"
  raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.overflow_edgecase: "あなたの[diarch|E]の[diarch_loyalty|E]はおそらく$DIARCHY_WINDOW_VISIBLY_LOYAL$であり続けるでしょう"
- raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.remains_static: "あなたの[diarch|E]のら[diarch_loyalty|E]は$DIARCHY_WINDOW_VISIBLY_LOYAL$であり続けるでしょう"
+ raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.remains_static: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_VISIBLY_LOYAL$であり続けるでしょう"
  raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.to_self_interested: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_VISIBLY_LOYAL$から$DIARCHY_WINDOW_VISIBLY_DISLOYAL$になる可能性があります"
  raise_diarch_opinion_with_loyalty_update_effect.tt.selfless.to_situational: "あなたの[diarch|E]の[diarch_loyalty|E]は$DIARCHY_WINDOW_VISIBLY_LOYAL$から$DIARCHY_WINDOW_UNKNOWN_LOYALTY$になる可能性があります"
  family_member_is_civil_servant: "[family_member|E]は公僕だ"
