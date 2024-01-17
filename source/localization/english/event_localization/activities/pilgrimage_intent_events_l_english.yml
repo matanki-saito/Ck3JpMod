@@ -64,7 +64,7 @@
  pilgrimage_intent.1042.a:0 "私は[ROOT.Char.Custom('GetAnimalType')]であり、敵が私を負かすだろう。"
  pilgrimage_intent.1042.b:0 "私は鳥であり、不幸な運命から逃れることができるだろう！"
  pilgrimage_intent.1043.t:0 "予兆: 幸せな家族"
- pilgrimage_intent.1043.desc.intro:0 "私は[ROOT.Char.Custom('GetAnimalType')]を追跡し、[ROOT.Char.GetHerHim]を驚かせないようにずっと後ろに留まっている。やがて[ROOT.Char.GetSheHe]は空き地で別の [ROOT.Char.Custom('GetAnimalType')]と出会お。あるいは[ROOT.Char.GetHerHis]の仲間だろうか？\n\n"
+ pilgrimage_intent.1043.desc.intro:0 "私は[ROOT.Char.Custom('GetAnimalType')]を追跡し、[ROOT.Char.GetHerHim]を驚かせないようにずっと後ろに留まっている。やがて[ROOT.Char.GetSheHe]は空き地で別の [ROOT.Char.Custom('GetAnimalType')]と出会う。あるいは[ROOT.Char.GetHerHis]の仲間だろうか？\n\n"
  pilgrimage_intent.1043.desc.mid:0 "ニ頭は少し頭を突き合わせたが、すぐに鼻をすり合わせ、それから一緒に荒野へと消えていった。"
  pilgrimage_intent.1043.a:0 "私にはもうすぐ子供が生まれるだろう！"
  pilgrimage_intent.1043.b:0 "私は敵を友人としなければならない。"
