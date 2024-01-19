@@ -267,7 +267,7 @@
  bp2_adult_education.9200.d: "こんなのより…休みたいかも…"
  blew_off_some_steam_opinion: "一緒に鬱憤を晴らした"
  bp2_adult_education.9300.t: "奇抜な考え"
- bp2_adult_education.9300.desc: "「聞いてくれ！」[eccentric_student.GetFirstName]が興奮して叫んだ。「[SCOPE.Custom('RandomInformativeTextName')]の行間を読めばすぐに分かることだ！[eccentric_student.Custom('ThrowableObjectArticle')]と[eccentric_student.Custom('RandomWeirdObject')]、そして[eccentric_student.Custom('GetObjectToBalanceOnNose')]を組み合わせるだけでいいんだ――[eccentric_student.Custom('EruditeTopic')]の原則を守りながらな！信じてくれ、#EMP 必ずうまくいく！#!」\n\nああ、[eccentric_student.GetFirstNameNoTooltip]…多分36時間ぶっ続けで勉強していたのがいけなかったんだろうな…"
+ bp2_adult_education.9300.desc: "「聞いてくれ！」[eccentric_student.GetFirstName]が興奮して叫んだ。「[SCOPE.Custom('RandomInformativeTextName')]の行間を読めばすぐに分かることだったんだ！[eccentric_student.Custom('ThrowableObjectArticle')][eccentric_student.Custom('RandomWeirdObject')]、そして[eccentric_student.Custom('GetObjectToBalanceOnNose')]を組み合わせるだけでいいんだ――[eccentric_student.Custom('EruditeTopic')]の原則を守りながらな！信じてくれ、#EMP 必ずうまくいく！#!」\n\nああ、[eccentric_student.GetFirstNameNoTooltip]…多分36時間ぶっ続けで勉強していたのがいけなかったんだろうな…"
  bp2_adult_education.9300.eccentric: "自明のことだな！"
  bp2_adult_education.9300.a: "そんな馬鹿げたことに付き合っていられるか、[eccentric_student.GetFirstNameNoTooltip]。"
  bp2_adult_education.9300.b: "もっと教えてくれ！#EMP 全部#!教えてくれ！"
