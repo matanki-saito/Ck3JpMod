@@ -19,6 +19,7 @@
  DLC008_SP2:0 "Elegance of the Empire"
  DLC009_BP2: "Wards & Wardens"
  DLC010_FP3: "Legacy of Persia"
+ DLC012_CP1: "North African Attire"
 
 
  dlc_001:0 "$DLC001_PREORDER$"
@@ -41,3 +42,5 @@
  dlc_009_desc: "In Wards & Wardens, child rulers and their guardians take center stage. Rear young princes and nobles in a world where eternal glory is a battle away, and danger lurks in every shadow."
  dlc_010: "$DLC010_FP3$"
  dlc_010_desc: "The Sassanid Empire is long gone, and the Abbasid Caliphate is pressuring the remaining Iranian Dynasties into submission. Will you fall in line, or forge a new Empire? The future of Persia is in your hands!"
+ dlc_012: "$DLC012_CP1$"
+ dlc_012_desc: "This clothing pack for North African cultures includes new items for characters to wear, including tops, leggings, cloaks, headgear and more, with new designs and patterns. “North African Attire” is the first made in co-operation and directed by a community creator."

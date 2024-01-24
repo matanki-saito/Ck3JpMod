@@ -16,6 +16,7 @@
  TITLE_DESIGN_DIRECTOR:0 "#credits_subheader Design Director#!"
  TITLE_PRODUCTION_DIRECTOR:0 "#credits_subheader Production Director#!"
  TITLE_PRODUCTION_LEAD:0 "#credits_subheader Production Lead#!"
+ TITLE_CCP_CREATOR:0 "#credits_subheader Content Creator Pack Developer#!"
 
  HEADER_DESIGN:1 "#credits_header DESIGN#!"
  TITLE_GAME_DESIGN:1 "#credits_subheader Game Design#!"
@@ -301,3 +302,4 @@
  HEADER_CRUSADER_KINGS_3_WARDS_AND_WARDENS:0 "#credits_title CRUSADER KINGS III: WARDS AND WARDENS#!"
  TITLE_EMBEDDED_QA_ANALYST:0 "#credits_subheader Embedded QA Analyst#!"
  HEADER_CRUSADER_KINGS_3_LEGACY_OF_PERSIA: "#credits_title CRUSADER KINGS III: LEGACY OF PERSIA#!"
+ HEADER_CRUSADER_KINGS_3_NORTH_AFRICAN_ATTIRE: "#credits_title CRUSADER KINGS III: NORTH AFRICAN ATTIRE#!"
