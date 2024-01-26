@@ -446,7 +446,7 @@
  nick_the_victorious_desc:1 "勝利とは[CHARACTER.GetShortUINameNoTooltipNoFormat]の手に自然と舞い込み、世界によって与えられる。"
  nick_the_viking_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]にとって大体のものに暴力を使うことが最適解だ。"
  nick_the_young_desc:1 "若い[CHARACTER.GetWomanMan]の姿がその代名詞となったため、この人物は何歳になってもこのあだ名で呼ばれるだろう。"
- nick_the_younger_desc:2 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は他の注目すべき人物とその名前が不幸にも同じであったため、 永遠に[CHARACTER.GetFirstName]という名前とそのあだ名は結び付けられることとなった。「若い方」とか、#EMP 「$nick_the_younger$」#!とか。"
+ nick_the_younger_desc:2 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は他の注目すべき人物とその名前が不幸にも同じであったため、永遠に[CHARACTER.GetFirstName]という名前とそのあだ名は結び付けられることとなった。「若い方」とか、#EMP 「$nick_the_younger$」#!とか。"
  nick_whiteshirt_desc:1 "人々は[CHARACTER.GetShortUINameNoTooltipNoFormat]に何故$nick_whiteshirt$と呼ばれているのかと[CharYouHerHim(CHARACTER)]に尋ねる。[CharYouSheHe(CHARACTER)|U]はただ、ニヤリと微笑むだけだ。"
  nick_the_cannibal_desc:1 "そのよく手入れされた犬歯、そこに血が滴った笑みを零す時、殆どの人は見てられないと目を背ける。"
  nick_the_dragon_desc:0 "$nick_the_dragoness_desc$"

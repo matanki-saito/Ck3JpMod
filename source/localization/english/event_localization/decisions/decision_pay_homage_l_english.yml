@@ -18,7 +18,7 @@
  pay_homage_gold_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]はあなたから[gold|E]の贈り物を受け取るでしょう"
  pay_homage_gold_tooltip:0 "$pay_homage_decision_second_tooltip$"
  pay_homage_decision_effects_gold:0 "あなたの[liege|E]はあなたから[gold|E]の贈り物を受け取るでしょう"
- pay_homage_gold_tt:0 "#X あなたは[gold|E]では満足しない#!"
+ pay_homage_gold_tt:0 "#X あなたは十分な[gold|E]を持っていない#!"
  pay_homage_decision_option_hook:0 "…そして寵愛を約束する\n#low [hook|E]を与える#!"
  pay_homage_hook_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName]はあなたへの弱い[hook|E]を受け取るでしょう"
  pay_homage_hook_tooltip:0 "$pay_homage_decision_second_tooltip$"

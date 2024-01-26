@@ -60,7 +60,7 @@
  bp2_yearly.5050.b: "でも…知りたいんだけど！"
  bp2_yearly.5050.c: "少なくとも知っておいて損はないと思うんだけど。"
  bp2_yearly.5051.t: "いないいないばあっ！"
- bp2_yearly.5051.desc: "廊下に響いてくるのが聞こえる。軽快な笑い声が、時折大きな笑い声に変わることがある。私が角を曲がると、犯人たちが明らかになった。\n\n[child.GetFirstName]は、机の上に散らばる捨てられた本から判断すると、[child.GetHerHis]は勉強をさぼっているようだが、[child.GetHerHis]は[child.Custom2('RelationToMe', baby)][baby.GetFirstName]を[child.GetHerHis]の腕に抱えている。赤ちゃんは幸せそうにブルブルと鳴いており、[child.GetFirstNameNoTooltip]は指で[child.GetHerHis]の間から[baby.GetHerHim]を覗く。ふたりは幸せそうに笑い合っている。"
+ bp2_yearly.5051.desc: "廊下に響いてくるのが聞こえる。軽快な笑い声が、時折大きな笑い声に変わることがある。私が角を曲がると、犯人たちが明らかになった。\n\n[child.GetFirstName]は──机の上に散らばる捨てられた本から判断するに──勉強をさぼっているようだが、その腕に[child.Custom2('RelationToMe', baby)]の[baby.GetFirstName]を抱いている。[child.GetFirstNameNoTooltip]は指で顔を隠したり、出したりして遊んでやっているようだ。赤ちゃんは幸せそうにぶーぶーと声を上げ、ふたりは幸せそうに笑い合っているのだ。"
  bp2_yearly.5051.a: "一緒に時間を過ごすことは良いことだ！"
  bp2_yearly.5051.b: "「[child.GetFirstNameNoTooltip]！勉強はどうした！」"
  bp2_yearly.5052.t: "今は昔の物語"
