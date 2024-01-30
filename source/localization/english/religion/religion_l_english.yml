@@ -912,7 +912,7 @@
  holy_site_mount_damavand_name: "ダマーヴァンド山"
  holy_site_mount_damavand_effect_name: "[holy_site|E]から #weak ($holy_site_mount_damavand_name$)#!"
  holy_site_mizdahqan_effect_name:0 "[holy_site|E]から #weak ($holy_site_mizdahqan_name$)#!"
- holy_site_badd_name: "バド"
+ holy_site_badd_name: "バッド"
  holy_site_badd_effect_name:0 "[holy_site|E]から #weak ($holy_site_badd_name$)#!"
  holy_site_nishapur: "ニーシャープール"
  holy_site_ani_name: "アニ"

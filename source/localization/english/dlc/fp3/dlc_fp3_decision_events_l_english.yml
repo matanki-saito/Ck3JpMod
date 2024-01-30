@@ -151,7 +151,7 @@
  fp3_dynasty_decision.0008.e: "Erect a tall, glistening watchtower."
  fp3_dynasty_decision.0008.f: "Construct a leisurely summer palace."
  fp3_dynasty_decision.0008.g: "Inaugurate a wondrous [ROOT.Char.GetFaith.HouseOfWorship]."
- fp3_decision.0003.t: "The Fortress of Badd"
+ fp3_decision.0003.t: "バッド要塞"
  fp3_decision.0003.desc_recently: "Just a few decades ago, during the height of the Khurramite rebellion against the Abbasids, the peasant leader Babak ensconced himself and his followers in an ancient Parthian fortress. That became his last stand, but the Abbasids paid dearly for their victory."
  fp3_decision.0001.desc_less_recently: "In the early days of the Abbasid caliphate, their armies pursued the Khurramite leader Babak to a high fortress on a mountain in the Arasbaran forest, where he made his last stand. Though the ruin has been worn down by the elements in the years since, the site remains impressive, and will make a great redoubt."
  fp3_decision.0001.desc_long_ago: "High in the Black Mountains of the Arasbaran forest, a fortress ruin sits atop a snow-clad peak. This eyrie was the site of the Khurramite hero Babak's last stand, long ago, and I shall restore it to the glory it might have had in days of old."
