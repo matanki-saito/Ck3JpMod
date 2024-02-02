@@ -108,7 +108,7 @@
  fp3_clan.8012.b: "[ROOT.Char.GetFaith.HouseOfWorship]への寄付という形にすれば文句は言えんだろう。"
  fp3_clan.8012.c: "[extorted_vassal.GetHerHim]に一部を贈り物として返してやろう、私の寛大さを示すためにな。"
  fp3_clan.8013.t: "税の収穫の重荷"
- fp3_clan.8013.desc: "[ROOT.Char.Custom('ResidenceBuilding')]で散歩をしていると、図書館の前を通り過ぎる。そこで私の徴税官である[stressed_tax_collector.GetName]がかなり落胆しているようだ。\n\n「ああ、[ROOT.Char.GetFaith.HighGodNameAlternate]よ」と、[stressed_tax_collector.GetSheHe]は[stressed_tax_collector.GetHerselfHimself]に呟いている。「これはできない。これらの税法の論文は古すぎて、曖昧すぎて、整理されていない。どうやってこれらの中で何かを見つけられるだろうか？\n\n私は単に地方に出かける前に些事を確認したかっただけなのに...」"
+ fp3_clan.8013.desc: "[ROOT.Char.Custom('ResidenceBuilding')]を散策しているなか、書庫の前を通り過ぎる。そこにいた徴税官の[stressed_tax_collector.GetName]はひどく意気消沈した様子であった。\n\n「ああ、[ROOT.Char.GetFaith.HighGodNameAlternate]よ」と、ひとりごちる[stressed_tax_collector.GetName]。「無理だ。ここの税法にまつわる学術論文はどれも古すぎる。曖昧にも過ぎる。乱雑にも程がある。ここで何を見つけろと言うのだ？\n\nちょっとした調べもののはずが、その後に再度の地方視察に行くはずが、どうして…」"
  fp3_clan.8013.a: "落ち着くのだ、一緒に見てみようではないか。"
  fp3_clan.8013.b: "仕事をしなければ、むち打ちにするぞ！"
  fp3_clan.8013.c: "さて歩くとしよう…"

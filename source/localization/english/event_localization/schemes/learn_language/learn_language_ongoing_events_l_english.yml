@@ -68,7 +68,7 @@
  learn_language_ongoing.1080.desc:5 "我が宮廷教師[court_tutor.GetFirstName]は[scheme.GetTarget.GetCulture.GetLanguage.GetName]を習得しようとする私の努力に一日中力を貸してれる。\n\n教育に関する[court_tutor.GetHerHis|U]の献身はひらめきに富んでいた――読み物としての[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]の手紙、会話相手としての博識な[scheme.GetTarget.GetCulture.GetNameNoTooltip]の[ROOT.Char.GetWomanMan]、秀逸な覚え歌と私に持ち込まれない日は無かった。\n\n本当に、[court_tutor.GetFirstNamePossessiveNoTooltip]の助けなしではここまで来ることはできなかっただろう。"
  learn_language_ongoing.1080.a:0 "[court_tutor.GetFirstNameNoTooltip]、お前は賞に値する！"
  learn_language_ongoing.1080.b:0 "[court_tutor.GetSheHe|U]は[court_tutor.GetHerHis]の仕事を全うしている。"
- attended_by_tutor_modifier:0 "宮廷教師が参加"
+ attended_by_tutor_modifier:0 "宮廷教師の助力"
  court_tutor_child_language_rank_1_modifier:0 "$attended_by_tutor_modifier$"
  court_tutor_child_language_rank_2_modifier:0 "$attended_by_tutor_modifier$"
  court_tutor_child_language_rank_3_modifier:0 "$attended_by_tutor_modifier$"
