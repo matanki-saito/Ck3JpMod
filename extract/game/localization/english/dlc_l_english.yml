@@ -20,6 +20,7 @@
  DLC009_BP2: "Wards & Wardens"
  DLC010_FP3: "Legacy of Persia"
  DLC012_CP1: "North African Attire"
+ DLC013_SP3: "Couture of the Capets"
 
 
  dlc_001:0 "$DLC001_PREORDER$"
@@ -44,3 +45,5 @@
  dlc_010_desc: "The Sassanid Empire is long gone, and the Abbasid Caliphate is pressuring the remaining Iranian Dynasties into submission. Will you fall in line, or forge a new Empire? The future of Persia is in your hands!"
  dlc_012: "$DLC012_CP1$"
  dlc_012_desc: "This clothing pack for North African cultures includes new items for characters to wear, including tops, leggings, cloaks, headgear and more, with new designs and patterns. “North African Attire” is the first made in co-operation and directed by a community creator."
+ dlc_013: "$DLC013_SP3$"
+ dlc_013_desc: "Inspired by the fashions of the French court in the High Medieval Era, this cosmetic pack brings new styles and patterns to Crusader Kings III. Dress up with new cloaks, new headgear types, beard and hair styles - everything to match your luxurious and regal clothing. Exclusively available to owners of Chapter III."
