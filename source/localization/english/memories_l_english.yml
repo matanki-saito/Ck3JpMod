@@ -1009,7 +1009,7 @@
  accolade_ranked_up_desc_second_perspective: "あなたの武芸は[liege.GetTitledFirstName]によって認められ、[liege.GetHerHis]の[liege.Custom('KnightCulturePluralNoTooltip')|l]として権威ある存在となった"
  accolade_ranked_up_desc_third_perspective: "[owner.GetTitledFirstNamePossessive]の武芸は[liege.GetTitledFirstName]によって認められ、[liege.GetHerHis]の[liege.Custom('KnightCulturePluralNoTooltip')|l]として権威ある存在となった"
  ward_returned_home_title: "教育の完了"
- ward_returned_home_desc_guardian: "[ward.GetTitledFirstName]は[ realm.GetNameNoTier]に居る[guardian.GetTitledFirstName]の下での教育を終え帰国しました"
+ ward_returned_home_desc_guardian: "[ward.GetTitledFirstName]は[realm.GetNameNoTier]に居る[guardian.GetTitledFirstName]の下での教育を終え帰国しました"
  ward_returned_home_desc: "[ward.GetTitledFirstName]は国外での教育を終え帰国しました"
  guardian_returned_home_title: "$ward_returned_home_title$"
  guardian_returned_home_desc_ward: "[guardian.GetTitledFirstName]は[realm.GetNameNoTier]での[ward.GetTitledFirstName]の教育を終えて帰った"
