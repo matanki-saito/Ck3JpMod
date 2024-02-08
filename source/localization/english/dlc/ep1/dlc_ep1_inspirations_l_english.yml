@@ -69,4 +69,4 @@
  competent_inspiration_skill:0 "[Character.GetSheHe|U]は工芸において非常に有能です。"
  decent_inspiration_skill:0 "[Character.GetHerHis|U]の能力は人並み程度です。"
  research_inspiration: "研究のひらめき"
- research_inspiration_desc: "研究のひらめきを持つキャラクターは、[sponsor|E]の利益のために新しい知識を発見するよう[inspired|E]される。成功すれば、スポンサーの[dynasty|E]内での学識を向上させるか、あるいはその文化のための新しい[innovation|E]を発見する。"
+ research_inspiration_desc: "研究のひらめきを持つキャラクターは、[sponsor|E]の利益のために新しい知識を発見するよう[inspired|E]される。成功すれば、後援者の[dynasty|E]内での学識を向上させるか、あるいはその文化のための新しい[innovation|E]を発見する。"

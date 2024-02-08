@@ -112,7 +112,7 @@
  bp2_yearly.1015.desc_parent: "\n\n「[golden_child.Custom2('RelationToMeShort', ROOT.Char)|U]さん、"
  bp2_yearly.1015.outro: "昨日、北の塔を探検している最中にこれを見つけました。どうぞ受け取ってください。」[golden_child.GetSheHe]は小さな、ぼろぼろの小銭入れを手渡してきた。中からカランと音が鳴る。"
  bp2_yearly.1015.a: "ありがとう！"
- bp2_yearly.1015.a.flavor: "なんと面白い子だ。"
+ bp2_yearly.1015.a.flavor: "なんと気の利く子だろうか。"
  bp2_yearly.1015.a.flavor_greedy: "「それだけか？」"
  bp2_yearly.1015.b: "貯金して、投資せよ。"
  bp2_yearly.1015.b.tt: "[golden_child.GetFirstNamePossessiveNoTooltip]はより[stewardship|E]の[education_focus|E]を深く学びます。"
