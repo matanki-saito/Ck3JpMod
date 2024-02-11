@@ -48,7 +48,7 @@
  adventure_inspiration:0 "冒険のひらめき"
  adventure_inspiration_desc:0 "冒険のひらめきを得た人物は、一大冒険へと向かい[artifact|E]をあなたの下へと持ち帰る[inspired|E]を思いつきました。この冒険から得られる宝物はやたらに多種多様で、強大な獣の頭骨から盗まれた家宝まで、あらゆるものが含まれます。"
  artisan_inspiration:0 "職人のひらめき"
- artisan_inspiration_desc:1 "職人のひらめきを得た人物は、優れた職工技術による[artifact|E]を生み出す特別な技能について、自身の持つ極めて専門的な知識を注ぎ込むべき[inspired|E]を得ました。木工職人や仕立て屋は、専門化した職人の一例です"
+ artisan_inspiration_desc:1 "職人のひらめきを得た人物は、職人たる自身の専門知識を注ぎ込んで、優れた職工技法の施された[artifact|E]を作り上げようという[inspired|E]を得ました。木工職人や仕立て屋は、専門化した職人の一例です。"
  smith_inspiration:0 "金属細工師のひらめき"
  smith_inspiration_desc:0 "金属細工師の霊感を持つ人物は、剣や鎧よりも贅沢でより小さなものを鍛える[inspired|E]を持ちます。これらの人々は光り輝き飾られた王冠やゴブレットを作る名人です。"
  alchemy_inspiration:0 "錬金術のひらめき"

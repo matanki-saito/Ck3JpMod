@@ -67,7 +67,7 @@
  TRAVEL_EDIT_ROUTE_HEADER:1 "道程を変更する"
  TRAVEL_EDIT_ROUTE_TT:0 "あなたの旅で通る場所を地図から選び、変更することが出来ます。\n\n#I クリックして違う道を選ぶ#!"
  TRAVEL_EDIT_ROUTE_SELECT_PROVINCE:1 "地図でよい場所を選ぶ"
- TRAVEL_EDIT_ROUTE_INSTRUCTION:0 "道程を帰るために、目的地までの間に迂回路を用意しましょう"
+ TRAVEL_EDIT_ROUTE_INSTRUCTION:0 "道程を変えるために、目的地までの間に迂回路を用意しましょう"
  TRAVEL_EDIT_ROUTE_DETOUR_LABEL:0 "[Province.GetNameNoTooltip]を通る"
  TRAVEL_EDIT_ROUTE_FIXED_SUB_LABEL:0 "[Select_CString(ObjectsEqual(TravelPlanDestination.GetProvince, GetPlayer.GetCapitalLocation),'あなたの首都','目的地')]"
  TRAVEL_EDIT_ROUTE_FIXED_SUB_LABEL_DEPARTURE:0 "出発地"
