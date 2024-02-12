@@ -147,7 +147,7 @@
  intrigue_dread.4100.z:0 "切断された頭はどれほどおしゃべりなのだろうな？"
  intrigue_dread.4100.a:0 "衛兵、この無礼者どもをつまみ出せ！"
  intrigue_dread.4100.b:0 "貴様が宮廷の時間を浪費していることを教えてやろう！"
- intrigue_dread.4100.b.duel_success:0 "申立者は私の怒りの前に身をかがめる"
+ intrigue_dread.4100.b.duel_success:0 "申立者は私の怒りの前に跪く"
  intrigue_dread.4100.b.duel_failure:0 "申立者は私の脅威により侮辱される"
  intrigue_dread.4100.c:0 "もう一度聞かせてみなさい…"
  intrigue_dread.4100.c.tooltip:1 "あなたはじっくりと時間をかけて決断します"
