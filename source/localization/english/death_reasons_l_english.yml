@@ -305,7 +305,7 @@
  death_horrible_disease: "恐ろしい病で死んだ"
  death_thirst: "渇き死んだ"
  death_celebrated_man: "祝福と共に死んだ"
- death_killed_by_khurramites: "ホッラム派に殺された"
+ death_killed_by_khurramites: "ホッラム教徒に殺された"
  death_prison: "獄死した"
  death_prison_killer: "[TARGET_CHARACTER.GetUIName]の獄に繋がれて死んだ"
  death_botched_head_binding: "頭を縛る儀式が失敗して死んだ"

@@ -1,6 +1,6 @@
 ﻿l_english:
  ep2_accolade_events.0100.t:0 "狩人の技術"
- ep2_accolade_events.0100.desc:0 "見えない野生動物を追いかけるとき、矢を盲撃ちすることは…\n\n「無駄、そうでしょう？」と笑うのは、我が誇らしき[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]でもある[huntsmaster.GetName]だ。\n\n獣の感覚というのは凄まじい。奴らはちょっとしたことから追跡者に気づき、逃げたかと思えば恐慌して襲いかかる。獲物を求めるということは彼らのフィールドで戦うということであり……気を抜いてはいけない。\n\n少なくとも身内の中では、[huntsmaster.GetFirstNameNoTooltip]は図抜けて優秀なハンターだ。"
+ ep2_accolade_events.0100.desc:0 "見えない野生動物を追いかけるとき、やみくもに矢を盲撃ちすることは…\n\n「無駄、そうでしょう？」と笑うのは、我が誇らしき[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]でもある[huntsmaster.GetName]だ。\n\n獣の感覚というのは凄まじい。奴らはちょっとしたことから追跡者に気づき、逃げたかと思えば恐慌して襲いかかる。獲物を求めるということは彼らのフィールドで戦うということであり……気を抜いてはいけない。\n\n少なくとも身内の中では、[huntsmaster.GetFirstNameNoTooltip]は図抜けて優秀なハンターだ。"
  ep2_accolade_events.0100.desc.both:0 "[ROOT.Char.Custom2('RelationToMeShort', new_hunter_2)][new_hunter_2.GetFirstName]と私は[ROOT.Char.GetFaith.HighGodName]が創り賜し生き物について知り、共に研鑽している。"
  ep2_accolade_events.0100.desc.heir:0 "[ROOT.Char.Custom2('RelationToMeShort', new_hunter)][new_hunter.GetFirstName]は[ROOT.Char.GetFaith.HighGodName]が創り賜し生き物について知り、共に研鑽している。"
  ep2_accolade_events.0100.desc.liege:0 "私は[ROOT.Char.GetFaith.HighGodName]が創り賜し生き物について知り、共に研鑽している。"

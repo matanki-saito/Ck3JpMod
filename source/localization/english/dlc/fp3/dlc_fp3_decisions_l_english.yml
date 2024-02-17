@@ -98,7 +98,7 @@
  kindle_royal_fire_decision_warning: "@warning_icon!#X もしもあなたの[capital|e]が陥落すれば、王室の聖火が消えるかもしれません#!"
  kindle_royal_fire_decision_toast:0 "王室の聖火を灯した"
  restore_badd_fortress_decision: "[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の要塞を築く"
- restore_badd_fortress_decision_desc: "[GetTitleByKey('b_ahar').GetNameNoTier]の地は断崖、切り立つ山々、深い樫の森に覆われた天然の要害であり、喜びの教えを意味するクッラミテの指導者なるババクがいた鉱山と氷雪の中にあった要塞の跡地でもある。もし私がそれを再興することが叶えば、きっと[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]のための重要な拠点となるだろう。"
+ restore_badd_fortress_decision_desc: "[GetTitleByKey('b_ahar').GetNameNoTier]の地は断崖、切り立つ山々、深い樫の森に覆われた天然の要害であり、鉱山と氷雪で秘されし要塞の跡地でもある。そこには喜びの教えを意味するホッラム教の指導者なるババクがいた。もし私がそれを再興することが叶えば、彼のように[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]のための重要な拠点と用いることが出来るだろう。"
  restore_badd_fortress_decision_tooltip: "バッドの要塞の再建"
  restore_badd_fortress_decision_confirm: "要塞よ、甦れ！"
  restore_badd_fortress_decision_toast: "バッドの要塞を再建した"
