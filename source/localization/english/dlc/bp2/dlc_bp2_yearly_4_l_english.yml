@@ -20,7 +20,7 @@
  bp2_yearly.4003.b: "私たちは過去の苦難に囚われることはない。"
  bp2_yearly.4003.c: "この地は[child_ruler.GetHerHis]の教育よりも遥かに大きな価値がある！"
  bp2_yearly.4010.t: "名声の影: たそがれどき"
- bp2_yearly.4010.desc:1 "私の[famous_parent.GetMotherFather]、[famous_parent.Custom('PrestigeLevelText')]位の[famous_parent.GetTitledFirstName]の両親の物語や業績についてのささやきが、どこへ行っても耳に入ってくる。遠く離れていても、[famous_parent.GetHerHis]の名前を知らない人はいないようだ。\n\n私はいつまで[famous_parent.GetMotherFather]の影に隠れているのだろうか？それとも[famous_parent.GetHerHim]と同じくらいの名声を手にすることができるのか？私はどれだけ成功できるだろう？"
+ bp2_yearly.4010.desc:1 "私の[famous_parent.GetMotherFather]、[famous_parent.GetTitledFirstName]の物語や業績についてのささやきが、どこへ行っても耳に入ってくる。遠く離れていても、[famous_parent.GetHerHis]の名前を知らない人などいないようだ。\n\n私はいつまで[famous_parent.GetMotherFather]の影に隠れているのだろうか？それとも[famous_parent.GetHerHim]と同じくらいの名声を手にすることができるのか？私はどれだけ成功できるだろう？"
  bp2_yearly.4010.a: "謙虚に生きろ？無理な話だ。"
  bp2_yearly.4010.b: "[famous_parent.GetFirstNameNoTooltip]よ、いつか私もあなたのようになってみせる！"
  bp2_yearly.4010.b.flavor: "有名になってやる、輝けるものになってやる、どんな手を使っても！"

@@ -66,7 +66,7 @@
  target_has_sponsored_inspiration:0 "目標は後援された[inspiration|E]を持っている: $VALUE|=+0$"
  legendary_inspiration_skill:0 "[Character.GetHerHis|U]の能力は伝説的であり、世界中で有名です。"
  masterful_inspiration_skill:0 "[Character.GetSheHe|U]は同業者からも達人であると目されています。"
- competent_inspiration_skill:0 "[Character.GetSheHe|U]は自分の腕にかなり自信があるようです。"
+ competent_inspiration_skill:0 "[Character.GetSheHe|U]は自分の腕に自信があるようです。"
  decent_inspiration_skill:0 "[Character.GetHerHis|U]の能力は人並み程度です。"
  research_inspiration: "研究のひらめき"
  research_inspiration_desc: "研究のひらめきを持つキャラクターは、[sponsor|E]の利益のために新しい知識を発見するよう[inspired|E]される。成功すれば、後援者の[dynasty|E]内での学識を向上させるか、あるいはその文化のための新しい[innovation|E]を発見する。"
