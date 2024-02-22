@@ -176,7 +176,7 @@
  health.2102.start1.desc:0 "感染爆発を起こした"
  health.2102.smallpox.desc:0 "天然痘"
  health.2102.bubonic_plague.desc:0 "ペスト"
- health.2102.start2.desc:0 "——我が宮廷を荒らし回っていたそれが、ついに終焉を迎えた。"
+ health.2102.start2.desc:0 "──我が宮廷を荒らし回っていたそれが、ついに終焉を迎えた。"
  health.2102.physician.desc:1 "犠牲者は皆、被害を乗り越えたか、さもなくばこの世界から旅立ったかのいずれかである。\n\n[physician.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、全ての遺体が適切に処理され、 脅威が完全に去ったことを私に保証する。"
  health.2102.no_physician.desc:1 "人はこの災禍を克服したか、或いはこの世を去ったかのいずれかであり、病魔は跡形も残っていない。"
  health.2102.2_victims.desc:0 "\n\n未だ復興は道半ばだ。我らは[victim_1.Custom2('MyCharacterIntroduction', ROOT.Char)]や[victim_2.Custom2('MyCharacterIntroduction', ROOT.Char)]、その他大勢を失った。人生は続くが、傷跡は残る。"
