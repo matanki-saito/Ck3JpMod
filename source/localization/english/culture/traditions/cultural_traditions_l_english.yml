@@ -954,7 +954,7 @@
  culture_tradition_events.0100.t:0 "文化と信仰の破壊"
  culture_tradition_events.0100.desc:0 "[head_of_faith.GetTitledFirstName]からの書状が届いた。それは社交的な挨拶で始まり、[culture_scope.GetName]の人々の目から見た私の重要性を概説している。\n\n"
  culture_tradition_events.0100.tradition_monogamous:0 "「人々が一夫一婦制を実践している限り、あなたは[faith_scope.GetAdjective]の教義に違反していることを理解しなければならない！私はただ、あなたの救済を願っている。すべての善良な[faith_scope.GetAdjectiveNoTooltip]の義務は、一人の配偶者だけ​​で果たすことはできない。」と、書状には綴られている。"
- culture_tradition_events.0100.tradition_polygamous:0 "「あなたが実践している一夫多妻制は[faith_scope.GetAdjective]の教義に反しており、[faith_scope.HighGodName]の目には罪と映っている！私はただ、あなたの救済を願っている。どうか、人々を光の中に導き、余分な配偶者を取り除いてほしい！」と、書状には綴られている。"
+ culture_tradition_events.0100.tradition_polygamous:0 "「あなた方が実践している一夫多妻制は[faith_scope.GetAdjective]の教義に反しており、[faith_scope.HighGodName]の目には罪と映っている！私はただ、あなた方の救済を願っている。どうか、人々を光の中に導き、余分な配偶者を取り除いてほしい！」と、書状には綴られている。"
  culture_tradition_events.0100.tradition_concubines:0 "「あなたの側室の慣習は[faith_scope.GetAdjective]の教義では支持されない、正しい結婚によってのみ[faith_scope.HighGodName]はあなたの民に微笑むだろう！私はただ、あなたの救済を願っている。側室はお捨てなさい、我々皆のために。」と、書状には綴られている。"
  culture_tradition_events.0100.end:0 "\n\nまさにジレンマだ…私はどちらを重視するべきだろう？我が民の慣習か、それとも信仰の教義か？"
  culture_tradition_events.0100.a:0 "[faith_scope.GetAdjectiveNoTooltip]の教義を守らなければならない。"
