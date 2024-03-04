@@ -347,3 +347,19 @@
 
  steam_rich_presence_debug_t: "Test your steam rich presence"
  steam_rich_presence_debug_desc: "You: [GetPlayer.Custom('rich_presence_flavor_status')] [GetPlayer.GetFullName]\n\nA sayyid: [sayyid.Custom('rich_presence_flavor_status')] [sayyid.GetFullName]\n\nA Caliph detractor: [fp3_struggle_detractor.Custom('rich_presence_flavor_status')] [fp3_struggle_detractor.GetFullName]\n\nA Caliph Supporter: [fp3_struggle_supporter.Custom('rich_presence_flavor_status')] [fp3_struggle_supporter.GetFullName]\n\nThe Caliph in 867: [sus_caliph.Custom('rich_presence_flavor_status')] [sus_caliph.GetFullName]\n\nIberian Struggle: [iberian_struggle.Custom('rich_presence_flavor_status')] [iberian_struggle.GetFullName]\n\nPersian Struggle: [persian_struggle.Custom('rich_presence_flavor_status')] [persian_struggle.GetFullName]"
+ 
+ spawn_epidemic_interaction: "Spawn Minor Epidemic"
+ spawn_major_epidemic_interaction: "Spawn #color_red Major#! Epidemic"
+ spawn_apocalyptic_epidemic_interaction: "Spawn #difficulty_easy A#!#P p#!#difficulty_easy o#!#P c#!#difficulty_easy a#!#P l#!#difficulty_easy y#!#P p#!#difficulty_easy t#!#P i#!#difficulty_easy c#! Epidemic"
+ spawn_epidemic_interaction_measles: "measles"
+ spawn_epidemic_interaction_consumption: "consumption"
+ spawn_epidemic_interaction_smallpox: "smallpox"
+ spawn_epidemic_interaction_ergotism: "ergotism / holy fire"
+ spawn_epidemic_interaction_bubonic_plague: "bubonic plague"
+ spawn_epidemic_interaction_typhus: "typhus"
+ spawn_epidemic_interaction_dysentery: "dysentery"
+ 
+ spawn_legend_interaction: "Get Legend Seeds"
+ spawn_legend_interaction_heroic: "heroic"
+ spawn_legend_interaction_holy: "holy"
+ spawn_legend_interaction_legitimizing: "legitimizing"

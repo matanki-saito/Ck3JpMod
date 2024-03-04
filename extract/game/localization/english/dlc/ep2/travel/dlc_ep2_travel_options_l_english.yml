@@ -43,8 +43,10 @@
  desert_warrior_recruited.t:0 "Desert Warrior Hired"
  desert_warrior_recruited.tt:0 "A guide with the [GetTrait('desert_warrior').GetName( GetNullCharacter )] trait will join your entourage"
 
- court_physician_option:0 "Enlist Court Physician"
- court_physician_option_desc:0 "You will bring your [GetCourtPositionType('court_physician_court_position')] along on your journey to tend to the wounded and ill"
+ court_physician_option:1 "Bring Medical Equipment"
+ court_physician_option_suffix: " #weak (only countering plagues)#!"
+ court_physician_option_desc:2 "You will bring a healthy supply of medical equipment along on your journey to reduce [travel_danger|E] from [epidemics|E]."
+ court_physician_option_tt: "You must employ a [GetCourtPositionType('court_physician_court_position').GetName] eligible for travel"
 
  cultural_ambassador_option:0 "Hire Cultural Ambassador"
  cultural_ambassador_option_desc:0 "You hire someone to serve as a Cultural Ambassador on your journey to disseminate information about your culture to all the baronies you travel through."

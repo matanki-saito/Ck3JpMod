@@ -134,7 +134,7 @@
  temple_authority_rabbinic_doctrine_name:0 "Rabbinic"
  temple_authority_rabbinic_doctrine_desc:0 "Rabbinic Jews believe that the Halakha can be interpreted by the Rabbis alone. They believe in the Written Torah and the Oral Torah, passed on through the Rabbis. All Rabbinic belief is codified in the Babylonian Talmud, which is held as the primary source from which Halakha is interpreted and distributed."
  temple_authority_toric_doctrine_name:0 "Toraic"
- temple_authority_toric_doctrine_desc:0 "Toraic Judaism rejects the Talmud and the Oral Torah, passing authority to the written Torah alone. Rabbis can not change or adapt the Halakha, their duty is solely to interpret the Torah's literal meaning."
+ temple_authority_toric_doctrine_desc:0 "Toraic Judaism rejects the Talmud and the Oral Torah, passing authority to the written Torah alone. Rabbis cannot change or adapt the Halakha, their duty is solely to interpret the Torah's literal meaning."
  temple_authority_kohanim_doctrine_name:0 "Kohenimic"
  temple_authority_kohanim_doctrine_desc:0 "Kohenimic Judaism asserts that the Kohen are the supreme authority on all religious matters, including the Halakha. Kohen must be patrilineally descended from Aaron, Moses' brother."
  temple_authority_samaritan_torah_doctrine_name:0 "Samaritan"

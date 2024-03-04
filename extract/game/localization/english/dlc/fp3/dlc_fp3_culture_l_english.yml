@@ -18,7 +18,9 @@
  # Court Positions
  ###################################
  master_assassin_court_position: "Master Assassin"
- master_assassin_court_position_desc: "Bound by faith or creed, the Master Assassin aids their liege with unconventional approaches to warfare, espionage, terror, and murder."
+ master_assassin_court_position_desc: "Bound by faith or creed, the Master Assassin aids their liege with unconventional approaches to warfare, espionage, terror and murder."
+ master_assassin_employer_custom_effect_description: "$BULLET$Unlocks the Assassination [scheme|E]\n@alert_icon! #alert_trial Cannot be a [knight|E]!#!"
+ 
  has_no_particular_noble_roots_trigger: "Is [lowborn|E] or of an insignificant [dynasty|E]"
 
  court_scholar_court_position: "Court Scholar"
@@ -74,8 +76,7 @@
 
  culture_parameter_unlock_maa_tarkhan: "Can recruit [GetMaA('tarkhan').GetName] as [men_at_arms|E]"
  culture_parameter_faith_warrior_traits_more_valued: "The [GetTrait('faith_warrior').GetName( GetNullCharacter )] and [GetTrait('order_member').GetName( GetNullCharacter )] [traits|E] are seen as [prestige_i][prestigious|E]"
- culture_parameter_diligent_trait_more_common: "The [GetTrait('diligent').GetName( GetNullCharacter )] [trait|E] is more common"
- culture_parameter_tribal_elective_enabled: "Can enact the #high $tribal_elective_succession_law$#! [succession_law|E]"
+ culture_parameter_tribal_elective_enabled: "Can enact the [GetLaw('tribal_elective_succession_law').GetName] [succession_law|E]"
  culture_parameter_pardoning_gives_prestige: "The #V $pardon_interaction$#! [interaction|E] gives [prestige|E]"
  culture_parameter_pragmatic_traits_county_opinion_modifiers: "The [GetTrait('diligent').GetName( GetNullCharacter )] and [GetTrait('shrewd').GetName( GetNullCharacter )] [traits|E] give [county_opinion|E]"
  culture_parameter_unlock_maa_zupin_warrior: "Can recruit [GetMaA('zupin_warrior').GetName] as [men_at_arms|E]"

@@ -14,18 +14,23 @@
  INCOMPATIBLE_TENET_PENTARCHY_TRIGGER:1 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_pentarchy').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_SACRIFICIAL_CEREMONIES_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_sacrificial_ceremonies').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_CONSOLAMENTUM_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_consolamentum').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_COMMUNION_TRIGGER: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_communion').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_SACRED_SHADOWS_TRIGGER: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_sacred_shadows').GetName( GetPlayer.GetFaith )]"
 
  INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL:0 "[GetFaithDoctrine('tenet_rite').GetName( GetPlayer.GetFaith )] cannot be taken if you and your [head_of_faith|E] have different stances on"
  INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL:0 "[GetFaithDoctrine('tenet_rite').GetName( GetPlayer.GetFaith )] cannot be taken if your [head_of_faith|E] cannot condone your stance on"
- INCOMPATIBLE_TENET_SHARED_HOF_PACIFISTS_VS_WARMONGERS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ pacifism verses warmongering"
- INCOMPATIBLE_TENET_SHARED_HOF_CRIMINAL_WITCHES_VS_ADORCISTS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ illegal witchcraft verses spirit possession"
- INCOMPATIBLE_TENET_SHARED_HOF_HEDONISTS_VS_ASCETICS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ hedonism verses asceticism"
+ INCOMPATIBLE_TENET_SHARED_HOF_PACIFISTS_VS_WARMONGERS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ pacifism versus warmongering"
+ INCOMPATIBLE_TENET_SHARED_HOF_CRIMINAL_WITCHES_VS_ADORCISTS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ illegal witchcraft versus spirit possession"
+ INCOMPATIBLE_TENET_SHARED_HOF_HEDONISTS_VS_ASCETICS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ hedonism versus asceticism"
  INCOMPATIBLE_TENET_SHARED_HOF_CANNIBALS_VS_NON_CANNIBALS:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_BILATERAL$ cannibalism"
  INCOMPATIBLE_TENET_SHARED_HOF_WORLD_VS_HUMSAC_GRUFES:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ human sacrifice"
  INCOMPATIBLE_TENET_SHARED_HOF_MONOGAMY_VS_POLYGAMY:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ polygamy"
  INCOMPATIBLE_TENET_SHARED_HOF_WORLD_VS_UNRESTRICTED_INCEST:0 "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ unrestricted incest"
-
+ 
  INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_VS_FORBIDDEN_PILGRIMAGES:0 "Incompatible with the [doctrine|E] $doctrine_pilgrimage_name$: [GetFaithDoctrine('doctrine_pilgrimage_forbidden').GetBaseName]"
+
+ INCOMPATIBLE_DOCTRINE_MUMMIFICATION: "Incompatible with the [doctrine|E] $doctrine_funeral_name$: [GetFaithDoctrine('doctrine_funeral_mummification').GetBaseName]"
+ INCOMPATIBLE_TENET_ANICONISM: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_aniconism').GetName( GetPlayer.GetFaith )]"
 
  DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "Incompatible with the [doctrine|E] Fundamentalist"
  NOT_DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "Requires the [doctrine|E] Fundamentalist"

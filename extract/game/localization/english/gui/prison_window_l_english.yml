@@ -10,7 +10,7 @@
  MASS_PRISONER_ACTION_RANSOM:0 "Mass Ransom"
  MASS_PRISONER_ACTION_RELEASE:0 "Mass Release"
  MASS_PRISONER_ACTION_EXECUTE:0 "Mass Execute"
- MASS_PRISONER_ACTION_RANSOM_TT:0 "#T $MASS_PRISONER_ACTION_RANSOM$#!\nRansom all [prisoners|E] for [gold|E].\n\n$MASS_ACTION_TT_EXCLUDE$"
+ MASS_PRISONER_ACTION_RANSOM_TT:1 "#T $MASS_PRISONER_ACTION_RANSOM$#!\nRansom all [prisoners|E] for [gold|E], or for [hooks|e] if they cannot be ransomed for gold.\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_PRISONER_ACTION_RELEASE_TT:0 "#T $MASS_PRISONER_ACTION_RELEASE$#!\nRelease all [prisoners|E] without demanding anything in return.\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_PRISONER_ACTION_EXECUTE_TT:0 "#T $MASS_PRISONER_ACTION_EXECUTE$#!\nExecute all [prisoners|E].\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_ACTION_TT_EXCLUDE:0 "#weak Prisoners that are hidden by a filter or exempted from Mass Actions will not be affected.#!"

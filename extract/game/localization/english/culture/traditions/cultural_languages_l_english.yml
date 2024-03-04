@@ -89,8 +89,12 @@
  aesthetics_sicilian_name:0 "Sicilian"
 
 #Dead Languages - Only used in custom loc
-language_hebrew_name: "Hebrew"
-language_pali_name: "Pali"
-language_avestan_name: "Avestan"
-language_classical_tibetan_name: "Classical Tibetan"
-language_sanskrit_name: "Sanskrit"
+ language_pali_name: "Pali"
+ language_avestan_name: "Avestan"
+ language_classical_tibetan_name: "Classical Tibetan"
+ language_sanskrit_name: "Sanskrit"
+
+# Dead languages used by dead cultures
+ language_egyptian_name: "Egyptian"
+ language_hunnic_name: "Hunnic"
+ language_ancient_greek_name: "Hellenic"

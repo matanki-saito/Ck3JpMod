@@ -17,11 +17,11 @@
 
  CAN_SPONSOR_INSPIRATION_INVALID:0 "Invalid inspiration."
  CAN_SPONSOR_INSPIRATION_INVALID_CHARACTER:0 "Invalid sponsor."
- CAN_SPONSOR_INSPIRATION_ALIVE_CHARACTER:0 "@warning_icon!#X [Character.GetUIName] is dead.#!"
- CAN_SPONSOR_INSPIRATION_RULER_CHARACTER:0 "@warning_icon!#X [Character.GetUIName] must be a [ruler|E].#!"
- CAN_SPONSOR_INSPIRATION_IS_OWNER:0 "@warning_icon!#X [Character.GetUIName] cannot sponsor an [inspiration|E] they are the owner of.#!"
- CAN_SPONSOR_INSPIRATION_ALREADY_SPONSOR:0 "@warning_icon!#X [Character.GetUIName] cannot sponsor an [inspiration|E] they are already sponsoring.#!"
- CAN_SPONSOR_INSPIRATION_BASE_GOLD_COST:0 "@warning_icon!#X [Character.GetUIName] cannot afford the @gold_icon! $GOLD|V$ [gold|E] to sponsor the [inspiration|E].#!"
+ CAN_SPONSOR_INSPIRATION_ALIVE_CHARACTER:0 "@warning_icon! #X [Character.GetUIName] is dead.#!"
+ CAN_SPONSOR_INSPIRATION_RULER_CHARACTER:0 "@warning_icon! #X [Character.GetUIName] must be a [ruler|E].#!"
+ CAN_SPONSOR_INSPIRATION_IS_OWNER:0 "@warning_icon! #X [Character.GetUIName] cannot sponsor an [inspiration|E] they are the owner of.#!"
+ CAN_SPONSOR_INSPIRATION_ALREADY_SPONSOR:0 "@warning_icon! #X [Character.GetUIName] cannot sponsor an [inspiration|E] they are already sponsoring.#!"
+ CAN_SPONSOR_INSPIRATION_BASE_GOLD_COST:0 "@warning_icon! #X [Character.GetUIName] cannot afford the @gold_icon! $GOLD|V$ [gold|E] to sponsor the [inspiration|E].#!"
 
  INSPIRATION_GENERAL_TOOLTIP_SPONSOR:0 "[Inspiration.GetSponsor.GetUIName|U]"
  INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR:0 "None"

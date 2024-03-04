@@ -339,13 +339,13 @@
  tradition_amharic_highlanders_name:0 "Amharic Highlanders"
  tradition_amharic_highlanders_desc:0 "The Amharic highlands are quite suitable for farming as long as one knows how to best approach the matter. For many generations this people have worked and lived in this environment, thriving while developing their own traditions and customs."
 
- culture_parameter_witenagemot_succession_enabled:0 "Can enact the #high $saxon_elective_succession_law$#! [succession_law|E]"
- culture_parameter_scandinavian_elective_enabled:0 "Can enact the #high $scandinavian_elective_succession_law$#! [succession_law|E]"
- culture_parameter_gender_equal_inheritance:0 "Can enact the #high $equal_law$#! [gender_law|E]"
- culture_parameter_can_enact_high_partition_succession_law:0 "Can enact the #high $high_partition_succession_law$#! [succession_law|E]"
+ culture_parameter_witenagemot_succession_enabled:0 "Can enact the [GetLaw('saxon_elective_succession_law').GetName] [succession_law|E]"
+ culture_parameter_scandinavian_elective_enabled:0 "Can enact the [GetLaw('scandinavian_elective_succession_law').GetName] [succession_law|E]"
+ culture_parameter_gender_equal_inheritance:0 "Can enact the [GetLaw('equal_law').GetName] [gender_law|E]"
+ culture_parameter_can_enact_high_partition_succession_law:0 "Can enact the [GetLaw('high_partition_succession_law').GetName] [succession_law|E]"
 
- culture_parameter_female_preference_inheritance:0 "Can enact the #high $female_preference_law$#! [gender_law|E]"
- culture_parameter_female_only_inheritance:0 "Can enact the #high $female_only_law$#! [gender_law|E]"
+ culture_parameter_female_preference_inheritance:0 "Can enact the [GetLaw('female_preference_law').GetName] [gender_law|E]"
+ culture_parameter_female_only_inheritance:0 "Can enact the [GetLaw('female_only_law').GetName] [gender_law|E]"
  culture_parameter_can_blind_prisoners:0 "[rulers|E] can Blind [prisoners|E]"
  culture_parameter_can_castrate_prisoners:0 "[rulers|E] can Castrate [prisoners|E]"
  culture_parameter_children_can_be_born_in_the_purple:2 "[children|E] born to a [ruler|E] holding the $e_byzantium$ may gain the [GetTrait('born_in_the_purple').GetName( GetNullCharacter )] [trait|E] - Taking precedence in the [line_of_succession|E]"
@@ -611,6 +611,7 @@
  culture_parameter_unlock_admiring_birds_activity:0 "Unlocks the $admiring_birds_decision$ [decision|E]"
  culture_parameter_desert_warrior_trait_is_better:1 "The [GetTrait('desert_warrior').GetName( GetNullCharacter )] [commander_trait|E] has additional [camel_cavalry|E] bonuses"
  culture_parameter_humble_trait_more_common:0 "The [GetTrait('humble').GetName( GetNullCharacter )] [trait|E] is more common"
+ culture_parameter_diligent_trait_more_common: "The [GetTrait('diligent').GetName( GetNullCharacter )] [trait|E] is more common"
  culture_parameter_content_trait_more_common:0 "The [GetTrait('content').GetName( GetNullCharacter )] [trait|E] is more common"
  culture_parameter_cheaper_guest_recruitment:0 "[guest|E] Recruitment Cost: [gold_i]#P -20%#!"
  culture_parameter_cheaper_court_positions:0 "[court_position|E] Salary Cost: [gold_i]#P -20%#!"
@@ -642,7 +643,7 @@
  culture_parameter_number_of_consorts:0 "$doctrine_parameter_number_of_consorts$"
  culture_parameter_poet_trait_gives_bonuses:0 "The [GetTrait('poet').GetName( GetNullCharacter )] [trait|E] has additional bonuses"
  culture_parameter_poet_trait_more_common:0 "The [GetTrait('poet').GetName( GetNullCharacter )] [trait|E] is more common"
- culture_parameter_piety_gain_on_building_complete_in_forest_taiga:1 "Gain [piety_i][piety|E] when completing [buildings|E] in [holdings|E] with either #V Forest#! or #V Taiga#! [terrain|E]"
+ culture_parameter_piety_gain_on_building_complete_in_forest_taiga:2 "Gain [piety_i][piety|E] when completing [buildings|E] in [holdings|E] with either #V Forest#!, #V Jungle#! or #V Taiga#! [terrain|E]"
  culture_parameter_piety_gain_on_building_complete_in_mountains:1 "Gain [piety_i][piety|E] when completing [buildings|E] in [holdings|E] with either #V Mountain#! or #V Desert Mountain#! [terrain|E]"
  culture_parameter_can_duel_rivals:0 "$UNLOCKS_ABILITY_TO_DUEL_RIVALS$"
  culture_parameter_cannot_fire_court_chaplain:0 "You cannot fire your [court_chaplain|E]"
@@ -1135,8 +1136,18 @@
  culture_parameter_mountains_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'mountains' ).GetName] and [GetTerrain( 'desert_mountains' ).GetName]"
  culture_parameter_drylands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'drylands' ).GetName] and [GetTerrain( 'desert' ).GetName]"
  culture_parameter_jungle_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'jungle' ).GetName]"
- culture_parameter_wetlands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'wetlands' ).GetName] and [GetTerrain( 'wetlands' ).floodplains]"
+ culture_parameter_wetlands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'wetlands' ).GetName] and [GetTerrain( 'floodplains' ).GetName]"
+ 
  can_host_joust_contests_name: "[GetCultureTradition('tradition_chanson_de_geste').GetName] or [GetCultureTradition('tradition_chivalry').GetName]"
+ 
+ #CE1 Traditions
+ tradition_ce1_ritual_washing_name: "Water Rituals"
+ tradition_ce1_ritual_washing_desc: "The purifying properties of water are an essential part of life for this culture and the ritual of ablution occupies a prominent position in their society."
+ culture_parameter_better_disease_resistance: "[characters|E] of this [culture|E] are less likely to get infected by [epidemics|E]"
+ doesnt_employ_court_physician_desc: "The [culture|E] does not have #high 5#! [rulers|E] employing a [GetCourtPositionType('court_physician_court_position').GetName()]"
+ cheaper_tradition_physician_or_whole_of_body: "You have the [GetTrait('lifestyle_physician').GetName( GetNullCharacter )] or [GetTrait('whole_of_body').GetName( GetNullCharacter )] [traits|E]"
+ cheaper_tradition_norse_washing: "$heritage_north_germanic_name$ [heritage|E]"
+ 
 
  #BP2 Traditions
  tradition_noble_adoption_name: "Noble Adoption"

@@ -394,7 +394,7 @@
  harm.1031.t.prefix:0 "A Clogged Throat"
  harm.1031.t:0 "$harm.1031.t.prefix$: Suffocation"
  harm.1031.desc:0 "Red-hot fire in my veins shocks me to wakefulness, the burning scream of flesh crying out for air, for relief, for something.\n\nMy mouth... my throat... clogged? Not stuffed, but blocked by something foul welling up from within.\n\nI hack up thick, yellow globules of sickly-sweet pus, the stench of death and rotten flesh hanging from each stringy rivulet of phlegm, but it just keeps coming.\n\nHelp. I need. #EMP Help#!."
- harm.1031.a:0 "Can't... breath..."
+ harm.1031.a:0 "Can't... breathe..."
  harm.1031.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.1031.a.tt.failure:0 "$harm.0000.tt.death.failure$"
  harm.1031.b:0 "´Just need to control. Breathing. Till can find. Physic."

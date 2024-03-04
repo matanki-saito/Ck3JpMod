@@ -145,10 +145,10 @@
  FACTION_CLAMAINT_DYNAMIC_NAME:0 "Faction to Install [ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip] on the [ROOT.Faction.GetSpecialTitle.GetAdjective] Throne"
  FACTION_POPULIST_DYNAMIC_NAME:0 "[ROOT.Var('faction_culture').Culture.GetNameNoTooltip] [ROOT.Var('faction_faith').Faith.GetAdjectiveNoTooltip] Populists"
 
- WARNING_I_HAVE_ALREADY_JOINED_A_FACTION:1 "@warning_icon!#X You have already joined a [faction|E]#!"
- WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon!#X You are already at war with [faction_target.GetTitledFirstName]#!"
- WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon!#X You are at war with [faction_invite_from.GetTitledFirstName]#!"
- WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon!#X [faction_invite_from.GetTitledFirstName] can't join the faction#!"
+ WARNING_I_HAVE_ALREADY_JOINED_A_FACTION:1 "@warning_icon! #X You have already joined a [faction|E]#!"
+ WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon! #X You are already at war with [faction_target.GetTitledFirstName]#!"
+ WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon! #X You are at war with [faction_invite_from.GetTitledFirstName]#!"
+ WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon! #X [faction_invite_from.GetTitledFirstName] can't join the faction#!"
 
 # FACTION JOIN/CREATE REASONS
  FACTION_REASON_AI_PERSONALITY:0 "\n[personality|E]: $RESULT|0+=$"
@@ -167,6 +167,7 @@
  FACTION_REASON_POWERFUL_VASSAL:0 "[powerful_vassal|E]: $FACTOR|0%+=$"
  FACTION_REASON_NEIGHBORS:0 "Neighbors in same [faction|E]: $FACTOR|^%+=$"
  FACTION_REASON_CULTURAL_REASONS:0 "Cultural reasons: $VALUE|0+=$"
+ FACTION_REASON_LEGITIMACY_LEGACY_4: "[GetDynastyPerk('ce1_legitimacy_legacy_4').GetName]: $VALUE|0+=$"
 
 #common_faction_modifiers
  FACTION_REASON_GAME_START_DUCHY:0 "1 years from Game start: $VALUE|0+=$"
@@ -189,6 +190,7 @@
  FACTION_REASON_PERK_TOE_THE_LINE:0 "[GetPerk('toe_the_line_perk').GetName(GetPlayer)]: $VALUE|0+=$"
  FACTION_REASON_INNOVATION_STEM_DUCHIES:0 "$innovation_stem_duchies$: $VALUE|0+=$"
  FACTION_REASON_CULTURE_ACCEPTANCE:0 "Low [cultural_acceptance|E]: $VALUE|0+=$"
+ FACTION_REASON_DIFFERENT_CULTURE: "Different [culture|E]: $VALUE|0+=$"
  FACTION_REASON_PREFER_DISSOLUTION_FACTION:0 "Prefers $nation_fracturing_faction$: $VALUE|0+=$"
  FACTION_REASON_NEW_VASSAL:0 "New [vassal|E]: $VALUE|0+=$"
 
@@ -219,6 +221,7 @@
  FACTION_REASON_CLAIMANT_TOO_OLD:0 "[claimant|E] is too old: $VALUE|0+=$"
  FACTION_REASON_CLAIMANT_TOO_YOUNG:0 "[claimant|E] is a [child|E]: $VALUE|0+=$"
  FACTION_REASON_CLAIMAINT_DYING:0 "[claimant|E]'s [health|E] is poor: $VALUE|0+=$"
+ FACTION_REASON_CLAIMANT_LOW_LEGITIMACY: "[claimant|E]'s [legitimacy|E] is too low: $VALUE|0+=$"
  FACTION_REASON_CLAIMANT_RARE_PRODUCE_HEIR:0 "[claimant|E] is unlikely to produce an [heir|E]: $VALUE|0+=$"
  FACTION_REASON_INFIRM:0 "[claimant|E] is [GetTrait('infirm').GetName( GetNullCharacter )]: $VALUE|0+=$"
  FACTION_REASON_MEMBER_IS_CLAIMANT:0 "I am the [claimant|E]: $VALUE|0+=$"
@@ -233,8 +236,8 @@
  FACTION_REASON_CLAIMANT_IS_RIGHTFUL_LIEGE:0 "[claimant|E] is [rightful_liege|E]: $VALUE|0+=$"
  FACTION_REASON_TITLE_DEJURE_ABOVE:0 "[primary_title|E] is not [de_jure|E] part of the target [title|E]: $VALUE|0+=$"
  FACTION_REASON_PREFER_INDEPENDENCE_FACTION:0 "Prefers $independence_faction$: $VALUE|0+=$"
- FACTION_REASON_LIEGE_IS_UNPREFERRED_HEIR:0 "$unpreferred_heir_opinion$: $VALUE|0+=$"
- FACTION_REASON_LIEGE_IS_PREFERRED_HEIR:0 "$preferred_heir_opinion$: $VALUE|0+=$"
+ FACTION_REASON_LIEGE_IS_UNPREFERRED_HEIR: "[unpreferred_heir|E]: $VALUE|0+=$"
+ FACTION_REASON_LIEGE_IS_PREFERRED_HEIR: "[preferred_heir|E]: $VALUE|0+=$"
  FACTION_REASON_BETTER_CROWN_AUTHORITY:0 "[claimant|E] has lower [crown_authority|E]: $VALUE|0+=$"
  FACTION_REASON_LOWER_COURT_GRANDEUR:0 "[liege|E] is below [court_grandeur_expectations|E]: $VALUE|0+=$"
  FACTION_REASON_BYZANTINE:0 "[GetCultureTradition('tradition_byzantine_succession').GetName]: $VALUE|0+=$"
@@ -242,6 +245,7 @@
 #nation_fracturing_faction_modifiers
  FACTION_REASON_SHORT_REIGN:0 "[liege|E] recently gained [primary_title|E]: $VALUE|0+=$"
  FACTION_REASON_CLAIMANTS_OF_MY_CULTURE:0 "[claimants|E] of my [culture|E] for [liege|E]'s [primary_title|E] exist: $VALUE|0+=$"
+ FACTION_REASON_DE_JURE_VASSAL: "Part of the [de_jure|E] [liege|E]'s [primary_title|E]: $VALUE|0+=$"
  FACTION_REASON_CULTURAL_ACCEPTANCE:0 "[cultural_acceptance|E]: $VALUE|0+=$"
  FACTION_REASON_TARGET_NOT_FULL_CONTROL:0 "[liege|E] does not control their entire [de_jure] area: $VALUE|0+=$"
  FACTION_REASON_RECENT_LOST_WAR:0 "[liege|E] recently lost [war|E]: $VALUE|0+=$"
@@ -250,6 +254,11 @@
  FACTION_REASON_ELECTIVE_PRIMARY:0 "[liege|E]'s [primary_title|E] has Elective [succession_law|E]: $VALUE|0+=$"
  FACTION_REASON_BYZANTINE_RELIGION:0 "Same [religion|E] as Byzantine [liege|E]: $VALUE|0+=$"
  FACTION_REASON_PERSIAN_STRUGGLE: "Part of the [persian_struggle|E]: $VALUE|0+=$"
+ FACTION_REASON_FRENCH_VASSAL: "Same [heritage|E] as French [liege|E]: $VALUE|0+=$"
+ FACTION_REASON_ANGLOSAXON: "West-Germanic [heritage|E]: $VALUE|0+=$"
+ FACTION_REASON_NORMAN: "Frankish [heritage|E]: $VALUE|0+=$"
+ FACTION_REASON_BRYTHONIC: "Brythonic [heritage|E]: $VALUE|0+=$"
+ FACTION_REASON_LOW_CROWN_AUTHORITY: "Low [crown_authority|E]: $VALUE|0+=$"
 
 #populist_faction
  FACTION_REASON_POWER_MINIMAL:0 "Weak [faction_military_power|E]: $FACTOR|0%+=$"
@@ -265,3 +274,7 @@
  FACTION_REASON_unity_significantly_more_likely_claimant_factions: "$antagonistic$ [house_unity_level|E]: $VALUE|0+=$"
  FACTION_REASON_unity_less_likely_claimant_factions: "$friendly$ [house_unity_level|E]: $VALUE|0+=$"
  FACTION_REASON_unity_significantly_less_likely_claimant_factions: "$harmonious$ [house_unity_level|E]: $VALUE|0+=$"
+
+ #legitimacy
+ FACTION_REASON_LOW_LEGITIMACY: "[liege_possessive|E] low [legitimacy|E]: $VALUE|0+=$"
+ FACTION_REASON_HIGH_LEGITIMACY: "[liege_possessive|E] [legitimacy|E]: $VALUE|0+=$"

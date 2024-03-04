@@ -14,7 +14,7 @@
  DIARCHY_WINDOW_SWING_SCALES:0 "Swing the Scales"
  DIARCHY_WINDOW_END_DIARCHY:1 "End [DiarchyWindow.GetDiarchyOwner.GetDiarchyTypeNameNoTooltip]"
  DIARCHY_WINDOW_DIARCH_SELECTION_TOOLTIP:2 "#T Designate [DiarchyWindow.GetDiarchyOwner.GetDiarchTitle]\n#!Select your preferred [DiarchyWindow.GetDiarchyOwner.GetDiarchTitle], overriding the Succession\n\n[SelectLocalization( DiarchyWindow.IsDesignateDiarchOnCooldown, 'DIARCHY_WINDOW_TMP', '' )]"
- DIARCHY_WINDOW_TMP:2 "@warning_icon!#X A new [regent|E] cannot be designated until [DiarchyWindow.GetNextDesignationText|V]#!"
+ DIARCHY_WINDOW_TMP:2 "@warning_icon! #X A new [regent|E] cannot be designated until [DiarchyWindow.GetNextDesignationText|V]#!"
  DIARCHY_WINDOW_DIARCH_APTITUDE:3 "Overall [Concept( 'diarch_aptitude', 'Aptitude' )|E]: [DiarchyWindow.GetDiarchAptitudeText( Character.Self )]"
  DIARCHY_WINDOW_DIARCH_APTITUDE_LIST:0 "[Concept( 'diarch_aptitude', 'Aptitude' )|E]: [CharacterListItem.GetText( 'aptitude_label' )]"
  DIARCHY_WINDOW_DIARCH_APTITUDE_TOOLTIP:0 "[Concept( 'diarch_aptitude', 'Aptitude' )|E] Score"

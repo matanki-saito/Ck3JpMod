@@ -1,6 +1,6 @@
 ﻿l_english:
  ACTIVE_COUNCIL_TASK_TT:2 "My [ActiveCouncilTask.GetPositionType.GetName] [ActiveCouncilTask.GetCouncillor.GetUIName] is assigned to [ActiveCouncilTask.GetTaskType.GetName|V]"
- ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V] #!\n@warning_icon!#X Assign a character to this council position to continue progressing the task#!"
+ ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V] #!\n@warning_icon! #X Assign a character to this council position to continue progressing the task#!"
  POTENTIAL_COUNCIL_TASK_TT:2 "[ActiveCouncilTask.GetCouncillor.GetUIName] will be assigned to [ActiveCouncilTask.GetTaskType.GetName|V]"
  COUNCIL_TASK_TT:0 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n[SelectLocalization( GuiPotentialCouncilTask.IsActive, 'ACTIVE_COUNCIL_TASK_TT', 'POTENTIAL_COUNCIL_TASK_TT' )]"
  COUNCIL_TASK_MAP_TT:0 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n$ACTIVE_COUNCIL_TASK_TT$"

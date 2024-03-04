@@ -22,5 +22,5 @@
  any_sub_realm_county:0 "Any Sub Realm County:"
 
  county_opinion:0 "County Opinion: $OPINION|=V$"
- county_control_rate:0 "County Control Rate"
+ monthly_county_control_change: "Monthly County [control|E] change"
  num_county_followers:0 "Number of County Followers: $NUM|V0$"

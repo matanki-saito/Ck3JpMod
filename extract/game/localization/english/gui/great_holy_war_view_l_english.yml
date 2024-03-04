@@ -1,6 +1,7 @@
 ﻿l_english:
  GREAT_HOLY_WAR_WINDOW_TITLE:0 "[GreatHolyWar.GetName]"
  GREAT_HOLY_WAR_NAME:1 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] for the [GREAT_HOLY_WAR.GetTargetTitle.GetBaseName]"
+ GREAT_HOLY_WAR_NAME_NO_TOOLTIP: "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] for the [GREAT_HOLY_WAR.GetTargetTitle.GetBaseNameNoTooltip]"
  GREAT_HOLY_WAR_INVALID_NAME:0 "Invalid GHW"
  PLEDGED_ATTACKERS_LABEL:0 "Pledged attackers - [GreatHolyWar.GetAttackerStrength] ([GreatHolyWar.GetStrengthBalance|%V0])"
  PLEDGED_DEFENDERS_LABEL:0 "Pledged defenders - [GreatHolyWar.GetDefenderStrength] ([GreatHolyWar.GetInverseStrengthBalance|%V0])"

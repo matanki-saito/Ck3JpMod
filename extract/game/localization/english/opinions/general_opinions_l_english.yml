@@ -78,6 +78,7 @@
  usurped_title:0 "Usurped My Title"
  tried_to_usurped_title:0 "Tried to Usurped My Title"
  respect_opinion:0 "Respect"
+ disrespect_opinion: "Disrespect"
  refusal_opinion:0 "Refusal"
  kindness_opinion:0 "Showed kindness"
  reputation_opinion:0 "Reputation"
@@ -116,6 +117,8 @@
  warily_flattered_opinion:0 "Warily Flattered"
  confusion_opinion:0 "Confused"
  commiseration_opinion:0 "Commiseration"
+ amazed_opinion: "Amazed"
+ honesty_opinion: "Honesty"
 
  plotting_against_vassals_opinion:0 "Plotting Against My Vassals"
  loved_one_dungeon_death:0 "Caused the death of a loved one"
@@ -186,8 +189,6 @@
  sided_with_tyrant_opinion:0 "Sided With Tyrant"
  opinion_of_predecessor:0 "Opinion of Predecessor"
  promise_to_predecessor:0 "Promise to Predecessor"
- preferred_heir_opinion:0 "Preferred Heir"
- unpreferred_heir_opinion:0 "Unpreferred Heir"
  upset_elites_opinion: "Upset Elites"
  courtly_title_creation_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] Approves of [title|E] Creation"
  courtly_lowborn_grant_opinion:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName] Disapproves of [lowborn|E] [title|E] Grants"
@@ -306,3 +307,5 @@
  declined_ward_opinion: "Declined Ward"
 
  turncoat_opinion: "Turncoat"
+
+ uncertain_opinion: "Uncertain"

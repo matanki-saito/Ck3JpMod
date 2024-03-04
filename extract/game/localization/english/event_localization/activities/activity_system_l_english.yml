@@ -70,9 +70,9 @@
  activity_system.0300.desc.defender:0 "That [attacker.Custom('InsultNoun')] [attacker.GetNameRegnal|U] has declared war against me!\n\n"
  activity_system.0300.desc.outro:0 "Much planning has gone into preparing to host this [target_activity_type.GetNameNoTooltip] and I am loathe to send my guests home. The importance of this conflict should not be underestimated, however.\n\nPerhaps it would be best to focus all my efforts on preparing for war..."
  activity_system.0300.a:0 "I can manage things from here."
- activity_system.0300.a.tt:0 "The [target_activity.GetNameNoTooltip] will continue"
+ activity_system.0300.a.tt:0 "The [target_activity_type.GetNameNoTooltip] will continue"
  activity_system.0300.b:0 "This war requires my full attention."
- activity_system.0300.b.tt:0 "The [target_activity.GetNameNoTooltip] will be cancelled and all attendees will begin traveling home"
+ activity_system.0300.b.tt:0 "The [target_activity_type.GetNameNoTooltip] will be cancelled and all attendees will begin traveling home"
  activity_system.0300.b.tt.cost:0 "Some costs may be recouped"
 
  activity_system.0301.t:0 "[target_activity_type.GetNameNoTooltip] Cancelled"

@@ -42,7 +42,7 @@
  MULTI_DESTINATION_PICKER_NO_VASSALS_ADDED:1 "No Vassals Added"
  MULTI_DESTINATION_PICKER_INSTRUCTION:0 "Select Vassals on the map to add them to the [ActivityType.GetNameNoTooltip]"
  MULTI_DESTINATION_PICKER_SELECTION_COUNT:1 "Selected [stops|E]: #V [ActivityPlanner.GetNumPickedPhases]/[ActivityPlanner.GetNumPickablePhases]#!"
- MULTI_DESTINATION_PICKER_SELECTION_COUNT_MAX:0 "@warning_icon!#X Selected stops: [ActivityPlanner.GetNumPickedPhases]/[ActivityPlanner.GetNumPickablePhases]#!"
+ MULTI_DESTINATION_PICKER_SELECTION_COUNT_MAX:0 "@warning_icon! #X Selected stops: [ActivityPlanner.GetNumPickedPhases]/[ActivityPlanner.GetNumPickablePhases]#!"
  CUSTOMIZE_TOUR:0 "Customize Tour"
 
  CHANGE_DESTINATION_TT:0 "#T Change Destination#!"
@@ -102,7 +102,7 @@
 
  TRAVEL_PLANNER_INVITED_ACTIVITY_START:0 "Activity start: [Activity.GetActiveStartDate.GetString]"
  TRAVEL_PLANNER_INVITED_ACTIVITY_ESTIMATED_ARRIVAL:0 "Estimated arrival: [TravelPlanDraft.GetData.GetNextDestination.GetEstimatedArrivalDate.GetString]"
- TRAVEL_PLANNER_INVITED_WILL_NOT_ARRIVE_IN_TIME:0 "@warning_icon!#X You will not arrive to the [Activity.GetShortNameNoTooltip] in time#!"
+ TRAVEL_PLANNER_INVITED_WILL_NOT_ARRIVE_IN_TIME:0 "@warning_icon! #X You will not arrive to the [Activity.GetShortNameNoTooltip] in time#!"
 
  TRAVEL_POINT_OF_INTEREST_TT_ON_VISIT_EFFECT_HEADER:0 "#S When visited#!"
  TRAVEL_POINT_OF_INTEREST_TT_ON_VISIT_EFFECT_VISITED_HEADER:0 "#S When visited#! #I (already visited)#!"

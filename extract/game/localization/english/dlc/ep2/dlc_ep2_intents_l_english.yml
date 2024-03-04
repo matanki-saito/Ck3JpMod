@@ -16,6 +16,9 @@
  lechery_intent:0 "Lechery"
  lechery_intent_desc:0 "You intend to embrace you carnal desires and seek sexual encounters with a plethora of partners. This often results in [stress|E] reduction for [GetTrait('lustful').GetName( GetNullCharacter )] characters."
 
+ legitimacy_intent: "Espouse Legitimacy"
+ legitimacy_intent_desc: "You intend to use this gathering as a means to promote your [legitimacy|E]."
+
  altruism_intent_header:0 "Altruism:"
  altruism_intent:0 "Altruism"
  altruism_intent_desc:1 "You seek to improve the lives of others by looking for opportunities to take altruistic actions. This often leads to an increase in [county_opinion|E] and [piety|E]. [GetTrait('zealous').GetName( GetNullCharacter )|U], [GetTrait('generous').GetName( GetNullCharacter )], and [GetTrait('improvident').GetName( GetNullCharacter )] characters may lose [stress|E]."

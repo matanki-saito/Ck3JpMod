@@ -61,8 +61,8 @@
  THEIR_PRIMARY_TITLE_IS:0 "[CHARACTER.GetShortUINamePossessive] [primary_title|E] is [TARGET_TITLE.GetNameNoTier]"
  THEIR_PRIMARY_TITLE_IS_NOT:0 "[CHARACTER.GetShortUINamePossessive] [primary_title|E] is #bold not#! [TARGET_TITLE.GetNameNoTier]"
 
- TITLE_IS_IN_REGION:0 "[PROVINCE.GetName] is in the $REGION$ region"
- TITLE_IS_NOT_IN_REGION:0 "[PROVINCE.GetName] is #bold not#! in the $REGION$ region"
+ TITLE_IS_IN_REGION:1 "[PROVINCE.GetName] is in the [GEOGRAPHICAL_REGION.GetName] region"
+ TITLE_IS_NOT_IN_REGION:1 "[PROVINCE.GetName] is #bold not#! in the [GEOGRAPHICAL_REGION.GetName] region"
 
  JERUSALEM_IS_SAME_FAITH:0 "Jerusalem is [CHARACTER.GetFaith.GetAdjective]"
  JERUSALEM_IS_NOT_SAME_FAITH:0 "Jerusalem is #bold not#! [CHARACTER.GetFaith.GetAdjective]"

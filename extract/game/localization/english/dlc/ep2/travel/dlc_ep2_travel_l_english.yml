@@ -10,6 +10,7 @@
  TRAVEL_NAME_FOR_activity_playdate:0 "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_witch_ritual:0 "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_adult_education: "$TRAVEL_NAME_FOR_activity_tournament$"
+ TRAVEL_NAME_FOR_activity_funeral: "$TRAVEL_NAME_FOR_activity_tournament$"
 
  TRAVEL_SPEED:1 "[travel_speed|E]"
  TRAVEL_SAFETY:1 "[travel_safety|E]"
@@ -63,6 +64,8 @@
  travel_danger_type_raid_desc:0 "This [holding|E] is currently being raided."
  travel_danger_type_occupation:0 "Occupied"
  travel_danger_type_occupation_desc:0 "This [barony|E] has seen war recently."
+ travel_danger_type_epidemic: "Plague"
+ travel_danger_type_epidemic_desc: "This [barony|E] is infected with a [epidemic|E]."
 
  travel_danger_type_mountains:0 "Mountains"
  travel_danger_type_mountains_desc:0 "These mountains look very treacherous."

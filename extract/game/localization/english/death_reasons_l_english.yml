@@ -3,6 +3,9 @@
  death_old_age:0 "died of old age"
  death_bubonic_plague:1 "died from the [GetTrait('bubonic_plague').GetName( CHARACTER.Self )]"
  death_smallpox:2 "died from [GetTrait('smallpox').GetName( CHARACTER.Self )]"
+ death_measles: "died from [GetTrait('measles').GetName( CHARACTER.Self )]"
+ death_dysentery: "died from [GetTrait('dysentery').GetName( CHARACTER.Self )]"
+ death_ergotism: "danced themselves to death from [GetTrait('ergotism').GetName( CHARACTER.Self )]"
  death_typhus:1 "died of [GetTrait('typhus').GetName( CHARACTER.Self )]"
  death_cancer:1 "died of [GetTrait('cancer').GetName( CHARACTER.Self )]"
  death_pneumonic:1 "died of [GetTrait('pneumonic').GetName( CHARACTER.Self )]"
@@ -342,3 +345,6 @@ death_fallen_from_a_mountain:0 "has fallen from the mountain trail"
  #BP2
  death_hostage_execution: "was executed while being a hostage"
  death_hostage_execution_killer: "was executed while being [TARGET_CHARACTER.GetUINamePossessive] hostage"
+
+ #CE1
+ death_peaceful: "was collected by [CHARACTER.GetFaith.HighGodName] in [CHARACTER.GetHerHis] sleep"

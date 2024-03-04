@@ -21,7 +21,7 @@
  ACTIVITY_LIST_CURRENT_LOCATION:0 "At [Activity.GetCurrentPhase.GetLocation.GetName] #weak (Travel time estimate [GetTimeDifferenceWithDays( Activity.CalcEstimatedTravelDuration( GetPlayer ) )|V])#!"
  ACTIVITY_BASE_COST:1 "Average Cost: [ActivityType.GetUiPredictedCost( GetPlayer )|U]"
  ACTIVITY_BASE_COST_TT:0 "#T Average Cost#!\n[ActivityType.GetLocalizedText( 'predicted_cost' )]"
- ACTIVITY_JOIN_ALREADY_STARTED:1 "@warning_icon!#X [Activity.GetName] is already in progress#!"
+ ACTIVITY_JOIN_ALREADY_STARTED:1 "@warning_icon! #X [Activity.GetName] is already in progress#!"
  SHOW_ACTIVITY_TOOLTIP:3 "#T [ActivityType.GetNameNoTooltip]#!\n[JoinText( '\n', ActivityType.GetCanStartActivityTooltip( GetPlayer ), ActivityType.GetLocalizedText( 'selection_tooltip' ) )]\n\n#I Click to select#!"
  JOIN_ACTIVITY_TOOLTIP:0 "#T [Activity.GetNameNoTooltip]#!\n\n#I Click to select#!"
 
@@ -43,7 +43,7 @@
  ACTIVITY_LIST_INVITATION_SIGNATURE:0 "Signed,\n#font:TitleFont [Character.GetUINameNoTooltip]#!"
  ACTIVITY_LIST_DETAIL_JOIN_DEPARTURE_TIME:0 "You have to leave within [ActivityListDetailJoinView.GetLatestDepartureDate.GetTimeToDate|V]"
  ACTIVITY_LIST_DETAIL_JOIN_REQUIRED_SPECIAL_GUEST:0 "As the [ActivitySpecialGuestType.GetNameForGuest] the [activity|E] will wait for you to begin"
- ACTIVITY_LIST_DETAIL_JOIN_MAY_NOT_ARRIVE_IN_TIME:1 "@warning_icon!#X You may not arrive to the [Activity.GetShortNameNoTooltip] in time#!"
+ ACTIVITY_LIST_DETAIL_JOIN_MAY_NOT_ARRIVE_IN_TIME:1 "@warning_icon! #X You may not arrive to the [Activity.GetShortNameNoTooltip] in time#!"
  ACTIVITY_LIST_DECLINE_INVITE:0 "#T Decline Invite#!\nDecline the invitation to [Activity.GetName]\n\n#I Click to decline#!"
  ACTIVITY_DECLINE_INVITE_POPUP_TITLE:0 "Decline Invitation"
  ACTIVITY_DECLINE_INVITE_POPUP_BODY:0 "Decline the invitation to [Activity.GetName]"

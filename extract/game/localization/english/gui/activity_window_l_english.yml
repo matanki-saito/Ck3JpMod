@@ -25,7 +25,7 @@
  ACTIVITY_SINGLE_INTENT_TOOLTIP:0 "#T [ActivityIntent.GetName]#!\n[ActivityIntent.GetDescription]"
  ACTIVITY_OPEN_INTENT_WINDOW:0 "$ACTIVITY_SINGLE_INTENT_TOOLTIP$\n\n#I Click to change [intent|E]#!"
  ACTIVITY_OPEN_INTENT_WINDOW_DISABLED: "$ACTIVITY_SINGLE_INTENT_TOOLTIP$\n\n#X Cannot change [intent|E] during active events!#!"
- ACTIVITY_SELECT_INTENT_NO_VALID_TARGET:0 "@warning_icon!#X No valid target for [ACTIVITY_INTENT.GetName]#!"
+ ACTIVITY_SELECT_INTENT_NO_VALID_TARGET:0 "@warning_icon! #X No valid target for [ACTIVITY_INTENT.GetName]#!"
  ACTIVITY_CHANGE_INTENT_TARGET_TOOLTIP:0 "#T Change [intent|E] target#!"
  ACTIVITY_CHANGE_INTENT_POTENTIAL_TARGET_HEADER:0 "Potential Targets"
  ACTIVITY_CHANGE_INTENT_SELECT_TARGET:0 "#I Select an [intent|E] Target to continue"
@@ -51,7 +51,7 @@
  ACTIVITY_GUEST_LIST_TRAVEL_TIME_INFO:1 "Travel: ~[ActivityGuestListWindow.GetTravelTimeEstimation( CharacterListItem.Self )] days"
  ACTIVITY_GUEST_WILL_ACCEPT:1 "#T @check_icon! Will accept invitation#!\n#indent_newline:3 Total: [ActivityGuestListWindow.GetJoinChance( CharacterListItem.Self )|+=0]\n[ActivityGuestListWindow.GetJoinChanceBreakdown( CharacterListItem.Self )]#!"
  ACTIVITY_GUEST_WILL_DECLINE:1 "#T @cross_icon! Will decline invitation#!\n#indent_newline:3 Total: [ActivityGuestListWindow.GetJoinChance( CharacterListItem.Self )|+=0] (will only accept if total is positive)\n[ActivityGuestListWindow.GetJoinChanceBreakdown( CharacterListItem.Self )]#!"
- ACTIVITY_GUEST_MAY_NOT_ARRIVE:0 "@warning_icon!#X May #bold not#! arrive in time#!"
+ ACTIVITY_GUEST_MAY_NOT_ARRIVE:0 "@warning_icon! #X May #bold not#! arrive in time#!"
  ACTIVITY_SPECIAL_GUEST_ACCEPTANCE:0 "[Character.GetSheHe] is more likely to acccept your invitiation if selected"
  ACTIVITY_GUEST_LIST_SELECT_HONORARY_GUEST:0 "#T Select [ActivityGuestListWindow.GetSelectingSpecialGuest.GetType.GetNameIfHost( ActivityGuestListWindow.GetHost )]#!\nSelect [Character.GetShortUINameNoTooltip] to be [ActivityGuestListWindow.GetSelectingSpecialGuest.GetType.GetNameIfHost( ActivityGuestListWindow.GetHost )], [ActivityType.GetLocalizedTextWithFallback( 'special_guest_acceptance', 'ACTIVITY_SPECIAL_GUEST_ACCEPTANCE' )]."
 

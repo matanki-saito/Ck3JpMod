@@ -1467,7 +1467,7 @@
  basque_divine_realm_2:0 "the Reddish Seas"
  # Mari hangs out in quite a broad variety of caves, changing the weather depending on where she moves to.
  basque_divine_realm_3:0 "the Caves of $basque_high_god_name$"
- # There aren't any solid positive afterlife names, and the Christian heaven stuff isn't on-brand for a cthonic religion, so we use neutral/cthonian-sounding names.
+ # There aren't any solid positive afterlife names, and the Christian heaven stuff isn't on-brand for a chthonic religion, so we use neutral/cthonian-sounding names.
  basque_positive_afterlife:0 "the Underworld"
  basque_positive_afterlife_2:0 "the Afterlife"
  basque_positive_afterlife_3:0 "the Hereafter"

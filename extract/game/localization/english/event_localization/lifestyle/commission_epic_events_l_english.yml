@@ -207,7 +207,7 @@
  commission_epic.6005.d:0 "At least I got a chronicle..."
 
  commission_epic.6006.t:0 "Potent Propaganda"
- commission_epic.6006.writerservant:0 ""It is finished my [ROOT.Char.GetLadyLord]", [composer.GetName] says with some relief, handing me a large tome. "This is the chronicle of house [ROOT.Char.GetDynastyHouseNameNoTooltip], describing in great detail its history of ruling the various lands that you desired. Surely none can now contest your righteous claims!""
+ commission_epic.6006.writerservant:0 ""It is finished my [ROOT.Char.GetLadyLord]", [composer.GetName] says with some relief, handing me a large tome.\n\n"This is the chronicle of house [ROOT.Char.GetDynastyHouseNameNoTooltip], describing in great detail its history of ruling the various lands that you desired. Surely none can now contest your righteous claims!""
  commission_epic.6006.scribes:0 "At last, my scribes have completed the propaganda chronicle. They look relieved as they hand me a tremendously large book.\n\n"Here it is, [Select_CString(ROOT.Char.IsFemale,'Milady','Sire')], the great chronicle of house [ROOT.Char.GetDynastyHouseNameNoTooltip], elaborating in detail on all of your claims. May it bring you great fortune.""
  commission_epic.6006.a:0 "Perfect!"
 

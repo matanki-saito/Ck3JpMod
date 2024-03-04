@@ -24,5 +24,5 @@
  RP_RAISE_RAID_TOOLTIP_HEADER:0 "#T $RP_RAISE_RAID$#!\nRaise all [armies|E] that are the closest to this particular [rally_point|E] as [raiders|E].\n#weak If you only have one Rally Point, all Armies will be raised here.#!"
  RP_RAISE_ALL_TOOLTIP_HEADER:0 "#T $RP_RAISE_ALL$#!\nRaise #emphasis all#! your [armies|E] here, regardless of which [rally_point|E] is the closest."
  RP_MOVE_RALLY_POINT:1 "#T Move Rally Point\n#! #I Alternatively, right-click on the map directly#!"
- RP_RAISE_BLOCK_AT_WAR:0 "@warning_icon!#X You cannot raise [raiders|E] while at [war|E]#!"
+ RP_RAISE_BLOCK_AT_WAR:0 "@warning_icon! #X You cannot raise [raiders|E] while at [war|E]#!"
  

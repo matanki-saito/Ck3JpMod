@@ -792,12 +792,12 @@
  NOT_COMPLETELY_CONTROLS_TITLE_DESC:1 "Does #bold not#! [completely_control|E] [TARGET_TITLE.GetNameNoTier]"
 
  #completely_controls_region
- I_COMPLETELY_CONTROL_REGION:1 "You [completely_control_region|E] the [region|E] of $REGION$"
- I_DO_NOT_COMPLETELY_CONTROL_REGION:1 "You do #bold not#! [completely_control_region|E] the [region|E] of $REGION$"
- THEY_COMPLETELY_CONTROLS_REGION:0 "[CHARACTER.GetShortUIName|U] [completely_controls_region|E] the [region|E] of $REGION$"
- THEY_DO_NOT_COMPLETELY_CONTROL_REGION:0 "[CHARACTER.GetShortUIName|U] does #bold not#! [completely_control_region|E] the [region|E] of $REGION$"
- COMPLETELY_CONTROLS_REGION_DESC:0 "[completely_controls_region|E] the [region|E] of $REGION$"
- NOT_COMPLETELY_CONTROLS_REGION_DESC:0 "Does #bold not#! [completely_control_region|E] the [region|E] of $REGION$"
+ I_COMPLETELY_CONTROL_REGION:2 "You [completely_control_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
+ I_DO_NOT_COMPLETELY_CONTROL_REGION:2 "You do #bold not#! [completely_control_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
+ THEY_COMPLETELY_CONTROLS_REGION:1 "[CHARACTER.GetShortUIName|U] [completely_controls_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
+ THEY_DO_NOT_COMPLETELY_CONTROL_REGION:1 "[CHARACTER.GetShortUIName|U] does #bold not#! [completely_control_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
+ COMPLETELY_CONTROLS_REGION_DESC:1 "[completely_controls_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
+ NOT_COMPLETELY_CONTROLS_REGION_DESC:1 "Does #bold not#! [completely_control_region|E] the [region|E] of [GEOGRAPHICAL_REGION.GetName]"
 
  I_HAVE_BEEN_DISCOVERED_FABRICATING_HOOKS:0 "You have recently been discovered fabricating hooks against this court"
  YOU_ALREADY_HAVE_A_HOOK_ON_TARGET:1 "You already have a [hook|E] on [TARGET_CHARACTER.GetShortUIName]"
@@ -973,3 +973,31 @@
  #ACCOLADES
  IS_PLAYERS_ACCLAIMED_KNIGHT:0 "[CHARACTER.GetShortUIName] is another Player's [acclaimed_knight|e]"
  HAS_POTENTIAL_ACCOLADE_SUCCESSORS:0 "This [accolade|e] already has potential Successors"
+
+ LEGITIMACY_TRIGGER_FIRST: "You have $COMPARATOR$ $NUM|V2$ [legitimacy|E]"
+ NOT_LEGITIMACY_TRIGGER_FIRST: "You do #bold not#! have $COMPARATOR$ $NUM|V2$ [legitimacy|E]"
+ LEGITIMACY_TRIGGER_THIRD: "[CHARACTER.GetShortUIName|U] has $COMPARATOR$ $NUM|V2$ [legitimacy|E]"
+ NOT_LEGITIMACY_TRIGGER_THIRD: "[CHARACTER.GetShortUIName|U] does #bold not#! have $COMPARATOR$ $NUM|V2$ [legitimacy|E]"
+ LEGITIMACY_TRIGGER_GLOBAL: "Does #bold not#! have $COMPARATOR$ $NUM|V2$ [legitimacy|E]"
+
+ LEGITIMACY_LEVEL_TRIGGER_FIRST: "Your [legitimacy_level|E] is $COMPARATOR$ $NUM|V0$"
+ NOT_LEGITIMACY_LEVEL_TRIGGER_FIRST: "Your [legitimacy_level|E] is #bold not#! $COMPARATOR$ $NUM|V0$"
+ LEGITIMACY_LEVEL_TRIGGER_THIRD: "[CHARACTER.GetShortUINamePossessive|U] [legitimacy_level|E] is $COMPARATOR$ $NUM|V0$"
+ NOT_LEGITIMACY_LEVEL_TRIGGER_THIRD: "[CHARACTER.GetShortUINamePossessive|U] [legitimacy_level|E] is #bold not#! $COMPARATOR$ $NUM|V0$"
+ LEGITIMACY_LEVEL_TRIGGER_GLOBAL: "[legitimacy_level|E] is $COMPARATOR$ $NUM|V0$"
+ NOT_LEGITIMACY_LEVEL_TRIGGER_GLOBAL: "[legitimacy_level|E] is #bold not#! $COMPARATOR$ $NUM|V0$"
+
+ IS_RIGHTFUL_LIEGE_OF_FIRST: "I am the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NOT_IS_RIGHTFUL_LIEGE_OF_FIRST: "I am #bold not#! the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+ IS_RIGHTFUL_LIEGE_OF_THIRD: "[CHARACTER.GetShortUIName] is the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NOT_IS_RIGHTFUL_LIEGE_OF_THIRD: "[CHARACTER.GetShortUIName] is #bolt not#! the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+ IS_RIGHTFUL_LIEGE_OF_GLOBAL: "Is the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NOT_IS_RIGHTFUL_LIEGE_OF_GLOBAL: "Is #bold not#! the [rightful_liege|E] of [TARGET_CHARACTER.GetShortUIName]"
+
+ WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] my [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold not#! my [preferred_heir|E]"
+ WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold not#! [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
+ WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] [CHARACTER.GetHerHis] [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold not#! [CHARACTER.GetHerHis] [preferred_heir|E]"
+

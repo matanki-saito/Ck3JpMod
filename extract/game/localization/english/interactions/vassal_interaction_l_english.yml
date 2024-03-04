@@ -19,7 +19,7 @@
  create_claimant_faction_against_interaction_desc:0 "Found a [claimant_faction|E] against [secondary_actor.GetShortUINameNoTooltip]"
 
  general_rebellion_decline_summary:0 "[recipient.Custom2('RevokeTitleDeclineSummary', SCOPE.sC('actor'))]"
- general_rebellion_decline_summary_warning:0 "@warning_icon!#X If [ROOT.Char.GetShortUINameNoTooltip] declines [ROOT.Char.GetSheHe] will rise up in rebellion with other disgruntled [vassals|E]!#!"
+ general_rebellion_decline_summary_warning:0 "@warning_icon! #X If [ROOT.Char.GetShortUINameNoTooltip] declines [ROOT.Char.GetSheHe] will rise up in rebellion with other disgruntled [vassals|E]!#!"
  general_rebellion_decline_summary_auto_accept:0 ""
 
 
@@ -59,9 +59,17 @@
  ask_for_pardon_interaction_accept_decline:0 "[recipient.GetShortUIName|U] declined your plea for pardon"
 
  vassal_claim_liege_title_interaction:0 "Claim Liege Title"
- vassal_claim_liege_title_interaction_desc:0 "If you control a majority #weak (51%)#! of the [counties|E] that are [de_jure|E] to one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
+ vassal_claim_liege_title_interaction_desc:0 "If you control a percentage of the [counties|E] that are [de_jure|E] to one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
  HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "If you control a majority #weak (51%)#! of one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
- NOT_HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "You do NOT control at least #V 51%#! of the [counties|E] that make up the [de_jure|E] of this [title|E]"
+ NOT_HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "You do NOT control at least #V 51%#! #weak ([legitimacy|E] level 1 or 0)#! of the [counties|E] that make up the [de_jure|E] of this [title|E]"
+ HAS_15_PERCENT_OF_A_DE_JURE_TITLE: "If you control a majority #weak (15%)#! of one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
+ NOT_HAS_15_PERCENT_OF_A_DE_JURE_TITLE: "You do NOT control at least #V 15%#! #weak ([legitimacy|E] level 5)#! of the [counties|E] that make up the [de_jure|E] of this [title|E]"
+ HAS_21_PERCENT_OF_A_DE_JURE_TITLE: "If you control a majority #weak (21%)#! of one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
+ NOT_HAS_21_PERCENT_OF_A_DE_JURE_TITLE: "You do NOT control at least #V 21%#! #weak ([legitimacy|E] level 4)#! of the [counties|E] that make up the [de_jure|E] of this [title|E]" 
+ HAS_31_PERCENT_OF_A_DE_JURE_TITLE: "If you control a majority #weak (31%)#! of one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
+ NOT_HAS_31_PERCENT_OF_A_DE_JURE_TITLE: "You do NOT control at least #V 31%#! #weak ([legitimacy|E] level 3)#! of the [counties|E] that make up the [de_jure|E] of this [title|E]" 
+ HAS_41_PERCENT_OF_A_DE_JURE_TITLE: "If you control a majority #weak (41%)#! of one of your [lieges|E] [titles|E], you can spend [prestige|E] to get an [unpressed_claim|E] on it!"
+ NOT_HAS_41_PERCENT_OF_A_DE_JURE_TITLE: "You do NOT control at least #V 41%#! #weak ([legitimacy|E] level 2)#! of the [counties|E] that make up the [de_jure|E] of this [title|E]" 
  higher_prestige_level_than_liege:0 "Higher [prestige_level|E] than [liege|E]"
  lower_prestige_level_than_liege:0 "Lower [prestige_level|E] than [liege|E]"
 

@@ -5,7 +5,7 @@
  hold_court.6000.desc_intro:0 "Before me stands [6000_poor.Custom2('MyCharacterIntroduction', ROOT.Char)], [6000_poor.GetHerHis] head hung low.\n\n"My [ROOT.Char.GetLadyLord], [6000_province.GetNameNoTooltip] has been hit hard by the recent"
  hold_court.6000.desc_occupation:0 "enemy occupation."
  hold_court.6000.desc_raiding:0 "raiding and looting."
- hold_court.6000.desc_epidemics:0 "epidemics."
+ hold_court.6000.desc_epidemics:1 "plagues."
  hold_court.6000.desc_winter:1 "harsh winter."
  hold_court.6000.desc_middle:0 "The people are starving, our fields are not recovering, and our livestock is not enough to survive anymore!"
  hold_court.6000.desc_count:0 "[6000_count.Custom2('MyCharacterIntroduction', 6000_poor)|U] lacks either the money or the will to help us."

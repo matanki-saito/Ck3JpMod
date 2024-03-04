@@ -74,3 +74,4 @@
 
  HAS_ARTIFACT_TRIGGER:0 "Owns any artifacts"
  NOT_HAS_ARTIFACT_TRIGGER:0 "Has no artifacts"
+ 

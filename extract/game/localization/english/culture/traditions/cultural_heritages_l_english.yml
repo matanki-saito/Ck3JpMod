@@ -82,3 +82,12 @@
  heritage_tocharian_collective_noun:0 "Tocharians"
  heritage_vlach_name:0 "$vlach$"
  heritage_vlach_collective_noun:0 "$vlach_collective_noun$"
+ # Dead heritages
+ heritage_gothic_name: "Gothic"
+ heritage_gothic_collective_noun: "Goths"
+ heritage_egyptian_name: "Egyptian"
+ heritage_egyptian_collective_noun: "Egyptians"
+ heritage_hunnic_name: "Hunnic"
+ heritage_hunnic_collective_noun: "Huns"
+ heritage_ancient_greek_name: "Hellenic"
+ heritage_ancient_greek_collective_noun: "Hellenic"
