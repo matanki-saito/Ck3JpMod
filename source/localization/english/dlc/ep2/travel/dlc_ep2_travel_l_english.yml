@@ -114,5 +114,5 @@
  TRAVEL_NAME_FOR_activity_witch_ritual:0 "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_adult_education: "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_funeral: "$TRAVEL_NAME_FOR_activity_tournament$"
- travel_danger_type_epidemic: "Plague"
- travel_danger_type_epidemic_desc: "This [barony|E] is infected with a [epidemic|E]."
+ travel_danger_type_epidemic: "伝染病"
+ travel_danger_type_epidemic_desc: "この[barony|E]は[epidemic|E]に感染している"

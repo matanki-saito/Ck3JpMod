@@ -242,7 +242,7 @@
  msg_hook_on_me_added_replaced:1 "あなたに対するフックの獲得"
  msg_hook_on_me_added_desc:1 "[LEFT_CHARACTER.GetShortUIName|U]はあなたに対する[HOOK.GetName]の[hook|E]を獲得しました"
  msg_hook_on_me_expired:1 "あなたに対するフックの失効"
- msg_hook_on_me_expired_desc:1 "[LEFT_CHARACTER.GetShortUINamePossessive] $HOOK_NAME$ [hook|E] on you has expired"
+ msg_hook_on_me_expired_desc:1 "[LEFT_CHARACTER.GetShortUINamePossessive]のあなたに対する$HOOK_NAME$の[hook|E]は失効しました"
  msg_my_hook_expired:0 "フックの失効"
  msg_my_hook_expired_desc:1 "あなたの[LEFT_CHARACTER.GetShortUIName]に対する[hook|E]は失効しました"
  msg_raid_war_invalidated_message:0 "[war.GetName]は終了しました: [defender.GetTitledFirstName]はもはや略奪されません。"

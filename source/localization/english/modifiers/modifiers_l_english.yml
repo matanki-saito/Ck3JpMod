@@ -1137,7 +1137,7 @@
  MOD_LEGITIMACY_GAIN_MULT: "[legitimacy|E]獲得"
  MOD_LEGITIMACY_LOSS_MULT: "[legitimacy|E]損失"
  MOD_LEGITIMACY_MONTHLY_CHANGE: "[legitimacy|E]"
- AFFECTING_MODIFIERS_LABEL: "Affecting modifiers:"
+ AFFECTING_MODIFIERS_LABEL: "影響補正:"
  PROVINCE_MODIFIERS: "[barony|E]補正値"
  COUNTY_MODIFIERS: "[county|E]補正値"
  PROVINCE_AND_COUNTY_MODIFIERS: "[barony|E] and [county|E] Modifiers"

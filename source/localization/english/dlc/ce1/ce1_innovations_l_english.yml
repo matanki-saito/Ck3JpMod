@@ -1,4 +1,4 @@
 ﻿l_english:
- innovation_sanitation: "衛生"
- innovation_sanitation_desc: "Cleanliness is paramount, and investment in the civic engineering required to provide all with the ability to maintain appropriate levels of hygiene is extremely important to our people."
- unlocks_innovation_sanitation: "Unlocks the Sanitation [innovation|E] in the $culture_era_early_medieval$ [era|E]."
+ innovation_sanitation: "衛生設備"
+ innovation_sanitation_desc: "清潔さは最も重要であり、全員が適切な衛生レベルを維持する事が出来るようにする都市工学への投資は、我々の領民にとって極めて重要である。"
+ unlocks_innovation_sanitation: "$culture_era_early_medieval$ [era|E]の衛生設備[innovation|E]を解禁"

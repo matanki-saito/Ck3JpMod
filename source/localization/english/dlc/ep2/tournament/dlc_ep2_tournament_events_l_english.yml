@@ -818,4 +818,4 @@
  cultural_acceptance_accepted_contestant:0 "出場者を受け入れた"
  tournament_contest_versus_battle_win_tt:0 "あなたは[activity.GetCurrentPhase.GetPhase.GetName]の試合に勝利します"
  tournament_contest_versus_battle_lose_tt:0 "[versus_contestant.GetTitledFirstNameNoTooltip]が[activity.GetCurrentPhase.GetPhase.GetName]の試合に勝利します"
- tournament_events.0150.legendseeddrop: "\nFor the third time now I have won a Contest. Tales of my achievements are already spreading far and wide.\n"
+ tournament_events.0150.legendseeddrop: "\n大会で優勝するのも三回目だ。この快進撃は語り草として広く遠く伝わっている。\n"

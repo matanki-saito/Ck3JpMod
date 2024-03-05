@@ -9,7 +9,7 @@
  ATTACKER_IGNORE_CB_COST_LOSE_LEVEL_WARNING:0 "\n@warning_icon! #X Additionally due to these changes you will:#!"
  ATTACKER_IGNORE_CB_COST_PIETY_LOSE_LEVEL_WARNING:0 "[piety_level]を失う（結果: [GetPietyLevelName( '(int32)$LEVEL$' )]）"
  ATTACKER_IGNORE_CB_COST_PRESTIGE_LOSE_LEVEL_WARNING:0 "[prestige_level]を失う（結果: [GetPrestigeLevelName( '(int32)$LEVEL$' )]）"
- DECLARE_WAR_INTERACTION_NO_SELECTED_TITLE:0 "@warning_icon! #X No [title|E] Selected#!"
+ DECLARE_WAR_INTERACTION_NO_SELECTED_TITLE:0 "@warning_icon!#X [title|E]が選択されていません#!"
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN_WARNING_TOOLTIP:0 "@warning_icon! #X $DECLARE_WAR_NO_CASUS_BELLI_CHOSEN$#!"
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "所持している[strong_hook|E]をあなたの[liege|E]に使う"
  DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:2 "[holy_war|E]: [DEFENDER.GetFaith.GetAdjective]の[rulers|E]たちは[war|E]に参加するでしょう"

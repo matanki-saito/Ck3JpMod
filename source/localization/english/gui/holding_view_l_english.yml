@@ -174,7 +174,7 @@
  COUNTY_CONTROL_OUT_OF_MAX_ABSOLUTE: "[absolute_control_short|E]"
  COUNTY_CONTROL_TOOLTIP_HEADER: "County Control: [County.GetControlLevelOutOfMax]"
  COUNTY_CONTROL_CHANGE_MONTHLY: "([ValueBreakdown.GetValue])"
- COUNTY_DEVELOPMENT_TOOLTIP_HEADER: "Development: [County.GetDevelopmentLevel]/100"
+ COUNTY_DEVELOPMENT_TOOLTIP_HEADER: "開発度：[County.GetDevelopmentLevel]/100"
  COUNTY_DEVELOPMENT_PROGRESS_MONTHLY_TOOLTIP_HEADER: "[County.GetDevelopmentProgressOutOfMax]"
  COUNTY_CULTURE_ACCEPTANCE_DIFF_CULTURE: "([Culture.GetAcceptance( GetPlayer.GetCulture )|%/0])"
  CLICK_TO_VIEW_HOLDING: "#I Click to view [holding|E]#!"

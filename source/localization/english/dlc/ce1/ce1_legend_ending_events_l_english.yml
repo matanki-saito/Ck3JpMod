@@ -1,5 +1,5 @@
 ﻿l_english:
- story_event_legends.0001.t: "On the End of the Legend"
+ story_event_legends.0001.t: "伝説の終わり"
  story_event_legends.0001.desc.intro: "Here is the end of the book of [legend_protagonist.GetTitledFirstName] and of [legend_protagonist.GetHerHis] noble deeds, that were unmatched in the whole land. And here is the end of the [promoted_legend.GetName].\n\n"
  story_event_legends.0001.desc.famous_deed: "#EMP [promoted_legend.GetChapterDescriptionByName('famous_deed')]#!"
  story_event_legends.0001.desc.battle: "#EMP [promoted_legend.GetChapterDescriptionByName('battle')]#!"
