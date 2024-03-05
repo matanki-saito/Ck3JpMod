@@ -71,7 +71,7 @@
  HOUSE_LIST_MILITARY_STRENGTH_TT:0 "[house_head|E]の最大軍事力"
  CUSTOMIZE_HOUSE_HEADER:0 "[DynastyHouse.GetBaseNameNoTooltip]家のカスタマイズ"
  CUSTOMIZE_HOUSE:0 "#T 家をカスタマイズ#!"
- CUSTOMIZE_HOUSE_PLAYER_NOT_ALLOWED:0 "@warning_icon!#X [DYNASTY_HOUSE.GetBaseNameNoTooltip]家はカスタマイズできません#!"
+ CUSTOMIZE_HOUSE_PLAYER_NOT_ALLOWED:0 "@warning_icon! #X House [DYNASTY_HOUSE.GetBaseNameNoTooltip] is not yours to customize#!"
  HOUSE_UNITY_MODIFIERS: "補正値："
  HOUSE_UNITY_ACTIONS_INSTRUCTIONS: "[house_unity_unifying_actions|E]や[house_unity_devisive_actions|E]で[house_unity|E]は変わります"
  HOUSE_UNITY_VALUE: "[DynastyHouse.GetHouseUnityValue|V]"

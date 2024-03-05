@@ -158,7 +158,7 @@
  CHARACTER_TT_NAME:0 "[Character.GetUINameNotMeNoTooltip]"
  CHARACTER_TT_AGE:0 "[Character.GetAge]歳"
  CV_COURTIER_SPONSOR_INSPIRATION:0 "、またはあなたが[Character.GetHerHis]の[Character.GetCurrentInspiration.GetName]を[sponsor|E]している"
- CV_COURTIER_STAY_REASON:0 "$knight_culture_player$や[councillor|E][SelectLocalization( And( HasDlcFeature( 'inspirations' ), CHARACTER.HasInspiration ), 'CV_COURTIER_SPONSOR_INSPIRATION', '' )]としての雇用といった"
+ CV_COURTIER_STAY_REASON:0 "$knight_culture_player$や[councillor|E][SelectLocalization( CHARACTER.HasInspiration, 'CV_COURTIER_SPONSOR_INSPIRATION', '' )]としての雇用といった"
  RENAME_CHARACTER:0 "#I クリックで人物の名前を変更#!"
  VASSAL_SORT_POWER:0 "$CLAIMANT_SORT_STRENGTH$"
  KNOWN_LANGUAGES_TOOLTIP:1 "#T 習得済みの[languages|E]#!\n[Character.GetKnownLanguagesString]\n\n#weak 現在の[language_limit|E]: [Character.MakeScope.ScriptValue('current_extra_languages')|V0]/[Character.MakeScope.ScriptValue('language_soft_cap')|V0]#!"
@@ -171,3 +171,4 @@
  CHARACTER_WINDOW_MODIFIERS_HIDE_TT: "#I クリックで[modifiers|E]を隠す#!"
  CHARACTER_WINDOW_MODIFIERS: "[SelectLocalization( CharacterWindow.AreModifiersExpanded, 'CHARACTER_WINDOW_MODIFIERS_HIDE_TT', 'CHARACTER_WINDOW_MODIFIERS_SHOW_TT' )]"
  CHARACTER_WINDOW_EXTRA_MODIFIERS: "+[CharacterWindow.GetExtraModifiersNumber]"
+ CHARACTER_WINDOW_LEGITIMACY_LEVEL: "[LegitimacyLevel.GetIndex|V]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )|V]"

@@ -1109,3 +1109,4 @@
  ep2_wedding.1350.desc.intro:0 "がたがたと家具が動く音や、客人のおしゃべりで私は頭がズキズキする。その緊張は、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('caring_relative'))][caring_relative.GetTitledFirstName]が私の腕を取って隣の部屋へと誘導するからだろうか？\n\n準備の音が消えていく。我々は、過ぎ去った時間、知り合った人々に関するとりとめもない話をし、結婚式のことは一言も話さない。そして我々は言葉が尽きて、沈黙してしまう。"
  ep2_wedding.1350.a:0 "二人で静かな時間を楽しむ。"
  ep2_wedding.1350.b:1 "[caring_relative.GetShortUINameNoTooltip]に、彼らがここにいることにどれだけの意味があるのか伝える。"
+ ep2_wedding.1030.d: "Marvelous! A proper [ROOT.Char.dynasty.GetName] wedding!"

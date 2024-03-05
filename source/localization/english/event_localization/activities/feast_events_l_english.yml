@@ -165,3 +165,4 @@
  feast.0800.desc.ruler:0 "倒れた[host.GetTitleAsName]にこのような死に方は似つかわしくないものだった。"
  feast.0800.a:0 "$activity_system.1010.a$"
  feast.0800.tt:0 "[host.GetShortUINamePossessiveNoTooltip]の[GetActivityType('activity_feast').GetName]は中止されます"
+ feast.7201.d: "A toast to my reign!"

@@ -66,7 +66,7 @@
  THEY_ARE_NOT_INVOLVED_IN_FP3_STRUGGLE: "[TARGET_CHARACTER.GetShortUIName]は[persian_struggle|E]の[struggle_involved|E]でない"
  fp3_request_turkic_invasion_interaction: "侵略を手引きする"
  fp3_request_turkic_invasion_interaction_desc: "この統治者を侵略し、不安定化させる為にテュルクの部族の力を借りる。"
- fp3_request_turkic_invasion_interaction_negative_gold_offer: "受け入れ先は既に標的より多くの兵を持っており、負の値の[gold|E]を提供することになります！\n"
+ fp3_request_turkic_invasion_interaction_negative_gold_offer: "The recipient already has more troops than your target, you cannot offer a proportionally negative sum of [gold|E]!\n"
  recipient_secondary_fp3_request_turkic_invasion_interaction: "@trebuchet_icon!侵略者"
  fp3_request_turkic_invasion_interaction_option_join_war: "@alliance_icon!軍事支援を提供する"
  fp3_request_turkic_invasion_interaction_option_join_war_desc: "[secondary_recipient.GetShortUINameNoTooltip]の側で侵略に参加します"

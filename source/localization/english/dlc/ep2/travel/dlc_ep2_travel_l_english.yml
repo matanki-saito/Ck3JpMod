@@ -113,3 +113,6 @@
  travel_xp_gain_message:0 "[GetTrait('lifestyle_traveler').GetName( GetNullCharacter )]の経験値"
  TRAVEL_NAME_FOR_activity_witch_ritual:0 "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_adult_education: "$TRAVEL_NAME_FOR_activity_tournament$"
+ TRAVEL_NAME_FOR_activity_funeral: "$TRAVEL_NAME_FOR_activity_tournament$"
+ travel_danger_type_epidemic: "Plague"
+ travel_danger_type_epidemic_desc: "This [barony|E] is infected with a [epidemic|E]."

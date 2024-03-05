@@ -201,3 +201,4 @@
  fp3_innovation_fritware: "陶器"
  fp3_innovation_fritware_desc: "石英やガラスなどの材料を混ぜることで、東洋の磁器をイメージした美しい石の陶器。彼らは貴重な商品や印象的な贈り物を作ると言う。"
  fp3_innovation_fritware_tooltip: "[send_gift|E]からの[opinion|E]：#P +20%#!"
+ unlock_wind_furnaces: "Unlocks the $building_type_wind_furnace_01$ line of [buildings|E] in coastal [holdings|E] in [GetGeographicalRegion('world_india').GetName]"

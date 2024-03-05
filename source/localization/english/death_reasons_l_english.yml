@@ -319,3 +319,7 @@
  death_cut_down_by_many_swords: "数多の剣でバラバラにされた"
  death_flogged_by_censors: "不摂生が祟って死んだ"
  death_trampled: "踏み潰されて死んだ"
+ death_measles: "[GetTrait('measles').GetName( CHARACTER.Self )]により死んだ"
+ death_dysentery: "[GetTrait('dysentery').GetName( CHARACTER.Self )]により死んだ"
+ death_ergotism: "[GetTrait('ergotism').GetName( CHARACTER.Self )]により踊り狂って死んだ"
+ death_peaceful: "[CHARACTER.GetFaith.HighGodName]の御腕に抱かれ、安らかに旅立った"

@@ -145,3 +145,4 @@
  OPINION_STRIFE:0 "[strife|E]"
  HOOK_STATE_PERPETUAL_COOLDOWN: "[DATE.GetString|V]後に再利用できる[perpetual_hook|E]"
  HOOK_STATE_PERPETUAL: "[perpetual_hook|E]"
+ OPINION_BELOW_LEGITIMACY_EXPECTATIONS: "Below [legitimacy_expectations|E] #weak ([CHARACTER.GetLegitimacyExpectationsOfLiege|V])#!"

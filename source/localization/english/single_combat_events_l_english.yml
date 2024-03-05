@@ -821,3 +821,5 @@
  single_combat.1004.g:0 "いや、気にするな"
  single_combat.result.tt.practice_no_wounds:0 "抑制の効いた試合だったことで、双方とも負傷することはなかった"
  single_combat.0001.unsure_attack_non_fatal: "ぐあ、好きにしろ！#EMP 参った#!！"
+ debug_log.single_combat_setup.attacker_and_defender_same_person: "Attempted to fire a duel where the attacker and the defender are the same person; this needs to be filtered out in the content setting up the duel or else it can cause crashes. Scopes logged to debug.log under \"$debug_log.single_combat_setup.attacker_and_defender_same_person.notice$\"."
+ debug_log.single_combat_setup.attacker_and_defender_same_person.notice: "Single Combat Too Single"

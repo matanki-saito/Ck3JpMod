@@ -134,7 +134,7 @@
  theocracy_government_desc:1 "$game_concept_theocracy_desc$\n\n#F 神権制では、すべての権力は宗教団体に属し、神の意志を地上で実行する司祭または女司祭が統治しています。 #!"
  theocracy_government_vassals_label:1 "神権制の[obligations|E]は[liege|E]の[piety_level|E]に基づきます"
  theocracy_government_obligations:1 "神権制の[obligations|E]"
- theocracy_government_vassal_contribution_wrong_faith:0 "@warning_icon!#X [liege|E]は誤った[faith|E]を持っている#!"
+ theocracy_government_vassal_contribution_wrong_faith:0 "@warning_icon! #X [liege|E] is of wrong [faith|E]#!"
  theocracy_government_vassal_contribution_piety_level:0 "[liege|E]は[GetPietyLevelName(liege.GetPietyLevel)|L]である"
  holy_order_government:0 "聖戦騎士団"
  holy_order_government_desc:0 "騎士団の聖戦士たちは、異教徒との戦いと信仰への奉仕に人生を捧げてきました。彼らは信心深い主君から託された城を守りきるかもしれません。総長には騎士団の構成員から最も軍事値の高い者が選ばれます。"

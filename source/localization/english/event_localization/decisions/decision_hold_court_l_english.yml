@@ -5,3 +5,4 @@
  hold_court_decision_effects:0 "援助を乞う請願に耳を傾けるため、客人や臣民を招待します:\n$EFFECT_LIST_BULLET$専門的な好機について学ぶ可能性があります\n$EFFECT_LIST_BULLET$国外の出来事に対する影響力行使の可能性があります\n$EFFECT_LIST_BULLET$宮廷の威光を追加で手にする可能性があります\n$EFFECT_LIST_BULLET$評価、威信、ゴールド、その他諸々が増減する可能性があります"
  hold_court_decision_confirm:0 "請願者の声に耳を傾ける"
  hold_court_gain_grandeur_tooltip:0 "[court_grandeur|E]の増加が見込めます"
+ hold_court_gain_legitimacy_tooltip: "[legitimacy|E]の増加が見込めます"

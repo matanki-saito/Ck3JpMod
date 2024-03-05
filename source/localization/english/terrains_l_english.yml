@@ -37,3 +37,4 @@
  coastal_sea:0 "沿岸"
  TERRAIN_TRAVEL_EFFECTS_HEADER:0 "#S 旅の影響: #!"
  TERRAIN_DANGER:1 "[travel_danger|E]: $VALUE|=-0$"
+ TERRAIN_COUNTY_CAPITAL_MODIFIER_HEADER: "#S [county_capital|E] Effects:#!"

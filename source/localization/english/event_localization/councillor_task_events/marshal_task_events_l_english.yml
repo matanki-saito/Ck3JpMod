@@ -85,7 +85,7 @@
  marshal_task.0304.desc: "[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が躊躇いがちに[beneficiary_of_nepotism.Custom2('MyCharacterIntroduction', ROOT.Char)]を我が前に連れてきた。\n\n「[advocate_of_nepotism.GetTitledFirstName|U]が私に[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]を指揮官にして欲しいと要望してきまして……しかし、こうした人事を判断するのは私ではなく主たるあなた様だと言ったところ、このようなことに」\n\n[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は[beneficiary_of_nepotism.Custom('quirk_neg_present')]。"
  marshal_task.0304.a_clan: "いかなる[ROOT.Char.GetHouse.GetBaseNameNoTooltip]の子も軍列に並ぶ栄誉に値する。"
  marshal_task.0304.a_neutral: "そなたの[beneficiary_of_nepotism.Custom('GetDaughterSon')]を軍列に加えよう。"
- marshal_task_0304_a_tt: "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U]は[TARGET_CHARACTER.GetShortUINameNoTooltip|U]が20年以内に解雇されれば憤慨するでしょう#!"
+ marshal_task_0304_a_tt: "@warning_icon! #X [CHARACTER.GetShortUINameNoTooltip|U] will be upset if [TARGET_CHARACTER.GetShortUINameNoTooltip|U] is fired within 20 years#!"
  marshal_task.0304.b: "[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は廷臣にするが、それ以上は求めるな。"
  marshal_task.0304.b.success: "[advocate_of_nepotism.GetTitledFirstNameNoTooltip]はあなたの言葉に満足する"
  marshal_task.0304.b.failure: "[advocate_of_nepotism.GetTitledFirstNameNoTooltip]はあなたの言葉に憤慨する"

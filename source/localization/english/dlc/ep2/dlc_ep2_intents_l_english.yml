@@ -26,3 +26,5 @@
  intent_befriend_potential_tt:1 "友愛[intent|E]の対象の[THIS.Char.GetIntentTarget.GetShortUIName]とともに時を過ごした"
  intent_befriend_fail_tt:1 "友愛[intent|E]の対象である[THIS.Char.GetIntentTarget.GetShortUIName]との絆を結ぶのに失敗した"
  activity_intent_complete_toast:1 "目的の達成"
+ legitimacy_intent: "Espouse Legitimacy"
+ legitimacy_intent_desc: "You intend to use this gathering as a means to promote your [legitimacy|E]."

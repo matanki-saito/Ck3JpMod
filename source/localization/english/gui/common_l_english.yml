@@ -87,7 +87,7 @@
  MILITARY_STRENGTH_ALLIES_LABEL:0 "\n#S [allies|E]の軍事力: #!\n"
  DISMISS_CS_TT:0 "#T $DISMISS$#!\nこの状況表示を閉じます。同じ種類の状況は引き続き表示されますが、この一件のみが非表示になります。\n\nこの画面にあるリセットボタンを使用することでこの状況を再び表示させることができます。"
  DISMISS_ALL_TT:0 "#T $DISMISS_ALL$#!"
- DISMISS_SUGGESTION_TT:0 "#T $DISMISS$#!\nこの提案を非表示にします。新規の提案は[GetDefine('NSuggestions', 'PLAYER_SUGGESTION_MONTHS_UPDATE')]ヶ月ごとに表示されます。"
+ DISMISS_SUGGESTION_TT:0 "#T $DISMISS$#!\nDismiss this suggestion. A new suggestion will appear every [GetDefine('NSuggestions', 'GLOBAL_SPAN_MONTHS')] months."
  cooltip_concubine_listing:1 "次の人物の[concubine|E]: [ROOT.Char.GetConcubinist.GetName]"
  FAITH_COOLTIP_WINDOW:0 "[Faith.GetAdjective]"
  CULTURE_COOLTIP_WINDOW:0 "[Culture.GetName]"
@@ -102,3 +102,4 @@
  NEXT_TOOLTIP:0 "#T $NEXT_LABEL$#!"
  NEXT_LABEL:0 "次"
  NONE:0 "なし"
+ FILTER_BY: "Filter by: "

@@ -89,7 +89,7 @@
  hold_court.7050.desc:1 "我が宮廷の後方で騒ぎが起こる。誰も[lunatic_soldier.GetHerHim]を捕まえる間もなく、一人の[lunatic_soldier.GetWomanMan]が玉座に駆け寄り、あなたの前で立ち止まるが、敬意を表すことはない。その目を見れば、この[lunatic_soldier.GetWomanMan]が精神的に健全でないことがよくわかる。\n\n「怪物め！お前は我々を死に追いやった！なぜお前は罰せられないのだ？」\n\nこの[lunatic_soldier.GetWomanMan]の怒鳴り散らしている内容から、私は[lunatic_soldier.GetSheHe]が私の戦争に何らかの形で関わっていたのだろうと察する、おそらくそれが[lunatic_soldier.GetSheHe]が苦悩している理由なのだろう。この迷える人物をどうするべきだろう？"
  hold_court.7050.a:1 "侍医である[court_physician.GetNameNoTooltip]に世話を依頼しよう。"
  hold_court.7050.b:0 "[lunatic_soldier.GetHerHim]に望み通り死を与えてやろう。"
- hold_court.7050.b.tt:1 "あなたは直ちに[lunatic_soldier.GetName]との[single_combat_fight|E]に突入します\n@warning_icon!#X これは危険であり、敗北すれば死につながります#!"
+ hold_court.7050.b.tt:1 "You immediately enter into a [single_combat_fight|E] with [lunatic_soldier.GetName]\n@warning_icon! #X This is risky and will lead to your death if you lose#!"
  hold_court.7050.b.victory:1 "あなたが決闘で勝利する"
  hold_court.7050.b.defeat:1 "あなたが決闘で敗北する"
  hold_court_7050_victory:0 "あなたは戦闘で[sc_loser.GetFirstNameNoTooltip]を打ち負かす"

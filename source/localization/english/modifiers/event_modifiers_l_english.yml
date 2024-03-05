@@ -228,3 +228,5 @@
  arson_rebuilding_modifier:0 "再建"
  arson_rebuilding_modifier_desc:0 "最近、この伯爵領では酔っぱらいによる放火があった。復興支援のために資金を積み立て、課税が停止されている。"
  persian_has_plush_carpet_modifier: "豪華でありきたりな絨毯"
+ artifact_physician_aptitude_1_modifier: "Medicine Collection"
+ artifact_physician_aptitude_1_modifier_desc: "This artifact increases the [aptitude|e] of [GetCourtPositionType('court_physician_court_position').GetName()]."
