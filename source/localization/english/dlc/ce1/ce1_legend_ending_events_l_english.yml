@@ -21,4 +21,4 @@
  story_event_legends.0003.desc.outro: "\n\nAnd here it was written, [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], [GetCurrentDate.GetStringLong]."
  story_event_legends.0003.a: "So be it."
  can_select_legendary_culture_pillars_tt: "You may select the [heritage|E] and [language|E] from your legendary culture when you [diverge|E] your [culture|E]"
- legend_title_does_not_exist_sub_realm_claims_given_tt: "You will get a [claim|E] on every existing de jure [title|E] inside of [title_claim.GetName]"
+ legend_title_does_not_exist_sub_realm_claims_given_tt: "[title_claim.GetName]内の全ての慣習的領土の[title|E]に[claim|E]を得ます"

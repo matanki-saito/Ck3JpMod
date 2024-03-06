@@ -17,4 +17,4 @@
  ALL_DIRECTLY_OWNED_PROVINCES:0 "全ての男爵領: "
  ANY_OF_MY_DIRECTLY_OWNED_PROVINCES:0 "いずれかの男爵領"
  ANY_OF_THEIR_DIRECTLY_OWNED_PROVINCES:0 "いくつかの[CHARACTER.GetShortUINamePossessive]の男爵領: "
- monthly_county_control_change: "Monthly County [control|E] change"
+ monthly_county_control_change: "毎月の伯爵領の[control|E]の変化"

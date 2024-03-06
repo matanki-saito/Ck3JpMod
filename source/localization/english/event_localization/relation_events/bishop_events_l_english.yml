@@ -2,7 +2,7 @@
  bishop.1001.opening:0 "[bishop.Custom2('AppropriateGreeting', ROOT.Char)]"
  bishop.1001.desc:0 "私の義務とは、あなたにある事実をお伝えすることです。それは[spouse.GetTitledFirstName]との結婚は事実上の近親婚であり、裏付ける反論不可能な証拠が見つかっているということ。ただし、この事実は私たち二人の間にとどまるでしょう。この不道徳な関係をすぐさま終わらせるのなら、ですが。"
  bishop.1001.a:0 "もちろんだ、[bishop.GetTitledFirstNameNoTooltip]。"
- bishop.1001.a.tt:1 "@warning_icon! #X You divorce [spouse.GetUIName]#!"
+ bishop.1001.a.tt:1 "@warning_icon!#X あなたは[spouse.GetUIName]と離婚します#!"
  bishop.1001.b:0 "そんなあからさまな嘘で、私たちの結婚生活が引き裂かれることはない！"
  bishop.1001.b.success:0 "その主張が嘘であることを証明する"
  bishop.1001.b.failure:0 "主張は確かに反論の余地がない"

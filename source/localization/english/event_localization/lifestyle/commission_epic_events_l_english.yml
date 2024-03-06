@@ -219,7 +219,7 @@
  commission_epic.6005.c:0 "これは[ROOT.GetCharacter.GetFaith.HighGodName]が私の虚栄心を罰しているのだろうか？"
  commission_epic.6005.d:0 "少なくとも年代記は出来上がった…"
  commission_epic.6006.t:0 "有力なプロパガンダ"
- commission_epic.6006.writerservant:0 "\"It is finished my [ROOT.Char.GetLadyLord]\", [composer.GetName] says with some relief, handing me a large tome.\n\n\"This is the chronicle of house [ROOT.Char.GetDynastyHouseNameNoTooltip], describing in great detail its history of ruling the various lands that you desired. Surely none can now contest your righteous claims!\""
+ commission_epic.6006.writerservant:0 "「完成しました、我が[ROOT.Char.GetLadyLord]」[composer.GetName]は少し安心したように言いながら、大きな書物を私に手渡す。\n\n「これは[ROOT.Char.GetDynastyHouseNameNoTooltip]家の年代記で、あなたが望む様々な土地を統治してきた歴史が詳細に記されております。」"
  commission_epic.6006.scribes:0 "ついに、私の書記たちはプロパガンダの年代記を完成させた。とてつもなく巨大な本を私に手渡しながら、彼らは安心したような表情を浮かべる。\n\n「これです、[Select_CString(ROOT.Char.IsFemale,'奥様','閣下')]、あなた様の主張のすべてを詳しく説明した、[ROOT.Char.GetDynastyHouseNameNoTooltip]家の偉大な年代記でございます。これがあなた様に大きな幸運をもたらしますように。」"
  commission_epic.6006.a:0 "完璧だ！"
  propaganda_chronicle_name:0 "[ROOT.Char.GetDynastyHouseNameNoTooltip]のプロパガンダ年代記"

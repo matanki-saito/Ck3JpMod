@@ -1,7 +1,7 @@
 ﻿l_english:
  COW_TT_THEIR_COMMANDER:0 "#T 敵の[commander|E]: [CHARACTER.GetUIName]#!\n[martial_skill|E]: #V [CHARACTER.GetSkillWithLevel('martial')]#!"
  COW_TT_MY_COMMANDER:1 "#T あなたの[commander|E]: [CHARACTER.GetUIName]#!\n[martial_skill|E]: #V [CHARACTER.GetSkillWithLevel('martial')]#!"
- COW_TT_NO_COMMANDER_MINE:0 "@warning_icon! #X We have no [commander|E] assigned#!"
+ COW_TT_NO_COMMANDER_MINE:0 "@warning_icon! #X [commander|E]が任命されていません#!"
  COW_TT_NO_COMMANDER_THEIRS:0 "#X 彼らには[commander|E]が任命されていません#!"
  COW_TT_THEIR_REALM:0 "#T 敵の[realm|E]: [TITLE.GetName]#!"
  COW_TT_MY_REALM:1 "#T あなたの[realm|E]: [TITLE.GetName]#!"

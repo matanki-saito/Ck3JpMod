@@ -2081,7 +2081,7 @@
  game_concept_court_position_task: "宮廷職任務"
  game_concept_court_position_tasks: "宮廷職の任務"
  game_concept_court_position_tasks_desc: "$game_concept_court_position_task_desc$"
- game_concept_court_position_task_desc: "Some [court_positions|E] can perform an additional task, often giving more benefits at an extra cost.\n\nOnly one task can be active at a time per [court_position|E]."
+ game_concept_court_position_task_desc: "一部の[court_positions|E]は追加の任務を実行でき、追加の給与を支払うことでより多くの利益を得ることが出来ます。\n\n[court_position|E]ごとに一度に従事できる任務は一つだけです。"
  game_concept_fatalities: "死亡者数"
  game_concept_fatalities_desc: "[epidemic|E]の直接の影響によって死んだ[characters|E]たち。"
  game_concept_funeral: "葬儀"

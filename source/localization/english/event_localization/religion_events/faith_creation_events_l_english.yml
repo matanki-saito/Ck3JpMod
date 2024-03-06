@@ -32,7 +32,7 @@
  faith_creation.1001.o.uninterested:0 "これら[second.Custom('GetUnbelieverNamePlural')]が何を信じているかは関係ない。"
  faith_creation.1001.o.getreaction:0 "[ROOT.Char.Custom2('GetFaithCreationReaction', reformer)]"
  faith_creation.1001.o.personal:0 "世界は[ROOT.Char.GetFaith.HighGodName]が我々を支持していることを目にするだろう！"
- faith_creation.1010.t:0 "[HoF.GetFirstNameNoTooltip]は[faith.ReligiousHeadName|U]を宣言"
+ faith_creation.1010.t:0 "[faith.ReligiousHeadName|U]として[HoF.GetFirstNameNoTooltip]が登極"
  faith_creation.1010.desc.start:0 "我々の信仰の正義が疑われることは決してないと思っていたが、我々が宗教的な指導者なしで耐えてきた期間、それが試されていたのだ。しかしついにこの試練は終わり、"
  faith_creation.1010.desc.temporal.personal:0 "私はついに[faith.AltPriestTermPlural]に対し、私を唯一の真の[faith.ReligiousHeadName|U]として受け入れるように説得することができた。"
  faith_creation.1010.desc.temporal:0 "[HoF.GetTitledFirstName]はついに[faith.AltPriestTermPlural]に対し、[HoF.GetHerHim]を唯一の真の[faith.ReligiousHeadName|U]として受け入れるよう説得することができた。"

@@ -31,7 +31,7 @@
  HIRED_TROOPS_VIEW_KNIGHT_LIST_TITLE:1 "#T [HiredTroop.GetTitle.GetHolder.Custom('KnightCulturePlural')]の一覧#!"
  HIRED_TROOPS_VIEW_KNIGHT_LIST_ENTRY:0 "$BULLET_WITH_TAB$[CHARACTER.GetName] (@skill_prowess_icon![CHARACTER.GetProwess])"
  HIRED_TROOPS_VIEW_PLEDGED_TO_GREAT_HOLY_WAR:1 "大聖戦に参戦中"
- HOLY_ORDER_HIRE_LIMIT_REACHED:1 "@warning_icon! #X You have already hired another [holy_order|E]#!"
+ HOLY_ORDER_HIRE_LIMIT_REACHED:1 "@warning_icon! #X すでに別の[holy_order|E]を雇用中です#!"
  HIRED_TROOPS_ALREADY_HIRED:0 "@warning_icon! #X They are already hired#!"
  MERCENARY_COMPANY_NOT_HIRED_BY_ME:1 "@warning_icon! #X They are not currently hired by you#!"
  MERCENARY_COMPANY_OUTSIDE_RANGE:0 "@warning_icon! #X They are located too far away.#!"

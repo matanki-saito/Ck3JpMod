@@ -14,7 +14,7 @@
  DIARCHY_WINDOW_SWING_SCALES:0 "権力を引き寄せる"
  DIARCHY_WINDOW_END_DIARCHY:1 "[DiarchyWindow.GetDiarchyOwner.GetDiarchyTypeNameNoTooltip]を終わらせる"
  DIARCHY_WINDOW_DIARCH_SELECTION_TOOLTIP:2 "#T 別の[DiarchyWindow.GetDiarchyOwner.GetDiarchTitle]を任命する\n#! 選出順位を無視して、より良い[DiarchyWindow.GetDiarchyOwner.GetDiarchTitle]を選ぶことが出来ます\n\n[SelectLocalization( DiarchyWindow.IsDesignateDiarchOnCooldown, 'DIARCHY_WINDOW_TMP', '' )]"
- DIARCHY_WINDOW_TMP:2 "@warning_icon! #X A new [regent|E] cannot be designated until [DiarchyWindow.GetNextDesignationText|V]#!"
+ DIARCHY_WINDOW_TMP:2 "@warning_icon! #X 新しい[regent|E]は[DiarchyWindow.GetNextDesignationText|V]まで指名できません#!"
  DIARCHY_WINDOW_DIARCH_APTITUDE:3 "総合的な[Concept( 'diarch_aptitude', '適性' )|E]: [DiarchyWindow.GetDiarchAptitudeText( Character.Self )]"
  DIARCHY_WINDOW_DIARCH_APTITUDE_LIST:0 "[Concept( 'diarch_aptitude', '適性' )|E]: [CharacterListItem.GetText( 'aptitude_label' )]"
  DIARCHY_WINDOW_DIARCH_APTITUDE_TOOLTIP:0 "[Concept( 'diarch_aptitude', '適性' )|E]スコア"

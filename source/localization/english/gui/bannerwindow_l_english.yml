@@ -9,4 +9,4 @@
  BANNER_RAISE_PROMPT:1 "#T 軍勢を招集し、全ての兵士をこの集結地に割り当てます#!"
  BANNER_CANCEL_RAISING:0 "召集取り消し"
  BANNER_CANCEL_RAISING_PROMPT:0 "#T この集結地からの召集をキャンセルし軍勢を解散します#!"
- BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon! #X Above [domain_limit|E]. Levies from [domain] reduced by $PENALTY|%0$#!"
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon! #X [domain_limit|E]を超過しています。[domain]からの徴募兵が$PENALTY|%0$減少します#!"

@@ -67,7 +67,7 @@
  tour_travel.3040.a:0 "さあ、衛兵、悪党どもを仕留めに行け！"
  tour_travel.3040.b:0 "#EMP ほとんど#!すべて？"
  tour_travel.3040.c:0 "残念だが、私にはもっとやるべきことがあるのだ、平民よ。"
- tour_travel.3040.c.foreign:1 "This is a matter for your [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetHolder.GetTitleAsNameNoTooltip], peasant."
+ tour_travel.3040.c.foreign:1 "これはあなたの[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetHolder.GetTitleAsNameNoTooltip]の問題だ、平民よ。"
  entourage_member_wounded_toast:0 "山賊は[woundee.GetShortUINameNoFormat]を傷つける"
  entourage_member_wound_chance_tt:0 "ランダムな従者メンバーが負傷します"
  truth_of_it_sleuth_toast:0 "あなたは真実を見つける"

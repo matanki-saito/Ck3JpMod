@@ -32,7 +32,7 @@
  MAA_TT_BUY_TITLE:0 "#T $COUNT$人の兵士を追加#!"
  MAA_TT_SELL_TITLE:0 "#T $COUNT$人の兵士を削除#!"
  MAA_TT_DESTROY_TITLE:0 "#T 連隊の解隊#!"
- MAA_TT_NOT_ENOUGH_GOLD:0 "@warning_icon! #X Not enough Gold#!"
+ MAA_TT_NOT_ENOUGH_GOLD:0 "@warning_icon!#X ゴールドが足りません#!"
  MAA_MAX_AT_MAX_SIZE:0 "@warning_icon! #X At max size#!"
  MAA_TT_REGIMENT_IN_COMBAT:0 "@warning_icon! #X The Regiment is currently in Battle#!"
  MAA_TT_COST:0 "コスト: $COST$"
