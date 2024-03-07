@@ -3,7 +3,7 @@
  ce1_heroic_track_desc: "我らの肉体は壊れ朽ちる。だが伝説は決して死にはしない。"
  ce1_heroic_legacy_1_name: "古き英雄"
  ce1_heroic_legacy_2_name: "神話の祖先"
- ce1_heroic_legacy_2_effect: "成立した[legend|E]を通して得た[claims|E]による[ancestral_claim|E]の[casus_belli|E]を可能にします"
+ ce1_heroic_legacy_2_effect: "成立した[legend|E]を通して得た[claims|E]による[ancestral_claim|E]の[casus_belli|E]を解禁"
  ce1_heroic_legacy_3_name: "黄金伝説"
  ce1_heroic_legacy_3_effect: "[legend_mythical|E]の[legend_holy|E]を完遂することで[GetTrait('saint').GetName( GetPlayer )]の[trait|E]を獲得する\n[legend|E]の作成の割引：#positive_value 15%#!"
  ce1_heroic_legacy_4_name: "生ける伝説"

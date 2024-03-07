@@ -1,7 +1,7 @@
 ﻿l_english:
  select_council_task_header:1 "評議員職の要求"
- COUNCIL_TASK_INTERACTION_NO_SELECTED_TASK:0 "@warning_icon! #X No task has been selected#!"
- COUNCIL_TASK_INTERACTION_AUTO_FILLED:0 "@warning_icon! #X [ACTIVE_COUNCIL_TASK.GetPositionName] is automatically filled#!"
+ COUNCIL_TASK_INTERACTION_NO_SELECTED_TASK:0 "@warning_icon!#X 任務が選択されていません#!"
+ COUNCIL_TASK_INTERACTION_AUTO_FILLED:0 "@warning_icon!#X [ACTIVE_COUNCIL_TASK.GetPositionName]は自動的に充当されます#!"
  COUNCIL_TASK_INTERACTION_WINDOW_SELECT_TASK:1 "評議員職を選択"
  COUNCIL_TASK_INTERACTION_WINDOW_SELECTED_TASK:0 "選択された職: [CouncilTaskInteractionWindow.GetSelectedTask.GetPositionName]"
  COUNCIL_TASK_INTERACTION_WINDOW_PLAYER_SKILLS_LABEL:0 "[GetPlayer.GetShortUINamePossessive|U]の[skills|E]"

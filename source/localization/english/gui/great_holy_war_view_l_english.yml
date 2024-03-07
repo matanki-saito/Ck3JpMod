@@ -77,4 +77,4 @@
  GHW_NO_SCORE_TT:0 "#T [spiritual_head_of_faith|E]はいかなる[contribution|E]または取り分をも得られません#!"
  ghw_heir_to_a_title:0 "[title|E]の[heir|E]である"
  ghw_married_to_a_ruler:0 "[ruler|E]と[married|E]している"
- GREAT_HOLY_WAR_NAME_NO_TOOLTIP: "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] for the [GREAT_HOLY_WAR.GetTargetTitle.GetBaseNameNoTooltip]"
+ GREAT_HOLY_WAR_NAME_NO_TOOLTIP: "[GREAT_HOLY_WAR.GetTargetTitle.GetBaseNameNoTooltip]を巡る[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"

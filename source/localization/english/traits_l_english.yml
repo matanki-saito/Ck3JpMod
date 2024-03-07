@@ -595,7 +595,7 @@
  trait_faith_warrior_desc:0 "この人物は大聖戦に参加した経験がある。"
  trait_faith_warrior_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は大聖戦に参加した経験がある。"
  trait_saint:0 "聖人"
- trait_saint_desc:1 "並外れた聖人; この人物は、その敬虔な行ないにより崇敬されている。"
+ trait_saint_desc:1 "並外れた聖人; この人物は、その敬虔な行いにより崇敬されている。"
  trait_saint_character_desc:1 "並外れた聖人; [ROOT.GetCharacter.GetFirstNameNoTooltip]はその敬虔な行ないにより崇敬されている。"
  trait_order_member:0 "聖騎士団員"
  trait_order_member_desc:0 "この人物は武装化した聖戦騎士団に仕えている。"

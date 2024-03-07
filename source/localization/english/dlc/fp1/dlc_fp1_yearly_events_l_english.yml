@@ -59,7 +59,7 @@
  fp1_yearly.0031.c:1 "次の訪問先でも、我々のもてなしを評価してくれ！"
  fp1_yearly.0041.t:0 "南からの探検隊"
  fp1_yearly.0041.desc:2 "[sponsoring_liege.GetPrimaryTitle.GetName]の[sponsoring_liege.GetTitledFirstName]からの探検家であり学者、使節である[explorer.GetFirstName]が、最近、私の領土を巡っている。博学で敬虔な[explorer.GetFaith.GetAdherentNameNoTooltip]である[explorer.GetSheHe]は、[explorer.GetHerHis]の経験を詳細に記録し、遠い世界での生活を報告するために[explorer.GetHerHis]の故郷に不定期に手紙を送っている。\n\n[explorer.GetFirstNameNoTooltip]は現在、[capital_barony.GetNameNoTierNoTooltip]に到着し、地元の風習を観察し、我々の最も賢明な長老たちと話すために、数日間の滞在許可を求めている。\n\n[explorer.GetHerHis]の要求は正式な作法ではあるものの、[explorer.GetFirstNamePossessiveNoTooltip]の口調は実際には#EMP 慇懃無礼#!というべきものだ。"
- fp1_yearly.0041.a:1 "あるいは、[explorer.GetSheHe]は我々の小さな汚点の一つを観察するかもしれない？"
+ fp1_yearly.0041.a:1 "もしかすると、[explorer.GetSheHe]は我々の些細な欠点を指摘してくれるのでは？"
  fp1_yearly.0041.a.tt_success:0 "儀式は[explorer.GetFirstNameNoTooltip]を感動させる"
  fp1_yearly.0041.a.tt_failure:0 "あなたの異教的な手法は[explorer.GetFirstNameNoTooltip]に不快感を抱かせる"
  fp1_yearly.0041.b:0 "この…[explorer.GetFaith.HighGodName]についてもっと教えてくれないか？"

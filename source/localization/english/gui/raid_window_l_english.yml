@@ -6,7 +6,7 @@
  RW_TT_LOOT:0 "#T 戦利品: [gold_i][Province.GetProvinceLoot|0V]\n#![raid|E]の終了時に略奪をした[realm|E]に与えられます。"
  RAID_PROGRESS_TOOLTIP:0 "#T 略奪の進行: [Raid.GetProgress|0]/[Raid.GetProgressNeeded|0]#!\n[Raid.GetRaidProgressTooltip]"
  RAID_TROOPS_TOOLTIP:0 "#T 兵士の数#!\n[raiding|E]軍: [Raid.GetAttackerMen|V]\n[garrison|E]: [Raid.GetDefenderMen|V]\n一日の進捗: [Raid.GetDailyProgressPercent|%1V]"
- RAID_BLOCKED_BY_COMBAT:0 "@warning_icon! #X Raiding army is in a [battle|E]#!"
+ RAID_BLOCKED_BY_COMBAT:0 "@warning_icon!#X 略奪部隊は[battle|E]中です#!"
  RAID_ON_ME_TOOLTIP:0 "#T 略奪されている#!\n[Character.GetShortUIName]によって略奪されている\n敵対行為は[GetPlayer.GetRaidHostilityEnd( Character.Self ).GetTimeDiffFromNow]後に終了予定\n\n#I クリックで人物を表示#!"
  RAID_BY_ME_TOOLTIP:0 "#T 略奪中#!\n[Character.GetShortUIName]を略奪中\n敵対行為は[GetPlayer.GetRaidHostilityEnd( Character.Self ).GetTimeDiffFromNow]後に終了予定\n\n#I クリックで人物を表示#!"
  RW_TT_DAILY_PROGRESS:0 "一日あたりの進展"
