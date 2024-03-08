@@ -16,7 +16,7 @@
  EPIDEMIC_INFECTION_IN_OWN_REALM: "領国の感染地域"
  EPIDEMIC_INFECTION_IN_OTHER_REALMS: "世界の感染地域"
  EPIDEMIC_HAS_INFECTED_NUM_PROVINCES: "感染している[baronies|E][GetDataModelSize( EpidemicInfectedRealm.GetInfectedProvinces )]"
- EPIDEMIC_WINDOW_INFECTION_RATE_TOOLTIP: "#T [infection_rate|E] in [Province.GetNameNoTooltip]: [ComplexBar.GetCurrentValue|V%/^]#!\nInfection Rate Tomorrow: [ComplexBar.GetNextValue|V%/^]\nMaximum Infection: [ComplexBar.GetMaxValue|V%/^]\nPlague Resistance: [Province.GetEpidemicResistance]"
+ EPIDEMIC_WINDOW_INFECTION_RATE_TOOLTIP: "#T [Province.GetNameNoTooltip]の[infection_rate|E]：[ComplexBar.GetCurrentValue|V%/^]#!\n明日の感染度：[ComplexBar.GetNextValue|V%/^]\n最大感染：[ComplexBar.GetMaxValue|V%/^]\n抵抗力：[Province.GetEpidemicResistance]"
  EPIDEMIC_AVERAGE_INFECTION_RATE_TOOLTIP: "#T [Title.GetNameNoTooltip]に於ける平均[infection_rate|E]：[EpidemicInfectedRealm.GetAverageInfection|V%/^]#!"
  HUD_EPIDEMICS_IN_REALM: "[epidemics|E] in your [realm|E]: [GetDataModelSize( InGameBottomBar.GetEpidemicsInRealm )|V]"
  HUD_EPIDEMICS_BORDERING_REALM: "近隣で流行している[epidemics|E]: [GetDataModelSize( InGameBottomBar.GetEpidemicsBorderingRealm )|V]"

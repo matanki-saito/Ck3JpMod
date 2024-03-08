@@ -296,7 +296,7 @@
  legend_chapter_extra_deed_memory: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip], however, did not stop there, for [ROOT.Legend.GetProtagonist.GetSheHe] went on and with great bravery [ROOT.Legend.MakeScope.Var('extra_deed_memory').CharacterMemory.GetThirdPerspectiveDescription]."
  legend_chapter_motivation_generic: "この地で囁かれる漠然とした噂を耳にした[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]は、成し難き目標を追求すると心に決めた。"
  legend_chapter_motivation_evil: "[ROOT.Legend.GetProtagonist.GetHerHim]は、民衆の嘆願でも土地を蝕む絶望でもなく、自らの抱く暗い欲望のために冒険を始めた。"
- legend_chapter_motivation_peasant: "絶望した貧しい農民が涙を流しながら謁見を求めると、敬虔なる[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]はその単眼を捨て置けず、すぐに冒険の旅に出た。"
+ legend_chapter_motivation_peasant: "絶望した貧しい農民が涙を流しながら謁見を求めると、敬虔なる[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]はその嘆願を捨て置けず、すぐに冒険の旅に出た。"
  legend_chapter_motivation_spouse: "ある朝、[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip|U]の配偶者が[ROOT.Legend.GetProtagonist.GetHerHim]のもとに憂慮すべき噂を携えてやってくると、[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]はすぐさま2人の永遠の愛を約束した。"
  legend_chapter_motivation_honor_lady: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip|U]は恋人と目を合わせた時、すべてを決意した。救いを求める声に耳を傾け、自らの勇気の程を証明せんと欲した[ROOT.Legend.GetProtagonist.GetSheHe]は冒険の旅に出た。"
  legend_chapter_discovery_generic: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip]は側近とともに[Localize( location )]を調査し、すぐに正確な位置を見出すことができた。"

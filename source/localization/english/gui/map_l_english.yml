@@ -137,7 +137,7 @@
  EPIDEMICS_MAP_MODE_TOOLTIP: "[ROOT.Province.GetEpidemicMapTooltip]"
  EPIDEMIC_PROVINCE_NO_TOOLTIP: "#T [Province.GetNameNoTooltip]#!\n如何なる伝染病も流行していない"
  EPIDEMIC_PROVINCE_ALL_INFECTIONS_TOOLTIP: "#T [Province.GetNameNoTooltip]で流行している伝染病#!\n$EPIDEMIC_NAMES$"
- EPIDEMIC_INFECTED_PROVINCE_TOOLTIP: "#T [Epidemic.GetNameNoTooltip] Infection in [Province.GetNameNoTooltip]#!\nInfection Rate: [Epidemic.GetInfectionDataIn( Province.Self ).GetInfectionRate|V%/^]\nOutbreak Start: [Epidemic.GetInfectionDataIn( Province.Self ).GetStartDate.GetString]"
+ EPIDEMIC_INFECTED_PROVINCE_TOOLTIP: "#T [Province.GetNameNoTooltip]における[Epidemic.GetNameNoTooltip]の感染#!\n感染度：[Epidemic.GetInfectionDataIn( Province.Self ).GetInfectionRate|V%/^]\n流行の開始：[Epidemic.GetInfectionDataIn( Province.Self ).GetStartDate.GetString]"
  EPIDEMIC_SAFE_PROVINCE_TOOLTIP: "#T [Province.GetNameNoTooltip]#!\nNot at risk of infection by [Epidemic.GetNameNoTooltip]"
  EPIDEMIC_RISK_PROVINCE_TOOLTIP: "#T [Province.GetNameNoTooltip]#!\nRisk of infection by [Epidemic.GetNameNoTooltip]: $SPREAD_CHANCE|V%/$"
  epidemics_MAP_MODE_TOOLTIP_CLICK_TO_SELECT: "\n#I Click to select [Province.GetHighestPriorityEpidemic.GetNameNoTooltip]#!"

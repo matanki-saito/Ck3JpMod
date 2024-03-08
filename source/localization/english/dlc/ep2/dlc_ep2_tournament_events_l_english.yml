@@ -540,7 +540,7 @@
  ep2_tournament_events.6502.c:0 "助けを探そう。"
  ep2_tournament_events.6502.d:0 "愚か者はもっとしがみついているべきだった"
  ep2_tournament_events.6503.t:2 "$tournament_contest_header$ ミスショット"
- ep2_tournament_events.6503.desc:2 "[competitor1.GetFirstName]が的に向かって近づき始めるのを、私は訓練された目で見守っていた。第一射は真っ直ぐに飛び、ドスンと的に命中。第二射はより遠くへ飛んだ。#EMP より大きく#!外れた。\n\n甲高い叫び声、不気味な悲鳴が空気をつんざく。二本めの矢は的を外しただけではなく、より遠くへ飛び、待機していた競技者たちのなかへ飛び込んでいったのだ。命中したのは、まさに[competitor2.GetFirstName]だった！\n\n群衆が被害者の[competitor2.GetWomanMan]に群がる。[competitor2.GetSheHe|U]は仰向けに倒れ、傷口を押さえ止血しようと無駄な努力をしていたが、矢はまだ手の半分ほどが体に深々と刺さったままだった。"
+ ep2_tournament_events.6503.desc:2 "[competitor1.GetFirstName]が的に向かって近づき始めるのを、私は鍛えられた目で見守っていた。第一射は真っ直ぐに飛び、ドスンと的に命中。第二射はより遠くへ飛んだ。#EMP より大きく#!外れた。\n\n甲高い叫び声、不気味な悲鳴が空気をつんざく。二本めの矢は的を外しただけではなく、より遠くへ飛び、待機していた競技者たちのなかへ飛び込んでいったのだ。命中したのは、まさに[competitor2.GetFirstName]だった！\n\n群衆が被害者の[competitor2.GetWomanMan]に群がる。[competitor2.GetSheHe|U]は仰向けに倒れ、傷口を押さえ止血しようと無駄な努力をしていたが、矢はまだ手の半分ほどが体に深々と刺さったままだった。"
  ep2_tournament_events.6503.a:0 "どけ！ 私は傷薬を持っている。"
  ep2_tournament_events.6503.b:1 "医師を呼べ！"
  ep2_tournament_events.6503.c:0 "私にはいっさい関係のない話だ。"

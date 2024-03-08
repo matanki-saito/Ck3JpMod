@@ -19,7 +19,7 @@
  defied_martial_custom_modifier:0 "軍事再編への反対"
  defied_martial_custom_desc:0 "この人物は不相応な剣士に剣を与えて社会風俗を無視した。"
  ep2_accolade_events.0300.t:0 "人々を喜ばせる者の信条"
- ep2_accolade_events.0300.desc:0 "朝食の席で隣合わせになった私の[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]である[master_of_revels.GetFirstName]は、廷臣に関する貴重な洞察で私を大いに楽しませ、壮大で不条理な物語りをし、そうして驚くべき量の飲み物や食べ物を消し去った。\n\n「人生の果実は至るところで待ち受けているのですよ、我が[ROOT.Char.GetTitleTierName]」[master_of_revels.GetSheHe]は言う。「枝で熟したそれを、何も考えずに追った者だけが味わうことができるのです」\n\n[master_of_revels.GetFirstNameNoTooltip]の人生の果実の楽しみ方については、皆の口の端に上るところだ。[master_of_revels.GetSheHe]は常に、無頓着に友情と魅力を引き寄せるのだ。\n\n"
+ ep2_accolade_events.0300.desc:0 "朝食の席で隣合わせになった我が[ROOT.Char.Custom('KnightCultureNoTooltipLowercase')]である[master_of_revels.GetFirstName]は、廷臣に関する貴重な洞察で私を大いに楽しませ、壮大で不条理な物語りをし、そうして驚くべき量の飲み物や食べ物を消し去った。\n\n「人生の果実は至るところで待ち受けているのですよ、我が[ROOT.Char.GetTitleTierName]」[master_of_revels.GetSheHe]は言う。「枝で熟したそれを、何も考えずに追った者だけが味わうことができるのです」\n\n[master_of_revels.GetFirstNameNoTooltip]の人生の果実の楽しみ方については、皆の口の端に上るところだ。[master_of_revels.GetSheHe]は常に、無頓着に友情と魅力を引き寄せるのだ。\n\n"
  ep2_accolade_events.0300.desc.both:0 "後継者の[new_reveler_2.GetFirstName]と私自身にとって、騒々しい刺激だ。"
  ep2_accolade_events.0300.desc.heir:0 "後継者の[new_reveler_2.GetFirstName]にとって騒々しい刺激だ。"
  ep2_accolade_events.0300.desc.liege:0 "自分自身に刺激を与えていることに気づいた。"

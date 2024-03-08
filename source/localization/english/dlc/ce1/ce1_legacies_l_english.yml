@@ -12,7 +12,7 @@
  ce1_heroic_legacy_5_effect: "あなたの[dynasty|E]で出現しやすくなるレベル5の[education|E][trait|E]を選択"
  has_legitimizing_access_tt: "[GetPlayer.GetDynasty.GetName]は$ce1_heroic_legacy_1_name$の[perk|E]を持たなければならない"
  has_legit_intent_access_tt: "[GetPlayer.GetDynasty.GetName]は$ce1_legitimacy_legacy_3_name$の[perk|E]を持たなければならない"
- ce1_heroic_legacy_1_useable_once: "この伝説の種は[dynasty|E]につき一度しか使えず、どのメンバーも使うことが出来ます。"
+ ce1_heroic_legacy_1_useable_once: "この伝説の根源は[dynasty|E]につき一度しか使えず、どのメンバーも使うことが出来ます。"
  ce1_legitimacy_legacy_track_name: "正統"
  ce1_legitimacy_legacy_track_desc: "支配する権利、実行する権力"
  ce1_legitimacy_legacy_track: "正統性の[dynasty_perk|E]"
