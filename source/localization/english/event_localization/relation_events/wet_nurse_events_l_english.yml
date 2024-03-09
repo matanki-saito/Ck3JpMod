@@ -286,7 +286,7 @@
  bp2_yearly.7025.a: "隠れて、潜むぞ。"
  bp2_yearly.7025.a_win: "気を散らした獣はあなたを見失う"
  bp2_yearly.7025.a_lose: "[teentribal.MakeScope.Var('animal_type').GetFlagName]は怒り狂ってあなたを襲う"
- bp2_yearly.7025.tt: "修行、[teentribal.MakeScope.Var('animal_type').GetFlagName]の襲撃"
+ bp2_yearly.7025.tt: "修行中の獣の襲撃"
  bp2_yearly.7025.b: "鋭い矢で[teentribal.MakeScope.Var('animal_type').GetFlagName]を追い出す！"
  bp2_yearly.7025.b_win: "矢が刺さった[teentribal.MakeScope.Var('animal_type').GetFlagName]は逃げさる"
  bp2_yearly.7025.b_lose: "無傷の[teentribal.MakeScope.Var('animal_type').GetFlagName]が襲ってくる"

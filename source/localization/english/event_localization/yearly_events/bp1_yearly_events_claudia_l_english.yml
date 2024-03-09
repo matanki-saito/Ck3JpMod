@@ -65,7 +65,7 @@
  bp1_yearly.1030.c_saved:0 "あなたは何とか攻撃者をかわす"
  bp1_yearly.1030.c_saved.tt:0 "あなたは攻撃者の攻撃をかわしました！"
  bp1_yearly.1030.c_killed:0 "あなたは殺される"
- bp1_yearly.1031.desc:0 "[rival.GetTitledFirstNamePossessive]が病で臥せっているとの報せが届いてから、居ても立っても居られなかった。とにかくこの目で見る必要がある。それでここまで来た。[rival.GetHerHis]がほとんど動かすベッドに横たわり、最後の力を振り絞って命にすがりつく姿を見ていると、心をかき乱されてしまう。"
+ bp1_yearly.1031.desc:0 "[rival.GetTitledFirstNamePossessive]が病で臥せっているとの報せが届いてから、居ても立っても居られなかった。とにかくこの目で見る必要がある。それでここまで来た。[rival.GetHerHis]がほとんど動かずベッドに横たわり、最後の力を振り絞って命にすがりつく姿を見ていると、心をかき乱されてしまう。"
  bp1_yearly.1031.desc_nemesis:0 "\n\nただすべての痛みと怒りを手放せば、もっと楽になるのでは？だがそれにしても、[nemesis.GetFirstNameNoTooltip]はこれほど弱く、これほど剝き出しの状態であったことはかつてなかった…[nemesis.GetHerHim]はまるで素手で#EMP 折れて#!しまうくらいに弱々しい姿だ…"
  bp1_yearly.1031.desc_rival:0 "\n\n「[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]よ、私のことが分かるか？」[rival.GetHerHis|U]の顔はわずかに動いて目を動かしたが、私を見据えることはなかった。"
  bp1_yearly.1031.desc_guard:0 "物思いに耽っていると、私は部屋の隅から[nemesis.GetFirstNamePossessiveNoTooltip]の[GetCourtPositionType('bodyguard_court_position').GetName()]である[guard.GetTitledFirstName]の冷たい目がじっとこちらを見ていることに注意深く気づく。"

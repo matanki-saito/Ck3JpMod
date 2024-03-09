@@ -9,7 +9,7 @@
  PROMOTE_LEGEND_BUTTON_NOT_BLOCKED_TT: "[Legend.GetOwner.GetNamePossessive]の伝説が始まる。[AddLine( '#D what else do we put here?#!' )]"
  PROMOTE_LEGEND_BUTTON_BLOCKED_TT: "[Legend.GetOwner.GetNamePossessive]の伝説が始まった。[AddLine( AddLine( '#X You cannot start this legend:#!' ) )][AddLine( GetCommandDesc( GetPlayer.StartPromotingLegend( Legend.Self ) ) )]"
  OPEN_CHRONICLE_BUTTON_TT: "#T 年代記を開く#!"
- PROMOTED_LEGEND: "[Select_CString( ObjectsEqual( Legend.GetOwner.Self, GetPlayer.Self ), 'Promoting Own Legend', 'Promoting Legend')]"
+ PROMOTED_LEGEND: "[Select_CString( ObjectsEqual( Legend.GetOwner.Self, GetPlayer.Self ), '自分の流布している伝説', '流布している伝説')]"
  PROMOTED_LEGEND_EMPTY: "あなたは[legend|E]を[promoting_legend|El]していない"
  PROMOTED_LEGEND_EMPTY_INSTRUCTION: "[legend_seed|E]リストから伝説を開始する\nあるいは既存の[legend|E]の中から普及させたいものを探す"
  FOCUSED_LEGEND: "選択された伝説"

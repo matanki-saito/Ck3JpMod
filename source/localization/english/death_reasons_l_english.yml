@@ -168,7 +168,7 @@
  death_starved_killer:0 "[TARGET_CHARACTER.GetUIName]によって飢えで殺された"
  death_while_assassinating:0 "暗殺を企てて斬り倒された"
  death_while_assassinating_killer:0 "[TARGET_CHARACTER.GetUIName]に暗殺を企てて斬り倒された"
- death_refused_to_be_imprisoned:0 "捕まるくらいなら自分で首を斬る"
+ death_refused_to_be_imprisoned:0 "捕虜になる前に首を切って自害した"
  death_strongest_potion:0 "彼らにとって強すぎる薬を飲んだ"
  death_strongest_potion_killer:0 "[TARGET_CHARACTER.GetUIName]が作った強すぎる薬を飲んでしまった"
  death_skull_removed:0 "[CHARACTER.GetHerHis]の頭蓋骨を切除した"
