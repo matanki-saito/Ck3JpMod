@@ -23,7 +23,7 @@
  feast_default.1005.desc_friendly_guest:0 "\n\n少なくとも、[friendly_guest.Custom2('MyCharacterIntroduction', ROOT.Char )]がここにいてくれて良かった。"
  feast_default.1005.a:0 "どこかに一人きりになれる場所があるはずだ。"
  feast_default.1005.b:0 "[friendly_guest.GetFirstNameNoTooltip]、私をこの獣たちと置いていかないでくれ！"
- feast_default.1005.c:0 "\"うーん、あ... その... すごい天気ですね？\""
+ feast_default.1005.c:0 "「うーん、あ... その... すごい天気ですね？」"
  feast_default.1006.table_companions:0 "私の近くに座っている全員"
  feast_default.1006.t:1 "くつろげる宴席"
  feast_default.1006.desc:0 "ああ、宴会ほど素晴らしいものはない！人生の素晴らしいもの全てを思い出させてくれるし、仲間も悪いものではない！少なくとも私の側にいる者たちはそう思っているように見える。\n\n「[ROOT.Char.GetFirstNameNoTooltip]様は特別な存在です」と、[guest_1.GetTitledFirstName]が私に告げる。[guest_2.GetTitledFirstName]と[guest_3.GetTitledFirstName]が大きくうなずく。"

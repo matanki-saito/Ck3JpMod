@@ -40,7 +40,7 @@
  warhorse.1201.b_bad:1 "[ROOT.Char.Custom('WarhorseStoryName')]は病死してしまった"
  warhorse.1301.t:1 "[ROOT.Char.Custom('WarhorseStoryName')|U]: 馬の愛好家"
  warhorse.1301.desc:1 "[horse_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[ROOT.Char.Custom('WarhorseStoryName')]のアップダウンの走りを見て満足そうにうなずいた。\n\n「これはとても素晴らしい[ROOT.Char.Custom('HorseStoryMareStallion')]ですね。我が[ROOT.Char.GetTitleTierName]！もし私にも[ROOT.Char.Custom('HorseStoryHerHim')]に乗ることを許していただけたら、とても感謝いたします。」"
- warhorse.1301.a:0 "楽しんでください！"
+ warhorse.1301.a:0 "楽しまれよ！"
  warhorse.1301.a.tt:0 "[THIS.Char.Custom('WarhorseStoryName')]は荒馬で力がいる。そして[horse_vassal.GetFirstNameNoTooltip]の力で平気なのか？——[horse_vassal.GetSheHe]は大丈夫なのだろうか？"
  warhorse.1301.b:0 "[ROOT.Char.Custom('WarhorseStoryName')]に乗るのは私だけだ！"
  warhorse.1401.t:1 "[ROOT.Char.Custom('WarhorseStoryName')|U]: 馬の恐怖"

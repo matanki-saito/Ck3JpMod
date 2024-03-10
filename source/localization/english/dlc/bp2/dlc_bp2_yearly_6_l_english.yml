@@ -355,7 +355,7 @@
  bp2_yearly.6130.desc: "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('kin'))][kin.GetFirstName]と人質の[hostage.GetName]は堅固な絆を、信頼に足る親友関係を育んでいるようだ。\n\n[hostage.GetFirstNameNoTooltip]が故郷を恋しがっていると、いつも[kin.GetFirstNameNoTooltip]が励ましてくれる。[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('kin'))]が時折、その地位の重荷を感じていると、[hostage.GetFirstNameNoTooltip]が一緒にその責務を負ってくれる。\n\n喜びを分け合う二人の子供を見ていると、これから訪れる別れを憐れまずにはいられない。いつの日か、[hostage.GetFirstNamePossessiveNoTooltip]の肉親との人質協定は終わってしまうのだ…"
  bp2_yearly.6130.a: "「常に支え合うことを誓う。」"
  bp2_yearly.6130.a.tt: "二つの宮廷を跨ぐ絆...それは育むべきものなのだろうか？"
- bp2_yearly.6130.b: "\"親族への愛は何よりも優先されるべきだ！\""
+ bp2_yearly.6130.b: "「親族への愛は何よりも優先されるべきだ！」"
  bp2_yearly.6130.b.tt: "いつもそばにいてくれる人と遊びに行こう。"
  bp2_yearly.6130.family_opinion: "[kin.GetShortUIName]はその[close_family|E]からの[opinion|E]を#P 30#!獲得します"
  bp2_yearly.6130.alliance: "両者が[rulers|E]になった際、[kin.GetShortUIName]と[hostage.GetShortUIName]は[alliance|E]交渉が出来ます"

@@ -214,7 +214,7 @@
  unity_has_liberate_house_members_cb_name: "[fp3_free_house_member_cb|E]"
  house_unity_parameter_unity_has_unify_house_cb: "[fp3_unify_house_cb|E]の[casus_belli|E]を解禁"
  unity_has_unify_house_cb_name: "[fp3_unify_house_cb|E]"
- HAS_HOUSE_UNITY_STAGE_GLOBAL: "[house_unity|E]は@dynasty_house_unity_[HouseUnityStage.GetKey]!の[HouseUnityStage.GetName|V]だ"
+ HAS_HOUSE_UNITY_STAGE_GLOBAL: "[house_unity|E]は@dynasty_house_unity_[HouseUnityStage.GetKey]![HouseUnityStage.GetName|V]だ"
  I_HAVE_HOUSE_UNITY_STAGE_GLOBAL: "[house_unity|E]は@dynasty_house_unity_[HouseUnityStage.GetKey]!の[HouseUnityStage.GetName|V]だ"
  THEY_HAVE_HOUSE_UNITY_STAGE_GLOBAL: "[DYNASTY_HOUSE.GetBaseName|V][house|E]の[house_unity|E]は@dynasty_house_unity_[HouseUnityStage.GetKey]![HouseUnityStage.GetName|V]"
  NOT_HAS_HOUSE_UNITY_STAGE_GLOBAL: "[house_unity|E]は@dynasty_house_unity_[HouseUnityStage.GetKey]!の[HouseUnityStage.GetName|V]#bold ではない#!"

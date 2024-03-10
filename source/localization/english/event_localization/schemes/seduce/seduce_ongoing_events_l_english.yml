@@ -448,7 +448,7 @@
  seduce_ongoing.5202.b:0 "友達同士というよりは、愛人同士がする事のようだな。"
  seduce_ongoing.5203.desc:0 "[target.GetFirstName]は快く私のそばに立ち、噴水にコインを投げ入れ、私の視線に笑顔で応えてくれた。\n\n残りの道ゆきは、私たち共通の願いがもたらす親密な雰囲気に包まれた。"
  seduce_ongoing.5203.a:0 "[target.GetSheHe|U]は本当に[target.Custom2('ComplimentAdjectiveArticle', ROOT.Char)][target.GetWomanMan]だ！"
- seduce_ongoing.5204.desc:0 "「何のくだらない遊び、[ROOT.Char.GetFirstNameNoTooltip]？\"\n\n[target.GetFirstName]はロマンスを願う私の頼みを断る。散歩の残りの時間は緊張した沈黙で過ぎ、すぐに別れを告げた。"
+ seduce_ongoing.5204.desc:0 "「何のくだらない遊び、[ROOT.Char.GetFirstNameNoTooltip]？」\n\n[target.GetFirstName]はロマンスを願う私の頼みを断る。散歩の残りの時間は緊張した沈黙で過ぎ、すぐに別れを告げた。"
  seduce_ongoing.5204.a:0 "私の気分は噴水の深みのように暗くかわった…"
  seduce_ongoing.5205.desc:0 "わが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))][owner.GetFirstName]と私が[court_location.GetNameNoTier]の[court_location.Custom('BaronyTownType')]を通るとき昔の話をした。\n\n「お互い一緒に夜遅くまで居残っていた頃のことを覚えていますか？将来の計画を立てたり、共有するものを想像したり...」"
  seduce_ongoing.5205.a:0 "どうして忘れられようか？"
