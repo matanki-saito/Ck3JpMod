@@ -148,3 +148,21 @@
  ravaged_by_plague_tt: "All [counties|E] between #high 20#! and #high 30#! [development|E]"
  blighted_by_plague_tt: "All [counties|E] between #high 15#! and #high 20#! [development|E]"
  struck_by_plague_tt: "All [counties|E] between #high 10#! and #high 15#! [development|E]"
+
+ epidemic_saint_veronica_evil: "Saint Veronica's Evil"
+ epidemic_penge_plague: "Penge Plague"
+ epidemic_twin_cods_revenge: "Twin Cods' Revenge"
+ epidemic_bonifacy_gift: "Bonifacy's Gift"
+ epidemic_mitcheldean_malaise: "Mitcheldean Malaise"
+ epidemic_bydgoszczanka: "Bydgoszczanka"
+ epidemic_torunianka: "Torunianka"
+ epidemic_gannholm_grievance: "Gannholm's Grievance"
+ epidemic_napolna_zaraza: "Napolna Zaraza"
+ epidemic_ligma: "Ligma"
+ epidemic_green_death: "Green Death"
+ epidemic_raqguul_plague: "Raqguul Plague"
+ epidemic_saturday_night_fever: "Saturday Night Fever"
+ epidemic_cooties: "Cooties"
+
+
+

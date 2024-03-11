@@ -1147,6 +1147,9 @@
  doesnt_employ_court_physician_desc: "The [culture|E] does not have #high 5#! [rulers|E] employing a [GetCourtPositionType('court_physician_court_position').GetName()]"
  cheaper_tradition_physician_or_whole_of_body: "You have the [GetTrait('lifestyle_physician').GetName( GetNullCharacter )] or [GetTrait('whole_of_body').GetName( GetNullCharacter )] [traits|E]"
  cheaper_tradition_norse_washing: "$heritage_north_germanic_name$ [heritage|E]"
+ culture_parameter_always_unlock_legendary_hunting_lodge: "[SelectLocalization( HasDlcFeature( 'legends' ), 'culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC', 'culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC' )]"
+ culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC: ""
+ culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "[rulers|E] of this [culture|E] can always construct a $building_type_legendary_hunting_lodge$ after completing a [legend|E]"
  
 
  #BP2 Traditions

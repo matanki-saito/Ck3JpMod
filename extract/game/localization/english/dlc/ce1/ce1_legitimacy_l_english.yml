@@ -53,3 +53,4 @@
  reduced_title_creation_cost: "Slightly #positive_value Reduced#! [de_jure|E] [counties|E] needed for creating a [title|E]"
  very_reduced_title_creation_cost: "#positive_value Reduced#! [de_jure|E] [counties|E] needed for creating a [title|E]"
  extra_reduced_title_creation_cost: "Greatly #positive_value Reduced#! [de_jure|E] [counties|E] needed for creating a [title|E]"
+ married_lowborn_toast: "Married a [lowborn|E]"

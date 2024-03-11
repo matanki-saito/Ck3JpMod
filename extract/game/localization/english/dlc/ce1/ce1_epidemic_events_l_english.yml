@@ -499,7 +499,7 @@
 
  epidemic_events.5906.t: "Roaming, Raving"
  epidemic_events.5906.desc: "The guards are usually not quite so forthright when it comes to disturbing me in my council chambers, but today they burst in readily, my marshal [marshal.GetFirstName] at their head. Behind them, being dragged along unceremoniously, is a pitiful figure with wide eyes and what appears to be a whip clasped tightly in [flagellant.GetHerHis] hands.\n\n"We found [flagellant.GetHerHim] in [doomsday_province.GetName], wandering the streets, beating [flagellant.GetHerselfHimself] bloody with that thing." [marshal.GetFirstNameNoTooltip|U] indicates the whip. "[flagellant.GetSheHe|U] is giving the locals the frights of their lives, ranting about how the mighty pestilence is on its way to us and we must all repent.""
- epidemic_events.5906.a: ""You and your type are destroying the [ROOT.Char.GetFaith.GetNameNoTooltip] faith!""
+ epidemic_events.5906.a: ""You and your type are destroying the [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] faith!""
  epidemic_events.5906.a.tt.success: "You successfully argue your point"
  epidemic_events.5906.a.tt.failure: "The flagellant remains resolute"
  epidemic_events.5906.b: "Perhaps [flagellant.GetSheHe] has a point..."
