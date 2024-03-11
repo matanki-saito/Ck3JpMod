@@ -36,6 +36,6 @@
  EPIDMIC_TOOLTIP_DOMAIN_INFECTIONS: "[domain|E]の感染：#high [Epidemic.CalcDomainInfected( GetPlayer )]/[GetPlayer.GetDomainSize]#!"
  EPIDEMIC_TOOLTIP_COURT_PHYSICIAN: "[GetCourtPositionType('court_physician_court_position').GetName]の雇用や[epidemic_resistance|E]を上げる[buildings|E]を建てることで病気の拡散を防ぐことが出来ます。"
  EPIDEMIC_TOOLTIP_OUTBREAK: "[Epidemic.GetOutbreakStartDate.GetString]から[Epidemic.GetStartingOutbreakProvince.GetName]で流行している"
- EPIDEMIC_TOOLTIP_CHANCE_OF_INFECTION_CHARACTER_LOCATION: "[GetPlayer.GetCurrentLocation.GetName]で[EpidemicType.GetTrait.GetName( GetPlayer )][Concept( 'illness', 'Contracting' )|E]の可能性：[Epidemic.CalcInfectionChance( GetPlayer, GetPlayer.GetCurrentLocation )|V%/^]"
- EPIDEMIC_TOOLTIP_CHANCE_OF_INFECTION_SPECIFIC_PROVINCE: "[Province.GetName]で[EpidemicType.GetTrait.GetName( GetPlayer )][Concept( 'illness', 'Contracting' )|E]の可能性：[Epidemic.CalcInfectionChance( GetPlayer, Province.Self )|V%/^]"
+ EPIDEMIC_TOOLTIP_CHANCE_OF_INFECTION_CHARACTER_LOCATION: "[GetPlayer.GetCurrentLocation.GetName]で[EpidemicType.GetTrait.GetName( GetPlayer )]を[Concept( 'illness', '発症' )|E]する可能性：[Epidemic.CalcInfectionChance( GetPlayer, GetPlayer.GetCurrentLocation )|V%/^]"
+ EPIDEMIC_TOOLTIP_CHANCE_OF_INFECTION_SPECIFIC_PROVINCE: "[Province.GetName]で[EpidemicType.GetTrait.GetName( GetPlayer )]を[Concept( 'illness', '発症' )|E]する可能性：[Epidemic.CalcInfectionChance( GetPlayer, Province.Self )|V%/^]"
  EPIDEMIC_GO_TO: "#T 感染地に向かう#!"

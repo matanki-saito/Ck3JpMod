@@ -1057,4 +1057,4 @@
  cheaper_tradition_norse_washing: "$heritage_north_germanic_name$[heritage|E]"
  culture_parameter_always_unlock_legendary_hunting_lodge: "[SelectLocalization( HasDlcFeature( 'legends' ), 'culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC', 'culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC' )]"
  culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC: ""
- culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "[rulers|E] of this [culture|E] can always construct a $building_type_legendary_hunting_lodge$ after completing a [legend|E]"
+ culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "この[culture|E]の[rulers|E]は、[legend|E]を完遂させた後$building_type_legendary_hunting_lodge$を建設することがいつでも可能です"
