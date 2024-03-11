@@ -1055,3 +1055,6 @@
  doesnt_employ_court_physician_desc: "この[culture|E]で[GetCourtPositionType('court_physician_court_position').GetName()]を雇っている[rulers|E]が#high 5人#!未満である"
  cheaper_tradition_physician_or_whole_of_body: "あなたは[GetTrait('lifestyle_physician').GetName( GetNullCharacter )]か[GetTrait('whole_of_body').GetName( GetNullCharacter )]の[traits|E]を持つ"
  cheaper_tradition_norse_washing: "$heritage_north_germanic_name$[heritage|E]"
+ culture_parameter_always_unlock_legendary_hunting_lodge: "[SelectLocalization( HasDlcFeature( 'legends' ), 'culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC', 'culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC' )]"
+ culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC: ""
+ culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "[rulers|E] of this [culture|E] can always construct a $building_type_legendary_hunting_lodge$ after completing a [legend|E]"

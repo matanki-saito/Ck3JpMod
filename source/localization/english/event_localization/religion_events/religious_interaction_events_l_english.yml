@@ -60,7 +60,7 @@
  religious_interaction.2003.a:0 "私はただあなたの救済を望んだのだ。"
  religious_interaction.2003.b:0 "まあ、この世界ではその代償を支払うことになるだろう！"
  religious_interaction.2003.c:0 "こんなことでおまえを開放すると思うなよ！"
- religious_interaction.2003.d:0 "ああ、あなたは私の言うことを正確に信じてくれると思っている。"
+ religious_interaction.2003.d:0 "その気になればあなたの信仰ごとき私の思うがままだ。"
  religious_interaction.2011.desc:0 "喜んでご一緒させて頂きたいのですが、[recipient.GetFaith.HouseOfWorshipPlural]の改修費と、農民の間で布教活動をするための費用が…\n\nもしこれらの取り組みに費用を捻出して頂けるのであれば、私は喜んであなたの[ROOT.Char.GetFaith.HighGodName]のために祈りましょう。"
  religious_interaction.2011.a:0 "信仰のためなら何でもしよう。"
  religious_interaction.2011.b:0 "あなたの永遠の救いのために金を出す気はない！"

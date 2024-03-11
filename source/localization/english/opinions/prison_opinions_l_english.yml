@@ -8,7 +8,7 @@
  demanded_recruitment:0 "強制的に雇用された"
  ransomed_from_prison:0 "最近釈放された"
  abductor_opinion:0 "誘拐犯"
- attempted_murder_opinion:0 "殺人計画"
+ attempted_murder_opinion:0 "殺害未遂"
  escaped_from_prison_opinion:0 "脱獄した"
  escaped_from_prison_crime:0 "脱獄した"
  imprisoned_me_past: "私を投獄した"

@@ -53,3 +53,4 @@
  reduced_title_creation_cost: "[title|E]を創設するのに必要な[de_jure|E][counties|E]が僅かに#positive_value 減少#!"
  very_reduced_title_creation_cost: "[title|E]を創設するのに必要な[de_jure|E][counties|E]が#positive_value 減少#!"
  extra_reduced_title_creation_cost: "[title|E]を創設するのに必要な[de_jure|E][counties|E]が大きく#positive_value 減少#!"
+ married_lowborn_toast: "Married a [lowborn|E]"

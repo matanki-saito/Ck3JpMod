@@ -41,3 +41,4 @@
  tournament_invite_flavor_very_good_prizes:0 "\n勝ち抜きし者にはその栄誉に相応しい精緻な商品が与えられることだろう！\n"
  tournament_invite_flavor_splendid_prizes:0 "\n私の領国で最高の職人による真の芸術作品である、至高の賞品のみが提供される。\n"
  NOT_activity_invite_max_num_guests:0 "[CHARACTER.GetShortUIName]を活動に追加できません、すでに満員です！"
+ REASON_NOT_A_WITCH: "You are not a Witch"

@@ -35,7 +35,7 @@
  ACTIVITY_LIST_DETAIL_JOIN_EFFECTS:1 "あなたは$ACTIVITY_CURRENT_LOCATION$における[Activity.GetNameNoTooltip]に参加します\n[Activity.GetGuestDescription( GetPlayer )]"
  ACTIVITY_LIST_DETAIL_JOIN_CONFIRM:0 "[Activity.GetNameNoTooltip]に参加"
  ACTIVITY_LIST_DETAIL_JOIN_PHASES_HEADER:0 "[activity_phases|E]"
- ACTIVITY_LIST_DETAIL_JOIN_LOCATION:0 "$ACTIVITY_CURRENT_LOCATION$の開催"
+ ACTIVITY_LIST_DETAIL_JOIN_LOCATION:0 "開催：$ACTIVITY_CURRENT_LOCATION$"
  ACTIVITY_LIST_DETAIL_JOIN_TRAVEL_TIME:0 "移動時間: #V ~[GetTimeDifferenceWithDays( ActivityListDetailJoinView.GetEstimatedTravelTime )]#!"
  ACTIVITY_LIST_INVITATION:1 "[Activity.GetHost.Custom2( 'AppropriateGreeting', GetPlayer )]\n[Activity.GetHost.Custom2('GetInviteToActivityFlavor', GetPlayer)][Activity.GetHost.Custom2('GetTournamentPrizeFlavor', GetPlayer)]"
  ACTIVITY_LIST_INVITATION_SIGNATURE:0 "署名\n#font:TitleFont [Character.GetUINameNoTooltip]#!"
