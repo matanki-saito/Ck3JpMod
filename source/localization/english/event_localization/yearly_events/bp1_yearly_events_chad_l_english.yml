@@ -51,7 +51,7 @@
  bp1_yearly.3007.desc.tapestry:0 "[spouse.GetFirstNameNoTooltip]は、ためらいつつも部屋の調度品について指摘する。\n「このむき出しの石壁を見て、あなたは少しも腹が立たないのですか？ この部屋に必要なものははっきりしています。#EMP タペストリー#!です！」\n\n「我が[spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))]は裁縫の技術に#EMP 優れています#!。"
  bp1_yearly.3007.desc.regalia:0 "[spouse.GetFirstNameNoTooltip]は、ためらいつつも私の外見について指摘する。\n「我が[spouse.Custom2('RelationToMeShort', ROOT.Char)]よ、あなたは強大で力強い[ROOT.GetCharacter.GetTitleAsNameNoTooltip|l]です、しかしまだあなたに値する敬意を払っていない者たちもいます。 あなたには自身の権威を示すものが必要なのです！」\n\n「私の[spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))]は、あなたの地位を反映した#EMP 素晴らしい#!レガリアを作ることができるでしょう。"
  bp1_yearly.3007.desc.conc:0 "[inspired_family_member.GetHerHim]を後援し、[inspired_family_member.GetHerHis]の作品がどれほどあなたの気分を向上させるかを御覧なさい！」"
- bp1_yearly.3007.a.tapestry:0 "「私も全く同じことを考えていた！これはひどい！」"
+ bp1_yearly.3007.a.tapestry:0 "「同じことを考えていたところよ！一本取られたな！」"
  bp1_yearly.3007.a.regalia:0 "「そろそろ尊敬の念を集めても良い頃だ！」"
  bp1_yearly.3007.b:0 "「そんな贅沢をしている余裕はない…」"
  bp1_yearly.3100.t:0 "廷臣と友の間で"

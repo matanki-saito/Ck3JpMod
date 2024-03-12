@@ -29,7 +29,7 @@
  bp2_yearly.8053.b: "その言葉は[ROOT.Char.GetHouse.GetNameNoTooltip]だけが口にしていいものだ！"
  bp2_yearly.8054.t: "[ROOT.Char.GetHouse.GetNameNoTooltip|U]の伝説"
  bp2_yearly.8054.desc: "私は[hostage.GetFirstName]と二人になる貴重な機会を見つけ、いつものように世俗的なことや宗教的な事柄について説いたが、[hostage.Custom('GirlBoy')]は何か別の事を考えているようだ。\n\n「[ROOT.Char.Custom('GetAuntUncle')]様、私はあなたの栄光あるお家の虜になってしまいました。どうか私に何か[ROOT.Char.GetHouse.GetNameNoTooltip]家の伝説をお聞かせいただけないでしょうか？」"
- bp2_yearly.8054.a: "[ROOT.Char.GetHouse.GetFounder.GetNameNoTooltip]をご存知ですか？"
+ bp2_yearly.8054.a: "[ROOT.Char.GetHouse.GetFounder.GetNameNoTooltip]という者を聞いたことはあるかな？"
  bp2_yearly.8054.b: "私自身、何かしら伝説的な存在である。"
  bp2_yearly.8054.b.success: "[hostage.GetFirstName]はあなたの話に感動している"
  bp2_yearly.8054.b.failure: "[hostage.GetFirstName]はあなたを信じていない"

@@ -76,7 +76,7 @@
  ACHIEVEMENT_DESC_turning_to_diamonds_achievement:1 "[stress_level|E]が最高レベルに到達する"
  ACHIEVEMENT_DESC_reconquista_achievement:0 "イベリアのキリスト教君主として開始し、イベリア全土をキリスト教に改宗させる"
  ACHIEVEMENT_DESC_seven_holy_cities_achievement:1 "ヒンドゥー教の君主として、七つ全てのヒンドゥー教の[holy_sites|E]を同時に保有する"
- ACHIEVEMENT_DESC_frankokratia_achievement:2 "フランスのカトリック教徒として、ビザンツ帝国を保持したり、ビザンツ帝国に臣従したりせずに、$k_thessalonika$[kingdom|E]を保持し[completely_control|E]する"
+ ACHIEVEMENT_DESC_frankokratia_achievement:2 "フランス人のカトリック教徒として、ビザンツ帝国を保持したり、ビザンツ帝国に臣従したりせずに、$k_thessalonika$[kingdom|E]を保持し[completely_control|E]する"
  ACHIEVEMENT_DESC_celebrity_achievement:1 "[prestige_level|E]が最高レベルに到達する"
  ACHIEVEMENT_DESC_saint_achievement:1 "[piety_level|E]が最高レベルに到達する"
  ACHIEVEMENT_DESC_keeping_it_in_the_family_achievement:2 "近親交配の[trait|E]を持つ[child|E]が産まれる。$rd_character_blocked_from_achievement$"

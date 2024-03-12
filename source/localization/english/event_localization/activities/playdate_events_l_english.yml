@@ -244,7 +244,7 @@
  playdate.5009.c.success: "暴れている子供たちは注目する"
  playdate.5009.c.failure: "あなたの言葉は左の耳から右の耳へ。"
  playdate.5010.t: "私の[embarrassed_child.Custom('GirlBoy')|U]になれ！"
- playdate.5010.desc: "「彼だ！彼女を壁まで押せ！行けえ！」[obnoxious_parent.GetFirstNamePossessive]の声が中庭に響く。[obnoxious_parent.GetSheHe|U]は隅まで指示を出すが、サッカーで遊ぶ[embarrassed_child.Custom('GirlBoy')]である[embarrassed_child.GetFirstName]に何やら色眼鏡をかけているのは明らかだ。\n\nなんというか、[obnoxious_parent.GetFirstNameNoTooltip]は#EMP ちょっと#!過敏すぎる。\n\n「おい！その子を押しのけたな！ズルだろ！」[obnoxious_parent.GetFirstNamePossessiveNoTooltip]はおおげさだしイライラしているし、なんなんだ。"
+ playdate.5010.desc: "「彼だ！いや、彼女を壁まで押せ！行けえ！」[obnoxious_parent.GetFirstNamePossessive]の声が中庭に響く。[obnoxious_parent.GetSheHe|U]はいちいち口出しして、サッカーで遊ぶ我が子である[embarrassed_child.GetFirstName]を依怙贔屓している。\n\nなんというか、この大人は#EMP ちょっと#!過敏すぎる気もする。\n\n「おい！その子を押しのけたな！ズルだろ！」[obnoxious_parent.GetFirstNamePossessiveNoTooltip]はおおげさだしイライラしているし、なんなんだ。"
  playdate.5010.a: "[obnoxious_parent.GetHerHis|U]の腕、出来損ないの風車みたいだな…"
  playdate.5010.a_flavor: "[obnoxious_parent.GetFirstNameNoTooltip]が私を殴ったふりをしてみるか。"
  playdate.5010.a.tt: "私に腕が当たった振りをしたら[obnoxious_parent.GetSheHe]は気まずい顔してどこかに行くんじゃないか？"
