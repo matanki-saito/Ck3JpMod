@@ -97,7 +97,7 @@
  feast_default.2006.c:0 "こんなふうに人に付きまとわれるのは我慢できない！"
  feast_default.2006.d:0 "頼むから、向こうに行ってくれ！"
  feast_default.2007.t:1 "暴露された関係"
- feast_default.2007.desc:0 "大広間に大きな音が響き、通用口の扉の一つが壊れた。\n\nほとんど裸に近い恰好で我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_1') )]である[lover_guest_1.GetTitledFirstName]と我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_2') )]である[lover_guest_2.GetTitledFirstName]が転げ落ちるように衆目の前に現れた。"
+ feast_default.2007.desc:0 "大広間に大きな音が響き、通用口の扉の一つが壊れた。\n\nほとんど裸に近い恰好で我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_1') )]である[lover_guest_1.GetTitledFirstName]と[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_2') )]である[lover_guest_2.GetTitledFirstName]が転げ落ちるように衆目の前に現れた。"
  feast_default.2007.a_chaste:0 "とても見ていられない！"
  feast_default.2007.a_lustful:0 "#EMP 考えても#!みろ！彼らがなにをしようとしていたのか…！"
  feast_default.2007.a_sadistic:0 "ははっ！これは面白い！"

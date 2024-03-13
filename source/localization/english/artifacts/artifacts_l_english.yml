@@ -387,7 +387,7 @@
  artifact_armor_shield_uppercase:0 "盾"
  artifact_armor_descriptor_shiny:0 "輝ける"
  artifact_armor_descriptor_flexible:0 "しなやかな"
- artifact_armor_descriptor_powerful:0 "屈強"
+ artifact_armor_descriptor_powerful:0 "強靭なる"
  feature_artifact_armor_descriptor_shiny:0 "$artifact_armor_descriptor_shiny$"
  feature_artifact_armor_descriptor_lustrous:0 "輝ける"
  feature_artifact_armor_descriptor_burnished:0 "磨き上げられた"

@@ -15,7 +15,7 @@
  hunt_killed_local_madman_modifier:1 "領民の殺害"
  hunt_talked_to_madman_modifier:1 "領民の相談に乗る"
  hunt_peasants_denied_forest_modifier:0 "森を奪われた農民"
- hunt_peasants_denied_forest_modifier_desc:0 "この伯爵領の農民は、森林での採食の権利を否定されている。"
+ hunt_peasants_denied_forest_modifier_desc:0 "この伯爵領の農民は、森林での採餌の権利を否定されている。"
  hunt_peasants_hunted_modifier:0 "狩られた農民"
  hunt_peasants_hunted_modifier_desc:0 "この領内で言葉に絶する光景が起こった為、農民たちは定住することを恐れています。"
  hunt_aided_peasants_modifier:0 "援助された農民"

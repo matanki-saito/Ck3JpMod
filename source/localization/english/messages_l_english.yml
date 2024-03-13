@@ -453,7 +453,7 @@
  grand_wedding_cancelled_by_regency_desc:0 "[diarch.GetTitledFirstName]は[diarch.GetLiege.GetTitledFirstNamePossessive]の[regent|E]となり、もはや[betrothed.GetTitledFirstName]との[diarch.GetHerHis]の[GetActivityType('activity_wedding').GetName]に参加しません"
  msg_free_house_member_war_invalidated_message: "[war.GetName]は終わった。[defender.GetTitledFirstName]はもはや[attacker.GetHouse.GetBaseNameNoTooltip][house|E]の一員を投獄していない"
  msg_unify_house_war_invalidated_message: "[war.GetName]は終わった。[defender.GetTitledFirstName]は[attacker.GetHouse.GetBaseNameNoTooltip][house|E]の封臣を投獄していない"
- msg_house_unity_change_stage: "家の結束レベルを変える"
+ msg_house_unity_change_stage: "家の結束レベルが変わった"
  msg_house_unity_change_stage_desc: "[house_unity|E]が$HOUSE_UNITY_STAGE_NAME|U$レベルになった"
  msg_house_unity_change_stage_tt: "$msg_house_unity_change_stage_desc$"
  msg_legend_promoter_join: "伝説の後援者が増えた"
