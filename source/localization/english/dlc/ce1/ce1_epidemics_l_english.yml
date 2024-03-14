@@ -12,7 +12,7 @@
  game_concept_infection_rates: "感染度"
  game_concept_infection_rates_desc: "$game_concept_infection_rate_desc$"
  game_concept_epidemic_resistance: "伝染病への抵抗力"
- game_concept_epidemic_resistance_desc: "$game_concept_epidemic_resistance$は、[barony|E]または[county|E]の[infection_rate|E]を下げ、[epidemic|E]の影響を軽減する。\n\n$game_concept_epidemic_resistance$は$building_type_hospices_01$または$building_type_burial_site_01$ #weak ([duchy_building|E])#!、[court_position_tasks|E]のような[buildings|E]、$court_physician_court_position$、[decisions|E]またはイベントによって増減します。"
+ game_concept_epidemic_resistance_desc: "$game_concept_epidemic_resistance$は、[barony|E]または[county|E]の[infection_rate|E]を下げ、[epidemic|E]の影響を軽減します。\n\n$game_concept_epidemic_resistance$は$building_type_hospices_01$または$building_type_burial_site_01$#weak ([duchy_building|E])#!のような[buildings|E]、$court_physician_court_position$による[court_position_tasks|E]執行、[decisions|E]またはイベントによって増減します。"
  game_concept_epidemic_res: "抵抗力"
  game_concept_epidemic_res_desc: "$game_concept_epidemic_resistance_desc$"
  game_concept_infection_chance: "感染力"
