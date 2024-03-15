@@ -29,7 +29,7 @@
  legendary_integration_k_desc: "我が支配の権威を強固にする伝説が領邦全体で語られている。我が言は絶対であり、余が若し二つの王国は一つであると宣言すれば、その通りとなるだろう。"
  legendary_integration_k_tooltip: "$select_kingdom_to_drift_tt$"
  legendary_integration_k_confirm: "我が意を体せよ。"
- control_the_entirity_of_title_tt: "You must control the entirety of the [kingdom|E]"
+ control_the_entirity_of_title_tt: "あなたは[kingdom|E]全体を支配しなければならない"
  legendary_integration_d: "王国の拡大"
  legendary_integration_d_desc: "我が支配の権威を強固にする伝説が領邦全体で語られている。この新たに発見された正当性は、我が領邦の中核と考えられている領域を拡大し、歴史的に外国の公爵の永続的な忠誠を要求するために活用される可能性がある。"
  legendary_integration_d_tooltip: "$select_duchy_to_drift_tt$"
