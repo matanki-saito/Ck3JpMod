@@ -341,7 +341,7 @@
  contest_events.0810.a.close_family_win:0 "あれは私の[ROOT.Char.Custom2('RelationToMeShort', contest_winner)]だ！"
  contest_events.0810.a.close_family_lose:0 "不運だな、[ROOT.Char.Custom2('RelationToMeShort', contest_loser)]よ…"
  contest_events.0810.a.knights:0 "よくやった、$knight_culture_player_plural_no_tooltip_lowercase$！"
- contest_events.0810.a.knight_win:0 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の$knight_culture_player_plural_no_tooltip_lowercase$を舐めるなってんだ！"
+ contest_events.0810.a.knight_win:0 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の$knight_culture_player_plural_no_tooltip_lowercase$を舐めるなよ！"
  contest_events.0810.a.knight_lose:0 "お気に入りの$knight_culture_player_no_tooltip_lowercase$じゃないから、あれは…"
  contest_events.0810.a.wager_win:0 "よおし、賭けに勝ったぞぅ！"
  contest_events.0810.a.wager_loss:0 "賭け金が…"

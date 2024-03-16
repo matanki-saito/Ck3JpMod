@@ -18,7 +18,7 @@
  leg_demand_fealty_v_attacker: "[defender.GetName] becomes your [vassal|E]"
  leg_demand_fealty_v_neutral: "[defender.GetName] becomes [attacker.GetNamePossessive] [vassal|E]"
  legend_demand_fealty: "地方への屈服要求"
- legend_demand_fealty_desc: "Legendary tales of heroic deeds surround me. I am more than a mere mortal now, I am a living legend and all must bow before me."
+ legend_demand_fealty_desc: "われを取り巻くは、英雄の偉業にまつわる伝説の物語。今や、われは単なる凡人ではなく、生ける伝説なり。すべてはわれの前に跪かねばならぬ。"
  legend_demand_fealty_tooltip: "$fifteen_year_vassalization_tt$"
  legend_demand_fealty_confirm: "世界よ、我に傅くがよいぞ。"
  launch_a_legendary_adventure: "伝説の冒険に旅立つ"

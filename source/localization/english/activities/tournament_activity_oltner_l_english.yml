@@ -89,7 +89,7 @@
  tournament_events.9007.b:0 "栄光ある支持者たちがいなければ、私は何もできない！"
  tournament_events.9007.c:0 "[ROOT.Char.GetFaith.HighGodName]に感謝し、私の勝利を祈ろう。"
  tournament_events.9008.t:0 "道化師のパフォーマンス"
- tournament_events.9008.desc:0 "「どうぞ皆様、[tournament_fool.Custom2('DescriptorPositive', SCOPE.sC('tournament_fool') )|U][tournament_fool.GetFirstName]をご覧にいらっしゃい！」派手な衣装をまとった[tournament_fool.GetWomanMan]が、鼻の上で[tournament_fool.Custom('GetObjectToBalanceOnNose')]のバランスをふらふら取りながら叫ぶ。\n\n「わたくしは物語も存じております！　恐らく皆様は、[memory_story.GetThirdPerspectiveDescription]の時のお話のような、何か明るいものをお聞きになりたいのでしょう？」[tournament_fool.GetSheHe|U]が逆立ちしながら言う。\n\n「それとも我が[ROOT.Char.GetLadyLord]は、[memory_story_negative.GetThirdPerspectiveDescription]の時のような、#EMP 恐ろしい#!話をお聞きになりたいとか？」"
+ tournament_events.9008.desc:0 "「どうぞ皆様、[tournament_fool.Custom2('DescriptorPositive', SCOPE.sC('tournament_fool') )|U][tournament_fool.GetFirstName]をご覧になって！」派手な衣装をまとった[tournament_fool.GetWomanMan]が、[tournament_fool.Custom('GetObjectToBalanceOnNose')]を鼻の上に乗せながら客を呼び込んでいた。\n\n「わたくしは物語も存じております！　恐らく皆様は『[memory_story.GetThirdPerspectiveDescription]』……そんな明るい話をお聞きになりたいのでしょう？」[tournament_fool.GetSheHe|U]が逆立ちしながら言う。\n\n「それとも我が[ROOT.Char.GetLadyLord]は、[memory_story_negative.GetThirdPerspectiveDescription]時のような、#EMP 恐ろしい#!話をお聞きになりたいとか？」"
  tournament_events.9008.schemer:0 "もっと面白いものを聞いたことがあるのを#EMP 知っている#!…"
  tournament_events.9008.a:0 "つまらん話はやめてくれ――私はジャグリングが見たいんだ！"
  tournament_events.9008.b:0 "愉快な話を聞かせてくれ！"

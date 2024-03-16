@@ -51,7 +51,7 @@
  physician_epidemic_events.1050.desc.intro: "[physician.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は無情にも私の前に投げ出され、[physician.GetHerHis]の両手と両足には鉄の杭が打たれている。[physician.GetSheHe|U]は地面から私を見上げて睨んでいる。どうやら、私の立派な医師がこのような獣のような扱いを受けた原因は、[physician.GetSheHe]が全ての大きな野戦の後に戦場へ向かい、兵士たち…敵の戦闘員さえにも治療を施していた。\n\n実際、[physician.GetHerHis]はいわゆる「[ROOT.Char.GetPrimaryTitle.GetAdjective|U]の宿」の主人として知られており、分け隔てない治療を提供していたのだ。私の指揮官はこれを止めることを望んでいる。私は[physician.GetFirstNameNoTooltip]にこれらの主張を否定するよう求めるが、[physician.GetSheHe]の意志は固いようだ。\n\n"
  physician_epidemic_events.1050.desc.zealous: "「我らはみな等しく[physician.GetFaith.CreatorNamePossessive]の子のはずでしょう、我が君よ」"
  physician_epidemic_events.1050.desc.just: "「私は正しいことをした、まっとうなことをした。『自由人と奴隷の相違を問わず、不正を犯すことなく医術を行う』べきだからだ」"
- physician_epidemic_events.1050.desc.compassion: "「私は医者だ。彼らは苦しんでた！[epidemic_scope.GetName]の患者というて点においては誰しもが平等だ、そうでしょう！？」"
+ physician_epidemic_events.1050.desc.compassion: "「私は医者だ。彼らは苦しんでた！[epidemic_scope.GetName]の患者という点においては誰しもが平等だ、そうでしょう！？」"
  physician_epidemic_events.1050.a: "[physician.GetSheHe|U]に許可をやる。好きにさせてやれ。"
  physician_epidemic_events.1050.b: "すぐにやめろ！"
  physician_epidemic_events.1060.t: "決死の追放"
