@@ -986,5 +986,5 @@
  artifact_splendid_necklace_description: "この素晴らしいネックレスは[artifact.GetOwner.GetHouse.GetBaseName]の紋章で描かれており、所有者の正統性に疑いの余地がないことを示している。"
  artifact_fine_brooch_name: "煌めくブローチ"
  artifact_fine_brooch_description: "このブローチの端にある[artifact.GetOwner.GetHouse.GetBaseName]の名に対する微かな祈りによって、その正統性が急速に広がっています。"
- medicine_jar: "薬臭い瓶"
- medicine_jar_desc: "この薄いガラスの陶器には、希少で強力なハーブ、修復ミネラル、さまざまな乾燥した動物の部分が含まれている。このすべて病気が治療し、四体液の調和を戻すときに医師によって使用されるのだ。"
+ medicine_jar: "薬壺"
+ medicine_jar_desc: "この薄い艷めく陶器には、希少で強力な薬草、治療に使う鉱石、さまざまな動物を干した粉末が詰められている。このすべてが病気を治療し、四体液の調和を戻すときに医師によって使用されるのだ。"
