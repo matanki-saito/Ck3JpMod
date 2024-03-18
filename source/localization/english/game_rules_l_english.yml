@@ -383,7 +383,7 @@
  setting_bd_occurrence_random_desc: "黒死病はマップ上の完全にランダムな州で発生します。"
  rule_black_death_frequency: "黒死病の頻度"
  setting_bd_frequency_once: "一度きり"
- setting_bd_frequency_once_desc: "黒死病はゲーム中に1度のみ発生します。"
+ setting_bd_frequency_once_desc: "黒死病はゲーム中に一度のみ発生します。"
  setting_bd_frequency_unlimited: "#high 無制限#!"
  setting_bd_frequency_unlimited_desc: "黒死病はゲーム中に何度でも発生します。"
  setting_bd_frequency_never: "#high 発生しない#!"

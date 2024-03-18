@@ -138,7 +138,7 @@
  harm.0542.a.tt:0 "#WEAK 火が…あなたには火がいるはずなのに…#!"
  harm.0551.t.prefix:0 "登って遊ぶ"
  harm.0552.t:0 "$harm.0551.t.prefix$: 秘密の道"
- harm.0552.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として、1人になれる時間というものはあまりにも少ない。使用人や守衛はどこにでもいて私のお世話に必死だ。\n\nだけど、もう自分は自分のことぐらいちゃんと出来る！ちょっと大胆な行動だけど、この壁を抜ける秘密の道を知ってるのは#EMP 私だけ#!だ…\n\nあまり使ってないけれど、1度使えば[ROOT.Char.GetCurrentLocation.GetName]の全てが私の前に広がる。自由なんだ。"
+ harm.0552.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip]として、一人になれる時間というものはあまりにも少ない。使用人や守衛はどこにでもいて私のお世話に必死だ。\n\nだけど、もう自分は自分のことぐらいちゃんと出来る！ちょっと大胆な行動だけど、この壁を抜ける秘密の道を知ってるのは#EMP 私だけ#!だ…\n\nあまり使ってないけれど、一度使えば[ROOT.Char.GetCurrentLocation.GetName]の全てが私の前に広がる。自由なんだ。"
  harm.0552.a:0 "楽しい！"
  harm.0552.a.tt:0 "#WEAK ああ、あなたは誰にも見られずに…#!"
  harm.0561.t.prefix:0 "もう子供じゃない"

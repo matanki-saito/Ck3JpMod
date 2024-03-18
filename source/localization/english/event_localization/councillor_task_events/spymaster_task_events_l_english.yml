@@ -64,7 +64,7 @@
  spymaster_task.0349.a.zealous:0 "別世界の美の思想が私を誘惑することがあってはならない！"
  spymaster_task.0349.a:0 "[secret_holder.GetSheHe]はどんな悪事を企んでいるのだろう？"
  spymaster_task.0350.t:0 "諜報: 私生児"
- spymaster_task.0311.secret_bastard.i_am_real_father:1 "\n\n[bastard.GetTitledFirstName]は実際に私生児であるだけでなく…私が[bastard.GetHerHis]の本当の父親だ。"
+ spymaster_task.0311.secret_bastard.i_am_real_father:1 "\n\n[bastard.GetTitledFirstName]はただの私生児というわけではない…私が[bastard.GetHerHis]の本当の父親だったのだ。"
  spymaster_task.0311.secret_bastard.i_am_not_father:1 "\n\n[bastard.GetTitledFirstName]は私の本当の子供ではなく、[secret_holder.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の[bastard.Custom('DaughterSon')]だ！"
  spymaster_task.0311.secret_bastard.father_is_interesting:1 "\n\n[bastard.GetTitledFirstName]は実際には、[mother.GetTitledFirstName]と、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actual_father'))]である[actual_father.GetTitledFirstName]との間にできた私生児だ！"
  spymaster_task.0311.secret_bastard:1 "\n\n[bastard.GetTitledFirstName]は実際には[mother.GetTitledFirstName]と[actual_father.GetTitledFirstName]との間にできた私生児だ！"
