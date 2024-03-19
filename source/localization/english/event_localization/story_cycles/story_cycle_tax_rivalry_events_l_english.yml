@@ -63,7 +63,7 @@
  tax_rivalry.4011.desc_tax_collector_unfriendly: "これは[steward.GetHerHim]との悪い関係に関わらず起きた。"
  tax_rivalry.9000.t: "$tax_rivalry.t$：勝利"
  tax_rivalry.9000.desc: "もはや[less_fortunate_rival.GetTitledFirstName]の[less_fortunate_rival.Custom('quirk_neg_noun')]にかかずらうことはもう無い。我が領国は私が[ROOT.Char.Custom('MistressMaster')]としてしっかりと管理させてもらう。あの出来損ないの[less_fortunate_rival.GetTitledFirstNameNoTooltip]が今度歯向かったら……これ以上ない酷い目に遭わせてやる。"
- tax_rivalry.9000.a: "[ROOT.Char.GetTitleAsNameNoTooltip]にお似合いの末路だ。"
+ tax_rivalry.9000.a: "[ROOT.Char.GetTitleAsNameNoTooltip]として相応しき道を。"
  tax_rivalry.9000.a.tt: "[less_fortunate_rival.GetTitledFirstNameNoTooltip]との確執は一旦終わりを告げる。"
  tax_rivalry.9001.t: "$tax_rivalry.t$：敗北"
  tax_rivalry.9001.desc: "[fortunate_rival.GetFullName]が[fortunate_rival.GetPrimaryTitle.GetNameNoTierNoTooltip]の[fortunate_rival.GetTitleAsNameNoTooltip]になるなどと誰が思った？もっと早く行動していればこんなことにはならなかったかもしれないのに！"
