@@ -37,7 +37,7 @@
  ACHIEVEMENT_DESC_beta_israel_achievement:2 "東アフリカのユダヤの王として、[culture|E]を分岐させる。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_they_belong_in_a_museum_achievement:0 "冒険の[inspiration|E]を完了させた[character|E]を$antiquarian_court_position$に任命する"
  ACHIEVEMENT_DESC_i_made_this_achievement:0 "あなたが[artifact_claim|E]を持たない[artifact|E]を略奪し、[heir|E]に継承させる"
- ACHIEVEMENT_DESC_nobody_comes_to_fika_achievement:1 "[primary_title|E]としてフィカ伯爵領を持った状態で、自[culture|E]を分岐させて、あなたまたは自身の[vassals|E]が保有する30の[counties|E]に広める。"
+ ACHIEVEMENT_DESC_nobody_comes_to_fika_achievement:1 "[primary_title|E]がフィカ伯爵領である状態で自[culture|E]を分岐させる。その後、あなたまたは自身の[vassals|E]が保有する30の[counties|E]にその文化を広める。"
  ACHIEVEMENT_DESC_the_true_royal_court_achievement:0 "[emperor|E]の[vassal|E]として、皇帝よりも[court_grandeur|E]の高い宮廷を持つ"
  NOT_ACHIEVEMENT_DESC_patronage_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_converging_paths_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
