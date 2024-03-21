@@ -297,7 +297,7 @@
  tenet_islamic_rationalism_name: "イスラム的理性主義"
  tenet_islamic_rationalism_desc: "[ROOT.Faith.HighGodNameAlternate]は公正にして賢明なり。ならば[ROOT.Faith.HighGodNameSheHe|U]は理性を厭い、創造物の幸福を憎むようなことはしないだろう、我々は理性によってのみ[ROOT.Faith.HighGodHerHis|U]の偉業における己が役割に殉じ、善と悪を見分けることができるのだ。"
  tenet_unrelenting_faith_zandik_name: "正当なる反骨精神"
- tenet_unrelenting_faith_zandik_desc: "いかなる魂にも、いかなる物であっても傷つけることは望みはしない。だが我らを脅かすというのなら容赦はしない。獰猛さによって守り抜くのみだ。"
+ tenet_unrelenting_faith_zandik_desc: "いかなる魂にも、いかなる物であっても傷つけることを我らは厭う。だがこの身を脅かすというのなら容赦はしない。獰猛さによって守り抜くのみだ。"
  tenet_reincarnation_zoroastrian_name: "ラージャ"
  tenet_reincarnation_zoroastrian_desc: "神々がヒトの体に転生するように、我々も生まれ変わる。善良なる者ならば美と純潔によって報われ、いずれ穢れなき光の天使となるだろう。"
  can_build_towers_of_silence_active_name: "[GetBuilding('tower_of_silence_01').GetName]の[duchy_building|E]を使えるようになる"
