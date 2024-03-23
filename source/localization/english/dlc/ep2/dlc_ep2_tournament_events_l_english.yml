@@ -11,7 +11,7 @@
  ep2_tournament_events.0002.desc:0 "#EMP ドンッ！#!\n\n[versus_contestant.GetFirstName]の唸り声とともに放り投げられた私の身体は、闘技場の木の壁に叩きつけられた。そして[versus_contestant.GetFirstNamePossessiveNoTooltip]はニヤリと笑うと、驚いたことに私に背を向けたのだ。\n\n歓声を上げる観客に向かって腕を上げ、[versus_contestant.GetSheHe]は力こぶを見せつけながら、巡業の格闘家のマネをして筋肉をうごめかせてみせる。気まぐれな農民たちには大ウケで、歓声はさらに大きくなるのだった。"
  ep2_tournament_events.0002.a:0 "#EMP これ#!が#EMP 本物の#![ROOT.Char.GetWomanMan]というものだ！"
  ep2_tournament_events.0002.b:0 "こっちを見やがれ、腰抜けが！"
- ep2_tournament_events.0002.c:0 "[versus_contestant.GetHerHim]に後ろを見るようにって教えてやろう！"
+ ep2_tournament_events.0002.c:0 "背中がガラ空きだぞ、おらぁ！"
  ep2_tournament_events.0002.a.tt:0 "観客に向かって筋肉をみせつけよう！"
  ep2_tournament_events.0002.c.tt:0 "後ろから攻撃してやる"
  ep2_tournament_events.0003.t:1 "$tournament_versus_header$争われた寛大さ"

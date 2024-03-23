@@ -398,7 +398,7 @@
  task_train_commanders_acclaimed_knight_levy_captaincy:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は差し押さえの準備をする#!"
  task_train_commanders_acclaimed_knight_drills_hastiludes:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は[GetTrait('tourney_participant').GetNameNoTooltip( GetNullCharacter )]を鍛える#!"
  task_increase_control_acclaimed_knight_subdues_peasantry:0 "\n$EFFECT_LIST_BULLET$#P [acclaimed_knight]は地元の農民を屈服させる#!"
- STEWARD_PROMOTE_CULTURE_DIVERGENT_VS_PARENTS_BONUS_MODIFIER:0 "新しく出来た[divergent_culture|E]は親の[culture|E]を置換します"
+ STEWARD_PROMOTE_CULTURE_DIVERGENT_VS_PARENTS_BONUS_MODIFIER:0 "新しい[divergent_culture|E]による親の[culture|E]の置換"
  task_foreign_affairs_effect_desc_consulted_house_bonus_prestige: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_consulted_house_modifier')|P]"
  task_foreign_affairs_effect_desc_consulted_house_bonus_opinion: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_consulted_house_modifier')|P]"
  task_domestic_affairs_direct_effect_desc:0 "[direct_vassal|E]の評価：#P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(増加量#P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/月#P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|0P])\n$TAB$評議員の[diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"

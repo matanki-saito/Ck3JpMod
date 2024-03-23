@@ -235,7 +235,7 @@
  pet_animal.0204.desc: "微かながらも震えが止まらず、布団を引き寄せる。風邪をこじらせたか、私は何日も気分が悪い。\n\n布団の中でごそごそとうごめいていると、愛猫の[ROOT.Char.Custom('CatStoryName')]が幸せそうにニャーニャー鳴いて、ただいま参上と告げている。ただ、[ROOT.Char.Custom('CatStorySheHe')|U]もどこか不安げに私を見つめ、寝床の周りを一周した。\n\nそして小さく、自身に言い聞かせるように#EMP みゃう#!と言い、[ROOT.Char.Custom('CatStorySheHe')]は布団に潜り込んで、私の肘あたりで丸くなった。"
  pet_animal.0204.a: "あー、[ROOT.Char.Custom('CatStoryName')]ちゃん、いつからそんなに気が利くように？"
  pet_animal.0205.t: "[ROOT.Char.Custom('CatStoryName')]：おじゃま虫"
- pet_animal.0205.desc: "私は座る。評議員たちに私に倣うよう、手ぶりをする。領国で最も発言力のある人々がここにいるのだ。私が口を開くと—―\n\n#EMP にゃーん#!！誰ぞ。私は犯人を捜しまわる。#EMP にゃにゃーん#!！\n\n[ROOT.Char.Custom('CatStoryName')]が長テーブルの上に鎮座して、満足そうに喉を鳴らしていた。[ROOT.Char.Custom('CatStorySheHe')|U]は頭を私の手のひらにうずめて気持ちよさそうだ。だが[cat_disapprover.GetFirstName]は不満げに口を結ぶ。\n\n「我が[ROOT.Char.GetLadyLord]、その子を外に出してください。大事なお話が山ほどございますので」"
+ pet_animal.0205.desc: "私は座る。評議員たちに私に倣うよう、手ぶりをする。領国で最も発言力のある人々がここにいるのだ。私が口を開くと—―\n\n#EMP にゃーん#!！誰ぞ？私は犯人を捜しまわる。\n\n#EMP にゃにゃーん#!！\n\n[ROOT.Char.Custom('CatStoryName')]が長テーブルの上に鎮座して、満足そうに喉を鳴らしていた。[ROOT.Char.Custom('CatStorySheHe')|U]は頭を私の手のひらにうずめて気持ちよさそうだ。だが[cat_disapprover.GetFirstName]は不満げに口を結ぶ。\n\n「我が[ROOT.Char.GetLadyLord]、その子を外に出してください。大事なお話が山ほどございますので」"
  pet_animal.0205.a: "[ROOT.Char.Custom('CatStoryName')]を尊重するか、舌を抜かれるかどっちがいいかね。"
  pet_animal.0205.b: "使用人！すまないが外に連れてやってくれ！"
  pet_animal.0205.c: "大丈夫、[ROOT.Char.Custom('CatStorySheHe')]はいい子だ、ここにいてもよい。"
