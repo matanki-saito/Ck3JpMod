@@ -30,13 +30,13 @@
  # Buildings
  ###################################
  building_type_sar_i_sang_mines_01: "The Sar-i Sang Mines"
- building_type_sar_i_sang_mines_01_desc: "The main source of lapis lazuli in the world, the mines of Sar-i Sang have been active sine prehistoric times, and their blue stones could be seen in all the courts of antiquity. Local workers toil here night and day to extract the vaunted blue stones."
+ building_type_sar_i_sang_mines_01_desc: "The main source of lapis lazuli in the world, the mines of Sar-i Sang have been active since prehistoric times, and their blue stones could be seen in all the courts of antiquity. Local workers toil here night and day to extract the vaunted blue stones."
  building_sar_i_sang_mines_01: "Sar-i Sang Ancient Mine"
  building_sar_i_sang_mines_01_desc: "$building_type_sar_i_sang_mines_01_desc$"
  building_sar_i_sang_mines_02: "Sar-i Sang Restored Mine"
  building_sar_i_sang_mines_02_desc: "The ancient tunnels have been expanded and secured, and engineers have been brought in to open up a new shaft, and new possibilities."
  building_sar_i_sang_mines_03: "Expanded Sar-i Sang Mine"
- building_sar_i_sang_mines_03_desc: "As the mining operations grow, so does the mines themselves. More entrances are constructed, and the ancient shaft grows deeper and deeper."
+ building_sar_i_sang_mines_03_desc: "As the mining operations grow, so do the mines themselves. More entrances are constructed, and the ancient shaft grows deeper and deeper."
  building_sar_i_sang_mines_04: "Sar-i Sang Mining Complex"
  building_sar_i_sang_mines_04_desc: "The extraction of lapis lazuli stones has reached a near-industrial scale, with the amount of workers ranging in the thousands. This ancient, once-remote mountain is now the center of a vibrant economy." 
 

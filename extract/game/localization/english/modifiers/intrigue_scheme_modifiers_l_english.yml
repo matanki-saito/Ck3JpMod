@@ -36,7 +36,7 @@
  intrigue_scheme_messenger_pigeon_modifier_desc:0 "A trained messenger pigeon is ready to deliver secret messages."
 
  intrigue_scheme_secret_code_modifier:0 "Secret Multi-Language Code"
- intrigue_scheme_secret_code_modifier_desc:0 "A complex code consisting of many languages has been created specfically for this scheme."
+ intrigue_scheme_secret_code_modifier_desc: "A complex code consisting of many languages has been created specifically for this scheme."
 
  intrigue_scheme_personally_translating_letters_modifier:0 "Personally Translating Letters"
  intrigue_scheme_personally_translating_letters_modifier_desc:0 "Letters intercepted in this scheme are being personally translated by the scheme plotter."

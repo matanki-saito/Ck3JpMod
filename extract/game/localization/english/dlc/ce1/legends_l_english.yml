@@ -5,6 +5,7 @@
   legend_cost_scale_by_era_desc:0 "[GetPlayer.GetCulture.GetCultureEra.GetNameNoTooltip] Era"
 
   PROMOTED_LEGEND_EXPENSES: "[promoted_legend|E]"
+  OWNED_LEGEND_EXPENSES: "[owned_legend|E]"
 
   LEGEND_ALREADY_OWN_LEGEND: "@warning_icon! #X You already own [Legend.GetName]#!"
   LEGEND_UPGRADE_ALREADY_MAX: "@warning_icon! #X [Legend.GetName] is already the maximum $legend_quality_mythical$ [legend_quality|E]#!"
@@ -18,7 +19,7 @@
   LEGEND_NOT_SAME_DYNASTY: "@warning_icon! #X You are not a member of the [Dynasty.GetName] [dynasty|E]#!"
   LEGEND_CAN_NOT_COMPLETE_YET: "@warning_icon! #X You cannot complete [Legend.GetName] for [DATE.GetTimeToDate] #weak ([DATE.GetStringLong])#!#!"
   LEGEND_COMPLETE_LEGEND: "@alert_icon!#alert_trial Completing a [legend|E] makes it impossible to start it again#![AddLine( Legend.GetOnCompleteDescription )]"
-  legend_ending_decision_tt: "Gain access to the #EMP $commission_legend_artifact_decision$#! [decision|E], allowing you to commision a chronicle to commemorate your legend."
+  legend_ending_decision_tt: "Gain access to the #EMP $commission_legend_artifact_decision$#! [decision|E], allowing you to commission a chronicle to commemorate your legend."
   LEGEND_CAN_NOT_PROMOTE: "@warning_icon! #X You are already [promoting_legend|E] [Legend.GetName]#!"
   legend_already_promoting_legend_tt: "You are already [promoting_legend|E] [Legend.GetName]"
   legend_can_not_promote_tt: "You need one of the following:#!\n@warning_icon! #X You share a language with [legend.GetOwner.GetName]#!\n@warning_icon! #X [legend.GetName] is present in a province neighboring your realm#!\n@warning_icon! #X You and [legend.GetOwner.GetName] are $game_concept_lovers$#!\n@warning_icon! #X You and [legend.GetOwner.GetName] are $game_concept_friends$#!"
@@ -34,12 +35,17 @@
   LEGEND_OWNER_DESCRIPTION: "Owner: [Legend.GetOwner.GetShortUIName|U]"
   LEGEND_PROMOTING_LEGEND: "You are [promoting_legend|E] this [legend|E]"
   LEGEND_OWNING_LEGEND: "You are the owner of this [legend|E]"
+  LEGEND_UNOWNED_GRACE_PERIOD: "You cannot take ownership of this [legend|E] until $DATE$"
 
   game_concept_legend: "Legend"
   game_concept_legend_i: "@legend_icon!"
   game_concept_legend_desc: "A $game_concept_legend$ represents the important deeds that a Character achieved in life, and are created from [legend_seeds|E].\n\nLegends are powerful ways to obtain [legitimacy|E], and other possible rewards like [skill|E] increases, [opinion|E] bonuses, [dynasty_prestige|E], [prestige|E] or [piety|E]. [baronies|E] in which a $game_concept_legend$ has spread may also receive additional effects, if held by the $game_concept_legend$ owner or a [legend_promoter|E].\n\n$game_concept_legends$ have a [legend_type|E] that governs those rewards: they can be Legitimizing, Holy or Heroic. Each $game_concept_legend$ also has a [legend_quality|E] level, which influences the strength of those rewards, as well as its spread."
-  game_concept_promoted_legend: "Owned Legend"
-  game_concept_promoted_legend_desc: "An $game_concept_promoted_legend$ is a [legend|E] owned by a [ruler|E], who is the main beneficiary of its effects.\n\nThe owner of a $game_concept_legend$ can be its [legend_protagonist|E], but it's not necessary.\n\nA $game_concept_legend$ can also be supported by [legend_promoters|E], who pay a monthly contribution to also get part of its bonuses."
+  game_concept_owned_legend: "Owned Legend"
+  game_concept_owning_legend: "Owning Legend"
+  game_concept_owned_legend_desc: "An $game_concept_owned_legend$ is a [legend|E] owned by a [ruler|E], who is the main beneficiary of its effects.\n\nThe owner of a $game_concept_legend$ can be its [legend_protagonist|E], but it's not necessary.\n\nA $game_concept_legend$ can also be supported by [legend_promoters|E], who pay a monthly contribution to also get part of its bonuses."
+  game_concept_owning_legend_desc: "$game_concept_owned_legend_desc$"
+  game_concept_promoted_legend: "Promoted Legend"
+  game_concept_promoted_legend_desc: "An $game_concept_promoted_legend$ is a [legend|E] owned by a different [ruler|E] that is being supported by [legend_promoters|E], who pay a monthly contribution to also get part of its bonuses."
   game_concept_promoting_legend: "Spreading"
   game_concept_promoting_legend_desc: "$game_concept_promoting_legend$"
   game_concept_legend_promoter: "Legend Promoter"
@@ -424,16 +430,16 @@
  legend_chronicle_new_title: "Foundation of [title.GetNameTooltip]"
  legend_chronicle_new_title_desc: "By the will, strength, and cunning of [founder.GetName], [title.GetName] has come to existence and shall never falter!"
 
- legend_chronicle_great_deed_faith: "Great Deed of [new_faith.GetNameNoTooltip]"
+ legend_chronicle_great_deed_faith: "The Spiritual Triumph of [new_faith.GetNameNoTooltip]"
  legend_chronicle_great_deed_faith_desc: "Guided by [founder.GetHerHis] faith in [new_faith.HighGodName], [founder.GetName] has led the faithful [new_faith.GetAdherentNamePlural] to victory over the [old_faith.GetAdherentName], led by the vile [antagonist.GetName]"
 
  legend_chronicle_great_deed_title: "Great Deed for [title.GetNameNoTooltip]"
  legend_chronicle_great_deed_title_desc: "Throughout all history, among all rulers of [title.GetName], none has achieved so much, none shall be spoken about before the great [founder.GetName]."
 
- legend_chronicle_great_deed_region: "Great Deed for [legend_region.GetNameNoTooltip]"
+ legend_chronicle_great_deed_region: "[legend_region.GetNamePossessiveNoTooltip] True Hero"
  legend_chronicle_great_deed_region_desc: "There is nay a soul in [legend_region.GetName] that does not know the name of [founder.GetName] and [founder.GetHerHis] accomplishments."
 
- legend_chronicle_great_deed_dynasty: "Great Deed for [dynasty.GetNameNoTooltip]"
+ legend_chronicle_great_deed_dynasty: "A Mighty Endeavor for [dynasty.GetNameNoTooltip]"
  legend_chronicle_great_deed_dynasty_desc: "Few bearing the name of [dynasty.GetName] have done so much for their dynasty as [founder.GetName]."
 
  legend_chronicle_valiant_defense: "A Valiant Defense"
@@ -442,8 +448,8 @@
  legend_chronicle_tournament_won: "Three Victories of [winner.GetFirstNameNoTooltip]"
  legend_chronicle_tournament_won_desc: "At the jousting fields of [location.GetName], the ultimate contestant [winner.GetName] has won the tournament for the third time. No living soul on Earth could rival [winner.GetHerHim]."
 
- legend_chronicle_accolade_chronicle: "Most Valiant of $knight_culture_player_no_tooltip$"
- legend_chronicle_accolade_chronicle_desc: "[founder.GetName|U] had a lot of great $knight_culture_player_no_tooltip_lowercase$, but none was greater than [first_accolade_knight.GetName] of [first_accolade.GetName]."
+ legend_chronicle_accolade_chronicle: "Most Valiant of $knight_culture_player_plural_no_tooltip$"
+ legend_chronicle_accolade_chronicle_desc: "[founder.GetName|U] had a lot of great $knight_culture_player_plural_no_tooltip_lowercase$, but none was greater than [first_accolade_knight.GetName] of [first_accolade.GetName]."
 
  heroic_legend_seed_drop.t: "New Legend Seed Available"
  legend_chapter_opening_great_deed: "$legend_chapter_opening_generic$"
@@ -518,3 +524,8 @@
  gain_heroic_legend_seed.tt: "You gain an Heroic [legend_seed|E]"
  gain_holy_legend_seed.tt: "You gain a Holy [legend_seed|E]"
  gain_legitimizing_legend_seed.tt: "You gain a Legitimizing [legend_seed|E]"
+ 
+ legend_events.1000.t: "To the [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstNameNoTooltip],"
+ legend_events.1000.desc: "To be of such shameful nature! So deceitful! I offered you gold to promote my legend and you repay me by just dropping it like a sick dog."
+ legend_events.1000.a: "#EMP Gah!#! Just take it."
+ legend_events.1000.b: "I'm quite sure it was #EMP much#! cheaper."
