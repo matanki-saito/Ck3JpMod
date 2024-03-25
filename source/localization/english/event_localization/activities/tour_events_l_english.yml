@@ -1443,3 +1443,4 @@
  cultural_festival.9060.a.success: "[stop_host_scope.GetFirstName]の目に留まるものとなった"
  cultural_festival.9060.a.failure: "それなりに上手くいった"
  cultural_festival.9060.b: "ま、出された演目を素直に楽しむか。"
+ host_dinner_events.1009.didnt_enjoy_weed: "[visiting_liege.GetFirstName]はハシシを楽しめなかった"

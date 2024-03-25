@@ -1481,7 +1481,7 @@
  BLACKMAIL_NOTIFICATION_SECRET_CRYPTO_RELIGIONIST: "\n[recipient.GetSecretFaith.GetName]を信仰していると知っているぞ！"
  ask_for_conversion_interaction_accept_tooltip: "@warning_icon!#X [THIS.Char.GetShortUINameNoTooltip|U]は[recipient.GetFaith.GetName]の信仰を密かに続ける可能性があります#!"
  ASK_FOR_CONVERSION_RECIPIENT_IS_FICKLE: "[recipient.GetShortUIName|U]は[GetTrait('fickle').GetName( GetPlayer )]だ：$VALUE|=+0$"
- ASK_FOR_CONVERSION_RECIPIENT_IS_PIOUS: "[recipient.GetShortUIName|U]は[$game_concept_pious$|L]だ：$VALUE|=+0$"
+ ASK_FOR_CONVERSION_RECIPIENT_IS_PIOUS: "[recipient.GetShortUIName|U]は$game_concept_pious$だ：$VALUE|=+0$"
  GENERIC_YOUR_PIETY_LEVEL_MODIFIER: "あなたの[piety_level|E]：$VALUE|=+0$"
  char_interaction.0041.desc: "貴様の[recipient.Custom('InsultBehavior')]と堕落は[actor.GetHouse.GetBaseName]家の恥晒しでしかない。その[recipient.Custom('InsultAdjective')]生き方が我らが氏族に害を成す前に私が家長として世に知らしめてくれる。\n\n[actor.GetFaith.HighGodNamePossessive]の光が汝を正しき道に戻さんことを祈る…まあ、無理な話か。"
  char_interaction.0041.a: "言いがかりだ！"

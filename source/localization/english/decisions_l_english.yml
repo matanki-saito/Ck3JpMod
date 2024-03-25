@@ -1092,7 +1092,7 @@
  clear_ground_for_legendary_building_tooltip: "いずれかの州の[special_building|E]スロットをアンロックする"
  clear_ground_for_legendary_building_desc: "伝説は完成し、わが国民を鼓舞させた。私の土地は私の伝説を伝える新たな記念碑を建てるのに適しているが，いったい何を建てるべきなのだろうか？"
  clear_ground_for_legendary_building_confirm: "敷地を片付ける"
- clear_ground_legendary_hunting_lodge_tt: "神話的か輝かしい[legend|E]を完了する必要があります"
+ clear_ground_legendary_hunting_lodge_tt: "You must have completed a Mythical or Illustrious [legend|E] about a beast, or have #V 50#! experience in the [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] [trait|E], or the [GetCultureTradition('tradition_hunters').GetName] or [GetCultureTradition('tradition_ep2_avid_falconers').GetName] [tradition|E]"
  clear_ground_legendary_watchtower_tt: "[GetDynastyPerk('ce1_legitimacy_legacy_5').GetName][dynasty_perk|E]を持つ状態で、神話的か輝かしい[legend|E]を完了する必要があります"
  clear_ground_legendary_shrine_tt: "神話的か輝かしい神聖な[legend|E]を完了する必要があります"
  clear_ground_legendary_statue_tt: "神話的か輝かしい正統化された[legend|E]を完了する必要があります"

@@ -338,7 +338,7 @@
  ra_legends_2: "$action_reactive_advice_legends$"
  ra_legends_2_desc: "利用可能な各[legend|E]は、そのすべての情報と同様に、ここに表示されます。\n\n一番上に伝説のエッセンスである[legend_seeds|E]があります。それらは獲得したり、開始時点で所有しています。その下はあなたが推進していない他の$action_reactive_advice_legends$を見ることが出来る「世界の$action_reactive_advice_legends$」です。\n\n#weak 「後援者」とは特定の伝説を積極的にサポートするキャラクターです。#!"
  ra_legends_3: "$action_reactive_advice_legends$"
- ra_legends_3_desc: "$action_reactive_advice_legends$パネルに含まれる情報には、基本費用、維持費、有効な効果、伝説の品質が含まれます。\n\nハイライトされているのは、リストから伝説を選択するために使うボタンです。"
+ ra_legends_3_desc: "$action_reactive_advice_legends$パネルに含まれる情報には、基本費用、維持費、有効な効果、伝説の階梯が含まれます。\n\nハイライトされているのは、リストから伝説を選択するために使うボタンです。"
  ra_legends_4: "$action_reactive_advice_legends$"
  ra_legends_4_desc: "このパネルには、作成しようとしている伝説に関する情報と、[characters|E]の選択が含まれています。これらは[legend_protagonists|E]になる可能性がある人物たちです。\n\n#weak 伝説を開始すると、伝説の編纂が始まりそこから[legend_quality|E]を増やしたり、完成させたりできます。#!"
  action_reactive_advice_plague_resistance: "アドバイス: 伝染病への抵抗力"

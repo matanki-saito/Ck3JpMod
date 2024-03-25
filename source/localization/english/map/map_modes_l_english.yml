@@ -43,4 +43,4 @@
  epidemics: "@epidemic_icon! 伝染病"
  epidemics_desc: "#T 伝染病#!\nマップ上に[epidemics|E]の広がりを表示します"
  legends: "@legend_icon!伝説"
- legends_desc: "#T 伝説#!\n[legends|E]の広がりを地図上に表示"
+ legends_desc: "#T 伝説#!\n[legends|E]の伝播を地図上に表示"

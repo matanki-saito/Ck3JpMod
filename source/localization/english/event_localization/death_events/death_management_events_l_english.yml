@@ -267,7 +267,6 @@
  death_management.killer:0 "[dead_character.GetSheHe|U]は[battle_death_killer.GetTitledFirstName]、[battle_death_killer.GetLiege.GetTitledFirstName]の[battle_death_killer.GetLiege.Custom2('RelationToMe', SCOPE.sC('battle_death_killer'))]との激闘の末に殺害されました。」#!"
  death_management.no_killer:0 "[dead_character.GetSheHe|U]は激しい小競り合いの中で流れ矢に討たれました。」#!"
  death_management.1200.t:0 "配偶者の死"
- death_management.1200.desc:0 "\n\n[dead_character.GetHerHim]を行かせるべきではなかった…こんな…"
  death_management.1200.a:0 "[battle_death_killer.GetFirstNameNoTooltip]は死人だ！死を！"
  death_management.1200.b:0 "あなたを決して忘れはしない…"
  death_management.1200.c:0 "あなたは勇敢さを証明した、愛しい人よ…"
@@ -310,3 +309,5 @@
  death_management.1000.plaguestart: "疫病という災厄は[realm.GetNameNoTier]で未だ凄惨な行進を続けている。その前には貴賎の別もなく、農民も貴族も等しく横たわるだけだ。残酷で平等な現実という壁はある瞬間、突如としてその姿を現す。\n\n"
  death_management.1000.plaguespouse: "侍医がゆるゆると首を振って[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_character'))]の体の傍から立ち去る。私は[dead_character.GetHerHis]の手を取る。温かさだけがまだ残っている。\n\n"
  death_management.1001.plaguechild: "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_character'))]、[dead_character.GetFirstName]の体が力無く寄りかかる感覚に私の胃は静かな苦しみで捻れ、蠢く。侍医や治癒士は[dead_character.GetHerHim]を救うために日がな一日尽力してくれたが、彼らの厳しい顔はその言葉の何よりも克明だった。\n\nこんなに若く、こんな…希望に満ちていたはずなのに。このような死がこれからも襲いかかってくるのか。\n\n[ROOT.Char.GetFaith.HighGodName]よ、お願いします。我らを導いてください。"
+ death_management.1200.desc_sad: "\n\n[dead_character.GetHerHim]を手放すべきではなかった…こんなはずでは…"
+ death_management.1200.desc_happy: "\n\nついに、あの[dead_character.Custom('InsultNoun')]が死んだ！"

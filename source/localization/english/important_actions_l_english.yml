@@ -734,7 +734,7 @@
  action_promote_legend_click: "#I クリックで表示#!"
  action_promote_foreign_legend: "伝説の後援"
  action_promote_foreign_legend_label: "後援できる伝説があります"
- action_promote_foreign_legend_desc: "あなたは誰かの[legend|E]を後援することも出来ます。\n\n#help [legends|E]は[legitimacy|E]、[dynasty_prestige|E]、[prestige|E]、[piety|E]、[traits|E]、および[claims|E]を得るのに役立ちます。あなたの領国に広がった[legend|E]を後援する事で報酬を得られます。"
+ action_promote_foreign_legend_desc: "あなたは誰かの[legend|E]を後援することも出来ます。\n\n#help [legends|E]は[legitimacy|E]、[dynasty_prestige|E]、[prestige|E]、[piety|E]、[traits|E]、および[claims|E]を得るのに役立ちます。あなたの領国に伝播した[legend|E]を後援する事で報酬を得られます。"
  action_promote_foreign_legend_click: "#I クリックで表示#!"
  action_upgrade_legend: "伝説を強化する"
  action_upgrade_legend_label: "伝説を強化することができます"

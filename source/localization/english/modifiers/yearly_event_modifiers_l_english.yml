@@ -34,7 +34,7 @@
  lunatic_accepting_of_others_modifier_desc:0 "この人物は誰もが平和に暮らしている世界を夢見ている。"
  all_work_no_play_persian_modifier:0 "仕事ばかりで遊びがない"
  poisonous_plants:0 "毒草の栽培"
- poisonous_plants_desc:0 "この人物は様々な植物を栽培している、中には毒草に見えるようなものも…"
+ poisonous_plants_desc: "この人物は様々な植物を栽培している。中には毒草に見えるようなものも…"
  impressive_flowers:0 "見事な花の栽培"
  impressive_flowers_desc:0 "この人物は、色とりどりの印象的な花々をたくさん栽培している。"
  useful_herbs:0 "薬草の栽培"
