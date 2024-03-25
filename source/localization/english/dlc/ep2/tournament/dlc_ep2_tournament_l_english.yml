@@ -2,7 +2,7 @@
  train_for_tournament_decision_name:0 "競技会に向けて鍛える"
  train_for_tournament_decision_desc:0 "鋼鉄が私を呼んでいるのだ。装備を身につけ、練習場に向かおう。"
  train_for_tournament_decision_tooltip:0 "[prowess|E]を鍛え、[GetActivityType('activity_tournament').GetName]に備えます。"
- train_tournament_decision.tt:0 "あなたの$knight_culture_player_plural$と切磋琢磨しましょう。うまくいけば[GetActivityType('activity_tournament').GetName]に備えた戦いのイベントにより[prowess|E]が上がるかもしれません。"
+ train_tournament_decision.tt:0 "あなたの$knight_culture_player_plural$と切磋琢磨しましょう。うまくいけば[GetActivityType('activity_tournament').GetName]に備えた戦いのイベントにより[prowess|E]が上がるかもしれません"
  train_for_tournament_decision_confirm:0 "鍛錬を始めよう"
  grand_tournament_active:0 "あなたが参加できる[GetActivityType('activity_tournament').GetName]がある必要があります"
  ep2_decision_events.0001.t:0 "競技会の訓練"

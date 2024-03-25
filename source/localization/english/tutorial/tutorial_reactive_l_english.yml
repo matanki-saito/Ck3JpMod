@@ -340,7 +340,7 @@
  ra_legends_3: "$action_reactive_advice_legends$"
  ra_legends_3_desc: "$action_reactive_advice_legends$パネルに含まれる情報には、基本費用、維持費、有効な効果、伝説の階梯が含まれます。\n\nハイライトされているのは、リストから伝説を選択するために使うボタンです。"
  ra_legends_4: "$action_reactive_advice_legends$"
- ra_legends_4_desc: "このパネルには、作成しようとしている伝説に関する情報と、[characters|E]の選択が含まれています。これらは[legend_protagonists|E]になる可能性がある人物たちです。\n\n#weak 伝説を開始すると、伝説の編纂が始まりそこから[legend_quality|E]を増やしたり、完成させたりできます。#!"
+ ra_legends_4_desc: "このパネルには、創作しようとしている伝説に関する情報と、[characters|E]の選択が含まれています。これらは[legend_protagonists|E]になる可能性がある人物たちです。\n\n#weak 伝説を開始すると、伝説の編纂が始まります。そこから[legend_quality|E]を上げたり、成立させたりできます。#!"
  action_reactive_advice_plague_resistance: "アドバイス: 伝染病への抵抗力"
  action_reactive_advice_plague_resistance_desc: "「[epidemic_resistance|E]」の概要への導入を開始します。"
  action_reactive_advice_plague_resistance_click: "$click_to_open_lesson$"

@@ -322,7 +322,7 @@
  spawn_epidemic_interaction_bubonic_plague: "腺ペスト"
  spawn_epidemic_interaction_typhus: "チフス"
  spawn_epidemic_interaction_dysentery: "赤痢"
- spawn_legend_interaction: "伝説の根源を得る"
+ spawn_legend_interaction: "伝説の原型を得る"
  spawn_legend_interaction_heroic: "英雄"
  spawn_legend_interaction_holy: "神聖"
  spawn_legend_interaction_legitimizing: "正統"
