@@ -704,7 +704,7 @@
  host_dinner_events.3007.refused_to_let_them_go:0 "[stop_host_scope.GetName]は[runaway_courtier.GetHerHim]を手放すことを拒否した"
  host_dinner_events.3007.b:0 "[runaway_courtier.GetHerHim]を行かせよう。"
  host_dinner_events.3008.title:0 "小さな覗き見"
- host_dinner_events.3008.desc:0 "朝になり、朝日が突然視界に差し込むので、私はしぶしぶ目覚めの世界へと入る。一人の使用人が私の朝食を私の横に置くが、[nervous_servant.GetSheHe]は私の部屋の周りをぎこちなく足を引きずりながらふらふらと歩いている。[nervous_servant.GetHerHim]に何か問題があるのかと尋ねると、そのような最小限の挑発でも、[nervous_servant.GetSheHe]は言葉を吐き始める。\n\n「ああ、我が賢明で親切な[ROOT.Char.GetTitleAsNameNoTooltip]様、この壁はしゃべるのです。ああ、彼らはなんとひどいことを言うのだろう。私はあまりにも多くのことを知っているので、何日も考え続けています。[stop_host_scope.GetName]に話しても許してもらえないでしょうが、もうこの秘密を頭の中に留めておくことはできないのです！」"
+ host_dinner_events.3008.desc:0 "朝になり、朝日が突然視界に差し込んできたので、私はしぶしぶ目覚めの世界へと入る。一人の使用人が朝食を私の横に置くが、[nervous_servant.GetSheHe]は私の部屋の周りをぎこちなく足を引きずりながら、ふらふらと歩いている。[nervous_servant.GetHerHim]に何か問題があるのかと尋ねると、そのような最小限の挑発でも、[nervous_servant.GetSheHe]は言葉を吐き始める。\n\n「ああ、賢明で親切な[ROOT.Char.GetTitleAsNameNoTooltip]様、この壁はしゃべるのです。ああ、彼らはなんとひどいことを言うのだろう。私はあまりにも多くのことを知っているので、何日も考え続けています。[stop_host_scope.GetName]に話しても許してもらえないでしょうが、もうこの秘密を頭の中に留めておくことはできないのです！」"
  host_dinner_events.3008.a:0 "「すぐに教えてくれ！」"
  host_dinner_events.3008.secret_discovered:0 "[nervous_servant.GetSheHe|U]は秘密を明かした"
  host_dinner_events.3008.b:0 "「コインがあれば口も緩むかね？」"
