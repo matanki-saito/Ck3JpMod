@@ -466,3 +466,5 @@
  msg_promoted_legend_completed_desc: "あなたの[promoted_legend|E] [Legend.GetName]が成立した"
  message_consolidation_names: "#T その他#!\n[PlayerMessageItem.GetConsolidationNames]"
  message_consolidation_others: "#tooltip:message_consolidation_names #L [Subtract_int32( PlayerMessageItem.GetConsolidationCount, '(int32)2' )|V]の[Select_CString( GreaterThan_int32( PlayerMessageItem.GetConsolidationCount, '(int32)3' ), 'その他', 'その他' )] #!#!"
+ msg_legend_library_added: "書庫に伝説が加わった"
+ msg_legend_library_added_desc: "[Legend.GetName]が[legend_library|E]に加わった"

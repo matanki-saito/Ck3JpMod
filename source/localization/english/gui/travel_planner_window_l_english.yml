@@ -105,3 +105,4 @@
  TRAVEL_POINT_OF_INTEREST_TT_poi_grand_city:0 "[Province.GetBaronyNameExplicitly]の大都市"
  poi_grand_city_visit_event_tt:0 "観光イベントを起こすだろう"
  TRAVEL_POINT_OF_INTEREST_TT_poi_natural_feature: "$TRAVEL_POINT_OF_INTEREST_TT_poi_special_buildings$"
+ TRAVEL_POINT_OF_INTEREST_TT_poi_legend_capitals: "Origin of [Province.GetTitle.GetHolder.GetPromotedLegend.GetName]"

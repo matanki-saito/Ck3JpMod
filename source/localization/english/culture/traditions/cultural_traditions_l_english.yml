@@ -1058,3 +1058,4 @@
  culture_parameter_always_unlock_legendary_hunting_lodge: "[SelectLocalization( HasDlcFeature( 'legends' ), 'culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC', 'culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC' )]"
  culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC: ""
  culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "この[culture|E]の[rulers|E]は、[legend|E]を完遂させた後$building_type_legendary_hunting_lodge$を建設することがいつでも可能です"
+ culture_parameter_less_plague_spread_culture: "[culture|E]の[characters|E]は[epidemics|E]が土地で広がりづらくなる"
