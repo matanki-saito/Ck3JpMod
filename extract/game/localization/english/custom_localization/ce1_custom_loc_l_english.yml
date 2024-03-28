@@ -40,3 +40,22 @@
  
  GetSaintlyTrait_theologian: "[GetTrait('theologian').GetName( GetNullCharacter )]"
  GetSaintlyTrait_sayyid: "[GetTrait('sayyid').GetName( GetNullCharacter )]"
+ 
+ GetPiousAdj_pious: "pious"
+ GetPiousAdj_sacred: "sacred"
+ GetPiousAdj_holy: "holy"
+ GetPiousAdj_devout: "devout"
+ GetPiousAdj_religious: "religious"
+ GetPiousAdj_saintly: "saintly"
+ 
+ GetDescendantSynonym_descendant: "descendant"
+ GetDescendantSynonym_offspring: "offspring"
+ GetDescendantSynonym_heir: "heir"
+ GetDescendantSynonym_progeny: "progeny"
+ GetDescendantSynonym_scion: "scion"
+ 
+ GetCustodianSynonym_custodian: "custodian"
+ GetCustodianSynonym_guardian: "guardian"
+ GetCustodianSynonym_protector: "protector"
+ GetCustodianSynonym_keeper: "keeper"
+ GetCustodianSynonym_defender: "defender"

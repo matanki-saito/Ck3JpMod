@@ -1150,6 +1150,7 @@
  culture_parameter_always_unlock_legendary_hunting_lodge: "[SelectLocalization( HasDlcFeature( 'legends' ), 'culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC', 'culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC' )]"
  culture_parameter_always_unlock_legendary_hunting_lodge_NO_LEGENDS_DLC: ""
  culture_parameter_always_unlock_legendary_hunting_lodge_HAS_LEGENDS_DLC: "[rulers|E] of this [culture|E] can always construct a $building_type_legendary_hunting_lodge$ after completing a [legend|E]"
+ culture_parameter_less_plague_spread_culture: "[characters|E] of this [culture|E] have a higher chance of [epidemics|E] not spreading into their lands"
  
 
  #BP2 Traditions
