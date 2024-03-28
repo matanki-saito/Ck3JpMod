@@ -5,4 +5,4 @@
  poi_lighthouse_of_alexandria.visit:0 "アレクサンドリアの灯台を訪れた"
  poi_grand_city.visit:0 "[province.GetName]の偉大な都市を訪れた"
  poi_natural_feature.visit: "[province.GetHolding.GetSpecialBuildingType.GetName]に訪れた"
- poi_legend_capitals.visit: "Visited the origin place of [province.GetTitle.GetHolder.GetPromotedLegend.GetName]"
+ poi_legend_capitals.visit: "[province.GetTitle.GetHolder.GetPromotedLegend.GetName]伝説発祥の地を訪れた"
