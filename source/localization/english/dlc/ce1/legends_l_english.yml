@@ -72,7 +72,7 @@
  game_concept_ancestral_claim_desc: "父祖の請求権の[casus_belli|E]は、あなたが正統化の[legend|E]を通じて獲得した請求権の及ぶすべての土地を獲得することを可能とします。"
  legend_heroic: "英雄的な伝説"
  legend_heroic_name: "[ROOT.Legend.GetOwner.GetNameNoTooltip]の伝説"
- legend_heroic_desc: "[ROOT.Legend.GetOwner.GetTitledFirstNameNoTooltip] is renowned for [ROOT.Legend.GetOwner.GetHerHis] heroic deeds."
+ legend_heroic_desc: "[ROOT.Legend.GetOwner.GetTitledFirstNameNoTooltip]はその英雄的な偉業によって知られている。"
  legend_legitimizing: "正統化の伝説"
  legend_legitimizing_name: "[ROOT.Legend.GetOwner.GetNameNoTooltip]の系譜"
  legend_legitimizing_desc: "[ROOT.Legend.GetOwner.GetDynasty.GetBaseNameNoTooltip]王朝の血統は、何世紀も前からこの地を支配してきた。"
