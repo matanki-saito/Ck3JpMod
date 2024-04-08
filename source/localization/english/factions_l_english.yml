@@ -8,7 +8,7 @@
  FACTION_DEMAND_REFUSED_OPT:0 "よろしい、ならば戦争だ！"
  faction_demand.2004.opt_tt:1 "[faction_target.GetShortUIName]との戦争に参戦します"
  FACTION_DEMAND_SEND_DEMAND_NOTIFICATION_OPT:0 "最後通牒を突きつけてやる！"
- FACTION_IMPRISONMENT_RETALIATION_WARNING:2 "#high [recipient.GetShortUIName]の投獄は、[retaliating_faction.GetName]の反乱を引き起こす可能性があります！ #!"
+ FACTION_IMPRISONMENT_RETALIATION_WARNING:2 "#high [recipient.GetShortUIName]の投獄は、[retaliating_faction.GetName]の反乱を引き起こす可能性があります！#!"
  faction_demand.9001.t:1 "[retaliating_faction.GetName]よ、これは然るべき報いだ"
  FACTION_FAILED_IMPRISONMENT_RETALIATION:1 "[actor.GetShortUIName]は、我が派閥の仲間である[recipient.GetShortUIName]を不当に投獄しようとした。"
  FACTION_SUCCESSFUL_IMPRISONMENT_RETALIATION:1 "[actor.GetShortUIName]は、我が派閥の仲間である[recipient.GetShortUIName]を不当に投獄した。"

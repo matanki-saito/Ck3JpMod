@@ -537,7 +537,7 @@
  revoke_false_conversion_decision_confirm:0 "宣言する"
  encourage_confession_of_false_conversions_decision:0 "偽りの改宗者への恩赦"
  encourage_confession_of_false_conversions_decision.tt:0 "隠れ信徒たちが隠れた[faith|E]を告白するかもしれない"
- encourage_confession_of_false_conversions_decision.desc:0 "#F 私の領地には、隠れた宗教家がいて隠れた信仰を実践していることは公然の秘密です。もしかすると、公式な恩赦は、彼らにその偽装をやめるよう説得できるかもしれない。 #!"
+ encourage_confession_of_false_conversions_decision.desc:0 "#F 私の領地には、隠れた宗教家がいて隠れた信仰を実践していることは公然の秘密です。もしかすると、公式な恩赦は、彼らにその偽装をやめるよう説得できるかもしれない。#!"
  encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "あなたの[faith|E]が、隠れ信者の信仰する宗派に対して彼らが公に信仰する宗派よりも[tolerates|E]を持っているとき、領内の隠れ信者は彼らの真なる信仰を打ち明けることができるようになります"
  encourage_confession_of_false_conversions_decision.desc.tt_paranoia:0 "[GetTrait('deceitful').GetName( GetNullCharacter )]か[GetTrait('paranoid').GetName( GetNullCharacter )]である[characters|E]は、あなたの信仰と異なる場合、秘密の[faith|E]を明かさないかもしれない"
  encourage_confession_of_false_conversions_decision.desc.tt_pluralist_counties:0 "あなたが[independent|E]の場合、[GetModifier('false_convert_modifier').GetNameWithTooltip]を持つあなたの[realm|E]の中の[counties|E]は、あなたが彼らの新しい[faith|E]に対してどれだけ敵対的であるかによっては、公然と改宗するかもしれない"

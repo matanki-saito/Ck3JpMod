@@ -91,7 +91,7 @@
  compassion_explanation:1 "この人物は#Bold やや慈悲深く#!、他の人々に害を与えず、特に子供たちを含む[prisoners|E]を解放したり、[cultural_acceptance|E]を促進したり、人々が愛に基づいて[marry|E]することを許したり、[friends|E]を作ったりする傾向があります。彼らは他の人物を[GetScheme('murder').GetTypeName]、[execute|E]、または[torture|E]する可能性が低く、そして、道具のように[hostages|E]を扱うのを避けようとします。"
  compassion_neg_explanation:0 "この人物は#Bold やや冷酷#!であり、[GetScheme('murder').GetTypeName]などの[hostile_schemes|E]を使用したり、[prisoners|E]を[execution|E]や[torture|E]で罰したり、[agents|E]として参加したりする傾向があります。彼らは他の人々の苦しみに関心を持つことは少ないです。"
  compassion_strong_explanation:1 "この人物は#Bold かなり多感#!であり、他の人々に害を与えず、特に子供たちを含む[prisoners|E]を解放したり、[cultural_acceptance|E]を促進したり、人々が愛に基づいて[marry|E]することを許したり、[friends|E]を作ったりする傾向があります。彼らは他のキャラクターを[GetScheme('murder').GetTypeName]、[execute|E]、または[torture|E]する可能性が低く、そして、道具のように[hostages|E]を扱うのをいっそう避けようとします。"
- compassion_strong_neg_explanation:0 "この人物は#Bold かなり冷酷 #!であり、[GetScheme('murder').GetTypeName]などの[hostile_schemes|E]を使用したり、[prisoners|E]を[execution|E]や[torture|E]で罰したり、[agents|E]として参加したりする傾向があります。彼らは他の人々の苦しみに関心を持つことは少ないです。"
+ compassion_strong_neg_explanation:0 "この人物は#Bold かなり冷酷#!であり、[GetScheme('murder').GetTypeName]などの[hostile_schemes|E]を使用したり、[prisoners|E]を[execution|E]や[torture|E]で罰したり、[agents|E]として参加したりする傾向があります。彼らは他の人々の苦しみに関心を持つことは少ないです。"
  ai_warlike_personality:1 "[warlike_i][ai_warlike_personality|L]"
  ai_cautious_personality:1 "[cautious_i][ai_cautious_personality|L]"
  ai_economical_boom_personality:1 "[builder_i][ai_economical_boom_personality|L]"

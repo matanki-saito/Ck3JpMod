@@ -1,6 +1,6 @@
 ﻿l_english:
  ACTIVE_COUNCIL_TASK_TT:2 "我が[ActiveCouncilTask.GetPositionType.GetName]である[ActiveCouncilTask.GetCouncillor.GetUIName]が[ActiveCouncilTask.GetTaskType.GetName|V]に割り当てられた。"
- ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V] #!\n@warning_icon!#X この業務を継続させるには、評議会の役職に人物を割り当ててください#!"
+ ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V]#!\n@warning_icon!#X この業務を継続させるには、評議会の役職に人物を割り当ててください#!"
  POTENTIAL_COUNCIL_TASK_TT:2 "[ActiveCouncilTask.GetCouncillor.GetUIName]が[ActiveCouncilTask.GetTaskType.GetName|V]に割り当てられます。"
  council_task_possible_side_effects:1 "\n\n[councillor_task_possible_side_effects|E] #weak —— 評議員の能力#!"
  task_generic_notification_tooltip:0 "[councillor_task|E]によって"

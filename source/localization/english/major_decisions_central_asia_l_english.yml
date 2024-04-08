@@ -1,6 +1,6 @@
 ﻿l_english:
  become_greatest_of_khans_decision:0 "最も偉大なるハンへの登極"
- become_greatest_of_khans_decision_desc:0 "#F 我らの広大な領域から向こう端の小さな集落までの全ての部族長を召集する準備ができている。彼らは私がハンの中のハン、つまりこの空の下にいる全ての者の主であることを宣言するだろう。\nここから始まるのだ、我らの征服が。 #!"
+ become_greatest_of_khans_decision_desc:0 "#F 我らの広大な領域から向こう端の小さな集落までの全ての部族長を召集する準備ができている。彼らは私がハンの中のハン、つまりこの空の下にいる全ての者の主であることを宣言するだろう。\nここから始まるのだ、我らの征服が。#!"
  become_greatest_of_khans_decision_tooltip:0 "モンゴル帝国を建国し、世界の支配者であるチンギス・ハンになります"
  become_greatest_of_khans_decision_confirm:0 "大クリルタイを開催する"
  become_greatest_of_khans_decision_gain_mongol_empire:1 "あなたの領国が[mongol_empire|E]になります"

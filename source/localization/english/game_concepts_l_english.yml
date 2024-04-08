@@ -1155,7 +1155,7 @@
  sexuality_as:0 "[asexual|E]"
  game_concept_asexual:0 "無性愛"
  game_concept_asexual_desc:2 "#EMP クルセイダーキングスⅢ#!において、この人物は性別に関係なく、他の人物にほとんどまたは全く魅力を感じません。"
- sexuality_none:0 "#V なし #!"
+ sexuality_none:0 "#V なし#!"
  game_concept_title_succession:0 "称号の継承"
  game_concept_title_specific_succession:0 "特殊称号"
  game_concept_title_succession_desc:0 "[title|E]には独自の[succession_law|E]が存在し、称号を保持する者が治める[realm|E]によってそれぞれ異なります。"

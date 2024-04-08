@@ -15,7 +15,7 @@
  WAR_RESULTS_GHW_MY_BENEFICIARY:1 "あなたの[beneficiary|E]"
  WAR_RESULTS_MY_CONTRIBUTION:1 "あなたの[war_contribution|E]"
  WAR_RESULTS_MY_WAR_CHEST_SHARE:1 "あなたの軍資金負担"
- WAR_RESULTS_GAIN_NOTHING:1 "#weak 貢献度が必要な$VALUE$より少なかったため、あなたは何も得ることができません #!"
+ WAR_RESULTS_GAIN_NOTHING:1 "#weak 貢献度が必要な$VALUE$より少なかったため、あなたは何も得ることができません#!"
  WAR_RESULTS_DISMISS:0 "むべなるかな"
  WAR_RESULTS_INVALIDATED_DESC:0 "[casus_belli|E]が最終的に有効ではなくなったために戦争は終わった\n誰にも損得は発生しない"
  WAR_OVER_GREETING:0 "[TARGET_CHARACTER.Custom2('AppropriateGreeting', CHARACTER.Self)]\n[TARGET_CHARACTER.Custom2('AppropriateSupplimentaryGreeting', CHARACTER.Self)]"
