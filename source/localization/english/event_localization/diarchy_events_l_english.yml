@@ -402,7 +402,7 @@
  diarchy.9003.desc.intro:0 "もう終わった。私は今、完全に、そして一人で統治している。\n\n"
  diarchy.9003.desc.proxy.proxy_fought:0 "我々が広間に入ると、[usurper.GetTitleAsNameNoTooltip][liege.GetFirstName]は我々の結束を破るために部下である[proxy.Custom2('MyCharacterIntroduction', ROOT.Char)]を差し向けた。我々は短剣と同じくらい厳しい言葉で戦ったが、最終的には宮廷が私の味方であることを誰もが知ることになった。"
  diarchy.9003.desc.proxy.self_fought:0 "それから[usurper.GetTitleAsNameNoTooltip][liege.GetFirstName]は、私のしもべとしてとして我々に会い、私は玉座の間へと足を踏み入れた。[liege.GetHerHis]の動揺する廷臣たちの忠誠を取り戻すために最後の努力をしたことについては[liege.GetHerHim]の功績を認めなければならないが、[liege.GetHerHis]の叫び声は聞こえず、その叫びは盲目にしか映らなかった。\n\nすぐに、その部屋にいる誰が#EMP 真の#![usurper.Custom('MistressMaster')]であるかを全員が知ることになった。"
- diarchy.9003.desc.surrendered:0 "結局のところ、それは何か拍子抜けだった。部下と私が部屋に入ると、誰もが我々がなぜそこにいるのか、何をするためにそこにいるのかを理解していた。特に[usurper.GetTitleAsNameNoTooltip][liege.GetFirstName]からの抵抗はほとんどなく、私は予定していた演説をほとんど使う必要さえなかった。"
+ diarchy.9003.desc.surrendered:0 "結局のところ、それはどこか拍子抜けだった。部下と私が部屋に入ると、誰もが我々がなぜそこにいるのか、何をするためにそこにいるのかを理解していた。特に[usurper.GetTitleAsNameNoTooltip][liege.GetFirstName]からの抵抗はほとんどなく、私は予定していた演説をほとんど披露する必要さえなかった。"
  diarchy.9003.desc.scuffled:0 "我々が玉座の間に入った瞬間、[usurper.GetTitleAsNameNoTooltip][liege.GetFirstName]は聞くに値しないことを喚き始め、誰か、誰でもいいから[liege.GetHerHim]を助けてくれと叫んでいた。我々は武器を抜く必要さえなかったが、それでも到着した数人の衛兵が我々に剣を向けるのを止めることはできなかった。[liege.GetFirstNameNoTooltip]に味方する者は他に誰もいなかった。"
  diarchy.9003.desc.outro:0 "\n\n衛兵は消え去り、貴族たちはひざまずいた。今でも、噂は[usurper.GetPrimaryTitle.GetTierAsName]全体に広がり、忠誠心は池に浮かぶ波紋のように外に向かって広がっている。"
  diarchy.9003.a:0 "そして#EMP 私の#!玉座には一滴の血も流れていない！"
