@@ -602,7 +602,7 @@
  trait_order_member_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は武装化した聖戦騎士団に仕えている。"
  trait_bastard:0 "私生児"
  trait_bastard_desc:1 "この人物は両親や側室といった法律上の夫婦関係から生まれたものではなく、一生、私生児という汚点を背負わなければならない。"
- trait_bastard_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は両親の法的な関係から生まれたのではなく、一生、私生児の汚名とともに[ROOT.GetCharacter.GetHerHis]の生涯を生きていかなければならない。"
+ trait_bastard_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は両親の法的な関係から生まれたのではなく、一生、私生児の汚名とともにその生涯を生きていかなければならない。"
  trait_twin:0 "双子"
  trait_twin_desc:0 "この人物は双子として生まれた。"
  trait_twin_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は双子として生まれた。"
