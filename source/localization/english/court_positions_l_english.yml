@@ -106,7 +106,7 @@
  medium_realm_salary_mod:0 "大きい[realm_size|E]#low (60+)#!"
  large_realm_salary_mod:0 "非常に大きい[realm_size|E]#low (90+)#!"
  enormous_realm_salary_mod:0 "巨大な[realm_size|E]#low (+120)#!"
- holds_court_position_opinion:0 "$POSITION$: $VALUE|=+$"
+ holds_court_position_opinion:0 "$POSITION$：$VALUE|=+$"
  COURT_POSITION_APTITUDE_TOOLTIP_HEADER:0 "適性"
  COURT_POSITION_aptitude_description_position:1 "[aptitude|e]: [CourtPosition.GetAptitudeText|V]"
  COURT_POSITION_aptitude_breakdown:0 "[CHARACTER.GetShortUINameNoTooltip]の$COURT_POSITION$としての[aptitude|e]は以下の影響を受けます:"
