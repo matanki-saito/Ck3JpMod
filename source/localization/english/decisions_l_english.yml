@@ -818,7 +818,7 @@
  commission_furniture_tooltip:1 "#T 調度品#!\n$DESC$"
  commission_book_tooltip:1 "#T 本#!\n$DESC$"
  restore_roman_empire_decision_tt:0 "あなたの宗教がキリスト教か、グレコ・ローマ宗教、またはあなたの文化がローマである"
- outremer_decision_hybrid_tt:0 "あなたは[THIS.Char.GetCulture.GetPrefix]――つまり[hybrid_culture.GetName]の[hybrid_culture|E] を$innovation_men_at_arms$と$innovation_desert_tactics$の[innovations|E]で形成することになります"
+ outremer_decision_hybrid_tt:0 "あなたは[THIS.Char.GetCulture.GetPrefix]と[hybrid_culture.GetName]の[hybrid_culture|E]を形成し、$innovation_men_at_arms$と$innovation_desert_tactics$の[innovations|E]を獲得します"
  unite_the_western_slavs_decision_tt_1:1 "あなたの主な称号は、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国です"
  unite_the_western_slavs_decision_tt_2:1 "あなたは皇帝で、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国のいずれかを保有しています"
  scrape_the_barrel_decision:0 "残り物から選ぶ"
