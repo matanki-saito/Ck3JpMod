@@ -256,7 +256,7 @@
  ra_travel_planning_caravan_master:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
  ra_travel_planning_caravan_master_desc:0 "[GetCourtPositionType('travel_leader_court_position').GetName()]を任命できます。特別な[court_position|E]で、行われる[travels|E]の全てに同行します。\n\n[travel_speed|E]と[travel_safety|E]に強く影響するので、大抵の場合、旅程が長くなるほどこの職位に就く人物が欲しくなります。"
  ra_travel_planning_travel_options:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
- ra_travel_planning_travel_options_desc:0 "この明瞭な旅では、[travel_options|E]を二つ選ぶことも出来ます。\n\n旅のオプションは、たいてい、[gold|E]と引き換えに様々な便益をもたらします。ただ、ほとんどは[travel_speed|E]と[travel_safety|E]です。\n\n多くのオプションは、旅のルート上にある特定の[terrain|E]タイプの[travel_danger|E]を低減します。各地の危険性タイプはそれぞれ、マップ上に固有色で塗り分けられています。そういった遭遇し得る危険地帯は、ルート上にアイコンとしても表示されています。"
+ ra_travel_planning_travel_options_desc:0 "この旅の手助けとなる[travel_options|E]を二つ選ぶことも出来ます。\n\n旅のオプションは、たいてい、[gold|E]と引き換えに様々な便益をもたらします。ただ、ほとんどは[travel_speed|E]と[travel_safety|E]に関してです。\n\n多くのオプションは、旅のルート上にある特定の[terrain|E]タイプの[travel_danger|E]を低減します。各地の危険性タイプはそれぞれ、マップ上に固有色で塗り分けられています。そういった遭遇し得る危険地帯は、ルート上にアイコンとしても表示されています。"
  ra_travel_planning_custom_route:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"
  ra_travel_planning_custom_route_desc:0 "最後になりましたが、目的地に直行でなく、[travel_danger|E]を迂回するルートも設定可能です。"
  ra_travel_planning_conclusion:0 "$REACTIVE_ADVICE_TRAVEL_PLANNING$"

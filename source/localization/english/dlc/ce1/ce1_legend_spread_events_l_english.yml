@@ -271,7 +271,7 @@
  legend_spread_events.5230.c: "そして、私はその物語を語るために生き延びた！"
  legend_spread_events.5230.d: "連中はただの山賊だったと思うぞ。"
  legend_spread_events.5235.t: "一騎打ち"
- legend_spread_events.5235.desc: "I am recounting my exploits in battle to [chronicler.GetFirstName] when [chronicler.GetSheHe] interrupts abruptly.\n\n\"\"Is it true, then? Did you slay the vile enemy commander in single combat?\" [chronicler.GetHerHis|U] eyes sparkle with the possibilities. Clearly this is some sort of tall tale absorbed through word of mouth.\n\nI was truly there in the battle, but the confusion of the melee makes a possibility of practically any event..."
+ legend_spread_events.5235.desc: "私が[chronicler.GetFirstName]に戦場での武勇伝を語っていると、[chronicler.GetSheHe]は突然口を挟んだ。\n\n「では、それはまことなのですか？　卑劣な敵将を一騎打ちで斃したというのは？」[chronicler.GetHerHis|U]の目が、ある可能性に輝く。これは、明らかに人づてに聞いた作り話だ、と。\n\n私は実際その戦闘に参加してはいたのだ。そして乱戦の混沌の中では、ありとあらゆる事が起こる可能性がある…"
  legend_spread_events.5235.a: "奴らは我が刃のもとに斃れた。"
  legend_spread_events.5235.b: "奴らが誰の剣によって斃されたかは問題ではないのだ。"
  legend_spread_events.5240.t: "Discretion or Valor?"
