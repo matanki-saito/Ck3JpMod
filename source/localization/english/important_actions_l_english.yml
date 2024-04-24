@@ -730,7 +730,7 @@
  action_inherit_legend_click: "#I クリックで表示#!"
  action_promote_legend: "伝説を始める"
  action_promote_legend_label: "あなたには始めることが出来る伝説がある"
- action_promote_legend_desc: "あなたは[legend|E]を始めることができる。\n\n#help [legends|E]は[legitimacy|E]、[dynasty_prestige|E]、[prestige|E]、[piety|E]、[traits|E]及[claims|E]を獲得するのに役立つ。#!"
+ action_promote_legend_desc: "あなたは[legend|E]を始めることができます。\n\n#help [legends|E]は[legitimacy|E]、[dynasty_prestige|E]、[prestige|E]、[piety|E]、[traits|E]及び[claims|E]を獲得するのに役立ちます。#!"
  action_promote_legend_click: "#I クリックで表示#!"
  action_promote_foreign_legend: "伝説の後援"
  action_promote_foreign_legend_label: "後援できる伝説があります"

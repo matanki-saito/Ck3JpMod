@@ -357,7 +357,7 @@
  hunt.1001.desc_opening_courtier_plural_dangerous:0 "我が[ROOT.Char.Custom2('RelationToMeShort', hunt_participant)]、[hunt_participant.GetTitledFirstName]の合図が、[host.GetCurrentLocation.Custom('GetTerrainType')]に響き渡る — [activity.Custom('GetAnimalType')]の[activity.Custom('GetAnimalGroup')]がここから遠くない窪地に身を寄せている。"
  hunt.1001.desc_opening_plural_dangerous:0 "[host.GetCurrentLocation.Custom('GetTerrainType')]を調べていると、まるで最初からそこにいたかのように、私は突然[activity.Custom('GetAnimalGroup')]に遭遇する！"
  hunt.1001.wolf:0 "\n\n私たちが近づくと、獣たちは一斉に動き出し、警戒して[activity.Custom('GetAnimalSoundParticiple')]し、[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中へ逃げていき、[activity.Custom('GetAnimalDanger')]を剥き出しにしている。\n\n"
- hunt.1001.desc_dangerous:0 "\n\nその[activity.Custom('GetAnimalAdjective')]獣は見る者を圧倒する。馬たちは、[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中にその[activity.Custom('GetAnimalFeature')]を見つけると物怖じしてしまう。\n\n"
+ hunt.1001.desc_dangerous:0 "\n\nその[activity.Custom('GetAnimalAdjective')]獣は見る者を圧倒する。我らの馬は、[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中にその[activity.Custom('GetAnimalFeature')]を見つけると怖気づいた。\n\n"
  hunt.1001.closing_plural_dangerous:0 "我々は逃げる[activity.Custom('GetAnimalColor')]害獣を追跡し、集団で一番大きな一匹に狙いを定める。これからが本当の追跡だ！"
  hunt.1001.closing_dangerous:0 "前触れは何もなかった。突如、[activity.Custom('GetAnimalColor')]毛並みが[activity.Custom('GetAnimalChargePresent')]去ると、丘の向こうへと消えてしまった！"
  hunt.1001.a.flavor_1:0 "#EMP タリホー！#!"

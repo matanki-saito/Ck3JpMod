@@ -390,7 +390,7 @@
  ep2_tournament_events.4001.a:0 "私を馬に戻してくれ！"
  ep2_tournament_events.4001.a.tt:0 "すべての[courtiers|E]と[guests|E]は、あなたに対して評価#COLOR_GREEN 10#!を与えた"
  ep2_tournament_events.4001.b:0 "私はあいつより意志が固いんだ。"
- ep2_tournament_events.4001.c:0 "慎重であるべきかもしれない。"
+ ep2_tournament_events.4001.c:0 "三十六計逃ぐるに如かず。"
  ep2_tournament_events.4002.t:1 "$tournament_versus_header$落馬"
  ep2_tournament_events.4002.desc:0 "ドスン！ 木と木がぶつかる音が、私の狙いが正確だったと教えてくれた。それは、[versus_contestant.GetFirstName]が落馬する前にもうすでにぐったりとよろめくほどの勢いだった。私は足をゆるめた馬を止め、敵の姿を見下ろした。\n\n[versus_contestant.GetFirstNameNoTooltip]はどうにか立ち上がり、怪我というよりも風に吹かれているような塩梅だったが、[versus_contestant.GetHerHis]の盾は二つに割れ、[versus_contestant.GetHerHim]のそばに転がっていた。係員がその破片を集め、[versus_contestant.GetHerHis]のメインの――そしておそらくは唯一の――盾だと思われる小さな破片の山に積み上げるのを、[versus_contestant.GetSheHe|U]は悲しそうに見つめていた。"
  ep2_tournament_events.4002.a:0 "従者！ この[versus_contestant.GetWomanMan]に私の予備の盾をお持ちしろ！"
