@@ -230,7 +230,7 @@
  martial_chivalry.6003.desc_intro:0 "唐突に現れた影には、ほとんど疑念しかない。[dummy_attracted_gender.GetHerHis|U]の顔は夕焼けの光を反射して、なんとか冷たい印象を作り出すことができている。\n\n"
  martial_chivalry.6003.desc_ugly:0 "「あぁ…あなたか…私は#EMP 勇敢な#!騎士を期待していたのに…」\n\n[dummy_attracted_gender.GetSheHe|U]は白いハンカチで鼻を覆う。\n\n「でも、あなたなら大丈夫でしょう。私をお城まで連れ戻してもらえませんか？」"
  martial_chivalry.6003.desc_pretty:0 "「ああ、勇敢な騎士よ、ついに私を救いに来てくれたのですか？私をお城に連れ戻してくれませんか？」\n\n[dummy_attracted_gender.GetHerHis|U]の声はとても落ち着き、[dummy_attracted_gender.GetHerHis]の仕草はほっとした様子だ。"
- martial_chivalry.6003.a:0 "私は困っている無実の民を決して見捨てはしない。"
+ martial_chivalry.6003.a:0 "私は困っている無辜の民を決して見捨てはしない。"
  martial_chivalry.6003.a_success:0 "あなたは帰る道を見つける"
  martial_chivalry.6003.a_failure:0 "あなたは森で道に迷う"
  martial_chivalry.6003.b:0 "[dummy_attracted_gender.GetSheHe]はここで一人で何をしているのだろう？待ち伏せされる前に出発しなければ！"
