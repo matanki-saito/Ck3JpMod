@@ -82,7 +82,7 @@
  bp1_yearly.1031.c_killed:0 "あなたが[nemesis.GetShortUIName]を殺す"
  bp1_yearly.1031.c_saved:0 "[nemesis.GetShortUIName]はあなたの襲撃をかろうじてかわす"
  bp1_yearly.1040.t:0 "共通点"
- bp1_yearly.1040.desc:0 "[new_friend.GetTitledFirstName]と楽しく湯船に使って、二人で深い反芻とみだらなジョークを交わしている。緊張がスッとほどけるを感じる。熱い湯で身体がふやけただけではこうはなるまい。\n\n私は心から楽しんでいるのだ！それもこれも[new_friend.GetFirstNamePossessiveNoTooltip]の親交ゆえだ。"
+ bp1_yearly.1040.desc:0 "[new_friend.GetTitledFirstName]と楽しく湯船に使って、二人で深い反芻とみだらなジョークを交わしている。緊張がスッとほどけるのを感じる。熱い湯で身体がふやけただけではこうはなるまい。\n\n私は心から楽しんでいるのだ！それもこれも[new_friend.GetFirstNamePossessiveNoTooltip]の親交ゆえだ。"
  bp1_yearly.1040.desc_best_friend:0 "私はすでに[new_friend.GetHerHim]を友人の一人だと考えているが、私は我々が一緒にいられる時間が本当に楽しみで、[new_friend.GetHerHis]の評価を何よりも大切にし、[new_friend.GetHerHim]との時間がすべて笑いと温もりに満ちていることに気づいた。\n\n[new_friend.GetFirstNameNoTooltip]は私の#EMP 最高の友人#!となったのだろうか？"
  bp1_yearly.1040.desc_friend:0 "風呂への愛を確かめるまで、二人ともさして接点もなかったしお互いをあまり知らなかった。それがどうだ、私はいつもの入浴が楽しみでたまらない！あそこに行けば笑い声が絶えないのだから！\n\n二人は本当に#EMP 友人#!になったのだろうか？"
  bp1_yearly.1040.a:0 "そうだ！[new_friend.GetFirstNameNoTooltip]に乾杯！"
