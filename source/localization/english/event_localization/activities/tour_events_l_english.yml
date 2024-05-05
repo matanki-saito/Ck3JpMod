@@ -866,7 +866,7 @@
  host_dinner_events.3100.title:0 "贅沢への疑念"
  host_dinner_events.3100.desc:0 "私はここでの時間を楽しんでいるが、この屋敷では贅沢なご馳走が毎日出ている気がする。となれば、[stop_host_scope.GetName]は以前の見積もりよりもずっと裕福なのだろう。\n\nこれが正しければ[stop_host_scope.GetTitleAsNameNoTooltip|U]は[stop_host_scope.GetSheHe]がこれまで払った税より遥かに多くの財を溜め込んでいるということになる。今こそ請求の時ではないだろうか。"
  host_dinner_events.3100.a:0 "未払い分の税、今こそ払ってもらおう。"
- host_dinner_events.3100.b:0 "明日からはより厳しく取り立てるぞ、[stop_host_scope.GetSheHe|U]。"
+ host_dinner_events.3100.b:0 "[stop_host_scope.GetSheHe|U]を明日からはより厳しく取り立てよう。"
  host_dinner_events.3100.c:0 "このままでいい。"
  host_dinner_events.3101.title:0 "贅沢への課税"
  host_dinner_events.3101.desc.intro:0 "私は、私の主君に対して最も素晴らしい主催者であり、[visiting_liege.GetSheHe]が望むものをすべて与え、貯蔵庫から最高級の料理だけを提供している。\n\nしかし、これは間違いだったようで、[visiting_liege.GetSheHe]は私の優れた主催者としての能力を租税回避のためのものだと考えているようだ！"
