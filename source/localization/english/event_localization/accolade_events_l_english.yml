@@ -15,7 +15,7 @@
  accolade_rank_loss_notification_tooltip_no_rank:0 "[changing_accolade.GetNameNoTooltip]はいまや[acclaimed_knight.Custom('AccoladeRankFlavorNumber')]であり、全ての効力を失いました。\n\n[acclaimed_knight.GetShortUINameNoTooltip]がかつての地位を取り戻すかどうかは時の流れのみが教えてくれることでしょう。"
  accolade_rank_loss_notification_tooltip_no_rank_dead:0 "[changing_accolade.GetNameNoTooltip]はいまや[acclaimed_knight.Custom('AccoladeRankFlavorNumber')]であり、全ての効力を失いました。\n\n[acclaimed_knight.Custom('ComplimentAdjective')][acclaimed_knight.GetShortUINameNoTooltip]は死に、[acclaimed_knight.GetHerHis]の遺産は[acclaimed_knight.GetHerHis]の教え子に引き継がれました。"
  accolade_rank_loss_notification_tooltip_empty_no_rank:0 "[changing_accolade.GetNameNoTooltip]はいまや[changing_accolade.Custom('AccoladeRankFlavorNumber')]であり、全ての効力を失いました。"
- accolade.0003.accolade_becomes_idle.tt:0 "[dead_accolade.GetNameNoTooltip]は象徴となった。"
+ accolade.0003.accolade_becomes_idle.tt:0 "[dead_accolade.GetNameNoTooltip]の栄光はしばしの眠りについた"
  accolade.0003.accolade_becomes_idle_effects.tt:0 "適した叙勲された騎士がいない場合、全ての効果が失われます。"
  accolade.0004.new_acclaimed_knight.tt:0 "後継者: [succeeding_accolade.GetNameNoTooltip]"
  accolade.0004.new_acclaimed_knight_name.tt:0 "[new_acclaimed_knight.GetShortUINameNoTooltip]はあなたの[acclaimed_knight]となります。"
