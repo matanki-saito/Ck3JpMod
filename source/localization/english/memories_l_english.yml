@@ -1021,7 +1021,7 @@
  adoptee_returned_home_title: "養子の到着"
  adoptee_returned_home_desc: "[adoptee.GetTitledFirstName]は[adoptee.GetHerHis]の新しい家に着いた"
  child_born_desc_mother_bastard: "婚外子の[child.Custom('GetDaughterSon')]として[child.GetFirstName]が産まれた"
- child_born_desc_mother: "婚外子の[child.Custom('GetDaughterSon')]として[child.GetFirstName]が産まれた"
+ child_born_desc_mother: "我が[child.Custom('GetDaughterSon')]として[child.GetFirstName]が産まれた"
  child_born_desc_bastard: "婚外子の[child.Custom('GetDaughterSon')]、[child.GetFirstName]を[owner.Custom2('RelationToMeShort', SCOPE.sC('child').GetMother)]の[child.GetMother.GetFirstName]が産んだ"
  child_born_desc_second_perspective_mother_bastard: "婚外子の[child.Custom('GetDaughterSon')]として[child.GetFirstName]が産まれた"
  child_born_desc_second_perspective_mother: "[child.Custom('GetDaughterSon')]の[child.GetFirstName]が産まれた"

@@ -1,7 +1,7 @@
 ﻿l_english:
  contest_events_opening_prize_desc:1 "「勝者へ: この[newly_created_artifact.GetType|l]は、私たちの親切な主催者: [host.GetTitledFirstName]のご厚意によるものです！」"
  contest_events_marriage_prize_desc:1 "「勝者には、[marriage_prize.GetTitledFirstName]さんに結婚の手を差し伸べます。これは、私たちの親切な主催者[host.GetName]により定められました。」"
- contest_events_opening_intent_contestant:0 "[intent_scope.GetName]も大会に参加しています。"
+ contest_events_opening_intent_contestant:0 "[intent_scope.GetName]も大会に参加している。"
  contest_events_opening_intent_contestant_team:0 "[intent_scope.GetName]が私のチームに配置されたことに注意せねば…"
  contest_events_opening_intent_contestant_opposing:0 "[intent_scope.GetName]が相手チームに配置されていることに注意せねば…"
  contest_events_opening_intent_spectator:1 "\n\n[intent_scope.GetName]は大会には参加していない。"

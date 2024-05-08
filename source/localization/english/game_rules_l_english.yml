@@ -423,3 +423,5 @@
  setting_legend_cost_low_desc: "伝説を作るのにかかる費用は通常の半額です。"
  setting_legend_cost_very_low: "#high とても安い#!"
  setting_legend_cost_very_low_desc: "伝説を作るのにかかる費用は通常の1/4です。"
+ setting_epidemic_frequency_disabled: "#high Disabled#!"
+ setting_epidemic_frequency_disabled_desc: "Plagues will not appear."

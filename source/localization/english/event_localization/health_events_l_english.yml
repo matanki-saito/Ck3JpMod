@@ -484,3 +484,4 @@
  disease_contraction_feed_message.d_1: "[LEFT_CHARACTER.GetShortUIName|U]は[disease_trait.GetName( CHARACTER.Self )|LV]の[trait|E]を得た"
  disease_contraction_feed_message.d_2: "[LEFT_CHARACTER.GetShortUIName|U]と[RIGHT_CHARACTER.GetShortUIName|U]は[disease_trait.GetName( CHARACTER.Self )|LV]の[trait|E]を得た"
  disease_contraction_feed_message.d: "[LEFT_CHARACTER.GetShortUIName|U]と[RIGHT_CHARACTER.GetShortUIName|U]、$message_consolidation_others$は[disease_trait.GetName( LEFT_CHARACTER.Self )|LV]の[trait|E]を得た"
+ health.3101.tutorial.tt:0 "Choosing this option will show you how to appoint a [GetCourtPositionType('court_physician_court_position').GetName()], who might be able to cure your ailment."

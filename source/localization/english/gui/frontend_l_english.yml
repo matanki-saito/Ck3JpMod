@@ -62,3 +62,6 @@
  LOBBY_OBSERVER_MODE_TOOLTIP:0 "$JOMINI_MULTIPLAYER_GUI_OBSERVE_TOOLTIP$[ConcatIfNeitherEmpty( '\n\n', SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_OBSERVER_MODE', '' ))]"
  LOBBY_MULTIPLAYER_TOOLTIP:0 "[LobbyView.GetOpenMultiplayerToolTip] [ConcatIfNeitherEmpty( '\n\n', SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_MULTIPLAYER', '' ))]"
  INGAME_MENU_SWITCH_CHARACTER:0 "[SelectLocalization( CanGetAchievements, 'ACHIEVEMENTS_WILL_BE_DISABLED_SWITCH_CHARACTER', '' )]"
+ SOCIALS: "SOCIALS"
+ youtube_tooltip: "#T Subscribe to our YouTube channel!#!\nLearn more about CKIII, the people behind the game, and the history that inspires us.\n\n#P #I Click to open webpage#!#!"
+ discord_tooltip: "#T Join our Discord channel!#!\nTake part in the conversation, meet other players, and share your strategies.\n\n#P #I Click to join#!#!"
