@@ -7,6 +7,7 @@
  EVENT_WINDOW_OPTION_AVAILABLE_PRESTIGE_LEVEL: "This option is available because of your [prestige_level|E]"
  EVENT_WINDOW_OPTION_AVAILABLE_PIETY_LEVEL: "This option is available because of your [piety_level|E]"
  EVENT_WINDOW_OPTION_AVAILABLE_FAITH: "This option is available because of your [faith|E]"
+ EVENT_WINDOW_OPTION_AVAILABLE_FRIEND: "This option is available because of your [friend|E] [relation|e]"
  EVENT_OPTION_NO_LONGER_AVAILABLE:0 "@warning_icon! #X No longer available#!"
  tooltip_open_scheme_view:1 "#I View Schemes#!"
  EVENT_OPTION_WILL_HAPPEN:0 "#S Will Happen\n#!"

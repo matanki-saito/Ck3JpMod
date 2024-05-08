@@ -140,13 +140,14 @@
  action_reactive_advice_court_positions_desc:0 "Open this for an introduction to Court Positions"
  action_reactive_advice_court_positions_click:0 "$click_to_open_lesson$"
  
+
  ra_court_pos_open_view:0 "Court Positions"
- ra_court_pos_open_view_desc:0 "[court_positions|E] are assignments and honors you can give to your [courtiers|E] and [vassals|E].\n\nEach gives you a benefit, at the cost of a monthly salary. For example, the [GetCourtPositionType('court_physician_court_position').GetName()] will keep you and your [court|E] healthy."
+ ra_court_pos_open_view_desc:0 "This is a good time to go over [court_positions|E]. They are assignments and honors you can give to your [courtiers|E] and [vassals|E].\n\nEach gives you a benefit, at the cost of a monthly salary. For example, a [GetCourtPositionType('court_physician_court_position').GetName()] will keep you and your [court|E] healthy."
  ra_court_pos_open_view_trigger:0 "Open the Court Positions tab (highlighted)"
  ra_court_pos_appointing:0 "$ra_court_pos_open_view$"
- ra_court_pos_appointing_desc:1 "You can appoint new [court_positions|E] by clicking the one of the empty portraits for a vacant Court Position.\n\nA Character with a high [aptitude|E] for the Position will give you a greater bonus.\n\nWhen you appoint a Position to someone, it also affects their [opinion|E] of you.\n\nA Position may be more ceremonial where Aptitude is not as important, and can instead be given to give to dissatisfied [vassal|E]."
+ ra_court_pos_appointing_desc:1 "You can appoint new [court_positions|E] by clicking the one of the empty portraits for a vacant Court Position. A Character with a high [aptitude|E] for the Position will give you a greater bonus.\n\n#TUT When you appoint someone to a Position, it also affects their [opinion|E] of you. Because of this, it might be beneficial to appoint someone lacking in $game_concept_aptitude$ just to make them like you more.#"
  ra_court_pos_salary:0 "$ra_court_pos_open_view$"
- ra_court_pos_salary_desc:1 "Each [court_position|E] costs you a monthly salary. Make sure that you do not go into [debt|E] by handing out Court Positions!"
+
 
 # Inventory
  action_reactive_advice_artifact_inventory:0 "$open_tutorial_lesson$$ra_artifact_inventory_general$"
@@ -469,3 +470,17 @@
 
  ra_plague_resistance_3: "$reactive_advice_plague_resistance$"
  ra_plague_resistance_3_desc: "As $reactive_advice_plague_resistance$ increases, the [infection_rate|E] of the relevant [baronies|E] decreases.\n\nWhilst it is unlikely that you will be able to fully stamp out a large Plague just from taking measures like these, reducing the [infection_rate|E] will help reduce general devastation to your [realm|E]."
+
+ action_reactive_advice_tutorial_schemes: "Advice: $game_concept_schemes$"
+ action_reactive_advice_tutorial_schemes_desc: "Open for an introduction to [schemes|e]."
+ action_reactive_advice_tutorial_schemes_click: "$click_to_open_lesson$"
+
+ ra_tutorial_schemes_1: "$game_concept_schemes$"
+ ra_tutorial_schemes_1_desc: "You just started a [scheme|E]! $game_concept_schemes$ are long term goals, aimed at another Character. They can have hostile goals, like trying to [GetScheme('murder').GetTypeName] or [GetScheme('abduct').GetTypeName] your target, or be more wholesome, such as the [GetScheme('befriend').GetTypeName] $game_concept_scheme$."
+
+ ra_tutorial_schemes_2: "$game_concept_schemes$"
+ ra_tutorial_schemes_2_desc: "You just started a [scheme|E]! $game_concept_schemes$ are long term goals, aimed at another Character. They can have hostile goals, like trying to [GetScheme('murder').GetTypeName] or [GetScheme('abduct').GetTypeName] your target, or be more wholesome, such as the [GetScheme('befriend').GetTypeName] $game_concept_scheme$."
+
+ ra_tutorial_schemes_3: "$game_concept_schemes$"
+ ra_tutorial_schemes_3_desc: "This is where you'll see all of your active schemes. You can have one [personal_scheme|e] and one [hostile_scheme|e] active at the same time.\n\n#TUT Use schemes whenever you want to, but keep in mind that your character will be better or worse at certain schemes depending on their [traits|e] and [skills|e]. Certain [lifestyle|e] [perks|e] can unlock additional $game_concept_schemes$ for your character."
+

@@ -46,6 +46,7 @@
  learn_language_ongoing.1040.c:0 "Bah! I do not need validation from anyone but #EMP myself!#!"
  
  extra_success_chance_modifier:0 "Increased Success Chance"
+ massive_extra_success_chance_modifier: "Massively Increased Success Chance"
  learn_language_ongoing.1050.t:1 "$learn_language$: Crow's Feet"
  learn_language_ongoing.1050.desc:3 "My precious [scheme.GetTarget.GetCulture.GetLanguage.GetName] notes are scattered all over my study, and the ink-soaked raven is #EMP still#! flapping its wings all over! How did it even get in here? #EMP Who covered it in ink!?#!\n\n"A letter for you, my [ROOT.Char.GetTitleTierName]." I turn around and snatch the message out of the servant's hand.\n\n"A real shame what happened to your notes — but look on the bright side, your writing was already similar to crow's feet! Regards, [sabotage_rival.GetTitledFirstName].""
  learn_language_ongoing.1050.a:0 "My notes... no! So much work, gone!"
