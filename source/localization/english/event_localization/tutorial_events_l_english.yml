@@ -1,5 +1,5 @@
 ﻿l_english:
- tutorial.0001.t: "A Concerning Development in Ennis"
+ tutorial.0001.t: "エニスの開発に関して"
  tutorial.0001.desc: "Late one night, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('potential_ally'))] [potential_ally.GetFirstName] comes knocking on my chamber door. I let [potential_ally.GetHerHim] in, and [potential_ally.GetSheHe] and he utters something troubling, [potential_ally.GetHerHim] expression entirely solemn. \n\n\"[GetPlayer.GetFirstNameNoTooltip], have you heard the news? [bad_guy.GetTitledFirstName] is in the midst of establishing a spurious claim on your lands. I am loath to say it, but I fear [bad_guy.GetSheHe] is preparing for war.\""
  tutorial.0001.a: "I will speak to [bad_guy.GetTitledFirstNameNoTooltip]."
  tutorial.0001.a_flavor: "#TUT By choosing this option, you'll attempt to befriend [bad_guy.GetTitledFirstName], potentially making a new [friend|e] and avoiding a [war|e] entirely.#!"

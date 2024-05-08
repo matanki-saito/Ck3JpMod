@@ -578,7 +578,7 @@
  game_concept_prowess:0 "武勇"
  game_concept_prowess_i:0 "@skill_prowess_icon!"
  game_concept_prowess_skill:0 "武勇能力"
- game_concept_prowess_skill_desc:3 "$game_concept_prowess$ is a [skill|E] that reflects the Character's aptitude in personal combat.\n\nA high Prowess Skill means they are more likely to survive and perform well both as [knights|E] in [battles|E] and in [single_combat_duel_plural|E].\n\nEach point of Prowess gives a Knight:\n$BULLET_WITH_TAB$[damage|E]: #V [GetDefine('NCombat', 'KNIGHT_DAMAGE_PER_PROWESS')]#!\n$BULLET_WITH_TAB$[toughness|E]: #V [GetDefine('NCombat', 'KNIGHT_TOUGHNESS_PER_PROWESS')]#!\n\n$PROWESS_MUSCLE_INFO$"
+ game_concept_prowess_skill_desc:3 "$game_concept_prowess$とは、個人戦闘の適性を示す[skill|E]のことです。\n\n高い武勇能力は[single_combat_duel_plural|E]及び[battles|E]において[knights|E]として高いパフォーマンスと生存能力を持つことを意味します。\n\n騎士は、武勇能力毎に以下を得ます:\n$BULLET_WITH_TAB$[damage|E]: #V [GetDefine('NCombat', 'KNIGHT_DAMAGE_PER_PROWESS')]#!\n$BULLET_WITH_TAB$[toughness|E]: #V [GetDefine('NCombat', 'KNIGHT_TOUGHNESS_PER_PROWESS')]#!\n\n$PROWESS_MUSCLE_INFO$"
  game_concept_lifestyle:0 "ライフスタイル"
  game_concept_lifestyles:0 "ライフスタイル"
  game_concept_lifestyle_desc:2 "[adult|E]した[rulers|E]は$game_concept_lifestyle$を定めることになります。[focus|E]を選ぶことで[perks|E]が得られます。\n\nそれぞれの$game_concept_lifestyle$に応じた[experience|E]を蓄えることで、$game_concept_perks$が解禁できます。例えば、[intrigue_lifestyle|E]での経験は[GetPerk( 'dreadful_perk' ).GetName( GetPlayer )]や[GetPerk( 'like_weed_in_a_garden_perk' ).GetName( GetPlayer )]といった$game_concept_perks$の獲得につながります。\n\n以下が$game_concept_lifestyles$の一覧です:\n$BULLET_WITH_TAB$[diplomacy_lifestyle|E]\n$BULLET_WITH_TAB$[martial_lifestyle|E]\n$BULLET_WITH_TAB$[stewardship_lifestyle|E]\n$BULLET_WITH_TAB$[intrigue_lifestyle|E]\n$BULLET_WITH_TAB$[learning_lifestyle|E]"

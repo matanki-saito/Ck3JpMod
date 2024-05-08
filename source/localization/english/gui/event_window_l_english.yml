@@ -22,4 +22,4 @@
  EVENT_WINDOW_OPTION_AVAILABLE_PRESTIGE_LEVEL: "あなたの[prestige_level|E]により選択することが出来ます"
  EVENT_WINDOW_OPTION_AVAILABLE_PIETY_LEVEL: "あなたの[piety_level|E]により選択することが出来ます"
  EVENT_WINDOW_OPTION_AVAILABLE_FAITH: "あなたの[faith|E]により選択することが出来ます"
- EVENT_WINDOW_OPTION_AVAILABLE_FRIEND: "This option is available because of your [friend|E] [relation|e]"
+ EVENT_WINDOW_OPTION_AVAILABLE_FRIEND: "あなたの[friend|E][relation|e]の為にこの選択肢を選ぶことが出来ます"
