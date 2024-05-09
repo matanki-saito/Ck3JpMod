@@ -190,7 +190,7 @@
  epidemic_events.1100.desc.mid.consumption: "どこに行っても、服で凝固した喀血や絶え間無い咳で苦しむ患者の情景が目に入る。\n\n"
  epidemic_events.1100.desc.mid.fallback: "民衆はあらゆる種類の悪い流行病に悩まされ、数え切れない症状がその身に顕れている。\n\n"
  epidemic_events.1100.desc.mid2.apocalyptic: "街に目を向ければこの災厄に苦しむ者で溢れかえっていた。……この地獄は貴族たちにも着実に這い寄っている。"
- epidemic_events.1100.desc.mid2.major: "少なくとも平民の半数は感染した今、貴族階級にまで被害が及ぶ日もそう遠くは無さそうだ。"
+ epidemic_events.1100.desc.mid2.major: "少なくとも平民の半数が感染した今、貴き者にまで被害が及ぶ日もそう遠くは無さそうだ。"
  epidemic_events.1100.desc.mid2.fallback: "感染者数自体は低く推移しているものの、さらに広がるのは時間の問題だろう。"
  epidemic_events.1100.desc.outro.capital: "昨今の人々はこの病を「[epidemic.GetName]」と呼んでいるらしい。そしてそれは私の目の前で起こっている。"
  epidemic_events.1100.desc.outro: "昨今の人々はこの病を「[epidemic.GetName]」と呼んでいるらしい。"

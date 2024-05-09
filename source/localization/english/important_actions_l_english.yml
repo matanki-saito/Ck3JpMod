@@ -211,7 +211,7 @@
  action_take_decision_click:1 "#I クリックで決断を開く#!"
  action_ask_for_pardon:1 "@prison_icon! 恩赦が可能"
  action_ask_for_pardon_label:1 "@prison_icon! 恩赦を求められる"
- action_ask_for_pardon_desc:1 "あなたは現在、[top_liege|E]から[criminal|E]と見なされているが、[recipient.GetSheHe]はあなたに恩赦を与えることができる。\n\n#help あなたが犯罪者である場合、あなたの主君はいつでもあなたを[imprison|E]できます！　[hook|E]のコストがかかる場合がありますが、通常は恩赦を得られるよう努力するのが最良です。#!"
+ action_ask_for_pardon_desc:1 "あなたは現在、[top_liege|E]から[criminal|E]と見なされていますが、[recipient.GetSheHe]はあなたに恩赦を与えることができます。\n\n#help あなたが犯罪者である場合、あなたの主君はいつでもあなたを[imprison|E]できます！　[hook|E]のコストがかかる場合がありますが、通常は恩赦を得られるよう努力するのが最良です。#!"
  action_ask_for_pardon_click:1 "#I クリックで恩赦を請う#!"
  action_convert_at_war_interaction:1 "@religious_icon! 攻撃側の[faith|E]採用が利用可能"
  action_convert_at_war_interaction_label:2 "@religious_icon! あなたは攻撃側の信仰に改宗できる"
