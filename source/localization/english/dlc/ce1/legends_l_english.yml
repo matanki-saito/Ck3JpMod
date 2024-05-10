@@ -229,7 +229,7 @@
  iberian_ender_desc: "イベリアの貴族による闘争は終結し、[struggle_ender.GetFirstName]が救世主として現れた。勝利の[struggle_ender.GetTitleAsNameNoTooltip|U]である。"
  struggle_conclusion_desc: "[Localize(struggle.GetString)|U]はついに終結し、[struggle_ender.GetFirstName]がこの地を新時代に導く英雄として出現した。"
  khan_beater_desc: "伝説の「チンギス・ハーン」は、天空の下にあるすべてを[loser.GetHerHis]の帝国に組み込もうとしていた。だが、強大なる[winner.GetTitleAsNameNoTooltip|U]は英雄[winner.GetName]の手で阻止されたのだ！"
- legendary_battle_desc: "[loser.GetName|U]は[winner.GetName]を打ち破ろうとしたものの一人で、[loser.GetSheHe]はかなりの強敵だった。[winner.GetFirstNameNoTooltip]の華麗なる勝利は[winner.GetHerHis]の武勇伝が不朽のものだと示すだろう。"
+ legendary_battle_desc: "[loser.GetName|U]は[winner.GetName]を打ち破ろうとした者の一人で、[loser.GetSheHe]はかなりの強敵だった。[winner.GetFirstNameNoTooltip]の華麗なる勝利は[winner.GetHerHis]の武勇伝が不朽のものだと示すだろう。"
  reformed_faith_desc: "古き信仰は組織化された宗教によって破壊されかけていたが、[reformer.GetName]の賢明にして敬虔なる指導の下、[faith.GetName]は新時代に到達した。伝説は聖典として明文化され、組織的な司祭階級が設立された。[faith.HighGodNamePossessive]の御心のままに！"
  new_faith_legend_desc: "弱く堕落した教会は、人間に対する[faith.HighGodNamePossessive]のご意志から遠く離れてしまった。そして[reformer.GetName]の神聖なる指導の下、唯一にして真なる信仰、[faith.GetName]が誕生したのだ。"
  legend_chronicle_debug_legend: "#D 品質保証の伝説#!"

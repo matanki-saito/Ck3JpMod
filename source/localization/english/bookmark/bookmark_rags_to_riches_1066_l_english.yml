@@ -20,7 +20,7 @@
  bookmark_rags_to_riches_duke_robert_alt_bohemond:0 "$Bohemond$"
  bookmark_rags_to_riches_duke_robert_alt_roger:0 "$Roger$"
  bookmark.1066.t: "マティルダの結婚のジレンマ"
- bookmark.1066.desc: "十一年前、母[mum.GetFirstName]は私と、義理の兄であり、母の新たな夫[hunchbacks_father.GetTitledFirstNameNicknamed]の息子でもある[hunchback.GetFirstNameNicknamed]とを婚約させようと画策した。\n\n[hunchbacks_father.GetPrimaryTitle.GetBaseNameNoTier]との同盟は有利だが、これが名家たる[ROOT.Char.GetHouse.GetBaseName]の、神が思し召した未来なのだろうか？\n\n我が血統の行く末を守るべく、私は行動を#EMP 起こさねば#!ならない！"
+ bookmark.1066.desc: "十一年前、母[mum.GetFirstName]は私と、義理の兄であり、母の新たな夫[hunchbacks_father.GetTitledFirstNameNicknamed]の息子でもある[hunchback.GetFirstNameNicknamed]とを婚約させようと画策した。\n\n[hunchbacks_father.GetPrimaryTitle.GetBaseNameNoTier]との同盟は有益だが、これが名家たる[ROOT.Char.GetHouse.GetBaseName]の、神が思し召した未来なのだろうか？\n\n我が血統の行く末を守るべく、私は行動を#EMP 起こさねば#!ならない！"
  bookmark.1066.a: "イエスは我らの原罪のために死んでくださった。もう一つくらいは問題はない。"
  bookmark.1066.b: "死ぬまで彼を避けよう。"
  bookmark.1066.c: "離婚は不可能だが、私は依然、教皇に影響力を有している…"
