@@ -1,6 +1,6 @@
 ﻿l_english:
  petition_liege_decision:0 "主君への請願"
- petition_liege_decision_desc:1 "我が主君に自分が直面している問題を解決するように請願することが出来る。領国の利益に貢献するような誠実な要求は、しばしば許可されることもある。"
+ petition_liege_decision_desc:1 "我が主君に自分が直面している問題の解決を請願できる。領国の利益に貢献するような誠実な要求は、しばしば許可されることもある。"
  petition_liege_decision_tooltip:1 "贈り物または奉仕であなたの[petition_liege|E]を行います"
  petition_liege_decision_effects:1 "あなたは[THIS.Char.GetLiege.GetTitledFirstNamePossessive]の宮廷へ請願の旅路につきます"
  petition_liege_decision_confirm:1 "$petition_liege_decision$"

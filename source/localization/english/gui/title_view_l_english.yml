@@ -151,7 +151,7 @@
  FIND_VASSAL_HEADER:2 "称号の授与"
  FIND_VASSAL_RELEVANCE:0 "適合度"
  FIND_VASSAL_BUTTON_TOOLTIP:2 "#T $FIND_VASSAL_HEADER$#!\nこの[title|E]を授与する相手を選びます。\n\n$FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT$"
- FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT:0 "あなたの[realm|E]内にいる[vassals|E]、[guests|E]、[courtiers|E]へと[titles|E]を授与することが出来ます"
+ FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT:0 "あなたの[realm|E]内にいる[vassals|E]、[guests|E]、[courtiers|E]へと[titles|E]を授与できます"
  TITLE_VIEW_FACTION:0 "[Faction.GetName]の[faction|E]"
  swear_fealty_history:0 "従属させた"
  TITLE_HISTORY:0 "称号履歴"

@@ -146,7 +146,7 @@
  death_management.3001.tt:1 "あなたの[dead_character.Custom('GetDaughterSon')]、[dead_character.GetTitledFirstName]、はあなたの地下牢で死にました。"
  death_management.3001.child:0 "愛しの我が子よ、私はお前に多くの希望を抱いていた。 お前が学び、経験し、やることすべてに。 その人生にはたくさんの可能性があった。 いつかはその腕に子供を抱いていたかもしれない。しかし、そのどれももう実現することはないのだ、全ては私のせいで…"
  death_management.3001.like:0 "ああ[ROOT.Char.GetFaith.HighGodName]よ、どうしてあなたは[dead_character.GetFirstName]が死ぬことを赦されるのですか？\n\nあの世で[dead_character.GetSheHe]が平穏を見つけられるよう、[ROOT.Char.GetFaith.HighGodName]が私の罪を赦されるよう私は祈る。"
- death_management.3001.neutral:0 "この世の残酷さに驚くには年を取りすぎていると思っていたが、自分の[dead_character.Custom('GetDaughterSon')]のの死を経験させられるような痛みは予想だにしなかった。[dead_character.GetSheHe]が今、私が耐えなければならない苦しみを免れることが、唯一の希望だ…"
+ death_management.3001.neutral:0 "この世の残酷さに驚くには年を取りすぎていると思っていたが、自分の[dead_character.Custom('GetDaughterSon')]の死を経験させられるような痛みは予想だにしなかった。[dead_character.GetSheHe]が今、私が耐えなければならない苦しみを免れることが、唯一の希望だ…"
  death_management.3001.dislike:0 "己の子供を愛するのは[ROOT.Char.Custom('MotherFather')]の義務ではないだろうか？しかし、わが手による[dead_character.GetFirstNamePossessive]の死を私は嘆くことができない。"
  death_management.3001.a:0 "[dead_character.GetSheHe|U]はこんな目に遭うべきではなかった。"
  death_management.3001.c:0 "後悔しても遅い"

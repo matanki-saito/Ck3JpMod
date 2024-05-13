@@ -42,7 +42,7 @@
  court_servants_few_desc:0 "この宮廷には、ほとんどすべての重要な慰めを提供できる召使いが揃っている。"
  court_servants_some_desc:0 "この宮廷には、彼らの仕事に誇りを持っている専門の召使いたちがいる。"
  court_servants_many_desc:0 "この宮廷には、人が理解できるあらゆる目的のための召使いたちがいる。"
- court_servants_endless_desc:0 "この宮廷には誰も知らないほど多くの召使いがいる。召使いたちががあなたのために引き受けることを要求することなく、最も単純な仕事をするためには共同の努力が必要である。"
+ court_servants_endless_desc:0 "この宮廷には誰も知らないほど多くの召使いがいる。召使いたちがあなたのために引き受けないことを要求しなくては、自分で最も単純な仕事をすることさえできない。"
  court_servants_few_guest_recruitment:0 "[guest|E]募集コスト: #P -20%#!"
  court_servants_some_guest_recruitment:0 "[guest|E]募集コスト: #P -30%#!"
  court_servants_many_guest_recruitment:0 "[guest|E]募集コスト: #P -40%#!"

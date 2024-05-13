@@ -187,7 +187,7 @@
  building_cereal_fields_07:1 "農地拡張"
  building_cereal_fields_07_desc:2 "小作農に互いの土地近くまで耕作地を広げるよう奨励すれば、生産性を上げられる。その代わり、互いの土地への浸食が農民間の対立を招くかもしれないが。"
  building_cereal_fields_08:1 "穀物サイロ"
- building_cereal_fields_08_desc:2 "これらの巨大な貯蔵塔（サイロ）は、一年それどころか数年にわたって膨大な量の穀物を貯蔵していて、実に多くの人口を養うことが出来る。"
+ building_cereal_fields_08_desc:2 "これらの巨大な貯蔵塔（サイロ）は、一年どころか数年にわたって膨大な量の穀物を貯蔵していて、実に多くの人口を養える。"
  building_type_barracks_01:0 "兵舎"
  building_type_barracks_01_desc:1 "兵舎は戦争のために地元の徴募兵を収容し、準備することだけを目的とした頑丈な建物である。"
  building_barracks_01:1 "木造兵舎"
