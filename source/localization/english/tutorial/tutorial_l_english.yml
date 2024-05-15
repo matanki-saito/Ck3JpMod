@@ -383,7 +383,7 @@
  lesson_basics_quick_vassals_great_job_2: "直轄領と領国"
  lesson_basics_quick_vassals_great_job_2_desc: "[domain|e]と[realm|e]には重要な違いがあります。$game_concept_domain$はあなたが個人的に保有している土地であり、$game_concept_realm$にはあなたの[vassals|e]が所有するすべての土地も含まれます。\n\n#TUT [domain_limit|e]により無制限の[titles|e]の保有が強く抑制されるため、国境を広げ続けるには$game_concept_vassals$に頼る必要があります。#!"
  lesson_basics_quick_holdings: "所領"
- lesson_basics_quick_holdings_desc: "現在、あなたの[domain|E]は$c_thomond$と$c_ennis$の[counties|E]（アイルランド[culture|E]では『アールダム』と呼称されます）で構成されています。$c_ormond$はあなたの[vassal|e]が保持しているので、あなたの$game_concept_domain$には含まれません。\n\nこれらの[counties|E]は、より小規模な土地――[realm|E]の個々の[holdings|E]である[baronies|E]で構成されています。\n\n#TUT 所領は、あなたの土地における集落を表します！#!"
+ lesson_basics_quick_holdings_desc: "現在、あなたの[domain|E]は$c_thomond$と$c_ennis$の[counties|E]（アイルランド[culture|E]では『アールダム』と呼称されます）で構成されています。$c_ormond$はあなたの[vassal|e]が保持しているので、あなたの$game_concept_domain$には含まれません。\n\nこれらの[counties|E]は、より小規模な土地——[realm|E]の個々の[holdings|E]である[baronies|E]で構成されています。\n\n#TUT 所領は、あなたの土地における集落を表します！#!"
  lesson_basics_quick_resources_1: "リソース"
  lesson_basics_quick_resources_1_desc: "上出来です！　あなたの[councillor|e]は現在、[claim|e]を得るために働いています。\n\n次に、画面右上のバーを見てみましょう。ここには、様々な方法で世界と交流するために使用できるリソースがたくさんあります。"
  lesson_basics_quick_resources_gold: "@gold_icon!$game_concept_gold$"

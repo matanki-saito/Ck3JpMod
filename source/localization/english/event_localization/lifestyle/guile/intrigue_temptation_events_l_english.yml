@@ -131,7 +131,7 @@
  intrigue_temptation.3021.adventurous.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)]の肖像画の裏には手紙が添えられていた。[potential_date.GetSheHe]は自身を「冒険に憧れる自発的精神」と表現している。"
  intrigue_temptation.3021.fish.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が、湖畔で大きな魚を抱えている[potential_date.GetHerselfHimself]の肖像画を送ってくれた。"
  intrigue_temptation.3021.dog.desc:0 "[potential_date.GetHerHis]の肖像画では、[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)]が愛らしい仔犬とともにポーズをとっている。"
- intrigue_temptation.3021.do_not_believe.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[potential_date.GetHerHis]の肖像画にかなり皮肉っぽいメモを添えていた。「こんなやり方で貴方の将来の伴侶に会えるとはとても思えませんが、試してみるのも良いでしょう。」"
+ intrigue_temptation.3021.do_not_believe.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[potential_date.GetHerHis]の肖像画にかなり皮肉っぽいメモを添えていた。「こんなやり方で貴方の将来の伴侶に会えるとはとても思えませんが、試してみるのも良いでしょう」"
  intrigue_temptation.3021.lewd.desc:0 "[ROOT.Char.GetFaith.FertilityGodName|U]、これがここにあることを忘れていた！[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)]が送ってきたこの肖像画から想像できることはわずかだ。はっきり言えば、なにもない。"
  intrigue_temptation.3021.must_be_tall.desc:0 "[potential_date.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[potential_date.GetHerHis]の肖像画に、とても長くて好意に満ちた手紙を添えていた。最後には、[potential_date.GetSheHe]は私に返事をすぐ書くよう促してさえいた。「ただし、あなたが身長6フィート以上である場合に限る。」"
  intrigue_temptation.3021.a:0 "気に入った！山の上の方に積んでおいてくれ。"

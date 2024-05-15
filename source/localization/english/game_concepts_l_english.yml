@@ -237,7 +237,7 @@
  game_concept_tolerate:0 "寛容"
  game_concept_tolerates:0 "寛容さ"
  game_concept_fervor:0 "情熱"
- game_concept_fervor_desc:2 "[faith|E]の$game_concept_fervor$は#V 0#!から#V 100%#!までの値をとります。$game_concept_fervor$が低ければ[rulers|E]は独自の宗派を起こしやすくなり、[counties|E]と人物は[heresies|E]を含む別の宗派へ改宗しやすくなります。$game_concept_fervor$が高いと伯爵領の改宗が速まります。\n\n$game_concept_fervor$は時間によって自然に変化します。小規模な宗派ほど情熱は高くなる傾向にあり、大規模な宗派は$game_concept_fervor$が低くなりがちです。\n\n偉大な聖戦を起こしたり、聖戦を成功させると、$game_concept_fervor$は減少します。逆にこれらの標的となると$game_concept_fervor$は増加します。[heresy|E]の流行も$game_concept_fervor$を著しく増加させます。"
+ game_concept_fervor_desc:2 "[faith|E]の$game_concept_fervor$は#V 0#!から#V 100%#!までの値をとります。$game_concept_fervor$が低ければ[rulers|E]は独自の宗派を起こしやすくなり、[counties|E]と人物は[heresies|E]を含む別の宗派へ改宗しやすくなります。$game_concept_fervor$が高いと伯爵領の改宗が速まります。\n\n$game_concept_fervor$は時間によって自然に変化します。小規模な宗派ほど情熱は高くなる傾向にあり、大規模な宗派は$game_concept_fervor$が低くなりがちです。\n\n大聖戦を起こしたり、聖戦を成功させると、$game_concept_fervor$は減少します。逆にこれらの標的となると$game_concept_fervor$は増加します。[heresy|E]の流行も$game_concept_fervor$を著しく増加させます。"
  game_concept_doctrine:0 "教義"
  game_concept_doctrines:0 "教義"
  game_concept_doctrines_desc:1 "教義とは、その[faith|E]の信者に相応しい振る舞いをまとめた宗教的な法律です。"

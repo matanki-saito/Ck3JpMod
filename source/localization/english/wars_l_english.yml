@@ -451,7 +451,7 @@
  diarch_vassalisation_cb:0 "[diarch|E]の没収"
  DIARCH_VASSALIZATION_CB_NAME:0 "[DEFENDER.GetShortUINamePossessive]の土地の[diarch|E]の没収"
  DIARCH_VASSALIZATION_CB_SPECIFIC_NAME:0 "[DEFENDER.GetShortUINamePossessive]の土地の没収"
- DIARCH_VASSALIZATION_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]――[DEFENDER.GetPrimaryTitle.GetAdjective]の慣習的領土の没収"
+ DIARCH_VASSALIZATION_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]——[DEFENDER.GetPrimaryTitle.GetAdjective]の慣習的領土の没収"
  DIARCH_VASSALIZATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  diarch_vassalization_cb_victory_desc_attacker:0 "[defender.GetShortUIName|U]は#EMP すべての#![titles|E]と[vassals|E]をもって降り、[de_jure|E]はあなたのものとなった"
  diarch_vassalization_cb_victory_desc_defender:0 "あなたは#EMP すべての#![titles|E]と[vassals|E]ともに降伏し、[de_jure|E]は[attacker.GetShortUIName]のものとなった"

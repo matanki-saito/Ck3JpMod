@@ -396,7 +396,7 @@
  epidemic_events.5007.d: "「もういい！根拠のない言いがかりはやめろ、[accuser.GetFirstNameNoTooltip]」"
  epidemic_events.5007.e: "これより[herbalist.GetFirstNameNoTooltip]が薬草に触れることを禁じる。"
  epidemic_events.5008.t: "恙無し"
- epidemic_events.5008.desc: "この[epidemic_scope.GetName]が#EMP 良い#!ことというわけではないが、時間が経つにつれて、幾つかの利点がわかってきた。\n\n何しろ、もう幾日も来客がないのだ――まさに私の好みだ！――そして使用人すら姿を消してしまった。これがどれだけ病気の感染を防いでいるかはわからないが、私はこの結果に驚いている。\n\nそれにしても、私はもう少し顔を見せる努力をしたほうがいいのだろうか？　#EMP 危険#!は伴うが…"
+ epidemic_events.5008.desc: "この[epidemic_scope.GetName]が#EMP 良い#!ことというわけではないが、時間が経つにつれて、幾つかの利点がわかってきた。\n\n何しろ、もう幾日も来客がないのだ——まさに私の好みだ！——そして使用人すら姿を消してしまった。これがどれだけ病気の感染を防いでいるかはわからないが、私はこの結果に驚いている。\n\nそれにしても、私はもう少し顔を見せる努力をしたほうがいいのだろうか？　#EMP 危険#!は伴うが…"
  epidemic_events.5008.a: "私の許可無くして、誰も私に会うことは許されない！"
  epidemic_events.5008.b: "臣民に姿を見せねばならない。"
  epidemic_events.5008.c: "[epidemic_scope.GetNameNoTooltip]はなんと素晴らしい口実だろう！"

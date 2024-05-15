@@ -499,7 +499,7 @@
  form_portugal_decision_tooltip:0 "ポルトガル[kingdom|E]を成立させ、ポルトガル人の[culture|E]を確立します"
  form_portugal_decision_effects_de_jure_tt:1 "[title_d_porto.GetNameNoTier]、[title_d_coimbra.GetNameNoTier]、[title_d_beja.GetNameNoTier]及び[title_d_algarve.GetNameNoTier]は#V [title_k_portugal.GetName]#!の[de_jure|E]の一部になります"
  found_kingdom_decision:1 "新たな王国の創設"
- found_kingdom_decision_desc:0 "私は新しい王国の称号の下に王国を統一し、永遠に我が王朝のものとするだろう。"
+ found_kingdom_decision_desc:0 "私は新しい王国の称号の下に領国を統一し、永遠に我が王朝のものとするだろう。"
  found_kingdom_decision_confirm:0 "領国を一つに"
  found_kingdom_decision_tooltip:0 "完全に新しい王国の称号を創設します"
  found_empire_decision:1 "新たな帝国を創設する"

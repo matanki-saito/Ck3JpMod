@@ -1,6 +1,6 @@
 ﻿l_english:
  jason_first_race_event.1.t:0 "脚のもつれ"
- jason_first_race_event.1.desc:1 "全速力で、[opponent.GetTitledFirstNamePossessive]の騎手が#EMP [opponent.Custom('GetContestHorseRaceName')]号#!を、私の馬とその騎手である[jockey.GetFirstName]に突っ込ませた――あるいは、#EMP [ROOT.Char.Custom('GetContestHorseRaceName')]号#!が向きを変えたのだろうか？ ともかく、不運な一群は制御を失って柵に突っ込んでいく。\n\nかつては汗を煌めかせながら疾駆した場所で、二頭が馬群から外側に飛び出した。騎手たちは馬を操るのに苦労している。\n\n競走馬の集団はどんどん進んでいき、よろめく二頭の馬は最後尾から一馬身ほど遅れた。"
+ jason_first_race_event.1.desc:1 "全速力で、[opponent.GetTitledFirstNamePossessive]の騎手が#EMP [opponent.Custom('GetContestHorseRaceName')]号#!を、私の馬とその騎手である[jockey.GetFirstName]に突っ込ませた——あるいは、#EMP [ROOT.Char.Custom('GetContestHorseRaceName')]号#!が向きを変えたのだろうか？ ともかく、不運な一群は制御を失って柵に突っ込んでいく。\n\nかつては汗を煌めかせながら疾駆した場所で、二頭が馬群から外側に飛び出した。騎手たちは馬を操るのに苦労している。\n\n競走馬の集団はどんどん進んでいき、よろめく二頭の馬は最後尾から一馬身ほど遅れた。"
  jason_first_race_event.1.desc.suspicious:0 "[opponent.GetHerHis]の家臣たちの中から、[opponent.GetTitledFirstNameNoTooltip]が「衝突だ」と叫ぶが…説得力はない。"
  jason_first_race_event.1.desc.sympathetic:0 "[opponent.GetHerHis]の家臣たちの中から、[opponent.GetTitledFirstNameNoTooltip]が恐怖の叫びを上げる。"
  jason_first_race_event.1.a:0 "罠だ！ 騙された！"

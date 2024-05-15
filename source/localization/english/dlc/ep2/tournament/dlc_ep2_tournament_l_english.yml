@@ -508,7 +508,7 @@
  racehorse_name_sir_whinny:0 "サー・ウィニー"
  racehorse_name_torrent:0 "トレント"
  debug_tournament_population_count_tt:0 "出場者: [SCOPE.ScriptValue('contest_contestants_count_value')|G0]人\n客人: [SCOPE.ScriptValue('contest_guests_count_value')|Y0]人\n合計: [SCOPE.ScriptValue('contest_valid_contestants_count_value')|V0]人\n\n招待を拒否: [SCOPE.ScriptValue('contest_declined_invites_count_value')|R0]人"
- PROGRESS_TO_VICTORY_DEBUG:0 "トップ: [top.GetUIName|U]――[top.MakeScope.Var('contest_aptitude').GetValue|V0]\nボトム: [bottom.GetUIName|U]――[bottom.MakeScope.Var('contest_aptitude').GetValue|V0]\n\nインクリメント: [SCOPE.ScriptValue('progress_to_victory_increment_value')|V2]\n参加資格: [SCOPE.ScriptValue('progress_to_victory_contestant_qualification_value')|V2]"
+ PROGRESS_TO_VICTORY_DEBUG:0 "トップ: [top.GetUIName|U]——[top.MakeScope.Var('contest_aptitude').GetValue|V0]\nボトム: [bottom.GetUIName|U]——[bottom.MakeScope.Var('contest_aptitude').GetValue|V0]\n\nインクリメント: [SCOPE.ScriptValue('progress_to_victory_increment_value')|V2]\n参加資格: [SCOPE.ScriptValue('progress_to_victory_contestant_qualification_value')|V2]"
  tournament_contest_start_log_title:0 "[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName]が始まった"
  tournament_contest_start_log:0 "[PROVINCE.GetName]で[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName]が始まった"
  tournament_bout_quarter_log_title:0 "[CHARACTER.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName]準々決勝の結果"
