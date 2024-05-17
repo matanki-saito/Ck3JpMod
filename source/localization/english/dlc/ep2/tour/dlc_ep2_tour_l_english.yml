@@ -38,7 +38,7 @@
  tour_entourage_normal_desc:1 "$EFFECT_LIST_BULLET$ 10人の親しい[courtiers|E]が[tour|E]に同行します\n$EFFECT_LIST_BULLET$ $tour_increase_prestige$\n\n#weak このツアーは、単に私のためだけでなく、宮廷のためでもある。臣下たちに私の廷臣をもっと知ってもらうためには、数人の側近を連れてこなければならない。#!"
  tour_entourage_grand:0 "盛大な従者"
  tour_entourage_grand_desc:1 "$EFFECT_LIST_BULLET$ 可能な限りの[courtier|E]が[tour|E]に同行します\n$EFFECT_LIST_BULLET$ $tour_increase_prestige$\n\n#weak このツアーは、私がいかに壮大で立派な存在であるかを示すためのものだ。そのためには、私の素晴らしい宮廷にいる人々全員を見せることが何よりの方法だ。#!"
- tour_luxuries:0 "華美さ"
+ tour_luxuries:0 "調度品"
  tour_luxuries_bad:1 "調度品なし"
  tour_luxuries_bad_desc:1 "$EFFECT_LIST_BULLET$ あなたの[tour|E]の成功率は増加しません\n\n#weak 調度品を何も持参しません。#!"
  tour_luxuries_normal:1 "最低限の調度品"

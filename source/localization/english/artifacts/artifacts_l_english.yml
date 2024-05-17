@@ -61,7 +61,7 @@
  metal_gilt_bronze:0 "金銅"
  metal_silver_gilt:0 "銀メッキ"
  metal_corinthian_bronze:0 "コリント青銅"
- metal_panchaloha:0 "パンチャローハ（5金属の合金）"
+ metal_panchaloha:0 "パンチャローハ（五金属の合金）"
  metal_meteoric_iron:0 "隕鉄"
  feature_decoration_material_inlay_gold:0 "$metal_gold$"
  feature_decoration_material_inlay_electrum:0 "$metal_electrum$"

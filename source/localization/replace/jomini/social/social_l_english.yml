@@ -1,7 +1,7 @@
 ﻿l_english:
  CREATE_SOCIAL_PROFILE_WINDOW_TITLE:0 "ソーシャルプロフィールを作成する"
  CREATE_SOCIAL_PROFILE_WINDOW_DESCRIPTION:0 "ソーシャルサービスを利用するためには、ソーシャルプロフィールを作成する必要があります。あなたのソーシャルプロフィールに用いる名前を入力してください。"
- FRIEND_LIST_TITLE:0 "フレンド"
+ FRIEND_LIST_TITLE:0 "友人"
  ADD_FRIEND_WINDOW_TITLE:0 "フレンドを追加する"
  ADD_NEW_FRIEND:0 "フレンドを追加する"
  CHAT:0 "チャット"
@@ -24,7 +24,7 @@
  SOCIAL_REMOVE_FRIEND_CONFIRM_WINDOW_DESCRIPTION:0 "[Friend.GetName]をフレンドから削除してよろしいですか？"
  SOCIAL_MESSAGE:0 "[ChatMessage.GetName]: [ChatMessage.GetMessage]"
  PROFILES_username-exists:0 "そのユーザー名はすでに使われています。別の名前を選択してください。"
- PROFILES_invalid-email:0 "無効なemail"
+ PROFILES_invalid-email:0 "無効なメールアドレス"
  PROFILES_bad-auth-method:0 "不正な認証方法"
  PROFILES_account-exists:0 "アカウントが見つかりません"
  PROFILES_account-missing:0 "そのアカウントは存在しません"
