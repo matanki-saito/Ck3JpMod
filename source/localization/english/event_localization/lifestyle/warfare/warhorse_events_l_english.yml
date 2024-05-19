@@ -36,7 +36,7 @@
  warhorse.1201.a:0 "金など私の最愛の馬[ROOT.Char.Custom('WarhorseStoryName')]のためには、ほとんど障害ではない！"
  warhorse.1201.b:0 "何が起こっても[ROOT.Char.GetFaith.HighGodName]のご意志であろう。"
  warhorse.1201.b_good:1 "[ROOT.Char.Custom('WarhorseStoryName')]は重い病気を乗り切った"
- warhorse.1201.b.tt:1 "[THIS.Char.Custom('HorseStorySheHe')|U]は信頼されてないように見える"
+ warhorse.1201.b.tt:1 "しかし[THIS.Char.Custom('HorseStorySheHe')|U]はあなたをあまり信用しなくなったように思える"
  warhorse.1201.b_bad:1 "[ROOT.Char.Custom('WarhorseStoryName')]は病死してしまった"
  warhorse.1301.t:1 "[ROOT.Char.Custom('WarhorseStoryName')|U]: 馬の愛好家"
  warhorse.1301.desc:1 "[horse_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[ROOT.Char.Custom('WarhorseStoryName')]のアップダウンの走りを見て満足そうにうなずいた。\n\n「これはとても素晴らしい[ROOT.Char.Custom('HorseStoryMareStallion')]ですね。我が[ROOT.Char.GetTitleTierName]！もし私にも[ROOT.Char.Custom('HorseStoryHerHim')]に乗ることを許していただけたら、とても感謝いたします。」"
