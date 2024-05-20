@@ -65,7 +65,7 @@
  holiness_holy_site_3:0 "[ROOT.Var('holy_site_var').Title.GetNameNoTierNoTooltip]は[ROOT.Char.GetFaith.PriestNeuterPlural]の手にあるべきです。"
  holiness_fallback_3:0 "私は[ROOT.Char.GetFaith.HighGodNameAlternatePossessive]の[ROOT.Char.GetFaith.PriestNeuterPlural]を拒否することはない。"
  hold_court.8030.t:0 "都市のライバル関係"
- hold_court.8030.desc.intro_1:0 "明らかに何かに興奮している[mayor_2.GetTitledFirstName]が、私を迎える。\n\n「我が[ROOT.Char.GetTitleTierName]、[mayor_1.GetPrimaryTitle.GetNameNoTierNoTooltip]の犬どもは、自分たちが我々より優れていると思っているのです…」[mayor_2.GetSheHe]は吐き出すように言う。「…毎日、市場で高慢なジョークを飛ばしています！」\n\n「[mayor_1.GetTitledFirstName]、あの[mayor_1.Custom('InsultAdjective')][mayor_1.Custom('InsultNoun')]には身の程を思い知らせ、あの"
+ hold_court.8030.desc.intro_1:0 "明らかに何かに興奮している[mayor_2.GetTitledFirstName]が、私を迎える。\n\n「我が[ROOT.Char.GetTitleTierName]、[mayor_1.GetPrimaryTitle.GetNameNoTierNoTooltip]の犬どもは、自分たちが我々より優れていると思っているのです…」[mayor_2.GetSheHe]は吐き出すように言う。「…毎日、市場で高慢なジョークを飛ばしています！」\n\n「あの[mayor_1.Custom('InsultAdjective')][mayor_1.Custom('InsultNoun')]、[mayor_1.GetTitledFirstName]には身の程を思い知らせ、"
  hold_court.8030.desc.intro_heretical:0 "異端の"
  hold_court.8030.desc.intro_heathen:0 "異教徒の"
  hold_court.8030.desc.intro_foreign:0 "外国人の"

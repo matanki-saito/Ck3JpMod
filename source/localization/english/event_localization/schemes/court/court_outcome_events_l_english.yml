@@ -24,7 +24,7 @@
  court_outcome.1000.c:0 "多分ただの鳥だろう。"
  court_outcome.1000.b.failure:0 "[target.GetFirstNameNoTooltip]が野獣に襲われる"
  court_outcome.1000.b.success:0 "[target.GetFirstNameNoTooltip]が危険に曝されることはなかった"
- court_outcome.1001.desc:1 "私が広場に到着するまで一分ほどだったが、一時間のようにも感じた。辿り着いた私の目の前には[target.GetFirstName]が倒れていた。[target.GetHerHim]の向かいには、今にも襲い掛かってきそうな巨大な[ROOT.Char.Custom('LocalAnimal')]がいた！\n\n私の矢が命中し、獣は地面に倒れた。しばらくの間、[target.GetFirstNameNoTooltip]はじっと見つめるだけだったが、[target.GetSheHe]は私に向かってよろめくと、私の腕の中へと倒れ込む。"
+ court_outcome.1001.desc:1 "私が広場に到着するまで一分ほどだったはずだが、一時間のようにも感じた。辿り着いた私の目の前には丸腰で着衣を乱した[target.GetFirstName]が倒れていた。[target.GetHerHim]の向かいには、今にも襲い掛かってきそうな巨大な[ROOT.Char.Custom('GetAnimalType')]がいた！\n\n私の矢がまさしく命中し、獣は地面に倒れた。[target.GetFirstNameNoTooltip]は一瞬呆然とするばかりだったが、[target.GetSheHe]は私に向かってよろめくと、私の腕の中へと倒れ込んだ。"
  court_outcome.1001.a:0 "君が欲しい、愛しき人、今すぐここで！"
  court_outcome.1001.b:0 "私が望むのは甘いキスだけだ。"
  court_outcome.1002.desc:1 "「[target.GetFirstName]！今行きます！」葉の間を抜けて空き地に飛び込んだ私の心臓は激しく鼓動し、顔には汗が流れていた。\n\nしかし、目の前の光景は期待していたものではなかった。そこには、そう、[ROOT.Char.Custom('LocalAnimal')]がいる——しかし、それは地面に倒れていて、眉間に矢が刺さっているのだ。[target.GetSheHe]、[target.GetFirstNameNoTooltip]が私の方を向き、[target.GetHerHis]の弓を下げる。\n\n「これは何ですか、[owner.GetTitledFirstNameNoTooltip]？私が自身を守ることができないとでも思いましたか？」"
