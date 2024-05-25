@@ -155,7 +155,7 @@
  single_combat.0001.desc.my_feedback.guard:0 "[myself.Custom('signature_weapon')]捌きを巧みに用い、敵の攻撃を受け流す。この数呼吸の間、[my_foe.GetFirstNameNoTooltip]は間合いを詰められなかった。"
  single_combat.0001.desc.my_feedback.probing_attack:0 "僅かな隙を見計らい、その度に素早く数発の攻撃を繰り出す。こうして打ち込む度、[my_foe.GetFirstNameNoTooltip]の守りが僅か、僅かだが緩み始めたように見える。"
  single_combat.0001.desc.my_feedback.onslaught:0 "[myself.Custom('signature_weapon')|U]を手に、[my_foe.GetFirstNameNoTooltip]に猛撃の雨を浴びせる。[my_foe.GetHerHim]に僅かな隙も与えるものか───。"
- single_combat.0001.desc.my_feedback.surprise_attack:0 "一瞬の隙を突き、すかさず距離を詰める。死角からの攻撃を受けた敵は、たまらず距離をとった。"
+ single_combat.0001.desc.my_feedback.surprise_attack:0 "見つけた、構えの隙！[my_foe.GetFirstNameNoTooltip]に飛びかかり、[myself.Custom('signature_weapon')]を[myself.Custom('SignatureWeaponActionPresentParticiple')]させる。[my_foe.GetHerHim]を吹き飛ばすような一撃を与えた。"
  single_combat.0001.desc.my_feedback.taunt:1 "「さらに」、私は叫ぶ、「お前は[my_foe.Custom('InsultAdjectiveArticle')]、[my_foe.Custom('InsultAdjective')]、[my_foe.Custom('InsultNoun')]であり、その[my_foe.Custom('PointOfRidicule')]は国中の笑い物だ！」"
  single_combat.0001.desc.my_feedback.put_the_boot_in:0 "[myself.Custom('signature_weapon')]大きく振りかぶり、敵に重い一撃を加える。怯んだ敵の脇腹に、私の蹴りが突き刺さった。"
  single_combat.0001.desc.my_feedback.strict_guard:0 "どんな盾よりも優れた私の[myself.Custom('signature_weapon')]は、奴の[my_foe.Custom('signature_weapon')]が繰り出すいかなる攻撃も受け流し、撃ち返し、守り通す。どこへ振るわれようと、私の[myself.Custom('signature_weapon')]はその先で待ち構えているのだ。"
