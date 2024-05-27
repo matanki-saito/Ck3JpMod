@@ -496,7 +496,7 @@
  nick_the_wolf_desc:1 "狡猾で悪質。高貴だが名誉は知らない。[CHARACTER.GetShortUINameNoTooltipNoFormat]が歩んだのはそういう道だ。"
  nick_the_benevolent_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は[CharYouSheHe(CHARACTER)]がなにかする時いつも慈善と慈愛について考えている。"
  nick_the_philosopher_desc:1 "世界は興味深いもの、不思議、謎で満ち、[CharYouSheHe(CHARACTER)]はそれについて話すのが大好きだ。ずっと。"
- nick_the_compassionate_desc:1 "人生で一番いいこととは何だと思いますか？敵と友達になるには、自らの前にまず彼らの憎しみを感じましょう。そうすればいずれ和解の歓喜を知ることができるはずです。"
+ nick_the_compassionate_desc:1 "人生で一番いいこととは何だと思う？それは敵を友とすること、彼らの憎しみを終わらせること、そして何より、和解の歓喜を感じることだ。"
  nick_the_theologian_desc:0 "[CHARACTER.GetFaith.CreatorName]の有り様を追わない人生などなんのためのものなのだ？"
  nick_the_enlightened_desc:0 "高等な教育はそれだけで価値あるものですが、それによって得られるものは#EMP もっと#!いい。"
  nick_the_stalwart_desc:1 "たとえ嵐の中でも、たとえ幾本の刃が空を舞い、その地の墓になろうとも、[CharYouSheHe(CHARACTER)]は決して倒れない。[CharYouSheHe(CHARACTER)|U]が成すべきこと故に。"

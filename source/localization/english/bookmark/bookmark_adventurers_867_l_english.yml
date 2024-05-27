@@ -22,7 +22,7 @@
  bookmark_adventurers_almos_arpad_alt_son_arpad:0 "$A_rpA_d$"
  bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
  bookmark.0101.t:0 "「名前がなんだというの？」"
- bookmark.0101.desc_intro:0 "古の時代から、[hausaland.GetNameNoTier]は代々のマガジヤによって治められてきました。\n\n私たちはみな伝統をよく守ってきました。ですが世界は変わり始めています。遠い国からやって来た私の[ROOT.Char.Custom2('RelationToMeShort', bayajidda)][bayajidda.GetFirstName]が、英雄として多くの富と名声を集めています。これは私たちに何かが起こる前兆なのではないでしょうか…\n\n"
+ bookmark.0101.desc_intro:0 "[hausaland.GetNameNoTier]は何代にもわたって母系継承であるマガジヤが治めており、当代は私です。\n\nその伝統は有益でしたが、世界は変化しています。 私の[ROOT.Char.Custom2('RelationToMeShort', bayajidda)]である[bayajidda.GetFirstName]は英雄的行為によって大きな富と尊敬を得ました…[bayajidda.GetSheHe]は遠き国から来ているものの、その成功は私の民にとって大きな変化をもたらす前触れとなっています。\n\n"
  bookmark.0101.desc_living:1 "いとしい息子、[bewo.GetTitledFirstName]よ。おまえは父の冒険心と、私の伝統を愛する心、そのどちらを受け継ぐのだい？"
  bookmark.0101.desc_dead:1 "おお、いとしい息子、[bewo.GetTitledFirstName]よ！おまえは父の冒険心と、私の伝統を愛する心、そのどちらをもって生まれてきたのか。…しかしそれも今では分からなくなってしまった。"
  bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip]は[ROOT.Char.GetCulture.GetNameNoTooltip]の伝統を新しい世代に引き継がせなければなりません。"

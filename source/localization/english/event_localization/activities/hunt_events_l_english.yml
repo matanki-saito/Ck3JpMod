@@ -354,7 +354,7 @@
  hunt.1001.closing:1 "視線が絡み合い、そして―まるでその獣は私の意思に勘付いたかのように―不意に跳び去った。[activity.Custom('GetAnimalColor')]毛並みが一閃する！"
  hunt.1001.desc_opening_courtier_dangerous:0 "私の[ROOT.Char.Custom2('RelationToMeShort', hunt_participant)][hunt_participant.GetTitledFirstName]は、遠くから私たちを見ている[activity.Custom('GetAnimalType')]を見つけ、その体はぴんと張って走る準備ができている。"
  hunt.1001.desc_opening_dangerous:0 "[host.GetCurrentLocation.Custom('GetTerrainType')]を調べていると、まるで最初からそこにいたかのように、私は突然[activity.Custom('GetAnimalType')]に遭遇する！"
- hunt.1001.desc_opening_courtier_plural_dangerous:0 "我が[ROOT.Char.Custom2('RelationToMeShort', hunt_participant)]、[hunt_participant.GetTitledFirstName]の合図が、[host.GetCurrentLocation.Custom('GetTerrainType')]に響き渡る — [activity.Custom('GetAnimalType')]の[activity.Custom('GetAnimalGroup')]がここから遠くない窪地に身を寄せている。"
+ hunt.1001.desc_opening_courtier_plural_dangerous:0 "我が[ROOT.Char.Custom2('RelationToMeShort', hunt_participant)]、[hunt_participant.GetTitledFirstName]の合図が、[host.GetCurrentLocation.Custom('GetTerrainType')]に響き渡る ―― [activity.Custom('GetAnimalType')]の[activity.Custom('GetAnimalGroup')]がここから遠くない窪地に身を寄せている。"
  hunt.1001.desc_opening_plural_dangerous:0 "[host.GetCurrentLocation.Custom('GetTerrainType')]を調べていると、まるで最初からそこにいたかのように、私は突然[activity.Custom('GetAnimalGroup')]に遭遇する！"
  hunt.1001.wolf:0 "\n\n私たちが近づくと、獣たちは一斉に動き出し、警戒して[activity.Custom('GetAnimalSoundParticiple')]し、[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中へ逃げていき、[activity.Custom('GetAnimalDanger')]を剥き出しにしている。\n\n"
  hunt.1001.desc_dangerous:0 "\n\nその[activity.Custom('GetAnimalAdjective')]獣は見る者を圧倒する。我らの馬は、[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]の中にその[activity.Custom('GetAnimalFeature')]を見つけると物怖じした。\n\n"
