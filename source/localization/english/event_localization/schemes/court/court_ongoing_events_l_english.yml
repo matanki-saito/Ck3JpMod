@@ -87,7 +87,7 @@
  court_ongoing.1022.t:1 "$court_event_title$ 灰色のそれ"
  court_ongoing.1022.start.desc:0 "「いとしい[target.GetLadyLord][target.GetFirstName]！」 [target.GetHerHim]の前に跪きながらため息をついた。「唯一の望みは、あなたに名誉と幸福をもたらすことです。どうすればこの愛を証明できますか？」\n\n"
  court_ongoing.1022.end.desc:0 "[target.GetTitledFirstNameNoTooltip]はためらい、[target.GetHerHis]の頬が赤くなる。[ROOT.Char.GetFaith.HighGodName]に懸けて、[target.GetSheHe]を喜ばせ、また困惑させないようにしたい！\n\n「私のために狼を倒して、その毛皮を持ってきてください。そうすれば、このお話の続きができるかもしれません。」"
- court_ongoing.1022.a:0 "「あなたの願いは私の指命だ！」"
+ court_ongoing.1022.a:0 "「あなたの願いは私の使命だ！」"
  court_ongoing.1022.a.success:0 "あなたが狼を倒す"
  court_ongoing.1022.a.failure:0 "手ぶらで帰ってくる"
  court_ongoing.1022.b:0 "犬小屋に毛むくじゃらの獣がいたっけ…"
