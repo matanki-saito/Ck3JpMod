@@ -107,7 +107,7 @@
  ep1_2000_ccavalry_modifier_desc:0 "$ep1_2000_generic_modifier_desc$"
  ep1_2000_levies_modifier:0 "活動的な農民たち"
  ep1_2000_levies_modifier_desc:0 "$ep1_2000_generic_modifier_desc$"
- ep1_2000_knights_modifier:0 "後援された狩猟"
+ ep1_2000_knights_modifier:0 "支援された狩猟"
  ep1_2000_knights_modifier_desc:0 "$ep1_2000_generic_modifier_desc$"
  ep1_2000_generic_modifier_desc:0 "この人物は、核となる戦士たちが常に準備できるように、軍のスポーツを奨励している。"
  infantry:0 "歩兵"
