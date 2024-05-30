@@ -136,7 +136,7 @@
  bp2_yearly.1030.b: "色々なことが出来たほうが有益だな。"
  bp2_yearly.1030.b.tt: "[focus_child.GetFirstNamePossessiveNoTooltip]はより[focus_child.Custom('GetEducationTraitConcept')]の[education_focus|E]を深く学ぶでしょう。"
  bp2_yearly.1035.t: "ダイヤモンドの原石"
- bp2_yearly.1035.desc: "レッスンをしていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('rock_child'))]の[rock_child.GetFirstNamePossessive]の部屋で、棚にきれいに並べられた石のコレクションに気付いた。\n\nそのコレクションの中の1つが目を引く — 表面はかなりザラザラしているが、よく見ると深い赤色の輝く色合いが内部に含まれているのがわかる。\n\n私の興味に気付いた[rock_child.GetSheHe|U]は、その石を拾い上げて手渡す。「あなたに差し上げます、"
+ bp2_yearly.1035.desc: "レッスンをしていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('rock_child'))][rock_child.GetFirstNamePossessive]の部屋で、棚にきれいに並べられた石のコレクションに気付いた。\n\nそのコレクションの中のひとつが目を引く—— 表面はかなりザラザラしているが、よく見ると深い赤色の輝きが内部に含まれているのがわかる。\n\n私の興味に気付いた[rock_child.GetSheHe|U]は、その石を拾い上げて手渡す。「あなたに差し上げます、"
  bp2_yearly.1035.desc_guardian: "[ROOT.Char.Custom('MistressMaster')][ROOT.Char.GetFirstNameNoTooltip]。」"
  bp2_yearly.1035.desc_parent: "[rock_child.Custom2('RelationToMeShort', ROOT.Char)]様。」"
  bp2_yearly.1035.a: "ああ、ありがとう。"
