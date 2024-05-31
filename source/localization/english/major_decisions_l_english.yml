@@ -1,6 +1,6 @@
 ﻿l_english:
  major_decisions.1001.t:0 "神の肉"
- major_decisions.1001.desc:0 "「我らは同胞に仕えるためこの地に置かれた」[court_chaplain.GetCouncilTitle][court_chaplain.GetNamePossessive]の声が食堂に響き渡る。「肉体の恩恵を受け入れることにより、汝は[ROOT.Char.GetFaith.HighGodHerHis|U]愛も受け入れるのだ」\n\n従僕たち——未だ我らとともにある——は素晴らしい仕事をした。[ROOT.Char.Custom('RegionalDrink')]に酔いしれ、人間の神性を味わい、我らは夜通し饗宴を楽しんだ。"
+ major_decisions.1001.desc:0 "「我らは同胞に仕えるためこの地に置かれた」[court_chaplain.GetCouncilTitle][court_chaplain.GetNamePossessive]の声が食堂に響き渡る。「肉体の恩恵を受け入れることにより、汝は[ROOT.Char.GetFaith.HighGodHerHis|U]の愛も受け入れるのだ」\n\n従僕たち——未だ我らとともにある——は素晴らしい仕事をした。[ROOT.Char.Custom('RegionalDrink')]に酔いしれ、人間の神性を味わい、我らは夜通し饗宴を楽しんだ。"
  major_decisions.1001.a:0 "手を貸して、もっと[ROOT.Char.Custom('RegionalDrink')]をくれ！"
  major_decisions.1002.t:0 "死神の饗宴"
  major_decisions.1002.desc:0 "耳にしていることが信じられない: [cannibal.GetName]の中庭の至る所で——[cannibal.GetHerHis][court_chaplain.GetCouncilTitle]さえも——が食人嗜好になってしまったのだ！通りは血で赤く染まり、[cannibal.GetHerHis]の地獄のような集団の饗宴が繰り広げられている。"

@@ -942,7 +942,7 @@
  building_alcazar_of_segovia_01:0 "$building_type_alcazar_of_segovia_01$"
  building_alcazar_of_segovia_01_desc:0 "$building_type_alcazar_of_segovia_01_desc$"
  building_type_holy_site_basilica_santiago_01:0 "サンティアゴ・デ・コンポステーラ大聖堂"
- building_type_holy_site_basilica_santiago_01_desc:0 "大ヤコブの墓の上に築かれたこの壮麗な建物は、聖ヤコブの巡礼路の終着点であり、キリスト教世界の偉大な遺跡のひとつでもある。西ヨーロッパ、北ヨーロッパの各地から大勢の巡礼者が訪れ何十もの言語が飛び交うが――多くは畏敬の念とともに押し黙ることになる。"
+ building_type_holy_site_basilica_santiago_01_desc:0 "大ヤコブの墓の上に築かれたこの壮麗な建物は、聖ヤコブの巡礼路の終着点であり、キリスト教世界の偉大な遺跡のひとつでもある。西ヨーロッパ、北ヨーロッパの各地から大勢の巡礼者が訪れ何十もの言語が飛び交うが——多くは畏敬の念とともに押し黙ることになる。"
  building_holy_site_basilica_santiago_01:0 "$building_type_holy_site_basilica_santiago_01$"
  building_holy_site_basilica_santiago_01_desc:0 "$building_type_holy_site_basilica_santiago_01_desc$"
  building_type_megalith_01:0 "巨石"

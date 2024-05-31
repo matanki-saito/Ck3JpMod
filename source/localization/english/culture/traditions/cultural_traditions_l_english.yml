@@ -975,7 +975,7 @@
  culture_tradition_events.0111.a.tt.failure:0 "あなたは言葉に詰まる"
  culture_tradition_events.0111.c:0 "誰がこの浮浪者を家に入れたんだ？衛兵！助けてくれ！"
  culture_tradition_events.0121.t:0 "神秘主義者の奉仕"
- culture_tradition_events.0121.desc:0 "[mendicant_mystic.GetHerHis]にしては珍しく、[mendicant_mystic.GetFirstName]は私が[mendicant_mystic.GetHerHim]と面会できるまで、控えの間で辛抱強く待っていた。\n\n部屋に入ると[mendicant_mystic.GetFaith.PriestNeuter]は緊張の面持ちだったが、私が到着するやいなや急いで演説を始めた。\n\n「我が[ROOT.Char.GetLadyLord]、私はしばらく托鉢をして過ごしてまいりました。ですが[mendicant_mystic.GetFaith.HighGodNamePossessive]の務めは、魂こそ豊かにしますが、心と身体には負担を強いるものであります」\n\n「もし私を必要とおっしゃるのであれば、旅の杖をいったん置き、全身全霊をもってあなたの宮廷にお仕えしましょう。い、いかがでしょうか？」"
+ culture_tradition_events.0121.desc:0 "[mendicant_mystic.GetHerHis]にしては珍しく、[mendicant_mystic.GetFirstName]は私と面会できるまで、控えの間で辛抱強く待っていた。\n\n部屋に入ると[mendicant_mystic.GetFaith.PriestNeuter]は緊張の面持ちだったが、私が到着するやいなや急いで演説を始めた。\n\n「我が[ROOT.Char.GetLadyLord]、私はしばらく托鉢をして過ごしてまいりました。ですが[mendicant_mystic.GetFaith.HighGodNamePossessive]の務めは、魂こそ豊かにしますが、心と身体には負担を強いるものであります」\n\n「もし私を必要とおっしゃるのであれば、旅の杖をいったん置き、全身全霊をもってあなたの宮廷にお仕えしましょう。い、いかがでしょうか？」"
  culture_tradition_events.0121.a:0 "汝のような才気豊かな[mendicant_mystic.GetWomanMan]はぜひ用いたい…"
  culture_tradition_events.0121.b:0 "忠実なる[mendicant_mystic.GetFaith.PriestNeuter]だと…"
  culture_tradition_events.0121.c:0 "その見てくれ、その#EMP におい#!で、ここに住みたいと申すか？"

@@ -5,7 +5,7 @@
  iberia_north_africa.0006.start.desc:0 "スペインの王国は次々と、[spain_uniter.GetPrimaryTitle.GetNameNoTier]の軍門に降っていった。"
  iberia_north_africa.0006.relation_former.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', spain_uniter)][spain_uniter.GetTitledFirstName]"
  iberia_north_africa.0006.former.desc:0 "[spain_uniter.GetTitledFirstName]"
- iberia_north_africa.0006.end.desc:0 "が[spain_uniter.GetHerselfHimself]自身を「スペインの[spain_uniter.GetMotherFather|U]」であると宣言した。\n\n[spain_uniter.GetHerHis|U]の名は何世紀にもわたって残るだろうが、[spain_uniter.GetSheHe]が英雄として記憶されるのか、あるいは暴君として記憶されるのか？それは[ROOT.Char.GetFaith.FateGodName]のみぞ知る。"
+ iberia_north_africa.0006.end.desc:0 "が[spain_uniter.GetHerselfHimself]自身を「スペインの[spain_uniter.GetMotherFather|U]」であると宣言した。\n\n[spain_uniter.GetHerHis|U]の名は何世紀にもわたって残るだろうが、[spain_uniter.GetSheHe]が英雄として記憶されるのか、あるいは暴君として記憶されるのか？ それは[ROOT.Char.GetFaith.FateGodName]のみぞ知る。"
  iberia_north_africa.0010.t:0 "一つのアフリカ"
  iberia_north_africa.0010.start.desc:0 "それを成し遂げられると考えた者は誰ひとりとしていなかった。しかし私はここに立っている。すべてのアフリカの上に立つ[ROOT.Char.GetTitleAsNameNoTooltip]として。"
  iberia_north_africa.0010.vassals.desc:0 "大西洋岸から東方の海まで、全ての部族、[vassal_1.GetTitleAsNameNoTooltip]、そして[vassal_2.GetTitleAsNameNoTooltip]がいまや私に膝を屈した。"

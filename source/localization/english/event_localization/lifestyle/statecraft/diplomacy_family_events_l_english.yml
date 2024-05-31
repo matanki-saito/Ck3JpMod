@@ -190,7 +190,7 @@
  diplomacy_family_special.2220.desc:0 "私は[heir.GetFirstName]と共に座り、たとえそのような行動が自然には起こらなくても、[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')]になることが領国の最善の利益になることがあることを説明した。\n\n最初、[heir.GetSheHe|U]は怪訝そうにしていたが、私が[heir.GetHerHim]に、時間と訓練によって簡単にできるようになると伝えると、励まされたようだった。"
  diplomacy_family_special.2220.a:0 "どのように変化するかは、時が経てばわかるだろう。"
  diplomacy_family_special.2220.a.tt:0 "[heir.GetFirstName]はより[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInvertedTraitLink')]になろうとするでしょう"
- diplomacy_family_special.2221.desc:0 "私は[heir.GetFirstName]に、[heir.GetHerHis]自身が興味を持つ[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')]ではなく、[heir.GetHerHim]に[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')][ROOT.Char.GetTitleAsNameNoTooltip]であることがいかに利益になるかの例を挙げながら説得を試みた。\n\nにもかかわらず、[heir.GetSheHe]は[heir.GetHerHis]の行動を変える検討すら拒否した。[heir.GetSheHe|U]は、たとえそれが他人を疎外することになろうとも、[heir.GetHerHis]のやり方に固執しているようだ。"
+ diplomacy_family_special.2221.desc:0 "私は[heir.GetFirstName]に、[heir.GetHerHis]自身が興味を持つ[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')]ではなく、[heir.GetHerHim]に[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')][ROOT.Char.GetTitleAsNameNoTooltip]であることがいかに利益になるかの例を挙げながら説得を試みた。\n\nにもかかわらず、[heir.GetSheHe]は[heir.GetHerHis]の行動を変える検討すら拒否した。[heir.GetSheHe|U]は、たとえそれが他人を疎外することになろうとも、自身のやり方に固執しているようだ。"
  diplomacy_family_special.2221.a:0 "なぜ[heir.GetSheHe]は私の言葉の真意がわからないのだ？"
  diplomacy_family_special.2231.desc:0 "[heir.GetTitledFirstName]と[vassal.GetTitledFirstNamePossessive]の関係は、最初は敵意と憎しみから始まったかもしれないが、私の指導の下、彼らは互いを理解し、信頼する方法を学んだ。その特質を大切に育てたことで、二人の間には強い友情が生まれた！"
  diplomacy_family_special.2231.a:0 "すべてうまくいくとわかっていた！"
