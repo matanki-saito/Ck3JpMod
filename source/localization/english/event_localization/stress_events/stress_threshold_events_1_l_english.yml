@@ -30,7 +30,7 @@
  stress_threshold.1711.t:0 "精神崩壊: 忙しすぎる"
  stress_threshold.1711.desc.intro:0 "[ROOT.GetCharacter.GetFaith.FateGodName]よ！最近、領地の陳情者が列をなしている。この仕事は#EMP 終わりがない#!ように感じる。さらにもう一人、前に出てきたのは明らかに何かの苦境に陥った商人だ。\n\n"
  stress_threshold.1711.desc.greedy:0 "「私への税金でも持ってきたのか？違う？それならどうでもいい。」"
- stress_threshold.1711.desc.diligent:0 "「数週間後にはあなたの問題に取り掛かれるだろうが、それを急がせるほどあなたは重要ではないよ。」"
+ stress_threshold.1711.desc.diligent:0 "「数週間後にはそなたの問題に取り掛かれるだろうが、そなたごときのためにそれ以上急ぐ必要はなかろう」"
  stress_threshold.1711.desc.patient:0 "$stress_threshold.1711.desc.diligent$"
  stress_threshold.1711.desc.deceitful:0 "「お前は私の臣民には見えない。誰か他の者に頼むのだな。」"
  stress_threshold.1711.desc.ambitious:0 "「甘い言葉で私から王家の印章がもらえるとでも思ったのか、商人よ？私は[ROOT.GetCharacter.GetTitleAsNameNoTooltip|L]だぞ！」"

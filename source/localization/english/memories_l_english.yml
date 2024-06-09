@@ -569,7 +569,7 @@
  joined_allys_war_desc_crusade_third_perspective:0 "[owner.GetTitledFirstNameRegnal]は[enemy.GetTitledFirstNameRegnal]によって主導され[ROOT.Var('war_title').Title.GetBaseNameNoTier]を目標とする[ROOT.Var('war_faith').Faith.GetAdherentNamePlural]に対する[ally.GetTitledFirstNamePossessiveRegnal][ROOT.Var('war_faith_attacker').Faith.GetAdjective][ROOT.Var('war_faith_attacker').Faith.GHWName]に参加した"
  joined_allys_war_desc_crusade_defensive_third_perspective:0 "[owner.GetTitledFirstNameRegnal]は[enemy.GetTitledFirstNameRegnal]によって主導され[ROOT.Var('war_title').Title.GetBaseNameNoTier]を目標とする[ROOT.Var('war_faith_attacker').Faith.GetAdjective][ROOT.Var('war_faith_attacker').Faith.GHWName]に対する[ally.GetTitledFirstNamePossessiveRegnal][ROOT.Var('war_faith').Faith.GetAdjective]の防衛に参加した"
  defensive_war_desc_title:0 "[other_party.GetFullName]は私に対する[ROOT.Var('war_title').Title.GetBaseNameNoTier]の[ROOT.Var('war_cb').GetFlagName]を開始した"
- defensive_war_desc_claimant:0 "[other_party.GetFullName]が私の [ROOT.Var('war_title').Title.GetBaseName]に対して [ROOT.Var('war_claimant').Char.GetNamePossessive]権利を主張してきた"
+ defensive_war_desc_claimant:0 "[other_party.GetFullName]が私の [ROOT.Var('war_title').Title.GetBaseName]に対して [ROOT.Var('war_claimant').Char.GetNamePossessive]の権利を主張してきた"
  defensive_war_desc_claimant_owner:0 "[other_party.GetFullName]が私の[ROOT.Var('war_title').Title.GetBaseName]に対する請求権を行使してきた"
  defensive_war_desc_de_jure:0 "[other_party.GetFullName]は[ROOT.Var('war_title').Title.GetBaseNameNoTier]に対して[ROOT.Var('war_liege').Title.GetAdjective]の慣習的領土の支配権を行使した"
  defensive_war_desc_faith:0 "[other_party.GetFullName]は私に対して[ROOT.Var('war_title').Title.GetBaseName]を目標とする[ROOT.Var('war_faith_attacker').Faith.GetAdjective][ROOT.Var('war_cb').GetFlagName]を呼びかけた"

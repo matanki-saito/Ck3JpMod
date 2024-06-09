@@ -1007,7 +1007,7 @@
  unavailable_hold_court:0 "謁見中"
  unavailable_tour_stop:0 "主君の[tour|E]に備えて支度中"
  call_for_acclaimed_knight_candidates_decision:0 "勲等の復活"
- call_for_acclaimed_knight_candidates_decision_desc:0 "我が従士の威厳は過去のものだ。$knight_culture_player_plural_no_tooltip_lowercase$の言葉を広げよう。[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]を呼び起こすために！\n\n私が用意する由緒ある名誉の末席に相応しき後継者を呼びましょう"
+ call_for_acclaimed_knight_candidates_decision_desc:0 "我が従士の威厳は過去のものだ。$knight_culture_player_plural_no_tooltip_lowercase$の言葉を広げよう。[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip][ROOT.Char.GetTitleAsNameNoTooltip]の召し出しであると！\n\n私が用意する由緒ある名誉の末席に相応しき後継者を呼びだそう。"
  call_for_acclaimed_knight_candidates_decision_tooltip:0 "[inactive_accolade|e]のために[acclaimed_knights|e]となれるものが現れます"
  call_for_acclaimed_knight_candidates_decision_confirm:0 "使者に伝えよ"
  call_for_acclaimed_knight_candidates_decision.tt:0 "来年以内に[inactive_accolade|e]となりうるものが現れ、[knights|e]となるでしょう"

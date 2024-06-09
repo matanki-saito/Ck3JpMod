@@ -48,7 +48,7 @@
  LEGEND_SPREAD: "伝播した[baronies|E]：[Legend.GetCurrentNumProvinces|V][AddLocalizationIf( Not( Legend.HasQuality( 'mythical' ) ), 'LEGEND_SPREAD_UPGRADE' )]"
  CREATE_LEGEND_TITLE: "[LegendSeed.GetNameWithProtagonist( Character.Self, LegendCreationWindow.GetProtagonist.Self )]の創作"
  CREATE_LEGEND_DESC: "この[legend_seed|E]は[LegendSeed.GetQualityLevel]な[Concept( 'legend_type', LegendSeed.GetType.GetName )|E]のためのものです。\n#I [legend_protagonist|E]を選びあなたの[legend|E]を創作します。#!\n#weak 伝説が成立すると、あなたの主人公に応じてさまざまな報酬を受け取ることができます。#!\n@alert_icon!#alert_trial  あなたは[GetTimeDifferenceWithDays( GetDefine( 'NLegend', 'DAYS_UNTIL_CAN_COMPLETE' ) )|V]は伝説を成立できません#!"
- CREATE_LEGEND_WARNING_DESC: "@warning_icon!#X あなたは[GetTimeDifferenceWithDays( GetDefine( 'NLegend', 'DAYS_UNTIL_CAN_COMPLETE' ) )|V]の成立も放棄も出来ない#!"
+ CREATE_LEGEND_WARNING_DESC: "@warning_icon!#X あなたは[GetTimeDifferenceWithDays( GetDefine( 'NLegend', 'DAYS_UNTIL_CAN_COMPLETE' ) )|V]の間、成立も放棄も出来ない#!"
  LEGEND_REWARDS: "完遂時の報酬"
  RELATIONSHIP: "関係"
  PAN_TO_LEGEND_TT: "#T 地図上の伝説に飛ぶ#!"
