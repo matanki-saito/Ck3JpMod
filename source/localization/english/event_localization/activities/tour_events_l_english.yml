@@ -414,7 +414,7 @@
  tour_grounds_events.3006.b:0 "放っておけ。"
  tour_grounds_events.3006.c:0 "[visiting_liege.GetHerHim]を押しのけて、私が射つ！"
  tour_grounds_events.3007.title:0 "$tour_grounds_events.3006.title$"
- tour_grounds_events.3007.desc.intro:0 "不幸なことに私の足元は不安定で、[ROOT.Char.GetFaith.CreatorNamePossessive]の創造物に翻弄されて、私は体が大地から離れていくのを感じる。\n\n"
+ tour_grounds_events.3007.desc.intro:0 "不幸なことに私の足元は踏みしめられる程しっかりとはしていなかった。[ROOT.Char.GetFaith.CreatorNamePossessive]の創造物に翻弄されて、私は己の体が大地から離れていくのを感じる。\n\n"
  tour_grounds_events.3007.desc.mid.protected:0 "しかし、私はすぐに[stop_host_scope.GetName]に掴まれて立ち上がることができ、私の恩人は[stop_host_scope.GetHerHis]の勇敢な努力の中でバタリと倒れる。"
  tour_grounds_events.3007.desc.mid.fell:0 "落下の途中に身をひねると、[stop_host_scope.GetName]はただぼんやりとそばに立って、[stop_host_scope.GetHerHis]の [ROOT.Char.GetTitleAsNameNoTooltip]が落下するのを眺めている。体が地面と再会すると、皮膚が裂け、私の神の血が地面に溢れるのを感じる。"
  tour_grounds_events.3007.desc.mid.took_the_shot:0 "落下の途中に身をひねると、[stop_host_scope.GetName]が私の代わりに現れて、私を助けるために何もしないどころか、射撃をしようとしている！私の体が地面に音を立ててぶつかると同時に、拍手が聞こえてくる。明らかに、[stop_host_scope.GetNameNoTooltip]は私が失敗したことに成功しており、私は苦痛と恥ずかしさに身悶えさせられる。"

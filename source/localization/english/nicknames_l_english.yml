@@ -472,7 +472,7 @@
  nick_the_wise_desc:1 "この人物の意見は聞いておいて損は無い。意見してくれるかは別として。"
  nick_the_impaler_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の正義は過酷だが、再犯率#EMP は#!低い。"
  nick_the_tormentor_desc:1 "この人物が監理する地下牢に行くぐらいなら死んだ方がマシだ、とほとんどの人は考える。"
- nick_the_depraved_desc:1 "善良な人々はこの人物の欲望を不自然だという。だが、逆に言わせれば#EMP 洗練されているだけ#!なのだと。"
+ nick_the_depraved_desc:1 "善良な人々はこの人物の欲望を不自然だという。だが、当人に言わせれば#EMP 洗練#!なのだと。"
  nick_the_monster_desc:1 "百姓は[CHARACTER.GetShortUINameNoTooltipNoFormat]を血を啜り、悪夢と共に子供の骨をしゃぶりにくるグールだと考えています。それが嘘ならいいのですが…"
  nick_the_wicked_desc:1 "[CHARACTER.GetFaith.GetName]には多くの誓約があり、しばしばイタズラ感覚で破る。"
  nick_the_accursed_desc:1 "その名は唾棄すべきもの、そう考えない[CHARACTER.GetFaith.PriestNeuter]は珍しい。"
