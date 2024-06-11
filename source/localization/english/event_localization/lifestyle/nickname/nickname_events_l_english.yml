@@ -70,7 +70,7 @@
  lifestyle_nicknames.0011.a.tt:0 "あなたは自ら選んだ[cognomen|E]をそのままにするつもりであり、ほかのものにする気はないと皆に知らせる。"
  lifestyle_nicknames.0011.b:0 "彼らは正しい、私は何を考えていたのだろう？"
  lifestyle_nicknames.1000.t:0 "異名: [nickname_getter.GetNicknameNoTooltip|U]"
- lifestyle_nicknames.1000.desc:0 "「我が[informer.Custom2('RelationToMeShort', SCOPE.sC('nickname_getter'))]、人々があなたのことを何と呼んでいるか聞いたことがおありですか？」我が[nickname_getter.Custom2('RelationToMeShort', SCOPE.sC('informer'))]である[informer.GetFirstName]は、私にそう言って[informer.Custom('quirk_pos_pp')]。\n\n"
+ lifestyle_nicknames.1000.desc:0 "「我が[informer.Custom2('RelationToMeShort', SCOPE.sC('nickname_getter'))]よ、人々があなたのことを何と呼んでいるか聞いたことがおありですか？」我が[nickname_getter.Custom2('RelationToMeShort', SCOPE.sC('informer'))][informer.GetFirstName]は、私にそう言って[informer.Custom('quirk_pos_pp')]。\n\n"
  lifestyle_nicknames.1000.desc_prison:0 "「[nickname_getter.GetFirstNameNoTooltip]、あなたは自分が何と呼ばれているか知っていますか？」[informer.GetFirstName]は鉄格子に杯を打ち付けながら吐き捨てた。\n\n"
  lifestyle_nicknames.1000.desc_good:0 "「人々はあなたを#EMP 「[nickname_getter.GetTitledFirstNameNicknamedNoTooltip]」#!と呼んでおります。素晴らしいと思われませんか？農民も貴族も口を揃えてこう呼んでいるのです」"
  lifestyle_nicknames.1000.desc_bad:0 "「人々はあなたを#EMP 「[nickname_getter.GetTitledFirstNameNicknamedNoTooltip]」#!と呼んでおります…ええ、#EMP お世辞#!とは呼べないでしょうね。しかし、この状況を変えることはできそうにありません」"

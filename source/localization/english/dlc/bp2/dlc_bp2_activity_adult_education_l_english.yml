@@ -21,7 +21,7 @@
  study_hard_intent: "凄く頑張る"
  study_hard_intent_desc: "あなたはここで勉学のため、長い時間を過ごしてきました。それはきっとあなたの助けとなるでしょう。"
  university_revelry_intent: "ゴリアールの生き方"
- university_revelry_intent_desc: "あなたは大学の中と外、その両方で学生気分を味わうつもりです。"
+ university_revelry_intent_desc: "大学の中と外、その両方で学生生活を過ごすことでこそ学びを得られるはずだ。"
  activity_adult_education_predicted_cost: "[GetActivityType( 'activity_adult_education' ).GetNameNoTooltip]のコストは基本的に選ばれた[activity_options|E]によって変わります。"
  activity_adult_education_desc: "有名な研究の中心地にて学生として過ごし、その地の碩学から学びを得ましょう。\n\nそれは若き時の教育の失敗を乗り越えるだけでなく、あなた自身を向上させ、スキルを磨き、あるいは新しい能力や重要なコネクションを得るきっかけになるかも知れません。"
  activity_adult_education_host_desc: "$BULLET_WITH_TAB$[education_trait|E]が強化されるでしょう\n$BULLET_WITH_TAB$[skill|E]の経験値を得るでしょう\n$BULLET_WITH_TAB$[lifestyle_experience|E]を得るでしょう\n$BULLET_WITH_TAB$[lifestyle_traits|E]を得るでしょう\n$BULLET_WITH_TAB$本の[artifacts|E]を得るでしょう\n$BULLET_WITH_TAB$高い能力を持つ人物が宮廷に加わるかもしれません"

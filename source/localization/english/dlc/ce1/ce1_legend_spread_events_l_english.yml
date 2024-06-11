@@ -372,7 +372,7 @@
  legend_spread_events.5330.c: "今回だけは見なかったことにしよう…"
  legend_spread_events.5330.c.success: "あなたの評判が[promoted_legend_owner.GetFirstNamePossessiveNoTooltip]を後押しする"
  legend_spread_events.5335.t: "価値ある話題"
- legend_spread_events.5335.desc: "言うまでもなく、私は[promoted_legend.GetName]の良い話をすることを期待されているが、[promoted_legend_owner.GetFirstName]の素晴らしい風采と高潔な品行ぶりのお陰でかなり容易なことだと言えよう。\n\n貴族も平民も皆同じように[promoted_legend_owner.GetHerHis]の高潔な人格について語り、それは無論私の耳にも届いている。"
+ legend_spread_events.5335.desc: "言うまでもなく、私は[promoted_legend.GetName]について良い話をすることを期待されているが、[promoted_legend_owner.GetFirstName]の素晴らしい風采と高潔な品行ぶりのお陰で、かなり容易いと言えよう。\n\n貴族も平民も皆同じように[promoted_legend_owner.GetHerHis]の高潔な人格について語り、それは無論私の耳にも届いている。"
  legend_spread_events.5335.a: "[promoted_legend_owner.GetHerHis]の伝説を育むことは、なんと幸福なことだろうか！"
  legend_spread_events.5335.b: "恐らくこの機会を利用して、我ら双方の目的を達成することができるだろう…"
  legend_spread_events.5335.c: "[promoted_legend_owner.GetHerHim]から何を学べようか？"

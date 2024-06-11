@@ -18,7 +18,7 @@
  jungle_stalker_recruited.tt:0 "[GetTrait('jungle_stalker').GetName( GetNullCharacter )]の特性を持つ案内人が従者として加わります"
  hire_mountaineer_option:0 "登山家を雇う"
  hire_mountaineer_option_desc:0 "山岳地形の専門家に従者として付き添ってもらい、高山を通行する時の危険性を抑えてもらいます。"
- mountaineer_recruited.t:0 "山男を雇う"
+ mountaineer_recruited.t:0 "山の住人を雇う"
  mountaineer_recruited.tt:0 "[GetTrait('rough_terrain_expert').GetName( GetNullCharacter )]の特性を持つ案内人が従者として加わるでしょう"
  hire_forder_option:0 "渡河名人を雇う"
  hire_forder_option_desc:0 "湿原の専門家が従者として加わり、氾濫原や湿地を横断する際の危険性を抑えてくれます。"
