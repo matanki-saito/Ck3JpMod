@@ -158,7 +158,7 @@
  bp2_yearly.1040.b.tt: "[sparring_child.GetFirstNamePossessiveNoTooltip]が[martial|E]の[education_focus|E]をより深く学びます"
  bp2_yearly.1040.b.tt_matching: "[sparring_child.GetFirstNamePossessiveNoTooltip]は[martial|E]の[education_focus|E]を非常により深く学びます"
  bp2_yearly.1045.t: "交渉人"
- bp2_yearly.1045.intro: "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の街を午後の散歩中、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('diplomacy_child'))][diplomacy_child.GetFirstName]が駆け寄ってきた："
+ bp2_yearly.1045.intro: "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の街を午後の散歩中、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('diplomacy_child'))][diplomacy_child.GetFirstName]が駆け寄ってきた。"
  bp2_yearly.1045.desc_guardian: "$bp2_yearly.1020.desc_guardian$"
  bp2_yearly.1045.desc_parent: "「[diplomacy_child.Custom2('RelationToMeShort', ROOT.Char)|U]様！"
  bp2_yearly.1045.desc: "たった今、あの人たちが殴り合いを始めて、きっかけは…」\n\nその言葉は甲高い悲鳴に遮られ、私たちの注意は通りの向こうで繰り広げられる喧嘩に向けられた。\n\n喧嘩中の二人は#EMP 私の#!宮廷に詰める小姓のようで、円を描くようにお互い、隙をうかがっている。"
