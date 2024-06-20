@@ -375,7 +375,7 @@
  hunt_animal_child_cub:0 "幼獣"
  hunt_animal_child_fallback:0 "子"
  hunt_animal_young_brocket:0 "子鹿"
- hunt_animal_young_squeaker:0 "未熟な個体"
+ hunt_animal_young_squeaker:0 "幼体"
  hunt_animal_young_fallback:0 "若者"
  hunt_animal_sound_bark:0 "吠える"
  hunt_animal_sound_bark_present:0 "吠える"

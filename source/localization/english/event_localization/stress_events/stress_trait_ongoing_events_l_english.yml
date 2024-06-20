@@ -1,9 +1,9 @@
 ﻿l_english:
- stress_trait_ongoing.0501.t:0 "リラックスした夜"
- stress_trait_ongoing.0501.desc:0 "最近、領国を統治する仕事がストレスになって来た。それがこれでなければ、それはあれで、それがあれでなければ、それはこれだ。農民や司祭の果てしない行進、そして問題、すべてが彼らの些細な悩みを#EMP 私が#!解決することを期待している。\n\n私には、原告も嘆願者もいない、外交官も裁判官もいない、私自身の一日を過ごす資格がある。私とこの大皿に乗ったハシシのケーキだけの…"
+ stress_trait_ongoing.0501.t:0 "夜の安らぎ"
+ stress_trait_ongoing.0501.desc:0 "最近、領国を統治する仕事がキツい。それがこれでなければ、それはあれで、それがあれでなければ、それはこれだ。農民や司祭の果てしない文句、問題、そのすべてを生んでいる奴らの些細な悩みを#EMP 私が#!解決することを期待している。\n\n私には、原告も嘆願者もいない、外交官も裁判官もいない、私自身の一日を過ごす資格がある。私とこの大皿に乗ったハシシのケーキだけの…"
  stress_trait_ongoing.0501.a:0 "仕事に戻ろう！"
  stress_trait_ongoing.0501.b:0 "たった一日の休みだ…"
- overworking_diplomacy_modifier:0 "働きすぎの外交官"
+ overworking_diplomacy_modifier:0 "働きすぎの外交"
  overworking_diplomacy_modifier_desc:0 "$overworking_stewardship_modifier_desc$"
  overworking_martial_modifier:0 "働きすぎの元帥"
  overworking_martial_modifier_desc:0 "$overworking_stewardship_modifier_desc$"
