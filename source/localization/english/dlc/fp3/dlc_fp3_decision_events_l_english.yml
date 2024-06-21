@@ -174,7 +174,7 @@
  destroy_the_magi_opinion_tooltip: "狂信的でない[root_religion.GetAdjective]の統治者はこれに動揺するでしょう"
  replace_the_high_priest_effect_tooltip: "[head_of_faith|E]は[GetFaithDoctrine('doctrine_temporal_head').GetBaseName]から[GetFaithDoctrine('doctrine_no_head').GetBaseName]に変わります"
  fp3_decision.0008.t: "光を導く…"
- fp3_decision.0008.desc: "窮地に立たされてきた[founder.GetFaith.GetAdherentNamePlural]は正当な指導力を欠くことで、長い間徒労を重ねてきた。だがこのような恥辱の日々は終わりを告げた。我こそワラーヤなる者。信仰の守護者、光を超えた光、其を[ROOT.Char.GetFaith.HighGodNameAlternate]に定められし存在。我とその継承者たち、[ROOT.Char.GetFaith.HighGodNameAlternate]の全知全能の名の下に人を導かん。我願わん、この日が[founder.GetFaith.GetAdherentNamePluralNoTooltip]の夜明けとなることを。"
+ fp3_decision.0008.desc: "窮地に立たされてきた[founder.GetFaith.GetAdherentNamePlural]は正当な指導力を欠くことで、長い間徒労を重ねてきた。だがこのような恥辱の日々は終わりを告げた。我こそワラーヤなる者。信仰の守護者、光を超えた光。其らを[ROOT.Char.GetFaith.HighGodNameAlternate]に定められし存在。我とその継承者たち、[ROOT.Char.GetFaith.HighGodNameAlternate]の全知全能の名の下に人を導かん。この日が[founder.GetFaith.GetAdherentNamePluralNoTooltip]の夜明けとなることを、我が願わん。"
  fp3_decision.0008.a: "我が使命！我が責務！"
  fp3_decision.0008.b: "聖なる光が我が一族を照らしますように！"
  fp3_decision.0009.t: "新たな[founder.GetFaith.ReligiousHeadName]"

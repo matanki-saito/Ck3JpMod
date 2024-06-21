@@ -604,7 +604,7 @@
  legend_chapter_revenge_quest_complete: "ついに、[ROOT.Legend.GetProtagonist.GetNameNoTooltip]によって[ROOT.Legend.MakeScope.Var('8180_revenge_quest').Char.GetNameNoTooltip]が討たれ、[ROOT.Legend.GetProtagonist.GetFaith.NegativeAfterLife]へ送られた。"
  legend_chapter_revenge_quest_divine_justice: "どうやら[ROOT.Legend.GetProtagonist.GetFaith.HighGodName|U]も[ROOT.Legend.GetProtagonist.GetNamePossessive]の感情に呼応し、[ROOT.Legend.MakeScope.Var('8180_revenge_quest').Char.GetNameNoTooltip]から命を奪い、[ROOT.Legend.GetProtagonist.GetFaith.NegativeAfterLife]へ[ROOT.Legend.MakeScope.Var('8180_revenge_quest').Char.GetHerHim]を手ずから送られた。"
  legend_chapter_raised_by_animal: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip|U]は子どもの頃に迷子になり、[ROOT.Legend.MakeScope.Var('animal_parent').GetFlagName]によって養育された。多くの人々は、これが[ROOT.Legend.GetProtagonist.GetHerHis]の風変わりな行動の原因だと推測している。"
- legend_chapter_forged_own_path: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip|U]は、これからの旅が危険であることを知っていたが、[ROOT.Legend.GetProtagonist.GetHerHis]の道は初めから決まっていた。一切のためらいもなく、[ROOT.Legend.GetProtagonist.GetSheHe]は自らの意志の強さだけに導かれて、その行き先を定めたのだ。"
+ legend_chapter_forged_own_path: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip|U]は、これからの旅が危険であることを知っていたが、[ROOT.Legend.GetProtagonist.GetHerHis]の道は初めから決まっていたのだろう。一切のためらいもなく、[ROOT.Legend.GetProtagonist.GetSheHe]はその強き意志だけに導かれて、己が行く末を定めたのだ。"
  possessed_artifact_desc: "[witchy_artifact.GetDesc]\n\n強力な魔術師によって大悪霊が封されていると言う。"
  infidel_artifact_desc: "[infidel_weapon.GetDesc]\n\n千の[memory.loser.GetFaith.GetAdherentNamePluralNoTooltip]の血を吸って、[memory.GetName]という逸話がある。"
  ce1_battle_artifact_desc: "[infidel_weapon.GetDesc]\n\nこの武器には伝承が刻まれた。曰く、[memory.GetName]と。"
