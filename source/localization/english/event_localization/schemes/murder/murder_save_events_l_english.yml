@@ -53,7 +53,7 @@
  murder_save.0007.t:1 "$murder_save_header$ 毛皮を着た護衛"
  murder_save.0007.desc:0 "[target.GetTitledFirstName]はまだ生きている！\n\n[target.GetTitleTierNamePossessive]のベッドに[SCOPE.Custom('VenomousCreature')]を仕込んだが、それが襲いかかる前に[target.GetTitleTierNamePossessive]の猫が騒いで、その生き物と戦い始めた！"
  murder_save_failure_cat_tt:0 "[target.GetFirstNamePossessiveNoTooltip]の猫は傷を負って死ぬ"
- murder_save.1007.opening:1 "自室に入ると私の愛する猫[THIS.Char.Custom('CatStoryName')]が苛立ってることにすぐ気が付いた——明らかに興奮して[THIS.Char.Custom('CatStorySheHe')]はベッドの前に陣取っている。さながら[THIS.Char.Custom('CatFurColor')]稲妻のように突然[THIS.Char.Custom('CatStorySheHe')]が飛び掛かると、シーツの間から[SCOPE.Custom('VenomousCreatureType')]が現れた！"
+ murder_save.1007.opening:1 "自室に入ると私の愛する猫[THIS.Char.Custom('CatStoryName')]が苛立ってることにすぐ気が付いた——明らかに興奮して[THIS.Char.Custom('CatStorySheHe')]はベッドの前に陣取っている。さながら[THIS.Char.Custom('CatFurColor')]稲妻のように突然飛び掛かると、シーツの間に仕込まれた[SCOPE.Custom('VenomousCreatureType')]が逃げ出した！"
  murder_save.1007.cat_dies:0 "\n\nその恐ろしい生き物は簡単には倒れることはなく、[THIS.Char.Custom('CatStoryName')]がついにその首に噛みついたとき、[THIS.Char.Custom('CatStorySheHe')]を救うにはもはや手遅れだった。"
  murder_save.1007.a:0 "私の命の恩猫だ、[THIS.Char.Custom('CatStoryName')]！"
  murder_save.1007.b:0 "背後に誰かいるのは明らかだ！"

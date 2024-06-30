@@ -117,7 +117,7 @@
  msg_title_rank_up:0 "階位の獲得"
  msg_title_rank_up_desc:0 "あなたは強大な[CHARACTER.GetTitleTierName|V]となった"
  msg_title_rank_down:0 "階位の喪失"
- msg_title_rank_down_desc:1 "あなたは現在[CHARACTER.GetTitleTierName|V]にすぎません"
+ msg_title_rank_down_desc:1 "あなたは[CHARACTER.GetTitleTierName|V]になってしまった"
  msg_disbanded_faction_target_died:0 "派閥の解散"
  msg_disbanded_faction_target_died_desc:0 "[FACTION.GetName]の標的であった[CHARACTER.GetUINameNoTooltip]が死去したため、派閥は解散されました"
  msg_removed_from_faction_not_valid:0 "派閥を捨てた"

@@ -12,7 +12,7 @@
  combat_event.0004.desc:0 "[enemy_commander.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、[enemy_commander.GetHerHis]の生涯で百戦して一度も負けなかったことで知られる伝説の指揮官だ。\n\nにもかかわらず、私は今日の戦場で[enemy_commander.GetHerHim]を打ち負かし、[enemy_commander.GetSheHe]が完全無欠ではないことを世界に示したのだ！"
  combat_event.0004.a:0 "偉大なる伝説でさえ、私の[ROOT.Char.Custom('signature_weapon')]の前に屈したのだ！"
  combat_event.0004.b:0 "[enemy_commander.GetSheHe]が勝てるなら、私だって勝てる。"
- combat_event.0004.b.zealous:0 "[ROOT.GetCharacter.GetFaith.WarGodNamePossessive]が[enemy_commander.GetWomanMan]をくじいてくれたことに感謝する。"
+ combat_event.0004.b.zealous:0 "[ROOT.GetCharacter.GetFaith.WarGodNamePossessive]がかの[enemy_commander.GetWomanMan]をくじいてくれたことに感謝する。"
  combat_event.0005.t:0 "巨人を倒す"
  combat_event.0005.desc:0 "今日は考えられないことが起こった——私は[friendly_commander.Custom2('MyCharacterIntroduction', ROOT.Char)]に戦闘で負けてしまった！私は決して負けることはないと本気で思い始めていたが、今はすっかり元気をなくし、くじかれてしまった。\n\nこの損失にもかかわらず、私の評判はまだある程度は損なわれていないが、[friendly_commander.GetFirstName]が私の栄光と名声の一部を奪ったことは間違いない。"
  combat_event.0005.a:0 "[friendly_commander.GetSheHe|U]が私のような者を倒したことは評価に値する。"
