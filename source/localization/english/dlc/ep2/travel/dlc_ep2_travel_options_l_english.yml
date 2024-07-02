@@ -12,7 +12,7 @@
  mercenary_leader.t:0 "傭兵団長を採用した"
  mercenary_leader_recruited.tt:0 "[mercenary|E]の団長があなたの従者として加わるでしょう"
  available_mercenary.tt:0 "未雇用の[mercenary|E]が近くにいるため利用可能です"
- hire_jungle_expert_option:0 "密林の追跡者を雇う"
+ hire_jungle_expert_option:0 "密林の案内人を雇う"
  hire_jungle_expert_option_desc:0 "ジャングルの専門家が従者として加わってくれれば、ジャングルを横断する危険性は大きく軽減されるでしょう"
  jungle_stalker_recruited.t:0 "密林の追跡者を採用した"
  jungle_stalker_recruited.tt:0 "[GetTrait('jungle_stalker').GetName( GetNullCharacter )]の特性を持つ案内人が従者として加わります"
