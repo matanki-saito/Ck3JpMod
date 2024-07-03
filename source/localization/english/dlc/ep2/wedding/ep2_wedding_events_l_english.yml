@@ -6,7 +6,7 @@
  ep2_wedding.0001.desc_conclusion:0 "\n\n[spouse_2.GetFirstNameNoTooltip]は当然のことながら失望しており、何らかの結果が生じることを私に気づかせる…"
  ep2_wedding.0001.a:0 "こんなはずではなかった。"
  ep2_wedding.0002.t:0 "[GetActivityType('activity_wedding').GetName]: 早すぎる死"
- ep2_wedding.0002.desc:0 "今朝、悲劇的な知らせが私の元に届いた。[GetActivityType('activity_wedding').GetName]で[alive_spouse.GetTitledFirstName]との結婚の約束をしていた[dead_spouse.GetTitledFirstName]が亡くなり、私の綿密な計画は全てが無駄になってしまった！\n\n新しい縁組を探す時だ。"
+ ep2_wedding.0002.desc:0 "今朝、悲劇的な知らせが私の元に届いた。[GetActivityType('activity_wedding').GetName]で[alive_spouse.GetTitledFirstName]との結婚の約束をしていた[dead_spouse.GetTitledFirstName]が亡くなり、私の綿密な計画は全てが無駄になってしまった！\n\n新しい縁組を探す時か。"
  ep2_wedding.0002.a:0 "人生の悲劇だな。"
  ep2_wedding.0003.desc:0 "今、震える手で握っているこの手紙に対して、私には何の準備もできていなかった。[GetActivityType('activity_wedding').GetName]で結婚の約束をしていた婚約者[dead_spouse.GetTitledFirstName]が突然亡くなったのだ。\n\n私のためのお祝いは無くなってしまったし、家族が綿密に計画してきたこともすべて無駄になってしまった。"
  ep2_wedding.0003.a:0 "本当に悲劇だ…"
