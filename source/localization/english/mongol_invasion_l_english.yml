@@ -30,7 +30,7 @@
  mongol_invasion.1004.t:0 "帝国の崩壊"
  mongol_invasion.1004.desc:0 "[old_mongol_emperor.GetTitledFirstName]の死により、幾人もの後継者が大カーンの地位を要求している。誰一人として互いを正統なハーンと認めなかったため、統一帝国としてのモンゴルはついに終焉を見ることとなった。\n\n彼らは依然として強力だが、もはや一つの「天地の支配者」のもとで団結はしていない。"
  mongol_invasion.1004.a:0 "いつの日かあの帝国が蘇るだろう..."
- mongol_invasion.1004.b:0 "お慈悲に感謝します、[ROOT.Char.GetFaith.HighGodName]！"
+ mongol_invasion.1004.b:0 "[ROOT.Char.GetFaith.HighGodName]よ、お慈悲に感謝します！"
  mongol_invasion.1005.t:0 "ハーンが崩御"
  mongol_invasion.1005.desc:0 "[old_khan.GetTitledFirstName]から[new_khan.GetTitledFirstName]への王位継承が行われたが、前のカーンとの最も明白な違いは、[new_khan.GetFirstNameNoTooltip]が自らを「天地の支配者」と称さなかったことだ。\n\nステップの部族がかつて全世界を支配しようとした意図が何であったかはともあれ、彼らはついにそれが手の届かないところにあることを認めたようだ。"
  mongol_invasion.1005.a:0 "一つの時代が終わったのだ。"
