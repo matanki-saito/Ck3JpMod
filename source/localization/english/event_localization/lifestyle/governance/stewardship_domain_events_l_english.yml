@@ -38,7 +38,7 @@
  stewardship_domain.1073.c:0 "彼らが奇妙な伝統を守ろうと、私は気にしない。"
  stewardship_domain.1073.c.warning:0 "文化の統合速度:#N -75%#!"
  stewardship_domain.1073.d:0 "民の気持ちなど関係ない——私こそが彼らの領主なのだ。"
- stewardship_domain.5031.t:0 "不足がちな地域"
+ stewardship_domain.5031.t:0 "困窮する地域"
  stewardship_domain.5031.desc:0 "[county.GetName]での問題の深刻な状況を知らせる詳しい報告が次々と届けられる。この地域にとって騒がしい時代となったようだ。彼ら農民たちはなんらかの#EMP 新たな#!施策を期待している。"
  stewardship_domain.5031.a:0 "個人的にこの問題を扱ってみよう。"
  stewardship_domain.5031.b:0 "罰として増税しろ。"

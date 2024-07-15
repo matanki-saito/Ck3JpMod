@@ -1,5 +1,5 @@
 ﻿l_english:
- death_management.1000.killed.tt:1 "[dead_character.GetTitledFirstName]は[killer.GetTitledFirstName]によって殺された。"
+ death_management.1000.killed.tt:1 "[dead_character.GetTitledFirstName]は[killer.GetTitledFirstName]に殺された。"
  death_management.1000.t:0 "死が二人を分かつまで"
  death_management.1000.murder:0 "[dead_character.GetTitledFirstName]は殺害された！\n\n"
  death_management.1000.like:0 "どうすればこの心の痛みに耐えることができるのだろうか？不可能だ！まだ、私はここにいる。あなたが動かなくなった間にも、私の心臓は脈打っている。ああ、[dead_character.GetFirstName]、私の[dead_character.Custom('LoverPetName')]。あなたを失った人生は違ったものになってしまうだろう。"
