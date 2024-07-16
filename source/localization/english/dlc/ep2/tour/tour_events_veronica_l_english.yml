@@ -350,7 +350,7 @@
  cultural_festival.3051.a.toast:0 "[stop_host_scope.GetShortUIName]はあなたが眠っているのを見た"
  cultural_festival.3051.b:0 "もしかしたら、これは万人向けではないのかもしれないが…"
  cultural_festival.3060.t:0 "よろしいか…？"
- cultural_festival.3060.desc.intro:0 "笛と太鼓の音にすぐに合わせて踊るゲストの一団が現れると、皆が楽しい動きと笑い声で音楽に合わせて踊り始める。路地裏にこっそり逃げ込むカップル、輪になって飛び跳ねる子供たち、腰を動かそうともがく孤独な老人…\n\n"
+ cultural_festival.3060.desc.intro:0 "笛と太鼓の音にすぐに合わせて踊る客人の一団が現れると、皆が楽しい動きと笑い声で音楽に合わせて踊り始める。路地裏にこっそり逃げ込むカップル、輪になって飛び跳ねる子供たち、腰を動かそうともがく孤独な老人…\n\n"
  cultural_festival.3060.desc.spouse:0 "私は配偶者である[my_spouse.GetTitledFirstName]に目を向け、音楽のリズムに合わせて拍手をしながら[my_spouse.GetHerHis]の優しい笑顔に感嘆している。"
  cultural_festival.3060.desc.vassal:0 "私は群衆の中に[stop_host_scope.GetTitledFirstName]を見つけ、そして彼の隣には、これまで見た中で最も美しい[vassal_spouse.GetWomenMen]の一人がいる…"
  cultural_festival.3060.a:1 "「よろしいかな、私の可愛い[my_spouse.GetFirstNameNoTooltip]？」"
