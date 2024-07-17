@@ -6,7 +6,7 @@
  middle_europe_decisions.0002.desc.vassals:0 "帝国内に原初同盟と呼ばれる新組織が台頭してきた。原初同盟は、中央アルプスを中心とした帝国の中枢を担う都市の集まりであり、他の盟約者から身を守るために防衛同盟を結んでいる。\n\nスイスは、独立した勢力として西の旧ブルゴーニュ人や北のドイツ領主からの土地所有権の主張から解放された。\n\n帝国の新しい潜在的な脅威に 気を配るべきだ。"
  middle_europe_decisions.0002.a:0 "なんと奇妙な…"
  middle_europe_decisions.0003.t:0 "オーストリア大公国"
- middle_europe_decisions.0003.desc:1 "私の輝かしい功績により、オーストリアの中心地を強化し、私の王朝が神聖ローマ帝国に与えた多大な影響力により、[scoped_emperor.GetTitledFirstName]はついにドイツの多くの小さな公爵たちよりも、オーストリアの優位性を認めたのである。\n\nこの日から、私のすべての後継者は、王に匹敵する#EMP 大公#!の称号を持つことになり、帝国の劣等な諸侯たちとは一線を画すことになるだろう。"
+ middle_europe_decisions.0003.desc:1 "私の輝かしい功績により、オーストリアの中心地を強化し、私の王朝が神聖ローマ帝国に与えた多大な影響力により、[scoped_emperor.GetTitledFirstName]はついにドイツの多くの小さな公爵たちに対するオーストリアの優位性を認めたのである。\n\nこの日から、私のすべての後継者は、王に匹敵する#EMP 大公#!の称号を帯びることになり、帝国の劣等な諸侯たちとは一線を画すことになるだろう。"
  middle_europe_decisions.0003.a:0 "オーストリアが世界で最後に生き残るだろう！"
  middle_europe_decisions.0004.desc.emperor:0 "私の王朝の本拠地、オーストリア中心部の支配者が帝国の他の諸侯と区別されるのは当然のことだ。\n\nそのため、最近、私の[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('scoped_ruler'))]の嘆願に従い、オーストリアの[scoped_ruler.GetFirstName][scoped_ruler.GetTitleTierName]を宣言した。"
  middle_europe_decisions.0004.desc.vassals:0 "[scoped_ruler.GetDynastyName]王朝の帝位に対する影響力を利用して、[scoped_ruler.GetFirstName]は[scoped_emperor.GetTitledFirstName]に[scoped_ruler.GetHerHim]に特別な栄誉を与えることを納得させた。\n\nこの日以降、オーストリアは、神聖ローマ帝国の諸公国の中で最初の大公国とみなされるようになった。"
