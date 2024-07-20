@@ -292,7 +292,7 @@
  fp3_frontier_story_cycle.0099.c: "[extra_extra_title_to_grant.GetNameNoTierNoTooltip]を与えることはできるが、それが全てだ。"
  fp3_frontier_story_cycle.0099.d: "だめだ。"
  fp3_yearly.8019.t: "光の難民"
- fp3_yearly.8019.desc: "[hateful_ruler.GetTitleTierName]は、[hateful_ruler.GetHerHis]の領国に残っている[manichean_leader.GetFaith.GetAdherentNamePlural]への迫害を開始した。この苦境の宗派の指導者である[manichean_leader.GetName]が、埃まみれの書物の山を携えて私を訪ねてきた。\n\n「偉大なる[ROOT.Char.GetTitleTierName]よ」[manichean_leader.GetSheHe]は言った。「私の信仰は古いもので、キリスト教が若かった頃にはその競争者となりました。我々はこの堕落せし物質界については多くの知識を持っており、更には崇高なる光の世界についてもささやかながら知識を持っております。我々の同胞の中には、既に[refuge_of_light.GetNameNoTier]に定住している者もおります——我が信徒たちも同様にさせてはいただけませんか？」\n\n「そのお返しとして、私はここに留まり、バグダードや陥落前のクテシフォンから得たこの知識の宝庫をあなた方と分かち合いましょう」"
+ fp3_yearly.8019.desc: "[hateful_ruler.GetTitleTierName][hateful_ruler.GetFirstName]が自分の領国に暮らしていた[manichean_leader.GetFaith.GetAdherentNamePlural]への迫害を開始したらしい。この苦境から逃れようと、指導者である[manichean_leader.GetName]が、埃まみれの書物の山と共に私を訪ねてきた。\n\n「偉大なる[ROOT.Char.GetTitleTierName]に拝謁叶い、ありがたく思います」[manichean_leader.GetSheHe]は続ける。\n\n「我らの信仰は古くからあり、キリスト教の黎明期において、相争う関係であった程です。故にこそ、我々はこの堕落せし物質界について多くの知識を──更には崇高なる光の世界についてもささやかながら知識を得るに至りました」\n\n｢本題に入りますが、既に[refuge_of_light.GetNameNoTier]に定住している同胞がいると聞き及びました。私に付き従う信徒たちも同様に住まわせては頂けませんか。\nもし受け入れてくだされば、私はここに留まり、バグダードや今は亡きクテシフォンから得た知識の宝庫を惜しみなく分かち合う所存であります」"
  fp3_yearly.8019.a: "喜んで提案を受け入れよう。"
  fp3_yearly.8019.b: "お前たち皆[refuge_of_light.GetNameNoTierNoTooltip]に住んでよい——適切な税を払えばな。"
  fp3_yearly.8019.c: "我が領地にお前たちを匿うつもりはない。"
