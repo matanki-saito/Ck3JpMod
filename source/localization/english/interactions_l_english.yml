@@ -599,7 +599,7 @@
  GRANT_VASSAL_PROPOSAL:1 "朗報だ！私は[secondary_actor.GetFullName]をあなたの封臣とすることを決めた。"
  RETRACT_VASSAL_PROPOSAL:1 "私は、[secondary_actor.GetPrimaryTitle.GetNameNoTierNoTooltip]のより大きな利益のため、[recipient.GetFullName]を私の直属の家臣として配置するべきだという結論に至った。"
  REVOKE_TITLE_PROPOSAL:0 "[landed_title.GetName]の威厳と責任をあなたに託すことはできないとの結論に至った。したがって、早急にこの称号を放棄することを要求する。"
- RELIGIOUS_HEAD_SEEK_INDULGENCES:1 "私は良き[actor.GetFaith.GetAdherentName]になろうと努力していますが、それでも時につまづくことがあります。それで、私の誤りを償うため、この金貨を教会に寄付したいと願っております。"
+ RELIGIOUS_HEAD_SEEK_INDULGENCES:1 "私は良き[actor.GetFaith.GetAdherentName]になろうと努力していますが、それでも時につまづくことがあります。故にこそ我が誤りを償うため、この金貨を教会に寄付したいと願っております。"
  RELIGIOUS_HEAD_DECLARATION_OF_REPENTANCE:0 "自分のやり方が間違っていたことが分かり、自らの悪行を悔い改めております。どうか私の破門を解いていただき、信仰の兄弟姉妹の元に戻ることができるよう、あなたに懇願いたします。"
  RELIGIOUS_HEAD_REQUEST_EXCOMMUNICATION:0 "[secondary_recipient.GetShortUIName|U]の最近の悪行は一線を越えるものです。私たちが[secondary_recipient.GetHerHis]の行為を非難していることを世界に知らしめるために、[secondary_recipient.GetHerHim]を破門してくださるよう請願いたします。"
  RELIGIOUS_HEAD_ASK_GOLD:1 "忠実な[actor.GetFaith.GetAdherentName]として、私は自身の資金不足のために良き行為が妨げられていることを感じております。神の意志を実行するため、私に少しばかり与えてはいただけないでしょうか？"
