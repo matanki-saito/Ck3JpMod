@@ -656,7 +656,7 @@
  char_interaction.0131.desc:0 "あなたの申し出は全く不合理だと言わざるを得ない。名誉ある行動を取り、[secondary_recipient.GetShortUIName]を手放すように。"
  char_interaction.0131.desc_personal:0 "理不尽な身代金の申し出に応じるくらいなら、貴様の地下牢で朽ち果てる方がましだ。"
  char_interaction.0131.a:0 "[recipient.GetHerHis]の食事を減らす時だな…"
- char_interaction.0140.desc:0 "私はあなたの身代金の申し出を受け入れた。[secondary_recipient.GetShortUIName|U]を直ちにあなたの元へ帰そう！"
+ char_interaction.0140.desc:0 "汝の身代金の申し出を受け入れた。[secondary_recipient.GetShortUIName|U]を直ちにお前の元に帰してやる！"
  char_interaction.0141.desc:0 "あなたの身代金の提案はまったく面白みがない。さしあたり[secondary_recipient.GetShortUIName]はまだ手放せないな。"
  char_interaction.0141.a:0 "[actor.Custom('InsultAdjective')][actor.Custom('InsultNoun')]を呪ってやる！"
  char_interaction.0150.desc:0 "よかろう、釈放しよう、私が君を好きになったのは認めざるを得ないが。"
