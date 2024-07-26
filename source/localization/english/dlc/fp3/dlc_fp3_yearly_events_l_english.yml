@@ -614,7 +614,7 @@
  fp3_story_cycle_zanj_rebellion_events.0004.a.failure: "[zanj_leader.GetHerHis]の言葉を否定できなかった"
  fp3_story_cycle_zanj_rebellion_events.0004.b: "こんなバカに付き合うとバカを見る。"
  fp3_story_cycle_zanj_rebellion_events.0006.t: "ザンジュ出陣"
- fp3_story_cycle_zanj_rebellion_events.0006.desc.a: "ザンジュの労働者を纏めあげる[zanj_representative.GetName]は「より良い労働環境」とやらを求めている。彼らザンジュは塩気の強い湿地帯をバスラを干拓するというやり甲斐のある仕事を任せられていた。そして、その事業は数世代にわたって続けられており、この奴隷たちの人口はもはや立派な少数派と言えるほどの規模になっていたのだ。\n\n"
+ fp3_story_cycle_zanj_rebellion_events.0006.desc.a: "ザンジュの労働者を纏めあげる[zanj_representative.GetName]は「より良い労働環境」とやらを求めている。\n\n彼らザンジュは塩気の強い湿地帯をバスラを干拓するという「やり甲斐のある」仕事を任せられていた。そして、その事業は数世代にわたって続けられており、この奴隷たちの人口はもはや立派な少数派と言えるほどの規模になっていたのだ。\n\n"
  fp3_story_cycle_zanj_rebellion_events.0006.desc.b: "出しゃばりの[zanj_leader.GetName]と[zanj_leader.GetHerHis]の反抗的な訴えは奴らの中で不満が高まっていることの現れなのやもしれん。\n\n"
  fp3_story_cycle_zanj_rebellion_events.0006.desc.c: "「皆が[ROOT.Char.GetTitleAsName]、聞いてください。[ROOT.Char.GetFaith.HighGodName]の前で皆は平等なのではないですか。私たちはどうして無価値かのように虐げられるのですか」"
  fp3_story_cycle_zanj_rebellion_events.0006.a: "そなたの過酷な働きは褒美に値する。"
