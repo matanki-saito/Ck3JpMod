@@ -245,7 +245,7 @@
  ep2_wedding.1030.desc_outro:0 "\n\n私と同じように成り行きを見ていた[1030_chatter.GetTitledFirstName]が、私の目をとらえて解説する。"
  ep2_wedding.1030.desc_good:0 "「あれは…驚きましたな？」"
  ep2_wedding.1030.desc_bad:0 "「あれは…本当に良くないですな？」"
- ep2_wedding.1030.a:0 "何と縁起の良いサインだ！"
+ ep2_wedding.1030.a:0 "縁起がいいな！"
  wedding_omen_good_log_title:0 "吉兆"
  wedding_omen_good_log:0 "[CHARACTER.GetUIName|U]は[TARGET_CHARACTER.GetUIName]に関する吉兆を見た"
  ep2_wedding.1030.b:0 "#EMP 何も#!意味はない。"
