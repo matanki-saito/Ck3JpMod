@@ -44,7 +44,7 @@
  fp3_yearly.2021.desc_arbitrary: "「[sinful_tax_collector.GetTitledFirstNameNoTooltip]の法律や規則を軽視する傾向はあまりにも酷い！奴は[sinful_tax_collector.GetHerHis]の気まぐれに基づいて税金を徴収するのです。我らが民は[sinful_tax_collector.GetHerHis]の適当な徴税に頭を抱えておるのですぞ！」"
  fp3_yearly.2021.desc_cynical: "「[sinful_tax_collector.GetTitledFirstNameNoTooltip]は[ROOT.Char.GetFaith.HighGodName]を恐れておらず、朝の祈りの途中しょっちゅう居眠りをし、ラマダン中につまみ食いをしているのです。私たち全員、[sinful_tax_collector.GetHerHis]の不道徳の為に[ROOT.Char.GetFaith.HighGodNamePossessive]の正義を恐れる羽目になっているのですよ！」"
  fp3_yearly.2021.desc_contrite: "「[sinful_tax_collector.GetTitledFirstNameNoTooltip]は機密保持の重要性が頭からスッパリ抜けているようですな。領国で知ったどんな事でもペラペラと喋ってしまう悪癖があるのです。こんなものを放っておいたらいつか敵に情報が渡ってしまいますぞ」"
- fp3_yearly.2021.desc_outro: "\n\n[denouncing_taxpayer.GetTitledFirstNameNoTooltip]の[denouncing_taxpayer.Custom('quirk_pos_present')]の[sinful_tax_collector.GetTitledFirstNameNoTooltip]を解雇して欲しいという気持ちが明瞭に伝わってくる。"
+ fp3_yearly.2021.desc_outro: "\n\n[denouncing_taxpayer.GetTitledFirstNameNoTooltip]の[denouncing_taxpayer.Custom('quirk_pos_present')]姿からは[sinful_tax_collector.GetTitledFirstNameNoTooltip]を解雇して欲しいという気持ちがありありと伝わってくる。"
  fp3_yearly.2021.a: "[sinful_tax_collector.GetTitledFirstNameNoTooltip|U]は解雇されるだろう、神が望まれるならば。"
  fp3_yearly.2021.b: "聞くだけ聞いておく。"
  fp3_yearly.2030.t: "美しい統治とは"
