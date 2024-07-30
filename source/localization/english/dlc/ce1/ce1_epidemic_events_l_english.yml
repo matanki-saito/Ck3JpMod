@@ -182,7 +182,7 @@
  epidemic_events.1100.desc.intro2.cool_place: "この古き都で。\n\n"
  epidemic_events.1100.desc.intro2.backwater: "この閑散とした集落で。\n\n"
  epidemic_events.1100.desc.mid.typhus: "感染者は、触ると熱っぽい発疹で頭からつま先まで覆われている。\n\n"
- epidemic_events.1100.desc.mid.bubonic_plague: "黒い膿性のブツブツが感染者の皮膚を覆っている。それへ破裂したときに瘴気を放出する汚い液体で満たされていた。\n\n"
+ epidemic_events.1100.desc.mid.bubonic_plague: "黒い膿性のブツブツが感染者の皮膚を覆っている。それは破裂したときに瘴気を放出する汚い液体で満たされていた。\n\n"
  epidemic_events.1100.desc.mid.smallpox: "感染者の皮膚は真っ赤で、しこりや隆起で覆われている。無数の新鮮な傷跡が無限のかゆみから肌を覆い、その絶望に墜ちた目も充血して赤みがかっていた。\n\n"
  epidemic_events.1100.desc.mid.measles: "病気の人のゴツゴツした皮膚は真っ赤で、触ると酷く痛むらしい。寒さの中でも汗をかき、彼らはハンセン病でないかと怯えている。\n\n"
  epidemic_events.1100.desc.mid.dysentery: "患者の目は虚ろで、魂をそこらに捨ててきたようにさえ見える。服の尻の部分を真っ赤に染めた彼らは落ちるのを止めるかのように必死に胃をつかんでいる。\n\n"
