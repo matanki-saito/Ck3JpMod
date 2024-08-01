@@ -351,7 +351,7 @@
  ep2_tournament_events.2506.desc:2 "掴みを躱す、だが反撃を取れない。\n\nこっちに飛んでくる一撃ぐらい強烈なお返しをしてやりたいが、私を組み伏せようとする[versus_contestant.GetFirstNamePossessive]の激しいラッシュに対して持ちこたえるのが精一杯だ。一撃を避け、また別の一撃に対応し、横に走るが、その後[versus_contestant.GetSheHe]はついに私を捉えた。\n\nヘッドロックする[versus_contestant.GetHerHis]の手は獣を苦しみから解放する為のとどめか、或いは恐ろしい蛇のように私の首を締め上げる。息が出来ない。眼窩に納まった目が今にも破裂したいという風に血走っているのがわかる。鬱血し始めた私の頬はパンパンに腫れ始め、私の首は脆い枝のように軋む。\n\n#X ゴキッ#!\n\n世界はモノクロに変わる。体が痙攣する。\n\nもう空を見上げて横たわることしか、出来なかった。"
  ep2_tournament_events.2506.a:0 "#DIE2 …ガッ！#!"
  ep2_tournament_events.2507.t:0 "困惑の一撃"
- ep2_tournament_events.2507.desc:1 "五感を本当の意味で活かすのに、レスリングほど素晴らしいものはない。音も視覚も嗅覚も、すべてがより研ぎ澄まされ、より明るく、より明瞭なものになる。[ROOT.Char.GetWomanMan]が超人的であると感じるのに十分なのだ！ そして、感覚を奪うことは恐らくその逆の効果をもたらすのだろう…\n\n私は小馬鹿にしたような動きで、[versus_contestant.GetFirstName]が掴みかかってるのを避けながら左に回り込んだ。[versus_contestant.GetSheHe]が怯むや、その頭の両側に、強力な両手持ち棍棒の一撃を放つ。\n\n[versus_contestant.GetFirstNameNoTooltip]は苦悶の声を上げ、その耳からは血が滴り落ちる。この戦いにさっさとケリがつきそうなのは明らかだが、私が乱暴に格闘に持ち込もうとしたことは、[versus_contestant.GetFirstNameNoTooltip]が復讐するか、あるいはそれを試みて逆に倒されるかを示唆していた。"
+ ep2_tournament_events.2507.desc:1 "五感を本当の意味で活かすのに、レスリングほど素晴らしいものはない。音も視覚も嗅覚も、すべてがより研ぎ澄まされ、より明るく、より明瞭なものになる。調子が良くなるとまるで自分が最強の[ROOT.Char.GetWomanMan]になったかのように思いさえする。そして、感覚を奪われた者は恐らくその逆の効果をもたらすのだろう…\n\n私は小馬鹿にしたような動きで、[versus_contestant.GetFirstName]が掴みかかってるのを避けながら左に回り込んだ。[versus_contestant.GetSheHe]が怯むや、その頭の両側に、強力な両手持ち棍棒のごとき一撃を放つ。\n\n[versus_contestant.GetFirstNameNoTooltip]は苦悶の声を上げ、その耳からは血が滴り落ちる。この戦いにさっさとケリがつきそうなのは明らかだが、私が乱暴に格闘に持ち込もうとしたことは、[versus_contestant.GetFirstNameNoTooltip]が復讐するか、あるいはそれを試みて逆に倒されるかを示唆していた。"
  ep2_tournament_events.2507.a:0 "…もう一度だ。"
  ep2_tournament_events.2507.b:0 "さっさとやろう。"
  ep2_tournament_events.2507.b.tt:0 "勝利は確定的だが、さっさと終わらせるのが慈悲深さというものだ。"

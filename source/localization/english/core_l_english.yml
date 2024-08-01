@@ -90,7 +90,7 @@
  DEAD_SINCE:0 "[DATE.GetStringShort|V]没"
  DIED_AT_AGE:1 "享年$AGE|V$"
  DIED_AT_AGE_SINGULAR:1 "享年$AGE|V$"
- DIED_AS_INFANT:1 "ー 幼児のうちに"
+ DIED_AS_INFANT:1 "0"
  CHARACTER_DEAD_TOOLTIP:2 "$CHARACTER_DEAD_TOOLTIP_DATE_INFO$で[Character.GetDeathReason|U]([Character.GetBirthDate.GetString|V]生)"
  CHARACTER_INCAPABLE_TOOLTIP:0 "#T 無能力者#!\n[Character.GetUINameNotMe]は[GetTrait('incapable').GetName( Character.Self )]であり、独立して行動することはできません"
  CHARACTER_INTERACTION_REPLY:0 "[CHARACTER.GetUIName]は$INTERACTION|D$に関する回答を待っています。"

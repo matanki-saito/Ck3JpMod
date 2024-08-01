@@ -337,7 +337,7 @@
  murder_outcome.2008.desc:0 "\n\n私の刺客が毒を[target.GetHerHis]のゴブレットに入れ、跡形もなく溶けていくのを見た。[target.GetHerHis]の喉が腫れ上がって初めて、[target.GetSheHe]は何かがおかしいと気づいたが、その時にはもう遅すぎた。\n\n"
  murder_outcome.2008.scheme_owner_known:0 "不幸にも私の刺客は目撃され、賄賂を受け取った使用人は私の関与を明らかにすることを躊躇しなかった！"
  murder_outcome.2008.scheme_unknown:0 "幸いなことに、毒の効果で何かが進行していることがわかる前に、私の刺客はうまく抜け出した！"
- murder_outcome.2008.a.discovered:0 "…[target.GetSheHe|U]は喉が渇いていたのか？"
+ murder_outcome.2008.a.discovered:0 "…[target.GetSheHe|U]の喉を潤してやっただけだが？"
  murder_outcome.2008.a:0 "乾杯、[target.GetTitledFirstNameNoTooltip]！"
  murder_outcome.4008.desc:0 "[target.GetTitledFirstName]は毒を生き延びた！\n\n不幸にも[target.GetTitledFirstNamePossessive]の召使いの一人が[target.GetLadyLord]に出す前に一口飲んでしまい、その死んだ召使いが邪魔者になったようだ。\n\n"
  murder_outcome.4008.scheme_owner_known:0 "さらに良くないことに、他の使用人の一人が、この企ての背後に私がいることを指摘するのをためらう様子がないのだ！"

@@ -303,7 +303,7 @@
  legend_chapter_hunt_generic: "[Localize( beast )]はすでにそこにおり、小川から水を飲んでいた。獣は頭を上げると、素早く[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]に突進した。空腹だったのだ。だが速度という点で言えば[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]が上を行き、巧撃で獣を屠り去った。"
  legend_chapter_battle_generic: "戦いは苛烈なものであった。[ROOT.Legend.GetProtagonist.GetNameNoTooltip]の目は勇気に溢れ、戦場の中央で[loser.GetNameNoTooltip]と相対した。[ROOT.Legend.GetProtagonist.GetSheHe|U]は武器を振り上げ、敵の胸に一撃を与えた。鮮血が迸る。勝者が決まったのだ。"
  legend_chapter_conclusion_generic: "帰郷の旅は決して容易いものではなかったが、[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]は凱旋の歌に包まれて都市に帰還した。そして我々は皆歓喜し、[ROOT.Legend.GetProtagonist.GetHerHis]の伝説を祝って宴を催したのだ！"
- legend_chapter_famous_deed_generic: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip|U]の伝説は、驚くべき冒険によって最高潮に達した。[ROOT.Legend.GetProtagonist.GetHerHis]の大いなる武勇伝はあらゆる王が驚嘆するほどのものであり、多くの貴族や平民が伝説をその目で見ようと[ROOT.Legend.GetProtagonist.GetHerHis]の下を訪れた。"
+ legend_chapter_famous_deed_generic: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip|U]の伝説は驚くべき冒険であると伝わっている。[ROOT.Legend.GetProtagonist.GetHerHis]の大いなる武勇伝はあらゆる王が驚嘆するほどのものであり、多くの貴族や平民が伝説をその目で見ようと[ROOT.Legend.GetProtagonist.GetHerHis]の下を訪れたと言うのだ。"
  legend_chapter_extra_deed_generic: "だが、物語はこれで終わりではない。[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]は故郷へ帰る道すがら危機に陥った人々を救い、彼らが受けた侮辱を雪いだ。山賊も野獣も悪党も、[ROOT.Legend.GetProtagonist.GetHerHis]の刃がもたらす怒りから逃れることはできなかった。"
  legend_chapter_opening_debug: "#D 序章#!"
  legend_chapter_motivation_debug: "#D 動機の章#!"
