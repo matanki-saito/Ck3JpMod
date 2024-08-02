@@ -452,7 +452,7 @@
  child_personality.9900.a:0 "私は[ancestor.GetHerHim]を誇りに思う！"
  child_personality.9901.t:0 "生まれ変わり"
  child_personality.9901.start.desc:1 "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[child.GetHerHis]の[child.Custom2('RelationToMe', ancestor)]である[ancestor.GetTitledFirstName]に生き写しだ！しかし、その類似性は外面だけではなく——もっと深いところにまで及んでいる。\n\n[child.GetFirstNameNoTooltip]は"
- child_personality.9901.dull.desc:0 "なんというか、ちょっと遅いが、"
+ child_personality.9901.dull.desc:0 "なんというか、ちょっととぼけたところが、"
  child_personality.9901.end.desc:0 "まさに[child.GetHerHim]の前の[child.Custom2('RelationToMe', ancestor)]のようだ。もしかしたら本当に[ancestor.GetTitledFirstNameNoTooltip]がこの地上を歩くために戻って来たのでは？"
  child_personality.9901.a:0 "宇宙は神聖な神秘に満ち溢れている。"
  child_personality.9900.start.sinful.desc:0 "人々は、私が私の[ROOT.Char.Custom2('RelationToMe', ancestor)]である[ancestor.GetTitledFirstName]に生き写しだと言い続けている。私は[ancestor.GetHerHim]に会ったことはないが、しかし、どうやら[ancestor.GetSheHe]は邪悪な[ancestor.GetWomanMan]だったようだ。\n\n"
