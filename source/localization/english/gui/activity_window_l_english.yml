@@ -44,7 +44,7 @@
  ACTIVITY_GUEST_LIST_TRAVEL_TIME_INFO:1 "旅:  ~[ActivityGuestListWindow.GetTravelTimeEstimation( CharacterListItem.Self )]日"
  ACTIVITY_GUEST_WILL_ACCEPT:1 "#T @check_icon!招待を受け入れるでしょう#!\n#indent_newline:3 合計: [ActivityGuestListWindow.GetJoinChance( CharacterListItem.Self )|+=0]\n[ActivityGuestListWindow.GetJoinChanceBreakdown( CharacterListItem.Self )]#!"
  ACTIVITY_GUEST_WILL_DECLINE:1 "#T @cross_icon!招待を拒否するでしょう#!\n#indent_newline:3 合計: [ActivityGuestListWindow.GetJoinChance( CharacterListItem.Self )|+=0](合計が正の場合のみ受け入れるでしょう)\n[ActivityGuestListWindow.GetJoinChanceBreakdown( CharacterListItem.Self )]#!"
- ACTIVITY_GUEST_MAY_NOT_ARRIVE:0 "@warning_icon! #X 間に合#bold わなさそう#! だ！#!"
+ ACTIVITY_GUEST_MAY_NOT_ARRIVE:0 "@warning_icon! #X 間に合わない可能性がある#!"
  ACTIVITY_SPECIAL_GUEST_ACCEPTANCE:0 "選択された場合、[Character.GetSheHe]はあなたの招待を受け入れる可能性が高くなります"
  ACTIVITY_GUEST_LIST_SELECT_HONORARY_GUEST:0 "#T [ActivityGuestListWindow.GetSelectingSpecialGuest.GetType.GetNameIfHost( ActivityGuestListWindow.GetHost )]に選ぶ#!\n[ActivityGuestListWindow.GetSelectingSpecialGuest.GetType.GetNameIfHost( ActivityGuestListWindow.GetHost )]として[Character.GetShortUINameNoTooltip]が[ActivityType.GetLocalizedTextWithFallback( 'special_guest_acceptance', 'ACTIVITY_SPECIAL_GUEST_ACCEPTANCE' )]"
  ACTIVITY_SPECIAL_OPTION_SELECTED:0 "#P 選択済み#!"
