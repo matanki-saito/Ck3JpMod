@@ -18,7 +18,7 @@
  guest_of_honor_impressed_title:0 "$activity_pulse_action_guest_of_honor_impressed$"
  activity_pulse_action_guest_of_honor_impressed:1 "名誉の客人である[first.GetShortUINameNoTooltip]は[root_scope.Custom('GetExpensiveMealAlt')|U]を楽しんだ"
  guest_of_honor_praised_title:0 "$activity_pulse_action_guest_of_honor_praised$"
- activity_pulse_action_guest_of_honor_praised:0 "名誉の客人である[first.GetShortUINameNoTooltip]は[first.Custom('FormalComplimentAdjective')|U]を称賛した"
+ activity_pulse_action_guest_of_honor_praised:0 "名誉の客人である[first.GetShortUINameNoTooltip]は[first.Custom('FormalComplimentAdjective')|U]姿を讃えられた"
  guest_impressed_by_court_artifact_title:0 "$activity_pulse_action_guest_impressed_by_court_artifact$"
  activity_pulse_action_guest_impressed_by_court_artifact:1 "[first.GetShortUINameNoTooltip]は[second.GetShortUINamePossessiveNoTooltip]の[court_artifacts|E]に感銘を受けた"
  guest_chokes_on_bone_title:0 "$activity_pulse_action_guest_chokes_on_bone$"

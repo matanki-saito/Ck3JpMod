@@ -68,7 +68,7 @@
  travel_start_event.1040.desc_feast_outro_sick:0 "\n\n私の健康は悪化しているが、このイベントに参加することで気を紛らわせ、いくらかストレスを解消するのには良いかもしれないと考えている。"
  travel_start_event.1040.desc_feast_outro_negative:0 "\n\n[host.GetTitledFirstNameNoTooltip]は油断のならない生き物なので、私はこの訪問の間、自分の背中と食事の両方を守る必要がある。"
  travel_start_event.1040.desc_feast_outro_positive:1 "\n\n私はこの[ROOT.Char.GetInvolvedActivity.GetShortNameNoTooltip]の間に、[host.GetTitledFirstNameNoTooltip]とより多くの時間を過ごすことができることを楽しみにしている。"
- travel_start_event.1040.desc_feast_outro_default:0 "\n\n[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetNameNoTooltip]の地方の[host.Custom('RegionalDrink')]を試したり、地元の料理を楽しむのが待ち遠しい。"
+ travel_start_event.1040.desc_feast_outro_default:0 "\n\n[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetNameNoTooltip]特産の[host.Custom('RegionalDrink')]を試したり、地元の料理を楽しむのが待ち遠しい。"
  travel_start_event.1040.desc_sick_murder_feast:0 "私の[ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][ROOT.Char.GetInvolvedActivity.GetShortName]の客人たちを清算する時がやって来た。\n\nこれから我々は[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]に向けて出発し、そこでは私自身の特別なごちそうを食べさせてやる——私自身がこの世を去る前に急がなければ。"
  travel_start_event.1040.desc_murder_feast:0 "[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]で私が主催する[ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetPhase.GetName][ROOT.Char.GetInvolvedActivity.GetShortName]の時には、私の特別な祭りを客人たちに紹介するつもりだ。\n\nすべてが細心の注意を払って準備されており、きっと彼らは歓迎してくれることだろう。忘れられない饗宴になることだろうな…生き残った者にとっては。"
  travel_start_event.1040.desc_my_feast:0 "$travel_start_event.1000.intro_activity$"

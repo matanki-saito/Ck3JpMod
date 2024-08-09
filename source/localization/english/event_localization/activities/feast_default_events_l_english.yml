@@ -75,7 +75,7 @@
  feast_default.1014.b:0 "こんな時間にこんな場所にいたことについて説明してもらおう！"
  feast_default.2001.t:1 "恥ずかしい焦り"
  feast_default.2001.desc:0 "[host.GetTitledFirstName]が料理の提供が少し遅れると発表したので、[glutton.GetTitledFirstName]は欲求不満ではちきれそうだ!\n\n[glutton.GetTitledFirstName]が腹を鳴らして不平不満を言っているのしか聞こえない。"
- feast_default.2001.a:0 "[glutton.GetSheHe|U]は自らを貶めている。"
+ feast_default.2001.a:0 "[glutton.GetSheHe|U]は「待て」も出来ないのか。"
  feast_default.2001.b:0 "[glutton.GetFirstNameNoTooltip]の言うことは一理ある！我々の食事はどこだ?"
  feast_default.2002.t:1 "賞賛者"
  feast_default.2002.desc:0 "見慣れない誰かが宴会のさなかに、私になにやら書付けを手渡してきた。\n\n「[letterAuthor.Custom2('love_letter', SCOPE.sC('letterRecipient'))]」\n\n誰がこのような優しい手紙をくれたのだろうか？[crush_1.GetTitledFirstName]がどこか遠慮がちにしているように見えた。むしろ、[crush_2.GetTitledFirstName]は私に会ったときにどういう意味で笑いかけたのか。と思っていたら、[crush_3.GetTitledFirstName]がしきりに私の横に座りたがっているようだ…"
