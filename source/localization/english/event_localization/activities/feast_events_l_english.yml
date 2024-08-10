@@ -24,7 +24,7 @@
  feast.2001.a.tt:0 "饗宴が始まる"
  feast.2001.b:1 "[honorary_guest.GetFirstNameNoTooltip]と[honorary_guest.GetHerHis]の従者たち。私は彼ら全員を消し去りたい。"
  feast.2001.c:1 "私がその死を望むのは[honorary_guest.GetFirstNameNoTooltip]だけだ。"
- feast.2001.d:2 "[honorary_guest.GetFirstNameNoTooltip]は死ぬ必要があるが、#EMP 誰も#!私を疑うことはできない。"
+ feast.2001.d:2 "[honorary_guest.GetFirstNameNoTooltip]は殺す、だが#EMP 誰にも#!私を疑わせはしない。"
  feast.2001.c.people_to_spare:0 "私の大切な人々は警告を受けるだろう"
  feast.2002.t:0 "$feast_header$ 放棄された義務"
  feast.2002.desc:1 "なんという災難だ！\n\n私の準備が終わった後、私の客人は主催者のいない宴会に来てしまった！彼らは私にひどい印象を抱いたまま、家に帰っていった。"

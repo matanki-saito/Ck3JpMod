@@ -14,7 +14,7 @@
  bp2_yearly.8051.desc: "[hostage.GetFirstNamePossessive]の寝室へ様子を見に行ったが、[hostage.GetHerHim]の姿は見えなかった。しかし、部屋の文机には書きかけの手紙の山が積み上がっていた。宛先は……[hostage.GetHomeCourt.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]。[hostage.GetHerHis]の故郷だ。\n\n……内容はこの宮廷の仔細だった。隠れられる場所や給仕、さらには私を裏切りそうな不穏分子の名前などがみっちりと纏められている。振り返ると戸口に[hostage.GetFirstNameNoTooltip]が狩られる直前の獲物のように呆然と立ち尽くしていた。"
  bp2_yearly.8051.a: "「おお稚児よ、案ずるな」"
  bp2_yearly.8051.b: "「これから一切の文通を禁ずる。特に、故郷との文通は…」"
- bp2_yearly.8051.c: "「この部屋から出てくるな、二度と！」"
+ bp2_yearly.8051.c: "「独房から出てくるな、二度と！」"
  invalidates_hostage_tt: "[hostage.GetFirstName|U]はあなたの人質ではなくなりました"
  bp2_yearly.8052.t: "いじめ"
  bp2_yearly.8052.desc: "中庭は宮廷の子供達が遊び回る声で溢れている。騒々しいにも関わらず、妙にコソコソしている印象が気になってはいた。だが、[hostage.GetFirstName]の叫び声を聞いては私も慌ててそこへ向かう他なかった。\n\n「止めて！止めさせて！[ROOT.Char.GetFirstNameNoTooltip]と[mean_child.GetFirstName]が殴ってくるんだ！」"
