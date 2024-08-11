@@ -1836,7 +1836,7 @@
  game_concept_spectating:0 "観戦している"
  game_concept_spectate:0 "観戦"
  game_concept_spectator_desc:0 "[contest|E]に参加することが許可されていない人物は、代わりに[spectate|E]をすることになります。\n\n[contestants|E]の権利がある者が参加を辞退することも可能です。"
- game_concept_progress_to_victory:0 "勝者予想値"
+ game_concept_progress_to_victory:0 "勝利予想値"
  game_concept_progress_to_victory_desc:1 "あなたの[skills|E]、[health|E]、および[traits|E]に基づく、他の競技者と比較した特定の[contest|E]で勝つ可能性の抽象的な数値です。たとえば、高い[prowess|E]を持つ[GetTrait('giant').GetName( GetNullCharacter )]は、レスリングなどの陸上競技で優位に立ちます。\n\n[contest|E]に[contest_qualification|E]するためには、最低限の$game_concept_progress_to_victory$が必要です。[locales|E]を訪れて、自分の勝利の可能性を高める機会を探し、他の競技者を妨害することもできます。\n\n競技会の#V リーダーボード#!では、すべての競技者の現在の$game_concept_progress_to_victory$が表示されます。"
  game_concept_progress_to_victory_locale_tt:0 "[locales|E]を訪れることで、自分の勝利の可能性を高めるチャンスや、相手を妨害する機会が得られます。"
  game_concept_contest_aptitude:0 "大会の適性"

@@ -112,7 +112,7 @@
  locale_window_button_my_knights_tooltip:1 "#T 出席する$knight_culture_player_plural$を表示して管理する#!"
  locale_window_button_my_knights_force_spectate_tooltip:0 "[Character.GetShortUINameNoTooltip]が今後の大会に参加することを禁ずる"
  locale_window_button_my_knights_allow_participate_tooltip:0 "[Character.GetShortUINameNoTooltip]が今後の大会に参加することを認める"
- locale_window_widget_leaderboard:1 "優位出場者一覧"
+ locale_window_widget_leaderboard:1 "注目の出場者たち"
  locale_window_widget_leaderboard_qualification:0 "[contest_qualification|E] しきい値:  [Activity.MakeScope.Var( 'progress_to_victory_threshold' ).GetValue|0]"
  locale_window_widget_leaderboard_most_favoured:0 "最高にお気に入り"
  locale_window_widget_leaderboard_remaining_contestants:0 "[Subtract_int32( GetDataModelSize( ActivityLocaleWindow.GetCurrentPhaseGuestSubset( 'contestant' ) ), '(int32)8' )]人の他の[contestants|e]"
