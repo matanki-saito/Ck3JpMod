@@ -13,7 +13,7 @@
  ACHIEVEMENT_DESC_miklagardariki_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、$k_thessalonika$[kingdom|E]を[completely_control|E]し、$e_byzantium$を保有することなく任意の[empire|E]を保有する。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_canute_the_greater_achievement:0 "未改革の[tribal|E]として、$secure_high_kingdom_north_sea_decision$の[decision|E]を行う"
  ACHIEVEMENT_DESC_king_of_all_the_isles_achievement:0 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、 [realm_size|E]を80以上に#EMP することなく#!全[GetGeographicalRegion('dlc_fp1_achievement_king_of_all_the_isles').GetName][region|E]を[completely_control|E]する"
- ACHIEVEMENT_DESC_faster_than_the_fox_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開してそれを維持し、1047年より前に$k_sicily$の[kingdom|E]を[completely_control|E]する。$rd_character_blocked_from_achievement$"
+ ACHIEVEMENT_DESC_faster_than_the_fox_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、1047年より前に$k_sicily$の[kingdom|E]を[completely_control|E]する。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_volva_achievement:0 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、$found_witch_coven_decision$[decision|E]を実行する"
  ACHIEVEMENT_DESC_saga_in_stone_achievement:0 "あなたの[dynasty|E]が100のルーン石碑を建立する"
  ACHIEVEMENT_DESC_first_of_the_crusader_kings_achievement:0 "任意の$north_germanic_group$人で開始し、最初のカトリック十字軍に攻撃者として直ちに加わる"

@@ -6,7 +6,7 @@
  unity_impassive_tax_modifier: "行政の改善"
  unity_impassive_tax_modifier_desc: "この家のメンバーは、管理の効率化を享受している。"
  unity_friendly_bailiff_modifier: "強制執行吏員"
- unity_friendly_bailiff_modifier_desc: "この家のメンバーは、領地全体の腐敗を減らすために家臣と協力している。"
+ unity_friendly_bailiff_modifier_desc: "この家のメンバーは、領地全体の腐敗を減らすために主君と協力している。"
  unity_harmonious_placation_modifier: "宥める"
  unity_harmonious_placation_modifier_desc: "この家のメンバーは主君が調和を保って統治する権利を再確認した。"
  unity_house_organized_for_war_modifier: "戦争のための組織化"
