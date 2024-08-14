@@ -476,7 +476,7 @@
  travel_to_distant_land_tt: "[distant_location.GetName]への[travel|E]を始めます"
  legend_spread_events.8120.t: "不思議なる[distant_title.GetBaseNameNoTooltip|U]"
  legend_spread_events.8120.desc: "今、私は何やら興奮している[chronicler.Custom2('MyCharacterIntroduction', ROOT.Char)]から説明を受けている。\n\n[chronicler.GetSheHe|U]曰く、単に「[distant_title.GetBaseNameNoTooltip|U]」とだけ呼ばれているその地は奇跡に満ちているのだと言う。[chronicler.GetSheHe]は私の目の前にあるその素晴らしい土地への地図を広げた。川に牛乳と蜂蜜が流れ、農民でさえ豊かな土地のおかげで丸々肥えているのだという。そんな所に行くことはいつもなら考えもしないが、私の英雄的な旅物語は確かに[legend.GetName]に影響を与えるかもしれないという気にもなっている。"
- legend_spread_events.8120.a: "行くっきゃない！"
+ legend_spread_events.8120.a: "行かねばならん！"
  legend_spread_events.8120.b: "[distant_title.GetBaseNameNoTooltip|U]？そんな場所は無い。"
  legend_spread_events.8121.t: "遠路はるばる：放棄"
  legend_spread_events.8121.desc: "[distant_title.GetBaseNameNoTooltip|U]の不思議な地図が失われ、私は一生その土地に旅することはないのではないかと心配している。"

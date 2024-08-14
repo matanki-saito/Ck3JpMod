@@ -7,7 +7,7 @@
  travel_start_event.1000.desc_sick:0 "私のこのような体調、病気の下で旅に出るということが、旅に付随する通常の危険に加え、さらなるリスクであると考えられることを私は十分に承知している。だが、たとえ私の状態が良くないとしても、見せ物は続けなければならない。\n\n[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]に向けて出発しよう、[ROOT.Char.GetFaith.HighGodName]が我々の旅を見守ってくださいますように。"
  travel_start_event.1000.desc:0 "すべての荷物をきちんと詰め込んで、我々はようやく [ROOT.Char.GetCurrentLocation.GetName]から次の目的地である[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]への旅を開始できるところまで来た。\n\n我々はこの地を離れ、馬たちは新たな道を歩み始めるが、きっとまたすぐに、そして無事に戻ってくると私は確信している。"
  travel_start_event.1010.tt.tournament.every_knight:2 "あなたは[GetActivityType( 'activity_tournament' ).GetName]に参加しているため、利用可能なすべての[unlanded|E][knight|E]が競技に同行します"
- travel_start_event.1000.a:0 "気張っていこう！"
+ travel_start_event.1000.a:0 "待ちきれない！"
  travel_start_event.1000.a_cynical:0 "これは重要なはずだ…"
  travel_start_event.1000.a_craven:0 "うまくいくと良いのだが…"
  travel_start_event.1000.a_hajj:0 "私はこれをずっと待ち望んでいた。"
