@@ -139,7 +139,7 @@
  health.2101.t:1 "[SCOPE.Custom('EventTitleDisease')]: 獅子身中に虫あり"
  health.2101.smallpox_outbreak.desc:0 "死の呪いが我が宮廷に降りかかった——天然痘の者が見つかった！"
  health.2101.smallpox_spreads.desc:0 "また別の命が天然痘の呪いを受けた。"
- health.2101.bubonic_plague_outbreak.desc:2 "[ROOT.Char.GetFaith.DeathDeityName|U]は[ROOT.Char.GetFaith.DeathDeityHerHis]の大鎌を我が領国に振り上げた——疫病が到来したのだ！"
+ health.2101.bubonic_plague_outbreak.desc:2 "[ROOT.Char.GetFaith.DeathDeityName|U]は[ROOT.Char.GetFaith.DeathDeityHerHis]の大鎌を我が領国に振り上げた——腺ペストが到来したのだ！"
  health.2101.bubonic_plague_spreads.desc:0 "また別の魂が死の扉の前に立っていて、ぞっとする便毒が[sick_character.GetHerHis]の肌をぼろぼろにしている。"
  health.2101.imporant.desc:1 "我が健気な[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))][sick_character.GetFirstName]は、[sick_character.GetHerHis]自身の命のために闘っている。"
  health.2101.prisoner.desc:1 "この不運なる犠牲者は[sick_character.GetTitledFirstName]、特別な囚人様であらせられる。"
