@@ -106,7 +106,7 @@
  travel_start_event.1070.desc_hunt:0 "$travel_start_event.1000.intro_activity$"
  travel_start_event.1070.desc_hunt_negative:0 "この旅は慎重にならざるを得ない。私は[host.GetTitledFirstNameNoTooltip]を全く信用できない。"
  travel_start_event.1070.desc_hunt_positive:0 "[host.GetHerHim]ともっと多くの時間を共に過ごせるのが楽しみだ。"
- travel_start_event.1070.desc_hunt_default:0 "私は誇りを持って[ROOT.Char.GetHouse.GetName]家を誇りを持って代表できるようにならなければ。"
+ travel_start_event.1070.desc_hunt_default:0 "[ROOT.Char.GetHouse.GetName]家の名を汚さぬように振舞おう。"
  travel_start_event.1070.desc_sick_hunt_outro:0 "\n\n私の健康は悪化しているので、この狩猟が私の心を落ち着かせ、ストレスをいくらか軽減するのに役立つことを願うばかりだ。"
  travel_start_event.1070.desc_hunt_outro_standard:1 "\n\n主催がしっかりとしていれば、これは良い運動になるはずだ。"
  travel_start_event.1070.desc_hunt_outro_dangerous:1 "\n\n我々は危険な獣を狩ることになる。最も重要なのは腕力と狡猾さだ。"

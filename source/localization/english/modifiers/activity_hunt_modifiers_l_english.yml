@@ -39,7 +39,7 @@
  hunt_focused_effort_modifier:0 "狩り狂い"
  hunt_focused_effort_modifier_desc:1 "この人物は狩りに非常に力を入れている"
  hunt_treated_injury_modifier:0 "野戦手術の実践"
- hunt_treated_injury_modifier_desc:1 "この人物は最近、非常に骨の折れる医療を経験しています"
+ hunt_treated_injury_modifier_desc:1 "この人物は最近、非常に骨の折れる医療を経験した。"
  hunt_tasted_the_belt_modifier:0 "尻打ちの屈辱"
  hunt_tasted_the_belt_modifier_desc:1 "この人物は、引っ叩かれた尻の痛みで苦しんでいる。"
  hunt_treated_wound_modifier:0 "丁寧な傷療治"
