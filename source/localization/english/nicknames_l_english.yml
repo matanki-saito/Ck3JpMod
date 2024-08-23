@@ -757,7 +757,7 @@
  nick_the_father_culture:0 "[CHARACTER.GetFather.GetCulture.GetNameNoTooltip]"
  nick_the_father_culture_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の異名は[CharYourHerHis(CHARACTER)]自身のものではなく[CharYourHerHis(CHARACTER)]の母方の血統に由来している。"
  nick_prester_john:0 "プレスター・ジョン"
- nick_prester_john_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は少々異国の伝説にうつつを抜かしすぎたようだ"
+ nick_prester_john_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は少々異国の伝説にうつつを抜かしすぎたようだ。"
  nick_prester_joan:0 "プレスト・ジョアン"
  nick_prester_joan_desc:0 "$nick_prester_john_desc$"
  nick_the_thoughtless:0 "考え無しの"
