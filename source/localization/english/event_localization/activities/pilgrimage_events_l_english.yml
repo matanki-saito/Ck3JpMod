@@ -763,7 +763,7 @@
  pilgrimage.7000.intro:0 "この神聖な場所で過ごす時間が終わりに近づくにつれ、"
  pilgrimage.7000.intro_hajj:0 "\n\n今年のハッジの終わりが近づいてきた。二日間のラミー・アル・ジャマラート（悪魔の石打ち）の後、最後の儀式であるタワーフ・アル・ワダを終え、私はメッカに別れを告げる準備を整えている。"
  pilgrimage.7000.desc_perfect_pious:0 "私はこの巡礼が、史上最も献身的な巡礼の#EMP 一つ#!であったことに非常に興奮している。[ROOT.Char.GetFaith.HighGodNameAlternate]は私に微笑みかけている。"
- pilgrimage.7000.desc_high_pious:0 "私は[activity.Custom('PilgrimageLength')]の旅を通じて、すべてではないにしても、私の決断のほとんどが、[ROOT.Char.GetFaith.HighGodNameAlternate]と[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]に対する私の献身を示すために行われたことを知り、満足している。"
+ pilgrimage.7000.desc_high_pious:0 "私は[activity.Custom('PilgrimageLength')]旅を通じて、すべてではないにしても、私の決断のほとんどが、[ROOT.Char.GetFaith.HighGodNameAlternate]と[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]に対する私の献身を示すために行われたことを知り、満足している。"
  pilgrimage.7000.desc_mid_pious:0 "私は最も敬虔な巡礼者ではなかったかもしれないが、私の[ROOT.Char.GetFaith.HighGodNameAlternate]に対する献身を、さまざまな意味で証明できたことに安心している。"
  pilgrimage.7000.desc_low_pious:0 "私は[ROOT.Char.GetFaith.HighGodName]に対する自分の敬虔さを証明する機会が、おそらく私が望んでいたほどには得られなかったことをやや懸念している。"
  pilgrimage.7000.desc_perfect_worldly:0 "私はこの巡礼がどのような結果になったかに非常に興奮している。私が見た景色、得た経験、本当にこれは成功だった！"
