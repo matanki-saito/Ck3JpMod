@@ -497,7 +497,7 @@
  epidemic_events.0110.t: "塵となりて"
  epidemic_events.0110.desc: "やっと疫病は領国を去った。これより私たちは混乱から立ち上がり、再建の機会を掴む戦いを始めなければならない。\n\n残骸と化した古いやり方は捨てて、新しいやり方を取り入れるべきではないだろうか。"
  epidemic_events.0110.desc.new_capital: "\n\n生存者の大衆はすでに新しい避難所として[new_preferred_capital.GetName]に移動し始めている。これは新しい資本を投じる最高の機会かもしれない。"
- epidemic_events.0110.a: "[new_preferred_capital.GetNameNoTierNoTooltip|U]は新時代の嚆矢となろう。"
+ epidemic_events.0110.a: "[new_preferred_capital.GetNameNoTierNoTooltip|U]は新たな首都に相応しい。"
  epidemic_events.0110.b: "再建の時だ。惜しみない投資をする時だ。"
  epidemic_events.0110.c: "何かすることもないだろう。"
  every_county_infected_10_years: "過去10年間感染した全ての[county|E]"
