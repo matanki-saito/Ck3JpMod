@@ -387,7 +387,7 @@
  travel_events.4050.b.tt: "この子は私の宮廷、つまり私の民のものだ。"
  travel_events.4050.c.interpreter: "[friendly_child.Custom('GirlBoy')|U]よ！[friendly_child.GetCulture.GetLanguage.GetNameNoTooltip]で我らを楽しませよ！"
  travel_events.4050.c.religious: "[friendly_child.Custom('GirlBoy')|U]よ！その[friendly_child.GetFaith.GetAdherentNamePluralNoTooltip]には感動した！"
- travel_events.4050.c.singing: "[friendly_child.Custom('GirlBoy')|U]よ！その[friendly_child.GetCulture.GetCollectiveNounNoTooltip]で楽しませよ！"
+ travel_events.4050.c.singing: "[friendly_child.Custom('GirlBoy')|U]よ！[friendly_child.GetCulture.GetCollectiveNounNoTooltip]を楽しませてやれ！"
  travel_events.4050.c.tt: "誇りに思え、[friendly_child.Custom('GetLassLad')]！"
  sponsored_emissaries_modifier: "支援された使者"
  sponsored_emissaries_modifier_desc: "この人物は語学学習と異文化外交を奨励している。"
