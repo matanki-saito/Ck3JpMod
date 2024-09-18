@@ -1,6 +1,6 @@
 ﻿l_english:
  SELECT_CHARACTER_ON_MAP:0 "マップ上で人物を選択します。"
- PICK_ANY_CHARACTER:5 "#bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!年の任意か#bold 自作#!の統治者で開始..."
+ PICK_ANY_CHARACTER:5 "[GameSetup.GetSelectedBookmark.GetDate.GetYear]年の任意か自作の統治者で開始"
  BOOKMARK_DISABLED:0 "このブックマークは無効です"
  BOOKMARK_NOT_PICKED_CHARACTER:0 "ゲーム開始前にブックマークで人物を選択してください。または、「任意の人物を選択」をクリックして自由に選択してください。"
  SINGLEPLAYER:0 "シングルプレイ"
