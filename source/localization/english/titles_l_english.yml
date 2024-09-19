@@ -23574,7 +23574,7 @@
  b_peliza:0 "ペリヅァ"
  b_varsiga:0 "ヴァルシガ"
  b_cascarena:0 "ツァスツァレナ"
- TITLE_DEFINITIVE_NAME:0 "$NAME$の$TIER|U$"
+ TITLE_DEFINITIVE_NAME:0 "$NAME$$TIER|U$"
  TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "$NAME$$TIER|U$#F （$BASE_NAME$）#!"
  c_aalborg_adj:0 "オールボー"
  c_aanaarjavri_adj:0 "アアナージャブリ"
