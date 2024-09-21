@@ -39,7 +39,7 @@
  feature_wood_decoration_hsb_inlay:0 "この木製品には[Artifact.GetFeatureText( 'decoration_material_inlay_HSB' )]の象眼細工が施されている。"
  feature_wood_decoration_painted_pattern:0 "この木は[Artifact.GetFeatureText( 'decoration_pattern' )]で塗装されている。"
  artifact_throne_charlemagne_name:1 "シャルルマーニュの玉座"
- artifact_throne_charlemagne_description:0 "装飾を排したシンプルで堂々とした玉座である。大理石の板はエルサレムの聖墳墓教会から持ち込まれたと言われている。"
+ artifact_throne_charlemagne_description:0 "装飾を排したシンプルで堂々とした玉座である。大理石の板はイェルサレムの聖墳墓教会から持ち込まれたと言われている。"
  artifact_throne_solomon_name:1 "ソロモンの玉座"
  artifact_throne_solomon_description:0 "伝説のソロモン王がかつて所有していたと噂される、豪華な玉座。象牙と金で作られたこの玉座には多くの宝石がはめ込まれ、玉座に続く階段にはさまざまな動物の金属彫刻が飾られている。"
  artifact_throne_stone_scone_name:1 "スクーンの石"
