@@ -1035,7 +1035,7 @@
  MOD_STRIFE_OPINION_GAIN_MULT:0 "[strife|E]を得る"
  MOD_STRIFE_OPINION_LOSS_MULT:0 "[strife|E]の喪失"
  MOD_ACTIVE_ACCOLADES:0 "[accolades|E]が利用可能"
- MOD_ACCOLADE_GLORY_GAIN_MULT:0 "[accolade|e]の[glory|E]を得る"
+ MOD_ACCOLADE_GLORY_GAIN_MULT:0 "[accolade|e]が得る[glory|E]"
  MOD_LEVY_MAINTENANCE:0 "[levy|E]維持費"
  MOD_UNCONTROLLED_PROVINCE_ADVANTAGE:0 "非支配地域における攻撃側[advantage|E]"
  MOD_LEVY_ATTACK:0 "[levy|E][damage|E]"
