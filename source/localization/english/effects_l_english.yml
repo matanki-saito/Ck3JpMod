@@ -2035,7 +2035,7 @@
  THEY_LOST_TRAIT_XP:0 "[CHARACTER.GetName]は$TRACK_NAME$の[trait_level_track_xp|E]を$VALUE|V0$失います#weak （[TRAIT.GetName( CHARACTER.Self )]）#!"
  GAIN_TRAIT_XP_SINGLE:1 "[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます"
  I_GAIN_TRAIT_XP_SINGLE:1 "[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます"
- THEY_GAIN_TRAIT_XP_SINGLE:1 "[CHARACTER.GetName]は[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます。"
+ THEY_GAIN_TRAIT_XP_SINGLE:1 "[CHARACTER.GetName]は[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます"
  GAINED_TRAIT_XP_SINGLE:1 "$VALUE|V0$の[TRAIT.GetName( CHARACTER.Self )]の[trait|E]の[trait_level_track_xp|E]を得ました。"
  I_GAINED_TRAIT_XP_SINGLE:1 "[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます"
  THEY_GAINED_TRAIT_XP_SINGLE:1 "[CHARACTER.GetName]は[TRAIT.GetName( CHARACTER.Self )][trait|E]の[trait_level_track_xp|E]を$VALUE|V0$得ます"
