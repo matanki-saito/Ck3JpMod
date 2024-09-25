@@ -8,7 +8,7 @@
  COMBAT_BALANCE_ATTACKER_WINNING:0 "The Attacker is currently winning"
  COMBAT_BALANCE_DEFENDER_WINNING:0 "The Defender is currently winning"
  COMBAT_BALANCE_UNDECIDED:0 "The [battle|E] is currently undecided"
- COMBAT_CURRENT_PHASE:1 "Current [combat_phase|E]: [$PHASE|V$]"
+ COMBAT_CURRENT_PHASE:1 "Current [combat_phase|E]: [ConceptByKey('$PHASE|Vq$')]"
  COMBAT_CURRENT_PHASE_DAYS_LEFT:1 "Days Left In The Current [combat_phase|E]: $VALUE|V$"
  COMBAT_TOTAL_DAYS:0 "Total length of [battle|E]: $DAYS|V$"
  ATTACKER:0 "Attacker"
@@ -50,7 +50,6 @@
  # General Combat Actions
  frightened:0 "Frightened"
  COMBAT_PHASE_TOOLTIP:0 "[CombatWindow.GetPhaseTooltip]\n\n[CombatWindow.GetCombat.PhaseFrozenInfo]"
- COMBAT_EFFECT_DESCRIPTION:0 "[advantage|E] effect: $ADVANTAGE|0=+$\n"
  COMBAT_ACTION_HEADER:0 "$NAME$"
  COMBAT_ACTION_LEVEL:0 "Level: $VALUE|V$"
  default_maneuver_desc:0 "Getting the forces arranged on the battlefield in an orderly fashion."

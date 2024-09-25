@@ -1,5 +1,5 @@
 ﻿l_english:
- MOD_ARTIFACT_DECAY_REDUCTION_ADD:0 "Artifact Decay Reduction"
+ MOD_ARTIFACT_DECAY_REDUCTION_ADD:0 "[artifact|E] Decay Reduction"
  MOD_ARTIFACT_DECAY_REDUCTION_MULT:0 "$MOD_ARTIFACT_DECAY_REDUCTION_ADD$"
 
  artifact_history_created_title:1 "[HISTORY_ENTRY.GetDate.GetString]"

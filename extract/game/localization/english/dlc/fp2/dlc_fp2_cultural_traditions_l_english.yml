@@ -211,8 +211,8 @@
  death.lost_ritualised_best_friend.tt:1 "Your best friend in the whole world has died"
  need_at_least_one_friend:1 "You need at least one [friend|E]"
  guess_you_need_more_friends_desc: "You don't have at least three [friends|E]"
- scheme_power_against_friend_add:1 "[scheme_power|E] against [friends|E]"
- scheme_power_against_best_friend_add:1 "[scheme_power|E] against [best_friends|E]"
+ scheme_phase_duration_against_friend_add: "[scheme_speed|E] against [friends|E]"
+ scheme_phase_duration_against_best_friend_add: "[scheme_speed|E] against [best_friends|E]"
 
  on_set_relation_best_friend.gain_hook.root.tt:0 "Your friendship with [target.GetFirstNameNoTooltip] is ritually significant"
  on_set_relation_best_friend.gain_hook.target.tt:0 "Your friendship with [ROOT.Char.GetFirstNameNoTooltip] is ritually significant"

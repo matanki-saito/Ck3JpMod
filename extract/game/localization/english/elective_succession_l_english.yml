@@ -102,9 +102,9 @@
  tooltip_feudal_elector_vote_blinded_negative:0 "[candidate.GetSheHe|U] is [GetTrait('blind').GetName( candidate.Self )]: $VALUE|=+0$"
  tooltip_feudal_elector_vote_blinded_negative_warrior:0 "[candidate.GetSheHe|U] is [GetTrait('blind').GetName( candidate.Self )]: $VALUE|=+0$"
  tooltip_feudal_elector_vote_blinded_negative_byzantine:0 "[candidate.GetSheHe|U] is [GetTrait('blind').GetName( candidate.Self )]: $VALUE|=+0$"
- tooltip_feudal_elector_vote_eunuch_negative:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
- tooltip_feudal_elector_vote_eunuch_negative_warrior:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
- tooltip_feudal_elector_vote_eunuch_negative_byzantine:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_eunuch_negative:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch_1').GetName( candidate.Self )] or [GetTrait('beardless_eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_eunuch_negative_warrior:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch_1').GetName( candidate.Self )] or [GetTrait('beardless_eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
+ tooltip_feudal_elector_vote_eunuch_negative_byzantine:0 "[candidate.GetSheHe|U] is a [GetTrait('eunuch_1').GetName( candidate.Self )] or [GetTrait('beardless_eunuch').GetName( candidate.Self )]: $VALUE|=+0$"
  tooltip_feudal_elector_vote_giant_positive:0 "[candidate.GetSheHe|U] is a [GetTrait('giant').GetName( candidate.Self )]: $VALUE|=+0$"
  tooltip_feudal_elector_vote_giant_negative:0 "[candidate.GetSheHe|U] is a monster: $VALUE|=+0$"
  tooltip_feudal_elector_vote_shape_negative:0 "[candidate.GetSheHe|U] is out of shape: $VALUE|=+0$"
@@ -150,7 +150,7 @@
  tooltip_imperial_vote_strength_greek_intrigue:0 "[ROOT.Char.GetSheHe|U] is a cunning politician with high [intrigue|E]: $VALUE|=+0$"
  tooltip_imperial_vote_strength_roman_diplomacy:0 "[ROOT.Char.GetSheHe|U] is a manipulative demagogue with high [diplomacy|E]: $VALUE|=+0$"
 
-#Imperial Elective, Voting Behavior
+ #Imperial Elective, Voting Behavior
  tooltip_feudal_elector_vote_rome_child:0 "Rome is not to be ruled by a child: $VALUE|=+0$"
  tooltip_feudal_elector_vote_despot:0 "[candidate.GetSheHe|U] is the Despot: $VALUE|=+0$"
  tooltip_feudal_elector_vote_commander_martial:0 "[candidate.GetSheHe|U] is a brilliant General: $VALUE|=+0$"
@@ -186,3 +186,8 @@
  tooltip_tribal_elector_vote_elder: "[candidate.GetSheHe|U] is a venerable elder: $VALUE|=+0$"
  tooltip_tribal_elector_vote_stranger: "[candidate.GetSheHe|U] is not of my tribe: $VALUE|=+0$"
  tooltip_tribal_elector_vote_relative: "[candidate.GetSheHe|U] belongs to my clan: $VALUE|=+0$"
+
+ tooltip_feudal_elector_player_opt_out_50_percent: "Title deeds speak louder than words: $VALUE|=+0$"
+ tooltip_feudal_elector_player_opt_out_33_percent: "Huge Vassal does not wish election: $VALUE|=+0$"
+ tooltip_feudal_elector_player_opt_out_25_percent: "Large Vassal does not wish election: $VALUE|=+0$"
+ tooltip_feudal_elector_player_opt_out_minor_realm: "[candidate.GetFirstNameNoTooltip] does not wish election: $VALUE|=+0$"

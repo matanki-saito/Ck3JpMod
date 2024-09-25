@@ -5,7 +5,7 @@
 
  #Jarl Haesteinn
  bookmark_adventurers_jarl_haesteinn:0 "Jarl Hæsteinn"
- bookmark_adventurers_jarl_haesteinn_desc:0 "Through cunning and courage, Jarl Hæsteinn has become a rich man. After leading a lucrative raid through the Mediterranean together with Björn Ironside, Hæsteinn has settled in Brittany. The Franks have coffers ready for picking, and a mighty viking warrior makes a great ally in times of political turmoil.\n\n#bold Fortune does not come without enemies, however.  Will Hæsteinn's greed get the better of him, or will his dynasty prosper under your guidance?#!"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Through cunning and courage, Jarl Hæsteinn has become a rich man. After leading a lucrative raid through the Mediterranean together with Björn Ironside, Hæsteinn has settled in Brittany. The Franks have coffers ready for picking, and a mighty viking warrior makes a great ally in times of political turmoil.\n\n#bold Fortune does not come without enemies, however. Will Hæsteinn's greed get the better of him, or will his dynasty prosper under your guidance?#!"
 
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
@@ -49,6 +49,18 @@
  bookmark.0101.b.tt:1 "#warning @warning_icon! This option may leave you without a [player_heir|E]!#!"
  bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
  bookmark.0101.c.tt:1 "Your sister [shawata.GetUIName] will remain your [player_heir|E]"
+
+ # Credit to Stu Taylor of Dead Good Comics for the title line and entire lead-in to this event.
+ bookmark.0211.t: "In Memory of Your Good Taste"
+ # Historically, both of Michael's hands were severed — we don't have a portrait modifier for that, I'm afraid, so we pretend it was just the one.
+ bookmark.0211.desc: "[michael.GetFirstNamePossessive] corpse lies fetal on the floor before me, the initial surge of blood from his severed limb now slowed to barely a trickle. A good evening, even if we [Glossary( 'struck earlier than intended', 'BOOKMARK_0211_MICHAEL_III_DEATH_GLOSS' )].\n\n#EMP Senior#! emperor. Pah, a naive dolt with neither talent nor stomach for politics. All the advantages God can give a man and he still lost everything to a no-name from the provinces.\n\nNot that I'm a mere provincial any more. From tonight, I am #EMP the#! emperor, [basil.GetTitledFirstName], first of the surely-glorious dynasty of [basil.GetDynasty.GetName].\n\nDraining the last of my goblet — one of [michael.GetFirstNamePossessiveNoTooltip] favorite wines — I ponder how history will remember the young man. How I will #EMP allow#! history to remember him."
+ bookmark.0211.a: "He died drunk, he shall remain a drunk!"
+ bookmark.0211.a.flavour: "You and your progeny will slander [michael.GetFirstNameNoTooltip] for decades past his death, making him out to be a drunkard and a wastrel."
+ bookmark.0211.b: "The fool gave me his family, his throne, and his life. That's enough."
+ bookmark.0211.b.flavour: "You allow [michael.GetFirstNamePossessiveNoTooltip] reputation to recover, holding his mother's restoration of iconophilic practices during her regency for him as nigh-saintly."
+ bookmark.0211.c: "This really is a particularly fine vintage..."
+ bookmark.0211.c.flavour: "You allow [michael.GetFirstNamePossessiveNoTooltip] memory to fade naturally — mostly."
+ BOOKMARK_0211_MICHAEL_III_DEATH_GLOSS: "Historically, Michael III was murdered September 24th 867, rather than December 31st 866. His date of death is brought forward in Crusader Kings 3 for gameplay reasons."
 
  #WARS
  war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabid Conquest of Sicily"

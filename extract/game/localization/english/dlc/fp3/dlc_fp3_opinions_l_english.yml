@@ -84,6 +84,6 @@ afghan_opinion: "$afghan$ Opinion"
 imami_opinion: "$imami$ Opinion"
 
 #Clan Opinions
-clan_government_opinion: "[clan||E] Opinion"
+clan_government_opinion: "[clan|E] Opinion"
 
 fp3_split_the_muslim_world_in_two_caliphates: "Split Caliphates"

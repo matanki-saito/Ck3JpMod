@@ -1,12 +1,12 @@
 ﻿l_english:
  trait_specific_ongoing.1001.t:0 "Shattering Revelations"
- trait_specific_ongoing.1001.desc:0 "I slap my hands against a wall repeatedly. As I look down on them I see a crack running through one – my fears have come true! I am made out of glass!\n\nI will have to move smoothly and slowly, no violent motions, no high pitched singing..."
+ trait_specific_ongoing.1001.desc:0 "I slap my hands against the bed-frame to be sure. As I look down on them, I see a crack running through one – my fears have come true! I am made out of glass!\n\nI will have to move smoothly and slowly, no violent motions, no high pitched singing..."
  trait_specific_ongoing.1001.a:0 "No one touch me!"
 
  trait_specific_ongoing.1003.t:0 "Bear with Me"
- trait_specific_ongoing.1003.desc:0 "I open the door to my [ROOT.Char.Custom('ResidenceBuilding')] and find myself standing face to face with a giant bear.\n\n"Oh, sugar-puff! You abandoned your friends?" I ask her and start to coral her back to the main hall.\n\nAs I enter the room a cacophony of sound swells as every animal I have been able to get my hands on greet me!"
+ trait_specific_ongoing.1003.desc:0 "I enter my [ROOT.Char.Custom('GetChamber')] and find myself standing face to face with a giant bear.\n\n"Oh, sugar-puff! You abandoned your friends?" I ask her, coaxing her to follow.\n\nAs we step outside, a cacophony of sound swells — every animal I have been able to get my hands on greets me in unison!"
  trait_specific_ongoing.1003.a:0 "My sweeties! I will find you even more friends!"
- trait_specific_ongoing.1003.a.flavor:0 "As I exit the room sugar-puff pursues me"
+ trait_specific_ongoing.1003.a.flavor:0 "As we exit, sugar-puff pursues me"
  trait_specific_ongoing.1003.b:0 "I... I should sell them, shouldn't I?"
 
  trait_specific_ongoing.1004.t:0 "A Small Bundle of Joy"
@@ -42,7 +42,7 @@
  trait_specific_ongoing.1009.a.failure:0 "I am not as invincible as I though I was"
 
  trait_specific_ongoing.1010.t:0 "My Horse [ROOT.Char.Custom('WarhorseStoryName')]"
- trait_specific_ongoing.1010.desc:0 "My beautiful warhorse [ROOT.Char.Custom('WarhorseStoryName')] carries me with ease before my gathered court.\n\n"This horse is perfection! You will all spend at least one hour each day caring for [ROOT.Char.Custom('HorseStoryHerHim')], be it training or grooming. [ROOT.Char.Custom('HorseStorySheHe')|U] is more dear to me than anyone else. Dismissed""
+ trait_specific_ongoing.1010.desc:0 "My beautiful warhorse [ROOT.Char.Custom('WarhorseStoryName')] carries me with ease before my gathered [ROOT.Char.Custom('GetCourt')].\n\n"This horse is perfection! You will all spend at least one hour each day caring for [ROOT.Char.Custom('HorseStoryHerHim')], be it training or grooming. [ROOT.Char.Custom('HorseStorySheHe')|U] is more dear to me than anyone else. Dismissed""
  trait_specific_ongoing.1010.a:0 "All shall bow before [ROOT.Char.Custom('HorseStoryHerHim')]!"
 
  trait_specific_ongoing.1011.t:0 "Law Fabrication"
@@ -51,7 +51,7 @@
  all_adult_courtiers:0 "All adult courtiers"
 
  trait_specific_ongoing.1012.t:0 "Visions of Darkness"
- trait_specific_ongoing.1012.desc:0 "I cannot remember it happening, but after I come to in the courtyard, my courtiers tell me everything.\n\nI had been running around, warning people that the bats were coming. Enough of them to blot out the sun, and to take [capital.GetNameNoTier] with them to some terrible place where [ROOT.Char.GetFaith.PositiveAfterLife] cannot be reached."
+ trait_specific_ongoing.1012.desc:0 "I cannot remember it happening, but when I return to the [ROOT.Char.Custom('ResidenceBuilding')], my [ROOT.Char.Custom('GetCourtierPlural')] tell me everything.\n\nI have been running around, warning people that the bats are coming. Enough of them to blot out the sun, and carry [capital.GetNameNoTier] away with them to some terrible place where [ROOT.Char.GetFaith.PositiveAfterLife] cannot be reached."
  trait_specific_ongoing.1012.a:0 "What is happening to me..."
  trait_specific_ongoing.1012.b:0 "Oh, I will be prepared when they come!"
 
@@ -63,7 +63,7 @@
  trait_specific_ongoing.2001.euphoria.desc:0 "euphoria,"
  trait_specific_ongoing.2001.joy.desc:0 "joy,"
  trait_specific_ongoing.2001.nausea.desc:0 "nausea,"
- trait_specific_ongoing.2001.walls.desc:0 "the walls of my chamber leaning closer,"
+ trait_specific_ongoing.2001.walls.desc:0 "my [ROOT.Char.Custom('GetChamber')] closing in,"
  trait_specific_ongoing.2001.sulfur.desc:0 "the sharp smell of sulfur"
  trait_specific_ongoing.2001.smoke.desc:0 "an acrid smell of smoke"
  trait_specific_ongoing.2001.citrus.desc:0 "the sharp tang of citrus on my tongue"
@@ -180,24 +180,24 @@
  trait_specific_ongoing.2020.end.desc:0 "comes over me as the floor beings to twist and bend under my feet. Even though I have been spared for quite some time, I immediately recognize the signs.\n\nI flee to my chambers before I begin to cry — or lose control of my body entirely..."
 
  trait_specific_ongoing.2025.t:0 "Nowhere To Hide"
- trait_specific_ongoing.2025.start.desc:0 "The [dummy_gender.GetWomanMan] before me looks odd. [dummy_gender.GetHerHis|U] face is twisted... twisting? Is [dummy_gender.GetSheHe] even human?\n\nReality #EMP lurches#!, and I realize I am having another [ROOT.Char.Custom('PossessedEpisode')] — in front of my entire court. As"
+ trait_specific_ongoing.2025.start.desc:0 "The [dummy_gender.GetWomanMan] before me looks odd. [dummy_gender.GetHerHis|U] face is twisted... twisting? Is [dummy_gender.GetSheHe] even human?\n\nReality #EMP lurches#!, and I realize I am having another [ROOT.Char.Custom('PossessedEpisode')] — and in front of my assembled [ROOT.Char.Custom('GetCourt')]. As"
  trait_specific_ongoing.2025.end.desc:0 "fills my nostrils, I try to speak, but my lips are not moving."
  trait_specific_ongoing.2025.a:0 "I need to get out of here, before it gets worse!"
  trait_specific_ongoing.2025.b:0 "I am the [ROOT.Char.GetTitleAsNameNoTooltip] — I do not care what they think."
- trait_specific_ongoing.2025.b.success:0 "The courtiers are impressed by your courage"
- trait_specific_ongoing.2025.b.failure:0 "The courtiers are repulsed"
+ trait_specific_ongoing.2025.b.success:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] are impressed by your courage"
+ trait_specific_ongoing.2025.b.failure:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] are repulsed"
  trait_specific_ongoing.2025.c:0 "Where is [helper.GetFirstNameNoTooltip]? I need [helper.GetHerHis] help!"
  trait_specific_ongoing.2025.d:0 "It's a message from [ROOT.Char.GetFaith.HighGodName]! I will tell them!"
- trait_specific_ongoing.2025.d.success:0 "The courtiers believe you"
- trait_specific_ongoing.2025.d.failure:0 "The courtiers think you are lying"
+ trait_specific_ongoing.2025.d.success:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] believe you"
+ trait_specific_ongoing.2025.d.failure:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] think you are lying"
  trait_specific_ongoing.2025.e:0 "I could play it off as vision from [ROOT.Char.GetFaith.HighGodName]..."
- trait_specific_ongoing.2025.e.failure:0 "The courtiers see through your scheme"
- trait_specific_ongoing.2025.every_courtier:0 "Every courtier"
+ trait_specific_ongoing.2025.e.failure:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] see through your scheme"
+ trait_specific_ongoing.2025.every_courtier:0 "Every [actor.Custom('GetCourtier')]"
 
 
 
  trait_specific_ongoing.3001.t:0 "Misery Loves Company"
- trait_specific_ongoing.3001.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sympathetic_character') )] [sympathetic_character.GetTitledFirstName] approaches me as I am done holding court, with people still mingling around.\n\n"My [ROOT.Char.GetLadyLord], I have heard that you too suffer from periods of... melancholy. Perhaps we could discuss our experiences?""
+ trait_specific_ongoing.3001.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sympathetic_character') )] [sympathetic_character.GetTitledFirstName] approaches me as I finish addressing the [ROOT.Char.Custom('GetCourt')], with people still mingling around.\n\n"My [ROOT.Char.GetLadyLord], I have heard that you too suffer from periods of... melancholy. Perhaps we could discuss our experiences?""
  trait_specific_ongoing.3001.a:0 "Come, we have much to talk about."
  trait_specific_ongoing.3001.b:0 "I have no such problems! What are you talking about?!"
  trait_specific_ongoing.3001.b.tt:0 "Ahaha... ha."
@@ -248,7 +248,7 @@
  
 
  trait_specific_ongoing.5001.t:0 "Private Meating"
- trait_specific_ongoing.5001.desc_opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('victim') )] [victim.GetTitledFirstName] and I find ourselves alone as the rest of the court has ambled off to sleep.\n\n"
+ trait_specific_ongoing.5001.desc_opening:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('victim') )] [victim.GetTitledFirstName] and I find ourselves alone as the rest of the [ROOT.Char.Custom('GetCourt')] has ambled off to sleep.\n\n"
  trait_specific_ongoing.5001.desc_small:0 "As we talk I cannot help but notice [victim.GetHerHis] sinewy arms, the flesh stretched taught underneath..."
  trait_specific_ongoing.5001.desc_big:0 "As we talk I cannot help but notice [victim.GetHerHis] plump arms, flesh and fat resting in succulent mounds..."
  trait_specific_ongoing.5001.desc:0 "As we talk I cannot help but notice [victim.GetHerHis] skin, and the movement underneath as [victim.GetSheHe] moves..."
@@ -259,7 +259,7 @@
  trait_specific_ongoing.5002.a:0 "No, no, please– NO! AAAH!"
 
  trait_specific_ongoing.5003.t:0 "Temptations of the Flesh"
- trait_specific_ongoing.5003.desc_opening:0 "My servant [servant.GetTitledFirstName] has caught my attention – the shape of [servant.GetHerHis] arms, the curving of [servant.GetHerHis] neck... As I corner [servant.GetHerHim] alone in a pantry [servant.GetSheHe] asks what I want of [servant.GetHerHim], a flirty smile on [servant.GetHerHis] lips.\n\n"I crave your body," I answer as I press up against [servant.GetHerHim]."
+ trait_specific_ongoing.5003.desc_opening:0 "My servant [servant.GetTitledFirstName] has caught my attention – the shape of [servant.GetHerHis] arms, the curving of [servant.GetHerHis] neck... As I corner [servant.GetHerHim] alone amongst the food-stores, [servant.GetSheHe] asks what I want of [servant.GetHerHim], a flirty smile on [servant.GetHerHis] lips.\n\n"I crave your body," I answer as I press up against [servant.GetHerHim]."
  trait_specific_ongoing.5003.desc_big:0 ""Its so plump – so full of #EMP life#!!""
  trait_specific_ongoing.5003.desc:0 ""Its so full of #EMP life#!!""
  trait_specific_ongoing.5003.a:0 "In one smooth motion I slit [servant.GetHerHis] throat."
@@ -276,7 +276,7 @@
  trait_specific_ongoing.5005.b:0 "I'll wake [courtier.GetHerHim] up – [courtier.GetSheHe] can't be comfortable out here."
 
  trait_specific_ongoing.6001.t:0 "Caught with My Pants Down"
- trait_specific_ongoing.6001.desc:0 "To get myself excited before meeting with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )] [lover.GetTitledFirstName] I bring out [ROOT.Char.Custom('DeviantObjectArticle')] – #EMP oh...!#!\n\nI am so caught up in it, exploring its ins and outs, that I do not hear the door open. What I do hear is [lover.GetFirstNamePossessiveNoTooltip] gasp as [lover.GetSheHe] sees what I am doing."
+ trait_specific_ongoing.6001.desc:0 "To get myself excited before meeting with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )] [lover.GetTitledFirstName] I bring out [ROOT.Char.Custom('DeviantObjectArticle')] – #EMP oh...!#!\n\nI am so caught up in it, exploring its ins and outs, that I do not hear someone enter the [ROOT.Char.Custom('GetRoom')]. What I do hear is [lover.GetFirstNamePossessiveNoTooltip] loud gasp when [lover.GetSheHe] sees realizes what I am doing."
  trait_specific_ongoing.6001.a:0 "I have one extra... If you would like to join?"
  trait_specific_ongoing.6001.a.success:0 "[lover.GetSheHe|U] is into it"
  trait_specific_ongoing.6001.a.failure:0 "[lover.GetSheHe|U] does not share your... taste"
@@ -284,7 +284,7 @@
  trait_specific_ongoing.6001.b_man:0 "I... A– A physician recommended it for virility!"
 
  trait_specific_ongoing.6002.t:0 "Deviant Liege"
- trait_specific_ongoing.6002.desc:0 "As I go to pay a visit to my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('liege') )] [liege.GetTitledFirstName] I am shown to [liege.GetHerHis] quarters.\n\nI open the door to find [liege.GetHerHim] in the throes of ecstasy, aided by [ROOT.Char.Custom('DeviantObjectArticle')] – I didn't even know it could be used in such a way!"
+ trait_specific_ongoing.6002.desc:0 "As I go to pay a visit to my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('liege') )] [liege.GetTitledFirstName], I am shown to [liege.GetHerHis] quarters.\n\nI open the door to find [liege.GetHerHim] in the throes of ecstasy, aided by [ROOT.Char.Custom('DeviantObjectArticle')] – I didn't even know it could be used in such a way!"
  trait_specific_ongoing.6002.a:0 "Oh oh oh, now #EMP this#! is interesting!"
  trait_specific_ongoing.6002.b:0 "Oh, this... this looks #EMP interesting#!."
  trait_specific_ongoing.6002.c:0 "What is the meaning of this?!"

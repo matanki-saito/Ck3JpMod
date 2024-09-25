@@ -73,7 +73,7 @@
  feast_events_ewan.0401.a.tt.success:0 "You charm [intent_target.GetHerHim] utterly"
  feast_events_ewan.0401.a.tt.partial_success:0 "[intent_target.GetSheHe|U]'d like to talk more"
  feast_events_ewan.0401.a.tt.failure:0 "You're fun, but not that fun"
- feast_events_ewan.0401.b:0 ""You... #EMP do#! realise that this is my feast, yes?""
+ feast_events_ewan.0401.b:0 ""You... #EMP do#! realize that this is my feast, yes?""
  feast_events_ewan.0401.c:0 ""Loudly sing the meal's praises.""
  feast_events_ewan.0401.d:0 "Switch the subject to something less contentious."
 

@@ -1,7 +1,7 @@
 ﻿l_english:
 
  steward_task.0001.t:0 "De Jure County Convinced"
- steward_task.0001.desc:0 "Grave news have reached me today: the people of [county.GetNameNoTier] reclaim their belonging to the more grand and prestigious [councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]!\n\nSwayed by the mellifluous promises of [councillor.GetTitledFirstName] and seduced by the splendor of [councillor_liege.GetTitledFirstNamePossessive] court, they now expect me to simply surrender the county to my meddlesome neighbor!\n\nI should consider my next move carefully. Losing land is never ideal, but the locals will be extremely displeased with me if I don't let them go."
+ steward_task.0001.desc:0 "Grave news has reached me today: the people of [county.GetNameNoTier] reclaim their belonging to the more grand and prestigious [councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]!\n\nSwayed by the mellifluous promises of [councillor.GetTitledFirstName] and seduced by the splendor of [councillor_liege.GetTitledFirstNamePossessive] court, they now expect me to simply surrender the county to my meddlesome neighbor!\n\nI should consider my next move carefully. Losing land is never ideal, but the locals will be extremely displeased with me if I don't let them go."
  steward_task.0001.a:0 "I have no choice. I shall concede it."
  steward_task.0001.b:0 "Outrageous! I will not allow it!"
  steward_task.0001.liege_changed:0 "Released to De Jure Liege"

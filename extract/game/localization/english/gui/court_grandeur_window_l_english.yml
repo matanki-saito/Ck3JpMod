@@ -23,10 +23,10 @@
  TOP_ROYAL_COURT_ENTRY:0 "$POSITION$. [CHARACTER.GetUINameNotMe]"
  TOP_ROYAL_COURT_ENTRY_DISPLAYED_COURT:0 "#bold $POSITION$. [CHARACTER.GetUINameNotMe] #weak (this Court)#!#!"
  ELLIPSIS:0 "..."
-  
- COURT_GRANDEUR_TOAST_GRANDEUR_INCREASED_TITLE:0 "Court Grandeur level increased"
- COURT_GRANDEUR_TOAST_GRANDEUR_RANK_INCREASED_TITLE:0 "Grandeur rank increased"
- COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_TITLE:0 "Court Grandeur level decreased"
+ 
+ COURT_GRANDEUR_TOAST_GRANDEUR_INCREASED_TITLE:0 "Court Grandeur Increased"
+ COURT_GRANDEUR_TOAST_GRANDEUR_RANK_INCREASED_TITLE:0 "Court Grandeur Increased"
+ COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_TITLE:0 "Court Grandeur Decreased"
  COURT_GRANDEUR_TOAST_GRANDEUR_INCREASED_DESCRIPTION:0 "Your [royal_court|E] is now at [court_grandeur_level|E] [court_character.GetCourtGrandeurData.GetCurrentLevel]"
  COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_DESCRIPTION:0 "Your [royal_court|E] is now at [court_grandeur_level|E] [court_character.GetCourtGrandeurData.GetCurrentLevel]"
  COURT_GRANDEUR_EXPECTATION_EFFECTS:0 "[Character.GetCourtGrandeurDiffFromExpectedLevelModifierCombinedDescription]"

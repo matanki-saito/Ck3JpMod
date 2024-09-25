@@ -7,7 +7,7 @@
  pet_animal.0001.a:1 "What a great name!"
 
  pet_animal.0101.t:0 "[ROOT.Char.Custom('CatStoryName')]: The Gift Giver"
- pet_animal.0101.desc:0 "Two [ROOT.Char.Custom('CatEyeColor')] eyes follow me as I cross the hallway, and a small meow breaks the silence as [ROOT.Char.Custom('CatStoryName')] pounces for my ankle."
+ pet_animal.0101.desc:0 "Two [ROOT.Char.Custom('CatEyeColor')] eyes follow me as I pass, and a small meow breaks the silence as [ROOT.Char.Custom('CatStoryName')] pounces for my ankle."
  pet_animal.0101.desc_old:0 "[ROOT.Char.Custom('CatStorySheHe')|U] has seen better days, but age has never stopped [ROOT.Char.Custom('CatStoryHerHim')]!"
  pet_animal.0101.desc_young:0 "[ROOT.Char.Custom('CatStorySheHe')|U] may be young, but [ROOT.Char.Custom('CatStorySheHe')] is nonetheless ferocious!"
  pet_animal.0101.desc_middle:0 "A cat in [ROOT.Char.Custom('CatStoryHerHis')] prime, [ROOT.Char.Custom('CatStorySheHe')] nonetheless leaves no marks on me."
@@ -20,7 +20,7 @@
  pet_animal.0103.a:0 "You are very perceptive!"
 
  pet_animal.0104.t:0 "[ROOT.Char.Custom('CatStoryName')]: Purring Comfort"
- pet_animal.0104.desc:0 "After yet another stressful day I slump down on a chair in my chamber – for how long will I be able to keep this up?\n\nSuddenly I hear a quiet meow, and my cat [ROOT.Char.Custom('CatStoryName')] jumps up on my lap and starts purring. I sit with [ROOT.Char.Custom('CatStoryHerHim')] for a while, just listening to the calming sound and petting [ROOT.Char.Custom('CatStoryHerHis')] [ROOT.Char.Custom('CatFurColor')] fur."
+ pet_animal.0104.desc:0 "After yet another stressful day I slump down on a chair – for how long will I be able to keep this up?\n\nSuddenly I hear a quiet meow, and my cat [ROOT.Char.Custom('CatStoryName')] jumps up on my lap and starts purring. I sit with [ROOT.Char.Custom('CatStoryHerHim')] for a while, just listening to the calming sound and petting [ROOT.Char.Custom('CatStoryHerHis')] [ROOT.Char.Custom('CatFurColor')] fur."
  pet_animal.0104.a:0 "I think I can do this for a bit longer."
 
  pet_animal.0105.t:0 "[ROOT.Char.Custom('CatStoryName')]: Secret Revealed"
@@ -254,7 +254,7 @@
  pet_animal.2001.a:0 "They're so cute together!"
 
  pet_animal.2002.t:0 "Like Cats and Dogs"
- pet_animal.2002.desc:0 "I am crossing the courtyard when [ROOT.Char.Custom('CatStoryName')] and [ROOT.Char.Custom('DogStoryName')] enter from opposing sides.\n\nI have no time to react – they are at each other's throats in seconds. Tufts of [ROOT.Char.Custom('DogFurColor')] fur fly, and I can hear both of them growling. Again. This constant fighting has to end!"
+ pet_animal.2002.desc:0 "I take a step outside when [ROOT.Char.Custom('CatStoryName')] and [ROOT.Char.Custom('DogStoryName')] hove into view from opposing directions.\n\nI have no time to react – they are at each other's throats in seconds. Tufts of [ROOT.Char.Custom('DogFurColor')] fur fly, and I can hear both of them growling. Again. This constant fighting has to end!"
  pet_animal.2002.a:0 "Stop this at once, [ROOT.Char.Custom('DogStoryName')]!"
  pet_animal.2002.a.tt:0 "I try to control the dog"
  pet_animal.2002.b:0 "[ROOT.Char.Custom('CatStoryName')], that's enough!"
@@ -282,13 +282,13 @@
 ## OTHER PEOPLE
 ##############
  pet_animal.5001.t:0 "The Enemy's Cat"
- pet_animal.5001.desc:0 "As I pass by [rival_home.GetName] on a business errand I am approached by a [rival.Custom('CatFurColor')] cat. Where have I seen this cat before...? Ah! It's my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('rival'))] [rival.GetTitledFirstNamePossessive] cat [rival.Custom('CatStoryName')]!\n\nAs it meows up at me and purr I feel a vicious smile spread across my face."
+ pet_animal.5001.desc:0 "As I pass by [rival_home.GetName] on an errand, I am approached by a [rival.Custom('CatFurColor')] cat. Where have I seen this cat before...? Ah! It's my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('rival'))] [rival.GetTitledFirstNamePossessive] cat [rival.Custom('CatStoryName')]!\n\nAs it meows up at me and purr I feel a vicious smile spread across my face."
  pet_animal.5001.a:0 "#EMP Pss pss#! – I won't hurt you..."
  pet_animal.5001.a.tt:0 "It's just a quick slice of a knife"
  pet_animal.5001.b:0 "I will pet that oaf's cat so good!"
 
  pet_animal.5002.t:0 "The Enemy's Dog"
- pet_animal.5002.desc:0 "As I pass by [rival_home.GetName] on a business errand I am approached by a [rival.Custom('DogFurColor')] dog. Where have I seen this dog before...? Ah! It's my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('rival'))] [rival.GetTitledFirstNamePossessive] dog [rival.Custom('DogStoryName')]!\n\nI feel a vicious smile spread across my face as it barks happily at me with a wagging tail."
+ pet_animal.5002.desc:0 "As I pass by [rival_home.GetName] on an errand, I am approached by a [rival.Custom('DogFurColor')] dog. Where have I seen this dog before...? Ah! It's my [ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('rival'))] [rival.GetTitledFirstNamePossessive] dog [rival.Custom('DogStoryName')]!\n\nI feel a vicious smile spread across my face as it barks happily at me with a wagging tail."
  pet_animal.5002.a:0 "Come here, I won't hurt you..."
  pet_animal.5002.b:0 "I will pet that oaf's dog so good!"
 
@@ -311,6 +311,6 @@
  pet_animal.6004.b:0 "You #EMP beast#!!"
 
  pet_animal.6051.t:0 "Petting [ROOT.Char.Custom('CatStoryName')|U]"
- pet_animal.6051.desc:0 "I find [ROOT.Char.Custom('CatStoryName')] sleeping in my chambers, and as I sit down beside [ROOT.Char.Custom('CatStoryHerHim')] I am greeted by a quiet, confused, chirp.\n\nHowever, as I start running my fingers through [ROOT.Char.Custom('CatStoryHerHis')] [ROOT.Char.Custom('CatFurColor')] fur [ROOT.Char.Custom('CatStorySheHe')] quickly starts purring in contentment, and the sound seems to relax my whole being."
+ pet_animal.6051.desc:0 "I find [ROOT.Char.Custom('CatStoryName')] sleeping on my bed, and as I sit down beside [ROOT.Char.Custom('CatStoryHerHim')] I am greeted by a quiet, confused, chirp.\n\nHowever, as I start running my fingers through [ROOT.Char.Custom('CatStoryHerHis')] [ROOT.Char.Custom('CatFurColor')] fur [ROOT.Char.Custom('CatStorySheHe')] quickly starts purring in contentment, and the sound seems to relax my whole being."
 
  pet_animal.6052.desc:0 "I find [ROOT.Char.Custom('CatStoryName')] outside, strutting around the yard. As soon as [ROOT.Char.Custom('CatStorySheHe')] spots me [ROOT.Char.Custom('CatStorySheHe')] meows and saunters over, rubbing up against my leg.\n\nI spend many minutes crouched by [ROOT.Char.Custom('CatStoryHerHis')] side, petting [ROOT.Char.Custom('CatStoryHerHim')] and scratching [ROOT.Char.Custom('CatStoryHerHim')] under the chin, and when I stand back up again I feel lighter than I have in a long time."

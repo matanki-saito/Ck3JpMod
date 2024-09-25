@@ -15,3 +15,8 @@
  ground_type_wet_grass:0 "wet grass"
  ground_type_mulch:0 "mulch"
  ground_type_grass:0 "grass"
+
+ rainy_soil_type_thick_mud: "thick mud"
+ rainy_soil_type_soft_earth: "soft earth"
+ rainy_soil_type_rocky_earth: "rocky earth"
+ rainy_soil_type_sandy_mire: "sandy mire"

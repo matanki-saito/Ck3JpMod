@@ -17,6 +17,8 @@
  treat_sambocade:0 "sambocade"
  treat_sesame_cake:0 "sesame cake"
  treat_baked_banana:0 "baked banana"
+ treat_koptoplakous: "koptoplakous"
+ treat_plakountas: "plakountas tetyromenous"
 
  treat_comfit_uppercase:0 "Comfit"
  treat_roasted_almonds_uppercase:0 "Roasted Almonds"
@@ -34,6 +36,8 @@
  treat_sambocade_uppercase:0 "Sambocade"
  treat_sesame_cake_uppercase:0 "Sesame Cake"
  treat_baked_banana_uppercase:0 "Baked Banana"
+ treat_koptoplakous_uppercase: "Koptoplakous"
+ treat_plakountas_uppercase: "Plakountas Tetyromenous"
 
  education_learning_loc:0 "scholarship"
  education_stewardship_loc:0 "stewardship"
@@ -82,6 +86,10 @@
  private_object_precious_jewelry:0 "precious jewelry"
  private_object_hairbrush:0 "hairbrush"
  private_object_formal_gown:0 "formal gown"
+ private_object_wooden_staff: "wooden staff"
+ private_object_golden_staff: "golden staff"
+ private_object_gilded_staff: "gilded staff"
+ private_object_official_signet: "official signet"
 
  a_whip:0 "a whip"
  a_shoe:0 "a shoe"

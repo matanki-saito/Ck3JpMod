@@ -11,7 +11,7 @@
 
 # Invent code for messages, by Linnéa Thimrén
  intrigue_scheming.1011.t:0 "Need for Secrecy"
- intrigue_scheming.1011.desc:0 ""My [ROOT.Char.GetLadyLord]!"\nI turn to see [council_member.GetTitledFirstName] running towards me, out of breath. "Another messenger has been found dead, my [ROOT.Char.GetLadyLord]. Both pouch and letter stolen."\n\nThird time this year; an irritation growing into a concern. What if the correspondence between me and my vassals is being read by our enemies?"
+ intrigue_scheming.1011.desc:0 ""My [ROOT.Char.GetLadyLord]!"\nI turn to see [council_member.GetTitledFirstName] running towards me, out of breath. "Another messenger has been found dead, my [ROOT.Char.GetLadyLord]. Both pouch and letter stolen."\n\nThird time this year; an irritation growing into a concern. What if the correspondence between me and my agents is being read by our enemies?"
  intrigue_scheming.1011.a:0 "Send after a cryptographer, work begins at once!"
  intrigue_scheming.1011.a.flavor:0 "I will work together with the cryptographer to develop a code."
  intrigue_scheming.1011.b:0 "I need to be more vigilant in the future."
@@ -36,7 +36,7 @@
  intrigue_scheming.1013.c.tt:2 "You gain #T [THIS.Var('intrigue_exp_gain_value').GetValue]#! [intrigue_lqwuljxh|E] points"
 
  intrigue_scheming.1014.desc_alive:0 "Unfortunately, as much as I tried to, I was unable to understand [cryptographer.GetTitledFirstNamePossessive] arcane cryptographic art. \n\nThe [cryptographer.GetWomanMan] assures me that the code [cryptographer.GetSheHe] developed is safe beyond doubt, yet I cannot shake the feeling this was a missed opportunity for me to refine my skills."
- intrigue_scheming.1014.desc_dead:0 "With [cryptographer.GetTitledFirstName] dead, my efforts to create a secret code to safely exchange sensitive information will need to be put on hold. \n\nI can only hope another opportunity to improve my court's defenses against espionage will arrive soon."
+ intrigue_scheming.1014.desc_dead:0 "With [cryptographer.GetTitledFirstName] dead, my efforts to create a secret code to safely exchange sensitive information will need to be put on hold. \n\nI can only hope another opportunity to improve my [ROOT.Char.Custom('GetCourt')]'s defenses against espionage will arrive soon."
  intrigue_scheming.1014.a:0 "What a shame..."
 
 # Hired spies construct a report of your castle's weaknesses, by Linnéa Thimrén
@@ -75,7 +75,7 @@
  
 # Gain Intrigue Mentor, by Linnéa Thimrén
  intrigue_scheming.2001.t:0 "The Teacher"
- intrigue_scheming.2001.desc:0 ""I have noticed your interest in the arts of... subterfuge, my [ROOT.Char.GetLadyLord]. I might be able to help you to learn even more."\n\nMy [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('future_mentor') )] [future_mentor.GetTitledFirstName] smiles [future_mentor.Custom('quirk_pos_adverb')] as [future_mentor.GetSheHe] joins me in the gardens. [future_mentor.GetSheHe|U] is as renowned as anyone with these sets of skills can get, and I #EMP would#! like to deepen my knowledge of intrigue."
+ intrigue_scheming.2001.desc:0 ""I have noticed your interest in the arts of... subterfuge, my [ROOT.Char.GetLadyLord]. I might be able to help you to learn even more."\n\nMy [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('future_mentor') )] [future_mentor.GetTitledFirstName] smiles [future_mentor.Custom('quirk_pos_adverb')] as [future_mentor.GetSheHe] joins me in [SelectLocalization( IsLandlessAdventurer(ROOT.Char),ROOT.Char.Custom('GetRandomCampBuilding'),'my gardens')]. [future_mentor.GetSheHe|U] is as renowned as anyone with these sets of skills can get, and I #EMP would#! like to deepen my knowledge of intrigue."
  intrigue_scheming.2001.a:0 ""Lead the way.""
  intrigue_scheming.2001.b:0 "I would be naive to trust someone with [future_mentor.GetHerHis] skills."
 
@@ -86,13 +86,13 @@
  intrigue_scheming.2101.b:0 "You are not the [sneaky_person.GetWomanMan] for the job."
 
  intrigue_scheming.2102.t:0 "The Loyal [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sneaky_person') )|U]"
- intrigue_scheming.2102.desc:0 "I stand in the shadows of the hallway, watching my new [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sneaky_person') )] [sneaky_person.GetTitledFirstName] disappear into the night.\n\nAnother evening, another mysterious meeting, and my suspicion towards the [sneaky_person.GetWomanMan] is only grows."
+ intrigue_scheming.2102.desc:0 "I stand in the shadows of the [ROOT.Char.Custom('GetCourtyard')], watching my new [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sneaky_person') )] [sneaky_person.GetTitledFirstName] disappear into the night.\n\nAnother evening, another mysterious meeting, and my suspicion towards the [sneaky_person.GetWomanMan] is only grows."
  intrigue_scheming.2102.a:0 "[sneaky_person.GetFirstNameNoTooltip], what are you up to?!"
  intrigue_scheming.2102.a.tt:1 "[sneaky_person.GetSheHe|U] does not catch on to your investigation"
  intrigue_scheming.2102.b.tt:1 "[sneaky_person.GetSheHe|U] realizes you are investigating [sneaky_person.GetHerHim]"
  intrigue_scheming.2102.b:0 "It is probably nothing."
 
- intrigue_scheming.2103.desc_not_noticed:0 ""[sneaky_person.GetSheHe|U] is working for [sneaky_person_scheme_owner.GetTitledFirstName]?!"\n\nIn [sneaky_person.GetTitledFirstNamePossessive] chambers I find a letter that leaves no room for misunderstanding. [sneaky_person.GetSheHe|U] has been plotting against me, playing the role of loyal [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sneaky_person') )] only as a guise."
+ intrigue_scheming.2103.desc_not_noticed:0 ""[sneaky_person.GetSheHe|U] is working for [sneaky_person_scheme_owner.GetTitledFirstName]?!"\n\nIn [sneaky_person.GetTitledFirstNamePossessive] [ROOT.Char.Custom('GetChamberPlural')] I find a letter that leaves no room for misunderstanding. [sneaky_person.GetSheHe|U] has been plotting against me, playing the role of loyal [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sneaky_person') )] only as a guise."
  intrigue_scheming.2103.desc_noticed:0 ""My [ROOT.Char.GetLadyLord], what can I do for you?"\n\nDespite my best effort there seems to be nothing sinister about [sneaky_person.GetTitledFirstName], except for [sneaky_person.GetHerHis] strange nightly habits."
  intrigue_scheming.2103.a:0 "To the dungeons with [sneaky_person.GetHerHim]!"
  intrigue_scheming.2103.b:0 "Throw [sneaky_person.GetHerHim] out."
@@ -131,13 +131,13 @@
  intrigue_scheming.3014.desc:0 "[hooked_courtier.GetTitledFirstName] could find no incriminating information about [new_target.GetTitledFirstName]. Unfortunately, the rumors I had planted so carefully seem to have gained little traction, and no one would believe the accusations I have been ready to level at the [new_target.GetTitleTierName].\n\nMoreover, the false rumors have been traced back to me!"
  intrigue_scheming.3014.a:0 "What are a few harmless lies among friends?"
 
- intrigue_scheming.3021.desc:0 "The screams could be heard throughout the [new_target.Custom('ResidenceBuilding')]. Rushing servants left the befuddled [new_target.GetTitledFirstName] staring at the bloody corpse of [hooked_courtier.GetTitledFirstName] lying in [new_target.GetHerHis] chambers, [new_target.GetHerHis]'s knife next to it.\n\n"I was in the garden by myself, you must believe me!" [new_target.GetSheHe] insists to the gathering throng of courtiers. Who would ever believe such a flimsy excuse?"
+ intrigue_scheming.3021.desc:0 "The screams could be heard throughout the [new_target.Custom('ResidenceBuilding')]. Rushing servants left the befuddled [new_target.GetTitledFirstName] staring at the bloody corpse of [hooked_courtier.GetTitledFirstName] lying in [new_target.GetHerHis] [new_target.Custom('GetChamberPlural')], [new_target.GetHerHis]'s knife next to it.\n\n"I was in the garden by myself, you must believe me!" [new_target.GetSheHe] insists to the gathering throng of [new_target.Custom('GetCourtierPlural')]. Who would ever believe such a flimsy excuse?"
  intrigue_scheming.3021.a:0 "I love leaving people gifts!"
 
- intrigue_scheming.3022.desc:0 "My attempt to frame [new_target.GetTitledFirstName] has ended in disaster! [hooked_courtier.GetFirstName] was still breathing by the time the servants found [hooked_courtier.GetHerHim] bleeding out in the [new_target.GetTitleTierName]'s chambers.\n\nWhen [new_target.GetFirstName] arrived, [hooked_courtier.GetFirstName] only had a single breath left. "[ROOT.Char.GetTitledFirstName]...""
+ intrigue_scheming.3022.desc:0 "My attempt to frame [new_target.GetTitledFirstName] has ended in disaster! [hooked_courtier.GetFirstName] was still breathing by the time the servants found [hooked_courtier.GetHerHim] bleeding out in the [new_target.GetTitleTierName]'s [new_target.Custom('GetChamberPlural')].\n\nWhen [new_target.GetFirstName] arrived, [hooked_courtier.GetFirstName] only had a single breath left. "[ROOT.Char.GetTitledFirstName]...""
  intrigue_scheming.3022.a:0 "I would kill [hooked_courtier.GetHerHim] if I hadn't already!"
 
- intrigue_scheming.3023.desc:0 "It was meant to be perfect, and yet... [hooked_courtier.GetTitledFirstName] would be found in the [new_target.GetTitleTierName]'s chambers, throat slit by the [new_target.GetTitleTierName]'s knife, at a time when the [new_target.GetTitleTierName] had no other alibi.\n\nHowever, half a dozen servants could confirm that [new_target.GetTitledFirstName] out riding that day, making it impossible for [new_target.GetHerHim] to be the killer."
+ intrigue_scheming.3023.desc:0 "It was meant to be perfect, and yet... [hooked_courtier.GetTitledFirstName] would be found in the [new_target.GetTitleTierName]'s [new_target.Custom('GetChamberPlural')], throat slit by the [new_target.GetTitleTierName]'s knife, at a time when the [new_target.GetTitleTierName] had no other alibi.\n\nHowever, half a dozen servants could confirm that [new_target.GetTitledFirstName] out riding that day, making it impossible for [new_target.GetHerHim] to be the killer."
  intrigue_scheming.3023.a:0 "What a waste of a good victim!"
 
  intrigue_scheming.3031.desc:0 "My reputation for getting what I want, whatever means necessary, benefits me greatly. With many of my vassals and servants cowering before me, it does not take much to convince others to follow suit.\n\nIt was enough for [hooked_courtier.GetTitledFirstName] to find [new_target.GetTitledFirstName] alone one evening and pass along a letter with my seal. The [new_target.GetTitleTierName] understands how easily I can reach [new_target.GetHerHim]."
@@ -162,7 +162,7 @@
  intrigue_scheming.3042.desc:0 "[liege_target.GetTitledFirstName] looks aghast, as if [vassal_target.GetTitledFirstNamePossessive] betrayal is a #EMP complete#! surprise. "You are willing to back any demand made by this... this [ROOT.Char.Custom('InsultNoun')]?!"\n\n[vassal_target.GetFirstName] plays along, nodding sternly — as planned. I smile at my soon-to-be new pawn. "Do not for a moment believe [vassal_target.GetSheHe] is alone, either.""
  intrigue_scheming.3042.a:0 "Now, what I would like you to do..."
 
- intrigue_scheming.3043.desc:0 ""Do not believe I can be coerced so easily!" [liege_target.GetTitledFirstName] proclaims. [vassal_target.GetTitledFirstName] seems to shrink before [liege_target.GetHerHim], no longer filled with the confidence [vassal_target.GetSheHe] had offered to back up my demands.\n\nThe [liege_target.GetTitleTierName] dashes my last hopes. "My vassals know their place." [vassal_target.GetFirstName] confirms it with [vassal_target.GetHerHis] silence."
+ intrigue_scheming.3043.desc:0 ""Do not believe I can be coerced so easily!" [liege_target.GetTitledFirstName] proclaims. [vassal_target.GetTitledFirstName] seems to shrink before [liege_target.GetHerHim], no longer filled with the confidence [vassal_target.GetSheHe] had offered to back up my demands.\n\nThe [liege_target.GetTitleTierName] dashes my last hopes. "My [liege_target.Custom('GetFollowerOrVassalPlural')] know their place." [vassal_target.GetFirstName] confirms it with [vassal_target.GetHerHis] silence."
  intrigue_scheming.3043.a:0 "I seem to have overplayed my hand..."
 
  intrigue_scheming.3051.desc:0 "I had lured [liege_target.GetTitledFirstName] to [vassal_target.GetTitledFirstNamePossessive] dungeon, on the [vassal_target.GetTitleTierName]'s invitation. There I was waiting, ready to torture our host in a display of my power. [liege_target.GetFirstName] did not react as I expected.\n\n"One might think you had never done this before!"\nI watched in shock as [liege_target.GetSheHe] took charge and made [vassal_target.GetFirstName] last until dawn. But no further."
@@ -226,15 +226,15 @@
 
 # Passing Suspicion, by Sean Hughes
  intrigue_scheming.4040.t:0 "Passing Suspicion"
- intrigue_scheming.4040.desc:0 "It is a well-known fact that courtiers will scheme and plot, but I may be able to use this to my advantage.\n\nIf I can keep my courtiers suspicious of each other and distracted with infighting, they will not have the time or resources to scheme against me!"
+ intrigue_scheming.4040.desc:0 "It is a well-known fact that [ROOT.Char.Custom('GetCourtierPlural')] will scheme and plot, but I may be able to use this to my advantage.\n\nIf I can keep my [ROOT.Char.Custom('GetCourtierPlural')] suspicious of each other and distracted with infighting, they will not have the time or resources to scheme against me!"
  intrigue_scheming.4040.a:0 "I will begin spreading rumors at once!"
- intrigue_scheming.4040.a.success:0 "The rumors cause my courtiers to distrust each other"
+ intrigue_scheming.4040.a.success:0 "The rumors cause my [ROOT.Char.Custom('GetCourtierPlural')] to distrust each other"
  intrigue_scheming.4040.a.success.tt:0 "[courtier_1.GetFirstName], [courtier_2.GetFirstName] and [courtier_3.GetFirstName] lose #N [EmptyScope.ScriptValue('medium_positive_opinion')|N0]#! [opinion|E] of each other."
- intrigue_scheming.4040.a.success.desc:0 "The rumors I spread around my court have created distrust among several of my courtiers"
+ intrigue_scheming.4040.a.success.desc:0 "The rumors I spread around my [ROOT.Char.Custom('GetCourt')] have created distrust among several of my [ROOT.Char.Custom('GetCourtierPlural')]"
  intrigue_scheming.4040.a.failure:0 "The rumors are dismissed as meaningless tripe"
- intrigue_scheming.4040.a.failure.tt:1 "The rumors you spread around your court were dismissed as meaningless tripe"
+ intrigue_scheming.4040.a.failure.tt:1 "The rumors you spread around your [ROOT.Char.Custom('GetCourt')] were dismissed as meaningless tripe"
  intrigue_scheming.4040.b:0 "As long as I place some spies among them, I will be safe."
- intrigue_scheming.4040.c.dread:0 "My courtiers already know not to plot against me!"
+ intrigue_scheming.4040.c.dread:0 "My [ROOT.Char.Custom('GetCourtierPlural')] already know not to plot against me!"
  intrigue_scheming.4040.c.dread.tt:1 "This option is available because of your high [dread|E]."
 
 # Information Brokering, by Sean Hughes
@@ -387,9 +387,11 @@
  realm_has_more_than_2_siegeable_holdings_trigger_desc_not:0 "Fewer than 2 of the enemy's holdings can be sieged"
 
  intrigue_scheming.1801.t:0 "An Anonymous Informant"
- intrigue_scheming.1801.desc:0 "My [spymaster.GetCouncilTitle] [spymaster.GetFirstName] rushes into the room and hands me an anonymous letter [spymaster.GetSheHe] has just received. It appears we have a unique opportunity to acquire information about [enemy.GetTitledFirstNamePossessive] defense strategies.\n\nThe letter reads:\n\n"If you desire information about [enemy.GetFirstNamePossessiveNoTooltip] defenses, have your [spymaster.GetCouncilTitle] [spymaster.GetFirstNameNoTooltip] meet me in [meeting_place.GetName] within a fortnight. Bring plenty of gold.""
+ intrigue_scheming.1801.desc:0 "and hands me an anonymous letter [spymaster.GetSheHe] has just received. It appears we have a unique opportunity to acquire information about [enemy.GetTitledFirstNamePossessive] defense strategies.\n\nThe letter reads:\n\n"If you desire information about [enemy.GetFirstNamePossessiveNoTooltip] defenses, have your [spymaster.GetCouncilTitle] [spymaster.GetFirstNameNoTooltip] meet me in [meeting_place.GetName] within a fortnight. Bring plenty of gold.""
  intrigue_scheming.1801.a:0 "I would be a fool not to investigate this."
  intrigue_scheming.1801.b:0 "This is nothing but empty extortion."
+ intrigue_scheming.1801_landed: "My [spymaster.GetCouncilTitle] [spymaster.GetFirstName] rushes into the room"
+ intrigue_scheming.1801_laamp: "My [GetCourtPositionType('second_camp_officer').GetNameNoTooltip] [spymaster.GetFirstName] rushes into the tent"
 
  intrigue_scheming.1802.intro_desc:0 "[spymaster.GetFirstName] has returned from meeting with the anonymous informant. With a grave look on [spymaster.GetHerHis] face, [spymaster.GetSheHe] spreads out a sheaf of parchment inscribed with what appear to be my enemy's defense tactics."
  intrigue_scheming.1802.g_high_skill_desc:0 "$intrigue_scheming.1802.intro_desc$\n\nAs far as I can tell, these schematics for [enemy.GetFirstNamePossessive] defense plans seem as genuine as they could be."

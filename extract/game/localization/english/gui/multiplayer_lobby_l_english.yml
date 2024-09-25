@@ -11,4 +11,12 @@
  MULTIPLAYER_LOBBY_PLAYED_BY_YOU:0 "Your Character"
  FAITH_LOBBY_WINDOW:0 "[Faith.GetAdjectiveNoTooltip]"
  CULTURE_LOBBY_WINDOW:0 "[Culture.GetNameNoTooltip]"
- 
+ lobby_tab_character: "Character"
+ lobby_tab_landless_rulers: "Landless Rulers"
+ lobby_landless_ruler_name: "[Character.GetNameNoTooltip|U] | [Character.GetAge] [Select_CString( Not( EqualTo_int32( Character.GetHealthIconFrame, '(int32)4' ) ), Select_CString( Not( EqualTo_int32( Character.GetHealthIconFrame, '(int32)3' ) ), Select_CString( Not( EqualTo_int32( Character.GetHealthIconFrame, '(int32)2' ) ), '@health_icon_excellent!', '@health_icon!' ), '@health_icon_poor!' ), '@health_icon_dying!' )]"
+ lobby_landless_domicile_location: "[Character.GetDomicile.GetType.GetNameNoTooltip] Location: [Character.GetDomicile.GetLocation.GetName]"
+ lobby_landless_domicile_followers: "[Character.GetDomicile.GetType.GetNameNoTooltip] Followers: [GetDataModelSize( Character.GetCourt )]"
+ lobby_landless_government_filter_tt: "Click to select a playable [unlanded|e] [government|e] to filter the list by."
+ lobby_landless_government_filter: "Landless Government Filter"
+ lobby_more_domiciles_count: "+[Subtract_int32( LobbyHelperWindow.CountFilteredDomicilesInProvince( Province.Self ), '(int32)1')]"
+

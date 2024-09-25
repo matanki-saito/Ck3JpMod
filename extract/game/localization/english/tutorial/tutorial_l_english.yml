@@ -131,22 +131,22 @@
  lesson_basics_quick_find_spouse_tt: "Get married"
 
  lesson_basics_quick_married_great_job: "Your Spouse"
- lesson_basics_quick_married_great_job_desc: "Congratulations on getting married! The union between you and your [spouse|e] has forged an [alliance|e] between you and the [ruler|e] of the [realm|e] your $game_concept_spouse$ hails from. This means you can call on one another to join [wars|e]!\n\n#TUT If there are no other living members of your [dynasty|e] left after your character dies, you lose the game. Having a $game_concept_spouse$ can help you prevent this."
+ lesson_basics_quick_married_great_job_desc: "Congratulations on getting married! The union between you and your [spouse|e] has forged an [alliance|e] between you and the [ruler|e] of the [realm|e] your $game_concept_spouse$ hails from. This means you can call on one another to join [wars|e]!\n\n#TUT If there are no other living members of your [dynasty|e] left after your character dies, you lose the game. Having a $game_concept_spouse$ can help you prevent this.#!"
 
  lesson_basics_quick_this_is_you_3: "Traits"
- lesson_basics_quick_this_is_you_3_desc: "Next, let's take a look at your character's [traits|e]! As you can see, he is @temperate_icon_tutorial! [GetTrait('temperate').GetName( GetNullCharacter )], @gregarious_icon_tutorial! [GetTrait('gregarious').GetName( GetNullCharacter )], and @impatient_icon_tutorial! [GetTrait('impatient').GetName( GetNullCharacter )].\n\n#TUT $game_concept_traits$ affect how your character reacts to events in the game world. You can also acquire new traits as you play."
+ lesson_basics_quick_this_is_you_3_desc: "Next, let's take a look at your character's [traits|e]! As you can see, he is @temperate_icon_tutorial! [GetTrait('temperate').GetName( GetNullCharacter )], @gregarious_icon_tutorial! [GetTrait('gregarious').GetName( GetNullCharacter )], and @impatient_icon_tutorial! [GetTrait('impatient').GetName( GetNullCharacter )].\n\n#TUT $game_concept_traits$ affect how your character reacts to events in the game world. You can also acquire new traits as you play.#!"
 
  lesson_basics_quick_skills: "Skills"
- lesson_basics_quick_skills_desc: "Characters also have [skills|e]! Let's take a look at them.\n\n[diplomacy_i|e][diplomacy|e], [martial_i|e][martial|e], [stewardship_i|e][stewardship|e], [intrigue_i|e][intrigue|e], [learning_i|e][learning|e], and [prowess_i|e][prowess|e] define your character's abilities.\n\n#TUT $game_concept_skills$ can change throughout the course of the game based on your actions."
+ lesson_basics_quick_skills_desc: "Characters also have [skills|e]! Let's take a look at them.\n\n[diplomacy_i|e][diplomacy|e], [martial_i|e][martial|e], [stewardship_i|e][stewardship|e], [intrigue_i|e][intrigue|e], [learning_i|e][learning|e], and [prowess_i|e][prowess|e] define your character's abilities.\n\n#TUT $game_concept_skills$ can change throughout the course of the game based on your actions.#!"
 
  lesson_basics_quick_your_domain_1: "Your Domain"
  lesson_basics_quick_your_domain_desc_1: "@tutorial_screenshot_2! Next, let's take a look at your [domain|e], which consists of all the land you personally own. An overview of your $game_concept_domain$ is displayed in the highlighted section."
  
  lesson_basics_quick_your_domain_2: "Your Coat of Arms"
- lesson_basics_quick_your_domain_desc_2: "This is the Coat of Arms of the [GetPlayer.GetPrimaryTitle.GetName]. It's used to represent your [realm|e] in various places. For instance, you can see it floating over your [capital|e], $cn_luimneach$.\n\n#TUT See the little crown above your Coat of Arms? That represents its [title_tier|e]. As $game_concept_title_tiers$ progress in rank, the crown atop their associated Coat of Arms will have more extravagant crowns!"
+ lesson_basics_quick_your_domain_desc_2: "This is the Coat of Arms of the [GetPlayer.GetPrimaryTitle.GetName]. It's used to represent your [realm|e] in various places. For instance, you can see it floating over your [capital|e], $cn_luimneach$.\n\n#TUT See the little crown above your Coat of Arms? That represents its [title_tier|e]. As $game_concept_title_tiers$ progress in rank, the crown atop their associated Coat of Arms will have more extravagant crowns!#!"
 
  lesson_basics_quick_your_domain_3: "Your Titles"
- lesson_basics_quick_your_domain_desc_3: "You currently hold a total of three [titles|e], which all represent territories on the map. Your primary, and most important, $game_concept_title$ is the leftmost one. It determines the name of your [realm|e]. You also possess the $game_concept_titles$ $c_thomond$ and $c_ennis$. \n\n#TUT Hovering over the $game_concept_titles$ in your Character Panel will show you what territory they represent on the map."
+ lesson_basics_quick_your_domain_desc_3: "You currently hold a total of three [titles|e], which all represent territories on the map. Your primary, and most important, $game_concept_title$ is the leftmost one. It determines the name of your [realm|e]. You also possess the $game_concept_titles$ $c_thomond$ and $c_ennis$. \n\n#TUT Hovering over the $game_concept_titles$ in your Character Panel will show you what territory they represent on the map.#!"
  
  lesson_basics_quick_relationships: "Other Characters"
  lesson_basics_quick_relationships_desc: "@tutorial_screenshot_3!\nIn this section, you can see a variety of other [characters|e] that you have a connection with. This includes your [family|e], anyone you have a [relationship|e] with, your [courtiers|e], and your [vassals|e]."
@@ -200,7 +200,7 @@
  lesson_basics_quick_resources_renown_desc: "[dynasty_prestige_i|e] [dynasty_prestige|e] represents how influential your [dynasty|e] is, and can be spent on decisions that will shape your family's future.\n\n$game_concept_dynasty_prestige$ is tied to your [dynasty_prestige_level|e], which is an overall measure of how famous your $game_concept_dynasty$ is."
 
  lesson_basics_quick_resources_time: "Time"
- lesson_basics_quick_resources_time_desc: "Now that we're done talking about resources, let's wrap this up with some final pieces of advice. Right now, the game is paused. You can control how fast time progresses in the world in the bottom right corner.\n\n#TUT Crusader Kings III is a game that plays out over the course of hundreds of years, so feel free to take your time.#"
+ lesson_basics_quick_resources_time_desc: "Now that we're done talking about resources, let's wrap this up with some final pieces of advice. Right now, the game is paused. You can control how fast time progresses in the world in the bottom right corner.\n\n#TUT Crusader Kings III is a game that plays out over the course of hundreds of years, so feel free to take your time.#!"
 
  lesson_basics_quick_unpause_tt: "Unpause the game by pressing the Spacebar, or by clicking the button in the bottom right"
 
@@ -220,7 +220,7 @@
  lesson_basics_tooltips_in_tooltips_complete:0 "$lesson_basics_tooltips_in_tooltips$"
  lesson_basics_tooltips_in_tooltips_complete_desc:0 "$lesson_basics_tooltips_in_tooltips_desc$"
 
- #  @test_flower! [pic|E]"
+ # @test_flower! [pic|E]"
  lesson_basics_web_of_titles:0 "Rulers of Land ($lesson_basics_map$)"
  lesson_basics_web_of_titles_desc:2 "Now, let's talk about the #EMP game#!! Everything takes place on the map before you. The world consists of large and small territories — landed [titles|E] held by various [rulers|E].\n\n#TUT $game_concept_titles$ are represented by elaborate coats of arms, shown as icons on the map.\n\nThe icon representing your [realm|E] is that of your [primary_title|E], the most important and prestigious $game_concept_title$ you hold.#!"
  #\n\n@coa_icon!"
@@ -323,7 +323,7 @@
  lesson_basics_dynasty_and_house:0 "Dynasty and House ($lesson_basics_titles$)"
  lesson_basics_dynasty_and_house_desc:0 "Family is important! The [player_heir|E] will always come from your [dynasty|E], and most often from your [house|E].\n\n#TUT In the future, it won't hurt to keep an eye on your family — and #EMP their #! [line_of_succession|E]. Depending on their [succession_laws|E], you might end up inheriting [titles|E] (along with land and [vassals|E]) from your relatives.#!"
 
-# Titles &  Holdings
+# Titles & Holdings
  lesson_basics_landed_titles:0 "Land and Titles ($lesson_basics_titles$)"
  lesson_basics_landed_titles_desc:2 "Not everyone in your [dynasty|E] will be land owners, but every plot of land on the map #EMP has#! an owner.\n\nSometimes that owner is you, sometimes it's one of your [vassals|E], and sometimes it's another [realm|E] entirely (many of whom also have, or are, $game_concept_vassals$)."
  lesson_basics_de_jure_titles:0 "Titles ($lesson_basics_titles$)"
@@ -355,7 +355,7 @@
  lesson_basics_vassals_concept_great_job:0 "$lesson_basics_vassals_concept$"
  lesson_basics_vassals_concept_great_job_desc:2 "Here is a list of your current [vassals|E], along with some additional information about them.\n\nAt the top of the list is the [ruler|E] of $c_ormond$, whose land you can see on the map — this is an Earldom (a [county|E]-[title_tier|E] [title|E]) inside your [realm|E].\n\n#TUT Come here for an overview of things, such as your Vassals' current [opinion|E] of you, whether they are considered a [powerful_vassal|E] or not, and the levels of [taxes|E] and [levies|E] they are currently providing you with.#!"
  lesson_basics_vassals_concept_greyed_out:0 "$lesson_basics_vassals_concept$"
- lesson_basics_vassals_concept_greyed_out_desc:0 "This is also where you can change [feudal_contracts|E], which determines how much (or little) [levies|E] and [taxes|E] a Feudal [vassal|E] gives you."
+ lesson_basics_vassals_concept_greyed_out_desc:0 "This is also where you can change [vassal_contracts|E], which determines how much (or little) [levies|E] and [taxes|E] a Feudal [vassal|E] gives you."
 
  lesson_basics_happy_vassals:0 "$lesson_basics_vassals_concept$"
  lesson_basics_happy_vassals_desc:2 "It's worthwhile keeping your [vassals|E] happy — this keeps them out of [schemes|E] and [factions|E] against you.\n\nNo matter how mighty a [ruler|E] your [character|E] is, if your [realm|E] unites against you, either to [depose|E] you through [war|E] or just to [GetScheme('murder').GetTypeName] you while you sleep, your reign is bound to be cut short.\n\n#TUT Some of your Vassals might serve on your [council|E], making their [opinion|E] extra important, as they will be trusted with [councillor_tasks|E].#!"
@@ -394,7 +394,7 @@
  lesson_basics_hooks:0 "Secrets ($lesson_basics_schemes$)"
  lesson_basics_hooks_desc:3 "Sometimes [schemes|E] can give rise to [secrets|E] — if you catch someone trying to commit [GetScheme('murder').GetTypeName], it's probably in their best interests to make sure you keep it quiet.\n\nYou can also [blackmail|E] them, to gain a [hook|E]! $game_concept_hooks$ represent a favor you can call in or a hold you have over a particular [character|E], letting you encourage (or force) them to do your bidding.\n\nAs you play, you'll find many different ways to gain and use $game_concept_hooks$. Experiment with them!\n\n#TUT Next, let's pretend you have managed to get a [hook|E] on one of your [vassals|E]...#!"
  lesson_basics_hooks_complete:0 "Hooks ($lesson_basics_schemes$)"
- lesson_basics_hooks_complete_desc:4 "This [weak_hook|E] can be used for a number of things. For example, you can increase the [obligations|E] set by the [feudal_contract|E] you have with a Feudal Vassal.\n\n#TUT To access the menu for changing your Feudal Contract, go to your Vassal list in the Realm view, or right-click his portrait to choose #TUT_KW Modify Feudal Contract.#!\n\nYou may notice that some interactions are not immediately visible. When you have many interactions available, the [character|E] interaction menu only displays the most common ones.\n\nTo display missing interactions, click the "More..." button in a category.#!"
+ lesson_basics_hooks_complete_desc:4 "This [weak_hook|E] can be used for a number of things. For example, you can increase the [obligations|E] set by the [vassal_contract|E] you have with a [GetGovernment('feudal_government').GetName] [vassal|E].\n\n#TUT To access the menu for changing your Vassal Contract, go to your Vassal list in the Realm view, or right-click his portrait to choose #TUT_KW Modify Vassal Contract.#!\n\nYou may notice that some interactions are not immediately visible. When you have many interactions available, the [character|E] interaction menu only displays the most common ones.\n\nTo display missing interactions, click the "More..." button in a category.#!"
 
 # Culture
  lesson_basics_culture_open_view:1 "Cultures"

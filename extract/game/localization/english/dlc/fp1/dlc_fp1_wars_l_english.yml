@@ -2,6 +2,7 @@
  VIKING_ARMY_MEN_NAME:0 "Northmen Army"
  VIKING_ARMY_WOMEN_NAME:0 "Northwomen Army"
  VIKING_ARMY_NEUTRAL_NAME:0 "Northerner Army"
+ VIKING_ARMY_adj: "Northerner"
  scandi_adventurer_event_troops:0 "Viking Adventurers"
  fp1_scandi_adventurer_conquest:0 "Viking Adventurer"
  fp1_jomsvikings_event_troops:0 "Jomsvikingr Volunteers"

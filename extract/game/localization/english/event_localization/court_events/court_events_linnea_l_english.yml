@@ -42,7 +42,7 @@
  court.5030.desc_ending:0 "\n\n[child.GetFirstNameNoTooltip] sees me looking and waves for me to join [child.GetHerHim]."
  court.5030.a:0 "Bring me my [ROOT.Char.Custom('child_favorite_toy')]!"
  court.5030.b_young:0 "No, I have to be serious."
- court.5030.b:0 "This is no place for games."
+ court.5030.b:0 "No, I have to study."
 
  court.5040.t:0 "Pranking Spree"
  court.5040.desc:0 "Yet again I am forced to listen to people complain – [prank_alternative_1.Custom2('MyCharacterIntroduction', ROOT.Char)] wants attention, [prank_alternative_2.Custom2('MyCharacterIntroduction', ROOT.Char)] claims that my court has grown dull, and [prank_alternative_3.Custom2('MyCharacterIntroduction', ROOT.Char)] thinks there has been too many meals containing animal bladders lately, of all things.\n\n...Hold on, I have an idea."
@@ -78,7 +78,7 @@
 
  court.5055.t:0 "Colorful Talent"
  court.5055.desc:0 "I find [painter.Custom2('MyCharacterIntroduction', ROOT.Char)] sitting on the floor, surrounded by spilled paint and pieces of canvas, for the third time this month.\n\nMy courtiers whisper about [painter.GetHerHim] being an artistic genius in the making, but the servants complain about scrubbing the floors free of paint in the wake of [painter.GetHerHis] #EMP inspirations#!."
- court.5055.a:0 "This has to stop, [painter.GetFirstNameNoTooltip]."
+ court.5055.a:0 "You need to focus on #EMP useful#! studies, [painter.GetFirstNameNoTooltip]."
  court.5055.b:0 "[painter.GetHerHis|U] genius will be nurtured!"
  court.5055.b_tt:0 "[painter.GetFirstNameNoTooltip] continues [painter.GetHerHis] artistic pursuits."
 
@@ -97,15 +97,16 @@
  court.5060.desc:0 "[knight.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has excelled during our recent battles and my court is buzzing with excitement; what an accomplished $knight_culture_player_no_tooltip_lowercase$, what a role model, what a #EMP [knight.GetWomanMan]#!!\n\nWith all the praise raining down on [knight.GetHerHim] it is made clear that I am expected to officially reward [knight.GetHerHim] in some manner."
  court.5060.a:0 "Ehh... I will speak well of [knight.GetHerHim]."
  court.5060.b:0 "[knight.GetSheHe|U] is the new [knight.GetLadyLord] of the [title_to_grant.GetName]!"
- court.5060.c:0 "[knight.GetSheHe|U] will be gifted gold for [knight.GetHerHis] golden achievements!"
+ court.5060.c:0 "A lineage of $knight_culture_player_no_tooltip_lowercase$ most worthy of praise!"
  court.5060.d.champion:0 "[knight.GetSheHe|U] will serve as my $champion_court_position$!"
  court.5060.d.bodyguard:0 "[knight.GetSheHe|U] will serve as my $bodyguard_court_position$!"
+ court.5060.d.akolouthos: "[knight.GetSheHe|U] will serve as my $akolouthos_court_position$!"
 
  court.5070.t:0 "Dedicated Tutor"
  court.5070.desc:0 "[court_tutor.Custom2('MyCharacterIntroduction', ROOT.Char)|U] approach me with concerns regarding the state of our educational materials.\n\n"We can make do, but imagine the heights our children could reach if we only had better materials... New wax tablets, parchment, perhaps even ink!""
  court.5070.a:0 "But you're doing such a great job as it is!"
  court.5070.b:0 "Of course you shall have the funds!"
- court.5070.b.tt:0 "This furthers the education of all children currently being educated at your court"
+ court.5070.b.tt:0 "This furthers the education of all your wards"
 
  court.5075.t:0 "Two Palfreys"
  court.5075.desc_opening:0 "[neighbor.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has bestowed upon me a most gracious gift: a couple of well-bred palfreys, one mare and one stallion!\n\n"

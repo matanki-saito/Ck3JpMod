@@ -9,7 +9,7 @@
  clan_event.2000.e1: "Devote your time to scholarly studies."
  clan_event.2000.e2: "Devote your time to matters of faith. No one is above [ROOT.Char.GetFaith.HighGodName]."
  clan_event.2000.option_f: "You are here to collect taxes, no? Then #EMP get#! me taxes!"
- clan_event.2000.g: "Speak favourably of me as you travel."
+ clan_event.2000.g: "Speak favorably of me as you travel."
  clan_event.2000.a.success: "[improved_tax_collector.GetNameNoTooltip] pleased vassals"
  clan_event.2000.b.success: "[improved_tax_collector.GetNameNoTooltip] unnerves vassals"
  clan_event.2000.c.success: "[improved_tax_collector.GetNameNoTooltip] improves tax collection"

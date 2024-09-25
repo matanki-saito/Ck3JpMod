@@ -28,7 +28,7 @@
  south_asia.0012.a.dislike:0 "As if anyone would respect an opportunist like [ruler_of_ganges.GetHerHim]!"
 
  south_asia.0013.t:0 "My Divine Purpose Usurped"
- south_asia.0013.desc:0 "With my loss of territory, my authority over the Ganges is no longer respected by the people and [ROOT.Char.GetFaith.PriestNeuterPlural] of my realm! Instead [ruler_of_ganges.GetTitledName] has claimed the position I once commanded as the Steward of the Sacred River."
+ south_asia.0013.desc:0 "With my loss of territory, my authority over the Ganges is no longer respected by the people and [ROOT.Char.GetFaith.PriestNeuterPlural] of my realm! Instead [ruler_of_ganges.GetTitledFirstName] has claimed the position I once commanded as the Steward of the Sacred River."
  south_asia.0013.a:0 "That upstart is nothing but a fraud!"
 
  south_asia.0021.t:0 "The [founder.GetTitleAsNameNoTooltip] of $k_bene_israel$"

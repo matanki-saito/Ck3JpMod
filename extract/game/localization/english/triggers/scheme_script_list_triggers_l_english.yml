@@ -12,8 +12,10 @@
  scheme_progress_trigger:0 "Scheme Progress"
  scheme_success_chance_trigger:0 "Scheme success chance"
  has_scheme_modifier_trigger:0 "Has scheme modifier"
- scheme_power_resistance_difference_trigger:0 "Scheme power resistance difference"
  can_start_scheme_trigger:0 "Can start [scheme|E]"
  is_scheme_exposed_trigger:0 "Is [scheme|E] exposed"
 
  NOT_WANTS_TO_BE_SOULMATES:1 "[TARGET_CHARACTER.GetShortUIName] does not want to be soulmates"
+ 
+ IS_SCHEMING_AGAINST_TRIGGER: "Is [scheming|E] against this character"
+ AGENT_SLOT_CONTRIBUTION_TRIGGER: "Agent contribution"

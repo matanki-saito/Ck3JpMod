@@ -30,7 +30,7 @@
  LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:2 "Gain #P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#! of the [Concept('skills','Primary Skill')|E] from [councillors|E] belonging to your [house|E]"
 
 
- inner_circle_salary_mod:0 "$fp2_coterie_legacy_1_name$"
+ inner_circle_salary_mod:0 "[GetDynastyPerk('fp2_coterie_legacy_1').GetName]"
 
  share_known_secrets_interaction:0 "Share Secrets"
  share_known_secrets_interaction.tt.no_secrets_to_share:1 "You feel there are no suitable secrets to share"

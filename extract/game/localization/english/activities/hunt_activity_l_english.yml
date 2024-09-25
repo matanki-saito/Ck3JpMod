@@ -21,6 +21,7 @@
  activity_hunt_province_desc_terrain_terrible:0 "#N -- [ROOT.Province.GetTerrain.GetNameNoTooltip]#! ([terrain|E])\n"
  activity_hunt_province_desc_mismanaged_game:0 "#N - [GetModifier('hunt_mismanaged_game_modifier').GetName]#!"
  activity_hunt_province_desc_punished_poachers:0 "#P + [GetModifier('hunt_punished_locals_modifier').GetName]#!"
+ activity_hunt_province_desc_abundant_game: "#P + [GetModifier('ep3_abundant_game_modifier').GetName]#!"
  activity_hunt_province_desc_no_holding:0 "#P + No [holding|P]#!\n"
  activity_hunt_province_desc_hunting_grounds_minor:1 "#P + $building_type_hunting_grounds_01$#! ([building|E])\n"
  activity_hunt_province_desc_hunting_grounds_medium:1 "#P ++ $building_type_hunting_grounds_01$#! ([building|E])\n"
@@ -38,6 +39,7 @@
  activity_hunt_province_desc_recent_hunt_major:0 "#N --- Recently Held Hunts#!\n"
  activity_hunt_province_desc_recent_hunt_medium:0 "#N -- Recently Held Hunts#!\n"
  activity_hunt_province_desc_recent_hunt_minor:0 "#N - Recently Held Hunt#!\n"
+ activity_hunt_province_desc_wild_predators: "#N - [GetModifier('ep3_wild_predators_modifier').GetName]#!"
  activity_hunt_province_desc_culture:0 "#P + [ROOT.Province.GetTerrain.GetNameNoTooltip]#! ([culture_traditions|E])\n"
  # Host Desc
  activity_hunt_host_desc_piety:0 "$BULLET_WITH_TAB$Participants may gain [piety_i|E][piety|E]\n$BULLET_WITH_TAB$Participants may lose [stress_loss_i][stress|E]\n"
@@ -49,6 +51,7 @@
  activity_hunt_guest_desc_accolade:0 "$BULLET_WITH_TAB$Participating [acclaimed_knights|E] may gain [glory|E]\n"
  activity_hunt_host_desc_animal:0 "\nQuarry [hunt_danger_no_prefix|E]/Rarity Rewards:\n$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$Trophy [artifacts|E]"
  activity_hunt_host_desc_moh:0 "\n@warning_icon! #negative_value You are not employing a [GetCourtPositionType('master_of_hunt_court_position').GetName()]"
+ activity_hunt_host_desc_huntsperson: "\n@warning_icon! #negative_value You are not employing a [GetCourtPositionType('huntperson_camp_officer').GetName()]"
  activity_hunt_host_desc_recent:0 "\n@warning_icon! #negative_value All held [counties|E] have recently hosted a [GetActivityType('activity_hunt').GetName]"
  # Conclusion Desc
  activity_hunt_conclusion_desc_legendary_success:0 "The hunt for the fabled [activity.Custom('GetLegendaryColor')] [activity.Custom('GetAnimalType')] is at last complete! Songs will be sung of this day, and the talents required to lay low such a beast!"
@@ -85,7 +88,7 @@
  hunt_attendants_many_desc:1 "$BULLET_WITH_TAB$Increases [hunt_success_chance_no_prefix|E] markedly$hunt_attendants_roco_tt$\n\n#weak Dedicated groups of hunters are ready to pursue and direct game.#!"
  hunt_option_party_size:0 "Party Size"
  hunt_party_size_few:0 "Intimate Party"
- hunt_party_size_few_desc:0 "$BULLET_WITH_TAB$Your [GetCourtPositionType('master_of_hunt_court_position').GetName()], [GetCourtPositionType('bodyguard_court_position').GetName()], [GetCourtPositionType('court_physician_court_position').GetName()], [spouses|E], [friends|E], [lovers|E], and Hunters join\n\n$BULLET_WITH_TAB$#weak A small band of trusted confidants and courtiers.#!"
+ hunt_party_size_few_desc:0 "$BULLET_WITH_TAB$Your [GetPlayer.Custom('GetHuntMasterTooltipDesc')], [GetCourtPositionType('bodyguard_court_position').GetName()], [GetCourtPositionType('court_physician_court_position').GetName()], [spouses|E], [friends|E], [lovers|E], and Hunters join\n\n#weak A small band of trusted confidants and courtiers.#!"
  hunt_party_size_normal:0 "Reasonable Party"
  hunt_party_size_normal_desc:0 "$BULLET_WITH_TAB$More [prestige_i|E][prestige|E] on completion\n$BULLET_WITH_TAB$Unlanded $knight_culture_player_plural$ and [GetTrait('lazy').GetName( GetNullCharacter )] or martially educated [courtiers|E] and [guests|E] join\n\n#weak A decent group of notables and courtiers of the realm.#!"
  hunt_party_size_many:0 "Substantial Party"
@@ -153,6 +156,8 @@
  hunt_activity_success_increase_medium_tt:0 "[hunt_success_chance_no_prefix|E] #positive_value increases#!"
  hunt_activity_success_increase_major_tt:0 "[hunt_success_chance_no_prefix|E] #positive_value increases greatly#!"
  hunt_activity_success_increase_massive_tt:0 "[hunt_success_chance_no_prefix|E] #positive_value increases tremendously#!"
+ hunt_activity_success_increase_adventurer_initial_medium_tt: "[hunt_success_chance_no_prefix|E] #positive_value increases greatly#!"
+ hunt_activity_success_increase_adventurer_initial_high_tt: "[hunt_success_chance_no_prefix|E] #positive_value increases tremendously#!"
  hunt_activity_success_decrease_minor_tt:0 "[hunt_success_chance_no_prefix|E] #negative_value decreases slightly#!"
  hunt_activity_success_decrease_medium_tt:0 "[hunt_success_chance_no_prefix|E] #negative_value decreases#!"
  hunt_activity_success_decrease_major_tt:0 "[hunt_success_chance_no_prefix|E] #negative_value decreases greatly#!"
@@ -332,7 +337,7 @@
  hunt_completed_host_xp_log:0 "[CHARACTER.GetShortUINamePossessive|U] gained valuable hunting experience"
 
  # Animals
-  # Pursuit
+ # Pursuit
  animal_type_antelope:0 "antelope"
  animal_type_antelope_plural:0 "$animal_type_antelope$"
  animal_type_gazelle:0 "gazelle"
@@ -615,6 +620,7 @@
  terrain_woodland_plural:0 "woodlands"
  terrain_fallback:0 "wilderness"
  terrain_fallback_plural:0 "$terrain_fallback$"
+ 
  # BIRDS
  animal_type_stork:0 "stork"
  animal_type_stork_plural:0 "storks"
@@ -670,3 +676,14 @@
  hunt_animal_slayer_memory_desc_second_perspective:1 "You slew a [SCOPE.Custom('GetAnimalType')] at [host.GetTitledFirstNamePossessive] [GetActivityType('activity_hunt').GetName] in [ROOT.Var('location').Province.GetBaronyNameExplicitly]"
  hunt_animal_slayer_memory_desc_host_third_perspective:1 "[animal_slayer.GetTitledFirstName] slew a [SCOPE.Custom('GetAnimalType')] at [animal_slayer.GetHerHis] [GetActivityType('activity_hunt').GetName] in [ROOT.Var('location').Province.GetBaronyNameExplicitly]"
  hunt_animal_slayer_memory_desc_third_perspective:1 "[animal_slayer.GetTitledFirstName] slew a [SCOPE.Custom('GetAnimalType')] at [host.GetTitledFirstNamePossessive] [GetActivityType('activity_hunt').GetName] in [ROOT.Var('location').Province.GetBaronyNameExplicitly]"
+ 
+ adventurer_3_courtiers: "You need at least #V 3#! [followers|E] capable of hunting"
+ activity_huntmaster_desc_adventurer: "[GetCourtPositionType('huntperson_camp_officer').GetNameNoTooltip()]"
+ activity_huntmaster_desc_regular: "Master of the Hunt"
+ activity_huntmaster_tooltip_desc_adventurer: "[GetCourtPositionType('huntperson_camp_officer').GetName()]"
+ activity_huntmaster_tooltip_desc_regular: "[GetCourtPositionType('master_of_hunt_court_position').GetName()]"
+ followers_adventurer: "camp followers"
+ servants_desc_regular: "servants"
+ flushers_adventurer: "flushers"
+ gamekeepers_regular: "gamekeepers"
+ poacher_opinion: "Poached in #EMP My#! Lands"

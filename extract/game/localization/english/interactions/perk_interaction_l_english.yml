@@ -13,8 +13,10 @@
  buy_claim_interaction.message:0 "[target.GetName] Claimed!"
  BUY_CLAIM_ALREADY_HAS_A_CLAIM:1 "You already have a [claim|E] on this [title|E]"
  BUY_CLAIM_ALREADY_KING_OR_EMPEROR:1 "You cannot buy a [claim|E] on a [kingdom|E] if you already are a [king|E] or [emperor|E]"
- BUY_CLAIM_ALREADY_EMPEROR:1 "You cannot buy a [claim|E] on a [kingdom|E] if you already are an [emperor|E]"
+ BUY_CLAIM_ALREADY_EMPEROR:1 "You cannot buy a [claim|E] on a [empire|E] if you already are an [emperor|E]"
  BUY_CLAIM_RELIGIOUS_TITLE:0 "You cannot buy a [claim|E] on a religious title"
+ BUY_CLAIM_LANDLESS_ADVENTURER_TITLE:0 "You cannot buy a [claim|E] on an [adventurer|E] title"
+ BUY_CLAIM_NOBLE_FAMILY_TITLE: "You cannot buy a [claim|E] on a [noble_family|E] title"
 
  challenge_to_single_combat_interaction:0 "Challenge Rival to Fight"
  challenge_to_single_combat_interaction_desc:0 "Challenge your [rival|E] to a [single_combat_duel|E], inflicting [stress|E] if you win"

@@ -12,7 +12,7 @@
  INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_EMPTY:1 "@warning_icon! #X Someone must attend as the [ACTIVITY_SPECIAL_GUEST.GetNameForHost]#!"
  INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_DECLINED:1 "@warning_icon! #X [CHARACTER.GetUIName|U] is required to attend as the [ACTIVITY_SPECIAL_GUEST.GetNameForHost]#!"
  INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_DEAD:0 "@warning_icon! #X [CHARACTER.GetUIName|U] has died and can no longer attend as the [ACTIVITY_SPECIAL_GUEST.GetNameForHost]#!"
- INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_INVALID:0 "@warning_icon! #X [CHARACTER.GetUIName|U] can no longer attend as the [ACTIVITY_SPECIAL_GUEST.GetNameForHost]#!"
+ INVALID_ACTIVITY_REQUIRED_SPECIAL_GUEST_INVALID:0 "@warning_icon! #X [CHARACTER.GetUIName|U] cannot attend as the [ACTIVITY_SPECIAL_GUEST.GetNameForHost]#!"
  INVALID_ACTIVITY_SINGLE_LOCATION_REQUIRED:0 "@warning_icon! #X All [activity_phases|E] must take place at the same location#!"
  INVALID_ACTIVITY_MAXIMUM_DELAY_DAYS:0 "@warning_icon! #X The activity has been delayed for more than [GetDefine( 'NActivity', 'MAX_PHASE_DELAY_DAYS' )|V] days#!"
  INVALID_ACTIVITY_MISSING_FEATURE_FLAG:0 "@warning_icon! #X Missing DLC feature flag '$FEATURE_FLAG$'#!"
@@ -36,13 +36,25 @@
  activity_filter_realm:0 "[realm|E]"
  activity_filter_top_realm:0 "[top_realm|E]"
  activity_filter_holy_sites:0 "[holy_sites|E]"
+ activity_filter_domicile: "[domicile|E]"
+ activity_filter_domicile_domain: "[domicile|E] [domain|E]"
+ activity_filter_domicile_realm: "[domicile|E] [realm|E]"
+
+ GOVERNMENT_ADJECTIVE: "[Character.GetGovernment.GetAdjective]"
+ GOVERNMENT_ADJECTIVE_ICON: "[Character.Custom('GetGovernmentIcon')] [Character.GetGovernment.GetAdjective] [realm|E]"
+ GOVERNORSHIP_TOOLTIP: "[ROOT.Char.GetVassalContract.GetTextIconObligationLevelNameWithHighlightFor( 'administrative_themes' )] [SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE', '' )] [governorship|E]"
+ VASSAL_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )] [vassal|E]"
+ REALM_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]"
 
  activity_filter_capital_blocker:0 "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! your [realm_capital|E]#!"
  activity_filter_domain_blocker:0 "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domain|E]#!"
  activity_filter_realm_blocker:0 "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [realm|E]#!"
  activity_filter_top_realm_blocker:0 "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [top_realm|E]#!"
  activity_filter_holy_sites_blocker:1 "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! one of your [faithpossessive|E] [holy_sites|E]#!"
-  
+ activity_filter_domicile_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E]#!"
+ activity_filter_domicile_domain_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E] or [domain|E]#!"
+ activity_filter_domicile_realm_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E] or [realm|E]#!"
+
  ACTIVITY_PLANNER_SUMMARY_HEADER:0 "Planning Summary:"
  ACTIVITY_DESTINATION_SELECTION_HEADER:0 "Destination Selection"
  ACTIVITY_DESTINATION_SELECTION:0 "The locations you can pick from are displayed on the map.\n[ActivityType.GetLocalizedText( 'destination_selection' )]\n\n#I Select a location for your [ActivityType.GetNameNoTooltip]#!"
@@ -80,4 +92,4 @@
  CREATE_ACTIVITY_CONFIRMATION_DESC:0 "Are you sure you want to start your [ActivityType.GetNameNoTooltip]?\n\nThe following $ACTIVITY_SPECIAL_GUESTS$ will not join:\n$DECLINING_GUESTS$"
  CREATE_ACTIVITY_CONFIRMATION_CONFIRM:0 "$START$"
 
- ACTIVITY_PLANNER_PHASE_REPLACE_TOOLTIP:0 "#T [ActivityPhase.GetName]#![AddLine( ActivityPhase.CanPickDescriptionBlockers( GetPlayer, PlannedActivityPhase.GetLocation, ActivityPlanner.GetSelectedSpecialOption ) )][AddTextIf( Not( ActivityPlanner.CanPlanMorePhasesOfType( ActivityPhase.Self ) ), AddLine( '$ACTIVITY_PLANNER_CANNOT_PICK_MORE_OF_PHASE$' ) )][AddLine( ActivityPhase.GetDescription )]"
+ ACTIVITY_PLANNER_PHASE_REPLACE_TOOLTIP:0 "#T [ActivityPhase.GetName]#![AddLine( ActivityPhase.CanPickDescriptionBlockers( GetPlayer, PlannedActivityPhase.GetLocation, ActivityPlanner.GetSelectedSpecialOption ) )][AddTextIf( Not( ActivityPlanner.CanPlanMorePhasesOfType( ActivityPhase.Self ) ), AddLine( '$ACTIVITY_PLANNER_CANNOT_PICK_MORE_OF_PHASE|q$' ) )][AddLine( ActivityPhase.GetDescription )]"

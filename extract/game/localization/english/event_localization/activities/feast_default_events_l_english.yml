@@ -434,6 +434,7 @@
  every_drunkard_guest_scope_tt:0 "Every drunkard guest in attendance"
  feast_default.6231.b:0 "We all have to pitch in. Come on now."
  feast_default.6231.c:0 "Time to crack open my secret stores."
+ feast_default.6231.d: "Let's bring out my finer wines."
 
  feast_default.6251.t:1 "The Dilemma"
  feast_default.6251.desc:0 "The feast is dwindling down, and I find myself deep in conversation with my [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest'))] [guest.GetTitledFirstName].\n\n[guest.GetSheHe|U] inquires about my opinion on [guest.Custom('subject_of_interest')] – a subject [guest.GetSheHe] is deeply interested in [guest.GetHerselfHimself]."
@@ -523,6 +524,8 @@
  medieval_dance_ring:0 "ring dance"
  medieval_dance_estampie:0 "estampie"
  medieval_dance_couple:0 "couple dance"
+ medieval_dance_syrtos: "syrtos"
+ medieval_dance_kerchief: "kerchief dance"
  murder_feast_entourage_murder_log_title:0 "Massacre"
  murder_feast_entourage_murder_log:0 "[CHARACTER.GetShortUIName|U] and [CHARACTER.GetHerHis] entourage mysteriously died"
  murder_feast_solo_murder_log:0 "[CHARACTER.GetShortUIName|U] mysteriously died"
@@ -579,6 +582,7 @@
  feast_default.9001.no_spouse:0 "Nevertheless, I am still grateful that the endeavor is over for now."
  feast_default.9001.a:0 "Until next time!"
 
+ feast_default.9002.desc_roughed_up: "\n\nWhat a feast! My bags are laden with stolen silver cutlery and [host.Custom('GetExpensiveMeal')], that [host.Custom('InsultNoun')] [host.GetFirstNameNoTooltip] never should have insulted me!"
  feast_default.9002.desc_exotic:0 "What a feast! Before coming, I could have never imagined the exotic delicacies I would sample in my time in [host.GetTitledFirstNamePossessive] halls. This was a feast I will never forget!"
  feast_default.9002.desc_lavish:0 "What a feast! Before coming, my clothes were slack and ill-fitting, now I stagger out of [host.GetTitledFirstNamePossessive] halls twice as full of food and merriment as when I arrived! This was a feast I will struggle to forget!"
  feast_default.9002.desc_meager:0 "What a feast? Though usually I would expect far more food from a feast, I leave [host.GetTitledFirstNamePossessive] halls hungry, but at least the company was good. This was a feast I wish I could forget."

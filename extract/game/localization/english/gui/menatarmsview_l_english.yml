@@ -7,6 +7,7 @@
  MAA_UNRAISED_MAINTENANCE_TEXT:0 "Unraised Maintenance"
  MAA_REINFORCEMENT:1 "[MenAtArmsView.GetFullStrengthText]\nPaying Full maintenance"
  MAA_REINFORCEMENT_COST_ENTRY:2 "[Select_CString( Or( Not(Regiment.IsAtFullStength), Regiment.IsRaised), '#high ' , '#weak ' )]$MAA_FULL_MAINTENANCE_TEXT$: [Regiment.CalcReinforcementCost]/month#!"
+ MAA_PROVISIONS_COST: "[provision|E] Cost per [traveled|E] [barony|E]: @provisions_icon!$VALUE|=+0$"
  MAA_MAINTENANCE:3 "[Select_CString( And( Regiment.IsAtFullStength, Not(Regiment.IsRaised)), '#high ', '#weak ' )]$MAA_UNRAISED_MAINTENANCE_TEXT$: [Regiment.CalcUnraisedCost]/month#!"
  MAA_RAISED_MAINTENTANCE:0 "[MenAtArmsView.GetFullStrengthText]\nPaying Full maintenance"
  MAA_UNRAISED_MAINTENANCE:0 "[MenAtArmsView.GetFullStrengthText]\nPaying Unraised maintenance"
@@ -46,6 +47,7 @@
  MAA_BASE_TYPE:0 "Category: $TYPE|V$"
  MAA_CHUNK_SIZE:0 "[soldiers|E]: $VALUE|V$"
  CREATE_MAA_HEADER:1 "#T Create [MEN_AT_ARMS_TYPE.GetNameNoTooltip|V] Regiment#!"
- CANT_CREATE_MAA_AT_CAP:0 "@warning_icon! #X At [men_at_arms|E] Regiment Limit#!"
+ CANT_CREATE_MAA_AT_CAP: "@warning_icon! #X At [men_at_arms|E] Regiment Limit#!"
+ CANT_CREATE_MAA_MAX_REGIMENTS: "@warning_icon! #X Can't have more than $LIMIT$ [MEN_AT_ARMS_TYPE.GetNameNoTooltip|V]#!"
+ CANT_CREATE_TTILE_MAA_WRONG_GOVERNMENT: "@warning_icon!#X [GovernmentType.GetNameWithIcon] government doesn't allow you to recruit title [men_at_arms|E]#!"
  CREATE_MAA_TOOLTIP:0 "#T Create New [men_at_arms|E] [regiment|E]#!\n[MilitaryItem.GetMaACanBeCreatedTooltip]"
- 

@@ -2,8 +2,10 @@
  #False conversion events.
  false_conversion.0020.t:0 "Crypto-[old_faith.GetNameNoTooltip]"
  false_conversion.0020.desc:0 "In my public life, I follow [ROOT.Char.GetFaith.GetNameNoTooltip] to the letter. I subscribe to [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] values, read the [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetFaith.ReligiousText], and go to [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetFaith.HouseOfWorshipPlural].\n\nBehind closed doors, however, I find it hard to let go of the teachings of [old_faith.GetNameNoTooltip], and a part of me longs to openly practice the old ways.\n\nPerhaps now is the time to reassert my [old_faith.GetAdherentNameNoTooltip] identity, bringing with me what other secret-adherents and recent-converts that I can?"
+ false_conversion.0020.desc_landless: "Up until this point, I have followed [ROOT.Char.GetFaith.GetNameNoTooltip] to the letter. I subscribe to [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] values, read the [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetFaith.ReligiousText], and go to [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetFaith.HouseOfWorshipPlural].\n\nBehind closed doors, however, I find it hard to let go of the teachings of [old_faith.GetNameNoTooltip], and a part of me longs to go back to the old ways.\n\nPerhaps now is the time to reassert my [old_faith.GetAdherentNameNoTooltip] identity, and entrench this in my [ROOT.Char.Custom('GetCourt')|l]?"
  false_conversion.0020.a:0 "[old_faith.HighGodName] knows my heart!"
  false_conversion.0020.b:0 "No, no, the time is not yet right."
+ false_conversion.0020.c: "$false_conversion.0020.a$"
  false_conversion.0030.t:0 "Amnesty for Crypto-Religionists"
  false_conversion.0030.desc_start:0 "Tales have reached my ears of some in my realm who secretly practice hidden faiths, in whole or in part.\n\n"
  false_conversion.0030.desc_no_secret_faith:0 "Though I am a firm [ROOT.Char.GetFaith.GetAdherentNameNoTooltip], my faith has always espoused an ideal of pluralism, and it seems a shame that some feel they must keep their worship secret for fear of persecution.\n\n"
@@ -62,7 +64,7 @@
 
  false_conversion.2001.t: "My Time of Need"
  false_conversion.2001.desc_grief: "Not a day passes that I don't remember [deceased_character.GetTitledFirstName]. Every reminder of [deceased_character.GetHerHis] life in this world springs forth a new well of sorrow."
- false_conversion.2001.desc_depression: "The days drudge on endlessly with new joys and sorrows from all those around me. Yet here I remain, lost in a sea of grey, drowning for the past [vulnerable_relation.GetAge] years."
+ false_conversion.2001.desc_depression: "The days drudge on endlessly with new joys and sorrows from all those around me. Yet here I remain, lost in a sea of gray, drowning for the past [vulnerable_relation.GetAge] years."
  false_conversion.2001.desc_stress: "I have developed involuntary habits of twitching. I bite my nails, gnash my teeth, pace in exhaustion before I lie in bed awake. And yet, still, I find myself overwhelmed with stress beyond my comprehension."
  false_conversion.2001.desc_outro: "\n\nJust as a I wonder how I can go on, [vulnerable_relation.Custom2('RelationToMeAddress', owner)] whispers in my ear. "You need only embrace the healing power of [owner.GetSecretFaith.GetName], [owner.Custom2('RelationToMeAddress', vulnerable_relation)], and your woes will be forgotten.""
  false_conversion.2001.a: "Then I shall embrace [owner.GetSecretFaith.GetNameNoTooltip] with all my heart!"
@@ -92,11 +94,11 @@
 
  # Spreading the crypto-faith events
  convert_to_crypto_religion_key: "Convert to Crypto-[ROOT.Char.GetSecretFaith.GetNameNoTooltip]"
- convert_to_crypto_religion_interaction_key: "Convert to Crypto-[ACTOR.GetSecretFaith.GetNameNoTooltip]"
+ convert_to_crypto_religion_interaction_key: "Convert to Crypto-[actor.GetSecretFaith.GetNameNoTooltip]"
  convert_to_crypto_religion_interaction: "$convert_to_crypto_religion_interaction_key$ #weak (Scheme)#!"
  convert_to_crypto_religion_interaction_desc: "Attempt to make [recipient.GetShortUINameNoTooltip] a secret believer of [actor.GetSecretFaith.GetName]"
  convert_to_crypto_religion: "Convert to Crypto-#D Religion#!"
- convert_to_crypto_religion_desc: "I will make spread the wisdom of [SCHEME.GetOwner.GetSecretFaith.KnowledgeGodName] to [SCHEME.GetTarget.GetShortUINameNoTooltip] and make [SCHEME.GetTarget.GetHerHim] a secret believer of [SCHEME.GetOwner.GetSecretFaith.GetNameNoTooltip]."
+ convert_to_crypto_religion_desc: "I will make spread the wisdom of [SCHEME.GetOwner.GetSecretFaith.KnowledgeGodName] to [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] and make [SCHEME.GetTargetCharacter.GetHerHim] a secret believer of [SCHEME.GetOwner.GetSecretFaith.GetNameNoTooltip]."
  convert_to_crypto_religion_desc_general: "Teach a target to become a secret believer of [CHARACTER.GetSecretFaith.GetName]."
  convert_to_crypto_religion_action: "Convert"
  convert_to_crypto_religion_interaction_notification: "$convert_to_crypto_religion_interaction_key$"

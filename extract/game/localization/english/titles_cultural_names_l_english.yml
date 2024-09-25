@@ -2605,6 +2605,12 @@
  cn_curonia_adj:0 "Curonian"
  cn_kurland:0 "Kurland"
  cn_kurland_adj:0 "Kurlander"
+
+ # Semigallia, after much debate
+ cn_zemgale: "Zemgale"
+ cn_ziemgala: "Žiemgala"
+ cn_semgallen: "Semgallen"
+
  #Iberian names for Canary Islands
  cn_tenerife:0 "Tenerife"
  cn_canaria:0 "Gran-Canaria"
@@ -2622,3 +2628,11 @@
  cn_lower_lorraine_adj: "Lower Lorrainer"
  cn_upper_lorraine: "Upper Lorraine"
  cn_upper_lorraine_adj: "Upper Lorrainer"
+
+ cn_sirista: "Sirista"
+ cn_candia: "Candia"
+ cn_candia_adj: "Candian"
+ cn_la_canea: "La Canea"
+ 
+ cn_kara_khitai: "Kara Khitai"
+ cn_kara_khitai_adj: "Kara Khitan"

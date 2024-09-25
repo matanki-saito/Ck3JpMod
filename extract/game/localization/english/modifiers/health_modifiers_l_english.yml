@@ -27,6 +27,8 @@
  risky_wound_treatment_success_modifier_desc:0 "A very successful treatment has reduced the severity of this character's wound."
  risky_wound_treatment_failure_modifier:0 "Botched Wound Treatment"
  risky_wound_treatment_failure_modifier_desc:0 "A disastrous treatment has severely aggravated this character's wound."
+ recently_maimed_modifier: "Recently Maimed"
+ recently_maimed_modifier_desc: "This character was recently severely hurt."
 
  chastised_physician_modifier:0 "Chastised Physician"
  chastised_physician_modifier_desc:0 "This physician will think twice next time."

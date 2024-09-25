@@ -43,7 +43,7 @@
 
  # Wealth Aplenty, by Sean Hughes
  stewardship_duty.1062.t:0 "Wealth Aplenty"
- stewardship_duty.1062.desc:0 "My treasury is brimming with gold and silver, and all expenses are cared for. As a wealthy [ROOT.Char.GetLadyLord] I am expected to offer patronage to some kind of artist or scholar.\n\nAs luck would have it, three potential candidates just arrived in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]... but do any of them impress me?"
+ stewardship_duty.1062.desc:0 "My treasury is brimming with gold and silver, and all expenses are cared for. As a wealthy [ROOT.Char.GetLadyLord] I [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'could','am expected to')] offer patronage to some kind of artist or scholar.\n\nAs luck would have it, three potential candidates just arrived in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]... but do any of them impress me?"
  stewardship_duty.1062.a:0 "[client_1.GetTitledFirstNameNoTooltip] is known for growing beautiful gardens."
  stewardship_duty.1062.b:0 "[client_2.GetTitledFirstNamePossessiveNoTooltip] religious poetry has moved many souls."
  stewardship_duty.1062.c:0 "The discoveries made by [client_3.GetTitledFirstNameNoTooltip] show promise."
@@ -139,7 +139,7 @@
  stewardship_duty.4020.desc:0 "[faction_member.GetTitledFirstName] is no longer in a faction."
  stewardship_duty.4020.desc.switch:0 "[faction_member.GetTitledFirstName] switched factions."
 
- # Altering the Deal -  Persuade a vassal to accept a contract change, by Sean Hughes
+ # Altering the Deal - Persuade a vassal to accept a contract change, by Sean Hughes
  stewardship_duty.4040.t:0 "Altering The Deal"
  stewardship_duty.4040.desc:0 "My [ROOT.Char.Custom2('RelationToMe', my_vassal)] [my_vassal.GetTitledFirstName] has a contract with me that is quite lenient, exempting [my_vassal.GetHerHim] from many of the obligations I would typically expect from one of my vassals.\n\nIf I could get [my_vassal.GetHerHim] to consent to increased obligations, it would greatly benefit the realm in the long-term..."
  stewardship_duty.4040.a:0 "A sufficient incentive will buy [my_vassal.GetHerHis] consent."
@@ -221,7 +221,7 @@
  stewardship_duty.7023.invalidated.hook_holder:0 "As [hooked_ruler.GetTitledFirstName] no longer owes me a favor, [hooked_ruler.GetHerHis] request for me to waive it is no longer valid."
 
  stewardship_duty.7025.opening:0 "[hooked_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
- stewardship_duty.7025.desc.gold:0 "You once did me a great service, and I am thankful. In order to return the favor I would like to offer a portion of my taxes from this year.\n\nDo you find such an offering acceptable?"
+ stewardship_duty.7025.desc.gold:0 "You once did me a great service, and I am thankful. In order to return the favor I would like to offer a portion of my treasury.\n\nDo you find such an offering acceptable?"
  stewardship_duty.7025.desc.diplomacy.success:0 "I am writing to discuss with you about that favor that I once owed you. Most reasonable people will agree that my past actions have sufficiently satisfied my obligation.\n\nAs such, I feel that I no longer owe you a boon."
  stewardship_duty.7025.desc.diplomacy.failure:0 "I owe you a favor, but I'd rather not. I mean, who wants to owe someone a favor?\n\nWhat if you just... forgot about the favor? I'd like that. That would be great."
  statectaft_ongoing.7025.desc.intimidation.success:0 "You may have done me a service once, but do not think I owe you anything in return. It is payment enough to stay in my good graces. Trust me, you do not want to make me your enemy..."
@@ -249,7 +249,7 @@
  # Special Events #
  ##################
 
- #  Map Painting Journey, by Petter Vilberg
+ # Map Painting Journey, by Petter Vilberg
  stewardship_duty_special.1201.t:0 "Charting Lands"
  stewardship_duty_special.1201.desc:0 "My [steward.GetCouncilTitle], [steward.GetTitledFirstName], is proposing a quest that [steward.GetSheHe] claims would benefit the [ROOT.Char.Custom('RealmType')].\n\n[steward.GetSheHe|U] thinks I should travel with my retinue to chart the territories of [painting_land_owner.GetTitledFirstName]. I would get to know my realm better, and [steward.GetFirstNameNoTooltip] believes I would earn a deeper understanding of my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('painting_land_owner'))]."
  stewardship_duty_special.1201.a:0 "A worthwhile endeavor."
@@ -330,7 +330,7 @@
  stewardship_duty_special.2011.a:0 "I will personally mediate in these discussions."
  stewardship_duty_special.2011.b:0 "[vassal_1.GetFirstNameNoTooltip] will be compensated for any loss."
  stewardship_duty_special.2011.c:0 "[vassal_2.GetFirstNameNoTooltip] is #EMP very#! eager for me to make the right and just call..."
- statecraft_mediation_debug_improve_contract:0 "#D Improve Feudal Contract with [vassal_2.GetTitledFirstName]#!"
+ statecraft_mediation_debug_improve_contract:0 "#D Improve Vassal Contract with [vassal_2.GetTitledFirstName]#!"
 
  stewardship_duty_special.2012.t:0 "Settlement: Family Disputes"
  stewardship_duty_special.2012.desc:0 "The day's discussions between [vassal_1.GetTitledFirstName] and [vassal_2.GetTitledFirstName] have not started well.\n\n"Ever since you were handed grandfather's shield—"\n"The shield again, truly? Here, at the [ROOT.Char.GetTitlePossessive] court?!""

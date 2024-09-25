@@ -88,7 +88,7 @@
  east_europe.0112.desc.intro:0 "Your insistence that the [heretic.GetFaith.GetAdherentNamePluralNoTooltip] are heretics is ludicrous."
  east_europe.0112.desc.culture:0 "[accuser.GetTitledFirstName] is a country[accuser.GetWomanMan] of mine, and you are simply ignorant of our ways."
  east_europe.0112.desc.rival:0 "Honestly, if #EMP anyone#! is likely guilty of heresy, it is you, you [accuser.Custom('InsultAdjective')], [accuser.Custom('InsultAdjective')], [accuser.Custom('InsultAdjective')] [accuser.Custom('InsultNoun')]!"
- east_europe.0112.desc.sinful:0 "Your sins are practically too numerous to count, and you have the gall to criticise others?"
+ east_europe.0112.desc.sinful:0 "Your sins are practically too numerous to count, and you have the gall to criticize others?"
  east_europe.0112.desc.negative_opinion:0 "Perhaps if I respected your opinion a little, I would give credence to your thoughts. Sadly, I do not."
  east_europe.0112.desc.fallback:0 "Such spurious claims are unbecoming of a [accuser.GetWomanMan] of your station."
  east_europe.0112.desc.outro:0 "\n\nI hope that this will be the end of the matter, and that, next time, you think before you write."

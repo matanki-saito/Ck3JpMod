@@ -1,7 +1,7 @@
 ﻿l_english:
  # Decision Menu Localization
- petition_liege_decision:0 "Petition Liege"
- petition_liege_decision_desc:1 "I can petition my liege to help me resolve the challenges I face; sincere requests which contribute to the good of the realm are often granted."
+ petition_liege_decision:0 "Petition the [ROOT.Char.GetTopLiege.GetTitleAsNameNoTooltip]"
+ petition_liege_decision_desc:1 "I can petition my liege to help me rise to the challenges I face; sincere requests which contribute to the good of the realm are often granted."
  petition_liege_decision_tooltip:1 "[petition_liege|E] your [liege|E] for a gift or service"
  petition_liege_decision_effects:1 "You travel to [THIS.Char.GetLiege.GetTitledFirstNamePossessive] court to deliver your Petition"
  petition_liege_decision_confirm:1 "$petition_liege_decision$"
@@ -15,15 +15,18 @@
  petition_liege_council_seat_tooltip:0 "$petition_liege_decision_second_tooltip$"
  petition_liege_council_seat_me_tt:0 "#X You are already on the [council|E] of your [liege|E]#!"
  petition_liege_council_seat_liege_tt:0 "#X Your [liege|E] is currently unable to shuffle their [council|E]#!"
- council_appointment_toast_desc_liege:0 "[petition_vassal.GetTitledFirstNameNoTooltip] is now your [petition_vassal.GetCouncilTitle]"
- council_appointment_toast_desc_vassal:0 "You are now [petition_liege.GetTitledFirstNamePossessiveNoTooltip] [petition_vassal.GetCouncilTitle]"
+ council_appointment_toast_desc_liege:0 "[THIS.Char.GetShortUIName] is now your [THIS.Char.GetCouncilTitle]"
+ council_appointment_toast_desc_vassal:0 "[THIS.Char.GetShortUIName] became [petition_liege.GetTitledFirstNamePossessiveNoTooltip] [THIS.Char.GetCouncilTitle]"
  council_appointment_toast_desc_replaced:0 "[petition_liege.GetTitledFirstNameNoTooltip] replaced you with [petition_vassal.GetTitledFirstNameNoTooltip] on [petition_liege.GetHerHis] council"
  petition_liege_decision_effects_council_seat:0 "[THIS.Char.GetLiege.GetSheHe|U] may give you a seat on [THIS.Char.GetLiege.GetHerHis] [council|E]"
+ # Court Position
+ court_position_toast_desc_liege: "[THIS.Char.GetShortUIName] is now your [THIS.Char.GetCouncilTitle]"
+ court_position_toast_desc_vassal: "[THIS.Char.GetShortUIName] became [petition_liege.GetTitledFirstNamePossessiveNoTooltip] [THIS.Char.GetHeldCourtPositionsString]"
  # Debt
  petition_liege_decision_option_pay_debt:0 "Settle Debt\n#low Pay off [debt|E]#!"
  petition_liege_pay_debt_desc:0 "Request [ROOT.Char.GetLiege.GetTitledFirstName] pay off your current [debt|E]"
  petition_liege_pay_debt_tooltip:0 "$petition_liege_decision_second_tooltip$"
- petition_liege_pay_debt_me_tt:1 "#X You are not at least -100 gold in [debt|E]"
+ petition_liege_pay_debt_me_tt:1 "#X You are not at least [gold_i|E]-100 in [debt|E]"
  petition_liege_pay_debt_liege_tt:0 "#X Your [liege|E] cannot afford to pay your [debt|E]#!"
  petition_liege_decision_effects_pay_debt:0 "[THIS.Char.GetLiege.GetSheHe|U] may pay off your [debt|E]"
 

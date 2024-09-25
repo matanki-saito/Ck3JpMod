@@ -23,6 +23,10 @@
 
  tortured_family_member:0 "Tortured Family Member"
  tortured_me:0 "Tortured Me"
+ disfigured_family_member: "Disfigured Family Member"
+ disfigured_me: "Disfigured Me"
+ maimed_family_member: "Maimed Family Member"
+ maimed_me: "Maimed Me"
  blinded_family_member:0 "Blinded Family Member"
  blinded_me:0 "Blinded Me"
  castrated_family_member:0 "Castrated Family Member"

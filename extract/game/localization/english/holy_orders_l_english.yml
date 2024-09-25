@@ -95,10 +95,10 @@
 
  #Notifications
  #Creation
- holy_order_founded_title:1 "[LEFT_CHARACTER.GetFaith.GetAdjective] Holy Order Founded"
- i_created_holy_order_message:2 "With your support, [leader.GetShortUIName] has founded the [new_holy_order.GetName]!"
- someone_created_holy_order_message:1 "The [new_holy_order.GetName] has been established in [barony.GetNameNoTier] by [holy_order_creator.GetShortUIName]"
- other_faith_neighbor_created_holy_order_message:1 "[holy_order_creator.GetShortUIName] has founded the [new_holy_order.GetName]!"
+ holy_order_founded_title:1 "[LEFT_CHARACTER.GetFaith.GetAdjectiveNoTooltip] Holy Order Founded"
+ i_created_holy_order_message:2 "With your support, [leader.GetShortUIName] has founded the [new_holy_order.GetTitle.GetName]!"
+ someone_created_holy_order_message:1 "The [new_holy_order.GetTitle.GetName] has been established in [barony.GetNameNoTier] by [holy_order_creator.GetShortUIName]"
+ other_faith_neighbor_created_holy_order_message:1 "[holy_order_creator.GetShortUIName] has founded the [new_holy_order.GetTitle.GetName]!"
  #Holy Order disbanded
  my_faith_holy_order_disbanded_message:0 "The [holy_order.GetName] is no more. Their territory has been lost, and their military organization disbanded."
  #New lease

@@ -5,7 +5,7 @@
  PURCHASE_TRUCE_NOTIFICATION:0 "You and I should be friends, not foes! Please, accept this gift in exchange for your signature on a treaty of mutual good will."
  purchase_truce_interaction_desc:0 "Negotiate a preemptive [truce|E] with [recipient.GetTitledFirstName] in exchange for [gold|E]"
  purchase_truce_interaction.accept.actor.tt:0 "[recipient.GetTitledFirstName] has accepted my tribute"
- purchase_truce_interaction.accept.recipient.tt:0 "[actor.GetTitledFirstName] sends my gold"
+ purchase_truce_interaction.accept.recipient.tt:0 "[actor.GetTitledFirstName] sends me gold"
  purchase_truce_interaction.decline.actor.tt:0 "[recipient.GetTitledFirstName] has refused my tribute"
  purchase_truce_interaction.decline.recipient.tt:0 "[actor.GetTitledFirstName] fears my intentions"
  TRUCE_PURCHASED:0 "\nTruce signed in exchange for a large payment of [gold|E] from [actor.GetTitledFirstName] to [recipient.GetTitledFirstName]"
@@ -82,8 +82,10 @@
  BF_AI_SAME_DYNASTY_REASON:0 "[actor.GetShortUINamePossessive|U] is of [recipient.GetShortUINamePossessive|U] [dynasty|E]: $VALUE|=+0$"
 
  # Offer Assistance Interaction
- contract_assistance_interaction:0 "Contract Assistance"
- contract_assistance_interaction_desc:0 "Offer to join the [war|E] of another [struggle_involved|E] [ruler|E] in exchange for [gold|E]."
+ contract_assistance_interaction:0 "Offer Military Assistance"
+ contract_assistance_interaction_desc:0 "[SelectLocalization( ObjectsEqual(actor.GetGovernment.GetName, GetGovernment('landless_adventurer_government').GetName), 'contract_assistance_interaction_desc_laamp', 'contract_assistance_interaction_desc_struggle' )]"
+ contract_assistance_interaction_desc_laamp:0 "Offer to join the [war|E] of a [ruler|E] in exchange for [gold|E]."
+ contract_assistance_interaction_desc_struggle:0 "Offer to join the [war|E] of another [struggle_involved|E] [ruler|E] in exchange for [gold|E]."
  contract_assistance_interaction_notification:0 "My troops could be very useful in your conflict; we need only agree a price."
  OA_AI_WINNING_WAR_REASON:0 "[recipient.GetShortUIName|U] is winning the [war|E]: $VALUE|=+0$"
  OA_AI_LOSING_WAR_REASON:0 "[recipient.GetShortUIName|U] is losing the [war|E]: $VALUE|=+0$"
@@ -106,7 +108,7 @@
  contract_assistance_war_msg_helper_kept_desc:1 "You were not paid by [contract_assistance_hirer.GetShortUIName] for [contract_assistance|E], as your [war_contribution|E] was less than [SCOPE.ScriptValue('saved_contribution_value')|Z0]"
  contract_assistance_war_msg_hirer_invalidated_desc:0 "You did not pay [contract_assistance_helper.GetShortUIName] for [contract_assistance|E], because the war was invalidated"
  contract_assistance_war_msg_helper_invalidated_desc:0 "You were not paid by [contract_assistance_hirer.GetShortUIName] for [contract_assistance|E], because the war was invalidated"
- contract_assistance_war_already_contracted_tt:0 "You are already [contracting_assistance|E] in a war"
+ contract_assistance_war_already_contracted_tt:0 "You are already [contract_assisting|E] in a war"
 
  invite_foreign_ruler_to:0 "Invite To Activity"
  invite_foreign_ruler_to_desc:1 "Invite a [ruler|E] from another [realm|E] to join you in a feast or a hunt"
@@ -125,7 +127,7 @@
  war_ended_before_response:0 "The war already ended"
  AI_STRUGGLE_INTENT:0 "Struggle agenda: $VALUE|=+0$"
 
-   # Offer Assistance Interaction
+  # Offer Assistance Interaction
  request_contract_assistance_interaction:0 "Request Contract Assistance"
  request_contract_assistance_interaction_desc:0 "Offer to join one of your [war|E] to this [struggle_involved|E] [ruler|E] in exchange for [gold|E]."
  request_contract_assistance_interaction_notification:0 "Your troops could be very useful in my conflict; we need only agree a price."

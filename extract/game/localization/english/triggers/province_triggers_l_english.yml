@@ -12,6 +12,7 @@
 
  DEVELOPMENT_RATE_TRIGGER:0 "Development Rate: $NUM|V0$"
  HAS_COUNTY_MODIFIER_TRIGGER:0 "Has county modifier: $MODIFIER$"
+ NOT_HAS_COUNTY_MODIFIER_TRIGGER: "Does not have county modifier: $MODIFIER$"
  IS_COASTAL_TRIGGER:0 "Is coastal"
  IS_COASTAL_COUNTY_TRIGGER:1 "Is coastal [county|E]"
 
@@ -21,7 +22,8 @@
  HAS_REALM_LAW_FLAG_TRIGGER:0 "$FLAG|V$ is allowed under current Realm Law"
  IS_CAPITAL_BARONY_TRIGGER:0 "Barony is capital"
 
- IS_HOLY_SITE_TRIGGER:0 "Is a holy site"
+ IS_HOLY_SITE_TRIGGER:0 "Is a [holy_site|E]"
+ NOT_IS_HOLY_SITE_TRIGGER:0 "Is #bold not#! a [holy_site|E]"
  HAS_CONTRUCTION_WITH_FLAG_TRIGGER:0 "Has a $FLAG|V$ construction"
  NUM_LEASED_TITLES_TRIGGER:0 "Number of leased titles: $NUM|V0$"
 

@@ -10,7 +10,7 @@
  mocked_for_creative_burst_roco_modifier_desc:1 "This character was mocked for their creativity and is now keeping their writing a secret."
  trying_new_things_modifier:0 "Trying new things"
  trying_new_things_modifier_desc:0 "This character is trying to widen their views by trying new things and write about various subjects."
- found_their_focus_modifier:0 "Found their focus"
+ found_their_focus_modifier:0 "Found Their Focus"
  found_their_focus_modifier_desc:0 "This character found their favorite subject to write about and is delving deeper into their writing."
  moment_of_calm_and_clarity_roco_modifier:0 "Moment of Calm and Clarity"
  moment_of_calm_and_clarity_roco_modifier_desc:0 "This character has achieved a peaceful state of mind."
@@ -24,10 +24,6 @@
  petition_event_artifact_exhibition_for_prestige_desc:0 "This character is hosting a free artifact exhibition."
  
  # Petition Events: County Modifiers
- hold_court_preacher_loved_by_peasants_modifier:0 "Preacher Loved by the Peasants"
- hold_court_preacher_loved_by_peasants_modifier_desc:0 "A beloved, but unconventional preacher is living in this county, caring for the peasants in this region."
- hold_court_beloved_preacher_imprisoned_modifier:0 "Beloved Preacher Imprisoned"
- hold_court_beloved_preacher_imprisoned_modifier_desc:0 "A beloved, but unconventional preacher from this county was imprisoned. In response, the peasants are protesting."
  hold_court_grateful_peasants_modifier:0 "Pleased Peasants"
  hold_court_grateful_peasants_modifier_desc:1 "A response to a petition has pleased the peasants of this area."
  hold_court_displeased_peasants_modifier:0 "Displeased Peasants"

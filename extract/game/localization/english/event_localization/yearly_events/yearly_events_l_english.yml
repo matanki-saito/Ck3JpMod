@@ -16,7 +16,7 @@
  yearly.0001.d:0 "I can manage just fine on my own."
 
  yearly.0002.t:0 "Indiscreet Councillor"
- yearly.0002.desc:0 "Having served me faithfully as my [councillor.Custom('CouncilPosition')], I entrusted [councillor.GetTitledFirstName] with the ability to travel freely within my court.\n\nHowever, I have now learned [councillor.GetSheHe] has taken advantage of my hospitality by being indiscreet with my [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child') )] [child.GetFirstName]!"
+ yearly.0002.desc:0 "Having served me faithfully as my [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('councillor') )], I entrusted [councillor.GetTitledFirstName] with the ability to travel freely within my [ROOT.Char.Custom('GetCourt')].\n\nHowever, I have now learned [councillor.GetSheHe] has taken advantage of my hospitality by being indiscreet with my [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child') )] [child.GetFirstName]!"
  yearly.0002.a:0 "They must be wed to absolve them of their crimes."
  yearly.0002.c:0 "I will make [councillor.GetFirstNameNoTooltip] rot in jail for crossing me!"
  yearly.0002.d:0 "It would be a shame if this got out..."
@@ -28,7 +28,7 @@
  yearly.0003.b:0 "Attempt to cover up their liaisons."
  yearly.0003.a:0 "The world will know of their crimes against [ROOT.Char.GetFaith.PantheonTerm]!"
  yearly.0003.c:0 "Imprison them for disgracing House [ROOT.Char.GetHouse.GetNameNoTooltip]!"
- yearly.0003.d:0 "Invite them to my chambers for some "family time.""
+ yearly.0003.d:0 "Invite them to my [ROOT.Char.Custom('GetChamber')] for some "family time.""
 
  yearly.0011.t:0 "Comet Sighted!"
  yearly.0011.desc:0 "The appearance of a comet in the heavens causes all mortals to pause. What could this strange apparition mean, wandering across our skies so unexpectedly?\n\nWiser [ROOT.Char.GetWomenMen] than I have spent their lifetimes pondering less, but every uppity peasant in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] seems to have their own ill-thought theory..."

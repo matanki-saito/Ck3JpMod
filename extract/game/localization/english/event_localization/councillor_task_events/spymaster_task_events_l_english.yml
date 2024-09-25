@@ -6,7 +6,7 @@
  
  spymaster_task.0341.t:0 "Espionage: Deviancy"
  spymaster_task.0311.secret_deviant.shared:0 "\n\nI cannot believe the grotesque ways [secret_holder.GetSheHe] seeks pleasure. The very idea would be revolting to any decent [secret_holder.GetWomanMan], and yet [secret_holder.GetSheHe] is more than willing... Indeed, eager!"
- spymaster_task.0311.secret_deviant:1 "\n\nThe ways in which [secret_holder.GetSheHe] seeks pleasure is revolting for any decent [secret_holder.GetWomanMan] to even think of, and yet [secret_holder.GetSheHe] is not merely willing, but eager! It feels so unnatural and sickening. No — it #emphasis is#! unnatural and sickening; an offense against [secret_holder.GetFaith.HighGodName]!"
+ spymaster_task.0311.secret_deviant:1 "\n\nThe ways in which [secret_holder.GetSheHe] seeks pleasure is revolting for any decent [secret_holder.GetWomanMan] to even think of, and yet [secret_holder.GetSheHe] is not merely willing, but eager! It feels so unnatural and sickening. No — it #emphasis is#! unnatural and sickening; an offense against [ROOT.Char.GetFaith.HighGodName]!"
  spymaster_task.0341.a:0 "Servant! Fetch me a bucket before I— #EMP *retch*#!"
  spymaster_task.0341.a.deviant:0 "Describe it again. In as much detail as possible..."
  spymaster_task.0341.a.detached:0 "Utterly disgusting, but useful to know."

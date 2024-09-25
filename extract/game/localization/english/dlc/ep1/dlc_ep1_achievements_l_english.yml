@@ -35,7 +35,7 @@
  ACHIEVEMENT_DESC_true_tolerance_achievement:0 "Rule a [realm|E] containing at least 10 [cultures|E] with 95% or more [cultural_acceptance|E]"
  ACHIEVEMENT_DESC_delusions_of_grandeur_achievement:0 "Be at least 6 levels above your [court_grandeur_expectations|E]"
  ACHIEVEMENT_DESC_bod_chen_po_achievement:1 "As a member of the Pugyel [dynasty|E], re-create the Empire of Tibet"
- ACHIEVEMENT_DESC_turkish_eagle_achievement:0 "As the Seljuk Count in Samosata, form Rum and create a [hybrid_culture|E] between Oghuz and Greek"
+ ACHIEVEMENT_DESC_turkish_eagle_achievement:0 "Starting as any member of [house|E] Seljuk in 1066, besides Alp Arslan, form Rum and create a [hybrid_culture|E] between Oghuz and Greek"
 
  ACHIEVEMENT_DESC_rise_of_the_ghurids_achievement:0 "Starting as the Duke of Ghur in 867 or 1066, conquer the [region|E] of the [GetGeographicalRegion('dlc_ep1_achievement_rise_of_the_ghurids').GetName]"
  ACHIEVEMENT_DESC_brave_and_bold_achievement:1 "Starting as the Piasts in 867, rule Poland, adopt Feudalism, and own a Famed or Illustrious-rarity regalia, crown, weapon, and armor"

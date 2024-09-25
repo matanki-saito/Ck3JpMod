@@ -22,7 +22,7 @@
  travel_danger_events.3001.t:0 "$travel_danger_prefix$ Avalanche!"
  travel_danger_events.3001.desc:0 "After a long and arduous journey among the snowy mountain peaks, I slowly warm myself next to the roaring fire in the local inn while [first_avalanche_victim.GetFirstName] and [second_avalanche_victim.GetFirstName] tend to our caravan outside. Suddenly, there is a distant yet powerful, deep, and reverberating thud.\n\n"Avalanche!" someone yells. Before anyone inside gets a chance to react, the sound gets louder and louder until it crescendos with a great force shaking the walls and the floor. After a heartbeat or an eternity, there is even more dreadful silence."
  travel_danger_events.3001.a:0 "[ROOT.Char.GetCulture.GetCollectiveNoun] know how to survive in the mountains."
- travel_danger_events.3001.a.alternate:0 "[travel_leader.GetCulture.GetCollectiveNoun] know how to survice in the mountains."
+ travel_danger_events.3001.a.alternate:0 "[travel_leader.GetCulture.GetCollectiveNoun] know how to survive in the mountains."
  travel_danger_events.3001.a.flavor:0 "This is nothing compared to the proper [ROOT.Char.GetCulture.GetName] avalanche!"
  travel_danger_events.3001.a.flavor.alternate:0 "My $travel_leader_court_position$ [travel_leader.GetFirstName] has taken necessary precautions against any mountain dangers, thanks to [travel_leader.GetHerHis] [travel_leader.GetCulture.GetName] heritage."
  travel_danger_events.3001.b:0 "Hold on, help is coming!"

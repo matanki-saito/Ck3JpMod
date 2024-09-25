@@ -19,6 +19,7 @@
  TITLE_CCP_CREATOR:0 "#credits_subheader Content Creator Pack Developer#!"
  TITLE_GAME_DESIGN_DEPUTY: "#credits_subheader Game Design Deputy#!"
  TITLE_CODE_OWNER: "#credits_subheader Code Owner#!"
+ TITLE_GAME_DESIGN_STEWARD: "#credits_subheader Game Design Steward#!"
 
 
  HEADER_DESIGN:1 "#credits_header DESIGN#!"
@@ -126,6 +127,7 @@
  TITLE_CONTENT_DESIGN_LEAD:0 "#credits_subheader Content Design Lead#!"
  TITLE_CONTENT_DESIGNERS:1 "#credits_subheader Content Designers#!"
  TITLE_UX_DESIGNERS:1 "#credits_subheader UX Designers#!"
+ TITLE_UX_DESIGN_LEAD: "#credits_subheader UX Design Lead#!"
  TITLE_GAME_ART_LEAD:0 "#credits_subheader Game Art Lead#!"
  TITLE_ART_PRODUCERS:1 "#credits_subheader Art Producers#!"
  TITLE_ART_MANAGERS:0 "#credits_subheader Art Managers#!"
@@ -307,3 +309,4 @@
  HEADER_CRUSADER_KINGS_3_LEGACY_OF_PERSIA: "#credits_title CRUSADER KINGS III: LEGACY OF PERSIA#!"
  HEADER_CRUSADER_KINGS_3_NORTH_AFRICAN_ATTIRE: "#credits_title CRUSADER KINGS III: NORTH AFRICAN ATTIRE#!"
  HEADER_CRUSADER_KINGS_3_LEGENDS_OF_THE_DEAD: "#credits_title CRUSADER KINGS III: LEGENDS OF THE DEAD#!"
+ HEADER_CRUSADER_KINGS_3_ROADS_TO_POWER: "#credits_title CRUSADER KINGS III: ROADS TO POWER#!"

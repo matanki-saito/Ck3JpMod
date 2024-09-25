@@ -31,7 +31,7 @@
  befriend_ongoing_dislike.2002.desc:0 "It is well-known that [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] is quite shy, rarely eager to spend more time with people than [target.GetSheHe] deem necessary.\n\nNow [target.GetSheHe] has stopped responding to my communiques, and I am unsure of how to proceed."
  befriend_ongoing_dislike.2002.a:0 "I must give [target.GetHerHim] time."
  befriend_ongoing_dislike.2002.b:0 "I'll make sure [target.GetHerHim] hears from me. A lot!"
-  
+ 
  befriend_ongoing_dislike.5001.t:0 "Befriend: A Cynic and a Zealot"
  befriend_ongoing_dislike.5001.desc:0 "My efforts to ease the tension between [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] and myself are hindered by [target.GetHerHis] senseless obsession with my lack of piety. \n\nYet, for all [target.GetHerHis] complaints, [target.GetTitledFirstName] still fails to explain why it is worth caring more about [ROOT.GetCharacter.GetFaith.HighGodName] than I already do, of course."
  befriend_ongoing_dislike.5001.a:0 "I suppose I could visit the [ROOT.Char.GetFaith.HouseOfWorship] more often."

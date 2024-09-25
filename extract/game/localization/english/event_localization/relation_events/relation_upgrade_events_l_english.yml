@@ -1,6 +1,6 @@
 ﻿l_english:
  # Tourney Troubles
- #   Initial Event:
+ #  Initial Event:
  relation_upgrade.0001.t:0 "Tourney Troubles"
  relation_upgrade.0001.desc.opening:0 "As [ROOT.Char.GetTitleAsNameNoTooltip], I have been obliged to attend a local [ROOT.Char.Custom('MartialTournamentAdjective')] tournament, but the contestants have been delayed — the tourney won't start for at least another hour.\n\n"
  relation_upgrade.0001.desc.rival:0 "[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] is here and, as always, is being an insufferable lout. [rival.GetHerHis|U] constant complaining is making everyone #EMP even more#! miserable than normal."
@@ -27,7 +27,7 @@
  relation_upgrade.0001.opt_out:0 "I've wasted enough time on this disaster..."
 
  # Tourney Troubles
- #   Follow-Up Event:
+ #  Follow-Up Event:
  relation_upgrade.0011.t:0 "$relation_upgrade.0001.t$"
  relation_upgrade.0011.desc.opening:0 "$relation_upgrade.0001.desc.opening$"
  relation_upgrade.0011.desc.rival:0 "While I lament about how poorly organized the tournament is, [source.Custom2('MyCharacterIntroduction', ROOT.Char)] suddenly walks up to me and pushes me straight into the horse' water troughs, prompting everyone around to burst into laughter!"
@@ -77,7 +77,7 @@
 
 #	Follow-Up, Friend:
  relation_upgrade.1002.t:0 "$relation_upgrade.1001.t$: Anywhere But Here"
- relation_upgrade.1002.desc:0 "I have been stuck at this torturous party (that [terrible_party_host.GetFirstName] has more or less totally failed to throw) for what feels like #EMP hours#!, limply waving at everyone who wanders past.\n\nThe thought of throwing myself from this balcony is starting to gain appeal, when I feel a tap on my shoulder.\n\n"Excuse me, [potential_friend.GetFirstNameNoTooltip]?", says [party_root.GetTitledFirstName], "do you fancy a walk away from here?""
+ relation_upgrade.1002.desc:0 "I have been stuck at this torturous party (that [terrible_party_host.GetFirstName] has more or less totally failed to throw) for what feels like #EMP hours#!, limply waving at everyone who wanders past.\n\nThe thought of throwing myself from this balcony is starting to gain appeal, when I feel a tap on my shoulder.\n\n"Excuse me, [potential_friend.GetFirstNameNoTooltip]?" says [party_root.GetTitledFirstName], "do you fancy a walk away from here?""
  relation_upgrade.1002.a:0 "[ROOT.GetCharacter.GetFaith.HighGodName], yes, anywhere but here!"
  relation_upgrade.1002.a.tt:0 "[potential_friend.GetFirstNameNoTooltip] accepts your offer"
  relation_upgrade.1002.b:0 "Ehm, thank you, but no thank you."

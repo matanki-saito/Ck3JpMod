@@ -97,7 +97,7 @@
  court_ongoing.1021.cat_pet.success:0 "[owner.GetShortUINameNoTooltip] gives you a cat"
  court_ongoing.1021.dog_pet.success:0 "[owner.GetShortUINameNoTooltip] gives you a dog"
  court_ongoing.1021.pet.failure:1 "[owner.GetShortUINameNoTooltip] does not give you a pet"
- court_ongoing.1021.c:0 "[necklace_owner.GetTitledFirstNamePossessiveNoTooltip] necklace looks lovely..."
+ court_ongoing.1021.c:0 "[necklace_owner.GetTitledFirstNamePossessive] necklace looks lovely..."
  court_ongoing.1021.necklace.success:0 "[owner.GetShortUINameNoTooltip] gives you a necklace"
  court_ongoing.1021.necklace.failure:0 "[owner.GetShortUINameNoTooltip] refuses to give you a necklace"
  court_ongoing.1021.d:0 "Bring me something unusual — an exotic orchid, perhaps?"
@@ -106,7 +106,7 @@
  court_ongoing.1021.x:0 "Enough! This madness ends now!"
 
  #GIFT: wolf Pelt, by Mathilda Bjarnehed
- court_ongoing.1022.t:1 "$court_event_title$ The Grey One"
+ court_ongoing.1022.t:1 "$court_event_title$ The Gray One"
  court_ongoing.1022.start.desc:0 ""Sweet [target.GetLadyLord] [target.GetFirstName]!" I sigh as I kneel before [target.GetHerHim]. "My only desire is to bring you honor and happiness. Pray, tell me — how can I prove my love for you?"\n\n"
  court_ongoing.1022.end.desc:0 "[target.GetTitledFirstNameNoTooltip] hesitates and [target.GetHerHis] cheeks turn red. By [ROOT.Char.GetFaith.HighGodName], I hope [target.GetSheHe] is pleased and not embarrassed!\n\n"Slay a wolf for me and bring me its pelt. Then we may continue this conversation.""
  court_ongoing.1022.a:0 ""Your wish is my command!""

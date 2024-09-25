@@ -127,6 +127,8 @@
  relation_victim:0 "victim"
  relation_vassal_female:0 "vassal"
  relation_vassal_male:0 "vassal"
+ relation_fellow_vassal_female: "fellow vassal"
+ relation_fellow_vassal_male: "fellow vassal"
  relation_councillor_female:0 "[second.GetCouncilTitle]"
  relation_councillor_male:0 "[second.GetCouncilTitle]"
  relation_court_physician_female:0 "court physician"
@@ -175,6 +177,8 @@
  relation_chief_qadi_male:0 "chief qadi"
  relation_wet_nurse_female: "wet nurse"
  relation_wet_nurse_male: "wet nurse"
+ relation_akolouthos_male: "akolouthos"
+ relation_akolouthos_female: "akolouthos"
  relation_court_physician_female_possessive:0 "court physician's"
  relation_court_physician_male_possessive:0 "court physician's"
  relation_keeper_of_swans_female_possessive:0 "keeper of the swans's"
@@ -221,6 +225,8 @@
  relation_chief_qadi_male_possessive:0 "chief qadi's"
  relation_wet_nurse_female_possessive:0 "wet nurse's"
  relation_wet_nurse_male_possessive:0 "wet nurse's"
+ relation_akolouthos_male_possessive: "akolouthos'"
+ relation_akolouthos_female_possessive: "akolouthos'"
  relation_liege_female:0 "liege"
  relation_liege_male:0 "liege"
  relation_ward:0 "ward"
@@ -233,6 +239,8 @@
  relation_inspired_character_male:0 "beneficiary"
  relation_courtier_female:0 "courtier"
  relation_courtier_male:0 "courtier"
+ relation_follower_female: "follower"
+ relation_follower_male: "follower"
  relation_agent:0 "agent"
  relation_guest_female:0 "guest"
  relation_guest_male:0 "guest"
@@ -369,10 +377,16 @@
  relation_liege_male_nemesis_possessive:0 "nemesis and liege's"
  relation_vassal_female_rival_possessive:0 "rival and vassal's"
  relation_vassal_female_nemesis_possessive:0 "nemesis and vassal's"
+ relation_fellowvassal_female_rival_possessive:0 "rival and vassal's"
+ relation_fellowvassal_female_nemesis_possessive:0 "nemesis and vassal's"
  relation_vassal_male_rival_possessive:0 "rival and vassal's"
  relation_vassal_male_nemesis_possessive:0 "nemesis and vassal's"
+ relation_fellow_vassal_male_rival_possessive: "rival and fellow vassal's"
+ relation_fellow_vassal_male_nemesis_possessive: "nemesis and fellow vassal's"
  relation_rival_female_possessive:0 "rival's"
  relation_nemesis_female_possessive:0 "nemesis'"
+ relation_fellow_vassal_female_rival_possessive: "rival and fellow vassal's"
+ relation_fellow_vassal_female_nemesis_possessive: "nemesis and fellow vassal's"
  relation_rival_male_possessive:0 "rival's"
  relation_nemesis_male_possessive:0 "nemesis'"
  relation_crush_possessive:0 "crush's"
@@ -380,6 +394,8 @@
  relation_victim_possessive:0 "victim's"
  relation_vassal_female_possessive:0 "vassal's"
  relation_vassal_male_possessive:0 "vassal's"
+ relation_fellow_vassal_female_possessive: "fellow vassal's"
+ relation_fellow_vassal_male_possessive: "fellow vassal's"
  relation_councillor_female_possessive:0 "[second.GetCouncilTitlePossessive]"
  relation_councillor_male_possessive:0 "[second.GetCouncilTitlePossessive]"
  relation_liege_female_possessive:0 "liege's"
@@ -394,6 +410,8 @@
  relation_kinsman_possessive:0 "kinsman's"
  relation_courtier_female_possessive:0 "courtier's"
  relation_courtier_male_possessive:0 "courtier's"
+ relation_follower_female_possessive: "follower's"
+ relation_follower_male_possessive: "follower's"
  relation_agent_possessive:0 "agent's"
  relation_peasant_affair_female_possessive:0 "one-time... #EMP acquaintance's#!"
  relation_peasant_affair_male_possessive:0 "one-time... #EMP acquaintance's#!"
@@ -418,6 +436,7 @@
  relation_son_consort_possessive:1 "son-concubine's"
  relation_hostage_possessive: "hostage's"
  relation_warden_possessive: "warden's"
+ relation_you: "you"
  ###CharacterIntroduction###
 
  #Perspective specific NoComma
@@ -428,7 +447,7 @@
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_mother:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetMother.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetMother.Custom2('MyCharacterIntroductionNoComma', second)]"
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_councillor:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetCouncilTitle] of [ROOT.Char.GetLiege.Custom2('MyCharacterIntroductionNoComma', second)]"
  MyCharacterIntroductionNoComma_the_relation_of_MyCharacterIntroductionNoComma_knight:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetLiege.Custom('KnightCultureNoTooltip')] of [ROOT.Char.GetLiege.Custom2('MyCharacterIntroductionNoComma', second)]"
- 
+
  YourCharacterIntroductionNoComma_your_counciltitle_firstname:0 "your [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstName]"
  YourCharacterIntroductionNoComma_your_relation_titledfirstname:0 "your [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
  YourCharacterIntroductionNoComma_the_relation_of_YourCharacterIntroductionNoComma_primaryspouse:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetPrimarySpouse.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetPrimarySpouse.Custom2('YourCharacterIntroductionNoComma', second)]"
@@ -436,7 +455,7 @@
  YourCharacterIntroductionNoComma_the_relation_of_YourCharacterIntroductionNoComma_mother:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetMother.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetMother.Custom2('YourCharacterIntroductionNoComma', second)]"
  YourCharacterIntroductionNoComma_the_relation_of_YourCharacterIntroductionNoComma_councillor:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetCouncilTitle] of [ROOT.Char.GetLiege.Custom2('YourCharacterIntroductionNoComma', second)]"
  YourCharacterIntroductionNoComma_the_relation_of_YourCharacterIntroductionNoComma_knight:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetLiege.Custom('KnightCultureNoTooltip')] of [ROOT.Char.GetLiege.Custom2('YourCharacterIntroductionNoComma', second)]"
- 
+
  HerHisCharacterIntroductionNoComma_herhis_counciltitle_firstname:0 "[second.GetHerHis] [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstName]"
  HerHisCharacterIntroductionNoComma_herhis_relation_titledfirstname:0 "[second.GetHerHis] [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
  HerHisCharacterIntroductionNoComma_the_relation_of_HerHisCharacterIntroductionNoComma_primaryspouse:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetPrimarySpouse.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetPrimarySpouse.Custom2('HerHisCharacterIntroductionNoComma', second)]"
@@ -444,7 +463,7 @@
  HerHisCharacterIntroductionNoComma_the_relation_of_HerHisCharacterIntroductionNoComma_mother:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetMother.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetMother.Custom2('HerHisCharacterIntroductionNoComma', second)]"
  HerHisCharacterIntroductionNoComma_the_relation_of_HerHisCharacterIntroductionNoComma_councillor:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetCouncilTitle] of [ROOT.Char.GetLiege.Custom2('HerHisCharacterIntroductionNoComma', second)]"
  HerHisCharacterIntroductionNoComma_the_relation_of_HerHisCharacterIntroductionNoComma_knight:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetLiege.Custom('KnightCultureNoTooltip')] of [ROOT.Char.GetLiege.Custom2('HerHisCharacterIntroductionNoComma', second)]"
- 
+
  NamePossessiveCharacterIntroductionNoComma_namepossessive_counciltitle_firstname:0 "[second.GetTitledFirstNamePossessiveNoTooltip] [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstName]"
  NamePossessiveCharacterIntroductionNoComma_namepossessive_relation_titledfirstname:0 "[second.GetTitledFirstNamePossessiveNoTooltip] [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
  NamePossessiveCharacterIntroductionNoComma_the_relation_of_NamePossessiveCharacterIntroduction_primaryspouse:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetPrimarySpouse.Custom2('RelationToMe', ROOT.Char)] of [ROOT.Char.GetPrimarySpouse.Custom2('NamePossessiveCharacterIntroductionNoComma', second)]"
@@ -453,8 +472,8 @@
  NamePossessiveCharacterIntroductionNoComma_the_relation_of_NamePossessiveCharacterIntroductionNoComma_councillor:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetCouncilTitle] of [ROOT.Char.GetLiege.Custom2('NamePossessiveCharacterIntroductionNoComma', second)]"
  NamePossessiveCharacterIntroductionNoComma_the_relation_of_NamePossessiveCharacterIntroductionNoComma_knight:0 "[ROOT.Char.GetTitledFirstName], the [ROOT.Char.GetLiege.Custom('KnightCultureNoTooltip')] of [ROOT.Char.GetLiege.Custom2('NamePossessiveCharacterIntroductionNoComma', second)]"
 
- 
- #Perspective specific Comma 
+
+ #Perspective specific Comma
  MyCharacterIntroductionNoCommaPlusComma:0 "[ROOT.Char.Custom2('MyCharacterIntroductionNoComma', SCOPE.sC('second'))],"
  YourCharacterIntroductionNoCommaPlusComma:0 "[ROOT.Char.Custom2('YourCharacterIntroductionNoComma', SCOPE.sC('second'))],"
  HerHisCharacterIntroductionNoCommaPlusComma:0 "[ROOT.Char.Custom2('HerHisCharacterIntroductionNoComma', SCOPE.sC('second'))],"
@@ -479,7 +498,7 @@
  CharacterIntroductionSupportNoComma_firstnamedynastyname_a_nobleman:0 "[ROOT.Char.GetFullName], a nobleman"
  CharacterIntroductionSupportNoComma_firstname_a_commoner:0 "[ROOT.Char.GetFirstName], a commoner"
  CharacterIntroductionSupportNoComma_fallback:0 "[ROOT.Char.Custom2('CharacterIntroductionSupportNoComma', SCOPE.sC('second'))]"
- 
+
 
  #Relation_to_me with MY
  relation_my:0 "my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
@@ -496,7 +515,7 @@
 
  #Relation_to_me with NAME
  relation_name:0 "[ROOT.Char.GetNamePossessive] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('second'))]"
- 
+
  #Scripted relations
  friend:1 "[friend|E]"
  best_friend:1 "[best_friend|E]"
@@ -519,14 +538,19 @@
  crush:1 "[crush|E]"
  oaf:0 "#D Oaf (Hidden)#!"
  soldier_friend:0 "#D Soldier-Friend (Hidden)#!"
+ favorite_child: "[favorite_child|E]"
+ old_flame: "#D Old Flame (Hidden)#!"
+ grudge: "[grudge|E]"
 
  friend_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [friend|E]"
  best_friend_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [best_friend|E]"
  rival_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [rival|E]"
  nemesis_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [nemesis|E]"
+ grudge_desc: "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [grudge|E]"
  lover_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [lover|E]"
  soulmate_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [soulmate|E]"
- 
+ favorite_child_desc: "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [favorite_child|E]"
+
  #Frame playable
  FRAME_RELATION_ME:1 "#T This is you#!"
  FRAME_RELATION_MY_HEIR:2 "#T This is your [player_heir|E]#!"
@@ -553,7 +577,8 @@
  FRAME_RELATION_POWERFUL_VASSAL:1 "#T Powerful Vassal#!\nThis [ruler|E] is a [powerful_vassal|E] who doesn't expect anything from you"
  FRAME_RELATION_HAPPY_POWERFUL_VASSAL:1 "#T Powerful Vassal#!\nThis [ruler|E] is a [powerful_vassal|E] who expects to remain on the [council|E]"
  FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T Powerful Vassal#!\n@warning_icon! #X This [ruler|E] is a [powerful_vassal|E] who has a lowered [opinion|E] of you because you have not granted them a position on your [council|E]#!"
- FRAME_RELATION_NON_POWERFUL_VASSAL:0 "#T Vassal#!"
+ FRAME_RELATION_POWERFUL_FAMILY: "#T Head of Powerful Family#!\nThis [character|E] is the [house_head|E] of a [powerful_family|E] - [house|E] [Character.GetHouse.GetName]"
+ FRAME_RELATION_DOMINANT_FAMILY: "#T Head of Dominant Family#!\nThis [character|E] is the [house_head|E] of a [dominant_family|E] - [house|E] [Character.GetHouse.GetName]"
 
  #To address someone (RelationToMeAddress)
  relation_my_love:0 "my love"
@@ -569,7 +594,7 @@
  FRAME_HEAD_OF_HOUSE:0 "#T Head of [house|E]#!\n$TT_HOUSE_HEAD_DESC$"
  FRAME_HOUSE_BASTARD:0 "#T [bastard|E]#!"
  FRAME_LEGITIMIZED_HOUSE_BASTARD:0 "#T Legitimized [bastard|E]#!"
- 
+
  title_council_name:0 "[ROOT.Char.GetCouncilTitle]"
  title_landed_name:0 "[ROOT.Char.GetTitleAsName]"
  title_council_name_possessive:0 "[ROOT.Char.GetCouncilTitlePossessive]"
@@ -584,10 +609,25 @@
  mother_mum: "mum"
  father_dad: "dad"
 
+ stammer_m: "m"
+ stammer_f: "f"
+
  lass:0 "lass"
  lad:0 "lad"
 
  my:0 "my"
+
+ abbreviated_er: "er"
+ abbreviated_im: "im"
+
+ consort_wife: "wife"
+ consort_husband: "husband"
+ consort_betrothed: "betrothed"
+ consort_concubinist: "concubinist"
+ consort_concubine: "concubine"
+ consort_soulmate: "soulmate"
+ consort_lover: "lover"
+ consort_good_friend: "good friend"
 
 # BP custom loc
  relation_chum:0 "chum"
@@ -616,3 +656,7 @@
  relation_great_grandfather_plural:0 "great grandfathers"
  relation_kinswoman_plural:0 "kinswomen"
  relation_kinsman_plural:0 "kinsmen"
+
+#EP3 custom loc
+relation_ally: "ally"
+relation_foe: "foe"

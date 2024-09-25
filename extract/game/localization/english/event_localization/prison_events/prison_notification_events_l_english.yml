@@ -1,6 +1,6 @@
-﻿l_english:
+﻿l_english: 
  prison_notification.0001.t:0 "Imprisoned!"
- prison_notification.0001.desc:0 "I have been captured and detained against my will by [imprisoner.GetTitledFirstName].\n\nI am no longer free to return to my home or travel as I wish."
+ prison_notification.0001.desc:0 "I have been captured and detained against my will by [imprisoner.GetTitledFirstName]!\n\nI am no longer free to return to my [ROOT.Char.Custom('GetCourt')], or travel as I wish."
  prison_notification.0001.a:0 "I hope this does not last."
 
  prison_notification.0002.t:0 "Imprisoned!"

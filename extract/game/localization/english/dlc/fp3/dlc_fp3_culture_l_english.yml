@@ -19,7 +19,6 @@
  ###################################
  master_assassin_court_position: "Master Assassin"
  master_assassin_court_position_desc: "Bound by faith or creed, the Master Assassin aids their liege with unconventional approaches to warfare, espionage, terror and murder."
- master_assassin_employer_custom_effect_description: "$BULLET$Unlocks the Assassination [scheme|E]\n@alert_icon! #alert_trial Cannot be a [knight|E]!#!"
  
  has_no_particular_noble_roots_trigger: "Is [lowborn|E] or of an insignificant [dynasty|E]"
 

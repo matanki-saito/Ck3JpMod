@@ -24,20 +24,20 @@
  0002.blank_verse_line_1_C:0 " Charles the King, our Lord and Sovereign,"
  0002.blank_verse_line_1_D:0 " Merry and bold is now that Emperor,"
  # Second line
- 0002.blank_verse_line_2_A:0 "  Went he his way into an orchard cool;"
- 0002.blank_verse_line_2_B:0 "  In vassalage he was a gallant knight,"
- 0002.blank_verse_line_2_C:0 "  Full seven years hath sojourned in Spain,"
- 0002.blank_verse_line_2_D:0 "  Cordres he holds, the walls are tumbled down,"
+ 0002.blank_verse_line_2_A:0 " Went he his way into an orchard cool;"
+ 0002.blank_verse_line_2_B:0 " In vassalage he was a gallant knight,"
+ 0002.blank_verse_line_2_C:0 " Full seven years hath sojourned in Spain,"
+ 0002.blank_verse_line_2_D:0 " Cordres he holds, the walls are tumbled down,"
  # Third line
  0002.blank_verse_line_3_A:0 " There on a throne he sate, of marble blue,"
  0002.blank_verse_line_3_B:0 " First in prowess, he stood his lord beside."
  0002.blank_verse_line_3_C:0 " Conquered the land, and won the western main,"
  0002.blank_verse_line_3_D:0 " His catapults have battered town and tow'r."
  # Fourth line
- 0002.blank_verse_line_4_A:0 "  Round him his men, full twenty thousand, stood."
- 0002.blank_verse_line_4_B:0 "  And thus he spoke: "Do not yourself affright!"
- 0002.blank_verse_line_4_C:0 "  Now no fortress against him doth remain,"
- 0002.blank_verse_line_4_D:0 "  Silver and gold and many a jeweled gown."
+ 0002.blank_verse_line_4_A:0 " Round him his men, full twenty thousand, stood."
+ 0002.blank_verse_line_4_B:0 " And thus he spoke: "Do not yourself affright!"
+ 0002.blank_verse_line_4_C:0 " Now no fortress against him doth remain,"
+ 0002.blank_verse_line_4_D:0 " Silver and gold and many a jeweled gown."
 
 
 
@@ -52,8 +52,8 @@
  # Second line
  0003.line_2_A:0 "We all gave in to [ROOT.GetCharacter.Custom('noun_abstract_singular_one')|D] so cruel"
  0003.line_2_B:0 "Seeing now with eyes of [ROOT.GetCharacter.Custom('noun_abstract_plural_two')|D]"
- 0003.line_2_C:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D]  Full seven years hath sojourned in Spain,"
- 0003.line_2_D:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D]  Cordres he holds, the walls are tumbled down,"
+ 0003.line_2_C:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D] Full seven years hath sojourned in Spain,"
+ 0003.line_2_D:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D] Cordres he holds, the walls are tumbled down,"
  # Third line
  0003.line_3_A:0 "If your [ROOT.GetCharacter.Custom('noun_specific_singular_two')|D] I fail to reach"
  0003.line_3_B:0 "After [ROOT.GetCharacter.Custom('two_syllable_number')|D] years of [ROOT.GetCharacter.Custom('noun_abstract_plural_two')|D]"
@@ -62,8 +62,8 @@
  # Fourth line
  0003.line_4_A:0 "They may never take my [ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D]"
  0003.line_4_B:0 "Soon the [ROOT.GetCharacter.Custom('noun_specific_plural_two')|D] are all forgotten"
- 0003.line_4_C:0 "[ROOT.GetCharacter.Custom('noun_specific_singular_two')|D]  Now no fortress against him doth remain,"
- 0003.line_4_D:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D]  Silver and gold and many a jeweled gown."
+ 0003.line_4_C:0 "[ROOT.GetCharacter.Custom('noun_specific_singular_two')|D] Now no fortress against him doth remain,"
+ 0003.line_4_D:0 "[ROOT.GetCharacter.Custom('noun_abstract_singular_two')|D] Silver and gold and many a jeweled gown."
  0003.poetry_from:0 "[actor.GetTitledFirstName] has written you a poem\n\n"
 
 

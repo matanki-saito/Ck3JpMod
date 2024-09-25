@@ -131,6 +131,8 @@
  death_burned_witch:0 "was burned at the stake"
  death_burned_witch_killer:0 "was burned at the stake on [TARGET_CHARACTER.GetUINamePossessive] orders"
  death_pilgrimage_bandit_attack:0 "was overcome by bandits while on a pilgrimage"
+ death_bandit_attack:0 "was cut down by bandits"
+ death_starving_peasant_horde: "was torn apart by a horde of starving peasants"
  death_sun_trial:0 "executed through Sun Trial"
  death_sun_trial_killer:0 "executed through Sun Trial on [TARGET_CHARACTER.GetUINamePossessive] orders"
  death_attacked:0 "was killed in an attack"
@@ -138,6 +140,7 @@
  death_feast_accident:0 "died when a feast went horribly wrong"
  death_fall:0 "fell to [CHARACTER.GetHerHis] death"
  death_fell_bedchamber:0 "fell from the window of [CHARACTER.GetHerHis] bedchamber to [CHARACTER.GetHerHis] death"
+ death_fell_wilderness: "fell from [CHARACTER.GetHerHis] horse whilst traveling, breaking [CHARACTER.GetHerHis] neck"
  death_drowned:0 "drowned"
  death_poison:0 "was poisoned"
  death_poison_killer:0 "was poisoned by [TARGET_CHARACTER.GetUIName]"
@@ -241,7 +244,7 @@
  death_manhunted_killer:0 "was manhunted and killed by [TARGET_CHARACTER.GetUIName]"
  death_manhunted_eaten:0 "was manhunted and eaten"
  death_manhunted_eaten_killer:0 "was manhunted and eaten by [TARGET_CHARACTER.GetUIName]"
- death_revenge:0 "was killed in an act of vengeances"
+ death_revenge:0 "was killed in an act of vengeance"
  death_revenge_killer:0 "was killed by [TARGET_CHARACTER.GetUIName] in an act of vengeance"
  death_too_much_dessert:0 "died of a faint heart after eating too much dessert"
  death_too_much_dessert_killer:0 "was fed a dessert poisoned by [TARGET_CHARACTER.GetUIName]"
@@ -303,6 +306,8 @@
  death_apoplexy:0 "succumbed to fatal apoplexy"
  death_run_over_cart:0 "was run over by a speeding cart"
 
+ death_crushed_in_chariot_race: "was crushed in a chariot racing accident"
+ death_chariot_race_trick: "died attempting to impress the Hippodrome"
  # HUNT
  death_deer:0 "was skewered on a stag's antlers"
  death_fox:0 "was bitten by a cornered fox"
@@ -334,8 +339,8 @@
  death_cut_off_by_enemy_troops_defensive:0 "was slaughtered by enemy soldiers during a chaotic retreat"
 
  # TRAVEL DANGER
-death_fallen_from_a_mountain:0 "has fallen from the mountain trail"
- death_mountain_rescue_operation:0 "heroically died on a mountain slope while attempting to rescue a fellow traveler"
+ death_fallen_from_a_mountain:0 "fell from a mountain trail"
+ death_mountain_rescue_operation:0 "died on a mountain slope heroically attempting to rescue a fellow traveler"
  death_fall_in_hole:0 "fell in a hole"
  death_fall_in_hole_killer:0 "was pushed into a hole by [TARGET_CHARACTER.GetUIName]"
  death_stampede:0 "was trampled by a stampeding herd"
@@ -348,3 +353,53 @@ death_fallen_from_a_mountain:0 "has fallen from the mountain trail"
 
  #CE1
  death_peaceful: "was collected by [CHARACTER.GetFaith.HighGodName] in [CHARACTER.GetHerHis] sleep"
+
+#EP#
+ death_kennel: "was eaten by dogs"
+ death_kennel_killer: "was eaten by dogs on [TARGET_CHARACTER.GetUINamePossessive] orders"
+ 
+ death_thrown_off_kathisma: "was hurled from the imperial box"
+ death_thrown_off_kathisma_killer: "was hurled from the imperial box by [TARGET_CHARACTER.GetUINamePossessive] agents"
+
+ death_thrown_onto_chariot_track: "was hurled onto the Hippodrome's track and crushed by a chariot"
+ death_thrown_onto_chariot_track_killer: "was thrown onto the Hippodrome's track by [TARGET_CHARACTER.GetUIName] and crushed by a chariot"
+
+ death_killed_while_attempting_murder: "was killed while attempting murder"
+ death_killed_while_attempting_murder_killer: "was killed while attempting to murder [TARGET_CHARACTER.GetUIName]"
+
+ death_castration: "was castrated poorly and bled unceasingly"
+ death_greek_fire:0 "was immolated by Greek fire during battle"
+ death_greek_fire_killer:0 "was immolated by Greek fire during battle against [TARGET_CHARACTER.GetUINamePossessive] fleet"
+
+ death_frankokratia_sacking: "was slaughtered by Latin crusaders as Byzantium burned"
+
+ death_raid_estate: "was killed in an estate raid"
+ death_raid_estate_killer: "was killed in an estate raid orchestrated by [TARGET_CHARACTER.GetUIName]"
+
+ death_attacking_laamp_train: "was cut down whilst attacking an adventure's baggage train"
+ death_struck_by_lightning: "was struck by lightning"
+ death_swept_away_by_avalanche: "was swept away by a devastating avalanche"
+ death_burnt_in_wild_fire: "burnt to death in a wildfire"
+ death_swept_away_by_flash_flood: "was swept away by a deadly flash flood"
+ death_drowned_in_hidden_icy_water: "drowned when [CHARACTER.GetSheHe] fell through ice into freezing cold water"
+ death_consumed_by_earthquake: "was consumed by the Earth's maw when the land itself split apart"
+ death_disappeared_into_slave_markets: "was barbarically sold into obscurity in some distant foreign land"
+ death_disappeared_into_slave_markets_killer: "$death_disappeared_into_slave_markets$ by [TARGET_CHARACTER.GetUIName]"
+ death_hunted_by_wild_beast: "was dragged away, torn apart, and — presumably — eaten by some mysterious night-time monster"
+
+ death_killed_by_monstrous_dog: "was torn apart by a huge feral dog"
+ death_killed_by_monstrous_wolf: "was torn to pieces by a monstrous wolf"
+ death_killed_by_monstrous_hyena: "was disembowelled by a monstrous hyena"
+ death_killed_by_monstrous_lion: "was bitten in half by a monstrous lion"
+ death_killed_by_monstrous_tiger: "was torns to bloody ribbons by a monstrous tiger"
+ death_killed_by_monstrous_leopard: "had [CHARACTER.GetHerHis] throat torn out by a monstrous leopard"
+ death_killed_by_monstrous_panther: "had [CHARACTER.GetHerHis] throat torn out by a monstrous panther"
+ death_killed_by_monstrous_lynx: "had [CHARACTER.GetHerHis] throat torn out by a monstrous lynx"
+ death_killed_by_monstrous_caracal: "had [CHARACTER.GetHerHis] throat torn out by a monstrous caracal"
+ death_killed_by_monstrous_bear: "was reduced to a collection of gristle by a monstrous bear"
+ death_killed_by_monstrous_hippo: "was swallowed in several messy, spine-snapping bites by a monstrous hippo"
+ death_killed_by_monstrous_crocodile: "was disembowelled by a monstrous crocodile"
+
+ death_slain_in_riot: "was slaughtered in a riot"
+ death_slain_in_riot_killer: "$death_slain_in_riot$ due to [TARGET_CHARACTER.GetUIName]"
+ 

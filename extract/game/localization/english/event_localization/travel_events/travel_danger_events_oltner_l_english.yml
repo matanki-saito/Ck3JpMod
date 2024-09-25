@@ -7,13 +7,13 @@
  travel_danger_events.9000.b:0 "[mosquito_victim.GetFirstNameNoTooltip]! Strip down, you'll walk in the front."
  drained_by_mosquitoes_modifier:0 "Drained by Mosquitoes"
  drained_by_mosquitoes_modifier_desc:0 "This character has been assaulted by a swarm of blood-sucking insects, draining a non-insignificant amount of their sanguine essence."
-  
+ 
  travel_danger_events.9010.t:1 "$travel_danger_prefix$ Sticks in the Wheel"
  travel_danger_events.9010.desc:0 ""[location.Custom('GetRandomRegionalDanger')|U]!" I hear [irritated_character.GetFirstName] shout out in panic. Soon thereafter I hear a loud cracking sound — like that of wood breaking, or of my patience finally snapping.\n\nI step out on the [location.Custom('GetProvinceGroundDesc')] to see the splintered remains of a wagon-wheel... #EMP my#! wagon-wheel!\n\n"I am sorry, my [irritated_character.Custom2('RelationToMeShort', SCOPE.sC('root_scope'))]. It was my turn as lookout, and I fell asleep at the reins...""
  travel_danger_events.9010.strong:0 "#EMP *Sigh loudly while heaving the wagon off the ground*#!"
  travel_danger_events.9010.a:0 "[root_scope.Custom('CulturalCurse')|U]... we're going to be late."
  travel_danger_events.9010.b:0 "Shuffle the supplies around, I'll ride rough from now on..."
-  
+ 
  travel_danger_events.9020.t:1 "$travel_danger_prefix$ Emergent Emaciation"
  travel_danger_events.9020.desc.first:0 ""We... we are #EMP completely#! out of [ROOT.Char.Custom('GetExpensiveDessert')]!" My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('emaciated_character'))] [emaciated_character.GetFirstName] stammers nervously. "And [ROOT.Char.Custom('GetExpensiveMeal')], and [ROOT.Char.Custom('GetExpensiveMealAlt')], and [ROOT.Char.Custom('GetLocalStreetFoodPlural')], and even #EMP [ROOT.Char.Custom('get_region_root_vegetable_plural')]!#!"\n\n"
  travel_danger_events.9020.desc.war:0 ""Those scavenging soldiers made off with everything we had in the night! We're not left with a #EMP single crumb!#!" [emaciated_character.GetSheHe|U] cries. "We're going to starve!""
@@ -25,5 +25,5 @@
  travel_danger_events.9020.hunter:0 "There's bound to be prey somewhere!"
  travel_danger_events.9020.cannibal:0 "Oh [emaciated_character.GetFirstNameNoTooltip], would you give your life for [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]?"
  emaciated_modifier:0 "Emaciated"
- emaciated_modifier_desc:0 "This cahracter has traveled for a long distance without any food at all."
+ emaciated_modifier_desc:0 "This character has traveled for a long distance without any food at all."
  cannibalicus_maximus:0 "You and all entourage members will get the Cannibal [secret|E], if you're not already Cannibals"

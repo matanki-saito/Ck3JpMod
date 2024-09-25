@@ -19,8 +19,6 @@
  county_increased_presence_modifier_desc:0 "This county has an increased presence of violent officials"
  county_confident_in_humanity_modifier:0 "Confident in Liege's Humanity"
  county_superstitious_of_ruler_modifier:0 "Superstitious of Ruler"
- county_superstitious_of_ruler_modifier_desc:0 "Parents tell stories of their liege to scare their children"
- county_chastised_beloved_adventurer_modifier:0 "Chastised Beloved Adventurer"
  county_chastised_beloved_adventurer_modifier_desc:0 "A beloved piece of furniture in the local tavern: the mostly-uninspired adventurer, has been removed by a disapproving ruler."
  
  harassing_merchants_modifier:0 "Harassed Merchants"
@@ -30,14 +28,17 @@
  hold_court_cropsharing_desc:0 "Shortages caused by blight have been alleviated in this county by having local villages share their harvests."
  hold_court_free_labor:0 "Free Labor"
  hold_court_free_labor_desc:0 "Laborers in this county are repaying their liege's generosity with toil and sweat."
- hold_court_ploughs_to_swords:0 "Ploughshares to Swords"
+ hold_court_ploughs_to_swords:0 "Plowshares to Swords"
  hold_court_ploughs_to_swords_desc:0 "The farms of this county lay empty; their tenants enlisted to fight instead of sow."
 
  promote_culture_modifier:0 "Celebrated Culture"
 
  small_investment_in_revolt_modifier:0 "Peasant Outcry"
+ small_investment_in_revolt_modifier_desc: "[county_corruption|E]\nPeasants are voicing their concerns under foreign influence in this County"
  medium_investment_in_revolt_modifier:0 "Peasant Outrage"
+ medium_investment_in_revolt_modifier_desc: "[county_corruption|E]\nPeasants are agitated by foreign agents and refuse work in this County"
  high_investment_in_revolt_modifier:0 "Peasant Riots"
+ high_investment_in_revolt_modifier_desc: "[county_corruption|E]\nPeasants are instigated by foreign propaganda into rioting all over this County, "
  divide_and_conquer_modifier:0 "Religious Propaganda"
  divide_and_conquer_modifier_desc:0 "The locals of this county have been subjected to religious propaganda, rallying them to their liege's banner."
 

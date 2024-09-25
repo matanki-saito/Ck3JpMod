@@ -10,8 +10,7 @@
  tribal_holding_concept_key:0 "[tribe|E]"
  
  GARRISON_TOOLTIP:1 "#T [garrison|E]: $CURRENT_VALUE|V$/$MAX_VALUE|V$#!"
- BUILDING_VALUE:0 "$BUILDING|V$"
- BUILDING_VALUE_ENTRY:0 "$BUILDING|V$"
+ BUILDING_VALUE: "$BUILDING$"
  DOMAIN_LIMIT_OVERRUN_LEVY_PENALTY:0 "@warning_icon! #X Reduced by $VALUE|-%0$ due to being above [domain_limit|E]#!"
  DOMAIN_LIMIT_GRACE_PERIOD_LEVY_PENALTY:0 "@warning_icon! #X Due to being above [domain_limit|E], newly acquired holdings provide no levies#! $EXPIRES$"
  COUNTY_CONTROL_LEVY_PENALTY:0 "@warning_icon! #X Reduced by $VALUE|%0$ due to low [county_control|E]#!"
@@ -35,10 +34,11 @@
  SUPPLY_MULT_SAME_SUB_REALM_ALLY:0 "Allied [realm|E]"
  SUPPLY_MULT_SAME_REALM_ALLY:0 "Allied [top_realm|E]"
  COUNTY_HOLDING_MODIFIER_INCOME:0 "Income from $TYPE|V$ holdings in the [county|E]"
- COUNTY_DEVELOPMENT_TAX_MOD:1 "From [county_development|E]: $VALUE|=+%0$"
- COUNTY_DEVELOPMENT_LEVY_MOD:1 "From [county_development|E]: $VALUE|=+%0$"
+ COUNTY_DEVELOPMENT_TAX_MOD: "From [county_development|E]"
+ COUNTY_DEVELOPMENT_LEVY_MOD: "From [county_development|E]"
+ COUNTY_GOVERNOR_EFFICIENCY_MOD: "Modified by $VALUE|+%0=$ from [governor_efficiency|E]"
  SUPPLY_MINIMUM:0 "Minimum Supply"
- 
+
  HOLDING_TT_CONSTRUCTING:1 "Constructing [BUILDING.GetName|V] (finishing [DATE.GetString])"
  HOLDING_TT_CONSTRUCTING_HOLDING:0 "Constructing $BUILDING|V$ (finishing [DATE.GetString])"
  HOLDING_TT_UNDER_SIEGE:0 "Under [siege|E] by [CHARACTER.GetPrimaryTitle.GetName]"

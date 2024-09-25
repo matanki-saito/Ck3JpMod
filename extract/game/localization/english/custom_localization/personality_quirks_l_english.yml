@@ -107,7 +107,7 @@
 
 
  ######################
- #	Personal Present  #
+ #	Personal Present #
  ######################
  #Example: "While awaiting a response, I QUIRK." "I QUIRK while telling her."
 
@@ -194,7 +194,7 @@
 
 
  ########################
- #	Present standalone  #
+ #	Present standalone #
  ########################
  #Example: ""Blah blah," another character says. STANDALONE.
 
@@ -277,7 +277,7 @@
  forgiving_2_neg_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] seem to hesitate"
 
  ########################
- #	Present Participle  #
+ #	Present Participle #
  ########################
  #Example: "I look at her PP." or "He is PP right now."
 
@@ -362,7 +362,7 @@
 
 
  #################################
- #	Personal Present Participle  #
+ #	Personal Present Participle #
  #################################
  #Example: "I say, PP." or "I am PP right now."
 
@@ -449,7 +449,7 @@
 
 
  ##########
- #	Noun  #
+ #	Noun #
  ##########
  #Example: ""Blah blah," he said with his usual NOUN"
 
@@ -536,7 +536,7 @@
 
 
  ############
- #	Adverb  #
+ #	Adverb #
  ############
  #Example: "He smiles ADVERB."
 
@@ -638,7 +638,7 @@
 
 
  ###############
- #	Adjective  #
+ #	Adjective #
  ###############
  #Example: "As always, she seemed very ADJECTIVE."
 

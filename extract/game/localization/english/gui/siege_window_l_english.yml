@@ -17,7 +17,7 @@
  SW_TT_FORT_LEVEL_MULT:0 "[fort_level|E]"
  SW_TT_MORALE_LOSS_LABEL:0 "Daily Progress: $VALUE|+=1$"
  SW_TT_MORALE_LOSS_LABEL_MINIMUM:0 "#! #weak (min $VALUE|=1$)#!"
- SIEGE_WINDOW_END_DATE:2 "Siege will last at most $TIME$ more ([$DATE.GetString|V$]) with the current progress"
+ SIEGE_WINDOW_END_DATE:2 "Siege will last at most $TIME$ more ([DATE.GetString|V]) with the current progress"
  SIEGE_WINDOW_END_DATE_SHORT:0 "Max $TIME$ left"
  SW_TT_SIEGING_REALM_TOOLTIP:1 "#T Besieger: [Character.GetPrimaryTitle.GetName|VU]#!\n#I Click to view#!"
  SW_TT_DEFENDING_REALM_TOOLTIP:1 "#T Defender: [Character.GetPrimaryTitle.GetName|VU]#!\n#I Click to view#!"

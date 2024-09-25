@@ -48,7 +48,7 @@
  fp1_jomsvikings.0021.b.tt:0 "The [army|E] will include recruitable $bondi$ [men_at_arms|E]"
  fp1_jomsvikings.0021.c:0 "I prefer my soldiers a bit more... disciplined."
 
- # Jomsvikings challenge a Dishonourable Norse Pagan Ruler to Holmgang
+ # Jomsvikings challenge a Dishonorable Norse Pagan Ruler to Holmgang
  fp1_jomsvikings.0041.t:0 "A Disgrace to the Gods"
  fp1_jomsvikings.0041.desc:0 ""#EMP [ROOT.Char.GetFirstNameNoTooltip]#!!" Howls [leader.GetTitledFirstName] as [leader.GetSheHe] bursts into my throne room, half-clothed.\n\n"Your sinful ways and flagrant dishonor are a disgrace to [leader.GetFaith.GetAdherentNamePlural] everywhere, and the [leader.GetPrimaryTitle.GetNameNoTier] will no longer stand for it! No excuses, no tricks, we holmgang, #EMP here#! and #EMP now#!!"\n\nBemused, my guards clutch their weapons, ready to make a move on the intruder at a moment's notice.\n\nWhatever I do, word of my actions will doubtless carry out over the world."
  fp1_jomsvikings.0041.a:0 "I'll send you to Valhöll with a smile!"

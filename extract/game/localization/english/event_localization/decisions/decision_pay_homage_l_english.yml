@@ -22,17 +22,17 @@
  pay_homage_gold_tooltip:0 "$pay_homage_decision_second_tooltip$"
  pay_homage_decision_effects_gold:0 "Your [liege|E] will receive your gift of [gold|E]"
  pay_homage_gold_tt:0 "#X You do not have enough [gold|E]#!"
-  # Hook
+ # Hook
  pay_homage_decision_option_hook:0 "...and Promise Favor\n#low Give a [hook|E]#!"
  pay_homage_hook_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] will receive a weak [hook|E] on you"
  pay_homage_hook_tooltip:0 "$pay_homage_decision_second_tooltip$"
  pay_homage_decision_effects_hook:0 "Your [liege|E] will receive a strong [hook|E] on you"
  pay_homage_hook_tt:0 "#X Your [liege|E] already has a [hook|E] on you#!"
  # Contract
- pay_homage_decision_option_contract:0 "...and Increase Obligations\n#low Give [contract|E] obligations#!"
- pay_homage_contract_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] will receive greater taxes or levies from by [contract|E]"
+ pay_homage_decision_option_contract:0 "...and Increase Obligations\n#low Give [vassal_contract|E] obligations#!"
+ pay_homage_contract_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] will receive greater taxes or levies from by [vassal_contract|E]"
  pay_homage_contract_tooltip:0 "$pay_homage_decision_second_tooltip$"
  pay_homage_decision_effects_contract_gold:0 "Your [liege|E] will receive more [taxes|E] from you"
  pay_homage_decision_effects_contract_levies:0 "Your [liege|E] will receive more [levies|E] from you"
- pay_homage_contract_modifiable_tt:0 "#X Your [contract|E] has been changed too recently#!"
+ pay_homage_contract_modifiable_tt:0 "#X Your [vassal_contract|E] has been changed too recently#!"
  pay_homage_contract_increasable_tt:0 "#X Your [taxes|E] and [levies|E] cannot be raised#!"

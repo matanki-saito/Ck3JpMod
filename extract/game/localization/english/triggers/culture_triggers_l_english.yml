@@ -1,22 +1,22 @@
-﻿l_english:
+﻿l_english: 
 
- HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] culture has the [INNOVATION.GetName] innovation"
- NOT_HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] culture does #bold not#! have the [INNOVATION.GetName] innovation"
- HAS_INNOVATION_NONE:0 "[culture|E] has the [INNOVATION_TYPE.GetName] innovation"
- NOT_HAS_INNOVATION_NONE:0 "[culture|E] does #bold not#! have the [INNOVATION_TYPE.GetName] innovation"
+ HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] [culture|E] has the [INNOVATION.GetName] [innovation|E]"
+ NOT_HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] [culture|E] does #bold not#! have the [INNOVATION.GetName] [innovation|E]"
+ HAS_INNOVATION_NONE:0 "[culture|E] has the [INNOVATION_TYPE.GetName] [innovation|E]"
+ NOT_HAS_INNOVATION_NONE:0 "[culture|E] does #bold not#! have the [INNOVATION_TYPE.GetName] [innovation|E]"
 
  MUST_BE_UNLOCKED_BY_DECISION:0 "Must be unlocked by decision"
 
  HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] culture has reached $ERA$ era"
  NOT_HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] culture has #bold not#! reached $ERA$ era"
 
- DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is de jure drifting towards [TARGET_TITLE.GetName]"
- NOT_DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is #bold not#! de jure drifting towards [TARGET_TITLE.GetName]"
- DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is de jure drifting towards [TARGET_TITLE.GetName]"
- NOT_DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is #bold not#! de jure drifting towards [TARGET_TITLE.GetName]"
+ DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is [de_jure_drifting|E] towards [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is #bold not#! [de_jure_drifting|E] towards [TARGET_TITLE.GetName]"
+ DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is [de_jure_drifting|E] towards [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is #bold not#! [de_jure_drifting|E] towards [TARGET_TITLE.GetName]"
 
 
- DE_JURE_DRIFT_PROGRESS_TRIGGER:0 "De jure drift progress of [TITLE.GetName] towards [TARGET_TITLE.GetName] is $OPERATOR$ $VALUE|V0$"
+ DE_JURE_DRIFT_PROGRESS_TRIGGER:0 "[de_jure_drift|E] progress of [TITLE.GetName] towards [TARGET_TITLE.GetName] is $OPERATOR$ $VALUE|V0$"
 
  YOU_CAN_ONLY_CHANGE_CULTURE_ONCE:0 "You cannot willingly change your culture more than once per lifetime"
  KNOWS_LANGUAGE_FIRST:1 "I know [CULTURE_PILLAR.GetName]"
@@ -62,8 +62,8 @@
  HAS_CULTURAL_PILLAR_THIRD:0 "$HAS_CULTURAL_PILLAR_FIRST$"
  HAS_CULTURAL_PILLAR_THIRD_NOT:0 "$HAS_CULTURAL_PILLAR_FIRST_NOT$"
 
- HAS_CULTURAL_PARAMETER_FIRST:1 "[CULTURE.GetName|U] has the $PARAMETER_NAME$ [tradition|E]"
- HAS_CULTURAL_PARAMETER_FIRST_NOT:1 "[CULTURE.GetName|U] does not have the $PARAMETER_NAME$ [tradition|E]"
+ HAS_CULTURAL_PARAMETER_FIRST:1 "[CULTURE.GetName|U] [culture|E] has the $PARAMETER_NAME$ [tradition|E]"
+ HAS_CULTURAL_PARAMETER_FIRST_NOT:1 "Not unlocked by any [CULTURE.GetName|U] [tradition|E]"
  HAS_CULTURAL_PARAMETER_THIRD:0 "$HAS_CULTURAL_PARAMETER_FIRST$"
  HAS_CULTURAL_PARAMETER_THIRD_NOT:0 "$HAS_CULTURAL_PARAMETER_FIRST_NOT$"
 

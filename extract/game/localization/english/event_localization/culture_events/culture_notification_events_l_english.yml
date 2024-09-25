@@ -5,8 +5,8 @@
  culture_notification.0011.desc:2 "The [this_player.GetCulture.GetNameNoTooltip] Culture has embraced the [tradition.GetName] tradition"
 
 
- culture_notification.1001.t:0 "Hybrid Culture Formed"
- culture_notification.1001.desc:0 "[founder.GetTitledFirstName] has formed the [new_culture.GetNameNoTooltip] [hybrid_culture|E] from the [parent_1.GetNameNoTooltip] and [parent_2.GetNameNoTooltip] Cultures"
+ culture_notification.1001.t:0 "Hybrid Culture: [new_culture.GetNameNoTooltip|V]"
+ culture_notification.1001.desc:0 "[founder.GetTitledFirstName] has formed the [new_culture.GetName|V] [hybrid_culture|E] from the [parent_1.GetName] and [parent_2.GetName] Cultures"
 
  culture_notification.1011.t:0 "The [new_culture.GetNameNoTooltip] Hybridization"
  culture_notification.1011.intro:1 "Spurred on by positive relations and increased cultural exchange, the [parent_1.GetName] and [parent_2.GetName] peoples have grown increasingly close over the years. Now individuals from these societies have begun to view themselves not as one or the other, but as both, simultaneously — a new [new_culture.GetName] Culture.\n\n"
@@ -21,8 +21,8 @@
 
 
 
- culture_notification.1101.t:0 "Culture Diverged"
- culture_notification.1101.desc:0 "[founder.GetTitledFirstName] has created [new_culture.GetNameNoTooltip], a [divergent_culture|E] of [parent_1.GetNameNoTooltip]"
+ culture_notification.1101.t:0 "Culture Diverged: [new_culture.GetNameNoTooltip|V]"
+ culture_notification.1101.desc:0 "[founder.GetTitledFirstName] has created [new_culture.GetName|V], a [divergent_culture|E] of [parent_1.GetName]"
 
  culture_notification.1111.t:0 "The [new_culture.GetNameNoTooltip] Divergence"
  culture_notification.1111.intro:0 "Small changes in dialect, slightly different customs... It was easy to miss at first. Over time small changes led to large ones, however, and now the [parent_1.GetCollectiveNoun] living in [founder.GetPrimaryTitle.GetNameNoTierNoTooltip] have begun to identify themselves as [new_culture.GetName] instead.\n\n"

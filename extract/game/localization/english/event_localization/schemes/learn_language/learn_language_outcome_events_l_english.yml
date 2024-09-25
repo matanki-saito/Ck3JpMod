@@ -1,8 +1,8 @@
 ﻿l_english:
  learn_language_outcome.1000.t:1 "$learn_language$: Success!"
- learn_language_outcome.1000.desc:3 "After lots of hard work I've finally learned the [scheme.GetTarget.GetCulture.GetLanguage.GetName] language! Endless hours practicing accentuation, sleepless nights mimicking inflection, countless lessons mastering intonation... it was all worth it in the end.\n\nDuring my efforts I looked to emulate [target.GetTitledFirstNamePossessive] accent — I am sure that [target.GetSheHe] would be impressed with my results!\n\nAnd, of course, [target.GetCulture.GetNameNoTooltip] peasants now respect me a great deal more."
+ learn_language_outcome.1000.desc:3 "After lots of hard work I've finally learned the [scheme.GetTargetCharacter.GetCulture.GetLanguage.GetName] language! Endless hours practicing accentuation, sleepless nights mimicking inflection, countless lessons mastering intonation... it was all worth it in the end.\n\nDuring my efforts I looked to emulate [target.GetTitledFirstNamePossessive] accent — I am sure that [target.GetSheHe] would be impressed with my results!\n\nAnd, of course, [target.GetCulture.GetNameNoTooltip] peasants now respect me a great deal more."
  learn_language_outcome.1000.a:0 "I feel accomplished!"
- learn_language_outcome.1000.b:3 "Perhaps I should send a letter in [scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip] to [target.GetFirstNameNoTooltip]?"
+ learn_language_outcome.1000.b:3 "Perhaps I should send a letter in [scheme.GetTargetCharacter.GetCulture.GetLanguage.GetNameNoTooltip] to [target.GetFirstNameNoTooltip]?"
  learn_language_outcome.1000.b.success:4 "I impress [target.GetFirstNameNoTooltip] with my knowledge"
  learn_language_outcome.1000.b.failure:4 "My letter comes across as dishonest mockery"
  target_responds:0 "[target.GetTitledFirstName] responds to your letter"
@@ -13,8 +13,8 @@
  learn_language_outcome.1001.b:0 "Hah! [owner.GetHerHis|U] vain attempt at gaining glory is laughable!"
  
  learn_language_outcome.2000.t:1 "$learn_language$: Failure"
- learn_language_outcome.2000.desc:3 "After lots of hard work... nothing! It is #EMP impossible#! to learn the [scheme.GetTarget.GetCulture.GetLanguage.GetName] language. No matter how hard I try, I speak like a barely-weaned babe and write like an unlettered, blind serf who's missing most of their fingers!\n\nBah! This was a waste of time..."
- learn_language_outcome.2000.a:3 "I admit defeat... [scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip] is beyond my capabilities."
+ learn_language_outcome.2000.desc:3 "After lots of hard work... nothing! It is #EMP impossible#! to learn the [scheme.GetTargetCharacter.GetCulture.GetLanguage.GetName] language. No matter how hard I try, I speak like a barely-weaned babe and write like an unlettered, blind serf who's missing most of their fingers!\n\nBah! This was a waste of time..."
+ learn_language_outcome.2000.a:3 "I admit defeat... [scheme.GetTargetCharacter.GetCulture.GetLanguage.GetNameNoTooltip] is beyond my capabilities."
  learn_language_outcome.2000.b:0 "No! I need to start over, and do it right this time."
  learn_language_outcome.2000.c:0 "Well, at least I learned some very effective courtesies!"
  scheme_loses_half_progress:0 "The [scheme|E] loses half of its progress, but stays active"
@@ -27,7 +27,7 @@
  learn_language_outcome.3000.d:0 "Ah, I was looking for a reason to stop studying! Hooray!"
  scheme_retains_progress:0 "The [scheme|E] retains all previous progress"
  
- child_learned_language_title:0 "[owner.Custom('GetDaughterSon')|U] learns Language!"
+ child_learned_language_title:0 "[owner.Custom('GetDaughterSon')|U] Learns Language!"
  child_learned_language_desc:0 "Your [owner.Custom('GetDaughterSon')] learned the [target.GetCulture.GetLanguage.GetName] [language|E]"
  child_learned_language_fail_title:0 "[owner.Custom('GetDaughterSon')|U] failed learning Language"
  child_learned_language_fail_desc:0 "Your [owner.Custom('GetDaughterSon')] failed to learn the [target.GetCulture.GetLanguage.GetName] [language|E]"

@@ -413,7 +413,7 @@
  ### Jousting Events
 
  ep2_tournament_events.3501.t:2 "Tilting for Attention"
- ep2_tournament_events.3501.desc:1 "A blur of motion, a sonorous crack, and the training quintain swings wildly again. The young $knight_culture_player_no_tooltip_lowercase$ who set it in motion gallops through unscathed, and [knight1.GetSheHe] salutes victoriously. Salutes victoriously #EMP at me#!, I realise, as [knight1.GetSheHe] finishes [knight1.GetHerHis] flourishes with a short bow from the saddle.\n\n#EMP Clunk!#! Another knight has taken on the quintain. Similarly skilled, the whirling beam misses [knight1.GetHerHim] handsomely, both [knight2.GetWomanMan] and steed comfortably through. [knight2.GetSheHe|U] curbs [knight2.GetHerHis] horse right next to the first $knight_culture_player_no_tooltip_lowercase$ and flourishes [knight2.GetHerHis] weapon pompously, again in my direction. The pair raise their visors, and even from this distance away I can see them glower at each other."
+ ep2_tournament_events.3501.desc:1 "A blur of motion, a sonorous crack, and the training quintain swings wildly again. The young $knight_culture_player_no_tooltip_lowercase$ who set it in motion gallops through unscathed, and [knight1.GetSheHe] salutes victoriously. Salutes victoriously #EMP at me#!, I realize, as [knight1.GetSheHe] finishes [knight1.GetHerHis] flourishes with a short bow from the saddle.\n\n#EMP Clunk!#! Another knight has taken on the quintain. Similarly skilled, the whirling beam misses [knight1.GetHerHim] handsomely, both [knight2.GetWomanMan] and steed comfortably through. [knight2.GetSheHe|U] curbs [knight2.GetHerHis] horse right next to the first $knight_culture_player_no_tooltip_lowercase$ and flourishes [knight2.GetHerHis] weapon pompously, again in my direction. The pair raise their visors, and even from this distance away I can see them glower at each other."
  ep2_tournament_events.3501.a:0 "[knight1.GetFirstNameNoTooltip] seems very skilled."
  ep2_tournament_events.3501.b:0 "[knight2.GetFirstNameNoTooltip] is surely the pick here."
  ep2_tournament_events.3501.c:1 "The winner has my favor!"
@@ -537,7 +537,7 @@
  #### Recital Events
 
  ep2_tournament_events.5501.t:2 "$tournament_contest_header$ Stolen Moment"
- ep2_tournament_events.5501.desc:0 "Wild cheers erupt from the gathered crowd as [enemy.GetFirstName] finishes their recital with a flourish and a bow. The only person who isn't whistling and clapping is, as it happens, myself.\n\n#EMP How#! could [enemy.GetSheHe] have known? Was this planned? Or perhaps, somehow, by some machination of [ROOT.Char.GetFaith.DevilName], it was simply a coincidence that [enemy.GetFirstNamePossessiveNoTooltip] verses ended up almost #EMP identical#! to my own?\n\nThe assembled spectators fall silent expectantly. It is my turn."
+ ep2_tournament_events.5501.desc:0 "Wild cheers erupt from the gathered crowd as [enemy.GetFirstName] finishes [enemy.GetHerHis] recital with a flourish and a bow. The only person who isn't whistling and clapping is, as it happens, myself.\n\n#EMP How#! could [enemy.GetSheHe] have known? Was this planned? Or perhaps, somehow, by some machination of [ROOT.Char.GetFaith.DevilName], it was simply a coincidence that [enemy.GetFirstNamePossessiveNoTooltip] verses ended up almost #EMP identical#! to my own?\n\nThe assembled spectators fall silent expectantly. It is my turn."
  ep2_tournament_events.5501.a:0 "I'll show them it's all about the #EMP delivery#!."
  ep2_tournament_events.5501.b:0 "Time to improvise!"
  ep2_tournament_events.5501.b.success:0 "You improvise successfully"
@@ -710,7 +710,7 @@
  tournament_archery_cough_log_title:0 "Sore Throat"
  tournament_archery_cough_log:0 "[CHARACTER.GetTitledFirstName] repeatedly put off [TARGET_CHARACTER.GetTitledFirstName] with coughs in the Archery"
 
- tournament_archery_rumour_log_title:0 "Nasty Rumours"
+ tournament_archery_rumour_log_title:0 "Nasty Rumors"
  tournament_archery_rumour_log:0 "A rumor about [TARGET_CHARACTER.GetTitledFirstName], spread by [CHARACTER.GetTitledFirstName], is making its way through the crowd"
 
  tournament_cheating_caught_log_title:0 "Cheating Caught"

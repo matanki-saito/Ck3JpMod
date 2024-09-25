@@ -1,7 +1,7 @@
-﻿l_english:
+﻿l_english: 
 
  adultery.0002.t:0 "Someone Else"
- adultery.0002.consort_start.desc:0 "[lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U] is once again absent from our chambers as night falls. [lover_spouse.GetSheHe|U] has been distant lately — lost in thought and rarely seen at court."
+ adultery.0002.consort_start.desc:0 "[lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U] is once again absent from our [ROOT.Char.Custom('GetChamber')|l] as night falls. [lover_spouse.GetSheHe|U] has been distant lately — lost in thought and rarely seen at [ROOT.Char.Custom('GetCourt')|l]."
  adultery.0002.soulmate_start.desc:0 "It has been far too long since I held [lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)] in my arms. [lover_spouse.GetSheHe|U] has been distant lately — [lover_spouse.GetSheHe] gives me excuse after excuse for why we cannot meet."
  adultery.0002.desc:1 "\n\nAm I not to [lover_spouse.GetHerHis] satisfaction? Is [lover_spouse.GetSheHe] simply busy? Or could [lover_spouse.GetSheHe] be warming someone else's bed...?"
  adultery.0002.a:0 ""Do you have another, [lover_spouse.GetFirstNameNoTooltip]?""
@@ -17,12 +17,12 @@
  adultery.0002.d.concubine_or_soulmate:0 "[lover_spouse.GetSheHe|U] would never disrespect me thusly!"
 
  adultery.0003.t:0 "Accusations"
- adultery.0003.desc:0 "[spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been tense lately, and as we find ourself alone, it finally becomes apparent why.\n\n"Please be honest with me," [spouse.GetSheHe] says in a grave tone. "Is there someone else? Have you taken a lover?""
+ adultery.0003.desc:0 "[spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been tense lately, and when we find ourselves alone, it finally becomes apparent why.\n\n"Please be honest with me," [spouse.GetSheHe] says in a grave tone. "Is there someone else? Have you taken a lover?""
  adultery.0003.a:0 "Of course not!"
  adultery.0003.a.tt_lie:0 "I hope [spouse.GetSheHe] buys it..."
  adultery.0003.a.tt_truth:0 "That [spouse.GetSheHe] would even suspect such a thing..."
  adultery.0003.b:0 "I thought you hadn't noticed..."
- adultery.0003.b.tt:0 "[spouse.GetShortUIName|U] may forgive you, or not..."
+ adultery.0003.b.tt:0 "[spouse.GetSheHe|U] may forgive you, or not..."
 
  adultery.0004.desc:0 ""How can you even say such a thing, [spouse.GetFirstNameNoTooltip]? I would never take a lover!"\n\n[lover_spouse.GetTitledFirstName] seems genuinely upset as [lover_spouse.GetSheHe] denies my accusations."
  adultery.0004.b:0 "I have little choice but to take [lover_spouse.GetHerHim] at [lover_spouse.GetHerHis] word."

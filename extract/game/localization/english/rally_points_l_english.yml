@@ -3,6 +3,7 @@
  RP_CANNOT_PLACE_ALREADY_THERE:0 "#X There is a [rally_point|E] here already#!"
  RP_CANNOT_PLACE_OCCUPIED:0 "#X The location is [occupied|E]#!"
  RP_CANNOT_PLACE_ENEMY_TERRITORY:0 "#X The location is in enemy territory#!"
+ RP_CANNOT_ADD_LANDLESS: "#X Landless characters cannot add [rally_points|E]#!"
  RP_CANNOT_ADD_OVER_LIMIT:0 "#X You cannot have more than $VALUE|V$ [rally_points|E]#!"
  RP_CANNOT_REMOVE_LAST:0 "#X You cannot remove the last [rally_point|E]#!"
  RP_CANNOT_RAISE_OCCUPIED:0 "#X The [rally_point|E]'s location is [occupied|E]#!"

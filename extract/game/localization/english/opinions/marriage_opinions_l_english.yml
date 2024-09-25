@@ -1,7 +1,7 @@
 ﻿l_english:
  broke_betrothal_opinion:0 "Broke Betrothal"
  refused_alliance_opinion:0 "Refused Alliance"
- # Make sure this is removed from everywhere  concubine_marriage_opinion: "Faith Does Not Allow For Concubines" 
+ # Make sure this is removed from everywhere concubine_marriage_opinion: "Faith Does Not Allow For Concubines" 
 
  polygamous_marriage_opinion:0 "Not in a [GetFaithDoctrine('doctrine_monogamy').GetBaseName] [marriage|E]"
  former_polygamous_marriage_opinion:0 "You blasphemed our [marriage|E] by having other [spouses|E]"

@@ -36,6 +36,8 @@
  expensive_food_baked_truffles:0 "baked truffles"
  expensive_food_spiced_breads:0 "spiced breads"
  expensive_food_mustard_rolls:0 "mustard rolls"
+ expensive_food_sturgeon_cheese: "sturgeon and cheeses stew"
+ expensive_food_honey_pork: "honey-roasted pork"
  #GetExpensiveMealAlt
  expensive_food_fine_cheeses:0 "fine cheeses"
  expensive_food_almond_eggs:0 "almond eggs"
@@ -46,12 +48,15 @@
  expensive_dessert_pomegranate_cake:0 "pomegranate cakes"
  expensive_dessert_entremets:0 "entremets"
  expensive_dessert_quince_tarts:0 "quince tarts"
+ expensive_dessert_honey_pudding: "rice and honey pudding"
+ expensive_dessert_quince_spoon: "quince spoon desserts"
  #GetExpensiveDessertInTheFace
  expensive_dessert_saffron_cake_face:0 "a saffron cake"
  expensive_dessert_candied_figs_face:0 "a fig pie"
  expensive_dessert_pomegranate_cake_face:0 "a pomegranate cake"
  expensive_dessert_entremets_face:0 "a cream entremet"
  expensive_dessert_quince_tarts_face:0 "a quince tart"
+ expensive_dessert_honey_pudding_face: "a spoonful of rice and honey pudding"
  #GetExpensiveDrink
  expensive_drink_hippocras:0 "refined hippocras"
  expensive_drink_imported_wine:0 "imported wines"
@@ -121,6 +126,8 @@
  empanada:0 "empanada"
  botuo:0 "bowl of botuo"
  stew:0 "bowl of stew"
+ sphoungata: "sphoungata omelette"
+ tarichos: "tarichos fish"
  sambusa_plural:0 "sambusas"
  honey_fritter_plural:0 "honey fritters"
  pizza_plural:0 "pizzas"
@@ -130,3 +137,4 @@
  empanada_plural:0 "empanadas"
  botuo_plural:0 "bowls of botuo"
  stew_plural:0 "bowls of stew"
+ sphoungata_plural: "sphoungata omelettes"

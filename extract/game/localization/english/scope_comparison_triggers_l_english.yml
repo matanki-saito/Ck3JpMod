@@ -14,10 +14,10 @@
  NOT_TITLE_IS_HELD_BY:0 "[TITLE.GetName] is #bold not#! held by [TARGET_CHARACTER.GetShortUIName]"
 
  # Character Relationship Triggers
- LIEGE_EQUAL_FIRST:1 "You are a vassal of [TARGET_CHARACTER.GetShortUIName]"
- NOT_LIEGE_EQUAL_FIRST:1 "You are #bold not#! a vassal of [TARGET_CHARACTER.GetShortUIName]"
- LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] vassal"
- NOT_LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] vassal"
+ LIEGE_EQUAL_FIRST:1 "You are a [courtier|E] or [vassal|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NOT_LIEGE_EQUAL_FIRST:1 "You are #bold not#! a [courtier|E] or [vassal|E] of [TARGET_CHARACTER.GetShortUIName]"
+ LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [vassal|E]"
+ NOT_LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [vassal|E]"
  TOP_LIEGE_EQUAL_FIRST: "You are the [top_liege|E]"
  NOT_TOP_LIEGE_EQUAL_FIRST: "You are #bold not#! the [top_liege|E]"
  KILLER_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] was killed by [TARGET_CHARACTER.GetShortUIName]"
@@ -88,7 +88,7 @@
  LANDED_TITLE_CULTURE_EQUAL_GLOBAL:1 "Is [TARGET_CULTURE.GetName]"
  NOT_LANDED_TITLE_CULTURE_EQUAL_GLOBAL:1 "Is #bold not#! [TARGET_CULTURE.GetName]"
 
-  # Province Attribute Triggers
+ # Province Attribute Triggers
  PROVINCE_FAITH_EQUAL_THIRD:0 "[PROVINCE.GetName] is [FAITH.GetAdjective]"
  NOT_PROVINCE_FAITH_EQUAL_THIRD:0 "[PROVINCE.GetName] is #bold not#! [FAITH.GetAdjective]"
  PROVINCE_FAITH_EQUAL_GLOBAL:0 "Is [FAITH.GetAdjective]"

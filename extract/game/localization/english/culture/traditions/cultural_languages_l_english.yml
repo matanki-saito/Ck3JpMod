@@ -33,7 +33,7 @@
  language_french_name:1 "D'Oïl Vulgar"
  language_magyar_name:0 "Magyar"
  language_norse_name:0 "Norse"
- language_south_slavic_name:1 "Serbo-Croatian"
+ language_south_slavic_name:1 "South Slavic"
  language_ugro_permian_name:0 "Ugro-Permian"
  language_volga_finnic_name:0 "Volga-Finnic"
  language_west_slavic_name:0 "West Slavic"
@@ -77,6 +77,7 @@
  language_italian_name:0 "Italian Vulgar"
  language_ayneha_name:0 "Ayneha"
  language_north_dravidian_name: "North Dravidian"
+ language_albanian_name: "Albanian"
 
  aesthetics_norwegian_name:0 "Norwegian"
  aesthetics_swedish_name:0 "Swedish"

@@ -1,5 +1,5 @@
-﻿l_english:
- murder_save_header:0 "Murder Preventer:"
+﻿l_english: 
+ murder_save_header: "Murder Intercepter:"
  murder_save.failure_known_owner_tt:0 "[owner.GetTitledFirstNameNoTooltip] has failed to Murder me"
  murder_save.failure_unknown_owner_tt:0 "Someone has failed to Murder me"
  murder_save.used_up_guile_legacy_5_save:0 "Spent the protection of [GetDynastyPerk('guile_legacy_5').GetName]"
@@ -46,14 +46,14 @@
  murder_save_warhorse_dies_to_thugs:0 "#F [THIS.Char.Custom('WarhorseStoryName')] dies from [THIS.Char.Custom('HorseStoryHerHis')] wounds#!"
 
  murder_save.0005.t:1 "$murder_save_header$ Alarm Raised"
- murder_save.0005.desc:0 "The group of conspirators made their way to [target.GetTitledFirstNamePossessive] cell, but the prisoner started making a vicious racket. Paying off the gaoler is one thing, but it is something else to pretend that nothing is going on when the entire castle is woken up!\n\nMy assassins beat a hasty retreat, and [target.GetFirstName] remains safe..."
+ murder_save.0005.desc:0 "The group of conspirators made their way to [target.GetTitledFirstNamePossessive] cell, but the prisoner started making a vicious racket. Paying off the jailer is one thing, but it is something else to pretend that nothing is going on when the entire castle is woken up!\n\nMy assassins beat a hasty retreat, and [target.GetFirstName] remains safe..."
 
- murder_save.1005.desc:0 "I do not know who the cloaked figures who have suddenly appeared in my cell are, but I know they are here to hurt me. They do not expect my defender, however.\n\n"Get them!" I shout, and my [ROOT.Char.Custom('prison_pet')] flies at them, ready to fight for my life! I know they are no match for my friend, and as I begin to holler and cheer they flee in abject terror!\n\nThe gaoler soon comes to shut me up with a beating, but at least I still breathe."
+ murder_save.1005.desc:0 "I do not know who the cloaked figures who have suddenly appeared in my cell are, but I know they are here to hurt me. They do not expect my defender, however.\n\n"Get them!" I shout, and my [ROOT.Char.Custom('prison_pet')] flies at them, ready to fight for my life! I know they are no match for my friend, and as I begin to holler and cheer they flee in abject terror!\n\nThe jailer soon comes to shut me up with a beating, but at least I still breathe."
  murder_save.1005.a:0 "I owe you my life, [ROOT.Char.Custom('prison_pet')]."
  murder_save.1005.b:0 "Your sacrifice has not been in vain, my [ROOT.Char.Custom('prison_pet')]!"
 
  murder_save.0006.t:1 "$murder_save_header$ Guardians"
- murder_save.0006.opening:0 "My "hired help"" accosted [target.GetTitledFirstName] as planned, but what I had failed to plan for was the personal guard that"
+ murder_save.0006.opening:0 "My "hired help" accosted [target.GetTitledFirstName] as planned, but what I had failed to plan for was the personal guard that"
  murder_save.0006.spouse:0 "[spouse.GetTitledFirstName] had raised for [target.GetHerHim]."
  murder_save.0006.no_spouse:0 "that had been raised by [target.GetHerHis] spouse."
  murder_save.0006.end:0 "\n\nThey fought awfully bravely and disgustingly well, well enough that [target.GetFirstName] still lives to see another day."
@@ -110,14 +110,14 @@
  murder_save.0011.desc:1 "My attempt on [target.GetTitledFirstNamePossessive] life has been thwarted!\n\nThe poison, the duck, the meal... Everything was going according to plan until [target.GetHerHis] cat sneaked a piece off of [target.GetHerHis] plate before [target.GetSheHe] had time to eat! Seeing the cat twist in pain until dead somewhat discouraged [target.GetTitledFirstNameNoTooltip] from partaking in [target.GetHerHis] meal."
  murder_save_poison_cat_tt:0 "[target.GetFirstNamePossessiveNoTooltip] cat dies from the poison"
 
- murder_save.1011.desc:0 "As I sit down to eat my cat [THIS.Char.Custom('CatStoryName')] jumps up on my lap, swatting at my plate, and I let [THIS.Char.Custom('CatStoryHerHim')] swipe a piece before [THIS.Char.Custom('CatStorySheHe')] jumps down again.\n\nJust as I am about to start eating I am startled by yowling, loud and pained. [THIS.Char.Custom('CatStoryName')] is writhing on the floor, [THIS.Char.Custom('CatStoryHerHis')] screams of pain growing weaker and weaker as [THIS.Char.Custom('CatStorySheHe')] falls still. The food was poisoned?!"
+ murder_save.1011.desc:0 "As I sit down to eat, my cat, [ROOT.Char.Custom('CatStoryName')], jumps up onto my lap, swatting at my plate, and I let [ROOT.Char.Custom('CatStoryHerHim')] swipe a piece before [ROOT.Char.Custom('CatStorySheHe')] jumps down again.\n\nJust as I am about to start eating, I am startled by yowling, loud and pained. [ROOT.Char.Custom('CatStoryName')] is writhing on the floor, [ROOT.Char.Custom('CatStoryHerHis')] screams of pain growing weaker and weaker as [ROOT.Char.Custom('CatStorySheHe')] falls still. The food was poisoned?!"
  murder_save_poison_cat_dies:0 "[THIS.Char.Custom('CatStoryName')] saved you and died from the poison"
 
  murder_save.0012.t:0 "$murder_save_header$ The Hungry Dog"
  murder_save.0012.desc:1 "[target.GetTitledFirstName] still lives!\n\nThe poison, the duck, the meal... Everything was going according to plan until [target.GetHerHis] dog begged a piece off of [target.GetHerHis] plate before [target.GetSheHe] had time to eat! Seeing the dog twist in pain until dead somewhat discouraged [target.GetTitledFirstNameNoTooltip] from partaking in [target.GetHerHis] meal."
  murder_save_poison_dog_tt:0 "[target.GetFirstNamePossessiveNoTooltip] dog dies from the poison"
 
- murder_save.1012.desc:0 "As I sit down to eat my dog [THIS.Char.Custom('DogStoryName')] follows me with begging eyes, and I smoothly drop a piece from my plate to the floor for [THIS.Char.Custom('DogStoryHerHim')].\n\nJust as I am about to start eating I am startled by a loud whimper, pained and whining. [THIS.Char.Custom('DogStoryName')] is writhing on the floor, [THIS.Char.Custom('DogStoryHerHis')] complaining growing weaker and weaker as [THIS.Char.Custom('DogStorySheHe')] falls still. The food was poisoned?!"
+ murder_save.1012.desc:0 "As I sit down to eat my dog [ROOT.Char.Custom('DogStoryName')] follows me with begging eyes, and I smoothly drop a piece from my plate to the floor for [ROOT.Char.Custom('DogStoryHerHim')].\n\nJust as I am about to start eating I am startled by a loud whimper, pained and whining. [ROOT.Char.Custom('DogStoryName')] is writhing on the floor, [ROOT.Char.Custom('DogStoryHerHis')] complaining growing weaker and weaker as [ROOT.Char.Custom('DogStorySheHe')] falls still. The food was poisoned?!"
  murder_save_poison_dog_dies:0 "[THIS.Char.Custom('DogStoryName')] saved you and died from the poison"
 
  murder_save.0013.t:0 "$murder_save_header$ The Gourmet Nose"

@@ -95,7 +95,7 @@
  
  #Guest, by Alexander Oltner
  intrigue_temptation.3000.t:0 "A Sweet Farewell"
- intrigue_temptation.3000.desc:1 ""My [ROOT.Char.GetLadyLord] it is... it was... I mean, it has been a pleasure to be your guest here in [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]..." [guest_lover.GetFirstName] stammers, as [guest_lover.GetSheHe] readies for departure.\n\n"I got to meet #emphasis you#!. That alone made my stay worth it. But still, I beg you... would you spend a night of passion with me, before I leave?"\n\n[guest_lover.GetFirstName] has fallen for my subtle manipulation! Now, how should I capitalise on this opportunity?"
+ intrigue_temptation.3000.desc:1 ""My [ROOT.Char.GetLadyLord] it is... it was... I mean, it has been a pleasure to be your guest here in [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]..." [guest_lover.GetFirstName] stammers, as [guest_lover.GetSheHe] readies for departure.\n\n"I got to meet #emphasis you#!. That alone made my stay worth it. But still, I beg you... would you spend a night of passion with me, before I leave?"\n\n[guest_lover.GetFirstName] has fallen for my subtle manipulation! Now, how should I capitalize on this opportunity?"
  intrigue_temptation.3000.a:0 "Yes, my love, I would do #emphasis anything#! for you!"
  intrigue_temptation.3000.b:1 "So, darling, that rumor about my vassal?"
  intrigue_temptation.3000.c:1 "My sweet, would you speak to [guest_lovers_friend.GetFirstNameNoTooltip]?"

@@ -71,5 +71,10 @@
  COUNCIL_WINDOW_TOOLIP_FAITHS_IN_COUNTY:1 "Faith: [FAITH.GetName]"
  COUNCIL_WINDOW_CURRENTLY_APPOINTED:0 "Currently Appointed Councillor"
  COUNCIL_WINDOW_SKILLS:0 "Skills"
- COUNCIL_WINDOW_GUESTS_AND_COURTIERS:0 "Your [guests|E] and [courtiers|E]"
- COURT_WINDOW_NO_GUESTS_OR_COURTIERS:1 "No [guests|E] or [courtiers|E]. More will probably appear over time, or you can invite some using the Decisions above."
+ COUNCIL_WINDOW_GUESTS_AND_COURTIERS: "[CourtWindow.GetCourtOwner.Custom('GetGuestsOrNot')]"
+ COURT_WINDOW_HAS_COURTIERS: "Your [guests|E] and [CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]"
+ COURT_WINDOW_HAS_FOLLOWERS: "Your [CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]"
+ COURT_WINDOW_NO_GUESTS_OR_COURTIERS: "[CourtWindow.GetCourtOwner.Custom('GetNoGuestsOrNot')]"
+ COURT_WINDOW_NO_COURTIERS: "No [guests|E] or [CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]. More will probably appear over time, or you can invite some using the Decisions above."
+ COURT_WINDOW_NO_FOLLOWERS: "No [CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')] are available at the moment"
+

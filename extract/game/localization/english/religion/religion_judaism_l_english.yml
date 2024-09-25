@@ -13,7 +13,7 @@
  judaism_good_god_hashem:0 "HaShem"
  judaism_good_god_el_shaddai:0 "Adonai"
  judaism_devil_name:0 "Ba'al"
- judaism_devil_name_possessive:0 "ba'als"
+ judaism_devil_name_possessive:0 "Ba'als"
  judaism_evil_god_the_adversary:0 "the Adversary"
  judaism_house_of_worship:0 "synagogue"
  judaism_house_of_worship_2:0 "$judaism_house_of_worship$" # Optional translation alt

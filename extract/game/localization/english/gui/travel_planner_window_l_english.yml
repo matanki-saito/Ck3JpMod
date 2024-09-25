@@ -12,7 +12,7 @@
  TRAVEL_PLAN_DANGER_HIGH:0 "#T High chance of danger: [TravelPlanner.GetVeryLikelyDangers] locations#!"
  TRAVEL_PLAN_DANGER_MEDIUM:0 "#T Medium chance of danger: [TravelPlanner.GetLikelyDangers] locations#!"
  TRAVEL_PLAN_DANGER_LOW:0 "#T Low chance of danger: [TravelPlanner.GetUnlikelyDangers] locations#!"
- 
+
  TRAVEL_ENTOURAGE_HEADER:0 "Entourage"
  TRAVEL_ENTOURAGE_BUTTON_LABEL:0 "[TravelPlanData.GetEntourageSize] in Entourage"
  CARAVAN_MASTER_HEADER:0 "Caravan Master"
@@ -57,7 +57,11 @@
  REMOVE_TRAVEL_OPTION:0 "#T Remove Travel Option#!"
 
  TRAVEL_PLANNER_NO_TRAVEL_COST:0 "No cost since you're already here."
- 
+ TRAVEL_PLANNER_PROVISIONS_COST: "[provisions|E] Cost: @provisions_icon!$VALUE|=+0$"
+ TRAVEL_PLANNER_PROVISIONS_BREAKDOWN_COST: "#T [provisions|E] Cost: @provisions_icon!$VALUE|=+0$#!"
+ TRAVEL_PLANNER_PROVISIONS_BREAKDOWN_FROM_TERRAIN: "#bold From Terrain#!"
+ TRAVEL_PLANNER_PROVISIONS_BREAKDOWN_FROM_MAA: "#bold From Men-At-Arms#!"
+
  APPOINT_CARAVAN_MASTER:0 "#T Appoint Caravan Master#!"
  CHANGE_CARAVAN_MASTER:0 "#T Change Caravan Master#!"
 
@@ -71,6 +75,7 @@
  CANCEL_TRAVEL_PLAN_ACTIVITY_IS_HOST_DESC:0 "Cannot cancel travel plan, you are hosting the activity."
  CANCEL_TRAVEL_PLAN_ALREADY_GOING_HOME:0 "Cannot cancel travel plan, you are already going home."
  CANCEL_TRAVEL_PLAN_ACTIVITY_UNHANDLED_DESC:0 "Cannot cancel travel plan, activity has unhandled event."
+ CANCEL_TRAVEL_PLAN_ACTIVE_CONTRACT: "Cannot cancel travel plan, you have accepted a contract"
 
  TRAVEL_EDIT_ROUTE_HEADER:1 "Customize Route"
  TRAVEL_EDIT_ROUTE_TT:0 "Select waypoints on the map to change the path of your journey.\n\n#I Click to customize route#!"
@@ -82,7 +87,11 @@
  TRAVEL_EDIT_ROUTE_ADD_DETOUR_TT:1 "#T Add detour after [Province.GetNameNoTooltip]#!"
  TRAVEL_EDIT_ROUTE_REMOVE_DETOUR_TT:0 "#T Remove detour#!"
  CANCEL_TRAVEL_PLAN:0 "Go Home"
+ CANCEL_TRAVEL_PLAN_STAY_WITH_DOMICILE: "Abort travel"
  START_TRAVEL_PLAN:0 "Start Traveling"
+ START_TRAVEL_TO_CONTRACT: "Travel to Accept Contract"
+ START_TRAVEL_MOVE_TO_CONTRACT: "Move [Domicile.GetType.GetNameNoTooltip] to Accept Contract"
+ START_TRAVEL_MOVE_DOMICILE: "Start moving your [Domicile.GetType.GetNameNoTooltip]"
 
  TRAVEL_OPTION_ADD_COMPANIONS_DESC_SINGLE:0 "Will add courtier to your entourage: $CHARACTER_LIST$"
  TRAVEL_OPTION_ADD_COMPANIONS_DESC_MULTIPLE:0 "Will add up to $MAX_CHARACTERS$ courtiers to your entourage: $CHARACTER_LIST$"

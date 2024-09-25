@@ -1,5 +1,5 @@
 ﻿l_english:
-   
+  
  ### OPTIONS
  feast_option_type:0 "Cause for Feast"
  feast_type_generic:0 "Feast"
@@ -85,12 +85,12 @@
  feast.2010.t:0 "$feast_header$ A Lucky Break?"
  feast.2010.desc:0 "News has reached me that my #EMP very special#! guest, [ROOT.Var('murder_guest_host_var').GetCharacter.GetTitledFirstName], has met [ROOT.Var('murder_guest_host_var').GetCharacter.GetHerHis] end a bit sooner than expected. We shall all mourn [ROOT.Var('murder_guest_host_var').GetCharacter.GetHerHis] death, and call off the feast to respect [ROOT.Var('murder_guest_host_var').GetCharacter.GetHerHis] memory.\n\n#EMP I just wish it had been by my hand.#!"
  feast.2010.a:0 "A real shame."
- feast.2010.a.tt:0 "The Murder Feast is cancelled"
+ feast.2010.a.tt:0 "The Murder Feast is canceled"
  
  feast.2011.t:0 "$feast_header$ Unexpected Death"
  feast.2011.desc:0 "The sudden death of [host.Var('murder_guest_host_var').GetCharacter.GetTitledFirstName] has come as a surprise to us all, and [host.GetTitledFirstName] has decided to call off the feast to respect [host.Var('murder_guest_host_var').GetCharacter.GetHerHis] memory. After all, this was all in [host.Var('murder_guest_host_var').GetCharacter.GetHerHis] honor."
  feast.2011.a:0 "$feast.2010.a$"
- feast.2011.a.tt:0 "The Feast is cancelled"
+ feast.2011.a.tt:0 "The Feast is canceled"
  
  feast.2020.t:0 "$feast_header$ Declined Invitation"
  feast.2020.desc:0 "I can't believe this! [ROOT.Var('murder_guest_host_var').GetCharacter.GetTitledFirstName] has declined my perfectly non suspicious invite to a feast! Even as my #EMP very special guest#!. Completely unacceptable!"
@@ -113,7 +113,7 @@
  feast.2501.b:0 "This better be worth my time."
 
  feast.5003.t:0 "End of Festivities"
- feast.3601.desc:1 "With the passing of [host.Custom2('MyCharacterIntroduction', ROOT.Char)] [host.GetHerHis] feast comes to an ends.\n\nAs the subdued guests leave I pray that [ROOT.Char.GetFaith.HighGodNameAlternate] welcomes [host.GetFirstName] as warmly to [ROOT.Char.GetFaith.PositiveAfterLife] as [host.GetSheHe] welcomed us to [host.GetHerHis] halls."
+ feast.3601.desc:1 "With the passing of [host.Custom2('MyCharacterIntroduction', ROOT.Char)] [host.GetHerHis] feast comes to an end.\n\nAs the subdued guests leave I pray that [ROOT.Char.GetFaith.HighGodNameAlternate] welcomes [host.GetFirstName] as warmly to [ROOT.Char.GetFaith.PositiveAfterLife] as [host.GetSheHe] welcomed us to [host.GetHerHis] halls."
  feast.3601.a:0 "It was such a fun feast!"
  feast.3601.a.tt:1 "#F You know... until [host.GetSheHe] died.#!"
 
@@ -164,6 +164,7 @@
 
  feast.7151.t:0 "Time to Go"
  feast.7151.desc:0 "Daylight pours through the windows and in just one moment the whole hall becomes illuminated. Most of the seats are now empty. Some servants hand me my weapons and take their leave with a cheery bow.\n\n"What a pleasure it was to have you with us," [host.GetTitledFirstName] smiles at me."
+ feast.7151.desc.desc_roughed_up: "Daylight pours through the windows and in just one moment the whole hall becomes illuminated. Most of the seats are now empty. Perhaps not suprising seeing what I've done to the place!\n\n"I despise you utterly, look at what you've done to my home!" [host.GetTitledFirstName] scowls at me."
  feast.7151.a:0 "But now I shall depart."
 
  feast.7201.t:0 "A Toast To..."
@@ -182,6 +183,7 @@
  feast.7202.a:0 "It's nice to be appreciated."
  feast.7202.b:0 "How could you do this to me?"
  feast.7202.c:0 "I'll remember this."
+ feast.7202.adventurer_loot: "What the..? #EMP Rough [host.GetHerHim] up, steal the [host.Custom('GetExpensiveMeal')]!#!"
  feast.7202.c.tt:0 "[goh.GetFirstNameNoTooltip] took it personally"
 
  feast.7203.t:0 "$feast.7201.t$"
@@ -198,4 +200,4 @@
  feast.0800.desc.entourage:0 "$activity_system.1010.desc.entourage$"
  feast.0800.desc.ruler:0 "The fallen [host.GetTitleAsName] did not deserve to die like this."
  feast.0800.a:0 "$activity_system.1010.a$"
- feast.0800.tt:0 "[host.GetShortUINamePossessiveNoTooltip] [GetActivityType('activity_feast').GetName] has been cancelled"
+ feast.0800.tt:0 "[host.GetShortUINamePossessiveNoTooltip] [GetActivityType('activity_feast').GetName] has been canceled"

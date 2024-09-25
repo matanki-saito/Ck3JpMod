@@ -11,9 +11,9 @@
  varangian.0002.b:0 "No, I forbid it! You are needed here."
 
  varangian.1002.t:0 "Returning From the Varangian Guard"
- varangian.1002.opening:0 "I barely recognize [returning_varangian.Custom2('MyCharacterIntroduction', ROOT.Char )] as [varangian_candidate.GetSheHe] enters my great hall."
- varangian.1002.new_partner:0 "And I certainly don't recognize the [partner.GetWomanMan] at [varangian_candidate.GetHerHis] side!"
- varangian.1002.ending:0 "\n\n"I am home, [returning_varangian.Custom2('RelationToMeShort', ROOT.Char )]!" [returning_varangian.GetFirstNameNoTooltip] bellows. "There have been many a time I thought I would never see these shores again, but I am finally back."\n\nAs strange as it is to see my [ROOT.Char.Custom2('RelationToMeShort', returning_varangian )] after all these years, I cannot deny that I am impressed with [varangian_candidate.GetHerHis] [emperor.GetCulture.GetNameNoTooltip] dress, [varangian_candidate.GetHerHis] foreign jewelry, and the heavy coffer [returning_varangian.GetSheHe] has brought with [returning_varangian.GetHerHim]."
+ varangian.1002.opening:0 "I barely recognize [returning_varangian.Custom2('MyCharacterIntroduction', ROOT.Char )] when [returning_varangian.GetSheHe] appears in my [SelectLocalization( IsLandlessAdventurer( ROOT.Char ), 'camp', 'great_hall')]."
+ varangian.1002.new_partner:0 "And I certainly don't recognize the [partner.GetWomanMan] at [returning_varangian.GetHerHis] side!"
+ varangian.1002.ending:0 "\n\n"I am back, [returning_varangian.Custom2('RelationToMeShort', ROOT.Char )]!" [returning_varangian.GetFirstNameNoTooltip] bellows. "There was many a time I thought I would never see your likes again, but I have returned at last."\n\nAs strange as it is to see my [ROOT.Char.Custom2('RelationToMeShort', returning_varangian )] after all these years, I cannot deny that I am impressed with [returning_varangian.GetHerHis] [emperor.GetCulture.GetNameNoTooltip] dress, [returning_varangian.GetHerHis] foreign jewelry, and the heavy coffer [returning_varangian.GetSheHe] has brought with [returning_varangian.GetHerHim]."
  varangian.1002.a:0 "Welcome home, [returning_varangian.GetFirstNameNoTooltip]!"
 
  varangian.3001.t:0 "Varangian Guard: An Honorable Death"

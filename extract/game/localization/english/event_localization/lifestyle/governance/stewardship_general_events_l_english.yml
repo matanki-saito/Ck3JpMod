@@ -79,7 +79,7 @@
 
  # Catch a servant stealing from me, by Linnéa Thimrén
  stewardship_general.5041.t:0 "Rogue Servant"
- stewardship_general.5041.desc:0 "A lowly [ROOT.GetCharacter.Custom('lowly_servant_type')] has been stealing from my household!"
+ stewardship_general.5041.desc:0 "A lowly [ROOT.GetCharacter.Custom('lowly_servant_type')] has been stealing from my [ROOT.Char.Custom('GetCourt')]!"
  stewardship_general.5041.desc_highgod:0 "The [servant_character.GetWomanMan] cowers before me, sniveling about hungry children and mercy in the name of [ROOT.Char.GetFaith.HouseholdGodName]."
  stewardship_general.5041.desc_other:0 "The [servant_character.GetWomanMan] cowers before me, sniveling about hungry children and pleading for mercy."
  stewardship_general.5041.desc_ending:0 "\n\n"Please my [ROOT.Char.GetLadyLord], I will do anything you ask!""

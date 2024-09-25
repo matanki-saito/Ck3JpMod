@@ -16,7 +16,7 @@
  hunt_mystical_animal.1003.d:0 "I can do it. I #EMP must#!!"
  hunt_mystical_animal.1003.e:0 "[m_hunt.GetTitledFirstName], organize a search party!"
 
- hunt_mystical_animal.1004.desc:1 ""My [ROOT.Char.GetLadyLord]!", [m_hunt.GetTitledFirstName] can hardly contain themselves, "We have reports of people seeing the [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] in the [legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')] of [legendary_county.GetCountyData.GetCapital.GetNameNoTooltip]!"\n\n"Some claim sickness follows in its wake, others that it brings prosperity, but all seem fairly certain that it's in the area."\n\nIt's here? In [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]?!"
+ hunt_mystical_animal.1004.desc:1 ""My [ROOT.Char.GetLadyLord]!" [m_hunt.GetTitledFirstName] can hardly contain themselves, "We have reports of people seeing the [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] in the [legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')] of [legendary_county.GetCountyData.GetCapital.GetNameNoTooltip]!"\n\n"Some claim sickness follows in its wake, others that it brings prosperity, but all seem fairly certain that it's in the area."\n\nIt's here? In [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]?!"
  hunt_mystical_animal.1004.a:0 "We ride!"
  hunt_mystical_animal.1004.a.tt:0 "It will not elude me this time."
  hunt_mystical_animal.1004.a.success:0 "You find the #V [THIS.Char.Custom('GetLegendaryColor')] [THIS.Char.Custom('GetAnimalType')]#!"
@@ -25,7 +25,7 @@
  hunt_mystical_animal.1005.desc:1 "\n\nIn a flash, the [activity.Custom('GetAnimalType')] [activity.Custom('GetAnimalChargePresent')] away into the [ROOT.Char.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]: gone as quickly as it appeared."
  hunt_mystical_animal.1005.a:1 "Curses! I #EMP will#! get you, beast!"
 
- hunt_mystical_animal.1006.desc:1 "I look out of my [ROOT.GetCharacter.Custom('FortifiedBuilding')] window and see the [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] sitting at the thresholds of the [ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')], #EMP taunting#! me.\n\nTurning away I am faced with the fabric of my bedsheets and, trying to pull away from them, stagger into a [ROOT.Char.Custom('GetAnimalType')] head mounted on the wall.\n\nI close my eyes, but there is no escape. The [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] is there – laughing at me!"
+ hunt_mystical_animal.1006.desc: "I peer out into the misty morning and see the [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] sitting at the thresholds of the [ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')], #EMP taunting#! me.\n\nTurning away I am faced with the fabric of my bedsheets and, trying to pull away from them, stagger into a [ROOT.Char.Custom('GetAnimalType')] head mounted on a beam.\n\nI close my eyes, but there is no escape. The [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')] is there – laughing at me!"
  hunt_mystical_animal.1006.a:1 "I WILL GET YOU, BEAST!"
  hunt_mystical_animal.1006.b:1 "You! You are now the [ROOT.Char.Custom('GetLegendaryColor')] [ROOT.Char.Custom('GetAnimalType')]! Come back here!"
 
@@ -50,5 +50,5 @@
  hunt_mystical_animal.9001.desc:2 "I am following the tracks deeper and deeper into the [ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')] of [ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitlyNoTooltip] when the air suddenly grows quiet around me.\n\nAs if born from the very air itself, the [activity.Custom('GetLegendaryColor')] [activity.Custom('GetAnimalType')] stands before me, fur gleaming in the sunlight, eyes as deep as dreams. I raise my bow..."
  hunt_mystical_animal.9001.a:1 "... and let the arrow fly."
 
- hunt_mystical_animal.9002.desc:2 ""My [ROOT.Char.GetLadyLord]!", [m_hunt.GetTitledFirstName] broaches hesitantly, "A local peasant has sent you a gift. [dummy_gender.GetSheHe|U] claims this [activity.Custom('GetLegendaryColor')] coloring is natural, but I have never seen anything like it!"\n\nWith rising trepidation I approach the bundle — and there it lies: the [activity.Custom('GetLegendaryColor')] [activity.Custom('GetAnimalType')] I have spent years hunting."
+ hunt_mystical_animal.9002.desc:2 ""My [ROOT.Char.GetLadyLord]!" [m_hunt.GetTitledFirstName] broaches hesitantly, "A local peasant has sent you a gift. [dummy_gender.GetSheHe|U] claims this [activity.Custom('GetLegendaryColor')] coloring is natural, but I have never seen anything like it!"\n\nWith rising trepidation I approach the bundle — and there it lies: the [activity.Custom('GetLegendaryColor')] [activity.Custom('GetAnimalType')] I have spent years hunting."
  hunt_mystical_animal.9002.a:0 "This has to be a joke...!"

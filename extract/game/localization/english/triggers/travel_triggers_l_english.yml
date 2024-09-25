@@ -15,8 +15,8 @@
  TRAVEL_PLAN_IS_PAUSED_TRIGGER:0 "Travel plan is paused"
  NOT_TRAVEL_PLAN_IS_PAUSED_TRIGGER:0 "Travel plan is not paused"
 
- TRAVEL_PLAN_IS_CANCELLED_TRIGGER:0 "Travel plan is cancelled"
- NOT_TRAVEL_PLAN_IS_CANCELLED_TRIGGER:0 "Travel plan is not cancelled"
+ TRAVEL_PLAN_IS_CANCELLED_TRIGGER:0 "Travel plan is canceled"
+ NOT_TRAVEL_PLAN_IS_CANCELLED_TRIGGER:0 "Travel plan is not canceled"
 
- TRAVEL_PLAN_CAN_CANCEL_TRIGGER:0 "Travel plan can be cancelled"
- NOT_TRAVEL_PLAN_CAN_CANCEL_TRIGGER:1 "Travel plan cannot be cancelled"
+ TRAVEL_PLAN_CAN_CANCEL_TRIGGER:0 "Travel plan can be canceled"
+ NOT_TRAVEL_PLAN_CAN_CANCEL_TRIGGER:1 "Travel plan cannot be canceled"

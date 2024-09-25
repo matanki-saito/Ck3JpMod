@@ -11,6 +11,7 @@
  TRAVEL_NAME_FOR_activity_witch_ritual:0 "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_adult_education: "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_funeral: "$TRAVEL_NAME_FOR_activity_tournament$"
+ TRAVEL_NAME_FOR_activity_chariot_race: "[Character.GetFirstNamePossessiveNoTooltip] journey to the Hippodrome"
 
  TRAVEL_SPEED:1 "[travel_speed|E]"
  TRAVEL_SAFETY:1 "[travel_safety|E]"

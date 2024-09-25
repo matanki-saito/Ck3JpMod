@@ -17,16 +17,16 @@
  ##################################################
  # MAJESTY
  court.2201.t:0 "A Slice of the Pie"
- court.2201.desc:0 ""-belongs to me! Dividing [ROOT.Char.GetPrimaryTitle.GetNameNoTier] up between separate heirs makes no sense!" cries [eldest_heir.GetFirstName] as [eldest_heir.GetSheHe] and [younger_heir.Custom2('HerHisCharacterIntroduction', eldest_heir)] bicker loudly at the other end of the room. "We're dooming the realm to murder and civil war. [ROOT.Char.GetMotherFather|U] should leave all [ROOT.Char.GetHerHis] lands to #EMP me#!!"\n\n"Murder? Civil war? Exactly #EMP what#! do you have planned for when you're [ROOT.Char.GetTitleAsNameNoTooltip]?" snorts [younger_heir.GetFirstNameNoTooltip]. "You'll be an utter monster of a ruler if this is how you think about your own [younger_heir.Custom('SisterBrother')] before the crown has even #EMP touched#! your ugly skull."\n\nMy head throbs. They've been arguing. All. Morning."
+ court.2201.desc:0 ""-belongs to me! Dividing [ROOT.Char.GetPrimaryTitle.GetNameNoTier] up between separate heirs makes no sense!" cries [eldest_heir.GetFirstName] as [eldest_heir.GetSheHe] and [younger_heir.Custom2('HerHisCharacterIntroduction', eldest_heir)] bicker loudly at the other end of the room. "We're dooming the realm to murder and civil war. [ROOT.Char.GetMotherFather|U] should leave all [ROOT.Char.GetHerHis] lands to #EMP me#!!"\n\n"Murder? Civil war? Exactly #EMP what#! do you have planned for when you're [ROOT.Char.GetTitleAsNameNoTooltip]?" snorts [younger_heir.GetFirstNameNoTooltip]. "You'll be an utter monster of a ruler if this is how you think about your own family before the crown has even #EMP touched#! your ugly skull."\n\nMy head throbs. They've been arguing. All. Morning."
  court.2201.a:0 "Entitled to #EMP more#!, [eldest_heir.GetFirstNameNoTooltip]? How about #EMP nothing#!!"
  court.2201.b:0 "Sad to say, those are just the rules of the game, [younger_heir.GetFirstNameNoTooltip]..."
- court.2201.c:0 "They're siblings, they'll get along #EMP fine#! without me, right?"
+ court.2201.c:0 "They're family, they'll get along #EMP fine#! without me, right?"
  court.2201.d:0 "Children, do you want to know the real meaning of family?"
 
  ##################################################
  # FOREIGN GUESTS
  court.2401.t:0 "Second-Hand Glamor"
- court.2401.desc:1 ""Finest raiments in the land, [buyer.GetFirstName], mostly because they #EMP ain't#! from this land", chortles [seller.GetFirstName] as I walk past [seller.GetHerHis] open chamber. [seller.GetHerHis|U] voice oozes charm, but even so, my other courtier seems unsure of the pitch.\n\n"Almost new, just as good as new, and fresh from the trend-setters in [grander_ruler.GetTitledFirstNamePossessive] court! These are what #EMP everyone#! in the [grander_ruler.GetPrimaryTitle.GetName] will be wearing next season."\n\n"
+ court.2401.desc:1 ""Finest raiments in the land, good [ROOT.Char.GetTitleAsNameNoTooltip], mostly because they #EMP ain't#! from this land", chortles [seller.GetFirstName] as I walk past [seller.GetHerHis] open chamber. [seller.GetHerHis|U] voice oozes charm and slickness.\n\n"Almost new, just as good as new, and fresh from the trend-setters in [grander_ruler.GetTitledFirstNamePossessive] court! These are what #EMP everyone#! in the [grander_ruler.GetPrimaryTitle.GetName] will be wearing next season.""
  court.2401.a:0 "My, those #EMP do#! look enticing..."
  court.2401.b:0 "We don't need foreign nonsense in my court!"
  court.2401.c:0 "Who cares what people wear?"

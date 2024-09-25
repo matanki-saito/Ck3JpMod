@@ -29,11 +29,11 @@
  diplomacy_family.0008.deceitful.desc:0 "lies and trickery"
  diplomacy_family.0008.vengeful.desc:0 "unending grudges"
  diplomacy_family.0008.end.desc:0 "have been spreading around my court. It makes me wonder if [disagreeable_heir.GetSheHe] will manage to retain my vassals' support once I am gone..."
- diplomacy_family.0008.end_no_vassals.desc:0 "have been spreading around my court. It makes me wonder if [disagreeable_heir.GetSheHe] can handle the responsibilities of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] and its people once I am gone..."
+ diplomacy_family.0008.end_no_vassals.desc:0 "have been spreading around my [ROOT.Char.Custom('GetCourt')]. It makes me wonder if [disagreeable_heir.GetSheHe] can handle the responsibilities of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] and its people once I am gone..."
  diplomacy_family.0008.a:0 "Attempt to rectify [disagreeable_heir.GetFirstNamePossessiveNoTooltip] flaws."
  diplomacy_family.0008.a.tt:0 "[disagreeable_heir.GetShortUIName|U] might overcome [disagreeable_heir.GetHerHis] flaws"
  diplomacy_family.0008.b:0 "Talk up [disagreeable_heir.GetHerHis] good qualities instead."
- diplomacy_family.0008.b.custom:0 "Every vassal"
+ diplomacy_family.0008.b.custom:0 "Every [ROOT.Char.Custom('GetFollowerOrVassal')]"
  diplomacy_family.0008.c:0 "Focus on myself and lead by example."
 
 
@@ -90,12 +90,12 @@
 
  # Family Quarrel, by Petter Vilberg
  diplomacy_family.2101.t:0 "The Quarrel"
- diplomacy_family.2101.desc:0 "[family_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been quarreling with [family_2.Custom2('HerHisCharacterIntroduction', family_1)] for days. Just now I can overhear them arguing in the next room over...\n\n"Unbelievable!" [family_1.GetFirstName] shouts, "How can a [family_2.Custom('InsultNoun')] like you believe you are the ideal manifestation of [ROOT.Char.GetDynastyName] family virtues!? I am clearly #EMP far#! more deserving of that distinction than you are!"
+ diplomacy_family.2101.desc:0 "[family_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been quarreling with [family_2.Custom2('HerHisCharacterIntroduction', family_1)] for days. Just now I can overhear them arguing in the next [ROOT.Char.Custom('GetRoom')] over...\n\n"Unbelievable!" [family_1.GetFirstName] shouts, "How can a [family_2.Custom('InsultNoun')] like you believe you are the ideal manifestation of [ROOT.Char.GetDynastyName] family virtues!? I am clearly #EMP far#! more deserving of that distinction than you are!"
  diplomacy_family.2101.a:0 "No fighting in the family!"
- diplomacy_family.2101.a.tt:1 "You enter the room to break up their fight"
+ diplomacy_family.2101.a.tt: "You attempt to break up their fight"
  diplomacy_family.2101.b:0 "Let them sort their quarrels in peace."
 
- diplomacy_family.2102.desc:0 "As I walk into the room [family_1.GetFirstName] turns to face me. "I am glad you are here, [ROOT.Char.GetFirstNameNoTooltip]. Won't you please talk some sense into [family_2.Custom2('YourCharacterIntroduction', ROOT.Char)]? [family_2.GetSheHe|U] is being completely unreasonable!"
+ diplomacy_family.2102.desc:0 "As I walk into the [ROOT.Char.Custom('GetRoom')] [family_1.GetFirstName] turns to face me. "I am glad you are here, [ROOT.Char.GetFirstNameNoTooltip]. Won't you please talk some sense into [family_2.Custom2('YourCharacterIntroduction', ROOT.Char)]? [family_2.GetSheHe|U] is being completely unreasonable!"
  diplomacy_family.2102.a:0 "Yes, shame on you [family_2.GetFirstNameNoTooltip]!"
  diplomacy_family.2102.b:0 "You are in the wrong here, [family_1.GetFirstNameNoTooltip]."
  diplomacy_family.2102.c:0 "You are both acting like petulant children!"
@@ -146,10 +146,10 @@
 
  diplomacy_family.2251.desc:0 "[spouse.GetTitledFirstName] will think twice before touching my [lover.GetFirstName] again. I was very careful not to reveal my reasons, yet it might be foolish to press the issue again in the future. \n\nSooner or later, [spouse.GetFirstNameNoTooltip] will find the resolution to ignore my threats, but for now, I can rest easy."
  diplomacy_family.2251.a:0 "I hope my [ruler.Custom2('RelationToMeShort', SCOPE.sC('lover'))] appreciates it."
- diplomacy_family.2252.desc:0 ""How could you be so inconsiderate?!" [lover.GetFirstName] hisses at me, not daring to raise [lover.GetHerHis] voice, even in my own rooms.\n\n It seems that [spouse.GetTitledFirstName] has ignored my warnings and informed my [ruler.Custom2('RelationToMeShort', SCOPE.sC('lover'))] of our talk.\n\n"I cannot neglect my marital duties for your sake, [ruler.GetFirstNameNoTooltip]!" With that, [lover.GetSheHe] departs in a hurry."
+ diplomacy_family.2252.desc:0 ""How could you be so inconsiderate?!" [lover.GetFirstName] hisses at me, not daring to raise [lover.GetHerHis] voice, even in my own [ROOT.Char.Custom('GetRoomPlural')].\n\n It seems that [spouse.GetTitledFirstName] has ignored my warnings and informed my [ruler.Custom2('RelationToMeShort', SCOPE.sC('lover'))] of our talk.\n\n"I cannot neglect my marital duties for your sake, [ruler.GetFirstNameNoTooltip]!" With that, [lover.GetSheHe] departs in a hurry."
  diplomacy_family.2252.a:0 "But...!"
- diplomacy_family.2253.desc.a:0 "My plan worked flawlessly! [lover.GetFirstName] is free from that uncouth [spouse.Custom('InsultNoun')], [spouse.GetTitledFirstName], and we could not be more pleased.\n\n[lover.GetSheHe|U] rushed to my rooms as soon as [lover.GetSheHe] heard the news from [house_head.GetTitledFirstName] to express [lover.GetHerHis] gratitude in the sweetest manner."
- diplomacy_family.2253.desc.b:0 "My plan worked flawlessly! [lover.GetFirstName] is free from that uncouth [spouse.Custom('InsultNoun')], [spouse.GetTitledFirstName], and we could not be more pleased.\n\n[lover.GetSheHe|U] rushed to my rooms as soon as [lover.GetSheHe] received my letter to express [lover.GetHerHis] gratitude in the sweetest manner."
+ diplomacy_family.2253.desc.a:0 "My plan worked flawlessly! [lover.GetFirstName] is free from that uncouth [spouse.Custom('InsultNoun')], [spouse.GetTitledFirstName], and we could not be more pleased.\n\n[lover.GetSheHe|U] rushed to my [ROOT.Char.Custom('GetRoomPlural')] as soon as [lover.GetSheHe] heard the news from [house_head.GetTitledFirstName] to express [lover.GetHerHis] gratitude in the sweetest manner."
+ diplomacy_family.2253.desc.b:0 "My plan worked flawlessly! [lover.GetFirstName] is free from that uncouth [spouse.Custom('InsultNoun')], [spouse.GetTitledFirstName], and we could not be more pleased.\n\n[lover.GetSheHe|U] rushed to my [ROOT.Char.Custom('GetRoomPlural')] as soon as [lover.GetSheHe] received my letter to express [lover.GetHerHis] gratitude in the sweetest manner."
  diplomacy_family.2253.a:0 "Now we can finally be together forever!"
  diplomacy_family.2253.b:0 "The things I do for family..."
  diplomacy_family.2253.c:0 "Everyone shall know about our love!"
@@ -189,7 +189,7 @@
  diplomacy_family_special.2200.same_title.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip]"
  diplomacy_family_special.2200.same_sex_title.desc:0 "$diplomacy_family_special.2200.same_title.desc$"
  diplomacy_family_special.2200.opposite_sex_title.desc:0 "[ROOT.Char.GetPrimarySpouse.GetTitleAsNameNoTooltip]"
- diplomacy_family_special.2200.ruler.desc:0 "ruler"
+ diplomacy_family_special.2200.ruler.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip]"
  diplomacy_family_special.2200.end.desc:0 "of [ROOT.Char.GetPrimaryTitle.GetNameNoTier]!""
  diplomacy_family_special.2200.a:0 "Come sit with me, we shall discuss this matter."
  diplomacy_family_special.2200.a.tt:0 "I will help [heir.GetFirstNameNoTooltip] find a way to respond to the criticism"
@@ -208,7 +208,7 @@
  diplomacy_family_special.2201.b.failure.tt:0 "[heir.GetTitledFirstName] remains [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagTraitLink')]"
  diplomacy_family_special.2201.c:0 "I will make [vassal.GetHerHim] pay for criticizing you!"
 
- diplomacy_family_special.2202.desc:0 "I arrange a meeting with [vassal.GetTitledFirstName] to discuss his problem with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('heir'))] [heir.GetTitledFirstName].\n\n"It's quite simple [ROOT.Char.GetTitledFirstNameNoTooltip]; I do not like the idea of having a [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')] liege. For the good of the realm, I am willing to make my displeasure known, even if it means putting myself at risk.""
+ diplomacy_family_special.2202.desc:0 "I arrange a meeting with [vassal.GetTitledFirstName] to discuss his problem with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('heir'))] [heir.GetTitledFirstName].\n\n"It's quite simple [ROOT.Char.GetTitledFirstNameNoTooltip]; I do not like the idea of having a [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')] liege. For the good of the [ROOT.Char.Custom('GetRealmOrDomicile')], I am willing to make my displeasure known, even if it means putting myself at risk.""
  diplomacy_family_special.2202.a:0 "But what about [heir.GetHerHis] good qualities?"
  diplomacy_family_special.2202.a.success:0 "[vassal.GetFirstNameNoTooltip] and [heir.GetFirstNameNoTooltip] resolve their differences"
  diplomacy_family_special.2202.a.failure:0 "[vassal.GetFirstNameNoTooltip] is unwilling to reconcile with [heir.GetFirstNameNoTooltip]"
@@ -228,7 +228,7 @@
  diplomacy_family_special.2213.desc:0 "Despite my best efforts to convince [heir.GetTitledFirstName] he could get along with [vassal.GetTitledFirstName] if [heir.GetSheHe] tried, [heir.GetFirstNameNoTooltip] refused to change [heir.GetHerHis] behavior when around [vassal.GetTitledFirstNameNoTooltip].\n\nIt seems that the animosity between them will continue for some time..."
  diplomacy_family_special.2213.a:0 "I am disappointed in [heir.GetFirstNameNoTooltip]."
 
- diplomacy_family_special.2220.desc:0 "I sat down with [heir.GetFirstName] and explained that sometimes it is in the best interests of the realm to be [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')], even if such behavior does not come naturally.\n\n[heir.GetSheHe|U] seemed doubtful at first, but was encouraged when I told [heir.GetHerHim] such things gets easier with time and practice."
+ diplomacy_family_special.2220.desc:0 "I sat down with [heir.GetFirstName] and explained that sometimes it is in the best interests of the [ROOT.Char.Custom('GetRealmOrDomicile')] to be [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')], even if such behavior does not come naturally.\n\n[heir.GetSheHe|U] seemed doubtful at first, but was encouraged when I told [heir.GetHerHim] such things gets easier with time and practice."
  diplomacy_family_special.2220.a:0 "Time will tell how this changes things."
  diplomacy_family_special.2220.a.tt:0 "[heir.GetFirstName] will try to be more [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInvertedTraitLink')]"
 

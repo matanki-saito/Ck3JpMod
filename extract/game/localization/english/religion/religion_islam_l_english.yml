@@ -40,8 +40,8 @@
  islam_priest:0 "imam"
  islam_priest_plural:0 "imams"
  islam_priest_alternate_plural:0 "clergy"
- islam_bishop:0 "ulama"
- islam_bishop_plural:0 "ulamas"
+ islam_bishop:0 "ālim"
+ islam_bishop_plural:0 "ulama"
  islam_positive_afterlife:0 "heaven"
  islam_positive_afterlife_2: "Jannah"
  islam_positive_afterlife_3: "paradise"
@@ -100,7 +100,7 @@
  masmudi_adherent:1 "Almohadi"
  masmudi_adherent_plural:1 "Almohadis"
  masmudi_desc:2 "A reformist branch of Sunni Islam that originated with the Berber tribes in northern Africa, the Almohadi movement saw themselves as unitarians and preached a doctrine of purified monotheism."
- masmudi_religious_head_title:0 "Mahdi"
+ masmudi_religious_head_title:0 "Caliph"
  masmudi_religious_head_title_name:0 "caliphate"
 
  #Mu'tazila
@@ -113,8 +113,8 @@
  #Maturidi
  maturidi:0 "Maturidism"
  maturidi_adj:0 "Maturidi"
- maturidi_adherent:0 "Maturidism"
- maturidi_adherent_plural:0 "Maturidi"
+ maturidi_adherent:0 "Maturidi"
+ maturidi_adherent_plural:0 "Maturidis"
  maturidi_desc:0 "A rationalist theology which espouses that ethics have an objective existence, as derived from the eternal qualities of God, and that humans must therefore pursue ethical choices."
  
  #Quranism

@@ -10,7 +10,6 @@
  struggle_persia_ending_assertion.l: "More than [SCOPE.ScriptValue('fp3_persia_supporter_rulers_decimal_value')|V0%] of [struggle_involved|E] [count|E] or above [independent|E] [rulers|E] or direct [vassals|E] of the Caliph have the [GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )] [trait|E] ([SCOPE.ScriptValue('fp3_persia_supporter_rulers_count_value')]/[SCOPE.ScriptValue('fp3_persia_supporter_rulers_half_value')])"
  struggle_persia_ending_assertion.2: "No [independent|E] [struggle_involved|E] or [struggle_interloper|E] [duke|E] or higher has the [GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )] [trait|E] #weak (currently [SCOPE.ScriptValue('fp3_persia_independent_detractor_rulers_count_value')|V0])#!"
  struggle_persia_ending_assertion.3: "No [independent|E] [struggle_involved|E] or [struggle_interloper|E] [duke|E] or higher has a non-[GetFaithDoctrine('muhammad_succession_sunni_doctrine').GetBaseName] [faith|E] #weak (currently [SCOPE.ScriptValue('fp3_persia_independent_non_sunni_rulers_count_value')|V0])#!"
- fp3_struggle_assertion_house_demand_submission_rewards_tt: "Unlocks the #D Demand Submission#! [interaction|E]"
 
  struggle_persia_ending_decision_caliphate_exists_tt: "The [holder|E] of the [GetTitleByKey('d_sunni').GetBaseName] also holds the [GetTitleByKey('e_arabia').GetDefinitiveName]"
  fp3_struggle_ending_conversion_modifier_desc: "$persian_struggle$ Ending"
@@ -100,7 +99,7 @@
  embellish_capital_consort_courtier_tooltip: "One of my [courtiers|E] will be charged with overseeing the construction of a grand, new addition to my [capital|E]"
  embellish_capital_option_consort_courtier: "A Courtier"
  embellish_capital_chaplain_tooltip: "My [court_chaplain|E] will be charged with overseeing the construction of a grand, new addition to my [capital|E]"
- embellish_capital_option_chaplain: "My [ROOT.Char.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName )]"
+ embellish_capital_option_chaplain: "My [ROOT.Char.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName]"
  embellish_capital_me_tooltip: "I shall build the grandest addition to my [capital|E] the world has ever seen!"
  embellish_capital_option_me: "I'll lead the project myself"
 
@@ -246,7 +245,7 @@
  favour_skilled_outsiders_decision.tt.not_share_marshal_heritage: "Does not share your [marshal|E]'s [cultural|E] [heritage|E]"
  favour_skilled_outsiders_decision.tt.not_share_steward_heritage: "Does not share your [steward|E]'s [cultural|E] [heritage|E]"
  favour_skilled_outsiders_decision.tt.not_share_spymaster_heritage: "Does not share your [spymaster|E]'s [cultural|E] [heritage|E]"
- favour_skilled_outsiders_decision.tt.not_share_court_chaplain_heritage: "Does not share your [court_chaplain)|E]'s [cultural|E] [heritage|E]"
+ favour_skilled_outsiders_decision.tt.not_share_court_chaplain_heritage: "Does not share your [court_chaplain|E]'s [cultural|E] [heritage|E]"
  favour_skilled_outsiders_decision.tt.not_share_liege_heritage: "Does not share a [liege|E] of yours [cultural|E] [heritage|E]"
  favour_skilled_outsiders_decision.tt.promote_minorities_from_within_realm: "You hire skilled [characters|E] from outside your [council|E]'s ruling [cultures|E]"
  favour_skilled_outsiders_decision.tt.two_batches_to_choose_from: "You will be able to choose between two batches of potential recruits"

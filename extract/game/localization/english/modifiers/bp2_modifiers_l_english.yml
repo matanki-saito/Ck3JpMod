@@ -119,4 +119,13 @@
  scorched_soles_modifier_desc: "After their painstakingly ceremonious firewalk, this character steps gingerly on horribly burned feet."
 
  tough_and_confident_modifier: "Tough & Confident Tribal"
-  tough_and_confident_modifier_desc: "Struggling through their rites of passage, this character learned passion, determination and self-reliance."
+ tough_and_confident_modifier_desc: "Struggling through their rites of passage, this character learned passion, determination and self-reliance."
+
+ peace_over_honor_modifier: "Peace Over Pathos"
+ peace_over_honor_modifier_desc: "When a court hosting kin as hostage fell under threat, this character refused to lend aid."
+
+ a_noble_fight_modifier: "A Noble Fight"
+ a_noble_fight_modifier_desc: "By answering the pleas of a beleagured hostage, this character has committed to martial adventurism."
+
+aggressive_unpredictable_modifier: "Aggressive, Unpredictable"
+aggressive_unpredictable_modifier_desc: "This warmonger is known to go from truce to violent assault at the mildest provocation."

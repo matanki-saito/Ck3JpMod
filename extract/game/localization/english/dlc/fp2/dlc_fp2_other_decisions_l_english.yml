@@ -19,20 +19,20 @@
  fp2_struggle_secure_iberian_foothold_empire_tt:0 "You [hold|E] an [empire|E] [title|E] that is not [GetTitleByKey('e_spain').GetNameNoTier]"
 
  fp2_struggle_phase_hostility_or_opportunity_tt:1 "The Iberian [struggle_phase|E] is [struggle_phase_iberia_hostility|E] or [struggle_phase_iberia_opportunity|E] (Current: [GetStruggle('iberian_struggle').GetCurrentPhase.GetName])"
- fp2_struggle_secure_iberian_foothold_kingdom_iberian_tt:0 "You [hold|E] and [completely_control|E] a [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier]"
+ fp2_struggle_secure_iberian_foothold_kingdom_iberian_tt: "You [hold|E] and [completely_control|E] a [de_jure|E] [kingdom|E] in [GetTitleByKey('e_spain').GetNameNoTier]"
 
  fp2_struggle_secure_iberian_foothold_kingdom_faith_tt:0 "At least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_faith_target_percent_value')|0]%#! of this [titlepossessive|E] [de_jure|E] [counties|E] are [THIS.Char.GetFaith.GetAdjective]"
- fp2_struggle_secure_iberian_foothold_kingdom_border_tt:0 "This [title|E] borders held [de_jure|E] land of an [empire|E] you [hold|E] which is not [GetTitleByKey('e_spain').GetNameNoTier]"
+ fp2_struggle_secure_iberian_foothold_kingdom_border_tt: "This [title|E] borders a held [de_jure|E] [kingdom|E] in an [empire|E] you [hold|E] which is not [GetTitleByKey('e_spain').GetNameNoTier]"
  fp2_struggle_secure_iberian_foothold_kingdom_held_tt:0 "You have held this [title|E] for at least [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_years_value')|0Z] years"
 
  fp2_struggle_secure_iberian_foothold_religion_tt:0 "You [hold|E] at least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_target_percent_value')|0]%#! of [THIS.Char.GetFaith.GetReligion.GetAdjective] [faith|E] [counties|E] in the [GetGeographicalRegion('world_europe_west_iberia').GetName] [region|E] (Current: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_percent_value')|1]%)\n"
  fp2_struggle_secure_iberian_foothold_outsider_tt:0 "You [hold|E] at least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_target_percent_value')|0]%#! of [counties|E] in the [GetGeographicalRegion('world_europe_west_iberia').GetName] [region|E] (Current: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_percent_value')|0]%)\n"
 
- fp2_struggle_secure_iberian_foothold_empire_held_effect_tt:0 "Every [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier] which which satisfies the below conditions will become [de_jure|E] part of [THIS.Char.GetPrimaryTitle.GetNameNoTier]"
+ fp2_struggle_secure_iberian_foothold_empire_held_effect_tt: "Every [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier] which satisfies the below conditions will become [de_jure|E] part of [THIS.Char.GetPrimaryTitle.GetNameNoTier]"
  fp2_struggle_secure_iberian_foothold_empire_dejure_effect_tt:0 "Every [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier] which satisfies the below conditions will become [de_jure|E] part of the [empire|E] of [THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier]"
 
  fp2_struggle_secure_iberian_foothold_ends_the_struggle_tt:0 "The [iberian_struggle|E] ends"
-  
+
  iberian_footholder_transfer_tt:0 "[THIS] [THIS.Title.GetName] [THIS.GetName]"
 
  fp2_other_decisions.1000.t:0 "$secure_iberian_foothold_decision_title$: [iberian_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip] Consolidation"
@@ -126,7 +126,7 @@
  fp2_council_opinion_mozarabic_effect_tt:0 "Every Mozarabic attendee"
  fp2_council_opinion_other_effect_tt:0 "Every non-Mozarabic attendee"
  fp2_council_conversion_modifier_tt:0 "Convert Faith in County will progress faster against other [religions|E] while this modifier is present"
- fp2_council_heresies_modifier_tt:0 "Convert Faith in County will progress faster against same-[religion|E] [faiths|E] with [head_of_faiths|E] this modifier is present"
+ fp2_council_heresies_modifier_tt:0 "Convert Faith in County will progress faster against same-[religion|E] [faiths|E] with a [head_of_faith|E] while this modifier is present"
  excluded_from_council_toledo_tt:0 "Every other [THIS.Char.GetFaith.GetReligion.GetAdjective] [head_of_faith|E] in [diplomatic_range|E]"
  fp2_council_end_tt:0 "The [SCOPE.ScriptValue('council_of_toledo_counter_value')][THIS.Char.Custom('get_council_of_toledo_count_suffix')] Council of Toledo ends"
  # Modifiers
@@ -183,6 +183,6 @@
  fp2_other_decisions.1101.a:0 "They will not last long!"
  fp2_other_decisions.1101.b:0 "Something to keep an eye on."
  fp2_other_decisions.1101.c:0 "Interesting."
- 
+
  fp2_form_kingdom_toledo_modifier:0 "$fp2_other_decisions.1100.t$"
  fp2_form_kingdom_toledo_modifier_desc:0 "This character has established a new kingdom centered in the old Visigothic capital."

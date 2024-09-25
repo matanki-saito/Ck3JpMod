@@ -1,17 +1,17 @@
-﻿l_english:
+﻿l_english: 
  dungeon_ongoing.0001.t:0 "Incessant Chatter"
  dungeon_ongoing.0001.desc:0 "I cannot see who it is, or exactly where they are, but the only time their loud whispers are not echoing through the dank dungeon is when they are screaming instead."
- dungeon_ongoing.0001.a:0 "If it would stop for even a moment!"
+ dungeon_ongoing.0001.a:0 "If you would only stop, even for a moment!"
  dungeon_ongoing.0001.b:0 ""Is it me you're talking to, friend?""
 
  dungeon_ongoing.0002.t:0 "The Wait"
- dungeon_ongoing.0002.desc:0 "It is the passing of time that really gets to me. Who knows how much time has passed, or how much time there is left of my stay? It could be hours or months."
+ dungeon_ongoing.0002.desc:0 "It is the passing of time that really gets to me. Who knows how much has gone, or how much longer I my stay will continue? It could be hours... or months."
  dungeon_ongoing.0002.a:0 "I need to get out of here!"
  dungeon_ongoing.0002.b:0 "I can wait as long as I need to."
 
  dungeon_ongoing.0003.t:0 ""Keep It Down!""
- dungeon_ongoing.0003.desc:0 "I have been haranguing the guards through the bars, telling them that they need to let me out. The only response I get is menacing looks and raised fists telling me to keep quiet."
- dungeon_ongoing.0003.a:0 "Appeals to duty is clearly not the way out."
+ dungeon_ongoing.0003.desc:0 "I have been haranguing the guards through the bars, telling them that they need to let me out. Their only response is a menacing look, a raised fists, and a snarl to 'keep quiet.'"
+ dungeon_ongoing.0003.a:0 "Appeals to duty are clearly not the way out."
  dungeon_ongoing.0003.b:0 "You think you can shut me up with threats?!"
 
  dungeon_ongoing.0004.t:0 "Infection"
@@ -24,7 +24,7 @@
  dungeon_ongoing.0005.a:0 "Thank [ROOT.Char.GetFaith.HealthGodName]."
 
  dungeon_ongoing.0006.t:0 "Doom and Gloom"
- dungeon_ongoing.0006.desc:0 "A constant chill, perpetual dampness, and everlasting hunger from too thin gruel."
+ dungeon_ongoing.0006.desc:0 "A constant chill, perpetual dampness, and everlasting hunger from too-thin gruel."
  dungeon_ongoing.0006.a:0 "[ROOT.Char.GetFaith.HighGodName], how could I ever deserve this?!"
  dungeon_ongoing.0006.b:0 "Eh, could have been worse."
 
@@ -75,21 +75,21 @@
  dungeon_ongoing.0013.b: "[prisoner.GetSheHe|U] is my rightful prisoner, family be damned."
 
  dungeon_ongoing.0014.t: "Empty Echoes"
- dungeon_ongoing.0014.desc: "The guards' whispers reach me. [letter_recipient.Custom2('MyCharacterIntroduction', ROOT.Char)] has evidently heeded my letters and approached my gaoler [imprisoner.GetTitledFirstName]. Unfortunately, the [imprisoner.Custom('InsultNoun')] has hardened [imprisoner.GetHerHis] heart and turned [letter_recipient.GetTitledFirstNameNoTooltip] away. I am left no freer a [prisoner.GetWomanMan] than before."
+ dungeon_ongoing.0014.desc: "The guards' whispers reach me. [letter_recipient.Custom2('MyCharacterIntroduction', ROOT.Char)] has evidently heeded my letters and approached my jailer [imprisoner.GetTitledFirstName]. Unfortunately, the [imprisoner.Custom('InsultNoun')] has hardened [imprisoner.GetHerHis] heart and turned [letter_recipient.GetTitledFirstNameNoTooltip] away. I am left no freer a [prisoner.GetWomanMan] than before."
  dungeon_ongoing.0014.a: "At least [letter_recipient.GetTitledFirstNameNoTooltip] is a good [ROOT.Char.Custom2('RelationToMeShort', letter_recipient)] to me."
  dungeon_ongoing.0014.b: "Will no-one help me?!"
  
 
  dungeon_ongoing.9001.t:0 "Inside"
- dungeon_ongoing.9001.desc:0 "I do not recall the last time I saw the sun. I do not recall the last time I had solid food, or solid anything else. It feels like the dampness in the air has fastened itself in my lungs. If a tooth hurts, I simply pull it out of my rotting gums."
+ dungeon_ongoing.9001.desc:0 "I do not recall the last time I saw the sun. I do not recall the last time I had solid food, or solid anything else.\n\nIt feels like the dampness in the air has fastened itself in my lungs.\n\nIf a tooth hurts, I simply pull it out of my rotting gums."
  dungeon_ongoing.9001.a:0 "It is so hard to move."
 
  dungeon_ongoing.9002.t:0 "Hollow"
- dungeon_ongoing.9002.desc:0 "The coughing never ends. It has been days, and I have not had an hour's sleep without waking with my hands clawing at my throat. Licking trickles of water off the wall does nothing anymore."
+ dungeon_ongoing.9002.desc:0 "The coughing never ends. It has been days, and I have not had an hour's sleep without waking with my hands clawing at my throat.\n\nLicking trickles of water off the wall does nothing anymore."
  dungeon_ongoing.9002.a:0 "I only want it to end."
 
  dungeon_ongoing.9003.t:0 "Recollection"
- dungeon_ongoing.9003.desc:0 "Will I ever be let out of here? Am I simply locked up, abandoned and forgotten? Does anyone but the gaoler know I am here? Is there anyone left who knows my name? Who knows who I was?"
+ dungeon_ongoing.9003.desc:0 "Will I ever be let out of here? Am I simply locked up, abandoned and forgotten?\n\nDoes anyone but the jailer know I am here?\n\nIs there anyone left who knows my name?\n\nWho knows who I was?"
  dungeon_ongoing.9003.a:0 "I can barely recall their faces..."
 
  dungeon_ongoing.9004.t:0 "Abandonment"
@@ -97,5 +97,5 @@
  dungeon_ongoing.9004.a:0 "This is my whole world."
 
  dungeon_ongoing.9005.t:0 "Unfathomable Loss"
- dungeon_ongoing.9005.desc:0 "My faithful companion, my most treasured friend, my lifeline in this dark place...\n\nAs I cradle my dying [ROOT.Char.Custom('prison_pet')] in my arms I am overcome with the hopelessness of my situation. If a pure being such as it must die in this place, what chance do I stand?"
+ dungeon_ongoing.9005.desc:0 "My faithful companion, my most treasured friend, my lifeline in this dark place...\n\nAs I cradle my dying [ROOT.Char.Custom('prison_pet')] in my arms I am overcome with the hopelessness of my situation. If even so pure a being as [dummy_gender.GetSheHe] must die in this place, what chance do I stand?"
  dungeon_ongoing.9005.a:0 "You cannot leave me here alone!"

@@ -1,12 +1,12 @@
 ﻿l_english:
  intrigue_scheme_ongoing.1001.t:0 "A Well-Timed Bribe"
- intrigue_scheme_ongoing.1001.desc:0 "It seems that not every servant at [scheme.GetTarget.GetTitledFirstNamePossessive] court is blindly loyal... [agent.GetFirstName] assures me that [agent.GetSheHe] has a way in, and that a few coins in the right pocket can go a long way."
- intrigue_scheme_ongoing.1001.elope.desc:0 "It seems that not every servant at [scheme.GetTarget.GetTitledFirstNamePossessive] court is blindly loyal to [scheme.GetTarget.GetLiege.GetTitledFirstName]... [agent.GetFirstName] assures me that [agent.GetSheHe] has a way in, and that a few coins in the right pocket can go a long way."
+ intrigue_scheme_ongoing.1001.desc:0 "It seems that not every servant at [scheme.GetTargetCharacter.GetTitledFirstNamePossessive] court is blindly loyal... [agent.GetFirstName] assures me that [agent.GetSheHe] has a way in, and that a few coins in the right pocket can go a long way."
+ intrigue_scheme_ongoing.1001.elope.desc:0 "It seems that not every servant at [scheme.GetTargetCharacter.GetTitledFirstNamePossessive] court is blindly loyal to [scheme.GetTargetCharacter.GetLiege.GetTitledFirstName]... [agent.GetFirstName] assures me that [agent.GetSheHe] has a way in, and that a few coins in the right pocket can go a long way."
  intrigue_scheme_ongoing.1001.a:0 "What is a little gold, after all?"
  intrigue_scheme_ongoing.1001.b:0 "It is too risky!"
 
  intrigue_scheme_ongoing.1002.t:0 "Divine Justice"
- intrigue_scheme_ongoing.1002.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent_in_question'))], [agent_in_question.GetTitledFirstName], has condemned [scheme.GetTarget.GetTitledFirstName] for [scheme.GetTarget.GetHerHis] offenses against [agent_in_question.GetFaith.HighGodName].\n\n[agent_in_question.GetSheHe|U] has even called for [agent_in_question.GetFaith.HighGodNameAlternate] to strike [scheme.GetTarget.GetFirstName] down, and hinted at punishments to come."
+ intrigue_scheme_ongoing.1002.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent_in_question'))], [agent_in_question.GetTitledFirstName], has condemned [scheme.GetTargetCharacter.GetTitledFirstName] for [scheme.GetTargetCharacter.GetHerHis] offenses against [agent_in_question.GetFaith.HighGodName].\n\n[agent_in_question.GetSheHe|U] has even called for [agent_in_question.GetFaith.HighGodNameAlternate] to strike [scheme.GetTargetCharacter.GetFirstName] down, and hinted at punishments to come."
  intrigue_scheme_ongoing.1002.a:0 "A little optimistic, perhaps, but I like the spirit!"
  intrigue_scheme_ongoing.1002.a.success:0 "[agent_in_question.GetSheHe|U] recruits local [agent_in_question.GetFaith.GetAdherentNamePlural] to our cause"
  intrigue_scheme_ongoing.1002.a.failure:0 "[agent_in_question.GetFirstNameNoTooltip] exposes [agent_in_question.GetHerselfHimself] in [agent_in_question.GetHerHis] fervor"
@@ -23,11 +23,11 @@
  intrigue_scheme_ongoing.1004.toast.failure:0 "[agent_in_question.GetFirstNameNoTooltip] is discovered"
 
  intrigue_scheme_ongoing.1006.t:0 "Cleaning Up"
- intrigue_scheme_ongoing.1006.desc:0 "Of course that [agent_in_question.Custom('InsultAdjective')] [agent_in_question.GetTitledFirstName] would cause problems.\n\n[agent_in_question.GetSheHe|U] fails to take proper precautions when moving around [scheme.GetTarget.GetTitledFirstNamePossessive] court, and the [scheme.GetTarget.GetTitleAsNameNoTooltip] is starting to notice. It is only a matter of time until [agent_in_question.GetSheHe] is discovered!"
- intrigue_scheme_ongoing.1006.elope.desc:0 "Of course that [agent_in_question.Custom('InsultAdjective')] [agent_in_question.GetTitledFirstName] would cause problems.\n\n[agent_in_question.GetSheHe|U] fails to take proper precautions when moving around [scheme.GetTarget.GetTitledFirstNamePossessive] court, and [scheme.GetTarget.GetLiege.Custom2('HerHisCharacterIntroduction', scheme.GetTarget)] is starting to notice. It is only a matter of time until [agent_in_question.GetFirstNameNoTooltip] is discovered!"
+ intrigue_scheme_ongoing.1006.desc:0 "Of course that [agent_in_question.Custom('InsultAdjective')] [agent_in_question.GetTitledFirstName] would cause problems.\n\n[agent_in_question.GetSheHe|U] fails to take proper precautions when moving around [scheme.GetTargetCharacter.GetTitledFirstNamePossessive] court, and the [scheme.GetTargetCharacter.GetTitleAsNameNoTooltip] is starting to notice. It is only a matter of time until [agent_in_question.GetSheHe] is discovered!"
+ intrigue_scheme_ongoing.1006.elope.desc:0 "Of course that [agent_in_question.Custom('InsultAdjective')] [agent_in_question.GetTitledFirstName] would cause problems.\n\n[agent_in_question.GetSheHe|U] fails to take proper precautions when moving around [scheme.GetTargetCharacter.GetTitledFirstNamePossessive] court, and [scheme.GetTargetCharacter.GetLiege.Custom2('HerHisCharacterIntroduction', scheme.GetTargetCharacter)] is starting to notice. It is only a matter of time until [agent_in_question.GetFirstNameNoTooltip] is discovered!"
  intrigue_scheme_ongoing.1006.a.success:0 "[agent_in_question.GetFirstNameNoTooltip] remains undetected"
  intrigue_scheme_ongoing.1006.a.failure:0 "[agent_in_question.GetFirstNameNoTooltip] is discovered"
- intrigue_scheme_ongoing.1006.a:1 "Traces of someone sneaking about will surely stress [scheme.GetTarget.GetFirstNameNoTooltip] out!"
+ intrigue_scheme_ongoing.1006.a:1 "Traces of someone sneaking about will surely stress [scheme.GetTargetCharacter.GetFirstNameNoTooltip] out!"
  intrigue_scheme_ongoing.1006.b:0 "[agent_in_question.GetSheHe|U] needs to take the time to do better."
 
  intrigue_scheme_ongoing.1007.t:0 "Voiced Concern"
@@ -50,7 +50,7 @@
  intrigue_scheme_ongoing.1009.b:0 "I would only ask you for one little favor..."
 
  intrigue_scheme_ongoing.2001.t:0 "Misplaced Trust"
- intrigue_scheme_ongoing.2001.desc:0 "[scheme.GetTarget.GetFirstNamePossessive] trusting nature has made it easier than expected for [agent_in_question.GetTitledFirstName] to ingratiate [agent_in_question.GetHerselfHimself] with the [scheme.GetTarget.GetTitleTierName] – as [agent_in_question.GetFirstNameNoTooltip] offers advice [target.GetSheHe] is more likely to listen than not."
+ intrigue_scheme_ongoing.2001.desc:0 "[scheme.GetTargetCharacter.GetFirstNamePossessive] trusting nature has made it easier than expected for [agent_in_question.GetTitledFirstName] to ingratiate [agent_in_question.GetHerselfHimself] with the [scheme.GetTargetCharacter.GetTitleTierName] – as [agent_in_question.GetFirstNameNoTooltip] offers advice [target.GetSheHe] is more likely to listen than not."
  intrigue_scheme_ongoing.2001.a:0 "[agent_in_question.GetSheHe|U] must keep offering sound advice, until..."
  intrigue_scheme_ongoing.2001.b:0 "[agent_in_question.GetSheHe|U] can ensure that other agents can come and go."
 
@@ -118,17 +118,17 @@
 
 
  intrigue_scheme_ongoing.4001.t:0 "A Responsible Adult"
- intrigue_scheme_ongoing.4001.desc:0 "[agent_in_question.GetTitledFirstName] has told me that [agent_in_question.GetSheHe] has been asked to look after a group of children playing at court.\nAs luck would have it, that includes [scheme.GetTarget.GetTitledFirstName].\n\nThis is a great opportunity to have [agent_in_question.GetTitledFirstName] move things forwards."
+ intrigue_scheme_ongoing.4001.desc:0 "[agent_in_question.GetTitledFirstName] has told me that [agent_in_question.GetSheHe] has been asked to look after a group of children playing at court.\nAs luck would have it, that includes [scheme.GetTargetCharacter.GetTitledFirstName].\n\nThis is a great opportunity to have [agent_in_question.GetTitledFirstName] move things forwards."
  intrigue_scheme_ongoing.4001.a:0 "Teach them the habit of playing far away from watchful eyes."
- intrigue_scheme_ongoing.4001.b:0 "Try to befriend [scheme.GetTarget.GetTitledFirstName]. Make [scheme.GetTarget.GetHerHim] trust you."
+ intrigue_scheme_ongoing.4001.b:0 "Try to befriend [scheme.GetTargetCharacter.GetTitledFirstName]. Make [scheme.GetTargetCharacter.GetHerHim] trust you."
 
  intrigue_scheme_ongoing.4002.t:0 "The Naivety of Children"
- intrigue_scheme_ongoing.4002.desc:0 "[target.GetTitledFirstName] cannot even comprehend that anyone would make dishonest plans, despite the tumultuous court around [target.GetHerHim].\n\nTalking to [scheme.GetTarget.GetHerHim], it seems that [scheme.GetTarget.GetSheHe] actually trusts me!"
+ intrigue_scheme_ongoing.4002.desc:0 "[target.GetTitledFirstName] cannot even comprehend that anyone would make dishonest plans, despite the tumultuous court around [target.GetHerHim].\n\nTalking to [scheme.GetTargetCharacter.GetHerHim], it seems that [scheme.GetTargetCharacter.GetSheHe] actually trusts me!"
  intrigue_scheme_ongoing.4002.a:0 "An opportunity to get closer to [target.GetHerHis] [target.Custom2('RelationToMe', SCOPE.sC('parent'))]!"
  intrigue_scheme_ongoing.4002.b:0 "A secret hiding place? Could you show me?"
 
  intrigue_scheme_ongoing.4003.t:0 "Second Thoughts"
- intrigue_scheme_ongoing.4003.desc:0 "[agent_in_question.GetTitledFirstName] has come to me concerned about the scheme I have involved [agent_in_question.GetHerHim] in. While I did give the order for [agent_in_question.GetHerHim] to befriend [scheme.GetTarget.GetTitledFirstName], I never meant for them to grow emotionally attached!\n\nNow I find myself questioning how far they can be trusted..."
+ intrigue_scheme_ongoing.4003.desc:0 "[agent_in_question.GetTitledFirstName] has come to me concerned about the scheme I have involved [agent_in_question.GetHerHim] in. While I did give the order for [agent_in_question.GetHerHim] to befriend [scheme.GetTargetCharacter.GetTitledFirstName], I never meant for them to grow emotionally attached!\n\nNow I find myself questioning how far they can be trusted..."
  intrigue_scheme_ongoing.4003.a:0 ""Don't make me remind you why you're helping me in the first place!""
  intrigue_scheme_ongoing.4003.b:0 "I will quietly reduce their involvement in my plot."
 
@@ -138,7 +138,7 @@
  intrigue_scheme_ongoing.5001.b:0 "Cut holes in their clothes. In improper areas."
 
  intrigue_scheme_ongoing.5002.t:0 "Written in the Stars"
- intrigue_scheme_ongoing.5002.desc:0 "A [target.GetTitleAsNameNoTooltip] to scare, a local mystic with dubious morals, and a fabricated omen... Perfect.\n\nBefore the mystic leaves for [target.GetTitledFirstNamePossessive] court there is but one question — will my false omen be one of fortune, or of doom?"
+ intrigue_scheme_ongoing.5002.desc:0 "A [target.GetTitleAsNameNoTooltip] to scare, a local mystic, [local_mystic.GetName], with dubious morals, and a fabricated omen... Perfect.\n\nBefore the mystic leaves for [target.GetTitledFirstNamePossessive] court there is but one question — will my false omen be one of fortune, or of doom?"
  intrigue_scheme_ongoing.5002.a:0 "A bad omen for a bad [target.GetTitleAsNameNoTooltip]!"
  intrigue_scheme_ongoing.5002.a.tt:0 "I believe [target.GetFirstNameNoTooltip] is easier to affect with bad news"
  intrigue_scheme_ongoing.5002.a.success:0 "[target.GetSheHe|U] spends many sleepless nights worrying"
@@ -149,7 +149,7 @@
  intrigue_scheme_ongoing.5002.b.failure:0 "[target.GetSheHe|U] grows more wary"
 
  intrigue_scheme_ongoing.5003.t:0 "The Omen"
- intrigue_scheme_ongoing.5003.desc_opening:0 "A local mystic insisted on seeing me, and upon being brought into my presence [dummy_clergy_gender.GetSheHe] started wailing, and... is that blood on [dummy_clergy_gender.GetHerHis] hands?\n\n"
+ intrigue_scheme_ongoing.5003.desc_opening:0 "A local mystic, [local_mystic.GetName], insisted on seeing me, and upon being brought into my presence [local_mystic.GetSheHe] started wailing, and... is that blood on [local_mystic.GetHerHis] hands?\n\n"
  intrigue_scheme_ongoing.5003.desc:1 ""The signs! The signs are not in your favor, my [target.GetLadyLord]. I spilled the intestines of a hen, and the blood showed me your future – it's dark and full of death!""
  intrigue_scheme_ongoing.5003.a:0 "Well that's ominous...!"
 
@@ -237,7 +237,7 @@
  intrigue_scheme_ongoing.5019.b.tt:0 "Your [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('architect'))|U] [architect.GetFirstNameNoTooltip] will oversee the construction works."
 
  intrigue_scheme_ongoing.5021.t:0 "Precarious Preoccupations"
- intrigue_scheme_ongoing.5021.desc:0 "I go to find [owner.GetTitledFirstName], my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))], in [owner.GetHerHis] study only to be greeted with an empty room.\n\nLeisurely leafing through [owner.GetHerHis] papers I some across something that is undeniably plans against [target.Custom2('MyCharacterIntroduction', ROOT.Char)]!"
+ intrigue_scheme_ongoing.5021.desc:0 "I go to find [owner.GetTitledFirstName], my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))], in [owner.GetHerHis] quarters only to be greeted with an empty [owner.Custom('GetChamber')].\n\nLeisurely leafing through [owner.GetHerHis] papers I come across something — plans, undeniably, against [target.Custom2('MyCharacterIntroduction', ROOT.Char)]!"
  intrigue_scheme_ongoing.5021.a:0 "What is the meaning of this, [owner.GetFirstNameNoTooltip]?!"
  intrigue_scheme_ongoing.5021.a.success:0 "[owner.GetSheHe|U] is truly scheming to kill"
  intrigue_scheme_ongoing.5021.a.success.tt:0 "The scheme is exposed"

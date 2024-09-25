@@ -21,3 +21,9 @@
  hero_of_the_moment_opinion:0 "Saved My Life"
 
  opinion_scheme_code_rejected:0 "Rejected My Cryptography Ideas"
+
+ seized_my_realm_crime: "Seized my Realm"
+ seized_lieges_realm_crime: "Seized Liege's Realm"
+ seized_close_family_realm_crime: "Seized Close Family's Realm"
+ attempted_to_seize_my_realm_crime: "Attempted to Seized my Realm"
+ attempted_to_seize_realm_close_family_crime: "Attempted to Seize Close Family's Realm"

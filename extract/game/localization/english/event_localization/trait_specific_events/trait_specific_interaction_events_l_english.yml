@@ -12,7 +12,7 @@
  send_poem_interaction.failure:0 "The Poem is Mocked"
 
  trait_specific_interactions.000.generate_poem:1 "#POE [actor.Custom('GeneratePoem_Title')]#!\n[actor.Custom('GeneratePoem_Intro_Rhyming')]\n[actor.Custom('GeneratePoem_Outro_Rhyming')]"
- trait_specific_interactions.000.intro.part1:0 "The latest work of my [recipient.Custom2('RelationToMe', SCOPE.sC('actor'))], [actor.GetTitledFirstName], has become all the rage at court of late:"
+ trait_specific_interactions.000.intro.part1:0 "The latest work of my [recipient.Custom2('RelationToMe', SCOPE.sC('actor'))], [actor.GetTitledFirstName], has become all the rage at [actor.Custom('GetCourt')] of late:"
  trait_specific_interactions.000.intro.part3:0 "and [actor.GetFirstNameNoTooltip] has publicly dedicated it to #EMP me.#!"
  trait_specific_interactions.000.outro:0 "So far, I've kept my thoughts to myself, but the buzz has grown too dramatic to ignore for much longer."
 

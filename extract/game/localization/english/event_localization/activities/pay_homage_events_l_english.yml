@@ -10,7 +10,7 @@
  pay_homage.0001.desc.hook:0 "You have my word that I will do whatever it is you wish of me, my [homage_liege.GetLadyLord]."
  pay_homage.0001.desc.contract:0 "To mark your dominion and my fealty to you, I will pledge greater obligations as your vassal."
  pay_homage.0001.a:0 "Show [homage_vassal.GetTitledFirstNameNoTooltip] in at once."
- pay_homage.0001.a.tt:0 "You receive [homage_vassal.GetTitledFirstName] in your [royal_court|E]"
+ pay_homage.0001.a.tt:0 "You receive [homage_vassal.GetTitledFirstName]"
  pay_homage.0001.b:0 "[homage_vassal.GetHerHis|U] scraping means nothing to me."
  pay_homage.0001.b.tt:0 "You send [homage_vassal.GetTitledFirstName] away"
 
@@ -51,7 +51,7 @@
  # Vassal Event: Vassal hears how it went
  pay_homage.0201.desc:0 "Servants usher me into [homage_liege.GetTitledFirstNamePossessiveRegnal] great hall in [homage_liege.GetCapitalLocation.GetNameNoTooltip], where [homage_liege.GetSheHe] sits [homage_liege.GetHerHis] throne waiting to hear my pledge.\n\n"
  pay_homage.0201.desc.language:2 "I kneel before [homage_liege.GetHerHim] and recite the [homage_liege.GetCourtLanguage.GetNameNoTooltip] oaths I have practiced, but the half-concealed chuckles of the court make it clear my tongue needs more practice in my liege's court language...\n\n"
- pay_homage.0201.desc.clumsy:0 "I go to kneel before [homage_liege.GetHerHim], but in my haste awkwardly stumble in a heap at [homage_liege.GetHerHis] feet. I haul myself up and make the oaths all the same,  my cheeks burning red before the assembled court...\n\n"
+ pay_homage.0201.desc.clumsy:0 "I go to kneel before [homage_liege.GetHerHim], but in my haste awkwardly stumble in a heap at [homage_liege.GetHerHis] feet. I haul myself up and make the oaths all the same, my cheeks burning red before the assembled court...\n\n"
  pay_homage.0201.desc.infatuation:0 "I kneel before [homage_liege.GetHerHim] and begin. As I recount the oaths, I catch the eye of [homage_infatuation.GetFullName], [SCOPE.sC('homage_liege').Custom2('RelationToMeShort', SCOPE.sC('homage_infatuation'))] to [homage_liege.GetFirstNameNoTooltip], who smiles invitingly, with a deliberate wink. Looking back at my liege, I am met with [homage_liege.GetHerHis] glare! I wrap up the speech, averting my eyes as the court mutters their gossip...\n\n"
  pay_homage.0201.desc.delivery:0 "I kneel before [homage_liege.GetHerHim] and begin uttering the oaths, but things quickly fall apart. [homage_vassal.Custom('GetHomageDeliveryDescVassal')]\n\n"
  pay_homage.0201.desc.success:0 "I kneel at the feet of my [homage_liege.GetLadyLord] and pledge the many oaths of homage, as [homage_liege.GetHerHis] scribes record the event.\n\n"

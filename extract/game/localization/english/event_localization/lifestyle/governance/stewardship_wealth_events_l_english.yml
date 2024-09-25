@@ -55,7 +55,7 @@
 
  # Pick a new thing to obtain, by Sean Hughes
  stewardship_wealth.1061.t:0 "New Acquisitions"
- stewardship_wealth.1061.desc:0 "During the daily management of my realm, I have learned of several different opportunities I can pursue.\n\nEach opportunity has great potential, but realistically I can only pursue one of them — I must determine what would ultimately give me the most value."
+ stewardship_wealth.1061.desc:0 "During the daily management of my [ROOT.Char.Custom('GetRealmOrDomicile')], I have learned of several different opportunities I can pursue.\n\nEach opportunity has great potential, but realistically I can only pursue one of them — I must determine what would ultimately give me the most value."
  stewardship_wealth.1061.a:0 "I've heard rumors of a lost tome, rediscovered."
  stewardship_wealth.1061.a.success:0 "The lost tome contains a great wealth of knowledge"
  stewardship_wealth.1061.a.success.good:0 "You gain a very good book [artifact|E]"
@@ -100,7 +100,7 @@
 
 #Roadside Stall selling carvings by Daniel Moore
  stewardship_wealth.6001.t:0 "Roadside Stall"
- stewardship_wealth.6001.desc:0 "While travelling across the [stall_county.Custom('TerrainTypeCountyScope')] of the [stall_county.GetName], I find a makeshift looking stall by the side of the track.\n\nAs I stop to take a look, a peasant by the name of [stall_owner.GetFirstName] jumps into action, trying to convince me to buy one of the small [stall_owner.GetFaith.ReligiousSymbol] carvings [stall_owner.GetSheHe] has on sale.\n\n"I make them by hand, my [ROOT.Char.GetLadyLord], each one takes me hours of work.""
+ stewardship_wealth.6001.desc:0 "While traveling across the [stall_county.Custom('TerrainTypeCountyScope')] of the [stall_county.GetName], I find a makeshift looking stall by the side of the track.\n\nAs I stop to take a look, a peasant by the name of [stall_owner.GetFirstName] jumps into action, trying to convince me to buy one of the small [stall_owner.GetFaith.ReligiousSymbol] carvings [stall_owner.GetSheHe] has on sale.\n\n"I make them by hand, my [ROOT.Char.GetLadyLord], each one takes me hours of work.""
  stewardship_wealth.6001.a:0 "I shall buy one."
  stewardship_wealth.6001.a.tt_high:0 "You get a high quality carving"
  stewardship_wealth.6001.a.tt_low:0 "You get a low quality carving"

@@ -61,7 +61,7 @@
  harm.0003.a.tt:0 "Your body is beginning to slow down..."
 
  harm.0011.t:0 "Broken by Battle"
- harm.0011.desc.default_body:0 "With the conflict in [battle_location.GetName] over, the wounded and the maimed limp away from the battlefield, whilst the most noteworthy of the dead are carried off by friends and retainers.\n\nFor my own part, I was caught in some of the thickest fighting — little finesse to be had, just hacking, screaming, and killing. My head stills spins from the blows and adrenaline, the surges of fear and rage and exultation and...\n\nSp-spinning. My head is spinning. My vision blurs, then doubles, and I begin to topple into the [ROOT.Char.Custom('GritType')].\n\n"Fetch a [ROOT.Char.Custom('GetRandomBattlefieldMedic')|U], the [ROOT.Char.GetTitleAsNameNoTooltip] has been struck!", goes the cry,"
+ harm.0011.desc.default_body:0 "With the conflict in [battle_location.GetName] over, the wounded and the maimed limp away from the battlefield, whilst the most noteworthy of the dead are carried off by friends and retainers.\n\nFor my own part, I was caught in some of the thickest fighting — little finesse to be had, just hacking, screaming, and killing. My head stills spins from the blows and adrenaline, the surges of fear and rage and exultation and...\n\nSp-spinning. My head is spinning. My vision blurs, then doubles, and I begin to topple into the [ROOT.Char.Custom('GritType')].\n\n"Fetch a [ROOT.Char.Custom('GetRandomBattlefieldMedic')|U], the [ROOT.Char.GetTitleAsNameNoTooltip] has been struck!" goes the cry,"
  harm.0011.desc.medic_present:0 "and the last thing I see is [medic.GetTitledFirstName] pushing through the crowd."
  harm.0011.desc.no_medic:0 "but no one answers. No one at all."
  harm.0011.a:0 "I'm fine! I-I'm fine..."
@@ -97,7 +97,7 @@
  harm.0501.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0502.t:0 "$harm.0501.t.prefix$: Shooting Stars"
- harm.0502.desc:0 "Hurrying across the courtyard on a trivial errand, I feel a sudden, seizing pain in my leg, then another in my arm. Is... is my hand trembling? Why is my head pounding? Where did...\n\nFor a brief instant, I stumble, all but toppling to the ground. Then I catch myself and keep going.\n\nI... I do not know what that was."
+ harm.0502.desc:0 "Hurrying across the [ROOT.Char.Custom('GetCourtyard')] on a trivial errand, I feel a sudden, seizing pain in my leg, then another in my arm. Is... is my hand trembling? Why is my head pounding? Where did...\n\nFor a brief instant, I stumble, all but toppling to the ground. Then I catch myself and keep going.\n\nI... I do not know what that was."
  harm.0502.a:0 "What strange malady is this?"
  harm.0502.a.tt:0 "#WEAK The pain fades once more...#!"
 
@@ -113,7 +113,7 @@
  harm.0511.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0512.t:0 "$harm.0511.t.prefix$: Almost"
- harm.0512.desc:0 "Riding the wilds near [ROOT.Char.GetCurrentLocation.GetName] is a simple, pleasurable part of life as [ROOT.Char.GetTitleAsName] of [ROOT.Char.GetPrimaryTitle.GetNameNoTier]. Something I can enjoy, in solace or with my entourage, when the day-to-day of rule grows too much.\n\nLost in my thoughts, I almost fail to notice when my steed catches sight of some threatening small reptile and goes to buck. Quickly taking a firmer grasp of the reins, I calm her.\n\nOur ride continues."
+ harm.0512.desc:0 "Riding the wilds near [ROOT.Char.GetCurrentLocation.GetName] is a simple, pleasurable part of life as [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTier]. Something I can enjoy, in solace or with my entourage, when the day-to-day of leadership grows too much.\n\nLost in my thoughts, I almost fail to notice when my steed catches sight of some threatening small reptile and goes to buck. Quickly taking a firmer grasp of the reins, I calm her.\n\nOur ride continues."
  harm.0512.a:0 "Heh, not letting #EMP that#! happen again."
  harm.0512.a.tt:0 "#WEAK Your horse remains jittery for the rest of the ride...#!"
 
@@ -192,17 +192,21 @@
 
  harm.0561.t.prefix:0 "Not So Young"
  harm.0561.t:0 "$harm.0561.t.prefix$: The Descent"
- harm.0561.desc:0 "Once again, I find myself looking at the stairs down from my room and wondering if I need a minder.\n\nIt should be simple. I am a grown [ROOT.Char.GetWomanMan] and I know how to use the stairs without breaking my neck, damn it.\n\nIt should be so very, #EMP very#! simple.\n\nAnd yet..."
+ harm.0561.desc_adventurer: "Once again, I find myself looking across the morass of mud and tents-ropes, and wondering if I need a minder.\n\nIt should be simple. I am a grown [ROOT.Char.GetWomanMan] and I know how to cross a camp without breaking my neck, damn it.\n\nIt should be so very, #EMP very#! simple.\n\nAnd yet..."
+ harm.0561.desc:0 "Once again, I find myself looking at the stairs down from my room, and wondering if I need a minder.\n\nIt should be simple. I am a grown [ROOT.Char.GetWomanMan] and I know how to use the stairs without breaking my neck, damn it.\n\nIt should be so very, #EMP very#! simple.\n\nAnd yet..."
  harm.0561.a:0 "Oh — wait — NOO-"
  harm.0561.a.tt.success:0 "$harm.0000.tt.incapable.success$"
  harm.0561.a.tt.failure:0 "$harm.0000.tt.incapable.failure$"
  harm.0561.b:0 "One foot in front of the other, stay calm."
  harm.0561.c:0 "They're just #EMP stairs#!."
+ harm.0561.c.adventurer:0 "They're just #EMP tents#!."
  harm.0561.c.tt.success:0 "$harm.0000.tt.incapable.success$"
  harm.0561.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0562.t:0 "$harm.0561.t.prefix$: Growing Fragility"
- harm.0562.desc:0 "Climbing the steps down from my bedchamber, I find myself all but clutching at the wall.\n\nThis... this should be simple. Yet it seems so difficult, so foreboding, the narrow stairway stretching out before me like eternity itself...\n\nNo, no. I'm being over-dramatic. I am the [ROOT.Char.GetTitleAsName] and I can leave my room unassisted."
+ harm.0562.desc_adventurer: "Rising from my bed, stepping out into the bustle of the camp, I find myself all but clutching at the tent-pole.\n\nThis... this should be simple. Yet it seems so difficult, so foreboding, the tangle of mud, tent-ropes, and baggage stretching out before me like eternity itself...\n\nNo, no. I'm being over-dramatic. I am the #EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!, and I can cross my camp unassisted."
+ harm.0562.desc:0 "Climbing the steps down from my bedchamber, I find myself all but clutching at the wall.\n\nThis... this should be simple. Yet it seems so difficult, so foreboding, the narrow stairway stretching out before me like eternity itself...\n\nNo, no. I'm being over-dramatic. I am the #EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!, and I can leave my [ROOT.Char.Custom('GetRoom')|l] unassisted."
+ harm.0562.rump: ""
  harm.0562.a:0 "Troubling."
  harm.0562.a.tt:0 "#WEAK When did this become such an issue for you?#!"
 
@@ -218,7 +222,7 @@
  harm.0571.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0572.t:0 "$harm.0571.t.prefix$: Just an Accident"
- harm.0572.desc:0 "Sparring in the courtyard of my dwelling at [ROOT.Char.GetCurrentLocation.GetName], [sparring_partner.GetTitledFirstName] and I lock our practice blades together in a dance that, on the battlefield, likely would've resulted in [sparring_partner.GetHerHim] dying a thousand times over.\n\n[sparring_partner.GetSheHe|U]'s simply not the warrior I am.\n\nStill, it's necessary training for someone supposed to represent me on the battlefield, so I make the time t—by [ROOT.Char.GetFaith.WarGodName], that blow almost caught me in the skull!"
+ harm.0572.desc:0 "Sparring in my [ROOT.Char.Custom('GetCourtyard')], [sparring_partner.GetTitledFirstName] and I lock our practice blades together in a dance that, on the battlefield, likely would've resulted in [sparring_partner.GetHerHim] dying a thousand times over.\n\n[sparring_partner.GetSheHe|U]'s simply not the warrior I am.\n\nStill, it's necessary training for someone supposed to represent me in the field, so I make the time t—\n\nBy [ROOT.Char.GetFaith.WarGodName]! That blow almost caught me in the skull!"
  harm.0572.a:0 "Be careful, you lout!"
  harm.0572.a.tt:0 "#WEAK You could've come away much worse...#!"
 
@@ -231,13 +235,13 @@
  harm.0581.b:0 "Take it slow, take it safe."
 
  harm.0582.t:0 "$harm.0581.t.prefix$: Slippery when Wet"
- harm.0582.desc:0 "Bathing alone is a rare treat for me. As the [ROOT.Char.GetTitleAsName], I am attended at all times, either by genuine servants or else by vassals looking to have a quiet word without interruption, and even something as intimate as cleaning myself is subject to that.\n\nGently leveraging my languid form from the bath, I grip the edge and step towards an awaiting stack of folded towels.\n\nExcept... not quite. My foot, still wet, slips, and it's only through reflex that I stop myself toppling to the floor."
+ harm.0582.desc:0 "Bathing alone is a rare treat for me. As the [ROOT.Char.GetTitleAsNameNoTooltip], it hard to find a moment undogged by my servants or a [ROOT.Char.Custom('GetCourtier')|l] looking to have a quiet word without interruption — even something as intimate as cleaning myself is subject to that.\n\nGently leveraging my languid form from the bath, I grip the edge and step towards an awaiting stack of folded towels.\n\nExcept... not quite.\n\nMy foot, still wet, slips, and it's only my reflexes that stop me toppling to the floor."
  harm.0582.a:0 "I should be more careful, I suppose."
  harm.0582.a.tt:0 "#WEAK It's not like you bathe without attendants often...#!"
 
  harm.0591.t.prefix:0 "Without Care"
  harm.0591.t:0 "$harm.0591.t.prefix$: Death from Above"
- harm.0591.desc:0 "A small errand in town has kept my attention longer than I'd've liked, but, at last, my entourage and I head for home.\n\nThe residents of [ROOT.Char.GetCurrentLocation.GetName] bustle through the streets of its largest town, each going about their humble lives with little thought for the noble riding through their streets.\n\nA sudden, searing awareness burns itself into my consciousness: #EMP danger#!. Something is directly above me, descending fast."
+ harm.0591.desc:0 "A small errand in town has kept my attention longer than I'd've liked, but, at last, my entourage and I head for home.\n\nThe residents of [ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitly] bustle through the streets of its largest town, each going about their humble lives with little thought for the [ROOT.Char.GetTitleAsNameNoTooltip] riding through their streets.\n\nA sudden, searing awareness burns itself into my consciousness: #EMP danger#!. Something is directly above me, descending fast."
  harm.0591.a:0 "Throw yourself to the side."
  harm.0591.a.tt.success:0 "You are safe"
  harm.0591.a.tt.failure:0 "A burgher's pot catches you on the temple"
@@ -248,7 +252,7 @@
  harm.0591.c.tt.failure:0 "$harm.0591.a.tt.failure$"
 
  harm.0592.t:0 "$harm.0591.t.prefix$: Disposal"
- harm.0592.desc:0 "Riding through the streets of [ROOT.Char.GetCurrentLocation.GetName], having dealt with some trivial errand in the town, my entourage and I hear a loud crash.\n\nA little investigation shows it was some burgher or other throwing a clay pot from their window, uncaring of whether it might hit someone below.\n\nCallous, yes, but what can you expect?\n\nAt any rate, it's hardly something worth much further thought."
+ harm.0592.desc:0 "Riding through the streets of [ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitly], having dealt with some trivial errand in the town, my entourage and I hear a loud crash.\n\nA little investigation shows it was some burgher or other throwing a clay pot from their window, uncaring of whether it might hit someone below.\n\nCallous, yes, but what can you expect?\n\nAt any rate, it's hardly something worth much further thought."
  harm.0592.a:0 "These #EMP peons#!."
  harm.0592.a.tt:0 "#WEAK That could've hurt someone...#!"
 
@@ -278,7 +282,7 @@
  harm.0611.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0612.t:0 "$harm.0611.t.prefix$: A Rush"
- harm.0612.desc:0 "That's the last of them. A hundred and one letters, or so it felt like, from the various minor nobles and functionaries that keep my realm operating — not to mention a whole evening lost to answering each in turn.\n\nNow, I think, a small meal before bed.\n\nPushing my chair out, I surge to my feet and... and... so... woozy. Blood pounding in my veins. \n\nFocus.\n\n#EMP Focus#!.\n\nUggh, what was #EMP that#!?"
+ harm.0612.desc:0 "That's the last of them. A hundred and one letters, or so it felt like, from the various functionaries that keep my [ROOT.Char.Custom('GetRealmOrDomicile')|l] operating — not to mention a whole evening lost to answering each in turn.\n\nNow, I think, a small meal before bed.\n\nPushing my chair out, I surge to my feet and... and... so... woozy. Blood pounding in my veins. \n\nFocus.\n\n#EMP Focus#!.\n\nUggh, what was #EMP that#!?"
  harm.0612.a:0 "I'm still dizzy."
  harm.0612.a.tt:0 "#WEAK Is your body really so weak?#!"
 
@@ -294,7 +298,7 @@
  harm.0621.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
 
  harm.0622.t:0 "$harm.0621.t.prefix$: Bad Habits"
- harm.0622.desc:0 ""Barkeep, another round!" I cry, to much whooping and hollering.\n\nAs a cheer goes up from the rest of the taver-*HIC*-ngoers, I smile. Half of [ROOT.Char.GetCurrentLocation.GetName] must be in here by now, all cheering and whooping for their [ROOT.Char.GetTitleAsName].\n\nAfter all, who can sink a pint quite like #EMP me#!?"
+ harm.0622.desc:0 ""Barkeep, another round!" I cry, to much whooping and hollering.\n\nAs a cheer goes up from the rest of the taver-*HIC*-ngoers, I smile. Half of [ROOT.Char.GetCurrentLocation.GetName] must be in here by now, all cheering and whooping for me.\n\nAfter all, who can sink a pint quite like #EMP me#!?"
  harm.0622.a:0 "Life is good."
  harm.0622.a.tt:0 "#WEAK And better with more drink!#!"
 
@@ -371,7 +375,7 @@
  harm.1011.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.1012.t:0 "$harm.1011.t.prefix$: On the Return"
- harm.1012.desc:0 "Like every noble, it is expected of me that I be able to ride a horse, both often and well. I could hardly administer [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTier] if I didn't, after all.\n\nToday's errand is a trivial task in rural [ROOT.Char.GetCurrentLocation.GetName], something my entourage and I are best able to resolve quickly and in per-\n\nWithout warning, my steed bucks, spooked by some small animal on the trail. I'm almost thrown hard, only wresting control back at the last moment."
+ harm.1012.desc:0 "Like all who lead, it is expected of me that I be able to ride a horse, both often and well. I could hardly manage my [ROOT.Char.Custom('GetRealmOrDomicile')|l] if I didn't, after all.\n\nToday's errand is a trivial task in rural [ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitly], something my entourage and I are best able to resolve quickly and in per-\n\nWithout warning, my steed bucks, spooked by some small animal on the trail. I'm almost thrown hard, only wresting control back at the last moment."
  harm.1012.a:0 "Whoah there, girl, calm down..."
  harm.1012.a.tt:0 "#WEAK That could've been nasty...#!"
 
@@ -387,7 +391,7 @@
  harm.1021.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.1022.t:0 "$harm.1021.t.prefix$: Not Enough"
- harm.1022.desc:0 "By [ROOT.Char.GetFaith.HouseholdGodName], I am #EMP sated#!. Reclining in my chair at the dinner table, listening to my household natter at each other, the world feels right for once.\n\nI truly have been looking forward more and more to dinner lately. The sights, the tastes, the sounds... just the feeling of rich juices and creamy sauce dribbling down my chin.\n\nAt least, till my stomach groans with the effort of all this rich food, and a light churning threatens to spill my bowels.\n\nStill, it leaves as quickly as it comes. Most evenings."
+ harm.1022.desc:0 "By [ROOT.Char.GetFaith.HouseholdGodName], I am #EMP sated#!. Reclining in my chair after dinner, listening to my [ROOT.Char.Custom('GetCourtierPlural')] natter at each other, the world feels right for once.\n\nI truly have been looking forward more and more to dinner lately. The sights, the tastes, the sounds... just the feeling of rich juices and creamy sauce dribbling down my chin.\n\nAt least, till my stomach groans with the effort of all this rich food, and a light churning threatens to spill my bowels.\n\nStill, it leaves as quickly as it comes. Most evenings."
  harm.1022.a:0 "I'm glad that passed swiftly."
  harm.1022.a.tt:0 "#WEAK Back to dinner...#!"
 
@@ -422,15 +426,15 @@
 
  harm.1051.t.prefix:0 "Flickering Flames"
  harm.1051.t:0 "$harm.1051.t.prefix$: The Inferno"
- harm.1051.desc:0 "I am awoken by a scream of "[ROOT.Char.GetTitledFirstName]!" from outside, the warning cry of a horrified servant.\n\nAs I crash back to wakefulness, I feel the sweet soaking my body, closely followed by the searing, scorching heat. The sitting room is on fire, my skin already half-blistered from the blaze!\n\nI've g-*COUGH*-ot to get out of here, how did this even... #EMP blasted candles#!!\n\nThe fire is blocking the door, and it's only growing worse."
+ harm.1051.desc:0 "I am awoken by a scream of "[ROOT.Char.GetTitledFirstNameNoTooltip]!" from outside, the warning cry of a horrified servant.\n\nAs I crash back to wakefulness, I feel the sweat soaking my body, closely followed by the searing, scorching heat. The [ROOT.Char.Custom('GetRoom')] is on fire, my skin already half-blistered from the blaze!\n\nI've g-*COUGH*-ot to get out of here, how did this even... #EMP blasted candles#!!\n\nThe fire is blocking the entrance, and it's only growing worse."
  harm.1051.a:0 "The only way out is through!"
  harm.1051.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.1051.a.tt.failure:0 "$harm.0000.tt.death.failure$"
  harm.1051.b:0 "Out the window, that's the fastest route out!"
 
  harm.1052.t:0 "$harm.1051.t.prefix$: By Candlelight"
- harm.1052.desc:0 "With a start, I wake, snapping my hand out of the lit candle it had slid onto. By the many torments of [ROOT.Char.GetFaith.random_EvilGodNames], that stings!\n\nBleary eyed, I glance around the sitting room. I must have fallen asleep without dousing the candle — it's lucky my hand fell on it.\n\nIf it had tipped onto the sofa..."
- harm.1052.a:0 "I must be more careful about these candles."
+ harm.1052.desc:0 "With a start, I wake, snapping my hand out of the lit candle it had slid onto. By the many torments of [ROOT.Char.GetFaith.random_EvilGodNames], that stings!\n\nBleary eyed, I glance around the [ROOT.Char.Custom('GetRoom')|l]. I must have fallen asleep without dousing the candle — it's lucky my hand fell on it.\n\nIf it had tipped onto the bed..."
+ harm.1052.a:0 "I must be more careful with these candles."
  harm.1052.a.tt:0 "#WEAK That could've been much worse...#!"
 
  harm.1061.t.prefix:0 "What a View"
@@ -451,7 +455,7 @@
 
  harm.1071.t.prefix:0 "Crimes of Passion"
  harm.1071.t:0 "$harm.1071.t.prefix$: Taking Action"
- harm.1071.desc:0 "The door all but bursts off its hinges as I walk past it, [other.GetTitledFirstName] fleeing as hard and as fast as [other.GetSheHe] can, sending me sprawling backwards.\n\nI see a flash of silvery steel behind [other.GetHerHim], and the snarl of [killer.GetTitledFirstName] as [killer.GetSheHe] gives chase, knife already flashing towards me — the anger falters as the [killer.GetWomanMan] realizes that I am #EMP not#! [killer.GetHerHis] intended victim, but [killer.GetHerHis] uncontrolled lunge is moving too fast to stop.\n\nThe dagger's tip races for my neck."
+ harm.1071.desc:0 "The [ROOT.Char.Custom('GetDoor')] is all but torn asunder as I walk past it, [other.GetTitledFirstName] fleeing as hard and as fast as [other.GetSheHe] can, sending me sprawling backwards.\n\nI see a flash of silvery steel behind [other.GetHerHim], and the snarl of [killer.GetTitledFirstName] as [killer.GetSheHe] gives chase, knife already flashing towards me — the anger falters as the [killer.GetWomanMan] realizes that I am #EMP not#! [killer.GetHerHis] intended victim, but [killer.GetHerHis] uncontrolled lunge is moving too fast to stop.\n\nThe dagger's tip races for my neck."
  harm.1071.a:0 "Dodge the knife."
  harm.1071.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.1071.a.tt.failure:0 "$harm.0000.tt.death.failure$"
@@ -461,8 +465,8 @@
  harm.1071.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.1072.t:0 "$harm.1071.t.prefix$: A Little Disagreement"
- harm.1072.desc:0 ""And another thing you [other.Custom('InsultAdjective')] [other.Custom('InsultNoun')]", shrieks [killer.GetTitledFirstName], laying into [other.GetTitledFirstName] for what must easily be their third screaming match of the day.\n\nI ignore their bickering despite the volume, continuing on past. The two are constantly arguing, and though loud, they're ultimately harmless.\n\nI've got bigger things to worry about than some little spat between courtiers."
- harm.1072.a:0 "Just another exciting day at court, eh?"
+ harm.1072.desc:0 ""And another thing you [other.Custom('InsultAdjective')] [other.Custom('InsultNoun')]", shrieks [killer.GetTitledFirstName], laying into [other.GetTitledFirstName] for what must easily be their third screaming match of the day.\n\nI ignore their bickering despite the volume, continuing on past. The two are constantly arguing, and though loud, they're ultimately harmless.\n\nI've got bigger things to worry about than some little spat between my [ROOT.Char.Custom('GetCourtierPlural')|l]."
+ harm.1072.a:0 "Just another exciting day at [ROOT.Char.Custom('GetCourt')|l], eh?"
  harm.1072.a.tt:0 "#WEAK That's their affair...#!"
 
  harm.1081.t.prefix:0 "Moody Weather"
@@ -477,7 +481,7 @@
  harm.1081.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.1082.t:0 "$harm.1081.t.prefix$: Distant Rumbling"
- harm.1082.desc:0 "From the window of my chamber, I watch the uncharacteristically-fierce storms rumbling across the landscape, a distant boom of thunder from a rank of clouds a scant few miles away.\n\nA troublesome deluge — do the rains indicate some divine problem I've failed to ordain, or are they simply the random movements of the wind?\n\nEither way, I have no wish to be caught in them."
+ harm.1082.desc:0 "I watch the uncharacteristically-fierce storms rumbling across the landscape, a distant boom of thunder from a rank of clouds a scant few miles away.\n\nA troublesome deluge — do the rains indicate some divine problem I've failed to ordain, or are they simply the random movements of the wind?\n\nEither way, I have no wish to be caught in them."
  harm.1082.a:0 "I hope [ROOT.Char.GetFaith.FateGodName] isn't signalling something."
  harm.1082.a.tt:0 "#WEAK Not a good time to be outside...#!"
 
@@ -517,7 +521,7 @@
 
  harm.1111.t.prefix:0 "Reign of Terror"
  harm.1111.t:0 "$harm.1111.t.prefix$: People's Justice"
- harm.1111.desc:0 "Traversing the halls of my fortified home, I am always flanked by guards for my protection. Yet more ward the entrance, not to mention the grounds. Enough to stop any intruder, yet apparently not enough to stop a blasted servant from colliding with me and —\n\nPain. A sharp, literal-stab of pain. Blood is already fountaining from my belly as I stagger backwards, the servant's knife protruding from me.\n\nMy bodyguards are on [killer.GetHerHim] in seconds, hacking the assassin to the floor. [killer.GetHerHis|U] smug grin as [killer.GetSheHe] dies leaves no doubt that this was entirely, purely personal.\n\nEveryone wants to die a hero."
+ harm.1111.desc:0 "Traversing my [ROOT.Char.Custom('GetCourt')], I am always flanked by guards for my protection. Yet more ward the entrance, not to mention my [ROOT.Char.Custom('GetChamber')]. Enough to stop any intruder, yet apparently not enough to stop a blasted servant from colliding with me and —\n\nPain. A sharp, literal-stab of pain. Blood is already fountaining from my belly as I stagger backwards, the servant's knife protruding from me.\n\nMy bodyguards are on [killer.GetHerHim] in seconds, hacking the assassin to the floor. Smugly grinning even as [killer.GetSheHe] dies — there is no doubt this was entirely, purely personal.\n\nEveryone wants to die a hero."
  harm.1111.a:0 "Gah, I am undone!"
  harm.1111.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.1111.a.tt.failure:0 "$harm.0000.tt.death.failure$"
@@ -585,7 +589,7 @@
  harm.2031.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.2041.t:0 "For the Realm"
- harm.2041.desc:0 "Even I have all but lost track of how many years we've been at war for. The campaign trail is hard on all of us, taking a little more each day and offering only the barest respite with each evening's camp.\n\nMaking my way back to my tent after a discussion with the quartermaster, I find the place strangely deserted. No tired guards, no bitter mercenaries, no homesick levies. Deserted, that is, until half a dozen armed and mailled soldiers slide out from the shadows on all sides of me.\n\n"[ROOT.Char.GetTitledFirstName]", spits the lead rebel, "your foolhardy wars have cost us all too dearly. For once, #EMP you'll#! pay the price.""
+ harm.2041.desc:0 "Even I have all but lost track of how many years we've been at war for. The campaign trail is hard on all of us, taking a little more each day and offering only the barest respite with each evening's camp.\n\nMaking my way back to my tent after a discussion with the quartermaster, I find the place strangely deserted. No tired guards, no bitter mercenaries, no homesick levies. Deserted, that is, until half a dozen armed and mailled soldiers slide out from the shadows on all sides of me.\n\n"[ROOT.Char.GetTitledFirstNameNoTooltip]", spits the lead rebel, "your foolhardy wars have cost us all too dearly. For once, #EMP you'll#! pay the price.""
  harm.2041.a:0 "Traitors! TRAITORS!"
  harm.2041.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.2041.a.tt.failure:0 "$harm.0000.tt.death.failure$"
@@ -615,7 +619,7 @@
  harm.2061.c.tt.failure:0 "$harm.0000.tt.death.failure$"
 
  harm.2071.t:0 "A Disastrous Victory"
- harm.2071.desc:0 "My victorious army sweeps the field at [ROOT.Char.GetCurrentLocation.GetName]. Everywhere, the triumphant whoops and hollers of my troops can be heard as we run down the foe.\n\nEven my retinue and I indulge in the fruitful carnage, exulting in our victory. It scatters us a little, yes, but the foe is beaten and cannot—\n\nWhere are my guards? The soldiers around me... they fly the enemy's banner! Hate in their eyes and blood on their teeth, the beaten foe hurl themselves towards me, ready for my end."
+ harm.2071.desc:0 "My victorious army sweeps the field at [ROOT.Char.GetCurrentLocation.GetName]. Everywhere, the triumphant whoops and hollers of my troops can be heard as we run down the foe.\n\nEven my retinue and I indulge in the fruitful carnage, exulting in our victory. It scatters us a little, yes, but the foe is beaten and cannot—\n\nWhere are my guards? The soldiers around me... they fly the banner of [actor.GetPrimaryTitle.GetNameNoTier]! Hate in their eyes and blood on their teeth, the beaten foe hurl themselves towards me, ready for my end."
  harm.2071.a:0 "You'll not claim me yet, [ROOT.Char.GetFaith.DeathDeityName]!"
  harm.2071.a.tt.success:0 "$harm.0000.tt.death.success$"
  harm.2071.a.tt.failure:0 "$harm.0000.tt.death.failure$"

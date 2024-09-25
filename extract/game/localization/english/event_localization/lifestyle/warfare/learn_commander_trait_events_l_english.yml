@@ -58,7 +58,7 @@
  #Final Test:
  learn_commander_trait.12.desc:0 "[teacher.GetTitledFirstName] has shown me the ins and outs of [ROOT.Char.Custom('CommanderTraitSkillDescription')]. My final test is a mock battle against [teacher.GetHerHim], to show what I have learned."
  learn_commander_trait.12.a:0 "Prepare the ranks!"
- learn_commander_trait.12.b:0 "No, I haven't fully understood what [teacher.GetFirstName] has been trying to teach me."
+ learn_commander_trait.12.b:0 "No, I haven't fully understood what [teacher.GetFirstNameNoTooltip] has been trying to teach me."
  learn_commander_trait.giving_up_tt:0 "#F I do not need to learn this#!"
  learn_commander_trait_final_test_success:0 "Victory!"
  learn_commander_trait_final_test_success_tt:0 "#F I prove that I have learned#!"

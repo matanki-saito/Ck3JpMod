@@ -20,6 +20,9 @@
  ANY_OF_MY_COURTIERS:0 "Any of my Courtiers:"
  ALL_OF_THEIR_COURTIERS:0 "All of [CHARACTER.GetShortUINamePossessive] Courtiers:"
  ANY_OF_THEIR_COURTIERS:0 "Any of [CHARACTER.GetShortUINamePossessive] Courtiers:"
+ AT_LEAST_COURTIERS: "$PARAMETERS$ [courtiers|E]:"
+ AT_LEAST_OF_MY_COURTIERS: "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [courtiers|E]:"
+ AT_LEAST_OF_THEIR_COURTIERS: "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [courtiers|E]:"
 
  ALL_HOOKED_CHARACTERS:0 "All [hooked|E] characters"
  ANY_HOOKED_CHARACTER:0 "Any [hooked|E] character"

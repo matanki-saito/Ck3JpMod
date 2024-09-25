@@ -46,3 +46,9 @@
  impressive_flowers_desc:0 "This character is cultivating a multitude of colorful and impressive flowers."
  useful_herbs:0 "Cultivating Medicinal Herbs"
  useful_herbs_desc:0 "This character is cultivating various different medicinal herbs. They are sure to come in handy."
+
+ 7051_repentance_modifier: "Repentance"
+ 7051_repentance_modifier_desc: "This character has repented."
+ MODIFIER_DEFINITION_VALUE_BASED_ON_KILL_LIST: " \t#weak Increase per characters killed (max #V 4#! steps)#!"
+ 7053_scratched_modifier: "Scratched"
+ 7053_scratched_modifier_desc: "This character has a scratch that defies explanation." 

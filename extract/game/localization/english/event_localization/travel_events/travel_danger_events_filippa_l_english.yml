@@ -34,7 +34,7 @@
  travel_danger_events.4010.b.cured.desc:0 "[ill_character.GetSheHe|U] is fully recovered"
  travel_danger_events.4010.b.worsened.t:0 "Condition Worsened"
  travel_danger_events.4010.b.worsened.desc:0 "[ill_character.GetHerHis|U] condition worsens"
- travel_danger_events.4010.c:0 "[medicine_person.GetTitledFirstName|U], can you treat [ill_character.GetHerHim]?"
+ travel_danger_events.4010.c:0 "[medicine_person.GetTitledFirstNameNoTooltip], can you treat [ill_character.GetHerHim]?"
  travel_danger_events.4010.d:0 "Well now, I have just #EMP the thing...#!"
  travel_danger_events.4010.d.flavor:0 "An opportunity to get rid of [ill_character.GetHerHim] for good!"
  travel_danger_events.4010.d.poisoned.t:0 "Death"

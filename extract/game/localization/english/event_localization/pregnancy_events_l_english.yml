@@ -26,6 +26,7 @@
  pregnancy.1103.desc_concubine:0 "I am writing to inform you that I am with child, and it is most certainly yours.\n\nSince we were together when this child was conceived there is no stain of bastardry; when the babe is born they will be known as your offspring."
  pregnancy.1103.a:0 "Okay then."
 
+ pregnancy_not_first_child_message_title: "[spouse.Custom2('RelationToMe', SCOPE.sC('mother'))|U] Falls Pregnant"
  pregnancy_not_first_child_message:1 "Your [spouse.Custom2('RelationToMe', SCOPE.sC('mother'))], [mother.GetTitledFirstName], is bearing your child"
 
  pregnancy.2001.t:0 "Out of Wedlock"

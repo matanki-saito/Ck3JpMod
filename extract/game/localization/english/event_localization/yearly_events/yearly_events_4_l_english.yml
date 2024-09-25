@@ -63,7 +63,7 @@
  yearly.4071.desc_no_focus:0 "Not to mention your previous studies of [ROOT.Char.Custom('education_conversation_subject')]!"
  yearly.4071.desc_ending:0 "Perhaps these books might interest you?""
  yearly.4071.a:0 "I will study it all, in the name of the [ROOT.Char.GetFaith.ReligiousText]!"
- yearly.4071.b:0 "Distribute them among my courtiers."
+ yearly.4071.b:0 "Distribute them among my [ROOT.Char.Custom('GetCourtierPlural')]."
 
  yearly.4081.t:0 "Translations"
  yearly.4081.desc:0 ""Local scholars require sponsorships in their efforts to translate books from Greek into Arabic, my [ROOT.Char.GetLadyLord] – efforts that benefit the whole Arabic world!"\n\n[councillor.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has brought me a list of scholars that I could sponsor, and the books they are currently working on."

@@ -8,7 +8,7 @@
  lovely_picnic_modifier_desc:0 "Went on a lovely picnic."
  
  bp1_yearly.7001.t:0 "Gone Fishing"
- bp1_yearly.7001.desc:1 "My [ROOT.Char.Custom2('RelationToMeShort', fishing_friend)] [fishing_friend.GetFirstName] stops me in the corridor, grinning from ear to ear. In [fishing_friend.GetHerHis] hands are two fishing poles. \n\n"Come fishing with me today, dear [fishing_friend.Custom2('RelationToMeShort', ROOT.Char)]. I promise you will love it!" [fishing_friend.GetSheHe|U] exclaims.\n\nIt has been a while since I took a break and escaped the hustle and bustle of the [ROOT.Char.Custom('FortifiedBuilding')]..."
+ bp1_yearly.7001.desc:1 "My [ROOT.Char.Custom2('RelationToMeShort', fishing_friend)] [fishing_friend.GetFirstName] accosts me, grinning from ear to ear. In [fishing_friend.GetHerHis] hands are two fishing poles. \n\n"Come fishing with me today, dear [fishing_friend.Custom2('RelationToMeShort', ROOT.Char)]. I promise you will love it!" [fishing_friend.GetSheHe|U] exclaims.\n\nIt has been a while since I took a break and escaped the hustle and bustle of the [ROOT.Char.Custom('FortifiedBuilding')]..."
  bp1_yearly.7001.a:0 "I will catch the fabled white carp!"
  bp1_yearly.7001.b:0 "A [ROOT.Char.GetTitleAsNameNoTooltip] does not #EMP 'Fish'#!."
  
@@ -49,7 +49,7 @@
  
  
  bp1_yearly.7004.t:0 "Comfort of a Friend"
- bp1_yearly.7004.desc:1 "My [ROOT.Char.Custom2('RelationToMeShort', concerned_friend)] [concerned_friend.GetFirstName] approaches me as I am sitting by the window: "You haven't been the same since... since what happened."\n\n[concerned_friend.GetSheHe|U] doesn't say it but I know [concerned_friend.GetSheHe] is referring to when [bad_memory.GetDescription].\n\n"Perhaps you need someone to talk to? I could be that someone," [concerned_friend.GetSheHe] continues gently."
+ bp1_yearly.7004.desc:1 "My [ROOT.Char.Custom2('RelationToMeShort', concerned_friend)] [concerned_friend.GetFirstName] approaches me as I am sitting, gazing outside: "You haven't been the same since... since what happened."\n\n[concerned_friend.GetSheHe|U] doesn't say it but I know [concerned_friend.GetSheHe] is referring to when [bad_memory.GetDescription].\n\n"Perhaps you need someone to talk to? I could be that someone," [concerned_friend.GetSheHe] continues gently."
  bp1_yearly.7004.a:0 "That sounds nice."
  bp1_yearly.7004.b:0 "My troubles are my own."
  
@@ -116,7 +116,7 @@
  
  
  bp1_yearly.7053.t:0 "Vengeful Memories"
- bp1_yearly.7053.desc:0 "As I walk through the courtyard, rage overcomes me once again, the only thing on my mind recently is when [bad_memory.GetDescription].\n\nI must get my revenge on [bad_memory_participant.GetFirstNameNoTooltip] somehow. I look up at the gallows in front of me. Perhaps if I make my moves carefully [bad_memory_participant.GetSheHe] will hang there soon."
+ bp1_yearly.7053.desc:0 "As I walk through the town, rage overcomes me once again, the only thing on my mind recently is when [bad_memory.GetDescription].\n\nI must get my revenge on [bad_memory_participant.GetFirstNameNoTooltip] somehow. I look up at the gallows in front of me. Perhaps if I make my moves carefully [bad_memory_participant.GetSheHe] will hang there soon."
  bp1_yearly.7053.a:0 "I will have my revenge."
  bp1_yearly.7053.b:0 "I must try to forget."
  
@@ -152,7 +152,7 @@
  recorded_memory_desc:1 "This tome retells the story of when [recorded_memory.GetThirdPerspectiveDescription].\n\nComposed by [ROOT.Char.GetFirstName]."
  
  bp1_yearly.7056.t:0 "Intimidation Tactics"
- bp1_yearly.7056.desc:1 "I take [intimidation_target.GetFirstName] down to the dungeon, where I start regaling [intimidation_target.GetHerHim] with tales of terrible things I have done to the people who crossed me.\n\n"I'm sure you've heard about how [intimidation_memory.GetDescription]." I tell [intimidation_target.GetHerHim] with relish. "That was just #EMP the beginning.#!"\n\nAs I chuckle, [intimidation_target.GetFirstNamePossessiveNoTooltip] eyes go wide with fear."
+ bp1_yearly.7056.desc:1 "I take [intimidation_target.GetFirstName] to my [ROOT.Char.Custom('GetDungeonPlural')], where I start regaling [intimidation_target.GetHerHim] with tales of terrible things I have done to the people who crossed me.\n\n"I'm sure you've heard about how [intimidation_memory.GetDescription]." I tell [intimidation_target.GetHerHim] with relish. "That was just #EMP the beginning.#!"\n\nAs I chuckle, [intimidation_target.GetFirstNamePossessiveNoTooltip] eyes go wide with fear."
  bp1_yearly.7056.a:1 "Don't worry, just do what I say and you'll be fine..."
  bp1_yearly.7056.b:0 "Tell #EMP everyone#! about me!"
  
@@ -169,16 +169,16 @@
  bp1_yearly.7057.a.tt:0 "This scheme will have a success chance bonus."
  
  bp1_yearly.7058.t:0 "Provisional Catastrophe"
- bp1_yearly.7058.desc:1 "The morning chorus of twittering birds accompany me down to the cellar, the light of dawn giving way to gloomy darkness lit only by sputtering lamps. I yawn and stretch as I go, my feet padding across the floorboards.\n\nOnce my eyes adjust to the lack of light, a culinary tragedy is unveiled by them: apple cores, scattered crumbs, bones flensed clean of their meat. In shock, I look around the entire room, but everywhere my eyes land they find yet more evidence.\n\nSuddenly, in the corner, a soft, contented #EMP burp#!..."
+ bp1_yearly.7058.desc:1 "The morning chorus of twittering birds accompany me to the stores, the dim light of dawn giving way to the gloomy darkness of the [ROOT.Char.Custom('GetRoom')]. I yawn and stretch as I go, my feet padding across the floor.\n\nOnce my eyes adjust to the lack of light, a culinary tragedy is unveiled by them: apple cores, scattered crumbs, bones flensed clean of meat. My shocked eyes scan the [ROOT.Char.Custom('GetRoom')], but everywhere find yet more evidence.\n\nSuddenly, in the corner, a soft, contented #EMP burp#!..."
  bp1_yearly.7058.glutton:0 "I have more food! Let's open the #EMP secret stash!#!"
  bp1_yearly.7058.a:1 "Oh, you'll pay that back. And more, if you have."
- bp1_yearly.7058.b:0 "If you enjoyed the cellar, you'll #EMP love#! the dungeon!"
+ bp1_yearly.7058.b:0 "If you enjoyed the stores, you'll #EMP love#! the [ROOT.Char.Custom('GetDungeon')]!"
  bp1_yearly.7058.c:1 "#EMP *Sigh*#! My treat... I guess..."
  bp1_yearly.7030.t:0 "Carnal Comforts"
  bp1_yearly.7030.desc:0 "[dead_friend_spouse.GetFirstName] has been devastated ever since [dead_friend_spouse.GetHerHis] [dead_friend.Custom('WifeHusband')] [dead_friend.GetFirstName] died. [dead_friend_spouse.GetSheHe|U] comes to visit me one evening.\n\n"I feel so lonely." [dead_friend_spouse.GetSheHe] says, looking at me longingly. I remind myself that [dead_friend.GetFirstNameNoTooltip] was my good friend. \n\n"You've been so comforting." [dead_friend_spouse.GetSheHe] says, biting [dead_friend_spouse.GetHerHis] lip suggestively. [dead_friend.GetFirstNameNoTooltip] was my friend.\n\n"I just want to feel something." [dead_friend_spouse.GetSheHe] whispers, loosening the fastenings on the front of [dead_friend_spouse.GetHerHis] [dead_friend_spouse.Custom('GetUpperClothingArticle')]. [dead_friend.GetFirstNameNoTooltip] #EMP was#! my friend..."
  bp1_yearly.7030.a:1 "I'm sure that [dead_friend.GetFirstNameNoTooltip] would approve..."
  bp1_yearly.7030.b:1 "Pull yourself together, [dead_friend_spouse.GetFirstNameNoTooltip]!"
-    
+  
  bp1_yearly.7100.t:0 "Distaste to Detest"
  bp1_yearly.7100.desc:0 "One moment I was enjoying a nice walk in the sunshine around the [owned_county.GetName] and the next I am covered in excrement and wallowing in the mud. Once I have furiously wiped the excreta from my [ROOT.Char.Custom('EyeEyes')], I find the culprit with ease.\n\n"[potential_nemesis.GetTitledFirstName] sends [potential_nemesis.GetHerHis] regards!" The peasant hanging out of the window screams before fleeing the scene.\n\nPathetically, I try washing one fur I particularly treasure in a nearby stream, but it's clear that it is beyond saving."
  bp1_yearly.7100.a:0 "Now it's #EMP personal...#!"

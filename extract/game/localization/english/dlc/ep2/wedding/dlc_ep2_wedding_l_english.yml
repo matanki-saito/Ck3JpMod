@@ -46,7 +46,7 @@
 
  ### OPTIONS
  wedding_type_normal:0 "Grand Wedding"
- wedding_type_normal_desc:1 "\n#weak A wedding is meant to be a magnificent celebration of the union of two spouses but also of two families.#!\n\n@warning_icon! #X A promised [GetActivityType('activity_wedding').GetName] must be organized before the promise expires, or you will incur into penalties#!"
+ wedding_type_normal_desc:1 "\n#weak A wedding is meant to be a magnificent celebration of the union of two spouses but also of two families.#!\n\n@warning_icon! #X A promised [GetActivityType('activity_wedding').GetName] must be organized before the promise expires, or you will incur penalties#!"
  wedding_type_bloody:0 "Bloody Wedding"
  wedding_type_bloody_desc:1 "You will murder the other family.\n#weak You're not organizing a wedding, you're planning a funeral.#!\n\n@warning_icon! #X You won't be able to host a Bloody [GetActivityType('activity_wedding').GetName] for 15 years#!\n@warning_icon! #X Targeting your [liege|E] or [head_of_faith|E] will have bigger penalties#!\n\n@alert_icon! #alert_trial Characters with [GetTrait('just').GetName( GetNullCharacter )], [GetTrait('compassionate').GetName( GetNullCharacter )] and [GetTrait('calm').GetName( GetNullCharacter )] traits will gain [stress|E]#!"
  wedding_option_entertainment:0 "Entertainment"

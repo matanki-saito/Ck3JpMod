@@ -44,3 +44,5 @@
  epidemics_desc: "#T Plagues#!\nShows the spread of [epidemics|E] on the map."
  legends: "@legend_icon! Legends"
  legends_desc: "#T Legends#!\nShows the spread of [legends|E] on the map."
+ landless_rulers: "@landless_rulers_icon! Landless Rulers"
+ landless_rulers_desc: "#T Landless Rulers#!\nShows the landless rulers on the map."

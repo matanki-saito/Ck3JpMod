@@ -5,7 +5,7 @@
  legitimacy_loss_battle_tt: "Your defeat at [battle_province.GetNameNoTooltip] has tarnished your rule"
  legitimacy_loss_usurpation_tt: "The usurpation of [title.GetNameNoTierNoTooltip] has tarnished your rule"
  legitimacy_loss_outbreak_tt: "The outbreak in [patient_zero.GetNameNoTierNoTooltip] quakes your rule"
- legitimacy_loss_endemic_capital_tt: "[epidemic.GetNameNoTooltip] has devastated your capital, [endemic_capital.GetNameNoTooltip]"
+ legitimacy_loss_endemic_capital_tt: "[epidemic.GetNameNoTooltip] has devastated your capital, [endemic_capital.GetName]"
  legitimacy_level_0_name: "Illegitimate"
  legitimacy_level_1_name: "Aspiring"
  legitimacy_level_2_name: "Recognized"

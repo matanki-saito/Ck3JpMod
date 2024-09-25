@@ -3,7 +3,7 @@
  # What's a Study Day Worth?
  bp2_yearly.3000.t: "What's a Study Day Worth?"
  bp2_yearly.3000.desc: "The voice of [educator.Custom2('MyCharacterIntroduction', ROOT.Char)] drones on and on as [educator.GetSheHe] lectures me for the umpteenth time on the proper ways of a [ROOT.Char.GetLadyLord], interspersed with austere quotes from the [educator.GetFaith.ReligiousText|U]."
- bp2_yearly.3000.desc_no_educator: "As I turn another page, I stare forlornly at the other children of the court playing in the garden. The laughter, the joyful screams... I look back at the copy of [ROOT.Char.GetFaith.ReligiousText|U] sitting on my desk."
+ bp2_yearly.3000.desc_no_educator: "As I turn another page, I stare forlornly at the other children of the [ROOT.Char.Custom('GetCourt')] playing outside. The laughter, the joyful screams... I look back at the copy of [ROOT.Char.GetFaith.ReligiousText|U] sitting on the table."
  bp2_yearly.3000.desc_ending: "\n\nCertainly, this is all very important for my future, but... Would anyone really notice if I snuck out for once — or maybe twice — to play?"
  bp2_yearly.3000.a: "Knowledge is the key to the universe!"
  bp2_yearly.3000.a.tt: "There's a chance your education will have a better outcome"

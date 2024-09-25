@@ -19,7 +19,7 @@
  bp1_yearly.3002.d:0 "Let's take a look at your ledgers..."
  bp1_yearly.3002.d.tt:0 "The financial records are summoned for your investigation"
 
- bp1_yearly.3003.desc:0 "I begin looking over my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))] [friend.GetFirstNamePossessiveNoTooltip] recent expenses, trying my best to see what could possibly have led [friend.GetHerHim] to such a terrible situation. I immediately spot the problem:\n\nMen-at-Arms: -1.8\nCourt Amenities: -3.2\nNew Court Physician: -50\n#difficulty_hard Candles: -360 #!\nGifts for Courtiers: -15\n\n"Candles? You are in debt because of #EMP candles?!#!"\n\n[friend.GetSheHe|U] bashfully replies, "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))], you are clever in matters of stewardship. Please, help me!""
+ bp1_yearly.3003.desc:0 "I begin looking over my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))] [friend.GetFirstNamePossessiveNoTooltip] recent expenses, trying my best to see what could possibly have led [friend.GetHerHim] to such a terrible situation. I immediately spot the problem:\n\nMen-at-Arms: -1.8\n[friend.Custom('GetCourt')] Amenities: -3.2\nNew $court_physician_court_position$: -50\n#difficulty_hard Candles: -360 #!\nGifts for [friend.Custom('GetCourtierPlural')|U]: -15\n\n"Candles? You are in debt because of #EMP candles?!#!"\n\n[friend.GetSheHe|U] bashfully replies, "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))], you are clever in matters of stewardship. Please, help me!""
  bp1_yearly.3003.a:0 ""I will help you, but just this once...""
  bp1_yearly.3003.b:0 ""Spend less on candles.""
  
@@ -55,8 +55,8 @@
  bp1_yearly.3006.d:0 "Curse him. I hope he rots in hell."
 
  bp1_yearly.3007.t:0 "The Family Craft"
- bp1_yearly.3007.desc:0 "I am just finishing up the day's business in my council chambers when my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('spouse'))] [spouse.GetTitledFirstName] saunters in with [spouse.GetHerHis] [spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))] [inspired_family_member.GetFirstName] eagerly at [spouse.GetHerHis] heels. I put down the ledger I was just reading, knowing no good can come from this unexpected visit.\n\n"
- bp1_yearly.3007.desc.tapestry:0 "[spouse.GetFirstNameNoTooltip] hesitantly remarks upon the room's furnishings.\n"Don't these bare stone walls drive you the least bit mad? I know exactly what this room needs: #EMP Tapestries!#!"\n\n"My [spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))] is #EMP excellent#! with a needle and thread. "
+ bp1_yearly.3007.desc:0 "I am just finishing up the day's business in my [ROOT.Char.Custom('GetChamber')] when my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('spouse'))] [spouse.GetTitledFirstName] saunters in with [spouse.GetHerHis] [spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))] [inspired_family_member.GetFirstName] eagerly at [spouse.GetHerHis] heels. I put down the ledger I was just reading, knowing no good can come from this unexpected visit.\n\n"
+ bp1_yearly.3007.desc.tapestry:0 "[spouse.GetFirstNameNoTooltip] hesitantly remarks upon the [ROOT.Char.Custom('GetRoom')]'s furnishings.\n"Don't these bare walls drive you the least bit mad? I know exactly what this [ROOT.Char.Custom('GetRoom')] needs: #EMP Tapestries!#!"\n\n"My [spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))] is #EMP excellent#! with a needle and thread. "
  bp1_yearly.3007.desc.regalia:0 "[spouse.GetFirstNameNoTooltip] hesitantly remarks upon my appearance.\n"My [spouse.Custom2('RelationToMeShort', ROOT.Char)], you are a mighty and powerful [ROOT.GetCharacter.GetTitleAsNameNoTooltip|l], but some do not yet give you the respect you deserve. You need something to demonstrate your authority!"\n\n"My [spouse.Custom2('RelationToMeShort',SCOPE.sC('inspired_family_member'))] could smith a #EMP fine#! set of regalia that would reflect your status. "
  bp1_yearly.3007.desc.conc:0 "Sponsor [inspired_family_member.GetHerHim] and see how [inspired_family_member.GetHerHis] creation will improve your mood!""
  bp1_yearly.3007.a.tapestry:0 ""I have been thinking the very same! It's dreadful in here!""
@@ -64,17 +64,17 @@
  bp1_yearly.3007.b:0 ""We've not a penny to spare on such luxuries...""
 
  bp1_yearly.3100.t:0 "A Courtier Between Friends"
- bp1_yearly.3100.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('3100_courtier_liege'))] [3100_courtier_liege.GetTitledFirstName] has honored me with a visit and has brought one of [3100_courtier_liege.GetHerHis] courtiers along. [3100_courtier_liege.GetFirstNameNoTooltip] approaches me excitedly:\n\n"Well met, [ROOT.Char.GetTitledFirstNameNoTooltip]! It pleases me to see you thriving here in [ROOT.Char.GetCapitalLocation.GetName]. It occurred to me that [3100_target_courtier.GetFirstName] here might be of service in your court. "
+ bp1_yearly.3100.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('3100_courtier_liege'))] [3100_courtier_liege.GetTitledFirstName] has honored me with a visit and has brought one of [3100_courtier_liege.GetHerHis] [3100_courtier_liege.Custom('GetCourtierPlural')] along. [3100_courtier_liege.GetFirstNameNoTooltip] approaches me excitedly:\n\n"Well met, [ROOT.Char.GetTitledFirstNameNoTooltip]! It pleases me to see you thriving here in [ROOT.Char.GetCapitalLocation.GetName]. It occurred to me that [3100_target_courtier.GetFirstName] here might be of service in your [ROOT.Char.Custom('GetCourt')]. "
  bp1_yearly.3100.desc.diplomacy:0 "[3100_target_courtier.GetSheHe|U] is an incredibly talented diplomat — as silver-tongued as they come! "
  bp1_yearly.3100.desc.intrigue:0 "[3100_target_courtier.GetSheHe|U] has myriad streams of influence and ways to take care of things... #EMP quietly#!. "
  bp1_yearly.3100.desc.martial:0 "[3100_target_courtier.GetSheHe|U] is an incredibly talented strategist! [3100_target_courtier.GetHerHis|U] mind is always spinning out possible tactics. "
  bp1_yearly.3100.desc.stewardship:0 "[3100_target_courtier.GetSheHe|U] is an incredibly talented steward — seemingly touched by Midas! "
  bp1_yearly.3100.desc.learning:0 "[3100_target_courtier.GetSheHe|U] is an incredibly talented scholar — the brightest I have ever learned from! "
  bp1_yearly.3100.desc.prowess:0 "[3100_target_courtier.GetSheHe|U] is built like a bear and more powerful by half! "
- bp1_yearly.3100.desc.conc:0 "I would make use of [3100_target_courtier.GetHerHim] myself, but alas it doesn't seem possible.\n\nI would hate to see [3100_target_courtier.GetHerHis] great talent go to waste. Won't you take [3100_target_courtier.GetHerHim] in and unleash [3100_target_courtier.GetHerHis] potential?"
+ bp1_yearly.3100.desc.conc:0 "I would make use of [3100_target_courtier.GetHerHim] myself, but alas it doesn't seem possible.\n\nI would hate to see [3100_target_courtier.GetHerHis] great talent go to waste. Won't you take [3100_target_courtier.GetHerHim] in and unleash [3100_target_courtier.GetHerHis] potential?""
  bp1_yearly.3100.a:0 "I know just the place for [3100_target_courtier.GetHerHim]!"
  bp1_yearly.3100.b:0 "I must politely decline."
- bp1_yearly_3100_courtier_gained:0 "Skilled courtier recruited"
+ bp1_yearly_3100_courtier_gained:0 "Skilled [ROOT.Char.Custom('GetCourtier')] recruited"
 
  bp1_yearly.3101.t:0 "A County Between Friends"
  bp1_yearly.3101.desc:0 "[target_title_holder.GetTitledFirstName] has come to me with a grand proposition. [target_title_holder.GetSheHe|U] knows that I have a rightful claim on the [target_title.GetName] and has chosen to finally acknowledge it.\n\n"My friend," he says, "I greatly desire to grant you [target_title.GetNameNoTierNoTooltip] as it is yours. I cannot do so, however, without receiving something in return lest I return to my people empty-handed."\n\n"Provide me with something to show my people once I return to [target_title_holder.GetCapitalLocation.GetName] and [target_title.GetNameNoTierNoTooltip] will be yours.""

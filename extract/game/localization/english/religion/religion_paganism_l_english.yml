@@ -599,8 +599,8 @@
 
  roog_sene_creator_god_name:0 "$west_african_roog_high_god_name$"
  roog_sene_creator_god_name_possessive:0 "$west_african_roog_high_god_name_possessive$"
- roog_sene_health_god_name:0 "the pangool"
- roog_sene_health_god_name_possessive:0 "the pangool's"
+ roog_sene_health_god_name:0 "the Pangool"
+ roog_sene_health_god_name_possessive:0 "the Pangool's"
  roog_sene_fertility_god_name:0 "$roog_sene_health_god_name$"
  roog_sene_fertility_god_name_possessive:0 "$roog_sene_health_god_name_possessive$"
  roog_sene_wealth_god_name:0 "Tiurakh"
@@ -1361,7 +1361,7 @@
  basque_pagan_old_adherent_plural:0 "Old $basque_pagan_adherent_plural$"
 
  basque_high_god_name:0 "Mari"
- ## The euphemistic nickname "Red Skirt", with red being a colour frequently ascribed to magical creatures and items in certain versions of Basque mythology.
+ ## The euphemistic nickname "Red Skirt", with red being a color frequently ascribed to magical creatures and items in certain versions of Basque mythology.
  basque_high_god_name_2:0 "Ionagorri"
  basque_high_god_name_possessive:0 "Mari's"
  basque_high_god_name_alternate:0 "$basque_high_god_name$"
@@ -1396,7 +1396,7 @@
  ## Gaueko, the embodiment of the night itself. Occasionally appears as a cow or a bull.
  basque_night_god_name:0 "Gaueko"
  basque_night_god_name_possessive:0 "Gaueko's"
- ## No suitable water god of note, unless you want to  but the Lamia were a popular water monster in Basque mythology.
+ ## No suitable water god of note, unless you want to but the Lamia were a popular water monster in Basque mythology.
  basque_water_god_name:0 "the Lamiak"
  basque_water_god_name_possessive:0 "the Lamiak's"
  ## Mari's daughter, Illargia, who led the dead to the underworld. Probably.
@@ -1414,7 +1414,7 @@
  basque_good_god_st_nicholas:0 "St. Nikolas"
  basque_good_god_st_john:0 "St. Ganix"
  basque_good_god_st_agatha:0 "St. Agatha"
- ## The old Basque word for the Devil himself, as his syncretised incarnation seems to be the best wide-spread evil spirit. The modern equivalent would be Deabrua.
+ ## The old Basque word for the Devil himself, as his syncretized incarnation seems to be the best wide-spread evil spirit. The modern equivalent would be Deabrua.
  basque_devil_name:0 "Tusuri"
  basque_devil_name_possessive:0 "Tusuri's"
  ## Some assorted nicknames/negative divine creatures:
@@ -1440,7 +1440,7 @@
  basque_house_of_worship_2:0 "temple"
  ## Shrine isn't an attested term, but it's suitable for both Christianity & most pagans, so it works here.
  basque_house_of_worship_3:0 "shrine"
- # Honourable mention goes to the Gernikako Arbola, which is more representative but also more of a cultural icon rather than a religious one.
+ # Honorable mention goes to the Gernikako Arbola, which is more representative but also more of a cultural icon rather than a religious one.
  basque_religious_symbol:0 "eguzkilore"
  basque_religious_symbol_2:0 "$basque_religious_symbol$"
  basque_religious_symbol_3:0 "$basque_religious_symbol$"
@@ -1451,7 +1451,7 @@
  basque_religious_head_title:0 "Arch-Sorgina"
  basque_religious_head_title_name:0 "Church"
  # We don't have good sources on monastic names, so we default to syncretic Christian terms.
- ## Honourable mention to serorak who are super interesting but neither cloistered nor (verifiably) in our period.
+ ## Honorable mention to serorak who are super interesting but neither cloistered nor (verifiably) in our period.
  basque_devotee_male:0 "monk"
  basque_devotee_male_plural:0 "monks"
  basque_devotee_female:0 "nun"

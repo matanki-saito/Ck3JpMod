@@ -208,7 +208,7 @@
  sethianism_adj:0 "Sethian"
  sethianism_adherent:0 "Sethianist"
  sethianism_adherent_plural:0 "Sethianists"
- sethianism_desc:0 "The Unknown God emanated all existence into the perfect Pleroma, filled by gracious aeons, first among them Barbelo the Mother-Father.\nA corruption caused the existence of Yaldabaoth, who stole a shred of divinity and created the material world. However, when he created mankind, he accidentally gave them his stolen spark of divinity. Yaldabaoth will spend eternity attempting to reclaim his power, while mankind must strive to return themselves to Barbelo and the Unknown God."
+ sethianism_desc:0 "The Unknown God emanated all existence into the perfect Pleroma, filled by gracious eons, first among them Barbelo the Mother-Father.\nA corruption caused the existence of Yaldabaoth, who stole a shred of divinity and created the material world. However, when he created mankind, he accidentally gave them his stolen spark of divinity. Yaldabaoth will spend eternity attempting to reclaim his power, while mankind must strive to return themselves to Barbelo and the Unknown God."
  sethianism_high_god_name:0 "Barbelo"
  sethianism_high_god_name_2:0 "$sethianism_high_god_name$" # Optional translation alt
  sethianism_high_god_name_possessive:0 "Barbelo's"

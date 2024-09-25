@@ -42,7 +42,7 @@
 
  # Loyal Subjects
  diplomacy_majesty.1020.t:0 "Loyalty or Fear"
- diplomacy_majesty.1020.desc:0 "As their [ROOT.Char.GetTitleTierName], my vassals owe me their allegiance. My word is law. But how much is obedience without devotion worth?\n\nIn times of crisis, a slow response or a half-hearted effort can lead to disaster. Can I afford such a risk?"
+ diplomacy_majesty.1020.desc:0 "As their [ROOT.Char.GetTitleAsName], my [ROOT.Char.Custom('GetFollowerOrVassalPlural')] owe me their allegiance. My word is law. But how much is obedience without devotion worth?\n\nIn times of crisis, a slow response or a half-hearted effort can lead to disaster. Can I afford such a risk?"
  diplomacy_majesty.1020.a:0 "I will win their unwavering loyalty."
  diplomacy_majesty.1020.b:0 "I have more important [important_ruler.GetWomenMen] to impress."
  diplomacy_majesty.1020.c:0 "Fear is a far more effective tool."
@@ -50,7 +50,7 @@
 
  # A Battle of Ideas
  diplomacy_majesty.4030.t:0 "A Battle of Ideas"
- diplomacy_majesty.4030.desc:0 "As I spend more time practicing statecraft and diplomacy I find myself thinking about the similarities between court life and warfare. Reading your opponent... moves and counter-moves... \n\nKeeping these thoughts to myself could give me a secret weapon to ensure I get my way. Alternatively, I could share this idea with [event_target.GetTitledFirstName] to earn [event_target.GetHerHis] goodwill..."
+ diplomacy_majesty.4030.desc:0 "As I spend more time practicing statecraft and diplomacy I find myself thinking about the similarities between [ROOT.Char.Custom('GetCourt')] life and warfare. Reading your opponent... moves and counter-moves... \n\nKeeping these thoughts to myself could give me a secret weapon to ensure I get my way. Alternatively, I could share this idea with [event_target.GetTitledFirstName] to earn [event_target.GetHerHis] goodwill..."
  diplomacy_majesty.4030.a:0 "I must expand upon this theory!"
  diplomacy_majesty.4030.a.success:0 "My new tactics work exceptionally well"
  diplomacy_majesty.4030.a.failure:0 "I fail to develop useful tactics"
@@ -71,7 +71,7 @@
 
  # Lure of Language
  diplomacy_majesty.4070.t:0 "The Lure of Language"
- diplomacy_majesty.4070.desc:0 "Ruling the multicultural [ROOT.Char.GetPrimaryTitle.GetName] comes with its own set of challenges. Foreign subjects often feel alienated when they cannot speak their native tongue in court, breeding resentment.\n\n[my_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U] suggests that I could significantly improve relations with my [my_vassal.GetCulture.GetName] subjects by learning to speak their language alongside my own."
+ diplomacy_majesty.4070.desc:0 "Ruling the multicultural [ROOT.Char.GetPrimaryTitle.GetName] comes with its own set of challenges. Foreign [ROOT.Char.Custom('GetCourtierPlural')] often feel alienated when they cannot speak their native tongue in [ROOT.Char.Custom('GetCourt')], breeding resentment.\n\n[my_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U] suggests that I could significantly improve relations with my [my_vassal.GetCulture.GetName] [ROOT.Char.Custom('GetCourtierPlural')] by learning to speak their language alongside my own."
  diplomacy_majesty.4070.a:0 "Time to hit the books!"
  diplomacy_majesty.4070.b:0 "Hire a tutor to instruct me."
  diplomacy_majesty.4070.c:0 "Why bother? [ROOT.Char.GetCulture.GetNameNoTooltip] is clearly superior."
@@ -81,10 +81,10 @@
  diplomacy_majesty.4070.failure.tt:1 "You may choose to continue studying"
 
  diplomacy_majesty.4071.t:1 "$diplomacy_majesty.4070.t$: Language Learned"
- diplomacy_majesty.4071.desc:0 "After many long weeks of study I finally have a solid grasp of the fundamentals of the [my_vassal.GetCulture.GetName] language.\n\nWith continued practice my fluency will improve, but even this basic understanding has improved my relations with my [my_vassal.GetCulture.GetNameNoTooltip] subjects."
+ diplomacy_majesty.4071.desc:0 "After many long weeks of study I finally have a solid grasp of the fundamentals of the [my_vassal.GetCulture.GetName] language.\n\nWith continued practice my fluency will improve, but even this basic understanding has improved my relations with my [my_vassal.GetCulture.GetNameNoTooltip] [ROOT.Char.Custom('GetCourtierPlural')]."
  diplomacy_majesty.4071.a:0 "Time well-spent."
  diplomacy_majesty.4071.b:0 "Such a fascinating culture... I want to learn more!"
- diplomacy_majesty.4070.b.custom:1 "Every [close_family|E] courtier and child direct vassal"
+ diplomacy_majesty.4070.b.custom:1 "Every [close_family|E] [ROOT.Char.Custom('GetCourtier')] and child direct vassal"
 
  diplomacy_majesty.4072.t:1 "$diplomacy_majesty.4070.t$: Incomprehensible!"
  diplomacy_majesty.4072.desc:0 "Despite many weeks of study, I just cannot get a solid grasp of the [my_vassal.GetCulture.GetName] language. I have learned some words, but the grammar, the phrasing... they continue to elude me. I can't imagine this is productive."

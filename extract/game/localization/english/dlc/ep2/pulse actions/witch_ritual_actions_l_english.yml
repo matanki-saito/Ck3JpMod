@@ -5,6 +5,11 @@
  small_animal_mouse:0 "mouse"
  small_animal_hedgehog:0 "hedgehog"
  small_animal_bird:0 "bird"
+ small_animal_plural_rabbit: "rabbits"
+ small_animal_plural_squirrel: "squirrels"
+ small_animal_plural_mouse: "mice"
+ small_animal_plural_hedgehog: "hedgehogs"
+ small_animal_plural_bird: "birds"
  
  demonic_chant_title:0 "[first.GetShortUIName|U] Performed a Demonic Chant"
  

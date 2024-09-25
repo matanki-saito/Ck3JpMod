@@ -52,4 +52,4 @@
  faith_creation.1010.a:0 "Glory to [faith.HighGodName]!"
 
  faith_creation.1011.message.title:0 "Religious Head Established"
- faith_creation.1011.message.desc:0 "Previously leaderless, the [faith.GetAdjective] [faith.AltPriestTermPlural] have made [HoF.GetFirstName] their new [faith.ReligiousHeadName]"
+ faith_creation.1011.message.desc:0 "The [faith.GetAdjective] [faith.AltPriestTermPlural] have proclaimed [faith.ReligiousHeadName|U] [HoF.GetFirstName] their [head_of_faith|E]"

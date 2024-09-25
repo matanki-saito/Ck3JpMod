@@ -22,7 +22,7 @@
  DOMAIN_LIMIT_HOLDING_COUNT:0 "$TYPE$: $VALUE$"
  STEWARDSHIP_DOMAIN_LIMIT:0 "[stewardship|E]"
  VASSAL_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon! #X Above [vassal_limit|E]. Consolidate your [vassals|E] by Transferring Vassals.#!\n"
- VASSAL_LIMIT_OVERRUN_EFFECT:0 "   Vassal [levies|E]: $LEVY|+%0$\n   Vassal [taxes|E]: $TAX|+%0$"
+ VASSAL_LIMIT_OVERRUN_EFFECT:0 "  Vassal [levies|E]: $LEVY|+%0$\n  Vassal [taxes|E]: $TAX|+%0$"
 
  STRENGTH_RATIO_LEVEL_0:0 "Vastly Superior"
  STRENGTH_RATIO_LEVEL_1:0 "Superior"

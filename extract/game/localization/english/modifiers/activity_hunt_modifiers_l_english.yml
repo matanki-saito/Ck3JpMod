@@ -91,7 +91,7 @@
 
  hunt_sighting_legendary_modifier:0 "Legendary Sighting"
  hunt_sighting_legendary_modifier_desc:2 "A mythical animal has reportedly been sighted in this county.\n#weak A $hunt_type_legendary$ [GetActivityType('activity_hunt').GetTextIcon][GetActivityType('activity_hunt').GetName] may be held in this [county|E]#!"
- hunt_sighting_legendary_modifier_custom_desc:1 "A mythical [SCOPE.sTitle('sighting_county').Custom('GetLegendaryColor')] [SCOPE.sTitle('sighting_county').Custom('GetAnimalType')] has reportedly been sighted in this county.\n#weak A Legendary [SCOPE.sTitle('sighting_county').Custom('GetLegendaryColor')|UV] [SCOPE.sTitle('sighting_county').Custom('GetAnimalType')|UV] may be hunted in this [county|E]"
+ hunt_sighting_legendary_modifier_custom_desc:1 "A mythical [SCOPE.sTitle('sighting_county').Custom('GetLegendaryColor')] [SCOPE.sTitle('sighting_county').Custom('GetAnimalType')] has reportedly been sighted in this county.\n#weak A Legendary [SCOPE.sTitle('sighting_county').Custom('GetLegendaryColor')|UV] [SCOPE.sTitle('sighting_county').Custom('GetAnimalType')|UV] may be hunted in this [county|E]#!"
  
  hunt_sighting_falconry_modifier:0 "Bird Sighting"
  hunt_sighting_falconry_modifier_desc:0 "Recent sightings of breeding or migrating birds make this county ideal for practicing falconry.\n#weak $hunt_type_falconry$ [hunt_success_chance|E] is increased in this [county|E]#!"
@@ -154,7 +154,7 @@
  hunt_success_chance.terrain:0 "[ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly] has [ROOT.Activity.GetCurrentPhase.GetLocation.GetTerrain.GetName] [terrain|E]"
  hunt_success_chance.development:0 "High [development|E] in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
  hunt_success_chance.no_holding:0 "No [holding|E] in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
- hunt_success_chance.master_of_hunt:0 "[GetCourtPositionType('master_of_hunt_court_position').GetName()] [aptitude|E]"
+ hunt_success_chance.master_of_hunt:0 "[ROOT.Activity.GetHost.Custom('GetHuntMasterTooltipDesc')] [aptitude|E]"
  hunt_success_chance.hunt_option_attendants:0 "$hunt_option_attendants$ [activity_option|E]"
  hunt_success_chance.forced_type:0 "Forced [ROOT.Activity.MakeScope.Var('animal_type').GetFlagName|U] Hunt"
  hunt_success_chance.captive_release:0 "Captive [ROOT.Activity.MakeScope.Var('animal_type').GetFlagName|U] Hunt"
@@ -165,6 +165,8 @@
  hunt_success_chance.dog_story_scenthound_modifier:0 "[GetModifier( 'dog_story_scenthound_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.dog_story_beasthound_modifier:0 "[GetModifier( 'dog_story_beasthound_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_mismanaged_game_modifier:0 "[GetModifier( 'hunt_mismanaged_game_modifier' ).GetNameWithTooltip]"
+ hunt_success_chance.hunt_abundant_game_modifier: "[GetModifier( 'ep3_abundant_game_modifier' ).GetNameWithTooltip]"
+ hunt_success_chance.hunt_wild_predators_modifier: "[GetModifier( 'ep3_wild_predators_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_punished_locals_modifier:0 "[GetModifier( 'hunt_punished_locals_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.recent_hunt_held:0 "Recent Hunts in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
  hunt_success_chance.hunting_grounds:0 "$building_type_hunting_grounds_01$ [building|E]"

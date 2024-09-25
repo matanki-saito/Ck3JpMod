@@ -22,6 +22,7 @@
  DLC011_CE1: "Legends of the Dead"
  DLC012_CP1: "North African Attire"
  DLC013_SP3: "Couture of the Capets"
+ DLC014_EP3: "Roads to Power"
 
  dlc_001:0 "$DLC001_PREORDER$"
  dlc_001_desc:0 "Immerse yourself in the Holy Roman Empire with a collection of outfits for both commoners, warriors and rulers of Central Europe."
@@ -49,3 +50,5 @@
  dlc_012_desc: "This clothing pack for North African cultures includes new items for characters to wear, including tops, leggings, cloaks, headgear and more, with new designs and patterns. “North African Attire” is the first made in co-operation and directed by a community creator."
  dlc_013: "$DLC013_SP3$"
  dlc_013_desc: "Inspired by the fashions of the French court in the High Medieval Era, this cosmetic pack brings new styles and patterns to Crusader Kings III. Dress up with new cloaks, new headgear types, beard and hair styles - everything to match your luxurious and regal clothing. Exclusively available to owners of Chapter III."
+ dlc_014: "$DLC014_EP3$"
+ dlc_014_desc: "Lead a noble family in an ancient empire, using influence and intrigue to secure your place, or be a wandering mercenary, building a reputation as a fixer or outlaw. New events, government systems, schemes and lifestyles are yours to explore with Roads to Power."

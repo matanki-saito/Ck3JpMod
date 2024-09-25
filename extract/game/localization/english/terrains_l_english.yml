@@ -38,3 +38,6 @@
  TERRAIN_HARSH_WINTER:0 "Harsh $winter$"
  TERRAIN_TRAVEL_EFFECTS_HEADER:0 "#S Travel Effects:#!"
  TERRAIN_DANGER:1 "[travel_danger|E]: $VALUE|=-0$"
+ TERRAIN_PROVISIONS_BASE_COST: "Base Cost"
+ TERRAIN_PROVISIONS_COST: "[provisions|E] Cost"
+

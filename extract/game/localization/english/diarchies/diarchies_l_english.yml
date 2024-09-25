@@ -2,12 +2,17 @@
  ##################################################
  # #Misc
  from_diarch_domain_limit_bonus:0 "Support from [regent|E]"
+ from_diarch_monthly_influence_bonus: "Benefits from [co_emperor|E]"
+ from_co_monarch_diplomacy_vassal_opinion: "Benefits from [co_monarch|E]"
+ to_co_monarch_monthly_prestige_add_bonus: "Benefits from [co_monarchy|E]"
  imprisonment_would_cause_regency_trigger.tt.imprisoned_abroad:0 "You are [imprisoned|E] abroad"
  DIARCHY_TEMPORARY_OR_DESIGNATED_REGENT_WEDDING_ACCEPTANCE:0 "Reliable [regent|E]: $VALUE|=+0$"
  DIARCHY_ENTRENCHED_REGENT_WEDDING_ACCEPTANCE:0 "[scales_of_power|E]: $VALUE|=+0$"
  remove_strife_per_invited_powerful_vassal_effect.tt:1 "[host.GetShortUIName|U] lost #P [host.MakeScope.Var('strife_loss_total').GetValue|0]#! [strife|E] due to attending [powerful_vassals|E] from [host.GetLiege.GetPrimaryTitle.GetBaseName]"
  family_member_is_civil_servant: "[family_member|E] is Civil Servant"
  civil_servant_salary_and_corruption: "Civil Servant Enrichment"
+ regency_for_personal_reasons_trigger.tt.cannot_govern_by_themselves: "Cannot rule by themselves"
+ SPACE4: "    "
 
  ##################################################
  # #Swing Update Strings
@@ -71,13 +76,19 @@
  temporary_regency_diarch_title:0 "$regency_diarch_title$"
  regency_diarchy_type:1 "[entrenched_regency|E]"
  regency_diarch_title:0 "Regent"
- vizierate_diarchy_type: "Vizierate"
- vizierate_diarch_title: "[vizier|E]"
+ vizierate_diarchy_type: "[vizierate|E]"
+ vizierate_diarch_title: "Vizier"
+ junior_emperorship_diarchy_type: "[nominal_duumvirate|E]"
+ junior_emperorship_diarch_title: "Nominal Co-Emperor"
+ co_emperorship_diarchy_type: "[duumvirate|E]"
+ co_emperorship_diarch_title: "Co-Emperor"
+ co_monarchy_diarchy_type: "[co_monarchy|E]"
+ co_monarchy_diarch_title: "[co_monarch|E]"
 
  ##################################################
  # #Mandates
  fill_coffers_mandate:0 "Fill Coffers"
- fill_coffers_mandate_desc:1 "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ Extra [gold|E]\n$EFFECT_LIST_BULLET$ Free [domain|E] [development|E]\n$EFFECT_LIST_BULLET$ [feudal_contracts|E] adjusted in the [liege|E]'s favor\n\n#WEAK The [regent|E] is instructed to increase revenues for their $game_concept_liege$, at any cost.#!"
+ fill_coffers_mandate_desc:1 "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ Extra [gold|E]\n$EFFECT_LIST_BULLET$ Free [domain|E] [development|E]\n$EFFECT_LIST_BULLET$ [vassal_contracts|E] adjusted in the [liege|E]'s favor\n\n#WEAK The [regent|E] is instructed to increase revenues for their $game_concept_liege$, at any cost.#!"
  swell_armies_mandate:0 "Swell Armies"
  swell_armies_mandate_desc:1 "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ Beneficial [men_at_arms|E] [modifiers|E]\n$EFFECT_LIST_BULLET$ Beneficial [levy|E] $game_concept_modifiers$\n$EFFECT_LIST_BULLET$ Skilled [knights|E] [courtiers|E]\n\n#WEAK Current or future campaigns call for fresh bodies to fight, and the [liege|E] has decreed that their [regent|E] shall find them.#!"
  promote_authority_mandate:0 "Promote Authority"
@@ -112,12 +123,12 @@
 
  ##################################################
  # #Parameters
- diarchy_is_regency:0 "[diarchy|E] as a [regency|E]"
+ diarchy_is_regency:0 "[diarchy|E] is a [regency|E]"
 
  unlock_diarch_imprison_interaction:0 "[diarchs|E] can attempt to [imprison|E] fellow [vassals|E] and [courtiers|E] within the [realm|E] of their [liege|E]"
  unlock_diarch_revoke_title_interaction:0 "[diarchs|E] can attempt to [revoke|E] [titles|E] from other [vassals|E]"
  unlock_diarch_retract_vassal_interaction:0 "[diarchs|E] can try to [retract|E] [vassals|E] below their [title_tier|E] from other [vassals|E]"
- diarch_can_subsidise_liege_authority:0 "[diarchs|E] can offer to increase their [liege|E]'s [crown_authority|E] or [tribal_authority|E], absorbing the costs and [opinion|E] penalties"
+ diarch_can_subsidise_liege_authority:0 "[diarchs|E] can offer to increase their [liege|E]'s [crown_authority|E], [tribal_authority|E], or [imperial_bureaucracy|E], absorbing the costs and [opinion|E] penalties"
  
  unlock_syphon_treasury_interaction:0 "[diarchs|E] can try to embezzle [gold|E] from their [liege|E]"
  unlock_shift_privileges_interaction:0 "[diarchs|E] can try to give negative [county_modifiers|E] to fellow [vassals|E], receiving [gold|E] if successful"
@@ -157,6 +168,32 @@
  diarch_aptitude_helps_tax_collectors_t2: "#P [tax_collectors|E] gain [EmptyScope.ScriptValue('diarch_aptitude_helps_tax_collectors_t2_value')|+%0] $diarch_aptitude_helps_tax_collectors_postamble$#!"
  diarch_aptitude_helps_tax_collectors_t3: "#P [tax_collectors|E] gain [EmptyScope.ScriptValue('diarch_aptitude_helps_tax_collectors_t3_value')|+%0] $diarch_aptitude_helps_tax_collectors_postamble$#!"
  diarch_aptitude_helps_tax_collectors_t4: "#P [tax_collectors|E] gain [EmptyScope.ScriptValue('diarch_aptitude_helps_tax_collectors_t4_value')|+%0] $diarch_aptitude_helps_tax_collectors_postamble$#!"
+
+ diarch_is_preferred_liege_heir: "[diarch|E] is the [designated_heir|E]"
+ diarchy_transition_into_co_emperorship_on_majority: "[diarchy|E] will be empowered when the [diarch|E] becomes an [adult|E]"
+ half_sop_swing_transfer_over_on_majority: "[scales_of_power|E] swing is halved when the [diarch|E] becomes an [adult|E]"
+ liege_may_voluntarily_cede_authority: "The [liege|E] may voluntarily cede [scales_of_power|E] swing to their diarch #WEAK (allowing them to proactively try for benefits further along the $game_concept_scales_of_power_scales$)#!"
+ diarch_gain_skill_on_majority_t1: "On becoming an [adult|E], [diarch|E] gains #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t1_primary_value')|0]#! [skill|E] aligned to their [education|E], and #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t1_secondary_value')|0]#! in two other $game_concept_skills$"
+ diarch_gain_skill_on_majority_t2: "On becoming an [adult|E], [diarch|E] gains an additional #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t2_primary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t2_primary_value')|0])#! [skill|E] aligned to their [education|E], and #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t2_secondary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t2_secondary_value')|0])#! in two other $game_concept_skills$"
+ diarch_gain_skill_on_majority_t3: "On becoming an [adult|E], [diarch|E] gains an additional #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t3_primary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t3_primary_value')|0])#! [skill|E] aligned to their [education|E], and #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t3_secondary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t3_secondary_value')|0])#! in two other $game_concept_skills$"
+ diarch_gain_skill_on_majority_t4: "On becoming an [adult|E], [diarch|E] gains an additional #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t4_primary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t4_primary_value')|0])#! [skill|E] aligned to their [education|E], and #P +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t4_secondary_diff_value')|0]#! #WEAK (total +[EmptyScope.ScriptValue('diarch_gain_skill_on_majority_t4_secondary_value')|0])#! in two other $game_concept_skills$"
+
+ unlock_adjust_imperial_bureaucracy_interaction: "[diarchs|E] can request to adjust their [liege|E]'s [imperial_bureaucracy|E], either:\n$SPACE4$$EFFECT_LIST_BULLET$Centralizing, absorbing the costs and [opinion|E] penalties\n$SPACE4$$EFFECT_LIST_BULLET$Decentralizing, reducing their [strife|E]"
+ unlock_scapegoat_counterpart_interaction: "Both [diarch|E] and [liege|E] may publicly attack their counterpart:\n$SPACE4$$EFFECT_LIST_BULLET$Gaining [influence|E]\n$SPACE4$$EFFECT_LIST_BULLET$Destroying the other's [opinion|E] of them\n$SPACE4$$EFFECT_LIST_BULLET$Inciting problems in the [realm|E]\n$SPACE4$$EFFECT_LIST_BULLET$Scaling to how much better their [diplomacy|E] or [intrigue|E] is"
+ unlock_diarch_requests_military_expedition_interaction: "[diarch|E] can request access to the [imperial_expedition_cb|E] [casus_belli|E] from their [liege|E], earning lands that they can keep or turn over for large amounts of [influence|E]"
+ unlock_diarch_demand_kingdom_interaction: "[duchy|E]-[title_tier|E] [diarchs|E] can demand their own [kingdom|E]-$game_concept_title_tier$ [governorship|E]"
+
+ diarch_more_efficient_administrative_emperor_promotion_candidate_massive: "[co_emperors|E] are [EmptyScope.ScriptValue('diarch_more_efficient_administrative_emperor_promotion_candidate_massive_value')|%=+0] more efficient to promote for [administrative|E] offices"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_major: "[co_emperors|E] are [EmptyScope.ScriptValue('diarch_more_efficient_administrative_emperor_promotion_candidate_major_value')|%=+0] more efficient to promote for [administrative|E] offices"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_medium: "[co_emperors|E] are [EmptyScope.ScriptValue('diarch_more_efficient_administrative_emperor_promotion_candidate_medium_value')|%=+0] more efficient to promote for [administrative|E] offices"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_mild: "[co_emperors|E] are [EmptyScope.ScriptValue('diarch_more_efficient_administrative_emperor_promotion_candidate_mild_value')|%=+0] more efficient to promote for [administrative|E] offices"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_massive.tt.interaction_explanation: "#WEAK $diarch_more_efficient_administrative_emperor_promotion_candidate_massive$ due to the current [scales_of_power|E]#!"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_major.tt.interaction_explanation: "#WEAK $diarch_more_efficient_administrative_emperor_promotion_candidate_major$ due to the current [scales_of_power|E]#!"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_medium.tt.interaction_explanation: "#WEAK $diarch_more_efficient_administrative_emperor_promotion_candidate_medium$ due to the current [scales_of_power|E]#!"
+ diarch_more_efficient_administrative_emperor_promotion_candidate_mild.tt.interaction_explanation: "#WEAK $diarch_more_efficient_administrative_emperor_promotion_candidate_mild$ due to the current [scales_of_power|E]#!"
+ diarch_children_born_in_purple_if_culturally_appropriate: "If permitted by [culture_tradition|E] — and if [GetTitleByKey('b_constantinople').GetNameNoTier] is controlled — the [diarch|E]'s [children|E] will be born with the [GetTrait('born_in_the_purple').GetName( GetNullCharacter )] [trait|E]"
+
+ diarch_can_appoint_self_co_emperor: "[SelectLocalization( IsAdministrativeRuler( GetPlayer ), '', '#WEAK Inactive for this Government: ')][regents|E] may appoint themselves [co_emperor|E][SelectLocalization( IsAdministrativeRuler( GetPlayer ), '', '#!')]"
 
  ##################################################
  # #Succession Loc
@@ -322,6 +359,10 @@
  diarch_loyalty_score.regency.just:0 "[GetTrait('just').GetName( ROOT.Char )]"
  diarch_loyalty_score.regency.disloyal:0 "[GetTrait('disloyal').GetName( ROOT.Char )]"
  diarch_loyalty_score.regency.loyal:0 "[GetTrait('loyal').GetName( ROOT.Char )]"
+ diarch_loyalty_score.regency.humble: "[GetTrait('humble').GetName( ROOT.Char )]"
+ diarch_loyalty_score.regency.arrogant: "[GetTrait('arrogant').GetName( ROOT.Char )]"
+ diarch_loyalty_score.regency.patient: "[GetTrait('patient').GetName( ROOT.Char )]"
+ diarch_loyalty_score.regency.impatient: "[GetTrait('impatient').GetName( ROOT.Char )]"
  diarch_loyalty_score.regency.compassion_for_helpless:0 "[personality|E] has Compassion for [ROOT.Char.GetLiege.Custom('GetChildInvalid')|U]"
  diarch_loyalty_score.regency.chief_eunuch:0 "[GetCourtPositionType('chief_eunuch_court_position').GetName()]"
  diarch_loyalty_score.regency.chief_qadi:0 "[GetCourtPositionType('chief_qadi_court_position').GetName()]"
@@ -349,6 +390,14 @@
  diarch_loyalty_score.regency.loyalty_hook.self:0 "$loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.loyalty_hook.predecessor:0 "$predecessor_loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.ai_honour:0 "[personality|E] is supremely Honorable"
+ diarch_loyalty_score.co_rule.co_emperorship.dread: "[dreadful|E]"
+ diarch_loyalty_score.co_rulership.designated_heir: "[designated_heir|E]"
+ diarch_loyalty_score.co_rulership.years_waiting: "Years Waiting"
+ diarch_loyalty_score.co_rulership.age_difference: "Time Favors the Young"
+ diarch_loyalty_score.co_rulership.just_die_already: "#BOL Just Die Already#!"
+ diarch_loyalty_score.co_rulership.your_time_is_up: "#EMP [ROOT.Char.GetLiege.Custom('GetLiegeYour')|U] Time is Up#!"
+ diarch_loyalty_score.co_rulership.you_are_too_fit: "Old [ROOT.Char.GetLiege.GetWomanMan|U] Too [healthy|E]"
+ diarch_loyalty_score.co_rulership.showing_no_signs_of_slowing: "Age Not Catching up with [ROOT.Char.GetLiege.Custom('GetLiegeYou')]"
 
  raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.overflow_edgecase: "Your [diarch|E]'s [diarch_loyalty|E] will likely stay $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
  raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.remains_static: "Your [diarch|E]'s [diarch_loyalty|E] will remain $DIARCHY_WINDOW_VISIBLY_DISLOYAL$"
@@ -486,7 +535,7 @@
  viz_extravagance.t1.charity.civil_service.guard: "This character pays for a small guard post, and occupying sentry, to stand outside one of the more important administrative buildings in [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]."
  viz_extravagance.t1.charity.birds: "This character pays for seeds to be regularly sown in certain alleys for the birds of the capital — only the barbarous would leave such animals to suffer and starve."
  viz_extravagance.t1.charity.monastery: "This character funds the upkeep (and paid for the creation of) an isolated religious community, far from the sins of normal life."
- viz_extravagance.t1.charity.judges: "This character pays for some of the realm's professional judges to spend more time hearing cases and travelling their circuits."
+ viz_extravagance.t1.charity.judges: "This character pays for some of the realm's professional judges to spend more time hearing cases and traveling their circuits."
  viz_extravagance.t1.charity.kitchens: "This character pays for a number of small free kitchens, feeding the grateful poor of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]."
 
  viz_extravagance.t2.treasure.cabinet_of_curiosities: "This character has a room devoted to exotic curios and strange paraphernalia from far off climes; though of little practical use, it #EMP is#! a darling with guests."
@@ -519,7 +568,7 @@
  viz_extravagance.t2.property.warehouses: "This character owns a truly expansive set of warehouses tucked away near the capital's mercantile hub. So well stocked with exotic trade goods is the complex that the locals refer to it as 'the Vaults of [ROOT.Char.GetDiarchy.GetDiarch.GetFirstNameNoTooltip]'."
  viz_extravagance.t2.property.messenger_network: "This character employs a realm-wide network of discreet (and more importantly #EMP loyal#!) messengers, able to convey their will and instructions to every outpost of the land."
  viz_extravagance.t2.property.workshops: "This character owns almost every workshop in one of the more industrious streets of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], a lane famed for its diverse and beautiful wares."
- viz_extravagance.t2.property.personal_temple: "This character owns an ostentatious personal [ROOT.Char.GetDiarchy.GetDiarch.GetFaith.HouseOfWorship], useable only by them, their family, and their closest allies."
+ viz_extravagance.t2.property.personal_temple: "This character owns an ostentatious personal [ROOT.Char.GetDiarchy.GetDiarch.GetFaith.HouseOfWorship], usable only by them, their family, and their closest allies."
  viz_extravagance.t2.property.fort: "This character owns a small fort in a spot of dangerous hinterland located near [ROOT.Char.GetDiarchy.GetDiarch.GetFaith.PriestNeuterPlural]. Though expensive to maintain, the region's rich crop of captured beasts is lucrative."
  viz_extravagance.t2.property.treasury: "This character's treasury is so large that it occupies its own building — a fortified complex in the heart of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] where their coin is sure to be safe."
  viz_extravagance.t2.property.defensible_palace: "This character maintains a small fortified palace in [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] — reportedly one rife with secret passages and hidden escape routes."
@@ -609,11 +658,11 @@
  viz_extravagance.t4.property.palace.guest: "This character keeps a private palace specifically just for visiting guests — a statement of wealth and power few fail to notice."
  viz_extravagance.t4.property.spire: "This character conducts much of their vizierial business from an ominous spire, rising high over most buildings in [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]. Reportedly, one can see every alley and streetcorner from its many windows."
  viz_extravagance.t4.property.palace.monthly: "This character maintains a dozen or more palaces throughout [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], rotating from one to the next monthly."
- viz_extravagance.t4.property.bordello: "This character staffs a private bordello, where their favourite artists visit the most lasvicious of pleasures on them regularly."
+ viz_extravagance.t4.property.bordello: "This character staffs a private bordello, where their favorite artists visit the most lasvicious of pleasures on them regularly."
  viz_extravagance.t4.property.gaol: "This character owns a private debter's prison — when poorer folk can't pay their debts to the vizier, the punishment is swift and clear. Till their family finds the money, hopefully."
  viz_extravagance.t4.property.palace.torture: "'[ROOT.Char.GetDiarchy.GetDiarch.GetFirstNameNoTooltip] Hell', they call it — the rumored garden of strange delights and horrifying implements where this character visits their cruel ministrations on their foes and rivals."
 
- viz_extravagance.t4.charity.waystations: "This character pays for waystations and caravanserais across the realm, focusing on catering to smaller groups and lonesome travellers."
+ viz_extravagance.t4.charity.waystations: "This character pays for waystations and caravanserais across the realm, focusing on catering to smaller groups and lonesome travelers."
  viz_extravagance.t4.charity.bridges: "This character is renowned for the money they spend constructing and maintaining fresh bridges across the realm, a mark of supreme prestige for any civil servant."
  viz_extravagance.t4.charity.dole: "This character subsidizes a private dole of food to the neediest citizens of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], ensuring that no one goes entirely hungry whilst they have coin to spare."
  viz_extravagance.t4.charity.housing: "This character funds the construction of small tenements in vacant portions of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], or butting up against its walls, for those most in need of shelter."
@@ -623,3 +672,5 @@
  viz_extravagance.t4.charity.festivals: "This character pays for an annual grand festival to be held for all the residents of [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], an event the city looks forward to year round."
  viz_extravagance.t4.charity.pilgrimage: "This character runs a charitable fund that provides people with an allowance, suitable gear, and the travel knowledge to set off on a successful pilgrimage."
  viz_extravagance.t4.charity.loans: "This character runs a charitable fund that organizes remittance for loans and debts, legal or otherwise, that afflict the realm's poor."
+
+ diarch_loyalty_score.regency.tradition_ep3_palace_politics: "[culture|E] has [GetCultureTradition('tradition_ep3_palace_politics').GetName]"
