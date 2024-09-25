@@ -44,7 +44,7 @@
  struggle_parameter_learning_languages_gives_prestige:0 "新しい[language|E]を学ぶと[prestige_i][prestige|E]を得られます"
  struggle_parameter_granting_title_to_local_noble_gives_prestige:0 "地元の貴族に[title|E]を与えると[prestige_i][prestige|E]を得られます"
  prestige_from_granting_title.tt:0 "地元の貴族が昇進"
- cultural_acceptance_gain_from_phase_effects:0 "[county_development|E]は[current_culture.GetName][culture|E]の[county|E]で増加しました"
+ cultural_acceptance_gain_from_phase_effects:0 "[county_development|E] increased in a [county|E] of the [current_culture.GetName] [culture|E]"
  struggle_parameter_gain_acceptance_when_developing_other_culture_county:0 "[culture|E]が異なる伯爵領の[county_development|E]を増やすと、[cultural_acceptance|E]が増えます"
  struggle_parameter_less_dissolution_more_claimants: "[dissolution_faction|E]はより少なく、[claimant_factions|E]はより多くなります"
  struggle_parameter_struggle_high_impact_on_terrain_danger: "[struggle_region|E]を[traveling|E]するときの[travel_danger|E]が著しく上がる"

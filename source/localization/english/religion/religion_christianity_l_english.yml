@@ -265,3 +265,5 @@
  adoptionist_desc:0 "イベリア半島の養子論は、トレド大司教区とその周辺地域の独立した思考、数世紀前の北アフリカの厳格主義、そして9世紀初頭の極めてカリスマ的な異端者たちにその起源を求めることができる。\n\nそれは、極めて繊細なものから全く率直なものまで、さまざまな形態をとっているが、教義的に統一されているのは、神の子の永遠の神性への懐疑的な態度である。"
  adoptionist_religious_head_title:0 "大司教"
  adoptionist_religious_head_title_name:0 "大司教領"
+ west_christian_fallback_god_name: "$christianity_health_god_name$"
+ generic_religious_figure_fallback_name: "[ROOT.Char.GetFaith.HighGodName]"

@@ -56,7 +56,7 @@
  feast_events_ewan.0401.a.tt.success:0 "あなたは[intent_target.GetHerHim]をたしかに喜ばせた"
  feast_events_ewan.0401.a.tt.partial_success:0 "[intent_target.GetSheHe|U]はもっと話がしたい"
  feast_events_ewan.0401.a.tt.failure:0 "あなたは面白いが、それほど面白いという訳でもない"
- feast_events_ewan.0401.b:0 "「お前… これは私の饗宴だと#EMP 知っての#!物言いか、ああ？」"
+ feast_events_ewan.0401.b:0 "\"You... #EMP do#! realize that this is my feast, yes?\""
  feast_events_ewan.0401.c:0 "「さあ食事への感謝を大声で歌おう」"
  feast_events_ewan.0401.d:0 "当たり障りのない話題に変えよう。"
  feast_events_ewan.0601.t:0 "ただの冗談"

@@ -1,6 +1,6 @@
 ﻿l_english:
  infidelity_confrontation.1000.t:0 "不誠実"
- infidelity_confrontation.1000.confession.apologetic_start.desc:0 "[infidelity_partner.GetFirstNameNoTooltip]は時間が凍りついたように沈黙しているが、[infidelity_partner.GetHerHis]の目にはそれが見える。私の恐れは本物だ。私も凍り付いてしまったようだ——激しく鼓動している心臓を除いて。\n\n[infidelity_partner.GetFirstNamePossessiveNoTooltip]の唇からようやく言葉がこぼれた時、[infidelity_partner.GetHerHis]の目からは涙がこぼれる。「ああ、[infidelity_partner.Custom2('RelationToMeShort', ROOT.Char)]、あなたを傷つける気はなかったのです。誓って！私はあなたに全てをお話しします。私は"
+ infidelity_confrontation.1000.confession.apologetic_start.desc:0 "[infidelity_partner.GetFirstName] is silent as if frozen in time, but I can see it in [infidelity_partner.GetHerHis] eyes. My fears are true. I, too, seem to have frozen — except for my heart, which is beating hard.\n\nAs words finally spill from [infidelity_partner.GetFirstNamePossessiveNoTooltip] lips, so do tears from [infidelity_partner.GetHerHis] eyes.\n\n\"Oh, [infidelity_partner.Custom2('RelationToMeShort', ROOT.Char)], I never meant to hurt you. I swear! I... I will tell you everything. I have shared my bed with "
  infidelity_confrontation.1000.confession.your_lovername.desc:0 "[infidelity_partners_lover.Custom2('YourCharacterIntroductionNoComma', ROOT.Char)]とベッドを共にしていたのです。"
  infidelity_confrontation.1000.confession.my_lovername.desc:0 "[infidelity_partners_lover.Custom2('MyCharacterIntroductionNoComma', infidelity_partner)]とベッドを共にしていたのです。"
  infidelity_confrontation.1000.confession.apologetic_end.desc:0 "」"

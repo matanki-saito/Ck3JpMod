@@ -5,7 +5,7 @@
  legitimacy_loss_battle_tt: "[battle_province.GetNameNoTooltip]での敗北はあなたの統治を汚した"
  legitimacy_loss_usurpation_tt: "[title.GetNameNoTierNoTooltip]の簒奪はあなたの統治に不安を感じさせている"
  legitimacy_loss_outbreak_tt: "[patient_zero.GetNameNoTierNoTooltip]の流行があなたの統治に疑念を生じさせた"
- legitimacy_loss_endemic_capital_tt: "[epidemic.GetNameNoTooltip]があなたの領国首都、[endemic_capital.GetNameNoTooltip]を荒廃させた"
+ legitimacy_loss_endemic_capital_tt: "[epidemic.GetNameNoTooltip] has devastated your capital, [endemic_capital.GetName]"
  legitimacy_level_0_name: "簒奪者"
  legitimacy_level_1_name: "熱望せし者"
  legitimacy_level_2_name: "認められし者"

@@ -58,7 +58,7 @@
  steward_task.3103.a:0 "今、私はすべてを見てきた。"
  steward_task.3103.notification:0 "[ROOT.Char.GetCulture]の有志の徴募兵"
  steward_task.0001.t:0 "慣習的伯爵領の説得"
- steward_task.0001.desc:0 "本日、重大な知らせが届いた。[county.GetNameNoTier]の人々は、より壮大で権威ある[councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]への帰属を取り戻したのだ！\n\n[councillor.GetTitledFirstName]の聞こえのいい契約に揺さぶられ、そして[councillor_liege.GetTitledFirstNamePossessive]の宮廷の豪華さに誘惑され、今や彼らは私が干渉好きな隣人に伯爵領を簡単に明け渡すことを期待している！\n\n次の動きを慎重に検討する必要がある。領土を失うことは決して理想的ではないが、私が彼らを手放さなければ、地元の人々は私に非常に不満を抱くだろう。"
+ steward_task.0001.desc:0 "本日、重大な知らせが届いた。[county.GetNameNoTier]の人々は、より素晴らしいと、より権威あると、[councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]への帰属回復を訴えているのだ！\n\n[councillor.GetTitledFirstName]の聞こえのいい契約に揺さぶられ、そして[councillor_liege.GetTitledFirstNamePossessive]の宮廷の豪華さに誘惑され、今や彼らは私に期待するのだ！干渉好きな隣人にその伯爵領を簡単に明け渡すことを！\n\n次の動きを慎重に検討する必要がある。領土喪失は決して理想的ではない。だが、手放さなければ、当地に住まう人々は私に対して、甚だしい不満を抱くことだろう。"
  steward_task.0001.a:0 "仕方がない。譲歩しよう。"
  steward_task.0001.b:0 "とんでもない！そんなことは許さんぞ！"
  steward_task.0001.liege_changed:0 "慣習的主君への解放"

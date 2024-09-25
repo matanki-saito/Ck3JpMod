@@ -19,7 +19,7 @@
  DOMAIN_LIMIT_HOLDING_COUNT:0 "$TYPE$: $VALUE$"
  STEWARDSHIP_DOMAIN_LIMIT:0 "[stewardship|E]"
  VASSAL_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon!#X [vassal_limit|E]を超過しています。[vassals|E]を転属させて整理しましょう。#!\n"
- VASSAL_LIMIT_OVERRUN_EFFECT:0 "   封臣の [levies|E]: $LEVY|+%0$\n   封臣の[taxes|E]: $TAX|+%0$"
+ VASSAL_LIMIT_OVERRUN_EFFECT:0 "  Vassal [levies|E]: $LEVY|+%0$\n  Vassal [taxes|E]: $TAX|+%0$"
  STRENGTH_RATIO_LEVEL_0:0 "非常に優良"
  STRENGTH_RATIO_LEVEL_1:0 "優良"
  STRENGTH_RATIO_LEVEL_2:0 "同等"

@@ -25,7 +25,7 @@
  has_triggered_legend_seed_global: "[TRIGGERED_LEGEND_SEED.GetName( CHARACTER.Self )]の[legend_seed|e]の資格"
  not_has_triggered_legend_seed_global: "[TRIGGERED_LEGEND_SEED.GetName( CHARACTER.Self )]の[legend_seed|e]の資格が#bold ない#!"
  has_triggered_legend_seed_third: "[CHARACTER.GetName]は[TRIGGERED_LEGEND_SEED.GetName( CHARACTER.Self )]の[legend_seed|e]の資格がある"
- not_has_triggered_legend_seed_third: "[CHARACTER.GetName]は[TRIGGERED_LEGEND_SEED.GetName( CHARACTER.Self )]の[legend_seed|e]の資格が#bold ない#!"
+ not_has_triggered_legend_seed_third: "[CHARACTER.GetName] does #bold not#! qualify for the [TRIGGERED_LEGEND_SEED.GetName( CHARACTER.Self )] [legend_seed|e]"
  any_legend_promoter_global: "いずれかの[legend|E]の後援者"
  any_legend_promoter_third: "いずれかの[LEGEND.GetName]の後援者"
  any_legend_promoter_count_global: "[legend|E]$PARAMETERS$の後援者"

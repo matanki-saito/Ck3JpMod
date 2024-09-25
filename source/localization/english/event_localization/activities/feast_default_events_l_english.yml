@@ -520,3 +520,7 @@
  feast_default.5020.b: "[ROOT.Char.GetFaith.KnowledgeGodName|U]は私を通して降臨する！"
  feast_default.5020.c: "私には[ROOT.Char.GetFaith.WarGodName]のごとき心胆がある！"
  feast_default.5020.d: "なぜこのような静寂を台無しにするのか？"
+ feast_default.6231.d: "Let's bring out my finer wines."
+ medieval_dance_syrtos: "syrtos"
+ medieval_dance_kerchief: "kerchief dance"
+ feast_default.9002.desc_roughed_up: "\n\nWhat a feast! My bags are laden with stolen silver cutlery and [host.Custom('GetExpensiveMeal')], that [host.Custom('InsultNoun')] [host.GetFirstNameNoTooltip] never should have insulted me!"

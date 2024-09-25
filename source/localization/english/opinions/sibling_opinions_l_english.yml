@@ -19,3 +19,7 @@
  told_off_by_stressed_sibling_opinion:0 "叱られた"
  sibling_delivered_just_judgement_opinion:0 "良い判断"
  delivered_just_judgement_opinion:0 "良い判断"
+ no_more_favorite_opinion: "No More Favorite"
+ made_favorite_opinion: "Am Favorite"
+ is_favorite_opinion: "Is Favorite"
+ has_favorite_opinion: "Has Favorite"

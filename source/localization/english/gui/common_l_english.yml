@@ -66,7 +66,7 @@
  UNLANDED_TITLE:0 "[CHARACTER.GetShortUIName]の$SUBJECT_TYPE$"
  RIGHT_CLICK_DISMISS:0 "#I 右クリックで無視#!"
  REALM_TOOLTIP_HOLDER:0 "[ruler|E]: [TITLE.GetHolder.GetName]\n現在の[line_of_succession|E]:\n[TITLE.GetLineOfSuccessionDesc]\n"
- COA_REALM_TOOLTIP_CHARACTER:4 "#T [CHARACTER.GetPrimaryTitle.GetNameWithUnderlyingNoTooltip|U]#!\n[CHARACTER.GetGovernment.GetName]国家、[CHARACTER.GetPrimaryTitle.GetRankConcept][Concept( 'rank', '級' )|E]の[realm|E]\n[ruler|E]: [CHARACTER.GetUIName|U]\n軍事力: [CHARACTER.GetMilitaryStrengthText|V]の[soldiers|E]\n領国規模: [CHARACTER.RealmSize|V]の[counties|E]\n\n#S 継承#!\n継承法: $SUCCESSION_FORM_NAME$\n\n[line_of_succession|E]:\n[CHARACTER.GetPrimaryTitle.GetLineOfSuccessionDesc]"
+ COA_REALM_TOOLTIP_CHARACTER:4 "#T [CHARACTER.GetPrimaryTitle.GetNameWithUnderlyingNoTooltip|U]#!\n[Character.Custom('GetRealmOrDomicileTooltip')]\n[holder|E]: [CHARACTER.GetUIName|U]\nMilitary Strength: [CHARACTER.GetMilitaryStrengthText|V] [soldiers|E]\n[SelectLocalization( GreaterThan_int32( CHARACTER.RealmSize, '(int32)0' ), 'COA_REALM_SIZE_TOOLTIP', 'CV_UNLANDED')]\n\n#S Succession#!\nSuccession Law: $SUCCESSION_FORM_NAME$\n\n[line_of_succession|E]:\n[CHARACTER.GetPrimaryTitle.GetLineOfSuccessionDesc]"
  CHARACTER_WINDOW_REALM_TOOLTIP:0 "[Character.GetDefaultRealmFlagTooltipNoClickInfo]\n\n[Title.GetClickInfo]"
  COA_REALM_TOOLTIP_CHARACTER_CLICK_INFO:0 "#I [Select_CString(CHARACTER.IsShownInCharacterWindow, 'クリックで所在地に移動', 'クリックで表示')]\n右クリックで[CHARACTER.GetShortUINameNoTooltip]と対話#!"
  COA_REALM_TOOLTIP_PRIMARY_TITLE_CLICK_INFO:0 "#I クリックで[CHARACTER.GetPrimaryTitle.GetNameNoTooltip|V]の主要な称号を表示#!"
@@ -103,3 +103,4 @@
  NEXT_LABEL:0 "次"
  NONE:0 "なし"
  FILTER_BY: "フィルター："
+ COA_REALM_SIZE_TOOLTIP: "Realm Size: [Character.RealmSize|V] [counties|E]"

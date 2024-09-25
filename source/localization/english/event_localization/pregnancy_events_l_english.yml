@@ -139,3 +139,4 @@
  pregnancy.2050.t:0 "別人"
  pregnancy.2050.desc.polyamorous:0 "悩み苦しんだ末、その兆候は明らかとなった。私には子供がいるのだ！\n\n[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]が本当の父親であることに疑いの余地はない。"
  pregnancy.2050.desc:0 "悩み苦しんだ末、その兆候は明らかとなった。私には子供がいるのだ！\n\n私が[spouse.Custom2('MyCharacterIntroduction', ROOT.Char)]に不貞を働いていることは、もはや誰もが知っているため、喜びようもない。父親が[real_father.Custom2('MyCharacterIntroduction', ROOT.Char)]であることは疑う余地もない…"
+ pregnancy_not_first_child_message_title: "[spouse.Custom2('RelationToMe', SCOPE.sC('mother'))|U] Falls Pregnant"

@@ -62,4 +62,3 @@
  culture_parameter_unlock_maa_tawashi: "[GetMaA('tawashi').GetName]の[men_at_arms|E]を雇用できます"
  TRADITION_HARDER_TO_CULTURE_CONVERT: "[cultural|E]の[tradition|E]のペナルティ"
  culture_parameter_harder_to_convert_county_culture: "この[culture|E]の[counties|E]への[promote_culture|E]が困難になる"
- master_assassin_employer_custom_effect_description: "$BULLET$暗殺[scheme|E]をアンロックする\n@alert_icon!#alert_trial [knight|E]になれなくなる#!"

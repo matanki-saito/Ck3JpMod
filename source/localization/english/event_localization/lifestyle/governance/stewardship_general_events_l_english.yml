@@ -19,7 +19,7 @@
  stewardship_general.5013.desc:1 "私が庭を散歩していると、[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('carp_food'))][carp_food.GetTitledFirstName]が鯉の池の傍にある岩に座っているのに気がつく。池の縁に身を乗り出して、[carp_food.GetSheHe]は水の中で指を動かしている。一つの影が水面下で蠢いていた…"
  stewardship_general.5013.a:0 "[carp_food.GetFirstNameNoTooltip]、下がれ！そこから下が…あぁ！"
  stewardship_general.5041.t:0 "はぐれ召使い"
- stewardship_general.5041.desc:0 "卑しい[ROOT.GetCharacter.Custom('lowly_servant_type')]が我が家から盗みを働いていた！"
+ stewardship_general.5041.desc:0 "A lowly [ROOT.GetCharacter.Custom('lowly_servant_type')] has been stealing from my [ROOT.Char.Custom('GetCourt')]!"
  stewardship_general.5041.desc_highgod:0 "飢えた子供達と[ROOT.Char.GetFaith.HouseholdGodName]の名のもとの慈悲について泣き言を言いながら、[servant_character.GetWomanMan]は私の前で縮こまっている。"
  stewardship_general.5041.desc_other:0 "飢えた子供達と慈悲への懇願について泣き言を言いながら、[servant_character.GetWomanMan]は私の前で縮こまっている。"
  stewardship_general.5041.desc_ending:0 "\n\n「お願いです我が[ROOT.Char.GetLadyLord]よ、貴方からの申し出は何でも致しますから！」"

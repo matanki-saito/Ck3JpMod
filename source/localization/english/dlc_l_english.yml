@@ -47,3 +47,6 @@
  DLC011_CE1: "Legends of the Dead"
  dlc_011: "$DLC011_CE1$"
  dlc_011_desc: "あなたの行いを知らしめす言葉はどこまでも広がるだろう。歴史の年代記に自分自身を書こう。己が栄光を刻んだ記念碑を建てよう。伝説が描かれた美しいタペストリーを織ろう。未来永劫歌われるだろうあなたのための物語を作るのだ。"
+ DLC014_EP3: "Roads to Power"
+ dlc_014: "$DLC014_EP3$"
+ dlc_014_desc: "Lead a noble family in an ancient empire, using influence and intrigue to secure your place, or be a wandering mercenary, building a reputation as a fixer or outlaw. New events, government systems, schemes and lifestyles are yours to explore with Roads to Power."

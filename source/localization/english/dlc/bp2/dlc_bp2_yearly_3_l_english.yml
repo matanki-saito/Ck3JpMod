@@ -1,7 +1,7 @@
 ﻿l_english:
  bp2_yearly.3000.t: "勉強はどこまで大事なのか？"
  bp2_yearly.3000.desc: "[educator.Custom2('MyCharacterIntroduction', ROOT.Char)]の声がブンブン聞こえる。[educator.GetSheHe]の講義は[ROOT.Char.GetLadyLord]として適切な作法──[educator.GetFaith.ReligiousText|U]から引用された厳格なものだ──を私に何度も何度も説くものだ。"
- bp2_yearly.3000.desc_no_educator: "また1枚ページをめくる。宮廷の中庭で楽しそうに遊ぶ子供たちが目に入って、なんとはなしに気持ちが沈む。笑い声、楽しそうな嬌声……[ROOT.Char.GetFaith.ReligiousText|U]の写本に目を再び落とす。私の机の上で何も語りはしない、つまらぬ友に。"
+ bp2_yearly.3000.desc_no_educator: "As I turn another page, I stare forlornly at the other children of the [ROOT.Char.Custom('GetCourt')] playing outside. The laughter, the joyful screams... I look back at the copy of [ROOT.Char.GetFaith.ReligiousText|U] sitting on the table."
  bp2_yearly.3000.desc_ending: "\n\nわかってるさ。これは「未来のため」、「自分のため」になることなんだ。でも、1回──それか、2回。ちょっと遊びに行ったって本気で見咎められるようなことがあるか？"
  bp2_yearly.3000.a: "いや…知は世界の鍵、だよね。"
  bp2_yearly.3000.a.tt: "あなたの教育結果はより良い結果をもたらすでしょう"

@@ -39,3 +39,8 @@
  impressive_flowers_desc:0 "この人物は、色とりどりの印象的な花々をたくさん栽培している。"
  useful_herbs:0 "薬草の栽培"
  useful_herbs_desc:0 "この人物は、さまざまな種類の薬草を栽培している。それらはきっと役に立つはずだ。"
+ 7051_repentance_modifier: "Repentance"
+ 7051_repentance_modifier_desc: "This character has repented."
+ MODIFIER_DEFINITION_VALUE_BASED_ON_KILL_LIST: " \t#weak Increase per characters killed (max #V 4#! steps)#!"
+ 7053_scratched_modifier: "Scratched"
+ 7053_scratched_modifier_desc: "This character has a scratch that defies explanation."

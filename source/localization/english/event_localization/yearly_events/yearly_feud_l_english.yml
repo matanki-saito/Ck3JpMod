@@ -1,6 +1,6 @@
 ﻿l_english:
  bp1_yearly.6000.t:0 "[my_rival.GetMotherFather|U]の罪のために"
- bp1_yearly.6000.desc:0 "中庭の喧騒を切り裂いて大きな叫び声が響く。\n\n「憎らしい[ROOT.Char.Custom('InsultNoun')|U]め！私は[my_rival.GetTitledFirstName]の[rivals_child.Custom('GetDaughterSon')]だ、お前の卑劣な悪行に答える時が来た。\n私に向き合え、さもなくばお前が自分の名誉を守る気がないことが世間に知れ渡るぞ！」\n\n振り返ると、[rivals_child.GetHerHis]の[my_rival.GetMotherFather]の名誉を守りたい一心で燃える[rivals_child.GetWomanMan]の目が目に飛び込んできた。\n\n私の護衛はまだ近くにいる——私が望むなら、この短気な人物を放り出し、恥をかかせ、無力にさせることができるだろう。"
+ bp1_yearly.6000.desc:0 "A loud scream cuts through the bustle outside my [ROOT.Char.Custom('ResidenceBuilding')].\n\n\"Hated [ROOT.Char.Custom('InsultNoun')|U]! I am the [rivals_child.Custom('GetDaughterSon')] of [my_rival.GetTitledFirstName] and the time has come for you to answer for your vile misdeeds.\nFace me, or the world will know that you are unwilling to defend your own honor!\"\n\nAs I turn around I am met by the burning eyes of a [rivals_child.GetWomanMan] consumed by the desire to defend the honor of [rivals_child.GetHerHis] [my_rival.GetMotherFather].\n\nMy guards are still nearby - if I wish I could have this hothead thrown out, humiliated and impotent."
  bp1_yearly.6000.a:0 "私の喧嘩は、お前の[my_rival.GetMotherFather]とだ、お前とではない。"
  bp1_yearly.6000.b:0 "挑戦を受けてやろう！"
  bp1_yearly.6000.c:0 "衛兵！この#EMP ガキ#!をつまみ出せ。"

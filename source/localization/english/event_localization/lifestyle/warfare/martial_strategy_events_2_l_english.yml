@@ -26,7 +26,7 @@
  martial_strategy.7000.desc_opening:0 "ある日、私が"
  martial_strategy.7000.desc_elephantry:0 "戦象の訓練をしている最中、"
  martial_strategy.7000.desc_cavalry:0 "重騎兵の訓練をしている最中、"
- martial_strategy.7000.desc_middle:0 "[worried_knight.GetTitledFirstName]が馬に乗った私に近づいてくる。[worried_knight.GetSheHe|U]は私の視線を避け、じっと地面を見つめている。迷った末に[worried_knight.GetSheHe]が口を開く。\n\n「我が[ROOT.Char.GetLadyLord|U]、我々が"
+ martial_strategy.7000.desc_middle:0 " [worried_knight.GetTitledFirstName] approaches me as I sit atop my steed. [worried_knight.GetSheHe|U] avoids my gaze and stares at the ground. After much hesitation, [worried_knight.GetSheHe] speaks up:\n\n\"My [ROOT.Char.GetLadyLord|U], all we ever seem to do with our"
  martial_strategy.7000.desc_war_elephant:0 "戦象を使ってしていることといえば、"
  martial_strategy.7000.desc_armored_horse:0 "重装備の馬を使ってしていることといえば、"
  martial_strategy.7000.desc_cont:0 "敵に向かって一直線に突撃することだけです。そろそろ別のアプローチを試みるべきではないでしょうか？」"

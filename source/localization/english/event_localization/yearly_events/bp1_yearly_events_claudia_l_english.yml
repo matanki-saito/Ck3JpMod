@@ -134,7 +134,7 @@
  bp1_yearly.1080.d.failure:0 "[spouse.GetShortUIName]はあなたの求めをはねつける"
  bp1_yearly.1080.d.failure.tt:0 "[relative.GetFirstNameNoTooltip]は解放されませんでした"
  bp1_yearly.1081.t:0 "おかえり！"
- bp1_yearly.1081.desc:0 "愛しの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('relative'))]、[relative.GetTitledFirstName]がようやく私の部屋に案内されて来た時には、私は自分の目を疑いそうになった。私の計画は成功し、[relative.GetSheHe]はついにあの[spouse.Custom('InsultAdjective')][spouse.Custom('InsultNoun')]、[spouse.GetTitledFirstName]の手から離れたのだ！\n\n[relative.GetHerHim]を火のそばに誘う仕草をしながら、私はふと、彼らがまだ婚姻状態にあることに思いを馳せる…もっと何かできることはないのか、あるいは[relative.GetHerHim]が無事で、また私のそばにいるのを見て満足すべきなのだろうか、私は考えている。"
+ bp1_yearly.1081.desc:0 "I almost can't believe my own eyes when my beloved [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('relative'))], [relative.GetTitledFirstName], is finally led back to my [ROOT.Char.Custom('GetRoom')]. My plan succeeded, and [relative.GetSheHe] is finally away from the grasp of that [spouse.Custom('InsultAdjective')] [spouse.Custom('InsultNoun')], [spouse.GetTitledFirstName]!\n\nAs I gesture for [relative.GetHerHim] to join me by the fire, it occurs to me that they are still married... I wonder if there is anything more that I can do about that, or if I should content myself with seeing [relative.GetHerHim] safe and sound by my side again."
  bp1_yearly.1081.a:0 "離婚させよう、#EMP 今すぐ#!に。"
  bp1_yearly.1081.b:0 "あなたの困難を全て聞かせておくれ…"
  bp1_yearly.1081.c:0 "#EMP 死が二人を分かつまで#!、とは…？"

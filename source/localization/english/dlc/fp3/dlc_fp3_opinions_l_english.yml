@@ -61,5 +61,5 @@
  khwarezmian_opinion: "$khwarezmian$の評価"
  afghan_opinion: "$afghan$の評価"
  imami_opinion: "$imami$の評価"
- clan_government_opinion: "[clan||E]の評価"
+ clan_government_opinion: "[clan|E] Opinion"
  fp3_split_the_muslim_world_in_two_caliphates: "カリフ魂"

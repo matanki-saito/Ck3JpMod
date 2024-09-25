@@ -21,3 +21,4 @@
  IS_A_FACTION_MEMBER_TRIGGER:0 "派閥のメンバーである"
  FACTION_CAN_PRESS_DEMANDS_TRIGGER:0 "派閥が要求を押し付けることができる"
  nation_fracturing_faction.can_character_create_ui.blocked_by_struggle: "あなたの[liege|E]が持つ一つ以上の[titles|E]が進行中の[struggle|E]によって[dissolution_faction_dissolved|E]を無効化している"
+ CHARACTER_CANNOT_LOWER_IMPERIAL_BUREAUCRACY: "[CHARACTER.GetShortUIName|U] already has the lowest possible [imperial_bureaucracy|E]"

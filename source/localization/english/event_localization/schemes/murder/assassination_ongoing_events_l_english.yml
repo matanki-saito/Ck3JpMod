@@ -44,7 +44,7 @@
  assassination_ongoing.0004.c: "この暗殺計画、考え直した方がいいか…"
  high_risk_of_dying.tt: "@warning_icon!#X [assassin.GetNameNoTooltip]は暗殺計画中に死ぬ可能性がある#!"
  assassination_ongoing.0005.t: "猛毒か害毒か"
- assassination_ongoing.0005.desc: "「我が[ROOT.Char.GetTitleTierName]」[assassin.GetName]が声をかけてきた。「[target.GetTitledFirstName]の人生に幕を下ろすために、あらゆる手段をあらゆる方法で用いなければならないことは話したな。東洋の神秘主義者の間でのみ流通する劇薬がある。だが、それを手に入れるには金がかかる。如何にする…？」"
+ assassination_ongoing.0005.desc: "\"My [ROOT.Char.GetTitleTierName],\" [assassin.GetName] says, \"we need to use every advantage at our disposal in order to end [target.GetTitledFirstName]. There is a powerful poison, consumed in small quantities by Eastern mystics, that I could use to coat my blade. But it will be expensive to procure...\""
  assassination_ongoing.0005.a_you: "無用だ。毒ぐらい私が作ってやる！"
  assassination_ongoing.0005.a_them: "あなたは熟練した庭師です、いくつか毒草には心当たりがあるでしょう。"
  assassination_ongoing.0005.b: "大義の為、今更金など惜しむか！"

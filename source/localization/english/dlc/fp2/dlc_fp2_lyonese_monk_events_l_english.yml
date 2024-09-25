@@ -73,7 +73,7 @@
  fp2_lyonese_monk.0411.b:0 "馬鹿なことを言うな！"
  fp2_lyonese_monk.0411.b.tt:0 "[acolyte.GetFirstNamePossessiveNoTooltip]の夢は完全に打ち砕かれます"
  fp2_lyonese_monk.0421.t:0 "$fp2_lyonese_monk.0000.t.revealed$ 高まる怒り"
- fp2_lyonese_monk.0421.desc:0 "ただ静かな夕食を。ただ。静かな。夕食を。どこの間抜け給仕が[irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)]を[acolyte.GetFirstName]の隣に座らせたのだ？\n\n「今#EMP 何と#!言った？」[irate_theocrat.GetFirstNameNoTooltip]は金切り声をあげるとよろめき、果物やロールケーキをあたりにまき散らす。「お前が中傷しているのは[irate_theocrat.GetFaith.HighGodName]の永遠で同質の息子なのだぞ！」部屋は凍りつくような静けさに包まれ、皆の視線は口論している聖職者たちに向けられている。\n\n「私は誰も中傷してなどいない。あなたは私のキリスト教論のニュアンスを理解していないだけで、私はあなたを責める気にはなれない。少なくともあなたの…」[acolyte.GetFirstNameNoTooltip]は一瞬動きを止める。「…欠陥について考えなければ。」"
+ fp2_lyonese_monk.0421.desc:0 "Just one quiet dinner. Just. One. Quiet. Dinner. Which moron in the serving staff even sat [irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)] next to [acolyte.GetFirstName]?\n\n\"#EMP What#! did you just say?\" shrieks [irate_theocrat.GetFirstNameNoTooltip], lurching to [irate_theocrat.GetHerHis] feet, scattering fruit and rolls everywhere. \"That's the eternal and consubstantial Son of [irate_theocrat.GetFaith.HighGodName] you slander, [acolyte.GetWomanMan]!\" The room grows deadly silent, everyone's gaze fixed on the arguing clerics.\n\n\"I slander no one. You simply fail to appreciate the nuances of my Christology, and I can't bring myself to blame you. At least, not considering your...\" [acolyte.GetFirstNameNoTooltip] pauses for a moment, \"... deficiencies\"."
  fp2_lyonese_monk.0421.a:0 "[irate_theocrat.GetFirstNameNoTooltip]、少しは礼儀をわきまえろ！"
  fp2_lyonese_monk.0421.b:0 "[acolyte.GetFirstNameNoTooltip]、あなたは[irate_theocrat.GetHerHis]の権威を尊重する#EMP べきだ#!！"
  fp2_lyonese_monk.0421.c:0 "二人は思ったよりも多くの共通点を持っているのではないか？"

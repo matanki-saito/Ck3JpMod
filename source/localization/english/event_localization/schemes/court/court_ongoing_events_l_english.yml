@@ -77,7 +77,7 @@
  court_ongoing.1021.cat_pet.success:0 "[owner.GetShortUINameNoTooltip]があなたに猫を与える"
  court_ongoing.1021.dog_pet.success:0 "[owner.GetShortUINameNoTooltip]があなたに犬を与える"
  court_ongoing.1021.pet.failure:1 "[owner.GetShortUINameNoTooltip]はあなたにペットを与えない"
- court_ongoing.1021.c:0 "[necklace_owner.GetTitledFirstNamePossessiveNoTooltip]のネックレスは素敵だな…"
+ court_ongoing.1021.c:0 "[necklace_owner.GetTitledFirstNamePossessive]のネックレスは素敵だな…"
  court_ongoing.1021.necklace.success:0 "[owner.GetShortUINameNoTooltip]があなたにネックレスを与える"
  court_ongoing.1021.necklace.failure:0 "[owner.GetShortUINameNoTooltip]はネックレスを与えるのを拒む"
  court_ongoing.1021.d:0 "なにか珍しいものがほしいな。 異国の蘭とか？"

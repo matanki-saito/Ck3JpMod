@@ -17,7 +17,7 @@
  story_event_legends.0003.t: "[legend_protagonist.GetTitledFirstNameNoTooltip]の御業"
  story_event_legends.0003.desc.intro: "これが[legend_protagonist.GetTitledFirstName]と[legend_protagonist.GetHerHis]が為した奇跡を記す、全ての[legend_protagonist.GetFaith.GetAdherentNamePluralNoTooltip]に知られし本の最後の一文である。ああ、無欠たる[legend_protagonist.GetFaith.HighGodName]よ。願わくばこの[promoted_legend.GetName]に御名の下の祝福を───\n\n"
  story_event_legends.0003.desc.famous_deed: "#EMP [promoted_legend.GetChapterDescriptionByName('famous_deed')]#!"
- story_event_legends.0003.desc.fallback: "#EMP [legend_protagonist.GetTitledFirstNamePossessiveNoTooltip|U]の伝説は驚くべき驚異の数々だ。[legend_protagonist.GetSheHe|U]は花を咲かせ、病人を癒し、不毛の土地に大いなる実りを齎す……そんな奇跡を幾つも為してきたというのだから。#!"
+ story_event_legends.0003.desc.fallback: "#EMP [legend_protagonist.GetTitledFirstNamePossessiveNoTooltip|U] legend is one of many marvels. [legend_protagonist.GetSheHe|U] did many miracles, innumerable, and flowered in many virtues. The sick were healed in [legend_protagonist.GetHerHis] presence, and plants grew from the barren land.#!"
  story_event_legends.0003.desc.outro: "\n\n最後にこう書いてある。「是は[GetCurrentDate.GetStringLong]、[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]で遺されし説話」。"
  story_event_legends.0003.a: "かくあるべし。"
  can_select_legendary_culture_pillars_tt: "あなたが[culture|E]から[diverge|E]する時にあなたの伝説的な文化から[heritage|E]と[language|E]を選ぶことが出来ます"

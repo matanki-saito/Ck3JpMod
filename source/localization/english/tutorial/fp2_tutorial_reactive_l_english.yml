@@ -28,3 +28,4 @@
  lessons_struggle_involvement_view_open_prompt:1 "闘争の参加勢力ビューを開いてください"
  lessons_struggle_involvement_view:0 "闘争の参加勢力"
  lessons_struggle_involvement_view_desc:0 "ここでは、あなたの関与の情報を、あなたが[struggle_involved|E]、[struggle_interloper|E]または[struggle_uninvolved|E]などの内訳とともに見ることが出来ます。\n\nあなたの個人的な関与とともに、[struggle|E]参加者のリストとその関与を見ることが出来ます。[struggle_involved_cultures|E]と[struggle_involved_faiths|E]は、ここでも見ることが出来ます。\n\n#TUT 他のプレイヤーの関与を知ることは、どの〈きっかけ〉を追求するかを計画する際に重要です。なぜなら、〈きっかけ〉は、他の[struggle|E]参加者、[faith|E]または[culture|E]をターゲットにするよう仕向けるかもしれないからです。#!"
+ reactive_advice_struggle_introduction: "$lessons_struggle_introduction$"

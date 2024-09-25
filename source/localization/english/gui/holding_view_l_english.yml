@@ -103,7 +103,7 @@
  COUNTY_DEVELOPMENT_LEVIES_MULT:1 "[levies|E]が$MULT|%+1$増加します"
  COUNTY_DEVELOPMENT_TAX_MULT:0 "[taxes|E]が$MULT|%+0$増加します"
  COUNTY_DEVELOPMENT_SUPPLY_BONUS:0 "[supply_limit|E]が$VALUE|=+0$増加します"
- COUNTY_DEVELOPMENT_IGNORED_DESC:4 "[development|E]は[county|E]の所有者が[GovernmentType.GetName|V]政体のため無視されます([supply_limit|E]への影響を除く)"
+ COUNTY_DEVELOPMENT_IGNORED_DESC:4 "[development|E] is ignored (except for its effect on the [supply_limit|E]) because the owner of the [county|E] has a [GovernmentType.GetNameWithIcon|V] government"
  COUNTY_DEVELOPMENT_NO_EFFECTS:0 "#weak 影響なし#!"
  COUNTY_OPINION_TOOLTIP:1 "[County.GetCount.GetUIName]の領民の評価"
  COUNTY_NOT_YOUR_CULTURE:0 "@warning_icon!#X 伯爵領はあなたの[culture|E]ではありません#!"
@@ -181,3 +181,4 @@
  DISABLED_LEGEND_PROVINCE_MODIFIERS: "@alert_icon![county|E]と[barony|E]の補正値は無効化されています。[barony|E]は[legend|E]の所有者か後援者の領国の一部である必要があります"
  HOLDING_VIEW_EPIDEMIC_RESISTANCE: "[epidemic_res|E]："
  HOLDING_VIEW_EPIDEMIC_RESISTANCE_VALUE: "@epidemic_icon! [Province.GetEpidemicResistance]"
+ HOLDING_TERRAIN_TOTAL_TOOLTIP: "#T [Province.GetTerrain.GetNameNoTooltip]#!\n[Province.GetTerrainTooltipFor(GetPlayer)]"

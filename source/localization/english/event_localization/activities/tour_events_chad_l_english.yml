@@ -70,7 +70,7 @@
  tour_grounds_events.6205.b.flavor:0 "あなたは[stop_host_scope.GetHerHis]の傲慢のために[stop_host_scope.GetFirstNameNoTooltip]を叩きのめす。"
  tour_grounds_events.6205.c:0 "私が寛大な性格で良かったな。"
  tour_grounds_events.6300.t:0 "演奏の機会"
- tour_grounds_events.6300.desc:0 "[stop_host_scope.GetTitledFirstName]が[event_location.GetName]を案内してくれたので、我々は軍隊の訓練場にやって来た。[stop_host_scope.GetHerHis]の兵士全員が集結し、空気は期待でざわめいている。[stop_host_scope.GetFirstNameNoTooltip]は歯を見せて笑う。\n\n「我が主君、我々は、あなたの偉大な武勇をたくさん聞いてきました。この兵士たちに#EMP 本物の#!訓練がどのようなものかを見せる機会を逃すのはもったいないことです！領国のために、[target_knight.GetFirstName]と練習試合をしてはいただけませんか？」"
+ tour_grounds_events.6300.desc:0 "As [stop_host_scope.GetTitledFirstName] is showing me around [event_location.GetName], we come to the military training grounds. All [stop_host_scope.GetHerHis] men at arms have assembled and the air is buzzing with anticipation. [stop_host_scope.GetFirstNameNoTooltip] cracks a toothy grin.\n\n\"My liege, we have heard so many stories of your great prowess. I would be remiss to pass up an opportunity to show these soldiers what a #EMP real#! sparring session looks like! Would you spar with [target_knight.GetFirstName] for the good of the realm?\""
  tour_grounds_events.6300.a:0 "手本を見せてやろう。"
  tour_grounds_events.6300.a.success:0 "あなたは練習試合に勝つ"
  tour_grounds_events.6300.a.failure:0 "あなたは練習試合に敗れる"

@@ -19,3 +19,8 @@
  blackmailed_by_agent_opinion:0 "スパイに恐喝された"
  hero_of_the_moment_opinion:0 "私の命を救った"
  opinion_scheme_code_rejected:0 "暗号化のアイデアを拒否した"
+ seized_my_realm_crime: "Seized my Realm"
+ seized_lieges_realm_crime: "Seized Liege's Realm"
+ seized_close_family_realm_crime: "Seized Close Family's Realm"
+ attempted_to_seize_my_realm_crime: "Attempted to Seized my Realm"
+ attempted_to_seize_realm_close_family_crime: "Attempted to Seize Close Family's Realm"

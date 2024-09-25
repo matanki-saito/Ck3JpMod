@@ -22,7 +22,7 @@
  south_asia.0012.a.like:0 "永遠は新しい守護者を得たようだ。"
  south_asia.0012.a.dislike:0 "まるで、誰かが[ruler_of_ganges.GetHerHim]のような日和見主義者を尊重するかのように！"
  south_asia.0013.t:0 "簒奪されし聖なる意図"
- south_asia.0013.desc:0 "領土を失ったことで、ガンジス川への私の権威は、もはやわが領国の人々や[ROOT.Char.GetFaith.PriestNeuterPlural]から尊重されなくなった。かわって[ruler_of_ganges.GetTitledName]が、かつて私が聖なる川の管理者として号した地位を主張している。"
+ south_asia.0013.desc:0 "With my loss of territory, my authority over the Ganges is no longer respected by the people and [ROOT.Char.GetFaith.PriestNeuterPlural] of my realm! Instead [ruler_of_ganges.GetTitledFirstName] has claimed the position I once commanded as the Steward of the Sacred River."
  south_asia.0013.a:0 "あの成り上がりはただの詐欺師だ！"
  south_asia.0021.t:0 "$k_bene_israel$の[founder.GetTitleAsNameNoTooltip]"
  south_asia.0021.desc:0 "ユダヤ人は遊牧生活を余儀なくされ、世界各地の小さな飛び地に住んでいるため、自分たちの故郷と呼べるような場所を持っていなかった。何世紀にもわたる放浪の旅は、ついに終わりを迎えたようだ。\n\n[founder.GetNameNoTooltip]は$k_bene_israel$の[founder.GetTitleAsNameNoTooltip]として戴冠された。ありえないことだが、ユダヤ人はインドの西海岸に故郷を見つけたようで、[founder.GetFaith.ReligiousHeadTitleName]が復元され、新しいイスラエルが宣言されたことで、[founder.GetTitledFirstNameNoTooltip]は、自身が世界中のユダヤ教の信者のために新しい黄金時代を切り開くと信じている。"

@@ -29,7 +29,7 @@
  bp1_yearly.4010.c_effect:0 "[child_to_change_guardian.GetFirstNamePossessive]の[education|E]は大きく進展する"
  bp1_yearly.4020.t:0 "詩で綴られた友情"
  bp1_yearly.4020.desc:1 "「[ROOT.Char.GetFirstNameNoTooltip]、最近あなたが[war_memory_participant.GetTitledFirstName]に勝利した時のことを思い返していたのです——それで、あなたの戦勝についての詩を書きました！」[poetry_friend.GetFirstName]はそう言うと、咳払いをした。\n\n[poetry_artifact.GetName]\n[poetry_artifact.GetDesc]"
- bp1_yearly.4020.a:0 "宮殿に飾ろう！"
+ bp1_yearly.4020.a:0 "I shall have it recited to the [ROOT.Char.Custom('GetCourt')]!"
  bp1_yearly.4020.b:0 "友よ、ありがとう。この詩は大事に取っておこう。"
  bp1_yearly.4020.c:0 "ヘッヘッヘッ！この写しを[war_memory_participant.GetFirstNameNoTooltip]の知人全員に送ってやる！"
  bp1_yearly.4020.d:0 "やりすぎだ。このような賞賛に浴するのは[ROOT.Char.GetFaith.HighGodName]のみだ。"

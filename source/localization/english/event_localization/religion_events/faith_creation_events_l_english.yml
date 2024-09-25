@@ -41,5 +41,5 @@
  faith_creation.1010.desc.end.personal:0 "\n\n私の後ろでようやく信者たちが統一されたことで、私は[faith.GetNameNoTooltip]を新たな黄金時代へと導くだろう。"
  faith_creation.1010.a:0 "[faith.HighGodName]に栄光あれ！"
  faith_creation.1011.message.title:0 "宗教指導者の確立"
- faith_creation.1011.message.desc:0 "これまで指導者が不在であった[faith.GetAdjective][faith.AltPriestTermPlural]は[HoF.GetFirstName]を彼らの新しい[faith.ReligiousHeadName]としました"
+ faith_creation.1011.message.desc:0 "The [faith.GetAdjective] [faith.AltPriestTermPlural] have proclaimed [faith.ReligiousHeadName|U] [HoF.GetFirstName] their [head_of_faith|E]"
  faith_creation.1001.desc.spiritual.sameold:0 "\n\n[reformed_faith.GetAdjectiveNoTooltip]の[reformer.Custom('DefaultPriestTitlePlural')]は、[reformed_hof.GetFirstNameNoTooltip]の続投を選択した。引き続き[reformed_hof.GetSheHe]は[reformed_faith.ReligiousHeadName]となり、あまねく[reformed_faith.GetAdjectiveNoTooltip]世界がために教義を定め、宗派間紛争を調停していくこととなる。"

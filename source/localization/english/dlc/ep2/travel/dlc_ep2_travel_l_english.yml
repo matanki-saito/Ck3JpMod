@@ -116,3 +116,4 @@
  TRAVEL_NAME_FOR_activity_funeral: "$TRAVEL_NAME_FOR_activity_tournament$"
  travel_danger_type_epidemic: "伝染病"
  travel_danger_type_epidemic_desc: "この[barony|E]は[epidemic|E]に感染している"
+ TRAVEL_NAME_FOR_activity_chariot_race: "[Character.GetFirstNamePossessiveNoTooltip] journey to the Hippodrome"

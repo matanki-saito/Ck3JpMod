@@ -25,7 +25,7 @@
  LEGACY_DYNASTY_UNLOCK_SHARE_SECRETS:1 "#V $share_known_secrets_interaction$#!をアンロック: 既知の[secrets|E]を[house|E]のメンバーと交換します"
  LEGACY_DYNASTY_UNLOCK_DISINHERIT_CHILDREN:0 "[dynasty|E]のメンバーは、[prestige_i][prestige|E]と[tyranny|E]のコストで[children|E]を[disinherit|e]できます。"
  LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:2 "あなたの[house|E]に属する[councillors|E]から[Concept('skills','能力')|E]の#P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#!を得ます"
- inner_circle_salary_mod:0 "$fp2_coterie_legacy_1_name$"
+ inner_circle_salary_mod:0 "[GetDynastyPerk('fp2_coterie_legacy_1').GetName]"
  share_known_secrets_interaction:0 "秘密共有"
  share_known_secrets_interaction.tt.no_secrets_to_share:1 "共有するのに適した秘密はないと感じています"
  share_known_secrets_interaction_desc:0 "既知の[secrets|E]を[recipient.GetShortUINameNoTooltip]と交換します: あなたの知っている秘密を教えて、[recipient.GetHerHis]の知っている秘密を知ります"

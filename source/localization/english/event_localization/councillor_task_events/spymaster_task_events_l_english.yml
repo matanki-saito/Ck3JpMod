@@ -5,7 +5,7 @@
  spymaster_task.0311.notification:0 "[councillor.GetCouncilTitle]: 秘密を掴んだ"
  spymaster_task.0341.t:0 "諜報: 性的倒錯"
  spymaster_task.0311.secret_deviant.shared:0 "\n\n私には[secret_holder.GetSheHe]が喜びを求める異常なやり方が信じられない。まともな[secret_holder.GetWomanMan]なら憤慨するだろうが、しかし[secret_holder.GetSheHe]はそれ以上に喜んでいる…確かに、熱心に！"
- spymaster_task.0311.secret_deviant:1 "\n\n[secret_holder.GetSheHe]が快楽を求める方法、それはまともな[secret_holder.GetWomanMan]なら考えたことすらない代物だった。しかし、[secret_holder.GetSheHe]は単に喜んでいるのではない、熱望しているのだ！全くもって異常で不快だ。いや——#emphasis それは#!異常で不快な、[secret_holder.GetFaith.HighGodName]に対する犯罪だ！"
+ spymaster_task.0311.secret_deviant:1 "\n\n[secret_holder.GetSheHe]が快楽を求める方法、それはまともな[secret_holder.GetWomanMan]なら考えたことすらない代物だった。しかも、単にその気があるに留まらない、その様はまるで熱望だ！全くもって異常かつ不快である。いや——[ROOT.Char.GetFaith.HighGodName]への異常で不快な侮辱と言っても#emphasis 過言ではない#!！"
  spymaster_task.0341.a:0 "おい召使い！バケツを持ってきてくれ、あぁ——#EMP 吐きそうだ#!"
  spymaster_task.0341.a.deviant:0 "もう一度説明してくれ。できるだけ詳しく…"
  spymaster_task.0341.a.detached:0 "全くもって胸が悪くなりそうだが、知っておくと便利だ。"

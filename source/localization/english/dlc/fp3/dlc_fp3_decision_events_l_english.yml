@@ -1,7 +1,7 @@
 ﻿l_english:
  fp3_struggle.0051.t: "イランの幕間劇"
  fp3_struggle.0051.desc: "かつては不動であった[Mostaza.GetPrimaryTitle.GetBaseName]は、血塗られた政争に巻き込まれている。支配者の一族は互いに殺し合い、[GetFaithByKey('ashari').ReligiousHeadTitleName|U]を簒奪するために相争っている。イラクは混乱し、東の山々の向こうでは、ペルシアの辺境の領主たちがこの状況を利用して独立を主張し、バグダードの瓦礫から自らの帝国を築こうとしている。\n\n"
- fp3_struggle.0051.desc.caliph: "私の背後には、[Mostaza.GetTitleTierName]たち、[Mutawakkil.GetFirstName]、[Muntasir.GetFirstName]、そして[Mustain.GetFirstName]といった亡霊たちが静かに佇んでいる—―彼らは皆、この[struggle|E]の犠牲となった者たちだ。反抗的なペルシア人と裏切り者のテュルク人は、私が先代の亡霊たちに仲間入りするのを期待しているが、私にはまだ局面を好転させる力がある！"
+ fp3_struggle.0051.desc.caliph: "Behind me stands a pale row of ghosts; the [Mostaza.GetTitleTierName]s [Mutawakkil.GetFirstName], [Muntasir.GetFirstName], and [Mustain.GetFirstName] — all casualties of this [struggle|E]. The rebellious Persians and treacherous Turks are eager to see me join the specter of my predecessors, but I can still turn the tide!"
  fp3_struggle.0051.desc.involved: "これは[ROOT.Char.GetHouse.GetNameNoTooltip]家が行動し栄光に昇るべき時だ。我々はカリフ国の救世主となるのか、それとも統一されたウンマの夢を完全に打ち砕くのか、その選択を迫られている。"
  fp3_struggle.0051.desc.interloper: "最後の3人の[Mostaza.GetTitleAsNameNoTooltip]が突如として絶命した中、誰もが[Mostaza.GetFirstName]も同じ運命に追随するだろうと予測している。この混沌と不確かさの中で、[ROOT.Char.GetHouse.GetNameNoTooltip]家には様々な機会が広がっている…"
  fp3_struggle.0051.desc.supporter: "かつてないほどに[ROOT.Char.GetHouse.GetNameNoTooltip]家の忠誠心と安定した勤勉さが必要とされている。今こそ我々が栄光を追求し、カリフ国を救い、[ROOT.Char.GetFaith.GetAdjective]の理念の真の擁護者となるべき時だ！"
@@ -355,3 +355,4 @@
  fp3_misc_decisions.0031.b: "[batch_b_char1.GetFirstNameNoTooltip]の能力により心動かされた…"
  fp3_misc_decisions.0031.c: "見なかったことにする。さあ、帰れ！"
  fp3_misc_decisions.0031.c.tt: "下民たちに適性は無いようだ"
+ fp3_struggle.0071.b: "Victory is sweet, but we can become something more!"

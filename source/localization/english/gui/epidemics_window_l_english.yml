@@ -5,7 +5,7 @@
  EPIDEMIC_INTENSITY: "#medium [Epidemic.GetIntensityName]"
  EPIDEMIC_OUTBREAK_DATE: "[Epidemic.GetOutbreakStartDate.GetString]から"
  EPIDEMIC_OUTBREAK_LOCATION: "[Epidemic.GetStartingOutbreakProvince.GetName]で発源した"
- EPIDEMIC_TOTAL_DEATH_TOLL: "[Concept( 'fatalities', '$game_concept_fatalities$' )|E]: @death_icon! [Epidemic.GetTotalCharacterDeaths|V]"
+ EPIDEMIC_TOTAL_DEATH_TOLL: "[Concept( 'fatalities', '$game_concept_fatalities|q$' )|E]: @death_icon! [Epidemic.GetTotalCharacterDeaths|V]"
  EPIDEMICS_IN_OWN_REALM: "領国の[epidemics|E]"
  EPIDEMICS_IN_OWN_REALM_EMPTY: "あなたの領国に[epidemics|E]はない"
  EPIDEMICS_NEARBY: "近隣の[epidemics|E]"

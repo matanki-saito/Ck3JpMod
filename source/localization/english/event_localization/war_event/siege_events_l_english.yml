@@ -40,3 +40,5 @@
  siege.1007.pow_toast.t:0 "$siege.1005.pow_toast.t$"
  siege.1007.pow_toast.desc:2 "[occupant.GetTitledFirstName]は[barony.GetNameNoTier]を包囲後、[valuable_prisoner.Custom2('NamePossessiveCharacterIntroduction', primary_siege_defender)]を捕虜とした"
  siege.1007.pow_toast.desc.primary:2 "[occupant.GetTitledFirstName]は[barony.GetNameNoTier]を包囲後、我が敵[valuable_prisoner.GetTitledFirstName]を捕虜とした"
+ war_siege: "siege"
+ war_raid: "raid"

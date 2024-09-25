@@ -44,3 +44,5 @@
  epidemics_desc: "#T 伝染病#!\nマップ上に[epidemics|E]の広がりを表示します"
  legends: "@legend_icon!伝説"
  legends_desc: "#T 伝説#!\n[legends|E]の伝播を地図上に表示"
+ landless_rulers: "@landless_rulers_icon!土地なしの統治者"
+ landless_rulers_desc: "#T Landless Rulers#!\nShows the landless rulers on the map."

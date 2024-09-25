@@ -1,6 +1,6 @@
 ﻿l_english:
  martial_strategy.1051.t:0 "一般的な噂"
- martial_strategy.1051.desc:0 "宮廷で最も人気のある話題は常に変化しているが、最近は、私の軍事司令官としての特筆すべき能力と、その成功の秘訣についての議論が流行っているようだ。\n\nこの天性の好奇心を利用して自分の評判を高めることができるが、その前に私の成功の理由を決めなければならない…"
+ martial_strategy.1051.desc:0 "The most popular topic of conversation in [ROOT.Char.Custom('GetCourt')] is ever-changing, but one recent trend has been the discussion of my notable skill as a military commander — and what the secret to my success is.\n\nI can use this natural curiosity to bolster my reputation, but first I must decide what to attribute my success to..."
  martial_strategy.1051.a:0 "私には天性の才能があり、他の誰よりも優れている。"
  martial_strategy.1051.a.humble:0 "自分の限界を知っているということは、それを回避することができるということだ。"
  martial_strategy.1051.b.brave:0 "我が勇気が部隊を奮い立たせ、戦うことを促している。"
@@ -196,8 +196,8 @@
  martial_strategy_special.1404.desc:1 "私の護衛が小さな野営地に関する知らせを持ってきたとき、私は兵士たちがまだ戦いの陣形の訓練を行なっているとは思わなかった。\n\n[knight.Custom2('MyCharacterIntroduction', ROOT.Char)]は、本隊からの連絡を待ちながら、自ら野戦演習を続けていたようだ。[knight.GetHerHis|U]の部隊が整然と並んでいる中、私は[knight.GetHerHim]に会うために乗り込む。"
  martial_strategy_special.1404.a:0 "それは私の命令ではない！"
  martial_strategy_special.1404.b:0 "この雑な構えは何だ？それは剣の持ち方ではない！"
- martial_strategy_special.1404.c:0 "兵士たちを連れて帰れ、[knight.GetFirstName]。私は探索に疲れた。"
- martial_strategy_special.1404.d:0 "[soldier_friend.GetTitledFirstName]がこの部隊を担当することができる。"
+ martial_strategy_special.1404.c:0 "Take the men home, [knight.GetFirstNameNoTooltip]. I am tired of searching."
+ martial_strategy_special.1404.d:0 "[soldier_friend.GetTitledFirstNameNoTooltip] can take charge of these troops."
  martial_strategy_special.1404.d.tt:0 "[soldier_friend.GetSheHe|U]が彼らを安全に城まで連れていくだろう。"
  martial_strategy_special.1405.t:0 "行軍にて"
  martial_strategy_special.1405.desc:1 "小さな村を通っていると、粗末な身なりにもかかわらず、町の見張りが皆、私の紋章のついた武器を持っていることに気がついた！\n\nぬかるんだ道で出迎えてくれたのは、自称、町の「神の守護者」である[zealot.GetTitledFirstName]であった。私の兵士たちは、この説教者が仕える[zealot.GetFaith.HighGodName]を助けるために鎧を捨てたのだ！"

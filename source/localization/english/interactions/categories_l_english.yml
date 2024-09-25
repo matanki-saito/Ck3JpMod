@@ -17,3 +17,5 @@
  MORE_INTERACTIONS:0 "#weak その他...#!"
  DIARCH_ACTIONS:0 "共同統治"
  CLAN_ACTIONS: "氏族の行動"
+ ADMIN_ACTIONS: "administrative actions"
+ LAAMP_ACTIONS: "landless adventurer actions"

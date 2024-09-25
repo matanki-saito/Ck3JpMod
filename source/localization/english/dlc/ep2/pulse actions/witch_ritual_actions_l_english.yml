@@ -12,3 +12,8 @@
  praised_horned_god_together_title:0 "[first.GetShortUIName|U]は[second.GetShortUIName|U]の有角神を讃えた"
  apa_imbued_artifact_title:0 "[first.GetShortUIName|U]は[artifact.GetName]に悪魔の力を吹き込んだ"
  artifact_monthly_piety_gain_mult_1_modifier:0 "地獄の銘文"
+ small_animal_plural_rabbit: "rabbits"
+ small_animal_plural_squirrel: "squirrels"
+ small_animal_plural_mouse: "mice"
+ small_animal_plural_hedgehog: "hedgehogs"
+ small_animal_plural_bird: "birds"

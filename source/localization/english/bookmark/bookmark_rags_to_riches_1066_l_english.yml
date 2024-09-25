@@ -46,7 +46,7 @@
  bookmark.1068.b_flavor: "あなたの[liege|E]である[emperor.GetTitleAsNameNoTooltip]はあなたに対して、様々な用途に使用できる[hook|E]を負っています——例えば有益な[marriage|E]を要求する、といったような。"
  bookmark.1069.t: "我が兄弟、[jaromir.GetFirstNameNoTooltip]"
  bookmark.1069.desc: "常に悩みの種である我が“親愛なる”兄弟、[jaromir.GetFirstName]は事あるごとに私の権威に反抗する。\n\n彼は、我が良き友であるブジェヴノフの[john_monk.GetFirstName]——我が名において[ROOT.Char.GetFaith.HighGodName]に仕える、敬虔で#EMP 穏やかな#!修道士だ——とは似ても似つかない。嗚呼、私の[jaromir.GetCouncilTitle|U]を務めるのが[john_monk.GetFirstNameNoTooltip]であったならば…\n\nひょっとして、彼なら？"
- bookmark.1069.a: "[jaromir.GetFirstNameNoTooltip]を追放し、新たな[jaromir.GetCouncilTitle|U]として[john_monk.GetFirstNameNoTooltip]を任命する！"
+ bookmark.1069.a: "I will oust [jaromir.GetFirstNameNoTooltip], my new [jaromir.GetTitleAsNameNoTooltip] will be [john_monk.GetFirstNameNoTooltip]!"
  bookmark.1069.a_flavor: "高い[skills|E]を持つ[councillor|E]があなたの[friend|E]であることは、[councillor_tasks|E]が早く完了するため非常に有益です——しかし、あなたの[head_of_faith|E]を困らせるのは常に危険なことです。[claims|E]あるいは[gold|E]の要求を拒まれる可能性があるためです。"
  bookmark.1069.b: "結局のところ、[jaromir.GetFirstNameNoTooltip]は家族なのだ…そして、金は血よりも濃い。"
  bookmark.1069.b_flavor: "あなたと兄弟の間の[Concept( 'rival', 'rivalry' )|E]を除くことで、[GetScheme('murder').GetTypeName]される危険を大幅に減らすことが出来ます。"

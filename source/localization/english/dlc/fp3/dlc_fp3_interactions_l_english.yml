@@ -69,7 +69,7 @@
  fp3_request_turkic_invasion_interaction_negative_gold_offer: "受け入れ先は既に標的より多くの兵を持っており、負の値の[gold|E]を提供することになります！\n"
  recipient_secondary_fp3_request_turkic_invasion_interaction: "@trebuchet_icon!侵略者"
  fp3_request_turkic_invasion_interaction_option_join_war: "@alliance_icon!軍事支援を提供する"
- fp3_request_turkic_invasion_interaction_option_join_war_desc: "[secondary_recipient.GetShortUINameNoTooltip]の側で侵略に参加します"
+ fp3_request_turkic_invasion_interaction_option_join_war_desc: "Join the invasion on [secondary_recipient.GetShortUINamePossessiveNoTooltip] side"
  fp3_request_turkic_invasion_interaction_option_more_gold: "@gold_icon!資金を提供する"
  fp3_request_turkic_invasion_interaction_option_more_gold_desc: "より多くの戦士が大義に群がるように、彼らの不本意さを緩和できるほどの[gold|E]を提供する。"
  fp3_request_turkic_invasion_interaction_option_join_war_outcome_tooltip: "[actor.GetFirstNameOrMeRegnal|U]は[secondary_recipient.GetShortUINameNoTooltip]と一緒に侵略に参加します"

@@ -88,3 +88,6 @@
  inspiration_smith_type_incense_burner_sculpture: "香炉"
  research_inspiration_description:0 "図書館と古い魔導書を洗っている"
  research_inspiration_description_past: "[ROOT.Var('created_artifact_for').Char.GetUIName]の探索を行っている"
+ inspiration_artisan_type_icon: "an icon"
+ religious_inspiration_description: "[ROOT.Char.Custom('InspirationWritePresentFuture')] religious reforms and theses"
+ religious_inspiration_description_past: "penned religious reforms and theses for [ROOT.Var('created_artifact_for').Char.GetUIName]"

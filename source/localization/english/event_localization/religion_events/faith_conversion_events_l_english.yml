@@ -1,6 +1,6 @@
 ﻿l_english:
  faith_conversion.1001.t:0 "改宗"
- faith_conversion.1001.start:0 "[new_faith.GetName]に改宗することを決意した私は、[new_faith.PriestNeuter]を我が宮廷に招き、儀式を執り行うよう手配した。\n\n"
+ faith_conversion.1001.start:0 "With my decision to convert to [new_faith.GetName], I arranged for a [new_faith.PriestNeuter] to come to my [ROOT.Char.Custom('GetCourt')|l] and conduct the rites.\n\n"
  faith_conversion.1001.desc:0 "私の不滅の魂の運命の問題なのだ、私が正しい決断をしたことを願うしかない。\n\n哲学的な話はさておき、"
  faith_conversion.1001.desc.zealous:0 "[template_priest.GetSheHe]が[new_faith.ReligiousText]の一節を朗読しているとき、私は自分の中の信念がより強く燃え上がっているのを#EMP 感じる#!——自分が正しい道を選んだことに疑いの余地はないのだと。\n\n私の熱意がどれほど強くとも、"
  faith_conversion.1001.desc.zealous.carnal_male:0 "[template_priest.GetSheHe]が[new_faith.ReligiousText]の一節を朗読しているとき、私は自分の信念が大きく膨らんでいくのを#EMP 感じる#!——自分が正しい道を選んだことに疑いの余地はないのだと。\n\n私の熱意がどれほど強くとも、"
@@ -15,3 +15,4 @@
  faith_conversion.1001.a:0 "[ROOT.Char.GetFaith.HighGodName]に栄光を！"
  faith_conversion.1001.b:0 "少なくとも[template_priest.GetFirstNameNoTooltip]が私を導いてくれる…"
  faith_conversion.1101.toast:0 "主君が改宗した"
+ faith_conversion.1001.end.is_landless_adventurer: "the idea of [new_faith.GetNameNoTooltip] spreading — one step at a time — from my humble camp makes my heart sing."

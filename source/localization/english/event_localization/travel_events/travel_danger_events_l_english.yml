@@ -16,7 +16,7 @@
  travel_danger_events.1002.a.failure:0 "あなたは盗賊を説得できなかった"
  travel_danger_events.1002.a.failure.desc:0 "あなたは盗賊に金を払います"
  travel_danger_events.1002.b:0 "そう簡単にやるものか。#EMP 戦いだ#!！"
- travel_danger_events.1002.b.success:1 "盗賊をぶちのめす"
+ travel_danger_events.1002.b.success:1 "You beat the bandits"
  travel_danger_events.1002.b.success.desc:0 "$travel_danger_events.1002.a.success.desc$"
  travel_danger_events.1002.b.failure:1 "返り討ちにあう"
  travel_danger_events.1002.b.failure.desc:0 "$travel_danger_events.1002.a.failure.desc$"

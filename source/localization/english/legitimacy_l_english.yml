@@ -17,7 +17,7 @@
  emperor_legitimacy_type_name: "[emperor|e]の[rank|E]"
  LEGITIMACY_EFFECTS: "#S 効果：#!\n[LegitimacyLevel.GetModifierDesc]"
  LEGITIMACY_AVERAGE_EXPECTATIONS: "#S [Character.GetShortUINamePossessive|U]の平均[expected_legitimacy|E]:#!\n$BULLET$[powerful_vassals|E]: [LegitimacyType.GetFlavorName( Character.GetAveragePowerfulVassalLegitimacyExpectation )|V] #weak ([Character.GetAveragePowerfulVassalLegitimacyExpectation.GetIndex]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )])#!\n$BULLET$[vassals|E]: [LegitimacyType.GetFlavorName( Character.GetAverageVassalLegitimacyExpectation )|V] #weak ([Character.GetAverageVassalLegitimacyExpectation.GetIndex]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )])#!"
- LEGITIMACY_BELOW_AVERAGE_EXPECTATIONS: "@warning_icon! #X 封臣全員が期待する正統性を下回っています#!"
+ LEGITIMACY_BELOW_AVERAGE_EXPECTATIONS: "@warning_icon! #X Below Expected Legitimacy of all Vassals#!"
  VASSAL_BELOW_EXPECTED_LEGITIMACY_TT: "\n@warning_icon!#X [legitimacy_levels|E]は[Character.GetHerHis]の期待を下回っている：[Subtract_int32( Character.GetLegitimacyExpectationsOfLiege, GetPlayer.GetLegitimacyLevel.GetIndex )|V]#!"
  VASSAL_EXPECTED_LEGITIMACY_TT: "#T [expected_legitimacy|E]: [Character.GetLegitimacyExpectationsOfLiege]#![AddLocalizationIf( GreaterThan_int32( Character.GetLegitimacyExpectationsOfLiege, GetPlayer.GetLegitimacyLevel.GetIndex ), 'VASSAL_BELOW_EXPECTED_LEGITIMACY_TT' )]"
  legitimacy_swing_scales_cheaper_tt: "#weak [recipient.GetShortUINamePossessive]の低い[legitimacy|E]により割引（[recipient.GetLegitimacyLevel.GetIndex|V]）#!"

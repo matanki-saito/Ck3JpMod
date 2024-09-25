@@ -49,3 +49,5 @@
  losing_weight_modifier_desc:0 "この人物は痩せる努力をしています。"
  almost_drowned_modifier:0 "溺れそうになった"
  almost_drowned_modifier_desc:0 "この人物は溺れそうになったことがあり、今でもその経験に揺さぶられている。"
+ recently_maimed_modifier: "Recently Maimed"
+ recently_maimed_modifier_desc: "This character was recently severely hurt."

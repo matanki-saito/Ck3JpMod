@@ -1,5 +1,5 @@
 ﻿l_english:
- PLAYABLE_DIFFICULTY_INFO_SEPARATOR:0 "$COMMA$"
+ PLAYABLE_DIFFICULTY_INFO_SEPARATOR:0 "\n@warning_icon! "
  pdi_at_war:0 "[war|E]中です"
  pdi_no_player_heir:0 "[player_heir|E]がいません"
  pdi_primary_heir_of_wrong_dynasty:0 "[primary_heir|E]が別の[dynasty|E]"
@@ -12,3 +12,4 @@
  pdi_is_in_debt:0 "[debt|E]があります"
  pdi_has_poor_health:0 "[health|E]: $action_dying$"
  pdi_in_regency: "[regency|E]である"
+ pdi_admin_without_noble_title: "Is [administrative|E] but has no [noble_family|E] [title|E]"

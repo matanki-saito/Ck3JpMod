@@ -31,7 +31,7 @@
  travel_danger_events.4010.b.cured.desc:0 "[ill_character.GetSheHe|U]は完全に回復する"
  travel_danger_events.4010.b.worsened.t:0 "状態が悪化"
  travel_danger_events.4010.b.worsened.desc:0 "[ill_character.GetHerHis|U]の状態は悪化する"
- travel_danger_events.4010.c:0 "[medicine_person.GetTitledFirstName|U]、[ill_character.GetHerHim]を治療できるか？"
+ travel_danger_events.4010.c:0 "[medicine_person.GetTitledFirstNameNoTooltip], can you treat [ill_character.GetHerHim]?"
  travel_danger_events.4010.d:0 "さて、私はちょうど#EMP いいもの#!を持っている…"
  travel_danger_events.4010.d.flavor:0 "[ill_character.GetHerHim]を永遠に消し去ってしまう好機だ！"
  travel_danger_events.4010.d.poisoned.t:0 "死"

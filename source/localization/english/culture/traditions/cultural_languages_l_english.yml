@@ -33,7 +33,7 @@
  language_french_name:1 "オイル俗語"
  language_magyar_name:0 "マジャル語"
  language_norse_name:0 "ノルド語"
- language_south_slavic_name:1 "セルビア・クロアチア語"
+ language_south_slavic_name:1 "South Slavic"
  language_ugro_permian_name:0 "ウゴル・ペルム語"
  language_volga_finnic_name:0 "ヴォルガ・フィン語"
  language_west_slavic_name:0 "西スラヴ語"
@@ -93,3 +93,4 @@
  language_egyptian_name: "エジプト"
  language_hunnic_name: "フン語"
  language_ancient_greek_name: "ギリシャ"
+ language_albanian_name: "Albanian"

@@ -53,3 +53,5 @@
  ra_inspiration_court_view_prompt:0 "ハイライトされた「ひらめき」のアイコンをクリックしてください"
  ra_inspiration_funding:0 "ひらめきへの出資"
  ra_inspiration_funding_desc:0 "ここでは、ひらめきを得た人物が見て取れます。この人物が何を製作したいのか、どれだけの腕前か、ひらめきへ出資する余裕があればコストがどれだけか、が表示されています。\n\nもしプロジェクトがすでに進行中であれば、完了までの期間が表示されています；そうでなければ、出資してプロジェクトを始められます。"
+ reactive_advice_royal_court: "$ra_rc_intro$"
+ reactive_advice_fund_inspiration: "$lessons_ep1_fund_inspiration$"

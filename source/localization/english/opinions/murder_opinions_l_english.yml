@@ -31,3 +31,7 @@
  attempted_abduct_me:0 "誘拐を企てた"
  attempted_abduct_me_crime:0 "$attempted_abduct_me$"
  executed_valuable_prisoner_modifier: "貴重な囚人の処刑"
+ disfigured_family_member: "Disfigured Family Member"
+ disfigured_me: "Disfigured Me"
+ maimed_family_member: "Maimed Family Member"
+ maimed_me: "Maimed Me"
