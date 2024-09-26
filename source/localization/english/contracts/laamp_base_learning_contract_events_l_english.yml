@@ -205,7 +205,7 @@
  laamp_base_learning_contract_events.4027.b.success_standard: "\"I live to serve.\""
  laamp_base_learning_contract_events.4027.b.success_qualified: "\"Well, I #EMP was#! a bit rushed.\""
  laamp_base_learning_contract_events.4027.b.failure_standard: "$laamp_base_learning_contract_events.4005.a.failure_standard$"
- laamp_base_4100_contract: "Tutor Child"
+ laamp_base_4100_contract: "子供への指導"
  laamp_base_4100_contract_contract: "$laamp_base_4100_contract$"
  laamp_base_4100_desc_title: "Knowledgeable scholars desired,"
  laamp_base_4100_desc: "Persons of letters are requested by the [TaskContract.GetEmployer.GetTitleAsNameNoTooltip] of [TaskContract.GetEmployer.GetPrimaryTitle.GetNameNoTier] to assist in tutelage of children residing in [TaskContract.GetEmployer.GetHerHis] court. Meritorious performance will be recognized."

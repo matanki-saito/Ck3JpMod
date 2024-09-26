@@ -137,7 +137,7 @@
  adventurer_titles_renounced_title: "Titles Renounced"
  adventurer_titles_renounced_to_me_desc: "[adventurer.GetFirstName] renounced [adventurer.GetHerHis] new [titles|E] to remain an [adventurer|E]"
  adventurer_titles_renounced_by_me_desc: "I renounced my new [titles|E] to [beneficiary.GetTitledFirstName]"
- ep3_laamps.1001.t: "The Roads We Walk"
+ ep3_laamps.1001.t: "我々が歩む道"
  ep3_laamps.1001.desc.intro: "The path ahead stretches on and on, a lonely winding thread twining towards the distant horizon.\n\nMy camp is... quiet, just a few scattered tents and pack animals yawning in the breeze. Strangers and hangers-on rise with the day, preparing for their morning chores with reluctance.\n\nMost are the miscellaneous chaff that flit in and out of a group on the road with each new settlement."
  ep3_laamps.1001.desc.blind: "Few voices are ones I recognize, at least in more than passing."
  ep3_laamps.1001.desc.at_least_one_working_eye: "Few faces catch my eye as ones I recognize, at least in more than passing."

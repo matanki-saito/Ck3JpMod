@@ -1,7 +1,7 @@
 ﻿l_english:
  tradition_header:0 "伝統:"
  ep1_flavor.1000.t:0 "$tradition_header$ 宦官の訪れ"
- ep1_flavor.1000.desc:0 "A traveling eunuch is presenting [eunuch_target.GetHerselfHimself] at my court today.\n\n\"Greetings, oh most [ROOT.Char.Custom('ComplimentAdjective')] [ROOT.Char.GetTitleTierName].\" [eunuch_target.GetSheHe] says, respectfully.\n\n\"My name is [eunuch_target.GetFirstName], a wanderer of repute — I have lent my knowledge to noble scholar-Kings, and tended the harems of great Sultans — now I am here, offering my services to you. For a modest fee.\"\n\nAn intriguing character, perhaps I should employ [eunuch_target.GetHerHim]?"
+ ep1_flavor.1000.desc:0 "今日、我が宮廷に放浪している宦官が[eunuch_target.GetHerselfHimself]を売り込みにやってきた。\n\n「挨拶申し上げます、最も [ROOT.Char.Custom('ComplimentAdjective')][ROOT.Char.GetTitleTierName]。」と[eunuch_target.GetSheHe]が恭しく喋った。\n\n「私の名前は[eunuch_target.GetFirstName]と申します、名高き放浪者でございます。私は高貴な学者達つまり諸王へ我が知恵を貸し、数々のスルタンのハーレムでお役に立ちました。そして、今度は貴方様に奉仕すべく、今ここにやって来ました。僅かな報酬で構いません。」\n\n興味をそそる人物だ、私は[eunuch_target.GetHerHim]を雇用すべきだろうか？"
  ep1_flavor.1000.a:0 "適当な申し出だ、受け入れよう。"
  ep1_flavor.1000.b:0 "[eunuch_target.GetFirstNameNoTooltip]、我が[eunuch_target.Custom('ComplimentAdjective')]友よ、もうしばらく留まってくれないか？"
  ep1_flavor.1000.c:0 "あなたの奉仕は必要じゃない。"

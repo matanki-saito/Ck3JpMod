@@ -407,7 +407,7 @@
  legend_chronicle_great_deed_dynasty_desc: "[dynasty.GetName]の名を持つ者の中で、[founder.GetName]ほど王朝に多大な貢献をした者はいない。"
  legend_chronicle_valiant_defense: "勇敢なる防戦"
  legend_chronicle_valiant_defense_desc: "殆ど勝算がないのにもかかわらず[defender.GetName]は[attacker.GetName]の大軍を撃退した。"
- legend_chronicle_tournament_won: "[winner.GetFirstNameNoTooltip]の三制覇"
+ legend_chronicle_tournament_won: "三度勝ち得し[winner.GetFirstNameNoTooltip]"
  legend_chronicle_tournament_won_desc: "[location.GetName]の馬上槍試合場で、最強の出場者である[winner.GetName]が三度目の優勝を果たした。地球上の生きた魂で[winner.GetHerHim]に匹敵するものはいない。"
  legend_chronicle_accolade_chronicle: "最も勇猛なる$knight_culture_player_plural_no_tooltip$"
  legend_chronicle_accolade_chronicle_desc: "[founder.GetName|U]は多くの優れた$knight_culture_player_plural_no_tooltip_lowercase$を率いていたが、[first_accolade.GetName]と讃えられし[first_accolade_knight.GetName]より偉大な者はついぞ現れぬだろう。"

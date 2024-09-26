@@ -34,7 +34,7 @@
  martial_authority.2050.b:1 "My [marshal.Custom2('RelationToMeShort', ROOT.Char)] [marshal.GetFirstNameNoTooltip] can handle those problems."
  martial_authority.2050.c:0 "より一層励めば全て自分でこなせるのだ！"
  martial_authority.2051.t:0 "特別な手"
- martial_authority.2051.desc:0 "In the course of helping me administer my [ROOT.Char.Custom('GetRealmOrDomicile')] as my right-hand [right_hand_person.GetWomanMan], [right_hand_person.GetTitledFirstName] and I have discovered that we have a lot in common!\n\nWe have built up a strong rapport during our time working together as a result of this, and I find myself wondering what the future will hold for us..."
+ martial_authority.2051.desc:0 "[ROOT.Char.Custom('GetRealmOrDomicile')]の管理をする我が右腕の[right_hand_person.GetWomanMan]を手伝っているうちに、[right_hand_person.GetTitledFirstName]と私は多くの共通点を発見した！\n\nそのせいもあり、一緒に働いている間に私たちは強い信頼関係を築いた。そして私は今後の二人に思いを馳せる自分を見つけた…"
  martial_authority.2051.a:0 "我らは良い友となるだろう！"
  martial_authority.2051.b:0 "これは更なる火種か？"
  martial_authority.2051.c:0 "我々はこの関係を仕事上のものにとどめておかなくてはならない。"

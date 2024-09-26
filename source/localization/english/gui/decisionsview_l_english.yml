@@ -1,7 +1,7 @@
 ﻿l_english:
  DECISIONS_VIEW_TITLE_CONTAINER: "[SelectLocalization( Or( IsAdministrativeRuler( Character ), IsLandlessAdventurer( Character ) ), 'DECISIONS_AND_CONTRACTS_VIEW_TITLE', 'DECISIONS_VIEW_TITLE' )]"
- DECISIONS_VIEW_TITLE: "Decisions"
- DECISIONS_AND_CONTRACTS_VIEW_TITLE: "Decisions & [GetPlayer.Custom('GetContractOrIssuePlural')]"
+ DECISIONS_VIEW_TITLE: "決断"
+ DECISIONS_AND_CONTRACTS_VIEW_TITLE: "決断と[GetPlayer.Custom('GetContractOrIssuePlural')]"
  DECISIONS_VIEW_DECISION_TAB_TITLE: "Decisions"
  DECISIONS_VIEW_CONTRACTS_TAB_TITLE: "[GetPlayer.Custom('GetContractOrIssuePlural')]"
  DECISIONS_VIEW_GROUP_HEADER: "$NAME$ #weak ($SIZE$)#!"

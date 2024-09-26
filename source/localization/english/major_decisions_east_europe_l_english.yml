@@ -53,7 +53,7 @@
  east_europe.0112.desc.intro:0 "[heretic.GetFaith.GetAdherentNamePluralNoTooltip]が異端者であるというあなたの主張は馬鹿げている。"
  east_europe.0112.desc.culture:0 "[accuser.GetTitledFirstName]は我が国の[accuser.GetWomanMan]であり、あなたは単に我らの流儀を知らないだけだ。"
  east_europe.0112.desc.rival:0 "正直なところ、もし#EMP 誰か#!が異端の罪を犯している可能性が高いと言うなら、それはあなたであり、あなたは[accuser.Custom('InsultAdjective')]、[accuser.Custom('InsultAdjective')]、[accuser.Custom('InsultAdjective')][accuser.Custom('InsultNoun')]だ！"
- east_europe.0112.desc.sinful:0 "Your sins are practically too numerous to count, and you have the gall to criticize others?"
+ east_europe.0112.desc.sinful:0 "数え切れぬほどの罪を得たあなたに、他人を批判する勇気があるのか？"
  east_europe.0112.desc.negative_opinion:0 "私があなたの意見にわずかでも敬意を示せば、その考えに信憑性をもたせることはできるだろう。残念ながら、そうはしないが。"
  east_europe.0112.desc.fallback:0 "そのようないかがわしい主張は、あなたの地位の[accuser.GetWomanMan]に相応しくない。"
  east_europe.0112.desc.outro:0 "\n\nこの件はこれで終わりだ。それで、次は、書く前によく考えたまえ。"

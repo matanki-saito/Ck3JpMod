@@ -59,7 +59,7 @@
  jason_locale_events.210.d.heavy_cavalry:0 "我々[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]は十分に激しく敵を打てる！"
  jason_locale_events.210.d.tt.heavy_cavalry:1 "我々は無意味にぶつかり合う必要はない！"
  jason_locale_events.210.d.crossbowmen:0 "我々[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]には奇妙な仕掛けなど不要だ！"
- jason_locale_events.210.d.tt.crossbowmen:0 "Like cowards, the [foreign_lord.GetCulture.GetCollectiveNounNoTooltip] snuff out the noblest warriors from afar. But we, we shall never."
+ jason_locale_events.210.d.tt.crossbowmen:0 "卑怯者のように、[foreign_lord.GetCulture.GetCollectiveNounNoTooltip]は遠くから最も高貴な戦士を狙撃するのだ。しかし我々は、我々は決してそんなことはしない。"
  jason_locale_events.210.d.heavy_infantry:0 "我々[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]は自身の身を守ることができる！"
  jason_locale_events.210.d.tt.heavy_infantry:0 "鎧だと？ 有能な我々にとって、何の意味があろう？[foreign_lord.GetCulture.GetCollectiveNounNoTooltip]は石のように重い。我々は彼らを大地の下に埋めてやろう。"
  cultural_acceptance_knightly_camaraderie:0 "武術の交流"

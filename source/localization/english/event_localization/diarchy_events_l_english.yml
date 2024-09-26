@@ -304,7 +304,7 @@
  diarchy.2221.e:0 "もちろん、雇用主は自分で選ぶことができる…"
  diarchy.2221.e.t:0 "$diarchies.0000.diarch_lax_with_mandate.t$"
  diarchy.2231.t:0 "より良い使い方"
- diarchy.2231.desc:1 "The jails and courts of [exploitable_county.GetNameNoTier] have been processing an unfortunately high number of miscreants lately. Under normal circumstances, justice would find these malefactors swiftly, then they'd be turned loose to the wilds or the grave.\n\nLuckily for them, many have ample experience with sword or arrow, and my mandate as [liege.GetDiarchTitle] requires me to find fresh soldiers. The distasteful solution of service in [liege.GetTitledFirstNamePossessive] armies seems obvious, and though this turns up plenty of hardy bandits and eagle-eyed poachers, the notion has the peasantry are up in arms."
+ diarchy.2231.desc:1 "[exploitable_county.GetNameNoTier]の牢獄や裁判所では、最近不幸にも多くの悪党が処理されている。通常であれば、正義はこれらの悪人を速やかに発見し、その後、彼らは荒野か墓場に放たれることになるはずだ。\n\n幸いなことに、彼らの多くは剣や矢で十分な経験を積んでおり、そして[liege.GetDiarchTitle]としての私の務めは、新しい兵士を見つけることである。[liege.GetTitledFirstNamePossessive]の軍勢への奉仕というまずい解決策は明らかなようで、その結果、勇敢な盗賊や鋭い目をした密猟者がたくさん見つかったが、農民はこの考え方に憤激している。"
  diarchy.2231.a:0 "耕せ。こうした不満は時の経過とともに消えていく。"
  diarchy.2231.a.t:0 "$diarchies.0000.diarch_fulfills_mandate.t$"
  diarchy.2231.b:1 "おそらく、最高の者だけを採れば良いのではないか？"

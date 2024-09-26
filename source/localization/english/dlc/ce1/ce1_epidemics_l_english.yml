@@ -132,7 +132,7 @@
  epidemic_saint_anthonys_fire: "聖アントニウスの火"
  trait_ergotism: "聖なる火（麦角中毒）"
  trait_ergotism_desc: "この人物は痛みを伴う発作、頭痛、吐き気、下痢に苦しんでいる。意に沿わぬ痙攣はまるで彼らが踊っているかのようだ。"
- trait_ergotism_character_desc: "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] body is afflicted by painful seizures, headaches, nausea and diarrhea — the involuntary spasms make it look as if [ROOT.GetCharacter.GetSheHe] was dancing."
+ trait_ergotism_character_desc: "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]は痛みを伴う発作、頭痛、吐き気、下痢に苦しんでいる。意に沿わぬ痙攣はまるで[ROOT.GetCharacter.GetSheHe]が踊っているかのようだ。"
  county_epidemic_recovered_tiny_modifier: "小規模な伝染病は去った"
  county_epidemic_recovered_tiny_modifier_desc: "$county_epidemic_recovered_minor_modifier_desc$"
  county_epidemic_recovered_minor_modifier: "病は去れり"

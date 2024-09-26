@@ -103,4 +103,4 @@
  NEXT_LABEL:0 "次"
  NONE:0 "なし"
  FILTER_BY: "フィルター："
- COA_REALM_SIZE_TOOLTIP: "Realm Size: [Character.RealmSize|V] [counties|E]"
+ COA_REALM_SIZE_TOOLTIP: "領国の規模: [Character.RealmSize|V] [counties|E]"

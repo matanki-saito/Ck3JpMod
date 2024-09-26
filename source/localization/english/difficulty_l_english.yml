@@ -1,6 +1,6 @@
 ﻿l_english:
- impossibly_hard_difficult: "#difficulty_very_hard Impossible#!"
- extremely_hard_difficult: "#difficulty_hard Extremely Hard#!"
- very_hard_difficult: "#difficulty_hard Very Hard#!"
- hard_difficult: "#difficulty_medium Hard#!"
- normal_difficult: "#difficulty_easy Normal#!"
+ impossibly_hard_difficult: "#difficulty_very_hard 苦行#!"
+ extremely_hard_difficult: "#difficulty_hard 激むず#!"
+ very_hard_difficult: "#difficulty_hard とてもむずかしい#!"
+ hard_difficult: "#difficulty_medium むずかしい#!"
+ normal_difficult: "#difficulty_easy ふつう#!"

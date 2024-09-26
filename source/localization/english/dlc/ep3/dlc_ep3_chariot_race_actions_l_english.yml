@@ -1,7 +1,7 @@
 ﻿l_english:
- apa_cheering_on_competitors_title: "[first.GetShortUIName|U] and [second.GetShortUIName|U] bonded over their favorite charioteers"
- apa_thunderous_applause_title: "[first.GetShortUIName|U], inspired by the crowd's thunderous applause, overtakes [second.GetShortUIName|U]"
- apa_celebrating_unexpected_overtake_title: "[first.GetShortUIName|U] overtakes [second.GetShortUIName|U]"
+ apa_cheering_on_competitors_title: "[first.GetShortUIName|U]と[second.GetShortUIName|U]は、お気に入りの御者をめぐって絆を深めた。"
+ apa_thunderous_applause_title: "観客の万雷の拍手に鼓舞された[first.GetShortUIName|U]が[second.GetShortUIName|U]を追い抜く。"
+ apa_celebrating_unexpected_overtake_title: "[first.GetShortUIName|U]が[second.GetShortUIName|U]を追い抜かす"
  apa_exchanging_race_commentary_title: "[first.GetShortUIName|U] and [second.GetShortUIName|U], make love, after being inspired by the heat of the races"
  apa_forging_alliances_title: "[apa_target.GetShortUIName|U] extends [apa_target.GetHerHis] political influence"
  apa_donates_to_the_poor_title: "[first.GetShortUIName|U] donates to the [Glossary( 'hoi polloi', 'HOI_POLLOI_GLOSS' )]"

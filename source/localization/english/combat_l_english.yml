@@ -8,7 +8,7 @@
  COMBAT_BALANCE_ATTACKER_WINNING:0 "現在は攻撃側が優勢"
  COMBAT_BALANCE_DEFENDER_WINNING:0 "現在は防衛側が優勢"
  COMBAT_BALANCE_UNDECIDED:0 "[battle|E]は現在のところ形勢が決まっていない"
- COMBAT_CURRENT_PHASE:1 "Current [combat_phase|E]: [ConceptByKey('$PHASE|Vq$')]"
+ COMBAT_CURRENT_PHASE:1 "現在の[combat_phase|E]：[ConceptByKey('$PHASE|Vq$')]"
  COMBAT_CURRENT_PHASE_DAYS_LEFT:1 "現在の[combat_phase|E]における経過日数: $VALUE|V$"
  COMBAT_TOTAL_DAYS:0 "[battle|E]の総期間:$DAYS|V$"
  ATTACKER:0 "攻撃側"

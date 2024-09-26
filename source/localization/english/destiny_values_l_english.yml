@@ -216,7 +216,7 @@
  unlanded_difficulty: "Holds no Titles"
  character_difficulty_text: "Difficulty: [Character.Custom('CharacterDifficulty')]"
  character_difficulty_breakdown_header: "Difficulty Breakdown"
- choose_destiny_header_text: "Choose a New Destiny"
+ choose_destiny_header_text: "新たな運命を選ぶ"
  will_become_adventurer: "Will become an [GetGovernment('landless_adventurer_government').GetName]"
  character_interest_breakdown_header: "Interesting Aspects"
  different_government_desc: "Has a Different Government"

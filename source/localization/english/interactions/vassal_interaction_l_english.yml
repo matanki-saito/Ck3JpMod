@@ -85,7 +85,7 @@
  has_admin_gov: "[recipient.GetShortUIName] has the [administrative_government|E]"
  improve_development: "@task_develop_county! Improve [development|E]"
  train_commanders: "@task_train_commanders! Boost [men_at_arms|E]"
- build_maa: "@directive_maa! Recruit [men_at_arms|E]"
+ build_maa: "@directive_maa! [men_at_arms|E]を雇用する"
  convert_faith: "@task_conversion! Convert [faith|E]"
  convert_culture: "@task_promote_culture! Promote [culture|E]"
  improve_cultural_acceptance: "@task_accept_culture! Improve [cultural_acceptance|E]"
