@@ -57,4 +57,4 @@
  conqueror_feed_generous_courtier: "[generous_courtier.GetFirstName] Donates Gold"
  conqueror_feed_generous_courtier_desc: "Your [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('generous_courtier'))] [generous_courtier.GetFullName] donates gold to your cause!"
  conqueror_feed_siege_engineer: "Siege Engineer Joins"
- conqueror_feed_siege_engineer_desc: "The [GetTrait('military_engineer').GetName( GetNullCharacter )] [new_commander.GetFullName] joins your ranks!"
+ conqueror_feed_siege_engineer_desc: "[GetTrait('military_engineer').GetName( GetNullCharacter )][new_commander.GetFullName]があなたの部隊に加わる！"

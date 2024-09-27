@@ -328,7 +328,7 @@
  RULER_DESIGNER_OPEN_LANDLESS_TT: "#T 冒険者の作成#!\n選択された人物の領国首都に土地を持たない冒険者を作成します。"
  RULER_DESIGNER_CAMP_LOCATION: "#low 野営地の所在地：#! [LobbyView.GetSelectedPlayable.GetCharacter.GetCapitalLocation.GetNameNoTooltip]"
  RULER_DESIGNER_ESTATE_LOCATION: "#low 荘園の所在地:#![LobbyView.GetSelectedPlayable.GetCharacter.GetCapitalLocation.GetNameNoTooltip]"
- RULER_DESIGNER_FULL_NAME_TITLE: " of the $RULER_DESIGNER_TITLE_NAME$"
+ RULER_DESIGNER_FULL_NAME_TITLE: "$RULER_DESIGNER_TITLE_NAME$の"
  RULER_DESIGNER_CATEGORY_anatomy: "Anatomy"
  RULER_DESIGNER_GROUP_body: "Body"
  RULER_DESIGNER_GROUP_head_neck: "Head and Neck"

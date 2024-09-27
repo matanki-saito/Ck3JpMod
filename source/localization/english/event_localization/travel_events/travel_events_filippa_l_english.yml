@@ -349,7 +349,7 @@
  travel_events.2032.a_poisonous.t:0 "ハーブの調達"
  travel_events.2032.a_poisonous.desc:1 "あなたはいくつかの毒草を見つけた"
  travel_events.2032.a_learning.tt:0 "能力の向上"
- travel_events.2032.b:0 "Would you be interested in becoming my personal physician?"
+ travel_events.2032.b:0 "我が宮廷で侍医になってはもらえないか？"
  travel_events.2032.c:0 "こんなことは時間の無駄だ。"
  travel_events.2033.t:0 "$travel_event_prefix$ 囚人の脱走！"
  travel_events.2033.desc_intro:0 "我々が[ROOT.Char.GetCurrentLocation.GetName]の狩猟場に入るとすぐ、衛兵が息を切らしながら少しパニックになって私に駆け寄ってきた。「閣下、あの[prisoner.Custom('InsultAdjective')][prisoner.GetTitledFirstName]が脱走しました！」\n\n私の視線はすぐに森の端に移り、動きの兆候がないか探したが、何も見つからない。"

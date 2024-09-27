@@ -26,7 +26,7 @@
  NOT_HAS_DOCTRINE:0 "Does #bold not#! have the [FAITH_DOCTRINE.GetName(FAITH.Self)] [doctrine|E]"
  I_HAVE_DOCTRINE:1 "Your [faith|E] has [FAITH_DOCTRINE.GetName(FAITH.Self)] [doctrine|E]"
  NOT_I_HAVE_DOCTRINE:1 "Your [faith|E] does #bold not#! have [FAITH_DOCTRINE.GetName(FAITH.Self)] [doctrine|E]"
- THEY_HAS_DOCTRINE:0 "[FAITH.GetName] has the [FAITH_DOCTRINE.GetName(FAITH.Self)] [doctrine|E]"
+ THEY_HAS_DOCTRINE:0 "[FAITH.GetName]が[FAITH_DOCTRINE.GetName(FAITH.Self)]の[doctrine|E]を持っている"
  NOT_THEY_HAS_DOCTRINE:0 "[FAITH.GetName] does #bold not#! have the [FAITH_DOCTRINE.GetName(FAITH.Self)] [doctrine|E]"
  I_HAVE_COURT_CHAPLAIN:1 "あなたの[Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E]は儀式を執り行うことができる"
  NOT_I_HAVE_COURT_CHAPLAIN:1 "あなたの[Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E]は儀式を執り行うことが#bold できない#!"

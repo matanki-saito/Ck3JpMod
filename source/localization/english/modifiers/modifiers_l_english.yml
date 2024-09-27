@@ -1108,7 +1108,7 @@
  MOD_INFLUENCE_LEVEL_IMPACT_MULT: "Influence Level impact"
  MOD_PROVISIONS_GAIN_MULT: "[provisions|E] Gain"
  MOD_PROVISIONS_LOSS_MULT: "[provisions|E] Loss"
- MOD_PROVISIONS_CAPACITY_ADD: "[provisions|E] Capacity"
+ MOD_PROVISIONS_CAPACITY_ADD: "[provisions|E]収容量"
  MOD_PROVISIONS_CAPACITY_MULT: "$MOD_PROVISIONS_CAPACITY_ADD$"
  MOD_INDEPENDENT_PRIMARY_ATTACKER_ADVANTAGE: "[command_modifier_i|E][advantage|E] while primary attacker and independent"
  archers_pursuit_add: "[archer|E] [pursuit|E]"

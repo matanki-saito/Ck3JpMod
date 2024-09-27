@@ -195,5 +195,5 @@
  bet_gold_actor_not_enough_gold:0 "あなたは十分な[gold|E]を持っていない"
  bet_gold_recipient_not_enough_gold:0 "相手の[gold|E]が十分ではない"
  guess_you_need_more_friends_desc: "[friends|E]の人数が3名未満です"
- scheme_phase_duration_against_friend_add: "[scheme_speed|E] against [friends|E]"
- scheme_phase_duration_against_best_friend_add: "[scheme_speed|E] against [best_friends|E]"
+ scheme_phase_duration_against_friend_add: "[friends|E]に対する[scheme_speed|E]"
+ scheme_phase_duration_against_best_friend_add: "[best_friends|E]に対する[scheme_speed|E]"

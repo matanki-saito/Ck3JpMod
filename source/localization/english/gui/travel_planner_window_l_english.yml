@@ -112,6 +112,6 @@
  TRAVEL_PLANNER_PROVISIONS_BREAKDOWN_FROM_MAA: "#bold From Men-At-Arms#!"
  CANCEL_TRAVEL_PLAN_ACTIVE_CONTRACT: "Cannot cancel travel plan, you have accepted a contract"
  CANCEL_TRAVEL_PLAN_STAY_WITH_DOMICILE: "Abort travel"
- START_TRAVEL_TO_CONTRACT: "Travel to Accept Contract"
+ START_TRAVEL_TO_CONTRACT: "契約を受けるために移動する"
  START_TRAVEL_MOVE_TO_CONTRACT: "依頼を受託するために[Domicile.GetType.GetNameNoTooltip]を移動する"
  START_TRAVEL_MOVE_DOMICILE: "Start moving your [Domicile.GetType.GetNameNoTooltip]"

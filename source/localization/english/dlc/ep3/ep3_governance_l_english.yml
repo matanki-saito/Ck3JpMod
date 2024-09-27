@@ -158,7 +158,7 @@
  governor_contract_event.2021.desc_military: "The sounds of celebratory revelry drift up from the barracks; with the wealth I've heaped upon them, the loyalty and fighting fitness of my troops is most assured! My captains lead the rest in chanting out my name."
  governor_contract_event.2021.desc_food: "Even the lowest of beggars in [task_contract_location.GetNameNoTier] sleeps with a full stomach tonight. My distribution of grain has bright-faced families hoisting sheaves up to the rafters; all the region smells of fresh-baked bread."
  governor_contract_event.2021.desc: "\n\nThis choice of investment proved sagacious. With but early results on display, I am already praised and feted by the people under my care."
- governor_contract_event.2021.a: "A job well done."
+ governor_contract_event.2021.a: "悪くは無い。"
  governor_contract_event.2022.t: "$prov_investment$: Failure"
  governor_contract_event.2022.desc_monument: "I have informed the capital's administration of my newest monument, the jewel-ornamented statue of ostentatious grandeur... and I've heard nothing in return. [emperor.GetTitledFirstName] does not deign to honor me for my act of fealty, if indeed [emperor.GetSheHe] knows of it at all."
  governor_contract_event.2022.desc_traders: "With my adjustment of taxes and tariffs, traders crow in delight at new profits... but we see no increase in revenue. What's more, local artisans and laborers complain of my administration: in the face of newly-cheapened imports, they struggle to offload their goods."

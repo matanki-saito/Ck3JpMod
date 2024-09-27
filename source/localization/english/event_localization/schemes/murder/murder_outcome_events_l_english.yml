@@ -1,7 +1,7 @@
 ﻿l_english:
  do_not_execute_murder_tooltip:0 "暗殺を試みない"
  murder_child_really_tooltip:1 "子供を暗殺します。よろしいですか？"
- murder_outcome_murdered_rival_tt: "You gained [prestige_i][EmptyScope.ScriptValue('rival_outlived_prestige_value')|P0] for outliving your [rival|E]"
+ murder_outcome_murdered_rival_tt: "[rival|E]より長く生きたので[prestige_i][EmptyScope.ScriptValue('rival_outlived_prestige_value')|P0]を獲得した"
  murder_unknown_murder_against_you_was_successful:0 "#X あなたは不明な暗殺者によって暗殺されました！#!"
  murder_outcome.1001.t:0 "暗殺者！"
  murder_outcome.1001.d:0 "時は満ちた。私の密偵たちは位置についた。その一人がまさに計画実行の夜、暗殺者に金を払う。二人目は城壁が無警戒なことを確かめる。三人目が[target.GetTitledFirstNamePossessive]の寝室まで蝋燭の微かな道しるべを残すのだ。\n\nすべての準備は整った。"

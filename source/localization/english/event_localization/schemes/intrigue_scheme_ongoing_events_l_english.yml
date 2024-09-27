@@ -95,7 +95,7 @@
  intrigue_scheme_ongoing.3005.c:0 "[elope_agent.GetTitledFirstNameNoTooltip]に鳥を届けさせよう。"
  intrigue_scheme_ongoing.3005.d:0 "危険が大きすぎる。"
  intrigue_scheme_ongoing.4001.t:0 "責任ある大人"
- intrigue_scheme_ongoing.4001.desc:0 "[agent_in_question.GetTitledFirstName] has told me that [agent_in_question.GetSheHe] has been asked to look after a group of children playing at court.\nAs luck would have it, that includes [scheme.GetTargetCharacter.GetTitledFirstName].\n\nThis is a great opportunity to have [agent_in_question.GetTitledFirstName] move things forwards."
+ intrigue_scheme_ongoing.4001.desc:0 "[agent_in_question.GetTitledFirstName]によると、[agent_in_question.GetSheHe]は宮廷で遊んでいる子供たちの面倒を見るように頼まれているそうだ。\n運が良いことに、その中には[scheme.GetTargetCharacter.GetTitledFirstName]が含まれている。\n\nこれは[agent_in_question.GetTitledFirstName]が問題を前に進める絶好の機会だ。"
  intrigue_scheme_ongoing.4001.a:0 "監視の目から遠く離れた場所で遊ぶ習慣を彼らに教える。"
  intrigue_scheme_ongoing.4001.b:0 "Try to befriend [scheme.GetTargetCharacter.GetTitledFirstName]. Make [scheme.GetTargetCharacter.GetHerHim] trust you."
  intrigue_scheme_ongoing.4002.t:0 "子供の純真さ"

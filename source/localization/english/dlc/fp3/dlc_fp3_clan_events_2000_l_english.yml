@@ -9,7 +9,7 @@
  clan_event.2000.e1: "学問の研究に時間を費やすのだ。"
  clan_event.2000.e2: "信仰の問題に時間を費やすのだ。[ROOT.Char.GetFaith.HighGodName]の上に立つ者はいない。"
  clan_event.2000.option_f: "お前は税金を徴収しに来たのだろう、違うか？それなら、税金を#EMP 取り立てて#!こい！"
- clan_event.2000.g: "Speak favorably of me as you travel."
+ clan_event.2000.g: "旅行中に私のことを褒め称えてくれ。"
  clan_event.2000.a.success: "[improved_tax_collector.GetNameNoTooltip]は封臣を喜ばせた"
  clan_event.2000.b.success: "[improved_tax_collector.GetNameNoTooltip]は封臣を怯えさせた"
  clan_event.2000.c.success: "[improved_tax_collector.GetNameNoTooltip]はより多くの徴税を行う"
