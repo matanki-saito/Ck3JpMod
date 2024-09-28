@@ -22,7 +22,7 @@
  yearly.0003.t:0 "禁じられた愛"
  yearly.0003.start.desc:0 "最初は冗談だと思っていた——我が[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child'))][child.GetFirstName]と[relative.Custom2('HerHisCharacterIntroductionNoComma', SCOPE.sC('child'))]がどうやって愛人関係になったというのだ！？だが、私のスパイが入手した手紙は"
  yearly.0003.dislikes_incest.desc:0 "[child.GetWomanMan]が決して持ってはならない[child.GetHerHis]の[child.Custom2('RelationToMeShort', SCOPE.sC('relative'))]との出会いを描いている…"
- yearly.0003.likes_incest.desc:0 "彼らの肉体関係についての#EMP 魅力的#!な詳細が述べられている..."
+ yearly.0003.likes_incest.desc:0 "彼らの肉体関係についての#EMP 魅力的#!な詳細が述べられている…"
  yearly.0003.b:0 "彼らの関係を隠蔽することを試みる。"
  yearly.0003.c:0 "[ROOT.Char.GetHouse.GetNameNoTooltip]家を貶めた彼らを投獄しろ！"
  yearly.0003.d:0 "Invite them to my [ROOT.Char.Custom('GetChamber')] for some \"family time.\""

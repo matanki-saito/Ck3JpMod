@@ -1,7 +1,7 @@
 ﻿l_english:
  travel_completion_event.1000.t:1 "$travel_event_prefix$ 到着"
- travel_completion_event.1000.desc.home:0 "やっとこさ、やっとこさ帰ってきた！長旅を終えて、[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に戻ってくるのは何よりの喜びである。しばらく休養するのが待ち遠しい。 "
- travel_completion_event.1000.desc.abroad:0 "長い旅路の末、ようやく[final_destination_province.GetName]に到着した！しばらくは、砂塵道や鞍擦れから解放されそうだ。 "
+ travel_completion_event.1000.desc.home:0 "やっとこさ、やっとこさ帰ってきた！長旅を終えて、[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]に戻ってくるのは何よりの喜びである。しばらく休養するのが待ち遠しい。"
+ travel_completion_event.1000.desc.abroad:0 "長い旅路の末、ようやく[final_destination_province.GetName]に到着した！しばらくは、砂塵道や鞍擦れから解放されそうだ。"
  travel_completion_event.1000.desc.activity:0 "[ROOT.Char.GetInvolvedActivity.GetName]に参加する時が来た。\n\n"
  travel_completion_event.1000.desc.no_activity:0 "しかしまた、旅への誘いが聞こえてくるようだ。\n\n"
  travel_completion_event.1000.stats:2 "我が従者の報告によると[travel_plan_scope.MakeScope.Var('travel_plan_elapsed_days').GetValue]日間旅をして、[travel_plan_scope.MakeScope.Var('travel_plan_provinces_traversed').GetValue]の男爵領を踏破したと言う。\n\n"

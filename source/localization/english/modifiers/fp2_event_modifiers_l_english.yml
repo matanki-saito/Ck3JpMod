@@ -48,7 +48,7 @@
  fp2_funded_agriculture_modifier:0 "農業への資金提供"
  fp2_funded_agriculture_modifier_desc:0 "この伯爵領には農地を拡大するための必要な資源が与えられてきた。"
  fp2_vow_against_conscription_modifier:0 "徴兵不可の誓い"
- fp2_vow_against_conscription_modifier_desc:0 "この伯爵領には、徴兵を拒否する権利が与えられている。 彼らが市民の問題に集中できるようにする。"
+ fp2_vow_against_conscription_modifier_desc:0 "この伯爵領には、徴兵を拒否する権利が与えられている。彼らが市民の問題に集中できるようにする。"
  fp2_monument_to_war_modifier:0 "征服の記念碑"
  fp2_monument_to_war_modifier_desc:0 "焼け落ちた建物に囲まれた瓦礫の山の上に、この領国を征服した者の記念碑が建っている。"
  fp2_village_rebuiling_efforts_modifier:0 "村の復興の取り組み"

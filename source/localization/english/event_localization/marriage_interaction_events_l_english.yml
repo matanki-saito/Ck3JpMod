@@ -5,7 +5,7 @@
  marriage_interaction.0001.desc.betrothedtoliege:0 "あなたの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('rejected_betrothed'))]である[rejected_betrothed.GetTitledFirstName]と私との婚約を解消することにしました。"
  marriage_interaction.0001.desc.liegetobetrothed:0 "私の[actor.Custom2('RelationToMe', SCOPE.sC('rejecting_betrothed'))]である[rejecting_betrothed.GetTitledFirstName]とあなたとの婚約を解消することにしました。"
  marriage_interaction.0001.desc.end:0 "ご迷惑をおかけすることをお詫びするとともに、家族の関係が損なわれないことを心より願っております。"
- marriage_interaction.0001.a:0 "悲惨な侮辱..."
+ marriage_interaction.0001.a:0 "悲惨な侮辱…"
  marriage_interaction.0002.desc:0 "我が[actor.Custom2('RelationToMe', SCOPE.sC('rejecting_betrothed'))]、[rejecting_betrothed.GetFullName]へ、\n\n私はあなたの[rejected_betrothed.GetTitledFirstName]との結婚が、あなた自身や私たちの家族にとって最善の利益ではないという結論に達した。このため、婚約を解消することを決めた。"
  marriage_interaction.0002.a:0 "ああ。"
  marriage_interaction.0004.t:0 "枯れるまで放置された婚約"

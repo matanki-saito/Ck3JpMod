@@ -72,5 +72,5 @@
  NO_DISTANT_ACTIVE_LEGENDS: "あなたの[realm|e]の外で作られる[legends|e]は、まだありません"
  NO_DISTANT_COMPLETED_LEGENDS: "あなたの[realm|e]の外で成立した[legends|e]はありません"
  SUMMARY_LEGEND_IS_COMPLETED: "#weak この伝説は成立し、もはや積極的に喧伝されることはなくなりました。#!"
- LEGEND_DURATION_ACTIVE: "[Legend.GetCreationDate.GetYear]..."
+ LEGEND_DURATION_ACTIVE: "[Legend.GetCreationDate.GetYear]…"
  LEGEND_DURATION_COMPLETED: "[Legend.GetCreationDate.GetYear] - [Legend.GetCompletionDate.GetYear]"

@@ -96,7 +96,7 @@
  holds_mecca_interesting_desc: "Holds the [GetTitleByKey('c_mecca').GetBaseName]"
  holds_baghdad_interesting_desc: "Holds the [GetTitleByKey('c_baghdad').GetBaseName]"
  holds_special_buildings_interesting_desc: "Controls Special Buildings"
- has_historical_artifacts_interesting_desc: "Owns Unique Historical Artifacts"
+ has_historical_artifacts_interesting_desc: "所有する歴史的な宝物"
  underrepresented_faith_interesting_desc: "Is of an Underrepresented Faith"
  underrepresented_culture_interesting_desc: "Is of an Underrepresented Culture"
  outside_realm_desc: "Independent Ruler"

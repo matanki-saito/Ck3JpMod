@@ -21,7 +21,7 @@
  claim_throne_ongoing.1005.a:0 "なんだ…何をしていたんだ？"
  claim_throne_ongoing.1005.b:0 "間違ってはおらぬ。皆のもの、書状の通りである。"
  claim_throne_ongoing.1006.t:0 "強力な支援"
- claim_throne_ongoing.1006.desc:0 "多くのことと同様、わが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]である[friend.GetTitledFirstName]は、[target.GetTitledFirstName]が[target_title.GetNameNoTier]の支配には不適格だという問題について、私と意見が一致している。\n\n「もっとよい統治ができる者は幾人もいるでしょうね。しかし…… 」[friend.GetSheHe]は自信を持って教えてくれた。「その中でもあなたは一番の候補者でしょう。私が支援いたします。」"
+ claim_throne_ongoing.1006.desc:0 "多くのことと同様、わが[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))]である[friend.GetTitledFirstName]は、[target.GetTitledFirstName]が[target_title.GetNameNoTier]の支配には不適格だという問題について、私と意見が一致している。\n\n「もっとよい統治ができる者は幾人もいるでしょうね。しかし… 」[friend.GetSheHe]は自信を持って教えてくれた。「その中でもあなたは一番の候補者でしょう。私が支援いたします。」"
  claim_throne_ongoing.1006.a:0 "友情は最も名誉ある忠誠心のあらわれである。"
  claim_throne_ongoing.1006.b:0 "私が適任であることを他の人々に知ってもらうために努力してくれ。"
  claim_throne_ongoing.1007.t:0 "剣による支配"

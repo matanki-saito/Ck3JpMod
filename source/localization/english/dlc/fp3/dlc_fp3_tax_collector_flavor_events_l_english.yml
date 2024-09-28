@@ -38,4 +38,4 @@
  fp3_clan.1040.b: "私がじきじきに[target_taxed_vassal.GetHerHim]に教えてやるつもりだ！"
  fp3_clan.1040.b.success: "[target_taxed_vassal.GetTitledFirstNameNoTooltip]に成功裏に指示を与えました。"
  fp3_clan.1040.b.failure: "[target_taxed_vassal.GetTitledFirstNameNoTooltip]は、あなたの教えを理解することができませんでした。"
- fp3_clan.1040.c: "私の権威を#EMP 体#!で思い出させるべきかもしれんな..."
+ fp3_clan.1040.c: "私の権威を#EMP 体#!で思い出させるべきかもしれんな…"

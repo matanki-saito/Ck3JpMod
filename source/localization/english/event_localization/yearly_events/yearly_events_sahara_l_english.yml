@@ -50,7 +50,7 @@
  yearly_saharan.0032.a:0 "このクズどもに立ち向かうために武器を取れ！"
  yearly_saharan.0032.a.tt_success:0 "あなたは奴隷商人を撃退して略奪します"
  yearly_saharan.0032.a.tt_fail:0 "[slave_raider_county.GetHolder.GetFirstNamePossessiveNoTooltip]の略奪者たちは[raided_county.GetNameNoTierNoTooltip]で大暴れする"
- yearly_saharan.0032.b:0 "本当にやつら税金を払うべきだよな..."
+ yearly_saharan.0032.b:0 "本当にやつら税金を払うべきだよな…"
  yearly_saharan.0032.c:0 "どうでもいい。"
  foreign_trader_enclaves_saharan_modifier:0 "異教の交易商の居留地"
  foreign_trader_enclaves_saharan_modifier_desc:0 "異教の交易商は、ここに住居を構えています。"

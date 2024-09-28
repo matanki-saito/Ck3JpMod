@@ -44,7 +44,7 @@
  ACCOUNT_BUTTON_CREATE:0 "作成"
  POPS_CREATE_ACCOUNT_CREARE_SUGGESTION:0 "マルチプレイにはParadoxアカウントが必要です"
  POPS_account-exists:0 "アカウントはすでに存在しています、別のメールアドレスを選択するか、現在のメールアドレスでログインしてください"
- POPS_bad-password-length:0 "パスワードは最大でも128文字以下にしてください。 パスワードは最低でも6文字以上にする必要があります。"
+ POPS_bad-password-length:0 "パスワードは6文字以上、かつ128文字以下でなければなりません。"
  POPS_invalid-email:0 "メールアドレスが有効ではありません"
  POPS_dynamodb-failure:0 "接続に失敗しました"
  POPS_ua:0 "対象外"

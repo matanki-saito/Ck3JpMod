@@ -42,7 +42,7 @@
  fp2_other_decisions.1001.a:0 "忌々しい侵略者め。"
  council_of_toledo_decision_title:0 "トレド教会会議"
  council_of_toledo_decision_desc_count:0 "[SCOPE.ScriptValue('council_of_toledo_counter_value')][ROOT.Char.Custom('get_council_of_toledo_count_suffix')][GetTitleByKey('c_toledo').GetNameNoTier]会議を招集し、再び[ROOT.Char.GetFaith.GetAdherentNamePlural]の宗教問題を解決する時が来たようだ。"
- council_of_toledo_decision_desc:0 "何世紀にもわたって、教会会議は[GetTitleByKey('c_toledo').GetNameNoTier]で開催され、そこでキリスト教徒全体の聖職者の代表がその日の論争を解決した。 第19回評議会を開催することで、この西ゴート族の伝統を取り戻すことができる。"
+ council_of_toledo_decision_desc:0 "何世紀にもわたって、教会会議は[GetTitleByKey('c_toledo').GetNameNoTier]で開催され、そこでキリスト教徒全体の聖職者の代表がその日の論争を解決した。第19回評議会を開催することで、この西ゴート族の伝統を取り戻すことができる。"
  council_of_toledo_decision_tooltip:0 "トレドで[ROOT.Char.GetFaith.GetReligion.GetAdjective]聖職者の集会を開催します"
  council_of_toledo_decision_confirm:0 "時は来た。"
  council_of_toledo_decision_toledo_holder_trigger:0 "あなたが[GetTitleByKey('c_toledo').GetName]を[hold|E]または統治し、その[ruler|E]の宗派が[THIS.Char.GetFaith.GetName]である"

@@ -65,7 +65,7 @@
  childhood.7300.c.success:0 "あなたは[beating_target_3.GetFirstNameNoTooltip]を怯えさせる"
  childhood.7300.c.failure:0 "あなたは[beating_target_3.GetFirstNameNoTooltip]を怯えさせるのに失敗する"
  childhood.7400.t:0 "いじめっ子からのボディーガード"
- childhood.7400.desc:0 "ああ…私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('bully'))][bully.GetFirstName]がまた来ている。 私はただ平和に遊びたいだけなのに、なぜ[bully.GetSheHe]は私を放っておいてくれないのだ！\n\n「何してるんだ、#EMP [ROOT.Char.Custom('InsultNoun')]め！#!」[bully.GetFirstNameNoTooltip]が私の顔に向かって叫ぶ。"
+ childhood.7400.desc:0 "ああ…私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('bully'))][bully.GetFirstName]がまた来ている。私はただ平和に遊びたいだけなのに、なぜ[bully.GetSheHe]は私を放っておいてくれないのだ！\n\n「何してるんだ、#EMP [ROOT.Char.Custom('InsultNoun')]め！#!」[bully.GetFirstNameNoTooltip]が私の顔に向かって叫ぶ。"
  childhood.7400.desc_2:0 "\n\n突然、私は肩をたたかれる。「[bully.GetSheHe]に迷惑してるのか？」ボディーガードである[bodyguard.GetFirstName]は穏やかな声で言う。「[bully.GetHerHim]に礼儀を教えてやるべきかな？」"
  childhood.7400_father_dead:0 "「お前は薄汚い[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]だ！ああ、それに…お前の父親は死んだんだったな！ハハハハハ！」"
  childhood.7400_mother_dead:0 "「お前はおぞましい[ROOT.Char.Custom('InsultNoun')]だ！ああ、それに…お前の母親は死んだんだったな！ハハハハハ！」"

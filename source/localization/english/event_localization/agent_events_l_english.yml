@@ -48,7 +48,7 @@
  agent_events.0031.a.tt.success: "Pushed to the limit"
  agent_events.0031.a.tt.failure: "Strain to no effect"
  agent_events.0031.b: "Credit goes, naturally, to our mastermind."
- agent_events.0031.c: "計画は順調に進んでいる..."
+ agent_events.0031.c: "計画は順調に進んでいる…"
  agent_events.0041.t: "綿密な計画"
  agent_events.0041.desc: "[char_1.GetTitledFirstName] is certainly an asset to my [scheme.Custom('GetSchemeContract')], providing skill, wisdom, and guidance as best [char_1.GetSheHe] can at every turn.\n\nMost recently, that's meant offering to help tutor #EMP me#!, in an effort to improve our overall chances.\n\nThe offer is... #EMP tempting#!, if presumptious."
  agent_events.0041.a: "I accept."

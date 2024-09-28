@@ -25,7 +25,7 @@
  holy_order.0202.opening:0 "あなたは我が騎士団に#bold [ROOT.Var('loan_amount_owed').GetValue|0]#!ゴールドを借りています。"
  holy_order.0202.desc:0 "あなたが金を返さない場合は、我々は貴方に返済させる別の方法を用意しております——[ROOT.Char.GetFaith.HighGodName]は喜ばれる方法でしょう、あなたにとってはそうではないかもしれませんが。"
  holy_order.0202.a:0 "当然、我々の合意は尊重する。"
- holy_order.0202.a_no:0 "償いはする！金を手に入れさせてくれ..."
+ holy_order.0202.a_no:0 "償いはする！金を手に入れさせてくれ…"
  holy_order.0202.a._not.tt:0 "@warning_icon!#X [gold_i][gold|E]が足りません#!"
  holy_order.0202.b_christian:0 "忍耐は美徳ではないのか？"
  holy_order.0202.b:0 "同じ信者として…もっと時間をくれ！"

@@ -18,6 +18,6 @@
  court_events.1010.c: "Skilled clerics would better run this court."
  court_events.1010.c.flavor: "If more useful hands are need to run this court, my [court_chaplain.GetCouncilTitle] could find and oversee some that are free of sin..."
  court_events.1010.d: "#EMP \"Scurry home, you treacherous cockroaches!\"#!"
- court_events.1011.opening: "My erstwhile master,"
+ court_events.1011.opening: "我がかつての主人よ、"
  court_events.1011.desc: "I, [defector.GetName], and many of your put-upon servants have fled your service. Without our expertise, your court shall soon be the shambles you deserve.\n\nYou have always been more [grander_ruler.Custom('InsultNoun')] than worthy liege. And so your replacement, [root_scope.GetName], shall savor the comforts and glories you once knew."
- court_events.1011.a: "#EMP Traitor!#!"
+ court_events.1011.a: "#EMP 裏切り者！#!"

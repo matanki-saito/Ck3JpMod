@@ -1,6 +1,6 @@
 ﻿l_english:
  marshal_task.0301.t:0 "指揮官への昇格"
- marshal_task.0301.desc:0 "私の[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が有望な新兵を見せてくれた。\n\n「我が[councillor.Custom2('RelationToMe', ROOT.Char)]、[commander.GetSheHe|U]はあなた様のような高貴なお生まれではないかもしれませんが...我が名に誓います！[commander.GetTitledFirstName]はあなたのお側で仕えるべき者です。」"
+ marshal_task.0301.desc:0 "私の[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が有望な新兵を見せてくれた。\n\n「我が[councillor.Custom2('RelationToMe', ROOT.Char)]、[commander.GetSheHe|U]はあなた様のような高貴なお生まれではないかもしれませんが…我が名に誓います！[commander.GetTitledFirstName]はあなたのお側で仕えるべき者です。」"
  marshal_task.0301.a:0 "よかろう、[commander.GetFirstNameNoTooltip]は私の側で仕えるべきだ。"
  marshal_task.0301.b:0 "我が[ROOT.Char.Custom('ResidenceBuilding')]からこの下賤の輩をつまみ出せ！"
  marshal_task.0302.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
@@ -82,7 +82,7 @@
  marshal_task.2103.notification:0 "トーナメントで鍛えられた: [trained_knight.GetShortUIName]"
  marshal_task.3103.notification:0 "[acclaimed_knight]が農民を指導した"
  marshal_task.0304.t: "指揮官に昇進？"
- marshal_task.0304.desc: "[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が躊躇いがちに[beneficiary_of_nepotism.Custom2('MyCharacterIntroduction', ROOT.Char)]を我が前に連れてきた。\n\n「[advocate_of_nepotism.GetTitledFirstName|U]が私に[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]を指揮官にして欲しいと要望してきまして……しかし、こうした人事を判断するのは私ではなく主たるあなた様だと言ったところ、このようなことに」\n\n[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は[beneficiary_of_nepotism.Custom('quirk_neg_present')]。"
+ marshal_task.0304.desc: "[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が躊躇いがちに[beneficiary_of_nepotism.Custom2('MyCharacterIntroduction', ROOT.Char)]を我が前に連れてきた。\n\n「[advocate_of_nepotism.GetTitledFirstName|U]が私に[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]を指揮官にして欲しいと要望してきまして…しかし、こうした人事を判断するのは私ではなく主たるあなた様だと言ったところ、このようなことに」\n\n[beneficiary_of_nepotism.GetTitledFirstNameNoTooltip]は[beneficiary_of_nepotism.Custom('quirk_neg_present')]。"
  marshal_task.0304.a_clan: "いかなる[ROOT.Char.GetHouse.GetBaseNameNoTooltip]の子も軍列に並ぶ栄誉に値する。"
  marshal_task.0304.a_neutral: "そなたの[beneficiary_of_nepotism.Custom('GetDaughterSon')]を軍列に加えよう。"
  marshal_task_0304_a_tt: "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U]は[TARGET_CHARACTER.GetShortUINameNoTooltip|U]が20年以内に解雇されれば憤慨するでしょう#!"

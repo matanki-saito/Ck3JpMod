@@ -17,7 +17,7 @@
  subject_extortion.0003.b:0 "これが不当な要求だと[ROOT.Char.GetFaith.HighGodName]に誓って言えるのか？"
  subject_extortion.0003.c:0 "[ROOT.Char.GetFaith.HighGodNameAlternate]のしもべ達を敵に回すのは、得策ではないだろう…"
  subject_extortion.0004.t:0 "臣下からの強制徴発: 封臣"
- subject_extortion.0004.desc:0 "封臣たちの存在意義はまさに役に立つことだ。彼らはすでに特権のために税金を払っているが、彼らがもうほんの少しずつ金を出したとしたら、どれだけ懐に入るかを考えずにはいられない...\n\n封臣たちは僅かな負担で、私に莫大な富が集まる！"
+ subject_extortion.0004.desc:0 "封臣たちの存在意義はまさに役に立つことだ。彼らはすでに特権のために税金を払っているが、彼らがもうほんの少しずつ金を出したとしたら、どれだけ懐に入るかを考えずにはいられない…\n\n封臣たちは僅かな負担で、私に莫大な富が集まる！"
  subject_extortion.0004.a:0 "なんという名案だ！"
  subject_extortion.0004.b:0 "「ほんの少し」、ではなく#EMP 「たくさん」#!取ることも出来るな。"
  subject_extortion.0004.c:0 "いや、彼らはすでに義務を果たしている。"

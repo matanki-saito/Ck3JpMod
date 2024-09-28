@@ -139,7 +139,7 @@
  hold_court.6131.desc_dead:0 "\n\n悲しいことに、[6130_helper.GetTitledFirstName]は、[6130_helper.GetSheHe]が作るのを手伝うと誓った地籍調査の完成を見るほど長くは生きられなかった。"
  hold_court.6131.a:0 "金は上手く使われたな！"
  hold_court.6140.t:0 "面倒な贈り物"
- hold_court.6140.desc:2 "[6140_gifter.Custom2('MyCharacterIntroduction', ROOT.Char)]が、#EMP 鎖につながれた[ROOT.Char.Custom('GetAnimalType')]#!を引きずっている使用人二人を引き連れ、誇らしげに入ってくると、玉座の間全体が静まり返った。\n\n誇らしげに微笑むと、[6140_gifter.GetFirstNameNoTooltip]は叫ぶ。「我が[ROOT.Char.GetLadyLord]、 世界最強の統治者にふさわしいプレゼントをお贈りします！この壮大な獣は[6140_province.GetCounty.GetName]の[6140_province.GetTerrain.GetNameNoTooltip]における狩りで仕留めたもので、今、私はこれを私の献身とあなたの比類なき力の象徴としてあなたに捧げるのです！」"
+ hold_court.6140.desc:2 "[6140_gifter.Custom2('MyCharacterIntroduction', ROOT.Char)]が、#EMP 鎖につながれた[ROOT.Char.Custom('GetAnimalType')]#!を引きずっている使用人二人を引き連れ、誇らしげに入ってくると、玉座の間全体が静まり返った。\n\n誇らしげに微笑むと、[6140_gifter.GetFirstNameNoTooltip]は叫ぶ。「我が[ROOT.Char.GetLadyLord]、世界最強の統治者にふさわしいプレゼントをお贈りします！この壮大な獣は[6140_province.GetCounty.GetName]の[6140_province.GetTerrain.GetNameNoTooltip]における狩りで仕留めたもので、今、私はこれを私の献身とあなたの比類なき力の象徴としてあなたに捧げるのです！」"
  6140_bear:0 "熊"
  6140_tiger:0 "虎"
  6140_lion:0 "ライオン"

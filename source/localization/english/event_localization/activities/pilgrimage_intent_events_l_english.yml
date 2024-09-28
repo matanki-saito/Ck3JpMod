@@ -91,7 +91,7 @@
  pilgrimage_intent.1060.desc.mid.persia:0 "私は古代サーサーン、パルティア、セレウコス朝の遺跡を目にし続けている。数え切れないほどの帝国がこのペルシアにやってきては消え、それでもペルシアそのものは残っている。ゾロアスター教の古い寺院は国中で荒廃しており、いつか我々の聖地さえも粉々に崩れ去る日が来るかもしれない。"
  pilgrimage_intent.1060.desc.mid.ashokas_pillars:0 "私は、大昔に建てられたアショーカの柱をもう一本見つけた。その一つ一つに、何世紀も前にアショーカ皇帝が発した勅令が刻まれている。これらのダルマのモニュメントは、かつてマウリヤ帝国を構成していた土地のいたるところにあるが、帝国そのものは塵と化している。"
  pilgrimage_intent.1060.desc.mid.kush:0 "ナイル川沿いには、栄枯盛衰を繰り返した数々の帝国の面影が残っている。クシュのピラミッド、アクスムの神殿…どこを旅しても、崩れかけた過去のモニュメントを目にしないことはない。"
- pilgrimage_intent.1060.desc.mid.fallback:0 "私は我々のずっと前にこの土地に住んでいた人々を思い出させるものに出会う。 古い寺院、壊れた武器、見分けがつかないほどにバラバラに壊れた物体。時は我々すべてを襲い、我々が崇拝する神とその崇拝の方法は常に流動的だ。"
+ pilgrimage_intent.1060.desc.mid.fallback:0 "私は我々のずっと前にこの土地に住んでいた人々を思い出させるものに出会う。古い寺院、壊れた武器、見分けがつかないほどにバラバラに壊れた物体。時は我々すべてを襲い、我々が崇拝する神とその崇拝の方法は常に流動的だ。"
  pilgrimage_intent.1060.desc.outro:0 "\n\nおそらくいつの日か、別の[ROOT.Char.GetWomanMan]がこの道を歩き、没落した[ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]と、その[ROOT.Char.GetTitleAsNameNoTooltip|U]によって実践された[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の信仰について熟考する日が来るのかもしれない。"
  pilgrimage_intent.1060.a:0 "古い帝国に思いを馳せるべきだ。"
  pilgrimage_intent.1060.b:0 "古代の信仰に思いを馳せるべきだ。"

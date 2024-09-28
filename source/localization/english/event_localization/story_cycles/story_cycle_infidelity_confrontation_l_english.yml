@@ -16,7 +16,7 @@
  infidelity_controntation.1000.start_spouse.desc:0 "私たちの結婚の神聖さを侵すだけでは十分ではないかのように、"
  infidelity_controntation.1000.incest.desc:1 "私の[infidelity_partner.Custom('InsultNoun')]の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('infidelity_partner'))]は、よりにもよって[infidelity_partners_lover.GetHerHim]とベッドを共にしていた！[infidelity_partner.GetHerHis|U]自身の#EMP [infidelity_partner.Custom2('RelationToMeShort', SCOPE.sC('infidelity_partners_lover'))]#!と！\n\nあるいは私は気づくべきだったのかもしれない。彼らはいつもとても…親密だった。おお、[ROOT.Char.GetFaith.HighGodName]よ。彼らが一緒にいると思うと…病気になりそうだ。"
  infidelity_controntation.1000.sodomy.desc:1 "私の[infidelity_partner.Custom('InsultNoun')]の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('infidelity_partner'))]は、よりにもよって[infidelity_partners_lover.GetHerHim]とベッドを共にしていた！別の#EMP [infidelity_partner.GetWomanMan]#!と！\n\nおお、[ROOT.Char.GetFaith.HighGodName]よ。彼らが一緒にいると思うと…病気になりそうだ。"
- infidelity_controntation.1000.regular.desc:0 "[infidelity_partner.GetTitledFirstName]よ、 別の者とベッドを共にしたなどと、よくもそのような真似ができたものだな？よくもそのような裏切る真似ができたものだな？おそらく、その理由を私が知ることはないのだろう。だがしかし[infidelity_partner.GetHerHis]の罪に疑いの余地はなさそうだ。"
+ infidelity_controntation.1000.regular.desc:0 "[infidelity_partner.GetTitledFirstName]よ、別の者とベッドを共にしたなどと、よくもそのような真似ができたものだな？よくもそのような裏切る真似ができたものだな？おそらく、その理由を私が知ることはないのだろう。だがしかし[infidelity_partner.GetHerHis]の罪に疑いの余地はなさそうだ。"
  infidelity_confrontation.1000.demand_break_up.lover:0 "あなたの選択を。[infidelity_partners_lover.GetHerHim]か私か！"
  infidelity_confrontation.1000.demand_break_up.spouse:0 "それを断ち切るか、#EMP 災い#!があるかのどちらかだ！"
  infidelity_confrontation.1000.demand_break_up.success:0 "[infidelity_partner.GetFirstNameNoTooltip]はあなたの要求に屈する"

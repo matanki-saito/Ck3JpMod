@@ -44,7 +44,7 @@
  death_accident:0 "事故死した"
  death_accident_killer:0 "$death_murder_killer$"
  death_ended_on_feast_table:0 "宴会中に人生の幕を閉じた"
- death_plotting:1 "不可解な状況下で死亡した..."
+ death_plotting:1 "不可解な状況下で死亡した…"
  death_mysterious_killer:0 "$death_plotting$"
  death_script_cruelty:0 "仲間の残酷な行いにより死亡した"
  death_stress:0 "ストレスにより死亡した"

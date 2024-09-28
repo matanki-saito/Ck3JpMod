@@ -2,7 +2,7 @@
  employer_booner_invalidated_tt: "#weak Modifier will be removed if [position_holder.GetShortUIName|V] loses this [court_position|E] or is not in the same [court|E] as [THIS.Char.GetShortUIName|V]#!"
  employer_boon_target_invalidated_title: "Courtier Loses Boon"
  employer_booner_invalidated_title: "Court Position Boon Lost"
- court.8190.t: "Good Doctor [position_holder.GetFirstNameNoTooltip]"
+ court.8190.t: "名医[position_holder.GetFirstNameNoTooltip]"
  court.8190.desc: "My [position_holder.Custom('ComplimentAdjective')] [GetCourtPositionType('court_physician_court_position').GetName()], [position_holder.GetTitledFirstName], is a true healer, always ready with some suitable remedy or poultice at the first murmurings of a courtier's mildest malady.\n\n[position_holder.GetHerHis|U] talents seem almost wasted, stretched as [position_holder.GetSheHe] is in treating the demanding denizens of the entire [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] court."
  court.8190.a: "I could do with some closer attention."
  court.8190.b: "You will look to my heir, [heir.GetFirstNameNoTooltip]."

@@ -3,7 +3,7 @@
  fund_inspiration_interaction_desc:2 "[recipient.GetShortUINamePossessiveNoTooltip]の[inspiration|E]を後援し、[artifact|E]の獲得につながる可能性のある[project|E]を開始します。\n\n可能性がある宝物の品質と後援にかかるコストは、[recipient.GetHerHis]のスキルによって異なります。"
  fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U]と[recipient.GetHerHis]の家族"
  indebt_guest_interaction:0 "客人に債務を負わせる"
- indebt_guest_interaction_desc:0 "あなたの[Concept('court_amenities','Servants')|E]に、[recipient.GetShortUINamePossessive]が滞在中に生じた数々の出費を証言させ、#EMP その後、#!彼らに逃げ道を提供する..."
+ indebt_guest_interaction_desc:0 "あなたの[Concept('court_amenities','Servants')|E]に、[recipient.GetShortUINamePossessive]が滞在中に生じた数々の出費を証言させ、#EMP その後、#!彼らに逃げ道を提供する…"
  indebt_guest_interaction.tt.direct_indebted_guest:0 "[recipient.GetTitledFirstName]にどこかに行くように指示する機会があります"
  indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName]は圧力を受けずに逃げます"
  INDEBT_GUEST_INTRIGUE_ACTOR:0 "[actor.GetShortUINamePossessive|U]の[intrigue|E]: $VALUE|=+0$"

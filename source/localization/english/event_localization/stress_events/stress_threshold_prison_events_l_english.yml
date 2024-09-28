@@ -15,7 +15,7 @@
  stress_threshold_prison.1011.desc:0 "何も食べられなくなって数日が経った。不安な私の心は、見張りが持ってくる乾いた薄粥を食べる力さえ、私の体に与えてはくれない。\n\n私は日に日に弱っていっているが、一人の[ROOT.Char.GetWomanMan]が[ROOT.Char.GetHerHis]自身の体に対して一体何ができるだろう？"
  stress_threshold_prison.1011.a:0 "こんな薄粥を食べるくらいなら餓死したほうがマシだ。"
  stress_threshold_prison.1011.b:1 "ここには代替の食料源が#EMP ある#!…"
- stress_threshold_prison.1011.c:0 "[ROOT.Char.GetSheHe|U]は戦える、 一度に一匙ずつ！"
+ stress_threshold_prison.1011.c:0 "[ROOT.Char.GetSheHe|U]は戦える、一度に一匙ずつ！"
  stress_threshold_prison.1012.t:1 "Mental Break: Feeding Time"
  stress_threshold_prison.1012.desc:0 "They think there is nothing to eat in here, that they are starving me out, breaking me.\n\nThey do not know that I am better fed than ever...\n\nThis is a feast hall, filled with delectable food and roars of celebration."
  stress_threshold_prison.1012.a:0 "温かく汁気の多い生命力に溢れている。"

@@ -129,4 +129,4 @@
  culture_parameter_unlock_maa_akritai: "[men_at_arms|E]として[GetMaA('akritai').GetName]を雇用できる"
  culture_parameter_unlock_maa_ballistrai: "[men_at_arms|E]として[GetMaA('ballistrai').GetName]を雇用できる"
  culture_parameter_unlock_maa_skoutatoi: "[men_at_arms|E]として[GetMaA('skoutatoi').GetName]を雇用できる"
- culture_parameter_unlock_maa_varangian_guards: "$e_byzantium$[title|E]を持ち、ヴァリャーグの守衛を見ている時、[men_at_arms|E]として[GetMaA('varangian_guards').GetName]を雇用できる"
+ culture_parameter_unlock_maa_varangian_guards: "$e_byzantium$[title|E]を持ち、ヴァリャーグ親衛隊が設立されている時、[men_at_arms|E]として[GetMaA('varangian_guards').GetName]を雇用できる"

@@ -18,7 +18,7 @@
  sway_outcome.1003.a_friend:0 "[friend.GetFirstNameNoTooltip]に任せよう。"
  sway_outcome.1003.b:0 "これでもう十分だ。"
  sway_outcome.2001.t:0 "懐柔: 誤解"
- sway_outcome.2001.opening:0 "[target.GetTitledFirstName]に対する私の外交的な申し入れは大きな誤解を生んでしまったようだ！ 私は、私が全く別の目的を追求していると[target.GetSheHe]が考えていることを明らかにする手紙を受け取った…"
+ sway_outcome.2001.opening:0 "[target.GetTitledFirstName]に対する私の外交的な申し入れは大きな誤解を生んでしまったようだ！私は、私が全く別の目的を追求していると[target.GetSheHe]が考えていることを明らかにする手紙を受け取った…"
  sway_outcome.2001.not_interested_relation:0 "\n\n「[target.GetFaith.HighGodNamePossessive]に仕える私があなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('target'))]であることをお忘れでしょうか！」"
  sway_outcome.2001.not_interested_romantically:0 "\n\n「嬉しくはありますが、あなたの興味はあなたのような立場の[ROOT.Char.GetWomanMan]には不適切だと思います。」"
  sway_outcome.2001.not_interested_horses:0 "\n\n「いくらお世辞に満ちた手紙を送っても、私は純血種の馬を売るつもりはありません！」"

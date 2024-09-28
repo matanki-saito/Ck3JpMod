@@ -2,7 +2,7 @@
  perk_interaction.0002.t:0 "我が土地の請求！"
  perk_interaction.0002.same_faith:0 "考えられないような理由で[actor.GetFaith.AltPriestTermPlural]は[target.GetName]に対する[actor.GetTitledFirstNamePossessive]の根も葉もない請求を認めた！"
  perk_interaction.0002.other_faith:0 "[actor.GetFaith.GetAdjective]のホラ吹き司祭が、[target.GetName]に対する[actor.GetTitledFirstNamePossessive]の根も葉もない請求を支持すると公的に宣言した！"
- perk_interaction.0002.a:1 "然るべきときに[actor.GetHerHim]に目にもの見せてやろう..."
+ perk_interaction.0002.a:1 "然るべきときに[actor.GetHerHim]に目にもの見せてやろう…"
  perk_interaction.0102.actor_toast.t:0 "あなたの[recipient.GetFirstNameNoTooltip]との勝負は無効になった"
  perk_interaction.0102.recipient_toast.t:0 "あなたの[actor.GetFirstNameNoTooltip]との勝負は無効になった"
  perk_interaction.0102.bout_invalidated.tt:0 "状況の変化によりあなたはキャンセルを余儀なくされた"

@@ -8,7 +8,7 @@
  fp2_santiago_bells:0 "サンティアゴの鐘"
  fp2_santiago_bells_desc:0 "サンティアゴ・デ・コンポステーラの輝ける鐘は、力強く、質素で、なによりも#EMP 騒々しく#!、聖ヤコブの不滅の霊的権威を思い起こさせる。"
  fp2_santiago_bells_melted_desc:0 "異教徒どもの手から奪回され、[reforger.GetTitledFirstName]の手によってかつての姿を取り戻したサンティアゴ・デ・コンポステーラの輝かしき鐘は、すべてのキリスト教徒を慰めるために鳴り響く。"
- fp2_santiago_bells_melted_tally_desc:0 "$fp2_santiago_bells_melted_desc$\n\n頻繁に鍛造が繰り返される金属で、[ROOT.Var('artefact_santiago_bells').GetValue]回ほど手が加えられている。 "
+ fp2_santiago_bells_melted_tally_desc:0 "$fp2_santiago_bells_melted_desc$\n\n頻繁に鍛造が繰り返される金属で、[ROOT.Var('artefact_santiago_bells').GetValue]回ほど手が加えられている。"
  fp2_armillary_sphere:0 "アーミラリ天球儀"
  fp2_armillary_sphere_desc:0 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した複雑な占星術の道具。輪は[newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )]をはめ込んだ[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]を彫刻して作られており、曲がりくねった天空の道を驚くほど精細に再現している。"
  fp2_2p_chess_board:0 "幸運のチェス盤"

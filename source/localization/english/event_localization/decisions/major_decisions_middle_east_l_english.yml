@@ -56,7 +56,7 @@
  middle_east_decisions.1001.desc:0 "レバントとコーカサスにアルメニアが支配を及ぼして以来、何世紀にもわたり東西二つの帝国が我々を幾度となく血まみれに打ちのめしてきた。西の帝国はときにラテン語、ときにギリシャ語を話し、東の帝国はときにペルシア語、ときにアラビア語を話す、常に二つの帝国は争い、我らの古き土地を戦場としている。\n\n今日の日を境に、私はティグラネス大王の征服地を改めて切り取り、大アルメニアの鷲の軍旗をふたたび翻らせるだろう！"
  middle_east_decisions.1001.a:0 "私はさらなる偉業を目指すのだ！"
  middle_east_decisions.1001.b:0 "何度も繰り返された成果と変わりはない。"
- middle_east_decisions.1002.desc:0 "A strange situation has been brewing in the mountains of the Caucasus for some time. Against all odds, [founder.GetFullNameNoTooltip] has succeeded in carving a sizable realm, spreading from the Caspian Sea in the east to the shores of the Mediterranean in the west. Though imperfect, this has roughly recreated the long-dead empire of Tigranes the Great, a circumstance that the heralds of [founder.GetFullNameNoTooltip] are quick to trumpet.\n\nThe eagle-standard of Greater Armenia rises again, but for how long?"
+ middle_east_decisions.1002.desc:0 "コーカサス山脈のあたりでいつの間にか奇妙な事態が起こっていた。困難をものともせず、[founder.GetFullNameNoTooltip]は東はカスピ海から西は地中海沿岸に広がる、広大な領土を切り取ることに成功したのだ。不完全とはいえ、これははるか昔に滅び去ったティグラネス大王の帝国をほぼ再興したものであり、[founder.GetFullNameNoTooltip]の使者たちは早くもこの事態を触れて回っている。\n\n大アルメニアの鷲の軍旗はふたたび翻った。だがそれは、いつまで続くだろうか？"
  middle_east_decisions.1002.a:0 "帝国の威厳は、単なる土地以上のものが求められる。"
  middle_east_decisions.1002.b:0 "今回は、誰も我々を引き裂くことはできない。"
  middle_east_decisions.1002.c:0 "歴史上の些事だ。"

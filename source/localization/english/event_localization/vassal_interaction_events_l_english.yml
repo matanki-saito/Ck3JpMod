@@ -7,7 +7,7 @@
  vassal_interaction.0001.request_gold_tt:0 "引き換えに金を要求します"
  vassal_interaction.0001.accept:0 "[actor.GetFirstNameNoTooltip]は私の要求を受け入れる"
  vassal_interaction.0001.decline:0 "[actor.GetFirstNameNoTooltip]は拒否する"
- vassal_interaction.0001.c:0 "既にこの戦争に多くの投資をしてきたのに..."
+ vassal_interaction.0001.c:0 "既にこの戦争に多くの投資をしてきたのに…"
  vassal_interaction.0001.d:0 "いや、最後までやり通す！"
  vassal_interaction.0001.e:0 "だめだ 止められないぞ！"
  vassal_interaction.0002.opening:0 "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"

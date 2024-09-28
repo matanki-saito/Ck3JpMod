@@ -33,7 +33,7 @@
  hajj_destination_safa_marwah_lazy_log_title:0 "$hajj_destination_safa_marwah_log_title$"
  hajj_destination_safa_marwah_lazy_log:0 "[CHARACTER.GetHerHis]自身の心地よさのために、[CHARACTER.GetName]はサファーとマルワの間の行程で手を抜いた"
  hajj_destination_damm_log_title:0 "罰: ダム"
- hajj_destination_damm_log:0 "[CHARACTER.GetName]はサファーとマルワの儀式で手を抜いた分を補うためにダムを行った。 "
+ hajj_destination_damm_log:0 "[CHARACTER.GetName]はサファーとマルワの儀式で手を抜いた分を補うためにダムを行った。"
  hajj_destination_sadaqah_alfitr_log_title:0 "罰: サダカ・アル＝フィトル"
  hajj_destination_sadaqah_alfitr_log:0 "[CHARACTER.GetName]はサファーとマルワの儀式で手を抜いた分を補うためにサダカ・アル＝フィトルを行った。"
  hajj_destination_zamzam_well_compassionate_log_title:0 "$hajj_destination_zamzam_well_log_title$"

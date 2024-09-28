@@ -163,7 +163,7 @@
  learning_theology.3051.desc.outro:0 "\n\n入場料は確かに高い。だが、[passion_playwright.GetNameNoTooltip]の演劇をこの目で見られる一生に一度の機会かもしれない！"
  learning_theology.3051.a:0 "劇場での敬虔な夜だ！"
  learning_theology.3051.b:0 "[ROOT.Char.GetFaith.CreatorName]の創作を軽んじる気はない。"
- learning_theology.3052.desc:0 "目の前で繰り広げられる演劇を見ていると、[passion_playwright.GetName]がなぜ文豪として名をはせているかがすぐにわかる。 文章、演出、そのすべてが、[ROOT.Char.GetFaith.ReligiousText]の出来事の目撃者にでもなったように錯覚させる——いっそ[ROOT.Char.GetFaith.CreatorName]自身の偉業を体験したかのようにさえ！\n\n芝居も終わりに近づくと、[passion_playwright.GetNameNoTooltip]と二人きりになっていることに気づく。"
+ learning_theology.3052.desc:0 "目の前で繰り広げられる演劇を見ていると、[passion_playwright.GetName]がなぜ文豪として名をはせているかがすぐにわかる。文章、演出、そのすべてが、[ROOT.Char.GetFaith.ReligiousText]の出来事の目撃者にでもなったように錯覚させる——いっそ[ROOT.Char.GetFaith.CreatorName]自身の偉業を体験したかのようにさえ！\n\n芝居も終わりに近づくと、[passion_playwright.GetNameNoTooltip]と二人きりになっていることに気づく。"
  learning_theology.3052.a:0 "あなたのように[ROOT.Char.GetFaith.ReligiousText]を表現できるよう、教えてくれ！"
  learning_theology.3052.b:0 "私ならもっと上手く書けるはずだ！"
  learning_theology.3053.desc:1 "I watch the play unfold in front of me and it is, without a doubt, total tripe. What I have just witnessed was unworthy of even being called literature.\n\nThe story follows [ROOT.Char.GetCapitalLocation.Custom('GetRandomRegionalWood')|U] [ROOT.Char.Custom('GetRandomRegionalBird')|U]way, a young scholar studying [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip] mysticism and witchcraft, all the while pursuing lover after lover within [passion_playwright.GetHerHis] scholarly circle.\n\nThe play has scarcely a thing to do with the [ROOT.Char.GetFaith.ReligiousText], and already my fellow audience members are beginning to mock and jeer at [passion_playwright.GetNamePossessive] shoddy writing."

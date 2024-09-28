@@ -600,7 +600,7 @@
  lover_keepsake_shell_name:0 "[original_lover.GetFirstNamePossessiveNoTooltip]の貝殻"
  lover_keepsake_shell_description:1 "[original_lover.GetTitledFirstNamePossessive]から[original_lover.GetHerHis]の遠く離れた恋人[lover.GetTitledFirstNameNoTooltip]に送られた記念品は、最初の交際の記念として受け取られた。"
  christian_saint_bone_name:0 "[saint_bone_owner.Custom('RandomSaintNamePossessive')]の[saint_bone_owner.Custom('RandomSaintBone')]"
- christian_saint_bone_description:1 "[saint_bone_owner.GetFaith.GetReligion.GetAdjectiveNoTooltip]聖人の遺体と噂されているもので、 [saint_bone_owner.GetNameNoTooltip]が[saint_bone_owner.GetHerHis]の[christian_saint_bone_scope.MakeScope.Var('holy_site').GetProvince.GetCounty.GetTitle.GetNameNoTierNoTooltip]への巡礼の際に入手し、[saint_bone_owner.GetFaith.GetAdherentNamePluralNoTooltip]によって幸運と信仰心の証として崇められている。"
+ christian_saint_bone_description:1 "[saint_bone_owner.GetFaith.GetReligion.GetAdjectiveNoTooltip]聖人の遺体と噂されているもので、[saint_bone_owner.GetNameNoTooltip]が[saint_bone_owner.GetHerHis]の[christian_saint_bone_scope.MakeScope.Var('holy_site').GetProvince.GetCounty.GetTitle.GetNameNoTierNoTooltip]への巡礼の際に入手し、[saint_bone_owner.GetFaith.GetAdherentNamePluralNoTooltip]によって幸運と信仰心の証として崇められている。"
  bone_type_knuckle:0 "指関節"
  bone_type_shin:0 "脛"
  bone_type_kneecap:0 "膝蓋骨"

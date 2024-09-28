@@ -186,7 +186,7 @@
  forest_of_corpses_3_modifier:0 "$forest_of_corpses_1_modifier$"
  forest_of_corpses_3_modifier_desc:0 "$forest_of_corpses_1_modifier_desc$"
  intrigue_dread.2001.t:0 "[loved_one.GetSheHe|U]さえも私を恐れる"
- intrigue_dread.2001.desc:0 "[loved_one.GetTitledFirstNamePossessive]の手が私の手の下で震えている。[loved_one.GetHerHis]の頬を撫でようと手を伸ばすとき、 [loved_one.GetSheHe]はたじろいでしまう。\n\n[loved_one.GetSheHe|U] は人々が私についてどんな奇妙なこと言っているかを教えてくれる。恐ろしいこと。[loved_one.GetSheHe|U] はどちらが本当なのか疑問に思っている。"
+ intrigue_dread.2001.desc:0 "[loved_one.GetTitledFirstNamePossessive]の手が私の手の下で震えている。[loved_one.GetHerHis]の頬を撫でようと手を伸ばすとき、[loved_one.GetSheHe]はたじろいでしまう。\n\n[loved_one.GetSheHe|U] は人々が私についてどんな奇妙なこと言っているかを教えてくれる。恐ろしいこと。[loved_one.GetSheHe|U] はどちらが本当なのか疑問に思っている。"
  intrigue_dread.2001.a:0 "彼らは私がしてきたことの #EMP 半分も#!知らない。"
  intrigue_dread.2001.a.tt:1 "もっと近くへ。#EMP 近くへ。#!私はあなたの耳元でささやきます。"
  intrigue_dread.2001.b:0 "私のすることはすべて、あなたを守るためだ！"

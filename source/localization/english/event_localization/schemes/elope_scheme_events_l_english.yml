@@ -11,7 +11,7 @@
  elope.0001.a.failure_hidden:0 "私は#N 失敗する#!が発見はされない"
  elope.1001.t:0 "$elope_event_title$ 愛の試練"
  elope.1001.start.desc:0 "待っているあいだ、私はうまくいかなかった時のことを色々と想像せずにはいられなかった。私はすっかり気力を失ってしまった。私はこんなに相手に深入りしたく#EMP ない#!という気持ちになった。\n\n前方に松明が灯り、こちらに向かってくるのに気づき、衛兵に隠れるよう合図をした。"
- elope.1001.end.desc:0 "明かりが近づいてきて、二つの人影が見えてきた。一人は剣を持っていてはっきり見える。もう一人は……#EMP [target.GetHerHim]#!に違いない！\n\n私は[target.Custom('LoverPetName')]のもとに駆け出し、[target.GetSheHe]は私の広げた両腕に身を投げ出した。抱擁はわずかな間のことだったが、蜂蜜のように甘美だった。私は[target.GetHerHis]の手を取ると走り始めた。"
+ elope.1001.end.desc:0 "明かりが近づいてきて、二つの人影が見えてきた。一人は剣を持っていてはっきり見える。もう一人は…#EMP [target.GetHerHim]#!に違いない！\n\n私は[target.Custom('LoverPetName')]のもとに駆け出し、[target.GetSheHe]は私の広げた両腕に身を投げ出した。抱擁はわずかな間のことだったが、蜂蜜のように甘美だった。私は[target.GetHerHis]の手を取ると走り始めた。"
  elope.1001.a:0 "急ごう、愛しい人！[ROOT.Char.Custom('DefaultPriestTitle')]が待っている！"
  elope.1002.t:0 "夜の闇に消えて"
  elope.1002.start.desc:1 "不愉快なことに、私はドアを激しく叩く音で起こされた。「我が[ROOT.Char.GetTitleAsNameNoTooltip]！衛兵が一人殺されているのが発見され、[ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('target'))]が行方知れずになっています！」"

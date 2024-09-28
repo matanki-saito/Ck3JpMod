@@ -20,7 +20,7 @@
  bookmark_swords_of_faith_raimon_eschiva: "エスシヴァ"
  bookmark_swords_of_faith_raimon_desc: "幼き日に父をニザール派の暗殺者に奪われたレモンは、17歳の頃よりトルクメン人の略奪者と戦い、海賊を雇ってビザンツの海岸を荒らし回り、さらにはザンギー朝の牢獄で約10年もの虜囚生活に耐え忍んだ。\n\n解放された後、幼王ボードゥアンの摂政として当然のように選ばれたが、あの若い癩病の王は今や成年に達し、レモンは自らの領地に戻り、王国の未来と自らの将来について思索している。\n\n#bold 君は王の力を味わい、それを手放した。そして依然としてこの王国の柱である。君はその影響力をもって何を為すのだろうか？#!"
  bookmark.0300.t: "彼の父親の息子？"
- bookmark.0300.desc: "亡き夫[dead_husband.GetFirstName]は、私たちの息子が生まれる数か月前に死んだ。この子は父を知ることなく、父方の親族とは大きな距離がある。\n\nこの子の父がいくら寛大で勇敢だったとしても、私たちの結婚生活#italic は#!短く、ここでは彼の名はほとんど重みを持っていない...\n\nもし[baby_baudouin.GetFirstName]がいつかその額に王冠を戴くのならば、父の記憶を薄れさせ、代わりに私自身の血筋の伝統の中で彼を育てる方が、この子のためになるかもしれない。"
+ bookmark.0300.desc: "亡き夫[dead_husband.GetFirstName]は、私たちの息子が生まれる数か月前に死んだ。この子は父を知ることなく、父方の親族とは大きな距離がある。\n\nこの子の父がいくら寛大で勇敢だったとしても、私たちの結婚生活#italic は#!短く、ここでは彼の名はほとんど重みを持っていない…\n\nもし[baby_baudouin.GetFirstName]がいつかその額に王冠を戴くのならば、父の記憶を薄れさせ、代わりに私自身の血筋の伝統の中で彼を育てる方が、この子のためになるかもしれない。"
  bookmark.0300.a: "私は[baby_baudouin.GetFirstNameNoTooltip]に、まず[ROOT.Char.GetHouse.GetBaseNameNoTooltip]家の一員であると自覚するように育てるつもりだ。"
  bookmark.0300.b: "いや、私たちは[dead_husband.GetFirstNamePossessiveNoTooltip]の思い出を尊重すべきだ。"
  bookmark.0300.b.tt: "#warning @warning_icon!この選択をすると、自分の王朝ではない[player_heir|E]が残ることになります！#!"

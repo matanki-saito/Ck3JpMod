@@ -27,7 +27,7 @@
  mystic_lifestyle.1007.desc:0 "私と神との交わりは最近変わってきた。もはや恍惚とした気分にはならず，かわりに体が弱ってきた。\n\n今日はベッドから起き上がる体力さえ出てこない。"
  mystic_lifestyle.1007.a:0 "我が下僕共よ…助けてくれ…"
  mystic_lifestyle.1008.t:0 "$mystic_lifestyle_communion_header$ 奇跡"
- mystic_lifestyle.1008.desc:0 "身体は弱っていたが、私は交わりを維持するためにできることをした。\n\nそれは今まで以上に熱烈で、そして今朝、驚くなかれ！ [ROOT.Char.GetFaith.HighGodName|U]は私に奇跡を起こしてくださったのだ！"
+ mystic_lifestyle.1008.desc:0 "身体は弱っていたが、私は交わりを維持するためにできることをした。\n\nそれは今まで以上に熱烈で、そして今朝、驚くなかれ！[ROOT.Char.GetFaith.HighGodName|U]は私に奇跡を起こしてくださったのだ！"
  mystic_lifestyle.1008.a:0 "我は快復した！"
  mystic_lifestyle.1009.opening:0 "私の親愛なる[SCOPE.sC('mystic').Custom2('RelationToMeShort', ROOT.Char )]"
  mystic_lifestyle.1009.desc:0 "あなたの我らの信仰への神秘的な探究心を称賛しなければならない！\n\n聞くところによると私は私自身を知るためにさらに一つか二つ学ぶことが残っているようだ！"

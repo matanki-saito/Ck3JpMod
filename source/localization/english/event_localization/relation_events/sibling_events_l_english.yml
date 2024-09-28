@@ -27,7 +27,7 @@
  sibling.1001.t:0 "外交支援"
  sibling.1001.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') ) ], [sibling.GetTitledFirstName], has come to me with ideas of how to put [sibling.GetHerHis] silver tongue to good use.\n\n\"I can serve as an envoy, or even dictate your dispatches and orders.\""
  sibling.1001.a:0 "あなたが一番役に立つ場所を知っている。"
- accepted_sibling_help_tt:0 "有能な兄弟は、彼らがある種の恩恵を与えていると感じるかもしれません..."
+ accepted_sibling_help_tt:0 "有能な兄弟は、彼らがある種の恩恵を与えていると感じるかもしれません…"
  sibling.1001.b:0 "あなたに借りを作ることは拒否する、[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )]。"
  sibling.1002.t:0 "軍事知識"
  sibling.1002.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], has come to me to make a point of [sibling.GetHerHis] understanding of war.\n\n\"Let me help train your soldiers, and they'll fight like no army you've seen before.\""

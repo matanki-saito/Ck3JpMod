@@ -91,7 +91,7 @@
  stewardship_wealth.7000.b.tt:0 "身代わり、真実の隠蔽、わずかな返済。暴政への非難を和らげるためなら何でもします"
  stewardship_wealth.7000.c:0 "この金を持っていけ。もっとくれ。"
  stewardship_wealth.7000.c.tt:0 "あなたの領国と[victim.GetHersHis]に、[ROOT.Char.GetTitleAsNameNoTooltip]が求めうる最高のごろつきを解き放つのだ！"
- stewardship_wealth.7000.d:0 "何という……盗まれた物は返さねば。"
+ stewardship_wealth.7000.d:0 "何という…盗まれた物は返さねば。"
  stewardship_wealth.7000.d.tt:0 "復讐などは間違っています…"
  stewardship_wealth.7001.t:0 "国境を越えて"
  stewardship_wealth.7001.desc:1 "糞ったれの[thieving_rival.GetTitledFirstName]と盗っ人の下僕どもめ！[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('messenger'))]の[messenger.GetTitledFirstName]は、私のもとに来るはずだった富を、禿げ頭の悪党どもが[ROOT.Char.GetCapitalLocation.GetName]の民草たちから強引に奪い取ったとしどろもどろになりながら私に告げたのだ！\n\n[messenger.GetFirstNameNoTooltip]によれば、役人たちはすでにいつも通りの税金を徴収する準備を整えたと言うが…しかし私はもう、未亡人が泣き叫び、子どもたちが飢え、貧しい家族が家を追われるのを予見している。\n\n[thieving_rival.GetTitledFirstNamePossessiveNoTooltip]の貪婪な魂に、幾千の呪いよ降りかかりたまえ！"

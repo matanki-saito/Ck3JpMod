@@ -59,7 +59,7 @@
  SCHEME_BASE_SUCCESS:0 "Base: $VALUE|Z=1$"
  SCHEME_AGENT_TOOLTIP:0 "#T Agent [SchemeAgentSlotItem.GetCharacter.GetShortUIName|U]#! \n[SchemeAgentSlotItem.GetSuccessDesc]\n\n[scheme_speed|E]: [SchemeAgentSlotItem.GetContribution|1=+]"
  SCHEME_AGENT_SUCCESS:0 "[success_chance|E]: $VALUE|+=1$\n$DESC$"
- SCHEME_WINDOW_EXPOSED_TOOLTIP:0 "#T 露見#! \nこの計画は暴露されました。 目標の人物の知るところとなります。"
+ SCHEME_WINDOW_EXPOSED_TOOLTIP:0 "#T 露見#! \nこの計画は暴露されました。目標の人物の知るところとなります。"
  SCHEME_WINDOW_NO_KNOWN_AGENTS:0 "#weak まだ暴かれたスパイはいません#!"
  SCHEME_IS_EXPOSED:0 "計画が暴かれた: $VALUE|0=+%/$"
  SCHEME_SUCCESS_DIFFICULTY_EASY:0 "$easy_difficulty$: $VALUE|1=+%/$"

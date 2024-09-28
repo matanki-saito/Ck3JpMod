@@ -44,7 +44,7 @@
  INNOVATION_STATE_BLOCKED:0 "[CULTURE.GetCollectiveNoun]は利用不可"
  INNOVATION_CLICK_TO_SELECT_FASCINATION:0 "#I クリックで[cultural_fascination|E]を選択#!"
  INNOVATION_EXPOSURE_MARKER_TOOLTIP:0 "#T 現在の[exposure|E]#!\nこの[culture|E]は現在、その進歩を後押しする[innovation|E]にさらされています。"
- INNOVATION_FASCINATION_MARKER_TOOLTIP:0 "#T 現在の[cultural_fascination|E]#!\n[cultural_head|E]はこの[innovation|E]に志向を定めており、その進捗を後押ししています。 文化指導者はいつでも別の革新性を選択して志向を定めることができます。"
+ INNOVATION_FASCINATION_MARKER_TOOLTIP:0 "#T 現在の[cultural_fascination|E]#!\n[cultural_head|E]はこの[innovation|E]に志向を定めており、その進捗を後押ししています。文化指導者はいつでも別の革新性を選択して志向を定めることができます。"
  CULTURE_WINDOW_ERA_INNOVATION_BLOCKED_FOR_PLAYER_GOVERNMENT:0 "#X @warning_icon![GetPlayer.GetGovernment.GetName]政体であるため利用不可#!"
  CULTURE_TOOLTIP_DESC:2 "[heritage|E]: [Culture.GetHeritage.GetNameNoTooltip]\n[cultural_head|E]: [Culture.GetCultureHead.GetUIName|U]\n[era|E]: [Culture.GetCultureEra.GetName]\n\n[Culture.GetCultureEra.GetType.GetDescription|F]"
  CULTURE_ERA_TOOLTIP_REACHED:1 "#P [CultureEra.GetCulture.GetCollectiveNounNoTooltip]はこの時代に到達しています#!"

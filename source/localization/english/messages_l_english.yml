@@ -464,7 +464,7 @@
  msg_scheme_pulse_effect: "Pulse Effect"
  msg_scheme_pulse_effect_desc: "$EFFECT$"
  msg_domicile_moved.title: "野営地を[CHARACTER.GetCurrentLocation.GetBaronyNameExplicitlyNoTooltip]に移動した"
- msg_domicile_moved.desc: "Your [camp|E] has moved to [CHARACTER.GetCurrentLocation.GetBaronyNameExplicitly]"
+ msg_domicile_moved.desc: "[camp|E]は[CHARACTER.GetCurrentLocation.GetBaronyNameExplicitly]に移動した"
  msg_domicile_building_started.title: "#high [CHARACTER.GetDomicile.GetBuildingUnderConstruction.GetName]#! Started"
  msg_domicile_building_started.desc: "[CHARACTER.GetDomicile.GetBuildingUnderConstruction.GetName] is under construction in [CHARACTER.GetDomicile.GetType.GetTitleText( CHARACTER.Self )]"
  msg_domicile_building_cancelled.title: "#high [CHARACTER.GetDomicile.GetBuildingUnderConstruction.GetNameNoTooltip]#! Canceled"

@@ -1157,7 +1157,7 @@
  MOD_ENEMY_SCHEME_SECRECY_ADD: "Enemy [scheme|E] [secrecy|E]"
  MOD_PER_SCHEME_PHASE_POSTFIX: " per [scheme_phase_phase|E]"
  MOD_DAYS_PER_SCHEME_PHASE_SUFFIX_POSITIVE: " #weak days slower per [scheme_phase|E]#!"
- MOD_DAYS_PER_SCHEME_PHASE_SUFFIX_NEGATIVE: " #weak days faster per [scheme_phase|E]#!"
+ MOD_DAYS_PER_SCHEME_PHASE_SUFFIX_NEGATIVE: "#weak 日早くなる（[scheme_phase|E]ごとに）#!"
  dodekapolis_modifier: "Dodekapolis"
  dodekapolis_modifier_desc: "Since the age of Homer, when the Aeolian and Ionian colonists disembarked upon the western coast of Anatolia, the 12 cities of the Anatolian coast — the #EMP dodekapolis#! — have stood as shining beacons of civilization and human development.\nCan build [GetBuilding('cereal_fields_01').GetName]"
  backwater_county_modifier: "Backwater"

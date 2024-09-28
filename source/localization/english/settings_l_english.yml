@@ -90,7 +90,7 @@
  iranian: "$e_persia_adj$"
  SETTING_TILT_CAMERA_ON_ZOOM_OUT: "ズームアウトでカメラを傾ける"
  SETTING_TILT_CAMERA_ON_ZOOM_OUT_TOOLTIP: "#T $SETTING_TILT_CAMERA_ON_ZOOM_OUT$#!\nズームアウト時にカメラをデフォルトの傾き方向に傾けるかどうかを決定します。"
- map_table_style_auto: "動的"
+ map_table_style_auto: "自動"
  map_table_style_western: "デフォルト"
  map_table_style_ce1: "伝染病"
  SETTING_MAP_TABLE_STYLE: "マップテーブルスタイル"
