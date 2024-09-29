@@ -107,7 +107,7 @@
  VASSAL_LIMIT_TOOLTIP_START:0 "#T 封臣限界#!\n[CHARACTER.GetNumVassalsTowardsLimit]/[CHARACTER.GetVassalLimit]の封臣（[count|E]以上）"
  VASSAL_LIMIT_TOOLTIP_END:0 "[CHARACTER.GetVassalLimitBreakdown]"
  VASSAL_CONTRACT_OBLIGATION_NO_EFFECT:2 "This is the current [vassal_contract|E] and [obligations|E]"
- VASSAL_CONTRACT_OBLIGATION_ONLY_ONCE:2 "#weak You can only change the [vassal_contract|E] once for each Character#!"
+ VASSAL_CONTRACT_OBLIGATION_ONLY_ONCE:2 "#weak [vassal_contract|E]を変更できるのは人物ごとに一度だけです#!"
  MODIFY_VASSAL_CONTRACT_NOT_ADJACENT_LEVEL:0 "@warning_icon!#X 現在のレベルである$CONTRACT_LEVEL_NAME$と提案されたレベルである$PROPOSED_LEVEL_NAME$は隣接していません#!"
  OBLIGATION_LIEGE_MODIFIER:0 "#S [liege|E]:#!"
  OBLIGATION_VASSAL_MODIFIER:0 "#S [vassal|E]:#!"

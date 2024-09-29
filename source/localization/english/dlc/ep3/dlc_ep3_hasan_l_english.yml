@@ -65,7 +65,7 @@
  begin_hasan_cycle_ismaili_tt: "You begin work as an [GetFaithByKey('ismaili').GetAdjective|U] missionary"
  begin_hasan_cycle_twelver_tt: "You begin work as an [GetPlayer.GetFaith.GetAdjective|U] missionary"
  unlock_evangelize_decision_tt: "You gain access to the [GetDecisionWithKey('hasan_evangelize_the_faith').GetName] decision"
- advance_to_the_assassins_tt: "This option #P advances#! you on the path of the Assassins"
+ advance_to_the_assassins_tt: "この選択肢は暗殺教団への道へとあなたを#P 進めます#!"
  unlock_final_hasan_decisions_1_tt: "Gain access to the [GetDecisionWithKey('hasan_agitate_the_populace').GetName] [decision|E]"
  unlock_final_hasan_decisions_2_tt: "Gain access to the [GetDecisionWithKey('hasan_found_the_assassins').GetName] [decision|E]"
  unlock_final_hasan_decisions_3_tt: "Gain access to the [GetDecisionWithKey('hasan_ignite_the_flames').GetName] [decision|E]"

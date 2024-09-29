@@ -156,7 +156,7 @@
  ep3_frankokratia_events.0060.desc_paid: "ラテン人の軍勢によって帝位に就いた新たなる君主[claimant.GetName]は、[claimant.GetCapitalLocation.GetTitle.GetNameNoTier]の比類なき栄華の中に鎮座しており、[claimant.GetHerHis]の臣下たちは恨めしそうに服従している――今のところは。\n\nこの新たな[claimant.GetTitleAsNameNoTooltip]の差し出せるすべての富によって肥え太った[claimant.GetPrimaryTitle.GetAdjective]軍を筆頭とする十字軍は、ついに他の場所を目標に定めたようだ。"
  ep3_frankokratia_events.0060.desc_leave_unpaid: "ラテン人の軍勢によって帝位に就いた新たなる君主[claimant.GetName]は、[claimant.GetCapitalLocation.GetTitle.GetNameNoTier]の比類なき栄華の中に鎮座しており、[claimant.GetHerHis]の臣下たちは恨めしそうに服従している――今のところは。\n\nこの新たなる[claimant.GetTitleAsNameNoTooltip]は、その前任者たちに相応しき信念をもって、十字軍の要求を#EMP 拒絶#!した。[claimant.GetHerHim]のために戦い、唸り声を上げていた犬どもは、腹を空かせたまま追い払われた。\n\n新たな君主が君臨する…とはいえ疑問は残る。あの迷える十字軍は、なぜ救済を求めながらこのような道を選んだのだろうか…？"
  ep3_frankokratia_events.0060.desc_loss: "#EMP 「勝利せし者、[defender.GetTitledFirstName]を称えよ！[defender.GetTitleAsNameNoTooltip]万歳！[defender.GetTitleAsNameNoTooltip]万歳！」#!\n\n繰り返される喝采が[defender.GetPrimaryTitle.GetNameNoTier]中にこだました――彼らの君主がラテン人の十字軍を海の向こうへと追い返したからだ。強大なるビザンティウムを請求した[claimant.GetNamePossessive]に神の恩寵は与えられていなかったことが証明されたようだ。\n\n全能なる神の意志を確信していた冒険者たちにとっては、大いなる屈辱であろう…"
- ep3_frankokratia_events.0060.a: "まさに東西キリスト教徒の再会だ。"
+ ep3_frankokratia_events.0060.a: "大した東西キリスト教徒の「再会」だな。"
  latin_emp_title_gain_tooltip: "[latin_emperor.GetShortUIName|U]は[latin_emperor.GetPrimaryTitle.GetName]を作成しました"
  latin_emp_lesser_gains_tooltip: "[latin_emperor.GetShortUIName|U]は[latin_kingdom_1.GetName]及びその下位の[titles|E]を獲得しました"
  byzantium_is_destroyed_tooltip: "[GetTitleByKey('e_byzantium').GetName|U]は破棄されました"

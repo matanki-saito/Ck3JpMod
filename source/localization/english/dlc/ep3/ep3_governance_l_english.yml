@@ -1,5 +1,5 @@
 ﻿l_english:
- governor_tax_scheme: "Collect Taxes"
+ governor_tax_scheme: "徴税"
  governor_tax_scheme_desc_general: "In a Collect Taxes [scheme|E], you attempt to gather intelligence about missing taxes, and make the suspected village pay up."
  governor_tax_scheme_desc: "Taxes are carefully collected and noted down for every district and village, making it possible to see when taxes have been, in fact, paid as required. And, more importantly, when payments are #EMP missing#!."
  governor_tax_scheme_action: "Collect Taxes in"

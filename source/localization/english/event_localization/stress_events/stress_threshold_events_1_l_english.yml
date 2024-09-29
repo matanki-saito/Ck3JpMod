@@ -468,6 +468,6 @@
  an_influx_of_eager_beggars_modifier_desc:0 "ここの多くの集落の通りには、コインを欲しがる乞食たちが並んでいる。"
  deplenished_forests_and_fields_modifier:0 "空っぽの森と野原"
  deplenished_forests_and_fields_modifier_desc:0 "この領地の鹿肉と鹿が隠れる草地は君主の饗宴によって荒廃している。"
- stress_threshold.1721.desc.cynical_no_collide:0 "rational, but my [ROOT.Char.Custom('GetCourtierPlural')|l] always seem to adore the philosophies of others and never my own musings."
+ stress_threshold.1721.desc.cynical_no_collide:0 "理性的な[ROOT.GetCharacter.GetTitleAsNameNoTooltip]であろうと。だが、臣民は常に他者の哲学を崇拝し、私自身の考えなど見向きもしないように思える。"
  good_exercise_modifier:0 "良い運動"
  good_exercise_modifier_desc:0 "この人物は、訓練で自分の限界に挑戦し、その結果強くなったと感じている。汗臭さはあるが…"

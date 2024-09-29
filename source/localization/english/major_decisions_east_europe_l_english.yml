@@ -59,7 +59,7 @@
  east_europe.0112.desc.outro:0 "\n\nこの件はこれで終わりだ。それで、次は、書く前によく考えたまえ。"
  east_europe.0112.a:0 "なんと見る目のない愚か者だ！"
  east_europe.0113.t:0 "[hof.Custom2('AppropriateGreeting',accuser)]"
- east_europe.0113.desc:0 "あなたの言葉には悩まされる。このような深遠な腐敗が キリスト教の中心部の近くに 隠れているかもしれないと思うと！\n\n[heretic.GetTitledFirstNameNoTooltip]と相談して、この問題の真相を究明する。"
+ east_europe.0113.desc:0 "あなたの言葉には悩まされる。このような深遠な腐敗がキリスト教世界の中心部の近くに隠れているかもしれないと思うと！\n\n[heretic.GetTitledFirstNameNoTooltip]と相談して、この問題の真相を究明する。"
  east_europe.0113.a:0 "神の石臼はゆっくりと、しかし確実に悪を砕く！"
  east_europe.0113.a.tt:0 "[hof.GetTitledFirstNameNoTooltip]は[heretic.GetTitledFirstNameNoTooltip]に手紙を書く…"
  east_europe.0114.t:0 "$east_europe.0111.t.setup$: [hof.GetFaith.GetAdjectiveNoTooltip]異端審問"

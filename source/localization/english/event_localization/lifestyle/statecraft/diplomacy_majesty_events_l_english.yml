@@ -32,7 +32,7 @@
  diplomacy_majesty.0016.b:0 "[potential_friend.GetHerHim]を私の言いなりにしてやろう…"
  diplomacy_majesty.0016.c:0 "友人はいらない、ナイフがある！"
  diplomacy_majesty.1020.t:0 "忠義か恐怖か"
- diplomacy_majesty.1020.desc:0 "As their [ROOT.Char.GetTitleAsName], my [ROOT.Char.Custom('GetFollowerOrVassalPlural')] owe me their allegiance. My word is law. But how much is obedience without devotion worth?\n\nIn times of crisis, a slow response or a half-hearted effort can lead to disaster. Can I afford such a risk?"
+ diplomacy_majesty.1020.desc:0 "[ROOT.Char.GetTitleAsName]として、[ROOT.Char.Custom('GetFollowerOrVassalPlural')]は私に忠誠を誓う義務がある。私の言葉がすなわち法だ。しかし、献身を伴わない従順はどれだけの価値があるのだろうか?\n\n危機的な状況では、対応の遅れや中途半端な努力が災いを招く。そんな危険を冒す余裕があるだろうか。"
  diplomacy_majesty.1020.a:0 "私は彼らの揺るぎない忠誠を勝ち取るだろう。"
  diplomacy_majesty.1020.b:0 "感銘を与えるべきもっと大事な[important_ruler.GetWomenMen]がいる。"
  diplomacy_majesty.1020.c:0 "恐怖を与えるのは非常に効果的な手段だ。"

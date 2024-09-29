@@ -1,7 +1,7 @@
 ﻿l_english:
  administraction_tab_themes: "[GetPlayer.Custom('GetProvincePluralConceptNoTooltip')]"
  administraction_tab_families: "一門"
- ADMINISTRATIVE_GOVERNMENT_HEADER: "官僚制政体"
+ ADMINISTRATIVE_GOVERNMENT_HEADER: "官僚機構"
  ADMINISTRATIVE_GOVERNMENT_HOUSE_WITH_NAME: "#high [DynastyHouse.GetBaseNameNoTooltip]家#!"
  ADMINISTRATIVE_GOVERNMENT_HOUSE_HEAD: "[house_head_head|E]： [DynastyHouse.GetHeadOfHouse.GetShortUIName|U]"
  ADMINISTRATIVE_GOVERNMENT_FAMILY_RATING: "[powerful_family_rating_mid|E]：#V #underline [DynastyHouse.GetHousePower]#!#!"

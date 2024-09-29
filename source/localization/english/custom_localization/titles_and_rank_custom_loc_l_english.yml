@@ -51,6 +51,6 @@
  current_situation_blank:0 ""
  GetIncumbentOrNone.holder: "[ROOT.Title.GetHolder.GetShortUIName]"
  GetIncumbentOrNone.uncreated: "[ROOT.Title.GetBaseName]"
- independent_realm_landless_current_situation: "#low (Independent)#!"
- vassal_realm_landless_current_situation: "#low ([second.GetTopLiege.GetPrimaryTitle.Custom('GetTierIcon')][second.GetTopLiege.GetPrimaryTitle.GetNameNoTooltip])#!"
+ independent_realm_landless_current_situation: "#low （独立）#!"
+ vassal_realm_landless_current_situation: "#low （[second.GetTopLiege.GetPrimaryTitle.Custom('GetTierIcon')][second.GetTopLiege.GetPrimaryTitle.GetNameNoTooltip]）#!"
  in_realm_landless_current_situation: "[landed_title.Custom('GetTierIcon')][landed_title.GetNameNoTooltip]"

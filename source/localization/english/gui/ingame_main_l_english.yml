@@ -176,7 +176,7 @@
  PLAYER_CHANGED_CHARACTER_TEXT_OBSERVER:0 "プレイヤー$NAME$は現在観察者です"
  PLAYER_CHANGED_CHARACTER_TITLE_JOIN:0 "新しいプレイヤー"
  PLAYER_CHANGED_CHARACTER_TEXT_JOIN:1 "プレイヤー$NAME$が[LEFT_CHARACTER.GetName]としてプレイを開始します"
- DE_JURE_HIERARCHY:0 "所属している[de_jure|E]"
+ DE_JURE_HIERARCHY:0 "属する[de_jure|E]"
  MAPMODE_PLAYERS_LABEL:0 "プレイヤー"
  VALUE_BREAKDOWN_TOTAL:0 "合計:"
  PIETY_LEVEL_LABEL_0_judaism:0 "@piety_level_0_icon_judaism! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"

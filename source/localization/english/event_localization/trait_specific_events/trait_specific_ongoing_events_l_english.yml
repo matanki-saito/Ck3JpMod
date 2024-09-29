@@ -164,7 +164,7 @@
  trait_specific_ongoing.2025.d.failure:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] think you are lying"
  trait_specific_ongoing.2025.e:0 "[ROOT.Char.GetFaith.HighGodName]からの幻影のように演じることもできる…"
  trait_specific_ongoing.2025.e.failure:0 "Your [ROOT.Char.Custom('GetCourtierPlural')] see through your scheme"
- trait_specific_ongoing.2025.every_courtier:0 "Every [actor.Custom('GetCourtier')]"
+ trait_specific_ongoing.2025.every_courtier:0 "すべての[actor.Custom('GetCourtier')]"
  trait_specific_ongoing.3001.t:0 "不幸は連帯を愛す"
  trait_specific_ongoing.3001.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sympathetic_character') )] [sympathetic_character.GetTitledFirstName] approaches me as I finish addressing the [ROOT.Char.Custom('GetCourt')], with people still mingling around.\n\n\"My [ROOT.Char.GetLadyLord], I have heard that you too suffer from periods of... melancholy. Perhaps we could discuss our experiences?\""
  trait_specific_ongoing.3001.a:0 "来てくれ、我々は話すことがたくさんある。"

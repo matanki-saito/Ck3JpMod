@@ -89,7 +89,7 @@
  south_asia.0039.b:0 "いつの日か、倒れた信者たちの仇を取ってやる。"
  south_asia.0039.c:0 "異教徒同士の些末な争いに過ぎない。"
  south_asia.0040.t:0 "信仰の確保？"
- south_asia.0040.desc:1 "私の主君であり、この土地の統治者である[proselytiser.GetFullName]は、民衆を[proselytiser.GetHerHis]の信仰である[proselytiser.GetFaith.GetName]に改宗させることに熱心に取り組んでいる。[proselytiser.GetHerHis]の策略が進むにつれ、私の土地において、彼らの信仰や彼らの[proselytiser.GetLadyLord]の信仰を広めようとする説教師や誦出者の波を止めることは不可能となった。\n\n上座部仏教が定着しても、伝統的なアリ仏教の信者はアラカン山脈周辺の森林地帯に溶け込んでいるが、その数は減り、公開の礼拝も避けられるようになっている。"
+ south_asia.0040.desc:1 "私の主君であり、この土地の統治者である[proselytiser.GetFullName]は、民衆を自身の信仰する[proselytiser.GetFaith.GetName]に改宗させることに熱心に取り組んでいる。[proselytiser.GetHerHis]の企みが進むにつれ、私の土地において、その教えや[proselytiser.GetLadyLord]の信仰を広めようとする説教師やバーナカ（朗誦者）の波を止めることはもはや不可能となった。\n\n上座部仏教が定着しても、伝統的なアリ仏教の信者はアラカン山脈周辺の森林地帯にまぎれ暮らしているが、その数は減り、おおっぴらな礼拝も避けられるようになっている。"
  south_asia.0040.a:0 "素晴らしい！真の信仰は栄えるだろう！"
  south_asia.0040.b:0 "これらの行動は、決して忘れ去られることはないだろう。"
  south_asia.0040.c:0 "これは私には関係ないことだ。"

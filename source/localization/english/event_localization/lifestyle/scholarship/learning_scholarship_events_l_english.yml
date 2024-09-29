@@ -194,7 +194,7 @@
  learning_scholarship.5004.t:0 "$bibliomancy_chain_header$ 厄介な一節"
  learning_scholarship.5004.desc:0 "どうしても、私は[sacred_text.GetName]のこの一節を理解することができず、それは私の心を支配している。\n\n恐怖は人の心を殺す…あれは一体どういう意味なのだろうか？何を恐れればいいのか？#EMP 私は何を見逃しているのか#!？\n\nあるいは他の誰かがこれを解明することができるかもしれない。"
  learning_scholarship.5004.a:0 "[court_chaplain.GetCouncilTitle][court_chaplain.GetTitledFirstNameNoTooltip]なら答えを知っているだろう。"
- learning_scholarship.5004.b:0 "My [ROOT.Char.Custom('GetCourtier')] [target_courtier.GetTitledFirstNameNoTooltip] will help me."
+ learning_scholarship.5004.b:0 "[ROOT.Char.Custom('GetCourtier')]である[target_courtier.GetTitledFirstNameNoTooltip]が私を助けてくれるだろう。"
  learning_scholarship.5004.c:0 "もう諦めよう。"
  learning_scholarship.5004.a.success:0 "[court_chaplain.GetCouncilTitle][court_chaplain.GetFirstNameNoTooltip]は一節の意味を明らかにする"
  learning_scholarship.5004.a.failure:0 "[court_chaplain.GetCouncilTitle][court_chaplain.GetFirstNameNoTooltip]は一節を理解できない"
