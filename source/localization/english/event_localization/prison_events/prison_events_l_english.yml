@@ -76,7 +76,7 @@
  prison.9501.desc:0 "As the guard is momentarily distracted I reach for the keys hanging on [jailor.GetHerHis] belt, but a firm hand stops me halfway.\n\n\"Oh no no. There's no escaping here, #EMP my [ROOT.Char.GetTitleAsNameNoTooltip]#!.\" The guard sneers down at me and laughs.\n\n\"You thought the gruel you were getting was bad?\"\n\n\"Just. You. Wait.\""
  prison.9501.a:0 "私はここで朽ち果てるのか…"
  prison.9502.t:0 "私の勇敢な[ROOT.Char.Custom('prison_pet')|U]"
- prison.9502.desc_opening:0 "As the guard turns around I quickly reach for my [ROOT.Char.Custom('prison_pet')] and hurl it at [dummy_gender.GetHerHis] head.\n\n"
+ prison.9502.desc_opening:0 "看守が向きを変えた時、私は素早く我が[ROOT.Char.Custom('prison_pet')]をつかみ、[dummy_gender.GetHerHis]の頭へと放った。\n\n"
  prison.9502.desc_rat:0 "It scrambles, trying to find purchase, but the guard quickly reach up and throws it on the floor.\n\nMy screams of protest are almost drowned out by the agonized squealing as the guard mercilessly grinds [dummy_gender.GetHerHis] heel down."
  prison.9502.desc_stone:0 "It bounces heavily off the guards helmet, but [dummy_gender.GetSheHe] only turns around with eyebrows raised in surprise.\n\nSpotting the stone [dummy_gender.GetSheHe] tosses it away with a sneer."
  prison.9502.desc_spoon:0 "It bounces off the guards helmet, and [dummy_gender.GetSheHe] barely seems to notice.\n\nTurning around and spotting the out of place spoon, [dummy_gender.GetSheHe] picks it up and stuffs it into [dummy_gender.GetHerHis] own belt."

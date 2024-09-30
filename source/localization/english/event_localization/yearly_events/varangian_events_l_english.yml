@@ -10,7 +10,7 @@
  varangian.0002.b:0 "だめだ、それを禁ずる！お前はここに必要な人間だ。"
  varangian.1002.t:0 "ヴァリャーグ親衛隊から帰還"
  varangian.1002.opening:0 "I barely recognize [returning_varangian.Custom2('MyCharacterIntroduction', ROOT.Char )] when [returning_varangian.GetSheHe] appears in my [SelectLocalization( IsLandlessAdventurer( ROOT.Char ), 'camp', 'great_hall')]."
- varangian.1002.new_partner:0 "And I certainly don't recognize the [partner.GetWomanMan] at [returning_varangian.GetHerHis] side!"
+ varangian.1002.new_partner:0 "そして[returning_varangian.GetHerHis]の側にいる[partner.GetWomanMan]は間違いなく見覚えがない！"
  varangian.1002.ending:0 "\n\n\"I am back, [returning_varangian.Custom2('RelationToMeShort', ROOT.Char )]!\" [returning_varangian.GetFirstNameNoTooltip] bellows. \"There was many a time I thought I would never see your likes again, but I have returned at last.\"\n\nAs strange as it is to see my [ROOT.Char.Custom2('RelationToMeShort', returning_varangian )] after all these years, I cannot deny that I am impressed with [returning_varangian.GetHerHis] [emperor.GetCulture.GetNameNoTooltip] dress, [returning_varangian.GetHerHis] foreign jewelry, and the heavy coffer [returning_varangian.GetSheHe] has brought with [returning_varangian.GetHerHim]."
  varangian.1002.a:0 "よくぞ戻った、[returning_varangian.GetFirstNameNoTooltip]よ！"
  varangian.3001.t:0 "ヴァリャーグ親衛隊: 名誉ある死"

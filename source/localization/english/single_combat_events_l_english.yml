@@ -230,7 +230,7 @@
  single_combat.0001.desc.opponent_response.wrath_of_highgod:0 "「[my_foe.GetFaith.HighGodNameAlternate]と[my_foe.GetFaith.WarGodName]のために！冒涜者は苦しむがいい！」[my_foe.GetFirstNameNoTooltip]は金切り声で叫ぶと、[my_foe.GetHerHis]の[my_foe.Custom('signature_weapon')]を天へと[my_foe.Custom('SignatureWeaponActionPresentParticiple')]。"
  single_combat.0001.desc.opponent_response.hurt_me_better:0 "[my_foe.GetFirstNamePossessiveNoTooltip]の頭から一筋の血が流れ落ちる。それが[my_foe.GetHerHis]の上唇に当たると、[my_foe.GetSheHe]は悪魔的な笑みを浮かべながら、それを舐め取る。"
  single_combat.0001.desc.opponent_response.special_fallback:0 "予期せず、[my_foe.GetFirstNameNoTooltip]が私の脛に強烈な蹴りを見舞い、瞬間的に私の足を使えなくした"
- single_combat.0001.desc.opponent_response.something_to_hide:0 "\"Have you forgotten your #EMP debt#! to me, [myself.GetFirstNameNoTooltip]?\" smiles [my_foe.GetFirstNameNoTooltip]. When I realize what [my_foe.GetSheHe]'s talking about, my shoulders sag."
+ single_combat.0001.desc.opponent_response.something_to_hide:0 "「私への#EMP 借り#!を忘れたか、[myself.GetFirstNameNoTooltip]？」[my_foe.GetFirstNameNoTooltip]は笑う。[my_foe.GetSheHe]の言っていることがわかると同時に、私の肩は落ちていく。"
  single_combat.0031.desc.sc_defender.wait_and_hope:0 "相手が先に動くのを待っていても、[sc_victor.GetHerHim]が有利になるだけで良いことはない。"
  single_combat.0031.desc.sc_defender.unsure_attack:0 "私の弱々しい攻撃では、全く効果がない。"
  single_combat.0031.desc.sc_defender.enthusiastic_onslaught:0 "私の荒々しい[sc_loser.Custom('SignatureWeaponFlourishPresentParticiple')]は価値がなく、何の役にも立たず、ただ私を疲れさせるだけだ。"

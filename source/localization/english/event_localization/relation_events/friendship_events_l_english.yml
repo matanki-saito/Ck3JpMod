@@ -77,7 +77,7 @@
  friendship.1007.desc:0 "[friend_at_war.GetHerHis]自身では戦争に対処できないことから、[friend_at_war.GetTitledFirstName]は[friend_providing_gift.GetTitledFirstName]から多額の金の支払いによる援助を受けている！"
  friendship.1007.a:0 "不名誉なことだ！"
  friendship.1008.t:0 "他の模範となる人物"
- friendship.1008.desc:0 "[courtier_on_offer.GetTitledFirstName] has long served me well, and excelled in [courtier_on_offer.GetHerHis] duties. It has made me think that [courtier_on_offer.GetSheHe] is just the kind of person [friend_receiving_gift.GetTitledFirstName] could use around [friend_receiving_gift.GetHerHis] [friend_receiving_gift.Custom('GetCourt')]."
+ friendship.1008.desc:0 "[courtier_on_offer.GetTitledFirstName]は長い間、私に仕えてくれ、その職務も優れていた。[friend_receiving_gift.GetTitledFirstName]の[friend_receiving_gift.Custom('GetCourt')]で使ってもらうのにちょうどいい人材だと思わせてくれた。"
  friendship.1008.a:0 "[friend_receiving_gift.GetFirstName]は[courtier_on_offer.GetHerHis]の奉仕に感謝するだろう。"
  friendship.1008.a.success:0 "[friend_receiving_gift.GetFirstName]があなたの提案を受け入れる"
  friendship.1008.a.failure:0 "[friend_receiving_gift.GetFirstName]があなたの提案を拒否する"

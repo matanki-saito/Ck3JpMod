@@ -237,7 +237,7 @@
  agent_eunuch: "宦官"
  agent_eunuch_i: "[success_chance_max_i]"
  agent_eunuch_desc: "#WEAK Silent as the moon's passage, he moves through the marbled halls, a keeper of secrets in a land where words are currency. In the shadow of emperors, he whispers, shaping the fate of the empire with nothing but the softest murmur.#!\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$EFFECT_LIST_BULLET$ Requires [intrigue_i] [intrigue|E] & [learning_i] [learning|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('deceitful').GetName( GetNullCharacter )] and [GetTrait('patient').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('compassionate').GetName( GetNullCharacter )] and [GetTrait('honest').GetName( GetNullCharacter )]"
- agent_muscle: "筋肉"
+ agent_muscle: "力自慢"
  agent_muscle_i: "[success_chance_max_i]"
  agent_muscle_desc: "#WEAK Sometimes you just need more brawls than brains.#!\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$EFFECT_LIST_BULLET$ Requires [prowess_i] [prowess|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('strong').GetName( GetNullCharacter )] and [GetTrait('athletic').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('weak').GetName( GetNullCharacter )] and [GetTrait('craven').GetName( GetNullCharacter )]"
  agent_physic: "医師"

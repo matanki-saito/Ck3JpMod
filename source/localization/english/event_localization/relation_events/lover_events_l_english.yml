@@ -132,7 +132,7 @@
  lover.1001.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('snoopy_lover') )], [snoopy_lover.GetTitledFirstName] gets to hear many things during [snoopy_lover.GetHerHis] comings and goings at my [ROOT.Char.Custom('GetCourt')].\n\nLately [snoopy_lover.GetSheHe] has heard some very interesting stories about what my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('secret_holder') )] [secret_holder.GetTitledFirstName] does in the shadows..."
  lover.1001.a:0 "これは知っておくととても有用だね、[ROOT.GetCharacter.Custom('LoverPetName')]。"
  lover.1002.t:0 "糸を引く"
- lover.1002.desc:0 "[ROOT.GetCharacter.Custom('LoverPetName_possessive')|U], [lover.GetTitledFirstName] knows a lot about how to navigate the many relationships at my [ROOT.Char.Custom('GetCourt')]. [lover.GetSheHe|U] suggests that [lover.GetSheHe] could put [lover.GetHerHis] expertise to good use in my diplomatic overtures towards [target.GetTitledFirstName]."
+ lover.1002.desc:0 "[ROOT.GetCharacter.Custom('LoverPetName_possessive')|U]、[lover.GetTitledFirstName]は、[ROOT.Char.Custom('GetCourt')]での多くの人間関係を操る方法を知っている。[lover.GetSheHe|U]は、私が[target.GetTitledFirstName]に外交的な交渉を行う際に、[lover.GetHerHis]の専門知識を有効に活用できると提案している。"
  lover.1002.a:0 "素晴らしい考えだ！"
  lover.1002.b:0 "[lover.GetFirstNameNoTooltip]を巻き込んでいる余裕はない。"
  lover.1003.t:0 "愛人同士の慰め"

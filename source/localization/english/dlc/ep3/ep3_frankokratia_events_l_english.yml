@@ -1,5 +1,5 @@
 ﻿l_english:
- ep3_frankokratia_events.0001.t: "The Unjust Dispossession"
+ ep3_frankokratia_events.0001.t: "不当なる横奪"
  ep3_frankokratia_events.0001.crusader_intro: "We armed pilgrims to the land overseas have contracted [financier.GetPrimaryTitle.GetNameNoTier] to build our vessels... a most expensive undertaking, and one devoted to an uncertain enterprise."
  ep3_frankokratia_events.0001.non_crusader_intro: "Word has come of the Crusade. Those pledged have contracted [financier.GetPrimaryTitle.GetNameNoTier] to build their vessels... a most expensive undertaking, and one devoted to an uncertain enterprise."
  ep3_frankokratia_events.0001.desc: "\n\n\"A terrible waste!\" mourns [byz_claimant.GetFirstName], my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('byz_claimant'))]. \"The bravest Latin knights, impoverished — made to suffer before the heathen! How the [Glossary( 'Romaioi', 'ROMAIOS_GLOSS' )] could aid them...\"\n\nAs a [byz_emperor.GetPrimaryTitle.GetAdjective] claimant, [byz_claimant.GetFirstNameNoTooltip] speaks pointedly of the #EMP Romaioi#!. Perhaps... were our crusaders to march in [byz_claimant.GetHerHis] name, their cause could be bolstered by Greek soldiers and lavish imperial gifts? Could such an unorthodox Crusade better serve the mission of Christ... and His Christian warriors?"

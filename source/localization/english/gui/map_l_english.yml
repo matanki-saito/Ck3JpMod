@@ -23,7 +23,7 @@
  CHARACTER_TRAVEL_TO_LOCATION:0 "[PROVINCE.GetName|V]に旅行中"
  CHARACTER_IMPRISONED_AT:0 "[CHARACTER.GetUIName|V]により[PROVINCE.GetName|V]で投獄中"
  CHARACTER_AT_COURT_VISITING:1 "[PROVINCE.GetName|V]にある[CHARACTER.GetShortUINamePossessive|V]の[CHARACTER.Custom('GetCourtConcept')]を訪問中"
- CHARACTER_AT_COURT:1 "At [CHARACTER.GetShortUINamePossessive|V] [CHARACTER.Custom('GetCourtConcept')] in [PROVINCE.GetName|V]"
+ CHARACTER_AT_COURT:1 "[PROVINCE.GetName|V]にある[CHARACTER.GetShortUINamePossessive|V]の[CHARACTER.Custom('GetCourtConcept')]"
  FORD_TOOLTIP:1 "$FROM$・$TO$間の浅瀬"
  STRAIT_TOOLTIP:1 "$FROM$・$TO$間の海峡"
  MAP_REALM_TT_HEADER:0 "#T [TITLE.GetNameNoTooltip|U]#!"

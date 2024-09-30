@@ -131,7 +131,7 @@
  learning_theology_special.1003.a:0 "結局のところ、我々には何の意味があるのだろうな？"
  learning_theology_special.1101.t:0 "注釈"
  learning_theology_special.1101.desc:0 "「我が[ROOT.Char.GetLadyLord]に祝福あれ。[scholar.GetTitledFirstName]と申します」、神父は私に深々とお辞儀した。\n\n「私はタナハとタルムードの研究と注釈に生涯を捧げてきたものでございます。[ROOT.Char.GetFaith.ReligiousText]のご研究にわたくしの論説と助言がお役に立てるかと存じます。」"
- learning_theology_special.1101.desc.fallback:0 "「我が[ROOT.Char.GetLadyLord]、ご機嫌うるわしく。私は[scholar.GetTitledFirstName]と申します。」僧侶は深々とお辞儀した。\n\n「[ROOT.Char.GetFaith.ReligiousText]の研究と論説に生涯を捧げてきたものでございます。わたくしの論説と助言がご研究のお役に立てるかと存じます。」"
+ learning_theology_special.1101.desc.fallback:0 "「我が[ROOT.Char.GetLadyLord]、ご機嫌うるわしく。私は[scholar.GetTitledFirstName]と申します」僧侶は深々とお辞儀した。\n\n「[ROOT.Char.GetFaith.ReligiousText]の研究と論説に生涯を捧げてきたものでございます。わたくしの論説と助言がご研究のお役に立てるかと存じます」"
  learning_theology_special.1101.a:0 "[ROOT.Char.GetFaith.ReligiousText]の注釈を書こう！"
  learning_theology_special.1101.b:0 "#emp 現実世界#!のことで手一杯だ。"
  learning_theology_special.1101.c:0 "異端者に軒は貸せないな！"

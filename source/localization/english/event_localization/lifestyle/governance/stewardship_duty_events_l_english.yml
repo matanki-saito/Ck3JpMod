@@ -262,7 +262,7 @@
  stewardship_duty_special.2011.a:0 "私が個人的にこの議論を仲介する。"
  stewardship_duty_special.2011.b:0 "[vassal_1.GetFirstNameNoTooltip]はどんな損失でも補償される。"
  stewardship_duty_special.2011.c:0 "[vassal_2.GetFirstNameNoTooltip]は私が正しく公正な判断を下すよう#EMP 熱望#!している…"
- statecraft_mediation_debug_improve_contract:0 "#D Improve Vassal Contract with [vassal_2.GetTitledFirstName]#!"
+ statecraft_mediation_debug_improve_contract:0 "#D [vassal_2.GetTitledFirstName]との封建契約を改善します#!"
  stewardship_duty_special.2012.t:0 "調停: 家格争議"
  stewardship_duty_special.2012.desc:0 "この日の[vassal_1.GetTitledFirstName]と[vassal_2.GetTitledFirstName]の議論はうまくいっていない。\n\n「あなたが祖父の盾を手渡されて以来——」\n「またあの盾か、正気か？ここで、[ROOT.Char.GetTitlePossessive]の宮廷でか？！」"
  stewardship_duty_special.2012.a:0 "家族は我々を結束させるものだ、引き裂くものではない。"

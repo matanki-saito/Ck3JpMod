@@ -69,7 +69,7 @@
  licentious_04_modifier:0 "男たらしの極み"
  licentious_05_modifier:0 "悪魔的なコケティッシュ"
  intrigue_temptation.3150.t:0 "現場を押さえた"
- intrigue_temptation.3150.desc:1 "The solar is just barely illuminated, and [primary_seducee.GetTitledFirstName] and I are pressed close, our lips all but meeting. The night air is cool, but [primary_seducee.GetSheHe] feels molten to the touch, and [primary_seducee.GetHerHis] breath comes in short, ragged gasps.\n\nAt just about the worst possible moment, [secondary_seducee.Custom2('MyCharacterIntroduction', ROOT.Char)] strides into the [ROOT.Char.Custom('GetRoom')], already at full bluster.\n\n\"Great [ROOT.Char.GetTitleAsNameNoTooltip], we must discuss my accom— oh. I didn't see that you had company.\""
+ intrigue_temptation.3150.desc:1 "夕闇の中、[primary_seducee.GetTitledFirstName]と私は抱きしめって、唇を合わせようとする。夜の空気は涼しいが、[primary_seducee.GetSheHe]は溶けたように熱く。[primary_seducee.GetHerHis]の息は短く、荒れ果てた喘ぎである。\n\nその最悪のタイミングで[secondary_seducee.Custom2('MyCharacterIntroduction', ROOT.Char)]は[ROOT.Char.Custom('GetRoom')]に勢いよく踏み込む。精魂尽き果てたところであった。\n\n「偉大な[ROOT.Char.GetTitleAsNameNoTooltip]、私の泊りについて——あー、もう相手がいたとは知らなかった。」"
  intrigue_temptation.3150.a:0 "なぜだ、[primary_seducee.GetFirstNameNoTooltip]、私はあなたを見かけなかったとも！"
  intrigue_temptation.3150.b:0 "私たちはちょうど出て行くところだった。もっと#EMP 静かな#!場所に。"
  intrigue_temptation.3150.b.tt_success:0 "[primary_seducee.GetFirstNameNoTooltip]はニヤニヤしてあなたの後をついて行く"

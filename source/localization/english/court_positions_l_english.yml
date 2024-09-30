@@ -215,7 +215,7 @@
  antiquarian_court_position:0 "古物蒐集家"
  antiquarian_court_position_desc:2 "$antiquarian_court_position$は、宝物の維持、管理、調達に責任を持つ。"
  court_tutor_court_position:0 "家庭教師"
- court_tutor_employer_custom_effect_description:3 "$BULLET$[education|E]の結果が向上します\n$BULLET$ #V $make_child_learn_language_interaction$#!の[interaction|E]をアンロック"
+ court_tutor_employer_custom_effect_description:3 "$BULLET$[education|E]の結果が向上します\n$BULLET$#V $make_child_learn_language_interaction$#!の[interaction|E]をアンロック"
  court_tutor_court_position_desc:1 "$court_tutor_court_position$は、宮廷にいるすべての子供たちの[education|E]を担当しており、彼らのスキルは生徒たちにどれだけの影響を与えるかに影響する。子どもはこれまで通り、個別の[guardians|E]を持つことができる。"
  royal_architect_court_position:0 "王室建築家"
  royal_architect_court_position_desc:1 "$royal_architect_court_position$は、領国内のあらゆる建築計画を監督している。彼らの明確な許可なしに、レンガを積むことに一秒たりとも費やすことはできない。"

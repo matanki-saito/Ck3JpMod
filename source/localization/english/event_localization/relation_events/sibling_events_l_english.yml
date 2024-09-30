@@ -59,7 +59,7 @@
  sibling.8002.b:0 "これを「私の」金でやったのか！？"
  sibling.8003.t:0 "男女の過ち"
  sibling.8003.desc:0 "My [ROOT.GetCharacter.Custom('trait_lustful_adjective')] [ROOT.Char.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], has made many poor decisions, but getting involved with a common [sibling.Custom('servant_for_romance')] might be the worst of them!"
- sibling.8003.a:0 "Oh, my [ROOT.Char.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )] may do what [sibling.GetSheHe] wants..."
+ sibling.8003.a:0 "ああ、我が[ROOT.Char.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )]は自分の望むようにやるのだろう…"
  risk_of_sibling_producing_bastard_tt:0 "これによって何かが起こるかもしれません…"
  sibling.8003.b:0 "[sibling.GetSheHe|U]はもはや[sibling.Custom('servant_for_romance')]と会ってはならぬ！"
  sibling.8004.t:0 "上流あつかい"
