@@ -227,7 +227,7 @@
  childhood.2011.desc:0 "[guardian.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、最近、私の教育に特に力を入れている。私は感謝しているが、[guardian.GetSheHe]の方も、私が[guardian.GetHerHis]の働きや頑張りに対して今後報いてくれると期待していることを明らかにしており、それがどう実行されるかだ。きっと[guardian.GetSheHe]が正しいのだろう。"
  childhood.2011.tt:0 "これは、あなたの教育を少しだけ促進します"
  childhood.2011.a:0 "[guardian.GetSheHe|U]は結局私の教師だ。"
- childhood.2100.t:0 "Ｌは言語のことである"
+ childhood.2100.t:0 "ＬはLanguageのL"
  childhood.2100.desc:1 "私の後見人である[educator.GetTitledFirstName]は私をよく教育してくれる。時々、私は[educator.GetHerHim]が[educator.GetCulture.GetLanguage.GetNameNoTooltip]で話しているのを耳にする——それはおそらく[educator.GetSheHe]が故郷で話しているものなのだろう。\n\n[educator.GetSheHe]は主に私とは[ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip]で話しながらも、私にいくつか[educator.GetHerHis]の母国語を教えようとしている。\n\n頭の中で二つの言語を使いこなすのは大変だが…努力する価値はあるのかも？"
  childhood.2100.a:0 "集中して聞けば、あるいは身につくかも？"
  childhood.2100.b_hash:0 "いやだ、私は遊びに行きたい！"

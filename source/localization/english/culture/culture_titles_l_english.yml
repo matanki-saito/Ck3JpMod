@@ -833,7 +833,7 @@
  kingdom_administrative_independent: "$kingdom_feudal$"
  king_administrative_independent_male: "$king_feudal_male$"
  king_administrative_independent_female: "$king_feudal_female$"
- king_administrative_male_byzantine_group: "カテパン"
+ king_administrative_male_byzantine_group: "カテパノー"
  king_administrative_female_byzantine_group: "カテパニッサ"
  king_administrative_independent_male_byzantine_group: "専制公"
  king_administrative_independent_female_byzantine_group: "専制女公"

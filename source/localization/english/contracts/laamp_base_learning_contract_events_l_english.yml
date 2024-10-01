@@ -1,9 +1,9 @@
 ﻿l_english:
  laamp_base_4001_request: "この[task_contract|E]では、#BOLD 3#!の[learning|E]の[skill|E]の挑戦を通じて写本を作成する必要がある。または、[lifestyle_traits|E]に頼ることで、さらに優れた写本を作成することも可能である。"
  laamp_base_learning_contract_events_prefix.4001: "写本"
- laamp_base_learning_contract_events.4001.tt.current_total.sub_t1: "#TUT You have a score of #V [task_contract.MakeScope.Var('score_tally').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t1_threshold').GetValue]#! towards a #P Qualified Success#!#!"
- laamp_base_learning_contract_events.4001.tt.current_total.sub_t2: "#TUT You have a score of #V [task_contract.MakeScope.Var('score_tally').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t2_threshold').GetValue]#! towards a #P Success#! #WEAK (you have currently earnt a Qualified Success)#!#!"
- laamp_base_learning_contract_events.4001.tt.current_total.sub_t3: "#TUT You have a score of #V [task_contract.MakeScope.Var('score_tally').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t3_threshold').GetValue]#! towards an #P Exceptional Success#! #WEAK (you have currently earnt a Success)#!#!"
+ laamp_base_learning_contract_events.4001.tt.current_total.sub_t1: "#TUT あなたは#V [task_contract.MakeScope.Var('win_t1_threshold').GetValue]#!点中#V [task_contract.MakeScope.Var('score_tally').GetValue]#!点を獲得し#P ひとまずの成功#!を収めている。#!"
+ laamp_base_learning_contract_events.4001.tt.current_total.sub_t2: "#TUT あなたは#V [task_contract.MakeScope.Var('win_t2_threshold').GetValue]#!点中#V [task_contract.MakeScope.Var('score_tally').GetValue]#!点を獲得し#P 成功#!を収めた。#WEAK (あなたは最近ひとまずの成功を収めている)#!#!"
+ laamp_base_learning_contract_events.4001.tt.current_total.sub_t3: "#TUT あなたは#V [task_contract.MakeScope.Var('win_t3_threshold').GetValue]#!点中#V [task_contract.MakeScope.Var('score_tally').GetValue]#!点を獲得し#P 並外れた成功#!を収めた。#WEAK (あなたは最近成功を収めた)#!#!"
  laamp_base_learning_contract_events.4001.tt.passages_left: "#TUT You have #V [task_contract.MakeScope.Var('text_passages_left').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t1_threshold').GetValue]#! Transcript Passages left#!"
  laamp_base_learning_contract_events.4001.tt.progress_towards_success_1: "#P +[SCOPE.ScriptValue('learning_task_contract_qualified_score_value')]#! score towards successfully completing the [task_contract|E]"
  laamp_base_learning_contract_events.4001.tt.progress_towards_success_2: "#P +[SCOPE.ScriptValue('learning_task_contract_medium_score_value')]#! score towards successfully completing the [task_contract|E]"

@@ -86,7 +86,7 @@
  adventurers_make_local_deals_option: "交易商の同行"
  adventurers_make_local_deals_option_desc: "There is #EMP always#! a deal to be made. If people know you, they trust you, and are willing to haggle. Unfortunately, it also means that bandits know #EMP exactly#! who to target..."
  adventurers_make_local_deals_option.tt: "When passing through a [barony|E], you gain #V 25%#! of the Holding's [raid_loot|E] value as [gold_i][gold|E]\n#weak (can only gain Gold once per Holding)#!"
- adventurers_scout_for_talent_option: "斥候を探す"
+ adventurers_scout_for_talent_option: "逸材を探す"
  adventurers_scout_for_talent_option_desc: "There are many world-weary figures to encounter along your travels — some of them will surely be in search of employ!"
  adventurers_scout_for_talent_option.tt: "Enables Events to recruit [wanderers|E] for [gold_i][gold|E] if you have open positions for [officers|E]"
  excellent.aptitude_tt: "[local_character.GetUINamePossessive] [aptitude|E] is $aptitude_excellent$"

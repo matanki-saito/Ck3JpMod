@@ -41,7 +41,7 @@
  ep3_laamp_raid_contract_cb_defeat_desc: "Your reputation as a capable adventurer suffers"
  ep3_laamp_raid_contract_cb_prisoners.tt_attacker: "Between #V 3#! and #V 5#! of [defender.GetShortUINamePossessive] [courtiers|E] will be taken [prisoners|E], depending on [defender.GetHerHis] tier, and handed over to [task_contract_employer.GetShortUIName]."
  ep3_laamp_raid_contract_cb_prisoners.tt_gold: "[attacker.GetShortUIName|U] will earn [gold_i] [gold|E] equivalent to the prisoners ransom costs."
- CRUSADING_CLAIM_WAR_NAME: "Crusader War for [CLAIMANT.GetShortUINamePossessive] Claim on the [TITLE.GetBaseName]"
+ CRUSADING_CLAIM_WAR_NAME: "[CLAIMANT.GetShortUINamePossessive]の[TITLE.GetBaseName]に対する請求権のための十字軍"
  crusading_claim_cb: "Crusader War for Imperial Claim"
  CRUSADING_CLAIM_CB_NAME: "Crusader War for Imperial Claim"
  CRUSADING_CLAIM_WAR_NAME_BASE: "Crusader[CLAIMANT.GetShortUINameNotMe][TITLE.GetName]"

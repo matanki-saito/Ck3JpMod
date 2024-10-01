@@ -655,7 +655,7 @@
  artifact_scepter_description:0 "[SCOPE.Custom('ArtifactQuality')]、黄金で鍛造され華やかに装飾された笏――まさに真の栄誉の印。"
  artifact_scepter_pedestal:0 "王笏"
  artifact_byz_throne_name: "ビザンツ帝国のソロモンの玉座"
- artifact_byz_throne_description: "ビザンチンの支配者が魔術王と等しい知恵で正義を執行する、壮麗な王座。その最も顕著な特徴は、天井の高さまで上昇したり、再び元の位置に下げることを可能にする隠された機構にある。"
+ artifact_byz_throne_description: "ビザンツ帝国の支配者が聖書の王と等しい知恵で正義を執行する、壮麗な王座。その最も顕著な特徴は、天井の高さまで上昇したり、再び元の位置に下げることを可能にする隠された機構にある。"
  animal_type_lions: "獅子"
  animal_type_tigers: "虎"
  animal_type_leopards: "豹"

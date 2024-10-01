@@ -107,7 +107,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_DIPLOMACY:0 "優秀な外交官であり、封臣や外国の統治者も同様に[ROOT.Char.GetHerHim]を尊敬するに違いない。"
  SUCCESSION_EVENT_WINDOW_HEIR_STRONG_AND_SMART:0 "強靭な体格と卓越した洞察力を有しており、[ROOT.Char.GetHerHis]の統治は詩歌と物語の両方を生み出すに違いない。"
  SUCCESSION_EVENT_WINDOW_HEIR_WEAK_AND_DUMB:0 "鋭敏な頭脳にも戦士の体格にも恵まれておらず、[ROOT.Char.GetHerHis]の統治は確実に厳しいものになるだろう。"
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_VARANGIAN:0 "Having served in distant Miklagard, [ROOT.Char.GetHerHis] adventurous spirit is likely to inspire [ROOT.Char.GetHerHis] [ROOT.Char.Custom('GetSubjectPlural')]."
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_VARANGIAN:0 "遠く離れたミクラガルドに仕えていた[ROOT.Char.GetHerHis]の冒険心は、[ROOT.Char.GetHerHis]の[ROOT.Char.Custom('GetSubjectPlural')]を鼓舞することだろう。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_LUNATIC:0 "至極狂れる[ROOT.Char.GetWomanMan]であり、[ROOT.Char.GetFaith.HighGodName]のみが[ROOT.Char.GetFirstNamePossessiveNoTooltip]の世を助けることができる。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_POSSESSED_BAD:0 "[ROOT.Char.GetFaith.DevilName]より送られける邪魔に取り憑かるる嫌疑あり。[ROOT.Char.GetFaith.PriestMalePlural]は努めてこの者を抑うるべし。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_POSSESSED_GOOD:0 "[ROOT.Char.GetFaith.HighGodName]により祝福された[ROOT.Char.GetHerHis]の身体は、神の意志を開示するための器に過ぎない。"

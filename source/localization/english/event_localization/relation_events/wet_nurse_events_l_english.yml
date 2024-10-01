@@ -67,7 +67,7 @@
  child_teeth_memorabilia: "[nursed_child.GetNamePossessiveNoTooltip]の乳歯"
  child_teeth_memorabilia_desc: "[nursed_child.GetNamePossessiveNoTooltip]から初めて抜けた乳歯"
  bp2_yearly.7006.t: "$bp2_yearly.7003.title$のおしゃれ"
- bp2_yearly.7006.desc: "As I patiently await the fetching of my clothes, a servant stutters: \"My lord, uh... no one can find your garments!\"\n\n\"I'm surrounded by incompetence!\" I mutter, storming from my [ROOT.Char.Custom('GetChamber')].\n\nIt's in my [ROOT.Char.Custom2('RelationToMeShort', nursed_child)], [nursed_child.GetFirstNamePossessive] [ROOT.Char.Custom('GetRoom')], that I discover not only my raiments, but also the [nursed_child.Custom('GirlBoyPossessive')] wet nurse.\n\n\"I had no part in it, my liege — [nursed_child.GetSheHe] dressed [nursed_child.GetHerselfHimself]!\" [wet_nurse.GetFirstName] responds with a giggle."
+ bp2_yearly.7006.desc: "私の服が用意されるまで忍耐強く待っているところ、使用人の一人がつっかえながらもこう言いだした。「陛下、……誰もあ、あなた様の衣装を見つけられないのです！」\n\n「役立たずしかいないのか！」と低く独り言ち、怒りそのままに[ROOT.Char.Custom('GetChamber')]から立ち去る。\n\n私の[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]、[nursed_child.GetFirstNamePossessive]の[ROOT.Char.Custom('GetRoom')]であった。そこで私の衣服だけでなく、その乳母が居合わせているのも発見した。\n\n「私は手出ししておりません、陛下――ご自分で、着飾ったのですよ！」[wet_nurse.GetFirstName]は笑顔でそう答えた。"
  bp2_yearly.7006.a: "いたずらっこめ！"
  bp2_yearly.7006.b: "[nursed_child.GetSheHe]はファッションの[nursed_child.Custom('GetPrincessPrince')]なのか？"
  bp2_yearly.7006.c: "$bp2_yearly.7003.c$"

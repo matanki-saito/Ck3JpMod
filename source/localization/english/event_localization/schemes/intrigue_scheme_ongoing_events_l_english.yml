@@ -103,7 +103,7 @@
  intrigue_scheme_ongoing.4002.a:0 "[target.GetHerHis]の[target.Custom2('RelationToMe', SCOPE.sC('parent'))]に近づく好機だ！"
  intrigue_scheme_ongoing.4002.b:0 "秘密の隠れ場所？見せてくれない？"
  intrigue_scheme_ongoing.4003.t:0 "再考"
- intrigue_scheme_ongoing.4003.desc:0 "[agent_in_question.GetTitledFirstName] has come to me concerned about the scheme I have involved [agent_in_question.GetHerHim] in. While I did give the order for [agent_in_question.GetHerHim] to befriend [scheme.GetTargetCharacter.GetTitledFirstName], I never meant for them to grow emotionally attached!\n\nNow I find myself questioning how far they can be trusted..."
+ intrigue_scheme_ongoing.4003.desc:0 "[agent_in_question.GetTitledFirstName]が、私が[agent_in_question.GetHerHim]を巻き込んでいる計画について懸念し、私の元にやって来た。私は[agent_in_question.GetHerHim]に[scheme.GetTargetCharacter.GetTitledFirstName]と仲良くするよう命じたのだが、愛着を持つようになることまでは意図していなかった！\n\n今、私は彼らをどこまで信頼できるのか疑問に感じている…"
  intrigue_scheme_ongoing.4003.a:0 "「そもそも、なぜ君は私を助けなきゃいけないのか、思い出してもらおうか！」"
  intrigue_scheme_ongoing.4003.b:0 "私の計画への彼らの関与をこっそり減らそう。"
  intrigue_scheme_ongoing.5001.t:0 "気を引きたくて気もそぞろ"

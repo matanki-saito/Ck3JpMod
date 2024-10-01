@@ -38,7 +38,7 @@
  diplomacy_majesty.1020.c:0 "恐怖を与えるのは非常に効果的な手段だ。"
  diplomacy_majesty.1020.d:0 "なぜ他人の考えを気にしなければならないのか？"
  diplomacy_majesty.4030.t:0 "アイデアの戦い"
- diplomacy_majesty.4030.desc:0 "As I spend more time practicing statecraft and diplomacy I find myself thinking about the similarities between [ROOT.Char.Custom('GetCourt')] life and warfare. Reading your opponent... moves and counter-moves... \n\nKeeping these thoughts to myself could give me a secret weapon to ensure I get my way. Alternatively, I could share this idea with [event_target.GetTitledFirstName] to earn [event_target.GetHerHis] goodwill..."
+ diplomacy_majesty.4030.desc:0 "国政や外交の実践に時間を費やすうちに、私は[ROOT.Char.Custom('GetCourt')]での生活と戦争の類似点について考えるようになった。敵の動き…対策を読む…\n\nこの考えを保持しておくことで、自分のやり方を確実にする秘密の武器を手に入れることができる。 あるいは、このアイデアを[event_target.GetTitledFirstName]と共有して、[event_target.GetHerHis]の好意を得ることも…"
  diplomacy_majesty.4030.a:0 "この理論を広げていかなければならない！"
  diplomacy_majesty.4030.a.success:0 "私の新しい戦術は非常によく機能する"
  diplomacy_majesty.4030.a.failure:0 "有用な戦術の開発に失敗する"

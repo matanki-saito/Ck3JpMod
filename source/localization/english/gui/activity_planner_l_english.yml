@@ -75,7 +75,7 @@
  activity_filter_domicile_realm: "[domicile|E] [realm|E]"
  GOVERNMENT_ADJECTIVE: "[Character.GetGovernment.GetAdjective]"
  GOVERNMENT_ADJECTIVE_ICON: "[Character.Custom('GetGovernmentIcon')][Character.GetGovernment.GetAdjective]の[realm|E]"
- GOVERNORSHIP_TOOLTIP: "[ROOT.Char.GetVassalContract.GetTextIconObligationLevelNameWithHighlightFor( 'administrative_themes' )] [SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE', '' )] [governorship|E]"
+ GOVERNORSHIP_TOOLTIP: "[ROOT.Char.GetVassalContract.GetTextIconObligationLevelNameWithHighlightFor( 'administrative_themes' )][SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE', '' )]の[governorship|E]"
  VASSAL_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]、[vassal|E]"
  REALM_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]"
  activity_filter_domicile_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E]#!"

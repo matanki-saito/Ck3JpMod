@@ -28,7 +28,7 @@
  trait_specific.5001.a:0 "全部やってみよう！"
  trait_specific.5001.a.tt:0 "もっとエキゾチックな肉を探す"
  trait_specific.5001.b:0 "自分が持ってるバリエーションで十分だ。"
- trait_specific.5002.desc:0 "On my quest for rare meat, a thought has taken root in my mind. I can scarcely admit it even to myself, but I cannot help but wonder what #EMP human#! flesh might taste like...\n\nAs a [ROOT.Char.Custom('GetCourt')|l] servant sickens, standing on death's doorstep, I find myself ordering him to be placed under my personal care."
+ trait_specific.5002.desc:0 "珍しい肉を探している内にある考えが私の頭の中に根を広げている。自分でも認めたくないが、#EMP 人肉#!がどんな風味なのか思わずにはいられない…\n\n[ROOT.Char.Custom('GetCourt')|l]の使用人が病の末、死の淵に立ったので、私は、自身の管理下に置くよう命じていた。"
  trait_specific.5002.a:0 "赦してくれ、私は知らなければならない！"
  trait_specific.5002.b:0 "私は彼の魂を祈る以外何もしない。"
  trait_specific.5003.t:0 "極限に至る"

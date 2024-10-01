@@ -143,7 +143,7 @@
  travel_events.4017.desc.mid.nomad:0 "[warrior_scope.GetName]は自身を草原の中で最も恐ろしい戦士と喧伝しており、"
  travel_events.4017.desc.mid.swordsman:0 "[warrior_scope.GetName]は、[warrior_scope.GetSheHe]が世界で最も素晴らしい[ROOT.Char.GetCurrentLocation.GetCulture.GetNameNoTooltip]の剣士であると主張しており、"
  travel_events.4017.desc.outro:0 "適切な価格で奉仕できることを光栄に思っているようだ。"
- travel_events.4017.a:0 "そして、その適正な価格を[warrior_scope.GetSheHe]は手にすることになる！"
+ travel_events.4017.a:0 "そして、[warrior_scope.GetSheHe]を正当な報酬で雇われるのだ！"
  travel_events.4017.b:0 "交渉の余地があると思う。"
  travel.haggle_succesful:0 "値切ることに成功する！"
  travel.haggle_failed:0 "[warrior_scope.GetName]は侮辱される"

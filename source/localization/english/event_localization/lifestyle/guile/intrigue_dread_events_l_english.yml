@@ -8,7 +8,7 @@
  intrigue_dread_special.1101.a.e:0 "憂鬱な愚者を演じよう！"
  intrigue_dread_special.1101.b:0 "最前列の席を取っておいてくれ。"
  intrigue_dread_special.1101.c:0 "私にふさわしくない振る舞いだ。"
- intrigue_dread_special.1102.desc:0 "The first step to any performance, whether it be conducted in my [ROOT.Char.Custom('FortifiedBuilding')] or up on a stage, is preparation.\n\nSurrounded by the bustle of the theater company and made anonymous in my borrowed clothes, I find myself with some time on my hands before the show starts."
+ intrigue_dread_special.1102.desc:0 "私の[ROOT.Char.Custom('FortifiedBuilding')]であろうと、ステージ上であろうと、どんな演技でも最初のステップは準備である。\n\n劇団の喧騒に包まれ、借り物の服を着て名無しになっていると、私は開演までに時間が空いてしまったことに気づく。"
  intrigue_dread_special.1102.a:0 "いや、その小道具はあっちへ移動しろ！"
  intrigue_dread_special.1102.a.duel_success:1 "あなたは自身の構成能力を活かす"
  tooltip.intrigue_dread_special.1102.a.duel_success:1 "あなたは見事に舞台を設定する"
