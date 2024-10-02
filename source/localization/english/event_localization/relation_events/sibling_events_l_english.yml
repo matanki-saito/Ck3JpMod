@@ -54,7 +54,7 @@
  sibling.8001.desc:0 "My avaricious [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], keeps taking more and more coin as [sibling.GetHerHis] \"allowance.\"\n\nNow [sibling.GetSheHe] has gone too far, by insisting on money for a trade venture, but keeping it all to [sibling.GetHerselfHimself]!"
  sibling.8001.a:0 "My purse is now shut, [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )]!"
  sibling.8002.t:0 "豊かな財源"
- sibling.8002.desc:0 "My [ROOT.GetCharacter.Custom('trait_generous_adjective')] [ROOT.Char.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )], [sibling.GetTitledFirstName], has been traveling [province.GetName], listening to the plight of the peasants, and generously handing out gifts and promises.\n\n[sibling.GetSheHe|U] even made it very clear that these were all kindnesses in the name of #EMP '[ROOT.Char.GetTitledFirstNameNoTooltip] the Good'#!..."
+ sibling.8002.desc:0 "私の[ROOT.GetCharacter.Custom('trait_generous_adjective')][ROOT.Char.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )]である[sibling.GetTitledFirstName]は、[province.GetName]を旅して、農民の窮状を聞き、気前よく贈り物や約束を与えている。\n\n[sibling.GetSheHe|U]は、これらはすべて#EMP 善良なる[ROOT.Char.GetTitledFirstNameNoTooltip]#!の名において行われた善行だと明らかにしてくれた。"
  sibling.8002.a:0 "Good work, [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('sibling') )]."
  sibling.8002.b:0 "これを「私の」金でやったのか！？"
  sibling.8003.t:0 "男女の過ち"

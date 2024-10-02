@@ -23,7 +23,7 @@
  ELLIPSIS:0 "…"
  COURT_GRANDEUR_TOAST_GRANDEUR_INCREASED_TITLE:0 "Court Grandeur Increased"
  COURT_GRANDEUR_TOAST_GRANDEUR_RANK_INCREASED_TITLE:0 "Court Grandeur Increased"
- COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_TITLE:0 "Court Grandeur Decreased"
+ COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_TITLE:0 "宮廷の威光が低下"
  COURT_GRANDEUR_TOAST_GRANDEUR_INCREASED_DESCRIPTION:0 "あなたの[royal_court|E]は現在[court_grandeur_level|E][court_character.GetCourtGrandeurData.GetCurrentLevel]です"
  COURT_GRANDEUR_TOAST_GRANDEUR_DECREASED_DESCRIPTION:0 "あなたの[royal_court|E]は現在[court_grandeur_level|E][court_character.GetCourtGrandeurData.GetCurrentLevel]です"
  COURT_GRANDEUR_EXPECTATION_EFFECTS:0 "[Character.GetCourtGrandeurDiffFromExpectedLevelModifierCombinedDescription]"

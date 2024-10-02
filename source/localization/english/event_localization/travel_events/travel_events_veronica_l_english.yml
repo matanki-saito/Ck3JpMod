@@ -162,7 +162,7 @@
  travel_events.3062.desc:0 "我々が[hermit_owner.GetHerHis]の天守閣に来ると、[hermit_owner.GetTitledFirstName]は温かく迎えてくれる。だが、[hermit_owner.GetHerHis]の衛兵たちは我々を見ると、従者たちを指差して笑いながら何かをつぶやいているようだ。\n\n「親愛なる[ROOT.Char.GetTitleAsNameNoTooltip][ROOT.Char.GetFirstNameNoTooltip]！このような機会にあなたをお迎えできることを光栄に…」[hermit_owner.GetFirstNameNoTooltip]は途中で言葉を止め、顔を真っ赤にして怒っている。「#EMP 私の#!隠者をどうするつもりですか？」"
  travel_events.3062.a:0 "あなたの廷臣を盗む気はなかったのだ。"
  travel_events.3062.b:0 "Well, now [hermit_scope.GetSheHe] is #EMP my#! $cave_hermit_court_position$."
- travel_events.3062.b.tt:0 "[hermit_scope.GetShortUIName] will be cheaper to hire as a $cave_hermit_court_position$ for the next #bold 5 years#!"
+ travel_events.3062.b.tt:0 "[hermit_scope.GetShortUIName]は今後#bold 5年間#!、$cave_hermit_court_position$として雇用するのにより安上がりになります"
  travel_events.3062.c:1 "誰に奉仕するか[hermit_scope.GetHerHim]に決めてもらったらどうだろう？"
  travel_events.3062.c.success:0 "あなたの元に留まるよう[hermit_scope.GetShortUINameNoTooltip]を説得する"
  travel_events.3062.c.failure:0 "[hermit_scope.GetShortUINameNoTooltip]は[hermit_owner.GetShortUINameNoTooltip]の宮廷に留まるだろう"

@@ -240,7 +240,7 @@
  any_dynasty_house_filter:0 "庶民以外"
  any_dynasty_house_filter_desc:0 "Only show characters that belong to a [house|E]"
  CHARACTER_LIST_GOVERNMENT_TT: "#T [government|E]: [PatternItem.GetGovernment.GetNameNoTooltip]#!"
- government_filter: "Government"
+ government_filter: "政体"
  feudal_government_filter_option: "$game_concept_feudal$"
  republic_government_filter_option: "$game_concept_republic$"
  theocracy_government_filter_option: "$game_concept_theocracy$"

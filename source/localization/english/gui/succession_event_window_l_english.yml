@@ -1,6 +1,6 @@
 ﻿l_english:
  SUCCESSION_EVENT_WINDOW_LOST_TITLES:0 "継承時に失われる称号:"
- SUCCESSION_EVENT_WINDOW_CLOSE: "Continue as [SuccessionEventWindow.GetContinueAsCharacter.GetShortUINameNotMeNoTooltip]"
+ SUCCESSION_EVENT_WINDOW_CLOSE: "[SuccessionEventWindow.GetContinueAsCharacter.GetShortUINameNotMeNoTooltip]としてゲームを継続"
  SUCCESSION_EVENT_WINDOW_LEGACY:0 "系譜を表示"
  SUCCESSION_EVENT_WINDOW_OBSERVER:0 "観察者モードに入る"
  SUCCESSION_EVENT_WINDOW_MENU:0 "メニューに戻る"
@@ -100,7 +100,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_PERSONALITY_HUMBLE:1 "謙虚な[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、その功績について誰にも騒がれたくないと思っていた。"
  SUCCESSION_EVENT_WINDOW_HEIR_UNDERAGE:1 "わずか[ROOT.Char.GetAge]歳にすぎず、その統治開始から数年間は、[ROOT.Char.GetDiarchTitle][ROOT.Char.GetDiarchy.GetDiarch.GetTitledFirstNameNicknamedNoTooltip]に頼る必要があるだろう。"
  SUCCESSION_EVENT_WINDOW_HEIR_USELESS:0 "Having no skills with which to keep the [ROOT.Char.Custom('GetRealmOrDomicile')|l] together, [ROOT.Char.GetHerHis] rule may be doomed to fail."
- SUCCESSION_EVENT_WINDOW_HEIR_MILITARY:0 "Being a talented military tactician, many expect [ROOT.Char.GetHerHim] to lead the [ROOT.Char.Custom('GetRealmOrDomicile')|l] to many victories on the field of battle."
+ SUCCESSION_EVENT_WINDOW_HEIR_MILITARY:0 "才気ある戦術家であるため、多くの人は[ROOT.Char.GetHerHim]が[ROOT.Char.Custom('GetRealmOrDomicile')|l]を率いて戦場で多くの勝利をもたらすことを期待している。"
  SUCCESSION_EVENT_WINDOW_HEIR_LEARNING:0 "賢明に学んだ[ROOT.Char.GetWomanMan]、進歩と革新は[ROOT.Char.GetHerHis]法のもとで期待されている。"
  SUCCESSION_EVENT_WINDOW_HEIR_STEWARDSHIP:0 "Being both thrifty and frugal, the [ROOT.Char.Custom('GetRealmOrDomicile')|l] will surely prosper under [ROOT.Char.GetHerHis] rule."
  SUCCESSION_EVENT_WINDOW_HEIR_INTRIGUE:0 "狡猾で鋭い[ROOT.Char.GetWomanMan]であった[ROOT.Char.GetSheHe]は、必要とされるところでは何の問題もなく力を得ることができた。"

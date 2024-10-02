@@ -20,7 +20,7 @@
  catalyst_accepted_demand_from_faction_requesting_culture_faith_conversion:0 "派閥の要求に同意した[struggle_catalyst_catalyst|E]"
  catalyst_accepted_demand_from_faction_requesting_culture_faith_conversion_desc:2 "[peasant_faction|E]または[popular_faction|E]の要求を受け入れます"
  catalyst_granted_powerful_diff_faith_vassal_religious_protection:0 "授与された包括的[vassal_contract|E]変更の[struggle_catalyst_catalyst|E]"
- catalyst_granted_powerful_diff_faith_vassal_religious_protection_desc:2 "Offer a [powerful_vassal|E] [GetVassalContractType( 'religious_rights' ).GetObligationName( 'religious_rights_protected' )|E] via [vassal_contract|E]"
+ catalyst_granted_powerful_diff_faith_vassal_religious_protection_desc:2 "[vassal_contract|E]を介して[powerful_vassal|E]に[GetVassalContractType( 'religious_rights' ).GetObligationName( 'religious_rights_protected' )|E]を提案する"
  catalyst_became_best_friend_soulmate_with_very_important_character:0 "双子の魂の[struggle_catalyst_catalyst|E]"
  catalyst_became_best_friend_soulmate_with_very_important_character_desc:6 "[struggle_involved|E]である[ruler|E]と[best_friends|E]または[soulmates|E]になる"
  catalyst_became_friend_lover_with_character:0 "双子の魂の[struggle_catalyst_catalyst|E]"
