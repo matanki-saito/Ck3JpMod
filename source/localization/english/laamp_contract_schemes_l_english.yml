@@ -318,7 +318,7 @@
  laamp_base_contract_schemes.6023.a: "$laamp_base_contract_schemes.0000.generic_option.proceed.negative.light$"
  laamp_base_6031_contract: "$laamp_base_6031_contract_scheme$"
  laamp_base_6031_contract_scheme: "橋を守れ"
- laamp_base_6031_contract_scheme_action: "の橋を警備する"
+ laamp_base_6031_contract_scheme_action: "橋を警備する"
  laamp_base_6031_contract_scheme_desc: "勇敢な冒険者求む。橋の通行路を守るための任務。[contractor|E]は惜しみない報酬を支給する。$laamp_contract_scheme_desc_general_boilerplate$"
  laamp_base_6031_contract_scheme_desc_general: "$laamp_base_6031_contract_scheme_desc$"
  laamp_base_6031_contract_scheme_desc_success: "$laamp_contract_scheme_desc_success_boilerplate$"

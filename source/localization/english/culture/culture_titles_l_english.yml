@@ -869,7 +869,7 @@
  duke_landless_adventurer_camp_brigands: "頭目"
  duke_landless_adventurer_camp_legitimists: "[Character.GetLadyLord|U]"
  spouse_estate_holder_male: "貴族"
- spouse_estate_holder_female: "レディ"
+ spouse_estate_holder_female: "夫人"
  lady_in_shadows: "影の貴婦人"
  feudal_margrave_male: "侯爵"
  feudal_margrave_male_german_group: "辺境伯"

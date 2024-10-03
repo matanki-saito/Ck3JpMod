@@ -160,7 +160,7 @@
  yearly.1042.a.good:0 "これは予想外だったな。"
  yearly.1042.good.tt:0 "[suspicious.GetTitledFirstName]がサプライズを明らかにしても、私は知らなかったように振る舞うでしょう。"
  yearly.1043.t:0 "現行犯での逮捕"
- yearly.1043.desc:0 "I rummage through [suspicious.GetTitledFirstNamePossessive] things, feeling my pulse quickening. Where is that damned piece of parchment?\n\n\"Uh... [ROOT.Char.GetFirstNameNoTooltip]? What are you doing here?!\"\n\nI turn around to find a drowsy, but decidedly indignant, [suspicious.GetFirstNameNoTooltip] stumbling out of bed. It seems like the sedative I put in [suspicious.GetHerHis] evening [suspicious.Custom('RegionalDrink')] did not have the intended effect..."
+ yearly.1043.desc:0 "脈が速くなっているのを感じながら、私は[suspicious.GetTitledFirstNamePossessive]の家財をあさってみる。あの羊皮紙はどこにあるんだ？\n\n「ああ…[ROOT.Char.GetFirstNameNoTooltip]？ここで何をしているのです！？」\n\n振り向くと、眠そうだが明らかに憤慨している[suspicious.GetFirstNameNoTooltip]がベッドからよろめきながら出てきた。私が[suspicious.GetHerHis]の夜の[suspicious.Custom('RegionalDrink')]に入れた鎮静剤は、意図した効果を発揮しなかったようだ…"
  yearly.1043.a:0 "私は…帰るところだ。"
  yearly.1043.a.tt:0 "[suspicious.GetTitledFirstName]が何を隠していたのかはわかりませんでした。"
  yearly.1044.t:0 "感謝のしるし"

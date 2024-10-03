@@ -288,5 +288,5 @@
  available_liege: "あなたが[local_ruler.GetFirstNamePossessive]の[liege|E]であるため選択できます"
  available_higher_tier: "あなたの[rank|E]が[local_ruler.GetFirstName]より高いため選択できます"
  activity_adult_education_province_desc: "あなたは[ROOT.Province.GetName]での[GetActivityType( 'activity_adult_education' ).GetName]を始めます\nたくさんの事象があなたの$activity_adult_education_success$を左右するでしょう"
- adult_education_has_pandidakterion_desc: "\n#P +++ パンデギダクテリオン#!"
+ adult_education_has_pandidakterion_desc: "\n#P +++ パンディダクテリオン#!"
  bp2_adult_education.0009.e: "後で連絡するよ。"

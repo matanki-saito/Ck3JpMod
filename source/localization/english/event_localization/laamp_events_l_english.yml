@@ -171,7 +171,7 @@
  ep3_laamps.5000.desc: "私は悲しげに食事を見つめた。まだ熟していないリンゴが食料の中で最も魅力的に見える。\n\n"
  ep3_laamps.5000.provisionslow: "我々の食料はますます減っており、今や本当に困難な状況に直面している。野営地の中ではお腹が鳴り響き、ベルトもこれ以上きつく締める穴がない。"
  ep3_laamps.5000.provisionsok: "There is no shortage of food at camp, but the variety is lacking. Wilting vegetables we have plenty of, but I could really do with some prime meat."
- ep3_laamps.5000.ending: "\n\n[hunter.GetFirstName]は立ち上がり、弓を持ち矢筒に手を伸ばした。\n\n「これ以上我慢できない。ここは[local_lord.GetTitledFirstNamePossessive]の土地かもしれないが、[local_lord.GetSheHe]」からほんの少し恵みを頂いても大丈夫だろう。」"
+ ep3_laamps.5000.ending: "\n\n[hunter.GetFirstName]は立ち上がり、弓を持ち矢筒に手を伸ばした。\n\n「これ以上我慢できない。ここは[local_lord.GetTitledFirstNamePossessive]の土地かもしれないが、[local_lord.GetSheHe]からほんの少し恵みを頂いても大丈夫だろう。」"
  ep3_laamps.5000.a: "許可のない密猟行為はしない。"
  ep3_laamps.5000.a.tt: "I shall send a letter asking for a hunting rights."
  ep3_laamps.5000.a.success: "[local_lord.GetFirstNameNoTooltip] acquiesces"

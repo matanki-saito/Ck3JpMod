@@ -45,7 +45,7 @@
  admin_investment_breakdown_investments: "Investments"
  admin_investment_breakdown_other_source: "Other sources and events"
  admin_investment_breakdown_cap: "/$INVESTMENT_CAP|V0$"
- admin_cannot_declare_internal_wars: "[administrative|E] [vassals|E] cannot declare [war|E] against each other — Instead, they are encouraged to spend [influence|E] for [GetLaw('appointment_succession_law').GetName] and use [schemes|E] to acquire [titles|E]"
+ admin_cannot_declare_internal_wars: "[administrative|E]の[vassals|E]は互いに[war|E]を宣言することはできません。その代わり、彼らは[influence|E]を思うがままに[GetLaw('appointment_succession_law').GetName]の仕組みに費やし、[schemes|E]を[titles|E]の要求に使用することが出来ます。"
  force_join_faction_admin_requirement_desc: "You do #bold not#! have an available [strong_hook|E] or enough [influence|E] and [opinion|E] to make [recipient.GetShortUIName] join"
  admin_cannot_create_target_faction: "[administrative|E] [vassals|E] cannot create this [faction|E]"
  admin_cannot_join_target_faction: "[administrative|E] [vassals|E] cannot join this [faction|E]"

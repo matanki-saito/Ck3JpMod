@@ -51,7 +51,7 @@
  ESTIMATED_ARRIVAL:0 "到着予定日時"
  JOIN_CHANCE:0 "受け入れ確率"
  ACTIVITY_PHASE_TOOLTIP:0 "#T [ActivityPhase.GetName]#!\n[ActivityPhase.GetDescription]"
- activity_waiting_for_guests:0 "[activity_guests|E]を待っています。残り[Activity.GetNumWaitingForCharacters]人。"
+ activity_waiting_for_guests:0 "[activity_guests|E]を待っています。残り[Activity.GetNumWaitingForCharacters]人"
  activity_waiting_for_phase:0 "[Activity.GetCurrentPhase.GetPhase.GetName]が始まるまで待っている"
  activity_travel_state_short:0 "[Concept( 'travel', '旅路' )|E]"
  activity_travel_state_full:0 "[Character.GetUIName|U]は[Activity.GetShortNameNoTooltip]に向けて[Concept( 'travel', '移動' )|E]しています"

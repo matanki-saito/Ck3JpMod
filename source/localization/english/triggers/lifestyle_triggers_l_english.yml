@@ -15,5 +15,5 @@
  NOT_HAS_PERK_TRIGGER:0 "[PERK.GetName(CHARACTER.Self)][perk|E]を持って#bold いない#!"
  I_HAVE_PERK_TRIGGER:1 "あなたは[PERK.GetName(CHARACTER.Self)]の[perk|E]を持っている"
  NOT_I_HAVE_PERK_TRIGGER:1 "あなたは[PERK.GetName(CHARACTER.Self)][perk|E]を持って#bold いない#!"
- THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|VU] have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
- NOT_THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|VU] does #bold not#! have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|VU]は[PERK.GetName(CHARACTER.Self)][perk|E]を持っている"
+ NOT_THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|VU]は[PERK.GetName(CHARACTER.Self)][perk|E]を持って#bold いない#!"

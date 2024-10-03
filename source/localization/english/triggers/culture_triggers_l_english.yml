@@ -1,6 +1,6 @@
 ﻿l_english:
  HAS_INNOVATION_THIRD:0 "[CULTURE.GetName][culture|E]が[INNOVATION.GetName]の[innovation|E]を保有している"
- NOT_HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] [culture|E] does #bold not#! have the [INNOVATION.GetName] [innovation|E]"
+ NOT_HAS_INNOVATION_THIRD:0 "[CULTURE.GetName][culture|E]が[INNOVATION.GetName]の[innovation|E]を保有して#bold いない#!"
  MUST_BE_UNLOCKED_BY_DECISION:0 "決断によってアンロックされなければなりません"
  HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U]が$ERA$時代に到達している"
  DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is [de_jure_drifting|E] towards [TARGET_TITLE.GetName]"
@@ -47,7 +47,7 @@
  HAS_CULTURAL_PARAMETER_THIRD:0 "$HAS_CULTURAL_PARAMETER_FIRST$"
  HAS_CULTURAL_PARAMETER_THIRD_NOT:0 "$HAS_CULTURAL_PARAMETER_FIRST_NOT$"
  HAS_INNOVATION_NONE:0 "[culture|E]が[INNOVATION_TYPE.GetName]の[innovation|E]を保有している"
- NOT_HAS_INNOVATION_NONE:0 "[culture|E] does #bold not#! have the [INNOVATION_TYPE.GetName] [innovation|E]"
+ NOT_HAS_INNOVATION_NONE:0 "[culture|E]が[INNOVATION_TYPE.GetName]の[innovation|E]を保有して#bold いない#!"
  HAS_CULTURAL_TRADITION_GLOBAL:0 "[CULTURE.GetName|U][culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有している"
  HAS_CULTURAL_TRADITION_GLOBAL_NOT:0 "[CULTURE.GetName|U][culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有していない"
  HAS_CULTURAL_TRADITION_NONE:0 "[culture|E]が[CULTURE_TRADITION.GetName]の[tradition|E]を保有している"

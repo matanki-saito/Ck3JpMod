@@ -249,7 +249,7 @@
  I_HAVE_REALM_LAW_TRIGGER:1 "あなたが[LAW.GetName|V]法を施行している"
  NOT_I_HAVE_REALM_LAW_TRIGGER:1 "あなたが[LAW.GetName|V]法を施行して#bold いない#!"
  THEY_HAVE_REALM_LAW_TRIGGER:0 "[CHARACTER.GetUIName|U]が[LAW.GetName|V]法を施行している"
- NOT_THEY_HAVE_REALM_LAW_TRIGGER:0 "[CHARACTER.GetUIName|U] does NOT have the Law [LAW.GetName|V]"
+ NOT_THEY_HAVE_REALM_LAW_TRIGGER:0 "[CHARACTER.GetUIName|U]が[LAW.GetName|V]法を施行していない"
  CLAIMANT_ALREADY_PRESSING_THEIR_CLAIM_THIRD:1 "[CHARACTER.GetShortUIName]がすでに[war|E]において[TARGET_TITLE.GetName]に対する[CHARACTER.GetHerHis]の[claim|E]を主張している"
  CLAIMANT_TITLES_HELD_BY_ATTACKER_VASSALS_FIRST:0 "この[title|E]は[vassal|E]によって所持されており、[revoked|E]しなければならない"
  CLAIMANT_TITLES_HELD_BY_YOU_OR_VASSAL_FIRST:0 "この[title|E]はあなたか、あなたの[vassal|E]によって所持されている"

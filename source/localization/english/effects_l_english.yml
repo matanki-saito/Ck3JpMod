@@ -1959,7 +1959,7 @@
  THIRD_ADD_TRAVEL_WAYPOINT_EFFECT:0 "[TRAVEL_PLAN.GetName]は[PROVINCE.GetName]を経由地として追加します"
  THIRD_ADD_TRAVEL_WAYPOINT_EFFECT_PAST:0 "[TRAVEL_PLAN.GetName]は[PROVINCE.GetName]を経由地として追加しました"
  LEAVES_TRAVEL_PLAN:0 "[travel|E][entourage|E]と別れます"
- LEFT_TRAVEL_PLAN:0 "[travel|E][entourage|E]と別れました"
+ LEFT_TRAVEL_PLAN:0 "[travel|E]の[entourage|E]と別れました"
  THEY_LEAVE_TRAVEL_PLAN:0 "[TARGET_CHARACTER.GetShortUIName|U]は[travel|E][entourage|E]と別れます"
  THEY_LEFT_TRAVEL_PLAN:0 "[TARGET_CHARACTER.GetShortUIName|U]は[travel|E][entourage|E]と別れました"
  I_DESIGNATE_DIARCH:0 "[TARGET_CHARACTER.GetName]を将来の[CHARACTER.GetDiarchTitle]として指名します"

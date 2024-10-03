@@ -401,7 +401,7 @@
  murder_outcome_reworked.0000.revealed.scheme_target.failure.1: "\n\nDespite [owner_to_reveal.GetHerHis] fervent protest, all evidence points to the direct involvement of [owner_to_reveal.GetTitledFirstName] in the incident."
  murder_outcome_reworked.0000.revealed.scheme_target.failure.2: "\n\nNot only did the assassination fail, but the clumsy trail of evidence left behind leads straight to its mastermind: [owner_to_reveal.GetTitledFirstName]!"
  murder_outcome_reworked.0000.revealed.owner.response.1: "What scurrilous allegations!"
- murder_outcome_reworked.0000.successful_scheme_target.adult: "I still had so much left to do..."
+ murder_outcome_reworked.0000.successful_scheme_target.adult: "まだやるべきことが残っているのに…"
  murder_outcome_reworked.0000.successful_scheme_target.child: "It's not fair!"
  murder_outcome_reworked.0000.successful_scheme_target.incapable: "Then, only nothingness."
  murder_outcome_reworked.0001.desc.assassin_present_at_location.consort: "[assassin.GetFirstName], as [target.GetHerHis] [assassin.Custom2('GetYourConsortType', target)], was of course already in place: all [assassin.GetSheHe] had to do was wait for [target.GetFirstNameNoTooltip] to fall asleep, draw the knife provided out from under [assassin.GetHerHis] pillow, and slash the [target.Custom('InsultNoun')]'s throat. A rope tossed from the window, a few self-inflicted cuts, and signs of a scuffle pre-prepared below faked the \"true\" killer's escape rather well."
