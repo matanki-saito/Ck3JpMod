@@ -162,7 +162,7 @@
  travel_events.4018.d:0 "立派な異端者に必要なのは火あぶりだ！"
  travel_events.4019.t:0 "$travel_event_prefix$ 卑しい珍味"
  travel_events.4019.desc:0 "On our way through [ROOT.Char.GetCurrentLocation.GetName], we appear to have stumbled into a local food market! Everywhere, peasants and nobles of every culture and tongue clamor around exotic food stalls, the air thick with fragrances I never had imagined.\n\nMy nose is drawn to a lowly stall stacked with a dish I could only dream of. I am pulled out of my haze by the halting grasp of [pompous_courtier.GetName].\n\n\"Do not waste your palate on this slop, my [ROOT.Char.GetLadyLord]. [ROOT.Char.Custom('GetLocalStreetFoodPlural')|U] are for peasants, we have much finer foods at home.\""
- travel_events.4019.a:0 "私は[ROOT.Char.GetTitleAsNameNoTooltip]だ、私の[ROOT.Char.Custom('GetLocalStreetFood')]が欲しいんだ！"
+ travel_events.4019.a:0 "私は[ROOT.Char.GetTitleAsNameNoTooltip]だぞ！[ROOT.Char.Custom('GetLocalStreetFood')]を食わせろ！"
  travel.good_food:0 "その食べ物は素晴らしいものだった"
  travel.bad_food:0 "その食べ物はおぞましいものだった"
  travel.food_poisoning:0 "あなたは食中毒になった"

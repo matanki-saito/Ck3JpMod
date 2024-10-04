@@ -528,7 +528,7 @@
  building_dome_of_the_rock_01:0 "岩のドーム"
  building_dome_of_the_rock_01_desc:0 "$building_type_dome_of_the_rock_01_desc$"
  building_temple_in_jerusalem_01:0 "第三神殿"
- building_temple_in_jerusalem_01_desc:0 "第二神殿の破壊から数百年、イェルサレムの神殿を再建する時がやって来た! この第三神殿はその破壊を望む全ての者から厳重に守られ、時の試練を耐え抜くであろう。"
+ building_temple_in_jerusalem_01_desc:0 "第二神殿の破壊から数百年、イェルサレムの神殿を再建する時がやって来た！この第三神殿はその破壊を望む全ての者から厳重に守られ、時の試練を耐え抜くであろう。"
  building_type_stonehenge_01:0 "ストーンヘンジ"
  building_type_stonehenge_01_desc:0 "ストーンヘンジは、多くの学者に影響を与えてきた古代の神秘的な建造物だ。今日、これらの啓蒙された時代にさえ、ブリテン島のあらゆる場所から学者たちがそれを研究するため集まっている。その真の目的とは一体何なのだろうか？"
  building_stonehenge_01:0 "$building_type_stonehenge_01$"

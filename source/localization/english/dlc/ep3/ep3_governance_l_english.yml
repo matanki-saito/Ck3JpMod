@@ -163,7 +163,7 @@
  governor_contract_event.2022.desc_monument: "I have informed the capital's administration of my newest monument, the jewel-ornamented statue of ostentatious grandeur... and I've heard nothing in return. [emperor.GetTitledFirstName] does not deign to honor me for my act of fealty, if indeed [emperor.GetSheHe] knows of it at all."
  governor_contract_event.2022.desc_traders: "With my adjustment of taxes and tariffs, traders crow in delight at new profits... but we see no increase in revenue. What's more, local artisans and laborers complain of my administration: in the face of newly-cheapened imports, they struggle to offload their goods."
  governor_contract_event.2022.desc_military: "The troops were not quite #EMP level-headed#! with regards to their sudden bonus in salary... with wild abandon, they threw their pay into an orgy of unsavory revels.\n\nNow, beloved captains face criminal charges, soldiers bear wounds from brawling with the locals, and for all I am somehow held to blame"
- governor_contract_event.2022.desc: "\n\nThis, sadly, has not played out as I expected. And my province's surplus is lost."
+ governor_contract_event.2022.desc: "\n\n残念ながら、これは私が期待していた通りには進まなかった。そして、私の領地の余剰も失われてしまった。"
  governor_contract_event.2022.a: "Unfortunate."
  governor_contract_event.2020.success: "The investment is a success"
  governor_contract_event.2020.failure: "The investment is a failure"

@@ -368,7 +368,7 @@
  script_topic_diplomacy_01: "strengthening bonds through diplomatic maneuvers"
  script_topic_diplomacy_02: "the courtesies of the [ROOT.Char.GetCurrentLocation.GetCulture.GetNameNoTooltip] culture"
  script_topic_martial_01: "wars and their politics"
- script_topic_martial_02: "the battle of [ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitlyNoTooltip]"
+ script_topic_martial_02: "[ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitlyNoTooltip]の戦い"
  script_topic_stewardship_01: "caring for plants and property"
  script_topic_stewardship_02: "domesticating and caring for animals"
  script_topic_intrigue_01: "playing courtiers against each other"

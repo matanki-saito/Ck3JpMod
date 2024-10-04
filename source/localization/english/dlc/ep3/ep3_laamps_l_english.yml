@@ -6,7 +6,7 @@
  adventurer_name_001: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U]の[new_landless_adventurer.Custom('GetAdventureNameAnimals')|U]団"
  adventurer_name_002: "[new_landless_adventurer_house.GetBaseNameNoTooltip|U][new_landless_adventurer.Custom('GetAdventureNameBand')|U]"
  adventurer_name_003: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U]の[new_landless_adventurer.Custom('GetAdventureNameBand')|U]"
- adventurer_name_004: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U][new_landless_adventurer.GetCulture.GetCollectiveNounNoTooltip|U]達"
+ adventurer_name_004: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U]の[new_landless_adventurer.GetCulture.GetCollectiveNounNoTooltip|U]達"
  adventurer_name_005: "[new_landless_adventurer.GetCulture.GetNameNoTooltip|U]の[new_landless_adventurer.Custom('GetAdventureNameAnimals')|U]団"
  adventurer_name_006: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U]の[new_landless_adventurer.Custom('GetAdventureNameSuffix')|U]"
  adventurer_name_007: "[new_landless_adventurer.Custom('GetAdventureNameSuffix')|U]の[new_landless_adventurer.Custom('GetAdventureNameBand')|U]"

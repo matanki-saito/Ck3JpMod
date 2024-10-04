@@ -83,7 +83,7 @@
  bp1_yearly.7052.b:0 "私の話を！"
  bp1_yearly.7052.c:0 "両方に決まってるだろう！"
  bp1_yearly.7053.t:0 "復讐の記憶"
- bp1_yearly.7053.desc:0 "As I walk through the town, rage overcomes me once again, the only thing on my mind recently is when [bad_memory.GetDescription].\n\nI must get my revenge on [bad_memory_participant.GetFirstNameNoTooltip] somehow. I look up at the gallows in front of me. Perhaps if I make my moves carefully [bad_memory_participant.GetSheHe] will hang there soon."
+ bp1_yearly.7053.desc:0 "街を歩きながら、またしても怒りがこみ上げてくる。最近、頭にあるのは[bad_memory.GetDescription]時の事だけだ。\n\nどうにかして[bad_memory_participant.GetFirstNameNoTooltip]に復讐しなければならない。目の前にある絞首台を見上げる。慎重に事を運べば、ただちに[bad_memory_participant.GetSheHe]の首をそこに吊るせるかもしれない。"
  bp1_yearly.7053.a:0 "必ずや復讐してやる。"
  bp1_yearly.7053.b:0 "忘れるようにしなければ。"
  murder_memory_modifier:0 "復讐の記憶"

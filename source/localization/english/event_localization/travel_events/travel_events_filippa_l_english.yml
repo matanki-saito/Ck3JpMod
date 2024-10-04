@@ -311,7 +311,7 @@
  travel_events.2026.b:0 "私が補償しよう。"
  travel_events.2026.c:0 "あるいは、[county_liege.GetTitledFirstNameNoTooltip]と私は合意に達することができるだろう。"
  travel_events.2026.d:0 "よくも#EMP そんなこと#!が言えるな！"
- travel_events.2027.t:0 "$travel_event_prefix$: 採石場の口論"
+ travel_events.2027.t:0 "$travel_event_prefix$採石場の口論"
  travel_events.2027.desc:1 "[ROOT.Char.GetCurrentLocation.GetName]にある地元の採石場に入ると、私は腹を空かせた親の力仕事を手伝っている、痩せてひょろっとした汚い子供たちが何人もいるのに気づいた。\n\n船着き場の少し先では、採石場の監督である[foreman_character.GetFirstName]が、労働者の代表だと思われる[peasant_leader.GetFirstName]と口論している。「監督！こんなことは#EMP 受け入れられません#!」[peasant_leader.GetFirstNameNoTooltip]は言う。\n\n「我々は十分な食料を確保することができず、もう何ヶ月も空腹のまま寝ています。子供たちは飢えていますし、このような重労働をこなしている我々の体力は低下しています。必要なのは、#EMP ほんのわずかな#!昇給だけなのです…」私の存在に気づいた[peasant_leader.GetSheHe]の声は次第に小さくなる。"
  travel_events.2027.a:0 "安全で栄養たっぷりに育った労働者こそが、より効果的だ。"
  travel_events.2027.b:0 "空腹こそがやる気を維持する。"

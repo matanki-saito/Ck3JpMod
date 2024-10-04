@@ -312,7 +312,7 @@
  contact_list_request_interaction.request_marriage: "Enables [actor.GetShortUIName] to arrange a [marriage|E] between [actor.GetShortUINamePossessive] [camp|E] and [recipient.GetNamePossessive] [court|E]"
  contact_list_request_interaction.request_contract: "[actor.GetShortUIName|U] will be offered #V 1#! of the possible [task_contracts|E]"
  contact_list_request_interaction.possible_outcomes: "#S $RANDOM_LIST_DEFAULT_DESC$:#!"
- contact_list_request_interaction.create_contracts: "[TARGET_CHARACTER.GetShortUIName] has no valid [task_contracts|E]"
+ contact_list_request_interaction.create_contracts: "[TARGET_CHARACTER.GetShortUIName]は有効な[task_contracts|E]を持っていない。"
  contact_list_request_interaction.create_contracts.already_has_contract: "[recipient.GetShortUIName] already issued you a [task_contract|E]"
  contact_list_request_interaction.request_gold.poor_actor: "[actor.GetShortUIName|U] are poor: $VALUE|+=0$"
  contact_list_request_interaction.request_gold.poor_recipient: "[recipient.GetShortUIName|U] is poor: $VALUE|+=0$"

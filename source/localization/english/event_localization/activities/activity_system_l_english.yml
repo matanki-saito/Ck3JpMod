@@ -9,7 +9,7 @@
  guest_insulted_title:0 "$activity_pulse_action_guest_insulted$"
  activity_pulse_action_guest_insulted:0 "[second.GetShortUINameNoTooltip|U]が[first.GetShortUINameNoTooltip|U]を侮辱する"
  activity_system.0040.t:1 "競技会の幕が閉じた"
- activity_system.0040.desc:1 "Alas! With the new circumstances surrounding the Tournament, a quick chat with the organizers confirms your fears: the Tournament must be canceled.\n\nFiles of despondent people file past, sniffling and disappointed children clutching their parents' hands. Hopefully, in the near future, there might be another chance for these festivities to resume."
+ activity_system.0040.desc:1 "残念だ！競技会を取り巻く新たな状況により、主催者との簡単な会話であなたの懸念は裏付けられた。競技会は中止せざるを得ない。\n\n鼻をすすりながら、がっかりした子供たちが親の手を握り、落胆した人たちの列が通り過ぎていく。近い将来、このような祭典が再開される機会があることを願っている。"
  activity_system.0040.a:1 "本当に残念だ。"
  activity_system.0080.t:1 "新しい主催者"
  activity_system.0080.desc:2 "以前の主催者の死を受けて、関係者の間では急ぐ声が高まっている。その場にいる全員が、裏で起きている混乱に気づかず、楽しそうに騒いでいる。\n\nそして、ようやく合意に達する。"

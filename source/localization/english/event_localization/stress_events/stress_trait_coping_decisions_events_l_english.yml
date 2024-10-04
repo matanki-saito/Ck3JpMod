@@ -8,7 +8,7 @@
  stress_trait_coping_decisions.1003.t:0 "飲み友達！"
  stress_trait_coping_decisions.1003.desc:0 "I am drinking alone in the tavern when I suddenly see my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('original_drunkard'))], [original_drunkard.GetTitledFirstName], sit down across from me.\n\nI quickly make my way over, and we spend the rest of the night drinking together. [original_drunkard.GetSheHe|U] really knows how to have a good time!"
  stress_trait_coping_decisions.1004.t:0 "ストレス解消: 柔和な朝"
- stress_trait_coping_decisions.1004.desc:0 "眠りから覚めるとクッションの効いた柔らかい枕の上に頭があり、複数の暖かい体が隣にある。どれほどの夜だったのだろう！かろうじて思いだ––\n\n#EMP ああああああ！#!\n\n…ふむ。目を開けるにつれて、#EMP 真っ白#!の中の細長い目と#EMP ふわふわ#!な顔によって迎えられる。突然、私の枕が立ち上がって歩き去り、眠っていた仲間たちが不意に後に続いた。干し草の中に一人取り残される。"
+ stress_trait_coping_decisions.1004.desc:0 "眠りから覚めるとクッションの効いた柔らかい枕の上に頭があり、複数の暖かい体が隣にある。どれほどの夜だったのだろう！　かろうじて思いだ――\n\n#EMP ああああああ！#!\n\n……ふむ。目を開けるにつれて、#EMP 真っ白#!の中の細長い目と#EMP ふわふわ#!な顔によって迎えられる。突然、私の枕が立ち上がって歩き去り、眠っていた仲間たちが不意に後に続いた。干し草の中に一人取り残される。"
  stress_trait_coping_decisions.1004.a:0 "えーと…昨晩はとてもよい羊——眠りだった！"
  stress_trait_coping_decisions.1501.t:0 "ストレス解消: 穏やかな霧"
  stress_trait_coping_decisions.1501.desc:1 "私が何気なくケーキのおかわりに手を伸ばして、椅子にもたれると、舌にまろやかな味がしみ込み、心地よい霧がゆっくりと私の悩みを洗い流してくれる。\n\nこんなに落ち着いた気分になったのは#EMP 数週間#!ぶりだ。ただ…ここにいるだけで。このハシシの載ったケーキの大皿と共に。それで十分だ。"

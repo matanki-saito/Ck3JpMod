@@ -69,7 +69,7 @@
  rejecting_spiritual_ways_modifier_desc: "$rejecting_bellicose_ways_modifier_desc$"
  rejecting_stoic_ways_modifier: "禁欲主義の拒絶"
  rejecting_stoic_ways_modifier_desc: "$rejecting_bellicose_ways_modifier_desc$"
- bp2_yearly.6010.t: "獄中に[sad_boi.GetWomanMan|U]無し"
+ bp2_yearly.6010.t: "[sad_boi.GetWomanMan|U]は囚われているのか"
  bp2_yearly.6010.desc: "「#EMP 友達たくさんいるけれど～、差し入れどうして少ないか～…#!」そう口ずさむ[sad_boi.GetFirstName]。その声は高ぶる感情でかすれている。\n\n我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('sad_boi'))]は、手元の楽器を放り捨て、叫ぶ。「[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTier]なんてもうたくさんだっ！"
  bp2_yearly.6010.adult: "何もいいことがない！」\n\n枯れた視線を私に向け、[sad_boi.GetSheHe]は付け加えた。「この歌は、この不幸な囚われの身の中で、援助を求める劇的な嘆願となりうるだろう。どんなに些細なものでも…仲間たちがまだ私を気にかけてくれるなら…」"
  bp2_yearly.6010.child: "このまま、不幸せに死ぬだけなんだ…」\n\n涙ながらに私を見上げながら、[sad_boi.Custom('GirlBoy')]はこう付け加える。「この歌を聴けば、家族は悲しむでしょう！この曲を聴けば、僕の家族の心が動くはずでしょう！そうすればこの#EMP 生活#!に耐えられるよう、せめて何か、何でもいい、贈ってくれるはずだと思わない？もし…家族に忘れられてなければ、だけど…」"

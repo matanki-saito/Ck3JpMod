@@ -328,7 +328,7 @@
  ce1_meat_shower_desc_second_perspective: "[flinger.GetName]は死体をあなたの所領に投げ込み、肉の雨を呼んだ"
  ce1_meat_shower_desc_third_perspective: "[flinger.GetName]は死体を[owner.GetNamePossessive]の所領に投げ込み、血の雨を読んだ"
  epidemic_events.5000.t: "何とかして！"
- epidemic_events.5000.desc: "More reports roll in from the [infected_county.GetName] as the [epidemic.GetName] continues to rage. [church_person.GetTitledFirstName], having brought me the latest of the missives personally, slams a hand on to my desk.\n\n\"The people expect us to be performing some acts to help them!\" [church_person.GetSheHe|U] insists, gesturing at the message.\n\n\"Now, I've seen this type before. All we need to do is purge some of the filthy animals that have been bedeviling the area. The affliction surely won't last without them!\" [church_person.GetFirstNameNoTooltip|U] leans back in satisfaction as I ponder. \"It is the will of [ROOT.Char.GetFaith.HighGodName].\""
+ epidemic_events.5000.desc: "[epidemic.GetName]が猛威を振るうにつれて、[infected_county.GetName]から報告書が山ほど転がり込んでくる。そんな中、[church_person.GetTitledFirstName]はおかまいなしに個人的な便箋を私の机にバシンと叩きつけた。\n\n「民は私たちの助けを求めています」[church_person.GetSheHe|U]は主張し、手紙を読むように促す。\n\n「このような流行病は以前にも見た事があります。やるべき事はひとつ、穢れた獣をいくらか退治するのです。さすればこの苦しみはどこかへ消え去るでしょう」[church_person.GetFirstNameNoTooltip|U]は私が熟考するのを見て、満足しながらも身を乗り出す。｢それは[ROOT.Char.GetFaith.HighGodName]のご意志でもあるのですぞ」"
  epidemic_events.5000.a: "まあ、ネズミは汚いからな…"
  epidemic_events.5000.b: "#EMP 全ての#!猫を殺せ。奴らが黒幕のはずだ。"
  epidemic_events.5000.c: "犬はいつも汚物にまみれている。奴らを叩き出せ！"

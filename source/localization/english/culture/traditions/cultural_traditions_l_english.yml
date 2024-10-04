@@ -1114,7 +1114,7 @@
  culture_parameter_consolidate_rule_decision: "[empires|E]の#high $consolidate_rule_decision$#![decision|E]にアクセスします"
  culture_parameter_tribal_holding_stationed_bonus: "[buildings|E]のうち、#V $building_type_tribe_01$#!は追加で[stationed|E][men_at_arms|E]のボーナスを与えます"
  culture_parameter_can_adopt_administrative_government_as_kingdom_tier: "[SelectLocalization( HasDlcFeature( 'royal_court' ), 'can_adopt_administrative_government_as_kingdom_tier_text', '' )]"
- can_adopt_administrative_government_as_kingdom_tier_text: "統治者は[emperors|E]であるときも、[king|E]のときと同様に[administrative|E][government|E]タイプを採用できます"
+ can_adopt_administrative_government_as_kingdom_tier_text: "統治者は[emperors|E]と同様に、[king|E]でも[administrative|E][government|E]タイプを採用できます"
  culture_head_heavy_cavalry_desc: "あなたの[heavy_cavalry|E]の[regiment|E]の規模が#V ８#!未満です"
  tradition_ep3_indomitable_azatani_name: "不屈のアザト"
  tradition_ep3_indomitable_azatani_desc: "この文化の勇猛で誇り高い貴族たちは、高き要塞から雷鳴を轟かせる如くに騎馬で駈け降りてくる。「短剣の傷は癒えよう、しかし舌の傷は決して癒えぬのだ！」"

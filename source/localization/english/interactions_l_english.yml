@@ -1540,7 +1540,7 @@
  char_interaction.0231.desc_stockade:0 "As per my orders, [recipient.GetTitledFirstName] is now to be confined to the camp stockade where [recipient.GetSheHe] is awaiting [recipient.GetHerHis] fate."
  AI_STOOGE: "You humiliated [recipient.GetShortUIName] as your $stooge_camp_officer$: $VALUE|=+0$ "
  AI_MY_LIEGE_IS_LANDED: "[recipient.GetShortUINamePossessive] belongs to a [court|E]: $VALUE|=+0$"
- AI_YOU_ARE_THE_SOVEREIGN: "You are [recipient.GetHerHis] Sovereign: $VALUE|=+0$"
+ AI_YOU_ARE_THE_SOVEREIGN: "あなたは[recipient.GetHerHis]の君主である：$VALUE|=+0$"
  CLOSE_FAMILY_TIERS_REASON: "Relative [close_family|E] [title_tiers|E]: $VALUE|=+0$"
  THEY_ARE_NON_ADMIN_REASON: "[recipient.GetShortUINamePossessive] [government|E] is not [administrative|E]: $VALUE|=+0$"
  YOU_ARE_NON_ADMIN_REASON: "[actor.GetShortUINamePossessive|U] [government|E] is not [administrative|E]: $VALUE|=+0$"

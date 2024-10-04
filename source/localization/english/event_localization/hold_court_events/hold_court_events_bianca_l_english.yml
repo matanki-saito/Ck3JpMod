@@ -50,7 +50,7 @@
  hold_court.3060.desc.levies:0 "[corrupt_county.GetNameNoTier]の徴募兵が許容できるペースで回復していない問題に対処するため、あなたの助力を求めます！」"
  hold_court.3060.desc.courts:0 "[corrupt_county.GetNameNoTier]の司法裁判所不足の問題に対処するため、あなたの助力を求めます！」"
  hold_court.3060.desc.rulers:0 "[corrupt_county.GetNameNoTier]の精彩を欠く統治の問題に対処するために、あなたの助力を求めます！」"
- hold_court.3060.desc.closing:1 "\n\n[county_petitioner.GetSheHe|U] pauses to sigh. \"My lands are but one of many within the realm suffering from lack of control. I ask for any aid that you can spare.\""
+ hold_court.3060.desc.closing:1 "\n\n一瞬話を止め、嘆息する。「私の土地は、数多ある領国のうちの一つに過ぎませんが、管理欠如に苦しんでおります。できる限りの支援をお願いいたします。」"
  hold_court.3060.a:1 "We must invest in these wild regions."
  hold_court.3060.b:0 "我が家令が助言を提供できるだろう。"
  hold_court.3060.c:1 "悲しきかな、国庫が寂しくてな。"

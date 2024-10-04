@@ -1,8 +1,8 @@
 ﻿l_english:
  scheme_type_contract: "契約"
  scheme_type_scheme: "計画"
- scheme_type_contracts: "contracts"
- scheme_type_schemes: "schemes"
+ scheme_type_contracts: "依頼"
+ scheme_type_schemes: "計画"
  agent_events.0001.t: "親しい間柄"
  agent_events.0001.desc: "Since recruiting both [char_1.GetTitledFirstName] and [char_2.GetTitledFirstName] to my [scheme.Custom('GetSchemeContract')], the pair've become rather amicable with one another.\n\nIt seems shared tasks and mutual concerns have brought out a little spark of kindred recognition in the two reprobates.\n\nTheir understanding is nothing serious yet, but a little nudge could see true friendship blossom."
  agent_events.0001.a: "Motivation you say..."

@@ -480,7 +480,7 @@
  mercenary_company_bloody_reeds_article: " "
  mercenary_company_trampling_gazelles: "ガゼルの舞"
  mercenary_company_trampling_gazelles_article: " "
- mercenary_company_cretans: "Cretans"
+ mercenary_company_cretans: "クレタ人傭兵団"
  mercenary_company_cretans_article: ""
  hireable_ruler_is_mercenary_company_captain_blocker: "@warning_icon! #X [CHARACTER.GetShortUINameNoTooltip] is the captain of a [mercenary_company|e]#!"
  hireable_ruler_no_mercenary_government_rule_blocker: "@warning_icon! #X [CHARACTER.GetNamePossessiveOrMy] [government|e] is #bold not#! allow contracted mercenary work.#!"
