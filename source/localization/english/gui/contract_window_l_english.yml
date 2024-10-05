@@ -20,7 +20,7 @@
  TASK_CONTRACT_ACCEPT: "[GetPlayer.Custom('GetContractOrIssue')]を受ける"
  TASK_CONTRACT_DECLINE: "出発する"
  TASK_CONTRACT_DEFAULT_DESC_TITLE: "To whomever it may concern,"
- TASK_CONTRACT_ABANDON: "Abandon [GetPlayer.Custom('GetContractOrIssue')]"
+ TASK_CONTRACT_ABANDON: "[GetPlayer.Custom('GetContractOrIssue')]を放棄する"
  TASK_CONTRACT_TRAVEL_TO_ACCEPT: "@camp_travel_short_icon! 仕事に行く"
  TASK_CONTRACT_MOVE_DOMICILE_TO_ACCEPT: "@camp_travel_domicile_icon!住み込みで働く"
  TASK_CONTRACT_TRAVEL_TO_SUCCESS_TT: "旅路の計画を立てる"

@@ -357,7 +357,7 @@
  house_feud_even_modifier_custom_desc:0 "この[house|E]は、[SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]家との[house_feud|E]でできる限り良いものを与えると評判になった。"
  house_feud_good_modifier_custom_desc:0 "この[house|E]は、[SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]家との[house_feud|E]で、屈辱を倍返ししなければ納得しないという評判を得た。"
  house_feud_excellent_modifier_custom_desc:0 "この[house|E]は、[SCOPE.sCharacter('house_feud_rival').GetHouse.GetBaseName]家との[house_feud|E]において、侮蔑されることを軽視せず、自らを守るためにあらゆる手段を講じるという評判だ。"
- bp1_house_feud.0007.camp: "Wallowing in [house_feud_attacker.GetTitledFirstNamePossessive] [house_feud_attacker.Custom('GetCourt')], at the mercy of elements and the jibing guards, I have much time to build a resentment for my captor."
+ bp1_house_feud.0007.camp: "自然の力と消波装置に翻弄され、[house_feud_attacker.GetTitledFirstNamePossessive][house_feud_attacker.Custom('GetCourt')]の中でのたうち回りながら、私は自分を捕らえた者たちに対する恨みを募らせていく。"
  bp1_house_feud.0008.camp: "\n\n[house_feud_victim.GetHerHim]が[house_feud_attacker.GetTitledFirstNamePossessive]の[ROOT.Char.Custom('GetCourt')]で下卑た生き物のように縛られているのだ……[ROOT.Char.GetHouse.GetBaseName]の者が！"
  bp1_house_feud.0011.camp:0 "さらに悪いことに、[house_feud_victim.GetSheHe]は悪臭を放つ[house_feud_attacker.Custom('GetDungeon')]にも悩まされなければならない……"
  house_feud_raid_estate_flavor: "[ROOT.Var('house_feud_first_rival').Char.GetFirstName]が[ROOT.Var('house_feud_first_owner').Char.GetFirstNamePossessive]の荘園を略奪した"

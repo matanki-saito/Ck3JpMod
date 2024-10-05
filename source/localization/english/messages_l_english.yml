@@ -472,7 +472,7 @@
  msg_domicile_building_completed.title: "#high [CHARACTER.GetDomicile.GetBuildingUnderConstruction.GetNameNoTooltip]#!が完成した"
  msg_domicile_building_completed.desc: "[CHARACTER.GetDomicile.GetType.GetTitleText( CHARACTER.Self )]に[CHARACTER.GetDomicile.GetBuildingUnderConstruction.GetName]が建設された"
  msg_laamp_raid_contract_war_invalidated_message: "The [war.GetName] has ended: [attacker.GetShortUINamePossessive] [GetTaskContractType('laamp_raid_contract').GetName] [task_contract|E] is no longer valid."
- prisoner_death_notification_title: "Your Prisoner #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
+ prisoner_death_notification_title: "#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!が獄死した"
  notable_death_notification_title: "#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died"
  influence_level_gain.message: "Gained [influence_level|E]"
  influence_level_gain.desc: "Your network of connections spreads"

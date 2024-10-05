@@ -201,7 +201,7 @@
  game_concept_governor_efficiency_i: "@governor_efficiency!"
  game_concept_governor_efficiency_desc: "$game_concept_governor_efficiency$は[governor|E]がうまく職務をこなしているか、任された[holdings|E]を管理できているかを示す値です。\n\nこの数値は$game_concept_holding$からの[taxes|E]や[levies|E]、それに[title_men_at_arms|E]の性能に影響をあたえます。\n\n人物の$game_concept_governor_efficiency$はおもに[skills|E]と[GetTrait('governor').GetName( GetNullCharacter )][trait|E]で決まります。"
  game_concept_province_administration: "Province Administration"
- game_concept_province_administration_desc: "Each [province|E] of an [administrative|E] [realm|E] has a $game_concept_province_administration$, which may be set by the [liege|E] and [governor|E] to specialize the Province.\n\nFor example, [GetVassalContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )|V] may be used to fortify a border Province against hostile [raids|E] and [sieges|E].\n\nOnly one $game_concept_province_administration$ may be active per Province."
+ game_concept_province_administration_desc: "それぞれの[administrative|E]の[realm|E]の[province|E]には$game_concept_province_administration$があり、これは[liege|E]及び[governor|E]が設定して州を専門化しています。\n\n一例を挙げると、[GetVassalContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )|V]は、敵の[raids|E]や[sieges|E]に対して属州の国境を固めるために使用出来ます。\n\n属州毎に設定できる$game_concept_province_administration$は一つだけです。"
  game_concept_province_administrations: "Province Administrations"
  game_concept_theme_administration: "Theme Administration"
  game_concept_theme_administrations: "Theme Administrations"

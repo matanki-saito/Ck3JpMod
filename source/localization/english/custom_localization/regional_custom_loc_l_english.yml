@@ -499,7 +499,7 @@
  encampments: "野営地"
  chamber: "部屋"
  chamber_plural: "部屋"
- dungeon_plural: "部屋"
+ dungeon_plural: "地下牢"
  stockade: "営倉"
  stockade_plural: "営倉"
  STOCKADE_CONCEPT: "[stockade|E]"

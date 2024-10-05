@@ -47,7 +47,7 @@
  doctrine_parameter_mendicant_preachers_conversion_active:0 "伯爵領の改宗速度: #P +33%#!"
  tenet_communal_identity_name:0 "共同体の同一性"
  tenet_communal_identity_desc:0 "我々の信仰と文化は本質的に結びついている。このやり方は、外国人を排除する傾向があるが、我々のコミュニティの絆を強める。"
- doctrine_parameter_same_communal_identity_opinion_active:0 "同じ[faith|E]の人物の[opinion|E] #P +10#!"
+ doctrine_parameter_same_communal_identity_opinion_active:0 "同じ[faith|E]の人物の[opinion|E]#P +10#!"
  doctrine_parameter_same_culture_conversion_bonus_active:1 "自[culture|E]の[counties|E]における改宗速度: #P +50%#!"
  doctrine_parameter_same_faith_promote_culture_bonus_active:1 "自[faith|E]の[counties|E]における文化の統合速度: #P +50%#!"
  doctrine_parameter_other_culture_conversion_penalty_active:1 "他[culture|E]の[counties|E]における改宗速度: #N -50%#!"

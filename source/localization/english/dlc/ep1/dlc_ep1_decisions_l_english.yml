@@ -22,7 +22,7 @@
  invite_a_linguist_liege_confirm:0 "$invite_a_linguist_self_confirm$"
  invite_a_linguist_tt_self:1 "あなたの[court_language|E]である[target_court_language.GetCourtLanguage.GetName]を教授できる者を探索します"
  invite_a_linguist_tt_liege:2 "あなたの[liege|E]、[target_court_language.GetTitledFirstNameRegnal]の[court_language|E]である[target_court_language.GetCourtLanguage.GetName]を教授できる者を探索します"
- learn_language_will_cancel_ongoing_schemes_tt:0 "@warning_icon! #X An ongoing [personal_scheme|E] will be canceled if you lack a free slot#!"
+ learn_language_will_cancel_ongoing_schemes_tt:0 "@warning_icon!#X 空きスロットがない場合、進行中の[personal_scheme|E]はキャンセルされます#!"
  linguist_already_present:0 "宮廷にはすでに語学者がいます"
  scheming_already:0 "あなたはすでに言語を習得しています"
  invite_a_linguist_for_children_desc:0 "そろそろ私の子供たちも、貴族の言語を話せるようになってもいい頃だ。優秀な語学教師を呼んで教えさせよう。"

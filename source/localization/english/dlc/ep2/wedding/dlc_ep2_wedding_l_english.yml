@@ -38,7 +38,7 @@
  wedding_phase_wnight:0 "結婚初夜"
  wedding_phase_wnight_desc:0 "夫婦の結婚が完了するまでの間、残された客人はパーティーの終わりを楽しむ。"
  wedding_type_normal:0 "グランドウェディング"
- wedding_type_normal_desc:1 "\n#weak A wedding is meant to be a magnificent celebration of the union of two spouses but also of two families.#!\n\n@warning_icon! #X A promised [GetActivityType('activity_wedding').GetName] must be organized before the promise expires, or you will incur penalties#!"
+ wedding_type_normal_desc:1 "\n#weak 結婚式は、二人の配偶者だけでなく、二つの家族の結びつきを祝う壮大なものだ。#!\n\n@warning_icon!#X 約束された[GetActivityType('activity_wedding').GetName]は、約束の期限切れになる前に執り行われないとペナルティが発生します#!"
  wedding_type_bloody:0 "血まみれの結婚式"
  wedding_type_bloody_desc:1 "あなたは他の家族を殺します。\n#weak あなたは結婚式ではなく、葬儀を計画しているのです。#!\n\n@warning_icon! #X あなたは血まみれの[GetActivityType('activity_wedding').GetName]を15年間主催できません#!\n@warning_icon!#X あなたの[liege|E]や[head_of_faith|E]を標的とすることはより大きなペナルティになります#!\n\n@alert_icon!#alert_trial [GetTrait('just').GetName( GetNullCharacter )]、[GetTrait('compassionate').GetName( GetNullCharacter )]及び[GetTrait('calm').GetName( GetNullCharacter )]の特性を持つ人物は[stress|E]を獲得します#!"
  wedding_option_entertainment:0 "催し物"

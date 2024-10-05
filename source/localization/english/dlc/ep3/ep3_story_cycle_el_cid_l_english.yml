@@ -3,7 +3,7 @@
  cid_loyalty_counter_very_positive: "This will #positive_value greatly show#! [cid_loyalty|E] to the [liege.GetTitleAsNameNoTooltip]"
  cid_loyalty_counter_negative: "This will #negative_value question#! [cid_loyalty|E] to the [liege.GetTitleAsNameNoTooltip]"
  cid_loyalty_counter_very_negative: "This will #negative_value greatly question#! [cid_loyalty|E] to the [liege.GetTitleAsNameNoTooltip]"
- game_concept_cid_loyalty: "Rodrigo's Loyalty"
+ game_concept_cid_loyalty: "ロドリーゴの忠誠心"
  game_concept_cid_loyalty_desc: "By remaining #V loyal#! to his liege even in exile, El Cid may regain their favor and restore his advantageous position.\n\nBy becoming #V disloyal#!, El Cid may gain special options to raise himself as an independent ruler."
  cid.0001.t: "By Order of the [liege.GetTitleAsNameNoTooltip]"
  cid.0001.desc.intro: "I place my foot on the stirrup, tap my horse's head, and take a last look at the place I will always call home.\n\nExile. [liege.GetTitledFirstNamePossessive] words left no room for error.\n\n"

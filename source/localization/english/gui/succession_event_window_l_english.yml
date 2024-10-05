@@ -282,7 +282,7 @@
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY: "ランダムな王朝を選択"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY_HEADER: "#T Let Fate Decide...#!"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY_TT: "#T Select a Random Destiny#!\nClick here to choose a random character from one of several categories."
- SUCCESSION_IS_FAVORITE_CHILD_TT: "Is your [favorite_child|E]"
+ SUCCESSION_IS_FAVORITE_CHILD_TT: "あなたの[favorite_child|E]"
  SUCCESSION_EVENT_WINDOW_CANCEL_SELECT_DESTINY: "Back"
  SUCCESSION_EVENT_WINDOW_CANCEL_SELECT_DESTINY_TT: "#T Select your Destiny\n#!Cancel selecting a character and return to your normal heir."
  succession_heir_throne: "ascends to the throne"

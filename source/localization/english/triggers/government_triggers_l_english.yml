@@ -11,7 +11,7 @@
  NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V]は$GOVERNMENT|V$#bold でない#!"
  HAS_SAME_GOVERNMENT_TRIGGER:0 "[TARGET_CHARACTER.GetShortUIName]と同じ政府である"
  MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]教義、または[GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName]教義を持っていない"
- MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]教義、または[GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] 教義を持っていない"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName]は[GetFaithDoctrine('doctrine_gender_equal').GetBaseName]の教義、または[GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName]の教義を持っていない"
  has_law_allowing_succession_law_change:0 "少なくとも[high|E][crown_authority|E]か[limited_tribal|E][tribal_authority|E]以上である"
  GOVERNMENT_HAS_FLAG_TRIGGER_FIRST:0 "あなたの$FLAG$"
  GOVERNMENT_HAS_FLAG_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|U]の$FLAG$"

@@ -1,5 +1,5 @@
 ﻿l_english:
- murder_save_header: "Murder Intercepter:"
+ murder_save_header: "殺人の妨害："
  murder_save.failure_known_owner_tt:0 "[owner.GetTitledFirstNameNoTooltip]は私を殺すことに失敗した"
  murder_save.failure_unknown_owner_tt:0 "誰かが私を殺すことに失敗した"
  murder_save.used_up_guile_legacy_5_save:0 "[GetDynastyPerk('guile_legacy_5').GetName]の守護を使用した"

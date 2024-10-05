@@ -14,7 +14,7 @@
  court.4100.a:0 "反吐が出る！この逸脱者を地下牢に放り込め！"
  court.4100.b:0 "タイツは女性たちには堪らないだろうな。"
  court.4100.c:0 "金を渡そう、演奏を熱烈に期待しているぞ！"
- court.4200.t:0 "Hidden Murderways"
+ court.4200.t:0 "秘されし殺人経路"
  court.4200.desc:0 "[spymaster.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has recently introduced to court a suspicious individual who looks as if [secret_passagecrafter.GetSheHe] has spent [secret_passagecrafter.GetHerHis] entire life skulking in the dingiest and darkest corners of [capital.GetName]."
  court.4200.desc_middle:0 "\n\n「秘密の通路設置をご希望であると伺っております。その歪んだ心が望む、いかなる不浄の回廊でも作り上げてみせましょう。"
  court.4200.desc_oubliette:0 "$court.4200.desc_middle$あなたの寝室に、恋人が情熱のままにあなたを投げ入れるための秘密地下牢を設けることも可能でございます！」"

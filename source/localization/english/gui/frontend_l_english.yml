@@ -24,7 +24,7 @@
  FRONTEND_NOT_PAUSED:0 "@warning_icon!#X ゲームは一時停止されていません#!"
  FRONTEND_IS_PAUSED:0 "ゲームは一時停止されています"
  FRONTEND_PLAYERS_COUNT:0 "[GetPlayersCount]人のプレイヤー"
- FRONTEND_INVITE:0 "サーバーID: [GetServerInfo.GetServerID] を送信して、より多くのプレーヤーを招待する\n"
+ FRONTEND_INVITE:0 "IDを送信して、より多くのプレーヤーを招待する\nサーバーID: [GetServerInfo.GetServerID]"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER:0 "マルチプレイにログイン"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER_TT:0 "ログインウィンドウを開く"
  FRONTEND_LOGGED_IN:0 "ログインします"

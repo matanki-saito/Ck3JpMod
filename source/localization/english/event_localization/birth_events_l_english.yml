@@ -1,7 +1,7 @@
 ﻿l_english:
  birth.father_is_former_consort_toast:0 "誕生"
- birth.father_is_former_consort_toast_tt:0 "[mother.GetTitledFirstName] は [child.Custom('GetDaughterSon')]を出産しました。"
- birth.father_is_former_consort_toast_tt_twins:0 "[mother.GetTitledFirstName] は双子を出産しました。"
+ birth.father_is_former_consort_toast_tt:0 "[mother.GetTitledFirstName]は[child.Custom('GetDaughterSon')]を出産しました。"
+ birth.father_is_former_consort_toast_tt_twins:0 "[mother.GetTitledFirstName]は双子を出産しました。"
  birth.0002.t:0 "自分の子供達"
  birth.0002.desc:0 "子供が生まれるたびに私の愛情は増していく。生まれたばかりの赤ちゃんを抱っこしていると、今までにないほど暖かく親切に迎えてくれる。子供たちの集まりがとても見事なものに思えてくるのだ。"
  birth.0002.a:0 "生まれながらにして持ち合わせた優しさ!"
@@ -120,7 +120,7 @@
  birth.3011.desc:0 "My [child.Custom('DaughterSon')] is perfect. [child.GetHerHis|U] little face, the way [child.GetSheHe] smells... I want to stay in this moment forever, but the midwife only lets me hold [child.GetHerHim] for a few breaths. I try to protest when she takes [child.GetHerHim] from me, but my arms are weak and I struggle to find the words.\n\n\"Do not fret, my [ROOT.Char.GetTitleAsNameNoTooltip]. Your [child.Custom('DaughterSon')] is strong and healthy. You are our concern now.\"\n\n"
  birth.3011.twin.a:1 "お願い…その子たちの名前を…"
  birth.3011.a:0 "お願い…[child.GetHerHis|U]の名前を…"
- birth.3012.start.desc:0 "When the midwife finally exits the birth [ROOT.Char.Custom('GetChamber')] with a softly crying bundle in her arms, relief washes over me.\n\nThen I see the look on her face.\n\n\"I am sorry, my [ROOT.Char.GetLadyLord]. [mother.GetLadyLord|U] [mother.GetFirstNameNoTooltip]...\" Words fail her, but the tone of her voice says it all.\n\nOne life has been extinguished, but"
+ birth.3012.start.desc:0 "やがて助産師が、やわらかく泣いていた包みを抱えて出産室から出てきたとき、私は安堵の気持ちがこみ上げてきた。\n\nそれから私は彼女の顔を見る。\n\n「申し訳ございません、我が[ROOT.Char.GetLadyLord]。[mother.GetLadyLord|U][mother.GetFirstNameNoTooltip]は...」 彼女は上手く言葉に出来なかったが、その声のトーンが全てを物語っている。\n\n一つの命は消えた、だが"
  birth.3012.desc_twin:0 "二つの新しい命が始まったばかり。私は私の[child.Custom('TwinDaughtersSonsChildren')]のために強くあり続けなければならない。"
  birth.3012.desc:0 "新しい命が始まったばかり。私は私の[child.Custom('DaughterSon')]のために強くあり続けなければならない。"
  birth.3012.a:0 "悲劇的な始まりだ…"

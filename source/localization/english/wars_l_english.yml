@@ -18,7 +18,7 @@
  HOLY_WAR_DUCHY_NAME:0 "[duchy|E]に対する[holy_war|E]"
  HOLY_WAR_KINGDOM_NAME:0 "[kingdom|E]に対する[holy_war|E]"
  declared_major_religious_war_flag_tt:0 "生涯で一度だけ、大規模な宗教戦争を試みることができます。"
- DEBUG_WAR_NAME:1 "#D (DEBUG)#! [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] [TITLE.GetBaseName]に対するデバッグ戦争"
+ DEBUG_WAR_NAME:1 "#D (DEBUG)#! [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective][TITLE.GetBaseName]に対するデバッグ戦争"
  DEBUG_WAR_NAME_FALLBACK:0 "#D (DEBUG)#! デバッグ戦争"
  WAR_BREAKING_TRUCE:0 "@warning_icon! #X 宣戦布告すると[truce|E]を破ることになります！#!"
  WAR_BREAKING_ALLIANCE:0 "@warning_icon! #X 宣戦布告すると[alliance|E]は破棄されます！#!"

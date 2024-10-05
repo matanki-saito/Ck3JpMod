@@ -27,7 +27,7 @@
  COURT_POSITION_REPLACE:0 "#T [Character.GetShortUINameNoTooltip]を置き換え#!"
  COURT_POSITION_REVOKE:0 "#T [Character.GetShortUINameNoTooltip]を罷免#!"
  COURT_POSITION_OPINION_BONUS:0 "[opinion|e]ボーナス: [CourtPosition.GetOpinionBonus|=+]"
- COURT_POSITIONS_WINDOW_EMPTY_POSITION_HEADER:0 "[CourtPositionsWindow.CourtOwner.Custom('GetRealmOrDomicileConcept')]の[CourtPositionsWindow.CourtOwner.Custom('GetCourtOrOfficerPositionConceptPlural')]に空きがあります"
+ COURT_POSITIONS_WINDOW_EMPTY_POSITION_HEADER:0 "空位の[CourtPositionsWindow.CourtOwner.Custom('GetRealmOrDomicileConcept')]の[CourtPositionsWindow.CourtOwner.Custom('GetCourtOrOfficerPositionConceptPlural')]"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_EFFECTS_VARY:0 "効果は[aptitude|e]に基づいて変化します:"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS:0 "@warning_icon! #X この[court_position|e]を雇用するための要件を満たしていません#!"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS_TT:0 "#T $COURT_POSITION_TOOLTIP_LIEGE_REQUIREMENT$#!\n[CourtPositionType.GetLiegeRequirementDescriptionText]"

@@ -457,7 +457,7 @@
  ep3_laamps.0411.c: "Blast that [owner.Custom('InsultNoun')]!"
  refill_maa_interaction: "常備軍の補充"
  refill_maa_interaction_desc: "[adventurers|E] lack the reliable manpower sources of [landed|E] [rulers|E], and must [reinforce_soldiers|E] to fill [men_at_arms|E] [regiments|E] and replace losses."
- reinforce_soldiers_interaction: "Scrape the Barrel"
+ reinforce_soldiers_interaction: "残り物から選ぶ"
  reinforce_soldiers_interaction_desc: "Sometimes you simply do not have the [provisions|E] or [gold|E] to spare to [reinforce_soldiers|E] your [men_at_arms|E] [regiments|E]."
  reinforce_soldiers_option_provisions: "[provisions_i]Recruit with Provisions"
  reinforce_soldiers_option_provisions_desc: "Outfit willing outcasts and glory-seekers with clothes, weapons, armor, rations, and a tent in exchange for their service in your ranks."

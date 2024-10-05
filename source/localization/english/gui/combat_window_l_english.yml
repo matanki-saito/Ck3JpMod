@@ -47,7 +47,7 @@
  COMBAT_WINDOW_MAA_TT_REGIMENTS:0 "連隊: [CombatMaaItem.GetRegimentCount]"
  COMBAT_WINDOW_MAA_TT_COUNTERS:2 "#I +敵対勢力の[MenAtArmsType.GetName]がカウンター#!"
  COMBAT_WINDOW_MAA_TT_COUNTERED_BY:1 "#X -敵対勢力の[MenAtArmsType.GetName]がカウンター#!"
- COMBAT_WINDOW_MAA_TT_EFFICIENCY:1 "@warning_icon!カウンター兵種により与ダメージが[CombatMaaItem.GetCountered|0-%] に低減"
+ COMBAT_WINDOW_MAA_TT_EFFICIENCY:1 "@warning_icon!カウンター兵種により与ダメージが[CombatMaaItem.GetCountered|0-%]に低減"
  COMBAT_WINDOW_MAA_TT_TERRAIN_GOOD:0 "#I +好ましい地形での戦闘 #!"
  COMBAT_WINDOW_MAA_TT_TERRAIN_BAD:0 "#X -不利な地形での戦闘 #!"
  COMBAT_WINDOW_MAA_TT_SCREEN:3 "Screen effect per full regiment: [MenAtArmsType.GetStat(GetPlayer, Province.Self, Title.Self, 'screen')|0+=]"

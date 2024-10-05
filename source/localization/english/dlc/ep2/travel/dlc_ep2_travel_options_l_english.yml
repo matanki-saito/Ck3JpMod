@@ -69,7 +69,7 @@
  adventurers_encourage_relationships_option.tt: "Your [followers|E] may spontaneously form [friendships|E], become [lovers|E], or [marry|E] — either with each other or with [wanderers|E] as you [travel|E] past [baronies|E]. Every relationship formed this way will give you [prestige_i][prestige|E].\n#weak (Your [children|E], [spouses|E], or others you care about will not [marry|E] or take [lovers|E]. This will not cause [followers|E] to become [GetTrait('adulterer').GetName( GetNullCharacter )]s.)#!"
  ep3_travel_option_events.0002.title: "あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('courtier_to_marry'))|U] [courtier_to_marry.GetFirstName]は[marriage_material.GetFirstName]と結婚した"
  ep3_travel_option_events.0003.title: "あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('courtier_to_befriend'))|U] [courtier_to_befriend.GetFirstName]は[friend_target.GetFirstName]と友人になった"
- ep3_travel_option_events.0004.title: "あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('courtier_to_love'))|U] [courtier_to_love.GetFirstName]と[pls_love_me.GetFirstName]は恋人になった"
+ ep3_travel_option_events.0004.title: "[courtier_to_love.GetFirstName]と[pls_love_me.GetFirstName]は恋人になった"
  adventurers_search_for_secrets_option: "秘密を探る"
  adventurers_search_for_secrets_option_desc: "噂は秘密へと導く宝の地図だが、それを読み解くには狡猾さが必要だ。これはそれを指し示すことが出来る。"
  adventurers_search_for_secrets_option.tt: "[barony|E]を通過するとき、あなたはそこに住む誰かの[secret|E]を知る可能性がある\n#weak （あなたの[intrigue_i]値に等しい確率）#!"
