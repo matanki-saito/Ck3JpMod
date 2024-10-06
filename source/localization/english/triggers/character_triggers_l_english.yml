@@ -858,7 +858,7 @@
  NOT_THEY_ARE_LANDLESS_ADMINISTRATIVE_TRIGGER: "[CHARACTER.GetShortUIName|V] is #bold not#! an [estate|E] owner"
  IS_GOVERNOR_TRIGGER: "Is a [GetPlayer.Custom('GetGovernorConcept')]"
  NOT_IS_GOVERNOR_TRIGGER: "Is #bold not#! a [GetPlayer.Custom('GetGovernorConcept')]"
- I_AM_GOVERNOR_TRIGGER: "You are a [GetPlayer.Custom('GetGovernorConcept')]"
+ I_AM_GOVERNOR_TRIGGER: "あなたが[GetPlayer.Custom('GetGovernorConcept')]である"
  NOT_I_AM_GOVERNOR_TRIGGER: "You are #bold not#! a [GetPlayer.Custom('GetGovernorConcept')]"
  THEY_ARE_GOVERNOR_TRIGGER: "[CHARACTER.GetShortUIName|V] is a [GetPlayer.Custom('GetGovernorConcept')]"
  NOT_THEY_ARE_GOVERNOR_TRIGGER: "[CHARACTER.GetShortUIName|V] is #bold not#! a [GetPlayer.Custom('GetGovernorConcept')]"

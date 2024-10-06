@@ -1560,7 +1560,7 @@
  AI_DYNASTY_PRESTIGE_REASON_SECONDARY_THEIRS: "[dynasty_prestige_level|E] of the [secondary_recipient.GetDynasty.GetName] [dynasty|E]: $VALUE|=+0$"
  can_recruit_character_to_court_trigger.tt.laamps_invitation_restrictions: "[adventurers|E] may only invite their [player_heir|E], [soulmate|E], [best_friend|E], or [spouses|E] to their [camp|E]"
  INVITE_TO_COURT_COOLDOWN: "They recently accepted an invite to their current court and cannot be invited again for a while"
- SCHEME_PREDICTION_SPEED: "[scheme_speed|E]: $DAYS|V0$ days"
+ SCHEME_PREDICTION_SPEED: "[scheme_speed|E]：$DAYS|V0$日"
  SCHEME_PREDICTION_VALUE_DEBUG: "#D Odds: [InteractionSchemeInfo.GetOddsPredictionValue]#!"
  join_war_interaction_target_not_contract_war:0 "[CHARACTER.GetUIName|U] [CharDontDoesnt(CHARACTER)] have a [task_contract|E] for this war"
  INTERACTION_REPLACE_SCHEME_PERSONAL: "[personal|E]"

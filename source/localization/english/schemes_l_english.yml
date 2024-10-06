@@ -1444,7 +1444,7 @@
  scheme_odds.owner.relation.owner_is_spouse_of_target: "You are [target.GetFirstNamePossessive] [spouse|E]"
  scheme_odds.owner.relation.owner_is_consort_of_target: "You are [target.GetFirstNamePossessive] consort"
  scheme_odds.owner.relation.owner_is_close_family_of_target: "You are [target.GetFirstNamePossessive] [close_family|E]"
- scheme_odds.agents.owner.number_of_valid_courtiers_agents: "Possible [agents|E] at your [court|E]"
+ scheme_odds.agents.owner.number_of_valid_courtiers_agents: "あなたの[court|E]内の[agents|E]候補"
  scheme_odds.agents.owner.number_of_valid_friend_agents: "Possible [agents|E] amongst your [friends|E]"
  scheme_odds.agents.owner.number_of_valid_lover_agents: "Possible [agents|E] amongst your [lovers|E]"
  scheme_odds.agents.target.number_of_valid_courtiers_agents: "Possible [agents|E] at [target.GetFirstNamePossessive] [court|E]"

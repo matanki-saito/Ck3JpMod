@@ -12,4 +12,4 @@
  pdi_is_in_debt:0 "[debt|E]があります"
  pdi_has_poor_health:0 "[health|E]: $action_dying$"
  pdi_in_regency: "[regency|E]である"
- pdi_admin_without_noble_title: "Is [administrative|E] but has no [noble_family|E] [title|E]"
+ pdi_admin_without_noble_title: "[administrative|E] ですが、[noble_family|E][title|E] はありません"

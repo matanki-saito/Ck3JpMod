@@ -23,5 +23,5 @@
  travel_danger_events.9020.hunter:0 "どこかに獲物がいるはずだ！"
  travel_danger_events.9020.cannibal:0 "おお、[emaciated_character.GetFirstNameNoTooltip]、[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]のために命を捧げる気はないかね？"
  emaciated_modifier:0 "衰弱"
- emaciated_modifier_desc:0 "This character has traveled for a long distance without any food at all."
+ emaciated_modifier_desc:0 "この人物は食料をいっさい持たず、長い旅路を歩んできた。"
  cannibalicus_maximus:0 "まだ食人嗜好者でない場合、あなたとすべての側近メンバーが食人嗜好者の[secret|E]を獲得するでしょう"

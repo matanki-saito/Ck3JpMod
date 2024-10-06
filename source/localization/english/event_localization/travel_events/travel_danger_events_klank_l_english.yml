@@ -17,7 +17,7 @@
  travel_danger_events.3001.t:0 "$travel_danger_prefix$ 雪崩だ！"
  travel_danger_events.3001.desc:0 "雪に覆われた山頂の間の長く困難な旅の後、[first_avalanche_victim.GetFirstName]と[second_avalanche_victim.GetFirstName]が屋外でキャラバンの世話をしている間、私は地元の宿屋の燃え盛る暖炉のそばでゆっくりと体を温めている。突然、遠くから、しかし力強く、深く、響くようなドスンという音がする。\n\n「雪崩だ！」誰かが叫ぶ。中にいる人々が反応する前に、音はますます大きくなり、壁や床を揺るがすほどの大きな力で最高潮に達する。心臓の鼓動や永遠の時間が経過した後は、さらに恐ろしい沈黙が続く。"
  travel_danger_events.3001.a:0 "[ROOT.Char.GetCulture.GetCollectiveNoun]は山で生き残る術を知っている。"
- travel_danger_events.3001.a.alternate:0 "[travel_leader.GetCulture.GetCollectiveNoun] know how to survive in the mountains."
+ travel_danger_events.3001.a.alternate:0 "[travel_leader.GetCulture.GetCollectiveNoun]は山で生き残る術を知っている。"
  travel_danger_events.3001.a.flavor:0 "本格的な[ROOT.Char.GetCulture.GetName]の雪崩に比べれば、大したことはない！"
  travel_danger_events.3001.a.flavor.alternate:0 "私の$travel_leader_court_position$[travel_leader.GetFirstName]は、[travel_leader.GetHerHis]の[travel_leader.GetCulture.GetName]の遺産のおかげで、どんな山の危険に対しても予防措置を取っている。"
  travel_danger_events.3001.b:0 "待っていろ、助けは来るぞ！"

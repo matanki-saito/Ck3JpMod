@@ -297,7 +297,7 @@
  ep3_laamp_decision_event.1025.criminal_contracts_tt: "[criminal_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
  ep3_laamp_decision_event.1025.option.justicar_contracts: "皆が清々しい朝を迎えるために！"
  ep3_laamp_decision_event.1025.justicar_contracts_tt: "[justicar_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
- ep3_laamp_decision_event.1025.option.hireling_contracts: "「軍事的な任務なら、ドンと来いだよ」"
+ ep3_laamp_decision_event.1025.option.hireling_contracts: "「力仕事、ドンと来いだよ」"
  ep3_laamp_decision_event.1025.hireling_contracts_tt: "[hireling_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
  ep3_laamp_decision_event.1025.option.diplomacy_contracts: "「外交交渉に挑戦してみてもいいかもしれない。」"
  ep3_laamp_decision_event.1025.diplomacy_contracts_tt: "[diplomacy_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"

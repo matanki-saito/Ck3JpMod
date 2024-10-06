@@ -553,7 +553,7 @@
  AI_OPINION_PRESTIGE_LEVEL_ILLUSTRIOUS: "[GetPrestigeLevelName('(int32)3')] [prestige_level|E]: $VALUE|=+0$"
  AI_OPINION_PRESTIGE_LEVEL_EXALTED: "[GetPrestigeLevelName('(int32)4')] [prestige_level|E]: $VALUE|=+0$"
  AI_OPINION_PRESTIGE_LEVEL_LEGENDARY: "[GetPrestigeLevelName('(int32)5')] [prestige_level|E]: $VALUE|=+0$"
- TRADE_INFLUENCE_FOR_BETTER_AI_ACCEPTANCE: "Spend @influence_icon![influence|E] to increase acceptance"
+ TRADE_INFLUENCE_FOR_BETTER_AI_ACCEPTANCE: "@influence_icon![influence|E]を使って受け入れ値を上げる"
  INFLUENCE_INTERACTION_ACCEPTANCE_SEND_OPTION: "Spending [influence|E]: $VALUE|=+0$"
  not_same_realm_tt: "You and [recipient.GetShortUIName] are #BOLD not#! in the same realm"
  INFLUENCE_SEND_OPTION: "Spend @influence_icon![influence|E]"

@@ -113,7 +113,7 @@
  diplomacy_foreign_special.1025.a:0 "はっ！[foreign_guest.GetSheHe]にチャンスがあると思わせておこう。"
  diplomacy_foreign_special.1025.b:0 "裏切り者め！二人ともだ！"
  diplomacy_foreign_special.1026.t:1 "$diplomacy_foreign_special.1017.t$: 欺瞞と欲望"
- diplomacy_foreign_special.1026.desc:0 "As the lewd suggestion passes [foreign_guest.GetTitledFirstNamePossessive] lips, I am not sure whether I am furious about [foreign_guest.GetHerHis] utter lack of decency, or impressed by [foreign_guest.GetHerHis] gall. Seducing my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('interesting_relation') )] under my very roof! I lean back against the cool wall of the hidden passage, trying to rein in the storm of emotion."
+ diplomacy_foreign_special.1026.desc:0 "淫らな提案が[foreign_guest.GetTitledFirstNamePossessive]の唇から飛び出すと、私は品性のなさに激怒しているのか、それともその厚かましさに感銘を受けているのかかわからなくなる。私の[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('interesting_relation') )]を、我が家で誘惑するとは！　私は隠し通路の冷たい壁にもたれかかり、感情の嵐を抑えようとする。"
  diplomacy_foreign_special.1026.a.tt:1 "あなたは彼らの[secret|E]を知ります"
  diplomacy_foreign_special.1026.a:0 "彼らを楽しませてやろう、知ったことではない。"
  diplomacy_foreign_special.1026.b:0 "[interesting_relation.GetHerHim]からその汚らわしい手をどけろ、[foreign_guest.Custom('InsultNoun')]！"

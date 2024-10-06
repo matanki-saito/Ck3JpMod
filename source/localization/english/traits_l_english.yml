@@ -1005,7 +1005,7 @@
  trait_gallivanter_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は気ままに生きる以上の責任を負いたがっていない。自分の時間は貴重であり、無意味な任務や無価値な野望に浪費されたくないと考えている。"
  trait_governor: "総督"
  trait_track_governor: "$trait_governor$"
- trait_track_governor_desc: "租税。土地。兵隊。すべては完璧にできるし、そうしなければならない。\n\n#weak この[trait|E]は[counties|E]を発展させ、[realm|E]に恩恵をもたらす行為でレベルアップする。具体的には[governance_issues|E]の達成、[buildings|E]の建設、イベントで特定の選択肢をえらぶなどが挙げられる。#!"
+ trait_track_governor_desc: "租税。土地。兵隊。すべては完璧に管理できるし、そうしなければならない。\n\n#weak この[trait|E]は[counties|E]を発展させ、[realm|E]に恩恵をもたらす行為でレベルアップする。具体的には[governance_issues|E]の達成、[buildings|E]の建設、イベントで特定の選択肢をえらぶなどが挙げられる。#!"
  trait_governor_desc: "この人物は総督として貴重な経験を積んでいる。"
  trait_governor_3_byz: "Veteran $duke_administrative_male_byzantine_group$"
  trait_governor_3: "Veteran Governor"
