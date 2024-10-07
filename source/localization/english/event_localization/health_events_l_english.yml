@@ -32,7 +32,7 @@
  health.0204.desc:0 "傷は痛いはずだし、多少の腫れは珍しくないので、傷は治っていると思っていた。しかし、今は水ぶくれができ、赤みが黒くなっている。目の前で体が腐っているのだ！"
  health.0204.court_physician.desc:0 "\n\n「壊疽に罹患しておられます、我が[ROOT.Char.GetLadyLord]。これは深刻だ…直ちに治療しなければならない！」"
  health.1001.t:1 "[SCOPE.Custom('EventTitleDisease')]: 我が死にゆく身体"
- health.1001.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip] or peasant, high or low, it does not matter. In the end, we are all mortal.\n\nI was reminded of this as I woke coughing in the early morning hours, a dull ache pounding through my head and throat. My body is wracked by shivers and weakness, my head leaking from every orifice.\n\n"
+ health.1001.desc:0 "[ROOT.Char.GetTitleAsNameNoTooltip]であろうと百姓であろうと、身分が高かろうと低かろうと、それは問題ではない。結局、私たちは皆、人間なのだ。\n\n早朝の時間帯に咳き込んで目を覚ましたとき、私はこのことを思い出した。頭と喉に鈍い痛みが突き刺さる。体は震えと虚脱感にさいなまれ、あらゆる穴から頭の中身が漏れ出している。\n\n"
  health.1001.court_physician.desc:0 "「[ROOT.Char.Custom('GetCourt')]の向こうからでも聞こえますが…酷い息切れですな、我が[ROOT.Char.GetLadyLord]！」[physician.GetFirstName]…私の侍医が[ROOT.Char.Custom('GetChamber')]の戸を僅かに覗き込みながら提案してくれた。「必要であれば、適切な治療法をいくつか知っていますので、方針をおっしゃってください」"
  health.1001.a:0 "もう寝床から離れたくない…"
  health.1002.t:1 "[SCOPE.Custom('EventTitleDisease')]: ナイフのように鋭く"

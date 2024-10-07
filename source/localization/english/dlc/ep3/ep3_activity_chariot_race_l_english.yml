@@ -6,7 +6,7 @@
  activity_chariot_race_guest_desc: "\n#weak While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E]."
  activity_chariot_race_conclusion_desc: "The [GetActivityType( 'activity_chariot_race' ).GetName] has concluded."
  activity_chariot_race_selection_tooltip: "Hold grandiose chariot races to please the public and cement your position as [GetPlayer.GetTitleAsNameNoTooltip]\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$@influence_icon![influence|E]\n$BULLET_WITH_TAB$@gold_icon![gold|E]"
- HOI_POLLOI_GLOSS: "Literally meaning \"the many,\" this Ancient Greek term refers to the lower classes within Byzantine society"
+ HOI_POLLOI_GLOSS: "原義には「多数」を意味するこの古代ギリシャ語は、ビザンツ社会における下層民を指す言葉である。"
  chariot_race_honorary_guest: "Honorary Guest"
  chariot_race_honorary_guest_traveling: "$chariot_race_honorary_guest$"
  activity_window_character_chariot_race_honorary_guest: "[honorary_guest|E]\n[Character.GetShortUINameNoTooltip|U]"

@@ -208,7 +208,7 @@
  murder_outcome.4302.a.discovered:0 "ああ、私は[target.GetHerHis]の処刑日を間違えたのかな？"
  murder_outcome.4401.a:0 "単に時間の問題だよ、[target.GetFirstNameNoTooltip]。"
  murder_outcome.5001.t:0 "衣脱ぎ捨て空蝉の"
- murder_outcome.5001.poisoned_duck:0 "I am enjoying the duck at my feast when I suddenly feel my throat swell and my limbs growing slow. I can feel what is coming, but I can do nothing to stop it.\n\nIt is not long before my vision darkens and the distant shouts of laughter turn into horrified screams, slowly drifting away from me."
+ murder_outcome.5001.poisoned_duck:0 "饗宴でご馳走の鴨を食べていると、突然喉が腫れ、手足の感覚が鈍くなるのを感じる。私は何かが押し寄せてくるのを感じるが、それを止めることはできない。\n\n程なく視界が暗くなり、遠くから聞こえてくる笑い声が恐ろしい叫び声へと変わり、それもゆっくりと遠ざかっていく。"
  murder_outcome.5001.gang_of_thugs:0 "Traveling the woods through with my retinue, we are accosted by a band of rogues. They soon prove to be more interested in our lives than in our gold, and though my men fight bravely, the brigands had the element of surprise.\n\nI run as fast as I can, until I think I have made it to safety. Then, over the noise of battle, I hear the pure twang of a single bowstring."
  murder_outcome.5001.hired_assassin:0 "I wake in the middle of the night to see a dark figure in my chambers. I know not what has happened to my guards, but when I see the glint of moonlight reflecting off the blade, I know that it is too late for me.\n\nA sufficiently sharp dagger makes little sound as it pierces flesh, and through the rush of agonizing pain I cannot tell if my screams are any more audible."
  murder_outcome.5001.creepy_crawly_intro:0 "The moment I feel something brush against my leg, I can't help shuddering and tossing away my covers, but the swift movement only agitates the unwelcome guest further."

@@ -47,7 +47,7 @@
  peasant_supplies: "農民からの幅広い支持"
  peasant_supplies_desc: "この人物は農民の間で人気であり、彼らは通常より多くの貢物を献上する。"
  peasant_draft: "農民の徴兵"
- peasant_draft_desc: "農民たちは、この人物の旗印の下に大勢詰め寄せ、徴集のために武器を取ることを厭わない。"
+ peasant_draft_desc: "農民たちは、この人物の旗印の下に大勢押し寄せ、徴兵されたならば喜んで武器を取る。"
  conqueror_feed_county_gift: "[county_target.GetNameNoTooltip]がゴールドを贈る"
  conqueror_feed_county_gift_desc: "[county_target.GetName]の農民はあなたの征服に熱狂し、貢物を送ってきた。"
  conqueror_feed_knight_joins: "$knight_culture_player_no_tooltip$あなたの大義に参加する"

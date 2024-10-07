@@ -30,7 +30,7 @@
  harm.0003.a:0 "グエー、関節が#EMP 軋む#!とは、こういうことか？"
  harm.0003.a.tt:0 "段々とあなたの動きは緩やかに…"
  harm.0011.t:0 "戦いで壊れたもの"
- harm.0011.desc.default_body:0 "With the conflict in [battle_location.GetName] over, the wounded and the maimed limp away from the battlefield, whilst the most noteworthy of the dead are carried off by friends and retainers.\n\nFor my own part, I was caught in some of the thickest fighting — little finesse to be had, just hacking, screaming, and killing. My head stills spins from the blows and adrenaline, the surges of fear and rage and exultation and...\n\nSp-spinning. My head is spinning. My vision blurs, then doubles, and I begin to topple into the [ROOT.Char.Custom('GritType')].\n\n\"Fetch a [ROOT.Char.Custom('GetRandomBattlefieldMedic')|U], the [ROOT.Char.GetTitleAsNameNoTooltip] has been struck!\" goes the cry,"
+ harm.0011.desc.default_body:0 "[battle_location.GetName]での戦闘が終わり、傷ついた者や不自由な者たちは戦場からよろめきながら離れていく。一方、讃えられるべき死骸はその友人や従者によって運ばれている。\n\n私自身も最も激しい戦闘に巻き込まれた。そこに洗練された技術などはなく、ただ切りつけ、叫び、殺し合うだけだった。まだ頭が打撃や脳内麻薬、恐怖や怒り、喜びの雄叫びなどの後遺症でクラクラしている。\n\nクルクルと回る。頭が、世界が回転する。視界がぼやけ、それから二重になり、そして私は[ROOT.Char.Custom('GritType')]…と倒れ込んだ。\n\n「医術師を！！[ROOT.Char.Custom('GetRandomBattlefieldMedic')|U]を連れてきてください、[ROOT.Char.GetTitleAsNameNoTooltip]がやられた！」と叫び声が響き、それから…"
  harm.0011.desc.medic_present:0 "そして、最後に私が見たのは群衆を押しのけて[medic.GetTitledFirstName]が来る姿だった。"
  harm.0011.desc.no_medic:0 "ああ、でも、誰も答えない。誰も、何も。"
  harm.0011.a:0 "案ずるな、案ずるな…"

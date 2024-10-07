@@ -736,7 +736,7 @@
  RELEASED_FROM_PRISON_EFFECT:0 "[prison|E]を出ました"
  RELEASED_ME_FROM_PRISON_EFFECT:1 "あなたが[prison|E]を出ました"
  RELEASED_THEM_FROM_PRISON_EFFECT:0 "[CHARACTER.GetShortUIName|U]が[prison|E]を出ました"
- CHANGE_PRISON_TYPE:0 "[CHARACTER.GetShortUIName|U]の[CharAreIs(CHARACTER)]が$TYPE|V$に移されます"
+ CHANGE_PRISON_TYPE:0 "[CHARACTER.GetShortUIName|U]が$TYPE|V$に移されます"
  I_GAINED_TYRANNY_EFFECT:2 "@warning_icon!#X [tyranny|E]行為：臣下からの[opinion|E]$VALUE|-0$を失います#!"
  I_LOST_TYRANNY_EFFECT:2 "#P [tyranny|E]の減少：臣下からの[opinion|E]$VALUE|+0$を得ました#!"
  THEY_GAINED_TYRANNY_EFFECT:1 "@warning_icon!#X [tyranny|E]行為：[CHARACTER.GetShortUINamePossessive]の臣下からの[opinion|E]$VALUE|-0$を失います#!"

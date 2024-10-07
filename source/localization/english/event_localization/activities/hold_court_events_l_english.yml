@@ -36,5 +36,5 @@
  hold_court.0021.shy:0 "寝室にさっさと引っ込みたい、もう待てない…"
  hold_court.0021.gregarious:0 "廷臣の皆と親しく話し合う良い機会だったな。"
  hold_court.0021.every_guest_and_courtier:0 "全ての客人と廷臣:"
- county_or_15_dev: "[county.GetName] and every [realm|E] [county|E] with 15 or fewer [development|E]"
- hold_court_1001_pool_tt: "[rumormonger.GetShortUIName] leaves your [court|E]"
+ county_or_15_dev: "[county.GetName]と[development|E]が15以下のすべての[realm|E]の[county|E]"
+ hold_court_1001_pool_tt: "[rumormonger.GetShortUIName]はあなたの[court|E]から去った"

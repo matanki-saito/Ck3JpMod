@@ -1,9 +1,9 @@
 ﻿l_english:
  activity_camp_party: "宴"
- activity_camp_party_desc: "Hold a small celebration at your camp, funded by [gold_i][gold|E] but modified by your stocks of [provisions_i][provisions|E]. Invitees will include everyone from the camp, plus optionally local rulers.\n\nCamp Parties provide an opportunity to befriend your followers, gain special [task_contracts|E], and manage [stress|E]."
+ activity_camp_party_desc: "野営地でささやかな祝宴を開く。これは[gold_i][gold|E]によって賄われるが、加えて[provisions_i][provisions|E]の保管方法や追加の使用によって、効果が変化することもある。野営地の全員に加え、オプションで追加される地元の統治者が招待される。\n\n野営地での祝宴は、従者と仲良くなれる機会を提供し、また特殊な[task_contracts|E]の獲得、[stress|E]の減少の機会がある。"
  activity_camp_party_province_desc: "男爵領を選ぶ"
- activity_camp_party_host_desc: "$BULLET_WITH_TAB$May lose [stress_i][stress|E]\n$BULLET_WITH_TAB$May gain [provisions_i][provisions|E]\n$BULLET_WITH_TAB$May gain [skill|E] points\n$BULLET_WITH_TAB$May gain [task_contracts|E]\n$BULLET_WITH_TAB$May gain [artifacts|E]\n$BULLET_WITH_TAB$May recruit new [followers|E]"
- activity_camp_party_success: "Carousing"
+ activity_camp_party_host_desc: "$BULLET_WITH_TAB$[stress_i][stress|E]を失うかもしれない\n$BULLET_WITH_TAB$[provisions_i][provisions|E]を得るかもしれない\n$BULLET_WITH_TAB$[skill|E]の経験値を得るかもしれない\n$BULLET_WITH_TAB$[task_contracts|E]が発生するかもしれない\n$BULLET_WITH_TAB$[artifacts|E]を獲得できるかもしれない\n$BULLET_WITH_TAB$新しい[followers|E]を雇用できるかもしれない"
+ activity_camp_party_success: "酒宴"
  activity_camp_party_success_desc: "\n\nHow Carousing your [GetActivityType( 'activity_camp_party' ).GetName] has turned out to be so far.\n\nThe more Carousing you are, the better [activity|E] rewards you may receive."
  activity_camp_party_cooldown: "You have to wait at least 3 months before holding another revelry!"
  activity_camp_party_selection_tooltip: "Hold a [GetActivityType('activity_camp_party').GetName] with your [followers|E]\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[stress_i][stress|E] loss\n$BULLET_WITH_TAB$[provisions_i][provisions|E]\n$BULLET_WITH_TAB$New [task_contracts|E]"
