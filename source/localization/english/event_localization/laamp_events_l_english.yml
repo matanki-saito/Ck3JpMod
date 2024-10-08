@@ -15,7 +15,7 @@
  ep3_laamps.0001.e: "時は無情に…"
  ep3_laamps.0003.opening: "[adventurer.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
  ep3_laamps.0003.desc: "貴様とそのケツにぶら下がる汚らしい有象無象は、我が[lost_primary_title.GetTierAsNameNoTooltip|l]を奪い去ったと言える。だが、我を見ろ！まだ終わらんぞ、そう容易く[lost_primary_title.GetNameNoTierNoTooltip]を諦めるものか！"
- ep3_laamps.0003.a: "ハッ！この道化にも魂はあるぞ！"
+ ep3_laamps.0003.a: "ハッ！道化にしては気骨があるな！"
  ep3_laamps.0004.desc: "These damnable traitors have wrested my [conquered.GetTierAsNameNoTooltip|l] from me, casting me out into the wilderness, while [winner.GetTitledFirstName] and [winner.GetHerHis] soldiers acclaim [heir.GetTitledFirstName] in my place!\n\nI have allowed renegades and liars to take from me the [conquered.GetAdjectiveNoTooltip] throne... we truly are just the playthings of [ROOT.Char.GetFaith.FateGodName]..."
  lose_all_prestige_tt: "You retain only up to #V 100#! [prestige_i][prestige|E]"
  lose_all_prestige_level_tt: "You lose #value 3#! [prestige_levels|E]"

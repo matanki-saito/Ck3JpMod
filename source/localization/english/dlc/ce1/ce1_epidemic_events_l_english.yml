@@ -506,4 +506,4 @@
  msg_epidemic_infection: "[epidemic.GetNameNoTooltip]が広まっている…"
  msg_epidemic_infection_desc_1: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]へと広まっている"
  msg_epidemic_infection_desc_2: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly]に広まっている"
- msg_epidemic_infection_desc: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly ]で広まり、$message_consolidation_others$"
+ msg_epidemic_infection_desc: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly ]、および$message_consolidation_others$領で広まっている。"

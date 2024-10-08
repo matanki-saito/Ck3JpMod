@@ -12,4 +12,4 @@
  KNIGHTS_VIEW_TITLE_FORCE_TT:2 "#T [Character.GetShortUIName]の$knight_culture_player$叙任を強制する#!\n\n[Character.GetShortUIName]は、[Character.GetHerHis]の[prowess|E]に関係なく、#emphasis 必ず#!$knight_culture_player_no_tooltip$として[armies|E]に加わる。[Character.GetSheHe|U]はより武勇の高い$knight_culture_player_no_tooltip$に取って代わる存在になるかもしれない。"
  KNIGHTS_CURRENT_MAX:0 "[GetKnightCount( GetPlayer.Self )|V]/[GetKnightLimit( GetPlayer.Self )|V]"
  KNIGHTS_SUBHEADER:0 "適格な[courtiers|E]と[vassals|E]"
- KNIGHTS_SUBHEADER_LANDLESS_ADVENTURER: "Eligible [followers|E]"
+ KNIGHTS_SUBHEADER_LANDLESS_ADVENTURER: "資格のある[followers|E]"

@@ -50,7 +50,7 @@
  laamp_transport_gold_desc: "重要な輸送隊が [TaskContract.GetEmployer.GetCurrentLocation.GetNameNoTooltip] を出発しようとしている。 [TaskContract.GetEmployer.GetTitleAsNameNoTooltip] はその道中を守る人々に多額の報酬を差し出すだろう。"
  laamp_transport_animal_contract: "贈答品の配送"
  laamp_transport_animal_desc_title: "心優しき旅人よ"
- laamp_transport_animal_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]のかわいいペットを安全に輸送する。"
+ laamp_transport_animal_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]のかわいいペットを安全に輸送せよ。"
  laamp_construction_contract_contract: "建設工事"
  laamp_construction_contract_desc_title: "経験豊かな行商人へ"
  laamp_construction_contract_desc: " [TaskContract.GetEmployer.GetTitleAsNameNoTooltip] によって命令された建設作業の資材が不足している。新しい建築資材の調達のために多額の資金が提供されている。"

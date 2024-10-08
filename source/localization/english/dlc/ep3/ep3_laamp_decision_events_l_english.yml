@@ -305,7 +305,7 @@
  ep3_laamp_decision_event.1025.stewardship_contracts_tt: "[stewardship_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
  ep3_laamp_decision_event.1025.option.learning_contracts: "「学術的仕事はいい気分転換になるな。」"
  ep3_laamp_decision_event.1025.learning_contracts_tt: "[learning_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
- ep3_laamp_decision_event.1025.option.intrigue_contracts: "「協力者？なんと#EMP 興味深い#!。」"
+ ep3_laamp_decision_event.1025.option.intrigue_contracts: "「内通者？ふうん、#EMP 策略の匂い#!がするじゃないか」"
  ep3_laamp_decision_event.1025.intrigue_contracts_tt: "[intrigue_task_contracts|E]が地図上に#V [EmptyScope.ScriptValue('num_contracts_spawned_value')|0]#!つ出現します"
  ep3_laamp_decision_event.1025.d: "$ep3_laamp_decision_event.1021.d$"
  ep3_laamp_decision_event.1025.d_nothing: "Huh. That's it, I guess."

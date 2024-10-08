@@ -23,5 +23,5 @@
  MASS_PRISONER_ACTION_EXECUTE_TT:0 "#T $MASS_PRISONER_ACTION_EXECUTE$#!\nすべての[prisoners|E]を処刑します。\n\n$MASS_ACTION_TT_EXCLUDE$"
  MASS_ACTION_TT_EXCLUDE:0 "#weak フィルタで隠されている、または一括実行から除かれている囚人は影響を受けません。#!"
  MASS_PRISONER_ADDITIONAL_REASONS:0 "#X …その他#!"
- PRISON_EMPTY.LANDED: "Your dungeons contain no one important"
- PRISON_EMPTY.LAAMP: "Your camp houses no important prisoners"
+ PRISON_EMPTY.LANDED: "あなたの地下牢には重要な人物はいない"
+ PRISON_EMPTY.LAAMP: "あなたの野営地の収容所には重要な囚人はいない"

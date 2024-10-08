@@ -38,7 +38,7 @@
  conqueror.1200.a: "彼らを失望させるわけにはいかない！"
  conqueror.1200.b: "彼らが戦を望むなら、まずは兵士が必要だ。"
  glory_hound_contribution: "栄光を求める封臣の支持"
- glory_hound_contribution_desc: "この人物は、[GetVassalStance( 'glory_hound' ).GetTextIcon]たる[GetVassalStance( 'glory_hound' ).GetName]からの揺るぎない支持を受けている。"
+ glory_hound_contribution_desc: "この人物は、[GetVassalStance( 'glory_hound' ).GetTextIcon][GetVassalStance( 'glory_hound' ).GetName]からの揺るぎない支持を受けている。"
  conqueror.1300.t: "$conqueror_prefix$民衆の支持"
  conqueror.1300.desc: "「我が[root_scope.GetLadyLord]の[ROOT.Char.GetTitleAsNameNoTooltip|l]様。あなた様は紛れもなく——最も[root_scope.Custom('ComplimentAdjective')]な#EMP 主君#!です！」農民は興奮した様子でそう言い、私の前にひれ伏した。\n\n「ここは[peasant_barony.GetBaseName]の貧しい集落ですが、贈り物をご用意致しました。——穀物と狩りで得た肉、それからゴールドです。我々は苦労してきましたが、あなた様がこの村に繁栄を齎して頂けると信じています！」[portrait_peasant.GetSheHe|U]は続ける。\n\n彼らは私の臣下の中で最も卑しいかもしれないが、私の頼みならなんでもやってくれそうだ。"
  conqueror.1300.a: "素晴らしい贈り物だ、感謝するよ！"

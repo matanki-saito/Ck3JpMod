@@ -511,7 +511,7 @@
  ask_for_conversion_interaction_desc:0 "[recipient.GetShortUINameNoTooltip]にあなたの[faith|E]に改宗するよう要求します\n#weak ([recipient.GetFaith.GetName]から[actor.GetFaith.GetName]へ)#!"
  ask_for_conversion_courtier_interaction:0 "改宗要求"
  ask_for_conversion_courtier_interaction_extra_icon:0 "$hook_extra_icon$"
- ask_for_conversion_courtier_interaction.tt:0 "[recipient.Custom('GetCourtier')|U] Agrees to Conversion"
+ ask_for_conversion_courtier_interaction.tt:0 "[recipient.Custom('GetCourtier')|U]が改宗に応じる"
  ask_for_conversion_decline_notification:1 "[recipient.GetShortUINameNoTooltip]は改宗を拒否した"
  ASK_FOR_CONVERSION_RECIPIENT_LEARNING:0 "[recipient.GetShortUINamePossessive]とあなたの[learning_skill|E]の違い: $VALUE|=+0$"
  ASK_FOR_CONVERSION_CAN_NOT_CREATE_CADET_BRANCH:0 "[recipient.GetShortUIName]は[cadet_branch|E]を創設できない: $VALUE|=+0$"

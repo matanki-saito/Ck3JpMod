@@ -308,7 +308,7 @@
  let_me_down_opinion: "失望した"
  proper_jokes_opinion: "パーティーの主役"
  revoked_camp_officer_opinion: "私を担当者から解任した"
- appointed_co_ruler_over_designated_regent_opinion: "Appointed [co_ruler|E] over Designated [regent|E]"
+ appointed_co_ruler_over_designated_regent_opinion: "[regent|E]より優先される[co_ruler|E]"
  stolen_land_opinion: "土地を奪った"
  stole_hostage_opinion: "人質を盗んだ"
  castration_opinion: "私を去勢した"
