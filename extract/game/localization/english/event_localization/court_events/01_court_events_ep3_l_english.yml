@@ -265,3 +265,4 @@
  court.8321.c: "There are no funds to spare right now..."
  increased_position_salary_tt: "[court_position|E] Salary will be #N increased +50%#! for #V 10#! years"
  court_position_increased_salary: "Increased [court_position|E] Salary"
+ court_position_laamps_free: "[officers|E] do not cost"

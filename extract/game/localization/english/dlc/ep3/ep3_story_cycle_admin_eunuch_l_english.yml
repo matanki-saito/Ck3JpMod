@@ -75,7 +75,7 @@
 
  ep3_story_cycle_admin_eunuch.2050.t: "$admin_eunuch_header$ Abundant Initiative"
  ep3_story_cycle_admin_eunuch.2050.desc: "My eunuch, [eunuch.GetTitledFirstName], approaches me with a self-satisfied grin across [eunuch.GetHerHis] lips, twittering, "My [ROOT.Char.GetLadyLord], I have the most delectable proposal for you!"\n\n"
- ep3_story_cycle_admin_eunuch.2050.debase: ""The [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] could always use more coin, and I have the run the numbers. With a minor adjustment of our minting strategy, we could save a great deal of coin!""
+ ep3_story_cycle_admin_eunuch.2050.debase: ""The [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] could always use more coin, and I have run the numbers. With a minor adjustment of our minting strategy, we could save a great deal of coin!""
  ep3_story_cycle_admin_eunuch.2050.raise_taxes: ""The [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] could always use more funds, and, in that vein, I've come up with a proposal for a #EMP modest#! tax rise!""
  ep3_story_cycle_admin_eunuch.2050.candidacy: ""Having heard many voices across the [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip], I can see a great opportunity to aid your [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('boon_target'))], [boon_target.GetFirstNamePossessive] candidacy for the [boon_title.GetAdjective] [boon_title.GetTierAsNameNoTooltip]!""
  ep3_story_cycle_admin_eunuch.2050.fabricate_hook: ""News travels quickly in [ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], and so do rumors! I have just the leverage you need to ensure [boon_victim.GetTitledFirstName] knows [boon_victim.GetHerHis] place!""

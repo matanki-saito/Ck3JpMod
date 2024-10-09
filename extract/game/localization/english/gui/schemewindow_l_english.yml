@@ -352,6 +352,8 @@
  SCHEME_CHAPLAIN_HELP_LEARNING_MODIFIER:0 "Your [Concept( 'realm_priest', GetPlayer.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionNamePossesive )|E] [learning|E]: $VALUE|+0=$"
  SCHEME_KNOWN_LANGUAGES_MODIFIER:0 "Number of already learned [languages|E]: $VALUE|+0=$"
  
+ SCHEME_TARGET_TRAIT_AMBITIOUS: "[target.GetShortUIName] is [GetTrait('ambitious').GetName( target.Self )]: $VALUE|+0=$"
+ 
  scheme_executes_immediately:0 "The [scheme|E] executes immediately"
 
  OPEN_SCHEMES_TAB:0 "Schemes"

@@ -231,6 +231,7 @@
 
  death_flogged_by_censors: "was flogged for their insobriety"
  death_trampled: "was trampled to death"
+ death_trampled_killer: "was trampled to death on [TARGET_CHARACTER.GetUINamePossessive] orders"
 
  death_lost_in_the_forest:0 "was lost in the forest and never seen again"
  death_cuteness_overload:0 "witnessed the ultimate cuteness and passed on"

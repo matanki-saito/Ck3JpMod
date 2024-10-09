@@ -83,6 +83,7 @@
  HOUSE_UNITY_STAGE_TOOLTIP: "[GUIHouseUnityStage.GetModifierDesc]"
  HOUSE_UNITY_TOOLTIP: "HERE IS A HOUSE UNITY DESC" #placeholder #TODO_CODE: General description for House Unity needed here
  HOUSE_UNITY_EFFECTS_TITLE: "Effects from [house_unity|E]"
+ HOUSE_UNITY_EFFECTS_NOT_APPLIED_TO_YOU: "@alert_icon! Not applied to you since you are not in a [clan|E] government"
  HOUSE_UNITY_DECISIONS_TITLE: "[house_unity|E] Decisions"
  HOUSE_UNITY_RECENT_CHANGES_LABEL: "Recent Unity Changes"
  HOUSE_UNITY_NO_RECENT_CHANGE_LABEL: "#weak There have not been any recent changes#!"

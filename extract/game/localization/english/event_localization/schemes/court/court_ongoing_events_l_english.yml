@@ -13,7 +13,7 @@
  court_ongoing.0501.t:1 "$court_event_title$ Declaration Of Love"
  court_ongoing.0501.desc:0 "The time has come to let my feelings towards [target.GetTitledFirstName] be known. I want [target.GetHerHim] to remember this day for the rest of [target.GetHerHis] life."
  court_ongoing.0501.a:0 "Sing a love ballad."
- court_ongoing.0501.b:0 "Secretly plant a letter in [target.GetHerHis] chambers."
+ court_ongoing.0501.b:0 "Secretly plant a letter in [target.GetHerHis] [target.Custom('GetChambersOrTent')]."
  court_ongoing.0501.c:0 "Write a love poem."
  court_ongoing.0501.d:0 "Impress [target.GetHerHim] by winning a sparring match."
  court_ongoing.0501.x:0 "Go with my gut in the moment."
@@ -24,7 +24,7 @@
  court_ongoing.court_start_song.start.0502.desc:1 "I am walking the gardens with some of the [ROOT.Char.Custom('LadiesLords')] at court when I notice [owner.Custom2('MyCharacterIntroduction', ROOT.Char)] approaching. I step aside to let [owner.GetHerHim] pass, but to my great surprise, [owner.GetSheHe] blocks my path and kneels before me!\n\nBefore I have time to properly process this turn of events, [owner.GetTitledFirstNameNoTooltip] begins to sing.\n\n"
  court_ongoing.court_start_song.bad.0502.desc:0 "To my great dismay, the [owner.GetWomanMan] before me cannot carry a tune to save [owner.GetHerHis] life. It takes a while before I am able to identify the song — it's a famous [target.GetCulture.GetNameNoTooltip] love ballad. [owner.GetSheHe|U] has altered the lyrics to include my name and mentions of my physical appearance, ruining the rhythm even further."
  court_ongoing.court_start_song.good.0502.desc:0 "I quickly recognize the tune — it is a famous [target.GetCulture.GetNameNoTooltip] love ballad. I have heard it performed countless times, but never with such skill and passion!\n\nThe intense emotions of the song are mirrored in [owner.GetFirstNamePossessiveNoTooltip] gaze, which is set on me. [owner.GetSheHe|U] does not look away for a single heartbeat."
- court_ongoing.court_start_sneaky_love_letter.start.0502.desc:0 "As I push aside the sheets to lay down, I find a little scroll resting on my bolster. Someone has entered my chambers unnoticed? A chill runs down my spine as I carefully unroll the thick parchment.\n\n"My [ROOT.Char.Custom('RomanticComplimentAdjective')]"
+ court_ongoing.court_start_sneaky_love_letter.start.0502.desc:0 "As I push aside the sheets to lay down, I find a little scroll resting on my bolster. Someone has entered my [ROOT.Char.Custom('GetChambersOrTent')] unnoticed? A chill runs down my spine as I carefully unroll the thick parchment.\n\n"My [ROOT.Char.Custom('RomanticComplimentAdjective')]"
  court_ongoing.court_start_sneaky_love_letter.compliment.0502.desc:0 "[ROOT.Char.Custom('RomanticComplimentNoun')]!"
  court_ongoing.court_start_sneaky_love_letter.relative.0502.desc:0 "[owner.Custom2('RelationToMeShort', ROOT.Char)]!"
  court_ongoing.court_start_sneaky_love_letter.end.0502.desc:0 "[ROOT.Char.GetLadyLord|U] of my heart! I can keep my feelings secret no longer. From this day on, I will do everything in my power to prove my loyal affections."\n\n"We will see each other soon. Until then, dream of me, my love. Eternally yours, [owner.GetTitledFirstName].""
@@ -43,7 +43,7 @@
  #START EVENT: For Owner (target's reaction)
  court_ongoing.court_start_song.intro.0503.desc:1 "I have found a classic [target.GetCulture.GetNameNoTooltip] love ballad which suits [target.GetFirstName] perfectly! I practice it over and over — everything must be perfect!\n\nI find my [target.Custom('LoverPetName')] walking in the [target_location.GetNameNoTooltip] gardens, surrounded by [target.GetHerHis] friends. With my heart beating like a hammer, I kneel before [target.GetHerHim] and sing."
  court_ongoing.court_start_song.success.0503.desc:1 "\n\n[target.GetFirstNamePossessiveNoTooltip] cheeks turn a deep pomegranate red, but [target.GetSheHe] does not interrupt me. [target.GetHerHis|U] companions all look pleased, or jealous — surely a good sign!\n\n"You have a beautiful voice, my [ROOT.Char.GetLadyLord]," [target.GetFirstNameNoTooltip] says before [target.GetSheHe] hurries off. [target.GetHerHis|U] friends are quick to follow. I stand up on shaking legs, watching them disappear between the hedges, my heart beating harder than ever."
- court_ongoing.court_start_sneaky_love_letter.intro.0503.desc:0 "My declaration of love is for [target.GetTitledFirstNamePossessive] eyes only. No one else matters! I pour my heart out, page after page, my feelings growing as I finally put them into words. The ink has barely dried as I set out for [target.GetFirstNamePossessive] chambers.\n\nI gently place the scroll on [target.GetHerHis] bolster. Will [target.GetSheHe] lay here tonight, dreaming of me?"
+ court_ongoing.court_start_sneaky_love_letter.intro.0503.desc:0 "My declaration of love is for [target.GetTitledFirstNamePossessive] eyes only. No one else matters! I pour my heart out, page after page, my feelings growing as I finally put them into words. The ink has barely dried as I set out for [target.GetFirstNamePossessive] [target.Custom('GetChambersOrTent')].\n\nI gently place the scroll on [target.GetHerHis] bolster. Will [target.GetSheHe] lay here tonight, dreaming of me?"
  court_ongoing.court_start_sneaky_love_letter.success.0503.desc:1 "\n\nThe waiting is unbearable. The thought of rejection makes me sick to my stomach! When [target.GetHerHis] reply arrives, I tear the seal with shaking hands.\n\n"While I cannot encourage you, [owner.Custom2('RelationToMeAddress', ROOT.Char)], I am most grateful for your kind words. Yours faithfully, [target.GetFirstNameNoTooltip].""
  court_ongoing.court_start_poem_love_letter.intro.0503.desc:0 "The candle is burning low when I finally finish my poem. Before I send it, I give it one last read.\n\n"[owner.Custom2('love_letter', SCOPE.sC('target'))]""
  court_ongoing.court_start_sparring.same_locaton_intro.0503.desc:0 "I recruit one of my most senior soldiers and practice with [sparring_soldier.GetHerHim] for three days straight. Once [sparring_soldier.GetSheHe] deems me ready, we head together to the main courtyard.\n\nAs we begin to spar, a crowd gathers, and their cheers soon draw none other than the [target.Custom('RomanticComplimentAdjective')] [target.GetTitledFirstName].\n\nThe soldier fights valiantly, but I disarm [sparring_soldier.GetHerHim] with a final, flawless thrust. I kneel before [target.GetFirstNameNoTooltip] and declare my noble intentions. "I dedicate this victory to you, [target.GetTitledFirstNameNoTooltip]. Bringing you honor is my only desire!"\n\n"
@@ -308,7 +308,7 @@
  #EXTREME REQUEST — SLEEP, by Linnéa Thimrén
  court_ongoing.1211.t:1 "$court_event_title$ The Request"
  court_ongoing.1211.desc_opening:0 ""[target.GetLadyLord|U] [target.GetFirstName], let me prove my devotion to you in any way you deem fit!"\n\n[target.GetFirstNameNoTooltip] ponders the request for a while before [target.GetHerHis] face lights up."
- court_ongoing.1211.desc:0 ""I have been plagued by nightmares lately. If you are truly devoted to me you will stand guard outside my chambers and make sure no evil reaches me.""
+ court_ongoing.1211.desc:0 ""I have been plagued by nightmares lately. If you are truly devoted to me you will stand guard outside my [target.Custom('GetChambersOrTent')] and make sure no evil reaches me.""
  court_ongoing.1211.a:0 "You will sleep undisturbed!"
  court_ongoing.1211.a.success:0 "You manage to stay awake"
  court_ongoing.1211.a.failure:0 "The lure of sleep claims you"
@@ -318,15 +318,15 @@
  court_ongoing.1211.b.failure:0 "[target.GetSheHe|U] notices the deception"
  court_ongoing.1211.c:0 "I will not do it."
 
- court_ongoing.1212.desc:0 "As the sun rises after yet another night of good sleep I can do nothing but thank [owner.GetTitledFirstName] for standing guard outside of my chambers, keeping my rest calm and undisturbed."
+ court_ongoing.1212.desc:0 "As the sun rises after yet another night of good sleep I can do nothing but thank [owner.GetTitledFirstName] for standing guard outside of my [ROOT.Char.Custom('GetChambersOrTent')], keeping my rest calm and undisturbed."
  court_ongoing.1212.a:0 "My brave guardian!"
 
- court_ongoing.1213.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my chambers I see none other than [owner.GetTitledFirstName], fast asleep on the floor."
+ court_ongoing.1213.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my [ROOT.Char.Custom('GetChambersOrTent')] I see none other than [owner.GetTitledFirstName], fast asleep on the floor."
  court_ongoing.1213.a:0 "My brave guardian..."
 
  court_ongoing.1214.desc:0 "\n\nI even peeked out the door a couple of times to find [owner.GetHerHim] standing stiffly upright, never so much as swaying."
 
- court_ongoing.1215.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my chambers I see the empty cloak of [owner.GetTitledFirstName], a helmet, and a broom tumbled to the ground."
+ court_ongoing.1215.desc:0 "Just as I am drifting of to sleep, in the middle of the darkest night, I suddenly hear a loud #EMP thump#!! Peeking out of my [ROOT.Char.Custom('GetChambersOrTent')] I see the empty cloak of [owner.GetTitledFirstName], a helmet, and a broom tumbled to the ground."
  court_ongoing.1215.a:0 "[owner.GetSheHe|U] meant to trick me!"
 
  #EXTREME REQUEST — FOOD, by Linnéa Thimrén

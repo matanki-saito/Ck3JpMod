@@ -336,7 +336,7 @@
  action_mega_duke_penalty_click:0 ""
  action_in_debt:0 "In Debt"
  action_in_debt_label:2 "@debt_icon! You are in Debt"
- action_in_debt_desc:6 "You have less than 0 [gold|E] and are therefore in [debt|E]!\n\nBeing in Debt has the following effects:\n$BULLET_WITH_TAB$Cannot Declare [war|E]\n$BULLET_WITH_TAB$Cannot reinforce [men_at_arms|E] that require [gold|E]\n$BULLET_WITH_TAB$[county_corruption|E] spreads in your [domain|E]\n$BULLET_WITH_TAB$[vassals|E] are more likely to join [factions|E]\n\nThe deeper in Debt that you are, the harsher the penalties you face will be. Your current level of Debt has the following additional effects:\n\n[GetPlayer.GetDebtModifierDescription]\n\n#help If you are not earning Gold each month, consider reducing your expenses, for example by:\n$BULLET_WITH_TAB$Disbanding your [armies|E]\n$BULLET_WITH_TAB$Reducing the Size of — or destroying — your [men_at_arms|E]\n$BULLET_WITH_TAB$Increasing [control|E] using your [marshal|E]\n$BULLET_WITH_TAB$Revoking [court_positions|E]#!"
+ action_in_debt_desc:6 "You have less than [gold_i|E]#V 0#! [gold|E] and are therefore in [debt|E]!\n\nBeing in Debt has the following effects:\n$BULLET_WITH_TAB$Cannot Declare [war|E]\n$BULLET_WITH_TAB$Cannot reinforce [men_at_arms|E] that require [gold_i|E][gold|E]\n$BULLET_WITH_TAB$[county_corruption|E] spreads in your [domain|E]\n$BULLET_WITH_TAB$[vassals|E] are more likely to join [factions|E]\n\nThe deeper in Debt that you are, the harsher the penalties you face will be. Your current level of Debt has the following additional effects:\n\n[GetPlayer.GetDebtModifierDescription]\n\n#help If you are not earning Gold each month, consider reducing your expenses, for example by:\n$BULLET_WITH_TAB$Disbanding your [armies|E]\n$BULLET_WITH_TAB$Reducing the Size of — or destroying — your [men_at_arms|E]\n$BULLET_WITH_TAB$Increasing [control|E] using your [marshal|E]\n$BULLET_WITH_TAB$Revoking [court_positions|E]#!"
  action_in_debt_click:0 ""
 
  action_send_child_to_university:1 "@child_icon! Send Child to University"
@@ -606,6 +606,7 @@
  IS_ARMY_IN_SIEGE_RELEVANT_FOR_TRIGGER:0 "[CHARACTER.GetShortUIName|U] is in a sieging army in a war relevant for [TARGET_CHARACTER.GetShortUIName|U]"
  RAID_LOOT_TRIGGER:0 "[raid_loot|E] is: $COMPARATOR$ $NUM|V0$"
  IS_OCCUPIED_TRIGGER: "Holding is [occupied|E]"
+ ARMY_SUPPLY_TRIGGER: "[supply|E] is: $COMPARATOR$ $NUM|V0$"
 
  action_has_unopened_court_event:2 "Court Event Available"
  action_has_unopened_court_event_label:2 "You have a new Court Event"
@@ -984,3 +985,7 @@
  action_ep3_laamp_contract_travel_desc: "You may [travel|E] with your [camp|E] to find new [task_contracts|E] if opportunities have dried up in your region or you seek more exciting employment.\n\n#help Ensure you Travel a fair distance from your original camp site to find new Contracts, at least two [de_jure|E] [duchies|E] away is a good rule-of-thumb.#!"
  action_ep3_laamp_contract_travel_click: "#I Click to view a suggested Camp Travel#!"
 
+ action_in_debt_landless: "$action_in_debt$"
+ action_in_debt_landless_label: "$action_in_debt_label$"
+ action_in_debt_landless_desc: "You have less than [gold_i|E]#V 0#! [gold|E] and are therefore in [debt|E]!\n\nBeing in Debt has the following effects:\n$BULLET_WITH_TAB$Cannot Declare [war|E]\n$BULLET_WITH_TAB$Cannot reinforce [men_at_arms|E] using [gold_i|E][gold|E]\n\nThe deeper in Debt that you are, the harsher the penalties you face will be. Your current level of Debt has the following additional effects:\n\n[GetPlayer.GetDebtModifierDescription]\n\n#help Consider taking a [task_contract|E] to earn some gold#!"
+ action_in_debt_landless_click: "$action_in_debt_click$"

@@ -69,6 +69,7 @@
  make_friend_interaction:0 "Make #p Friend#!"
  check_for_court_owner_interaction:0 "Check for Court Owner"
  learn_secrets_interaction:0 "Learn Secrets"
+ make_dynasty_house_head_interaction: "Make House Head"
  take_title_interaction:0 "Take Title"
  take_title_and_vassals_interaction:1 "Take Title with its Vassals"
  take_landless_title_interaction: "Take Landless Title"

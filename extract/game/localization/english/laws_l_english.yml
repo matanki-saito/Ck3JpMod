@@ -32,6 +32,7 @@
  I_LACK_LAW_ALLOWING_VASSAL_RETRACTION_ADMIN: "You do not have [GetLaw('imperial_bureaucracy_1').GetName] [imperial_bureaucracy|E] or better"
  I_LACK_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:2 "You do not have High [crown_authority|E]"
  I_LACK_TRIBAL_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:0 "You do not have [GetLaw('tribal_authority_1').GetName] [tribal_authority|E]"
+ I_LACK_ADMIN_LAW_ALLOWING_SUCCESSION_LAW_CHANGE: "You do not have [GetLaw('imperial_bureaucracy_2').GetName] [imperial_bureaucracy|E] or better"
  I_LACK_LAW_ALLOWING_PARTITION_SUCCESSION_LAW_CHANGE:1 "You do not have [GetLaw('crown_authority_2').GetName] [crown_authority|E]"
  I_LACK_LAW_ALLOWING_DESIGNATE_HEIR:0 "You do not have [GetLaw('crown_authority_3').GetName] [crown_authority|E]"
  MY_DYNASTY_MEMBER_LEADS_THE_ELECTION:1 "A member of your [dynasty|E] ([CHARACTER.GetPrimaryTitle.GetHeir.GetShortUIName|V]) is leading the election for your [primary_title|E]"

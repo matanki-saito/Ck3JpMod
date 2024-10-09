@@ -126,7 +126,7 @@
  bp2_yearly.5103.a: ""You can't stop me! I will #EMP rule#! soon enough!""
  bp2_yearly.5103.b: "Time to make a break for it!"
  bp2_yearly.5103.b.success: "You manage to make an escape, treat in hand"
- bp2_yearly.5103.b.failure: "Your [parent.GetMotherFather] catches and beats you"
+ bp2_yearly.5103.b.failure: "Your [child.Custom2('RelationToMeShort', parent)] catches and beats you"
  bp2_yearly.5103.c: ""I'm sorry. I won't do it again.""
 
  bp2_yearly.5104.t: "The Lonely Child"

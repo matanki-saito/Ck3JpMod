@@ -35,3 +35,9 @@
  NOT_has_province_owner_third:0 "There is #bold not#! a [holding|E] in [PROVINCE.GetBaronyNameExplicitly]"
  has_province_owner_global:0 "There is a [holding|E]"
  NOT_has_province_owner_global:0 "There is #bold not#! a [holding|E]"
+
+ is_leased_out_GLOBAL: "[TITLE.GetName] is leased out"
+ is_leased_out_GLOBAL_NOT: "[TITLE.GetName] is #bold not#! leased out"
+ any_county_province_GLOBAL: "Any [barony|E] in [TITLE.GetName]:"
+ is_holy_site_of_GLOBAL: "[TITLE.GetName] is a [holy_site|E] of [FAITH.GetName]"
+ is_holy_site_of_GLOBAL_NOT: "[TITLE.GetName] is #bold not#! a [holy_site|E] of [FAITH.GetName]"

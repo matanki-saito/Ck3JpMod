@@ -487,7 +487,7 @@ laamp_base_4041_request: "$laamp_request_boilerplate_learning_scheme$\n$laamp_re
 laamp_base_5001_request: "$laamp_request_boilerplate_prowess_scheme$"
 laamp_base_5011_request: "$laamp_request_boilerplate_prowess_scheme$"
 laamp_base_5021_request: "$laamp_request_boilerplate_prowess_scheme$"
-laamp_base_5031_request: "$laamp_request_boilerplate_prowess_scheme$\n$laamp_request_boilerplate_criminal$"
+laamp_base_5031_request: "This [task_contract|E] requires you to [travel|E] to several [location|E]s, stealing livestock at each via a [prowess|E] challenge. You may also test the higher of [martial|E] or [stewardship|E], or use certain [officers|E] instead.\n$laamp_request_boilerplate_criminal$"
 laamp_base_5041_request: "$laamp_request_boilerplate_prowess_scheme$\n$laamp_request_boilerplate_criminal$"
 laamp_base_5051_request: "$laamp_request_boilerplate_prowess_scheme$, though throughout the $game_concept_scheme$ you will also be given special events to mug wealthy locals for extra [gold|E] outside of the general reward.\n$laamp_request_boilerplate_criminal$"
 laamp_base_6001_request: "$laamp_request_boilerplate_prowess_scheme$"

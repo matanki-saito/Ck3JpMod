@@ -24471,6 +24471,16 @@
  d_laamp_ubbe_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
  d_laamp_enian: "Scattered Lights"
  d_laamp_enian_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+ d_laamp_sevener_caliph: "Followers of Isma'il"
+ d_laamp_sevener_caliph_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+ d_laamp_twelver_caliph: "Rightly Guided Sons"
+ d_laamp_twelver_caliph_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+ d_laamp_qutid: "Regents of Sabta"
+ d_laamp_qutid_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+ d_laamp_kalbid: "Exiled Balermi"
+ d_laamp_kalbid_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+ d_laamp_du_leon: "Old House"
+ d_laamp_du_leon_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
 
  #Special
 

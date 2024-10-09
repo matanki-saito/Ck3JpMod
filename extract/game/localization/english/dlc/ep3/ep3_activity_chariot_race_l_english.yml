@@ -4,7 +4,7 @@
  activity_chariot_race_desc: "As the [GetPlayer.GetTitleAsNameNoTooltip], I alone may hold spectacular chariot races to thrill the [Glossary( 'hoi polloi', 'HOI_POLLOI_GLOSS')] and draw the notables of the [GetPlayer.GetPrimaryTitle.GetTierAsNameNoTooltip|l] to the capital.\n\nThrough these public occasions, the people come to know me as their master; in the roar of the crowd, I may hope to hear acclaim."
  activity_chariot_race_destination_selection: "You can only host Chariot Races in your [capital|E]."
  activity_chariot_race_host_desc: "$BULLET_WITH_TAB$ May gain @influence_icon![influence|E]\n$BULLET_WITH_TAB$ May gain @legitimacy_icon![legitimacy|E]\n$BULLET_WITH_TAB$ May gain @gold_icon![gold|E]\n$BULLET_WITH_TAB$ May gain #N #EMP or lose#!#! [county_opinion|E]"
- activity_chariot_race_guest_desc: "\n#weak While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E]."
+ activity_chariot_race_guest_desc: "\n#weak While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E].\n\nA small admittance fee of [gold_i][EmptyScope.ScriptValue('chariot_race_entrance_fee')|0] is required  of all guests."
  activity_chariot_race_conclusion_desc: "The [GetActivityType( 'activity_chariot_race' ).GetName] has concluded."
  activity_chariot_race_selection_tooltip: "Hold grandiose chariot races to please the public and cement your position as [GetPlayer.GetTitleAsNameNoTooltip]\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$@influence_icon![influence|E]\n$BULLET_WITH_TAB$@gold_icon![gold|E]"
  HOI_POLLOI_GLOSS: "Literally meaning "the many," this Ancient Greek term refers to the lower classes within Byzantine society"
@@ -22,7 +22,7 @@
  chariot_race_honorary_guest_regular_desc: "$honorary_guest_desc$"
  chariot_race_honorary_guest_regular_desc_for_host: "$honorary_guest_desc$"
  activity_invite_rule_charioteers: "Charioteers"
- activity_chariot_race_guest_help_text: "While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E]."
+ activity_chariot_race_guest_help_text: "While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E].\n\nA small admittance fee of [gold_i][EmptyScope.ScriptValue('chariot_race_entrance_fee')|0] is required  of all guests."
 
 
  chariot_race_gambling: "Placing Bets"
@@ -387,7 +387,7 @@ chariot_race.4020.desc_provincial_estate: ""In truth," [notable.GetSheHe] says, 
 
  noble_administrators_modifier: "Highborn Administrators"
  noble_administrators_modifier_desc: "Influential nobles have come out to this character's capital, now staffing vital roles in their bureaucracy."
- 5_percent_governor_efficiency_tooltip: "#positive_value +5%#! [governor_efficiency|E]"
+ 5_percent_governor_efficiency_tooltip: "[governor_efficiency|E]: @governor_efficiency!#positive_value +5%#!"
 
  chariot_race.4020.c: "I'll outfit a fine country home for you."
  chariot_race.4020.c.flavor: "[notable.GetTitledFirstNameNoTooltip] need not reside there full-time... but he #EMP must#! honor such an act of generosity."
@@ -627,9 +627,11 @@ attendee_hurled_off_stands_fail_log: "[TARGET_CHARACTER.GetShortUIName|U] narrow
  charioteer_gained_trait_xp_key_title: "$charioteer_trait_xp_gain_message$"
 
  hire_charioteer_decision: "Search for a Charioteer"
+ hire_charioteer_decision_desc: "[GetCourtPositionType('charioteer_court_position').GetDescription|U]"
  hire_charioteer_decision_tooltip: "Your servants will suggest a number of suitable candidates for the position of [GetCourtPositionType('charioteer_court_position').GetName()]"
 
  hire_bookmaker_decision: "Search for a Bookmaker"
+ hire_bookmaker_decision_desc: "[GetCourtPositionType('bookmaker_court_position').GetDescription|U]"
  hire_bookmaker_decision_tooltip: "Your servants will suggest a number of suitable candidates for the position of [GetCourtPositionType('bookmaker_court_position').GetName()]"
 
  ### MODIFIERS 

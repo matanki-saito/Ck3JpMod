@@ -9,3 +9,5 @@
  CANT_COMMAND_REASON_IN_ACTIVITY:0 " -Is busy with an activity"
  CANT_COMMAND_REASON_NOT_POTENTIAL:0 " -Does not take orders from the Army owner"
  CANT_COMMAND_REASON_AT_WAR:0 " -At war against [TARGET_CHARACTER.GetUIName]"
+ CANT_COMMAND_REASON_BEING_RAISED: " -Is being raised as a [CHARACTER.Custom( 'KnightCulture' )]"
+ CANT_COMMAND_REASON_WOULD_DESTROY_ARMY: " -Removing [CHARACTER.GetUIName] from [CHARACTER.GetKnightArmy.GetName|^V] would disband it"

@@ -4,6 +4,7 @@
  RULER_DESIGNER_REGENERATE_PORTRAIT:3 "Randomize Appearance"
  RULER_DESIGNER_OPEN:1 "Create your own Ruler"
  RULER_DESIGNER_OPEN_TT: "#T Create Ruler#!\nCreates a [ruler|e] to replace the selected character."
+ RULER_DESIGNER_LANDLESS_TO_RULER: "@warning_icon! #X Cannot create [rulers|E] from [adventurers|E]#!"
  RULER_DESIGNER_OPEN_LANDLESS: "Create your own Adventurer"
  RULER_DESIGNER_OPEN_LANDLESS_TT: "#T Create Adventurer#!\nCreates a landless adventurer within the selected character's capital province."
  RULER_DESIGNER_CAMP_LOCATION: "#low Camp Location:#! [LobbyView.GetSelectedPlayable.GetCharacter.GetCapitalLocation.GetNameNoTooltip]"

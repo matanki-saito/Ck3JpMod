@@ -9,6 +9,7 @@
  HAS_DYNASTY_MODIFIER:1 "The [DYNASTY.GetBaseName] [dynasty|E] has the $MODIFIER|V$ modifier"
 
  HAS_HOUSE_MODIFIER:0 "The [house|E] [DYNASTY_HOUSE.GetName] has the $MODIFIER|V$ modifier"
+ NOT_HAS_HOUSE_MODIFIER: "The [house|E] [DYNASTY_HOUSE.GetName] does #bold not#! have the $MODIFIER|V$ modifier"
  ADULT_HOUSE_MEMBERS_AT_LEAST:0 "At least $PERCENT|%$ of adult [house|E] members:"
  ADULT_HOUSE_MEMBERS_COUNT_AT_LEAST:0 "At least $COUNT$ adult [house|E] members:"
 

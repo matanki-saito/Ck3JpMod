@@ -78,8 +78,8 @@
  murder_save.0008.t:1 "$murder_save_header$ Furry Guardian"
  murder_save.0008.desc:1 "My attempt on [target.GetTitledFirstNamePossessive] life has been thwarted!\n\nThe assassin made [dummy_assassin_gender.GetHerHis] way to the [target.GetTitleTierNamePossessive] chambers, but before [dummy_assassin_gender.GetSheHe] could strike a dog started barking! The [target.GetTitleTierNamePossessive] dog, that [target.GetSheHe] is so damn proud of, quickly scared the assassin off."
 
- murder_save.1008.desc:0 "As soon I enter my chambers my dear dog, [THIS.Char.Custom('DogStoryName')], starts barking, and suddenly [THIS.Char.Custom('DogStorySheHe')] lunges for a dark shadow... A shadow that stumbles! [THIS.Char.Custom('DogStoryName')] chases the would be assassin until I call [THIS.Char.Custom('DogStoryHerHim')] back to my side."
- murder_save.1008.a:0 "I owe you my life, [THIS.Char.Custom('DogStoryName')]!"
+ murder_save.1008.desc:0 "As soon I enter my chambers my dear dog, [ROOT.Char.Custom('DogStoryName')], starts barking, and suddenly [ROOT.Char.Custom('DogStorySheHe')] lunges for a dark shadow... A shadow that stumbles! [ROOT.Char.Custom('DogStoryName')] chases the would be assassin until I call [ROOT.Char.Custom('DogStoryHerHim')] back to my side."
+ murder_save.1008.a:0 "I owe you my life, [ROOT.Char.Custom('DogStoryName')]!"
 
  murder_save.0009.t:1 "$murder_save_header$ Family Connections"
  murder_save.0009.desc:0 "In the very last moments of my scheme to murder [target.GetTitledFirstName], everything has fallen apart!\n\nIt seems my efforts had been completely infiltrated by supporters of the [target.GetDynasty.GetBaseName] Dynasty, and on the fateful night, everyone else were stopped before the plot was even put into motion!"

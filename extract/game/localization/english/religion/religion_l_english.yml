@@ -1076,4 +1076,4 @@
  doctrine_parameter_unlock_voluntary_laampdom_faith: "[SelectLocalization( HasDlcFeature( 'landless_playable' ), 'doctrine_parameter_unlock_voluntary_laampdom_faith_DLC', 'doctrine_parameter_unlock_voluntary_laampdom_faith_NO_DLC' )]"
  doctrine_parameter_unlock_voluntary_laampdom_faith_DLC: "$culture_parameter_unlock_voluntary_laampdom_DLC$"
  doctrine_parameter_unlock_voluntary_laampdom_faith_NO_DLC: "$culture_parameter_unlock_voluntary_laampdom_NO_DLC$"
- unlock_voluntary_laampdom_faith_name: "[GetFaithDoctrine('tenet_struggle_submission').GetBaseName] or [GetFaithDoctrine('tenet_fp3_fedayeen').GetBaseName]"
+ unlock_voluntary_laampdom_faith_name: "[GetFaithDoctrine('tenet_struggle_submission').GetBaseName], [GetFaithDoctrine('tenet_fp3_fedayeen').GetBaseName], [GetFaithDoctrine('tenet_mendicant_preachers').GetBaseName], [GetFaithDoctrine('tenet_vows_of_poverty').GetBaseName], or [GetFaithDoctrine('tenet_asceticism').GetBaseName]"
