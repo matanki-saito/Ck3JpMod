@@ -12,4 +12,4 @@
  RP_NOTHING_TO_RAISE:0 "#X 召集できる[armies|E]がありません#!"
  RAISE_TROOPS_EXTRA_INFO:0 "#I Ctrl+クリックで[armies|E]の[Concept( 'supply_limit', '供給限界')|E]に基づく分割を#bold 行わない#!#!"
  RP_NOTHING_TO_RAISE_MAA:0 "#X 召集できる[men_at_arms|E]はありません#!"
- RP_CANNOT_ADD_LANDLESS: "#X Landless characters cannot add [rally_points|E]#!"
+ RP_CANNOT_ADD_LANDLESS: "#X 土地なしの人物は[rally_points|E]を追加することができません#!"

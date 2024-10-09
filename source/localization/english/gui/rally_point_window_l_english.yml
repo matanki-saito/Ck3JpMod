@@ -25,4 +25,4 @@
  RP_RAISE_MEN_AT_ARMS:0 "全常備軍をここへ召集"
  RP_NO_RAISABLE_TROOPS_MEN_AT_ARMS:0 "#X 利用可能な未召集の常備軍はありません#!"
  RP_RAISE_MEN_AT_ARMS_TOOLTIP_HEADER:0 "#T $RP_RAISE$#!\n全[men_at_arms|E]をここへ召集します。#!"
- RP_CANNOT_MOVE_RALLY_POINT: "#X Landless characters cannot move their [rally_point|E]#!"
+ RP_CANNOT_MOVE_RALLY_POINT: "#X 土地なしの人物は[rally_point|E]を移動させることができません#!"

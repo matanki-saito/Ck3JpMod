@@ -49,7 +49,7 @@
  ep3_governor_yearly.8050.c: "...and is #EMP doomed#! without more resources."
  ep3_governor_yearly.8050.d: "Everything is in hand."
  ep3_governor_yearly.8060.t: "Tempting Coffers"
- ep3_governor_yearly.8060.desc: "As the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], the bureaucratic apparatus of the [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] is at my sole disposal — even the unassuming treasury in the heart of [ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip].\n\nPetty functionaries frequent the place at all hours, swapping imperial gold for receipts and carting it off to pay garrisons, repair buildings, feed the poor... [ROOT.Char.GetFaith.HighGodName] knows what.\n\nAs the #EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!, #EMP my#! needs and the [ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip] are really one and the same... aren't they?"
+ ep3_governor_yearly.8060.desc: "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の[ROOT.Char.GetTitleAsNameNoTooltip]として[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]の官僚組織は私の思うがままだ。 [ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]の中心にある控えめな財務局も例外ではない。\n\n木っ端役人どもが四六時中この場所を訪れ、領収書を帝国の金と交換してそれらを兵への支払い、設備の修理、貧しき者への施しへと持ち去って行く…[ROOT.Char.GetFaith.HighGodName]はそのことを知っている。\n\n#EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!としての#EMP 私#!のニーズと[ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip]のそれは実質的には同じものだ…そうは思わないか？"
  ep3_governor_yearly.8060.a: "No one will notice some extra requisitions."
  ep3_governor_yearly.8060.b: "Bad numbers, rounding errors, these things happen..."
  ep3_governor_yearly.8060.c: "And thus [ROOT.Char.GetPrimaryTitle.GetNameNoTierPossessiveNoTooltip] needs are #EMP mine#! to share."

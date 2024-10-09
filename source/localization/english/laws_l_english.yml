@@ -76,3 +76,4 @@
  IMPERIAL_BUREAUCRACY_IS_ON_COOLDOWN: "あなたは最近[imperial_bureaucracy|E]を変更しました。再び変更できるのは[GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'imperial_bureaucracy_cooldown') )]以降です"
  imperial_bureaucracy_pending_law_change: "#alert_trial あなたの[liege|E]は最近この[law|E]を採用しました。あなたも自動的に採用することになります#!"
  admin_all_vassal_wars_banned: "あなたの[liege|E]の[laws|E]により、[war|E]を宣言することができません"
+ I_LACK_ADMIN_LAW_ALLOWING_SUCCESSION_LAW_CHANGE: "You do not have [GetLaw('imperial_bureaucracy_2').GetName] [imperial_bureaucracy|E] or better"

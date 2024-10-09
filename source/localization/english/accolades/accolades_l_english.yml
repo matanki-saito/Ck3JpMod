@@ -46,7 +46,6 @@
  ACCOLADE_APPOINT:0 "任命"
  ACCOLADE_PRIMARY_TYPE:0 "主要な[accolade_type|E]"
  ACCOLADE_SECONDARY_TYPE:0 "副次的な[accolade_type|E]"
- ACCOLADE_ACTIVE_EFFECTS:1 "#S 有効な効果#!"
  ACCOLADE_SUCCESSOR_REQUIREMENTS:0 "後継者の資格"
  LOCKED_ACCOLADE_SLOT:1 "#T 利用出来ない叙勲#!\n[innovations|E]や[dynasty_perks|E]、より高位の[title_tiers|E]によって解禁されます"
  ACCOLADE_SET_ACCLAIMED_KNIGHT:0 "[Accolade.GetNameNoTooltip]の[acclaimed_knight|E]として[Character.GetShortUINameNoTooltip]を認定します\nこれは僅かに[glory|e]を消費します"
@@ -562,3 +561,5 @@
  accolade_maa_horse_archers_only_available_on_primary:0 "#color_red 利用不可: [GetMaA('accolade_maa_horse_archers').GetName]（主要な[accolade_type|E]の選択が必要です）#!"
  ACCOLADE_NO_SUCCESSOR_FOUND: "宮廷内に相応しい後継者がいません。"
  ACCOLADE_SUCCESSOR_REQUIREMENT_HEADER: "[accolade_type|E]：[ACCOLADE.GetPrimaryType.GetName]"
+ ACCOLADE_ACTIVE_EFFECTS_PRIMARY: "#TS Active Effects if Primary:#!"
+ ACCOLADE_ACTIVE_EFFECTS_SECONDARY: "#TS Active Effects if Secondary:#!"

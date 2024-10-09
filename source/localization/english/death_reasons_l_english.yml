@@ -366,3 +366,4 @@
  death_killed_by_monstrous_crocodile: "巨大なワニに腹を喰い破られた"
  death_slain_in_riot: "暴動のさなかに虐殺された"
  death_slain_in_riot_killer: "[TARGET_CHARACTER.GetUIName]により$death_slain_in_riot$が発生した"
+ death_trampled_killer: "was trampled to death on [TARGET_CHARACTER.GetUINamePossessive] orders"

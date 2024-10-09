@@ -128,3 +128,4 @@
  praetorian_guard_perk_adventurer_name: "野営地の守り人"
  true_ruler_perk_adventurer_name: "私をご存知でない？"
  writing_history_perk_adventurer_name: "真面目一徹"
+ attempt_conversion_of_local_ruler_interaction_extra_icon: "$hook_extra_icon$"

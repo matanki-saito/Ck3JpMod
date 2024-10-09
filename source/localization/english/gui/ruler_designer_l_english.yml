@@ -339,3 +339,4 @@
  RULER_DESIGNER_GROUP_nose: "Nose"
  RULER_DESIGNER_GROUP_mouth: "Mouth"
  RULER_DESIGNER_GROUP_ears: "Ears"
+ RULER_DESIGNER_LANDLESS_TO_RULER: "@warning_icon! #X Cannot create [rulers|E] from [adventurers|E]#!"

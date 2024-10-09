@@ -5,7 +5,7 @@
  OUTLINER_PINNED_CHARACTERS:0 "ピン留めされたキャラクター"
  OUTLINER_PLAYERS:0 "プレイヤー"
  OUTLINER_PLAYER_ITEM:0 "[OutlinerPlayer.GetName] - [SelectLocalization(OutlinerPlayer.GetCharacter.IsValid, OutlinerPlayer.GetCharacter.GetName, 'JOMINI_MULTIPLAYER_GUI_OBSERVER')]"
- OUTLINER_JOIN_PROGRESS: "Joining... $PROGRESS|0%$"
+ OUTLINER_JOIN_PROGRESS: "参加の進捗: $PROGRESS|0%$"
  OUTLINER_CHARACTER_NAME:0 "[CHARACTER.GetName]"
  OUTLINER_SCHEMES:1 "計画"
  OUTLINER_ARMIES:1 "軍隊"
@@ -20,3 +20,4 @@
  OUTLINER_PINNED_CHARACTER:0 "[Character.GetShortUINameNotMeNoTooltip]#medium 、[Character.GetAge]歳#!"
  OUTLINER_SPONSORED_INSPIRATIONS:0 "後援されたひらめき"
  OUTLINER_NO_SPONSORED_INSPIRATIONS:0 "後援されたひらめきはありません"
+ OUTLINER_DOMICILE: "[DomicileType.GetNameNoTooltip]"

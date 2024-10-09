@@ -19,3 +19,4 @@
  NOT_is_dominant_family: "[DYNASTY_HOUSE.GetName]は支配的な一門#bold ではない#!"
  house_power: "[DYNASTY_HOUSE.GetName]の有力度は$COMPARATOR$$NUM|0V$である"
  house_land_share_in_realm_greater_than: "[DYNASTY_HOUSE.GetName]は[TARGET_CHARACTER.GetPrimaryTitle.GetName]の伯爵領を少なくとも$NUM|%0V$支配している"
+ NOT_HAS_HOUSE_MODIFIER: "The [house|E] [DYNASTY_HOUSE.GetName] does #bold not#! have the $MODIFIER|V$ modifier"

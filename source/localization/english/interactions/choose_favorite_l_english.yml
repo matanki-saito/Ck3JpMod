@@ -4,7 +4,7 @@
  choose_favorite_interaction_notification: "寵愛を与える"
  choose_favorite_interaction_notification.tt: "他の全ての[children|E]の[opinion|E]が#N 失われる#!"
  remove_favorite_interaction: "お気に入りの子から外す"
- remove_favorite_interaction_desc: "Remove character as pre-select showcased among your potential next playable characters."
+ remove_favorite_interaction_desc: "この人物を、次のプレイする人物の候補から外す"
  remove_favorite_interaction_notification: "もはや寵愛を与えられていない"
  remove_favorite_interaction_notification.tt: "他の全ての[children|E]からの[opinion|E]が#P 上がる#!"
  not_baron_holy_order_merc_tt: "#X [baron|E]、[mercenary|E]、[holy_order|E]のいずれかであってはならない#!"

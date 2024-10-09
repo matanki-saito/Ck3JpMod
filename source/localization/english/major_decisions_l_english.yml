@@ -2,7 +2,7 @@
  major_decisions.1001.t:0 "神の肉"
  major_decisions.1001.desc:0 "\"We were put upon this earth to serve our fellow man,\" [court_chaplain.GetCouncilTitle] [court_chaplain.GetNamePossessive] voice rings out over the dining hall."
  major_decisions.1001.a:0 "手を貸して、もっと[ROOT.Char.Custom('RegionalDrink')]をくれ！"
- major_decisions.1002.t: "Macabre Feast"
+ major_decisions.1002.t: "死神の饗宴"
  major_decisions.1002.desc:0 "耳にしていることが信じられない: [cannibal.GetName]の中庭の至る所で——[cannibal.GetHerHis][court_chaplain.GetCouncilTitle]さえも——が食人嗜好になってしまったのだ！\n\n通りは血で赤く染まり、[cannibal.GetHerHis]の地獄のような集団の饗宴が繰り広げられている。"
  major_decisions.1002.desc_cannibal:0 "[cannibal.GetName] has convinced [cannibal.GetHerHis] [court_chaplain.GetCouncilTitle] to publicly embrace cannibalism.\n\nI am delighted to know that the taste for flesh is spreading further than ever!"
  major_decisions.1002.a:0 "[ROOT.Char.GetHerHim]との食事が待ち遠しい！"

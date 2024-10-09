@@ -315,3 +315,5 @@
  FACTION_REASON_ADMIN_CLAIMANT_CO_EMPEROR: "[claimant|E] is [co_emperor|E]: $FACTOR|0%+=$"
  FACTION_REASON_ADMIN_CLAIMANT_JUNIOR_EMPEROR: "[claimant|E] is [junior_emperor|E]: $FACTOR|0%+=$"
  FACTION_REASON_CLAIMANT_PRIMARY_HEIR: "[claimant|E] is my [heir|E]: $VALUE|+0=$"
+ populist_faction_short_effect_desc_admin: "Wants the [state_faith|E] to match their own"
+ FACTION_DEMAND_POPULIST_REFUSE_ADMIN: "Such changes are not yours to make, insolent [peasant_leader.Custom('InsultNoun')]!"

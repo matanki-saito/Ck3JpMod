@@ -213,7 +213,7 @@
  murder_outcome.5001.hired_assassin:0 "I wake in the middle of the night to see a dark figure in my chambers. I know not what has happened to my guards, but when I see the glint of moonlight reflecting off the blade, I know that it is too late for me.\n\nA sufficiently sharp dagger makes little sound as it pierces flesh, and through the rush of agonizing pain I cannot tell if my screams are any more audible."
  murder_outcome.5001.creepy_crawly_intro:0 "The moment I feel something brush against my leg, I can't help shuddering and tossing away my covers, but the swift movement only agitates the unwelcome guest further."
  murder_outcome.5001.creepy_crawly_known:0 "Even in the faint moonlight I can recognize the shape of a [ROOT.Char.Custom('VenomousCreature')]."
- murder_outcome.5001.creepy_crawly_unknown:0 "Feeling threatened, the [ROOT.Char.Custom('VenomousCreatureType')] moves swiftly, and strikes."
+ murder_outcome.5001.creepy_crawly_unknown:0 "怯えた[ROOT.Char.Custom('VenomousCreatureType')]は素早くとびかかり、毒牙を突き立てた。"
  murder_outcome.5001.creepy_crawly_end:0 "The [ROOT.Char.Custom('VenomousCreatureAttack')] barely stings at first, but soon my whole body is engulfed in searing pain. I try to call for help, but my voice is too weak as my limbs grow numb and my consciousness fades."
  murder_outcome.5001.riled_up_mob:0 "私が[home_province.GetNameNoTier]の通りを馬で駆けていると、怒鳴り声と叫び声を上げる農民の群衆が私の従者に襲いかかってきた。何が起こったかわからない間に、農民たちは私を馬から引き摺り下ろして殴り始める。衛兵の叫び声が聞こえてくるが、彼らが私の元に到着するずっと前に、世界が私の視界から消えていく。"
  murder_outcome.5001.courtier:0 "Some courtiers have brought me into the forest to play, and we've been having so much fun today! However, they went to hide an awful long ago, and I can't find them, and it's getting dark and scary so fast..."

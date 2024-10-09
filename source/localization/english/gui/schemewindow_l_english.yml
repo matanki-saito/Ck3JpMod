@@ -451,3 +451,4 @@
  ai_acceptance_trait_vengeful: "I am [GetTrait('vengeful').GetName( GetNullCharacter )]: $VALUE|+0=$"
  ai_acceptance_trait_forgiving: "I am [GetTrait('forgiving').GetName( GetNullCharacter )]: $VALUE|+0=$"
  ai_acceptance_trait_eccentric: "I am [GetTrait('eccentric').GetName( GetNullCharacter )]: $VALUE|+0=$"
+ SCHEME_TARGET_TRAIT_AMBITIOUS: "[target.GetShortUIName] is [GetTrait('ambitious').GetName( target.Self )]: $VALUE|+0=$"

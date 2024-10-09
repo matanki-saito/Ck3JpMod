@@ -313,7 +313,7 @@
  laamp_treasure_map_contract_contract: "$laamp_treasure_map_contract$"
  laamp_treasure_map_contract_desc_title: "The Treasure of a Lifetime"
  laamp_treasure_map_contract_desc: "The retired treasure-hunter [TaskContract.GetEmployer.GetName] needs help locating one final elusive hoard. This will remain valid as long as you have the treasure map in your possession."
- laamp_treasure_map_contract_request: "This [task_contract|E] requires you to [travel|E] to the treasure's location via the [GetDecisionWithKey('treasure_map_contract_decision').GetName] [decision|E]"
+ laamp_treasure_map_contract_request: "この[task_contract|E]は[GetDecisionWithKey('treasure_map_contract_decision').GetName]の[decision|E]で宝物の場所まで[travel|E]する必要があります"
  overflowing_provisions_to_gold.tt: "#EMP Because this would put you above your [provisions|E] capacity, the additional @provisions_icon![provisions_overflow_value] will be sold on the local market for @gold_icon![provisions_transformed_to_gold_value]#!"
  treasure_map: "Treasure Map"
  treasure_map_desc: "A tattered map, supposedly leading to ancient riches in [newly_created_map.MakeScope.Var('artifact_treasure_location').GetProvince.GetBaronyNameExplicitlyNoTooltip]. Acquired from the town crier in [newly_created_map.MakeScope.Var('picked_up_in_location').GetProvince.GetBaronyNameExplicitlyNoTooltip]."

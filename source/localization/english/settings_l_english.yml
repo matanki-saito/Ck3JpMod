@@ -102,5 +102,5 @@
  SETTING_SHOW_LEGEND_MAP_GRAPHICS_TOOLTIP: "#T $SETTING_SHOW_LEGEND_MAP_GRAPHICS$#!\n地図上に伝説の効果を表示するかどうかを設定します。"
  SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED: "羊皮紙マップ照明"
  SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED_TOOLTIP: "#T $SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED$#!\n羊皮紙マップがマップテーブルから照明と影を受けるかどうかを設定します。(古典的な羊皮紙マップのカラー効果を得るには、これを無効にします)"
- byzantine: "Byzantine"
- map_table_style_ep3: "Byzantine"
+ byzantine: "ビザンツ"
+ map_table_style_ep3: "ビザンツ"

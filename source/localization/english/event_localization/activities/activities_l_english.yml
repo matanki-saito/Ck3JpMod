@@ -259,4 +259,4 @@
  activity_hunt_desc_adventurer: "狩猟は、溢れるほどのスリルと危うさとともに、騎乗術および弓術に関する堅固な基礎知識をもたらします。\n\n[GetGovernment('landless_adventurer_government').GetName]の狩猟で手に入る[prestige_i][prestige|E]は僅かですが、[provisions_i][provisions|E]が手に入ります。狩猟は[GetCourtPositionType('huntperson_camp_officer').GetName()]が監督します。\n\n狩猟を始めるにあたり、[gold_i][gold|E]を支払って狩猟権を購入する機会を得られます。正規の手段を踏まない狩猟は、[GetTrait( 'gallowsbait' ).GetTraitTrackByKey( 'poacher' ).GetName]の[GetTrait('gallowsbait').GetName( GetNullCharacter )][trait_level_track_xp|E]を得ることになります。"
  activity_invite_rule_vassals_and_below: "全臣下"
  activity_chariot_race_province_constantinople: "\n#P +++ コンスタンティノープル#!"
- activity_chariot_race_province_capital: "\n#P ++ It's your Capital#!"
+ activity_chariot_race_province_capital: "\n#P ++あなたの首都である#!"

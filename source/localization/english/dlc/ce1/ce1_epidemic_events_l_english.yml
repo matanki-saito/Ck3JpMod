@@ -507,3 +507,4 @@
  msg_epidemic_infection_desc_1: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]へと広まっている"
  msg_epidemic_infection_desc_2: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly]に広まっている"
  msg_epidemic_infection_desc: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly ]、および$message_consolidation_others$領で広まっている。"
+ all_realm_county_epidemic_scope: "Every [realm|E] [county|E] with [epidemic_scope.GetName]"

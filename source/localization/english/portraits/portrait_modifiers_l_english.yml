@@ -1221,7 +1221,7 @@
  marshal_dagger: "Marshal with Dagger"
  marshal_mace: "Marshal with Mace"
  marshal_shield: "Marshal with Shield"
- incapable: "Incapable"
+ incapable: "無能力"
  interested: "Interested"
  interested_left: "Interested (reversed)"
  stunned: "Stunned"

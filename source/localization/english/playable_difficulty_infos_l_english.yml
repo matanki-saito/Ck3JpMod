@@ -1,5 +1,5 @@
 ﻿l_english:
- PLAYABLE_DIFFICULTY_INFO_SEPARATOR:0 "\n@warning_icon! "
+ PLAYABLE_DIFFICULTY_INFO_SEPARATOR:0 "\n@warning_icon!"
  pdi_at_war:0 "[war|E]中です"
  pdi_no_player_heir:0 "[player_heir|E]がいません"
  pdi_primary_heir_of_wrong_dynasty:0 "[primary_heir|E]が別の[dynasty|E]"

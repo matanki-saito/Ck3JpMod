@@ -133,7 +133,7 @@
  HOLDING_VIEW_PREVIOUS:0 "前の所領"
  HOLDING_VIEW_CONSTRUCT_OR_UPGRADE:0 "[GUITrackItem.GetNextBuilding.GetNameNoTooltip]を[Select_CString(EqualTo_int32(GUITrackItem.GetNextBuilding.GetLevel,'(int32)1'), '建設', 'アップグレード')]"
  HOLDING_VIEW_UPGRADE_TO_NEXT:0 "[GUITrackItem.GetNextBuilding.GetNameNoTooltip]にアップグレード"
- HOLDING_VIEW_IN_PROGRESS:1 "[GUITrackItem.GetNextBuilding.GetNameNoTooltip]を建造中 (完成予定[GUITrackItem.GetConstructionEndDate])"
+ HOLDING_VIEW_IN_PROGRESS:1 "Constructing [GUITrackItem.GetConstructingBuilding.GetNameNoTooltip] (finishing [GUITrackItem.GetConstructionEndDate])"
  HOLDING_TAB_CAPITAL_TOOLTIP:0 "ここが[county_capital|E]です\n"
  HOLDING_TAB_TOOLTIP:0 "#T [GUICountyHolding.GetHolding.GetNameNoTooltip]\n#![SelectLocalization( GUICountyHolding.GetHolding.GetProvince.GetTitle.IsCountyCapital, 'HOLDING_TAB_CAPITAL_TOOLTIP' , '' )|E]#I クリックで選択#!"
  COUNCIL_TASKS:0 "評議会の任務"
@@ -182,3 +182,4 @@
  HOLDING_VIEW_EPIDEMIC_RESISTANCE: "[epidemic_res|E]："
  HOLDING_VIEW_EPIDEMIC_RESISTANCE_VALUE: "@epidemic_icon! [Province.GetEpidemicResistance]"
  HOLDING_TERRAIN_TOTAL_TOOLTIP: "#T [Province.GetTerrain.GetNameNoTooltip]#!\n[Province.GetTerrainTooltipFor(GetPlayer)]"
+ REPLACE_BUILDING_TYPE_TITLE:0 "#T Replacing #V $CURRENT_NAME$#! with #V $REPLACEMENT_NAME$#!#!"

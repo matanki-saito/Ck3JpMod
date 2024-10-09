@@ -13,5 +13,5 @@
  can_start_scheme_trigger:0 "[scheme|E]を開始可能"
  is_scheme_exposed_trigger:0 "[scheme|E]が露見している"
  NOT_WANTS_TO_BE_SOULMATES:1 "[TARGET_CHARACTER.GetShortUIName]が魂の伴侶となることを望んでいない"
- IS_SCHEMING_AGAINST_TRIGGER: "Is [scheming|E] against this character"
- AGENT_SLOT_CONTRIBUTION_TRIGGER: "Agent contribution"
+ IS_SCHEMING_AGAINST_TRIGGER: "この人物に対して[scheming|E]を企てている"
+ AGENT_SLOT_CONTRIBUTION_TRIGGER: "スパイの貢献"

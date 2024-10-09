@@ -110,7 +110,7 @@
  vassal_directive_convert_faith: "[recipient.GetUIName] will focus on using the #V $task_conversion$#! [councillor_task|E]\n#weak ([recipient.GetSheHe|U] is [recipient.GetFaith.GetAdjective])#!"
  vassal_directive_convert_culture: "[recipient.GetUIName] will focus on using the #V $task_promote_culture$#! [councillor_task|E]\n#weak ([recipient.GetSheHe|U] is [recipient.GetCulture.GetName])#!"
  vassal_directive_improve_cultural_acceptance: "[recipient.GetUIName] will focus on using the #V $task_accept_culture$#! [councillor_task|E]\n#weak ([recipient.GetSheHe|U] is [recipient.GetCulture.GetName])#!"
- vassal_directive_building_focus_fortification: "[recipient.GetUIName] will focus on constructing [fortification_buildings|E]\n#weak (Their [economical_archetype|E] will still dictate if they want to build [buildings|E] at all)#!"
+ vassal_directive_building_focus_fortification: "[recipient.GetUIName]は、[fortification_buildings|E]の建設に専心します\n#weak （現地統治者の[economical_archetype|E]は、わずかでも[buildings|E]建設の方向性があれば、今まで通りその方向性を規定し続けます）#!"
  vassal_directive_building_focus_military: "[recipient.GetUIName] will focus on constructing [military_buildings|E]\n#weak (Their [economical_archetype|E] will still dictate if they want to build [buildings|E] at all)#!"
  vassal_directive_building_focus_economy: "[recipient.GetUIName] will focus on constructing [economic_buildings|E]\n#weak (Their [economical_archetype|E] will still dictate if they want to build [buildings|E] at all)#!"
  vassal_directive_remove_directive: "[recipient.GetUIName] will have [recipient.GetHerHis] current [directive|E] removed"

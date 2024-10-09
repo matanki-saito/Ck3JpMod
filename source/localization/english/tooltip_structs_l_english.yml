@@ -67,3 +67,4 @@
  game_scheme_agent_slot_type_struct:0 "#TOOLTIP:SCHEME_AGENT_SLOT_TYPE,$DESC_KEY$ $KEY_LOC|L$#!"
  game_contract_struct: "#ONCLICK:CONTRACT,$DESC_KEY$ #TOOLTIP:CONTRACT,$DESC_KEY$ $KEY_LOC|L$#!#!"
  game_domicile_building_struct: "#ONCLICK:DOMICILE_BUILDING,$DESC_KEY$ #TOOLTIP:DOMICILE_BUILDING,$DESC_KEY$ $KEY_LOC|L$#!#!"
+ game_non_province_tile_struct: "$KEY_LOC|V$"

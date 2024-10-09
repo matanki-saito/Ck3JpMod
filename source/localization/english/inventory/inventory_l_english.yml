@@ -247,3 +247,4 @@
  artifact_urn:0 "壺"
  artifact_tun_barrel:0 "ワイン樽"
  artifact_helmet_simple: "$artifact_helmet$"
+ CANNOT_REPAIR_WITHOUT_ANTIQUARIAN: "@warning_icon! #X Cannot repair [artifacts|e] without an $antiquarian_court_position$#!"

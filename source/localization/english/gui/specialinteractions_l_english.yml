@@ -561,3 +561,4 @@
  WILL_BE_VASSALIZED_REASON: "Will become your [vassal|E]: $VALUE|=+0$"
  RIVAL_VASSAL_REASON: "Rival [vassal|E] within the [realm|E]: $VALUE|=+0$"
  negotiate_settlement_title_cant_receive_reason_higher_tier_without_county: "[recipient.GetShortUINameNotMe] must hold or receive at least one county together with [target.GetName]"
+ SCHEME_TARGET_LEARNING: "[target.GetShortUINamePossessive|U] [learning|E]: $VALUE|+=0$"

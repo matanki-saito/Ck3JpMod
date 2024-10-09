@@ -209,7 +209,7 @@
  laamp_base_4100_contract_contract: "$laamp_base_4100_contract$"
  laamp_base_4100_desc_title: "名高き碩学、募集中、"
  laamp_base_4100_desc: "[TaskContract.GetEmployer.GetPrimaryTitle.GetNameNoTier]の[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]による貼り紙によれば、[TaskContract.GetEmployer.GetHerHis]の宮廷にいる稚児たちに色々と教えてやって欲しいとのことだ。"
- laamp_base_4100_request: "This [task_contract|E] requires you to seize #BOLD 3#! [skill|E] challenges in order to educate the specified child."
+ laamp_base_4100_request: "この[task_contract|E]では指定された子供を教育する為に#BOLD 3#!の[skill|E]の挑戦を達成する必要があります。"
  laamp_base_learning_contract_events_prefix.4100: "A Teaching Moment"
  laamp_base_learning_contract_events.4100.tt.current_total.sub_t1: "#TUT You have a score of #V [task_contract.MakeScope.Var('wins_tally').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t1_threshold').GetValue]#! towards a #P Success#!#!"
  laamp_base_learning_contract_events.4100.tt.current_total.sub_t2: "#TUT You have a score of #V [task_contract.MakeScope.Var('wins_tally').GetValue]#! out of #V [task_contract.MakeScope.Var('win_t2_threshold').GetValue]#! towards an #P Exceptional Success#! #WEAK (you have currently earned a Success)#!#!"
