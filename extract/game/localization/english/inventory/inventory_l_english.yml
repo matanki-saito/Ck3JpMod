@@ -257,7 +257,6 @@
  REFORGE_COST:1 "Reforge Cost: $COST$"
  REPAIR_COST:0 "Repair Cost: $COST$"
  CANNOT_REFORGE_WITHOUT_ANTIQUARIAN:0 "@warning_icon! #X Cannot reforge [artifacts|e] without an $antiquarian_court_position$#!"
- CANNOT_REPAIR_WITHOUT_ANTIQUARIAN: "@warning_icon! #X Cannot repair [artifacts|e] without an $antiquarian_court_position$#!"
  ARTIFACT_FALLBACK_EFFECT:1 "#S If you do not fulfill the requirements:#!\n[Artifact.GetFallbackEffects]"
  ARTIFACT_EFFECT:0 "[SelectLocalization( Artifact.HasCanBenefit, 'ARTIFACT_EFFECT_HAS_CAN_BENEFIT', '' )][Artifact.GetModifierEffects]"
  ARTIFACT_EFFECT_HAS_CAN_BENEFIT:0 "#S If you fulfill the #TOOLTIP:ARTIFACT_EFFECT_REQUIREMENT_TT #L Requirements#!#!:#!\n"
