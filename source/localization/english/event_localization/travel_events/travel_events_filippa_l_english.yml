@@ -352,7 +352,7 @@
  travel_events.2032.b:0 "我が宮廷で侍医になってはもらえないか？"
  travel_events.2032.c:0 "こんなことは時間の無駄だ。"
  travel_events.2033.t:0 "$travel_event_prefix$ 囚人の脱走！"
- travel_events.2033.desc_intro:0 "No sooner have we entered the [ROOT.Char.GetCurrentLocation.GetName] hunting grounds than my guards come running up to me, panting and slightly panicked. \"My [ROOT.Char.GetLadyLord]! That [prisoner.Custom('InsultAdjective')] [prisoner.GetTitledFirstName] has escaped our shackles!\"\n\nMy gaze immediately moves to the forest's edge, scanning for signs of movement, but finding none."
+ travel_events.2033.desc_intro:0 "我々が[ROOT.Char.GetCurrentLocation.GetName]の狩猟場に入るとすぐ、衛兵が息を切らしながら少しパニックになって私に駆け寄ってきた。「閣下、あの[prisoner.Custom('InsultAdjective')][prisoner.GetTitledFirstName]が脱走しました！」\n\n私の視線はすぐに森の端に移り、動きの兆候がないか探したが、何も見つからない。"
  travel_events.2033.desc_manhunt:0 "これが意味することは一つだ。#EMP 捜査を！#!\n\n"
  travel_events.2033.desc_manhunt_previous:0 "前回の捜索活動を思い出すと、その喜びの火花が私を興奮させる。興奮。危険。待ちきれない。"
  travel_events.2033.desc_manhunt_first:0 "自然界で最もとらえどころのない、危険な獲物に挑戦してみたいとずっと思っていた。私の口の端に笑みが浮かぶ。"

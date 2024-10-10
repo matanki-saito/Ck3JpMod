@@ -352,7 +352,7 @@
  COURT_POSITION_TASK_START_GENERIC_EFFECTS: "#S 開始時:#!#indent_newline:2 \n[CourtPositionTaskType.GetOnStartEffectGenericDesc]#!"
  COURT_POSITION_TASK_END_GENERIC_EFFECTS: "#S 停止時:#!#indent_newline:2 \n[CourtPositionTaskType.GetOnEndEffectGenericDesc]#!"
  COURT_POSITION_TASK_GENERIC_COST: "#S コスト（月あたり）:#!#indent_newline:2 \n[CourtPositionTaskType.GetCostText( GetPlayer )]#!"
- COURT_POSITION_TYPE_EMPLOYER_COURT_EFFECTS: "#S [GetPlayer.Custom('GetCourtOwnerConcept')]の[GetPlayer.Custom('GetRealmOrDomicileConcept')]への効果:#!#indent_newline:2 \n[CourtPositionType.GetEmployerCourtModifierDescription]#!"
+ COURT_POSITION_TYPE_EMPLOYER_COURT_EFFECTS: "#S [GetPlayer.Custom('GetCourtOwnerConcept')]の[GetPlayer.Custom('GetRealmOrDomicileConcept')]への効果：#!#indent_newline:2 \n[CourtPositionType.GetEmployerCourtModifierDescription]#!"
  COURT_POSITION_EMPLOYER_COURT_EFFECTS: "#S [GetPlayer.Custom('GetCourtOwnerConcept')]の[GetPlayer.Custom('GetRealmOrDomicileConcept')]への影響:#!#indent_newline:2 \n[CourtPosition.GetEmployerCourtBonuses]#!"
  COURT_POSITION_APPOINT_EMPLOYER_COURT_EFFECTS: "#S [GetPlayer.Custom('GetCourtOwnerConcept')]の[GetPlayer.Custom('GetRealmOrDomicileConcept')]への影響:#!#indent_newline:2 \n[AppointCourtPositionView.GetLiegeCourtModifierForPositionType( AppointCourtPositionView.GetSelectedCharacter.Self )]#!"
  physician_treat_epidemic: "伝染病の取り締まり"

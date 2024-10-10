@@ -30,7 +30,7 @@
  ACHIEVEMENT_DESC_true_tolerance_achievement:0 "95%以上の[cultural_acceptance|E]を持つ[cultures|E]を[realm|E]内に10以上持つ"
  ACHIEVEMENT_DESC_delusions_of_grandeur_achievement:0 "あなたの[court_grandeur_expectations|E]を6レベル以上上回る"
  ACHIEVEMENT_DESC_bod_chen_po_achievement:1 "プギェル[dynasty|E]の一員として、チベット帝国を再建する"
- ACHIEVEMENT_DESC_turkish_eagle_achievement:0 "Starting as any member of [house|E] Seljuk in 1066, besides Alp Arslan, form Rum and create a [hybrid_culture|E] between Oghuz and Greek"
+ ACHIEVEMENT_DESC_turkish_eagle_achievement:0 "1066年にアルプ・アルスラーン以外のセルジューク家の一員として開始し、ルームを建国してオグズとギリシャの[hybrid_culture|E]を作る。"
  ACHIEVEMENT_DESC_rise_of_the_ghurids_achievement:0 "867年か1066年のゴール公爵でスタートし、[GetGeographicalRegion('dlc_ep1_achievement_rise_of_the_ghurids').GetName]の[region|E]を征服する"
  ACHIEVEMENT_DESC_brave_and_bold_achievement:1 "867年にピャスト家としてスタートし、ポーランドを統治して封建制を採用し、希少度が「著名な」または「至高の」レガリア、冠、武器、鎧を所有する"
  ACHIEVEMENT_DESC_lingua_franca_achievement:1 "全世界のすべての[royal_courts|E]で自身の[court_language|E]が話されるようにする。$rd_character_blocked_from_achievement$"

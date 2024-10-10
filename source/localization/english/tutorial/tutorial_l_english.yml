@@ -92,7 +92,7 @@
  lesson_basics_realm:0 "国境（$lesson_basics_map$）"
  lesson_basics_realm_desc:3 "自分のキャラクター像の上にカーソルを置くと、[realm_capital|E]（$cn_luimneach$）の上の紋章が光り、所有する[realm|E]の全体がハイライトされます。マンスターは、$game_concept_realm$の名づけ元となる[primary_title|E]です。\n\nまた、別の$game_concept_title$として、ソーモンド伯爵領も有しています。\n\n#TUT ズームアウトすると「マンスター」の文字がマップに現れます。あなたが独立領主であるからです。#!"
  lesson_basics_map_modes:0 "人々を統治する（$lesson_basics_map$）"
- lesson_basics_map_modes_desc:1 "As a [ruler|E], you can only hold so much land on your own — you will often have other $game_concept_rulers$ helping with the administration of the [realm|E] by holding land ([titles|E]) within your borders, making them your [vassals|E].\n\n#TUT To find your own land, your [domain|E], press the 'Home' key, and zoom in. Once closer up, you can see blue labels on the [baronies|E] that belong to you (in this case it will be $cn_luimneach$ and $cn_inis$).\n\nThe Earldom of $c_ormond$ is held by your Vassal.#!"
+ lesson_basics_map_modes_desc:1 "[ruler|E]として、一人ではそう多くの領地を保有できません。他の$game_concept_rulers$を[vassals|E]として領内に領地（[titles|E]）を持たせることで、[realm|E]統治の一助とできます。\n\n#TUT 自ら直接統治する領土、すなわち[domain|E]を確認するには、「Home」キーを押し、ズームインしてください。近づいていくと、あなたの直轄領が青いラベルで各[baronies|E]上に表現されています（今回のケースでは$cn_luimneach$と$cn_inis$になります）。\n\n一方、$c_ormond$伯領はあなたに仕える封臣によって統治されています。#!"
  lesson_basics_characters:0 "キャラクター($lesson_basics_character$)"
  lesson_basics_characters_desc:1 "この世界には、アバターとして表現されるたくさんの[characters|E]が存在していて、あなたはそのうちの一人としてプレイします。あなたがプレイする人物は[realm|E]の[ruler|E]です！\n\n#TUT あなたは、[dynasty|E]を古からの年月を超えて存続させ、繁栄させねばなりません。保有する数多くの[titles|E]は権力をもたらし、領土や他の人々（称号持ちや土地持ちのような人々）の支配へと繋がります。#!"
  lesson_basics_characters_click_on_character:0 "あなた自身をクリックする"

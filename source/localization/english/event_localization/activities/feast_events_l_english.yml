@@ -167,4 +167,4 @@
  feast.0800.tt:0 "[host.GetShortUINamePossessiveNoTooltip]の[GetActivityType('activity_feast').GetName]は中止されます"
  feast.7201.d: "私の治世に、乾杯！"
  feast.7151.desc.desc_roughed_up: "窓から日の光が差し込み、一瞬にしてホール全体が明るくなる。 ほとんどの席が空席になった。 私がこの場所にしたことを見れば、驚くことではないのかもしれない！\n\n「私はおまえをまったく軽蔑している、おまえが私の家にしたことを見てみろ！」[host.GetTitledFirstName]が私をにらむ。"
- feast.7202.adventurer_loot: "What the..? #EMP Rough [host.GetHerHim] up, steal the [host.Custom('GetExpensiveMeal')]!#!"
+ feast.7202.adventurer_loot: "何だ……？ #EMP [host.GetHerHim]を殴って、[host.Custom('GetExpensiveMeal')]を盗め！#!"

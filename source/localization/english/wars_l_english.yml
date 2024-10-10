@@ -336,7 +336,7 @@
  norwegian_invasion_cb_victory_desc_defender:0 "[attacker.GetShortUIName|U]はイングランド王国、あなたが保持するすべての称号、そして南イングランドにおけるあなたの封臣のすべての称号を奪います。"
  norwegian_invasion_cb_victory_desc_attacker:0 "あなたはイングランド王国を奪い、北イングランドのすべての称号を自らのものとします。"
  norwegian_invasion_cb_victory_desc:0 "[attacker.GetShortUIName|U]はイングランド王国を奪い、南イングランドのすべての称号を自らのものとします。"
- norwegian_invasion_cb_victory_with_tostig_desc:0 "If alive and in [attacker.GetShortUINamePossessive] court, [tostig.GetShortUIName] is given the [northumberland.GetName], the [york.GetName], and the [lancaster.GetName] in exchange for a [strong_hook|E]."
+ norwegian_invasion_cb_victory_with_tostig_desc:0 "[tostig.GetShortUIName][attacker.GetShortUINamePossessive]の宮廷内で生存している場合、[strong_hook|E]と引き換えに[northumberland.GetName]、[york.GetName]および[lancaster.GetName]を与えられます。"
  sons_of_lothbrok_invasion_cb:0 "侵略"
  sons_of_lothbrok_invasion_cb_victory_desc_attacker:0 "戦争目標の王国における[defender.GetShortUINamePossessive]のすべての称号を奪います。"
  sons_of_lothbrok_invasion_cb_victory_desc_defender:0 "[attacker.GetShortUIName|U]は戦争目標の王国におけるあなたのすべての称号を奪います。"

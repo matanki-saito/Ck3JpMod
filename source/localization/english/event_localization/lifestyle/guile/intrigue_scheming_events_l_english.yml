@@ -29,7 +29,7 @@
  intrigue_scheming.1013.b.tt:2 "#T [THIS.Var('intrigue_exp_gain_value').GetValue]#!の[intrigue_9_14_20_18_9_7_21_5|E]点を得ます"
  intrigue_scheming.1013.c.tt:2 "#T [THIS.Var('intrigue_exp_gain_value').GetValue]#!の[intrigue_lqwuljxh|E]点を得ます"
  intrigue_scheming.1014.desc_alive:0 "残念ながら、私はいくら努力しても、[cryptographer.GetTitledFirstNamePossessive]の難解な暗号技術を理解することができまなかった。\n\n[cryptographer.GetSheHe]は開発したコードが間違いなく安全だと保証してくれているが、私は自分の技術を磨く機会を逃してしまった感が拭えない。"
- intrigue_scheming.1014.desc_dead:0 "With [cryptographer.GetTitledFirstName] dead, my efforts to create a secret code to safely exchange sensitive information will need to be put on hold. \n\nI can only hope another opportunity to improve my [ROOT.Char.Custom('GetCourt')]'s defenses against espionage will arrive soon."
+ intrigue_scheming.1014.desc_dead:0 "[cryptographer.GetTitledFirstName]が死んだことで、機密情報を安全に交換するための秘密暗号を作る努力は、一旦保留にする必要がある。\n\n[ROOT.Char.Custom('GetCourt')]の防諜力向上の好機であった、その早期再来を願うばかりだ。"
  intrigue_scheming.1014.a:0 "なんと残念なことだ…"
  intrigue_scheming.1201.t:0 "すみからすみまで"
  intrigue_scheming.1201.desc:0 "闇夜は我が[ROOT.Char.Custom('FortifiedBuilding')]の廊下の影を本当に生き生きとさせることができる。招かれざる訪問者に対する既知のリスクは、監視されていない死角の数だけ高くなる。\n\n私一人でさえこれだけ多くの不備を発見することができるのだから、同じような見方をしているやつらが何をするかは容易に想像できる！"

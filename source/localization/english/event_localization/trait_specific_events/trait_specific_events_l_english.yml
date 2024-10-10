@@ -1,6 +1,6 @@
 ﻿l_english:
  trait_specific.1001.desc:0 "最近、[ROOT.Char.Custom('GetCourt')|l]の周囲に怪しげな人々が出没するようになった―ある者は視界の隅の影の如く、またある者は一目しただけで途端に消え去ってしまう。\n\n何人も配置したが無駄で、怪しげな人々は見つけられない。だがその威圧感は増すばかりなのだ！"
- trait_specific.1001.a:0 "そこだー！確かにいるのだ…"
+ trait_specific.1001.a:0 "そこだ――！　確かにいるのだ……"
  trait_specific.1002.desc:0 "最近、頭の回転は鈍く、雲がかかった夏の空のように思考が散漫になっている。\n\n[ROOT.Char.Custom('ResidenceBuilding')]の外の鳥はまた別の歌を歌い始めた。周りの人は皆、わざと謎めかした語り口だし、コリアンダーが本当に恐ろしいスパイスだと#EMP 誰も#!認めてくれない。"
  trait_specific.1002.a:0 "待て、私は何を考えていた？"
  trait_specific.1010.t:0 "狂気の発現"
@@ -39,7 +39,7 @@
  trait_specific.6001.desc:0 "Lately regular activities have not... #EMP done#! it for me. Physicians have recommended various ointments, but nothing excites.\n\nAs I grow more and more desperate, I stumble upon some books, hidden in the bottom of a pile in a merchants stall, that depict some... unusual activities. I find that I cannot stop turning the pages, and heat is stirring in my loins."
  trait_specific.6001.a:0 "うーむ、こういうのがいいのか…"
  trait_specific.6001.b:0 "私はもっとまともだよ！"
- trait_specific.6002.t:0 "Experimenting"
+ trait_specific.6002.t:0 "実験"
  trait_specific.6002.desc:0 "I am reaching to loosen my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )], [lover.GetTitledFirstNamePossessive], [lover.Custom('GetUpperClothingArticle')] when [lover.GetSheHe] suddenly pulls away.\n\n\"I have been wanting to try something #EMP new#!, my [ROOT.Char.Custom('LoverPetName')],\" [lover.GetSheHe] coos, reaching under the bed with a devious smile.\n\n[lover.GetHerHis|U] hand emerges, clutching [ROOT.Char.Custom('DeviantObjectArticle')]. \"I was thinking we could use #EMP this#!.\""
  trait_specific.6002.a:0 "Very well, don't leave me waiting!"
  trait_specific.6002.b:0 "You are into things like... #EMP this?!#!"

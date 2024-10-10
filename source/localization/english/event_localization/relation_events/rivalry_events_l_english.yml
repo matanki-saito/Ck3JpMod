@@ -74,7 +74,7 @@
  rivalry.1017.b.tt:0 "#F [from_rival.GetSheHe]よりも私の方が優れていることをあのろくでなしに示します#!"
  rivalry.1017.c:0 "私は正しいことを行い、反対の頬を向ける。"
  rivalry.1018.t:0 "報復"
- rivalry.1018.desc:0 "When I went up to [rival.GetTitledFirstName] to give [rival.GetHerHim] a piece of my mind, [rival.GetSheHe] retorted with a slew of insults and abuse of [rival.GetHerHis] own!\n\nThe exchange was seen by as childish, and we have both lost face as a result."
+ rivalry.1018.desc:0 "私が[rival.GetHerHim]に一言言ってやろうと[rival.GetTitledFirstName]のところに行くと、[rival.GetSheHe]は大量の侮辱と罵倒で報復してきた！\n\nこのやりとりは子供じみたものと見られ、結果的に互いが面目を失うことになってしまった。"
  rivalry.1018.a:0 "そもそも、そんな[rival.Custom('quirk_neg_adjective')]だった[rival.GetHerHis]のあやまりだよ！"
  rivalry.1019.t:0 "無償の侵害"
  rivalry.1019.desc:0 "私は[rival.GetHerHim]に一言言ってやろうと[rival.GetTitledFirstName]のところへ行き、[rival.GetHerHis]の欠点をすべて並べ立てた。[rival.GetSheHe|U]は返す言葉を持たず、私は相手がしっかりと身の程を思い知ったことを確認するとその場を去った。"

@@ -154,7 +154,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CHASTE:0 "[ROOT.Char.GetHerHis]の配偶者および家族に誠実な[ROOT.Char.GetFirstNameNoTooltip]は、すべての個人的な関心事よりも、[ROOT.Char.GetHerHis]の王朝の利益を優先するに違いない。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_LUSTFUL:0 "[ROOT.Char.GetHerHis|U] eyes always set upon the next target, the vassals of the [ROOT.Char.Custom('GetRealmOrDomicile')|l] do well in locking up their spouses as [ROOT.Char.GetFirstNameNoTooltip] takes the throne."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CONTENT:0 "[ROOT.Char.GetHerHis]は現状に満足しており、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の封臣たちは[ROOT.Char.GetHerHis]の消極的な性格を嘲笑うかもしれない。"
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_PATIENT:0 "Being a [ROOT.Char.GetWomanMan] willing to wait for a plan to come together, many expect great change to come to the [ROOT.Char.Custom('GetRealmOrDomicile')|l] — albeit slowly."
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_PATIENT:0 "計画がまとまるのをずっと待っていられる[ROOT.Char.GetWomanMan]であり、多くの人は、ゆっくりではあるが——大きな変化がこの[ROOT.Char.Custom('GetRealmOrDomicile')|l]に訪れることを期待している。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_BRAVE:0 "勇気を持って行動に移すことを厭わないが、多くの人は[ROOT.Char.GetFirstNamePossessiveNoTooltip]の勇気が[ROOT.Char.Custom('GetRealmOrDomicile')|l]を見境のない破滅に陥れることがないよう願っている。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_JUST:0 "よろずのことにも方引くことなし。この者よろずの諍いを扱うに優なるべし。"
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_GLUTTONOUS:0 "食欲が旺盛な[ROOT.Char.GetWomanMan]で、多くの人は[ROOT.Char.GetSheHe]が、[ROOT.Char.GetHerHis]自身の空腹よりも[ROOT.Char.Custom('GetRealmOrDomicile')|l]を優先してほしいと願っている。"
