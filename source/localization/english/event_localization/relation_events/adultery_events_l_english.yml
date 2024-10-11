@@ -1,6 +1,6 @@
 ﻿l_english:
  adultery.0002.t:0 "他の誰か"
- adultery.0002.consort_start.desc:0 "[lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は夜になると再び[ROOT.Char.Custom('GetChamber')|l]から姿を消した。 [lover_spouse.GetSheHe|U]は最近距離を置いているようだ——物思いにふけり、[ROOT.Char.Custom('GetCourt')|l]でもあまり姿を見ない。"
+ adultery.0002.consort_start.desc:0 "[lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は夜になると再び[ROOT.Char.Custom('GetChamber')|l]から姿を消した。[lover_spouse.GetSheHe|U]は最近距離を置いているようだ——物思いにふけり、[ROOT.Char.Custom('GetCourt')|l]でもあまり姿を見ない。"
  adultery.0002.soulmate_start.desc:0 "[lover_spouse.Custom2('MyCharacterIntroduction', ROOT.Char)]を抱いてから随分と時間が経った。[lover_spouse.GetSheHe|U]は最近距離を置いているようだ——なぜ会えないのか私が問い詰めると[lover_spouse.GetSheHe]は次々と言い訳をしてくる。"
  adultery.0002.desc:1 "\n\n私は[lover_spouse.GetHerHis]を満足させることができないのだろうか？それとも[lover_spouse.GetSheHe]はただ忙しいだけなのだろうか？あるいは[lover_spouse.GetSheHe]は他の誰かと情を通じているのだろうか…？"
  adultery.0002.a:0 "「[lover_spouse.GetFirstNameNoTooltip]、別の相手でもいるのか？」"

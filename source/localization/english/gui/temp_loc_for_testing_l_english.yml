@@ -1,5 +1,5 @@
 ﻿l_english:
  TEMP_GUI_INTERACTION:0 "$EFFECT_LIST_BULLET$#high Duke Gyrth#!を投獄します\n$EFFECT_LIST_BULLET$#N  これは#E 圧政#!の行為であり、あなたの臣下はあなたへの#E opinion#!を#Z 40#!失います#!"
- TEMP_GUI_INTERACTION_2:1 "$EFFECT_LIST_BULLET$ #high Duke Gyrth's#!のすべての家族はあなたへの#E Opinion#!を#Z 15#!失います。\n$EFFECT_LIST_BULLET$ あなたへの#E Opinion#!を#Z 30#!失います#low (投獄)#!"
+ TEMP_GUI_INTERACTION_2:1 "$EFFECT_LIST_BULLET$#high Duke Gyrth's#!のすべての家族はあなたへの#E Opinion#!を#Z 15#!失います。\n$EFFECT_LIST_BULLET$あなたへの#E Opinion#!を#Z 30#!失います#low (投獄)#!"
  TEMP_GUI_INTERACTION_TITLE:0 "イースト・アングリアの公爵、#high Duke Gyrth Godwineson#!に及ぼす効果"
  TEMP_GUI_HOOK:0 "#E フック#!を使う"

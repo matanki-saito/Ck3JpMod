@@ -423,7 +423,7 @@
  player_nation_fracturing_defeat_defender_desc:0 "あなたは[attacker.GetShortUIName|U]を[imprison|E]し、[revoke_title_reason|E]を獲得します。"
  player_nation_fracturing_defeat_attacker_desc:0 "[defender.GetShortUIName|U]はあなたを[imprisons|E]し、[revoke_title_reason|E]を獲得します。"
  player_nation_fracturing_faction_war_defeat_desc:0 "[defender.GetShortUIName|U]は[attacker.GetShortUIName|U]を[imprisons|E]し、[revoke_title_reason|E]を獲得します。"
- nation_fracturing_faction_war_defeat_defender_desc:0 "[defender.GetShortUIName|U] imprison all rebellious [vassals|E] and gain a [revoke_title_reason|E] against each of them."
+ nation_fracturing_faction_war_defeat_defender_desc:0 "[defender.GetShortUIName|U]はすべての反逆した[vassals|E]を投獄し、各人への[revoke_title_reason|E]を獲得します。"
  nation_fracturing_defeat_attacker_desc:0 "[defender.GetShortUIName|U] imprisons you and all rebellious [vassals|E], and gains a [revoke_title_reason|E] against each rebel."
  nation_fracturing_defeat_end_desc:0 "The [nation_fracturing_faction|E] is disbanded, and its members cannot join [factions|E] for [SCOPE.ScriptValue('faction_war_defeat_cooldown')|0] years."
  MEDI_CONQUEST_CB_NAME:0 "[county|E]の地中海征服"

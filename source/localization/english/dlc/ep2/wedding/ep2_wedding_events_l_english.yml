@@ -639,7 +639,7 @@
  ep2_wedding.1065.b2:1 "[spouse_2.GetFirstNameNoTooltip]はあなたの不調を非難した"
  ep2_wedding.1066.desc:0 "数分後、[spouse_2.GetTitledFirstName|U]は我々の寝室に戻ってきた。その後には、忙しい使用人数名が続き、すぐに部屋から家具や装飾品をすべて取り除き始めた。私のあらゆる質問に、頑なな沈黙が続いた。ようやく彼らが去ると、裸のテーブルだけが残る。裸のテーブルの上に、#EMP 同じく裸の#![spouse_2.GetFirstNameNoTooltip]が乗っている。\n\n「#EMP 呪われた#!道具はもうないようですが、どうでしょう？」 [spouse_2.GetSheHe|U]は誘うような笑みを浮かべる。"
  ep2_wedding.1066.desc_1:0 "\n\nすべての思考が頭から離れる。"
- ep2_wedding.1066.desc_2:0 "\n\n「#EMP ああ。」#!私は吃りながら時間稼ぎをする。「ええと…そうじゃなくて…私が言いたいのは...」しかし、[spouse_2.GetHerHis]の氷のような表情に、私は凍りついた。"
+ ep2_wedding.1066.desc_2:0 "\n\n「#EMP ああ。」#!私は吃りながら時間稼ぎをする。「ええと…そうじゃなくて…私が言いたいのは…」しかし、[spouse_2.GetHerHis]の氷のような表情に、私は凍りついた。"
  ep2_wedding.1066.a:0 "終わり良ければ全て良し！"
  ep2_wedding.1066.b:0 "#EMP わざと#!じゃないんだ、誓って！"
  ep2_wedding.1066.b_1:0 "[spouse_2.GetFirstNameNoTooltip]は気分を害する"

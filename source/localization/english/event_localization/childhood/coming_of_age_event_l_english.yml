@@ -66,7 +66,7 @@
  coming_of_age.1005.desc:0 "私の被後見人[educated_child.GetTitledFirstName]は成人を迎え、私の手を離れる時がやってきた。\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')][educated_child.Custom('DescribingEducationOutcome')][educated_child.Custom('DescribingEducationOutcomeProwess')]"
  coming_of_age.1005.a:0 "[educated_child.GetFirstNameNoTooltip]よ、また会う日まで。"
  coming_of_age.3011.t: "名前以上のもの"
- coming_of_age.3011.desc: "私が[junior_emp.MakeScope.Var('co_emp_appointer').Char.Custom2('MyCharacterIntroduction', junior_emp)]によって[senior_emp.GetDiarchTitle]に任命されて以来、この日が来ることは分かっていた。\n\n私は今、[junior_emp.GetWomanMan]だ。  そしてそれは私の持つ力がもはや単なる名目的なものではないことを意味する。私が話せば、[senior_emp.GetPrimaryTitle.GetDefinitiveName]は耳を傾け、私が命令すれば従う。\n\n王座への道を歩む、本当の第一歩だ。"
+ coming_of_age.3011.desc: "私が[junior_emp.MakeScope.Var('co_emp_appointer').Char.Custom2('MyCharacterIntroduction', junior_emp)]によって[senior_emp.GetDiarchTitle]に任命されて以来、この日が来ることは分かっていた。\n\n私は今、[junior_emp.GetWomanMan]だ。そしてそれは私の持つ力がもはや単なる名目的なものではないことを意味する。私が話せば、[senior_emp.GetPrimaryTitle.GetDefinitiveName]は耳を傾け、私が命令すれば従う。\n\n王座への道を歩む、本当の第一歩だ。"
  coming_of_age.3011.a: "これが私の運命だ！"
  coming_of_age.3011.b: "#EMP 人生#!が楽しみだ…"
  coming_of_age.3011.c: "準備ができているといいが。"

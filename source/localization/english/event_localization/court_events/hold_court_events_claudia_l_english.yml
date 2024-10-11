@@ -248,4 +248,4 @@
  character_title_cannot_be_revoked_tt: "You will be unable to revoke the title for 25 years."
  protected_from_revocation.tt: "This character's titles are protected from revocation"
  title_granted_to_local_leader_tt: "[6090_main_county.GetName] will be granted to a local of the [6090_main_county.GetCountyData.GetFaith.GetName] faith. You will have a [hook|E] on them."
- all_realm_county: "Every [realm|E] [county|E]"
+ all_realm_county: "[realm|E]の全ての[county|E]"

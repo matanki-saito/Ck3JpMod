@@ -51,7 +51,7 @@
  war_event.2001.c: "あるいは取引ができるのでは？"
  war_event.2001.c.tt: "戦争を終わらせる代わりに[defender.GetTitledFirstName]から多額の金を要求"
  war_event.2004.t: "[harald.Custom2('AppropriateGreeting', ROOT.Char)]"
- war_event.2004.desc: "現在の我らの争いを鑑みれば、この闘争の平和的解決に向けた取引ができるのではないか？ \n\n私は軍を撤退させることになるだろう。適切な報酬が得られれば、だが……"
+ war_event.2004.desc: "現在の我らの争いを鑑みれば、この闘争の平和的解決に向けた取引ができるのではないか？\n\n私は軍を撤退させることになるだろう。適切な報酬が得られれば、だが……"
  war_event.2004.a: "良い取引だ。"
  war_event.2004.b: "ありえぬ！"
  war_event.2005.t: "[william.Custom2('AppropriateGreeting', ROOT.Char)]"

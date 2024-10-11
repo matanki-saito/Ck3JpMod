@@ -15,7 +15,7 @@
  bp1_house_feud.0003.b:0 "私自身で[house_feud_attacker.GetFirstNameNoTooltip]を[ROOT.Char.GetFaith.NegativeAfterLife]に送ってやるべきだ！"
  bp1_house_feud.0003.c:0 "復讐しても[house_feud_victim.GetHerHim]は戻ってこないだろう。"
  bp1_house_feud.0004.t:0 "[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('old_house_head'))|U]の敵"
- bp1_house_feud.0004.desc:0 "[old_house_head.GetTitledFirstNamePossessiveRegnal]の死に伴い、[ROOT.Char.GetHouse.GetName]家のマントは、一族を守る責任とともに私に回ってきた。\n\n[house_feud_rival.GetTitledFirstName]と我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('old_house_head'))]の間の敵意は周知の事実である。[old_house_head.GetFirstNamePossessiveNoTooltip]の[house_feud_rival.GetHouse.GetBaseName]の一族への憎しみは、 [old_house_head.GetPrimaryTitle.GetAdjectiveNoTooltip]の[old_house_head.Custom('GetCourt')]の日常生活にも波及していた。\n\n昔の諍いを水に流すか、亡き[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('old_house_head'))]の意思を尊重するか、私は板挟みになっている…"
+ bp1_house_feud.0004.desc:0 "[old_house_head.GetTitledFirstNamePossessiveRegnal]の死に伴い、[ROOT.Char.GetHouse.GetName]家のマントは、一族を守る責任とともに私に回ってきた。\n\n[house_feud_rival.GetTitledFirstName]と我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('old_house_head'))]の間の敵意は周知の事実である。[old_house_head.GetFirstNamePossessiveNoTooltip]の[house_feud_rival.GetHouse.GetBaseName]の一族への憎しみは、[old_house_head.GetPrimaryTitle.GetAdjectiveNoTooltip]の[old_house_head.Custom('GetCourt')]の日常生活にも波及していた。\n\n昔の諍いを水に流すか、亡き[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('old_house_head'))]の意思を尊重するか、私は板挟みになっている…"
  bp1_house_feud.0004.a:0 "[ROOT.Char.GetHouse.GetBaseNameNoTooltip]家はその敵を忘れることはない。"
  bp1_house_feud.0004.b:0 "[old_house_head.GetFirstNamePossessiveNoTooltip]の憎悪は[old_house_head.GetHerHim]と共に死んだ。"
  bp1_house_feud.0005.t:0 "復讐の誘惑"

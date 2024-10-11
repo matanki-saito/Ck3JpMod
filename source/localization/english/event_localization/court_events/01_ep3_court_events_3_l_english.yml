@@ -1,6 +1,6 @@
 ﻿l_english:
  court_events.3000.t: "優雅さの頂点"
- court_events.3000.desc: "[chancellor.Custom2('MyCharacterIntroduction',ROOT.Char)|U] と [steward.Custom2('MyCharacterIntroduction',ROOT.Char)]は今日は機嫌がいいようだ。\n\n「ご参加ください殿下！」[chancellor.GetFirstNameNoTooltip]は声を上げる。 「ちょうどあなたの関心事について話していたところです。あなたの [ROOT.Char.GetCulture.GetNameNoTooltip] 服装を優美さの真の頂点として普及し続ける投資は実を結んでいます！」\n\n「外国の君主たちはあなたを称賛し妬んでいますが [steward.GetFirstNameNoTooltip] と私はこの評判を生かす最善の方法について合意を見つけることが出来ません。」"
+ court_events.3000.desc: "[chancellor.Custom2('MyCharacterIntroduction',ROOT.Char)|U] と [steward.Custom2('MyCharacterIntroduction',ROOT.Char)]は今日は機嫌がいいようだ。\n\n「ご参加ください殿下！」[chancellor.GetFirstNameNoTooltip]は声を上げる。「ちょうどあなたの関心事について話していたところです。あなたの[ROOT.Char.GetCulture.GetNameNoTooltip]服装を優美さの真の頂点として普及し続ける投資は実を結んでいます！」\n\n「外国の君主たちはあなたを称賛し妬んでいますが[steward.GetFirstNameNoTooltip]と私はこの評判を生かす最善の方法について合意を見つけることが出来ません。」"
  court_events.3000.a: "私が服装の最先端にいると、誰もが知っているはずだ。"
  court_events.3000.b: "[ROOT.Char.GetCulture.GetNameNoTooltip] 服装は全ての服装の規範となるべきだ。"
  court_events.3000.c: "誰もが我たちの帽子を買うべきだ！"

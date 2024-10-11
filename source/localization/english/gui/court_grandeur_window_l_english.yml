@@ -41,5 +41,5 @@
  COURT_GRANDEUR_CURRENT_LEVEL:0 "#bold 現在のレベル#!$COURT_GRANDEUR_LEVEL_REQUIREMENT$"
  COURT_GRANDEUR_INACTIVE_LEVEL:0 "#bold #X 無効なレベル#!#!$COURT_GRANDEUR_LEVEL_REQUIREMENT$"
  COURT_GRANDEUR_CURRENT_LEVEL_GRACE_PERIOD:2 "@warning_icon!#X このレベルを維持するのに十分な[grandeur|E]がないため、宮廷の威光が少なくとも[CourtGrandeurLevel.GetGrandeurForLevel|V0]増加しない限り、[CourtGrandeurData.GetGracePeriodEndDate.GetTimeDiffFromNow]で非アクティブになります#!"
- MODIFIER_PREVIOUS_LEVELS_APPLY:0 "#weak $EFFECT_LIST_BULLET$ 以前のすべてのレベルも適用されます#!"
+ MODIFIER_PREVIOUS_LEVELS_APPLY:0 "#weak $EFFECT_LIST_BULLET$以前のすべてのレベルも適用されます#!"
  MODIFIER_PREVIOUS_LEVELS_APPLY_NEWLINE:0 "\n$MODIFIER_PREVIOUS_LEVELS_APPLY$"

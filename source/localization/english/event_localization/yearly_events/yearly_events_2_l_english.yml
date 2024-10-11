@@ -133,7 +133,7 @@
  yearly.1040.end.desc:0 "[suspicious.GetTitledFirstNameNoTooltip] is seated, writing furiously. When I clear my throat, [suspicious.GetSheHe] jumps out of [suspicious.GetHerHis] skin. [suspicious.GetSheHe|U] quickly stuffs a roll of parchment into [suspicious.GetHerHis] pocket and turns towards me with an uneasy look upon [suspicious.GetHerHis] face."
  yearly.1040.a:0 "「何を隠しているのだ？今すぐ見せろ！」"
  yearly.1040.a.tt:0 "私は良くも悪くも、[suspicious.GetTitledFirstName]が隠してるものを突き止めます。"
- yearly.1040.b:0 "Return later and search [suspicious.GetHerHis] [suspicious.Custom('GetChamber')] in secret."
+ yearly.1040.b:0 "後で戻って、密かに[suspicious.GetHerHis]の[suspicious.Custom('GetChamber')]を調査する。"
  yearly.1040.b.success.desc:0 "私は羊皮紙を見つけ出す"
  yearly.1040.b.failure.desc:0 "私が[suspicious.GetTitledFirstNameNoTooltip]に見つかる"
  yearly.1040.c:0 "[suspicious.GetHerHis]のプライバシーを尊重する。"

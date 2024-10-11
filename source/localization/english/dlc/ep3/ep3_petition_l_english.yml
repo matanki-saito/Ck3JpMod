@@ -25,7 +25,7 @@
  petition_liege_house_governorship_rights_desc: "Request the office of [ROOT.Char.GetPrimaryTitle.GetNameNoTier] to stay within your [house|E]"
  petition_liege_decision_option_house_governorship_rights: "$petition_liege_house_governorship_rights$\n#low Grant [house|E] [governorship|E] succession#!"
  petition_liege_house_governorship_rights_tooltip: "$petition_liege_decision_second_tooltip$"
- petition_liege_house_governorship_rights_tt: "For #V 100#! years, [THIS.Title.GetBaseName] [house|E] [petition_vassal.GetHouse.GetBaseName] [GetLaw('appointment_succession_law').GetName] Score: #P +250#!"
+ petition_liege_house_governorship_rights_tt: "#V 100#!年間、[petition_vassal.GetHouse.GetBaseName][house|E]の[THIS.Title.GetBaseName][GetLaw('appointment_succession_law').GetName]スコアが#P +250#!"
  petition_liege_house_governorship_rights_valid_tt: "Your [primary_title|E] is already promised to a [house|E]"
  petition_liege_council_seat_family: "Family Council Appointment"
  petition_liege_council_seat_family_desc: "Request [ROOT.Char.GetLiege.GetTitledFirstName] grant a [house|E] member a seat on [ROOT.Char.GetLiege.GetHerHis] [council|E]"

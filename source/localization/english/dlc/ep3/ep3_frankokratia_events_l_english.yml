@@ -99,7 +99,7 @@
  frankokratia_leaders_gain_despoiler_trait: "参加した十字軍戦士と[GetTitleByKey('e_latin_empire').GetAdjective]の[rulers|E]は#high [GetTrait('despoiler_of_byzantium').GetName( GetNullCharacter )]#!の特性を得るでしょう"
  bent_before_crusaders_modifier: "十字軍への屈服"
  bent_before_crusaders_modifier_desc: "この人物は無謀な約束を反故にすることなく、自らの領国から根こそぎ掻き集めて借りを返した。"
- crippled_by_imperial_debt_modifier: "皇帝の政策による不自由"
+ crippled_by_imperial_debt_modifier: "皇帝の政策による支障"
  crippled_by_imperial_debt_modifier_desc: "地元の軍人は退去させられ、文官も空席となった。市場は静まり返っている。"
  greek_opinion: "ギリシャ人の[opinion|E]"
  ep3_frankokratia_events.0042.t: "炎による洗礼"

@@ -1,7 +1,7 @@
 ﻿l_english:
  hostile_scheme_discovery.1001.t:1 "[ROOT.Char.Custom('GetCourt')|U]の陰謀劇"
  hostile_scheme_discovery.1001.close_relation:0 "[spymaster.GetCouncilTitle]が重大な知らせを持ってきた。[spymaster.GetSheHe|U]は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が私に対して陰謀を企てていると確信しているようだ！"
- hostile_scheme_discovery.1001.close_relation_no_spymaster:0 "重大な知らせが届いた。 [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が私に対して陰謀を企てているというではないか！"
+ hostile_scheme_discovery.1001.close_relation_no_spymaster:0 "重大な知らせが届いた。[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が私に対して陰謀を企てているというではないか！"
  hostile_scheme_discovery.1001.close_relation_other_target:0 "[spymaster.GetCouncilTitle]が重大な知らせを持ってきた。[spymaster.GetSheHe|U]は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('targeted_courtier'))]である[targeted_courtier.GetTitledFirstName]に対して陰謀を企てていると確信しているようだ！"
  hostile_scheme_discovery.1001.close_relation_no_spymaster_other_target:0 "重大な知らせが届いた。[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('targeted_courtier'))]である[targeted_courtier.GetTitledFirstName]に対して陰謀を企てているというではないか！"
  hostile_scheme_discovery.1001.desc:0 "[spymaster.GetCouncilTitle]が私のもとに証拠を持ってきた。[spymaster.GetSheHe|U]は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('agent'))]である[agent.GetTitledFirstName]が私に対して陰謀を企てていると確信しているようだ！"

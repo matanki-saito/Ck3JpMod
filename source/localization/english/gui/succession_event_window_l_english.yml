@@ -279,7 +279,7 @@
  RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate: "#weak The difficulty of the randomly selected character will not exceed $extremely_hard_difficult$.#!"
  RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate_adventurer: "The chance to become an [adventurer|E] is roughly #V 50%#!\n\n"
  SUCCESSION_EVENT_WINDOW_RANDOM_CLOSE: "[SuccessionEventWindow.GetSelectedDestinyCharacter.GetTypeName]で続ける"
- SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY: "ランダムな王朝を選択"
+ SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY: "ランダムな運命を選択"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY_HEADER: "#T Let Fate Decide...#!"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY_TT: "#T Select a Random Destiny#!\nClick here to choose a random character from one of several categories."
  SUCCESSION_IS_FAVORITE_CHILD_TT: "あなたの[favorite_child|E]"

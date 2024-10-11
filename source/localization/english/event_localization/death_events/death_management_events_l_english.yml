@@ -36,7 +36,7 @@
  death_management.1007.ruler:1 "[dead_character.GetSheHe]がどのような統治者になっていたのかも、"
  death_management.1007.end:4 "[dead_character.GetHerHis]の死が[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]に対する祝福であるのか呪いであるのかも、我々にはわからない。"
  death_management.1007.a:0 "一つの物語が終わり、新たな物語が始まる。"
- death_management.1007.a.tt:1 "あなたの後継者、 [dead_character.GetTitledFirstName]は[dead_character.GetDeathReasonHideKiller]。"
+ death_management.1007.a.tt:1 "あなたの後継者、[dead_character.GetTitledFirstName]は[dead_character.GetDeathReasonHideKiller]。"
  death_management.1006.t:0 "呪いは解けり"
  death_management.1006.desc:0 "運命の紆余曲折は、いつも自分に有利になるとは限らない。[ROOT.Char.GetFaith.HighGodName]がお知りのように[dead_character.GetTitledFirstName]に会った日に私は呪われたのだ。だが、今日その呪いは解けた！運命は私に微笑みかけ、[dead_character.Custom('InsultAdjective')][dead_character.Custom('InsultNoun')]を墓場まで連れていってくれたのだ！"
  death_management.1006.a.tt:1 "あなたの[rival|E]、[dead_character.GetFullName]は[dead_character.GetDeathReasonHideKiller]。"

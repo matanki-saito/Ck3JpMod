@@ -58,7 +58,7 @@
  laamp_base_4011_request: "This [task_contract|E] requires you travel to [TaskContract.GetEmployer.GetTitledFirstNamePossessive] lands and settle a handful of local theological disputes, through [learning|E] [skill|E] challenges, [piety_level|E], applicable religious [traits|E], [piety|E] or [stress|E]."
  laamp_base_learning_contract_events_prefix.4011: "神学の問題"
  laamp_base_learning_contract_events.4011.t: "$laamp_base_learning_contract_events_prefix.4011$：出立"
- laamp_base_learning_contract_events.4011.desc: "夜が明けたので、 [employer.GetTitledFirstNamePossessive] にある [employer.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] に住む従者を呼んだ。\n\n馬は落ち着きなくその場をうろうろしている。出かける前に、私はキャンプを最後に一瞥した。"
+ laamp_base_learning_contract_events.4011.desc: "夜が明けたので、[employer.GetTitledFirstNamePossessive]にある[employer.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]に住む従者を呼んだ。\n\n馬は落ち着きなくその場をうろうろしている。出かける前に、私はキャンプを最後に一瞥した。"
  laamp_base_learning_contract_events.4011.a: "急ごう！"
  laamp_base_learning_contract_events.4011.a.tt: "@camp_travel_short_icon! You [travel|E] without your [domicile|E]"
  laamp_base_learning_contract_events.4011.tt.destination_list.5_destinations: "すぐに[employer_location_destination.GetName]に[traveling|E]を開始し、次に[destination_1.GetNameNoTier]、次に[destination_2.GetNameNoTier]、次に[destination_3.GetNameNoTier]、次に[destination_4.GetNameNoTier]、次に[destination_5.GetNameNoTier]、最後に[employer_location_destination.GetName]に戻る。"

@@ -72,7 +72,7 @@
  ep2_wedding_ewan.0011.desc.t1.love.temperate:0 "「[char_1.GetFaith.HealthGodName]にかけて、この料理は#EMP 素晴らしい#!な」[char_1.GetFirstNameNoTooltip]は興奮して言う。「過度に耽溺せずとも適切な範囲でさまざまな料理が楽しめる」"
  ep2_wedding_ewan.0011.desc.t1.love.humble:0 "「たまには贅沢することも大切だ」[char_1.GetFirstNameNoTooltip]は深く思慮した風に言う。「実際こういうのも、私が好きなやり方だしね」"
  ep2_wedding_ewan.0011.desc.t1.love.content:0 "$ep2_wedding_ewan.0011.desc.t1.love.humble$"
- ep2_wedding_ewan.0011.desc.t1.love.impatient:0 "「ああ、良い時を過ごし、充実したリフレッシュができた」[char_1.GetFirstNameNoTooltip]は叫ぶ。「素晴らしい！ 私は千の細々としたフルコースなど耐えられない」"
+ ep2_wedding_ewan.0011.desc.t1.love.impatient:0 "「ああ、良い時を過ごし、充実したリフレッシュができた」[char_1.GetFirstNameNoTooltip]は叫ぶ。「素晴らしい！私は千の細々としたフルコースなど耐えられない」"
  ep2_wedding_ewan.0011.desc.t1.love.paranoid:0 "「うーん、良い感じだ」[char_1.GetFirstNameNoTooltip]は厚切れの一口をひっくり返して言う。「あまりに珍しい虚飾は毒を招くからねぇ」"
  ep2_wedding_ewan.0011.desc.t1.love.stubborn:0 "「もう一品同じものを」[char_1.GetFirstNameNoTooltip]は笑う。「私は自分の好みを把握しているが、彼らが提供しているものはまさにそうなんだ」"
  ep2_wedding_ewan.0011.desc.intro.normal:0 "異国のご馳走、精巧な料理の芸術、豊かな色彩と豊かな香りなど、宴会の料理人たちは、この結婚式のためにあらゆる手を尽くしている。$ep2_wedding_ewan.0000.desc.boilerplate.char_intro$それはこの日のごちそうについてだ。\n\n"

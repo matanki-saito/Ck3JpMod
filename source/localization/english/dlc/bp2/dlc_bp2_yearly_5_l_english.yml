@@ -107,7 +107,7 @@
  bp2_yearly.5103.a: "「うるさい！もう直に私が#EMP すべて#!を決めるんだから！」"
  bp2_yearly.5103.b: "逃げよう！"
  bp2_yearly.5103.b.success: "お菓子を手に逃走に成功する！"
- bp2_yearly.5103.b.failure: "Your [child.Custom2('RelationToMeShort', parent)] catches and beats you"
+ bp2_yearly.5103.b.failure: "[child.Custom2('RelationToMeShort', parent)]はあなたを捕まえてぶん殴る"
  bp2_yearly.5103.c: "「ごめん、もうしない」"
  bp2_yearly.5104.t: "ひとりぼっちの子ども"
  bp2_yearly.5104.desc: "おもちゃを手に中庭に飛び出す！やっと休み時間だ、遊ぶぞー！しかし、興奮もつかの間に困惑するようなことが起きた。\n\n[child.GetFirstName]がベンチで中庭を見ながら黄昏ている。[child.GetHerHim]の周りには憂鬱な空気が漂い、この私が近づいているのに挨拶さえしようとしない。親しみを込めたジェスチャーや、おもちゃを使って誘っても[child.GetFirstNameNoTooltip]はため息を吐いて首を振るだけ。\n\n私はぎこちなく頭を書いた。どうしろってんだ。"

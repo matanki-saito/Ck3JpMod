@@ -362,7 +362,7 @@
  murder_outcome.5001.sunken_boat_travel:1 "広い海で船に乗っていると、突然空から炎の矢がこちらに向かって降り注いできた！\n\nその矢は重い#EMP ブスッ#!という音ともに命中し、瞬く間に船全体が炎に包まれ、私は冷たい海中に身を投げた。服は重く、身体を水中に引きずり込もうとするが、私は泳ごうとし、なにかにしがみつこうとし、#EMP 呼吸#!しようとする…"
  murder_unknown_murder_against_you_was_successful_other:0 "#X [THIS.Char.GetShortUIName]は不明な暗殺者によって暗殺されました！#!"
  murder_outcome.1201.no_assassin:0 "私のスパイの一人は、幼い[target.GetTitledFirstName]のために特別な旅を準備している。その子供は、森の中での楽しい一日に連れて行ってもらえるものと信じきっている。\n\n不幸にも[target.GetFirstNameNoTooltip]は迷子になってしまい、日が暮れる前に見つかることはないだろう。おお、[target.GetSheHe]は幼すぎたのだ…"
- murder_outcome.5001.assassin:0 "[assassin.GetFirstName]に連れられて森に遊びに来て、今日はとても楽しかった！ でも、[assassin.GetSheHe]がずっと前にどこかに隠れてしまってずっと見つけられていないし、暗くなるのが早くて怖い...。"
+ murder_outcome.5001.assassin:0 "[assassin.GetFirstName]に連れられて森に遊びに来て、今日はとても楽しかった！でも、[assassin.GetSheHe]がずっと前にどこかに隠れてしまってずっと見つけられていないし、暗くなるのが早くて怖い…"
  murder_outcome_reworked.0000.success_declaration.generic.1: "[target.GetTitledFirstName]はついに死んでしまった！"
  murder_outcome_reworked.0000.success_declaration.generic.2: "私のスパイが[target.GetTitledFirstName]の暗殺に成功した！"
  murder_outcome_reworked.0000.success_declaration.generic.3: "[target.GetTitledFirstName]が[ROOT.Char.GetFaith.DeathDeityNamePossessive]の運命的な抱擁の下に旅立った！"

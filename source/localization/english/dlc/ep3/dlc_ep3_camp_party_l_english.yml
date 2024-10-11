@@ -6,7 +6,7 @@
  activity_camp_party_success: "酒宴"
  activity_camp_party_success_desc: "\n\nHow Carousing your [GetActivityType( 'activity_camp_party' ).GetName] has turned out to be so far.\n\nThe more Carousing you are, the better [activity|E] rewards you may receive."
  activity_camp_party_cooldown: "You have to wait at least 3 months before holding another revelry!"
- activity_camp_party_selection_tooltip: "Hold a [GetActivityType('activity_camp_party').GetName] with your [followers|E]\n\nAnticipated Rewards:\n$BULLET_WITH_TAB$[stress_i][stress|E] loss\n$BULLET_WITH_TAB$[provisions_i][provisions|E]\n$BULLET_WITH_TAB$New [task_contracts|E]"
+ activity_camp_party_selection_tooltip: "[followers|E]と共に[GetActivityType('activity_camp_party').GetName]を催します\n\n予想される報酬：\n$BULLET_WITH_TAB$[stress_loss_i][stress|E]解消\n$BULLET_WITH_TAB$[provisions_i][provisions|E]\n$BULLET_WITH_TAB$新たな[task_contracts|E]"
  activity_camp_party_destination_selection: "The [GetActivityType('activity_camp_party').GetName] can only be held within your Camp"
  activity_camp_party_guest_desc: "$BULLET_WITH_TAB$ Participants may lose [stress|E]"
  activity_camp_party_conclusion_desc: "[GetActivityType( 'activity_camp_party' ).GetName]は終わった"

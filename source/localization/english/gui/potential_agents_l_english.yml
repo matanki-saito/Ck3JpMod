@@ -23,7 +23,7 @@
  BEFRIEND_WOULD_MAKE_GOOD_FRIEND:0 "Cares about target: $VALUE|=+0$"
  BEFRIEND_WOULD_MAKE_BAD_FRIEND:0 "Cares about target: $VALUE|=+0$"
  BEFRIEND_WANTS_PEOPLE_TO_GET_ALONG:0 "Wants people to get along: $VALUE|=+0$"
- SEDUCE_IS_SPOUSE:0 "\"Our marriage is sacred!\": $VALUE|=+0$"
+ SEDUCE_IS_SPOUSE:0 "「私たちの結婚は神聖なものだ！」：$VALUE|=+0$"
  SEDUCE_IS_LOVER:0 "Doesn't want me to have more lovers!: $VALUE|=+0$"
  NO_POTENTIAL_MEMBERS:0 "#weak 誘えるスパイがいません#!"
  SCHEME_MURDER_COUPLE:0 "あなたの血の渇望は麗しい：$VALUE|=+0$"

@@ -190,4 +190,4 @@
  landless_adventurer_succession_law: "野営地の継承"
  landless_adventurer_succession_law_subname: "最年長の子供が継承する"
  landless_adventurer_succession_law_effects: "#high $landless_adventurer_succession_law$の下では、野営地の[title|E]はあなたの[courtier|E]かついかなる[titles|E]も所持していない最年長（あるいはそれに最も近い）の[child|E]に与えられます。もし適格な人物がいない場合は、最も武勇が高い[follower|E]に継承されます。#!"
- admin_renounced_throne: "Renounced aspirations for the throne"
+ admin_renounced_throne: "玉座への野望を放棄した"

@@ -56,7 +56,7 @@
  ADMIN_WINDOW_ASSIGNED_THEME: "[themes|E]一覧"
  ADMIN_WINDOW_VASSAL_GOVERNMENT_TYPE: "[Title.GetHolder.GetGovernment.GetNameWithIcon]"
  ADMIN_WINDOW_VASSAL_KINGDOM: "この[kingdom|E]"
- ADMIN_VASSAL_DETAILS_TITLE_TIER: "[Title.GetRankConcept]——[title_tier|E][Title.GetTierAsNameNoTooltip]"
+ ADMIN_VASSAL_DETAILS_TITLE_TIER: "[Title.GetRankConcept]-[title_tier|E][Title.GetTierAsNameNoTooltip]"
  ADMIN_VASSAL_DETAILS_INCOME_HEADER: "[Title.GetTierAsName]からの収入"
  ADMIN_VASSAL_DETAILS_INCOME_DESCRIPTION: "収入は総督の能力に応じて増減する"
  ADMIN_VASSAL_DETAILS_TAX_CONTRIBUTION: "[AdminVassalDetailView.GetTaxContribution|V]"

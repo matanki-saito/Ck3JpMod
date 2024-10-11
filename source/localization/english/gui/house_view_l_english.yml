@@ -104,4 +104,4 @@
  INFLUENCE_BEING_GOVERNOR: "[governor|E]である"
  INFLUENCE_HAVING_GOVERNOR_HOUSE_MEMBER: "[landed|E]の[house|E]の一員#weak （好意的な[opinion|E]）#!"
  INFLUENCE_HAVING_GOVERNOR_HOUSE_MEMBER_OPINION: "[Character.GetName]"
- HOUSE_UNITY_EFFECTS_NOT_APPLIED_TO_YOU: "@alert_icon! Not applied to you since you are not in a [clan|E] government"
+ HOUSE_UNITY_EFFECTS_NOT_APPLIED_TO_YOU: "@alert_icon![clan|E]政体ではないので適用されません。"

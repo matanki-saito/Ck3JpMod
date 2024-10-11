@@ -649,7 +649,7 @@
  nick_the_pagan_desc:1 "[CharYouHerHim(CHARACTER)]をこんなふうに決めつける時、ほとんどの場合は[CHARACTER.GetShortUINameNoTooltipNoFormat]をあざ笑うつもりだ。好きにさせておけ。[CharYouSheHe(CHARACTER)|U]は真実を知っている。"
  nick_the_heretic_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の[CHARACTER.GetFaith.GetName]への転向はあまりにも劇的で、[CharYouSheHe(CHARACTER)]を人々が知るに足るひとつの事象だ。"
  nick_the_savage_desc:1 "[CharYouSheHe(CHARACTER)]が八つ裂きを躊躇するようなものは存在しない。男も女も、子供も犬も、全てを殺し、全てを[CHARACTER.GetFaith.HighGodName]に捧げる。"
- nick_the_defiant_desc:1 "来たれ、皆の衆、来たれい！ [CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の方法は正しい方法であり、[CharYouSheHe(CHARACTER)]はそれを証明するために必要なだけの人を殺すだろう！"
+ nick_the_defiant_desc:1 "来たれ、皆の衆、来たれい！[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の方法は正しい方法であり、[CharYouSheHe(CHARACTER)]はそれを証明するために必要なだけの人を殺すだろう！"
  nick_the_sea_king_desc:1 "[CharYourHerHis(CHARACTER)]は収奪に収奪を重ねた。欲する物はそれを持つ者から奪い、このやり方を変えようとする者にはこのやり方を認めさせて来たのだ。"
  nick_the_great_and_terrible_desc:1 "孤高の海賊、鮮血と黄金の[CHARACTER.GetLadyLord]、輝ける剣をさざ波に掲げし者。[CharYouSheHe(CHARACTER)|U]は「偉大」と呼ばれるに足る覇者だが、同時に#EMP 「恐怖」#!を世界に刻んだ。"
  nick_the_stonefaced_desc:0 "笑顔をお願いしまーす。おねがーい？一度だけでいいからー？"
