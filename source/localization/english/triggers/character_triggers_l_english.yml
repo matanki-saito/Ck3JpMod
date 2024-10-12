@@ -256,7 +256,7 @@
  CLAIM_TARGET_POSITION_IS_WEAK_THIRD:1 "[CHARACTER.GetShortUIName]が[TARGET_CHARACTER.Custom( 'weak_claim_requirements' )]ではないため、この請求権は行使される必要がある"
  CLAIMANT_IS_ATTACKER_OR_SAME_DYNASTY:1 "[TARGET_CHARACTER.GetShortUIName]が[claimant|E]ではなく、また、請求者の[dynasty|E]にも属していない"
  BYZANTINE_CLAIMANT_IS_DISFIGURED:2 "[CHARACTER.GetShortUIName]が醜く傷ついているか、奇形である"
- BYZANTINE_CLAIMANT_IS_CELIBATE:2 "[CHARACTER.GetShortUIName] cannot target titles belonging to characters of [TARGET_CHARACTER.GetCulture.GetName] [culture|E] because [CHARACTER.GetShortUIName] [CharAreIs(CHARACTER)] not capable of producing offspring"
+ BYZANTINE_CLAIMANT_IS_CELIBATE:2 "[CHARACTER.GetShortUIName]は子孫を残す能力がない為、[TARGET_CHARACTER.GetCulture.GetName][culture|E]に属する人物の対象にできない。"
  IS_THEOCRATIC_COURT_CHAPLAIN:1 "[CHARACTER.GetShortUIName]が[GetFaithDoctrine('doctrine_theocracy_temporal').GetBaseName][CHARACTER.GetCouncilTitle]である"
  NOT_IS_THEOCRATIC_COURT_CHAPLAIN:1 "[CHARACTER.GetShortUIName]が[GetFaithDoctrine('doctrine_theocracy_temporal').GetBaseName][CHARACTER.GetCouncilTitle]でない"
  PARTITION_PRIMARY_HEIR_UNFAIR:2 "[GetLaw('partition_succession_law').GetName]の下で、あなたの[realm_heir|E]である[CHARACTER.GetShortUIName]は[CHARACTER.GetSheHe]が相続する資格のない称号を受けることはできない"

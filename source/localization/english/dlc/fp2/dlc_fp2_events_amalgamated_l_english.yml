@@ -417,7 +417,7 @@
  fp2_punished_order_of_the_hachet_modifier:0 "無理強いの捕らわれの姫君"
  fp2_punished_order_of_the_hachet_modifier_desc:0 "これらの伯爵領では、彼らの主君の承認なしに彼らの土地を守る人々は彼らの侵略者より厳しい罰を与えられます。"
  fp2_struggle.3021.t:0 "天の怒り"
- fp2_struggle.3021.desc:0 "私が兵舎を訪れたとき、[struggle_3021_knight.Custom2('MyCharacterIntroduction', ROOT.Char)|U]の顔は恐怖で歪んでいた。[struggle_3021_courtier.GetTitledFirstName]は[struggle_3021_knight.GetHerHim]を助けようとしており、[struggle_3021_courtier.GetSheHe]が私を見ると眉を上げてひそめる。\n\n「[ROOT.GetCharacter.GetLadyLord]に何が起こったのか教えてくれるか？」\n\n[struggle_3021_knight.GetFirstNameNoTooltip]は[struggle_3021_knight.GetHerHis]の頭をすぐに持ち上げます。「あ、[ROOT.GetCharacter.GetLadyLord]様…私が見たものは見られることを意図していませんでした。人影は胸壁から黒い火薬で作られた石を投げていました。石は敵に当たると火がつき、雷が鳴り響きました。彼らは男を2つに裂いたのです、[ROOT.GetCharacter.GetLadyLord]よ！」\n\n[struggle_3021_courtier.GetFirstNameNoTooltip]は興味を持ってうなずきます。「できましたら …私たちもその力を持てたら…」"
+ fp2_struggle.3021.desc:0 "私が兵舎を訪れたとき、[struggle_3021_knight.Custom2('MyCharacterIntroduction', ROOT.Char)|U]の顔は恐怖で歪んでいた。[struggle_3021_courtier.GetTitledFirstName]は[struggle_3021_knight.GetHerHim]を助けようとしており、[struggle_3021_courtier.GetSheHe]が私を見ると眉を上げてひそめる。\n\n「[ROOT.GetCharacter.GetLadyLord]に何が起こったのか教えてくれるか？」\n\n[struggle_3021_knight.GetFirstNameNoTooltip]は[struggle_3021_knight.GetHerHis]の頭をすぐに持ち上げます。「あ、[ROOT.GetCharacter.GetLadyLord]様…私が見たものは見られることを意図していませんでした。人影は胸壁から黒い火薬で作られた石を投げていました。石は敵に当たると火がつき、雷が鳴り響きました。彼らは男を二つに裂いたのです、[ROOT.GetCharacter.GetLadyLord]よ！」\n\n[struggle_3021_courtier.GetFirstNameNoTooltip]は興味を持ってうなずきます。「できましたら…私たちもその力を持てたら…」"
  fp2_struggle.3021.a:0 "これは間違いなく調査する価値がある。"
  fp2_struggle.3021.b:0 "これにどんな危険があるか誰が知っているというんだ？"
  fp2_struggle.3021.c:0 "お前の言う黒い粉…新しくて燃えるような香辛料だ。"

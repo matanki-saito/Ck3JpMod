@@ -410,7 +410,7 @@
  travel_events.2037.desc_adult:0 "我が[2037_county_liege.Custom2('RelationToMeShort', ROOT.Char)]よ？」"
  travel_events.2037.desc_segway:1 "[2037_county_liege.GetSheHe|U]は森の端で鎖につながれた囚人に向かって頷く。"
  travel_events.2037.desc_outro_segway_adult:1 "\n\n[2037_county_liege.GetSheHe]の言う#EMP スポーツ#!とは何なのか、私は瞬時に理解した。"
- travel_events.2037.desc_outro_child:1 "\n\n私の好奇心は間違いなく刺激される。これは一体どんなゲームなのだろう...？　札？\n\nその提案について考えていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('entourage_character'))][entourage_character.GetTitledFirstName]が、こちらの注意を引きこうとこっそり首を振っているのに気づいた。"
+ travel_events.2037.desc_outro_child:1 "\n\n私の好奇心は間違いなく刺激される。これは一体どんなゲームなのだろう…？　札？\n\nその提案について考えていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('entourage_character'))][entourage_character.GetTitledFirstName]が、こちらの注意を引きこうとこっそり首を振っているのに気づいた。"
  travel_events.2037.desc_outro_manhunter:0 "経験豊富な捜索者として、この提案は私の好奇心をくすぐるものだ。"
  travel_events.2037.desc_outro:1 "#EMP 捜索。#!本当に嫌になる…いや、私は興味をそそられているのか？"
  travel_events.2037.a:0 "十分に面白そうだ…"

@@ -77,7 +77,7 @@
  adventurers_proselytize_zealously_option: "地元の民に説く"
  adventurers_proselytize_zealously_option_desc: "世界の奥地ではまだ真の信仰を知らない者たちがいる。これを改善することは、私たちの厳粛な義務である。"
  adventurers_proselytize_zealously_option.tt: "When passing through a [barony|E], you may convert a [wanderer|E] residing there to your [faith|E] and gain [piety_i][piety|E]\n#weak (Chance % equal to your [learning_i])#!"
- adventurers_proselytize_zealously_option.title: "[wanderer_to_convert.GetShortUIName] converts to [ROOT.Char.GetFaith.GetName]!"
+ adventurers_proselytize_zealously_option.title: "[wanderer_to_convert.GetShortUIName]は[ROOT.Char.GetFaith.GetName]に改宗した！"
  adventurers_gather_inspiration_option: "ひらめきを探す"
  adventurers_gather_inspiration_option_desc: "There's plenty of inspiration to find on the road — beautiful scenery, impressive landmarks, and remarkable people to meet. It truly stirs the mind's fount!"
  adventurers_gather_inspiration_option.tt: "When passing through a [barony|E], a random [follower|E] has a chance to become [inspired|E]\n#weak (Chance % equal to a sixth of your [stewardship_i])#!"

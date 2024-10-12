@@ -76,7 +76,7 @@
  ep3_emperor_yearly.8060.a: "\"Arrest the beast, I command it!\""
  ep3_emperor_yearly.8060.b: "Remind [defector.GetFirstNameNoTooltip] of loyalty's virtues."
  ep3_emperor_yearly.8060.c: "Let the dog do as [defector.GetSheHe] might."
- ep3_emperor_yearly.8060.every_title: "You gain [claims|E] on all [defector.GetTitledFirstNamePossessive] [titles|E]"
+ ep3_emperor_yearly.8060.every_title: "全ての[defector.GetTitledFirstNamePossessive]の[titles|E]への[claims|E]を得る"
  ep3_emperor_yearly.8060.defect: "[defector.GetTitledFirstName] defects"
  ep3_emperor_yearly.8060.no_defect: "[defector.GetTitledFirstName] remains loyal"
  ep3_emperor_yearly.8060.success: "You strike before [defector.GetSheHe] is ready"

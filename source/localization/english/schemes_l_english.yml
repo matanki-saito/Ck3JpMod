@@ -1,5 +1,5 @@
 ﻿l_english:
- SCHEME_AGENT_GOLD:0 "[gold_i] Bribe"
+ SCHEME_AGENT_GOLD:0 "[gold_i]買収する"
  SCHEME_AGENT_GOLD_VALID:0 "[recipient.GetShortUINameNoTooltip]に[gold_i][SCOPE.ScriptValue('bribe_value')|V0]を支払う"
  SCHEME_HOOK:1 "[hook_i][hook|e]を使う"
  SCHEME_TT_HEADER:0 "#T [SCHEME.GetFullActionName]#!"

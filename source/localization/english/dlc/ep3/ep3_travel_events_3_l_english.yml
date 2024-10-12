@@ -1,5 +1,5 @@
 ﻿l_english:
- ep3_travel_events.3000.t: "Waters of the Jordan"
+ ep3_travel_events.3000.t: "ヨルダンの水"
  ep3_travel_events.3000.desc: "Men speak only to the wondrousness of"
  ep3_travel_events.3000.israel: "the [Glossary( ''Ereṣ Yisrā'ēl', 'ERES_YISRAEL_GLOSS' )], watered by the noble River Jordan like the garden of [ROOT.Char.GetFaith.HighGodName].\n\nIn this place of miracles, I step into the waters, bathing where Elisha healed a leper, where Joshua's Israelites took the final steps towards home..."
  ep3_travel_events.3000.greek_christian: "Palestine, where every desert is a most holy [Glossary( 'eremos', 'EREMOS_GLOSS' )], every stone sacred, every stream flows to the River Jordan.\n\nStepping into that river's waters, I bathe where John the Baptist once performed his rites, where Christ himself was baptised..."

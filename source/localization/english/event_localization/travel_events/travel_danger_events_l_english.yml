@@ -60,7 +60,7 @@
  travel_danger_events.1008.a:0 "おい、[zombie.GetWomanMan]を止めろ。"
  travel_danger_events.1008.a.tt:0 "[zombie.GetFirstNameNoTooltip]はあなたの命令により殺される"
  travel_danger_events.1008.b:0 "[zombie.GetSheHe]に何ができるというのだ。"
- travel_danger_events.1008.c:0 "[zombie.GetHerHim]に来させよ。乞食1人に動じる我らでない。"
+ travel_danger_events.1008.c:0 "[zombie.GetHerHim]に来させよ。乞食一人に動じる我らでない。"
  travel_danger_events.1008.good_intentions:0 "[zombie.GetFirstNameNoTooltip]に害意はない"
  travel_danger_events.1008.bad_intentions:0 "[zombie.GetFirstNameNoTooltip]は暗い意図を持っていた"
  travel_danger_events.1009.t:0 "$travel_danger_events.1008.t$、善性"

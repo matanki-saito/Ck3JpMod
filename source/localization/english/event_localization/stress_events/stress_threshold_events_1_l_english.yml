@@ -265,7 +265,7 @@
  stress_threshold.2341.b.profligate.effect:0 "$stress_threshold.1701.d.profligate.gain$"
  stress_threshold.2341.c.comfort_eater.gain:0 "$stress_threshold.1721.g.comfort_eater.gain$"
  stress_threshold.2341.c.comfort_eater.effect:0 "$stress_threshold.1721.g.comfort_eater.effect$"
- stress_threshold.2341.c.comfort_eater.tt:0 "Your [ROOT.Char.Custom('GetCourtierPlural')|l] snicker an unpleasant nickname behind your back..."
+ stress_threshold.2341.c.comfort_eater.tt:0 "[ROOT.Char.Custom('GetCourtierPlural')|l]たちが、あなたに隠れて不愉快なあだ名で嘲笑している…"
  stress_threshold.2341.d.journaller.gain:0 "$stress_threshold.1711.e.journaller.gain$"
  stress_threshold.2341.d.journaller.effect:0 "$stress_threshold.1711.e.journaller.gain$"
  stress_threshold.2341.e.confider.gain:0 "$stress_threshold.1701.h.confider.gain$"

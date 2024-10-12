@@ -1,8 +1,8 @@
 ﻿l_english:
  became_landless_adventurer_memory:0 "Became Adventurer"
- became_landless_adventurer_memory_desc:0 "I became an adventurer"
- became_landless_adventurer_memory_desc_second_perspective:0 "you became an adventurer"
- became_landless_adventurer_memory_desc_third_perspective:0 "[owner.GetFirstName] became an adventurer"
+ became_landless_adventurer_memory_desc:0 "私は冒険者になった"
+ became_landless_adventurer_memory_desc_second_perspective:0 "あなたは冒険者になった"
+ became_landless_adventurer_memory_desc_third_perspective:0 "[owner.GetFirstName]は冒険者になった"
  became_landless_adventurer_memory_desc_conquest: "$became_landless_adventurer_memory_desc$ after [flavor_character.GetName] conquered my realm"
  became_landless_adventurer_memory_desc_conquest_second_perspective: "$became_landless_adventurer_memory_desc_second_perspective$ after [flavor_character.GetName] conquered your realm"
  became_landless_adventurer_memory_desc_conquest_third_perspective: "$became_landless_adventurer_memory_desc_third_perspective$ after [flavor_character.GetName] conquered [owner.GetHerHis] realm"

@@ -123,7 +123,7 @@
  hiding_from_epidemic: "疫病に背を向けて"
  hiding_from_epidemic_desc: "この人物は、領国で伝染病が猛威を振るう間は、引き籠もってやり過ごす。"
  sachet_protection: "守りの小袋"
- sachet_protection_desc: "The sachet of fragrant herbs this character keeps on their person may not actually protect them against disease, but it certainly makes them and those nearby #EMP feel#! safer."
+ sachet_protection_desc: "この人物の持つ香りのよいハーブの小袋は実際に病気から護るわけではないかもしれませんが、#EMP 気休め#!としてはなかなかのものです。"
  overly_fragrant: "強すぎる香り"
  overly_fragrant_desc: "この人物が何袋もの薬草を過剰に塗りたくったところで、実際に病気から身を守ろうことはできないかもしれないが――たとえ手近な人々の目を潤ませるという代償を払ったとしても——#EMP 彼ら#!の気分を上々にするのは確かだ。"
  ce1_legendary_feaster: "伝説の饗宴者"

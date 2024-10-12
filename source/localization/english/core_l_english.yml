@@ -822,7 +822,7 @@
  TRAIT_FLAG_DESC_immortal_visuals: "見た目の老化は起こらない"
  TRAIT_FLAG_DESC_immortal_fertility: "[fertility|E]は[character|E]の見た目の年齢に左右される。"
  TRAIT_FLAG_DESC_immortal_incapability: "[GetTrait('incapable').GetName( GetNullCharacter )]になることはない"
- RESOURCE_MISSING_INFLUENCE: "@warning_icon!#X [influence_i]$VALUE|^$の消失#!"
+ RESOURCE_MISSING_INFLUENCE: "@warning_icon!#X [influence_i]$VALUE|^$の不足#!"
  BREAKDOWN_FORMAT_SCHEME_SECRECY_PERCENTAGE: "$KEY$：@scheme_secrecy_icon!$VALUE|=+0%/$"
  MUSIC_PLAYER_VOLUME_VALUE: "[MusicPlayer.GetVolumeString]"
  MUSIC_PLAYER_SETTING_MUSIC_DENSITY_VALUE: "[MusicPlayer.GetMusicDensityString]"

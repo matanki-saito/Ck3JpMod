@@ -19,7 +19,7 @@
  ep3_travel_events.8010.desc: "[location.GetName]を進んでいると、一般の墓群の中に精巧に装飾された墓が目に留まる。その墓はひび割れて開いており、隙間から何か未知の宝物がかすかに輝いて見える。\n\n周囲には私の一行以外誰もおらず、この墓のかつての所有者は、使われることなく放置される品々を私が取ることに対して咎めることもないだろう。"
  ep3_travel_events.8010.a: "誰にも気づかれることはないだろう。"
  ep3_travel_events.8010.a.win: "邪魔されることなく、いくつか副葬品をくすねる"
- ep3_travel_events.8010.a.lose: "あなたが率いる一段は捕縛された。"
+ ep3_travel_events.8010.a.lose: "あなた達は見つかる"
  ep3_travel_events.8010.b: "私は死者を冒涜することはしない！"
  soulmate_laamp_adventure: "[CHARACTER.GetShortUIName|U] had a chance encounter with [TARGET_CHARACTER.GetShortUIName] on an adventure and fell deeply in love."
  soulmate_laamp_adventure_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] had a chance encounter with [CHARACTER.GetShortUIName] on an adventure and fell deeply in love."

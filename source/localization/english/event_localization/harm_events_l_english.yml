@@ -152,7 +152,7 @@
  harm.0561.c.tt.success:0 "$harm.0000.tt.incapable.success$"
  harm.0561.c.tt.failure:0 "$harm.0000.tt.incapable.failure$"
  harm.0562.t:0 "$harm.0561.t.prefix$: 成長する危うさ"
- harm.0562.desc:0 "寝室から階段を降りると、私は壁を握りしめて動けなくなった…\n\nこれは...これは簡単なはず。しかし、それはとても難しく感じてしまう。今なんだか、狭い階段は永遠そのもののように私の前に伸びているように感じる…\n\nいや、いや。ちょっとビビってるだけ。私は#EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!だ、[ROOT.Char.Custom('GetRoom')|l]を出ることぐらい、なんてことない！"
+ harm.0562.desc:0 "寝室から階段を降りると、私は壁を握りしめて動けなくなった…\n\nこれは…これは簡単なはず。しかし、それはとても難しく感じてしまう。今なんだか、狭い階段は永遠そのもののように私の前に伸びているように感じる…\n\nいや、いや。ちょっとビビってるだけ。私は#EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!だ、[ROOT.Char.Custom('GetRoom')|l]を出ることぐらい、なんてことない！"
  harm.0562.a:0 "困ったぞ。"
  harm.0562.a.tt:0 "#WEAK 気づくのが遅すぎましたね？#!"
  harm.0571.t.prefix:0 "必要な修練"

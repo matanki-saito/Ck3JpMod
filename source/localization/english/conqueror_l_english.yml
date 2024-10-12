@@ -11,7 +11,7 @@
  conqueror.0002.debt_level: "「[root_scope.GetSheHe|U]のせいで[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]は滅茶苦茶だ！」臣下たちは嘲るように言った。「[ROOT.Char.GetTitleAsNameNoTooltip]のせいで、国庫は完全に空っぽだ！」"
  conqueror.0002.lost_wars: "「[ROOT.Char.GetTitleAsNameNoTooltip]は弱い。」臣下たちの声が響き渡った。「[root_scope.GetSheHe|U]は戦争で負け続きだ。こんな無能な指揮官についていけるか！」"
  conqueror.0002.independence: "「#EMP 真の#!征服者は他者の前にひれ伏すようなことはしない」私の臣下たちは、声を潜めながら私の悪口を言い合っている。「彼は本当に弱い。それ以上でもそれ以下でもない。」"
- conqueror.0002.incapable: "「[root_scope.GetHerHis|U]は正気を失ったようだ。我々の指導者は居なくなってしまった。」臣下達がひそひそと話している。「もう十分だ...」"
+ conqueror.0002.incapable: "「[root_scope.GetHerHis|U]は正気を失ったようだ。我々の指導者は居なくなってしまった。」臣下達がひそひそと話している。「もう十分だ…」"
  conqueror.0002.count: "「[root_scope.GetFirstName]、単なる[ROOT.Char.GetTitleAsNameNoTooltip]に過ぎない…哀れなものだ！」私の臣下たちはひそひそと話している。「あの称号には何の価値もない、我々は貧乏人などではなく——王に従いたいのだ！」"
  conqueror.0002.outro: "その言葉が胸に突き刺さる。\n\n私の征服事業は終わったようだ。今のところはな。"
  conqueror.0002.a: "そんなうまい話があるわけなかったんだ…"

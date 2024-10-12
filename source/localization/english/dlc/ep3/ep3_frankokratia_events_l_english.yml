@@ -49,7 +49,7 @@
  franko_emp_crusade_tooltip: "@warning_icon!#X [byz_claimant_champion.GetShortUIName]は[byz_claimant.GetShortUIName]の代理として[byz_emperor.GetShortUIName]に対する#high $CRUSADING_CLAIM_CB_NAME$#!を指揮するでしょう#!"
  byz_empire__destroyed_tooltip: "@warning_icon!#X [GetTitleByKey('e_byzantium').GetName|U]は破棄されることになるかもしれません！#!"
  ep3_frankokratia_events.0005.opening: "反抗的なる我が子へ"
- ep3_frankokratia_events.0005.desc: "[claimant.GetName]を帝位に就かせることは、もはや望めなくなった。\n\nギリシア人の虚飾を夢見るのはやめにせよ。反抗することなく、ただ懺悔を求めなさい。かつてあなたを神聖なる神の使命から脱落させた大義名分は、すべからくして不恰好な終わりを遂げたのだ。"
+ ep3_frankokratia_events.0005.desc: "[claimant.GetName]を帝位に就かせることは、もはや望めなくなった。\n\nギリシア人の虚飾を夢見るのはやめにせよ。反抗することなく、ただ懺悔を求めなさい。かつてあなたを神聖なる神の使命から脱落させた大義名分は、しかるべくして不恰好な終わりを遂げたのだ。"
  ep3_frankokratia_events.0005.a: "[ROOT.Char.GetFaith.HighGodName]はギリシア人の暴政を愛しておられるのだろう…"
  frankokratia_story_ends_tooltip: "[GetFaithByKey('catholic').GetAdjective]の十字軍による[GetTitleByKey('e_byzantium').GetName|U]への攻撃は中止されました"
  ep3_frankokratia_events.0020.t: "無道なる者に対して"
