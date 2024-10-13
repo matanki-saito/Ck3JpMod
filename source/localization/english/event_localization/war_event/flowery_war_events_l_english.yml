@@ -14,5 +14,5 @@
  human_sacrifice_coward_modifier_desc:0 "この人物は神の前にひれ伏し弁解することで知られている。"
  flowery_war_cb_ended_invalid.t:0 "戦争の無効化"
  flowery_war_cb_ended_invalid.desc_other_sacrifices_attacker:0 "[war.GetName]は終了しました: どこか他所で供物を獲得しました。"
- flowery_war_cb_ended_invalid.desc_other_sacrifices_defender:0 "[war.GetName]は終了しました: [attacker.GetShortUIName]]はどこか他所で相応の供物を獲得しました。"
+ flowery_war_cb_ended_invalid.desc_other_sacrifices_defender:0 "[war.GetName]は終了しました: [attacker.GetShortUIName]はどこか他所で相応の供物を獲得しました。"
  flowery_war_cb_ended_invalid.desc_no_sacrificers:0 "[war.GetName]は終了しました: 主要参加国は両国とも公然と人身御供をすることはありません。"

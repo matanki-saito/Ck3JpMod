@@ -78,7 +78,7 @@
  create_cadet_branch_decision_desc:0 "我々の一族は[ROOT.Char.GetHouse.GetNameNoTooltip]家の遺産を放棄し、私を偉大な王朝のこの新しい家系の長として、歴史の中で独自の道を切り開く時が来たのかもしれぬ。"
  create_cadet_branch_decision_confirm:0 "分家の創設"
  I_CREATE_CADET_BRANCH_DECISION_SUCCESSION_LINE:1 "あなたの[house_head|E]がもつ[titles|E]のいずれか一つにおいて、あなたの継承順位が第三位以内である"
- I_NOT_CREATE_CADET_BRANCH_DECISION_SUCCESSION_LINE:1 "あなたの[house_head|E]がもつ[titles|E]のいずれか一つにおいて、あなたの継承順位が第3位以内では#bold ない#!"
+ I_NOT_CREATE_CADET_BRANCH_DECISION_SUCCESSION_LINE:1 "あなたの[house_head|E]がもつ[titles|E]のいずれか一つにおいて、あなたの継承順位が第三位以内では#bold ない#!"
  I_CREATE_CADET_BRANCH_DECISION_ANCESTOR_IN_HOUSE:1 "あなたの祖先の一人が現在の[house|E]に属している"
  I_NOT_CREATE_CADET_BRANCH_DECISION_ANCESTOR_IN_HOUSE:2 "あなたの存命である祖先は現在の[house|E]に属していない"
  created_cadet_branch_toast_new_house_desc:2 "新しい家"

@@ -41,7 +41,7 @@
  duchy_icon:0 "@duchy_icon!"
  kingdom_icon:0 "@kingdom_icon!"
  empire_icon:0 "@empire_icon!"
- in_line_of_succession_short_current_situation:0 "#low (継承順位　第[ROOT.Char.GetPlaceInSuccession(second.GetPrimaryTitle)]位)#!"
+ in_line_of_succession_short_current_situation:0 "#low (継承順位 第[ROOT.Char.GetPlaceInSuccession(second.GetPrimaryTitle)]位)#!"
  in_line_of_succession_long_current_situation:0 "[ROOT.Char.GetSheHe|U]は、あなたの[titles|E]の継承順位　第[ROOT.Char.GetPlaceInSuccession(second.GetPrimaryTitle)]位に位置しています。"
  title_tier_crown_current_situation:0 "[ROOT.Char.Custom('GetPrimaryTitleTierIcon')]"
  in_realm_current_situation:0 "#P (あなたの領国外)#!"

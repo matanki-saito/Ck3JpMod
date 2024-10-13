@@ -165,7 +165,7 @@
  yearly.1043.a.tt:0 "[suspicious.GetTitledFirstName]が何を隠していたのかはわかりませんでした。"
  yearly.1044.t:0 "感謝のしるし"
  yearly.1044.start.desc:0 "[suspicious.GetTitledFirstNamePossessive]の唇には、いたずらっぽい笑みが浮かんでいる。「最近おかしなことをしていたのは承知しています、申し訳ありませんでした。でもちゃんとした理由があったのです！」\n\n"
- yearly.1044.friend.desc:0 "[suspicious.GetFirstNameNoTooltip] gestures for me to follow, and leads me outside. Sat on [secret_friend.GetHerHis] horse and dressed for travel is [secret_friend.GetTitledFirstName]!\n\n\"I have arranged a little trip for the two of you!\" [suspicious.GetFirstNameNoTooltip] says excitedly. \"I thought you could use some quality time together!\""
+ yearly.1044.friend.desc:0 "[suspicious.GetFirstNameNoTooltip]は私についてくるように合図すると、私を屋外に案内する。[secret_friend.GetHerHis]の馬に乗って旅の格好をしているのは[secret_friend.GetTitledFirstName]だ！\n\n「お二人のためにちょっとした旅行を用意しました！」[suspicious.GetFirstNameNoTooltip]は興奮して言う。「あなたには一緒に過ごす時間を大切にしてほしいと思いまして！」"
  yearly.1044.gift.desc:0 "[suspicious.GetFirstNameNoTooltip]は、色とりどりのリボンで飾られた、綺麗に包装された贈り物を手渡してくれる。「あなたを驚かせたかったのです。特注で作ってもらいました、こんなのは世界に一つです。さあ開けてみてください！」"
  yearly.1044.feast.desc:0 "[suspicious.GetFirstNameNoTooltip]は、私についてくるように合図をして、大広間へと案内する。[suspicious.GetSheHe]がドアを押すと、誰かが陽気な曲を演奏し始める。ああ…飾り付けも、匂いも！そして、みんなもいる！\n\n「祝宴です、あなたに敬意を表して！さあ、[ROOT.Char.Custom('RegionalDrink')]のカップを手に取ってください！」"
  yearly.1044.a:0 "ありがとう、[suspicious.GetFirstNameNoTooltip]！"

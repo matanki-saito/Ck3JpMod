@@ -1512,7 +1512,7 @@
  RELEASE_TAKE_VOWS_INVALID_NOT_YOUR_COURT: "[TARGET_CHARACTER.GetShortUIName|U] is #bold not#! part of your [CHARACTER.Custom('GetCourtType')]. To demand $RELEASE_TAKE_VOWS$, you must first $RELEASE_RECRUIT$ them."
  RELEASE_BYZ_TAKE_VOWS_INVALID: "[TARGET_CHARACTER.GetShortUIName|U] is #bold not#! part of your [CHARACTER.Custom('GetCourtType')], your [vassal|E] nor your [rival|E]."
  invite_agent_to_scheme_interaction.invite_agent: "Invite to Scheme"
- invite_agent_to_scheme_interaction.order_follower: "Order to Task"
+ invite_agent_to_scheme_interaction.order_follower: "任務を命じる"
  invite_agent_to_scheme_interaction.t.options_header: "Enticements"
  EXECUTION_KENNEL:0 "犬の餌にする"
  EXECUTION_PROVISIONS: "食肉に加工する"

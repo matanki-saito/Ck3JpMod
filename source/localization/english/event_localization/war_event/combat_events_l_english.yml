@@ -37,7 +37,7 @@
  combat_event.1006.pow_toast.desc:2 "[combat_winner.GetTitledFirstName]は、[combat_location.GetName]の[battle|E]の後、[valuable_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)]を捕らえ[prisoner_of_war|E]とした！"
  combat_event.1007.pow_toast.t:0 "$combat_event.1005.pow_toast.t$"
  combat_event.1007.pow_toast_primary.t:0 "敵の戦争指導者が捕らえられる"
- combat_event.1007.pow_toast.desc:1 "[combat_winner.GetTitledFirstName]は[combat_location.GetName]の[battle|E]の後、[valuable_prisoner.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)]]を捕らえ[prisoner_of_war|E]とした！"
+ combat_event.1007.pow_toast.desc:1 "[combat_winner.GetTitledFirstName]は[combat_location.GetName]の[battle|E]の後、[valuable_prisoner.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)]を捕らえ[prisoner_of_war|E]とした！"
  combat_event.1007.pow_toast.desc.primary:2 "[combat_winner.GetTitledFirstName]は[combat_location.GetName]の[battle|E]の後、あなたの宿敵[valuable_prisoner.GetTitledFirstName]を捕らえ[prisoner_of_war|E]としました！"
  combat_event.1012.slain_message.t:0 "敵の戦闘員が殺害される"
  combat_event.1012.slain_message.desc.single:3 "あなたの軍勢が[primary_deceased.Custom2('YourCharacterIntroduction', ROOT.Char)|U]を"

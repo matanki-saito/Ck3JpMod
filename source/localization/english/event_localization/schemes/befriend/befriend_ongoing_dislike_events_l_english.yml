@@ -31,7 +31,7 @@
  befriend_ongoing_dislike.5001.b:0 "なんとかしなければ。"
  befriend_ongoing_dislike.5001.c:0 "私が心に抱く疑問なんて、やっぱり誰も気にしない！"
  befriend_ongoing_dislike.5002.t:0 "親善: 信頼と不信"
- befriend_ongoing_dislike.5002.desc:0 "もし[target.GetSheHe]が私の誠実な試みをただ信じてくれたら、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]からもっと気に入られるのはとても簡単だろうに！だが代わりに、[target.GetSheHe]]は私を嘲笑い、私が親切によって何を得ようとしているか疑問に感じているようだ。"
+ befriend_ongoing_dislike.5002.desc:0 "もし[target.GetSheHe]が私の誠実な試みをただ信じてくれたら、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]からもっと気に入られるのはとても簡単だろうに！だが代わりに、[target.GetSheHe]は私を嘲笑い、私が親切によって何を得ようとしているか疑問に感じているようだ。"
  befriend_ongoing_dislike.5002.a:0 "しつこいようだが、私という人間について嘘はつかない。"
  befriend_ongoing_dislike.5002.b:0 "うーん、はい、たぶん何かを得ようとしてる…"
  befriend_ongoing_dislike.5003.t:0 "親善: 落ち込む"

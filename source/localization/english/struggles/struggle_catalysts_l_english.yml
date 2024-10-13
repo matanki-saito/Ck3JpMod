@@ -138,7 +138,7 @@
  catalyst_interloper_uninvolved_gain_struggle_vassals: "[struggle_interloper|E]か[struggle_uninvolved|E]の[ruler|E]に[vassal|E]を取られる[struggle_catalyst_catalyst|E]"
  catalyst_interloper_uninvolved_gain_struggle_vassals_desc: "[struggle_interloper|E]か[struggle_uninvolved|E]の[ruler|E]に[struggle_involved|E]の[vassal|E]に取られる"
  catalyst_interloper_uninvolved_gain_struggle_titles: "[struggle_involved|E]に[title|E]を取られる[struggle_catalyst_catalyst|E]"
- catalyst_interloper_uninvolved_gain_struggle_titles_desc: "[struggle_region|E]内の[title|E]を[struggle_interloper|E]または[struggle_uninvolved|E]の[ruler|E]び奪われた"
+ catalyst_interloper_uninvolved_gain_struggle_titles_desc: "[struggle_region|E]内の[title|E]を[struggle_interloper|E]または[struggle_uninvolved|E]の[ruler|E]に奪われた"
  catalyst_declare_any_war_within_the_region: "[war|E]を開始した[struggle_catalyst_catalyst|E]"
  catalyst_supporter_win_unfair_war_within_the_region: "$catalyst_win_any_war_within_the_region$"
  catalyst_supporter_win_unfair_war_within_the_region_desc: "[GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )]であり[struggle_involved|E]の[ruler|E]（自分未満の[title_tier|E]）との[war|E]に勝つ"

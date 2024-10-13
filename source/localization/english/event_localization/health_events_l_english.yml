@@ -41,7 +41,7 @@
  health.1002.a:0 "どうか、これで終わりにしないで下さい！"
  health.1003.t:1 "[SCOPE.Custom('EventTitleDisdease')]: The Price of Indulgence"
  health.1003.desc:0 "They call it \"the disease of kings\" as if there was something luxurious or enviable about my swollen, aching joints.\n\nMy big toe in particular is painfully distended, leaving me limping.\n\nWhen my pains reach their peak, I cannot help but wish I was but a simple peasant."
- health.1003.court_physician.desc:0 "\n\nMy physician, [physician.GetFirstName], sets down some salves beside me. \"You have my sympathies, my [ROOT.Char.GetLadyLord]. I have a few ideas which might lessen the symptoms of your gout.\""
+ health.1003.court_physician.desc:0 "\n\n 侍医の[physician.GetFirstName]が私の側に軟膏を置く。「心中お察し申し上げます、我が[ROOT.Char.GetLadyLord]。私めには、あなた様の痛風のご症状をお軽くするために二、三の考えがございます。」"
  health.1003.a:0 "軟膏を取ってきてくれ！早く！"
  health.1004.t:1 "[SCOPE.Custom('EventTitleDisease')]: 視線そらして"
  health.1004.desc:0 "最初の症状は軽微だったので、すぐに頭から出してしまった。怖くて真実を見られなかったのかもしれない。でも、この顔の恐ろしい痕、この病変は…もはや無視することはできない\n\n[ROOT.Char.Custom('GetCourtierPlural')|l]はまだ私の命令に従っているが、私を見る目が変わったのがわかる。目に映るのは恐怖か？哀れみか？嫌悪感？"

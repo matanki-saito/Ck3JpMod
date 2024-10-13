@@ -964,7 +964,7 @@
  ep3_decisions_event.6002.a: "We are free."
  trait_populist_leader: "人民の星"
  trait_populist_leader_desc: "この人物は自分の民の独立を勝ち取るために戦い、権力の座に就いた。"
- trait_populist_leader_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は自分の民の独立を勝ち取るために戦い、権力の座に就いた。"
+ trait_populist_leader_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は自分の民の独立を勝ち取るために戦い、権力の座に就かんとしている。"
  ep3_master_todor_modifier: "Local Icon"
  ep3_master_todor_modifier_desc: "This character is admired by their people for their resistance to surrender their culture."
  legitimize_latin_dominion_decision: "ラテン人による支配の正当化"

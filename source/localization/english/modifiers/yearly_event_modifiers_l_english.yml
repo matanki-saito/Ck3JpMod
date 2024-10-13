@@ -41,6 +41,6 @@
  useful_herbs_desc:0 "この人物は、さまざまな種類の薬草を栽培している。それらはきっと役に立つはずだ。"
  7051_repentance_modifier: "懺悔"
  7051_repentance_modifier_desc: "この人物は懺悔した。"
- MODIFIER_DEFINITION_VALUE_BASED_ON_KILL_LIST: "#weak 殺された人物ごとに増加（最大#V 4#!段階）#!"
+ MODIFIER_DEFINITION_VALUE_BASED_ON_KILL_LIST: "\t#weak 殺された人物ごとに増加（最大#V 4#!段階）#!"
  7053_scratched_modifier: "引っかき傷"
  7053_scratched_modifier_desc: "この人物には、説明のつかない傷がある。"
