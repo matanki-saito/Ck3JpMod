@@ -1,6 +1,6 @@
 ﻿l_english:
  hold_court.8001.t:0 "商業の抑圧"
- hold_court.8001.desc:0 "A provincial merchant steps forward, clearly out of [merchant.GetHerHis] element in my rich halls. I beckon, \"Come [merchant.GetWomanMan], we don't have all day.\" \n\n\"Y-yes my [ROOT.Char.GetLadyLord]!\" [merchant.GetSheHe] stammers, \"I am [merchant.GetFirstName], representing the disgruntled traders and freemen of [town.GetNameNoTier], [town.GetDeJureLiege.GetNameNoTierPossessive] greatest [town.GetTierAsNameNoTooltip].\" \n\n\"[mayor.GetFirstName], our [mayor.GetTitleTierName], [mayor.Custom('get_hold_court_8001_flaw')]–we humbly ask [mayor.GetSheHe] be replaced by someone else...\""
+ hold_court.8001.desc:0 "一人の田舎の商人が前に進み出る。明らかに私の豪奢な広間に勝手が違う様子だ。私は手招きする。「来い、時間がないぞ。」\n\n「は、はい、我が[ROOT.Char.GetLadyLord]！」と、どもりながら言う。「私は[merchant.GetFirstName]と申します、[town.GetDeJureLiege.GetNameNoTierPossessive]最大の[town.GetTierAsNameNoTooltip][town.GetNameNoTier]にて不満を抱える交易商および自由民を代表して参りました。」\n\n「我々の[mayor.GetTitleTierName][mayor.GetFirstName]は[mayor.Custom('get_hold_court_8001_flaw')]——他の誰かに置き換えていただくよう、伏してお願い申しあげます…」"
  hold_court.8001.a:0 "[town.GetBaseNameNoTierPossessiveNoTooltip]の選挙が早くやってくるだろう。"
  hold_court.8001.b:0 "よろしい、#EMP お前が#!新しい[mayor.GetTitleTierName]になるべきだ！"
  hold_court.8001.b.tt_success:0 "[merchant.GetFirstNameNoTooltip]は[town.GetBaseNameNoTierNoTooltip]にとって適切だ"

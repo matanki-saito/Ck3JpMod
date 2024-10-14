@@ -7,7 +7,7 @@
  learning_medicine.2001.b:0 "一輪の珍しき花は[flower_receiver.GetFirstNamePossessiveNoTooltip]の一日を輝かしく彩るであろう。"
  learning_medicine.2001.c:0 "[herbalist.GetSheHe|U]は、聖なるハーブのために薬草園を作ってくれるだろう。"
  learning_medicine.2001.d:1 "土や草いじりで無駄にする時間などない。"
- learning_medicine.2001.d.chaplain_hates_herbs:0 "この件につては [chaplain_hates_herbs.GetCouncilTitle][chaplain_hates_herbs.GetNamePossessiveNoTooltip]の判断を信じる。"
+ learning_medicine.2001.d.chaplain_hates_herbs:0 "この件については [chaplain_hates_herbs.GetCouncilTitle][chaplain_hates_herbs.GetNamePossessiveNoTooltip]の判断を信じる。"
  learning_medicine.2002.start.desc:0 "私は[herbalist.GetFirstName]と夜遅くまで過ごし、薬草を分類したり秘薬を醸したりしていた。[herbalist.GetHerHis]の古びた稀覯書を見つけては読みすすめたりした。"
  learning_medicine.2002.chaplain_hates_herbs.desc:0 "その文章を読めば、[chaplain_hates_herbs.GetCouncilTitle][chaplain_hates_herbs.GetFirstName]は口から泡を吹いて怒り出すだろう！"
  learning_medicine.2002.not_witchcraft_accepted.desc:0 "その文章を読めば[ROOT.Char.Custom('DefaultPriestTitlePlural')]は口から泡を吹いて怒り出すだろう！"

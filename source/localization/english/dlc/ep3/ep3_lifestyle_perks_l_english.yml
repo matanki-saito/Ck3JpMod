@@ -8,5 +8,5 @@
  court_of_shadows_perk_bonus: "$court_of_shadows_perk_name$： #P +[EmptyScope.ScriptValue('court_of_shadows_perk_admin_percentage')|0]%#!"
  admin_court_of_shadows_perk_effect_first: "[political_schemes|E]の最大 [success_chance|E]：[success_chance_max_i]#P +[EmptyScope.ScriptValue('court_of_shadows_perk_admin_percentage')|0]%#!"
  cheaper_change_state_faith_cost_effect_first: "$change_state_faith$ コスト： #P -[EmptyScope.ScriptValue('admin_state_faith_cost_perk_value')|0%]#!"
- admin_friendly_counsel_perk_effect_first: "You can request [GetPlayer.Custom('GetProvincialArmiesConcept')] from [friends|E]"
- admin_mortal_adoration_perk_effect_first: "You can request [GetPlayer.Custom('GetProvincialArmiesConcept')] from [lovers|E]"
+ admin_friendly_counsel_perk_effect_first: "[friends|E]から[GetPlayer.Custom('GetProvincialArmiesConcept')]を要請する"
+ admin_mortal_adoration_perk_effect_first: "[lovers|E]から[GetPlayer.Custom('GetProvincialArmiesConcept')]を要請する"

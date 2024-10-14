@@ -53,7 +53,7 @@
  ep3_laamps.8070.desc: "野営地の外をさまよっていると、森の中にさまざまな色とりどりの木の実が茂みを彩っている開けた場所に出くわした。それはこれまで見たことのないもので、非常に美味しそうで魅力的に見えた。私の仲間たちなら、すべて摘み取るのに一時間もかからないだろう。\n\nこれらは[ROOT.Char.GetFaith.CreatorName|U]からの切に必要な贈り物なのか、それとも[ROOT.Char.GetFaith.TricksterGodName|U]からの試練なのか？"
  ep3_laamps.8070.a: "これを見たら[forager.GetFirstNameNoTooltip]はどう思うだろうか。"
  ep3_laamps.8070.b: "ああ、これは果物だな！"
- ep3_laamps.8070.c: "腹ペコだからといって命を危険に晒すわけにはいかん。"
+ ep3_laamps.8070.c: "人生は冒険だ。腹を満たすのもな。"
  ep3_laamps.8070.c.win: "おいしい果物！"
  ep3_laamps.8070.c.lose: "毒じゃないか…"
  ep3_laamps.8070.d: "こんなものがなくても生きていける。"

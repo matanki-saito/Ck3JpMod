@@ -36,7 +36,7 @@
  tour_travel.3007.a:0 "すぐに帰らなければ。"
  tour_travel.3007.b:0 "私も参加しようかな。"
  tour_travel.3010.t:0 "地元の偉人"
- tour_travel.3010.desc:0 "[shrine_province.Custom('GetProvinceGroundDesc')]を踏みしめながら[shrine_province.Custom('GetTerrainTypePlural')]を進むと、やや散らかった社を見つけた。素朴に彫られ、頭には[shrine_province.GetCounty.GetFaith.ReligiousSymbol]が描かれており、その下には風化した文字が刻まれている:\n\n#EMP 「聖[shrine_province.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTierNoTooltip]の[saint_name.GetFirstNameNoTooltip]、祝福されし[shrine_province.GetNameNoTooltip]の[saint_name.Custom('GetDaughterSon')]、ここに眠る」#!\n\n聖[saint_name.GetFirstNameNoTooltip]？[shrine_province.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTierNoTooltip]の？この辺りでは地元の霊能者が慕われているようだが、その信仰は[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の[ROOT.Char.GetFaith.AltPriestTermPlural]には許されていない…"
+ tour_travel.3010.desc:0 "[shrine_province.Custom('GetProvinceGroundDesc')]を踏みしめながら[shrine_province.Custom('GetTerrainTypePlural')]を進むと、やや散らかった社を見つけた。素朴に彫られ、頭には[shrine_province.GetCounty.GetFaith.ReligiousSymbol]が描かれており、その下には風化した文字が刻まれている:\n\n#EMP 「[shrine_province.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTierNoTooltip]の聖[saint_name.GetFirstNameNoTooltip]、祝福されし[shrine_province.GetNameNoTooltip]の[saint_name.Custom('GetDaughterSon')]、ここに眠る」#!\n\n聖[saint_name.GetFirstNameNoTooltip]？[shrine_province.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTierNoTooltip]の？この辺りでは地元の霊能者が慕われているようだが、その信仰は[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の[ROOT.Char.GetFaith.AltPriestTermPlural]には許されていない…"
  tour_travel.3010.a:0 "異端信仰など壊してしまえ！"
  tour_travel.3010.b:0 "「聖[saint_name.GetFirstNameNoTooltip]」…良い響きだ。"
  tour_travel.3010.c:0 "先を急いだほうが良いだろう。"

@@ -975,7 +975,7 @@
  tournament_versus_contest_implement_weapon:0 "武器"
  tournament_versus_contest_implement_hand:0 "手"
  tournament_versus_contest_implement_piece:0 "駒"
- tournament_chant_positive_1:0 "それはたった1人、[ROOT.Char.GetFullName][ROOT.Char.GetFullName]\nそれは[ROOT.Char.GetFullName]だあっ！"
+ tournament_chant_positive_1:0 "それはたった一人、[ROOT.Char.GetFullName][ROOT.Char.GetFullName]\nそれは[ROOT.Char.GetFullName]だあっ！"
  tournament_chant_positive_2:0 "ふたつの聖戦とひとつのゴブレット\nドゥーダー\nドゥーダー！"
  tournament_chant_positive_3:0 "立ち上がれ\nもし戦争に勝ったら！\n立ち上がれ\nもし戦争に勝ったら！"
  tournament_chant_positive_4:0 "[ROOT.Char.GetShortUINamePossessive]に火がついた\n決闘相手は怯えている！\n[ROOT.Char.GetShortUINamePossessive]に火がついた\n決闘相手は怯えている！"

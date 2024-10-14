@@ -147,7 +147,7 @@
  stress_threshold.2101.hashishiyah.effect:1 "少なくともハシシののったケーキは私を裁いたりはしない。"
  stress_threshold.2101.endure:0 "これはすべて気のせいかもしれない…"
  stress_threshold.2201.t:0 "精神崩壊: 沸き起こる怒り"
- stress_threshold.2201.desc.insult:0 "\"You might be a [character_to_yell_at.GetTitleAsName], [character_to_yell_at.GetFirstName], but you are also [character_to_yell_at.Custom('InsultAdjectiveArticle')] [character_to_yell_at.Custom('InsultNoun')]!\"\n\n"
+ stress_threshold.2201.desc.insult:0 "「[character_to_yell_at.GetFirstName]！あなたは[character_to_yell_at.GetTitleAsName]だとしても、[character_to_yell_at.Custom('InsultAdjectiveArticle')][character_to_yell_at.Custom('InsultNoun')]でもある！」\n\n"
  stress_threshold.2201.desc:0 "私は[ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('character_to_yell_at'))]の顔を見て思わず口ごもってしまう、だが…私はいつも#EMP 怒り#!を感じており、皆が私の怒りを招いている——\n\n"
  stress_threshold.2201.desc_liege:0 "「何を勘違いしているのだ、[ROOT.Char.GetTitledFirstNameNoTooltip]！？このような行為は許されない。"
  stress_threshold.2201.desc_vassal:0 "「我が主君、この行動に何の意味があるのです！？"

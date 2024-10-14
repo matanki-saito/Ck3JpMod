@@ -112,7 +112,7 @@
  bp2_adult_education.1011.d.failure: "自分は思っていたより馬鹿だったらしい"
  bp2_adult_education.1011.d.failure.tt: "典礼言語を習得出来なかった"
  bp2_adult_education.1012.t: "先生の話す言葉"
- bp2_adult_education.1012.desc: "[teacher.GetFirstName|U]は[location.GetBaronyNameExplicitly]で最も尊敬を集めている教授の1人であるが、異郷の人であることもまた確かだ。それはアクセントや仕草に現れており、[teacher.GetCulture.GetName]のものでは無いかと思われる。\n\n必ずしも必須とは思えないが、とはいえ[teacher.GetHerHis]の母国語を学ぶことは[teacher.GetFirstNameNoTooltip]との特権的な関係を築くことに繋がり、将来的な良い投資となるだろう。"
+ bp2_adult_education.1012.desc: "[teacher.GetFirstName|U]は[location.GetBaronyNameExplicitly]で最も尊敬を集めている教授の一人であるが、異郷の人であることもまた確かだ。それはアクセントや仕草に現れており、[teacher.GetCulture.GetName]のものでは無いかと思われる。\n\n必ずしも必須とは思えないが、とはいえ[teacher.GetHerHis]の母国語を学ぶことは[teacher.GetFirstNameNoTooltip]との特権的な関係を築くことに繋がり、将来的な良い投資となるだろう。"
  learned_language_of_teacher_log: "[CHARACTER.GetTitledFirstName|U]は教授の1人の母国語を習得した"
  learned_language_of_teacher_log_title: "先人の言語を学んだ"
  bp2_adult_education.1012.a: "これは学士との密接な関係に繋がるだろう！"

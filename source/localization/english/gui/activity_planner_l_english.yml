@@ -76,7 +76,7 @@
  GOVERNMENT_ADJECTIVE: "[Character.GetGovernment.GetAdjective]"
  GOVERNMENT_ADJECTIVE_ICON: "[Character.Custom('GetGovernmentIcon')][Character.GetGovernment.GetAdjective]の[realm|E]"
  GOVERNORSHIP_TOOLTIP: "[ROOT.Char.GetVassalContract.GetTextIconObligationLevelNameWithHighlightFor( 'administrative_themes' )][SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE', '' )]の[governorship|E]"
- VASSAL_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]、[vassal|E]"
+ VASSAL_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]（[vassal|E]）"
  REALM_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]"
  activity_filter_domicile_blocker: "@warning_icon!#X [Province.GetBaronyNameExplicitlyNoTooltip]はあなたの[domicile|E]では#bold ない#!#!"
  activity_filter_domicile_domain_blocker: "@warning_icon!#X [Province.GetBaronyNameExplicitlyNoTooltip]はあなたの[domicile|E]または[domain|E]では#bold ない#!#!"

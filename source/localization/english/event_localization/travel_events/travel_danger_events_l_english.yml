@@ -25,7 +25,7 @@
  travel_danger_events.1002.d:0 "金ならやるから案内してくれと言ったらどうなる？"
  travel_danger_events.1002.e:0 "この場所はだな…"
  travel_danger_events.1003.t:1 "$travel_danger_prefix$濡れた底"
- travel_danger_events.1003.desc:0 "私たちは[current_location.GetName]の沼地を慎重に歩まなければならないことを知っている。この不気味な場所は人を芯まで不安にさせ、守るべき無数の危険に満ちている。側近はそれに応じたあらゆる予防措置を講じるのが役目だが…\n\nふと列の頭から振り返って、私は仲間を数えてみる…\n\n#EMP 1人減っているではないか！#!"
+ travel_danger_events.1003.desc:0 "私たちは[current_location.GetName]の沼地を慎重に歩まなければならないことを知っている。この不気味な場所は人を芯まで不安にさせ、守るべき無数の危険に満ちている。側近はそれに応じたあらゆる予防措置を講じるのが役目だが…\n\nふと列の頭から振り返って、私は仲間を数えてみる…\n\n#EMP 一人減っているではないか！#!"
  travel_danger_events.1003.a:0 "旅の世話役の[travel_leader.GetFirstNameNoTooltip]に命じて捜索させる。"
  travel_danger_events.1003.b.success:0 "見つけた！"
  travel_danger_events.1003.b.success.desc:0 "[missing_companion.GetName]が何とか見つかる"

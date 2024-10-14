@@ -97,7 +97,7 @@
  hold_court.6110.t:0 "辱められた土地"
  hold_court.6110.desc:0 "「我が[ROOT.Char.GetLadyLord]、私は卑しい農民に過ぎませんが、どうかお力をお貸しくださいませ！我が民の土地は、あなた様の家臣である[6110_vassal_1.GetTitledFirstName]と[6110_vassal_2.GetTitledFirstName]の長く、血生臭い戦争ですっかり荒れ果ててしまったのです！」\n\n「畑は燃やされ、動物が屠殺され、農民は死んでいます！どうかこの殺戮を止めてくださいませ！」"
  hold_court.6110.desc.almoner:0 "\n\n「[almoner.GetFaith.HighGodName]の慈悲と[almoner.GetFaith.HighGodNamePossessive]の子供たちの寛大さが、あなたの苦しみを癒しますように。」[almoner.Custom2('MyCharacterIntroduction', ROOT.Char)]は優しく言う。"
- hold_court.6110.a:1 "The war is over, [6110_vassal_1.GetTitledFirstNameNoTooltip] is the winner."
+ hold_court.6110.a:1 "戦争は終わった、[6110_vassal_1.GetTitledFirstNameNoTooltip]の勝ちだ。"
  hold_court.6110.b:1 "Both parties must be stopped immediately!"
  hold_court.6110.c:1 "This war is nonsense, [6110_vassal_2.GetTitledFirstNameNoTooltip] is the winner."
  hold_court.6110.e:0 "民が貴族の問題に口を出すべきではない。"

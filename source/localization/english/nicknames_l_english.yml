@@ -357,7 +357,7 @@
  nick_the_smelly:0 "悪臭たる"
  nick_the_venator:0 "狩猟者"
  nick_tiny_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はその…高さへの熱望で知られている"
- nick_bluetooth_desc:1 "その1人だけが持つ黒い歯は、[CHARACTER.GetShortUINameNoTooltipNoFormat]に独特で有名な笑みを与えた。"
+ nick_bluetooth_desc:1 "その一人だけが持つ黒い歯は、[CHARACTER.GetShortUINameNoTooltipNoFormat]に独特で有名な笑みを与えた。"
  nick_canmore_desc:1 "大首領とも呼ばれるこの人物は、その領国を統べるに足る強者と考えられている。"
  nick_tanglehair_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はノルウェーの王になるまで、その髪を洗うことも、切ることも、櫛で梳くことも決してしないという誓いを立てた。"
  nick_fairhair_desc:1 "掲げし軍旗の下にノルウェーが統べられた時、その髪は再び切られ、整えられ、香に浸される権利を得た。苦労と闘いを勝ち抜いたその髪こそ最も麗しい美髪である。"
