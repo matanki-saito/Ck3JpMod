@@ -495,7 +495,7 @@
  msg_governor_candidate_promoted_leading: "[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self)|U]が[TITLE.GetNameNoTierNoTooltip|V]の次期後継者に浮上"
  msg_governor_candidate_promoted_leading_desc: "[LEFT_CHARACTER.GetShortUIName|U]は[RIGHT_CHARACTER.GetShortUIName]を抑え、[TITLE.GetName]の次期筆頭後継者に浮上した。"
  msg_governor_candidate_demoted_leading: "[GetPlayer.Custom2('RelationToMeShort', RIGHT_CHARACTER.Self)|U]が[TITLE.GetNameNoTierNoTooltip|V]の次期後継者から転落"
- msg_governor_candidate_demoted_leading_desc: "[LEFT_CHARACTER.GetShortUIName|U]は[TITLE.GetName]次期筆頭候補の[RIGHT_CHARACTER.GetShortUIName]に職を譲った"
+ msg_governor_candidate_demoted_leading_desc: "[LEFT_CHARACTER.GetShortUIName|U]は[RIGHT_CHARACTER.GetShortUIName]より一歩先んじて次期[TITLE.GetName]の筆頭候補となった"
  msg_provincial_army_reassigned: "[TITLE.GetAdjectiveNoTooltip|V]の軍勢の配置換え"
  msg_provincial_army_reassigned_desc: "[LEFT_CHARACTER.GetShortUINameNotMe] has reassigned the [provincial|E] [army|E] of [TITLE.GetNameNoTier] to the [RIGHT_TITLE.GetName]"
  msg_admin_title_gained_house.tt: "家の一員が任命された"

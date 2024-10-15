@@ -69,7 +69,7 @@
  ai_opinion.reason.faith.adultery_criminal.target: "[target.GetFirstNamePossessiveNoTooltip]にとって罪深いことだ:$VALUE|=+0$"
  ai_opinion.reason.ai_values.energy.flavour: "[personality|E]労働倫理:$VALUE|=+0$"
  ai_opinion.reason.ai_values.energy: "[personality|E]$player_facing_ai_energy$：$VALUE|=+0$"
- ai_opinion.reason.ai_values.honour.compelled_to_serve: "[personality|E] $player_facing_ai_honor$ should serve: $VALUE|=+0$"
+ ai_opinion.reason.ai_values.honour.compelled_to_serve: "[personality|E]$player_facing_ai_honor$は受けとるだろう:$VALUE|=+0$"
  ai_opinion.reason.ai_values.boldness.dislikes_you: "[personality|E] $player_facing_ai_boldness$ and dislikes you: $VALUE|=+0$"
  ai_opinion.reason.ai_values.vengefulness.dislikes_you: "[personality|E] $player_facing_ai_vengefulness$ and dislikes you: $VALUE|=+0$"
  ai_opinion.reason.ai_values.dishonour: "[personality|E] lacks $player_facing_ai_honor$: $VALUE|=+0$"

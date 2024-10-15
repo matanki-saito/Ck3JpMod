@@ -93,7 +93,7 @@
  roman_restoration.0120.a:0 "冒涜的なる偶像を打破せよ！"
  roman_restoration.0121.desc.orthodox:0 "偉大なるコンスタンティノープルは異端の手に落ち、卑劣なる聖像破壊者[reformer.GetTitledFirstName]は偽の全地総主教を任じ、正教会の高位な聖職者たちを全てその職から追いやった。\n\nもしもこの暴君が直ちに廃位され、[reformer.GetHerHis]の冒涜が正されることがなければ、これは正教会にとって終わりの始まりとなりえるかもしれない。"
  roman_restoration.0121.desc.iconoclast:0 "偉大なるコンスタンティノープルは偶像破壊派の手に落ち、[reformer.GetTitledFirstName]によって旧来の東方教会に変わる新たな総主教座が置かれた。[new_pope.GetFaith.HighGodName]の助けをかり、[new_pope.GetFirstName]は自身が過去のいずれの全地総主教よりも有徳であり思慮深いことを証明してみせるだろう。\n\nこの新たな総主教座は必ずや、前任者たちの過度な行い、腐敗、そして偶像崇拝に対し敢然と立ち向かい、すべての敬虔なる偶像破壊者たちを新たな栄光の時代へと導くことだろう。"
- roman_restoration.0121.desc.other:0 "偉大なるコンスタンティノープルは偶像破壊派の手に落ち、[reformer.GetTitledFirstName]によって旧来の東方教会に変わる新たな総主教座が置かれた。\n\n而して、ほとんどの旧正教会の聖職者たちは罷免され、捕縛され、または追放されており、全地教会的信仰は異端になり果てている。"
+ roman_restoration.0121.desc.other:0 "偉大なるコンスタンティノープルは聖像破壊派の手に落ち、[reformer.GetTitledFirstName]によって旧来の東方教会に変わる新たな総主教座が置かれた。\n\n而して、ほとんどの旧正教会の聖職者たちは罷免され、捕縛され、または追放されており、全地教会的信仰は異端になり果てている。"
  roman_restoration.0121.a:0 "野蛮人め！"
  roman_restoration.0121.b:0 "ようやくその時が来たか！"
  roman_restoration.0121.c:0 "そうか…"

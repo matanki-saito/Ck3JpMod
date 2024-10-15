@@ -296,7 +296,7 @@
  diarch_request_imperial_expedition_interaction.tt.influence_minor_name: "Stake [influence_i][EmptyScope.ScriptValue('request_imperial_expedition_influence_stake_minor_value')|0] [influence|E]"
  diarch_request_imperial_expedition_interaction.tt.influence_medium_name: "Stake [influence_i][EmptyScope.ScriptValue('request_imperial_expedition_influence_stake_medium_value')|0] [influence|E]"
  diarch_request_imperial_expedition_interaction.tt.influence_major_name: "Stake [influence_i][EmptyScope.ScriptValue('request_imperial_expedition_influence_stake_major_value')|0] [influence|E]"
- diarch_request_imperial_expedition_interaction.tt.access_to_cb: "Gains #EMP one#! usage of the powerful [imperial_expedition_cb|E] [casus_belli|E]"
+ diarch_request_imperial_expedition_interaction.tt.access_to_cb: "強力な[imperial_expedition_cb|E][casus_belli|E]を#EMP 一度#!使えるようになります"
  diarch_request_imperial_expedition_interaction.tt.governors_as_allies: "Any [governor|E] bordering the [war|E]'s target [ruler|E] will be called as an [ally|E], and military governors may join from far away"
  diarch_request_imperial_expedition_interaction.tt.target_behaviour_explanation: "The [war|E] may target any [duchies|E] that border the [realm|E] or [de_jure|E] belong to the [emperor|E]"
  diarch_request_imperial_expedition_interaction.tt.post_war: "If [actor.GetShortUIName] win[_s(actor)], [CharYouSheHe(actor)] may either:\n$EFFECT_LIST_BULLET$ Keep the conquered territories for [CharYourHerHimself(actor)] #WEAK (angering [recipient.GetShortUIName])#!\n$EFFECT_LIST_BULLET$ Hand them over in exchange for [influence|E] #WEAK (scaling with the number of [counties|E] taken)#!"

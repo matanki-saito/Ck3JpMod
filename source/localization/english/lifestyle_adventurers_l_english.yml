@@ -14,7 +14,7 @@
  adventurer_apostate_perk_effect: "[adventurer_i] You now gain #P [diplomacy_i][intrigue_i][stewardship_i][martial_i][learning_i]+1#! for every three unique [faiths|E] your [followers|E] have when [camp_temperament|E] is #P $DOMICILE_WINDOW_BOOKMARK_FOLLOWERS_TEMPERAMENT_POSITIVE$#!"
  adventurer_golden_aplomb_perk_effect: "[adventurer_i] When using the #V $gather_provisions_decision$#! [decision|E], #EMP #V Somewhat Effective#!#! [terrain|E] now counts as #EMP #V Very Effective#!#!"
  adventurer_it_is_my_domain_perk_effect: "[adventurer_i]#V $gather_provisions_decision$#![decision|E]によって[provisions_i][provisions|E]を#P +25%#!多く獲得します。"
- adventurer_a_mans_home_perk_effect: "[adventurer_i] Doubles the effect of [adventurer_siege_replenishment|E]"
+ adventurer_a_mans_home_perk_effect: "[adventurer_i][adventurer_siege_replenishment|E]の効果が倍になる"
  adventurer_strict_organization_perk_effect: "[adventurer_i] Finishing a [siege|E] awards #V x20#! times the Holding's [raid_loot|E] value as [provisions_i][provisions|E]"
  adventurer_flexible_truces_perk_effect: "[adventurer_i] #V $contact_list_request_interaction$#! Acceptance: #P +20#!"
  adventurer_inspiring_rule_perk_effect: "[adventurer_i] Can use #V $contact_list_request_interaction$#! to start a [GetActivityType('activity_feast').GetTextIcon][GetActivityType('activity_feast').GetName] with you as the [honorary_guest|E]"

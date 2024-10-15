@@ -15,7 +15,7 @@
  travel_start_event.1010.t_sick_tournament:0 "$activity_tournament$: $travel_start_event.1000.t_sick$"
  travel_start_event.1010.t_tournament:0 "$activity_tournament$: $travel_start_event.1000.t$"
  travel_start_event.1010.desc_tournament_intro:1 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))][ROOT.Char.GetInvolvedActivity.GetHost.GetTitledFirstName]は、[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]の近辺で、[ROOT.Char.GetInvolvedActivity.GetShortName]の競技を主催しており、我々が出発する時が来た。"
- travel_start_event.1010.desc_sick_tournament:0 "\n\n私の体の不調が健康に影響を及ぼしているが、私がこの——約束された——何年も語り継がれるであろう壮大な行事に参加しないわけにはいかないだろう。"
+ travel_start_event.1010.desc_sick_tournament:0 "\n\n私の体の不調が健康に影響を及ぼしているが、私がこの――約束された――何年も語り継がれるであろう壮大な行事に参加しないわけにはいかないだろう。"
  travel_start_event.1010.desc_tournament:0 "\n\n我々は[ROOT.Char.GetHouse.GetName]家を代表として、[ROOT.Char.GetCulture.GetNameNoTooltip]の人々に誇りを持たせる者でなければならぬ。"
  travel_start_event.1010.desc_tournament_outro_negative:0 "\n\n[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetNameNoTooltip]の残った部分が[host.GetTitledFirstNameNoTooltip]ほど腐りきってはいないことをことを願うばかりだが、それでも獅子の巣穴に入ったときに起こることについて、我々は警戒しておく必要があるだろう。"
  travel_start_event.1010.desc_tournament_outro_positive_culture:0 "\n\nせっかくそこにいるのだから、我々は[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetCulture.GetNameNoTooltip]文化を体験する機会を逃さないようにするべきだろう。"

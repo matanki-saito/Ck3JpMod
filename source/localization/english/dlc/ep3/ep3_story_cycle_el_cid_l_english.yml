@@ -66,7 +66,7 @@
  cid.2000.a.flavor: "#EMP This was the battle, this the day, when he the great sword won.#!"
  cid.2000.b: "Send an envoy to [liege.GetShortUIName]. This prize is [liege.GetHerHis]."
  cid.2000.b.flavor: "#EMP I desire to send you to [liege.GetTitledFirstNameNoTooltip], my natural lord, with a hundred horses of this spoil, that you kiss [liege.GetHerHis] hand for me."
- cid_2000_liege_tt: "Gains [newly_created_artifact.GetNameNoTooltip] [artifact|E]"
+ cid_2000_liege_tt: "[newly_created_artifact.GetNameNoTooltip][artifact|E]を得ます"
  cid.2001.t: "$cid_restoration_title$ From a Brave Master"
  cid.2001.desc.intro: "Sword in hand, inch by inch, on foot I contest the ground. The rain gets stronger. It is very cold.\n\n"
  cid.2001.desc.loser: "[loser.GetTitledFirstName] marches towards me. \"[ROOT.Char.GetFirstNameNoTooltip],\" [loser.GetSheHe] greets me and I bow back. \"Not much time for pleasantries.\"\n\nAgain and again our swords meet in the air until I cleave [loser.GetHerHis] hand."

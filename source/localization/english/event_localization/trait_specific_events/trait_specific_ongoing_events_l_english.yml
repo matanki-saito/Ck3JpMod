@@ -41,7 +41,7 @@
  trait_specific_ongoing.1011.a:0 "今から服を着ることは禁止だ。さあ脱ごう！"
  all_adult_courtiers:0 "すべての成人の廷臣"
  trait_specific_ongoing.1012.t:0 "闇の幻想"
- trait_specific_ongoing.1012.desc:0 "I cannot remember it happening, but when I return to the [ROOT.Char.Custom('ResidenceBuilding')], my [ROOT.Char.Custom('GetCourtierPlural')] tell me everything.\n\nI have been running around, warning people that the bats are coming. Enough of them to blot out the sun, and carry [capital.GetNameNoTier] away with them to some terrible place where [ROOT.Char.GetFaith.PositiveAfterLife] cannot be reached."
+ trait_specific_ongoing.1012.desc:0 "何が起こったのか思い出せない。しかし、[ROOT.Char.Custom('ResidenceBuilding')]に戻ると、[ROOT.Char.Custom('GetCourtierPlural')]が全てを語ってくれた。\n\n私はずっと人々にたくさんのコウモリが来るぞと警告しながら走り回っていたとのこと。太陽をおおい隠すほどの数で、[capital.GetNameNoTier]を攫い、[ROOT.Char.GetFaith.PositiveAfterLife]も届かないような恐ろしい場所へと連れて行くと。"
  trait_specific_ongoing.1012.a:0 "私に何が起こっているのだ…"
  trait_specific_ongoing.1012.b:0 "ああ、彼らが来る時のために備えよう！"
  trait_specific_ongoing.2001.t:0 "彼方からの伝言"

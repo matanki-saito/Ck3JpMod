@@ -7,7 +7,7 @@
  yearly.5001.duelling.defenderwins.desc:0 "しかし、最後の瞬間、[bickering_loser.GetHerHis]の攻撃は相手によって防がれ、[bickering_loser.GetHerHim]は強く押され、[bickering_loser.GetHerHim]は[bickering_loser.GetHerHis]自身の武器によって突き刺されてしまう。"
  yearly.5001.backstabbing.defenderwins.desc:0 "しかし、危険が迫っていることに気づいたのか、[bickering_winner.GetFirstNameNoTooltip]はすぐに[bickering_loser.GetFirstNameNoTooltip]に向き直ると、[bickering_loser.GetHerHis]の手首を捻り、[bickering_loser.GetHerHis]自身の短剣で[bickering_loser.GetHerHim]を突き刺す。"
  yearly.5001.lover.epilogue.desc:0 "\n\n「私たちのためにやった」と[bickering_winner.GetFirstNameNoTooltip]は主張し、後悔の痛みをにじませながら私を一瞥する。「これで、私たちは一緒にいられる。」"
- yearly.5001.spouse.epilogue.desc:0 "\n\n「起こるべくして起きた。」と[bickering_winner.GetFirstNameNoTooltip]は主張し、後悔の痛みをにじませながら私を一瞥する。「これはあなたのせいだ。」"
+ yearly.5001.spouse.epilogue.desc:0 "\n\n「起こるべくして起きた」と[bickering_winner.GetFirstNameNoTooltip]は主張し、後悔の痛みをにじませながら私を一瞥する。「これはあなたのせいだ」"
  yearly.5001.a.a.spouse:0 "深く反省しています…あなたには当然の権利があった。"
  yearly.5001.a.a.lover:0 "それでも、こんなことにならなければよかった…"
  yearly.5001.a.b.spouse:0 "言いたいことは分かった、[bickering_spouse.GetWifeHusband]。さあ、この件はもう忘れよう。"
