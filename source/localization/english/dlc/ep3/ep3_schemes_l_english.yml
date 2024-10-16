@@ -43,7 +43,7 @@
  scheme_critical_moments.1142.t: "$scheme_critical_moments.1132.t$"
  scheme_critical_moments.1142.desc_self: "わたし自身を推薦する宣伝活動は、すべて報われた。\n\n同輩たちから一目置かれるようになり、わたしの継承を支持する者も増えている。目標達成に大きく近づいたのだ！"
  scheme_critical_moments.1142.desc_other: "[target.GetTitledFirstNamePossessive]を候補者として推薦するために多くの時間と労力をついやしたが、その甲斐はあったようだ。\n\n[target.GetHerHis|U]は同輩たちから一目置かれるようになり、その資質を信じる支持者も獲得した。また一歩、任命に近づいたのだ！"
- scheme_critical_moments.1142.a: "すばらしい結果だ"
+ scheme_critical_moments.1142.a: "すばらしい結果だ。"
  scheme_critical_moments.1142.tt: "候補に推薦された！"
  promote_toast_scheme_desc: "あなたの[target.Custom2('RelationToMeShort', SCOPE.sC('owner'))]、[owner.GetShortUINameNoTooltip|U]があなたを候補者として推薦してくれた"
  scheme_critical_moments.1143.t: "$scheme_critical_moments.1133.t$"

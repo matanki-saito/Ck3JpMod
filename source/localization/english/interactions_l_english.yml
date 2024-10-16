@@ -1520,7 +1520,7 @@
  RECIPIENT_IS_JUST: "[recipient.GetShortUIName|U]は[GetTrait('just').GetName( GetPlayer )]だ：$VALUE|=+0$"
  RECIPIENT_IS_GREEDY: "[recipient.GetShortUIName|U]は[GetTrait('greedy').GetName( GetPlayer )]だ：$VALUE|=+0$"
  HOF_ASK_FOR_CLAIM_ON_ADMIN_TITLES: "[head_of_faith|E]は他の[administrative|E]の[titles|E]を与えない"
- ASK_FOR_CONVERSION_RECIPIENT_INTRIGUE: "Difference between [recipient.GetShortUINamePossessive] and your [intrigue_skill|E]: $VALUE|=+0$"
+ ASK_FOR_CONVERSION_RECIPIENT_INTRIGUE: "[recipient.GetShortUINamePossessive]とあなたの[intrigue_skill|E]の違い：$VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_TIER: "[recipient.GetShortUINamePossessive|U] [rank|E]: $VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_CRIME: "[recipient.GetShortUINamePossessive|U] [liege|E] would consider [recipient.GetHerHim] [faith_hostile|E] or [faith_evil|E]: $VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_ASTRAY: "[recipient.GetShortUIName|U] considers [actor.GetFaith.GetAdjective] [faith_astray|E]: $VALUE|=+0$"

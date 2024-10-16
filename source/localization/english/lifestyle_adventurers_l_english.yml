@@ -40,7 +40,7 @@
  adventurer_toe_the_line_perk_effect: "[adventurer_i] The effects of the [GetTravelOption('adventurers_scout_for_talent_option').GetName] [travel_option|E] now apply to all [travels|E]\n#weak (Except the [travel_speed|E] penalty)#!"
  adventurer_toe_the_line_perk_2_effect: "[adventurer_i] The [GetTravelOption('adventurers_scout_for_talent_option').GetName] [travel_option|E] can no longer be selected"
  adventurer_chains_of_loyalty_perk_effect: "[adventurer_i] Enables the [GetTravelOption('adventurers_encourage_relationships_option').GetName] [travel_option|E]"
- adventurer_popular_figurehead_perk_effect: "[adventurer_i] Enables the [GetTravelOption('adventurers_gather_inspiration_option').GetName] [travel_option|E]"
+ adventurer_popular_figurehead_perk_effect: "[adventurer_i][GetTravelOption('adventurers_gather_inspiration_option').GetName]の[travel_option|E]を有効にします"
  adventurer_organized_muster_rolls_perk_effect: "[adventurer_i] Visiting a [point_of_interest|E] awards [gold_i][GetPlayer.MakeScope.ScriptValue('see_how_its_done_gold_reward_value')|P0]"
  adventurer_church_and_state_perk_effect: "[adventurer_i] Visiting a Religious [point_of_interest|E] awards [piety_i]#P 250#!"
  adventurer_church_and_state_perk_2_effect: "[adventurer_i] Visiting a [temple_holding|E] awards [piety_i]#P 25#!"

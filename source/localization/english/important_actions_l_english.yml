@@ -860,7 +860,7 @@
  action_new_tier_3_governance_issue_combined_unimportant: "$action_new_governance_issue_combined_unimportant$"
  action_laamp_apprehension_threat: "@prison_icon!あなたは[apprehender.GetPrimaryTitle.GetBaseNameNoTierNoTooltip|V]の逃亡者です"
  action_laamp_apprehension_threat_label: "@prison_icon![apprehender.GetPrimaryTitle.GetBaseNameNoTierNoTooltip|V]([actor.GetTitledFirstNameRegnal])のお尋ね人"
- action_laamp_apprehension_threat_desc: "あなたを[criminal|E]$action_laamp_apprehension_threat_HELP$と見なしている[actor.GetShortUINamePossessive][realm|E]に[camp|E]があります"
+ action_laamp_apprehension_threat_desc: "あなたを[criminal|E]と見なしている[actor.GetShortUINamePossessive][realm|E]に[camp|E]があります$action_laamp_apprehension_threat_HELP$"
  action_laamp_apprehension_threat_HELP: "\n\n#help 彼らはあなたを[imprison|E]し、[camp|E]を解散させることができ、それによりこの地で[task_contracts|E]を受けることができなくなります\n\n彼らと[war|E]するだけの十分な力が無いのなら、今すぐこの[realm|E]から離れるべきでしょう。#!"
  action_laamp_apprehension_threat_combined_label: "[actor.GetPrimaryTitle.Custom('GetTierIcon')][actor.GetPrimaryTitle.GetBaseNameNoTier|V]([actor.GetTitledFirstNameRegnal])のお尋ね人"
  action_laamp_apprehension_threat_combined_group_label: "@prison_icon!あなたは[apprehender.GetPrimaryTitle.GetBaseNameNoTierNoTooltip|V]の逃亡者です"

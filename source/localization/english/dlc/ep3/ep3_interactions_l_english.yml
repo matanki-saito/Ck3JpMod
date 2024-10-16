@@ -746,7 +746,7 @@
  request_raid_remit_interaction_duration_tt: "@alert_icon!#mixed_value [recipient.GetFirstNameNoTooltipRegnal]が[recipient.GetTitleAsNameNoTooltip]から退いた場合、改めて認可を取得する必要があります。#!"
  ep3_interactions_events.0421.opening: "[recipient.Custom2('AppropriateGreetingPositive', actor)]"
  ep3_interactions_events.0421.desc: "そなたの手紙を読み、[secondary_recipient.GetHouse.GetBaseName]家への懸念についても承知した。\n\n安心せよ。[secondary_recipient.GetTitledFirstName]やその家族にいかなる災難が降りかかろうとも、それは余の関知するところではない……"
- ep3_interactions_events.0421.a: "すばらしい"
+ ep3_interactions_events.0421.a: "よし来た。"
  request_raid_remit_effect_toast: "認可は下りなかった"
  TARGET_HOUSE_IS_POWERFUL: "[secondary_recipient.GetFirstNamePossessive] belongs to a [powerful_family|E]: $VALUE|=+0$"
  TARGET_HOUSE_IS_DOMINANT: "[secondary_recipient.GetFirstNamePossessive] belongs to a [dominant_family|E]: $VALUE|=+0$"

@@ -213,7 +213,7 @@
  ep3_laamps.8111.desc: "You will need to pay [petitioned_ruler.GetShortUINameNoTooltip] [incoming_payment_value.GetValue] [gold_i] in #collor_yellow six #! months!"
  request_laamp_legitimist_support: "Request Legitimist Support"
  request_laamp_legitimist_support_interaction_desc: "Request an invitation to discuss the level and conditions of support for your Legitimist claim"
- ep3_legitimist_army: "Legitimist Army"
+ ep3_legitimist_army: "正当後継者の義勇軍"
  laamp_legitimist_support_contract_success: "After accepting this [task_contract|E] and traveling to [recipient.GetCurrentLocation.GetName], you will be able to negotiate up to #color_yellow 1800 gold#! and #color_yellow 3000 elite troops#!, in exchange for sizable payments afterwards."
  laamp_legitimist_support_contract_failure: "The negotiations fail. You will need to seek help elsewhere."
  request_laamp_legitimist_support_already_supporting: "This character is already supporting a Legitimist"
