@@ -7,7 +7,7 @@
  TRIGGERED_LEGEND_SEED_HEADER_TT: "#T [TriggeredLegendSeed.GetName( Character.Self )]#![AddLine( TriggeredLegendSeed.GetDescription( Character.Self ) )]"
  PROMOTE_LEGEND_BUTTON_TT: "#T 伝説を始める#![AddLine( SelectLocalization( IsValidCommand( GetPlayer.StartPromotingLegend( Legend.Self ) ), 'PROMOTE_LEGEND_BUTTON_NOT_BLOCKED_TT', 'PROMOTE_LEGEND_BUTTON_BLOCKED_TT' ) )]"
  PROMOTE_LEGEND_BUTTON_NOT_BLOCKED_TT: "[Legend.GetOwner.GetNamePossessive]の伝説が始まる。[AddLine( '#D what else do we put here?#!' )]"
- PROMOTE_LEGEND_BUTTON_BLOCKED_TT: "[Legend.GetOwner.GetNamePossessive]の伝説が始まった。[AddLine( AddLine( '#X You cannot start this legend:#!' ) )][AddLine( GetCommandDesc( GetPlayer.StartPromotingLegend( Legend.Self ) ) )]"
+ PROMOTE_LEGEND_BUTTON_BLOCKED_TT: "[Legend.GetOwner.GetNamePossessive]の伝説が始まった。[AddLine( AddLine( '#X この伝説を始めることができません：#!' ) )][AddLine( GetCommandDesc( GetPlayer.StartPromotingLegend( Legend.Self ) ) )]"
  OPEN_CHRONICLE_BUTTON_TT: "#T 年代記を開く#!"
  PROMOTED_LEGEND: "後援している伝説"
  PROMOTED_LEGEND_EMPTY: "あなたは[legend|E]を[promoting_legend|El]していない"

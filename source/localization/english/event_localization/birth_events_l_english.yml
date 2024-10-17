@@ -113,7 +113,7 @@
  birth.3001.t:0 "難産、そして"
  birth.3001.desc_other_child:0 "「あと少しです、我が主！もう少しで産まれます！」最後のひと押しのとき、叫びが漏れた。体中が痛い。耐えきれないほどだ。そして、終わった。産んだのだ。\n\n「[dummy_gender.GetSheHe]はどうだ？」声を出すものやっとだ。「[dummy_gender.GetSheHe]は…[dummy_gender.Custom('GirlBoy')]か？」\n\n助産師は答えなかった。こちらを見ようともしなかった。いや、腕に抱いた動かない赤子を見ていた。"
  birth.3001.a:1 "[dummy_gender.GetSheHe]が息をしていない？！#EMP 息をしろ！#!"
- birth.3001.a.tt:1 "@death_icon! Your [dummy_gender.Custom('DaughterSon')] was stillborn"
+ birth.3001.a.tt:1 "@death_icon! [dummy_gender.Custom('DaughterSon')]は死産だった。"
  birth.3002.desc:0 "As the [ROOT.Char.Custom('GetDoor')] to the birthing [ROOT.Char.Custom('GetChamber')] opens, I am greeted not by smiling midwives and a crying babe, but [mother.GetTitledFirstNamePossessive] heart-wrenching wails.\n\n\"I am so sorry, my [ROOT.Char.GetLadyLord].\" The midwife does not look me in the eye. In her arms is a tiny, covered bundle. \"Your [dummy_gender.Custom('DaughterSon')]... [dummy_gender.GetSheHe|U] is in [ROOT.Char.GetFaith.PositiveAfterLife] now.\""
  birth.3002.a:0 "[dummy_gender.Custom('DaughterSon')]が？[ROOT.Char.GetFaith.PositiveAfterLife]にだと？"
  birth.3011.desc_twin:0 "双子は最高だ。彼らの小さな顔、彼らの匂い…ずっとこうしていたかったが、助産師は彼らが少し呼吸する間しか抱かせてくれなかった。彼女が双子を取り上げ事に抗議しようとしたが、腕が疲れ切ってて言葉が出てこなかった。\n\n「御心配なく、[ROOT.Char.GetTitleAsNameNoTooltip]。お子様はお強く健康でいらっしゃいます。今はあなた様の事が心配です」\n\n"

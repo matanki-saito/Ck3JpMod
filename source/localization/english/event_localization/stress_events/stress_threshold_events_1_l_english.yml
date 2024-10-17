@@ -231,7 +231,7 @@
  stress_threshold.2331.desc.rump:0 "but that just means that I lead with a firm hand. It doesn't mean that I'm a monster.\n\n... Does it?"
  stress_threshold.2331.a.reclusive.gain:0 "私も#EMP 彼ら#!には会いたくはない！"
  stress_threshold.2331.a.reclusive.effect:0 "$stress_threshold.2331.a.reclusive.gain$"
- stress_threshold.2331.a.reclusive.opinion_list:0 "Your [THIS.Char.Custom('GetCourtierPlural')|l] are forced away"
+ stress_threshold.2331.a.reclusive.opinion_list:0 "あなたの[THIS.Char.Custom('GetCourtierPlural')|l]が追い払われる"
  stress_threshold.2331.b.irritable.gain:0 "忌々しい恩知らずどもめ！"
  stress_threshold.2331.b.irritable.effect:0 "$stress_threshold.2331.b.irritable.gain$"
  stress_threshold.2331.c.profligate.gain:0 "$stress_threshold.1701.d.profligate.gain$"

@@ -42,7 +42,7 @@
  trait_specific.6002.t:0 "実験"
  trait_specific.6002.desc:0 "I am reaching to loosen my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover') )], [lover.GetTitledFirstNamePossessive], [lover.Custom('GetUpperClothingArticle')] when [lover.GetSheHe] suddenly pulls away.\n\n\"I have been wanting to try something #EMP new#!, my [ROOT.Char.Custom('LoverPetName')],\" [lover.GetSheHe] coos, reaching under the bed with a devious smile.\n\n[lover.GetHerHis|U] hand emerges, clutching [ROOT.Char.Custom('DeviantObjectArticle')]. \"I was thinking we could use #EMP this#!.\""
  trait_specific.6002.a:0 "Very well, don't leave me waiting!"
- trait_specific.6002.b:0 "You are into things like... #EMP this?!#!"
+ trait_specific.6002.b:0 "#EMP これ#!にハマっているのか？！"
  trait_specific.6002.b_known:0 "[lover.GetSheHe]が変な物にハマっていると知っていたが、これか？！"
  trait_specific.7001.t:0 "乾杯！"
  trait_specific.7001.desc:0 "Nothing can calm me quite so efficiently as a good drink of [ROOT.Char.Custom('RegionalAlcoholicDrink')]. After a hard day, after a good day, after #EMP any#! day... I am always sure to find solace at the bottom of my cups."

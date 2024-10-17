@@ -568,7 +568,7 @@
  expansion_take_target_title_tt:0 "あなたは[de_jure_target.GetName]を獲得します"
  expansion_create_target_title_tt:0 "[de_jure_target.GetName]が創設され、あなたが獲得するでしょう。"
  influence_war_cb: "$INFLUENCE_WAR_CB_NAME$"
- INFLUENCE_WAR_NAME: "$ORDER$ [ATTACKER.GetTopLiege.GetPrimaryTitle.GetAdjective] Expansion of the [TITLE.GetBaseName]"
+ INFLUENCE_WAR_NAME: "$ORDER$[ATTACKER.GetTopLiege.GetPrimaryTitle.GetAdjective]の[TITLE.GetBaseName]遠征"
  INFLUENCE_WAR_NAME_BASE: "[ATTACKER.GetTopLiege.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  INFLUENCE_WAR_CB_NAME: "後援された官僚制戦争"
  influence_war_top_liege_gains_title_desc: "[attacker.GetTopLiege.GetShortUIName|U]は係争中の[title|E]を獲得します。"

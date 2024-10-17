@@ -289,7 +289,7 @@
  ep3_laamps.5045.d: "All I need is work to serve these lands."
  world_africa_sahara_provisions_usage_multiplier_modifier: "Saharan Province"
  world_africa_sahara_provisions_usage_multiplier_modifier_desc: "This province is subject to the full wrath of the mighty Sahara (or one of its abutting mountain ranges) — only a fool or an expert would attempt to traverse it."
- duel_to_the_death.tt: "@death_icon! #X You immediately enter into a [single_combat_duel|E] to the [character_death_death|E]#!"
+ duel_to_the_death.tt: "@death_icon! #X 直ちに[character_death_death|E]との[single_combat_duel|E]を開始します#!"
  ep3_laamp_flavour_ewan.0001.t: "Pinkish Hues"
  ep3_laamp_flavour_ewan.0001.desc.intro.preamble: "Early evening is a time of intense activity for the camp, people and supplies tossed this way and that as our portable home is set down once more. Habitually, it's also when I take a walk to clear my head and"
  ep3_laamp_flavour_ewan.0001.desc.intro.lazy: "avoid all the little tasks and questions that come from my followers.\n\n"

@@ -65,7 +65,7 @@
  bp1_yearly.3100.desc.conc:0 "I would make use of [3100_target_courtier.GetHerHim] myself, but alas it doesn't seem possible.\n\nI would hate to see [3100_target_courtier.GetHerHis] great talent go to waste. Won't you take [3100_target_courtier.GetHerHim] in and unleash [3100_target_courtier.GetHerHis] potential?\""
  bp1_yearly.3100.a:0 "[3100_target_courtier.GetHerHim]にちょうど良い地位がある！"
  bp1_yearly.3100.b:0 "丁重にお断りしなければ。"
- bp1_yearly_3100_courtier_gained:0 "Skilled [ROOT.Char.Custom('GetCourtier')] recruited"
+ bp1_yearly_3100_courtier_gained:0 "有能な[ROOT.Char.Custom('GetCourtier')]を採用した"
  bp1_yearly.3101.t:0 "領地と友の間で"
  bp1_yearly.3101.desc:0 "[target_title_holder.GetTitledFirstName]が素晴らしい提案を携え来訪した。私が持つ[target_title.GetName]への正当な権利を知り、最終的にその承認を選択したとのこと。\n\n「友よ」彼は言う。「[target_title.GetNameNoTierNoTooltip]があなたに帰することを強く望んでいる。しかし、そうはいかないのだ。見返りもなく、我が民のもとに手ぶらでは帰れないのだよ。」\n\n「[target_title_holder.GetCapitalLocation.GetName]へ帰った際に私の民に見せられる何かを提供してもらいたい、さすれば[target_title.GetNameNoTierNoTooltip]はあなたのものとなろう。」"
  bp1_yearly.3101.a:0 "「ありがたく受け入れよう！これだけあれば十分だ…」"

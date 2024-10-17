@@ -86,7 +86,7 @@
  scandinavian_elective_electors_tooltip:0 "ディングの下で有効な[elector|E]となるためには、封臣は以下の条件を全て満たす必要があります:\n$EFFECT_LIST_BULLET$その称号保有者の直臣である\n$EFFECT_LIST_BULLET$男爵ではない"
  succession_laws_must_have_organised_government_tooltip:0 "[feudal|E]または[clan|E]の[government|E]ではない"
  succession_laws_must_not_be_forced_partition:0 "[vassal_contract|E]によって分割[succession|E]を強制されていない"
- succession_laws_must_have_valid_tanistry_culture:1 "You do #bold not#! have either the $goidelic_group$ or $brythonic_group$ [heritage|E]."
+ succession_laws_must_have_valid_tanistry_culture:1 "$goidelic_group$または$brythonic_group$の#bold [heritage|E]ではない#!"
  temporal_head_of_faith_succession_law:0 "世俗的神権政治"
  temporal_head_of_faith_succession_law_effects:0 "[temporal_head_of_faith|E]の[title|E]は、現在の[head_of_faith|E]の[player_heir|E]に与えられる。"
  succession_laws_must_not_be_temporal:0 "[temporal_head_of_faith|E]の[title|E]であってはなりません。"

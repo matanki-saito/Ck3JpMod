@@ -1097,7 +1097,7 @@
  AFFECTING_MODIFIERS_LABEL: "影響補正:"
  PROVINCE_MODIFIERS: "[barony|E]補正値"
  COUNTY_MODIFIERS: "[county|E]補正値"
- PROVINCE_AND_COUNTY_MODIFIERS: "[barony|E]及[county|E]の補正値"
+ PROVINCE_AND_COUNTY_MODIFIERS: "[barony|E]および[county|E]の補正値"
  OWNER_MODIFIERS: "所有者の補正値"
  MOD_DIPLOMACY_PER_INFLUENCE_LEVEL: "[influence_level|E]ごとの[diplomacy|E]"
  MOD_MARTIAL_PER_INFLUENCE_LEVEL: "[influence_level|E]ごとの[martial|E]"

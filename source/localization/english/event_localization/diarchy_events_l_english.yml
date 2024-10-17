@@ -1,5 +1,5 @@
 ﻿l_english:
- diarchy.0000.tt.diarch_shirked_duties:0 "[Select_CString( diarch.IsLocalPlayer, 'You', diarch.GetFirstName )]が[diarch|E]としての[Select_CString( diarch.IsLocalPlayer, 'your', diarch.GetHerHis )]の義務を[Select_CString( diarch.IsLocalPlayer, 'shirk', '回避しました' )]"
+ diarchy.0000.tt.diarch_shirked_duties:0 "[Select_CString( diarch.IsLocalPlayer, 'あなた', diarch.GetFirstName )]が[diarch|E]としての義務を[Select_CString( diarch.IsLocalPlayer, '回避します', '回避しました' )]"
  diarch_title_diarch:0 "二頭政治"
  diarch_title_regent:0 "摂政"
  mandate_event_prefix:0 "代行者:"
