@@ -1,5 +1,5 @@
 ﻿l_english:
- ep3_landless_admin.1000.t: "On the Door"
+ ep3_landless_admin.1000.t: "玄関の受付"
  ep3_landless_admin.1000.desc: "A soft knock on the estate door surprises me during my walk.\n\n\"Come.\"\n\nA well-dressed [proposed_councillor.GetWomanMan] stands in the doorway, clutching [proposed_councillor.GetHerHis] bag.\n\n\"I come to offer my services to the virtuous house of [ROOT.Char.GetHouse.GetBaseNameNoTooltip]. I am greatly skilled and will serve you well.\""
  ep3_landless_admin.1000.a: "\"A skilled [proposed_councillor.GetWomanMan] is always needed.\""
  ep3_landless_admin.1000.b: "\"Surely, it'd be #EMP your#! honor to serve me.\""

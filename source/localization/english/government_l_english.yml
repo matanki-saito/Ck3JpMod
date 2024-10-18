@@ -48,7 +48,7 @@
  feudal_levies_high_short:0 "高"
  feudal_levies_extortionate:0 "大規模な$game_concept_levy$への貢献"
  feudal_levies_extortionate_short:0 "大規模"
- special_contract:3 "#color_black [Concept( 'vassal_contract', 'Special Contract' )|BU]#!"
+ special_contract:3 "#color_black [Concept( 'vassal_contract', '特別な契約' )|BU]+#!"
  special_contract_none:0 "特別な契約無し"
  special_contract_scutage:0 "軍役代納金の契約"
  special_contract_scutage_desc:1 "#flavor $special_contract_scutage$が適用されている間、[vassal|E]は$feudal_government_taxes$で定められている[obligation|E]より#high [EmptyScope.ScriptValue('scutage_contract_tax_tooltip')|0]％#!多い[tax|E]を支払うことになると同時に、$feudal_government_levies$で定められている[obligation|E]より#high [EmptyScope.ScriptValue('scutage_contract_levies_tooltip')|0]％#!少ない[levies|E]を提供するだけでよくなります。#!"

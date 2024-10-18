@@ -648,7 +648,7 @@
  hold_court.8320.d: "Nothing trumps a [probate_dead.Custom2('RelationToMePossessive', probate_vassal)] inheritance rights."
  every_close_family_hold_court_8320_tooltip: "[probate_vassal.GetHerHis|U] [close_family|E]"
  hold_court_8320_grant_tooltip: "[probate_county.GetName] is revoked from [probate_vassal.GetTitledFirstName] and becomes a [theocracy|E] under [probate_priest.GetTitledFirstName]"
- hold_court.8330.t: "A Rift in [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ hold_court.8330.t: "[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]の亀裂"
  hold_court.8330.desc: "I am presented with my vassals, [vassal_1.GetTitledFirstName] and [vassal_2.GetTitledFirstName], both influential plumbs of [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierPossessiveNoTooltip] sometimes messy politics. Before they even open their mouths, it is clear they disagree.\n\n[vassal_1.GetFirstNameNoTooltip] steps forward, \"My [ROOT.Char.GetLadyLord], I have come here today to put [vassal_2.GetFirstNameNoTooltip] here to rights, and publicly.\"\n\n"
  hold_court.8330.intro.courtly: "\"The ancient noble families of [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] stretch the remit of their privileges more and more each year,"
  hold_court.8330.intro.glory_hound: "\"Warmongers seek to draw the [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] into conflict for their own petty ends,"

@@ -72,7 +72,7 @@
  ep3_story_cycle_harrying.1005.a: "Renovate the road, and add armed guards."
  ep3_story_cycle_harrying.1005.b: "We need the road in good quality."
  ep3_story_cycle_harrying.1005.c: "Destroy any single yard of it in Anglo-Saxon control."
- ep3_story_cycle_harrying.1005.a.tt: "Every [county|E] on the [Glossary( 'Great North Road', 'GNR_GLOSS' )]"
+ ep3_story_cycle_harrying.1005.a.tt: "[Glossary( 'グレートノースロード', 'GNR_GLOSS' )]上のすべての[county|E]"
  ep3_story_cycle_harrying.1005.c.tt1: "All Anglo-Saxon-held [counties|E] on the [Glossary( 'Great North Road', 'GNR_GLOSS' )]:"
  ep3_story_cycle_harrying.1005.c.tt2: "All Norman-held [counties|E] on the [Glossary( 'Great North Road', 'GNR_GLOSS' )]:"
  GNR_GLOSS: "A Roman-built road stretching along much of the spine of England. The Great North Road runs through the following [counties|E]:\n\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_middlesex').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_hertfordshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_bedford').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_northamptonshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_leicestershire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_nottinghamshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_west_riding').GetBaseName]\""

@@ -7,7 +7,7 @@
  INTRIGUE_BUTTON:0 "#T 策略#!"
  FACTION_BUTTON:0 "#T 派閥#!"
  PRISON_BUTTON:0 "#T 捕虜#!"
- COURT_BUTTON: "#T [SelectLocalization( IsLandlessAdventurer( GetPlayer ), 'Camp Followers', 'Courtiers')]#!"
+ COURT_BUTTON: "#T [SelectLocalization( IsLandlessAdventurer( GetPlayer ), '野営地の従者', '廷臣')]#!"
  IM_TT_FIND_TITLE:1 "#T 称号検索#!\nゲーム内の[title|E]を検索します"
  IM_TT_SHOW_LEGACY:0 "#T あなたの系譜を表示#!\nあなたがプレイしたすべてのキャラクターを表示します。"
  IM_TT_FIND_CHARACTER:0 "#T 人物検索#!\nゲーム内の人物を検索します"

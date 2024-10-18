@@ -30,7 +30,7 @@
  ep3_story_cycle_violet_poet.0002.a.tt: "You ponder the situation..."
  ep3_story_cycle_violet_poet.0002.b: "There's no need to worry about this just yet."
  ep3_story_cycle_violet_poet.0002.b.flavor: "...though I should get to it #EMP soon#!."
- ep3_story_cycle_violet_poet.0002.b.tt: "@alert_icon! #alert_trial Should you die before an heir is designated, your dynasty may end!#!"
+ ep3_story_cycle_violet_poet.0002.b.tt: "@alert_icon!#alert_trial 後継者が指名されないまま貴方が死亡した場合、貴方の王朝は終焉を迎えるかもしれません！#!"
  ep3_story_cycle_violet_poet.0003.t: "Spoilt for Choice"
  ep3_story_cycle_violet_poet.0003.opening: "I listen with one ear to the fierce poetical debate drifting in from outside. Who can I pick?\n\n"
  ep3_story_cycle_violet_poet.0003.poet: "[heir1.GetFirstName], for example. [heir1.GetHerHis|U] grasp of meter is so instinctual and impressive..."

@@ -146,7 +146,7 @@
  chariot_race_ongoing_jp.0500.d: "You bloody #EMP fool#!, [evil_knievel.GetFirstNameNoTooltip]!"
  chariot_race_ongoing_jp.0600.t: "Empty Pockets"
  chariot_race_ongoing_jp.0600.intro: "No sooner than the bookmaker, [bookmaker.GetTitledFirstName], had made off, purse at [bookmaker.GetHerHis] belt jangling happily with my hard-earned coin, than I hear my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('castigator'))], [castigator.GetTitledFirstNamePossessive], shrieking incredulously:\n\n\"#EMP Oh...!#! For #EMP goodness#! sake [castigator.Custom2('RelationToMeShort', ROOT.Char)]!\""
- chariot_race_ongoing_jp.0600.kathisma: "A hush falls over the [Glossary( 'kathisma', 'KATHISMA_GLOSS')] as goblets fall and heads turn."
+ chariot_race_ongoing_jp.0600.kathisma: "ゴブレットが落ち、皆の視線が集まると、[Glossary( 'カティスマ', 'KATHISMA_GLOSS')]は静まり返った。"
  chariot_race_ongoing_jp.0600.stands: "A hush falls over the surrounding stands as all turn to gawp at this eruption."
  chariot_race_ongoing_jp.0600.desc: "\n\n\"Don't tell me! You're gambling away #EMP all#! your money?\" [castigator.GetSheHe] continues, [castigator.Custom('quirk_neg_adverb')]. \"You'll have nothing left! What about #EMP contingencies?!#!\" The bookmaker scurries from view, retreating from [castigator.GetFirstNamePossessiveNoTooltip] piercing glare."
  chariot_race_ongoing_jp.0600.a: "Oh do clear off [castigator.GetFirstNameNoTooltip]! I'm trying to watch the race!"

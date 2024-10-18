@@ -130,7 +130,7 @@
  hold_court.6130.t:0 "地籍"
  hold_court.6130.desc:0 "「我が[ROOT.Char.GetLadyLord]」[6130_proposer.Custom2('MyCharacterIntroduction', ROOT.Char)]が大きな声で言う。「あなたが所有する全伯爵領の地籍調査を提案いたします。」\n\n「あなたの土地の知識と地図が改善されれば、その繁栄は確実に増すことでしょう！」"
  hold_court.6130.a:0 "よろしい、[6130_proposer.GetFirstNameNoTooltip]。あなたが進めてくれ。"
- hold_court.6130.a.tt:1 "[6130_proposer.GetFirstNameNoTooltip] starts working on the cadastral survey. It will take several months to be completed, and when complete it will give the following rewards:"
+ hold_court.6130.a.tt:1 "[6130_proposer.GetFirstNameNoTooltip]が地籍調査の作業を開始します。完了まで数ヶ月を要します。また、完了時には以下の報酬が見込まれます："
  hold_court.6130.d:0 "地図が過大評価されている。"
  hold_court.6131.t:0 "地籍: 完了！"
  hold_court.6131.desc:0 "[6131_proposer.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私の前で軽くお辞儀をすると、満足げな笑顔で説明を始める。「我が[ROOT.Char.GetLadyLord]、覚えておられると思いますが、数ヶ月前、あなたは多額の金を伯爵領の地籍調査のために投資されました。」\n\n「私自身が監督してきましたが、今、調査の完了を誇りをもってご報告させていただきます！」"

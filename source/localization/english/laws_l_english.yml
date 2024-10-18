@@ -2,7 +2,7 @@
  PASS_LAW_TOOLTIP_TITLE: "[Law.GetNameNoTooltip][SelectLocalization( IsLandlessAdventurer( GetPlayer ), 'になる', Select_CString(GuiLaw.IsEnacted, '', 'を制定') )]"
  LAW_TOOLTIP_TITLE:1 "[Law.GetNameNoTooltip]"
  ADD_LAW_CONFIRMATION_TITLE: "[LAW.GetNameNoTooltip][SelectLocalization( IsLandlessAdventurer( GetPlayer ), '', '法' )][SelectLocalization( IsLandlessAdventurer( GetPlayer ), 'になる', 'を制定' )]"
- ADD_LAW_CONFIRMATION_ACCEPT: "[SelectLocalization( IsLandlessAdventurer( GetPlayer ), 'Change Purpose', 'Pass Law' )]"
+ ADD_LAW_CONFIRMATION_ACCEPT: "[SelectLocalization( IsLandlessAdventurer( GetPlayer ), '目的を変更する', '法を可決する' )]"
  ADD_LAW_CONFIRMATION_TEXT:0 "$EFFECTS$"
  ADD_LAW_CONFIRMATION_COST:0 "コスト: $COST$"
  LAW_ENACT_EFFECT_HEADER:0 "#S この法案が可決されたとき:#!"
