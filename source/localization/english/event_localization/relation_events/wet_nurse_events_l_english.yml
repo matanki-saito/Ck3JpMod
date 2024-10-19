@@ -105,7 +105,7 @@
  bp2_yearly.7009.c: "あー家族、感謝、もろもろ、ね。"
  bp2_yearly.7010.t: "$bp2_yearly.7008.t$"
  bp2_yearly.7010.desc_start: "[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]の[nursed_child.GetFirstName]といくつかの宮廷で起きている諸問題について議論していると、[nursed_child.GetSheHe]がだし抜けに子供時代の話を切り出してきた。\n\n"
- bp2_yearly.7010.desc: "$bp2_yearly.7010.desc_start$「[nursed_child.Custom2('RelationToMeShort', ROOT.Char)]さん、私の尊敬する人…子供の頃、全然構ってくれなかったよね」"
+ bp2_yearly.7010.desc: "$bp2_yearly.7010.desc_start$「[nursed_child.Custom2('RelationToMeShort', ROOT.Char)]さん、私の尊敬する人…子供の頃、全然構ってくれなかったよね。"
  bp2_yearly.7010.desc_dead_parent: "$bp2_yearly.7010.desc_start$「死んだ[nursed_child.Custom2('RelationToMeShort', ROOT.Char)]のことを悪く言いたくは無いが…あなたにはわかって欲しい。[nursed_child.Custom2('RelationToMeShort', nursed_child.MakeScope.Var('nursed_child_parent_var').Char)]は親としておおよそ最悪の部類だった」"
  bp2_yearly.7010.desc_word: "最初に話した言葉、覚えてる？"
  bp2_yearly.7010.desc_step: "初めて歩いた時も無視したらしいな！"

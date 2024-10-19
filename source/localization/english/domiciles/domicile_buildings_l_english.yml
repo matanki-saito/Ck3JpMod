@@ -336,7 +336,7 @@
  supply_tent_reserve_water_domicile_building_desc: "#weak （[GetDomicileBuilding('supply_tent_01').GetName]が必要）#!水の価値を理解できない[GetPlayer.GetWomanMan]は、水不足というものを体験したことがない連中だ。"
  supply_tent_climbing_gear_domicile_building: "登山装備"
  supply_tent_climbing_gear_domicile_building_desc: "#weak （[GetDomicileBuilding('supply_tent_01').GetName]が必要）#!十分な装備――そして十分な武装――を整えたわずかな登山者が状況にもたらす影響というのは、実に驚くべきものだ。"
- supply_tent_subdued_gear_domicile_building: "制圧道具"
+ supply_tent_subdued_gear_domicile_building: "隠密七つ道具"
  supply_tent_subdued_gear_domicile_building_desc: "#weak （[GetDomicileBuilding('supply_tent_01').GetName]が必要）#!顔に新しい布をかけ、肩にマントを巻けば、首に縄をかけられるのを防ぐのに大いに役立つ。"
  barber_tent_01_domicile_building: "理髪所"
  barber_tent_01_domicile_building_desc: "現場では、基本的に手術は誰が手元にハサミを持っているのか、というのが問題になる。"

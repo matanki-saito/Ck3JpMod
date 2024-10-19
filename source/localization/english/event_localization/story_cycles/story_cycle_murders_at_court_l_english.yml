@@ -48,7 +48,7 @@
  murders_at_court.8002.desc:1 "[story_owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]を安らかに眠らせている間に、私は笑いを抑えることができなかった。なにせ、最期に[story_owner.GetSheHe]がした表情は傑作だった！[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('story_owner'))][story_owner.GetWomanMan]は'pfth'と言った。\n\n少なくとも、恐ろしい殺人者が他のことで忙しくなった今、事態は落ち着くはずだ。"
  murders_at_court.8002.a:0 "例えば[ROOT.Char.Custom('RealmType')]を統治するような！"
  murders_at_court.8003.t:1 "宮廷での殺人: 遺産"
- murders_at_court.8003.desc:0 "[predecessor.GetTitledFirstName]は、しばしば[predecessor.GetHerHis]法廷を悩ませていた殺人事件について話していた。冷酷で恐ろしい殺人について。\n\n殺人者を抑えるために[predecessor.GetSheHe]が取ったすべての手段はそのまま残されており、私はそれが十分であることを願うしかない…"
+ murders_at_court.8003.desc:0 "[predecessor.GetTitledFirstName]は、ある殺人事件についてよく話していた。それは冷酷かつ恐ろしい殺人で、[predecessor.GetHerHis]廷臣は皆、頭を抱えていた。\n\n殺人を抑え込もうと[predecessor.GetSheHe]が講じた策は、そっくりそのまま残されている。十分に功を奏すことを願うしかない…"
  murders_at_court.8003.a:0 "[predecessor.GetHerHim]と共に、宮廷を悩ませていた呪いもまた死にますように。"
  murders_at_court.9001.t:1 "宮廷での殺人: 対決"
  murders_at_court.9001.desc_opening_watson:0 "私と[watson.GetTitledFirstName]が寝室へと戻ると、一枚の手紙が置かれていた。それは赤い色のインクで書かれて——いや、#EMP これは血だ#!。\n\n"

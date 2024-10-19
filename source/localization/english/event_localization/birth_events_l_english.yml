@@ -103,7 +103,7 @@
  birth.2011.desc:0 "結婚という枠を超えた出産であったにも関わらず、[child.Custom('GetDaughterSon')]は無事にこの世に生を受けた。\n\n[child.GetSheHe|U]は[legitimizer.GetHouse.GetBaseName]家に生まれたとされ、[legitimizer.GetHouse.GetBaseName]家において育てられるだろう。"
  birth.2102.t:0 "[real_father.GetTitledFirstNamePossessiveNoTooltip|U]の出現"
  birth.2102.desc:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))][mother.GetTitledFirstName]が新たな男子を出産した。[mother.GetSheHe]は今、[real_father.GetTitledFirstNamePossessive]の[child.Custom('GetDaughterSon')]に授乳している。その子の名は[child.GetFirstName]というらしい。"
- birth.2102.desc.twin:1 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))][mother.GetTitledFirstName]は[real_father.GetTitledFirstNamePossessive]の[child.Custom('TwinDaughtersSonsChildren')]を出産した。彼らは[child.GetFirstName]、[child_2.GetFirstName]と名付けた。"
+ birth.2102.desc.twin:1 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mother'))][mother.GetTitledFirstName]は[real_father.GetTitledFirstNamePossessive]の[child.Custom('TwinDaughtersSonsChildren')]を出産した。彼らは[child.GetFirstName]、[child_2.GetFirstName]と名付けた"
  birth.2102.a:0 "これをどうすればいいんだろう？"
  birth.2104.t:0 "奇妙な子供"
  birth.2104.desc:0 "私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))][real_father.GetTitledFirstName]は[mother.GetTitledFirstName]との間に子供をもうけた。いま、[mother.GetFirstName]は私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_father'))]の子供に乳を与えている。"

@@ -1068,7 +1068,7 @@
  culture_parameter_next_level_stables: "#V $building_type_stables_01$#!の種類の[buildings|E]を1[era|E]早く建設できます"
  culture_parameter_formation_fighting_strategist: "The [GetTrait('strategist').GetName( GetNullCharacter )] [trait|E]は追加のボーナスを持ちます"
  culture_parameter_frugal_blacksmith_maa_size: "#V $building_type_smiths_01$#!の種類の[buildings|E]は#V [knight_i][knights|E]の数#!と#V [men_at_arms|E] [regiments|E]の連隊規模#!を増加させます"
- culture_parameter_warrior_lodges_lift_restrictions: "The #V $building_type_warrior_lodges_01$#!の種類の[buildings|E]はこの[culture|E]の[counties|E]内に建設できます"
+ culture_parameter_warrior_lodges_lift_restrictions: "#V $building_type_warrior_lodges_01$#!の種類の[buildings|E]はこの[culture|E]の[counties|E]内に建設できます"
  culture_parameter_strength_in_numbers_maa_limit_bonus: "[buildings|E]のうち、#V $building_type_barracks_01$#!および#V $building_type_war_camps_01$#!は#V [men_at_arms|E]の連隊数上限#!を増加させます"
  culture_parameter_strength_in_numbers_heavy_maa_ban: "@warning_icon! #X この[culture|E]の[rulers|E]は、[heavy_infantry|E]、[heavy_cavalry|E]、および[elephant_cavalry|E][men_at_arms|E]を雇用することはできません#! "
  culture_parameter_next_level_w_mills: "[buildings|E]のうち、#V $building_type_watermills_01$#!および#V $building_type_windmills_01$#!は１[era|E]早く建設できます"

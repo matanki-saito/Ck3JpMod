@@ -35,7 +35,7 @@
  travel_danger_events.1006.desc:0 "「あのでかい木はさっき見たやつじゃないですか？この辺りをぐるぐる回ってただけということか！」私の旅の世話役の[travel_leader.GetName]が叫ぶ。\n\n[travel_leader.GetSheHe]は多分正しい。この1時間ほど、私たちはこの森から抜け出す手がかりを見つけられずにいる。[current_location.GetName]にいるのかどうか#EMP さえ#!よく分からない。密集した木々の集まりは私たちの頭から時も空間も、その感覚を全て奪うのだ。\n\nこの調子では[destination.GetName]に着く所の話ではないぞ…"
  travel_danger_events.1006.a:0 "我らがどこにいるか#EMP ぐらい#!分かっておるわ！"
  travel_danger_events.1006.a.success:0 "あなたは正しい道を見つける"
- travel_danger_events.1006.a.success.desc:0 "危険な体験が待ってます"
+ travel_danger_events.1006.a.success.desc:0 "危険な経験を乗り越えた"
  travel_danger_events.1006.a.failure:0 "あなたは正しい道を見つけるのに苦戦する"
  travel_danger_events.1006.b:0 "地元のガイドを見つけるために誰かを送る。"
  travel_danger_events.1006.b.hire_guide:0 "あなたはガイドを探します"

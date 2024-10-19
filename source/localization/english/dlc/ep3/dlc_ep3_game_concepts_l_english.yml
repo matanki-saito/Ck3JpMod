@@ -234,7 +234,7 @@
  PROVINCE_ADMINISTRATION_CONCEPT: "[province_administration|E]"
  THEME_ADMINISTRATION_CONCEPT: "[theme_administration|E]"
  game_concept_reinforce_soldiers: "手動補充"
- game_concept_reinforcements: "Reinforcements"
+ game_concept_reinforcements: "援軍"
  game_concept_reinforce_soldiers_desc: "[adventurers|E]は[men_at_arms|E]を作成できますが、[landed|E]の[rulerpossessive|E]のように自動では補充されません。その代わり、各種の働きかけを通じて補充兵を募らねばなりません。"
  game_concept_adventurer_siege_replenishment: "落城補充"
  game_concept_adventurer_siege_replenishment_desc: "[adventurer|E]が[holding|E]の[sieges|E]に成功すると、[men_at_arms|E]の一部が補充されます。\n\n[army|E]内のすべての[men_at_arms|E]の[regiments|E]は、攻略した所領の[raid_loot|E]の価値の#V 二倍#!に相当する分だけ補充されます。\n\n#weak この補充は新たな徴兵、地元住民の強制徴募、包囲中に脱走した兵への罰金によって賄われている。#!"

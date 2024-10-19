@@ -424,7 +424,7 @@
  nick_the_martyr_desc:1 "聖なる[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は[CHARACTER.GetFaith.HighGodName]にその身を捧げた。[CHARACTER.GetFaith.GetAdherentNamePlural]はその殉教を忘れることは無いだろう。"
  nick_the_merry_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は最高のユーモア、イカしたジョーク、とびっきりのパーティーで知られている。"
  nick_the_honorable_desc:1 "取引成立の時、口約束を交わした時、その履行は鋼の如く信頼される。"
- nick_the_greedy_desc:0 "問題！銀の袋1つより良いものは何だ？正解は銀の袋2つ！"
+ nick_the_greedy_desc:0 "問題！銀の袋一つより良いものは何だ？正解は銀の袋二つ！"
  nick_the_monk_desc:1 "その宗教的献身と質素な生活は[CHARACTER.GetShortUINameNoTooltipNoFormat]を理想の修道僧だと多くの人に感じさせることだろう。"
  nick_the_noble_desc:1 "多くの貴族が世界にいるが、この人物と同等の域にまでその理想を体現する者は少ない。"
  nick_the_old_desc:1 "まだ生きてたのか、みたいな顔の挨拶を[CHARACTER.GetShortUINameNoTooltipNoFormat]はよく受けます。"

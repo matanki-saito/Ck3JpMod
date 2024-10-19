@@ -293,7 +293,7 @@
  huge_beast: "巨獣"
  ferocious_beast: "凶獣"
  legend_chapter_opening_generic: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip]の伝説は世界そのものと同等に偉大かつ壮大なものであり、[ROOT.Legend.GetProtagonist.GetHerHis]の偉業には並ぶものがない。"
- legend_chapter_extra_deed_memory: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip]は大いなる勇気を持って、何があろうと歩み続けた。その偉業があったからこそ、[ROOT.Legend.MakeScope.Var('extra_deed_memory').CharacterMemory.GetThirdPerspectiveDescription]のだという。"
+ legend_chapter_extra_deed_memory: "[ROOT.Legend.GetProtagonist.GetNameNoTooltip]は大いなる勇気を持って、何があろうと歩み続けた。その不屈の意志ゆえに、[ROOT.Legend.MakeScope.Var('extra_deed_memory').CharacterMemory.GetThirdPerspectiveDescription]のだという。"
  legend_chapter_motivation_generic: "この地で囁かれる漠然とした噂を耳にした[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]は、成し難き目標を追求すると心に決めた。"
  legend_chapter_motivation_evil: "[ROOT.Legend.GetProtagonist.GetHerHim]は冒険を始めた。だがそれは民衆の嘆きや土地を蝕む絶望を祓う為ではなく、胸に抱く暗い野望のためだった。"
  legend_chapter_motivation_peasant: "絶望した貧しい農民が涙を流しながら謁見を求めると、敬虔なる[ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip]はその嘆願を捨て置けず、すぐに冒険の旅に出た。"

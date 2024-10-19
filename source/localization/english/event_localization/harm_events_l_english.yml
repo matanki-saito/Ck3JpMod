@@ -367,7 +367,7 @@
  harm.1071.c.tt.failure:0 "$harm.0000.tt.death.failure$"
  harm.1072.t:0 "$harm.1071.t.prefix$: 些細な喧嘩"
  harm.1072.desc:0 "\"And another thing you [other.Custom('InsultAdjective')] [other.Custom('InsultNoun')]\", shrieks [killer.GetTitledFirstName], laying into [other.GetTitledFirstName] for what must easily be their third screaming match of the day.\n\nI ignore their bickering despite the volume, continuing on past. The two are constantly arguing, and though loud, they're ultimately harmless.\n\nI've got bigger things to worry about than some little spat between my [ROOT.Char.Custom('GetCourtierPlural')|l]."
- harm.1072.a:0 "Just another exciting day at [ROOT.Char.Custom('GetCourt')|l], eh?"
+ harm.1072.a:0 "[ROOT.Char.Custom('GetCourt')|l]のエキサイティングな日常というわけだな、うん？"
  harm.1072.a.tt:0 "#WEAK それが彼らの役割なのです…#!"
  harm.1081.t.prefix:0 "悪天候"
  harm.1081.t:0 "$harm.1081.t.prefix$: 嵐の王"

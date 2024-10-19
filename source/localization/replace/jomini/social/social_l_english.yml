@@ -22,7 +22,7 @@
  SOCIAL_OUTGOING_FRIEND_REQUESTS:0 "送信したフレンド依頼:"
  SOCIAL_REMOVE_FRIEND_CONFIRM_WINDOW_TITLE:0 "フレンドを削除する"
  SOCIAL_REMOVE_FRIEND_CONFIRM_WINDOW_DESCRIPTION:0 "[Friend.GetName]をフレンドから削除してよろしいですか？"
- SOCIAL_MESSAGE:0 "[ChatMessage.GetName]: [ChatMessage.GetMessage]"
+ SOCIAL_MESSAGE:0 "[ChatMessage.GetName]：[ChatMessage.GetMessage]"
  PROFILES_username-exists:0 "そのユーザー名はすでに使われています。別の名前を選択してください。"
  PROFILES_invalid-email:0 "無効なメールアドレス"
  PROFILES_bad-auth-method:0 "不正な認証方法"

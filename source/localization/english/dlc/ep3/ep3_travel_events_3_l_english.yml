@@ -38,7 +38,7 @@
  ep3_travel_events.3001.b: "Ominous."
  haunted_by_hostile_troops_modifier: "Haunted by Hostile Troops"
  haunted_by_hostile_troops_modifier_desc: "This character is unsettled by memories of watchful eyes in the Cilician mountain passes."
- ep3_travel_events.3002.t: "Where [local_lord.GetCulture.GetCollectiveNounNoTooltip] Govern"
+ ep3_travel_events.3002.t: "[local_lord.GetCulture.GetCollectiveNounNoTooltip]が治める地"
  ep3_travel_events.3002.intro: "A seat of power is near: the [local_lord_capital.GetProvince.GetHolding.GetType.GetName|l] of [local_lord_capital.GetName], from which [local_lord.GetTitledFirstName] watches over the local [local_lord.GetCulture.GetCollectiveNoun].\n\n"
  ep3_travel_events.3002.admin: "This [local_lord.GetCulture.GetNameNoTooltip] [local_lord.GetTitleAsNameNoTooltip|l], fortunately, embraces enlightened [ROOT.Char.GetCulture.GetName]-style administration. Travel through [local_lord.GetHerHis] [local_lord.GetPrimaryTitle.GetTierAsNameNoTooltip|l] is familiar and safe.\n\n"
  ep3_travel_events.3002.non_admin: "Relying on histrionic personal bonds and ugly force to hold together [local_lord.GetHerHis] patch of dirt, this [local_lord.GetCulture.GetNameNoTooltip] [local_lord.GetTitleAsNameNoTooltip|l] is but a petty [local_lord.GetGovernment.GetNameNoTooltip|l] lordling.\n\n"

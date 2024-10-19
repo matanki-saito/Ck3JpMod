@@ -134,5 +134,5 @@
  ep3_travel_option_events.0001.a: "I'll happily pay you to join my camp!"
  ep3_travel_option_events.0001.provisions: "I can only pay you in food and clothes."
  ep3_travel_option_events.0001.b: "Hit the road, you useless [local_character.Custom('InsultNoun')]."
- estate_mounts_option: "Magnificent Horses"
- estate_mounts_option_desc: "You outfit your entire entourage with the most magnificent horses money can buy. From your very own stables no less!"
+ estate_mounts_option: "惜しみなき名馬"
+ estate_mounts_option_desc: "あなたは随行団全員に、金で手に入る限りの最高の馬を与える。それも、自らの厩舎から贅沢にも提供するのだ！"

@@ -62,7 +62,7 @@
  bp1_yearly.3100.desc.stewardship:0 "[3100_target_courtier.GetSheHe|U]は信じられないほど優秀な家令だ——まるでミダスに触られたようだ！"
  bp1_yearly.3100.desc.learning:0 "[3100_target_courtier.GetSheHe|U]は信じられないほど優秀な学者だ——私が今まで学んだ中で最も優秀だよ！"
  bp1_yearly.3100.desc.prowess:0 "[3100_target_courtier.GetSheHe|U]は熊のような体格で、その力はものすごい！"
- bp1_yearly.3100.desc.conc:0 "I would make use of [3100_target_courtier.GetHerHim] myself, but alas it doesn't seem possible.\n\nI would hate to see [3100_target_courtier.GetHerHis] great talent go to waste. Won't you take [3100_target_courtier.GetHerHim] in and unleash [3100_target_courtier.GetHerHis] potential?\""
+ bp1_yearly.3100.desc.conc:0 "手元で使いこなしたいのだが、悲しいかな、出来そうにないのだ。\n\n素晴らしい才能が無駄になるのを見るのは忍びない。君の下で、[3100_target_courtier.GetHerHis]の本領を解き放ってやってくれないか？」"
  bp1_yearly.3100.a:0 "[3100_target_courtier.GetHerHim]にちょうど良い地位がある！"
  bp1_yearly.3100.b:0 "丁重にお断りしなければ。"
  bp1_yearly_3100_courtier_gained:0 "有能な[ROOT.Char.Custom('GetCourtier')]を採用した"

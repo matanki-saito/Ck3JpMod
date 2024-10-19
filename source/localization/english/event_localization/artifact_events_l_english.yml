@@ -78,7 +78,7 @@
  artifact.3050.desc:0 "A high-quality artifact in your possession – [this_artifact.GetName] – is approaching #N 0#! [durability|E] and might get destroyed!"
  artifact.4000.t:0 "呪いの噂"
  artifact.4000.desc.antiquarian_intro:0 "私の$antiquarian_court_position$[antiquarian.GetTitledFirstName]はここ数日何かを懸念している様子だったが、今日、[antiquarian.GetSheHe]はついに私に近づいてきた。\n\n「我が[ROOT.Char.GetLadyLord]、あなたの貴重な所有物の一つである[this_artifact.GetName]について、心配な知らせがあるのです。宮廷中がその品に関する噂でもちきりで、客人も廷臣も恐れと疑惑の目でそれを見ています…彼らはそれが#EMP 呪われている#!と信じているのです！噂されているのは、"
- artifact.4000.desc.servant_intro:0 "ここ数日、私の法廷がいつもより噂で賑わっているのに気付かずにはいられない。とはいえ、私が部屋に入ると途端に静かになってしまうのだが。\n\n私がようやく一人の使用人を捕まえて説明するよう求めると、[dummy_servant_gender.GetHerHis]は答える。「我が[ROOT.Char.GetLadyLord]、ご存知ないのですか？あなたの[this_artifact.GetName]です！皆それが#EMP 呪われた#!ものであることを知っています！明らかなのは、"
+ artifact.4000.desc.servant_intro:0 "ここ数日、私の廷臣がいつもより噂で賑わっているのに気付かないではいられなかった。とはいえ、入室した途端に静かになってしまうのだが。\n\nようやく一人の使用人を捕まえて説明するよう求めると、こう答える。「我が[ROOT.Char.GetLadyLord]、ご存知ないのですか？あなたの[this_artifact.GetName]です！皆それが#EMP 呪われた#!ものであることを知っています！明らかなのは、"
  artifact.4000.desc.stolen:0 "誰もそれを真の意味で所有することはできず、盗まれ、永遠の争いを引き起こす運命にあるのだということです！」"
  artifact.4000.desc.assassinated:0 "それを持つ者に大きな災難と激しい死をもたらすということです！」"
  artifact.4000.desc.ghost:0 "それには死者の怒りに満ちた魂が宿っているということです！」"
