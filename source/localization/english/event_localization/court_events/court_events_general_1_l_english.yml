@@ -1,9 +1,9 @@
 ﻿l_english:
- court_events.1000.t: "The Very Grandest of All"
+ court_events.1000.t: "もっとも偉大なるもの"
  court_events.1000.desc: "\"O great [ROOT.Char.GetTitleAsNameNoTooltip]! Together, we two have wandered all the known world,\" fawns [guest.GetName], the first of a pair of renowned travelers, \"Beheld sunny pleasure-domes! Caves of ice! Drunk the milk of Palestine and fed on honey-dew.\"\n\n\"We've visited the camps of khans, sultans' palaces, ancient halls... but not a court on earth compares to yours: none equal in stateliness and luxury!\"\n\n[guest.GetHerHis|U] companion [guest_2.GetName] performs strange foreign obeisances, pleading:\n\n\"The comforts of this place — they're beyond even [second_court.GetPrimaryTitle.GetAdjective] frivolities... wise [ROOT.Char.GetTitleAsNameNoTooltip], please allow us yet more early glimpses of [guest_2.GetFaith.PositiveAfterLife]!\""
  court_events.1000.a: "Only charity offsets a reputation for excess..."
  court_events.1000.a.flavor: "And enriches my people!"
- court_events.1000.b: "\"Remain here, in the grandest of courts.\""
+ court_events.1000.b: "「この、もっとも偉大なる宮廷にとどまるが良い」"
  court_events.1000.b.flavor: "And lead my courtiers in praising me as the grandest of sovereigns!"
  court_events.1000.c: "\"Tell all of the wonders you've seen here.\""
  traveling_friends_court_position_aptitude: "These traveling friends have increased [aptitude|E] when both hold [court_positions|E]"

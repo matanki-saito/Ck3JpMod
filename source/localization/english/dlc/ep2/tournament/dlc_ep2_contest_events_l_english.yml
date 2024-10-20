@@ -630,7 +630,7 @@
  contest_events.1540.desc:0 "私は自信満々で矢を集め、的の前に陣取ると雰囲気を味わう。私が構えと矢筈を完璧に決めると、観客は静まり返る。\n\n最初の矢は間一髪で外れ、的の土の部分にめり込んだ。二本目は的を数センチ越えてしまった。三本目は放つ時の失敗で私から数ヤードのところに落下してしまう。\n\n"
  contest_events.1540.unskilled:0 "私がイライラを隠せずに戻ってくると、群衆はくすくす笑っている。もっ​​と練習が必要だ…"
  contest_events.1540.sabotage:0 "理解できない！練習の時は当てられたのに。ただ…私は弓を疑いの目で見る…"
- contest_events.1540.a:0 "仕方がない。"
+ contest_events.1540.a:0 "やるべきことをやるだけだ。"
  contest_events.1541.t:0 "$contest_events.1540.t$"
  contest_events.1541.desc:0 "[contestant.GetTitledFirstName]は自信満々で矢を集め、的の前に陣取る。[contestant.GetSheHe]が構えと矢筈を完璧に決めると、観客は静まり返る。\n\n最初の矢は間一髪で外れ、的の土の部分にめり込んだ。二本目は的を数センチ越えてしまった。三本目は放つ時の失敗で[contestant.GetHerHim]から数ヤードのところに落下してしまう。\n\n"
  contest_events.1541.unskilled:0 "[contestant.GetSheHe]がイライラを隠せずに戻ってくると、群衆はくすくす笑っている。[contestant.GetSheHe|U]にはもっと練習が必要だ！"
