@@ -863,7 +863,7 @@
  laamp_base_0001_success_employer_modifier: "歓待された廷臣たち"
  laamp_base_0001_success_employer_modifier_desc: "この人物の宮廷は異国の地や異国情緒あふれる旅の大袈裟な話で賑わっている。"
  laamp_base_0001_failure_employer_modifier: "Tiresome Hangers-On"
- laamp_base_0001_failure_employer_modifier_desc: "Tiresome wanderers and dishonest rogues throng this character's court, making for a tedious place to live."
+ laamp_base_0001_failure_employer_modifier_desc: "この人物の宮廷は、厄介な放浪者や胡散臭い破落戸に集られている。そのせいで生活するには退屈な空間になっている。"
  laamp_base_0011.tt.success_standard.employer_reward.remove_potential_rivals: "Removes [THIS.Char.MakeScope.ScriptValue('laamp_base_0011_num_removable_potential_rivals_value')] potential [rivals|E]"
  laamp_base_0031_success_employer_modifier: "Expert Mediators"
  laamp_base_0031_success_employer_modifier_desc: "This character brought in considerable talent to smooth over a controversy in their realm."

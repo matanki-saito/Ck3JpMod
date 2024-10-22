@@ -15,7 +15,7 @@
  adventurer_golden_aplomb_perk_effect: "[adventurer_i] When using the #V $gather_provisions_decision$#! [decision|E], #EMP #V Somewhat Effective#!#! [terrain|E] now counts as #EMP #V Very Effective#!#!"
  adventurer_it_is_my_domain_perk_effect: "[adventurer_i]#V $gather_provisions_decision$#![decision|E]によって[provisions_i][provisions|E]を#P +25%#!多く獲得します。"
  adventurer_a_mans_home_perk_effect: "[adventurer_i][adventurer_siege_replenishment|E]の効果が倍になる"
- adventurer_strict_organization_perk_effect: "[adventurer_i][siege|E]戦後に手に入る[provisions_i][provisions|E]の[raid_loot|E]品が#V 20倍#!になる"
+ adventurer_strict_organization_perk_effect: "[adventurer_i][siege|E]戦後に手に入る[provisions_i][provisions|E]の[raid_loot|E]が#V 20倍#!になる"
  adventurer_flexible_truces_perk_effect: "[adventurer_i] #V $contact_list_request_interaction$#!の受け入れ: #P +20#!"
  adventurer_inspiring_rule_perk_effect: "[adventurer_i] #V $contact_list_request_interaction$#!を通じて[honorary_guest|E]として[GetActivityType('activity_feast').GetTextIcon][GetActivityType('activity_feast').GetName]を開催してもらえます"
  adventurer_stalwart_leader_perk_effect: "[adventurer_i] #V $contact_list_request_interaction$#!を通じて[count|E][rank|E]以上の[rulers|E]に[GetActivityType('activity_tournament').GetTextIcon][GetActivityType('activity_tournament').GetName]を開催してもらえます"

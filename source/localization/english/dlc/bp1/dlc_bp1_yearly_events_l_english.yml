@@ -208,7 +208,7 @@
  bp1_yearly.5713.desc:0 "二人でベットに入って話すなり、私は[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('destitute_spouse'))][destitute_spouse.GetFirstName]の琴線に触れてしまったようだ。[destitute_spouse.GetSheHe|U]が目に見えて動転してしまったので、[destitute_spouse.GetHerHis]の手を優しく握りしめ、何が問題なのかと尋ねた。\n\n「ええっと…お金の問題」[destitute_spouse.GetSheHe]はため息を付くと、もう一方の手で頭を抱えた。「実家がお金に不自由してて、もう少しで家まで失いそうだって。あそこは小さい頃から住んでたから…」\n\n[destitute_spouse.GetSheHe|U]はすがるような目で私を見る。「その…こっちで何とかできないかな？実家も絶対返してくれるし、また軌道に乗せればいいだけだから。本当に、絶対信用できるから！」"
  bp1_yearly.5713.a:0 "どうにかするよ。じゃあこっちも#EMP 二人#!で#EMP どうにかなっちゃおうか…#!"
  bp1_yearly.5713.b:0 "必要なものも、それ以上のものも手にすることができる。"
- bp1_yearly.5713.c:0 "私に任せて"
+ bp1_yearly.5713.c:0 "わかったよ。"
  bp1_yearly.5713.d:0 "私を強請ろうっていうのか！？"
  bp1_yearly.5714.t:0 "別れを告げる"
  bp1_yearly.5714.desc:0 "私の心には深く果てしない穴が開いてしまった。\n\n[deceased_pal.GetFirstName]は常に仲間であり、親友だった。[deceased_pal.GetHerHim]が私の人生から居なくなってしまったことは、二度と治らない傷を負ったように感じる。[deceased_pal.GetSheHe]がくれたメモを手で握りしめる——[deceased_pal.GetSheHe]が私にくれた#EMP 最後の#!メモは、辛い。私はそれを読もうとするが、書かれている大切な言葉が涙で洗い流されるのが怖くて読めないのだ。\n\n私の周りには多くの会葬者が集まってるが、ただただ孤独を感じている。"

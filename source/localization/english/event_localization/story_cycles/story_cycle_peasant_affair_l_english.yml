@@ -25,7 +25,7 @@
  peasant_affair.2002.a:0 "なんとしても[peasant_character.GetHerHim]を手に入れる!"
  peasant_affair.2002.b:0 "確かにここまでする価値のある農民はいないだろう。"
  peasant_affair.2003.desc_opening:0 "「我が君、以前から強く所望されていました[peasant_character.GetTitledFirstName]をお連れしました。」\n\n"
- peasant_affair.2003.desc_dead_brought_child:0 "「我が君、お知らせします。あなた様が探らせていた[peasant_character.GetWomanMan]は残念ながらこの世からお隠れになりましたが、その[[peasant_child.Custom('GetDaughterSon')]を連れてまいりました」\n\nなんてきついジョークなんだ![peasant_character.GetHerHim]の捜索はただ[peasant_character.GetHerHim]を永久に失うハメになっただけだった!いや待てよ、この[peasant_child.Custom('GirlBoy')]、[peasant_child.GetSheHe]を我が物にできるのではないか…?"
+ peasant_affair.2003.desc_dead_brought_child:0 "「我が君、お知らせします。あなた様が探らせていた[peasant_character.GetWomanMan]は残念ながらこの世からお隠れになりましたが、その[peasant_child.Custom('GetDaughterSon')]を連れてまいりました」\n\n笑えない話だ。[peasant_character.GetHerHim]の捜索はただ[peasant_character.GetHerHim]を永久に失うだけの結果しか残さなかったというのか。いや待てよ、この[peasant_child.Custom('GirlBoy')]、[peasant_child.GetSheHe]を我が物にできるのではないか…?"
  peasant_affair.2003.desc_dead: "「我が君、お知らせします。あなた様が探らせていた[peasant_character.GetWomanMan]は残念ながらこの世からお隠れになりました」\n\nなんてきついジョークなんだ![peasant_character.GetHerHim]の捜索はただ[peasant_character.GetHerHim]を永久に失うハメになっただけだった!"
  peasant_affair.2003.desc_dislike: "私の夢に出てきた農民の[peasant_character.GetWomanMan]は[searching_character.GetTitledFirstNamePossessive]の拘束に抗い、その顔は怒りと恐怖で歪んでいた。\n\n「お願いです我が[ROOT.Char.GetLadyLord]！　行かせてください！　あの夜のことは過ちだったのです。私の望みはただ一人で去ることだけです」"
  peasant_affair.2003.desc_dislike_their_child: "私の夢に出てきた農民の[peasant_character.GetWomanMan]は[searching_character.GetTitledFirstNamePossessive]の拘束に抗い、[peasant_child.Custom('GetDaughterSon')]をしっかりと脇に抱えた[peasant_character.GetHerHis]の顔は怒りと恐怖で歪んでいた。\n\n「お願いです我が[ROOT.Char.GetLadyLord]！　私達を行かせてください！　私の望みはただ#EMP 自分の#![peasant_child.Custom('GetDaughterSon')]を一人で育てたいだけなのです」"

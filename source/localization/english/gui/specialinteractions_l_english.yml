@@ -32,7 +32,7 @@
  ACTOR_NEMESIS_TO_ME_REASON:0 "[recipient.GetShortUIName|U]は[actor.GetShortUINamePossessive]の仇敵である: $VALUE|+0$"
  MARRIAGE_DESPERATION:2 "[secondary_recipient.GetShortUINamePossessive]の年齢: $VALUE|+=0$"
  MARRY_CONSANGUINITY_REASON:0 "この結婚は[incestuous|E]になるだろう: $VALUE|+=0$"
- MATRILINEAL_WARNING:0 "@warning_icon! #X この結婚から生まれた子供たちは、[CHARACTER.GetShortUINamePossessive] [dynasty|E] ([CHARACTER.GetDynastyName])のものになります！#!"
+ MATRILINEAL_WARNING:0 "@warning_icon! #X この結婚から生まれた子供たちは、[CHARACTER.GetShortUINamePossessive]の[dynasty|E] ([CHARACTER.GetDynastyName])のものになります！#!"
  MATRILINEAL_REASON:0 "母系結婚: $VALUE|=+0$"
  PATRILINEAL_REASON:0 "父系制結婚: $VALUE|=+0$"
  PROMISING_PROSPECTS_PERK_MODIFIER:0 "あなたは[GetPerk( 'promising_prospects_perk' ).GetName( GetPlayer )]を持っている: $VALUE|=+0$"
