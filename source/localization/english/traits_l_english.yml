@@ -983,7 +983,7 @@
  trait_legend: "生ける伝説"
  trait_legend_character_desc: "その英雄的な生涯で有名な[ROOT.GetCharacter.GetFirstNameNoTooltip]は、生ける伝説として皆に知られている。"
  trait_legend_desc: "その英雄的な生涯で有名なこの人物は、生ける伝説として知られている。"
- TRAIT_FLAG_DESC_cannot_inherit_titles: "@warning_icon!#N [titles|E]を継承できない#!"
+ TRAIT_FLAG_DESC_cannot_inherit_titles: "@warning_icon! #X Cannot inherit [titles|E]#!"
  trait_eunuch_1:0 "去勢"
  trait_eunuch_1_desc: "この人物は大人になってから去勢された。"
  trait_eunuch_1_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は大人になってから去勢された。"

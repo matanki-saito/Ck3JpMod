@@ -1268,4 +1268,6 @@
  desert_provisions_use_mult: "[GetTerrain( 'desert' ).GetName]での[provisions|E]使用量"
  desert_mountains_provisions_use_mult: "[GetTerrain( 'desert_mountains' ).GetName]での[provisions|E]使用量"
  drylands_provisions_use_mult: "[GetTerrain( 'drylands' ).GetName]での[provisions|E]使用量"
- heavy_infantry_screen_mult: "[heavy_infantry|E]の[screen|E]"
+ heavy_infantry_screen_mult: "$heavy_infantry_screen_add$"
+ heavy_infantry_pursuit_mult: "$heavy_infantry_pursuit_add$"
+ administrative_government_vassal_opinion: "[administrative|E] [vassal|E] Opinion"

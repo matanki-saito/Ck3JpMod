@@ -533,3 +533,4 @@
  hungry_times_request: "$admin_request_choose_opportunity$"
  wartime_measures_request: "解決にあたって[martial|E]若しくは[stewardship|E]を用いる可能性があります"
  task_contract_location_not_in_realm: "You are not the [GetPlayer.Custom('GetGovernorConcept')] of [task_contract_possessive|E] location"
+ has_active_governance_issue: "You already have an ongoing [governance_issue|E]"

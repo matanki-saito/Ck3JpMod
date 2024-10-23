@@ -608,3 +608,5 @@
  consort_good_friend: "良き友"
  relation_ally: "仲間"
  relation_foe: "敵"
+ relation_leader_female: "leader"
+ relation_leader_male: "leader"

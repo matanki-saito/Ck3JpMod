@@ -83,3 +83,5 @@
  GREEK_ANARCHY_CB_NAME: "帝国公爵領占領"
  ep3_laamp_peasant_war: "農民蜂起"
  ep3_laamp_peasant_war.peasant_army: "全ての伯爵領の農民が[levies|E]としてあなたの軍隊に加わります"
+ ep3_join_war_payment_tt: "Due to [GetTaskContractType('laamp_join_war_contract').GetName] [task_contract|E]:"
+ ep3_hire_laamp_mercs_payment_tt: "Due to [mercenary|E] work:"

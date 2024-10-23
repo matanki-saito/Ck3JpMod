@@ -340,3 +340,7 @@
  RULER_DESIGNER_GROUP_mouth: "口"
  RULER_DESIGNER_GROUP_ears: "耳"
  RULER_DESIGNER_LANDLESS_TO_RULER: "@warning_icon!#X [adventurers|E]から[rulers|E]を作成することはできません#!"
+ RULER_DESIGNER_UPDATE_APPEARANCE: "Generate Appearance from selection"
+ RULER_DESIGNER_LOAD_WINDOW_LOAD_ALL_OPTION: "Load all"
+ RULER_DESIGNER_LOAD_WINDOW_LOAD_TRAITS_OPTION: "Load traits"
+ RULER_DESIGNER_LOAD_WINDOW_LOAD_DNA_OPTION: "Load appearance"

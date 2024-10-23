@@ -255,7 +255,7 @@
  bp1_yearly.5719.c:0 "あるいは我々は妥協点を見いだせるのでは？"
  bp1_yearly.5719.d:0 "ただ…ただ、もう二度としないでくれ！"
  bp1_yearly.5720.t:0 "強さを試す"
- bp1_yearly.5720.desc:0 "この食事において私は[ROOT.Char.Custom('RegionalDrink')]を数杯飲んでいるので、本来なら今頃はかなり陽気になっていたはずなのだが。残念なことに、斜め向かいのテーブルにいる[rival_challenger.GetFirstName]の呪われた存在が、私の夜を邪魔しているのだ。\n\n[rival_challenger.GetHerHis]の口からわずかな仄めかしが出るだけで、我々は身を乗り出し、指を差し、声の限りを尽くして叫ぶ。\n\n「この[ROOT.Char.Custom('InsultNoun')]め！この[ROOT.Char.Custom('InsultNoun')]め！」[rival_challenger.GetSheHe]は怒鳴る。「お前は力比べで子供にも勝てやしないさ！今ならお前の腕を労せずして木に括り付けてやれるさ！」"
+ bp1_yearly.5720.desc:0 "I am several cups of [ROOT.Char.Custom('RegionalDrink')] in at this meal, but the accursed presence of [rival_challenger.GetFirstName] blights my evening.\n\n\"You [ROOT.Char.Custom('InsultNoun')]! You [ROOT.Char.Custom('InsultNoun')]!\" [rival_challenger.GetSheHe] bellows. \"You couldn't best a child in a test of strength! I could pin your arm to the table right now with nary an effort expended!"
  bp1_yearly.5720.a:0 "もちろん。#EMP 左腕#!で、そうだな？"
  bp1_yearly.5720.a.tt:0 "これで[THIS.Char.Custom('GetCourt')]では人気者にはなれないかもしれないが、気分は#EMP 最高#!です…"
  bp1_yearly.5720.b:0 "はっはっは！さっさと外へ出ろ！"

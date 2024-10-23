@@ -138,7 +138,7 @@
  doctrine_parameter_mandatory_feast_attendance:0 "[vassals|E]が祝宴により参加しやすくなります。それでも参加を拒んだ者は[piety|E]を失います。"
  tenet_sky_burials_name:0 "鳥葬"
  tenet_sky_burials_desc:1 "死者を地中に投獄すべきではない——鳥に食べられるようにした方がはるかに良いことであり、この惜しみ無い最後の行為によって、自らを育んだ世界に糧を供給するのである。"
- doctrine_parameter_sky_burials_active:3 "[rulers|E]は祖先を鳥葬し、[piety|E]を得て[vassals|E]を満足させます\n$EFFECT_LIST_BULLET$納骨場所である[duchy_building|E]を建てることができます"
+ doctrine_parameter_sky_burials_active:3 "[rulers|E] can give their ancestors a Sky Burial, gaining [piety|E] and pleasing their [vassals|E]\n$EFFECT_LIST_BULLET$The [GetBuilding('charnel_grounds_01').GetName] [duchy_building|E] can be built"
  tenet_sacred_childbirth_name:0 "神聖なる分娩"
  tenet_sacred_childbirth_alternate_name:0 "クーディキス・レムティ"
  tenet_sacred_childbirth_desc:0 "母親が出産する浴場は清潔にし、適切な儀式を準備して、出産のとき神が我々に恵みを与えてくださるようにしなければならない。"

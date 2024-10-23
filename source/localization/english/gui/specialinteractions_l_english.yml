@@ -562,3 +562,5 @@
  RIVAL_VASSAL_REASON: "[realm|E]内のライバルの[vassal|E]：$VALUE|=+0$"
  negotiate_settlement_title_cant_receive_reason_higher_tier_without_county: "[recipient.GetShortUINameNotMe]は、[target.GetName]と一緒に少なくとも一つの伯爵領を保持するか、または受け取る必要があります"
  SCHEME_TARGET_LEARNING: "[target.GetShortUINamePossessive|U]の[learning|E]：$VALUE|+=0$"
+ STATE_FAITH_CREATE_FAITH_REASON: "You hold a lot of sway within the [realm|E]: $VALUE|=+0$"
+ HAS_PERK_PROPHET_REASON: "You have the [GetPerk('prophet_perk').GetName(GetPlayer)] [perk|E]: $VALUE|=+0$"

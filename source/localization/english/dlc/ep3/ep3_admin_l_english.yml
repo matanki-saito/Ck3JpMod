@@ -112,3 +112,4 @@
  ep3_admin_events.0005.desc_still_admin: "かつて偉大だった我が領土はもはや存在しない。私は[gov_liege.GetFirstNamePossessive]の支配を離れ、自ら[ROOT.Char.GetPrimaryTitle.GetNameNoTier]を統治することになった。\n\n独立と自由な統治を手に入れた以外は、ほとんど何も変わらない。官僚制は我々の生活様式に深く根付いており、それはこれからも変わることはない。"
  ep3_admin_events.0005.desc_lost_admin: "成り行きのままに、我が偉大な領土は失われてしまった。そして、それと共に我々の生活を支えていた官僚制度も灰燼に帰した。私は、この新たな現実に合わせて統治体制を適応させるほか、ほとんど選択の余地がない。"
  ep3_admin_events.0005.a: "過ぎてしまったことは仕方ない、これから頑張ろう！"
+ demand_admin_tribal: "[recipient.GetShortUIName|U] [CharAreIs(recipient)] [tribal|E] - Only settled [governments|E] can become [administrative|E]"
