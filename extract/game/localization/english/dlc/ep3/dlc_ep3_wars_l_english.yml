@@ -91,3 +91,5 @@
 
  ep3_laamp_peasant_war: "Peasant Uprising"
  ep3_laamp_peasant_war.peasant_army: "Peasants in every county will raise as [levies|E] and join your side"
+ ep3_join_war_payment_tt: "Due to [GetTaskContractType('laamp_join_war_contract').GetName] [task_contract|E]:"
+ ep3_hire_laamp_mercs_payment_tt: "Due to [mercenary|E] work:"

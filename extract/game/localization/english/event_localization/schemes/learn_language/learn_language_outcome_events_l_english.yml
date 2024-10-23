@@ -7,7 +7,7 @@
  learn_language_outcome.1000.b.failure:4 "My letter comes across as dishonest mockery"
  target_responds:0 "[target.GetTitledFirstName] responds to your letter"
  
- learn_language_outcome.1001.opening:0 "[owner.Custom2('AppropriateGreeting', target)]"
+ learn_language_outcome.1001.opening:0 "[owner.Custom2('AppropriateGreetingPositive', target)]"
  learn_language_outcome.1001.desc:5 "I have studied the [target.GetCulture.GetLanguage.GetName] language for many moons. I personally penned this missive using the [target.GetCulture.GetLanguage.GetNameNoTooltip] script — a letter of friendship from a speaker of [owner.GetCulture.GetLanguage.GetName]!\n\nI wish for our future diplomatic dealings to benefit us both greatly!"
  learn_language_outcome.1001.a:4 "[owner.GetSheHe|U] has learned [target.GetCulture.GetLanguage.GetNameNoTooltip]? Impressive, send my regards!"
  learn_language_outcome.1001.b:0 "Hah! [owner.GetHerHis|U] vain attempt at gaining glory is laughable!"

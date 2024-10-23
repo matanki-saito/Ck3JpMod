@@ -230,7 +230,7 @@ VASSAL_IS_NOT_FAR_ENOUGH: "[CHARACTER.GetShortUIName] is too close to your [capi
 VASSAL_HAS_THE_WRONG_RELIGION: "[CHARACTER.GetShortUIName] is of the same [religion|E] as you"
 VASSAL_HAS_THE_WRONG_FAITH: "[CHARACTER.GetShortUIName] is #Bold not#! of the same [faith|E] as you"
 
-NO_TAX_SLOT_AVAILABLE: "#D There is no valid tax slots for you#!"
+NO_TAX_SLOT_AVAILABLE: "#X No valid tax slots, they may enable next month#!"
 
 TAX_SLOT_OBLIGATION_LIEGE_MODIFIER: "#S [liege|E] per Vassal:#!"
 TAX_SLOT_OBLIGATION_VASSAL_MODIFIER: "#S [vassal|E]:#!"

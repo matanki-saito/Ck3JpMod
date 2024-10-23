@@ -261,7 +261,13 @@
 
  petition_liege.9001.t:0 "$petition_liege_header$ Switching Tactics"
  petition_liege.9001.desc:0 "I can no longer petition [petition_liege.GetTitledFirstName] to [ROOT.Char.Custom( 'GetPetitionType' )|l] Nevertheless, I have traveled all the way here to [petition_liege.GetCapitalLocation.GetName] to gain [petition_liege.GetHerHis] ear and I will not pass up such an opportunity. I could ask that [petition_liege.GetSheHe]..."
+ petition_liege.9001.gold: "$petition_liege_gold$."
  petition_liege.9001.council_seat:0 "Appoint me to their council."
+ petition_liege.9001.council_seat_family: "$petition_liege_council_seat_family$."
+ petition_liege.9001.court_position: "$petition_liege_court_position$."
+ petition_liege.9001.court_position_family: "$petition_liege_court_position_family$."
+ petition_liege.9001.governorship_family: "$petition_liege_governorship_family$."
+ petition_liege.9001.house_governorship_rights: "$petition_liege_house_governorship_rights$."
  petition_liege.9001.pay_debt:0 "Settle my debts."
  petition_liege.9001.war_aid:0 "Provide war assistance."
  petition_liege.9001.vassal_war:0 "Enforce peace with my fellow vassals."

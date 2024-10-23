@@ -620,7 +620,7 @@
  ep3_laamp_decision_event.1040.b: "That [visiting_location.GetCounty.GetFaith.HouseOfWorship] looks intriguing."
  ep3_laamp_decision_event.1040.b_second: "Let's go back to the [visiting_location.GetCounty.GetFaith.HouseOfWorship]."
  ep3_laamp_decision_event.1040.b.tt: "Enter the [visiting_location.GetCounty.GetFaith.HouseOfWorship]"
- ep3_laamp_decision_event.1040.b.cooldown.tt: "The [visiting_location.GetCounty.GetFaith.HouseOfWorship] is busy with a [visiting_location.GetCounty.GetFaith.GetNameNoTooltip] ceremony for the rest of this visit"
+ ep3_laamp_decision_event.1040.b.cooldown.tt: "The [visiting_location.GetCounty.GetFaith.HouseOfWorship] is busy with a ceremony for the rest of this visit"
  caught_stealing.tt: "You were recently caught stealing from a holy place - you are banished until [GetCurrentDateWithDiff( GetVarTimeRemaining( THIS.Char.MakeScope, '1040_caught_stealing') )]"
 
  ep3_laamp_decision_event.1040.c: "A garden stroll couldn't hurt."
@@ -697,8 +697,10 @@
  ep3_laamp_decision_event.1043.a.flavor_unzealous: "I #EMP suppose#!..."
  ep3_laamp_decision_event.1043.b: ""Maybe [visiting_location.GetCounty.GetFaith.HighGodName] could bless our cause?""
  ep3_laamp_decision_event.1043.c: "Clearly #EMP I#! am in need of these donations."
+ ep3_laamp_decision_event.1043.c_guarded: "One more donation, into #EMP my#! pouch."
  ep3_laamp_decision_event.1043.c_master_thief: ""Psst, [visiting_partner.GetFirstNameNoTooltip], keep watch!""
  ep3_laamp_decision_event.1043.c.flavor: "Make a distraction, pilfer some coin. Easy."
+ ep3_laamp_decision_event.1043.c.flavor_guarded: "Hmm. The guards sure circulate a lot more frequently around these parts, for some reason..."
  ep3_laamp_decision_event.1043.c.thievery_success.t: "Successful Thievery"
  ep3_laamp_decision_event.1043.c.thievery_success.desc: "You successfully steal the donations"
  ep3_laamp_decision_event.1043.c.thievery_failure.t: "Banished!"
@@ -819,6 +821,8 @@
  ep3_laamp_decision_event.1051.c: ""Have at you, [visiting_partner.GetFirstNameNoTooltip]!""
  ep3_laamp_decision_event.1051.c_joshing.t: "Playing Around"
  ep3_laamp_decision_event.1051.c_joshing.desc: "The sparring was inefficient"
+ ep3_laamp_decision_event.1051.c_wounded.t: "$playdate_training_injury_log_title$"
+ ep3_laamp_decision_event.1051.c_wounded.desc: "$martial_authority.8000_injury$"
  ep3_laamp_decision_event.1051.d: "$ep3_laamp_decision_event.1021.d$"
 
  #Garrison

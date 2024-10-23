@@ -129,3 +129,5 @@
  ep3_admin_events.0005.desc_still_admin: "Our once great realm is no more, as I find myself outside of [gov_liege.GetFirstNamePossessive] influence. Which leaves me in charge of [ROOT.Char.GetPrimaryTitle.GetNameNoTier]. Other than my independence and free reign, few things will change. Bureaucracy is engrained in our way of life and will remain so."
  ep3_admin_events.0005.desc_lost_admin: "As circumstances would have it, our great realm has been lost. And with it, the bureaucracy that governed our way of life has been reduced to cinders. I have little choice other than to adapt my government to this new reality."
  ep3_admin_events.0005.a: "Let's put the past behind us and look to the future!"
+ 
+ demand_admin_tribal: "[recipient.GetShortUIName|U] [CharAreIs(recipient)] [tribal|E] - Only settled [governments|E] can become [administrative|E]"

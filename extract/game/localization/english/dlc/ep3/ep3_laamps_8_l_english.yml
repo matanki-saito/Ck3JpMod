@@ -100,7 +100,7 @@
  friend_gave_them_a_dog_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] gifted [CHARACTER.GetShortUIName] a strong and loyal hound"
  friend_eccentric: "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over shared eccentricities"
  artifact_durable_materials_02: "Durable Materials"
- cultural_acceptance_fled_persecution: "An adventurer helped some minorities escape persecution."
+ cultural_acceptance_fled_persecution: "An adventurer helped some minorities escape persecution"
  friend_treasured_more_than_food: "[TARGET_CHARACTER.GetShortUIName|U] offered [CHARACTER.GetShortUIName] provisions in [CHARACTER.GetSheHe] time of need."
  friend_treasured_more_than_food_corresponding: "[CHARACTER.GetShortUIName|U] offered [TARGET_CHARACTER.GetShortUIName] provisions in [TARGET_CHARACTER.GetSheHe] time of need."
 

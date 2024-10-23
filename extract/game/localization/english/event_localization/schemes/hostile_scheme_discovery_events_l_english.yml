@@ -40,7 +40,7 @@
  hostile_scheme_discovery.2001.a:0 "We must stop the villain behind this!"
 
  hostile_scheme_discovery.3001.t:0 "Agent Discovered!"
- hostile_scheme_discovery.3001.intro:0 "[agent.GetTitledFirstName], my agent at [court_owner.GetTitledFirstNamePossessive] court, has been discovered!"
+ hostile_scheme_discovery.3001.intro:0 "[agent.GetTitledFirstName], my agent in [court_owner.GetTitledFirstNamePossessive] [scheme.GetName|l], has been discovered!"
  hostile_scheme_discovery.3001.imprisoned:0 "\n\nNow the [court_owner.GetTitleAsName] has placed [agent.GetHerHim] under lock and key."
  hostile_scheme_discovery.3001.accused:0 "\n\nNow [agent.GetSheHe] is known to be untrustworthy, and cannot help my cause any further."
  hostile_scheme_discovery.3001.a:0 "Curse [court_owner.GetTitledFirstNameNoTooltip], and [court_owner.GetHerHis] [spymaster.GetCouncilTitle]!"
