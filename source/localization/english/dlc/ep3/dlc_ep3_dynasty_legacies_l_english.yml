@@ -11,7 +11,7 @@
  ep3_administrative_legacy_3_effect_reception_hall_global: "[GetDomicileBuilding('reception_hall_01').GetName]の[estate|E]建造物をアンロック"
  ep3_dynasty_legacy_gain_legitimacy_effect_title: "[GetDomicileBuilding('reception_hall_01').GetName]で[legitimacy|E]を得ます"
  ep3_dynasty_legacy_add_legitimacy_effect_title: "正統な貯蓄"
- ep3_dynasty_legacy_add_legitimacy_effect_desc: "[host.GetShortUINamePossessive] [activity.GetActivityType.GetNameNoTooltip] in [activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly] added [legitimacy|E] to [reception_hall_owner.GetShortUINamePossessive] [GetDomicileBuilding('reception_hall_01').GetName]"
+ ep3_dynasty_legacy_add_legitimacy_effect_desc: "[activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]の[host.GetShortUINamePossessive]の[activity.GetActivityType.GetNameNoTooltip]は[reception_hall_owner.GetShortUINamePossessive]の[GetDomicileBuilding('reception_hall_01').GetName]に[legitimacy|E]を追加した"
  ep3_administrative_legacy_4_name: "永遠の都"
  ep3_administrative_legacy_4_effect_cabinet_of_curiosities_global: "[GetDomicileBuilding('cabinet_of_curiosities_01').GetName]の[estate|E]建造物をアンロック"
  ep3_administrative_legacy_5_name: "分割して統治せよ"

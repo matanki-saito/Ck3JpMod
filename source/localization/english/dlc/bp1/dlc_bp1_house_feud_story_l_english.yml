@@ -345,7 +345,7 @@
  house_feud_cooldown_tt:1 "あなたの[house|E]は25年間、別の[house_feud|E]を開始できません"
  house_reward_modifier_tt:1 "この補正はあなたの現在の[house_feud|E]スコアに基づきます"
  house_feud_family_broken_grand_wedding_flavor:0 "グランドウェディングを誓った[ROOT.Var('house_feud_victim').Char.GetFirstName]と[ROOT.Var('house_feud_attacker').Char.GetFirstName]の婚約が[ROOT.Var('house_feud_attacker').Char.GetHouse.GetBaseName]によって台無しにされたことに[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は怒り狂っています。"
- house_feud_head_broken_grand_wedding_flavor:0 "[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は、盛大な結婚式を約束していたにも関わらず、[ROOT.Var('house_feud_first_owner').Char.GetHerHis][ROOT.Var('house_feud_attacker').Char.GetFirstName]との婚約が[ROOT.Var('house_feud_attacker').Char.GetHouse.GetBaseName]家によって破られたことに激怒した"
+ house_feud_head_broken_grand_wedding_flavor:0 "[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は、盛大な結婚式を約束していたにも関わらず、[ROOT.Var('house_feud_attacker').Char.GetFirstName]との婚約が[ROOT.Var('house_feud_attacker').Char.GetHouse.GetBaseName]家によって破られたことに激怒した"
  house_feud_murder_feast_flavor:0 "[ROOT.Var('house_feud_attacker').Char.GetFirstName]が主催する饗宴で[ROOT.Var('house_feud_victim').Char.GetFirstName]は[ROOT.Var('house_feud_victim').Char.GetDeathReasonHideKiller]、そして[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は正義を求めた"
  house_feud_bloody_wedding_flavor:0 "[ROOT.Var('house_feud_attacker').Char.GetFirstName]が主催した結婚式で[ROOT.Var('house_feud_victim').Char.GetFirstName]は[ROOT.Var('house_feud_victim').Char.GetDeathReasonHideKiller]、そして[ROOT.Var('house_feud_first_owner').Char.GetFirstName]は正義を求めた"
  house_feud_betrothal:0 "婚約の破棄"

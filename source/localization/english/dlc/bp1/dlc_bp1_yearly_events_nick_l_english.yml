@@ -93,7 +93,7 @@
  bp1_yearly.5705.b:0 "あなたは私たちの関係について何もわかってない！"
  bp1_yearly.5705.c:0 "分かった分かった、あなたは正しい。"
  bp1_yearly.5706.t:0 "[SCOPE.sC('rival_child').Custom2('RelationToMeShort', SCOPE.sC('rival_parent'))|U]の罪"
- bp1_yearly.5706.desc:0 "[meeting_county.GetProvince.GetCounty.GetName]の辺りを歩きながらふと見ると、[rival_parent.Custom2('MyCharacterIntroduction', ROOT.Char)]がこちらに向かって急ぎ足で歩いてくるのに気づき、私は口を歪めた。我々の諍いはここのところ特に険悪で、事あるごとに言い争っていたのだ。またぞろ不愉快な言葉を投げかけてくるかと思いきや、[rival_parent.GetSheHe]は足早に通り過ぎていった。\n\nその時ようやく、私は[rival_parent.GetHerHis]が誰かを連れているのに気づいた。[rival_child.GetFirstName]、[rival_parent.GetFirstNamePossessiveNoTooltip]の子供だった。[rival_child.GetSheHe|U]は私に向かって、眉をわずかに上げうっすらと微笑みかけ、[rival_child.GetHerHis][SCOPE.sC('rival_child').Custom2('RelationToMeShort', SCOPE.sC('rival_parent'))]を慌てて追いかけていく。私は驚きながら、二人が遠ざかっていくのを見送った。\n\nあれは一体何だったのだろう？"
+ bp1_yearly.5706.desc:0 "[meeting_county.GetProvince.GetCounty.GetName]の辺りを歩きながらふと見ると、[rival_parent.Custom2('MyCharacterIntroduction', ROOT.Char)]がこちらに向かって急ぎ足で歩いてくるのに気づき、口を歪めた。我々の諍いはここのところ特に険悪で、事あるごとに言い争っていたのだ。またぞろ不愉快な言葉を投げかけてくるかと思いきや、[rival_parent.GetSheHe]は足早に通り過ぎていった。\n\nその時ようやく、私は[rival_parent.GetHerHis]が誰かを連れているのに気づいた。[rival_child.GetFirstName]、[rival_parent.GetFirstNamePossessiveNoTooltip]の子供だった。その子は私に向かって、眉をわずかに上げうっすらと微笑みかけ、[SCOPE.sC('rival_child').Custom2('RelationToMeShort', SCOPE.sC('rival_parent'))]を慌てて追いかけていく。私は驚きながら、二人が遠ざかっていくのを見送った。\n\nあれは一体何だったのだろう？"
  bp1_yearly.5706.a:0 "好意に応えないのは礼を失するというものだ…"
  bp1_yearly.5706.a.tt:0 "誘惑計画の成功率が上昇します"
  bp1_yearly.5706.b:0 "あの汚らわしい一族になど手を出すものか！"

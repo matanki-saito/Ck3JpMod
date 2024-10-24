@@ -997,5 +997,5 @@
  warenne_coin_description: "このコインの裏面には、ワレン王朝の青と黄の市松模様の紋章が描かれている。縁には黒々とした血の跡がある。"
  traitors_head: "裏切り者の首"
  traitors_head_description: "持ち主からきれいに切り落とされた頭部。それは記念品というよりもメッセージだ。"
- artifact_: "Destroyed Artifact"
- artifact_slot_untyped: "Destroyed Artifact             "
+ artifact_: "破壊された宝物"
+ artifact_slot_untyped: "破壊された宝物"

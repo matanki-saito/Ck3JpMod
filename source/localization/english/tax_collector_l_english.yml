@@ -168,7 +168,7 @@
  VASSAL_IS_NOT_FAR_ENOUGH: "[CHARACTER.GetShortUIName]はあなたの[capital|E]に近すぎる"
  VASSAL_HAS_THE_WRONG_RELIGION: "[CHARACTER.GetShortUIName]はあなたと同[religion|E]だ"
  VASSAL_HAS_THE_WRONG_FAITH: "[CHARACTER.GetShortUIName]はあなたと#Bold 異#![faith|E]だ"
- NO_TAX_SLOT_AVAILABLE: "#X No valid tax slots, they may enable next month#!"
+ NO_TAX_SLOT_AVAILABLE: "#X 有効な徴税官スロットがないが、次月になれば使える#!"
  TAX_SLOT_OBLIGATION_LIEGE_MODIFIER: "#S 封臣ごとの[liege|E]の恩恵：#!"
  TAX_SLOT_OBLIGATION_VASSAL_MODIFIER: "#S [vassal|E]:#!"
  TAX_SLOT_OBLIGATION_SELECT_WARNING_TOOLTIP: "[JoinText( '\n\n', TaxSlotObligationsWindow.CanSelectObligationDesc( TaxSlotObligation.Self ), TaxSlotObligationsWindow.GetInvalidVassalsForObligationDesc( TaxSlotObligation.Self ) )]"

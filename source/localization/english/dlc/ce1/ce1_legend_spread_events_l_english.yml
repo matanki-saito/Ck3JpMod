@@ -11,7 +11,7 @@
  legend_my_own_ancestor_modifier: "私こそが我が伝説"
  legend_my_own_ancestor_modifier_desc: "この人物は彼らにとって神話的な始祖となる"
  legend_spread_events.0010.t: "真の狩人"
- legend_spread_events.0010.desc: "[ROOT.Char.Custom('GetDoor')]を開き、広間に入ったとたん、私は美しい歌声にひきつけられた。我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('bard'))][bard.GetFirstName]の周りに、[ROOT.Char.Custom('GetFollowerOrVassalPlural')]たちが集まっており、[bard.GetHerHis][bard.Custom('GetMusicalInstrument')]に興奮するあまり、今にもテーブルによじ登りそうだ。\n\n「ああ、[ROOT.Char.GetSheHe]がいらした！」[bard.GetSheHe]は叫んだ。「我らが[ROOT.Char.GetTitleAsNameNoTooltip]、私が熱烈に歌う伝説、[ROOT.Char.GetSheHe]がその手で斃せしは……」"
+ legend_spread_events.0010.desc: "[ROOT.Char.Custom('GetDoor')]を開き、広間に入ったとたん、私は美しい歌声にひきつけられた。我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('bard'))][bard.GetFirstName]の周りに、[ROOT.Char.Custom('GetFollowerOrVassalPlural')]たちが集まっており、[bard.Custom('GetMusicalInstrument')]に興奮するあまり、今にもテーブルによじ登りそうだ。\n\n「ああ、いらしたぞ！」[bard.GetSheHe]は叫んだ。「我らが[ROOT.Char.GetTitleAsNameNoTooltip]、私が熱烈に歌う伝説、[ROOT.Char.GetSheHe]がその手で斃せしは……」"
  legend_spread_events.0010.a: "…竜だ！"
  legend_spread_events.0010.a.tt.success: "広間は歓声で一杯になった！"
  legend_spread_events.0010.a.tt.failure: "あなたの嘘はあまりにあからさまだった"

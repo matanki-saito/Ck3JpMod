@@ -80,7 +80,7 @@
  east_europe.0114.e.tt:0 "[hof.GetTitledFirstName]は確実に、$bosnian_church$を異端だと宣言するだろう！"
  east_europe.0115.t:0 "$east_europe.0116.t$"
  east_europe.0115.desc.intro:0 "糞ったれの[heretic.GetHerHis]忌々しい目め、[heretic.GetTitledFirstName]は改宗した！\n\n"
- east_europe.0115.desc.political:0 "[hof.GetTitledFirstName]は確かに納得しているようだが、私にはこの動きが中途半端な政治的行為であることが透けて見えている。[heretic.GetFirstNameNoTooltip]#EMP だけ#!が、[heretic.GetHerHis][hof.GetFaith.GetNameNoTooltip]への忠誠を認めた。[heretic.GetHerHim]のそばには、廷臣や家族が誰もいない。"
+ east_europe.0115.desc.political:0 "[hof.GetTitledFirstName]は確かに納得しているようだが、私にはこの動きが中途半端な政治的行為であることが透けて見えている。[heretic.GetFirstNameNoTooltip]#EMP だけ#!が、[heretic.GetHerHis]の[hof.GetFaith.GetNameNoTooltip]への忠誠を認めた。そのそばには、一人の廷臣も家族もいない。"
  east_europe.0115.desc.wholehearted:0 "その行動は誠意あるもののように見えた。[heretic.GetSheHe]は[heretic.GetHerHis]肉親や幾人かの有力者を、[heretic.GetHerHim]とともに[hof.GetFaith.GetAdjective]の信経に加えた。それは大抵の場合、より激怒させることになった。"
  east_europe.0115.desc.outro:0 "\n\nひとまず、問題は解決した。異端かどうかはさておき、[hof.GetTitledFirstNameNoTooltip]は$bosnian_church$が完全に[hof.GetHerHis]の言いなりだと確信している。"
  east_europe.0115.a:0 "ああ、もう諦めよう！"

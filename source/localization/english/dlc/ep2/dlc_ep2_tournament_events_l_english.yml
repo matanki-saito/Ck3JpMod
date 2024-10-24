@@ -223,7 +223,7 @@
  ep2_tournament_events.1018.a:0 "「[ROOT.Char.GetHouse.GetMotto]」、[family.GetFirstNameNoTooltip]だ"
  ep2_tournament_events.1018.b:0 "命ある限り、ずっとあなたを守ろう。"
  ep2_tournament_events.1501.t:0 "$tournament_contest_header$ 静粛に！"
- ep2_tournament_events.1501.desc:0 "[competitor.GetFirstName]が[competitor.GetHerHis]的を狙うとき、観客は静かにざわめく。風に流れてくる言葉を私ははっきりと聞き取ることができたが、[competitor.GetFirstNameNoTooltip]も明らかにそうだった。そして[competitor.GetSheHe|U]は、やや小馬鹿にしたように振り返って、観客に語りかける。\n\n「静かに！競技者に敬意を払え！」[competitor.GetSheHe|U]が不機嫌そうに文句を言う。それに呼応するように、忍び笑いが起きる。明らかに[competitor.GetSheHe]は矢を射るために安らぎと静寂を必要としている、しかし——[competitor.GetSheHe]がもう一度観客に向かって拳を振りかざそうとしたとき——これは少しやりすぎかもしれない、と私は思った。"
+ ep2_tournament_events.1501.desc:0 "観客が静かにざわめく中、[competitor.GetFirstName]が的を狙う。風に乗って流れてくる一言二言が、私には聞き取れたような気がして、一方で[competitor.GetFirstNameNoTooltip]はきっちりと聞き取る。そして、やや不機嫌そうに観客へ振り返り、口を開く。\n\n「静かに！どの競技者にもきっちりと敬意を払え！」機嫌悪く文句を言う。それに呼応するように、忍び笑いが起きる。明らかに[competitor.GetSheHe]は矢を射るために安らぎと静寂を必要としている、しかし——もう一度観客に向かって拳を振りかざそうとしたとき——これは少しやりすぎかもしれない、と私は思った。"
  ep2_tournament_events.1501.secret:0 "\n\n私は、観客のおしゃべりを聞いたときのことを思い出してみた。それは、控えめに言っても#EMP 卑猥#!に聞こえた…"
  ep2_tournament_events.1501.a:0 "「そこのお前、いまなんと言った？」"
  ep2_tournament_events.1501.a.tt:0 "あの猥褻なおしゃべりをはっきりと聞かれてしまった以上、群衆の声を鎮めることはできないだろう！"

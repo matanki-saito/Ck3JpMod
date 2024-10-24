@@ -215,7 +215,7 @@
  action_ask_for_pardon_click:1 "#I クリックで恩赦を請う#!"
  action_convert_at_war_interaction:1 "@religious_icon! 攻撃側の[faith|E]採用が利用可能"
  action_convert_at_war_interaction_label:2 "@religious_icon! あなたは攻撃側の信仰に改宗できる"
- action_convert_at_war_interaction_desc:2 "あなたに対する[recipient.GetHerHis][holy_war|E]を終わらせるために、[recipient.GetShortUIName]の[faith|E]に改宗できます。\n\n#help 負け戦の幕引きは有益ですが、信仰していた旧宗派の信徒からの[opinion|E]は失われます。注意してください#!"
+ action_convert_at_war_interaction_desc:2 "あなたに対する[recipient.GetShortUIName]の[holy_war|E]を終わらせるために、[recipient.GetHerHis]の[faith|E]に改宗できます。\n\n#help 負け戦の幕引きは有益ですが、信仰していた旧宗派の信徒からの[opinion|E]は失われます。注意してください#!"
  action_convert_at_war_interaction_click:1 "#I クリックで信仰を採用#!"
  mercenary_contract_expiring:0 "[mercenary_company|E]との契約終了"
  mercenary_contract_expiring_label:0 "傭兵団との契約終了"

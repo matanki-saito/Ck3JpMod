@@ -130,7 +130,7 @@
  ep3_travel_option_events.0001.good: "「私の技術はそれなりな方だと自負していてね」[local_character.GetSheHe|U]は続ける。「よろしければ、条件の交渉をさせて頂いても？」"
  ep3_travel_option_events.0001.average: "「あんたの旅に加わりたいんだ」[local_character.GetSheHe|U]は続ける。「数枚の金があればもういい、それで満足だから！」"
  ep3_travel_option_events.0001.poor: "「私は有能とはとても言い難いだろう、しかしやる気はある」[local_character.GetSheHe|U]は言う。「賃金は少しでいい。あなたの旅路に加わらせてくれ」"
- ep3_travel_option_events.0001.terrible: "「哀れな、何の役にも立たない私をお慈悲で救ってください！」と[local_character.GetSheHe|U]はひれ伏しながら懇願する。\n\n「金貨のためなら何でもします───#EMP 笑顔#!で便所掃除だってやります！」"
+ ep3_travel_option_events.0001.terrible: "「……ううう、哀れな、何の役にも立たない私をお慈悲で救ってください！」と[local_character.GetSheHe|U]はひれ伏しながら懇願する。\n\n「金貨のためなら何でもします───#EMP 笑顔#!で便所掃除だってやります！」"
  ep3_travel_option_events.0001.a: "お前が来てくれるならなんでもいいよ。"
  ep3_travel_option_events.0001.provisions: "私はあなたに食べ物と服でしか支払うことができません"
  ep3_travel_option_events.0001.b: "そうかい。ご勝手に、役立たずの[local_character.Custom('InsultNoun')]め。"

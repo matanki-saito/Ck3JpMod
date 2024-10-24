@@ -90,7 +90,7 @@
  ep3_camp_temperament.0020.desc: "天幕の扉が開き、[secret_giver.GetTitledFirstName]が私の目の前に立つ。軽く一礼をしてから、[secret_giver.GetSheHe]が話し始めた。\n「お邪魔して申し訳ありません、私の[ROOT.Char.GetLadyLord]よ。しかしあなたの興味を引くかもしれない知らせを持ってまいりました。」\n\n「[ROOT.Char.Custom('GetPubName')]で休んでいたとき、[secret_owner.GetTitledFirstName]の召使たちと飲んでいました。」\n\n「彼らは主君について話すことに何のためらいもありませんでした。『[secret_owner.GetHerHim]はどんな奴なんだ？』と尋ねたところ、あなたのお役に立つかもしれない秘密を知ることができました。」"
  ep3_camp_temperament.0020.a: "「秘密というのはいい話のネタになる…」"
  ep3_camp_temperament.0020.b: "「素晴らしい働きだ」"
- ep3_camp_temperament.0020.c: "「酒場で何をしてたんだ…？」"
+ ep3_camp_temperament.0020.c: "「いや、まずお前は酒場で何をしてたんだ…？」"
  ep3_camp_temperament.0020.d: "「すぐに教えてくれないか！？」"
  ep3_camp_temperament.0020.e: "[secret_owner.GetTitledFirstNameNoTooltip]と[ROOT.Char.GetFaith.HighGodName]の間のことだ。"
  ep3_camp_temperament_0020_d_tt: "[secret_owner.GetShortUINamePossessive]の[secret|E]を知る"

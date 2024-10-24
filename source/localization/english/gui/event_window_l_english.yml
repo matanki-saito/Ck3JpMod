@@ -119,4 +119,4 @@
  EVENT_WINDOW_OPTION_AVAILABLE_HAVE_HEAD_PORTER: "[GetCourtPositionType('head_porter_camp_officer').GetName()]の[officer|E]がいるため、選択可能です"
  EVENT_WINDOW_OPTION_AVAILABLE_HAVE_KENNELPERSON: "[GetCourtPositionType('kennelperson_camp_officer').GetName()]の[officer|E]がいるため、選択可能です"
  EVENT_WINDOW_OPTION_AVAILABLE_HAVE_CHIEF_ENGINEER: "[GetCourtPositionType('chief_engineer_camp_officer').GetName()]の[officer|E]がいるため、選択可能です"
- EVENT_WINDOW_OPTION_AVAILABLE_PERSON_HAGGLER: "This option is available because you have unlocked the [GetCourtPositionType('person_haggler_camp_officer').GetName()] [officer|E]"
+ EVENT_WINDOW_OPTION_AVAILABLE_PERSON_HAGGLER: "[GetCourtPositionType('person_haggler_camp_officer').GetName()]の[officer|E]をアンロックしているため、この選択肢を選ぶことが出来ます"

@@ -376,7 +376,7 @@
  seduce_ongoing.5004.opening:0 "[owner.GetTitledFirstName]が一歩一歩私に向かってくるたびに、私は気分が下がるのを感じる。[owner.Custom('InsultNoun')]は今何がしたいのだろう？\n\n"
  seduce_ongoing.5004.conversation:0 "「[owner.Custom('education_conversation_subject')]の話題について…」\n\n[owner.GetSheHe]がなぜその話題に私が興味を持つと思ったのかはわからない。だが、すぐにそういう類の人間ではないと疑いの余地なく明らかにした。"
  seduce_ongoing.5004.mockery:0 "「[ROOT.Char.GetTitledFirstNameNoTooltip]！今日、[mocked_courtier.Custom('InsultNoun')][mocked_courtier.GetFirstName]が何をやらかしたか信じられるかい！」\n\n私の目の前で[mocked_courtier.GetTitledFirstName]を中傷する[owner.GetHerHim]を何が支配していたのか、私には想像もつかないが、[owner.GetSheHe]はすぐには止められなかった。"
- seduce_ongoing.5004.bodily:0 "[owner.GetSheHe]が気まずそうに近寄ってきて、さらには[owner.GetHerHis][owner.Custom('GetUpperClothingArticle')]を思わせぶりに引っ張っるので、私はすぐに退散する。"
+ seduce_ongoing.5004.bodily:0 "[owner.GetSheHe]が気まずそうに近寄ってきて、さらにはその[owner.Custom('GetUpperClothingArticle')]を思わせぶりに引っ張っるので、私はすぐに退散する。"
  seduce_ongoing.5004.fallback:0 "私が[owner.GetHerHis]の存在に嫌悪感を抱く前に、[owner.GetSheHe]が去ることを拒否したところを見ると、どうやら[owner.GetSheHe]は私と一緒に一日を過ごすことを心に決めていたようだ。"
  seduce_ongoing.5004.a:0 "いつものように不愉快なやりとりだな！"
  seduce_ongoing.5005.conversation:0 "[target.Custom('herhis_subject_of_interest')]に関する長い会話の終わりには、[target.GetTitledFirstNamePossessive]の顔全体に笑顔が灯っている。私たちの間に感じの良い沈黙が訪れると、私たちは以前よりもずっと近くにいることに気づく。私の手はほとんど[target.GetHerHis]の[target.Custom('GetClothingArticle')]に触れそうだ。"

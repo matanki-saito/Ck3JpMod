@@ -73,7 +73,7 @@
  sway_ongoing.5010.desc_target_discovered:0 "最近のやり取りの中で、[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]は、[owner.Custom('LifestyleFocusTopic')]に関する私の実際の知識レベルについて、明らかな疑惑を表明している。\n\n彼らの最新の手紙を読んで、私は自分の策略が暴かれていることに気づいた——[owner.GetSheHe]は「明らかな理解不足 」と 「恥ずべき愚かさの表れ」について延々と語っている。"
  sway_ongoing.5010.desc_owner_discovered:0 "最近のやり取りの中で、[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]は、[owner.Custom('LifestyleFocusTopic')]に関して恥ずべき理解不足を示している。\n\n[owner.GetSheHe]が無意味なものを芽生えさせていることがわかれば、それは#EMP 最悪#!だ！"
  sway_ongoing.5011.t:0 "懐柔: 訪問"
- sway_ongoing.5011.desc_opening:0 "[target.GetHerHis][target.Custom('ResidenceBuilding')]への招待状が届き、[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の首都[capital.GetNameNoTooltip]を通過しているところだ。\n\n私が到着すると"
+ sway_ongoing.5011.desc_opening:0 "[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]が住まう領国首都[capital.GetNameNoTooltip]を通過していたところ、[target.Custom('ResidenceBuilding')]への招待状が届いた。\n\n私が到着すると"
  sway_ongoing.5011.desc_friendly:0 "[target.GetSheHe]は手を広げて私を歓迎してくれて"
  sway_ongoing.5011.desc_dislike:0 "[target.GetSheHe]はしかめっ面で私を迎えてくれて"
  sway_ongoing.5011.desc_normal:0 "[target.GetSheHe]は尊敬と共に私を迎えてくれて"

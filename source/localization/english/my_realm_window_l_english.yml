@@ -163,5 +163,5 @@
  THEME_ADMINISTRATION_INFO: "#P この[Character.Custom( 'GetProvinceConcept' )]の[Character.Custom('GetProvinceAdministrationConcept')]を選ぶ。もしも別の[Character.Custom( 'GetGovernorConcept' )]が[Character.Custom( 'GetProvinceConceptNoTooltip' )]の行政を引き継いでも、改めて変更するまで行政タイプは変わらない。"
  THEME_ADMINISTRATION_LABEL: "利用可能な行政タイプ"
  VASSAL_CONTRACT_VASSAL_TITLE_ADMIN: "行政の変更\n#high [VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTooltip]\n[VassalContract.GetVassal.GetFirstNameNoTooltip][VassalContract.GetVassal.GetHouse.GetNameNoTooltip]総督#!"
- realm_tab_admin_laws: "Administration"
- MY_REALM_ADMIN_LAWS_HEADER: "Administration of [GetPlayer.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ realm_tab_admin_laws: "官僚制"
+ MY_REALM_ADMIN_LAWS_HEADER: "[GetPlayer.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip]の官僚制"

@@ -140,7 +140,7 @@
  ep3_governor_yearly.8150.b: "A token concession or two, and they will go home."
  ep3_governor_yearly.8150.c: "Yes, an example must be made."
  ep3_governor_yearly.8150.d: "These troublemakers will get bored soon enough."
- ep3_governor_yearly.8150.d.tt: "Will receive #V 2#! [skirmisher|E] [regiments|E] when declaring [war|E]"
+ ep3_governor_yearly.8150.d.tt: "[war|E]開始時に、[skirmisher|E]の#V 2#![regiments|E]を受け取る"
  ep3_governor_yearly.8150.county_tt: "Every [targeting_faction.GetName] [faction|E] [county|E], and [counties|E] able to join ([SCOPE.ScriptValue('ep3_governor_yearly_8150_total_count_value')|V0])"
  ep3_governor_yearly_8150_troop_name: "Peasant Uprising"
  cultural_acceptance_ep3_governor_yearly_8150_crackdown: "A [governor|E] cracked down on local rebels"

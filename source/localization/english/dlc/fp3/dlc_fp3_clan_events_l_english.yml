@@ -139,7 +139,7 @@
  fp3_clan.8017.corrupt.desc: "残念なことに、[tax_collector.GetSheHe]は正義でも公正でもなかったようで、見返りに銀を取ったのだという。"
  fp3_clan.8017.cruel.desc: "[tax_collector.GetSheHe]は冷血極まる人物であると聞き、寒気が走った。鞭打ち刑や石打ち刑さえ、ちょっとした罪に対する罰として用いることを熱望しているのだと。"
  fp3_clan.8017.generic.desc: "熱心であることは悪徳ではないし、汚職や残酷なことでもないでしょう。しかし、地元の人々は[tax_collector.GetHerHim]をこれ以上なく嫌っているのです」"
- fp3_clan.8017.ending.desc: "\n\n\"Please, I know [tax_collector.GetSheHe] is your [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('tax_collector'))], but you must tell [tax_collector.GetHerHim] to stop.\""
+ fp3_clan.8017.ending.desc: "\n\n「お願いいたします、[tax_collector.GetSheHe]があなた様の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('tax_collector'))]であることは存知でおります。[tax_collector.GetHerHim]の狂気をやめさせてやってはくれませんか」"
  fp3_clan.8017.a: "[tax_collector.GetSheHe|U]は[ROOT.Char.GetFaith.HighGodNameAlternatePossessive]のご意志に沿って仕事をしているのだぞ。"
  fp3_clan.8017.b: "[tax_collector.GetNameNoTooltip]にバラされてまずいことでもあるのか？"
  fp3_clan.8017.c: "よかろう、しかしこの恩をゆめ忘れるなよ。"

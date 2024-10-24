@@ -508,4 +508,4 @@
  msg_epidemic_infection_desc_2: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly]に広まっている"
  msg_epidemic_infection_desc: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]と[RIGHT_TITLE.GetProvince.GetBaronyNameExplicitly ]、および$message_consolidation_others$領で広まっている。"
  all_realm_county_epidemic_scope: "[realm|E]内の全ての[epidemic_scope.GetName]が蔓延している[county|E]"
- epidemic_events.5906.d.tt: "All baronies surrounding [doomsday_province.GetName] have a #color_white 25%#! chance of gaining the same modifier"
+ epidemic_events.5906.d.tt: "[doomsday_province.GetName]を囲むすべての男爵領が#color_white 25%#!で同じ補正値を得る "

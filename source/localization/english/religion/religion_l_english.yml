@@ -23,7 +23,7 @@
  PIETY_HEAD_OF_FAITH:0 "[head_of_faith|E]"
  FERVOR_GAIN_SIZE_MODIFIER:0 "[faith|E]の規模"
  FAITH_DOCTRINE_GENERAL_TOOLTIP:1 "[FaithDoctrine.GetEffectsDescription( GetPlayer.GetFaith )]\n\n[FaithDoctrine.GetDescription( GetPlayer.GetFaith )|F]"
- HOLY_SITE_CHARACTER_MODIFIER_NAME:0 "[holy_site|E]: ――$NAME$"
+ HOLY_SITE_CHARACTER_MODIFIER_NAME:0 "[holy_site|E]（$NAME$）"
  PIETY_TEXT_ICON:0 "@piety_icon!"
  PIETY_TEXT_ICON_christian:0 "@piety_icon_christian!"
  PIETY_TEXT_ICON_islam:0 "@piety_icon_islam!"

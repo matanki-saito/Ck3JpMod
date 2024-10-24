@@ -369,7 +369,7 @@
  fp2_yearly.8000.b:0 "全てを焼き尽くし消し炭にしてあげましょう！"
  fp2_yearly.8000.c:0 "いや、私はワイン農家を守らなければならない。"
  fp2_struggle.1020.t:0 "[Select_CString(minority_councillor.IsFemale,'Councilwoman','Councilman')]の死"
- fp2_struggle.1020_desc_opening:1 "なんて惨事だ！[unrest_capital.GetNameNoTierNoTooltip]で爆発しそうな緊張の中、怒れる[unrest_capital.GetCountyData.GetFaith.GetAdherentNamePluralNoTooltip]の暴徒どもは[minority_councillor.GetHerHis][minority_councillor.GetFaith.GetAdherentNameNoTooltip]の信念のため、[minority_councillor.GetTitledFirstName]が不満の原因であると名指しした。"
+ fp2_struggle.1020_desc_opening:1 "なんて惨事だ！[unrest_capital.GetNameNoTierNoTooltip]で爆発しそうな緊張の中、怒れる一人の暴徒[unrest_capital.GetCountyData.GetFaith.GetAdherentNamePluralNoTooltip]は[minority_councillor.GetFaith.GetAdherentNameNoTooltip]の信念のため、評議員の[minority_councillor.GetTitledFirstName]が不満の原因であると名指しした。"
  fp2_struggle.1020_desc_beaten_by_mob:0 "[minority_councillor.GetNameNoTooltip]が[minority_councillor.GetHerHis]の[ROOT.Char.Custom('ResidenceBuilding')]に向かう道すがら、民衆が[minority_councillor.GetHerHim]を率いられ[minority_councillor.GetHerHim]を野蛮に殴り殺した。\n\n"
  fp2_struggle.1020_desc_burned_by_mob:0 "真っ暗な夜、奴らは[ROOT.Char.Custom('ResidenceBuilding')]に忍び込み、[minority_councillor.GetNameNoTooltip]を機織機に縛り付けて燃やした。\n\n"
  fp2_struggle.1020_desc_hanged_and_disemboweled_by_mob:0 "奴らは[minority_councillor.GetHerHis]が評議会に向かう途中で[minority_councillor.GetHerHim]を捕らえ、[minority_councillor.GetHerHim]を[ROOT.Char.Custom('ResidenceBuilding')]の門に逆さ吊りにして[minority_councillor.GetHerHis]の腹を切り裂き、その内臓は湿った地面に垂れ落ちた。\n\n"

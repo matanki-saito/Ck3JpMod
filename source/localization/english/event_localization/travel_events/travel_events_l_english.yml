@@ -297,7 +297,7 @@
  travel_events.4036.a:0 "望むだけの金を払ってやろう！"
  travel_events.4036.b:0 "盗み出そう！"
  travel_events.4036.d:0 "あるいは取引の余地があるかもしれない。"
- travel_events.4036.c:0 "I'm not interested in [ROOT.Char.GetCurrentLocation.GetCounty.GetCulture.GetNameNoTooltip] trinkets."
+ travel_events.4036.c:0 "[ROOT.Char.GetCurrentLocation.GetCounty.GetCulture.GetNameNoTooltip]の品には興味がなくてね。"
  travel_events.4037.t:0 "$travel_event_prefix$ [ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip]と[ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetNameNoTooltip]"
  travel_events.4037.desc:0 "[ROOT.Char.GetCurrentLocation.GetCounty.GetName]の人々は、自分たちの[ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetAdjective]信仰との結合の中で、[ROOT.Char.GetFaith.GetReligion.GetName]の教えを実践していると聞いていたが、ここにきてその信仰の混交が随所に見えるような気がする。\n\n自身を[fanboy_character_scope.GetFirstName]と呼ぶ一風変わった熱心な農民が、私の側近に熱心に近づき、我々の宗教的な聖像学を精力的に研究し始めている。\n\n「[fanboy_character_scope.GetFaith.HighGodName]の名に於いて、ここには[ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip]の一団がいます。お願い致します、我が[ROOT.Char.GetLadyLord]、我々に[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の礼拝の方法を教えてはくださいませんか？」"
  travel_events.4037.a:0 "教えてやろう！"

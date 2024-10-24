@@ -240,7 +240,7 @@
  laamp_base_learning_contract_events.4100.desc.surroundings.docks: "\n\nThe fishing boats are just coming in to dock and the sea's bounty is being offloaded, "
  laamp_base_learning_contract_events.4100.desc.surroundings.armory: "\n\nThe furnace roars, the weapons are stacked in the corners of the armory, "
  laamp_base_learning_contract_events.4100.desc.surroundings.garden: "\n\nThe tranquil gardens accommodate ample teaching opportunities, "
- laamp_base_learning_contract_events.4100.desc.surroundings.tavern: "\n\nThe tavern collects a plethora of regulars and visitors, "
+ laamp_base_learning_contract_events.4100.desc.surroundings.tavern: "\n\nその酒場は常連や一見さんを数多く集めている。"
  laamp_base_learning_contract_events.4100.desc.surroundings.temple: "\n\nSeveral [ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetAdherentNamePluralNoTooltip] peacefully wander the holy grounds, "
  laamp_base_learning_contract_events.4100.desc.surroundings.throneroom: "\n\nServants trot back and forth in the throne room, "
  laamp_base_learning_contract_events.4100.desc.surroundings.farmlands: "\n\nA train of villagers coming and going traverse the flat farmlands, "
