@@ -375,7 +375,7 @@
  fund_inspiration.2090.t:0 "$fund_inspiration.title$ [event_spouse.GetWifeHusband|U]のやり方"
  fund_inspiration.2090.desc:0 "私は、冷静さを欠く[event_spouse.GetWifeHusband][event_spouse.GetFirstName]が[inspiration_owner.GetTitledFirstName]に早口で喋りかけているのを目にした。[inspiration_owner.GetHerHis]が製作中の[inspiration_owner.Custom('GetInspirationTypeObject')]に対するアイデアを次々と挙げて提案している。我が[inspiration_owner.Custom('GetInspirationOwnerType')]は軽蔑をかろうじて隠してはいるものの、明らかにその干渉に腹を立てている。\n\n「…そのようにすれば」[event_spouse.GetSheHe]はまくし立てる。「それは私の祖[event_spouse.GetMotherFather]の古い[inspiration_owner.Custom('GetInspirationTypeObject')]に匹敵するかもしれない！」\n\n[inspiration_owner.GetFirstNamePossessiveNoTooltip]の魂の一部は死につつあるようだ。"
  fund_inspiration.2090.a:0 "「よく聞くんだ[inspiration_owner.GetFirstNameNoTooltip]——私の[event_spouse.GetWifeHusband]の言うことは聞かなければ！」"
- fund_inspiration.2090.b:0 "「行こう、ダーリン、専門家に任せるんだ。」"
+ fund_inspiration.2090.b:0 "「行こう、愛しき人、専門家に任せるんだ。」"
  fund_inspiration.2090.success:0 "[event_spouse.GetFirstNameNoTooltip]は[inspiration_owner.GetFirstNamePossessiveNoTooltip]の仕事を向上させる"
  fund_inspiration.2090.failure:0 "[event_spouse.GetFirstNameNoTooltip]は[inspiration_owner.GetFirstNameNoTooltip]を抑えつける"
  fund_inspiration.2100.t:0 "$fund_inspiration.title$ 嫉妬深い職人"

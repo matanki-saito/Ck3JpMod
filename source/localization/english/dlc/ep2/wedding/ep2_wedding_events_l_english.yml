@@ -260,7 +260,7 @@
  ep2_wedding.1120.desc_adult:0 "\n\n「言いたいことがある！」[trouble_child.GetFirstNamePossessive]の聞き慣れた声が、人混みの中から沸き起こる。「私の [other_parent.GetMotherFather]、[other_parent.GetTitledFirstName]を置き換えるのは#EMP これ#!が最善のやり方なのか！？」"
  ep2_wedding.1120.desc_parent:0 "\n\n私は視線の端に、驚いて固まっている[other_parent.GetFirstNameNoTooltip]を発見する。"
  ep2_wedding.1120.a:0 "#EMP 今は#!馬鹿なことはやめろ。"
- ep2_wedding.1120.b:0 "わかっているよ、ダーリン、みんな辛いんだ…"
+ ep2_wedding.1120.b:0 "わかっているよ、愛しき人、みんな辛いんだ…"
  ep2_wedding.1120.c:0 "#EMP あなたの[other_parent.GetMotherFather]は秘密のはずだった！#!"
  wedding_child_fuss_log:0 "[TARGET_CHARACTER.GetUINamePossessive|U]の子供である[CHARACTER.GetUIName|U]は結婚式で騒ぎを起こした。"
  wedding_child_fuss_log_title:0 "$ep2_wedding.1120.t$"

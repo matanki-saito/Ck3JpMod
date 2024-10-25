@@ -143,7 +143,7 @@
  martial_adventurer_focus_effect_desc: "$martial_adventurer_focus$フォーカスの補正："
  intrigue_adventurer_focus: "虚像"
  intrigue_adventurer_focus_modifier: "[GetFocus('intrigue_adventurer_focus').GetName]"
- intrigue_adventurer_focus_desc: "計画は慎重に練るべし。詮索好きな目は避けるべし。"
+ intrigue_adventurer_focus_desc: "計画は慎重に練るべし。詮索の目は避けるべし。"
  intrigue_adventurer_focus_effect_desc: "$intrigue_adventurer_focus$フォーカスの補正："
  stewardship_adventurer_focus: "物々交換"
  stewardship_adventurer_focus_modifier: "[GetFocus('stewardship_adventurer_focus').GetName]"
