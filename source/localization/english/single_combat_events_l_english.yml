@@ -708,7 +708,7 @@
  single_combat.0041.desc.sc_attacker.attempt_disarm:0 "相手の武器を奪う絶好の機会を見出した私は、[sc_victor.Custom('signature_weapon')]の[sc_victor.Custom('SignatureWeaponAttemptedHeavy')]で[sc_loser.GetHerHis]の[sc_loser.Custom('signature_weapon')]を手から引き剥がす。\n\n"
  single_combat.0041.desc.sc_attacker.tire_opponent:0 "時間をかけて冷静に、執拗な受け流しと不愉快なごまかしを織り交ぜながら、私は相手の体力を容赦なく削っていく。\n\n"
  single_combat.0041.desc.sc_attacker.reason_you_suck_speech:0 "相手の[sc_loser.Custom('signature_weapon')]の一撃一撃に、私は辛辣な言葉と後方への跳躍で応える。\n\n"
- single_combat.0041.desc.sc_attacker.technique_from_legend:0 "私は伝説の鮮明な心象風景に合わせて体を動かし、ぎこちない姿勢で私の[sc_victor.Custom('signature_weapon')]を[sc_victor.Custom('SignatureWeaponFlourishPresentParticiple')]。\n\n"
+ single_combat.0041.desc.sc_attacker.technique_from_legend:0 "私は伝説の鮮明な心象風景に合わせて体を動かし、ぎこちない姿勢で[sc_victor.Custom('signature_weapon')]を[sc_victor.Custom('SignatureWeaponFlourishPresentParticiple')]。\n\n"
  single_combat.0041.desc.sc_attacker.like_a_viper:0 "確かな精度で、私は相手のガードの死角に向かって[sc_victor.Custom('signature_weapon')]を投げつける。"
  single_combat.0041.desc.sc_attacker.pocket_silver:0 "ベルトから重い銀の財布を取り出すと、私はそれを相手の[sc_loser.Custom('MaskFace')]に向けて投げつける。"
  single_combat.0041.desc.sc_attacker.martial_voice:0 "下層の人々を指揮することは、高貴な人々を指揮することとは少し異なる技術であるが、それでも私に与えられた道具は効果的であり、私は大声で侮辱と脅し文句を叫んだ。"

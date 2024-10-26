@@ -886,7 +886,7 @@
  mysterious_lamp_description:0 "宝石が散りばめられた、輝く黄金のランプ。その手に持てば、驚くべき宇宙の力を感じることができる。"
  mysterious_puzzle:0 "不思議なパズル"
  mysterious_puzzle_description:0 "異国の言葉が彫刻された、豪奢な金色のパズル。かつては強力なゲームマスターが所有していたと言われている。"
- lunchbox:0 "保存用の箱"
+ lunchbox:0 "箱入りの防腐剤"
  lunchbox_description:0 "密閉性の高い箱で、中に入れた食べ物の日持ちが良くなるような気がする。"
  local_artisan_modifier:0 "地元の職人"
  local_artisan_modifier_desc:0 "この人物は、貴族である統治者の求めに応じて雇用された地元の職人である。\n#weak 彼らの作る[inspirations|E]はどれも質が低い。#!"

@@ -365,7 +365,7 @@
  murder_outcome.5001.assassin:0 "[assassin.GetFirstName]に連れられて森に遊びに来て、今日はとても楽しかった！でも、[assassin.GetSheHe]がずっと前にどこかに隠れてしまってずっと見つけられていないし、暗くなるのが早くて怖い…"
  murder_outcome_reworked.0000.success_declaration.generic.1: "[target.GetTitledFirstName]はついに死んでしまった！"
  murder_outcome_reworked.0000.success_declaration.generic.2: "私のスパイが[target.GetTitledFirstName]の暗殺に成功した！"
- murder_outcome_reworked.0000.success_declaration.generic.3: "[target.GetTitledFirstName]が[ROOT.Char.GetFaith.DeathDeityNamePossessive]の運命的な抱擁の下に旅立った！"
+ murder_outcome_reworked.0000.success_declaration.generic.3: "[target.GetTitledFirstName]が[ROOT.Char.GetFaith.DeathDeityNamePossessive]の破滅の腕に抱かれて死んだ！"
  murder_outcome_reworked.0000.failure_declaration.generic.1: "[target.GetTitledFirstName]は無傷で脱出した！\n\n"
  murder_outcome_reworked.0000.failure_declaration.generic.2: "[target.GetTitledFirstNamePossessive]の命への私の企ては阻止された！\n\n"
  murder_outcome_reworked.0000.failure_declaration.generic.3: "[target.GetTitledFirstName]が[ROOT.Char.GetFaith.DeathDeityName]の魔の手から逃れたようだ！\n\n"

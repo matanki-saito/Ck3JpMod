@@ -69,7 +69,7 @@
  bp2_yearly.4023.b: "[ROOT.Char.Custom('PietyLevelText')]の[ROOT.Char.GetFirstNameNoTooltip]、それでいいじゃないか。"
  bp2_yearly.4023.c: "我が名は永遠に[ROOT.Char.GetFaith.PositiveAfterLife|U]と世界にて語り継がれるべきだ！"
  bp2_yearly.4030.t: "ある雪の降る夜に"
- bp2_yearly.4030.desc: "「わ…我らは[frosty_knight.GetFaith.CreatorName]に殉じるためにこの雪しかない土地を歩んできた！だというのに[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の怠け者どもは仕事もせず暖かい寝床で惰眠を貪っている！」私の$knight_culture_player_no_tooltip$、[frosty_knight.GetFirstName]は寒さに震えながら訴えた。本当にいつからこうしているのだろうか、日は短ければ空は暗い。太陽からの恵みは残り滓のようなものだ。\n\nと、私は思わず目を閉じる。日の光だ！長い冬において初めてと言えるほどまぶしい日差しの記憶に胸を打たれる。幼き頃の記憶が沸騰するように血管へ迸り、慰めと安らぎを与えてくれた。あの日も太陽と春はこのように訪れたか。\n\nともかく今がその時なのだ！"
+ bp2_yearly.4030.desc: "「わ…我らは[frosty_knight.GetFaith.CreatorName]に殉じるためにこの雪しかない土地を歩んできた！だというのに[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の怠け者どもは仕事もせず暖かい寝床で惰眠を貪っている！」\n\n私の$knight_culture_player_no_tooltip$、[frosty_knight.GetFirstName]は寒さに震えながら訴えた。本当にいつからこうしているのだろうか、日は短ければ空は暗い。太陽からの恵みは残り滓のようなものだ。\n\nと、私は思わず目を閉じる。日の光だ！長い冬において初めてと言えるほどまぶしい日差しの記憶に胸を打たれる。幼き頃の記憶が沸騰するように血管へ迸り、慰めと安らぎを与えてくれた。あの日も太陽と春はこのように訪れたか。\n\nそして今も再び同じ感覚を覚えている！"
  bp2_yearly.4030.a: "ここに日と勝利あり！"
  bp2_yearly.4030.b: "「[frosty_knight.GetSheHe]は何を求める、我が$knight_culture_player_no_tooltip$、[frosty_knight.GetFirstNameNoTooltip]よ！」"
  bp2_yearly.4030.b.flavor: "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の兵どもよ、聞け！いかに長き夜にも夜明けは来る！それは勝利と共に来る凱歌であり、永遠の栄光といかなる苦難にも立ち止まらぬという確信の先触れである！"

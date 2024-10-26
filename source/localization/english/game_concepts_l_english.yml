@@ -182,7 +182,7 @@
  game_concept_agent:0 "協力者"
  game_concept_agents:0 "協力者"
  game_concept_agents_desc:3 "$game_concept_agent$は[scheme|E]に関係する一人で、[success_chance|e]の増加、[scheme_speed_single|e]の短縮、[secrecy|e]の向上、以上の三つのうち、一つを提供できます。対象人物の[courtiers|E]と[guests|E]、そして[direct_vassals|E]のみが協力者として採用され得ます。\n\n[scheme_hostile|E]計画では、標的に近しい協力者の採用は非常に重要です。例えば標的の[councillors|E]や[close_family|E]を採用できれば、より速い$game_concept_scheme_speed_single$と大きい$game_concept_success_chance$を獲得できます。\n\n[hostile_scheme|e]の$game_concept_agent$になることは[crime|E]であり、$game_concept_agent$は[agent_discovery_discovered|E]されるリスクがあります。"
- game_concept_agent_discovery:0 "スパイ発見"
+ game_concept_agent_discovery:0 "協力者の露見"
  game_concept_agent_discovery_discovered:0 "発見"
  game_concept_agent_discovery_desc:1 "発覚した[secret_scheme|E]の[agents|E]は、[liege|E]から[criminals|E]と見なされる可能性があり、そうなった場合、[imprisoned|E]される可能性があります。"
  game_concept_scheme_discovery_chance:0 "計画発見確率"

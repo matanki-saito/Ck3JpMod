@@ -273,7 +273,7 @@
  travel_events.3130.d:1 "「楽しむ機会、と言ったか？」"
  travel_events.3130.e:0 "「行け。二度と会いたくない。」"
  executed_assassin_modifier:0 "暗殺の回避"
- sent_assassin_back_modifier:0 "露見したスパイ"
+ sent_assassin_back_modifier:0 "露見した協力者"
  travel_events.3140.t:0 "$travel_danger_prefix$ 不幸な交差"
  travel_events.3140.desc:1 "焼かれた作物、不毛の大地。戦利品である。最初の死体を見てから、我々の進む速度は速くなった。\n\n唯一可能な道は、軍の野営地を通ることだ。後ろを見ると、他に道はない。私は護衛にうなずき、護衛もうなずき返して剣の握りを強くする。\n\n野営地の入口には軍の指揮官がひとり立っていた。「敵に味方する気か、あン？」[hostile_commander.GetSheHe]は鼻を掻きながら尋ねた。「捕虜を助けたいか？」[hostile_commander.GetSheHe|U]ははっきりと[entourage_member.GetTitledFirstName]を指さしている。"
  travel_events.3140.a:0 "旗を見ろ！我々は敵ではない。"
