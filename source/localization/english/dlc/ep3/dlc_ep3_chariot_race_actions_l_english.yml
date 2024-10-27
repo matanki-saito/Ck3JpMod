@@ -4,4 +4,4 @@
  apa_celebrating_unexpected_overtake_title: "[first.GetShortUIName|U]が[second.GetShortUIName|U]を追い抜かす"
  apa_exchanging_race_commentary_title: "[first.GetShortUIName|U] and [second.GetShortUIName|U], make love, after being inspired by the heat of the races"
  apa_forging_alliances_title: "[apa_target.GetShortUIName|U]は[apa_target.GetHerHis]の政治的影響力を増大させた"
- apa_donates_to_the_poor_title: "[first.GetShortUIName|U] donates to the [Glossary( 'hoi polloi', 'HOI_POLLOI_GLOSS' )]"
+ apa_donates_to_the_poor_title: "[first.GetShortUIName|U]は[Glossary( 'ホイ ポロイ', 'HOI_POLLOI_GLOSS' )]に寄付する"

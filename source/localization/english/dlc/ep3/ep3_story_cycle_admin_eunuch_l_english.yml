@@ -11,7 +11,7 @@
  ep3_story_cycle_admin_eunuch.1001.arrivals: "\n\nHailing from a humble [origin.GetDeJureLiege.GetAdjective] family, [eunuch.GetHerHis] relatives have recently joined [eunuch.GetHerHim] in [ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]..."
  ep3_story_cycle_admin_eunuch.1001.a: "I have just the job for [eunuch.GetHerHim]."
  ep3_story_cycle_admin_eunuch.1001.b: "One to watch..."
- EUNOUKOS_GLOSS: "Eunuchs, literally \"bedroom guards\" after their common role as chamberlains, were castrated male servants. Drawn from varied social strata, often highly educated, and trusted for lacking carnal distraction or paternal interests, they quickly became powerful actors in Byzantine politics."
+ EUNOUKOS_GLOSS: "エウヌコス(宦官)は原義には「寝所の衛兵」を意味し、去勢された男性の使用人を指した。様々な社会階層から引き抜かれた宦官は、しばしば教養に富み、また肉欲や男性的関心に欠けると信じられていたことから、ビザンツの政治において急速に台頭した。"
  ep3_story_cycle_admin_eunuch.2010.t: "$admin_eunuch_header$ Trusted Hands"
  ep3_story_cycle_admin_eunuch.2010.desc: "My eunuch, [eunuch.GetTitledFirstName], approaches me in my court, speaking in hushed tones as [eunuch.GetHerHis] eyes wander over the room.\n\n\"My [ROOT.Char.GetLadyLord],\" [eunuch.GetSheHe] prates, \"It is clear to me that the arrangements of government could be handled far more smoothly than they... currently are.\"\n\n\"Ensuring a clear and orderly program would be a great relief to the realm — leave it to me.\""
  ep3_story_cycle_admin_eunuch.2010.a: "Yes, you should handle such affairs [eunuch.GetFirstNameNoTooltip]."

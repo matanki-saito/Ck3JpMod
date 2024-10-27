@@ -222,7 +222,7 @@
  greek_anarchy_development_loss_cb: "奪取されたすべての[county|E]が#N [EmptyScope.ScriptValue('greek_anarchy_development_value')]#!の[development_growth|E]を失います"
  ep3_frankokratia_events.0090.t: "思い出せ、汝は[GetTitleByKey('e_byzantium').GetAdjectiveNoTooltip]なり！"
  ep3_frankokratia_events.0090.desc: "あまりにも長きにわたって、[kingdom_1.GetNameNoTier]のような属州は、如何わしい時代を耐え抜いてきた。そして[GetTitleByKey('e_byzantium').GetAdjective]の君主による平穏なる統治を奪われてきたのだ。\n\nしかし今——[kingdom_1.GetAdjectiveNoTooltip]の民は喜ぶだろう！彼らがフランク人の悪漢どもに跪くことはもはやない！長らく耕されてきた[kingdom_1.GetAdjectiveNoTooltip]の畑も、もはや軍馬の蹄によって踏み荒らされることはない。"
- ep3_frankokratia_events.0090_emp: "[Glossary('ホイ・ポロイ', 'HOI_POLLOI_GLOSS' )]よ、来たれ！誇りを持ってイコンを高く掲げ、[ROOT.Char.GetFaith.HighGodNamePossessive]の聖なる秩序の再来を喜ぶがいい！\n\nこれらの民は再び[ROOT.Char.GetTitleAsName]の下で統一される。彼らの土地の富は宮殿に流れ込み、その返礼として彼らは祖先と同様にあらゆる名誉と栄華を享受するであろう。"
+ ep3_frankokratia_events.0090_emp: "[Glossary('ホイ ポロイ', 'HOI_POLLOI_GLOSS' )]よ、来たれ！誇りを持ってイコンを高く掲げ、[ROOT.Char.GetFaith.HighGodNamePossessive]の聖なる秩序の再来を喜ぶがいい！\n\nこれらの民は再び[ROOT.Char.GetTitleAsName]の下で統一される。彼らの土地の富は宮殿に流れ込み、その返礼として彼らは祖先と同様にあらゆる名誉と栄華を享受するであろう。"
  ep3_frankokratia_events.0090_non_emp: "そして[kingdom_1.GetTierAsNameNoTooltip]の人々のような素朴な民は、今や真なる主君の帰還を自由に夢見ることができる。\n\nラテン人の支配を終わらせる時が来た。"
  ep3_frankokratia_events.0090.a: "[kingdom_1.GetNameNoTierNoTooltip]では、暗黒時代は忘れ去られるだろう！"
  ep3_frankokratia_events.0090.b: "#EMP アウトクラトール#!を見るがいい、[kingdom_2.GetNameNoTierNoTooltip]よ！"

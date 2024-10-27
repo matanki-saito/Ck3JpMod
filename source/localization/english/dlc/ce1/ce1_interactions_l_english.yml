@@ -8,7 +8,7 @@
  ce1_ask_to_promote_legend_acceptance_tt: "[recipient.GetFirstNameNoTooltip]があなたの伝説の流布を開始した"
  ce1_ask_to_promote_legend_decline_tt: "[recipient.GetFirstNameNoTooltip]はあなたの伝説の後援を拒否した"
  recipient_already_promoting_legend_tt: "[recipient.GetFirstNameNoTooltip]は伝説をすでに広めている"
- recipient_close_or_neighbor_tt: "#color_white [recipient.GetTitledFirstName]#!が伝説を広めるためには[actor.GetDynasty.GetName]王朝の一員か、伝説が隣接する[county|E]の所有者である#color_white [actor.GetName]#!の[friend|E]か[lover|E]であるから[actor.GetCulture.GetLanguage.GetName]の言葉を知っている必要があります。"
+ recipient_close_or_neighbor_tt: "#color_white [recipient.GetTitledFirstName]#!は、伝説を広めるために、[actor.GetDynasty.GetName]の王朝の一員であるか、#color_white [actor.GetName]#!の[friend|E]または[lover|E]であること、伝説の隣接する[county|E]の所有者であること、もしくは[actor.GetCulture.GetLanguage.GetName]の言語を理解している必要がある。"
  TOO_HIGH_PROMOTER_MAINTENANCE_REASON: "[income|E]より費用が高い：$VALUE|+0=$"
  TIER_REASON_COUNT: "[title_tier|E]([count|E])：$VALUE|+0=$"
  TIER_REASON_DUKE: "[title_tier|E]([duke|E])：$VALUE|+0=$"

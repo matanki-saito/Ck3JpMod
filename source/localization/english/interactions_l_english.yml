@@ -1526,7 +1526,7 @@
  ASK_FOR_CONVERSION_RECIPIENT_ASTRAY: "[recipient.GetShortUIName|U]は[actor.GetFaith.GetAdjective]を[faith_astray|E]と見なしている：$VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_HOSTILE: "[recipient.GetShortUIName|U]は[actor.GetFaith.GetAdjective]を[faith_hostile|E]と見なしている：$VALUE|=+0$"
  ASK_FOR_CONVERSION_RECIPIENT_EVIL: "[recipient.GetShortUIName|U]は[actor.GetFaith.GetAdjective]を[faith_evil|E]と見なしている：$VALUE|=+0$"
- ASK_FOR_CONVERSION_ACTOR_IS_PIOUS: "[actor.GetShortUINamePossessive|U][piety_level|E]：$VALUE|=+0$"
+ ASK_FOR_CONVERSION_ACTOR_IS_PIOUS: "[actor.GetShortUINamePossessive|U]の[piety_level|E]：$VALUE|=+0$"
  USING_STRESS: "[actor.GetShortUIName|U]は[stress|E]を費やしている：$VALUE|=+0$"
  USING_GOLD: "[actor.GetShortUIName|U]は[gold|E]を与えている：$VALUE|=+0$"
  USING_PIETY: "[actor.GetShortUIName|U]は[piety|E]を使用している：$VALUE|=+0$"
