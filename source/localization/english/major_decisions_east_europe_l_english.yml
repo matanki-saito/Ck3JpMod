@@ -153,7 +153,7 @@
  east_europe.0124.desc.hof_died:0 "[hof.GetTitledFirstName]の死後、[heretic.GetPrimaryTitle.GetNameNoTierNoTooltip]に対する異端審問は崩壊し、多くの教会の重要な高位聖職者が聖職者の継承を処理するために召還された。"
  east_europe.0124.desc.heretic_died:0 "[heretic.GetTitledFirstName]の死後、嫌疑のかかった異端者が[hof.GetFaith.NegativeAfterLife|U]に行ってしまったことで、[hof.GetTitledFirstName]は、$bosnian_church_adherent_plural$の間の大きな逸脱はすぐに消えてしまうだろうと満足しているようだ。"
  east_europe.0124.desc.hof_no_longer_hof:0 "かつての[absolute_faith.ReligiousHeadName]である[hof.GetFirstName]を追放したことで、混沌が[heretic.GetPrimaryTitle.GetNameNoTierNoTooltip]の異端審問を包み、有益な判決の可能性は徐々に消えつつある。"
- east_europe.0124.desc.heretic_not_independent_ruler:1 "今や[Select_CString(heretic.IsLocalPlayer,'私',heretic.GetShortUIName)][Select_CString(heretic.IsLocalPlayer,'が',' が')]独立したキリスト教の統治者ではないことから、[hof.GetTitledFirstName]はもはや[Select_CString(heretic.IsLocalPlayer,'私','彼ら')]を調査に値するものとは見ていない。"
+ east_europe.0124.desc.heretic_not_independent_ruler:1 "今や[Select_CString(heretic.IsLocalPlayer,'私',heretic.GetShortUIName)]が独立したキリスト教の統治者ではないことから、[hof.GetTitledFirstName]はもはや[Select_CString(heretic.IsLocalPlayer,'私','彼ら')]を調査に値するものとは見ていない。"
  east_europe.0124.desc.heretic_now_ecumenical_christian:0 "最近、私が[heretic.GetFaith.GetName]に改宗したことで、[hof.GetTitledFirstName]はもはや[hof.GetFaith.HighGodName]への私の信仰を疑う理由を持っていない。"
  east_europe.0124.desc.heretic_now_different_heresy:0 "私が最近[heretic.GetFaith.GetName]に改宗したことで、[hof.GetTitledFirstName]は#EMP すでに#!私を異端とみなしており、私のさもしい不信心ぶりを非難するのに忙しいせいで、[hof.GetHerHis]調査中の潜在的異端者の異端審問にまともに取り組めていない。"
  east_europe.0124.desc.heretic_now_infidel:0 "私が最近[heretic.GetFaith.GetName]に改宗したことで、[hof.GetTitledFirstName]は私を[hof.GetFaith.HighGodName]の前で不信者であり裏切り者であると宣言した。$bosnian_church_adherent_plural$の潜在的な罪は、それに比べればかなり軽く見えることは間違いない。"

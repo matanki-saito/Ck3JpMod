@@ -806,7 +806,7 @@
  CONFIRM_COMMAND_ACCEPT: "了承した"
  test_difficulty: "[Character.Custom('CharacterDifficulty')]: [Character.CalcScriptedValue('character_difficulty_value')|0]#!"
  test_interest: "関心：#V [Character.CalcDestinyScriptedValue( 'destiny_score_interest', GetPlayer, GetPlayer.GetPlayerHeir )|0]#!"
- ARMY_NAME_LANDLESS: "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip]第$NUM|O$軍"
+ ARMY_NAME_LANDLESS: "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip]第$NUM$軍"
  BASE_INFLUENCE: "[influence_i|E]の基本値"
  COURTIER_PLURAL: "[courtiers|E]"
  NOT_PRESTIGE_LEVEL_CONCEPT: "[prestige_level|E]が不十分"
