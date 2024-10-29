@@ -590,7 +590,7 @@
  diarchy.8001.t: "[recipient.Custom2('AppropriateGreeting', actor )]"
  diarchy.8001.desc: "Your request to champion an expedition for in Our mutual name has merit, and so I give you my sanction. You may draw on our governors' resources as appropriate.\n\nMay the foe tremble and break before your ranks."
  diarchy.8001.a: "For [actor.Custom('GetBestEmpireWithAdjective')]!"
- getbestempirewithadjective.rome: "Glorious Rome"
+ getbestempirewithadjective.rome: "栄光のローマ"
  getbestempirewithadjective.mongolia: "Endless Mongolia"
  getbestempirewithadjective.outremer: "Blessed Outremer"
  getbestempirewithadjective.slavia: "Vast Slavia"
