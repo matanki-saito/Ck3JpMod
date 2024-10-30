@@ -352,7 +352,7 @@
  epidemic_events.5002.c: "彼らは礼に則った葬儀に値する。"
  epidemic_events.5002.d: "そうだな、少なくとも、この舟は航海に耐えられそうだ…"
  epidemic_events.5003.t: "癒しの手"
- epidemic_events.5003.desc: "[location.GetName]の通りを駆け抜ける時、馬は道路の汚れを私からうまい具合に遠ざけてくれるが、しかしその道をとぼとぼと歩く人々についてはそうはいかない。よろめく小さな子どもを片手に抱えた農民が、私に身を投げ出した。\n\n「[ROOT.Char.GetLadyLord]様！　お願いです」[peasant.GetSheHe|U]は懇願し、子どもをこちらに押し出す。「[child.GetSheHe|U]は重い病気なのでございます。治すために少しでも触っていただけませんか？」"
+ epidemic_events.5003.desc: "[location.GetName]の通りを駆け抜ける時、馬は道路の汚れを私からうまい具合に遠ざけてくれるが、しかしその道をとぼとぼと歩く人々についてはそうはいかない。小さな子どもを片手に抱えた農民が、よろめきながら私に身を投げ出した。\n\n「[ROOT.Char.GetLadyLord]様！　お願いです」[peasant.GetSheHe|U]は懇願し、子どもをこちらに押し出す。「[child.GetSheHe|U]は重い病気なのでございます。治すために少しでも触れていただけませんか？」"
  epidemic_events.5003.a: "「#EMP そいつ#!を私に近づけるな！」"
  epidemic_events.5003.b: "まあ、これが役に立つとは思えないが…"
  epidemic_events.5003.b.tt: "農民たちは、王の手当てが癒しになると信じているが、それには利点と欠点がある…"

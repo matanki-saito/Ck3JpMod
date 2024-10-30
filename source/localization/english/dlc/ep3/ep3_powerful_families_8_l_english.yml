@@ -1,6 +1,6 @@
 ﻿l_english:
  ep3_powerful_families.8000.t: "高みにて"
- ep3_powerful_families.8000.desc: "今日、[influential_family_member.Custom2('MyCharacterIntroduction', ROOT.Char)]からの手紙を開封した。[influential_family_member.GetHerHis|U]の品性の低さと陰謀好きな性格が如実に表れており、[liege.GetTitleAsNameNoTooltip]の所持する文書をしばし拝借し、改ざんすることを提案している。\n\nこれまで[liege.GetNamePossessive]の宮廷での[influential_family_member.GetNamePossessiveNoTooltip|U]任命は、我が家の利益を推進する上で極めて重要な資産であった。彼の今回の提案も、さらなる利益をもたらすことを狙っているが、それは同時に[influential_family_member.GetHerHis]地位を永遠に危険にさらすことになるかもしれない……。"
+ ep3_powerful_families.8000.desc: "今日、[influential_family_member.Custom2('MyCharacterIntroduction', ROOT.Char)]からの手紙を開封した。[influential_family_member.GetHerHis|U]の品性の低さと陰謀好きな性格が如実に表れており、[liege.GetTitleAsNameNoTooltip]の所持する文書をしばし拝借し、改ざんすることを提案している。\n\nこれまで[liege.GetNamePossessive]の宮廷での[influential_family_member.GetNamePossessiveNoTooltip|U]の任命は、我が家の利益を推進する上で極めて重要な資産であった。彼の今回の提案も、さらなる利益をもたらすことを狙っているが、それは同時に[influential_family_member.GetHerHis]の地位を永遠に危険にさらすことになるかもしれない……。"
  ep3_powerful_families.8000.a: "そりゃあ面白い、機会を活かそうじゃないか。"
  ep3_powerful_families.8000.a.win: "[influential_family_member.GetFirstNameNoTooltip]は成功する"
  ep3_powerful_families.8000.a.lose: "[influential_family_member.GetFirstNameNoTooltip]はバレる"

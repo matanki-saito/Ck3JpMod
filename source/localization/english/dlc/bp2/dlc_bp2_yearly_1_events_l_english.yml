@@ -105,7 +105,7 @@
  bp2_yearly.1010.a: "いい子だ、我が[hugging_child.Custom('GetDaughterSon')]よ…"
  bp2_yearly.1010.a_callous: "これは、一体…"
  bp2_yearly.1010.a.flavor: "泣くわけには、泣くわけには…。"
- bp2_yearly.1010.a.flavor_callous: "やめろ、私は、こんな…。"
+ bp2_yearly.1010.a.flavor_callous: "やめろ、私、なんかに…"
  bp2_yearly.1015.t: "黄金の子"
  bp2_yearly.1015.intro: "ある朝、一日の準備をしていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('golden_child'))]である[golden_child.GetFirstName]が私に近づいてきた："
  bp2_yearly.1015.desc_guardian: "\n\n「[ROOT.Char.Custom('MistressMaster')|U][ROOT.Char.GetFirstNameNoTooltip],"
