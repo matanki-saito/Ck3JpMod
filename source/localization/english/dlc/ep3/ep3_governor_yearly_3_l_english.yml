@@ -229,7 +229,7 @@
  ep3_governor_yearly.3070.intro: "わが主君[liege.GetTitledFirstName]の廷臣に、[liege.GetPrimaryTitle.GetTierAsNamePossessive]の道路を試走する者がいるとは聞きおよんでいた。とはいえ、わが領地は[root_capital.GetTerrain.GetNameNoTooltip|l]に囲まれた場所に"
  ep3_governor_yearly.3070.landed: "首都があるゆえに、あまり関係のない話と思っていたが……しかし[racer.GetName]は命知らずだった。"
  ep3_governor_yearly.3070.unlanded: "荘園があるゆえに、あまり関係のない話と思っていたが……しかし[racer.GetName]は命知らずだった。"
- ep3_governor_yearly.3070.chariot: "派手なチャリオットに乗って、[root_capital.GetName]中を駆け回っている。"
+ ep3_governor_yearly.3070.chariot: "派手な戦車に乗って、[root_capital.GetName]中を駆け回っている。"
  ep3_governor_yearly.3070.horse: "何度も拍車をかけ、[root_capital.GetName]を駆け回っている。"
  ep3_governor_yearly.3070.desc: "\n\nすると[racer.GetSheHe]があざ笑った。「そなた、このような#EMP 辺鄙な場所#!に住んでおったのか！？　[liege.GetTitleAsNameNoTooltip]はそなたの名前を思い出せぬご様子であったが、なるほど不思議ではあるまいて……。いや不思議というならば、[liege.GetCapitalLocation.GetTitle.GetNameNoTier]からやってきた旅人がここを無事で通る抜けるというが、よっぽど不思議であるな！　」"
  ep3_governor_yearly.3070.a: "ここは可能性に満ちている！どこにも行かないぞ！"

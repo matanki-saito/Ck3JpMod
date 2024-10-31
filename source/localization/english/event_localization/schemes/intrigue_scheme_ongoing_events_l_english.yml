@@ -127,7 +127,7 @@
  intrigue_scheme_ongoing.5004.desc:1 "「兆しです！我が[target.GetLadyLord]、これは吉兆です。雌鶏の腸をこぼしたところ、血があなたの未来を見せてくれました。すばらしいことです！」"
  intrigue_scheme_ongoing.5004.a:0 "んん…ありがとう？"
  intrigue_scheme_ongoing.5005.t:0 "輝けるもの"
- intrigue_scheme_ongoing.5005.desc:0 "[spymaster.GetCouncilTitle]である[spymaster.GetTitledFirstName]は悪辣な笑みを浮かべて私に近づいてくる。\n\n「我が[ROOT.Char.GetLadyLord]、この袋には最も邪悪な粉が入っております。何かの上に…そう、例えば[target.GetTitledFirstName]への贈り物に振りかけたとしても何の痕跡も残しません。そして触れた者を虚弱と悪寒で苦しめ、『自然死』へ誘うのです」"
+ intrigue_scheme_ongoing.5005.desc:0 "[spymaster.GetCouncilTitle]である[spymaster.GetTitledFirstName]は悪辣な笑みを浮かべて私に近づいてくる。\n\n「我が[ROOT.Char.GetLadyLord]、この袋にはこの上なく悪辣な粉が入っております。何かの上に…そう、例えば[target.GetTitledFirstName]への贈り物に振りかけたとしても何の痕跡も残しません。」\n\n「───そして触れた者を虚弱と悪寒で苦しめ、『自然死』へ誘うのです」"
  intrigue_scheme_ongoing.5005.a:0 "よし、よし、よし…[target.GetSheHe]への贈り物に相応しい一品だ。"
  intrigue_scheme_ongoing.5005.b:0 "[target.GetSheHe|U]に私の金など持たせはしないぞ！"
  intrigue_scheme_ongoing.5006.t:0 "贈り物"

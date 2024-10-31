@@ -583,7 +583,7 @@
  debt_level_4:0 "四年間[debt|E]をしている"
  debt_level_5:0 "五年を超えて[debt|E]をしている"
  debt_level_6:0 "十年を超えて[debt|E]をしている"
- MOD_OWNED_SCHEME_SECRECY_ADD:0 "[secrecy|E][scheme|E]"
+ MOD_OWNED_SCHEME_SECRECY_ADD:0 "[scheme|E]の[secrecy|E]"
  scheme_hero_agent_modifier:0 "標的はスパイに借りがある"
  scheme_agent_closing_in_modifier:0 "スパイの接近"
  scheme_talking_agent_modifier:0 "標的がスパイと話す"
