@@ -2187,7 +2187,7 @@
  game_concept_vassal_directive: "封臣への指示"
  game_concept_vassal_directives: "封臣への指示"
  game_concept_directive: "指示"
- game_concept_directives: "支持"
+ game_concept_directives: "指示"
  game_concept_vassal_directive_desc: "[liege|E]として、あなたは[vassals|E]に指示を出し、彼らの[councillor_tasks|E]や建設する[buildings|E]に影響を与えることができる。\n\n指示を出すには、条件を満たす必要がある。たとえば、その[vassal|E]との[opinion|E]が#P 50#!以上であることが求められる。しかし、上級の[government_forms|E]ではこの条件は不要となる。"
  game_concept_share_power: "権力の共有"
  game_concept_co_rulership: "共同支配"

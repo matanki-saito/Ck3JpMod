@@ -260,7 +260,7 @@
  SCHEME_AGENT_CLAIMED_TITLE: "[pressed_claim_i] Grant them a [county|E] you hold that they [claim|E]"
  claimed_title.tt.no_valid_county: "You hold no non-[capital|E] [counties|E] that [recipient.GetFirstName] [claims|E]"
  claimed_title.tt.no_claims: "[recipient.GetShortUIName] は何の[claims|E]も持っていない。"
- SCHEME_AGENT_PIETY: "[piety_i][pious|E]の風評を利用する"
+ SCHEME_AGENT_PIETY: "[piety_i][pious|E]な風評を利用する"
  SCHEME_TT_BODY_BASIC: "標的：[SCHEME.GetTarget.GetName]\n現在の[success_chance|E]：$SUCCESS_CHANCE|%/0V$\n[scheme_potential|E]：[SCHEME.GetMaxSuccessChance|%/0V]\n[scheme_phase|E]の期間：[SCHEME.GetProgressGoal|V]#V 日#!"
  SCHEME_MY_DIPLOMACY: "[diplomacy|E]：$VALUE|+=0$"
  SCHEME_MY_MARTIAL: "私の[martial|E]：$VALUE|+=0$"
