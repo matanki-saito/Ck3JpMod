@@ -244,7 +244,7 @@
  ep2_locale_events_artifact_decoration_desc:0 "[previous_artifact.GetDesc]\n\n花柄のリボンがあしらわれている。"
  artifact_monthly_prestige_3_modifier:0 "装飾用のリボン"
  ep2_locale_events.3001.t:0 "$tournament_locale_visitor_camp$: 一瞬を盗む"
- ep2_locale_events.3001.desc:0 "競技会の喧騒から離れて、ようやくテントの中で[lover.GetFirstName]と二人きりの時間を取れた時、私は深い疲労感に襲われる。私は覆われた藁の塊の上に倒れ込み、体と同じくらい心も痛む。\n\n[lover.GetFirstNameNoTooltip]が警護に呟く声が聞こえる。邪魔をするなとか何とか。そしてしばらくして、[lover.GetHerHis]の温もりが私のそばで感じられる。\n\n「とても疲れた顔をしていますね、愛する人。」[lover.GetHerHis]の心配そうな声がする。「大会が始まる前に休養が必要です。しばらくここで一緒にいてくれませんか？」"
+ ep2_locale_events.3001.desc:0 "競技会の喧騒から離れて、ようやくテントの中で[lover.GetFirstName]と二人きりの時間を取れた時、私は深い疲労感に襲われる。私は覆われた藁の塊の上に倒れ込み、体と同じくらい心も痛む。\n\n[lover.GetFirstNameNoTooltip]が警護に呟く声が聞こえる。邪魔をするなとか何とか。そしてしばらくして、[lover.GetHerHis]の温もりが私のそばで感じられる。\n\n「とても疲れた顔をしていますね、愛しい人」[lover.GetHerHis]の心配そうな声がする。「大会が始まる前に休養が必要です。しばらくここで一緒にいてくれませんか？」"
  ep2_locale_events.3001.a:0 "#EMP そんなに#!疲れてはいない…"
  ep2_locale_events.3001.b:0 "そうしたい。"
  ep2_locale_events.3001.c:0 "準備が必要だ！"
