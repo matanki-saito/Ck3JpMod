@@ -27,7 +27,7 @@
  diplomacy_majesty.0006.a:0 "なんて無粋なことをしてしまったんだろう…"
  diplomacy_majesty.0016.t:0 "気の合う仲間"
  diplomacy_majesty.0016.desc:0 "私は私と[potential_friend.Custom2('MyCharacterIntroduction', ROOT.Char)]が、かなり似通った考え方や行動をしていることに気づいた。我々は常に目が合うとは限らないが、芯の部分では相性が良いはずだ。\n\nこれは、永続的な友情の基礎となるかもしれない——あるいは利用すべき弱点かもしれない…"
- diplomacy_majesty.0016.a:0 "我々は最高の友人になれるだろう！"
+ diplomacy_majesty.0016.a:0 "我々は親友になれるだろう！"
  diplomacy_majesty.0016.a.tt:0 "[scheme|E]は[success_chance|E]が高まるでしょう"
  diplomacy_majesty.0016.b:0 "[potential_friend.GetHerHim]を私の言いなりにしてやろう…"
  diplomacy_majesty.0016.c:0 "友人はいらない、ナイフがある！"

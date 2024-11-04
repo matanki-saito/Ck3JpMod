@@ -294,7 +294,7 @@
  WE_ARE_NEMESES:0 "あなたは仇敵である: $VALUE|=+0$"
  WE_ARE_LOVERS:0 "あなたは愛人関係にあります: $VALUE|=+0$"
  WE_ARE_FRIENDS:0 "あなたは友人である: $VALUE|=+0$"
- WE_ARE_BEST_FRIENDS:0 "あなたは最高の友人である: $VALUE|=+0$"
+ WE_ARE_BEST_FRIENDS:0 "あなたは親友である: $VALUE|=+0$"
  YOU_ARE_MY_RELATIVE:0 "あなたは家族である: $VALUE|=+0$"
  THEY_ARE_MY_CLOSE_KIN:0 "[secondary_recipient.GetShortUINameNoTooltip]は家族である: $VALUE|=+0$"
  YOU_ARE_MY_HOUSE_MEMBER:0 "あなたは[recipient.GetHerHis]の[house|E]である: $VALUE|=+0$"

@@ -463,7 +463,7 @@
  reinforce_soldiers_option_provisions_desc: "逸脱者や栄光を求める者に、衣服、武器、防具、食糧、テントを与え、その対価として兵士として働いてもらう。"
  refill_maa_provisions_tt: "[men_at_arms|E]の[regiments|E]は[THIS.Char.MakeScope.ScriptValue('replenishable_troops_max_provisions_tt_value')|0P][soldiers|E]を獲得する\n#alert_trial $BULLET_WITH_TAB$食料が必要数に満たない場合、連隊への補充は一部分のみとなります#!"
  refill_maa_provisions_full_tt: "[men_at_arms|E]の[regiments|E]は[THIS.Char.MakeScope.ScriptValue('replenishable_troops_max_provisions_tt_value')|0P]人の[soldiers|E]を得る$refill_maa_regiments_fully_reinforced_tt$"
- refill_maa_regiments_fully_reinforced_tt: "\n#P #EMP $BULLET_WITH_TAB$連隊は完全に復員する！#!#!"
+ refill_maa_regiments_fully_reinforced_tt: "\n#P #EMP $BULLET_WITH_TAB$連隊は定員に達する！#!#!"
  refill_maa_provision_cost_tt: "[provisions_i][THIS.Char.MakeScope.ScriptValue('replenishable_troops_payed_provisions_tt_value')|0N]を消費"
  refill_maa_gold_tt: "[men_at_arms|E]の[regiments|E]は[THIS.Char.MakeScope.ScriptValue('replenishable_troops_max_gold_tt_value')|0P]人の[soldiers|E]を得る\n#alert_trial $BULLET_WITH_TAB$ゴールドが足りない場合、補充は一部になります！#!"
  refill_maa_gold_full_tt: "[men_at_arms|E]の[regiments|E]は[THIS.Char.MakeScope.ScriptValue('replenishable_troops_max_gold_tt_value')|0P]人の[soldiers|E]を得る$refill_maa_regiments_fully_reinforced_tt$"

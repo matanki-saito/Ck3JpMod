@@ -70,7 +70,7 @@
  SCHEME_AGENT_IS_SPYMASTER:1 "[target.GetShortUINamePossessiveNoTooltip]の[spymaster|E]"
  SCHEME_AGENT_IS_SPYMASTER_IN_MY_COURT:1 "[target.GetShortUINamePossessiveNoTooltip]の[court|E]にいる[spymaster|E]"
  SCHEME_AGENT_IS_SPOUSE:1 "[target.GetShortUINamePossessiveNoTooltip]の[spouse|E]"
- SCHEME_AGENT_IS_BEST_FRIEND:1 "[target.GetShortUINamePossessiveNoTooltip]の最高の友人"
+ SCHEME_AGENT_IS_BEST_FRIEND:1 "[target.GetShortUINamePossessiveNoTooltip]の親友"
  SCHEME_AGENT_IS_GUARDIAN:1 "[target.GetShortUINamePossessiveNoTooltip]の[guardian|E]"
  SCHEME_AGENT_IS_FRIEND:1 "[target.GetShortUINamePossessiveNoTooltip]の友人"
  SCHEME_AGENT_IS_CONCUBINE:1 "[target.GetShortUINamePossessiveNoTooltip]の[concubine|E]"

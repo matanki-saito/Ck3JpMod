@@ -38,7 +38,7 @@
  friendship.0010.b:0 "もはやそこまでする価値はない。"
  friendship.0010.a.success:0 "我々の関係を修正する"
  friendship.0010.a.failure:0 "努力は無駄になる"
- friendship.0010.a.success.message:0 "[best_friend.GetTitledFirstName]と私は最高の友人のままです。"
+ friendship.0010.a.success.message:0 "[best_friend.GetTitledFirstName]と私は親友のままです。"
  friendship.0010.a.failure.message:0 "[best_friend.GetTitledFirstName]との関係の修復に失敗しました。"
  friendship.0011.t:0 "離れて漂う"
  friendship.0011.desc:0 "終わりというものはゆっくりとしていて地味だが、過ぎゆく時と同じくらい避けられないものだ。かつて、私は[other_best_friend.GetTitledFirstName]こそ永遠の親友だと思っていたが、今では[other_best_friend.GetHerHis]のわざとらしい謝罪になんの驚きも感じない。"
