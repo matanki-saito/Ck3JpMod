@@ -313,7 +313,7 @@
  FACTION_REASON_HIGH_LEGITIMACY: "[liege_possessive|E] high [legitimacy|E]: $VALUE|0+=$"
 
  FACTION_REASON_HOUSE_HOSTILITY: "[GetCultureTradition('tradition_ep3_indomitable_azatani').GetName]: $FACTOR|^%+=$"
- 
+
  # Duty Focus
  FACTION_REASON_duty_focus: "[liege_possessive|E] Duty [focus|E]: $VALUE|0+=$"
 

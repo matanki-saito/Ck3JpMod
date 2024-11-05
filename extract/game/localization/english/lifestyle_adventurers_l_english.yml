@@ -67,6 +67,8 @@
  court_position_positions_of_power_perk_friend: "Employer has [GetPerk('positions_of_power_perk').GetName(GetPlayer)] ([friend|E])"
  court_position_positions_of_power_perk_lover: "Employer has [GetPerk('positions_of_power_perk').GetName(GetPlayer)] ([lover|E])"
  court_position_positions_of_power_perk_marriage: "Employer has [GetPerk('positions_of_power_perk').GetName(GetPlayer)] ([married|E])"
+ court_position_local_inspection_perk_boon: "Employer has [GetPerk('local_inspection_perk').GetName(GetPlayer)]"
+ court_position_local_arbitration_perk_boon: "Employer has [GetPerk('local_arbitration_perk').GetName(GetPlayer)]"
  adventurers_centralization_perk.effect: "[adventurer_i] All [followers|E] increase their [skill|E] by #V 1#! point"
  must_be_in_domain_tt: "Your [camp|E] must be located in their [domain|E]"
  attempt_conversion_of_local_ruler_interaction: "Attempt to Convert"

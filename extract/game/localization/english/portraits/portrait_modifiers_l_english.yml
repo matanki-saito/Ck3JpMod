@@ -1624,7 +1624,7 @@
 	### ANIMATIONS ###
 	##################
 
- idle: "Idle"
+  idle: "Idle"
  chancellor: "Chancellor"
  steward: "Steward"
  spymaster: "Spymaster"
@@ -1871,5 +1871,7 @@
  chifonie_active: "Playing Chifonie"
  alto_flute_idle: "Holding Alto Flute"
  alto_flute_active: "Playing Alto Flute"
-
  dead: "Dead"
+ survey_staff: "Surveying with Walking Stick"
+ holding_staff: "Holding Walking Stick"
+ 

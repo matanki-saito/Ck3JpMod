@@ -168,3 +168,4 @@ indirect_schemes_boilerplate.tt: "\n$BULLET_WITH_TAB$[GetScheme('claim_throne').
  countermeasures_in_target_court.tt.secrecy: "[scheme_countermeasure_countermeasures|E]"
  countermeasures_in_target_court.tt.effective: "Effective [scheme_countermeasure_countermeasures|E] in [hosting|E] [court|E]: $VALUE|/%+=0$"
  countermeasures_in_target_court.tt.backfiring: "Backfiring [scheme_countermeasure_countermeasures|E] in [hosting|E] [court|E]: $VALUE|/%+=0$"
+

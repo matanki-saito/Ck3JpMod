@@ -391,6 +391,7 @@
  diarch_loyalty_score.regency.loyalty_hook.self:0 "$loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.loyalty_hook.predecessor:0 "$predecessor_loyalty_hook$ [hook|E]"
  diarch_loyalty_score.regency.ai_honour:0 "[personality|E] is supremely Honorable"
+ diarch_loyalty_score_power_at_home_perk: "[GetPerk('power_at_home_perk').GetName( GetNullCharacter )]"
  diarch_loyalty_score.co_rule.co_emperorship.dread: "[dreadful|E]"
  diarch_loyalty_score.co_rulership.designated_heir: "[designated_heir|E]"
  diarch_loyalty_score.co_rulership.years_waiting: "Years Waiting"
@@ -399,6 +400,7 @@
  diarch_loyalty_score.co_rulership.your_time_is_up: "#EMP [ROOT.Char.GetLiege.Custom('GetLiegeYour')|U] Time is Up#!"
  diarch_loyalty_score.co_rulership.you_are_too_fit: "Old [ROOT.Char.GetLiege.GetWomanMan|U] Too [healthy|E]"
  diarch_loyalty_score.co_rulership.showing_no_signs_of_slowing: "Age Not Catching up with [ROOT.Char.GetLiege.Custom('GetLiegeYou')]"
+
 
  raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.overflow_edgecase: "Your [diarch|E]'s [diarch_loyalty|E] will likely stay $DIARCHY_WINDOW_UNKNOWN_LOYALTY$"
  raise_diarch_opinion_with_loyalty_update_effect.tt.self_interested.remains_static: "Your [diarch|E]'s [diarch_loyalty|E] will remain $DIARCHY_WINDOW_VISIBLY_DISLOYAL$"

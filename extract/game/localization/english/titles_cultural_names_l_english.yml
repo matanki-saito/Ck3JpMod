@@ -2636,3 +2636,52 @@
  
  cn_kara_khitai: "Kara Khitai"
  cn_kara_khitai_adj: "Kara Khitan"
+
+ # Crimea
+ cn_kerkinitis: "Kerkinitis"
+ cn_kerkinitis_adj: "Kerkinitan"
+ cn_kozlov: "Kozlov"
+ cn_kozlov_adj: "Kozlovan"
+ cn_scythian_neapolis: "Scythian Neapolis"
+ cn_scythian_neapolis_adj: "Scythian"
+ cn_taphros: "Taphros"
+ cn_taphros_adj: "Taphrosan"
+ # Azov
+ cn_tmutarakan: "Tamatarcha"
+ cn_tmutarakan_adj: "Tamatarchan"
+ cn_labrys: "Labrys"
+ cn_labrys_adj: "Labrysan"
+ cn_azara: "Azara"
+ cn_azara_adj: "Azaran"
+ cn_pataroue: "Pataroue"
+ cn_pataroue_adj: "Patarouen"
+ cn_paniardis: "Paniardis"
+ cn_paniardis_adj: "Paniardian"
+ # Don Valley
+ cn_tanais: "Tanais"
+ cn_tanais_adj: "Tanaisan"
+ # Levedia
+ cn_scythia: "Scythia"
+ cn_scythia_adj: "Scythian"
+ cn_hygreis: "Hygreis"
+ cn_hygreis_adj: "Hygreisan"
+ cn_oleshia: "Oleshia"
+ cn_oleshia_adj: "Oleshian"
+ # Yedisan
+ cn_olbia: "Olbia"
+ cn_olbia_adj: "Olbian"
+ cn_borysthenes: "Borysthenes"
+ cn_borysthenes_adj: "Borysthenian"
+ # Bugeac
+ cn_tyras: "Tyras"
+ cn_tyras_adj: "Tyrasan"
+ cn_aepolium: "Aepolium"
+ cn_aepolium_adj: "Aepolian"
+ # Alania
+ cn_gorgippia: "Gorgippia"
+ cn_gorgippia_adj: "Gorgippian"
+ cn_torikos: "Torikos"
+ cn_torikos_adj: "Torikan"
+ # Dobrudja
+ cn_scythia_minor: "Scythia Minor"
+ cn_scythia_minor_adj: "Scythian"

@@ -4,7 +4,7 @@
  TRAVEL_PLAN_DESTINATION_LIST_FUTURE:0 "Destination [TravelPlanDestination.GetIndex]: [TravelPlanDestination.GetProvince.GetName] - arrival in ~[TravelPlanDestination.GetEstimatedArrivalDays] days"
  TRAVEL_PLAN_DESTINATION:0 "[Select_CString( PlannedActivityPhase.HasLocation, PlannedActivityPhase.GetLocation.GetName, 'Choose a location' )]"
  TRAVEL_PLAN_JOIN_ACTIVITY:0 "Join [TravelPlanData.GetActivity.GetNameNoTooltip]"
- TRAVEL_PLAN_CURRENT_DESTINATION:1 "[travel|E] Destination: [TravelPlanData.GetNextDestination.GetProvince.GetName]"
+ TRAVEL_PLAN_CURRENT_DESTINATION:1 "[travel_destination|E]: [TravelPlanData.GetNextDestination.GetProvince.GetName]"
  TRAVEL_PLAN_NO_DESTINATION:0 "You won't travel anywhere"
  TRAVEL_PLAN_FIRST_DESTINATION:1 "First Destination: [TravelPlanData.GetNextDestination.GetProvince.GetName]\nRemaining stops: [TravelPlanData.GetNumberRemainingDestinations]"
  TRAVEL_PLAN_NEXT_DESTINATION:0 "Next Destination: [TravelPlanData.GetNextDestination.GetProvince.GetName]\nRemaining stops: [TravelPlanData.GetNumberRemainingDestinations]"

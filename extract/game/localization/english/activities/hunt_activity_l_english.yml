@@ -41,6 +41,7 @@
  activity_hunt_province_desc_recent_hunt_minor:0 "#N - Recently Held Hunt#!\n"
  activity_hunt_province_desc_wild_predators: "#N - [GetModifier('ep3_wild_predators_modifier').GetName]#!"
  activity_hunt_province_desc_culture:0 "#P + [ROOT.Province.GetTerrain.GetNameNoTooltip]#! ([culture_traditions|E])\n"
+ activity_hunt_province_desc_hidden_hinterlands: "#p +++ Hidden Hinterlands#!\n"
  # Host Desc
  activity_hunt_host_desc_piety:0 "$BULLET_WITH_TAB$Participants may gain [piety_i|E][piety|E]\n$BULLET_WITH_TAB$Participants may lose [stress_loss_i][stress|E]\n"
  activity_hunt_host_desc_prestige:0 "$BULLET_WITH_TAB$Participants may gain [prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$Participants may gain [legitimacy_i] [legitimacy|E]\n$BULLET_WITH_TAB$Participants may lose [stress_loss_i][stress|E]\n"

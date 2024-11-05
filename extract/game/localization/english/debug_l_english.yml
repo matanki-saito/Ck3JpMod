@@ -492,3 +492,8 @@
  spawn_courtier_interaction_tt: "[recipient.GetShortUIName|U] will gain a [recipient.Custom('GetCourtierConcept')|U]"
 
  debug_secrets_interaction: "#bold #color_porple Spread/Expose Secrets#!#!"
+
+ destroy_title_interaction: "Destroy Title"
+ debug_top_title_interaction: "Only Top Title"
+ debug_all_title_interaction: "All Realm Titles"
+ 

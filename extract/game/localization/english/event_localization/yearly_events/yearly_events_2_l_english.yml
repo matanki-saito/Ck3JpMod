@@ -10,7 +10,7 @@
  yearly.1001.b:0 "Everyone will know of [married_seducer.GetHerHis] sinful thoughts!"
  yearly.1001.c:0 "No! My heart remains pure."
  
- yearly.1002.desc:0 "Afterwards, [married_seducer.GetFirstName] falls to the mattress with a thump, [married_seducer.GetHerHis] breath ragged and eyes half-closed. Languorously, I wipe the sweat of [married_seducer.GetHerHis] chest with gentle fingers.\n\nMerely a moment later, [married_seducer.GetFirstNameNoTooltip] pushes my hand away with an apologetic smile. "It is nearly morning. I better leave.""
+ yearly.1002.desc:0 "Afterwards, [married_seducer.GetFirstName] falls to the mattress with a thump, [married_seducer.GetHerHis] breath ragged and eyes half-closed. Languorously, I wipe the sweat of [married_seducer.GetHerHis] [married_seducer.Custom('ObjectifiedFeature')] with gentle fingers.\n\nMerely a moment later, [married_seducer.GetFirstNameNoTooltip] pushes my hand away with an apologetic smile. "It is nearly morning. I better leave.""
  yearly.1002.a:0 ""Can you stay a little while longer? Please?""
  yearly.1002.a.success:0 "[married_seducer.GetFirstNameNoTooltip] stays"
  yearly.1002.a.success.message:0 "[married_seducer.GetFirstName] and I made love until the sun rose."

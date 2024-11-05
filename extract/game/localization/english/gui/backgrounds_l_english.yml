@@ -144,4 +144,11 @@
  ep3_military_tent: "Military Tent"
  ep3_medi_study: "Mediterranean Study"
  ep3_campfire: "Campfire"
+ bp3_coast: "Coast"
+ bp3_riverside: "Riverside"
+ bp3_mountain_winter: "Mountains - Winter"
+ bp3_plains_winter: "Plains - Winter"
+ bp3_hills_winter: "Hills - Winter"
+ bp3_steppe_winter: "Steppe - Winter"
+ bp3_wetlands_winter: "Wetlands - Winter"
  

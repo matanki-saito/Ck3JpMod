@@ -45,12 +45,14 @@
  formal_compliment_noble:0 "noble"
  formal_compliment_gallant:0 "gallant"
  formal_compliment_chivalrous:0 "chivalrous"
+ formal_compliment_mighty: "mighty"
  formal_compliment_elegant:0 "elegant"
  formal_compliment_stately:0 "stately"
  formal_compliment_gracious:0 "gracious"
  formal_compliment_affable:0 "affable"
  formal_compliment_amiable:0 "amiable"
  formal_compliment_dignified:0 "dignified"
+ formal_compliment_glorious: "glorious"
 
 
  #Romantic Compliments 

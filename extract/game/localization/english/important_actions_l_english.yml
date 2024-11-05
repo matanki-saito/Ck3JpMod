@@ -82,6 +82,11 @@
  action_lifestyle_stewarship_label:0 "$action_can_spend_perk_point_label$"
  action_lifestyle_stewarship_desc:0 "$action_can_spend_perk_point_desc$"
  action_lifestyle_stewarship_click:0 "$action_can_spend_perk_point_click$"
+
+ action_lifestyle_wanderer: "$action_can_spend_perk_point$"
+ action_lifestyle_wanderer_label: "$action_can_spend_perk_point_label$"
+ action_lifestyle_wanderer_desc: "$action_can_spend_perk_point_desc$"
+ action_lifestyle_wanderer_click: "$action_can_spend_perk_point_click$"
  
  action_can_choose_dynasty_perk:0 "Available Dynasty Legacy"
  action_can_choose_dynasty_perk_label:1 "You should unlock a [dynasty_perk|E]"

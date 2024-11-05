@@ -327,6 +327,11 @@
  stole_hostage_opinion: "Stole my Hostage"
  castration_opinion: "Castrated Me"
  attempted_castration_opinion: "Tried to Castrate Me"
+
+ impeccable_guest_opinion: "Impeccable Guest"
+ gracious_host_opinion: "Gracious Host"
+ dishonest_opinion: "Dishonest"
+
  coup_plotter_opinion: "Plotted to Overthrow Me"
  support_opinion: "Supports My Reign"
  opposition_opinion: "Opposes My Reign"
@@ -373,3 +378,4 @@
 
  requested_influence_opinion: "Requested Influence Support"
  unjust_patriarch_opinion: "Unjust Patriarch"
+ respected_camp_leader_opinion: "Respected Camp Leader"

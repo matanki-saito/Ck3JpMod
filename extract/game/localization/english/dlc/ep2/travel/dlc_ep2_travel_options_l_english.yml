@@ -163,3 +163,23 @@
  
  estate_mounts_option: "Magnificent Horses"
  estate_mounts_option_desc: "You outfit your entire entourage with the most magnificent horses money can buy. From your very own stables no less!"
+
+ hire_allied_mercenaries_option: "Private Army"
+ hire_allied_mercenaries_option_desc: "A mixed group of lesser knights and local mercenaries, to ensure a quick and safe yet affordable journey."
+
+ appeasement_option: "Appeasement"
+ appeasement_option_desc: "Sometimes one must don a benevolent facade, concealing tyranny with regal charm, soothing vassals and subjects."
+
+ leisurely_option: "Mellow Journey"
+ leisurely_option_desc: "In your travels, you will set aside time to warmly explore small towns and villages, connecting with the locals."
+ leisurely_option_tt: "Receive [prestige_experience|E] for every visited [holding|E]"
+ leisurely_option_effect: "$leisurely_option$"
+ 
+ tutor_child_option: "Tutoring Trip"
+ tutor_child_option_desc: "Bringing your heir when traveling the realm will teach them about the life of a ruler."
+ tutor_child_option_tt: "Children accompanying you to [holdings|E] in your [domain|E] will be able to increase their skills"
+ child_brought_along.tt: "Your [heir|E] will be brought into your entourage."
+ child_brought_along_specific.tt: "Your heir, [tutored_heir.GetName], will be brought into your entourage."
+ heir_can_join_tt: "[heir_for_tooltip.GetName] is available to join the entourage"
+ no_heir_tt: "[heir|E] is available to join the entourage"
+ travel_logs_title: "$travel_logs_perk_name$"

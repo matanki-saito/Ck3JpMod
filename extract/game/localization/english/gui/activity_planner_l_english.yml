@@ -29,7 +29,7 @@
  ACTIVITY_ALL_GUESTS_BUTTON_TEXT:3 "Manage Guests ([ActivityPlanner.GetNumInvitedCharacters])"
  ACTIVITY_PLANNER_SUMMARY:0 "Summary"
  ACTIVITY_SUMMARY_COOLDOWN_HEADER:0 "Cooldown"
- ACTIVITY_COOLDOWN:2 "@alert_icon! #alert_trial Hosting a [ActivityType.GetNameNoTooltip] will be unavailable for [GetTimeDifferenceWithDays( ActivityType.CalcCooldownDays( GetPlayer ) )]#!"
+ ACTIVITY_COOLDOWN:2 "@alert_icon! #alert_trial Cannot host another [ActivityType.GetNameNoTooltip] for [GetTimeDifferenceWithDays( ActivityType.CalcCooldownDays( GetPlayer ) )]#!"
 
  activity_filter_capital:0 "[realm_capital|E]"
  activity_filter_domain:1 "[domain|E]"

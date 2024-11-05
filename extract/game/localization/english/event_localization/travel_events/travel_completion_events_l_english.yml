@@ -17,3 +17,9 @@
  cultural_ambassador_cultural_acceptance_gain_desc:0 "Traveling with a Cultural Ambassador"
  cultural_ambassador_toast.t:0 "[cultural_ambassador.GetFirstNameNoTooltip] increases Cultural Acceptance"
  cultural_ambassador_option.tt:0 "Effects from your Cultural Ambassador:\n$EFFECT_LIST_BULLET$The [cultural_acceptance|E] between every [culture|E] you visited and the [SCOPE.GetRootScope.GetCharacter.GetCulture.GetName] increased by #positive_value +1%#!"
+
+ finally_there_perk_title_message: "[GetPerk('finally_there_perk').GetName( GetNullCharacter )]"
+ souvenirs_aplenty_perk_title_message: "[GetPerk('souvenirs_aplenty_perk').GetName( GetNullCharacter )]"
+ no_stone_unturned_perk_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]"
+ no_stone_unturned_perk_cooldown_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]: No Effect"
+ no_stone_unturned_perk_cooldown_message: "County is still affected by your last visit."

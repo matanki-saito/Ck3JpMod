@@ -181,3 +181,6 @@
  ate_a_bird_desc:0 "A bird ate many of the supplies these travelers were depending on. Thankfully, the supplies made for great stuffing for a roast bird."
  bird_superstition:0 "Superstitions"
  bird_superstition_desc:0 "A bird was killed and eaten during this travel, which many consider to be a bad omen."
+ the_home_away_from_home_modifier: "A Home Away from Home"
+ the_home_away_from_home_modifier_desc: "For some, seeing the world is much more comfortable than being stuck at home."
+

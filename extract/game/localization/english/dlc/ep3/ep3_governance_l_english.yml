@@ -326,7 +326,7 @@
  ep3_land_confiscate_modifier: "Confiscated Lands"
  ep3_land_confiscate_modifier_desc: "This is the perfect spot to expand my estate!"
 
- mad_prophet: "A Mad Prophet"
+ mad_prophet: "The Mad Prophet"
  mad_prophet_contract: "$mad_prophet$"
  mad_prophet_desc: "A self-declared prophet is terrorizing a whole county with their doomsday predictions."
  mad_prophet_desc_title: "$task_contract_governance_desc_title$"

@@ -111,6 +111,33 @@
  learning_scholarship_focus_desc:0 "The knowledge of those who have come before, the knowledge of those still living, and the knowledge of perpetual truths."
  learning_scholarship_focus_effect_desc:0 "Focusing on Scholarship grants:"
  scholarship_name:1 "Scholar"
+
+ #Wanderer
+ wanderer_lifestyle_name: "Wandering"
+ wanderer_lifestyle_desc: "Focus on traveling to the corners of the world, seeing great sights that others can only dream of, and surviving to tell the tale."
+ wanderer_lifestyle_highlight_desc: "[GetPlayer.Custom('GetWandererLifestyleXPHighlight')]"
+ wanderer_lifestyle_highlight: "Because of your [GetTrait('lifestyle_traveler').GetName( GetPlayer )] [trait|E], you gain #P [GetPlayer.Custom('GetLifestyleBoostWanderer')]#! more [experience|E] in this Lifestyle."
+ wanderer_lifestyle_adventurer_no_highlight: "Unlocks new [activities|E]\n[hike_i] [monument_expedition_i]"
+ wanderer_lifestyle_no_highlight: "Unlocks new [activities|E]\n[inspection_i] [hike_i] [monument_expedition_i]"
+ wanderer_journey_focus: "Journey Focus"
+ wanderer_journey_focus_modifier: "[GetFocus('wanderer_journey_focus').GetName]"
+ wanderer_journey_focus_desc: "Every step is a journey in itself."
+ wanderer_journey_focus_effect_desc: "Focusing on the Journey grants:\n$wanderer_journey_focus_effect$"
+ wanderer_journey_focus_effect: "Every [travel|E] [location|E]: $game_concept_stress_loss_i$#P -2#!"
+ wanderer_destination_focus: "Destination Focus"
+ wanderer_destination_focus_modifier: "[GetFocus('wanderer_destination_focus').GetName]"
+ wanderer_destination_focus_desc: "There is a world out there waiting to be seen."
+ wanderer_destination_focus_effect_desc: "Focusing on the Destination grants:\n$wanderer_destination_focus_effect$"
+ wanderer_destination_focus_effect: "[point_of_interest|E] [prestige|E]: $game_concept_prestige_i$#P +50#!"
+ wanderer_internal_affairs_focus: "Internal Affairs Focus"
+ wanderer_internal_affairs_focus_desc: "Guiding progress and prosperity through a personal touch."
+ wanderer_internal_affairs_focus_effect_desc: "Focusing on Internal Affairs grants:\n$wanderer_internal_affairs_focus_effect$"
+ wanderer_internal_affairs_focus_effect: ""
+ wanderer_internal_affairs_focus_modifier: "$wanderer_internal_affairs_focus$"
+
+ wayfarer_name: "Wayfarer"
+ voyager_name: "Voyager"
+ surveyor_name: "Inspector"
  
  #Adventurers
  diplomacy_adventurer_focus: "Heralding"

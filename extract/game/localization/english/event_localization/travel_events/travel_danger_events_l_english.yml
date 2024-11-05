@@ -20,7 +20,7 @@
  travel_danger_events.1001.b:0 ""We proceed on foot!""
 
  travel_danger_events.1002.t:1 "$travel_danger_prefix$ Treacherous Slopes"
- travel_danger_events.1002.desc:0 "As we travel through [current_location.GetName], I take in the beautiful view from the mountainside. When I steal my eyes away to focus back on the stony path ahead, I realize we have been surrounded by group of ruffians! A tall [bandit.GetWomanMan], presumably the leader, steps out in front of our caravan.\n\n"Passin' through these mountains'll cost ya. Don't care who ya are, anyone passin' through my mountains pays.""
+ travel_danger_events.1002.desc:0 "As we travel through [current_location.GetName], I take in the beautiful view from the mountainside. When I steal my eyes away to focus back on the stony path ahead, I realize we have been surrounded by group of ruffians! A fearsome [bandit.GetWomanMan], presumably their leader, steps in front of our caravan.\n\n"Passin' through these mountains'll cost ya. Don't care who ya are, anyone passin' through my mountains pays.""
  travel_danger_events.1002.a:0 ""Let's talk this through.""
  travel_danger_events.1002.a.success:0 "You persuade the bandits"
  travel_danger_events.1002.a.success.desc:0 "You and your entourage travel freely through the mountain pass."

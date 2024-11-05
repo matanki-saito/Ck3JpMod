@@ -19,6 +19,7 @@
  major_threat_hook:0 "Threatened"
  saved_my_life_hook:0 "Saved Life"
  obligation_hook:0 "Obligation"
+ strong_obligation_hook: "$obligation_hook$"
  liege_favour_strong_hook:0 "Bestowed Grace"
  caliphal_submission_hook: "Caliphal Submission"
 

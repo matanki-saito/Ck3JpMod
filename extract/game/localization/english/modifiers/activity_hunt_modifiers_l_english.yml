@@ -168,6 +168,8 @@
  hunt_success_chance.hunt_abundant_game_modifier: "[GetModifier( 'ep3_abundant_game_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_wild_predators_modifier: "[GetModifier( 'ep3_wild_predators_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hunt_punished_locals_modifier:0 "[GetModifier( 'hunt_punished_locals_modifier' ).GetNameWithTooltip]"
+ hunt_success_chance.hidden_hinterlands_recruit_modifier: "[GetModifier( 'inspection_hidden_hinterlands_recruit_modifier' ).GetNameWithTooltip]"
+ hunt_success_chance.hidden_hinterlands_huntsmen_modifier: "[GetModifier( 'inspection_hidden_hinterlands_hunters_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.recent_hunt_held:0 "Recent Hunts in [ROOT.Activity.GetCurrentPhase.GetLocation.GetBaronyNameExplicitly]"
  hunt_success_chance.hunting_grounds:0 "$building_type_hunting_grounds_01$ [building|E]"
  hunt_success_chance.rainbow_mountains_01: "$building_type_rainbow_mountains_01$ [building|E]"

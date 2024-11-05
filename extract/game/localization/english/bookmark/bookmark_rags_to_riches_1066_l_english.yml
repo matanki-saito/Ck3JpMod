@@ -37,7 +37,7 @@
  
  bookmark.1066.t: "Matilda's Marital Dilemma"
  bookmark.1066.desc: "Eleven years ago, my mother [mum.GetFirstName] orchestrated my betrothal to [hunchback.GetFirstNameNicknamed], my step-brother and the son of my mother's new husband, [hunchbacks_father.GetTitledFirstNameNicknamed].\n\nThough the alliance with [hunchbacks_father.GetPrimaryTitle.GetBaseNameNoTier] is advantageous, is this truly the future that God envisions for the prestigious House [ROOT.Char.GetHouse.GetBaseName]?\n\nI #EMP must#! take action to safeguard the future of my lineage!"
- bookmark.1066.a: "Jesus died for our sins, one more won't hurt."
+ bookmark.1066.a: "Jesus died for our sins; one more won't hurt."
  bookmark.1066.b: "I will avoid him until the day I die."
  bookmark.1066.c: "While a divorce is impossible, I still hold sway with the Pope..."
  bookmark.1066.d: "I accept my lot in life..."
