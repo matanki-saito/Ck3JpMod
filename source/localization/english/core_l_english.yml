@@ -875,3 +875,4 @@
  tooltipped_camp_purpose_brigands: "[GetLaw('camp_purpose_brigands').GetName]"
  tooltipped_camp_purpose_legitimists: "[GetLaw('camp_purpose_legitimists').GetName]"
  MUSIC_PLAYER_NAME: "音楽プレイヤー"
+ realm_chart_perk_same_realm_secrecy: "$realm_charts_perk_name$"

@@ -314,7 +314,7 @@
  laamp_treasure_map_contract_desc_title: "一生の宝物"
  laamp_treasure_map_contract_desc: "引退したトレジャーハンター、[TaskContract.GetEmployer.GetName]は最後の秘宝の探索の協力者を求めています。この依頼は宝の地図を所有している限り有効となります。"
  laamp_treasure_map_contract_request: "この[task_contract|E]は[GetDecisionWithKey('treasure_map_contract_decision').GetName]の[decision|E]で宝物の場所まで[travel|E]する必要があります"
- overflowing_provisions_to_gold.tt: "#EMP これはあなたの[provisions|E]容量を超えるため、追加の@provisions_icon![provisions_overflow_value]は現地市場で売却され、@gold_icon![provisions_transformed_to_gold_value]に換金されます#!"
+ overflowing_provisions_to_gold.tt: "#EMP Because this would put you above your [provisions|E] capacity, the additional @provisions_icon![provisions_overflow_value|V0] will be sold on the local market for @gold_icon![provisions_transformed_to_gold_value|V0]#!"
  treasure_map: "宝の地図"
  treasure_map_desc: "ぼろぼろの地図だ。これは[newly_created_map.MakeScope.Var('artifact_treasure_location').GetProvince.GetBaronyNameExplicitlyNoTooltip]にあるとされる古代の財宝への道を示しているらしい。[newly_created_map.MakeScope.Var('picked_up_in_location').GetProvince.GetBaronyNameExplicitlyNoTooltip]の町の呼び子から手に入れた眉唾物だが…"
  artifact_is_related_to_contract_tt: "この[artifact|E]は[task_contract|E]に関わるものなので処分できない"

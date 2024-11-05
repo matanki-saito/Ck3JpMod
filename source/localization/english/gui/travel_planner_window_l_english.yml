@@ -4,7 +4,7 @@
  TRAVEL_PLAN_DESTINATION_LIST_FUTURE:0 "[TravelPlanDestination.GetIndex]の目的地: [TravelPlanDestination.GetProvince.GetName]へ[TravelPlanDestination.GetEstimatedArrivalDays]に到着するだろう"
  TRAVEL_PLAN_DESTINATION:0 "[Select_CString( PlannedActivityPhase.HasLocation, PlannedActivityPhase.GetLocation.GetName, 'Choose a location' )]"
  TRAVEL_PLAN_JOIN_ACTIVITY:0 "[TravelPlanData.GetActivity.GetNameNoTooltip]に参加する"
- TRAVEL_PLAN_CURRENT_DESTINATION:1 "[travel|E]の目的地: [TravelPlanData.GetNextDestination.GetProvince.GetName]"
+ TRAVEL_PLAN_CURRENT_DESTINATION:1 "[travel_destination|E]: [TravelPlanData.GetNextDestination.GetProvince.GetName]"
  TRAVEL_PLAN_NO_DESTINATION:0 "あなたはどこにも旅しません"
  TRAVEL_PLAN_FIRST_DESTINATION:1 "最初の目的地: [TravelPlanData.GetNextDestination.GetProvince.GetName]\n停泊予定地: [TravelPlanData.GetNumberRemainingDestinations]"
  TRAVEL_PLAN_NEXT_DESTINATION:0 "次の目的地: [TravelPlanData.GetNextDestination.GetProvince.GetName]\n停泊予定地: [TravelPlanData.GetNumberRemainingDestinations]"

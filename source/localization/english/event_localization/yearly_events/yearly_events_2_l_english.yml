@@ -8,7 +8,7 @@
  yearly.1001.a.tt:0 "私は皆が寝静まってから[married_seducer.GetTitledFirstName]を探すでしょう"
  yearly.1001.b:0 "誰もが[married_seducer.GetHerHis]の罪深き考えを知るだろう！"
  yearly.1001.c:0 "断る！私は純真でいたい。"
- yearly.1002.desc:0 "その後、[married_seducer.GetFirstName]はドンとベッドへと倒れ込み、[married_seducer.GetHerHis]の息は荒くなり、目は半開きになっている。私はゆっくりと、[married_seducer.GetHerHis]の胸の汗を優しい指で拭く。\n\n一瞬ののち、[married_seducer.GetFirstNameNoTooltip]は申し訳なさそうな笑みを浮かべながら私の手を押しのける。「もうすぐ朝です。私は戻らないと。」"
+ yearly.1002.desc:0 "その後、[married_seducer.GetFirstName]はどさりと寝台へと倒れ込んだ。その息は荒くなり、目は半開きになっている。私はゆっくりと、[married_seducer.GetHerHis]の[married_seducer.Custom('ObjectifiedFeature')]の汗を優しい指で拭く。\n\n一瞬ののち、[married_seducer.GetFirstNameNoTooltip]は申し訳なさそうな笑みを浮かべながら私の手を押しのける。「もうすぐ朝です。私は戻らないと」"
  yearly.1002.a:0 "「もう少しいてもらえないか？お願いだ」"
  yearly.1002.a.success:0 "[married_seducer.GetFirstNameNoTooltip]は留まる"
  yearly.1002.a.success.message:0 "[married_seducer.GetFirstName]と私は日が昇るまで愛し合いました。"

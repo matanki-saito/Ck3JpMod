@@ -1251,3 +1251,5 @@
  map_fear: "不安#weak （固定）#!"
  instrument_idle: "楽器を持って待機"
  instrument_active: "楽器を演奏"
+ survey_staff: "杖を用いた測量"
+ holding_staff: "杖を握る"

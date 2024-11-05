@@ -335,7 +335,7 @@
  laamp_used_contact_opinion_special: "$laamp_used_contact_opinion$"
  contact_list_request_interaction.request_provisions_tt: "食料の支援"
  contact_list_request_interaction.capital_county_modifier: "#V 三年間#![capital_county.GetName]は[GetModifier('ep3_gave_out_provisions').GetNameWithTooltip]を得ます"
- contact_list_request_interaction.gained_provisions_value: "[provisions|E]を@provisions_icon!#V [gained_provisions_value]#!得ます"
+ contact_list_request_interaction.gained_provisions_value: "Gains #V [gained_provisions_value|V0]#! @provisions_icon! [provisions|E]"
  contact_list_request_interaction.request_feast: "[recipient.GetShortUIName] will start a [GetActivityType('activity_feast').GetTextIcon][GetActivityType('activity_feast').GetName] as soon as possible #weak (within 1-3 months)#!"
  contact_list_request_interaction.request_tournament: "[recipient.GetShortUIName] will start a [GetActivityType('activity_tournament').GetTextIcon][GetActivityType('activity_tournament').GetName] as soon as possible #weak (within 1-2 years)#!"
  contact_list_request_interaction.request_feast_honor: "You will likely be chosen as the [honorary_guest|E]"

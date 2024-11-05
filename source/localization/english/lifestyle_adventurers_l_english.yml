@@ -129,3 +129,5 @@
  true_ruler_perk_adventurer_name: "私をご存知でない？"
  writing_history_perk_adventurer_name: "真面目一徹"
  attempt_conversion_of_local_ruler_interaction_extra_icon: "$hook_extra_icon$"
+ court_position_local_inspection_perk_boon: "[GetPerk('local_inspection_perk').GetName(GetPlayer)]を雇う"
+ court_position_local_arbitration_perk_boon: "[GetPerk('local_arbitration_perk').GetName(GetPlayer)]を雇う"

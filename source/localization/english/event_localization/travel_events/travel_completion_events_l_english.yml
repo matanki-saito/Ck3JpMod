@@ -15,3 +15,8 @@
  cultural_ambassador_option.tt:0 "あなたの文化使節の影響: \n$EFFECT_LIST_BULLET$あなたが訪れた全ての[culture|E]と[SCOPE.GetRootScope.GetCharacter.GetCulture.GetName]の[cultural_acceptance|E]が#positive_value +1%#!上昇します"
  travel_completion_event.1000.a.adventurer: "ふたたび快適な寝床を……[ROOT.Char.GetFaith.HighGodName]よ感謝いたします。"
  travel_completion_event.1000.b.adventurer: "旅は素晴らしいものだが、快適であればさらに良いものになる。"
+ finally_there_perk_title_message: "[GetPerk('finally_there_perk').GetName( GetNullCharacter )]"
+ souvenirs_aplenty_perk_title_message: "[GetPerk('souvenirs_aplenty_perk').GetName( GetNullCharacter )]"
+ no_stone_unturned_perk_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]"
+ no_stone_unturned_perk_cooldown_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]: No Effect"
+ no_stone_unturned_perk_cooldown_message: "County is still affected by your last visit."

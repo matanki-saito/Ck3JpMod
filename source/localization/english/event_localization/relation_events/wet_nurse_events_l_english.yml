@@ -194,7 +194,7 @@
  bp2_decision.0002.b_modifier: "刃が触れるだけで怖い！"
  bp2_decision.0002.c: "修行に入る。"
  bp2_decision.0002.c.tt: "過酷な荒野が真の自己を晒すだろう。"
- bp2_decision.0002.c.destination: "[travel|E]の行き先を選ぶ"
+ bp2_decision.0002.c.destination: "[travel_destination|E]を選ぶ"
  bp2_decision.0002.c_win: "修行の終わりは…"
  bp2_decision.0002.c_lose: "修行は辛い…"
  bp2_decision.0002.c_trait: "旅の行き先に応じた[commander_trait|E]を得るだろう"

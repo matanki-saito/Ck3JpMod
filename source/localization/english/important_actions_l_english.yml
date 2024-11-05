@@ -884,3 +884,7 @@
  action_in_debt_landless_label: "$action_in_debt_label$"
  action_in_debt_landless_desc: "[gold_i|E]が#V 0#![gold|E]未満である為、[debt|E]状態となります！\n\n借金中は、次のような影響があります:\n$BULLET_WITH_TAB$[war|E]を宣言できません\n$BULLET_WITH_TAB$[gold_i|E][gold|E]を必要とする[men_at_arms|E]の補充ができません\n\n借金が多ければ多いほど、そのペナルティは厳しくなります。現在の借金のレベルには、以下の追加の効果があります:\n\n\n[GetPlayer.GetDebtModifierDescription]\n\n#help [gold|E]を稼ぐ為に、[task_contract|E]を受けることを検討してください#!"
  action_in_debt_landless_click: "$action_in_debt_click$"
+ action_lifestyle_wanderer: "$action_can_spend_perk_point$"
+ action_lifestyle_wanderer_label: "$action_can_spend_perk_point_label$"
+ action_lifestyle_wanderer_desc: "$action_can_spend_perk_point_desc$"
+ action_lifestyle_wanderer_click: "$action_can_spend_perk_point_click$"

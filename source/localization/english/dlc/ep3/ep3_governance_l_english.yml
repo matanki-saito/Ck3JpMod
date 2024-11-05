@@ -310,7 +310,7 @@
  ep3_lands_reinstated_modifier_desc: "その地域において小規模地主たちの存在が復活した。"
  ep3_land_confiscate_modifier: "土地の没収"
  ep3_land_confiscate_modifier_desc: "ここは私の領地を拡張するのに絶好の場所だ！"
- mad_prophet: "狂気の預言者"
+ mad_prophet: "The Mad Prophet"
  mad_prophet_contract: "$mad_prophet$"
  mad_prophet_desc: "自称預言者が終末論を触れ回り、領内を恐怖に陥れている。"
  mad_prophet_desc_title: "$task_contract_governance_desc_title$"

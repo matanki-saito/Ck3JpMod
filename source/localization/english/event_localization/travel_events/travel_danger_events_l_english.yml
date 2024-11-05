@@ -9,7 +9,7 @@
  travel_danger_events.1001.a:0 "[travel_leader.GetFirstNameNoTooltip]よ、近場の街で元気な奴らを買ってこい。"
  travel_danger_events.1001.b:0 "歩けばいいだけだ！"
  travel_danger_events.1002.t:1 "$travel_danger_prefix$危険な斜面"
- travel_danger_events.1002.desc:0 "[current_location.GetName]を通る時、私はその山道の美しいことに目を奪われた。その眼前に続く石の道、それに集中していると強盗の集団に囲まれていた。リーダーだろうか、背の高い[bandit.GetWomanMan]は一行の前に立ちはだかった。\n\n「ここを通るやつにはちっとばかりお駄賃頂いてンだ。お前が誰かは聞いてねェ、ここはわしの山道だからよ、誰だろォと払わなきゃならねェ。」"
+ travel_danger_events.1002.desc:0 "As we travel through [current_location.GetName], I take in the beautiful view from the mountainside. When I steal my eyes away to focus back on the stony path ahead, I realize we have been surrounded by group of ruffians! A fearsome [bandit.GetWomanMan], presumably their leader, steps in front of our caravan.\n\n\"Passin' through these mountains'll cost ya. Don't care who ya are, anyone passin' through my mountains pays.\""
  travel_danger_events.1002.a:0 "話せばわかる。"
  travel_danger_events.1002.a.success:0 "盗賊を説得します"
  travel_danger_events.1002.a.success.desc:0 "あなたたちは峡谷を無料で通ることが出来た。"

@@ -439,3 +439,6 @@
  spawn_courtier_interaction_tt: "[recipient.GetShortUIName|U]は[recipient.Custom('GetCourtierConcept')|U]を得るだろう"
  debug_secrets_interaction: "#bold #color_porple 秘密の拡散/暴露#!#!"
  make_dynasty_house_head_interaction: "家長にする"
+ destroy_title_interaction: "称号を破壊"
+ debug_top_title_interaction: "第一称号のみ"
+ debug_all_title_interaction: "全ての領国の称号"

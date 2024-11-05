@@ -28,3 +28,4 @@
  contact_list_weak_hook: "依頼の成功"
  blood_brother_hook: "血盟者"
  blood_sister_hook: "血盟者"
+ strong_obligation_hook: "$obligation_hook$"

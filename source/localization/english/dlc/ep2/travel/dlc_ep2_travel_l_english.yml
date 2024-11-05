@@ -117,3 +117,6 @@
  travel_danger_type_epidemic: "伝染病"
  travel_danger_type_epidemic_desc: "この[barony|E]は[epidemic|E]に感染している"
  TRAVEL_NAME_FOR_activity_chariot_race: "[Character.GetFirstNamePossessiveNoTooltip]がヒッポドロームに向かう"
+ TRAVEL_NAME_FOR_activity_roaming: "$TRAVEL_NAME_FOR_activity_tournament$"
+ TRAVEL_NAME_FOR_activity_journey: "$TRAVEL_NAME_FOR_activity_tournament$"
+ TRAVEL_NAME_FOR_activity_survey: "$TRAVEL_NAME_FOR_activity_tournament$"

@@ -226,3 +226,4 @@
  propaganda_chronicle_desc:0 "この膨大な量の書物は、[ROOT.Char.GetDynastyHouseNameNoTooltip]家の栄光と、その様々な、多かれ少なかれ奇妙な領土の主張について、痛いほど詳しく説明している。"
  half_baked_propaganda_chronicle_name:0 "未完成のプロパガンダ年代記"
  half_baked_propaganda_chronicle_desc:0 "この本が完成していたら、悪名のなかで生きていたかもしれない。現状では、この本は、その後援者が求めた領土の主張について読者を納得させることができず、代わりに[ROOT.Char.GetDynastyNameNoTooltip]王朝の高い評価について叙情的に語っている。"
+ commission_epic.9101.d.tt: "[composer.GetTitledFirstName]はあなたの宮廷から去るだろう"

@@ -260,3 +260,4 @@
  activity_invite_rule_vassals_and_below: "全臣下"
  activity_chariot_race_province_constantinople: "\n#P +++ コンスタンティノープル#!"
  activity_chariot_race_province_capital: "\n#P ++あなたの首都である#!"
+ journey_planner_perk_desc: "[GetPerk('journey_planner_perk').GetName( GetNullCharacter )]"

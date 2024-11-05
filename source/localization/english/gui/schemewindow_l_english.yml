@@ -452,3 +452,4 @@
  ai_acceptance_trait_forgiving: "[GetTrait('forgiving').GetName( GetNullCharacter )]だ：$VALUE|+0=$"
  ai_acceptance_trait_eccentric: "[GetTrait('eccentric').GetName( GetNullCharacter )]だ：$VALUE|+0=$"
  SCHEME_TARGET_TRAIT_AMBITIOUS: "[target.GetShortUIName]は[GetTrait('ambitious').GetName( target.Self )]だ：$VALUE|+0=$"
+ SCHEME_LUST_DEMON_MODIFIER: "$possessed_by_lust_demon_modifier$: $VALUE|+0=$"

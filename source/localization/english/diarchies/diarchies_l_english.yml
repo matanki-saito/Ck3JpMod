@@ -570,3 +570,4 @@
  diarch_loyalty_score.co_rulership.showing_no_signs_of_slowing: "[ROOT.Char.GetLiege.Custom('GetLiegeYou')]に追いつきそうな年齢"
  diarch_loyalty_score.regency.tradition_ep3_palace_politics: "[culture|E]は[GetCultureTradition('tradition_ep3_palace_politics').GetName]を持っている"
  to_diarch_monthly_influence_add_bonus: "[duumvirate|E]からの恩恵"
+ diarch_loyalty_score_power_at_home_perk: "[GetPerk('power_at_home_perk').GetName( GetNullCharacter )]"

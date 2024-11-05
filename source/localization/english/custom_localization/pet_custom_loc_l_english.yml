@@ -67,3 +67,7 @@
  fur_color_tawny:0 "黄褐色の"
  fur_color_pink:0 "ピンクの"
  cat_name_spooky: "スプーキー"
+ name_lil_city: "[ROOT.Var('cat_city').Province.GetNameNoTooltip]"
+ name_pride_of_city: "Pride of [ROOT.Var('cat_city').Province.GetNameNoTooltip]"
+ name_tail_of_city: "[ROOT.Var('cat_city').Province.GetNameNoTooltip]'s Tail"
+ name_tigon: "Tigon"

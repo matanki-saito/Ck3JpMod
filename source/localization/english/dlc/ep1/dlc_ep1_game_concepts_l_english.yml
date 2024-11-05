@@ -84,3 +84,4 @@
  game_concept_repair_artifact_desc_DLC:0 "\n\nあるいは、宝物を[reforge|E]するという選択肢もあります。"
  game_concept_court_grandeur_expectation:0 "宮廷の威光の期待値"
  game_concept_aptitude_desc: "[character|E]の$game_concept_aptitude$は、[court|E]における様々な役割の効率性を決定します。このような役割には[court_positions|E]、[diarchs|E]、[tax_collectors|E]が含まれます。\n\n$game_concept_aptitude$は悲惨から傑出までの5段階で測定され、その$game_concept_aptitude$値に応じてそのキャラクターを[court|E]の役割に採用した場合に[liege|E]が得る恩恵が決まります。\n\n例えば[GetTrait('lifestyle_physician').GetName( GetNullCharacter )]であるキャラクターは、当然ながら$court_physician_court_position$としての役割を果たすのに適した能力を持つことになるでしょう。"
+ game_concept_court_position_i: "@court_position_icon!"
