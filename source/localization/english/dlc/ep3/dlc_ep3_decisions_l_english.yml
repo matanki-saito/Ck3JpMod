@@ -280,7 +280,7 @@
  treasure_map_contract_decision: "宝の発掘"
  treasure_map_contract_decision_desc: "退役冒険者の最後の願いと共にある宝の地図。\n\n#EMP 「私は年を取り、体が衰えてきた。  \nこの手に入れがたい宝を見つけ、私のもとに持ち帰ってくれ。  \n私の時間はもう長くない」#!"
  treasure_map_contract_decision_tooltip: "宝の地図を開く"
- treasure_map_contract_decision_effect_tooltip: "[task_contract.MakeScope.Var('contract_treasure_location').GetProvince.GetBaronyNameExplicitly]、[task_contract.MakeScope.Var('contract_treasure_location').GetProvince.GetCounty.GetTitle.GetBaseNameNoTier]の[county|E]に向けた[travel|E]を開始します。"
+ treasure_map_contract_decision_effect_tooltip: "[task_contract.MakeScope.Var('contract_treasure_location').GetProvince.GetCounty.GetTitle.GetBaseNameNoTier]の[county|E]にある、[task_contract.MakeScope.Var('contract_treasure_location').GetProvince.GetBaronyNameExplicitly]に向かう[travel|E]を開始します。"
  TREASURE_MAP_CONTRACT_DECISION_NEXT_STEP_BUTTON: "旅を計画する"
  option_travel_with_camp: "野営地と共に旅に出る"
  travel_with_camp_tooltip: "$EFFECT_LIST_BULLET$[travel|E]はより多くの[provisions|E]を消費します  \n$EFFECT_LIST_BULLET$[camp|E]を[vassal_contract|E]の場所に移動できるようになります"

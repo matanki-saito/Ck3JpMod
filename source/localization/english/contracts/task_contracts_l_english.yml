@@ -401,7 +401,7 @@
  ep3_contract_event.0041.b: "Nothing to return for, anyway."
  treasure_map_employer_is_incapable.tt: "[task_contract_employer.GetShortUIName|U] gained the [GetTrait('incapable').GetName( GetNullCharacter )] [trait|E]"
  treasure_map_disappeared.tt: "The map is nowhere to be found!"
- ep3_contract_event.0043.t: "$treasure_map_prefix$: The One That Got Away"
+ ep3_contract_event.0043.t: "$treasure_map_prefix$：遠く探し求むる人"
  ep3_contract_event.0043.desc: "[task_contract_employer.GetTitledFirstName]が近づいてきて肩を叩く。「[ROOT.Char.Custom('GetLassLad')]よ、本当にありがとう！この最後の旅への協力に感謝する。」\n\n[task_contract_employer.GetSheHe|U]はボロボロの[0043_treasure_map.GetName]を手渡すと、表情は和らぎ微笑みかける。「大したものに見えないかもしれないが、コイツを手に入れるのに[task_contract_employer.GetFaith.DevilName]と取っ組み合いになったんだ。大切に扱ってくれよ。」\n\nその言葉の真意を汲むのにしばらくの時を置いていると、その年老いた[task_contract_employer.GetWomanMan]は笑いながら言葉を続けた。「さあ、準備はできたかい？お宝が我々を待っている！」"
  ep3_contract_event.0043.a: "さあ、行こう！"
  ep3_contract_event.0043.a.tt: "[GetDecisionWithKey('treasure_map_contract_decision').GetName]の[decision|E]を開く"

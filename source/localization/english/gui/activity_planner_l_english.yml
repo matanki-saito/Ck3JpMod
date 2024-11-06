@@ -29,7 +29,7 @@
  ACTIVITY_ALL_GUESTS_BUTTON_TEXT:3 "客人の管理（[ActivityPlanner.GetNumInvitedCharacters]）"
  ACTIVITY_PLANNER_SUMMARY:0 "概要"
  ACTIVITY_SUMMARY_COOLDOWN_HEADER:0 "クールダウン"
- ACTIVITY_COOLDOWN:2 "@alert_icon! #alert_trial Cannot host another [ActivityType.GetNameNoTooltip] for [GetTimeDifferenceWithDays( ActivityType.CalcCooldownDays( GetPlayer ) )]#!"
+ ACTIVITY_COOLDOWN:2 "@alert_icon!#alert_trial [GetTimeDifferenceWithDays( ActivityType.CalcCooldownDays( GetPlayer ) )]間、[ActivityType.GetNameNoTooltip]を行えない#!"
  activity_filter_capital:0 "[realm_capital|E]"
  activity_filter_domain:1 "[domain|E]"
  activity_filter_realm:0 "[realm|E]"
