@@ -120,4 +120,4 @@
  EVENT_WINDOW_OPTION_AVAILABLE_HAVE_KENNELPERSON: "[GetCourtPositionType('kennelperson_camp_officer').GetName()]の[officer|E]がいるため、選択可能です"
  EVENT_WINDOW_OPTION_AVAILABLE_HAVE_CHIEF_ENGINEER: "[GetCourtPositionType('chief_engineer_camp_officer').GetName()]の[officer|E]がいるため、選択可能です"
  EVENT_WINDOW_OPTION_AVAILABLE_PERSON_HAGGLER: "[GetCourtPositionType('person_haggler_camp_officer').GetName()]の[officer|E]をアンロックしているため、この選択肢を選ぶことが出来ます"
- EVENT_WINDOW_OPTION_AVAILABLE_CHURCH_HOLDING_BREWERY: "This option is available due to having a [barony|E] with a #color_white $building_type_breweries_01$#! [building|E]"
+ EVENT_WINDOW_OPTION_AVAILABLE_CHURCH_HOLDING_BREWERY: "このオプションは、#color_white $building_type_breweries_01$#![building|E]のある[barony|E]を所有しているために利用可能です"

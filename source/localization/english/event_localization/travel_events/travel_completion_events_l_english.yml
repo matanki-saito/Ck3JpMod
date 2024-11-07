@@ -18,5 +18,5 @@
  finally_there_perk_title_message: "[GetPerk('finally_there_perk').GetName( GetNullCharacter )]"
  souvenirs_aplenty_perk_title_message: "[GetPerk('souvenirs_aplenty_perk').GetName( GetNullCharacter )]"
  no_stone_unturned_perk_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]"
- no_stone_unturned_perk_cooldown_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]: No Effect"
- no_stone_unturned_perk_cooldown_message: "County is still affected by your last visit."
+ no_stone_unturned_perk_cooldown_title_message: "[GetPerk('no_stone_unturned_perk').GetName( GetNullCharacter )]：影響なし"
+ no_stone_unturned_perk_cooldown_message: "伯爵領は、前回の訪問の影響をまだ受けている。"

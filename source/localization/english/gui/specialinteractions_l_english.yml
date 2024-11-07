@@ -564,5 +564,5 @@
  SCHEME_TARGET_LEARNING: "[target.GetShortUINamePossessive|U]の[learning|E]：$VALUE|+=0$"
  STATE_FAITH_CREATE_FAITH_REASON: "[realm|E]で多くの影響力を有している：$VALUE|=+0$"
  HAS_PERK_PROPHET_REASON: "[GetPerk('prophet_perk').GetName(GetPlayer)][perk|E]を所持している：$VALUE|=+0$"
- SURVEYOR_PERK_REALM_ACCEPTANCE:0 "You have [GetPerk( 'know_your_land_know_your_people_perk' ).GetName( GetPlayer )]: $VALUE|=+0$"
- INSPECTION_REASON: "[inspection|E] Bonus: $VALUE|=+0$"
+ SURVEYOR_PERK_REALM_ACCEPTANCE:0 "あなたは[GetPerk( 'know_your_land_know_your_people_perk' ).GetName( GetPlayer )]を所持している：$VALUE|=+0$"
+ INSPECTION_REASON: "[inspection|E]ボーナス：$VALUE|=+0$"
