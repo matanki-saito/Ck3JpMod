@@ -134,7 +134,7 @@
  MV_KNIGHTS_AND_ACCOLADES:0 "$knight_culture_player_plural$と[accolades|E]"
  KV_HEADER_ACCOLADES:0 "$knight_culture_player_plural_no_tooltip$と勲等"
  ADVENTURER_CAP_HINT: "上限を引き上げるために[camp|E]をアップグレード"
- ADVENTURER_MAINTENANCE_INFO: "[adventurers|E]は#V $refill_maa_interaction$#!や#V $reinforce_soldiers_interaction$#!の利用、もしくは[war|E]中の[adventurer_siege_replenishment|E]によってのみ、[men_at_arms|E]の兵力を回復できます"
+ ADVENTURER_MAINTENANCE_INFO: "[adventurers|E]が[men_at_arms|E]の兵力を回復する方法は、#V $refill_maa_interaction$#!や#V $reinforce_soldiers_interaction$#!の利用、もしくは[war|E]中の[adventurer_siege_replenishment|E]に限られます"
  TT_IMPERIAL_ARMIES:0 "#T [Title.GetNameNoTierNoTooltip]軍#!\n#I クリックして詳細を表示#!"
  TT_MERCENARIES_HIREABLE_RULER:0 "#T [Character.GetShortUINameNoTooltip]#!\n#I クリックで詳細を表示#!"
  BD_UNCONTROLLED_MAA_MAINTENANCE:0 "転属された[men_at_arms|E]"

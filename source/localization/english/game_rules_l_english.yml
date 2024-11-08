@@ -770,7 +770,7 @@
  setting_historicity_frankokratia_fourth_crusade_desc: "From earlier start dates, at least 3 Catholic [crusades|E] must happen before the Splintered Crusade. From 1178, Catholics may attack Byzantium only #EMP after#! 1 [crusade|E]."
  setting_historicity_frankokratia_high: "高い"
  setting_historicity_frankokratia_high_desc: "Any Catholic [crusade|E] can become a Splintered Crusade, breaking apart to launch a war against Byzantium."
- rule_ai_laamp_numbers: "[adventurer_i] Max Amount of Landless [adventurers|E]"
+ rule_ai_laamp_numbers: "[adventurer_i] 土地無しの[adventurers|E]の最大数"
  ai_laamp_numbers_desc: "The game will rarely spawn more than"
  ai_laamp_numbers_warning: "Historical adventurers and special event adventurers might still occur in addition to this."
  setting_ai_laamp_numbers_200: "200"
