@@ -2273,7 +2273,7 @@
  game_concept_prestige_experience_i: "$game_concept_prestige_i$"
  game_concept_stress_loss: "ストレスの減少"
  game_concept_terrains: "地形"
- game_concept_wanderer_lifestyle: "放浪者ライフスタイル"
+ game_concept_wanderer_lifestyle: "放浪ライフスタイル"
  game_concept_wanderer_lifestyle_desc: "$game_concept_wanderer_lifestyle$は、[points_of_interest|E]を見たいキャラクターや、[traveling|E]から追加のボーナスを得たい人々に適しています。"
  game_concept_draw_up_new_charts:0 "$draw_up_new_charts_decision$"
  game_concept_draw_up_new_charts_decision:0 "$draw_up_new_charts_decision$決断"

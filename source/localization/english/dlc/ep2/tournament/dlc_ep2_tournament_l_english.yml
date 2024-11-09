@@ -237,7 +237,7 @@
  tournament_contest_most_favoured_skill_tooltip:1 "この[contest|E]で大幅に増加します"
  tournament_participation_participate_tt:1 "#T [contest|E]への参加意志を表明します#!\n参加者として[trait_level_track_xp|E]を獲得し、うまくいくと[prize|E]を獲得することができます"
  tournament_participation_spectate_tt:1 "#T この[contest|E]を観戦する#!\n観戦しても何も得ることはできませんが、リスクもありません"
- race_track_hippodrome:0 "ヒポドゥロウム"
+ race_track_hippodrome:0 "ヒッポドローム"
  race_track_maydan:0 "メイダン"
  race_track_track:0 "トラック"
  contest_horse_race_name:0 "[ROOT.Char.Custom('ContestHorseRaceName')]"
