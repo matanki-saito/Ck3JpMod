@@ -1,10 +1,10 @@
 ﻿l_english:
- destination_events.10.t: "Experienced Wanderer"
+ destination_events.10.t: "経験豊富な放浪者"
  destination_events.10.desc: "\"My liege,\" My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('provider_character'))], [provider_character.GetFirstName], begins as [provider_character.GetSheHe] comes into my study. \"I have recently had some dealings with a caravan master that might be of interest to your travels. [travel_leader_character.GetSheHe|U] has traveled far and wide, and has the experience we have been looking for.\"\n\nWe have had troubles finding someone to be in charge of my travels, so maybe this is a good opportunity?"
  destination_events.10.a: "Let us hire this wanderer then."
  destination_events.10.a.tt: "[travel_leader_character.GetUINamePossessive|U] [aptitude|E] is [travel_leader_character.GetCourtPositionAptitude( GetCourtPositionType( 'travel_leader_court_position' ) )]"
  destination_events.10.b: "[travel_leader_character.GetSheHe|U] does not interest me."
- destination_events.20.t: "Preparing for an Excursion"
+ destination_events.20.t: "ちょっとした旅の準備"
  destination_events.20.desc: "\"What? Extra supplies, you say?\" I respond as my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('provider_character'))], [provider_character.GetFirstName], brings up a recent discovery in one of my storage rooms.\n\n\"Indeed, it is unclear why they were missing from our ledgers. But a small blessing. Any idea what you want to do with them?\"\n\nThese extra supplies could come in handy in my next journey"
  destination_events.20.a: "With these we can have a slow and meticulous journey."
  destination_events.20.b: "Let us see if we can trade them for some horses."

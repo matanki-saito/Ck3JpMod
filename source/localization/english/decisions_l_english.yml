@@ -1175,7 +1175,7 @@
  recruit_court_position_decision: "宮廷職を募集する"
  recruit_court_position_decision_desc: "正常に機能している[ROOT.Char.Custom('RealmType')]には、より多くの人手が必要である。宮廷内の空席にふさわしい候補者を探すため、私は使用人を遠くまで派遣するつもりだ。"
  recruit_court_position_decision_tooltip: "金を払い、[court_position|E]あるいはあなたの[court|E]で必要な役割を果たす人物を探させます\n\n#weak 例えば、[GetCourtPositionType('court_physician_court_position').GetName]を雇用することができます#!"
- CHOOSE_CHARACTER_ROLE_DECISION_NEXT_STEP_BUTTON: "請願タイプを選ぶ"
+ CHOOSE_CHARACTER_ROLE_DECISION_NEXT_STEP_BUTTON: "職位を選ぶ"
  recruit_court_position_decision_confirm: "承認"
  find_wet_nurse_decision.tt: "宮廷には、$wet_nurse_court_position$を必要とする子供はいない"
  recruit_court_physician_cooldown_tt: "[GetCourtPositionType('court_physician_court_position').GetName]の採用は、[GetGameTimeDifferenceForDiffDays( THIS.VarRemaining( 'recruit_court_physician_cooldown' ))]のクールダウン中です"
