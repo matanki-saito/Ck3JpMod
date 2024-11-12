@@ -817,7 +817,7 @@
  max_learn_language_schemes_add:0 "$learn_language_schemes_add$"
  world_innovation_elephants_development_growth_factor:0 "[GetGeographicalRegion('world_innovation_elephants').GetName][region|E]での$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$"
  holy_order_government_levy_contribution_add:0 "[holy_order|E]の[vassal|E]の[levy|E]の[modifier_contribution|E]"
- farmlands_development_growth: "$MOD_MONTHLY_DEVELOPMENT_GROWTH$ in Farmlands ([terrain|E])"
+ farmlands_development_growth: "農地（[terrain|E]）での$MOD_MONTHLY_DEVELOPMENT_GROWTH$"
  MOD_MONTHLY_COUNTY_CONTROL_GROWTH_AT_WAR:0 "[war|E]中の[control|E]増加"
  MOD_MONTHLY_COUNTY_CONTROL_GROWTH_FACTOR_AT_WAR:0 "[war|E]中の[control|E]増加"
  archer_cavalry_siege_value_add:0 "[archer_cavalry|E]の[siege_progress|E]"
