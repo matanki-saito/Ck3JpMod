@@ -52,6 +52,6 @@
  intrigue_scheme_lifestyle.3302.a.tt:0 "#F 私は[target.GetHerHim]を恐喝することも、[target.GetHerHim]に命令を強要することも、#EMP 何だって#!できるでしょう！#!"
  intrigue_scheme_lifestyle.3401.t:0 "入り口"
  intrigue_scheme_lifestyle.3401.desc:1 "[target.GetTitledFirstNamePossessive]の[target.Custom2('RelationToMe', SCOPE.sC('courtier_to_fool'))]である[courtier_to_fool.GetTitledFirstName]は[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('courtier_to_fool'))]な[courtier_to_fool.GetWomanMan]だ。気づいたときには[courtier_to_fool.GetHerHis]が一緒にいたので私は最初は慎重に対応していた。しかしながらすぐに、最初に思ったほど[courtier_to_fool.GetSheHe]は私と一緒にいることを避けていないと気づいた…"
- intrigue_scheme_lifestyle.3401.a:0 "お願い、友達だろ。君のことを教えておくれ！"
+ intrigue_scheme_lifestyle.3401.a:0 "頼む、わが友よ。汝について我に教えよ！"
  intrigue_scheme_lifestyle.3401.a.tt:0 "#F 私は羊の皮を被ったオオカミだ。獲物に近づいていくぞ…！#!"
  intrigue_scheme_lifestyle.3401.b:1 "これは私と[target.GetFirstNameNoTooltip]の問題だ。"
