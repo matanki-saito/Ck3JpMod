@@ -203,7 +203,7 @@
  landless_local_arbitration_explorers_modifier: "$local_arbitration_perk_adventurer_name$ #weak (Explorers)#!"
  landless_local_arbitration_brigands_modifier: "$local_arbitration_perk_adventurer_name$ #weak (Freebooters)#!"
  landless_local_arbitration_legitimists_modifier: "$local_arbitration_perk_adventurer_name$ #weak (Legitimists)#!"
- choose_master_terrain_decision: "Master Terrain"
+ choose_master_terrain_decision: "熟知した土地"
  choose_master_terrain_decision_tooltip: "Choose a [terrain|E] to master, where you will gain powerful boons for [provisions|E], [armies|E], and in [battles|E]."
  choose_master_terrain_decision_desc: "Where does my passion lie? Is it deep in the forest, among the towering cloudy mountain peaks, or on the open plains under an azure sky?\n\n@alert_icon!#color_yellow #emp This is a permanent choice#!#!"
  choose_master_terrain_decision_confirm: "Confirm Terrain"

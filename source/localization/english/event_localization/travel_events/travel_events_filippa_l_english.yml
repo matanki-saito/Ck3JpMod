@@ -38,7 +38,7 @@
  travel_events.2001.d_scare_beast:0 "あなたは獣を追い払う"
  travel_events.2001.d_beast_hit:0 "獣は逆襲してくるが逃げ出す"
  travel_events.2001.e:0 "なんと野蛮な…#EMP アヒル#!を追いかけるだと？"
- travel_events.2002.t:0 "踏みならされた道"
+ travel_events.2002.t:0 "踏み荒らすべからず"
  travel_events.2002.desc:0 "[ROOT.Char.GetCurrentLocation.GetName]のすぐ近くで、行列が止まった。ふと見ると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guide_leader'))][guide_leader.GetFirstName]が馬から降り、地面にある何かをじっと見つめている。他の側近たちも、[guide_leader.GetHerHim]の周りに集まっている。\n\n[guide_leader.GetFirstNameNoTooltip]は私が近づくと顔を上げる。「我が[ROOT.Char.GetLadyLord]、ここに蟻の道があります。私は少し迷信深いかもしれませんが、蟻の道は決して越えてはなりません。」\n\n[guide_leader.GetSheHe|U]は続ける。「私の偉大な曾祖[great_grand_parent.Custom('MotherFather')]はそれをしたのです、そして[great_grand_parent.GetSheHe]は故郷に帰ることはありませんでした。」"
  travel_events.2002.a:0 "#EMP 素晴らしい#!。別の道が見つかるだろう。"
  travel_events.2002.b:1 "馬鹿馬鹿しい。私がガイドを引き継ぐぞ！"

@@ -391,7 +391,7 @@
  fp1_yearly.0661.a:0 "なんと珍しい！やってみよう。"
  fp1_yearly.0661.a.tt_success:0 "僅差ではあるがあなたが勝つ！"
  fp1_yearly.0661.a.tt_failure:0 "[knight.GetFirstNameNoTooltip]は勝利に向けて滑る"
- fp1_yearly.0661.b:0 "うむむ、ちょっとした#EMP エッジ#!が使えるかもしれないな…"
+ fp1_yearly.0661.b:0 "うむむ、ちょっとした#EMP 小技#!が使えるかもしれないな…"
  fp1_yearly.0661.b.tt_success:0 "あなたは#EMP 楽に#!勝利を収める"
  fp1_yearly.0661.b.tt_failure:0 "あなたが[knight.GetFirstNamePossessiveNoTooltip]のスキーに損傷を与えているのが発見される"
  fp1_yearly.0661.c:0 "スキーで#EMP 競争#!だと？狩りもせずに？つまらなそうだな。"

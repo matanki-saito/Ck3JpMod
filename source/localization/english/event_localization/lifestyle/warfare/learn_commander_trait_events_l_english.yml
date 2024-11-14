@@ -33,7 +33,7 @@
  learn_commander_trait.11.b.tt:0 "#F またの機会に。#!"
  learn_commander_trait.12.desc:0 "[teacher.GetTitledFirstName]は[ROOT.Char.Custom('CommanderTraitSkillDescription')]の詳細を示してくれた。最後の試練は学んだことを示すための[teacher.GetHerHim]との模擬戦だ。"
  learn_commander_trait.12.a:0 "兵卒たちに準備させろ！"
- learn_commander_trait.12.b:0 "いや、私はまだ[teacher.GetFirstNameNoTooltip]の教えを完全に理解できていない。"
+ learn_commander_trait.12.b:0 "いや、[teacher.GetFirstNameNoTooltip]の教えを飲み込めていない。"
  learn_commander_trait.giving_up_tt:0 "#F これを学ぶ必要はありません#!"
  learn_commander_trait_final_test_success:0 "勝利！"
  learn_commander_trait_final_test_success_tt:0 "#F 私は学んだことを証明する#!"
