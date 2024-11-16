@@ -59,7 +59,7 @@
  adventurer_positions_of_power1_perk: "[adventurer_i] [friend|E]と一緒の[officers|E]の[aptitude|E]: #P +5#!"
  adventurer_positions_of_power2_perk: "[adventurer_i] [lover|E]と一緒の[officers|E]の[aptitude|E]: #P +5#!"
  adventurer_positions_of_power3_perk: "[adventurer_i] [married|E]している[officers|E]の[aptitude|E]: #P +10#!"
- adventurer_soon_forgiven_perk_effect: "[adventurer_i] [officer|E] の[aptitude|E]: #P +10#!"
+ adventurer_soon_forgiven_perk_effect: "[adventurer_i][officer|E]の[aptitude|E]: #P +10#!"
  activity_invite_rule_landless_adventurers: "冒険者"
  activity_invite_rule_landless_adventurers_restricted_range: "近くの冒険者"
  activity_invite_rule_landless_adventurers_restricted_range_opinion: "近くの友好的な冒険者"

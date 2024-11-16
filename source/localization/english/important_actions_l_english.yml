@@ -801,7 +801,7 @@
  action_can_make_request_interaction_unimportant: "@alert_icon! #alert_trial 要求を送るためには[recipient.GetShortUIName][capital|E]の近くに[camp|E]に移動する必要があります#!"
  action_can_make_request_interaction_combined_unimportant: "@alert_icon!#alert_trial 要求を送るためには[contact_list_contacts|E]の[capital|E]の近くに[camp|E]を移動する必要があります"
  action_can_press_faction_demands_contract: "依頼を完了するために、派閥の要求を強請する"
- action_can_press_faction_demands_contract_label: "[faction.GetNameNoTooltip]の要求の強請"
+ action_can_press_faction_demands_contract_label: "要求の強請：[faction.GetNameNoTooltip]"
  action_can_press_faction_demands_contract_desc: "[task_contract.GetEmployer.GetName]からの[GetTaskContractType('laamp_join_faction_contract').GetName][task_contract|E]を完了すべく、[task_contract.GetTarget.GetName]に対する[faction.GetName]の要求を強請する"
  action_can_press_faction_demands_contract_click: "$action_can_send_faction_demand_click$"
  action_can_press_faction_demands_contract_combined_group_name: "$action_can_press_faction_demands_contract$"

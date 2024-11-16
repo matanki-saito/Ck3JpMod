@@ -4,7 +4,7 @@
  CHANCE_OF_CHILDREN:0 "妊娠する可能性: $VALUE|V$"
  CHILDRENS_HOUSE:1 "この結婚の子供は[CHARACTER.GetHouse.GetBaseName][house|E]に生まれます"
  CHILDREN_NO_HOUSE:1 "#warning @warning_icon!この結婚の子供は[house|E]格を持たず平民として生を受けます#!"
- CONCUBINE_CHILDREN_HOUSE:1 "このパートナーシップの子供たちは[MatchOffer.GetSecondaryActor.GetHouse.GetBaseName][house|E] に生まれます"
+ CONCUBINE_CHILDREN_HOUSE:1 "この関係の間から生まれる子供たちは[MatchOffer.GetSecondaryActor.GetHouse.GetBaseName][house|E]に属します"
  MARRIAGE_INFO:0 "[MarriageInfo.GetMarriageOrBetrothal]"
  MARRIAGE_CHILDREN_CHANCE_INFO:1 "[MatchOffer.GetChanceOfChildrenDesc]"
  MARRIAGE_CHILDREN_HOUSE_INFO:1 "[MatchOffer.GetChildrensHouse]"

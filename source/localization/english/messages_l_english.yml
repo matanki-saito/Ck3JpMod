@@ -483,7 +483,7 @@
  msg_raid_completed_title: "[RIGHT_TITLE.GetNameNoTierNoTooltip]の略奪"
  msg_raid_completed_desc: "[RIGHT_TITLE.GetName] （[RIGHT_TITLE.GetHolder.GetShortUIName]）を[raided|E]した"
  msg_raid_lost_title: "[RIGHT_TITLE.GetNameNoTierNoTooltip]が略奪された"
- msg_raid_lost_desc: "[LEFT_CHARACTER.GetUIName]は[RIGHT_TITLE.GetName] （[RIGHT_TITLE.GetHolder.GetShortUIName]）を[raided|E]した"
+ msg_raid_lost_desc: "[LEFT_CHARACTER.GetUIName]は[RIGHT_TITLE.GetHolder.GetShortUIName]が治める[RIGHT_TITLE.GetName]領を[raided|E]した"
  msg_known_pregnancy: "[LEFT_CHARACTER.GetTitledFirstNameNoTooltip]の懐妊"
  msg_government_changed: "政体の変更"
  msg_poem_sold_title: "ムワッシャ詩を売却"
