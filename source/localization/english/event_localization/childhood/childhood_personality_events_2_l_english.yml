@@ -155,7 +155,7 @@
  child_personality.arrogant.desc:0 "「[child.GetSheHe|U]は#EMP ただの一人#!にも、コインの1枚すら与えようとしません。」[teacher.GetFirstNameNoTooltip]は声を荒げた。「出会う人々を『相応しくない』だの『下賤』だのと…結局[child.GetSheHe]はゴールドをすべて持って帰ってしまいました。」\n\n[child.GetFirstNameNoTooltip]には傲慢な性格が芽生えつつあるようだ…"
  child_personality.7081.generous:0 "出来るだけ多くを与えるのが我らの務めだ！"
  child_personality.7081.fickle:0 "選ぶ必要があるか？#EMP 何もかも#!出来るというのに"
- child_personality.7081.arrogant:0 "それでいいのだ。お前とあいつらとでは#EMP 格が違う#!"
+ child_personality.7081.arrogant:0 "正当だ、[child.Custom('GirlBoy')]。#EMP 格が違う#!立場なのだから。"
  child_personality.7081.change.generous:0 "駄目だ、貧しい人には#EMP 施しを与えるべき#!なのだ！"
  child_personality.7081.change.fickle:0 "常に自分の選択をよく考えなさい。慎重に。何度でも。"
  child_personality.7081.change.arrogant:0 "馬鹿な！あの貧乏な厄介者どもは皆お前より下賤だ！"

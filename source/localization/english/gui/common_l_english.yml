@@ -93,7 +93,7 @@
  CULTURE_COOLTIP_WINDOW:0 "[Culture.GetName]"
  CULTURE_COOLTIP_GETNAME:1 "[Culture.GetNameNoTooltip]"
  TITUS_FILTER_SAME_VERSION:0 "同じチェックサム#weak ([GetMPChecksum])#!"
- MODIFIED_CHECKSUM:1 "[Select_CString( HasDifferentChecksumThanCompiled, '#X (Modified)#!', '' )]"
+ MODIFIED_CHECKSUM:1 "[Select_CString( HasDifferentChecksumThanCompiled, '#X (MOD導入済)#!', '' )]"
  SORT_BY:0 "並べ替え:"
  CHARACTER_TOOLTIP_INSTRUCTION_COURT_SCENE:0 "#I クリックで表示\n右クリックで対話#!"
  CHARACTER_COURT_POSITIONS_TOOLTIP:0 "[Character.GetLiege.GetShortUINamePossessive|U]の[Character.GetHeldCourtAndCouncilPositionsString]"
