@@ -46,7 +46,7 @@
  BattlePoiDescriptionLocOutcomeChaosFled: "そして、敵軍に大きな損害を与えた。"
  BattlePoiDescriptionLocOutcomeLoss: "敵軍の士気を完全に崩壊させた。"
  BattlePoiDescriptionLocOutcomeLossFled: "そして、敵の士気を打ち砕いた。"
- BattlePoiDescriptionLocOutroImprisoned: "かくして、そして$BattlePoiEnemyCommander$を捕らえた。"
+ BattlePoiDescriptionLocOutroImprisoned: "かくして、$BattlePoiEnemyCommander$は囚われたのだ。"
  BattlePoiDescriptionLocOutroSlain: "それ$BattlePoiEnemyCommander$を打ち取っ。"
  BattlePoiDescriptionLocOutroFledChaos: "Amidst the chaos $BattlePoiEnemyCommander$ managed to flee together with $BattlePoiCommanderHisHer$ closest retainers."
  BattlePoiDescriptionLocOutroFledOrganized: "Despite significant losses $BattlePoiEnemyCommander$ managed to organize a strategic retreat."

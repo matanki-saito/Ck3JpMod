@@ -312,7 +312,7 @@
  ACHIEVEMENT_DESC_ep3_15_in_good_estate_achievement: "あなたの荘園の邸宅をレベル5まで強化した上で全てのスロットを埋める"
  NOT_ACHIEVEMENT_DESC_ep3_15_in_good_estate_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
  ACHIEVEMENT_ep3_16_i_got_a_permit_achievement: "問題ない、許可は得たから。"
- ACHIEVEMENT_DESC_ep3_16_i_got_a_permit_achievement: "有力な一門では無い状態で許可証を買い、有力な一門の荘園の略奪に成功する"
+ ACHIEVEMENT_DESC_ep3_16_i_got_a_permit_achievement: "有力な一門ではない状態で許可証を買い、有力な一門の荘園の略奪に成功する"
  NOT_ACHIEVEMENT_DESC_ep3_16_i_got_a_permit_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
  ACHIEVEMENT_ep3_17_despotic_achievement: "専制的"
  ACHIEVEMENT_DESC_ep3_17_despotic_achievement: "共同皇帝として専制公領を統治する"
