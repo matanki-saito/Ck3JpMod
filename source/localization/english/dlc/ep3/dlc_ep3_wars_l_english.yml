@@ -78,7 +78,7 @@
  ep3_laamp_apprehend_adventurer_cb_defeat_desc: "[defender.GetShortUIName|U]は[attacker.GetShortUIName]を投獄し、全ての財産を没収して[camp|E]を解体します。"
  CLAIMED_TITLES_DESC: "[claimed|E][titles|E]"
  CLAIMED_DE_JURE_TITLES_DESC: "[claimed|E][de_jure|E][titles|E]"
- GREEK_ANARCHY_WAR_NAME: "[ATTACKER.GetPrimaryTitle.GetAdjective]が帝国[TITLE.GetBaseName]を没収します"
+ GREEK_ANARCHY_WAR_NAME: "[ATTACKER.GetPrimaryTitle.GetAdjective]による帝国領[TITLE.GetBaseName]の占領"
  GREEK_ANARCHY_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  GREEK_ANARCHY_CB_NAME: "帝国公爵領占領"
  ep3_laamp_peasant_war: "農民蜂起"
