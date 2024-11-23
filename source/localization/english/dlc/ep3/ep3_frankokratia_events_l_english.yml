@@ -240,7 +240,7 @@
  ep3_frankokratia_events.0100.cath: "我々の十字軍は騙されて危険な思い上がりに陥ってしまったのだろうか？ギリシア人の威厳が#EMP 我々を盲目にした#!のだろうか？教皇聖下でさえ、ギリシア人と比較して我々を高く評価したというのに…"
  ep3_frankokratia_events.0100.emp: "コンスタンティヌスの真なる後継者は、むしろ[byz_emp.GetTitledFirstNameRegnal]である…[byz_emp.GetSheHe]ならば、この痛ましき時代に終止符を打ち、ボスポラスの強大なる防波堤を再建できるかもしれない。"
  ep3_frankokratia_events.0100.a_non_catholic: "それは[ROOT.Char.GetFaith.NegativeAfterLife]からやって来た。再び[ROOT.Char.GetFaith.NegativeAfterLife]に帰る時が来たのだ。"
- ep3_frankokratia_events.0100.a_catholic: "我々は自惚れ、地上における[ROOT.Char.GetFaith.HighGodName]の栄光を得ることを夢見ていた…"
+ ep3_frankokratia_events.0100.a_catholic: "我々は自惚れ、地上における[ROOT.Char.GetFaith.HighGodName]の栄光を夢見ていた…"
  custom.greek_anarchy_rulers: "[GetTitleByKey('e_latin_empire').GetAdjective]または[GetTitleByKey('e_byzantium').GetAdjective]の領土に存在するすべての[ruler|E]"
  gain_greek_anarchy_cb_tt: "#high 帝国公爵領占領#!の[casus_belli|E]を得ます"
  greek_anarchy_cb: "帝国公爵領占領"

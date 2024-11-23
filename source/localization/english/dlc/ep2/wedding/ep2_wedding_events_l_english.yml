@@ -411,7 +411,7 @@
  wedding_alliance_log:0 "[CHARACTER.GetUIName|U]は強力な結婚の繋がりを示すことで[TARGET_CHARACTER.GetUIName]との同盟を獲得した。"
  wedding_alliance_log_title:0 "新たな同盟"
  ep2_wedding.1210.t:0 "政治的な話題"
- ep2_wedding.1210.desc:0 "式典が順調に進む中、私はようやく [talk_to.GetTitledFirstName]の側に移動することができ、[talk_to.GetHerHim]との世間話に加わることができた。やがて話は急速に、より興味深い分野、つまり政治の話へと移っていく。\n\n私が[talk_to.GetHerHim]を私の望む場所に正確に導くまで、我々は何気ない会話を交わした。"
+ ep2_wedding.1210.desc:0 "式典が順調に進む中、私はようやく[talk_to.GetTitledFirstName]の側に移動することができ、[talk_to.GetHerHim]との世間話に加わることができた。やがて話は急速に、より興味深い分野、つまり政治の話へと移っていく。\n\n私が[talk_to.GetHerHim]を私の望む場所に正確に導くまで、我々は何気ない会話を交わした。"
  ep2_wedding.1210.desc_gold:0 "\n\n「認めたくはないが、私の金庫は空っぽなのだ！」"
  ep2_wedding.1210.desc_fear:0 "\n\n「私は自分の[talk_to.GetPrimaryTitle.GetTierAsNameNoTooltip]、そして自身に常に恐怖を感じながら生きている…」"
  ep2_wedding.1210.desc_raids:0 "\n\n「最近私の土地に襲撃があり、大変懸念しているのだ…」"

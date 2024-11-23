@@ -785,7 +785,7 @@
  ep3_interactions_events.0601.desc_scorn: "知ったことではない。"
  ep3_interactions_events.0601.desc_ally: "そこで、そなたの支援を第一歩として、我らは長く実りある協力関係を築こうと思う。そなたも相互の支援を望むのではないかね？"
  ep3_interactions_events.0601.desc_insult: "もしかすると、私の躍進はどこぞの無教養な田舎者か、愚かな子供が仕組んだものなのだろうか？そういえば、私の名を呼ぶ[supporter.Custom('InsultAdjective')]声が聞こえた気もするが…"
- ep3_interactions_events.0601.desc_hook: "私はあなたに大きな借りがあり、あなたの忠実なる[new_landed_admin.GetWomanMan]として勤勉に仕えるつもりだ。"
+ ep3_interactions_events.0601.desc_hook: "私はあなたに大きな借りがあり、推挙されし[new_landed_admin.GetWomanMan]として勤勉に職務を全うするつもりだ。"
  ep3_interactions_events.0601.desc_friendship: "この[new_landed_admin.GetPrimaryTitle.GetTierAsNameNoTooltip]での地位を築くに当たって、あなたに私の友情という価値ある贈り物を差し上げたい。"
  ep3_interactions_events.0601.desc_gift: "この贈り物が何らかの形であなたへの恩返しになりますように。そして[new_landed_admin.GetFaith.WealthGodName]があなたを見守ってくださいますように。"
  ep3_interactions_events.0601.desc_ignore: "私はこの地位を得るために#EMP 懸命に#!努力し、汗を流して自ら栄光を勝ち取ったのだ。そうではないというのは私に対する侮辱である。"
