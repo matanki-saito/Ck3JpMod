@@ -32,7 +32,7 @@
  travel_events_oltner_2.1030.d: "We carry enough burdens as it is..."
  traveling_with_camel_merchants_modifier: "Traveling with Camel Merchants"
  traveling_with_camel_merchants_modifier_desc: "This entourage has joined a group of desert merchants, making the journey safer."
- artifact_purchased: "Purchased Artifact"
+ artifact_purchased: "購入した宝物"
  purchase_artifact_trinket_tt: "You gain a random Trinket [artifact|E]"
  purchase_artifact_famed_tt: "You gain a random Famed [artifact|E]"
  travel_events_oltner_2.1040.t: "Oasis of Tranquility"

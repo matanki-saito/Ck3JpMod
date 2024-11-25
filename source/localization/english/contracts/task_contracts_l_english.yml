@@ -162,7 +162,7 @@
  ep3_contract_event.0001.invalidate: "気が変わった、この依頼は受けられん。"
  ep3_contract_event.0001.tt_vip: "[task_contract_destination.GetName]への旅に出発します。[task_contract_object.GetName]を護衛しつつ[task_contract_target.GetName]の宮廷へ送り届けます"
  ep3_contract_event.0001.tt_ward: "You will travel to [task_contract_destination.GetName] ensuring [task_contract_object.GetName] begins [task_contract_object.GetHerHis] education."
- ep3_contract_event.0001.tt_explorer: "You will travel to [task_contract_destination.GetName] alongside the explorer, [task_contract_object.GetName]"
+ ep3_contract_event.0001.tt_explorer: "探検家の[task_contract_object.GetName]と一緒に、[task_contract_destination.GetName]への旅に出ます"
  ep3_contract_event.0001.tt_gold: "You will travel to [task_contract_destination.GetName], delivering [task_contract_employer.GetNamePossessive] gift to [task_contract_target.GetName]."
  ep3_contract_event.0001.tt_animal: "You will travel to [task_contract_target.GetName] escorting [task_contract_employer.Custom('CatOrDogStoryName')]"
  ep3_contract_event.0001.tt_artifact: "You will travel to [task_contract_destination.GetName] and gift [task_contract_employer.GetNamePossessive] [escorted_artifact.GetNameNoTooltip] to [task_contract_target.GetName]"
