@@ -228,7 +228,7 @@
  travel_events_bp3.110.a: "大丈夫か？"
  travel_events_bp3.110.a.flavor: "[friend_character.GetHerHis]の悩みを聴けば私も気持ちが楽かもしれない。"
  travel_events_bp3.110.b: "何を経験せざるを得なかったことの数々、あなたは信じないだろう...。"
- travel_events_bp3.110.b.flavor: "This is about me, and my troubles, not about [friend_character.GetFirstName]."
+ travel_events_bp3.110.b.flavor: "これは我が事、我が難事。決して[friend_character.GetFirstName]には触れさせぬ。"
  travel_events_bp3.115.t: "夜半ば、焚火にて"
  travel_events_bp3.115.desc.intro: "夜が更けても、私は笑い、話をし、酒を酌み交わす。"
  travel_events_bp3.115.desc.3_characters: "[character_number_1.GetFirstName]、[character_number_2.GetFirstName]、そして[character_number_3.GetFirstName]がいる。"

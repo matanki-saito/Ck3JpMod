@@ -293,7 +293,7 @@
  legend_spread_events.5250.c: "「私と他の誰かを混同しているな」"
  legend_spread_events.5255.t: "戦争賛歌"
  legend_spread_events.5255.desc: "「戦いぶりを聞かせてください、我が[ROOT.Char.GetLadyLord]」[chronicler.GetFirstName]は恐る恐ると言った風情の震える声で私に問う。「あなたの生還劇は奇跡と言っていい。あらゆる種類の死と殺意があなたを取り巻いたというのに、最後に立つその姿には傷一つなかったと言うのですから──」\n\n面白い戦争譚を好まない人はそうはいない。私の経験を少し脚色するだけでもきっと人気となるだろう。"
- legend_spread_events.5255.a: "「いかにも、傷一つ無かったとも。[chronicler.GetFirstNameNoTooltip]よ」"
+ legend_spread_events.5255.a: "「まったく無傷とは言えないな、[chronicler.GetFirstNameNoTooltip]よ」"
  legend_spread_events.5255.b: "「この傷を見るがいい、これが何よりの証拠だ」"
  legend_spread_events.5255.c: "「全ては[ROOT.Char.GetFaith.HighGodName]の加護ありきよ」"
  legend_spread_events.5255.d: "「一点、ただ一点を勇敢に突破したのだ」"

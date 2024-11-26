@@ -2,7 +2,7 @@
  court_events.3000.t: "優雅さの頂点"
  court_events.3000.desc: "[chancellor.Custom2('MyCharacterIntroduction',ROOT.Char)|U] と [steward.Custom2('MyCharacterIntroduction',ROOT.Char)]は今日は機嫌がいいようだ。\n\n「ご参加ください殿下！」[chancellor.GetFirstNameNoTooltip]は声を上げる。「ちょうどあなたの関心事について話していたところです。あなたの[ROOT.Char.GetCulture.GetNameNoTooltip]服装を優美さの真の頂点として普及し続ける投資は実を結んでいます！」\n\n「外国の君主たちはあなたを称賛し妬んでいますが[steward.GetFirstNameNoTooltip]と私はこの評判を生かす最善の方法について合意を見つけることが出来ません。」"
  court_events.3000.a: "私が服装の最先端にいると、誰もが知っているはずだ。"
- court_events.3000.b: "[ROOT.Char.GetCulture.GetNameNoTooltip] の服装は全ての服装の規範となるべきだ。"
+ court_events.3000.b: "[ROOT.Char.GetCulture.GetNameNoTooltip]の服装は全ての服装の規範となるべきだ。"
  court_events.3000.c: "誰もが我らの帽子を買うべきだ！"
  court_events.3010.t: "いつものスープ"
  court_events.3010.desc: "「お願いでございます、我が[ROOT.Char.Custom2('RelationToMeAddress', SCOPE.sC('courtier'))]」[courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が懇願するような目をしながら近づいてくる。\n\n「宮廷で出される料理について、なにか対策を講ずる必要がございます！　我らはみな農民と変わらぬ食事をし、異国の使節は食卓で顔をしかめております。近隣の諸侯や芸術家などは、我々の伝統的な料理を、下品な趣向や野蛮な風習のたとえとして用いておるのです！」"
