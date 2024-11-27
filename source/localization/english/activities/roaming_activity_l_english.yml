@@ -1,6 +1,6 @@
 ﻿l_english:
  activity_roaming: "遠足"
- activity_roaming_desc: "ひとりで領内の秘境を探検する旅に出ましょう。この冒険は宮廷生活の重圧から解放されるひとときを提供し、古くから続く森や穏やかな丘の中で休息する機会を与えてくれます"
+ activity_roaming_desc: "ひとりで領内の秘境を探検する旅に出ましょう。この冒険は宮廷生活の重圧から解放されるひとときを提供し、古くから続く森や穏やかな丘の中で休息する機会を与えてくれます。"
  activity_roaming_host_desc: "$BULLET_WITH_TAB$[opinion_i|E][opinion|E]\n$BULLET_WITH_TAB$[stress_loss_i|E][stress_loss|E]\n$BULLET_WITH_TAB$[prestige_experience_i|E][prestige_experience|E]\n$BULLET_WITH_TAB$[GetTrait('lifestyle_mystic').GetName( GetNullCharacter )]の[trait|E]や[trait_level_track_xp|E]を得ることがある"
  activity_roaming_guest_desc: ""
  activity_roaming_conclusion_desc: "この旅は、統治の重責を一時的に脇に置き、その伴う重圧から解放される素晴らしい機会を提供してくれた"

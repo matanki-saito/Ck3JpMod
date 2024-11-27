@@ -1527,7 +1527,7 @@
  building_burial_site_02_desc: "大きな霊廟が建設されると、共同墓地で埋め尽くされ、その中には崇敬を集める聖人や戦士の埋葬地もあった。"
  building_burial_site_03: "大霊廟"
  building_burial_site_03_desc: "霊廟は増築され、死者の記念碑としてそびえ立っている。その内部は、死者を祀るための墓や礼拝堂で埋め尽くされている。"
- building_type_charnel_grounds_01: "納骨堂"
+ building_type_charnel_grounds_01: "散骨場"
  building_type_charnel_grounds_01_desc: "屋外の敷地は、遺体が腐敗する場所となる。ここは霊的な浄化の場であると同時に、死者が安息を得る場でもある。"
  building_charnel_grounds_01: "死体安置所"
  building_charnel_grounds_01_desc: "陽光に晒され、猛禽類についばまれ、遺体は丘の頂で腐敗していく。"
