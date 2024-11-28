@@ -440,7 +440,7 @@
  health.3200.failure.desc_3:0 "[sick_character.Custom2('MyCharacterIntroduction', ROOT.Char)]が自分の体にもたらしたダメージの大きさを十分に理解するのには時間がかかった。[sick_character.GetSheHe]はおびただしい量の血にまみれ、まだ勢いよくナイフを振り回している。私が介入する前に、[sick_character.GetSheHe]は鋭利な刃に失望したような視線を向けてから、すぐに気を失った。"
  health.3201.occult.desc_sick_physician:0 "使用人が言うには、[physician.GetTitledFirstName]はある種の黒魔術に手を染めており、[physician.GetHerHis]の苦しみはそれが原因になっているのだという。控えめに言っても、おぞましい話である。"
  health.4002.start.desc_sick_physician:0 "「私を治療する時が来た。"
- health.7000.t:0 "私自身の体に囚われた私"
+ health.7000.t:0 "自らの身体に囚われて"
  health.7000.desc:0 "年を取ると何をするにしても遅くなるのは分かっていたが、まさか死ぬまでに全てが止まってしまうとは思わなかった。最近は倦怠感が続いていて、何事にも以前より努力が必要になっていた。横になったら起き上がれなくなるのではないかという不安もあった。私に残された時間がなくなりつつあることは、もはや疑いようがない。"
  health.7000.desc_collapse:0 "無理をしていたのは分かっている——自分の体が言っていることに耳を傾けるべきだったが、無視することにした。「寝る前にこれを終わらせて、あともう少しやってから休もう」 突然、私はめまいがして、立ち上がろうとすると視界が真っ暗になった。\n\n翌日、私はベッドの中で目が覚め、体が言うことを聞かず起き上がることができなかった。おそらく[ROOT.Char.GetFaith.HighGodName]は、[ROOT.Char.GetFaith.HighGodNameAlternate]に奉仕する気持ちで敬意を持ってこの器を扱わなかったために、私を罰することに決めたのだろう。"
  health.7000.desc_closing:0 "\n\n私は何もできないような気がする。死の甘い抱擁を待つだけだ。"

@@ -235,7 +235,7 @@
  ep3_laamps.5025.c.toast: "柔軟とは何たるかを学ぶべし"
  lust_for_land_modifier_tt: "[GetModifier( 'ep3_lust_for_land_modifier' ).GetNameWithTooltip]補正値"
  ep3_laamps.5030.t: "内情と外情"
- ep3_laamps.5030.desc: "我々が道を歩いていると、建物が視界に入ってきた。外にはボロボロの看板がかかっており、「宿屋『[ROOT.Char.Custom('GetPubName')]』」と書かれている。\n\n「今夜はダメだね。今いる宿泊客で手一杯で、新しい人を受け入れる余裕なんてないよ」中で主人が首を振っていった。「それに、#EMP 特に#!お前たちのような浮浪者どもはまっぴらごめんだね」\n\n#EMP ふ、浮浪者？！#!"
+ ep3_laamps.5030.desc: "我々が道を歩いていると、建物が視界に入ってきた。外にはボロボロの看板がかかっており、「宿屋『[ROOT.Char.Custom('GetPubName')]』」と書かれている。\n\n「今夜はダメだ。今いる宿泊客で手一杯で、新しい人を受け入れる余裕なんてないよ」中で主人が首を振っていった。\n「それに、#EMP 特に#!お前たちのような浮浪者どもはまっぴらごめんだね」\n\n#EMP ふ、浮浪者？！#!"
  ep3_laamps.5030.a: "ああ、気にするな。ちょっと飲みに来ただけだ。"
  ep3_laamps.5030.a.tt: "あなたの[dynasty_prestige|E]により選択できます\n"
  ep3_laamps.5030.b: "[ROOT.Char.GetHouse.GetNameNoTooltip]家の[ROOT.Char.GetFirstNameNoTooltip]という者だが、何か？"
