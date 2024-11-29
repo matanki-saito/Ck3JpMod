@@ -1309,7 +1309,7 @@
  laamp_base_contract_schemes.0551.duel.tt.success: "You cut an impressive figure"
  laamp_base_contract_schemes.0551.duel.tt.failure: "You are drearier than you think"
  laamp_base_contract_schemes.0551.a: "[diplomacy_candidate.GetFirstNameNoTooltip] seems swayable."
- laamp_base_contract_schemes.0551.b: "I could easily impress [martial_candidate..GetFirstNameNoTooltip]."
+ laamp_base_contract_schemes.0551.b: "I could easily impress [martial_candidate.GetFirstNameNoTooltip]."
  laamp_base_contract_schemes.0551.c: "[stewardship.GetFirstNameNoTooltip] and I have much in common."
  laamp_base_contract_schemes.0551.d: "I wonder what [intrigue_candidate.GetFirstNameNoTooltip] is up to?"
  laamp_base_contract_schemes.0551.e: "[learning_candidate.GetFirstNameNoTooltip] seems interesting."

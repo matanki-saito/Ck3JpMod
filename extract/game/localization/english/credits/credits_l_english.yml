@@ -272,6 +272,8 @@
  TITLE_SENIOR_PROJECT_MANAGER:0 "#credits_subheader Senior Project Manager#!"
  TITLE_LOCALIZATION_TOOLS:0 "#credits_subheader Localization Tools#!"
  TITLE_SPANISH:0 "#credits_subheader Spanish#!"
+ TITLE_POLISH: "#credits_subheader Polish#!"
+ TITLE_POLISH_MOD: "#credits_subheader Special thanks to the Polish language mod team for their support#!"
  HEADER_BETA_TESTERS:0 "#credits_header BETA TESTERS#!"
  TITLE_TEAM:0 "#credits_subheader Team#!"
 
@@ -311,3 +313,4 @@
  HEADER_CRUSADER_KINGS_3_LEGENDS_OF_THE_DEAD: "#credits_title CRUSADER KINGS III: LEGENDS OF THE DEAD#!"
  HEADER_CRUSADER_KINGS_3_ROADS_TO_POWER: "#credits_title CRUSADER KINGS III: ROADS TO POWER#!"
  HEADER_CRUSADER_KINGS_3_WANDERING_NOBLES: "#credits_title CRUSADER KINGS III: WANDERING NOBLES#!"
+ HEADER_CRUSADER_KINGS_3_WESTERN_SLAVIC_ATTIRE: "#credits_title CRUSADER KINGS III: WESTERN SLAVIC ATTIRE#!"

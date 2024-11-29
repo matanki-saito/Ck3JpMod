@@ -395,4 +395,4 @@
  tenet_household_gods_desc: "We revere our #EMP Lares#! and the #EMP Genii#! — the protective spirits which watch over our abodes. Above all, we honor our glorious emperor, whose soul is charged with protecting all the realm."
 
  # BP3 Parameter
- doctrine_parameter_allows_brewery: "$culture_parameter_allows_brewery$ for [temple_holdings|E]"
+ doctrine_parameter_allows_brewery: "$allows_brewery$ for [temple_holdings|E]"

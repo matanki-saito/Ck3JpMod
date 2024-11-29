@@ -208,7 +208,7 @@
  cultural_festival.2110.t:0 "An Unexpected Performer"
  cultural_festival.2110.desc.intro:0 "Acrobats jump in colorful attires, one of them opens his mouth to catch a ball that another one throws and the public erupts into cheers."
  cultural_festival.2110.desc.callous:0 "So easily entertained."
- cultural_festival.2110.desc.outro:0 "\n\nThe music soon follows. I've heard this song before. Perhaps. Most of them sound too similar. Even from the dais I can hear the peasants loudly singing along.\n\n"And dance in the fields of..." #EMP "woof! Woof woof!"#! a figure decides to join in, stealing the juggling balls.\n\n#EMP "Get that dog!"#!"
+ cultural_festival.2110.desc.outro:0 "\n\nThe music soon follows. I've heard this song before. Perhaps. Most of them sound too similar. Even from the dais I can hear the peasants loudly singing along.\n\n“And dance in the fields of...” #EMP “woof! Woof woof!”#! a figure decides to join in, stealing the juggling balls.\n\n#EMP “Get that dog!”#!"
  cultural_festival.2110.a:0 "I could take it back with me..."
  cultural_festival.2110.b:0 "A perfect companion for [my_heir.GetFirstNameNoTooltip]!"
  cultural_festival.2110.c:0 "Aw... I can't resist the urge to pet it!"

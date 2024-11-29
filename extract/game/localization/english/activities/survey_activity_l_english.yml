@@ -162,8 +162,16 @@
  inspection_conclusion_success_popular_opinion_key_title: "Popular Ruler"
  inspection_conclusion_success_popular_opinion_key: "[host.GetShortUIName] has seen a rise in popularity after [host.GetSheHe] visited [province.GetName]."
 
+ inspection_retry_desc: "Last time this area was overseen by their liege, the work ended inconclusively. But the framework that was put into place for improving the county is still here.\n#weak Will be removed with a successful [inspection|E]#!"
+
  inspection_second_try_modifier: "Inconclusive Inspection"
- inspection_second_try_modifier_desc: "Last time this area was overseen by their liege, the work ended inconclusively. But the framework that was put into place for improving the county is still here.\n#weak Will be removed with a successful [inspection|E]#!\n\n[inspection_success_chance|E]: #p +10%#!"
+ inspection_second_try_modifier_desc: "$inspection_retry_desc$\n\n[inspection_success_chance|E]: #p +10%#!"
+
+ inspection_third_try_modifier: "$inspection_second_try_modifier$"
+ inspection_third_try_modifier_desc: "$inspection_retry_desc$\n\n[inspection_success_chance|E]: #p +20%#!"
+
+ inspection_fourth_try_modifier: "$inspection_second_try_modifier$"
+ inspection_fourth_try_modifier_desc: "$inspection_retry_desc$\n\n[inspection_success_chance|E]: #p +30%#!"
 
  ### Mid-Activity Events ###
  bp3_survey.0020.t: "Plans for Expansion"

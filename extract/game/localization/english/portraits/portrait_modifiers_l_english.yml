@@ -423,6 +423,30 @@
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_afr_high_nob_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_afr_high_nob_02$"
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_afr_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_afr_war_nob_01$"
 
+###########
+### POL ###
+###########
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_common_01:0 "@westslavic_icon! West Slavic Commoner Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_common_02:0 "@westslavic_icon! West Slavic Commoner Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_low_nob_01:0 "@westslavic_icon! West Slavic Low Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_low_nob_02:0 "@westslavic_icon! West Slavic Low Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_high_nob_01:0 "@westslavic_icon! West Slavic High Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_high_nob_02:0 "@westslavic_icon! West Slavic High Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_imperial_01:0 "@westslavic_icon! West Slavic Royalty Clothing"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_war_nob_01:0 "@westslavic_icon! West Slavic Armor"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_common_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_common_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_common_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_common_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_low_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_low_nob_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_low_nob_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_low_nob_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_high_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_high_nob_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_high_nob_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_high_nob_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_imperial_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_high_nob_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_pol_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_war_nob_01$"
+
 ####################################
 ### SP2 - Elegance of the Empire ###
 ####################################
@@ -778,6 +802,36 @@
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_afr_royalty_01:0 "@northafrican_icon! Emira's Talgamout"
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_afr_imperial_01:0 "@northafrican_icon! Sultana's Taounza"
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_afr_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_afr_war_nob_01$"
+
+###########
+### POL ###
+###########
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_common_01:0 "@westslavic_icon! Wool Cap"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_common_02:0 "@westslavic_icon! Pointy Woven Cap"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_low_nob_01:0 "@westslavic_icon! Parted Fur Hat"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_high_nob_01:0 "@westslavic_icon! Domed Hat"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_royalty_01:0 "@westslavic_icon! Crown of Bolesław"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_imperial_01:0 "@westslavic_icon! Crown of Kazimierz"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era1_war_nob_01:0 "@westslavic_icon! Slavic Helmet"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era3_war_nob_01:0 "@westslavic_icon! Topfhelm"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era4_war_nob_01:0 "@westslavic_icon! Bascinet"
+ PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era3_war_crest_01:0 "@westslavic_icon! Slavic Crest"
+ PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era4_war_crown_01:0 "@westslavic_icon! Battle Crown"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_common_01:0 "@westslavic_icon! Loose Veil"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_common_02:0 "@westslavic_icon! Leather Band"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_low_nob_01:0 "@westslavic_icon! Fur Veil"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_high_nob_01:0 "@westslavic_icon! Fancy Temple Rings"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_royalty_01:0 "@westslavic_icon! Crown of Oda"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_imperial_01:0 "@westslavic_icon! Crown of Emnilda"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_era1_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era1_war_nob_01$"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_era3_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era3_war_nob_01$"
+ PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_pol_era4_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_pol_era4_war_nob_01$"
+ PORTRAIT_MODIFIER_custom_special_f_headgear_sec_pol_era3_war_crest_01:0 "$PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era3_war_crest_01$"
+ PORTRAIT_MODIFIER_custom_special_f_headgear_sec_pol_era4_war_crown_01:0 "$PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era4_war_crown_01$"
 
 ####################################
 ### SP2 - Elegance of the Empire ###
@@ -1602,6 +1656,7 @@
  PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_ep2_western_era4_war_nob_01:0 "@toursandtournaments_icon! Late Medieval War Nobility Legwear 1"
  PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_ep2_western_era4_war_nob_02:0 "@toursandtournaments_icon! Late Medieval War Nobility Legwear 2"
  PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_afr_common_01:0 "@northafrican_icon! Berber Legwear"
+ PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_pol_common_01:0 "@westslavic_icon! West Slavic Legwear"
  
  PORTRAIT_MODIFIER_custom_legwear_girl_empty:0 "$PORTRAIT_MODIFIER_custom_legwear_female_empty$"
  PORTRAIT_MODIFIER_custom_legwear_boy_empty:0 "$PORTRAIT_MODIFIER_custom_legwear_female_empty$"
@@ -1617,6 +1672,7 @@
  PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_ep2_western_era4_war_nob_01:0 "$PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_ep2_western_era4_war_nob_01$"
  PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_ep2_western_era4_war_nob_02:0 "$PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_ep2_western_era4_war_nob_02$"
  PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_afr_common_01:0 "$PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_afr_common_01$"
+ PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_pol_common_01:0 "$PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_pol_common_01$"
 
 
 

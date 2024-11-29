@@ -157,7 +157,7 @@
  # Acclamation Succession Law (Byzantium, EP3)
  acclamation_succession_law: "Acclamation Succession"
  acclamation_succession_law_subname: "$appointment_succession_law_subname$"
- acclamation_succession_law_effects: "\n#V Under $acclamation_succession_law$, the [empire|E] [title|E] and its associated [holdings|E] will be inherited by the candidate with the highest score. The pool of candidates includes the realm's [noble_families|E], [governors|E], their family members, as well as [adventurers|E] with a claim to the title.\n#!"
+ acclamation_succession_law_effects: "\n#V Under $acclamation_succession_law$, the [empire|E] [title|E] and its associated [holdings|E] will be inherited by the candidate with the highest score. The pool of candidates includes the realm's [noble_families|E], [governors|E], and their family members.\n#!"
  # Descs used in calculating the candidate scores
  sum_of_skills_desc: "[skills|E]"
  infant_candidate_desc: "Infant"

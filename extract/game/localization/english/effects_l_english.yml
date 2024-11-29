@@ -1422,6 +1422,11 @@ REMOVE_JOINED_FACTION_DISCONTENT_EFFECT_FIRST: "[CHARACTER.GetShortUINamePossess
  CLEAR_DESIGNATED_HEIR_FIRST:1 "You will no longer have a [designated_heir|E]"
  CLEAR_DESIGNATED_HEIR_THIRD:0 "[CHARACTER.GetShortUIName|U] will no longer have a [designated_heir|E]"
 
+ set_designated_heir_unsafe_global: "$SET_DESIGNATED_HEIR_GLOBAL$"
+ set_designated_heir_unsafe_first: "$SET_DESIGNATED_HEIR_FIRST$"
+ set_designated_heir_unsafe_first_past: "$SET_DESIGNATED_HEIR_FIRST_PAST$"
+ set_designated_heir_unsafe_third: "$SET_DESIGNATED_HEIR_THIRD$"
+
  DIVORCE_GLOBAL:0 "Divorces [TARGET_CHARACTER.GetUIName]"
  DIVORCE_FIRST:1 "You divorce [TARGET_CHARACTER.GetUIName]"
  DIVORCE_THIRD:0 "[CHARACTER.GetShortUIName|U] divorces [TARGET_CHARACTER.GetUIName]"
@@ -2884,8 +2889,8 @@ REMOVE_JOINED_FACTION_DISCONTENT_EFFECT_FIRST: "[CHARACTER.GetShortUINamePossess
  finally_there_perk_2_effect: "[point_of_interest|E] [stress_loss|E]: [stress_loss_i]-#p 5#!\n[point_of_interest|E] [prestige|E]: [prestige_i]#P +10#!"
  mercenary_contacts_perk_effect: "Unlocks the [GetTravelOption('hire_allied_mercenaries_option').GetName] [travel_option|E]"
  been_there_done_that_perk_effect: "[point_of_interest|E] Rewards: #P +30%#!\nCan learn #V 1#! additional [language|E] without any penalties" 
- souvenirs_aplenty_perk_effect: "The [capital|E] will gain [development|E] if the owner [traveled|E] to a more developed [destination|E]"
- first_souvenirs_aplenty_perk_effect: "Your [capital|E] will gain [development|E] if you [travel|E] to a more developed [destination|E]"
+ souvenirs_aplenty_perk_effect: "The [capital|E] will gain [development|E] if the owner returns from a [travel|E] to a more developed [destination|E]"
+ first_souvenirs_aplenty_perk_effect: "Your [capital|E] will gain [development|E] if you return from a [travel|E] to a more developed [destination|E]"
  souvenirs_aplenty_perk_2_effect: "[adventurer_i] Whenever you move your [camp|E], gain #p +10#! [opinion|E] with [courtiers|E] and [guests|E]"
  souvenirs_aplenty_perk_3_effect: "[adventurer_i] Whenever you move your [camp|E], you may gain #p +25#! [gold|E] and #color_yellow +5#! [GetTrait('gallowsbait').GetName( GetNullCharacter )] [trait_level_track_xp|E] #weak (once every 3 months)#!"
  gracious_host_impeccable_guest_perk_effect: "Gain #P 10#! opinion with anyone [traveling|E] to the [capital|E], and #P 10#! opinion when Traveling to the Capital of others"

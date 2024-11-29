@@ -117,7 +117,7 @@
  murder_save.0012.desc:1 "[target.GetTitledFirstName] still lives!\n\nThe poison, the duck, the meal... Everything was going according to plan until [target.GetHerHis] dog begged a piece off of [target.GetHerHis] plate before [target.GetSheHe] had time to eat! Seeing the dog twist in pain until dead somewhat discouraged [target.GetTitledFirstNameNoTooltip] from partaking in [target.GetHerHis] meal."
  murder_save_poison_dog_tt:0 "[target.GetFirstNamePossessiveNoTooltip] dog dies from the poison"
 
- murder_save.1012.desc:0 "As I sit down to eat my dog [ROOT.Char.Custom('DogStoryName')] follows me with begging eyes, and I smoothly drop a piece from my plate to the floor for [ROOT.Char.Custom('DogStoryHerHim')].\n\nJust as I am about to start eating I am startled by a loud whimper, pained and whining. [ROOT.Char.Custom('DogStoryName')] is writhing on the floor, [ROOT.Char.Custom('DogStoryHerHis')] complaining growing weaker and weaker as [ROOT.Char.Custom('DogStorySheHe')] falls still. The food was poisoned?!"
+ murder_save.1012.desc:0 "As I sit down to eat, my dog, [ROOT.Char.Custom('DogStoryName')], follows me with begging eyes, and I smoothly drop a piece from my plate to the floor for [ROOT.Char.Custom('DogStoryHerHim')].\n\nJust as I am about to start eating I am startled by a loud whimper, pained and whining. [ROOT.Char.Custom('DogStoryName')] is writhing on the floor, [ROOT.Char.Custom('DogStoryHerHis')] complaining growing weaker and weaker as [ROOT.Char.Custom('DogStorySheHe')] falls still. The food was poisoned?!"
  murder_save_poison_dog_dies:0 "[THIS.Char.Custom('DogStoryName')] saved you and died from the poison"
 
  murder_save.0013.t:0 "$murder_save_header$ The Gourmet Nose"

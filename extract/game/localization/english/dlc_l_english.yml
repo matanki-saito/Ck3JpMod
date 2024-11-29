@@ -24,6 +24,7 @@
  DLC013_SP3: "Couture of the Capets"
  DLC014_EP3: "Roads to Power"
  DLC015_BP3: "Wandering Nobles"
+ DLC016_CP2: "West Slavic Attire"
 
  dlc_001:0 "$DLC001_PREORDER$"
  dlc_001_desc:0 "Immerse yourself in the Holy Roman Empire with a collection of outfits for both commoners, warriors and rulers of Central Europe."
@@ -55,3 +56,5 @@
  dlc_014_desc: "Lead a noble family in an ancient empire, using influence and intrigue to secure your place, or be a wandering mercenary, building a reputation as a fixer or outlaw. New events, government systems, schemes and lifestyles are yours to explore with Roads to Power."
  dlc_015: "$DLC015_BP3$"
  dlc_015_desc: "Brings new content to several beloved systems: travel, activities, and lifestyles. Send your ruler on thrilling journeys, whether in pursuit of wealth, prestige, or personal growth. Don't let them sit idle — adventure awaits at every turn!"
+ dlc_016: "$DLC016_CP2$"
+ dlc_016_desc: "This Content Creator Pack is inspired by West Slavic garments in the Middle Ages. It includes new clothes, legwear, grandiose headgear and a variety of patterns to choose from."

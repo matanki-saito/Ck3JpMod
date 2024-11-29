@@ -335,7 +335,7 @@
  decision_embrace_english_culture_get_innovations:1 "The English [culture|E] gains all Norman and Anglo-Saxon [innovations|E]"
  MY_CAPITAL_IS_IN_ENGLAND:1 "Your [realm_capital|E] is in England"
  HARRYING_ENDED: "The Harrying of the North has ended"
- HIGH_PACIFICATION: "The Harrying of the North's [harrying_pacification|E] has been:\n$EFFECT_LIST_BULLET$Higher than [harrying_resistance|E]\n$EFFECT_LIST_BULLET$Over #V 16#! for at least #V 1#! year"
+ HIGH_PACIFICATION: "The Harrying of the North's [harrying_pacification|E] has been:\n$EFFECT_LIST_BULLET$Higher than [harrying_resistance|E]\n$EFFECT_LIST_BULLET$Over #V 14#! for at least #V 1#! year"
 
  restore_dumnonia_decision:0 "Restore the Kingdom of Cornwall"
  restore_dumnonia_decision_desc:0 "The spirit of ancient Dumnonia has burned in our breasts since Brutus first landed on Britannia's misty shores. It will burn brighter yet."
