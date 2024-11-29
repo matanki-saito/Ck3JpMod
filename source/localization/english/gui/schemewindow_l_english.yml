@@ -381,7 +381,7 @@
  SCHEME_WINDOW_SUCCESS_TOOLTIP_TITLE: "#T [success_chance|E]：@scheme_success_icon![Scheme.GetSuccessChance|V%/1]#!#weak （最大[Scheme.GetMaxSuccessChance]％）#!"
  SCHEME_WINDOW_SUCCESS_BASIC_TOOLTIP: "#T [success_chance|E]：@scheme_success_icon![Scheme.GetSuccessChance|V%/1]#!#weak （最大[Scheme.GetMaxSuccessChance]％）#!\n[Scheme.GetSuccessChanceDescription]"
  SCHEME_WINDOW_CLICK_FOR_SETUP: "#I クリックで準備画面を表示#!"
- SCHEME_GROWTH_PER_SKILL_POINT: "[CHARACTER.GetShortUINamePossessive|U]$SKILL$に基づいた[scheme_growth_growth|E]度：$MOD_PER_SCHEME_PHASE_POSTFIX$$MOD_SUCCESS_GROWTH_PREFIX$$VALUE|+%/1=$"
+ SCHEME_GROWTH_PER_SKILL_POINT: "[CHARACTER.GetShortUINamePossessive|U]の$SKILL$に基づいた[scheme_growth_growth|E]度：$MOD_PER_SCHEME_PHASE_POSTFIX$$MOD_SUCCESS_GROWTH_PREFIX$$VALUE|+%/1=$"
  SCHEME_I_AM_BOLD:0 "[ROOT.Char.GetAIPersonality]は興味をそそられる：$VALUE|+0=$"
  SCHEME_MY_OPINION_OF_TARGET: "[target.GetShortUINameNoTooltip]に対する[opinion|E]：$VALUE|+0=$"
  SCHEME_WITH_GIFT_SIGNIFICANT: "[gold_i][gold|E]を獲得する：$VALUE|+0=$"

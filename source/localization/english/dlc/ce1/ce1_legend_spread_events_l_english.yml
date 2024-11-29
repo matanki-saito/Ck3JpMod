@@ -537,7 +537,7 @@
  legend_spread_events.8170.b.chess: "[ROOT.Char.GetFaith.DeathDeitySheHe|U]は多分、チェスでもしたかったんだろう。"
  legend_spread_events.8170.b.fallback: "全て一夜の夢ならば、何も語るに値しない。"
  legend_spread_events.8171.t: "未来からの呼び声"
- legend_spread_events.8171.desc: "生まれたばかりの赤ちゃんを腕に抱くと、自分の顔が[child.GetHerHis]に映っているのを見ずにはいられない。誰もが私に[child.GetSheHe]が私にそっくりだと言っているが、実際その通りだと思う。\n\nおそらく、これが私が求めていた不滅のようなものであり、私の遺産を前進させ、私がいなくなったときに私の物語を続ける誰かなのだ。"
+ legend_spread_events.8171.desc: "生まれたばかりの赤子を腕に抱くと、自分の顔が[child.GetHerHis]に映っているのを見ずにはいられない。誰もが私に[child.GetSheHe]が私に瓜二つだと言っているが、実際その通りだと思う。\n\nおそらく、これこそが私が求めていた不死のようなものであり、私の遺産を前進させ、私がいなくなったときに私の物語を続ける誰かなのだ。"
  legend_spread_events.8171.a: "物語は終わらない、か。"
  legend_spread_events.8172.t: "…何の為に？"
  legend_spread_events.8172.desc: "周りは真っ暗だ。ただその先に、一筋の光が見える。本能のように、私はその一点の光に向かってこの虚空を横切って歩いていく。白衣に身を包んだ、年老いた私にそっくりな一人の人物に出迎えられるまで。\n\n[ROOT.Char.GetMotherFather]親のような温かさで[ROOT.Char.GetSheHe|U]は私に微笑みかけ、横に座るよう誘う。その温かさに包まれながら、私は言いようのない高揚感と平安を感じる。\n\n「私が人をなぜ死せるものとしたか、解するか？\n……[ROOT.Char.GetFirstNameNoTooltip]、命の尊きを知るものよ。[ROOT.Char.GetFaith.PositiveAfterLife]へ行く日、永眠は近い。されど、今世にはまだ、誰でもないお前を待つものがいる」"

@@ -171,7 +171,7 @@
  trait_specific_ongoing.3001.b:0 "私にそのような問題はない！一体何を言ってるんだ！？"
  trait_specific_ongoing.3001.b.tt:0 "アハハ…ハ。"
  trait_specific_ongoing.3002.t:0 "長期的な解決策"
- trait_specific_ongoing.3002.desc:0 "「我が[ROOT.Char.GetLadyLord]」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('court_physician'))]である[court_physician.GetTitledFirstName]ある夜、私に近づいてきた。「あなたのしつこい憂鬱のためにいくつか試してみたい治療があります。良くなる前に少しだけ悪化するかもしれませんが、試してみる価値はあると思います！」"
+ trait_specific_ongoing.3002.desc:0 "「我が[ROOT.Char.GetLadyLord]」私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('court_physician'))]である[court_physician.GetTitledFirstName]がある夜、私に近づいてきた。「あなた様のしつこい憂鬱のためにいくつか試してみたい治療があります。良くなる前に少しばかり悪化するかもしれませんが、試してみる価値はあるかと存じます！」"
  trait_specific_ongoing.3002.a:0 "私はこれを取り除くためなら何でもする。"
  trait_specific_ongoing.3002.b:0 "必要なのは長い昼寝だ。あるいは三回ほど。"
  trait_specific_ongoing.3003.desc:0 "「このような苦悩を治すためには、悪い考えを吐き出すことが非常に重要です。」と私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('court_physician'))]である[court_physician.GetTitledFirstName]は私に保証する。「毎週二、三回私のところに来てください、我々はあなたのその重荷について話しましょう。」"

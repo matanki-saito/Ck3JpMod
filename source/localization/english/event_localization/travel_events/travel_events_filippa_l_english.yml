@@ -83,7 +83,7 @@
  travel_events.2005.a_failure_tt:0 "誤解された助言"
  travel_events.2005.a_misinterpreted_tt:0 "あなたの助言は完全に誤解される"
  travel_events.2005.b:0 "我々はこの辺りを改善できないか、考えてみようじゃないか。"
- travel_events.2005.c:0 "私は[county_liege.GetTitledFirstNameNoTooltip]が自身の牧草地を管理することができると確信している。"
+ travel_events.2005.c:0 "[county_liege.GetTitledFirstNameNoTooltip]なら自らの牧草地を手入れできるに違いない。"
  travel_events.2006.t:0 "再びラクダに？"
  travel_events.2006.desc:0 "太陽は[ROOT.Char.GetCurrentLocation.GetName]のラクダ農場の高いところに昇り、私は農場の特定の区域に張られた保護皮の下で日陰を探している。突然の呻き声に驚いて、私は振り向く。\n\n私の隣では、雄大な野獣の一頭も同じ考えを持ったのか、日陰でくつろいでいる。私がその細長い頭を撫でてやろうと身を乗り出すと、その動物は#EMP 素早い動きで私の額を叩きつけ、頬に唾を吐きかけた#!。\n\n私が気を取り直すと、持ち主は20歩ほど離れたところに悔しそうに立っている。"
  travel_events.2006.a:0 "お前とその獣どもは礼儀を学ぶ必要がある！"

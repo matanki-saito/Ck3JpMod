@@ -82,7 +82,7 @@
  local_expert_modifier:0 "地元の熟練者"
  local_expert_modifier_desc:0 "この人物は、ガイドブックをめくって地理的な知識を新たにした"
  pilgrim_guide_modifier:0 "$local_expert_modifier$"
- architectural_interest_modifier:0 "建築的興味"
+ architectural_interest_modifier:0 "建築への関心"
  architectural_interest_modifier_desc:0 "この人物は世俗的な建築に興味を示している"
  pilgrimage_burial_at_destination_modifier:0 "聖なる安息"
  pilgrimage_burial_at_destination_modifier_desc:0 "この人物は目的地の聖地に安置される前任者の遺体を運んでいる。"

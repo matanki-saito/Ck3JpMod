@@ -126,7 +126,7 @@
  msg_faction_against_liege_or_me_created_desc:1 "[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )]の[LEFT_CHARACTER.GetShortUIName]が、[RIGHT_CHARACTER.GetShortUIName]に対する[FACTION.GetName]を創設した"
  msg_county_faction_against_liege_or_me_created_desc:2 "[LEFT_TITLE.GetName]で[RIGHT_CHARACTER.GetShortUINameNoTooltip]に対抗する[FACTION.GetName]が結成された"
  msg_faction_against_me_disbanded:1 "敵対派閥の解散！"
- msg_faction_against_me_disbanded_desc:2 "あなたを標的とした[FACTION.GetName][faction|E]は解散しました"
+ msg_faction_against_me_disbanded_desc:2 "あなたを標的とした[FACTION.GetName]は解散しました"
  msg_my_faction_disbanded:0 "派閥の解散"
  msg_my_faction_disbanded_desc:0 "[FACTION.GetName][faction|E]は解散されました"
  msg_liege_passed_law:0 "主君の新しい法律"
