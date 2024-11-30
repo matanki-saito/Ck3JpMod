@@ -264,7 +264,7 @@
  travel_events.4032.a:1 "この[cowardly_knight_scope.GetWomanMan]は助けるに値する！"
  travel.beat_back_lion:1 "あなたは[ROOT.Char.Custom('GetAnimalType')]を打ち負かす"
  travel.mauled_by_animal:1 "あなたは[ROOT.Char.Custom('GetAnimalType')]に傷つけられる"
- travel_events.4032.b:1 "[entourage_helper.GetNameNoTooltip]、[cowardly_knight_scope.GetHerHim]を助けろ！"
+ travel_events.4032.b:1 "[entourage_helper.GetFirstNameNoTooltip]、[cowardly_knight_scope.GetHerHim]を助けろ！"
  travel_events.4032.c:0 "こんなことで命を危険に晒すことはできない。"
  travel_events.4033.t:0 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の[witch_scope.Custom('MagicUserTerm')|U]"
  travel_events.4033.desc.intro:0 "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]は私にとって奇妙で解しがたい慣習が残る土地だ。[ROOT.Char.GetCurrentLocation.GetCounty.GetFaith.GetAdjective]の信仰の実践は、[ROOT.Char.GetFaith.GetName]とは奇妙で想像を絶する違いがあり、魔術の実践に対する態度ほどそれが明らかな部分はないであろう。\n\n町の真ん中で、まるで[witch_scope.GetSheHe]が[ROOT.Char.GetFaith.PriestNeuter]であるかのように呪文を唱え、祝福を捧げている一人の[witch_scope.GetWomanMan]がいる！"

@@ -143,7 +143,7 @@
  broadened_horizons_modifier:0 "視野を広げる"
  firm_convictions_modifier:0 "確固たる信念"
  travel_events.3060.t:0 "隠者"
- travel_events.3060.desc:0 "草木の中から、まるで大聖堂の石造りのアーチのような洞窟が姿を現す。入口には小さな木のテーブルと小部屋があり、誰かがランタンを焚いたままにしている。\n\n「閣下、気を付けて。」[travel_leader.GetTitledFirstName]が[travel_leader.GetHerHis]の腕を私の胸の前に掲げている。「この地には盗賊がいます。」\n\n「非難するのは早すぎるな」洞窟の入り口に薄暗く照らされた人影が立っている。「私は単なる隠者で…あなたは…おそらくは[ROOT.Char.GetTitleAsNameNoTooltip]なる方かな」"
+ travel_events.3060.desc:0 "草木の中から、まるで大聖堂の石造りのアーチのような洞窟が姿を現す。入口には小さな木のテーブルと小部屋があり、誰かがランタンを焚いたままにしている。\n\n「[ROOT.Char.GetLadyLord]様、気を付けて。」[travel_leader.GetTitledFirstName]が[travel_leader.GetHerHis]の腕を私の胸の前に掲げている。「この地には盗賊がいます。」\n\n「非難するのは早すぎるな」洞窟の入り口に薄暗く照らされた人影が立っている。「私は単なる隠者で…あなたは…おそらくは[ROOT.Char.GetTitleAsNameNoTooltip]なる方かな」"
  travel_events.3060.a:0 "隠者は私の従者として最適な存在だ。"
  travel_events.3060.b:0 "なんという幸運だ！どうか、私の未来について教えてください。"
  travel_events.3060.c:0 "もう…もう行こう。"

@@ -316,4 +316,4 @@
  doctrine_parameter_sanctioned_assassinations: "異なる[faith|E]の人物を[GetScheme('murder').GetTypeName]の[schemes|E]で殺しても[piety|e]を失わない"
  tenet_household_gods_name: "家の守護神"
  tenet_household_gods_desc: "私たちは、我々の住まいを見守る守護霊――#EMP ラレース#!と#EMP ゲニウス#!を崇めている。何よりも、その魂をもって帝国全土を守ることを使命とする、栄光ある皇帝陛下を敬っている。"
- doctrine_parameter_allows_brewery: "[temple_holdings|E]の$culture_parameter_allows_brewery$"
+ doctrine_parameter_allows_brewery: "[temple_holdings|E]の$allows_brewery$"

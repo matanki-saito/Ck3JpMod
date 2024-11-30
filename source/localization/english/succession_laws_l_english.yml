@@ -133,7 +133,7 @@
  appointment_succession_law_effects: "#V $appointment_succession_law$の下では、[title|E]とそれに付随する[holdings|E]は最もスコアの高い候補者が継承します。誰であれ[realm|E]内の[adult|E]は、[scheming|E]や[influence|E]の行使など、様々な手段を通じて[governorship|E]を得るよう努めることができます。#!"
  acclamation_succession_law: "歓呼による継承"
  acclamation_succession_law_subname: "$appointment_succession_law_subname$"
- acclamation_succession_law_effects: "#V $acclamation_succession_law$の下では、[empire|E][title|E]とそれに付随する[holdings|E]は最もスコアの高い候補者が継承します。候補者となるのは領国内の[noble_families|E]、[governors|E]、その家族、および称号への請求権を有する[adventurers|E]です。\n\n#!"
+ acclamation_succession_law_effects: "#V $acclamation_succession_law$の下では、[empire|E][title|E]とそれに付随する[holdings|E]は最もスコアの高い候補者が継承します。候補者となるのは領国内の[noble_families|E]、[governors|E]、その家族です。\n\n#!"
  sum_of_skills_desc: "[skills|E]"
  infant_candidate_desc: "幼児"
  adolescent_candidate_desc: "青年"
