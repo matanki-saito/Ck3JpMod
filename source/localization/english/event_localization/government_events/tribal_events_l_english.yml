@@ -116,7 +116,7 @@
  tribal.1001.a_champion:0 "[liege_champion.GetTitledFirstName]が私のために戦うだろう\n"
  tribal.1001.a_champion_success:0 "[liege_champion.GetFirstNameNoTooltip]は戦いに勝利する"
  tribal.1001.a_champion_failure:0 "[liege_champion.GetFirstNameNoTooltip]は戦いに敗れる"
- tribal.1003.desc_liege_champion:0 "\n\n我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('liege_to_challenge'))][liege_to_challenge.GetTitledFirstNamePossessive]に選ばれたチャンピオン、[liege_champion.GetTitledFirstName]が[liege_champion.Custom('signature_weapon')]を[liege_champion.Custom('SignatureWeaponActionThirdPerson')]。そして私に向かって一歩を踏み出した。部族全員が私たちの周りに集まり、興奮と恐怖が重くのしかかる中、私は足を広くかまえ、そして…"
+ tribal.1003.desc_liege_champion:0 "\n\n我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('liege_to_challenge'))][liege_to_challenge.GetTitledFirstNamePossessive]に選ばれた闘士、[liege_champion.GetTitledFirstName]が[liege_champion.Custom('signature_weapon')]を[liege_champion.Custom('SignatureWeaponActionThirdPerson')]。そして私に向かって一歩を踏み出した。部族全員が私たちの周りに集まり、興奮と恐怖が重くのしかかる中、私は足を広くかまえ、そして…"
  tribal.1014.desc_opening:0 "我が[liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))][challenger.GetFirstName]は[challenger.GetHerHis]の[challenger.Custom('signature_weapon')]を[challenger.Custom('SignatureWeaponActionThirdPerson')]と、[liege_champion.GetTitledFirstName]に向かって一歩踏み出す。部族全員が我々の周りに集まり、興奮と恐怖が重くのしかかっている。\n\n"
  tribal.1014.desc:0 "[liege_champion.GetTitledFirstName]は[liege_champion.Custom('signature_weapon')]を掲げて攻撃する。#EMP 身をかわし、前進し、牽制し——うぐっ！#![challenger.Custom('SignatureWeaponActionReaction')]とともに[challenger.GetFirstNameNoTooltip]が[liege_champion.GetFirstNamePossessive]の足を[challenger.Custom('SignatureWeaponCriticalPresent')]、[liege_champion.GetSheHe]がよろめく中で、私は終わったのだと気づく。部族たちはもう私に声援を送ってはくれない。"
  tribal.1014.a:0 "呪ってやる！"

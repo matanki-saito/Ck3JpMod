@@ -165,7 +165,7 @@
  ep3_contract_event.0001.tt_explorer: "探検家の[task_contract_object.GetName]と一緒に、[task_contract_destination.GetName]への旅に出ます"
  ep3_contract_event.0001.tt_gold: "You will travel to [task_contract_destination.GetName], delivering [task_contract_employer.GetNamePossessive] gift to [task_contract_target.GetName]."
  ep3_contract_event.0001.tt_animal: "You will travel to [task_contract_target.GetName] escorting [task_contract_employer.Custom('CatOrDogStoryName')]"
- ep3_contract_event.0001.tt_artifact: "You will travel to [task_contract_destination.GetName] and gift [task_contract_employer.GetNamePossessive] [escorted_artifact.GetNameNoTooltip] to [task_contract_target.GetName]"
+ ep3_contract_event.0001.tt_artifact: "あなたは[task_contract_destination.GetName]への旅を始め、[task_contract_employer.GetNamePossessive]からの贈り物である[escorted_artifact.GetNameNoTooltip]を[task_contract_target.GetName]へ届けます"
  ep3_contract_event.0001.tt_construction: "You will travel to [task_contract_destination.GetName] and deliver building materials to [task_contract_employer.GetName]"
  ep3_contract_event.0001.tt_increase_control: "You will travel to a [task_contract_councillor_liege.GetPrimaryTitle.GetAdjective] [county|E] with [county_corruption|E] or low [county_control|E]"
  ep3_contract_event.0003.t: "$contract_event_prefix$捕虜目的の略奪"

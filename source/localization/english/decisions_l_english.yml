@@ -748,7 +748,7 @@
  deceitful_progress_hostile_schemes_decision_missing_scheme_effect:0 "あなたの[hostile_schemes|E]は、より良い[success_chance|E]を得られます"
  msg_deceitful_progress_hostile_schemes:0 "あなたの[hostile_schemes|E]が進行しました！"
  diligent_development_focus_decision:0 "首都の開発"
- diligent_development_focus_decision_desc:0 "私は[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]がいつの日か天下のあらゆる支配者の羨望の的になることを夢見ている。私はそれを地球の宝石に変えるチャンピオンになるために努力しなければならない。あとは私がもう少し頑張るだけだ…\n\n誰が睡眠なんて必要とする？"
+ diligent_development_focus_decision_desc:0 "私は[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]がいつの日か天下のあらゆる支配者の羨望の的になることを夢見ている。私はそれを地球の宝石に変える戦士になるために努力しなければならない。あとは私がもう少し頑張るだけだ…\n\n誰が睡眠なんて必要とする？"
  diligent_development_focus_decision_tooltip:0 "首都の開発を進めます"
  diligent_development_focus_decision_confirm:0 "開発を計画する"
  msg_diligent_development_focus:0 "あなたの熱心な計画が実を結んでいます！"
