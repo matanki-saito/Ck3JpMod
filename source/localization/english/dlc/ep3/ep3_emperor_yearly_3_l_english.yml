@@ -1,6 +1,6 @@
 ﻿l_english:
- ep3_emperor_yearly.3000.t: "The Palace-Pillaging Right"
- ep3_emperor_yearly.3000.desc: "Hulking, hairy Varangians stagger about my new imperial halls, their arms laden with gold and jewels.\n\nWith [dead_emperor.GetTitledFirstNamePossessive] death, those who would have defended him to the last have taken to the treasure-chambers. It is their traditional right, and none dare stop these elite foreigners from claiming glittering bonuses.\n\nThis is the price paid to keep my [GetMaA('varangian_guards').GetName], my oathsworn hounds, content on their leashes.\n\n"
+ ep3_emperor_yearly.3000.t: "宮廷の略奪権"
+ ep3_emperor_yearly.3000.desc: "巨大で毛深いヴァリャーグたちが、新たな皇帝の宮廷を重々しい足取りで行き来し、その腕には金や宝石が積み上げられている。\n\n[dead_emperor.GetTitledFirstNamePossessive]の死に伴い、最後まで彼を守るはずだった者たちは宝物庫に向かい始めた。それは彼らの伝統的な権利だ。誰もこれらの猛き異人が輝く財を要求するのを止めてはならぬのだ。\n\nこれが私の[GetMaA('varangian_guards').GetName]、誓約を交わした忠犬たちをその鎖につなぎとめておくための代償だ。\n\n"
  ep3_emperor_yearly.3000.desc_leader: "And so, under [varangian_leader.GetFullName], they reach into the purse of [ROOT.Char.GetFaith.HighGodNamePossessive] chosen monarch."
  ep3_emperor_yearly.3000.desc_no_leader: "And so the Northmen reach into the purse of [ROOT.Char.GetFaith.HighGodNamePossessive] chosen monarch."
  ep3_emperor_yearly.3000.a: "\"Stop them, Akolouthos! Recover my gold!\""
