@@ -1,5 +1,5 @@
 ﻿l_english:
- activity_survey: "Inspection"
+ activity_survey: "監査"
  activity_survey_desc: "Perform a thorough inspection of your lands to ensure your realm is a well-running machine, and look for opportunities to improve upon the current bureaucracy and situation."
  activity_survey_host_desc: "$BULLET_WITH_TAB$May gain @pressed_claim![claims|E]\n$BULLET_WITH_TAB$May increase @vassal_icon![offer_vassalization|E] Acceptance\n$BULLET_WITH_TAB$May improve @gold_icon![taxes|E] in the [county|E]\n$BULLET_WITH_TAB$May improve @development_icon![development|E] in the [county|E]\n$BULLET_WITH_TAB$May improve @control_icon![control|E] in the [county|E]\n$BULLET_WITH_TAB$May improve @stationed_regiment_icon![levies|E] in the [county|E]\n$BULLET_WITH_TAB$May improve @opinion_icon![opinion|E]\n$BULLET_WITH_TAB$May improve @domain_icon![county_opinion|E]"
  activity_survey_guest_desc: ""
