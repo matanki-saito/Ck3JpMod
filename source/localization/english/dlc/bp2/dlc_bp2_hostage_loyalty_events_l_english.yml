@@ -59,7 +59,7 @@
  bp2_yearly.8061.a: "素晴らしい。"
  bp2_yearly.8063.t: "蔑まれた人質"
  bp2_yearly.8063.desc: "[hostage.GetFirstName]が初めて宮廷に来て私が[hostage.GetHerHis]の[ROOT.Char.Custom('GetAuntUncle')]になってから長い時が経った。今は[hostage.GetWomanMan]となり、[hostage.GetSheHe]が私を見る目に耐えられない。宮廷に座り、[hostage.GetHerHis]が私に向けてくる嫌悪や侮蔑の眼差しは[ROOT.Char.GetHouse.GetNameNoTooltip]の育て方が失敗したことを示している。"
- bp2_yearly.8063.a: "おっと"
+ bp2_yearly.8063.a: "おおっと。"
  bp2_yearly.8065.t: "[ROOT.Char.Custom2('AppropriateGreetingNegative', ROOT.Char )]"
  bp2_yearly.8065.desc: "私は長い間[new_parent.GetFirstName]を本当の[new_parent.GetMotherFather]のように考えてきたが、正式にそれを文書として形にした。要は、この日から私は旧家ではなく[new_parent.GetHouse.GetName]の正式な一員ということになる。"
  bp2_yearly.8065.a: "イカれてる！"

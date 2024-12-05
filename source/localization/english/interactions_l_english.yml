@@ -50,7 +50,7 @@
  end_bribe:0 "買収の終了"
  snoop_around_court:0 "宮廷周辺を詮索"
  end_scheme:0 "#D 計画の終了#!"
- lower_scheme_secrecy:0 "#D 下位の計画の秘密#!"
+ lower_scheme_secrecy:0 "#D 下位の計画の秘匿率#!"
  give_out_random_secrets:0 "#D ランダムな秘密を与える#!"
  expose_every_secret:0 "#D すべての秘密を暴露#!"
  befriend_interaction:0 "友人になる #weak (計画)#!"

@@ -865,7 +865,7 @@
  game_concept_scheme_resistance_desc:1 "[character|E]の$game_concept_scheme_resistance$は自らに対する$game_concept_schemes$の進捗を鈍化させます。\n[scheme_owner|E]の[scheme_speed|E]はこの値によって減少し、$game_concept_scheme$が[scheme_opportunity_opportunities|E]を獲得するのに必要な時間を増加させます。\n\n\n#WEAK $game_concept_scheme_resistance$は、[scheme_target|E]およびその[spymaster|E]の対応する[skill|E]、並びに[councillor_task|E]の'$task_disrupt_schemes$'によって増加します（その計画が[scheme_hostile|E]である場合）。#!"
  game_concept_hostile_scheme_resistance:0 "敵対的計画への抵抗力"
  game_concept_success_chance:0 "成功率"
- game_concept_secrecy:0 "秘密"
+ game_concept_secrecy:0 "秘匿率"
  game_concept_secrecy_desc:1 "[hostile_scheme|e]の$game_concept_secrecy$は[scheme|e]の標的からそれを察知されない可能性を決定します。\n\n$game_concept_scheme$の$game_concept_secrecy$は発見を不可能とする初期耐性期間を持ちます。この期間を過ぎると、$game_concept_scheme$は[scheme_breach_short|e]によって発見されるリスクに晒されます。貴方の[agents|e]は貴方が$game_concept_scheme$の秘密を維持できるかどうかに大きな影響を与えます。\n\n#WEAK 80%の$game_concept_secrecy$を持つ$game_concept_scheme$は実行時に発見される可能性が20%あり、発見される可能性はそれを継続する月毎に2%増加します。#!"
  game_concept_county_development:0 "開発度"
  game_concept_development:0 "開発度"

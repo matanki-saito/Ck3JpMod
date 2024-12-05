@@ -144,7 +144,7 @@
  funeral.1021.b: "「どうでもいい」"
  funeral.1021.b.toast: "あなたの叫びは無視される"
  funeral.1030.t: "永遠の友であったのなら"
- funeral.1030.desc: "私は、多くの弔問者が義務を果たすためにやってきては去っていくのを見守ってきました。しかし、死せる[deceased.GetFirstName]のそばで同じように動かない者が一人…一匹いた。\n\n数時間の間、その姿は変わらず、まるで永遠にそこにとどまるかのようだった。[ROOT.Char.Custom2('RelationToMeShort', deceased)]の忠実な犬は[ROOT.Char.GetFaith.HighGodName]によって引き合わせられた主人である[deceased.GetWomanMan]の異変を悲しんでいるようだ。何もせずに横になり続けているが、このまま一緒に葬られる気なのか。"
+ funeral.1030.desc: "私は、多くの弔問者が義務を果たすためにやってきては去っていくのを見守ってきた。しかし、死せる[deceased.GetFirstName]のそばで同じように動かない者が一人…一匹いた。\n\n数時間の間、その姿は変わらず、まるで永遠にそこにとどまるかのようだった。[ROOT.Char.Custom2('RelationToMeShort', deceased)]の忠実な犬は[ROOT.Char.GetFaith.HighGodName]によって引き合わせられた主人である[deceased.GetWomanMan]の異変を悲しんでいるようだ。何もせずに横になり続けているが、このまま一緒に葬られる気なのか。"
  funeral.1030.a: "「こっちへ来い、我が傍で悼むことを許す」"
  funeral_1030_adopt_tt: "[deceased.GetFirstNamePossessiveNoTooltip]の犬を譲り受ける"
  funeral.1030.b: "「退くがいい。貴様のご主人様は死んだのだ！」"
