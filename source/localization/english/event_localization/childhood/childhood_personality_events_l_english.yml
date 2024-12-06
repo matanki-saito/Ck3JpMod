@@ -73,7 +73,7 @@
  child_personality.0012.t:0 "饗宴の混乱"
  child_personality.0012.desc:0 "この饗宴は騒がしく、大人たちはつまらないし、料理も美味しくない。\n\n私はここにいたくないが、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guardian'))][guardian.GetFirstName]はこの饗宴を楽しんでいるようで、[guardian.GetHerHis]の気を引くことができない。"
  child_personality.0012.a:0 "こっそり抜け出そう。多分そのあたりに他の子がいるだろうし。"
- child_personality.0012.b:0 "こんなにたくさんの人を相手にできない！テーブルの下に隠れてやる。"
+ child_personality.0012.b:0 "こんなにたくさんの人を相手にできない！食卓の下に隠れよう。"
  child_personality.0012.c:0 "少なくとも、ここにいるあいだは料理を食べていられるんだ！"
  child_personality.0021.t:0 "個性の出現"
  child_personality.0021.desc:0 "牢屋に入れられている私の数少ない楽しみの一つは人々を見ることだ。たとえそれが牢屋の中からであっても。"

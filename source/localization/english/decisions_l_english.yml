@@ -1207,7 +1207,7 @@
  rebuke_roman_revanchism_sicily.tt.requirements.higher_tally: "あなたが少なくとも、[GetGeographicalRegion('custom_sicily').GetName]内で[EmptyScope.ScriptValue('rebuke_roman_revanchism_sicily_requirements_some_ere_county_value')|V0][counties|E]を支配している"
  rebuke_roman_revanchism_sicily.tt.sicily_has_no_holder: "[GetTitleByKey('k_sicily').GetNameNoTier]を保有する[ruler|E]がいない"
  rebuke_roman_revanchism_sicily.tt.requirements.ere_cant_be_revanchising: "[GetTitleByKey('e_byzantium').GetBaseNameNoTier]が[GetDecisionWithKey('retake_eastern_provinces_decision').GetName][decision|E]を取得していないか、存在していない。"
- rebuke_roman_revanchism_sicily.tt.requirements.ere_not_in_italy: "[GetTitleByKey('e_byzantium').GetDefinitiveName]が[GetGeographicalRegion('world_europe_south_italy').GetName]内で[counties|E]を[EmptyScope.ScriptValue('rebuke_roman_revanchism_sicily_requirements_no_ere_in_italy_county_value')|V0]未満支配している"
+ rebuke_roman_revanchism_sicily.tt.requirements.ere_not_in_italy: "[GetTitleByKey('e_byzantium').GetDefinitiveName]が[GetGeographicalRegion('world_europe_south_italy').GetName]内で支配する[counties|E]が[EmptyScope.ScriptValue('rebuke_roman_revanchism_sicily_requirements_no_ere_in_italy_county_value')|V0]未満である"
  rebuke_roman_revanchism_sicily.tt.effects.option.1: "[GetTitleByKey('k_sicily').GetNameNoTier]を北部と再統合した場合"
  rebuke_roman_revanchism_sicily.tt.effects.option.2: "[GetTitleByKey('k_sicily').GetNameNoTier]が地中海沿岸の近隣諸邦と同盟した場合"
  rebuke_roman_revanchism_sicily.tt.effects.option.3: "[GetTitleByKey('k_sicily').GetNameNoTier]の併合を選択した場合"

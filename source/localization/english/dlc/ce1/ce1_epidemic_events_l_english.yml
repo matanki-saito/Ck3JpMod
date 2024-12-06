@@ -21,7 +21,7 @@
  health.1114.t: "[SCOPE.Custom('EventTitleDisease')]：通常運転"
  health.1114.desc: "寝所から這い出る。健康な血色の指は白い牡鹿と同じくらい珍しいのでは無いかと思い始めていたが、私の腕からしっかりとそれが生えている。肉体は平穏を取り戻した。痙攣は消え去り、踊りの時間が終わったのだ。\n\n私は安堵のため息をついた。平和だ。踊りが恋しくなる日が来るだろうか。"
  health.1114.a: "踊りは宴の時だけで十分。"
- epidemic_events.0001.t: "膨らみゆく…"
+ epidemic_events.0001.t: "侵食"
  epidemic_events.0001.desc: "夜が訪れる。私は木製の円卓を握りしめ、目を閉じた。汗が額を滴り落ちる。[disease_scope.GetNameNoTooltip( GetPlayer )|l]の[ROOT.Char.Custom('disease_desc_short')]によって日に日に体が弱っていくのがわかる。#EMP 私はどうなってしまうというのか#!？\n\nテントの外からくぐもったような咳が聞こえてくる。私ももう手遅れだ。私の[dummy_gender.GetWomenMen]たちに届かないことを祈ることしか出来ない。"
  epidemic_events.0001.a: "#EMP 地獄に居る#!。"
  epidemic_events.0001.a.toast: "感染が広まっている"

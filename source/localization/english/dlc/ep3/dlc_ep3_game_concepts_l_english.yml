@@ -142,7 +142,7 @@
  game_concept_task_contracts: "依頼"
  game_concept_task_contract_possessive: "依頼"
  game_concept_task_contracts_possessive: "依頼"
- game_concept_task_contract_desc: "$game_concept_task_contracts$は、[adventurers|E]が[gold|E]や[prestige|E]を稼ぐ主な手段である。さらに[provisions|E]、[piety|E]、さらには[artifacts|E]を手に入れることもあるだろう。\n\n各$game_concept_task_contract$は地元の[ruler|E]が出した任務であり、一般的に$game_concept_adventurer$が[scheme|E]を実行したり、[travel|E]を完遂したり、[war|E]で助太刀することが求められる。そして、報酬を得るとともに、[contractor|E]を[contact_list|E]に加えることができる。\n\nさらに多くの$game_concept_task_contracts$は、長距離の移動や新しい[kingdoms|E]への旅によって生成される。\n\n$game_concept_ruler$が提供する$game_concept_task_contract_possessive$や、[title_tier|E]が高ければ、それだけ[task_contract_tier_tier|E]も高くなる。高階級の任務は#EMP それ相応の#!報酬をもたらす。\n\n#alert_trial 注意：[criminal_task_contracts|E]の報酬は魅力的だが、無宿者の小狡い犯罪は、[landed|E]の[liege|E]よりも厳しい目で見られることには注意しろ。#!"
+ game_concept_task_contract_desc: "$game_concept_task_contracts$は、[adventurers|E]が[gold|E]や[prestige|E]を稼ぐ主な手段です。さらに[provisions|E]、[piety|E]、さらには[artifacts|E]を手に入れることもあるでしょう。\n\n各$game_concept_task_contract$は地元の[ruler|E]が出した任務であり、一般的に$game_concept_adventurer$が[scheme|E]を実行したり、[travel|E]を完遂したり、[war|E]で助太刀することが求められます。そして、報酬を得るとともに、[contractor|E]を[contact_list|E]に加えることができます。\n\nさらに多くの$game_concept_task_contracts$は、長距離の移動や新しい[kingdoms|E]への旅によって生成されます。\n\n$game_concept_ruler$が提供する$game_concept_task_contract_possessive$や、[title_tier|E]が高ければ、それだけ[task_contract_tier_tier|E]も高くなります。高階級の任務は#EMP それ相応の#!報酬をもたらすでしょう。\n\n#alert_trial 注意：[criminal_task_contracts|E]の報酬は魅力的だが、無宿者の小狡い犯罪は、[landed|E]の[liege|E]よりも厳しい目で見られることには注意しろ。#!"
  game_concept_task_contract_tier_i: "@task_contract_tier_icon!"
  game_concept_task_contract_tier: "$TASK_CONTRACT_CONTRACT$難度"
  game_concept_task_contract_tier_tier: "難度"

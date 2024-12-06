@@ -60,7 +60,7 @@
  LOVERS_LABEL:0 "愛人同士"
  FRIENDS_LABEL:0 "友人"
  RIVALS_LABEL:0 "ライバル"
- CRUSHES_LABEL:0 "片思い"
+ CRUSHES_LABEL:0 "想い人"
  BULLIES_LABEL:0 "いじめっ子"
  VICTIMS_LABEL:0 "犠牲者"
  CV_SECRETS_HEADER:0 "[CharacterWindow.GetCharacter.GetNamePossessiveOrMy|U]の[secrets|E]"

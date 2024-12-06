@@ -769,7 +769,7 @@
  tournament_improved_blade_memory_third_perspective:1 "熟練した武器職人が重要な大会の前に[owner.GetTitledFirstNamePossessive]の武器を鍛えてくれた"
  war_memory_cb_fallback:0 "戦争"
  war_memory_cb_holy_war:0 "聖戦"
- war_memory_cb_imperial_reconquest:0 "帝国の再征服戦争"
+ war_memory_cb_imperial_reconquest:0 "帝国領再征服戦争"
  war_memory_cb_conquest:0 "併合戦争"
  war_memory_cb_claim:0 "請求戦争"
  war_memory_cb_de_jure:0 "慣習的領域を巡る戦争"

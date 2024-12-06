@@ -52,7 +52,7 @@
  ep3_travel_events.3002.latin: "[local_lord.GetHerHis|U]の職員たちが我々に近づいてくる。かつては、これらのラテン人もローマの威厳を持ち、品位ある言葉遣いと振る舞いをしていたことだろう。しかし今では、まるで野蛮人のように早口でまくしたて、大声で財産や、我々の偉大な都市における[Glossary( '特権', 'SPECIAL_RIGHTS_GLOSS' )]を求めて騒いでいる。"
  SPECIAL_RIGHTS_GLOSS: "#bold 特権#!、すなわち関税なしでの交易やコンスタンティノープルにさらなる施設を設置する権利は、ヴェネツィア商人たちにとって長年の懸案事項であった。"
  ep3_travel_events.3002.vlach: "私の思いは、ヴラフ人の肉料理や羊のチーズ、そして彼らの惜しみないもてなしに向かう。この[local_lord.GetTitleAsNamePossessiveNoTooltip]の遊牧民たちはかつて猛々しい[Glossary( 'ダキア人', 'DACIANS_GLOSS' )]であったという…ローマ人が彼らの戸口に現れるまでは。"
- DACIANS_GLOSS: "#bold ダキア人#!カルパチア山脈周辺および黒海の西側に住んでいた古代の住民。トラヤヌス帝の征服後、短期間ではあるがローマ帝国の属州として「ローマ・ダキア」に統合された。"
+ DACIANS_GLOSS: "#bold ダキア人#!は、カルパチア山脈周辺および黒海の西側に住んでいた古代の住民。トラヤヌス帝の征服後、短期間ではあるがローマ帝国の属州として「ローマ領ダキア」に統合された。"
  ep3_travel_events.3002.generic: "我々の民の間に連絡がある以上、このような有力者たちの前に姿を現し、[ROOT.Char.GetCulture.GetNameNoTooltip]の美徳をもって彼らを感嘆させることは当然のことである。"
  insulted_by_visiting_emperor: "訪れたバシレウスの侮辱"
  honored_by_visiting_emperor: "旅するバシレウスによって称えられる歴史的な絆"
