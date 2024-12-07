@@ -26,7 +26,7 @@
  petition_liege.0101.t.construct_temple:0 "$petition_liege_header$ [petition_vassal.GetFaith.HouseOfWorship|U]の引き受け"
  petition_liege.0101.t.development:0 "$petition_liege_header$ 首都の開発"
  petition_liege.0101.desc:1 "最後に大広間に現れた[petition_vassal.GetTitledFirstName]は、すぐさま我が玉座に歩み寄り深々とお辞儀した。\n\n「お会いくださり感謝いたします、我が主。今日、私は火急の要件で参りました——"
- petition_liege.0101.desc.council_seat:0 "お願いです我が[petition_liege.GetLadyLord]、私に評議会の席をお与えください。」\n\n「私より劣った[petition_vassal.GetWomenMen]が最高の能力者などと言われる一方、私の才気は見落とされています。私なら[petition_vassal.Custom('GetCouncilPositionRequest')]として領国の重荷の一旦を受け持てます。」"
+ petition_liege.0101.desc.council_seat:0 "お願いです我が[petition_liege.GetLadyLord]、私に評議会の席をお与えください。」\n\n「私より劣った[petition_vassal.GetWomenMen]ごときが比類なき才などと言われる一方、私の才気は見落とされています。私なら[petition_vassal.Custom('GetCouncilPositionRequest')]として領国の重荷の一端を担うお許しを下さい！」"
  petition_liege.0101.desc.pay_debt:0 "私は私の力ではどうにもならない出来事により…少々、経済的な困難に陥っております。」\n\n「領国の利益のため、私の勘定を清算するのをお手伝いいただけませんか？」"
  petition_liege.0101.desc.war_aid:0 "[petition_war.GetName]はうまくいっておりません。[second_party.GetTitledFirstNameNoTooltip]が優位に立っております。」\n\n「我が[petition_liege.GetLadyLord]、私の敗北はあなた様の敗北でもあります。領国の利益のため、ご支援をお願いいたします。」"
  petition_liege.0101.desc.end_war:1 "[second_party.GetTitledFirstNameNoTooltip]は私と[petition_vassal.GetPrimaryTitle.GetName]の良き、忠実な臣下に対して戦争を起こしたのです！」\n\n「このような内輪揉めは我々を確実に弱体化させるだけであり、直ちに止めるべきではないでしょうか？」"
