@@ -112,7 +112,7 @@
  game_concept_contract_scheme_possessive: "依頼の計画"
  game_concept_contract_schemes_possessive: "依頼の計画"
  game_concept_contract_scheme_contract: "依頼"
- game_concept_contract_scheme_desc: "たくさんの$game_concept_task_contracts$が[scheme|E]を完遂してくれる[adventurers|E]を待っています。\nそれは楽しげなもの（例：依頼人の[court|E]を数ヶ月楽しませる）から事務作業（例：転写の代筆）、そして暴力的なもの（\n例：[contractor_possessive|E]の[rival|E]をブチ殺す）まで、さまざまなものがあります。\n\n$game_concept_scheme$を放棄した場合、$game_concept_task_contract$も自動的に失敗となります。"
+ game_concept_contract_scheme_desc: "たくさんの$game_concept_task_contracts$が[scheme|E]を完遂してくれる[adventurers|E]を待っています。\n\nそれは楽しげなもの（例：依頼人の[court|E]を数ヶ月楽しませる）から事務作業（例：転写の代筆）、そして暴力的なもの（例：[contractor_possessive|E]の[rival|E]をブチ殺す）まで、さまざまなものがあります。\n\n$game_concept_scheme$を放棄した場合、$game_concept_task_contract$も自動的に失敗となります。"
  game_concept_contact_list: "後援者名簿"
  game_concept_contact_list_contacts: "後援者"
  game_concept_contact_list_contact: "後援者"
