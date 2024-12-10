@@ -66,7 +66,7 @@
  funeral.0001.a: "何たる不幸か。"
  funeral.0001.a.tt: "[host.GetName]は死んだ。"
  funeral.0002.t: "葬儀での死"
- funeral.0002.desc: "遺族になる理由がまた一つ増えてしまった。主催者の[host.GetName]が[host.GetFaith.PositiveAfterLife]に旅立ったのだ。[host.GetHerHis]の後継者として幹事の業務を私が引き継がねばならない。\n\nこの活動が今すぐ終わるという訳では無いが、思っていたよりも次の葬儀も早めにくるかもしれない。"
+ funeral.0002.desc: "遺族になる理由がまた一つ増えてしまった。主催者の[host.GetName]が[host.GetFaith.PositiveAfterLife]に旅立ったのだ。[host.GetHerHis]の後継者として幹事の業務を私が引き継がねばならない。\n\nこの活動が今すぐ終わるという訳ではないが、思っていたよりも次の葬儀も早めにくるかもしれない。"
  funeral.0002.a: "やるべき事をこなしていこう。"
  funeral.0002.a.tt: "葬儀の主催はあなたに引き継がれました。"
  funeral.0010.t: "到着"

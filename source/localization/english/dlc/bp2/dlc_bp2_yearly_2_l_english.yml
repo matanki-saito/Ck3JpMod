@@ -125,7 +125,7 @@
  bp2_yearly.2025.a: "血だ、血だ、#EMP 血血血血血血血血血#!！！"
  imaginary_friend_mad_modifier_bribe_discount: "[schemes|E]に[agents|E]を勧誘するコストが50%下がります"
  bp2_yearly.2030.t: "最後の使者"
- bp2_yearly.2030.desc: "「#EMP [ROOT.Char.GetFirstNameNoTooltip]…#!」\n\n振り向いた。懐かしい、トモダチの[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]が…静謐そのものという様相で後ろに立っていた。\n\n「言わなければならないことがあるんだ。私はきみのことを幾年も影ながら支えてきたつもりだが、実はただの友人という訳では無い。私は使徒だ。[ROOT.Char.GetFaith.HighGodName]の使いだったんだよ」\n\n「最後にお願いがある。[target_holy_site.GetNameNoTier]で私への誇りを胸にして聖火をろうそくに灯して欲しい。そうすれば私は[ROOT.Char.GetFaith.PositiveAfterLife]へ飛び立てる」"
+ bp2_yearly.2030.desc: "「#EMP [ROOT.Char.GetFirstNameNoTooltip]…#!」\n\n振り向いた。懐かしい、トモダチの[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]が…静謐そのものという様相で後ろに立っていた。\n\n「言わなければならないことがあるんだ。私はきみのことを幾年も影ながら支えてきたつもりだが、実はただの友人という訳ではない。私は使徒だ。[ROOT.Char.GetFaith.HighGodName]の使いだったんだよ」\n\n「最後にお願いがある。[target_holy_site.GetNameNoTier]で私への誇りを胸にして聖火をろうそくに灯して欲しい。そうすれば私は[ROOT.Char.GetFaith.PositiveAfterLife]へ飛び立てる」"
  bp2_yearly.2030.a: "分かったよ、やるべきことをやろう。"
  bp2_yearly.2030.a.tt: "あなたの次の[target_holy_site.GetNameNoTier]への[GetActivityType('activity_pilgrimage').GetNameNoTooltip]は50%安くなります"
  bp2_yearly.2030.b: "本当？ちょっと…ついていけないんだけど…"

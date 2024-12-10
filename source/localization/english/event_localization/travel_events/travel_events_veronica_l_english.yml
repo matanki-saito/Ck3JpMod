@@ -284,7 +284,7 @@
  travel_events.3140.b.failure:0 "指揮官が戦いに勝つ"
  travel_events.3140.c:0 "あるいは我々は理解し合えるかもしれないが？"
  travel_events.3150.t:1 "不快な文句"
- travel_events.3150.desc:1 "私は[rival_scope.GetTitledFirstName]がいつも以上に私を避けていることに気がついた。[rival_scope.GetSheHe|U]は、宴会に誘われるといつもテーブルの反対側に座り、キャンプでは常に私の相手を拒否している。\n\nこっちこそ別に友人になりたいなどと思っている訳では無いが、いちいちそういう態度を取られると流石に疲れるというものだ。特に[rival_scope.GetHerHim]が私を中傷するのを耳にしたときなど…「[ROOT.Char.GetFirstNameNoTooltip]は[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]だ、私なら[ROOT.Char.GetHerHim]よりずっと良い[ROOT.Char.GetTitleAsNameNoTooltip]になれる自信があるね」"
+ travel_events.3150.desc:1 "私は[rival_scope.GetTitledFirstName]がいつも以上に私を避けていることに気がついた。[rival_scope.GetSheHe|U]は、宴会に誘われるといつもテーブルの反対側に座り、キャンプでは常に私の相手を拒否している。\n\nこっちこそ別に友人になりたいなどと思っている訳ではないが、いちいちそういう態度を取られると流石に疲れるというものだ。特に[rival_scope.GetHerHim]が私を中傷するのを耳にしたときなど…「[ROOT.Char.GetFirstNameNoTooltip]は[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]だ、私なら[ROOT.Char.GetHerHim]よりずっと良い[ROOT.Char.GetTitleAsNameNoTooltip]になれる自信があるね」"
  travel_events.3150.a:0 "立場の差というものを思い知らせてやる。"
  travel_events.3150.a.success:0 "あなたは[rival_scope.GetFirstNameNoTooltip]との決闘に勝利し[rival_scope.GetHerHim]を追放する"
  travel_events.3150.a.failure:0 "[rival_scope.GetFirstNameNoTooltip]は戦いに勝利して旅から去る"

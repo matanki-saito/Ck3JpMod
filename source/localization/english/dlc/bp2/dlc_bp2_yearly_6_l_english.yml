@@ -366,7 +366,7 @@
  bp2_yearly.6140.b: "人質がいるのは争いの為ではなく、平和の為だ。"
  bp2_yearly.6140.b.tt: "子供たちよ、#EMP 首が切られる#!ことがないように祈るがいい。"
  bp2_yearly.6150.t: "保証についてお話しましょう"
- bp2_yearly.6150.desc: "私のような[ROOT.Char.GetTitleAsName]が祝宴に出席したり、請願書を受け取る時、家族や召使いのそばに慣習的に人質も置かれることになっている。\n\nだが当の[hostage.GetFirstName]はこれがあまり好きでは無いらしい。\n\n｢なぜって…私は別に見せ物か、賞品という訳では無いですし｣と、[hostage.GetSheHe]は最後の請願書が差し出される中、ぼやく。\n\n｢[hostage.GetFaith.NegativeAfterLife]から引っ張ってこられた憐れな魂という訳では無いんですから、よってたかってそうじろじろ見ないでください。私がよそ者なのはご存知でしょう。それ以上でも以下でもありません｣"
+ bp2_yearly.6150.desc: "私のような[ROOT.Char.GetTitleAsName]が祝宴に出席したり、請願書を受け取る時、家族や召使いのそばに慣習的に人質も置かれることになっている。\n\nだが当の[hostage.GetFirstName]はこれがあまり好きでは無いらしい。\n\n｢なぜって…私は別に見せ物か、賞品という訳ではないですし｣と、[hostage.GetSheHe]は最後の請願書が差し出される中、ぼやく。\n\n｢[hostage.GetFaith.NegativeAfterLife]から引っ張ってこられた憐れな魂という訳では無いんですから、よってたかってそうじろじろ見ないでください。私がよそ者なのはご存知でしょう。それ以上でも以下でもありません｣"
  bp2_yearly.6150.a: "お前は家族だよ。だからここに立って欲しいのだ。"
  bp2_yearly.6150.a.tt: "恐れることは無い、お前は私たちの仲間だ。"
  bp2_yearly.6150.b: "なら…[ROOT.Char.GetFaith.PriestNeuterPlural]と勉強でもしてこい。"
