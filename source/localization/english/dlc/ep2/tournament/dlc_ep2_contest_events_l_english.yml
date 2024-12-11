@@ -174,7 +174,7 @@
  contest_events.0700.e:0 "話し合うのにふさわしい人を見つけられれば…"
  mysterious_stranger_archery:0 "[mysterious_stranger.GetFirstName]っていう無名の平民が、バッツで練習して以来、[activity.GetCurrentPhase.GetLocation.GetNameNoTooltip]で話題になっているらしい。\n\n"
  mysterious_stranger_recital:0 "[host.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]の吟遊詩人や詩人たちの間でも知られていなかった[mysterious_stranger.GetFirstName]という新参者が、今年大きな関心を集めている。\n\n"
- contest_events.0705.desc:1 "トランペットが鳴り、観客が歓声を上げ、競技者が集まり始める。大会は終わり、誰かのための晴れ舞台の準備が整った。先触れが一歩前に出て、その声が響く。\n\n「多くの試練と苦難、そして何よりも熱い戦いの末に、最後の三人が決まった。第三位は、ガッツのある[third_place.GetTitledFirstName]。惜しくも二位は[second_place.GetTitledFirstName]！そしてもちろん、優勝者は[contest_winner.GetTitledFirstName]!」\n\n"
+ contest_events.0705.desc:1 "トランペットが鳴り、観客が歓声を上げ、競技者が集まり始める。大会は終わり、誰かのための晴れ舞台の準備が整った。\n先触れが一歩前に出て、その声が響く。\n\n「多くの試練と苦難、そして何よりも熱い戦いの末に、最後の三人が決まった。\n第三位は、大胆な技を見せてくれた[third_place.GetTitledFirstName]。\n惜しくも二位に迫ったのは[second_place.GetTitledFirstName]！\nそして忘れてはならぬ、此度の優勝者は[contest_winner.GetTitledFirstName]！」\n\n"
  contest_events.0705.first:0 "勝てると信じていた！"
  contest_events.0705.second:0 "二位か、文句のつけようがないだろう。"
  contest_events.0705.third:0 "ああ、私は最下位の勝者か…"

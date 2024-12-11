@@ -475,7 +475,7 @@
  tournament_events.6012.a.ill:0 "私は、た、ただ、よ、横になっていれば、大丈夫、だ。"
  tournament_events.6012.a.poison:0 "こ、この飲み物は罪だ！"
  tournament_events.6012.a.slain:0 "#weak 誰が…！？#!"
- tournament_events.6012.a.caught:0 "#EMP 誰に頼まれた！？"
+ tournament_events.6012.a.caught:0 "#EMP 貴様、誰の差し金だ！？"
  tournament_events.6012.a:0 "大丈夫だ…"
  tournament_events.6013.t:0 "$tournament_events.6010.t$"
  tournament_events.6013.death:0 "私はできるだけ静かに[murder_target.GetHerHim]の背後に駆け寄ると、[murder_target.GetHerHis]の頭を掴み、首元に刃を突き立てる。\n\n[murder_target.GetSheHe|U]が早口で何かを話し死んでいく中、私はテントの迷路へと走り去った。"
