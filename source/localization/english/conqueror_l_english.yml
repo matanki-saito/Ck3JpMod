@@ -50,7 +50,7 @@
  peasant_draft_desc: "農民たちは、この人物の旗印の下に大勢押し寄せ、徴兵されたならば喜んで武器を取る。"
  conqueror_feed_county_gift: "[county_target.GetNameNoTooltip]がゴールドを贈る"
  conqueror_feed_county_gift_desc: "[county_target.GetName]の農民はあなたの征服に熱狂し、貢物を送ってきた。"
- conqueror_feed_knight_joins: "$knight_culture_player_no_tooltip$あなたの大義に参加する"
+ conqueror_feed_knight_joins: "$knight_culture_player_no_tooltip$があなたの大義に参加する"
  conqueror_feed_knight_joins_desc: "$knight_culture_player_no_tooltip$[knight.GetFullName]はあなたに忠誠を誓う！(@skill_prowess_icon!)"
  conqueror_feed_angry_vassal: "怒れる臣下が感心する"
  conqueror_feed_angry_vassal_desc: "あなたの[vassal|E]の[angry_vassal.GetFullName]があなたの征服に感心している。"
