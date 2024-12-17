@@ -528,7 +528,7 @@
  camp_gold_from_victories_or_nearby_battles_message_desc_victory: "[losing_side_owner.GetPrimaryTitle.GetAdjective]の戦利品は、[battle_province.GetName]での勝利の後に回収された"
  domicile_building_parameter_camp_better_scout_for_talent: "[GetTravelOption('adventurers_scout_for_talent_option').GetName]を利用してさらに[officers|E]を探す"
  domicile_building_parameter_camp_unlocks_head_porter_officer: "[GetCourtPositionType('head_porter_camp_officer').GetName()]の[officer|E]をアンロック"
- domicile_building_parameter_receives_more_escort_contracts: "さらに[transport_task_contracts|E]を受ける"
+ domicile_building_parameter_receives_more_escort_contracts: "[transport_task_contracts|E]の発生数が増加"
  domicile_building_parameter_fireside_chat_intent_unlock: "[GetActivityType('activity_camp_party').GetName][activity|E]の炉端談義の[intent|E]をアンロック"
  domicile_building_parameter_camp_unlocks_head_groom_officer: "[GetCourtPositionType('head_groom_camp_officer').GetName()]の[officer|E]をアンロック"
  domicile_building_parameter_camp_recruit_porters_events: "熟練した荷役人夫を雇用するイベントが不定期に発生"

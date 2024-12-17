@@ -15,7 +15,7 @@
  glory_hound_levy_contribution_add:0 "$glory_hound_vassal$[levy|E][modifier_base_contribution|E]"
  glory_hound_levy_contribution_mult:0 "$glory_hound_vassal$[levy|E][modifier_contribution|E]"
  courtly:0 "高貴である"
- courtly_desc:2 "$courtly$[vassals|E]は高貴さと伝統を重んじ、その地位が脅かされないことを望むでしょう。社交的だったり慈悲深い封臣はこの[vassal_stance|E]になりがちです。\n\n#low $courtly$封臣を主君が好む時は#!\n$EFFECT_LIST_BULLET$[court_positions|E]を与えるでしょう\n$EFFECT_LIST_BULLET$新しい[titles|E]を作るでしょう\n$EFFECT_LIST_BULLET$[GetActivityType('activity_feast').GetName][activities|E]に招待を行うでしょう\n\n#low $courtly$封臣を主君が嫌う時は#!\n$EFFECT_LIST_BULLET$[titles|E]を[lowborn|E]の人物にあげること\n$EFFECT_LIST_BULLET$[lowborn|E]人物と[marries|E]すること\n$EFFECT_LIST_BULLET$[disinherits|E]する議論の余地が無い[heirs|E]\n\n彼らは高い[diplomacy_i][diplomacy|E]を持つ、社交的で慈悲深い[heirs|E]を好む。"
+ courtly_desc:2 "$courtly$[vassals|E]は高貴さと伝統を重んじ、その地位が脅かされないことを望むでしょう。社交的だったり慈悲深い封臣はこの[vassal_stance|E]になりがちです。\n\n#low $courtly$封臣は以下のような主君を好むでしょう#!\n$EFFECT_LIST_BULLET$[court_positions|E]を与える\n$EFFECT_LIST_BULLET$新しい[titles|E]を作る\n$EFFECT_LIST_BULLET$[GetActivityType('activity_feast').GetName][activities|E]に招待を行う\n\n#low $courtly$封臣は以下のような主君を嫌うでしょう#!\n$EFFECT_LIST_BULLET$[titles|E]を[lowborn|E]の人物に授与する\n$EFFECT_LIST_BULLET$[lowborn|E]の人物と[marries|E]する\n$EFFECT_LIST_BULLET$議論の余地が無い[heirs|E]を[disinherits|E]する\n\n彼らは高い[diplomacy_i][diplomacy|E]を持つ、社交的で慈悲深い[heirs|E]を好みます。"
  courtly_filter_option:0 "$courtly$"
  courtly_filter_option_desc:0 "[GetVassalStance( 'courtly' ).GetName][vassal_stance|E]を持つ人物のみ表示"
  courtly_vassal:0 "[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName][vassal|E]"
