@@ -139,7 +139,7 @@
  tour_general.1001.desc:0 "\n\nつまり[visiting_liege.GetTitleAsNameNoTooltip]は[tour_general_3001_target_courtier.GetHerHim]を[visiting_liege.GetTitleAsNamePossessiveNoTooltip]の宮廷に移したいのだ。"
  tour_general.1001.desc_theft_liege:0 "\n\n私の小さな懸念と共に、[visiting_liege.GetTitleAsNameNoTooltip]は夜の間に[tour_general_3001_target_courtier.GetTitledFirstNameNoTooltip]を[visiting_liege.GetTitleAsNamePossessiveNoTooltip]の宮廷に強制的に移動させようとしたようにも思える。"
  tour_general.1001.outro:0 "\n\nこれは確かに[visiting_liege.GetHerHim]に私の善行を示す機会だ！"
- tour_general.1001.outro_unusual_courtier:0 "\n\n私の[ROOT.Char.Custom2('RelationToMePossessive', visiting_liege )]の推論は特に理解でききないが、私は[tour_general_3001_target_courtier.GetHerHim]を失うことについてはあまり懸念はしていない。"
+ tour_general.1001.outro_unusual_courtier:0 "\n\n私の[ROOT.Char.Custom2('RelationToMePossessive', visiting_liege )]の推論は特に理解できないが、私は[tour_general_3001_target_courtier.GetHerHim]を失うことについてはあまり懸念はしていない。"
  tour_general.1001.outro_unusual_host_unusual_courtier:0 "\n\n私が[tour_general_3001_target_courtier.GetTitledFirstNameNoTooltip]を周囲に置いておきたい#EMP 理由はいくつか#!思い当たる。しかしながら…"
  tour_general.1001.outro_theft_liege:0 "\n\n言うまでもなく、これはさまざまな意味で私をうんざりさせる。"
  tour_general.1001.outro_theft_liege_unusual_courtier:0 "\n\n確かに、私には[visiting_liege.GetTitledFirstName]が[tour_general_3001_target_courtier.GetTitledFirstNameNoTooltip]を欲しがる理由は分からないが、[tour_general_3001_target_courtier.GetSheHe]は#EMP 私の#![ROOT.Char.Custom2('RelationToMeShort', tour_general_3001_target_courtier )]なのだ、くそっ。"

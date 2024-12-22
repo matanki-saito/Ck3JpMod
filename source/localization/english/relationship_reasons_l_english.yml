@@ -1959,7 +1959,7 @@
  rival_mugged_me: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]を路上で襲撃した。"
  rival_mugged_me_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を路上で襲撃した。"
  rival_attempted_to_mug_me: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]を町の裏道で襲撃しようとした。"
- rival_attempted_to_mug_me_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]をを町の裏道で襲撃しようとした。"
+ rival_attempted_to_mug_me_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を町の裏道で襲撃しようとした。"
  rival_accused_of_stealing_land: "[TARGET_CHARACTER.GetShortUIName]が自作農の土地を買い占めた後、[CHARACTER.GetShortUIName]は[TARGET_CHARACTER.GetShortUIName]に土地泥棒の罪を着せた。"
  rival_accused_of_stealing_land_corresponding: "[CHARACTER.GetShortUIName]が自作農の土地を買い占めた後、[TARGET_CHARACTER.GetShortUIName]は[CHARACTER.GetShortUIName]に土地泥棒の罪を着せた。"
  rival_denigrated_in_the_hippodrome: "[CHARACTER.GetShortUIName|U]は数千人の聴衆が聞く演説で公然と[TARGET_CHARACTER.GetShortUIName]の名誉を汚し、継承候補者としての[TARGET_CHARACTER.GetShortUIName]を軽蔑した。"

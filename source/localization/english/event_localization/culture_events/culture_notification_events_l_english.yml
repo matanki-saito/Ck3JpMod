@@ -9,7 +9,7 @@
  culture_notification.1011.intro:1 "良好な関係や文化的交流の増加に後押しされ、[parent_1.GetName]と[parent_2.GetName]の人々は年を追うごとにますます親密になった。今では両社会の人々はどちらか一方ではなく、同時に両方の立場から自分たちを見るようになった――新しい[new_culture.GetName]文化である。\n\n"
  culture_notification.1011.hybrid_primary_1:1 "[parent_1.GetNameNoTooltip]の伝統と価値観がこの新しい文化のバックボーンを形成し、様々な[parent_2.GetNameNoTooltip]の属性が新しい社会のニーズに合わせて適応・統合されてきた。"
  culture_notification.1011.hybrid_primary_2:1 "[parent_2.GetNameNoTooltip]の伝統と価値観がこの新しい文化のバックボーンを形成し、様々な[parent_1.GetNameNoTooltip]の属性が新しい社会のニーズに合わせて適応・統合されてきた。"
- culture_notification.1011.hybrid_no_primary:1 "[new_culture.GetNameNoTooltip]の人々は、両文化の要素を均等に取り入れ、両世界の要素を円滑にに融合させた真の混合文化を形成している。"
+ culture_notification.1011.hybrid_no_primary:1 "[new_culture.GetNameNoTooltip]の人々は、両文化の要素を均等に取り入れ、両世界の要素を円滑に融合させた真の混合文化を形成している。"
  culture_notification.1011.outro.other:0 "$culture_notification.1111.outro.other$"
  culture_notification.1011.outro.founder:0 "$culture_notification.1111.outro.founder$"
  culture_notification.1011.a.other:0 "$culture_notification.1111.a.other$"

@@ -408,7 +408,7 @@
  hold_court.8161.desc.intro:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('victim'))][victim.GetTitledFirstName]は、不機嫌そうな[victim.GetHerHis]の[victim.GetPrimarySpouse.GetWifeHusband][victim.GetPrimarySpouse.GetFirstName]に付き添われて、不安そうに前へと出てくる。\n\n[victim.GetPrimarySpouse.GetSheHe|U]は勢いよく話し始める。「我が[ROOT.Char.GetLadyLord]、[accused.GetTitledFirstName]は私の[victim.GetWifeHusband]を誘惑しようとしているのです——これは[victim.GetPrimarySpouse.GetFaith.HighGodName]への冒涜です！"
  hold_court.8161.desc.nemesis:0 "あの[accused.Custom('InsultAdjective')][accused.Custom('InsultNoun')]は私の人生を台無しにするためなら手段を選ばないでしょう！」"
  hold_court.8161.desc.rival:0 "憎むべき[accused.Custom('InsultNoun')]は[accused.GetHerHis]のライバル関係を演じることで私を窮地に陥れようとしているのです！」"
- hold_court.8161.desc.quarry:0 "[accused.GetSheHe|U]は明らかに私の美しい配偶者に欲情しており、自身をを抑えることができないのです！」"
+ hold_court.8161.desc.quarry:0 "[accused.GetSheHe|U]は明らかに私の美しい配偶者に欲情しており、自身を抑えることができないのです！」"
  hold_court.8161.desc.their_dislike:0 "[accused.GetSheHe|U]は私を好きだったことなどありません！[accused.GetHerHim]に違いありません！」"
  hold_court.8161.desc.my_dislike:0 "私は[accused.GetHerHim]を好きだったことなどありません、明らかに正当な理由です！」"
  hold_court.8161.desc.intrigue:0 "誰もが知っているように[accused.GetSheHe]は卑しむべき策略家であり、網を張り巡らし、命を弄ぶのです！」"

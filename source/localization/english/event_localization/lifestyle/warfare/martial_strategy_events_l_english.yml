@@ -177,7 +177,7 @@
  martial_strategy_special.1402.t:0 "行軍にて"
  martial_strategy_special.1402.desc:2 "沿道の酒場からひどい騒ぎが聞こえてくる。$knight_culture_player_plural_no_tooltip_lowercase$の一人が扉を蹴り開けると、屋内は手に負えない多くの兵士で満杯であった。\n\n私の登場に彼らは黙り込んでしまい、言葉も交わさずに大酒杯（タンカード）の中を見つめている。店主は目を細めて言う。「それで、この暴徒どもの飼い主は#EMP あなた様#!でよろしいですか？」"
  martial_strategy_special.1402.a:0 "賠償金を払うだけの小銭は持っている。"
- martial_strategy_special.1402.a.tt:2 "#F 乱暴な兵士に対処することは乱暴な宿屋よりも簡単であり、あなたは捜索を続けなければなならない。#!"
+ martial_strategy_special.1402.a.tt:2 "#F 乱暴な兵士に対処することは乱暴な宿屋よりも簡単であり、あなたは捜索を続けなければならない。#!"
  martial_strategy_special.1402.b:0 "この兵士たちの考えは正しい。酒を注いでくれ！"
  martial_strategy_special.1402.b.tt:1 "#F 庶民と酒を飲む！なんて人生だろう！少なくとも捜索は続けなければならない#!"
  martial_strategy_special.1402.c:0 "規律のない兵士どもを扱うのはもう飽きた。"

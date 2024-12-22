@@ -162,7 +162,7 @@
  game_concept_scheme:0 "計画"
  game_concept_scheming:0 "計画"
  game_concept_schemes:0 "計画"
- game_concept_scheme_desc:3 "$game_concept_scheme$は、あなたを取り巻く世界にに影響を与えようとする長期的な試みのことです。$game_concept_schemes$は[characters|e]、[titles|e]、[cultures|e]及び[faiths|e]を対象とし、以下の4つのタイプがあります。:[personal|e]、[scheme_hostile|e]、[political|e]及び[contract_schemes|e]\n\n$game_concept_scheme$の[success_chance|e]は、関連する[skill|e]にどれだけ熟達しているかによって時間と共に増加し、それは$game_concept_scheme$に参画する[agents|e]によっても影響を受けます。\n\n#WEAK [secret_schemes|e]はそのターゲットから秘匿されていますが、[secrecy|e]が低い場合はターゲットに気づかれる可能性があります。#!"
+ game_concept_scheme_desc:3 "$game_concept_scheme$は、あなたを取り巻く世界に影響を与えようとする長期的な試みのことです。$game_concept_schemes$は[characters|e]、[titles|e]、[cultures|e]及び[faiths|e]を対象とし、以下の4つのタイプがあります。:[personal|e]、[scheme_hostile|e]、[political|e]及び[contract_schemes|e]\n\n$game_concept_scheme$の[success_chance|e]は、関連する[skill|e]にどれだけ熟達しているかによって時間と共に増加し、それは$game_concept_scheme$に参画する[agents|e]によっても影響を受けます。\n\n#WEAK [secret_schemes|e]はそのターゲットから秘匿されていますが、[secrecy|e]が低い場合はターゲットに気づかれる可能性があります。#!"
  game_concept_personal_scheme:0 "個人計画"
  game_concept_personal_schemes:0 "個人計画"
  game_concept_personal:0 "個人的"

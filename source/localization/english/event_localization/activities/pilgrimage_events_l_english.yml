@@ -398,7 +398,7 @@
  pilgrimage_random_pilgrim_tt:0 "ランダムな巡礼者が死に、[family|E]のメンバーが動揺します"
  pilgrimage_fell_overboard_tt:0 "[victim_pilgrim.GetFirstName]が海に落ちました"
  pilgrimage.1110.t:0 "$pilgrimage_header$ [ROOT.Char.Custom2('GetUnbelieverTerm', heathen_raider)|U]の略奪"
- pilgrimage.1110.desc:0 "[heathen_raider_county.GetNameNoTierNoTooltip]の[ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')]を横断していると、我々は[heathen_raider.GetFaith.GetAdjective][heathen_raider.GetFaith.ReligiousSymbol]で飾られた小さな軍勢の旗を目にする。彼らはボロボロの放浪者で、[ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetLocation.GetName]に向かう巡礼者を食い物にしている。\n\nその指導者はは素早く道を塞ぐと、[ROOT.Char.GetHerHis]の馬を立たせ、自身をを[heathen_raider.GetFirstName]として宣言する。"
+ pilgrimage.1110.desc:0 "[heathen_raider_county.GetNameNoTierNoTooltip]の[ROOT.Char.GetCurrentLocation.Custom('GetTerrainTypePlural')]を横断していると、我々は[heathen_raider.GetFaith.GetAdjective][heathen_raider.GetFaith.ReligiousSymbol]で飾られた小さな軍勢の旗を目にする。彼らはボロボロの放浪者で、[ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetLocation.GetName]に向かう巡礼者を食い物にしている。\n\nその指導者は素早く道を塞ぐと、[ROOT.Char.GetHerHis]の馬を立たせ、自身を[heathen_raider.GetFirstName]として宣言する。"
  pilgrimage.1110.shared_target_heathen_hajj:0 "「止まれ、[ROOT.Char.Custom2('GetUnbelieverTerm', heathen_raider)]！[ROOT.Char.GetFaith.HighGodName]の名において、[ROOT.Char.GetFaith.GetAdherentNamePlural]はカアバの通行料を払わなければならぬ。」"
  pilgrimage.1110.shared_target_controlled_hajj:0 "「カアバを見るための小さな支払いが、その[heathen_raider.Custom2('GetUnbelieverTermAdjective', ROOT.Char)][ROOT.Char.GetFaith.GetAdjective]の管理者たちに求めるすべてだ。」"
  pilgrimage.1110.shared_target_heathen_jerusalem:0 "「恐れるな、[heathen_raider.Custom2('GetUnbelieverTermPlural', ROOT.Char)]よ、僅かな料金で我々の聖なる都市の驚異が待っている。」"

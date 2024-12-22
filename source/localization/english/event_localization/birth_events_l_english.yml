@@ -186,7 +186,7 @@
  birth.1010.desc:0 "[mother.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が[child.Custom('GetDaughterSon')]を産んでくれた！\n\nこの子は[ROOT.Char.GetDynasty.GetName]王朝の一員なのだから、[child.GetSheHe]には良い名前が授けられるべきだ。"
  birth.1010.t_twins:0 "我が王朝の子"
  birth.9004.t:0 "名前がなんだというの？"
- birth.9004.desc.me:0 "[ROOT.Char.GetFirstNameNoTooltip]。\n\n時折思うのだが、これは未来の歴史家がどう読むか考え込んでしまうような、何とも冴えない名前だ。\n\n私は[ROOT.Char.GetTitleAsNameNoTooltip]なのだし、別の名で呼んで欲しいのなら、世界にその名をを知らしめるだけでよいのではないか？"
+ birth.9004.desc.me:0 "[ROOT.Char.GetFirstNameNoTooltip]。\n\n時折思うのだが、これは未来の歴史家がどう読むか考え込んでしまうような、何とも冴えない名前だ。\n\n私は[ROOT.Char.GetTitleAsNameNoTooltip]なのだし、別の名で呼んで欲しいのなら、世界にその名を知らしめるだけでよいのではないか？"
  birth.9004.a:0 "ああ、#EMP もっと#!良い名前がいい！"
  birth.9004.b:0 "よく考えると、[ROOT.Char.GetFirstNameNoTooltip]は良い名前だ…"
  birth.9004.b.tt:0 "あなたは以前の名前のままでいます。"

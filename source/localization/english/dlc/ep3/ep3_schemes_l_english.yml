@@ -87,7 +87,7 @@
  SCHEME_I_AM_DIARCH_OF_HOLDER: "現在の[governor|E]の[diarch|E]である：$VALUE|+0=$"
  SCHEME_I_AM_COUNCILLOR_OF_HOLDER: "現在の[governor|E]の[councillor|E]である：$VALUE|+0=$"
  SCHEME_TARGET_IS_LOVER_OF_HOLDER: "現在の[governor|E]があなたの愛人である：$VALUE|+0=$"
- SCHEME_TARGET_IS_SPOUSE_OF_HOLDER: "現在の[governor|E]ががあなたの[spouse|E]である：$VALUE|+0=$"
+ SCHEME_TARGET_IS_SPOUSE_OF_HOLDER: "現在の[governor|E]があなたの[spouse|E]である：$VALUE|+0=$"
  SCHEME_TARGET_IS_CLOSE_FAMILY_OF_HOLDER: "現在の[governor|E]があなたの[close_family|E]である：$VALUE|+0=$"
  SCHEME_VENGEFUL_RIVAL_OF_HOLDER: "あなたは[GetTrait('vengeful').GetName( GetNullCharacter )]人間であり、現在の[governor|E]がライバルである：$VALUE|+0=$"
  SCHEME_EYE_FOR_AN_EYE_HOLDER: "あなたの[culture|E]が$tradition_eye_for_an_eye_name$の[culture_tradition|E]を持っており、現在の[governor|E]があなたのライバルである：$VALUE|+0=$"

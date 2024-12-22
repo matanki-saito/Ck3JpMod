@@ -8,7 +8,7 @@
  ep3_roman_restoration.0100.a: "中途半端は許されない。"
  ep3_roman_restoration.0100.b: "何事もほどほどが肝要だ。"
  ep3_roman_restoration.hard_mode: "@warning_icon! #XB;EMP これより次の災厄に直面する#!#indent_newline:4 #X \n$EFFECT_LIST_BULLET$ あなたの[realm|E]内のすべての[peasant_factions|E]があなたを標的にする  \n$EFFECT_LIST_BULLET$ 他の王国[titles|E]からの[wars|E]が増加する  \n$EFFECT_LIST_BULLET$ [epidemic|E]の頻度が増加する  \n$EFFECT_LIST_BULLET$ モンゴルの侵攻が加速する#!#!  "
- ep3_roman_restoration.end_hard_mode: "@alert_icon! #alert_bold これらの試練は、全マップを征服するか、[GetDecisionWithKey( 'split_roman_empire_decision' ).GetName]の[decision|E]を選択することで終了します。"
+ ep3_roman_restoration.end_hard_mode: "@alert_icon! #alert_bold これらの試練は、全マップを征服するか、[GetDecisionWithKey( 'split_roman_empire_decision' ).GetName]の[decision|E]を実行することで終了します。"
  ep3_roman_restoration.invasion_cb: "[pax_romana_invasion_casus_belli|E]を使用できる"
  ep3_roman_restoration.household_gods_tenet: "[GetFaithByKey( 'hellenic_pagan' ).GetName]は[GetFaithDoctrine('tenet_household_gods').GetBaseName] [core_tenet|E]が解禁される"
  ep3_roman_restoration.easy_mode: "#P;BOLD;EMP ゲームは通常通り進行する#!"

@@ -334,7 +334,7 @@
  travel_events.2029.c:0 "#EMP 真の主人#!とやらについてもっと教えてくれ。"
  travel_events.2029.d:0 "うーん…わかった。"
  travel_events.2030.t:0 "不信仰者の告白"
- travel_events.2030.desc:0 "ある朝、[entourage_chaplain.GetTitledFirstName]が手をぐっと握りしめて私のところへやってきた。「閣下、そして我が[entourage_chaplain.Custom2('RelationToMe', ROOT.Char)]、私は最も恐ろしい告白をいたします。」\n\n[entourage_chaplain.GetSheHe|U]は重いため息をつく。昨夜の[crop_circler.Custom('GetLassLad')]のような、明らかに非常識な…教えを受け入れるわけではありませんが、私には…#EMP 疑い#!があるのです。」[entourage_chaplain.GetFirstNameNoTooltip]は[entourage_chaplain.GetHerHis]の苦境への同情を求めるかのように、私をじっと見つめる。\n\n「[entourage_chaplain.GetFaith.HighGodName]が本当に存在し、我々をを見守ってくれているのか、私には確信が持てないだけなのです。」[entourage_chaplain.GetSheHe|U]は、劇的なポーズを取りながら言い終える。"
+ travel_events.2030.desc:0 "ある朝、[entourage_chaplain.GetTitledFirstName]が手をぐっと握りしめて私のところへやってきた。「閣下、そして我が[entourage_chaplain.Custom2('RelationToMe', ROOT.Char)]、私は最も恐ろしい告白をいたします。」\n\n[entourage_chaplain.GetSheHe|U]は重いため息をつく。昨夜の[crop_circler.Custom('GetLassLad')]のような、明らかに非常識な…教えを受け入れるわけではありませんが、私には…#EMP 疑い#!があるのです。」[entourage_chaplain.GetFirstNameNoTooltip]は[entourage_chaplain.GetHerHis]の苦境への同情を求めるかのように、私をじっと見つめる。\n\n「[entourage_chaplain.GetFaith.HighGodName]が本当に存在し、我々を見守ってくれているのか、私には確信が持てないだけなのです。」[entourage_chaplain.GetSheHe|U]は、劇的なポーズを取りながら言い終える。"
  travel_events.2030.a:0 "それで大丈夫だ。"
  travel_events.2030.b:0 "これは#EMP 受け入れられない#!！"
  travel_events.2031.t:0 "大地の子宮"

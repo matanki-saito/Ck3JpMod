@@ -51,7 +51,7 @@
  fp3_clan.8004.a.failure: "企みは裏目に出る"
  fp3_clan.8004.a.failure.tt: "[clan_member.GetTitledFirstNameNoTooltip]は平然としている。"
  fp3_clan.8005.t: "適切な立ち位置"
- fp3_clan.8005.desc: "「…しかし、それはあまりに不公平というものでしょう」文句を言っているのは[ambitious_consort.GetTitledFirstName]だ。長年我慢してきた不満を一度口にしてからというもの、堰を切ったように止まる気配がない。\n\n「[heir_child.GetFirstName]、[heir_parent.GetTitledFirstName]の[heir_child.Custom('GetDaughterSon')]というだけで甘やかされてきた者。それに飽き足らず[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]を継承し、私の賢き[empowered_child.Custom('GirlBoy')]、[empowered_child.GetFirstName]にには残りカスのようなものしか与えられないとは！\n\n[empowered_child.GetFirstNameNoTooltip]に[title_to_grant.GetName]を一度だけでも与えて下さいませんか。[empowered_child.GetSheHe]はそれだけでも十分、抜きん出た才覚を発揮してくれるはずです！」"
+ fp3_clan.8005.desc: "「…しかし、それはあまりに不公平というものでしょう」文句を言っているのは[ambitious_consort.GetTitledFirstName]だ。長年我慢してきた不満を一度口にしてからというもの、堰を切ったように止まる気配がない。\n\n「[heir_child.GetFirstName]、[heir_parent.GetTitledFirstName]の[heir_child.Custom('GetDaughterSon')]というだけで甘やかされてきた者。それに飽き足らず[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]を継承し、私の賢き[empowered_child.Custom('GirlBoy')]、[empowered_child.GetFirstName]には残りカスのようなものしか与えられないとは！\n\n[empowered_child.GetFirstNameNoTooltip]に[title_to_grant.GetName]を一度だけでも与えて下さいませんか。[empowered_child.GetSheHe]はそれだけでも十分、抜きん出た才覚を発揮してくれるはずです！」"
  fp3_clan.8005.a: "#EMP ありえん#!、正気か？二度とそんなことを言うな。"
  fp3_clan.8005.b: "バカげている。だが一理ある…"
  fp3_clan.8005.d: "いや、[empowered_child.GetSheHe|U]は称号を得るには若すぎるだろう！"

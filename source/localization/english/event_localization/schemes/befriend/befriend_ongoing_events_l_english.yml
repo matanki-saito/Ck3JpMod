@@ -5,7 +5,7 @@
  befriend_ongoing.0902.t:0 "親善: 魅了された聴衆"
  befriend_ongoing.0902.t.other:0 "親善: 閉じこもる"
  befriend_ongoing.0902.desc:0 "私は[target.Custom2('MyCharacterIntroduction', ROOT.Char)]を投獄した。\n\nたとえ[target.GetSheHe]が捕虜になっている間、[target.GetSheHe]に私と一緒に過ごす時間がたっぷりとあるとしても、[target.GetSheHe]が友情を勝ち取ろうとする私の試みを受け入れる可能性はほとんどないだろう。"
- befriend_ongoing.0902.desc.other:0 "[target.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[imprisoner.Custom2('MyCharacterIntroduction', ROOT.Char)]によって投獄されている！[target.GetSheHe]が囚われの身である限り、私は[target.GetHerHis]の友情を勝ち取ることはできなないだろう。"
+ befriend_ongoing.0902.desc.other:0 "[target.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[imprisoner.Custom2('MyCharacterIntroduction', ROOT.Char)]によって投獄されている！[target.GetSheHe]が囚われの身である限り、私は[target.GetHerHis]の友情を勝ち取ることはできないだろう。"
  befriend_ongoing.0902.a:0 "なぜだ！？私は偉大な捕縛者だぞ！"
  befriend_ongoing.0902.a.other:0 "悲しきかな。"
  befriend_ongoing.0903.t:0 "親善: 戦争と友情"

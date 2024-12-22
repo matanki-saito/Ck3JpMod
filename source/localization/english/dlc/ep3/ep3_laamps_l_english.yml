@@ -28,7 +28,7 @@
  adventurer_name_023: "[new_landless_adventurer_house.GetBaseNameNoTooltip|U]の[new_landless_adventurer.Custom('GetAdventureNameWeapon')|U]"
  adventurer_name_024: "[new_landless_adventurer.GetFaith.KnowledgeGodName]の[new_landless_adventurer.Custom('GetAdventureNameSuffix')|U]"
  adventurer_name_025: "[new_landless_adventurer.GetFaith.EvilGodNames]の[new_landless_adventurer.Custom('GetAdventureNameWeapon')|U]"
- adventurer_name_0026: "[new_landless_adventurer.GetFirstNamePossessiveNoTooltip]の[new_landless_adventurer.Custom('GetAdventureNameBand')|U]団"
+ adventurer_name_0026: "[new_landless_adventurer.GetFirstNamePossessiveNoTooltip]の[new_landless_adventurer.Custom('GetAdventureNameBand')|U]"
  adventurer_name_0027: "[new_landless_adventurer.Custom('GetAdventureNamePrefixes')|U][new_landless_adventurer.Custom('KnightCulturePluralNoTooltip')]"
  main_building_estate_building: "母屋"
  bonus_building_estate_building: "離れ"

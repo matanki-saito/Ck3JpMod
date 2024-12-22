@@ -69,7 +69,7 @@
  wedding_web_of_secrets_modifier:0 "秘密の網"
  wedding_web_of_secrets_modifier_desc:0 "この人物が彼らの秘密の暴露を力強く阻止した後、彼らは謎のオーラを獲得した。"
  wedding_trust_compromised_modifier:0 "傷つけられた信頼"
- wedding_trust_compromised_modifier_desc:0 "新しい配偶者が秘密を隠していることを知った後、この人物は用心深くなり、警戒するようにななった。"
+ wedding_trust_compromised_modifier_desc:0 "新しい配偶者が秘密を隠していることを知った後、この人物は用心深くなり、警戒するようになった。"
  gwedding_hosted_murder_wedding_modifier:1 "主催者への不信"
  gwedding_hosted_murder_wedding_modifier_desc:1 "この人物は彼らが企画した結婚式で配偶者を守ることができなかった。"
  wedding_peasants_connections_county_modifier:0 "農民との結びつき"
