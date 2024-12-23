@@ -346,7 +346,7 @@
  seduce_ongoing.4107.desc:0 "[target.GetTitledFirstNamePossessive]のバルコニーに着くとすぐに[target.GetSheHe]は[target.GetHerHis]の顔に[target.Custom('quirk_neg_adjective')]険しい表情を浮かべて外に出た。\n\n「何て馬鹿な真似をするのです、[ROOT.Char.GetFirstNameNoTooltip]？あなたは——[ROOT.Char.GetTitleTierName]です！これはふさわしい行動ではありません。」"
  seduce_ongoing.4107.a:0 "もっとうまくいくはずだった…"
  seduce_ongoing.4107.a.tt:0 "#F こんな疑り深い[target.GetWomanMan]に忍び寄らないように気をつけるべきだった！#!"
- seduce_ongoing.4108.desc:0 "夜になり、自分の寝室に引きこもっていた私は、窓を叩く小石のような音にびっくりした。暗い庭を覗き込むと、紙片にを包んで地面に置かれている[SCOPE.Custom('SeductionObjectIndefinite')]と、夜の闇に消えていく[owner.GetTitledFirstName]らしき[owner.GetWomanMan]が目に入った。\n\n#EMP [ROOT.Char.Custom2('ComplimentAdjective', ROOT.Char)][ROOT.Char.GetTitledFirstNameNoTooltip]への私の気持ちの証として。#!"
+ seduce_ongoing.4108.desc:0 "夜になり、自分の寝室に引きこもっていた私は、窓を叩く小石のような音にびっくりした。暗い庭を覗き込むと、紙片に包んで地面に置かれている[SCOPE.Custom('SeductionObjectIndefinite')]と、夜の闇に消えていく[owner.GetTitledFirstName]らしき[owner.GetWomanMan]が目に入った。\n\n#EMP [ROOT.Char.Custom2('ComplimentAdjective', ROOT.Char)][ROOT.Char.GetTitledFirstNameNoTooltip]への私の気持ちの証として。#!"
  seduce_ongoing.4108.a:0 "今度は[owner.GetHerHim]に見つけてもらうために、[SCOPE.Custom('SeductionObjectIndefinite')]を残しておきます!"
  seduce_ongoing.4108.b:0 "一体これをどうしろというんだ？売ってしまえ！"
  seduce_ongoing.4109.desc:1 "二つの[SCOPE.Custom('SeductionObjectMultiple')]が、私の部屋で待っている。メモも挨拶も無いが、確かに[ROOT.Char.Custom2('ComplimentAdjective', SCOPE.sC('target'))][target.GetTitledFirstName]の甘い香りが漂っている！"

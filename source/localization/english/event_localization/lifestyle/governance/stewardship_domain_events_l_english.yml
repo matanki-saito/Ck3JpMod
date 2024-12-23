@@ -361,7 +361,7 @@
  stewardship_domain_special.1590.good:0 "調査員たちは領内資産の正確な推定をまとめた"
  stewardship_domain_special.1590.good.desc:0 "調査員たちは領内資産の正確な推定をまとめた 。このおかげで得られるべき重要な税金を徴税人たちが間違えることがなくなるだろう。"
  stewardship_domain_special.1590.mediocre:0 "調査員たちは領内資産の漠然とした推定をまとめた"
- stewardship_domain_special.1590.mediocre.desc:0 "調査員たちは領内資産の漠然とした推定しかまとめられなかった。役立つとはいえ、得られるべき税金をについてほぼ確実に間違いを起こすだろう。"
+ stewardship_domain_special.1590.mediocre.desc:0 "調査員たちは領内資産の漠然とした推定しかまとめられなかった。役立つとはいえ、得られるべき税金についてほぼ確実に間違いを起こすだろう。"
  stewardship_domain_special.1590.poor:0 "調査は不正確すぎるため役に立たない"
  stewardship_domain_special.1590.poor.desc:0 "不幸なことに調査官たちは不正確な査察をまとめたので、まったく役に立たない！今年も徴税人たちは自分の帳簿で仕事をするだろう…"
  stewardship_domain_special.1590.none.desc:0 "\n\n驚くべきことに、わが国の領邦は一つ残らず査察から除外される免除措置をどうにかして獲得していた。結果として、わが領国のどの保有地についても文字通りなんの情報も、完成した記録には一切含まれていない。"

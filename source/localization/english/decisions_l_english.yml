@@ -714,7 +714,7 @@
  negotiate_the_danelaw_decision_tooltip:0 "最強のライバルと$k_england$を二つに分割することを検討します"
  negotiate_the_danelaw.valid_opponent.tt:0 "交渉先として有効な相手が必要です"
  negotiate_the_danelaw.controlled_duchies.tt:0 "$k_england$の[de_jure|E]内の少なくとも二つの[duchies|E]を[completely_control|E]している必要があります"
- negotiate_the_danelaw.preview.tt:0 "あなたはを領国を分割することが有益であるかどうかを考えます…"
+ negotiate_the_danelaw.preview.tt:0 "あなたは領国を分割することが有益であるかどうかを考えます…"
  negotiate_the_danelaw.clarification.tt:0 "確定する前に、この決断を取り消すことができます。"
  negotiate_the_danelaw_integrate_duchies_decision:0 "$k_england_adj$公爵領の統合"
  negotiate_the_danelaw_integrate_duchies_decision_desc:0 "この領国の分割は馬鹿げている！国境内の領土は正当に私のものであり、私はすべての人々がこれを尊重することを確認する！"

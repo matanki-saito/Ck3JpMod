@@ -52,7 +52,7 @@
  tax_rivalry.4010.desc_liege_unfriendly: "これは二人の悪い関係により起きた"
  tax_rivalry.4010.desc_steward_friendly: "これは[tax_collector.GetHerHim]との良好な関係に関わらず起きた"
  tax_rivalry.4010.desc_steward_unfriendly: "これは[tax_collector.GetHerHim]との悪い関係により起きた"
- tax_rivalry.4010.desc_tax_collector_friendly: "こへは[steward.GetHerHim]との良好な関係に関わらず起きた。"
+ tax_rivalry.4010.desc_tax_collector_friendly: "これは[steward.GetHerHim]との良好な関係に関わらず起きた。"
  tax_rivalry.4010.desc_tax_collector_unfriendly: "これは[steward.GetHerHim]との悪い関係により起きた。"
  tax_rivalry.4011.t: "$tax_rivalry.t$：氷解"
  tax_rivalry.4011.desc_liege_friendly: "これは二人の良好な関係により起きた。"

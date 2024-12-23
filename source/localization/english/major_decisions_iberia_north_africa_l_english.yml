@@ -66,7 +66,7 @@
  iberia_north_africa.0102.c.same_religion:0 "すでに間違っている物を熱心に研究するとは、何と無意味なことか…"
  iberia_north_africa.0102.c.misc:0 "教義の漂流に対する解決策は、教義の粗探しをすることか？"
  iberia_north_africa.0111.t:0 "ローマの束縛からの解放"
- iberia_north_africa.0111.desc:0 "このコンクラーベを招集するための政治的・精神的結束を築き上げるのに何年もかかったが、私はついに、偽りの[pope.GetTitledFirstName]を明確に否定するため、農民と聖職者の両者を私の旗の下に導くことができた。\n\n今でも、[religious_leader.GetCapitalLocation.GetTitle.GetBaseNameNoTier]の廊下や客室は、議論好きの聖職者や熱狂的な司教たちでごった返している。ローマがこれまで冷淡に扱ってきた、あらゆる不当な扱いを受けた修道士や下級の[religious_leader.GetFaith.PriestNeuter]たちが私の広間をに満ちている。\n\nこのようなあらゆる議論は正当性を保つために重要であるが、最終的には、傑出した[religious_leader.GetFaith.GetAdjective]の統治者として、#EMP 私の#!言葉が最後の決定票となるだろう。"
+ iberia_north_africa.0111.desc:0 "このコンクラーベを招集するための政治的・精神的結束を築き上げるのに何年もかかったが、私はついに、偽りの[pope.GetTitledFirstName]を明確に否定するため、農民と聖職者の両者を私の旗の下に導くことができた。\n\n今でも、[religious_leader.GetCapitalLocation.GetTitle.GetBaseNameNoTier]の廊下や客室は、議論好きの聖職者や熱狂的な司教たちでごった返している。ローマがこれまで冷淡に扱ってきた、あらゆる不当な扱いを受けた修道士や下級の[religious_leader.GetFaith.PriestNeuter]たちが私の広間に満ちている。\n\nこのようなあらゆる議論は正当性を保つために重要であるが、最終的には、傑出した[religious_leader.GetFaith.GetAdjective]の統治者として、#EMP 私の#!言葉が最後の決定票となるだろう。"
  iberia_north_africa.0111.a:0 "神の子は平和を説いた、我々もそれに従おう。"
  iberia_north_africa.0111.a.tt:0 "$iberia_north_africa.0101.a.tt$"
  iberia_north_africa.0111.b:0 "ローマがなくても、我々は自身を守ることの価値を知っている！"

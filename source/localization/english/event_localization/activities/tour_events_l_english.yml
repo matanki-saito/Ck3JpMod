@@ -1151,7 +1151,7 @@
  tour_grounds_if_vassal_is_scared_tt:1 "あなたの主催者が恐れさせられた場合"
  tour_grounds_if_vassal_accepts_tt:1 "あなたの主催者が受け入れた場合"
  tour_grounds_if_vassal_refuses_tt:1 "あなたの主催者が拒否した場合"
- 3007_avoid_hitting_child_tt:1 "子供をにぶつかるのを避けた"
+ 3007_avoid_hitting_child_tt:1 "子供にぶつかるのを避けた"
  3007_fall_off_horse_tt:1 "あなたは馬から落ちます"
  kill_warhorse_tt:1 "あなたは自慢の軍馬を殺します"
  kill_horse_tt:1 "あなたは馬を殺します"

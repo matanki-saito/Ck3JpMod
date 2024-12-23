@@ -443,7 +443,7 @@
  bp1_yearly.8070.opening:0 "[claim_vassal.GetTitledFirstName]は夕食の間ずっと静かに憤っている様子だったが、私が[ROOT.Char.Custom('GetExpensiveMealAlt')]に手を伸ばすとついに爆発してしまった。\n\n「なぜあなたが[claim_title.GetName]を[favorite_vassal.GetTitledFirstName]に与えられたのか、私には理解できません。"
  bp1_yearly.8070.strength_strong:0 "この土地に対する私の正当な権利は、あらゆる人々がに認めているものです！」\n\n"
  bp1_yearly.8070.strength_weak:0 "これらの土地は正当に私のものです！」\n\n"
- bp1_yearly.8070.claim:0 "「なぜこの土地において私より[favorite_vassal.GetHerHim]にを寵愛なさるのですか？私は忠実な家臣ではなかったのですか？」"
+ bp1_yearly.8070.claim:0 "「なぜこの土地において私より[favorite_vassal.GetHerHim]を寵愛なさるのですか？私は忠実な家臣ではなかったのですか？」"
  bp1_yearly.8070.lowborn:0 "「この卑しい成り上がりが私に代わって昇格するのは侮辱です！」"
  bp1_yearly.8070.other:0 "「そんな無礼な扱いを受けるほど、私は重大な過ちを犯してしまったのですか？」"
  bp1_yearly.8070.hostile:0 "\n\n「私を差し置いて忌々しい[favorite_vassal.GetFaith.GetAdherentName]に土地を与えるとは！」我が[ROOT.Char.Custom2('RelationToMe', claim_vassal)]は興奮した様子で言う。「道義に反しています！」"

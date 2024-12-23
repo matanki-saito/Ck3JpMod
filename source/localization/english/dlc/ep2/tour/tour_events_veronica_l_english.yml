@@ -400,7 +400,7 @@
  cultural_festival.4100.b:0 "私は[inconsiderate_character_scope.GetNameNoTooltip]を公に非難するべきだ！"
  cultural_festival.4100.c:0 "おそらく私は金で補償を提供できる。"
  cultural_festival.4200.t:1 "パレードの準備"
- cultural_festival.4200.desc:0 "客人がは[ROOT.Char.GetCurrentLocation.GetName]に到着して以来、彼らにはやるべきこと、見るべきものが多くあった。彼らを楽しませるためには一瞬たりとも休むべきではないので、私は[visiting_liege.GetTitledFirstName]と[visiting_liege.GetHerHis]の従者たちのために何か特別なことをしようと考えている。パレードは、彼らを歓迎すると同時に、我々の領国を最高の形でアピールできるものだ。\n\nとはいえ、どんなパレードをすれば[visiting_liege.GetNameNoTooltip]が喜ぶのか、私にはよくわからない。"
+ cultural_festival.4200.desc:0 "客人は[ROOT.Char.GetCurrentLocation.GetName]に到着して以来、彼らにはやるべきこと、見るべきものが多くあった。彼らを楽しませるためには一瞬たりとも休むべきではないので、私は[visiting_liege.GetTitledFirstName]と[visiting_liege.GetHerHis]の従者たちのために何か特別なことをしようと考えている。パレードは、彼らを歓迎すると同時に、我々の領国を最高の形でアピールできるものだ。\n\nとはいえ、どんなパレードをすれば[visiting_liege.GetNameNoTooltip]が喜ぶのか、私にはよくわからない。"
  cultural_festival.4200.a:0 "我々の軍事力を誇示しよう！"
  cultural_festival.4200.tt.liege_likes:0 "あなたの主君はおそらくそれを#P 楽しむ#!でしょう"
  cultural_festival.4200.tt.liege_indifferent:0 "あなたの主君はおそらくそれは問題ないでしょう"
