@@ -12,7 +12,7 @@
  lust_for_adventure:0 "冒険の欲求"
  lust_for_adventure_desc:0 "この人物は、冒険と旅を欲している。彼らは両親の宮廷に戻ることはないだろう。"
  mellowed_spirit:0 "円熟した精神"
- mellowed_spirit_desc:0 "この人物は、両親から、冒険には向いていない、自分の居場所は家にこそあると説得されていいる。"
+ mellowed_spirit_desc:0 "この人物は、両親から、冒険には向いていない、自分の居場所は家にこそあると説得されている。"
  fp1_yearly.2003.t:0 "旅行熱: 愛の鞭"
  fp1_yearly.2003.desc:0 "「降参、降参だ、[parent.GetMotherFather]！もういい！」我が[child_to_leave.Custom('GetDaughterSon')]は叫ぶ。\n\n「私は宮廷に留まります。[lover_of_child.GetFirstNameNoTooltip]は命より大切と言うわけではないのだし！」[lover_of_child.GetFirstNameNoTooltip]が非難するような目で見ている中、[child_to_leave.GetFirstNameNoTooltip]は言う。\n\nようやく、[child_to_leave.GetFirstNameNoTooltip]は道理をわきまえてくれたようだ！"
  fp1_yearly.2003.a:0 "「[parent.GetMotherFather|U]が一番よく知っている、最愛の[child_to_leave.Custom('GirlBoy')]よ。」"
