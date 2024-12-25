@@ -212,7 +212,7 @@
  pet_animal.0200.desc: "私は机に向き合って、領国の各地から送られてきた文書に目を通している。[ROOT.Char.Custom('CatStoryName')]が日差しの暖かさを追いかけて机の端で丸くなり、私の仕事など気にもせずに気ままにしている。\n\n[ROOT.Char.Custom('CatStoryHerHis')]の[ROOT.Char.Custom('CatFurColor')]毛皮を撫でてやろうと手を伸ばせば、答えるように気だるそうに伸びをする。なんて長く伸びるんだ！\n\n#EMP 伸びすぎた#!ようで、[ROOT.Char.Custom('CatStoryName')]が机から落ちてしまった。足元に落ちた[ROOT.Char.Custom('CatStoryHerHis')]は——まるで#EMP 私のせい#!であるかのように——恨みめがしい目線を向けて、不機嫌そうに去っていった。"
  pet_animal.0200.a: "ふっ、バカなやつ！"
  pet_animal.0201.t: "[ROOT.Char.Custom('CatStoryName')]：瀬戸際"
- pet_animal.0201.desc: "今日も一日頑張った。疲れ切った骨を休め、書斎の机で座りながら足を伸ばした。部屋の向かいで[ROOT.Char.Custom('CatStoryName')]が棚伝いに歩いては部屋の高いところを探検している。[ROOT.Char.Custom('CatStorySheHe')|U]は高いところが好きらしい——\n\n私の[cat_artifact.GetName]が！棚の端で鎮座している[ROOT.Char.Custom('CatStoryName')]が丸い目をさらに見開いて、それに向かって一直線に歩き出した。その気まぐれな前足を恐る恐るいていると…"
+ pet_animal.0201.desc: "今日も一日頑張った。疲れ切った骨を休め、書斎の机で座りながら足を伸ばした。部屋の向かいで[ROOT.Char.Custom('CatStoryName')]が棚伝いに歩いては部屋の高いところを探検している。[ROOT.Char.Custom('CatStorySheHe')|U]は高いところが好きらしい——\n\n私の[cat_artifact.GetName]が！棚の端で鎮座している[ROOT.Char.Custom('CatStoryName')]が丸い目をさらに見開いて、それに向かって一直線に歩き出した。その気まぐれな前足を恐る恐る見ていると…"
  pet_animal.0201.a: "待て！"
  pet_animal.0201.a.tt: "掴まねば！"
  pet_animal.0201.a.success: "ナイスキャッチ！"
