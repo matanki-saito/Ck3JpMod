@@ -23,4 +23,4 @@
  fp1_varangian_adventurer_conquest.summaries.old_vassals:0 "すべての古い[vassals|E]は独立を与えられます"
  FP1_SCANDINAVIAN_ADVENTURER_VASSAL_TRUCE_NAME:0 "[SCOPE.sC('attacker').GetUINameNotMe|U]による侵略の脅しに対する譲歩"
  fp1_varangian_adventurer_conquest.summaries.control_rebate:0 "征服された[counties|E]での[control|E]が上昇します"
- VIKING_ARMY_adj: "北方人"
+ VIKING_ARMY_adj: "ノース人"

@@ -206,7 +206,7 @@
  clan_unity_refused_alignment.desc: "[unity_target.GetName]はカリフ制の問題に関して[unity_character.GetName]に同調するのを拒否した"
  clan_unity_changed_alignment.desc: "[unity_target.GetName]はカリフ制の問題に関して[unity_character.GetName]と同調した"
  unity_changed_title: "[house_unity|E]の変化"
- unity_changed_desc: "[actor.GetName] "
+ unity_changed_desc: "[actor.GetName]は"
  clan_unity_assigned_to_council.desc: "[unity_target.GetName]を評議員として採用した"
  clan_unity_assigned_to_court_position.desc: "[unity_target.GetName]を[court_position|E]に任命した"
  clan_unity_fired_from_court_position.desc: "[unity_target.GetName]を[court_position|E]から解任した"

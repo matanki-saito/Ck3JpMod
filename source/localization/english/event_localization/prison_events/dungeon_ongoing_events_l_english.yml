@@ -75,7 +75,7 @@
  dungeon_ongoing.0013.desc_reasoning_compassionate: "「同じ[ROOT.Char.GetHouse.GetBaseName]の仲間がこのような目にあっているというのに何も思われないのですか」[letter_recipient.GetSheHe]は責めるような口調だ。「[prisoner.GetHerHis]の罪は水に流してこの家の為になることをお考え下さいませ」"
  dungeon_ongoing.0013.desc_reasoning_other: "「こんな内輪の争いを抱えていればいずれ敵に付け込まれましょう」[letter_recipient.GetSheHe]は抗議する。「[realm_title.GetNameNoTier]の為、我らの為に[prisoner.GetTitledFirstNameNoTooltip]を召し放ってくださいませ」"
  dungeon_ongoing.0013.a: "[prisoner.GetTitledFirstNameNoTooltip]は今日から自由だ。"
- dungeon_ongoing.0013.b: "[prisoner.GetSheHe|U]の投獄は正当なものだ、家族愛などクソ同然よ。"
+ dungeon_ongoing.0013.b: "[prisoner.GetSheHe|U]の投獄は正当なものだ。血縁ならば受け入れよ。"
  dungeon_ongoing.0014.t: "空虚な響き"
  dungeon_ongoing.0014.desc: "衛兵たちの囁きが私に届く。明らかに、私の手紙に耳を傾けた[letter_recipient.Custom2('MyCharacterIntroduction', ROOT.Char)]が、私の看守の[imprisoner.GetTitledFirstName]に近づいたように見える。残念ながら、あの[imprisoner.Custom('InsultNoun')]はその心を頑なにし、[letter_recipient.GetTitledFirstNameNoTooltip]を拒絶する。私は以前と変わらぬ囚われの[prisoner.GetWomanMan]のままだ。"
  dungeon_ongoing.0014.a: "[letter_recipient.GetTitledFirstNameNoTooltip]は私にとって良き[ROOT.Char.Custom2('RelationToMeShort', letter_recipient)]だったんだ。"
