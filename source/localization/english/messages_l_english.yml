@@ -214,7 +214,7 @@
  msg_left_council_position_desc:0 "[LEFT_CHARACTER.GetShortUIName|U]は$POSITION_NAME$としての[LEFT_CHARACTER.GetHerHis]の地位を去りました"
  msg_peace_armies_disbanded:0 "平和"
  msg_peace_armies_disbanded_desc:1 "ようやく平和になったので、あなたのすべての軍勢は解散しました。"
- msg_invalidate_war_title:1 "[war.GetName]は終了しました: もはや継戦の正統性は失われました。"
+ msg_invalidate_war_title:1 "[war.GetName]は終了しました。\nもはや継戦の正統性は失われました。"
  msg_claim_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや係争中の伯爵領を支配しません。"
  msg_de_jure_duchy_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]はもはや目標の公爵領を支配しません。"
  msg_de_jure_county_war_invalidated_message:1 "[war.GetName]は終了しました: [defender.GetShortUIName]は当該伯爵領を支配しません。"
