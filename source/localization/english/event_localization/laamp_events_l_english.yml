@@ -991,7 +991,7 @@
  ep3_laamp_flavour_ewan.2092.tt.defender_won: "[defender.GetFirstNameNoTooltip]の勝利"
  ep3_laamp_flavour_ewan.2092.tt.defender_won.tt: "[defender.GetSheHe|U]は[attacker.GetFirstName]を殺した。正当防衛だ。"
  ep3_laamp_flavour_ewan.3001.t: "あなたの噂"
- ep3_laamp_flavour_ewan.3001.desc.intro: "哨兵に案内され、私は[ROOT.Char.Custom('GetRandomCampBuilding')]の隣にある薄暗い天幕に入った。そこには、疲れ切った地元の三人組が私を待っていた。彼らはどうも、まるでここにいること自体が危険であるかのように緊張していた。\n\nそのうちの一人が立ち上がり、ひどく#EMP 情けない#!お辞儀をしてきた。「ごきげんよう、[ROOT.Char.GetLadyLord]様、俺の名は[brains.GetFirstName]だ。このでっかい[brawn.Custom('GetLassLad')]は[brawn.GetFirstName]、もう一人が[fingers.GetFirstName]だ。俺たち、入隊しに来たんだ。」\n\n"
+ ep3_laamp_flavour_ewan.3001.desc.intro: "哨兵に案内され、私は[ROOT.Char.Custom('GetRandomCampBuilding')]の隣にある薄暗い天幕に入った。そこには、くたびれた地元の三人組が私を待っていた。彼らはどうも、まるでここにいること自体が危険であるかのように緊張している。\n\nそのうちの一人が立ち上がり、ひどく#EMP 情けない#!お辞儀をしてきた。\n「ど、どうも、[ROOT.Char.GetLadyLord]様、俺の名は[brains.GetFirstName]だ。このでっかい[brawn.Custom('GetLassLad')]は[brawn.GetFirstName]、もう一人が[fingers.GetFirstName]。\n俺たち、入隊しに来たんだ！」\n\n"
  ep3_laamp_flavour_ewan.3001.desc.legendary: "「心から暗い芸術を愛してる…短刀、縄、ギザギザの矢、何でもお任せだ。そして、自分たちの才能を発揮するのにふさわしい[ROOT.Char.Custom('MistressMaster')]なんて、あんた以外考えられませんよ」"
  ep3_laamp_flavour_ewan.3001.desc.exalted: "\"We're serious about what we do, and that means not letting pride cause us to pass up on the opportunity of a life time. Haul us with you, and we'll steal you the world.\""
  ep3_laamp_flavour_ewan.3001.desc.illustrious: "\"We were the biggest fish in this pond — till you showed up. Not that we mind. Business is business, and there's no sense competing when we could work together.\""
