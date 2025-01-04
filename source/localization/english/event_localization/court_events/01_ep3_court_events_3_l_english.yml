@@ -43,7 +43,7 @@
  chancellor_domestic_affairs_opinion_food_bonus_desc: "\n$TAB$$food_improves_opinion$：#P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_food_bonus')|2]#!"
  chancellor_domestic_affairs_tyranny_food_bonus_desc: "\n$TAB$$food_improves_opinion$：#P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_food_bonus')|P0]％#!"
  court_events.3060.t: "顔のない海"
- court_events.3060.desc: "どこを向いても、我が国の装束をまとう者ばかりだ。あちこち走り回る者、噂話に耽る者、古い鎧を手入れする者、給仕に忙しい者、伝令に奔走する者…\n\n近頃は、一体全体どれだけ務めてというのだ？寄せては引く波のように行き来を繰り返す彼らを見ていて、知った顔を追いかけるのは不可能だと思い知った！これでは、誰を信用すれば良いのだ？\n\n思案に暮れていると、[spymaster.Custom2('MyCharacterIntroduction', ROOT.Char)]が歩み寄ってきた。「殿下、多くの使用人をよくよくご覧になっている様子。そう、これほどまでにたくさんいるのです！さしずめ、顔のない人間の海と言ったところ。誰が誰だか、誰にもわからない。そうであるなら、必要なところに必要な人間を潜り込ませるのも容易い…当然ではありますが、それは敵も同様に活用できるというもの。であるなら、あらゆる可能性を考えますに…」"
+ court_events.3060.desc: "どこを向いても、我が国の装束をまとう者ばかりだ。あちこち走り回る者、噂話に耽る者、古い鎧を手入れする者、給仕に忙しい者、伝令に奔走する者…\n\n近頃は、一体全体どれだけ務めているのだ？寄せては引く波のように行き来を繰り返す彼らを見ていて、知った顔を追いかけるのは不可能だと思い知った！これでは、誰を信用すれば良いのだ？\n\n思案に暮れていると、[spymaster.Custom2('MyCharacterIntroduction', ROOT.Char)]が歩み寄ってきた。「殿下、多くの使用人をよくよくご覧になっている様子。そう、これほどまでにたくさんいるのです！さしずめ、顔のない人間の海と言ったところ。誰が誰だか、誰にもわからない。そうであるなら、必要なところに必要な人間を潜り込ませるのも容易い…当然ではありますが、それは敵も同様に活用できるというもの。では、あらゆる可能性を考えますに…」"
  court_events.3060.a: "可能性は無限大だな……。"
  court_events.3060.a.tt: "……私の背中にもナイフを突き立てるのだろう！"
  court_events.3060.b: "それよりも、働かせるのだ！"
