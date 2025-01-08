@@ -1,9 +1,9 @@
 ﻿l_english:
  destination_events.10.t: "経験豊富な放浪者"
- destination_events.10.desc: "「陛下」と、私の が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('provider_character'))]私の書斎に入ってくる[provider_character.GetFirstName]と、話し始めました[provider_character.GetSheHe]。「最近、あなたの旅に興味深いかもしれないキャラバンのリーダーと取引がありました。彼は[travel_leader_character.GetSheHe|U]遠くまで旅をしており、私たちが探していた経験を持っています。」\n\n私の旅行を担当してくれる人を見つけるのに苦労していたので、これは良い機会かもしれません。"
- destination_events.10.a: "では、この放浪者を雇いましょう。"
- destination_events.10.a.tt: "[travel_leader_character.GetUINamePossessive|U] [aptitude|E]は[travel_leader_character.GetCourtPositionAptitude( GetCourtPositionType( 'travel_leader_court_position' ) )]"
- destination_events.10.b: "[travel_leader_character.GetSheHe|U]興味がありません。"
+ destination_events.10.desc: "「我が主」私の書斎に入ってくるなり、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('provider_character'))][provider_character.GetFirstName]はそう切り出した。「最近、貴君の旅に役立つかもしれないキャラバン隊のリーダーと取引をしました。[travel_leader_character.GetSheHe|U]は遠くまで旅をしたことがあり、そのような経験はまさに我々が求めていたものです」\n\n私の旅行を担当してくれる人を見つけるのに苦労していたので、これは良い機会かもしれない。"
+ destination_events.10.a: "では、この放浪者を雇おう。"
+ destination_events.10.a.tt: "[travel_leader_character.GetUINamePossessive|U]の[aptitude|E]は[travel_leader_character.GetCourtPositionAptitude( GetCourtPositionType( 'travel_leader_court_position' ) )]です"
+ destination_events.10.b: "[travel_leader_character.GetSheHe|U]には興味がない。"
  destination_events.20.t: "ちょっとした旅の準備"
  destination_events.20.desc: "「何だって？余分な物資と言ったのか？」私は、[provider_character.GetFirstName]、つまり私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('provider_character'))]に応じて答える。彼は私の倉庫の一つで最近発見したものを持ち出した。\n\n「確かに、なぜ帳簿から消えていたのかは不明だ。しかし、小さな恵みだ。これらをどうするつもりだ？」\n\nこれらの余分な物資は、私の次の旅に役立つかもしれない。"
  destination_events.20.a: "これらを使えば、ゆっくりと綿密な旅をすることができる。"

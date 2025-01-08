@@ -23,7 +23,7 @@
  agent_events.0012.desc: "[char_1.GetTitledFirstName] and [char_2.GetTitledFirstName] seem to be enjoying themselves a little bit #EMP too#! much for the humble role they play in my designs.\n\nStolen glances, hushed whispers, letters exchanged under pretense — were I more suspicious, I might fail to recognize this as the clear signs of an early relationship waiting to take root.\n\nNot #EMP quite#! the point of a plan to [scheme.GetName]."
  agent_events.0012.a: "そして彼らは私が助けたことに感謝していないのでしょうか?"
  agent_events.0012.b: "間違いなく、彼らの情熱は制御できる。"
- agent_events.0012.c: "おそらく彼らの情熱は利用されるかもしれない..."
+ agent_events.0012.c: "彼らの情熱は利用できるかもしれない..."
  agent_events.0012.c.tt.success: "Lovebirds make [scheme.GetNameNoTooltip] a game"
  agent_events.0012.c.tt.failure: "The spark is quenched"
  agent_events.0012.d: "This is not what we're here for!"
