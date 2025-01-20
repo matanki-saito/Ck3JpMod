@@ -643,7 +643,7 @@
  hold_court.8320.priest_2: "僧侶は声を張る。"
  hold_court.8320.body: "「私の名は[probate_priest.GetFirstName]、拝謁賜り恐悦至極。\n[probate_province.GetTitle.GetNameNoTier]の[probate_dead.GetFaith.HouseOfWorship]より参りました。我々は真実を申し上げん為にここに来た！[probate_dead.GetFirstNameNoTooltip]は敬虔な[probate_dead.GetWomanMan]であり、[probate_dead.GetFaith.HighGodNameAlternate]の平穏を[probate_dead.GetFaith.PositiveAfterLife]に見出すまで、我々と多くの時間を共にされた……」\n\n[probate_vassal.GetTitledFirstNameNoTooltip]は目を大きく回し、怒りに顔を赤らめた。"
  hold_court.8320.a: "その土地は[probate_priest.GetFaith.HighGodNamePossessive]を信ずるものにのみ属すべきだ。"
- hold_court.8320.b: "[probate_vassal.GetFirstNameNoTooltip]はあなたの称号を持ち続けますが、[probate_priest.GetFaith.AltPriestTermPlural]に埋め合わせを行います。"
+ hold_court.8320.b: "[probate_vassal.GetFirstNameNoTooltip]は称号を保持し、[probate_priest.GetFaith.AltPriestTermPlural]に埋め合わせを行え。"
  hold_court.8320.c: "どうしたものか。主張が相反しているが。"
  hold_court.8320.d: "[probate_dead.Custom2('RelationToMePossessive', probate_vassal)]の相続権は廃されるべきものでは無い。"
  every_close_family_hold_court_8320_tooltip: "[probate_vassal.GetHerHis|U]の[close_family|E]"
