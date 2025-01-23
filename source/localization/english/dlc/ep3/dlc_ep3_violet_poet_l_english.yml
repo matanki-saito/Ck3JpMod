@@ -127,7 +127,7 @@
  ep3_story_cycle_violet_poet.2005.a: "\"I can't believe it's really you.\""
  ep3_story_cycle_violet_poet.2005.a.tt: "I mustn't let myself fall in love again..."
  ep3_story_cycle_violet_poet.2005.b: "Well, his presence alone raises the profile of my salon..."
- ep3_story_cycle_violet_poet.2010.t: "Collaborative Work"
+ ep3_story_cycle_violet_poet.2010.t: "共同作業"
  ep3_story_cycle_violet_poet.2010.desc: "私たちは座って笑い合い、まるで昔のように、木陰でお茶を飲んでいる。[zaydun.GetFirstNamePossessive] の機知と知性は今も鋭く、歳を重ねても、かつて私を魅了したその魅力は失われていない。\n\n「ここにあるのは何だ？」と[zaydun.GetSheHe|U]は私の隣のテーブルに置いてある[double_moon_book.GetName] を指さしながら尋ねる。私はそれを手渡した。\n\n「これは美しい作品だ。君の作品は昔と変わらず優雅だな。」[zaydun.GetHerHis|U]の嬉しそうな笑顔に、今でも少し心が揺さぶられる。「次の数日間で一緒に何か共著してくれないか？この年老いた[zaydun.GetWomanMan] が君についていけるなら、の話だが。」"
  ep3_story_cycle_violet_poet.2010.a: "\"We are both old, [zaydun.GetFirstNameNoTooltip]. But with age comes wisdom.\""
  ep3_story_cycle_violet_poet.2010.b: "\"I work alone.\""

@@ -288,7 +288,7 @@
  change_appointment_investment_medium_loss: "Your [candidate_score|E] for [target_title.GetName] decreases by [EmptyScope.ScriptValue('appointment_score_medium_value')|N0]"
  chariot_race.4000.b: "I wonder what agents [target_governor.GetFirstNameNoTooltip] has here..."
  ep3_united_agents_tooltip: "[political_schemes|E] against your [liege|E]: #P +15%#! [success_chance|E] for #high 10 years#!"
- united_political_agents_modifier: "United Agents in Capital"
+ united_political_agents_modifier: "領国首都の団結した協力者"
  united_political_agents_modifier_desc: "This character's political creatures within the high court of the land work in tandem with another's."
  united_political_agents_modifier_tt: "#weak [political_schemes|E] against [liege|E]: #P +15%#! [success_chance|E]#!"
  chariot_race.4000.c: "I wonder if [target_governor.GetFirstNameNoTooltip] has heard the tales they tell of me?"

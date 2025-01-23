@@ -141,7 +141,7 @@
  ep3_governor_yearly_8030_benign_modifier_desc: "This county has seen an influx of craftspeople seeking work at a family estate."
  ep3_governor_yearly_8030_benign_char_modifier: "Benign Development"
  ep3_governor_yearly_8030_benign_char_modifier_desc: "This character's estate county has seen an influx of craftspeople seeking work."
- ep3_governor_yearly_8070_ignore_modifier: "Ignoring Work"
+ ep3_governor_yearly_8070_ignore_modifier: "仕事を無視する"
  ep3_governor_yearly_8070_ignore_modifier_desc: "This character is shirking their responsibilities as a governor."
  ep3_governor_yearly_8080_tense_bureaucracy_modifier: "官僚の緊張"
  ep3_governor_yearly_8080_tense_bureaucracy_modifier_desc: "腐敗した行政官に対する懲罰は大衆を喜ばせたが、官僚は喜んでいない。"

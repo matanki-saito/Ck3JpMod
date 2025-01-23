@@ -894,7 +894,7 @@
  HOF_INTERACTION_IS_HOUSE_HEAD: "You are not a [house_head|E]"
  requested_faith_support_domicile_tt: "#weak [influence|E] gain increased by a [domicile_building|E]#!"
  ep3_hof_ask_for_influence_interaction: "聖職者による支援の要請"
- ep3_requested_faith_support_modifier: "Clerical Political Agents"
+ ep3_requested_faith_support_modifier: "政治的聖職者の協力者"
  ep3_requested_faith_support_modifier_desc: "Many political creatures wear holy robes; many are sermonizing proponents of this family's interests."
  HOF_OPINION_OF_EMPEROR: "[recipient.GetShortUINamePossessive] Opinion of your [top_liege|E]: $VALUE|=+0$"
  I_AM_INFLUENTIAL: "Your [influence_level|E]: $VALUE|=+0$"

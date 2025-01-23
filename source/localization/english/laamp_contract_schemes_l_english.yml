@@ -441,7 +441,7 @@
  laamp_base_contract_schemes.1044.a: "$travel.stationary_domicile.option.t$"
  laamp_base_contract_schemes.1044.b: "$travel.mobile_domicile.option.t$"
  laamp_base_contract_schemes.1044.tt.destination_list: "[destination_1.GetBaseNameNoTier]へ直ちに出発し、それから[destination_2.GetBaseNameNoTier]へと向かいます。"
- laamp_base_contract_schemes.1044.tt.explanation: "#TUT To complete the [task_contract|E]:\n$EFFECT_LIST_BULLET$Travel to the final destination\n$EFFECT_LIST_BULLET$Along the way, complete [prowess|E], [martial|E], or [intrigue|E] [skill|E] challenges against other travelers\n$EFFECT_LIST_BULLET$Earn any amount of [gold|E] for a $label_success_standard$#!"
+ laamp_base_contract_schemes.1044.tt.explanation: "#TUT [task_contract|E]を完了するための条件：\n$EFFECT_LIST_BULLET$最終目的地へ到達する\n$EFFECT_LIST_BULLET$旅の途中で他の旅人に対して[prowess|E]、[martial|E]、もしくは[intrigue|E][skill|E]の挑戦を完了する\n$EFFECT_LIST_BULLET$$label_success_standard$のために[gold|E]稼ぐ#!"
  laamp_base_contract_schemes.1044.tt.number_of_encounters: "#TUT You will have [task_contract.MakeScope.Var('encounters_max').GetValue|0] potential victims#!"
  laamp_base_contract_schemes.1044.tt.path_warning: "#TUT Though lengthening your travel path won't give more potential victims, shortening it may reduce the amount you receive#!"
  laamp_base_contract_schemes.2001.t: "徴税、関税、宗教税"

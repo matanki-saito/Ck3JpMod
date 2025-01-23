@@ -339,7 +339,7 @@
  bp3_journey.1800.c: "Go peddle your lies to someone else."
  bp3_journey.1800.trusting: "Absolutely, this sounds legitimate!"
  mostly_true_tt: "The sight is utterly fascinating"
- almost_true_tt: "The sight is interesting"
+ almost_true_tt: "興味深い光景だ"
  not_true_tt: "I just get a regular tour"
  utterly_scammed_tt: "We get \"lost\" and I have to pay to get back"
  interesting_insight_modifier: "Interesting Insights"
