@@ -116,7 +116,7 @@
  grand_ambitions.0191.b: "[emperor.Custom( 'InsultNoun' )]と仲良しこよしなんてごめんだね！"
  grand_ambitions.0200.t: "$grand_ambitions_header$：運命の夜"
  grand_ambitions.0200.opening: "今日この日、[ROOT.Char.GetHouse.GetName]家の威光の下、[target.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の根幹は揺らぎいだ。\n[target.GetTitleAsNameNoTooltip]は静かなる革命によって退位させられたのだ。\n\nこれは新たな時代の夜明けを示している。"
- grand_ambitions.0200.eunuch: "The [GetAgentSlotType( 'agent_eunuch' ).GetName], master of the palace's secrets, played his role to perfection. His whispers sowed the seeds of discord, his silent nods in darkened corridors setting the stage for our triumph.\n\n"
+ grand_ambitions.0200.eunuch: "その実、宮廷の影の主であった[GetAgentSlotType( 'agent_eunuch' ).GetName]はその役割を大いに全うしてくれた。彼の囁きは不和の種となり、彼の暗い廊下での小さな会釈一つ一つが、私をこの地位までのし上げてくれた。\n\n"
  grand_ambitions.0200.powerful_family: "Of course, my ascension would be impossible without the support of the [story.MakeScope.Var('powerful_family').House.GetName] family, "
  grand_ambitions.0200.powerful_family.currency: "clearly worth their weight in gold."
  grand_ambitions.0200.powerful_family.hook: "though I am loathe to remember the favor I owe them."
