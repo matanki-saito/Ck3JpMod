@@ -255,7 +255,7 @@
  SCHEME_AGENT_INFLUENCE: "[influence_i][influential|E]で人を動かす"
  SCHEME_AGENT_COUNCIL_RIGHTS: "[council_i][council|E]の席を保証する"
  council_rights.tt.already_has_council_rights: "[recipient.GetShortUIName|U]の[vassal_contract|E]は[GetVassalContractType( 'council_rights' ).GetObligationName( 'council_rights_guaranteed' )]を保証している"
- SCHEME_AGENT_DE_JURE_TITLE: "@titles_icon! Grant them a [county|E] you hold that's [de_jure|E] theirs"
+ SCHEME_AGENT_DE_JURE_TITLE: "@titles_icon! 彼らに[county|E]を付与する。あなたが保持している[de_jure|E]は彼らのものだ。"
  de_jure_title.tt.no_suitable_county: "You do not have a non-[capital|E] [county|E] that [de_jure|E] belongs to [recipient.GetTitledFirstName]"
  SCHEME_AGENT_CLAIMED_TITLE: "[pressed_claim_i] Grant them a [county|E] you hold that they [claim|E]"
  claimed_title.tt.no_valid_county: "You hold no non-[capital|E] [counties|E] that [recipient.GetFirstName] [claims|E]"
