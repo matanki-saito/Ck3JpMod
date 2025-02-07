@@ -26,7 +26,7 @@
  feast_default.1005.c:0 "「うーん、あ…その…すごい天気ですね？」"
  feast_default.1006.table_companions:0 "私の近くに座っている全員"
  feast_default.1006.t:1 "くつろげる宴席"
- feast_default.1006.desc:0 "ああ、宴会ほど素晴らしいものはない！人生の素晴らしいもの全てを思い出させてくれるし、仲間も悪いものではない！少なくとも私の側にいる者たちはそう思っているように見える。\n\n「[ROOT.Char.GetFirstNameNoTooltip]様は特別な存在です」と、[guest_1.GetTitledFirstName]が私に告げる。[guest_2.GetTitledFirstName]と[guest_3.GetTitledFirstName]が大きくうなずく。"
+ feast_default.1006.desc:0 "ああ、饗宴ほど素晴らしいものはない！人生の素晴らしいもの全てを思い出させてくれるし、仲間も悪いものではない！少なくとも私の側にいる者たちはそう思っているように見える。\n\n「[ROOT.Char.GetFirstNameNoTooltip]様は特別な存在です」と、[guest_1.GetTitledFirstName]が私に告げる。[guest_2.GetTitledFirstName]と[guest_3.GetTitledFirstName]が大きくうなずく。"
  feast_default.1006.a:0 "私はただ正しいと思うことをするだけだ！"
  feast_default.1006.b:0 "全員でもう一度乾杯だ！"
  feast_default.1006.c:0 "正しく生きたければ他に道はないんだ、友よ！"
