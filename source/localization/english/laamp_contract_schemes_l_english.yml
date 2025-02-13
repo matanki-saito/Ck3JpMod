@@ -2011,7 +2011,7 @@
  laamp_base_contract_schemes.5661.c: "Take only the best, leave the passable for these dogs."
  laamp_base_contract_schemes.5661.c.tt.success: "You steal the choicest animals"
  laamp_base_contract_schemes.5661.c.tt.failure: "Your raiders prove too picky"
- laamp_base_contract_schemes.5661.d: "[officer.GetFirstNameNoTooltip], this is... adjacent to your field, yes?"
+ laamp_base_contract_schemes.5661.d: "[officer.GetFirstNameNoTooltip]、こいつは…あなたのと隣り合ってる、よな？"
  laamp_base_contract_schemes.5661.d.tt.success: "$option_boilerplate.tt.officer_aptitude.success$"
  laamp_base_contract_schemes.5661.d.tt.failure: "$option_boilerplate.tt.officer_aptitude.failure$"
  laamp_base_contract_schemes.5661.e: "[officer.GetFirstNameNoTooltip], drive these beasts forward."

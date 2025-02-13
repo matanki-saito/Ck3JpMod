@@ -273,7 +273,7 @@
  ep1_flavor.2040.tt_my:0 "あなたが[my_artifact.GetName]を失います"
  ep1_flavor.2040.tt_exotic:1 "あなたは[exotic_blade.GetNameNoTooltip]の所有者になります"
  ep1_flavor.2040.toast:0 "その[exotic_blade.Custom('ArtifactBaseWeaponType')|l]は素晴らしい"
- ep1_flavor.2040.toast_poor:0 "その[exotic_blade.Custom('ArtifactBaseWeaponType')|l]は輝きがない"
+ ep1_flavor.2040.toast_poor:0 "いまいちな[exotic_blade.Custom('ArtifactBaseWeaponType')|l]だった"
  ep1_flavor.2040.b:0 "「小銭入れを持ってこい！」"
  ep1_flavor.2040.c:0 "「ハッ！#EMP [exotic_blade_holder.GetCapitalLocation.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTierNoTooltip]#!…くだらん！出ていけ！」"
  ep1_flavor.2060.t:0 "大いなる善"
