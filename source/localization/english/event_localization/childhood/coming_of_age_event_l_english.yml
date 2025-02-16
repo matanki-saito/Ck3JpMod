@@ -29,7 +29,7 @@
  coming_of_age.0001.victim2:0 "\n今でも私が[victim.GetHerHis]の[victim.Custom('child_favorite_toy')]を壊したときの[victim.GetTitledFirstNamePossessive]の怯えた顔を思い出す。"
  coming_of_age.0001.relationships_end:0 "\n\nしかし、大人になった今は、私はそんな子供じみた甘えを捨て、これからのことに集中していかなければならない。"
  coming_of_age.0001.no_relationships:0 "\n\n子供の頃を振り返ってみて、私には誰かとの繋がりがなかったことに気づく…友達と遊んでいるのを見ても、恋の話をしていても、自分はそんなことを経験したことがなかったのだ。\n\nこれからの数年間は、新しい友人や新しい機会につながると確信している！"
- coming_of_age.0001.a:0 "[ROOT.Char.GetTitledFirstNameNoTooltip]、あなたはついに大人の[ROOT.Char.GetWomanMan]になった！"
+ coming_of_age.0001.a:0 "一人前の[ROOT.Char.GetWomanMan]になったな、[ROOT.Char.GetTitledFirstNameNoTooltip]よ。"
  coming_of_age.0001.tt.1:1 "あなたには[THIS.Char.Custom('education_focus_child')]の分野で学ぶことがたくさん残っています！\n"
  coming_of_age.0001.tt.2:1 "あなたには[THIS.Char.Custom('education_focus_child')]の分野で学ぶことがいくつか残っています\n"
  coming_of_age.0001.tt.3:1 "あなたは[THIS.Char.Custom('education_focus_child')]の分野をかなり良く学びました！\n"

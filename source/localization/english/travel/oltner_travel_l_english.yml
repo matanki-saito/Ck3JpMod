@@ -66,7 +66,7 @@
  sold_horses_modifier: "売却した馬"
  sold_horses_modifier_desc: "この一行は予備の馬を売った。"
  travel_events_oltner_2.1070.t: "馬の治療師"
- travel_events_oltner_2.1070.desc: "[location.GetName]の静かな牧草地の真ん中で、足に傷を負った馬の世話をしている人物がいる。 私たちが近づくと、治療者は顔を上げ、[local_character.GetHerHis]その瞳には長年の知識が映し出されている。\n\n「ちょっとした不運だっただけだ」と[local_character.GetSheHe]説明し、「でもまた走れるようになるよ」と付け加えた。[local_character.GetHerHis]の思いやりを感じて、私たちは足を止める。"
+ travel_events_oltner_2.1070.desc: "[location.GetName]の静かな牧草地の真ん中で、足に傷を負った馬の世話をしている人物がいる。 私たちが近づくと、治療者は顔を上げ、[local_character.GetHerHis]のその瞳には長年の知識が映し出されている。\n\n「ちょっとした不運だっただけだ」と[local_character.GetSheHe]説明し、「でもまた走れるようになるよ」と付け加えた。[local_character.GetHerHis]の思いやりを感じて、私たちは足を止める。"
  travel_events_oltner_2.1070.a: "この高貴な獣を治療するお手伝いができれば光栄である。"
  travel_events_oltner_2.1070.b: "あなたは私の主馬頭になるべきだ！"
  travel_events_oltner_2.1070.c: "なあ、この技術を教えてくれないか？"

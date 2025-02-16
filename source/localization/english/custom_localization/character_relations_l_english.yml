@@ -89,7 +89,7 @@
  TRAIT_DESC_POSITIVE_FOR_LIEGE:0 "[crime_i]これは[TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip]の[liege|E]である[CHARACTER.GetShortUIName]([CHARACTER.GetFaith.GetAdjective])から好まれている"
  TRAIT_DESC_POSITIVE_FOR_THEM:0 "[crime_i]これは[CHARACTER.GetShortUINamePossessiveNoTooltip]の宗派([CHARACTER.GetFaith.GetAdjective])から好まれている"
  HOOK_WITH_SECRET:0 "$HOOK$ ($SECRET$)"
- HOOK_TOOLTIP_UPKEEP:0 "月間維持: $VALUE|2-N$"
+ HOOK_TOOLTIP_UPKEEP:0 "月間維持費: $VALUE|2-N$"
  HOOK_TOOLTIP_EXPIRATION:0 "$DATE|V$に期限切れとなります。"
  DOMAIN_INCOME_HOLDING:0 "[TITLE.GetName]"
  INCOME_FROM_DOMAIN:0 "[domain|E]"
