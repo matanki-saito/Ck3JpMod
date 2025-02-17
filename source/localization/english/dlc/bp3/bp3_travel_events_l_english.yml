@@ -125,7 +125,7 @@
  travel_events_bp3.55.b.lose: "やられた、カモられた。"
  travel_events_bp3.55.c: "見る分には最高というやつだ。"
  travel_events_bp3.60.t: "ちょっとした取引"
- travel_events_bp3.60.desc: "私たちが[ROOT.Char.GetCurrentLocation.GetName]を歩いていると、建築資材でいっぱいの大きな荷車が道を塞ぎ、それが移動するのを待つ人々の群れに巻き込まれた。\n\n「アンタの商品は要らないよ。他で安く仕入れたからね！」と、一人の[merchant_character.GetWomanMan]が別の承認に叫ぶ。もう一方はしょんぼりと困惑した様子だ。\n\n「で、でも……じゃあこれらをどうすりゃいいんだ？」と、[merchant_character.GetSheHe|U]は弱々しく答え、誰にともなくつぶやくように言った。"
+ travel_events_bp3.60.desc: "私たちが[ROOT.Char.GetCurrentLocation.GetName]を歩いていると、建築資材でいっぱいの大きな荷車が道を塞ぎ、それが移動するのを待つ人々の群れに巻き込まれた。\n\n「アンタの商品は要らないよ。他で安く仕入れたからね！」と、一人の[merchant_character.GetWomanMan]が別の商人に叫ぶ。もう一方はしょんぼりと困惑した様子だ。\n\n「で、でも……じゃあこれらをどうすりゃいいんだ？」と、[merchant_character.GetSheHe|U]は弱々しく答え、誰にともなくつぶやくように言った。"
  travel_events_bp3.60.a: "全部買い上げさせてもらう。"
  travel_events_bp3.60.b: "悪くない商品だ、[ROOT.Char.GetCapitalLocation.GetNameNoTooltip]に持ってこい！"
  travel_events_bp3.60.c: "邪魔だ、どけい！"
