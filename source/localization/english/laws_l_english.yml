@@ -77,7 +77,7 @@
  imperial_bureaucracy_pending_law_change: "#alert_trial あなたの[liege|E]は最近この[law|E]を採用しました。あなたも自動的に採用することになります#!"
  admin_all_vassal_wars_banned: "あなたの[liege|E]の[laws|E]により、[war|E]を宣言することができません"
  I_LACK_ADMIN_LAW_ALLOWING_SUCCESSION_LAW_CHANGE: "あなたは[GetLaw('imperial_bureaucracy_2').GetName][imperial_bureaucracy|E]以上の王権を持っていません"
- province_war_law: "[provincial|E][war|E]を布告"
+ province_war_law: "[provincial|E][war|E]法"
  province_war_law_0: "許可された宣戦布告"
  province_war_law_0_effects_not_in_prev: "$EFFECT_LIST_BULLET$#indent_newline:3 [governors|E]は[wars|E]を無制限にできる#!"
  province_war_law_1: "制限された宣戦布告"

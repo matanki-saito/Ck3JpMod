@@ -129,7 +129,7 @@
  hill_fort_guards_modifier: "丘の要塞の守備隊の衛兵"
  hill_fort_guards_modifier_desc: "この一行は、要塞の守備隊を雇っている。"
  toll_payed: "旅費の支払い"
- travel_events_oltner_2.1140.t: "ちびっこ防衛者たち"
+ travel_events_oltner_2.1140.t: "ちっちゃな戦士たち"
  travel_events_oltner_2.1140.desc: "[location.GetName]の特に堂々とした丘の要塞の麓で、子供たちが戦士ごっこをして遊んでいる。その笑い声は、石の厳粛さへのコントラストとなっている。\n\n大胆で目つきの鋭い一人の子供が木剣を持って近づいてくる。「止まれ！[local_character.GetFirstName]と[local_character.GetHerHis][local_character.Custom('ComplimentAdjective')]の部隊がいる砦の前を誰も通ることはできない！」と子供は楽しそうに叫ぶ。「あっ、待って、あなたは[ROOT.Char.GetTitleAsNameNoTooltip]なのか！？」"
  travel_events_oltner_2.1140.a: "そうだよ！さっそく村のみんなに、私のことを話してあげて！"
  travel_events_oltner_2.1140.b: "勇敢な戦士たちよ、[location.Custom('TerrainTypeProvince')]を素早く通り抜ける一番の近道を教えてくれ。"
