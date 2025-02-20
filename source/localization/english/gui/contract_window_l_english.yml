@@ -40,7 +40,7 @@
  task_contract_reward_effect_failure_critical_desc: "$label_failure_critical$:"
  label_success_critical: "#P 大成功#!"
  label_success_standard: "#P 成功#!"
- label_success_qualified: "#P ひとます成功#!"
+ label_success_qualified: "#P 及第点#!"
  label_failure_qualified: "#N わずかに失敗#!"
  label_failure_standard: "#N 失敗#!"
  label_failure_critical: "#N 大失敗#!"
