@@ -164,7 +164,7 @@
  disease_early_great_pox:0 "病名は陰部疱疹（性器ヘルペス）なる由。"
  disease_great_pox:0 "病名は重い皮膚病（梅毒）なる由。"
  disease_smallpox:0 "病名は天然痘なる由。"
- disease_bubonic_plague:0 "病名は黒死病（腺ペスト）なる由。"
+ disease_bubonic_plague:0 "病名は黒死病なる由。"
  missing_illness:0 "#D 不明な病気 #!"
  health.2201.minor_disease.desc:0 "\n\n通常、そのような些細な苦悩は大した心配の種にはならないだろうが、[sick_character.GetFirstNamePossessive]の身体は弱く、[sick_character.GetHerHim]にはあまりにも荷が重いかもしれない。"
  health.2201.leprosy.desc:1 "\n\n[sick_character.GetSheHe]は長生きするかもしれないが、[sick_character.GetHerHis]の奇形は[sick_character.GetHerHim]から人を遠ざけ、疑念を抱かせる。私でさえも、[sick_character.GetHerHis]の肌のあちこちに病変が出来ていると思うと嫌悪感を抑えられない…"
