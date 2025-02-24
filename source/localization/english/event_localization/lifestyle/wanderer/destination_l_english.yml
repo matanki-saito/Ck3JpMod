@@ -14,7 +14,7 @@
  destination_excursion_speed_modifier: "小旅行の準備：速度"
  destination_excursion_speed_modifier_desc: "#emp [destination|E]に到達すると消える#!\n次の旅のために予備の馬を用意した。迅速かつ効率的な乗馬を保証する。"
  destination_events.30.t: "[journey_province.GetHolding.GetSpecialBuildingType.GetNameNoTooltip]への旅"
- destination_events.30.desc: "最近、地元の商人が[journey_province.GetName]の都市を訪れた際の旅程を記した小さな旅行日程表を目にした。[ROOT.Char.GetSheHe]が[journey_province.GetHolding.GetSpecialBuildingType.GetName]を訪れた際の様子が詳しく書かれており、その都市で見ておくべき名所もすべて紹介されていた。\n\n今度旅に出るときは、そこを訪れてみるのもいいかもしれない…。"
+ destination_events.30.desc: "最近、地元の商人が[journey_province.GetName]の都市を訪れた際の旅程を記した小さな旅行記を目にした。[ROOT.Char.GetSheHe]が[journey_province.GetHolding.GetSpecialBuildingType.GetName]を訪れた際の様子が詳しく書かれており、その都市で見ておくべき名所もすべて紹介されていた。\n\n今度旅に出るときは、そこを訪れてみるのもいいかもしれない…。"
  destination_events.30.a: "思い出に残る場所のようだ！"
  destination_events.30.a.tt: "[journey_province.GetName]を訪れると、[GetActivityType('activity_journey').GetName][wanderer_lifestyle|E]の追加経験値を獲得できるかもしれない。"
  destination_events.30.toast.title: "[activity.GetCurrentPhase.GetLocation.GetNameNoTooltip]への旅"

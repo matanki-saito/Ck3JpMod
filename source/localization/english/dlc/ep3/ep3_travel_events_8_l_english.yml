@@ -24,7 +24,7 @@
  soulmate_laamp_adventure: "[CHARACTER.GetShortUIName|U]は冒険の途中で[TARGET_CHARACTER.GetShortUIName]と偶然出会い、深い恋に落ちた。"
  soulmate_laamp_adventure_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は冒険の途中で[CHARACTER.GetShortUIName]と偶然出会い、深い恋に落ちた。"
  friend_let_me_go: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]にロマンスを求めに行くことを許した。"
- friend_let_me_go_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]]にロマンスを求めに行くことを許した。"
+ friend_let_me_go_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]にロマンスを求めに行くことを許した。"
  rival_laamp_stole_my_child: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の子供に宮廷を出て冒険者になるようそそのかした。"
  rival_laamp_stole_my_child_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の子供に宮廷を出て冒険者になるようそそのかした。"
  graverobber_opinion: "墓泥棒"

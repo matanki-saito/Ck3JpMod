@@ -549,7 +549,7 @@
  domicile_building_parameter_camp_improved_learning_contract_success_desc: "$baggage_train_ascetics_domicile_building$の[domicile_building|E]：$VALUE|+=0$"
  domicile_building_parameter_camp_pleasure_tent_recruitment_events: "興味深い人物を不定期に雇用することができる"
  domicile_building_parameter_camp_unlocks_camp_cook_officer: "[GetCourtPositionType('camp_cook_camp_officer').GetName()]の[officer|E]をアンロック"
- domicile_building_parameter_camp_unlocks_poisoner_scheme_agents: "#high $agent_poisoner$#![agent|E]のスロットに空きがあれば[GetScheme('murder').GetTypeName][schemes|E]を開始する"
+ domicile_building_parameter_camp_unlocks_poisoner_scheme_agents: "#high $agent_poisoner$#![agent|E]のスロットが開いている状態で[GetScheme('murder').GetTypeName][schemes|E]を開始する"
  domicile_building_parameter_camp_unlocks_camp_party_decision: "[GetDecisionWithKey('hold_camp_party_decision').GetName]の[decision|E]をアンロック"
  domicile_building_parameter_camp_improved_camp_party_activity_gains: "[GetActivityType( 'activity_camp_party').GetName]の[activity|E]の結果を向上させる"
  domicile_building_parameter_camp_unlocks_hearty_meal_decision: "[GetDecisionWithKey('eat_hearty_meal_decision').GetName]の[decision|E]をアンロック"

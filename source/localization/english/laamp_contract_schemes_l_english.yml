@@ -811,7 +811,7 @@
  laamp_extra_contract_schemes.0003.desc_learning: "[task_contract_target.GetPrimaryTitle.GetAdjectiveNoTooltip]の法律について調べられる限りのものを丹念に調べた。[task_contract_target.GetFaith.GetName]の教義や[task_contract_target.GetCulture.GetName]の原則などを駆使していくつかの弱々しい論拠をまとめたが、私のひねり出した専門用語は[task_contract_employer.GetName]をほとんど感心させなかった。\n\n「#EMP これが#! お前の考えか？我が民が[task_contract_target.GetPrimaryTitle.GetName]において法的に#EMP 子供#!として扱われるべきだと？！」と[task_contract_employer.GetTitleAsNameNoTooltip]は叫んだ。「卑劣で屈辱的な策略だ、それに[task_contract_target.GetTitledFirstName]には容易に見抜かれるだろう！もはや、我々に望みはない！」"
  laamp_extra_contract_schemes.0003.a: "[task_contract_employer.GetTitledFirstNameNoTooltip]にこれ以上のことはできなかった…"
  laamp_help_find_secrets_scheme: "秘密の調査"
- laamp_help_find_secrets_scheme_action: "の秘密を漁る"
+ laamp_help_find_secrets_scheme_action: "密偵になる"
  laamp_help_find_secrets_scheme_desc: "[contractor|E]の[vassals|E]の秘密を暴く。[hooks|E]のために脅迫するか、[contractor|E]に報告するか、選ぶことが出来る。"
  laamp_help_find_secrets_scheme_desc_general: "$laamp_help_find_secrets_scheme_desc$"
  laamp_help_find_secrets_scheme_desc_success: "$laamp_contract_scheme_desc_success_boilerplate$"

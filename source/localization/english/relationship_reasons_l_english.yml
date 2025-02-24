@@ -2012,7 +2012,7 @@
  rival_killed_religious_emissary: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName|U]から送られた宗教使節を処刑した。"
  rival_killed_religious_emissary_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName|U]から送られた宗教使節を処刑した。"
  rival_seized_realm_reason: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の領地を奪取した。"
- rival_seized_realm_reason_corresponding: "[CHARACTER.GetShortUIName]は[TARGET_CHARACTER.GetShortUINamePossessive|U]]の領地を奪取した。"
+ rival_seized_realm_reason_corresponding: "[CHARACTER.GetShortUIName]は[TARGET_CHARACTER.GetShortUINamePossessive|U]の領地を奪取した。"
  rival_traded_away_child: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を野営地の補給品と交換した。"
  rival_traded_away_child_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]をキャンプの補給品と交換した。"
  rival_tried_to_intimidate_merchant: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を脅して、無料で野営地の補給品を提供させようとした。"

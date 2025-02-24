@@ -213,7 +213,7 @@
  ep3_laamps.5015.c.success: "言葉が心に染みたようだ"
  ep3_laamps.5015.d: "まあ座れよ。疲れてるんだろう。食え。"
  ep3_laamps.5020.t: "見知らぬ食べ物"
- ep3_laamps.5020.desc: "[location.GetName]の文化は私にとって馴染みがなく、その風習も同様に異質なものを感じる時がある。それが特に証明されたのは、今夜の料理人として務めている[cook.GetFirstName]が、煮込み鍋を見に来るように私に手招きしたときだった。\n\n「これがこの地のやり方らしいぞ」と[cook.GetSheHe]は言い始める。「どうやら#EMP 本場の#![local_culture.GetName]料理らしい。通りすがりの商人にそう言われたんだ。」\n\n私はその煮込みを疑わしげに見つめる。あれは…煮込まれた[cook.Custom('GetRandomRegionalSmallGame')]？しかも#EMP [cook.Custom('RegionalRootVegetablePlural')]と一緒に？！#!"
+ ep3_laamps.5020.desc: "[location.GetName]の文化は私にとって馴染みがなく、その風習も同様に異質なものを感じる時がある。それが特に証明されたのは、今夜の料理人として務めている[cook.GetFirstName]が、煮込み鍋を見に来るように私に手招きしたときだった。\n\n「これがこの地のやり方らしいぞ」と[cook.GetSheHe]は言い始める。\n「どうやら#EMP 本場の#![local_culture.GetName]料理らしい。通りすがりの商人にそう言われたんだ。」\n\n私はその煮物を疑わしげに見つめる。あれは…煮込まれた[cook.Custom('GetRandomRegionalSmallGame')]？しかも#EMP [cook.Custom('RegionalRootVegetablePlural')]と一緒に？！#!"
  ep3_laamps.5020.tt: "[GetTrait('lifestyle_traveler').GetName( GetNullCharacter )]、[GetTrait('eccentric').GetName( GetNullCharacter )]、[GetTrait('gluttonous').GetName( GetNullCharacter )]のうち一つ必要"
  ep3_laamps.5020.a: "…#EMP 一工夫#!でもっとおいしくなるかも…"
  ep3_laamps.5020.a.tt: "[cook.GetFirstNameNoTooltip]も、なにか珍しいものを見つけてこい。"
