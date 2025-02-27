@@ -142,7 +142,7 @@
  depose_invalidated_title: "@scheme_icon!廃位計画の終了"
  start_depose_interaction: "廃位する #weak (計画)#!"
  scheme_interaction_tt_depose_approved: "[recipient.GetShortUINameNoTooltip]の廃位を図る"
- start_depose_notification: "[recipient.GetShortUINameNoTooltip]を廃位させる"
+ start_depose_notification: "[recipient.GetShortUINameNoTooltip]を廃位する"
  house_head_powerful_dominant_family_trigger: "[actor.GetShortUIName|U]は[dominant|E]または[powerful_family|E]の[house_head|E]ではない"
  foster_legitimacy_scheme: "正統性の強化"
  foster_legitimacy_scheme_desc: "[liege|E]の[legitimacy|E]と私への[opinion|E]を上げる"
