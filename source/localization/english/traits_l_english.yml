@@ -1061,7 +1061,7 @@
  TRAIT_FLAG_DESC_can_raid: "[raiding|E]が可能になる"
  trait_immortal: "不死"
  trait_immortal_desc: "この人物は常人を超越しており、加齢や老衰、時の流れに苦しめられることはない。"
- trait_immortal_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] は常人を超越しており、加齢や老衰、時の流れに苦しめられることはない。"
+ trait_immortal_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は常人を超越しており、加齢や老衰、時の流れに苦しめられることはない。"
  trait_lifestyle_wayfarer: "行脚者"
  trait_lifestyle_wayfarer_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]にとって旅は単なる手段ではない。数日間姿を消したかと思えば、遠い土地や高い山、暗い洞窟、深い森といった場所の幻想的な話を携えて、いつも戻ってくる。"
  trait_lifestyle_voyager: "探索者"
