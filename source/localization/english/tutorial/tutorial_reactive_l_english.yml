@@ -55,7 +55,7 @@
  action_reactive_advice_county_control:0 "$open_tutorial_lesson$$reactive_advice_county_control_step_1$"
  action_reactive_advice_county_control_desc:1 "[county|E]の[control|E]が低下すると、そこから得られるものは少なくなります。\nここを開いて伯爵領の支配についての概要を学びましょう!"
  action_reactive_advice_county_control_click:0 "$click_to_open_lesson$"
- reactive_advice_county_control_step_1:0 "伯爵領の支配"
+ reactive_advice_county_control_step_1:0 "支配度"
  reactive_advice_county_control_desc:2 "あなたの[counties|E]の一つでは[control|E]が低くなっており、そこから得られる[taxes|E]と[levies|E]が減少しています。しかし、これを改善して支配値を増加させる方法はあります!\n\n#TUT 支配値は様々な場所で見ることが出来ます。領国画面(F2)の領地タブ、現状タブ(tabキー)、伯爵領画面(伯爵領をクリック)などです。\n\n支配値を増やすには、評議会画面(F4)を開いて[marshal|E]を[increase_control|E]の任務に割り当てましょう。支配値は時間の経過により増加しますが、それはとてもゆっくりです。ですので、高い能力を持つ元帥を用いることをお勧めします。\n\n伯爵領の支配値が低い状態を長く放置すると、[county_corruption|E]を招きます。これを避ける為に、一度に手に余るほどに多くの伯爵領を征服しないようにすることをお勧めします。#!"
  reactive_advice_looming_game_over:0 "$reactive_advice_looming_game_over_step_1$"
  reactive_advice_looming_game_over_step_1:0 "ゲームオーバーの回避"
