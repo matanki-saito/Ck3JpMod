@@ -745,7 +745,7 @@
  pilgrimage.6830.t:0 "沈黙"
  pilgrimage.6830.desc:0 "[ROOT.Char.GetFaith.HouseOfWorship]では自分の足音だけが響く。私は一人きりだ。外界の最後の記憶は、門の近くの乞食たちの顔と、青い青い空だ。今はとても遠い。\n\n私は自分しかいないと知りながら祭壇に向かって歩いているが、それでも私は揺るぎない監視の下にあると感じる。[ROOT.Char.GetFaith.HighGodName]の厳しい目は常に大きく見開かれている。"
  pilgrimage.6830.a:0 "祈りの時だ。"
- pilgrimage.6830.b:0 "あのアーチを見よ…美しい。"
+ pilgrimage.6830.b:0 "Look at those arches... beautiful."
  pilgrimage.6830.c:0 "供物をしなければ。"
  pilgrimage.6830.c.tt:0 "あなたは[votive_artifact.GetName]を失うでしょう"
  pilgrimage.6840.t:0 "物質的な祝福"

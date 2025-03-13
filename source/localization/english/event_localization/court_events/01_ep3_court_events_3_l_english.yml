@@ -107,3 +107,4 @@
  gains_smith_inspiration_tt: "[inspired.GetShortUIName|U]は鍛冶の[inspiration|E]を得ます"
  gains_weaver_inspiration_tt: "[inspired.GetShortUIName|U]は織工の[inspiration|E]を得ます"
  gains_artisan_inspiration_tt: "[inspired.GetShortUIName|U]は職人の[inspiration|E]を得ます"
+ court_events.3100.a.tt: "I start a [GetScheme('learn_language').GetTypeName] [scheme|E] against [chancellor.GetShortUIName] with [GetModifier('pressured_to_learn_court_language_modifier').GetNameWithTooltip]"

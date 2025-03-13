@@ -99,7 +99,7 @@
  TAX_SLOT_OVERVIEW_WINDOW_HEADER: "あなたの[tax_jurisdictions|E]"
  TAX_SLOT_OVERVIEW_WINDOW_TOTAL_CONTRIBUTION: "総額"
  TAX_SLOT_OVERVIEW_WINDOW_DESC: "あなたの[clan|E]の[vassals|E]を[tax_jurisdictions|E]に割り振ることで税収を管理できます。[tax_collector|E]と[tax_decrees|E]によって、[vassals|E]がどのように徴税されるかが決まります。"
- TAX_SLOT_OVERVIEW_WINDOW_TAX_SLOTS_WARNING: "[Character.GetTaxSlotsWithoutTaxCollectorCount]人の[untaxed_jurisdictions|E]がいる"
+ TAX_SLOT_OVERVIEW_WINDOW_TAX_SLOTS_WARNING: "You have [Character.GetUntaxedJurisdictionCount] [untaxed_jurisdictions|E]"
  TAX_SLOT_OVERVIEW_WINDOW_UNASSIGNED_VASSALS_WARNING: "[Character.GetUnassignedVassalsCount]人の[unassigned_vassals|E]がいる"
  TAX_SLOT_OVERVIEW_WINDOW_TOTAL_SUB_HEADER: "税務管轄地#medium [GetDataModelSize( ValueBreakdown.GetSubValues )]/[Character.GetMaxTaxSlotsCount]#!"
  TAX_SLOT_OVERVIEW_WINDOW_RETURN_BUTTON: "領国に戻る"
@@ -173,3 +173,4 @@
  TAX_SLOT_OBLIGATION_VASSAL_MODIFIER: "#S [vassal|E]:#!"
  TAX_SLOT_OBLIGATION_SELECT_WARNING_TOOLTIP: "[JoinText( '\n\n', TaxSlotObligationsWindow.CanSelectObligationDesc( TaxSlotObligation.Self ), TaxSlotObligationsWindow.GetInvalidVassalsForObligationDesc( TaxSlotObligation.Self ) )]"
  TAX_SLOT_OBLIGATION_COOLDOWN: "#X @warning_icon!$DATE$の間は[tax_decree|E]を変えられない#!"
+ TAX_COLLECTOR_SLOT_OBLIGATION_TEXT: "[TaxSlot.GetObligation.GetName]"

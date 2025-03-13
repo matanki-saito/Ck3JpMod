@@ -31,7 +31,7 @@
  agent_events.0012.e.tt.become_lovers: "もっと大きな何かの始まり"
  agent_events.0012.e.tt.not_lovers: "$agent_events.0012.c.tt.failure$"
  agent_events.0021.t: "長所から学ぶ"
- agent_events.0021.desc.intro: "私の協力者の二人、[char_1.GetTitledFirstName]と[char_2.GetTitledFirstName]は我々の計画の基本的な到達点以外に共通の目的を見つけたようだ。\n\n[char_2.GetHerHis]の仲間の能力は"
+ agent_events.0021.desc.intro: "Two of my agents, [char_1.GetTitledFirstName] and [char_2.GetTitledFirstName], seem to have found common cause in our plan beyond the basic goal.\n\nImpressed by [char_2.GetHerHis] compatriot's skill with"
  agent_events.0021.desc.diplomacy: "文章力、演説力、修辞法、"
  agent_events.0021.desc.martial: "兵站管理、実行の意思、指導力の発揮、"
  agent_events.0021.desc.stewardship: "算術、会計、そして細部への気配り、"

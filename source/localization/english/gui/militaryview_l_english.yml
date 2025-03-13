@@ -142,7 +142,7 @@
  MV_MEN_AT_ARMS_LABEL: "[men_at_arms|E]："
  MV_REGIMENT_START_SIZE_ADVENTURER: "兵士は五人から配備される（[MenAtArmsType.GetStackSize]に関わらず）"
  MV_ARMIES_SELECTION_PERSONAL: "あなたの軍"
- MV_ARMIES_SELECTION_IMPERIAL: "帝国軍"
+ MV_ARMIES_SELECTION_IMPERIAL: "[GetPlayer.Custom('GetProvincialArmiesConceptNoTooltip')]"
  MV_MERCENARIES_SELECTION_MERCENARIES: "傭兵"
  MV_MERCENARIES_SELECTION_HIREABLE_RULERS: "特別な傭兵"
  MV_MERCENARIES_NO_HIREABLE_RULERS_IN_RANGE: "あなたの[realm|e]に雇用可能な[adventurers|E](など)が存在しない"

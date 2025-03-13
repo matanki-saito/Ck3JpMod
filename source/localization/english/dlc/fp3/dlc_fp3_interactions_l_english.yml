@@ -47,7 +47,7 @@
  fp3_antagonize_character_interaction.recipient_message.15: "[secondary_recipient.GetTitledFirstName]は素晴らしい方でしょう、[secondary_recipient.GetHerHim]のことを思い直してくださいましたか？"
  fp3_persian_struggle_previously_swayed_tt: "以前、[persian_struggle|E]中に揺らいだ：$VALUE|=+0$"
  fp3_demand_submission_interaction: "服従を求める"
- fp3_demand_submission_interaction_desc: "敬虔さ、狡猾さ、あるいは威圧することによって[recipient.GetShortUINamePossessiveNoTooltip]への忠誠を要求する。"
+ fp3_demand_submission_interaction_desc: "Demand [recipient.GetShortUINamePossessiveNoTooltip] loyalty in the form of a [hook|E] by using piety, guile, or intimidation."
  DEMAND_SUBMISSION_NOT_SAME_HEAD_OF_FAITH: "[head_of_faith|E]を共有していない"
  DEMAND_SUBMISSION_I_AM_HEAD_OF_FAITH: "私は[recipient.GetShortUINamePossessive|U]の[recipient.GetFaith.ReligiousHeadName|U]である：$VALUE|=+0$"
  DEMAND_SUBMISSION_SHORT_REIGN: "[short_reign|E]: $VALUE|+0=-+$"

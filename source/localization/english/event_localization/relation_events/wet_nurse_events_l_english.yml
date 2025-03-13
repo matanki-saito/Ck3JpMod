@@ -302,7 +302,7 @@
  bp2_yearly.7026.c: "$bp2_decision.0002.f$"
  bp2_yearly.7026.c.tt: "$bp2_decision.0002.cooldown$"
  bp2_yearly.7027.t: "$bp2_decision.0002.t$：浄化"
- bp2_yearly.7027.desc: "敬虔なる[priest.GetFirstName]が儀式の盃を掲げると、部族の皆が恭しく水辺に集まった。\n\n「数滴の雫から海は始まるように！[teentribal.Custom('GirlBoy')]から人間が生まれるのだ！すべては今日始まる！」[priest.GetSheHe|U]が聖水を神と肌に垂らす。\n\n「[priest.GetFaith.WaterGodName]の聖名において私が誓う。水があなたを清め、幼きを洗い流し、成熟せし知恵を齎すだろう」\n\nそして祝宴で次に私を待つのが——聖なる池だ。"
+ bp2_yearly.7027.desc: "The tribe gathers reverently by water's edge, as the holy [priest.GetFirstName] hoists the ceremonial cup.\n\n\"From some few drops began the sea! From [teentribal.Custom('GirlBoy')], comes [teentribal.GetWomanMan]! So it begins.\" [priest.GetSheHe|U] tips out sacred water onto hair and skin.\n\n\"In the name of [priest.GetFaith.WaterGodName]: let the water cleanse you, let it wash away the child and leave the wisdom of adulthood.\"\n\nThe next part of the ceremony falls upon me — and the sacred pool awaits."
  bp2_yearly.7027.a: "溺れることと水を知ることは…表裏一体！"
  bp2_yearly.7027.a.tt: "聖なる水へ飛び込めというが…死ぬほど高いぞ…"
  bp2_yearly.7027.b: "儀式に必要なのは…軽い入浴だろうよ"

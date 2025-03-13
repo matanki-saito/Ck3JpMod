@@ -15,3 +15,5 @@
  CHARACTER_CAN_CHOOSE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1 "#TUT_KW [CHARACTER.GetShortUINameNoTooltip]はこのライフスタイルフォーカスに変更可能です。#!"
  CHARACTER_CAN_CHOOSE_THIS_EDUCATION_FOCUS_DESCRIPTION:1 "#TUT_KW [CHARACTER.GetShortUINameNoTooltip]は教育方針を変更可能です。#!"
  FOCUS_BELOW_MIN_AGE:0 "#weak 教育方針は[GetDefine('NCharacter', 'FOCUS_CHILD_MIN_AGE')]歳までは自由に変更することができ、その時点で固定されて影響を与え始めるでしょう！#!"
+ EDUCATION_FOCUS_BUTTON_TOOLTIP: "#T [FocusType.GetNameNoTooltip]\n#!#I Click to select#!"
+ EDUCATION_FOCUS_SELECTED_EMPTY_STATE: "Select an [education_focus|e] above"

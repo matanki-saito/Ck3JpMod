@@ -22,7 +22,7 @@
  ACTIVITY_BASE_COST:1 "平均コスト: [ActivityType.GetUiPredictedCost( GetPlayer )|U]"
  ACTIVITY_BASE_COST_TT:0 "#T 平均コスト#!\n[ActivityType.GetLocalizedText( 'predicted_cost' )]"
  ACTIVITY_JOIN_ALREADY_STARTED:1 "@warning_icon!#X [Activity.GetName]がすでに進行中です#!"
- SHOW_ACTIVITY_TOOLTIP:3 "#T [ActivityType.GetNameNoTooltip]#!\n[JoinText( '\n', ActivityType.GetCanStartActivityTooltip( GetPlayer ), ActivityType.GetLocalizedText( 'selection_tooltip' ) )]\n\n#I クリックで選択#!"
+ SHOW_ACTIVITY_TOOLTIP:3 "#T [ActivityType.GetNameNoTooltip]#!\n[JoinText( '\n', ActivityType.GetCanPlanActivityTooltip( GetPlayer ), ActivityType.GetLocalizedText( 'selection_tooltip' ) )]\n\n#I Click to select#!"
  JOIN_ACTIVITY_TOOLTIP:0 "#T [Activity.GetNameNoTooltip]#!\n\n#I クリックで選択#!"
  ACTIVITY_LIST_DETAIL_HOST_TITLE:0 "[ActivityType.GetNameNoTooltip]を主催する"
  ACTIVITY_LIST_DETAIL_DESC:0 "[ActivityType.GetDescription]"
@@ -69,3 +69,4 @@
  activity_chariot_race_host_an_a: "$host_activity_a$"
  activity_playdate_host_an_a: "$host_activity_a$"
  activity_witch_ritual_host_an_a: "$host_activity_a$"
+ ACTIVITY_LIST_GROUP_HEADER: "$NAME$ #weak ($SIZE$)#!"

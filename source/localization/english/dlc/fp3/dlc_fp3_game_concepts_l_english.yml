@@ -27,7 +27,7 @@
  game_concept_fp3_install_loyalist_cb: "親カリフ派の拡大"
  game_concept_fp3_install_loyalist_cb_desc: "標的とする[realm|E]の主に[GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )]を就かせるために[war|E]を行うことができます。"
  game_concept_fp3_demand_submission_interaction: "$fp3_demand_submission_interaction$"
- game_concept_fp3_demand_submission_interaction_desc: "信心深さ、狡猾さ、そして威圧感をもって対象の忠誠を要求する。"
+ game_concept_fp3_demand_submission_interaction_desc: "Demand a [character_possessive|E] loyalty in the form of a [hook|E] by using piety, guile, or intimidation."
  game_concept_fp3_request_house_unity_change_interaction: "$fp3_request_house_unity_change_interaction$"
  game_concept_fp3_request_house_unity_change_interaction_desc: "$fp3_request_house_unity_change_interaction_desc$"
  game_concept_fp3_request_honorary_titles_interaction: "$fp3_request_honorary_titles_interaction$"

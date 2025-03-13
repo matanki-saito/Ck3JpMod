@@ -311,5 +311,5 @@
  ep3_emperor_yearly.2420.t: "玉座の背後にある影"
  ep3_emperor_yearly.2420.desc: "強欲にして強大なる[noble_family_head.GetHouse.GetBaseName]家の手は、あたかも触手の如く[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName]の至る所に張り巡らされている。\n\n皇帝さえも彼らの力に及ばないのは誰の目にも明らかである。彼らこそ我が国の真の主であり、[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetTierAsNameNoTooltip]の政治と経済の支配者なのだ。"
  2420_noble_family_tt: "新たな支配的一門"
- 2420_noble_family_tt_desc: "[noble_family_head.GetHouse.GetBaseName]一門は今や[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]の[dominant_family|E]と見なされるようになった。"
+ 2420_noble_family_tt_desc: "The [noble_family_head.GetHouse.GetBaseName] family is now considered the [dominant_family|E] in [noble_family_head.GetTopLiege.GetPrimaryTitle.GetName|l]."
  ep3_emperor_yearly.2420.a: "厄介な知らせだ。"

@@ -84,3 +84,5 @@
  HEADER_DOMINANT_FAMILIES: "[dominant_families|E]"
  HEADER_POWERFUL_FAMILIES: "[powerful_families|E]"
  HEADER_NOBLE_FAMILIES: "[noble_families|E]"
+ ADMIN_GOVERNMENT_HOUSE_MEMBER_COUNT: "[DynastyHouse.GetNumberOfMembers] Members"
+ ADMIN_VASSAL_CANDIDATE_SCORE_TT_HEADING: "[candidate_score|E]: [AdminVassalSuccessorCandidate.GetScore|V0]"

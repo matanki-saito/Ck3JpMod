@@ -63,4 +63,4 @@
  ep3_laamps_provisions.1080.c: "「陸地に向けて進路を取れ、#EMP 今すぐに#!」"
  ep3_laamps_provisions.1080.c.tt: "あなたの[travel|E]は中断され、[landfall.GetCounty.GetTitle.GetHolder.GetTopLiege.GetPrimaryTitle.GetName]の[landfall.GetBaronyNameExplicitly]へと再設定されます。"
  critically_low_provisions_alert: "深刻な食糧不足"
- critically_low_provisions_alert_desc: "食料がもうじき底をつく！"
+ critically_low_provisions_alert_desc: "Your [provisions|E] are about to run out!"

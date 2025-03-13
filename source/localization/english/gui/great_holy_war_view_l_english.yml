@@ -78,3 +78,4 @@
  ghw_heir_to_a_title:0 "[title|E]の[heir|E]である"
  ghw_married_to_a_ruler:0 "[ruler|E]と[married|E]している"
  GREAT_HOLY_WAR_NAME_NO_TOOLTIP: "[GREAT_HOLY_WAR.GetTargetTitle.GetBaseNameNoTooltip]を巡る[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
+ ghw_devoted_to_their_faith: "Is bound by religious commitments"

@@ -89,7 +89,7 @@
  gained_royal_court_toast_desc:0 "今やあなたは、[royal_court|E]の主です"
  court_maintenance.0012.t:0 "卓越の印"
  court_maintenance.0012.desc:0 "我が王朝の名声が高まるにつれ、輝かしい[ROOT.Char.GetDynasty.GetName]の紋章への親しみも広がっている。\n\n"
- court_maintenance.0012.desc_illustrious:0 "我が一族のシンボルは今や世界中に知られ、宰相に言及され、子供たちに教えられ、[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]に足を踏み入れたこともない異国の商人たちをも喜ばせている。"
+ court_maintenance.0012.desc_illustrious:0 "我が一族のシンボルは今や世界中に知られ、宰相に言及され、子供たちに教えられ、[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]の地に足を踏み入れたこともない異国の商人たちをも喜ばせている。"
  court_maintenance.0012.desc_masterwork:0 "我が一族の紋章は今や皆に知られており、この地域の偉大な王家や[ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]の最高位の貴族たちの間に記録されている。"
  court_maintenance.0012.desc_famed:0 "我が一族の意匠は、今や地方の貴族階級に認識され、[ROOT.Char.GetCulture.GetNameNoTooltip]の著名な血統の中でも高位に数えられている。"
  court_maintenance.0012.a:0 "さもあるべし。"

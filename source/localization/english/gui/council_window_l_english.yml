@@ -77,3 +77,5 @@
  COURT_WINDOW_HAS_FOLLOWERS: "あなたの[CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]"
  COURT_WINDOW_NO_COURTIERS: "[guests|E]も[CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]もいません。時間が経てばより多くの客人が現れるでしょうし、上記の決断を使って招待することもできます。"
  COURT_WINDOW_NO_FOLLOWERS: "現在、利用可能な[CourtWindow.GetCourtOwner.Custom('GetCourtierConceptPlural')]はありません"
+ COURT_WINDOW_NO_GUARDIAN: "No [guardian|E]"
+ COURT_WINDOW_NO_GUARDIAN_TOOLTIP: "No [guardian|E] has been assigned to educate the [child|E]"

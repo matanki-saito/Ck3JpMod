@@ -95,7 +95,7 @@
  harm.0521.a.tt.success:0 "あなたの手は命綱を離さない"
  harm.0521.a.tt.failure:0 "あなたは水底に沈む"
  harm.0521.b:0 "一旦、水面で浮く！"
- harm.0521.b.tt.unlocked_by_cultrad:0 "あなたの[culture|E]の[traditions|E]のためにこのオプションを選択できます"
+ harm.0521.b.tt.unlocked_by_cultrad:0 "This option is unlocked by your [culture_possessive|E] [traditions|E]"
  harm.0521.c:0 "泳げ、#EMP 泳がねば#!！"
  harm.0521.c.tt.success:0 "何とか水面に戻る"
  harm.0521.c.tt.failure:0 "遅すぎた"

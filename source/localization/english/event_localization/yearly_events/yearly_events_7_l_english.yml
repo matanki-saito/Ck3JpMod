@@ -35,7 +35,7 @@
  yearly.7005.independence_faction:0 "\n\n「自分の国家を持てないのであれば、せめて自分の悲劇の英雄とならなければならない。」"
  yearly.7005.claimant_faction:1 "「あなたには、その玉座の上に留まっている権利はないのだ。これ以上、あなたが誤った判断を下すのを見るくらいなら、死んだほうがましだ。」"
  yearly.7005.populist_faction:0 "「悲しいことだが、私は誓おう、あなたの足で押し潰されたすべての人々の苦しみよりも公正な死をあなたに与えざるを得ない。少なくとも、私の最期は英雄となることだろう。」"
- yearly.7005.weapon:1 "\n\n[coup_leader.GetSheHe|U]は隠し持った[coup_leader.Custom('SignatureWeaponNameOrType')]を取り出すとまっすぐに進む。"
+ yearly.7005.weapon:1 "\n\n[coup_leader.GetSheHe|U] pulls out a concealed dagger and bolts forth."
  yearly.7005.single_death:0 "一撃で[coup_leader.GetSheHe]は[first_character_kill.GetTitledFirstName]を打つ、"
  yearly.7005.double_death:0 "二重の打撃で、[coup_leader.GetSheHe]は[first_character_kill.GetTitledFirstName]と[second_character_kill.GetTitledFirstName]を攻撃する、"
  yearly.7005.triple_death:0 "皆の恐怖の中、[coup_leader.GetSheHe]は[first_character_kill.GetTitledFirstName]、[second_character_kill.GetTitledFirstName]及び[third_character_kill.GetTitledFirstName]に打ちかかる。"

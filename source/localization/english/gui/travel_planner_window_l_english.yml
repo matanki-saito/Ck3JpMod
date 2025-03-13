@@ -115,3 +115,4 @@
  START_TRAVEL_TO_CONTRACT: "契約を受けるために移動する"
  START_TRAVEL_MOVE_TO_CONTRACT: "依頼を受託するために[Domicile.GetType.GetNameNoTooltip]を移動する"
  START_TRAVEL_MOVE_DOMICILE: "[Domicile.GetType.GetNameNoTooltip]の移動を開始する"
+ CANCEL_TRAVEL_PLAN_DRAFT_CANNOT_BE_CANCELLED: "This travel plan cannot be canceled."

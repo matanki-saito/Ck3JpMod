@@ -37,7 +37,7 @@
  yearly.4031.tt:0 "調査を開始します"
  yearly.4031.b:0 "死体を埋めて、この茶番を忘れよう。"
  yearly.4031.b_every_courtier:0 "すべての廷臣"
- yearly.4031.c:0 "侍医として、君はこの死体を研究するべきだ。"
+ yearly.4031.c:0 "As my physician, you should study the bodies."
  yearly.4061.t:0 "賢い愚者"
  yearly.4061.desc_opening:0 "「私の名前は[hodja.GetTitledFirstName]でございます、我が[ROOT.Char.GetLadyLord]。あなたに私の知恵を提供するために参りました。」\n\n"
  yearly.4061.desc_guard:0 "私の前にその男を連れてきた[guard.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は疑わしい顔をしている。"

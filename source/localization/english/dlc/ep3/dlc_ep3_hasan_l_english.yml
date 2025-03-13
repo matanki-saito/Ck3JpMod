@@ -73,7 +73,7 @@
  ep3_hasan_advance_radicalism: "神聖なる使命を押し進める"
  has_tougher_to_convert_tt: "[GetModifier( 'tougher_to_convert' ).GetNameWithTooltip|L]の[modifier|E]を持っていない"
  county_contains_any_holy_site_tt: "[county|E]に[holy_sites|E]が含まれていない"
- or_a_neigbouring_county_tt: "近隣の[county|E]が上記の要件を満たしている"
+ or_a_neigbouring_county_tt: "A neighboring [county|E] in the same [realm|E] fulfills the above requirements"
  0_or_below_county_opinion_tt: "[county_opinion|E]が#V 0#!以下である"
  look_for_another_enemy_tt: "あなたはどこかで他の敵を探します"
  HASAN_KINGDOM: "$b_alamut$"
@@ -89,3 +89,4 @@
  chance_to_advance_to_the_assassins_tt: "暗殺教団への道に#P 進む#!機会"
  character_camp_is_at_targets_realm: "[CHARACTER.GetShortUINamePossessive|U]の[camp|E]が[TARGET_CHARACTER.GetNamePossessive]の[realm|E]内にある"
  hasan_stroy_cycle_ultimate_foe: "暗殺教団への道を#V 15#!回以上推し進めたか、[caliph.GetName]が死亡しており、あなたが[hasan.GetFaith.GetName]の究極の敵を選択した#weak (現在の進捗:[radical_points])#!"
+ is_held_by_hof_tt: "Must not be held by its [head_of_faith|E]"

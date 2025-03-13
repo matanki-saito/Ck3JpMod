@@ -103,3 +103,5 @@
  ACCOLADE_TYPE_EQUAL_NONE:0 "この[accolade_type|e]は無効です"
  TOP_LIEGE_EQUAL_FIRST: "[top_liege|E]である"
  NOT_TOP_LIEGE_EQUAL_FIRST: "[top_liege|E]では#bold ない#!"
+ LIEGE_EQUAL_NONE: "They are your [courtier|E], [vassal|E] or [follower|E]"
+ NOT_LIEGE_EQUAL_NONE: "They are #bold not#! your [courtier|E], [vassal|E] or [follower|E]"

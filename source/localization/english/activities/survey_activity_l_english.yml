@@ -451,3 +451,5 @@
  inspection_third_try_modifier_desc: "$inspection_retry_desc$\n\n[inspection_success_chance|E]: #p +20%#!"
  inspection_fourth_try_modifier: "$inspection_second_try_modifier$"
  inspection_fourth_try_modifier_desc: "$inspection_retry_desc$\n\n[inspection_success_chance|E]: #p +30%#!"
+ inspection_conclusion_success_governor_experience_key_title: "[host.Custom('GetGovernorConceptNoTooltip')] Experience"
+ inspection_conclusion_success_governor_experience_key: "[host.GetShortUIName] has gained valuable experience in [host.GetHerHis] role as [host.Custom('GetGovernorConceptNoTooltip')] after [host.GetSheHe] visited [province.GetName]."

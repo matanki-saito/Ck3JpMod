@@ -298,7 +298,7 @@
  artifact_book_other_desc_3:0 "[ROOT.Artifact.GetFeatureText( 'book_topic' )]について広範に考察し、[ROOT.Artifact.GetOwner.Custom('ArtifactAdverbWealth')]飾られ、図解された[ROOT.Artifact.GetOwner.Custom('ArtifactArticleBookContentQuality')|U]作品である。"
  artifact_book_other_desc_4:0 "[ROOT.Artifact.GetOwner.Custom('ArtifactArticleWealth')|U]本は[ROOT.Artifact.GetFeatureText( 'book_subject' )]に対する[ROOT.Artifact.GetOwner.Custom('ArtifactArticleBookContentQuality')]理解を示しながら、[ROOT.Artifact.GetFeatureText( 'book_topic' )]についても詳しく述べている。"
  artifact_book_other_desc_5:0 "[ROOT.Artifact.GetOwner.Custom('ArtifactArticleWealth')|U]の写本の[ROOT.Artifact.GetOwner.Custom('ArtifactBookContentQuality')]は[ROOT.Artifact.GetFeatureText( 'book_topic' )]に詳しく書いてある。ページには広く説明が施され、大きな巻貝を中心とした多くの図版が掲載されている。"
- artifact_book_no_preface_desc:0 "[ROOT.Artifact.GetFeatureText( 'book_topic' )]"
+ artifact_book_no_preface_desc:0 "[ROOT.Artifact.GetFeatureText( 'book_topic' )|U]."
  feature_book_cover_material_wood:0 "木"
  feature_book_cover_material_leather:0 "革"
  feature_book_cover_material_velvet:0 "ビロード"

@@ -40,7 +40,7 @@
  death_murder_killer:0 "[TARGET_CHARACTER.GetUIName]に殺害された"
  death_siege:2 "包囲戦中に死亡した"
  death_duel:0 "決闘で討ち取られた"
- death_duel_killer:0 "[TARGET_CHARACTER.GetUIName]との決闘で討ち取られた"
+ death_duel_killer:0 "was slain in a duel by [TARGET_CHARACTER.GetUIName]"
  death_accident:0 "事故死した"
  death_accident_killer:0 "$death_murder_killer$"
  death_ended_on_feast_table:0 "宴会中に人生の幕を閉じた"

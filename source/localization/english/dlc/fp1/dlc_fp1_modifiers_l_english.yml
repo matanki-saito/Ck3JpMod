@@ -26,7 +26,7 @@
  draugr_healthy_hiking_fp1_modifier:0 "健康的なハイキング"
  draugr_healthy_hiking_fp1_modifier_desc:0 "この人物は、自身の領国の荒野を歩き回って怪物を狩ることに膨大な時間を費やしてきた。"
  ultimate_blasphemer_modifier:0 "究極の冒涜者"
- ultimate_blasphemer_modifier_desc:0 "この人物は、自分の[head_of_faith|E]を他の[faith|E]の神々のために犠牲にした。誰も彼らを真の信仰者とは思っていない。"
+ ultimate_blasphemer_modifier_desc:0 "This character sacrificed their own [head_of_faith|E] to another [faithpossessive|E] divinities. No one considers them a true member of the faithful."
  embraced_local_traditions_modifier:0 "地元の伝統の受容"
  embraced_local_traditions_modifier_desc:0 "このかつてのスカンディナヴィアの人物は、新しい故郷の文化と信仰を受け入れているが、#V ルーン石碑#!を建立することはできる。"
  settled_norse_dynasty_modifier:0 "定住した王朝"
