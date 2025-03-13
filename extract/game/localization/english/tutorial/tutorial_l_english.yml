@@ -103,8 +103,8 @@
  lesson_losing_wars:0 "Losing Wars"
 
 
- quick_tutorial_desc: "Quick Tutorial"
- full_tutorial_desc: "Full Tutorial"
+ quick_tutorial_desc: "Start Tutorial"
+ full_tutorial_desc: "Start Advanced"
  # Basics
  lesson_basics_welcome:1 "Welcome to Crusader Kings III"
  lesson_welcome_desc:3 "@tutorial_screenshot_1!\nYou are a medieval ruler! Your reign may be brief, but through your heirs you can bring your dynasty to prominence.\n\nLand is yours for the taking, by way of the sword or through marriage, while clever diplomacy can extend your reach far beyond the wildest dreams of any conqueror..."
@@ -251,7 +251,7 @@
 
  # Lifestyles
  lesson_basics_lifestyles_1:0 "Lifestyles ($lesson_basics_lifestyles$)"
- lesson_basics_lifestyles_1_desc:1 "As well as [traits|E], your [character|E] can also pick a [lifestyle|E]. There are five $game_concept_lifestyles$, one for each skill.\n\n$game_concept_lifestyles$ represent what you put the most effort into day-to-day, and each one has several [focuses|E] inside relating to it.\n\nEvery $game_concept_focus$ gives you a unique bonus and makes events associated with that $game_concept_focus$ more likely to happen."
+ lesson_basics_lifestyles_1_desc:1 "As well as [traits|E], your [character|E] can also pick a [lifestyle|E]. There are [SelectLocalization( HasDlcFeature( 'wandering_nobles' ), 'number_six', 'number_five' )] $game_concept_lifestyles$, one for each skill.\n\n$game_concept_lifestyles$ represent what you put the most effort into day-to-day, and each one has several [focuses|E] inside relating to it.\n\nEvery $game_concept_focus$ gives you a unique bonus and makes events associated with that $game_concept_focus$ more likely to happen."
  lesson_basics_lifestyle_open_window_tt:2 "Click the Lifestyle button (highlighted)"
  lesson_basics_lifestyles_2:0 "Focus ($lesson_basics_lifestyles$)"
  lesson_basics_lifestyles_no_GUI_highlight:0 "$lesson_basics_lifestyles_2$"

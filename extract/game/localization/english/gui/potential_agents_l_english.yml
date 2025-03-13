@@ -6,6 +6,7 @@
  CHARACTER_SORT_CONTRIBUTION:0 "Contribution"
  CHARACTER_SORT_RELEVANCE: "Relevance"
  CHARACTER_SORT_AGE:0 "Age"
+ CHARACTER_SORT_EDUCATION_AVAILABLE: "Available for Education"
  CHARACTER_SORT_TITLES:0 "Rank"
  CHARACTER_SORT_VASSAL_SPEED: "Speed"
  CHARACTER_SORT_VASSAL_POWER: "Power"
@@ -313,7 +314,7 @@
  agent_wrangler_desc: "$agent_wrangler_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$agent_wrangler_desc.requirements$"
  agent_wrangler_speed: "$agent_wrangler$"
  agent_wrangler_speed_i: "[scheme_speed_i]"
- agent_wrangler_speed_desc: "$agent_wrangler_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_wrangler_desc.requirements$"
+ agent_wrangler_speed_desc: "$agent_wrangler_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_wrangler_desc.requirements$"
  
  agent_devotee: "Devotee"
  agent_devotee_i: "[success_chance_max_i]"
@@ -336,7 +337,7 @@
  agent_lookout_success_desc: "$agent_lookout_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$agent_lookout_desc.requirements$"
  agent_lookout_speed: "$agent_lookout$"
  agent_lookout_speed_i: "[scheme_speed_i]"
- agent_lookout_speed_desc: "$agent_lookout_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_lookout_desc.requirements$"
+ agent_lookout_speed_desc: "$agent_lookout_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_lookout_desc.requirements$"
 
  agent_alibi: "Alibi"
  agent_alibi_i: "[secrecy_i]"
@@ -349,7 +350,7 @@
  agent_justiciar_desc: "#WEAK $agent_justiciar_desc.flavour$#!\n$EFFECT_LIST_BULLET$ Provides [secrecy_i] [secrecy|E]\n$agent_justiciar_desc.requirements$"
  agent_justiciar_speed: "$agent_justiciar$"
  agent_justiciar_speed_i: "[scheme_speed_i]"
- agent_justiciar_speed_desc: "$agent_justiciar_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_justiciar_desc.requirements$"
+ agent_justiciar_speed_desc: "$agent_justiciar_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_justiciar_desc.requirements$"
  
  agent_decoy: "Decoy"
  agent_decoy_i: "[secrecy_i]"
@@ -360,21 +361,21 @@
 
  agent_infiltrator: "Infiltrator"
  agent_infiltrator_i: "[scheme_speed_i]"
- agent_infiltrator_desc: "#WEAK A latch left unlocked, a guard too hungover to patrol, a hand-drawn map dropped outside the walls, courtesy of a friend within.#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [intrigue_i] [intrigue|E] & [diplomacy_i] [diplomacy|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('deceitful').GetName( GetNullCharacter )] and [GetTrait('diligent').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('honest').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
+ agent_infiltrator_desc: "#WEAK A latch left unlocked, a guard too hungover to patrol, a hand-drawn map dropped outside the walls, courtesy of a friend within.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [intrigue_i] [intrigue|E] & [diplomacy_i] [diplomacy|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('deceitful').GetName( GetNullCharacter )] and [GetTrait('diligent').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('honest').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
  
  agent_footpad: "Footpad"
  agent_footpad_i: "[scheme_speed_i]"
- agent_footpad_desc: "#WEAK A purse, a throat, a groin — there's a lot of things you can take a knife to in a back alley, if you pick your moment right.#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [intrigue_i] [intrigue|E] & [prowess_i] [prowess|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('deceitful').GetName( GetNullCharacter )] and [GetTrait('calm').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('honest').GetName( GetNullCharacter )] and [GetTrait('wrathful').GetName( GetNullCharacter )]"
+ agent_footpad_desc: "#WEAK A purse, a throat, a groin — there's a lot of things you can take a knife to in a back alley, if you pick your moment right.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [intrigue_i] [intrigue|E] & [prowess_i] [prowess|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('deceitful').GetName( GetNullCharacter )] and [GetTrait('calm').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('honest').GetName( GetNullCharacter )] and [GetTrait('wrathful').GetName( GetNullCharacter )]"
  
  agent_socialite: "Socialite"
  agent_socialite_i: "[scheme_speed_i]"
- agent_socialite_desc: "#WEAK A toast, my lords and ladies, to a good friend of mine I'd like you all to think of as highly as I do!#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E], [intrigue_i] [intrigue|E], & [learning_i] [learning|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('gregarious').GetName( GetNullCharacter )] and [GetTrait('arrogant').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('shy').GetName( GetNullCharacter )] and [GetTrait('humble').GetName( GetNullCharacter )]"
+ agent_socialite_desc: "#WEAK A toast, my lords and ladies, to a good friend of mine I'd like you all to think of as highly as I do!#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E], [intrigue_i] [intrigue|E], & [learning_i] [learning|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('gregarious').GetName( GetNullCharacter )] and [GetTrait('arrogant').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('shy').GetName( GetNullCharacter )] and [GetTrait('humble').GetName( GetNullCharacter )]"
  
  agent_gabbler: "Gabbler"
  agent_gabbler_i: "[scheme_speed_i]"
  agent_gabbler_desc.flavour: "#WEAK There's an art to speaking for an hour without saying a thing.#!"
  agent_gabbler_desc.requirements: "$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E] & [intrigue_i] [intrigue|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('gregarious').GetName( GetNullCharacter )] and [GetTrait('fickle').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('shy').GetName( GetNullCharacter )] and [GetTrait('humble').GetName( GetNullCharacter )]"
- agent_gabbler_desc: "$agent_gabbler_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_gabbler_desc.requirements$"
+ agent_gabbler_desc: "$agent_gabbler_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_gabbler_desc.requirements$"
  agent_gabbler_secrecy: "$agent_gabbler$"
  agent_gabbler_secrecy_i: "[secrecy_i]"
  agent_gabbler_secrecy_desc: "$agent_gabbler_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [secrecy_i] [secrecy|E]\n$agent_gabbler_desc.requirements$"
@@ -383,7 +384,7 @@
  agent_cleric_i: "[scheme_speed_i]"
  agent_cleric_desc.flavour: "#WEAK Faith demands fire like the land thirsts for rain. They can exist apart, but the one is poorer for it.#!"
  agent_cleric_desc.requirements: "$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E] & [learning_i] [learning|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('zealous').GetName( GetNullCharacter )] and [GetTrait('diligent').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('cynical').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
- agent_cleric_desc: "$agent_cleric_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_cleric_desc.requirements$"
+ agent_cleric_desc: "$agent_cleric_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_cleric_desc.requirements$"
  agent_cleric_success: "$agent_cleric$"
  agent_cleric_success_i: "[success_chance_max_i]"
  agent_cleric_success_desc: "$agent_cleric_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$agent_cleric_desc.requirements$"
@@ -395,19 +396,19 @@
  agent_theologian_desc: "$agent_theologian_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$agent_theologian_desc.requirements$"
  agent_theologian_success: "$agent_theologian$"
  agent_theologian_success_i: "[success_chance_max_i]"
- agent_theologian_success_desc: "$agent_theologian_desc.flavour$\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$agent_theologian_desc.requirements$"
+ agent_theologian_success_desc: "$agent_theologian_desc.flavour$\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$agent_theologian_desc.requirements$"
 
  agent_herald: "Herald"
  agent_herald_i: "[scheme_speed_i]"
- agent_herald_desc: "#WEAK A good herald is loud, emphatic, and bold to a fault.#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E] & [stewardship_i] [stewardship|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('arrogant').GetName( GetNullCharacter )] and [GetTrait('diligent').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('humble').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
+ agent_herald_desc: "#WEAK A good herald is loud, emphatic, and bold to a fault.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [diplomacy_i] [diplomacy|E] & [stewardship_i] [stewardship|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('arrogant').GetName( GetNullCharacter )] and [GetTrait('diligent').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('humble').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
 
  agent_drillmaster: "Drillmaster"
  agent_drillmaster_i: "[scheme_speed_i]"
- agent_drillmaster_desc: "#WEAK Remember: we drill at our best so we can fight at our worst.#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [martial_i] [martial|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('diligent').GetName( GetNullCharacter )] and [GetTrait('patient').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('content').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
+ agent_drillmaster_desc: "#WEAK Remember: we drill at our best so we can fight at our worst.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [martial_i] [martial|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('diligent').GetName( GetNullCharacter )] and [GetTrait('patient').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('content').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
 
  agent_tracker: "Tracker"
  agent_tracker_i: "[scheme_speed_i]"
- agent_tracker_desc: "#WEAK Mud's still damp where the fool trod in it; come on, we can't be more than an hour behind!#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [martial_i] [martial|E] & [intrigue_i] [intrigue|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('lifestyle_traveler').GetName( GetNullCharacter )] and [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('impatient').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
+ agent_tracker_desc: "#WEAK Mud's still damp where the fool trod in it; come on, we can't be more than an hour behind!#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [martial_i] [martial|E] & [intrigue_i] [intrigue|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('lifestyle_traveler').GetName( GetNullCharacter )] and [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('impatient').GetName( GetNullCharacter )] and [GetTrait('lazy').GetName( GetNullCharacter )]"
 
  agent_planner: "Planner"
  agent_planner_i: "[scheme_speed_i]"
@@ -415,7 +416,7 @@
 
  agent_supplier: "Supplier"
  agent_supplier_i: "[scheme_speed_i]"
- agent_supplier_desc: "#WEAK Connections, timing, and cunning are needed to excel at merchantry. Logistics combines all three.#!\n$EFFECT_LIST_BULLET$ Provides [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [stewardship_i] [stewardship|E] & [diplomacy_i] [diplomacy|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('avaricious').GetName( GetNullCharacter )] and [GetTrait('overseer').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('shy').GetName( GetNullCharacter )] and [GetTrait('stubborn').GetName( GetNullCharacter )]"
+ agent_supplier_desc: "#WEAK Connections, timing, and cunning are needed to excel at merchantry. Logistics combines all three.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [stewardship_i] [stewardship|E] & [diplomacy_i] [diplomacy|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('avaricious').GetName( GetNullCharacter )] and [GetTrait('overseer').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('shy').GetName( GetNullCharacter )] and [GetTrait('stubborn').GetName( GetNullCharacter )]"
 
 # Political Scheme Agents
  scheme_agent_aptitude.scaled_house_power_score: "Scaled [powerful_family_rating|E]"
@@ -438,7 +439,7 @@
 
  agent_bureaucrat: "Bureaucrat"
  agent_bureaucrat_i: "[scheme_speed_i]"
- agent_bureaucrat_desc: "#WEAK Knowledge of proper process and correct filing gives unbridled opportunities for constructive dishonesty.#!\n$EFFECT_LIST_BULLET$ Provides [success_chance_max_i] [scheme_potential|E]\n$EFFECT_LIST_BULLET$ Requires [learning_i] [learning|E] & [stewardship_i] [stewardship|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('architect').GetName( GetNullCharacter )] and [GetTrait('paranoid').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('lazy').GetName( GetNullCharacter )] and [GetTrait('impatient').GetName( GetNullCharacter )]"
+ agent_bureaucrat_desc: "#WEAK Knowledge of proper process and correct filing gives unbridled opportunities for constructive dishonesty.#!\n$EFFECT_LIST_BULLET$ Reduces [scheme_speed_i] [scheme_speed|E]\n$EFFECT_LIST_BULLET$ Requires [learning_i] [learning|E] & [stewardship_i] [stewardship|E]\n$EFFECT_LIST_BULLET$ #P Benefits#! from [traits|E] like [GetTrait('architect').GetName( GetNullCharacter )] and [GetTrait('paranoid').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$ #N Suffers#! from [traits|E] like [GetTrait('lazy').GetName( GetNullCharacter )] and [GetTrait('impatient').GetName( GetNullCharacter )]"
  agent_bureaucrat_title: "$agent_bureaucrat$"
  agent_bureaucrat_title_i: "$agent_bureaucrat_i$"
  agent_bureaucrat_title_desc: "$agent_bureaucrat_desc$"

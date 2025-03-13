@@ -161,6 +161,9 @@
  inspection_conclusion_success_opinion_key: "[host.GetShortUIName] has navigated through [host.GetHerHis] internal affairs excellently, and have proven [host.GetHerselfHimself] among [host.GetHerHis] vassals."
  inspection_conclusion_success_popular_opinion_key_title: "Popular Ruler"
  inspection_conclusion_success_popular_opinion_key: "[host.GetShortUIName] has seen a rise in popularity after [host.GetSheHe] visited [province.GetName]."
+ 
+ inspection_conclusion_success_governor_experience_key_title: "[host.Custom('GetGovernorConceptNoTooltip')] Experience"
+ inspection_conclusion_success_governor_experience_key: "[host.GetShortUIName] has gained valuable experience in [host.GetHerHis] role as [host.Custom('GetGovernorConceptNoTooltip')] after [host.GetSheHe] visited [province.GetName]."
 
  inspection_retry_desc: "Last time this area was overseen by their liege, the work ended inconclusively. But the framework that was put into place for improving the county is still here.\n#weak Will be removed with a successful [inspection|E]#!"
 

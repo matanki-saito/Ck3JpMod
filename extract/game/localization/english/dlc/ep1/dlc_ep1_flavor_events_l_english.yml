@@ -122,7 +122,7 @@
  ep1_2000_generic_modifier_desc:0 "This character has encouraged martial sports to ensure key fighters are always ready."
  infantry:0 "infantry"
  cavalry:0 "cavalry"
- ep1_flavor.2000.tradition_tt:0 "Due to your [culture|E]'s [traditions|E]"
+ ep1_flavor.2000.tradition_tt:0 "Due to your [culture_possessive|E] [traditions|E]"
 
  # Court of Vipers
  ep1_flavor.2010.t:0 "Court of Vipers"
@@ -282,8 +282,8 @@
  # Exotic Arms
  ep1_flavor.2040.t:0 "Exotic Arms"
  ep1_flavor.2040.desc:1 "Along with their strange goods, merchants bring tall-tales from distant lands; unverifiable; full of wonder. \n\nA group of [foreign_merchant.GetCulture.GetNameNoTooltip] peddlers purport to have brought '#EMP [exotic_blade_holder.GetCulture.GetNameNoTooltip]#!' objects, said to have come from the faraway court of a great ruler: '#EMP [exotic_blade_holder.GetFullNameNoTooltipRegnal]#!', no less. \n\n[foreign_merchant.GetTitledFirstName], the leading trader, grins darkly,"
- ep1_flavor.2040.desc.artifact:0 ""I have seen your [my_artifact.GetName], part with it and I will give you this one-of-a-kind [exotic_blade.Custom('ArtifactBaseWeaponType')|l]...""
- ep1_flavor.2040.desc.gold:0 ""This unique [exotic_blade.Custom('ArtifactBaseWeaponType')|l] could be yours—for a special price of course—great [ROOT.Char.GetTitleAsNameNoTooltip]..."\n\nA likely yarn indeed!"
+ ep1_flavor.2040.desc.artifact:0 ""I have seen your [my_artifact.GetName], part with it and I will give you this one-of-a-kind [exotic_blade.Custom('ArtifactType')|l]...""
+ ep1_flavor.2040.desc.gold:0 ""This unique [exotic_blade.Custom('ArtifactType')|l] could be yours—for a special price of course—great [ROOT.Char.GetTitleAsNameNoTooltip]..."\n\nA likely yarn indeed!"
  ep1_flavor.2040.desc.outro:0 "If only I had some way to verify the hawker's story..."
  ep1_flavor.2040.desc.outro_antiquarian:1 "I look to [antiquarian.GetTitledFirstName] for guidance:"
  ep1_flavor.2040.desc.outro_good_praise:1 ""It is certainly no fake my liege, this work is indeed [exotic_blade_holder.GetPrimaryTitle.GetAdjectiveNoTooltip], and of high quality.""
@@ -295,8 +295,8 @@
  ep1_flavor.2040.a:0 ""I suppose I could part with it...""
  ep1_flavor.2040.tt_my:0 "You will lose your [my_artifact.GetName]"
  ep1_flavor.2040.tt_exotic:1 "You will become the owner of [exotic_blade.GetNameNoTooltip]"
- ep1_flavor.2040.toast:0 "The [exotic_blade.Custom('ArtifactBaseWeaponType')|l] is splendid"
- ep1_flavor.2040.toast_poor:0 "The [exotic_blade.Custom('ArtifactBaseWeaponType')|l] is lackluster"
+ ep1_flavor.2040.toast:0 "The [exotic_blade.Custom('ArtifactType')|l] is splendid"
+ ep1_flavor.2040.toast_poor:0 "The [exotic_blade.Custom('ArtifactType')|l] is lackluster"
  ep1_flavor.2040.b:0 ""Fetch my coin-purse!""
  ep1_flavor.2040.c:0 ""Ha! '#EMP [exotic_blade_holder.GetCapitalLocation.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTierNoTooltip]#!'... what tripe! Out with you!""
 

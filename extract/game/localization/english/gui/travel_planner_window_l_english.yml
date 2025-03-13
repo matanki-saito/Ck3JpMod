@@ -73,6 +73,7 @@
  CANCEL_TRAVEL_PLAN_IS_COMPLETED_DESC:0 "Cannot cancel travel plan, it is already completed."
  CANCEL_TRAVEL_PLAN_IS_ALREADY_CANCELLED_DESC:0 "Cannot cancel travel plan, it has already been canceled."
  CANCEL_TRAVEL_PLAN_ACTIVITY_IS_HOST_DESC:0 "Cannot cancel travel plan, you are hosting the activity."
+ CANCEL_TRAVEL_PLAN_DRAFT_CANNOT_BE_CANCELLED: "This travel plan cannot be canceled."
  CANCEL_TRAVEL_PLAN_ALREADY_GOING_HOME:0 "Cannot cancel travel plan, you are already going home."
  CANCEL_TRAVEL_PLAN_ACTIVITY_UNHANDLED_DESC:0 "Cannot cancel travel plan, activity has unhandled event."
  CANCEL_TRAVEL_PLAN_ACTIVE_CONTRACT: "Cannot cancel travel plan, you have accepted a contract"

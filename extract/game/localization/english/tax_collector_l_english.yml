@@ -29,6 +29,7 @@ TAX_SLOT_ADD_NEW_TAX_COLLECTOR_BUTTON: "#T Appoint [tax_collector|E]#!"
 
  TAX_COLLECTOR_SLOT_NAME: "[TaxSlot.GetName]"
  TAX_COLLECTOR_SLOT_OPEN_OBLIGATION_BUTTON: "[tax_decrees|E]: [TaxSlot.GetObligation.GetName]"
+ TAX_COLLECTOR_SLOT_OBLIGATION_TEXT: "[TaxSlot.GetObligation.GetName]"
  TAX_COLLECTOR_SLOT_OPEN_ASSIGN_VASSALS_BUTTON: "Assign Vassals"
 
  TAX_COLLECTOR_OBLIGATION_WINDOW_HEADER: "[tax_decrees|E] for [TaxSlot.GetName]"
@@ -136,7 +137,7 @@ TAX_SLOT_OVERVIEW_WINDOW_HEADER: "Your [tax_jurisdictions|E]"
 TAX_SLOT_OVERVIEW_WINDOW_TOTAL_CONTRIBUTION: "Total Contribution"
 TAX_SLOT_OVERVIEW_WINDOW_DESC: "Assign your [clan|E] [vassals|E] to [tax_jurisdictions|E] to manage their contribution. The [tax_collector|E] and [tax_decrees|E] of each jurisdiction will determine how the [vassals|E] will be taxed."
 
-TAX_SLOT_OVERVIEW_WINDOW_TAX_SLOTS_WARNING: "You have [Character.GetTaxSlotsWithoutTaxCollectorCount] [untaxed_jurisdictions|E]"
+TAX_SLOT_OVERVIEW_WINDOW_TAX_SLOTS_WARNING: "You have [Character.GetUntaxedJurisdictionCount] [untaxed_jurisdictions|E]"
 TAX_SLOT_OVERVIEW_WINDOW_UNASSIGNED_VASSALS_WARNING: "You have [Character.GetUnassignedVassalsCount] [unassigned_vassals|E]"
 TAX_SLOT_OVERVIEW_WINDOW_TOTAL_SUB_HEADER: "Tax Jurisdictions #medium [GetDataModelSize( ValueBreakdown.GetSubValues )]/[Character.GetMaxTaxSlotsCount]#!"
 TAX_SLOT_OVERVIEW_WINDOW_RETURN_BUTTON: "Return to Realm"

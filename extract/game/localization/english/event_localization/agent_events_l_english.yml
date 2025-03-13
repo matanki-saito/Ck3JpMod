@@ -39,7 +39,7 @@
  agent_events.0012.e.tt.not_lovers: "$agent_events.0012.c.tt.failure$"
 
  agent_events.0021.t: "Learning from the Best"
- agent_events.0021.desc.intro: "Two of my agents, [char_1.GetTitledFirstName] and [char_2.GetTitledFirstName], seem to have found common cause in our plan beyond the basic goal.\n\nImpressed by [char_2.GetHerHis] compatriots compatriot's skill with"
+ agent_events.0021.desc.intro: "Two of my agents, [char_1.GetTitledFirstName] and [char_2.GetTitledFirstName], seem to have found common cause in our plan beyond the basic goal.\n\nImpressed by [char_2.GetHerHis] compatriot's skill with"
  agent_events.0021.desc.diplomacy: "the letters, speechcraft, and general rhetoric"
  agent_events.0021.desc.martial: "the logistics, will, and leadership presence"
  agent_events.0021.desc.stewardship: "the arithmetic, accounting, and nose for detail"

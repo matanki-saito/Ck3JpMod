@@ -509,7 +509,7 @@ laamp_join_war_contract_request: "$laamp_request_boilerplate_warfare$. The emplo
  laamp_join_war_contract_attacker_win: "winning"
  laamp_join_war_contract_attacker_lose: "losing"
  laamp_join_war_contract.valid_war: "War already ended"
- join_war_contract_spawn.t: "New $laamp_join_war_contract_contract$ [task_contract|E]"
+ join_war_contract_spawn.t: "New $laamp_join_war_contract_contract$ $game_concept_task_contract$"
  join_war_contract_spawn.desc_attacker: "[attacker.GetShortUIName] issued a [task_contract|E] to join [war.GetName] against [defender.GetShortUIName]"
  join_war_contract_spawn.desc_defender: "[defender.GetShortUIName] issued a [task_contract|E] to join [war.GetName] against [attacker.GetShortUIName]"
 

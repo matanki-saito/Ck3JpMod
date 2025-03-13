@@ -35,7 +35,7 @@
  bp1_yearly.1010.b:0 "There is no need for this."
  #A Friend till the End
  bp1_yearly.1020.t:0 "A Friend till the End"
- bp1_yearly.1020.desc_intro:0 "As I lay upon my bed, prostrated by my sickness and cursing my weak, failing body, I can barely make out the human figure approaching. Their slow steps and heavy silence are starting to scare me."
+ bp1_yearly.1020.desc_intro:0 "As I lay upon my bed cursing my weak, failing body, I can barely make out the figure approaching. Their slow steps and heavy silence are starting to scare me."
  bp1_yearly.1020.desc:0 "\n\nThey must guess my unease from the faint sounds leaving my mouth and the jerky movements of my hands, for their steps turn hurried, and soon a warm hand is holding my own and a familiar face enters my field of view.\n\n"Hush, [ROOT.Char.GetFirstNameNoTooltip], it's just me, [friend.GetFirstName]. Oh, how it pains me to see you like this... I wish I could do something, #EMP anything#!, to ease your discomfort.""
  bp1_yearly.1020.a:0 "Please, stay with me..."
  bp1_yearly.1020.b:0 "I don't want you to see me like this."
@@ -51,7 +51,7 @@
  bp1_yearly.1021.c:0 "Rest in peace, my dear [friend.GetFirstNameNoTooltip]."
  #Till the Bitter End
  bp1_yearly.1030.t:0 "Till the Bitter End"
- bp1_yearly.1030.desc:1 "\n\n"HA! Look at you now! Not so fearsome anymore, are you? Did you even recognize me, you [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.Custom('InsultNoun')]? It's me, [rival.GetFirstName]! I can't believe my luck — so long have I dreamed to see you so low and broken!"\n\nI can barely find the strength to murmur "Have you just come to gloat?""
+ bp1_yearly.1030.desc:1 "\n\n"HA! Look at you now! Not so fearsome anymore, are you? Did you even recognize me, you [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.Custom('InsultNoun')]? It is I, [rival.GetFirstName]! Oh, how I have longed to see you brought so low!""
  bp1_yearly.1030.desc_nemesis:0 "\n\n"No, I haven't" [nemesis.GetSheHe] replies. I can't even register the dangerous glint in [nemesis.GetHerHis] eyes before [nemesis.GetFirstNameNoTooltip] is at my bedside, an icy smile on [nemesis.GetHerHis] face."
  bp1_yearly.1030.desc_nemesis_guard:0 "I've already lost all hope when my [GetCourtPositionType('bodyguard_court_position').GetName()] [guard.GetFirstName] burst into the room!"
  bp1_yearly.1030.desc_nemesis_no_guard:0 "I try to move, escape, scream, #EMP anything#!, but my frail body has long stopped listening to me..."

@@ -45,7 +45,7 @@
  death_murder_killer:0 "was murdered by [TARGET_CHARACTER.GetUIName]"
  death_siege:2 "was killed during a siege"
  death_duel:0 "was slain in a duel"
- death_duel_killer:0 "was slain by [TARGET_CHARACTER.GetUIName] in a duel"
+ death_duel_killer:0 "was slain in a duel by [TARGET_CHARACTER.GetUIName]"
  death_accident:0 "died in an accident"
  death_accident_killer:0 "$death_murder_killer$"
  death_ended_on_feast_table:0 "ended [CHARACTER.GetHerHis] days during a feast"

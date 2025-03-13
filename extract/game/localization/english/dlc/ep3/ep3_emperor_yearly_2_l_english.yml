@@ -346,5 +346,5 @@
  ep3_emperor_yearly.2420.t: "The Shadow Behind The Throne"
  ep3_emperor_yearly.2420.desc: "Greedy and powerful, the hands of House [noble_family_head.GetHouse.GetBaseName] extend like tentacles over every corner of [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName].\n\nIt is now plain to see that not even the one who sits on the imperial throne stands taller than them; they are the true masters of our land, who dominate the political and economic life of the [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetTierAsNameNoTooltip]."
  2420_noble_family_tt: "New Dominant Family"
- 2420_noble_family_tt_desc: "The [noble_family_head.GetHouse.GetBaseName] family is now considered the [dominant_family|E] in [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]."
+ 2420_noble_family_tt_desc: "The [noble_family_head.GetHouse.GetBaseName] family is now considered the [dominant_family|E] in [noble_family_head.GetTopLiege.GetPrimaryTitle.GetName|l]."
  ep3_emperor_yearly.2420.a: "Troubling news."

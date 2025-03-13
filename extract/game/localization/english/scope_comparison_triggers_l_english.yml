@@ -18,6 +18,8 @@
  NOT_LIEGE_EQUAL_FIRST:1 "You are #bold not#! a [courtier|E] or [vassal|E] of [TARGET_CHARACTER.GetShortUIName]"
  LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [vassal|E]"
  NOT_LIEGE_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [vassal|E]"
+ LIEGE_EQUAL_NONE: "They are your [courtier|E], [vassal|E] or [follower|E]"
+ NOT_LIEGE_EQUAL_NONE: "They are #bold not#! your [courtier|E], [vassal|E] or [follower|E]"
  TOP_LIEGE_EQUAL_FIRST: "You are the [top_liege|E]"
  NOT_TOP_LIEGE_EQUAL_FIRST: "You are #bold not#! the [top_liege|E]"
  KILLER_EQUAL_THIRD:0 "[CHARACTER.GetShortUIName|U] was killed by [TARGET_CHARACTER.GetShortUIName]"

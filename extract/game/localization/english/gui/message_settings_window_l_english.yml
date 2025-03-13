@@ -1,4 +1,7 @@
 ﻿l_english: 
+ message_settings_tab_settings: "Settings"
+ message_settings_tab_log: "Message Log"
+
  MESSAGE_SETTINGS_WINDOW_NAME: "Message Settings"
  MESSAGE_SETTINGS_WINDOW_SHORTCUT_TT: "#I Click to open Message Settings#!"
  MESSAGE_SETTINGS_WINDOW_TT: "#T $MESSAGE_SETTINGS_WINDOW_NAME$#!\nEdit Message frequency and visibility by filtered groups."

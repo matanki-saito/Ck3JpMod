@@ -42,6 +42,7 @@
 
  GOVERNMENT_ADJECTIVE: "[Character.GetGovernment.GetAdjective]"
  GOVERNMENT_ADJECTIVE_ICON: "[Character.Custom('GetGovernmentIcon')] [Character.GetGovernment.GetAdjective] [realm|E]"
+ GOVERNMENT_ADJECTIVE_ICON_ADVENTURER: "[Character.Custom('GetGovernmentIcon')] [Character.GetGovernment.GetAdjective]"
  GOVERNORSHIP_TOOLTIP: "[ROOT.Char.GetVassalContract.GetTextIconObligationLevelNameWithHighlightFor( 'administrative_themes' )] [SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE', '' )] [governorship|E]"
  VASSAL_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )] [vassal|E]"
  REALM_TOOLTIP: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]"

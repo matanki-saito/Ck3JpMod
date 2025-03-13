@@ -505,6 +505,22 @@
  ra_favorite_child_3: "$reactive_advice_favorite_child$"
  ra_favorite_child_3_desc: "After selecting a favorite child, there will be an icon on their portrait. And even if they are not your heir, it will be possible to continue as them after you die.\n\nIf you ever want to change your favorite child, return to the character view and select another one."
 
+
+ # Army Automation
+ action_reactive_advice_army_automation: "Advice: $ARMY_AUTOMATION_FEATURE_NAME$"
+ action_reactive_advice_army_automation_desc: "If you do not want to manually control every [war|E], you can turn on $ARMY_AUTOMATION_FEATURE_NAME$. Open this to learn how to do it."
+ action_reactive_advice_army_automation_click: "$click_to_open_lesson$"
+
+ reactive_advice_army_automation: "$ARMY_AUTOMATION_FEATURE_NAME$"
+
+ ra_army_auto_intro: "$reactive_advice_army_automation$"
+ ra_army_auto_intro_desc: "If you want to focus on other things than controlling your [armies|E], you can let the game control them."
+ ra_army_auto_open: "$reactive_advice_army_automation$"
+ ra_army_auto_open_desc: "You can toggle $ARMY_AUTOMATION_FEATURE_NAME$ in the Military View."
+ ra_army_auto_open_prompt: "Open the Military View"
+ ra_army_auto_explain: "$reactive_advice_army_automation$"
+ ra_army_auto_explain_desc: "Here you can decide if your [armies|E] should be automated or not. You can do so at any time, even in the middle of a [war|E].\n\nYou still manually buy [men_at_arms|E], hire [mercenaries|E] and go on [raids|E]. You can tweak this behavior here, by clicking the $ARMY_AUTOMATION_FEATURE_NAME$ Settings button."
+
  # EP3
  action_reactive_advice_admin_gov: "Advice: Administrative Government"
  action_reactive_advice_admin_gov_desc: "You are playing within an [administrative_government|e]. Open this to learn more."
@@ -563,7 +579,7 @@
 
  ra_admin_gov_4_desc: "The [succession|e] of a [province|e] in an [administrative_government|e] is determined by an election, where you spend @influence_icon![influence|e] to increase the $game_concept_succession$ score of a candidate. \n\nIf you are looking to expand your power within the [realm|e] you want to ensure members of your [house|e] hold [governorships|e] within several $game_concept_provinces$, or even the $game_concept_top_realm$ [title|e] itself."
 
- ra_admin_gov_5_desc: "Each [province|e] is [governed|e] by a [family|e]. You can se the [house|e] coat of arms displayed in the corner of each $game_concept_province$ and whether or not you have a candidate within your $game_concept_house$ in the line of [succession|e] in the other. \n\nAs your $game_concept_house$ acquires more [titles|e] you will become more prominent, potentially becoming a [powerful_family|e]."
+ ra_admin_gov_5_desc: "Each [province|e] is [governed|e] by a [family|e]. You can see the [house|e] coat of arms displayed in the corner of each $game_concept_province$ and whether or not you have a candidate within your $game_concept_house$ in the line of [succession|e] in the other. \n\nAs your $game_concept_house$ acquires more [titles|e] you will become more prominent, potentially becoming a [powerful_family|e]."
 
  ra_open_admin_gov_powerful_families_intro: "Open the Noble Families tab (highlighted)"
 
@@ -591,15 +607,21 @@
  ra_agent_scheme_rework_6: "Executing a Scheme"
  ra_agent_scheme_rework_6_desc: "Once you feel confident that you have plotted enough, it may be time to consider executing your [scheme|e]. To do this, you can leverage [EmptyScope.ScriptValue('multi_ending_scheme_charge_to_advance_threshold_t1_value')], [EmptyScope.ScriptValue('multi_ending_scheme_charge_to_advance_threshold_t2_value')], [EmptyScope.ScriptValue('multi_ending_scheme_charge_to_advance_threshold_t3_value')], or [EmptyScope.ScriptValue('multi_ending_scheme_charge_to_advance_threshold_t4_value')] of your accrued [scheme_opportunity_opportunities|e].\n\nFurther, if you suspect someone is scheming against you, it might be worthwhile to change your active [scheme_countermeasure|e] to avoid any potential mishaps.\n\nGood luck, and happy scheming!"
 
+# fallback to generic name if there is no GetPlayer i.e. we are in frontend
+ TUTORIAL_PROVINCIAL_ARMIES: "[SelectLocalization( GetPlayer.IsValid, 'TUTORIAL_PROVINCIAL_ARMIES_INGAME', 'PROVINCIAL_ARMIES_CONCEPT' )]"
+ TUTORIAL_PROVINCIAL_ARMIES_INGAME: "[GetPlayer.Custom('GetProvincialArmiesConcept')]"
+ TUTORIAL_PROVINCIAL_ARMIES_NO_TOOLTIP: "[SelectLocalization( GetPlayer.IsValid, 'TUTORIAL_PROVINCIAL_ARMIES_INGAME_NO_TOOLTIP', 'PROVINCIAL_ARMIES_CONCEPT_NO_TOOLTIP' )]"
+ TUTORIAL_PROVINCIAL_ARMIES_INGAME_NO_TOOLTIP: "[GetPlayer.Custom('GetProvincialArmiesConceptNoTooltip')]"
+
  ra_admin_gov_troops_1: "Military in an Administrative Government"
  ra_admin_gov_troops_1b: "Military in an Administrative Government"
- ra_admin_gov_troops_1_desc: "@ra_admin_troops_1! In an [administrative_government|e], Military and troop management works differently from other $game_concept_government$ types.\n\nWhile you continue having access and full control of your own troops, you also have access to Imperial Armies. In an $game_concept_administrative_government$ each [province|e] can have their own [army|e] which is the property of that specific [title|e].\n\n[governors|e] take the role of both a civic and a military official, while the [top_liege|e] has the ability to manage the troops of the $game_concept_governors$, taking control of them or assigning them to other $game_concept_governors$ across the [realm|e]."
- ra_admin_gov_troops_1_prompt: "Open the Imperial Armies tab (highlighted)"
+ ra_admin_gov_troops_1_desc: "@ra_admin_troops_1! In an [administrative_government|e], Military and troop management works differently from other $game_concept_government$ types.\n\nWhile you continue having access and full control of your own troops, you also have access to $TUTORIAL_PROVINCIAL_ARMIES$. In an $game_concept_administrative_government$ each [province|e] can have their own [army|e] which is the property of that specific [title|e].\n\n[governors|e] take the role of both a civic and a military official, while the [top_liege|e] has the ability to manage the troops of the $game_concept_governors$, taking control of them or assigning them to other $game_concept_governors$ across the [realm|e]."
+ ra_admin_gov_troops_1_prompt: "Open the $TUTORIAL_PROVINCIAL_ARMIES_NO_TOOLTIP$ tab (highlighted)"
 
  ra_admin_gov_troops_2: "Military in an Administrative Government"
  ra_admin_gov_troops_2b: "Military in an Administrative Government"
- ra_admin_gov_troops_2_desc: "[governors|e] can create [men_at_arms|e] as part of the $game_concept_governorship$ they are responsible for. These troops belong to the [title|e], and can be borrowed by other $game_concept_governors$ in the [realm|e].\n\nThe [top_liege|e] has the Imperial Troops at their disposal, and has the ability to manage the troops of the $game_concept_governors$. They can take control of them in their own [wars|e], or reassign them to $game_concept_governors$ who might be in need.\n\nThis grants them the ability to raise and use them, improving defenses along the $game_concept_realm$'s borders."
- ra_admin_gov_troops_2_prompt: "Inspect an Imperial Army"
+ ra_admin_gov_troops_2_desc: "[governors|e] can create [men_at_arms|e] as part of the $game_concept_governorship$ they are responsible for. These troops belong to the [title|e], and can be borrowed by other $game_concept_governors$ in the [realm|e].\n\nThe [top_liege|e] has the $TUTORIAL_PROVINCIAL_ARMIES$ at their disposal, and has the ability to manage the troops of the $game_concept_governors$. They can take control of them in their own [wars|e], or reassign them to $game_concept_governors$ who might be in need.\n\nThis grants them the ability to raise and use them, improving defenses along the $game_concept_realm$'s borders."
+ ra_admin_gov_troops_2_prompt: "Inspect a [GetPlayer.Custom('GetProvincialArmyConceptNoTooltip')]"
 
  ra_admin_gov_troops_3: "Acquiring Additional Armies"
  ra_admin_gov_troops_3_desc: "This is an overview of a specific [governorship|e]'s [army|e].\n\nAs a $game_concept_governor$, you can leverage your [influence|e] to call on the aid of an $game_concept_army$ from a different [province|e].\n\nThe [top_liege|e] can force any $game_concept_governor$ to reassign their $game_concept_army$, or take control of it themselves."

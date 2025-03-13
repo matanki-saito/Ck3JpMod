@@ -55,6 +55,8 @@
  NOT_I_HAVE_TRAIT_TRIGGER:1 "You do #bold not#! have the Trait: [TRAIT.GetName( CHARACTER.Self )|L]"
  THEY_HAVE_TRAIT_TRIGGER:0 "[CHARACTER.GetShortUIName|U] has the Trait: [TRAIT.GetName( CHARACTER.Self )|L]"
  NOT_THEY_HAVE_TRAIT_TRIGGER:0 "[CHARACTER.GetShortUIName|U] does #bold not#! have the Trait: [TRAIT.GetName( CHARACTER.Self )|L]"
+ NONE_HAS_TRAIT_TRIGGER: "They have the Trait: [TRAIT.GetName( CHARACTER.Self )|L]"
+ NOT_NONE_HAS_TRAIT_TRIGGER: "They do #bold not#! have the Trait: [TRAIT.GetName( CHARACTER.Self )|L]"
 
  HAS_TRAIT_GROUP_TRIGGER:0 "Has a Trait from the [TRAIT_GROUP.GetName] group"
  NOT_HAS_TRAIT_GROUP_TRIGGER:0 "Does #bold not#! have a Trait from the [TRAIT_GROUP.GetName] group"
@@ -63,6 +65,7 @@
  THEY_HAVE_TRAIT_GROUP_TRIGGER:0 "[CHARACTER.GetShortUIName|U] has a Trait from the [TRAIT_GROUP.GetName] group"
  NOT_THEY_HAVE_TRAIT_GROUP_TRIGGER:0 "[CHARACTER.GetShortUIName|U] does #bold not#! have a Trait from the [TRAIT_GROUP.GetName] group"
  HAS_TRAIT_GROUP_TRIGGER_NONE:0 "Has a Trait from the [TRAIT_GROUP.GetName] group"
+ NOT_HAS_TRAIT_GROUP_TRIGGER_NONE: "Does #bold not#! have a Trait from the [TRAIT_GROUP.GetName] group"
 
  HAS_CHARACTER_MODIFIER_TRIGGER:0 "Has Modifier: $MODIFIER|V$"
  NOT_HAS_CHARACTER_MODIFIER_TRIGGER:0 "Does #bold not#! have Modifier: $MODIFIER|V$"
@@ -143,6 +146,8 @@
  NOT_THEY_AT_WAR_WITH_LIEGE:0 "[CHARACTER.GetUIName] is #bold not#! at War with their Liege"
  IS_AT_WAR_WITH_LIEGE:0 "Is at War with their Liege"
  NOT_IS_AT_WAR_WITH_LIEGE:0 "Is #bold not#! at War with their Liege"
+ NONE_AT_WAR_WITH_LIEGE: "They are at War with their Liege"
+ NOT_NONE_AT_WAR_WITH_LIEGE: "They are #bold not#! at War with their Liege"
 
  IS_MARRIED_TRIGGER:0 "Is married"
  NOT_IS_MARRIED_TRIGGER:0 "Is #bold not#! married"
@@ -164,6 +169,8 @@
  NOT_I_AM_LANDED_TRIGGER:1 "You are #bold not#! landed"
  THEY_ARE_LANDED_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is landed"
  NOT_THEY_ARE_LANDED_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! landed"
+ NONE_ARE_LANDED_TRIGGER: "They are landed"
+ NOT_NONE_ARE_LANDED_TRIGGER: "They are #bold not#! landed"
 
  IS_LANDLESS_RULER_TRIGGER:0 "Is a landless ruler"
  NOT_IS_LANDLESS_RULER_TRIGGER:0 "Is #bold not#! a landless ruler"
@@ -172,12 +179,14 @@
  THEY_ARE_LANDLESS_RULER_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is a landless ruler"
  NOT_THEY_ARE_LANDLESS_RULER_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! a landless ruler"
 
- IS_PLAYABLE_CHARACTER_TRIGGER: "Is playable character"
- NOT_IS_PLAYABLE_CHARACTER_TRIGGER: "Is #bold not#! playable character"
- I_AM_PLAYABLE_CHARACTER_TRIGGER: "You are playable character"
- NOT_I_AM_PLAYABLE_CHARACTER_TRIGGER: "You are #bold not#! playable character"
- THEY_ARE_PLAYABLE_CHARACTER_TRIGGER: "[CHARACTER.GetShortUIName|V] is playable character"
- NOT_THEY_ARE_PLAYABLE_CHARACTER_TRIGGER: "[CHARACTER.GetShortUIName|V] is #bold not#! playable character"
+ IS_PLAYABLE_CHARACTER_TRIGGER: "Is a playable character"
+ NOT_IS_PLAYABLE_CHARACTER_TRIGGER: "Is #bold not#! a playable character"
+ I_AM_PLAYABLE_CHARACTER_TRIGGER: "You are a playable character"
+ NOT_I_AM_PLAYABLE_CHARACTER_TRIGGER: "You are #bold not#! a playable character"
+ THEY_ARE_PLAYABLE_CHARACTER_TRIGGER: "[CHARACTER.GetShortUIName|V] is a playable character"
+ NOT_THEY_ARE_PLAYABLE_CHARACTER_TRIGGER: "[CHARACTER.GetShortUIName|V] is #bold not#! a playable character"
+ NONE_ARE_PLAYABLE_CHARACTER_TRIGGER: "They are a playable character"
+ NOT_NONE_ARE_PLAYABLE_CHARACTER_TRIGGER: "They are #bold not#! a playable character"
 
  IS_LANDLESS_ADVENTURER_TRIGGER: "Is an [adventurer|E]"
  NOT_IS_LANDLESS_ADVENTURER_TRIGGER: "Is #bold not#! an [adventurer|E]"
@@ -259,6 +268,8 @@
  NOT_I_AM_ADULT_TRIGGER:1 "You are a Child"
  THEY_ARE_ADULT_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is an Adult"
  NOT_THEY_ARE_ADULT_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is a Child"
+ NONE_IS_ADULT_TRIGGER: "They are an Adult"
+ NONE_NOT_IS_ADULT_TRIGGER: "They are a Child"
 
  IS_BETROTHED_TRIGGER:0 "Is betrothed"
  NOT_IS_BETROTHED_TRIGGER:0 "Is #bold not#! betrothed"
@@ -287,6 +298,8 @@
  THIRD_NOT_IS_IMPRISONED_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! imprisoned"
  I_AM_IMPRISONED_TRIGGER:1 "You are imprisoned"
  NOT_I_AM_IMPRISONED_TRIGGER:1 "You are #bold not#! imprisoned"
+ NONE_IS_IMPRISONED_TRIGGER: "They are imprisoned"
+ NOT_NONE_IS_IMPRISONED_TRIGGER: "They are #bold not#! imprisoned"
 
  I_AM_IMPRISONED_BY_TRIGGER:1 "You are imprisoned by [TARGET_CHARACTER.GetShortUIName]"
  I_AM_NOT_IMPRISONED_BY_TRIGGER:1 "You are #bold not#! imprisoned by [TARGET_CHARACTER.GetShortUIName]"
@@ -294,6 +307,8 @@
  THEY_IS_NOT_IMPRISONED_BY_TRIGGER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! imprisoned by [TARGET_CHARACTER.GetShortUIName]"
  IS_IMPRISONED_BY_TRIGGER:0 "Is imprisoned by [TARGET_CHARACTER.GetShortUIName]"
  IS_NOT_IMPRISONED_BY_TRIGGER:0 "Is #bold not#! imprisoned by [TARGET_CHARACTER.GetShortUIName]"
+ NONE_IS_IMPRISONED_BY_TRIGGER: "They are imprisoned by [TARGET_CHARACTER.GetShortUIName]"
+ NONE_IS_NOT_IMPRISONED_BY_TRIGGER: "They are #bold not#! imprisoned by [TARGET_CHARACTER.GetShortUIName]"
 
  I_IMPRISONED_THEM_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|V] is imprisoned by you"
 
@@ -405,6 +420,9 @@
  THEY_HAVE_RELIGION_GROUP_TRIGGER:0 "[CHARACTER.GetShortUIName|U] is of a [RELIGION.GetName] [faith|E]"
  THEY_DO_NOT_HAVE_RELIGION_GROUP_TRIGGER:0 "[CHARACTER.GetShortUIName|U] is NOT of a [RELIGION.GetName] [faith|E]"
 
+ NONE_HAS_RELIGION_TRIGGER: "They are of a [RELIGION.GetAdjective] [faith|E]"
+ NOT_NONE_HAS_RELIGION_TRIGGER: "They are #bold not#! of a [RELIGION.GetAdjective] [faith|E]"
+
  I_AM_INDEPENDENT_RULER_TRIGGER:1 "You are an [independent|E] Ruler"
  CHARACTER_IS_INDEPENDENT_RULER_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is an [independent|E] Ruler"
  NOT_I_AM_INDEPENDENT_RULER_TRIGGER:1 "You are #bold not#! an [independent|E] Ruler"
@@ -499,6 +517,7 @@
  MARTIAL_IS_NOT_LESS_THAN:2 "Has [martial|E] above [martial_i]$NUM|V0$"
  MY_MARTIAL_IS_NOT_LESS_THAN:3 "Your [martial|E] is [martial_i]$NUM|V0$ or above"
  THEIR_MARTIAL_IS_NOT_LESS_THAN:2 "[CHARACTER.GetShortUINamePossessive|V] [martial|E] is [martial_i]$NUM|V0$ or above"
+ NONE_MARTIAL_IS_AT_LEAST: "Their [martial|E] is [martial_i]$NUM|V0$ or above"
 
  STEWARDSHIP_IS_AT_LEAST:2 "[stewardship|E] is [stewardship_i]$NUM|V0$ or above"
  MY_STEWARDSHIP_IS_AT_LEAST:2 "Your [stewardship|E] is [stewardship_i]$NUM|V0$ or above"
@@ -512,6 +531,7 @@
  STEWARDSHIP_IS_NOT_LESS_THAN:1 "Has [stewardship|E] above [stewardship_i]$NUM|V0$"
  MY_STEWARDSHIP_IS_NOT_LESS_THAN:2 "Your [stewardship|E] is [stewardship_i]$NUM|V0$ or above"
  THEIR_STEWARDSHIP_IS_NOT_LESS_THAN:1 "[CHARACTER.GetShortUINamePossessive|V] [stewardship|E] is [stewardship_i]$NUM|V0$ or above"
+ NONE_STEWARDSHIP_IS_AT_LEAST: "Their [stewardship|E] is [stewardship_i]$NUM|V0$ or above"
 
  INTRIGUE_IS_AT_LEAST:1 "[intrigue|E] is [intrigue_i]$NUM|V0$ or above"
  MY_INTRIGUE_IS_AT_LEAST:2 "Your [intrigue|E] is [intrigue_i]$NUM|V0$ or above"
@@ -525,6 +545,7 @@
  INTRIGUE_IS_NOT_LESS_THAN:1 "Has [intrigue|E] above [intrigue_i]$NUM|V0$"
  MY_INTRIGUE_IS_NOT_LESS_THAN:2 "Your [intrigue|E] is [intrigue_i]$NUM|V0$ or above"
  THEIR_INTRIGUE_IS_NOT_LESS_THAN:1 "[CHARACTER.GetShortUINamePossessive|V] [intrigue|E] is [intrigue_i]$NUM|V0$ or above"
+ NONE_INTRIGUE_IS_AT_LEAST: "Their [intrigue|E] is [intrigue_i]$NUM|V0$ or above"
 
  LEARNING_IS_AT_LEAST:1 "[learning|E] is [learning_i]$NUM|V0$ or above"
  MY_LEARNING_IS_AT_LEAST:2 "Your [learning|E] is [learning_i]$NUM|V0$ or above"
@@ -538,6 +559,7 @@
  LEARNING_IS_NOT_LESS_THAN:1 "Has [learning|E] above [learning_i]$NUM|V0$"
  MY_LEARNING_IS_NOT_LESS_THAN:2 "Your [learning|E] is [learning_i]$NUM|V0$ or above"
  THEIR_LEARNING_IS_NOT_LESS_THAN:1 "[CHARACTER.GetShortUINamePossessive|V] [learning|E] is [learning_i]$NUM|V0$ or above"
+ NONE_LEARNING_IS_AT_LEAST: "Their [learning|E] is [learning_i]$NUM|V0$ or above"
 
  PROWESS_IS_AT_LEAST:0 "[prowess|E] is [prowess_i]$NUM|V0$ or above"
  MY_PROWESS_IS_AT_LEAST:0 "Your [prowess|E] is [prowess_i]$NUM|V0$ or above"
@@ -581,7 +603,7 @@
 
  CHARACTER_HAS_NUM_SINFUL_TRAITS:0 "[CHARACTER.GetShortUIName|U] has $NUM|V0$ good [sinful|E] traits"
  HAS_NUM_SINFUL_TRAITS:0 "Has $NUM|V0$ good [sinful|E] traits"
- I_HAVE_NUM_SINFUL_TRAITS:0 "You have $NUM|V0$ good [sinful|E] traits"
+ I_HAVE_NUM_SINFUL_TRAITS: "You have $NUM|V0$ [sinful|E] traits"
 
  CHARACTER_HAS_NUM_VIRTUOUS_TRAITS:0 "[CHARACTER.GetShortUIName|U] has $NUM|V0$ good [virtuous|E] traits"
  HAS_NUM_VIRTUOUS_TRAITS:0 "Has $NUM|V0$ good [virtuous|E] traits"
@@ -667,6 +689,9 @@
  IS_NOT_THE_SPOUSE_OF_CHARACTER_COURT_POSITION:0 "Is #bold not#! [liege.GetShortUINamePossessive] [spouse|E]"
  CHARACTER_IS_NOT_THE_SPOUSE_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [spouse|E]"
  I_AM_NOT_THE_SPOUSE_OF_CHARACTER:1 "You are #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [spouse|E]"
+ NONE_IS_THE_SPOUSE_OF_CHARACTER: "They are [TARGET_CHARACTER.GetShortUINamePossessive] [spouse|E]"
+ NONE_IS_NOT_THE_SPOUSE_OF_CHARACTER: "They are #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [spouse|E]"
+ NONE_NOT_THE_SPOUSE_OF_CHARACTER_COURT_POSITION: "They are #bold not#! your [spouse|E]"
 
  IS_THE_CONCUBINE_OF_CHARACTER:0 "Is [TARGET_CHARACTER.GetShortUINamePossessive] [concubine|E]"
  CHARACTER_IS_THE_CONCUBINE_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] [concubine|E]"
@@ -681,6 +706,9 @@
  IS_NOT_CLOSE_FAMILY_OF_CHARACTER:0 "Is #bold not#! [close_family|E] of [TARGET_CHARACTER.GetShortUIName]"
  CHARACTER_IS_NOT_CLOSE_FAMILY_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [close_family|E] of [TARGET_CHARACTER.GetShortUIName]"
  I_AM_NOT_CLOSE_FAMILY_OF_CHARACTER:1 "You are #bold not#! [close_family|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NONE_IS_CLOSE_FAMILY_OF_CHARACTER: "They are [close_family|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NONE_IS_NOT_CLOSE_FAMILY_OF_CHARACTER: "They are #bold not#! [close_family|E] of [TARGET_CHARACTER.GetShortUIName]"
+ NONE_IS_NOT_CLOSE_FAMILY_OF_CHARACTER_COURT_POSITION: "They are #bold not#! your [close_family|E]"
 
  IS_EXTENDED_FAMILY_OF_CHARACTER:0 "Is [extended_family|E] of [TARGET_CHARACTER.GetShortUIName]"
  CHARACTER_IS_EXTENDED_FAMILY_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is [extended_family|E] of [TARGET_CHARACTER.GetShortUIName]"
@@ -719,6 +747,8 @@
  IS_NOT_A_COURTIER_OF_CHARACTER:0 "Is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E]"
  CHARACTER_IS_NOT_A_COURTIER_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E]"
  I_AM_NOT_A_COURTIER_OF_CHARACTER:1 "You are #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E]"
+ NONE_IS_A_COURTIER_OF_CHARACTER: "They are a [courtier|E] of [TARGET_CHARACTER.GetShortUIName]" 
+ NONE_IS_NOT_A_COURTIER_OF_CHARACTER: "They are #bold not#! a [courtier|E] of [TARGET_CHARACTER.GetShortUIName]"
 
  IS_A_POWERFUL_VASSAL:0 "Is a [powerful_vassal|E]"
  CHARACTER_IS_A_POWERFUL_VASSAL:0 "[CHARACTER.GetShortUIName|U] is a [powerful_vassal|E]"
@@ -733,6 +763,8 @@
  IS_NOT_MALE_CHARACTER_TRIGGER_CONDITION:0 "Is #bold not#! male"
  CHARACTER_IS_NOT_MALE_CHARACTER_TRIGGER_CONDITION:0 "[CHARACTER.GetShortUIName|U] is #bold not#! male"
  I_AM_NOT_MALE_CHARACTER_TRIGGER_CONDITION:1 "You are #bold not#! male"
+ NONE_IS_MALE_CHARACTER_TRIGGER_CONDITION: "They are male"
+ NONE_IS_NOT_MALE_CHARACTER_TRIGGER_CONDITION: "They are #bold not#! male"
 
  IS_FEMALE_CHARACTER_TRIGGER_CONDITION:0 "Is female"
  CHARACTER_IS_FEMALE_CHARACTER_TRIGGER_CONDITION:0 "[CHARACTER.GetShortUIName|U] is female"
@@ -740,6 +772,8 @@
  IS_NOT_FEMALE_CHARACTER_TRIGGER_CONDITION:0 "Is #bold not#! female"
  CHARACTER_IS_NOT_FEMALE_CHARACTER_TRIGGER_CONDITION:0 "[CHARACTER.GetShortUIName|U] is #bold not#! female"
  I_AM_NOT_FEMALE_CHARACTER_TRIGGER_CONDITION:1 "You are #bold not#! female"
+ NONE_IS_FEMALE_CHARACTER_TRIGGER_CONDITION: "They are female"
+ NONE_IS_NOT_FEMALE_CHARACTER_TRIGGER_CONDITION: "They are #bold not#! female"
 
  IS_MARRIED_PATRILINEALLY:0 "Is in a [patrilineal|E] marriage"
  CHARACTER_IS_MARRIED_PATRILINEALLY:0 "[CHARACTER.GetShortUIName|U] is in a [patrilineal|E] marriage"
@@ -831,6 +865,8 @@
  WOMENMEN_ARE_NOT_ALLOWED_TO_BE_WARRIORS_IN_FAITH:0 "[CHARACTER.GetWomenMen|U] are #bold not#! allowed to be combatants in [TARGET_CHARACTER.GetFaith.GetName]"
  WOMENMEN_ARE_ALLOWED_TO_BE_WARRIORS_IN_CULTURE:0 "The [TARGET_CHARACTER.GetCulture.GetName] [culture|E] allows [CHARACTER.GetWomenMen] to be combatants"
  WOMENMEN_ARE_NOT_ALLOWED_TO_BE_WARRIORS_IN_CULTURE:0 "The [TARGET_CHARACTER.GetCulture.GetName] [culture|E] does #bold not#! allow [CHARACTER.GetWomenMen] to be combatants"
+ NONE_ARE_ALLOWED_TO_BE_WARRIORS_IN_CULTURE: "Their [culture|E] allows them to be combatants"
+ NONE_ARE_NOT_ALLOWED_TO_BE_WARRIORS_IN_CULTURE: "Their [culture|E] does #bold not#! allow them to be combatants"
 
  #has_imprisonment_reason
  HAS_AN_IMPRISONMENT_REASON_ON_CHARACTER:0 "Has a valid [imprisonment_reason|E] on [TARGET_CHARACTER.GetShortUIName]"
@@ -881,6 +917,7 @@
  EAGER_FOR_MORE_VASSALS:0 "[CHARACTER.GetShortUIName|U] will always accept more power"
 
  IS_LOWBORN_TRIGGER:0 "Is [lowborn|E]"
+ NONE_IS_LOWBORN_TRIGGER:0 "They are [lowborn|E]"
  HOLDS_A_LANDED_TITLE_TRIGGER:0 "Holds a landed title"
  IS_A_POWERFUL_VASSAL_OF_CHARACTER_TRIGGER:0 "Is a powerful vassal of [CHARACTER.GetShortUIName|U]"
  NUMBER_OF_POWERFUL_VASSALS_OF_CHARACTER_TRIGGER:0 "Number of powerful vassals: $NUM|V0$"
@@ -893,6 +930,8 @@
  NOT_THEY_CLERGY_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! a member of the [clergy|E]"
  AM_CLERGY_TRIGGER:0 "You are a member of the [clergy|E]"
  NOT_AM_CLERGY_TRIGGER:0 "You are #bold not#! a member of the [clergy|E]"
+ NONE_IS_CLERGY_TRIGGER:0 "They are a member of the [clergy|E]"
+ NOT_NONE_IS_CLERGY_TRIGGER:0 "They are #bold not#! a member of the [clergy|E]"
  IS_HOSTILE_TRIGGER:0 "Is hostile"
  TIER_DIFFERENCE_TRIGGER:0 "The tier difference between [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName|U] is: $NUM|V0$"
  NOT_TIER_DIFFERENCE_TRIGGER:0 "The tier difference between [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName|U] is: $NUM|V0$"
@@ -1012,6 +1051,8 @@
  would_be_valid_for_court_position_third: "[CHARACTER.GetShortUIName|U] can be employed as [CourtPositionType.GetName] by [TARGET_CHARACTER.GetName]"
  not_would_be_valid_for_court_position_third: "[CHARACTER.GetShortUIName|U] can #bold not#! be employed as [CourtPositionType.GetName] by [TARGET_CHARACTER.GetName]"
 
+ MATCHING_FAITH_DOCTRINE_GENDER: "They are male or female, according to your [faithpossessive|E] [Concept('doctrine', 'Gender Doctrines')|E]"
+
  HAS_ROYAL_COURT:0 "Have a Royal Court"
  NOT_HAS_ROYAL_COURT:0 "Doesn't have a Royal Court"
  YOU_THEY_HAS_ROYAL_COURT:1 "[CHARACTER.GetShortUIName|U] [CHARACTER.LocalPlayerString('have', 'has')] a Royal Court"
@@ -1036,6 +1077,7 @@
  NOT_I_HAVE_TRAIT_XP:0 "You do #bold not#! have $NUM|V0$ [trait_level_track_xp|E] in $TRACK_NAME$ #weak ([TRAIT.GetName( CHARACTER.Self )])#!"
  THEY_HAS_TRAIT_XP:0 "[CHARACTER.GetShortUIName] has $NUM|V0$ [trait_level_track_xp|E] in $TRACK_NAME$ #weak ([TRAIT.GetName( CHARACTER.Self )])#!"
  NOT_THEY_HAS_TRAIT_XP:0 "[CHARACTER.GetShortUIName] does #bold not#! have $NUM|V0$ [trait_level_track_xp|E] in $TRACK_NAME$ #weak ([TRAIT.GetName( CHARACTER.Self )])#!"
+ NONE_HAS_TRAIT_XP: "They have $NUM|V0$ [trait_level_track_xp|E] in $TRACK_NAME$ #weak ([TRAIT.GetName( CHARACTER.Self )])#!"
 
  HAS_TRAIT_XP_SINGLE:0 "Has $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
  NOT_HAS_TRAIT_XP_SINGLE:0 "Does #bold not#1 have $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
@@ -1043,7 +1085,7 @@
  NOT_I_HAVE_TRAIT_XP_SINGLE:0 "You do #bold not#! have $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
  THEY_HAS_TRAIT_XP_SINGLE:0 "[CHARACTER.GetShortUIName] has $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
  NOT_THEY_HAS_TRAIT_XP_SINGLE:0 "[CHARACTER.GetShortUIName] does #bold not#! have $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
- HAS_TRAIT_XP_SINGLE_NONE:0 "Has $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
+ HAS_TRAIT_XP_SINGLE_NONE:1 "They have $NUM|V0$ [trait_level_track_xp|E] in [TRAIT.GetName( CHARACTER.Self )]"
 
  custom.not_attending_activity:0 "Is not attending an [activity|E]"
 

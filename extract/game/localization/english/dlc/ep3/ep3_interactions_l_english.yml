@@ -10,7 +10,7 @@
  LEVERAGE_CRIMINAL_SECRET_SECONDARY_RECIPIENT: "Threaten to reveal Governor's [secret|E]"
 
  influence_candidacy_interaction: "Influence Candidacy"
- influence_candidacy_interaction_desc: "Spend [influence|E] to promote or undermine a character's candidacy for [recipient.GetTopLiege.Custom('GetGovernorConcept')] or [actor.GetTopLiege.GetTitleAsNameNoTooltip|V]"
+ influence_candidacy_interaction_desc: "Spend [influence|E] to increase or decrease a [character_possessive|E] [candidate_score|E] for [recipient.GetTopLiege.Custom('GetGovernorConcept')] or [actor.GetTopLiege.GetTitleAsNameNoTooltip|V]"
  recipient_secondary_influence_candidacy_interaction: "Candidate"
  medium_influence_loss_option_desc: "Medium deduction (#N $MEDIUM_INFLUENCE_LOSS_OPTION|0$#!)"
  major_influence_loss_option_desc: "Major deduction (#N $MAJOR_INFLUENCE_LOSS_OPTION|0$#!)"
@@ -29,8 +29,8 @@
  PROMOTE_CANDIDATE_HEADER: "Promote Candidate"
  promote_candidate_interaction_existing_holder_tt: "[THIS.Char.GetShortUIName|U] already [CharHaveHas(THIS.Char)] the [target.GetName]"
 
- request_appointment_support: "Request Appointment Support"
- request_appointment_support_desc: "Ask [recipient.GetShortUINameNoTooltip] to promote you or a [house|E] member in becoming a future [actor.GetTopLiege.Custom('GetGovernorConcept')] or [actor.GetTopLiege.GetTitleAsNameNoTooltip|V]"
+ request_appointment_support: "Ask to Influence Candidacy"
+ request_appointment_support_desc: "Pay [recipient.GetShortUINameNoTooltip] to spend their [influence|E] to increase a [character_possessive|E] [candidate_score|E] for [recipient.GetTopLiege.Custom('GetGovernorConcept')] or [actor.GetTopLiege.GetTitleAsNameNoTooltip|V]"
  request_appointment_support_extra_icon: "$hook_extra_icon$"
  request_appointment_support_tt: "[recipient.GetShortUIName|U] spends [influence|E] to support [secondary_recipient.GetShortUIName|U] for [target.GetName]"
  request_appointment_support_toast_tt: "[recipient.GetShortUIName|U] accepted your request for support"
@@ -51,6 +51,7 @@
  major_influence_option_desc: "Major contribution (#P +$MAJOR_INFLUENCE_OPTION|0$#!)"
  as_much_as_needed_influence_option_desc: "Contribute enough [influence|E] to place first in line (#P +$AS_MUCH_AS_NEEDED_INFLUENCE_OPTION|0$#!)"
  monumental_influence_value_desc: "Contribute [EmptyScope.ScriptValue('monumental_influence_value')] [influence|E]"
+ already_first_in_line_influence_option_desc: "[secondary_recipient.GetShortUIName] is already first in line to be appointed for this [title|E]"
 
  grant_governorship_interaction: "Grant Appointment"
  grant_governorship_interaction_desc: "Appoint [recipient.GetShortUINameNoTooltip] as [governor|E] of a [province|E]"
@@ -67,6 +68,7 @@
 
  revoke_governorship_interaction: "Revoke Appointment"
  revoke_governorship_interaction_desc: "Revoke a [province|E] from a [governor|E]#!"
+ admin_no_valid_appointment: "[recipient.GetShortUIName] does #bold not#! have a valid appointment to [revoke|E]"
 
  demand_admin_interaction: "Demand Administrative Governance"
  demand_admin_interaction_desc: "Ask [recipient.GetShortUIName|U] to abandon [recipient.GetGovernment.GetAdjective] [government|E] and become an [GetGovernment('administrative_government').GetName] [governor|E]"
@@ -101,7 +103,7 @@
  ep3_interactions_events.0001.refuse_toast: "Demand Refused"
  ep3_interactions_events.0001.force_toast: "Governorship Forced"
 
- contest_appointment_interaction: "Contest Appointment"
+ contest_appointment_interaction: "Request Re-Appointment"
  contest_appointment_interaction_extra_icon: "$hook_extra_icon$"
  HIGHLIGHTED_CAN_CONTEST_APPOINTMENT: "#EMP You have a [claim|E] on [recipient.GetShortUINamePossessiveNoTooltip] appointed title#!"
  contest_appointment_interaction_desc_tt: "Your appointment to the [target.GetName] is preposterous! I demand our liege assign the position to me instead."
@@ -140,7 +142,7 @@
  ep3_interactions_events.0014.desc: "Your sneaky machinations have failed! I will not relinquish my legitimately acquired position, even if you have the support of the [intermediary.GetTitleAsNameNoTooltip] — #EMP for now...#!"
  ep3_interactions_events.0014.a: "It doesn't end here!"
 
- request_council_interaction: "Request Council Position"
+ request_council_interaction: "Ask for Council Position"
  request_council_interaction_desc: "Use [influence|E] to gain a [council|E] position in your [liege|E]'s council"
  ep3_interactions_events.0020.opening: "[recipient.Custom2('AppropriateGreetingNegative', actor)]"
  ep3_interactions_events.0020.desc: "I regret to inform you that your request for a council position has been denied, as I don't believe you to be the best candidate available."
@@ -154,7 +156,7 @@
  request_council_decline_summary: "If your liege declines, a portion of the cost will be refunded"
  on_declared_war_in_admin: "@warning_icon! #X Because you declared a [war|E] inside an [administrative_government|E]:#!"
  
- admin_vassal_modify_vassal_contract_interaction: "Request Administration Change"
+ admin_vassal_modify_vassal_contract_interaction: "$admin_liege_modify_vassal_contract_interaction$" #just like Vassal Contract, we want the interaction to have the same name both ways (unless we change that too, but this is more consistent with non-admin realms)
  admin_vassal_modify_vassal_contract_interaction_send: "Request Change"
  admin_vassal_modify_vassal_contract_interaction_desc: "Ask your liege to change the [province_administration_short|E] of your [actor.Custom( 'GetProvinceConcept' )]"
  admin_vassal_modify_vassal_contract_interaction_extra_icon: "$hook_extra_icon$"
@@ -220,7 +222,7 @@
  ep3_ennobled_adventurer_modifier_reason_1: "Due to the [new_primary_title.GetAdjective] people's #EMP #N Bad#!#! of you:"
  ep3_ennobled_adventurer_modifier_rules: "#weak To lessen the above modifier's penalty, you need to have high enough [prestige_level|E], and either you, or your [primary_spouse|E], or [primary_heir|E], need to be of the same [culture|E] and [faith|E] as [new_primary_title.GetNameNoTier]#!"
 
- request_laamp_invasion_sponsorship_interaction: "Request Invasion Sponsorship"
+ request_laamp_invasion_sponsorship_interaction: "Ask for Invasion Sponsorship"
  request_laamp_invasion_sponsorship_interaction_desc: "Secure the support of a [ruler|E] who will provide [soldiers|E] in exchange for your [vassalage|E]"
  adventurer_invasion_supporter_tt: "[recipient.GetShortUIName|U] will join and provide [soldiers|E] for a $EP3_LAAMP_INVASION_CB_NAME$ [war|E] declared against [secondary_recipient.GetShortUIName|U] in the next #V 5#! years"
  adventurer_invasion_supporter_soldiers_tt: "[recipient.GetShortUIName|U] will provide [soldiers|E] for a $EP3_LAAMP_INVASION_CB_NAME$ [war|E] declared against [secondary_recipient.GetShortUIName|U] in the next #V 5#! years"
@@ -650,7 +652,7 @@
  ADMIN_PASS_TO_HEIR_REVOKE: "Pass [title|E] to next Candidate"
  ADMIN_PASS_TO_HEIR_REVOKE_VALID_TT: "[title|E] [heir|E] must be another character"
  ADMIN_PASS_TO_HEIR_REVOKE_VALID_SCOPE_TT: "[landed_title.GetName] [heir|E] must be another character"
- governor_removal_interaction: "Depose Governor"
+ governor_removal_interaction: "Retire Governor"
  governor_removal_interaction_desc: "Have [recipient.GetShortUINameNoTooltip] relinquish [recipient.GetHerHis] offices, passing all held [governorships|E] to the next Candidate in [line|E]"
  GOVERNOR_REMOVAL_NOTIFICATION_TEXT: "I'm afraid your tenure as [recipient.GetTitleAsNameNoTooltip] of [recipient.GetPrimaryTitle.GetNameNoTier] has run its course; your offices are hereby relinquished. The [actor.GetPrimaryTitle.GetTierAsNameNoTooltip] is grateful for your service."
  GOVERNOR_RESIGNATION_EFFICIENCY_COST: "[recipient.GetShortUINamePossessiveNoTooltip] [governor_efficiency|E]"
@@ -661,7 +663,7 @@
  GOVERNOR_RESIGNATION_INFLUENCE_LEVEL_COST: "[recipient.GetShortUINamePossessiveNoTooltip] [influence_level|E]"
  HIGHLIGHTED_GOVERNOR_REMOVAL_HEIR: "#EMP A [actor.GetHouse.GetBaseName] [house|E] member is next in [line|E] for at least one of [recipient.GetShortUINamePossessiveNoTooltip] [governorships|E]#!"
  governor_removal_interaction_extra_icon: "$hook_extra_icon$"
- force_governor_removal_interaction: "Compel Resignation"
+ force_governor_removal_interaction: "Request Retirement"
  force_governor_removal_interaction_desc: "Pressure [recipient.GetShortUINameNoTooltip] to remove a [governor|E] from office, passing all held [governorships|E] to the next Candidate in [line|E]"
  force_governor_removal_interaction_extra_icon: "$hook_extra_icon$"
  recipient_secondary_force_governor_removal_interaction: "[governor|E]"
@@ -679,6 +681,7 @@
  force_governor_removal_interaction_pass_effect_tt: "[next_candidate.GetShortUIName|U] will receive the [landed_title.GetName] and its [vassals|E]"
  demand_governor_removal_toast: "Governorship Resigned"
  HIGHLIGHTED_DEMAND_GOVERNOR_REMOVAL_HEIR: "#EMP A [actor.GetHouse.GetBaseName] [house|E] member is next in [line|E] for at least one of [secondary_recipient.GetShortUINamePossessiveNoTooltip] [governorships|E]#!"
+ HIGHLIGHTED_FORCE_STEP_DOWN_HEIR: "#EMP A [actor.GetHouse.GetBaseName] [house|E] member is next in [line|E] for at least one of [recipient.GetShortUINamePossessiveNoTooltip] [governorships|E]#!"
  THEIR_HOUSE_MEMBER_STANDS_TO_INHERIT: "[recipient.GetShortUINamePossessiveNoTooltip] [house|E] member in [line|E]: $VALUE|=+0$"
  THEY_ARE_MY_COUNCILLOR: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [councillor|E]: $VALUE|=+0$"
  THEY_ARE_MY_SPOUSE: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [spouse|E]: $VALUE|=+0$"
@@ -707,7 +710,7 @@
  demand_governor_resignation_accepted_toast: "Resignation Accepted"
  demand_governor_resignation_declined_toast: "Resignation Refused"
  # Request Governorship
- request_governorship_interaction: "Request Governorship"
+ request_governorship_interaction: "Ask for Governorship" 
  request_governorship_interaction_desc: "Ask your [liege|E] to grant, or make you the next Candidate in [line|E] for, a [governorship|E]"
  request_governorship_interaction_tier_tt: "Only [duchy|E] and [kingdom|E] [rank|E] [titles|E] may be requested"
  request_governorship_interaction_created_tt: "[liege|E] must hold a [de_jure|E] [county|E] to grant non-created [titles|E]"
@@ -740,7 +743,7 @@
  AI_THEME_IS_KINGDOM: "[governorship|E] is [kingdom|E] [rank|E]: $VALUE|=+0$"
  candidacy_request_desc: "Requesting Appointment Score"
  # Noble Family Adoption
- noble_family_adoption_interaction: "Adopt House Member"
+ noble_family_adoption_interaction: "Adopt into House"
  noble_family_adoption_interaction_extra_icon: "$hook_extra_icon$"
  noble_family_adoption_interaction_desc: "Adopt [recipient.GetShortUIName] as a member of [house|E] [actor.GetHouse.GetBaseName]"
  I_ALREADY_HAVE_A_HOUSE: "I already have a [house|E]: $VALUE|=+0$"
@@ -813,7 +816,7 @@
  admin_vassal_war_no_target_desc: "No valid target within range"
 
  # Request Raid Remit
- request_raid_remit_interaction: "Request Raid Remit"
+ request_raid_remit_interaction: "Request Permission to Raid"
  request_raid_remit_interaction_desc: "Ask for the [actor.GetTopLiege.GetTitleAsNamePossessiveNoTooltip] permission to raid another [noble_family_possessive|E] [estate|E]"
  recipient_secondary_request_raid_remit_interaction: "Target"
  request_raid_remit_interaction_effect_tt: "[recipient.GetShortUIName|U] will not consider [actor.GetShortUIName] a [criminal|E] if discovered after successfully using the [GetScheme('raid_estate').GetTypeName] [scheme|E] against House [secondary_recipient.GetHouse.GetBaseName]"
@@ -922,7 +925,7 @@
  procure_estate_message_title: "Adventurer Becomes Noble Family Head"
  procure_estate_message_tt: "[actor.GetShortUIName|U] was settled into an estate and given a role in our politics by [recipient.GetUIName]"
 
- house_head_request_interaction: "Request as House Head"
+ house_head_request_interaction: "Make House Head Request"
  house_head_request_interaction_desc: "As [house_head|E] of your [house|E], ask for various forms of support from a landed member of your family"
  HOUSE_HEAD_REQUEST_PROPOSAL: "As a member of House [recipient.GetHouse.GetName], it is your duty to show your support and loyalty to your House Head."
  HH_ASK_FOR_GOLD: "Gold"
@@ -987,7 +990,7 @@
  HOF_INTERACTION_HAS_HOUSE_MODIFIER: "Your house already has [GetModifier('ep3_requested_faith_support_modifier').GetName]"
  HOF_INTERACTION_IS_HOUSE_HEAD: "You are not a [house_head|E]"
  requested_faith_support_domicile_tt: "#weak [influence|E] gain increased by a [domicile_building|E]#!"
- ep3_hof_ask_for_influence_interaction: "Request Clergy Support"
+ ep3_hof_ask_for_influence_interaction: "Ask for Clerical Influence"
  ep3_requested_faith_support_modifier: "Clerical Political Agents"
  ep3_requested_faith_support_modifier_desc: "Many political creatures wear holy robes; many are sermonizing proponents of this family's interests."
  HOF_OPINION_OF_EMPEROR: "[recipient.GetShortUINamePossessive] Opinion of your [top_liege|E]: $VALUE|=+0$"
@@ -1020,7 +1023,7 @@
  support_candidacy_cap_reached_tt: "You have reached your [investment_cap|E] ([actor.MakeScope.ScriptValue('appointment_investment_cap')|0V]) for [secondary_recipient.GetShortUINamePossessive] candidacy for this [title|E] ([target.GetNameNoTier|V])"
 
  #Force to Step Down
- force_step_down_interaction: "Force to Step Down"
+ force_step_down_interaction: "Force Retirement"
  force_step_down_desc: "Leverage [influence|E], a [hook|E], or a [secret|E] to force [TARGET_CHARACTER.GetShortUIName] to step down from [TARGET_CHARACTER.GetHerHis] [governorship|E]."
  FORCE_STEP_DOWN_SUCCESS_DESC: "[TARGET_CHARACTER.GetShortUIName] will step down from [TARGET_CHARACTER.GetHerHis] [governorship|E] and be replaced."
  FORCE_STEP_DOWN_PROPOSAL: "It's high time you stepped down from the office of [target.GetBaseName]. You're entirely unfit for the job and I'll see to it that you govern there no longer."
@@ -1086,7 +1089,7 @@
  
  adventurer_not_nf_head_trigger_tt: "Must not be [house_head|E] of a [noble_family|E]"
  
- ep3_governor_request_war_permission_interaction: "Request Permission to Declare War"
+ ep3_governor_request_war_permission_interaction: "Ask for Permission to Declare War"
  ep3_governor_request_war_permission_interaction_desc: "Ask [recipient.GetShortUIName] for permission to declare a single [war|E] to expand the borders of the [realm|E]"
  ep3_governor_request_war_permission_interaction_extra_icon: "$hook_extra_icon$"
  admin_has_war_permission_already_desc: "You already have permission to declare a war"
@@ -1096,3 +1099,7 @@
  admin_declined_war_permission_title: "War Request Denied"
  admin_declined_war_permission_desc: "Your request to declare [war|E] was denied"
  request_war_permission_notification_text: "I wish to expand our glorious realm and bring the fight to our enemies! Would you consider to grant me approval of such a venture?"
+ 
+ ep3_mass_arrests_interaction: "Order Mass Arrests"
+ ep3_mass_arrests_interaction_desc: "Order every member of the [recipient.GetHouse.GetName] [family|E] to be arrested, as there is only one way to be sure that they cannot move against me: #EMP clap them all in irons.#!"
+ estate_is_in_capital_desc: "[recipient.GetShortUINamePossessive|U] [estate|E] must be located in the [realm_capital|E]"

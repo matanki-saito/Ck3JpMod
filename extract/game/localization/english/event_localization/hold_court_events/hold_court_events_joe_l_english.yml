@@ -775,7 +775,7 @@
  # Bodyguard
  bodyguard_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'bodyguard_court_position' ) )]"
  bodyguard_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'bodyguard_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'bodyguard_court_position' ) )])#!"
- bodyguard_salary_tooltip: "[GetCourtPositionType( 'bodyguard_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('medium_court_position_salary')|2]"
+ bodyguard_salary_tooltip: "[GetCourtPositionType( 'bodyguard_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('minor_court_position_salary')|2]"
  # Champion
  champion_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'champion_court_position' ) )]"
  champion_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'champion_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'champion_court_position' ) )])#!"
@@ -811,11 +811,11 @@
  # Lady-in-Waiting
  lady_in_waiting_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'lady_in_waiting_court_position' ) )]"
  lady_in_waiting_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'lady_in_waiting_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'lady_in_waiting_court_position' ) )])#!"
- lady_in_waiting_salary_tooltip: "[GetCourtPositionType( 'lady_in_waiting_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('medium_court_position_salary')|2]"
+ lady_in_waiting_salary_tooltip: "[GetCourtPositionType( 'lady_in_waiting_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('tiny_court_position_salary')|2]"
  # Chief Eunuch
  chief_eunuch_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'chief_eunuch_court_position' ) )]"
  chief_eunuch_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'chief_eunuch_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'chief_eunuch_court_position' ) )])#!"
- chief_eunuch_salary_tooltip: "[GetCourtPositionType( 'chief_eunuch_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('minor_court_position_salary')|2]"
+ chief_eunuch_salary_tooltip: "[GetCourtPositionType( 'chief_eunuch_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('tiny_court_position_salary')|2]"
  # Court Gardener
  court_gardener_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'court_gardener_court_position' ) )]"
  court_gardener_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'court_gardener_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'court_gardener_court_position' ) )])#!"
@@ -847,7 +847,7 @@
  # Wet Nurse
  wet_nurse_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'wet_nurse_court_position' ) )]"
  wet_nurse_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'wet_nurse_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'wet_nurse_court_position' ) )])#!"
- wet_nurse_salary_tooltip: "[GetCourtPositionType( 'wet_nurse_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('minor_court_position_salary')|2]"
+ wet_nurse_salary_tooltip: "[GetCourtPositionType( 'wet_nurse_court_position' ).GetName()] has a monthly salary of [gold_i][SCOPE.ScriptValue('tiny_court_position_salary')|2]"
  # Cave Hermit
  cave_hermit_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'cave_hermit_court_position' ) )]"
  cave_hermit_old_holder_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'cave_hermit_court_position' ) )] #weak ([old_holder.GetFirstName] [old_holder.GetCourtPositionAptitude( GetCourtPositionType( 'cave_hermit_court_position' ) )])#!"

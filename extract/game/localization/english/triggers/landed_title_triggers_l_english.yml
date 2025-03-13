@@ -116,3 +116,7 @@
  is_title_created_first: "[title|E] already created"
  is_title_created_third: "[title|E] already created"
  is_title_created_global: "[title|E] already created"
+ 
+ capital_county_equal_first: "[TARGET_TITLE.GetNameNoTier] is your [capital|E]"
+ capital_county_equal_third: "[TARGET_TITLE.GetNameNoTier] is [CHARACTER.GetShortUINamePossessive|U] [capital|E]"
+ capital_county_equal_global: "[TARGET_TITLE.GetNameNoTier] is the [capital|E]"

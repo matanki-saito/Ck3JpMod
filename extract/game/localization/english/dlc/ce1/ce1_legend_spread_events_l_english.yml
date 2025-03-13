@@ -67,7 +67,7 @@ legend_spread_events.0040.b.tt.failure: "Your piety is clearly a lie"
 legend_spread_events.0040.c: ""What would that add?""
 
 legend_spread_events.0050.t: "At the Service of a [honored_lady.GetLadyLord|U]"
-legend_spread_events.0050.desc: ""#EMP And [ROOT.Legend.GetProtagonist.GetSheHe] was gallant\nand [honored_lady.GetSheHe] was beautiful\nAnd [ROOT.Legend.GetProtagonist.GetSheHe] was a hero\nand [honored_lady.GetSheHe] was beautifuuuuul!#!"\n\nIt doesn't take long to discover where the music is coming from, as I soon find [bard.GetTitledFirstName], playfully tuning [bard.GetHerHis] lute, leaning on a stone bench.\n\n"Ah, my [ROOT.Char.GetLadyLord]," [bard.GetHerHis] eyes immediately bright up, "isn't it true that the reason for your legend was to impress [honored_lady.GetTitledFirstName]?""
+legend_spread_events.0050.desc: ""#EMP And [ROOT.Legend.GetProtagonist.GetSheHe] was gallant\nand [honored_lady.GetSheHe] was beautiful\nAnd [ROOT.Legend.GetProtagonist.GetSheHe] was a hero\nand [honored_lady.GetSheHe] was beautifuuuuul!#!"\n\nIt doesn't take long to discover where the music is coming from, as I soon find [bard.GetTitledFirstName], playfully tuning [bard.GetHerHis] instrument, leaning on a stone bench.\n\n"Ah, my [ROOT.Char.GetLadyLord]," [bard.GetHerHis] eyes immediately bright up, "isn't it true that the reason for your legend was to impress [honored_lady.GetTitledFirstName]?""
 legend_spread_events.0050.a: ""How dare you!? I am #EMP married#!!""
 legend_spread_events.0050.b: ""[honored_lady.GetSheHe|U] truly is beautiful...""
 legend_spread_events.0050.b.tt.success: "Your gesture impresses [honored_lady.GetFirstNameNoTooltip]"

@@ -85,7 +85,7 @@
  contract_assistance_interaction:0 "Offer Military Assistance"
  contract_assistance_interaction_desc:0 "[SelectLocalization( ObjectsEqual(actor.GetGovernment.GetName, GetGovernment('landless_adventurer_government').GetName), 'contract_assistance_interaction_desc_laamp', 'contract_assistance_interaction_desc_struggle' )]"
  contract_assistance_interaction_desc_laamp:0 "Offer to join the [war|E] of a [ruler|E] in exchange for [gold|E]."
- contract_assistance_interaction_desc_struggle:0 "Offer to join the [war|E] of another [struggle_involved|E] [ruler|E] in exchange for [gold|E]."
+ contract_assistance_interaction_desc_struggle: "Offer to join in one of their [wars|E] in exchange for [gold|E], since you are both [struggle_involved|E] in the same [struggle|E]."
  contract_assistance_interaction_notification:0 "My troops could be very useful in your conflict; we need only agree a price."
  OA_AI_WINNING_WAR_REASON:0 "[recipient.GetShortUIName|U] is winning the [war|E]: $VALUE|=+0$"
  OA_AI_LOSING_WAR_REASON:0 "[recipient.GetShortUIName|U] is losing the [war|E]: $VALUE|=+0$"
@@ -109,6 +109,7 @@
  contract_assistance_war_msg_hirer_invalidated_desc:0 "You did not pay [contract_assistance_helper.GetShortUIName] for [contract_assistance|E], because the war was invalidated"
  contract_assistance_war_msg_helper_invalidated_desc:0 "You were not paid by [contract_assistance_hirer.GetShortUIName] for [contract_assistance|E], because the war was invalidated"
  contract_assistance_war_already_contracted_tt:0 "You are already [contract_assisting|E] in a war"
+ contract_assistance_tier_too_high_tt: "A mighty [actor.GetTitleAsNameNoTooltip] cannot serve at the pleasure of such a small [recipient.GetTitleAsNameNoTooltip]"
 
  invite_foreign_ruler_to:0 "Invite To Activity"
  invite_foreign_ruler_to_desc:1 "Invite a [ruler|E] from another [realm|E] to join you in a feast or a hunt"
@@ -128,10 +129,10 @@
  AI_STRUGGLE_INTENT:0 "Struggle agenda: $VALUE|=+0$"
 
   # Offer Assistance Interaction
- request_contract_assistance_interaction:0 "Request Contract Assistance"
- request_contract_assistance_interaction_desc:0 "Offer to join one of your [war|E] to this [struggle_involved|E] [ruler|E] in exchange for [gold|E]."
- request_contract_assistance_interaction_notification:0 "Your troops could be very useful in my conflict; we need only agree a price."
- request_contract_assistance_interaction_condition_tt:1 "If [recipient.GetShortUINamePossessive] [war_contribution|E] is at least [SCOPE.ScriptValue('saved_contribution_value')|Z0] when the [war|E] ends:"
+ request_contract_assistance_interaction: "Ask for Military Assistance"
+ request_contract_assistance_interaction_desc: "Offer [gold|E] to [recipient.GetShortUINameNoTooltip] for joining in one of your [wars|E], since you are both [struggle_involved|E] in the same [struggle|E]."
+ request_contract_assistance_interaction_notification: "Your troops could be very useful in my conflict; we need only agree a price."
+ request_contract_assistance_interaction_condition_tt: "If [recipient.GetShortUINamePossessive] [war_contribution|E] is at least [SCOPE.ScriptValue('saved_contribution_value')|Z0] when the [war|E] ends:"
 
  share_known_secrets_interaction_extra_icon:0 "$hook_extra_icon$"
  no_activity_available:0 "There is no [activity|E] available"

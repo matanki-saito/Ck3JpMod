@@ -39,6 +39,7 @@
 # Empowering Sicilian Parliament, by Flavio Verna
  middle_europe_decisions.0010.t:0 "The Assembly of the Estates"
  middle_europe_decisions.0010.desc:0 "The infrastructure left by the Greeks in the provinces of Sicily and Apulia will serve as the foundation quickening the transition of [scoped_ruler.GetPrimaryTitle.GetName] to a more enlightened form of governance. \n\nBy gathering representatives of the three Estates into a single advisory body guided by new laws based on old Roman traditions, I will ensure stability and prosperity in the Mediterranean for generations to come. Now I need only to decide where this Parliament should be held."
+ middle_europe_decisions.0010.tt_napoli_warning: "@warning_icon! #warning Constructing the parliament in [GetTitleByKey('c_napoli').GetNameNoTier] will prevent you from building a university!#!"
  middle_europe_decisions.0010.a:0 "In Palermo, its ancient seat!"
  middle_europe_decisions.0010.b:0 "It will be in Naples."
  middle_europe_decisions.0010.c:0 "I should seriously consider this decision."

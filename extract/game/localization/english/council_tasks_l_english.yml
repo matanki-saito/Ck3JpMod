@@ -515,3 +515,5 @@
  liege_stopped_converting_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has stopped [converting|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
  liege_converted_county_title: "Liege Converted [county.GetNameNoTierNoTooltip|V]"
  liege_converted_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has [converted|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
+ 
+ steward_promote_culture_beth_nahrain: "$task_promote_culture$ of Beth Nahrain"

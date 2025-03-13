@@ -142,6 +142,7 @@ MY_REALM_WINDOW_VASSAL_FEUDAL_LEVIES: "$NON_FEUDAL_VASSAL_CONTRACT_OBLIGATIONS_T
  VASSAL_LIMIT_TOOLTIP_END:0 "[CHARACTER.GetVassalLimitBreakdown]"
  VASSAL_CONTRACT_OBLIGATION_NO_EFFECT:2 "This is the current [vassal_contract|E] and [obligations|E]"
  VASSAL_CONTRACT_OBLIGATION_ONLY_ONCE:2 "#weak You can only change the [vassal_contract|E] once for each Character#!"
+ PROVINCE_ADMINISTRATION_CHANGE_INFO: "Administration can only be changed once every [EmptyScope.ScriptValue('admin_contract_cooldown_value')|0] years"
  MODIFY_VASSAL_CONTRACT_NOT_ADJACENT_LEVEL:0 "@warning_icon! #X The current level $CONTRACT_LEVEL_NAME$ and the proposed level $PROPOSED_LEVEL_NAME$ are not adjacent#!"
  OBLIGATION_LIEGE_MODIFIER:0 "#S [liege|E]:#!"
  OBLIGATION_VASSAL_MODIFIER:0 "#S [vassal|E]:#!"
@@ -174,7 +175,7 @@ MY_REALM_WINDOW_VASSAL_FEUDAL_LEVIES: "$NON_FEUDAL_VASSAL_CONTRACT_OBLIGATIONS_T
  MY_REALM_WINDOW_ACTIVE_DIARCHY:0 "Sharing Power in [Character.Custom('GetDiarchyArticle')] [Character.GetDiarchyTypeNameNoTooltip]"
  MY_REALM_WINDOW_STATUS_INACTIVE_DIARCHY:0 "Not Sharing Power"
 
- THEME_ADMINISTRATION_INFO: "#P Choose [Character.Custom('GetProvinceAdministrationConcept')] for this [Character.Custom( 'GetProvinceConcept' )]. If another [Character.Custom( 'GetGovernorConcept' )] were to take over the management of this [Character.Custom( 'GetProvinceConceptNoTooltip' )], they will keep the selected type until it is changed again."
+ THEME_ADMINISTRATION_INFO: "The [Character.Custom('GetProvinceAdministrationConcept')] remains the same even if another [Character.Custom( 'GetGovernorConcept' )] were to take over."
  THEME_ADMINISTRATION_LABEL: "Available Administration types"
  VASSAL_CONTRACT_VASSAL_TITLE_ADMIN: "Modifying the Administration of\n#high [VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTooltip]\nGoverned by [VassalContract.GetVassal.GetFirstNameNoTooltip] [VassalContract.GetVassal.GetHouse.GetNameNoTooltip]#!"
  

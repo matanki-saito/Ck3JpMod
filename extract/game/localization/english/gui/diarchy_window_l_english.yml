@@ -25,7 +25,10 @@
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_ACTIVE:0 "Active Level"
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_INACTIVE:0 "#X Inactive Level#!"
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_NO_DIARCHY:0 "$DIARCHY_WINDOW_POWER_LEVEL_STATUS_INACTIVE$"
- DIARCHY_WINDOW_OPEN_TOOLTIP:0 "Open [diarchy|E] window"
+ DIARCHY_WINDOW_OPEN_TOOLTIP: "#T Open [diarchy|E]#!\n[SelectLocalization(GetPlayer.GetDiarchy.IsValid,'DIARCHY_WINDOW_OPEN_TOOLTIP_YOUR_DIARCHY','DIARCHY_WINDOW_OPEN_TOOLTIP_LIEGE_DIARCHY')]"
+ DIARCHY_WINDOW_OPEN_TOOLTIP_YOUR_DIARCHY: "[GetPlayer.GetDiarchyTypeName]\n[scales_of_power|E] Level: [GetPlayer.GetDiarchy.GetPowerLevel|V]"
+ DIARCHY_WINDOW_OPEN_TOOLTIP_LIEGE_DIARCHY: "[GetPlayer.GetLiege.GetDiarchyTypeName]\n[scales_of_power|E] Level: [GetPlayer.GetLiege.GetDiarchy.GetPowerLevel|V]"
+
  DIARCHY_WINDOW_LIEGE_BENEFITS:4 "[liege|E] gets [DiarchyWindow.GetModifierDescription( Character.Self )]"
  DIARCHY_WINDOW_DIARCH_BENEFITS:4 "[diarch|E] gets [DiarchyWindow.GetModifierDescription( Character.Self )]"
  DIARCHY_WINDOW_DIARCH_LOYALTY:2 "[diarch_loyalty|E]: [Character.GetDiarchLoyaltyLabel]"

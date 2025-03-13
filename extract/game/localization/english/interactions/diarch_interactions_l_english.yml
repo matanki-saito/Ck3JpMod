@@ -166,11 +166,11 @@
  diarch_shift_privileges_interaction.tt.failure:0 "$diarch_interaction.skill_gamble.tt.failure$"
  diarch_shift_privileges_interaction.tt.failure.liege:0 "[actor.GetTitledFirstName] tried to abuse [actor.GetHerHis] position to profiteer by selling unfair privileges in [recipient.GetTitledFirstNamePossessive] lands"
 
- diarch_request_imperial_expedition_interaction: "Request Imperial Expedition"
+ diarch_request_imperial_expedition_interaction: "Ask for Imperial Expedition"
  diarch_request_imperial_expedition_interaction_desc: "Offer to expand along one of [recipient.GetPrimaryTitle.GetNamePossessive] frontiers, conquering swathes of territory — either keeping it or trading it for [influence|E]"
  diarch_request_imperial_expedition_interaction_extra_icon: "$hook_extra_icon$"
  DIARCH_REQUESTS_IMPERIAL_EXPEDITION: "Fellow [recipient.GetTitleAsNameNoTooltip], with your support, I would undertake a great expedition to push out the borders of the empire. Quite where my sword shall fall I am yet unsure, only that it will be #EMP devastating#! — if I can count on your backing."
- diarch_request_imperial_expedition_interaction.tt.minimum_troop_count: "You must be able to put at least [EmptyScope.ScriptValue('request_imperial_expedition_minimum_troop_count_value')] troops into the venture yourself"
+ diarch_request_imperial_expedition_interaction.tt.minimum_troop_count: "You must be able to put at least [EmptyScope.ScriptValue('request_imperial_expedition_minimum_troop_count_value')] [soldiers|E] into the venture yourself"
  diarch_request_imperial_expedition_interaction.tt.actor_already_has_charge: "You already have permission!"
  diarch_request_imperial_expedition_interaction.tt.influence_minor_name: "Stake [influence_i][EmptyScope.ScriptValue('request_imperial_expedition_influence_stake_minor_value')|0] [influence|E]"
  diarch_request_imperial_expedition_interaction.tt.influence_medium_name: "Stake [influence_i][EmptyScope.ScriptValue('request_imperial_expedition_influence_stake_medium_value')|0] [influence|E]"

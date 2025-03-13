@@ -6,6 +6,8 @@
  NOT_I_AM_AT_WAR_WITH_TRIGGER:1 "You are #bold not#! at [war|E] with [TARGET_CHARACTER.GetShortUIName|V]"
  THEY_ARE_AT_WAR_WITH_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is at [war|E] with [TARGET_CHARACTER.GetShortUIName|V]"
  NOT_THEY_ARE_AT_WAR_WITH_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is #bold not#! at [war|E] with [TARGET_CHARACTER.GetShortUIName|V]"
+ NONE_ARE_AT_WAR_WITH_TRIGGER: "They are at [war|E] with you"
+ NOT_NONE_ARE_AT_WAR_WITH_TRIGGER: "They are #bold not#! at [war|E] with you"
 
  IS_ALLIED_TO_TRIGGER:0 "Is [allied|E] to [TARGET_CHARACTER.GetShortUIName|V]"
  NOT_IS_ALLIED_TO_TRIGGER:0 "Is #bold not#! [allied|E] to [TARGET_CHARACTER.GetShortUIName|V]"

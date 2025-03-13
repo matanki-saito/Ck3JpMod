@@ -39,7 +39,7 @@
  yearly.7005.independence_faction:0 "\n\n"If I cannot have my own state, I must at least be the hero of my own tragedy.""
  yearly.7005.claimant_faction:1 ""You have no right to languish atop that throne. I would rather die than see you make one more false decree from it.""
  yearly.7005.populist_faction:0 ""It sorrows me, I swear, that I cannot but grant you a fairer death than the agonies of all those who have been crushed under your foot. At least my end shall be that of a hero.""
- yearly.7005.weapon:1 "\n\n[coup_leader.GetSheHe|U] pulls out a concealed [coup_leader.Custom('SignatureWeaponNameOrType')] and bolts forth."
+ yearly.7005.weapon:1 "\n\n[coup_leader.GetSheHe|U] pulls out a concealed dagger and bolts forth."
  yearly.7005.single_death:0 "In one dread burst, [coup_leader.GetSheHe] hits [first_character_kill.GetTitledFirstName]"
  yearly.7005.double_death:0 "In a twofold eruption, [coup_leader.GetSheHe] strikes [first_character_kill.GetTitledFirstName] and [second_character_kill.GetTitledFirstName]"
  yearly.7005.triple_death:0 "To the horror of all, [coup_leader.GetSheHe] lashes at [first_character_kill.GetTitledFirstName], [second_character_kill.GetTitledFirstName] and [third_character_kill.GetTitledFirstName]."

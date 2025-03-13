@@ -38,8 +38,17 @@
  has_rank_5_education_desc: "Has a rank 5 [education_trait|E]"
  has_rank_4_education_desc: "Has a rank 4 [education_trait|E]"
 
+ eparch_increase_efficiency_desc: "[GetCourtPositionType('eparch_court_position').GetName()]"
+ eparch_increase_efficiency_vassal_desc: "[GetCourtPositionType('eparch_court_position').GetName()] assisting [estate|E] owners in capital"
+ eparch_scheme_bonus_desc: "You are the [GetCourtPositionType('eparch_court_position').GetName()] and target resides in [capital|E]"
+ eparch_scheme_bonus_with_value_desc: "$eparch_scheme_bonus_desc$: $VALUE|+0=$"
+ republican_knowledge_1_desc: "[GetTrait('education_republican_knowledge_1').GetName( ROOT.Char )] [trait|E]"
+ republican_knowledge_2_desc: "[GetTrait('education_republican_knowledge_2').GetName( ROOT.Char )] [trait|E]"
+ republican_knowledge_3_desc: "[GetTrait('education_republican_knowledge_3').GetName( ROOT.Char )] [trait|E]"
+ republican_knowledge_4_desc: "[GetTrait('education_republican_knowledge_4').GetName( ROOT.Char )] [trait|E]"
+ 
  admin_contract_cooldown_desc: "[recipient.Custom('GetProvinceAdministrationConcept')] can only be changed once every [EmptyScope.ScriptValue('admin_contract_cooldown_value')|V0] years - Can be changed again after [GetCurrentDateWithDiff( GetVarTimeRemaining( recipient.MakeScope, 'admin_contract_cooldown') )|V]"
- admin_contract_cooldown_desc_vassal: "[actor.Custom('GetProvinceAdministrationConcept')] can only be changed once every [EmptyScope.ScriptValue('admin_contract_cooldown_value')|V0] years - Can be changed again after [GetCurrentDateWithDiff( GetVarTimeRemaining( recipient.MakeScope, 'admin_contract_cooldown') )|V]"
+ admin_contract_cooldown_desc_vassal: "[actor.Custom('GetProvinceAdministrationConcept')] can only be changed once every [EmptyScope.ScriptValue('admin_contract_cooldown_value')|V0] years - Can be changed again after [GetCurrentDateWithDiff( GetVarTimeRemaining( actor.MakeScope, 'admin_contract_cooldown') )|V]"
  admin_contract_request_cooldown_desc: "You can #bold not#! make another request until [GetCurrentDateWithDiff( GetVarTimeRemaining( actor.MakeScope, 'admin_contract_request_cooldown') )|V]"
  admin_vassal_force_obligation_change_desc: "[recipient.GetShortUIName] is forced to accept"
  admin_vassal_not_holding_a_theme_desc: "You do #bold not#! hold a [GetPlayer.Custom('GetProvinceConcept')]."
@@ -55,6 +64,8 @@
  force_join_faction_admin_requirement_desc: "You do #bold not#! have an available [strong_hook|E] or enough [influence|E] and [opinion|E] to make [recipient.GetShortUIName] join"
  admin_cannot_create_target_faction: "[administrative|E] [vassals|E] cannot create this [faction|E]"
  admin_cannot_join_target_faction: "[administrative|E] [vassals|E] cannot join this [faction|E]"
+ admin_high_tier_vassal_create_faction: "You are [administrative|E] and have to be at least [king|E] [rank|E] to create this [faction|E]"
+ admin_high_tier_vassal_join_faction: "You are [administrative|E] and have to be at least [king|E] [rank|E] to join this [faction|E]"
 
  pandidakterion_adult_education_bonus: "\nIncreases success for the [GetActivityType('activity_adult_education').GetName] [activity|E] for [characters|E] within the same [realm|E]"
 

@@ -19,7 +19,7 @@
  create_claimant_faction_against_interaction_desc:0 "Found a [claimant_faction|E] against [secondary_actor.GetShortUINameNoTooltip]"
 
  general_rebellion_decline_summary:0 "[recipient.Custom2('RevokeTitleDeclineSummary', SCOPE.sC('actor'))]"
- general_rebellion_decline_summary_warning:0 "@warning_icon! #X If [ROOT.Char.GetShortUINameNoTooltip] declines [ROOT.Char.GetSheHe] will rise up in rebellion with other disgruntled [vassals|E]!#!"
+ general_rebellion_decline_summary_warning: "@warning_icon! #X If [ROOT.Char.GetShortUIName] declines [ROOT.Char.GetSheHe] will rise up in rebellion with other disgruntled $game_concept_vassals$!#!"
  general_rebellion_decline_summary_auto_accept:0 ""
 
 
@@ -142,3 +142,8 @@
  must_not_have_landed_relatives_tt:0 "[CHARACTER.GetNameNoTooltip] must not have landed relatives"
  must_be_one_county_count_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip] must be the only county of [CHARACTER.GetShortUINameNoTooltip]"
  appoint_podesta_interaction_notification:0 "Appointed Republican Overseer"
+
+ request_court_position: "Request Court Position"
+ request_court_position_desc: "Request court position from [recipient.GetShortUINameNoTooltip]"
+ grant_court_position: "Grant Court Position"
+ grant_court_position_desc: "Grant [recipient.GetShortUINameNoTooltip] a [court_position|E]"

@@ -131,14 +131,14 @@
  hold_standard_activity_option_witch_ritual:0 "$activity_witch_ritual$"
  hold_standard_activity_option_witch_ritual_desc:0 "$activity_witch_ritual$"
 
- activity_system.0500.t: "Death at the [activity.GetNameNoTooltip]"
- activity_system.0500.desc: "I have received the news that our host, [host.GetNameNoTooltip], has passed away. Due to these unforeseen circumstances, the [activity.GetNameNoTooltip] has been canceled."
+ activity_system.0500.t: "A Grim End"
+ activity_system.0500.desc: "I have received the news that our host, [host.GetNameNoTooltip], has passed away. Due to these unforeseen circumstances, [host.GetHerHis] activity has been canceled."
  activity_system.0500.a: "A tragedy, truly."
 
- activity_system.0550.t: "An End to the [activity.GetNameNoTooltip]"
- activity_system.0550.desc: "Due to my sudden and unforeseen imprisonment, I find myself unable to continue taking part in my [activity.GetNameNoTooltip], and it has to be cancelled.\n\nAll the time I spent planning..."
+ activity_system.0550.t: "Foiled Plans"
+ activity_system.0550.desc: "Due to my sudden and unforeseen imprisonment, I find myself unable to continue taking part in my activity, and it has to be cancelled.\n\nAll the time I spent planning..."
  activity_system.0550.a: "This was not a part of my plan..."
 
  activity_system.0551.t: "Host Imprisonment"
- activity_system.0551.desc: "Due to the sudden and unforeseen imprisonment of my host, [host.GetNameNoTooltip], the [activity.GetNameNoTooltip] I was taking part in has been cancelled."
+ activity_system.0551.desc: "Due to the sudden and unforeseen imprisonment of my host, [host.GetNameNoTooltip], the activity I was taking part in has been cancelled."
  activity_system.0551.a: "Time to look homewards."

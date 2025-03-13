@@ -44,7 +44,7 @@
  ep3_governor_yearly.8040.d.failure: "You are too incompetent to manage both"
 
  ep3_governor_yearly.8050.t: "Enemy at the Gates"
- ep3_governor_yearly.8050.desc: "From the lowliest functionary to the [war_liege.GetTopLiege.GetTitleAsNameNoTooltip] [war_liege.GetHerselfHimself], the entire [war_liege.GetPrimaryTitle.GetTierAsNameNoTooltip|l] bends to defend [target_kingdom.GetBaseNameNoTier] from [war_attacker.GetPrimaryTitle.GetDefinitiveName]. As [ROOT.Char.GetTitleAsNameNoTooltip] of the [ROOT.Char.GetPrimaryTitle.GetAdjective] [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip], the threat is all too real —"
+ ep3_governor_yearly.8050.desc: "From the lowliest functionary to the [war_liege.GetTopLiege.GetTitleAsNameNoTooltip] [war_liege.GetHerselfHimself], the entire [war_liege.GetPrimaryTitle.GetTierAsNameNoTooltip|l] bends to defend [target_title.GetBaseNameNoTier] from [war_attacker.GetPrimaryTitle.GetDefinitiveName]. As [ROOT.Char.GetTitleAsNameNoTooltip] of the [ROOT.Char.GetPrimaryTitle.GetAdjective] [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip], the threat is all too real —"
  ep3_governor_yearly.8050.kingdom: "a large part of the region's defense falls to me."
  ep3_governor_yearly.8050.neighbour: "if unchecked, the invaders may press into [ROOT.Char.GetCapitalLocation.GetTitle.GetDeJureLiege.GetDeJureLiege.GetDeJureLiege.GetNameNoTier] next."
  ep3_governor_yearly.8050.end: "\n\nI play my part, manning garrisons, repairing fortifications, recruiting soldiers, but yet more can be done. Any assistance would likely be greatly appreciated in [war_liege.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]..."

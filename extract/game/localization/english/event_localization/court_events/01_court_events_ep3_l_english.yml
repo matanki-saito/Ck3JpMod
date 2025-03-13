@@ -14,7 +14,7 @@
  court.8190.f: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('family'))], [family.GetFirstNameNoTooltip], is your priority patient."
  court.8190.g: "See to my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house'))], [house.GetFirstNamePossessiveNoTooltip], complaints."
  employer_booner_court_physician_modifier: "Close Attention"
- employer_booner_court_physician_modifier_desc: "This character is the constant focus of a skilled Court Physician's energies."
+ employer_booner_court_physician_modifier_desc: "This character is the constant focus of a skilled $court_physician_court_position$'s energies."
  # Tutor
  court.8191.t: "Special Tutelage"
  court.8191.desc: "My [position_holder.Custom('ComplimentAdjective')] [GetCourtPositionType('court_tutor_court_position').GetName()], [position_holder.GetTitledFirstName], is a talented teacher, deftly keeping the unruly tykes in line as [position_holder.GetSheHe] governs their education.\n\n[position_holder.GetHerHis|U] attention is stretched across the children of the [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] court, but there is room for one of them to receive some closer tutoring under [position_holder.GetHerHis] trusty watch."

@@ -127,6 +127,7 @@
  doctrine_parameter_bonus_holy_war_piety_active:0 "[piety|E] and [piety_experience|E] from winning [holy_wars|E] is increased by #P 50%#!"
 
  tenet_religious_legal_pronouncements_name:0 "Religious Law"
+ tenet_religious_legal_pronouncements_hisbah: "Hisbah"
  tenet_religious_legal_pronouncements_fatwa:0 "Fatwa"
  tenet_religious_legal_pronouncements_halakha:0 "Halakha"
  tenet_religious_legal_pronouncements_desc:0 "The border between theological and legal arguments is thin, and spiritual qualities can and should be considered in secular settlements."
@@ -386,7 +387,7 @@
  tenet_fp3_fedayeen_name: "Fedayeen"
  tenet_fp3_sacred_murder_name: "Sacred Murder"
  tenet_fp3_fedayeen_desc: "When ordinary warfare will not avail, it is our duty before [ROOT.Faith.HighGodNameAlternate] to destroy [ROOT.Faith.HighGodHerHis|U] enemies through infiltration and deception. We must fear neither death nor pain, and eagerly lay down our lives for the greater cause." 
- doctrine_parameter_master_assassin_court_position_unlocked: "Unlocks the [master_assassin|E] [court_position|E]"
+ doctrine_parameter_master_assassin_court_position_unlocked: "Unlocks the #V [GetCourtPositionType( 'master_assassin_court_position' ).GetName()]#! [court_position|E]"
  doctrine_parameter_death_is_glory: "Likelihood of death or injury in [battle|E]: #N +10%#!"
  doctrine_parameter_sanctioned_assassinations: "No [piety|e] loss for killing characters of a different [faith|E] through the [GetScheme('murder').GetTypeName] [schemes|E]"
  

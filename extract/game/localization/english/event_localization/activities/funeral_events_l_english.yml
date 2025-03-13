@@ -7,6 +7,7 @@
  activity_funeral_destination_selection: "The body must be buried somewhere within your own realm. Holy sites and religious buildings will improve the quality of the service."
  activity_funeral_major_religious_building: "#P +++ Major Religious Building#!\n"
  activity_funeral_tos: "#P ++ $building_type_tower_of_silence_01$#!\n"
+ activity_funeral_wavel: "#P ++ $building_type_wawel_cathedral_01$#!\n"
  activity_funeral_holy_site: "#P ++ Holy Site#!\n"
  activity_funeral_mountain: "#P ++ Mountainous#!\n"
  activity_funeral_temple: "#P ++ Temple#!\n"
@@ -63,6 +64,8 @@
  funeral_cost_increase_mummification: "Mummification"
  funeral_cost_discount_cremation: "Cremation"
  funeral_activity_cost_desc: "Base Cost"
+ building_funeral_effect_desc:1 "$unlocks_building_desc$Increases [legitimacy|E] gain and [piety|E] gain for [GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName] [activities|E] Hosted in this [holding|E]"
+ building_funeral_wavel_effect_desc:1 "$unlocks_building_desc$Majorly increases [legitimacy|E] gain and [piety|E] gain for [GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName] [activities|E] Hosted in this [holding|E]"
 
  # Events
  funeral.0001.t: "Death at a Funeral"

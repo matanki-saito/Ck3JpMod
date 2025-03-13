@@ -23,6 +23,8 @@
  chariot_race_honorary_guest_regular_desc_for_host: "$honorary_guest_desc$"
  activity_invite_rule_charioteers: "Charioteers"
  activity_chariot_race_guest_help_text: "While expected of all in the realm, attending the Chariot Races in the Hippodrome offers a chance to rub elbows with the imperial elite and increase your [influence|E].\n\nA small admittance fee of [gold_i][EmptyScope.ScriptValue('chariot_race_entrance_fee')|0] is required  of all guests."
+ activity_chariot_race_predicted_cost: "The cost of [GetActivityType( 'activity_chariot_race' ).GetNameNoTooltip] is primarily affected by the [activity_options|E] you select."
+ chariot_race_base_cost_desc: "[GetActivityType( 'activity_chariot_race' ).GetName] Base Cost"
 
 
  chariot_race_gambling: "Placing Bets"

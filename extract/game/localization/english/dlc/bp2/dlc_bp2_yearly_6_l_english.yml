@@ -182,7 +182,7 @@ bp2_yearly.6020.pay_vassals: "You pay [gold_i|E]#N [root_scope.MakeScope.ScriptV
 bp2_yearly.6050.reaffirmation_path: "@alert_icon! #alert_trial This #EMP rapidly#! contributes to reaffirming your [root_scope.GetCulture.GetNameNoTooltip] customs#!"
 bp2_yearly.6050.reform_path: "@alert_icon! #alert_trial This contributes to your sweeping [advanced_culture.GetNameNoTooltip] reforms#!"
 
-cultural_acceptance_gain_beginning_reforms: "A [ruler|E] began importing the other [culture|E]'s customs"
+cultural_acceptance_gain_beginning_reforms: "A [ruler|E] began importing the other [culture_possessive|E] customs"
 cultural_acceptance_gain_building_familiar_settlements: "A reformer's [realm|E] rebuilt in a now-shared style"
 cultural_acceptance_turned_away_trade: "With lies of grand projects, a [ruler|E] cheated builders and traders of the other [culture|E]"
 
@@ -224,7 +224,7 @@ bp2_yearly.6060.d.tt: "There is nothing ostentatious, nothing convoluted, about 
 
 fervor_gain_reformer_converts: "A famed reformer converted"
 fervor_gain_reformer_champions_faith: "A ruler is revitalizing this [faith|E]"
-fervor_loss_reformer_rejects_faith: "Another [faith|E]'s famed champion's denouncement"
+fervor_loss_reformer_rejects_faith: "Another [faithpossessive|E] famed champion's denouncement"
 
 adapted_rituals_modifier: "Adapted Foreign Rituals"
 adapted_rituals_modifier_desc: "As foreign-style temples are built, foreign-style rites introduced, people say either nothing is sacred to this person... or everything is?"

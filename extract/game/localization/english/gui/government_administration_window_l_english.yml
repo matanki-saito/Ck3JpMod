@@ -12,6 +12,8 @@
  ADMINISTRATIVE_GOVERNMENT_BONUS_TOOLTIP_INACTIVE: "\n\n@warning_icon! #warning [powerful_family_bonus_short|E] is inactive because the [house|E] is #bold not#! a [powerful_family|E]#!"
  ADMINISTRATIVE_GOVERNMENT_BONUS_TOOLTIP_DOMINANT: "\n\n@alert_icon! #alert_trial This [house|E] is a [dominant_family|E] and the [powerful_family_bonus_short|E] does #bold not#! benefit the [liege|E]"
 
+ ADMIN_GOVERNMENT_HOUSE_MEMBER_COUNT: "[DynastyHouse.GetNumberOfMembers] Members"
+
  ADMIN_WINDOW_MEMBERS_OF_HOUSE_TITLE: "Members of House [DynastyHouse.GetBaseNameNoTooltip]"
  ADMIN_WINDOW_FAMILY_GROUP_HEADER: "$NAME$ #weak ($SIZE$)#!"
 
@@ -72,6 +74,7 @@
  ADMIN_VASSAL_DETAILS_SUCCESSOR_SCORES: "[AdminVassalSuccessorCandidate.GetScore|V0]"
  ADMIN_VASSAL_DETAILS_SUCCESSOR_INDEX: "[AdminVassalSuccessorCandidate.GetCandidateIndex|V0]"
  ADMIN_VASSAL_DETAILS_NO_SUCCESSORS: "No candidates of note exist"
+ ADMIN_VASSAL_CANDIDATE_SCORE_TT_HEADING: "[candidate_score|E]: [AdminVassalSuccessorCandidate.GetScore|V0]"
 
  ADMIN_VASSAL_MAP_MODE_TT_EFFICIENCY: "[governor_efficiency|E]: $ADMIN_WINDOW_THEME_GOVERNOR_EFFICIENCY$"
  ADMIN_VASSAL_MAP_MODE_TT_TAXES: "[tax|E] Contribution: @gold_icon! #high [ThemesTypeMapIcon.GetTaxes|2]#!"

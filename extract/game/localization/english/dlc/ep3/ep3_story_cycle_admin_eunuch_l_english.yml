@@ -8,7 +8,7 @@
  # Events
  ep3_story_cycle_admin_eunuch.1001.t: "$admin_eunuch_header$ [eunuch.GetFullNameNoTooltip]"
  ep3_story_cycle_admin_eunuch.1001.intro_byz: "For centuries, [Glossary( 'eunoukhoi', 'EUNOUKOS_GLOSS' )] have served in the [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] bureaucracy and palaces as advisors and confidants, playing important roles in the political duels of the day."
- ep3_story_cycle_admin_eunuch.1001.intro: "The imperial is always in need of administrators and trusted servants to ensure smooth government and the safety of the palace, and eunuchs are among some of the most valued in the [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTootlip]."
+ ep3_story_cycle_admin_eunuch.1001.intro: "The realm is always in need of administrators and trusted servants to ensure smooth government and the safety of the palace, and eunuchs are among some of the most valued in the [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]."
  ep3_story_cycle_admin_eunuch.1001.desc: "\n\n[eunuch.GetFirstName] has quickly risen through the hierarchy, and [eunuch.GetHerHis] talent, probity, and discretion in all things finds uncommon praise throughout the palatial ranks."
  ep3_story_cycle_admin_eunuch.1001.arrivals: "\n\nHailing from a humble [origin.GetDeJureLiege.GetAdjective] family, [eunuch.GetHerHis] relatives have recently joined [eunuch.GetHerHim] in [ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]..."
  ep3_story_cycle_admin_eunuch.1001.a: "I have just the job for [eunuch.GetHerHim]."

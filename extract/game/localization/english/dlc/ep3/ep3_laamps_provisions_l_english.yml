@@ -65,4 +65,4 @@
  ep3_laamps_provisions.1080.c.tt: "Your [travel|E] will be canceled, and rerouted to [landfall.GetBaronyNameExplicitly] ([landfall.GetCounty.GetTitle.GetHolder.GetTopLiege.GetPrimaryTitle.GetName])"
 
  critically_low_provisions_alert: "Critically Low Provisions"
- critically_low_provisions_alert_desc: "Your provisions are about to run out!"
+ critically_low_provisions_alert_desc: "Your [provisions|E] are about to run out!"
