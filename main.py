@@ -105,7 +105,7 @@ def assembly_mod(mod_file_name,
     shutil.copy(_(resource_dir_path, "japanese_l_english.yml"), game_replace_dir_path)
 
     # descriptor.modを置く
-    generate_descriptor_mod_file(mod_dir_path, os.environ.get("RUN_NUMBER"), "1.13.*", 2217567218)
+    generate_descriptor_mod_file(mod_dir_path, os.environ.get("RUN_NUMBER"), "1.15.*", 2217567218)
 
     return mod_dir_path
 
