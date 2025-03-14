@@ -1,7 +1,7 @@
 ﻿l_english:
- activity_group_type_activities: "Activities"
- activity_group_type_grand: "Grand Activities"
- activity_group_type_unavailable: "Unavailable Activities"
- activity_group_type_debug: "Debug Activities"
- activity_group_type_joinable: "Joinable Activities"
- activity_group_type_invitations: "Activity Invitations"
+ activity_group_type_activities: "活動"
+ activity_group_type_grand: "壮大な活動"
+ activity_group_type_unavailable: "不可能な活動"
+ activity_group_type_debug: "活動（デバッグ用）"
+ activity_group_type_joinable: "参加できる活動"
+ activity_group_type_invitations: "届いた招待状"

@@ -649,4 +649,4 @@
  gamekeepers_regular: "猟場番人"
  poacher_opinion: "#EMP 私の#!土地で密猟された"
  activity_hunt_province_desc_hidden_hinterlands: "#p +++隠された後背地#!\n"
- activity_hunt_province_desc_visegrad_castle_01_major: "#P +++ $building_type_visegrad_castle_01$#! ([building|E])\n"
+ activity_hunt_province_desc_visegrad_castle_01_major: "#P +++$building_type_visegrad_castle_01$#!（[building|E]）\n"

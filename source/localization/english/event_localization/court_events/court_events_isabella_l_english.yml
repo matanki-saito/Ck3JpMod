@@ -1,5 +1,5 @@
 ﻿l_english:
- court.4001.t:0 "新しい傷"
+ court.4001.t:0 "軽傷"
  court.4001.desc:0 "同盟国である[bleeding_diplomat_liege.GetName]が派遣した外交官[bleeding_diplomat.GetName]の足元には血だまりができている。この絨毯に染み込んだ量からすると、[bleeding_diplomat.GetSheHe]はこの場所で何時間も、いやもっと前から血を流していたとしか思えない。\n\n「この混乱についてお詫び申し上げます。[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]に向かう途中、宿屋で私を連れ去ろうとしたチビに襲われ窓から放り投げられたのです。しかし、悪漢が私の落下のクッションになったので、外交訪問は続けられた——この状態なら致命的な出血になるのはまだ#EMP 先#!の話です！」"
  court.4001.a:0 "衛兵、この[bleeding_diplomat.GetWomanMan]を侍医に診せてくれ。"
  court.4001.b:0 "私の予定には来週しか空きがない――待っていただけるかな？"

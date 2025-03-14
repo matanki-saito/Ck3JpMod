@@ -163,7 +163,7 @@
  TROOP_LIST_KNIGHT:1 "[CHARACTER.GetShortUIName|U]: [CHARACTER.GetSkill( 'prowess' )] [prowess_i|E]"
  TROOP_LIST_MAA_HEADER: "#T [MEN_AT_ARMS_TYPE.GetBaseTypeName]: $TOTAL$/$MAX$#!"
  ARMY_TOOLTIP_ATTRITION: "[attrition|E]: [Army.GetArmyAttritionPercentage|%0-]/月"
- ARMY_TOOLTIP_COMMANDER: "[commander|E]: [Character.GetShortUIName|U]"
+ ARMY_TOOLTIP_COMMANDER: "[commander|E]：[Character.GetShortUIName|U]"
  ARMY_TOOLTIP_NO_COMMANDER:0 "[commander|E]なし"
  ARMY_REORGANIZATION:0 "軍勢再編成"
  STOP_GATHERING:0 "召集を停止する"

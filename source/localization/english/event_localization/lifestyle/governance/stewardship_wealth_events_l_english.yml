@@ -19,7 +19,7 @@
  stewardship_wealth.1011.c.failure:0 "誰もが新硬貨はどれほど安物なのかを知っている"
  stewardship_wealth.1011.custom:0 "[THIS.Char.GetPrimaryTitle.GetName]の全ての領域"
  stewardship_wealth.1021.t:0 "戦争への支払い"
- stewardship_wealth.1021.desc:0 "Wars are expensive, and the [current_war.GetName] is no different.\n\nWith my treasury rapidly emptying I need to think about how I will pay to keep my soldiers on the field of battle."
+ stewardship_wealth.1021.desc:0 "戦争には莫大な費用が掛かる。[current_war.GetName]も例外ではない。\n\n国庫が急速に空になっていく中で、私は戦場にいる兵士たちを維持する費用をどう工面するのか考えねばならない。"
  stewardship_wealth.1021.a:0 "農民から追加の税を徴収しろ。"
  stewardship_wealth.1021.a.custom:0 "我が[domain|E]の全ての[county|E]"
  stewardship_wealth.1021.b:0 "必要の無い軍経費を減らせ。"

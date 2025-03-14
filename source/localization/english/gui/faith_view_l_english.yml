@@ -79,7 +79,7 @@
  FAITH_CREATION_NAMING_HEADER:0 "名前を選んでください…"
  FAITH_WINDOW_FAITH_NAME:0 "[Select_CString( StringIsEmpty( FaithCreationWindow.GetNewFaithName ), '名称を選択', '' )][FaithCreationWindow.GetNewFaithName]"
  FAITH_WINDOW_FAITH_NAME_TOOLTIP:0 "新しい[faith|E]名と信徒の呼び名を入力してください"
- FERVOR_TT:3 "#T Fervor: [Faith.GetFervor|2]%\n#!#weak The actual effects of a [faithpossessive|E] [fervor|E] is always relative to the Fervor of the opposing Faith. For example, when using the [convert_county|E] Task.#!\n\n[Faith.GetYearlyFervorChangeDesc]\n\n[Faith.GetFervorChangelog]"
+ FERVOR_TT:3 "#T 情熱: [Faith.GetFervor|2]%\n#!#weak [faithpossessive|E]の[fervor|E]の実際の効果は、常に相手教団の情熱との相対的なものです。例えば、[convert_county|E]任務を遂行する場合など。#!\n\n[Faith.GetYearlyFervorChangeDesc]\n\n[Faith.GetFervorChangelog]"
  FAITH_DOCTRINES_IMPORTANT:0 "主要な[doctrines|E]"
  FAITH_DOCTRINES_MARRIAGE:0 "婚姻に関する教義"
  FAITH_DOCTRINES_CRIMES:0 "罪に関する教義"

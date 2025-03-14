@@ -455,4 +455,4 @@
  COUNCILLOR_LIEGE_MODIFIERS_BONUS: "評議員の[liege|E][modifiers|E]"
  ep3_convert_county_to_state_faith: "[councillor.GetFaith.GetName]が[state_faith|E]である"
  SCHEME_NOT_IN_REALM: "あなたの[realm|E]の一部ではない：$VALUE|0$"
- steward_promote_culture_beth_nahrain: "$task_promote_culture$ of Beth Nahrain"
+ steward_promote_culture_beth_nahrain: "ベス・ナフラインの$task_promote_culture$"

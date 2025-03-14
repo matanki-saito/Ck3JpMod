@@ -70,4 +70,4 @@
  middle_europe_decisions.0018.a.new_king:0 "我に栄光あれ！"
  middle_europe_decisions.0018.a.slav:0 "おのれ！"
  middle_europe_decisions.0018.a:0 "それは良かった。"
- middle_europe_decisions.0010.tt_napoli_warning: "@warning_icon! #warning Constructing the parliament in [GetTitleByKey('c_napoli').GetNameNoTier] will prevent you from building a university!#!"
+ middle_europe_decisions.0010.tt_napoli_warning: "@warning_icon! #warning [GetTitleByKey('c_napoli').GetNameNoTier]に議会を建設すると、大学を建設できなくなります#!"

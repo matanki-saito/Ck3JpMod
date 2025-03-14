@@ -30,4 +30,4 @@
  muwalladi_opinion: "[GetFaithByKey('muwalladi').GetAdherentName]の評価"
  maturidi_opinion: "[GetFaithByKey('maturidi').GetAdherentName]の評価"
  mutazila_opinion: "[GetFaithByKey('mutazila').GetAdherentName]の評価"
- judaism_religion_opinion: "$judaism_religion_adj$ Opinion"
+ judaism_religion_opinion: "$judaism_religion_adj$の評価"

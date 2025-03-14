@@ -69,7 +69,7 @@
  PROVINCE_TOOLTIP_MOVE_RALLY_POINT_CANCEL:0 "#I 右クリックでキャンセル#!"
  DE_JURE_DRIFT_TARGET_DESCRIPTION:1 "#high 慣習的領土の変遷:#! [TITLE.GetNameNoTooltip]は約$DURATION$で[TARGET_TITLE.GetNameNoTooltip]の一部となる"
  DE_JURE_DRIFT_PROGRESS_DESCRIPTION:0 "[TITLE.GetNameNoTooltip]は$DURATION$、[TARGET_TITLE.GetNameNoTooltip]に向けた慣習的領土の変遷中です"
- MAP_COUNTY_HOLDER_MAIN_TEXT: "County Holder: [CHARACTER.GetUINameNoTooltip|UV]"
+ MAP_COUNTY_HOLDER_MAIN_TEXT: "伯爵領の保持者：[CHARACTER.GetUINameNoTooltip|UV]"
  MAP_COUNTY_HOLDER_RIGHT_CLICK:1 "#I 右クリックして伯爵領の保持者を選択 #!"
  MAP_OCCUPANT_TEXT:0 "占領者: [CHARACTER.GetUINameNoTooltip|UV]"
  HOUSES_MAP_MODE_TOOLTIP:0 "#T [ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetNameNoTooltip]の家名#!:\n[ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetHouse.GetBaseNameNoTooltip]"

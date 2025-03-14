@@ -177,4 +177,4 @@
  travel_logs_perk_name: "旅の記録"
  realm_charts_perk_name: "記録と日誌"
  surveyor_perk_name: "監査官"
- ducal_conquest_perk_name_desc: "[GetPerk('ducal_conquest_perk').GetName( GetPlayer )] [perk|E]"
+ ducal_conquest_perk_name_desc: "[GetPerk('ducal_conquest_perk').GetName( GetPlayer )][perk|E]"

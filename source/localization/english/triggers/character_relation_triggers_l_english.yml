@@ -62,5 +62,5 @@
  NOT_HAS_ARTIFACT_TRIGGER:0 "宝物を持っていない"
  NOT_HAS_RELATION_RIVAL_WITH_TARGET: "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は[rivals|E]ではない"
  HAS_RELATION_WARD_OF_TARGET: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の[ward|E]である"
- NONE_ARE_AT_WAR_WITH_TRIGGER: "They are at [war|E] with you"
- NOT_NONE_ARE_AT_WAR_WITH_TRIGGER: "They are #bold not#! at [war|E] with you"
+ NONE_ARE_AT_WAR_WITH_TRIGGER: "彼らはあなたと[war|E]中である"
+ NOT_NONE_ARE_AT_WAR_WITH_TRIGGER: "彼らはあなたと[war|E]して#bold いない#!"

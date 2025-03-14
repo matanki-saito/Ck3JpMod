@@ -153,4 +153,4 @@
  fp3_clan.3000.c: "次の分を一緒に植えるのはどう？"
  fp3_clan.3000.c.flavor: "この機会を利用して、[fp3_clan_3000_bad_child.GetFirstNameNoTooltip]にガーデニングの楽しさを教える。"
  fp3_clan.3000.d: "よくわかった。#italic お前の死肉を肥料にしてもいいんだぞ#!。"
- fp3_clan.8009.a.eccentric: "How dare [corrupt_mayor.GetSheHe] cross me!"
+ fp3_clan.8009.a.eccentric: "[corrupt_mayor.GetSheHe]が私を裏切るとは、なんと大胆な！"

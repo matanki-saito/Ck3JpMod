@@ -75,7 +75,7 @@
  SCHEME_AGENT_IS_FRIEND:1 "[target.GetShortUINamePossessiveNoTooltip]の友人"
  SCHEME_AGENT_IS_CONCUBINE:1 "[target.GetShortUINamePossessiveNoTooltip]の[concubine|E]"
  SCHEME_AGENT_IS_LOVER:1 "[target.GetShortUINamePossessiveNoTooltip]の愛人"
- SCHEME_AGENT_IS_COURT_PHYSICIAN:1 "[target.GetShortUINamePossessiveNoTooltip] $court_physician_court_position$"
+ SCHEME_AGENT_IS_COURT_PHYSICIAN:1 "[target.GetShortUINamePossessiveNoTooltip]の$court_physician_court_position$"
  SCHEME_AGENT_IS_COUNCILLOR:1 "[target.GetShortUINamePossessiveNoTooltip]の[councillor|E]"
  SCHEME_AGENT_IS_CLOSE_KIN:1 "[target.GetShortUINamePossessiveNoTooltip]の[close_family|E]の一員"
  SCHEME_AGENT_IS_POWERFUL_VASSAL:1 "[target.GetShortUINamePossessiveNoTooltip]の[powerful_vassal|E]"

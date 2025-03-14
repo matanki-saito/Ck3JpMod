@@ -137,5 +137,5 @@
  hunt_success_chance.hunt_wild_predators_modifier: "[GetModifier( 'ep3_wild_predators_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hidden_hinterlands_recruit_modifier: "[GetModifier( 'inspection_hidden_hinterlands_recruit_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.hidden_hinterlands_huntsmen_modifier: "[GetModifier( 'inspection_hidden_hinterlands_hunters_modifier' ).GetNameWithTooltip]"
- hunt_success_chance.master_of_hunt_holder: "Holds [ROOT.Activity.GetHost.Custom('GetHuntMasterTooltipDesc')] [court_position|E]"
- hunt_success_chance.visegrad_castle_01: "$building_type_visegrad_castle_01$ [building|E]"
+ hunt_success_chance.master_of_hunt_holder: "[ROOT.Activity.GetHost.Custom('GetHuntMasterTooltipDesc')]の[court_position|E]を保持する"
+ hunt_success_chance.visegrad_castle_01: "$building_type_visegrad_castle_01$[building|E]"

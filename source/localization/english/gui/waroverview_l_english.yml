@@ -19,7 +19,7 @@
  NO_BATTLES_WARSCORE:0 "#weak 戦闘はありません#!"
  NO_OCCUPATION_WARSCORE:0 "#weak 占領された所領なし#!"
  NO_TICKING_WARSCORE:0 "#weak 目標は支配されていません#!"
- BATTLE_RESULT_ENTRY: "Battle of [PROVINCE.GetName]"
+ BATTLE_RESULT_ENTRY: "[PROVINCE.GetName]の戦い"
  WAR_LEADER_TOOLTIP:1 "#T [war_leader|E]:#!\n[CHARACTER.GetUINameNotMe]"
  WAR_PARTICIPANT_TOOLTIP:0 "#T [CHARACTER.GetUINameNotMeNoTooltip]#!"
  WAR_OVERVIEW_WARSCORE:0 "$WARSCORE|0%=+$"

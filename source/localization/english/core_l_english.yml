@@ -271,7 +271,7 @@
  PRESTIGE:0 "[prestige_i]$VALUE|0$"
  PRESTIGE_COST:0 "[prestige_i]$VALUE|0$"
  PRESTIGE_COST_REINFORCE:0 "[prestige_i]$VALUE|1$"
- PRESTIGE_COST_MAINTENANCE: "[prestige_i] $VALUE|2$"
+ PRESTIGE_COST_MAINTENANCE: "[prestige_i]$VALUE|2$"
  PRESTIGE_COST_LONG:0 "威信: [prestige_i]$VALUE|0$"
  PRESTIGE_K:0 "[prestige_i]$VALUE|1$K"
  PRESTIGE_CONCEPT:0 "[prestige|E]"

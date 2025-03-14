@@ -7,7 +7,7 @@
  court.7030.d:0 "[foreign_merchant.GetCulture.GetCollectiveNounNoTooltip]が我々の市場を食い物にすることは許さぬ！"
  court.7030.d.tt:0 "我々の領国から[foreign_merchant.GetFirstNameNoTooltip]を追放し、[foreign_merchant.GetSheHe]が我々の商人から奪った金を正当に差し押さえます！"
  court.7040.title:0 "コミュニティの柱"
- court.7040.desc:1 "I have noticed that my [ROOT.Char.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName] has been nervously pacing the room.\n\n\"[chaplain.GetName], what is the matter?\" I ask.\n\n\"It is [ascetic.GetName], my liege. [ascetic.GetSheHe|U] has taken to scaling a pillar in the palace courtyard in the morning, and remaining there all day in quiet contemplation. [ascetic.GetSheHe|U] refuses food and drink, and says relatively little when questioned. Ascetic practices like these aren't unheard of, but it's bothering some of your court and they're asking me to do something about it.\""
+ court.7040.desc:1 "私は、室内を神経質そうに歩き回る[ROOT.Char.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName]に気がついた。\n\n「[chaplain.GetName]、何があった？」私は尋ねる。\n\n「[ascetic.GetName]のことなのです、我が主君。朝、宮殿の中庭の柱をよじ登り、終日そこで静かに瞑想するのが習慣となっているようです。食べ物も飲み物も断ち、何か尋ねられてもわずかな受け答えのみ。このような禁欲的な習慣、前代未聞とまではいきませんが、それでも廷臣が何人か悩まされていて、何とかしてほしいと頼んできたのです。」"
  court.7040.a:0 "[ascetic.GetHerHim]を無視しておけば、最終的に[ascetic.GetSheHe]はそれを乗り越えるだろう。"
  court.7040.b:0 "[ascetic.GetHerHim]を[head_of_faith.GetTitledFirstName]の元へ送り、[head_of_faith.GetSheHe]がどうするか見てみよう。"
  court.7040.c:0 "[ascetic.GetNamePossessive]の信心深さは刺激的だ、私は[ascetic.GetHerHis]を真似てみよう！"

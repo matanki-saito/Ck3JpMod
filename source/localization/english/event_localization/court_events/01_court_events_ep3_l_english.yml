@@ -12,7 +12,7 @@
  court.8190.f: "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('family'))]、[family.GetFirstNameNoTooltip]こそがそなたが優先すべき患者だ。"
  court.8190.g: "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house'))]、[house.GetFirstNamePossessiveNoTooltip]の不満を聞いてくれ。"
  employer_booner_court_physician_modifier: "細心の注意"
- employer_booner_court_physician_modifier_desc: "This character is the constant focus of a skilled $court_physician_court_position$'s energies."
+ employer_booner_court_physician_modifier_desc: "この人物は、熟練の$court_physician_court_position$が尽力する対象である。"
  court.8191.t: "特別な指導"
  court.8191.desc: "我が[position_holder.Custom('ComplimentAdjective')][GetCourtPositionType('court_tutor_court_position').GetName()]の[position_holder.GetTitledFirstName]は有能な教師であり、教育を管理し手に負えない子どもたちを巧みに手懐けている。\n\n[position_holder.GetHerHis|U]の注意は[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の宮廷の子どもたち全体に行き届いているが、そのうちひとりが、信頼すべき[position_holder.GetHerHis]の監視下でより緻密な個人指導を受けることができる。"
  court.8191.a: "#EMP 私は#!もっと学びたい！"

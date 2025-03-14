@@ -17,7 +17,7 @@
  SCHEME_MY_LEARNING:0 "私の[learning|E]: $VALUE|+=0$"
  SCHEME_AGENT_LEARNING:0 "スパイの[learning|E]: $VALUE|+=0$"
  SCHEME_MY_INTRIGUE:0 "私の[intrigue|E]: $VALUE|+=0$"
- scheme_target_died:0 "[target.GetShortUIName|U] has died"
+ scheme_target_died:0 "[target.GetShortUIName|U]は死んだ"
  restart_scheme_tt:0 "計画の進捗は0からのやり直しとなる"
  fabricate_hook_failed_reset_message:1 "$fabricate_hook$失敗"
  scheme_remain_secret_roll_tt:0 "計画が露見する"

@@ -11,7 +11,7 @@
  WAR_SCORE_DEFENDER_TICKING: "Defender controls War Target"
  WAR_SCORE_LANDLESS_ARMIES_LOST:0 "Landless attacker has no armies left"
  WAR_SCORE_OCCUPATION_COUNTY: "[TITLE.GetNameNoTier]"
- WAR_SCORE_OCCUPATION_COUNTY_PARTIAL: "[TITLE.GetNameNoTier] (Partial)"
+ WAR_SCORE_OCCUPATION_COUNTY_PARTIAL: "[TITLE.GetNameNoTier]（一部）"
  WAR_SCORE_FULL_OCCUPATION: "Full occupation"
  RELIGIOUS_WAR_NAME:1 "[TITLE.GetBaseName]に対する[holy_war|E]"
  HOLY_WAR_COUNTY_NAME:0 "[county|E]に対する[holy_war|E]"

@@ -106,7 +106,7 @@
  INVITE_TO_FEAST:0 "$host_feast_decision$"
  war_ended_before_response:0 "戦争はすでに終わった"
  AI_STRUGGLE_INTENT:0 "闘争の議題: $VALUE|=+0$"
- request_contract_assistance_interaction: "Ask for Military Assistance"
+ request_contract_assistance_interaction: "軍事支援を要請する"
  request_contract_assistance_interaction_desc: "Offer [gold|E] to [recipient.GetShortUINameNoTooltip] for joining in one of your [wars|E], since you are both [struggle_involved|E] in the same [struggle|E]."
  request_contract_assistance_interaction_notification: "あなたの兵は我が戦いに大層役に立つかもしれぬ。もっとも対価にさえ合意して頂ければの話だが。"
  request_contract_assistance_interaction_condition_tt: "[recipient.GetShortUINamePossessive]の[war_contribution|E]が、[war|E]の終結時に少なくとも[SCOPE.ScriptValue('saved_contribution_value')|Z0]である場合:"

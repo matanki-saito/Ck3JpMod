@@ -129,4 +129,4 @@
  culture_parameter_unlock_maa_akritai: "[men_at_arms|E]として[GetMaA('akritai').GetName]を雇用できる"
  culture_parameter_unlock_maa_ballistrai: "[men_at_arms|E]として[GetMaA('ballistrai').GetName]を雇用できる"
  culture_parameter_unlock_maa_skoutatoi: "[men_at_arms|E]として[GetMaA('skoutatoi').GetName]を雇用できる"
- culture_parameter_unlock_maa_varangian_guards: "[emperors|E] have access to the #high $found_varangian_guard_decision$#! [decision|E], which enables [GetMaA('varangian_guards').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_varangian_guards: "[emperors|E]は#high $found_varangian_guard_decision$#![decision|E]を利用することができ、[men_at_arms|E]として[GetMaA('varangian_guards').GetName]を有効にできる"

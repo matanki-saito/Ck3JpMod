@@ -317,4 +317,4 @@
  FACTION_REASON_CLAIMANT_PRIMARY_HEIR: "[claimant|E]は私の[heir|E]である：$VALUE|+0=$"
  populist_faction_short_effect_desc_admin: "[state_faith|E]を彼らの宗派に変更することを望んでいる"
  FACTION_DEMAND_POPULIST_REFUSE_ADMIN: "お前が変えていいようなものではない、不遜な[peasant_leader.Custom('InsultNoun')]め！"
- FACTION_REASON_ADMINISTRATIVE: "[administrative|E] [vassal|E]: $VALUE|+0=$"
+ FACTION_REASON_ADMINISTRATIVE: "[administrative|E]の[vassal|E]：$VALUE|+0=$"

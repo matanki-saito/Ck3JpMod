@@ -197,7 +197,7 @@
  health.2202.a.neutral:0 "僥倖だ。"
  health.3001.disease.t:0 "[SCOPE.Custom('EventTitleDisease')]:"
  health.3001.t:1 "[ROOT.Char.Custom('GetCourt')|U]侍医"
- health.3001.fallback_reason.desc:0 "This world is full of dangers, even to a [ROOT.Char.GetTitleTierName] and [ROOT.Char.GetHerHis] [ROOT.Char.Custom('GetCourt')|l]. I should hire a physician lest injury or disease befalls us.\n\nI have asked around for recommendations, and have assembled a few options to chose from."
+ health.3001.fallback_reason.desc:0 "この世は危険に満ちておる。[ROOT.Char.GetTitleTierName]やその[ROOT.Char.Custom('GetCourt')|l]でさえも。降りかかる怪我や病気に備え、医師を雇わなければならない。\n\n推薦の声を聞き訪ねてまわり、そこから何名かの候補をとりまとめた。"
  health.3001.decision.desc:0 "この世は危険に満ちておる。[ROOT.Char.GetTitleTierName]や[ROOT.Char.GetHerHis]の[ROOT.Char.Custom('GetCourtierPlural')|l]でさえも。私の要求通り、我が下僕らは推薦を照会してきた。今、彼らはその中から何名かの選択肢をまとめた。"
  health.3001.already_sick.desc:0 "Finally, my servants have found some people who might be fit to serve as my physician. Either way, I fear I cannot afford to be picky now."
  health.3001.a:0 "どうやら、[high_skill_option.GetFirstNameNoTooltip]は経験豊富なようだ。"
