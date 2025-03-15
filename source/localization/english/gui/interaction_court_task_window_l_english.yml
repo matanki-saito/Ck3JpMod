@@ -1,6 +1,6 @@
 ﻿l_english:
- REQUEST_COURT_TASK_INTERACTION_HEADER: "Request Court Position"
- GRANT_COURT_TASK_INTERACTION_HEADER: "Grant Court Position"
- COURT_TASK_INTERACTION_NO_SELECTED_TASK: "@warning_icon! #X No position has been selected#!"
- COURT_TASK_INTERACTION_WINDOW_SELECT_TASK: "Select a Court Position"
- COURT_TASK_INTERACTION_WINDOW_SELECTED_TASK: "Selected Position: [CourtTaskInteractionWindow.GetSelectedPosition.GetNameNoTooltip]"
+ REQUEST_COURT_TASK_INTERACTION_HEADER: "宮廷職の請願"
+ GRANT_COURT_TASK_INTERACTION_HEADER: "宮廷職の付与"
+ COURT_TASK_INTERACTION_NO_SELECTED_TASK: "@warning_icon!#X 職が選択されていません#!"
+ COURT_TASK_INTERACTION_WINDOW_SELECT_TASK: "宮廷職を選ぶ"
+ COURT_TASK_INTERACTION_WINDOW_SELECTED_TASK: "選択された職：[CourtTaskInteractionWindow.GetSelectedPosition.GetNameNoTooltip]"

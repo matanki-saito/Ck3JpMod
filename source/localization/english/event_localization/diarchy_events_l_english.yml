@@ -17,7 +17,7 @@
  diarchies.0000.diarch_mandate_fail.tt.obtain_gold.self:0 "[diarch.GetSheHe|U]は自身のために[gold|E]を手に入れようとした"
  diarchies.0000.diarch_mandate_fail.tt.acquire_character.liege:0 "[diarch.GetSheHe|U]があなたに[courtier|E]を入手しようとしました"
  diarchies.0000.diarch_mandate_fail.tt.acquire_character.self:0 "[diarch.GetSheHe|U]は自身のために[character|E]の忠誠を手に入れようとした"
- diarchies.0000.diarch_mandate_fail.tt.acquire_troops.liege: "[diarch.GetSheHe|U] tried to acquire your soldiers"
+ diarchies.0000.diarch_mandate_fail.tt.acquire_troops.liege: "[diarch.GetSheHe|U]はあなたの兵士を融通しようとした"
  diarchies.0000.diarch_mandate_fail.tt.acquire_troops.split:0 "[diarch.GetSheHe|U]はあなた方二人のために兵士を獲得しようとしました"
  diarchies.0000.diarch_mandate_fail.tt.affect_contract.liege:0 "[diarch.GetSheHe|U]はあなたのために[vassal|E]の[vassal_contract|E]に有益な影響を与えようとした"
  diarchies.0000.diarch_mandate_fail.tt.harass_peasants.liege:0 "[diarch.GetSheHe|U]は農民から資源を手に入れようとした"

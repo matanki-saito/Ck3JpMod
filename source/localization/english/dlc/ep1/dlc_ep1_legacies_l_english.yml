@@ -9,6 +9,6 @@
  legacy_additional_language_effect:0 "追加で#V 1#![language|E]をペナルティなしで習得可能です"
  legacy_cultural_acceptance_from_language_schemes_effect:0 "[GetScheme('learn_language').GetTypeName][schemes|E]を完了すると[cultural_acceptance|E]が#P 1%#!上昇する"
  legacy_more_acceptance_from_council_job_effect:0 "[accept_culture|E]効果: #P +30%#!"
- legacy_cultural_emissary_court_position_effect:0 "Unlocks the #V [GetCourtPositionType( 'cultural_emissary_court_position' ).GetName()]#! [court_position|E]\n#weak Employing a character in this position increases [opinion] with characters of other [cultures] and gives [prestige] [prestige_i]#!"
+ legacy_cultural_emissary_court_position_effect:0 "#V [GetCourtPositionType( 'cultural_emissary_court_position' ).GetName()]#! [court_position|E]をアンロック\n#weak この役職に雇われた人物は、異[cultures]の人物からの[opinion]を増やし、[prestige] [prestige_i]も与えます#!"
  legacy_hooks_on_different_culture_vassals_effect:0 "自国の文化圏に異なる[culture|E]の[vassal|E]を任命すると、[weak_hook|E]@weak_hook_icon!を獲得することができる"
  legacy_promote_culture_decision_effect:0 "[promote_other_culture_development_decision|E]をアンロック"

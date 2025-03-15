@@ -183,5 +183,5 @@
  HOLDING_VIEW_EPIDEMIC_RESISTANCE_VALUE: "@epidemic_icon! [Province.GetEpidemicResistance]"
  HOLDING_TERRAIN_TOTAL_TOOLTIP: "#T [Province.GetTerrain.GetNameNoTooltip]#!\n[Province.GetTerrainTooltipFor(GetPlayer)]"
  REPLACE_BUILDING_TYPE_TITLE:0 "#V $CURRENT_NAME$#!を#V $REPLACEMENT_NAME$#!に#T 置き換える#!"
- CONSTRUCT_COST: "Construct Cost"
- UPGRADE_DOMICILE: "Upgrade to Level [DomicileBuilding.GetTierNumber]"
+ CONSTRUCT_COST: "建設コスト"
+ UPGRADE_DOMICILE: "[DomicileBuilding.GetTierNumber]のレベルをアップグレードする"

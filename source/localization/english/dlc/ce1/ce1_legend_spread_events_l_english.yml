@@ -60,7 +60,7 @@
  legend_spread_events.0040.b.tt.failure: "なんだか嘘っぽい"
  legend_spread_events.0040.c: "「それで何が良くなるというのか」"
  legend_spread_events.0050.t: "[honored_lady.GetLadyLord|U]に仕えて"
- legend_spread_events.0050.desc: "\"#EMP And [ROOT.Legend.GetProtagonist.GetSheHe] was gallant\nand [honored_lady.GetSheHe] was beautiful\nAnd [ROOT.Legend.GetProtagonist.GetSheHe] was a hero\nand [honored_lady.GetSheHe] was beautifuuuuul!#!\"\n\nIt doesn't take long to discover where the music is coming from, as I soon find [bard.GetTitledFirstName], playfully tuning [bard.GetHerHis] instrument, leaning on a stone bench.\n\n\"Ah, my [ROOT.Char.GetLadyLord],\" [bard.GetHerHis] eyes immediately bright up, \"isn't it true that the reason for your legend was to impress [honored_lady.GetTitledFirstName]?\""
+ legend_spread_events.0050.desc: "「#EMP しかして[ROOT.Legend.GetProtagonist.GetSheHe]は凛々しく\n[honored_lady.GetSheHe]は美々しくあり\nしかして[ROOT.Legend.GetProtagonist.GetSheHe]は英雄たりて\n[honored_lady.GetSheHe]は美々しくありィ～#!」\n\nその音楽がどこから聞こえてくるのか、すぐに分かった。[bard.GetTitledFirstName]が石の腰掛けにもたれて、楽器を戯れに調律しているのを見つけたからだ。\n\n「ああ、我が[ROOT.Char.GetLadyLord]様」[bard.GetHerHis]はすぐに目を輝かせた。「あなた様の伝説は、[honored_lady.GetTitledFirstName]に印象づけるためだったというのは本当でしょうか？」"
  legend_spread_events.0050.a: "「よくもそんなことを!?　私は#EMP 結婚している#!！」"
  legend_spread_events.0050.b: "「[honored_lady.GetSheHe|U]は本当に美しい…」"
  legend_spread_events.0050.b.tt.success: "あなたの仕草が[honored_lady.GetFirstNameNoTooltip]に感銘を与えた"

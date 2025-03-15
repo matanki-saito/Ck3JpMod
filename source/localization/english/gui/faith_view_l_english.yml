@@ -8,7 +8,7 @@
  FAITH_VIEW_YOUR_FAITH:0 "あなたの[faith|E]"
  TOGGLE_RELIGION_VIEW:1 "他の宗派"
  RELIGION_WINDOW_TITLE:2 "他の宗派"
- FAITH_ITEM_TOOLTIP:1 "#I Click to view#!"
+ FAITH_ITEM_TOOLTIP:1 "#I クリックで表示#!"
  FAITH_TOOLTIP_HEAD_OF_FAITH:0 "[head_of_faith|E]: [Faith.GetReligiousHead.GetUIName|U]"
  TOGGLE_RELIGION_VIEW_TOOLTIP:1 "#I クリックで他の[faiths|E]を表示#!"
  FAITH_WINDOW_FERVOR:0 "[fervor|E]: [Faith.GetFervor|0]%"

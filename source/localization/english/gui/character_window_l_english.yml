@@ -179,4 +179,4 @@
  CV_REALM_TYPE_HOF_LANDED: "[SelectLocalization( ROOT.Char.GetGovernment.IsValid(), 'GOVERNMENT_ADJECTIVE_ICON', '' )]([head_of_faith|E])"
  GRUDGES_LABEL: "憎悪"
  INFLUENCE_WITH_BALANCE_TOOLTIP: "#T [influence|E]：$VALUE|V0$#!\n$BALANCE|V=1$/月\n\n#T [influence_level|E]：#!$LEVEL$"
- DIARCH_ICON_TOOLTIP: "#T Active [power_sharing|E]\n#![Character.GetShortUIName|U] [CharAreIs(Character)] [Character.GetLiege.GetShortUINamePossessive] [Character.GetLiege.GetDiarchTitle]"
+ DIARCH_ICON_TOOLTIP: "#T [power_sharing|E]が行われている\n#![Character.GetShortUIName|U]は[Character.GetLiege.GetShortUINamePossessive]の[Character.GetLiege.GetDiarchTitle]である"

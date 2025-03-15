@@ -73,7 +73,7 @@
  ep3_hasan_advance_radicalism: "神聖なる使命を押し進める"
  has_tougher_to_convert_tt: "[GetModifier( 'tougher_to_convert' ).GetNameWithTooltip|L]の[modifier|E]を持っていない"
  county_contains_any_holy_site_tt: "[county|E]に[holy_sites|E]が含まれていない"
- or_a_neigbouring_county_tt: "A neighboring [county|E] in the same [realm|E] fulfills the above requirements"
+ or_a_neigbouring_county_tt: "同じ[realm|E]の[county|E]が上記の要件を満たしている"
  0_or_below_county_opinion_tt: "[county_opinion|E]が#V 0#!以下である"
  look_for_another_enemy_tt: "あなたはどこかで他の敵を探します"
  HASAN_KINGDOM: "$b_alamut$"

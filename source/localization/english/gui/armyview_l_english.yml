@@ -195,4 +195,4 @@
  TROOP_LIST_MAA_MULTIPLE_TITLE: "[TITLE.GetBaseName]の[ARMY_REGIMENT.GetRegiment.GetName]：[ARMY_REGIMENT.GetCount]/[ARMY_REGIMENT.GetMax]"
  CANNOT_DISBAND_WAR_LEADER: "@warning_icon!#X [war_leader|E]のままでは解散できません#!"
  TROOP_LIST_MAA_MULTIPLE: "[ARMY_REGIMENT.GetRegiment.GetName]：[ARMY_REGIMENT.GetCount]/[ARMY_REGIMENT.GetMax]"
- START_RAID_TRUCE:0 "@warning_icon! #X Cannot [raid|E] [CHARACTER.GetShortUIName]#! while you have a truce agreement"
+ START_RAID_TRUCE:0 "@warning_icon! #X 停戦協定がある間は[CHARACTER.GetShortUIName]を[raid|E]できません#!"

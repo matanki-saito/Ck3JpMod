@@ -539,7 +539,7 @@
  fp1_yearly.1081.desc.the_sticky_sea:0 "蒸し暑い、悪臭を放つ、大西洋の中の哀愁漂う海について語り、蛇や海藻が船員を引き摺り込み、死に至らしめるのだと言う。最も強い乗組員だけがそこから逃れることができる。"
  fp1_yearly.1081.desc.purple_islands:0 "遥か南にある島々について語り、そこはエキゾチックな紫色の鮮やかな花で満ちており、人間の生活の痕跡は一切ない。その不気味な美しさに惹かれた船乗りたちは、世界に安らぎを求めて横たわり、死んでいくのだと言う。"
  fp1_yearly.1081.desc.hy_brasil:0 "七年に一度の一日を除いて、不可解な霧の中で守られ、ほとんどの時間は見ることができない島について語る。霧が旅を可能にするたった一日においてさえ、上陸に成功した船員はいないのだと言う。"
- fp1_yearly.1081.desc.thule:0 "a vast land to the far, far north, where all matter breaks down. Men breathe water and earth as easily as the air, monstrous whales swim through the ground and sky, and all distinctions become academic."
+ fp1_yearly.1081.desc.thule:0 "あらゆる物が壊れてしまうような、はるか北の広大な土地について語る。人は水や土を空気のように容易く呼吸し、巨大なクジラが地や空を泳ぎ、すべての区別は学術的なものになるのだと言う。"
  fp1_yearly.1081.desc.great_ireland.abrahamic:0 "遥か西方の地について語り、そこでは住人は白い衣をまとい、残酷な槍を持ち、互いに、そして最も高貴な訪問者に対してさえも、残忍に戦う。地元の人々は、正しい考えを持つ[norse_explorer.GetFaith.GetAdherentNamePluralNoTooltip]から長い間忘れ去られた古代の異教の神々を崇拝しているのだと言う。"
  fp1_yearly.1081.desc.great_ireland.other:0 "遥か西方の地について語り、そこでは住人は白い衣をまとい、残酷な槍を持ち、人間離れした強さと獰猛さで戦う。彼らの武勇は伝説的なもので、この地の戦士が外国の刃に倒されたことはないのだと言う。"
  fp1_yearly.1081.desc.sunset_empire:0 "大西洋の最も広い地点の反対側にある帝国について語り、そこは西の地平線のすぐ下に潜む、血と頭蓋骨と飢えた征服者の国である。その残酷な主人たちはラグナロクそのものを待ち望み、あらゆる善良な[norse_explorer.GetFaith.GetAdherentNamePluralNoTooltip]から生きた心臓を引き抜こうとするのだと言う。"

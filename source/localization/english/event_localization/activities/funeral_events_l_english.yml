@@ -256,5 +256,5 @@
  dead_hair: "[deceased.GetFirstNamePossessiveNoTooltip]の髪"
  dead_hair_desc: "[deceased.GetName]の死体から抜かれた髪の毛による組紐はその呪詛性のために魔女によって評価されている。"
  activity_funeral_wavel: "#P ++ $building_type_wawel_cathedral_01$#!\n"
- building_funeral_effect_desc:1 "$unlocks_building_desc$Increases [legitimacy|E] gain and [piety|E] gain for [GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName] [activities|E] Hosted in this [holding|E]"
- building_funeral_wavel_effect_desc:1 "$unlocks_building_desc$Majorly increases [legitimacy|E] gain and [piety|E] gain for [GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName] [activities|E] Hosted in this [holding|E]"
+ building_funeral_effect_desc:1 "$unlocks_building_desc$この[holding|E]で開催される[GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName][activities|E]での[legitimacy|E]と[piety|E]の獲得量が増加する。"
+ building_funeral_wavel_effect_desc:1 "$unlocks_building_desc$この[holding|E]で開催される[GetActivityType('activity_funeral').GetTextIcon][GetActivityType('activity_funeral').GetName][activities|E]で得られる[legitimacy|E]と[piety|E]が大幅に増加する。"

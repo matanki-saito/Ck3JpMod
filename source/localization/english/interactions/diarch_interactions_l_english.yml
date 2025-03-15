@@ -82,7 +82,7 @@
  liege_authority_boost_has_scapegoat_modifier:0 "便利な身代わり"
  liege_authority_boost_has_scapegoat_modifier_desc:0 "この人物は自身の領国で権威を高め、非常に都合よくすべてを配下のせいにすることができた。"
  diarch_legal_meddling_interaction:0 "法的干渉"
- diarch_legal_meddling_interaction_desc:0 "[realm|E]で二番目に強力な[actor.GetWomanMan]としての地位を悪用し、[vassal_possessive|E]の[title|E]に対する[claim|E]を捏造します$diarch_boilerplate_postscript_partial$"
+ diarch_legal_meddling_interaction_desc:0 "[realm|E]で二番目に強力な[actor.GetWomanMan]としての地位を悪用し、[vassal_possessive|E][title|E]に対する[claim|E]を捏造します$diarch_boilerplate_postscript_partial$"
  recipient_secondary_diarch_legal_meddling_interaction:0 "$recipient_secondary_diarch_interaction$"
  diarch_legal_meddling_interaction.tt.they_must_have_at_least_one_unclaimed_title:0 "[recipient.GetFirstNameNoTooltip]にはあなたがまだ[claim|E]を持っていない[titles|E]がありません"
  diarch_legal_meddling_interaction_duel_learning:0 "あなたの[learning|E]は法律を優越する"

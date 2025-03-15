@@ -823,4 +823,4 @@
  single_combat.0001.unsure_attack_non_fatal: "ぐあ、好きにしろ！#EMP 参った#!！"
  debug_log.single_combat_setup.attacker_and_defender_same_person: "攻撃者と防御者が同一人物であるデュエルを発射しようとしました。これは、デュエルを設定するコンテンツでフィルタリングする必要があります。そうしないと、クラッシュを引き起こす可能性があります。「$debug_log.single_combat_setup.attacker_and_defender_same_person.notice$」の下にdebug.logに記録されたスコープ。"
  debug_log.single_combat_setup.attacker_and_defender_same_person.notice: "あなたとわたしが同じで戦う"
- single_combat.0001.blade_dance_unlanded: "I'm the fastest blade of the [myself.GetCulture.GetCollectiveNounNoTooltip]!"
+ single_combat.0001.blade_dance_unlanded: "我が剣技は[myself.GetCulture.GetCollectiveNounNoTooltip]最速だぞ！"
