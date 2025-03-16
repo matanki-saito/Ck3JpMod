@@ -16,4 +16,4 @@
  ep3_administrative_legacy_4_effect_cabinet_of_curiosities_global: "[GetDomicileBuilding('cabinet_of_curiosities_01').GetName]の[estate|E]建造物をアンロック"
  ep3_administrative_legacy_5_name: "分割して統治せよ"
  ep3_administrative_legacy_track_effect_claimant_factions_global: "[vassals|E]と[noble_families|E]が[claimant_factions|E]に参加し、[GetScheme('depose').GetTypeName]の[scheme|E]を使用する可能性を低減"
- ep3_administrative_legacy_track_effect_mass_arrests_decision_global: "Unlocks the #high [GetPlayer.GetPlayerInteractionName('ep3_mass_arrests_interaction')]#! [interaction|E]"
+ ep3_administrative_legacy_track_effect_mass_arrests_decision_global: "#high [GetPlayer.GetPlayerInteractionName('ep3_mass_arrests_interaction')]#!の[interaction|E]をアンロック"

@@ -31,5 +31,5 @@
  MESSAGE_SETTINGS_WINDOW_CUSTOM_MESSAGE_DAY: "日"
  MESSAGE_SETTINGS_WINDOW_CUSTOM_MESSAGE_MONTH: "月"
  MESSAGE_SETTINGS_WINDOW_CUSTOM_MESSAGE_YEAR: "年"
- message_settings_tab_settings: "Settings"
- message_settings_tab_log: "Message Log"
+ message_settings_tab_settings: "設定"
+ message_settings_tab_log: "メッセージログ"
