@@ -345,7 +345,7 @@
  diarchy.0511.a:0 "ハッ、無意味だな。"
  diarchy.0511.b:0 "もう一度だ。次は[liege.GetHerHim]を仕留めてやるぞ。"
  diarchy.0521.t:0 "高貴なる[liege.GetTitledFirstName]へ、"
- diarchy.0521.desc.discovered:0 "あの悪党の[owner.GetTitledFirstName]は、私を誘拐し、私の執務室の道具も一緒に押収しようと試みたのです！\n\n[owner.GetSheHe]が私を職から追放し、その過程で自身をあなたの[liege.GetDiarchTitle]にしようとしたことは明白です。この忌まわしい犯罪が罰せられないはずはありません。"
+ diarchy.0521.desc.discovered:0 "あの卑劣な[owner.GetTitledFirstName]め！私を誘拐し、さらには役職の権限までも奪おうとするとは！\n\n[owner.GetSheHe]が私を職から追い出し、自らが[liege.GetDiarchTitle]となるつもりだったことは明白でしょう。この卑劣な犯罪を見逃してはなりませんぞ！"
  diarchy.0521.desc.undiscovered:0 "私は、私の自由を脅かす試みがあったことをお知らせするために手紙を書きました。悪党の一団が私を誘拐し、私の執務室の道具を押収しようとしたのです。\n\n誰が資金を支払ったのかは不明ですが、その策略は十分に明白であるように思われます。[liege.GetDiarchTitle]としての私個人とその象徴を支配することで、彼らの親玉が私の正当な地位を簒奪することができるかもしれないと考えたのでしょう。"
  diarchy.0521.a:0 "驚いた！"
  diarchy.0521.b:0 "心配だな…"
