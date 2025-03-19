@@ -225,7 +225,7 @@
  ep3_decisions_event_costs_refunded: "$ep3_decisions_event_decision$のコストが払い戻されます"
  become_landless_adventurer_decision: "冒険者になる"
  become_landless_adventurer_decision_desc: "危険を冒し、好機を掴む。それに不足ない大胆さと強靭さを兼ね備えているのならば、この広い世界は、多くのものを与えてくれよう。"
- become_landless_adventurer_decision_tooltip: "[landed|E]の身分と[realm|E]を放棄し、[adventurer|E][camp|E]を立ち上げます。"
+ become_landless_adventurer_decision_tooltip: "[landed|E]の身分と[realm|E]を放棄し、[adventurer|E]の[camp|E]を立ち上げます。"
  become_landless_adventurer_decision_confirm: "出立だ！"
  become_landless_adventurer_decision_hof_tt: "あなたは[head_of_faith|E]であってはならない"
  become_landless_adventurer_decision_tier_tt: "あなたが[count|E]ないし[duke|E]である"
