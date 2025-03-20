@@ -21,7 +21,7 @@
  destination_events.40.t: "[poi_province.GetCulture.GetLanguage.GetNameNoTooltip]の言葉"
  destination_events.40.desc: "なぜか、[poi_province.GetName]への旅を思い出していた。特に、[poi_province.GetCulture.GetLanguage.GetName]の言葉は、そこにいたときに何度も耳にした。何か #emp [poi_province.Custom('DestinationInspiredLanguageDescriptor')]#! があった。\n\n私はそれを忘れることができない。運命のいたずらか、[teacher_character.GetCulture.GetName]の学者である[teacher_character.GetFirstName]が [teacher_character.GetHerHim]に[teacher_character.GetHerHis]のサービスを依頼することもでき、[teacher_character.GetSheHe]はおそらく私に[poi_province.GetCulture.GetLanguage.GetNameNoTooltip]を教えてくれるだろう。"
  destination_events.40.a: "次の旅がもっと楽しくなること間違いなし！"
- destination_events.40.b: "外国語を勉強するのは大変そう..."
+ destination_events.40.b: "外国語を勉強するのは大変そう…"
  destination_inspired_by_language: "言語に触発された"
  destination_inspired_by_language_desc: "この人物は、外国への旅がきっかけで新しい言語を学ぼうという意欲が湧いた。"
  DestinationInspiredLanguageDescriptorAnglic: "調子がよく、予想ができない"

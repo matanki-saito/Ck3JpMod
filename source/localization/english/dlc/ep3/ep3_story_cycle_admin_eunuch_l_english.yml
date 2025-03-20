@@ -15,7 +15,7 @@
  ep3_story_cycle_admin_eunuch.2010.t: "$admin_eunuch_header$ Trusted Hands"
  ep3_story_cycle_admin_eunuch.2010.desc: "My eunuch, [eunuch.GetTitledFirstName], approaches me in my court, speaking in hushed tones as [eunuch.GetHerHis] eyes wander over the room.\n\n\"My [ROOT.Char.GetLadyLord],\" [eunuch.GetSheHe] prates, \"It is clear to me that the arrangements of government could be handled far more smoothly than they... currently are.\"\n\n\"Ensuring a clear and orderly program would be a great relief to the realm — leave it to me.\""
  ep3_story_cycle_admin_eunuch.2010.a: "Yes, you should handle such affairs [eunuch.GetFirstNameNoTooltip]."
- ep3_story_cycle_admin_eunuch.2010.b: "The current arrangements are adequate."
+ ep3_story_cycle_admin_eunuch.2010.b: "今のままで事足りる。"
  ep3_story_cycle_admin_eunuch.2015.t: "$admin_eunuch_header$ Share the Load"
  ep3_story_cycle_admin_eunuch.2015.desc: "My eunuch, [eunuch.GetTitledFirstName], has been a great help lately, shouldering many of the loathsome burdens of my realm.\n\nAs we toil through piles of documents, blazing through the palaces supply of wax with press after press of my imperial seal, [eunuch.GetSheHe] softly proffers, \"My liege, "
  ep3_story_cycle_admin_eunuch.2015.war: "your time and attention are taxed by the war,"

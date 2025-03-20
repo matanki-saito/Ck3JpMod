@@ -1,6 +1,6 @@
 ﻿l_english:
  MEMORIES_WINDOW_HEADING:0 "[Select_CString( MemoriesWindow.GetCharacter.IsValid, MemoriesWindow.GetCharacter.GetShortUINamePossessiveNoTooltip, 'No')|U]の歴史"
- MEMORIES_WINDOW_ENTRY:0 "[CharacterMemory.GetDescription|U]."
+ MEMORIES_WINDOW_ENTRY:0 "[CharacterMemory.GetDescription|U]。"
  MEMORIES_WINDOW_COPY_ENTRY:0 "[CharacterMemory.GetCreationDate.GetString]\n[CharacterMemory.GetDescription|U].\n\n"
  MEMORIES_WINDOW_COPY_TO_CLIPBOARD:0 "$COA_DESIGNER_COPY_TO_CLIPBOARD_BUTTON$"
  CHARACTER_HAS_NO_MEMORIES:0 "[Select_CString( Character.IsAlive, '特筆すべき出来事は未だ起こっていない…', '数多の思い出は時のかなたへと消え去った…')]"

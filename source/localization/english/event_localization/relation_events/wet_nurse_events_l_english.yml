@@ -180,7 +180,7 @@
  bp2_decision.0002.desc_cleansing: "$cleansing_type_element$の力による浄化は忍耐と信仰を示す唯一の手段と言っていい。"
  bp2_decision.0002.desc_end: "\n\n[teentribal.GetFirstNameNoTooltip]がこれらの試練に合格すれば、[teentribal.GetSheHe]は[ROOT.Char.GetFaith.HighGodName]の目にかない、立派な[ROOT.Char.GetCulture.GetNameNoTooltip]の[teentribal.GetWomanMan]として称えられるだろう。"
  bp2_decision.0002.desc_end_root: "\n\nこれらの試練に合格すれば、私は[ROOT.Char.GetFaith.HighGodName]の目に相応しい存在となり、名誉ある[ROOT.Char.GetCulture.GetNameNoTooltip]の[teentribal.GetWomanMan]となるだろう。"
- bp2_decision.0002.effect_tt: "[personality_trait|E]か[lifestyle_experience|E]、[skill|E]の経験値のいずれかを得る"
+ bp2_decision.0002.effect_tt: "[personality_trait|E]か[lifestyle_experience|E]、[skill|E]値のいずれかを得る"
  bp2_decision.0002.effect_modifier_tt: "#V 10年間#![GetModifier('proven_adult_modifier').GetNameWithTooltip]か[GetModifier('insecure_adult_modifier').GetNameWithTooltip]のいずれかを得る"
  bp2_decision.0002.a: "決闘だ。"
  bp2_decision.0002.a.flavor: "[teentribal.Custom('GirlBoy')]と[teentribal.GetWomanMan]の戦いだ！"

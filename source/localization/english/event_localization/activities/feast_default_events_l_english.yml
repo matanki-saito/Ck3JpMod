@@ -343,7 +343,7 @@
  feast_default.1019.desc_condemnation:0 "\n\n恥ずかしさで頬が紅潮する中、私は自分の行動に嫌悪感を抱いている。起こったことが何であれ、私は今、その結果に苦しんでいるのだ。"
  feast_default.1019.a:0 "…自分の欠点の証として、その品は持っていたほうがいいのかも？"
  feast_default.1019.a_tt:0 "[trinket_to_steal.GetName]を保持しようとします"
- feast_default.1019.b:0 "私はあなたの許しを求めるだけだ、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('feast_host'))]よ."
+ feast_default.1019.b:0 "私はあなたの許しを求めるだけだ、我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('feast_host'))]よ。"
  feast_default_1019_success.desc:0 "[feast_host.GetTitledFirstNameNoTooltip]は納得している"
  feast_default_1019_failure.desc:0 "[feast_host.GetTitledFirstNameNoTooltip]は納得しない"
  feast_default_1019_redeemed.t:0 "償い"

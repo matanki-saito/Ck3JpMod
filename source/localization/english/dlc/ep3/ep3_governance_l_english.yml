@@ -269,7 +269,7 @@
  governor_contract_event.2060.a: "This scammer will be punished in an exemplary way."
  governor_contract_event.2060.b: "I could use someone with your #EMP creativity#!."
  governor_contract_event.2060.c: "Hand the relics back, and I can forget this ever happened."
- governor_contract_event.2060.d: "A solid fine is an adequate punishment."
+ governor_contract_event.2060.d: "罰金をきっちり課してやるのはマシな罰だ。"
  governor_contract_event.2060.e: "The only possible penance is prison."
  governor_contract_event.2060.f: "[ROOT.Char.GetFaith.HighGodName] works in mysterious ways."
  buried_treasure: "Buried Treasure"

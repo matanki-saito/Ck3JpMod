@@ -23,7 +23,7 @@
  agent_events.0012.desc: "[char_1.GetTitledFirstName]と[char_2.GetTitledFirstName]は、私の構想の中で控えめな役割を果たしている割には、少し楽しみ#EMP 過ぎて#!いるように見える。\n\n盗み見、ひそひそ話、偽りの下で交わされる手紙――私がもっと疑い深かったら、これは根付く前の初期の関係の明確な兆候だと気づかないかもしれない。\n\n[scheme.GetName]の計画の要点とは#EMP 少し#!違う。"
  agent_events.0012.a: "そして彼らは私が助けたことに感謝していないのでしょうか?"
  agent_events.0012.b: "間違いなく、彼らの情熱は制御できる。"
- agent_events.0012.c: "彼らの情熱は利用できるかもしれない..."
+ agent_events.0012.c: "彼らの情熱は利用できるかもしれない…"
  agent_events.0012.c.tt.success: "愛し合う恋人たちは[scheme.GetNameNoTooltip]を競い合う"
  agent_events.0012.c.tt.failure: "その情熱は冷める"
  agent_events.0012.d: "そんなことは私たちの仕事じゃない！"

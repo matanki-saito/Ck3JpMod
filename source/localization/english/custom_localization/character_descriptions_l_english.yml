@@ -3,7 +3,7 @@
  negative_desc_of_other:0 "[ROOT.Char.Custom2('DescriptorNegative', SCOPE.sC('second') )]"
  positive_desc_debug:0 "良い"
  negative_desc_debug:0 "悪い"
- test_case_desc_in_event:1 "我が[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('other'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('other'))], [other.GetTitledFirstName]."
+ test_case_desc_in_event:1 "我が[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('other'))][ROOT.Char.Custom2('RelationToMe', SCOPE.sC('other'))], [other.GetTitledFirstName]。"
  positive_desc_loyal:0 "忠実な"
  positive_desc_faithful:0 "信心深い"
  positive_desc_principled:0 "同義のある"

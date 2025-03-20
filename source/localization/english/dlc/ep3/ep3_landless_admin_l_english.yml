@@ -76,7 +76,7 @@
  ep3_landless_admin.1050.c.failure: "あなたの努力は実を結ぶことはなかった。"
  ep3_landless_admin.1050.d: "「そこにはきっと財宝が眠っているはずだ！」"
  ep3_landless_admin.1050.d.success: "何かを見つけた"
- ep3_landless_admin.1050.e: "これは#EMP 我々の#!密偵に利用できる..."
+ ep3_landless_admin.1050.e: "これは#EMP 我々の#!密偵に利用できる…"
  ep3_landless_admin.1050.e.success: "トンネルの瓦礫を片付ける"
  ep3_landless_admin.1050.f: "そのままでいい。"
  SCHEME_SECRET_DOMICILE_TUNNEL: "秘密のトンネルを利用することができる：$VALUE|+0=$"

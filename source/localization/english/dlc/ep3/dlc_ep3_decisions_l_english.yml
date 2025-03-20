@@ -1,7 +1,7 @@
 ﻿l_english:
  estate_hire_agents_decisions: "協力者を雇う"
- estate_hire_agents_decisions_desc: "When political standing and influence is not enough to get me what I want, I simply have to search out #EMP other#! alternatives. However, I need agents to do this more efficiently."
- estate_hire_agents_decisions_confirm: "Bring me these agents!"
+ estate_hire_agents_decisions_desc: "政治的立場や影響力だけでは望むものを手に入れられないときは、#EMP 別の#!手段を探るしかない。\nしかし、それをもっと効果的に行うためには、手足となる者たちが必要だ。"
+ estate_hire_agents_decisions_confirm: "協力者を募ろう！"
  estate_hire_agents_decisions_tooltip: "Search out and recruit potential agents to better further your [schemes|E]"
  estate_governor_patrols_decision: "Conduct Patrols in Governorship"
  estate_governor_patrols_decision_desc: "To keep the populace in my governorship safe and sound, I can establish regular patrols to keep any potential bandits at bay. This could also prove to be beneficial in battles, since we'll have troops always at the ready, should it come to that."

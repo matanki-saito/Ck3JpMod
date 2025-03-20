@@ -264,7 +264,7 @@
  liberty_faction_desc_tribal: "分権派の[faction|E]は、[tribal_authority|E]を下げることを求めていますが、それを除けば[realm|E]に対して忠実です。"
  liberty_faction_desc_feudal: "分権派の[faction|E]は、[crown_authority|E]を下げることを求めていますが、それを除けば[realm|E]に対して忠実です。"
  liberty_faction_short_effect_desc_admin: "[imperial_bureaucracy|E]を低下させることを望んでいる"
- liberty_faction_short_effect_desc_tribal: "[tribal_authority|E]を下げてくれ"
+ liberty_faction_short_effect_desc_tribal: "[tribal_authority|E]を低下させる事を望んでいる"
  REASON_DEBT:0 "[debt|E]がある：$VALUE|0+=$"
  FACTION_REASON_CLAIMANT_DISGRUNTLED_VASSALS: "[liege|E]は[GetModifier('ep3_disgruntled_vassals_modifier').GetName]の[modifier|E]を持っている：$VALUE|0+=$"
  FACTION_REASON_CLAIMANT_LIFE_THREATENED: "[liege|E]は[GetModifier('ep3_life_threatened_modifier').GetName]の[modifier|E]を持っている：$VALUE|0+=$"

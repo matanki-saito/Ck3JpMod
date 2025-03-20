@@ -106,7 +106,7 @@
  ep3_admin_events.0004.desc_spouse_very_upset: "\n\n「……どうして……どうしてこんなことになってしまったの……？！」  [reacting_spouse.GetShortUIName]が背後で声を上げて泣きじゃくる。  \n\n「すべてを失ってしまった……私はこれからどうすればいい……」"
  ep3_admin_events.0004.a: "おいで、[reacting_spouse.GetFirstName]。大丈夫だよ。"
  ep3_admin_events.0004.b: "よし、行こう。"
- ep3_admin_events.0004.c: "振り返ってもしょうがない..."
+ ep3_admin_events.0004.c: "振り返ってもしょうがない…"
  ep3_admin_events.0005.t: "我が国、我が土地"
  ep3_admin_events.0005.intro: "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('messenger'))]、[messenger.GetShortUIName]が我が首都に恐ろしい知らせを共にやってきた。\n\n"
  ep3_admin_events.0005.desc_still_admin: "かつて偉大だった我が領土はもはや存在しない。私は[gov_liege.GetFirstNamePossessive]の支配を離れ、自ら[ROOT.Char.GetPrimaryTitle.GetNameNoTier]を統治することになった。\n\n独立と自由な統治を手に入れた以外は、ほとんど何も変わらない。官僚制は我々の生活様式に深く根付いており、それはこれからも変わることはない。"

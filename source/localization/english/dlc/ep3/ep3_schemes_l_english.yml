@@ -531,7 +531,7 @@
  BOUKOLEON_PALACE_GLOSS: "#EMP プロポンティス#!（マルマラ海）の岸辺に位置するこの5世紀のコンスタンティノープルの邸宅は、個人専用の港と陰鬱な地下牢で特に注目されている。"
  scheme_critical_moments.8062.t: "[scheme.GetNameNoTooltip]：失敗"
  scheme_critical_moments.8062.desc: "地獄、地獄だ！\n\n制御不能の猛火が、また一隻の噴射装置を組み込んだ船を飲み込む。乗組員たちの悲鳴が耳を裂き、生きたまま焼かれる彼らの姿が目から離れない。私はこの混沌たる液体、その漏れ出す水管、この冒険に命を落とした海員たちのすべてを思わずにはいられなかった。\n\nこのような悪魔のような物質が、かつて#EMP どうやって#!制御されていたというのか？なんだんだ！？"
- scheme_critical_moments.8062.a: "どうやら、永遠に知ることはできないようだ..."
+ scheme_critical_moments.8062.a: "どうやら、永遠に知ることはできないようだ…"
  scheme_critical_moments.8045.fallback: "統治とは予測がつきません。そのような話題で助言をいただけるとは、誠に感謝いたします。"
  scheme_critical_moments.8045.rump: "\n\nあなたのお考えをお聞きできることを、心より楽しみにしております。"
  scheme_critical_moments.8046.fallback: "統治とは予測がつきません。そのような話題で助言をいただけるとは、喜ばしい限りではありますが"

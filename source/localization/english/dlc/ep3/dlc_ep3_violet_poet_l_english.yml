@@ -92,7 +92,7 @@
  ep3_story_cycle_violet_poet.1020.c.success: "You find a place of calm"
  ep3_story_cycle_violet_poet.1020.c.failure: "Your mind is still clouded"
  ep3_story_cycle_violet_poet.1025.t: "次の世代"
- ep3_story_cycle_violet_poet.1025.desc: "私はサロンで多くの時間を過ごすが、それ以外の時間は[location.GetName]の街をぶらぶらする。そんな時は決まって孤児院に足が向く。戦争や飢饉、あるいは単に育児放棄によって居場所を失った不幸な子供たちが保護されているのだ。\n\n今日は、遊び場で新しい顔をいくつも見かける。 私の心は相変わらず、この子らのような哀れな者のために泣き濡れる。 こんなにも多くの...\n\n小さな、くぐもった声が静寂を破る。 小さな[orphan.Custom('GirlBoy')]が片隅に座り込み、ぼろぼろの羊皮紙から詩の言葉をいくつも読み取り詠っている。 まだ幼く、教わってすらいないのは明らか。だが、この子らには本当の可能性が秘められているかもしれない..."
+ ep3_story_cycle_violet_poet.1025.desc: "私はサロンで多くの時間を過ごすが、それ以外の時間は[location.GetName]の街をぶらぶらする。そんな時は決まって孤児院に足が向く。戦争や飢饉、あるいは単に育児放棄によって居場所を失った不幸な子供たちが保護されているのだ。\n\n今日は、遊び場で新しい顔をいくつも見かける。 私の心は相変わらず、この子らのような哀れな者のために泣き濡れる。 こんなにも多くの...\n\n小さな、くぐもった声が静寂を破る。 小さな[orphan.Custom('GirlBoy')]が片隅に座り込み、ぼろぼろの羊皮紙から詩の言葉をいくつも読み取り詠っている。 まだ幼く、教わってすらいないのは明らか。だが、この子らには本当の可能性が秘められているかもしれない…"
  ep3_story_cycle_violet_poet.1025.a: "その可能性を秘めたままにはしておけない。"
  ep3_story_cycle_violet_poet.1025.a.tt: "I must adopt them all!"
  1025_every_orphan: "Every Orphan"
