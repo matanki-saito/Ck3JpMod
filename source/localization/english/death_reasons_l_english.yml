@@ -12,7 +12,7 @@
  death_great_pox:1 "[GetTrait('great_pox').GetName( CHARACTER.Self )]により死せり"
  death_ill:1 "[GetTrait('ill').GetName( CHARACTER.Self )]により死亡した"
  death_sickly:1 "[GetTrait('sickly').GetName( CHARACTER.Self )]により死亡した"
- death_giant:1 "自らの重厚な肉体を支えきれなくなった"
+ death_giant:1 "自らの巨体を支えきれなくなった"
  death_spindly:0 "心不全により死亡した"
  death_wheezing:1 "激しい咳の発作で息を詰まらせ死亡した"
  death_bleeder:0 "失血死した"

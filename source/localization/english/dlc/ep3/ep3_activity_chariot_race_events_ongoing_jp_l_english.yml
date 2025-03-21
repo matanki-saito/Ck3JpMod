@@ -102,7 +102,7 @@
  chariot_race_ongoing_jp.0400.intro_flavor3: "[first_place_charioteer.GetHerHis]の荒々しい馬のチームを容赦なく駆り立て、鞭が[ROOT.Char.GetFaith.HighGodName]の楽器のように閃いている。"
  chariot_race_ongoing_jp.0400.intro_flavor4: "[first_place_charioteer.GetHerHis]は彼らを追い越し、肩越しに一瞥を投げかける――それは嘲笑と不安が入り混じった表情だった。"
  chariot_race_ongoing_jp.0400.intro_flavor5: "[first_place_charioteer.GetSheHe]は曲線を滑るように曲がる。巻き上げられた巨大な砂塵にむせていない観衆の一部は歓喜に沸き立った。"
- chariot_race_ongoing_jp.0400.second1: "\n\n[second_place_charioteer.GetFirstName] follows hot on [first_place_charioteer.GetHerHis] heels,"
+ chariot_race_ongoing_jp.0400.second1: "\n\n[second_place_charioteer.GetFirstName]が[first_place_charioteer.GetHerHis]のすぐ後を追う。"
  chariot_race_ongoing_jp.0400.second2: "\n\nOnly yards behind follow [second_place_charioteer.GetFirstNamePossessive] horses, churning the same sand,"
  chariot_race_ongoing_jp.0400.second3: "\n\n[second_place_charioteer.GetFirstName] trails only slightly and may yet close the gap,"
  chariot_race_ongoing_jp.0400.second4: "\n\nAlmost directly behind [first_place_charioteer.GetHerHim], [second_place_charioteer.GetFirstNamePossessive] champing stallions follow,"
