@@ -58,7 +58,7 @@
  lifestyle_nicknames.0009.c:0 "…$nick_the_chronicler$!"
  lifestyle_nicknames.0009.d:0 "…"
  lifestyle_nicknames.0009.tt:0 "そんな高慢な考えが頭をよぎったことを恥じるなら、あなたは[cognomen|E]を採用してはならない。"
- lifestyle_nicknames.0010.desc:1 "「時間です、我が君」[my_chaplain.GetCouncilTitle|U][my_chaplain.GetFirstName]が部屋の扉のところで深々とお辞儀をする。\n\n私は書き物机に積み上げられたメモをかき集めた。使者や大使を前にして、我が国における近頃の文化的業績について演説することになっている。\n\n我が[my_chaplain.GetCouncilTitle]は、広間に入ろうとするところで私を押し留めた。\n「皆様はあなた様#EMP の#!事をご存知です、もちろん――ですが、まずは私めからご紹介したほうがよろしいでしょうか？」"
+ lifestyle_nicknames.0010.desc:1 "「時間です、我が君」[my_chaplain.GetCouncilTitle|U][my_chaplain.GetFirstName]が部屋の扉のところで深々とお辞儀をする。\n\n私は机に積み上げられたメモをかき集め、束ねた。このあと、使節や大使を前にして、我が国における近頃の文化的業績について演説することになっている。\n\n[my_chaplain.GetCouncilTitle]は、大広間に入ろうとしたところで私をそっと押し留めた。\n「皆様は#EMP あなた様の事#!をご存知です、もちろん。ですが、まずは私めからご紹介したほうがよろしいでしょうか？」"
  lifestyle_nicknames.0010.a:0 "私は「$nick_the_sage$？」以外の何者でもない"
  lifestyle_nicknames.0010.b:0 "ふむ。「$nick_the_scholar$？」ではどうだ"
  lifestyle_nicknames.0010.c:0 "私は歴史家のようなものだと思う…"

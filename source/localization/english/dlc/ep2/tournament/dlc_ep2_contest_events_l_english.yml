@@ -471,7 +471,7 @@
  contest_events.0870.winner_start:0 "最後にリセットして、私の馬が[versus_contestant.GetFirstName]に向かって疾走すると、私はこの突きに良い予感を覚える。"
  contest_events.0870.loser_start:0 "もう一度リセットはしたが、突撃していると、馬のリズム、鎧の座り方、何かしらの違和感を感じる。"
  contest_events.0870.winner_break:0 "私の槍は、耳をつんざくような衝撃と破片の爆発とともに、[versus_contestant.GetHerHis]の盾にまっすぐに突き刺さり、[versus_contestant.GetHerHis]自身は私の傍を吹っ飛んでいく。必要な得点はこれだけだ！"
- contest_events.0870.winner_unhorse:0 "私の槍は[versus_contestant.GetHerHim]の胸を完全に捉え、[versus_contestant.GetHerHim]を地面に叩きつけ、私の馬はそのまま走り続ける。"
+ contest_events.0870.winner_unhorse:0 "私の槍は[versus_contestant.GetHerHim]の胸部を正面から捉え、粉々に砕ける破片を撒き散らしながら[versus_contestant.GetHerHim]を地面に叩きつけた。そのまま馬は駆け抜けていく。"
  contest_events.0870.loser_break:0 "私の槍は最後の瞬間に目標を外れ、私は[versus_contestant.GetHerHis]が真正面から攻撃してくるのを感じ、耳障りな衝突と破片の爆発の前に私の盾を振り落とす。"
  contest_events.0870.loser_unhorse:0 "近づいても私は目標を絞ることができず、[versus_contestant.GetHerHis]の槍が私の盾を回り込んで、胸に直撃するのが見える。地面に倒れ込んだまま、私は凱旋する[versus_contestant.GetHerHim]の声を聞く。"
  contest_events.0870.a:0 "ラウンドの最後の突きが私を待っている。"
