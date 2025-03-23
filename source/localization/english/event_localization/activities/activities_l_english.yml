@@ -70,7 +70,7 @@
  debug_gui.activity_weight.gold.prefers_expense:0 "まずまずの[gold|E]がある: $VALUE|+0$"
  debug_gui.activity_weight.struggle.wants_to_escalate:0 "私は[struggle|E]を過激化させたい: $VALUE|+0$"
  debug_gui.activity_weight.struggle.wants_to_deescalate:0 "私の[struggle|E]を縮小させたい: $VALUE|+0$"
- feast_activity_cost_desc:0 "基礎コスト"
+ feast_activity_cost_desc:0 "基本コスト"
  murder_feast_activity_cost_desc:0 "$feast_type_murder$"
  bloody_wedding_activity_cost_desc:0 "$wedding_type_bloody$"
  activity_feast_destination_selection:0 "選択した所領は5年間[GetModifier( 'feast_recent_fest_modifier' ).GetNameWithTooltip|L]の補正がつくでしょう。"
