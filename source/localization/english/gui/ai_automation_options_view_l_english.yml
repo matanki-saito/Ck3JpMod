@@ -1,6 +1,6 @@
 ﻿l_english:
  ARMY_AUTOMATION_FEATURE_NAME: "軍隊の自動化"
- AOV_HEADING: "$ARMY_AUTOMATION_FEATURE_NAME$ 設定"
+ AOV_HEADING: "$ARMY_AUTOMATION_FEATURE_NAME$の設定"
  AOV_APPLY: "$BARBERSHOP_APPLY$"
  AOV_SET_TO_DEFAULT: "$CHARACTER_RESET_FILTERS$"
  AOV_SET_TO_DEFAULT_TT: "[AddLocalizationIf( ArmyAutomationOptionsView.AreDisplayedSettingsDefault, 'AOV_SET_TO_DEFAULT_TT_CONTENT' )]"
@@ -8,7 +8,7 @@
  AOV_COMPANION_OFF_WARNING: "@alert_icon! これらの設定は$ARMY_AUTOMATION_FEATURE_NAME$が無効化されている間は影響を与えません"
  AOV_AUTOMATED: "自動的"
  AOV_MANUAL: "手動"
- AOV_OPT_COMMANDERS: "指揮官任命"
+ AOV_OPT_COMMANDERS: "指揮官の任命"
  AOV_OPT_COMMANDERS_NOT_PLAYERS: "限定的"
  AOV_OPT_COMMANDERS_NOT_PLAYERS_TT: "#T 限定的な$game_concept_commander$任命\n#![commanders|E]はあなたの[armies|E]に自動的に任命されますが、あなた自身は$game_concept_commander$として任命されることはありません"
  AOV_OPT_COMMANDERS_AUTOMATED_TT: "#T 自動的な$game_concept_commander$任命\n#![commanders|E]はあなたの[armies|E]に自動的に任命されます"

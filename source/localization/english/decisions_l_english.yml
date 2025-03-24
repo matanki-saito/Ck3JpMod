@@ -826,7 +826,7 @@
  scrape_the_barrel_decision_tooltip:0 "我々はランダムな[court_position|E]を埋めるために[lowborn|E]を採用します"
  scrape_the_barrel_decision.tt:0 "$scrape_the_barrel_decision_tooltip$"
  scrape_the_barrel_decision_confirm:0 "捜索を始めよう！"
- minor_decisions.0003.t:0 "底をさらう"
+ minor_decisions.0003.t:0 "残り物から選ぶ"
  minor_decisions.0003.desc.opening:0 "[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]での私の大掃除は、[barrel_character.GetName]との出会いを引き出した！"
  minor_decisions.0003.desc.diseased:0 "私の前には、汚物と乾いた嘔吐物にまみれ、目には意識を欠いたような表情を浮かべた、病気にかかった農民が立っているの。"
  minor_decisions.0003.desc.physical:0 "私の目の前にいるのは、非常に風変わりな外見の農民で、まるで私が[ROOT.Char.GetFaith.HighGodName]自身であるかのように、衝撃と畏怖をもって私を見つめている。明らかに[barrel_character.GetHerHis]の出自の状況が、[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の平民から[barrel_character.GetHerHim]に対する過度の苦痛と排斥とを引き起こしたのだ。"

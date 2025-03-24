@@ -457,7 +457,7 @@
  ep3_laamps.0411.c: "Blast that [owner.Custom('InsultNoun')]!"
  refill_maa_interaction: "常備軍の補充"
  refill_maa_interaction_desc: "[adventurers|E]には、[landed|E][rulers|E]が有する確実な人的資源が欠けています。そのため、[reinforce_soldiers|E]を行って[men_at_arms|E]の各[regiments|E]を満たし、損耗分を元通りにしなければなりません。"
- reinforce_soldiers_interaction: "底をさらうような人選"
+ reinforce_soldiers_interaction: "残り物から選ぶ"
  reinforce_soldiers_interaction_desc: "[men_at_arms|E]の各[regiments|E]の[reinforce_soldiers|E]に用いる[provisions|E]や[gold|E]の余裕がないこともあります。"
  reinforce_soldiers_option_provisions: "[provisions_i]食料と引き換えに募兵する"
  reinforce_soldiers_option_provisions_desc: "逸脱者や栄光を求める者に、衣服、武器、防具、食糧、テントを与え、その対価として兵士として働いてもらう。"
