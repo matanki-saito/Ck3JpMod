@@ -296,7 +296,7 @@
  ep2_tournament_events.2007.t:0 "観客の参加"
  ep2_tournament_events.2007.desc:0 "私は[versus_contestant.GetFirstName]を強引に押し倒し、[versus_contestant.GetHerHis]の肩を地面に向かって押しつける。あと一歩というところで、私は審判の声を聞いた。それが自分に有利なものだと気づくまで少し時間がかかった。審判は私のフォールを認めてくれたのだ！\n\n私はふたたび立ち上がると、むしろ不安になりながら、彼らの誤りを指摘すべきかどうか考えていたが、その時観客の歓声が最高潮に達した。振り向くと、[opponent_friend.GetFirstName]が障壁を乗り越えて、激しい身振りを交えながら私に突進してくるのが見えた。\n\n「不当な判定だ！[versus_contestant.GetHerHis|U]の肩は、ダウンというほど#EMP 近づいちゃ#!いなかった！」[opponent_friend.GetSheHe|U]は叫び、審判の手首をつかむ。"
  ep2_tournament_events.2007.a:0 "衛兵！この無礼者をここからつまみ出せ！"
- ep2_tournament_events.2007.b:0 "[versus_contestant.GetHerHis|U]肩は#EMP 絶対に#!ダウンしていた！"
+ ep2_tournament_events.2007.b:0 "[versus_contestant.GetHerHis|U]の肩は#EMP 絶対に#!ダウンしていた！"
  ep2_tournament_events.2007.b.tt.success:0 "あなたは口論に勝った"
  ep2_tournament_events.2007.b.tt.failure:0 "審判は[opponent_friend.GetFirstNameNoTooltip]の側についた"
  ep2_tournament_events.2007.c:0 "いや、そのとおりだ。フォールではなかった。"

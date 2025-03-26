@@ -195,7 +195,7 @@
  travel_events_bp3.95.a.flavor: "あるいは、[pilgrim_character.GetHerHim]に頼み込めば[unvisited_holy_site.GetProvince.GetCounty.GetName]についてもっと話を聞けるかもしれんな？"
  travel_events_bp3.95.b: "実に興味深い話だ。"
  travel_events_bp3.100.t: "乳と…魚の地？"
- travel_events_bp3.100.desc: "早朝に起き上がり、大きなあくびを抑えきれずに漏らしてしまう。体を伸ばしながらテントを出ると、すでに人々が動き回っているのが見える。\n\nふと、[friend_character.GetFirstName]が簡素な釣り竿を持ってキャンプの喧騒の中を抜けていくのを目にし、「どこへ行くんだ？」と声をかける。\n\n[friend_character.GetSheHe|U]は気の抜けた肩をすくめ、「釣り日和だからな」と答える。"
+ travel_events_bp3.100.desc: "早朝に起き上がり、大きなあくびを抑えきれずに漏らしてしまう。体を伸ばしながらテントを出ると、すでに人々が動き回っているのが見える。\n\nふと、[friend_character.GetFirstName]が簡素な釣り竿を持ってキャンプの喧騒の中を抜けていくのを目にし、「どこへ行くんだ？」と声をかける。\n\n[friend_character.GetSheHe|U]は気の抜けた肩をすくめ、「釣り日和だから」と答える。"
  travel_events_bp3.100.a: "「たしかに、それもありか。」"
  travel_events_bp3.100.a.flavor: "#emp 魚釣り#!と洒落こもうかね。"
  travel_events_bp3.100.b: "しっかりと日数を取って休もう。"
