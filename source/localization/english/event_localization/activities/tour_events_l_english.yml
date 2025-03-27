@@ -77,7 +77,7 @@
  tour_travel.9010.success:0 "盗賊は敗北する"
  tour_travel.9010.failure:0 "盗賊があなたを負かす"
  tour_travel.9020.t:0 "地元の正義"
- tour_travel.9020.desc.intro:0 "[ROOT.Char.GetCurrentLocation.GetName]の小さな村に到着すると、町の広場での大きな騒ぎを目にする。不幸な人物が激怒した村人たちに囲まれていたのだが、我ら一行の接近に気づくと、次第にその眼差しの暗い絶望的な表情が消えて、明るさを取り戻していく。\n\n「[ROOT.Char.GetTitleAsNameNoTooltip|U]様！この村人たちは、私の行いが罪だと言っておりますがすべて嘘なのです！[ROOT.Char.GetTitleAsNamePossessiveNoTooltip|U]の正義を下賜くださいませんか？」\n\n"
+ tour_travel.9020.desc.intro:0 "[ROOT.Char.GetCurrentLocation.GetName]の小さな村に到着すると、町の広場での大きな騒ぎを目にする。不幸な人物が激怒した村人たちに囲まれていたのだが、我ら一行の接近に気づくと、次第にその眼差しの暗い絶望的な表情が消えて、明るさを取り戻していく。\n\n「[ROOT.Char.GetTitleAsNameNoTooltip|U]様！この村人たちは、私の行いが罪だと言っておりますが、すべて嘘なのです！[ROOT.Char.GetTitleAsNamePossessiveNoTooltip|U]の正義を下賜くださいませんか？」\n\n"
  tour_travel.9020.desc.outro.guilty:0 "確かに、証拠は状況証拠のようだが、卑しい農民は決して自発的に[ROOT.Char.GetTitleAsNameNoTooltip|U]に対して話すべきではない。"
  tour_travel.9020.desc.outro:0 "証拠はかなり不利なようだし、[accused_character.GetSheHe]の発言も突拍子もないものだ。"
  tour_travel.9020.a:0 "処刑が正義だ。"
