@@ -26,7 +26,7 @@
  pilgrimage.6006.desc:0 "[friend.GetFirstName]と私は、今日の旅の終わりに近づいている。我々が決められた宿泊場所に向かってゆっくりと進んでいると、突然前方の誰かが叫んだ。「見ろ！なんと#EMP 素晴らしい#!夕日だ！」\n\nその壮大な光景を一目見ようと、誰もが最後の力を振り絞って前に出る。「我々は、この世界で、何と不思議なものを見ることができるのだろう！今は、我々の信仰について黙想するのに最適な時だ。」私は[friend.GetFirstNameNoTooltip]にそう言うが、[friend.GetSheHe]はまったく感心していない様子で、[friend.GetHerHis]の唇からは厳しい嘲笑が漏れている。\n\n「ただの夕日だ！」[friend.GetSheHe]は怒鳴る。この旅で出会うことのすべてを[ROOT.Char.GetFaith.HighGodName]に関係づける必要があるのか？私はただ旅をして、この世界をこの目で見たいだけだ——[ROOT.Char.GetFaith.HighGodName]の存在だって、私は#EMP 全く#!納得してはいない！」"
  pilgrimage.6006.a:0 "「この秘密をばらすつもりはない、友よ。」"
  pilgrimage.6006.b:0 "「不信心な友に我慢する気はない。」"
- pilgrimage.6006.c:0 "「君の意見は的を得ているな…」"
+ pilgrimage.6006.c:0 "「君の意見は的を射ているな…」"
  pilgrimage.6007.t:0 "祈りの生活"
  pilgrimage.6007.desc:0 "我が[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('friend'))]、[friend.GetFirstName]は[friend.GetHerHis]の苦痛に悩まされ、我々の巡礼の旅について来るのに苦労している。そのため、私は[friend.GetHerHim]のそばを歩き、[friend.GetHerHim]との付き合いを保つようにしている。しばらく一緒に我々と旅をしている放浪の[ROOT.Char.GetFaith.PriestNeuter]も[friend.GetFirstNamePossessiveNoTooltip]の苦労に気づいたようだ。\n\n「貧しき魂よ。[ROOT.Char.GetFaith.HighGodName]の子供たちは[destination_title.GetNameNoTierNoTooltip]に向かう途中、そのように苦労する必要はないのです。」彼は言う。「あるいは[ROOT.Char.GetFaith.HealthGodName]が、あなたの苦悩を癒す力を私に与えてくれるかもしれません。試してみることをお許しいただけますか？」\n\n我が[ROOT.Char.Custom2('RelationToMe' , SCOPE.sC('friend'))]は助言を求めるように私を振り返る。「どう思う、[ROOT.Char.GetFirstName]？」"
  pilgrimage.6007.a:0 "[ROOT.Char.GetFaith.HighGodName]は、我々を真に見守っていてくださる。"

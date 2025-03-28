@@ -31,7 +31,7 @@
  activity_adult_education_destination_selection: "大きな宗教的中心地や大学がある所領でのみ[GetActivityType('activity_adult_education').GetName]を始められます"
  adult_education_studies_completed_log: "[CHARACTER.GetShortUIName|U]は[PROVINCE.GetBaronyNameExplicitly]での[CHARACTER.GetHerHis]の[GetActivityType('activity_adult_education').GetName]を終えた"
  adult_education_studies_completed_log_title: "[GetActivityType('activity_adult_education').GetName]を全うした"
- activity_education_no_culture_center: "もはや高等な教育機関ではない"
+ activity_education_no_culture_center: "ここには高等な教育機関はありません！"
  adult_education_tt_positive_massive: "あなたの[GetActivityType('activity_adult_education').GetName]の研究は#P すさまじく成功#!しやすくなるでしょう"
  adult_education_tt_positive_major: "あなたの[GetActivityType('activity_adult_education').GetName]の研究は#P とても成功#!しやすくなるでしょう"
  adult_education_tt_positive_medium: "あなたの[GetActivityType('activity_adult_education').GetName]の研究は#P 成功#!しやすくなるでしょう"
