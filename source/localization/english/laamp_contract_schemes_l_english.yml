@@ -264,7 +264,7 @@
  laamp_base_contract_schemes.6021.desc.outro: "「なんと簡単な課題だろうか、この百姓どもを感動させるだけで良いとは！」"
  laamp_base_contract_schemes.6021.a: "#EMP ちょろい#!小遣い稼ぎとさせて頂く。"
  laamp_base_contract_schemes.6021.b: "早ければ早いほど、良い。"
- laamp_base_contract_schemes.6021.c: "面白くなりそうだ"
+ laamp_base_contract_schemes.6021.c: "面白くなりそうだ。"
  laamp_base_contract_schemes.6022_6023.common_desc: "「…かくしてかの者は凶暴な[ROOT.Char.MakeScope.Var('animal_type').GetFlagName]を討ち取れり！」私は舞台を進みながら、これまでに見たすべての劇を思い出そうとする。太鼓の音が激しくなる中、武器を頭上に掲げ、色鮮やかなハリボテに向かって攻撃する。\n\n"
  laamp_base_contract_schemes.6022.t: "$laamp_base_6021_contract_scheme$：成功！"
  laamp_base_contract_schemes.6022.desc: "$laamp_base_contract_schemes.6022_6023.common_desc$そして、切り落とされた頭が舞台からゴロゴロと転がって落ちた。\n観客の喝采と歓声に会場は包まれ、[employer.GetTitledFirstName]は満足そうに頷く。"

@@ -301,7 +301,7 @@
  8020_powerful_family_tt: "新たな有力一門"
  8020_powerful_family_desc: "[new_family.GetHouse.GetBaseName|V][house|E]は[new_family.GetTopLiege.GetPrimaryTitle.GetAdjective]の[powerful_family|E]に浮上する"
  ep3_emperor_yearly.2401.t: "$ep3_powerful_families.8020.t$"
- ep3_emperor_yearly.2401.desc: "[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]の市民の中には、貴族の血筋と気高さを持つ家系が多い。しかし、[ROOT.Char.GetTopLiege.GetTitleAsNameNoTooltip]の食卓に座り、国家運営の責任と栄誉を共有する者はごくわずかである。\n\n真の#EMP 権力#!を持つ者は少ないが、今日、[ROOT.Char.GetHouse.GetBaseName]家はその中にいるのだ！"
+ ep3_emperor_yearly.2401.desc: "[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]の臣民の中には、貴族の血筋と気高さを持つ家系は数多くある。\nしかし、[ROOT.Char.GetTopLiege.GetTitleAsNameNoTooltip]の食卓に座り、国家運営の責任と栄誉を共有する者は限られている。\n\nまして真の#EMP 権力#!を持つ家など、ほんのわずかしかいないのだ。されど今日、[ROOT.Char.GetHouse.GetBaseName]家はその中にいる！"
  ep3_emperor_yearly.2401.a: "[ROOT.Char.GetHouse.GetBaseNameNoTooltip]の時代だ！"
  ep3_emperor_yearly.2410.t: "新たな貴族"
  ep3_emperor_yearly.2410.desc: "[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]の有力者として新たな名前が知れ渡ってきた。[new_title.GetHolder.GetHouse.GetBaseName]一族は貴族の一員と見做される正当な権利を獲得した。尤も、それが真っ当な手立て、陰謀或いは汚職によるものかどうかなのかは私の知るところではないが。\n\nどうでも良い。彼らは歴史の荒々しい風…そう、我ら[ROOT.Char.GetHouse.GetBaseName]家の留まることのない威勢の前に吹き飛ばされる砂粒に過ぎないであろう！"
