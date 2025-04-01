@@ -130,7 +130,7 @@
  bp2_yearly.6040.a.tt: "臣民に外国風のやり方を教える。それがきっと大いなる栄光に繋がるからだ。"
  bp2_yearly.6040.a.reforms: "[advanced_culture.GetName]を手本として[culture|E]、[court|E]、[realm|E]を進歩させようと試みます。"
  bp2_yearly.6040.a.warning: "@alert_icon!#alert_trial これは挑戦的で費用も掛かる決断です。準備は万全ですか？#!"
- bp2_yearly.6040.b: "#EMP 伝統#!とやらを非難すればいいだけだろう。"
+ bp2_yearly.6040.b: "伝統への非難など#EMP 考えたこと#!もない。"
  bp2_yearly.6040.b.tt: "[ROOT.Char.GetCulture.GetNameNoTooltip]のやり方を受け入れてそれ以外のことは忘れます。"
  bp2_yearly.6040.b.promote_culture: "[promote_culture|E]の[councillor_task|E]は#high 25年間#!効果的になります"
  bp2_yearly.6040.b.no_reforms: "あなたはこの類の改革をもう考えないでしょう"
