@@ -96,7 +96,7 @@
  barracks_01_domicile_building: "兵舎"
  barracks_02_domicile_building: "練兵場"
  barracks_03_domicile_building: "譲渡地"
- barracks_04_domicile_building: "兵站管理人室"
+ barracks_04_domicile_building: "補給官室"
  barracks_05_domicile_building: "武器庫"
  barracks_06_domicile_building: "大兵舎"
  domicile_building_parameter_house_head_can_ask_for_knight: "[house_head|E]は$house_head_request_interaction$[interaction|E]を通じて[knights|E]を要求できる"

@@ -1628,7 +1628,7 @@
  laamp_base_contract_schemes.2667.a: "$laamp_base_contract_schemes.2662.a$"
  laamp_base_contract_schemes.2668.t: "$laamp_base_contract_schemes.2031.t$：失敗！"
  laamp_base_contract_schemes.2668.desc.stewardship: "どうやらこれは単純な問題ではなかったようだ。\n\n住民を宥め、何らかの補償を約束する試みは、喧嘩腰の[employer.GetTitledFirstNamePossessive]による不正行為の拒否によって直ちに頓挫した。\n\nそこから、状況は急速に私の手に負えなくなり、すべての当事者が互いに叫び合い、街は完全な無法状態の一歩手前にまで追い込まれた。"
- laamp_base_contract_schemes.2668.desc.officer: "補給係である[officer.GetFirstNamePossessive]の手法は…どうにも不十分だった。\n\n[officer.GetSheHe|U]は、支払済み、未払い、過剰納税分を含めた正確かつ率直な税収の計上を試みるが、そのたびに激怒する[employer.GetTitledFirstName]と、いら立ち困窮する市民たちに妨げられる。\n\nやがて事態はただの怒鳴り合いへと堕し、秩序は完全に失われた。"
+ laamp_base_contract_schemes.2668.desc.officer: "補給官である[officer.GetFirstNamePossessive]の手法は…どうにも不十分だった。\n\n[officer.GetSheHe|U]は、支払済み、未払い、過剰納税分を含めた正確かつ率直な税収の計上を試みるが、そのたびに激怒する[employer.GetTitledFirstName]と、いら立ち困窮する市民たちに妨げられる。\n\nやがて事態はただの怒鳴り合いへと堕し、秩序は完全に失われた。"
  laamp_base_contract_schemes.2668.desc.outro: "\n\n我々は空手で[employer.GetPrimaryTitle.GetBaseNameNoTier]を去ることを余儀なくされた。"
  laamp_base_contract_schemes.2668.a: "$laamp_base_contract_schemes.2663.a$"
  laamp_base_contract_schemes.2671.t: "$laamp_base_contract_schemes.2031.t$：崩れ行く城壁"
