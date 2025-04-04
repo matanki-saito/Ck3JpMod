@@ -123,7 +123,7 @@
  tribal_government_adjective:0 "部族制"
  tribal_government_realm:0 "部族制"
  tribal_government_desc:0 "\n$game_concept_tribal_desc$\n\n#F 部族においては強さが全て。部族の長は、領国を発展させ、軍を強化するために、金ではなく尊敬と名誉を頼りとします。#!"
- tribal_government_obligations:0 "[liege|E][prestige_level|E]より"
+ tribal_government_obligations:0 "[liege|E]の[prestige_level|E]より"
  tribal_government_vassals_label:1 "部族の[obligations|E]は[liege|E]の[prestige_level|E]に基づきます"
  tribal_liege_inefficiency_plus_perk:0 "[liege|E]は[tribal|E]であり、[GetPerk( 'detailed_ledgers_perk' ).GetName( GetPlayer )]を持っています"
  tribal_liege_inefficiency:0 "[liege|E]は[tribal|E]です"

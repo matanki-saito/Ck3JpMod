@@ -494,7 +494,7 @@
  laamp_join_war_contract_attacker_win: "勝っています"
  laamp_join_war_contract_attacker_lose: "負けています"
  laamp_join_war_contract.valid_war: "戦争はすでに終結している"
- join_war_contract_spawn.t: "新たな$laamp_join_war_contract_contract$ $game_concept_task_contract$"
+ join_war_contract_spawn.t: "新たなる$game_concept_task_contract$：$laamp_join_war_contract_contract$"
  join_war_contract_spawn.desc_attacker: "[attacker.GetShortUIName]は[task_contract|E]を発した。[defender.GetShortUIName]を相手側とした[war.GetName]への参陣を求めている"
  join_war_contract_spawn.desc_defender: "[defender.GetShortUIName]は[task_contract|E]を発した。\n[attacker.GetShortUIName]を相手側とした[war.GetName]への参陣を求めている"
  laamp_raid_contract_request: "$laamp_request_boilerplate_warfare$"
