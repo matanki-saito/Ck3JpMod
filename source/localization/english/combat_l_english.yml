@@ -93,7 +93,7 @@
  COMBAT_PREDICTION_EDGE_SOLDIERS_COUNT:0 "[soldiers|E]の多さ"
  COMBAT_PREDICTION_EDGE_QUALITY_COUNT:0 "[troop_quality|E]の高さ"
  COMBAT_PREDICTION_EDGE_MAA_COUNTER:0 "[men_at_arms_counter|E]の多さ"
- COMBAT_PREDICTION_DEBUG_SCORE:0 "#D (デバッグスコア: $VALUE$)#!"
+ COMBAT_PREDICTION_DEBUG_SCORE:0 "#D (デバッグスコア：$VALUE$)#!"
  MAA_COUNTERED_IN_COMBAT:0 "$NAME$: $EFFECTIVENESS|%V0$"
  MAAS_COUNTERED_IN_COMBAT:0 "[men_at_arms_counter|E]のため効果が低下した状態で戦う[men_at_arms|E]:"
  COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0]対[Combat.GetRightSide.GetCurrentFightingMen|0]\n#I クリックで表示#!"

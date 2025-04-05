@@ -33,7 +33,7 @@
  traveling_with_camel_merchants_modifier: "ラクダ商人たちとの旅"
  traveling_with_camel_merchants_modifier_desc: "この一行は砂漠の商人たちのグループに加わり、より安全な旅ができるようになった。"
  artifact_purchased: "購入した宝物"
- purchase_artifact_trinket_tt: "ランダムなトリンケット[artifact|E]を入手する"
+ purchase_artifact_trinket_tt: "ランダムな装身具[artifact|E]を入手する"
  purchase_artifact_famed_tt: "ランダムに著名な[artifact|E]を獲得する"
  travel_events_oltner_2.1040.t: "静寂のオアシス"
  travel_events_oltner_2.1040.desc: "[location.GetName]の乾燥した荒野を横断していると、ラクダの群れに囲まれた静かなオアシスが視界に現れる。\n\n知恵のある長老が水辺に寄りかかり、私たちの接近に気づいて手招きをしている。「旅の疲れを癒やしたい方々よ」と[local_character.GetSheHe]は語り始め、[local_character.GetHerHis]の声は夕方のそよ風のように穏やかだ。「砂漠の荒々しさは過酷だ。水辺で寛ぎ、ラクダの静かな強さに身を委ねて、英気を養われよ」"

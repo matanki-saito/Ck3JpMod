@@ -3,7 +3,7 @@
  LEGACY_REIGN:1 "在位期間: [LegacyItem.GetStartDate.GetYear] – [LegacyItem.GetEndDate.GetYear] ([LegacyItem.GetReignLength])"
  LEGACY_REIGN_TT:0 "[LegacyItem.GetStartDate.GetString]から[LegacyItem.GetEndDate.GetString]にかけてプレイした"
  LEGACY_REIGN_CURRENT:0 "[LegacyItem.GetStartDate.GetYear] –"
- LEGACY_SCORE:0 "スコア: [LegacyItem.GetScore]"
+ LEGACY_SCORE:0 "スコア：[LegacyItem.GetScore]"
  LEGACY_PRESTIGE:0 "[GetPrestigeLevelName(LegacyItem.GetPrestigeLevel)]"
  LEGACY_CONTINUE_PLAYING:0 "この人物でゲームを続けます"
  LEGACY_PIETY:0 "[GetPietyLevelName( LegacyItem.GetPietyLevel )]"

@@ -240,7 +240,7 @@
  DECLARE_WAR_NO_COST:0 "#weak コストなし#!"
  WAR_ALLY_REASON_GREAT_HOLY_WAR:0 "対象の地域に存在しているために参戦"
  WAR_ALLY_REASON_HOLY_WAR:0 "彼らの宗派への攻撃であるために参戦"
- WAR_ALLY_REASON_HOLY_WAR_AMOUNT:0 "#S 受諾スコア: $VALUE|V$#!"
+ WAR_ALLY_REASON_HOLY_WAR_AMOUNT:0 "#S 受諾スコア：$VALUE|V$#!"
  WAR_DEFENDER_ALLY_TOOLTIP:0 "[Character.GetFullNameNicknamedNoTooltipRegnal|T]\n[WarAllyItem.GetAllianceReason]"
  DEFEAT_CONFIRM_TITLE:0 "降伏"
  DEFEAT_CONFIRM:0 "この戦争に負けます"

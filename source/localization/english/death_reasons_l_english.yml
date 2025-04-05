@@ -51,7 +51,7 @@
  death_punishment:0 "罰として処刑された"
  death_punishment_killer:0 "罰として[TARGET_CHARACTER.GetUIName]により処刑された"
  death_disappearance:0 "跡形もなく姿を消した"
- death_dungeon:0 "獄中で死亡した"
+ death_dungeon:0 "獄死した"
  death_dungeon_passive:0 "$death_dungeon$"
  death_drinking_passive:0 "飲酒により死亡した"
  death_dungeon_killer:1 "[TARGET_CHARACTER.GetUINamePossessive]の地下牢で死亡した"

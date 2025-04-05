@@ -100,7 +100,7 @@
  TASK_ICON_CONTROLLED_BY_CHARACTER:0 "以下に支配されています\n[TaskIcon.GetTaskTargetCharacter.GetShortUINameNoTooltip]"
  TASK_ICON_NOT_YET_CREATED:0 "#N 称号はまだ創設されていません#!"
  TASK_ICON_AT_WAR_OVER_TITLE:0 "#N 我々はこの$TITLE|l$のために戦争中です#!"
- TASK_ICON_WAR_SCORE:0 "戦勝点: $SCORE|0%$"
+ TASK_ICON_WAR_SCORE:0 "戦勝点：$SCORE|0%$"
  TASK_ICON_PLAYER_ARMY:0 "@soldier_icon![Concept('increasing_army_size', 'Our soldiers')|E]: [TaskIcon.GetPlayerMilitaryStrength|0]"
  TASK_ICON_OWNER_ARMY:0 "@soldier_icon! [Concept('increasing_army_size', 'Hostile soldiers')|E]: [TaskIcon.GetDefenderMilitaryStrength|0]"
  TASK_ICON_SEE_WAR_PROGRESS:0 "進捗を見る"

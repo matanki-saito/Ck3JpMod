@@ -10,7 +10,7 @@
  RP_CANNOT_RAISE_ENEMY_TERRITORY: "#X @warning_icon! [rally_point|E]に指定した地点が敵の領土になっています#!"
  RP_CANNOT_RAISE_MULTIPLE_BANNERS: "#X @warning_icon! [occupation|E]にある、あるいは敵の[armies|E]がいる[rally_point|E]では軍を召集できません。#!"
  RP_NOTHING_TO_RAISE: "#X @warning_icon! 召集できる[armies|E]がありません#!"
- RAISE_TROOPS_EXTRA_INFO: "#I Ctrl+クリックで[armies|E]の[Concept( 'supply_limit', 'Supply Limits')|E]に基づく分割を#bold 行わない#!#!\n#I 右クリックで[armies|E]を特定の選択した場所に招集する#!"
+ RAISE_TROOPS_EXTRA_INFO: "#I Ctrl+クリックで[armies|E]の[Concept( 'supply_limit', '供給限界')|E]に基づく分割を#bold 行わない#!#!\n#I 右クリックで[armies|E]を特定の選択した場所に招集する#!"
  RP_NOTHING_TO_RAISE_MAA: "#X @warning_icon! 召集できる[men_at_arms|E]はありません#!"
  RP_CANNOT_ADD_LANDLESS: "#X @warning_icon! 土地なしの人物は[rally_points|E]を追加することができません#!"
  RP_ARMY_AUTOMATION_RAISES_INSTEAD: "#X @warning_icon! $ARMY_AUTOMATION_FEATURE_NAME$が有効である間は招集が不可#!"

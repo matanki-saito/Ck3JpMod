@@ -821,7 +821,7 @@
  outremer_decision_hybrid_tt:0 "あなたは[THIS.Char.GetCulture.GetPrefix]と[hybrid_culture.GetName]の[hybrid_culture|E]を形成し、$innovation_men_at_arms$と$innovation_desert_tactics$の[innovations|E]を獲得します"
  unite_the_western_slavs_decision_tt_1:1 "あなたの主な称号は、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国です"
  unite_the_western_slavs_decision_tt_2:1 "あなたは皇帝で、ポーランド王国、ポメラニア、ソルビア、ボヘミア、またはモラビア王国のいずれかを保有しています"
- scrape_the_barrel_decision:0 "底をさらうような人選"
+ scrape_the_barrel_decision:0 "残り物から選ぶ"
  scrape_the_barrel_decision_desc:0 "我が宮廷では、繁栄する[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]を支えるために必要な多くの宮廷職を埋めるための有能な人材が不足している！\n\n我が家はふさわしい威光を欠いているが、あるいはその解決策は意外なところにあるのかもしれない…"
  scrape_the_barrel_decision_tooltip:0 "我々はランダムな[court_position|E]を埋めるために[lowborn|E]を採用します"
  scrape_the_barrel_decision.tt:0 "$scrape_the_barrel_decision_tooltip$"

@@ -50,7 +50,7 @@
  FRIENDLY_ARMY_ORDER_MAIN_resupply: "[PROVINCE.GetName]で補給中"
  FRIENDLY_ARMY_ORDER_MAIN_chasing: "[PROVINCE.GetName]で敵軍を追跡中"
  FRIENDLY_ARMY_ORDER_MAIN_gather: "[PROVINCE.GetName]で[great_holy_war|E]のために集合中"
- FRIENDLY_ARMY_ORDER_MAIN_stage: "[PROVINCE.GetName]で[great_holy_war|E] のために準備中"
+ FRIENDLY_ARMY_ORDER_MAIN_stage: "[PROVINCE.GetName]で[great_holy_war|E]のために準備中"
  FRIENDLY_ARMY_ORDER_MAIN_moving: "[PROVINCE.GetName]へ移動中"
  FRIENDLY_ARMY_ORDER_MAIN_stopped: "[PROVINCE.GetName]で待機中"
  FRIENDLY_ARMY_ORDER_SUPPORT_attack_support: "$SUPPORTING_PLAYER$"

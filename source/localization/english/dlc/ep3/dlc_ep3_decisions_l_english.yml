@@ -833,7 +833,7 @@
  commission_trinket_icon_tooltip: "#T イコン#! \n$DESC$"
  commission_court_icon_large_tooltip: "#T イコン#! \n$DESC$"
  commission_court_icon_small_tooltip: "#T イコン#! \n$DESC$"
- commission_artifact_decision_option_trinket_icon: "トリンケット\n#low 所持数：[ROOT.Char.GetInventory.GetNumberOfArtifactsForSlotTypeString( 'miscellaneous' )]#!"
+ commission_artifact_decision_option_trinket_icon: "装飾品\n#low 所持数：[ROOT.Char.GetInventory.GetNumberOfArtifactsForSlotTypeString( 'miscellaneous' )]#!"
  commission_artifact_decision_option_court_icon_large: "大型壁掛け聖像\n#low 所持数：[ROOT.Char.GetInventory.GetNumberOfArtifactsForSlotTypeString( 'wall_big' )]#!"
  commission_artifact_decision_option_court_icon_small_desc:0 "[AddTextIf( ROOT.Char.GetInventory.HasEquippedArtifactsInSlotType( 'wall_small' ), Concatenate( 'Currently Displayed:\n', ROOT.Char.GetInventory.GetEquippedArtifactsInSlotTypeString( 'wall_small', 'NEWLINE', 'NEWLINE', 'NEWLINE' ) ) )]"
  commission_artifact_decision_option_court_icon_small: "小型壁掛け聖像\n#low 所持数：[ROOT.Char.GetInventory.GetNumberOfArtifactsForSlotTypeString( 'wall_small' )]#!"

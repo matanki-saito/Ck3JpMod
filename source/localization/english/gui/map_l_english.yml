@@ -175,7 +175,7 @@
  PROVINCE_TOOLTIP_SELECT_RAISE_ARMIES_AT_LOCATION_CANCEL: "#I 右クリックでキャンセル#!"
  SELECT_RAISE_TROOPS_AT_LOCATION: "[armies|E]を指定した場所で召集し、[rally_points|E]をスキップ"
  SELECT_RAISE_TROOPS_CHOOSE_LOCATION: "マップ上で場所を選択"
- SELECT_RAISE_TROOPS_MAP_INSTRUCTION: "#I クリックで場所を選択\nCtrl+クリックで[Concept( 'supply_limit', 'Supply Limits')|E]に基づいて[armies|E]を#bold 分割しない#!\n右クリックでキャンセル#!"
+ SELECT_RAISE_TROOPS_MAP_INSTRUCTION: "#I クリックで場所を選択\nCtrl+クリックで[Concept( 'supply_limit', '供給限界')|E]に基づいて[armies|E]を#bold 分割しない#!\n右クリックでキャンセル#!"
  MAP_TOP_REALM_MAIN_TEXT: "最上位の主君の領国：[TITLE.GetDeFactoTopLiege.GetNameNoTooltip|V]"
  MAP_TOP_HOLDER_MAIN_TEXT: "領国を持つ最上位の主君：[TITLE.GetDeFactoTopLiege.GetHolder.GetNameNoTooltip|V]"
  LEGEND_QUALITY_BASE_SPREAD_CHANCE: "伝説が伝播する基礎的な確率"

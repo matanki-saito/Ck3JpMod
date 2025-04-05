@@ -85,7 +85,7 @@
  small_religious_carving:0 "小さな宗教的な彫刻"
  small_religious_carving_desc:0 "これは小さいが、[stall_owner.GetFaith.GetReligion.GetAdjectiveNoTooltip]様式の[stall_owner.GetFaith.ReligiousSymbol]を彫った複雑な彫刻である。"
  stewardship_wealth.7000.t:0 "悪党の統治"
- stewardship_wealth.7000.desc:0 "我が$knight_culture_player_no_tooltip_lowercase$[enforcer.GetTitledFirstName]が悦に入った仰々しい所作で、パンパンに膨らんだ袋をどさりと置いた。\n\n「さあ、とくとご覧ください」[enforcer.GetSheHe]が言った。\n\n中身を空けると、貴重なメダルに宝物、トリンケットが入っている。\n\n「[victim.GetTitledFirstNamePossessive]の領民たちを#EMP 説き伏せ#!ましてございます」[enforcer.GetFirstNameNoTooltip]が満面の笑みを浮かべた。「彼らの税金は、すなわち貴方様のものでございましょう」\n\nこれだけあればまとまった臨時収入になる！それ以上に、大変な剣幕で怒り狂う[victim.GetTitleAsNamePossessiveNoTooltip]の憎たらしい顔が目に浮かぶ。"
+ stewardship_wealth.7000.desc:0 "我が$knight_culture_player_no_tooltip_lowercase$[enforcer.GetTitledFirstName]が悦に入った仰々しい所作で、パンパンに膨らんだ袋をどさりと置いた。\n\n「さあ、とくとご覧ください」[enforcer.GetSheHe]が言った。\n\n中身を空けると、貴重なメダルに宝物、装身具が入っている。\n\n「[victim.GetTitledFirstNamePossessive]の領民たちを#EMP 説き伏せ#!ましてございます」[enforcer.GetFirstNameNoTooltip]が満面の笑みを浮かべた。「彼らの税金は、すなわち貴方様のものでございましょう」\n\nこれだけあればまとまった臨時収入になる！それ以上に、大変な剣幕で怒り狂う[victim.GetTitleAsNamePossessiveNoTooltip]の憎たらしい顔が目に浮かぶ。"
  stewardship_wealth.7000.a:0 "[victim.Custom('InsultAdjective')][victim.GetFirstNameNoTooltip]め、ざまあみろ！"
  stewardship_wealth.7000.b:0 "私はこの徴収を正当化できる。"
  stewardship_wealth.7000.b.tt:0 "身代わり、真実の隠蔽、わずかな返済。暴政への非難を和らげるためなら何でもします"
