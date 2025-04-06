@@ -882,7 +882,7 @@
  court_amenities_interactions.0011.desc.flag_gold_boots:0 "私の重い金色のブーツは、[debate_locale.GetNameNoTierNoTooltip]の広間の光に照らされ、輝いている。"
  court_amenities_interactions.0011.desc.flag_sleeveless:0 "私の新しい袖のない衣服は、すべての人が見ることができるよう私の腕を支えている！"
  court_amenities_interactions.0011.desc.flag_commoner_clothes:0 "シンプルな服装こそおしゃれなのに、なぜ貴族は庶民と違う服装をしなければならないのか疑問だ。"
- court_amenities_interactions.0011.desc_bridge:0 "[recipient.Custom2('MyCharacterIntroduction', ROOT.Char)]が、ホールの向こうから私に向かって叫ぶ。\n\n私たちは侮辱の言葉を投げかけ合い、私は単純な知性をはるかに超えている明らかに良いファッションを自己弁護する。"
+ court_amenities_interactions.0011.desc_bridge:0 "[recipient.Custom2('MyCharacterIntroduction', ROOT.Char)] が広間の向こう側から私に向かって叫んできた。\n\n私たちは互いに罵り合いを続ける。私は明らかに優れた自分の服装のセンスを擁護するが、それは単純な頭では到底理解できないものではあった。"
  court_amenities_interactions.0011.desc_won:0 "地元の貴族たちが私の周りに集まってくるところを見ると、私のファッションは大成功だと考えていい！"
  court_amenities_interactions.0011.desc_lost:0 "[debate_locale.GetNameNoTierNoTooltip]の貴族がすぐに[recipient.GetNameNoTooltip]に加わって私の服を嘲るので、私は自分のファッションのスタイルがその時間に残酷に評価されないことを知っている。"
  court_amenities_interactions.0011.a_won:0 "私は常に最善を知っている！"
