@@ -55,7 +55,7 @@
  destiny_child.1035.b: "[destiny_child.GetFirstNameNoTooltip]は[flirter_2.GetFirstNameNoTooltip]に何か魅力を感じているようだ！"
  destiny_child.1035.c: "「あんな気取り屋どもに煩わされずに済んでよかったよ、[destiny_child.GetFirstNameNoTooltip]」"
  destiny_child.1035.d: "「集中を乱すな、[destiny_child.GetFirstNameNoTooltip]！」"
- destiny_child.1035.d.tt: "いずれ[destiny_child.GetHerHis]に#EMP 相応しい相手#!が見つかるでしょう…"
+ destiny_child.1035.d.tt: "いずれ[destiny_child.GetHerHis]にも#EMP そのような#!ことを楽しむ時期が訪れるだろう…。"
  destiny_child.9999.t: "運命を悟る"
  destiny_child.9999.desc: "[destiny_child.GetFirstName]は私の下で成長を続けてきたが、今や私は[destiny_child.GetHerHim]を同輩として見るようになった。その昔、私は[destiny_child.GetHerHis]の可能性を見出し、それを育もうと決意した。当時は将来のことなどほとんど分かっていなかったが、私の努力が無駄でなかったことは明らかだ。\n\n[destiny_child.GetFirstNameNoTooltip]は私と向き合い、微笑みながら立っている。親しい間柄にもかかわらず、[destiny_child.GetSheHe]が放つ自然な魅力に引き寄せられずにはいられない。この[destiny_child.GetWomanMan]は、何か神秘的な方法で、偉大な人物となることを宿命付けられているのだ。\n\n私は[destiny_child.GetHerHis]が運命の織り成す危険な道を歩む手助けをした。それは正しいことだったと確信している。"
  destiny_child.9999.a: "光栄であった。"

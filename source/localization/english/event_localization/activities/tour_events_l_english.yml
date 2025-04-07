@@ -1,6 +1,6 @@
 ﻿l_english:
  tour_travel.1001.title:1 "農奴と[angry_peasant.GetHerHis|U]の[ROOT.Char.GetTitleAsNameNoTooltip|U]"
- tour_travel.1001.desc.intro:2 "旅に疲れ、ビールと休息を求めて、私は[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の地元の酒場に入る。\n\n私の静かな思索を邪魔したのは、木片に拳をぶつける音と、蔑むような唾の音だった。「あの[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]め！"
+ tour_travel.1001.desc.intro:2 "旅に疲れ、エール酒と休息を求めて、私は[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の地元の酒場に入る。\n\n私の静かな思索を邪魔したのは、木片に拳をぶつける音と、蔑むような唾の音だった。「あの[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.Custom('InsultNoun')]め！"
  tour_travel.1001.desc.mid.wrong_language:1 "[ROOT.Char.GetSheHe|U]は[angry_peasant.GetCulture.GetLanguage.GetName]語さえ話せないのに、[ROOT.Char.GetSheHe]は自身を我々の正当な主君と呼ぶんだろうな！」"
  tour_travel.1001.desc.mid.wrong_culture:0 "[ROOT.Char.GetSheHe|U]は完全な外国人だ！[angry_peasant.GetCulture.GetName]人でもない者に我々はどうやって支配されるのかね？」"
  tour_travel.1001.desc.mid.wrong_faith:0 "[ROOT.Char.GetSheHe|U]は[ROOT.Char.Custom('InsultAdjective')]異教徒だぞ！[ROOT.Char.GetSheHe]が王位に留まる一秒一秒が[angry_peasant.GetFaith.HighGodNamePossessive]の意志に対する侮辱だ。」"

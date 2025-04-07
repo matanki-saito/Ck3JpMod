@@ -202,7 +202,7 @@
  bp1_house_feud.7001.t:0 "$story_cycle_house_feud_title$: 血で血を洗う"
  bp1_house_feud.7001.desc:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))]、[house_feud_victim.GetTitledFirstName]を殺した卑劣な[house_feud_attacker.GetTitledFirstName]がついに我々の手によって処刑され、我が家の名誉も回復された。\n\n[ROOT.Char.GetHouse.GetBaseName]家の復讐の目的が達成されたことで、この#EMP 騒動#!は過去のものとしたほうが良いかもしれない。"
  bp1_house_feud.7001.a:0 "[house_feud_attacker.GetHouse.GetBaseNameNoTooltip]家とはまだ終わっていない。"
- bp1_house_feud.7001.b:0 "世界中を盲目にするべきではない。"
+ bp1_house_feud.7001.b:0 "全世界を盲目にしてはならない。"
  bp1_house_feud.7002.t:0 "$story_cycle_house_feud_title$: 運命の出会い"
  bp1_house_feud.7002.opening:0 "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('house_feud_victim'))]、[house_feud_victim.GetTitledFirstName]を拷問した冷酷な[house_feud_attacker.GetTitledFirstName]は我々の手によって同じ運命を辿ることになった！"
  bp1_house_feud.7002.opening_self:0 "私を拷問した冷酷な[house_feud_attacker.GetTitledFirstName]は、私の手によって同じ運命を辿ることになった！"
