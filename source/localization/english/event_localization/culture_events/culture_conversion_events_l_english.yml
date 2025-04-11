@@ -1,6 +1,6 @@
 ﻿l_english:
  culture_conversion.0001.t:1 "[new_culture.GetName]になる"
- culture_conversion.0001.desc:1 "[new_culture.GetName]の衣服を着て、[new_culture.GetName]の習慣で生き、そして首都に[new_culture.GetCollectiveNoun]のものが満ちるようになり、もはや[converting_character.Custom2('MyCharacterIntroduction', ROOT.Char)]が[converting_character.GetHerselfHimself]を[old_culture.GetName]ではなく、[new_culture.GetName]と考えるのは不思議ではない！"
+ culture_conversion.0001.desc:1 "[new_culture.GetName]の衣服をまとい、[new_culture.GetName]の風習に親しみ、そして都には[new_culture.GetCollectiveNoun]が満ちているのだから、[converting_character.Custom2('MyCharacterIntroduction', ROOT.Char)]が自らをもはや[old_culture.GetName]ではなく、[new_culture.GetName]であると見なすのも無理からぬことであろう！"
  culture_conversion.0001.a:0 "物事は変わる。そして人々も変わる。"
  culture_conversion.0001.b:0 "我々の古き伝統から離れるのは良い考えとは言えぬ。"
  culture_conversion.0001.c:0 "我々は皆、時代とともに動いていくべきだ！"
