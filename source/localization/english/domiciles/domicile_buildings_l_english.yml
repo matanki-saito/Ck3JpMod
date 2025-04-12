@@ -226,7 +226,7 @@
  domicile_building_parameter_estate_improved_feast_opinion: "この[location|E]で[GetActivityType('activity_feast').GetName]を主催すると得られる[opinion|E]が増加する"
  domicile_building_parameter_estate_cheaper_feast_cost: "[GetActivityType('activity_feast').GetName]を主催するコストの減少：#P ‑[EmptyScope.ScriptValue('estate_cheaper_feast_cost_value')|0%]#!"
  domicile_building_parameter_estate_torture_reduce_stress: "囚人を拷問すると[stress_loss_i][stress|E]が減少するかもしれない"
- domicile_building_parameter_estate_torture_grants_influence: "#high $torture_interaction$#!で[secrets|E]を発見すると、[influence_i|E]の[influence|E]を獲得できる"
+ domicile_building_parameter_estate_torture_grants_influence: "#high $torture_interaction$#!で[secrets|E]を発見すると、[influence_i|E][influence|E]を獲得できる"
  domicile_building_parameter_estate_reduce_council_position_cost: "#high $request_council_interaction$#!コスト：[influence_i]#P ‑[EmptyScope.ScriptValue('estate_reduce_council_position_cost_value')|0%]#!"
  domicile_building_parameter_estate_reduce_commission_artifact_cost: "#high $commission_artifact_decision$#![decision|E]のコスト：#P ‑[EmptyScope.ScriptValue('estate_reduce_commission_artifact_cost_value')|0%]#!"
  domicile_building_parameter_estate_increase_antiquarian_aptitude: "[GetCourtPositionType('antiquarian_court_position').GetName()]の[aptitude|E]：#P +[EmptyScope.ScriptValue('estate_increase_antiquarian_aptitude_value')|0]#!"

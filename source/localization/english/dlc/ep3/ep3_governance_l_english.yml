@@ -250,7 +250,7 @@
  governor_contract_event.2050.a: "調査が必要だろうな。"
  governor_contract_event.2051.desc: "[ongoing_destination.GetName]の善良なる民は恐怖のあまり正気を失っている。\n\n恐慌と妄想が蔓延している。みすぼらしい長屋でも、地元の裁判所である[ROOT.Char.Custom('ResidenceBuilding')]でも、私の一行は閉ざされた扉に迎えられるばかりだ。もっとも恐ろしい行為を行なっていると友人や親族を告発する者もいれば、影の中に怪物を見出す正直者もいる。生産活動はほとんど停止している。\n\nこのような状況をいずれにせよ終わらせなければならない。[ongoing_destination.GetCounty.GetFaith.HighGodNamePossessive]の加護への信仰を失ってしまった以上…この社会の絆がもはやこれ以上ほころびることがないとはいえ。"
  governor_contract_event.2051.a: "都から正式な祓魔師を派遣させよう。"
- governor_contract_event.2051.b: "名高き [ROOT.Char.GetFaith.PriestNeuter] を呼び、悪魔祓いを行わせる。"
+ governor_contract_event.2051.b: "名高き[ROOT.Char.GetFaith.PriestNeuter]を呼び、悪魔祓いを行わせる。"
  governor_contract_event.2051.c: "これは邪悪な魔術師の仕業に違いない！"
  governor_contract_event.2051.d: "長老たちは何と言っている？"
  governor_contract_event.2051.e: "ただの幻覚だ。馬鹿げた話だ。"

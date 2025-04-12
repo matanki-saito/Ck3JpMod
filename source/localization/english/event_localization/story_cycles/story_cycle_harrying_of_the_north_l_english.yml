@@ -197,7 +197,7 @@
  ep3_story_cycle_harrying.3022.a: "贈り物を喜ぶであろう人物を知っている……。"
  ep3_story_cycle_harrying.3022.b: "人々は、我らが実現する正義を知るべきだ。"
  ep3_story_cycle_harrying.3050.opening: "悪名高き沼ネズミのヘリワードへ、"
- ep3_story_cycle_harrying.3050.desc: "あなたに提案がある。\n\nできるだけ早く[london.GetNameNoTier]に来たまえ。私の話を聞きたかろう。\n\n待たせるなよ。"
+ ep3_story_cycle_harrying.3050.desc: "お前に提案がある。\n\nできるだけ早く[london.GetNameNoTier]に来たまえ。私の話を聞きたかろう。\n\n待たせるなよ。"
  ep3_story_cycle_harrying.3050.a: "[william.GetHerHim]の話を最後まで聞こう。"
  ep3_story_cycle_harrying.3050.a.tt: "$cn_lunden$へ進路を取れ。\n#Weak それを『#EMP $cn_londres$#!』と呼ぶ前に、私はとっくに死んでいるだろう……。#!"
  ep3_story_cycle_harrying.3050.b: "これは明らかに罠だ。"

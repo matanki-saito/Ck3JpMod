@@ -20,7 +20,7 @@
  DIARCHY_WINDOW_DIARCH_APTITUDE_TOOLTIP:0 "[Concept( 'diarch_aptitude', '適性' )|E]スコア"
  DIARCHY_WINDOW_MANDATE_TOOLTIP:3 "#T [Mandate.GetName]#!\n[Mandate.GetDescription]"
  DIARCHY_WINDOW_SCALES_OF_POWER_CURRENT_TOOLTIP:0 ""
- DIARCHY_WINDOW_SCALES_OF_POWER_LEVEL_TOOLTIP: "#T [scales_of_power|E]レベル$LEVEL$#!\n$STATUS$\n\n効果:\n$POWERS$[SelectLocalization( EqualTo_int32( '(int32)$LEVEL|q$', '(int32)1'), '', '#weak All previous levels also apply#!' )]\n\n$CHANGE_DESC$"
+ DIARCHY_WINDOW_SCALES_OF_POWER_LEVEL_TOOLTIP: "#T [scales_of_power|E]レベル$LEVEL$#!\n$STATUS$\n\n効果:\n$POWERS$[SelectLocalization( EqualTo_int32( '(int32)$LEVEL|q$', '(int32)1'), '', '#weak 以前のすべてのレベルも適用されます#!' )]\n\n$CHANGE_DESC$"
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_CURRENT:0 "現在のレベル"
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_ACTIVE:0 "有効なレベル"
  DIARCHY_WINDOW_POWER_LEVEL_STATUS_INACTIVE:0 "#X 無効なレベル#!"
