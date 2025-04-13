@@ -12,7 +12,7 @@
  ACHIEVEMENT_ce1_upward_mobility_achievement: "上がり調子"
  ACHIEVEMENT_DESC_ce1_upward_mobility_achievement: "あなたの[liege|E]よりも高い[legitimacy_level|E]を持って$dynast_claim_title_interaction$の[interaction|E]を成功させる。"
  ACHIEVEMENT_ce1_cant_touch_this_achievement: "不可侵領域"
- ACHIEVEMENT_DESC_ce1_cant_touch_this_achievement: "感染した[barony|E]の[epidemic_resistance|E]を最大まで上げる。"
+ ACHIEVEMENT_DESC_ce1_cant_touch_this_achievement: "[epidemic_resistance|E]を最大まで上げた[barony|E]が感染する。"
  ACHIEVEMENT_ce1_legendary_achievement: "伝説！"
  ACHIEVEMENT_DESC_ce1_legendary_achievement: "[legend|E]が成立させる。"
  ACHIEVEMENT_ce1_f_achievement: "敬意を払え"

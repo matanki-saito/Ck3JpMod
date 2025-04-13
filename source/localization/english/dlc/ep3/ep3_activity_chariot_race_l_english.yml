@@ -402,7 +402,7 @@
  chariot_race.4051.self_failed_survive: "だが、私の標的はあっさりと落ちてはくれなかった。[victim.GetFirstNameNoTooltip]は私のマントをしっかりと掴み、髪を引っ張って醜い乱闘へと引きずり込んだ。周囲の者たちがすぐに私を取り押さえ、護衛のもとへと突き戻した。\n\n気まずい沈黙がしばし続いた後、私は怒りに任せてその場を立ち去った。"
  chariot_race.4051.self_failed_death: "しかし、私の標的はあっさりと落ちてはくれなかった。そして——[ROOT.Char.GetFaith.HighGodName]よ——私の脚には力が入らない！ 私は[victim.GetFirstNamePossessiveNoTooltip]の座席に崩れ落ちた。胸のナイフ傷から血が流れ出している。\n\n[victim.GetNameNoTooltip]は私の上に立ち、短剣を手にしながら激しく叫んでいる。ああ、[ROOT.Char.GetFaith.DeathDeityName]が私を呼んでいる……。"
  chariot_race.4051.success_death_stands: "\n\n観客たちが衝撃の現場に群がり、口々に叫んでいる——[victim.GetNameNoTooltip]が死んだのだ！"
- chariot_race.4051.success_death_track: "\n\nこれ以上に絶妙なタイミングはなかった。戦車は新たな障害物を避けようとして激しく蛇行するが、[Glossary( 'quadriga', 'QUADRIGA_GLOSS')]が無惨に折り重なった[victim.GetFirstNamePossessiveNoTooltip]の身体を容赦なく轢きつぶした。\nそれは一目で明らかだった——[victim.GetNameNoTooltip]は死んだ！"
+ chariot_race.4051.success_death_track: "\n\nこれ以上に絶妙なタイミングはなかった。戦車は新たな障害物を避けようとして激しく蛇行するが、[Glossary( 'クアドリガ', 'QUADRIGA_GLOSS')]が無惨に折り重なった[victim.GetFirstNamePossessiveNoTooltip]の身体を容赦なく轢きつぶした。\nそれは一目で明らかだった——[victim.GetNameNoTooltip]は死んだ！"
  chariot_race.4051.success_infirm_stands: "\n\n観客たちが衝撃の現場に群がり、口々に叫んでいる——[victim.GetNameNoTooltip]は生きている、首の皮一枚……！"
  chariot_race.4051.success_infirm_track: "\n\n係員たちが砂の上に横たわる[victim.GetFirstNamePossessiveNoTooltip]の無残な姿へと駆け寄る。噂が波紋のように広がっていく——[victim.GetNameNoTooltip]はまだ生きている、しかし、かろうじてだ！"
  chariot_race.4051.a_triumph: "ヒッポドロームにふさわしい見事な勝利だ！"

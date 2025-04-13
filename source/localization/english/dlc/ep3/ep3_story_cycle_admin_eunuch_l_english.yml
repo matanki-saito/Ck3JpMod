@@ -5,7 +5,7 @@
  admin_eunuch_flavor_tt: "#weak [eunuch.GetFirstNamePossessiveNoTooltip]の影響力は多大な恩恵をもたらすかもしれぬ。だがその代償は？#!"
  admin_eunuch_rivalry_tt: "[THIS.Char.GetShortUIName]は[eunuch.GetShortUIName]との間に宿敵関係を築きつつある"
  ep3_story_cycle_admin_eunuch.1001.t: "$admin_eunuch_header$ [eunuch.GetFullNameNoTooltip]"
- ep3_story_cycle_admin_eunuch.1001.intro_byz: "何世紀にもわたり、[Glossary( 'eunoukhoi', 'EUNOUKOS_GLOSS' )]は[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の官僚機構や宮殿の下で相談役や側近として仕え、当時の政治的決闘において重要な役割を果たしてきた。"
+ ep3_story_cycle_admin_eunuch.1001.intro_byz: "何世紀にもわたり、[Glossary( 'エウヌコス', 'EUNOUKOS_GLOSS' )]は[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の官僚機構や宮殿の下で相談役や側近として仕え、当時の政治的決闘において重要な役割を果たしてきた。"
  ep3_story_cycle_admin_eunuch.1001.intro: "領国は常に、統治を円滑に進め、宮廷の安全を保つために有能な官吏と信頼できる従者を求めている。その中でも、宦官は[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]において最も重んじられる存在のひとつである。"
  ep3_story_cycle_admin_eunuch.1001.desc: "\n\n[eunuch.GetFirstName]は瞬く間に出世し、[eunuch.GetHerHis]のあらゆる物事に対する才能、誠実さ、そして分別は、宮廷のあらゆる人々から非凡な賞賛を受けている。"
  ep3_story_cycle_admin_eunuch.1001.arrivals: "\n\n[origin.GetDeJureLiege.GetAdjective]の慎ましい家柄の出身である[eunuch.GetHerHim]だが、最近ではその親族までもが[ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]に身を寄せてきているという…。"
