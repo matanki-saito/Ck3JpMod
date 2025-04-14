@@ -1,7 +1,7 @@
 ﻿l_english:
  book_regula_pastoralis:0 "司牧規則"
  book_physica_elementa:0 "自然学"
- book_almagest:0 "天文学書アルマゲスト"
+ book_almagest:0 "アルマゲスト"
  book_elements:0 "原論"
  book_corpus_hermeticus:0 "ヘルメス文書集成"
  book_treatises_of_hippocrates:0 "ヒポクラテス集成"
@@ -26,7 +26,7 @@
  world_deadline_432000_age:0 "この時代は43万2千年後に終わりを迎える"
  world_deadline_1000_age:0 "この時代は千年後に終わりを迎える"
  world_deadline_21000_age:0 "この時代は二万一千年後に終わりを迎える"
- world_deadline_3000_period:0 "この最終の時代は三千年続くこととなる"
+ world_deadline_3000_period:0 "この末世は三千年続くこととなる"
  virtue_choice_brave:0 "勇敢"
  virtue_choice_just:0 "公正"
  virtue_choice_temperate:0 "節制"

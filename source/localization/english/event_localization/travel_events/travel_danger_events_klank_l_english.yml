@@ -14,7 +14,7 @@
  travel_danger_events.3000.c.second_time:0 "親愛なる[ROOT.Char.GetFaith.HighGodName]よ、我らを危険からお救いください！"
  travel_danger_events.3000.d.first_time:0 "自ら手を下すまでもなかったな！"
  travel_danger_events.3000.d.second_time:0 "二回目はさらに面白いな！"
- travel_danger_events.3001.t:0 "$travel_danger_prefix$ 雪崩だ！"
+ travel_danger_events.3001.t:0 "$travel_danger_prefix$雪崩だ！"
  travel_danger_events.3001.desc:0 "雪に覆われた山頂の間の長く困難な旅の後、[first_avalanche_victim.GetFirstName]と[second_avalanche_victim.GetFirstName]が屋外でキャラバンの世話をしている間、私は地元の宿屋の燃え盛る暖炉のそばでゆっくりと体を温めている。突然、遠くから、しかし力強く、深く、響くようなドスンという音がする。\n\n「雪崩だ！」誰かが叫ぶ。中にいる人々が反応する前に、音はますます大きくなり、壁や床を揺るがすほどの大きな力で最高潮に達する。心臓の鼓動や永遠の時間が経過した後は、さらに恐ろしい沈黙が続く。"
  travel_danger_events.3001.a:0 "[ROOT.Char.GetCulture.GetCollectiveNoun]は山で生き残る術を知っている。"
  travel_danger_events.3001.a.alternate:0 "[travel_leader.GetCulture.GetCollectiveNoun]は山で生き残る術を知っている。"
