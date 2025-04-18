@@ -89,7 +89,7 @@
  artifact_animal_trinket:0 "動物の装飾品"
  hunt_revenge_skull_name_1:0 "[host.GetTitledFirstNamePossessiveNoTooltip]の毒"
  hunt_revenge_skull_name_2:0 "[host.GetTitleAsNamePossessiveNoTooltip]の厄災"
- hunt_revenge_skull_name_3:0 "[host.GetTitleAsNameNoTooltip]の殺し屋"
+ hunt_revenge_skull_name_3:0 "[host.GetTitleAsNameNoTooltip]を殺めしもの"
  hunt_revenge_skull_desc:0 "[newly_created_artifact.GetFeatureText( 'animal_skull_type' )]の頭部。狩猟中の[host.GetTitledFirstName]を殺め、その次代[creator.GetTitledFirstName]の求めで討たれた。[SCOPE.Custom('ArtifactAdverbQuality')]保存状態で、[SCOPE.Custom('ArtifactAdverbWealth')]彫られた[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]の台座に取り付けられている。"
  hunt_rampage_trinket_slain_desc:1 "[creator.GetCurrentLocation.GetBaronyNameExplicitly]において[host.GetName]と[similar_participant.GetName]を攻撃し[animal_slayer.GetFirstNamePossessive]の短剣で倒された、凶暴な[activity.Custom('GetAnimalTypeKill')]の[newly_created_artifact.Custom('ArtifactAnimalTrinketType')]である。"
  hunt_rampage_trinket_wound_desc:1 "[creator.GetCurrentLocation.GetBaronyNameExplicitly]において[host.GetName]と[similar_participant.GetName]を攻撃し、[animal_slayer.GetSheHe]に殺された際に[animal_slayer.GetFirstName]を負傷させた凶暴な[activity.Custom('GetAnimalTypeKill')]の[newly_created_artifact.Custom('ArtifactAnimalTrinketType')]である。"

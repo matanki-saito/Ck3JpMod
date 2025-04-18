@@ -1,5 +1,5 @@
 ﻿l_english:
- ep3_roman_restoration.0001.t: "ユスティニアヌスの夢"
+ ep3_roman_restoration.0001.t: "ユスティニアヌスが描きし夢"
  ep3_roman_restoration.0001.desc: "地中海の暖かな空気が、悠久の時を迎えた帝国のざわめきを運んでくる。\n\nここ[ROOT.Char.GetCapitalLocation.GetBaronyNameExplicitly]の歴史ある城壁の中で、過ぎ去った時代の野望が私を呼んでいる。ユスティニアヌスの不滅の夢——散り散りになったローマの残滓を一つにする——のための絶え間ない探求が私を手招きしているのだ。\n\nこの夢を復活させることが、私の義務かあるいは特権なのか？　 かつてユスティニアヌスが目指したように、分断された諸領土をひとつの旗の下にまとめることが？"
  ep3_roman_restoration.0001.a: "#EMP エッチェ・ロマーニ！（見よ！　ローマ人よ！）#!"
  ep3_roman_restoration.0001.a.tt: "[GetDecisionWithKey('restore_roman_empire_decision').GetName]の[decision|E]が利用可能"

@@ -667,7 +667,7 @@
  ep3_interactions_events.0021.a: "ああッ！"
  request_governorship_interaction_toast_granted: "統治権の授与"
  request_governorship_interaction_toast_candidacy: "統治権の候補指名"
- REQUEST_GOVERNORSHIP_PROPOSAL: "あなたに代わり[target.GetBaseNameNoTier]を統治する機会を頂けることが、いかに光栄で#EMP ありがたき#!ことかをお見知りおきください。"
+ REQUEST_GOVERNORSHIP_PROPOSAL: "[target.GetBaseNameNoTier]をあなたの名代として統治する機会をいただければ、どれほど光栄で、いかほどに#EMP 感謝#!することか、お伝えしたく存じます。"
  request_governorship_interaction_toast_liege: "要請が承認された"
  AI_THEME_IS_KINGDOM: "[governorship|E]は[kingdom|E]の[rank|E]である：$VALUE|=+0$"
  candidacy_request_desc: "任命スコアの請願"
