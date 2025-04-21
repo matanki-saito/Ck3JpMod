@@ -774,7 +774,7 @@
  nick_monarch_of_grim_and_grievance_masc_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の臣民は少なくとも[CharYourHerHis(CHARACTER)]の存在に敬意など少しも持ってない。"
  nick_monarch_of_grim_and_grievance:0 "不快と不平の女王"
  nick_monarch_of_grim_and_grievance_desc:0 "$nick_monarch_of_grim_and_grievance_masc_desc$"
- nick_monarch_of_dice:1 "サイコロ[CHARACTER.GetTitleAsNameNoTooltip]"
+ nick_monarch_of_dice:1 "賽の[CHARACTER.GetTitleAsNameNoTooltip]"
  nick_monarch_of_dice_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の胆力、決断力、そしてシンプルな豪運はあらゆる運試しのゲームにおいて[CharYouHerHim(CHARACTER)]を勝利に導く。"
  nick_the_naysayer:1 "反対者"
  nick_the_naysayer_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は[CHARACTER.GetFaith.HighGodName]と世界に対して[CharYouSheHe(CHARACTER)]が交わした聖約を裏切った。"
