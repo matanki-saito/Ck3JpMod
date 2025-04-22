@@ -2006,7 +2006,7 @@
  I_GAIN_STRIFE_OPINION:1 "@warning_icon!#X これは権力の濫用であり、同輩の[vassals|E]から$VALUE|-0$の[strife|E]を受けます#!"
  I_LOSE_STRIFE_OPINION: "これにより、あなたの[strife|E]が$VALUE|+0$減少します#WEAK （あなたと同等の[vassals|E]が、#EMP 最大#!$VALUE|+0$[opinion|E]獲得します）#!"
  THEY_GAIN_STRIFE_OPINION:1 "@warning_icon!#X これは権力の濫用であり、[CHARACTER.GetShortUINamePossessive]の同輩の[vassals|E]からの$VALUE|-0$の[strife|E]を受けます#!"
- THEY_LOSE_STRIFE_OPINION: "これにより、[CHARACTER.GetShortUINamePossessive]の[strife|E]が$VALUE|+0$減少します#WEAK （[CharYourHerHis(CHARACTER)]と同等の[vassals|E]が、#EMP 最大#!$VALUE|+0$[opinion|E]獲得します）#!"
+ THEY_LOSE_STRIFE_OPINION: "これにより、[CHARACTER.GetShortUINamePossessive]の[strife|E]が$VALUE|+0$減少します#WEAK （この人物と同等の[vassals|E]が、#EMP 最大#!$VALUE|+0$[opinion|E]獲得します）#!"
  I_GAINED_STRIFE_OPINION:0 "@warning_icon!#X これは権力の濫用であり、あなたの同輩の[vassals|E]から$VALUE|-0$の[strife|E]を受けます"
  I_LOST_STRIFE_OPINION:0 "[strife|E]が$VALUE|+0$減少しました。#WEAK （あなたと同等の[vassals|E]が、#EMP 最大#!$VALUE|+0$[opinion|E]獲得します）#!"
  THEY_GAINED_STRIFE_OPINION:0 "@warning_icon!#X これは権力の濫用であり、[CHARACTER.GetShortUINamePossessive]の同輩の[vassals|E]から$VALUE|-0$の[strife|E]を受けます "
