@@ -2066,7 +2066,7 @@
  nemesis_grew_over_task_scheme: "$rival_grew_over_task_scheme$"
  nemesis_grew_over_task_scheme_corresponding: "$rival_grew_over_task_scheme_corresponding$"
  rival_forced_into_scheme_scheme: "[CHARACTER.GetShortUIName|U]は、[TARGET_CHARACTER.GetShortUIName]に強制されて陰謀に加わらされたことを憎んでいる。"
- rival_forced_into_scheme_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は、[CharYouHerHim(CHARACTER)]を陰謀に加わらせたことを憎んでいる。"
+ rival_forced_into_scheme_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は、陰謀に加わらせたことを憎んでいる。"
  rival_subsumed_province: "[TARGET_CHARACTER.GetShortUIName|U]は、[CHARACTER.GetShortUINamePossessive]の統治権を掌握した。"
  rival_subsumed_province_corresponding: "[CHARACTER.GetShortUINamePossessive|U]統治権は[TARGET_CHARACTER.GetShortUIName]によって掌握された。"
  rival_raid_estate: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]邸を襲撃した。"

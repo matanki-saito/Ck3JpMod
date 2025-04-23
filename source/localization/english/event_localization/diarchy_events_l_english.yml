@@ -559,7 +559,7 @@
  vizierate_0001.reason.rival.probable_rivalry: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]は対照的な性格をしており、宮廷政治を通して二人が対立するのは時間の問題だった。"
  vizierate_0001.reason.rival.probable_rivalry_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]は対照的な性格をしており、宮廷政治を通して二人が対立するのは時間の問題だった。"
  vizierate_0001.reason.rival.victim_of_conspiracy: "[TARGET_CHARACTER.GetShortUIName|U]は、[CharYouHerHim(TARGET_CHARACTER)]に大損害を与えた宮廷での陰謀を[CHARACTER.GetShortUIName]のせいにした。"
- vizierate_0001.reason.rival.victim_of_conspiracy_corresponding: "[CHARACTER.GetShortUIName|U]は、[CharYouHerHim(CHARACTER)]に大損害を与えた宮廷での陰謀を[TARGET_CHARACTER.GetShortUIName]のせいにした。"
+ vizierate_0001.reason.rival.victim_of_conspiracy_corresponding: "[CHARACTER.GetShortUIName|U]は、大損害を与えた宮廷での陰謀を[TARGET_CHARACTER.GetShortUIName]のせいにした。"
  vizierate_0001.reason.rival.too_similar: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]はお互いよく似ている割に罵り合っている。"
  vizierate_0001.reason.rival.too_similar_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]はお互いよく似ている割に罵り合っている。"
  vizierate_0001.reason.rival.pastime_foes: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]は同じ趣味を持っているが…いがみ合いの解決にはならなそうだ。"
