@@ -715,7 +715,7 @@
  pilgrimage.6780.b.failure.desc:0 "[stolen_courtier.GetShortUIName]はあなたの申し出を拒否する"
  pilgrimage.6780.c:0 "[current_employer.GetTitledFirstNameNoTooltip]を怒らせるリスクが一人の人物では釣り合わない。"
  obligation_hook_salary:0 "給与の義務"
- obligation_hook_tt:0 "#EMP 義務#!の[hooks|E]により、[court_position|E]の俸給が#P －50％#!安くなります。"
+ obligation_hook_tt:0 "#EMP 義務#!の[hooks|E]により、[court_position|E]の俸給が[gold_i]#P -50％#!安くなります。"
  pilgrimage.6790.t:0 "[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]にて目覚めし精神"
  pilgrimage.6790.desc:0 "「[spiritual_mentor.GetSheHe|U]はこの地上で最高の[spiritual_mentor.GetWomanMan]だ。[spiritual_mentor.GetSheHe|U]は毎日聖地を見守り、徹夜のたび、[spiritual_mentor.GetSheHe]は街のすぐ外にある[spiritual_mentor.GetHerHis]のキャンプに戻り、夜が明けて月が消えるまで祈っている。」\n\n…という[spiritual_mentor.GetHerHis]の逸話を聞かされた後、私は[spiritual_mentor.GetSheHe]が休んでいる焚き火に近づく前に深呼吸をする。\n\n「あなたをずっと待っていましたよ。」私を真っ直ぐに見ながら[spiritual_mentor.GetSheHe]は言う。「そして[spiritual_mentor.GetFaith.HighGodName]も同様です。あなたは自分の[ROOT.Char.Custom('SinfulTrait')|l]という業を捨てる準備はできていますか？」"
  pilgrimage.6790.a:0 "「はい。#EMP はい。#!」"
