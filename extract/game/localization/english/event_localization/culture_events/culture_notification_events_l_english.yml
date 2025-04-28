@@ -25,7 +25,7 @@
  culture_notification.1101.desc:0 "[founder.GetTitledFirstName] has created [new_culture.GetName|V], a [divergent_culture|E] of [parent_1.GetName]"
 
  culture_notification.1111.t:0 "The [new_culture.GetNameNoTooltip] Divergence"
- culture_notification.1111.intro:0 "Small changes in dialect, slightly different customs... It was easy to miss at first. Over time small changes led to large ones, however, and now the [parent_1.GetCollectiveNoun] living in [founder.GetPrimaryTitle.GetNameNoTierNoTooltip] have begun to identify themselves as [new_culture.GetName] instead.\n\n"
+ culture_notification.1111.intro:0 "Small changes in dialect, slightly different customs... It was easy to miss at first. Over time small changes led to large ones, however, and now the [parent_1.GetCollectiveNoun] living in [founder.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] have begun to identify themselves as [new_culture.GetName] instead.\n\n"
  culture_notification.1111.ethos.bellicose:0 "Faced with mounting pressures from both the wilderness and their rivals, the [new_culture.GetCollectiveNounNoTooltip] are becoming increasing warlike as they seek to make and protect their livelihoods by force of arms."
  culture_notification.1111.ethos.bureaucratic:1 "The [new_culture.GetCollectiveNounNoTooltip] seem to be developing a growing appetite for verbose laws, long chronicles, and labyrinthine charters, taking comfort in a society run by ever-expanding formal practices."
  culture_notification.1111.ethos.courtly:1 "With an increasing devotion to manners and etiquette, the [new_culture.GetCollectiveNounNoTooltip] are embracing a structured, ceremonious way of life in order to bring about a new age of stability and prosperity."

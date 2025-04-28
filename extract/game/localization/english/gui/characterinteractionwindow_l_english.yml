@@ -15,7 +15,9 @@
  interaction_category_vassal: "[GetPlayer.Custom2('CharacterInteractionCategoryVassal', CHARACTER.Self )]"
  interaction_category_vassal_governor: "[second.Custom('GetGovernorConceptNoTooltip')]" 
  interaction_category_vassal_vassal: "Vassal"
+ interaction_category_vassal_tributary: "Tributary"
  interaction_category_vassal_liege: "Liege"
+ interaction_category_vassal_suzerain: "Suzerain"
  interaction_category_vassal_fellow_vassal: "Fellow Vassal"
  interaction_category_vassal_fellow_governor: "Fellow [second.Custom('GetGovernorConceptNoTooltip')]"
  interaction_category_vassal_courtier: "Courtier"
@@ -33,7 +35,7 @@
  
  interaction_category_uncategorized: "Uncategorized #D (DEBUG)#!"
 
- PRISON_INTERACTIONS_BUTTON_TOOLTIP: "#T Show [prison|E] Interactions#!"
+ PRISON_INTERACTIONS_BUTTON_TOOLTIP: "#T Show all [prison|E] Interactions#!"
  interaction_category_prison_filter_tag_desc: "[prison|E] Interactions"
 
  HOF_INTERACTIONS_BUTTON_TOOLTIP: "#T Show [head_of_faith|E] Interactions#!"

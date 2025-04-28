@@ -21,3 +21,10 @@
 
  ANY_REALM_COUNTY:0 "Any [realm|E] [county|E]:"
  ANY_REALM_COUNTY_COUNT:0 "$PARAMETERS$ [realm|E] [counties|E]:"
+
+ ANY_OF_CHARACTERS_RELATIONS: "Any of [CHARACTER.GetShortUINamePossessive] [relations|E]:"
+
+ ANY_SITUATION_SUB_REGION_GLOBAL: "Any [situation_sub_region|E] in [SITUATION.GetName] [situation|E]:"
+ NOT_ANY_SITUATION_SUB_REGION_GLOBAL: "No [situation_sub_regions|E] in [SITUATION.GetName] [situation|E]:"
+ ANY_SITUATION_SUB_REGION_THIRD: "$ANY_SITUATION_SUB_REGION_GLOBAL$"
+ NOT_ANY_SITUATION_SUB_REGION_THIRD: "$NOT_ANY_SITUATION_SUB_REGION_GLOBAL$"

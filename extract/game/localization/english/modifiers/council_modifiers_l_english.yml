@@ -5,6 +5,7 @@
  councillor_marshal_modifier:0 "Liege's Marshal"
  councillor_spymaster_modifier:0 "Liege's Spymaster"
  councillor_court_chaplain_modifier:0 "Liege's Court Chaplain"
+ councillor_kurultai_modifier: "Liege's Kurultai Member"
 
  task_foreign_affairs_prestige_modifier:1 "[foreign_affairs|E]"
  task_foreign_affairs_prestige_perk_bonus_modifier:0 "$adaptive_traditions_perk_name$"

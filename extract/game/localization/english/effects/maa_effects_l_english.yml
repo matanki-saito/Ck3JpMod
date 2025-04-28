@@ -5,8 +5,8 @@
  destroy_maa_regiment: "[REGIMENT.GetName] is destroyed"
  destroy_maa_regiment_first: "[REGIMENT.GetName] is destroyed"
  destroy_maa_regiment_third: "[REGIMENT.GetName] is destroyed"
- change_maa_regiment_size_global: "[REGIMENT.GetOwner.GetShortUINamePossessive|U] [REGIMENT.GetName] [regiment|E] Size increases by $VALUE|+0$"
- change_maa_regiment_size_global_neg: "[REGIMENT.GetOwner.GetShortUINamePossessive|U] [REGIMENT.GetName] [regiment|E] Size decreases by $VALUE|-0$"
+ change_maa_regiment_size_global: "[REGIMENT.GetOwner.GetShortUINamePossessive|U] [REGIMENT.GetName] [regiment|E] size increases by $VALUE|+0$"
+ change_maa_regiment_size_global_neg: "[REGIMENT.GetOwner.GetShortUINamePossessive|U] [REGIMENT.GetName] [regiment|E] size decreases by $VALUE|-0$"
 
 
  CREATE_MAA_REGIMENT: "Recruits a [men_at_arms|E] [regiment|E] of [MenAtArmsType.GetName] #EMP (Size $SIZE|V$)#!"

@@ -85,6 +85,8 @@
  co_emperorship_diarch_title: "Co-Emperor"
  co_monarchy_diarchy_type: "[co_monarchy|E]"
  co_monarchy_diarch_title: "[co_monarch|E]"
+ nomad_regency_diarchy_type: "[nomadic|E] [regency|E]"
+ nomad_regency_diarch_title: "$regency_diarch_title$"
 
  ##################################################
  # #Mandates
@@ -121,6 +123,18 @@
  mandate_aptitude.promote_authority.bonus_trait.just:0 "[GetTrait('just').GetName( ROOT.Char )] excels"
  mandate_aptitude.promote_authority.malus_trait.wrathful:0 "[GetTrait('wrathful').GetName( ROOT.Char )] is hopeless"
  mandate_aptitude.promote_authority.malus_trait.arbitrary:0 "[GetTrait('arbitrary').GetName( ROOT.Char )] is hopeless"
+
+ ranching_mandate: "Ranching"
+ ranching_mandate_desc: "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ Extra [herd|E]\n$EFFECT_LIST_BULLET$ Free [county|E] [fertility|E]\n$EFFECT_LIST_BULLET$ [vassal_contracts|E] adjusted in the [liege|E]'s favor\n\n#WEAK The [regent|E] is instructed to increase revenues for their $game_concept_liege$, at any cost.#!"
+ horde_mustering_mandate: "Horde Mustering"
+ horde_mustering_mandate_desc: "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ Beneficial [men_at_arms|E] [modifiers|E]\n$EFFECT_LIST_BULLET$ Beneficial [levy|E] $game_concept_modifiers$\n$EFFECT_LIST_BULLET$ Skilled [knights|E] [courtiers|E]\n\n#WEAK Current or future campaigns call for fresh bodies to fight, and the [liege|E] has decreed that their [regent|E] shall find them.#!"
+ promote_obedience_mandate: "Promote Obedience"
+ promote_obedience_mandate_desc: "#BOL Possible [mandate|E] Effects:#!\n$EFFECT_LIST_BULLET$ [characters|E] and [counties|E] leaving [factions|E]\n$EFFECT_LIST_BULLET$ Boosted [crown_authority|E]\n$EFFECT_LIST_BULLET$ Boosted [councillor|E] [opinion|E]\n\n#WEAK The [liege|E] calls on their [regent|E] to help build and focus the power of the throne.#!"
+ mandate_aptitude.ranching.category: "$ranching_mandate$"
+ mandate_aptitude.horde_mustering.category: "$horde_mustering_mandate$"
+ mandate_aptitude.promote_obedience.category: "$promote_obedience_mandate$"
+ mandate_aptitude.nomadic_regency.generic_score.no_nomadic_philosophy: "Lacking [GetTrait('nomadic_philosophy').GetName( ROOT.Char )]"
+ nomadic_regency_disliked: "Disapproves of Rulers in a [regency|E]"
 
  ##################################################
  # #Parameters

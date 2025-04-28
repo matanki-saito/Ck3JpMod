@@ -351,5 +351,6 @@
  fought_for_courtly_love_modifier_desc: "This character fought for love, and lost. Nevertheless, what a valiant show did they put on!"
  promise_of_feasts_modifier: "Promise of Feasts to Come"
  promise_of_feasts_modifier_desc: "This character wants to spoil their courtiers with feasts, and is loved for that. Feasts are cheaper for them."
- more_work_less_fun_modifier: "More Work Less Fun"
- more_work_less_fun_modifier_desc: "This character doesn't like their courtiers to waste time stuffing their face. Feasts are more expensive for them."
+ more_work_less_fun_modifier: "More Work, Less Fun"
+feasts_more_expensive_tt: "[GetActivityType('activity_feast').GetName] @gold_icon![gold|E] is increased#!"
+feasts_more_expensive_modifier_tt: "Increased [GetActivityType('activity_feast').GetName] @gold_icon![gold|E] cost#!"

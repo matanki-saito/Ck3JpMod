@@ -277,9 +277,9 @@
  intrigue_dread.2201.b:0 "I'll do your job myself, you fool!"
  intrigue_dread.2201.c:0 "Speak your mind freely. Your position is safe."
  intrigue_guaranteed_position_block_firing_councillor_effect_tt:0 "[yesman.GetShortUIName|U] cannot be removed from [council|E] for 5 years"
- intrigue_dread.2201.c.tt.success:0 "[yesman.GetName] trusts you enough to speak freely"
+ intrigue_dread.2201.c.tt.success:0 "[yesman.GetFirstNameNoTooltip] trusts you enough to speak freely"
  tooltip.intrigue_dread.2201.c.duel_success:0 "$intrigue_dread.2201.c.tt.success$"
- intrigue_dread.2201.c.tt.failure:0 "[yesman.GetName] thinks you're trying to trick [yesman.GetHerHim]"
+ intrigue_dread.2201.c.tt.failure:0 "[yesman.GetFirstNameNoTooltip] thinks you're trying to trick [yesman.GetHerHim]"
  tooltip.intrigue_dread.2201.c.duel_failure:0 "$intrigue_dread.2201.c.tt.failure$"
 
  intrigue_yes_man_spymaster_modifier:0 "Cowering Councilor"

@@ -15,6 +15,8 @@
  NOT_HAS_COUNTY_MODIFIER_TRIGGER: "Does not have county modifier: $MODIFIER$"
  IS_COASTAL_TRIGGER:0 "Is coastal"
  IS_COASTAL_COUNTY_TRIGGER:1 "Is coastal [county|E]"
+ is_lakeside_province_global: "[province|E] borders a lake"
+ is_lakeside_county_global: "[county|E] borders a lake"
 
  HAS_STATIONED_REGIMENT_TRIGGER:0 "Has stationed regiment"
  HAS_STATIONED_REGIMENT_OF_BASE_TYPE:0 "Has stationed regiment of type $MEN_AT_ARMS_TYPE$"
@@ -35,6 +37,7 @@
  NOT_has_province_owner_third:0 "There is #bold not#! a [holding|E] in [PROVINCE.GetBaronyNameExplicitly]"
  has_province_owner_global:0 "There is a [holding|E]"
  NOT_has_province_owner_global:0 "There is #bold not#! a [holding|E]"
+ any_neighboring_top_liege_realm_owner: "Any neighboring [independent_ruler|E]:"
 
  is_leased_out_GLOBAL: "[TITLE.GetName] is leased out"
  is_leased_out_GLOBAL_NOT: "[TITLE.GetName] is #bold not#! leased out"

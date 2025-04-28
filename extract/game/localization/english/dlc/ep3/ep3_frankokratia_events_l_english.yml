@@ -113,7 +113,7 @@ ep3_frankokratia_events.0041.c: "We expected more. But we can accept this."
 ep3_frankokratia_events.0041.c.flavor: "Christendom has still been strengthened by this enterprise. Somewhat."
 
 byzantine_empire_destroyed_tooltip: "@warning_icon! #X [claimant.GetPrimaryTitle.GetNameNoTier] will be destroyed#!"
-byz_capital_building_destroyed_tooltip: "@warning_icon! #X #high 2#! [buildings|E] will be downgraded or destroyed#!"
+byz_capital_building_destroyed_tooltip: "@warning_icon! #X #high 3#! [buildings|E] will be downgraded or destroyed#!"
 
 frankokratia_leaders_gain_despoiler_trait: "All involved Crusaders and [GetTitleByKey('e_latin_empire').GetAdjective] [rulers|E] will gain #high [GetTrait('despoiler_of_byzantium').GetName( GetNullCharacter )]#!"
 bent_before_crusaders_modifier: "Bent Before the Crusaders"
@@ -124,7 +124,7 @@ greek_opinion: "Greek [opinion|E]"
 
 ep3_frankokratia_events.0042.t: "Baptized by Fire"
 ep3_frankokratia_events.0042.desc: "We assault [claimant.GetCapitalLocation.GetTitle.GetNameNoTier]! [financier.GetPrimaryTitle.GetAdjective] marines are the first to hoist their saintly banner on the walls, while our $knight_culture_player_plural_no_tooltip_lowercase$ howl through the city gates and slaughter every defender. The Greeks set their own homes ablaze — but even this great wall of fire cannot hinder the wrath of God!\n\nFor three days, the city is looted and its citizens put to the sword."
-ep3_frankokratia_events.0042.constantinople: "The devout among us call for restraint, yet still the Church of the Holy Apostles, the Hagia Sophia, the holy sanctuaries of old... are vandalized and pillaged."
+ep3_frankokratia_events.0042.constantinople: "The devout call for restraint, yet still the Hagia Sophia and the holy sanctuaries of old are vandalized and pillaged."
 ep3_frankokratia_events.0042.desc_outro: "\n\nOur leaders will now trust no Greek to justly rule this place and support the cause of Christ: we must name our own Emperor. My vote, my choice, shall transform Christendom."
 ep3_frankokratia_events.0042.a: "I shall rule Latin and Greek alike!"
 ep3_frankokratia_events.0042.b: "[player_1.GetTitledFirstNameNoTooltip] is respected among Crusaders."

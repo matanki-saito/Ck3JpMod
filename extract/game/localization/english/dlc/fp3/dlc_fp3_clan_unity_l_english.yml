@@ -223,6 +223,7 @@
  clan_unity_become_nemesis.desc: "became the [nemesis|E] of [unity_target.GetName]"
  clan_unity_become_rival.desc: "became the [rival|E] of [unity_target.GetName]"
  clan_unity_become_best_friend.desc: "became the [best_friend|E] of [unity_target.GetName]"
+ clan_unity_become_blood_brother.desc: "became the [blood_brother|E] of [unity_target.GetName]"
  clan_unity_become_friend.desc: "became the [friend|E] of [unity_target.GetName]"
  clan_unity_become_lover.desc: "became the [lover|E] of [unity_target.GetName]"
  clan_unity_become_soulmate.desc: "became the [soulmate|E] of [unity_target.GetName]"

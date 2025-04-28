@@ -1,5 +1,6 @@
-﻿l_english: 
+﻿l_english:
  domicile_name: "[CHARACTER.GetDynastyHouseNameNoTooltip] [DOMICILE_TYPE.GetNameNoTooltip]"
+ unowned_domicile_name: "[TITLE.GetNameNoTooltip] [DOMICILE_TYPE.GetNameNoTooltip]"
  domicile_name_possessive: "[CHARACTER.GetDynastyHouseNameNoTooltip] [DOMICILE_TYPE.GetNamePossessiveNoTooltip]"
  noble_family_name: "[Select_CString( CHARACTER.GetHouse.IsValid, CHARACTER.GetHouse.GetBaseNameNoTooltip, CHARACTER.GetNameNoTooltip)] Family"
  adventurer_name: "[new_landless_adventurer.GetFirstNamePossessiveNoTooltip] Camp"
@@ -35,7 +36,7 @@
  library_estate_building: "Library"
  observatory_estate_building: "Observatory"
  scholars_office_estate_building: "Scholar's Office"
- 
+
  nearby_landless_adventurer_created_message_title: "New Adventurer"
  nearby_landless_adventurer_created_message_conquest_tt: "[new_landless_adventurer.GetShortUINamePossessive|U] [realm|E] was conquered by [adventurer_flavor_char.GetUIName]"
  nearby_landless_adventurer_created_message_deposition_tt: "[new_landless_adventurer.GetShortUIName|U] was deposed by [adventurer_flavor_char.GetUIName]"
@@ -47,7 +48,7 @@
  nearby_landless_adventurer_created_message_runaway_forbidden_tt: "[new_landless_adventurer.GetShortUIName|U] left home against [new_landless_adventurer.GetHerHis] [new_landless_adventurer.Custom2('RelationToMeShort', SCOPE.sC('adventurer_flavor_char'))], [adventurer_flavor_char.GetUINamePossessive], wishes"
  nearby_landless_adventurer_created_message_wanderer_tt: "[new_landless_adventurer.GetShortUIName|U] gathered a band of followers and became an [adventurer|E]"
  nearby_landless_adventurer_created_message_fallback_tt: "[new_landless_adventurer.GetShortUIName|U] has become an [adventurer|E]"
- 
+
  nearby_landed_ruler_created_message_title: "Adventurer Landed"
  nearby_landed_ruler_created_message_purchased_tt: "[landed.GetShortUIName|U] purchased the [landed_flavor_title.GetName] from [landed_flavor_char.GetUIName]"
  nearby_landed_ruler_created_message_negotiated_tt: "[landed.GetShortUIName|U] was granted the [landed_flavor_title.GetName] after negotiation with [landed_flavor_char.GetUIName]"

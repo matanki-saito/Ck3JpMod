@@ -48,7 +48,7 @@
  adventurer_divided_attention_perk_effect: "[adventurer_i] [followers|E] produce significantly higher-quality [artifacts|E] when completing a #high Weapon#!, #high Armor#!, or #high Smith#! [inspiration|E]"
  adventurer_learn_on_the_job_perk_effect: "[adventurer_i] [followers|E] will occasionally become [inspired|E] to write #high Books#!"
  adventurer_sanctioned_loopholes_perk_effect: "[adventurer_i] [followers|E] produce significantly higher-quality [artifacts|E] when completing #high Book#! [inspirations|E]"
- adventurer_clerical_justifications_perk_effect: "[adventurer_i] [GetActivityType('activity_pilgrimage').GetName] Cost: [gold_i]#P -50%#!"
+ adventurer_clerical_justifications_perk_effect: "[adventurer_i][nomad_i] [GetActivityType('activity_pilgrimage').GetName] Cost: [gold_i]#P -50%#!"
  adventurer_prophet_perk_effect: "[adventurer_i] Enables the #V $attempt_conversion_of_local_ruler_interaction$#! [interaction|E] with anyone whose [domain|E] your [camp|E] is located in"
  adventurer_defender_of_the_faith_perk_effect: "[adventurer_i] Removes the Acceptance Penalty from the target not being [GetTrait('cynical').GetName( GetNullCharacter )] when using the #V $attempt_conversion_of_local_ruler_interaction$#! [interaction|E]"
  adventurer_defender_of_the_faith_perk_2_effect: "[adventurer_i] Doubles Acceptance from your [learning_i][learning|E] when using the #V $attempt_conversion_of_local_ruler_interaction$#! [interaction|E]\n#weak (presuming your Learning is higher)#!"

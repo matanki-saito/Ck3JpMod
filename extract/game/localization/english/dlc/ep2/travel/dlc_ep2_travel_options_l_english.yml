@@ -62,9 +62,9 @@
  military_recruits_option.desc:0 "Your most unskilled knights have been added to your entourage because you chose the $military_recruits_option$ travel option."
  travel_events.0060.notification.a:0 "Knight's Trait Improved: [selected_knight.GetShortUIName]"
  travel_events.0060.notification_desc:0 "[selected_knight.GetShortUINamePossessive] skill increase resulted from experience gained while traveling in your entourage.#"
- travel_events.0060.notification.b:0 "Knight Significantly #EMP Improved#!: [selected_knight.GetShortUIName]"
- travel_events.0060.notification.c:0 "Knight Improved: [selected_knight.GetShortUIName]"
- travel_events.0060.notification.d:0 "Knight Gained Glory: [selected_knight.GetShortUIName]"
+ travel_events.0060.notification.b:0 "Knight #EMP Greatly Improved#!"
+ travel_events.0060.notification.c:0 "Knight Improved"
+ travel_events.0060.notification.d:0 "Knight Gained Glory"
 
  superior_armaments_option:0 "Superior Armaments"
  superior_armaments_option_desc:0 "Your superior blacksmiths outfit your entourage with the finest equipment and preparations for the journey."

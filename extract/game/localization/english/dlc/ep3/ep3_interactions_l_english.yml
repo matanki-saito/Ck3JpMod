@@ -683,10 +683,10 @@
  HIGHLIGHTED_DEMAND_GOVERNOR_REMOVAL_HEIR: "#EMP A [actor.GetHouse.GetBaseName] [house|E] member is next in [line|E] for at least one of [secondary_recipient.GetShortUINamePossessiveNoTooltip] [governorships|E]#!"
  HIGHLIGHTED_FORCE_STEP_DOWN_HEIR: "#EMP A [actor.GetHouse.GetBaseName] [house|E] member is next in [line|E] for at least one of [recipient.GetShortUINamePossessiveNoTooltip] [governorships|E]#!"
  THEIR_HOUSE_MEMBER_STANDS_TO_INHERIT: "[recipient.GetShortUINamePossessiveNoTooltip] [house|E] member in [line|E]: $VALUE|=+0$"
- THEY_ARE_MY_COUNCILLOR: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [councillor|E]: $VALUE|=+0$"
- THEY_ARE_MY_SPOUSE: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [spouse|E]: $VALUE|=+0$"
- THEY_ARE_MY_FRIEND: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [friend|E]: $VALUE|=+0$"
- THEY_ARE_MY_RIVAL: "[secondary_recipient.GetShortUINamePossessiveNoTooltip] is [recipient.GetHerHis] [rival|E]: $VALUE|=+0$"
+ THEY_ARE_MY_COUNCILLOR: "[secondary_recipient.GetShortUINameNoTooltip] is [recipient.GetHerHis] [councillor|E]: $VALUE|=+0$"
+ THEY_ARE_MY_SPOUSE: "[secondary_recipient.GetShortUINameNoTooltip] is [recipient.GetHerHis] [spouse|E]: $VALUE|=+0$"
+ THEY_ARE_MY_FRIEND: "[secondary_recipient.GetShortUINameNoTooltip] is [recipient.GetHerHis] [friend|E]: $VALUE|=+0$"
+ THEY_ARE_MY_RIVAL: "[secondary_recipient.GetShortUINameNoTooltip] is [recipient.GetHerHis] [rival|E]: $VALUE|=+0$"
  DEMAND_GOVERNOR_REMOVAL_NOTIFICATION_TEXT: "[secondary_recipient.GetFirstNamePossessive] tenure as [secondary_recipient.GetTitleAsNameNoTooltip] of [secondary_recipient.GetPrimaryTitle.GetNameNoTier] has run its course; for the good of the [recipient.GetPrimaryTitle.GetTierAsNameNoTooltip], [secondary_recipient.GetSheHe] #EMP must#! be made to make way for better [recipient.GetWomenMen]."
  DEMAND_GOVERNOR_REMOVAL_INTERMEDIARY_NOTIFICATION_TEXT: "Many feel that [secondary_recipient.GetFirstNamePossessive] tenure as [secondary_recipient.GetTitleAsNameNoTooltip] of [secondary_recipient.GetPrimaryTitle.GetNameNoTier] has run its course; for the good of the [recipient.GetPrimaryTitle.GetTierAsNameNoTooltip], [secondary_recipient.GetSheHe] #EMP must#! be made to make way for better [recipient.GetWomenMen]."
  force_governor_removal_interaction_aibehavior_power_tt: "[governor|E] vs. [liege|E] Military Strength: $VALUE|=+0$ #weak (max +20)#!"
@@ -812,7 +812,7 @@
  REQUEST_DUCHY_INFLUENCE_WAR_PROPOSAL: "I have a vested interest in seeing our great [actor.GetTopLiege.GetPrimaryTitle.GetTierAsNameNoTooltip] expand. [secondary_recipient.GetTitledFirstNamePossessive] lands are #EMP ripe#! for the taking. It would be a great service to [actor.GetTopLiege.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] were you to claim [target.GetNameNoTier] for your [actor.GetTopLiege.GetTitleAsNameNoTooltip]..."
  RECIPIENT_WEAK: "[recipient.GetShortUIName] is significantly weaker than [secondary_recipient.GetShortUIName]: $VALUE|=+0$"
  RECIPIENT_TOO_WEAK: "[recipient.GetShortUIName] is #EMP far#! weaker than [secondary_recipient.GetShortUIName]: $VALUE|=+0$"
- admin_theme_type_trigger: "[recipient.GetShortUIName|U] must have the [GetVassalContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )] or [GetVassalContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_naval' )] [theme_administration|E] Types"
+ admin_theme_type_trigger: "[recipient.GetShortUIName|U] must have the [GetSubjectContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )] or [GetSubjectContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_naval' )] [theme_administration|E] Types"
  admin_vassal_war_no_target_desc: "No valid target within range"
 
  # Request Raid Remit

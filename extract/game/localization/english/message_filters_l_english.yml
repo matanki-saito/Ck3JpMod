@@ -155,7 +155,7 @@
  message_filter_domicile_moved: "@government_type_adventurer! Domicile Moves"
  message_filter_domicile_moved_desc: "Your [domicile|E] moves to another [barony|E]"
  # LEGITIMACY
- message_filter_legitimacy_change: "@legitimacy_icon! Legitimacy"
+ message_filter_legitimacy_change: "[GetLocalPlayerLegitimacyTextIcon] Legitimacy"
  message_filter_legitimacy_change_desc: "Your [legitimacy|E] changes"
  # VASSAL
  message_filter_independence_gained: "@independence_icon! Independence Gained"
@@ -305,8 +305,30 @@
  message_filter_laamp_nearby_desc: "An [adventurer|E] appears or is [landed|E] nearby"
  message_filter_laamp_contracts: "@task_contract_icon! Contract Issued"
  message_filter_laamp_contracts_desc: "A new [task_contract|E] appears"
- message_filter_laamp_follower_event: "@followers_icon! Life at [camp|E]"
+ message_filter_laamp_follower_event: "@followers_icon! Life at Camp"
  message_filter_laamp_follower_event_desc: "Something of note happens to one of your [followers|E]."
+ # MPO
+ message_filter_migration_into_realm: "@government_type_nomad! Migration into your Realm"
+ message_filter_migration_into_realm_desc: "A [nomad|E] [migrates|E] into your [realm|E], or your [suzerain_possessive|E] Realm"
+ message_filter_migration_into_neighbour: "@government_type_nomad! Migration into a Neighboring Realm"
+ message_filter_migration_into_neighbour_desc: "A [nomad|E] [migrates|E] into a neighboring [realm|E]"
+ message_filter_tributaries_breaking_free: "@government_type_nomad! Tributaries Breaking Free"
+ message_filter_tributaries_breaking_free_desc: "[tributaries|E] cease paying tribute to a [nomad|E] [ruler|E]"
+ message_filter_yurt_yearly_benefits: "@government_type_nomad! Yurt [domicile|E] Yearly Effect"
+ message_filter_yurt_yearly_benefits_desc: "One of yearly [domicile_buildings|E] effects has been triggered"
+ message_filter_mpo_de_jure_shifting: "@government_type_nomad! Nomadic De Jure Shifts"
+ message_filter_mpo_de_jure_shifting_desc: "Your [de_jure|E] shifts due to having a [title|E] fully within your [realm|E] or [tributaries|E]"
+ message_filter_gok_gained_vassal: "@government_type_nomad! Offer Submission or Ruin Acceptance"
+ message_filter_gok_gained_vassal_desc: "The Greatest of Khans gains a new [vassal|E] through acceptance of the $mpo_offer_submission_or_ruin$ [interaction|E]"
+ message_filter_war_target_tributary: "@tributary_icon! War Targets Tributary"
+ message_filter_war_target_tributary_desc: "A [war|E] is declared against your [tributary|E]"
+ message_filter_war_target_suzerain: "@tributary_icon! War Targets Suzerain"
+ message_filter_war_target_suzerain_desc: "A [war|E] is declared against your [suzerain|E]"
+ message_filter_tributary_war: "@tributary_icon! Tributary Broken due to War"
+ message_filter_tributary_war_desc: "Your [tributary|E] breaks free due to a [war|E]"
+ message_filter_raid_intent_invalidated: "@raid_icon! Raid Intent Invalidated"
+ message_filter_raid_intent_invalidated_desc: "Your [raid_intent|E] invalidates"
+ 
  # ADMIN
  message_filter_governance_contracts: "@catch_all_icon!Governance Issue Appears"
  message_filter_governance_contracts_desc: "A [governance_issue|E] appears within the land you govern"
@@ -324,6 +346,9 @@
  message_filter_provincial_army_assignment_desc: "[provincial|E] [army|E] assignments"
  message_filter_admin_provincial_army_requests: "@soldier_icon! Request Provincial Army"
  message_filter_admin_provincial_army_requests_desc: "The request for a Provincial Army is approved or denied"
+ # SITUATIONS
+ message_filter_great_steppe: "@banner_icon! The Great Steppe"
+ message_filter_great_steppe_desc: "Changes and developments pertaining to [the_great_steppe|E]"
  # REQUIRED
  message_filter_event_outcome: "@catch_all_icon! Event Outcomes"
  message_filter_event_outcome_desc: "Outcomes of events received and actions taken"

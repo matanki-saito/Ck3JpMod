@@ -68,3 +68,11 @@
  not_has_domicile_temperament_low_third: "[domicile|E] is #bold not#! a $domicile_temperament_low$"
  has_domicile_temperament_low_global: "The $has_domicile_temperament_low_third$"
  not_has_domicile_temperament_low_global: "The $not_has_domicile_temperament_low_third$"
+
+ herd_third: "[DOMICILE.GetName] has $COMPARATOR$ $NUM|V0$ [herd|E]"
+ not_herd_third: "[DOMICILE.GetName] does #bold not#! have $COMPARATOR$ $NUM|V0$ [herd|E]"
+ herd_global: "The [DOMICILE.GetName] has $COMPARATOR$ $NUM|V0$ [herd|E]"
+ not_herd_global: "The [DOMICILE.GetName] does #bold not#! have $COMPARATOR$ $NUM|V0$ [herd|E]"
+ 
+ max_herd_third: "$max_herd_global$"
+ max_herd_global: "The [herd|E] limit of [DOMICILE.GetName] is $COMPARATOR$ $NUM|V0$"

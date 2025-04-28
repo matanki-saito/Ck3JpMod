@@ -113,6 +113,7 @@
  bp2_yearly.2019.desc.spymaster_unlanded: "the placement of some key agents across the realm.""
  bp2_yearly.2019.desc.chancellor: "our relations with neighboring realms.""
  bp2_yearly.2019.desc.chancellor_unlanded: "our relations with neighboring houses.""
+ bp2_yearly.2019.desc.kurultai: "our herd well-being.""
  bp2_yearly.2019.desc.outro: "\n\n"Of course!" I respond. "Come along, [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]. I would hear your thoughts on these matters."\n\n"B-but, my [ROOT.Char.GetLadyLord]," [target_councilor.GetFirstNameNoTooltip] frowns, "There isn't a soul here but the two of us...""
  bp2_yearly.2019.a: "Why, of course there is! [ROOT.Char.Custom('GetSheHeOpposite')|U] is my most trusted advisor!"
  bp2_yearly.2019.a.tt: "You embrace your relationship with [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"

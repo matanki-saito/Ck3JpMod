@@ -9,6 +9,9 @@
 
  woo_attendee_intent:0 "Seduce"
  woo_attendee_intent_desc:0 "You have one and only one thing in mind: seducing your target. This often leads to special events and options to fullfil that desire."
+ 
+ impose_obedience_intent: "Impose Obedience"
+ impose_obedience_intent_desc: "A show of force is the only thing on your mind. This often leads to opportunities to gain your target's [obedience|E]."
 
  befriend_attendee_intent:0 "Befriend"
  befriend_attendee_intent_desc:0 "You are set to gain your target's favor. This often leads to friendly events and options."
@@ -29,6 +32,8 @@
  recruit_knights_intent:0 "Recruit"
  recruit_knights_intent_desc:0 "You seek to improve your court with new and powerful [knights|E]. This often leads to recruiting opportunities."
  # TOOLTIPS
+ intent_obedience_success_tt: "[THIS.Char.GetIntentTarget.GetShortUIName] became [obedient|E] to you, completing your [intent|E]"
+ intent_obedience_fail_tt: "You failed to make [THIS.Char.GetIntentTarget.GetShortUIName] [obedient|E], object of your [intent|E]"
  intent_murder_success_tt:1 "You killed [THIS.Char.GetIntentTarget.GetShortUIName], object of your Murder [intent|E]"
  intent_murder_dead_tt:1 "[THIS.Char.GetIntentTarget.GetShortUIName], object of your Murder [intent|E] target, died"
  intent_murder_fail_tt:1 "You failed to kill [THIS.Char.GetIntentTarget.GetShortUIName], object of your Murder [intent|E]"

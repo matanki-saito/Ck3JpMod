@@ -191,3 +191,17 @@
  tooltip_feudal_elector_player_opt_out_33_percent: "Huge Vassal does not wish election: $VALUE|=+0$"
  tooltip_feudal_elector_player_opt_out_25_percent: "Large Vassal does not wish election: $VALUE|=+0$"
  tooltip_feudal_elector_player_opt_out_minor_realm: "[candidate.GetFirstNameNoTooltip] does not wish election: $VALUE|=+0$"
+
+ #Confederation Elective
+tooltip_confederation_elective_vassals: "Non-Voting [count|E] [vassals|E]: $VALUE|=+0$"
+tooltip_confederation_elective_prestige_levels: "[prestige_level|E]: $VALUE|=+0$"
+tooltip_confederation_elective_piety_levels: "[piety_level|E]: $VALUE|=+0$"
+tooltip_confederation_elector_culture_tt: "[candidate.GetSheHe|U] does not belong to the [confederation|E] [culture|E]: $VALUE|=+0$"
+tooltip_confederation_elector_their_turn_tt: "[house|E] [candidate.GetHouse.GetName] does not rule: $VALUE|=+0$"
+tooltip_confederation_too_young_tt: "[candidate.GetSheHe|U] isn't even a youth: $VALUE|=+0$"
+
+tooltip_confederation_terrible_prowess_tt: "A shamefully inept fighter: $VALUE|=+0$"
+tooltip_confederation_bad_prowess_tt: "A poor fighter: $VALUE|=+0$"
+tooltip_confederation_good_prowess_tt: "A very able fighter: $VALUE|=+0$"
+tooltip_confederation_great_prowess_tt: "A skilled fighter: $VALUE|=+0$"
+tooltip_confederation_amazing_prowess_tt: "A formidable fighter: $VALUE|=+0$"

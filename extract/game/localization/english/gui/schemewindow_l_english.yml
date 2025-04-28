@@ -291,6 +291,7 @@
  SCHEME_WITH_DE_JURE_TITLE: "I get a [title|E]: $VALUE|+0=$"
  SCHEME_WITH_CLAIMED_TITLE: "I get a [title|E]: $VALUE|+0=$"
  SCHEME_WITH_PIETY: "I get [piety_i][piety|E]: $VALUE|+0=$"
+ SCHEME_WITH_HERD: "I get [herd_i][herd|E]: $VALUE|+0=$"
  SCHEME_TARGET_LEARNING_MODIFIER:0 "Teacher's [learning|E]: $VALUE|+0=$"
  SCHEME_LEARNING_MODIFIER:0 "Your [learning|E]: $VALUE|+0=$"
  SCHEME_PIETY_LEVEL_MODIFIER:0 "Your [piety_level|E]: $VALUE|+0=$"

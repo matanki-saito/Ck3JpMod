@@ -74,3 +74,5 @@
  rich_presence_admin_scheming: "Is conspiring in [ROOT.Char.GetLiege.GetPrimaryTitle.GetDefinitiveNameNoTooltip] as"
  rich_presence_landless_camp: "Is camping in [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetDefinitiveNameNoTooltip] as"
  rich_presence_landless_travel: "Landless and wandering through [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetDefinitiveNameNoTooltip] as"
+ rich_presence_nomad: "Ruling Nomadic [ROOT.Char.GetDomicile.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetDomicile.GetCulture.GetCollectiveNounNoTooltip] as"
+ rich_presence_world_conquest: "Conquering the World as"

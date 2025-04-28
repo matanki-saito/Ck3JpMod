@@ -80,6 +80,7 @@
  ACCOLADE_TYPE_REQUIREMENTS:0 "#S Attribute Requirements#!"
  OPINION_ACTIVE_ACCLAIMED_KNIGHT:0 "Active [acclaimed_knight|E]"
  COMBAT_ACCLAIMED_TERRAIN_MOD:0 "[acclaimed_knights|E] $COMBAT_MAA_TERRAIN_MOD$"
+ COMBAT_ACCLAIMED_HOLDING_MOD: "[acclaimed_knights|E] $COMBAT_MAA_HOLDING_MOD$"
  REGIMENT_ACCLAIMED_STAT_ENTRY_ADD:0 "From [acclaimed_knights|E]: $VALUE|+=0$"
  REGIMENT_ACCLAIMED_STAT_ENTRY_MULT:0 "From [acclaimed_knights|E]: $VALUE|+=%0$"
  ACCLAIMED_KNIGHTS_IN_ARMY:0 "[acclaimed_knights|E] in Army"

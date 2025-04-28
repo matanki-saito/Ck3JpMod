@@ -139,7 +139,9 @@
  LOADING_TIP_137:0 "#T $game_concept_economical_archetype$#!\n\n$game_concept_economical_archetype_desc$"
  LOADING_TIP_138: "#T $game_concept_hostage$#!\n\n$game_concept_hostage_desc$"
  LOADING_TIP_139: "#T $game_concept_epidemic$#!\n\n$game_concept_epidemic_desc$"
- LOADING_TIP_140: "#T $game_concept_legitimacy$#!\n\n$game_concept_legitimacy_desc$" 
+ LOADING_TIP_140: "#T $game_concept_legitimacy$#!\n\n$game_concept_legitimacy_desc$"
+ LOADING_TIP_141: "#T $game_concept_confederation$#!\n\n$game_concept_confederation_desc$"
+ LOADING_TIP_142: "#T $game_concept_tributary$#!\n\n$game_concept_tributary_desc$"
  
  #LOADING_TIP_0:0 "Right-Click on Character Portraits to interact with them!"
  #LOADING_TIP_1:0 "You can hover over icons and highlighted text in Tooltips for even more information!"

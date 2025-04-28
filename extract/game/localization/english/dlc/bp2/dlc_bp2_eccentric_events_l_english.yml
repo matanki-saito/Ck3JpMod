@@ -89,7 +89,7 @@
  bp2_yearly.8022.b: ""Guards!""
  bp2_yearly.8022.c: ""Yeah, we should play again!""
  bp2_yearly.8030.t: "A Lonely Doll"
- bp2_yearly.8030.desc: "Flame and screams surround me in [ROOT.Char.GetCurrentLocation.GetName] as my army plunders for valuable goods and prisoners. The acrid stench of burning flesh fills the air, and I feel a beautiful cocktail of blood and dirt drying on my face.\n\nBut then I see among the wreckage, a small doll cast aside in the dirt. I feel compelled to look at it. Its small button eyes and hand-stitched smile remind me of the innocence waiting for me back home. Even caked in mud, its soft hair feels so delicate in my hand, and I can't help but think that this would make a perfect gift for one of the children at court."
+ bp2_yearly.8030.desc: "Flame and screams surround me in [ROOT.Char.GetCurrentLocation.GetName] as my army plunders for valuable goods and prisoners. The acrid stench of burning flesh fills the air.\n\nAmong the wreckage, a small doll lies cast aside. Its small button eyes and hand-stitched smile remind me of the innocence waiting for me back home. \n\nEven caked in mud, its soft hair feels so delicate in my hand. I can't help but think it would make a perfect gift for one of the children at court."
  bp2_yearly.8030.a: "[child_1.GetFirstNameNoTooltip] would love this!"
  bp2_yearly.8030.b: "This doll reminds me so much of [child_2.GetFirstNameNoTooltip]."
  bp2_yearly.8020.a.win: "You win!"

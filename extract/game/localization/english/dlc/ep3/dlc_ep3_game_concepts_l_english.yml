@@ -224,7 +224,7 @@
  game_concept_governor_efficiency_desc: "$game_concept_governor_efficiency$ is a measurement of how good a [governor|E] is at their job, and how well they manage the [holdings|E] they are assigned to.\n\nThe Efficiency affects how much [taxes|E] and [levies|E] a $game_concept_holding$ provides, and the effectiveness of [title_men_at_arms|E].\n\nA character's $game_concept_governor_efficiency$ is mainly decided by their [skills|E] and the [GetTrait('governor').GetName( GetNullCharacter )] [trait|E]."
  
  game_concept_province_administration: "Province Administration"
- game_concept_province_administration_desc: "Each [province|E] of an [administrative|E] [realm|E] has a $game_concept_province_administration$, which may be set by the [liege|E] and [governor|E] to specialize the Province.\n\nFor example, [GetVassalContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )|V] may be used to fortify a border Province against hostile [raids|E] and [sieges|E].\n\nOnly one $game_concept_province_administration$ may be active per Province."
+ game_concept_province_administration_desc: "Each [province|E] of an [administrative|E] [realm|E] has a $game_concept_province_administration$, which may be set by the [liege|E] and [governor|E] to specialize the Province.\n\nFor example, [GetSubjectContractType( 'administrative_themes' ).GetObligationName( 'admin_theme_frontier' )|V] may be used to fortify a border Province against hostile [raids|E] and [sieges|E].\n\nOnly one $game_concept_province_administration$ may be active per Province."
  game_concept_province_administrations: "Province Administrations"
  game_concept_theme_administration: "Theme Administration"
  game_concept_theme_administrations: "Theme Administrations"
@@ -275,7 +275,7 @@
 
  game_concept_reinforce_soldiers: "Manually Reinforce"
  game_concept_reinforcements: "Reinforcements"
- game_concept_reinforce_soldiers_desc: "[adventurers|E] may recruit [men_at_arms|E], but they do not reinforce automatically as [landed|E] [rulerpossessive|E] do. Instead, recruits must be enticed using interactions."
+ game_concept_reinforce_soldiers_desc: "[adventurers|E] and [nomads|E] may recruit [men_at_arms|E], but they do not reinforce automatically as [landed|E] [rulerpossessive|E] do. Instead, recruits must be enticed using interactions."
  game_concept_adventurer_siege_replenishment: "Siege Replenishment"
  game_concept_adventurer_siege_replenishment_desc: "When an [adventurer|E] successfully [sieges|E] a [holding|E], a portion of their [men_at_arms|E] will be replenished.\n\nAll Men-at-Arms [regiments|E] in the [army|E] will be replenished by #V x2#! times the Holding's [raid_loot|E] value.\n\n#weak The increase is made up of new recruits, the press-ganging of locals, and simply paying those who wandered off during the siege.#!"
 

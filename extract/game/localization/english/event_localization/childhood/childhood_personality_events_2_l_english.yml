@@ -55,7 +55,7 @@
  child_personality.7021.change.craven:0 "You should have run away, child!"
  
  child_personality.7030.t:0 "Alone in the Kitchen"
- child_personality.7030.desc:0 "Finally, I have the kitchen #EMP all#! to myself!\n\nI've convinced the cook, [cook.GetFirstName], that I'm going to clean the pots. With that promise made, [cook.GetSheHe] has left to get a [ROOT.Char.Custom('GetLivestockFowlIndef')] for tonight's dinner – leaving the cookery #EMP delectably#! unguarded.\n\nThere's honey and [child.Custom('FavoriteTreatDemand')] and jam and [child.Custom('GetExpensiveDessert')] and apples and... and... #EMP AND I CAN'T TAKE IT ANYMORE!#!\n\nIt is time to..."
+ child_personality.7030.desc:0 "Finally, I have the kitchen #EMP all#! to myself!\n\nI've convinced the cook, [cook.GetFirstName], that I'm going to clean the pots. With that promise made, [cook.GetSheHe] has left to get [ROOT.Char.Custom('GetLivestockFowlIndef')] for tonight's dinner – leaving the cookery #EMP delectably#! unguarded.\n\nThere's honey and [child.Custom('FavoriteTreatDemand')] and jam and [child.Custom('GetExpensiveDessert')] and apples and... and... #EMP AND I CAN'T TAKE IT ANYMORE!#!\n\nIt is time to..."
  child_personality.7030.a:0 "...eat a bit of everything, then nap on a flour sack!"
  child_personality.7030.b:0 "...eat as much as I can fit, I'll not leave a crumb!"
  child_personality.7030.c:0 "...clean the pots, of course!"

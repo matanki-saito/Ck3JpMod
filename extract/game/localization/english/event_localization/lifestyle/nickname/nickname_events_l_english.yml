@@ -7,7 +7,7 @@
  lifestyle_nicknames.0001.d:0 "On second thought, never mind."
  lifestyle_nicknames.0001.tt:0 "You decide to let your actions — rather than an [epithet|E] — do the talking."
  
- lifestyle_nicknames.0002.desc:0 ""Thy will be done, my liege!" My [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames_second','lifestyle_nicknames_steward')] cries out as [my_steward.GetSheHe] leaves my [ROOT.Char.Custom('GetChamberPlural')].\n\nI get up from the chair and walk out onto the [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames.0002.laamp','lifestyle_nicknames.0002.landed')] What do I want them to remember me by?"
+ lifestyle_nicknames.0002.desc:0 ""Thy will be done, my [ROOT.Char.Custom('GetCourtOwner')]!" My [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames_second',SelectLocalization(IsNomad(ROOT.Char),'lifestyle_nicknames_kurultai','lifestyle_nicknames_steward'))] cries out as [my_steward.GetSheHe] leaves my [ROOT.Char.Custom('GetChamberPlural')].\n\nI get up from the chair and walk out onto the [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames.0002.laamp',SelectLocalization(IsNomad(ROOT.Char),'lifestyle_nicknames.0002.laamp','lifestyle_nicknames.0002.landed'))] What do I want them to remember me by?"
  lifestyle_nicknames.0002.landed: "balcony. Below I see thousands, all people brought to prosperity under my rule."
  lifestyle_nicknames.0002.laamp: "camp center. Around me I see hundreds, all people brought to prosperity under my banner."
  lifestyle_nicknames.0002.a:0 "I would like to be remembered for my generosity."
@@ -39,10 +39,11 @@
  lifestyle_nicknames.0005.d:0 "..."
  lifestyle_nicknames.0005.tt:0 "You sit back: your strategies, your sword, will eventually carve a worthy [cognomen|E]."
  
- lifestyle_nicknames.0006.desc:0 "I look over the battle plans laid out in front of me and take one of the wooden soldiers in hand. As a child I played with them in my chambers, and now I use those same toys for warfare.\n\n"[ROOT.Char.GetTitledFirstName]?" — my [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames_second','lifestyle_nicknames_marshal')] enters the tent — "The commanders would like to speak with you. How would you like to be introduced?"\n\n[my_marshal.GetSheHe|U] is right in his implication, the [ROOT.Char.Custom('WomenMenPeople_GenderPreference')] ought to know they fight under someone larger than life."
+ lifestyle_nicknames.0006.desc:0 "I look over the battle plans laid out in front of me and take one of the wooden soldiers in hand. As a child I played with them in my chambers, and now I use those same toys for warfare.\n\n"[ROOT.Char.GetTitledFirstName]?" — my [SelectLocalization(IsLandlessAdventurer(ROOT.Char),'lifestyle_nicknames_second',SelectLocalization(IsNomad(ROOT.Char),'lifestyle_nicknames_kurultai','lifestyle_nicknames_marshal'))]  enters the tent — "The commanders would like to speak with you. How would you like to be introduced?"\n\n[my_marshal.GetSheHe|U] is right in his implication, the [ROOT.Char.Custom('WomenMenPeople_GenderPreference')] ought to know they fight under someone larger than life."
  lifestyle_nicknames_second: "[GetCourtPositionType('second_camp_officer').GetNameNoTooltip]"
  lifestyle_nicknames_marshal: "[GetPlayer.GetCouncillorPosition( 'councillor_marshal' ).GetPositionName]"
  lifestyle_nicknames_steward: "[GetPlayer.GetCouncillorPosition( 'councillor_steward' ).GetPositionName]"
+ lifestyle_nicknames_kurultai: "[GetPlayer.GetCouncillorPosition( 'councillor_kurultai_1' ).GetPositionName]"
  lifestyle_nicknames.0006.a:0 "I'd like them to know me for my strategic mind."
  lifestyle_nicknames.0006.b:0 "They shall know me by my resolve."
  lifestyle_nicknames.0006.c:0 "Valiance and courage led me here..."

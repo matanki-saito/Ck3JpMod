@@ -89,6 +89,7 @@
  Norse:0 "Norse"
  byzantine: "Byzantine"
  iranian: "$e_persia_adj$"
+ nomad: "$nomad_government$"
  SETTING_HUD_SKIN_TOOLTIP:0 "#T $SETTING_HUD_SKIN$#!\nSets visual theme of the HUD interface - 2D UI shown on the main game screen.\n\nIf $hud_skin_auto$ is selected, HUD will change depending on culture, faith and realm capital of the player."
  SETTING_RICH_PRESENCE:0 "Rich Presence"
  SETTING_RICH_PRESENCE_TOOLTIP:0 "#T $SETTING_RICH_PRESENCE$#!\nShow information about your current play session to your friends if your platform supports it."
@@ -107,4 +108,6 @@
  SETTING_SHOW_LEGEND_MAP_GRAPHICS_TOOLTIP: "#T $SETTING_SHOW_LEGEND_MAP_GRAPHICS$#!\nSets if legend effects should be shown on the map"
  SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED: "Paper Map Lighting"
  SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED_TOOLTIP: "#T $SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED$#!\nSets if the paper map should receive lighting and shadows from the map table. (disable this to get the classic paper map coloring)"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON: "Detailed [raid|e] icons"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON_TOOLTIP: "#T $SETTING_SHOW_DETAILED_RAID_MAP_ICON$#!\nSets if the [raid|e] map icons should display the simplified or detailed icons\n\n#I If enabled, hold Alt to display all holdings with loot you can [raid|e].#!"
  

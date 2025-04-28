@@ -3,11 +3,13 @@
 #Generic start (no activity)
  travel_start_event.1000.t_murder:0 "A Gruesome Start"
  travel_start_event.1000.t_sick:0 "A Tentative Start"
+ travel_start_event.1000.t_migrating: "Towards Greener Pastures"
  travel_start_event.1000.t:0 "A Fresh Start"
  travel_start_event.1000.intro_activity:1 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))] [host.GetTitledFirstName] is hosting a [ROOT.Char.GetInvolvedActivity.GetShortName] in [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] and time has come for us to depart."
  travel_start_event.1000.intro_my_activity:1 "I will be hosting a [ROOT.Char.GetInvolvedActivity.GetShortName] in [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] and time has come for us to depart."
  travel_start_event.1000.desc_sick:0 "I am well aware that getting out on the road in my condition, illness is to be considered an additional risk on top of the regular danger that comes with travel. However, even in my unsavory state the show must go on.\n\nLet us head out towards [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] and may [ROOT.Char.GetFaith.HighGodName] watch over our travels."
  travel_start_event.1000.desc:0 "All packed and proper, we have finally come to the point where we can start our journey from [ROOT.Char.GetCurrentLocation.GetName] to our next destination at [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName].\n\nAs we depart from the holding and our mounts start treading new ground, I am certain we will return soon and in one piece."
+ travel_start_event.1000.desc_migrating: "The whole camp sounds like a roaring waterfall: kids running around, animals protesting and grunting, adults finishing the packing up.\n\nDozens and dozens of memories untidily organized in bundles and cranes.\n\nI take a last look at [ROOT.Char.GetCurrentLocation.GetName] while I tap my horse on the side. I can only hope [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] is as nice to us as this place was."
 
  travel_start_event.1010.tt.tournament.every_knight:2 "As you are attending a [GetActivityType( 'activity_tournament' ).GetName], every available [unlanded|E] [knight|E] you have will accompany you to compete"
  travel_start_event.1000.a:0 "I can't wait!"

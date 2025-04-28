@@ -30,6 +30,7 @@
  province_desc_wedding_palace:0 "\n#P + $building_leisure_palace_01$#!\n#weak This will lead to an increased [dynasty_prestige_i] [dynasty_prestige|E] gain and [stress_loss_i][stress|E] loss.#!"
  province_desc_wedding_palace_2:0 "\n#P ++ $building_leisure_palace_02$#!\n#weak This will lead to an increased [dynasty_prestige_i] [dynasty_prestige|E] gain and [stress_loss_i][stress|E] loss.#!"
  province_desc_wedding_palace_3:0 "\n#P +++ $building_leisure_palace_03$#!\n#weak This will lead to an increased [dynasty_prestige_i] [dynasty_prestige|E] gain and [stress_loss_i][stress|E] loss.#!"
+ province_desc_wedding_pleasure_dome:0 "\n#P +++ $building_leisure_palace_03$#!\n#weak This will lead to an increased [dynasty_prestige_i] [dynasty_prestige|E] gain and [stress_loss_i][stress|E] loss.#!"
  province_desc_wedding_holy_site:0 "\n#P + It's a Holy Site of your Faith#!\n#weak This will lead to a [piety_i] [piety|E] gain.#!"
  every_cruel_vassal:0 "Every cruel vassal"
  wedding_every_other_vassal:0 "Every other vassal"

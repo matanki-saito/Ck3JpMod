@@ -79,7 +79,7 @@
  dejure_liege_title_destroyed:0 "Destroyed De Jure Liege Title"
  destroyed_title:0 "Destroyed Liege Title"
  usurped_title:0 "Usurped My Title"
- tried_to_usurped_title:0 "Tried to Usurped My Title"
+ tried_to_usurped_title:0 "Tried to Usurp My Title"
  respect_opinion:0 "Respect"
  disrespect_opinion: "Disrespect"
  refusal_opinion:0 "Refusal"
@@ -379,3 +379,8 @@
  requested_influence_opinion: "Requested Influence Support"
  unjust_patriarch_opinion: "Unjust Patriarch"
  respected_camp_leader_opinion: "Respected Camp Leader"
+ destroyed_confederation_opinion: "Ended our Confederation"
+ disapproval_opinion: "Disapproval"
+
+ blood_brother_close_family_opinion: "Blood Brotherhood in Close Family"
+ sent_herd_opinion: "Received Gift of Herd"

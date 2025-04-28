@@ -116,6 +116,16 @@
  is_title_created_first: "[title|E] already created"
  is_title_created_third: "[title|E] already created"
  is_title_created_global: "[title|E] already created"
+
+ uses_county_fertility_global: "Uses [county_fertility|E]"
+ not_uses_county_fertility_global: "Does not use [county_fertility|E]"
+ uses_county_fertility_third: "The [TITLE.GetName] uses [county_fertility|E]"
+ not_uses_county_fertility_third: "The [TITLE.GetName] does #bold not#! use [county_fertility|E]"
+
+ county_fertility_global: "[county_fertility|E] is $COMPARATOR$ $NUM|V1$"
+ not_county_fertility_global: "[county_fertility|E] is #bold not#! $COMPARATOR$ $NUM|V1$"
+ county_fertility_third: "[county_fertility|E] in the [TITLE.GetName] is $COMPARATOR$ $NUM|V1$"
+ not_county_fertility_third: "[county_fertility|E] in the [TITLE.GetName] is #bold not#! $COMPARATOR$ $NUM|V1$"
  
  capital_county_equal_first: "[TARGET_TITLE.GetNameNoTier] is your [capital|E]"
  capital_county_equal_third: "[TARGET_TITLE.GetNameNoTier] is [CHARACTER.GetShortUINamePossessive|U] [capital|E]"

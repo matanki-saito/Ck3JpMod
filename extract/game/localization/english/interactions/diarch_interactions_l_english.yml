@@ -132,6 +132,7 @@
  diarch_interactions.tt.must_embezzle_something:0 "It's not embezzlement if you don't take anything"
  diarch_syphon_treasury_interaction.tt.success:0 "You embezzle undetected"
  diarch_syphon_treasury_interaction.tt.success.syphon_development_growth:0 "Your extremely high [stewardship|E] allows you to syphon [development_growth|E] from your [liege|E]'s [counties|E]"
+ diarch_syphon_treasury_interaction.tt.success.syphon_herd: "Your extremely high [stewardship|E] allows you to syphon [herd|E] from your [liege|E]"
  diarch_syphon_treasury_interaction.tt.success.syphon_control_several_counties:0 "Your high [stewardship|E] allows you to syphon [control|E] from your [liege|E]'s [counties|E]"
  diarch_syphon_treasury_interaction.tt.success.syphon_control_county:0 "Your moderate [stewardship|E] allows you to syphon [control|E] from a #EMP single#! [county|E] of your [liege|E]"
  diarch_syphon_treasury_interaction.tt.success.apply_county_modifier:0 "Your atrocious [stewardship|E] restricts you to only adding a negative [county_modifier|E] to one of your [liege|E]'s [counties|E]"
@@ -307,7 +308,7 @@ diarch_regent_appoints_self_co_emperor_interaction: "Elevate Self to $game_conce
  liege_dismiss_temporary_regency_interaction:0 "Dismiss Regent"
  liege_dismiss_temporary_regency_interaction_desc:0 "I am perfectly capable of conducting my own affairs, and can divest [recipient.GetShortUINameNoTooltip] of [recipient.GetHerHis] #EMP limited#! authority"
  liege_dismiss_temporary_regency_interaction.tt.dynasty_receives_prestige:0 "The [recipient.GetDynasty.GetBaseName] [dynasty|E] receives [dynasty_prestige_i] [EmptyScope.ScriptValue('liege_dismiss_temporary_regency_interaction_dynasty_prestige_value')|+0] [dynasty_prestige|E]"
- liege_dismiss_temporary_regency_interaction.tt.recipient_notification:2 "[actor.GetShortUINameNoTooltip|U] [CharHaveHas(actor)] dismissed [recipient.GetShortUIName] from [CharMyHerHis(recipient)] post as Regent"
+ liege_dismiss_temporary_regency_interaction.tt.recipient_notification:2 "[actor.GetShortUINameNoTooltip|U] [CharHaveHas(actor)] dismissed [recipient.GetShortUINameNoTooltip] as Regent"
 
  liege_dismiss_entrenched_regency_interaction:0 "Discharge Entrenched Regent"
  liege_dismiss_entrenched_regency_interaction_desc:0 "[recipient.GetShortUINameNoTooltip] may have coiled [recipient.GetHerselfHimself] around the vital organs of state, but it's time for [recipient.GetHerHim] to #EMP leave#!"
@@ -325,6 +326,8 @@ diarch_regent_appoints_self_co_emperor_interaction: "Elevate Self to $game_conce
  diarchy_ending_gift_piety_desc:0 "A sermon will be dedicated to [recipient.GetHerHis] efforts"
  diarchy_ending_gift_cash:1 "[gold_i] Offer [gold|E]"
  diarchy_ending_gift_cash_desc:0 "A stipend can be spent, "thank you" cannot"
+ diarchy_ending_gift_herd: "[herd_i] Offer [herd|E]"
+ diarchy_ending_gift_herd_desc: "[recipient.GetHerHis|U] shall be rewarded with the bounty of the steppes" # This offer shows we aren't horsing around
  liege_dismiss_entrenched_regency_interaction.tt.no_gift_necessary:0 "[recipient.GetShortUINameNoTooltip] [Select_CString(recipient.IsLocalPlayer, 'lack', 'lacks')] the political clout to resist [actor.GetShortUINameNoTooltip] or demand compensation"
  liege_dismiss_entrenched_regency_interaction.tt.stiff_them:0 "[actor.GetShortUINameNoTooltip|U] [Select_CString(actor.IsLocalPlayer, 'stiff', 'stiffs' )] [recipient.GetShortUINameNoTooltip] out of a just reward"
  liege_dismiss_entrenched_regency_interaction.tt.force_ending:0 "The [scales_of_power|E] have tipped decisively against me"

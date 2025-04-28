@@ -58,6 +58,7 @@
  OPTION_LOW:0 "Low"
  OPTION_MEDIUM:0 "Medium"
  OPTION_HIGH:0 "High"
+ OPTION_VERY_HIGH: "Very High"
  OPTION_ULTRA:1 "Ultra"
  OPTION_CUSTOM:0 "Custom"
  OPTION_DEFAULT:1 "Default"
@@ -170,7 +171,7 @@
  NO_AUTOSAVE:0 "No Autosave"
  # Multiplayer
  SETTINGS_FILE_TRANSFER_SPEED:0 "File Transfer Speed"
- SETTINGS_FILE_TRANSFER_SPEED_TOOLTIP:0 "#T $File Transfer Speed$\n#!Sets the maximum speed for save game file transfers in the multiplayer lobby.\n\nLower settings might improve network stability of joining multiplayer games but have a negative effect on multiplayer load times."
+ SETTINGS_FILE_TRANSFER_SPEED_TOOLTIP:0 "#T $File Transfer Speed$\n#!Sets the maximum speed for save game file transfers in the multiplayer lobby.\n\nLower settings might improve network stability of joining multiplayer games but have a negative effect on multiplayer load times.\n\nThe multiplayer host determines the maximum speed.\n"
  # Tools
  SETTING_MAP_EDITOR_AUTOSAVE_INTERVAL_MINUTES:0 "Map Editor Auto-save (minutes)"
  SETTING_MAP_EDITOR_AUTOSAVE_INTERVAL_MINUTES_TOOLTIP:0 "Map Editor Auto-save interval (minutes)"

@@ -16,6 +16,8 @@
  fp1_abandoned_me_to_the_mob_opinion:0 "Abandoned me to the Mob"
  fp1_honoured_heathen_opinion:0 "Honored Heathen"
  fp1_desecrated_corpse_of_loved_one:0 "Desecrated Corpse of Loved One"
+ liege_won_duel: "Liege Won a Duel"
+ liege_lost_duel: "Liege Lost a Duel"
 
  ##################################################
  # #Culture Opinions

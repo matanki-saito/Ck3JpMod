@@ -88,4 +88,12 @@ mx_mood_ep3_07: "Awaiting Nightfall"
 mx_mood_ep3_08: "The Winds of Fortune"
 ########### CP4
 cp4_mood_soundtrack_list: "Content Creator Pack - Arctic Attire"
-mx_mood_cp4_01: "Longing for the land"
+mx_mood_cp4_01: "Longing for the Land"
+########## CE2
+ce2_mood_soundtrack_list: "Khans of the Steppe"
+call_of_the_gobi: "Call of the Gobi"
+dance_of_the_yurt: "Dance of the Yurt"
+nomads_journey: "Nomad's Journey"
+on_the_road_to_karakorum: "On the Road to Karakorum"
+nomad_batzorig: "Nomad - Batzorig Vaanchig"
+

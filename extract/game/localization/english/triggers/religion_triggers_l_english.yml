@@ -39,7 +39,9 @@
  NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] does #bold not#! allow [rulers] to grant [titles] to [TARGET_CHARACTER.GetWomenMen]"
 
  I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] contains at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
- I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] does #bold not#! contain at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] or [confederation|E] does #bold not#! contain at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E] #weak (Currently: [GetPlayer.MakeScope.ScriptValue('holy_site_reform_tracker_value')|V0])#!"
+ I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH_DIRECTLY: "Your [realm|E] contains at least $VALUE|0V$ [FAITH.GetName] [holy_site|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH_DIRECTLY: "Your [realm|E] does #bold not#! contain at least $VALUE|0V$ [FAITH.GetName] [holy_site|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
  
  NOT_RELIGION_TAG_TRIGGER:0 "Your [faith] is #bold not#! part of $RELIGION|V$"
 

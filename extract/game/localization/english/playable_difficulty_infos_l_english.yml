@@ -14,3 +14,4 @@
  pdi_has_poor_health:0 "[health|E]: $action_dying$"
  pdi_in_regency: "In a [regency|E]"
  pdi_admin_without_noble_title: "Is [administrative|E] but has no [noble_family|E] [title|E]"
+ pdi_herder_to_nomad: "#alert_trial Will turn into a [GetGovernment( 'nomad_government' ).GetName] [ruler|E] if selected#!"

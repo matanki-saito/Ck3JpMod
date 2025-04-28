@@ -331,5 +331,16 @@
  NOT_ACHIEVEMENT_DESC_ce1_f_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_ce1_local_legend_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_ce1_neverending_story_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ 
+ NOT_ACHIEVEMENT_DESC_mpo_the_stallion_that_mounts_the_world_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_nobodys_business_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_tribute_band_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_this_chinggis_everything_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_steppe_by_steppe_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_in_xanadu_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_settling_in_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_blood_of_my_blood_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_confedup_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
+ NOT_ACHIEVEMENT_DESC_mpo_shut_up_nerge_achievement: "$ACHIEVEMENT_LOCKED_GENERIC$"
 
  rd_character_blocked_from_achievement:1 "May not be available for characters created in the Ruler Designer."

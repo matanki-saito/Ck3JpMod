@@ -96,6 +96,7 @@
  court_ongoing.1021.b:0 "I want a befurred companion."
  court_ongoing.1021.cat_pet.success:0 "[owner.GetShortUINameNoTooltip] gives you a cat"
  court_ongoing.1021.dog_pet.success:0 "[owner.GetShortUINameNoTooltip] gives you a dog"
+ court_ongoing.1021.eagle_pet.success: "[owner.GetShortUINameNoTooltip] gifts you an eaglet"
  court_ongoing.1021.pet.failure:1 "[owner.GetShortUINameNoTooltip] does not give you a pet"
  court_ongoing.1021.c:0 "[necklace_owner.GetTitledFirstNamePossessive] necklace looks lovely..."
  court_ongoing.1021.necklace.success:0 "[owner.GetShortUINameNoTooltip] gives you a necklace"
@@ -130,14 +131,18 @@
  court_ongoing.1024.a:0 "I... I have no idea what you're talking about!"
 
  #GIFT: PET, by Mathilda Bjarnehed
- court_ongoing.1030.t:1 "$court_event_title$ Cats and Dogs"
+ court_ongoing.1030.t:1 "$court_event_title$ Animal Companions"
  court_ongoing.1030.desc:2 "The rain is pouring down outside. My [target.Custom('ComplimentAdjective')] [target.GetTitledFirstName] sighs as [target.GetSheHe] looks out the blurred window.\n\n"How wretched [location.GetNameNoTooltip] can be. I wish I had someone to keep me company during long and dreary days..."\n\nIs my [target.Custom('LoverPetName')] a cat person or a dog person, I wonder?"
+ court_ongoing.1030.desc.eagle: "Or perhaps [target.GetSheHe] would prefer a more tactical companion?"
  court_ongoing.1030.a:0 "A clever cat will keep [target.GetHerHim] happy."
  court_ongoing.1030.a.success:0 "[target.GetShortUINameNoTooltip] adores the cat"
  court_ongoing.1030.a.failure:0 "[target.GetShortUINameNoTooltip] dislikes the cat"
  court_ongoing.1030.b:0 "A loyal dog would make an excellent companion."
  court_ongoing.1030.b.success:0 "[target.GetShortUINameNoTooltip] adores the dog"
  court_ongoing.1030.b.failure:0 "[target.GetShortUINameNoTooltip] dislikes the dog"
+ court_ongoing.1030.d: "A fierce eagle will help [target.GetHerHim]."
+ court_ongoing.1030.d.success: "[target.GetShortUINameNoTooltip] adores the eagle"
+ court_ongoing.1030.d.failure: "[target.GetShortUINameNoTooltip] dislikes the eagle"
  court_ongoing.1030.c:0 ""Fear not, I will always be by your side!""
 
  court_ongoing.1031.start.desc:0 ""I thought long and hard, my [ROOT.Char.Custom('LoverPetName')]," [owner.GetTitledFirstName] says as [owner.GetSheHe] gently places the basket onto my desk. "What would the perfect companion for such a loyal, energetic and sociable creature as yourself? And then it hit me — nothing would fit you better than a dog!"\n\n[owner.GetFirstNameNoTooltip|U] removes the blanket covering the basket, revealing a little puppy! It jumps at me, stumbling over the edge of the basket in sheer excitement."
@@ -145,6 +150,8 @@
  court_ongoing.1031.b:0 "This is... not what I expected."
 
  court_ongoing.1032.desc:0 ""I thought long and hard, my [ROOT.Char.Custom('LoverPetName')]," [owner.GetTitledFirstName] says as [owner.GetSheHe] gently places the basket onto my desk. "What would the perfect companion for such a clever and independent creature as yourself? And then it hit me — nothing would fit you better than a cat!"\n\n[owner.GetFirstNameNoTooltip|U] removes the blanket covering the basket, revealing a little kitten! It looks up at me with its big, [ROOT.Char.Custom('RandomCatEyeColor')] eyes and begins to purr."
+
+ court_ongoing.1033.desc: ""I thought long and hard, my [ROOT.Char.Custom('LoverPetName')]," [owner.GetTitledFirstName] says as [owner.GetSheHe] lures me outside. [owner.GetSheHe|U] guides me to a piece of cloth covering a small lump. "What would be the perfect companion for such a fierce and strategic creature as yourself? And then it hit me — nothing would fit you better than an eagle!"\n\n[owner.GetFirstNameNoTooltip|U] removes the cloth, revealing a young eaglet upon a wooden perch. Its eyes covered by a small hood to keep it calm, but its trills fill me with excitement."
 
  #GIFT: Necklace, by Mathilda Bjarnehed
  court_ongoing.1040.t:1 "$court_event_title$ Glimmering Gold"

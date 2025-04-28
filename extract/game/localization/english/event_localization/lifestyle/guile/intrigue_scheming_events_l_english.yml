@@ -55,7 +55,7 @@
  intrigue_scheming.1401.t:0 "Tidbits from Far Away"
  intrigue_scheming.1401.desc_opening:0 "Visiting the local market, a merchant from a faraway land catches my attention.\n\n"Come closer, my [ROOT.Char.GetLadyLord]! Marvel at treasures never before seen in these lands!"
  intrigue_scheming.1401.desc1:0 "Had to watch my back to get these beauties out, I did. Never sleeping with both eyes closed.""
- intrigue_scheming.1401.desc2:0 "Walked right past the guards responsible for these beauties. A true knower of people, that I am.""
+ intrigue_scheming.1401.desc2:0 "Snuck right past the guards responsible for these beauties. A true knower of people, that's me.""
  intrigue_scheming.1401.desc3:0 "I had to blend into the populace to get these beauties out, truly a harrowing experience.""
  intrigue_scheming.1401.desc_ending:0 "\n\nThis merchant might have more to give me than marvels from afar."
  intrigue_scheming.1401.a:0 ""It must be interesting, traveling as much as you do!""

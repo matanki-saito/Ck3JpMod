@@ -173,6 +173,16 @@
  action_wrong_holding_type_click:1 "#I Click to select Title#!"
  action_wrong_holding_type_HELP:0 "\n\n#help Each ruler has a Government type, which dictates which types of [holdings|E] they can properly manage. For example, Feudal rulers can only properly handle [castles|E]. Any Holding of the wrong type is practically worthless, and only counts against your [domain_limit|E].\n\nYou should grant these types of Holdings to an [unlanded|E] member of your [court|E], and they will become your [vassal|E].#!"
 
+ action_can_raze_holding_combined_group_label: "@raze_icon! Holdings can be Razed"
+ action_can_raze_holding_combined_label: "[landed_title.Custom('GetTierIcon')] [landed_title.GetNameNoTooltip] #low ([landed_title.GetProvince.GetHolding.GetType.GetName])#!"
+ action_can_raze_holding: "@raze_icon! [holding|E] can be Razed"
+ action_can_raze_holding_combined_group_name: "@raze_icon! Holdings can be Razed"
+ action_can_raze_holding_combined_group_description: "You can Raze [holdings|E] to gain [gold|E] and replace them with [nomadic_holdings|E], which are much better for [county_fertility|E].$action_can_raze_holding_HELP$"
+ action_can_raze_holding_label: "@raze_icon! You can Raze [landed_title.GetNameNoTooltip] #low ([landed_title.GetProvince.GetHolding.GetType.GetName])#!"
+ action_can_raze_holding_desc: "You can raze [landed_title.GetName] to gain [gold|E] and replace it with a [nomadic_holding|E], which is much better for [county_fertility|E].$action_can_raze_holding_HELP$"
+ action_can_raze_holding_click: "#I Click to select Title#!"
+ action_can_raze_holding_HELP: "\n\n#help If you do not plan to settle down using the $step_away_from_the_steppe_decision$ or $settle_people_decision$ [decisions|E], you should consider Razing [holdings|E] to make them into [nomadic_holdings|E].\n\n[nomadic_holdings|E] improve the [fertility_equilibrium|E] and makes the lands unattractive for settled rulers to conquer.\n\nTo Raze a Holding, click the Round button in the bottom-left corner of the Holding View.#!"
+
  action_upgrade_tribal_holding_type_combined_group_label:1 "@building_icon! Should Feudalize Tribal Holdings"
  action_upgrade_tribal_holding_type_combined_label:1 "[landed_title.Custom('GetTierIcon')] [landed_title.GetNameNoTooltip]"
  action_upgrade_tribal_holding_type:1 "@building_icon! Should Feudalize [tribal|E] [holding|E]"
@@ -1026,6 +1036,11 @@
  action_in_debt_landless_desc: "You have less than [gold_i|E]#V 0#! [gold|E] and are therefore in [debt|E]!\n\nBeing in Debt has the following effects:\n$BULLET_WITH_TAB$Cannot Declare [war|E]\n$BULLET_WITH_TAB$Cannot reinforce [men_at_arms|E] using [gold_i|E][gold|E]\n\nThe deeper in Debt that you are, the harsher the penalties you face will be. Your current level of Debt has the following additional effects:\n\n[GetPlayer.GetDebtModifierDescription]\n\n#help Consider taking a [task_contract|E] to earn some gold#!"
  action_in_debt_landless_click: "$action_in_debt_click$"
 
+ action_can_hire_court_astrologer: "@court_astrologer_icon! Employ a $court_astrologer_court_position$"
+ action_can_hire_court_astrologer_label: "@court_astrologer_icon! You are not employing a $court_astrologer_court_position$"
+ action_can_hire_court_astrologer_desc: "You are not employing anyone in the $court_astrologer_court_position$ [court_position|E]. Consider using the #high $recruit_court_position_decision$#! [decision|E] to find a $court_astrologer_court_position$.\n\n#help A $court_astrologer_court_position$ helps guide [migration|E] and promotes better [county_fertility|E], while providing background bonuses to your [piety|E], [stress_loss|E] and [learning|E].#!"
+ action_can_hire_court_astrologer_click: "#I Click to view#!"
+
  action_primary_heir_not_inheriting_held_admin_title: "@titles_icon! Will lose Appointment on Death"
  action_primary_heir_not_inheriting_held_admin_title_label: "@titles_icon! Heir not next-in-line for [landed_title.Custom('GetTierIcon')] [landed_title.GetNameNoTooltip]"
  action_primary_heir_not_inheriting_held_admin_title_desc: "Your [player_heir|E] is not the leading candidate for [landed_title.Custom('GetTierIcon')][landed_title.GetName].\n\n$action_primary_heir_not_inheriting_held_admin_title_HELP$"
@@ -1049,3 +1064,24 @@
  action_invested_candidate_not_inheriting_admin_title_combined_label: "[landed_title.Custom('GetTierIcon')] [landed_title.GetNameNoTooltip]"
  action_invested_candidate_not_inheriting_admin_title_combined_unimportant: "$action_invested_candidate_not_inheriting_admin_title_unimportant$"
  action_invested_candidate_not_inheriting_admin_title_HELP: "#help If you wish your invested Candidate to be appointed to the [title|E], use the $influence_candidacy_interaction$ interaction to support them or oppose other contenders, or remove opponents by other means.#!"
+ 
+ action_offer_submission_or_ruin: "@vassal_icon! Neighbor should Submit"
+ action_offer_submission_or_ruin_combined_group_label: "@vassal_icon! Neighbors should Submit"
+ action_offer_submission_or_ruin_combined_group_name: "$action_offer_submission_or_ruin_combined_group_label$"
+ action_offer_submission_or_ruin_desc: "A minor neighboring [ruler|E], [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUIName], fears you and would submit as a [vassal|E] rather than being destroyed.$action_offer_submission_or_ruin_HELP$"
+ action_offer_submission_or_ruin_combined_group_description: "You can [vassalize|E] or destroy minor neighboring [rulers|E].$action_offer_submission_or_ruin_HELP$"
+ action_offer_submission_or_ruin_label: "@vassal_icon! You can force Submission on [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip]"
+ action_offer_submission_or_ruin_combined_label: "[recipient.GetPrimaryTitle.Custom('GetTierIcon')] [recipient.GetUINameNoTooltip]"
+ action_offer_submission_or_ruin_click: "#I Click to Offer Submission or Ruin#!"
+ action_offer_submission_or_ruin_HELP: "\n\n#help As a mighty conquering Emperor, you can force a choice on [independent|E] Rulers: become your [vassal|E] or be attacked in a [war|E] of awful devastation.#!"
+
+ action_offer_confederation: "@alliance_icon! Ruler would join Confederation"
+ action_offer_confederation_combined_group_label: "@alliance_icon! Rulers would join Confederation"
+ action_offer_confederation_combined_group_name: "$action_offer_confederation_combined_group_label$"
+ action_offer_confederation_desc: "A nearby [ruler|E], [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUIName], is interested in [confederation|E] and would join you in mutual defense.$action_offer_confederation_HELP$"
+ action_offer_confederation_combined_group_description: "You can offer [confederation|E] to nearby [rulers|E].$action_offer_confederation_HELP$"
+ action_offer_confederation_label: "@alliance_icon! You can invite [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip] to be a Confederate"
+ action_offer_confederation_combined_label: "[recipient.GetPrimaryTitle.Custom('GetTierIcon')] [recipient.GetUINameNoTooltip]"
+ action_offer_confederation_click: "#I Click to Offer Confederation#!"
+ action_offer_confederation_HELP: "\n\n#help Weak [independent|E] [tribal|E] or [nomadic|E] Rulers may choose to join a [confederation|E], ceasing hostilities with one another and be gaining each others' assistance in defensive [wars|E]. This is especially when threatened by powerful, aggressive neighbors.#!"
+ 

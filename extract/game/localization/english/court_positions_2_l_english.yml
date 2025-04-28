@@ -16,6 +16,7 @@
  court_jester_court_position_task_entertain_court: "Entertain Courtiers"
  court_jester_court_position_task_entertain_court_desc: "Your $court_jester_court_position$ will spend their time entertaining your courtiers with jokes, stories, and acrobatics."
  court_jester_court_position_task_entertain_court_tt: "Every year the $court_jester_court_position$ has a chance to reduce the [stress_loss_i] [stress|E] of a random [courtier|E] #weak (preferring those close to you, such as your [children|E])#!\nIf their [aptitude|E] is at least $aptitude_good$, up to two [courtiers|E] can be targeted every year"
+ foreign_emissary_court_position_task_entertain_court_tt: "Every year the $foreign_emissary_court_position$ has a chance to reduce the [stress_loss_i] [stress|E] of a random [courtier|E] #weak (preferring those close to you, such as your [children|E])#!\nIf their [aptitude|E] is at least $aptitude_good$, up to two [courtiers|E] can be targeted every year"
  
  court_jester_court_position_task_fuel_the_rumour_mill: "Fuel the Rumor Mill"
  court_jester_court_position_task_fuel_the_rumour_mill_desc: "This character will spend their time spreading nonsensical rumors and misleading stories to slow down enemy schemes."
@@ -94,6 +95,7 @@
  artifact_court_grandeur_baseline_add_1_modifier: "Court Grandeur"
  artifact_development_growth_1_modifier: "Development Growth"
  artifact_glory_hound_vassal_opinion_1_modifier: "Glory Hound Opinion"
+ artifact_belligerent_vassal_opinion_1_modifier: "Belligerent Opinion"
  artifact_vassal_limit_1_modifier: "Vassal Limit"
  artifact_owned_scheme_secrecy_add_1_modifier: "Scheme Secrecy"
  artifact_hostile_scheme_phase_duration_add_1_modifier: "Hostile Scheme Speed"
@@ -103,6 +105,9 @@
  artifact_monthly_lifestyle_xp_miniscule_modifier: "Montly Lifestyle Experience"
  artifact_glory_hound_tax_contribution_mult_1_modifier: "Glory Hound Tax Contribution"
  artifact_mercenary_hire_cost_mult_1_modifier: "Mercenary Hire Cost"
+ artifact_fertility_growth_1_modifier: "Fertility Growth"
+ artifact_herd_gain_1_modifier: "Herd Gain"
+ artifact_herd_conversion_1_modifier: "Herd Conversion"
  
  antiquarian_court_position_task_exibit_artifacts: "Exibit Illustrious Artifacts"
  antiquarian_court_position_task_exibit_artifacts_desc: "Your $antiquarian_court_position$ will exibit your illustrious artifacts to the public, showing everyone that you are in possession of something truly unique."

@@ -33,7 +33,7 @@
  siege.0014.several_killed:0 "[casualty_1.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others were killed"
  siege.0014.end:0 "$siege.0013.end$"
 
- siege.0102.title:0 "Siege of [barony.GetNameNoTier] Lost"
+ siege.0102.title:0 "Siege of [barony.GetNameNoTierNoTooltip] Lost"
  siege.0102.message.foe:0 "$siege.0103.message$"
  siege.0102.message.neutral:1 "The Holding is now [occupied|E] by [occupant.Custom2('MyCharacterIntroduction', ROOT.Char)] in the [war.GetName]"
  siege.0103.title:0 "$siege.0102.title$"

@@ -39,3 +39,4 @@
  is_in_intrigue_special_event: "$is_in_special_event$"
  is_in_learning_special_event: "$is_in_special_event$"
  is_in_task_contract_event_chain: "$is_in_special_event$"
+ migration_events_1060_rode_ahead: "$is_in_special_event$"

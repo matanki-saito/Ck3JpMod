@@ -273,6 +273,9 @@
  ep3_laamp_decision_event.1020.c.second_artifact: "[visiting_partner.GetFirstName] sells the [1020_second_artifact_to_sell.GetName]"
  ep3_laamp_decision_event.1020.c.third_artifact: "[visiting_partner.GetFirstName] sells the [1020_third_artifact_to_sell.GetName]"
  ep3_laamp_decision_event.1020.d: "$ep3_laamp_decision_event.1010.e$"
+ ep3_laamp_decision_event.1020.eagle.tt: "You sell your hunting eagle, in place of an artifact"
+ ep3_laamp_decision_event.1020.eagle.price_tt: "The eagle's #V current#! offer: [gold_i] [GetPlayer.MakeScope.ScriptValue('hunting_eagle_sell_value')|0]"
+
  #Actual sell screen
  ep3_laamp_decision_event.1021.t: "[visiting_location.GetBaronyNameExplicitlyNoTooltip]: Parting Time"
  ep3_laamp_decision_event.1021.t_success: "[visiting_location.GetBaronyNameExplicitlyNoTooltip]: Mine!"
@@ -285,6 +288,7 @@
  ep3_laamp_decision_event.1021.b: ""I have better use for gold. Take [1020_second_artifact_to_sell.GetNameNoTooltip].""
  ep3_laamp_decision_event.1021.c: ""You can have my [1020_third_artifact_to_sell.GetNameNoTooltip].""
  ep3_laamp_decision_event.1021.d: "On second thought..."
+ ep3_laamp_decision_event.1021.eagle: "Perhaps you would be interested in [ROOT.Char.Custom('EagleStoryName')]?"
 
 #Town Crier
  ep3_laamp_decision_event.1025.t: "[visiting_location.GetBaronyNameExplicitlyNoTooltip]: the [ROOT.Char.Custom('GetTowncrierElderCapitalized')|U]"

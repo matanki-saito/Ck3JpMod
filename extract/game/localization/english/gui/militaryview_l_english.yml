@@ -38,7 +38,9 @@
  MAINTENANCE_MAA:1 "$MAA_UNRAISED_MAINTENANCE_TEXT$: $VALUE$/month"
  REINFORCEMENT_MAA:1 "$MAA_FULL_MAINTENANCE_TEXT$: $VALUE$/month"
  STACK_SIZE_MAA:0 "Regiment size: $VALUE|V$"
- ADVENTURER_MAINTENANCE_INFO: "[adventurers|E] can only reinforce [men_at_arms|E] by using #V $refill_maa_interaction$#!, #V $reinforce_soldiers_interaction$#!, or via [adventurer_siege_replenishment|E] during [war|E]" 
+ ADVENTURER_MAINTENANCE_INFO: "[SelectLocalization( GetPlayer.GetGovernment.HasGovernmentFlag( 'government_is_nomadic' ), 'ADVENTURER_MAINTENANCE_INFO_NOMADIC', 'ADVENTURER_MAINTENANCE_INFO_ADVENTURER' )]" 
+ ADVENTURER_MAINTENANCE_INFO_ADVENTURER: "[adventurers|E] can only reinforce [men_at_arms|E] by using #V $refill_maa_interaction$#!, #V $reinforce_soldiers_interaction$#!, or via [adventurer_siege_replenishment|E] during [war|E]" 
+ ADVENTURER_MAINTENANCE_INFO_NOMADIC: "[nomads|E] can only reinforce their [men_at_arms|E] by using #V $refill_maa_interaction$#! and paying a cost of [herd|E] or [gold|E]." 
  CONDITIONAL_MAINTENANCE_INFO: "Your [government|E] can $conditional_maa_refill_rule$" 
  MONTHLY_MAINTENANCE_LABEL:0 "Monthly Maintenance:"
  MONTHLY_MAX_MAINTENANCE_LABEL:0 "#weak Max:#!"
@@ -169,3 +171,11 @@
  MV_ADMIN_ARMY_NO_CONTROLLED_TITLES: "Not commanding any additional [GetPlayer.Custom('GetProvincialArmiesConcept')]"
  MV_ADMIN_ARMY_NO_UNCONTROLLED_TITLES: "No available [title_men_at_arms|E] for you to control"
  MV_NO_MAA_FOR_TITLE: "No [title_men_at_arms|E] for this #HIGH Title#!"
+
+ NOMAD_RIDERS_LABEL: "[GetMaA('nomadic_riders').GetName]"
+ UPGRADE_HORDE_REGIMENT_LABEL: "Upgrade Horde Regiment"
+ UPGRADE_HORDE_TOOLTIP: "#T Upgrade a Horde [regiment|E]#!\n#weak You will pay [gold|E] to convert your [horde|E] into [men_at_arms|E]#!"
+ MV_REGIMENT_START_SIZE_NOMAD: "Will start at full strength ([MenAtArmsType.GetStackSize])"
+
+ RECRUIT_FROM_SUBJECTS_LABEL: "Recruit from Subjects"
+ RECRUIT_FROM_SUBJECTS_TOOLTIP: "#T Recruit from Subjects#!\n#weak You will pay [gold|E] to recruit a type of [men_at_arms|E] that your [subject|E] has access to, but you don't#!"

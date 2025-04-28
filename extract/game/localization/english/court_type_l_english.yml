@@ -38,6 +38,9 @@
  court_tribal:0 "Tribal Court"
  court_tribal_desc:0 "#low At court, might makes right – and the halls shall be decked with loot and plunder! \n\nCourtiers gain the [GetTrait('warlike_court_1').GetName( GetNullCharacter )] traits.#!"
  court_tribal_tooltip_desc:0 "Martial prowess and resilience is valued in a $court_tribal$."
+ court_nomadic: "Nomadic Court"
+ court_nomadic_desc: "#low Our court rides with the strength of a thousand hooves, where the bow and the blade reign supreme. Glory is earned through conquest, and our people thrive on the spoils of war. \n\nCourtiers gain the [GetTrait('warlike_court_1').GetName( GetNullCharacter )] traits.#!"
+ court_nomadic_tooltip_desc:0 "Martial prowess and resilience is valued in a $court_nomadic$."
 
  COURT_TYPE_GENERAL_TOOLTIP:0 "[CourtType.GetTooltipDesc]\n\n[CourtType.GetEffectDesc]"
  

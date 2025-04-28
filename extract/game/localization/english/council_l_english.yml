@@ -56,6 +56,16 @@
  councillor_vizier: "Confidant"
  councillor_vizier_desc: "As a [clan_government|E] Ruler you can decide to assign either your [vizier|E] or any of your [spouses|E] as your Confidant. Whoever you choose will support you in your daily tasks."
  councillor_vizier_possessive: "Confidant's"
+ councillor_kurultai: "Kurultai Member"
+ councillor_kurultai_possessive: "Kurultai Member's"
+ councillor_kurultai_1: "$councillor_kurultai$"
+ councillor_kurultai_1_possessive: "$councillor_kurultai_possessive$"
+ councillor_kurultai_2: "$councillor_kurultai$"
+ councillor_kurultai_2_possessive: "$councillor_kurultai_possessive$"
+ councillor_kurultai_3: "$councillor_kurultai$"
+ councillor_kurultai_3_possessive: "$councillor_kurultai_possessive$"
+ councillor_kurultai_4: "$councillor_kurultai$"
+ councillor_kurultai_4_possessive: "$councillor_kurultai_possessive$"
 
 #Flavor localization for Court Chaplains, sorted by Religion.
 

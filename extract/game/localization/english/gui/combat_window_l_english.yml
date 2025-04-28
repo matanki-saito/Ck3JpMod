@@ -73,6 +73,7 @@
  COMBAT_REGIMENT_SIEGE_TT:0 "#T [siege_progress|E]: [CombatMaaItem.GetStat( 'siege_value' )|1V]/day#!\n[CombatMaaItem.GetStatDesc( 'siege_value' )]"
  COMBAT_REGIMENT_TOUGHNESS_TT:1 "#T [toughness|E]: [CombatMaaItem.GetStat( 'toughness' )|1V]#!\n[CombatMaaItem.GetStatDesc( 'toughness' )]"
  COMBAT_MAA_TERRAIN_MOD:0 "Fighting in $TERRAIN$: $VALUE|=+0$"
+ COMBAT_MAA_HOLDING_MOD: "Fighting in $HOLDING$: $VALUE|=+0$"
  CW_NO_KNIGHTS:0 "No [knights|E]"
  COMBAT_WINDOW_NO_COMMANDER:0 "No Commander"
  

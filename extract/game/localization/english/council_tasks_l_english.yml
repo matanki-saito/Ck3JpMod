@@ -4,7 +4,7 @@
  POTENTIAL_COUNCIL_TASK_TT:2 "[ActiveCouncilTask.GetCouncillor.GetUIName] will be assigned to [ActiveCouncilTask.GetTaskType.GetName|V]"
  COUNCIL_TASK_TT:0 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n[SelectLocalization( GuiPotentialCouncilTask.IsActive, 'ACTIVE_COUNCIL_TASK_TT', 'POTENTIAL_COUNCIL_TASK_TT' )]"
  COUNCIL_TASK_MAP_TT:0 "#T [ActiveCouncilTask.GetTaskType.GetName]#!\n$ACTIVE_COUNCIL_TASK_TT$"
- council_task_possible_side_effects:1 "\n\n[councillor_task_possible_side_effects|E] #weak — Councillor Skill#!"
+ council_task_possible_side_effects:1 "\n\n[councillor_task_possible_side_effects|E] #weak — [councillor.Custom('GetCouncillorKurultaiMember')] Skill#!"
  task_generic_notification_tooltip:0 "From a [councillor_task|E]"
  COUNCILLOR_IS_YOUR_FRIEND:1 "[councillor.GetCouncilTitle] [councillor.GetShortUIName] is your [friend|E]"
  COUNCILLOR_IS_YOUR_BEST_FRIEND:1 "[councillor.GetCouncilTitle] [councillor.GetShortUIName] is your [best_friend|E]"
@@ -56,18 +56,18 @@
  task_foreign_affairs:0 "Foreign Affairs"
  
  task_foreign_affairs_modifier_desc:0 "[councillor.GetModifierDescForTask('task_foreign_affairs')]"
- task_foreign_affairs_prestige_effect_desc:2 "[prestige|E]: [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_total')]#!/month\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_base')]#!"
+ task_foreign_affairs_prestige_effect_desc:2 "[prestige|E]: [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_total')]#!/month\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_base')]#!"
  task_foreign_affairs_effect_desc_adaptive_traditions_bonus_prestige:0 "\n$TAB$[GetPerk('adaptive_traditions_perk').GetName(GetPlayer)]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_perk_bonus_modifier')|P]"
  task_foreign_affairs_effect_desc_bureaucrats_bonus_prestige:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_erudition_modifier')|P]"
  task_foreign_affairs_effect_desc_family_business_bonus_prestige:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_family_business_modifier')|P]"
  task_foreign_affairs_effect_desc_consulted_house_bonus_prestige: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_consulted_house_modifier')|P]"
- task_foreign_affairs_independent_effect_desc:1 "\n\nIndependent Ruler Opinion:\n$TAB$Increases by #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_monthly_increase')|P]/month up to #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max')|1P] (Currently: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_independent_opinion_scale')|1]#!)\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_base')]#!"
+ task_foreign_affairs_independent_effect_desc:1 "\n\nIndependent Ruler Opinion:\n$TAB$Increases by #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_monthly_increase')|P]/month up to #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max')|1P] (Currently: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_independent_opinion_scale')|1]#!)\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_base')]#!"
  task_foreign_affairs_emperor_effect_desc:0 "\n\nEmperors of the Realm:"
  task_foreign_affairs_king_effect_desc:0 "\n\nOther Kings of the Realm:"
  task_foreign_affairs_duke_effect_desc:0 "\n\nOther Dukes of the Realm:"
  task_foreign_affairs_count_effect_desc:0 "\n\nOther Counts of the Realm:"
  task_foreign_affairs_fallback_effect_desc:0 "\n\nFellow Vassal Opinion:"
- task_foreign_affairs_not_independent_effect_desc:0 "\n$TAB$Increases by #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_monthly_increase')|P]/month up to: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max')|1P]\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_base')]#!"
+ task_foreign_affairs_not_independent_effect_desc:0 "\n$TAB$Increases by #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_monthly_increase')|P]/month up to: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max')|1P]\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_base')]#!"
  task_foreign_affairs_effect_desc_adaptive_traditions_bonus_opinion:0 "\n$TAB$[GetPerk('adaptive_traditions_perk').GetName(GetPlayer)]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_perk_bonus_modifier')|P]"
  task_foreign_affairs_effect_desc_bureaucrats_bonus_opinion:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_erudition_modifier')|P]"
  task_foreign_affairs_effect_desc_family_business_bonus_opinion:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_family_business_modifier')|P]"
@@ -80,14 +80,14 @@
  task_foreign_affairs_notification_tooltip:0 "From $task_foreign_affairs$"
 
  task_domestic_affairs:0 "Domestic Affairs"
- task_domestic_affairs_direct_effect_desc:0 "[direct_vassal|E] Opinion: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|0P])\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
- task_domestic_affairs_parochial_effect_desc:0 "\n\n[GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName] [vassal|E] Opinion: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|0P])\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
+ task_domestic_affairs_direct_effect_desc:0 "[direct_vassal|E] Opinion: #P [opinion_i]+[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|0P])\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_i][diplomacy_skill|E]: #P [opinion_i]+[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
+ task_domestic_affairs_parochial_effect_desc:0 "\n\n[GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName] [vassal|E] Opinion: #P [opinion_i]+[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|0P])\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_i][diplomacy_skill|E]: #P [opinion_i]+[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
  task_domestic_affairs_bureaucrats_bonus_desc:3 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_erudition_bonus')|2]#!"
  task_domestic_affairs_family_business_bonus_desc:1 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_family_business_bonus')|2]#!"
  task_domestic_affairs_consulted_house_bonus_desc: "\n$TAB$$unity_consulted_house_member_desc$: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_consulted_house_bonus')|2]#!"
  task_domestic_affairs_chains_of_loyalty_bonus_desc:0 "\n$TAB$[GetPerk('chains_of_loyalty_perk').GetName(GetPlayer)]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_chains_of_loyalty_bonus')|2]#!"
  
- task_domestic_affairs_tyranny_effect_desc:1 "\n\n[tyranny|E] Loss: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_total')|P0]%#!\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_base')|P0]%#!"
+ task_domestic_affairs_tyranny_effect_desc:1 "\n\n[tyranny|E] Loss: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_total')|P0]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_i][diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_base')|P0]%#!"
  task_domestic_affairs_tyranny_bureaucrats_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_erudition_bonus')|P0]%#!"
  task_domestic_affairs_tyranny_family_business_bonus_desc:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_family_business_bonus')|P0]%#!"
  task_domestic_affairs_tyranny_consulted_house_bonus_desc: "\n$TAB$$unity_consulted_house_member_desc$: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_tyranny_consulted_house_bonus')|P0]%#!"
@@ -108,11 +108,11 @@
  PASSIVE_INTEGRATION_PROGRESS_VALUE:0 "Passive integration"
 
  task_bestow_royal_favor:0 "Bestow Royal Favor"
- task_bestow_royal_favor_prestige_effect_desc:0 "[prestige|E]: [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_total')]#!/month\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_gain_base')]#!"
+ task_bestow_royal_favor_prestige_effect_desc:0 "[prestige|E]: [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_total')]#!/month\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_gain_base')]#!"
  task_bestoy_royal_favor_effect_desc_bureaucrats_bonus_prestige: "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +#![SCOPE.ScriptValue('chancellor_bestow_favor_prestige_gain_erudition_modifier')|P]"
  task_bestoy_royal_favor_effect_desc_family_business_bonus_prestige: "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_bestow_favor_prestige_gain_family_business_modifier')|P]"
  task_bestoy_royal_favor_effect_desc_consulted_house_bonus_prestige: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('chancellor_bestow_favor_prestige_gain_consulted_house_modifier')|P]"
- task_bestow_royal_favor_opinion_effect_desc:0 "\n\n[vassal|E] Prestige increases by [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_gain_base_vassal')|P]#!/month\n\n[vassal|E] Opinion increases by #P +#![SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success')|P] up to #P 100#! (in total)\n$TAB$Councillor's [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success_base')]#!\n$TAB$Your [court_grandeur|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success_grandeur')]#!"
+ task_bestow_royal_favor_opinion_effect_desc:0 "\n\n[vassal|E] Prestige increases by [prestige_i|E]#P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_prestige_gain_base_vassal')|P]#!/month\n\n[vassal|E] Opinion increases by #P +#![SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success')|P] up to #P 100#! (in total)\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success_base')]#!\n$TAB$Your [court_grandeur|E]: #P +[SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_increase_per_success_grandeur')]#!"
  task_bestoy_royal_favor_effect_desc_bureaucrats_bonus_opinion: "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +#![SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_gain_erudition_bonus')|P]"
  task_bestoy_royal_favor_effect_desc_family_business_bonus_opinion: "\n$TAB$$tradition_family_entrepreneurship_name$: #P +#![SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_gain_family_business_bonus')|P]"
  task_bestoy_royal_favor_effect_desc_consulted_house_bonus_opinion: "\n$TAB$$unity_consulted_house_member_desc$: #P +#![SCOPE.ScriptValue('chancellor_bestow_royal_favor_opinion_gain_consulted_house_bonus')|P]"
@@ -123,11 +123,11 @@
 #marshal
  task_organize_levies:1 "Organize Army"
  task_organize_levies_maintenance_modifier:0 "$task_organize_levies$"
- task_organize_levies_effect_desc:6 "[garrison|E] Size and [levy|E] Reinforcement Rate: #P +[SCOPE.ScriptValue('marshal_organize_levies_modifier_total')]%#!\n$TAB$Base: #P +[SCOPE.ScriptValue('marshal_organize_levies_base')]%#!\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_organize_levies_skill_base')]%#!"
+ task_organize_levies_effect_desc:6 "[garrison|E] Size and [levy|E] Reinforcement Rate: #P +[SCOPE.ScriptValue('marshal_organize_levies_modifier_total')]%#!\n$TAB$Base: #P +[SCOPE.ScriptValue('marshal_organize_levies_base')]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_organize_levies_skill_base')]%#!"
  task_organize_levies_erudition_bonus:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_organize_levies_erudition_bonus')]%#!"
  task_organize_levies_family_business_bonus:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('marshal_organize_levies_family_business_bonus')|1]%#!"
  task_organize_levies_consulted_house_bonus: "\n$TAB$$unity_consulted_house_member_desc$: #P +[SCOPE.ScriptValue('marshal_organize_levies_consulted_house_bonus')|1]%#!"
- task_organize_levies_maintenance_effect_desc:0 "\n\nRaised [army|E] Maintenance: [gold_i]#P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_total')|1P]%#!\n$TAB$Base: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_base')|1P]%#!\n$TAB$Councillor's [martial_skill|E]: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_skill_base')|1P]%#!"
+ task_organize_levies_maintenance_effect_desc:0 "\n\nRaised [army|E] Maintenance: [gold_i]#P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_total')|1P]%#!\n$TAB$Base: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_base')|1P]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_skill_base')|1P]%#!"
  task_organize_levies_maintenance_erudition_bonus_desc:1 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_erudition_bonus')|1]%#!"
  task_organize_levies_maintenance_family_business_bonus_desc:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_family_business_bonus')|1]%#!"
  task_organize_levies_maintenance_consulted_house_bonus_desc: "\n$TAB$$unity_consulted_house_member_desc$: #P -[SCOPE.ScriptValue('marshal_organize_levies_maintenance_consulted_house_bonus')|1]%#!"
@@ -149,8 +149,8 @@
  
  task_train_commanders:0 "Train Commanders"
  task_train_commanders_modifier:0 "$task_train_commanders$"
- task_train_commanders_effect_desc:3 "\n\n#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|1P]%#! chance of improving or finding a new [commander|E] or [knight|E] each month\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|1P]%#!"
- task_train_commanders_maa_boost_effect_desc:0 "[knight_effectiveness|E], [men_at_arms|E]' [damage|E] and [toughness|E]:\n$TAB$Increases by #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_monthly_increase')|1]%#!/month up to #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_max')|1]%#! (Currently: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_scale')|1]%#!)\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_base')|1]%#!"
+ task_train_commanders_effect_desc:3 "\n\n#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|1P]%#! chance of improving or finding a new [commander|E] or [knight|E] each month\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|1P]%#!"
+ task_train_commanders_maa_boost_effect_desc:0 "[knight_effectiveness|E], [men_at_arms|E]' [damage|E] and [toughness|E]:\n$TAB$Increases by #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_monthly_increase')|1]%#!/month up to #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_max')|1]%#! (Currently: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_scale')|1]%#!)\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_maa_overtime_boost_base')|1]%#!"
  task_train_commanders_commander_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_erudition_bonus')|P]%#!"
  task_train_commanders_commander_family_business_bonus_desc:0 "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_family_business_bonus')|P]%#!"
  task_train_commanders_commander_consulted_house_bonus_desc: "\n$TAB$$unity_consulted_house_member_desc$: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_consulted_house_bonus')|P]%#!"
@@ -193,11 +193,11 @@
  task_domestic_affairs_notification_tooltip:0 "From $task_domestic_affairs$"
 
  task_manage_guards:0 "Manage Royal Guards"
- task_manage_guards_knights_desc:1 "[knight_effectiveness|E]: #P +[SCOPE.ScriptValue('marshal_overtime_boost_scale')|1]%#!\nIncreases by #P +[SCOPE.ScriptValue('marshal_overtime_boost_monthly_increase')]%#!/month up to #P +[SCOPE.ScriptValue('marshal_overtime_boost_max')]%#!\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_overtime_boost_base')|2]#!"
+ task_manage_guards_knights_desc:1 "[knight_effectiveness|E]: #P +[SCOPE.ScriptValue('marshal_overtime_boost_scale')|1]%#!\nIncreases by #P +[SCOPE.ScriptValue('marshal_overtime_boost_monthly_increase')]%#!/month up to #P +[SCOPE.ScriptValue('marshal_overtime_boost_max')]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_overtime_boost_base')|2]#!"
  task_manage_guards_erudition_bonus_knights: "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_manage_guards_max_erudition_bonus')|P]%#!"
  task_manage_guards_family_business_bonus_knights: "\n$TAB$$tradition_family_entrepreneurship_name$: #P +[SCOPE.ScriptValue('marshal_manage_guards_max_family_business_bonus')|P]%#!"
  task_manage_guards_consulted_house_bonus_knights: "\n$TAB$$unity_consulted_house_member_desc$: #P +[SCOPE.ScriptValue('marshal_manage_guards_max_consulted_house_bonus')|P]%#!"
- task_manage_guards_scheme_desc:1 "\n\nEnemy [hostile_scheme|E] [success_chance|E]: #P [SCOPE.ScriptValue('marshal_overtime_decrease_scale')|1]#!%\nDecreases by #P [SCOPE.ScriptValue('marshal_overtime_decrease_monthly_increase')]%#!/month up to #P [SCOPE.ScriptValue('marshal_overtime_decrease_max')]%#!\n$TAB$Councillor's [martial_skill|E]: #P [SCOPE.ScriptValue('marshal_overtime_decrease_base')|2]#!"
+ task_manage_guards_scheme_desc:1 "\n\nEnemy [hostile_scheme|E] [success_chance|E]: #P [SCOPE.ScriptValue('marshal_overtime_decrease_scale')|1]#!%\nDecreases by #P [SCOPE.ScriptValue('marshal_overtime_decrease_monthly_increase')]%#!/month up to #P [SCOPE.ScriptValue('marshal_overtime_decrease_max')]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_skill|E]: #P [SCOPE.ScriptValue('marshal_overtime_decrease_base')|2]#!"
  task_manage_guards_erudition_bonus_scheme: "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P -[SCOPE.ScriptValue('marshal_manage_guards_max_erudition_bonus')|P]%#!"
  task_manage_guards_family_business_bonus_scheme: "\n$TAB$$tradition_family_entrepreneurship_name$: #P -[SCOPE.ScriptValue('marshal_manage_guards_max_family_business_bonus')|P]%#!"
  task_manage_guards_consulted_house_bonus_scheme: "\n$TAB$$unity_consulted_house_member_desc$: #P -[SCOPE.ScriptValue('marshal_manage_guards_max_consulted_house_bonus')|P]%#!"
@@ -515,5 +515,212 @@
  liege_stopped_converting_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has stopped [converting|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
  liege_converted_county_title: "Liege Converted [county.GetNameNoTierNoTooltip|V]"
  liege_converted_county_desc: "[councillor_liege.GetShortUINamePossessive] [councillor.GetCouncilTitle] has [converted|E] the [county.GetName] to [councillor_liege.GetFaith.GetName] #weak ([old_faith.GetAdjective])#!"
+
+ # Kurultai
+ task_kurultai_default_1: "Support Herders"
+ task_kurultai_default_2: "$task_kurultai_default_1$"
+ task_kurultai_default_3: "$task_kurultai_default_1$"
+ task_kurultai_default_4: "$task_kurultai_default_1$"
+ task_kurultai_default_modifier: "$task_kurultai_default_1$ #weak (Kurultai Councillor Task)#!"
+ task_kurultai_default_effect_desc: "#weak Increased by [kurultai|E] Member's [diplomacy_i][diplomacy|E] (#color_white [councillor.MakeScope.ScriptValue('kurultai_manage_herd_skill_tooltip')]#!)#!\n"
+ task_kurultai_default_herd_gain_desc: "[herd|E] Gain and Capacity: #P [herd_i]+[SCOPE.ScriptValue('kurultai_manage_herd_final_value')|1]%#!\n$TAB$Base: #P [herd_i]+[SCOPE.ScriptValue('kurultai_manage_herd_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [diplomacy_i][diplomacy_skill|E]: #P [herd_i]+[SCOPE.ScriptValue('kurultai_manage_herd_skill_value')|1]%#!"
+ task_kurultai_default_gain_herd: "\n$EFFECT_LIST_BULLET$#P Increase Herd Size#!"
+ task_kurultai_default_bonus_army: "\n$EFFECT_LIST_BULLET$#P Gain Horde Rider Army#!"
+ task_kurultai_default_lose_herd: "\n$EFFECT_LIST_BULLET$#N Decrease Herd Size#!"
+ task_kurultai_default_lose_control: "\n$EFFECT_LIST_BULLET$#N Loss of Control#!"
+
+ task_kurultai_fertility_1: "Manage Fertility"
+ task_kurultai_fertility_2: "$task_kurultai_fertility_1$"
+ task_kurultai_fertility_3: "$task_kurultai_fertility_1$"
+ task_kurultai_fertility_4: "$task_kurultai_fertility_1$"
+ task_kurultai_fertility_1_VALUE_NAME: "[county_fertility|E]"
+ task_kurultai_fertility_2_VALUE_NAME: "$task_kurultai_fertility_1_VALUE_NAME$"
+ task_kurultai_fertility_3_VALUE_NAME: "$task_kurultai_fertility_1_VALUE_NAME$"
+ task_kurultai_fertility_4_VALUE_NAME: "$task_kurultai_fertility_1_VALUE_NAME$"
+ task_kurultai_use_fertility: "This [county|E] does not have [fertility|E]"
+ task_kurultai_fertility_only_one_target: "Another [kurultai|E] member is already managing the [fertility|E] of this [county|E]"
+ task_kurultai_exploited_only_one_target: "Another [kurultai|E] member is already exploiting this [county|E]"
+ task_kurultai_fertility_modifier: "$task_kurultai_fertility_1$ #weak (Kurultai Councillor Task)#!"
+ task_kurultai_fertility_effect_desc: "#weak Increased by [kurultai|E] Member's [stewardship_i][stewardship|E] (#color_white [councillor.MakeScope.ScriptValue('kurultai_increased_fertility_skill_tooltip')]#!)#!\n"
+ task_kurultai_fertility_gain_desc: "[county_fertility|E] Growth: #P [county_fertility_i|E]+[SCOPE.ScriptValue('kurultai_increased_fertility_final_value')|1]%#!\n$TAB$Base: #P [county_fertility_i|E]+[SCOPE.ScriptValue('kurultai_increased_fertility_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [stewardship_i][stewardship_skill|E]: #P [county_fertility_i|E]+[SCOPE.ScriptValue('kurultai_increased_fertility_skill_value')|1]%#!"
+ task_kurultai_fertility_increase_fertility: "\n$EFFECT_LIST_BULLET$#P Increase Fertility#!"
+ task_kurultai_fertility_county_opinion: "\n$EFFECT_LIST_BULLET$#P Increase County Opinion#!"
+ task_kurultai_fertility_reduce_fertility: "\n$EFFECT_LIST_BULLET$#N Reduce Fertility#!"
+ task_kurultai_fertility_lose_prestige: "\n$EFFECT_LIST_BULLET$#N Prestige Loss#!"
+
+ task_kurultai_control_1: "Increase Control"
+ task_kurultai_control_2: "$task_kurultai_control_1$"
+ task_kurultai_control_3: "$task_kurultai_control_1$"
+ task_kurultai_control_4: "$task_kurultai_control_1$"
+ task_kurultai_control_1_VALUE_NAME: "[county_control|E]"
+ task_kurultai_control_2_VALUE_NAME: "$task_kurultai_control_1_VALUE_NAME$"
+ task_kurultai_control_3_VALUE_NAME: "$task_kurultai_control_1_VALUE_NAME$"
+ task_kurultai_control_4_VALUE_NAME: "$task_kurultai_control_1_VALUE_NAME$"
+ potential_county_control_task_only_one_target: "Another [kurultai|E] member is already increasing the [county_control|E] of this [county|E]"
+
+ task_kurultai_control_effect_desc: "#weak Increased by [kurultai|E] Member's [martial_i][martial|E] (#color_white [councillor.MakeScope.ScriptValue('kurultai_increase_control_skill_tooltip')]#!)#!\n"
+ task_kurultai_increase_control_effect_desc: "Chance of removing County Corruption: [SCOPE.ScriptValue('marshal_remove_county_corruption_chance')|P]#P %#!/month\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_i][martial_skill|E]: #P +#![SCOPE.ScriptValue('marshal_councillor_county_corruption_value')|P]\n$TAB$County Control: #P +#![SCOPE.ScriptValue('marshal_county_county_corruption_value')|P]\n\nWhile Control is being increased, the County will not acquire Corruption"
+
+ task_kurultai_court_astrologer_1: "Aid $court_astrologer_court_position$"
+ task_kurultai_court_astrologer_2: "$task_kurultai_court_astrologer_1$"
+ task_kurultai_court_astrologer_3: "$task_kurultai_court_astrologer_1$"
+ task_kurultai_court_astrologer_4: "$task_kurultai_court_astrologer_1$"
+
+ task_kurultai_court_astrologer_zealous_proselytizer_bonus_desc: "\n$TAB$[GetPerk('zealous_proselytizer_perk').GetName(GetPlayer)]: #P +[SCOPE.ScriptValue('kurultai_court_astrologer_piety_final_value')|2]#!"
+ task_kurultai_court_astrologer_effect_desc: "#weak Increased by [kurultai|E] Member's [learning_i][learning|E] (#color_white [councillor.MakeScope.ScriptValue('kurultai_court_astrologer_skill_tooltip')]#!)#!\n"
+ task_kurultai_court_astrologer_piety_desc: "Monthly [piety|E] Gain: #P [piety_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_piety_final_value')|1]%#!\n$TAB$Base: #P [piety_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_piety_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [learning_i][learning_skill|E]: #P [piety_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_piety_skill_value')|1]%#!\n"
+ task_kurultai_court_astrologer_aptitude_desc: "[GetCourtPositionType('court_astrologer_court_position').GetName()] [aptitude|E]: #P [aptitude_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_aptitude_final_value')|1]#!\n$TAB$Base: #P [aptitude_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_aptitude_base_value')|1]#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [learning_i][learning_skill|E]: #P [aptitude_i]+[SCOPE.ScriptValue('kurultai_court_astrologer_aptitude_skill_value')|1]#!"
+
+ task_kurultai_astrologer_increase_piety: "\n$EFFECT_LIST_BULLET$#P Gain Piety#!"
+ task_kurultai_astrologer_increase_opinion: "\n$EFFECT_LIST_BULLET$#P Gain $court_astrologer_court_position$ Opinion#!"
+ task_kurultai_astrologer_reduce_piety: "\n$EFFECT_LIST_BULLET$#N Lose Piety#!"
+ task_kurultai_astrologer_reduce_opinion: "\n$EFFECT_LIST_BULLET$#N Lose $court_astrologer_court_position$ Opinion#!"
+
+ task_kurultai_court_astrologer_modifier: "$task_kurultai_court_astrologer_1$ #weak (Kurultai Councillor Task)#!"
+
+ task_kurultai_domestic_affairs_1: "Domestic Affairs"
+ task_kurultai_domestic_affairs_2: "$task_kurultai_domestic_affairs_1$"
+ task_kurultai_domestic_affairs_3: "$task_kurultai_domestic_affairs_1$"
+ task_kurultai_domestic_affairs_4: "$task_kurultai_domestic_affairs_1$"
+
+ task_kurultai_domestic_affairs_effect_desc: "$task_kurultai_default_effect_desc$"
+ task_kurultai_domestic_affairs_only_one_target: "Can only have one [kurultai|E] member perform the #color_white $task_kurultai_domestic_affairs_1$#! task at once"
+
+ task_kurultai_exploit_area_1: "Exploit Lands"
+ task_kurultai_exploit_area_2: "$task_kurultai_exploit_area_1$"
+ task_kurultai_exploit_area_3: "$task_kurultai_exploit_area_1$"
+ task_kurultai_exploit_area_4: "$task_kurultai_exploit_area_1$"
+
+ task_kurultai_exploit_area_1_VALUE_NAME: "[county_fertility|E]"
+ task_kurultai_exploit_area_2_VALUE_NAME: "$task_kurultai_exploit_area_1_VALUE_NAME$"
+ task_kurultai_exploit_area_3_VALUE_NAME: "$task_kurultai_exploit_area_1_VALUE_NAME$"
+ task_kurultai_exploit_area_4_VALUE_NAME: "$task_kurultai_exploit_area_1_VALUE_NAME$"
+
+ task_kurultai_exploit_modifier: "$task_kurultai_exploit_area_1$ #weak (Kurultai Councillor Task)#!"
+ task_kurultai_exploit_effect_desc: "$task_kurultai_fertility_effect_desc$"
+ task_kurultai_exploit_fertility_desc: "[county_fertility|E]: #N [county_fertility_i]-[SCOPE.ScriptValue('kurultai_exploit_area_fertility_final_value')|1]#!\n$TAB$Base: #N [county_fertility_i]-[SCOPE.ScriptValue('kurultai_exploit_area_fertility_base_value')|1]#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [stewardship_i][stewardship_skill|E]: #P [county_fertility_i]+[SCOPE.ScriptValue('kurultai_exploit_area_fertility_skill_value')|1]#!"
+ task_kurultai_exploit_income_desc: "\n[herd|E] [income|E]: #P [gold_i]+[SCOPE.ScriptValue('kurultai_exploit_area_income_final_value')|2]%#!\n$TAB$Base: #P [gold_i]+[SCOPE.ScriptValue('kurultai_exploit_area_income_base_value')|2]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [stewardship_i][stewardship_skill|E]: #P [gold_i]+[SCOPE.ScriptValue('kurultai_exploit_area_income_skill_value')|2]%#!"
+
+ task_kurultai_exploit_gain_gold: "\n$EFFECT_LIST_BULLET$#P Gain Gold#!"
+ task_kurultai_exploit_gain_dread: "\n$EFFECT_LIST_BULLET$#P Gain Dread#!"
+ task_kurultai_exploit_reduce_fertility: "\n$EFFECT_LIST_BULLET$#N Reduce Fertility#!"
+ task_kurultai_exploit_lose_county_opinion: "\n$EFFECT_LIST_BULLET$#N Lose County Opinion#!"
+
+ task_kurultai_raider_1: "Organize Raiders"
+ task_kurultai_raider_2: "$task_kurultai_raider_1$"
+ task_kurultai_raider_3: "$task_kurultai_raider_1$"
+ task_kurultai_raider_4: "$task_kurultai_raider_1$"
+ task_kurultai_raider_modifier: "$task_kurultai_raider_1$ #weak (Kurultai Councillor Task)#!"
+
+ task_kurultai_raiders_only_one_target: "Can only have one [kurultai|E] member perform the #color_white $task_kurultai_raider_1$#! task at once"
+
+ task_kurultai_raider_loot_desc: "Max [raid_loot|E]: #P [raid_loot_i]+[SCOPE.ScriptValue('kurultai_organize_raiders_loot_final_value')|1]%#!\n$TAB$Base: #P [raid_loot_i]+[SCOPE.ScriptValue('kurultai_organize_raiders_loot_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_i][martial_skill|E]: #P [raid_loot_i]+[SCOPE.ScriptValue('kurultai_organize_raiders_loot_skill_value')|1]%#!"
+ task_kurultai_raider_attrition_desc: "\nHostile County [attrition|E] while [raiding|E]: #P [attrition_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_loot_final_value')|1]%#!\n$TAB$Base: #P [attrition_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_loot_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_i][martial_skill|E]: #P [attrition_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_loot_skill_value')|1]%#!"
+ task_kurultai_raider_raiding_desc: "\n[raid|E] Speed & Movement Speed while Raiding: #P [raid_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_raid_final_value')|1]%#!\n$TAB$Base: #P [raid_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_raid_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [martial_i][martial_skill|E]: #P [raid_i]-[SCOPE.ScriptValue('kurultai_organize_raiders_raid_skill_value')|1]%#!"
+
+ task_kurultai_raiders_gain_prestige: "\n$EFFECT_LIST_BULLET$#P Gain Prestige#!"
+ task_kurultai_raiders_gain_dread: "\n$EFFECT_LIST_BULLET$#P Gain Dread#!"
+ task_kurultai_raiders_lose_prestige: "\n$EFFECT_LIST_BULLET$#N Lose Prestige#!"
+ task_kurultai_raiders_lose_dread: "\n$EFFECT_LIST_BULLET$#N Lose Dread#!"
+
+ task_kurultai_culture_1: "Explore Cultures"
+ task_kurultai_culture_2: "$task_kurultai_culture_1$"
+ task_kurultai_culture_3: "$task_kurultai_culture_1$"
+ task_kurultai_culture_4: "$task_kurultai_culture_1$"
+ task_kurultai_culture_only_one_target: "Can only have one [kurultai|E] member perform the #color_white $task_kurultai_culture_1$#! task at once"
+ task_kurultai_culture_cooldown_effect_desc:0 "[culture|E] [reformation|E] Cooldown & Cost: #P [culture_i]-[SCOPE.ScriptValue('kurultai_culture_final_value')|2]%#!\n(Increases by #P -[SCOPE.ScriptValue('kurultai_culture_monthly_increase')|2]%#!/month up to #P -[SCOPE.ScriptValue('kurultai_culture_max_value')|0]%#!)\n$TAB$Base: #P [culture_i]-[SCOPE.ScriptValue('kurultai_culture_base_monthly_increase')|2]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [learning_i][learning_skill|E]: #P [culture_i]-[SCOPE.ScriptValue('kurultai_culture_skill_monthly_increase')|2]%#!"
+ task_kurultai_culture_hybridization_effect_desc:0 "\n[culture|E] [hybridizing|E] Threshold: #P [cultural_acceptance_i]-[SCOPE.ScriptValue('kurultai_culture_final_value')|2]%#!\n(Increases by #P -[SCOPE.ScriptValue('kurultai_culture_monthly_increase')|2]%#!/month up to #P -[SCOPE.ScriptValue('kurultai_culture_max_value')|0]%#!)\n$TAB$Base: #P [cultural_acceptance_i]-[SCOPE.ScriptValue('kurultai_culture_base_monthly_increase')|2]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')] [learning_i][learning_skill|E]: #P [cultural_acceptance_i]-[SCOPE.ScriptValue('kurultai_culture_skill_monthly_increase')|2]%#!"
+
+ task_kurultai_cultures_increase_acceptance: "\n$EFFECT_LIST_BULLET$#P Gain Cultural Acceptance#!"
+ task_kurultai_cultures_increase_opinion: "\n$EFFECT_LIST_BULLET$#P Gain Different Culture Opinion#!"
+ task_kurultai_cultures_decrease_acceptance: "\n$EFFECT_LIST_BULLET$#N Lose Cultural Acceptance#!"
+ task_kurultai_cultures_decrease_opinion: "\n$EFFECT_LIST_BULLET$#N Lose Different Culture Opinion#!"
+
+ # Kurultai Task Tooltips
+ kurultai_task.1001.notification: "Thriving Herds"
+ kurultai_task.1001.desc: "Thanks to the hard work of [councillor.GetShortUIName], our herds are thriving."
+
+ kurultai_task.1006.notification: "Recruiting Horde"
+ kurultai_task.1006.desc: "A small group of herders who have been driven out of their lands have pledged their loyalty to our tribe."
+ kurultai_herder_army: "Herder Horde"
+
+ kurultai_task.1051.notification: "Declining Herds"
+ kurultai_task.1051.desc: "Despite [councillor.GetShortUINamePossessive] hard work, we have seen a decline among our herds."
+
+ kurultai_task.1056.notification: "Declining Control"
+ kurultai_task.1056.desc: "[councillor.GetShortUINamePossessive] attempts at improving our herds have caused disruptions and conflict among our people."
+
+ kurultai_task.1101.notification: "Flourishing Fertility"
+ kurultai_task.1101.desc: "[county.GetDefinitiveName] is flourishing thanks to [councillor.GetShortUIName]."
+
+ kurultai_task.1106.notification: "Popular Rule"
+ kurultai_task.1106.desc: "[councillor.GetShortUINamePossessive] work in [county.GetDefinitiveName] have had an unexpected windfall."
+
+ kurultai_task.1151.notification: "Declining Fertility"
+ kurultai_task.1151.desc: "[councillor.GetShortUIName] have managed to mishandle our herds in [county.GetDefinitiveName], causing the fertility to wane in the area."
+
+ kurultai_task.1156.notification: "Unpopular Rule"
+ kurultai_task.1156.desc: "[councillor.GetShortUINamePossessive] handling of [county.GetNameNoTier] has proven incredibly unpopular, and it reflects on my rule as [ROOT.Char.GetTitleAsNameNoTooltip]."
+
+ kurultai_task.1201.notification: "Faithful Rule"
+ kurultai_task.1201.desc: "My people have been impressed by the work [astrologer.GetShortUIName] and [councillor.GetShortUIName] are doing on my behalf."
+
+ kurultai_task.1206.notification: "Friendly $court_astrologer_court_position$"
+ kurultai_task.1206.desc: "My [kurultai|E] [councillor.GetShortUIName] has been building a closer bond with [astrologer.GetShortUIName] on my behalf."
+
+ kurultai_task.1251.notification: "Shameful Rule"
+ kurultai_task.1251.desc: "My people are calling out [astrologer.GetShortUIName] and [councillor.GetShortUIName] for their abuse of their positions."
+
+ kurultai_task.1256.notification: "Furious $court_astrologer_court_position$"
+ kurultai_task.1256.desc: "My [kurultai|E] [councillor.GetShortUIName] is constantly at odds with my $court_astrologer_court_position$ [astrologer.GetShortUIName]."
+
+ kurultai_task.1301.notification: "Unexpected Findings"
+ kurultai_task.1301.desc: "[councillor.GetShortUIName] has managed to gather more gold than expected in [county.GetNameNoTier]."
+
+ kurultai_task.1306.notification: "Building a Reputation"
+ kurultai_task.1306.desc: "I have gained a reputation as a dreadful ruler after assigning [councillor.GetShortUIName] to exploit [county.GetNameNoTier]."
+
+ kurultai_task.1351.notification: "Exploited Lands"
+ kurultai_task.1351.desc: "[councillor.GetShortUINamePossessive] attempts at making the most out of [county.GetNameNoTier] have had unexpected, but not unsurprising side-effects."
+
+ kurultai_task.1356.notification: "Exploited People"
+ kurultai_task.1356.desc: "[councillor.GetShortUIName] work has had disastrous effects on the local tribes living in [county.GetNameNoTier]."
+
+ kurultai_task.1401.notification: "Impressive Raiders"
+ kurultai_task.1401.desc: "Our raiders are feared far and wide thanks to [councillor.GetShortUIName] drilling them."
+
+ kurultai_task.1406.notification: "Dreadful Raiders"
+ kurultai_task.1406.desc: "Our raiders strike fear into the heart of enemies far and wide, both inside and outside our borders."
+
+ kurultai_task.1451.notification: "Unimpressive Raiders"
+ kurultai_task.1451.desc: "Somehow, my raiders seem even less impressive now than when [councillor.GetShortUIName] started working with them."
+
+ kurultai_task.1456.notification: "Pitiful Raiders"
+ kurultai_task.1456.desc: "Beggars, drunkards, and weaklings. [councillor.GetShortUIName], give me back my raiders!"
+
+ kurultai_task.1501.notification: "Building Cultural Relations"
+ kurultai_task.1501.desc: "$task_accept_culture_acceptance_gain$"
+
+ kurultai_task.1506.notification: "Cultural Bonds"
+ kurultai_task.1506.desc: "Due to the endeavors of [councillor.GetShortUIName], foreigners are feeling welcome at court."
+
+ kurultai_task.1551.notification: "Wanining Cultural Relations"
+ kurultai_task.1551.desc: "[councillor.GetShortUINamePossessive] efforts have only managed to worsen cultural bonds."
+
+ kurultai_task.1556.notification: "Broken Bonds"
+ kurultai_task.1556.desc: "Despite the endeavors of [councillor.GetShortUIName], foreigners are feeling unwelcome at court."
+
+ # Kurultai Modifiers
+ kurultai_task_increase_county_opinion_modifier: "Popular Rule"
+ kurultai_task_increase_county_opinion_modifier_desc: "The people have been appeased and are happy with their liege, for now."
+
+ kurultai_task_decrease_county_opinion_modifier: "Exploited People"
+ kurultai_task_decrease_county_opinion_modifier_desc: "The people in this area have been exploited by and lost faith in their liege."
+
+ kurultai_task_increase_culture_opinion_modifier: "Cultural Bonds"
+ kurultai_task_increase_culture_opinion_modifier_desc: "Foreigners are feeling welcome at this character's court."
+
+ kurultai_task_decrease_culture_opinion_modifier: "Broken Bonds"
+ kurultai_task_decrease_culture_opinion_modifier_desc: "Foreigners are feeling unwelcome at this character's court."
  
  steward_promote_culture_beth_nahrain: "$task_promote_culture$ of Beth Nahrain"

@@ -17,7 +17,7 @@
  invite_to_activity_flavor_playdate:1 "Please come to my gathering in [ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetLocation.GetName]. It will be great fun, and a chance to meet other children!"
  invite_to_activity_flavor_witch_ritual:1 "It is time to pay our respects to [ROOT.Char.GetFaith.WitchGodName] once more, will you come to [ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetLocation.GetName] and share in the revelations?"
  invite_to_activity_flavor_gruesome_festival:1 "I hereby invite you to [ROOT.Char.GetInvolvedActivity.GetCurrentPhase.GetLocation.GetName] for a grand sacrifice to honor [ROOT.Char.GetFaith.PantheonTerm]."
- invite_to_activity_flavor_fallback:0 "I am soon holding a [ROOT.Char.GetInvolvedActivity.GetName], and hereby invite you to attend."
+ invite_to_activity_flavor_fallback:0 "I am soon holding a [GetActivityType('activity_hunt').GetName], and hereby invite you to attend."
  activity_location_any_game_tt:0 "Location must have some hunting game"
  activity_location_owned_or_vassal_tt:1 "[county|E] must be held by you or a [direct_vassal|E]"
 

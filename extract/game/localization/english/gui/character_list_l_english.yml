@@ -271,6 +271,8 @@
  holy_order_government_filter_option: "$game_concept_holy_order$"
  administrative_government_filter_option: "$game_concept_administrative$"
  landless_adventurer_government_filter_option: "$game_concept_adventurer$"
+ nomad_government_filter_option: "$game_concept_nomadic_government$"
+ herder_government_filter_option: "$game_concept_herder$"
  
  feudal_government_filter_option_desc: "Only show characters with [feudal|E] [government|E]"
  republic_government_filter_option_desc: "Only show characters with [republic|E] [government|E]"
@@ -281,3 +283,5 @@
  holy_order_government_filter_option_desc: "Only show characters with [holy_order|E] [government|E]"
  administrative_government_filter_option_desc: "Only show characters with [administrative|E] [government|E]"
  landless_adventurer_government_filter_option_desc: "Only show characters with [adventurer|E] [government|E]"
+ nomad_government_filter_option_desc: ""
+ herder_government_filter_option_desc: ""

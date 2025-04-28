@@ -7,6 +7,8 @@
  loyal_pack_of_hounds_modifier_desc: "This character is never without their loyal hounds. Where they go, the canines go — it makes court awkward but campaigning bearable."
  frequent_daydreamer_modifier: "Frequent Daydreamer"
  frequent_daydreamer_modifier_desc: "This character often seems lost in what must surely be deep, weighty thoughts."
+ strong_flock_of_eagles_modifier: "Strong Flock of Eagles"
+ strong_flock_of_eagles_modifier_desc: "This character is often seen with a flock of eagles, who seem to follow them wherever they go. The birds are a symbol of strength and power."
 
  bp2_yearly_0641_vs_courtly_modifier: "Good Repute: Courtly Vassals"
  bp2_yearly_0641_vs_courtly_modifier_desc: "Someone has been spreading sweet honey in the ears of this character's vassals."
@@ -122,6 +124,7 @@
  bp2_yearly.0621.desc.gift.event_troops: "an armored retainer, kneeling and offering me [dummy_soldier.GetHerHis] hand in fealty."
  bp2_yearly.0621.desc.gift.dog: "a sleek, noble hound, its tail wagging furiously."
  bp2_yearly.0621.desc.gift.cat: "an elegant cat, one leg held aloft, looking for all the world as shocked to see me as I am to see it."
+ bp2_yearly.0621.desc.gift.eagle: "a cunning eaglet, its wings spread wide, perched on a stand."
  bp2_yearly.0621.extra_stuff.success: "[regent.GetFirstName] finds more to gift on short notice"
  bp2_yearly.0621.extra_stuff.failure: "You get what you get and you'll be happy with it"
  bp2_yearly.0621.a: "What a beautiful surprise!"

@@ -24,3 +24,5 @@
  message_group_type_epidemic: "@epidemic_icon! Plagues"
  message_group_type_administrative: "@governor_efficiency! Administrative"
  message_group_type_adventurer: "@government_type_adventurer! Adventurers"
+ message_group_type_situation: "@banner_icon! Situations"
+ message_group_type_nomadic: "@government_type_nomad! Nomadic"

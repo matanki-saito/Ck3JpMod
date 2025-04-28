@@ -113,3 +113,36 @@
  journey_events.57.desc: "Despite my best attempts at shifting blame to my [threat_1.GetCouncilTitle], [threat_1.GetFirstName], I keep getting interrupted by one person or another. They keep injecting something about my character or some rumor me.\n\nBefore I knew it, the evening was suddenly ending, and they were all leaving with an even lower opinion of me than when I started. How on earth did this happen?"
  journey_events.57.a: "Who would have thought I was this unpopular?"
  journey_events.57.a.tt: "Well... Not quite as productive as I had hoped, but a memorable evening if nothing else..."
+
+ journey_events.60.t: "Enlightenment"
+ journey_events.60.desc_intro: "As of late, I have been burdened with unease. The [journey_province.Custom('TerrainTypeProvincePrefix')] [journey_county.Custom('TerrainTypeCountyScopePlural')] in [journey_county.GetNameNoTierNoTooltip] have been lovely, but it cannot fill the unending sense of emptiness.\n\nWhile going about my usual bidding, "
+ journey_events.60.desc_courtly: "I walk into [journey_county.GetHolder.GetNamePossessive] court, and watch [journey_county.GetHolder.GetHerHim] preside over it. The lords and ladies of [journey_county.GetHolder.GetPrimaryTitle.GetNameNoTierNoTooltip] gather around [journey_county.GetHolder.GetHerHim] solemnly, as petitioners begin to arrive. All present themselves to the [journey_county.GetHolder.GetTitleTierName] with dignity, albeit to ask for [journey_county.GetHolder.GetHerHis] gold or support. No matter how dull nor trivial the request, [journey_county.GetHolder.GetSheHe] listens attentively, and offers a fair judgement."
+ journey_events.60.desc_bellicose: "I stumble upon an encampment, and observe as a group of knights train. They spar with one another, and their movements show a sense of brutality, yet also grace, as they move in almost perfect unison. Their commander, looks upon them with a sense of pride, and the mutual respect between them is palpable."
+ journey_events.60.desc_stoic: "I witness children playing in the streets, with the exception of one, who seems to be the target of their games. He is pushed around, his clothes are torn, yet he remains calm and composed. He simply gets up, dusts himself off, and continues on his way to the bewilderment of the others, who lose interest in him."
+ journey_events.60.desc_bureaucratic: "Local pupils scurry about town, bearing scrolls and books. A piece falls from one of their hands, with the student not taking notice. Before I attempt to return it, I notice an intricate blueprint on the [ROOT.Char.Custom('GetWritingMaterial')] that catches my eye. It looks to be a plan for a new building in [journey_county.GetNameNoTierNoTooltip], with such advanced features that I would expect to see from the mind of a master architect. None of the students look past the age of 18, but have already mastered a craft that would take most a lifetime."
+ journey_events.60.desc_spiritual: "I come across a group of peasants and monks alike, gathered around in a circle. Their soft hymns fill the air, though I cannot make out if they are singing in praise of [ROOT.Char.GetFaith.HighGodName] or another deity. Upon closer inspection, I realize some peasants are of higher stature, with some even wearing the garb of nobility. Nonetheless, all seem to be in a state of peace, with their reverence of the divine binding them together."
+ journey_events.60.desc_egalitarian: "I decide to take a quick stop at a local tavern, walking directly into a discussion. From their accents and garments alike, the patrons share few similarities. Yet, the discussion is rather civil and lively, and there seems to be no judgement, as if they've all came from the same womb. People are spoken to as a traveller in [journey_county.GetNameNoTierNoTooltip], rather than another [journey_culture.GetNameNoTooltip] or [ROOT.Char.GetCulture.GetNameNoTooltip]."
+ journey_events.60.desc_communal: "a chilling scream is heard, and people rush to the source. I follow, and witness a woman clutching her babe in front of a burning house. The others waste no time in grabbing buckets of water, and even nobles are getting their hands dirty. The fire is put out quickly, but the mother's home is lost. The townsfolk gather around her and the child, offering what little they have to help them rebuild."
+ journey_events.60.opt: "Perhaps I can learn something from these [journey_culture.GetCollectiveNounNoTooltip]."
+ journey_events.60.opt_b: "I have seen so much in my travels."
+
+ journey_bellicose_modifier: "Martial Respect"
+ journey_bellicose_modifier_desc: "This character witnessed knights in action, and it left them in awe."
+
+ journey_stoic_modifier: "Unending Resolve"
+ journey_stoic_modifier_desc: "This character practices the art of stoicism."
+
+ journey_bureaucratic_modifier: "Aspiring Architect"
+ journey_bureaucratic_modifier_desc: "This character has seen the advanced planning of a local building project."
+
+ journey_spiritual_modifier: "Divine Reverence"
+ journey_spiritual_modifier_desc: "This character appreciates the presence of a higher power."
+
+ journey_egalitarian_modifier: "Universal Advocate"
+ journey_egalitarian_modifier_desc: "This character has seen the benefits of a diverse society.\n[courtier|E] Recruitment Cost: #P -10%#!"
+
+ journey_communal_modifier: "Community Patron"
+ journey_communal_modifier_desc: "This character brings their herd together in times of need.\n[GetActivityType('activity_camp_party').GetName] [activity|E] Cost: #P -20%#!\n[GetActivityType('activity_feast').GetName] [activity|E] Cost: #P -20%#!"
+
+ journey_courtly_modifier: "Court Connoisseur"
+ journey_courtly_modifier_desc: "This character appreciates a well-run court."

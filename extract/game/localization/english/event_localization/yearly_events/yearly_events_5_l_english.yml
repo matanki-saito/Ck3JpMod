@@ -87,6 +87,7 @@
  yearly.5020.steward.desc:0 "about doing sums and administering land and wealth."
  yearly.5020.spymaster.desc:0 "about being discreet and acquiring obscure information."
  yearly.5020.court_chaplain.desc:0 "about the history of our realm and the traditions of our people."
+ yearly.5020.kurultai.desc: "about the horse-archery and the herding ways of the steppes."
  yearly.5020.a:0 "As long as you know what you are doing..."
  yearly.5020.a.e.tt:0 "[helpful_councillor.GetFirstNameNoTooltip] will teach [scoped_heir.GetFirstNameNoTooltip] about [helpful_councillor.GetHerHis] responsibilities as [helpful_councillor.GetCouncilTitle]"
  yearly.5020.b.a:0 "[scoped_heir.GetFirstNamePossessiveNoTooltip] future does not concern you."

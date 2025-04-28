@@ -179,6 +179,10 @@
  relation_wet_nurse_male: "wet nurse"
  relation_akolouthos_male: "akolouthos"
  relation_akolouthos_female: "akolouthos"
+ relation_court_astrologer_male: "stargazer"
+ relation_court_astrologer_female: "stargazer"
+ relation_court_astrologer_male_possessive: "stargazer's"
+ relation_court_astrologer_female_possessive: "stargazer's"
  relation_court_physician_female_possessive: "personal physician's"
  relation_court_physician_male_possessive: "personal physician's"
  relation_keeper_of_swans_female_possessive:0 "keeper of the swans's"
@@ -543,6 +547,7 @@
  favorite_child: "[favorite_child|E]"
  old_flame: "#D Old Flame (Hidden)#!"
  grudge: "[grudge|E]"
+ blood_brother: "[blood_brother|E]"
 
  friend_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [friend|E]"
  best_friend_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [best_friend|E]"
@@ -552,6 +557,7 @@
  lover_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [lover|E]"
  soulmate_desc:0 "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [soulmate|E]"
  favorite_child_desc: "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [favorite_child|E]"
+ blood_brother_desc: "This is [CHARACTER.GetShortUINamePossessiveNoTooltip] [blood_brother|E]"
 
  #Frame playable
  FRAME_RELATION_ME:1 "#T This is you#!"
@@ -581,6 +587,11 @@
  FRAME_RELATION_UNAHAPPY_POWERFUL_VASSAL:2 "#T Powerful Vassal#!\n@warning_icon! #X This [ruler|E] is a [powerful_vassal|E] who has a lowered [opinion|E] of you because you have not granted them a position on your [council|E]#!"
  FRAME_RELATION_POWERFUL_FAMILY: "#T Head of Powerful Family#!\nThis [character|E] is the [house_head|E] of a [powerful_family|E] - [house|E] [Character.GetHouse.GetName]"
  FRAME_RELATION_DOMINANT_FAMILY: "#T Head of Dominant Family#!\nThis [character|E] is the [house_head|E] of a [dominant_family|E] - [house|E] [Character.GetHouse.GetName]"
+
+ FRAME_RELATION_TRIBUTARY: "#T [SubjectContract.GetContractGroup.GetNameNoTooltip]#!\nThis [ruler|E] is your [tributary|E]"
+
+ FRAME_RELATION_OBEDIENT: "[Character.GetShortUIName|U] [CharAreIs(CHARACTER)] obedient to [TARGET_CHARACTER.GetShortUIName]."
+ FRAME_RELATION_NO_OBEDIENCE: "[Character.GetShortUIName|U] [Select_CString( Character.IsLocalPlayer, 'obey', 'obeys' )] no one."
 
  #To address someone (RelationToMeAddress)
  relation_my_love:0 "my love"
@@ -662,3 +673,7 @@
 #EP3 custom loc
 relation_ally: "ally"
 relation_foe: "foe"
+
+#CE2 custom loc
+relation_blood_brother_male: "blood brother"
+relation_blood_brother_female: "blood sister"

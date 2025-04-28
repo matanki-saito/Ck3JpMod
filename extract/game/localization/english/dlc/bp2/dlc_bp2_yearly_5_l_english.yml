@@ -130,7 +130,7 @@
  bp2_yearly.5103.c: ""I'm sorry. I won't do it again.""
 
  bp2_yearly.5104.t: "The Lonely Child"
- bp2_yearly.5104.desc: "I clatter out into the courtyard, toy in hand. Finally, some time to play outside! My excitement is short-lived, however, and quickly replaced by confusion.\n\n[child.GetFirstName] is sitting on a bench looking out over the courtyard. The air around [child.GetHerHim] hangs thick with ennui, and [child.GetSheHe] barely even greets me as I approach. I make some friendly gestures out towards the open space, even proffering my toy, but [child.GetFirstNameNoTooltip] simply sighs and shakes [child.GetHerHis] head.\n\nI scratch my head awkwardly. What do I do now?"
+ bp2_yearly.5104.desc: "I bound into the courtyard, toy in hand, only to find [child.GetFirstName] slumped on a bench. [child.GetSheHe|U] barely notices me, sighing at my attempts to cheer [child.GetHerHim]. My toy goes untouched, leaving me scratching my head.\n\nWhat do I do now?"
  bp2_yearly.5104.a: "I will just sit here and share in their mood."
  bp2_yearly.5104.b: ""Come on, [child.GetFirstNameNoTooltip], come and play!""
  bp2_yearly.5104.b.success: "You manage to persuade [child.GetFirstNameNoTooltip] to come and play, and they soon cheer up"

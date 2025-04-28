@@ -157,14 +157,30 @@
 
  abandoned_opinion: "Abandoned"
  famed_parent_became_very_famous: "Famed Parent"
- famed_parent_became_very_famous_desc: "My [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became [GetPrestigeLevelName( famed_parent.GetPrestigeLevel )]"
- famed_parent_became_very_famous_desc_second_perspective: "your [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became [GetPrestigeLevelName( famed_parent.GetPrestigeLevel )]"
- famed_parent_became_very_famous_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [famed_parent.GetMotherFather], [ famed_parent.GetFirstNameNoTooltip], became [GetPrestigeLevelName( famed_parent.GetPrestigeLevel )]"
+ famed_parent_became_very_famous_3_desc: "My [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_3$"
+ famed_parent_became_very_famous_3_desc_second_perspective: "your [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_3$"
+ famed_parent_became_very_famous_3_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_3$"
+
+ famed_parent_became_very_famous_4_desc: "My [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_4$"
+ famed_parent_became_very_famous_4_desc_second_perspective: "your [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_4$"
+ famed_parent_became_very_famous_4_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_4$"
+
+ famed_parent_became_very_famous_5_desc: "My [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_5$"
+ famed_parent_became_very_famous_5_desc_second_perspective: "your [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_5$"
+ famed_parent_became_very_famous_5_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [famed_parent.GetMotherFather], [famed_parent.GetFirstNameNoTooltip], became $PRESTIGE_LEVEL_LABEL_5$"
 
  pious_parent_became_very_pious: "Pious Parent"
- pious_parent_became_very_pious_desc: "My [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became [GetPietyLevelName( pious_parent.GetPietyLevel )]"
- pious_parent_became_very_pious_desc_second_perspective: "your [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became [GetPietyLevelName( pious_parent.GetPietyLevel )]"
- pious_parent_became_very_pious_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [pious_parent.GetMotherFather], [ pious_parent.GetFirstNameNoTooltip], became [GetPietyLevelName( pious_parent.GetPietyLevel )]"
+ pious_parent_became_very_pious_3_desc: "My [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_3$"
+ pious_parent_became_very_pious_3_desc_second_perspective: "your [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_3$"
+ pious_parent_became_very_pious_3_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_3$"
+
+ pious_parent_became_very_pious_4_desc: "My [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_4$"
+ pious_parent_became_very_pious_4_desc_second_perspective: "your [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_4$"
+ pious_parent_became_very_pious_4_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_4$"
+
+ pious_parent_became_very_pious_5_desc: "My [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_5$"
+ pious_parent_became_very_pious_5_desc_second_perspective: "your [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_5$"
+ pious_parent_became_very_pious_5_desc_third_perspective: "[owner.GetTitledFirstNamePossessive] [pious_parent.GetMotherFather], [pious_parent.GetFirstNameNoTooltip], became $PIETY_LEVEL_LABEL_5$"
 
  delayed_justice_piety: "Delayed Justice: Personal Convictions"
  delayed_justice_piety_desc: "This character has dealt with a relative's killer according to their convictions."

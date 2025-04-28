@@ -82,7 +82,7 @@
  FACTION_WINDOW_MEMBER_TOOLTIP:0 "#S Faction Member#!\n#T [Character.GetUINameNoTooltip]#![SelectLocalization( FactionCharacterMember.IsAtWarAgainstTarget, 'FACTION_MEMBER_IS_IN_ANOTHER_WAR', '' )]\n#S [faction_military_power|E] Contribution: [FactionCharacterMember.CalcPower|%1V]#!\n#weak Contribution is based on how many [soldiers|E] they have#!\n\n[SelectLocalization( Character.IsPlayer, 'FACTION_WINDOW_MEMBER_TOOLTIP_HUMAN_COMMIT', 'FACTION_WINDOW_MEMBER_TOOLTIP_AI' )]#I Click to view#!"
  FACTION_WINDOW_MEMBER_TOOLTIP_AI: "[FactionCharacterMember.GetMember.Custom('forced_into_faction_loc')]"
  FORCED_INTO_FACTION_WINDOW_TOOLTIP: "@warning_icon! #color_red $msg_faction_forced_to_join$#!\n\n"
- FACTION_WINDOW_MEMBER_TOOLTIP_AI_COMMIT:0 "#S Faction Commitment: [FactionCharacterMember.CalcJoinScore|V0=+]#! #weak (leaves if less than [GetDefine('NFaction', 'LEAVE_SCORE_THRESHOLD')])#!\n[FactionCharacterMember.CalcJoinBreakdown]\n\n"
+ FACTION_WINDOW_MEMBER_TOOLTIP_AI_COMMIT: "#S Faction Commitment: [FactionCharacterMember.CalcJoinScore|0=-]#! #weak (leaves if less than [GetDefine('NFaction', 'LEAVE_SCORE_THRESHOLD')])#!\n[FactionCharacterMember.CalcJoinBreakdown]\n\n"
  FACTION_WINDOW_MEMBER_TOOLTIP_HUMAN_COMMIT:0 "#weak Played by [Character.GetHumanName|V]#!\n\n"
  FACTION_MEMBER_IS_IN_ANOTHER_WAR:1 "\n@warning_icon! #X Already at War with [Faction.GetTarget.GetUIName]. Will not participate if the demands are pressed.#!\n"
  PLAYER_CANNOT_JOIN_FACTION_OF_THIS_TYPE:0 "@warning_icon! #X Can never join this type of faction#!"

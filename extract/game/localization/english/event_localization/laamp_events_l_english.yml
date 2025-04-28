@@ -14,7 +14,7 @@
  ep3_laamps.0001.d: "We look to [alt_3.GetFirstNameNoTooltipRegnal], now."
  ep3_laamps.0001.e: "The time has passed..."
  ep3_laamps.0003.opening: "[adventurer.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
- ep3_laamps.0003.desc: "You and your foul hosts may have wrested my [lost_primary_title.GetTierAsNameNoTooltip|l] from me, but mark me: I am not through yet, nor will I give up [lost_primary_title.GetNameNoTierNoTooltip] so easily!"
+ ep3_laamps.0003.desc: "You and your foul hosts may have wrested my [lost_primary_title.GetTierAsNameNoTooltip|l] from me, but mark me: I am not through yet, nor will I give up [lost_primary_title.GetBaseNameNoTierNoTooltip] so easily!"
  ep3_laamps.0003.a: "Hah! The fool has spirit!"
  ep3_laamps.0004.desc: "These damnable traitors have wrested my [conquered.GetTierAsNameNoTooltip|l] from me, casting me out into the wilderness, while [winner.GetTitledFirstName] and [winner.GetHerHis] soldiers acclaim [heir.GetTitledFirstName] in my place!\n\nI have allowed renegades and liars to take from me the [conquered.GetAdjectiveNoTooltip] throne... we truly are just the playthings of [ROOT.Char.GetFaith.FateGodName]..."
  lose_all_prestige_tt: "You retain only up to #V 100#! [prestige_i][prestige|E]"

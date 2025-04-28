@@ -72,5 +72,5 @@
 
  NUM_DISCOVERED_INNOVATIONS_IN_ERA_TRIGGER: "The [CULTURE.GetName|U] [culture_possessive|E] number of Discovered [innovations|E] #weak ($CURRENT_VALUE|0$)#! in the $ERA$ [era|E] is $COMPARATOR$ $NUM|V0$"
 
- HAS_SAME_CULTURAL_HERITAGE: "You share the same [Concept('culture','cultural')|E] [heritage|E]"
- HAS_SAME_CULTURAL_HERITAGE_NOT: "You do not share the same [Concept('culture','cultural')|E] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE: "You share the same [Concept('culture','cultural')|EU] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE_NOT: "You do not share the same [Concept('culture','cultural')|EU] [heritage|E]"
