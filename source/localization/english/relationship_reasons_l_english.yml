@@ -674,7 +674,7 @@
  lover_spouse:0 "夫婦として結ばれたあとで、[CHARACTER.GetShortUIName]は[TARGET_CHARACTER.GetShortUIName]を誘惑した。"
  lover_spouse_corresponding:0 "夫婦として結ばれたあとで、[TARGET_CHARACTER.GetShortUIName]は[CHARACTER.GetShortUIName]を誘惑した。"
  lover_seduction_rival:1 "[CHARACTER.GetShortUIName|U]は、[CHARACTER.GetHerHis]のライバルである[TARGET_CHARACTER.GetShortUIName]を、情熱的な夜に誘惑した。"
- lover_seduction_rival_corresponding:1 "[TARGET_CHARACTER.GetShortUIName|U]は、[TARGET_CHARACTER.GetHerHis]のライバルである[CHARACTER.GetShortUIName]を、情熱的な夜に誘惑した。"
+ lover_seduction_rival_corresponding:1 "[TARGET_CHARACTER.GetShortUIName|U]は大嫌いなはずの[CHARACTER.GetShortUIName]と情熱的な夜を共にした。"
  lover_close_family:1 "[CHARACTER.GetShortUIName|U]は、社会規範に反して、近親者である[TARGET_CHARACTER.GetShortUIName]を誘惑した。"
  lover_close_family_corresponding:1 "[TARGET_CHARACTER.GetShortUIName|U]は、社会規範に反して、近親者である[CHARACTER.GetShortUIName]を誘惑した。"
  lover_close_family_legal:2 "[CHARACTER.GetShortUIName|U]は、社会の規範にしたがって、近親者である[TARGET_CHARACTER.GetShortUIName]を誘惑した。"
