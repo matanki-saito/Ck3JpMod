@@ -264,3 +264,7 @@
  has_tutor_filter_option_desc: "[guardian|E]が割り当てられている[children|E]のみを表示する"
  has_tutor_filter_option: "家庭教師を持っている"
  tutor_filter: "教育可能"
+ nomad_government_filter_option: "$game_concept_nomadic_government$"
+ herder_government_filter_option: "$game_concept_herder$"
+ nomad_government_filter_option_desc: ""
+ herder_government_filter_option_desc: ""

@@ -120,3 +120,4 @@
  TRAVEL_NAME_FOR_activity_roaming: "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_journey: "$TRAVEL_NAME_FOR_activity_tournament$"
  TRAVEL_NAME_FOR_activity_survey: "$TRAVEL_NAME_FOR_activity_tournament$"
+ PROVINCE_DANGER_MIGRATION: "[migration|E]"

@@ -98,3 +98,4 @@
  MAAS_COUNTERED_IN_COMBAT:0 "[men_at_arms_counter|E]のため効果が低下した状態で戦う[men_at_arms|E]："
  COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]：[Combat.GetLeftSide.GetCurrentFightingMen|0]対[Combat.GetRightSide.GetCurrentFightingMen|0]\n#I クリックで表示#!"
  COMMANDER_ADVANTAGE_DESC:1 "#T 指揮官[advantage|E]：$ADVANTAGE$#!\n軍事能力：$SKILL|+=$\n$MODIFIERS$"
+ COMBAT_NO_RETREAT_DISALLOWED: "@warning_icon! 退却が許される状況ではない"

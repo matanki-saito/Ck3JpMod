@@ -130,3 +130,4 @@
  ACTIVITY_GUEST_OPTIONS_CHARIOT_RACE_ENTERTAINMENT_NORMAL: "$chariot_entertainment_normal$：$VALUE|=+0$"
  ACTIVITY_GUEST_OPTIONS_CHARIOT_RACE_ENTERTAINMENT_GOOD: "$chariot_entertainment_good$：$VALUE|=+0$"
  ACTIVITY_GUEST_LANDLESS_REASON: "[ROOT.Char.GetSheHe|U]は[ROOT.Char.GetHerHim]の下にあるあなたの$activity_camp_party$を考慮する：$VALUE|=+0$"
+ ACTIVITY_GUEST_BELLIGERENT_REASON:0 "[ROOT.Char.GetSheHe|U] is a [GetVassalStance('belligerent').GetTextIcon][GetVassalStance('belligerent').GetName] [vassal|E]: $VALUE|=+0$"

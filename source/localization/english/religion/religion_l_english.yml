@@ -863,7 +863,6 @@
  west_african_unreformed_faith_doctrine_name:0 "$unreformed_faith_doctrine_name$"
  west_african_unreformed_faith_doctrine_desc:0 "$unreformed_faith_doctrine_desc$"
  fervor_gain_holy_order_expelled_by_force:0 "別の[faith|E]による[holy_order|E]の追放"
- faith_conversion_cost_witch_event:0 "あなたはこの[faith|E]の魔術を学んだ"
  doctrine_deviancy_virtuous_name:0 "美徳"
  doctrine_deviancy_virtuous_desc:0 "肉体の法悦は我らを神へと近づけてくれる。しかれば、ありきたりな欲望に縛られていない人々こそが私たちの信仰における尊き美徳なのだ。"
  doctrine_witchcraft_virtuous_name:0 "美徳"
@@ -950,3 +949,4 @@
  doctrine_parameter_unlock_voluntary_laampdom_faith_DLC: "$culture_parameter_unlock_voluntary_laampdom_DLC$"
  doctrine_parameter_unlock_voluntary_laampdom_faith_NO_DLC: "$culture_parameter_unlock_voluntary_laampdom_NO_DLC$"
  unlock_voluntary_laampdom_faith_name: "[GetFaithDoctrine('tenet_struggle_submission').GetBaseName]、[GetFaithDoctrine('tenet_fp3_fedayeen').GetBaseName]、[GetFaithDoctrine('tenet_mendicant_preachers').GetBaseName]、[GetFaithDoctrine('tenet_vows_of_poverty').GetBaseName]、あるいは[GetFaithDoctrine('tenet_asceticism').GetBaseName]"
+ faith_conversion_cost_event:0 "You have encountered this [faith|E] before"

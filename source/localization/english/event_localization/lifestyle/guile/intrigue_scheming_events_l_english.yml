@@ -43,7 +43,7 @@
  intrigue_scheming.1401.t:0 "遠方からの知らせ"
  intrigue_scheming.1401.desc_opening:0 "地元の市場を訪れた私の目に留まったのは、遠く離れた土地から来た商人だった。\n\n「もっと近くへどうぞ、我が[ROOT.Char.GetLadyLord]！この地では見たこともないような財宝にどうぞ驚いてください！"
  intrigue_scheming.1401.desc1:0 "この可愛い子たちを取り出す時は背中に気をつけなきゃなりません、事実私はそうしました。おちおち眠れもしませんよ。」"
- intrigue_scheming.1401.desc2:0 "この美しい品々を担当している衛兵たちのすぐそばを歩いて通りました。ほんとに人間をよく知ってるんです、私は。」"
+ intrigue_scheming.1401.desc2:0 "Snuck right past the guards responsible for these beauties. A true knower of people, that's me.\""
  intrigue_scheming.1401.desc3:0 "この可愛い子たちを外に出してやる為に私は人込みに紛れる必要がありました。まったくひどい経験ですよ。」"
  intrigue_scheming.1401.desc_ending:0 "\n\nこの商人は遠くから来たという驚嘆以上のものを私に与えてくれるかもしれない。"
  intrigue_scheming.1401.a:0 "「汝のように存分に旅する事は面白いに違いない！」"

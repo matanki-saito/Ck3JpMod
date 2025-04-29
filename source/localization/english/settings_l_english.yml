@@ -104,3 +104,6 @@
  SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED_TOOLTIP: "#T $SETTING_HAS_FLAT_MAP_LIGHTING_ENABLED$#!\n羊皮紙マップがマップテーブルから照明と影を受けるかどうかを設定します。(古典的な羊皮紙マップのカラー効果を得るには、これを無効にします)"
  byzantine: "ビザンツ"
  map_table_style_ep3: "ビザンツ"
+ nomad: "$nomad_government$"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON: "Detailed [raid|e] icons"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON_TOOLTIP: "#T $SETTING_SHOW_DETAILED_RAID_MAP_ICON$#!\nSets if the [raid|e] map icons should display the simplified or detailed icons\n\n#I If enabled, hold Alt to display all holdings with loot you can [raid|e].#!"

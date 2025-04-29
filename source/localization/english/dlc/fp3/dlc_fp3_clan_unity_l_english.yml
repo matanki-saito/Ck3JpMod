@@ -224,3 +224,4 @@
  clan_unity_caliph_interfered_with_unity.desc: "[unity_target.GetName]は[unity_character.GetName]の要望に応じて干渉した"
  clan_unity_maimed.desc: "[unity_target.GetName]に深手を負わせた"
  clan_unity_seize_realm_attempted.desc: "[unity_target.GetNamePossessive]の領国を奪おうとした"
+ clan_unity_become_blood_brother.desc: "became the [blood_brother|E] of [unity_target.GetName]"

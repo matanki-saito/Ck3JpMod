@@ -30,3 +30,6 @@
  any_county_province_GLOBAL: "[TITLE.GetName]内の全ての[barony|E]："
  is_holy_site_of_GLOBAL: "[TITLE.GetName]は[FAITH.GetName]の[holy_site|E]である"
  is_holy_site_of_GLOBAL_NOT: "[TITLE.GetName]は[FAITH.GetName]の[holy_site|E]では#bold ない#!"
+ is_lakeside_province_global: "[province|E] borders a lake"
+ is_lakeside_county_global: "[county|E] borders a lake"
+ any_neighboring_top_liege_realm_owner: "Any neighboring [independent_ruler|E]:"

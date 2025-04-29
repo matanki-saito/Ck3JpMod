@@ -10,7 +10,7 @@
  struggle_iberia_phase_conciliation:0 "和解"
  struggle_iberia_phase_conciliation_desc:0 "$game_concept_struggle_phase_iberia_conciliation_desc$"
  CURRENT_PHASE:0 "現在のフェイズ"
- PHASE_EFFECTS_HEADER:0 "フェイズ効果"
+ PHASE_EFFECTS_HEADER: "Phase Effects"
  PHASE_EFFECTS_LOWER:0 "フェイズ効果"
  ENDING_DECISION_BUTTON_LABEL_MULTIPLE:1 "#high 闘争のエンディングを表示#!"
  ENDING_DECISION_BUTTON_LABEL_SINGLE:1 "#high 闘争のエンディングを表示#!"

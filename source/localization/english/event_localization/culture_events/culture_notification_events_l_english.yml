@@ -18,7 +18,7 @@
  culture_notification.1101.t:0 "文化の分岐：[new_culture.GetNameNoTooltip|V]"
  culture_notification.1101.desc:0 "[founder.GetTitledFirstName]は[parent_1.GetName]の[divergent_culture|E]である[new_culture.GetName|V]を作成した"
  culture_notification.1111.t:0 "[new_culture.GetNameNoTooltip]の分岐"
- culture_notification.1111.intro:0 "方言が少し変わったり、風習が少し変わったり…。最初は見逃しがちだった。しかし、小さな変化が大きな変化を生み、今では[founder.GetPrimaryTitle.GetNameNoTierNoTooltip]に住む[parent_1.GetCollectiveNoun]は代わりに[new_culture.GetName]として自分たちを認識し始めている。\n\n"
+ culture_notification.1111.intro:0 "Small changes in dialect, slightly different customs... It was easy to miss at first. Over time small changes led to large ones, however, and now the [parent_1.GetCollectiveNoun] living in [founder.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] have begun to identify themselves as [new_culture.GetName] instead.\n\n"
  culture_notification.1111.ethos.bellicose:0 "荒野やライバルたちの圧力に直面し、[new_culture.GetCollectiveNounNoTooltip]は武力によって生計を立て守ろうとするため、ますます戦争好きになってきている。"
  culture_notification.1111.ethos.bureaucratic:1 "[new_culture.GetCollectiveNounNoTooltip]は冗長な法律、長い年代記、迷路のような憲章に対する欲求が高まっているようで、拡大し続ける形式的慣習による社会運営を快適なものにしている。"
  culture_notification.1111.ethos.courtly:1 "礼節と作法への関心が高まる中、[new_culture.GetCollectiveNounNoTooltip]は秩序と儀礼に満ちた生活様式を受け入れつつある。安定と繁栄による新たな時代を築くために。"

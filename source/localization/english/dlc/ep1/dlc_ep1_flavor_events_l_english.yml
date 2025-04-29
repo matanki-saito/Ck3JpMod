@@ -323,5 +323,6 @@
  fought_for_courtly_love_modifier_desc: "この人物は愛のために戦い、そして敗れた。しかしながら、なんと勇敢なショーを見せてくれたことか！"
  promise_of_feasts_modifier: "来たるべき饗宴の約束"
  promise_of_feasts_modifier_desc: "この人物は饗宴で廷臣たちのご機嫌を取り、そのために愛されている。彼らにとって饗宴は安上がりだ。"
- more_work_less_fun_modifier: "仕事が増えて楽しみが減る"
- more_work_less_fun_modifier_desc: "この人物は、廷臣たちが腹一杯に食べ、時間を浪費することを喜ばない。彼らにとって饗宴は高くつくものだ。"
+ more_work_less_fun_modifier: "More Work, Less Fun"
+ feasts_more_expensive_tt: "[GetActivityType('activity_feast').GetName] @gold_icon![gold|E] is increased#!"
+ feasts_more_expensive_modifier_tt: "Increased [GetActivityType('activity_feast').GetName] @gold_icon![gold|E] cost#!"

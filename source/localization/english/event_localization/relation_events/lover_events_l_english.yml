@@ -374,3 +374,4 @@
  lover.8102.c.failure:0 "[brothel_worker.GetTitledFirstNameNoTooltip]は金と引き換えに沈黙に同意する"
  lover.8102.c.crit_failure:0 "[brothel_worker.GetTitledFirstNameNoTooltip]はあなたが何をしたのかを公表する"
  lover.8102.d:0 "我々の過去を秘密にしてくれるなら、一緒に来るといい。"
+ lover.1006.desc_kurultai: "Your skills in herding matters are widely known,"

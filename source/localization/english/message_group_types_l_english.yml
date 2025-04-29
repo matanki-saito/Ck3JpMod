@@ -24,3 +24,5 @@
  message_group_type_epidemic: "@epidemic_icon!伝染病"
  message_group_type_administrative: "@governor_efficiency!統治"
  message_group_type_adventurer: "@government_type_adventurer!冒険者"
+ message_group_type_situation: "@banner_icon! Situations"
+ message_group_type_nomadic: "@government_type_nomad! Nomadic"

@@ -993,7 +993,7 @@
  you_arent_an_emp_tt: "あなたの[primary_title|E]が[GetTitleByKey('e_byzantium').GetName]以外の[empire|E]ではない"
  holds_roman_emp_tt: "あなたが[GetTitleByKey('e_roman_empire').GetName]を保有している"
  legitimize_latin_holder_influence_tt: "あなたは@influence_icon![influence|E]または[kingdom|E]の[holder|E]からの[opinion|E]を獲得します"
- legitimize_latin_holder_legitimacy_tt: "あなたは@legitimacy_icon![legitimacy|E]または[kingdom|E]の[holder|E]からの[opinion|E]を獲得します"
+ legitimize_latin_holder_legitimacy_tt: "You will either gain [GetLocalPlayerLegitimacyTextIcon][legitimacy|E] or [opinion|E] with the [kingdom|E]'s [holder|E]"
  go_fishing_decision: "釣りに行く"
  go_fishing_decision_desc: "誰にでも休息の時間が必要だ。少し立ち止まって[ROOT.Char.GetCurrentLocation.GetBaronyNameExplicitly]の水辺に釣り糸を垂らして、日頃の悩みを流れに委ねよう。何か良いことがあるかもしれない。"
  go_fishing_decision_tooltip: "[stress_loss_i|E][stress|E]解消に休憩を取る"
@@ -1175,3 +1175,4 @@
  DECISION_ALREADY_VISITING_LOCAL_SETTLEMENT_NO_TIME: "すでにある集落を訪問中である"
  you_have_governorship_rights_tt: "あなたの支配する[GetPlayer.Custom('GetProvinceConcept')]において、[liege|E]より#high 州家門権#!が授与された"
  governorship_is_on_the_border_tt: "あなたの[GetPlayer.Custom('GetProvinceConcept')]は別の[realm|E]と隣接している"
+ holds_latin_empire_tt: "You hold [GetTitleByKey('e_latin_empire').GetName]"

@@ -64,7 +64,7 @@
  travel_events_bp3.25.b.prowess: "[liege.GetPrimaryTitle.GetAdjectiveNoTooltip]の戦いぶりについて聞く"
  travel_events_bp3.25.c: "さて... 悲観するのはもうたくさんだ。"
  travel_events_bp3.30.t: "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の傭兵たち"
- travel_events_bp3.30.desc: "私たちは[ROOT.Char.GetCurrentLocation.GetName]の静かで誰もいない酒場に座っていたが、そこへ小汚い見た目の兵士たちが騒がしく共用部屋に乱入してきた。リーダーの自信たっぷりな乱暴者が私の護衛の一人を押しのけ、厚かましくも私のテーブルに腰を下ろす。\n\n「お偉い[ROOT.Char.GetWomanMan]、\"[ROOT.Char.GetLadyLord]様\"、だろう？[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]で最強の傭兵団に興味はないか？これ以上に忠実な男たちなんて見つからないぜ！少なくとも、十分に金を払ってくれるならな…」"
+ travel_events_bp3.30.desc: "We sit in a quiet tavern in [ROOT.Char.GetCurrentLocation.GetName], when a loud band of ragged-looking sellswords come barging in. Their brutish leader pushes one of my guards aside and, audaciously, sits down at my table.\n\n\"A noble [ROOT.Char.GetWomanMan], eh? My '[ROOT.Char.GetLadyLord]'? Interested in the services of the best band of mercenaries in [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]? More loyal men you'll never find! At least if you pay us properly...\""
  travel_events_bp3.30.a: "「#emp 一番#!だって？面白いじゃないか…」"
  travel_events_bp3.30.b: "「我らが団に入らないか？」"
  travel_events_bp3.30.c: "「君たちに#emp  ぴったりの仕事#!があるんだ。」"

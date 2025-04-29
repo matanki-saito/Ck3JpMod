@@ -47,3 +47,6 @@
  MAA_PROVISIONS_COST: "[barony|E]を[traveled|E]するごとの[provision|E]の消費：@provisions_icon!$VALUE|=+0$"
  CANT_CREATE_MAA_MAX_REGIMENTS: "@warning_icon!#X $LIMIT$[MEN_AT_ARMS_TYPE.GetNameNoTooltip|V]以上は保有できない#!"
  CANT_CREATE_TTILE_MAA_WRONG_GOVERNMENT: "@warning_icon!#X [GovernmentType.GetNameWithIcon]政体は、称号に属する[men_at_arms|E]の募集を利用できない#!"
+ MEN_AT_ARMS_CAN_CREATE_TOOLTIP: "[MenAtArmsTypeView.GetCreateTooltip][AddLocalizationIf(MenAtArmsType.GetSubjectProvider( GetPlayer ).IsValid,'\n\n')][AddLocalizationIf(MenAtArmsType.GetSubjectProvider( GetPlayer ).IsValid,'MEN_AT_ARMS_PROVIDED_BY_SUBJECT')][ConcatIfNeitherEmpty('\n\n',MenAtArmsType.GetSubjectMenAtArmsHintDesc( GetPlayer ))]"
+ MEN_AT_ARMS_PROVIDED_BY_SUBJECT: "Access to @[MenAtArmsType.GetIconKey]_icon![Nbsp][MenAtArmsType.GetName] is provided by [MenAtArmsType.GetSubjectProvider( GetPlayer ).GetPrimaryTitle.GetBaseNameNoTier] ([MenAtArmsType.GetSubjectProvider( GetPlayer ).GetShortUIName])"
+ MEN_AT_ARMS_NO_POTENTIAL_SUBJECT_SOURCES: "You are unaware of any bordering [realms|E] with access to @[MenAtArmsType.GetIconKey]_icon![Nbsp][MenAtArmsType.GetName] [men_at_arms|E]."

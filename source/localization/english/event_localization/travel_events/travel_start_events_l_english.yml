@@ -153,3 +153,5 @@
  playdate_forbidden_title:0 "$activity_playdate$の禁止"
  playdate_forbidden_tt:0 "[carer.GetTitledFirstName]は[child_1.GetFirstName]や他の子達があなたの$activity_playdate$に参加するのを禁じた"
  playdate_forbidden_single_tt:0 "[carer.GetTitledFirstName]は[child_1.GetFirstName]があなたの$activity_playdate$に参加するのを禁じた"
+ travel_start_event.1000.t_migrating: "Towards Greener Pastures"
+ travel_start_event.1000.desc_migrating: "The whole camp sounds like a roaring waterfall: kids running around, animals protesting and grunting, adults finishing the packing up.\n\nDozens and dozens of memories untidily organized in bundles and cranes.\n\nI take a last look at [ROOT.Char.GetCurrentLocation.GetName] while I tap my horse on the side. I can only hope [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] is as nice to us as this place was."

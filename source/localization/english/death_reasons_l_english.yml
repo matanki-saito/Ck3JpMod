@@ -367,3 +367,8 @@
  death_slain_in_riot: "暴動のさなかに虐殺された"
  death_slain_in_riot_killer: "[TARGET_CHARACTER.GetUIName]により$death_slain_in_riot$が発生した"
  death_trampled_killer: "は[TARGET_CHARACTER.GetUINamePossessive]の命令で踏み潰されて死亡した"
+ death_eagle_attack: "was clawed to death by an eagle"
+ death_gok_slaughter: "was slaughtered by invading nomads"
+ death_snake: "died from a snake bite"
+ death_shot_by_arrows: "was riddled with arrows"
+ death_shot_by_arrows_killer: "$death_slain_in_riot$ loosed by [TARGET_CHARACTER.GetUINamePossessive] riders"

@@ -89,3 +89,5 @@
  jester_entertainment_decision_desc: "冗談に曲芸、そして詩！さあ、楽しみを持ってこい！"
  jester_entertainment_decision_confirm: "私を楽しませよ！"
  jester_decision_rewards: "あなたの宮廷道化師が目の前に連れてこられる：\n$EFFECT_LIST_BULLET$[stress_loss_i]の[stress|E]が減少する\n$EFFECT_LIST_BULLET$[stress|E]を軽減するイベントが発生する可能性がある #weak (宮廷道化師の[aptitude|E]が高いほど、より良いイベントが発生する)#!"
+ jester.900.eagle: "unveiling a majestic eaglet, who excitedly takes off and starts circling the room!\n\n"
+ jester.900.d: "I shall tame this eaglet and make it my own!"

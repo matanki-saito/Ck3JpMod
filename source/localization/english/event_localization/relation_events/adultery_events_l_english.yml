@@ -147,7 +147,7 @@
  adultery.2008.b:0 "考える時間が必要だ。"
  adultery.2008.b.tt:0 "今のところは胸に秘めておこう。"
  adultery.2009.t:0 "私の[adultery_child.Custom('GetDaughterSon')|U]？"
- adultery.2009.desc:1 "あらゆる場所で[adultery_child.GetTitledFirstName]を追っているにもかかわらず、私のスパイは[adultery_child.GetHerHis]の血統を疑うべき兆候を見つけられなかった。\n\n残念ながら、[adultery_child.GetFirstNamePossessiveNoTooltip]は、私が疑惑を抱いたことに動揺したままだ。"
+ adultery.2009.desc:1 "Despite following [adultery_child.GetTitledFirstName] everywhere, my spies have found no indication that I should suspect [adultery_child.GetHerHis] lineage.\n\nUnfortunately, [adultery_child.GetFirstNameNoTooltip] is still upset that I would harbor any suspicion at all."
  adultery.2009.a:0 "結局、[adultery_child.GetSheHe]は私の子供なのだな。"
  adultery.3001.t:0 "秘密"
  adultery.3001.desc:0 "「私の[ROOT.Char.Custom('GetDaughterSon')]、愛する我が子、伝えなければならなかったのです！私を許してくれる？」\n\n母は床に倒れ、[parent_with_secret.GetHerHis]の顔には涙が流れ、私は言葉を失っている。"

@@ -516,3 +516,5 @@
  legend_chronicle_conqueror_chronicle_desc: "もう放浪者ではない。不屈の魂から征服者が生まれたのだ。"
  legend_chapter_opening_conqueror: "灰からは何も生まれない。[ROOT.Legend.GetProtagonist.GetTitledFirstNamePossessiveNoTooltip]は、真紅の土の上に立つ[ROOT.Legend.GetProtagonist.GetFaith.HighGodName]の災いとなることを誓った。これより先、土は真紅に染まるのみである。"
  legend_chapter_famous_deed_conqueror: "戦いごとに聖歌は響き渡った。戦いごとに戦利品は膨らみ上がった。戦いごとに、[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip]の伝説は輝きを増していった。"
+ legend_magi: "Sons of the Magi"
+ legend_magi_desc: "After Jesus was born, He was visited by the Biblical Magi, bearing gifts of gold, frankincense, and myrrh. The Gospel of Matthew states that the Three Wise Men came from the East.\nA misguided Western traveler might place the sighting of the Star of Bethlehem in the Persian city of Saba.\nBut the sun is rising further East. The riches come from the cities, but the unrelenting faith comes from the harsh steppe.\nThe Bible speaks of Melchior, Caspar, and Balthazar returning to their homelands after paying homage to the newborn King of the Jews. Their flesh and blood, the most pious Nestorians, are still worshipping the one true God and His son."

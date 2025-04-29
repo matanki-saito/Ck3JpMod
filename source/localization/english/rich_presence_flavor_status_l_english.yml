@@ -74,3 +74,5 @@
  rich_presence_admin_scheming: "は[ROOT.Char.GetLiege.GetPrimaryTitle.GetDefinitiveNameNoTooltip]に対する陰謀を企てており"
  rich_presence_landless_camp: "は[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetDefinitiveNameNoTooltip]に野営中で"
  rich_presence_landless_travel: "土地を失い、[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetDefinitiveNameNoTooltip]の辺りを放浪して"
+ rich_presence_nomad: "Ruling Nomadic [ROOT.Char.GetDomicile.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.GetDomicile.GetCulture.GetCollectiveNounNoTooltip] as"
+ rich_presence_world_conquest: "Conquering the World as"

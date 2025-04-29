@@ -131,7 +131,7 @@
  SETTING_PORTRAIT_MULTISAMPLING_DISABLED:0 "無効"
  SETTING_AUTOSAVE:0 "オートセーブ間隔"
  SETTINGS_FILE_TRANSFER_SPEED:0 "ファイル転送速度"
- SETTINGS_FILE_TRANSFER_SPEED_TOOLTIP:0 "#T $ファイル転送速度$\n#!マルチプレイヤーロビーでのセーブゲームファイルの転送速度の上限を設定します。\n\n設定を低くすると、マルチプレイヤーゲームに参加するネットワークの安定性が向上する可能性がありますが、マルチプレイヤーの読み込み時間に悪影響を及ぼします。"
+ SETTINGS_FILE_TRANSFER_SPEED_TOOLTIP:0 "#T $File Transfer Speed$\n#!Sets the maximum speed for save game file transfers in the multiplayer lobby.\n\nLower settings might improve network stability of joining multiplayer games but have a negative effect on multiplayer load times.\n\nThe multiplayer host determines the maximum speed.\n"
  SETTING_MAP_EDITOR_AUTOSAVE_INTERVAL_MINUTES:0 "マップエディタのオートセーブ(秒)"
  SETTING_MAP_EDITOR_AUTOSAVE_INTERVAL_MINUTES_TOOLTIP:0 "マップエディタのオートセーブ間隔(秒)"
  SETTINGS_CATEGORY_ACCESSIBILITY:0 "アクセシビリティ"
@@ -172,3 +172,4 @@
  SETTING_CONSOLE_AUTOCOMPLETE_MODE:0 "全自動モードのコンソール"
  SETTING_CONSOLE_AUTOCOMPLETE_MODE_FULL_EXPAND:0 "全て開き、タブで選ぶ"
  SETTING_CONSOLE_AUTOCOMPLETE_MODE_PARTIAL_EXPAND:0 "違う部分だけ展開する"
+ OPTION_VERY_HIGH: "Very High"

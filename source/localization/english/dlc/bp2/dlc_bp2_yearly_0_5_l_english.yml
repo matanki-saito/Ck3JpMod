@@ -214,3 +214,6 @@
  bp2_yearly.0661.c.curious: "これも面白そうだけど、召使いはどこにいったのかな…"
  bp2_yearly.0661.c.pensive: "関わるのはやめておこう。"
  bp2_yearly.0661.c.bossy: "真の[ROOT.Char.GetTitleAsNameNoTooltip]ならどちらにもうまく対処できるだろう。"
+ strong_flock_of_eagles_modifier: "Strong Flock of Eagles"
+ strong_flock_of_eagles_modifier_desc: "This character is often seen with a flock of eagles, who seem to follow them wherever they go. The birds are a symbol of strength and power."
+ bp2_yearly.0621.desc.gift.eagle: "a cunning eaglet, its wings spread wide, perched on a stand."

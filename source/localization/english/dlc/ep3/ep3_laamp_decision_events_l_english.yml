@@ -974,3 +974,6 @@
  ep3_laamp_decision_event.1043.c.flavor_guarded: "「ふむ……。なぜかこの辺りでは、衛兵の巡回がずいぶん頻繁だな……。」"
  ep3_laamp_decision_event.1051.c_wounded.t: "$playdate_training_injury_log_title$"
  ep3_laamp_decision_event.1051.c_wounded.desc: "$martial_authority.8000_injury$"
+ ep3_laamp_decision_event.1020.eagle.tt: "You sell your hunting eagle, in place of an artifact"
+ ep3_laamp_decision_event.1020.eagle.price_tt: "The eagle's #V current#! offer: [gold_i] [GetPlayer.MakeScope.ScriptValue('hunting_eagle_sell_value')|0]"
+ ep3_laamp_decision_event.1021.eagle: "Perhaps you would be interested in [ROOT.Char.Custom('EagleStoryName')]?"
