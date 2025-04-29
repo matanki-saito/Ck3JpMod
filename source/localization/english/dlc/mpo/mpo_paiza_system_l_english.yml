@@ -18,7 +18,7 @@
  paiza_artifact_desc: "[paiza|E], a simple yet menacing metal tablet that can bring power and woe alike. On the reverse the following words are etched:\n\nBy the power of Eternal Heaven. By the protection of the Imperial Good Fortune. An edict of the [patron.GetTitledFirstName]; any person whosoever who does not respect it shall be punished, shall die."
  mpo_call_for_merchants: "Summon Wealthy Visitors"
  mpo_call_for_merchants_decision: "$mpo_call_for_merchants$: Paiza"
- mpo_call_for_merchants_decision_desc: "The Great Steppe is far more magnificent than those fat, spoiled foreign cities. Yet they possess goods, contraptions, and ideas that may prove useful to us. Perhaps one of their wealthy fools will venture this far."
+ mpo_call_for_merchants_decision_desc: "大ステップ地帯は、あの肥えて甘ったれた外国の都市などよりはるかに壮大だ。しかし、やつらは我々にとって有用かもしれない品物やからくり、そして思想を持っている。もしかすると、あの裕福な間抜けの誰かが、ここまで足を運ぶかもしれん。"
  mpo_call_for_merchants_decision_tooltip: "$mpo_call_for_merchants_decision.merchant_will_arrive$"
  mpo_call_for_merchants_decision_confirm: "Send the envoys"
  mpo_call_for_merchants_small_decision: "$mpo_call_for_merchants$: Local Offers"

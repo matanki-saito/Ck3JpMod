@@ -20,5 +20,5 @@
  gaelic_opinion:0 "$gaelic$の評価"
  scottish_opinion:0 "$scottish$の評価"
  persian_opinion:0 "$persian$の評価"
- liege_won_duel: "Liege Won a Duel"
- liege_lost_duel: "Liege Lost a Duel"
+ liege_won_duel: "主君が決闘に勝利した"
+ liege_lost_duel: "主君が決闘に敗北した"

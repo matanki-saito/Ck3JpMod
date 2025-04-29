@@ -1,7 +1,7 @@
 ﻿l_english:
  situation_the_great_steppe: "[the_great_steppe|E]"
  situation_the_great_steppe_desc: "[SITUATION.GetType.GetDesc]"
- situation_type_the_great_steppe: "The Great Steppe"
+ situation_type_the_great_steppe: "大ステップ地帯"
  situation_type_the_great_steppe_desc: "$game_concept_the_great_steppe_desc$"
  situation_parameter_the_great_steppe_demand_herd_higher_rate: "The @herd_icon! #EMP $mpo_ask_for_herd_interaction$#! [character_interaction|E] will result in additional [herd|E]"
  situation_parameter_the_great_steppe_easier_obedience: "The @obedience_icon! #EMP $mpo_demand_obedience_interaction$#! [character_interaction|E] has a higher acceptance chance"

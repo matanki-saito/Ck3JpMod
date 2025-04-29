@@ -312,5 +312,5 @@
  message_filter_tributary_war_desc: "Your [tributary|E] breaks free due to a [war|E]"
  message_filter_raid_intent_invalidated: "@raid_icon! Raid Intent Invalidated"
  message_filter_raid_intent_invalidated_desc: "Your [raid_intent|E] invalidates"
- message_filter_great_steppe: "@banner_icon! The Great Steppe"
+ message_filter_great_steppe: "@banner_icon!大ステップ地帯"
  message_filter_great_steppe_desc: "Changes and developments pertaining to [the_great_steppe|E]"

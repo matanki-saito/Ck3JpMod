@@ -54,7 +54,7 @@
  hunt_prowess_mastery_title: "[hunter.GetShortUINameNoTooltip|U] Killed a Dangerous Beast"
  hunt_martial_mastery_title: "[hunter.GetShortUINameNoTooltip|U] Led a Contingent of Riders to Take Down a Dangerous Beast"
  hunt_make_example_title: "[root_scope.GetShortUINameNoTooltip] Made an Example of Some Riders After They Let an Animal Flee"
- mpo_nerge.0010.t: "The Great Nerge Begins"
+ mpo_nerge.0010.t: "大いなるネルゲの始まり"
  mpo_nerge.0010.desc.intro: "Horse riders are lined up behind me, in a column stretching out to the left and right. They are all awaiting the signal to start, for their [ROOT.Char.GetTitleAsNameNoTooltip] to begin the great hunt.\n\n"
  mpo_nerge.0010.desc.intro.master_of_hunt: "Horse riders are lined up behind me, in a column stretching out to the left and right. \"My [ROOT.Char.GetTitleAsNameNoTooltip], they are all awaiting the signal to begin.\" [master_of_hunt.GetFirstName] tells me, as [master_of_hunt.GetSheHe] leans a bit closer. \"The preparations are done.\"\n\n"
  mpo_nerge.0010.desc.outro: "I nock an arrow, lift my bow, and let the arrow fly. With a pained scream, I see a plump goat fall twitching to the ground. Panicked bleating follows as chaos spreads among the beasts, followed by the rhytmic thumps of hooves as the riders sets out on the hunt."

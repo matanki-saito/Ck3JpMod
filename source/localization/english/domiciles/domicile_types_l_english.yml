@@ -32,7 +32,7 @@
  DOMICILE_RESOURCE_INFLUENCE_BALANCE: "[Domicile.GetInfluenceResource|=2]"
  domicile_adventurer: "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip]"
  domicile_estate: "[CHARACTER.GetHouse.GetNameNoTooltip]の荘園"
- yurt_domicile_title: "The [CHARACTER.GetHouse.GetBaseNameNoTooltip] $game_concept_yurt$"
+ yurt_domicile_title: "[CHARACTER.GetHouse.GetBaseNameNoTooltip]の$game_concept_yurt$"
  yurt_domicile_type: "$game_concept_yurt$"
  yurt_domicile_type_tooltip: "$YURT$"
  DOMICILE_RESOURCE_HERD_TT: "#T [herd|E]#!: $BALANCE|V=0$/month"

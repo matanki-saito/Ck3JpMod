@@ -57,7 +57,7 @@
  LocalGuildsPhysicians: "医師ギルド"
  LocalGuildsPharmacists: "薬師ギルド"
  LocalGuildsToolmakers: "道具工ギルド"
- internal_affairs.40.t: "Loose Threads"
+ internal_affairs.40.t: "ほどけた糸"
  internal_affairs.40.follower_intro: "Acting as a messenger, [secret_giver.GetFirstName] conveys from news around the area, keeping me in the loop while I am otherwise occupied with other things. Though most of what [secret_giver.GetSheHe] mentions is nothing out of the ordinary, there is a note of concern in [secret_giver.GetHerHis] voice whenever [secret_haver.GetNamePossessive] name is mentioned.\n\nEventually, "
  internal_affairs.40.courtier_intro: "While pacing throughout camp, an unfamiliar voice reaches my ears, conversing with one of my companions nearby. I halt and listen in. The exchange seems dull at first, but then [secret_haver.GetName] is suddenly mentioned.\n\n"
  internal_affairs.40.desc: "[secret_giver.GetFirstName] delves into more sensitive topics involving [secret_haver.GetFirstNameNoTooltip], disclosing matters that could very well tarnish [secret_haver.GetHerHis] reputation..."

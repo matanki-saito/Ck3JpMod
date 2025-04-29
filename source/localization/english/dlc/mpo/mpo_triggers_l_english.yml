@@ -1,6 +1,6 @@
 ﻿l_english:
- current_domain_fertility_first: "The [county_fertility|E] in your [domain|E] is $COMPARATOR$ $NUM|V0$"
- current_domain_fertility_third: "The [county_fertility|E] in [CHARACTER.GetNamePossessive] [domain|E] is $COMPARATOR$ $NUM|V0$"
+ current_domain_fertility_first: "あなたの[domain|E]の[county_fertility|E]は$COMPARATOR$$NUM|V0$です。"
+ current_domain_fertility_third: "[CHARACTER.GetNamePossessive][domain|E]の[county_fertility|E]は$COMPARATOR$$NUM|V0$です。"
  current_domain_fertility_global: "[county_fertility|E] in [domain|E] is $COMPARATOR$ $NUM|V0$"
  max_domain_fertility_first: "The maximum [county_fertility|E] in your [domain|E] is $COMPARATOR$ $NUM|V0$"
  max_domain_fertility_third: "The maximum [county_fertility|E] in [CHARACTER.GetNamePossessive] [domain|E] is $COMPARATOR$ $NUM|V0$"

@@ -224,5 +224,5 @@
  building_wawel_cathedral_01_destination_desc: "キリスト教世界の各地から集った職人たちの手によって建設されたこの壮麗な石造りの大聖堂は、ポーランドの地における最初の例となった。[GetBuilding('wawel_cathedral_01').GetName]の丘の頂からは二つの塔の鐘が鳴り響き、蝋燭の灯る身廊で行なわれるミサに街の人々を誘う。"
  building_vatapi_caves_01_destination_desc: "前期チャールキヤ朝によって築かれた[GetBuilding('building_vatapi_caves_01').GetName]は、堂々たる砂岩の岩壁を深く切り開くことで建設された。その内部には、神聖で静謐な内なる世界が広がっている。勝利の門をくぐると、巡礼者たちはひとつの巨岩からなる山の正面に導かれるのだ。"
  building_jaisalmer_fort_01_destination_desc: "太陽が地平線にその身を沈め始める頃、[GetBuilding('jaisalmer_fort_01').GetName]の壮大な城壁は、甘い蜂蜜のごとく温かな色に染まり、砂漠の中心で輝きを放つ。この要塞は、内部の街をあらゆる脅威から守るために築かれた。"
- building_pleasure_dome_01_destination_desc: "The [GetBuilding('pleasure_dome').GetName] rises from the ground like a dream made real. Surrounded by gardens and streams, its marble halls and open pavilions invite leisure and reflection, drifting in a haze of music and scented air."
- building_burkhan_khaldun_01_destination_desc: "Veiled in mist and reverence, the [GetBuilding('burkhan_khaldun_01').GetName] stands sacred among the Khentii peaks. A place of prayer and pilgrimage, its quiet slopes are believed to shield the soul of the land and its people."
+ building_pleasure_dome_01_destination_desc: "[GetBuilding('pleasure_dome').GetName]は、夢を現実にしたように地面からそびえ立つ。庭園と小川に囲まれ、大理石のホールと開放的なパビリオンは、音楽と香りの漂う空気の中で、余暇と内省を誘う。"
+ building_burkhan_khaldun_01_destination_desc: "霧と畏敬のベールに包まれた[GetBuilding('burkhan_khaldun_01').GetName]は、ヘンティーの峰々の間に神聖に佇んでいる。祈りと巡礼の場であり、その静かな斜面は土地と人々の魂を守ると信じられている。"

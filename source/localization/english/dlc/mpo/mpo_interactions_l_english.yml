@@ -57,7 +57,7 @@
  create_confederation_recipient_tt: "Forms a [confederation|E] with [actor.GetShortUIName]"
  join_confederation_recipient_tt: "Joins the [confederation.GetName]"
  recipient_joined_confederation_tt: "[recipient.GetShortUIName] joined the [confederation.GetName]"
- mpo_interactions_events.0002.t: "The [confederation.GetName]"
+ mpo_interactions_events.0002.t: "[confederation.GetName]"
  mpo_interactions_events.0002.desc: "With [other_confederate.GetTitledFirstNamePossessive] [other_confederate.GetCulture.GetCollectiveNoun] and the warriors of [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTier] surrounding us, we mingle blood and promise confederation.\n\n\"We will be many, [other_confederate.Custom('SisterBrother')], watching over these lands!\" cries [other_confederate.GetFirstNameNoTooltip], gripping me close. \"Fighting as wolves of the same pack. One no better — no hungrier — than any other!\"\n\n"
  mpo_interactions_events.0002.desc_new: "The [new_confederation.GetName] is born."
  mpo_interactions_events.0002.desc_joining: "And so, I join the [confederation.GetName]. My promises belong to every one of its whelpish wolves."
