@@ -88,7 +88,7 @@
  CLAIMANT_TITLES_NO_TITLES:0 "請求可能な称号なし"
  NO_POTENTIAL_CLAIMANTS:0 "潜在的な請求者なし"
  FACTION_WINDOW_MEMBER_TOOLTIP:0 "#S 派閥のメンバー#!\n#T [Character.GetUINameNoTooltip]#![SelectLocalization( FactionCharacterMember.IsAtWarAgainstTarget, 'FACTION_MEMBER_IS_IN_ANOTHER_WAR', '' )]\n#S [faction_military_power|E]貢献度: [FactionCharacterMember.CalcPower|%1V]#!\n#weak 貢献度は[soldiers|E]の量で決まります#!\n\n[SelectLocalization( Character.IsPlayer, 'FACTION_WINDOW_MEMBER_TOOLTIP_HUMAN_COMMIT', 'FACTION_WINDOW_MEMBER_TOOLTIP_AI' )]#I クリックして表示#!"
- FACTION_WINDOW_MEMBER_TOOLTIP_AI_COMMIT: "#S Faction Commitment: [FactionCharacterMember.CalcJoinScore|0=-]#! #weak (leaves if less than [GetDefine('NFaction', 'LEAVE_SCORE_THRESHOLD')])#!\n[FactionCharacterMember.CalcJoinBreakdown]\n\n"
+ FACTION_WINDOW_MEMBER_TOOLTIP_AI_COMMIT: "#S 派閥支持度：[FactionCharacterMember.CalcJoinScore|0=-]#!#weak （[GetDefine('NFaction', 'LEAVE_SCORE_THRESHOLD')]未満で派閥を去るでしょう）#!\n[FactionCharacterMember.CalcJoinBreakdown]\n\n"
  FACTION_WINDOW_MEMBER_TOOLTIP_HUMAN_COMMIT:0 "#weak [Character.GetHumanName|V]に操作されている#!\n\n"
  MY_LIEGE: "あなたの主君"
  MY_CONTRACT_TARGET: "契約目標"

@@ -139,5 +139,5 @@
  hunt_success_chance.hidden_hinterlands_huntsmen_modifier: "[GetModifier( 'inspection_hidden_hinterlands_hunters_modifier' ).GetNameWithTooltip]"
  hunt_success_chance.master_of_hunt_holder: "[ROOT.Activity.GetHost.Custom('GetHuntMasterTooltipDesc')]の[court_position|E]を保持する"
  hunt_success_chance.visegrad_castle_01: "$building_type_visegrad_castle_01$[building|E]"
- hunt_success_chance.nomadic: "Is [GetGovernment( 'nomad_government' ).GetName]"
+ hunt_success_chance.nomadic: "[GetGovernment( 'nomad_government' ).GetName]である"
  hunt_success_chance.hunting_eagle: "[GetModifier( 'eagle_story_modifier' ).GetNameWithTooltip]"

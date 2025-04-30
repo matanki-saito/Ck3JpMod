@@ -55,5 +55,5 @@
  NUM_DISCOVERED_INNOVATIONS_TRIGGER: "[CULTURE.GetName|U]の[culture_possessive|E]が発見した[innovations|E]の数#weak （$CURRENT_VALUE|0$）#!が$COMPARATOR$$NUM|V0$"
  NOT_NUM_DISCOVERED_INNOVATIONS_TRIGGER: "[CULTURE.GetName|U]の[culture_possessive|E]が発見した[innovations|E]の数#weak （$CURRENT_VALUE|0$）#!が$COMPARATOR$$NUM|V0$でない"
  NUM_DISCOVERED_INNOVATIONS_IN_ERA_TRIGGER: "[CULTURE.GetName|U]の[culture_possessive|E]の発見した$ERA$[era|E]の[innovations|E]#weak （$CURRENT_VALUE|0$）#!は$COMPARATOR$$NUM|V0$"
- HAS_SAME_CULTURAL_HERITAGE: "You share the same [Concept('culture','cultural')|EU] [heritage|E]"
- HAS_SAME_CULTURAL_HERITAGE_NOT: "You do not share the same [Concept('culture','cultural')|EU] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE: "あなたと[Concept('culture','cultural')|EU]な[heritage|E]を共有している"
+ HAS_SAME_CULTURAL_HERITAGE_NOT: "あなたと[Concept('culture','cultural')|EU]の[heritage|E]を共有していない"

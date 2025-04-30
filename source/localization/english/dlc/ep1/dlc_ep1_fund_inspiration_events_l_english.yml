@@ -613,7 +613,7 @@
  fund_inspiration.6300.t:0 "$fund_inspiration.title$ 不幸な詩節"
  fund_inspiration.6300.intro:0 "私は、[inspiration_owner.GetTitledFirstName]が[inspiration_owner.GetHerHis]の机で、多くの消された原稿を前にし、窓の外をぼんやりと見つめているところに遭遇した。\n\n"
  fund_inspiration.6300.no_relationship_desc:0 "「誰かに愛されるということは、ありえません。気持ちのこもった言葉を囁いて 返してもらったことは一度もないのですから。」\n\n「したがって、私はあなたのために書いてきたわけではありません——ただ、誰かと一緒に横になって絶望してからの夜を数えているだけなのです。」"
- fund_inspiration.6300.no_love_desc:0 "「普段、文字ほど私を興奮させるものはないのに、不思議なことに、今はまったく欲望に駆られることがないのです。」\n\n「申し訳ありません、我が[ROOT.Char.GetLadyLord]、私は愛について書くことができません、ミューズは私を見捨てたのです。」"
+ fund_inspiration.6300.no_love_desc:0 "「普段、文字ほど私を興奮させるものはないのに、不思議なことに、今はまったく欲望に駆られることがないのです」\n\n「申し訳ありません、我が[ROOT.Char.GetLadyLord]、私は愛について書くことができません、ミューズは私を見捨てたのです」"
  fund_inspiration.6300.homosexual_desc:0 "「ああ、我が[ROOT.Char.GetLadyLord]。あなた様の後援にふさわしいものにしようと、ロマンチックな作品を作ろうと何度も試みたのですが、気がつけば、私は羊皮紙を前に涙を流すばかりでした。」\n\n「あなたは私に不可能を求めます。私の愛は書き残されてはならない種類のものなのです。」"
  fund_inspiration.6300.a:0 "いいぞ！そのほろ苦い怒りをぶつけてみろ！"
  fund_inspiration.6300.a.failure:0 "あなたの言葉は[inspiration_owner.GetShortUIName]に愛を嫌わせる。"

@@ -2,7 +2,7 @@
  activity_chariot_race: "戦車競技"
  activity_chariot_race_desc: "[GetPlayer.GetTitleAsNameNoTooltip]として、私だけが壮大な戦車レースを開催し、[Glossary( 'ホイ ポロイ', 'HOI_POLLOI_GLOSS')]を興奮させ、[GetPlayer.GetPrimaryTitle.GetTierAsNameNoTooltip|l]の有力者たちを都に引き寄せることができる。\n\nこれらの公開の場を通じて、人々は私を彼らの支配者として認識するようになるだろう。そして群衆の歓声の中に、私は称賛を期待することができるのだ。"
  activity_chariot_race_destination_selection: "戦車競技は[capital|E]でのみ開催できます。"
- activity_chariot_race_host_desc: "$BULLET_WITH_TAB$ May gain @influence_icon![influence|E]\n$BULLET_WITH_TAB$ May gain [GetLocalPlayerLegitimacyTextIcon][legitimacy|E]\n$BULLET_WITH_TAB$ May gain @gold_icon![gold|E]\n$BULLET_WITH_TAB$ May gain #N #EMP or lose#!#! [county_opinion|E]"
+ activity_chariot_race_host_desc: "$BULLET_WITH_TAB$@influence_icon![influence|E]獲得の可能性\n$BULLET_WITH_TAB$[GetLocalPlayerLegitimacyTextIcon][legitimacy|E]獲得の可能性\n$BULLET_WITH_TAB$@gold_icon![gold|E]獲得の可能性\n$BULLET_WITH_TAB$[county_opinion|E]獲得#N #EMP 若しくは喪失#!#!の可能性"
  activity_chariot_race_guest_desc: "\n#weak 領内の誰もが参加することが期待されている行事ではあるが、ヒッポドロームでの戦車レースへの参加は、帝国の出世頭たちと肩を並べ、[influence|E]を高める貴重な機会でもある。\n\nなお、参加するには[gold_i][EmptyScope.ScriptValue('chariot_race_entrance_fee')|0]の入場料が必要だ。"
  activity_chariot_race_conclusion_desc: "[GetActivityType( 'activity_chariot_race' ).GetName]は終幕した。"
  activity_chariot_race_selection_tooltip: "壮大な戦車レースを開催し、民衆を喜ばせるとともに、[GetPlayer.GetTitleAsNameNoTooltip]としての地位を確固たるものにする。\n\n予想される報酬： \n$BULLET_WITH_TAB$@influence_icon![influence|E]\n$BULLET_WITH_TAB$@gold_icon![gold|E]"

@@ -19,5 +19,5 @@
  CLAN_ACTIONS: "氏族の行動"
  ADMIN_ACTIONS: "官僚政体の行動"
  LAAMP_ACTIONS: "土地無しの冒険者の行動"
- NOMADIC_ACTIONS: "nomadic actions"
- NOMAD_ACTIONS: "nomad actions"
+ NOMADIC_ACTIONS: "遊牧制の行動"
+ NOMAD_ACTIONS: "遊牧民の行動"

@@ -71,4 +71,4 @@
  banquet_mischief_intent:0 "悪戯"
  banquet_mischief_intent_desc:1 "ドタバタ騒ぎを引き起こし、#EMP 不幸な#!事故であなたの[stress|E]を減らしましょう！"
  WEDDING_BASE_COST:0 "グランドウェディングの基本コスト"
- province_desc_wedding_pleasure_dome:0 "\n#P +++ $building_leisure_palace_03$#!\n#weak This will lead to an increased [dynasty_prestige_i] [dynasty_prestige|E] gain and [stress_loss_i][stress|E] loss.#!"
+ province_desc_wedding_pleasure_dome:0 "\n#P +++ $building_leisure_palace_03$#!\n#weak これにより[dynasty_prestige_i][dynasty_prestige|E]の獲得量と[stress_loss_i][stress|E]の軽減量が増加します。#!"

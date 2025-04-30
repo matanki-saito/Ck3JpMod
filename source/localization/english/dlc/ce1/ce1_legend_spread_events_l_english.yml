@@ -173,7 +173,7 @@
  legend_spread_events.5050.c: "#EMP さほど#!金を使うつもりはない…"
  legend_spread_events.5050.d: "「一線を越えておるぞ、[chronicler.GetFirstNameNoTooltip]」"
  legend_spread_events.5055.t: "文化的な選択"
- legend_spread_events.5055.desc: "As I ponder what to wear for the day, [chronicler.GetFirstNamePossessive] advice is exuberant, \"Perhaps something to inspire your vassals, my [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip]? Something traditional?\"\n\nIf I am to curry favor with my subjects, I should indeed appear as they imagine a ruler to be. Yet my realm has many different cultures.\n\nMy majestic garb could indulge a fellow [vassal1.GetCulture.GetName] like [vassal1.GetTitledFirstName], but those outside of our shared background — [vassal2.GetTitledFirstName], for example — would feel only our deepened differences."
+ legend_spread_events.5055.desc: "今日の装いに思いを巡らせていると、[chronicler.GetFirstNamePossessive]の助言は実に熱心だ。\n「家臣たちの心を奮い立たせるような装いはいかがですか、我が[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip]？　伝統的なものなど――」\n\n臣下の心をつかむのであれば、彼らが思い描く支配者の姿で現れるのが最善だろう。だが、我が領国には多くの異なる文化が存在する。\n\n威厳ある衣装は[vassal1.GetTitledFirstName]のような同じ[vassal1.GetCulture.GetName]の者には好印象を与えるかもしれない。\nしかし、異なる背景を持つ者――たとえば[vassal2.GetTitledFirstName]――にとっては、その違いをより強く意識させるだけかもしれない。"
  legend_spread_events.5055.a: "どっちの気持ちも尊重してやろう。"
  legend_spread_events.5055.a.tt: "[vassal1.GetCulture.GetNameNoTooltip]と[vassal2.GetCulture.GetNameNoTooltip]の特産品を両方身につければ寛大かつ偉大な支配者として見られるはずだ。間違いない。"
  legend_spread_events.5055.b: "我らが民の代表としての物を選ぼう。"

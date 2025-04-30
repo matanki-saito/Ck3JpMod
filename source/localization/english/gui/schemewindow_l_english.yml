@@ -454,4 +454,4 @@
  SCHEME_TARGET_TRAIT_AMBITIOUS: "[target.GetShortUIName]は[GetTrait('ambitious').GetName( target.Self )]だ：$VALUE|+0=$"
  SCHEME_LUST_DEMON_MODIFIER: "$possessed_by_lust_demon_modifier$：$VALUE|+0=$"
  SCHEME_WINDOW_MODIFIERS: "[modifiers|E]："
- SCHEME_WITH_HERD: "I get [herd_i][herd|E]: $VALUE|+0=$"
+ SCHEME_WITH_HERD: "[herd_i][herd|E]を獲得する：$VALUE|+0=$"

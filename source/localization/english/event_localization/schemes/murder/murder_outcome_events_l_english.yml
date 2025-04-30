@@ -124,7 +124,7 @@
  murder_outcome.2301.a.discovered:0 "見殺しにしておきながら、実際に死んだ時にショックを受けるなど許されない。"
  murder_outcome.2301.a:0 "お前を自由にしてやったぞ、[target.GetFirstNameNoTooltip]。"
  murder_outcome.2302.t:0 "招かれざる客"
- murder_outcome.2302.opening_1:0 "[target.GetTitledFirstName] is dead! As planned, the servant gained access to [target.GetHerHis] chambers, no doubt to [target.GetHerHis] great confusion. Of course, the confusion must have passed once the servant unsheathed [dummy_gender.GetHerHis] dagger. [target.GetFirstNameNoTooltip] did not last long."
+ murder_outcome.2302.opening_1:0 "[target.GetTitledFirstName]は死んだ！計画通り、召使いは[target.GetHerHis]の部屋に通され、[target.GetHerHis]は大いに混乱したことだろう。もちろん、召使いが[dummy_gender.GetHerHis]の短剣を鞘から抜いた時点で全てを察したことと思うが…\n[target.GetFirstNameNoTooltip]の最期はあっという間だった。"
  murder_outcome.2302.owner_is_known_1:0 "\n\n残念ながら召使いが逃げ出す前に殺人が発覚し、[dummy_gender.GetSheHe]は[dummy_gender.GetHerHis]の命と引き換えに私の名前を明かしてしまった。"
  murder_outcome.2302.no_awareness_1:0 "\n\n召使いは再びうまく抜け出し、死体が発見された時にはとっくにいなくなっていた。私の関与を知る者は誰もいない。"
  murder_outcome.2302.a.discovered:1 "[target.GetFirstNameNoTooltip]は、少なくともすぐには[target.GetHerHis]の軟禁状態から抜け出すことはないだろう。"

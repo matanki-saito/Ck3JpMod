@@ -5,6 +5,6 @@
  court_new.0001.desc.murderer: "最低の悪党である[murder_dude.GetName]の殺人計画をはっきりと思い出した。"
  court_new.0001.desc.paranoid: "最近、視界の隅に影を見るようになった。それは間違いなく、殺意を持った邪悪な亡霊だ。ここ最近の出来事は、自分に危機が迫っているという感覚をさらに強めた。"
  court_new.0001.desc.outro: "\n\nあるいは、これも陰謀だったのだろうか？　[ROOT.Char.GetTitleAsNameNoTooltip]として人生は、不安定に取りつけられた剣が常に頭上にぶら下がっていて、それが今にも落ちてきそうな、そんな酷い危険に満ちているようだ。\n\nもし誰かが私を見守っていてくれたら。この死すべき肉体の守護者のような存在がいてくれたら。[bodyguard_candidate.GetFirstName]だ。まさに勤勉で頑健な人物だ。[bodyguard_candidate.GetHerHim]をその役目に任命したほうがいいのかもしれない。"
- court_new.0001.a: "[bodyguard_candidate.GetFirstNameNoTooltip] will be an excellent bodyguard."
- court_new.0001.a.murderer: "I am not the only killer in this place..."
+ court_new.0001.a: "[bodyguard_candidate.GetFirstNameNoTooltip]は優秀な護衛となるだろう。"
+ court_new.0001.a.murderer: "ここにいる殺人鬼は私だけではないのだ…"
  court_new.0001.b: "[bodyguard_candidate.GetHerHim]がいなくとも大丈夫だろう。"
