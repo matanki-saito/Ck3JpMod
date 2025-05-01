@@ -35,7 +35,7 @@
  bp2_yearly.2010.c: "[name_option_3.GetFirstNameNoTooltip]"
  bp2_yearly.2011.t: "想像力ゲーム"
  bp2_yearly.2011.desc: "トモダチの[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]と私は[ROOT.Char.Custom('BG_GameType_Generic')]のハラハラする遊びに興じていた。[ROOT.Char.Custom2( 'RelationToMe', participant )|l]の[participant.GetFirstName]が何やら独りよがりな笑みを浮かべている。\n\n「一人ぼっちで[ROOT.Char.Custom('BG_GameType_Generic')]の練習か——くく、#EMP 滑稽なヤツ#!だな、ええ？親も友もいないやつにはお似合いの姿だと思うけどさぁ」\n\n[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]は静かに、しかし不機嫌そうに見つめる。"
- bp2_yearly.2011.a: "黙れよ、[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]！[ROOT.Char.Custom('GetSheHeOpposite')]は此処にいる！"
+ bp2_yearly.2011.a: "黙れ！[ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]は、[ROOT.Char.Custom('GetSheHeOpposite')]は此処にいる！"
  bp2_yearly.2011.b: "やるべきことがお前にはあるはずだが？"
  bp2_yearly.2011.c: "練習してるだけだもん…"
  bp2_yearly.2011.bully.toast: "$relation_bully$を獲得"

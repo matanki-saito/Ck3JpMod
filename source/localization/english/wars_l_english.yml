@@ -637,7 +637,7 @@
  nomadic_war_defeat_desc: "Rebelling [counties|E] and [vassals|E] remain part of the realm. [attacker.GetShortUIName] is imprisoned. All rebelling [counties|E] have their [county_opinion|E] forcibly increased."
  make_tributary_cb: "朝貢国にする"
  MAKE_TRIBUTARY_CB_NAME: "[DEFENDER.GetPrimaryTitle.GetNameNoTier]を[tributary|E]にする"
- MAKE_TRIBUTARY_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Tributary War"
+ MAKE_TRIBUTARY_WAR_NAME: "$ORDER$[ATTACKER.GetPrimaryTitle.GetPrefix]による[DEFENDER.GetPrimaryTitle.GetAdjective]に対する貢納要求戦争"
  MAKE_TRIBUTARY_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  make_tributary_cb_victory_desc_attacker: "[defender.GetShortUIName|U] becomes your [tributary|E]."
  make_tributary_cb_victory_desc_defender: "You become [attacker.GetShortUINamePossessive] [tributary|E]."

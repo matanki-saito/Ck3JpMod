@@ -52,7 +52,7 @@
  child_personality.7021.change.paranoid:0 "敵は#EMP どこにでもいる#!。それを学びなさい。"
  child_personality.7021.change.craven:0 "逃げるんだよ！"
  child_personality.7030.t:0 "厨房を独り占め"
- child_personality.7030.desc:0 "Finally, I have the kitchen #EMP all#! to myself!\n\nI've convinced the cook, [cook.GetFirstName], that I'm going to clean the pots. With that promise made, [cook.GetSheHe] has left to get [ROOT.Char.Custom('GetLivestockFowlIndef')] for tonight's dinner – leaving the cookery #EMP delectably#! unguarded.\n\nThere's honey and [child.Custom('FavoriteTreatDemand')] and jam and [child.Custom('GetExpensiveDessert')] and apples and... and... #EMP AND I CAN'T TAKE IT ANYMORE!#!\n\nIt is time to..."
+ child_personality.7030.desc:0 "とうとう、厨房は#EMP 全部#!私のものだ！\n\n私は料理人の[cook.GetFirstName]に、そこらの鍋を洗うからと言って[cook.GetSheHe]を説き伏せた。その約束通り[cook.GetSheHe]は今夜の正餐に備えて[ROOT.Char.Custom('GetLivestockFowlIndef')]を取りに行った——#EMP 美味しいことに#!無防備となった料理場を残して。\n\n蜂蜜に、[child.Custom('FavoriteTreatDemand')]に、ジャムに、[child.Custom('GetExpensiveDessert')]に、林檎、それから…それから…#EMP それからもう我慢できない！#!\n\n時は来たれり…"
  child_personality.7030.a:0 "…全部少しだけ味見して、粉袋の上で昼寝だ！"
  child_personality.7030.b:0 "…腹に入るだけ食べてしまえ！くず一つだって残すものか！"
  child_personality.7030.c:0 "…鍋を洗う！当り前じゃないか！"

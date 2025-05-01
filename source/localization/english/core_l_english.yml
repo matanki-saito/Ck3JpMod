@@ -905,7 +905,7 @@
  nomadic_philosophy_cheaper_culture_convert_desc: "[GetDecisionWithKey('convert_to_local_culture_decision').GetName][decision|E]コスト：[prestige_i]#P -75%#!"
  nomadic_philosophy_cheaper_to_hybridize_desc: "混合[culture|E]作成コスト：[prestige_i]#P -75%#!"
  nomadic_philosophy_easier_to_hybridize: "混合[culture|E]の作成に必要な[cultural_acceptance|E]が#V 50%#!減少します"
- RESOURCE_MISSING_HERD: "@warning_icon!#X 行方不明[herd_i]$VALUE|^$#!"
+ RESOURCE_MISSING_HERD: "@warning_icon!#X [herd_i]$VALUE|^$#!が不足"
  nomadic_faction_event_troops: "遊牧民の蜂起"
  SETTLEMENT_ISSUE: "[settlement_issue|E]"
  SETTLEMENT_ISSUE_TIER: "[settlement_issue_tier|E]"

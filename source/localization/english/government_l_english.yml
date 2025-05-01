@@ -496,7 +496,7 @@
  nomad_vassal_desc: "Under the Nomadic [government_form|E], a [nomad|E] offers some [herd|E] to their [liege|E] in exchange for land and protection. The specifics are regulated by the [vassal_contract|E] between Vassal and Liege."
  government_can_use_tributary_men_at_arms: "[men_at_arms|E]を[tributaries|E]から#V 雇用#!できる"
  ignores_faith_marriage_penalties: "#indent_newline:3 [GetGovernment( 'nomad_government' ).GetName]または[GetGovernment( 'herder_government' ).GetName]の[rulers|E]やその[tributaries|E]との[marriages|E]を取り決める際、[faith|E]を無視する#!"
- is_nomad_title: "Is [GetGovernment( 'nomad_government' ).GetName] Camp [title|E]"
+ is_nomad_title: "[GetGovernment( 'nomad_government' ).GetName]の野営地の[title|E]"
  can_start_war_with_raised_troops: "[armies|E]を召集した状態で[wars|E]を開始できる"
  movement_speed_from_government: "$MOD_MOVEMENT_SPEED$: #P +10%#!"
  land_raiding_movement_speed_from_government: "$MOD_MOVEMENT_SPEED_LAND_RAIDING$: #P +10%#!"

@@ -22,7 +22,7 @@
  astrologer_desired_area_modifier: "Desired Migration"
  astrologer_desired_area_modifier_desc: "Thanks to following the desires of their $court_astrologer_court_position$, this character's people are determined to ensure the best possible care of their new pastures."
  msg_tributary_toast: "Offer of Tribute"
- msg_tributary_toast_tt: "[new_tributary.GetShortUIName] has moved to the lands occupied by one of your [tributaries|E] and bowed to you"
+ msg_tributary_toast_tt: "[new_tributary.GetShortUIName]があなたの[tributaries|E]の1つが所有する土地に移動し、あなたにひれ伏した"
  msg_tributary_toast_bad: "Refusal of Tribute"
  msg_tributary_toast_bad_tt: "[new_tributary.GetShortUIName] has moved to the lands occupied by one of your [tributaries|E]\nYou gain a $retaliation_cb$ [casus_belli|E] on [new_tributary.GetHerHim] for #V 5#! years"
  migration_events.0002.t: "Migration: Taken Land"

@@ -264,7 +264,7 @@
  message_filter_laamp_nearby_desc: "[adventurer|E]が近隣に出現または[landed|E]になる"
  message_filter_laamp_contracts: "@task_contract_icon!依頼の出現"
  message_filter_laamp_contracts_desc: "新たな[task_contract|E]が出現する"
- message_filter_laamp_follower_event: "@followers_icon! Life at Camp"
+ message_filter_laamp_follower_event: "@followers_icon!野営地での生活"
  message_filter_laamp_follower_event_desc: "あなたの[followers|E]の1人に何か面白いことが起きる。"
  message_filter_governance_contracts: "@catch_all_icon!政務の発生"
  message_filter_governance_contracts_desc: "あなたが統治する領地で[governance_issue|E]が発生する"

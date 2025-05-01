@@ -516,5 +516,5 @@
  legend_chronicle_conqueror_chronicle_desc: "もう放浪者ではない。不屈の魂から征服者が生まれたのだ。"
  legend_chapter_opening_conqueror: "灰からは何も生まれない。[ROOT.Legend.GetProtagonist.GetTitledFirstNamePossessiveNoTooltip]は、真紅の土の上に立つ[ROOT.Legend.GetProtagonist.GetFaith.HighGodName]の災いとなることを誓った。これより先、土は真紅に染まるのみである。"
  legend_chapter_famous_deed_conqueror: "戦いごとに聖歌は響き渡った。戦いごとに戦利品は膨らみ上がった。戦いごとに、[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip]の伝説は輝きを増していった。"
- legend_magi: "Sons of the Magi"
- legend_magi_desc: "After Jesus was born, He was visited by the Biblical Magi, bearing gifts of gold, frankincense, and myrrh. The Gospel of Matthew states that the Three Wise Men came from the East.\nA misguided Western traveler might place the sighting of the Star of Bethlehem in the Persian city of Saba.\nBut the sun is rising further East. The riches come from the cities, but the unrelenting faith comes from the harsh steppe.\nThe Bible speaks of Melchior, Caspar, and Balthazar returning to their homelands after paying homage to the newborn King of the Jews. Their flesh and blood, the most pious Nestorians, are still worshipping the one true God and His son."
+ legend_magi: "マギの子"
+ legend_magi_desc: "イエスが生まれた後、黄金、乳香、没薬を携えた東方の三博士が訪れた。\n『マタイによる福音書』には、三人の賢者が東の国からやって来たと記されている。\n\nだが、誤った西方の旅人であれば、ベツレヘムの星をペルシアの都市サバに見たと語るかもしれない。しかし、太陽はさらに東から昇る。富は都市からもたらされるが、揺るぎない信仰は過酷な草原から生まれるのだ。\n\n聖書は、メルキオール、カスパール、バルタザールがユダヤ人の新たな王に拝礼したのち、それぞれの故郷へ帰っていったと語っている。その血を引く者たち――最も敬虔なネストリウス派の信徒たちは、今もなお、唯一なる神とその御子を崇め続けている。"

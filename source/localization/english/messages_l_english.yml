@@ -528,7 +528,7 @@
  msg_tributary_contract_broken_due_to_war_text: "Your [tributary_contract|E] has broken due to [war|E]"
  msg_make_tributary_war_invalidated_message: "The [war.GetName] has ended: [defender.GetShortUIName] can no longer be made into a tributary."
  msg_concubine_offered_reversed_title: "[secondary_actor.GetTitledFirstName] is now your Concubine!"
- msg_set_relation_blood_brother_title: "@blood_brother_icon! Became Blood Brothers"
+ msg_set_relation_blood_brother_title: "@blood_brother_icon!血盟になる"
  msg_set_relation_blood_brother_desc: "[GetRelation( 'blood_brother' ).GetReasonFor( LEFT_CHARACTER.Self, RIGHT_CHARACTER.Self )]"
  msg_raid_intent_invalidated_title: "[raiding_army.GetRaidIntent.GetName] invalidated!"
  msg_raid_intent_invalidated_desc: "[raiding_army.GetRaidIntent.GetName] was invalidated, as this intent is no longer available to [LEFT_CHARACTER.GetName]"

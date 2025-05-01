@@ -64,7 +64,7 @@
  pay_homage.0201.insult:0 "来るべきではなかった。"
  homage_delivery_stutter_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]がやっと文章の半分まで来たところで[ROOT.Char.GetHerHis]のどもりが、[ROOT.Char.GetHerHim]に水を差した。私の苦痛に満ちた廷臣たちは、[ROOT.Char.GetHerHis]の声を征服しようとする勇敢な試みをじっと見つめている。"
  homage_delivery_lisp_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]の演説は…記憶に残るものだ。[ROOT.Char.GetHerHis]の発音不全は、その重厚さを鈍らせ、[ROOT.Char.GetSheHe]はその多くの歯擦音を操る中で、私の寛大ではない廷臣たちのくすくす笑いを無視しようとする。"
- homage_delivery_wheeze_liege:1 "[ROOT.Char.GetTitledFirstNameNoTooltip] is an interesting one. Clearly nervous of the spectacle, and excited by their hurried arrival, [ROOT.Char.GetSheHe] seems to struggle even to breath, rasping through the speech between breaks for air."
+ homage_delivery_wheeze_liege:1 "[ROOT.Char.GetTitledFirstNameNoTooltip]は、なかなか興味深い人物だ。この場の華やかさに明らかに緊張しており、駆けつけた興奮も相まって、[ROOT.Char.GetSheHe]はまともに息をすることすら難しそうだ。呼吸の合間にかすれ声で演説を続けている。"
  homage_delivery_slow_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]の演説は…良いとは言えない。[ROOT.Char.GetSheHe]は、いくつかの点で[ROOT.Char.GetHerHis]の思考の繋がりを失い、脇道にそれ、重要な単語のいくつかを誤解したり、発音を誤ったりしている。"
  homage_delivery_inconceivable_liege:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip]の演説は…面白いものだった。[ROOT.Char.GetSheHe|U]は古語や、明らかに本当の意味を知らないような重大な言葉を挿入して、長さを二倍にし、より学識のある廷臣たちを圧倒しているのだ。"
  homage_delivery_stutter_vassal:0 "私がやっと最初の誓いの言葉を言いかけたところで、どもりが私に水を差した。宮廷が笑いと困惑をもって見守る中、私は結局は前に進めたが、その日は私の苦しみによって特徴付けられる。"
