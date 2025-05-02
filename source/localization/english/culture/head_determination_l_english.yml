@@ -1,4 +1,4 @@
 ﻿l_english:
- head_determination_generic_label_desc: "#D A [culture|E]'s [head_determination|E] decides how the cultural head is decided. #!"
- head_determination_domain: "#D Determine by largest domain #!"
- head_determination_herd: "#D Determine by largest herd #!"
+ head_determination_generic_label_desc: "#D [culture|E]における文化指導者の決定方法は、[head_determination|E]によって定まる。#!"
+ head_determination_domain: "#D 最大の直轄領によって決定#!"
+ head_determination_herd: "#D 最大の家畜群によって決定#!"

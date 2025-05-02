@@ -56,7 +56,7 @@
  HOLDING_TT_GARRISON_UNDER_SIEGE:0 "#N [siege|E]#!"
  HOLDING_TT_GARRISON_UNDER_SIEGE_DESC:1 "@warning_icon! #X [holding|E]は[siege|E]されています#!"
  COUNTY_GOVERNOR_EFFICIENCY_MOD: "[governor_efficiency|E]からの$VALUE|+%0=$で補正された"
- nomad_holding: "遊牧民の定住"
+ nomad_holding: "遊牧民の居住地"
  herder_holding: "牧畜民の野営地"
  nomad_holding_concept_key: "[nomadic_holding|E]"
  herder_holding_concept_key: "[herder_holding|E]"

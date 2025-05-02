@@ -69,4 +69,4 @@
  destroy_laamp_effect.tt.domicile_liquidated: "全ての[camp|E]の建造物は取り壊され、それらの建造にかかった費用の一部は返還されます"
  can_move_domicile_camp_exile.tt: "この[county|E]の[holder|E]、もしくは[liege|E]があなたを追放した。"
  LAAMP_AGE_LIMIT: "16歳未満の冒険者は作成できません。"
- unowned_domicile_name: "[TITLE.GetNameNoTooltip] [DOMICILE_TYPE.GetNameNoTooltip]"
+ unowned_domicile_name: "[TITLE.GetNameNoTooltip]の[DOMICILE_TYPE.GetNameNoTooltip]"
