@@ -115,7 +115,7 @@
  mpo_character_interaction_gurkhan: "You are #bold not#! the [gurkhan|E]"
  mpo_character_interaction_obedient: "[recipient.GetShortUIName] is already [obedient|E] to you"
  mpo_character_interaction_established_paiza_system: "You have #bold not#! taken the $mpo_establish_paiza_system_decision$ [decision|E]"
- mpo_interaction_ask_for_paiza: "Ask for Paiza"
+ mpo_interaction_ask_for_paiza: "牌符を求める"
  mpo_interaction_ask_for_paiza_desc: "Makes you [obedient|E] and grants you a Paiza artifact"
  mpo_interaction_leverage_khan_authority: "Leverage Khan Authority"
  mpo_interaction_leverage_khan_authority_desc: "Take [herd|E] and [gold|E] from [recipient.GetShortUIName], and make [recipient.GetHerHim] [obedient|E], if possible.\n@alert_icon! The [gurkhan|E] might react to this abuse of authority."

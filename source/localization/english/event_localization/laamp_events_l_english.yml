@@ -14,7 +14,7 @@
  ep3_laamps.0001.d: "[alt_3.GetFirstNameNoTooltipRegnal]から目を離すな。"
  ep3_laamps.0001.e: "時は無情に…"
  ep3_laamps.0003.opening: "[adventurer.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
- ep3_laamps.0003.desc: "You and your foul hosts may have wrested my [lost_primary_title.GetTierAsNameNoTooltip|l] from me, but mark me: I am not through yet, nor will I give up [lost_primary_title.GetBaseNameNoTierNoTooltip] so easily!"
+ ep3_laamps.0003.desc: "貴様とそのケツにぶら下がる汚らしい有象無象は、我が[lost_primary_title.GetTierAsNameNoTooltip|l]を奪い去ったと言える。だが、我を見ろ！まだ終わらんぞ、そう容易く[lost_primary_title.GetBaseNameNoTierNoTooltip]を諦めるものか！"
  ep3_laamps.0003.a: "ハッ！道化にしては気骨があるな！"
  ep3_laamps.0004.desc: "あの忌々しい裏切り者どもが私から[conquered.GetTierAsNameNoTooltip|l]を奪い、私を荒野へと追い出した今、[winner.GetTitledFirstName]と奴の兵士どもは私ではなく[heir.GetTitledFirstName]を称えているのだ！\n\n私は[conquered.GetAdjectiveNoTooltip]の玉座が逆賊と詐欺師に奪われることを許してしまった。我々は所詮、[ROOT.Char.GetFaith.FateGodName]の玩具に過ぎないのだ…"
  lose_all_prestige_tt: "あなたの[prestige_i][prestige|E]は、#V 100#!以下になります"

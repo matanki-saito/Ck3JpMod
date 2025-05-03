@@ -6,7 +6,7 @@
  action_can_interrogate: "@icon_scheme_challenge_status! Can $interrogate_interaction$"
  action_can_interrogate_label: "@icon_scheme_challenge_status! You can $interrogate_interaction$ [recipient.GetShortUIName]"
  action_can_interrogate_desc: "Ask about the mysterious letter."
- action_can_interrogate_click: "#I Click to view#!"
+ action_can_interrogate_click: "#I クリックで表示#!"
  action_can_interrogate_combined_group_name: "$action_can_interrogate$"
  action_can_interrogate_combined_group_label: "$action_can_interrogate_label$"
  action_can_interrogate_combined_label: "$action_can_interrogate_label$"
