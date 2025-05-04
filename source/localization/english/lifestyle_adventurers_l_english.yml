@@ -48,7 +48,7 @@
  adventurer_divided_attention_perk_effect: "[adventurer_i][followers|E]は#high 武器#!、#high 鎧#!及び#high 鍛冶#!の[inspiration|E]の完了時に大幅に高品質な[artifacts|E]を製作します"
  adventurer_learn_on_the_job_perk_effect: "[adventurer_i] [followers|E]は時折、[inspired|E]によって#high 本#!を書きます"
  adventurer_sanctioned_loopholes_perk_effect: "[adventurer_i][followers|E]は#high 本#!の[inspirations|E]の完了時に大幅に高品質な[artifacts|E]を製作します"
- adventurer_clerical_justifications_perk_effect: "[adventurer_i][nomad_i] [GetActivityType('activity_pilgrimage').GetName] Cost: [gold_i]#P -50%#!"
+ adventurer_clerical_justifications_perk_effect: "[adventurer_i][nomad_i][GetActivityType('activity_pilgrimage').GetName]のコスト：[gold_i]#P -50%#!"
  adventurer_prophet_perk_effect: "[adventurer_i] あなたの[camp|E]が存在する[domain|E]にいる人物に対する#V $attempt_conversion_of_local_ruler_interaction$#![interaction|E]を有効化します"
  adventurer_defender_of_the_faith_perk_effect: "[adventurer_i] #V $attempt_conversion_of_local_ruler_interaction$#![interaction|E]を使用する時、対象が[GetTrait('cynical').GetName( GetNullCharacter )]ではない場合に得る受け入れ値のペナルティを取り除きます"
  adventurer_defender_of_the_faith_perk_2_effect: "[adventurer_i] #V $attempt_conversion_of_local_ruler_interaction$#![interaction|E]を使用する時、あなたの[learning_i][learning|E]から得る受け入れ値を2倍にします\n#weak あなたの学識が相手より高い場合#!"

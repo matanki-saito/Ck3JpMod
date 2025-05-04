@@ -110,7 +110,7 @@
  bp2_yearly.5103.b.failure: "[child.Custom2('RelationToMeShort', parent)]はあなたを捕まえてぶん殴る"
  bp2_yearly.5103.c: "「ごめん、もうしない」"
  bp2_yearly.5104.t: "ひとりぼっちの子ども"
- bp2_yearly.5104.desc: "I bound into the courtyard, toy in hand, only to find [child.GetFirstName] slumped on a bench. [child.GetSheHe|U] barely notices me, sighing at my attempts to cheer [child.GetHerHim]. My toy goes untouched, leaving me scratching my head.\n\nWhat do I do now?"
+ bp2_yearly.5104.desc: "私はおもちゃを手に中庭へ駆け込んだ。だが、そこにいたのはベンチにもたれ、ぐったりとうなだれた[child.GetFirstName]だった。私が元気づけようと近づいても、[child.GetSheHe|U]はかすかにため息をつくだけで、ほとんど気づいてもくれない。私のおもちゃには見向きもせず、私はただ困惑して頭をかいた。\n\nどうしよう？"
  bp2_yearly.5104.a: "ここらで座っていれば考えていることがわかるかもだ。"
  bp2_yearly.5104.b: "「まあこいよ、[child.GetFirstNameNoTooltip]！遊ぼうぜ！」"
  bp2_yearly.5104.b.success: "[child.GetFirstNameNoTooltip]を遊びに来るよう説得し、元気に楽しむ！"

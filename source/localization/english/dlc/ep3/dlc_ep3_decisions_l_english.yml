@@ -150,7 +150,7 @@
  admin_confirmation_rank_tt: "あなたは[governor|E]である"
  admin_confirmation_liege_tt: "あなたは[THIS.Char.GetTopLiege.GetTitleAsNameNoTooltip] ([THIS.Char.GetTopLiege.GetFirstNameRegnal])の[direct_vassal|E]である"
  admin_confirmation_time_tt: "あなたは#V 1#!年以上[primary_title|E]([THIS.Char.GetPrimaryTitle.GetNameNoTier])を保有している"
- admin_confirmation_event_header: "任命の確認:"
+ admin_confirmation_event_header: "任命の確認："
  ep3_decisions_event.2001.opening: "栄光ある[ROOT.Char.GetTitleAsNameNoTooltip]陛下、"
  ep3_decisions_event.2001.desc: "私は[confirmation_vassal.GetPrimaryTitle.GetName][confirmation_vassal.GetTitleAsNameNoTooltip]としての職権を陛下にご承認いただくため、[confirmation_liege.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]に到着いたしました。\n\n陛下のお手隙の際に拝謁願いたく存じます。"
  ep3_decisions_event.2001.a: "すぐに式典を手配せよ。"
