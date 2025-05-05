@@ -69,7 +69,7 @@
  learning_medicine.2023.udder.desc:0 "「乳は生命、その源へ向かうのでございます。お二人のために雌牛の乳房の煮込みを作らせましょうぞ。一週間、それ以外に何も食べてはなりませぬ。必ずや報われまする」\n\n一週間とはかくも長きものか。"
  learning_medicine.2023.female_orgasm.start.desc:0 "「ご存じかもしれませんが、女性の喜びは男性のそれと同じくらい重要です。"
  learning_medicine.2023.female_orgasm.female.desc:1 "あなた様のお種が正しく飛び出し[spouse.Custom('WifeHusbandPossessive')]の中で混じり合わねばなりませぬ。[spouse.GetSheHe|U]はこちらの閨房術の秘奥書をお読みになるべきでございます」\n\nより良き治療は望めなかった。\n\n"
- learning_medicine.2023.female_orgasm.male.desc:0 "まず、[spouse.Custom('WifeHusbandPossessive')]のお種が正しく打ち出れるよう導かねばなりませぬ。そのときにこそ貴方様の中で混じり合えるのでございます。こちらの閨房術の秘奥書をお読みくださいませ」\n\n慣れぬ技の習得には骨が折れたが、[spouse.GetFirstNamePossessive] の反応を見るかぎり、効果は上々だったようだ！\n\n"
+ learning_medicine.2023.female_orgasm.male.desc:0 "まず、[spouse.Custom('WifeHusbandPossessive')]のお種が正しく打ち出れるよう導かねばなりませぬ。そのときにこそ貴方様の中で混じり合えるのでございます。こちらの閨房術の秘奥書をお読みくださいませ」\n\n慣れぬ技の習得には骨が折れたが、[spouse.GetFirstNamePossessive]の反応を見るかぎり、効果は上々だったようだ！\n\n"
  learning_medicine.2023.milk_bath.desc:0 "「乳は生命、ことに山羊の乳こそ至高。いつ何時であろうと、交わりを持たんとするとき、あなたの[spouse.Custom('WifeHusband')]ともに山羊の乳風呂を先に浴びなさい。浴槽でなさるのもぜひ」"
  learning_medicine.2023.milk_bath_end.desc:0 "\n\n乳の匂いはたしかに #EMP 強烈#! であったが――"
  learning_medicine.2023.end.desc:0 "[physician.GetFirstNameNoTooltip]は結果に大いに手応えを感じているようで、私の体調もすこぶる良い。[physician.GetSheHe|U]は気長に待つよう言うが、我が家にはじき新たな命が訪れることだろう。"

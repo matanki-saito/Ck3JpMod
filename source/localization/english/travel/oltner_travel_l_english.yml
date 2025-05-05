@@ -13,7 +13,7 @@
  travel_events_oltner_2.1010.d: "「そら、寄付金だ。病める者に施してやろう」"
  well_funded_hospices_modifier: "投資された宿舎"
  well_funded_hospices_modifier_desc: "これらの国の宿舎は、旅行者からの寛大な寄付によって繁栄しています。"
- local_character_aptitude_physician: "[GetCourtPositionType('court_physician_court_position').GetName()]の[local_character.GetCourtPositionAptitude( GetCourtPositionType( 'court_physician_court_position' ) )]としての[local_character.GetUINamePossessive]の[aptitude|E]"
+ local_character_aptitude_physician: "[GetCourtPositionType('court_physician_court_position').GetName()]としての[local_character.GetUINamePossessive]の[aptitude|E]：[local_character.GetCourtPositionAptitude( GetCourtPositionType( 'court_physician_court_position' ) )]"
  travel_events_oltner_2.1020.t: "ラクダ飼いの祝宴"
  travel_events_oltner_2.1020.desc: "私と従者たちが[location.GetName]の広大な土地を移動していると、ラクダ牧場の独特なシルエットが視界に入ってきた。夕闇が迫る中、羊飼いが近づいてくる。\n\n「ようこそ、尊いお客様」と[local_character.GetSheHe]が微笑みかける。「[location.GetName]のラクダは私たちを支えてくれます。今夜は、この高貴な生き物を称えましょう。星空の下で、ご一緒にごちそうと砂漠の物語をお楽しみになりませんか？」"
  travel_events_oltner_2.1020.a: "「今宵の馬鹿騒ぎが、我らの魂を奮い立たせんことを！」"

@@ -836,7 +836,7 @@
  situation_game_rule_extra_nomads_sami_desc: "[SITUATION.GetType.GetDesc]"
  situation_type_game_rule_extra_nomads_sami: "タイガとツンドラ"
  situation_type_game_rule_extra_nomads_sami_desc: "サーミ人とカレリア人の故郷。"
- game_rule_extra_nomads_sami_sub_region_sami_land: "サプミ"
+ game_rule_extra_nomads_sami_sub_region_sami_land: "サーミ"
  game_rule_extra_nomads_sami_sub_region_karelian_land: "カレリア"
  game_rule_extra_nomads_sami_participant_group_nomad_rulers_capital: "この地域の遊牧民の統治者"
  game_rule_extra_nomads_sami_participant_group_nomad_rulers_capital_desc: "$the_great_steppe_participant_group_nomad_rulers_capital_desc$"

@@ -186,5 +186,5 @@
  msg_migration_into_suzerain_desc: "[actor.GetUIName|U] has [migrated|E] into the [target_title.GetBaseName] #weak ([target_title.GetName])#!, displacing your [suzerain|E], [old_holder.GetShortUIName]"
  msg_migration_into_liege_title: "Migration Displaces Liege"
  msg_migration_into_liege_desc: "[actor.GetUIName|U] has [migrated|E] into the [target_title.GetBaseName] #weak ([target_title.GetName])#!, displacing your [liege|E], [old_holder.GetShortUIName]"
- msg_migration_into_neighbour_title: "Migration into Neighboring Realm"
- msg_migration_into_neighbour_desc: "[actor.GetUIName|U] has [migrated|E] into the [target_title.GetBaseName] #weak ([target_title.GetName])#!, taking it from [old_holder.GetTopLiege.GetShortUIName]"
+ msg_migration_into_neighbour_title: "隣接国への移住"
+ msg_migration_into_neighbour_desc: "[actor.GetUIName|U]は[target_title.GetBaseName]#weak （[target_title.GetName]）#!へ[migrated|E]し、[old_holder.GetTopLiege.GetShortUIName]からその地を奪いました"

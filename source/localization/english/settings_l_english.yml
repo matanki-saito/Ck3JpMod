@@ -105,5 +105,5 @@
  byzantine: "ビザンツ"
  map_table_style_ep3: "ビザンツ"
  nomad: "$nomad_government$"
- SETTING_SHOW_DETAILED_RAID_MAP_ICON: "Detailed [raid|e] icons"
- SETTING_SHOW_DETAILED_RAID_MAP_ICON_TOOLTIP: "#T $SETTING_SHOW_DETAILED_RAID_MAP_ICON$#!\nSets if the [raid|e] map icons should display the simplified or detailed icons\n\n#I If enabled, hold Alt to display all holdings with loot you can [raid|e].#!"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON: "詳細な[raid|e]アイコン"
+ SETTING_SHOW_DETAILED_RAID_MAP_ICON_TOOLTIP: "#T $SETTING_SHOW_DETAILED_RAID_MAP_ICON$#!\n[raid|e]マップアイコンを簡略表示にするか詳細表示にするかを設定します\n\n#I 有効にすると、Altキーを押しながら[raid|e]可能なすべての所領が表示されます#!"

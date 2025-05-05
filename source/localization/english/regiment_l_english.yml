@@ -217,7 +217,7 @@
  accolade_maa_horse_archers:0 "弓騎兵の従士"
  accolade_maa_horse_archers_flavor:1 "[retinue_maa|E]\n#F 一般的な草原の騎手も一生涯を通してその技術を研鑽する。だが、これらの熟練した騎手は既にしてその領域を超越している。相対すれば万苦を、追走すれば冷たい死を。#!"
  TRANSFER_TITLE_MAA_NOT_TITLE_MAA: "@warning_icon!称号に属する[men_at_arms|E]のみが別の称号に転属することができます。"
- TRANSFER_TITLE_MAA_NOT_ADMINISTRATIVE: "@warning_icon! [TITLE.GetShortUINameNoTooltip] is #bold not#! under a [GetGovernment( 'administrative_government' ).GetName]"
+ TRANSFER_TITLE_MAA_NOT_ADMINISTRATIVE: "@warning_icon![TITLE.GetShortUINameNoTooltip]は[GetGovernment( 'administrative_government' ).GetName]では#bold ない#!"
  TRANSFER_TITLE_MAA_ALREADY_CONTROLS_MAA: "@warning_icon![TITLE.GetShortUIName]は既に対象の常備軍連隊を1つ以上指揮しています。"
  TRANSFER_TITLE_MAA_ALREADY_OWNS_MAA: "@warning_icon![TITLE.GetShortUIName]は既に対象の常備軍連隊を1つ以上指揮しています。"
  ayrudzi: "アイルズィ"

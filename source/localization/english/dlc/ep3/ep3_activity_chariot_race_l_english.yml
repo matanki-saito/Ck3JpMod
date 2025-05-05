@@ -178,7 +178,7 @@
  chariot_race.0201.increase_legitimacy_fail: "[host.GetHersHis|U]の物語は、なんとも薄っぺらく空虚なもの。[host.GetTitleAsNamePossessiveNoTooltip] の誇り高き言葉はどこか嘘くさく響き、[host.GetSheHe|U]は群衆の裁きを仰ぐものの──その姿はまるで、主権の礼装に身を包んだわがままな赤子のようだ。"
  chariot_race.0201.spread_legend: "いつもの慣用句の中に巧みに織り込まれているのは、[promote_legend.GetName]への言及。古の儀式と帝国の物語とが、もはや区別できぬほど見事に重なり合っている。"
  chariot_race.0201.discredit_claimant_self: "あっという間に、皆の口の端に私の名が上るようになった！\nというのも、[host.GetTitleAsNameNoTooltip]の愚か者めが、公然と私の見込みを貶め、玉座への支持は決して与えぬと宣言したからだ！"
- chariot_race.0201.discredit_claimant_success: "集まったすべての者の前で、[host.GetSheHe] は [claimant.GetName] の名を激しく非難し、[claimant.GetHerHis] の望みを徹底的に打ち砕き、[claimant.GetSheHe] が決して玉座に就くことはないと誓った！"
+ chariot_race.0201.discredit_claimant_success: "集まったすべての者の前で、[host.GetSheHe]は[claimant.GetName]の名を激しく非難し、[claimant.GetHerHis]の望みを徹底的に打ち砕き、[claimant.GetSheHe]が決して玉座に就くことはないと誓った！"
  chariot_race.0201.discredit_claimant_fail: "参列者全員の前で、[host.GetSheHe]は[claimant.GetName]の名誉を貶め、[claimant.GetHerHis]の将来について不平を漏らし、[claimant.GetHerHim]が玉座に座ることを思い浮かべて顔を赤らめる。"
  chariot_race.0201.war_support: "[host.GetHerHis|U]の[foe.GetName]に対する正義の戦いへの呼びかけが群衆に響き渡り、[host.GetHerHis]は勝利を約束する。この戦時の競技そのものが、我々がいかなる敵も恐れていない証拠だと[host.GetSheHe]は宣言する。"
  chariot_race.0201.angry_crowd: "\n\n群衆はまったく満足していない。大きな拍手に混じって、叫び声による要求や侮辱、下品な罵声が飛び交っている。"
