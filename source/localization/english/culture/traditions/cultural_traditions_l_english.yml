@@ -1252,7 +1252,7 @@
  ethos_communal_herders_bonus_effects: "[herders|E]はより高い$MOD_MONTHLY_COUNTY_FERTILITY_GROWTH$を持つ"
  cultrad_not_nomadic_government_type: "あなたの[government|E]は[GetGovernment( '遊牧政体' ).GetName]"
  mpo_northern_tribes_percentage_desc:0 "[culture|E]は#V $mpo_siberian_permafrost_modifier$#![modifier|E]の[counties|E]の#V 50%#!を所持していない"
- permafrost_feudal_ban: "あなたの[culture|E]は#V $tradition_mpo_northern_tribes_name$#!の[culture_tradition|E]を持っている"
+ permafrost_feudal_ban: "あなたの[culture|E]は#V $tradition_mpo_northern_tribes_name$#!の[culture_tradition|E]を持っていない"
  culture_parameter_permafrost_unlock_tribal_building: "この[culture|E]に属する[counties|E]のうち、#V $mpo_siberian_permafrost_modifier$#!の[modifier|E]を持つ領地では、[tribal|E]の[building|E]のアップグレードに[innovations|E]が必要ありません。"
  culture_parameter_permafrost_cannot_become_feudal: "#V 封建制の導入#!および#V 主君を通じた封建制の導入#!の[decisions|E]を実行できない"
  culture_parameter_permafrost_modifier_mechanic: "この[culture|E]の[counties|E]は[development|E]と[control|E]を低下させる[modifier|E]、#V $mpo_siberian_permafrost_modifier$#!を持った状態で開始されます。\nただし、[holder|E]と[county|E]の両方がこの[culture_tradition|E]を有する[culture|E]である場合、#V $mpo_siberian_permafrost_modifier$#!は[control|E]を低下させず、代わりに各種ボーナスを提供します。"

@@ -21,7 +21,7 @@
  DISABLED_MIGRATE_HUD_BUTTON: "#X Only [independent_rulers|E] can migrate#!"
  NO_MIGRATION_SITUATION: "@warning_icon! #X You are not involved in a [situation|E] with [migration|E]#!"
  mpo_the_great_steppe_HUD_BUTTON: "大ステップ地帯"
- MIGRATION_WINDOW_DESTINATION_SELECTION_HEADER: "Select Destination To Migrate"
+ MIGRATION_WINDOW_DESTINATION_SELECTION_HEADER: "移住先を選択"
  MIGRATION_WINDOW_UNSELECT_TOOLTIP: "Clear selected migration target"
  MIGRATION_WINDOW_OUTSIDE_SITUATION: "#X Can't migrate outside [SITUATION.GetNameNoTooltip]#!"
  MIGRATION_OWN_REALM: "#X Can't migrate inside your own realm#!"

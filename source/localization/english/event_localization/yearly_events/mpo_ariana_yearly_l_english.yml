@@ -78,7 +78,7 @@
  mpo_events_ariana.0030.jail_tt: "[Concept('dynasty', 'Noble Dynasty')|E]に属する[Concept('activity_attending', 'Attending Guest')|E]すべて：\n$EFFECT_LIST_BULLET$#V あなた#!への[opinion|E]：#p +10#!"
  mpo_events_ariana.0030.jail_effect: "[bartender.GetNameNoTooltip]をその所業により処罰する"
  mpo_events_ariana.0030.ignore: "農民たちにも飲ませてやれ！"
- mpo_events_ariana.0030.ignore_tt: "[Concept('dynasty', 'Noble Dynasty')|E]に属する[Concept('activity_attending', 'Attending Guest')|E]すべて：\n$EFFECT_LIST_BULLET$#V あなた#!への[opinion|E]：#n -10#!"
+ mpo_events_ariana.0030.ignore_tt: "[Concept('dynasty', '貴族')|E]である[Concept('activity_attending', '客人')|E]すべて：\n$EFFECT_LIST_BULLET$#V あなた#!への[opinion|E]：#n -10#!"
  mpo_events_ariana.0030.ignore_effect: "[bartender.GetNameNoTooltip]による平民への酒の提供を許可する"
  mpo_events_ariana.0030.ignore_tt_lowborn: "[lowborn|E]の[Concept('activity_attending', 'Attending Guest')|E]すべて：\n$EFFECT_LIST_BULLET$#V あなた#!への[opinion|E]：#p +10#!"
  mpo_events_ariana.0030.greedy: "客人？　そこらの水でも飲ませておけ。"

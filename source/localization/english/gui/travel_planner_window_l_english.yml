@@ -112,7 +112,7 @@
  TRAVEL_PLANNER_PROVISIONS_BREAKDOWN_FROM_MAA: "#bold 常備軍から#!"
  CANCEL_TRAVEL_PLAN_ACTIVE_CONTRACT: "旅の計画をキャンセルできません。あなたは依頼を継続中です。"
  CANCEL_TRAVEL_PLAN_STAY_WITH_DOMICILE: "旅を中断"
- START_TRAVEL_TO_CONTRACT: "契約を受けるために移動する"
+ START_TRAVEL_TO_CONTRACT: "依頼を受けるために移動する"
  START_TRAVEL_MOVE_TO_CONTRACT: "依頼を受託するために[Domicile.GetType.GetNameNoTooltip]を移動する"
  START_TRAVEL_MOVE_DOMICILE: "[Domicile.GetType.GetNameNoTooltip]の移動を開始する"
  CANCEL_TRAVEL_PLAN_DRAFT_CANNOT_BE_CANCELLED: "旅の計画は中止できない"

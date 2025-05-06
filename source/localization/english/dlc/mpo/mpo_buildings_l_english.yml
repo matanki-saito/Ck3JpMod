@@ -1,6 +1,6 @@
 ﻿l_english:
  building_type_nomadic_camp_01: "遊牧民の居住地"
- building_type_nomadic_camp_01_desc: "大草原の単調さを打ち破るユルトの群れ。ここにあるものはすべて荷造りして、より肥沃な新しい場所に移動させることができる。"
+ building_type_nomadic_camp_01_desc: "大草原の単調さを打ち破るゲルの群れ。ここにあるものはすべて荷造りして、より肥沃な新しい場所に移動させることができる。"
  building_nomadic_camp_01: "$building_type_nomadic_camp_01$"
  building_nomadic_camp_01_desc: "$building_type_nomadic_camp_01_desc$"
  building_type_herder_camp_01: "牧畜民の囲い"

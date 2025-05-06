@@ -13,4 +13,4 @@
  pdi_has_poor_health:0 "[health|E]: $action_dying$"
  pdi_in_regency: "[regency|E]である"
  pdi_admin_without_noble_title: "[administrative|E] ですが、[noble_family|E][title|E] はありません"
- pdi_herder_to_nomad: "#alert_trial 選択すると[GetGovernment( 'nomad_government' ).GetName]の[ruler|E]に転化します#!"
+ pdi_herder_to_nomad: "#alert_trial 選択すると[GetGovernment( 'nomad_government' ).GetName]の[ruler|E]に変化します#!"
