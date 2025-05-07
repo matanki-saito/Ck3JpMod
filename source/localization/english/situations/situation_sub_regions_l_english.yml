@@ -1,8 +1,8 @@
 ﻿l_english:
  the_great_steppe_sub_region_steppe_west: "西ステップ"
- the_great_steppe_sub_region_steppe_west_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak The western steppes is the meeting place between the steppes and the great rivers of Don, Dnieper, Dniester, and Volga. Throughout history this has been the exit point of many a nomadic invasion of the settled lands of Europe.#!"
+ the_great_steppe_sub_region_steppe_west_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak 西方の草原地帯は、草原とドン川・ドニエプル川・ドニエストル川・ヴォルガ川といった大河が交わる場所である。\n有史以来、この地は遊牧民たちがヨーロッパの定住地へと侵攻する際の突破口となってきた。#!"
  the_great_steppe_sub_region_steppe_central: "中央ステップ"
- the_great_steppe_sub_region_steppe_central_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak The central steppes are straddled between the Urals in the west, the Altai Mountains in the east, and Khorasan in the south. For ages nomads have passed through both traveling west and east, to reach great empires at either side of the steppe.#!"
+ the_great_steppe_sub_region_steppe_central_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak 中央の草原地帯は、西のウラル山脈、東のアルタイ山脈、そして南のホラーサーンに挟まれている。\nこの地は古くより、東西を往来する遊牧民たちの通り道であり、草原の両端に広がる大帝国へと至る道でもあった。#!"
  the_great_steppe_sub_region_steppe_east: "東ステップ"
- the_great_steppe_sub_region_steppe_east_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak To the east of the Altai Mountains and north of the Gobi Desert lies the eastern steppes. These vast steppes breeds strong warriors who will eventually travel westwards or seek the riches of their south-eastern neighbors.#!"
- SITUATION_SUB_REGION_TOOLTIP_DESC: "This [situation_sub_region|E] belongs to [SituationSubRegion.GetSituation.GetName]\n\nCurrent Phase: [SituationSubRegion.GetCurrentPhase.GetName|V]"
+ the_great_steppe_sub_region_steppe_east_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak アルタイ山脈の東、ゴビ砂漠の北に広がるのが、東方の草原地帯である。\nこの広大な草原は、いずれ西へと向かう強き戦士たちを育み、あるいは南東の隣人たちの富を渇望する進撃者を生み出すだろう。#!"
+ SITUATION_SUB_REGION_TOOLTIP_DESC: "この[situation_sub_region|E]は[SituationSubRegion.GetSituation.GetName]です\n\n現在のフェイズ：[SituationSubRegion.GetCurrentPhase.GetName|V]"
