@@ -5,7 +5,7 @@
  MESSAGE_CLICK_TO_DISMISS:0 "#I 右クリックで無視#!"
  MESSAGES_IN_QUEUE:0 "さらに[MessageFeedHandler.GetNumberOfQueuedMessages]のメッセージ"
  FEED_MESSAGE_GOTO_TOOLTIP:0 "#T [PlayerMessageItem.GetGotoProvince.GetName]に移動します。#!"
- msg_marriage:1 "結婚: あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!と#high [RIGHT_CHARACTER.GetFirstNameNoTooltip]#!"
+ msg_marriage:1 "結婚: あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )]#high [LEFT_CHARACTER.GetFirstNameNoTooltip]#!と#high [RIGHT_CHARACTER.GetFirstNameNoTooltip]#!"
  msg_marriage_desc:1 "あなたの[GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )][LEFT_CHARACTER.GetShortUINameNotMe]は[RIGHT_CHARACTER.GetUINameNotMe]と結婚した"
  msg_building_done:1 "#high [BUILDING.GetNameNoTooltip]#!完成"
  msg_building_done_desc:1 "[PROVINCE.GetBaronyNameExplicitly]に[building|E]として[BUILDING.GetName]が建設された"

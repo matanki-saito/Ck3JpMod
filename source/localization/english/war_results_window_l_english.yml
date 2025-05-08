@@ -4,7 +4,7 @@
  WAR_RESULTS_WHITE_PEACE:0 "白紙和平"
  WAR_RESULTS_INVALIDATED:1 "#high 無効化#!"
  WAR_RESULTS_UNKNOWN:0 "不明"
- WAR_RESULTS_DATES:0 "[WarResultsWindow.GetStartDate.GetStringShort] – [WarResultsWindow.GetEndDate.GetStringShort]"
+ WAR_RESULTS_DATES:0 "[WarResultsWindow.GetStartDate.GetStringShort] – [WarResultsWindow.GetEndDate.GetStringShort]"
  WAR_RESULTS_GOLD:0 "[gold_i]$VALUE|+0$"
  WAR_RESULTS_PRESTIGE:0 "[prestige_i]$VALUE|+0$"
  WAR_RESULTS_PIETY:0 "[piety_i]$VALUE|+0$"

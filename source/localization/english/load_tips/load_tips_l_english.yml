@@ -38,7 +38,7 @@
  LOADING_TIP_36:0 "#T $game_concept_traits$#!\n\n$game_concept_trait_desc$"
  LOADING_TIP_37:0 "#T $game_concept_spouse$#!\n\n$game_concept_spouse_desc$"
  LOADING_TIP_38:0 "#T $game_concept_holdings$#!\n\n$game_concept_holding_desc$"
- LOADING_TIP_39:0 "#T $game_concept_piety$ [GetLocalPlayerPietyTextIcon] #!\n\n$game_concept_piety_desc$"
+ LOADING_TIP_39:0 "#T $game_concept_piety$ [GetLocalPlayerPietyTextIcon]#!\n\n$game_concept_piety_desc$"
  LOADING_TIP_40:0 "#T $game_concept_piety_level$#!\n\n$game_concept_piety_level_desc$"
  LOADING_TIP_41:0 "#T $game_concept_prestige$ @prestige_icon!#!\n\n$game_concept_prestige_desc$"
  LOADING_TIP_42:0 "#T $game_concept_prestige_level$#!\n\n$game_concept_prestige_level_desc$"

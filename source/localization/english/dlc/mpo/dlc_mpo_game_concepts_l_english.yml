@@ -117,7 +117,7 @@
  game_concept_yurt_building_desc: "$game_concept_yurt_buildings_desc$"
  game_concept_obedience: "恭順度"
  game_concept_obedience_desc: "[GetGovernment( 'nomad_government' ).GetName][realms|E]において、恭順度は[character|E]の[liege|E]や[suzerain|E]、[court|E]保有者に対する忠誠心を決定します。人物は一度に一人の[ruler|E]にのみ恭順します。\n\n従順な人物は主君に対する[hostile_schemes|E]に加わったり、主君を攻撃する[wars|E]や[factions|E]に参加したりしにくくなります。[succession|E]に当たっては常に主君の意向を支持し、自らの[claims|E]を主張することはありません。不従順な[tributaries|E]は独立を企てるかもしれません。\n\n人物の恭順度が[obedience_threshold|E]を上回った場合、彼らは不従順になります。"
- game_concept_obedient: "従順"
+ game_concept_obedient: "恭順"
  game_concept_obedience_i: "@obedience_icon!"
  game_concept_obedient_desc: "$game_concept_obedience_desc$"
  obedience_value: "[obedience|E]："

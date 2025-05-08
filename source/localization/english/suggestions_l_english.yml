@@ -10,7 +10,7 @@
  suggestion_construct_building_click:1 "#I クリックで所領を開く#!"
  suggestion_fabricate_claim_label:0 "請求権を捏造できます"
  suggestion_fabricate_claim:0 "提案: [landed_title.GetNameNoTierNoTooltip]への請求権を捏造しましょう"
- suggestion_fabricate_claim_desc:1 "隣接する[landed_title.GetName]は豊かで繁栄していますが、[casus_belli|E]なしでは征服できません。\n\nあなたの [court_chaplain|E]や[realm_priest|E] を送り込み [claim|E]を偽造することは、[war|E]を起こし称号をあなたのものにする正当な理由を与えることになります。"
+ suggestion_fabricate_claim_desc:1 "隣接する[landed_title.GetName]は豊かで繁栄していますが、[casus_belli|E]なしでは征服できません。\n\nあなたの[court_chaplain|E]や[realm_priest|E]を送り込み[claim|E]を偽造することは、[war|E]を起こし称号をあなたのものにする正当な理由を与えることになります。"
  suggestion_fabricate_claim_click:1 "#I クリックで称号を表示#!"
  suggestion_create_title_label:0 "称号を創設できます"
  suggestion_create_title:0 "提案: [landed_title.GetNameNoTooltip]を作成しましょう"

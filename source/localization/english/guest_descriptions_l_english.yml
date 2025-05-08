@@ -35,7 +35,7 @@
  guest_description.physique_good_1.desc:0 "[GetTrait('physique_good_1').GetName( ROOT.Char )]"
  guest_description.beauty_good_1.desc:0 "[GetTrait('beauty_good_1').GetName( ROOT.Char )]"
  guest_description.fecund.desc:0 "[GetTrait('fecund').GetName( ROOT.Char )]"
- guest_description.gentic_end.desc:0 "[ROOT.Char.GetWomanMan] ([congenital|E][trait|E])"
+ guest_description.gentic_end.desc:0 "[ROOT.Char.GetWomanMan] ([congenital|E][trait|E])"
  guest_description.vassal_start.desc:0 "良い[vassal|E]になるだろう"
  guest_description.vassal_content.desc:0 "([GetTrait('content').GetName( ROOT.Char )])"
  guest_description.vassal_humble.desc:0 "([GetTrait('humble').GetName( ROOT.Char )])"

@@ -999,7 +999,7 @@
  game_concept_rank:0 "階位"
  game_concept_title_rank:1 "階位"
  game_concept_ranks:0 "階位"
- game_concept_title_tier_desc:2 "称号の[rank|E]に応じた行政区域、$game_concept_title_tier$は、ゲーム内の階層社会における[title|E]の位置を決定づけます。\n\n全ての称号が階級を持ち、それによってその[holder|E]が持てる[vassals|E]の最高階級が決まります。\n\n[empire|E] > [kingdom|E] > [duchy|E] > [county|E] > [barony|E]"
+ game_concept_title_tier_desc:2 "称号の[rank|E]に応じた行政区域、$game_concept_title_tier$は、ゲーム内の階層社会における[title|E]の位置を決定づけます。\n\n全ての称号が階級を持ち、それによってその[holder|E]が持てる[vassals|E]の最高階級が決まります。\n\n[empire|E] > [kingdom|E] > [duchy|E] > [county|E] > [barony|E]"
  game_concept_clergy:0 "聖職者"
  game_concept_clergy_desc:1 "[court_chaplains|E]、[realm_priests|E]、[theocratic|E]の支配者、及び[GetTrait('devoted').GetName( GetNullCharacter )]の特性を持つ者は、聖職者であるとみなされます。\n\n聖職者になれる者並びに聖職者の婚姻および土地その他の継承の可否は、[faith|E]の[doctrines|E]により決定されます。"
  game_concept_church_property:0 "教会所領"

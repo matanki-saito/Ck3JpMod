@@ -15,7 +15,7 @@
  crown_authority_0:0 "自立した封臣"
  crown_authority_0_effects_not_in_prev:0 "#weak 臣下は[levies|E]と[taxes|E]を提供するが、それ以外は自由にふるまうことができる#!"
  crown_authority_1:0 "限定的な王権"
- crown_authority_1_effects:1 "$EFFECT_LIST_BULLET$#indent_newline:3 [tributaries|E] を設立できる#!\n$EFFECT_LIST_BULLET$#indent_newline:3 支配者は利用可能な分割系[succession_laws|E]へ変更が可能#!\n$EFFECT_LIST_BULLET$[titles|E]の剥奪が可能\n$EFFECT_LIST_BULLET$[vassals|E]の引き抜きが可能"
+ crown_authority_1_effects:1 "$EFFECT_LIST_BULLET$#indent_newline:3 [tributaries|E]を設立できる#!\n$EFFECT_LIST_BULLET$#indent_newline:3 支配者は利用可能な分割系[succession_laws|E]へ変更が可能#!\n$EFFECT_LIST_BULLET$[titles|E]の剥奪が可能\n$EFFECT_LIST_BULLET$[vassals|E]の引き抜きが可能"
  crown_authority_2:0 "高い王権"
  crown_authority_2_effects:3 "$EFFECT_LIST_BULLET$#indent_newline:3 統治者は、相続法を全ての利用可能な[succession_laws|E]へ変更可能#!\n$EFFECT_LIST_BULLET$#indent_newline:3 [vassals|E]は[liege|E]に対し[hook|E]を使用しない限り、他の封臣と[war|E]できない#!\n$EFFECT_LIST_BULLET$#indent_newline:3 封臣の[titles|E]は[realm|E]外の人物に対して相続されない#!\n$EFFECT_LIST_BULLET$#indent_newline:3 称号の剥奪や封臣の引き抜きを拒否した封臣は[criminals|E]として扱われる#!"
  crown_authority_3:0 "絶対的王権"

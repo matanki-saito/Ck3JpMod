@@ -1,6 +1,6 @@
 ﻿l_english:
- VIRTUE_MODIFIER:0 "[TRAIT.GetName( GetPlayer )|L] ([virtue|E])"
- SIN_MODIFIER:0 "[TRAIT.GetName( GetPlayer )|L] ([sin|E])"
+ VIRTUE_MODIFIER:0 "[TRAIT.GetName( GetPlayer )|L] ([virtue|E])"
+ SIN_MODIFIER:0 "[TRAIT.GetName( GetPlayer )|L] ([sin|E])"
  recent_excommunication:0 "最近破門された"
  recent_excommunication_desc:0 "この人物は最近[excommunicated|E]され、その信仰上の地位が傷つけられている。"
  excommunication_recently_lifted:0 "破門が最近解除された"
