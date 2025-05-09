@@ -52,7 +52,7 @@
  ep3_landless_admin.1040.desc.intro: "花の香りがそこらじゅうに広がっている。わたしは[spymaster.GetTitledFirstName]と連れ立って、透き通った小川のほとりを歩いている。\n\n「[ROOT.Char.GetLadyLord]よ、あなたの本心をお聞かせください。[rival.GetTitledFirstName]めは、いまや[my_title.GetName]を手中に収めんとしています。なんでも既に、勅令の草案を書きあげているとか……」\n\n「しかし思い通りにしてやる必要もありません。噂とは移ろいやすいものですから」\n\n"
  ep3_landless_admin.1040.desc.child: "しかし我が子だ…そんなことができるのか？"
  ep3_landless_admin.1040.desc.spouse: "伴侶だぞ…生涯を共にすると誓ったのに。"
- ep3_landless_admin.1040.desc.family: "血で血を洗うようなことだ…あなたを守るはずだった…"
+ ep3_landless_admin.1040.desc.family: "同じ血を分けた兄弟だ…あなたを守るべきなのにか？"
  ep3_landless_admin.1040.a: "「噂か！わたしの得意分野じゃないか！」"
  ep3_landless_admin.1040.b: "「それは残念。わたしは部屋に戻らせてもらうよ」"
  ep3_landless_admin.1040.c: "「試してみる価値はある」"
