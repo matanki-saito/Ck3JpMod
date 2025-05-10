@@ -15,6 +15,6 @@
  SITUATION_PHASE_PARTICIPANT_ALL_EFFECTS: "#indent_newline:2 #S 通常の効果：#!"
  SITUATION_PHASE_PARTICIPANT_GROUP_EFFECTS: "#indent_newline:2 #S [SituationParticipantGroup.GetName]の効果：#!"
  SITUATION_PHASE_CULTURE_DOCTRINE_EFFECTS: "#indent_newline:2 $CHARACTERS_OF_CULTURE_DOCTRINE_MODIFIER$"
- SITUATION_START_EVENT_DESC: "#high あなたは[the_great_steppe|E]における[Situation.GetParticipantGroupByCharacter( Character.Self ).GetNameNoTooltip] の一人です。#!"
+ SITUATION_START_EVENT_DESC: "#high あなたは[the_great_steppe|E]における[Situation.GetParticipantGroupByCharacter( Character.Self ).GetNameNoTooltip]の一人です。#!"
  SITUATION_START_EVENT_DETAIL_TITLE: "各アイコンを調べて、[situation|E]に関する詳細を確認してください。"
  SITUATION_INFO_WIDGET_DEBUG: ""

@@ -326,7 +326,7 @@
  laamp_base_learning_contract_events.4110.b: "「[alternative_language_culture.GetLanguage.GetNameNoTooltip]で#EMP 鼻くそ#!は何て言うか知ってるか？」"
  laamp_base_learning_contract_events.4110.b.tt: "あなたは[child_to_educate.GetShortUIName]よりも多くの[language|E]を知っているわけではない"
  laamp_base_learning_contract_events.4110.c: "いや。[child_to_educate.GetSheHe|U]にはもう見込みがないな。"
- laamp_base_learning_contract_events.4110.c.tt: "@alert_icon! #alert_trial [task_contract|E] の失敗が差し迫っている#!"
+ laamp_base_learning_contract_events.4110.c.tt: "@alert_icon! #alert_trial [task_contract|E]の失敗が差し迫っている#!"
  laamp_base_learning_contract_events.4120.t: "$laamp_base_learning_contract_events_prefix.4100$：成果は如何"
  laamp_base_learning_contract_events.4120.desc.success: "[employer.GetTitledFirstName]は、評価しきれないながらもどこか感謝の色を帯びた表情を浮かべている。  \n\n「確かに、君の教育方法は型破りだ。しかし、[child_to_educate.GetFirstName]は間違いなく新たな視点を一つか二つ得たようだ……。今後、君の助力が再び必要になれば、また連絡するかもしれない。」  \n\n私は軽く頷き、頭をわずかに下げると、その場を後にした。"
  laamp_base_learning_contract_events.4120.desc.success_critical: "[employer.GetTitledFirstName]は高揚感を抑えきれない様子で言う。  \n「おお！ 君の型破りな方法は、どうやら非常に効果的だったようだ！ 若き[child_to_educate.GetFirstName]は、すでにより鋭い思考と洞察を示し始めているぞ！」  \n\n「攻撃の角度、社交の礼儀、経済学……素晴らしい仕事だ！ ありがとう、そして#EMP ぜひ#!次にこの地を訪れる際には知らせてくれ！」  \n\n[employer.GetTitleAsNameNoTooltip]は興奮気味に声を上げ、身振りを交えて感謝を伝える。  \n私は軽く微笑みを浮かべ、静かに頷いた。"

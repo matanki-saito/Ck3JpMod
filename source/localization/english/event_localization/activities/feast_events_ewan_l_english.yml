@@ -39,7 +39,7 @@
  feast_events_ewan.0201.desc.veggie.suggestive_gesture:0 "ゆっくりと、意地悪に、私は一対の[activity.GetHost.Custom('RegionalRootVegetablePlural')]の曲線を指でなぞり、柔らかいな愛撫で野菜を優しくいじめる。最後に、私は爪のほんのわずかな痕跡を表面全体に引きずり、ほんのわずかな傷を残す。"
  feast_events_ewan.0201.desc.veggie.sink_teeth:0 "私が美味しそうに、ジューシーで#EMP しっかりとした#!巨大な[activity.GetHost.Custom('RegionalRootVegetable')]に勢いよくかぶりつくと、少量の液体がこぼれて顎を滴り落ちる。"
  feast_events_ewan.0201.desc.veggie.deep_bite:0 "ドラマティックな演出と共に、私の掲げた手が[activity.GetHost.Custom('RegionalRootVegetable')]の小さな塊を私の口に落とし、私は#EMP 聞こえるほどの#!満足感を持ってそれを飲み込む。追加のスパイスのような要素のために、私の目は少し白目をむいてさえいる。"
- feast_events_ewan.0201.desc.outro:0 "\n\n[intent_target.GetHerHis]の顔を見れば、[intent_target.GetFirstNameNoTooltip]が私のメッセージを理解していることがわかる。よくわからないのは[intent_target.GetHerHis] の表情だ。それが淫らな興味なのか、それともひっくり返りそうなお腹なのか？それを言うのは驚くほど難しい。"
+ feast_events_ewan.0201.desc.outro:0 "\n\n[intent_target.GetHerHis]の顔を見れば、[intent_target.GetFirstNameNoTooltip]が私のメッセージを理解していることがわかる。よくわからないのは[intent_target.GetHerHis]の表情だ。それが淫らな興味なのか、それともひっくり返りそうなお腹なのか？それを言うのは驚くほど難しい。"
  feast_events_ewan.0201.a:0 "あるいはもう一口噛んで、要点を理解しておこう。"
  feast_events_ewan.0201.a.tt.success:0 "なぜだ、[ROOT.Char.GetFirstNameNoTooltip]…"
  feast_events_ewan.0201.a.tt.failure:0 "お前は何を#EMP やっている#!んだ？"

@@ -114,6 +114,6 @@
  journey_egalitarian_modifier: "万人平等の支持者"
  journey_egalitarian_modifier_desc: "この人物は多様性に富んだ社会の恩恵を理解している。\n[courtier|E]の雇用費用：#P -10%#!"
  journey_communal_modifier: "共同体の庇護者"
- journey_communal_modifier_desc: "この人物は、困難な時に集団をまとめる力を持つ。\n[GetActivityType('activity_camp_party').GetName][activity|E] の費用：#P -20%#!\n[GetActivityType('activity_feast').GetName][activity|E] の費用：#P -20%#!"
+ journey_communal_modifier_desc: "この人物は、困難な時に集団をまとめる力を持つ。\n[GetActivityType('activity_camp_party').GetName]の[activity|E]の費用：#P -20%#!\n[GetActivityType('activity_feast').GetName]の[activity|E]の費用：#P -20%#!"
  journey_courtly_modifier: "宮廷の目利き"
  journey_courtly_modifier_desc: "この人物は、よく整った宮廷運営を高く評価している。"

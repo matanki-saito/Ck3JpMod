@@ -83,6 +83,6 @@
  martial_authority.2050.toast.title:0 "[right_hand_person.GetShortUIName]は、今やあなたの右腕として働いている"
  martial_authority_special.1501.desc_battle: "先日の戦いで壊滅的な被害を被ったのです！"
  martial_authority_special.1501.desc_raid: "襲撃され略奪を受けたのです！"
- martial_authority_special.1501.desc_outro: "あの恐るべき光景、叫び声、血…そして炎を見ました」[deserting_soldier.GetHerHis|U] の顔は青ざめ、震えながら続ける。「も、もうここにはいられません。無理です！」"
+ martial_authority_special.1501.desc_outro: "あの恐るべき光景、叫び声、血…そして炎を見ました」[deserting_soldier.GetHerHis|U]の顔は青ざめ、震えながら続ける。「も、もうここにはいられません。無理です！」"
  martial_authority_special.1501.a_tt: "あなたは[deserting_soldier.GetFirstNameNoTooltip]に、自分の同じような経験と、それがどう影響を与えたのかを語って聞かせた。"
  martial_authority_special.1501.c: "「しっかりするんだ！」"

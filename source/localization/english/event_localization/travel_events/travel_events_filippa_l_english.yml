@@ -22,7 +22,7 @@
  travel_events.2001.desc_positive_default:0 "\n\n柔らかなふわふわとした感触を感じていると、膝が弱くなるのを感じる。"
  travel_events.2001.desc_negative:0 "\n\n側近たちからどんどん遠ざかっていくと、背筋に悪寒が走るのを感じる。何かが私を見ているのか？\n\n突然、下草の端に[ROOT.Char.Custom('RegionalFerociousAnimal')]が姿を現した！鼻を鳴らし、怒った目で私を見つめている。"
  travel_events.2001.desc:0 "\n\n突然、アヒルが立ち止まり、私の方向に首を傾げるが、なぜ人間を従者にしたのか明らかに混乱しているようだ。\n\n私は緊張をほぐそうとアヒルに微笑みかけるが、アヒルは突然もじもじして羽ばたき、飛び去ってしまう。"
- travel_events.2001.a:0 "これは…#EMP 多すぎる！#!"
+ travel_events.2001.a:0 "これは…#EMP 可愛すぎる#!…"
  travel_events.2001.a_tt:0 "#EMP 愉快だ#!"
  travel_events.2001.a_tt_death:0 "その可愛らしさは、あなたの貧しい心に余りあるものです"
  travel_events.2001.b:0 "丸焼きにするにはぴったりだ…"

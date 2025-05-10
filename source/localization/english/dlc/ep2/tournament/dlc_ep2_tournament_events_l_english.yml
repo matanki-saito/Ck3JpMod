@@ -552,7 +552,7 @@
  tournament_events.6053.forgiven:0 "\n\n驚くべきことに[host.GetTitledFirstName]は[sabotage_actor.GetHerHim]に対して何の行動も起こさず、事件を無視している。"
  tournament_events.6053.a:0 "恥知らずめ！"
  tournament_events.6500.t:1 "$tournament_header$ 我らが愛のためにすること"
- tournament_events.6500.desc:0 "[woo_target.GetTitledFirstName]の注意を引こうとする私の試みは気づかれていないわけではないが、[woo_target.GetHerHis] の心はまだ私に開かれていない。\n\n「私は[woo_target.Custom('GirlBoy')]のような、貴族が追いかけて捨てるような世間知らずの人間ではありません。あなたの愛情を見せてください、証明してください、そうすれば話しましょう…」\n\n「見せる？」私は尋ねる。「…どうすればいいのですか？」\n\n[woo_target.GetFirstNamePossessiveNoTooltip]の返事はすぐに来る。「大会で負けるのです。」"
+ tournament_events.6500.desc:0 "[woo_target.GetTitledFirstName]の注意を引こうとする私の試みは気づかれていないわけではないが、[woo_target.GetHerHis]の心はまだ私に開かれていない。\n\n「私は[woo_target.Custom('GirlBoy')]のような、貴族が追いかけて捨てるような世間知らずの人間ではありません。あなたの愛情を見せてください、証明してください、そうすれば話しましょう…」\n\n「見せる？」私は尋ねる。「…どうすればいいのですか？」\n\n[woo_target.GetFirstNamePossessiveNoTooltip]の返事はすぐに来る。「大会で負けるのです。」"
  tournament_events.6500.a:0 "仰るとおりに、愛しい[woo_target.GetFirstNameNoTooltip]。"
  tournament_events.6500.b:0 "敗北に名誉はない！"
  tournament_events.6510.t:0 "勝利の魅力"

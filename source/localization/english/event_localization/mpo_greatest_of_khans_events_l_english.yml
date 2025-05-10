@@ -4,7 +4,7 @@
  MPO_GREAT_WAR_OF_DEFIANCE_NAME_MY: "$ORDER$ [DEFENDER.GetShortUIName]に対する$mpo_great_war_of_defiance_cb$"
  MPO_GREAT_WAR_OF_DEFIANCE_NAME_BASE: "$mpo_great_war_of_defiance_cb$"
  mpo_war_of_defiance_gok_loses_defender: "[attacker.GetShortUIName]に投獄され、あなたのすべての領地付き[titles|E]、[vassals|E]、[tributaries|E]は独立する。あなたの[herd|E]、[prestige|E]、[gold|E]、[nomadic_authority|E]、[legitimacy|E]の大半が失われる。"
- mpo_war_of_defiance_gok_loses_attacker: "[defender.GetShortUIName]はあなたに投獄され、辱めを受け、困窮し、すべての[landed|E][titles|E]を失う。[defender.GetHerHis|U] の[vassals|E]、[counties|E]、[tributaries|E]は独立する。"
+ mpo_war_of_defiance_gok_loses_attacker: "[defender.GetShortUIName]はあなたに投獄され、辱めを受け、困窮し、すべての[landed|E][titles|E]を失う。[defender.GetHerHis|U]の[vassals|E]、[counties|E]、[tributaries|E]は独立する。"
  mpo_war_of_defiance_gok_loses_other: "[defender.GetShortUIName]は[attacker.GetShortUIName]に投獄され、辱めを受け、困窮し、すべての[landed|E][titles|E]を失う。[defender.GetHerHis|U]の[vassals|E]、[counties|E]、[tributaries|E]は独立する。"
  mpo_war_of_defiance_gok_wins_defender: "敗北した[independent|E][nomads|E]はあなたの[obedient|E]な[vassals|E]となる。あなたとの他のすべての[truces|E]は破棄される。あなたは[GetTrait('greatest_of_khans').GetName( GetNullCharacter )]となり、世界征服に向けた強力な恩恵を得る。"
  mpo_war_of_defiance_gok_wins_other: "敗北した[independent|E][nomads|E]は[defender.GetShortUINamePossessive]の[obedient|E]な[vassals|E]となる。[defender.GetShortUIName]との他のすべての[truces|E]は破棄される。[defender.GetShortUIName]は[GetTrait('greatest_of_khans').GetName( GetNullCharacter )]となり、世界征服に向けた強力な恩恵を得る。"

@@ -162,7 +162,7 @@
  ep3_governor_yearly.8170.t.sea: "[raider.GetPrimaryTitle.GetAdjectiveNoTooltip]の略奪"
  ep3_governor_yearly.8170.t.land: "[raider.GetPrimaryTitle.GetAdjectiveNoTooltip]の襲撃"
  ep3_governor_yearly.8170.desc: "襲撃者たち、"
- ep3_governor_yearly.8170.sea: "――特に海を越えて襲来する恐るべき[raider.GetPrimaryTitle.GetAdjective] の略奪者たちを撃退することは、"
+ ep3_governor_yearly.8170.sea: "――特に海を越えて襲来する恐るべき[raider.GetPrimaryTitle.GetAdjective]の略奪者たちを撃退することは、"
  ep3_governor_yearly.8170.land: "――特に国境を越えて侵入する、隣国の[raider.GetPrimaryTitle.GetAdjective][raider.GetPrimaryTitle.GetTierAsNameNoTooltip]の者たちを撃退することは、"
  ep3_governor_yearly.8170.ending: "[ROOT.Char.GetPrimaryTitle.GetAdjective][ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]の防衛、ひいては[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetTierAsNameNoTooltip]全体の安全を守る上で極めて重要である。\n\n[marshal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は最近、我々の防衛体制を調査し、その日の長い午後を費やして目が回るような量の改善案の一覧を提出した。その中にあってもっとも重要な提案は、村々に避難の時間を与えるための警鐘網の整備であった。"
  ep3_governor_yearly.8170.a: "この『警鐘網』を直ちに導入せよ！"

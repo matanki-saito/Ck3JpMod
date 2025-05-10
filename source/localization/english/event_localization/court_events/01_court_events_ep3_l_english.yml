@@ -190,7 +190,7 @@
  employer_booner_food_taster_3_modifier: "品目の精査"
  employer_booner_food_taster_3_modifier_desc: "この人物の厨房と品目は、熟練の試食官によって厳重に監視されている。\n[court_amenity|E]の食べ物の維持費：#P -25%#!"
  court.8301.t: "期待外れ"
- court.8301.intro: "私の不器用な[position_holder.GetHeldCourtPositionsString]、[position_holder.GetFirstNamePossessive]の専門知識の幅、あるいはその欠如が、次第に下品な冗談の種となっている。\n振り返ってみれば、[position_holder.GetHerHis] の才能には、かなり物足りないところがあったかもしれない……"
+ court.8301.intro: "私の不器用な[position_holder.GetHeldCourtPositionsString]、[position_holder.GetFirstNamePossessive]の専門知識の幅、あるいはその欠如が、次第に下品な冗談の種となっている。\n振り返ってみれば、[position_holder.GetHerHis]の才能には、かなり物足りないところがあったかもしれない……"
  court.8301.detractor: "批判者の中でも、最も顕著なのは、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('detractor'))]、[detractor.GetTitledFirstName]だ。[detractor.GetHerHis]はその軽蔑を露骨に示し続けてきた。\n\n"
  court.8301.desc: "「い、如何でしょう、我が君」と[position_holder.GetFirstName]が、くすくす笑う宮廷の中でどもりながら発した。\n[position_holder.GetHerHis]の[position_holder.Custom('GetCourtPositionSubject')]に対する混乱した理解がまたしても容赦なく嘲笑された後、[position_holder.GetFirstName]はこう問いかける。\n\n「わ、#EMP 私#!はよくやっている…います、よね？」"
  court.8301.a: "賃金について少し話をしようか、[position_holder.GetFirstNameNoTooltip]…"

@@ -219,7 +219,7 @@
  iberia_north_africa.9101.a:0 "新たな王国の誕生だ！"
  iberia_north_africa.9101.b:0 "[title_k_canarias.GetNameNoTierNoTooltip]の未来はイベリアにかかっている！"
  iberia_north_africa.2100.t: "古ヴァスコニアの復活"
- iberia_north_africa.2100.desc: "何世紀にもわたって、私たちバスク人は不屈の精神と決意で不運を容赦なく乗り越えてきた。あたかも古代ピレネーの岩から切り出されたかのように、私たちは無数の侵略に対してしっかりと立ち向かい、攻撃の好機を待っていた。\n\nあの暗い日々は過ぎ去り、私たちはついに祖先の土地を取り戻すことに成功した。現在は [GetTitleByKey('k_navarra').GetNameNoTier] の新しい自由な王国の中心となっている。\n\n歴史上最も過酷な教訓を経験した私は、二度と故地から追われることを決して許さないと誓う。"
+ iberia_north_africa.2100.desc: "何世紀にもわたって、私たちバスク人は不屈の精神と決意で不運を容赦なく乗り越えてきた。あたかも古代ピレネーの岩から切り出されたかのように、私たちは無数の侵略に対してしっかりと立ち向かい、攻撃の好機を待っていた。\n\nあの暗い日々は過ぎ去り、私たちはついに祖先の土地を取り戻すことに成功した。現在は [GetTitleByKey('k_navarra').GetNameNoTier]の新しい自由な王国の中心となっている。\n\n歴史上最も過酷な教訓を経験した私は、二度と故地から追われることを決して許さないと誓う。"
  iberia_north_africa.2100.a: "私の統率の下で、我らは何でも達成できる。"
  iberia_north_africa.2100.b: "我らはもう怯えない！"
  iberia_north_africa.2101.desc: "何世紀にもわたって、バスク人は着実にピレネー山脈に追い込まれ、南北から侵入する侵略者に悩まされてきた。\n\n[founder.GetHerHis]の祖先の故郷の大部分が回復した今、[founder.GetTitledFirstNameRegnal]は[founder.GetHerselfHimself]の[GetTitleByKey('k_navarra').GetNameNoTier]の「[founder.Custom('QueenKing')]」を宣言し、失われた土地は新しいバスク王国の一部であると主張した。\n\n近隣の人々は、この運命の変化をこの地域の歴史における単なる異常とみなしており、この動揺を正す一刻も早い機会を確実に探している…"

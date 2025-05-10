@@ -438,7 +438,7 @@
  nick_the_stammerer_desc:1 "その言は雄弁ではあるが、多くの失敗もまたある。"
  nick_the_stranger_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は故郷から遠く離れてここに来た。そのマナーには未だに奇妙で異国風であるものも沢山ある。"
  nick_the_strong_desc:1 "歯で岩を割れるんじゃないか？そんなことがまことしやかに囁かれているほどだ。"
- nick_the_troubadour_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はその歌声と素晴らしい音楽によって評判だ。さしあたって、好意を持っている必要があるが…、"
+ nick_the_troubadour_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]はその歌声と素晴らしい音楽によって評判だ。少なくとも、[CharYouHerHim(CHARACTER)]を好ましく思っている者たちの間では。"
  nick_the_unready_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat]は何をするにおいても考え無しの相談なしであり、失敗を繰り返す。"
  nick_the_unready_anglo_saxon:0 "$nick_the_unready$"
  nick_the_unready_anglo_saxon_desc:1 "その名は字義通りに取ると「高貴な助言者」となる。$E_thelrE_d$アンレッド「高貴な助言者、助言せず」と称され、少々とは言えない程この人物を刺激した。誰かがこの語呂合わせを面白いと思ったのだろう。"

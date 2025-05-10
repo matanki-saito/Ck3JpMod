@@ -1028,7 +1028,7 @@
  trait_track_thief_desc: "結局の所、法律の九割は所有権の記述が占めるのだ。"
  trait_track_poacher: "密猟"
  trait_track_poacher_desc: "動物以外何一つ傷つけてないんだ、別にいいだろ。"
- trait_track_marauder: "強盗"
+ trait_track_marauder: "襲撃"
  trait_track_marauder_desc: "上流社会の外で誘拐や殺人をするのはあまり華やかとは言えないが、金にならないとは言っていない。"
  trait_despoiler_of_byzantium: "ビザンツの大敵"
  trait_despoiler_of_byzantium_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、古のキリスト教帝国を征服し、破滅させた恐ろしいラテン人領主の一人だった。"

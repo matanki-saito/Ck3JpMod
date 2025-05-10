@@ -1272,7 +1272,7 @@
  bp3_conqueror_black_sea_modifier_desc: "黒海は正当なる王の帰還を待ち続けている。"
  merge_aquitaine_decision: "[GetTitleByKey('k_france').GetNameNoTierNoTooltip]の統一"
  merge_aquitaine_decision_alt: "[GetTitleByKey('k_aquitaine').GetNameNoTierNoTooltip]の統一"
- merge_aquitaine_decision_desc: "[GetTitleByKey('k_france').GetNameNoTierNoTooltip] の人々と長く分かたれ、国境と土地を巡って相争い続けてきた。"
+ merge_aquitaine_decision_desc: "[GetTitleByKey('k_france').GetNameNoTierNoTooltip]の人々と長く分かたれ、国境と土地を巡って相争い続けてきた。"
  merge_aquitaine_decision_desc_aquitaine: "[GetTitleByKey('k_aquitaine').GetNameNoTierNoTooltip]の人々と長く分かたれ、国境と土地を巡って相争い続けてきた。"
  merge_aquitaine_decision_desc_outro: "北のセーヌ川から南のピレネーまで、彼らは真の[ROOT.Char.GetTitleAsNameNoTooltip]に傅くべきだ。\n──そう、#emp 私#!に。"
  merge_aquitaine_decision_tooltip: "[GetTitleByKey('k_france').GetNameNoTier]と[GetTitleByKey('k_aquitaine').GetNameNoTier]の全ての土地を一つの[title|E]の下に集める"

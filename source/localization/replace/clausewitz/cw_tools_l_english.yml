@@ -22,7 +22,7 @@
  editor_tooltipwidget_property_tooltip:0 "PLACEHOLDER"
  editor_resizeparent_property_tooltip:0 "PLACEHOLDER"
  editor_attachto_property_tooltip:0 "PLACEHOLDER"
- editor_allow_outside_property_tooltip:1 "このウィジェットの外側の子供がマウスイベントを受信して処理できるようにする"
+ editor_allow_outside_property_tooltip:1 "このウィジェットの外側にある子ウィジェットでもマウス操作を受け付けて処理できるようになります"
  editor_alpha_property_tooltip:0 "PLACEHOLDER"
  editor_alpha_recursive_property_tooltip:0 "PLACEHOLDER"
  editor_texture_property_tooltip:0 "PLACEHOLDER"

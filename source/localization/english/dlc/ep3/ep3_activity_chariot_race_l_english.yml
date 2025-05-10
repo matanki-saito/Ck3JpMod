@@ -175,7 +175,7 @@
  chariot_race.0201.present_heir_self: "どうやら[host.GetSheHe]はこの機会を利用して、民衆の前に後継者を示そうとしているようだ。喝采の声に包まれるなか、[host.GetTitleAsNameNoTooltip]はなんと──#EMP この私こそが#!紫の帝衣にもっともふさわしい候補であると高らかに宣言したのだ！"
  chariot_race.0201.appease_populace: "次々と飛び出すのは約束の嵐──税の撤回、扇動者の釈放、民の望むままに黄金をばら撒くというのだ。[host.GetTitleAsNameNoTooltip]は、あまりにも見事に──完全に──この溢れ返る群衆の意志に屈している。"
  chariot_race.0201.increase_legitimacy_success: "[host.GetHersHis|U]の物語は、まさに力強く、称えるにふさわしい──気高き生涯、打ち勝った幾多の試練の記録。[host.GetTitleAsNameNoTooltip]は群衆に問いかける。\n「この者が主権の象徴たる紫の礼装を纏うこと、それは最初から運命づけられていたのではないか？」"
- chariot_race.0201.increase_legitimacy_fail: "[host.GetHersHis|U]の物語は、なんとも薄っぺらく空虚なもの。[host.GetTitleAsNamePossessiveNoTooltip] の誇り高き言葉はどこか嘘くさく響き、[host.GetSheHe|U]は群衆の裁きを仰ぐものの──その姿はまるで、主権の礼装に身を包んだわがままな赤子のようだ。"
+ chariot_race.0201.increase_legitimacy_fail: "[host.GetHersHis|U]の物語は、なんとも薄っぺらく空虚なもの。[host.GetTitleAsNamePossessiveNoTooltip]の誇り高き言葉はどこか嘘くさく響き、[host.GetSheHe|U]は群衆の裁きを仰ぐものの──その姿はまるで、主権の礼装に身を包んだわがままな赤子のようだ。"
  chariot_race.0201.spread_legend: "いつもの慣用句の中に巧みに織り込まれているのは、[promote_legend.GetName]への言及。古の儀式と帝国の物語とが、もはや区別できぬほど見事に重なり合っている。"
  chariot_race.0201.discredit_claimant_self: "あっという間に、皆の口の端に私の名が上るようになった！\nというのも、[host.GetTitleAsNameNoTooltip]の愚か者めが、公然と私の見込みを貶め、玉座への支持は決して与えぬと宣言したからだ！"
  chariot_race.0201.discredit_claimant_success: "集まったすべての者の前で、[host.GetSheHe]は[claimant.GetName]の名を激しく非難し、[claimant.GetHerHis]の望みを徹底的に打ち砕き、[claimant.GetSheHe]が決して玉座に就くことはないと誓った！"

@@ -674,7 +674,7 @@
  msg_peasant_controlled.desc: "[task_contract_taker.GetShortUIName]は農民とあなたを助ける"
  laamp_boost_legitimacy_contract_contract: "正統な後援"
  laamp_boost_legitimacy_contract_desc_title: "育ちの良い旅人たち、"
- laamp_boost_legitimacy_contract_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]は口達者な文筆家を必要としている。これは、[TaskContract.GetEmployer.GetHerHis] の領内における手に負えぬ農民たちに、[TaskContract.GetEmployer.GetSheHe]が他に類を見ない統治権を有することを理解させるためである。地方まで存在感を感じさせるものであると助かる。"
+ laamp_boost_legitimacy_contract_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]は口達者な文筆家を必要としている。これは、[TaskContract.GetEmployer.GetHerHis]の領内における手に負えぬ農民たちに、[TaskContract.GetEmployer.GetSheHe]が他に類を見ない統治権を有することを理解させるためである。地方まで存在感を感じさせるものであると助かる。"
  laamp_boost_legitimacy_contract_request: "この[task_contract|E]は[TaskContract.GetLocation.GetName]へ[travel|E]に行く必要がある。"
  ep3_contract_event.0510.t: "支配する権利"
  ep3_contract_event.0510.desc: "私は[location.GetName]に到着すると、一種の騒動のさなかにあることに気づく。庶民たちは明らかに不満を抱いており、その首謀者である[peasant.GetFirstName]という名の[peasant.GetWomanMan]が、集まった大勢を前にして熱弁を振るっている。\n\n「[task_contract_employer.GetTitledFirstName]だって？ たいした#EMP [task_contract_employer.GetTitleAsNameNoTooltip]#!でもない！」と[peasant.GetSheHe|U]は吠えるように言う。「かつての支配者は#EMP 本物#!だったのに！[peasant.GetFaith.FateGodName]によって任ぜられたお方だったのに！」\n\nその言葉には熱がこもっているが、周囲の群衆の多くは、どちらに忠誠を置くべきか定まらず、心が揺れている様子だ。"

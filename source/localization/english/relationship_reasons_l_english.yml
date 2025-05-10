@@ -2079,7 +2079,7 @@
  rival_harmed_candidacy_corresponding: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]が名誉ある地位を得る見込みを妨害した。"
  rival_ignored_candidacy_support: "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUINamePossessive]の任命支援に対する感謝の意を一切拒絶した。"
  rival_ignored_candidacy_support_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive]の任命支援に対する感謝の意を一切拒絶した。"
- rival_poor_court_position_holder: "[TARGET_CHARACTER.GetShortUINamePossessive|U] の拙劣な職務遂行が [CHARACTER.GetShortUIName] を苛立たせた。"
+ rival_poor_court_position_holder: "[TARGET_CHARACTER.GetShortUINamePossessive|U]の拙劣な職務遂行が[CHARACTER.GetShortUIName]を苛立たせた。"
  rival_poor_court_position_holder_corresponding: "[TARGET_CHARACTER.GetShortUIName]の拙劣な職務遂行が[CHARACTER.GetShortUIName|U]を苛立たせた。"
  friend_children_grew_up_in_same_camp: "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は同じ冒険者の野営地で共に育った。"
  friend_children_grew_up_in_same_camp_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]と[CHARACTER.GetShortUIName]は同じ冒険者の野営地で共に育った。"

@@ -512,7 +512,7 @@
  seduce_ongoing.6043.desc:0 "[target.GetFirstName]へのアプローチが少し下手だったのかもしれない。[target.GetSheHe]は、なぜ私が[target.GetHerHis]の価値観に対し、大した理由も無いのに興味があるのか不思議に思っている！"
  seduce_ongoing.6043.a:0 "これは良い兆候ではない。"
  seduce_ongoing.6051.t:0 "儀礼の帳"
- seduce_ongoing.6051.close:0 "私は全てを外交儀礼を習得するためということにした。[target.GetTitledFirstName] は私の言い訳を見抜いているはずだが、[target.GetSheHe]はそれでも同意してくれた。"
+ seduce_ongoing.6051.close:0 "私は全てを外交儀礼を習得するためということにした。[target.GetTitledFirstName]は私の言い訳を見抜いているはずだが、[target.GetSheHe]はそれでも同意してくれた。"
  seduce_ongoing.6051.far:0 "他国の宮廷を訪問するのは、いつも外交儀礼を交わす口実になる。ありがたいことに、[target.GetTitledFirstName]は快く応じてくれた。"
  seduce_ongoing.6051.end:0 "\n\n部外者から見れば、私たちのやり取りは、伝統が要求する空虚な決まり文句に聞こえただろう。しかし、私たちにとって、言葉の下に隠れる情熱は燃える炎そのものだった。"
  seduce_ongoing.6051.a:0 "ああ、爽やか！"

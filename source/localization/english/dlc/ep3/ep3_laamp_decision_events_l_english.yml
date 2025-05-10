@@ -508,7 +508,7 @@
  ep3_laamp_decision_event.1040.desc_returned_01: "[visiting_location.GetCounty.GetFaith.HouseOfWorship]の敷地に戻ると、何も変わっていない。太陽がゆっくりと空を横切る中、広場に隣接する建物が順番に影を落とし、開けた地面を覆っている。"
  ep3_laamp_decision_event.1040.desc_returned_02: "弱々しい陽光の中を歩いて[visiting_location.GetCounty.GetFaith.HouseOfWorship]の敷地へ戻ると、強烈な香の匂いが容赦なく鼻腔に染み込んでくる。"
  ep3_laamp_decision_event.1040.desc_returned_from_healer: "薄暗い治療所から上へ戻り、[visiting_location.GetCounty.GetFaith.HouseOfWorship]の広場へと再び足を運ぶ。"
- ep3_laamp_decision_event.1040.desc_returned_from_church: "[visiting_location.GetCounty.GetFaith.HouseOfWorship]の門をくぐって戻ると、牧歌的な静けさに心を奪われながら、再び [visiting_location.GetCounty.GetFaith.HouseOfWorship] の広場へと辿り着く。"
+ ep3_laamp_decision_event.1040.desc_returned_from_church: "[visiting_location.GetCounty.GetFaith.HouseOfWorship]の門をくぐって戻ると、牧歌的な静けさに心を奪われながら、再び[visiting_location.GetCounty.GetFaith.HouseOfWorship]の広場へと辿り着く。"
  ep3_laamp_decision_event.1040.desc_returned_from_garden: "穏やかな庭園から戻ると心が軽くなったように感じながら、私は賑わいを見せる[visiting_location.GetCounty.GetFaith.HouseOfWorship]の広場を見渡す。"
  ep3_laamp_decision_event.1040.desc_returned_from_physician: "[laamp_physician_recruit.GetFirstNamePossessiveNoTooltip]の診療所から細い路地を辿り、再び[visiting_location.GetCounty.GetFaith.HouseOfWorship]の敷地へと戻る。"
  ep3_laamp_decision_event.1040.desc: "[visiting_location.GetCounty.GetFaith.HouseOfWorship]の広場には、多くの商人や[visiting_location.GetCounty.GetFaith.PriestNeuterPlural]、助手たちがいるにもかかわらず、どこか独特の静けさが漂っている。\n\n壮麗な[visiting_location.GetCounty.GetFaith.HouseOfWorship]が中央にそびえ立ち、周囲には大胆な癒しの効能を謳った看板や、[visiting_location.GetCounty.GetFaith.HighGodName]を静かに瞑想するための別館の庭園が見える。"

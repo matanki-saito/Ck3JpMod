@@ -3,7 +3,7 @@
  british_isles.0001.desc:0 "あまりの長きにわたり、我らのこの偉大なる島は外国の支配のもとにあったが――ようやくケルト人の手に戻ってきた！　野原を見渡すと、そこは長く陰ってきた場所に初めて陽の光が差すかのようであり、まるで常若の国ティル・ナ・ノーグのようだ。野原は我らに歓迎の挨拶をするために戻ってきた。我らの父祖の丘と谷はいずこも、以前のように[ROOT.Char.GetCulture]文化に抱かれている。"
  british_isles.0001.custom:0 "ブリタニアの全[counties|E]"
  british_isles.0001.a:0 "父祖を讃えよ！"
- british_isles.0002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('reclaimer'))][reclaimer.GetName] は公式にケルトのブリタニアの復活を宣言した。\n\n幾世紀にもわたる外国支配の後に、この島々はその本来の持ち主の支配を取り戻したのだ。"
+ british_isles.0002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('reclaimer'))][reclaimer.GetName]は公式にケルトのブリタニアの復活を宣言した。\n\n幾世紀にもわたる外国支配の後に、この島々はその本来の持ち主の支配を取り戻したのだ。"
  british_isles.0002.a:0 "[reclaimer.GetCulture.GetNameNoTooltip]の厄災がこの地を覆うか…"
  british_isles.0002.b:0 "ブリタニアがようやく我らのものとなった！"
  british_isles.1001.t:0 "復元された法"

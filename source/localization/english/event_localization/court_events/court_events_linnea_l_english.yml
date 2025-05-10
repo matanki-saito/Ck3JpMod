@@ -54,7 +54,7 @@
  court.5041.option_3:0 "[prank_target.GetHerHis]の部屋に蛇を放とう！"
  court.5041.option_4:0 "燃えやすい粉で[prank_target.GetHerHim]を脅かしてやろう！"
  court.5041.option_5:0 "[prank_target.GetHerHis]の寝室の扉の上にサプライズが待っている！"
- court.5042.desc_chastiser:0 "\n\n[chastiser.Custom2('MyCharacterIntroduction', ROOT.Char)|U] は、そのユーモアを理解するのに失敗しているようだが。\n\n「あなたが宮廷でひどい悪ふざけをしているのはわかっております。"
+ court.5042.desc_chastiser:0 "\n\n[chastiser.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は、そのユーモアを理解するのに失敗しているようだが。\n\n「あなたが宮廷でひどい悪ふざけをしているのはわかっております。"
  court.5042.desc_chastiser_snake:0 "気の毒な[prank_target.GetTitledFirstName]はあらゆる影に飛びつき、蛇が[prank_target.GetHerHis]の顔にしたことと言えば…恥ずべきことです。閣下。"
  court.5042.desc_chastiser_no_snake:0 "気の毒な[prank_target.GetTitledFirstName]はあらゆる影に飛びつきました！恥ずべきことです…閣下。"
  court.5042.desc_no_chastiser:0 "しかし、私の廷臣たちはそのユーモアを理解せず、これ以上の悪ふざけを非難することをはっきりと告げてきている。そして彼らは警戒するようになるだろう。"

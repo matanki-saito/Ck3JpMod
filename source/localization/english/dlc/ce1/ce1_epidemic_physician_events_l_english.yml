@@ -1,6 +1,6 @@
 ﻿l_english:
  physician_epidemic_events.1000.t: "型破りな治療法"
- physician_epidemic_events.1000.desc: "[physician.Custom2('MyCharacterIntroduction', ROOT.Char)]と[zealous_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が[epidemic_scope.GetName]とその処置について議論している間、私の宮廷では声を荒らげ拳を叩きつけたりする音が響いている。\n\n「私は医者だ、[zealous_courtier.GetNameNoTooltip]!」 [physician.GetSheHe|U]は強く主張する。「私に任せてくれれば、この忌まわしい伝染病を終わらせることができる！」\n\n「遺体を油で覆い、まじないを唱えるというのか、[physician.GetFirstNameNoTooltip]？あなたの提案は極めて邪悪なものであり、私はそれを聞くつもりはない！これらの遺体はちゃんとした[zealous_courtier.GetFaith.GetAdjective] の方法で葬られるべきだ！」"
+ physician_epidemic_events.1000.desc: "[physician.Custom2('MyCharacterIntroduction', ROOT.Char)]と[zealous_courtier.Custom2('MyCharacterIntroduction', ROOT.Char)]が[epidemic_scope.GetName]とその処置について議論している間、私の宮廷では声を荒らげ拳を叩きつけたりする音が響いている。\n\n「私は医者だ、[zealous_courtier.GetNameNoTooltip]！」 [physician.GetSheHe|U]は強く主張する。「私に任せてくれれば、この忌まわしい伝染病を終わらせることができる！」\n\n「遺体を油で覆い、まじないを唱えるというのか、[physician.GetFirstNameNoTooltip]？あなたの提案は極めて邪悪なものであり、私はそれを聞くつもりはない！これらの遺体はちゃんとした[zealous_courtier.GetFaith.GetAdjective]の方法で葬られるべきだ！」"
  physician_epidemic_events.1000.a: "生きている者から亡骸を遠ざけるだけでいいのかもしれない。"
  physician_epidemic_events.1000.b: "この伝染病を終わらせるために、できることは何でもしなければ。"
  physician_epidemic_events.1000.b.success: "処置は効果的だ"

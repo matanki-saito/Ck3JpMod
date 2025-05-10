@@ -8,5 +8,5 @@
  mpo_nomad_legacy_3_effect_peace_acceptance_global: "[peace|E]の受け入れ値：#positive_value +10#!"
  mpo_nomad_legacy_4_name: "神の罰"
  mpo_nomad_legacy_4_effect_kheshig_maa_global: "[GetMaA('kheshig').GetName]を[men_at_arms|E]として雇用できる"
- mpo_nomad_legacy_5_name: "大汗による平和"
+ mpo_nomad_legacy_5_name: "大ハンによる平和"
  mpo_nomad_legacy_5_effect_pax_mongolica_global: "[GetDecisionWithKey('mpo_pax_mongolica_decision').GetName]の[decision|E]をアンロック"

@@ -97,7 +97,7 @@
  bp1_yearly.9016.desc.intro:0 "[ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]の食堂で始まった通常の家族の集まりは、すぐに[bp1_yearly_9016_heir.Custom2('MyCharacterIntroduction', ROOT.Char)]と[bp1_yearly_9016_uppity_child.Custom2('MyCharacterIntroduction', ROOT.Char)]の間の熱い議論へと変わってしまった！\n\n[bp1_yearly_9016_uppity_child.GetSheHe|U]は[bp1_yearly_9016_heir.GetNameNoTooltip]は私の後継者として全く相応しくないと断言する。\n\n"
  bp1_yearly.9016.desc.not_a_child:0 "「[bp1_yearly_9016_heir.GetSheHe|U]はあなたの[bp1_yearly_9016_heir.Custom('GetDaughterSon')]ですらありません！あなたが[ROOT.Char.GetFaith.PositiveAfterLife]へと旅立つ時、[bp1_yearly_9016_heir.GetSheHe]が私に何の権利を引き継ぐというのでしょう？"
  bp1_yearly.9016.desc.bastard:0 "「[bp1_yearly_9016_heir.GetSheHe|U]はこの家族の正当な[bp1_yearly_9016_heir.Custom('GetDaughterSon')]ではありません。両親の結婚によって生まれた私がいるのに、なぜこの私生児が王位に就かなければならないのですか？"
- bp1_yearly.9016.desc.child_of_concubine:0 "「[bp1_yearly_9016_heir.GetSheHe|U] は卑しい側室から生まれたのです！私はあなたと[bp1_yearly_9016_uppity_child.GetMother.GetName]との間の神聖な結婚の産物であり、王冠は生まれながらの権利によって私のものです！"
+ bp1_yearly.9016.desc.child_of_concubine:0 "「[bp1_yearly_9016_heir.GetSheHe|U]は卑しい側室から生まれたのです！私はあなたと[bp1_yearly_9016_uppity_child.GetMother.GetName]との間の神聖な結婚の産物であり、王冠は生まれながらの権利によって私のものです！"
  bp1_yearly.9016.desc.rival:0 "「[bp1_yearly_9016_heir.GetSheHe|U]は数え切れないほどあなたを裏切ってきました、私はあなたに忠実であり続けたのに！あなたがまだここにいる間、[bp1_yearly_9016_heir.GetSheHe]はあなたの世話もできないのに、あなたがいなくなったらこの放蕩な獣にどうやって[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の管理を任せられるというのでしょう？"
  bp1_yearly.9016.desc.fallback:0 "「[bp1_yearly_9016_heir.GetSheHe|U]は王位には全くふさわしくなく、せいぜい継承時に私の道化師にでもなるのが関の山です！この悪党は長い間、王位に一番近い場所に立っており、[bp1_yearly_9016_heir.GetHerHis]はその座を明け渡すのが当然です。"
  bp1_yearly.9016.desc.outro:0 "私は決闘を求める、[bp1_yearly_9016_heir.GetNameNoTooltip]！王座をかけて！」"
