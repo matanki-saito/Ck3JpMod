@@ -14,7 +14,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-2019
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         python-version: [ 3.8 ]
@@ -39,44 +39,10 @@ jobs:
         run: |
           pip install boto3
 
-      - name: Pack mod
-        run: |
-          python main.py
-        env:
-          PARATRANZ_SECRET: ${{ secrets.PARATRANZ_SECRET }}
-          RUN_NUMBER: ${{ github.run_number }}
-
-      - name: push translation
-        run: |
-          dir
-          git config --global user.email "matanki.saito@gmail.com"
-          git config --global user.name "matanki.saito"
-          git config --global url."https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
-          git add -A
-          git commit -m "Save/Update files [ci skip]"
-          git push origin HEAD:master
-        shell: cmd
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-        with:
-          tag_name: ${{ github.run_number }}
-          release_name: Release ${{ github.run_number }}
-          body: |
-            new mod released!
-          draft: false
-          prerelease: false
-
       - name: Get steamcmd
         run: |
-          curl https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip --output steamcmd.zip
-          Expand-Archive -Path steamcmd.zip
-
+          sudo add-apt-repository multiverse; sudo dpkg --add-architecture i386; sudo apt update
+          sudo apt install steamcmd
       - name: Set credentials
         run: |
           python download_credentials.py
@@ -93,7 +59,7 @@ jobs:
         run: |
           cd steamcmd
           dir
-          steamcmd.exe -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% %STEAM_LOGIN_PASSWORD% +workshop_build_item ..\resource\main.vdf +quit
+          steamcmd -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% %STEAM_LOGIN_PASSWORD% +workshop_build_item ..\resource\main.vdf +quit
         env:
           STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
           STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
