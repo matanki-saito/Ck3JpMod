@@ -4,7 +4,7 @@
  call_for_confederation_decision_tooltip: "[confederation|E]への[rulers|E]の招待を始める"
  call_for_confederation_decision_confirm: "我々と共に立ち上がる者は誰だ？"
  enables_offer_confederation_tt: "#high $offer_confederation_interaction$#![character_interaction|E]を有効化"
- offer_confederation_members_tt: "[independent|E][duke|E]や[count|E]——[rank|E][rulers|E]に対して使用することで彼らを共通の[confederation|E]に加えることができる。"
+ offer_confederation_members_tt: "[independent|E]している[duke|E]か[count|E][rank|E]の[rulers|E]に使用することで、[confederation|E]への加入を誘うことができる。"
  confederation_join_defensive_wars_tt: "[confederates|E]は必ず相互の防衛[wars|E]に参加する"
  confederation_raiding_attacking_tt: "[confederates|E]は互いに[raid|E]もしくは[war|E]を宣言できない"
  call_for_confederation_decision_gurkhan: "[gurkhan|E]なる者"

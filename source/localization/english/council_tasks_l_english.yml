@@ -462,7 +462,7 @@
  task_kurultai_default_4: "$task_kurultai_default_1$"
  task_kurultai_default_modifier: "$task_kurultai_default_1$#weak （クリルタイの評議員の任務）#!"
  task_kurultai_default_effect_desc: "#weak [kurultai|E]構成員の[diplomacy_i][diplomacy|E]により増加(#color_white [councillor.MakeScope.ScriptValue('kurultai_manage_herd_skill_tooltip')]#!)#!\n"
- task_kurultai_default_herd_gain_desc: "[herd|E]獲得とキャパシティ：#P [herd_i] +[SCOPE.ScriptValue('kurultai_manage_herd_final_value')|1]%#!\n$TAB$ 基礎： #P [herd_i]+[SCOPE.ScriptValue('kurultai_manage_herd_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')][diplomacy_i][diplomacy_skill|E]：#P [herd_i] +[SCOPE.ScriptValue('kurultai_manage_herd_skill_value')|1] %#!"
+ task_kurultai_default_herd_gain_desc: "[herd|E]獲得と容量：#P [herd_i] +[SCOPE.ScriptValue('kurultai_manage_herd_final_value')|1]%#!\n$TAB$ 基礎： #P [herd_i]+[SCOPE.ScriptValue('kurultai_manage_herd_base_value')|1]%#!\n$TAB$[councillor.Custom('GetCouncillorKurultaiMemberPossessive')][diplomacy_i][diplomacy_skill|E]：#P [herd_i] +[SCOPE.ScriptValue('kurultai_manage_herd_skill_value')|1] %#!"
  task_kurultai_default_gain_herd: "\n$EFFECT_LIST_BULLET$#P 家畜を増やす#!"
  task_kurultai_default_bonus_army: "\n$EFFECT_LIST_BULLET$#P 騎馬兵を獲得する#!"
  task_kurultai_default_lose_herd: "\n$EFFECT_LIST_BULLET$#N 家畜を減らす#!"
