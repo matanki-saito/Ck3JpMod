@@ -48,14 +48,13 @@ jobs:
 
       - name: push translation
         run: |
-          dir
+          ls
           git config --global user.email "matanki.saito@gmail.com"
           git config --global user.name "matanki.saito"
           git config --global url."https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
           git add -A
           git commit -m "Save/Update files [ci skip]"
           git push origin HEAD:master
-        shell: cmd
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
 
