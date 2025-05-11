@@ -369,7 +369,7 @@
  GRANT_TITLE_ACCEPT:0 "称号の授与"
  MATCHMAKER_INTERACTION_ALLIANCE:0 "#T 同盟の可能性#!\n[Character.GetPrimaryTitle.GetName]"
  DECLARE_WAR_PLEDGED_TO_GHW_TITLE:0 "大聖戦参加の誓約"
- DECLARE_WAR_PLEDGED_TO_GHW_DESC:0 "あなたは[great_holy_war|E]に参加表明をしていますが、この[great_holy_war|E]が始まった時点で、この[TARGET_CHARACTER.GetShortUIName]対する[war|E]は終了してしまいます。あなたは[war|E]を開始しますか？"
+ DECLARE_WAR_PLEDGED_TO_GHW_DESC:0 "あなたは現在[TARGET_CHARACTER.GetShortUIName]に対する[great_holy_war|E]への参加を表明していますが、[great_holy_war|E]が開始された時点で、[war|E]は終了してしまいます。\nそれでも[war|E]を開始しますか？"
  DECLARE_WAR_PLEDGED_TO_GHW_ACCEPT:0 "とにかく攻撃する"
  PLEDGE_GHW_ALREADY_AT_WAR_TITLE:0 "すでに戦争中"
  PLEDGE_GHW_ALREADY_AT_WAR_DESC:0 "あなたはすでに[TARGET_CHARACTER.GetShortUIName]と[war|E]をしていますが、この[great_holy_war|E]が始まったときには、その[war|E]はうやむやなまま終わるでしょう。とりあえず誓約しますか？"
