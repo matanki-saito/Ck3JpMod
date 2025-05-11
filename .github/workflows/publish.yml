@@ -14,7 +14,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted]
     strategy:
       matrix:
         python-version: [ 3.8 ]
@@ -39,10 +39,6 @@ jobs:
         run: |
           pip install boto3
 
-      - name: Get steamcmd
-        run: |
-          sudo add-apt-repository multiverse; sudo dpkg --add-architecture i386; sudo apt update
-          sudo apt install steamcmd
       - name: Set credentials
         run: |
           python download_credentials.py
@@ -55,13 +51,3 @@ jobs:
           AWS_S3_ACCESS_KEY: ${{ secrets.AWS_S3_ACCESS_KEY }}
           AWS_S3_SECRET_ACCESS_KEY: ${{ secrets.AWS_S3_SECRET_ACCESS_KEY }}
 
-      - name: uploading steam workshop
-        run: |
-          cd steamcmd
-          dir
-          steamcmd -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% %STEAM_LOGIN_PASSWORD% +workshop_build_item ..\resource\main.vdf +quit
-        env:
-          STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
-          STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
-        shell: cmd
-        continue-on-error: true
