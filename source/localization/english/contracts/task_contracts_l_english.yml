@@ -655,7 +655,7 @@
  ep3_contract_event.0094_success: "あなたは[task_contract.GetType.GetName]の[task_contract|E]に成功した：[task_contract_employer.GetShortUIName]を農民たちよりも多く支援した。"
  ep3_contract_event.0094_fail: "あなたは[task_contract.GetType.GetName]の[task_contract|E]に失敗した：農民たちを[task_contract_employer.GetShortUIName]よりも多く支援した。"
  ep3_contract_event.0095.t: "$ep3_contract_event.0092.t$"
- ep3_contract_event.0095.desc: "知らせが届いた。私が下民の怒りに同調したことで、彼らが行動を起こした！勇敢な者たちが誇り高く集まり、私の名を叫び、即席の武器を振りかざしている――反乱の準備が整っている！だが、この報せは[task_contract_councillor.GetName]にも届いてしまった。\n\n「我々は合意していたはずだ！お前はあの愚か者どもを脅かして一掃するつもりだったのではないか！まさか[task_contract_councillor.GetFaith.GoodGodNames]に誓って、奴らの苦境に#EMP 涙を流した#!のではあるまいなそして今、#EMP どうする#!――お前も庶民と共に反乱を起こすのか！？」"
+ ep3_contract_event.0095.desc: "知らせが届いた。私が下民の怒りに同調したことで、彼らが行動を起こした！勇敢な者たちが誇り高く集まり、私の名を叫び、即席の武器を振りかざしている――反乱の準備が整っている！だが、この報せは[task_contract_councillor.GetName]にも届いてしまった。\n\n「我々は合意していたはずだ！お前はあの愚か者どもを脅かして一掃するつもりだったのではないか！まさか[task_contract_councillor.GetFaith.GoodGodNames]に誓って、奴らの苦境に#EMP 涙を流した#!だと！？\nそして今、#EMP どうする#!――お前も庶民と共に反乱を起こすのか！？」"
  ep3_contract_event.0095.a: "「うおお、農民の権利を守れ！」"
  ep3_contract_event.0095.b: "いや…彼らが勝手にやったことですよ…"
  ep3_contract_event.0095.c: "「いや、待て、私に説明させろ！」"

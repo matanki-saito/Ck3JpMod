@@ -218,7 +218,7 @@
  request_laamp_legitimist_have_claim_on_target: "この人物の[realm|E]への[claim|E]を持っている"
  YOU_HAVE_HOOK_REASON: "あなたは[recipient.GetShortUINamePossessive|U]に対するフックを持っている：$VALUE|=+0$"
  ep3_laamps.8200.t: "野営地にきた新顔"
- ep3_laamps.8200.desc_1: "次の行動の準備を整えようとしていた時、通りすがりの巨漢が我々の荷車を片手で軽々と持ち上げた。すると、部下の一人が私の元へ駆け寄り懇願する。\n\n「[ROOT.Char.Custom('MistressMaster')|U]]よ、[new_person.GetSheHe]が荷車を頭上に持ち上げました！　[new_person.GetSheHe]を一行に加えても良いものでしょうか？　[new_person.GetSheHe|U]は武器など必要ありません、あれならば敵を掴んで投げ飛ばすことができましょう！」\n\nこんな[new_person.GetWomanMan]は確かに役に立つだろう。私の荷物も運んでくれるかもしれない。ただし、相応に食糧を消費することになるだろうが。"
+ ep3_laamps.8200.desc_1: "次の行動の準備を整えようとしていた時、通りすがりの巨漢が我々の荷車を片手で軽々と持ち上げた。すると、部下の一人が私の元へ駆け寄り懇願する。\n\n「[ROOT.Char.Custom('MistressMaster')|U]よ、[new_person.GetSheHe]が荷車を頭上に持ち上げました！　[new_person.GetSheHe]を一行に加えても良いものでしょうか？　[new_person.GetSheHe|U]は武器など必要ありません、あれならば敵を掴んで投げ飛ばすことができましょう！」\n\nこんな[new_person.GetWomanMan]は確かに役に立つだろう。私の荷物も運んでくれるかもしれない。ただし、相応に食糧を消費することになるだろうが。"
  ep3_laamps.8200.desc_2: "ひとつの笑い声が夜の陰鬱を破った。そしてまたひとつ。気がつけば、厳格な部下たちが子供のように笑い転げている。いったい何が起きているのか？\n\n「おお、[ROOT.Char.GetTitledFirstNameNoTooltip]様、ついにお会いできましたな！　自己紹介をさせていただきます。私めは[new_person.GetName]、才気あふれる道化師でございます。かつて偉大なる[location_top_liege.GetName]の前で演じたこともありますが、私はいまやあなた様とその笑いのために身を捧げたいと考えまする次第！」"
  ep3_laamps.8200.desc_3: "我々はしばらくの間、[location_county.GetNameNoTier]の[location.GetCulture.GetName]文化圏にある[location.GetTerrain.GetNameNoTooltip|l]に滞在している。地元の者たちは頻繁に我々の野営地を訪れ、交易をしたり、ただぶらぶらと過ごしたりしている。最近、他の者たちよりも長く逗留している[new_person.GetWomanMan]の姿を見かけた。\n\n「ここ[location_county.GetNameNoTier]では、豊かな年と厳しい年が交互にやってきます。そして私は、また厳しい年が戻ってくると感じています。私は生まれた場所で死ぬことも、ここに留まり続けることも望みません。どうかお願いです、私をあなた様の一団に加えてください、我が[ROOT.Char.GetLadyLord|U]」"
  ep3_laamps.8200.a: "ようこそ、[new_person.GetFirstNameNoTooltip]！"
