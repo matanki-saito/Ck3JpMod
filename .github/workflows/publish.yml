@@ -71,23 +71,9 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Set credentials
-        run: |
-          python download_credentials.py
-          ls
-          cd steamcmd
-          ls
-          cd config
-          ls
-        env:
-          AWS_S3_ACCESS_KEY: ${{ secrets.AWS_S3_ACCESS_KEY }}
-          AWS_S3_SECRET_ACCESS_KEY: ${{ secrets.AWS_S3_SECRET_ACCESS_KEY }}
-
       - name: uploading steam workshop
         run: |
-          cd steamcmd
-          ls
-          steamcmd -dev -textmode -ignoredxsupportcfg +login ${STEAM_LOGIN_NAME} ${STEAM_LOGIN_PASSWORD} +workshop_build_item ..\resource\main.vdf +quit
+          steamcmd -dev -textmode -ignoredxsupportcfg +login ${STEAM_LOGIN_NAME} ${STEAM_LOGIN_PASSWORD} +workshop_build_item resource/main.vdf +quit
         env:
           STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
           STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
