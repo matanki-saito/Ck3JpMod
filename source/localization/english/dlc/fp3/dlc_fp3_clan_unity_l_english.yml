@@ -91,7 +91,7 @@
  clan_unity_let_child_become_spy.desc: "[unity_character.GetHerHis]の[sneaky_child.Custom('GetDaughterSon')]である[sneaky_child.GetName]に他の氏族を探らせた"
  clan_unity_name_read_in_friday_prayer.desc: "[persian_struggle|E]でのスタンスを[unity_target.GetShortUIName]と同じものになるように変えた"
  clan_unity_name_read_in_friday_prayer_rebellious.desc: "[persian_struggle|E]でのスタンスを[unity_target.GetShortUIName]と異なるものになるように変えた"
- clan_unity_rebellious_child_desc: "反抗的な[gender_rebel.GetDaughterSon]を支援する[clan_member.GetNamePossessive]"
+ clan_unity_rebellious_child_desc: "[clan_member.GetNamePossessive]の反逆的な[gender_rebel.GetDaughterSon]を支持した"
  clan_unity_scandalous_scion_desc: "[scandalous_scion.GetNamePossessive]のお騒がせな振る舞いへの対処を助けた"
  clan_unity_scandalous_scion_ignored_problem_desc: "[scandalous_scion.GetNamePossessive]のお騒がせな振る舞いを放置した"
  clan_unity_blackmail.desc: "[unity_target.GetName]を恐喝しようとした"

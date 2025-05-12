@@ -154,7 +154,7 @@
  ep3_story_cycle_admin_eunuch.8000.c: "[rival.GetFirstNameNoTooltip]のほうが、その手腕に信をおけよう。"
  ep3_story_cycle_admin_eunuch.8000.d: "この力の均衡を、今は崩すべきではあるまい。"
  ep3_story_cycle_admin_eunuch.8010.t: "$admin_eunuch_header$ 仕え尽くした生涯"
- ep3_story_cycle_admin_eunuch.8010.desc: "[admin_title.GetDefinitiveName]に仕えた重臣、[eunuch.GetFirstName]が、このたび息を引き取った。近年きっての有力宦官のひとりであった彼は、[eunuch.GetDeathReasonHideKiller]により世を去った……。\n\n[ROOT.Char.GetFaith.HighGodName]が、この[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]に再び[eunuch.GetHerHis]と同じ才覚と器量を持った仕え人を賜らんことを──それが遅からぬよう願うばかりだ。"
+ ep3_story_cycle_admin_eunuch.8010.desc: "[admin_title.GetDefinitiveName]に仕えた重臣[eunuch.GetFirstName]がこのたび息を引き取った。近年きっての有力宦官のひとりであった彼は、[eunuch.GetDeathReasonHideKiller]により世を去った……。\n\n[ROOT.Char.GetFaith.HighGodName]が、この[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]に再び[eunuch.GetHerHis]と同じ才覚と器量を持った仕え人を賜らんことを──それが遅からぬよう願うばかりだ。"
  ep3_story_cycle_admin_eunuch.8010.d: "これで、すべてが変わることになるだろうな…。"
  ep3_story_cycle_admin_eunuch.8020.t: "$admin_eunuch_header$ 鍵の向こうに"
  ep3_story_cycle_admin_eunuch.8020.desc: "かつて[admin_title.GetDefinitiveName]に仕えた有能なる廷臣、その名も高き宦官[eunuch.GetFirstName]は、いまや[background_dungeon_scope.GetPrimaryTitle.GetAdjectiveNoTooltip]の牢に繋がれその束縛にもがいている。\n\nだが、もしそれだけの価値があるというのならば、[eunuch.GetSheHe|U]をふたたび我が許に召し抱えるという選択肢も、無きにしもあらずか…。"

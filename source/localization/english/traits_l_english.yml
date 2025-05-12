@@ -393,7 +393,7 @@
  trait_typhus:0 "チフス"
  trait_typhus_desc:0 "この人物はチフスを患い、発疹、発熱、咳に苦しんでいる。"
  trait_typhus_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]はチフスを患い、発疹、発熱、咳に苦しんでいる。"
- trait_bubonic_plague:0 "腺ペスト（黒死病）"
+ trait_bubonic_plague:0 "黒死病"
  trait_bubonic_plague_desc:0 "この人物は、皮膚の黒い斑点と複数の横根に苛まれており、余命幾ばくもない。"
  trait_bubonic_plague_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は皮膚の黒い斑点と複数の横痃に苛まれており、わかっているのは[ROOT.GetCharacter.GetSheHe]の寿命が長くないことだけだ。"
  trait_smallpox:0 "天然痘"

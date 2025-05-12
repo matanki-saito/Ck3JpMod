@@ -115,7 +115,7 @@
  mpo_decisions_events.0111.a.survived_khans_wrath: "グルカンの怒りを生き延びたとしても、今後グルカンの権威を濫用することはできない。"
  mpo_call_for_merchants_decision_is_gurkhan: "[gurkhan|E]である"
  mpo_paiza_abused_county_modifier: "グルカンの権威の濫用"
- mpo_paiza_abused_county_modifier_desc: "[Paiza|E]: グルカンの名を恐れた民衆によって、その土地は荒らされた。"
+ mpo_paiza_abused_county_modifier_desc: "[Paiza|E]：グルカンの名を恐れた民衆によって、その土地は荒らされた。"
  mpo_fascination_leap_modifier: "文化的飛躍"
  mpo_fascination_leap_modifier_desc: "遠方から連れてこられた熟練の職人や学識ある男たちから成る#weak ジェグン#!が、官僚制と革新の助けとなる。"
  mpo_artifact_material_modifier: "宝物素材"

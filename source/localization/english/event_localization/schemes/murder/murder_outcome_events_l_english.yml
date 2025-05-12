@@ -180,7 +180,7 @@
  murder_outcome.4202.scheme_unkown:0 "\n\n少なくとも彼女が計画について黙っていたのは賢明だった。これが最良だったのかもしれない…"
  murder_outcome.4202.a:0 "慎重に考えないといけないな。"
  murder_outcome.4203.opening:0 "[target.GetTitledFirstName]はまだ生きている！どうやら[SCOPE.Custom('VenomousCreatureType')]の毒の威力が十分ではなく、軽い発疹が乳児の皮膚に広がっただけのようだ。\n\n"
- murder_outcome.4203.scheme_owner_known:0 "それだけでは十分ではないかのように、私の気弱なスパイが捕まって告白し、私をその行為の首謀者だと名指しした！"
+ murder_outcome.4203.scheme_owner_known:0 "それだけでも最悪なのに、腰抜けの協力者が捕まって自白し、黒幕として私の名を挙げおった！"
  murder_outcome.4203.scheme_unkown:0 "小さな慈悲は、私のスパイが気づかれずに部屋を出ることができたことだ。"
  murder_outcome.4302.t:0 "招かれざる客"
  murder_outcome.4302.failure_declaration_1:0 "[target.GetTitledFirstName]はまだ生きている！"
