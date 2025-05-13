@@ -13,4 +13,4 @@
  cant_already_be_your_heir: "#X 既にあなたの[primary_heir|E]であってはいけない#!"
  cant_be_hostage_tt: "#X [hostage|E]であってはいけない#!"
  cant_be_another_player_tt: "#X 他のプレイヤーであってはいけない#!"
- must_be_direct_descendant_tt: "#X あなたの直系子孫でなくてはならない(子供、孫、曾孫)#!"
+ must_be_direct_descendant_tt: "#X あなたの直系子孫でなくてはならない（子供、孫、曾孫）#!"

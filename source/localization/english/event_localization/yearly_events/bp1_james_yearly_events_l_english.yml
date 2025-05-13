@@ -338,7 +338,7 @@
  bp1_yearly.9042.c:0 "なんという奇跡だ、食い尽くしてやろう！"
  9042_you_win:0 "あなたは討論に勝った"
  9042_you_lose:0 "あなたは討論に敗れた"
- dessert_looks_like_god:0 "お菓子で出来た[ROOT.Char.GetFaith.HealthGodName]の顔"
+ dessert_looks_like_god:0 "[ROOT.Char.GetFaith.HealthGodName]の甘美なる御顔"
  dessert_looks_like_god_desc:0 "[ROOT.Char.Custom('GetExpensiveDessert')]の塊で、[ROOT.Char.GetFaith.HealthGodName]の顔に似ている"
  full_of_jesus_modifier:0 "霊性に溢れる"
  full_of_jesus_modifier_desc:0 "この人物は[ROOT.Char.GetFaith.HealthGodName]に似ているデザートを食らい尽くした"

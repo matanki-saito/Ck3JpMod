@@ -6,7 +6,7 @@
  action_reactive_advice_should_form_hybrid_culture_click:0 "$click_to_open_lesson$"
  lessons_ep1_should_form_hybrid_culture_desc: "[cultural_acceptance|E]が十分高く、あなたの文化が50年以上の歴史を持っていればこの[culture|E]から[hybrid_culture|E]を形成できます！\n\nこれは、自分の文化と他の文化の一部を組み合わせて、新たな文化を生み出すことを意味します。\n\n文化受容度は以下のようにして獲得できます。\n$EFFECT_LIST_BULLET$その文化の[characters|E]にその文化の[counties|E]を与える\n$EFFECT_LIST_BULLET$[accept_culture|E][councillor_task|E]を用いる\n$EFFECT_LIST_BULLET$[culture_intermingling|E]を増加させる\n$EFFECT_LIST_BULLET$その文化の[vassals|E]を持つ\n\n文化受容度が高く、その文化の伯爵領が1つ以上あなたの[realm|E]に存在すれば、混合文化を形成できます！"
  lessons_ep1_hybrid_culture_benefits: "混合文化の恩恵"
- lessons_ep1_hybrid_culture_benefits_desc: "混合文化を形成することには、いくつかの恩恵があります。\n\n$EFFECT_LIST_BULLET$親文化の双方から[culture_pillars|E]や[culture_traditions|E]を選ぶことができるようになります\n$EFFECT_LIST_BULLET$新しい文化は、親文化の双方からすべての[innovations|E]を継承します\n$EFFECT_LIST_BULLET$新しい文化は、親文化の双方へ高い文化受容度を持ちます\n$EFFECT_LIST_BULLET$混合文化は形成後しばらくの間、親文化の土地をより早く転向させることができます"
+ lessons_ep1_hybrid_culture_benefits_desc: "混合文化を形成することには、いくつかの恩恵があります。\n\n$EFFECT_LIST_BULLET$母文化の双方から[culture_pillars|E]や[culture_traditions|E]を選ぶことができるようになります\n$EFFECT_LIST_BULLET$新しい文化は、母文化の双方からすべての[innovations|E]を継承します\n$EFFECT_LIST_BULLET$新しい文化は、母文化の双方へ高い文化受容度を持ちます\n$EFFECT_LIST_BULLET$混合文化は形成後しばらくの間、母文化の土地をより早く転向させることができます"
  action_reactive_advice_royal_court:0 "$open_tutorial_lesson$$ra_rc_intro$"
  action_reactive_advice_royal_court_desc:0 "ここを開いて、王宮の紹介を始めましょう"
  action_reactive_advice_royal_court_click:0 "$click_to_open_lesson$"

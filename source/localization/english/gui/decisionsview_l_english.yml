@@ -4,7 +4,7 @@
  DECISIONS_AND_CONTRACTS_VIEW_TITLE: "決断と[GetPlayer.Custom('GetContractOrIssuePlural')]"
  DECISIONS_VIEW_DECISION_TAB_TITLE: "決断"
  DECISIONS_VIEW_CONTRACTS_TAB_TITLE: "[GetPlayer.Custom('GetContractOrIssuePlural')]"
- DECISIONS_VIEW_GROUP_HEADER: "$NAME$ #weak ($SIZE$)#!"
+ DECISIONS_VIEW_GROUP_HEADER: "$NAME$ #weak （$SIZE$）#!"
  MY_LIFESTYLE_TITLE:0 "自身のライフスタイルフォーカス"
  MY_EDUCATION_TITLE:0 "私の教育方針"
  CHOOSE_LIFESTYLE:0 "ライフスタイルフォーカスを選択"

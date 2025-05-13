@@ -3,7 +3,7 @@
  EDIT_BANNERS_TOOLTIP:0 "#T 集結地の編集#!"
  RAISE_BANNER:0 "軍勢を召集"
  BANNER_RAISES_TIME:0 "$TIME_TO_RAISE$ $VALUE|0$ 日"
- BANNER_NUMBER_OF_MEN:0 "[soldiers|E]: $VALUE|0$"
+ BANNER_NUMBER_OF_MEN:0 "[soldiers|E]：$VALUE|0$"
  BANNER_ALREADY_RAISED:1 "#N この集結地のすべての兵士は召集済です#!"
  BANNER_NOT_BEING_RAISED:0 "#N 現在この集結地から召集されている軍勢はありません#!"
  BANNER_RAISE_PROMPT:1 "#T 軍勢を招集し、全ての兵士をこの集結地に割り当てます#!"
