@@ -5,4 +5,4 @@
  DEATH_REASON:0 "死因"
  ARTIFACT_KILL_LIST:0 "[ArtifactKillListWindow.GetArtifact.GetName|U]の殺害数"
  OPEN_ARTIFACT_KILL_LIST_TOOLTIP:0 "#T 殺害者一覧を開く\n#![Artifact.GetName]が殺した全ての人物を表示します"
- ARTIFACT_FORGOTTEN_SOLDIER_KILLS:0 "#S 忘れられた兵士たち#!: [Artifact.GetForgottenSoldiersCount|V]"
+ ARTIFACT_FORGOTTEN_SOLDIER_KILLS:0 "#S 忘れられた兵士たち#!：[Artifact.GetForgottenSoldiersCount|V]"

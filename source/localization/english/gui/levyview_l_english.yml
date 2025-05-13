@@ -5,4 +5,4 @@
  LV_RAISED:0 "[LevyView.GetRaisedCount|0]人動員"
  LV_UNRAISED:0 "未召集"
  LV_MAINTENANCE:0 "維持費: [gold_i][LevyView.GetMaintenanceCost|2]/月"
- LV_NO_COUNTERS:0 "徴募兵は他兵種の[counter|E]にはなり得ない"
+ LV_NO_COUNTERS:0 "徴募兵は他の兵種に対して[counter|E]を持ちません"
