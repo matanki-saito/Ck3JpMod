@@ -48,7 +48,7 @@ No support
 
 ## Auto update
 
-Yes: Every 3days (UTC00:00 JST9:00)
+Yes: Every day
 
 ## Manual release
 
@@ -57,6 +57,8 @@ Only collaborators
 ![manual release](readme/manual.png)
 
 ## How to use auto update program for other project ?
+
+Authentication is required for each machine since 5/5/25. **Please prepare a SteamGuard-authenticated self-hosted machine with steamcmd installed.**
 
 ### Github actions secrets
 
@@ -73,16 +75,6 @@ You need to set following credentials to github actions.
 1. Go to user page from user portrait(upper right).
 2. Click key icon 
 ![paratranz secret](readme/paratranz_secret.png)
-
-### Steam cmd secret files
-
-You need to prepare Steam cmd secret(config/config.vdf).
-
-#### How to get Steam CMD secrets? 
-
-1. [Download](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip) SteamCmd and unpack download zip
-2. Run steamcmd using your steam account name and password
-3. Steamcmd updates config.vdf files on ./config directory
 
 ## References
 
