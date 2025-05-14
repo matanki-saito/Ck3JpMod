@@ -77,8 +77,6 @@
  mpo_greatest_of_khans.0003.k: "余は、余の名のみを戴こう。"
  gok_event_troops: "[ROOT.Char.GetCulture.GetNameNoTooltip]の大軍"
  become_gok_decision_now_unavailable_tt: "@alert_icon! #alert_trial #high $mpo_become_greatest_of_khans_decision$#!の[decision|E]は、今後二度と利用できなくなります#!"
- gok_house_modifier: "黄金の血統"
- gok_house_modifier_desc: "この血統が世界にもたらしたものは、決して忘れ去られることはない。彼らは、火と征服の黄金なる末裔である。"
  mpo_gok_onslaught_cb: "偉大なるハンの猛攻"
  MPO_GOK_ONSLAUGHT_NAME: "[ATTACKER.GetPrimaryTitle.GetAdjective]による[DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]への猛攻"
  MPO_GOK_ONSLAUGHT_NAME_MY: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective]による[DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]への猛攻"

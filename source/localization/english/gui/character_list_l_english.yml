@@ -266,5 +266,5 @@
  tutor_filter: "教育可能"
  nomad_government_filter_option: "$game_concept_nomadic_government$"
  herder_government_filter_option: "$game_concept_herder$"
- nomad_government_filter_option_desc: ""
- herder_government_filter_option_desc: ""
+ nomad_government_filter_option_desc: "[nomadic_government|E]を持つ人物のみ表示する"
+ herder_government_filter_option_desc: "[herder|E|E]の[government|E]を持つ人物のみ表示する"

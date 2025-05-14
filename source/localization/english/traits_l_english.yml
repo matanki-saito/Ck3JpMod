@@ -1165,3 +1165,7 @@
  unlock_maa_heavy_horse_archers: "[men_at_arms|E]として[GetMaA('heavy_horse_archers').GetName]を雇用できる"
  unlock_maa_nomad_lancers: "[men_at_arms|E]として[GetMaA('nomad_lancers').GetName]を雇用できる"
  TRAIT_FLAG_DESC_gok_obedience_flag: "[subjects|E]からの@obedience_icon![obedience|E]が大きく増える"
+ trait_golden_lineage: "黄金の血統"
+ trait_golden_lineage_desc: "この人物の血統が世界にもたらしたものは、決して忘れ去られることはない。かの者たちは、炎と征服の中に生まれし黄金の末裔である。"
+ trait_golden_lineage_character_desc: "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]の血統が世界にもたらしたものは、決して忘れ去られることはない。\n[ROOT.GetCharacter.GetSheHe|U]は、炎と征服に連なる黄金の末裔である。"
+ descendants_gain_golden_lineage: "あなたの子孫は[GetTrait('golden_lineage').GetName( GetNullCharacter )]を獲得する"

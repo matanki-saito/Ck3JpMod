@@ -16,3 +16,4 @@
  mpo_flavor_events_settled.0010.b: "「お互いに…理解しあえるのでは…？」"
  mpo_flavor_events_settled.0010.c: "#EMP 痰を足元に吐き掛ける#!。"
  mpo_flavor_events_settled.0010.d: "「そちらの[nomad_lord.GetLadyLord]殿にも良しなに。」"
+ mpo_flavor_events_settled.0010.b_perk_tt: "あなたの[GetPerk('defensive_measures_perk').GetName( GetNullCharacter )]の[perk|E]により、より有利な価格交渉が可能になります"

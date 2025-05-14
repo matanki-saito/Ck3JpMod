@@ -736,5 +736,5 @@
  sovereignty_cb_defeat_desc_defender: "あなたは宗主権を保持する。[attacker.GetShortUIName|U]はあなたに戦争賠償金を支払う。"
  sovereignty_cb_defeat_desc_attacker: "[defender.GetShortUIName|U]は宗主権を保持する。あなたは[defender.GetHerHim]に賠償金を支払う。"
  sovereignty_cb_defeat_desc: "[defender.GetShortUIName|U]は宗主権を保持する。[attacker.GetShortUIName]は[defender.GetHerHim]に賠償金を支払う。"
- sovereignty_war_tributary_switch: "[defender.GetShortUIName]に従っていた周辺の[tributaries|E]は、[attacker.GetShortUIName]に[tribute|E]を納めることになる。"
+ sovereignty_war_tributary_switch: "[defender.GetShortUIName]の[realm|E]と地続きの領域を形成できる[tributaries|E]は、[attacker.GetShortUIName]に[tribute|E]を支払うことになる"
  at_least_one_non_nomad_county_tt: "対象は少なくとも一つの非[nomadic|E]な[county|E]を保有していなければなりません"

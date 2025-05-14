@@ -176,3 +176,4 @@
  MV_REGIMENT_START_SIZE_NOMAD: "最大戦力（[MenAtArmsType.GetStackSize]）で開始されます"
  RECRUIT_FROM_SUBJECTS_LABEL: "属国からの徴募"
  RECRUIT_FROM_SUBJECTS_TOOLTIP: "#T 属国から徴募#!  \n#weak あなたは[gold|E]を支払って、自国では利用できないが[subject|E]が利用可能な種類の[men_at_arms|E]を徴募します#!  "
+ RECRUIT_FROM_SUBJECTS_ICON: "@recruit_from_subjects_icon!"

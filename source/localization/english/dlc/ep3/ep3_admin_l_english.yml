@@ -13,7 +13,7 @@
  army_quartermasters_house_power: "兵站の責任者"
  respected_despots_house_power: "尊厳なる独裁者"
  lofty_architects_house_power: "高尚な建築家"
- members_in_realm_desc: "存命中の[house|E]メンバー"
+ members_in_realm_desc: "[realm|E]にいる存命中の[house|E]一門"
  house_head_influence_level_desc: "[house_heads_possessive|E]の[influence_level|E]"
  house_members_on_council_desc: "[top_liege|E]の[council|E]にいる[house|E]の一員の人数"
  estate_buildings_desc: "[estate_buildings|E]"

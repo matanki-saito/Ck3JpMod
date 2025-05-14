@@ -4,7 +4,7 @@
  the_great_steppe_participant_group_nomad_rulers_realm: "この一部地域の遊牧民の統治者"
  the_great_steppe_participant_group_nomad_rulers_realm_desc: "すべての[GetGovernment( 'nomad_government' ).GetName]の[rulers|E]が対象であり、その[capital|E]は別の[situation_sub_region|E]にあるが、[realm|E]の一部がこの地域内に属している。"
  the_great_steppe_participant_group_herders: "牧畜民"
- the_great_steppe_participant_group_herders_desc: "[SITUATION.GetType.GetName]の牧畜民"
+ the_great_steppe_participant_group_herders_desc: "この[situation|E]に関与する[herders|E]"
  the_great_steppe_nomad_rulers_capital: "[steppe_season|E]#weak （地方の統治者）#!"
  the_great_steppe_nomad_rulers_realm: "[steppe_season|E]#weak （地方の参加者）#!"
  the_great_steppe_participant_group_settled_rulers: "定住した統治者"

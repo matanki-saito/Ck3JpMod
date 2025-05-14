@@ -4,7 +4,7 @@
  culture_group_regional:1 "文化と地域"
  culture_group_any:0 "すべて"
  culture_era_tribal:0 "部族"
- culture_era_tribal_desc:0 "部族の時代は成文化した法と制度化された政府の出現以前の[culture|E]です。[tribal_government|E]を持つ統治者は部族の時代の[innovations|E]しか利用できません。"
+ culture_era_tribal_desc:0 "[culture|E]における部族の時代は、成文法や制度化された政府の出現よりも前の時代です。[tribal_government|E]および[nomadic_government|E]の統治者は、部族時代の[innovations|E]のみを利用できまする。"
  culture_era_early_medieval:0 "中世初期"
  culture_era_early_medieval_desc:0 "中世初期は、職能官僚の登場と多くの重要な[innovations|E]の出現によって、[culture|E]が暗黒期を脱する時代となります。"
  culture_era_high_medieval:0 "中世盛期"

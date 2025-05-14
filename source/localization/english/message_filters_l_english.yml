@@ -38,7 +38,7 @@
  message_filter_councillor_ongoing_desc: "[councillor|E]の[councillor_task_possible_side_effects|E]の影響"
  message_filter_council_task: "@council_icon! 評議員の任務"
  message_filter_council_task_desc: "進行中の[councillor_task|E]の進捗の変化"
- message_filter_councillor: "@council_icon! 新しい評議員"
+ message_filter_councillor: "@council_icon!評議員の変更"
  message_filter_councillor_desc: "あなたの[councillors|E]の一人が任命または罷免"
  message_filter_councillor_liege: "@council_icon!評議員に着任"
  message_filter_councillor_liege_desc: "[liege_possessive|E]の[council|E]に任命、または解任された。"

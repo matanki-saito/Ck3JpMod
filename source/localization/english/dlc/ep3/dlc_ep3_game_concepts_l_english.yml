@@ -27,7 +27,7 @@
  game_concept_title_men_at_arms_desc: "$game_concept_title_men_at_arms$は、特定の[title|E]に所属する[men_at_arms|E]です。これらの部隊は[ruler|E]の個人的な所有物ではなく、常に所属する$game_concept_title$に従います。そのため、その$game_concept_title$を所有する者が、その部隊も同時に所有し、指揮することになります。\n\n$game_concept_title_men_at_arms$は、[administrative|E]のような特定の[government_forms|E]で使用されます。"
  game_concept_domicile: "本拠地"
  game_concept_domiciles: "本拠地"
- game_concept_domicile_desc: "$game_concept_domicile$とは私有の土地や建物のことで、[administrative|E]や[adventurer|E]といった特殊な[government_form|E]の[characters|E]が私有します。\n\n$game_concept_domicile$は、所有者にとって[holdings|E]よりも基本的な基盤であり、[domicile_buildings|E]による発展が可能です。\n\n全$game_concept_domicile$は、指定の[barony|E]内に存在し、新しい場所へ引っ越すことも出来ます。$game_concept_domicile$のタイプによっては引っ越しに制限が適用される場合もあります。\n\n$game_concept_domiciles$は、基本的に[succession|E]によって所有者の[player_heir|E]に相続されます。"
+ game_concept_domicile_desc: "$game_concept_domicile$とは私有の土地や建物のことで、[administrative|E]や[adventurer|E]といった特殊な[government_form|E]の[characters|E]が私有します。\n\nこの$game_concept_domicile$は[holdings|E]の代わりに所有者の主たる勢力基盤となり、[domicile_buildings|E]によって強化できます。\n\nすべての$game_concept_domicile$は特定の[barony|E]に所在し、別の場所へ移動させることも可能です。ただし、その$game_concept_domicile$の種類によっては移動に制限が課されることがあります。\n\n各$game_concept_domicile$には、特殊な無領地の[title|E]が紐づいており、それぞれに固有の[succession|E]が適用されます。"
  game_concept_domicile_building: "本拠地の建物"
  game_concept_domicile_buildings: "本拠地の建物"
  game_concept_domicile_building_desc: "すべての[domiciles|E]は、特定の$game_concept_domicile_buildings$で強化することができる。これにより、収入や[prestige|E]などの資源、さらには多くの恩恵が所有者にもたらされる。\n\n建造物の利用可能性は$game_concept_domicile$の種類に依存し、それぞれの種類には大きく異なる建物のセットが用意されている。\n\n一部の$game_concept_domicile_buildings$は、[internal_upgrades|E]を持つこともできる。"

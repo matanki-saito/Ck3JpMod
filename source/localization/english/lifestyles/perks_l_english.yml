@@ -187,3 +187,4 @@
  SOUVENIRS_APLENTY_SEASONS_EFFECT: "[steppe_season|E]が変化するたびに、その[domain|E]内の@county_fertility_icon![county_fertility|E]および@control_icon![control|E]が上昇する"
  OF_THE_PEOPLE_EXPLORE_CULTURES_EFFECT: "#V $task_kurultai_culture_1$#!の[councillor_task|E]の効果を高める"
  task_kurultai_culture_1_of_the_people_bonus_desc: "\n$TAB$[GetPerk('of_the_people_perk').GetName(GetPlayer)]：#P [cultural_acceptance_i]-[SCOPE.ScriptValue('kurultai_culture_perk_monthly_increase')|2]%#!"
+ local_arbitration_perk_nomadic_name: "部族の守護"

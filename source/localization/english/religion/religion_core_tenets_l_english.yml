@@ -318,3 +318,7 @@
  tenet_household_gods_desc: "私たちは、我々の住まいを見守る守護霊――#EMP ラレース#!と#EMP ゲニウス#!を崇めている。何よりも、その魂をもって帝国全土を守ることを使命とする、栄光ある皇帝陛下を敬っている。"
  doctrine_parameter_allows_brewery: "[temple_holdings|E]の$allows_brewery$"
  tenet_religious_legal_pronouncements_hisbah: "ヒスバ"
+ self_mutilation_active_name: "[GetFaithDoctrine('tenet_exaltation_of_pain').GetBaseName]"
+ self_mutilation_minor_piety_gain_tt: "[CharYourHerHis(THIS.Char)]の[GetFaithDoctrine('tenet_exaltation_of_pain').GetBaseName]という[core_tenet|E]により、[THIS.Char.GetShortUIName|U]は[piety_i]#P [THIS.ScriptValue('minor_piety_gain')]#!を獲得する"
+ self_mutilation_medium_piety_gain_tt: "[CharYourHerHis(THIS.Char)]の[GetFaithDoctrine('tenet_exaltation_of_pain').GetBaseName]という[core_tenet|E] により、[THIS.Char.GetShortUIName|U]は[piety_i]#P [THIS.ScriptValue('medium_piety_gain')]#!を獲得する"
+ self_mutilation_major_piety_gain_tt: "[CharYourHerHis(THIS.Char)]の[GetFaithDoctrine('tenet_exaltation_of_pain').GetBaseName]という[core_tenet|E]により、[THIS.Char.GetShortUIName|U]は[piety_i]#P [THIS.ScriptValue('major_piety_gain')]#!を獲得する"

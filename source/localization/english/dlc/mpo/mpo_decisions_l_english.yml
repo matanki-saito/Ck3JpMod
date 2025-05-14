@@ -636,7 +636,7 @@
  confederate_vassal_modifier_desc: "この人物は[confederation|E]に属し、それが[kingdom|E]に昇格した"
  confederate_lands_modifier: "連合の領土"
  confederate_lands_modifier_desc: "この地は[confederation|E]が[kingdom|E]へと昇格した恩恵を享受している"
- confederation_king_modifier_tt: "[GetModifier('confederate_king_modifier').GetNameWithTooltip]を獲得する"
+ confederation_king_modifier_tt: "#high 15年間#!にわたり[GetModifier('confederate_king_modifier').GetNameWithTooltip]を獲得する"
  confederation_vassal_modifier_tt: "すべての[vassals|E]が[GetModifier('confederate_vassal_modifier').GetNameWithTooltip]を獲得する"
  confederation_county_modifier_tt: "すべての[counties|E]が#V 30#!年間[GetModifier('confederate_lands_modifier').GetNameWithTooltip]を得る"
  chaotic_succession_protection_title_law_tt: "[GetLaw('confederation_elective_succession_law').GetName]の[law|E]によって、[succession|E]中の#high $chaotic_succession_disobedient_kurultai_none$#!から保護される"

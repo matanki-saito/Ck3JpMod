@@ -1,0 +1,9 @@
+﻿l_english:
+ add_title_to_sub_region_third: "[LandedTitle.GetName]は[Situation.GetName]の[SituationSubRegion.GetName]に編入される"
+ add_title_to_sub_region_third_past: "[LandedTitle.GetName]は[Situation.GetName]の[SituationSubRegion.GetName]に編入された"
+ add_title_to_sub_region_global: "$add_title_to_sub_region_third$"
+ add_title_to_sub_region_global_past: "$add_title_to_sub_region_third_past$"
+ remove_title_from_sub_region_third: "[LandedTitle.GetName]は[Situation.GetName]の[SituationSubRegion.GetName]から除外される"
+ remove_title_from_sub_region_third_past: "[LandedTitle.GetName]は[Situation.GetName]の[SituationSubRegion.GetName]から除外された"
+ remove_title_from_sub_region_global: "$remove_title_from_sub_region_third$"
+ remove_title_from_sub_region_global_past: "$remove_title_from_sub_region_third_past$"

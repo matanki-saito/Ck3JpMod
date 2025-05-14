@@ -58,3 +58,6 @@
  conqueror_feed_generous_courtier_desc: "あなたの[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('generous_courtier'))]の[generous_courtier.GetFullName]があなたの大義に寄付をする！"
  conqueror_feed_siege_engineer: "攻城戦の技術者が参加する"
  conqueror_feed_siege_engineer_desc: "[GetTrait('military_engineer').GetName( GetNullCharacter )][new_commander.GetFullName]があなたの部隊に加わる！"
+ conqueror.0001.desc.temujin: "\n\n蒼き狼と白き牝鹿のもとより、我が与うるは滅びか隷従のみ。"
+ conqueror_feed_county_gift_herd: "[county_target.GetNameNoTooltip]が家畜群を送ってくる"
+ conqueror_feed_county_gift_desc_herd: "[county_target.GetName]の民草たる牧人たちは、偉大なる[ROOT.Char.GetTitleAsName]に畏敬の念を抱き、立派な家畜を献上してきた。"

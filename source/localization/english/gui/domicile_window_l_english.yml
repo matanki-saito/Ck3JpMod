@@ -78,3 +78,5 @@
  can_move_domicile_estate_same_location_tt: "[estate|E]はすでに[province_temp.GetBaronyNameExplicitly]にある"
  DOMICILE_WINDOW_CONSTRUCT_BUILDING_TT: "#T 新たな[domicile_building|E]を建設#!"
  DOMICILE_WINDOW_CONSTRUCT_BUILDING_LOCKED_TT: "$DOMICILE_WINDOW_CONSTRUCT_BUILDING_TT$\n@warning_icon!#X [Domicile.GetMainBuilding.GetName]の[domicile_building|E]レベルが低すぎる#!"
+ CHARACTER_MODIFIERS_LABEL: "#BOLD;EMP 人物補正#!"
+ PROVINCE_MODIFIERS_LABEL: "#BOLD;EMP 男爵領補正値#!"

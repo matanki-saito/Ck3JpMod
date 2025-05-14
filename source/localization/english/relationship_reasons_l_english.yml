@@ -2179,3 +2179,5 @@
  rival_humiliated_at_nerge_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]はネルゲの最中に[CHARACTER.GetShortUIName|U]を辱めた。"
  rival_led_coalition_against_me: "[CHARACTER.GetShortUIName|U]は諸氏族を招集し、もっとも偉大なるハンとして推戴されんとした——だが[TARGET_CHARACTER.GetShortUIName]は、それに抗う大同盟を立ち上げた。"
  rival_led_coalition_against_me_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]はもっとも偉大なるハンの称号と、ステップ一帯の服従を要求した——これに抗して、[CHARACTER.GetShortUIName]は大連合を結成した。"
+ rival_disrespected_envoy: "[TARGET_CHARACTER.GetShortUIName]は、[CHARACTER.GetShortUINamePossessive]の外交使節の一人を侮辱した。"
+ rival_disrespected_envoy_corresponding: "[CHARACTER.GetShortUIName]は、[TARGET_CHARACTER.GetShortUINamePossessive]の外交使節の一人を侮辱した。"

@@ -1261,7 +1261,7 @@
  culture_parameter_martial_traits_give_out_hcav_bonus: "[GetTrait('gallant').GetName( GetNullCharacter )]、[GetTrait('overseer').GetName( GetNullCharacter )]、[GetTrait('strategist').GetName( GetNullCharacter )]の[traits|E]は、[heavy_cavalry|E]の[men_at_arms|E]にボーナスを与える"
  culture_parameter_stewardship_traits_give_out_cav_bonus: "[GetTrait('avaricious').GetName( GetNullCharacter )]、[GetTrait('architect').GetName( GetNullCharacter )]、[GetTrait('administrator').GetName( GetNullCharacter )]の[traits|E]は[light_cavalry|E]、[heavy_cavalry|E]、[archer_cavalry|E]の[men_at_arms|E]にボーナスを与える"
  mpo_siberian_permafrost_modifier: "シベリアの永久凍土"
- mpo_siberian_permafrost_modifier_desc: "何千年ものあいだ凍てついた土壌、地下水などなく、まばらにしか生えない植生。融解と再凍結を繰り返すことで、地形は毎年変化する。この地を自らのものとするためには、ここに住む者もまた、数世紀にわたる適応を強いられる。\nさもなくば有機無機の区別無く滅び、氷の下に眠る古の死者たちに加わることになろう。\n\n#weak この補正値は、#V $dlc_mpo_steppe_siberia_further_expansion_tooltip$#!地域において、#V $expand_the_steppe_decision_generic$#!の[decision|E]を実行することで解除できます。#!\n\n"
+ mpo_siberian_permafrost_modifier_desc: "何千年ものあいだ凍てついた土壌、地下水などなく、まばらにしか生えない植生。融解と再凍結を繰り返すことで、地形は毎年変化する。この地を自らのものとするためには、ここに住む者もまた、数世紀にわたる適応を強いられる。\nさもなくば有機無機の区別無く滅び、氷の下に眠る古の死者たちに加わることになろう。\n\n#weak この補正値は、#V $feudalize_holding_interaction$#![interaction|E]によって除去するか、#V $dlc_mpo_steppe_siberia_further_expansion_tooltip$#!地域において #V $expand_the_steppe_decision_generic$#![decision|E]により北方全域を征服することで取り除けます#!\n"
  mpo_siberian_permafrost_modifier_bad: "$mpo_siberian_permafrost_modifier$"
  mpo_siberian_permafrost_modifier_bad_desc: "$mpo_siberian_permafrost_modifier$"
  cannot_hybridize_northern_tribes: "#high $tradition_mpo_northern_tribes_name$#!の[tradition|E]は、[hybrid_culture|E]を作成する際に選択することはできません。"

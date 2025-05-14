@@ -72,5 +72,5 @@
  game_situation_struct: "#TOOLTIP:SITUATION_TYPE,$DESC_KEY$ $KEY_LOC|L$#!"
  game_situation_participant_group_type_struct: "#TOOLTIP:SITUATION_PARTICIPANT_GROUP_TYPE,$DESC_KEY$ $KEY_LOC|L$#!"
  game_situation_sub_region_struct: "#TOOLTIP:SITUATION_SUB_REGION,$DESC_ID$ $KEY_LOC|L$#!"
- game_situation_phase_type_struct: "#TOOLTIP:SITUATION_PHASE_TYPE,$DESC_KEY$ $KEY_LOC|L$#!"
+ game_situation_phase_type_struct: "#TOOLTIP:SITUATION_PHASE_TYPE,$PARENT_KEY$,$DESC_KEY$ $KEY_LOC|L$#!"
  game_situation_modifier_named_set_struct: "#TOOLTIP:SITUATION_MODIFIER_NAMED_SET,$DESC_KEY$ $KEY_LOC|L$#!"

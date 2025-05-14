@@ -1,6 +1,6 @@
 ﻿l_english:
  TITLE_APPOINTMENT_HEADER: "[Title.GetName]の継承"
- TITLE_APPOINTMENT_LAW: "継承法: [SuccessionAppointmentWindow.GetSuccessionLaw.GetName]"
+ TITLE_APPOINTMENT_LAW: "継承法：[SuccessionAppointmentWindow.GetSuccessionLaw.GetName]"
  TITLE_APPOINTMENT_CURRENT_HOLDER: "現在の所有者：[Title.GetHolder.GetShortUIName]"
  TITLE_APPOINTMENT_GOVERNOR_EFFICIENCY: "$ADMIN_WINDOW_THEME_GOVERNOR_EFFICIENCY_VALID$"
  TITLE_APPOINTMENT_RANK_TOOLTIP: "継承順位の位置"

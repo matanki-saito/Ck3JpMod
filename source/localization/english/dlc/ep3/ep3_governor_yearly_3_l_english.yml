@@ -186,7 +186,7 @@
  msg_governor_challenging_illegitimacy.t: "不忠なる[root_scope.GetTitleAsNameNoTooltip]が支持を集める"
  msg_governor_challenging_illegitimacy.desc: "[root_scope.GetName]とその支持者たちは、あなたの貧弱な[legitimacy|E]を非難している。"
  msg_governor_supports_rule.t: "[root_scope.GetTitleAsNameNoTooltip]はあなたの支配権を擁護する"
- msg_governor_supports_rule.desc: "[root_scope.GetName]は、あなたの正統性を疑う者たちに対して公然と擁護の立場を示している。"
+ msg_governor_supports_rule.desc: "[root_scope.GetName|V]は、あなたの正統性を疑う者たちに対して公然と擁護の立場を示している。"
  ep3_governor_yearly.3050.t: "[ROOT.Char.GetFaith.NegativeAfterLife|U]の下級悪魔の一人"
  ep3_governor_yearly.3050.desc: "[emperor.GetFirstName]・[emperor.GetHouse.GetName]に関する奇怪な噂が絶えない。我らの[emperor.GetTitleAsNameNoTooltip]は、帝位の縁に立たされているかのようだ。"
  ep3_governor_yearly.3050.mess: "\n\nある薬売りが語ったことによれば…宮廷から彼に寄せられた不信心な注文があったという。ロブスターの目、子供の爪、マンドレイクやピッチを混ぜた薬――すべて[emperor.GetTitleAsNameNoTooltip]が狂ったように貪り食うためのものだそうだ！　その獣めいた者は、裸のまま宮殿をさまよい歩き、自らに奇怪な薬を塗りたくり、[emperor.GetFaith.HighGodName]の名を呪いながら吠え続けているのだ！"
