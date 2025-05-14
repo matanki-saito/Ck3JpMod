@@ -43,7 +43,7 @@
  message_filter_councillor_ongoing_desc: "Effects of [councillor|E] [councillor_task_possible_side_effects|E]"
  message_filter_council_task: "@council_icon! Councillor Tasks"
  message_filter_council_task_desc: "The progress of an ongoing [councillor_task|E] changes"
- message_filter_councillor: "@council_icon! New Councillor"
+ message_filter_councillor: "@council_icon! Councillor Changes"
  message_filter_councillor_desc: "One of your [councillors|E] is appointed or leaves"
  message_filter_councillor_liege: "@council_icon! Held Council Seats"
  message_filter_councillor_liege_desc: "You are appointed or removed from your [liege_possessive|E] [council|E]"

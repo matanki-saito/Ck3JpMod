@@ -831,6 +831,6 @@ NOMAD_CB_UNREFORMED_COST: "Your [faith|E] is [GetFaithDoctrine('west_african_unr
  sovereignty_cb_defeat_desc_defender: "You keep the contested tributaries. [attacker.GetShortUIName|U] must pay you war reparations."
  sovereignty_cb_defeat_desc_attacker: "[defender.GetShortUIName|U] keeps the contested tributaries. You must pay [defender.GetHerHim] war reparations."
  sovereignty_cb_defeat_desc: "[defender.GetShortUIName|U] keeps the contested tributaries, and [attacker.GetShortUIName] must pay [defender.GetHerHim] war reparations."
- sovereignty_war_tributary_switch: "Neighboring [tributaries|E] of [defender.GetShortUIName] will pay [tribute|E] to [attacker.GetShortUIName]"
+ sovereignty_war_tributary_switch: "[tributaries|E] of [defender.GetShortUIName] that can form a continuous [realm|E] will pay [tribute|E] to [attacker.GetShortUIName]"
 
 at_least_one_non_nomad_county_tt: "Target must have at least one non-[nomadic|E] [county|E]"

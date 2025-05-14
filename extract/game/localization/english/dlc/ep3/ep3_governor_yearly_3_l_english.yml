@@ -214,7 +214,7 @@ ep3_governor_yearly_3050_factions_emp_tooltip: "Other [vassals|E] are more likel
 msg_governor_challenging_illegitimacy.t: "Disloyal [root_scope.GetTitleAsNameNoTooltip] Gathers Support"
 msg_governor_challenging_illegitimacy.desc: "[root_scope.GetName] and [root_scope.GetHerHis] supporters condemn your feeble [legitimacy|E]."
 msg_governor_supports_rule.t: "[root_scope.GetTitleAsNameNoTooltip] Defends Your Mandate"
-msg_governor_supports_rule.desc: "[root_scope.GetName] publicly defends you against those who speak of your illegitimacy."
+msg_governor_supports_rule.desc: "[root_scope.GetName|V] publicly defends you against those who speak of your illegitimacy."
 
 ep3_governor_yearly.3050.t: "One of [ROOT.Char.GetFaith.NegativeAfterLife|U]'s Lesser Demons"
 ep3_governor_yearly.3050.desc: "Strange tidings abound concerning [emperor.GetFirstName] [emperor.GetHouse.GetName], our [emperor.GetTitleAsNameNoTooltip] who teeters on the edge of [emperor.GetHerHis] throne."

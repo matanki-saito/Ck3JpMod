@@ -115,10 +115,10 @@
  spymaster_task.0399.something_here:0 "\n\nHowever, I still believe there is something going on in the shadows. I only need a little more time to determine what that is."
  spymaster_task.0399.a.recommended:0 "Very well, you know best."
  spymaster_task.0399.a.counter:0 "No, let us not waste more time."
- spymaster_task.0399.a.tt:0 "[councillor.GetFirstNameNoTooltip] switches task to $task_disrupt_schemes$"
+ spymaster_task.0399.a.tt:0 "[councillor.GetCouncilTitle] [councillor.GetFirstNameNoTooltip] switches task to [GetCouncilTaskType('task_disrupt_schemes').GetName|V]"
  spymaster_task.0399.b.recommended:0 "If there is #EMP anything#!, we shall find it."
  spymaster_task.0399.b.counter:0 "I would not be so certain. Keep it up!"
- spymaster_task.0399.b.tt:0 "[councillor.GetFirstNameNoTooltip] continues to $task_find_secrets$"
+ spymaster_task.0399.b.tt:0 "[councillor.GetCouncilTitle] [councillor.GetFirstNameNoTooltip] continues to [GetCouncilTaskType('task_find_secrets').GetName|V]"
 
  spymaster_task.1001.t:0 "An "Accident""
  spymaster_task.1001.desc:0 "[councillor.GetTitledFirstNamePossessive] apology #EMP sounds#! genuine, but the error seems almost too ludicrous to be real.\n\n"You see, my liege," my [councillor.GetCouncilTitle] explains, "it was simply a matter of sending the wrong letter with the wrong courier." [councillor.GetSheHe|U] holds [councillor.GetHerHis] breath. "So that is how the incriminating documents were lost.""

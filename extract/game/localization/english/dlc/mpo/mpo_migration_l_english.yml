@@ -4,7 +4,7 @@
 
  MIGRATION_WINDOW_HEADER: "Migration"
  MIGRATION_WINDOW_DOMAIN_FERTILITY: "[county_fertility|E] in #high [Title.GetName]#! ([Title.GetAverageFertility|V%/0])"
- MIGRATION_WINDOW_CAPITAL_SUBREGION_LOCATION: "Located in [County.GetSubRegionInSituation( GetSituation('the_great_steppe') ).GetName]"
+ MIGRATION_WINDOW_CAPITAL_SUBREGION_LOCATION: "Located in [County.GetSubRegionInSituation( Situation.Self ).GetName]"
  MIGRATION_WINDOW_INVOLVED_CHARACTERS: "[rulers|E] in your selected Migration Target"
  MIGRATION_WINDOW_OTHER_EFFECTS_LABEL: "#V Effects #!"
  MIGRATION_WINDOW_STEPPE_SEASON_LABEL: "[steppe_season|E]:"

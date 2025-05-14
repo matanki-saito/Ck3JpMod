@@ -179,3 +179,4 @@
 
  RECRUIT_FROM_SUBJECTS_LABEL: "Recruit from Subjects"
  RECRUIT_FROM_SUBJECTS_TOOLTIP: "#T Recruit from Subjects#!\n#weak You will pay [gold|E] to recruit a type of [men_at_arms|E] that your [subject|E] has access to, but you don't#!"
+ RECRUIT_FROM_SUBJECTS_ICON: "@recruit_from_subjects_icon!"

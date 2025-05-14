@@ -1,7 +1,7 @@
 ﻿l_english:
 
  offer_confederation_interaction: "Offer Confederation"
- offer_confederation_interaction_desc: "Ask [recipient.GetShortUINameNoTooltip] to become your [vassal|E] within a [confederation|E]."
+ offer_confederation_interaction_desc: "Ask [recipient.GetShortUINameNoTooltip] to join with you in a [confederation|E]."
  forming_confederation_tt: "You have not taken the $call_for_confederation_decision$ [decision|E]"
  make_blood_brother_desc: "Ask [recipient.GetShortUINameNoTooltip] to become your [blood_brother|E]."
 
@@ -26,7 +26,7 @@
  NO_FRIGHTENING_NEIGHBOR_REASON: "Has no neighboring [ruler|E] worth confederating against: $VALUE|=+0$"
  TERRIFYING_NEIGHBOR_REASON: "Terrified by a neighboring [ruler|E]: $VALUE|=+0$"
  NO_SHARED_CONFEDERATION_FOE_REASON: "Has no threat to confederate against: $VALUE|=+0$"
- TOO_MANY_CONFEDERATION_VASSALS_REASON: "Your [confederation|E]'s number of members: $VALUE|=+0$"
+ TOO_MANY_CONFEDERATION_VASSALS_REASON: "The [confederation|E]'s number of members: $VALUE|=+0$"
  CONFEDERATION_CULTURE_REASON: "[recipient.GetShortUINameNoTooltip] rules a [confederation|E] and shares your [culture|E]: $VALUE|=+0$"
  ANOTHER_CULTURE_CONFEDERATION_REASON: "A [confederation|E] of [recipient.GetShortUINamePossessiveNoTooltip] [culture|E] exists: $VALUE|=+0$"
  LIEGE_LOW_LEGITIMACY_REASON: "Your [top_liege|E]'s low [legitimacy|E]: $VALUE|=+0$"
@@ -46,7 +46,8 @@
  offer_confederation_offerer_rival_tt: "[recipient.GetSheHe|U] is your [top_liege|E]'s [rival|E]: $VALUE|=+0$"
  offer_confederation_offerer_nemesis_tt: "[recipient.GetSheHe|U] is your [top_liege|E]'s [nemesis|E]: $VALUE|=+0$"
  offer_confederation_offerer_vassal_opinion_tt: "[opinion|E] of your [realm|E]'s [powerful_vassals|E]: $VALUE|=+0$ #weak (max +20)#!"
- offer_confederation_independence_war_tt: "[recipient.GetSheHe|U] fought for Independence against the [confederation|E]: $VALUE|=+0$"
+ offer_confederation_independence_war_tt: "[recipient.GetSheHe|U] fought for Independence from you: $VALUE|=+0$"
+  offer_confederation_independence_war_reverse_tt: "You took your Independence from [recipient.GetHerHim]: $VALUE|=+0$"
  bankrupt_reason_liege: "Your [top_liege|E] is Bankrupt: $VALUE|+=0$"
  
  OFFER_CONFEDERATION_INTERACTION_NOTIFICATION: "To foil the hunters of this land, should we lean wolves not band together?"
@@ -60,6 +61,7 @@
  create_confederation_recipient_tt: "Forms a [confederation|E] with [actor.GetShortUIName]"
  join_confederation_recipient_tt: "Joins the [confederation.GetName]"
  recipient_joined_confederation_tt: "[recipient.GetShortUIName] joined the [confederation.GetName]"
+ actor_joined_confederation_tt: "[actor.GetShortUIName] joined the [confederation.GetName]"
  mpo_interactions_events.0002.t: "The [confederation.GetName]"
  mpo_interactions_events.0002.desc: "With [other_confederate.GetTitledFirstNamePossessive] [other_confederate.GetCulture.GetCollectiveNoun] and the warriors of [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTier] surrounding us, we mingle blood and promise confederation.\n\n"We will be many, [other_confederate.Custom('SisterBrother')], watching over these lands!" cries [other_confederate.GetFirstNameNoTooltip], gripping me close. "Fighting as wolves of the same pack. One no better — no hungrier — than any other!"\n\n"
  mpo_interactions_events.0002.desc_new: "The [new_confederation.GetName] is born."
@@ -82,7 +84,9 @@
  mpo_interactions_events.0003.a: "[recipient.GetSheHe|U] is with us."
 
  mpo_interactions_events.0004.opening: "To the cowardly rat, [ROOT.Char.GetTitledFirstName],"
- mpo_interactions_events.0004.desc: "Does the thought of belonging to a swarm give you comfort, little creature? When you could be plucked from the earth and swallowed by a great eagle at any moment?\n\nNo, I will not belong to any pitiful confederation."
+ mpo_interactions_events.0004.desc: "Does the thought of belonging to a swarm give you comfort, little creature? When you could be plucked from the earth and swallowed by a great eagle at any moment?\n\n"
+ mpo_interactions_events.0004.desc_join: "Skitter away, rat. We have no need of you."
+ mpo_interactions_events.0004.desc_offer: "No, I will not belong to any pitiful confederation."
  mpo_interactions_events.0004.a: "A rat is clever. You are not."
  RECENTLY_LEFT_CONFEDERATION_REASON: "Left your [confederation|E] recently: $VALUE|=+0$"
  
@@ -161,7 +165,7 @@
  ask_for_herd_abundant_grazing_tt: "Because the [steppe_season|E] is $situation_steppe_abundant_grazing_season$ you receive additional [herd|E]: @herd_icon![recipient.GetDomicile.MakeScope.ScriptValue('ask_for_herd_half_value')|0V]"
  ask_for_herd_diplomacy_yurt_unlock: "Your [yurt|E] does not have the $diplomacy_yurt_02_domicile_building$ [yurt_building|E] second upgrade"
 
- action_demand_tributary_label: "@tributary_icon!You can demand that [recipient.GetShortUIName|U] become your [tributary|E]"
+ action_demand_tributary_label: "@tributary_icon! You can demand that [recipient.GetShortUIName|U] become your [tributary|E]"
  action_demand_tributary_combined_group_label: "@tributary_icon! You can Demand $game_concept_tributaries$"
  action_demand_tributary_combined_group_name: "@tributary_icon! You can Demand a $game_concept_tributary$"
  action_demand_tributary_combined_group_description: "You have realms on your perimeter ready to pay [tribute|E] to you."
@@ -181,9 +185,9 @@
  action_pacify_tributary_click: "#I Click to $mpo_negotiate_obedience_interaction$#!"
  action_pacify_tributary: "Negotiate [recipient.GetShortUINamePossessive|U] [obedience|E]"
 
- action_can_demand_herd_label: "@herd_icon!You can demand [herd|E] from [recipient.GetShortUIName|U]"
- action_can_demand_herd_combined_group_label: "@herd_icon!You can demand Herd"
- action_can_demand_herd_combined_group_name: "@herd_icon!You can demand Herd"
+ action_can_demand_herd_label: "@herd_icon! You can demand [herd|E] from [recipient.GetShortUIName|U]"
+ action_can_demand_herd_combined_group_label: "@herd_icon! You can demand Herd"
+ action_can_demand_herd_combined_group_name: "@herd_icon! You can demand Herd"
  action_can_demand_herd_combined_group_description: "You have vassals and tributaries that are willing to part with their [herd|E] and give it to you"
  action_can_demand_herd_combined_label: "From [recipient.GetNameNoTooltip|U]"
  action_can_demand_herd_desc: "$mpo_ask_for_herd_interaction_desc$"
@@ -492,7 +496,7 @@
  
  action_switch_to_tributary: "$action_switch_to_tributary_label$"
  action_switch_to_tributary_label: "Vassals Cannot [migrate|E]"
- action_switch_to_tributary_desc: "[GetGovernment( 'nomad_government' ).GetName] [vassals|E] cannot abandon their [liege|E], thus following them whenever they [migrate|E], with no real agency."
+ action_switch_to_tributary_desc: "[GetGovernment( 'nomad_government' ).GetName] [vassals|E] cannot freely [migrate|E], and instead follow their [liege|E] in their migrations."
  action_switch_to_tributary_click: "#weak You can increase your [liege|E]'s [opinion|E] of you and become a [tributary|E] to migrate freely#!"
  
  mpo_interactions_events.0010.opening: "To my former vassal, [ROOT.Char.GetTitledFirstName]"
@@ -559,3 +563,15 @@
  action_upgrade_dominance_click: "#I Click to increase your [nomadic_authority|E]#!"
  gok_cb_event_troops_quality_tt: "Gains an army of battle-ready, possibly unique, [special_troops|E], sized according to [gok_victim.GetShortUINamePossessive] [realm|E]"
  gok_cb_event_troops_siege_tt: "Gains an army of [special_troops|E] and [siege_weapons|E], sized according to [gok_victim.GetShortUINamePossessive] [realm|E]"
+make_blood_brother_interaction_intergender_req: "[blood_brothers|E] of opposite gender must both be [rulers|E]"
+join_confederation_neighboring_foe_tt: "A nearby [ruler|E] threatens the [confederation|E]: $VALUE|=+0$"
+join_confederation_abandoned_confederation_tt: "You abandoned the [confederation|E]: $VALUE|=+0$"
+JOINING_CONFEDERATION_WAR_REASON: "You will join the [confederation|E]'s defensive war: $VALUE|=+0$"
+join_confederation_interaction: "Join Confederation"
+join_confederation_interaction_desc: "Request membership in [recipient.GetShortUINamePossessiveNoTooltip] [confederation|E]."
+join_confederation_loyal_tt: "[GetTrait('loyal').GetName( ROOT.Char )]: $VALUE|=+0$"
+join_confederation_disloyal_tt: "[GetTrait('disloyal').GetName( ROOT.Char )]: $VALUE|=+0$"
+join_confederation_dishonorable_tt: "Your personality: $VALUE|=+0$"
+mpo_interactions_events.0030.opening: "Noble-hearted [actor.GetFirstName],"
+mpo_interactions_events.0030.desc: "Swear to honor the ways of the [confederation.GetName]. Swear to fight for us until your body breaks, until your warriors are all bones and ash.\n\nGive your oath, and we will protect one another from the evils of this world."
+mpo_interactions_events.0030.a: "When you call, I will be your guardian."

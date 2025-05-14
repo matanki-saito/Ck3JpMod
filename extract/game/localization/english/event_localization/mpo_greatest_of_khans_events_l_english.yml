@@ -94,9 +94,6 @@ every_new_vassal_becomes_obedient_tt: "Every gained [vassal|E] becomes [obedient
 gok_event_troops: "[ROOT.Char.GetCulture.GetNameNoTooltip] Horde"
 become_gok_decision_now_unavailable_tt: "@alert_icon! #alert_trial The #high $mpo_become_greatest_of_khans_decision$#! [decision|E] is now forever unavailable#!"
 
-gok_house_modifier: "The Golden Lineage"
-gok_house_modifier_desc: "What this bloodline has wrought on the world cannot be forgotten. They are the golden scions of fire and conquest."
-
  mpo_gok_onslaught_cb: "Greatest of Khans' Onslaught"
  MPO_GOK_ONSLAUGHT_NAME: "[ATTACKER.GetPrimaryTitle.GetAdjective] Onslaught into [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"
  MPO_GOK_ONSLAUGHT_NAME_MY: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Onslaught into [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"

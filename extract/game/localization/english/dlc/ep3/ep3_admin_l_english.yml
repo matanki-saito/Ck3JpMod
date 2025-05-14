@@ -14,7 +14,7 @@
  respected_despots_house_power: "Respected Despots"
  lofty_architects_house_power: "Lofty Architects"
 
- members_in_realm_desc: "Living [house|E] Members"
+ members_in_realm_desc: "Living [house|E] Members in [realm|E]"
  house_head_influence_level_desc: "[house_heads_possessive|E] [influence_level|E]"
  house_members_on_council_desc: "[house|E] Members on [top_liege|E]'s [council|E]"
  estate_buildings_desc: "[estate_buildings|E]"

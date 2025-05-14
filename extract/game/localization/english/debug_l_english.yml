@@ -545,3 +545,13 @@
  debug_change_steppe_havsarsan: "Havsarsan Zud"
  debug_change_steppe_everlasting_summer: "Everlasting Summer"
  interaction_debug_mpo: "#D DEBUG: #BER  Marco Polo#!#!"
+ 
+ debug_no: "No"
+ debug_not: "Not"
+ debug_yes: "Yes"
+ debug_and: "and"
+ debug_or: "or"
+ debug_but: "but"
+ debug_accept: "Accept"
+ debug_cancel: "Cancel"
+ debug_root_shortuiname: "[ROOT.Char.GetShortUIName]"

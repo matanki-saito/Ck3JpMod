@@ -194,3 +194,17 @@
  religious_interaction.2500.a:0 "Praise [ROOT.Char.GetFaith.HighGodName]!"
 
  religious_interaction.2501.desc:0 "Surely you must be joking? Your transparent attempts at a political escape will never deter the wrath of [recipient.GetFaith.HighGodName]!"
+ 
+ #########################
+ # Exaltation of Pain tenet
+ #########################
+
+ religious_interaction.2600.t: "Lessons in Grace"
+ religious_interaction.2600.desc.recipient: "[actor.GetTitledFirstName|U] gently takes my hand to guide me to an assortment of sharp, and blunt, objects that we will be using for our session. One of the blades catches the light and I feel a sense of peace coming over me.\n\nTool in hand, I motion for [actor.GetHerHim] to turn around, as [actor.GetSheHe] pulls up [actor.GetHerHis] shirt, exposing the untouched skin of the back. I get to work, and the low groans and grunts soon turn into a low humming noise at the back of [actor.GetHerHis] throat.\n\nI already know which tool I will use to fine tune my own grace."
+ religious_interaction.2600.desc.actor: "[recipient.GetTitledFirstName|U] carefully looks over the tools of transcendence, trembling ever so slightly in anticipation.\n\nI catch [recipient.GetHerHis] wrist, put the sharp blade in [recipient.GetHerHis] hand and gently press it to my chest. "Ever so gently? Steady hand, now. We tread a fine line here."\n\n[recipient.GetFirstNameNoTooltip] looks me in the eye and nods, then starts unbuttoning [recipient.GetHerHis] own shirt, exposing a patch of unscarred, pure skin, soon to receive the grace of [recipient.GetFaith.HighGodName]."
+ religious_interaction.2600.a: ""Let us transcend, together.""
+
+ religious_interaction.2610.desc: "I unfortunately have some important actions that need tending this time around... but let us worship with even more fervor next time!"
+ religious_interaction.2610.a: "What a shame."
+
+ attempted_transcendence_together_opinion: "Attempted Transcendence Together"

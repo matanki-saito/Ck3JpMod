@@ -283,5 +283,5 @@
  holy_order_government_filter_option_desc: "Only show characters with [holy_order|E] [government|E]"
  administrative_government_filter_option_desc: "Only show characters with [administrative|E] [government|E]"
  landless_adventurer_government_filter_option_desc: "Only show characters with [adventurer|E] [government|E]"
- nomad_government_filter_option_desc: ""
- herder_government_filter_option_desc: ""
+ nomad_government_filter_option_desc: "Only show characters with [nomadic_government|E]"
+ herder_government_filter_option_desc: "Only show characters with [herder|E|E] [government|E]"

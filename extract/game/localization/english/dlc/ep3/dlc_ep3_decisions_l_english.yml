@@ -527,14 +527,14 @@
 
  change_state_faith: "Change State Faith"
  change_state_faith_decision_desc: "Reforming the [state_faith|E] is a bold move. Reshaping the [ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip|l] spiritual tradition to match my vision... It will undoubtedly redefine the realm's identity and my legacy as [ROOT.Char.GetTitleAsNameNoTooltip]."
- change_state_faith_decision_selection_tooltip: "Institute a new [state_faith|E] for [ROOT.Char.GetPrimaryTitle.GetName|l]"
+ change_state_faith_decision_selection_tooltip: "Institute a new [state_faith|E] for [ROOT.Char.GetPrimaryTitle.GetDefinitiveName|l]"
  change_state_faith_confirm: "Let [ROOT.Char.GetPrimaryTitle.GetNameNoTooltip|l] embrace [ROOT.Char.GetFaith.GetNameNoTooltip]!"
  change_state_faith_effect_tt: "The [state_faith|E] of [THIS.Char.GetPrimaryTitle.GetName|l] changes to [THIS.Char.GetFaith.GetName|V]"
  vassals_change_state_faith: "Every non-[GetVassalStance( 'zealot' ).GetName] [vassal|E] with at least #P 30#! [opinion|E] of you ([THIS.ScriptValue('number_vassals_converting_to_new_state_faith')|V0])"
 
  adopt_state_faith: "Adopt State Faith"
  adopt_state_faith_decision_desc: "Adopting the [state_faith|E] of the [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetTierAsNameNoTooltip|l] marks a turning point. Aligning my spiritual path with the [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetTierAsNamePossessiveNoTooltip|l] will strengthen my position as [ROOT.Char.GetTitleAsNameNoTooltip], undoubtedly forging a deeper connection with my subjects."
- adopt_state_faith_decision_selection_tooltip: "Adopt the [state_faith|E] of [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetName|l]"
+ adopt_state_faith_decision_selection_tooltip: "Adopt the [state_faith|E] of [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetDefinitiveName|l]"
  adopt_state_faith_confirm: "In faith too, shall I serve [ROOT.Char.GetTopLiege.GetPrimaryTitle.GetNameNoTooltip|l]."
  every_governor_of_state_faith: "Every [THIS.Char.GetTopLiege.GetPrimaryTitle.MakeScope.Var('state_faith').Faith.GetAdjective] [vassal|E]"
 

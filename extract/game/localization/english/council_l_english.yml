@@ -309,6 +309,6 @@
  councillor_spouse_baron_possessive:0 "Baron's"
  
  councillor_leaving_court_message_title:0 "Councillor Left Court"
- councillor_leaving_court_marriage_notification:0 "Your [council_task.GetPositionName], [councillor.GetShortUINameNoTooltip|U], left [councillor.GetHerHis] position and your court as a result of [councillor.GetHerHis] marriage to a landed spouse."
- councillor_leaving_court_landed_notification:0 "Your [council_task.GetPositionName], [councillor.GetShortUINameNoTooltip|U], left [councillor.GetHerHis] position and your court as a result of [councillor.GetHerHim] inheriting a title."
- councillor_leaving_court_generic_fallback_notification:0 "Your [council_task.GetPositionName], [councillor.GetShortUINameNoTooltip|U], has left [councillor.GetHerHis] position and your court."
+ councillor_leaving_court_marriage_notification:0 "Your [council_task.GetPositionName], [councillor.GetShortUINameNoTooltip|U], left [councillor.GetHerHis] position and your [old_employer.Custom('GetCourtConcept')] as a result of [councillor.GetHerHis] [marriage|E] to a [landed|E] spouse. #weak [councillor.GetPrimarySpouse.GetShortUIName|U])#!"
+ councillor_leaving_court_landed_notification:0 "Your [council_task.GetPositionName], [councillor.GetShortUINameNoTooltip|U], left [councillor.GetHerHis] position and your [old_employer.Custom('GetCourtConcept')] after gaining a [title|E]. #weak ([councillor.GetPrimaryTitle.GetBaseName|V])#!"
+ councillor_leaving_court_generic_fallback_notification:0 "Your [old_employer.Custom2('RelationToMeShort', councillor)], [councillor.GetShortUINameNoTooltip|U], has left [councillor.GetHerHis] [council|E] position and your [old_employer.Custom('GetCourtConcept')]."

@@ -9,10 +9,10 @@
  bookmark_nomads_temujin: "High Chieftain Temüjin"
  bookmark_nomads_temujin_borte: "Borte"
  bookmark_nomads_temujin_hoelun: "Hoelun"
- bookmark_nomads_temujin_desc: "Temüjin was born with a blood clot in his right hand — a sign of extraordinary destiny. Though still young, he has already faced grave trials: the murder of his father, crushing hunger, and imprisonment by rival tribes. Yet his resolve remains unbroken, and now he gathers bold riders under his banner.\n\n#bold Let the earth quake beneath the thunderous hooves of your endless hordes, and make the world bend to your will!#!"
+ bookmark_nomads_temujin_desc: "[Concept( 'story_content_temujin', '$bm_story_content_available_icon|q$' )|E] [Concept( 'story_content_temujin', '$bm_story_content_available_copy|q$' )|E]\nTemüjin was born with a blood clot in his right hand — a sign of extraordinary destiny. Though still young, he has already faced grave trials: the murder of his father, crushing hunger, and imprisonment by rival tribes. Yet his resolve remains unbroken, and now he gathers bold riders under his banner.\n\n#bold Let the earth quake beneath the thunderous hooves of your endless hordes, and make the world bend to your will!#!"
 
  bookmark_nomads_jamukha: "Chieftain Jamukha"
- bookmark_nomads_jamukha_desc: "A formidable warrior in his own right, Jamukha has navigated boyhood with the aid of Temüjin, and in turn they have formed a bond stronger than those of blood. His innate pride compliments Temüjin's growing taste for power... but the two rarely agree on matters of leadership.\n\n#bold Sword of the Altai, shall you subjugate your #EMP anda#!, or perish in his shadow?#!"
+ bookmark_nomads_jamukha_desc: "[Concept( 'story_content_jamukha', '$bm_story_content_available_icon|q$' )|E] [Concept( 'story_content_jamukha', '$bm_story_content_available_copy|q$' )|E]\nA formidable warrior in his own right, Jamukha has navigated boyhood with the aid of Temüjin, and in turn they have formed a bond stronger than those of blood. His innate pride compliments Temüjin's growing taste for power... but the two rarely agree on matters of leadership.\n\n#bold Sword of the Altai, shall you subjugate your #EMP anda#!, or perish in his shadow?#!"
 
  bookmark_nomads_koncek: "Khan Könçek"
  bookmark_nomads_koncek_kotyan: "Kotyan"

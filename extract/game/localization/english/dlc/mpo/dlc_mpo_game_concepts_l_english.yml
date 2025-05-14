@@ -109,7 +109,7 @@
 
  game_concept_situation: "Situation"
  game_concept_situation_situations: "Situations"
- game_concept_situation_desc: "$game_concept_situation_situations$ are medium to long term affairs the involve characters within a geographical [situation_sub_region|E], switching between different [situation_phases|E]."
+ game_concept_situation_desc: "$game_concept_situation_situations$ are medium to long term affairs that involve characters within a geographical [situation_sub_region|E], switching between different [situation_phases|E]."
  game_concept_situation_phase: "Situation Phase"
  game_concept_situation_phase_desc: "Each $game_concept_situation_phase$ has its own modifiers and conditions that affect the involved characters.\n\nSome $game_concept_situation_phases$ are triggered by specific conditions, while others simply follow the passage of time."
  game_concept_situation_phases: "Situation Phases"

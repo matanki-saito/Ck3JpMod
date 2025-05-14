@@ -1084,4 +1084,11 @@
  action_offer_confederation_combined_label: "[recipient.GetPrimaryTitle.Custom('GetTierIcon')] [recipient.GetUINameNoTooltip]"
  action_offer_confederation_click: "#I Click to Offer Confederation#!"
  action_offer_confederation_HELP: "\n\n#help Weak [independent|E] [tribal|E] or [nomadic|E] Rulers may choose to join a [confederation|E], ceasing hostilities with one another and be gaining each others' assistance in defensive [wars|E]. This is especially when threatened by powerful, aggressive neighbors.#!"
+ action_join_tributary_war: "Join a War"
+ action_join_tributary_war_label: "@war_icon! You can join the[tributary_war.GetName] war against your Tributary, [recipient.GetShortUIName]"
+ action_join_tributary_war_desc: "You can join a [war|E] on [recipient.GetNamePossessive] side against [tributary_war_attacker.GetShortUIName]"
+ action_join_tributary_war_click: "#I Click to join a war#!"
+ action_join_tributary_war_combined_group_label: "You can Join Wars"
+ action_join_tributary_warcombined_label: "$action_can_start_join_war_contract_label$"
+
  

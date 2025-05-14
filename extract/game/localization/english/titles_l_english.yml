@@ -21830,7 +21830,8 @@
  
  # The following khanate names are entirely ficticious
  e_black_horde_article:0 "the "
- e_black_horde:0 "Black Horde"
+ e_black_horde:0 "Red Horde" 
+ # Red Horde is more correct with cardinal direction color assignment
  e_aarlud_khanate_article:0 "the "
  e_aarlud_khanate:0 "Aarlud Khanate"
  e_togskol_khanate_article:0 "the "

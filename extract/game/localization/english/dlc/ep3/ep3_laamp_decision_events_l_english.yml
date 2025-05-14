@@ -1022,6 +1022,8 @@ ep3_laamp_decision_event.1055.alert_partial.tt: "#alert_trial \n$BULLET_WITH_TAB
 
  #Custom loc
  local_holding_type_concept_no_holding: "[holding|E]"
+ local_holding_type_concept_nomad_holding: "[nomadic_holding|E]"
+ local_holding_type_concept_herder_holding: "[herder_holding|E]"
  local_holding_type_concept_tribal_holding: "[tribal_holding|E]"
  local_holding_type_concept_church_holding: "[church_holding|E]"
  local_holding_type_concept_temple_holding: "[temple_holding|E]"
@@ -1029,6 +1031,8 @@ ep3_laamp_decision_event.1055.alert_partial.tt: "#alert_trial \n$BULLET_WITH_TAB
  local_holding_type_concept_city_holding: "[city_holding|E]"
 
  local_holding_type_no_holding: "$game_concept_holding$"
+ local_holding_type_nomad_holding: "$game_concept_nomadic$ holding"
+ local_holding_type_herder_holding: "$game_concept_herder$ holding"
  local_holding_type_tribal_holding: "$game_concept_tribal$ holding"
  local_holding_type_church_holding: "$game_concept_church$ holding"
  local_holding_type_temple_holding: "$game_concept_temple$ holding"
@@ -1036,6 +1040,8 @@ ep3_laamp_decision_event.1055.alert_partial.tt: "#alert_trial \n$BULLET_WITH_TAB
  local_holding_type_city_holding: "$game_concept_city$ holding"
 
  local_holding_type_capitalized_no_holding: "Holding"
+ local_holding_type_capitalized_nomad_holding: "$game_concept_nomadic$ Holding"
+ local_holding_type_capitalized_herder_holding: "$game_concept_herder$ Holding"
  local_holding_type_capitalized_tribal_holding: "$game_concept_tribal$ Holding"
  local_holding_type_capitalized_church_holding: "$game_concept_church$ Holding"
  local_holding_type_capitalized_temple_holding: "$game_concept_temple$ Holding"

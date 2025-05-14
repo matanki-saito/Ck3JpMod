@@ -976,9 +976,11 @@
  stress_loss_irritable_decision_tooltip:0 "Let your mouth run loose to calm your mind"
  stress_loss_irritable_decision_confirm:0 "Hey! Hey you!"
 
- stress_loss_flagellant_decision:0 "Flagellate"
+ stress_loss_flagellant_decision: "Indulge in Flagellation"
+ stress_loss_flagellant_exaltation_decision_desc: "Nothing cleanses the mind like the catharsis of pain. The benefit of also feeling closer to [ROOT.Char.GetFaith.HighGodName] is... a... #EMP divine#! happenstance."
+ stress_loss_exaltation_decision_desc: "The flesh is here to serve as a vessel for a communion with [ROOT.Char.GetFaith.HighGodName]. Let me break the flesh that such a harmony may appear."
  stress_loss_flagellant_decision_desc:0 "Nothing cleanses the mind like the catharsis of pain. I will apply the whip to my own back until my mind clears."
- stress_loss_flaggelant_decision_effect_tooltip:0 "You will lose stress"
+ stress_loss_flaggelant_decision_effect_tooltip:0 "You will lose stress" #Not actually used atm
  stress_loss_flagellant_decision_tooltip:0 "Cleanse your mind with pain"
  stress_loss_flagellant_decision_confirm:0 "Ugh–!"
 
