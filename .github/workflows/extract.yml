@@ -58,3 +58,21 @@ jobs:
           ls
           cd game
           ls
+
+      - name: Extract files
+        run: |
+          python extract.py
+        env:
+          PARATRANZ_SECRET: ${{ secrets.PARATRANZ_SECRET }}
+          RUN_NUMBER: ${{ github.run_number }}
+
+      - name: push translation
+        run: |
+          git config --global user.email "matanki.saito@gmail.com"
+          git config --global user.name "matanki.saito"
+          git config --global url."https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
+          git add extract
+          git commit -m "Extract files from game [ci skip]"
+          git push origin HEAD:master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
