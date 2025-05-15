@@ -13,7 +13,7 @@
  diplomacy_family.0008.start.desc:1 "私がこの世から去れば、[disagreeable_heir.Custom2('MyCharacterIntroduction', ROOT.Char)]が代わりに領地を統治する。\n\nだが、[disagreeable_heir.GetFirstNamePossessiveNoTooltip]が"
  diplomacy_family.0008.lazy.desc:0 "恥ずべき無気力"
  diplomacy_family.0008.craven.desc:0 "ひどく臆病"
- diplomacy_family.0008.arbitrary.desc:0 "不道徳"
+ diplomacy_family.0008.arbitrary.desc:0 "規範意識に欠ける"
  diplomacy_family.0008.callous.desc:0 "ひどく冷血"
  diplomacy_family.0008.stubborn.desc:0 "腹が立つほど頑固"
  diplomacy_family.0008.gluttonous.desc:0 "汚らしい大食"

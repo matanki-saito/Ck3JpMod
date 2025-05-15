@@ -12,7 +12,7 @@
  pillage_intent: "略奪"
  pillage_intent_desc: "$pillage_intent_loot$\n$pillage_intent_flavor$"
  pillage_intent_loot: "#bol 戦利品の仕分け：#!\n\t\t$BULLET$[gold_i][gold|E]：#V 100%#!\n\t\t$BULLET$[prestige_i][prestige|E]：#N -150%#!"
- pillage_intent_flavor: "#weak 真の指導者とは、民を守るためならどれほど卑劣な手にも手を染めるものだ。\nたとえその名がどれほど汚れようとも。#!"
+ pillage_intent_flavor: "#weak 真の指導者とは、民を守るためならどれほど卑劣な手にも手を染めるものだ。たとえその名がどれほど汚れようとも。#!"
  plunder_intent_nomadic_tt: "あなたが[culture_head|E]では#bold ない#!"
  raze_intent_tt: "あなたの[dynasty|E]が[GetDynastyPerk('mpo_nomad_legacy_2').GetName]または[GetDynastyPerk('fp1_pillage_legacy_5').GetName]の[dynasty_perk|E]を保有して#bold いない#!"
  raze_intent: "破壊"

@@ -170,7 +170,7 @@
  MY_REALM_WINDOW_SUCCESSION_LAW_AND_DESC: "[Character.GetActiveLawInGroupWithFlag('succession_order_laws').GetName]"
  MY_REALM_WINDOW_SUCCESSION_TITLES_INHERITED: "[realm|E]の[Character.GetActiveLawInGroupWithFlag('succession_order_laws').GetName]に基づいて継承される称号"
  MY_REALM_WINDOW_SUCCESSION_TITLE_LOST_TO: "[Character.GetShortUIName]に譲渡される称号"
- MY_REALM_WINDOW_SUCCESSION_TITLES_LOST_TO: "$VALUE$[Character.GetShortUIName]に譲渡される称号"
+ MY_REALM_WINDOW_SUCCESSION_TITLES_LOST_TO: "[Character.GetShortUIName]に譲渡される$VALUE$つの称号"
  MY_REALM_WINDOW_MY_SUZERAIN: "我が[suzerain|E]"
  MRW_TT_HERD_TO_MY_LIEGE:1 "#weak あなたが[liege|E]に提供している[herd|E]#!"
  MRW_TT_TAXES_TO_MY_SUZERAIN: "#weak あなたが[suzerain|E]に支払っている[taxes|E]#!"
