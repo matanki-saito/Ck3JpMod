@@ -299,7 +299,7 @@
  diarch_request_imperial_expedition_interaction.tt.access_to_cb: "強力な[imperial_expedition_cb|E][casus_belli|E]を#EMP 一度#!使えるようになります"
  diarch_request_imperial_expedition_interaction.tt.governors_as_allies: "[war|E]の対象となる[ruler|E]と国境を接する全ての[governor|E]は[ally|E]として招集され、軍政総督は国境を接していなくとも全て戦争に加わります"
  diarch_request_imperial_expedition_interaction.tt.target_behaviour_explanation: "[war|E]は[realm|E]と国境を接する[duchies|E]、または[emperor|E]の[de_jure|E]に属する統治者を対象とすることができます。"
- diarch_request_imperial_expedition_interaction.tt.post_war: "[actor.GetShortUIName]が[_s(actor)]に勝利した場合、[CharYouSheHe(actor)]は次のいずれかになります：\n$EFFECT_LIST_BULLET$征服した領地を全て手に入れる#WEAK ([recipient.GetShortUIName]を怒らせます)#!\n$EFFECT_LIST_BULLET$[influence|E]と引き換えに領地を譲り渡す#WEAK (獲得した[counties|E]の数により変動します)#!"
+ diarch_request_imperial_expedition_interaction.tt.post_war: "[actor.GetShortUIName]が勝利した場合、[CharYouSheHe(actor)]は次のいずれかになります：\n$EFFECT_LIST_BULLET$征服した領地を全て手に入れる#WEAK （[recipient.GetShortUIName]を怒らせます）#!\n$EFFECT_LIST_BULLET$[influence|E]と引き換えに領地を譲り渡す#WEAK （獲得した[counties|E]の数により変動します）#!"
  ALLY_IN_IMPERIAL_EXPEDITION: "[imperial_expedition_cb|E]の支援を義務付けられた：$VALUE|=+0$"
  diarch_demand_despotate_interaction: "専制公領の私有化を要求する"
  diarch_demand_despotate_interaction_desc: "私も[recipient.GetTitleAsNameNoTooltip]なのか？私の言葉が無条件に法律となるような地域に、私は本当にそれに値する人間なのだろうか？"

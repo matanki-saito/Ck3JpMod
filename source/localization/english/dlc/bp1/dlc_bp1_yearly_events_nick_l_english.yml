@@ -69,7 +69,7 @@
  bp1_yearly.5702.a.tt.neutral:0 "あなたは何も学び取れなかったが、[skilful_friend.GetFirstNameNoTooltip]の努力に感謝する"
  bp1_yearly.5702.a.tt.failure:0 "[skilful_friend.GetFirstNameNoTooltip]が挫折して諦めるほどに、あなたは無能だ"
  bp1_yearly.5702.b:0 "私も彼らに負けていないと思う！"
- bp1_yearly.5702.b.tt.success:0 "コンテストで勝利した"
+ bp1_yearly.5702.b.tt.success:0 "大会で勝利した"
  bp1_yearly.5702.b.tt.failure:0 "コンテストで敗れた"
  bp1_yearly.5702.c:0 "私が[skilful_friend.GetHerHis]の域に達することはない！"
  bp1_yearly.5703.t:0 "奇妙な同衾者"

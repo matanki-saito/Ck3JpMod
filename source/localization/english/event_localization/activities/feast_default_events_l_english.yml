@@ -480,7 +480,7 @@
  feast_default.1030.equestrian:0 "[knight_3.GetCulture.GetCollectiveNounNoTooltip]の騎手、[knight_3.GetFirstName]？"
  feast_default.1030.intensity_neutral:0 "[knight_3.GetCulture.GetCollectiveNounNoTooltip]で最も優れた[knight_3.GetFirstName]？"
  feast_default.1030.courtly:0 "[knight_4.GetFirstName]と[knight_4.GetHerHis]の真の友情？"
- feast_default.1030.militant:0 "[knight_4.GetFirstName]と[knight_4.GetHerHis]の勝利した戦闘？"
+ feast_default.1030.militant:0 "[knight_4.GetFirstName]と、その者が制した数々の戦いのことか？"
  feast_default.1030.fighty_neutral:0 "[knight_4.GetFirstName]と[knight_4.GetHerHis]の名誉ある誓い？"
  feast_default.1030.wrap_up:0 "これらの戦いは過去のそれに匹敵する！」\n\n間違いなく、この饗宴の出演者たちが他の宮廷に行き着くにつれ、私のお気に入りの物語が何度も語り直されることになるだろう。"
  feast_default.1030.a:0 "[knight_1.GetFirstNameNoTooltip]、[accolade_1.GetNameNoTooltip]！"

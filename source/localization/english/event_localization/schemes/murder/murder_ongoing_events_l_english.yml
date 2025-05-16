@@ -1,5 +1,5 @@
 ﻿l_english:
- murder_event_title:0 "暗殺:"
+ murder_event_title:0 "暗殺："
  murder_ongoing.3010.t:0 "$murder_event_title$酔っ払いの刺客"
  murder_ongoing.3010.desc_opening:0 "[agent_in_question.GetTitledFirstName]は毎日のように飲んでいる。"
  murder_ongoing.3010.desc_hero:0 "[scheme.GetTargetCharacter.GetTitledFirstName]、[agent_hero_of_the_moment.GetTitledFirstName]について知る機会はいくらか得られたものの、[scheme.GetTargetCharacter.GetTitleAsNamePossessiveNoTooltip]の[target.Custom2('RelationToMe', SCOPE.sC('agent_hero_of_the_moment'))]と、私の刺客が言うには、あの酒飲みが[scheme.GetTargetCharacter.GetTitleAsNamePossessiveNoTooltip]の宮廷における[agent_hero_of_the_moment.GetHerHis]の地位を危うくするのではないかという懸念があるらしい。\n\n「[agent_in_question.GetHerHis]の怒りが、自制心を上回るのは時間の問題だ！」"
@@ -13,5 +13,5 @@
  murder_ongoing.3301.desc:0 "私の「儀式用のナイフ」はどこへ行ったのだ？！[target.GetTitledFirstNamePossessive]の引き出しに仕込んでおくはずだったのに！この頃研いでおいたはずだったのに！\n\n部屋をひっくり返して探したが、どこにも見つからない。"
  murder_ongoing.3301.a:0 "此処に置いていたはずなのに！"
  murder_ongoing.3302.t:0 "$murder_event_title$これを少し、あれも少し"
- murder_ongoing.3302.desc:0 "[herb_location.GetNameNoTooltip]の[herb_location.GetTerrain.GetNameNoTooltip|l]で旅をした時に摘んだ猛毒のハーブをふと思い出した。\n\nこれらは[target.GetHerHis]の生きたコイルから自由な[target.GetTitledFirstName]への探求の中の状況、#EMP よりよくする#!の助けになるに違いない。"
- murder_ongoing.3302.a:0 "これはいいものだ"
+ murder_ongoing.3302.desc:0 "ふと、[herb_location.GetNameNoTooltip]の[herb_location.GetTerrain.GetNameNoTooltip|l]を旅していたときに手に入れた薬草のことを思い出す。\n\nあれならきっと、[target.GetTitledFirstName]をこの世の苦しみから「解放」するという私の試みに、ひと味#EMP 彩り#!を加えてくれるはずだ。"
+ murder_ongoing.3302.a:0 "これはいいものだ。"

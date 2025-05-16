@@ -151,7 +151,7 @@
  catalyst_detractor_win_unfair_war_within_the_region: "$catalyst_win_any_war_within_the_region$"
  catalyst_detractor_win_unfair_war_within_the_region_desc: "[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]として他の[struggle_involved|E]の[ruler|E](自身より低い[title_tier|E])に対して開始された[war|E]に勝利した"
  catalyst_detractor_win_fair_war_within_the_region: "$catalyst_win_any_war_within_the_region$"
- catalyst_detractor_win_fair_war_within_the_region_desc: "[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]として他の[struggle_involved|E]の[ruler|E](自身と同じまたは上の[title_tier|E])に対して開始された[war|E]に勝利した"
+ catalyst_detractor_win_fair_war_within_the_region_desc: "[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]として他の[struggle_involved|E]の[ruler|E]（自身と同じまたは上級の[title_tier|E]）に対して開始された[war|E]に勝利した"
  catalyst_detractor_declare_unfair_war_within_the_region: "$catalyst_declare_any_war_within_the_region$"
  catalyst_detractor_declare_unfair_war_within_the_region_desc: "[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]である[struggle_involved|E]の[ruler|E]（自分未満の[title_tier|E]）との[war|E]を始める"
  catalyst_detractor_declare_fair_war_within_the_region: "$catalyst_declare_any_war_within_the_region$"

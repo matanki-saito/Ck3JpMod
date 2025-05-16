@@ -987,7 +987,7 @@
  game_concept_preparation_phase:0 "準備段階"
  game_concept_preparation_phase_desc:1 "$game_concept_preparation_phase$とは[undirected_great_holy_war|E]が宣言される前の段階です。\n\nこの期間中、攻撃側の[faith|E]の[rulers|E]は軍事支援の誓約か[war_chest|E]への寄付を選択出来ます。\n\n$game_concept_preparation_phase$が終わるまでの間はカウントダウンが行われ、その後に戦争が宣言されます。\n\n防衛側の[religions|E]の支配者たちはこの期間中に対抗の軍事支援を誓約できます。また、双方の戦力は概要から確認できます"
  game_concept_war_chest:0 "軍資金"
- game_concept_war_chest_desc:1 "$game_concept_war_chest$には[gold|E]、[piety|E]及び[prestige|E]が収蔵されています。これらは主に[undirected_great_holy_wars|E]に勝利した場合の成功報酬として使用され、[war|E]への関与具合に基づいて攻撃者たちの間で分配されます。\n\n$game_concept_war_chest$の中に納められたものの一部は戦争が宣言された際に攻撃者たちの間で分配されます。\n\n[undirected_great_holy_war|E]に敗北した場合、防衛の参加者たちの間で$game_concept_war_chest$の信仰と威信が分配されます。#weak (残りの資金は失われます)#!"
+ game_concept_war_chest_desc:1 "$game_concept_war_chest$には[gold|E]、[piety|E]及び[prestige|E]が収蔵されています。これらは主に[undirected_great_holy_wars|E]に勝利した場合の成功報酬として使用され、[war|E]への関与具合に基づいて攻撃者たちの間で分配されます。\n\n$game_concept_war_chest$の中に納められたものの一部は戦争が宣言された際に攻撃者たちの間で分配されます。\n\n[undirected_great_holy_war|E]に敗北した場合、防衛の参加者たちの間で$game_concept_war_chest$の信仰と威信が分配されます。#weak （残りの資金は失われます）#!"
  game_concept_crusade:0 "十字軍"
  game_concept_great_holy_war_undirected:0 "後援による"
  game_concept_crusades:0 "十字軍"

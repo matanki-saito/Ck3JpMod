@@ -75,7 +75,7 @@
  bp2_yearly.8021.desc.intro: "私たちは盤面と"
  bp2_yearly.8021.desc.stilts: "竹馬を準備する。私の小さな足は、この驚異的な高さで私を維持するのに苦労している。相手がグラグラしながらも高くまで登り、ついに勝負だ！"
  bp2_yearly.8021.desc.teetotum: "サイコロ独楽を準備する。私たちはその結果に賭けている。賭け金など何もないにもかかわらず、私はビー玉が没収されるとと心臓が高鳴るのを感じる。\n\nゲームは一進一退を繰り返し、ビー玉は取引をされ…"
- bp2_yearly.8021.desc.stilts.outro: "\n\n[other_child.GetFirstNameNoTooltip|U]へ結局数ヤードも進めずに突っ伏して私が勝利した。高みから敗北者を見下ろし、商品を手にする。"
+ bp2_yearly.8021.desc.stilts.outro: "\n\n[other_child.GetFirstNameNoTooltip|U]へ結局数ヤードも進めずに突っ伏して私が勝利した。高みから敗北者を見下ろし、勝利の褒美を手にする。"
  bp2_yearly.8021.desc.teetotum.outro: "最終的に私がすべてのビー玉を占有した。[other_child.GetFirstNameNoTooltip|U]はため息をつき、私が勝者であることが明らかとなった。"
  bp2_yearly.8021.a: "思ってたよりは簡単だったね！負け犬さん！"
  bp2_yearly.8021.b: "いい勝負だった。"
