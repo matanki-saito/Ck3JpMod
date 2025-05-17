@@ -291,7 +291,7 @@
  ep3_emperor_yearly.2330.b: "まあ、放っておいても大丈夫だろう……"
  state_faith_fervor_campaign: "国教支援活動"
  ep3_emperor_yearly.2340.t: "異端者はこの中に？"
- ep3_emperor_yearly.2340.desc: "「貴殿が、帝国と我らの偉大なる祖先たちが定めた正しき信仰に従っておらぬことは、もはや周知の事実ですな」[complainer.GetTitledFirstName]は、軽蔑を込めた口調で私を咎めた。\n\n「果たして、貴殿にその称号を冠する資格があるの？　そう問う声もございます。闇の中をさまよう者に、どうして民を光へと導けましょうか？\n\nお願い申し上げます。どうか、正しき信仰、[complainer.GetFaith.GetName]をお受け入れください！」"
+ ep3_emperor_yearly.2340.desc: "「貴殿が、帝国と我らの偉大なる祖先たちが定めた正しき信仰に従っておらぬことは、もはや周知の事実ですな」[complainer.GetTitledFirstName]は、軽蔑を込めた口調で私を咎めた。\n\n「果たして、貴殿にその称号を冠する資格があるのか。そう問う声さえございます。闇の中をさまよう者に、どうして民を光へと導けましょうか？\n\nお願い申し上げます。どうか、正しき信仰、[complainer.GetFaith.GetName]をお受け入れください！」"
  ep3_emperor_yearly.2340.a: "たしかに、従うべきかもしれぬ…。"
  ep3_emperor_yearly.2340.b: "そなたの異端めいた寝言で、この私が揺らぐとでも？"
  every_fellow_vassal_state_faith: " 国教に従っているすべての同輩の封臣"

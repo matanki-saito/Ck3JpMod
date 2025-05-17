@@ -630,7 +630,7 @@
  seasoned_visitor_decision_not_enough_poi_advanced: "#color_white 42か所の#! [points_of_interest|E]を訪れる #weak （現在：[THIS.Var('poi_visited').GetValue|V0]）#!"
  NOT_ARTIFACT_CREATOR: "宝物の製作者ではない"
  ep3_laamp_decision_event.1100.t: "$seasoned_visitor_decision$"
- ep3_laamp_decision_event.1100.desc: "輝く太陽が雪に覆われた山の頂を照らし、広がる都市の活気あふれる溝を彩り、最も敬虔な魂と最も堕落した魂を宿す寺院を照らす。\n\n人間が何世紀にもわたって築き上げた業績、そして[ROOT.Char.GetFaith.HighGodName]全能なる神の手によって作られた自然の驚異。私はそのすべてを見てきた。\n\n高貴な者から卑しい者まで、さまざまな人々と話をし、無数の生き方を目の当たりにしてきた。このような鋭い観察と欠けることのない記憶の宝庫は、少しでも好奇心を持つ者にとって、書き留められるならばかけがえのない驚異となるだろう……私がその気になればの話だが。"
+ ep3_laamp_decision_event.1100.desc: "輝く太陽が雪に覆われた山の頂を照らし、広がる都市の活気あふれる溝を彩り、最も敬虔な魂と最も堕落した魂を宿す寺院を照らす。\n\n人間が何世紀にもわたって築き上げた業績、そして至上の[ROOT.Char.GetFaith.HighGodName]の手によって作られた自然の驚異。私はそのすべてを見てきた。\n\n高貴な者から卑しい者まで、さまざまな人々と話をし、無数の生き方を目の当たりにしてきた。このような鋭い観察と欠けることのない記憶の宝庫は、少しでも好奇心を持つ者にとって、書き留められるならばかけがえのない遺産となるだろう……私がその気になればの話だが。"
  ep3_laamp_decision_event.1100.a: "私の想い出は私だけのものだ。"
  ep3_laamp_decision_event.1100.a.flavor: "どれだけ語っても、聞き手が心に留めるのは自分が期待していた言葉だけだ。"
  ep3_laamp_decision_event.1100.a.desc: "あなたは[THIS.Var('poi_visited').GetValue]か所の$game_concept_points_of_interest$を訪問した"

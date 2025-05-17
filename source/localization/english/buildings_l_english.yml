@@ -1448,7 +1448,7 @@
  building_shah_i_zinda_02: "シャーヒ・ズィンダのネクロポリス"
  building_shah_i_zinda_02_desc: "#italic 生ける王#!は霊廟、巨大な門、そしてトルコ青のタイルで覆われたドーム型の通路からなる広大なネクロポリスであり、預言者のいとこを含む古の偉大な諸侯の埋葬地である。この複合施設は常に拡張され続けており、崇高ながらも不気味で、印象的だ。"
  building_type_alamut_castle_01: "アラムート城"
- building_type_alamut_castle_01_desc: "「鷹の巣」を意味するこの城塞は聳え立つ岩山の上にあり、苦境のジュスタン朝が堡塁として築いたものである。その畏敬の念を呼び起こす立地と強固な城壁により、誰の目から見ても難攻不落であるように思われ、このような孤立した場所での繁栄を目指す好戦的な派閥や宗派にとっては理想的な拠点となるだろう。"
+ building_type_alamut_castle_01_desc: "「鷲の巣」を意味するこの城塞は聳え立つ岩山の上にあり、苦境のジュスタン朝が堡塁として築いたものである。その畏敬の念を呼び起こす立地と強固な城壁により、誰の目から見ても難攻不落であるように思われ、このような孤立した場所での繁栄を目指す好戦的な派閥や宗派にとっては理想的な拠点となるだろう。"
  building_alamut_castle_01: "$building_type_alamut_castle_01$"
  building_alamut_castle_01_desc: "$building_type_alamut_castle_01_desc$"
  building_type_alamut_castle_02: "アラムート要塞"

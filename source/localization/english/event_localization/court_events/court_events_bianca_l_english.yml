@@ -72,7 +72,7 @@
  court.3030.desc.lovers:1 "私は思わず[fussy_liw.GetHerHis]の感触に身を傾けるが、公の場にいることを思い出し、自分を止める。最愛の[fussy_liw.GetFirstNameNoTooltip]が私の服装にとても神経質なのは珍しいことではないが、"
  court.3030.desc.generic:1 "[fussy_liw.GetFirstNameNoTooltip]は人前で、私の服装を直すことについて気にも留めていないようだが、"
  court.3030.desc.ending:0 "私は[fussy_liw.GetSheHe]が私をまるで騒々しい子供のように扱っているような気がしてならない。\n\n黙って思いを巡らせていると、私は見物人が囁いていることに気づき、自身で声を上げる必要があると感じる！"
- court.3030.a:0 "大声で文句を言おう:「#EMP よくも#!#EMP 私に#!手を出したな！？」"
+ court.3030.a:0 "大声で文句を言おう：「#EMP よくも#!#EMP 私に#!手を出したな!?」"
  court.3030.b:0 "「こういう調整はもっとすぐに、もっと素早くやるべきだ！」"
  court.3030.c:0 "[fussy_liw.GetSheHe]は自身の仕事をしているだけ、何も言うまい。"
  court.3030.d:0 "「調整など必要ない。」"

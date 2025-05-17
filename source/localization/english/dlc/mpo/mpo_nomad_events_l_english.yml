@@ -151,7 +151,7 @@
  nomad_events.0140.c: "「立ち去れ、今すぐに」"
  nomad_events.0140.a.tt: "あなたの[merchant.GetFaith.GetName]への改宗費用が #P 50%#! 割引される"
  nomad_events.0150.t: "もう一杯！"
- nomad_events.0150.desc: "[Glossary( 'kumis', 'KUMIS_GLOSS')]が、なみなみと注がれた椀で次々と回されていく。「ほらほら！」と[companion.GetTitledFirstName]が身振りを交えて、もっと酒を求めている。「我が[ROOT.Char.GetTitleAsNameNoTooltip]のご命令だぞ！」[companion.GetSheHe]は笑いながらこちらを見て、「まったく、子馬みたいに遅いな！さあ急げ！」\n\n「ああっ！」ようやく椀が[companion.GetHerHis]の手に渡り、すぐさま[companion.GetSheHe]は私に差し出してきた。\n\n「さあ飲もう、我が[ROOT.Char.GetTitleAsNameNoTooltip]よ。夜はまだ若いが、我々はすぐにそうではなくなるのだからな！」"
+ nomad_events.0150.desc: "[Glossary( 'クミス', 'KUMIS_GLOSS')]が、なみなみと注がれた椀で次々と回されていく。「ほらほら！」と[companion.GetTitledFirstName]が身振りを交えて、もっと酒を求めている。「我が[ROOT.Char.GetTitleAsNameNoTooltip]のご命令だぞ！」[companion.GetSheHe]は笑いながらこちらを見て、「まったく、子馬みたいに遅いな！さあ急げ！」\n\n「ああっ！」ようやく椀が[companion.GetHerHis]の手に渡り、すぐさま[companion.GetSheHe]は私に差し出してきた。\n\n「さあ飲もう、我が[ROOT.Char.GetTitleAsNameNoTooltip]よ。夜はまだ若いが、我々はすぐにそうではなくなるのだからな！」"
  nomad_events.0150.a: "「腰抜けが誰か知ってるか？あの間抜けな[rival.GetFirstNameNoTooltip]さ」"
  nomad_events.0150.a.tt: "この選択肢はあなたが[rival|E]を持っているために使用可能です"
  nomad_events.0150.b: "「さあ飲もう！」"

@@ -125,7 +125,7 @@
  expand_power_base_invalidated_title: "@scheme_icon!権力基盤の拡大計画の終了"
  scheme_critical_moments.1182.t: "$scheme_critical_moments.1132.t$"
  scheme_critical_moments.1182.desc: "成功だ！[ROOT.Char.GetHouse.GetName]一門の名は、いまや[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetBaseName]でより重視されるようになった——少なくとも私に関してはそうだ。\n\nふさわしい地位のふさわしい人物に惜しみなく賄賂を渡し、貸しを作り、寄進した。わたしの影響力が増すにつれ、わたしの政治手腕も高まっている。"
- scheme_critical_moments.1182.a: "これは始まりにすぎない"
+ scheme_critical_moments.1182.a: "これは始まりにすぎない。"
  scheme_critical_moments.1183.t: "$scheme_critical_moments.1133.t$"
  scheme_critical_moments.1183.desc: "みんな私に感謝していない。\n\n賄賂を渡し、貸しを作り、寄進し、脅したというのに——私の影響力を広めるためには#EMP まったく役立たなかった#!！\n\nなにか別のことに注意を向けるべきだろう…"
  scheme_critical_moments.1183.a: "捨てる神あれば、さ…"

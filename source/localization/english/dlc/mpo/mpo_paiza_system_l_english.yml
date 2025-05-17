@@ -53,7 +53,7 @@
  mpo_decisions_events.2141.upon_merchant_return: "$mpo_decisions_events.0100.upon_merchant_return$"
  mpo_decisions_events.0100.upon_merchant_return: "[paiza_merchant.GetNameNoTooltip]が[paiza_merchant.GetHerHis]の[merchant_origin.GetName]への旅から戻るとき:"
  mpo_decisions_events.0101.t: "異国人の帰還"
- mpo_decisions_events.0101.desc: "[paiza_merchant.GetName]が到着し、長く過酷な旅を経て[merchant_origin.GetName]から戻り、今は私のゲルで[Glossary( 'kumis', 'KUMIS_GLOSS')]を啜っている。\n\n私が求めた貴重な品々が荷下ろしされている。草原の狼と都市の子羊が、たとえ一時でも共存する道を見つけたのだ。"
+ mpo_decisions_events.0101.desc: "[paiza_merchant.GetName]が到着し、長く過酷な旅を経て[merchant_origin.GetName]から戻り、今は私のゲルで[Glossary( 'クミス', 'KUMIS_GLOSS')]を啜っている。\n\n私が求めた貴重な品々が荷下ろしされている。草原の狼と都市の子羊が、たとえ一時でも共存する道を見つけたのだ。"
  mpo_decisions_events.0101.a: "素晴らしい！"
  mpo_decisions_events.0101.b: "遠き地の物語を聞かせてくれ"
  mpo_decisions_events.0101.b.desc: "[paiza_merchant.GetName]は[paiza_merchant.GetSheHe]の旅の途中で訪れた地についての物語であなたを楽しませてくれるだろう。"

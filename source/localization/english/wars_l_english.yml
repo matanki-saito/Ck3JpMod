@@ -299,7 +299,7 @@
  launch_hungarian_migration_scripted_effect.tt.mogyers_outside_pannonia:0 "$pecheneg_collective_noun$は$k_hungary$外に存在するあなたの[realm|E]内のすべての$mogyer$の[counties|E]に移動します"
  launch_hungarian_migration_scripted_effect.tt.territory_outside_pannonia.non_mogyer_vassals:0 "$k_hungary$外に存在する非$mogyer$の[vassals|E]は[independent|E]します"
  launch_hungarian_migration_scripted_effect.tt.territory_outside_pannonia.mogyer_vassals:0 "$k_hungary$外に存在する$mogyer$の[vassals|E]には、$k_hungary$内に存在する征服された予備の$game_concept_titles$から[titles|E]が割り当てられます。"
- launch_hungarian_migration_scripted_effect.tt.territory_outside_pannonia.former_territories:0 "$k_hungary$外に存在する$mogyer$の[vassals|E]により統治されている土地は、地元の勢力者に奪われます"
+ launch_hungarian_migration_scripted_effect.tt.territory_outside_pannonia.former_territories:0 "$k_hungary$外に存在する$mogyer$の[vassals|E]により統治されている土地は、地元の軍閥に奪われます"
  tribal_raid_cb:0 "略奪"
  TRIBAL_RAID_CB_NAME:0 "略奪された[DEFENDER.GetPrimaryTitle.GetNameNoTier]"
  TRIBAL_RAID_CB_SPECIFIC_NAME:0 "略奪された[DEFENDER.GetPrimaryTitle.GetNameNoTier]"
