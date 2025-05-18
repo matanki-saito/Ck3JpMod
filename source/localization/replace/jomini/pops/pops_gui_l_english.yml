@@ -60,7 +60,7 @@
  POPS_invalid-script-code:0 "クライアント障害 (無効なスクリプト)"
  J_POPS_BIND_ACCOUNT_TO_STEAM:0 "Steamアカウントに同期します"
  J_POPS_UNBIND_ACCOUNT_TO_STEAM:0 "Steamからアカウントの同期を解除しました"
- J_CREATE_SOCIAL_PROFILE_ERROR:0 "エラー: [CreateSocialProfile.GetErrorMessage]"
+ J_CREATE_SOCIAL_PROFILE_ERROR:0 "エラー：[CreateSocialProfile.GetErrorMessage]"
  J_CREATE_PROFILE:0 "プロフィールを作成"
  j_pops_profile_error_username_exists:0 "このユーザー名はすでに使われています\n別のユーザー名を指定してください。"
  j_pops_profile_error_profile_exists:0 "あなたはすでにプロフィール名を持っています"

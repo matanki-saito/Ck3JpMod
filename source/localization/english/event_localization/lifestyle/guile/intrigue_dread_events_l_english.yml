@@ -107,7 +107,7 @@
  intrigue_dread.4002.b.flavor:0 "私はこの先何年も[victim.GetHerHis]の叫びの記憶を大切にするだろう。"
  intrigue_dread.4002.c:0 "[victim.GetHerHis]の精神を破壊し私の奴隷としよう！"
  intrigue_dread.4002.c.flavor:0 "私は[victim.GetTitledFirstNamePossessiveNoTooltip]の人格を剥ぎ取り、[victim.GetHerHim]を私の忠実な下僕にするという、長く苦しい過程を開始するだろう。"
- intrigue_dread.4002.c.compassionate.tt:0 "警告: 私の情け深い性格のため、この道を歩むと、私の[stress|E]がかなり増加します。"
+ intrigue_dread.4002.c.compassionate.tt:0 "警告：私の情け深い性格のため、この道を歩むと、私の[stress|E]がかなり増加します。"
  intrigue_dread.4002.c.success.desc:0 "[victim.GetFirstNamePossessiveNoTooltip]の心を自分の目的に合わせて整形することに成功する"
  intrigue_dread.4002.c.failure.desc:0 "[victim.GetFirstNameNoTooltip]は私の過程が完了する前に死んでしまう"
  intrigue_dread.4002.d:0 "気が変わった、[victim.GetSheHe]はこれに向いていない…"

@@ -97,7 +97,7 @@
  ABSOLUTE_COUNTY_CONTROL: "絶対的支配"
  COUNTY_CONTROL_VALUE_DISPLAY:0 "$VALUE|0$"
  COUNTY_CONTROL_OUT_OF_MAX:0 "$VALUE|0$/$MAX|0$"
- COUNTY_CONTROL_NO_EFFECTS: "現在影響はありませんが、支配が100未満になると領内の[levies|E]と[taxes|E]が減少します。"
+ COUNTY_CONTROL_NO_EFFECTS: "現在影響はありませんが、支配が100未満になると領内の[levies|E]と[taxes|E]が減少します"
  COUNTY_CONTROL_LEVIES_MULT: "@soldier_icon!伯爵領の[levies|E]が$MULT|%+0=$変化します"
  COUNTY_CONTROL_TAX_MULT: "@gold_icon!伯爵領の[taxes|E]が$MULT|%+0=$変化します"
  COUNTY_DEVELOPMENT_LEVIES_MULT:1 "[levies|E]が$MULT|%+1$増加します"

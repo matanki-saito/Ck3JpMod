@@ -25,7 +25,7 @@
  feast_main_live_fowl.0006.entremets_served:0 "召使いたちが立派に飾り付けられたアントルメ——皮を剥ぎ、調理され詰め物をされたあと、美々しい羽毛に飾られた[ROOT.GetCharacter.Custom('exotic_fowl_type')]を何羽も運んでいる。しかし、[fowl_dinner_target.GetTitledFirstName]が[fowl_dinner_target.GetHerHis]のナイフをそのひとつに近づけた時、一羽がけたたましく鳴きながら目を醒ました！それは[fowl_dinner_target.GetFirstNamePossessive]の鼻を突いて、悲鳴と笑い声を上げている客のあいだからぱっと飛び出してきた。"
  feast_main_live_fowl.0006.bird_chased_by_character:0 "\n\n私はすぐに、他の客に感銘を与える機会を掴んだ。私はできうる限り威厳のある振る舞いで鳥を出口へと追い立てた。いくつかのテーブルを横切ってしまったし、あるいは少しばかり熱心に追いかけすぎてしまったかもしれないが、私は印象的な見せ物を提供したのだった。小さなドラゴンが夜の澄んだ空気の中へ逃れ去った時、私はなにか連帯感のようなものを得られた気がした。"
  feast_main_live_fowl.0006.a:0 "ちょっと待て、皆に笑われているのか？"
- feast_main_live_fowl.1001.t:1 "トリのご馳走——辛い記憶"
+ feast_main_live_fowl.1001.t:1 "トリのご馳走：辛い記憶"
  feast_main_live_fowl.1001.desc:1 "宴会の忌々しいあの鳥め！やつの残した傷はきれいに治ると思っていたが、私の顔にはひどい傷痕が残ってしまった！"
  feast_main_live_fowl.1001.a:0 "私の真の宿敵を永遠に思い出させるだろう…"
  fowl_dinner_peacock:0 "孔雀"

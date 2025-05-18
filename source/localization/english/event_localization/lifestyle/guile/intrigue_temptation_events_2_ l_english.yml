@@ -49,7 +49,7 @@
  intrigue_temptation.3120.b:0 "頼まれれば、月を連れてくるよ。"
  intrigue_temptation.3120.c:0 "束の間かもしれないが、素晴らしい友情に乾杯！"
  intrigue_temptation.3130.t:0 "冷たい心とともに"
- intrigue_temptation.3130.desc:0 "[rival_main.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が私の怒りを煽ってくるので、私はなぜ喧嘩したのか思い出せない日もある。まあ今となってはどうでもいい。私は[rival_main.GetHerHis]の[rival_spouse.GetWifeHusband]である[rival_spouse.GetFirstName]を抱き締め、[rival_spouse.GetHerHis]の情熱は燃え上がっている。\n\nすぐに、私の意地の悪い笑顔と、稼ぎのいい噂話の間で、[rival_main.GetFirstNameNoTooltip]は知ることになるだろう。いや私は#EMP きっと#![rival_main.GetFirstNameNoTooltip]に知らせてやる。\n\n一度の禁断のキスがこのライバル関係を封印する。"
+ intrigue_temptation.3130.desc:0 "[rival_main.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私を激しい怒りに駆り立てる。もはや、なぜ我らが争っているのかすら思い出せぬ日があるほどに。だが、もはや理由など些細なことだ。[rival_main.GetHerHis]の[rival_spouse.GetWifeHusband]、[rival_spouse.GetFirstName]をこの腕に抱きその情熱を燃え上がらせているのだから。\n\nやがて、私の嘲るような笑みと金で口を滑らせた噂屋たちによって、[rival_main.GetFirstNameNoTooltip]にも知れ渡ることとなろう。#EMP 必ず#![rival_main.GetFirstNameNoTooltip]に知らしめてやる。\n\nひとつの禁断の口づけが、この宿怨に決定的な刻印を与えるのだ。"
  intrigue_temptation.3130.a:0 "あなたは#EMP 本物#!の[ROOT.Char.GetWomanMan]にキスをしたことがあるかい？"
  intrigue_temptation.3130.a.tt_success:0 "キスをして、そして次は…"
  intrigue_temptation.3130.a.tt_fail:0 "[rival_spouse.GetFirstNameNoTooltip]は身を引き離す"

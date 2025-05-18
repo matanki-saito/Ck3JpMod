@@ -6,7 +6,7 @@
  legitimize_bastard_interaction_notification:0 "私生児の認知"
  legitimize_bastard_interaction_decline_notification:0 "認知されていない私生児"
  I_AM_HOUSE_HEAD_MODIFIER:0 "私が一族の長だ、私が自由に決める"
- PRESTIGOUS_IN_OUR_HOUSE:0 "名声のレベル: $VALUE|+0$"
+ PRESTIGOUS_IN_OUR_HOUSE:0 "名声のレベル：$VALUE|+0$"
  house_bastard_was_legitimized:0 "王室の私生児が認知された"
  dynasty_bastard_was_legitimized:0 "王家の私生児が認知された"
  bastard_interaction.0001.t:0 "[actor.GetHouse.GetBaseName]家"

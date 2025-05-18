@@ -67,7 +67,7 @@
  GHW_CHANGE_TARGET:0 "戦争目標の変更"
  GHW_CHANGE_TARGET_TT:0 "#T 戦争目標の変更\n#![piety|E]を消費して、他の[kingdom|E]を戦争目標に選択します"
  GHW_PLEDGE_FIRST_TT:0 "戦争目標を変更する前に参戦を誓う必要があります"
- GHW_MY_RANK_TT:1 "#T [contribution|E]順位: [GreatHolyWarWindow.GetRankForCharacter( GetPlayer )]\n#!勝利時には、他のすべての参戦者と比較した[contribution|E]スコアに基づいて、よりよい階級と[title|E]があなたの[beneficiary|E]に与えられます！"
+ GHW_MY_RANK_TT:1 "#T [contribution|E]順位：[GreatHolyWarWindow.GetRankForCharacter( GetPlayer )]\n#!勝利時には、他のすべての参戦者と比較した[contribution|E]スコアに基づいて、よりよい階級と[title|E]があなたの[beneficiary|E]に与えられます！"
  GHW_MY_SHARE_TT:1 "#T [war_chest|E]の取り分：[GreatHolyWarWindow.GetScore( GetPlayer ).GetScorePercent|0V/%]\n#!他のすべての参戦者と比較した[contribution|E]スコアに基づいて、あなたは[gold|E]、[piety|E]、[prestige|E]を[war_chest|E]から得られます"
  GHW_MY_SCORE_TT:0 "[GreatHolyWarWindow.GetScoreBreakdown( GetPlayer )]"
  GHW_MY_SCORE_OTHER_TT:0 "[GreatHolyWarWindow.GetScoreBreakdown( Character.Self )]"

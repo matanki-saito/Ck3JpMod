@@ -624,7 +624,7 @@
  building_the_friday_mosque_01:0 "$building_type_the_friday_mosque_01$"
  building_the_friday_mosque_01_desc:0 "$building_type_the_friday_mosque_01_desc$"
  building_type_brihadeeswarar_temple_01:0 "ブリハディーシュワラ寺院"
- building_type_brihadeeswarar_temple_01_desc:0 "ブリハディーシュワラ寺院は、ヒンドゥー教のシヴァ神を祀っており、華やかなドラーヴィダ様式で建てられた南インド最大の寺院の一つである。寺院の名前はサンスクリット語の合成語で、「大いなる神シヴァ神」（ブリハディー: 大いなる神、シュワラ: シヴァ神）と大雑把に訳す。"
+ building_type_brihadeeswarar_temple_01_desc:0 "ブリハディーシュワラ寺院は、ヒンドゥー教のシヴァ神を祀っており、華やかなドラーヴィダ様式で建てられた南インド最大の寺院の一つである。寺院の名前はサンスクリット語の合成語で、「大いなる神シヴァ神」（ブリハディー：大いなる神、シュワラ：シヴァ神）と大雑把に訳す。"
  building_brihadeeswarar_temple_01:0 "$building_type_brihadeeswarar_temple_01$"
  building_brihadeeswarar_temple_01_desc:0 "$building_type_brihadeeswarar_temple_01_desc$"
  building_type_holy_site_mahabodhi_temple_01:0 "マハーボーディ寺院"

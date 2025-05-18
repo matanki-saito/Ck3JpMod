@@ -6,7 +6,7 @@
  TITLES:0 "[titles|E]"
  DIPLOMACY:0 "外交"
  MY_REALM:0 "我が領国"
- DOMAIN_LIMIT_TOOLTIP_HEADER:0 "#T [domain|E] : [CHARACTER.GetDomainSize]/[CHARACTER.GetDomainLimit][holdings|E]#!"
+ DOMAIN_LIMIT_TOOLTIP_HEADER:0 "#T [domain|E]：[CHARACTER.GetDomainSize]/[CHARACTER.GetDomainLimit][holdings|E]#!"
  DOMAIN_LIMIT_EXCEEDED_TOOLTIP:0 "@warning_icon!#X [domain_limit|E]を超えています。あなたの[vassals|E]に称号を与えて、あなたの[domain|E]の一部を支配させましょう。#!\n"
  DOMAIN_LIMIT_GRACE_PERIOD_LIST: "[recently_acquired_holdings|E]：\n[GetPlayer.GetDomainLimitGracePeriodHoldings]"
  DOMAIN_LIMIT_GRACE_PERIOD_SINGULAR_LIST: "[recently_acquired_holding|E]：\n[GetPlayer.GetDomainLimitGracePeriodHoldings]"

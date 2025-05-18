@@ -25,7 +25,7 @@
  war_1066_Harald_Invasion:0 "ノルウェーによるイングランド侵攻"
  war_1066_Seljuk_Invasion:0 "セルジュークによるアルメニア侵攻"
  war_1066_Sinhalese_Rebellion:0 "シンハラ反乱"
- debug_bm_1340_history:0 "#D History Debug: 1340#!"
+ debug_bm_1340_history:0 "#D History Debug：1340#!"
  debug_bm_1340_history_desc:0 "1340年までのデバッグ履歴を実行します"
  KING_MALCOLM:0 "マルカム王"
  KING_HAROLD:0 "ハロルド王"

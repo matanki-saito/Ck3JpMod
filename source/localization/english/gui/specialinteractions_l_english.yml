@@ -476,7 +476,7 @@
  CLOSE_FAMILY_REASON:0 "我々は[close_family|E]である：$VALUE|=+0$"
  EXTENDED_FAMILY_REASON:0 "我々は[extended_family|E]である：$VALUE|=+0$"
  AI_MILITARY_BALANCE_REASON:0 "軍事力の違い：$VALUE|=+0$"
- grant_title_modifier_courtly_lowborn_grant_penalty:0 "どの[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName][vassal|E]([actor.MakeScope.ScriptValue('number_of_courtly_vassals')|V0])の[actor.GetShortUIName]への[opinion|E]が、今後#V 10年間#!にわたり[SCOPE.ScriptValue('courtly_vassal_lowborn_grant_penalty')|+0]増加します#weak （卑しい身分の者への授与に難色を示す）#!"
+ grant_title_modifier_courtly_lowborn_grant_penalty:0 "全ての[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName][vassal|E]([actor.MakeScope.ScriptValue('number_of_courtly_vassals')|V0])の[actor.GetShortUIName]への[opinion|E]が、今後#V 10年間#!にわたり[SCOPE.ScriptValue('courtly_vassal_lowborn_grant_penalty')|+0]変化します#weak （下民への成り上がりに対する忌避）#!"
  GRAND_WEDDING_PROMISE_INFO:5 "#T グランドウェディングの約束を取りつける\n#![GetActivityType( 'activity_wedding' ).GetName]の主催を約束することで、[marriage|E]を受け付けてもらいやすくなります。\n\n平均コスト：[gold_i][actor.MakeScope.ScriptValue('ui_avg_wedding_cost')|0V]\n\n@alert_icon!#alert_trial [spouses|E]が双方とも[adults|E]を迎えるも、3年以内に開催の約束をあなたが果たさなかった時、深刻な問題を引き起こします#!"
  grand_wedding_already_promised_tt:1 "[GetActivityType( 'activity_wedding' ).GetName]の約束は同時に2つ以上することは出来ない"
  grand_wedding_only_dominant_side:0 "[GetActivityType( 'activity_wedding' ).GetName]の約束は婚姻を申し出る側のみが行えます"

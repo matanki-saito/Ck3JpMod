@@ -67,7 +67,7 @@
  CV_HOOKS_HEADER:1 "あなたの[hooks|E]"
  CV_HOOKS_ON_CHARACTER_HEADER:1 "あなたの[CharacterWindow.GetCharacter.GetNameOrMe]に対する[hooks|E]"
  CV_TARGET_HOOKS_HEADER:1 "[CharacterWindow.GetCharacter.GetNamePossessiveOrMy|U]のあなたに対する[hooks|E]"
- HEALTH_INFO:0 "[health|E]: $STATE$"
+ HEALTH_INFO:0 "[health|E]：$STATE$"
  HEALTH_DYING:0 "#N 瀕死#!"
  HEALTH_NEAR_DEATH:0 "#N 重体#!"
  HEALTH_POOR:0 "#Z 不良#!"

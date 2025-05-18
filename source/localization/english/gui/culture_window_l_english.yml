@@ -8,7 +8,7 @@
  CULTURE_WINDOW_ERA_DISCOVERED_BY:0 "[CULTURE.GetName]に伝播"
  CULTURE_WINDOW_CULTURE_HEAD_TITLE:0 "[culture_head|E]：[Character.GetUIName|U]"
  CULTURE_WINDOW_HEAD_FASCINATION:0 "[fascination|E]：[CultureWindow.GetCulture.GetFascination.GetName]"
- CULTURE_WINDOW_CULTURE_HEAD_INFO: "#weak [CULTURE.GetNameNoTooltip]文化の[counties|E]を最も多く[realm|E]におさめている統治者 ($COUNT|V$)#!"
+ CULTURE_WINDOW_CULTURE_HEAD_INFO: "#weak [CULTURE.GetNameNoTooltip]文化の[counties|E]を最も多く[realm|E]におさめている統治者（$COUNT|V$）#!"
  CULTURE_WINDOW_MY_CULTURE_INFO: "#weak あなたは領国内に$COUNT|V$の[CULTURE.GetNameNoTooltip]の伯爵領を持っています。#!"
  CULTURE_WINDOW_INNOVATIONS:0 "[Culture.GetNameNoTooltip]の[innovations|E]"
  CULTURE_WINDOW_CULTURE:1 "[Culture.GetNameNoTooltip]文化"

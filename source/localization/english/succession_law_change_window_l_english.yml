@@ -7,7 +7,7 @@
  SUCCESSION_LAW_CHANGE_WINDOW_CHOOSE_NEW:0 "利用可能な[SuccessionLawChangeWindow.GetLaws.GetLawGroup.GetName]"
  SUCCESSION_LAW_CHANGE_WINDOW_PARTITION_LAWS: "複数の[realm_heirs|E]"
  SUCCESSION_LAW_CHANGE_WINDOW_SINGLE_HEIR_LAWS: "ただ一人の[realm_heir|E]"
- SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST: "コスト: [SuccessionLawChangeWindow.GetSelectedLaw.GetShortCostString]"
+ SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST: "コスト：[SuccessionLawChangeWindow.GetSelectedLaw.GetShortCostString]"
  SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST_TOOLTIP:0 "#T コスト#!\n[SuccessionLawChangeWindow.GetSelectedLaw.GetCostDescription]"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE:0 "#weak 賛同#!"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE:0 "#X 反対#!"
