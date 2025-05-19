@@ -9,7 +9,7 @@
  pilgrimage.6002.b:0 "#EMP 歩みは止めぬ！#!"
  pilgrimage.6002.c:0 "さっさと進むぞ…"
  pilgrimage.6002.d:0 "巡礼の旅で酒場を訪れる野蛮人がいるのだろうか。"
- pilgrimage.6003.desc:0 "私たちは満員の酒場に入り、[friend.GetFirstNameNoTooltip]はすぐに二杯の[ROOT.Char.Custom('RegionalDrink')]を注文した。私たちは座って吟遊詩人の物語を聞き、酒を楽しみ、断続的に人生の苦悩や勝利を語り合った。\n\n[ROOT.Char.GetFaith.HighGodName]にかけて、汗をかいて苦労して進んできた後のこれはリフレッシュだ。私は杯を掲げて叫ぶ: 「今日の旅の後に、このような素晴らしい休息を提案してくれた友人[friend.GetFirstNamePossessiveNoTooltip]の健康に乾杯！」\n\n酒場では、私の素晴らしい友人を祝って杯を掲げ、皆が深く飲み干した。"
+ pilgrimage.6003.desc:0 "私たちは満員の酒場に入り、[friend.GetFirstNameNoTooltip]はすぐに二杯の[ROOT.Char.Custom('RegionalDrink')]を注文した。私たちは座って吟遊詩人の物語を聞き、酒を楽しみ、断続的に人生の苦悩や勝利を語り合った。\n\n[ROOT.Char.GetFaith.HighGodName]にかけて、汗をかいて苦労して進んできた後のこれはリフレッシュだ。私は杯を掲げて叫ぶ。「今日の旅の後に、このような素晴らしい休息を提案してくれた友人[friend.GetFirstNamePossessiveNoTooltip]の健康に乾杯！」\n\n酒場では、私の素晴らしい友人を祝って杯を掲げ、皆が深く飲み干した。"
  pilgrimage.6003.a:0 "「次の注文は私がおごる！」"
  pilgrimage.6003.b:0 "私たちがいないことが気づかれないよう、野営地に戻ろう。"
  pilgrimage.6003.b.tt:0 "あなたと[friend.GetFirstNameNoTooltip]は夜の終わりを宣言し、野営地に戻ります。"

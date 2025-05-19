@@ -35,7 +35,7 @@
  child_personality.7401.change.eccentric: "「試しに同時にやるというのは？」"
  child_personality.7401.change.fickle: "「人の心は流れる水のようなものだよ。」"
  child_personality.7401.change.stubborn: "「お前はどっしりと構え、他の人を動かす立場にならねば。」"
- stress_threshold.2360.t: "精神崩壊: 訪問者"
+ stress_threshold.2360.t: "精神崩壊：訪問者"
  stress_threshold.2360.desc: "ようやく、[ROOT.Char.Custom('GetCourt')|l]生活のストレスから一息つこうと、自分の[ROOT.Char.Custom('GetChamber')|l]で安らぎを見つける。しかし、眠りかけた瞬間、ドアをリズミカルに叩く音が鳴り響き、眠れなくなってしまった。\n\n真夜中の訪問者が誰かを確認するために[ROOT.Char.Custom('GetDoor')]を開けてみると、小さな黒い鳥に顔を襲われた。\n\n通常ならば[ROOT.Char.GetFaith.CreatorNamePossessive]の創造物たちのひとつが訪れることは贈り物なのだろうが、この小さな黒い厄介者は絶え間なく[ROOT.Char.Custom('GetRoom')|l]の中で羽ばたき、私に向かってけたたましく鳴き叫んでいる。拳を握りしめ、心臓の高鳴りを感じている。"
  stress_threshold.2360.a.eccentric.gain: "こいつは私に話しかけている。"
  stress_threshold.2360.a.eccentric.effect: "あぁ、こんな時間にお客様！ちょっとおしゃべりしようか？"

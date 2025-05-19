@@ -1,6 +1,6 @@
 ﻿l_english:
  activity_wedding:0 "グランドウェディング"
- activity_wedding_selection_tooltip:1 "二人の結婚を盛大に祝う[GetActivityType('activity_wedding').GetName]を主催します\n\n予想される報酬:\n$BULLET_WITH_TAB$[prestige_i][prestige|E]\n$BULLET_WITH_TAB$[opinion_i][opinion|E]\n$BULLET_WITH_TAB$[stress_loss_i][stress|E]解消"
+ activity_wedding_selection_tooltip:1 "二人の結婚を盛大に祝う[GetActivityType('activity_wedding').GetName]を主催します\n\n予想される報酬：\n$BULLET_WITH_TAB$[prestige_i][prestige|E]\n$BULLET_WITH_TAB$[opinion_i][opinion|E]\n$BULLET_WITH_TAB$[stress_loss_i][stress|E]解消"
  activity_wedding_desc:0 "カップルの成立を盛大に祝いましょう。\n\nしかし、これは単なる結婚式とは大違いです。それは貴族としての影響力を示す場であり、貴族が外交、誘惑、殺人の芸術を実践するために集まる社交の場なのです…あと友人と酒を飲み交わすことも出来ます。"
  activity_wedding_host_desc:0 "$BULLET_WITH_TAB$指定した[spouses|E]が[married|E]します\n$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$[legitimacy_i][legitimacy|E]\n$BULLET_WITH_TAB$客人からの[opinion|E]\n$BULLET_WITH_TAB$[GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName][vassals|E]の[opinion|E]\n$BULLET_WITH_TAB$ [GetTrait('lifestyle_reveler').GetName( GetNullCharacter )][trait_level_track_xp|E]獲得の可能性\n$BULLET_WITH_TAB$[stress_loss_i][stress|E]解消の可能性\n$BULLET_WITH_TAB$[GetModifier( 'gwedding_magnificent_host_modifier' ).GetNameWithTooltip|L]獲得の可能性\n$BULLET_WITH_TAB$[GetModifier( 'gwedding_gracious_host_modifier' ).GetNameWithTooltip|L]獲得の可能性"
  wedding_need_to_promise:0 "[GetActivityType( 'activity_wedding' ).GetName]の主催する[grand_wedding_promised|E]が必要です"

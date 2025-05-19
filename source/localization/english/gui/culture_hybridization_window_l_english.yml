@@ -2,7 +2,7 @@
  HYBRIDIZE_CULTURE_EXECUTE_LABEL:0 "混合文化を形成"
  HYBRIDIZE_CULTURE_EXECUTE_TOOLTIP:0 "#T $HYBRIDIZE_CULTURE_EXECUTE_LABEL$#!\n[GetPlayer.GetCulture.GetNameNoTooltip]と[Culture.GetNameNoTooltip]、両文化の側面を組み合わせた新しい[hybrid_culture|E]を形成します\n\n[HybridizationWindow.GetHybridizeBlockers]"
  HYBRIDIZE_CULTURE_WINDOW_TITLE:0 "混合文化を形成"
- HYBRIDIZATION_TOTAL_COST:0 "コスト: [HybridizationWindow.GetHybridizeCostString]"
+ HYBRIDIZATION_TOTAL_COST:0 "コスト：[HybridizationWindow.GetHybridizeCostString]"
  HYBRIDIZATION_COST_TOOLTIP:0 "#T コスト：[HybridizationWindow.GetHybridizeCostString]#!\n[HybridizationWindow.GetHybridizeCostBreakdown]"
  CULTURE_CREATION_NAMING_HEADER:0 "名前を選んでください…"
  CULTURE_CREATION_NAME_TOOLTIP:0 "新しい[culture|E]の名前を入力する"

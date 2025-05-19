@@ -1,5 +1,5 @@
 ﻿l_english:
- abduct_event_title:0 "誘拐:"
+ abduct_event_title:0 "誘拐："
  do_not_execute_abduct_tooltip:0 "私は誘拐などしません"
  abduct_outcome.1001.t:0 "$abduct_event_title$ 街道上の襲撃"
  abduct_outcome.1001.opening:1 "私の手の者によれば、[target.GetTitledFirstName]が旅に出ているとのことだ。"

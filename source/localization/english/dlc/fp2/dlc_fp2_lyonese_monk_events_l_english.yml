@@ -1,6 +1,6 @@
 ﻿l_english:
- fp2_lyonese_monk.0000.t.revealed:0 "奇妙な教え:"
- fp2_lyonese_monk.0000.t.council:0 "コンクラーベ:"
+ fp2_lyonese_monk.0000.t.revealed:0 "奇妙な教え："
+ fp2_lyonese_monk.0000.t.council:0 "コンクラーベ："
  fp2_lyonese_monk_cancel_chain_effect.tt:0 "捕らえようとしたところ、[acolyte.GetFirstName]は殺されてしまいます"
  fp2_lyonese_monk.0000.tt.continues_to_teach:0 "[acolyte.GetFirstName]は教えを続けます"
  fp2_lyonese_monk.0000.tt.teachings_fade:0 "[acolyte.GetFirstNamePossessive]の教えは消えていきます"

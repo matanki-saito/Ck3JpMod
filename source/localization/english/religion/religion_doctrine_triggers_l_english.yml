@@ -56,7 +56,7 @@
  DOCTRINE_REQUIRES_THEOCRATIC_HEAD_OF_FAITH_TRIGGER:0 "[doctrine|E][spiritual_head_of_faith|E]が必要"
  INCOMPATIBLE_TENET_SACRIFICIAL_CEREMONIES_TRIGGER:0 "[GetFaithDoctrine('tenet_sacrificial_ceremonies').GetName( GetPlayer.GetFaith )]の[core_tenet|E]とは両立しない"
  INCOMPATIBLE_TENET_CONSOLAMENTUM_TRIGGER:0 "[GetFaithDoctrine('tenet_consolamentum').GetName( GetPlayer.GetFaith )]の[core_tenet|E]とは両立しない"
- INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_VS_FORBIDDEN_PILGRIMAGES:0 "[doctrine|E]$doctrine_pilgrimage_name$とは両立しない: [GetFaithDoctrine('doctrine_pilgrimage_forbidden').GetBaseName]"
+ INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_VS_FORBIDDEN_PILGRIMAGES:0 "[doctrine|E]$doctrine_pilgrimage_name$とは両立しない：[GetFaithDoctrine('doctrine_pilgrimage_forbidden').GetBaseName]"
  REQUIRES_EXALTATION:0 "[core_tenet|E]$tenet_carnal_exaltation_name$が必要"
  FEDAYEEN_REQUIRED_DOCTRINES_TRIGGER: "[core_tenets|E]の一つが必要：\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_warmonger').GetName( GetPlayer.GetFaith )]\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_unrelenting_faith').GetName( GetPlayer.GetFaith )]\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_consolamentum').GetName( GetPlayer.GetFaith )]\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_armed_pilgrimages').GetName( GetPlayer.GetFaith )]\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_struggle_submission').GetName( GetPlayer.GetFaith )]\n$BULLET_WITH_TAB$[GetFaithDoctrine('tenet_pursuit_of_power').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_COMMUNION_TRIGGER: "[core_tenet|E][GetFaithDoctrine('tenet_communion').GetName( GetPlayer.GetFaith )]とは両立しない"

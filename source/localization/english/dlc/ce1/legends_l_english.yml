@@ -19,7 +19,7 @@
  legend_ending_decision_tt: "#EMP $commission_legend_artifact_decision$#!の[decision|E]により、あなたの伝説を記録する年代記の執筆を依頼できます。"
  LEGEND_CAN_NOT_PROMOTE: "@warning_icon! #X あなたはすでに[Legend.GetName]を[promoting_legend|E]しています#!"
  legend_already_promoting_legend_tt: "あなたはすでに[Legend.GetName]を[promoting_legend|E]しています"
- legend_can_not_promote_tt: "以下のいずれかを満たす必要があります:#!\n@warning_icon! #X あなたが[legend.GetOwner.GetName]と同じ言語を話す#!\n@warning_icon! #X [legend.GetName]があなたの領国と隣接する州に存在している#!\n@warning_icon! #X [legend.GetOwner.GetName]があなたの$game_concept_lovers$である#!\n@warning_icon! #X [legend.GetOwner.GetName]があなたの$game_concept_friends$である#!"
+ legend_can_not_promote_tt: "以下のいずれかを満たす必要があります：#!\n@warning_icon!#X あなたが[legend.GetOwner.GetName]と同じ言語を話す#!\n@warning_icon! #X [legend.GetName]があなたの領国と隣接する州に存在している#!\n@warning_icon!#X [legend.GetOwner.GetName]があなたの$game_concept_lovers$である#!\n@warning_icon!#X [legend.GetOwner.GetName]があなたの$game_concept_friends$である#!"
  legend_no_legend: "あなたはいかなる[legends|E]も後援していません"
  LEGEND_PROMOTER_MODIFIERS: "[legend_promoter|E]の補正値"
  LEGEND_PROVINCE_MODIFIERS_SUBTEXT: "#S $PROVINCE_MODIFIERS$#!\n[Legend.GetImpactModifiers( 'province' )]"

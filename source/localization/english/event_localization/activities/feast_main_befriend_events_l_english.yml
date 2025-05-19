@@ -23,7 +23,7 @@
  feast_main_befriend.2002.arrogant_guest:1 "上級貴族全員が壇上から男爵たちと$knight_culture_player_plural_no_tooltip_lowercase$のいるフロアに移されたことが私には信じられなかった。[activity.GetOwner.GetTitledFirstName]は私を何だと思っているのか？単なる平民か？私は自分の気持ちをできるだけ多くの人に知ってもらった、私の周りにいる似非貴族たちは除いて！"
  feast_main_befriend.2002.disgusted_by_kindness:0 "\n\n私の傷口に塩を塗るかのように、[kind_to_lower_nobility.GetTitledFirstName]は一晩中、この人々の間で「親切」で「謙虚」だと称賛されていた。[kind_to_lower_nobility.GetSheHe]には自尊心というものはないのだろうか？"
  feast_main_befriend.2002.a:0 "私を農民と比べるようなものだ。"
- feast_main_befriend.2002.because_of_hospitality_tenet:1 "あなたの[faith|E]が客を敬うことを期待しているため:"
+ feast_main_befriend.2002.because_of_hospitality_tenet:1 "あなたの[faith|E]が客を敬うことを期待しているため："
  feast_main_befriend.2003.t:2 "ハイテーブルが壊れた"
  feast_main_befriend.2003.opening:0 "食堂の上座にある上級貴族たちのいる貴賓席がバキバキと大きな音を立てたかと思うと、料理や金めっきのされた装飾の重みで崩れ落ちた。我々は全員、大広間にいる下級貴族たちの間に移動しなければならなかった。"
  feast_main_befriend.2003.arrogant_guest:0 "\n\n[arrogant_guest.GetTitledFirstName]は、[arrogant_guest.GetHerHis]の新しい席に気分を害し、庶民より少しましな程度の人々を席を共にすることが、いかに不当な仕打ちであるかを皆に話した。"

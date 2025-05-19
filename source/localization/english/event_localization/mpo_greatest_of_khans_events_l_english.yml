@@ -121,7 +121,7 @@
  mpo_greatest_of_khans.0030.a.flavor: "定住の暮らしは劣位である。人を弱くするのだ。我が帝国に属する民なれば、選ばねばならぬ。家を捨て、遊牧の生を選ぶか……あるいは死ぬか。"
  mpo_greatest_of_khans.0030.b: "[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]に秩序を。官僚制の整備を進めよ。"
  mpo_greatest_of_khans.0030.b.flavor: "世界各地で偉大な官僚帝国は長く続き、その広大な版図をよく治めた実績がある。"
- mpo_greatest_of_khans.0030.c: "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]に法を敷くのは封建の階級だ。"
+ mpo_greatest_of_khans.0030.c: "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]の支配を盤石とするための封建的階層制。"
  mpo_greatest_of_khans.0030.c.flavor: "我ら遊牧民にとって、誓いとは馴染み深いものだ。そして封建の言葉に宿る名誉にも、どこか心惹かれるものがある……。"
  mpo_greatest_of_khans.0030.d: "氏族が勝ち取った、ならばその法にて治めるべきだ。"
  mpo_greatest_of_khans.0030.d.flavor: "[ROOT.Char.GetHouse.GetName]氏族の栄光が最も輝くのは……我らが団結し、血縁に従って領土を治めるときである。"

@@ -7,7 +7,7 @@
  feasts_mischievous_t3_modifier_desc:0 "証明はできないが、このキャラクターが常に次の「いたずら」を計画していることは公然の秘密である。"
  feast_learnt_habits_modifier:0 "観察された習慣"
  feast_learnt_habits_modifier_desc:0 "一人でいるときの標的の個人的な習慣は、陰謀者に知られている"
- feast_learnt_habits_modifier.tt:0 "$feast_learnt_habits_modifier$: $VALUE|+0=-+$"
+ feast_learnt_habits_modifier.tt:0 "$feast_learnt_habits_modifier$：$VALUE|+0=-+$"
  feast_events_ewan.0001.t:0 "頭を冷やせ"
  feast_events_ewan.0001.desc.intro:0 "気分転換のために喧騒から離れる…そうした外に出る時間を全く取らずに、饗宴で騒ぎ続けられる人はまずいない。\n\n幸いなことに、[intent_target.GetTitledFirstName]もその例外ではないようだ。近くの奥まった小室から、私は[intent_target.GetSheHe]が"
  feast_events_ewan.0001.desc.high_place:0 "この高く人気のない塔の窓から外を見つめているのを見つけた。死ぬほど美しい景色を眺める此奴を——上手く、鋭く、一度突きさえすれば私の問題はすべて解決する。全ては事故にしか見えないだろう。"

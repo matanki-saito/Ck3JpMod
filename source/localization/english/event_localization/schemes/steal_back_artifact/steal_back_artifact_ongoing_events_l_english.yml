@@ -1,5 +1,5 @@
 ﻿l_english:
- steal_back_artifact_event_title:1 "宝物を盗む:"
+ steal_back_artifact_event_title:1 "宝物を盗む："
  steal_back_artifact_ongoing.1001.t:0 "$steal_back_artifact_event_title$ 古物蒐集家"
  steal_back_artifact_ongoing.1001.desc:0 "宝物を回収する明白な障害物は[target.GetTitledFirstNamePossessive]の古物蒐集家[antiquarian.GetTitledFirstName]だ。\n\nもちろん、#EMP 取引#!…のやり方は沢山ある。しかし、疑問なのは[antiquarian.GetFirstNameNoTooltip]が相応の賄賂により、見て見ぬふりができる人間なのかということだ。"
  steal_back_artifact_ongoing.1001.a:0 "金は贈賄のための世界共通言語である。"

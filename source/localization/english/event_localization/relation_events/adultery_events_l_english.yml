@@ -121,7 +121,7 @@
  adultery.2001.desc_end:1 "\n\n私は[adultery_child.Custom('GetDaughterSon')]である[adultery_child.GetTitledFirstName]の立場を軽々しく疑っているわけではないが、疑念が私の心を苦しめている。"
  adultery.2001.a:0 "確認する必要がある!"
  adultery.2001.b:0 "当然、[adultery_child.GetSheHe]は私の[adultery_child.Custom('GetDaughterSon')]だ。"
- adultery.2001.a.tt:0 "[adultery_child.GetFirstNameNoTooltip]が私の本当の子供ではない場合:"
+ adultery.2001.a.tt:0 "[adultery_child.GetFirstNameNoTooltip]が私の本当の子供ではない場合："
  adultery.2001.a.duel_success:1 "身内から首尾よく探り出す"
  adultery.2001.a.duel_failure:1 "真実を明らかにしようとするも捕まる"
  adultery.2002.t_a:0 "我々の子供"

@@ -1,5 +1,5 @@
 ﻿l_english:
- travel_danger_prefix:0 "危険:"
+ travel_danger_prefix:0 "危険："
  travel_danger_events.1000.t:1 "$travel_danger_prefix$もぐら塚を抜けて山"
  travel_danger_events.1000.desc:0 "どこまでも丘陵地帯が続き、一行はすっかり疲れ果てていた。終わりの見えない丘を眺めながらため息をついていると、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('travel_leader'))]である[travel_leader.GetFirstName]が近づいてきて言った。\n\n「[ROOT.Char.GetLadyLord]様、私たちの騎獣どももこのような道を歩き続けることは厳しいと思います。この子達をそろそろ休ませてあげなければ、潰れてしまうのではないかと不安に感じております。一旦立ちどまり、まとまった休みをとらなければ！」\n\n[travel_leader.GetSheHe|U]も[destination.GetName]への旅路が遅れることになることを承知しての進言であろうが…"
  travel_danger_events.1000.a:0 "よく言った。一度休むのが賢明だろう。"

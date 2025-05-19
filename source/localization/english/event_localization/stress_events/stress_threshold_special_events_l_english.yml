@@ -1,5 +1,5 @@
 ﻿l_english:
- stress_threshold_special.1001.t:0 "精神崩壊: 激しい悲しみ"
+ stress_threshold_special.1001.t:0 "精神崩壊：奔流のごとき悲嘆"
  stress_threshold_special.1001.desc_intro_standard:0 "人生とは決して楽なものではない。しかし、我が[ROOT.Char.Custom2('RelationToMeShort', deceased_character)][deceased_character.GetFirstName]の喪失によって、私は人生の崖っぷちへと追い込まれてしまった。そんな気がしている。\n\n"
  stress_threshold_special.1001.desc_intro_lover:0 "私の人生から光は消えてしまった。\n\n私の[deceased_character.Custom('LoverPetName')][deceased_character.GetFirstName]の死と共に、突然、人生はより暗いものへと変わった。"
  stress_threshold_special.1001.desc_intro_friend:0 "友人である[deceased_character.GetFirstName]はいつも私のそばにいてくれた。[deceased_character.GetHerHis]の死を簡単受け入れられるとは思っていなかったが、こんなに大変だとは 想像もしていなかった。"
@@ -21,7 +21,7 @@
  stress_threshold_special.1001.frozen_grief:0 "頑張らなくては。それこそ[deceased_character.GetSheHe]が望んでいたことだ。"
  stress_threshold_special.1001.lunatic:0 "だが[deceased_character.GetSheHe]はいなくなったわけじゃない！[deceased_character.GetSheHe|U]は確かに私と一緒にここにいるんだ…"
  stress_threshold_special.1001.lunatic.flavor:0 "…そして[deceased_character.GetSheHe]は、私とずっと一緒にいる！"
- stress_threshold_special.2001.t:0 "精神崩壊: 抑圧された欲求"
+ stress_threshold_special.2001.t:0 "精神崩壊：抑圧された欲求"
  stress_threshold_special.2001.beginning:0 "ああ、かつての放蕩と欲望にまみれた日々が懐かしくてたまらない。私は長らく他の人と一緒に寝ていない…一人きりで寝るのは苦痛だ。\n\n"
  stress_threshold_special.2001.consort:0 "私は[ROOT.Char.Custom2('RelationToMe', target)]である[target.GetFirstName]が、[target.GetHerHis]のベッドに戻ってきた私を両手を広げて歓迎してくれることを知っている。[target.GetSheHe|U]は私を求めており、私もそれを知っている…ああ、[target.GetHerHim]をどれほど待ち焦がれていたことか！"
  stress_threshold_special.2001.noble:0 "私は[target.Custom2('MyCharacterIntroduction', ROOT.Char)]が私を見つめる目を見てきた。[target.GetSheHe|U]は私を求めており、私もそれを知っている…ああ、[target.GetHerHim]をどれほど待ち焦がれていたことか！"

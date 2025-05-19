@@ -1,5 +1,5 @@
 ﻿l_english:
- elope_event_title:0 "駆け落ち:"
+ elope_event_title:0 "駆け落ち："
  elope.0001.t:0 "$elope_event_title$ 闇に守られて"
  elope.0001.positive.desc:0 "準備はすっかり整った。脱出ルートは調査済みだし、衛兵たちも買収済みで、[target.GetTitledFirstName]のほうも準備はできている。今夜[location.GetNameNoTooltip]に夜の帳が下りるとともに、私は我が[target.Custom('LoverPetName')]を自由の身にして、[target.GetHerHim]を私の[target.GetWifeHusband]とするのだ。"
  elope.0001.negative.desc:0 "リストは一通り暗記した。脱出ルートは調査済みだし、衛兵たちは買収できたはずだし、上手くいけば、私が送ったメモは[target.GetTitledFirstName]の手元に行くだろう。だが上手くいかなければ？多分[target.GetSheHe]は受け取っていない！しかも他のことも上手くいかないかもしれない…\n\n疑心暗鬼にとらわれている暇はない。チャンスは一度きりなのだ。何があろうとも[target.GetHerHim]のもとに行くか、この試みを諦めるかのどちらかだ。"

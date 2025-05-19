@@ -155,7 +155,7 @@
  learning_scholarship_special.3005.a_alchemist:0 "我らは真の変性に一歩前進といえるだろうか？"
  learning_scholarship_special.3006.desc_alchemist:0 "鉛糖と海藻の灰の混合液を沸騰させると、混合液は突然、きらめく黄色に変じた。\n\n本物の金を作り出すことは出来なかったが、出来た溶液は、鮮やかさではサフランに匹敵する染料になることがわかった。染料を売れば経費の足しになるかもしれない。"
  learning_scholarship_special.3007.desc_alchemist:0 "焼いた海藻を水に混ぜると、ただならぬ量の汚らしく茶色のカスが残された。この時点でどうすればいいかわからないので、我々は鉛糖を混ぜてみたが目に見える変化は起きなかった。\n\n残念にも、私が考えられるこの実験の唯一の使いみちは、肥料としての利用だった。"
- bibliomancy_chain_header:0 "神聖な文章:"
+ bibliomancy_chain_header:0 "神聖な文章："
  learning_scholarship.5000.t:0 "神聖な文章"
  learning_scholarship.5000.desc:0 "私が市場を散策していると、一人の商人から呼びかけられた。私の興味を引く何かを持っていると力説している。\n\n屋台に近づくと、乾燥した薬草と外国のチンキ剤の香りに圧倒される。[merchant_mystic.GetSheHe|U]は埃まみれの本やその他の宝物のコレクションの中から何かを探していた。\n\nやがて商人は古い本を取り出すと、それが私にとって「来るべき何か」に必要なものだと力強く売り込み始めた。"
  learning_scholarship.5000.a:0 "よし、話を聞いてやろう。"

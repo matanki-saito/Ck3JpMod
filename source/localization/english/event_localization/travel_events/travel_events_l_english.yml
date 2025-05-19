@@ -1,5 +1,5 @@
 ﻿l_english:
- travel_event_prefix:0 "旅:"
+ travel_event_prefix:0 "旅："
  travel_events.0010.t:0 "道の終わり"
  travel_events.0010.intro:0 "私は食卓に座って、断食を解こうとしているが、空腹感はすっかり消え去っている。私の[ROOT.Char.Custom2('RelationToMe',messenger)]、[messenger.GetFirstNameNoTooltip]が厳かに近づいてくるのを見て、何かがおかしいと感じ、それが真実であるとわかる。\n\n「[ROOT.Char.GetTitleAsNameNoTooltip]様、夜に使者が到着し、悲報を伝えてまいりました。」[messenger.GetSheHe]は穏やかに言う。\n\n「その…お悔やみ申し上げます。あなたの[ROOT.Char.Custom2('RelationToMe',predecessor)]、[predecessor.GetTitledFirstNameNoTooltip]が[predecessor.GetDeathReason]のです。"
  travel_events.0010.to_activity:0 "[predecessor.GetSheHe|U]は[predecessor_location.GetName]で[travel_destination.GetNameNoTooltip]へ向かっている途中でした、"

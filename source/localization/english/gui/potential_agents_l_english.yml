@@ -22,7 +22,7 @@
  BEFRIEND_MUTUAL_FRIENDS:0 "「私の友人にも友人になってほしい！」：$VALUE|=+0$"
  BEFRIEND_WOULD_MAKE_GOOD_FRIEND:0 "標的を気にかけている：$VALUE|=+0$"
  BEFRIEND_WOULD_MAKE_BAD_FRIEND:0 "標的を気にかけている：$VALUE|=+0$"
- BEFRIEND_WANTS_PEOPLE_TO_GET_ALONG:0 "みんなに仲良くしてもらいたい: $VALUE|=+0$"
+ BEFRIEND_WANTS_PEOPLE_TO_GET_ALONG:0 "みんなに仲良くしてもらいたい：$VALUE|=+0$"
  SEDUCE_IS_SPOUSE:0 "「私たちの結婚は神聖なものだ！」：$VALUE|=+0$"
  SEDUCE_IS_LOVER:0 "これ以上愛人を作らせないで！：$VALUE|=+0$"
  NO_POTENTIAL_MEMBERS:0 "#weak 誘えるスパイがいません#!"

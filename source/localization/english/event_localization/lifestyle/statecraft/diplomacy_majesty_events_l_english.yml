@@ -14,7 +14,7 @@
  diplomacy_majesty.0004.extroverted:0 "他に類を見ない社交性を褒めてみよう。"
  diplomacy_majesty.0004.dominant:0 "主張の強い存在感を褒めてみよう。"
  diplomacy_majesty.0004.fallback:0 "…いや、どうでもいいな。私は[compliment_receiver.GetHerHim]を侮辱してしまうかもしれないのが怖い！"
- diplomacy_majesty.0004.compliment.tt:0 "[compliment_receiver.GetTitledFirstNamePossessive]の反応は、この選択肢がどれだけ[compliment_receiver.GetHerHim]に適しているかによって決まるでしょう:"
+ diplomacy_majesty.0004.compliment.tt:0 "[compliment_receiver.GetTitledFirstNamePossessive]の反応は、この選択肢がどれだけ[compliment_receiver.GetHerHim]に適しているかによって決まるでしょう："
  diplomacy_majesty.0004.success.tt:1 "あなたの誉め言葉は歓迎される"
  diplomacy_majesty.0004.neutral.tt:1 "あなたの誉め言葉は失敗する"
  diplomacy_majesty.0004.failure.tt:1 "誉め言葉が侮辱として受け止められる"

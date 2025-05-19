@@ -122,7 +122,7 @@
  stewardship_duty.4040.c.success:0 "[my_vassal.GetFirstNameNoTooltip]は契約変更をしぶしぶ受け入れる"
  stewardship_duty.4040.c.failure:0 "[my_vassal.GetFirstNameNoTooltip]は契約変更を拒否する"
  stewardship_duty.4040.d:0 "忠誠の方が徴募兵より大切だ。"
- stewardship_duty.4040.d.tt:0 "#F 我が祝福とともに[my_vassal.GetFirstNameNoTooltip]は現契約を維持します:#!"
+ stewardship_duty.4040.d.tt:0 "#F 我が祝福とともに[my_vassal.GetFirstNameNoTooltip]は現契約を維持します：#!"
  stewardship_duty.4040.contractchange:0 "[my_vassal.GetTitledFirstNamePossessive]との契約は私の望むように変更される。"
  stewardship_duty.4041.desc:0 "より負担が多い契約を受け入れるよう[my_vassal.GetTitledFirstName]を説得する努力のなかで、私は[my_vassal.GetHerHim]と腰掛けて契約を更新すべきあらゆる理由を説明した。\n\nはじめは抵抗していたが、議論を続けていくうちに[my_vassal.GetHerHis]との契約を変更すべきだと同意してもらうことが出来た。"
  stewardship_duty.4041.a:0 "[my_vassal.GetHerHim]を間違いなく説得できるとわかっていた！"

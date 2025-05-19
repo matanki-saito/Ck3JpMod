@@ -1,6 +1,6 @@
 ﻿l_english:
  insult_poetry.0001.t:0 "侮辱だ！"
- insult_poetry.0001.from_other:0 "[actor.GetTitledFirstName]が一通の詩を贈ってきた:\n"
+ insult_poetry.0001.from_other:0 "[actor.GetTitledFirstName]が一通の詩を贈ってきた：\n"
  insult_poetry_line_1_a_01:1 "#EMP \nあなたは[ROOT.GetCharacter.Custom('rhyme_group_a_one')]よりも愚かだ#!"
  insult_poetry_line_1_a_02:1 "#EMP \nあなたは [ROOT.GetCharacter.Custom('rhyme_group_a_one')]よりも醜い#!"
  insult_poetry_line_1_b_01:1 "#EMP \nあなたは[ROOT.GetCharacter.Custom('rhyme_group_b_one')]よりも愚かだ#!"

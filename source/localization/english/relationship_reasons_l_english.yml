@@ -1154,7 +1154,7 @@
  rival_wooed_spouse_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は、[TARGET_CHARACTER.GetShortUINamePossessive]の配偶者を口説こうとした[CHARACTER.GetShortUIName]を牢に放り込んだ。"
  rival_you_won_boardgame_challenge:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]との緊迫したボードゲームに勝った。"
  rival_you_won_boardgame_challenge_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUIName]との緊迫したボードゲームに勝った。"
- lover_covered_excreta:0 "[CHARACTER.GetShortUIName|U]: 「[TARGET_CHARACTER.GetShortUIName]が糞尿桶を[CHARACTER.GetShortUINamePossessiveNoTooltip]の頭にぶちまけたのに、[CHARACTER.GetShortUIName|U]はずいぶんと愛想よく対応した。"
+ lover_covered_excreta:0 "[CHARACTER.GetShortUIName|U]：「[TARGET_CHARACTER.GetShortUIName]が糞尿桶を[CHARACTER.GetShortUINamePossessiveNoTooltip]の頭にぶちまけたのに、[CHARACTER.GetShortUIName|U]はずいぶんと愛想よく対応した。"
  lover_covered_excreta_corresponding:0 "[CHARACTER.GetShortUIName]が糞尿桶を[TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip]の頭にぶちまけたのに、[TARGET_CHARACTER.GetShortUIName|U]はずいぶんと愛想よく対応した。"
  lover_witch_sex_partner:0 "[CHARACTER.GetShortUIName|U]と[TARGET_CHARACTER.GetShortUIName]は、「礼拝式」の夜のどさくさに恋人同士になった。"
  lover_joker_charmed:0 "[CHARACTER.GetShortUIName|U]は[TARGET_CHARACTER.GetShortUIName]を際どい冗談で魅了した。"

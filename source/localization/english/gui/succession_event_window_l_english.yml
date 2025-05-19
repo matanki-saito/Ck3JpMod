@@ -227,7 +227,7 @@
  SUCCESSION_TITLES_TAB_TT:0 "#T 称号を表示\n#!$SUCCESSION_LOST_TITLES$"
  SUCCESSION_LINEAGE_TAB_TT:0 "#T  家系を表示#!"
  SUCCESSION_INHERITED_TITLES:0 "継承した称号"
- SUCCESSION_LOST_TITLES:0 "[Select_CString( EqualTo_int32( SuccessionEventWindow.GetNumberOfLostTitles, '(int32)0' ), '', '@warning_icon!')]称号が継承で失われました: [SuccessionEventWindow.GetNumberOfLostTitles]"
+ SUCCESSION_LOST_TITLES:0 "[Select_CString( EqualTo_int32( SuccessionEventWindow.GetNumberOfLostTitles, '(int32)0' ), '', '@warning_icon!')]称号が継承で失われました：[SuccessionEventWindow.GetNumberOfLostTitles]"
  SUCCESSION_LOST_TITLE_SHARE:0 "[SuccessionEventWindowLostTitlesItem.GetHeir.GetUINameNoTooltip]"
  SUCCESSION_RELATION_HOUSE: "[house|E]のメンバー"
  SUCCESSION_RELATION_DYNASTY: "[dynasty|E]のメンバー"

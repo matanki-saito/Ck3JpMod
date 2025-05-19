@@ -9,7 +9,7 @@
  playdate_conc_reward:0 "[ROOT.Char.GetShortUINameNoTooltip]が主催した仲間の集いは成功に終わった"
  activity_playdate:0 "仲間の集い"
  activity_playdate_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]の仲間の集い"
- activity_playdate_selection_tooltip:1 "我が領国の全ての子供に招待状を送る。楽しもう、色んな歳の子と会おう、そして遊ぼう！\n\n予想される報酬:\n$BULLET_WITH_TAB$[opinion_i][opinion|E]"
+ activity_playdate_selection_tooltip:1 "我が領国の全ての子供に招待状を送る。楽しもう、色んな歳の子と会おう、そして遊ぼう！\n\n予想される報酬：\n$BULLET_WITH_TAB$[opinion_i][opinion|E]"
  activity_playdate_desc:1 "全ての[EmptyScope.ScriptValue('less_than_two_years_to_adulthood_value')|0V]歳以下の小さな紳士淑女諸君に領国への招待状を送る。それは仲間と最高に楽しいことをするためだ！"
  activity_playdate_host_desc:0 "$BULLET_WITH_TAB$参加者は出席した人たちへの[opinion|E]を得る"
  activity_playdate_owner:0 "主催者"

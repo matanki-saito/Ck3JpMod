@@ -10,7 +10,7 @@
  send_poem_interaction.success:0 "詩が称賛される"
  send_poem_interaction.failure:0 "詩が嘲笑される"
  trait_specific_interactions.000.generate_poem:1 "#POE [actor.Custom('GeneratePoem_Title')]#!\n[actor.Custom('GeneratePoem_Intro_Rhyming')]\n[actor.Custom('GeneratePoem_Outro_Rhyming')]"
- trait_specific_interactions.000.intro.part1:0 "私の[recipient.Custom2('RelationToMe', SCOPE.sC('actor'))]である[actor.GetTitledFirstName]の最新作が、最近[actor.Custom('GetCourt')]で大変な評判となっている:"
+ trait_specific_interactions.000.intro.part1:0 "私の[recipient.Custom2('RelationToMe', SCOPE.sC('actor'))]である[actor.GetTitledFirstName]の最新作が、最近[actor.Custom('GetCourt')]で大変な評判となっている："
  trait_specific_interactions.000.intro.part3:0 "そして、[actor.GetFirstNameNoTooltip]がその中で公に捧げているのは#EMP 私#!なのだ。"
  trait_specific_interactions.000.outro:0 "これまでは、私はその思いを胸に秘めてきたが、この騒ぎはもはや無視できないほど劇的なものへと成長してきた。"
  trait_specific_interactions.0001.t:0 "ロマンスへの接触"

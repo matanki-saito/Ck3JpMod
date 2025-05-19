@@ -17,7 +17,7 @@
  conqueror.0002.a: "そんなうまい話があるわけなかったんだ…"
  conqueror_end_flavor: "もはや封臣や民衆からの支持は受けられなくなるだろう。"
  conqueror_title: "もはや封臣や民衆からの支持は受けられなくなるだろう。"
- conqueror_prefix: "征服者:"
+ conqueror_prefix: "征服者："
  conqueror.1000.t: "$conqueror_prefix$軍資金として"
  conqueror.1000.desc: "「軍資金として使ってくれ」[generous_vassal.GetTitledFirstNamePossessive]からの手紙にはこう書いてあった。「この資金は賢く使ってくれよ[ROOT.Char.GetTitleAsNameNoTooltip]。——防具や兵糧の購入、それから傭兵を雇い入れるのに使ってもいいだろう。君が[ROOT.Char.GetPrimaryTitle.GetBaseName]に栄光を齎すことを心の底から願っている！」\n\n君にとって役立つだろう。"
  conqueror.1000.a: "この金は大歓迎だ。"

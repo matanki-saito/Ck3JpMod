@@ -2,7 +2,7 @@
  HEADING_ENCYCLOPEDIA:0 "百科事典"
  OPEN_ENCYCLOPEDIA:1 "#T 百科事典を開く#!\n百科事典で用語を調べる。"
  ENCYCLOPEDIA_PAGE_BUILDINGS:0 "建造物"
- ENCYCLOPEDIA_BUILDING_ENTRY:3 "[BUILDING.GetDescription]\n\n#S 建築コスト：\n#![BUILDING.GetBaseCostDescription]\n\n#S 効果:\n#![BUILDING.GetEffectDescription( GetPlayer )]\n\n"
+ ENCYCLOPEDIA_BUILDING_ENTRY:3 "[BUILDING.GetDescription]\n\n#S 建築コスト：\n#![BUILDING.GetBaseCostDescription]\n\n#S 効果：\n#![BUILDING.GetEffectDescription( GetPlayer )]\n\n"
  ENCYCLOPEDIA_PAGE_GAME_CONCEPTS:0 "ゲームコンセプト"
  ENCYCLOPEDIA_PAGE_FACTIONS:0 "派閥"
  ENCYCLOPEDIA_PAGE_GOVERNMENTS:0 "政体"

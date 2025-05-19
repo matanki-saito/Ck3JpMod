@@ -29,7 +29,7 @@
  fp1_major_decisions.0021.a:0 "我は血と黄金の[founder.GetLadyLord|U]なり！"
  fp1_major_decisions.0021.b:0 "ようやく夢が叶った…"
  fp1_major_decisions.0022.t:0 "$fp1_major_decisions.0021.t$"
- fp1_major_decisions.0022.desc:0 "長い間、[founder.GetFirstName]は、一つの王位——[founder.GetPrimaryTitle.GetNameNoTier]——を除いて、いかなる王位も受け入れることを拒否しているのは公然の秘密であった。\n\n我が主君は、故郷の島の家の権力と権威を正当化するために[founder.GetHerHis|U]の人生を捧げているように見えるほど、長い間このことに心を砕いてきた。\n\n数え切れないほどの襲撃、戦争、殺戮を経て、[founder.GetSheHe]は成功を収めた。\n\nおそらく、[founder.GetHerHis]の新しい王冠の宝石は、それぞれ別の襲撃で奪い取ったものだろう。宮廷では、[founder.GetTitledFirstNameNoTooltip]が埋めるべき空のソケットがまだあるとさえ囁かれている。"
+ fp1_major_decisions.0022.desc:0 "長い間、[founder.GetFirstName]は、一つの王位——[founder.GetPrimaryTitle.GetNameNoTier]——を除いて、いかなる王位も受け入れることを拒否しているのは公然の秘密であった。\n\n我が主君は、故郷の島における権力と権威を正当化するために[founder.GetHerHis|U]の人生を捧げているように見えるほど、長い間このことに心を砕いてきた。\n\n数え切れないほどの襲撃、戦争、殺戮を経て、[founder.GetSheHe]は成功を収めた。\n\nおそらく、[founder.GetHerHis]の新しい王冠の宝石は、それぞれ別の襲撃で奪い取ったものだろう。宮廷では、[founder.GetTitledFirstNameNoTooltip]が埋めるべき空のソケットがまだあるとさえ囁かれている。"
  fp1_major_decisions.0022.a:0 "我々がこれから作る金のことだけを考えよう！"
  fp1_major_decisions.0022.b:0 "#EMP [founder.GetTitleAsNameNoTooltip]#!だと？[founder.GetSheHe|U]は泥棒男爵よりも酷い！"
  fp1_major_decisions.0023.t:0 "$fp1_major_decisions.0021.t$"

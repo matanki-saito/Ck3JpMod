@@ -2,7 +2,7 @@
  HISTORICAL_CHARACTER_TOOLTIP: "#T 史実の人物#!\n\n#high [Character.Custom('HistoricalCharacterDesc')]#!\n\n#weak このキャラクターは史実に名を遺した人物です。出生地の[culture|E]と[faith|E]によって、史実の経歴と違う場合があります。史実で活躍した時期を中心に、1～5年のあいだで登場します。#!"
  danger_dynasty_abandon_tt: "#X @warning_icon!今の[dynasty|E]を捨てることになる。やり直しはできない！#!"
  will_wander_tt: "[historical_character.GetFullName]は[wanderer|E]になる"
- historical_char_creation_events.t: "歴史のこだま: [historical_character.GetFullNameNicknamedNoTooltip]"
+ historical_char_creation_events.t: "歴史のこだま：[historical_character.GetFullNameNicknamedNoTooltip]"
  historical_char_creation_events.desc: "[birth_location.GetName]出身の[historical_character.GetFullNameNicknamed]なる人物が領内にいるそうだ。[historical_character.Custom('HistoricalCharacterJobDesc')]であり、雇い主を探しているという。なるほど並々ならぬ雰囲気を漂わせている…[historical_character.Custom('DescriptorPositiveStandalone')]出で立ちだが、どこか[historical_character.Custom('DescriptorNegativeStandalone')]においもする。\n\n\n@historical_character_icon!#weak 史実の人物です#!\n#help_light_background [historical_character.Custom('HistoricalCharacterDesc')]#!"
  historical_char_creation_events_alternative.desc: "[historical_character.GetFullNameNicknamed]なる人物が宮廷で有名になっている。[historical_character.Custom('HistoricalCharacterJobDesc')]だ。[historical_character.GetSheHe|U]は[historical_character.Custom('DescriptorPositiveStandalone')]であり、またうまく言えないが、何か底知れないものを感じる…\n\n\n@historical_character_icon!#weak 史実の人物です#!\n#help_light_background [historical_character.Custom('HistoricalCharacterDesc')]#!"
  historical_char_creation_events.1.a: "[historical_character.GetHerHim]にはどんな運命が待ち受けているのだろう…"

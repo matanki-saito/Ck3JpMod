@@ -26,7 +26,7 @@
  artifact_history_taken_in_battle_title:0 "[HISTORY_ENTRY.GetDate.GetString]"
  artifact_history_taken_in_battle_desc:1 "[HISTORY_ENTRY.GetRecipient.GetTitledFirstNameNicknamedNoTooltipRegnal]が[HISTORY_ENTRY.GetLocation.GetNameNoTooltip]の戦いにて奪い取る"
  UNKNOWN_BENEFACTOR:0 "不明な後援者"
- ARTIFACT_DURABILITY:0 "耐久度: $CURRENT|1$/$MAX|1$"
+ ARTIFACT_DURABILITY:0 "耐久度：$CURRENT|1$/$MAX|1$"
  ARTIFACT_HISTORY:0 "宝物の経歴"
  crown:0 "冠"
  helmet:0 "被り物"

@@ -10,7 +10,7 @@
  i_hate_my_father_tt: "今の父が嫌い：$VALUE|=+0$"
  i_like_my_mother_tt: "母を愛している：$VALUE|=+0$"
  i_like_my_father_tt: "父を愛している：$VALUE|=+0$"
- i_like_you_tt: "あなたへの[opinion|E]: $VALUE|=+0$"
+ i_like_you_tt: "あなたへの[opinion|E]：$VALUE|=+0$"
  youre_my_friend_tt: "あなたは私の[friend|E]だ：$VALUE|=+0$"
  youre_my_guardian_tt: "あなたは私の[guardian|E]だ：$VALUE|=+0$"
  i_want_a_mother_tt: "母が居ない：$VALUE|=+0$"

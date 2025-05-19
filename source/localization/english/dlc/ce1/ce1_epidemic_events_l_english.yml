@@ -501,7 +501,7 @@
  epidemic_events.0110.b: "再建のための費用を惜しんではならぬ。"
  epidemic_events.0110.c: "できることは何もない。"
  every_county_infected_10_years: "過去10年間感染した全ての[county|E]"
- epidemic_events.alert_title: "伝染病の流行:[infected_county.GetNameNoTierNoTooltip]"
+ epidemic_events.alert_title: "伝染病の流行：[infected_county.GetNameNoTierNoTooltip]"
  epidemic_events.alert_description: "[epidemic.GetName]として知られる[epidemic|E]が[infected_county.GetName]を襲った"
  msg_epidemic_infection: "[epidemic.GetNameNoTooltip]が広まっている…"
  msg_epidemic_infection_desc_1: "[epidemic.GetName]として知られる[epidemic|E]が[LEFT_TITLE.GetProvince.GetBaronyNameExplicitly]へと広まっている"

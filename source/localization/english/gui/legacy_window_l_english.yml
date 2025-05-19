@@ -1,6 +1,6 @@
 ﻿l_english:
  LEGACY_NAME:1 "[LegacyItem.GetCharacter.GetShortUINameNotMeNoTooltip]、[LegacyItem.GetCharacter.GetAge]歳"
- LEGACY_REIGN:1 "在位期間: [LegacyItem.GetStartDate.GetYear] – [LegacyItem.GetEndDate.GetYear] ([LegacyItem.GetReignLength])"
+ LEGACY_REIGN:1 "在位期間：[LegacyItem.GetStartDate.GetYear] – [LegacyItem.GetEndDate.GetYear] （[LegacyItem.GetReignLength]）"
  LEGACY_REIGN_TT:0 "[LegacyItem.GetStartDate.GetString]から[LegacyItem.GetEndDate.GetString]にかけてプレイした"
  LEGACY_REIGN_CURRENT:0 "[LegacyItem.GetStartDate.GetYear] –"
  LEGACY_SCORE:0 "スコア：[LegacyItem.GetScore]"
@@ -31,7 +31,7 @@
  SUCCESSION_RELATION:0 "あなたの$RELATION$"
  LEGACY_OFFENSIVE_WARS:1 "$EFFECT_LIST_BULLET$攻撃戦争：$COUNT$"
  LEGACY_DEFENSIVE_WARS:1 "$EFFECT_LIST_BULLET$防衛戦争：$COUNT$"
- LEGACY_OFFENSIVEGH_WARS:1 "$EFFECT_LIST_BULLET$攻撃側での大聖戦: $COUNT$"
+ LEGACY_OFFENSIVEGH_WARS:1 "$EFFECT_LIST_BULLET$攻撃側での大聖戦：$COUNT$"
  LEGACY_DEFENSIVEGH_WARS:1 "$EFFECT_LIST_BULLET$防衛側での大聖戦：$COUNT$"
  LEGACY_LINEAGE_YOU:0 "あなたです"
  LEGACY_KILLS_TOOLTIP:0 "#T 殺害数：[GetDataModelSize(Character.GetKills)|V]#!"

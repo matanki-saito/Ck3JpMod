@@ -12,7 +12,7 @@
  legendary_adventure_cb_tt: "決断を通してアンロック"
  launch_a_legendary_adventure_tt: "伝説の冒険の[casus_belli|E]を一度だけ得ることができ、現在の領国を捨てて外国の[kingdom|E]での繁栄を追い求めることができます。"
  bonus_holy_war_tt: "[kingdom|E]級の聖戦の[casus_belli|E]が追加で1回行えます"
- any_drifting_kingdom_tt: "どちらか:\n$BULLET_WITH_TAB$あなたの[primary_title|E]に向かって[de_jure_drift|E]の進捗状況を持つ[kingdom|E]が必要です\n$BULLET_WITH_TAB$あなたは追加の[kingdom|E]の[title|E]を保持します"
+ any_drifting_kingdom_tt: "どちらか：\n$BULLET_WITH_TAB$あなたの[primary_title|E]に向かって[de_jure_drift|E]の進捗状況を持つ[kingdom|E]が必要です\n$BULLET_WITH_TAB$あなたは追加の[kingdom|E]の[title|E]を保持します"
  not_already_de_jure_your_title_tt: "称号は既にあなたの[primary_title|E]の[de_jure|E]ではない"
  legendary_conversion_tt: "あなたの[realm|E]の広域をあなたの[faith|E]へと即座に改宗します"
  leg_demand_fealty_v_attacker: "[defender.GetName]はあなたの[vassal|E]になる"

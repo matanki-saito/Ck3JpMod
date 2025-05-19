@@ -1,5 +1,5 @@
 ﻿l_english:
- pay_homage_header:0 "忠誠の誓い:"
+ pay_homage_header:0 "忠誠の誓い："
  pay_homage.0001.opening:0 "[homage_vassal.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
  pay_homage.0001.desc:0 "栄光なる[homage_liege.GetTitleAsNameNoTooltip]に敬意を表し忠誠心を示すため、ここ[homage_liege.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]へと参じました。\n\n"
  pay_homage.0001.desc.submission:0 "ただ服従の誓いのみが私の名誉の証に足る。そうであることを望みます。"

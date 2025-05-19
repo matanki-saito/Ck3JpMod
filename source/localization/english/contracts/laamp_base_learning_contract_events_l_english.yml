@@ -17,7 +17,7 @@
  laamp_base_learning_contract_events.4001.t: "$laamp_base_learning_contract_events_prefix.4001$：ラストスパート"
  laamp_base_learning_contract_events.4001.t.diplomacy: "$laamp_base_learning_contract_events_prefix.4001$：影の宮廷"
  laamp_base_learning_contract_events.4001.t.martial: "$laamp_base_learning_contract_events_prefix.4001$：戦争の中の平和"
- laamp_base_learning_contract_events.4001.t.stewardship: "$laamp_base_learning_contract_events_prefix.4001$: 黄金が語るとき"
+ laamp_base_learning_contract_events.4001.t.stewardship: "$laamp_base_learning_contract_events_prefix.4001$：黄金が語るとき"
  laamp_base_learning_contract_events.4001.t.intrigue: "$laamp_base_learning_contract_events_prefix.4001$：静寂に溶ける声"
  laamp_base_learning_contract_events.4001.t.learning: "$laamp_base_learning_contract_events_prefix.4001$：聖言"
  laamp_base_learning_contract_events.4001.desc.01: "日がゆっくりと沈み、ろうそくの光だけが残る[employer.GetTitledFirstNamePossessive]の部屋に私はいる。\n一枚の紙から別の紙へ、ぐにゃぐにゃとした黒い線を急かされるように写している。\n\nまぶたが重くなり、一瞬居眠りしてしまうが、すぐにハッと目を覚ます。どうやらこの箇所は[SCOPE.Custom('GetScriptTopic')]に関連しているようだが……\n#EMP [ROOT.Char.GetFaith.HighGodName]#!よ、まともにやっていられるか！これが#EMP 延々と#!続いているなんて！"

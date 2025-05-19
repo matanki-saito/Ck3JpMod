@@ -1,5 +1,5 @@
 ﻿l_english:
- learn_language_ongoing.1200.t:1 "$learn_language$: 四つ足の問題"
+ learn_language_ongoing.1200.t:1 "$learn_language$：四つ足の問題"
  learn_language_ongoing.1200.desc:3 "[scheme.GetTargetCharacter.GetCulture.GetLanguage.GetNameNoTooltip]語を習得しようとしているとどうしても頭がいっぱいになるので、私はたくさんメモを取っている。しかし、いざというときにそのメモが見つからない！探しても一体どこにあるのか皆目見当もつかない。\n\n振り向くと、足元に[ROOT.Char.Custom('DogStoryName')]がいるのに気が付いた。[ROOT.Char.Custom('DogStoryHerHis')]は尻尾を振って[ROOT.Char.Custom('GetAnimalType')]のように喜んでいる。ふと、[ROOT.Char.Custom('DogStorySheHe')]が私のノートをがっしりと噛みしめていることに気が付いた…"
  learn_language_ongoing.1200.a:0 "怒ってばかりはいられない！"
  learn_language_ongoing.1200.b:0 "散歩に行きたいのかい？よし行こうか。"

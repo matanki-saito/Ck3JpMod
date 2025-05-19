@@ -290,7 +290,7 @@
  childhood.1010.d.effect:0 "別の贈り物が[crush.GetHerHis]の心を溶かしたり…またあなたの心を壊したりするかもしれない"
  childhood.1010.e:0 "ああ、あなたの姿を見て、私の心は歓喜と喜びで騒いでいる！"
  hopeless_romantic_modifier:0 "絶望的なロマンス"
- hopeless_romantic_modifier_desc:0 "この人物は若い頃からずっと、ロマンスや宮廷の愛を強く信じていた。\n[GetScheme('courting').GetTypeName][success_chance|E]: #P +10%#!"
+ hopeless_romantic_modifier_desc:0 "この人物は若い頃から、ロマンスと宮廷風恋愛を強く信じている。\n[GetScheme('courting').GetTypeName]の[success_chance|E]：#P +10%#!"
  childhood.1011.c:0 "いや、私の心は[true_crush.GetFirstNameNoTooltip]のものだ！"
  heartbroken_opinion:0 "傷心"
  childhood.1012.desc_2:0 "「そんなものは暖炉にぶちこんでやる。」[guardian_parent.Custom('MotherFather')|U]は燃える炎にそれを投げつけて言う。「今なら、お前もそんな役に立たない[ROOT.Char.Custom('GetDaughterSon')]であることを考え直すかもしれないな。」\n\n"

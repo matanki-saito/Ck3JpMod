@@ -37,7 +37,7 @@
  bp1_yearly.4020.poetry_title:0 "[poetry_friend.Custom('GeneratePoem_Title')]"
  artifact_poetry_name:0 "$bp1_yearly.4020.poetry_title$"
  artifact_poetry_description:1 "[ROOT.Char.GetFirstNamePossessiveNoTooltip]の良き友、[poetry_friend.GetTitledFirstName]によって書かれ、[war_memory_participant.Custom('InsultAdjective')][war_memory_participant.GetTitledFirstName]に対する[ROOT.Char.GetTitledFirstNamePossessive]の勝利に捧げられた詩。\n\n$bp1_yearly.4020.poetry$"
- poetry_artifact_appended_desc:0 "[ROOT.Char.GetFirstNamePossessiveNoTooltip]の良き友[poetry_friend.GetTitledFirstName]によって書かれ、[war_memory_participant.Custom('InsultAdjective')][war_memory_participant.GetTitledFirstName]に対する[ROOT.Char.GetTitledFirstNamePossessive]の勝利に捧げられた詩。\n\nこう書かれている:\n$artifact_poetry_description$"
+ poetry_artifact_appended_desc:0 "[ROOT.Char.GetFirstNamePossessiveNoTooltip]の良き友[poetry_friend.GetTitledFirstName]によって書かれ、[war_memory_participant.Custom('InsultAdjective')][war_memory_participant.GetTitledFirstName]に対する[ROOT.Char.GetTitledFirstNamePossessive]の勝利に捧げられた詩。\n\nこう書かれている：\n$artifact_poetry_description$"
  bp1_yearly.4020.a_effect:0 "[newly_created_artifact.GetName]が[court_artifact|E]となり[grandeur|E]の補正を獲得します"
  bp1_yearly.4020.b_effect:0 "あなたは[newly_created_artifact.GetName][artifact|E]を得ます"
  bp1_yearly.4030.t:0 "魅力的なライバル"

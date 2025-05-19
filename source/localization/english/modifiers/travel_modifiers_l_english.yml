@@ -1,8 +1,8 @@
 ﻿l_english:
  travel_returning_home_modifier:0 "帰り道"
  travel_returning_home_modifier_desc:0 "この旅の一行は、帰郷を待ち望んでいる。"
- positive_roadside_reading_modifier:0 "旅路:吉兆"
- negative_roadside_reading_modifier:0 "旅路:凶兆"
+ positive_roadside_reading_modifier:0 "旅路：吉兆"
+ negative_roadside_reading_modifier:0 "旅路：凶兆"
  nonverbal_modifier:0 "非言語的"
  nonverbal_modifier_desc:0 "この人物は話し言葉に対する理解が限定的だ。"
  feral_modifier:0 "野生"

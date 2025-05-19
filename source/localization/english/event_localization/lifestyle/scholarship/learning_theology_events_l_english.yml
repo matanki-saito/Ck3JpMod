@@ -57,7 +57,7 @@
  learning_theology.3021.desc:0 "私は代書人と共に腰掛け、"
  learning_theology.3021.desc_christian:0 "[compliment_receiver.GetHerHis|U]の神聖さを強調した、まったくもって素晴らしい手紙を書いた…"
  learning_theology.3021.desc_other:0 "[compliment_receiver.GetHerHis]を強調した、まったくもって素晴らしい手紙を書いた…"
- learning_theology.3021.success.tt:0 "[believer.GetTitledFirstNameNoTooltip]の裁量:"
+ learning_theology.3021.success.tt:0 "[believer.GetTitledFirstNameNoTooltip]の裁量："
  learning_theology.3021.b:0 "唯一優れたる[ROOT.Char.GetFaith.HighGodName|U]！"
  learning_theology.3022.opening:0 "[compliment_receiver.Custom2('AppropriateGreeting', ROOT.Char)]"
  learning_theology.3022.desc:0 "あなたの手紙は非常に優れたものです！人間の本質と[ROOT.Char.GetFaith.HighGodName|U]の領域に対するその洞察力には驚かされます。"

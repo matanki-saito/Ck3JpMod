@@ -44,7 +44,7 @@
  DOMICILE_HERD_CONVERSION: "[horde|E]"
  DOMICILE_HERD_HERD_TO_RAISE: "[Domicile.GetHorde|V0]の[GetMaA('nomadic_riders').GetName] [men_at_arms|E]\n[Character.GetShortUINamePossessiveNoTooltip]の[army|E]とともに召集される"
  DOMICILE_HERD_ALREADY_RAISED: "@warning_icon! #x [Character.GetShortUINamePossessiveNoTooltip]の[herd|E]から[Domicile.GetHorde|V0]が[horde|E]として召集された！#!"
- ABOVE_HERD_LIMIT_EFFECTS_HEADER: "@warning_icon! [herd|E]限界超過: "
+ ABOVE_HERD_LIMIT_EFFECTS_HEADER: "@warning_icon! [herd|E]限界超過："
  DOMICILE_HERD_LIMIT: "家畜限界"
  HERD_BREAKDOWN_TOOLTIP: "#T [herd|E]：$VALUE|0V$/$CAPACITY|0$#!\n$CHANGE|V=1$/月"
  above_herd_limit_modifier: "[herd|E]限界超過"

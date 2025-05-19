@@ -861,7 +861,7 @@
  feature_ring_centerpiece_signet:0 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip]のシギルが[Artifact.GetFeatureText( 'decoration_material_wire' )]のてっぺんに刻まれている"
  feature_ring_centerpiece_religious:0 "[Artifact.GetFeatureText( 'decoration_material_wire' )]の頭に、[Artifact.GetOwner.GetFaith.GetAdjective]の[Artifact.GetOwner.GetFaith.ReligiousSymbol]が刻まれた"
  feature_ring_adornment_filigree:0 "$feature_brooch_adornment_filigree$である"
- feature_ring_adornment_motto:0 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip]家のモットー: 「#EMP [Artifact.GetOwner.GetHouse.GetMotto]#!」に囲まれている"
+ feature_ring_adornment_motto:0 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip]家のモットー：「#EMP [Artifact.GetOwner.GetHouse.GetMotto]#!」に囲まれている"
  feature_ring_adornment_religious:0 "[Artifact.GetOwner.GetFaith.GetAdjective][Artifact.GetOwner.GetFaith.ReligiousText]から抜き取ったもので囲まれている"
  feature_ring_adornment_gems:0 "$feature_brooch_adornment_gems$"
  feature_ring_adornment_runes:0 "$feature_brooch_adornment_runes$"

@@ -7,7 +7,7 @@
  EVENT_OPTION_WILL_HAPPEN:0 "#S 発生するだろう\n#!"
  EVENT_OPTION_HAS_HAPPENED:0 "#S 発生している\n#!"
  EVENT_NOTHING_HAPPENS:1 "#F 直ちに影響はありません…#!"
- EVENT_OPTION_AI_CHANCE:1 "#Weak AIの重みづけ: $VALUE$#!"
+ EVENT_OPTION_AI_CHANCE:1 "#Weak AIの重みづけ：$VALUE$#!"
  REGENERATE_EVENT_CONTENTS:0 "#T イベント内容を再生成#!\nすべての場所、ポートレートなどが再生成されます。"
  TOGGLE_DATA_SYSTEM:0 "#T データシステムの切り替え#!\nデータシステムを実行するかどうかを切り替え、階層などを表示します。Localization.ToggleSkipDataSystemInLocOutputと同様です。"
  COPY_EVENT_CONTENTS:0 "#T イベント内容をコピー#!\nイベントテキストの内容をクリップボードにコピーします"

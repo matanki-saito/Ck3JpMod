@@ -36,7 +36,7 @@
  SUCCESSION_ELECTION_ELECTOR_MY_CHOICE:0 "第二の選択"
  SUCCESSION_ELECTION_WINDOW_NOT_ELECTOR:2 "[electors|E]の一人ではないため投票できません"
  SUCCESSION_ELECTION_WINDOW_CANDIDATE:0 "候補者"
- SUCCESSION_ELECTION_WINDOW_RANK:0 "階位: [SuccessionElectionWindow.GetCandidateFromCharacter( SuccessionElectionWindowElector.GetElectorCandidate.GetCandidate ).GetElectionRank]"
+ SUCCESSION_ELECTION_WINDOW_RANK:0 "階位：[SuccessionElectionWindow.GetCandidateFromCharacter( SuccessionElectionWindowElector.GetElectorCandidate.GetCandidate ).GetElectionRank]"
  SUCCESSION_ELECTION_WINDOW_NO_PLAYER_NOMINEE:0 "#T プレイヤーの候補者なし#!\n選挙人の好みの違いを見るためには誰かを指名する必要があります"
  SUCCESSION_ELECTION_WINDOW_STANCE_WIN:0 "次の継承順位です"
  SUCCESSION_ELECTION_WINDOW_STANCE_LOSS:0 "次の継承順位ではありません"

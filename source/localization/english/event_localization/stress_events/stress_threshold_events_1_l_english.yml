@@ -128,7 +128,7 @@
  stress_threshold.1731.i.hashishiyah.gain:0 "道中用に、ハシシのケーキはあるのかな？"
  stress_threshold.1731.i.hashishiyah.effect:1 "$stress_threshold.1731.i.hashishiyah.gain$"
  stress_threshold.1731.g:0 "#EMP 仕方あるまい#!、計画は中止だ。"
- stress_threshold.2301.t:0 "精神崩壊: 高まる要求"
+ stress_threshold.2301.t:0 "精神崩壊：募る欲求"
  stress_threshold.2301.desc.intro:0 "果てしない行列と難しい決断、最近の私からは毎日が滑り落ちていくようだ。胸が締め付けられる。指先がかゆくてうずうずして、目は私の頭には合わないほど非常に小さい気がする。\n\n私は一時だけでも離れる必要があり、私は"
  stress_threshold.2301.desc.lustful:0 "誰かと少しでもつながるために、温もりを腕の中で感じる必要がある。"
  stress_threshold.2301.desc.gluttonous:0 "この空虚の意味を満たすために、何かを、何でもいいから食べる必要がある。"

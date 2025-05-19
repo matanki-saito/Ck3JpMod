@@ -172,7 +172,7 @@
  bp2_yearly.6060.a.tt: "他に誰が信仰を橋渡しすることができる？そして[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]に精神の秩序と悟りを齎すより良い信仰とは…！"
  bp2_yearly.6060.b: "信仰を築くべし、制するべし。"
  bp2_yearly.6060.b.tt: "再現しよう。遠き地に於いて、信仰がどのように組織され、どのように空に到達し、どのように日々の暮らしに染み渡るのかを。"
- bp2_yearly.6060.b.conversion_bonus: "[convert_county|E]の進行速度:#P +[EmptyScope.ScriptValue('zealous_proselytizer_percentage')|0]%#!"
+ bp2_yearly.6060.b.conversion_bonus: "[convert_county|E]の進行速度：#P +[EmptyScope.ScriptValue('zealous_proselytizer_percentage')|0]%#!"
  bp2_yearly.6060.c: "知は万力の源泉なり。"
  bp2_yearly.6060.c.tt: "そして、私が最も博識・賢明・敬虔であるならば領国の繁栄は約束されたようなものだ。"
  bp2_yearly.6060.c.nerd: "[learning|E]以外の能力が#negative_value 2#!下がります"

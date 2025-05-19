@@ -214,7 +214,7 @@
  non_adult_difficulty: "子供"
  weak_domain_difficulty: "弱体の直轄領"
  unlanded_difficulty: "称号を保有していない"
- character_difficulty_text: "難易度:[Character.Custom('CharacterDifficulty')]"
+ character_difficulty_text: "難易度：[Character.Custom('CharacterDifficulty')]"
  character_difficulty_breakdown_header: "難易度の内訳"
  choose_destiny_header_text: "新たな運命を選ぶ"
  will_become_adventurer: "[GetGovernment('landless_adventurer_government').GetName]になるだろう"

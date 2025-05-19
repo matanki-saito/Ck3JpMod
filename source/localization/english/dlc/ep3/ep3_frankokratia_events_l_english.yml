@@ -263,7 +263,7 @@
  gain_byz_kingdom_tt: "あなたは[byz_kingdom.GetName]を獲得するでしょう"
  byz_remain_admin_tt: "あなたは[administrative|E][government|E]を維持するでしょう"
  byz_vassals_may_join_tt: "近隣の同輩の[vassals|E]はあなたを[liege|E]として仰ぐかもしれません"
- if_byz_dissolves_tt: "@warning_icon!#X [GetTitleByKey('e_byzantium').GetName]が解体された場合:#!"
+ if_byz_dissolves_tt: "@warning_icon!#X [GetTitleByKey('e_byzantium').GetName]が解体された場合：#!"
  become_daddys_vassal_tt: "あなたは#high [daddy.GetNamePossessive]#!の[vassal|E]になります"
  become_daddy_2_vassal_tt: "あなたは#high [daddy_2.GetNamePossessive]#!の[vassal|E]になります"
  byz_become_feudal_or_clan_tt: "あなたは[feudal|E]または[clan|E][government|E]を採用するでしょう"

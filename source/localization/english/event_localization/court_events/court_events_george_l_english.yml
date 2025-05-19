@@ -99,7 +99,7 @@
  court.7630.a:0 "勝者は[horsemaster.GetFirstNameNoTooltip]だ。"
  court.7630.b:0 "これは[huntmaster.GetFirstNamePossessiveNoTooltip]の成功によるものだ。"
  court.7630.c:0 "なぜ、二人でこの勝利を分かち合えないのだ？"
- court.7630.c.tt:0 "[horsemaster.GetShortUIName]と[huntmaster.GetShortUIName]が共に勝者であることを納得させるように試みます:"
+ court.7630.c.tt:0 "[horsemaster.GetShortUIName]と[huntmaster.GetShortUIName]が共に勝者であることを納得させるように試みます："
  court.7630.c.success:0 "中間点をうまく見つけることに成功する"
  court.7630.c.failure:0 "あなたは事態を悪化させるだけだ"
  court.7640.title:0 "鳥の虐待"

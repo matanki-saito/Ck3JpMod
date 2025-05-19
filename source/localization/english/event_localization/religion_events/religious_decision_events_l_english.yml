@@ -128,7 +128,7 @@
  religious_decision.0502.desc.fundamentalist:0 "宗教的多元主義が終焉を迎えただけでなく、正統な[khazar_khan.GetFaith.GetNameNoTooltip]を実践していない者は必然的に[khazar_khan.GetPrimaryTitle.GetTierAsNameNoTooltip]の敵である。[khazar_khan.GetTitleAsNameNoTooltip]は[khazar_khan.GetFaith.GetNameNoTooltip]をステップとさらのその向こうにも広げようとし、この新しい時代の宗教戦争に参加することは、あらゆる良き[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]の義務であると宣言している。"
  religious_decision.0502.a:0 "[ROOT.Char.GetFaith.GetNameNoTooltip]にとって真に暗黒の日だ。"
  religious_decision.0502.b:0 "今こそその時だ！"
- religious_decision.0601.t:0 "ウンマの分割: [founder.GetFaith.GetAdjectiveNoTooltip]の[founder.GetFaith.ReligiousHeadTitleName|U]"
+ religious_decision.0601.t:0 "ウンマの分割：[founder.GetFaith.GetAdjectiveNoTooltip]の[founder.GetFaith.ReligiousHeadTitleName|U]"
  religious_decision.0601.desc:0 "#EMP 真の#!リーダーシップなしでは、我々は敗れてしまう。\n\n[old_caliph.GetTitledFirstName]は、[old_caliph.GetSheHe]がその地位に就いて以来、我々[founder.GetFaith.GetAdherentNamePlural]にそのような指針を示しておらず、私の宗派の他の人々は[old_caliph.GetHerHis]の助言、権威、法体系の欠如によって苦しんでいる。\n\n悄然としながらも、[founder.GetFaith.GetAdjectiveNoTooltip]界で最も影響力ある聖職者たちの支援を受けながら、私は[founder.GetFaith.HighGodName]の不屈の意志として、[founder.GetFaith.ReligiousHeadTitleName]を引き継ぐことを宣言する。\n\nこの日から審判の日まで、私と私の後継者はこれを保持し、私の強固な手の下で、世界の真の信者たちは繁栄することだろう！"
  religious_decision.0601.a:0 "私は今、この重荷を背負っているのだ…"
  religious_decision.0601.b:0 "はっ、#EMP これでもくらえ#![old_caliph.GetFirstNameNoTooltip]。"

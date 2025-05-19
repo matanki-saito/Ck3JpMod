@@ -123,7 +123,7 @@
  ACTIVATE_SCHEME_COUNTERMEASURE_TITLE: "「[SchemeCountermeasureType.GetName]」を有効にする"
  ACTIVATE_SCHEME_COUNTERMEASURE_TEXT: "[SchemeCountermeasureType.GetDesc][SelectLocalization( SchemeCountermeasureType.HasParameters, 'ACTIVATE_SCHEME_COUNTERMEASURE_PARAMETERS', '')][SelectLocalization( SchemeCountermeasureType.HasActivationCost, 'ACTIVATE_SCHEME_COUNTERMEASURE_COST', '')][SelectLocalization( SchemeCountermeasureType.HasOwnerModifier, 'ACTIVATE_SCHEME_COUNTERMEASURE_MODIFIERS', '')]"
  ACTIVATE_SCHEME_COUNTERMEASURE_PARAMETERS: ""
- ACTIVATE_SCHEME_COUNTERMEASURE_COST: "\n\n#bold 有効化コスト:#!\n[SchemeCountermeasureType.GetActivationCostDesc( Character.Self )]"
+ ACTIVATE_SCHEME_COUNTERMEASURE_COST: "\n\n#bold 有効化コスト：#!\n[SchemeCountermeasureType.GetActivationCostDesc( Character.Self )]"
  ACTIVATE_SCHEME_COUNTERMEASURE_MODIFIERS: "\n\n#bold 補正値：#!\n[SchemeCountermeasureType.GetOwnerModifierDesc]"
  ACTIVATE_SCHEME_COUNTERMEASURE_ACCEPT: "有効化する"
  DEACTIVATE_SCHEME_COUNTERMEASURE_TITLE: "「[SchemeCountermeasureType.GetName]」を無効化する"

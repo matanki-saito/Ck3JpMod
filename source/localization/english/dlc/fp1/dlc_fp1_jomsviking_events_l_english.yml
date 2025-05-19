@@ -53,7 +53,7 @@
  fp1_jomsvikings.0041.b.tt_failure:0 "[leader.GetTitledFirstName]は勇敢な逃走に成功する"
  fp1_jomsvikings.0041.c:0 "お前は自分がただの気取り屋の海賊だと分かっているのか？出て行け。"
  fp1_jomsvikings.0042.trigger_failure:0 "あなたの[leader.GetTitledFirstNameNoTooltip]との勝負は無効になる"
- fp1_jomsvikings.0044.t:0 "$fp1_jomsvikings.0041.t$: 弁明"
+ fp1_jomsvikings.0044.t:0 "$fp1_jomsvikings.0041.t$：弁明"
  fp1_jomsvikings.0044.desc:0 "私の足元に生気のない[leader.GetTitledFirstName]が崩れ落ちると、王座の間は死のような静寂に包まれる。囁き声も聞こえず、自分の荒い息遣いの他には呼吸すら聞こえない。\n\n私は静かに服を整える。\n\n一人一人、私はここに残っている者たちと目を合わせていく。"
  fp1_jomsvikings.0044.a:0 "#EMP 他に#!やってみたい者はいないか？"
  fp1_jomsvikings.0044.b:0 "私の統治の正当性が改めて証明された！"

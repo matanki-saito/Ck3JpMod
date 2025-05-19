@@ -1,5 +1,5 @@
 ﻿l_english:
- feast_header:0 "饗宴:"
+ feast_header:0 "饗宴："
  feast_default.1001.t:2 "畏敬の念"
  feast_default.1001.very_high_learning:0 "美味しい料理を囲んでの会話の後、[impressed_guest.GetTitledFirstName]は私が最も学識があり賢明であると褒め、私よりも読書量の少ない人たちにとって私の発言は常に計り知れない価値があると称えてくれている。"
  feast_default.1001.high_learning:0 "晩餐会の席上で様々な事柄について大いに語り合った後、[impressed_guest.GetTitledFirstName]は、私の知識がいかに幅広いものか賞賛してくれた。"
@@ -359,7 +359,7 @@
  feast_default.1020.a.tt_imprisoned:0 "[feast_host.GetTitledFirstNameNoTooltip]は報復する"
  feast_default.1020.b:0 "いや、それは危険すぎる。"
  feast_default.1020.tt:0 "宝物は汚された"
- GUESTS_LIKED_DEFACING:0 "#z [CHARACTER.MakeScope.Var('num_unhappy_guests').GetValue|0]#!人の客がこの行動を評価します:"
+ GUESTS_LIKED_DEFACING:0 "#z [CHARACTER.MakeScope.Var('num_unhappy_guests').GetValue|0]#!人の客がこの行動を評価します："
  feast_default.6301.t:1 "人為的な責任"
  feast_default.6301.desc:0 "お祭り騒ぎの中、護衛隊長が私の方へ駆け寄ってくる。\n\n「我が[ROOT.Char.GetLadyLord]、誰かが[feast_target_artifact.GetName]を[feast_target_artifact.Custom('DamageArtifactAction')]ようです！証拠は今晩奇妙な行動をとっていた、我が[ROOT.Char.GetLadyLord]の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('feast_artifact_culprit'))]、[feast_artifact_culprit.GetTitledFirstNameNoTooltip]を指し示しています。」[captain_of_the_guard_dummy.GetSheHe|U]は[feast_artifact_culprit.GetFirstNamePossessiveNoTooltip]の方をちらりと見る。\n\n「我が[ROOT.Char.GetLadyLord]、私はいかがいたしましょうか？」"
  feast_default.6301.desc_learning_guard:0 "\n\n[feast_target_artifact.Custom('DamageArtifactActionFollowup')]"

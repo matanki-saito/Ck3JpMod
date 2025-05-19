@@ -29,6 +29,6 @@
  event_bonus_to_agent_invite_desc:0 "この人物は数多の間諜を招き入れて、いくつもの策略をより容易に成し遂げる"
  event_bonus_to_vassal_accept:0 "天才的な交渉者"
  event_bonus_to_vassal_accept_desc:0 "この人物は、他の人物への属国化要求の次の機会に、+20の受け入れボーナスを得る。"
- BONUS_TO_AGENT_RECRUITMENT:0 "策略の達人: $VALUE|=+0$"
- event_bonus_to_vassal_accept_tt:0 "公正な統治者としての評判を持っている: $VALUE|=+0$"
+ BONUS_TO_AGENT_RECRUITMENT:0 "策略の達人：$VALUE|=+0$"
+ event_bonus_to_vassal_accept_tt:0 "あなたは公正なる統治者として知られている：$VALUE|=+0$"
  INCREASE_COUNTY_CONTROL_EXPERIENCE_BONUS_VALUE:0 "[councillor.GetCouncilTitle][councillor.GetFirstName]は群衆取り扱いの経験を積んだ"

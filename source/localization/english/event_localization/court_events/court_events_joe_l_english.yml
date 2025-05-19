@@ -165,7 +165,7 @@
  court.8100.desc:0 "聴衆の間を歩いていると、私の[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('physician'))]$court_physician_court_position$[physician.GetTitledFirstName]が[physician.GetHerHis]の空想について話し合っているのが聞こえてきた。\n\n「…現存する最強の薬で、世界の最果てでしか手に入らないらしい——私が話した商人や錬金術師はそう言っていた。」\n\n[physician.GetSheHe|U]は淡黄色の液体の小瓶を取り出すと、廷臣たちの曲がった鼻の下でそれを渦巻かせる。\n\n「それらは活力と長寿を与え、戦いに赴く者に好まれるというが、その力を制御できるのは強者だけだ。」"
  court.8100.a:0 "最強の薬と言ったのか？ここでそれを渡せ。"
  court.8100.b:0 "本当か？最初に私の$food_taster_court_position$で試してみよう。"
- court.8100.b.tt_forgiving:1 "[food_taster.GetTitledFirstName]は$trait_forgiving$ではありません:"
+ court.8100.b.tt_forgiving:1 "[food_taster.GetTitledFirstName]は$trait_forgiving$ではありません："
  court.8100.c:0 "我々に力を与えてくださるのは[ROOT.Char.GetFaith.HighGodName]だけだ。"
  court.8100.d:0 "そんな水は人間どころか獣にも似合わない！"
  court.8100.tt.handle_potion:0 "あなたは最強の薬を制御します"
