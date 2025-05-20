@@ -3,7 +3,7 @@
  clan.1001.desc:0 "[vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]と[vassal.GetHerHis]の[vassal_child.Custom('GetDaughterSon')][vassal_child.GetTitledFirstName]が私のところへ来た。\n\n「我が[ROOT.Char.GetLadyLord]よ\n、我々の間に同盟関係がないのは恥ずべきことです。あなたの[child.GetTitledFirstName]と私の[vassal_child.Custom('GetDaughterSon')]を結婚させて、物事をあるべき姿になそうではありませんか！」"
  clan.1001.a:0 "お前は正しい。彼らは結婚する！"
  clan.1001.b:0 "そのようなことはありえない。"
- clan.1002.desc:0 "「[ROOT.Char.GetTitledFirstNameNoTooltip]、これはどういうことです！？」\n\n[vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が[vassal.GetHerHis]の[vassal_child.Custom('GetDaughterSon')][vassal_child.GetTitledFirstName]を連れて部屋に飛び込んできた。\n\n「何故あなたは我が[child.Custom('GetDaughterSon')]と[vassal_child.GetTitledFirstNameNoTooltip]との婚約を破棄したのです？」"
+ clan.1002.desc:0 "「[ROOT.Char.GetTitledFirstNameNoTooltip]、これはどういうことです!?」\n\n[vassal.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が[vassal.GetHerHis]の[vassal_child.Custom('GetDaughterSon')][vassal_child.GetTitledFirstName]を連れて部屋に飛び込んできた。\n\n「何故あなたは我が[child.Custom('GetDaughterSon')]と[vassal_child.GetTitledFirstNameNoTooltip]との婚約を破棄したのです？」"
  clan.1002.a:0 "手違いだ。断言しよう。"
  clan.1002.b:0 "お前には関係のないことだ。"
  clan.1011.t:0 "同盟なくしては"

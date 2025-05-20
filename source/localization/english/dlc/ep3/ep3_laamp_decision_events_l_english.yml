@@ -168,7 +168,7 @@
  ep3_laamp_decision_event.1010.a_stewardship.success: "あなたは[laamp_supply_merchant.GetShortUIName]を納得させる"
  ep3_laamp_decision_event.1010.a_stewardship.failure: "[laamp_supply_merchant.GetShortUIName]はあなたの言葉には騙されない"
  ep3_laamp_decision_event.1010.a_stewardship.critical_failure: "$ep3_laamp_decision_event.1010.a_martial.critical_failure$"
- ep3_laamp_decision_event.1010.a_intrigue: "「おい、あれは[visiting_location.GetCounty.GetTitle.GetHolder.GetTopLiege.GetTitleAsNameNoTooltip]じゃないか！？」"
+ ep3_laamp_decision_event.1010.a_intrigue: "「おい、あれは[visiting_location.GetCounty.GetTitle.GetHolder.GetTopLiege.GetTitleAsNameNoTooltip]じゃないか!?」"
  ep3_laamp_decision_event.1010.a_intrigue.success: "あなたは大量の物資を盗み出す"
  ep3_laamp_decision_event.1010.a_intrigue.failure: "下手を打って[laamp_supply_merchant.GetShortUINamePossessive]の疑念を招く"
  ep3_laamp_decision_event.1010.a_intrigue.critical_failure: "$ep3_laamp_decision_event.1010.a_martial.critical_failure$"

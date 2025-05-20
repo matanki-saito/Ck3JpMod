@@ -19,7 +19,7 @@
  objectification_option.tt:2 "その外見から、[disobedient_subject.GetFirstName]がたびたび物やおもちゃ扱いされているのでは、と推測します"
  diplomacy_generic.0012.g:0 "暴力の「微妙な」脅しがこれに終止符を打つだろう。"
  threat_option.tt:2 "あなたは[disobedient_subject.GetFirstName]が臆病かまたは平安が維持されることを望んでいると推測します"
- diplomacy_generic.0012.h:1 "「よくも自分の#EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!に挑戦できるな！？」"
+ diplomacy_generic.0012.h:1 "「よくも自分の#EMP [ROOT.Char.GetTitleAsNameNoTooltip]#!に挑戦できるな!?」"
  diplomacy_generic.0012.tt:0 "それほど外交的ではありませんが、それでも効果はあります…"
  diplomacy_generic.0012.good_outcome.desc:1 "あなたが[disobedient_subject.GetTitledFirstNameNoTooltip]を操る"
  diplomacy_generic.0012.bad_outcome.desc:0 "[disobedient_subject.GetTitledFirstNameNoTooltip]は騙されない"

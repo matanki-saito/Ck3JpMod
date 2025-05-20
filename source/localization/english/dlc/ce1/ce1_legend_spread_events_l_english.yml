@@ -262,7 +262,7 @@
  legend_spread_events.5225.b.tt: "これも#EMP そんなに#!ありふれている訳ではない、はず。"
  legend_spread_events.5225.b.success: "[chronicler.GetNameNoTooltip]はその花を見た事がなかった"
  legend_spread_events.5225.b.failure: "[chronicler.GetNameNoTooltip]はよく知っていた"
- legend_spread_events.5225.c: "#EMP 花#!だと！？もっと壮大な話は無いのか！"
+ legend_spread_events.5225.c: "#EMP 花#!だと!? もっと壮大な話は無いのか！"
  legend_spread_events.5225.d: "「断じて無い」"
  legend_spread_events.5230.t: "血の味"
  legend_spread_events.5230.desc: "私の[ROOT.Char.Custom('GetRoom')]に[chronicler.GetFirstName]が転がり込んでくるのは珍妙な質問が飛んでくる前触れなのだが、今回もその通りだった。\n\n「[ROOT.Char.GetLadyLord]様！　とんでもない話を聞きましたぞ！」[ROOT.Char.Custom('GetWritingMaterial')]をかき集めながら[chronicler.GetSheHe]が喚く。「あなたは旅の途中で、#EMP 人喰いども#!に襲われたとか！　人喰いですよ、信じられますか?!」"

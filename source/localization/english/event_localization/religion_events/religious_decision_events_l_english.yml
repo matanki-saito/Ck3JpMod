@@ -115,7 +115,7 @@
  religious_decision.0102.optout:0 "$religious_decision.0101.flavor$"
  religious_decision.0102.flavor:0 "$religious_decision.0101.flavor$"
  religious_decision.0501.t:0 "[ROOT.Char.GetTitleAsNameNoTooltip]と[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]信仰"
- religious_decision.0501.desc:1 "何世代にもわたって、[ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]の貴族たちは、[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]信仰への献身を公言してきたが、[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]社会では、地元の神を持つ宗教的多元主義がずっと一般的であった。しかし、高位聖職者の復活に伴って[ROOT.Char.GetFaith.ReligiousHeadTitleName][ROOT.Char.GetFaith.ReligiousHeadName]は、この異教の慣習を終わらせ、ハーンに忠誠を誓う者はすべて神にも忠誠を誓い、正しい方法で崇拝しなければならないと主張している。\n\nしかし、[ROOT.Char.GetTitleAsNameNoTooltip]として、私は最終的に私の[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]における信仰の未来を決定する権限を振るい、ステップの未来は私の言葉にかかっているのである。"
+ religious_decision.0501.desc:1 "何世代にもわたって、[ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]の貴族たちは、[ROOT.Char.GetFaith.GetAdherentNameNoTooltip]信仰への献身を公言してきたが、[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]社会では、地元の神を持つ宗教的多元主義がずっと一般的であった。しかし、高位聖職者の復活に伴って[ROOT.Char.GetFaith.ReligiousHeadTitleName][ROOT.Char.GetFaith.ReligiousHeadName]は、この異教の慣習を終わらせ、ハンに忠誠を誓う者はすべて神にも忠誠を誓い、正しい方法で崇拝しなければならないと主張している。\n\nしかし、[ROOT.Char.GetTitleAsNameNoTooltip]として、私は最終的に私の[ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]における信仰の未来を決定する権限を振るい、ステップの未来は私の言葉にかかっているのである。"
  religious_decision.0501.a:0 "良き[ROOT.Char.GetTitleAsNameNoTooltip]は人々に彼らのやり方を許す。"
  religious_decision.0501.b:0 "おそらく、適度な改革が両者を満足させるだろう。"
  religious_decision.0501.c:1 "[ROOT.Char.GetFaith.GetNameNoTooltip]は、世界中に伝道されなければならない！"

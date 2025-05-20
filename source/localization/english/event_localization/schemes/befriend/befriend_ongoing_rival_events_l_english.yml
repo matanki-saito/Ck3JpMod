@@ -16,7 +16,7 @@
  befriend_ongoing_rival.0004.desc:0 "必死に[target.GetTitledFirstNamePossessive]の観点から自分の意見を意味のあるように説明しようとしたが、結局は自分の議論に巻き込まれるだけになってしまった。\n\nこれで[target.GetHerHim]は私を多くの角度から攻撃することができ、議論から抜け出した私は、とんでもない愚か者のように見えた。"
  befriend_ongoing_rival_0004.a:0 "今回は[target.GetTitledFirstNameNoTooltip]が勝ったのかもしれない…"
  befriend_ongoing_rival.0005.t:0 "親善：悪しき印象のもとに"
- befriend_ongoing_rival.0005.desc:0 "宮廷で[spymaster.GetTitledFirstName]から、自分についての不快な噂が流れていることを知らされたとき、私は胸が高まるのを感じた。[spymaster.GetHerHim]にその情報源を調査させたところ、大きな驚きではなかったが、犯人は[target.GetTitledFirstName]以外にはいないようだ。\n\n[ROOT.Char.GetFaith.HighGodName]よ、なぜこの馬鹿げた[target.Custom('InsultNoun')]を止めないのだ！？"
+ befriend_ongoing_rival.0005.desc:0 "宮廷で[spymaster.GetTitledFirstName]から、自分についての不快な噂が流れていることを知らされたとき、怒りが血潮のごとく体中を駆けめぐった。[spymaster.GetHerHim]にその出どころを調査させたところ、案の定、犯人は[target.GetTitledFirstName]以外にはいないようだ。\n\nああ、[ROOT.Char.GetFaith.HighGodName]よ…なぜあの嘘つきの[target.Custom('InsultNoun')]はくだらぬ戯言をやめぬのだ!?"
  befriend_ongoing_rival_0005.a:0 "[target.GetFirstNamePossessiveNoTooltip]の汚らわしい嘘から自身を守らねばならない！"
  befriend_ongoing_rival_0005.b:0 "現時点では、放っておくのが最良かもしれない。"
  befriend_ongoing_rival.2000.t:0 "親善：[target.GetHerHis|U]自尊心をくすぐって"

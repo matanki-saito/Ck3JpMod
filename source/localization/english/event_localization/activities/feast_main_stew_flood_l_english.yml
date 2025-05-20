@@ -22,7 +22,7 @@
  feast_main_stew_flood.0004.stew_introduction_blame:0 "酔った勢いで、[stew_sea_blamed.GetTitledFirstName]は宴会場の真ん中の暖炉の上にぶら下がった大釜の蓋をうっかり開けてしまった！部屋の半分をシチューの海で覆うほどの香ばしいスープが湧き出てきた！"
  feast_main_stew_flood.0004.stew_introduction:0 "宴会の喧騒の中で、[activity.GetOwner.GetTitledFirstNamePossessive]の召使いの一人が、宴会場中央の暖炉にかかっていた巨大な鍋の留め金を誤って外してしまった！　中の旨味たっぷりのシチューがあふれ出し、部屋の半分をシチューの海で覆い尽くした！"
  feast_main_stew_flood.0004.getting_covered:0 "\nあまりにも近くに座っていた私に、脂ぎった食事が[ROOT.Char.GetFaith.NegativeAfterLife]のどん底から生まれた波のように降り注いだ。私の服はきれいになっても、広間に満ちた嘲笑がもたらした恥辱は洗い流せない。"
- feast_main_stew_flood.0004.a:0 "なんだってこんなことになるんだ！？"
+ feast_main_stew_flood.0004.a:0 "なんだってこんなことになるんだ!?"
  feast_main_stew_flood.0005.t:1 "シチューの海"
  feast_main_stew_flood.0005.stew_introduction_blame:0 "酔った勢いで、[stew_sea_blamed.GetTitledFirstName]は宴会場の真ん中の暖炉の上にぶら下がった大釜の蓋をうっかり開けてしまった！部屋の半分をシチューの海で覆うほどの香ばしいスープが湧き出てきた！"
  feast_main_stew_flood.0005.stew_introduction:0 "宴会の喧騒の中で、[activity.GetOwner.GetTitledFirstNamePossessive]の召使いの一人が、宴会場中央の暖炉にかかっていた巨大な鍋の留め金を誤って外してしまった！　中の旨味たっぷりのシチューがあふれ出し、部屋の半分をシチューの海で覆い尽くした！"

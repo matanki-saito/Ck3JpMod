@@ -47,7 +47,7 @@
  court.5041.desc_option_3:0 "私はひそかに使用人たちに、蛇を見つけてくるよう命じた——できるだけ多く。そして、[prank_target.GetTitledFirstName]が外に出たところで、私は[prank_target.GetHerHis]の部屋に蛇を放つ。[prank_target.GetHerHis]が戻ってきてからホールに響く悲鳴に、私は笑い転げる！"
  court.5041.desc_option_4:0 "私は香を非常に細かく砕くと、手のひらに隠す。それから、蠟燭を挟んでテーブルで向かい合わせに座ると、[prank_target.GetTitledFirstNamePossessive]の顔に向かって手の中のものを放つ。粉末が炎に触れると、それは見事に発火する！\n\n[prank_target.GetSheHe|U]は[prank_target.GetHerHis]の顔が燃えていると思って叫び声を上げるが、私はそれがただのいたずらだと知っているので、愉快に笑っている。"
  court.5041.desc_option_5:0 "私は[prank_target.GetTitledFirstNamePossessive]の部屋の扉を注意深く開けると、椅子の上でバランスを取りながら、ゆっくりと扉のフレームの上に満杯になったおまるを置く。そして、素早くノックをすると、さらに素早く角を曲がって逃げる。\n\n「どなた——」#EMP ブシャァァァァァァ！#!"
- court.5041.desc_opening:0 "#EMP ぶぅぅぅ！！#!\n\n[prank_target.Custom2('MyCharacterIntroduction', ROOT.Char)]が椅子に座ったとたん、音がホール中に響き、[prank_target.GetHerHis]の顔は、沈黙が続くにつれて赤くなるばかりだ。私は笑いをこらえるのに必死だが、もう一度[prank_target.GetHerHim]にいたずらしようと思えば、疑われないようにしなければ！"
+ court.5041.desc_opening:0 "#EMP ぶぅぅぅ!!#!\n\n[prank_target.Custom2('MyCharacterIntroduction', ROOT.Char)]が椅子に座ったとたん、音が広間中に響き、[prank_target.GetHerHis]の顔は、沈黙が続くにつれて赤くなるばかりだ。私は笑いをこらえるのに必死だが、もう一度[prank_target.GetHerHim]にいたずらしようと思えば、疑われないようにしなければ！"
  court.5041.a:0 "止めて、[prank_target.GetHerHim]を慰めよう。"
  court.5041.option_1:0 "[prank_target.GetHerHis|U]の次の食事は「蛆虫」だらけになるだろう！"
  court.5041.option_2:0 "[prank_target.GetSheHe]が次に食べるステーキは血を流しているように見える！"

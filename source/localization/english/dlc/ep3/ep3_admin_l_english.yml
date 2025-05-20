@@ -103,7 +103,7 @@
  ep3_admin_events.0004.t: "官僚制よさらば"
  ep3_admin_events.0004.desc: "不運で残酷な運命のいたずらにより、私は仕事も家も失う羽目になった。#EMP すべて#!、私が築き上げてきたものが、一瞬で消え去ったのだ。\n\n私は持てるだけのものを掴み、自分の屋敷を最後に振り返る。"
  ep3_admin_events.0004.desc_spouse_upset: "\n\n私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('reacting_spouse'))]、[reacting_spouse.GetFirstName]が心配そうな視線を私に向ける。\n「荷物はまとめたよ……これ以上引き延ばしても仕方ないだろうし……」"
- ep3_admin_events.0004.desc_spouse_very_upset: "\n\n「……どうして……どうしてこんなことになってしまったの……？！」  [reacting_spouse.GetShortUIName]が背後で声を上げて泣きじゃくる。  \n\n「すべてを失ってしまった……私はこれからどうすればいい……」"
+ ep3_admin_events.0004.desc_spouse_very_upset: "\n\n「……どうして……どうしてこんなことになってしまったの……!?」  [reacting_spouse.GetShortUIName]が背後で声を上げて泣きじゃくる。  \n\n「すべてを失ってしまった……私はこれからどうすればいい……」"
  ep3_admin_events.0004.a: "おいで、[reacting_spouse.GetFirstName]。大丈夫だよ。"
  ep3_admin_events.0004.b: "よし、行こう。"
  ep3_admin_events.0004.c: "振り返ってもしょうがない…"

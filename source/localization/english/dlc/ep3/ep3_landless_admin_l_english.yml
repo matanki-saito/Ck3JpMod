@@ -69,7 +69,7 @@
  ep3_landless_admin.1050.desc.servants: "使用人の営舎の下です！"
  ep3_landless_admin.1050.desc.wine: "我らのワインセラーの下です！"
  ep3_landless_admin.1050.desc.outro: "それがなんと、四方八方に広がっておるのです！」\n\n目の前の光景は驚嘆すべきものだった。これが我々の石工たちの手によるものだとは到底思えない。\n\nこれらの壁には遥かに古い存在の気配が漂っている。石はあまりに古びていて、崩れ落ちそうだ。"
- ep3_landless_admin.1050.a: "誰が…誰がこんなものを作った！？"
+ ep3_landless_admin.1050.a: "誰が…誰がこんなものを作った!?"
  ep3_landless_admin.1050.b: "「誰かがそこで迷子になったら大変なことになるな……」"
  ep3_landless_admin.1050.c: "「囚人たちがここから逃げ出す危険を冒すわけにはいかない」"
  ep3_landless_admin.1050.c.success: "あなたは牢獄を補強する"

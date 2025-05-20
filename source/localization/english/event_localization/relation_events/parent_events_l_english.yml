@@ -37,7 +37,7 @@
  parent.1010.b:0 "リラックスしている時間はない！"
  parent.2002.t:0 "健全な教育"
  parent.2002.desc:0 "何日も[child.GetTitledFirstName]を見なかった後、私はすぐに、私の出過ぎた[parent.Custom('MotherFather')]が[child.GetSheHe]がどこにいたかを正確に知っていることに気づいた。\n「私は[child.GetHerHis]の教育を懸念して遠ざけただけだ。[new_guardian.GetTitledFirstNamePossessive]の保護の下なら、[child.GetHerHim]にとって物事がはるかに良くなるだろう」"
- parent.2002.a:0 "私の[child.Custom('DaughterSon')]を#EMP どこへ#!やった！？"
+ parent.2002.a:0 "私の[child.Custom('DaughterSon')]を#EMP どこへ#!やった!?"
  child_sent_away_tt:0 "[child.GetTitledFirstName]は[new_guardian.GetTitledFirstName]によって教育されます"
  parent.2003.t:0 "狭量な私の[parent.Custom('MotherFather')|U]"
  parent.2003.desc:0 "[parent.Custom('MotherFather')]と、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hated_courtier'))]である[hated_courtier.GetTitledFirstName]との確執は決して終わることがないと思っていた。\n\nああ、今がそうだ。私の[parent.Custom('MotherFather')]は、[hated_courtier.GetFirstNameNoTooltip]を[ROOT.Char.Custom('GetRealmOrDomicile')|l]から追放した！"

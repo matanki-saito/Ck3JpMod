@@ -71,7 +71,7 @@
  bp1_yearly.2030.tt_nemesis:0 "彼らは不倶戴天の敵になります"
  bp1_yearly.2030.tt_nothing:0 "関係はまだ少し陳腐化しています"
  bp1_yearly.2040.t:0 "家庭内の紛争"
- bp1_yearly.2040.desc:0 "[bp1_yearly_2040_upset_consort.GetTitledFirstName]が[ROOT.Char.Custom('GetRoom')]に飛び込んで来た。まるで沸騰した鍋のように興奮している。[bp1_yearly_2040_upset_consort.GetHerHim]から放たれる熱気に、わずかばかり気圧される。\n\n「こんな、#EMP 受け入れられない#!、[bp1_yearly_2040_target_consort.GetSheHe]の、[bp1_yearly_2040_target_consort.GetSheHe]のやり方は…あーっ！[bp1_yearly_2040_target_consort.GetFirstName]はどうしてあんなにも#EMP [bp1_yearly_2040_target_consort.Custom('InsultNoun')]#!なんだ！」[bp1_yearly_2040_upset_consort.GetFirstNameNoTooltip]は腕を振って激しく感情を表す。「#EMP 何とか#!なりません？！」"
+ bp1_yearly.2040.desc:0 "[bp1_yearly_2040_upset_consort.GetTitledFirstName]が[ROOT.Char.Custom('GetRoom')]に飛び込んで来た。まるで沸騰した鍋のように興奮している。[bp1_yearly_2040_upset_consort.GetHerHim]から放たれる熱気に、わずかばかり気圧される。\n\n「こんな、#EMP 受け入れられない#!、[bp1_yearly_2040_target_consort.GetSheHe]の、[bp1_yearly_2040_target_consort.GetSheHe]のやり方は…あーっ！[bp1_yearly_2040_target_consort.GetFirstName]はどうしてあんなにも#EMP [bp1_yearly_2040_target_consort.Custom('InsultNoun')]#!なんだ！」[bp1_yearly_2040_upset_consort.GetFirstNameNoTooltip]は腕を振って激しく感情を表す。「#EMP 何とか#!なりません？」"
  bp1_yearly.2040.desc_paranoia:0 "\n\n[bp1_yearly_2040_upset_consort.GetFirstNameNoTooltip]の状態を考えると、何がしか#EMP 起こった#!という確信は持てない。"
  bp1_yearly.2040.desc_default:0 "\n\n何かが破綻したのは明らかだ。"
  bp1_yearly.2040.desc_outro:0 "慎重に行動する必要がある。"

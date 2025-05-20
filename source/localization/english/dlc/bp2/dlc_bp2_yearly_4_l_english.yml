@@ -37,7 +37,7 @@
  bp2_yearly.4012.a: "私にはまだやるべきことがたくさんある。"
  bp2_yearly.4012.b: "あぁ、なんて煩わしい。私はずっと[famous_dead_parent.GetFirstNameNoTooltip]の影の中で生きるのだ。"
  bp2_yearly.4012.c: "今や対等である。そうだろう、[famous_dead_parent.GetMotherFather|U]よ。"
- bp2_yearly.4012.d: "全く足りない！全くだ！！"
+ bp2_yearly.4012.d: "全く足りない！全くだ!!"
  bp2_yearly.4013.t: "名声の影：亭午"
  bp2_yearly.4013.desc_success: "今日、私は人生で初めて確信を持って目覚めた。私の名声は限りなく広がっており、もはや単に[famous_dead_parent.GetTitledFirstName]の[ROOT.Char.Custom('GetDaughterSon')]はない。私は自分自身の栄光に浸ることができ、ついに[famous_dead_parent.GetMotherFather]の影から解放されたのだ。\n\nもう名声を追い求めなくてよいだろうか？それとも、もっと燃え尽きて輝き続けるべきなのか？子供たちが何世代にもわたり私の名前を口にするようになるまで、さらに輝いて燃え尽きるべきなのだろうか？"
  bp2_yearly.4013.desc_failure: "今日もグチャグチャな考えと共に朝を迎えた。幾年も努力を重ねてきたというのに、私の人生は偉大なりし[famous_dead_parent.GetMotherFather]、[famous_dead_parent.GetTitledFirstName]と比べてなんて青く未熟なのだろうか。[famous_dead_parent.GetHerHis]の影は長く、長く…どれだけ我が身を押し進めても、この暗闇から抜け出せそうにない。\n\n全ての[famous_dead_parent.GetMotherFather]が子に与える呪いなのだろうか。私たちが生まれたのは過去の巨人と無為に争い続けるためなのだろうか。"

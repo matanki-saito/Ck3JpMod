@@ -231,7 +231,7 @@
  ep3_governor_yearly.3070.unlanded: "荘園があるゆえに、あまり関係のない話と思っていたが……しかし[racer.GetName]は命知らずだった。"
  ep3_governor_yearly.3070.chariot: "派手な戦車に乗って、[root_capital.GetName]中を駆け回っている。"
  ep3_governor_yearly.3070.horse: "何度も拍車をかけ、[root_capital.GetName]を駆け回っている。"
- ep3_governor_yearly.3070.desc: "\n\nすると[racer.GetSheHe]があざ笑った。「そなた、このような#EMP 辺鄙な場所#!に住んでおったのか！？　[liege.GetTitleAsNameNoTooltip]はそなたの名前を思い出せぬご様子であったが、なるほど不思議ではあるまいて……。いや不思議というならば、[liege.GetCapitalLocation.GetTitle.GetNameNoTier]からやってきた旅人がここを無事で通る抜けるというが、よっぽど不思議であるな！　」"
+ ep3_governor_yearly.3070.desc: "\n\nすると[racer.GetSheHe]があざ笑った。「そなた、このような#EMP 辺鄙な場所#!に住んでおったのか？ [liege.GetTitleAsNameNoTooltip]はそなたの名前を思い出せぬご様子であったが、なるほど不思議ではあるまいて……。いや不思議というならば、[liege.GetCapitalLocation.GetTitle.GetNameNoTier]からやってきた旅人がここを無事で通る抜けるというが、よっぽど不思議であるな！」"
  ep3_governor_yearly.3070.a: "ここは可能性に満ちている！どこにも行かないぞ！"
  ep3_governor_yearly.3070.b: "荷物をまとめよ。わが一門はこれより首都に移る"
  ep3_governor_yearly.3070.c: "「ご覧の通り問題だらけでして……何卒お力添えを」"

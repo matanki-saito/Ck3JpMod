@@ -46,7 +46,7 @@
  wanderer_lifestyle_events.35.desc.plural.adorable: "しかし、想像していたよりもずっと愛らしい。何か惹きつけられるものがある。"
  wanderer_lifestyle_events.35.desc.plural.neutral: "$wanderer_lifestyle_events.35.desc.singular.neutral$"
  wanderer_lifestyle_events.35.desc.plural.taken_aback: "しかし、その姿には少し驚かされた……。それでも、ついに見つけ出した喜びで胸が高鳴る！"
- wanderer_lifestyle_events.35.a: "私が飼う！！！"
+ wanderer_lifestyle_events.35.a: "私が飼う!!!"
  wanderer_lifestyle_events.35.a.win: "[ROOT.Char.Custom('DistantLandsLoc')]の捕獲に成功する"
  wanderer_lifestyle_events.35.a.lose: "バカみたいだ…"
  wanderer_lifestyle_events.35.b.singular: "ついに目にすることができただけで満足だ。"

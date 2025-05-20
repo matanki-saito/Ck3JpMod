@@ -103,7 +103,7 @@
  commission_epic.1006.b:0 "なにが起きようと、あなたの忠誠は保証済みだ。"
  commission_epic.1007.opening:0 "[vassal.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
  commission_epic.1007.desc:0 "あなたの新しい家族の叙事詩の一部を[ROOT.Char.Custom('CompositionTypeActionPast')]ことがありますが、私の先祖の貢献が無視されていることに動揺しています！\n\nこの不名誉には我慢も限界です。私と私の家族にあなたが悪意を向けているのは明らかです！"
- commission_epic.1007.a:0 "主君に対して良くもそんなことが言えたな？！"
+ commission_epic.1007.a:0 "主君に対して良くもそんなことが言えたものだな!?"
  commission_epic.1007.b:0 "謝罪しよう。あなたの家族のことはもちろん加えさせてもらうよ！"
  commission_epic.2001.t:0 "一族の叙事詩：優位性"
  commission_epic.2001.desc_composer:0 "[steward.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が知らせとともに興奮した様子でやって来た。「あなたの家の叙事詩の最新部分を[ROOT.Char.Custom('CompositionTypeActionPP')]ところ、[ROOT.Char.Custom2('CommissionEpicComposer', composer)]が非常に興味深いことを発見したのです！」"

@@ -19,7 +19,7 @@
  murder_save.0002.opening:0 "[target.GetTitledFirstName]はまだ生きている！\n\n[SCOPE.Custom('VenomousCreature')]は[target.GetTitleTierNamePossessive]のベッドに仕込まれていたが、それは間違った目標に当たってしまった！代わりにそれは"
  murder_save.0002.rel_to_me:0 "——私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover'))]であり——"
  murder_save.0002.end:0 "[target.GetHerHis]の愛人である[lover.GetTitledFirstName]を亡き者にしてしまった！"
- murder_save.1002.desc:1 "「ベッドに戻ってきておくれ、私の[lover.Custom('LoverPetName')]…」\n\n愛人の誘いに乗って営みを始めようとした時、[lover.GetSheHe]が悲鳴を上げた。「どうしたんだ！？」私の問いは目に見える答えとなって返ってきた。[lover.GetSheHe]はシーツの間を這って現れた[SCOPE.Custom('VenomousCreatureType')]を十分に捻り、叩き潰した。\n\n医師が来た頃には既に[lover.GetFirstName]は硬直して冷たくなっていた。私もまた冷たくなったままだ。その[SCOPE.Custom('VenomousCreatureType')]は私に対して向けられたものだったのだ。"
+ murder_save.1002.desc:1 "「戻ってきて…私の[lover.Custom('LoverPetName')]…」\n\n恋人の甘い誘いに応えようとしたそのとき、[lover.GetSheHe]が突然悲鳴を上げた。「どうした!?」と問いかける私の目の前で、[lover.GetSheHe]は身をよじり、もがく。その動きによって、寝台のシーツの間から[SCOPE.Custom('VenomousCreatureType')]が這い出てくるのが見えた。\n\n医師が駆けつけた時には、すでに[lover.GetFirstName]の体は硬直し、冷たくなりはじめていた。私の心もまた凍りついた――あの[SCOPE.Custom('VenomousCreatureType')]は、本来私を狙ったものだったのだ。"
  murder_save.0003.t:1 "$murder_save_header$ 暗殺者"
  murder_save.0003.desc:0 "[target.GetTitledFirstName]はまだ生きている！\n\n私の暗殺者は[target.GetTitleTierName]の部屋に辿り着いたが——こともあろうに——[broken_person.GetTitledFirstName]が介入してきた！[target.GetFirstName]はただ[broken_person.GetHerHim]を苦しめるだけであったが、[broken_person.GetSheHe]は[target.GetHerHim]を守るために命を捧げたのだ。暗殺者は死に、[target.GetFirstName]は逃げることができた。"
  murder_save.0003.a:0 "なんて不条理な世界なんだ。"

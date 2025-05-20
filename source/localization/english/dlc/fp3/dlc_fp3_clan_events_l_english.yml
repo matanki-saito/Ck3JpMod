@@ -149,7 +149,7 @@
  fp3_clan.3000.t: "荒れ果てたチューリップ"
  fp3_clan.3000.desc: "今日は、心地よい天気が私を庭に誘った。\n[fp3_clan_3000_loc_loc.GetNameNoTooltip]にある最も美しい花々が、私の個人的な楽しみのためにここに丁寧に植えられている。\n\nしかし、私の楽しみは儚く散った。私が貴重なチューリップ畑を訪れると、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fp3_clan_3000_bad_child'))]である[fp3_clan_3000_bad_child.GetFirstName]が冷酷にも美しいチューリップを抜いて、[fp3_clan_3000_bad_child.GetHerHis]の[SCOPE.sC('fp3_clan_3000_bad_child').Custom2('RelationToMeShort', SCOPE.sC('fp3_clan_3000_random_family_member'))]への贈り物として渡してしまった。「見て、きれいな花を見つけたんだ。[fp3_clan_3000_random_family_member.GetFirstName]は喜ぶと思うよ！」"
  fp3_clan.3000.a: "健気なことよ。[SCOPE.sC('fp3_clan_3000_bad_child').Custom2('RelationToMeShort', SCOPE.sC('fp3_clan_3000_random_family_member'))]はきっと喜ぶだろう！"
- fp3_clan.3000.b: "私の庭から出て行け！#italic 花を返すんだ！！#!"
+ fp3_clan.3000.b: "私の庭から出て行け！#italic 花を返すんだ!!#!"
  fp3_clan.3000.c: "次の分を一緒に植えるのはどう？"
  fp3_clan.3000.c.flavor: "この機会を利用して、[fp3_clan_3000_bad_child.GetFirstNameNoTooltip]にガーデニングの楽しさを教える。"
  fp3_clan.3000.d: "よくわかった。#italic お前の死肉を肥料にしてもいいんだぞ#!。"

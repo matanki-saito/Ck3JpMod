@@ -234,7 +234,7 @@
  chariot_race.3020.placement_first: "[wager_target.GetFirstNamePossessiveNoTooltip]の間近に迫った勝利を祝うのが楽しみだ！ さあ、配当が来るぞ！"
  chariot_race.3020.placement_good: "思いがけない展開を予感しつつ、[wager_target.GetFirstNameNoTooltip]が絶好の位置から競争を切り抜ける様子を鋭く見守っている。"
  chariot_race.3020.placement_bad: "いい状況とは言えん…"
- chariot_race.3020.placement_last: "#EMP 最下位だと？！#! [wager_target.GetFirstNameNoTooltip]がコースで苦戦し、現在最下位に沈んでいるのを見て胸が締めつけられる。何か思いがけない展開が起きるよう、祈るばかりだ。"
+ chariot_race.3020.placement_last: "#EMP 最下位だと!?#! [wager_target.GetFirstNameNoTooltip]がコースで苦戦し、現在最下位に沈んでいるのを見て胸が締めつけられる。何か思いがけない展開が起きるよう、祈るばかりだ。"
  chariot_race.3020.a: "[wager_target.GetFirstNamePossessiveNoTooltip]の支持者を煽動して暴動を起こさせよ！"
  chariot_race.3020.a.flavor: "#EMP 我が名の下#!の暴力！"
  chariot_race.3020.b: "酒を振る舞うひととき……。"

@@ -135,7 +135,7 @@
  bp2_yearly.0631.desc.rationale.criminality: "「…[ROOT.Char.GetFirstNameNoTooltip]が悪名高き犯罪者であることはもはや言うまでもありますまい。かの罪と悪徳の化身が万一権力を握ってしまったら[rival_successor.GetSheHe]が[ROOT.Char.GetDiarchTitle]となることがあるやもしれませぬ…」"
  bp2_yearly.0631.desc.rationale.opposing_traits: "「…一瞬でもあやつと話しているとどんな[regent.GetWomanMan]でも頭がおかしくなるでしょうね、[ROOT.Char.GetFirstNameNoTooltip]よ——あの[rival_successor.GetWomanMan]の#EMP なにもかも#!が過ちで溢れている、とんでもないことだ！」"
  bp2_yearly.0631.desc.rationale.sins: "「…私には、恥ずべき[regent.GetFaith.GetAdherentName]であるかの[rival_successor.GetWomanMan]と同伴を預かるなどという屈辱に耐えられませぬ。[ROOT.Char.GetFirstNameNoTooltip]様もそうなさってくださいませ、さもなくば[rival_successor.GetHerHis]の罪深き在り姿があなたのか弱く若き心に刻まれましょう」"
- bp2_yearly.0631.desc.rationale.petty_opinions: "「…何か、特定の何かが気に食わないというわけではない。だが[ROOT.Char.GetFirstNameNoTooltip]、あの[rival_successor.GetWomanMan]が常如何なる振る舞いをしているか、ご存知か！？ありとあらゆる行動、その全てが不愉快だ！今にもあやつは[ROOT.Char.GetPrimaryTitle.GetDefinitiveName]に反旗を翻しますぞ、理解もできる下らぬ動機で！」"
+ bp2_yearly.0631.desc.rationale.petty_opinions: "「…何か、特定の何かが気に食わないというわけではない。だが[ROOT.Char.GetFirstNameNoTooltip]、あの[rival_successor.GetWomanMan]が常如何なる振る舞いをしているか、ご存知か？ ありとあらゆる行動、その全てが不愉快だ！今にもあやつは[ROOT.Char.GetPrimaryTitle.GetDefinitiveName]に反旗を翻しますぞ、理解もできる下らぬ動機で！」"
  bp2_yearly.0631.desc.rationale.hideousness: "「…あの#EMP 見た目#!ですよ、かの[rival_successor.GetWomanMan]の顔！まともな[rival_successor.GetWomanMan]とは思えませぬ！荷車の轍の上で顔面がグチャグチャになったカエルの方がまだ美形でありましょう。あれは内面から起因する、あらゆる卑しき罪深き衝動が不潔な肌として現れているのです！」"
  bp2_yearly.0631.desc.rationale.generic: "「…[ROOT.Char.GetFirstNameNoTooltip]には敵が多すぎます、どのような立場にいてもすぐ悪感情を煽るのです。そして私も正直なところそうです。あの[rival_successor.GetWomanMan]を重用するのはお勧めしません。そのご恩もいずれ仇となりましょう」"
  bp2_yearly.0631.desc.outro: "\n\n「もしあなたが[rival_successor.GetHerHim]に今すぐ声を上げなければ、奴は私めの立場を奪い、あなたに#EMP 取り返しのつかない#!害を及ぼすやもしれませんぞ！」"

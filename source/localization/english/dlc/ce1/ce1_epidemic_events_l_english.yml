@@ -91,7 +91,7 @@
  epidemic_events.1050.b: "「神学者を手配して論争させよ！」"
  epidemic_events.1050.b.tt.success: "終末への恐怖を鎮めた"
  epidemic_events.1050.b.tt.failure: "聞く耳を持たない！"
- epidemic_events.1050.c: "「ひょっとしたら、正しい！？」"
+ epidemic_events.1050.c: "「ひょっとしたら、正しい!?」"
  epidemic_events.1060.t: "害悪の先触れ"
  epidemic_events.1060.desc.intro: "領国の人々は[epidemic_scope.GetName]に悩まされ続け、大衆の中で迷信が蔓延している。特に一番の流行りは疫病の原因を何かに押し付けることで、それは"
  epidemic_events.1060.desc.mid.cats: "猫の超自然的な魔力によるものだというのだ。\n\nなにがどうなってそうなったのかはわからないが、そこら辺の猫が疫病の運び手となり、その存在のものが民への呪いになっているのだという。この伝聞はかなり人気であり、伝染病の影響を最も受けている地域は猫を大量に屠殺し始めたようだ。"

@@ -88,7 +88,7 @@
  bp2_yearly.5100.b.tt: "駆け引きが大事な勝負なら頭をカチ割られる心配は無用なはずだ…"
  bp2_yearly.5101.t: "お馬の嗜み"
  bp2_yearly.5101.desc: "けたたましい音で戸を開け、[child.GetFirstName]を追いかける。私たち二人はおもちゃの馬にまたがり、書斎をはしゃぎまわった。[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))][councillor.GetFirstName]は、熟読していた羊皮紙の束から気怠そうに視線を上げる。\n\n「ひどい騒ぎですが、ここで、それを、やっていいとでも？」大声をあげ、大きく身振りする。「#EMP 誰かが#!この領地を回さねばならないのです、我が[ROOT.Char.GetLadyLord]よ、そして、私は、平穏と、静寂を、ありがたいと思いたいのですよ！」\n\n[child.GetFirstNameNoTooltip]を振り返ると、未だに、はしゃぎまわっていた。"
- bp2_yearly.5101.a: "#EMP よくも#!そのような命令を言えたものだな？！"
+ bp2_yearly.5101.a: "#EMP なんと、#!この私に命令する気か!?"
  bp2_yearly.5101.b: "外でレースしましょう、[child.GetFirstNameNoTooltip]！"
  bp2_yearly.5101.b.tt: "何も考えずに外に出て欲しい、ほんとに。"
  bp2_yearly.5101.b.success: "レースに勝利する"

@@ -39,7 +39,7 @@
  peasant_affair.2003.d:0 "この子供を追い払え！"
  peasant_affair.2003.d.tt:0 "#F 一切合切を忘れようではないか。#!"
  peasant_affair.2003.e:0 "なんて残酷な運命だ！"
- peasant_affair.2003.f:0 "私の子供だって！？こいつをつまみ出せ！"
+ peasant_affair.2003.f:0 "私の子供だと!? こいつをつまみ出せ！"
  peasant_affair.2003.g:0 "すぐに[peasant_character.GetHerHim]の手を放せ！あなたは自由に去ることができる。"
  peasant_affair.2004.desc_opening:0 "「我が君、捜索を命じられた農民の痕跡は何一つ見つかりませんでした。おそらく、[peasant_character.GetSheHe]はすでに死んでいます…」\n\n"
  peasant_affair.2004.a:0 "二度と[peasant_character.GetHerHim]に会えないと思うと…苦痛だ！"

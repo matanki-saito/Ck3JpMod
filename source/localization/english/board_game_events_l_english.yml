@@ -380,7 +380,7 @@
  board_games.0041.desc.middle.03:0 "\n\nいずれにせよ、[SCOPE.Custom('BG_GameType')|U]は、#EMP 実際の戦争#!と比べれば安っぽい模倣に過ぎない。今回の凡庸な相手と比較すれば、私は間違いなく格上なのだ。[bg_loser.GetSheHe]が[SCOPE.Custom('BG_GameType')]を学んでる間、#EMP 私は刃を学んでいるのだ。#!にも関わらず…"
  board_games.0041.desc.end.01:0 "\n\n[SCOPE.Custom('BG_GameType')]での私は、#EMP ひどかった#!か？"
  board_games.0041.desc.end.02:0 "\n\n手の平は汗ばみ、膝に力は入らない。私の全身全霊は、[bg_victor.GetFirstName]を負かすには、ただ単に十分ではなかったということ。そう悟った。"
- board_games.0041.desc.end.03:0 "\n\n[recipient.Custom('InsultNoun')]！[recipient.Custom('InsultNoun')]！イカサマだ！そうでない訳がない！どんな理屈で#EMP 私が#!負けたというのだ？！"
+ board_games.0041.desc.end.03:0 "\n\n[recipient.Custom('InsultNoun')]！[recipient.Custom('InsultNoun')]！イカサマだ！そうでない訳がない！どんな理屈で#EMP 私が#!負けたというのだ!?"
  board_games.0041.b.b:0 "このまま称え続けるがいい。だが[ROOT.Char.GetFaith.HighGodName]に誓って、私の足でお仕置きしてやるぞ！"
  bg_gametype_go:0 "碁"
  bg_gametype_fidchell:0 "フィドヘル"

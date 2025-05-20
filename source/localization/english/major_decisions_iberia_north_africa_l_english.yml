@@ -127,7 +127,7 @@
  iberia_north_africa.0122.b.same_religion:0 "これは彼らの消滅で終わるしかない。"
  iberia_north_africa.0122.b.respects_fellow_warmongers:0 "少なくとも、彼らは戦いを恐れてはいない。"
  iberia_north_africa.0122.b.misc:0 "彼らが遠くで戦っている限りは。"
- iberia_north_africa.0122.c.same_faith:0 "[religious_leader.GetFirstNameNoTooltip]が朽ちた木立のために[old_faith.HighGodName]を諦めただと？！"
+ iberia_north_africa.0122.c.same_faith:0 "[religious_leader.GetFirstNameNoTooltip]が朽ちた木立のために[old_faith.HighGodName]を諦めただと!?"
  iberia_north_africa.0122.c.same_religion:0 "[religious_leader.GetFirstNameNoTooltip]は[religious_leader.GetSheHe]が我々より#EMP 優れている#!とでも思っているのか？"
  iberia_north_africa.0122.c.believes_in_harmony_with_nature:0 "少なくとも、彼らは自然の驚異については理解している。"
  iberia_north_africa.0122.c.misc:0 "それで、彼らは木の代弁者なのか？"

@@ -11,7 +11,7 @@
  hunt_mystical_animal.1003.b.tt:2 "#V [THIS.Char.Custom('GetLegendaryColor')][THIS.Char.Custom('GetAnimalType')]#!の追跡を断念する"
  hunt_mystical_animal.1003.c:0 "我が[steward.GetCouncilTitle]がこの仕事をやるだろう。"
  hunt_mystical_animal.1003.d:0 "私にはできる。私が#EMP しなければ#!！"
- hunt_mystical_animal.1004.desc:1 "「我が[ROOT.Char.GetLadyLord]！[m_hunt.GetTitledFirstName]が[legendary_county.GetCountyData.GetCapital.GetNameNoTooltip]の[legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')]で人々があの[ROOT.Char.Custom('GetLegendaryColor')][ROOT.Char.Custom('GetAnimalType')]を知っているという報告を得ました！\n\n人々は繁栄から病気までその全てがそれに従っているなどと言っておりますが、皆がこの地域にいると確信しているようです。」\n\nあいつがここに？[ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]に？！"
+ hunt_mystical_animal.1004.desc:1 "「我が[ROOT.Char.GetLadyLord]！[m_hunt.GetTitledFirstName]が[legendary_county.GetCountyData.GetCapital.GetNameNoTooltip]の[legendary_county.GetCountyData.GetCapital.Custom('GetTerrainTypePlural')]で人々があの[ROOT.Char.Custom('GetLegendaryColor')][ROOT.Char.Custom('GetAnimalType')]を知っているという報告を得ました！\n\n人々は繁栄から病気までその全てがそれに従っているなどと言っておりますが、皆がこの地域にいると確信しているようです」\n\nあいつがここに？ [ROOT.Char.GetCurrentLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]にだと!?"
  hunt_mystical_animal.1004.a:0 "行くぞ！"
  hunt_mystical_animal.1004.a.tt:0 "今度は私から逃げられないぞ。"
  hunt_mystical_animal.1004.b:0 "こんな風に私をいいようにはさせないぞ。"

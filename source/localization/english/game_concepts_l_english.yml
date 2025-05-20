@@ -1262,7 +1262,7 @@
  game_concept_create_title:0 "称号創設"
  game_concept_created_title:0 "称号を創設"
  game_concept_uncreated_title:0 "創設されていない称号"
- game_concept_title_creation_desc:2 "まだ作成されていない[titlepossessive|E]の[de_jure|E]領土の大多数を支配している[ruler|E]は当該地域に関係する称号を作成できます。称号の作成には[gold|E]が必要ですが、[prestige|E]を獲得できます。\n\n[duchy|E]級、[kingdom|E]級、[empire|E]級の称号に限り作成可能です。\n\n「現在の状況」ウィジェットから現在作成可能な全称号の一覧を確認できます。"
+ game_concept_title_creation_desc:2 "まだ作成されていない[titlepossessive|E]の[de_jure|E]の大多数を支配している[ruler|E]は当該地域に関係する称号を作成できます。称号の作成には[gold|E]が必要ですが、[prestige|E]を獲得できます。\n\n[duchy|E]級、[kingdom|E]級、[empire|E]級の称号に限り作成可能です。\n\n「現在の状況」ウィジェットから現在作成可能な全称号の一覧を確認できます。"
  game_concept_foreign_affairs:0 "$task_foreign_affairs$"
  game_concept_foreign_affairs_desc:0 "[chancellor|E]によって実行される[councillor_task|E]です。\n[independent|E]した[ruler|E]においては、他の独立君主からの評価を増加させます。封臣においては、同じ[liege|E]を持つ他の封臣からの評価を増加させます。"
  game_concept_domestic_affairs:0 "$task_domestic_affairs$"

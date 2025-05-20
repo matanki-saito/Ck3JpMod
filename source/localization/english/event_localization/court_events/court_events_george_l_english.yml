@@ -83,7 +83,7 @@
  court.7600.b.victory:1 "[child.GetNameNoTooltip]の成功した狩り"
  court.7600.c:1 "これほど誇らしいことはない！"
  court.7610.title:0 "腰の据わった要求"
- court.7610.desc:1 "私の[child.Custom('GetDaughterSon')][child.GetName]は成長し、いつか社会で高い役割を果たすことを期待されるようになっている。どうやら、[child.GetSheHe]は今日こそがその日であると決断したようだ。\n\n「[ROOT.Char.GetMotherFather|U]よ、私にデストリア（軍馬）をいただけますか？」\n\n#EMP 軍馬だと？#!#EMP 子供に！？#!私が要求について考えていると、$master_of_horse_court_position$[horsemaster.GetName]が玉座の間からちらりとこちらを見ているのに気がついた。\n\n少なくとも、私の[child.Custom('GetDaughterSon')]が最近誰と話していたかはわかった気がする…"
+ court.7610.desc:1 "私の[child.Custom('GetDaughterSon')][child.GetName]は成長し、いつか社会で高い役割を果たすことを期待されるようになっている。どうやら、[child.GetSheHe]は今日こそがその日であると決断したようだ。\n\n「[ROOT.Char.GetMotherFather|U]よ、私にデストリア（軍馬）をいただけますか？」\n\n#EMP 軍馬だと？#!#EMP 子供に!?#!私が要求について考えていると、$master_of_horse_court_position$[horsemaster.GetName]が玉座の間からちらりとこちらを見ているのに気がついた。\n\n少なくとも、私の[child.Custom('GetDaughterSon')]が最近誰と話していたかはわかった気がする…"
  court.7610.a:0 "なんと大胆な選択だ！"
  court.7610.b:1 "もう少し…小さなものではどうだ？"
  court.7610.c:1 "冗談はそこまでだ。"

@@ -95,7 +95,7 @@
  learning_theology.3045.desc:0 "苛立たしい！どうしても、神秘的な最初の実験で得た感覚をつかめないのだ。\n\nそこに#EMP なにかある#!という感じ、手が届かない、ただ消えさった、何をしようとも！"
  learning_theology.3045.a:0 "もう一度あの感覚を掴まなければ！"
  learning_theology.3045.b:0 "[ROOT.Char.GetFaith.HighGodNameAlternate]と交信することこそ願いだ。"
- learning_theology.3046.desc:0 "私は神秘的知識と体験を長く追い求めてきたが、今もって得られたものは…何も無い！本当の最初の実験に戻り、当時の条件を完全に再現することが残された唯一の答えだろう。\n\n神と交信しなければならぬ。それとも意図的に無視されているのか？！"
+ learning_theology.3046.desc:0 "私は神秘的知識と体験を長く追い求めてきたが、今もって得られたものは…何も無い！ 本当の最初の実験に戻り、当時の条件を完全に再現することが残された唯一の答えだろう。\n\n神と交信しなければならぬ。それとも意図的に無視されているのか!?"
  learning_theology.3046.a:0 "答えを見つけねば！"
  learning_theology.3046.a.success:0 "実験は成功する"
  learning_theology.3046.a.success.tt:1 "あなたは[GetTrait('lifestyle_mystic').GetName( GetPlayer )]を得ます"

@@ -103,7 +103,7 @@
  stress_trait_coping_decisions.5502.desc_landless: "食事の準備が整うのを待ちながら陣営を歩き回っていると、近くの集落の若者に出くわした。\n\n[ROOT.Char.GetSheHe|U]は何とか見逃して貰おうとゴチャゴチャ言っているが、許すわけが無いだろう？こんな絶好の食事を見逃すわけにはいかない！\n\n私は[ROOT.Char.GetHerHim]を人目の届かない荒野の端へと連れて行く。そこで多少の悲鳴など気にする必要はない。そして、#EMP 今宵の宴はこれで決まりだ#!！"
  stress_trait_coping_decisions.5502.a_landless: "ああ、#EMP これこそが享楽#!。"
  stress_trait_coping_decisions.2004.t: "ストレス解消：結果"
- stress_trait_coping_decisions.2004.desc: "ある日の午後、不意に農民が赤ん坊を抱えて私に近寄ってきた。[prostitute.GetHerHis]の頬には涙が伝っている。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]！」\n[prostitute.GetSheHe]は私を責めるように声を張り上げた。\n「あなたはやったことに責任をとりなさい！ この小さな[baby.Custom('GirlBoy')]は……#EMP あなたの子#!です！！」\n\n私は思わず息を詰まらせた——だが、[prostitute.GetHerHis]の顔を……あの身体を……罪の巣窟の薄暗い蝋燭の明かりに照らされた姿を……私は覚えているだろうか……？"
+ stress_trait_coping_decisions.2004.desc: "ある日の午後、不意に農民が赤ん坊を抱えて私に近寄ってきた。[prostitute.GetHerHis]の頬には涙が伝っている。\n\n「[ROOT.Char.GetTitledFirstNameNoTooltip]！」\n[prostitute.GetSheHe]は私を責めるように声を張り上げた。\n「あなたはやったことに責任をとりなさい！ この小さな[baby.Custom('GirlBoy')]は……#EMP あなたの子#!です!!」\n\n私は思わず息を詰まらせた——だが、[prostitute.GetHerHis]の顔を……あの身体を……罪の巣窟の薄暗い蝋燭の明かりに照らされた姿を……私は覚えているだろうか……？"
  stress_trait_coping_decisions.2004.a: "私の子だ…#EMP 私#!の[baby.Custom('GetDaughterSon')]だぁ！"
  stress_trait_coping_decisions.2004.b: "気狂いの女め、そんな稚児など知るか。"
  stress_trait_coping_decisions.2004.c: "我を何だと思っている！衛兵！"

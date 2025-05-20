@@ -75,7 +75,7 @@
  religious_interaction.2100.t:0 "[imprisoner.GetFaith.HighGodNamePossessive|U]の裁き"
  religious_interaction.2100.desc:1 "[ROOT.Char.GetFaith.HighGodName]はどれだけ長い間暗い独房にいたかをご存じでしょうか。厳しい日差しに目が眩む。私を[imprisoner.Custom('FortifiedBuilding')]から荒野に連れ出す護衛らは、驚くほど厳粛で、儀式的ですらある。\n\n"
  religious_interaction.2100.a.believer:0 "[imprisoner.GetFaith.HighGodName|U]の裁きは公平だ！"
- religious_interaction.2100.a.unbeliever:0 "私をここに#EMP 残して#!行くと？！"
+ religious_interaction.2100.a.unbeliever:0 "私をここに#EMP 残して#!行くと!?"
  religious_interaction.2100.a.success:0 "あなたは試練から生き残る"
  religious_interaction.2100.a.failure:0 "あなたは太陽の下で死ぬ"
  religious_interaction.2101.start.desc:0 "水！水をくれ！喉も頭も肌も——全てが焼けてしまう！\n\n本当に[ROOT.Char.GetFaith.DevilName]はここで惨めなわたしを笑っているのか？[ROOT.Char.GetFaith.WaterGodName]は水さしを差し出していたか？私は飲んで、飲んだはずなのに、渇きは永遠に癒えなかった。"

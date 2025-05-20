@@ -10,7 +10,7 @@
  murder_ongoing.3010.b:0 "[agent_in_question.GetTitledFirstNameNoTooltip]を酒から遠ざけなければならない。"
  murder_ongoing.3010.c:0 "彼の自制心のほうが勝るに違いない！準備をしておけ。"
  murder_ongoing.3301.t:0 "$murder_event_title$最も鋭いわけではない懐刀"
- murder_ongoing.3301.desc:0 "私の「儀式用のナイフ」はどこへ行ったのだ？！[target.GetTitledFirstNamePossessive]の引き出しに仕込んでおくはずだったのに！この頃研いでおいたはずだったのに！\n\n部屋をひっくり返して探したが、どこにも見つからない。"
+ murder_ongoing.3301.desc:0 "私の「儀式用のナイフ」はどこへ行ったのだ!? [target.GetTitledFirstNamePossessive]の引き出しに仕込んでおくはずだったのに！この頃研いでおいたはずだったのに！\n\n部屋をひっくり返して探したが、どこにも見つからない。"
  murder_ongoing.3301.a:0 "此処に置いていたはずなのに！"
  murder_ongoing.3302.t:0 "$murder_event_title$これを少し、あれも少し"
  murder_ongoing.3302.desc:0 "ふと、[herb_location.GetNameNoTooltip]の[herb_location.GetTerrain.GetNameNoTooltip|l]を旅していたときに手に入れた薬草のことを思い出す。\n\nあれならきっと、[target.GetTitledFirstName]をこの世の苦しみから「解放」するという私の試みに、ひと味#EMP 彩り#!を加えてくれるはずだ。"

@@ -312,7 +312,7 @@
  stress_threshold.3401.desc.sadistic:0 "「お前の無様な働きぶりは悪しき前例になるな。"
  stress_threshold.3401.desc.fallback:0 "$stress_threshold.3401.desc.wrathful$"
  stress_threshold.3401.desc.rump:0 "#EMP この愚か者の首をはねよ！#!」\n\nその瞬間、宮廷は静まり返った。"
- stress_threshold.3401.a.reclusive.gain:0 "全員私の前から失せろ！！"
+ stress_threshold.3401.a.reclusive.gain:0 "全員私の前から失せろ！"
  stress_threshold.3401.a.reclusive.effect:0 "$stress_threshold.3401.a.reclusive.gain$"
  stress_threshold.3401.a.reclusive.list:0 "あなたの直系の家族以外のすべての[character|E]"
  stress_threshold.3401.b.irritable.gain:0 "私と話そうとする者は誰でも首を刎ねろ！"

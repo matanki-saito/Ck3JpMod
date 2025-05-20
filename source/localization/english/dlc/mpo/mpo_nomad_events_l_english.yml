@@ -43,7 +43,7 @@
  nomad_events.0006.desc.calm: "\n\n…私は[recipient.GetHerHim]に文を渡し、回答を待つ。"
  nomad_events.0006.desc.fallback: "\n\n私は黙って[recipient.GetHerHis]の足元に文を放り投げ、説明を促した。"
  nomad_events.0006.desc.achmach_outro: "\n\n「……ふむ、私の文が届いたのか。\n以前にも警告はしたはずですがね、恐れる君よ。私からすれば犬が歩けなくなるほどに飢えされることは実に容易いことだ。そうすれば、主人が飼い犬に噛まれるようなことも無くなる」"
- nomad_events.0006.desc.courtier_outro: "\n\n「こんなことをしたと私を疑うのですか！？我が[ROOT.Char.GetTitleAsNameNoTooltip]、断じて、断じてですよ、あなたをずっと守りたいと思っていた！」"
+ nomad_events.0006.desc.courtier_outro: "\n\n「こんなことをしたと私を疑うのですか!? 我が[ROOT.Char.GetTitleAsNameNoTooltip]、断じて、断じてですよ、あなたをずっと守りたいと思っていた！」"
  nomad_events.0006.desc.courtier_outro_2: "\n\n[recipient.GetFirstNameNoTooltip]はイラつきを隠そうともせずに首を掻き、吐き捨てる。\n「知らないですよ、そんなもの…」"
  nomad_events.0006.a: "牝馬から乳を引き絞るように、真実を吐かせてやる。"
  nomad_events.0006.b: "いや、この文は明らかに黒魔術の証左だ。"

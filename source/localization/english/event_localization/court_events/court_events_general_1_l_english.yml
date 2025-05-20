@@ -1,6 +1,6 @@
 ﻿l_english:
  court_events.1000.t: "もっとも偉大なるもの"
- court_events.1000.desc: "「偉大なる[ROOT.Char.GetTitleAsNameNoTooltip]殿！我々二人は共に既知の世界を巡り歩きました」と、有名な旅人二人組の一人である[guest.GetName]が恭しく言う。「陽光に輝く歓楽の宮殿も！氷の洞窟も！パレスチナの乳を飲み、蜜の露で飢えを満たしました。」\n\n「我々はハーンの陣営にも、スルタンの宮殿にも、古の大広間にも訪れましたが、この世のどの宮廷もあなたの宮廷には及びません。その威厳と贅沢さに匹敵するものは一つもありません！」\n\n[guest.GetHerHis|U]の同行者である[guest_2.GetName]が、奇妙な異国の礼拝を捧げ、懇願する。\n\n「この場所の快適さは、[second_court.GetPrimaryTitle.GetAdjective]の浮かれた贅沢品をもはるかに超えています……賢明なる[ROOT.Char.GetTitleAsNameNoTooltip]殿、どうか、我々に[guest_2.GetFaith.PositiveAfterLife]の予兆をさらに見せてください！」"
+ court_events.1000.desc: "「偉大なる[ROOT.Char.GetTitleAsNameNoTooltip]殿！我々二人は共に既知の世界を巡り歩きました」と、有名な旅人二人組の一人である[guest.GetName]が恭しく言う。「陽光に輝く歓楽の宮殿も！氷の洞窟も！パレスチナの乳を飲み、蜜の露で飢えを満たしました。」\n\n「我々はハンの野営地にも、スルタンの宮殿にも、古の大広間にも訪れましたが、この世のどの宮廷もあなたの宮廷には及びません。その威厳と贅沢さに匹敵するものは一つもありません！」\n\n[guest.GetHerHis|U]の同行者である[guest_2.GetName]が、奇妙な異国の礼拝を捧げ、懇願する。\n\n「この場所の快適さは、[second_court.GetPrimaryTitle.GetAdjective]の浮かれた贅沢品をもはるかに超えています……賢明なる[ROOT.Char.GetTitleAsNameNoTooltip]殿、どうか、我々に[guest_2.GetFaith.PositiveAfterLife]の予兆をさらに見せてください！」"
  court_events.1000.a: "たまには寄付をせんと要らん悪評を買うしな…"
  court_events.1000.a.flavor: "我が富にて豊かになれ、臣ども！"
  court_events.1000.b: "「この、もっとも偉大なる宮廷にとどまるが良い」"

@@ -7,7 +7,7 @@
  grand_tournament_active:0 "あなたが参加できる[GetActivityType('activity_tournament').GetName]がある必要があります"
  ep2_decision_events.0001.t:0 "競技会の訓練"
  ep2_decision_events.0001.desc:0 "「そこ、右です！」と[marshal.GetTitledFirstName]が叫びながら、私の剣に力強い一撃を加え、私は数歩下がる。[marshal.GetSheHe]は言い放つ。「大会で手心を加えてくれる者などいませんよ、我が[ROOT.Char.GetLadyLord]。勝ちたいのなら、一度だって負けてはならないのです。この私にさえ！」\n\nそして、汗を[marshal.GetHerHis]の額から拭い、続ける。「一度たりとも負けない。勝つためには、そういう覚悟が必要なのです。」"
- ep2_decision_events.0001.a:0 "「#EMP ガアアアアアアアアアア！！#!」"
+ ep2_decision_events.0001.a:0 "「#EMP ガアアアアアアアアアア!!#!」"
  ep2_decision_events.0001.a.crit_success:0 "このトレーニングは#EMP 最高だ#!"
  ep2_decision_events.0001.a.success:0 "トレーニングは印象的だ"
  ep2_decision_events.0001.a.failure:0 "トレーニングはうまくいった"

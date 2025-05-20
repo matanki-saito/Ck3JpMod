@@ -1,7 +1,7 @@
 ﻿l_english:
  ep3_wedding.0001.t: "認識外の[other_family_spouse.Custom('GetBrideGroom')|U]"
  ep3_wedding.0001.desc: "踊りが始まった！\n音楽が激流のように流れ出し、まるで最も力強い木々さえも揺さぶる風のように鳴り響いている。\n\n[flirting_in_law.GetName]、[other_family_spouse.Custom('GetBrideGroom')]の[other_family_spouse.Custom2('RelationToMeShort', SCOPE.sC('flirting_in_law'))]が、他の者たちと共に踊っている。[flirting_in_law.GetHerHis]の体は、まるでそよ風に舞う葉のように軽やかだ。\nしかし、[flirting_in_law.GetHerHis|U]の視線は他の踊り手には向けられていない…… そう、[flirting_in_law.GetHerHis]の瞳は、まっすぐに私を見つめている。\n#EMP 誘うように。#!\n\n夜が更けていく。\n[flirting_in_law.GetFirstNamePossessiveNoTooltip]の熱のこもった視線に加え、かすかな触れ合いが交わされるようになる。[flirting_in_law.GetHerHis]の波打つ腰の動きが、私の内に何かを目覚めさせ始めている。"
- ep3_wedding.0001.desc_own_wedding: "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('other_family_spouse'))]である[other_family_spouse.GetFirstName]の姿はどこにも見当たらない。\nならば、#EMP これこそが#![other_family_spouse.GetHerHis]の一族の魅力を味わう方法なのか……？\n\nだが、自分の結婚式で？\nしかも、#EMP [other_family_spouse.Custom('WifeHusband')]の[other_family_spouse.Custom2('RelationToMeShort', SCOPE.sC('flirting_in_law'))]#!と！？"
+ ep3_wedding.0001.desc_own_wedding: "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('other_family_spouse'))]である[other_family_spouse.GetFirstName]の姿はどこにも見当たらない。\nならば、#EMP これこそが#![other_family_spouse.GetHerHis]の一族の魅力を味わう方法なのか……？\n\nだが、自分の結婚式で？\nしかも、#EMP [other_family_spouse.Custom('WifeHusband')]の[other_family_spouse.Custom2('RelationToMeShort', SCOPE.sC('flirting_in_law'))]と!!?"
  ep3_wedding.0001.desc_guest: "今日この日、聖なる婚姻を契るは#EMP 我ら#!にあらず！\n\nというわけで、きっと薄暗い隅に、冒涜的で淫靡なるもののための場所があるに違いない。"
  ep3_wedding.0001.a_non_spouse: "今日の主役は[same_family_spouse.GetFirstNameNoTooltip]だ、[same_family_spouse.GetHerHim]の日だ！"
  ep3_wedding.0001.a_spouse: "今日の主役は[other_family_spouse.GetFirstNameNoTooltip]だ、[other_family_spouse.GetHerHim]の日だ！"

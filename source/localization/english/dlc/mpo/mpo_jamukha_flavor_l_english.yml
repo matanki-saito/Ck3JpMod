@@ -19,7 +19,7 @@
  mpo_jamukha_flavor.0010.desc: "私はこれまで、[temujin.GetTitledFirstNamePossessive]とともに自らの民を率いてきた。彼の気まぐれに忠実に従い、心に迷いを抱えながらも、常にその傍らにあった。\n\nだが、女どもは[temujin.GetFirstNamePossessiveNoTooltip]の耳元で毒をささやき、\n彼の夜警たちは、私がゲルに近づくだけで冷たい目を向けてくる。\n\nこれ以上、この侮辱にどれほど耐えられるというのか……。\n\n"
  mpo_jamukha_flavor.0010.desc_togrul: "そして、強大なる[togrul.GetName]はもし私が[temujin.GetFirstNamePossessiveNoTooltip]を見限るのであれば、[togrul.GetHerHis]の庇護を約束するという…。"
  mpo_jamukha_flavor.0020.t: "血の夢を抱く男たち"
- mpo_jamukha_flavor.0020.desc: "俺は怒りと恥辱に燃えながら、夜の闇を駆けて[temujin.GetTitledFirstNamePossessive]の陣幕へと向かった。運命だろうか……焚き火の光が届かぬ心の奥底に潜む暗い思念が、身体を突き動かしていた。\n\n[temujin.GetFirstNameNoTooltip]と俺は幼き時、大ねずみの死骸をむしり取って食べた。あの肉は、まるで毒のように、今もこの腹に重く残っている。\n友情を交わした一言一句を思い出すたびに心は焼かれ、顔の皮を剥がすように苛まれる。\n#EMP 奴#!が全モンゴルを統べること、それを運命だと、それが#EMP 俺#!の運命だと言うのか！\n……子供じみた約束と引き換えに手に入れたのが、こんな裏切り者の人生か！\n\n#EMP 「ブチ殺してやる！殺す！必ず殺す！！」#!\n絶叫した。[temujin.GetFirstNameNoTooltip]は薄ら笑いを浮かべている。\n#EMP 「俺は[ROOT.Char.GetFirstName]……俺が[ROOT.Char.GetDomicile.GetCulture.GetCollectiveNoun]のハーンだ！」#!"
+ mpo_jamukha_flavor.0020.desc: "俺は怒りと恥辱に燃えながら、夜の闇を駆けて[temujin.GetTitledFirstNamePossessive]の陣幕へと向かった。運命だろうか……焚き火の光が届かぬ心の奥底に潜む暗い思念が、身体を突き動かしていた。\n\n[temujin.GetFirstNameNoTooltip]と俺は幼き時、大ねずみの死骸をむしり取って食べた。あの肉は、まるで毒のように、今もこの腹に重く残っている。\n友情を交わした一言一句を思い出すたびに心は焼かれ、顔の皮を剥がすように苛まれる。\n#EMP 奴#!が全モンゴルを統べること、それを運命だと、それが#EMP 俺#!の運命だと言うのか！\n……子供じみた約束と引き換えに手に入れたのが、こんな裏切り者の人生か！\n\n#EMP 「ブチ殺してやる！殺す！必ず殺す!!」#!\n絶叫した。[temujin.GetFirstNameNoTooltip]は薄ら笑いを浮かべている。\n#EMP 「俺は[ROOT.Char.GetFirstName]……俺が[ROOT.Char.GetDomicile.GetCulture.GetCollectiveNoun]のハンだ！」#!"
  mpo_jamukha_flavor.0010.a: "俺は俺の運命を生きる。[temujin.GetFirstNameNoTooltip]はもう…"
  mpo_jamukha_flavor.0010.b: "言葉はきつく、身体を縛る。[temujin.GetFirstNamePossessiveNoTooltip]が帯びる剣のように。"
  jamukha_chose_loyalty_modifier: "テムジンに忠を尽くす"

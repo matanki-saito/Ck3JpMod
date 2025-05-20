@@ -191,7 +191,7 @@
  intrigue_scheme_ongoing.5019.b:1 "これだけの隠れ場所があれば…建築士を呼べ。"
  intrigue_scheme_ongoing.5021.t:0 "危うい興味"
  intrigue_scheme_ongoing.5021.desc:0 "私は[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('owner'))]である[owner.GetTitledFirstName]を探しにその宿舎に行ったが、[owner.Custom('GetChamber')]は空っぽだった。\n\n暇を持て余し、[owner.GetHerHis]の書類に目を通した私は、発見することになる——複数の計画書、紛れもない。その対象は[target.Custom2('MyCharacterIntroduction', ROOT.Char)]だ！"
- intrigue_scheme_ongoing.5021.a:0 "これはどういうことだ、[owner.GetFirstNameNoTooltip]！？"
+ intrigue_scheme_ongoing.5021.a:0 "これはどういうことだ、[owner.GetFirstNameNoTooltip]!?"
  intrigue_scheme_ongoing.5021.a.success:0 "[owner.GetSheHe|U]は本当に殺害を計画している"
  intrigue_scheme_ongoing.5021.a.success.tt:0 "計画が露見する"
  intrigue_scheme_ongoing.5021.a.failure:0 "[owner.GetSheHe|U]は侮辱される"

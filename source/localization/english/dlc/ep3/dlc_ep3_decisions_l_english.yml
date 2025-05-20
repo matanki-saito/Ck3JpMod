@@ -160,7 +160,7 @@
  ep3_decisions_event.2001.b.tt: "あなたは[confirmation_vassal.GetTitledFirstName]を追い返します"
  ep3_decisions_event.2002.opening: "[confirmation_liege.Custom2('AppropriateGreeting', ROOT.Char )]"
  ep3_decisions_event.2002.desc: "申し訳ないが、今は確認式のために割ける時間がない。貴殿にも理解してもらえることと思うが、あまりに多くの職責が余の時間を奪っておるのだ。\n\n貴殿の帰りの旅が安全なものとなることを祈る、[confirmation_vassal.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]よ。"
- ep3_decisions_event.2002.a: "#EMP なんだと！？#!"
+ ep3_decisions_event.2002.a: "#EMP なんだと!?#!"
  ep3_decisions_event.2010.t: "$admin_confirmation_event_header$ 帝国の従僕"
  ep3_decisions_event.2010.desc: "宮廷の官僚たちが集う[ROOT.Char.Custom('GetThroneRoom')]には、帝国の官職への任命を待機する列が延々と連なっていた。\n\nその中でも最も注目すべきは、[confirmation_vassal.GetCapitalLocation.GetNameNoTooltip]からやってきた[confirmation_vassal.GetTitledFirstName]・[confirmation_vassal.GetDynastyHouseName]、[confirmation_vassal.GetPrimaryTitle.GetName]を治める我が[ROOT.Char.Custom2('RelationToMeShort', confirmation_vassal)]である。"
  ep3_decisions_event.2010.desc_theme_civilian: "彼の地は生産と交易の賑やかなる中心地であり、"

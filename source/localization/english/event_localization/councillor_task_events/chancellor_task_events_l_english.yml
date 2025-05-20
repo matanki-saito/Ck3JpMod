@@ -21,7 +21,7 @@
  chancellor_task.2001.a:0 "何てことをしてくれたんだ、[councillor.GetFirstNameNoTooltip]…"
  chancellor_task.2001.notification:0 "私の[councillor.GetCouncilTitle]の無能さのせいで、[county.GetName]の人々の私に対する敬意が失われた"
  chancellor_task.2002.desc:0 "私の栄誉ある[councillor.Custom2('RelationToMe', ROOT.Char)]様…\n\nどうやら私は判断を誤ってしまったようです。[county.GetName]において貴方様の支配力を強化しようという私の導入した改革は、効果を発するどころか、人々は自分の[ROOT.Char.GetTitleTierName]が誰なのかを殆ど知らないようです…"
- chancellor_task.2002.a:0 "お前は事を#EMP さらに悪く#!したというのか！？"
+ chancellor_task.2002.a:0 "お前は事を#EMP さらに悪く#!したというのか!?"
  chancellor_task.2002.notification:0 "[councillor.GetCouncilTitle]は[county.GetName]における支配力を失った！"
  chancellor_task.2003.t:0 "がっかりだ。"
  chancellor_task.2003.desc:0 "ご挨拶を申し上げます、[baron.Custom2('RelationToMe', ROOT.Char)]様、\n私はあなたの[councillor.GetCouncilTitle]である[councillor.GetTitledFirstName]の振る舞いについて、申し上げなければなりません。\n[councillor.GetSheHe|U]は急に[county.GetName]に現れたかと思えば、気まぐれに、私達の伝統や先祖からのしきたりを無視して事を進めようとするのです！"

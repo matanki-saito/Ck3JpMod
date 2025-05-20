@@ -104,7 +104,7 @@
  sway_ongoing.5013.desc_library_failure:0 "綴じられた本、緩んだ文書、装飾された背表紙…どんなに頑張っても、私は[target.GetTitledFirstNamePossessiveNoTooltip]の書斎の混乱に意味を見つけることができなかった。"
  sway_ongoing.5013.desc_gold_success:0 "金庫を無防備にしておくことのリスクを説明しているうちに、[target.GetTitledFirstNamePossessiveNoTooltip]の目は開かれていく。\n\n「あ、もちろん外に出しっぱなしはいけませんね！[ROOT.Char.GetTitledFirstNameNoTooltip]、ありがとうございます 」"
  sway_ongoing.5013.desc_gold_failure:0 "金貨の入ったチェストを隠さずに保管することの危険性を説明していると、[target.GetTitledFirstNamePossessive]は目を細めた。\n\n「#EMP なぜ#!私の金貨に注目しているのですか？」"
- sway_ongoing.5013.desc_steal_success:0 "「私の金貨は！私の金貨はどこへ行ってしまったんだ？！」\n\nあなたは悩んでいる[target.GetTitledFirstName]が廊下で立っているのを見つけた。[target.GetHerHim]の前には空っぽのチェストがあった。「ああ、[ROOT.Char.GetTitledFirstNameNoTooltip]、あなたの言うことを聞いていればよかった！」"
+ sway_ongoing.5013.desc_steal_success:0 "「私の金貨は！私の金貨はどこへ行ってしまったんだ!?」\n\nあなたは悩んでいる[target.GetTitledFirstName]が廊下で立っているのを見つけた。[target.GetHerHim]の前には空っぽのチェストがあった。「ああ、[ROOT.Char.GetTitledFirstNameNoTooltip]、あなたの言うことを聞いていればよかった！」"
  sway_ongoing.5013.desc_end_good:0 "\n\n私は[target.GetHerHim]を手助けするために全力を尽くした。"
  sway_ongoing.5013.desc_end_bad:0 "\n\n散々な結果だったが、[target.GetHerHim]に対しできる限りのことはした。"
  sway_ongoing.5013.desc_good:0 "\n\n物事はうまくいっているし、まだ他の事で[target.GetHerHim]を助け出すことができる。"

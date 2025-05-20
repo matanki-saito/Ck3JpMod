@@ -23,7 +23,7 @@
  abduct_outcome.4001.owner_secret:0 "\n\n少なくとも、無法者どもが私のために働いたことは知られていない。"
  abduct_outcome.4001.a:1 "[target.GetHerHim]とは違う方法で付き合っていくことにしよう。"
  abduct_outcome.4001.b:0 "[target.GetHerHis|U]の幸運は続かぬ。もう一度狙うのだ！"
- abduct_outcome.4002.opening:0 "こんな事があっていいのか？！諜報員たちは正しい時、正しい場所で待ちに待ったが[target.GetTitledFirstName]はまったく現れなかった！"
+ abduct_outcome.4002.opening:0 "こんな事があっていいのか!? 諜報員たちは正しい時、正しい場所で待ちに待ったが[target.GetTitledFirstName]はまったく現れなかった！"
  abduct_outcome.4002.owner_discovered:0 "\n\n私が何かを企んでいることが[target.GetSheHe|U]の耳に入ってしまったようだ！"
  abduct_outcome.4002.owner_secret:0 "\n\n何かの企みが進んでいることが[target.GetSheHe|U]の耳に入ったに違いないが、私の関与が知れることは決してないはずだ。"
  abduct_outcome.4003.opening:0 "ダメだ！味方どもが[target.GetTitledFirstNamePossessive]の部屋に押し入るところを発見された。それほど簡単なことじゃないと知るべきだな。"

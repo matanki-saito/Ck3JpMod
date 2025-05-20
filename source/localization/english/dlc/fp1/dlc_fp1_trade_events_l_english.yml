@@ -14,7 +14,7 @@
  fp1_trade_events.0003.desc:0 "山賊、海賊、その他、重装備の悪党たちの無秩序な群れが、[raider.GetFirstName]に率いられて[county.GetNameNoTierNoTooltip]へと侵入してきた！\n\n当初、私の斥候は略奪に来たものと思っていたが、[raider.GetTitleAsNameNoTooltip]からの使者は、代わりに喜んで交易を行うと言っている。かの軍勢は新旧問わず豊富な略奪品を保有しており、これにより地元の人々は世界中の異国情緒ある商品を購入する機会を得ることになる。\n\nその内容は明確だ。望ましい条件で取引をすれば平和的に去っていくだろうし、提案を拒否すれば、望むものを力づくで手に入れようとするだろう。"
  fp1_trade_events.0003.a:0 "予期しない提案ではあるが、大歓迎だ。"
  fp1_trade_events.0003.a.tt_success:0 "提案は受け入れられた！"
- fp1_trade_events.0003.b:0 "#EMP 取引#!だと？こんな悪党どもと！？"
+ fp1_trade_events.0003.b:0 "#EMP 取引#!だと？ こんな悪党どもと!?"
  fp1_trade_events.0003.b.tt_failure:0 "提案は拒否された！"
  TRUCE_TRADE_DEAL:1 "\n略奪の中止と引き換えに停戦が成立します"
  fp1_trade_events.0000.t:0 "略奪か、交易か"

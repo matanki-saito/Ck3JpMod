@@ -167,7 +167,7 @@
  ep3_camp_party.1021.siblings: "[local.GetFirstNamePossessive]の顔が歪み、そこに突如として憎悪の仮面が刻まれる。  \n最後に目にしたのは、[local.GetHerHis]の手に隠された岩が、私の眼窩に激しく打ち付けられる瞬間だった。  \n\n私は顔を押さえながら地面に崩れ落ち、私の従者たちが助けに集まる中、二人の兄弟が慌ただしく逃げ去るのを、ぼんやりと感じた。"
  ep3_camp_party.1021.callous: "改めて忠告すると、[local.GetFirstNamePossessive]は不満そうにする。\nしかし、私は既に背を向け、野営地の他の面子に招かれざる猿をたたき出すよう手ぶりで示す。\n\n彼らが引きずり出されることを思うと、気分もわずかなりとも晴れるというものだ。"
  ep3_camp_party.1021.normal: "悲しみ、怒り、そして絶望が入り混じった表情が[local.GetFirstNamePossessive]の顔に浮かぶ。[local.GetSheHe|U]は敵意を示すことなく去っていき、私たちが祝宴に戻る中で、次第に芽生える罪悪感を必死に押し殺した。"
- ep3_camp_party.1021.a.face: "#EMP ウゲエエエエ！！#!"
+ ep3_camp_party.1021.a.face: "#EMP ウゲエエエエ!!#!"
  ep3_camp_party.1021.a.ill: "めちゃくちゃ…#DIE1 きもち、わるい……#!"
  ep3_camp_party.1021.a.sad: "仕方なかったんだよ。"
  ep3_camp_party.1021.b: "これでよし、歓楽に戻ろう！"
