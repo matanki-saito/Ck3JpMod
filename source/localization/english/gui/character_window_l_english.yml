@@ -90,7 +90,7 @@
  HEALTH_NEGATION_CAUSE:0 "#P +$CAUSE$#! #weak (ペナ軽減のみ)#!"
  HEALTH_POSITIVE_CAUSE:0 "#P +$CAUSE$#!"
  HEALTH_NEGATIVE_CAUSE:0 "#N -$CAUSE$#!"
- CV_ALLOW_MARRY_TT:0 "#T 婚姻を許可する#!\n#D 許されていない#!"
+ CV_ALLOW_MARRY_TT:0 "#T 結婚を許可#!\n#D 未実装#!"
  CV_ALLOW_BATTLE_TT:0 "#T 戦闘への参加を許可する#!\n#D 未実装#!"
  CHARACTER_WINDOW_NO_FOCUS:0 "フォーカスがありません"
  CHARACTER_WINDOW_CHOOSE_LIFESTYLE_FOCUS:0 "#I クリックしてライフスタイルを選択してください#!"

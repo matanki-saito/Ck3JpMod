@@ -172,7 +172,7 @@
  diplomacy_family_special.2201.b.success.tt:0 "[heir.GetTitledFirstName]はより[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInvertedTraitLink')]になろうとし始めます"
  diplomacy_family_special.2201.b.failure.tt:0 "[heir.GetTitledFirstName]は[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagTraitLink')]のままです"
  diplomacy_family_special.2201.c:0 "あなたを批判したことを[vassal.GetHerHim]に償わせてやる！"
- diplomacy_family_special.2202.desc:0 "私は、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('heir'))]である[heir.GetTitledFirstName]と彼の問題について話し合うために、[vassal.GetTitledFirstName]との会合を手配する。\n\n「非常に単純です[ROOT.Char.GetTitledFirstNameNoTooltip]。私にとって[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')]の主君を持つのは好ましくありません。[ROOT.Char.Custom('GetRealmOrDomicile')]の利益のために、私は自分の不愉快さを公表したいのです、たとえ自分を危険にさらすことになっても。」"
+ diplomacy_family_special.2202.desc:0 "私は、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('heir'))]である[heir.GetTitledFirstName]と彼の問題について話し合うために、[vassal.GetTitledFirstName]との会合を手配する。\n\n「非常に単純です[ROOT.Char.GetTitledFirstNameNoTooltip]。私にとって[SCOPE.Custom('PersonalityGetTraitDescriptionFromFlag')]の主君を持つのは好ましくありません。[ROOT.Char.Custom('GetRealmOrDomicile')]の利益のために、私は自分の不愉快さを公表したいのです、たとえ自分を危険にさらすことになっても」"
  diplomacy_family_special.2202.a:0 "しかし、[heir.GetHerHis]の良い資質についてはどうだ？"
  diplomacy_family_special.2202.a.success:0 "[vassal.GetFirstNameNoTooltip]と[heir.GetFirstNameNoTooltip]は互いの相違点を解決する"
  diplomacy_family_special.2202.a.failure:0 "[vassal.GetFirstNameNoTooltip]は[heir.GetFirstNameNoTooltip]との和解を望まない"

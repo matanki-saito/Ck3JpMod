@@ -15,7 +15,7 @@
  councillor_spouse_intrigue.1002.b:0 "それが何なのかを明らかにする必要がある！"
  councillor_spouse_intrigue.1002.c:0 "私は[target.GetFirstNameNoTooltip]よりも秘密を守っている。"
  councillor_spouse_intrigue.1003.t:1 "配偶者：口が軽い"
- councillor_spouse_intrigue.1003.desc:0 "私は[councillor.GetSheHe]が私に近づく様子から、[councillor.GetTitledFirstName]が宮廷において別の秘密に出くわしたことがわかる。\n\n「[agent.GetTitledFirstName]は陰謀に加わっています。」[councillor.GetSheHe]は言う。「[agent.GetSheHe|U]はまだ私が知っているとは気づいていませんが、私は[agent.GetHerHim]に恩赦を与えることを提案します、絶対的な忠誠と引き換えに…」"
+ councillor_spouse_intrigue.1003.desc:0 "私は[councillor.GetSheHe]が私に近づく様子から、[councillor.GetTitledFirstName]が宮廷において別の秘密に出くわしたことがわかる。\n\n「[agent.GetTitledFirstName]は陰謀に加わっています」[councillor.GetSheHe]は言う。「[agent.GetSheHe|U]はまだ私が知っているとは気づいていませんが、私は[agent.GetHerHim]に恩赦を与えることを提案します、絶対的な忠誠と引き換えに…」"
  councillor_spouse_intrigue.1003.a:0 "[agent.GetHerHim]に問題の大きさを理解させてやろう。"
  councillor_spouse_intrigue.1003.b:0 "[agent.GetHerHim]を使って、真の首謀者を見つけてやれ！"
  councillor_spouse_intrigue.1003.c:0 "私に危害が及ばぬよう、[agent.GetHerHis]の一挙手一投足を追跡しろ！"

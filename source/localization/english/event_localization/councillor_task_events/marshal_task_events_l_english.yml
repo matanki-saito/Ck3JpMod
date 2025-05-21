@@ -1,6 +1,6 @@
 ﻿l_english:
  marshal_task.0301.t:0 "指揮官への昇格"
- marshal_task.0301.desc:0 "私の[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が有望な新兵を見せてくれた。\n\n「我が[councillor.Custom2('RelationToMe', ROOT.Char)]、[commander.GetSheHe|U]はあなた様のような高貴なお生まれではないかもしれませんが…我が名に誓います！[commander.GetTitledFirstName]はあなたのお側で仕えるべき者です。」"
+ marshal_task.0301.desc:0 "私の[councillor.GetCouncilTitle]の[councillor.GetTitledFirstName]が有望な新兵を見せてくれた。\n\n「我が[councillor.Custom2('RelationToMe', ROOT.Char)]、[commander.GetSheHe|U]はあなた様のような高貴なお生まれではないかもしれませんが…我が名に誓います！[commander.GetTitledFirstName]はあなたのお側で仕えるべき者です」"
  marshal_task.0301.a:0 "よかろう、[commander.GetFirstNameNoTooltip]は私の側で仕えるべきだ。"
  marshal_task.0301.b:0 "我が[ROOT.Char.Custom('ResidenceBuilding')]からこの下賤の輩をつまみ出せ！"
  marshal_task.0302.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
@@ -54,7 +54,7 @@
  marshal_task.2003.t:0 "指揮官の死"
  marshal_task.2003.ending:0 "\n\n[councillor.GetCouncilTitle]は、すぐに医者を呼んだが、[commander.GetFirstName]は間もなく大量の出血により死んでしまった。"
  marshal_task.2003.a:0 "軍における悲劇的な損失だ。"
- marshal_task.2101.desc:0 "私の[councillor.GetCouncilTitle]、[councillor.GetTitledFirstName]が提案を持って私のもとにやって来る。\n\n「かつて[teacher.GetTitledFirstName]がそうであったように、私は[commander.GetTitledFirstName]が[commander.Custom('CommanderTraitSkillDescription')]のための多くの潜在能力を共有していることに気づきました。私は[commander.GetFirstName]が[teacher.GetFirstName]からの熱心な指導で多くのことを学べるだろうと信じております。」"
+ marshal_task.2101.desc:0 "私の[councillor.GetCouncilTitle]、[councillor.GetTitledFirstName]が提案を持って私のもとにやって来る。\n\n「かつて[teacher.GetTitledFirstName]がそうであったように、私は[commander.GetTitledFirstName]が[commander.Custom('CommanderTraitSkillDescription')]のための多くの潜在能力を共有していることに気づきました。私は[commander.GetFirstName]が[teacher.GetFirstName]からの熱心な指導で多くのことを学べるだろうと信じております」"
  marshal_task.2101.a:0 "そうしよう。"
  marshal_task.2101.b:0 "[commander.GetFirstName]はもっと個人の戦闘力を重視するべきだ！"
  marshal_task.3001.t:0 "地元の抵抗"

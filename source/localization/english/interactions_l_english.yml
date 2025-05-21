@@ -1708,7 +1708,7 @@
  msg_remove_migration_cb_invalidated_message: "[defender.GetShortUIName]はもはや[GetGovernment( 'nomad_government' ).GetName]ではない"
  migration_interaction: "移住"
  migration_interaction_desc: "[GetGovernment( 'nomad_government' ).GetName]の[ruler|E]であるならば、[domain_fertility|E]が低い場合は[migrate|E]すべきです。\n\n[domain|E]が広く、[dominance|E]の高い[realms|E]では、[fertility_equilibrium|E]が十分に成長を支えられるため、移住の必要はなくなります。\n\n#I クリックで[migration|E]を計画する#!"
- SITUATION_CALL_TO_ACTION: "#I クリックで表示 [Character.GetInvolvedMigrationSituation.GetName]#!"
+ SITUATION_CALL_TO_ACTION: "#I クリックで[Character.GetInvolvedMigrationSituation.GetName]を表示#!"
  DOMINANCE_WIDGET_CALL_TO_ACTION: "#I クリックで領国の[laws|E]画面を開く#!"
  MIGRATION_INTERACTION_BASE_ACCEPTANCE: "[recipient.GetSheHe|U]は[recipient.GetHerHis]の土地に留まりたがっている：$VALUE|=+0$"
  MIGRATION_INTERACTION_ACCEPTANCE_AI: "#D [recipient.GetSheHe|U]と[actor.GetShortUIName]はAIである：$VALUE|=+0$#!"

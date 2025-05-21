@@ -47,7 +47,7 @@
  building_common_tradeport_07_desc:2 "この大規模な港には、豊富な埠頭、造船所があり、そしてこの地域で最高の船乗りがいる。長期の旅に必要な物資はすべてここで手に入れることができ、商人、漁師、軍隊は必要な支援をすべて受けることができる。\n"
  building_common_tradeport_08:1 "乾ドック"
  building_common_tradeport_08_desc:2 "乾ドックでは、まず船は狭い水路に運ばれ、水が抜き取られる。それから、いくつもの石のブロックの上に据え置かれる。そうして固定された船には、簡易性の向上した修理やメンテナンスを施すことが可能となる。"
- building_type_hall_of_heroes_01:0 "英雄の講堂"
+ building_type_hall_of_heroes_01:0 "英雄の殿堂"
  building_type_hall_of_heroes_01_desc:2 "英雄たちが次なる難事に備えて集い、一致団結する講堂。"
  building_hall_of_heroes_01:0 "英雄の殿堂 I"
  building_hall_of_heroes_01_desc:0 "$building_type_hall_of_heroes_01_desc$"

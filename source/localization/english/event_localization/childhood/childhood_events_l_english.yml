@@ -170,7 +170,7 @@
  childhood.1015.b.tt:2 "これは、[study_friend.GetFirstNamePossessiveNoTooltip]とあなたの[diplomacy|E]の勉強をさらに進めるだろう。"
  childhood.1016.t:0 "軍の問題"
  childhood.1016.desc:0 "我が[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('study_friend'))][study_friend.GetFirstName]と私は、勉強の一環として、部隊が町の外で模擬戦を行うのを見ている。\n\n「さあ、ぐるっと回って相手の脇を攻撃しろ！」 [commander.GetTitledFirstName]が叫ぶと、いつの間にか私は一歩前に出て、[commander.GetHerHis]の注意を引いていた。"
- childhood.1016.a:0 "「実際には、直接攻撃の方がより効果的だと思います。」"
+ childhood.1016.a:0 "「実際には、直接攻撃の方がより効果的だと思います」"
  childhood.1016.b:1 "[commander.GetHerHim]に手を振る——私はただ見ているべきだ。"
  childhood.1016.b.tt:1 "これは、[study_friend.GetFirstNamePossessiveNoTooltip]とあなたの[martial|E]の勉強をさらに進めるだろう。"
  childhood.1017.t:0 "穀物の問題"

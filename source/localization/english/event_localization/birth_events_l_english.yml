@@ -160,7 +160,7 @@
  birth.9002.dear_spouse.desc:0 "「愛しい[ROOT.Char.GetWifeHusband|U]よ、"
  birth.9002.spouse.desc:0 "「[ROOT.Char.GetWifeHusband|U]よ、"
  birth.9002.suggester_relative.desc:0 "私の[namesake.Custom('ComplimentAdjective')][suggester.Custom2('RelationToMeShort', SCOPE.sC('namesake'))]の名を取り、この子に[namesake.GetFirstNameNoTooltip]と名付けるのはどうでしょう？」"
- birth.9002.namer_relative.desc:0 "できれば、この子を[namesake.GetFirstNameNoTooltip]と名付けたいのだけど？あなたの[namesake.Custom('ComplimentAdjective')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('namesake'))]にちなんで。」"
+ birth.9002.namer_relative.desc:0 "できれば、この子を[namesake.GetFirstNameNoTooltip]と名付けたいのだけど？あなたの[namesake.Custom('ComplimentAdjective')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('namesake'))]にちなんで」"
  birth.9002.suggesters_name.desc:0 "私の名を取って、この子に[suggester.GetFirstNameNoTooltip]と名付けるのはどうだろう。どう思う？」"
  birth.9002.namers_name.desc:0 "君の名を取って、この子に[ROOT.Char.GetFirstNameNoTooltip]と名付けよう」"
  birth.9002.nice_name.desc:0 "私はずっと考えていることがある。私はこの子を[namesake.GetFirstNameNoTooltip]と名付けたい。この名前がずっと好きなんだ」"

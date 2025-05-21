@@ -27,7 +27,7 @@
  subject_extortion.0005.b:0 "これは命令ではない。だが、当然のことだろう。"
  subject_extortion.0005.c:0 "なんだ、これっぽっちしかもっていないのか…"
  subject_extortion.9998.t:0 "臣下からの強制徴発"
- subject_extortion.9998.desc.steward:0 "わが[steward.GetCouncilTitle]は、領国内でさらなる収入源を見つけられなかったようだ。\n\n「申し訳ありません。我が君。しかし取れるものはもう何も残っていません。」"
+ subject_extortion.9998.desc.steward:0 "わが[steward.GetCouncilTitle]は、領国内でさらなる収入源を見つけられなかったようだ。\n\n「申し訳ありません。我が君。しかし取れるものはもう何も残っていません」"
  subject_extortion.9998.desc:0 "私は寛大で道徳的だというのに、法律での義務以上に私を支えようとする者は見当たらないようだ。新しく考えた法律を進んで支持する者も誰もいない。\n\n強欲で身勝手な臣下のせいで貧困に苦しまねばならぬのか？"
  subject_extortion.9998.a:0 "待て！その懐でカチャカチャ鳴ってるのは何だ？"
  subject_extortion.9998.b:0 "おや、玉座の下に何かあるぞ。"
