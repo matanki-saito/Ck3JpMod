@@ -65,7 +65,7 @@
  scandinavian_elective_succession_law_subname:0 "ディング"
  scandinavian_elective_succession_law_effects:2 "[ruler|E]、およびすべての[de_jure|E]の[vassals|E]（男爵を除く）は、統治者の[extended_family|E]、および選択可能な[claimants|E]の中から、[title_heir|E]を指名できます。この[succession_law|E]における[voting_power|E]は、[elector|E]の[domain|E][county_development|E]の合計値と[capital|E][county_opinion|E]の影響を受けます。"
  feudal_elective_candidates:0 "近親者、請求権者、選帝侯"
- feudal_elective_candidates_tooltip:1 "封建選挙制において有効な候補者となるには、以下のいずれかの条件を満たさなければならない：\n$EFFECT_LIST_BULLET$ 現在の支配者の正統な[close_family|E]の一員であり、神権制または共和制の継承権を持たないこと。ただし、候補者の子は指名されることはない\n$EFFECT_LIST_BULLET$ その称号に対する[claimant|E]であり、神権制または共和制の継承権を持たないこと\n$EFFECT_LIST_BULLET$ その称号に対する有効な封建制の[elector|E]であること"
+ feudal_elective_candidates_tooltip:1 "封建選挙制において有効な候補者となるには、以下のいずれかの条件を満たさなければならない：\n$EFFECT_LIST_BULLET$ 現在の統治者の正統な[close_family|E]の一員であり、神権制または共和制の継承権を持たないこと。ただし、候補者の子は指名されることはない\n$EFFECT_LIST_BULLET$ その称号に対する[claimant|E]であり、神権制または共和制の継承権を持たないこと\n$EFFECT_LIST_BULLET$ その称号に対する有効な封建制の[elector|E]であること"
  feudal_elective_electors:0 "統治者と封臣"
  feudal_elective_electors_tooltip:0 "封建選挙制において有効な[elector|E]となるには、封臣は以下のすべての条件を満たさなければならない：\n$EFFECT_LIST_BULLET$ その称号の[de_jure|E]の封臣であること\n$EFFECT_LIST_BULLET$ その称号の直属の封臣であること\n$EFFECT_LIST_BULLET$ その称号より一階級または二階級のみ下の[ranks|E]であること"
  princely_elective_candidates:0 "$feudal_elective_candidates$"

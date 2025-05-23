@@ -26,7 +26,7 @@
  game_concept_kurultai: "クリルタイ"
  game_concept_kurultais: "クリルタイ"
  game_concept_kurultai_member: "クリルタイの構成員"
- game_concept_kurultai_members: "クリルタイのメンバー"
+ game_concept_kurultai_members: "クリルタイの構成員"
  game_concept_kurultai_desc: "クリルタイは、[nomadic_government|E]において[council|E]の代わりを務めます。クリルタイの構成員は領内の精鋭たちであり、円滑な[succession|E]を確保するためには、彼らを懐柔するか、あるいは[obedience|E]を強制する必要があります。\n\n混乱した継承が発生した場合、彼らは一部の[herd|E]を奪い取ったり、新たな[liege|E]を見捨てたり、[realm|E]の[title|E]に対する[claim|E]を得たりすることがあります。"
  game_concept_kurultai_1_desc: "$game_concept_kurultai_desc$"
  game_concept_kurultai_2_desc: "$game_concept_kurultai_desc$"

@@ -549,7 +549,7 @@
  ra_kurultai_5: "クリルタイ"
  ra_kurultai_5_desc: "ハイライト表示されたバーでは、あなたの[kurultai|E]と最年長の子どもたちが、現在の[succession|E]に賛成しているのか、それとも反対しているのかを確認できます。\n\n後継を安定させるためには、クリルタイの[obedient|E]を保つことが不可欠です。さらに、[steppe_seasons|E]もあなたに有利に働かせる必要があります。たとえば、ズド（大雪害）などによって土地が悪影響を受けると、民たちは「天があなたを罰している」と考え、あなたの支配や後継者選びに疑念を抱くようになるでしょう。\n\n後継の主導権を保ち続けるためには、民たちの忠誠を守り、必要であれば有利な土地へ[migrate|E]することが重要です。"
  action_reactive_advice_tributaries: "アドバイス：朝貢国"
- action_reactive_advice_tributaries_desc: "朝貢国とは、支配者が持つことのできる従属国の一種です。ここを開いて、朝貢国について学びましょう。"
+ action_reactive_advice_tributaries_desc: "朝貢国とは、統治者が持つことのできる従属国の一種です。ここを開いて、朝貢国について学びましょう。"
  action_reactive_advice_tributaries_click: "$click_to_open_lesson$"
  ra_tributaries_1: "朝貢国"
  ra_tributaries_1_desc: "[tributaries|E]とは、[subject|E]の一種です。これは二人の[rulers|e]の間に[truce|E]を結び、定期的な貢納を行う関係を指します。合意が成立すると、朝貢国は[suzerain|E]に対して、[herd|E]、[taxes|E]、あるいは[prestige|E]のいずれかを提供することになります。"
