@@ -64,7 +64,7 @@
  travel_events_bp3.25.b.prowess: "[liege.GetPrimaryTitle.GetAdjectiveNoTooltip]の戦いぶりについて聞く"
  travel_events_bp3.25.c: "さて... 悲観するのはもうたくさんだ。"
  travel_events_bp3.30.t: "[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]の傭兵たち"
- travel_events_bp3.30.desc: "[ROOT.Char.GetCurrentLocation.GetName]の静かな酒場でくつろいでいると、ボロをまとった傭兵の一団が騒がしく押し入ってきた。その荒々しい頭目は私の護衛の一人を押しのけ、なんと図々しくも私の席に腰を下ろした。\n\n「お貴族さまかい、[ROOT.Char.GetWomanMan]殿？　“[ROOT.Char.GetLadyLord]”とお呼びすりゃいいのかね？　ここ[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]で一番の傭兵団にご用はないかい？　俺たちほど忠実な男どもはいないぜ…ちゃんと報酬さえ払ってくれりゃな」"
+ travel_events_bp3.30.desc: "[ROOT.Char.GetCurrentLocation.GetName]の静かな酒場でくつろいでいると、ボロをまとった傭兵の一団が騒がしく押し入ってきた。その荒々しい頭目は私の護衛の一人を押しのけ、なんと図々しくも私の席に腰を下ろした。\n\n「おい、貴族の[ROOT.Char.GetWomanMan]だろ、お前。『我が[ROOT.Char.GetLadyLord]』とでもお呼びしようか？\n…ここ[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]で一番の傭兵団にご用はないかい？俺たちほど忠実な男どもはいないぜ…ちゃんと報酬さえ払ってくれりゃあな」"
  travel_events_bp3.30.a: "「#emp 一番#!だって？面白いじゃないか…」"
  travel_events_bp3.30.b: "「我らが団に入らないか？」"
  travel_events_bp3.30.c: "「君たちに#emp ぴったりの仕事#!があるんだ。」"

@@ -574,7 +574,7 @@
  nomad_regency_diarchy_type: "[nomadic|E]の[regency|E]"
  nomad_regency_diarch_title: "$regency_diarch_title$"
  ranching_mandate: "牧場の手入れ"
- ranching_mandate_desc: "#BOL 考えられる[mandate|E]の効果：#!\n$EFFECT_LIST_BULLET$ 追加の[herd|E]\n$EFFECT_LIST_BULLET$ 無償の[county|E]の[fertility|E]向上\n$EFFECT_LIST_BULLET$ [liege|E]に有利となるよう[vassal_contracts|E]が調整される\n\n#WEAK [regent|E]は、いかなる手段を使ってでも主君である$game_concept_liege$の収益を増やすよう命じられている。#!"
+ ranching_mandate_desc: "#BOL 考えられる[mandate|E]の効果：#!\n$EFFECT_LIST_BULLET$ 追加の[herd|E]\n$EFFECT_LIST_BULLET$ 無償の[county|E]の[Concept('county_fertility','肥沃度')|E]向上\n$EFFECT_LIST_BULLET$ [liege|E]に有利となるよう[vassal_contracts|E]が調整される\n\n#WEAK [regent|E]は、いかなる手段を使ってでも主君である$game_concept_liege$の収益を増やすよう命じられている。#!"
  horde_mustering_mandate: "騎馬兵の奮起"
  horde_mustering_mandate_desc: "#BOL 考えられる[mandate|E]の効果：#!\n$EFFECT_LIST_BULLET$ 有利な[men_at_arms|E]の[modifiers|E]\n$EFFECT_LIST_BULLET$ 有利な[levy|E]の$game_concept_modifiers$\n$EFFECT_LIST_BULLET$ 熟練した[knights|E]の[courtiers|E]\n\n#WEAK 現在あるいは今後の戦役には新たな兵が求められており、[liege|E]は[regent|E]にその調達を命じた。#!"
  promote_obedience_mandate: "服従の促進"

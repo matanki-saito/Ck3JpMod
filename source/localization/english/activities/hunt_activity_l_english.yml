@@ -650,7 +650,7 @@
  poacher_opinion: "#EMP 私の#!土地で密猟された"
  activity_hunt_province_desc_hidden_hinterlands: "#p +++隠された後背地#!\n"
  activity_hunt_province_desc_visegrad_castle_01_major: "#P +++$building_type_visegrad_castle_01$#!（[building|E]）\n"
- activity_hunt_destination_selection_nomadic: "狩猟に適した土地とそうでない土地がある。通常の狩猟では、野性的で人里離れた州ほど[hunt_success_chance_no_prefix|E]が高くなる。一方ネルゲの場合は、長らくネルゲが行われておらず、[fertility|E]の高い州が望ましい。"
+ activity_hunt_destination_selection_nomadic: "狩猟に適した土地とそうでない土地がある。通常の狩猟では、野性的で人里離れた州ほど[hunt_success_chance_no_prefix|E]が高くなる。一方ネルゲの場合は、長らくネルゲが行われておらず、[Concept('county_fertility','肥沃度')|E]の高い州が望ましい。"
  activity_hunt_destination_selection_regular:0 "狩猟に適した土地とそうでない土地がある。野性的で人里離れた州、最近[hunt_sightings_no_prefix|E]があった州、または特別な[buildings|E]がある州では、[hunt_success_chance_no_prefix|E]が高くなる。"
  activity_hunt_province_desc_fertility:1 "#P +肥沃度#!\n"
  activity_hunt_province_desc_fertility_good:1 "#P ++肥沃度#!\n"

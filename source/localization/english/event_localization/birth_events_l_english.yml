@@ -37,7 +37,7 @@
  birth.1002.unmarried:0 "[child.GetHerHis]の本当の父親は[real_father.GetFullName]だ。"
  birth.1002.unmarried.twin:0 "彼らの本当の父親は[real_father.GetFullName]だ。"
  birth.1002.girl_name.desc:0 "\n\nああ愛しき子よ、名前は何にしようか？"
- birth.1002.boy_name.desc:0 "\n\n私は息子に[real_father.GetFirstNameNoTooltip]の名をつけたいを考えているが、それは懸命ではないかもしれない…"
+ birth.1002.boy_name.desc:0 "\n\n私は息子に[real_father.GetFirstNameNoTooltip]の名をつけたいを考えているが、それは賢明ではないかもしれない…"
  birth.1002.twin_name.desc:0 "\n\nああ愛しき子よ、名前は何にしようか？"
  birth.1002.a:0 "静かに！[child.Custom('GetDaughterSon')]！"
  birth.1002.b:0 "静かに！[child.Custom('TwinDaughtersSonsChildren')]！"

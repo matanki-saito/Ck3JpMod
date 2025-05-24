@@ -4,7 +4,7 @@
  mpo_nomad_legacy_1_name: "ステップの主たち"
  mpo_nomad_legacy_2_name: "地を灼かん"
  mpo_nomad_legacy_2_effect_raid_intent_global: "[raid_intent|E]の#EMP $raze_intent$#!をアンロック"
- mpo_nomad_legacy_3_name: "歴史は秘され"
+ mpo_nomad_legacy_3_name: "秘史"
  mpo_nomad_legacy_3_effect_peace_acceptance_global: "[peace|E]の受け入れ値：#positive_value +10#!"
  mpo_nomad_legacy_4_name: "神の罰"
  mpo_nomad_legacy_4_effect_kheshig_maa_global: "[GetMaA('kheshig').GetName]を[men_at_arms|E]として雇用できる"

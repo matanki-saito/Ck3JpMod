@@ -27,7 +27,7 @@
  ep3_laamps.0010.inheritor_2: "[inherited_2.GetBaseNameNoTierNoTooltip]から[inheritor_2.GetFirstName]"
  ep3_laamps.0010.inheritor_3: "[inherited_3.GetBaseNameNoTierNoTooltip]から[inheritor_3.GetFirstName]"
  ep3_laamps.0010.connector: "と"
- ep3_laamps.0010.laamp: "しかし我が[potential_laamp.Custom('PersonalityGetPositiveTraitDesc')]なる[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('potential_laamp'))]、[potential_laamp.GetFirstName]はどうであったろうか？\n\n[potential_laamp.GetSheHe]には何も与えられず、ただ権力の移行を見守っていただけであった。#EMP \"[potential_laamp.GetHerHim]#!の為の式典もなく、ただ他の者への臣下の礼だが与えられた。高貴なる血と[potential_laamp.GetHerHis]のその脇に帯びた剣のみが[potential_laamp.GetHerHis]の生得権であった。"
+ ep3_laamps.0010.laamp: "しかし我が[potential_laamp.Custom('PersonalityGetPositiveTraitDesc')][ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('potential_laamp'))]、[potential_laamp.GetFirstName]はどうであったろうか？\n\n[potential_laamp.GetSheHe]には何も与えられず、ただ権力の移行を見守っていただけであった。#EMP [potential_laamp.GetHerHim]#!に捧げられる典礼もなく、他者への忠誠の誓いが交わされるばかり。高貴なる血と腰に帯びた剣のみが、[potential_laamp.GetHerHis]の生まれ持った全てだった。"
  ep3_laamps.0010.a: "嗚呼、悲しき哉、支配者たる運命にない者もいる…"
  ep3_laamps.0010.b: "…[potential_laamp.GetFirstNamePossessiveNoTooltip]の自由を#EMP 羨ましく#!思わぬでもない。"
  ep3_laamps.0020.t: "[revoked.GetAdjectiveNoTooltip]を逃れし者"

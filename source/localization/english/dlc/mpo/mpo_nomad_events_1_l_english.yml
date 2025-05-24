@@ -62,7 +62,7 @@
  severed_head_cb_revenge_tt: "#high [executioner.GetShortUIName]#!に対する[casus_belli|E]のコスト：#P -75%#!"
  severed_head_vassalization_tt: "[headless_heir.GetShortUINamePossessive|U]の[executioner.GetShortUIName]に対する[offer_vassalization|E]$ep3_laamps.0010.connector$#high $demand_tributary_interaction$#!受け入れ値：#high 20年間#!にわたって#P +200#!"
  mpo_nomad_events.1013: "[victim.GetTitledFirstNameNoTooltip]を殺めし者よ、"
- mpo_nomad_events.1013.desc_takes_it_sedentary: "この[headless_heir.Custom('ResidenceBuilding')|l]に凶暴なる脅威が持ち込まれた──貴族たる我が父祖の引きちぎられた首だ。\n\nお願いだ、騎馬の王よ！　[headless_heir.GetPrimaryTitle.GetNameNoTier]において、我らはこのような凄惨な仕打ちには慣れておらず、好むこともない。私は、かような非道に貶められるよりも平穏なる交渉を望むのだ。"
+ mpo_nomad_events.1013.desc_takes_it_sedentary: "[headless_heir.Custom('ResidenceBuilding')|l]によくもあのように酷く恐ろしいものを持ち込んでくれたな──貴族たる我が父祖の引きちぎられた首を！\n\nお願いだ、馬上の王よ！[headless_heir.GetPrimaryTitle.GetNameNoTier]において、我らはこのような凄惨な仕打ちには慣れておらず、好むこともない。私は、かような非道に貶められるよりも平穏なる交渉を望むのだ。"
  mpo_nomad_events.1013.desc_takes_it: "[victim.GetHerHis|U]の[victim.GetCulture.GetCollectiveNoun]の者たちは、ふたたび[victim.GetHerHim]の姿を見られることを願っていた。だが今、血に濡れたその首が転がり、彼らの心はこの異様な光景にどす黒く染まっている。\n\nお願いだ、[victim.GetFirstName]が[headless_heir.GetFaith.PositiveAfterLife]にて安らげるようにしてくれ。どうかその猛き怒りを、我らからは退けてくれ！"
  mpo_nomad_events.1013.desc_angeee: "[victim.GetPrimaryTitle.GetNameNoTierPossessive]の主の首を送りつけたことで、お前は私に戦場の血に塗れた顔を送りつけたのだ。復讐の叫びを残した灰色の唇までも。\n\nお前の生ける身体が腐るのを見届けてやる。枯れ木を倒すが如くお前を地に伏せさせてやる。\n\nそして[victim.GetFirstNamePossessive]の首を、お前の骸の上に並べてくれよう。"
  mpo_nomad_events.1013.a.cowed: "仔羊のように、[headless_heir.GetTitleAsNameNoTooltip]は泣き叫ぶばかりだ！"
