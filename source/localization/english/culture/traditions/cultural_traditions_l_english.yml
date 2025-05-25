@@ -1250,7 +1250,7 @@
  culture_parameter_better_herders_pasturalists: "$culture_parameter_ethos_communal_herders_bonus$"
  culture_parameter_ethos_communal_herders_bonus: "[SelectLocalization( HasDlcFeature( 'khans_of_the_steppe' ), 'ethos_communal_herders_bonus_effects', '' )]"
  ethos_communal_herders_bonus_effects: "[herders|E]はより高い$MOD_MONTHLY_COUNTY_FERTILITY_GROWTH$を持つ"
- cultrad_not_nomadic_government_type: "あなたの[government|E]は[GetGovernment( '遊牧政体' ).GetName]"
+ cultrad_not_nomadic_government_type: "あなたの[government|E]は[GetGovernment( 'nomad_government' ).GetName]"
  mpo_northern_tribes_percentage_desc:0 "[culture|E]は#V $mpo_siberian_permafrost_modifier$#![modifier|E]の[counties|E]の#V 50%#!を所持していない"
  permafrost_feudal_ban: "あなたの[culture|E]は#V $tradition_mpo_northern_tribes_name$#!の[culture_tradition|E]を持っていない"
  culture_parameter_permafrost_unlock_tribal_building: "この[culture|E]に属する[counties|E]のうち、#V $mpo_siberian_permafrost_modifier$#!の[modifier|E]を持つ領地では、[tribal|E]の[building|E]のアップグレードに[innovations|E]が必要ありません。"

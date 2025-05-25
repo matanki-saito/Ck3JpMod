@@ -76,7 +76,7 @@
  single_combat.0001.taunt:0 "[my_foe.Custom('InsultNoun')]め、その程度かィ！"
  single_combat.0001.put_the_boot_in:0 "[myself.Custom('signature_weapon')]で打ち、胴を蹴り穿つ！"
  single_combat.0001.strict_guard:0 "貴様如きが！我が守りを崩せようか！"
- single_combat.0001.confident_attack:0 "[myself.Custom('SignatureWeaponArticle')][myself.Custom('signature_weapon')]の[myself.Custom('SignatureWeaponAction')]、#EMP 受けてみよ#!！"
+ single_combat.0001.confident_attack:0 "[myself.Custom('SignatureWeaponArticle')][myself.Custom('signature_weapon')]を[myself.Custom('SignatureWeaponAction')]…#EMP 受けてみよ#!！"
  single_combat.0001.expert_onslaught:0 "#EMP 防御#!、そしてすかさず#BER 反撃#!！戦いとはこういうものだ！"
  single_combat.0001.attempt_disarm:0 "その[my_foe.Custom('signature_weapon')]なしで、貴様に何ができる？"
  single_combat.0001.lightning_assault:0 "先手必勝！#EMP そこだ！#!"

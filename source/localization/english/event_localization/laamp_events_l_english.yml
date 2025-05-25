@@ -62,7 +62,7 @@
  allowed_runaway_laamp_opinion: "冒険の許可"
  forbidden_runaway_laamp_opinion: "冒険の禁止"
  ep3_laamps.0100.t: "何にも代えがたいもの"
- ep3_laamps.0100.desc: "私の申し出に[recipient.GetTitledFirstNamePossessive]が同意してくれたと知ったときは、正直、胸が躍った。ついに私も自分の[ROOT.Char.Custom('FortifiedBuilding')], 屋根と頑丈な四つの壁を持つ場所を手に入れることができるのだ！\n\n私は新たに[ROOT.Char.GetPrimaryTitle.GetNameNoTier]の[ROOT.Char.GetTitleAsNameNoTooltip]となる。"
+ ep3_laamps.0100.desc: "私の申し出に[recipient.GetTitledFirstNamePossessive]が同意してくれたと知ったときは、正直、胸が躍った。ついに私も自分の[ROOT.Char.Custom('FortifiedBuilding')]、屋根と頑丈な四つの壁を持つ場所を手に入れることができるのだ！\n\n私は新たに[ROOT.Char.GetPrimaryTitle.GetNameNoTier]の[ROOT.Char.GetTitleAsNameNoTooltip]となる。"
  ep3_laamps.0100.fellow_vassal: "[new_liege.GetName]の同じ臣下としてその地を治めることとなり、新たな主君に頼りつつも、同等の義務を負う立場にあるのだ。"
  ep3_laamps.0100.liege: "[recipient.GetPrimaryTitle.GetAdjectiveNoTooltip]の臣下としてその地を治め、新たな主君に頼りつつも同等の義務を負う立場にあるのだ。"
  ep3_laamps.0100.independent: "かつての[recipient.GetPrimaryTitle.GetAdjectiveNoTooltip]の領地を、今や自らの領地として治めるのだ！"
