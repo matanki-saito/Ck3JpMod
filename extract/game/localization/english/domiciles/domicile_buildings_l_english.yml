@@ -513,6 +513,7 @@
  proving_grounds_nightly_barding_drills_domicile_building_desc: "#weak (Requires [GetDomicileBuilding('proving_grounds_01').GetName])#!\nLinks twist, leather snaps, plates rust, and drill fades as much for the elite heavy cavalry as anyone else."
  proving_grounds_life_in_the_saddle_domicile_building: "Life in the Saddle"
  proving_grounds_life_in_the_saddle_domicile_building_desc: "#weak (Requires [GetDomicileBuilding('proving_grounds_01').GetName])#!\nSome are born to this, others are raised to it later in life."
+ proving_grounds_life_in_the_saddle_horse_archers_tt: "You must have a [regiment|E] of [GetMaA('heavy_horse_archers').GetName] or [GetMaA('horse_archers').GetName]"
  # TIT-53191
  proving_grounds_the_stump_domicile_building: "The Stump"
  #proving_grounds_the_stump_domicile_building: "The [GetPlayer.Custom('GetStumpName')|U]"

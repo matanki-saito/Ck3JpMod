@@ -1225,8 +1225,14 @@
  shattered_defenses_modifier: "Shattered Defenses"
  shattered_defenses_modifier_desc: "This [holding|E] has recently had its defenses shattered by violent raiders."
 
+ hard_difficulty: "Hard"
+ hard_difficulty_player: "$hard_difficulty$"
+ very_hard_difficulty: "Very Hard"
+ very_hard_difficulty_player: "$very_hard_difficulty$"
  very_easy_difficulty:0 "Very Easy"
  easy_difficulty:0 "Easy"
+ game_rule_base_value: "Base: $VALUE|=+0$"
+ difficulty_skilled_courtier_block: "Uninterested in Marriage: $VALUE|=+0$"
  commander_enemy_terrain_advantage:0 "Counters enemy defensive terrain advantage"
 
  # Informs players about scripted county modifiers for council tasks (e.g., either faster county conversions, or slower ones depending).

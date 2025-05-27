@@ -27,6 +27,8 @@
  mpo_call_for_merchants_decision_desc: "The Great Steppe is far more magnificent than those fat, spoiled foreign cities. Yet they possess goods, contraptions, and ideas that may prove useful to us. Perhaps one of their wealthy fools will venture this far."
  mpo_call_for_merchants_decision_tooltip: "$mpo_call_for_merchants_decision.merchant_will_arrive$"
  mpo_call_for_merchants_decision_confirm: "Send the envoys"
+ mpo_call_for_merchants_dead_merchant_toast: "Wealthy Visitor Dies on the Way"
+ mpo_call_for_merchants_dead_merchant_desc: "The wealthy visitor [merchant.GetShortUIName] perished during [merchant.GetHerHis] travel"
 
  mpo_call_for_merchants_small_decision: "$mpo_call_for_merchants$: Local Offers"
  mpo_call_for_merchants_small_decision_desc: "$mpo_call_for_merchants_decision_desc$"

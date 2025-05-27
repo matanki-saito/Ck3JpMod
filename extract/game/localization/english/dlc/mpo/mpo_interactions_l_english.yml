@@ -522,7 +522,7 @@
  mpo_negotiate_obedience_interaction_desc: "Offer [gold|E] or [herd|E], or utilise a [hook|E] to make a [character|E] [obedient|E]"
  OFFER_GOLD_FOR_BETTER_AI_ACCEPTANCE: "Bribe with [gold_i][GetPlayer.MakeScope.ScriptValue('medium_gold_value')|0V] [gold|E]"
  OFFER_HERD_FOR_BETTER_AI_ACCEPTANCE: "Bribe with [herd_i][GetPlayer.GetDomicile.MakeScope.ScriptValue('medium_herd_value')|0V] [herd|E]"
- mpo_interaction_not_neighbouring_tt: "Must be a $RELATION_NEIGHBORING_RULER$"
+ mpo_interaction_not_neighbouring_tt: "Must be a $RELATION_NEIGHBORING_RULER$ #weak (excluding disconnected [tributaries|E])#!"
 
  mpo_offer_submission_or_ruin: "Offer Submission or Ruin"
  mpo_offer_submission_or_ruin_desc: "Give [recipient.GetShortUINameNoTooltip] a choice: become your [vassal|E] and face you in a devastating [war|E] of subjugation"
