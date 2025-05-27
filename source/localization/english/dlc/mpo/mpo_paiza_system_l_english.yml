@@ -160,3 +160,5 @@
  nomad_yurt_paiza_maa_gain_lvl_3_tooltip: "[GetDomicileBuilding('knight_trade_yurt_01').GetName]：$domicile_building_parameter_nomad_yurt_paiza_maa_gain_lvl_3$"
  already_received_a_paiza: "すでに[paiza|E]を受け取っている"
  custom.mpo_resources_gained_abuse: "近隣の[counties|E]からの略奪"
+ mpo_call_for_merchants_dead_merchant_toast: "裕福な来訪者、道中で命を落とす"
+ mpo_call_for_merchants_dead_merchant_desc: "裕福な来訪者である[merchant.GetShortUIName]は、旅の途上で命を落とした"

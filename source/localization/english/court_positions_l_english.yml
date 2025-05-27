@@ -788,3 +788,8 @@
  yeke_jarquchi_missing_aptitude: "#P 2～10#!（[aptitude|E] に基づく）"
  foreign_emissary_aptitude: "[ROOT.Char.MakeScope.ScriptValue('foreign_emissary_aptitude_tooltip')|P0]"
  foreign_emissary_missing_aptitude: "#P 2～10#!（[aptitude|E] に基づく）"
+ boyan_validity_trigger_tt: "[martial_i][martial|E]が#high 12#!以上である"
+ yurtchi_validity_trigger_tt: "[stewardship_i][stewardship|E]が#high 12#!以上である"
+ cherbi_validity_trigger_tt: "[prowess_i][prowess|E]が#high 12#!以上である"
+ yeke_jarquchi_validity_trigger_tt: "[diplomacy_i][diplomacy|E]が#high 12#!以上である"
+ keeper_of_the_horses_validity_trigger_tt: "[prowess_i][prowess|E]が#high 12#!以上である"

@@ -333,3 +333,5 @@
  MPO_OBEDIENT_NOMAD: "[obedient|E]：$VALUE|0+=$"
  MPO_NON_OBEDIENT_NOMAD: "[obedient|E]の#bold 不足#!：$VALUE|0+=$"
  FACTION_REASON_NOMADIC: "[GetGovernment( 'nomad_government' ).GetName]：$VALUE|+0=$"
+ FACTION_REASON_DIFFICULTY_HARD: "難易度ハード：$VALUE|0+=$"
+ FACTION_REASON_DIFFICULTY_VERY_HARD: "難易度ベリーハード：$VALUE|0+=$"

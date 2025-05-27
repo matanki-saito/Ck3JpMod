@@ -465,7 +465,7 @@
  mpo_negotiate_obedience_interaction_desc: "[gold|E]や[herd|E]を提供するか、[hook|E]を利用して対象の[character|E]を[obedient|E]にさせる"
  OFFER_GOLD_FOR_BETTER_AI_ACCEPTANCE: "[gold_i][GetPlayer.MakeScope.ScriptValue('medium_gold_value')|0V]の[gold|E]で買収する"
  OFFER_HERD_FOR_BETTER_AI_ACCEPTANCE: "[herd_i][GetPlayer.GetDomicile.MakeScope.ScriptValue('medium_herd_value')|0V]の[herd|E]で買収する"
- mpo_interaction_not_neighbouring_tt: "対象は$RELATION_NEIGHBORING_RULER$でなければならない"
+ mpo_interaction_not_neighbouring_tt: "$RELATION_NEIGHBORING_RULER$でなければならない#weak （地続きではない[tributaries|E]は除く）#!"
  mpo_offer_submission_or_ruin: "服従か死かの選択"
  mpo_offer_submission_or_ruin_desc: "[recipient.GetShortUINameNoTooltip]に選択を迫る。\nあなたの[vassal|E]となるか、それとも地獄の[war|E]で膝を叩き折られるか。"
  CONTRACT_SEND_ARMY_REASON: "[special_troops|E]の要求：$VALUE|=+0$"

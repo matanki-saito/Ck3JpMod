@@ -690,3 +690,4 @@
  baggage_train_kennel.tt.ate_dogs: "最近、すべての犬を食べてしまった"
  proving_grounds_elephantry_reserve.tt.ate_elephants: "最近、象を食べてしまった"
  DOMICILE_TAX_VALUE: "@gold_icon![OutlinerDomicileItem.GetGoldIncome|2]"
+ proving_grounds_life_in_the_saddle_horse_archers_tt: "[GetMaA('heavy_horse_archers').GetName]または[GetMaA('horse_archers').GetName]の[regiment|E]を保有していなければならない"
