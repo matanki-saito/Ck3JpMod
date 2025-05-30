@@ -487,7 +487,7 @@
  legend_spread_events.8122.desc.disappointing.tribal: "がっかり過ぎるだろう。天高く聳えるような、そんな大都市を期待してたのに。寂れたテントと小屋がお出迎えとは。"
  legend_spread_events.8122.desc.disappointing.wet: "これほど見ていて悲しいものがあるだろうか。水の中を歩き回って、見つけられたのは泥の中に空いた穴だけだ。"
  legend_spread_events.8122.desc.disappointing.dry: "なんて酷い光景だ。カラカラの枯れ木、ボロボロの空き家。生き物の気配なんて微塵も無い。"
- legend_spread_events.8122.desc.disappointing.fallback: "こんなものが、こんな土地が私の胸を高鳴らせていたものの正体だというのか…嗚呼そうか、私が夢見た[distant_title.GetBaseNameNoTooltip|U]は正しく夢の中の存在だったのだ。目覚めてしまえば[distant_title.GetBaseNameNoTooltip]は悲しく、空しいだけ。"
+ legend_spread_events.8122.desc.disappointing.fallback: "こんなものが、こんな土地が私の胸を高鳴らせていたものの正体だというのか…嗚呼そうか、私が夢見た[distant_title.GetBaseNameNoTooltip|U]は正しく夢の中の存在だったのだ。\n\n目覚めてしまえば[distant_title.GetBaseNameNoTooltip]は悲しく、空しいだけ。"
  legend_spread_events.8122.desc.not_disappointing: "[distant_title.GetBaseNameNoTooltip]は本当だった。夢見た場所がここにある。異郷に息づく異人、広がりしは異文明！市場には食べ物でいっぱいだ、人々のおしゃべりが聞こえてくるぞ！"
  legend_spread_events.8122.desc.slightly_disappointing: "[distant_title.GetBaseNameNoTooltip]は正直期待外れだった。確かに少しは風変わりだが、蜂蜜と牛乳の河は無く、異国の大金持ちも別に居なかった。"
  legend_spread_events.8122.desc.somewhat_disappointing: "圧倒されるようなものを期待していた。私が心の中で抱いていた最高の[distant_title.GetBaseNameNoTooltip]は少々…無理があったようだ。"
