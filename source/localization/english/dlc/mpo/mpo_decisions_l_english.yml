@@ -403,7 +403,7 @@
  adopt_domicile_culture_decision_tooltip: "あなたの[yurt|E]に属する者たちの[culture|E]に転向する"
  adopt_domicile_culture_decision_confirm: "我らは[ROOT.Char.GetDomicile.GetCulture.GetCollectiveNounNoTooltip]なり。"
  blend_traditions_decision: "[ROOT.Char.GetCulture.GetNameNoTooltip]と[ROOT.Char.GetDomicile.GetCulture.GetNameNoTooltip]の伝統を融合する"
- blend_traditions_decision_desc: "私は[ROOT.Char.GetCulture.GetName]であり、我が民は [ROOT.Char.GetDomicile.GetCulture.GetCollectiveNoun]だ。我が伝統は力強く、この私を支えてきてくれた。だが[ROOT.Char.GetDomicile.GetCulture.GetNameNoTooltip]の伝統もまた豊かであり、草原での暮らしに適している。両者の風習を並び立たせ、いずれひとつとなるその時まで育んでいこう。"
+ blend_traditions_decision_desc: "私は[ROOT.Char.GetCulture.GetName]であり、我が民は[ROOT.Char.GetDomicile.GetCulture.GetCollectiveNoun]だ。我が伝統は力強く、この私を支えてきてくれた。\nだが[ROOT.Char.GetDomicile.GetCulture.GetNameNoTooltip]の伝統もまた豊かであり、草原での暮らしに適している。両者の風習を並び立たせ、いずれひとつとなるその時まで育んでいこう。"
  blend_traditions_decision_tooltip: "[ROOT.Char.GetCulture.GetNameNoTooltip]と[ROOT.Char.GetDomicile.GetCulture.GetNameNoTooltip]の [cultures|E]からランダムに[traditions|E]を選び、[hybrid_culture|E]を創設する"
  blend_traditions_decision_confirm: "我らの未来は[ROOT.Char.GetCulture.GetNameNoTooltip]#EMP と#![ROOT.Char.GetDomicile.GetCulture.GetNameNoTooltip]のものだ。"
  random_traditions_tt: "[hybrid_culture|E]にはランダムな[culture_pillars|E]および[traditions|E]が与えられ、常にあなたのの[yurt|E]の[heritage|E]を共有します"

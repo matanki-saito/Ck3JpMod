@@ -73,7 +73,7 @@
  court_maintenance.0010.c:0 "饗宴が彼らに何かやるべきことを与えるだろう！"
  court_maintenance.0010.c.tooltip:0 "[SCOPE.GetRootScope.GetCharacter.GetCapitalLocation.GetTitle.GetNameNoTier]において饗宴を開始します"
  court_maintenance.0011.t:0 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]宮廷"
- court_maintenance.0011.desc:1 "「貴方様は[ROOT.Char.GetTitleTierName]として、新たな責務を負うことになります。今後、定期的に謁見の機会を設け、領国の争いを解決し、廷臣達を日々の業務へと邁進させるよう期待されているのです。」\n\n[messenger.GetName]は真っ直ぐ、そして厳しく私を見つめている。まるで講義でもするかのようだ。ひょっとするとその目には幾らかの[ROOT.GetCharacter.Custom2('GetPrideEnvy' , SCOPE.sC('messenger'))]もあるのだろうか？\n\n[messenger.GetSheHe|U]は[ROOT.Char.GetHouse.GetName]の紋章が入った美しい旗を広げ始めた。「これから世界は、貴方様の統治を評価することになります。その方法のひとつとして、御自身の宮廷がどの様に飾られるか、どれ程気に掛けられているかを見ることでしょう。まことに勝手ながら、こちら、貴方様の王室の始まりの印として準備いたしてございます。」"
+ court_maintenance.0011.desc:1 "「貴方様は[ROOT.Char.GetTitleTierName]として、新たな責務を負うことになります。今後、定期的に謁見の機会を設け、領国の争いを解決し、廷臣達を日々の業務へと邁進させるよう期待されているのです」\n\n[messenger.GetName]は真っ直ぐ、そして厳しく私を見つめている。まるで講義でもするかのようだ。ひょっとするとその目には幾らかの[ROOT.GetCharacter.Custom2('GetPrideEnvy' , SCOPE.sC('messenger'))]もあるのだろうか？\n\n[messenger.GetSheHe|U]は[ROOT.Char.GetHouse.GetName]の紋章が入った美しい旗を広げ始めた。「これから世界は、貴方様の統治を評価することになります。その方法のひとつとして、御自身の宮廷がどの様に飾られるか、どれ程気に掛けられているかを見ることでしょう。まことに勝手ながら、こちら、貴方様の王室の始まりの印として準備いたしてございます」"
  court_maintenance.0011.a:0 "彼らの新しい[ROOT.Char.GetTitleTierName]に会わせてやろう!"
  court_maintenance.0011.a.tooltip:0 "王宮へと入ります"
  court_maintenance.0011.b:0 "他に注意することがある。"

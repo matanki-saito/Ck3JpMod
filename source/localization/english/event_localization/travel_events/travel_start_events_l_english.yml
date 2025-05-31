@@ -154,4 +154,4 @@
  playdate_forbidden_tt:0 "[carer.GetTitledFirstName]は[child_1.GetFirstName]や他の子達があなたの$activity_playdate$に参加するのを禁じた"
  playdate_forbidden_single_tt:0 "[carer.GetTitledFirstName]は[child_1.GetFirstName]があなたの$activity_playdate$に参加するのを禁じた"
  travel_start_event.1000.t_migrating: "より緑豊かな牧草地へ"
- travel_start_event.1000.desc_migrating: " 野営地全体が、まるで轟く滝のような騒がしさだ。子どもたちが駆け回り、家畜が鳴き声をあげ、大人たちは最後の荷造りに追われている。\n\n束ねられた荷や積まれた運搬具の中には、数えきれぬ思い出が雑然と詰め込まれている。\n\n馬の脇腹を軽く叩きながら、[ROOT.Char.GetCurrentLocation.GetName]を最後にひと目見やる。どうか[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]が、この地と同じように我らに優しくあらんことを――。"
+ travel_start_event.1000.desc_migrating: "野営地全体が、まるで轟く滝のような騒がしさだ。子どもたちが駆け回り、家畜が鳴き声をあげ、大人たちは最後の荷造りに追われている。\n\n束ねられた荷や積まれた運搬具の中には、数えきれぬ思い出が雑然と詰め込まれている。\n\n馬の脇腹を軽く叩きながら、[ROOT.Char.GetCurrentLocation.GetName]を最後にひと目見やる。どうか[ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName]が、この地と同じように我らに優しくあらんことを――。"

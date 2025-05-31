@@ -14,7 +14,7 @@
  seduce_ongoing.1001.b.tt:0 "#F [target.GetFirstNamePossessiveNoTooltip]に思慮深い面に訴えます。#!"
  seduce_ongoing.1001.c:0 "もう少し料理を持ってこさせてもよろしいかな？"
  seduce_ongoing.1001.c.tt:0 "#F [target.GetFirstNamePossessiveNoTooltip]の食いしん坊な面に訴えます。#!"
- seduce_ongoing.1001.d:0 "この人達の「踊る」のを見たことあるか？"
+ seduce_ongoing.1001.d:0 "この人たちが「踊る」のを見たことあるか？"
  seduce_ongoing.1001.d.tt:0 "#F [target.GetFirstNamePossessiveNoTooltip]の意地悪な面に訴えます。#!"
  seduce_ongoing.1003.opening:0 "[court_owner.Custom('ResidenceBuilding')]のダンスでは、[owner.GetTitledFirstName]が私のところに来て、同伴を誘ってくれた。"
  seduce_ongoing.1003.dance:0 "\n\n会場でクルクルと踊っていると、それは人目を引いてしまい、私も童心に帰って[ROOT.Char.Custom('GirlBoy')]みたいに笑ってしまった！"
