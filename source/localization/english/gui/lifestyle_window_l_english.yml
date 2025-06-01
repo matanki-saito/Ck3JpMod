@@ -1,7 +1,7 @@
 ﻿l_english:
  LIFESTYLE_WINDOW_DESCRIPTION:1 "[Lifestyle.GetDescription]\n\n#weak [Lifestyle.GetHighlightDescription]#!"
  REFUND_PERKS:0 "パークをリセット"
- CURRENT_FOCUS:1 " （現在）"
+ CURRENT_FOCUS:1 "（現在）"
  FOCUS_CANCHANGE:1 "現在：[Character.GetFocus.GetName]"
  FOCUS_CANCHANGE_NO_FOCUS:0 "現在：選択されていません"
  CHARACTER_LIFESTYLE_HEADER:0 "[lifestyle|E]を選択"

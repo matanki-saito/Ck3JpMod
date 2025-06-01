@@ -53,7 +53,7 @@
  bp2_yearly.7003.b.tt: "あなたは[nursed_child.GetFirstNameNoTooltip]に話し続けるよう圧力をかけます。"
  bp2_yearly.7003.c: "かまう時間はない。"
  bp2_yearly.7004.t: "$bp2_yearly.7003.title$の一歩"
- bp2_yearly.7004.desc: " [ROOT.Char.Custom2('RelationToMeShort', nursed_child)]の[nursed_child.GetFirstNamePossessive]の部屋から騒ぎ声が聞こえる。急いで中に入ると、乳母の[wet_nurse.GetFirstName]が[nursed_child.GetFirstName]と遊んでいるのが見えた。\n\n「我が君、ちょうど良い時に！[nursed_child.GetFirstNameNoTooltip]が初めて歩きました！」[wet_nurse.GetSheHe]が興奮して叫ぶ。\n\n[nursed_child.Custom('GirlBoy')]の手を握りながら、彼女は[nursed_child.GetHerHim]と部屋を歩こうとする。"
+ bp2_yearly.7004.desc: "[ROOT.Char.Custom2('RelationToMeShort', nursed_child)]の[nursed_child.GetFirstNamePossessive]の部屋から騒ぎ声が聞こえる。急いで中に入ると、乳母の[wet_nurse.GetFirstName]が[nursed_child.GetFirstName]と遊んでいるのが見えた。\n\n「我が君、ちょうど良い時に！[nursed_child.GetFirstNameNoTooltip]が初めて歩きました！」[wet_nurse.GetSheHe]が興奮して叫ぶ。\n\n[nursed_child.Custom('GirlBoy')]の手を握りながら、彼女は[nursed_child.GetHerHim]と部屋を歩こうとする。"
  bp2_yearly.7004.a: "「統治者にとっては小さな一歩だが、子供にとっては大きな一歩だ。」"
  bp2_yearly.7004.b: "[nursed_child.GetSheHe]は他に何ができるんだ？"
  bp2_yearly.7004.b.tt: "[nursed_child.GetFirstNameNoTooltip]に歩き続けるようにプレッシャーをかけます。"

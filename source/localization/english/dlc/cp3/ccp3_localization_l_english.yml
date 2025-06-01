@@ -31,7 +31,7 @@
  building_wartburg_01_desc: "テューリンゲンの森にそびえ立つ巨岩の断崖の上から、この城塞はあたり一帯を通る物資や人々の流れを支配している。\n城への唯一の入口は重厚な前門によって厳重に守られ、高く白い城壁が山の裂け目を縫うように巡らされている。最も重要な建物である#italic パラス#!は、冷たい石造りの巨大な広間であり、内部に誂えられたたくさんの暖炉によって温められている。"
  building_type_beta_giyorgis_01: "$building_beta_giyorgis_01$"
  building_type_beta_giyorgis_01_desc: "$building_beta_giyorgis_01_desc$"
- building_beta_giyorgis_01: " ラリベラの聖ゲオルギウス聖堂"
+ building_beta_giyorgis_01: "ラリベラの聖ゲオルギウス聖堂"
  building_beta_giyorgis_01_desc: "#italic ベタ・ギヨルギス#!は、温かみのある赤い火山岩をくり抜いて作られた完全なる一枚岩の建造物である。  \nその周囲には十数の姉妹寺院や建物が立ち並び、地上のイェルサレムと天上のイェルサレムの両方を象徴している。これは聖なる王国とこの地との繋がりを証明する生きた証である。  \n岩を深く掘り進めた教会の本堂は、美しいフレスコ画で豪華に彩られており、聖なるイコンが壁を飾っている。"
  building_type_holy_wisdom_01: "$building_holy_wisdom_01$"
  building_type_holy_wisdom_01_desc: "$building_holy_wisdom_01_desc$"

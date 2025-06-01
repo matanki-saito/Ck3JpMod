@@ -215,7 +215,7 @@
  roaming_night_sleep_key_title: "$roaming_night_scare_key_title$"
  roaming_night_sleep_key: "[host.GetShortUIName]は[activity.GetCurrentPhase.GetLocation.GetNameNoTooltip]で騒がしい生き物たちを追い払ったのち、しっかりと休息を取ることができた。"
  roaming_night_poet_key_title: "$roaming_night_scare_key_title$"
- roaming_night_poet_key: " [host.GetShortUIName]は夜通し、野営地の周囲で踊る人ならざる獣たちの姿を見たと語っている。"
+ roaming_night_poet_key: "[host.GetShortUIName]は夜通し、野営地の周囲で踊る人ならざる獣たちの姿を見たと語っている。"
  roaming_night_mystic_key_title: "夜空"
  roaming_night_mystic_key: "[host.GetShortUIName]は一晩中、夜空を見上げながら人生について思いを巡らせていた。"
  bp3_roaming.0150.t: "静かな池"

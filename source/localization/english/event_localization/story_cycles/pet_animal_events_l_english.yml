@@ -305,7 +305,7 @@
  pet_animal.3020.b: "まだ[ROOT.Char.Custom('EagleStoryHerHim')]を手放すわけにはいかない。"
  pet_animal.3020.b_second: "[ROOT.Char.Custom('EagleStorySheHe')|U]は、まだもう数年は一緒に飛べるはずだ。"
  pet_animal.3020.b_tt: "もうしばらく共に過ごし、後で再検討する。"
- pet_animal.3020.c: " [ROOT.Char.Custom('EagleStoryName')]を決して手放しはしない！"
+ pet_animal.3020.c: "[ROOT.Char.Custom('EagleStoryName')]を決して手放しはしない！"
  pet_animal.3020.c_tt: "野生に帰すという選択肢そのものを否定する。"
  pet_animal.3020.warning_less: "#warning これは、あなたのワシの健康に小さな影響を及ぼす可能性があります。#!"
  pet_animal.3020.warning: "#warning これは、あなたのワシの健康に影響を及ぼす可能性があります。#!"

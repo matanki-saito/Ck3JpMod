@@ -53,7 +53,7 @@
  laamp_transport_animal_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]のかわいいペットを安全に輸送せよ。"
  laamp_construction_contract_contract: "建設工事"
  laamp_construction_contract_desc_title: "経験豊かな行商人へ"
- laamp_construction_contract_desc: " [TaskContract.GetEmployer.GetTitleAsNameNoTooltip] によって命令された建設作業の資材が不足している。新しい建築資材の調達のために多額の資金が提供されている。"
+ laamp_construction_contract_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip] によって命令された建設作業の資材が不足している。新しい建築資材の調達のために多額の資金が提供されている。"
  laamp_treasure_hunting_contract_contract: "宝探し"
  laamp_treasure_hunting_contract_desc_title: "狡猾な冒険家どもよ、"
  laamp_treasure_hunting_contract_desc: "伝説の財宝の噂が[TaskContract.GetEmployer.GetTitleAsNameNoTooltip]の耳に届いた。[TaskContract.GetEmployer.GetSheHe|U]は、この噂の真偽を確かめるため、有能な冒険者を求めている。"

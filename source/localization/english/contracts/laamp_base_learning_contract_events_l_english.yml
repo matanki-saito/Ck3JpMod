@@ -307,7 +307,7 @@
  laamp_base_learning_contract_events.4100.learning.tt.failure: "[child_to_educate.GetShortUINamePossessive]の興味を引くことに失敗した"
  laamp_base_learning_contract_events.4100.diplomacy.tt.success: "[child_to_educate.GetShortUIName]に社交力の重要性を教える"
  laamp_base_learning_contract_events.4100.diplomacy.tt.failure: "$laamp_base_learning_contract_events.4100.learning.tt.failure$"
- laamp_base_learning_contract_events.4100.martial.tt.success: " あなたは[child_to_educate.GetShortUIName]の好奇心をくすぐり、野外勤務について興味を抱かせる。"
+ laamp_base_learning_contract_events.4100.martial.tt.success: "あなたは[child_to_educate.GetShortUIName]の好奇心をくすぐり、野外勤務について興味を抱かせる。"
  laamp_base_learning_contract_events.4100.martial.tt.failure: "$laamp_base_learning_contract_events.4100.learning.tt.failure$"
  laamp_base_learning_contract_events.4100.stewardship.tt.success: "[child_to_educate.GetShortUIName]は、組織運営と効率的な行動についてさらに理解を深めた。"
  laamp_base_learning_contract_events.4100.stewardship.tt.failure: "$laamp_base_learning_contract_events.4100.learning.tt.failure$"

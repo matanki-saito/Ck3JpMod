@@ -590,7 +590,7 @@
  WONT_FIGHT_OBEDIENT_REASON: "[suzerain|E]とは戦わないだろう：$VALUE|=+0$"
  AI_CONTRACT_BALANCE: "契約利益：$VALUE|=+0$"
  AI_TRIBUTARY_REASON: "[recipient.GetShortUIName|U]は[actor.GetShortUINamePossessive]の[tributary|E]である：$VALUE|=+0$"
- AI_OBEDIENT_REASON: " [recipient.GetShortUIName|U]は[actor.GetShortUIName]に対して[obedient|E]である：$VALUE|=+0$"
+ AI_OBEDIENT_REASON: "[recipient.GetShortUIName|U]は[actor.GetShortUIName]に対して[obedient|E]である：$VALUE|=+0$"
  AI_FILTHY_HORSE_LORD_REASON: "[actor.GetShortUIName|U]は汚らわしい[GetGovernment( 'nomad_government' ).GetName]の馬上王である：$VALUE|=+0$"
  AI_OBEDIENT_REVERSE_REASON: "[actor.GetShortUIName|U]は[recipient.GetShortUIName]に対して[obedient|E]である：$VALUE|=+0$"
  AI_NOT_OBEDIENT_REVERSE_REASON: "[actor.GetShortUIName|U]は[recipient.GetShortUIName]に対して[obedient|E]ではない：$VALUE|=+0$"

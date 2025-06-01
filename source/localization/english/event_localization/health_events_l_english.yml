@@ -152,7 +152,7 @@
  health.2101.c:0 "[sick_character.GetHerHim]を放り出せ！"
  health.2201.t:2 "[SCOPE.Custom('EventTitleDisease')]：[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('sick_character'))|U]"
  health.2201.start.desc:1 "本日は重大な知らせを受けた。我が[ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('sick_character'))][sick_character.GetFirstName]が病に倒れたのだ。"
- disease_ill_article:0 " "
+ disease_ill_article:0 "a"
  disease_ill:0 "病名は感冒なる由。"
  disease_pneumonic:0 "病名は肺炎なる由。"
  disease_gout_ridden:0 "病名は痛風なる由。"

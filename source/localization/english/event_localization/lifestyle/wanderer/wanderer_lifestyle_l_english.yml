@@ -280,7 +280,7 @@
  wanderer_lifestyle_events.40.language_tt.fail: "会話はさらに混乱し、結局少しばかり高く支払うこととなった"
  wanderer_lifestyle_events.40.barter_tt: "[provisions_merchant.GetName]に#EMP 値引き#!させようと試みる"
  wanderer_lifestyle_events.40.barter_tt.success: "あなたの努力に感銘を受けた[provisions_merchant.GetSheHe|U]が、割引価格を提示する"
- wanderer_lifestyle_events.40.success_title: " [provisions_merchant.GetHerHim]との交渉に成功した"
+ wanderer_lifestyle_events.40.success_title: "[provisions_merchant.GetHerHim]との交渉に成功した"
  wanderer_lifestyle_events.40.fail_title: "[provisions_merchant.GetFirstNameNoTooltip]には響かなかった"
  nomadic_inspector_woodlands_tier_2_modifier: "$landless_inspector_woodlands_tier_1_modifier$"
  nomadic_inspector_woodlands_tier_3_modifier: "$landless_inspector_woodlands_tier_1_modifier$"

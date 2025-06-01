@@ -546,7 +546,7 @@
  building_the_pyramids_01:0 "$building_type_the_pyramids_01$"
  building_the_pyramids_01_desc:0 "$building_type_the_pyramids_01_desc$"
  building_type_alhambra_01:0 "アルハンブラ"
- building_type_alhambra_01_desc:0 "アルハンブラは古代ローマの城跡を利用した要塞である。防御施設として利用可能だが、適切な投資があればそれ以上の何かに変えることも出来る。"
+ building_type_alhambra_01_desc:0 "アルハンブラは古代ローマの城跡を利用した要塞である。防御施設として利用可能だが、適切な投資があればそれ以上の何かに変えることもできる。"
  building_alhambra_01:0 "$building_type_alhambra_01$の要塞跡"
  building_alhambra_01_desc:0 "$building_type_alhambra_01_desc$"
  building_alhambra_02:0 "$building_type_alhambra_01$宮殿"

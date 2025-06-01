@@ -1,7 +1,7 @@
 ﻿l_english:
  bp1_yearly.5001.t:0 "夜の恐怖"
  bp1_yearly.5001.desc:0 "なぜ目が醒めたのだろう？ぼんやりと、寝ぼけたまま頭の中のチェックリストを確かめる。夜は肌寒くあるが凍えるほどではなく、ベッドは暖かく快適で、そして…。\n\nベッドの足元に人影が見える。近づくにつれ、影から[ROOT.Char.Custom2('RelationToMeShort', sibling_murderer)][sibling_murderer.GetFirstName]の姿が浮かび上がる。私は、[sibling_murderer.GetHerHis]の部屋は隣だと指摘すべく口を開こうとして、その手にある枕に気づいた。\n\n冴え冴えと青い月明かりのおかげで、私は[sibling_murderer.GetHerHis]の瞳に満ちた、荒々しい狂気と殺意の輝きに気づくことができた。"
- bp1_yearly.5001.a:0 " お前を謀反のかどで#bold 殺してやる #!！"
+ bp1_yearly.5001.a:0 "お前を謀反のかどで#bold 殺してやる #!！"
  bp1_yearly.5001.b:0 "だめだ！そうはさせない！"
  bp1_yearly.5001.c:0 "助けて！"
  bp1_yearly.5001.win.tt:0 "対決は良い結果をもたらす"

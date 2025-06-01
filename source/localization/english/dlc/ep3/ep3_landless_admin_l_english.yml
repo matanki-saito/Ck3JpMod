@@ -13,7 +13,7 @@
  ep3_landless_admin.1010.b: "「我らは何かしらの貢献を期待しておるのだが」"
  ep3_landless_admin.1010.c: "「#EMP 皆に#!、よろしく言っておいてくれ」"
  ep3_landless_admin.1010.d: "「ふうん、何ならここに住むか？」"
- MODIFIER_DEFINITION_VALUE_PER_ESTATE_BUILDING: " \t#weak $estate_main_01_domicile_building$の[building|E]のレベルごとに増加#!"
+ MODIFIER_DEFINITION_VALUE_PER_ESTATE_BUILDING: "\t#weak $estate_main_01_domicile_building$の[building|E]のレベルごとに増加#!"
  ep3_good_estate_modifier: "良き荘園にて"
  ep3_good_estate_modifier_desc: "この人物の$estate_main_01_domicile_building$の維持管理に、地元の人々は感銘を受けている。"
  ep3_extra_security_modifier: "壁が高すぎる！"

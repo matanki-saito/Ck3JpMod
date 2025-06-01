@@ -192,5 +192,5 @@
  TITLE_VIEW_APPOINTMENT_TOOLTIP: "#T 任命順位を表示#!\n[Title.GetHolder.GetPrimaryTitle.GetName]称号"
  ADD_LAWS_TOOLTIP: "#T 継承法を追加"
  CREATE_TITLE_FAIL_REASON_ADMIN_VASSAL: "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip|U]は[administrative|e][governor|e]です#!"
- CREATE_TITLE_FAIL_REASON_CONFEDERATION: " @warning_icon! #X あなたは[confederation|e]の一員です#!"
+ CREATE_TITLE_FAIL_REASON_CONFEDERATION: "@warning_icon!#X あなたは[confederation|e]の一員です#!"
  migration_history: "移住"

@@ -6,7 +6,7 @@
  double_moon_tome_desc_4: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『優しき言葉』"
  double_moon_tome_desc_5: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『癒えた心』"
  double_moon_tome_desc_6: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『廷臣への手紙』"
- double_moon_tome_desc_7: " [double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『偉大なる折々』"
+ double_moon_tome_desc_7: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『偉大なる折々』"
  double_moon_tome_desc_8: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『家族より、心より』"
  double_moon_tome_desc_9: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『われらを隔てるもの』"
  double_moon_tome_desc_10: "[double_moon_book.GetDesc]\n$EFFECT_LIST_BULLET$『言葉の重み』"

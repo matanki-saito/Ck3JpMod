@@ -5,7 +5,7 @@
  physician_epidemic_events.1000.b: "この伝染病を終わらせるために、できることは何でもしなければ。"
  physician_epidemic_events.1000.b.success: "処置は効果的だ"
  physician_epidemic_events.1000.b.failure: "処置失敗"
- physician_epidemic_events.1000.c: "我々はこれらの遺体を穢しはしない"
+ physician_epidemic_events.1000.c: "我々はこれらの遺体を穢しはしない。"
  physician_epidemic_events.1010.t: "隔離する"
  physician_epidemic_events.1010.desc: "[epidemic_scope.GetName]が[ROOT.Char.GetFaith.DeathDeityName|U]のもとに私の臣下を送り続ける中、[physician.Custom2('MyCharacterIntroduction', ROOT.Char)]が今日、過激な解決策を持って私のところにやってきた。[physician.GetSheHe|U]は私に瘴気の性質を詳しく説明し、いかにツンとした悪気こそが病気を蔓延させる原因であるか、そしていかにその悪気が死体にまとわりついているのを語ってくれる。\n\n[physician.GetFirstNameNoTooltip|U]は、感染した地域にいる人々への望みは捨て、感染した地域への人の出入りを禁止し悪気の拡散を抑えることにフォーカスするべきだと提案してきた。これは確かにうまくいくかもしれないが、領国の経済に計り知れない損害を与え、その土地で働く人々が感染した地域からいなくってしまうだろう。\n\n「この切迫した状況だからこそ、[ROOT.Char.GetTitleAsNameNoTooltip|U]よ、できることなら何でもしなければなりません」"
  physician_epidemic_events.1010.a: "「隔離」とやらを実施しよう。"

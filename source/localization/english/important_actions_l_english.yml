@@ -25,7 +25,7 @@
  action_betrothed_can_marry_click:0 "#I クリックで婚姻を確認#!"
  action_close_family_can_marry:1 "@cs_arrange_marriage_icon!あなたの[actor.Custom2('RelationToMe', recipient)][recipient.GetShortUINameNoTooltip]は結婚できます"
  action_close_family_can_marry_label:1 "@cs_arrange_marriage_icon! あなたの[recipient.GetAge]歳の[actor.Custom2('RelationToMe', recipient)]、[recipient.GetShortUINameNoTooltip]は結婚できます[recipient.Custom2('GetSuccessionLinePositionCurrentSituation', actor)]"
- action_close_family_can_marry_desc:3 "あなたの[actor.Custom2('RelationToMe', recipient)][recipient.GetShortUIName]は結婚する資格があります。[recipient.Custom2('GetSuccessionLinePositionLongCurrentSituation', actor)]\n\n#help [recipient.GetHerHim]にふさわしい[marriage|E]を手配すれば、[dynasty|E]の利益になり新しい[alliance|E]の締結さえも出来るかもしれません。#!"
+ action_close_family_can_marry_desc:3 "あなたの[actor.Custom2('RelationToMe', recipient)][recipient.GetShortUIName]は結婚する資格があります。[recipient.Custom2('GetSuccessionLinePositionLongCurrentSituation', actor)]\n\n#help [recipient.GetHerHim]にふさわしい[marriage|E]を手配すれば、[dynasty|E]の利益になり新しい[alliance|E]の締結さえもできるかもしれません。#!"
  action_close_family_can_marry_click:0 "#I クリックでふさわしい[spouse|E]を探す#!"
  action_close_family_can_marry_combined_group_name:1 "@cs_arrange_marriage_icon!近親者が結婚可能です"
  action_close_family_can_marry_combined_group_label:2 "@cs_arrange_marriage_icon!家族の一員が結婚可能です"

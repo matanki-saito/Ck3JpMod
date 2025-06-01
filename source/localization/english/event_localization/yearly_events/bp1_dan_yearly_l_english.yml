@@ -128,7 +128,7 @@
  bp1_yearly.7058.glutton:0 "食べ物はまだあるぞ！#EMP 秘密の隠し場所#!を開けてやる！"
  bp1_yearly.7058.a:1 "きちんと返済してもらうぞ。できればそれ以上に。"
  bp1_yearly.7058.b:0 "地下室が気に入ったのなら、[ROOT.Char.Custom('GetDungeon')]も#EMP 喜んで#!もらえるだろう！"
- bp1_yearly.7058.c:1 " #EMP *はぁ* #!、私のおごり…そうだな…"
+ bp1_yearly.7058.c:1 "#EMP はァ#!…私の奢りかい、わかったよ。"
  bp1_yearly.7030.t:0 "肉欲の慰め"
  bp1_yearly.7030.desc:0 "[dead_friend_spouse.GetFirstName]は[dead_friend_spouse.GetHerHis]の[dead_friend.Custom('WifeHusband')]である[dead_friend.GetFirstName]がこの世を去って以来、ずっと打ちひしがれている。ある晩、[dead_friend_spouse.GetSheHe|U]が私を訪ねてきた。\n\n「とても寂しいのです。」と[dead_friend_spouse.GetSheHe]は言い、私をじっと見つめる。私は[dead_friend.GetFirstNameNoTooltip]が良き友人であったことを思い出す。\n\n「あなたにはとても元気づけられました。」と[dead_friend_spouse.GetSheHe]は言い、その唇を艶かしく噛みしめる。[dead_friend.GetFirstNameNoTooltip]は私の友人であった。\n\n「私はただ何かを感じたいのです。」と[dead_friend_spouse.GetSheHe]は囁き、自分の[dead_friend_spouse.Custom('GetUpperClothingArticle')]の前身の留め具を緩める。[dead_friend.GetFirstNameNoTooltip]は、私の友人#EMP であった#!…"
  bp1_yearly.7030.a:1 "[dead_friend.GetFirstNameNoTooltip]ならわかってくれるはずだ…"

@@ -324,7 +324,7 @@
  BLOOD_BROTHER_MEMORIES: "共有する過去が我らを縛る。"
  BLOOD_BROTHER_MEMORY_TRIGGER: "あなたと受信者は、お互いの重要な記憶において肯定的な人物でなければならない。"
  BLOOD_BROTHER_WAR_ALLIES_TRIGGER: "あなたと受信者は、過去#high 10年#!以内に同じ戦争の同じ側に属していなければならない。"
- BLOOD_BROTHER_WAR_ALLIES: " 我らは共に戦争に立ち向かった。"
+ BLOOD_BROTHER_WAR_ALLIES: "我らは共に戦争に立ち向かった。"
  BLOOD_BROTHER_NORMAL: "我らは強い絆を感じている。"
  BLOOD_BROTHER_COMMON_ENEMY: "共通の敵が我らを結びつける。"
  BLOOD_BROTHER_COMMON_ENEMY_TRIGGER: "共通の敵を持つには、あなたと受信者の双方が次の条件のいずれかを満たしていなければならない：\n$EFFECT_LIST_BULLET$敵がライバルである\n$EFFECT_LIST_BULLET$敵が主要な戦争相手である\n$EFFECT_LIST_BULLET$敵が敵対的派閥に所属している\n$EFFECT_LIST_BULLET$敵があなたの派閥によって標的にされている\n$EFFECT_LIST_BULLET$敵の家があなたの家と確執関係にある\n$EFFECT_LIST_BULLET$あなたが敵の称号に請求権を持っている（それを血盟者は請求していない）\n$EFFECT_LIST_BULLET$敵があなたの称号に請求権を持っている（それを血盟者は請求していない）"
