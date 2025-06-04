@@ -2457,7 +2457,7 @@
  personal_touch_2_effect: "[master_terrain|E]の[decision|E]をアンロック"
  personal_touch_3_effect: "[master_terrain|E]の効果：\n$BULLET_WITH_TAB$[travel_danger|E]：[travel_danger_i]#P -20#!\n$BULLET_WITH_TAB$[provisions|E]の使用量：[provisions_i]#P -25％#!\n$BULLET_WITH_TAB$#color_white 常備軍の補充#!コスト：[gold_i][provisions_i]#P -25％#!\n$BULLET_WITH_TAB$[battles|E]から得る[prestige|E]と[prestige_experience|E]：[prestige_i]#P +50％#!\n$BULLET_WITH_TAB$[command_modifier_i][advantage|E]：@advantage_icon!#P +5#!\n$BULLET_WITH_TAB$[command_modifier_i]最大[combat_roll|E]：#P +1#!\n$BULLET_WITH_TAB$[command_modifier_i]最小[combat_roll|E]：#P +1#!\n$BULLET_WITH_TAB$[command_modifier_i][supply_limit|E]ペナルティ：#P 無効#!\n$BULLET_WITH_TAB$[command_modifier_i][attrition|E]：#P -50％#!"
  local_adjudicate_location_tt: "現在の場所に以下の効果が適用されます："
- realm_charts_perk_effect: "同じ領域内の策謀の秘密度 @scheme_secrecy_icon! #P +[EmptyScope.ScriptValue('realm_charts_perk_value')|+0%/]#!"
+ realm_charts_perk_effect: "同じ領国内の策謀の秘密度 @scheme_secrecy_icon! #P +[EmptyScope.ScriptValue('realm_charts_perk_value')|+0%/]#!"
  realm_charts_perk_2_effect: "[draw_up_new_charts|E]の[decision|E]をアンロック"
  random_economic_building_tt: "[building_scope.GetName]の所領がランダムな[economic_building|E]を得る"
  random_fortification_building_tt: "[building_scope.GetName]の所領がランダムな[fortification_building|E]を得る"
