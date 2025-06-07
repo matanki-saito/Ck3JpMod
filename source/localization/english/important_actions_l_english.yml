@@ -958,7 +958,7 @@
  action_offer_submission_or_ruin_label: "@vassal_icon! [recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip]に服従を強いることができます"
  action_offer_submission_or_ruin_combined_label: "[recipient.GetPrimaryTitle.Custom('GetTierIcon')][recipient.GetUINameNoTooltip]"
  action_offer_submission_or_ruin_click: "#I クリックして「服従か滅亡か」を提示#!"
- action_offer_submission_or_ruin_HELP: "\n\n#help 偉大なる征服皇帝たるあなたは、[independent|E]した支配者たちに選択を迫ることができます。あなたの[vassal|E]となるか、あるいは破滅的な[war|E]を受け入れるかを。#!"
+ action_offer_submission_or_ruin_HELP: "\n\n#help 偉大なる征服皇帝たるあなたは、[independent|E]した統治者たちに選択を迫ることができます。あなたの[vassal|E]となるか、あるいは破滅的な[war|E]を受け入れるかを。#!"
  action_offer_confederation: "@alliance_icon! 統治者が連合に加わろうとしている"
  action_offer_confederation_combined_group_label: "@alliance_icon! 統治者たちが連合に加わろうとしている"
  action_offer_confederation_combined_group_name: "$action_offer_confederation_combined_group_label$"

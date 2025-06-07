@@ -104,7 +104,7 @@
  extra_supplies_modifier: "追加供給"
  extra_supplies_modifier_desc: "この旅行団は十分な物資を積んでいる。"
  herding_insights_modifier: "牧畜の知見"
- herding_insights_modifier_desc: "これらの土地の支配者は、旅先で得た高度な牧畜技術を応用している。"
+ herding_insights_modifier_desc: "これらの土地の統治者は、旅先で得た高度な牧畜技術を応用している。"
  travel_events_oltner_2.1110.t: "鍛冶屋の騒音"
  travel_events_oltner_2.1110.desc: "私たちの旅は[location.GetName]へと私たちを導く。そこでは、鍛冶屋のリズミカルな槌音が地域の商業の鼓動となっている。煙突から煙が立ち上り、汗と煤にまみれた鍛冶屋たちが、素材を素晴らしい製品へと形作っている。\n\n鍛冶屋の一人が[local_character.GetHerHis]の額の汗を拭い、私を手招きして「ようこそ、[ROOT.Char.GetLadyLord|U]」と[local_character.GetSheHe]は宣言する。「我々は名匠[local_character.GetCulture.GetNameNoTooltip]鍛冶屋だ。最高の腕前だ！どうか、我々の品物をじっくりご覧ください」"
  travel_events_oltner_2.1110.a: "「鎧一式があれば完璧だ」"

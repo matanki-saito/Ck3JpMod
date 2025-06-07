@@ -75,7 +75,7 @@
  journey_blame_game_modifier: "不人気貴族"
  journey_blame_game_modifier_desc: "この人物は地元の民衆の間で非常に評判が悪く、多くの噂が広まっている。"
  journey_blame_game_province_modifier: "人気な統治者"
- journey_blame_game_province_modifier_desc: "その伯爵領の支配者は、民のために戦っているという話が町中に広まったことで、次第に人気を集めるようになった。"
+ journey_blame_game_province_modifier_desc: "この伯爵領の統治者は、民のために戦っているという話が町中に広まったことで、次第に人気を集めるようになった。"
  journey_pauper_king_modifier: "貧者の王"
  journey_pauper_king_modifier_desc: "彼らは農民や農奴の間で特に人気があるらしい。下層階級の人々と親しく交流しているという話が数多く広まっているためだ。"
  journey_events.53.desc: "私は次から次へと酒を注文し続け、ついには全員が酔いつぶれるか、帰路につくまで飲ませた。結局、最後までテーブルに残ったのは[local_gambler.GetFirstNameNoTooltip]と私だけだった。[local_gambler.GetSheHe|U]はかろうじて座っているものの、目はすでに焦点が定まらず、こちらをぼんやりと見つめている。  \n\n「なあ、お前……貴族にしちゃ悪くないじゃねえか……」  \n\n[local_gambler.GetSheHe|U]はそう呟くと、そのまま頭をテーブルに打ちつけ、ついに意識を手放した。"

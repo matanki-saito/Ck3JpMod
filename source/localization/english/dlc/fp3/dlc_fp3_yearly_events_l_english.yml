@@ -347,7 +347,7 @@
  fp3_yearly.8026.a: "誰にも見つかりませんように…"
  fp3_yearly.8026.b: "念のため、[helpful_courtier.GetFirstNameNoTooltip]を永久に黙らせるべきだろう…"
  fp3_yearly.8027.t: "黄金の990章"
- fp3_yearly.8027.desc: "著名な作家である[snubbed_poet.GetName]は、長年のパトロンだった[former_employer.GetName]と不仲に陥った。\n\n「[former_employer.GetSheHe|U]は990タラントの金を約束してくれたのです」[snubbed_poet.GetFirstNameNoTooltip]が私に言う。「[former_employer.GetHerHis]のために、長いこと準備してきた叙事詩の一章ごとに1タラントです。私の故郷の村の崩れた#italic カナート#!の修復に充てるつもりでした。ですが私が公共浴場にいる時、約束の報酬を持った配達人が来たのです——#italic 銀#!のコインを持って！この裏切りに憤慨した私は、配達人と浴場の主人、ついにでジュース売りに全てくれてやってしまったのです。いま、最後の章を書き上げるまで新たな雇い主が必要なのです。そして、以前のオファーに見合う十分な金をお持ちだと聞き及びました…」"
+ fp3_yearly.8027.desc: "著名な作家[snubbed_poet.GetName]は、長年の後援者である[former_employer.GetName]と関係が決裂したという。\n\n「[former_employer.GetSheHe|U]は、私が長年[former_employer.GetHerHis]のために執筆してきた叙事詩の各章に対して、一章につき金貨一枚、合計九百九十タラントもの金貨を約束してくれていたのです」と[snubbed_poet.GetFirstNameNoTooltip]は私に語る。\n\n「それを使って、故郷の村にある崩れた#italic カナート#!を修復するつもりでした。ところが浴場にいたとき、約束の報酬を届けに来た使者が持ってきたのは……#italic 銀貨#!!でした。この裏切りに憤り、私はその銀貨をすべて使者と浴場の主人、そしてジュース売りにくれてやりました。\nそうして、私は新しい後援者を探しています。残りの章を書き上げる間、あなたにはその金貨の約束を引き継ぐだけの余裕があると聞きましたが……」"
  fp3_yearly.8027.a: "#italic 半額#!を与えよう——その本が完成した時に。"
  fp3_yearly.8027.b: "これは[former_employer.GetTitledFirstNameNoTooltip]の勘違いに違いない…"
  fp3_yearly.8027.c: "私がそこまで浪費家だと思うか？　どこか他所へ行け。"

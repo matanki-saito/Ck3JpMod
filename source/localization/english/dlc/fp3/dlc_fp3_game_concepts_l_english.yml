@@ -1,6 +1,6 @@
 ﻿l_english:
  game_concept_persian_struggle: "イランの幕間劇"
- game_concept_persian_struggle_desc: "$game_concept_persian_struggle$はアッバース朝カリフ国の荒廃を描いており、メソポタミアは反乱と権力闘争によって荒れ果て、いくつかのペルシアの支配者が独立を主張しています。\n\n[struggle_involved|E]の[characters|E]はさまざまな野望を持っていますが、ほとんどは[GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )]となってカリフの力を回復させる方向に進むか、[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]となって、現体制を破壊しようとするでしょう。\n\n[struggle|E]は[struggle_phase_phases|E]、[struggle_persia_phase_unrest|E]、[struggle_persia_phase_stabilisation|E]の間を揺れ動きます。"
+ game_concept_persian_struggle_desc: "$game_concept_persian_struggle$はアッバース朝カリフ国の荒廃を描いており、メソポタミアは反乱と権力闘争によって荒れ果て、何人かのペルシア人の統治者が独立を主張しています。\n\n[struggle_involved|E]の[characters|E]はさまざまな野望を持っていますが、ほとんどは[GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )]となってカリフの力を回復させる方向に進むか、[GetTrait('fp3_struggle_detractor').GetName( GetNullCharacter )]となって、現体制を破壊しようとするでしょう。\n\n[struggle|E]は[struggle_phase_phases|E]、[struggle_persia_phase_unrest|E]、[struggle_persia_phase_stabilisation|E]の間を揺れ動きます。"
  game_concept_kindle_royal_fire_decision: "王室の聖火を灯す決断"
  game_concept_kindle_royal_fire_decision_desc: "王室の聖火を燃やすことができる[decision|E]で、[health|E]と[dynasty_prestige|E]にボーナスを得る。"
  game_concept_fp3_embellish_capital_decision: "$fp3_embellish_capital_decision_name$決断"
@@ -23,7 +23,7 @@
  game_concept_struggle_persia_phase_concession: "譲歩"
  game_concept_struggle_persia_phase_concession_desc: "長き時が過ぎた。そろそろペルシアの緊張もいい加減和らいでいい時ではないか。カリフ制の支持者も反対者も絶え間無い流血に疲れ果てれば[persian_struggle|E]は自然に終結するかもしれない。劇的な轟音ではなく、密かなる囁きのように。"
  game_concept_fp3_request_turkic_invasion_interaction: "$fp3_request_turkic_invasion_interaction$"
- game_concept_fp3_request_turkic_invasion_interaction_desc: "トルコ系の[ruler|E]に資金を提供し、近隣の支配者を征服する。"
+ game_concept_fp3_request_turkic_invasion_interaction_desc: "トルコ系の[ruler|E]に資金を提供し、近隣の統治者を征服する。"
  game_concept_fp3_install_loyalist_cb: "親カリフ派の拡大"
  game_concept_fp3_install_loyalist_cb_desc: "標的とする[realm|E]の主に[GetTrait('fp3_struggle_supporter').GetName( GetNullCharacter )]を就かせるために[war|E]を行うことができます。"
  game_concept_fp3_demand_submission_interaction: "$fp3_demand_submission_interaction$"

@@ -11,7 +11,7 @@
  internal_affairs.10.d: "[county_holder.GetFirstNamePossessiveNoTooltip]の仕事のはずだろう、どうなっている？"
  internal_affairs_local_uprising_appeasement_modifier: "宥められた住民"
  internal_affairs_local_uprising_appeasement_modifier_desc: "地域の支配権が変わった後、この郡の地元の人々はなだめられた。"
- internal_affairs_local_uprising_festival_modifier: "支配者の祭り"
+ internal_affairs_local_uprising_festival_modifier: "田舎の祭り"
  internal_affairs_local_uprising_festival_modifier_desc: "地元の人々をなだめるために、毎年小さな田舎のお祭りが開催される。"
  internal_affairs.20.t: "不適任な[county_holder.GetLadyLord]"
  internal_affairs.20.desc: "今週だけで三度目だ。また使者がやってきて[county_title.GetNameNoTier]の嘆かわしい状況について伝えてきた。"

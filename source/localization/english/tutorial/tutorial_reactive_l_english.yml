@@ -535,7 +535,7 @@
  action_reactive_advice_kurultai_desc: "この項目を開いて、遊牧民の評議会『クリルタイ』について学びましょう。"
  action_reactive_advice_kurultai_click: "$click_to_open_lesson$"
  ra_kurultai_1: "クリルタイ"
- ra_kurultai_1_desc: "あなたは[the_great_steppe|E]の支配者として、[kurultai|E][council|E]を持つことになります。\n\n通常の評議会に慣れているかもしれませんが、[nomad|E]としてプレイする場合は、これまでとは異なる種類の補佐官たちと協力することになります。彼らは、領地の[county_fertility|E]の向上や、[herd|E]の成長を支えることに重点を置いて働くのです。"
+ ra_kurultai_1_desc: "あなたは[the_great_steppe|E]の統治者として、[kurultai|E][council|E]を持つことになります。\n\n通常の評議会に慣れているかもしれませんが、[nomad|E]としてプレイする場合は、これまでとは異なる種類の補佐官たちと協力することになります。彼らは、領地の[county_fertility|E]の向上や、[herd|E]の成長を支えることに重点を置いて働くのです。"
  ra_kurultai_1_prompt: "ハイライトされた評議会パネルをクリックして続けましょう"
  ra_kurultai_1b: "$ra_kurultai_1$"
  ra_kurultai_2: "クリルタイ"

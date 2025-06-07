@@ -2330,7 +2330,7 @@
  game_concept_tributary_contract_desc: "$game_concept_tributary_contract$は、[tributary|E]とその[suzerain|E]の間で交わされる [obligations|E]を定めています。\n\nすべての朝貢国は、それぞれ個別に交渉された異なる[obligations|E]に従います。\n\n朝貢国は、その[obligations|E]に応じて、総[taxes|E]、[levies|E]、[herd|E]、および/または [prestige|E]の一定割合を宗主国に支払います。"
  game_concept_legitimacy_desc_nomadic: "\n\n[GetGovernment( 'nomad_government' ).GetName]の[rulers|E]は、[rank|E]に依存しない特別な$game_concept_legitimacy$を有します。"
  game_concept_legitimacy_level_desc_nomadic: "\n\n[GetGovernment( 'nomad_government' ).GetName]の統治者は、戦争に勝利すると#V 50%#!多くの正統性を得ますが、敗北時にはその2倍を失います。また、[single_combat_duel_plural|E]での勝利や、同等またはそれ以上の[dominance|E]を持つ人物の高貴な血筋の[courtiers|E]との結婚によっても正統性を得ます。"
- game_concept_culture_head_desc_NOMAD_DLC: "\n\nただし、[nomadic|E]の[rulers|E]は、地位に関係なく最も多くの[herd|E]を保有する者を$game_concept_cultural_head$として選出する。一方、定住支配者が遊牧民と同じ[culture|E]に属している場合は、代わりに[military_power|E]が決定要因となる。"
+ game_concept_culture_head_desc_NOMAD_DLC: "\n\nただし、[nomadic|E]の[rulers|E]は、地位に関係なく最も多くの[herd|E]を保有する者を$game_concept_cultural_head$として選出します。一方、定住統治者が遊牧民と同じ[culture|E]に属している場合は、代わりに[military_power|E]が決定要因となります。"
  game_concept_story_content_temujin: "$game_concept_story_generic_prefix$$bookmark_nomads_temujin$"
  game_concept_story_content_temujin_desc: "#tooltip_heading 物語の舞台：小規模#!\n\nテムジンとして、あなたは妻を囚えた宿敵の部族に復讐を果たし、もっとも信頼する封臣であり友であるジャムカの忠誠心を試すことになる。\n\n$game_concept_story_generic_desc_boilerplate$"
  game_concept_story_content_jamukha: "$game_concept_story_generic_prefix$$bookmark_nomads_temujin$"

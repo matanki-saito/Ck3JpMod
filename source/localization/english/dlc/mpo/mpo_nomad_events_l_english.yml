@@ -281,7 +281,7 @@
  inspired_in_wifely_duties_modifier: "愛と奮励"
  inspired_in_wifely_duties_modifier_desc: "この女性は夫の家族の愛と忠義を深く理解し、献身的に家を切り盛りしている。"
  concubine_lavished_attention_modifier: "惜しみない寵愛"
- concubine_lavished_attention_modifier_desc: "この女性は支配者の寵愛と、それに伴うあらゆる贅沢を享受してきた。"
+ concubine_lavished_attention_modifier_desc: "この女性は統治者の寵愛と、それに伴うあらゆる贅沢を享受してきた。"
  truce_family_widow: "\"\n[ROOT.Char.GetShortUIName]が未亡人[widow.GetShortUIName]と婚姻を結んだ際に休戦が成立した"
  mpo_nomad_events.1091.t: "未亡人の行く末"
  mpo_nomad_events.1091.desc: "我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_husband'))|l]は逝き、[dead_husband.GetFirstName]は風のもとへ還った。[dead_husband.GetHerHis|U]の妻である[widow.GetName]は、[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_husband'))|l]の幕舎に入ったその日から私の家族の一員であり、いまは涙に暮れている。\n\n[widow.GetFirstNamePossessiveNoTooltip|U]の心は今も[ROOT.Char.GetHouse.GetName]にあるだろう。だが彼女の居場所や彼女自身の保護は、今や私の手に委ねられている…亡き[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dead_husband'))|l]の遺した義務として。\n\n"
