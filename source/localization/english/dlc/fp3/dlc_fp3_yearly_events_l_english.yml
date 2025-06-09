@@ -350,7 +350,7 @@
  fp3_yearly.8027.desc: "著名な作家[snubbed_poet.GetName]は、長年の後援者である[former_employer.GetName]と関係が決裂したという。\n\n「[former_employer.GetSheHe|U]は、私が長年[former_employer.GetHerHis]のために執筆してきた叙事詩の各章に対して、一章につき金貨一枚、合計九百九十タラントもの金貨を約束してくれていたのです」と[snubbed_poet.GetFirstNameNoTooltip]は私に語る。\n\n「それを使って、故郷の村にある崩れた#italic カナート#!を修復するつもりでした。ところが浴場にいたとき、約束の報酬を届けに来た使者が持ってきたのは……#italic 銀貨#!!でした。この裏切りに憤り、私はその銀貨をすべて使者と浴場の主人、そしてジュース売りにくれてやりました。\nそうして、私は新しい後援者を探しています。残りの章を書き上げる間、あなたにはその金貨の約束を引き継ぐだけの余裕があると聞きましたが……」"
  fp3_yearly.8027.a: "#italic 半額#!を与えよう——その本が完成した時に。"
  fp3_yearly.8027.b: "これは[former_employer.GetTitledFirstNameNoTooltip]の勘違いに違いない…"
- fp3_yearly.8027.c: "私がそこまで浪費家だと思うか？　どこか他所へ行け。"
+ fp3_yearly.8027.c: "そんな浪費家に見えるかね？あっちいけ。"
  fp3_mediation_fails.tt: "調停は失敗した"
  fp3_mediation_succeeds.tt: "調停は成功した"
  fp3_poet_leaves.tt: "[snubbed_poet.GetNameNoTooltip]は[former_employer.GetFirstNamePossessiveNoTooltip]の宮廷へ移るだろうが、あなたは[opinion|E]と[prestige|E]を得るだろう"
