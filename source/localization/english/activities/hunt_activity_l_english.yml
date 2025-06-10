@@ -525,7 +525,7 @@
  weather_sandstorm:0 "砂嵐"
  weather_storm:0 "嵐"
  weather_thunderstorm:0 "雷雨"
- weather_downpour:0 "大荒れ"
+ weather_downpour:0 "豪雨"
  weather_gale:0 "強風"
  danger_cliff:0 "崖"
  danger_ravine:0 "渓谷"

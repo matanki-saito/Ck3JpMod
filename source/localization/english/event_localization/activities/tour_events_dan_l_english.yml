@@ -42,7 +42,7 @@
  tour_travel.3010.c:0 "先を急いだほうが良いだろう。"
  cultural_acceptance_local_saint:0 "地元の聖人"
  tour_travel.3020.t:0 "闇の中に二人きり"
- tour_travel.3020.desc:0 "我々は夜の[ROOT.Char.GetCurrentLocation.Custom('GetBadWeatherDesc')]Cを避けるために、便利な、しかし、狭苦しい宿で、外では風が吹き荒れている中、飲み物を味わう。一行は一人ずつ寝室へと退いていく。\n\n物思いにふけっているうちに気がつくと蝋燭はほぼ燃え尽きて、私の[ROOT.Char.Custom2('RelationToMeShort', love_professor)]、[love_professor.GetFirstName]と二人きりになっている。[love_professor.GetHerHis]の目には奇妙な表情がある。\n\n一瞬の後、[love_professor.GetSheHe]は顔をしかめ、慎重に言葉を選んで言う。「ええと、私はあなたを#EMP とても#!称賛しています、[ROOT.Char.GetFirstNameNoTooltip]——つまり[ROOT.Char.GetTitleAsNameNoTooltip]…」[love_professor.GetHerHis]の唇に微笑みが舞う。"
+ tour_travel.3020.desc:0 "我らは夕刻の[ROOT.Char.GetCurrentLocation.Custom('GetBadWeatherDesc')]を避け、手狭ながらも都合のよい宿に身を寄せていた。外では風が吠え、我らは杯を傾けつつそれに耳を傾ける。仲間たちは一人、また一人と寝所へと退いていった。\n\n私は物思いに耽っていた。ふと、蝋燭が燃え尽きかけていることに気づき、そして己が[ROOT.Char.Custom2('RelationToMeShort', love_professor)]である[love_professor.GetFirstName]とふたりきりであることに気がついた。[love_professor.GetHerHis]の瞳には、どこか不思議な光が宿っている。\n\nふたりのあいだに一瞬の沈黙が流れた後、[love_professor.GetSheHe]は顔をしかめ、言葉を慎重に選びながら口を開く。「あの、私はあなたのことを……#EMP 本当に#!尊敬しているんです、[ROOT.Char.GetFirstNameNoTooltip]――いや、[ROOT.Char.GetTitleAsNameNoTooltip]殿と呼ぶべきか……」[love_professor.GetHerHis]の唇には、微かな笑みが浮かんでいた。"
  tour_travel.3020.a:0 "おいで、他の人たちは皆寝ているよ。"
  tour_travel.3020.c:0 "ハッ！自分を何様だと思ってるんだ!?"
  tour_travel.3020.d:0 "私は少し休まないと…"
