@@ -16,7 +16,7 @@
  building_type_york_walls_01: "$building_york_walls_01$"
  building_type_york_walls_01_desc: "$building_york_walls_01_desc$"
  building_york_walls_01: "ヨークの城壁"
- building_york_walls_01_desc: "数マイルにわたって巡らされたこの古い城壁は、カエサル帝の御代からこの街を守り続けてきた。城壁は巧みに設計されており、草原地帯を蛇行し流れる二つの河を利用して、東西からの敵を禦いでいる。すべての交通網は特定の要所、すなわち#italic バー#!（関門）に集約される。ここでは通行税を徴収することも、敵に矢や火を浴びせかけることもできるのだ。"
+ building_york_walls_01_desc: "数マイルにわたって巡らされたこの古い城壁は、カエサルの時代からこの街を守り続けてきた。城壁は巧みに設計されており、草原地帯を蛇行し流れる二つの河を利用して、東西からの敵を禦いでいる。すべての交通網は特定の要所、すなわち#italic バー#!（関門）に集約される。ここでは通行税を徴収することも、敵に矢や火を浴びせかけることもできるのだ。"
  building_type_damascus_mosque_01: "$building_damascus_mosque_01$"
  building_type_damascus_mosque_01_desc: "$building_damascus_mosque_01_desc$"
  building_damascus_mosque_01: "ダマスカスの大モスク"
