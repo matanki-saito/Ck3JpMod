@@ -1007,7 +1007,7 @@
  tradition_nubian_warrior_kings_desc:0 "東アフリカに住む人々は、かつて侵略者に立ち向かい、クシュに王国を築いた偉大な戦士の王をよく覚えている。隣人たちは女性の優位性を主張するかもしれないが、我々は父親を中心に血統をたどっており、力強いヌビアの男たちの鬨の声は、外国の「女たち」を故郷へと追い返す。"
  tradition_debug_name:0 "気まぐれなやり方"
  tradition_debug_desc:0 "この文化は、多くの折衷的で矛盾した姿勢をとることで知られている。"
- culture_parameter_unlock_horse_pastures_building:0 "この[culture|E]の[holdings|E]には何時でも#V $building_type_horse_pastures_01$#!を建設できる"
+ culture_parameter_unlock_horse_pastures_building:0 "この[culture|E]の[holdings|E]には常に#V $building_type_horse_pastures_01$#!を建設できます"
  culture_parameter_culture_can_raid_over_land_even_if_feudal:1 "[duchy|E][title_tier|E]以下の[rulers|E]は、[government|E]に関係なく陸上で[raid|E]できる"
  culture_parameter_culture_can_raid_at_sea_even_if_feudal_no_restrictions:0 "[rulers|E]は[government|E]に関係なく、海上で[raid|E]できる"
  culture_parameter_culture_can_raid_over_land_even_if_feudal_no_restrictions:0 "[rulers|E]は[government|E]に関係なく、陸上で[raid|E]できる"

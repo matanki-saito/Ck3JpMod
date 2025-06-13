@@ -424,7 +424,7 @@
  recruit_from_nomadic_capital_decision: "$game_concept_yurt$から[ROOT.Char.Custom('GetCourtierTypePlural')|U]を徴募する"
  recruit_from_nomadic_capital_decision_desc: "果てしなく続く空の下、起伏に富んだステップの各地から、忠実な[ROOT.Char.GetDomicile.GetFaith.GetAdjective][ROOT.Char.GetDomicile.GetCulture.GetCollectiveNoun]が私の召集に応じて集まってくる。私は最も勇敢な騎手、最も鋭敏な狩人、そして最も聡明な者たちを呼び出し、仕官させる。"
  CHOOSE_NOMAD_COURTIER_DECISION_NEXT_STEP_BUTTON: "徴募するタイプを選択"
- recruit_from_nomadic_capital_decision_tooltip: "あなたは自分の[yurt|E]から[GetPlayer.GetDomicile.GetFaith.GetAdjective][GetPlayer.GetDomicile.GetCulture.GetName][characters|E]を#V 3#!人、[GetPlayer.Custom('GetCourtiersTypeConcept')|U]として徴募する"
+ recruit_from_nomadic_capital_decision_tooltip: "あなたは自分の[yurt|E]から[GetPlayer.GetDomicile.GetFaith.GetAdjective][GetPlayer.GetDomicile.GetCulture.GetName]の[characters|E]を#V 3#!人、[GetPlayer.Custom('GetCourtiersTypeConcept')|U]として徴募します"
  recruit_from_nomadic_capital_decision_confirm: "[GetPlayer.Custom('GetCourtierTypePlural')|U]を徴募"
  recruit_hunters_decision: "狩人を徴募する"
  recruit_brides_decision: "適格な花嫁を探す"
