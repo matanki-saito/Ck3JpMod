@@ -281,7 +281,7 @@
  steal_herd_yurt_04_domicile_building: "$steal_herd_yurt_01_domicile_building$"
  steal_herd_yurt_05_domicile_building: "$steal_herd_yurt_01_domicile_building$"
  steal_herd_yurt_06_domicile_building: "$steal_herd_yurt_01_domicile_building$"
- herder_yurt_01_domicile_building: "ズド避難所"
+ herder_yurt_01_domicile_building: "ゾド避難所"
  herder_yurt_02_domicile_building: "$herder_yurt_01_domicile_building$"
  herder_yurt_03_domicile_building: "$herder_yurt_01_domicile_building$"
  herder_yurt_04_domicile_building: "$herder_yurt_01_domicile_building$"

@@ -1753,7 +1753,7 @@
  obedient_interaction_reason: "[recipient.GetShortUINameNoTooltip]は[actor.GetShortUIName]に対して[obedient|E]である：$VALUE|=+0$"
  gurkhan_interaction_reason: "[actor.GetShortUIName|U]は[gurkhan|E]である：$VALUE|=+0$"
  accumulated_wealth_reason: "@gold_icon! [recipient.GetShortUINamePossessiveNoTooltip]の保有金：$VALUE|=+0$"
- zud_season_reason: "[steppe_season|E]がズドである：$VALUE|=+0$"
+ zud_season_reason: "[steppe_season|E]がゾドである：$VALUE|=+0$"
  promote_divergent_or_hybrid_culture_interaction: "[actor.GetCulture.GetNameNoTooltip]文化を後援する"
  promote_divergent_or_hybrid_culture_interaction_desc: "[recipient.GetShortUIName]に[actor.GetCulture.GetName][culture|E]を受け入れるよう求める"
  PROMOTE_DIVERGENT_CULTURE_INTERACTION_NOTIFICATION: "我らの伝統は道を照らす松明であった。だがいま、新たな炎を灯そう――過去より生まれ、未来のために鍛えられた炎を。さあ、[actor.GetCulture.GetName]の文化よ、我らの物語の新たな章を燃え上がらせよ！"

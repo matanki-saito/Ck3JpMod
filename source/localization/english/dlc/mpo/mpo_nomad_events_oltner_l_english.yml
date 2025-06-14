@@ -14,7 +14,7 @@
  nomad_events_oltner.0003.a: "我が矢は、[sighting_county_1.Custom('GetAnimalPlural')]の心臓を射抜こうぞ。"
  nomad_events_oltner.0003.b: "[maa_regiment.GetNameNoTooltip]に命じ、この[sighting_county_1.Custom('GetAnimalGroup')]を狩らせよう。"
  nomad_events_oltner.0003.c: "[ROOT.Char.GetFaith.FertilityGodName]が、奴らを他所へ追いやってくださるであろう。"
- nomad_events_oltner.0004.t: "ズドに現れた[sighting_county_1.Custom('GetAnimalPlural')|U]"
+ nomad_events_oltner.0004.t: "ゾドに現れた[sighting_county_1.Custom('GetAnimalPlural')|U]"
  nomad_events_oltner.0004.desc: "[my_subregion.GetCurrentPhase.GetName]の只中、広がるのは雪と氷ばかりであった――あの[sighting_county_1.Custom('GetAnimalGroup')]が現れるまでは。奴ら[sighting_county_1.Custom('GetAnimalPlural')]は、目にするものすべてを食らってゆく。そして今、我らに迫るのは飢えと死のみ。\n\n私の民と家畜が滅ぶのを、ただ指をくわえて見ているわけにはいかぬ。"
  nomad_events_oltner.0004.a: "一匹残らず[sighting_county_1.Custom('GetAnimalType')]を狩り尽くしてくれる！"
  nomad_events_oltner.0004.b: "[sighting_county_1.Custom('GetAnimalPlural')]など放っておけ。ここは引き払うぞ。"
