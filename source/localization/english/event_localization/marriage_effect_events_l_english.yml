@@ -24,7 +24,7 @@
  marriage_effect.0013.desc:0 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('real_mother') )][real_mother.GetTitledFirstName]と[real_mother.GetHerHis]の[illegitimate_child.Custom('GetDaughterSon')][illegitimate_child.GetTitledFirstName]が生まれ、それが[new_spouse.GetTitledFirstName]と[real_mother.GetHerHis]の野合によって妊娠したものと知って、それ以来、私はずっと心配していた。\n\n[new_spouse.GetTitledFirstName]と[real_mother.GetFirstName]が合法的になったことで、以前から抱いていた不安はようやく解消されるかもしれない。"
  marriage_effect.1001.t:0 "愛は勝つ"
  marriage_effect.1001.desc:1 "ああ、[spouse.GetTitledFirstName]、私の[spouse.Custom('LoverPetName')]！[ROOT.Char.GetFaith.FertilityGodName]と周りの人たちの祝福を受けて、今、あなたを堂々と受け入れることができると思うと…私は生きている中で一番幸せな[ROOT.Char.GetWomanMan]だ！"
- marriage_effect.1001.a:0 "こっちに来て、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse') )]！"
+ marriage_effect.1001.a:0 "さあ来てくれ、私だけの[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse') )]よ！"
  marriage_effect.1002.desc:1 "ああ、[spouse_2.GetTitledFirstName]、私の[spouse_2.Custom('LoverPetName')]！[ROOT.Char.GetFaith.FertilityGodName]と周りの人たちの祝福を受けて、今、あなたを素直に受け入れることができると思うと…私は生きている中で一番幸せな[ROOT.Char.GetWomanMan]だ！"
  marriage_effect.1002.a:0 "さあここへ、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse_2') )]よ!"
  marriage_effect.2001.t:0 "結婚祝い"
