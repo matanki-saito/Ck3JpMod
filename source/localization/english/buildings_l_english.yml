@@ -1437,7 +1437,7 @@
  building_type_holy_site_fire_temple_01_desc: "この壮大な建造物の内部では、#italic アータシュ・ヴァフラーム#!、すなわち「勝利の炎」が燃え盛っている。この火はあらゆる炎の中で最も純粋にして偉大なものであり、稲妻、王家の蝋燭、火葬の薪、金細工師の炉、そして苦行者の竈から集められたという。マギたちが終わりがないかのように見える浄化の儀式を行う中、遙か遠方の地から巡礼者たちがこの驚異を見るために訪れている。"
  building_holy_site_fire_temple_01: "大拝火神殿"
  building_holy_site_fire_temple_01_desc:1 "$building_type_holy_site_fire_temple_01_desc$"
- building_type_ark_of_bukhara_01: "ブハラのアルク城"
+ building_type_ark_of_bukhara_01: "ブハラのアルク（要塞）"
  building_type_ark_of_bukhara_01_desc: "この巨大な要塞は、世界が若かった頃にシヤーヴァシュ王子が築いたものだと言われている。その3000年後、この地方の古代の統治者であったブハラのクダたちによって修復され、以来使われ続けているのだ。北斗七星を模した7本の巨大な柱を持つこの建造物を見物するため、近隣からも遠方からも旅行者が訪れている。しかし、ここは名所である以前に要塞であり、その荘厳さには威圧感が伴う。"
  building_ark_of_bukhara_01: "$building_type_ark_of_bukhara_01$"
  building_ark_of_bukhara_01_desc: "$building_type_ark_of_bukhara_01_desc$"

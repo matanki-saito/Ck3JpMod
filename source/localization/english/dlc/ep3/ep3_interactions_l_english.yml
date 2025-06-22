@@ -425,7 +425,7 @@
  seize_realm_interaction: "$seize_realm$ #weak (計画)#!"
  seize_realm_interaction_message: "領国の簒奪"
  start_seize_realm_interaction_notification: "$seize_realm$"
- ep3_laamps.0401.t: "$seize_realm$：新参なりし[ROOT.Char.GetTitleAsNameNoTooltip]"
+ ep3_laamps.0401.t: "$seize_realm$：新たなる[ROOT.Char.GetTitleAsNameNoTooltip]"
  ep3_laamps.0401.desc: "計画は幾度も確認され、あらゆる事態に備えられ、共謀者たちは準備万端だった。仕事上の用件という口実で[target.Custom('ResidenceBuilding')|l]に押し入るのは容易なことだった……\nしかし警報が響き渡り、瞬く間に混沌が生じた。だが激しい混乱と戦いの末、我々はついに消耗しながらも勝利を手にしたのだ！\n\n"
  ep3_laamps.0401.imprison: "あの[target.Custom('InsultAdjective')]偽りの[ROOT.Char.GetTitleAsNameNoTooltip]である[target.GetFirstName]を、自らの玉座の間で私の前に引きずり出した。いまや[target.GetHerHis]は私の囚われ人、いかなる処遇も私の意のままだ！"
  ep3_laamps.0401.death: "[target.Custom('InsultAdjective')]偽りの[ROOT.Char.GetTitleAsNameNoTooltip]、[target.GetFirstName]――その冠にふさわしくなかった者は、死肉になって転がっている。"

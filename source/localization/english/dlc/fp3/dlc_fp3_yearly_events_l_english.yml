@@ -86,7 +86,7 @@
  fp3_yearly.8000_dancing_girl.desc: "ある日、[raging_ghazi.GetSheHe]が[murder_barony.GetNameNoTier]の町酒場で飲んだくれていた時、ちょっとした口論がきっかけで宿屋の主人と踊り子の少女、ついでにその子が世話していたペットの猿まで殺したのだという。\n\n"
  fp3_yearly.8000_bath_inspector.desc: "[raging_ghazi.GetSheHe]が[murder_barony.GetNameNoTier]の娼婦やその用心棒と揉め事を起こした時のことだ。[raging_ghazi.GetSheHe]は口論で熱くなりすぎたのか、守衛と浴場の監視員を刺し殺してしまったという。\n\n"
  fp3_yearly.8000_townsfolk.desc: "[raging_ghazi.GetSheHe]が[murder_barony.GetNameNoTier]の街で色っぽい美人局に騙され、強盗にあった時のことだ。[raging_ghazi.GetSheHe|U]は怒りに任せて椅子でお茶売りの行商人とロバをボコボコに殴り殺したのだという。\n\n"
- fp3_yearly.8000.desc: "「この[raging_ghazi.GetWomanMan]は厳しく罰せられなければならない」と私の正義感に燃える[righteous_marshal.GetCouncilTitle]である[righteous_marshal.GetFirstName]は告げる。「そうでなくては[murder_barony.GetNameNoTierNoTooltip]の良き民達が哀れだろう」と。\n\n「違う！違う！違う！」[raging_ghazi.GetFirstNameNoTooltip]は地下牢に鎖で繋がれながら叫んでいる。「私は開拓地に行かねばならない！そしてあなたはそれを認めねばならない！それは[ROOT.Char.GetFaith.HighGodNameAlternatePossessive]のご意志だからだ！」"
+ fp3_yearly.8000.desc: "「この[raging_ghazi.GetWomanMan]は厳しく罰せられなければならない」と私の正義感に燃える[righteous_marshal.GetCouncilTitle]である[righteous_marshal.GetFirstName]は告げる。「そうでなくては[murder_barony.GetNameNoTierNoTooltip]の良き民達が哀れだろう」と。\n\n「違う！違う！違う！」[raging_ghazi.GetFirstNameNoTooltip]は地下牢に鎖で繋がれながら叫んでいる。「私は辺境に向かわねばならない！そしてあなたはそれを認めねばならない！それは[ROOT.Char.GetFaith.HighGodNameAlternatePossessive]のご意志だからだ！」"
  fp3_yearly.8000.a: "私も聖なる道を歩いてきたからな、今度は安らかに行くがいい。"
  fp3_yearly.8000.b: "新しい独房の開拓がお前にはお似合いだよ。"
  fp3_yearly.8000.c: "お前のようなやつでも私なら使ってやれるさ…"

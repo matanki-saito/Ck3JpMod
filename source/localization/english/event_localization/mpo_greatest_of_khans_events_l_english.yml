@@ -19,7 +19,7 @@
  every_new_vassal_becomes_obedient_tt: "獲得したすべての[vassal|E]が、少なくとも#high 10年間#![obedient|E]になる"
  msg_great_war_of_defiance_war_invalidated_message: "[war.GetName]は無意味となった：[defender.GetShortUIName]は[GetTrait('greatest_of_khans').GetName( GetNullCharacter )]にはなれない"
  war_declared_opening_mpo_gok: "[ROOT.War.GetActiveCB.GetDefender.GetTitledFirstNameNoTooltip]、泡を吹く犬め、\n\n"
- war_declared_flavor_mpo_gok: "大地のすべての肉は、お前の飢えた顎のためにあるのではない。世界は決してお前のものにはならぬ。\n\n我らは皆、お前に力を与えず、地に引きずり下ろすと誓った！　かつてお前は決して背を見せず、馬の尻尾を向けることもなかった。さればこれより我らは存分に戦おうぞ。"
+ war_declared_flavor_mpo_gok: "大地全ての肉がその餓えた顎のためにあるのではなく、故に世界を手中に収めることも無いと知れ。\n\n我ら一丸となりて、あなたに背き、そして打破しよう！そなたが敗北を忘れ、馬の尾を見せて逃げることもせぬと言うなら…戦場にて死合うのみよ。"
  mpo_greatest_of_khans.0101.t: "天地を懸けた戦"
  mpo_greatest_of_khans.0101.desc_intro: "数多の部族が我に刃を向け、戦へと駆り立てられている――"
  mpo_greatest_of_khans.0101.desc_gok_opponent: "それは[primary_coalition_defender.GetName]であり、[gok_opponent.GetPrimaryTitle.GetNameNoTier]の軍もまたその列に加わった――[gok_opponent.GetTitledFirstName]は大ステップが分裂することを切望しているのだ！"

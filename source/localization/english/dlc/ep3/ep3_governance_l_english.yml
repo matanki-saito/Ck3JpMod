@@ -125,7 +125,7 @@
  inept_mayor_desc: "この要職の役人は無能であることが証明された。地元の貴族及び民衆は勿論、あなたの近臣でさえも不満を募らせている。"
  inept_mayor_desc_title: "$task_contract_governance_desc_title$"
  governor_contract_event.2010.t: "$inept_mayor$"
- governor_contract_event.2010.desc: "私は[mayor_destination.GetName]から送られてきた数々の苦情書に目を通し、「あの[inept_mayor.Custom('InsultNoun')][inept_mayor.GetFirstName]」に対する非難の数々を確認する。\n「[inept_mayor.Custom('InsultAdjective')]犯罪行為」により、[inept_mayor.GetSheHe]が[inept_mayor.GetPrimaryTitle.GetTierAsNameNoTooltip|l]の資金を吸い尽くしたとのことだ。\n\n実際、街の会計には何か#EMP 深刻な問題#!があるようだ。富が帳簿から不可解に消え、公務員の数が日々変わり、土地所有の文書には矛盾が散見される。"
+ governor_contract_event.2010.desc: "私は[mayor_destination.GetName]から送られてきた数々の苦情書に目を通し、「あの[inept_mayor.Custom('InsultNoun')][inept_mayor.GetFirstName]」に対する非難の数々を確認する。\n「[inept_mayor.Custom('InsultAdjective')]犯罪行為」により、[inept_mayor.GetSheHe]が[inept_mayor.GetPrimaryTitle.GetTierAsNameNoTooltip|l]の資金を吸い尽くしたとのことだ。\n\n実際、街の会計には何か#EMP 深刻な問題#!があるようだ。富が帳簿から不可解に消え、吏員の数が日々変わり、土地所有の文書には矛盾が散見される。"
  governor_contract_event.2010.a: "[mayor_destination.GetNameNoTooltip]へガサ入れと行くか。"
  governor_contract_event.2011.desc_intro: "[mayor_destination.GetName]に到着すると、私は急いで現地の市長である[inept_mayor.GetFirstName]の執務室に入った。驚いた様子のその官僚は、急いで召使いたちを追い払う。帳簿が彼らの腕にしっかり抱えられている。\n\n「あなたの行政の会計を監査しに来たのだ」と、私は厳しい顔つきで告げた。"
  governor_contract_event.2011.desc_fear: "\n\n「それは、その、穀物の委託品の件ですか？」と市長は口ごもりながら言う。「絹の輸入ですか？ええ、私の取引相手は少々型破りな者たちですが、彼らは罪を赦されています！まあ……#EMP ほとんどは#!。すべての指示を取り消しますよ、[ROOT.Char.GetTitleAsName]、ご安心あれ！」"
