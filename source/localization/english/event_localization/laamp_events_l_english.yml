@@ -951,7 +951,7 @@
  ep3_laamp_flavour_ewan.2061.c: "規則がある意味を知らないのか、[thief.GetFirstNameNoTooltip]よ。"
  ep3_laamp_flavour_ewan.2061.d: "自分たちで解決してくれ。"
  ep3_laamp_flavour_ewan.2071.t: "相応しい副官"
- ep3_laamp_flavour_ewan.2071.desc.sic_exists: "[current_sic.GetFirstName]が最良の副官とは言い難いことは野営地の中で公然としたことと、なっていた。"
+ ep3_laamp_flavour_ewan.2071.desc.sic_exists: "[current_sic.GetFirstName]が最良の副官とは言い難いことは野営地の中で公然の秘密となっていた。"
  ep3_laamp_flavour_ewan.2071.desc.sic_vacant: "しばらくの間、副官の座は空席のままだった。"
  ep3_laamp_flavour_ewan.2071.desc.outro: "この状況に対する不満がついに爆発し、三人の候補者が副官の役を申し出てきた。\n\n[candidate_1.GetFirstName]は、[candidate_1.GetHerHis]が息絶えるまで私に忠誠を誓うと申し出た。\n\n[candidate_2.GetFirstName]は、私のために自らを酷使する覚悟があるかのように見える。\n\nそして、言うまでもなく[candidate_3.GetFirstName]…間違いなくキャンプ内で最もこの役にふさわしい人物だ。"
  ep3_laamp_flavour_ewan.2071.a: "[candidate_1.GetFirstNamePossessiveNoTooltip]の忠義に応えよう。"
