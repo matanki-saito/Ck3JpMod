@@ -13,7 +13,7 @@
  court_position_management_event.0001.c.tt: "[GetDecision('recruit_court_position_decision').GetName]の[decision|E]を開く"
  court_position_management_event.0001.d: "自分で何とかするしかないか……。"
  court_position_management_event.0001.d.tt: "新たな[court_position_type.GetName]を任命する画面を開く"
- court_position_management_event.0001.e: "今のところは空位のままでもよい。"
+ court_position_management_event.0001.e: "今のところは空席のままでもよい。"
  court_position_management_event.0002.t: "空位：[court_position_type.GetNameNoTooltip()]"
  court_position_management_event.0002.desc: "[employee.GetFullName]はもはや[court_position_type.GetName()]ではない。"
  court_position_management_event.0002.desc.dead: "$court_position_management_event.0001.desc.dead$"
