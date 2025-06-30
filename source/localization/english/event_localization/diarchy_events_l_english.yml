@@ -151,7 +151,7 @@
  diarchy.1241.desc:1 "私の[liege.GetDiarchTitle]としての義務の一つは、[liege.GetTitledFirstName]が私に課した任務を遂行することであり、現在のところ、それには冷徹な現金が必要である。\n\n私は王家の新しい収入源について頭を悩ませてきたが、正統ではないものの、一つの明白な解決策に辿りついた。[diarch.Custom('GetFaithTaxExemptInstitution')]である。\n\n伝統的にほとんどの税金が免除されている[diarch.Custom('GetFaithTaxExemptInstitution')]に対する特別な課税は、おそらく儲かるだろう。ただ…明らかに信心深いとは言えない。"
  diarchy.1241.a:0 "[diarch.Custom('GetFaithTaxExemptInstitution')|U]？彼らはあまりにも長い間、自分たちの思い通りにしてきた！"
  diarchy.1241.a.t:0 "$diarchies.0000.diarch_fulfills_mandate.t$"
- diarchy.1241.b:0 "必要な費用のための特別税などうまくいかないのでは？"
+ diarchy.1241.b:0 "必要経費のための特別税に何の問題があるというのだ？"
  diarchy.1241.b.tt.success:0 "不平を言いながらも、彼らは十分の一税を納める"
  diarchy.1241.b.tt.failure:0 "あなたの名前は呪われ、あなたの財布は空っぽだ"
  diarchy.1241.b.t:0 "$diarchies.0000.diarch_fails_at_mandate.t$"

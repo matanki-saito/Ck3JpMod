@@ -1057,7 +1057,7 @@
  isolate_capital_decision_modifier_desc: "この伯爵領は疫病から守るために封鎖されている。"
  unisolate_capital_decision: "首都の封鎖の終了"
  unisolate_capital_decision_tooltip: "あなたの[capital|E]の封鎖を終了し、[epidemic_resistance|E]を下げる"
- unisolate_capital_decision_desc: "伝染病の流行が収まったかどうかは別として、隔離の影響はあまりにも大きく、再び門をアンロックしなればならない。"
+ unisolate_capital_decision_desc: "伝染病の流行が収まったかどうかは別として、隔離の影響はあまりにも大きく、再び門を開放しなればならない。"
  unisolate_capital_decision_confirm: "$unisolate_capital_decision$"
  unisolate_capital_decision_tt: "あなたの首都は封鎖されている必要があります"
  CHOOSE_REFORMATION_TYPE: "改革を選択する"
