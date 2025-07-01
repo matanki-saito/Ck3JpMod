@@ -97,7 +97,7 @@
  HOUSE_VIEW_POWER_BONUS: "[SelectLocalization( HousePowerBonus.IsValid, HousePowerBonus.GetName )]"
  HOUSE_VIEW_BONUS_LIEGE: "#bold [liege|E]：#!"
  HOUSE_VIEW_BONUS_MEMBER: "#bold [house|E]の一員：#!"
- HOUSE_VIEW_DOMICILE_HEADER: "[DOMICILE_TYPE.GetNameNoTooltip]の家"
+ HOUSE_VIEW_DOMICILE_HEADER: "家の[DOMICILE_TYPE.GetNameNoTooltip]"
  HOUSE_VIEW_DOMICILE_LOCATION: "場所：[CHARACTER.GetDomicile.GetLocation.GetBaronyNameExplicitly]"
  INFLUENCE_ALLIED_TO_TOP_LIEGE: "[top_liege|E]との[allied|E]"
  INFLUENCE_ALLIED_TO_HOUSE_HEAD: "[house_head|E]との[allied|E]：[CHARACTER.GetTitledFirstName]"
