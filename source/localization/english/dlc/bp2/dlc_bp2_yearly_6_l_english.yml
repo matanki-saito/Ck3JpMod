@@ -115,7 +115,7 @@
  bp2_yearly.6030.b.failure: "[snitch.GetFirstNameNoTooltip]はなんの[secrets|E]も教えてくれない"
  bp2_yearly.6030.b.rewarded: "#high [snitch.GetFirstName]#!はよりあなたの[schemes|E]に参加しやすくなるでしょう"
  bp2_yearly.6030.refuse_reward: "#high [snitch.GetFirstName]#!は非協力的で動かない"
- bp2_yearly.6030.c: "名誉無き人質に配慮することなどない。"
+ bp2_yearly.6030.c: "人質が価値を持つのは我が名誉ゆえのことだ。"
  bp2_yearly.6030.c.tt: "協定とは厳格なものだ。"
  bp2_yearly.6030.c.honor: "[rulers|E]は[hostages|E]をあなたに要求する可能性が高い"
  bp2_yearly.6030.c.hostage_secrets: "@alert_icon!#alert_trial [secrets|E]を[hostages|E]から聞き出すと[tyranny|E]を得るでしょう#!"
