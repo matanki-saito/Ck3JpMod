@@ -9,7 +9,7 @@
  combat_move_taunt_modifier_desc:0 "この人物の血は怒りで沸騰している。"
  combat_move_feint_and_stab_modifier:0 "忍ばせたナイフ"
  combat_move_feint_and_stab_modifier_desc:0 "この人物には#EMP 常に#!鋭利な短剣を近くに置いておく習慣がある。"
- combat_move_stoic_veteran_modifier:0 "ベテランの運動"
+ combat_move_stoic_veteran_modifier:0 "古参兵の運動"
  combat_move_stoic_veteran_modifier_desc:0 "この人物は最近、昔のように手足を伸ばしている。"
  duel_edge_buff_01_modifier:0 "決闘優位ランク1"
  duel_edge_buff_01_modifier_desc:0 "この人物は現在の[single_combat_fight|E]において、一定量の[single_combat_prowess_bonus|E]を獲得している。"

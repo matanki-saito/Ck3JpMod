@@ -138,7 +138,7 @@
  child_personality.7071.deceitful:0 "まさに[other_child.GetFirstNameNoTooltip]に相応しい！"
  child_personality.7071.calm:0 "ただ[other_child.GetFirstNameNoTooltip]を無視すれば、[other_child.GetSheHe]は飽きてしまうだろう。"
  child_personality.7071.change.vengeful:0 "我慢するんじゃない！#EMP 復讐するんだ！#!"
- child_personality.7071.change.deceitful:0 "復讐は最高のごちそうだ…#EMP 間接的#!な。"
+ child_personality.7071.change.deceitful:0 "復讐するは我にあり、と#EMP 余人#!に思わせるのがミソでね。"
  child_personality.7071.change.calm:0 "もう一方の頬を差し出すのだ、[child.Custom('GirlBoy')]よ。"
  child_personality.7080.t:0 "施しを学ぶ"
  child_personality.7080.desc_1:0 "「貧しく虐げられた人々をご覧なさい、[child.GetFirstNameNoTooltip]。その中には、本当に困っている人々もいれば、施しを求めているだけのペテン師もいます。」"

@@ -1059,7 +1059,7 @@
  the_wake_5_desc: "薄明の中、暗い影が大地を忍び歩く。常に目を光らせ、常に警戒を怠らない。血塗られたヘレワード、恐れられしヘレワード。油断なきヘレワード。その名を轟かせる者。"
  norman_opinion: "ノルマン人からの評価"
  TRAIT_FLAG_DESC_can_raid: "[raiding|E]が可能になる"
- trait_immortal: "不死"
+ trait_immortal: "不老"
  trait_immortal_desc: "この人物は常人を超越しており、加齢や老衰、時の流れに苦しめられることはない。"
  trait_immortal_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]は常人を超越しており、加齢や老衰、時の流れに苦しめられることはない。"
  trait_lifestyle_wayfarer: "行脚者"
