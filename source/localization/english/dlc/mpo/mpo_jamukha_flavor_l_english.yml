@@ -28,7 +28,7 @@
  jamukha_temujin_rivals_tt: "[temujin.GetShortUIName]は[rival|E]になる"
  jamukha_gain_from_defectors_tt: "#weak @herd_icon![herd|E]および@prestige_icon![prestige|E]の増加は、モンゴルが戦への集結を始めたことによるものです"
  temujin_gain_from_defectors_tt: "$jamukha_gain_from_defectors_tt$"
- mpo_jamukha_flavor.0020.a: "#EMP 「この畜生が！俺は、兄弟のように……思っていた……！」#!"
+ mpo_jamukha_flavor.0020.a: "#EMP 「この畜生が！俺は、兄弟のように…思っていた…！」#!"
  mpo_jamukha_flavor.0020.b: "「醜い死に様が待っているぞ、[temujin.GetFirstNameNoTooltip]ッ…」"
  mpo_jamukha_flavor.0020.c: "「戦場で会おう、#EMP その運命、簒奪してくれる#!！」"
  mpo_jamukha_flavor.0020.b_murder: "あなたは[temujin.GetShortUIName]を標的にした[GetScheme('murder').GetTypeName][schemes|E]を開始します。#P #EMP 大きな#!#!ボーナスを得ます"
