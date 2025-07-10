@@ -22,7 +22,7 @@
  court.5021.b:0 "[courtier.GetFirstNameNoTooltip]も同様に消えるだろう。"
  court.5021.c:0 "「あなたの運命は[ROOT.Char.Custom('CatStoryNamePossessive')]と同じだ。」"
  court.5025.t:0 "取引の提案"
- court.5025.desc:0 "「輝くような[ROOT.Char.Custom('CatFurColor')]毛並みと[ROOT.Char.Custom('CatEyeColor')]の瞳…こんな美しい猫は見たことがありません！」\n\n[buyer.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[ROOT.Char.Custom('CatStoryName')]を優しく撫でると、私の方を振り向く。「[ROOT.Var('price_for_pet').GetValue|0]ゴールドあれば十分ですかな？」"
+ court.5025.desc:0 "「輝くような[ROOT.Char.Custom('CatFurColor')]毛並みと[ROOT.Char.Custom('CatEyeColor')]瞳…こんな美しい猫は見たことがありません！」\n\n[buyer.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[ROOT.Char.Custom('CatStoryName')]を優しく撫でると、私の方を振り向く。「[ROOT.Var('price_for_pet').GetValue|0]ゴールドあれば十分ですかな？」"
  court.5025.a:0 "[ROOT.Char.Custom('CatStorySheHe')|U]はお前のものだ！"
  court.5025.b:0 "よくもそんなことを、[ROOT.Char.Custom('CatStoryName')]は絶対に売らないぞ！"
  court.5026.desc:1 "「こんなにも輝いている[ROOT.Char.Custom('DogFurColor')]毛並み、それによく訓練されていますね！こんな立派な犬は見たことがありません！」\n\n[buyer.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は[ROOT.Char.Custom('DogStoryName')]を優しく撫でると振り向いた。「[ROOT.Var('price_for_pet').GetValue|0]ゴールドあれば十分ですかな？」"

@@ -189,7 +189,7 @@
  hunt.4018.a.tt:1 "#EMP この周囲にいるはずだ！どこかに…#!"
  hunt.4018.a.failure:0 "[activity.Custom('GetLegendaryColor')][activity.Custom('GetAnimalType')]は逃げる"
  hunt.4018.b:1 "忘れよう。行ってしまった…"
- hunt.4019.desc:2 "\n\n「そこです！[activity.Custom('GetAnimalType')]が見えますか？あなたが探していたやつでは？」\n\n我々の前にあるのは、[activity.Custom('GetLegendaryColor')]の毛など一房もない、ごく普通の[activity.Custom('GetAnimalType')]だ。"
+ hunt.4019.desc:2 "\n\n「そこです！[activity.Custom('GetAnimalType')]が見えますか？あなたが探していたやつでは？」\n\n我々の前にあるのは、[activity.Custom('GetLegendaryColor')]毛など一房もない、ごく普通の[activity.Custom('GetAnimalType')]だ。"
  hunt.4019.a:1 "…そうだな、よく見つけたな。"
  hunt.4019.a.tt:1 "それで良いでしょう…#EMP 今のところは#!。"
  hunt.7001.t:3 "沼地の遭遇"

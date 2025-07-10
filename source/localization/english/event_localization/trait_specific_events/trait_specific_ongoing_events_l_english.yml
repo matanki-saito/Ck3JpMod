@@ -9,7 +9,7 @@
  trait_specific_ongoing.1003.b:0 "私は…私は彼らを売るべきなのかな？"
  trait_specific_ongoing.1004.t:0 "かわいい小さな子"
  trait_specific_ongoing.1004.desc:0 "私の命令により、[court_location.GetNameNoTier]の[court_location.Custom('BaronyTownType')]に入って来た動物は全て私に持ち込まれることになっている。\n\n"
- trait_specific_ongoing.1004.desc_cat:0 "使用人が小さな籠に入った新しい獲物を持ってきてくれた。子猫の[ROOT.Char.Custom('RandomCatEyeColor')]の目が縁を見下ろし、中からにゃあ、と小さな声が聞こえる。"
+ trait_specific_ongoing.1004.desc_cat:0 "使用人が小さな籠に入った新しい獲物を持ってきてくれた。子猫の[ROOT.Char.Custom('RandomCatEyeColor')]目が縁を見下ろし、中からにゃあ、と小さな声が聞こえる。"
  trait_specific_ongoing.1004.desc_dog:0 "使用人が小さな籠に入った新しい獲物を持ってきてくれた。中を覗いてみると、私を見て吠え、尻尾を振り始める子犬がいた！"
  trait_specific_ongoing.1004.a:0 "今からこの猫は私のものだ！"
  trait_specific_ongoing.1004.b:0 "今からこの犬は私のものだ！"

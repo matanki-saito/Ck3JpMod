@@ -3,7 +3,7 @@
  pet_animal.0001.desc:1 "満足したように喉を鳴らしながら私の膝の上で休んでいる猫、私は[ROOT.Char.Custom('CatStoryHerHim')]にどんな名前を付けるべきか考えを巡らしている。歴史にちなんだ名前？[ROOT.Char.Custom('CatStoryHerHis')]の[ROOT.Char.Custom('CatFurColor')]毛にちなんだ名前？[ROOT.Char.Custom('CatStoryHerHim')]の耳の後ろを掻いた時に感じる、癒された感覚にちなんだ名前？\n\nあぁ、そうだ！[ROOT.Char.Custom('CatStoryHerHim')]の名前は…"
  pet_animal.0001.a:1 "なんて良い名前だ！"
  pet_animal.0101.t:0 "[ROOT.Char.Custom('CatStoryName')]：贈り主"
- pet_animal.0101.desc:0 "私が通りかかると、[ROOT.Char.Custom('CatEyeColor')]のふたつの目が追いかけてきた。小さなニャアという鳴き声が沈黙を破り、[ROOT.Char.Custom('CatStoryName')]が私の足首に飛びかかってきた。"
+ pet_animal.0101.desc:0 "私が通りかかると、[ROOT.Char.Custom('CatEyeColor')]ふたつの目が追いかけてきた。小さなニャアという鳴き声が沈黙を破り、[ROOT.Char.Custom('CatStoryName')]が私の足首に飛びかかってきた。"
  pet_animal.0101.desc_old:0 "この猫もさすがに老境に差し掛かってはいるが、なお元気な姿を見せてくれている！"
  pet_animal.0101.desc_young:0 "[ROOT.Char.Custom('CatStorySheHe')|U]は幼いのに獰猛だ！"
  pet_animal.0101.desc_middle:0 "猫としては全盛期だろうが、[ROOT.Char.Custom('CatStorySheHe')]は私に何の印象も残さない。"

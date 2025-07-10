@@ -112,7 +112,7 @@
  court_ongoing.1031.start.desc:0 "「我が[ROOT.Char.Custom('LoverPetName')]よ、じっくりと考えました。」[owner.GetTitledFirstName]は、かごを机の上に優しく置きながら言った。「あなたのように高貴で情熱的で社交的な存在にとって完璧な伴侶とは何か？私はひらめきました——犬ほどあなたにぴったりな伴侶はいないでしょう！」\n\n[owner.GetFirstNameNoTooltip|U]はかごを覆っていた毛布を外し、小さな子犬を見せてくれた。子犬は私に向かって飛びついてきて、興奮してかごの縁を飛び越えてしまった。"
  court_ongoing.1031.a:0 "おぉ！あなたと同じくらい大事にするよ！"
  court_ongoing.1031.b:0 "これは…予想外だな。"
- court_ongoing.1032.desc:0 "「我が[ROOT.Char.Custom('LoverPetName')]よ、じっくりと考えました。」[owner.GetTitledFirstName]はかごを優しく机に置きながら言った。「あなたのように明晰で独立した存在にとって、完璧な伴侶とは何か？私はひらめきました——猫ほどあなたにぴったりな伴侶はいないでしょう！」\n\n[owner.GetFirstNameNoTooltip|U]はかごを覆っていた毛布を外し、小さな子猫を見せてくれた。子猫は大きな[ROOT.Char.Custom('RandomCatEyeColor')]の目で私を見上げ、鳴き始めた。"
+ court_ongoing.1032.desc:0 "「我が[ROOT.Char.Custom('LoverPetName')]よ、じっくりと考えました。」[owner.GetTitledFirstName]はかごを優しく机に置きながら言った。「あなたのように明晰で独立した存在にとって、完璧な伴侶とは何か？私はひらめきました——猫ほどあなたにぴったりな伴侶はいないでしょう！」\n\n[owner.GetFirstNameNoTooltip|U]はかごを覆っていた毛布を外し、小さな子猫を見せてくれた。子猫は大きな[ROOT.Char.Custom('RandomCatEyeColor')]目で私を見上げ、鳴き始めた。"
  court_ongoing.1040.t:1 "$court_event_title$ 煌めく金"
  court_ongoing.1040.end.desc:0 "[target.GetFirstNameNoTooltip]が私をじっと見つめる。「[necklace_owner.GetLadyLord|U][necklace_owner.GetFirstNamePossessiveNoTooltip]のネックレスは素敵ですね 」[target.GetSheHe]はそう言うと、[necklace_owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]の方向に[target.GetHerHis]の首を傾ける。「でも、私の首にはもっと似合うことでしょう。」"
  court_ongoing.1040.a:0 "同じネックレスを注文する。"
