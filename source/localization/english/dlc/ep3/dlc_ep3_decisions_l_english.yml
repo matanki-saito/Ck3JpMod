@@ -736,7 +736,7 @@
  start_city_construction_decision_tooltip: "地を切り拓く！"
  start_city_construction_decision_confirm: "円匙を持て！"
  start_city_construction_decision_empty_holding: "所領がない[barony|E]に駐在している必要がある"
- start_city_construction_decision_more_rewards: "追加の任意要件を満たすことで、都市の設立時に追加の選択肢が得られ、ユニークな[buildings|E]の建設が可能となる。\n\n#weak この都市の建設後、さらに多くの都市を建設できる。  \n建設が完了すると、その都市を強制的に自らのものにする機会が得られる。\n\nそうでない場合、都市は毎年配当を支払う。配当額は、この[barony|E]内の[building|E]の合計レベルと、その郡の[development|E]に応じて決まり、[gold_i]25から[gold_i]200の範囲となる。この額は、建設完了後から毎年ゆっくりと減少する。#!"
+ start_city_construction_decision_more_rewards: "追加の任意要件を満たすことで、都市の設立時に追加の選択肢が得られ、ユニークな[buildings|E]の建設が可能となる。\n\n#weak この都市の建設後、さらに多くの都市を建設できる。  \n建設が完了すると、その都市を強制的に自らのものにする機会が得られる。\n\nそうでない場合、都市は毎年配当を支払う。配当額は、この[barony|E]内の[building|E]の合計レベルと、その伯爵領の[development|E]に応じて決まり、[gold_i]25から[gold_i]200の範囲となる。この額は、建設完了後から毎年ゆっくりと減少する。#!"
  ep3_laamp_decision_event.1130.t: "[city_location.GetNameNoTooltip]市：始まり"
  ep3_laamp_decision_event.1130.desc: "私の足元の大地は、まだ人の手が触れていない。\n\nだが、すでに目に浮かぶ――市庁舎が建つ場所、商人たちが品物の重さを測り、衛兵の監視のもとで税を支払う場所が。塔の鐘が鳴り響く音さえ聞こえる。  \n\n物資は揃い、従者たちは落ち着かない様子だ。あとは、私の一声を待つのみ。"
  ep3_laamp_decision_event.1130.a: "さあ、始めようか！"

@@ -71,7 +71,7 @@
  hamlet_bandit_remains_modifier:0 "盗賊行為の横行"
  hamlet_bandit_remains_modifier_desc:0 "この伯爵領は野放しになった盗賊の脱走兵の略奪に苦しめられている。"
  optimized_weighting_sucess:0 "最適化された市場の計量"
- optimized_weighting_sucess_desc:0 "この郡では商人がほとんど気づかずに少し多くの税を払っている。"
+ optimized_weighting_sucess_desc:0 "この伯爵領では商人がほとんど気づかずに少し多くの税を払っている。"
  optimized_weighting_failure:0 "不正な計量制度の発覚"
  optimized_weighting_failure_desc:0 "不公平な計量制度のため、この伯爵領は商人たちに敬遠されている。"
  new_weighting_system:0 "新しい計量制度"

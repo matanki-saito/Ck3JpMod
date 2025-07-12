@@ -33,7 +33,7 @@
  tax_rivalry.1002.a: "こ、今後はこのようなことは無いようにします。"
  tax_rivalry.3001.t: "$tax_rivalry.t$：暴徒"
  tax_rivalry.3001.desc_intro: "[sabotaged_rival.GetTitledFirstNameNoTooltip]への不満に頭を悩ませているうちに、狡い計画が思い浮かんだ。ほんの少しの賄賂で、[sabotaged_county.GetNameNoTierNoTooltip]の農民たちに、[sabotaged_rival.GetTitledFirstNameNoTooltip]が彼らの税金を五倍にするつもりだと唆し、我々の主君である[liege.GetTitledFirstName]に対する反乱を扇動することができるはずだ。"
- tax_rivalry.3001.desc_outro_assigned: "そうなれば、郡を不当に管理したその[sabotaged_rival.Custom('InsultNoun')]に非難が集中するだろうな。"
+ tax_rivalry.3001.desc_outro_assigned: "そうなれば、伯爵領を不当に管理したその[sabotaged_rival.Custom('InsultNoun')]に非難が集中するだろうな。"
  tax_rivalry.3001.desc_outro_fallback: "まあ、[sabotaged_rival.GetTitledFirstNameNoTooltip]がその伯爵領の管理人じゃないことはどうとでも誤魔化せるだろう…。"
  tax_rivalry.3001.a: "使者を送れ。"
  tax_rivalry.3001.a.tt: "[sabotaged_county.GetNameNoTierNoTooltip]であなたの主君に対しての[peasant_faction|E]が勃発します"

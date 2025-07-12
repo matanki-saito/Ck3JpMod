@@ -136,7 +136,7 @@
  governor_contract_event.2011.c: "首都から専門家を呼んでいる。"
  governor_contract_event.2011.d: "全ての損失はお前が負担しろ！"
  ep3_mismanaged_administration_modifier: "政府の不行き届き"
- ep3_mismanaged_administration_modifier_desc: "この郡の主要な拠点の一つがあまりに深刻に管理不行き届きの状態にあり、そのため地域全体が苦境に立たされている。"
+ ep3_mismanaged_administration_modifier_desc: "この伯爵領の主要な拠点の一つがあまりに深刻に管理不行き届きの状態にあり、そのため地域全体が苦境に立たされている。"
  prov_investment: "地方への投資"
  prov_investment_contract: "$prov_investment$"
  prov_investment_desc: "総督職として治める領国首都に投資の機会が訪れた。"

@@ -12,7 +12,7 @@
  hold_court.7010.c: "「こんな結婚は道理に反していよう」"
  every_county_10_dev_below_capital: "あなたの[capital|E]より少なくとも10[development|E]レベル下のすべての[county|E]"
  hc_7000_dev_boost: "盛んな開発"
- hc_7000_dev_boost_desc: "最近、資源はこの郡の成長を助けるために転用されている。"
+ hc_7000_dev_boost_desc: "最近、資源はこの伯爵領の成長を助けるために転用されている。"
  hc_7000_dev_reduction: "開発の妨げ"
  hc_7000_dev_reduction_desc: "この伯爵領の資源は遠くの地域に流用され、ここでの生活の質を損なっている。"
  hc_7010_holy_war: "聖戦の準備"
