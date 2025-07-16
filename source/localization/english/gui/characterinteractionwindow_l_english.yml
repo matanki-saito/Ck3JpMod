@@ -2,7 +2,7 @@
  GOTO_CHARACTER:0 "#T [Character.GetShortUINamePossessiveNoTooltip]の場所へ移動#!\n[Character.GetLocationDesc]"
  CHARACTER_INTERACTION_ITEM_TOOLTIP_HEADER:0 "$NAME|T$"
  SHOW_MORE_INTERACTIONS_TT:0 "#T 他の[CharacterInteractionCategory.GetDescription]を表示#!"
- PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'ピンを外す', 'ピン' )]\n#!画面右側のアウトライナーに[Character.GetHerHim]を固定し、このキャラクターを追跡できるようにします"
+ PIN_TT:1 "#T [Select_CString( Character.IsPinned, 'ピンを外す', 'ピン' )]\n#!画面右側のアウトライナーに[Character.GetHerHim]を固定し、この人物の経過を追うことができます"
  interaction_category_diplomacy:0 "外交"
  interaction_category_friendly:0 "個人的"
  interaction_category_hostile: "敵対的"

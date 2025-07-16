@@ -920,7 +920,7 @@
  trait_pilgrim_3:0 "見聞深き巡礼者"
  trait_pilgrim_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は巡礼のため広く世界を旅しており、巡礼旅行団の専門家として知られている。"
  trait_pilgrim_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は、聖なる世界では真の[ROOT.GetCharacter.GetWomanMan]としてよく知られている。精神的な問題や航法の問題の双方について、他の巡礼者たちはしばしば[ROOT.GetCharacter.GetFirstNameNoTooltip]に教えを求める。"
- trait_hajjaj_neutral_desc:0 "このキャラクターはハッジを完遂し、アッラーの家であるところのメッカへの巡礼を果たした。"
+ trait_hajjaj_neutral_desc:0 "この人物はハッジを完遂し、アッラーの家であるところのメッカへの巡礼を果たした。"
  trait_tourney_participant:2 "競技者"
  trait_tourney_participant_desc:1 "この人物は大会に参加しては、戦争や対人戦の技術を鍛え上げている。"
  trait_tourney_participant_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は大会に参加しては、戦争や対人戦の技術を鍛え上げている。"

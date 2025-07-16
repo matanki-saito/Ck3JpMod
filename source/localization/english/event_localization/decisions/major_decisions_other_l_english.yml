@@ -1,5 +1,5 @@
 ﻿l_english:
- major_decisions.0100.t:0 "聖なる血統"
+ major_decisions.0100.t:0 "聖なる系譜"
  major_decisions.0100.desc.temporal:0 "純粋な献身と絶え間ない努力によって、私は[scoped_ruler.GetFaith.GetAdjective]の教えの最も神聖な職務を、[scoped_ruler.GetDynasty.GetBaseName]王朝に結びつけることができた。\n\n我が一族こそが聖遺物の選ばれし管理人にして神の意志の先駆者である、と考える聖職者や信徒たちはどんどん増えている。"
  major_decisions.0100.desc.spiritual:0 "地上における[scoped_ruler.GetFaith.HighGodNamePossessive]の代理人への私の揺るぎない献身が見過ごされることはなかった。\n\n[scoped_pope.GetTitledFirstName]は我が一族の寄与を公式にお認めになり、永遠なる[scoped_ruler.GetFaith.GetAdjective]信仰の擁護者として、我らの名を聖別してくださった。"
  major_decisions.0100.a:0 "我らは所詮死ぬ定めにある人間に過ぎない。"

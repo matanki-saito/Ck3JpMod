@@ -48,7 +48,7 @@
  ep3_laamps_provisions.1070.a8: "あなたの身体は永久に蝕まれる"
  ep3_laamps_provisions.1070.tt: "極限の飢餓"
  weak_stomach_modifier: "内臓の弱体"
- weak_stomach_modifier_desc: "しばらくの間、ほとんど食べ物を口にせず生き延びたため、このキャラクターの胃はもはや豪華な料理や大量の食事に耐えられなくなり、すぐに体調を崩してしまう。"
+ weak_stomach_modifier_desc: "しばらくの間、ほとんど食べ物を口にせず生き延びたため、この人物の胃はもはや豪華な料理や大量の食事に耐えられなくなり、すぐに体調を崩してしまう。"
  hunger_sickness_modifier: "飢餓という病"
  hunger_sickness_modifier_desc: "飢餓で死にかけて以来、この人物は以前の姿とはほど遠くなってしまった。肌は潰瘍に覆われ、身体も精神も衰弱している。"
  every_follower_custom: "全ての[follower|E]"

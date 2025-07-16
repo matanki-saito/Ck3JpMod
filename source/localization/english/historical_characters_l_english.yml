@@ -1,5 +1,5 @@
 ﻿l_english:
- HISTORICAL_CHARACTER_TOOLTIP: "#T 史実の人物#!\n\n#high [Character.Custom('HistoricalCharacterDesc')]#!\n\n#weak このキャラクターは史実に名を遺した人物です。出生地の[culture|E]と[faith|E]によって、史実の経歴と違う場合があります。史実で活躍した時期を中心に、1～5年のあいだで登場します。#!"
+ HISTORICAL_CHARACTER_TOOLTIP: "#T 史実の人物#!\n\n#high [Character.Custom('HistoricalCharacterDesc')]#!\n\n#weak この人物は史実に名を遺しました。出生地の[culture|E]と[faith|E]によって、史実の経歴と違う場合があります。史実で活躍した時期を中心に、1～5年のあいだで登場します。#!"
  danger_dynasty_abandon_tt: "#X @warning_icon!今の[dynasty|E]を捨てることになる。やり直しはできない！#!"
  will_wander_tt: "[historical_character.GetFullName]は[wanderer|E]になる"
  historical_char_creation_events.t: "歴史のこだま：[historical_character.GetFullNameNicknamedNoTooltip]"

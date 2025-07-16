@@ -609,6 +609,6 @@
  kurultai_task_decrease_county_opinion_modifier: "搾取された民"
  kurultai_task_decrease_county_opinion_modifier_desc: "この地域の人々は、自らの主君に搾取され、主君に対する信頼を失っている。"
  kurultai_task_increase_culture_opinion_modifier: "文化的な絆"
- kurultai_task_increase_culture_opinion_modifier_desc: "異国の者たちはこのキャラクターの宮廷で歓迎されていると感じている。"
+ kurultai_task_increase_culture_opinion_modifier_desc: "異国の者たちはこの人物の宮廷で歓迎されていると感じている。"
  kurultai_task_decrease_culture_opinion_modifier: "壊れた絆"
- kurultai_task_decrease_culture_opinion_modifier_desc: "異国の者たちはこのキャラクターの宮廷では歓迎されていないと感じている。"
+ kurultai_task_decrease_culture_opinion_modifier_desc: "異国の者たちはこの人物の宮廷では歓迎されていないと感じている。"
