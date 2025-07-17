@@ -15,7 +15,7 @@
  yearly_saharan.0004.t:0 "$yearly_saharan.0001.t$：商業の急成長"
  yearly_saharan.0004.desc_initial:0 "$yearly_saharan.0003.desc_initial$"
  yearly_saharan.0004.desc_current:0 "$yearly_saharan.0003.desc_current$"
- yearly_saharan.0004.desc:0 "そして、彼らがこの地にもたらした交易と活気は、まさに無限とも思えるほどだ！\n\n人々は市場に群がり、黄金を積んだ荷車が北へ向かい、塩を積んだ馬車が南へとあふれ出す。往来するすべてが税を払い、王国の財を潤す！まさしく、ここは領内でも屈指の繁栄を誇る地だ！"
+ yearly_saharan.0004.desc:0 "そして、彼らがこの地にもたらした交易と活気は、まさに無限とも思えるほどだ！\n\n人々は市場に群がり、黄金を積んだ荷車が北へ向かい、塩を積んだ馬車が南へとあふれ出す。往来するすべてが税を払い、領国の財を潤す！まさしく、ここは領内でも屈指の繁栄を誇る地だ！"
  yearly_saharan.0004.a.tt:0 "あなたは[stewardship|E]を向上しようとします"
  yearly_saharan.0004.a:0 "私もこれらの商人たちから多少は学ぶことができると思う！"
  yearly_saharan.0004.a.tt.outcome_1:0 "管理が向上"

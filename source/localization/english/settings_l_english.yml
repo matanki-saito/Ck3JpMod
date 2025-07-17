@@ -86,7 +86,7 @@
  SETTING_SHOW_CONTENT_SOURCE:0 "イベントのDLCを表示する"
  SETTING_SHOW_CONTENT_SOURCE_TOOLTIP:0 "#T $SETTING_SHOW_CONTENT_SOURCE$#!\nイベントがどのDLCに由来するか表示するかを設定します"
  SETTING_USE_DYNASTY_NAMED_REALMS:0 "王朝の名を冠した領国"
- SETTING_USE_DYNASTY_NAMED_REALMS_TOOLTIP:0 "#T $SETTING_USE_DYNASTY_NAMED_REALMS$#!\n文化によっては、主要なタイトルの名前がその王朝と同じに変更されます（アッバース朝など）"
+ SETTING_USE_DYNASTY_NAMED_REALMS_TOOLTIP:0 "#T $SETTING_USE_DYNASTY_NAMED_REALMS$#!\n文化によっては、主要な称号の名前がその王朝と同じに変更されます（アッバース朝など）"
  iranian: "$e_persia_adj$"
  SETTING_TILT_CAMERA_ON_ZOOM_OUT: "ズームアウトでカメラを傾ける"
  SETTING_TILT_CAMERA_ON_ZOOM_OUT_TOOLTIP: "#T $SETTING_TILT_CAMERA_ON_ZOOM_OUT$#!\nズームアウト時にカメラをデフォルトの傾き方向に傾けるかどうかを決定します。"

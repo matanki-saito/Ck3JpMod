@@ -124,7 +124,7 @@
  diplomacy_foreign_special.1027.desc:0 "囁くように静かに、私は隠し通路を通って[foreign_guest.GetTitledFirstNamePossessive]の部屋へと忍び込む。そこに着くと、私は身をかがめ長い夜に備える。\n\nすると、どこからともなく手が私の肩を掴み、私は恐怖で体が痙攣した。「これが客人への接し方ですか、[ROOT.GetCharacter.GetTitledFirstName]？」"
  diplomacy_foreign_special.1027.a:0 "も——申し訳ない！"
  diplomacy_foreign_special.1028.t:1 "$diplomacy_foreign_special.1017.t$：花びらと棘"
- diplomacy_foreign_special.1028.desc:0 "庭園を歩いている間、[foreign_guest.GetTitledFirstName]と私は景色を見るために一旦立ち止まった。「この調和、色彩——私はこれほど美しいものをほとんど見たことがありません、[ROOT.GetCharacter.GetTitledFirstNameNoTooltip]。」[foreign_guest.GetSheHe]はそう言うと目の前の風景を手で指し示す。\n\n今度は私が何か優しいことを言いたくなる気がする。あるいは[foreign_guest.GetHerHis]の…"
+ diplomacy_foreign_special.1028.desc:0 "庭園を歩いている間、[foreign_guest.GetTitledFirstName]と私は景色を見るために一旦立ち止まった。「この調和、色彩——私はこれほど美しいものをほとんど見たことがありません、[ROOT.GetCharacter.GetTitledFirstNameNoTooltip]」[foreign_guest.GetSheHe]はそう言うと目の前の風景を手で指し示す。\n\n今度は私が何か優しいことを言いたくなる気がする。あるいは[foreign_guest.GetHerHis]の…"
  diplomacy_foreign_special.1028.compassionate:0 "暖かさと優しさについて。"
  diplomacy_foreign_special.1028.bold:0 "容赦ない勇気について。"
  diplomacy_foreign_special.1028.honorable:0 "忠誠心と名誉意識について。"

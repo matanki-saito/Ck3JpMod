@@ -86,7 +86,7 @@
  FACTION_CLAIMANT_INVITE_REFUSED:1 "[faction_claimant.Custom2('AppropriateGreeting', ROOT.Char)]"
  FACTION_CLAIMANT_INVITE_REFUSED_ALLY_DESC:0 "私の主張は弁えています。しかし、私は[faction_target.GetTitledFirstName]との同盟により、参戦する事が出来ません。ですが、私の心はあなたと共にあります。"
  FACTION_CLAIMANT_INVITE_REFUSED_HOOK_DESC:0 "私も同じ事を考えていますが…しかし、あなたに手を貸す事は出来ません。[faction_target.GetTitledFirstName]は、#emphasis 紛れもない魅力の持ち主です。#!それが私が[faction_target.GetHerHim]に対して手を差し伸べるのを躊躇う理由です。それだけです、幸運を祈ります。"
- FACTION_CLAIMANT_INVITE_REFUSED_PREDICAMENT_DESC:1 "王国が偽りの[faction_target.GetTitledFirstName]に対抗して立ち上がる。それを目の当たりに出来て嬉しいのです。今の私の立場では、この正義ある行いに身を投じる事は適いません。あなたが成功したら、借りを作ることになるでしょう…。"
+ FACTION_CLAIMANT_INVITE_REFUSED_PREDICAMENT_DESC:1 "領国が偽りの[faction_target.GetTitledFirstName]に対抗して立ち上がる。それを目の当たりに出来て嬉しいのです。今の私の立場では、この正義ある行いに身を投じる事は適いません。あなたが成功したら、借りを作ることになるでしょう…。"
  FACTION_CLAIMANT_INVITE_REFUSED_CHILD_DESC:1 "君も[faction_target.GetTitledFirstName]のことを嫌なヤツだと思ってくれるのは嬉しいよ。それに、[faction_target.GetHerHim]より僕の方が絶対良い主君になれると思うんだ！\n\n今は新しいオモチャで遊ぶのに忙しいけど…でも、もし君が勝ったらこのオモチャで一緒に遊んであげるって約束するよ！"
  FACTION_CLAIMANT_INVITE_REFUSED_INSIGNIFICANT_DESC:0 "ついに！[faction_target.GetName]は[faction_target.GetTitleAsNameNoTooltip]を演じる道化師に過ぎず、私は我が大義のために国中が決起すると確信している。\n\nいまの私の地位の低さでは、あなたを援助することはできない。しかしこれだけは知っている——あなたが勝利を得た#emphasis 時#!、私はあなたが十分に報われるのを見るだろう。"
  FACTION_CLAIMANT_INVITE_REFUSED_DESC:1 "私の請求権に対するあなたの熱意には感謝するが、その努力は失敗する運命にあると感じずにはいられない。結論から言うと、私はあなたを支持はしないが、あなたがどのような形であれ成功を収めたならば、私は王位を受け入れよう。"

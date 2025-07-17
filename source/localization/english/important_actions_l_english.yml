@@ -223,7 +223,7 @@
  mercenary_contract_expiring_click:1 "#I クリックで傭兵団を表示#!"
  action_mega_duke_penalty:1 "@titles_icon! [counties|E]が多すぎる"
  action_mega_duke_penalty_label:1 "@titles_icon! [counties|E]が多すぎる"
- action_mega_duke_penalty_desc:3 "あなたの[realm_size|E]は[duke|E]としては大きすぎ、[megaduke_penalty|E]に苦しんでいます。\n\n#help 公爵領が大きくなりすぎ、[realm|E]に過剰な[counties|E]を抱えるのは許されません。過剰な[counties|E]を抱えている限り、あなたは[income|E]の減収に苦しむことになります。[kingdom|E]タイトルを創設すべきです。#!"
+ action_mega_duke_penalty_desc:3 "あなたの[realm_size|E]は[duke|E]としては大きすぎ、[megaduke_penalty|E]に苦しんでいます。\n\n#help 公爵領が大きくなりすぎ、[realm|E]に過剰な[counties|E]を抱えるのは許されません。過剰な[counties|E]を抱えている限り、あなたは[income|E]の減収に苦しむことになります。[kingdom|E]称号を創設すべきです。#!"
  action_mega_duke_penalty_click:0 ""
  action_in_debt:0 "借金がある"
  action_in_debt_label:2 "@debt_icon! あなたは借金があります"
