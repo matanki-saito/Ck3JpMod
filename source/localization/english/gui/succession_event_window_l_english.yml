@@ -44,7 +44,7 @@
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_BODY_WEAK:0 "弱き身に生まれた[ROOT.Char.GetWomanMan]。[ROOT.Char.GetSheHe]は仲間たちの冷笑を浴びながらも、静かに己の道を歩んでいた。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_BODY_UGLY:1 "[ROOT.Char.GetSheHe]はその醜さで知られ、[ROOT.Char.GetHerHim]を一瞥しただけで何日も悪夢にさいなまれるとさえ噂された。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_BODY_INCAPABLE:0 "言葉も動きも失い、かつての面影は風の如く遠く、ただ朽ちた肉体を残して[ROOT.Char.GetSheHe]は静かに旅立った。"
- SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_MIND_LUNATIC:0 "病める心を宿し、[ROOT.Char.GetSheHe]の狂気は領内に鳴り響く噂となった。人々は皆、[ROOT.Char.GetHerHis] の名を「狂える者」として口にした。"
+ SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_MIND_LUNATIC:0 "病める心を宿し、[ROOT.Char.GetSheHe]の狂気は領内に鳴り響く噂となった。人々は皆、[ROOT.Char.GetHerHis]の名を「狂える者」として口にした。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_MIND_POSSESSED_POSITIVE:0 "[ROOT.Char.GetFaith.HighGodName]は幾星霜にわたり[ROOT.Char.GetHerHim]を媒介として御言葉を語られ、ついにその忠実なる僕を天界へと召された。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_MIND_POSSESSED_NEGATIVE:0 "悪魔の影に蝕まれ、[ROOT.Char.GetSheHe]は己の破滅を予見してはその到来を口にしていたという。"
  SUCCESSION_EVENT_WINDOW_DEAD_OUTRO_MIND_DEPRESSED:1 "精神的に悩んでいた[ROOT.Char.GetWomanMan]で、[ROOT.Char.GetSheHe]は長い間、死の甘い抱擁を望んでいた。"

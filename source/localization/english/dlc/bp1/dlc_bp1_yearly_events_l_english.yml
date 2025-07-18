@@ -627,7 +627,7 @@
  bp1_yearly.8190.b.flavor:0 "あなたは友を近くに置いておく"
  bp1_yearly.8191.t:0 "[sycophant_scope.GetFirstNamePossessiveNoTooltip]の報酬"
  bp1_yearly.8191.opening:0 "評議員の会議が延々と続く中、突然、私の耳は我が[ROOT.Char.Custom2('RelationToMe', sycophant_scope)]、[sycophant_scope.GetFirstNamePossessive]のなまめかしい声にそばだてられた。\n\n「急を要する業務です、我が[ROOT.Char.GetLadyLord]、"
- bp1_yearly.8191.taken:0 "[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]は、有能な[sycophant_scope.Custom('GetTargetCourtPosition')] を切実に必要としています。誰か適切な[sycophant_scope.Custom('GetTargetCourtPositionDesc')]が…[old_holder.GetTitledFirstName]の任務は#EMP ひどく#!失敗しています。」"
+ bp1_yearly.8191.taken:0 "[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]は、有能な[sycophant_scope.Custom('GetTargetCourtPosition')]を切実に必要としています。誰か適切な[sycophant_scope.Custom('GetTargetCourtPositionDesc')]が…[old_holder.GetTitledFirstName]の任務は#EMP ひどく#!失敗しています。」"
  bp1_yearly.8191.open:0 "[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]は[sycophant_scope.Custom('GetTargetCourtPosition')]を切実に必要としています。[sycophant_scope.Custom('GetTargetCourtPositionDesc')]を引き受ける誰かを…」"
  bp1_yearly.8191.arrogant:0 "\n\n[sycophant_scope.GetSheHe|U]は仰々しい態度で自身を指し示す。「閣下、私が解決いたしましょう、この種の仕事はある種の術策が必要です。」"
  bp1_yearly.8191.other:0 "\n\n[sycophant_scope.GetSheHe|U]は手を自身の胸に当てる。「もちろん、#EMP 私は#!この重責を喜んでお引き受けいたします、閣下。」"

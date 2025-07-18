@@ -14,7 +14,7 @@
  hunt.1011.a:1 "子供みたいなことをしてるといつか報いを受けるぞ。"
  hunt.1011.b:1 "[murder_target.GetTitleTierName]の行いはどうしようもない。"
  hunt.1011.c:0 "フッ、[nice_courtier.GetFirstNameNoTooltip]はビートの様に真っ赤だったな！"
- hunt.1012.desc:2 "私の[ROOT.Char.Custom2('DescriptorNegative', murder_target)][ROOT.Char.Custom2('RelationToMe', murder_target)]は、前方の[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')] にしゃがみ込み、近づいてくる[activity.Custom('GetAnimalMale')]に対して完全に集中している。\n\n"
+ hunt.1012.desc:2 "私の[ROOT.Char.Custom2('DescriptorNegative', murder_target)][ROOT.Char.Custom2('RelationToMe', murder_target)]は、前方の[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]にしゃがみ込み、近づいてくる[activity.Custom('GetAnimalMale')]に対して完全に集中している。\n\n"
  hunt.1012.a:2 "[murder_target.GetHerHim]が目に入らなかったなんて残念だ…"
  hunt.1012.a.tt:0 "#EMP ビュンッ！#!"
  hunt.1012.b:1 "いや、今はその時ではない…"

@@ -82,7 +82,7 @@
  lover.0204.desc:0 "「よくもまあ、ヌケヌケと。よくも私と別れてくれましたね。それも[other_lover.Custom('InsultNounSexual')]のために！」\n\n噂は瞬く間に広がり、[lover.GetFirstName]の劇的な反応が目の前で再演される。[lover.GetSheHe]が私に悪感情を抱いていることは明らかであり、正当な理由があろうとなかろうと、復讐を求めるかもしれない。"
  lover.0204.a:0 "[breaker.GetFirstName]が私を選んだのだ。忘れてくれ。"
  lover.3111.t:0 "我が最愛の人"
- lover.3111.desc:1 "私の[ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))] [lover.GetTitledFirstName]は私を[lover.GetHerHis]の腕に抱きしめ、私はめったに感じられない幸せを感じている。これが永遠に続いたならとただ想像する——[lover.GetSheHe]が永遠に私のものになったなら、私だけのものに…"
+ lover.3111.desc:1 "私の[ROOT.Char.Custom2('RelationToMe',SCOPE.sC('lover'))][lover.GetTitledFirstName]は私を[lover.GetHerHis]の腕に抱きしめ、私はめったに感じられない幸せを感じている。これが永遠に続いたならとただ想像する——[lover.GetSheHe]が永遠に私のものになったなら、私だけのものに…"
  lover.3111.a:1 "二度と別の人を愛さないと約束しよう！"
  lover.3111.a.success:0 "[lover.GetShortUIName|U]は独占することに同意する"
  lover.3111.a.failure:0 "私の提案は[lover.GetShortUIName]を不快にさせる"

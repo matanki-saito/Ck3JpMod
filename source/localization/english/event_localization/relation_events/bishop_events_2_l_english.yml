@@ -2,7 +2,7 @@
  bishop.2001.t:0 "聖職者の権利"
  bishop.2001.desc.a:0 "[scoped_bishop.GetCouncilTitle][scoped_bishop.GetFirstName]は激怒している。\n\n[scoped_bishop.GetSheHe|U]は、[scoped_prisoner.GetTitledFirstName]を私が囚人として拘留する権利がないと主張している。「[scoped_prisoner.GetSheHe|U]は聖職者です！[scoped_prisoner.GetHerHis]の罪がどのようなものであろうと、世俗の統治者には、[scoped_prisoner.GetHerHim]に裁きを下す権限はないのです！」"
  bishop.2001.desc.b:0 "私の囚人である[scoped_prisoner.GetTitledFirstName]は、[scoped_prisoner.GetFaith.ReligiousText]の一節をしっかりとした声で暗唱しながら、顔を上げ[scoped_prisoner.GetHerHis]の裁きを待っている。「[scoped_prisoner.GetFirstNameNoTooltip]は聖職者の一人であることは明らかです」と[scoped_bishop.GetCouncilTitle][scoped_bishop.GetFirstName]は言い、囚人のすぐ隣に立って、私を軽蔑の眼差しで眺めている。「したがって、[scoped_prisoner.GetSheHe]は聖職者の管理下に置かれなければなりません」"
- bishop.2001.desc.c:0 "[scoped_prisoner.GetTitledFirstName]は、[scoped_prisoner.GetHerHim]の前に置かれた[scoped_prisoner.GetFaith.ReligiousText]の一節を震えるような声で朗読した後、静かに立っている。\n\n「[scoped_prisoner.GetFirstNameNoTooltip]は聖職者の一人であることは明らかです」と[scoped_bishop.GetCouncilTitle] [scoped_bishop.GetFirstName]は言い、囚人のすぐ隣に立って、私を軽蔑の眼差しで眺めている。「そのため、[scoped_prisoner.GetSheHe]は聖職者の管理下に置かれなければなりません」"
+ bishop.2001.desc.c:0 "[scoped_prisoner.GetTitledFirstName]は、[scoped_prisoner.GetHerHim]の前に置かれた[scoped_prisoner.GetFaith.ReligiousText]の一節を震えるような声で朗読した後、静かに立っている。\n\n「[scoped_prisoner.GetFirstNameNoTooltip]は聖職者の一人であることは明らかです」と[scoped_bishop.GetCouncilTitle][scoped_bishop.GetFirstName]は言い、囚人のすぐ隣に立って、私を軽蔑の眼差しで眺めている。「そのため、[scoped_prisoner.GetSheHe]は聖職者の管理下に置かれなければなりません」"
  bishop.2001.a:0 "当然、[scoped_prisoner.GetSheHe]は「私が」選んだ一節を暗唱できるはずだな？"
  tooltip.bishop.2001.a.success:0 "[scoped_prisoner.GetTitledFirstName]は、その一節を正しく暗唱する"
  bishop.2001.success.a.desc.tt:0 "[scoped_prisoner.GetTitledFirstName]は聖職者の管理下に置かれます。"

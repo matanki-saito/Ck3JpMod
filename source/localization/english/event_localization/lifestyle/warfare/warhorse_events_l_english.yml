@@ -22,7 +22,7 @@
  warhorse.1001.a:0 "[ROOT.Char.Custom('HorseStorySheHe')|U]はより力強くなる必要がある。"
  warhorse.1001.b:0 "より迅速に疾走するよう[ROOT.Char.Custom('HorseStorySheHe')]を調教する必要がある。"
  warhorse.1001.c:0 "戦場での[ROOT.Char.Custom('HorseStorySheHe')|U]の働きのためには持久力が必要である。"
- warhorse.1001.d:0 "[ROOT.Char.Custom('HorseStorySheHe')] に欠けているものがあるとすれば、それは荒々しさだ。"
+ warhorse.1001.d:0 "[ROOT.Char.Custom('HorseStorySheHe')]に欠けているものがあるとすれば、それは荒々しさだ。"
  warhorse.1001.e:0 "興味がない。"
  warhorse.1001.e.tt:1 "#F 「[THIS.Char.Custom('WarhorseStoryName')]に私以外のトレーナーなど必要ない！」#!"
  warhorse.1002.desc:0 "[ROOT.Char.Custom('WarhorseStoryName')]は[ROOT.Char.Custom('HorseStoryHerHis')]の調教を受け、その結果はめざましいものとなった！"

@@ -78,7 +78,7 @@
  lesson_basics_welcome:1 "クルセイダーキングスⅢへようこそ"
  lesson_welcome_desc:3 "@tutorial_screenshot_1!\nあなたは中世の支配者となりました。よもすれば、あなたの統治は短いかもしれません。しかし、あなたの後継者たちが王朝を隆盛に導くでしょう。\n\n土地は剣によっても結婚によっても得られるものです。巧みな外交を駆使できれば、あらゆる征服者が描く夢さえ超えて、あなたの領域は遥か遠くまで…"
  lesson_basics_camera:0 "カメラ（$lesson_basics$）"
- lesson_basics_camera_desc:1 "W、A、S、Dキーを使ってカメラを移動できます。また、カーソルを画面端に合わせることでも同様の操作が行なえます。「Home」キーを押すと [realm_capital|E] に移動します。\n\nマップの拡大 縮小にはマウスホイールを使用します。\n\n#TUT 拡大レベルによって、[detail_zoom|E]、[political_zoom|E]、[paper_zoom|E]といった異なる情報を持つマップに切り替わります。\n\n拡大すると所有する[holdings|E]の選択及び管理を行えます。縮小するとすべての[realms|E]の概要が見られます。#!"
+ lesson_basics_camera_desc:1 "W、A、S、Dキーを使ってカメラを移動できます。また、カーソルを画面端に合わせることでも同様の操作が行なえます。「Home」キーを押すと [realm_capital|E]に移動します。\n\nマップの拡大 縮小にはマウスホイールを使用します。\n\n#TUT 拡大レベルによって、[detail_zoom|E]、[political_zoom|E]、[paper_zoom|E]といった異なる情報を持つマップに切り替わります。\n\n拡大すると所有する[holdings|E]の選択及び管理を行えます。縮小するとすべての[realms|E]の概要が見られます。#!"
  lesson_basics_paused_intro:0 "一時停止（$lesson_basics$）"
  lesson_basics_paused_intro_desc:1 "クルセイダーキングスⅢの世界は数百年、幾世代にも渡ります。今のところ、ゲームは#EMP 一時停止#!されており時は止まっています。\n\n#TUT チュートリアルパートでは、一時停止したままゲームのコンセプトを説明します。#!"
  lesson_basics_tooltips_in_tooltips:1 "ネストになった解説（$lesson_basics$）"

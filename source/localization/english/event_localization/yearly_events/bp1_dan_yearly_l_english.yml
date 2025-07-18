@@ -31,7 +31,7 @@
  bp1_yearly.7003.b:0 "これは壁に#EMP 飾らなければ#!。"
  bp1_yearly.7003.c:0 "私は…いや、道を間違えた。"
  bp1_orgy_tapestry:0 "乱交模様のタペストリー"
- bp1_orgy_tapestry_desc:0 "このタペストリーには、[orgy_participant_1.GetFirstName]、[ROOT.Char.GetName]、[orgy_participant_2.GetName]、[orgy_participant_3.GetName]と[orgy_tapestry_maker.GetName] が乱交する様子が描かれている。さらに[ROOT.Char.GetFaith.DevilName]も参加している。"
+ bp1_orgy_tapestry_desc:0 "このタペストリーには、[orgy_participant_1.GetFirstName]、[ROOT.Char.GetName]、[orgy_participant_2.GetName]、[orgy_participant_3.GetName]と[orgy_tapestry_maker.GetName]が乱交する様子が描かれている。さらに[ROOT.Char.GetFaith.DevilName]も参加している。"
  bp1_yearly.7004.t:0 "友人の慰め"
  bp1_yearly.7004.desc:1 "我が[ROOT.Char.Custom2('RelationToMeShort', concerned_friend)]の[concerned_friend.GetFirstName]が、外を見ながら黄昏ている私に近づいてきた。「あなたは変わってしまった...そう、あの時以来。」\n\n[concerned_friend.GetSheHe|U]は触れなかったが、私は、[concerned_friend.GetSheHe]が[bad_memory.GetDescription]時の事を言っているのだとわかった。\n\n「誰かに話したいのではないですか？私がその一助となれるかもしれません」と、[concerned_friend.GetSheHe]は穏やかに話を続けた。"
  bp1_yearly.7004.a:0 "それはありがたい。"

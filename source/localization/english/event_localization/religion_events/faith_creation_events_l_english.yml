@@ -9,7 +9,7 @@
  faith_creation.1001.desc.outlook.pacifism:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip][reformer.Custom('DefaultPriestTitlePlural')]は暴力と流血を非難し、戦争は苦しみと憎しみをもたらすだけだと言い、"
  faith_creation.1001.desc.outlook.dogmatic:0 "\n\nこれらの[reformer.Custom('DefaultPriestTitlePlural')]は[reformed_faith.GetNameNoTooltip]を一つの真理であると宣言し、"
  faith_creation.1001.desc.outlook.accepting:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip][reformer.Custom('DefaultPriestTitlePlural')]は、不信仰者に対しても、協力と寛容を奨励し、"
- faith_creation.1001.desc.outlook.fallback:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip] [reformer.Custom('DefaultPriestTitlePlural')]は、他の信仰の実用的で均衡のとれた見解を採用し、"
+ faith_creation.1001.desc.outlook.fallback:0 "\n\nこれらの[reformed_faith.GetAdjectiveNoTooltip][reformer.Custom('DefaultPriestTitlePlural')]は、他の信仰の実用的で均衡のとれた見解を採用し、"
  faith_creation.1001.desc.belief.sacrifice:0 "[reformed_faith.HighGodName]を人身御供で称えることが、正しい献身を示す唯一の方法であると主張している！"
  faith_creation.1001.desc.belief.indulgent:0 "信徒が肉欲にふけり、自分の人生を精いっぱい生きるよう奨励している。"
  faith_creation.1001.desc.belief.incest:0 "家族の絆は神聖であり、そのような結婚は祝福されていると主張して、近親結婚を是認している。"

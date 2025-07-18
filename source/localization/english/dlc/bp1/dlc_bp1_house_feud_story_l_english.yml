@@ -28,7 +28,7 @@
  bp1_house_feud.0006.desc:0 "[house_feud_rival.GetTitledFirstNamePossessive]のにやりと笑った顔がまた私の脳裏をよぎる。私は立ち上がると、貧しい弁明をしながら焚き火から身を離し、暗闇の中を歩き回る。\n\nあの[house_feud_rival.Custom('InsultNoun')]が頭から離れない。[house_feud_rival.GetHerHim]と[house_feud_rival.GetHerHis]の親族たちが問題にもされず、[house_feud_rival.GetCapitalLocation.GetName]でほくそ笑んでいると考えると…\n\n"
  bp1_house_feud.0006.higher:0 "[ROOT.Char.GetFaith.HighGodName]に誓って、#EMP 私こそ#!が[house_feud_claim.GetBaseNameNoTier]の正当な支配者だ。"
  bp1_house_feud.0006.same:0 "[house_feud_claim.GetBaseNameNoTier]が私のものになるまで、私には休む間はないのだろうか？"
- bp1_house_feud.0006.multi:0 "[house_feud_claim.GetBaseNameNoTier]と[house_feud_rival.GetTitledFirstName] が巣食う他の土地は、私のものでなければならないのだ。"
+ bp1_house_feud.0006.multi:0 "[house_feud_claim.GetBaseNameNoTier]と[house_feud_rival.GetTitledFirstName]が巣食う他の土地は、私のものでなければならないのだ。"
  bp1_house_feud.0006.previous:1 "[house_feud_previous.GetTitledFirstNamePossessive]の土地は我らの元に戻ってくるだろう。"
  bp1_house_feud.0006.a:0 "[house_feud_rival.GetHouse.GetBaseNameNoTooltip]家は終わらせなければならぬ。"
  bp1_house_feud.0006.b:0 "[house_feud_rival.GetFirstNameNoTooltip]は問題だ。"

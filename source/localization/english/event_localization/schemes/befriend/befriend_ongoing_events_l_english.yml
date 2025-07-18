@@ -112,7 +112,7 @@
  befriend_ongoing.4022.desc:1 "[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U]は、我々の共通の関心事である行政や数字に興味があり、私と議論したいと言ってきた。ゼロという数字が、[owner.GetSheHe]が議論したい特定のポイントだ。"
  befriend_ongoing.4022.a:0 "もちろん！これは非常に知識を増やしてくれるだろう！"
  befriend_ongoing.4022.b:0 "その数字は、私の関心の高さを十分に表している。"
- befriend_ongoing.4024.a.desc:0 "私は [target.GetTitledFirstName] と、ゼロという数字とその重要性、数学や行政における可能性について、じっくりと話し合った。数字を偏りなく前向きに捉え、その真価を理解してくれる人に出会えたのは嬉しいものだ。"
+ befriend_ongoing.4024.a.desc:0 "私は[target.GetTitledFirstName]と、ゼロという数字とその重要性、数学や行政における可能性について、じっくりと話し合った。数字を偏りなく前向きに捉え、その真価を理解してくれる人に出会えたのは嬉しいものだ。"
  befriend_ongoing.4024.b.desc:0 "[target.GetTitledFirstName]は、ゼロという数字が[target.GetHerHis]の私と議論することへの関心の高さに最も近いとだけ答えた。"
  befriend_ongoing.4024.a:0 "たまには何もないものについて話をするのも良いだろう。"
  befriend_ongoing.4024.b:0 "だが、私の失望は無限大だ。"

@@ -116,7 +116,7 @@
  STRUGGLE_NEXT_PHASE_PROGRESS_LABEL:0 "次のフェイズへの進行"
  STRUGGLE_NEXT_PHASE_PROGRESS_DESC:0 "現在のイベントは、[struggle|E]を[Struggle.GetNextPhasesStringList]に導く可能性があります"
  STRUGGLE_TT_PHASE_PROGRESS_LEADING:0 "#weak (主要フェイズ)#!"
- STRUGGLE_TT_PHASE_PROGRESS:3 "[StrugglePhase.GetNameNoTooltip|L]：[SelectLocalization( ObjectsEqual(Struggle.GetCurrentLeadingPhase, StrugglePhase.Self), 'STRUGGLE_TT_PHASE_PROGRESS_LEADING', '')] [Struggle.GetPhaseValue( StrugglePhase.Self )|+]/[Struggle.GetPhaseDurationValue]"
+ STRUGGLE_TT_PHASE_PROGRESS:3 "[StrugglePhase.GetNameNoTooltip|L]：[SelectLocalization( ObjectsEqual(Struggle.GetCurrentLeadingPhase, StrugglePhase.Self), 'STRUGGLE_TT_PHASE_PROGRESS_LEADING', '')][Struggle.GetPhaseValue( StrugglePhase.Self )|+]/[Struggle.GetPhaseDurationValue]"
  STRUGGLE_NEXT_PHASE_TRANSITION_LABEL:0 "次のフェイズ：[Struggle.GetNextPhase.GetName]"
  STRUGGLE_NEXT_PHASE_TRANSITION_DESC:0 "[Struggle.GetTransitionCompeleteDate.GetTimeToDate]後、闘争は[Struggle.GetNextPhase.GetName]フェイズに突入します"
  STRUGGLE_TT_PHASE_TRANSITION:2 "[StrugglePhase.GetName] #weak (次のフェイズ)#! [Struggle.GetPhaseValue( StrugglePhase.Self )|+]/[Struggle.GetPhaseDurationValue]"

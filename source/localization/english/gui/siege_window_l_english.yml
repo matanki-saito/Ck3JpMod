@@ -4,7 +4,7 @@
  SW_TT_GARRISON:0 "#T [garrison|E]：#V [Siege.GetDefenderMen|0][soldiers|E]#!#!\n[siege|E]が進行するためには守備隊よりも多くの兵士が必要です。"
  SW_TT_RECENT_ACTION:0 ""
  SW_TT_ACTION:1 "#high $NAME$#!\n$EFFECT$"
- SW_BLOCKED_LARGE_GARRISON:1 "包囲している[army|E]が[garrison|E] ($GARRISON|V$)よりも少ないため[siege|E]は進行しません"
+ SW_BLOCKED_LARGE_GARRISON:1 "包囲している[army|E]が[garrison|E]（$GARRISON|V$）よりも少ないため[siege|E]は進行しません"
  SW_BLOCKED_MOVEMENT_OR_COMBAT:1 "包囲している[armies|E]が現在移動中か[battle|E]中のため[siege|E]は進行しません"
  SW_TT_PROGRESS:0 "#T [siege_progress|E]：#V $PROGRESS|1$/$TOTAL|0$#!#!\n"
  SW_TT_DAILY_PROGRESS:0 "一日あたりの進展"

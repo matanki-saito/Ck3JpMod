@@ -59,7 +59,7 @@
  befriend_outcome.9800.desc_same_parent.our_parent:0 "我々の[target_dead_parent.Custom('MotherFather')]の墓参りのため、私のところを訪れると伝えた時、"
  befriend_outcome.9800.desc_strangers.their_parent:0 "[target.GetHerHis]の[target_dead_parent.Custom('MotherFather')]の墓参りのため、私のところを訪れると伝えた時、"
  befriend_outcome.9800.mid.desc:0 "これは我々の間の溝を埋める最高の機会であることに気づいた。\n\nその日が来ると、私は墓石の前にひざまずいて思いに耽っている[target.GetTitledFirstNameNoTooltip]を見つける。\n\n「邪魔して申し訳ない。」と私は低い声で言う。"
- befriend_outcome.9800.desc_same_parent.dialogue:0 "「あなたにとって [target_dead_parent.GetSheHe] が大切であったことを知っています。私も [target_dead_parent.GetHerHim]が恋しいです。」"
+ befriend_outcome.9800.desc_same_parent.dialogue:0 "「あなたにとって[target_dead_parent.GetSheHe]が大切であったことを知っています。私も[target_dead_parent.GetHerHim]が恋しいです。」"
  befriend_outcome.9800.desc_strangers.dialogue:0 "「お悔やみ申し上げます。私も親を亡くす辛さを知っています。」"
  befriend_outcome.9800.end:0 "\n\n我々は愛する人を失った話を何時間も共有した。別れ際には、私は肩の荷が下りたような気がする。"
  befriend_outcome.9800.a:0 "悲しみはより我々を団結させる。"

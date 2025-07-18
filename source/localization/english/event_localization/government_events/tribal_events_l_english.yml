@@ -4,7 +4,7 @@
  tribal.1001.desc_weak:0 "「お前は#EMP 弱い#!、[ROOT.Char.GetTitledFirstNameNoTooltip]、"
  tribal.1001.desc_meak:0 "「お前はウナギのように意気地無しだ。[ROOT.Char.GetTitledFirstNameNoTooltip]、"
  tribal.1001.desc_fallback:0 "「お前は統治者には不適格だ。[ROOT.Char.GetTitledFirstNameNoTooltip]、"
- tribal.1001.desc:0 "降りる時が来たんだ！」\n\n[challenger.Custom2('MyCharacterIntroduction', ROOT.Char)|U] が部族の全員の前で私に近づき、[challenger.GetHerHis]の挑戦をすべての部族民の前で宣言した。\n\n「今日から俺が[ROOT.Char.GetPrimaryTitle.GetName]を統治する」"
+ tribal.1001.desc:0 "降りる時が来たんだ！」\n\n[challenger.Custom2('MyCharacterIntroduction', ROOT.Char)|U]が部族の全員の前で私に近づき、[challenger.GetHerHis]の挑戦をすべての部族民の前で宣言した。\n\n「今日から俺が[ROOT.Char.GetPrimaryTitle.GetName]を統治する」"
  tribal.1001.a_child:0 "言葉に裏打ちされた鋼を喰らうがいい、[challenger.Custom('GirlBoy')]よ！"
  tribal.1001.a:0 "言葉に裏打ちされた鋼を喰らうがいい！"
  tribal.1001.a_success:0 "戦いに勝った"
