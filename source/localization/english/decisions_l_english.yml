@@ -294,7 +294,7 @@
  sale_of_titles_side_effects_tt:0 "称号の売却は予測できない結果を生み出します"
  sell_titles_nickname_gained:0 "新たな異名"
  extort_subjects_decision:0 "臣下からの強制徴発"
- extort_subjects_decision_desc:0 "#F 私が金を必要としているのなら、私の家臣はその義務に従い喜んで支払うべきだ！一体全体、彼らは私なしでどこに居場所があるというのだ？#!"
+ extort_subjects_decision_desc:0 "#F 私が金を必要としているのなら、家臣たるものその義務に従い、喜んで納めるべきだ！私いなくば、ついぞあいつらに居場所などないのだから！#!"
  extort_subjects_decision_tooltip:0 "鼻血も出なくなるまで逆さに振ります"
  extort_subjects_decision_confirm:0 "私に忠実な臣下はどこだ？"
  extort_subjects_effect_tt:2 "あなたの領国の誰かから資金を徴発する機会を得ます"
