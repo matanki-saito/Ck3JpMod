@@ -327,7 +327,7 @@
  stress_threshold.3401.f.hashishiyah.effect:0 "$stress_threshold.3401.f.hashishiyah.gain$"
  stress_threshold.3401.g:0 "その首は、足置きにでもしておけ！"
  stress_threshold.3411.t:0 "精神崩壊：我はその器に非ず！"
- stress_threshold.3411.desc.intro:0 "もう無理だ。私にはできぬ。これ以上、[ROOT.GetCharacter.GetTitleAsNameNoTooltip|L]であり続けることなどできはしない！ この沸き立つような重圧の渦を、どうして他の者たちは#EMP 乗りこなせる#!のだ？"
+ stress_threshold.3411.desc.intro:0 "もう無理だ。私にはできぬ。これ以上、[ROOT.GetCharacter.GetTitleAsNameNoTooltip|L]であり続けることなどできはしない！この沸き立つような重圧の渦を、どうして他の者たちは#EMP 乗りこなせる#!のだ？"
  stress_threshold.3411.desc.generous:0 "どれほど施しても、どれほど臣民に寛大であろうとも、貧しき者は絶えず、私を憎む者もまた絶えぬ。"
  stress_threshold.3411.desc.diligent:0 "どれだけ働いても、何夜も寝ずに奉仕しても、領国の問題は増える一方で、腐り果ててゆく。"
  stress_threshold.3411.desc.patient:0 "どれだけ忍耐強く訴えを聞いても、私の解決策はいつも不十分なものでしかない。"

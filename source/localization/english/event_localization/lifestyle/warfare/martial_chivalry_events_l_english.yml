@@ -48,7 +48,7 @@
  martial_chivalry.1012.a.success:1 "財宝を見つける"
  martial_chivalry.1012.a.failure:1 "紛い物と安物を見つける"
  martial_chivalry.1012.b:0 "あの闇の中に何が隠されているのだろう？"
- martial_chivalry.1012.b.tt1:1 "#F 「影が動いた！ あれは…血か？ 何の音だ!?」#!"
+ martial_chivalry.1012.b.tt1:1 "#F 「影が動いた！あれは…血か？何の音だ!?」#!"
  martial_chivalry.1012.b.success:1 "恐怖に向き合う"
  martial_chivalry.1012.b.failure:1 "この場所はあなたを怯えさせる"
  martial_chivalry.1021.t:0 "戦闘の混乱"

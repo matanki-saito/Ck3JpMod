@@ -413,7 +413,7 @@
  health.6203.desc:0 "[incapable_person.GetTitledFirstNamePossessive]の枕元に座っていると、突然、[incapable_person.GetSheHe]が、目を覚ましたかのように体を動かし、目を上方へとふらつかせる。このベッドに縛られて以来、[incapable_person.GetSheHe]はほとんど言葉を発していなかったが、突然、その沈黙は、耳障りな声で破られた。\n\n「[ROOT.Char.GetFirstNameNoTooltip]？[ROOT.Char.GetFirstNameNoTooltip]、お願いします...終わりにして。慈悲を...」"
  health.6203.desc_murder:0 "\n\n[incapable_person.GetSheHe]が私の計画のままでいることを[incapable_person.GetSheHe]自身は知らない。"
  health.6203.a:0 "わ…分かった…"
- health.6203.b:0 "だめだ！ 私にそんなことを頼むなんて！"
+ health.6203.b:0 "だめだ！私にそんなことを頼むなんて！"
  health.6204.desc_opening:0 "[close_person.GetTitledFirstNamePossessive]の反応が理解できないが、[close_person.GetSheHe]は私の側を離れない。\n\n"
  health.6204.desc_1:0 "しばらくして動きを感じた、顔に柔らかい圧を感じる。圧が大きくなり、息ができないことに気付く、私を満たすのは…感謝の気持ち以外ない。[close_person.GetSheHe|U]が同意してくれた。[close_person.GetSheHe|U]が…"
  health.6204.desc_2:0 "しばらくして動きを感じた、首に冷たく鋭い圧迫を感じる。切り口はほとんど感じない。しかし、[close_person.GetHerHis]の息を吸い込む音が聞こえ、ナイフが床に落ちる音が聞こえ、耳の中で泣くような音が聞こえてくる。それから…何もない。"

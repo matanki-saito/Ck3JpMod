@@ -27,7 +27,7 @@
  tradition_fp3_irrigation_experts_name: "灌漑の専門家"
  tradition_fp3_irrigation_experts_desc: "この文化の人たちは治水技術の熟練者だ。創意工夫と団結した努力によって過酷極まる砂漠にさえ花畑を作り上げるだろう。"
  tradition_fp3_beacon_of_learning_name: "学びの烽火"
- tradition_fp3_beacon_of_learning_desc: "古代ギリシア、インド哲学、アラビアの学者文化に連なりしこの文化の人々は己の科学の進歩に誇りを持っている。"
+ tradition_fp3_beacon_of_learning_desc: "古代ギリシア、インド哲学、アラビアの学者文化に連なるこの文化の人々は己の科学の進歩に誇りを持っている。"
  culture_parameter_can_appoint_court_scholar:0 "#high $court_scholar_court_position$#!の[court_position|E]を任命できる"
  culture_parameter_guardian_education_better_outcomes: "この文化の[guardians|E]は[wards|E]により良い[education_traits|E]を与えるだろう"
  tradition_fp3_jirga_name: "ジャーガ"

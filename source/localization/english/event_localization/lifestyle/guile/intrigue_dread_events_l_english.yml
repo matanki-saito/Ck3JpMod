@@ -49,7 +49,7 @@
  intrigue_dread_special.1198.desc:0 "私は演技を何度も、何度も何度も繰り返し、その間人々は、衛兵が見守る中で歓声を上げ続けている。\n\n新しい試みを重ねるごとに、私の演技がより洗練される一方、他のアーティストは恐怖と挫折に引きずられながら、疲れ果てて一人ずつ脱落していき、私だけがステージに立ち、勝利を手にするまでになる。"
  intrigue_dread_special.1198.a:0 "真に崇高な体験だ、そうだろう？"
  intrigue_dread_special.1301.t:0 "懸念する[ROOT.Char.Custom('GetCourtierPlural')|U]たち"
- intrigue_dread_special.1301.desc:0 "「…どれほど長い時間[ROOT.Char.GetSheHe]は#EMP 我々#!に対する陰謀を企ててきたのだ!? この謀略はもはや手に負えないぞ」[courtier_first.GetTitledFirstName]と[courtier_second.GetTitledFirstName]は顔を近づけて立ち話をしており、私が角を曲がると驚いた表情を見せる。\n\n「我が[ROOT.Char.GetTitleTierName]！ 我々はあなたの…娯楽の話をしていました。それらにずいぶんと時間を使っておられるようですね」"
+ intrigue_dread_special.1301.desc:0 "「…どれほど長い時間[ROOT.Char.GetSheHe]は#EMP 我々#!に対する陰謀を企ててきたのだ!?この謀略はもはや手に負えないぞ」[courtier_first.GetTitledFirstName]と[courtier_second.GetTitledFirstName]は顔を近づけて立ち話をしており、私が角を曲がると驚いた表情を見せる。\n\n「我が[ROOT.Char.GetTitleTierName]！ 我々はあなたの…娯楽の話をしていました。それらにずいぶんと時間を使っておられるようですね」"
  intrigue_dread_special.1301.a:0 "私に陰謀を企てていると聞いたぞ！衛兵！"
  intrigue_dread_special.1301.b:0 "#EMP 忠実な#![ROOT.Char.Custom('GetServants')]が心配するようなことは何もない…"
  intrigue_dread_special.1301.c:0 "断言してもいいが、何も心配することはない。"

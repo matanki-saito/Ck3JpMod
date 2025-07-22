@@ -24,7 +24,7 @@
  yearly.1003.end.desc:0 "私はドアを押して近くに寄りかかる…\n\n突然、大きな音と激しい痛みがして、後ろに倒れ床に体を激しく打ち付けた。叫び声が聞こえてきた。足音も。頭がくらくらする…\n\n「罠にかかったネズミのようだな」と耳慣れた声がする。[seducer_spouse.GetTitledFirstName]。畜生。"
  yearly.1003.a:0 "私は…私は厠を探していただけだ！"
  yearly.1010.t:0 "夜の闇に消えた"
- yearly.1010.start.desc:0 "[abductee.GetTitledFirstNamePossessive]の[ROOT.Char.Custom('GetChamberPlural')]に入ると、まず目につくのは、隅っこに倒れている衛兵の姿。第二に、[dummy_gender.GetHerHis]の喉に真っ赤な切り傷があること。だが、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('abductee'))]はどこにもいない！ \n\n"
+ yearly.1010.start.desc:0 "[abductee.GetTitledFirstNamePossessive]の[ROOT.Char.Custom('GetChamberPlural')]に入ると、まず目につくのは、隅っこに倒れている衛兵の姿。第二に、[dummy_gender.GetHerHis]の喉に真っ赤な切り傷があること。だが、私の[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('abductee'))]はどこにもいない！\n\n"
  yearly.1010.friend.desc:0 "[hunter.GetTitledFirstName]が弓を[hunter.GetHerHis]の肩に掛けて[ROOT.Char.Custom('GetRoom')]に入ってくる。「旧友よ、申し訳ない。[abductor.GetTitledFirstName]が[abductee.GetHerHim]を連れ去ったようです。"
  yearly.1010.marshal.desc:1 "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hunter'))]が弓を[hunter.GetHerHis]の肩に掛けて[ROOT.Char.Custom('GetRoom')]に入ってくる。「生き残った衛兵は[abductor.GetTitledFirstName]が[abductee.GetHerHim]を連れ去ったと言っております、我が主[ROOT.Char.Custom('GetCourtOwner')]。"
  yearly.1010.end.desc:0 "猟犬と[dummy_gender.GetWomenMen]は準備ができています。ご命令は？」"

@@ -833,7 +833,7 @@
  fund_inspiration.8011.desc:0 "[inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]は私を[inspiration_owner.GetHerHis]の実験室に呼び出すと、[inspiration_owner.GetHerHis]の研究における新発見について夢中になって話している。\n\n「我が[ROOT.Char.GetLadyLord]、ここへ！素晴らしい。これを飲んでください。」[inspiration_owner.GetFirstNameNoTooltip]は私を部屋に案内すると羊皮紙とビーカーで散らかった机の方へと連れていく。ビーカーの一つには黄金に輝く調合液が入っており、[inspiration_owner.GetSheHe]はそれを飲ませる。「今、これはまだ未完成ですが、本当に驚くべき効果がある#EMP はず#!です！」\n\n何時間かが経過した後、私は頭痛と吐き気とめまいがするのを感じる。"
  fund_inspiration.8011.a:0 "この茶番が、あなたに何か有益なことを教えてくれたようだな。"
  fund_inspiration.8011.b:0 "この詐欺師を地下牢に放り込め！"
- fund_inspiration.8011.c:0 "この私に毒を盛るとは！ 絞首刑だ！"
+ fund_inspiration.8011.c:0 "この私に毒を盛るとは！絞首刑だ！"
  fund_inspiration.8012.t:0 "$fund_inspiration.title$ 教会とヤブ医者"
  fund_inspiration.8012.desc:0 "私がテーブルにもたれて、錬金術師である[inspiration_owner.GetTitledFirstName]から最新の実験について説明を受けていると、[court_chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)] が部屋に飛び込んできた。\n\n「あなたがこの…この#EMP 異教徒#!と共に時間を#EMP 過ごしている#!というのは本当だったのか！」[court_chaplain.GetFirstNameNoTooltip]は我々の目の前に広がるボールと図版とを眺め、[court_chaplain.GetHerHis]の目はさらに冷たくなる。\n\n「これは止めなければなりません、我が[ROOT.Char.GetLadyLord]。このヤブ医者はあなたを惑わせるものです！」"
  fund_inspiration.8012.a:0 "そうなのか？よくもまあ！私の領国から出て行け。"
