@@ -2304,7 +2304,7 @@
  game_concept_monument_expedition_i: "@activity_monument_expedition!"
  game_concept_monument_expedition_desc: "有名な記念碑やランドマークを訪れ、その歴史や知識、謎を探求して自己改善を図る活動。\n\n期待される報酬：\n\t$BULLET_WITH_TAB$[intrigue_i|E][diplomacy_i|E][martial_i|E][learning_i|E][stewardship_i|E][skill|E]ポイント\n$BULLET_WITH_TAB$[court_position_i]優れた[aptitude|E]を持つ[court_positions|E]\n$BULLET_WITH_TAB$[prestige_i|E][prestige|E]"
  game_concept_designated_terrain: "特定の土地"
- game_concept_designated_terrain_desc: "[wanderer_lifestyle|E]ツリーでアンロックされる[decision|E]で、特定の[terrain|E]グループに特化することができます。選択した地形グループには、特定の[perks|E]が異なる恩恵をもたらします。\n\n選択可能な地形グループ：\n$BULLET_WITH_TAB$@forest! 森林 / @jungle! ジャングル / @taiga! タイガ / @wetlands! 湿地\n$BULLET_WITH_TAB$@mountains! 山岳 / @hills! 丘陵 / @desert_mountains! 山地砂漠\n$BULLET_WITH_TAB$@plains! 平原 / @steppe! ステップ / @farmlands! 農地 / @floodplains! 氾濫原\n$BULLET_WITH_TAB$@desert! 砂漠 / @drylands! 乾燥地 / @oasis! オアシス"
+ game_concept_designated_terrain_desc: "[wanderer_lifestyle|E]ツリーでアンロックされる[decision|E]で、特定の[terrain|E]グループに特化することができます。選択した地形グループには、特定の[perks|E]が異なる恩恵をもたらします。\n\n選択可能な地形グループ：\n$BULLET_WITH_TAB$@forest!森林 / @jungle!ジャングル / @taiga!タイガ / @wetlands!湿地\n$BULLET_WITH_TAB$@mountains!山岳 / @hills!丘陵 / @desert_mountains!山地砂漠\n$BULLET_WITH_TAB$@plains!平原 / @steppe!ステップ / @farmlands!農地 / @floodplains!氾濫原\n$BULLET_WITH_TAB$@desert!砂漠 / @drylands!乾燥地 / @oasis!オアシス"
  game_concept_master_terrain: "熟知した土地"
  game_concept_master_terrain_desc: "[wanderer_lifestyle|E]ツリーでアンロックされる[decision|E]で、[designated_terrain|E]グループで選択した地形に基づいて特定の[terrain|E]に特化することができます。\n\nこの決定により、選択した地形での大幅な恩恵を得られ、[advantage|E]の増加、[combat_roll|E]の改善、[attrition|E]の軽減、[battle|E]による[prestige|E]と[prestige_experience|E]の増加などのボーナスが付与されます。"
  game_concept_predicted_scheme_difficulty: "予測される計画難易度"

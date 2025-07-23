@@ -35,5 +35,5 @@
  ignore_3_site_rule_tt: "あなたは[holy_sites|E]を保有すること無しに[faith|E]を改革することができる"
  friend_will_convert_tt: "[same_faith_friend.GetFirstName|U]は、あなたと一緒に改革した宗教に改宗するでしょう。"
  truce_religious_tolerance: "宗教的寛容"
- hc_7020_guardian_of_the_old_ways: "旧習の守護者"
+ hc_7020_guardian_of_the_old_ways: "古俗の守護者"
  hc_7020_guardian_of_the_old_ways_desc: "この人物は彼等の信仰の保護と保全に身を捧げてきた。"
