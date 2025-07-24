@@ -95,7 +95,7 @@
  increase_aptitude.tt: "この補正値は[competent_tax_collector.GetFirstNamePossessiveNoTooltip]の[aptitude|E]を増加させるだろう"
  fp3_clan.8011.t: "適切な支払人"
  fp3_clan.8011.desc: "領国の歳入を改善するための施策というものはいくらあっても困りはしない。部隊の予算を確かめているところ、[competent_tax_collector.GetName]が話しかけてきた。\n\n「あー、[ROOT.Char.GetTitleTierName]様。地方の地主が軍隊に行き渡るべき物資を中抜きして懐を温めているという噂をこの辺りで聞きました。そこでですが、兵士の給料の支払いの管理を私に任せていただけませんか。もしそうしていただければ私は全霊を以て腐敗と戦い、より効率的に軍隊を運営してみせます」\n\n「しかし、元帥の[concerned_marshal.GetTitledFirstName]がそれを嫌がるのは明白でありましょう。今まで兵士の物資や給与に関することはすべて[concerned_marshal.GetHerHis]の裁量によるものだったのですから」"
- fp3_clan.8011.a: "[concerned_marshal.GetSheHe|U]は少々役不足だったのかもしれないな…"
+ fp3_clan.8011.a: "[concerned_marshal.GetSheHe|U]は少々力不足だったのかもしれないな…"
  fp3_clan.8011.b: "二人で協力すればいいだけだろう。"
  fp3_clan.8011.c: "いや、現状維持だ。"
  fp3_clan.8011.b.success: "[competent_tax_collector.GetFirstNameNoTooltip]と[concerned_marshal.GetFirstNameNoTooltip]はしぶしぶ協力する"

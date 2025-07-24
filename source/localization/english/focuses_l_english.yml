@@ -156,7 +156,7 @@
  education_martial_tt.huntperson: "\n\n#P [GetCourtPositionType('huntperson_camp_officer').GetName()]は軍事教育の効果を向上させます。#!"
  education_any_tt.court_tutor: "\n\n#P [GetCourtPositionType('court_tutor_court_position').GetName()]は全ての教育の効果を向上させます。#!"
  wanderer_lifestyle_name: "放浪"
- wanderer_lifestyle_desc: "世界の隅々を旅しよう。余人が夢見ることしかできないような素晴らしい景色を見よう。そして、物語を語り継ぐために生き抜くのだ。"
+ wanderer_lifestyle_desc: "世界の隅々を旅しよう。余人が夢見ることしかできないような素晴らしい景色を見よう。そして、物語を語り継ぐために生き抜こう。"
  wanderer_lifestyle_highlight_desc: "[GetPlayer.Custom('GetWandererLifestyleXPHighlight')]"
  wanderer_lifestyle_highlight: "[GetTrait('lifestyle_traveler').GetName( GetPlayer )]の[trait|E]により、あなたはこのライフスタイルの[experience|E]を#P [GetPlayer.Custom('GetLifestyleBoostWanderer')]#!多く得る。"
  wanderer_lifestyle_adventurer_no_highlight: "新しい[activities|E]をアンロック\n[hike_i][monument_expedition_i]"

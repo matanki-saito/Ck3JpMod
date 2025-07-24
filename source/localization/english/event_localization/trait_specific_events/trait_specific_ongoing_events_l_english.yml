@@ -209,7 +209,7 @@
  trait_specific_ongoing.5001.desc_small:0 "話をしているうちに、私は[victim.GetHerHis]のたくましい腕に目が行ってしょうがない、引き伸ばされた肉がその下に隠された…"
  trait_specific_ongoing.5001.desc_big:0 "話をしているうちに、私は[victim.GetHerHis]のふっくりした腕に目が行ってしょうがない、みずみずしい膨らみにひそむ肉と脂…"
  trait_specific_ongoing.5001.desc:0 "話をしているうちに、私は[victim.GetHerHis]の肌と、[victim.GetSheHe]が動くときの下面の動きに気づかずにはいられない…"
- trait_specific_ongoing.5001.a:0 "夜食があれば大歓迎だ。"
+ trait_specific_ongoing.5001.a:0 "この夜食は大歓迎だ。"
  trait_specific_ongoing.5001.b:0 "「頼む、[victim.GetFirstNameNoTooltip]、続けてくれ。」"
  trait_specific_ongoing.5002.desc:0 "宮廷の残りの者たちが眠りにつき、私の[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer') )]である[murderer.GetTitledFirstName]と私は、気がつけば二人だけになっていた。\n\n夜が更けるにつれ、[murderer.GetSheHe]はますます激しくなり、私の体の露出した肉から[murderer.GetHerHis]の目は決して離れない。私が[murderer.GetHerHis]の意図を疑おうとした矢先、[murderer.GetSheHe]はナイフを抜き、微笑んだ。"
  trait_specific_ongoing.5002.a:0 "いやだ、やめてくれ、頼む——やめろ！ああああ！"
