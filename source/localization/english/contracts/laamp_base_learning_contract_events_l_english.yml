@@ -38,7 +38,7 @@
  laamp_base_learning_contract_events.4001.c.tt.used: "既にこの写本のために[language|E]の知識を活用しています"
  laamp_base_learning_contract_events.4001.c.unavailable: "もっと勉強していれば。"
  laamp_base_learning_contract_events.4001.c.tt.unavailable: "あなたは[language|E]だけしか知らない"
- laamp_base_learning_contract_events.4001.d: "原本通りに進めよう"
+ laamp_base_learning_contract_events.4001.d: "原本通りに進めよう。"
  laamp_base_learning_contract_events.4001.d.secret: "通訳に割く時間を増やそう。"
  laamp_base_learning_contract_events.4001.d.flavor.unlearned: "あのくねくねした線は何を意味するのだろうか…"
  laamp_base_learning_contract_events.4001.d.flavor.unwind: "ちょっとぐらい手を抜いてもいいだろう。"
