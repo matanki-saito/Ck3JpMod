@@ -456,7 +456,7 @@
  msg_promoted_legend_unowned: "後援する伝説が無くなった"
  msg_promoted_legend_unowned_desc: "あなたの[promoted_legend|E]の[Legend.GetName]は誰のものでもない"
  msg_promoted_legend_completed: "後援した伝説が成立した"
- msg_promoted_legend_completed_desc: "あなたの[promoted_legend|E] [Legend.GetName]が成立した"
+ msg_promoted_legend_completed_desc: "あなたの[promoted_legend|E]、[Legend.GetName]が成立した"
  message_consolidation_names: "#T その他#!\n[PlayerMessageItem.GetConsolidationNames]"
  message_consolidation_others: "#tooltip:message_consolidation_names #L その他[Subtract_int32( PlayerMessageItem.GetConsolidationCount, '(int32)2' )|V] #!#!"
  msg_legend_library_added: "書庫に伝説が加わった"

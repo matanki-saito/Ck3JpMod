@@ -1231,7 +1231,7 @@
  laamp_base_contract_schemes.0811.c.tt.failure: "大失敗"
  laamp_base_contract_schemes.0811.c: "何をしているんだ！余計なことはするな！"
  laamp_base_contract_schemes.1301.t: "$laamp_base_contract_schemes.1004.t$"
- laamp_base_contract_schemes.1301.desc.intro.preamble.first: "[recidivist.GetFirstNameNicknamed]と会うのは初めてだった。"
+ laamp_base_contract_schemes.1301.desc.intro.preamble.first: "[recidivist.GetFirstNameNicknamed]とこの地で会うのは初めてだった。"
  laamp_base_contract_schemes.1301.desc.intro.preamble: "[recidivist.GetFirstNameNicknamed]に追いついた。"
  laamp_base_contract_schemes.1301.desc.intro.plains: "ここは[current_county.GetBaseNameNoTier]ののどかな平原だ。"
  laamp_base_contract_schemes.1301.desc.intro.farmlands: "ここは[current_county.GetBaseNameNoTier]の緑豊かな農地だ。"

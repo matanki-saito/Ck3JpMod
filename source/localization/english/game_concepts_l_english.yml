@@ -2066,7 +2066,7 @@
  game_concept_legitimacy_expectations: "期待される正統性"
  game_concept_legitimacy_expectations_desc: "$game_concept_expected_legitimacy_desc$"
  game_concept_initial_legitimacy: "正統性の初期値"
- game_concept_initial_legitimacy_desc: "$game_concept_legitimacy$は[character|E]が玉座に座った時に付与されます。\n\nそれは[dynasty_prestige_level|E]、前任者との関係、[court_grandeur|E]、[virtues|E]、[sins|E]、性別、[bastardy|E]、[ruler|E]としての年、[legitimacy|E]や[dynasty_perk|E]、[diplomacy|E]から算出され、[GetTrait('sayyid').GetName( GetNullCharacter )]、[GetTrait('diplomat').GetName( GetNullCharacter )]、[GetTrait('just').GetName( GetNullCharacter )]といった一部の[traits|E]も影響を与えるでしょう。\n\n[heirs|E]は、より高い[title_tier|E] [title|E]を継承する場合、前の統治者の$game_concept_legitimacy$の[GetDefine( 'NCharacter', 'LEGITIMACY_INHERITED' )|V%^]を継承します。"
+ game_concept_initial_legitimacy_desc: "$game_concept_legitimacy$は[character|E]が玉座に座った時に付与されます。\n\nそれは[dynasty_prestige_level|E]、前任者との関係、[court_grandeur|E]、[virtues|E]、[sins|E]、性別、[bastardy|E]、[ruler|E]としての年、[legitimacy|E]や[dynasty_perk|E]、[diplomacy|E]から算出され、[GetTrait('sayyid').GetName( GetNullCharacter )]、[GetTrait('diplomat').GetName( GetNullCharacter )]、[GetTrait('just').GetName( GetNullCharacter )]といった一部の[traits|E]も影響を与えるでしょう。\n\n[heirs|E]は、より高い[title_tier|E]の[title|E]を継承する場合、前の統治者の$game_concept_legitimacy$の[GetDefine( 'NCharacter', 'LEGITIMACY_INHERITED' )|V%^]を継承します。"
  game_concept_court_position_task_short: "任務"
  game_concept_court_position_task_short_desc: "$game_concept_court_position_task_desc$"
  game_concept_court_position_tasks_short: "任務"

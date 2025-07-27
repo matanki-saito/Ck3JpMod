@@ -403,7 +403,7 @@
  learning_muraqaba_toast.success: "あなたは基本的な#italic ムラカバ#!を学んだ。"
  learning_muraqaba_toast.failure: "あなたは基本的な#italic ムラカバ#!を学べなかった。"
  fp3_yearly.8036.t: "口無しの街"
- fp3_yearly.8036.desc: "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('superstitious_councillor'))] [superstitious_councillor.GetTitledFirstName]を従えて[spooky_county.GetNameNoTier]郊外の荒野を馬で移動していたところ、日が暮れてしまった。\n\n陰鬱な月の光の中、私たちは以前噂に聞いたことのある場所へと足を踏み入れていた。広大な迷路のように入り組んだ立石は、ギザギザで隙間がなく、大昔に忘れ去られた人々の埋葬地か聖地だった。しかしただの石ではなく、口がないことを除けば、人間を模した肖像が彫られている。枯れ果てた偶像は、通り過ぎようとする私たちを冷ややかに見つめ、今にも動き出しそうだ。\n\n「ここに留まるのはよしましょう」と[superstitious_councillor.GetFirstNameNoTooltip]は震えながら言う。しかし、私は不思議でならない。本当に幽霊などいるものだろうか？"
+ fp3_yearly.8036.desc: "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('superstitious_councillor'))][superstitious_councillor.GetTitledFirstName]を従えて[spooky_county.GetNameNoTier]郊外の荒野を馬で移動していたところ、日が暮れてしまった。\n\n陰鬱な月の光の中、私たちは以前噂に聞いたことのある場所へと足を踏み入れていた。広大な迷路のように入り組んだ立石は、ギザギザで隙間がなく、大昔に忘れ去られた人々の埋葬地か聖地だった。しかしただの石ではなく、口がないことを除けば、人間を模した肖像が彫られている。枯れ果てた偶像は、通り過ぎようとする私たちを冷ややかに見つめ、今にも動き出しそうだ。\n\n「ここに留まるのはよしましょう」と[superstitious_councillor.GetFirstNameNoTooltip]は震えながら言う。しかし、私は不思議でならない。本当に幽霊などいるものだろうか？"
  fp3_yearly.8036.a: "しばし滞在の上、この場所を調べてみよう。"
  fp3_yearly.8036.b: "急ぎここを離れよう、もっと護衛を探さねば…"
  fp3_yearly.8036.c: "落ち着くのだ、[superstitious_councillor.GetFirstNameNoTooltip]よ。影か塵にすぎんよ。"
