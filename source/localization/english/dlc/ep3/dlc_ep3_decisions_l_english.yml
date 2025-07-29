@@ -710,7 +710,7 @@
  ep3_laamp_decision_event.1110.a.desc: "$become_conqueror_decision_reward$"
  bandit_king_decision: "無頼の一党を率いる"
  bandit_king_decision_desc: "ドブ板の息子娘みんなの支配者となる。最低最悪のならず者どもを、義と気まぐれで束ねるのだ。そして、弱きも強きも挫き、大破壊をもたらすのだ。"
- bandit_king_decision_reward: "[criminal_task_contract|E]を#Bold 完遂するたびに#!、ユニークな[men_at_arms|E]を得ます。\n#weak その兵量は[GetTrait('gallowsbait').GetName(GetNullCharacter)][trait_level_track|E]の進み具合に比例し、100人から1000人まで増えます。!#"
+ bandit_king_decision_reward: "[criminal_task_contract|E]を#Bold 完遂するたびに#!、ユニークな[men_at_arms|E]を得ます。\n#weak その兵量は[GetTrait('gallowsbait').GetName(GetNullCharacter)][trait_level_track|E]の進み具合に比例し、100人から1000人まで増えます。"
  bandit_king_decision_tooltip: "臆病者は、金に汚い奴は、生き延びるために戦ってきた者だ"
  bandit_king_decision_confirm: "集え、この地上に住まう哀れな者どもよ！"
  ep3_gallowsbait_army: "悪名高きクズ"
