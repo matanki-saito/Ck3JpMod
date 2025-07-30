@@ -452,7 +452,7 @@
  ra_admin_gov_troops_4: "軍の詳細"
  ra_admin_gov_troops_4_desc: "「状態」は[army|e]が利用可能かどうかを示しています。\n\n[war|e]において[governor|e]によって兵が召集された場合、解散されるまでの間、[top_liege|e]はその兵を再割り当てできません。\n\n$game_concept_governors$が[liege|e]に対して反乱を起こした場合、その$game_concept_governor$は自らの[governorship|e]に由来する兵を取り戻します。\n\n領国全体に目を光らせ、彼らの運用方法を最適化しましょう。"
  ra_admin_gov_troops_5: "権力への道のり"
- ra_admin_gov_troops_5_desc: "@ra_admin_troops_5! [administrative|e]の[realm|e]は政治と陰謀を糧に動いていますが、強力でよく管理された軍を持つことは防衛に役立つだけでなく外交にも役立ちます。\n\n結局のところ、軍事力もまた権力の道の一つに過ぎません…"
+ ra_admin_gov_troops_5_desc: "@ra_admin_troops_5! [administrative|e]の[realm|e]は政治と陰謀を糧に動いていますが、強力でよく管理された軍を持つことは防衛に役立つだけでなく外交にも役立ちます。\n\n結局のところ、軍事力もまた権力への道の一つに過ぎません…"
  action_reactive_advice_laamp_contract_move: "$open_tutorial_lesson$依頼の探し方"
  action_reactive_advice_laamp_contract_move_desc: "付近の[task_contract|E]が見つからない？新しい依頼を探すためのチュートリアルとして、ここを開いてください。"
  action_reactive_advice_laamp_contract_move_click: "$click_to_open_lesson$"
