@@ -348,7 +348,7 @@
  bp1_yearly.9043.b:0 "#EMP 衛兵！#!"
  bp1_yearly.9043.c:0 "笑顔で立ち去るのみ。"
  bp1_yearly.9044.t:0 "処刑"
- bp1_yearly.9044.desc:0 "私は、[recipient.GetNamePossessive]の処刑から離れる気になることを期待していたのだが、明らかに私は別れを告げることを我慢できない。\n\n私は、誰にも理解されないような形で[recipient.GetHerHim]を本当に大切に思ってきたが、[recipient.GetHerHis]の投獄に至る出来事は、[recipient.GetHerHis]が自ら行ったもので、私はそれを正義を守るための例外とすることはできない。\n\n[recipient.GetFirstNameNoTooltip]は[recipient.GetHerHis]の最後の瞬間、[recipient.GetHerHis]の霞んだ瞳に裏切られた思いを滲ませて私を見つめ、最後に#EMP パキッ#!という音と共に[recipient.GetSheHe]はもういなくなってしまった。私はしばらく[recipient.GetHerHis]の亡骸に寄り添い、一緒に過ごした楽しい時間を思い出している。"
+ bp1_yearly.9044.desc:0 "[recipient.GetNamePossessive]の処刑には立ち会わぬつもりだった。そう思いたかった。\nだが、結局のところ……最後の別れを告げずにはいられなかった。\n\n誰にも理解されぬほど、私は[recipient.GetHerHim]を想っていた。\nけれども、[recipient.GetHerHis]を牢へと追いやったのは、他ならぬ[recipient.GetHerHis]自身の過ち。そして、正義の名の下に、私は例外を許すことができなかった。\n\n[recipient.GetFirstNameNoTooltip]は最後の瞬間まで、霞む瞳で私を見つめ続けた。\nそこに浮かんでいたのは、裏切りの色。そして、最後の#EMP パチン#!という音とともに、[recipient.GetSheHe]は静かに存在を失った。\n\n私はしばらくの間、[recipient.GetHerHis]の冷たい亡骸のそばに佇み、共に過ごした日々をひとつひとつ思い返していた。"
  bp1_yearly.9044.desc.outro.memory:0 "私は特に[bp1_yearly_9044_memory_scope.GetDescription]の時間が好きだったが、もうこんな楽しい時間を共有できないことを私は悲しく思う。"
  bp1_yearly.9044.desc.outro.no_memory:0 "[recipient.GetSheHe]が許してくれるなら、私は[ROOT.Char.GetFaith.PositiveAfterLife]で再び[recipient.GetHerHim]に会いたいと願うだけだ。"
  bp1_yearly.9044.a.indifferent:0 "個人的なものではなかった。"
