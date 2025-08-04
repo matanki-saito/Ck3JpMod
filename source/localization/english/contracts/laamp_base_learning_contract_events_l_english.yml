@@ -34,7 +34,7 @@
  laamp_base_learning_contract_events.4001.b.tt.unavailable: "あなたはこの一節のための[lifestyle_traits|E]を持っていない"
  laamp_base_learning_contract_events.4001.b.tt.used: "既にこの写本のためにこの[lifestyle_trait|E]を活用しています"
  laamp_base_learning_contract_events.4001.b.flavor.unlearned: "しかし、どう書けと言うのか。"
- laamp_base_learning_contract_events.4001.c: "ウーン、[additional_language_culture.GetLanguage.GetNameNoTooltip]っぽいものなら見たことはあるが。"
+ laamp_base_learning_contract_events.4001.c: "ウーン、[additional_language_culture.GetLanguage.GetNameNoTooltip]の文法は確か…。"
  laamp_base_learning_contract_events.4001.c.tt.used: "既にこの写本のために[language|E]の知識を活用しています"
  laamp_base_learning_contract_events.4001.c.unavailable: "もっと勉強していれば。"
  laamp_base_learning_contract_events.4001.c.tt.unavailable: "あなたは[language|E]だけしか知らない"
