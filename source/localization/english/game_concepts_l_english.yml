@@ -1157,7 +1157,7 @@
  game_concept_designated_heir_desc:3 "$game_concept_designated_heir$は誰が[realm_heir|E]となるかを決定する際に優先権を持ちます。"
  game_concept_incest:0 "近親相姦"
  game_concept_incestuous:0 "近親相姦"
- game_concept_incest_desc:0 "近親相姦とは近親者間の性行為を指します。\nどの関係が近親かは、キャラクターの[faith|E]の$doctrine_consanguinity_name$[doctrine|E]によって決定されます。"
+ game_concept_incest_desc:0 "近親相姦とは近親者間の性行為を指します。\nどの関係が近親かは、人物の[faith|E]の$doctrine_consanguinity_name$[doctrine|E]によって決定されます。"
  game_concept_relation:0 "特別な関係"
  game_concept_relations:0 "特別な関係"
  game_concept_relation_desc:3 "$game_concept_relations$とは、家族関係や[vassalage|E]関係に左右されない結びつきを表します。これらの$game_concept_relations$はいくつかの異なるカテゴリーに分けられます。関係する人物間において起こりうることに影響を及ぼし、[character_modifiers|E]をもたらします。\n\n通常の関係：\n$EFFECT_LIST_BULLET$[friend|E]\n$EFFECT_LIST_BULLET$[lover|E]\n$EFFECT_LIST_BULLET$[rival|E]\n$EFFECT_LIST_BULLET$[guardian|E]\n$EFFECT_LIST_BULLET$[ward|E]\n$EFFECT_LIST_BULLET$[mentor|E]\n$EFFECT_LIST_BULLET$[student|E]\n\nより上位の関係：\n$EFFECT_LIST_BULLET$[best_friend|E]\n$EFFECT_LIST_BULLET$[soulmate|E]\n$EFFECT_LIST_BULLET$[nemesis|E]\n\n幼年期の関係：\n$EFFECT_LIST_BULLET$[bully|E]\n$EFFECT_LIST_BULLET$[victim|E]\n$EFFECT_LIST_BULLET$[crush|E]"
