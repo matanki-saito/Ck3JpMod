@@ -1,5 +1,5 @@
 ﻿l_english:
- travel_events_oltner_2.1000.t: "耕された砂"
+ travel_events_oltner_2.1000.t: "砂漠の耕作"
  travel_events_oltner_2.1000.desc: "太陽が[location.GetName]の砂丘を焼き付ける中、一歩一歩さえも忍耐の証となる。それでも、この乾いた大地の中で緑のオアシスが花開いていた───砂漠の中心にある農業の奇跡だ。\n\nその異様な光景に見とれていると、この地の執事が日焼けした笑顔で近づいてくる。\n「旅人たちよ」と[local_character.GetSheHe]が呼びかける。「さあ、私たちの努力の結晶を目に焼き付けてくださいませ。\nこの砂漠に打ち勝った我らが偉業を、あなた方の故郷に語り伝えてくださいな！」"
  travel_events_oltner_2.1000.option.a: "「砂漠をどのように手懐けたか、教示してくれ」"
  travel_events_oltner_2.1000.option.b: "「ありがたいが、時が惜しいのだ」"
