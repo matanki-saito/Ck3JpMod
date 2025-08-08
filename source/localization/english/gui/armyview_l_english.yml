@@ -120,7 +120,7 @@
  ARMY_VIEW_LEVIES:0 "徴募兵"
  ARMY_VIEW_MAA:0 "常備軍"
  ARMY_VIEW_KNIGHTS:1 "$knight_culture_player_plural_no_tooltip$"
- START_RAIDING:0 "#T 襲撃を開始する #!\nこのユニットはあなたの領域外で[raid|E]アクションを実行できるようになります"
+ START_RAIDING:0 "#T 略奪を開始する #!\nこのユニットはあなたの領域外で[raid|E]アクションを実行できるようになります"
  END_RAIDING:0 "#T 襲撃をやめる#!\nこの[army|E]は襲撃軍ではなくなり、再び補充できます"
  START_RAID:0 "#T 襲撃を開始#!"
  RAID_ACTION_INFO:0 "およそ[PROVINCE.GetLootTime( ARMY.Self )|V]日間で完了します。\n[gold_i|E][PROVINCE.GetRaidLoot|0V]を得ます。"

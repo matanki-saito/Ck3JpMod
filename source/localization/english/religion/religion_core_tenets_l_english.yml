@@ -305,7 +305,7 @@
  tenet_divination_name: "占い"
  tenet_divination_desc: "人間たちの運命と世界の未来は、星々や隠された印に記されており、儀式や夢、お告げを通して、熟練した修行者たちは、彼方の精霊たちからこれらの秘密を占うことができる。"
  tenet_communal_possessions_name: "共有財産"
- tenet_communal_possessions_desc: "我ら全員に地球上の資源を平等に分け与えようというのが[ROOT.Faith.HighGodName]の御意志です。であれば全ての物は共同体の物とし、権力者が盗んだ富を再分配すべきではないでしょうか。"
+ tenet_communal_possessions_desc: "我ら全員に地上の資源を平等に分け与えようというのが[ROOT.Faith.HighGodName]の御意志である。であればすべての財産を共同体の共有物とし、権力者が盗んだ富を再分配すべきであろう。"
  doctrine_parameter_piety_from_gifts_active: "[gifts|E]や[artifacts|E]を贈ることにより[piety|E]を得ます"
  doctrine_parameter_piety_from_marrying_lowborn_active: "統治者が[lowborn|E]の[characters|E]と結婚することで[piety|E]を得ます"
  tenet_fp3_fedayeen_name: "フェダイーン"

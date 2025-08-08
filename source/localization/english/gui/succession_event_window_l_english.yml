@@ -179,7 +179,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_COMBAT_SKILLS:0 "恐るべき決闘者であり、多くの人は[ROOT.Char.GetHerHim]がトーナメントでも一騎打ちでも優れているだろうと期待している。"
  SUCCESSION_EVENT_WINDOW_HEIR_POOR_HEALTH:0 "虚弱で病弱な[ROOT.Char.GetWomanMan]であり、[ROOT.Char.Custom('GetRealmOrDomicile')|l]は[ROOT.Char.GetHerHim]に健康が戻ることを願っている。"
  SUCCESSION_EVENT_WINDOW_HEIR_BASTARD:0 "私生児である[ROOT.Char.GetFirstNameNoTooltip]は、必ずや宿命に[ROOT.Char.GetHerHis]の足跡を付けようとするだろう。"
- SUCCESSION_EVENT_WINDOW_HEIR_VIKING:0 "何度も襲撃を指揮してきたので、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の名前は世界中で知られ、恐れられている。"
+ SUCCESSION_EVENT_WINDOW_HEIR_VIKING:0 "何度も略奪を指揮してきたので、[ROOT.Char.GetFirstNamePossessiveNoTooltip]の名前は世界中で知られ、恐れられている。"
  SUCCESSION_EVENT_WINDOW_HEIR_CRUSADER:0 "異教徒に対して聖なる戦士を率いてきた[ROOT.Char.GetFirstNamePossessiveNoTooltip]の名は、[ROOT.Char.GetFaith.HighGodName]の目から見れば確実に愛されている。"
  SUCCESSION_EVENT_WINDOW_HEIR_THREE_SKILLS:0 "よろずの才に長けたるものなり。この者[ROOT.Char.Custom('GetSubjectPlural')]に讃えらるべし。"
  SUCCESSION_EVENT_WINDOW_HEIR_FIVE_SKILLS:0 "彼の者、天地にあまねくものへの素晴らしい知識に恵まれり。[ROOT.Char.GetFirstNamePossessiveNoTooltip]の治世は伝説とならん。"

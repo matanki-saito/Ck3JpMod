@@ -21,7 +21,7 @@
  fp1_jomsvikings.0011.t.reformed_norse:0 "古き方法の怒り"
  fp1_jomsvikings.0011.t.reformed_other:0 "古き神々の怒り"
  fp1_jomsvikings.0011.t.fallback:0 "[leader.GetPrimaryTitle.GetNameNoTierNoTooltip]の海賊"
- fp1_jomsvikings.0011.desc.intro:0 "災厄だ！[leader.GetPrimaryTitle.GetNameNoTier]の[leader.GetTitledFirstName]による[target_county.GetNameNoTier]の襲撃で伯爵領の半分が廃墟となってしまう恐れがある！\n\n"
+ fp1_jomsvikings.0011.desc.intro:0 "災厄だ！[leader.GetPrimaryTitle.GetNameNoTier]の[leader.GetTitledFirstName]による[target_county.GetNameNoTier]の略奪で伯爵領の半分が廃墟となってしまう恐れがある！\n\n"
  fp1_jomsvikings.0011.desc.ideological_reformist:0 "[ROOT.Char.GetFaith.GetName]が我々の祖先の信仰を汚すものであるという烙印を押し、この呪われた海賊たちは我々の[ROOT.Char.GetFaith.PriestNeuterPlural]を集団で虐殺し、我々の[ROOT.Char.GetFaith.HouseOfWorshipPlural]に火を放ち、すべては[leader.GetFaith.HighGodName]の名の下に行っていると主張している！"
  fp1_jomsvikings.0011.desc.ideological_other:0 "原理主義的な[leader.GetFaith.GetAdherentNamePlural]であるこれらの海賊たちは、[ROOT.Char.GetFaith.GetReligion.GetName]を自分たちの生き方に対する脅威と考えている。略奪者たちは単に略奪品を集めるだけでなく、[ROOT.Char.GetFaith.PriestNeuterPlural]を虐殺し、[ROOT.Char.GetFaith.HouseOfWorshipPlural]を燃やし、それらの偽りの神々について血に濡れた殺戮を叫んでいる。"
  fp1_jomsvikings.0011.desc.economic:0 "[leader.GetPrimaryTitle.GetNameNoTierNoTooltip]は私のような[ROOT.Char.GetFaith.GetAdherentName]を特に悪意を抱いているわけではないが、彼らは依然として略奪や襲撃に頼って生きており、私の土地は魅力的な目標である。あるいは…もしかすると、重いガフォール（税）を支払えば、私の被験者は難を逃れるかもしれないが？"

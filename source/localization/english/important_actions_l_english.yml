@@ -295,7 +295,7 @@
  action_not_rightful_liege_combined_label:1 "[recipient.GetShortUINameNoTooltip]"
  action_not_rightful_liege_click:0 "#I クリックで対象の[vassals|E]を表示#!"
  action_being_raided:1 "@raid_icon!略奪されています"
- action_being_raided_desc:1 "[recipient.GetShortUIName]からの[raiders|E]があなたの領国にいます。\n\n#help あなたの[armies|E]を召集して[battle|E]で彼らを打ち負かし、彼らがあなたの[realm|E]を襲撃し、[county_control|E]が減少しないようにしましょう#!"
+ action_being_raided_desc:1 "[recipient.GetShortUIName]からの[raiders|E]があなたの領国にいます。\n\n#help あなたの[armies|E]を召集して[battle|E]で彼らを打ち負かし、彼らがあなたの[realm|E]を略奪し、[county_control|E]が減少しないようにしましょう#!"
  action_being_raided_click:0 "#I クリックで略奪軍に移動#!"
  ACTION_IS_VISIBLE_READ_UNREAD:1 "[Select_CString( ImportantActionItem.IsRead, '#same', '#medium')] [ImportantActionItem.GetLabel]#!"
  ACTION_IS_VISIBLE_READ_UNREAD_COMBINED:1 "[Select_CString( ImportantActionItem.IsRead, '#same', '#medium;italic')] [ImportantActionItem.GetCombinedLabel]#!"

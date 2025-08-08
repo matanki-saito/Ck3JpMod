@@ -13,7 +13,7 @@
  RAID_ARMY_TOOLTIP:0 "#T 略奪#!\nこの部隊は [raid|E]。\n[gold_i][Army.GetRaidLoot|V0]を運んでいます。"
  ARMY_AT_LOOT_CAP:1 "これ以上[raid_loot|E]を運べない"
  ARMY_AT_LOOT_CAP_TOOLTIP:0 "#T 略奪の上限値#!\nこの部隊は[gold_i][Army.GetRaidLoot|V0]を運んでおり、自国領に帰還するまではこれ以上の[raid|E]を行えません。"
- MAP_RAID_TOOLTIP:0 "#T 進行中の襲撃#!\n予想される終了時点：[Raid.GetEta.GetString]\n獲得した[raid_loot|E]：[raid_loot_i][Raid.GetProvince.GetProvinceLoot|0V]\n\n#I クリックで襲撃を表示#!"
+ MAP_RAID_TOOLTIP:0 "#T 進行中の略奪#!\n予想される終了時点：[Raid.GetEta.GetString]\n獲得した[raid_loot|E]：[raid_loot_i][Raid.GetProvince.GetProvinceLoot|0V]\n\n#I クリックで略奪を表示#!"
  RECENTLY_RAIDED_TOOLTIP:0 "#T 最近略奪された#!\nこの所領は最近略奪されており、[Province.GetEndOfRecentlyLooted.GetString]までは再び略奪することはできません"
  ARMY_LOOT_INFO:0 "[raid_loot|E]：[raid_loot_i][Army.GetRaidLoot|V0]/[Army.GetLootCap|0]"
  MAP_ICON_EMBARK_COST:0 "@gold_icon![FleetPredictionMapIcon.GetEmbarkCost|V0][Select_CString(FleetPredictionMapIcon.IsCostOverOwned, '@warning_icon!', '')]"

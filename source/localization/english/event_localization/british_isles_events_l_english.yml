@@ -11,7 +11,7 @@
  british_isles.1001.a:0 "新たな時代のはじまりだ！"
  british_isles.1002.t:0 "デーンロウ"
  british_isles.1002.desc_same_culture:0 "デーンロウは[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))][restorer.GetName]の奮闘のおかげで再興した！この偉大な島は再び[restorer.GetCulture.GetName]の支配のもとにある。"
- british_isles.1002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))][restorer.GetName]と[restorer.GetHerHis]の配下の下劣な襲撃者どもが、この島々の一部を切り取って新たな王国を建て、デーンロウ王国が再興したと宣言した。\n\nイングランドじゅうに[restorer.GetCulture.GetName]の支配を回復しようという試みは以前よりも、より成功の見込みのあるものになるだろうと考えておくべきだ。"
+ british_isles.1002.desc:0 "[ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))][restorer.GetName]と[restorer.GetHerHis]の配下の下劣な略奪者どもが、この島々の一部を切り取って新たな王国を建て、デーンロウ王国が再興したと宣言した。\n\nイングランドじゅうに[restorer.GetCulture.GetName]の支配を回復しようという試みは以前よりも、より成功の見込みのあるものになるだろうと考えておくべきだ。"
  british_isles.1002.a:0 "[restorer.GetCulture.GetNameNoTooltip]の厄災がこの地を覆う。"
  british_isles.1002.b:0 "[restorer.GetCulture.GetNameNoTooltip]の勝利だ！"
  british_isles.1002.c:0 "ふむ、[restorer.GetCulture.GetNameNoTooltip]というのか？私も仲間に入れてくれ！"
