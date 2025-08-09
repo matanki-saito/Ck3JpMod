@@ -175,7 +175,7 @@
  single_combat.0001.desc.my_feedback.jungle_stalker:0 "密林の生い茂る葉は、移動を遅らせるどころか、一切の動きさえ封じよう。\nされど、影へと紛れるのに必要なのは、ほんの一瞬の足さばきだけだ。\n[my_foe.GetFirstNameNoTooltip]が苦戦する中、私はその環境を活かしきる――姿を消し、そして再び現れたときに…[myself.Custom('SignatureWeaponAttemptedHeavy')]を放つ！"
  single_combat.0001.desc.my_feedback.open_terrain_expert:0 "広々とした戦場を活かし、私は[my_foe.GetFirstNameNoTooltip]の周囲をゆったりと円を描くように動き回る。\n[my_foe.GetSheHe]の一撃で詰まる間合いなど微々たるもの、他方、私のあらゆる攻撃は離脱によって安全が担保されている。"
  single_combat.0001.desc.my_feedback.rough_terrain_expert.rocky:0 "我らが戦うこの岩だらけの地形は、極めて危険だ。\nどちらがつまずいて転げ落ちても、命を落としかねない。ここでは、荒々しい一押しが剣の切っ先と同じほどの脅威となる。\n私はその事実を、[my_foe.GetFirstNameNoTooltip]に何度も見せつけることで優越感さえ感じるようになってきた。"
- single_combat.0001.desc.my_feedback.rough_terrain_expert.boggy:0 "沼地は危険な場所だ。ここもその例外ではない。泥に足をとられながらも[my_foe.GetFirstNameNoTooltip]は私の攻撃を何とか防いでいるが、#EMP 間もなく#!その抵抗も終わるだろう。"
+ single_combat.0001.desc.my_feedback.rough_terrain_expert.boggy:0 "沼地というものは、どんな状況でも移ろいやすいものであり、ここも例外ではない。\nまだ[my_foe.GetFirstNameNoTooltip]を濁った水の中に突き落とすには至っていないが――\n[my_foe.GetSheHe]は#EMP 実に#!危ないところまで迫っていた。"
  single_combat.0001.desc.my_feedback.forest_fighter:0 "茨を挟んで向かい合い、間合いを詰めようとする[my_foe.GetFirstNameNoTooltip]の動きを阻む。一気に距離を詰め、鋭い一撃を放つ。この森は私の庭だ！"
  single_combat.0001.desc.my_feedback.raaargh:0 "雄たけびを上げながら、私は敵めがけて突進する。血への衝動が私の中を駆け巡り、激しい怒りと幸福が私の心を包み込む。"
  single_combat.0001.desc.my_feedback.hard_grit:0 "[my_foe.GetFirstNameNoTooltip]の攻撃を紙一重でかわし、素早く一歩踏み込んで反撃する。そしてすぐに再び間合いを取る。敵の攻撃は私に届かない。"

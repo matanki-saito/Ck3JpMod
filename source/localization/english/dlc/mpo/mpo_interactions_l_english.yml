@@ -261,7 +261,7 @@
  mpo_interactions_events.0101.desc_logistician: "$mpo_interactions_events.0101.logistician$私が休憩を提案すると、[recipient.GetSheHe|U]は不満げに袋から何かを取り出した。\n\n「まだ続けられるよ！」と叫びながら、[recipient.Custom('GetLocalStreetFood')]を手渡してきた。"
  mpo_interactions_events.0101.military_engineer: "互いに剣を交えるが、どれも的には当たらない。やがて[recipient.GetFirstNameNoTooltip]は距離を取り、地面に身を伏せた。\n\n「ケガでもしたのか？」私は心配になった"
  mpo_interactions_events.0101.desc_military_engineer: "$mpo_interactions_events.0101.military_engineer$…が、その瞬間、私の頭のすぐ横を石がかすめた。\n\n「もう少しで当たったのに！」と[recipient.GetSheHe|U]は小さなスリングに小石を装填しながら叫んだ。"
- mpo_interactions_events.0101.aggressive_attacker: "私はすぐさま [recipient.GetHerHim] に突進し、[recipient.GetHerHis]の剣を容赦なく打ち叩いた。\n\n「戦場ではやるかやられるかだ。全力を出し切れ。いや、それ以上にだ！」"
+ mpo_interactions_events.0101.aggressive_attacker: "私はすぐさま[recipient.GetHerHim]に突進し、[recipient.GetHerHis]の剣を容赦なく打ち叩いた。\n\n「戦場ではやるかやられるかだ。全力を出し切れ。いや、それ以上にだ！」"
  mpo_interactions_events.0101.desc_aggressive_attacker: "$mpo_interactions_events.0101.aggressive_attacker$\n\n言い終わる前に、[recipient.GetFirstNameNoTooltip]は私に飛びかかってきた。[recipient.GetHerHis|U]の一撃が木剣を粉砕し、私は防ぐ手段を失って降参するしかなかった。"
  mpo_interactions_events.0101.desc_unyielding_defender: "$mpo_interactions_events.0101.aggressive_attacker$\n\nしかし[recipient.GetFirstNameNoTooltip]は一歩も引かない。一撃ごとに受け流し、あるいは受け止めてくる。私はまったく[recipient.GetHerHim]に届かない。"
  mpo_interactions_events.0101.forder: "我らは川岸に降りて一戦を始めた。何度か打ち合った後、私は押し込まれて水中に落ちた。小さな土の盛り上がりをいくつか飛び移って、安定した足場を探す。"
