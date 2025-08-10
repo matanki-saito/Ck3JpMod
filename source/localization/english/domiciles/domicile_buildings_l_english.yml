@@ -483,7 +483,7 @@
  proving_grounds_martial_study_domicile_building: "軍事研究"
  proving_grounds_martial_study_domicile_building_desc: "#weak （[GetDomicileBuilding('proving_grounds_01').GetName]が必要）#!\nあらゆる戦いは過去に行われ、あらゆる戦争は戦いの結果である。なぜその結果を参考にしないのか？"
  proving_grounds_the_stick_game_domicile_building: "スティック・ゲーム"
- proving_grounds_the_stick_game_domicile_building_desc: "#weak （[GetDomicileBuilding('proving_grounds_01').GetName]が必要）#!\n折られずに最初に掴んだ者が鍋を獲得する。許されるのは肉体の浅い傷のみ、ナイフはなまくら、もし見つかればアウトだ。"
+ proving_grounds_the_stick_game_domicile_building_desc: "#weak （[GetDomicileBuilding('proving_grounds_01').GetName]が必要）#!\n怪我することなくナイフを最初に掴んだ者がご馳走にありつける。ナイフはなまくらで、浅い傷なら許されるが、それ以上の傷を負ったらアウトだ。"
  proving_grounds_bodyguard_drills_domicile_building: "護衛訓練"
  proving_grounds_bodyguard_drills_domicile_building_desc: "#weak （[GetDomicileBuilding('proving_grounds_01').GetName]が必要）#!\n我々の現在の……#EMP 状況#!は、任務に特有の脅威と課題をもたらしている。それらを氏と同じように真剣に受け止めるべきだろう。"
  camp_perimeter_01_domicile_building: "野営地の境界部"

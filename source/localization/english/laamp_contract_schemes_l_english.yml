@@ -2027,7 +2027,7 @@
  laamp_base_contract_schemes.5661.h.tt.need_groom_hunter_kenneler_or_spoiler: "[GetCourtPositionType('head_groom_camp_officer').GetName()]、[GetCourtPositionType('huntperson_camp_officer').GetName()]、[GetCourtPositionType('kennelperson_camp_officer').GetName()]、または [GetCourtPositionType('master_of_spoils_camp_officer').GetName()]のいずれも所属していない"
  laamp_base_contract_schemes.5661.i: "#EMP 誰ひとり#!として、失敗は#EMP 許されん#!ぞ。"
  laamp_base_contract_schemes.5662.t: "$laamp_base_contract_schemes.5034.t$：成功！"
- laamp_base_contract_schemes.5662.desc: "[employer.GetTitledFirstNamePossessive]の手下たちはよく頑張ったと思うが、[ROOT.Char.GetPrimaryTitle.GetDefinitiveName|l]は仇敵の屈辱的な手から膨大な数の家畜を取り戻した。\n\nそれらがもともと我々のものではなかったかもしれないが、それが何だというのだ？剣と斧を手に、我々は欲しいものを手に入れ、我々に抗おうとした者たちはすべて牧場で切り捨てた。\n\n彼らの遺体がカラスにとってよい獲物となることを願おう。"
+ laamp_base_contract_schemes.5662.desc: "[employer.GetTitledFirstNamePossessive]の手下たちはよく頑張ったと思うが、[ROOT.Char.GetPrimaryTitle.GetDefinitiveName|l]は奴の屈辱的な手から膨大な数の家畜を「取り戻し」た。\n\nまあ、元はと言えば我々の家畜ではなかったかもしれないが、それが何だというのだ？剣と斧を手に、我々は欲しいものを手に入れるのだ。そして我々に抗おうとした者たちはすべて牧場で切り捨てた。\n\n彼らの遺体がカラスにとってよい獲物となることを願おう。"
  laamp_base_contract_schemes.5662.a: "今宵だけは王の如き晩餐を！"
  laamp_base_contract_schemes.5663.t: "$laamp_base_contract_schemes.5034.t$：失敗"
  laamp_base_contract_schemes.5663.desc: "我々は最善を尽くしたものの、[employer.GetTitledFirstNamePossessive]軍の妨害がことごとく行く手を阻んだ。遠くの村には警告が送られ、豊富な家畜は他所へ移され、各所に新しい警備兵と再建された見張り台が立ち並ぶ有様だ……\n\n今日の勝利は[employer.GetTitleAsNameNoTooltip]のものとなった。"

@@ -87,7 +87,7 @@
  pilgrimage_intent.1060.desc.intro:0 "この道を歩いていると、多くの先人たちの思い出に出会う。\n\nここ[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]では、"
  pilgrimage_intent.1060.desc.mid.rome:0 "私は古代ローマのパンテオンの神殿の崩れかけた残骸に遭遇した。あらゆる[GetFaithByKey('hellenic_pagan').FertilityGodName|U]の美しさが半分割れてしまった口で私に微笑みかけ、[GetFaithByKey('hellenic_pagan').HighGodNamePossessive]の顔はほとんど認識できないほどに侵食が進んでいる。"
  pilgrimage_intent.1060.desc.mid.israel:0 "かつてここを約束の地として旅した古代ヘブライ人の面影を、私は数え切れないほど見てきた。かつて[GetFaithByKey('rabbinism').HighGodName|U]の礼拝の場として建っていた古代の神殿は、ヘブライ人たちが再びエジプト出国へと追い込まれたことで、現在は朽ち果てるままに放置されている。"
- pilgrimage_intent.1060.desc.mid.egypt:0 "私は古代ファラオの聳え立つモニュメントを見る。彼らは一生をかけて、雪花石膏と金で作られた、神への巨大な賛辞を作り上げたが、今ではそれらは砂埃をかぶり、年月とともにもろくなってしまった。"
+ pilgrimage_intent.1060.desc.mid.egypt:0 "私は古代ファラオの聳え立つモニュメントを見る。彼らは一生をかけて、雪花石膏と金で作られた、神々への巨大な賛辞を作り上げたが、今ではそれらは砂埃をかぶり、年月とともにもろくなってしまった。"
  pilgrimage_intent.1060.desc.mid.persia:0 "私は古代サーサーン、パルティア、セレウコス朝の遺跡を目にし続けている。数え切れないほどの帝国がこのペルシアにやってきては消え、それでもペルシアそのものは残っている。ゾロアスター教の古い寺院は国中で荒廃しており、いつか我々の聖地さえも粉々に崩れ去る日が来るかもしれない。"
  pilgrimage_intent.1060.desc.mid.ashokas_pillars:0 "私は、大昔に建てられたアショーカの柱をもう一本見つけた。その一つ一つに、何世紀も前にアショーカ皇帝が発した勅令が刻まれている。これらのダルマのモニュメントは、かつてマウリヤ帝国を構成していた土地のいたるところにあるが、帝国そのものは塵と化している。"
  pilgrimage_intent.1060.desc.mid.kush:0 "ナイル川沿いには、栄枯盛衰を繰り返した数々の帝国の面影が残っている。クシュのピラミッド、アクスムの神殿…どこを旅しても、崩れかけた過去のモニュメントを目にしないことはない。"
