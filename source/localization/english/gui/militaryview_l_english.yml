@@ -140,7 +140,7 @@
  BD_UNCONTROLLED_MAA_MAINTENANCE:0 "転属された[men_at_arms|E]"
  BD_UNCONTROLLED_MAA_MAINTENANCE_BASE:0 "転属された[men_at_arms|E]"
  MV_MEN_AT_ARMS_LABEL: "[men_at_arms|E]："
- MV_REGIMENT_START_SIZE_ADVENTURER: "兵士は五人から配備される（[MenAtArmsType.GetStackSize]に関わらず）"
+ MV_REGIMENT_START_SIZE_ADVENTURER: "兵士は5人から配備される（[MenAtArmsType.GetStackSize]人ではなく）"
  MV_ARMIES_SELECTION_PERSONAL: "あなたの軍"
  MV_ARMIES_SELECTION_IMPERIAL: "[GetPlayer.Custom('GetProvincialArmiesConceptNoTooltip')]"
  MV_MERCENARIES_SELECTION_MERCENARIES: "傭兵"

@@ -136,7 +136,7 @@
  gene_forehead_roundness:0 "額の丸み"
  gene_forehead_width:0 "額の幅"
  gene_forehead_height:0 "額の位置"
- gene_head_height:0 "頭の位置"
+ gene_head_height:0 "頭の長さ"
  gene_head_width:0 "頭の幅"
  gene_head_profile:0 "頭の輪郭"
  gene_head_top_height:0 "頭頂部の位置"

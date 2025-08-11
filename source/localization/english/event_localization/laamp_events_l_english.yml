@@ -962,7 +962,7 @@
  ep3_laamp_flavour_ewan.2071.c.tt.candidate_aptitude: "[candidate_3.GetFirstNamePossessive]の[aptitude|E]は[candidate_3.GetCourtPositionAptitude( GetCourtPositionType( 'second_camp_officer') )]"
  ep3_laamp_flavour_ewan.2071.d.post_filled: "[current_sic.GetFirstNameNoTooltip]はまだ職務を全うできる！"
  ep3_laamp_flavour_ewan.2071.d.post_empty: "その座は空けたままにしておこう。"
- ep3_laamp_flavour_ewan_2071_b_work_self_to_death_modifier: "勤労感謝"
+ ep3_laamp_flavour_ewan_2071_b_work_self_to_death_modifier: "懸命な仕事"
  ep3_laamp_flavour_ewan_2071_b_work_self_to_death_modifier_desc: "「休息」とは、怠け者たちが贅沢として自分に許す言い訳に過ぎない。"
  ep3_laamp_flavour_ewan.2081.t: "器械と潤滑油"
  ep3_laamp_flavour_ewan.2081.desc.intro: "我々の小さな集落は、ここ最近、数晩ごとに見事な手際で設営されている。まず一つ、次にまた一つと建てられ、人々と道具が次々と列を広げて隣人を助け合い、まさに作業能率の模範となっている。\n\n"

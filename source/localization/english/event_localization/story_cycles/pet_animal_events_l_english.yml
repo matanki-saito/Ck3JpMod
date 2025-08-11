@@ -296,7 +296,7 @@
  pet_animal.3020.desc_intro_market: "商人の露店で[ROOT.Char.Custom('EagleStoryHerHim')]を買い取った日のことを。"
  pet_animal.3020.desc_intro_stolen: "他人の手から[ROOT.Char.Custom('EagleStoryHerHim')]を奪い取った、あの決断の瞬間を。"
  pet_animal.3020.desc_intro_none: "[ROOT.Char.Custom('EagleStoryHerHim')]を偶然見つけた日のことを。"
- pet_animal.3020.desc: "そして、その後ともに過ごしたすべての思い出が胸をよぎる。幾年の時を経て[ROOT.Char.Custom('EaglePersonalityTrait1')]な性格を身につけた[ROOT.Char.Custom('EagleStoryName')]は、今や私にとってかけがえのない相棒だ。もはや狩りに[ROOT.Char.Custom('EagleStoryHerHim')]がいないなど、想像もできない。\n\n"
+ pet_animal.3020.desc: "そして、その後ともに過ごしたすべての思い出が胸をよぎる。幾年の時を経て[ROOT.Char.Custom('EaglePersonalityTrait1')]ような性格を身につけた[ROOT.Char.Custom('EagleStoryName')]は、今や私にとってかけがえのない相棒だ。もはや狩りに[ROOT.Char.Custom('EagleStoryHerHim')]がいないなど、想像もできない。\n\n"
  pet_animal.3020.desc_normal: "だがこの存在は、私のような者に縛られるべきではない。[ROOT.Char.Custom('EagleStorySheHe')]自身の血を残し、大空を舞うべきなのだ。いまこそ、解き放つ時なのだろうか？"
  pet_animal.3020.desc_let_go: "かつてもこの葛藤に直面し、そのとき私は[ROOT.Char.Custom('EagleStoryName')]を傍らに置く道を選んだ。[ROOT.Char.Custom('EagleStorySheHe')]を自由にすべきだとわかってはいるが、まだ衰えきったわけでもない。もうしばし共にいてもよいのではないか？"
  pet_animal.3020.desc_let_go_2: "それでも、私は[ROOT.Char.Custom('EagleStoryName')]をあまりにも長く束縛してきた。いまこそ、[ROOT.Char.Custom('EagleStoryHerHim')]を解き放つ時だ。"
