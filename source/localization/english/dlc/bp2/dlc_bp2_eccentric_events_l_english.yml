@@ -99,7 +99,7 @@
  bp2_yearly.8040.desc.mid.same_location: "[crush.GetHerHim]が[ROOT.Char.Custom('GetCourt')]となり、今なお[ROOT.Char.GetFaith.PositiveAfterLife]のように輝いているのを見た。私の心臓はバクバクと鳴り、手のひらは汗ばむ。まるで私が[ROOT.Char.Custom('GirlBoy')]であるかのようだ。\n\n[crush.GetSheHe]がかつての[crush.Custom('GirlBoy')]のままだとは思いにくいし、ましてや私の気持ちが変わらないなどとどうして言えるだろうか？"
  bp2_yearly.8040.desc.mid.different_location: "幾年を超えて、子供時代私を支配したような[crush.GetHerHim]の考えが真夜中、私の心を再び覆い隠す。\n\n在りし日の[crush.GetSheHe|U]はもう立派な[crush.GetWomanMan]だ。[crush.GetHerHim]の気持ちを届けたいという気持ち、羽ペンに手を伸ばしたいという気持ちを抑えることが出来ない。"
  bp2_yearly.8040.desc.outro: "あるいは、この気持ちがついに届く時が来るとしたら。"
- bp2_yearly.8040.a: "我が愛、聞いてくれ！"
+ bp2_yearly.8040.a: "我が愛を聞いてくれ！"
  bp2_yearly.8040.b: "ガキの考えだ。捨ててしまおう。"
  bp2_yearly.8040.c: "結婚するか！"
  bp2_yearly.8041.t: "一人の[ROOT.Char.GetWomanMan|U]として"
