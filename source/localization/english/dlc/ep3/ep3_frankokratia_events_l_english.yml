@@ -79,7 +79,7 @@
  ep3_frankokratia_events.0031.a: "これは…現実なのか？"
  ep3_frankokratia_events.0041.t: "帝国のあらゆる富"
  ep3_frankokratia_events.0041.intro_constantinople: "歓声の沸き起こる中、我々の擁立した[claimant.GetFirstName]が[claimant.GetCapitalLocation.GetTitle.GetNameNoTier]の偉大なる門をくぐった。ハギア・ソフィアの壮大なドームといと高き[Glossary( 'セラフィム', 'SERAPHIM_GLOSS')]の下で、[claimant.GetSheHe]はついに[claimant.GetTitleAsNameNoTooltip]として登極する。我々の喜びと驚きがいかほどのものであったことか！\n\n私は淡々と[Glossary( 'ブラケルナエ宮殿', 'BLACHERNAE_PALACE_GLOSS')]へと案内された。"
- ep3_frankokratia_events.0041.intro_generic: "歓声の沸き起こる中、我々の擁立した[claimant.GetFirstName]が[claimant.GetCapitalLocation.GetTitle.GetNameNoTier]の偉大なる門をくぐった。ハギア・ソフィアの壮大なドームといと高き[Glossary( '熾天使', 'SERAPHIM_GLOSS')]の下で、[claimant.GetSheHe]はついに[claimant.GetTitleAsNameNoTooltip]として登極する。我々の喜びと驚きがいかほどのものであったことか！\n\n私は淡々と皇宮へと案内された。"
+ ep3_frankokratia_events.0041.intro_generic: "歓声の沸き起こる中、我々の擁立した[claimant.GetFirstName]が[claimant.GetCapitalLocation.GetTitle.GetNameNoTier]の偉大なる門をくぐった。帝都の聖堂の壮大なドームといと高き[Glossary( '熾天使', 'SERAPHIM_GLOSS')]の下で、[claimant.GetSheHe]はついに[claimant.GetTitleAsNameNoTooltip]として登極する。我々の喜びと驚きがいかほどのものであったことか！\n\n私は淡々と皇宮へと案内された。"
  ep3_frankokratia_events.0041.desc: "そして終わりなき式典に飽き飽きとしているうちに、私の中にこれまでとは異なる感情が湧き上がってくる…\n\n「我が前任者は、逃亡に当たって国庫から多くの金を持ち去ったようだ」[claimant.GetTitledFirstNameNoTooltip]は説明する。"
  ep3_frankokratia_events.0041.trying_to_pay: "「いかに努力を尽くそうとも、我が帝国が諸君ら十字軍に提供できるのは報酬の#EMP 一部#!であることを了承願いたい」"
  ep3_frankokratia_events.0041.not_trying_to_pay: "「諸君ら十字軍に約束の報酬を支払うことはできない。まあ…#EMP そなた#!にはずっと、#EMP 遥かに#!少ない額ならくれてやろう」"
