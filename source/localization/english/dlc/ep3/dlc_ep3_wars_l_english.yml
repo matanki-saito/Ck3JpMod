@@ -3,7 +3,7 @@
  ep3_laamp_adventurer_kingdom_invasion: "$EP3_LAAMP_INVASION_CB_NAME$"
  ep3_laamp_adventurer_duchy_invasion: "$EP3_LAAMP_INVASION_CB_NAME$"
  ep3_laamp_adventurer_county_invasion: "$EP3_LAAMP_INVASION_CB_NAME$"
- EP3_LAAMP_INVASION_WAR_NAME: "$ORDER$[ATTACKER.GetFirstNamePossessive]の[TITLE.GetBaseNameNoTier]$EP3_LAAMP_INVASION_CB_NAME$"
+ EP3_LAAMP_INVASION_WAR_NAME: "$ORDER$[ATTACKER.GetFirstNamePossessive]の[TITLE.GetBaseNameNoTier]に対する$EP3_LAAMP_INVASION_CB_NAME$"
  EP3_LAAMP_INVASION_WAR_NAME_BASE: "[ATTACKER.GetFirstName][DEFENDER.GetPrimaryTitle.GetName]"
  EP3_LAAMP_INVASION_CB_NAME: "冒険者による侵略戦争"
  EP3_LAAMP_INVASION_CB_COUNTY_NAME: "冒険者による[county|E]侵略戦争"
