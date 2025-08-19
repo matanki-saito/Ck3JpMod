@@ -7,5 +7,5 @@
  TITLE_APPOINTMENT_HOUSE: "[house|E][DynastyHouse.GetName]の一員"
  TITLE_APPOINTMENT_SUCCESSION_SCORE: "[candidate_score|E]：#UND [CharacterListItem.GetFixedPoint( 'score' )|V0]#!"
  TITLE_APPOINTMENT_SUCCESSION_TOP_CANDIDATE: "あなたの第一の候補者："
- TITLE_APPOINTMENT_RANK: "[CharacterListItem.GetFixedPoint( 'position' )|0]。"
+ TITLE_APPOINTMENT_RANK: "第[CharacterListItem.GetFixedPoint( 'position' )|0]位"
  TITLE_APPOINTMENT_CANDIDATE_SCORE_TT_HEADING: "[candidate_score|E]：#UND [CharacterListItem.GetFixedPoint( 'score' )|V0]#!"

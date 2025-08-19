@@ -412,7 +412,7 @@
  ep2_locale_events.5020.c:0 "私が感動させなければならないのは、ただ一人。自分自身だ。"
  tournament_ground_flexing:0 "印象的な訓練"
  ep2_locale_events.5020.a.success.tt:0 "[impressed_lover.GetShortUIName]との関係で[fertility|E]が向上しました"
- ep2_locale_events.1520.t:0 "双子月"
+ ep2_locale_events.1520.t:0 "第二の月"
  ep2_locale_events.1520.desc:0 "「前兆だ！しるしだ！」[ROOT.Char.GetFaith.HouseOfWorship]から叫び声が聞こえてくるので、私はドアに近づく。[tournament_priest.GetTitledFirstName]が空を指差しながら、私の前に立ちふさがる。[tournament_priest.GetHerHis]の半狂乱になった視線を追って私はそれを見る。月だ。もう一つの月。\n\n「古い文書で読んだことがあります。」[tournament_priest.GetSheHe]は続ける。「何かを知らせているのです——しかし何を？」"
  ep2_locale_events.1520.a:0 "前兆だ！私の勝利を告げるものだ！"
  ep2_locale_events.1520.b:0 "月はコインのように丸い。富であることは明らかだ。"
