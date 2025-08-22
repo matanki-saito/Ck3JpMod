@@ -765,7 +765,7 @@
  YOU_ARE_MY_DESIGNATED_HEIR: "[actor.GetShortUIName|U]は私の[designated_heir|E]である：$VALUE|=+0$"
  support_candidate_friend_progress_toast: "支援は歓迎される"
  harm_candidate_rival_progress_toast: "反対は怒りによって迎えられる"
- support_candidacy_success_reward_tt: "[secondary_recipient.GetShortUIName]が[target.GetNameNoTier]を手に入れた場合、[house|E]以外でもっとも支持した人物に報いてくれるかもしれない。"
+ support_candidacy_success_reward_tt: "[secondary_recipient.GetShortUIName]が[target.GetNameNoTier]を手に入れた場合、他の[house|E]に属す最大の支援者に報いてくれるかもしれません"
  player_supporter_agree_tt: "@alert_icon! #alert_trial [supporter.GetShortUIName]の同意が必要です#!"
  ep3_interactions_events.0600.t: "待望せる代弁者"
  ep3_interactions_events.0600.desc: "[ROOT.Char.GetPrimaryTitle.GetNameNoTier]の統治権を確保するための私の試みは、豊かな実を結んだ。今や[ROOT.Char.GetTitleAsName]として、私は新たな顧問や大臣、監督官たちに囲まれている……彼らは口々に、友人や恩人への十分な報酬を求めてくる。\n\n[supporter.GetName]――[ROOT.Char.GetHouse.GetName]の者ではないとはいえ、私の擁立において積極的に声を上げてくれた重要な支持者であり、私の最大の政治的債権者でもある。[supporter.GetHerHis]の寛大さを無視することは、もはや侮辱に等しいだろう。"

@@ -593,7 +593,7 @@
  ep3_decisions_event.7000.desc: "野営地の外をうろついて、[forage_province.Custom('TerrainTypeProvince')]あたりに何かないか探している。獲物や糧になるものがないかを求めているのだ。\n\n"
  ep3_decisions_event.7000.winter_forage: "[forage_province.GetName]は温暖な季節であればより多くを提供してくれるかもしれない。しかし、厳しい冬の寒さは[forage_province.Custom('GetProvinceGroundDesc')]を強張らせ、寒気で[forage_province.Custom('GetTerrainTypePlural')]を覆いつくす。ここでは多くを望めないだろう…"
  ep3_decisions_event.7000.difficult_forage: "[forage_province.Custom('GetProvinceGroundDesc')]や[forage_province.GetName]の[forage_province.Custom('GetTerrainTypePlural')]を漁りまわった結果、恵みとなるものはほとんどないことだけがわかった。この地に胃袋の足しになるものは何もない。 最大の望みは狩りをすることだ。"
- ep3_decisions_event.7000.difficult_hunt: "[forage_province.GetName]近辺には探すまでもないほど多くのキノコに根菜、ベリー類でが存在する。その一方で、狩人の楽園ではなさそうだ。ノウサギの一匹ですら見当たらない。"
+ ep3_decisions_event.7000.difficult_hunt: "[forage_province.GetName]近辺には探すまでもないほど多くのキノコに根菜、ベリー類が存在する。その一方で、狩人の楽園ではなさそうだ。ノウサギの一匹ですら見当たらない。"
  ep3_decisions_event.7000.good: "幸運なことに、[forage_province.GetName]の気候は穏やかで豊かだ。どこを見ても、自然の恵みが[forage_province.Custom('GetTerrainTypePlural')]一面に溢れ出している。ここでは十分にやっていけるだろう。"
  ep3_decisions_event.7000.fallback: "[forage_province.GetName]は我々にとって好都合だろう。[forage_province.Custom('GetTerrainTypePlural')]は生命に満ち溢れており、ここで食料を見つけるには、ただ適切な時間と注意を払うだけでよい。"
  ep3_decisions_event.7000.a: "何かしらの食べ物を見つけられるはず。"
