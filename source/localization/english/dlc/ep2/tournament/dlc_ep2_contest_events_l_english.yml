@@ -19,7 +19,7 @@
  contest_events_closing_marriage_invalid_slots:0 "$contest_events_closing_marriage_invalid$ そもそも、[contest_winner.GetWomanMan]が娶れる伴侶の数には限りがあるのだからな。"
  contest_events_closing_marriage_invalid_family:0 "$contest_events_closing_marriage_invalid$[marriage_prize.GetWomanMan]が[marriage_prize.GetHerHis]の[marriage_prize.Custom2('RelationToMeShort', contest_winner)]と婚姻するなど、許されることではない。"
  contest_events_closing_marriage_invalid:1 "\n\nどうやら運命のいたずらにより、[host.GetTitledFirstNamePossessive]の[host.Custom2('RelationToMeShort', marriage_prize)]――[marriage_prize.GetFirstNamePossessive]を娶るという約束の賞典は、果たされぬまま終わってしまったようだ。"
- contest_events_closing_marriage_host_refused:0 "\n\n結局のところ、適格な求婚者は[host.GetTitledFirstName][host.GetHerselfHimself]ただひとりであったが、[host.GetSheHe]は[host.GetHerHis][host.Custom2('RelationToMeShort', marriage_prize)]との婚姻を選ばなかったのだ。"
+ contest_events_closing_marriage_host_refused:0 "\n\n結局のところ、適格な求婚者は[host.GetTitledFirstName][host.GetHerselfHimself]ただひとりであったが、[host.GetSheHe]は[host.GetHerHis]の[host.Custom2('RelationToMeShort', marriage_prize)]との婚姻を選ばなかったのだ。"
  contest_events_closing_marriage_host:0 "幸運と紛れもなき実力の結果、私自身が適格な勝者のひとりとして名を連ねることとなった…。"
  contest_events_closing_marriage_three:0 "[bachelor_1.GetFullName]、[bachelor_2.GetFullName]、そして[bachelor_3.GetFullName]は皆、勝者としての資格を持ち、それぞれに婚姻を望んでいる。"
  contest_events_closing_marriage_two:0 "[bachelor_1.GetFullName]と[bachelor_2.GetFullName]のふたりは、いずれも栄えある勝者として、婚姻の候補となり得る者たちだ。"

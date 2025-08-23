@@ -83,7 +83,7 @@
  travel_danger_type_coastal_sea:0 "沿岸"
  travel_danger_type_coastal_sea_desc:0 "海岸にも何が潜んでるかわかったもんじゃないだろう？"
  travel_danger_type_plains:0 "平原"
- travel_danger_type_plains_desc:0 "平原は盗賊があなたを見つけるのに苦労しないだろう"
+ travel_danger_type_plains_desc:0 "平原では盗賊があなたを見つけるのに苦労しないだろう"
  travel_danger_type_oasis:0 "オアシス"
  travel_danger_type_oasis_desc:0 "オアシスか、蜃気楼か？"
  PROVINCE_DANGER_COUNTY_CONTROL:0 "[county_control|E]"

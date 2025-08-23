@@ -419,7 +419,7 @@
  food_prefix_salt: "塩味"
  chance_of_food_poisoning: "食中毒の可能性 #weak （[GetTrait('ill').GetName( GetPlayer )]）#!：#N [SCOPE.ScriptValue('food_poison_value')|0]%#!"
  bp3_journey.2200.t: "[location.GetCounty.GetTitle.GetNameNoTierNoTooltip]の[local_character.Custom('RaunchyComplimentNoun')|U]"
- bp3_journey.2200.desc: "「お連れが欲しいのですか、我が[ROOT.Char.GetLadyLord]？」と、[local_character.GetWomanMan]が艶やかに囁きつつ、[local_character.GetHerHis][local_character.Custom('ObjectifiedFeature')]を指先でなぞる。「どのような望みであれ、きっとお応えできましょう」──[local_character.GetSheHe]は優しく続ける。\n\n「温かな香油であなたの身体を癒すことも、[SCOPE.Custom('RandomEntertainmentTextName')]を読んで心を慰めることもできますし…もっと肉欲に近いお望みであれば、一夜を共にすることも…」"
+ bp3_journey.2200.desc: "「お連れが欲しいのですか、我が[ROOT.Char.GetLadyLord]？」と、[local_character.GetWomanMan]が艶やかに囁きつつ、[local_character.GetHerHis]の[local_character.Custom('ObjectifiedFeature')]を指先でなぞる。「どのような望みであれ、きっとお応えできましょう」──[local_character.GetSheHe]は優しく続ける。\n\n「温かな香油であなたの身体を癒すことも、[SCOPE.Custom('RandomEntertainmentTextName')]を読んで心を慰めることもできますし…もっと肉欲に近いお望みであれば、一夜を共にすることも…」"
  bp3_journey.2200.spread_legend_intent: "あなたにもお読みしましょう──[ROOT.Char.GetPromotedLegend.GetNameNoTooltip]という物語を！"
  bp3_journey.2200.knowledge_hoarding: "私が欲するのは連れ──だが、会話という形でな。"
  bp3_journey.2200.curiosity: "見事なお方だ。こんな暮らしは捨てて、我がもとに来ぬか。"

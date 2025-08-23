@@ -858,7 +858,7 @@
  hh_recipient_has_personal_maa: "[recipient.GetShortUIName]は個人的な[men_at_arms|E]連隊を#bold 持っていない#!"
  hh_recipient_has_valid_courtier: "[recipient.GetShortUIName]は関連するライフスタイルの高い能力や教育、何らかの経歴を持った未雇用の廷臣や客人がいる。"
  request_ally_title_troops_interaction: "兵力の要請"
- request_ally_title_troops_interaction_desc: "[recipient.GetShortUIName]に[recipient.GetHerHis][GetPlayer.Custom('GetProvincialArmyConcept')]とそのすべての[title_men_at_arms|E]を貸与するよう要請する。"
+ request_ally_title_troops_interaction_desc: "[recipient.GetShortUIName]に[recipient.GetHerHis]の[GetPlayer.Custom('GetProvincialArmyConcept')]とそのすべての[title_men_at_arms|E]を貸与するよう要請する。"
  request_emperor_title_troops_interaction: "兵力を主君に依頼する"
  request_emperor_title_troops_interaction_desc: "[recipient.GetShortUIName]に対し、[recipient.GetHerHis]自身の軍隊、または他の[GetPlayer.Custom('GetGovernorConcept')]の[GetPlayer.Custom('GetProvincialArmyConcept')]から追加の兵を割り当ててもらうよう要請を送ります"
  request_emperor_title_troops_approve_desc: "[recipient.GetShortUIName]は、あなたの兵力要請を承認する"
