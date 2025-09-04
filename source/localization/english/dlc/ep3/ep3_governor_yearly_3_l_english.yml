@@ -213,7 +213,7 @@
  ep3_governor_yearly.3060.desc_high_legit: "\n\n[emperor.GetHerHis|U]の臣民たちは祈りの声を上げる。#EMP 「[ROOT.Char.GetFaith.random_GoodGodNames]よ、陛下の治世を今も、永遠に守り給え！悠久の時にわたって！」#!"
  ep3_governor_yearly.3060.desc_medium_legit: "\n\n 投じられた貨幣が華やかな行列の上を舞う！[emperor.GetTitledFirstNameNoTooltip]の前に跪く行政官たちは…仮に忠実ではないとしても、少なくとも怖気付いてはいるようだ。"
  ep3_governor_yearly.3060.desc_low_legit: "\n\n媚び諂いに満ちた式典が執り行われる中、領国中で囁きが飛び交っている…この[emperor.Custom('InsultAdjective')][emperor.GetTitleAsNameNoTooltip]は如何なる権利の下に統治を行うというのか？"
- ep3_governor_yearly.3060.a: "今、[emperor.GetTitleAsNamePossessiveNoTooltip]の[emperor.Custom2('RelationToMeShort', SCOPE.sC('root_scope'))]は確かに報われたらしい！"
+ ep3_governor_yearly.3060.a: "さて、[emperor.GetTitleAsNamePossessiveNoTooltip]の[emperor.Custom2('RelationToMeShort', SCOPE.sC('root_scope'))]は相応に報われるべきだろうな！"
  ep3_governor_yearly.3060.b: "この政権を非難しなければ！"
  ep3_governor_yearly.3060.b.flavor: "そして準備するのだ。影の中で、非難以上のことをするために…"
  ep3_governor_yearly.3060.c: "新たな[emperor.GetTitleAsNameNoTooltip]を公式に支持する。"
