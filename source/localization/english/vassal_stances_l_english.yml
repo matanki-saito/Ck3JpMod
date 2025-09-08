@@ -29,7 +29,7 @@
  courtly_tax_contribution_mult:0 "$courtly_vassal$の[tax|E][modifier_contribution|E]"
  courtly_levy_contribution_add:0 "$courtly_vassal$の[levy|E][modifier_base_contribution|E]"
  courtly_levy_contribution_mult:0 "$courtly_vassal$の[levy|E][modifier_contribution|E]"
- parochial:0 "偏屈である"
+ parochial:0 "保守的な"
  parochial_desc:0 "$parochial$[vassals|E]は、安定、非集権化、平和、そして領国が国外の問題から距離を置くことを望んでいます。高潔な封臣や控えめな封臣は、しばしばこの[vassal_stance|E]を採用します。\n\n#low $parochial$封臣は、以下のような主君を好みます：#!\n$EFFECT_LIST_BULLET$[holdings|E]の建設やアップグレードを行う\n$EFFECT_LIST_BULLET$自分たちを[close_family|E]の[guardians|E]に任命する\n$EFFECT_LIST_BULLET$$task_domestic_affairs$の[councillor_task|E]を使用する\n\n#low $parochial$封臣は、以下のような主君を嫌います：#!\n$EFFECT_LIST_BULLET$高い[crown_authority|E]を持っている\n$EFFECT_LIST_BULLET$重大な[wars|E]を宣言する\n\n彼らは高い[stewardship_i][stewardship|E]能力を持つ高潔で合理的な[heirs|E]を好みます。"
  parochial_filter_option:0 "$parochial$"
  parochial_filter_option_desc:0 "[GetVassalStance( 'parochial' ).GetName][vassal_stance|E]を持つ人物のみ表示"

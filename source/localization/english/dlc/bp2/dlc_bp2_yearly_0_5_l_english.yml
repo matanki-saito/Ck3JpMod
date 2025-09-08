@@ -9,7 +9,7 @@
  bp2_yearly_0641_vs_courtly_modifier_desc: "誰かがこの人物の封臣の耳に甘い蜜をばらまいているのだ。"
  bp2_yearly_0641_vs_glory_hound_modifier: "良い評判：栄光を求める封臣"
  bp2_yearly_0641_vs_glory_hound_modifier_desc: "$bp2_yearly_0641_vs_courtly_modifier_desc$"
- bp2_yearly_0641_vs_parochial_modifier: "良い評判：偏屈な封臣"
+ bp2_yearly_0641_vs_parochial_modifier: "良い評判：保守的な封臣"
  bp2_yearly_0641_vs_parochial_modifier_desc: "$bp2_yearly_0641_vs_courtly_modifier_desc$"
  bp2_yearly_0641_vs_zealot_modifier: "良い評判：狂信的な封臣"
  bp2_yearly_0641_vs_zealot_modifier_desc: "$bp2_yearly_0641_vs_courtly_modifier_desc$"
