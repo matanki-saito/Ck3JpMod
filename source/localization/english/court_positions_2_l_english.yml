@@ -134,7 +134,7 @@
  court_poet_strife_aptitude_5_modifier: "$court_poet_strife_aptitude_1_modifier$"
  drinks_alcohol: "酒を飲む"
  foreign_emissary_court_position_task_entertain_court_tt: "毎年、$foreign_emissary_court_position$は、ランダムな[courtier|E]の[stress_loss_i][stress|E]を軽減する可能性があります\n#weak （あなたの[children|E]など、親しい人物が優先されます）#!\n[aptitude|E]が$aptitude_good$以上であれば、毎年最大2人の[courtiers|E]を対象にできます。"
- artifact_belligerent_vassal_opinion_1_modifier: "好戦的な評価"
+ artifact_belligerent_vassal_opinion_1_modifier: "武闘派の評価"
  artifact_fertility_growth_1_modifier: "肥沃度の成長"
  artifact_herd_gain_1_modifier: "家畜の獲得量"
  artifact_herd_conversion_1_modifier: "家畜の変換効率"
