@@ -1,7 +1,7 @@
 ﻿l_english:
 
  PASS_LAW_TOOLTIP_TITLE: "[SelectLocalization( GuiLaw.IsEnacted, Law.GetNameNoTooltip, Law.GetPassLawPhrase)]"
- PASS_LAW_TITLE_DEFAULT: "Pass [Law.GetNameNoTooltip]"
+ PASS_LAW_TITLE_DEFAULT: "[AddLocalizationIf( Not(Law.GetLawGroup.HasFlag( 'realm_no_pass' ) ), 'Pass ' )][Law.GetNameNoTooltip]"
 
  ADD_LAW_CONFIRMATION_TITLE: "[Law.GetAddLawConfirmationTitle]"
  ADD_LAW_CONFIRMATION_TITLE_DEFAULT: "Pass [Law.GetNameNoTooltip] Law"

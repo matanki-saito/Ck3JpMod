@@ -83,7 +83,7 @@
  respect_opinion:0 "Respect"
  disrespect_opinion: "Disrespect"
  refusal_opinion:0 "Refusal"
- kindness_opinion:0 "Showed kindness"
+ kindness_opinion:0 "Showed Kindness"
  reputation_opinion:0 "Reputation"
  cruelty_opinion:0 "Cruel"
  upset_opinion: "Upset"
@@ -125,6 +125,12 @@
  amazed_opinion: "Amazed"
  honesty_opinion: "Honesty"
  charmed_opinion: "Charmed"
+ apologized_opinion: "Apologized"
+ unimpressed_opinion: "Unimpressed"
+ holy_anointment_opinion: "Holy Anointment"
+ heathen_anointment_opinion: "Heathen Anointment"
+ self_crowning_opinion: "Self-Crowning"
+ ach_synergy_culture_opinion: "$oath_mend_the_fracture_tradition_name$"
 
  plotting_against_vassals_opinion:0 "Plotting Against My Vassals"
  loved_one_dungeon_death:0 "Caused the death of a loved one"
@@ -384,3 +390,9 @@
 
  blood_brother_close_family_opinion: "Blood Brotherhood in Close Family"
  sent_herd_opinion: "Received Gift of Herd"
+
+ fellow_supporter_opinion: "Fellow Supporter"
+ rival_supporter_opinion: "Misguided Supporter"
+ fellow_detractor_opinion: "Fellow Detractor"
+ rival_detractor_opinion: "Disloyal Detractor"
+ crowned_consort_opinion: "Regal Consort"

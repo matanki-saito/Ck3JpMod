@@ -236,9 +236,9 @@
  feast_default.2006.d:0 "Please, leave me alone!"
 
  feast_default.2007.t:1 "Exposed Affair!"
- feast_default.2007.desc:0 "A loud crash resounds through the great hall as one of the doors to the service quarters break.\n\nIn a barely clothed tumble, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_1') )] [lover_guest_1.GetTitledFirstName] and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_2') )] [lover_guest_2.GetTitledFirstName] spill out on the floor in front of everyone."
+ feast_default.2007.desc:0 "A loud crash resounds through the great hall as one of the doors to the service quarters break.\n\nIn an unclothed tumble, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_1') )] [lover_guest_1.GetTitledFirstName] and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover_guest_2') )] [lover_guest_2.GetTitledFirstName] spill out on the floor in front of everyone."
  feast_default.2007.a_chaste:0 "I can't bear to look!"
- feast_default.2007.a_lustful:0 "Just #EMP imagine#! what they could have been up to...!"
+ feast_default.2007.a_lustful:0 "Just #EMP imagine#! what they were up to..."
  feast_default.2007.a_sadistic:0 "Hah! This is delicious!"
  feast_default.2007.a_compassionate:0 "No one deserves this kind of shame..."
  feast_default.2007.b:0 "To imagine that #EMP they#! had such a secret!"

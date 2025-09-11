@@ -13,3 +13,4 @@
  decision_group_type_nomad_major: "Major Nomadic Decisions"
  decision_group_type_nomad_minor: "Nomadic Decisions"
  decision_group_type_realm: "Realm Decisions"
+ decision_group_type_oaths: "Oath Decisions"

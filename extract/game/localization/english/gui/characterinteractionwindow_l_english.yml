@@ -9,6 +9,7 @@
  interaction_category_favorites: "Favorites"
  interaction_category_diplomacy:0 "Diplomacy"
  interaction_category_friendly:0 "Personal"
+ interaction_category_friendly_filter_tag_desc: "Personal Interactions"
  interaction_category_laamp: "Landless Adventurer"
  interaction_category_hostile: "Hostile"
 

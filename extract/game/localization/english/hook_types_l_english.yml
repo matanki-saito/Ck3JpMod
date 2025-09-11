@@ -30,3 +30,6 @@
  contact_list_weak_hook: "Excelled at Contract"
  blood_brother_hook: "Blood Brother"
  blood_sister_hook: "Blood Sister"
+
+ oath_claimant_hook: "Indebted Claimant"
+ oath_claimant_heir_hook: "Heir of Indebted Claimant"

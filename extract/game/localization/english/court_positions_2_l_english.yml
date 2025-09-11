@@ -92,6 +92,7 @@
  artifact_domain_tax_mult_1_modifier: "Domain Taxes"
  artifact_zealot_vassal_opinion_1_modifier: "Zealot Opinion"
  artifact_zealot_tax_contribution_mult_1_modifier: "Zealot Tax Contribution"
+ artifact_belligerent_tax_contribution_mult_1_modifier: "Belligerent Tax Contribution"
  artifact_court_grandeur_baseline_add_1_modifier: "Court Grandeur"
  artifact_development_growth_1_modifier: "Development Growth"
  artifact_glory_hound_vassal_opinion_1_modifier: "Glory Hound Opinion"

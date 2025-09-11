@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_english:
  DNA_MODIFIERS: "DNA Modifiers"
  DNA_MODIFIERS_LINK: "#E $DNA_MODIFIERS$#!"
  PORTRAIT_ANIMATION: "Portrait Animation"
@@ -916,7 +916,7 @@
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_ccp4_sami_com_01:0 "@arctic_attire_icon! Sami Cap"
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_ccp4_sami_lo_nob_01:0 "@arctic_attire_icon! Sami Hat"
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_ccp4_sami_hi_nob_01:0 "@arctic_attire_icon! Fine Sami Hat"
- 
+
 ###################
 ### CCP4 Khanty ###
 ###################
@@ -2022,6 +2022,7 @@
  bribing: "Bribing"
  chess_certain_win: "Chess, Winning"
  chess_cocky: "Chess, Cocky"
+ crowning: "Coronation"
  dancing: "Dancing"
  dancing_plague: "Dancing Plague"
  debating: "Debating"

@@ -149,7 +149,7 @@
  hunt.skull_tt:3 "Will receive a [activity.Custom('GetAnimalType')] skull [court_artifact|E]"
  hunt.trinket_tt:1 "Will receive a [activity.Custom('GetAnimalType')] trinket [artifact|E]"
  hunt_location_no_game_tt:0 "There is no suitable game in this county"
- activity_every_attendee_tt:2 "All [activity.GetShortName] Attendees"
+ activity_every_attendee_tt:2 "Every [activity.GetShortName] Attendee"
  hunt_every_hunter_attendee_tt:0 "Every attending [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]"
  every_other_attendee_tt:0 "Every other [activity_guest|E]"
  hunt_ends_tt:2 "The [GetActivityType('activity_hunt').GetName] ends"

@@ -39,6 +39,7 @@
  activity_filter_domicile: "[domicile|E]"
  activity_filter_domicile_domain: "[domicile|E] [domain|E]"
  activity_filter_domicile_realm: "[domicile|E] [realm|E]"
+ activity_filter_holy_sites_realm: "[holy_sites|E] [realm|E]"
 
  GOVERNMENT_ADJECTIVE: "[Character.GetGovernment.GetAdjective]"
  GOVERNMENT_ADJECTIVE_ICON: "[Character.Custom('GetGovernmentIcon')] [Character.GetGovernment.GetAdjective] [realm|E]"
@@ -56,6 +57,7 @@
  activity_filter_domicile_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E]#!"
  activity_filter_domicile_domain_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E] or [domain|E]#!"
  activity_filter_domicile_realm_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [domicile|E] or [realm|E]#!"
+ activity_filter_holy_sites_realm_blocker: "@warning_icon! #X [Province.GetBaronyNameExplicitlyNoTooltip] is #bold not#! in your [realm|E] or a [holy_site|E]#!"
 
  ACTIVITY_PLANNER_SUMMARY_HEADER:0 "Planning Summary:"
  ACTIVITY_DESTINATION_SELECTION_HEADER:0 "Destination Selection"

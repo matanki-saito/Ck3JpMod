@@ -410,3 +410,7 @@
  death_snake: "died from a snake bite"
  death_shot_by_arrows: "was riddled with arrows"
  death_shot_by_arrows_killer: "$death_slain_in_riot$ loosed by [TARGET_CHARACTER.GetUINamePossessive] riders"
+
+ # ACH
+ death_crowd_stampede: "was crushed by a stampeding crowd"
+ death_crowd_stampede_killer: "$death_slain_in_riot$ during the coronation of [TARGET_CHARACTER.GetUIName]"

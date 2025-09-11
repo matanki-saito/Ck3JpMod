@@ -71,6 +71,7 @@
  name_pride_of_city: "Pride of [ROOT.Var('cat_city').Province.GetNameNoTooltip]"
  name_tail_of_city: "[ROOT.Var('cat_city').Province.GetNameNoTooltip]'s Tail"
  name_tigon: "Tigon"
+ passed_cat_name: "[ROOT.Char.GetLocalizedText( 'deceased_story_cycle_cat_name' )]"
 
  dog_name:1 "[ROOT.Char.GetLocalizedText( 'story_cycle_dog_name' )]"
  dog_name_possessive:2 "[ROOT.Char.Custom( 'DogStoryName' )]'s"

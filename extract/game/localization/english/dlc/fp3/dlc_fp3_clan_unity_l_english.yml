@@ -230,3 +230,5 @@
  
  clan_unity_caliph_interfered_with_unity.desc: "[unity_target.GetName] interfered at the request of [unity_character.GetName]"
  clan_unity_seize_realm_attempted.desc: "tried to seize [unity_target.GetNamePossessive] realm"
+
+ clan_unity_coronation_reward.desc: "attended [unity_target.GetNamePossessive] [coronation|E]"

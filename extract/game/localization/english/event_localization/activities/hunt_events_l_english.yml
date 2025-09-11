@@ -116,7 +116,7 @@
 
  hunt.0520.a:0 "There is no time to waste."
 
- hunt_header:1 "Hunt:"
+ hunt_header: "[ROOT.Char.Custom('HuntHeader')]:"
  hunt.1001.t:4 "Cornering the [activity.Custom('GetAnimalType')|U]"
  hunt.1001.desc_opening_courtier:1 "My [ROOT.Char.Custom2('RelationToMeShort', hunt_participant)], [hunt_participant.GetTitledFirstName], is the first to spot its [activity.Custom('GetAnimalFeature')]."
  hunt.1001.desc_opening:1 "Peering across the landscape, I suddenly double-take. There it is, [activity.Custom('GetAnimalFeature')] and all!"

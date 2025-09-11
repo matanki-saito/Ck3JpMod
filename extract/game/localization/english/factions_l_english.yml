@@ -393,3 +393,4 @@
  FACTION_REASON_CLAIMANT_PRIMARY_HEIR: "[claimant|E] is my [heir|E]: $VALUE|+0=$"
  FACTION_REASON_ADMINISTRATIVE: "[administrative|E] [vassal|E]: $VALUE|+0=$"
  FACTION_REASON_NOMADIC: "[GetGovernment( 'nomad_government' ).GetName]: $VALUE|+0=$"
+ FACTION_REASON_DETRACTOR: "[coronation_detractor|E]: $VALUE|+0=$"

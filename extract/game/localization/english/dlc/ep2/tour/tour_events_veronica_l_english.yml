@@ -216,7 +216,8 @@
  cultural_festival.2110.e:0 "I must remain in place."
  cultural_festival_2110_d_tt:0 "You kick the dog"
  cultural_festival_2110_d_opinion_tt:0 "Every non Callous or Sadistic attending character"
- available_because_intent_tt:0 "This option is available because of your [THIS.Char.GetInvolvedActivityIntent.GetName] [intent|e]"
+ available_because_intent_tt:0 "#EMP #low This option is available because of your [THIS.Char.GetInvolvedActivityIntent.GetName] Intent#!#!"
+ event_triggered_because_intent_tt: "#EMP #low This option is available because of your [THIS.Char.GetInvolvedActivityIntent.GetName] Intent#!#!"
  
  #Tour Cultural Festival Events - Bilateral 
  cultural_festival.3000.t:0 "The Grand Play"

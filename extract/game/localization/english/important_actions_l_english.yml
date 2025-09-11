@@ -1091,4 +1091,95 @@
  action_join_tributary_war_combined_group_label: "You can Join Wars"
  action_join_tributary_warcombined_label: "$action_can_start_join_war_contract_label$"
 
+ action_awaiting_coronation: "$action_awaiting_coronation_label$"
+ action_awaiting_coronation_label: "@activity_coronation! You have not held a Coronation"
+ action_awaiting_coronation_desc: "Until a [ruler|E] holds a [coronation|E], they will be considered illegitimate by their [vassals|E] and peers.$action_awaiting_coronation_HELP$"
+ action_awaiting_coronation_HELP: "\n\n#help Consider holding a [coronation_i][coronation|E] [activity|E], as it will remove the [GetLaw('uncrowned').GetName] [law_i][law|E] and replace it with [GetLaw('crowned_king').GetName] or [GetLaw('crowned_emperor').GetName]#!."
+ action_awaiting_coronation_click: "#I Click to view#!"
+
+
  
+ action_active_diplomacy_oath_1: "Active [oath|E]"
+ action_active_diplomacy_oath_1_label: "[coronation_i] Oath: $GetAllianceOathText$ [CoronationTimer('diplomacy_oath_1_decision','diplomacy_oath_1_decision_timer')]"
+ action_active_diplomacy_oath_1_desc: "During your [coronation|E], you have sworn the #V $GetAllianceOathText$#! [oath|E]. You have [RemainingTime('diplomacy_oath_1_timer')] years left to fulfill it."
+ action_active_diplomacy_oath_1_click: "#I Click to open the [decision|E] view#!"
+
+ action_active_diplomacy_oath_2: "$action_active_diplomacy_oath_1$"
+ action_active_diplomacy_oath_2_label: "[coronation_i] Oath: $GetChildrenOathText$ [CoronationTimer('diplomacy_oath_2_decision','diplomacy_oath_2_decision_timer')]"
+ action_active_diplomacy_oath_2_desc: "During your [coronation|E], you have sworn the #V $GetChildrenOathText$#! [oath|E]. You have [RemainingTime('diplomacy_oath_2_timer')] years left to fulfill it."
+ action_active_diplomacy_oath_2_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_martial_oath_1: "$action_active_diplomacy_oath_1$"
+ action_active_martial_oath_1_label: "[coronation_i] Oath: $GetReconquerOathText$ [CoronationTimer('martial_oath_1_decision','martial_oath_1_decision_timer')]"
+ action_active_martial_oath_1_desc: "During your [coronation|E], you have sworn the #V $GetReconquerOathText$#! [oath|E]. You have [RemainingTime('martial_oath_1_timer')] years left to fulfill it."
+ action_active_martial_oath_1_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_martial_oath_2: "$action_active_diplomacy_oath_1$"
+ action_active_martial_oath_2_label: "[coronation_i] Oath: $GetConquestOathText$ [CoronationTimer('martial_oath_2_decision','martial_oath_2_decision_timer')]"
+ action_active_martial_oath_2_desc: "During your [coronation|E], you have sworn the #V $GetConquestOathText$#! [oath|E]. You have [RemainingTime('martial_oath_2_timer')] years left to fulfill it."
+ action_active_martial_oath_2_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_stewardship_oath_1: "$action_active_diplomacy_oath_1$"
+ action_active_stewardship_oath_1_label: "[coronation_i] Oath: $GetPeaceOathText$ [CoronationTimer('stewardship_oath_1_decision','stewardship_oath_1_decision_timer')]"
+ action_active_stewardship_oath_1_desc: "During your [coronation|E], you have sworn the #V $GetPeaceOathText$#! [oath|E]. You have [RemainingTime('stewardship_oath_1_timer')] years left to fulfill it."
+ action_active_stewardship_oath_1_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_stewardship_oath_2: "$action_active_diplomacy_oath_1$"
+ action_active_stewardship_oath_2_label: "[coronation_i] Oath: $GetBuildingOathText$ [CoronationTimer('stewardship_oath_2_decision','stewardship_oath_2_decision_timer')]"
+ action_active_stewardship_oath_2_desc: "During your [coronation|E], you have sworn the #V $GetBuildingOathText$#! [oath|E]. You have [RemainingTime('stewardship_oath_2_timer')] years left to fulfill it."
+ action_active_stewardship_oath_2_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_learning_oath_1: "$action_active_diplomacy_oath_1$"
+ action_active_learning_oath_1_label: "[coronation_i] Oath: $GetUniversityOathText$ [CoronationTimer('learning_oath_1_decision','learning_oath_1_decision_timer')]"
+ action_active_learning_oath_1_desc: "During your [coronation|E], you have sworn the #V $GetUniversityOathText$#! [oath|E]. You have [RemainingTime('learning_oath_1_timer')] years left to fulfill it."
+ action_active_learning_oath_1_click: "$action_active_learning_oath_1_click$"
+
+ action_active_purge_pretenders_oath: "$action_active_diplomacy_oath_1$"
+ action_active_purge_pretenders_oath_label: "[coronation_i] Oath: $GetPurgePretendersOathText$ [CoronationTimer('purge_pretenders_oath_decision','purge_pretenders_oath_decision_timer')]"
+ action_active_purge_pretenders_oath_desc: "During your [coronation|E], you have sworn the #V $GetPurgePretendersOathText$#! [oath|E]. You have [RemainingTime('purge_pretenders_oath_timer')] years left to fulfill it."
+ action_active_purge_pretenders_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_end_the_struggle_oath: "$action_active_diplomacy_oath_1$"
+ action_active_end_the_struggle_oath_label: "[coronation_i] Oath: $GetEndTheStruggleOathText$ [CoronationTimer('end_the_struggle_oath_decision','end_the_struggle_oath_decision_timer')]"
+ action_active_end_the_struggle_oath_desc: "During your [coronation|E], you have sworn the #V $GetEndTheStruggleOathText$#! [oath|E]. You have [RemainingTime('end_the_struggle_oath_timer')] years left to fulfill it."
+ action_active_end_the_struggle_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_greatest_hunter_oath: "$action_active_diplomacy_oath_1$"
+ action_active_greatest_hunter_oath_label: "[coronation_i] Oath: $GetGreatestHunterOathText$ [CoronationTimer('greatest_hunter_oath_decision','greatest_hunter_oath_decision_timer')]"
+ action_active_greatest_hunter_oath_desc: "During your [coronation|E], you have sworn the #V $GetGreatestHunterOathText$#! [oath|E]. You have [RemainingTime('greatest_hunter_oath_timer')] years left to fulfill it."
+ action_active_greatest_hunter_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_heir_preparation_oath: "$action_active_diplomacy_oath_1$"
+ action_active_heir_preparation_oath_label: "[coronation_i] Oath: $GetHeirPreparationOathText$ [CoronationTimer('heir_preparation_oath_decision','heir_preparation_oath_decision_timer')]"
+ action_active_heir_preparation_oath_desc: "During your [coronation|E], you have sworn the #V $GetHeirPreparationOathText$#! [oath|E]. You have [RemainingTime('heir_preparation_oath_timer')] years left to fulfill it."
+ action_active_heir_preparation_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_install_claimants_oath: "$action_active_diplomacy_oath_1$"
+ action_active_install_claimants_oath_label: "[coronation_i] Oath: $GetInstallClaimantsOathText$ [CoronationTimer('install_claimants_oath_decision','install_claimants_oath_decision_timer')]"
+ action_active_install_claimants_oath_desc: "During your [coronation|E], you have sworn the #V $GetInstallClaimantsOathText$#! [oath|E]. You have [RemainingTime('install_claimants_oath_timer')] years left to fulfill it."
+ action_active_install_claimants_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_mend_the_fracture_oath: "$action_active_diplomacy_oath_1$"
+ action_active_mend_the_fracture_oath_label: "[coronation_i] Oath: $GetMendTheFractureOathText$ [CoronationTimer('mend_the_fracture_oath_decision','mend_the_fracture_oath_decision_timer')]"
+ action_active_mend_the_fracture_oath_desc: "During your [coronation|E], you have sworn the #V $GetMendTheFractureOathText$#! [oath|E]. You have [RemainingTime('mend_the_fracture_oath_timer')] years left to fulfill it."
+ action_active_mend_the_fracture_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_provide_for_the_warriors_oath: "$action_active_diplomacy_oath_1$"
+ action_active_provide_for_the_warriors_oath_label: "[coronation_i] Oath: $GetProvideForTheWarriorsOathText$ [CoronationTimer('provide_for_the_warriors_oath_decision','provide_for_the_warriors_oath_decision_timer')]"
+ action_active_provide_for_the_warriors_oath_desc: "During your [coronation|E], you have sworn the #V $GetProvideForTheWarriorsOathText$#! [oath|E]. You have [RemainingTime('provide_for_the_warriors_oath_timer')] years left to fulfill it."
+ action_active_provide_for_the_warriors_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_provide_for_the_faithful_oath: "$action_active_diplomacy_oath_1$"
+ action_active_provide_for_the_faithful_oath_label: "[coronation_i] Oath: $GetProvideForTheFaithfulOathText$ [CoronationTimer('provide_for_the_faithful_oath_decision','provide_for_the_faithful_oath_decision_timer')]"
+ action_active_provide_for_the_faithful_oath_desc: "During your [coronation|E], you have sworn the #V $GetProvideForTheFaithfulOathText$#! [oath|E]. You have [RemainingTime('provide_for_the_faithful_oath_timer')] years left to fulfill it."
+ action_active_provide_for_the_faithful_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_provide_for_the_poor_oath: "$action_active_diplomacy_oath_1$"
+ action_active_provide_for_the_poor_oath_label: "[coronation_i] Oath: $GetProvideForThePoorOathText$ [CoronationTimer('provide_for_the_poor_oath_decision','provide_for_the_poor_oath_decision_timer')]"
+ action_active_provide_for_the_poor_oath_desc: "During your [coronation|E], you have sworn the #V $GetProvideForThePoorOathText$#! [oath|E]. You have [RemainingTime('provide_for_the_poor_oath_timer')] years left to fulfill it."
+ action_active_provide_for_the_poor_oath_click: "$action_active_diplomacy_oath_1_click$"
+
+ action_active_repent_oath: "$action_active_diplomacy_oath_1$"
+ action_active_repent_oath_label: "[coronation_i] Oath: $GetRepentOathText$ [CoronationTimer('repent_oath_decision','repent_oath_decision_timer')]"
+ action_active_repent_oath_desc: "During your [coronation|E], you have sworn the #V $GetRepentOathText$#! [oath|E]. You have [RemainingTime('repent_oath_timer')] years left to fulfill it."
+ action_active_repent_oath_click: "$action_active_diplomacy_oath_1_click$"
