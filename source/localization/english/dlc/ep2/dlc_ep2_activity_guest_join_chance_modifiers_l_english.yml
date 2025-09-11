@@ -131,3 +131,7 @@
  ACTIVITY_GUEST_OPTIONS_CHARIOT_RACE_ENTERTAINMENT_GOOD: "$chariot_entertainment_good$：$VALUE|=+0$"
  ACTIVITY_GUEST_LANDLESS_REASON: "[ROOT.Char.GetSheHe|U]は[ROOT.Char.GetHerHim]の下にあるあなたの$activity_camp_party$を考慮する：$VALUE|=+0$"
  ACTIVITY_GUEST_BELLIGERENT_REASON:0 "[ROOT.Char.GetSheHe|U]は[GetVassalStance('belligerent').GetTextIcon][GetVassalStance('belligerent').GetName]の[vassal|E]である：$VALUE|=+0$"
+ ACTIVITY_GUEST_SHORT_TRIP: "[ROOT.Char.GetSheHe|U]の旅程は短い：$VALUE|=+0$"
+ ACTIVITY_GUEST_VERY_SHORT_TRIP: "[ROOT.Char.GetSheHe|U]の旅程はとても短い：$VALUE|=+0$"
+ ACTIVITY_GUEST_NO_TRAVEL: "[ROOT.Char.GetSheHe|U]は開催場所で住んでいる：$VALUE|=+0$"
+ ACTIVITY_GUEST_COURTIER: "あなたの[courtier|E]：$VALUE|=+0$"

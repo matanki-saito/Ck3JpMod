@@ -70,3 +70,6 @@
  decent_inspiration_skill:0 "[ROOT.Char.GetHerHis|U]の能力は人並み程度です。"
  research_inspiration: "研究のひらめき"
  research_inspiration_desc: "研究のひらめきを持つキャラクターは、[sponsor|E]の利益のために新しい知識を発見するよう[inspired|E]される。成功すれば、後援者の[dynasty|E]内での学識を向上させるか、あるいはその文化のための新しい[innovation|E]を発見する。"
+ bow_inspiration: "弓のひらめき"
+ bow_inspiration_desc: "弓のひらめきを持つ人物は、弓の[artifact|E]を弦張りする[inspired|E]を受ける。これには複合弓からクロスボウまであらゆる種類が含まれ、手に携えて運ばれることになる"
+ bow_inspiration_cost_tt: "弓製作のひらめきは[martial|E]と[prowess|E]に基づきます"

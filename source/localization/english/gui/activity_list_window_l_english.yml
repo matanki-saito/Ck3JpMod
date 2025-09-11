@@ -70,3 +70,4 @@
  activity_playdate_host_an_a: "$host_activity_a$"
  activity_witch_ritual_host_an_a: "$host_activity_a$"
  ACTIVITY_LIST_GROUP_HEADER: "$NAME$#weak （$SIZE$）#!"
+ activity_coronation_host_an_a: "$host_activity_a$"

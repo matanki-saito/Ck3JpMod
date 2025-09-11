@@ -1001,3 +1001,4 @@
  artifact_slot_untyped: "破壊された宝物"
  easteregg_artifact_map_lohmander: "古い旅行記"
  easteregg_artifact_map_lohmander_description: "この革装された小さな本には、スカンジナビア出身の作家による物語と、西欧からインドまでの旅行記が収められていた。危険や道に関する情報や、必要な装備、水場や適切なブーツが必要な場所などが詳細に記されている。また、現地の料理や踊りに関する記述も豊富だ。\n\n中には、亜大陸やその他の多くの場所について描かれた地図がいくつも折り込まれており、遥か遠い土地や、その古い名称についての書き込みも残されている。"
+ create_artifact_bow_tooltip: "[inspiration_owner.GetShortUIName]は、[SCOPE.Custom('ArtifactQuality')]技巧で作り上げた[SCOPE.Custom('ArtifactBowType')]を完成させた"

@@ -26,7 +26,7 @@
  ep3_emperor_yearly.3011.commander_attacking: "[invading_commander.GetTitledFirstNamePossessive]を艦隊に送り出す前に。"
  ep3_emperor_yearly.3011.desc: "穏やかな[army.GetLocation.GetNameNoTooltip]において、[ROOT.Char.GetFaith.HighGodNamePossessive]の都市を挑むとはまさしく知性の欠如と言わざるを得ない。\n\n私の艦隊に所属する[Glossary('デュロモイ', 'DROMONS_GLOSS')]が、龍の口を模した青銅の水管を搭載して桟橋から出航する。水面が穏やかであり、船長たちが巧みに攻撃を調整できれば、敵を炎で焼き尽くすことができる。\n\nしかし、[ROOT.Char.GetFaith.HighGodName]が我々の罪に代償を求めるなら、多くの[ROOT.Char.GetCapitalLocation.GetCounty.GetCulture.GetName]の防衛者たちもまた、焼夷液による混沌の中で犠牲となるだろう。"
  ep3_emperor_yearly.3011.kyrie_eleison: "うおお、[Glossary( 'キリエ・エレイソン', 'KYRIE_ELEISON_GLOSS' )]！"
- KYRIE_ELEISON_GLOSS: "#bold キリエ・エレイソン#!——「主よ、憐れみたまえ！」——は、ビザンツ軍が喊声として唱える祈りの言葉である。"
+ KYRIE_ELEISON_GLOSS: "#bold キリエ・エレイソン#!——「主よ、憐れみたまえ！」——は多様な用いられ方をするキリスト教の祈りである。戴冠式や教皇の即位式で歌われ、またビザンツ軍によって鬨の声としても用いられた。"
  ep3_emperor_yearly.3011.a: "#EMP 水さえも#!…焼き尽くせ！"
  ep3_emperor_yearly.3011.a.success: "突撃により敵はまさに灰燼と化す"
  ep3_emperor_yearly.3011.a.fail: "相応の被害が生じた"

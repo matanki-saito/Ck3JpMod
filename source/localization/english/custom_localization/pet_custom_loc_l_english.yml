@@ -117,3 +117,4 @@
  eagle_personality_trait_none_2: "最愛の"
  eagle_personality_trait_none_3: "大切にされる"
  eagle_personality_trait_none_4: "人懐こい"
+ passed_cat_name: "[ROOT.Char.GetLocalizedText( 'deceased_story_cycle_cat_name' )]"

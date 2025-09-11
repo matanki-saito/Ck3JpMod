@@ -659,3 +659,8 @@
  vengeful_2_neg_quirk_adjective_1:0 "意地悪な"
  vengeful_3_neg_quirk_adjective_1:0 "憤慨した"
  forgiving_neg_quirk_adjective_1:0 "軟弱な"
+ honest_quirk_blind: "一心に耳を傾けている"
+ honest_quirk_personal_blind: "一心に耳を傾ける"
+ honest_quirk_standalone_blind: "[ROOT.GetCharacter.GetSheHe|U]は一心に耳を傾けている"
+ honest_quirk_pp_blind: "一心に耳を傾けている"
+ honest_quirk_personal_pp_blind: "一心に耳を傾けている"

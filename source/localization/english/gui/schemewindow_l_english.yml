@@ -455,3 +455,6 @@
  SCHEME_LUST_DEMON_MODIFIER: "$possessed_by_lust_demon_modifier$：$VALUE|+0=$"
  SCHEME_WINDOW_MODIFIERS: "[modifiers|E]："
  SCHEME_WITH_HERD: "[herd_i][herd|E]を獲得する：$VALUE|+0=$"
+ SCHEME_CONVINCED_AT_FEAST: "饗宴で説得された：$VALUE|0=-+$"
+ ai_acceptance_trait_pilgrim: "私は[GetTrait('pilgrim').GetName( GetNullCharacter )]である：$VALUE|+0=$"
+ ai_acceptance_trait_faith_warrior: "私は[GetTrait('faith_warrior').GetName( GetNullCharacter )]である：$VALUE|+0=$"

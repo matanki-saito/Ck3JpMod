@@ -25,7 +25,7 @@
  legitimacy_hud_tt: "[LegitimacyType.GetFlavorName( LegitimacyLevel.Self )]（[LegitimacyLevel.GetIndex|V]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )]）"
  legitimacy_hud_tt_subheading: "[LegitimacyType.GetName]での[legitimacy_level|E]"
  legitmacy_flavor_and_level: "[LegitimacyType.GetFlavorName( LegitimacyLevel.Self )|V] #weak ([LegitimacyLevel.GetIndex]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )])#!"
- LEGITIMACY_TRACK_TITLE: "正統性 [Character.GetLegitimacy|V^]/[LegitimacyType.GetMaxLegitimacy( Character.Self )|V^]"
+ LEGITIMACY_TRACK_TITLE: "正統性 [Character.GetLegitimacy|V^0]/[LegitimacyType.GetMaxLegitimacy( Character.Self )|V^0]"
  LEGITIMACY_TRACK_TOOLTIP: "#T [LegitimacyType.GetFlavorName( LegitimacyLevel.Self )]#!\n少なくとも[LegitimacyLevel.GetThreshold( Character.Self )|V^]の正統性が必要\n\n$LEGITIMACY_EFFECTS$"
  legitimacy_high_modifier_tt: "高い[legitimacy|E]"
  legitimacy_low_modifier_tt: "低い[legitimacy|E]"

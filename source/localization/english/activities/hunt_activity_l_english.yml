@@ -124,7 +124,7 @@
  hunt.skull_tt:3 "[activity.Custom('GetAnimalType')]の頭骨の[court_artifact|E]を受け取ります"
  hunt.trinket_tt:1 "[activity.Custom('GetAnimalType')]の装身具の[artifact|E]を受け取るだろう"
  hunt_location_no_game_tt:0 "この伯爵領は狩猟には適さないだろう"
- activity_every_attendee_tt:2 "すべての[activity.GetShortName]の参加者"
+ activity_every_attendee_tt:2 "全ての[activity.GetShortName]の参加者"
  hunt_every_hunter_attendee_tt:0 "全ての参加している[GetTrait('lifestyle_hunter').GetName( GetNullCharacter )]"
  every_other_attendee_tt:0 "他のすべての[activity_guest|E]"
  hunt_ends_tt:2 "[GetActivityType('activity_hunt').GetName]は終わる"

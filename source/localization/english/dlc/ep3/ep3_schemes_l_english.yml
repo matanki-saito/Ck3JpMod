@@ -537,3 +537,4 @@
  scheme_critical_moments.8046.fallback: "統治とは予測がつきません。そのような話題で助言をいただけるとは、喜ばしい限りではありますが"
  scheme_critical_moments.8046.rump: "わたし自身、それを十分に理解していると思うのです。"
  boundary_dispute_outcome_vassal_tt: "成功すれば、[recipient.GetShortUIName]はあなたの[vassal|E]となる"
+ coronation_spouse_despised_modifier: "[owner.GetShortUINamePossessive|U]の[target.GetShortUIName]を排除するという戴冠の誓い：$VALUE|+=0$"

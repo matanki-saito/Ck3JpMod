@@ -2,7 +2,7 @@
  GetRandomExteriorDetail_small_bird: "木陰に隠れる小さな[ROOT.Char.Custom('GetRandomRegionalWildDaytimeBird')]が見える。"
  GetRandomExteriorDetail_birdsong: "鳥たちのさえずりが聞こえる。"
  GetRandomExteriorDetail_wildflower: "色鮮やかに、しかし一輪で凛と立つ[ROOT.Char.GetCurrentLocation.Custom('get_region_flower_type')]に気づく。"
- GetRandomExteriorDetail_singing: "城から遠い声が聞こえ、楽しい歌に浸る。"
+ GetRandomExteriorDetail_singing: "城の方からかすかな声が響き、楽しげな歌をうたっているのが聞こえる。"
  GetRandomExteriorDetail_banquet: "私は城の窓を見上げて、おいしい食べ物の匂いを嗅ぐ。"
  GetRandomExteriorDetail_praying: "寺院から聞こえるいくつかの祈りに耳をすます。"
  GetRandomExteriorDetail_bells: "どこからか鐘が聞こえる。"

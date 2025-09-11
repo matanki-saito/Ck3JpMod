@@ -99,7 +99,7 @@
  admin_law_cooldown_desc: "[law|E]は最近変更された。[laws]を変えられるのは[GetCurrentDateWithDiff( GetVarTimeRemaining( GetPlayer.MakeScope, 'admin_law_cooldown') )]後だ。"
  admin_vassal_wars_permission_only_desc: "[liege|E]に[war|E]を始める許可を取る必要がある"
  admin_vassal_border_limit_desc: "[liege|E]の[laws|E]がこの[scheme|E]の開始を阻害している"
- PASS_LAW_TITLE_DEFAULT: "[Law.GetNameNoTooltip]を制定する"
+ PASS_LAW_TITLE_DEFAULT: "[Law.GetNameNoTooltip][AddLocalizationIf( Not(Law.GetLawGroup.HasFlag( 'realm_no_pass' ) ), 'を制定する' )]"
  ADD_LAW_CONFIRMATION_TITLE_DEFAULT: "[Law.GetNameNoTooltip]法を制定する"
  ADD_LAW_CONFIRMATION_ACCEPT_DEFAULT: "法律を施行する"
  camp_purpose_pass_phrase: "[Law.GetNameNoTooltip]になる"

@@ -1,5 +1,5 @@
 ﻿l_english:
- hunt_header:1 "狩猟："
+ hunt_header: "[ROOT.Char.Custom('HuntHeader')]："
  hunt.1001.t:4 "[activity.Custom('GetAnimalType')|U]の追い込み"
  hunt.1001.desc:2 "\n\n[activity.Custom('GetAnimalAdjective')][activity.Custom('GetAnimalMale')]を見つけ出すのは難しい。だが、居るのは間違いない。[host.GetCurrentLocation.Custom('GetProvinceFoliageDesc')]を通して我々を観察しているようだ。\n\n"
  hunt.1001.a:1 "追え！走れ！"

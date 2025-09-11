@@ -197,7 +197,7 @@
  cultural_festival.2110.e:0 "その場に留まらなければならない。"
  cultural_festival_2110_d_tt:0 "あなたは犬を蹴ります"
  cultural_festival_2110_d_opinion_tt:0 "出席しているすべての非情と嗜虐的のいずれでもない人物"
- available_because_intent_tt:0 "このオプションは、あなたの[THIS.Char.GetInvolvedActivityIntent.GetName]の[intent|e]により選択可能です"
+ available_because_intent_tt:0 "#EMP #low この選択肢は、あなたの[THIS.Char.GetInvolvedActivityIntent.GetName]という目的によって利用可能です#!#!"
  cultural_festival.3000.t:0 "壮大な演劇"
  cultural_festival.3000.desc:0 "私の主君である[visiting_liege.GetTitledFirstName]の訪問により、素晴らしい機会が私の前に現れた。私は確かに、この運命の出会いを利用して[visiting_liege.GetHerHis]の共感を得ることができ、おそらく望むものをより簡単に手に入れることができるだろう…\n\nあるいは私は[visiting_liege.GetHerHis]の偉業を描く演劇を企画できないだろうか？"
  cultural_festival.3000.a:0 "主君からの好意を得る絶好の機会だ！"
@@ -543,3 +543,4 @@
  regional_farm_animal_grunting_yak: "$regional_farm_animal_yak$の唸り声"
  regional_farm_animal_grunting_camel: "$regional_farm_animal_camel$の唸り声"
  regional_farm_animal_whinnying_horse: "$regional_farm_animal_horse$のいななき"
+ event_triggered_because_intent_tt: "#EMP #low この選択肢は、あなたの[THIS.Char.GetInvolvedActivityIntent.GetName]という目的によって利用可能です#!#!"

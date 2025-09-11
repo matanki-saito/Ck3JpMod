@@ -29,3 +29,5 @@
  blood_brother_hook: "血盟"
  blood_sister_hook: "血盟者"
  strong_obligation_hook: "$obligation_hook$"
+ oath_claimant_hook: "借りのある請求者"
+ oath_claimant_heir_hook: "借りのある請求者の後継者"

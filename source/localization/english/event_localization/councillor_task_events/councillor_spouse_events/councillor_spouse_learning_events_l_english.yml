@@ -8,7 +8,7 @@
  councillor_spouse_learning.1301.t:1 "配偶者：改宗に影響を与える"
  councillor_spouse_learning.1302.t:1 "配偶者：文化転向に影響を与える"
  councillor_spouse_learning.1303.desc:0 "配偶者は神学者たちのパトロン"
- councillor_spouse_learning.1601.desc:1 "[ROOT.Char.Custom('LifestyleFocus')|U]研究における配偶者の援助"
+ councillor_spouse_learning.1601.desc:1 "配偶者が後見人の[ROOT.Char.Custom('LifestyleFocus')|U]の学習を手助けする"
  councillor_spouse_learning.1602.t:1 "[tutored_child.Custom('GetDaughterSon')]が配偶者の指導の下で育つ"
  councillor_spouse_learning.1603.root_guardian.t:0 "被後見人は配偶者による指導に感謝した"
  councillor_spouse_learning.1603.spouse_guardian.t:0 "配偶者の被後見人は[councillor.GetHerHis|U]の指導に感謝"

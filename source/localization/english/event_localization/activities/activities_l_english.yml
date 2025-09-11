@@ -271,3 +271,5 @@
  activity_invite_rule_suzerain: "宗主国"
  activity_invite_rule_tributaries: "朝貢国"
  activity_invite_rule_confederates: "盟約者"
+ activity_invite_rule_councillors: "評議員"
+ is_activity_type_on_cooldown: "この活動は[DATE.GetTimeToDate()]の間、開催できない"

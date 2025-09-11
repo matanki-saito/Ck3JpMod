@@ -45,3 +45,4 @@
  admin_governor_filter_tag_desc: "[CHARACTER.Custom('GetGovernorConceptNoTooltip')]の関係行動"
  interaction_category_vassal_tributary: "朝貢国"
  interaction_category_vassal_suzerain: "宗主国"
+ interaction_category_friendly_filter_tag_desc: "個人的な関係行動"

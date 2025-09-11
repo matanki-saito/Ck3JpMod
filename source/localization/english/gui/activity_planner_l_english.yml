@@ -83,3 +83,5 @@
  activity_filter_domicile_realm_blocker: "@warning_icon!#X [Province.GetBaronyNameExplicitlyNoTooltip]はあなたの[domicile|E]または[realm|E]では#bold ない#!#!"
  GOVERNMENT_ADJECTIVE_ICON_ADVENTURER: "[Character.Custom('GetGovernmentIcon')][Character.GetGovernment.GetAdjective]"
  GOVERNMENT_ADJECTIVE_ICON_NOMAD: "[Character.Custom('GetGovernmentIcon')][Character.GetGovernment.GetAdjective]の[realm|E]（[Character.GetDomicile.GetFaith.GetAdjective]の[Character.GetDomicile.GetCulture.GetCollectiveNoun]）"
+ activity_filter_holy_sites_realm: "[holy_sites|E][realm|E]"
+ activity_filter_holy_sites_realm_blocker: "@warning_icon!#X [Province.GetBaronyNameExplicitlyNoTooltip]はあなたの[realm|E]または[holy_site|E]では#bold ない#!#!"

@@ -225,3 +225,4 @@
  clan_unity_maimed.desc: "[unity_target.GetName]に深手を負わせた"
  clan_unity_seize_realm_attempted.desc: "[unity_target.GetNamePossessive]の領国を奪おうとした"
  clan_unity_become_blood_brother.desc: "[unity_target.GetName]と[blood_brother|E]になる"
+ clan_unity_coronation_reward.desc: "[unity_target.GetNamePossessive]の[coronation|E]に参列した"

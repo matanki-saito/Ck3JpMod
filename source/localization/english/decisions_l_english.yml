@@ -999,7 +999,7 @@
  revive_taltoism_decision_before_last_date:0 "1100年1月1日以前である"
  mozarabic_bind_the_faith_to_rome_decision.threaten_pope:0 "@warning_icon! #warning 教皇に対する[strong_hook|E]を使用した強要は、先方の嫌悪を招くでしょう！#!"
  ALREADY_IN_ACTIVITY_FIRST_NOT:0 "あなたは[CHARACTER.Custom('GetActivityName')]で忙しい"
- ALREADY_IN_ACTIVITY_THIRD_NOT:0 "[CHARACTER.GetSheHe|U]は[CHARACTER.Custom('GetActivityName')]で忙しい"
+ ALREADY_IN_ACTIVITY_THIRD_NOT:0 "[CHARACTER.GetTitledFirstName]は[CHARACTER.Custom('GetActivityName')]で忙しい"
  unavailable_activity:0 "[ROOT.Char.GetInvolvedActivity.GetName]に参加中"
  unavailable_pay_homage:0 "主君へ表敬訪問している最中"
  unavailable_meditation:0 "瞑想中"

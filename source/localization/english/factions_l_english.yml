@@ -335,3 +335,4 @@
  FACTION_REASON_NOMADIC: "[GetGovernment( 'nomad_government' ).GetName]：$VALUE|+0=$"
  FACTION_REASON_DIFFICULTY_HARD: "難易度ハード：$VALUE|0+=$"
  FACTION_REASON_DIFFICULTY_VERY_HARD: "難易度ベリーハード：$VALUE|0+=$"
+ FACTION_REASON_DETRACTOR: "[coronation_detractor|E]：$VALUE|+0=$"

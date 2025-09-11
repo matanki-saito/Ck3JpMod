@@ -628,7 +628,7 @@
  mpo_decisions_events.0004.a: "$mpo_decisions_events.0005.a$"
  mpo_decisions_events.0004.b: "私はこの道に加わらぬ"
  mpo_decisions_events.0005.t: "$mpo_decisions_events.0004.t$"
- mpo_decisions_events.0005.desc: "かつて我々は必要に迫られて結束した軍団であり、その結びつきは季節のように移ろいやすいものであった。だがいま、我らはひとつとなった。\n\nかつてともに駆けた戦士たちは、いまや我が玉座の前に跪く。\n\n我が大卓上の宴にて、その名をともに称えよ――[new_king_ruler.GetPrimaryTitle.GetTierAsName]が生まれ、我こそがその[ROOT.Char.Custom('get_queen_king')]である。"
+ mpo_decisions_events.0005.desc: "かつて我々は必要に迫られて結束した軍団であり、その結びつきは季節のように移ろいやすいものであった。だがいま、我らはひとつとなった。\n\nかつてともに駆けた戦士たちは、いまや我が玉座の前に跪く。\n\n我が大卓上の宴にて、その名をともに称えよ――[new_king_ruler.GetPrimaryTitle.GetTierAsName]が誕生し、我こそがその君主なのだ。"
  mpo_decisions_events.0005.a: "ともに栄えんことを！"
  confederate_king_modifier: "連合の初代王"
  confederate_king_modifier_desc: "この人物は[confederation|E]をまとめ上げ、王国へと昇華させた"
@@ -640,3 +640,4 @@
  confederation_vassal_modifier_tt: "すべての[vassals|E]が[GetModifier('confederate_vassal_modifier').GetNameWithTooltip]を獲得する"
  confederation_county_modifier_tt: "すべての[counties|E]が#V 30#!年間[GetModifier('confederate_lands_modifier').GetNameWithTooltip]を得る"
  chaotic_succession_protection_title_law_tt: "[GetLaw('confederation_elective_succession_law').GetName]の[law|E]によって、[succession|E]中の#high $chaotic_succession_disobedient_kurultai_none$#!から保護される"
+ ACH_DOMINATE_TITLE_GAIN_WARNING: "あなたは[coronation|E]を行なうまで、[GetLaw('uncrowned').GetName]の[law_i][law|E]を得る"

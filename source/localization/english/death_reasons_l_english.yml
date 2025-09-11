@@ -372,3 +372,5 @@
  death_snake: "蛇に噛まれて死んだ"
  death_shot_by_arrows: "矢で蜂の巣にされた"
  death_shot_by_arrows_killer: "[TARGET_CHARACTER.GetUINamePossessive]の騎馬兵に$death_slain_in_riot$"
+ death_crowd_stampede: "群衆の暴走に押し潰された"
+ death_crowd_stampede_killer: "[TARGET_CHARACTER.GetUIName]の戴冠式の最中に$death_slain_in_riot$"

@@ -1797,3 +1797,8 @@
  char_interaction.0370.desc.herder: "お前を最後に見つけた場所から、あまりに遠くへ来てしまった。もはや貢納を続けることはできぬ。"
  char_interaction.0370.a.herder: "我が領国をまとめておくべきだった。"
  REFILL_MAA_AT_WAR_TT: "あなたは敵対領域にいる"
+ ASK_FOR_CONVERSION_CORONATION_BONUS: "[actor.GetShortUIName|U]は布教のために聖油を授けられた: $VALUE|=+0$"
+ I_AM_SODOMITE: "私は同性愛者だ：$VALUE|=+0$"
+ I_AM_DEVIANT: "私は性的倒錯者だ：$VALUE|=+0$"
+ I_AM_WITCH: "私は魔女だ：$VALUE|=+0$"
+ I_AM_LIEGE_TOP_LIEGE: "私は[recipient.GetShortUINamePossessive]の[liege|E]か[top_liege|E]だ：$VALUE|=+0$"
