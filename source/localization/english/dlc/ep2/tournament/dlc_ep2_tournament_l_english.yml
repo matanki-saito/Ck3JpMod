@@ -53,7 +53,7 @@
  tournament_phase_board_game_desc:1 "出場者がボードゲームの試合をする頭脳の格闘技。究極の勝者は最後に残ったプレイヤーこそが相応しいでしょう。\n\n$tournament_contest_format_versus$\n[contest_rounds|e]の数：3"
  tournament_phase_horse_race:0 "競馬"
  tournament_phase_horse_race_desc:1 "紳士淑女が馬に乗って互いに競い合い、ゴールを目指して競い合う大人気スポーツ。\n\n$tournament_contest_format_race$"
- tournament_phase_ceremony:0 "セレモニー"
+ tournament_phase_ceremony:0 "式典"
  tournament_phase_ceremony_desc:0 "式典と喝采の下、終幕する！"
  tournament_option_accommodations:0 "宿場"
  tournament_accommodations_bad:0 "スクラップテント"
