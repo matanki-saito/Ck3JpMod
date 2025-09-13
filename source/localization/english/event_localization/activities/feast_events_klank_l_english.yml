@@ -1,6 +1,6 @@
 ﻿l_english:
- feast_events_klank.1001.t: "Ways of Torture"
- feast_events_klank.1001.desc: "\"Where is the best place to start cutting?\" asks my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('fellow_torturer'))] [fellow_torturer.GetName], with a dagger in [fellow_torturer.GetHerHis] hand, [fellow_torturer.GetHerHis] tone full of wonder. Truly a [fellow_torturer.GetWomanMan] after my own heart. A feast can be a meeting of minds, an opportunity to perfect a craft, not only a dull opportunity for gluttony. \n\n\"In my experience, they scream the loudest if you remove the [ROOT.Char.Custom('GetRandomBodyPart')] first. I am convinced of it... this is the most delicious way to begin.\"\n\n[terrified_onlooker.GetName] stares silently in the corner."
- feast_events_klank.1001.a: "First, wiggle [ROOT.Char.Custom('DeviantObjectArticle')] in front of them."
- feast_events_klank.1001.b: "You are quite right!"
- feast_events_klank.1001.c: "A book like #EMP [SCOPE.Custom('RandomEntertainmentTextName')]#! inspires."
+ feast_events_klank.1001.t: "拷問の作法"
+ feast_events_klank.1001.desc: "「どこから切り裂くのが一番よいと思う？」と、我が[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('fellow_torturer'))]である[fellow_torturer.GetName]が、手にした短剣を弄びながら尋ねてきた。その声色には熱意が満ちている。まさしく我が心にかなう[fellow_torturer.GetWomanMan]よ。饗宴とは心を通わせ、技を磨く機会であり、ただの飽食の場ではないのだ。\n\n「私の経験上、まず[ROOT.Char.Custom('GetRandomBodyPart')]をもぎ取れば、もっとも大きな悲鳴を上げる。間違いない…これこそ最も甘美な幕開けだ」\n\n隅にいた[terrified_onlooker.GetName]は、ただ黙って凝視していた。"
+ feast_events_klank.1001.a: "まずは[ROOT.Char.Custom('DeviantObjectArticle')]を目の前でひらひらと弄んでみせるのだ。"
+ feast_events_klank.1001.b: "まったくその通りだ！"
+ feast_events_klank.1001.c: "#EMP [SCOPE.Custom('RandomEntertainmentTextName')]#!のような書物は実に啓発的だぞ。"
