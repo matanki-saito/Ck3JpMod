@@ -448,7 +448,7 @@
  feature_regalia_clothes_cloak:0 "[Artifact.GetFeatureText( 'decoration_material_embroidery' )]糸の刺繡が施された[Artifact.GetFeatureText( 'generic_material_cloth' )]"
  create_artifact_regalia_tooltip:1 "[inspiration_owner.GetShortUIName]は[SCOPE.Custom('ArtifactQuality')]職人芸によるレガリア一式を製作しました"
  artifact_crown_name:0 "$artifact_name_prefix$冠"
- artifact_crown_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[SCOPE.Custom('ArtifactArticleWealth')]王冠。地金に[newly_created_artifact.GetFeatureText( 'decoration_material_wire' )]を用いて[newly_created_artifact.GetFeatureText( 'crown_decoration' )]。"
+ artifact_crown_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[SCOPE.Custom('ArtifactArticleWealth')]王冠。地金には[newly_created_artifact.GetFeatureText( 'decoration_material_wire' )]が用いられ、[newly_created_artifact.GetFeatureText( 'crown_decoration' )]。"
  feature_crown_decoration_gems:1 "飾り石に[Artifact.GetFeatureText( 'decoration_material_gem' )]が配置されている"
  feature_crown_decoration_filigree:0 "複雑な透かし細工が施されている"
  feature_crown_decoration_filigree_and_gem:0 "中央に配置した豊かな[Artifact.GetFeatureText( 'decoration_material_gem' )]に、複雑な透かし細工の縁取りが施されている"
