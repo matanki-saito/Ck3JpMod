@@ -741,7 +741,7 @@
  game_concept_wanderer:0 "放浪者"
  game_concept_wanderers:0 "放浪者"
  game_concept_wanderer_desc:0 "[court|E]に属していない、或いは[titles|e]を保有していないキャラクターは放浪者と呼ばれます。彼らは世界中を旅してその途上で[guests|E]として宮廷を訪れます。放浪者は[mercenary|E]の隊長、[holy_orders|E]の指導者、[clergy|E]のメンバー、または[city|E]の保有者となる場合があります。"
- game_concept_host:0 "ホスト"
+ game_concept_host:0 "主人"
  game_concept_noble:0 "貴族"
  game_concept_nobles:0 "貴族"
  game_concept_nobleman:0 "貴族"

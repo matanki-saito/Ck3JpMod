@@ -36,7 +36,7 @@
  coronation_events.1007.first_guest: "我が[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('first_guest'))]こそ、先頭に立つべきだ！"
  coronation_events.1007.second_guest: "[second_guest.GetFirstNameNoTooltip]、この権利はそなたのものだ。"
  coronation_events.1007.opt_out: "関わりたくないな。"
- coronation_events.1011.t: "Heavy is the Crown"
+ coronation_events.1011.t: "王冠の重み"
  coronation_events.1011.desc: "戴冠の静寂の中、役人たちが[ancestor_artifact.GetName]を覆いから解き放つ！\nその輝きは、我が祖先たちの勝利を物語る歌のように響き渡る。\n\n思い起こすのは、[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('previous_holder'))]である[previous_holder.GetTitledFirstNameRegnal]の姿。[previous_holder.Custom('education_focus')]に秀でたその才覚が、[previous_holder.GetHerHis]の祝福された治世を形作ったのだ。\n\n同じく、我が治世もまた[ROOT.Char.Custom('education_focus')]の偉業によって彩られるであろう。\nやがて私の事績が[ancestor_artifact.GetName]に刻まれ、その信頼なる調べのもとに、新たな歌を紡ぐのだ。"
  coronation_events.1011.refit: "我が名声は、この手で鍛え上げるものだ。"
  coronation_events.1011.previous: "この宝物は、[previous_holder.GetFirstNamePossessiveNoTooltipRegnal]の遺産を称えている。"
