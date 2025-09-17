@@ -102,7 +102,7 @@
  bp2_yearly.1010.outro_callous: "\n\n…何だ、この胸に走る温かさは？"
  bp2_yearly.1010.outro_young: "\n\n私は[hugging_child.GetHerHim]を見つめた。涙で視界がぼやける。先の仕草にお返しするような気持ちで[hugging_child.GetHerHis]の髪をなでた。"
  bp2_yearly.1010.outro_older: "\n\n[hugging_child.GetHerHis]の肩を抱きしめて、子の気持ちに精一杯応えようとする中、私の目には密やかに涙が浮かんでいた。"
- bp2_yearly.1010.a: "いい子だ、我が[hugging_child.Custom('GetDaughterSon')]よ…"
+ bp2_yearly.1010.a: "いい子だ、[hugging_child.Custom('GetDaughterSon')]よ…"
  bp2_yearly.1010.a_callous: "これは、一体…"
  bp2_yearly.1010.a.flavor: "泣くわけには、泣くわけには…。"
  bp2_yearly.1010.a.flavor_callous: "やめろ、私、なんかに…"

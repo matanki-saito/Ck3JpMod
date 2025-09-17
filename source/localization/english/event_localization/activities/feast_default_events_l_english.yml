@@ -88,7 +88,7 @@
  feast_default.2003.a:0 "なんと素晴らしい夜だろう!"
  feast_default.2005.t:1 "おろしたての[ROOT.Char.Custom('GetClothingArticle')|U]全体に"
  feast_default.2005.desc:0 "[drunk.GetTitledFirstName]は飲みすぎていると我々全員が諫めたにもかかわらず、[drunk.GetSheHe]はまだまだ素面だ、大丈夫、酔ってなんかないさと言い張った。\n\n[drunk.GetHerHis]は席から立ちあがっただけで限界に達し、今や私はひどい悪臭を放つ吐瀉物にまみれている！"
- feast_default.2005.a:0 "「恥を知るがいい、[drunk.GetFirstNameNoTooltip]っ！」"
+ feast_default.2005.a:0 "「恥を知るがいい、[drunk.GetFirstNameNoTooltip]！」"
  feast_default.2005.b:0 "「ははは、大した余興だな！」"
  feast_default.2006.t:2 "熱心な[befriending_guest.GetTitleTierName|U]"
  feast_default.2006.desc:0 "[befriending_guest.Custom2('MyCharacterIntroduction', ROOT.Char )]が一度ならず大きな笑い声で会話の邪魔をしたとき、私はもはや[befriending_guest.GetSheHe]の振る舞いが異様であることを否定できないと思った。\n\n[befriending_guest.GetSheHe|U]は、けして私から離れようとせず、私が会話しているところに割り込んできては、私が何か言うごとに褒めてくるのだ…"
