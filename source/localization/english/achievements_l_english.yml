@@ -116,7 +116,7 @@
  ACHIEVEMENT_DESC_moving_up_in_the_world_achievement:1 "[rank|E]を上昇させる"
  ACHIEVEMENT_DESC_beacon_of_progress_achievement:1 "あなたの[culture|E]が文化・地域固有の$game_concept_innovations$を除きすべての[innovations|E]を解禁する"
  ACHIEVEMENT_DESC_mother_of_us_all_achievement:1 "マガジヤ・ダウラとしてスタートしアフリカの異教の信仰を改革し、アフリカのすべての[counties|E]をあなたの改革した宗教に改宗させる"
- ACHIEVEMENT_LOCKED_GENERIC:0 "ロックされた実績"
+ ACHIEVEMENT_LOCKED_GENERIC:0 "未達成"
  NOT_ACHIEVEMENT_DESC_until_death_do_us_part_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_way_of_life_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_a_legacy_to_last_the_ages_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"

@@ -124,7 +124,7 @@
  ep3_emperor_yearly.2110.t: "[provincial_county.GetNameNoTierNoTooltip]の仲介者たち"
  ep3_emperor_yearly.2110.desc_same: "目の前の請願者の出自は一目でわかった。[merchant.GetSheHe]は私と同じ[merchant.GetCulture.GetNameNoTooltip]の民であり、その口から出た言葉は、私にとって馴染み深い訛りであった。"
  ep3_emperor_yearly.2110.desc_other: "目の前の請願者は、どうやら[ROOT.Char.GetCulture.GetNameNoTooltip]の者ではないようだ。どうやら#EMP 地方出身者#!か。話し始めた瞬間、どこか野暮ったいがどこか聞き覚えのある訛りを感じた。"
- ep3_emperor_yearly.2110.desc: "\n\n「[ROOT.Char.GetTitleAsNameNoTooltip|U]、私は[provincial_county.GetNameNoTier]の商人たちを代表して参りました。この地に長く暮らし、地元の人々や首都から派遣された役人たちと取引を重ねてきた我々は、未同化の民との折衝がいかに難しいかを身をもって理解しております。そして、その困難に対処できるだけの術も備えております。\n\nつきましては、公的な通訳、仲介者としての役割を担わせていただきたく存じます」"
+ ep3_emperor_yearly.2110.desc: "\n\n「[ROOT.Char.GetTitleAsNameNoTooltip|U]陛下、私は[provincial_county.GetNameNoTier]の商人たちを代表して参りました。この地に長く暮らし、地元の人々や首都から派遣された役人たちと取引を重ねてきた我々は、未同化の民との折衝がいかに難しいかを身をもって理解しております。そして、その困難に対処できるだけの術も備えております。\n\nつきましては、公的な通訳、仲介者としての役割を担わせていただきたく存じます」"
  ep3_emperor_yearly.2110.a: "その才覚、現地の統治にぜひとも活かしてもらいたい。"
  ep3_emperor_yearly.2110.b: "その力、この帝都でこそ必要とされよう。"
  ep3_emperor_yearly.2110.c: "帝都のやり方を学ぶべきは、[merchant.GetCulture.GetCollectiveNounNoTooltip]の方だ。"
