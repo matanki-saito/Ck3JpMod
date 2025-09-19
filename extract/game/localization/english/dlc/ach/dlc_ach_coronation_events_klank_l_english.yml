@@ -45,12 +45,12 @@
  coronation_events_klank.1005.other_player_informed_tt: "[unfriendly_king.GetTitledFirstName] will be informed about this outcome"
  coronation_events_klank.1005.d: ""I am glad you have [npc_guest.GetFirstNamePossessiveNoTooltip] ear. #EMP All. Week. Long.#!""
 
- coronation_events_klank.1006.t: "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
- coronation_events_klank.1006.desc: "I am pleased to inform you that during [coronation_host.GetHerHis] coronation, the illustrious [coronation_host.GetName] has persuaded [friendly_king.GetName] to abandon [friendly_king.GetHerHis] misguided quest for vengeance, after your righteous victory in [war_lost.GetName]."
+ coronation_events_klank.1006.t: "[npc_guest.Custom2('AppropriateGreeting', ROOT.Char)]"
+ coronation_events_klank.1006.desc: "I am pleased to inform you that during [coronation_host.GetHerHis] coronation, the illustrious [coronation_host.GetName] has persuaded [friendly_king.GetName] to abandon [friendly_king.GetHerHis] misguided quest for vengeance, after your righteous victory in [war_memory.GetName]."
  coronation_events_klank.1006.a: "Interesting."
 
- coronation_events_klank.1007.t: "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
- coronation_events_klank.1007.desc: "I regret to inform you that during the [coronation_activity.GetName] of [coronation_host.GetName], [coronation_host.GetSheHe] and [friendly_king.GetName] made a pact to join their forces against you, serving [friendly_king.GetTitledFirstNamePossessiveNoTooltip] misguided quest for vengeance after your righteous victory in [war_lost.GetName]."
+ coronation_events_klank.1007.t: "[npc_guest.Custom2('AppropriateGreeting', ROOT.Char)]"
+ coronation_events_klank.1007.desc: "I regret to inform you that during the [coronation_activity.GetName] of [coronation_host.GetName], [coronation_host.GetSheHe] and [friendly_king.GetName] made a pact to join their forces against you, serving [friendly_king.GetTitledFirstNamePossessiveNoTooltip] misguided quest for vengeance after your righteous victory in [war_memory.GetName]."
  coronation_events_klank.1007.a: "Concerning."
 
  coronation_events_klank.1008.t: "A [ROOT.Char.GetDynasty.GetNameNoTooltip] [dynasty_king.GetTitleAsNameNoTooltip]"
@@ -69,7 +69,7 @@
 
 
  coronation_events_klank.1009.t: "In A Time of Struggle"
- coronation_events_klank.1009.desc: "[left_struggle.GetName] and [right_struggle.GetName] have been locked in a heated debate for days. The times are hard: the whole realm, the whole region engulfed in decades-long struggle.\n\n"[first_struggle_faith.GetAdherentNamePlural] are just waiting for an opportunity to strike at [right_struggle.GetFaith.GetAdherentNamePlural], while the [second_struggle_faith.GetAdherentNamePlural] stand idly by! [host.GetTitledFirstName] cannot possibly navigate this gauntlet!"\n\n[right_struggle.GetTitledFirstName] pauses to take a breath while [left_struggle.GetTitledFirstName] gathers thoughts for a retort. It is a perfect moment for me to interject."
+ coronation_events_klank.1009.desc: "[left_struggle.GetName] and [right_struggle.GetName] have been locked in a heated debate for days. The times are hard: the whole realm, the whole region engulfed in decades-long struggle.\n\n"[first_struggle_faith.GetAdherentNamePlural] are just waiting for an opportunity to strike at [right_struggle.GetFaith.GetAdherentNamePlural], while the [first_struggle_culture.GetCollectiveNoun] stand idly by! [host.GetTitledFirstName] cannot possibly navigate this gauntlet!"\n\n[right_struggle.GetTitledFirstName] pauses to take a breath while [left_struggle.GetTitledFirstName] gathers thoughts for a retort. It is a perfect moment for me to interject."
  coronation_events_klank.1009.a: "[char_struggle.GetNameNoTooltip] can wait. Tonight, enjoy my coronation."
  coronation_events_klank.1009.b: "Silence, detractor."
  coronation_events_klank.1009.c: "In times of [char_struggle.GetCurrentPhase.GetNameNoTooltip], we support [host.GetTitledFirstNameNoTooltip]."

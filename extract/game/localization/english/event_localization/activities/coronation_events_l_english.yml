@@ -388,7 +388,7 @@
  ach_coronation.0027.b: "Well, what could it hurt?"
  ach_coronation.0027.b.hashishiyah: "[stoner.GetSheHe|U] sounds like a [stoner.GetWomanMan] of culture!"
  ach_coronation.0027.c: "At #EMP my#! coronation!? Begone!"
- ach_coronation.0027.d: ""Enjoy without me, [partaker.GetTitleAsNameNoTooltip].""
+ ach_coronation.0027.d: ""Enjoy without me, [partaker.GetFirstNameNoTooltip].""
  ach_coronation.0027.d.host: "A good host leaves plenty for [ROOT.Char.GetHerHis] guests!"
  purchased_hashish_opinion: "Purchased Hashish"
 

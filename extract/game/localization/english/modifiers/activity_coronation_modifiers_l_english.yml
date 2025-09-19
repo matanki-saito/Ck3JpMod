@@ -63,9 +63,11 @@
  ach_coronation_little_birds_modifier: "Little Birds"
  ach_coronation_little_birds_modifier_desc: "This character is backed by the spy network of one of their vassals - a great relief!"
 
+ ach_coronation_expended_resources_modifier: "Expended Resources"
+ ach_coronation_expended_resources_modifier_desc: "This character has recently expended many resources supporting another ruler."
  ach_coronation_expended_resources_martial_modifier: "$ach_coronation_expended_resources_modifier$"
  ach_coronation_expended_resources_martial_modifier_desc: "$ach_coronation_expended_resources_modifier_desc$ Even their own armies have been exhausted."
-  ach_coronation_expended_resources_martial_nomad_modifier: "$ach_coronation_expended_resources_modifier$"
+ ach_coronation_expended_resources_martial_nomad_modifier: "$ach_coronation_expended_resources_modifier$"
  ach_coronation_expended_resources_martial_nomad_modifier_desc: "$ach_coronation_expended_resources_modifier_desc$ Even their own armies have been exhausted."
 
  ach_coronation_expended_resources_intrigue_modifier: "$ach_coronation_expended_resources_modifier$"

@@ -295,7 +295,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
 
  # End the Struggle
  coronation_events.0100.end_the_struggle: "$GetEndTheStruggleOathText$"
- coronation_events.0100.end_the_struggle_flavor: "I swear an oath to end the [GetPlayer.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName]."
+ coronation_events.0100.end_the_struggle_flavor: "I swear an oath to end the Struggle."
 
  # Greatest Hunter
  coronation_events.0100.greatest_hunter: "$GetGreatestHunterOathText$"
@@ -342,25 +342,25 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  ## Learning
  coronation_events.0110.desc.learning_oath_1: "#emp "Let no ruler mistake ignorance for strength. A realm guided by insight shall outlast any built on fear alone.\n\nFrom [activity.GetHost.GetCapitalLocation.GetName], I will gather the finest minds, and through their counsel, shape the future of [activity.GetHost.GetPrimaryTitle.GetNameNoTier]."#!"
  ## Purge Pretenders
- coronation_events.0110.desc.purge_pretenders_oath: "#emp \"False pretenders to [ROOT.Char.GetPrimaryTitle.GetName] have been multiplying like rats in the sewers. And like vermin, they all must be exterminated.\"#!"
+ coronation_events.0110.desc.purge_pretenders_oath: "#emp \"False pretenders to [activity.GetHost.GetPrimaryTitle.GetName] have been multiplying like rats in the sewers. And like vermin, they all must be exterminated.\"#!"
  ## End the Struggle
- coronation_events.0110.desc.end_the_struggle_oath: "#emp \"The [GetPlayer.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName] has slowly bleeding generations of good [ROOT.Char.GetCulture.GetCollectiveNoun]. No longer. I will bring a definitive end to this pointless waste of resources and usher in a new era of joined prosperity in the region, so help me [ROOT.Char.GetFaith.GetName].\"#!"
+ coronation_events.0110.desc.end_the_struggle_oath: "#emp \"The [activity.GetHost.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName] has slowly bleeding generations of good [activity.GetHost.GetCulture.GetCollectiveNoun]. No longer. I will bring a definitive end to this pointless waste of resources and usher in a new era of joined prosperity in the region, so help me [activity.GetHost.GetFaith.GetName].\"#!"
  ## Greatest Hunter
- coronation_events.0110.desc.greatest_hunter_oath: "#emp \"The hunt is not just a test of skill, but a celebration of life and nature. I will become the greatest hunter, master of the wilds, the true sovereign of the untamed heartlands of [ROOT.Char.GetPrimaryTitle.GetNameNoTier].\"#!"
+ coronation_events.0110.desc.greatest_hunter_oath: "#emp \"The hunt is not just a test of skill, but a celebration of life and nature. I will become the greatest hunter, master of the wilds, the true sovereign of the untamed heartlands of [activity.GetHost.GetPrimaryTitle.GetNameNoTier].\"#!"
  ## Heir Preparation
- coronation_events.0110.desc.heir_preparation_oath: "#emp \"Without a proper heir, the [ROOT.Char.GetDynasty.GetName] is doomed for oblivion. I will guide my heir's education, instilling the values and wisdom required to elevate the [ROOT.Char.GetDynasty.GetName] to new heights.\"#!"
+ coronation_events.0110.desc.heir_preparation_oath: "#emp \"Without a proper heir, the [activity.GetHost.GetDynasty.GetName] is doomed for oblivion. I will guide my heir's education, instilling the values and wisdom required to elevate the [activity.GetHost.GetDynasty.GetName] to new heights.\"#!"
  ## Install Claimants
  coronation_events.0110.desc.install_claimants_oath: "#emp \"The rightful claim to the throne is not just a matter of blood, but of justice. I will install the rightful claimants to their thrones, casting down usurpers and restoring order.\"#!"
  ## Mend the Fracture
- coronation_events.0110.desc.mend_the_fracture_oath: "#emp \"The cultural fracture in the realm has caused strife for far too long. I will unite the peoples under a common [ROOT.Char.GetHouse.GetName] banner, while keeping their identities intact.\"#!"
+ coronation_events.0110.desc.mend_the_fracture_oath: "#emp \"The cultural fracture in the realm has caused strife for far too long. I will unite the peoples under a common [activity.GetHost.GetHouse.GetName] banner, while keeping their identities intact.\"#!"
  ## Provide for the Warriors
  coronation_events.0110.desc.provide_for_the_warriors_oath: "#emp \"The warriors of [activity.GetHost.GetPrimaryTitle.GetNameNoTier] are my sword and shield. I will ensure that they are well-equipped and ready to defend our lands.\"#!"
  ## Provide for the Faithful
- coronation_events.0110.desc.provide_for_the_faithful_oath: "#emp \"The faithful of [activity.GetHost.GetPrimaryTitle.GetNameNoTier] are the backbone of my realm. I will ensure that their Earthly needs are met and allow them to focus on being [ROOT.Char.GetFaith.HighGodName] devoted servants, focused on my [ROOT.Char.GetPrimaryTitle.GetTierAsNamePossessive] salvation.\"#!"
+ coronation_events.0110.desc.provide_for_the_faithful_oath: "#emp \"The faithful of [activity.GetHost.GetPrimaryTitle.GetNameNoTier] are the backbone of my realm. I will ensure that their earthly needs are met and allow them to focus on being [ROOT.Char.GetFaith.HighGodName] devoted servants, focused on my [activity.GetHost.GetPrimaryTitle.GetTierAsNamePossessive] salvation.\"#!"
  ## Provide for the Poor
  coronation_events.0110.desc.provide_for_the_poor_oath: "#emp \"The poor of [activity.GetHost.GetPrimaryTitle.GetNameNoTier] are the salt of the earth, the light of the world. They silently toil for the benefit of all. I will ensure even the poorest in my realm can live with dignity and hope.\"#!"
  ## Repent
- coronation_events.0110.desc.repent_oath: "#emp \"What can change the nature of a [ROOT.Char.GetWomanMan]? Is my will enough? Can I convince other [ROOT.Char.GetFaith.GetAdherentNamePlural], can I convice [ROOT.Char.GetFaith.HighGodName] that I truly repent for my sins? It might a foolishness to try, but it would be the gravest sin not to.\"#!"
+ coronation_events.0110.desc.repent_oath: "#emp \"What can change the nature of a [activity.GetHost.GetWomanMan]? Is my will enough? Can I convince other [activity.GetHost..GetFaith.GetAdherentNamePlural], can I convice [activity.GetHost.GetFaith.HighGodName] that I truly repent for my sins? It might be a foolishness to try, but it would be the gravest sin not to.\"#!"
 
  ## Other
  coronation_events.0110.desc.fallback: "#emp \" My rule will be remembered, by those who come after, as the start of a golden age for [activity.GetHost.GetPrimaryTitle.GetNameNoTier].\"#!"
@@ -387,7 +387,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  diplomacy_oath_2_tooltip: "I swear an [oath|E] to #V Strengthen the House#!:\n\t$EFFECT_LIST_BULLET$Need to have at least #V 7#! [legitimate|E] [children|E] #weak (Currently [host.MakeScope.ScriptValue('children_oath_value')|V0]/#V 7#!)#!\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 30 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], [dynasty_prestige_i][dynasty_prestige|E] and [GetModifier('oath_of_children').GetNameWithTooltip]"
  ## Martial
  martial_oath_1_tooltip: "I swear an [oath|E] to #V Consolidate [host.GetPrimaryTitle.GetNameNoTierNoTooltip]#!:\n\t$EFFECT_LIST_BULLET$[host.GetPrimaryTitle.GetName] needs to [completely_control|E] its [de_jure|E] borders #low (Currently [host.MakeScope.ScriptValue('oath_reconquest_value_1')|V0]/[host.MakeScope.ScriptValue('oath_reconquest_value_2')|V0])#!\n$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_reconquest').GetNameWithTooltip]"
- oath_reconquest_tooltip: "[completely_control|E] [de_jure|E] [root_scope.GetPrimaryTitle.GetName] #low ([root_scope.MakeScope.ScriptValue('oath_reconquest_value_1')]/[root_scope.MakeScope.ScriptValue('oath_reconquest_value_2')])#!"
+ oath_reconquest_tooltip: "[completely_control|E] [de_jure|E] [THIS.Var('oath_reconquest_title').Title.GetName] #low ([root_scope.MakeScope.ScriptValue('oath_reconquest_value_1')]/[root_scope.MakeScope.ScriptValue('oath_reconquest_value_2')])#!"
  martial_oath_2_tooltip: "I swear an [oath|E] to #V Expand the Realm#!:\n\t$EFFECT_LIST_BULLET$The [realm|E] needs to at least have a size of [host.MakeScope.ScriptValue('oath_conquest_value_1')|V0] #low (Currently [host.MakeScope.ScriptValue('oath_conquest_value_2')|V0])#!\n$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n$EFFECT_LIST_BULLET$Choose between a boon to the [capital|E] and [de_jure|E] shifting land\n$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_conquest').GetNameWithTooltip]"
  ## Stewardship
  stewardship_oath_1_tooltip: "I swear an [oath|E] to #V Ensure Peace#!:\n\t$EFFECT_LIST_BULLET$Need to have at least #V 5 Years#! of continuous peace\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 50 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], [development_i][development|E], and [GetModifier('oath_of_peace').GetNameWithTooltip]"
@@ -402,13 +402,13 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  learning_oath_1_tooltip_need_development: "\n\t$EFFECT_LIST_BULLET$Need a [county|E] with a [development_i][development|E] of #V 30#! or higher"
 
  #Purge Pretenders
- purge_pretenders_oath_tooltip: "I swear an [oath|E] to #V Purge Pretenders#!:\n\t$EFFECT_LIST_BULLET$No [claimant|E] for your [primary_title|E] except your [children|E] can exists\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_purge_pretenders').GetNameWithTooltip].\n\t$EFFECT_LIST_BULLET$[SelectLocalization(GetPlayer.GetGovernment.IsType('nomad_government'), 'purge_pretenders_oath_nomad', '')][SelectLocalization(GetPlayer.GetGovernment.IsType('administrative_government'), 'purge_pretenders_oath_admin', '')][SelectLocalization(Not(Or(GetPlayer.GetGovernment.IsType('nomad_government'), GetPlayer.GetGovernment.IsType('administrative_government'))), 'purge_pretenders_oath_default', '')]"
+ purge_pretenders_oath_tooltip: "I swear an [oath|E] to #V Purge Pretenders#!:\n\t$EFFECT_LIST_BULLET$No [claimant|E] for your [primary_title|E] except your [children|E] can exists\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 50 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_purge_pretenders').GetNameWithTooltip].\n\t$EFFECT_LIST_BULLET$[SelectLocalization(GetPlayer.GetGovernment.IsType('nomad_government'), 'purge_pretenders_oath_nomad', '')][SelectLocalization(GetPlayer.GetGovernment.IsType('administrative_government'), 'purge_pretenders_oath_admin', '')][SelectLocalization(Not(Or(GetPlayer.GetGovernment.IsType('nomad_government'), GetPlayer.GetGovernment.IsType('administrative_government'))), 'purge_pretenders_oath_default', '')]"
  purge_pretenders_oath_admin: "Your [house|E] gets the [GetModifier('oath_of_purge_pretenders_house').GetNameWithTooltip] [modifier|E]"
  purge_pretenders_oath_nomad: "Your [kurultai|E] and [children|E] [obedience|E] score: #P +100#!"
- purge_pretenders_oath_default: "You get [GetLaw('clan_harmonious_partition_succession_law').GetName]. The [law|E] will reset to your current one upon death."
+ purge_pretenders_oath_default: "You get [GetLaw('single_heir_succession_law').GetName]. The [law|E] will reset to your current one upon death."
 
  # End the Struggle
- end_the_struggle_oath_tooltip: "I swear an [oath|E] to #V End the [GetPlayer.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName]#!:\n\t$EFFECT_LIST_BULLET$Need to take any of the [struggle|E] ending [decisions|E]\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 50 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_end_the_struggle').GetNameWithTooltip]."
+ end_the_struggle_oath_tooltip: "I swear an [oath|E] to #V End the Struggle#!:\n\t$EFFECT_LIST_BULLET$Need to take any of the [struggle|E] ending [decision|E]\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_of_end_the_struggle').GetNameWithTooltip]."
 
  # Greatest Hunter
  greatest_hunter_oath_tooltip: "I swear an [oath|E] to #V Become the Greatest Hunter#!:\n\t$EFFECT_LIST_BULLET$Need to host and successfully finish at least #V 1#! #V Legendary#! [Concept( 'activity', 'Hunt' )|E] or #V 10#! regular [Concept( 'activity', 'Hunts' )|E]. Increased chance of #V Legendary Sightings#! while this [oath|E] is active.\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 40 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], unique [modifiers|E] for a #V Bow#! [artifact|E] and [GetModifier('oath_greatest_hunter').GetNameWithTooltip]"
@@ -416,7 +416,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  heir_preparation_oath_tooltip: "I swear an [oath|E] to #V Prepare the Heir#!:\n\t$EFFECT_LIST_BULLET$Need to have a [primary_heir|E] with #V 10+#! all [skills|E] and at least two #V 14+#! [skills|E].\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 40 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], and [GetModifier('oath_heir_preparation').GetNameWithTooltip]. The [primary_heir|E] will gain [GetModifier('oath_heir_preparation_heir').GetNameWithTooltip]"
 
  # Install Claimants
- install_claimants_oath_tooltip: "I swear an [oath|E] to #V Install Claimants#!:\n\t$EFFECT_LIST_BULLET$Need to win at least #V 3#! [claimant|E] [wars|E]\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], [GetModifier('oath_install_claimants').GetNameWithTooltip], and a [perpetual_hook|E] on every installed [claimant|E] and a [weak_hook|E]on their [primary_heirs|E]."
+ install_claimants_oath_tooltip: "I swear an [oath|E] to #V Install Claimants#!:\n\t$EFFECT_LIST_BULLET$Need to win at least #V 3#! [claimant|E] [wars|E]\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], [GetModifier('oath_install_claimants').GetNameWithTooltip], and a [perpetual_hook|E] on every installed [claimant|E] and a [weak_hook|E] on their [primary_heirs|E]."
  # Mend the Fracture
  mend_the_fracture_oath_tooltip: "I swear an [oath|E] to #V Mend the Fracture#!:\n\t$EFFECT_LIST_BULLET$Need to have at least #V 70#! [cultural_acceptance|E] with a [culture|E] that takes more than #V 40%#! of my [realm|E].\n\t$EFFECT_LIST_BULLET$Needs to be completed within #V 20 Years#!\n\t$EFFECT_LIST_BULLET$Rewards: [legitimacy_i][legitimacy|E], [prestige_i][prestige|E], [GetModifier('oath_mend_the_fracture').GetNameWithTooltip], and both cultures gain the [GetCultureTradition('oath_mend_the_fracture_tradition').GetName] [culture_tradition|E]."
  # Provide for the Warriors
@@ -527,7 +527,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  diplomacy_oath_1_decision_confirm: "I do not stand alone"
  custom_every_allied_ruler: "Every [allied|E] [ruler|E]"
  culture_acceptance_gain_oath: "From [oaths|E]"
- custom_alliance_oath_decision_trigger: "At least #V 5#! [allies|E]:\n\t$EFFECT_LIST_BULLET$Currently, [SCOPE.ScriptValue('alliance_oath_value')|V0] fulfill these requirements\n\t$EFFECT_LIST_BULLET$Opinion of [root_temp_scope.GetShortUIName] is #V 50#! or higher\n\t$EFFECT_LIST_BULLET$One of the following:\n\t\t\t$EFFECT_LIST_BULLET$Is one [title_tier|E] lower\n\t\t\t$EFFECT_LIST_BULLET$Is the same [title_tier|E]\n\t\t\t$EFFECT_LIST_BULLET$Is a higher [title_tier|E]"
+ custom_alliance_oath_decision_trigger: "At least #V 3#! [allies|E]:\n\t$EFFECT_LIST_BULLET$Currently, [SCOPE.ScriptValue('alliance_oath_value')|V0] fulfill these requirements\n\t$EFFECT_LIST_BULLET$Opinion of [root_temp_scope.GetShortUIName] is #V 50#! or higher\n\t$EFFECT_LIST_BULLET$One of the following:\n\t\t\t$EFFECT_LIST_BULLET$Is one [title_tier|E] lower\n\t\t\t$EFFECT_LIST_BULLET$Is the same [title_tier|E]\n\t\t\t$EFFECT_LIST_BULLET$Is a higher [title_tier|E]"
  # Children
  diplomacy_oath_2_decision: "$GetChildrenOathText$ [CoronationTimer('diplomacy_oath_2_decision','diplomacy_oath_2_decision_timer')]"
  diplomacy_oath_2_decision_timer: "\t#weak ([RemainingTime('diplomacy_oath_2_timer')])#!"
@@ -571,7 +571,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  stewardship_oath_2_decision_timer: "\t#weak ([RemainingTime('stewardship_oath_2_timer')])#!"
  stewardship_oath_2_decision_desc: "I will reshape all of [ROOT.Char.GetPrimaryTitle.GetNameNoTier] in my image, leaving a lasting legacy in stone and mortar for the generations to come. $stewardship_oath_2_decision_desc_extra$"
  stewardship_oath_2_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('stewardship_oath_2_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('stewardship_oath_2')]"
- building_oath_trigger: "Construct or upgrade at least #V 10#! [buildings|E] #weak (Currently [SCOPE.ScriptValue('building_oath_value')|V0])#!"
+ building_oath_trigger: "Construct or upgrade at least #V 8#! [buildings|E] #weak (Currently [SCOPE.ScriptValue('building_oath_value')|V0])#!"
  stewardship_oath_2_decision_tooltip: "I have sworn to reshape the realm in my image, leaving a lasting impact on the settlements of the [realm|E]."
  stewardship_oath_2_decision_confirm: "My legacy stands proud"
  every_build_oath_place: "Every [county|E] where a [building|E] was constructed"
@@ -608,24 +608,40 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
 
  # End the Struggle
  end_the_struggle_oath_decision: "$GetEndTheStruggleOathText$ [CoronationTimer('end_the_struggle_oath_decision','end_the_struggle_oath_decision_timer')]"
- end_the_struggle_oath_decision_timer: "\t#weak ([RemainingTime('end_the_struggle_oath_timer')])#!"
- end_the_struggle_oath_decision_desc: "I have sworn to end the [GetPlayer.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName] [struggle|E]. $end_the_struggle_oath_decision_desc_extra$"
+ 
+ end_the_struggle_oath_decision_desc_persian: "I have sworn to end the [GetStruggle('persian_struggle').GetName]. $end_the_struggle_oath_decision_desc_extra$"
+ end_the_struggle_oath_decision_desc_persian_ended: "I have sworn to end the #V Iranian Intermezzo#!. $end_the_struggle_oath_decision_desc_extra$"
+ end_the_struggle_oath_decision_desc_iberian: "I have sworn to end the [GetStruggle('iberian_struggle').GetName]. $end_the_struggle_oath_decision_desc_extra$"
+ end_the_struggle_oath_decision_desc_iberian_ended: "I have sworn to end the #V Iberian Struggle#!. $end_the_struggle_oath_decision_desc_extra$"
  end_the_struggle_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('end_the_struggle_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('end_the_struggle_oath')]"
- end_the_struggle_oath_decision_tooltip: "End the [GetPlayer.MakeScope.Var('end_the_struggle_oath_type_var').Struggle.GetName]"
+ end_the_struggle_oath_decision_tooltip: "End the Struggle"
  end_the_struggle_oath_decision_confirm: "The uncertain times are ended"
- end_the_struggle_oath_decision_flag: "You have finished the [struggle|E] via any ending [decisions|E]."
+ end_the_struggle_oath_decision_flag: "You have finished the [struggle|E] via any ending [decision|E]."
+ end_the_struggle_oath_decision_trigger_persian: "You have finished the [GetStruggle('persian_struggle').GetName] via any ending [decision|E]."
+ end_the_struggle_oath_decision_trigger_persian_ended: "You have finished the #V Iranian Intermezzo#! via any ending [decision|E]."
+ end_the_struggle_oath_decision_trigger_iberian: "You have finished the [GetStruggle('iberian_struggle').GetName] via any ending [decision|E]."
+ end_the_struggle_oath_decision_trigger_iberian_ended: "You have finished the #V Iberian Struggle#! via any ending [decision|E]."
+
+ end_the_struggle_oath_decision_title_persian: "End the [GetStruggle('persian_struggle').GetNameNoTooltip] [CoronationTimer('end_the_struggle_oath_decision_persian','end_the_struggle_oath_decision_timer')]"
+ end_the_struggle_oath_decision_title_persian_ended: "End the #V Iranian Intermezzo#!  [CoronationTimer('end_the_struggle_oath_decision_persian','end_the_struggle_oath_decision_timer')]"
+ end_the_struggle_oath_decision_title_iberian: "End the [GetStruggle('iberian_struggle').GetNameNoTooltip] [CoronationTimer('end_the_struggle_oath_decision_iberian','end_the_struggle_oath_decision_timer')]"
+  end_the_struggle_oath_decision_title_iberian_ended: "End the #V Iberian Struggle#!  [CoronationTimer('end_the_struggle_oath_decision_iberian','end_the_struggle_oath_decision_timer')]"
+ end_the_struggle_oath_decision_timer: "\t#weak ([RemainingTime('end_the_struggle_oath_timer')])#!"
 
  # Greatest Hunter
  greatest_hunter_oath_decision: "$GetGreatestHunterOathText$ [CoronationTimer('greatest_hunter_oath_decision','greatest_hunter_oath_decision_timer')]"
  greatest_hunter_oath_decision_timer: "\t#weak ([RemainingTime('greatest_hunter_oath_timer')])#!"
  greatest_hunter_oath_decision_desc: "I have sworn to become the greatest hunter the land has every known, my tales of the chase told until the end of time. $greatest_hunter_oath_decision_desc_extra$"
  greatest_hunter_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('greatest_hunter_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('greatest_hunter_oath')]"
- greatest_hunter_oath_decision_tooltip: "Host #V 3#! Successful Legendary Hunts"
+ greatest_hunter_oath_decision_tooltip: "Host a Successful Legendary Hunt"
  greatest_hunter_oath_decision_confirm: "I am a hunter without compare"
  greatest_hunter_decision_l3_trigger: "Host a successful #V Legendary#! [GetActivityType('activity_hunt').GetTextIcon][GetActivityType('activity_hunt').GetName] #V 3#! times ([THIS.Char.MakeScope.Var('greatest_hunter_oath_l_counter').GetValue|0]/3)"
  greatest_hunter_decision_l1_trigger: "Host a successful #V Legendary#! [GetActivityType('activity_hunt').GetTextIcon][GetActivityType('activity_hunt').GetName] #V once#!([THIS.Char.MakeScope.Var('greatest_hunter_oath_l_counter').GetValue|0]/1)"
  greatest_hunter_decision_r10_trigger: "Host a successful [GetActivityType('activity_hunt').GetTextIcon][GetActivityType('activity_hunt').GetName] #V 10#! times ([THIS.Char.MakeScope.Var('greatest_hunter_oath_l_counter').GetValue|0]/10)"
  greatest_hunter_decision_trigger_2: "You have a #V Bow#! type [artifact|E]"
+ greatest_hunter_decision_no_artifact_xp_effect: "Your #V Bow#! type [artifact|E] gains #V #P 20%#! $trait_track_hunter_xp_gain_mult$#!"
+ greatest_hunter_decision_no_artifact_stress_effect: "Your #V Bow#! type [artifact|E] gains #V #P -15%#! [stress|E] Gain#!"
+ greatest_hunter_decision_no_artifact_tribal_effect: "Your #V Bow#! type [artifact|E] gains #V #P +6#! [tribal|E] [opinion|E]#!"
 
  # Heir Preparation
  heir_preparation_oath_decision: "$GetHeirPreparationOathText$ [CoronationTimer('heir_preparation_oath_decision','heir_preparation_oath_decision_timer')]"
@@ -634,6 +650,13 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  heir_preparation_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('heir_preparation_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('heir_preparation_oath')]"
  heir_preparation_oath_decision_tooltip: "Prepare your [primary_heir|E] for the future"
  heir_preparation_oath_decision_confirm: "The succession is safe"
+ heir_preparation_oath_decision_no_heir: "Your [primary_heir|E] is #V your#! [child|E]"
+ heir_preparation_oath_decision_heir_under_12: "Your [primary_heir|E] is at least #V 12#! years old"
+ heir_preparation_oath_decision_heir_stats_10: "Your [primary_heir|E] has at least #V 10#! in all [skills|E]"
+ heir_preparation_oath_decision_heir_stats_14: "Your [primary_heir|E] has at least #V 14#! in any [skill|E]"
+ heir_preparation_oath_decision_heir_stats_intellect: "Your [primary_heir|E] has a [trait|E] from the Bright Minds group"
+ heir_preparation_oath_decision_heir_stats_beauty: "Your [primary_heir|E] has a [trait|E] from the Beautiful Characters group"
+ heir_preparation_oath_decision_heir_stats_physique: "Your [primary_heir|E] has a [trait|E] from the Physical Specimens group"
 
  # Install Claimants
  install_claimants_oath_decision: "$GetInstallClaimantsOathText$ [CoronationTimer('install_claimants_oath_decision','install_claimants_oath_decision_timer')]"
@@ -642,7 +665,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  install_claimants_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('install_claimants_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('install_claimants_oath')]"
  install_claimants_oath_decision_tooltip: "Install [claimants|E]"
  install_claimants_oath_decision_confirm: "Farewell, false rulers!"
- install_claimants_oath_decision_trigger: "#V [GetPlayer.MakeScope.Var('install_claimants_oath_counter').GetValue|0]/5#! [claimants|E] installed via [wars|E]"
+ install_claimants_oath_decision_trigger: "#V [GetPlayer.MakeScope.Var('install_claimants_oath_counter').GetValue|0]/3#! [claimants|E] installed via [wars|E]"
 
  # Mend The Fracture
  mend_the_fracture_oath_decision: "$GetMendTheFractureOathText$ [CoronationTimer('mend_the_fracture_oath_decision','mend_the_fracture_oath_decision_timer')]"
@@ -657,7 +680,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  provide_for_the_warriors_oath_decision_timer: "\t#weak ([RemainingTime('provide_for_the_warriors_oath_timer')])#!"
  provide_for_the_warriors_oath_decision_desc: "I have sworn to provide for the [ROOT.Char.Custom('KnightCulturePluralNoTooltipLowercase')] and [ROOT.Char.Custom('GetFighterTermPlural')] of [ROOT.Char.GetPrimaryTitle.GetNameNoTier], lavishing reward upon them so they may be armed well for struggles to come. $provide_for_the_warriors_oath_decision_desc_extra$"
  provide_for_the_warriors_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('provide_for_the_warriors_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('provide_for_the_warriors_oath')]"
- provide_for_the_warriors_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_warriors_building_03').GetName] [buildings|E]."
+ provide_for_the_warriors_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_warriors_building_02').GetName] [buildings|E]."
  provide_for_the_warriors_oath_decision_confirm: "Their might is my right to rule"
 
  # Provide for the Faithful
@@ -665,7 +688,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  provide_for_the_faithful_oath_decision_timer: "\t#weak ([RemainingTime('provide_for_the_faithful_oath_timer')])#!"
  provide_for_the_faithful_oath_decision_desc: "I have sworn my patronage towards the [ROOT.Char.GetPrimaryTitle.GetAdjective] faithful, and to build new pious institutions in the land. $provide_for_the_faithful_oath_decision_desc_extra$"
  provide_for_the_faithful_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('provide_for_the_faithful_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('provide_for_the_faithful_oath')]"
- provide_for_the_faithful_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_faithful_building_03').GetName] [buildings|E]."
+ provide_for_the_faithful_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_faithful_building_02').GetName] [buildings|E]."
  provide_for_the_faithful_oath_decision_confirm: "Faith is our strength"
 
  # Provide for the Poor
@@ -673,7 +696,7 @@ ach_coronation_low_feast_modifier_desc: "The insultingly meager celebrations sur
  provide_for_the_poor_oath_decision_timer: "\t#weak ([RemainingTime('provide_for_the_poor_oath_timer')])#!"
  provide_for_the_poor_oath_decision_desc: "I have sworn to provide for the poor of [ROOT.Char.GetPrimaryTitle.GetNameNoTier], as their kindly and charitable sovereign. $provide_for_the_poor_oath_decision_desc_extra$"
  provide_for_the_poor_oath_decision_desc_extra: "\n\n@alert_icon!#alert_trial [RemainingTime('provide_for_the_poor_oath_timer')] remain to complete the [oath|E]#![IsOngoingCoronationOath('provide_for_the_poor_oath')]"
- provide_for_the_poor_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_poor_building_03').GetName] [buildings|E]."
+ provide_for_the_poor_oath_decision_tooltip: "Build #V 3#! [GetBuilding('oath_poor_building_02').GetName] [buildings|E]."
  provide_for_the_poor_oath_decision_confirm: "The needy no longer suffer"
 
   # Repent
@@ -820,7 +843,7 @@ coronation_events.0311.desc.mid_magnificence: "My coronation is finished. The gu
 coronation_events.0311.desc.low_magnificence: "My meager coronation is finished. I might be a poor host, but a [ROOT.Char.GetTitleAsNameNoTooltip] nonetheless."
 coronation_events.0311.a: "My reign begins."
 
-coronation_nomadic_herd_reward: "You are given [coronation_herd_value.GetValue|V0] [herd|E] by [coronation_supporters|E]"
+coronation_nomadic_herd_reward: "You are given [herd_i] [TopScope.GetValue('coronation_herd_value')|+0] by [coronation_supporters|E]"
 
 coronation_events.0312.t: "Celebration's End"
 coronation_events.0312.desc.high_magnificence: "The magnificent coronation is finished. The guests depart, all profoundly impressed by the splendid ceremonies."
@@ -856,15 +879,15 @@ coronation_host_reward_tier_five_tt: "Affected: [first_reward_target.GetName], [
 cultural_acceptance_gain_coronation_host_reward: "Impress Attendees Coronation Intent"
 ach_intent_opinion: "A Very Impressed Attendee"
 ach_intent_prestige_guest_modifier: "Impressed Attendee"
-ach_intent_prestige_guest_modifier_desc: "This character was a supporter and an honored guest during the coronation of their newly crowned sovereign."
+ach_intent_prestige_guest_modifier_desc: "This character was a supporter and an honored guest during the coronation of the newly crowned sovereign."
 ach_intent_prestige_modifier: "Impressive Host"
 ach_intent_prestige_modifier_desc: "This character hosted a magnificent coronation."
 ach_intent_faction_joining_prevention_modifier: "Weakened Detractor: Factions"
-ach_intent_faction_joining_prevention_modifier_desc: "#weak This character cannot start or join factions.#!\nA vocal detractor during the coronation of their newly crowned sovereign, silenced by the magnificence of the ceremony."
+ach_intent_faction_joining_prevention_modifier_desc: "#weak This character cannot start or join factions.#!\nA vocal detractor during the coronation of the newly crowned sovereign, silenced by the magnificence of the ceremony."
 ach_intent_imprisonment_modifier: "Cowed Detractor: Imprisonment"
-ach_intent_imprisonment_modifier_desc: "#weak This character is more easily imprisoned.#!\nA loud detractor of their newly crowned sovereign, the magnificence of the coronation ceremony has cowed them into submission."
+ach_intent_imprisonment_modifier_desc: "#weak This character is more easily imprisoned.#!\nA loud detractor of the newly crowned sovereign, the magnificence of the coronation ceremony has cowed them into submission."
 ach_intent_better_councillors_modifier: "Embrace Supporters: Councilors"
-ach_intent_better_councillors_modifier_desc: "This character was a staunch supporter of their newly crowned sovereign and is especially eager to prove themselves as a councilor."
+ach_intent_better_councillors_modifier_desc: "This character was a staunch supporter of the newly crowned sovereign and is especially eager to prove themselves as a councilor."
 ach_intent_vassal_development_boost_modifier: "Embrace Supporters: Development"
 ach_intent_vassal_development_boost_modifier_desc: "Flourishing crops, freshly cut wood and stone for construction: the lands of this character are graced with an economic upturn, thanks to its newly crowned sovereign."
 ach_intent_vassal_defensive_boost_modifier: "Embrace Supporters: Defense"
