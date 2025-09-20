@@ -367,7 +367,7 @@
  ach_coronation.0027.b: "まあ、一口くらいなら構うまい？"
  ach_coronation.0027.b.hashishiyah: "[stoner.GetSheHe|U]は、なかなか教養のある[stoner.GetWomanMan]のようだな！"
  ach_coronation.0027.c: "#EMP 私の#!戴冠式でだと!?　失せろ！"
- ach_coronation.0027.d: "「私は遠慮しておこう、[partaker.GetTitleAsNameNoTooltip]」"
+ ach_coronation.0027.d: "「私は遠慮しておこう、[partaker.GetFirstNameNoTooltip]」"
  ach_coronation.0027.d.host: "良き主催者は、客人のためにたっぷり残しておくものだ！"
  purchased_hashish_opinion: "ハシシを購入した"
  ach_coronation.0028.t: "正統なる酩酊"

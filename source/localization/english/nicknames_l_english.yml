@@ -558,7 +558,7 @@
  nick_the_defender_of_highgod_desc:1 "[CHARACTER.GetFaith.GetName]が[CHARACTER.GetShortUINameNoTooltipNoFormat]ほどの擁護者を現世で得ることはほとんどないだろう。"
  nick_the_blood_motherfather_desc:1 "人々はその異名を恐怖と畏敬とともに囁く――この人物のように家族を扱うには、ある種の[CHARACTER.Custom('MatriarchPatriarch')]が必要なのだ。"
  nick_the_divine_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat]のことを耳にすると、ほとんどの者は次のように考えることだろう――少なくとも、かの者は神に祝福されているのだろうと。"
- nick_the_anointed_desc:1 "農民たちが囁くところによると、[CHARACTER.GetFaith.GetHighGodName]は現世において[CHARACTER.GetFaith.HighGodHerHis]の仕事をさせるために[CHARACTER.GetShortUINameNoTooltipNoFormat]を選んだのだという。"
+ nick_the_anointed_desc:1 "農民たちが囁くところによると、[CHARACTER.GetFaith.HighGodName]は現世において[CHARACTER.GetFaith.HighGodHerHis]の仕事をさせるために[CHARACTER.GetShortUINameNoTooltipNoFormat]を選んだのだという。"
  nick_the_stupor_mundi_desc:1 "少々傲慢な異名かもしれないが…かの者が世界の驚異でないとしたら、一体なんだというのだ？"
  nick_the_glass_desc:1 "ガラスで奇妙な小屋を建てることに対する[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U]の執着ぶりは、話題になると同時に混乱を招いている。"
  nick_the_trojan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]は古のコリネウスと肩を並べ、トロイの真の後継者を復活させた――すなわち、ドゥムノニアを。"

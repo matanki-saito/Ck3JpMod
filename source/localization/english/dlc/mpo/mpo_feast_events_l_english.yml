@@ -90,7 +90,7 @@
  rival_stole_my_horse_corresponding: "[TARGET_CHARACTER.GetShortUIName|U]は[CHARACTER.GetShortUINamePossessive|U]の愛馬を盗んだ。"
  feast_tsagaan_sar_events.0200.t: "シャガイの勝負"
  feast_tsagaan_sar_events.0200.desc: "「やあ、[ROOT.Char.GetFirstNameNoTooltip]殿！」と[gambler.GetName]が声をかけてきた。「少しお時間があるようですね。[Glossary( 'シャガイ', 'SHAGAI_GLOSS' )]の勝負でもいかがです？」そう言って、[gambler.GetSheHe]は手のひらに数個の足骨を転がす。\n\n[gambler.GetSheHe|U]は地面に胡坐をかき、私にも腰を下ろすよう促した。[gambler.GetFirstNameNoTooltip]はルールを思い出させてくれ、我らは交互に骨を投げ始めた。"
- ts_wager: "あなたは[gold_i]を賭ける"
+ ts_wager: "賭け金：[gold_i]"
  feast_tsagaan_sar_events.0200.a: "賭けなくては面白くない！"
  feast_tsagaan_sar_events.0200.a_tt: "$ts_wager$#V [GetPlayer.MakeScope.ScriptValue('medium_gold_value')]#!"
  feast_tsagaan_sar_events.0200.b_tt: "$ts_wager$#V [GetPlayer.MakeScope.ScriptValue('minor_gold_value')]#!"

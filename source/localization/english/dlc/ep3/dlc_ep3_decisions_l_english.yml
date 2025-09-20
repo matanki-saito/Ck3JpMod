@@ -1176,3 +1176,4 @@
  you_have_governorship_rights_tt: "あなたの支配する[GetPlayer.Custom('GetProvinceConcept')]において、[liege|E]より#high 州家門権#!が授与された"
  governorship_is_on_the_border_tt: "あなたの[GetPlayer.Custom('GetProvinceConcept')]は別の[realm|E]と隣接している"
  holds_latin_empire_tt: "あなたは[GetTitleByKey('e_latin_empire').GetName]を保有している"
+ separatist_uprising_culture_duchy_check_tt: "[de_jure|E] [duchy|E] of your current location exists."

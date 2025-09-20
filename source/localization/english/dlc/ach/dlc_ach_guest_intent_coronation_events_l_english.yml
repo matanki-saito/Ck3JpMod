@@ -112,4 +112,4 @@
  coronation_faction_bolstered_modifier: "反乱の旗頭"
  coronation_faction_bolstered_modifier_desc: "主君の戴冠式で不和の種を蒔いた後、この人物の旗のもとに不満を抱いた戦士たちが群がっている。"
  coronation_guest_intent_disrupt_happened_tt: "#weak #EMP これはあなたの[coronation|E]における[coronation_detractors|E]の強い存在感によって引き起こされた#!#!"
- coronation_guest_intent_disrupt_happened_sender_tt: "「#weak #EMP これは[petition_sender.GetTitledFirstName]の強力な影響によって引き起こされた#!#!」"
+ coronation_guest_intent_disrupt_happened_sender_tt: "#weak #EMP これは[petition_sender.GetTitledFirstName]の強力な影響によって引き起こされた#!#!"

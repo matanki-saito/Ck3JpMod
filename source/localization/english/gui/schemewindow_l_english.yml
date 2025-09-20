@@ -458,3 +458,4 @@
  SCHEME_CONVINCED_AT_FEAST: "饗宴で説得された：$VALUE|0=-+$"
  ai_acceptance_trait_pilgrim: "私は[GetTrait('pilgrim').GetName( GetNullCharacter )]である：$VALUE|+0=$"
  ai_acceptance_trait_faith_warrior: "私は[GetTrait('faith_warrior').GetName( GetNullCharacter )]である：$VALUE|+0=$"
+ ai_acceptance_trait_holy_warrior: "I am a [GetTrait('holy_warrior').GetName( GetNullCharacter )]: $VALUE|+0=$"

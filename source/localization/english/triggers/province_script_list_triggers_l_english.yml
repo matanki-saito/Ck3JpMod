@@ -18,3 +18,6 @@
  ANY_OF_MY_DIRECTLY_OWNED_PROVINCES:0 "いずれかの男爵領"
  ANY_OF_THEIR_DIRECTLY_OWNED_PROVINCES:0 "[CHARACTER.GetShortUINamePossessive]が保有する任意の男爵領："
  monthly_county_control_change: "毎月の伯爵領の[control|E]の変化"
+ ALL_DIRECTLY_OWNED_PROVINCES_COUNT:0 "$PARAMETERS$ of Held Baronies:"
+ ANY_OF_MY_DIRECTLY_OWNED_PROVINCES_COUNT:0 "$PARAMETERS$ of your Held Baronies:"
+ ANY_OF_THEIR_DIRECTLY_OWNED_PROVINCES_COUNT:0 "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] Held Baronies:"
