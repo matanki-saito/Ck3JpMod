@@ -27,7 +27,7 @@
  travel_danger_events.5000.c.failure:0 "[entourage_member_two.GetFirstNameNoTooltip]が勝つ"
  travel_danger_events.5010.t:0 "$travel_danger_prefix$部屋が無い"
  travel_danger_events.5010.desc.intro:0 "数日間の疲れた旅行の後、夜の宿を求めてここ[location.GetName]に立ち寄りました。可能な宿泊施設について問い合わせるために、[ROOT.Char.Custom2('RelationToMeShort', travel_leader )]の[travel_leader.GetName]を送った。しかし、彼がここに戻ったときの[travel_leader.GetHerHis]の顔の憂鬱な表情は、良い兆候ではない…\n\n"
- travel_danger_events.5010.desc.seriously:0 "「[ROOT.Char.GetLadyLord]よ、あなたが推測したように…」\n\n[travel_leader.GetSheHe|U]は絶望して[travel_leader.GetHerHis]の頭を落とします。ああ[angry_char.Custom('InsultAdjective')] [angry_char.Custom('InsultNoun')]、[angry_char.GetTitledFirstName]は、この旅を生き地獄にでもしたいというのか？"
+ travel_danger_events.5010.desc.seriously:0 "「[ROOT.Char.GetLadyLord]よ、あなたが推測したように…」\n\n[travel_leader.GetSheHe|U]は絶望して[travel_leader.GetHerHis]の頭を落とした。\nああ[angry_char.Custom('InsultAdjective')][angry_char.Custom('InsultNoun')]、[angry_char.GetTitledFirstName]は、この旅を生き地獄にでもしたいというのか？"
  travel_danger_events.5010.desc.again:0 "「我が[ROOT.Char.GetLadyLord]よ、宿屋の主人は#EMP 絶対に満室#!だと言い張っています。[angry_char.GetName]がどうにも我々がここに来ることを広めたようです」"
  travel_danger_events.5010.desc:0 "「我が[ROOT.Char.GetLadyLord]よ。旅館の所有者は、談話室に常連客がほとんどいなかったにもかかわらず、彼らは縁までいっぱいだと言います。これらの土地は[angry_char.GetName]のものであるためにこのようなことをしているのかと…」"
  travel_danger_events.5010.a_seriously:0 "[angry_char.GetFirstNameNoTooltip]め、いつか後悔させてやるぞ…"

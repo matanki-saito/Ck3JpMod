@@ -25,7 +25,7 @@
  ep3_story_cycle_admin_eunuch.2015.a: "大いに助かっているぞ、[eunuch.GetFirstNameNoTooltip]。"
  ep3_story_cycle_admin_eunuch.2015.b: "いや、これしき自分で何とかできる。"
  ep3_story_cycle_admin_eunuch.2021.t: "$admin_eunuch_header$ 高位の座"
- ep3_story_cycle_admin_eunuch.2021.desc: "私の宦官[eunuch.GetTitledFirstName]がごく内輪の会合を設けたのだが、そこへ現れた[eunuch.GetHerHim]が見知らぬ誰かを連れていたのには驚かされた。「おお、[ROOT.Char.GetTitleAsNameNoTooltip]様！」と[eunuch.GetSheHe]は甲高い声をあげる。「こちらは私の[governor.Custom('ComplimentAdjective')]なる[eunuch.Custom2('RelationToMeShort', SCOPE.sC('governor'))]、[governor.GetTitledFirstName]にございます。ご存知でございましょうや？」\n\n事前に十分仕込まれていたかのような見事な所作で、その[governor.GetWomanMan]は私の前で自らを印象づけるよう振る舞った。\n\n「我が君、この[governor.GetFirstNameNoTooltip]こそ、[title.GetAdjective][title.GetTierAsNameNoTooltip]の総督として#EMP まことに相応しき#!候補者にございます──少なくとも、他の誰よりも…」"
+ ep3_story_cycle_admin_eunuch.2021.desc: "私の宦官[eunuch.GetTitledFirstName]がごく内輪の会合を設けたのだが、そこへ現れた[eunuch.GetHerHim]が見知らぬ誰かを連れていたのには驚かされた。「おお、[ROOT.Char.GetTitleAsNameNoTooltip]様！」と[eunuch.GetSheHe]は甲高い声をあげる。「こちらは私の[governor.Custom('ComplimentAdjective')][eunuch.Custom2('RelationToMeShort', SCOPE.sC('governor'))]、[governor.GetTitledFirstName]にございます。ご存知でございましょうや？」\n\n事前に十分仕込まれていたかのような見事な所作で、その[governor.GetWomanMan]は私の前で自らを印象づけるよう振る舞った。\n\n「我が君、この[governor.GetFirstNameNoTooltip]こそ、[title.GetAdjective][title.GetTierAsNameNoTooltip]の総督として#EMP まことに相応しき#!候補者にございます──少なくとも、他の誰よりも…」"
  ep3_story_cycle_admin_eunuch.2021.a.grant: "よかろう。[title.GetNameNoTierNoTooltip]は[governor.GetFirstNamePossessiveNoTooltip]のものとする。"
  ep3_story_cycle_admin_eunuch.2021.a: "うむ。[governor.GetFirstNameNoTooltip]を候補に加えておこう。"
  ep3_story_cycle_admin_eunuch.2021.b: "そなたの[eunuch.Custom2('RelationToMeShort', SCOPE.sC('governor'))]は、しかるべき手続きを経るべきだ。"

@@ -331,7 +331,7 @@
  ach_coronation.0023.a: "こやつこそ#EMP まさに#![GetCourtPositionType('bodyguard_court_position').GetNameNoTooltip]にうってつけではないか！"
  ach_coronation.0023.b: "[foreign_warrior.GetSheHe|U]を我が[GetCourtPositionType('champion_court_position').GetNameNoTooltip]としよう！"
  ach_coronation.0023.c: "我が宮廷へようこそ！"
- ach_coronation.0023.d: "この[foreign_warrior.Custom('InsultAdjective')]な[ROOT.Char.Custom2('GetUnbelieverTermAdjective', foreign_warrior)]を、直ちに連れ出せ！"
+ ach_coronation.0023.d: "この[foreign_warrior.Custom('InsultAdjective')][ROOT.Char.Custom2('GetUnbelieverTermAdjective', foreign_warrior)]を、直ちに連れ出せ！"
  cultural_acceptance_gain_accepted_foreign_warrior:0 "異国の戦士を受け入れた"
  ach_coronation.0025.t: "酒と歓びを"
  ach_coronation.0025.desc: "宴席の外へ出て、新鮮な空気と[feast_location.GetBaronyNameExplicitly]の眺めを楽しむ。茂みでは恋人たちが囁き合い、そのすぐそばで地元の[ROOT.Char.Custom('KnightCultureNoTooltip')|l]が危なっかしく吐いている。頭上には[feast_location.GetTitle.Custom('BaronyTownType')]の祝祭の喧噪が漂う。\n\nその時、妙案がひらめいた！"

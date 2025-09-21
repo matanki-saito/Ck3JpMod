@@ -41,7 +41,7 @@
  mongol_invasion.2002.opening:0 "名誉ある天地の支配者よ、"
  mongol_invasion.2002.desc:0 "私はあなたの正当にして慈悲深いご厚意に従います。あなたの運命に仇なす者にはあなたと共に立ち向かいます。"
  mongol_invasion.2002.a:0 "賢明な選択だ、我が下僕よ。"
- mongol_invasion.2003.opening:0 "この[mongol_emperor.Custom('InsultAdjective')]な[mongol_emperor.GetTitleAsNameNoTooltip]の偽物め、"
+ mongol_invasion.2003.opening:0 "この[mongol_emperor.Custom('InsultAdjective')][mongol_emperor.GetTitleAsNameNoTooltip]の偽物め、"
  mongol_invasion.2003.desc:0 "私が脅しに負けて膝を折るとでも？真の支配者として、おまえの無敵と驕りし騎兵、それを打破する様を見せてやる！"
  mongol_invasion.2003.a:0 "よかろう、戦って死ね。"
  mongol_invasion.2101.desc:0 "そなたは今まで余の良き下僕であり、友であった。余はそなたの奉仕を正式なものにする時と考える。天地の支配者への忠誠を誓うのだ。"

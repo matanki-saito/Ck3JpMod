@@ -114,7 +114,7 @@
  mpo_imprisoned_assassin_modifier: "囚われし刺客たち"
  mpo_imprisoned_assassin_modifier_desc: "この人物は自らの命を狙った者を捕らえることに成功した。"
  nomad_events.0100.t: "我が群れにあらず"
- nomad_events.0100.desc: "「[ROOT.Char.GetTitleAsNameNoTooltip]、これが信じられますか!?」[vassal_1.GetTitledFirstName]がこちらへ駆け寄ってくる。「あの[vassal_2.Custom('InsultAdjective')]な[vassal_2.GetFirstName]めが、夜のうちに私の囲いに忍び込み、まるで割れ目に潜る虫のようにして家畜を盗みおったのです」\n\n「盗まれたものをすべて返していただきたい。それが叶わぬのなら、我が手で奪い返しますぞ」"
+ nomad_events.0100.desc: "「[ROOT.Char.GetTitleAsNameNoTooltip]、これが信じられますか!?」[vassal_1.GetTitledFirstName]がこちらへ駆け寄ってくる。「あの[vassal_2.Custom('InsultAdjective')][vassal_2.GetFirstName]めが、夜のうちに私の囲いに忍び込み、まるで割れ目に潜る虫のようにして家畜を盗みおったのです」\n\n「盗まれたものをすべて返していただきたい。それが叶わぬのなら、我が手で奪い返しますぞ」"
  nomad_events.0100.aa: "「それは私のものだったはずだが？」"
  nomad_events.0100.a: "「[vassal_2.GetTitledFirstNameNoTooltip]には家畜を返してもらおう」"
  nomad_events.0100.b: "「この訴えには信が置けぬな」"

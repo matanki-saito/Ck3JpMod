@@ -79,7 +79,7 @@
  employer_booner_bodyguard_modifier: "実践訓練"
  employer_booner_bodyguard_modifier_desc: "この人物は熟練した守衛から個人的な訓練を受けている。"
  court.8196.t: "鞍の上で"
- court.8196.desc: "我が[GetCourtPositionType('master_of_horse_court_position').GetName()]である[position_holder.GetTitledFirstName]は、[position_holder.Custom('ComplimentAdjective')]な才能を持ち、その価値は計り知れないと広く認められている。\n\n馬たちの訓練と精密さは飛躍的に向上しており、[position_holder.GetSheHe]は動物もその騎手も自然と統制する能力に優れている。\n\n本日、[position_holder.GetSheHe]は玉座の間にて私のもとに現れ、こう直接尋ねた。\n\n「我が[ROOT.Char.GetTitleAsNameNoTooltip]、適切な厩舎管理の指針を策定すべきでしょうか、それとも訓練に専念すべきでしょうか？」"
+ court.8196.desc: "我が[GetCourtPositionType('master_of_horse_court_position').GetName()]である[position_holder.GetTitledFirstName]は、[position_holder.Custom('ComplimentAdjective')]才能を持ち、その価値は計り知れないと広く認められている。\n\n馬たちの訓練と精密さは飛躍的に向上しており、[position_holder.GetSheHe]は動物もその騎手も自然と統制する能力に優れている。\n\n本日、[position_holder.GetSheHe]は玉座の間にて私のもとに現れ、こう直接尋ねた。\n\n「我が[ROOT.Char.GetTitleAsNameNoTooltip]、適切な厩舎管理の指針を策定すべきでしょうか、それとも訓練に専念すべきでしょうか？」"
  court.8196.a: "馬にかかる費用を節約したいのだが…。"
  court.8196.b: "鞍だけじゃ役に立たないしな。"
  court.8196.c: "両方を解決できないかね。"

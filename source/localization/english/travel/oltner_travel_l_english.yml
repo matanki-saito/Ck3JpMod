@@ -218,7 +218,7 @@
  safe_routes_modifier_desc: "この一行は十分な警戒をしている。"
  do_it_yourself: "何かしてほしいことがあるのなら、自分でやったほうがいい…"
  travel_events_oltner_2.1180.t: "月明かりの告白"
- travel_events_oltner_2.1180.desc: "[location.GetName]の月光の下で、私は[ROOT.Char.Custom2('RelationToMeShort', entourage_member_1 )] [entourage_member_1.GetFirstName]と私の[ROOT.Char.Custom2('RelationToMeShort', entourage_member_2 )] [entourage_member_2.GetFirstName]の親密な会話を耳にした。\n\n「ああ、[entourage_member_1.GetFirstNameNoTooltip]、私の[entourage_member_1.Custom('RomanticComplimentAdjective')] [entourage_member_1.Custom('RomanticComplimentNoun')]、きみのおかげで星明かりの夜が忘れられないものになるよ」と、 [entourage_member_2.GetFirstNameNoTooltip]は告白し、[entourage_member_2.GetHerHis]声は震えていた。[entourage_member_1.GetFirstNameNoTooltip]は優しく応えた。「こんなに私のことを理解してくれる人に出会えるとは思ってもみなかった」\n\n私の一行の間で愛が芽生えてるみたいだ…。"
+ travel_events_oltner_2.1180.desc: "[location.GetName]の月光の下で、私は[ROOT.Char.Custom2('RelationToMeShort', entourage_member_1 )] [entourage_member_1.GetFirstName]と私の[ROOT.Char.Custom2('RelationToMeShort', entourage_member_2 )] [entourage_member_2.GetFirstName]の親密な会話を耳にした。\n\n「ああ、[entourage_member_1.GetFirstNameNoTooltip]、私の[entourage_member_1.Custom('RomanticComplimentAdjective')][entourage_member_1.Custom('RomanticComplimentNoun')]、きみのおかげで星明かりの夜が忘れられないものになるよ」と、 [entourage_member_2.GetFirstNameNoTooltip]は告白し、[entourage_member_2.GetHerHis]声は震えていた。[entourage_member_1.GetFirstNameNoTooltip]は優しく応えた。「こんなに私のことを理解してくれる人に出会えるとは思ってもみなかった」\n\n私の一行の間で愛が芽生えてるみたいだ…。"
  travel_events_oltner_2.1180.a: "魅力的だが、[seduced_entourage.GetFirstNameNoTooltip]は #EMP 私#!には抵抗できない。"
  travel_events_oltner_2.1180.b: "「やあ！何の話？私も混ぜてよ！」"
  travel_events_oltner_2.1180.c: "これは大事件だ…。もしこれが表沙汰になったら#EMP 本当に残念#!なことになる…。"

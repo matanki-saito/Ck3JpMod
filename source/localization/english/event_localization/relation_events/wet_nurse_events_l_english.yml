@@ -226,7 +226,7 @@
  bp2_yearly.7021.b_root: "我が[ROOT.Char.Custom2('RelationToMeShort', duelist_1)]、[duelist_1.GetFirstNameNoTooltip]に挑もう！"
  bp2_yearly.7021.b: "[teentribal.GetSheHe|U]は私の[teentribal.Custom2('RelationToMeShort', duelist_1)|l]、[duelist_1.GetFirstNameNoTooltip]と戦います"
  bp2_yearly.7021.b.tt: "[teentribal.GetFirstName]は[duelist_1.GetFirstName]に挑み、[single_combat_duel|E]をします"
- bp2_yearly.7021.c: "来い、[duelist_2.Custom('ComplimentAdjective')]の[duelist_2.GetFirstNameNoTooltip]！"
+ bp2_yearly.7021.c: "来い、[duelist_2.Custom('ComplimentAdjective')][duelist_2.GetFirstNameNoTooltip]！"
  bp2_yearly.7021.c_root: "[ROOT.Char.Custom2('RelationToMeShort', duelist_2)]なる[duelist_2.GetFirstNameNoTooltip]よ、胸を借りよう。"
  bp2_yearly.7021.c.tt: "[teentribal.GetFirstName]は[duelist_2.GetFirstName]に挑み、[single_combat_duel|E]をします"
  bp2_yearly.7021.d: "$bp2_decision.0002.f$"

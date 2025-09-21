@@ -1,6 +1,6 @@
 ﻿l_english:
  ep3_eparch_event.0001.t: "$eparch_court_position$：帝都の強化"
- ep3_eparch_event.0001.desc_intro: "[emperor.GetPrimaryTitle.GetTierAsNameNoTooltip]は戦乱の渦中にある。[attacker.GetCulture.GetCollectiveNounNoTooltip]に攻め寄せられ、更には[attacker.Custom('InsultAdjective')]の[attacker.GetTitledFirstName]にも脅かされている。\n\n"
+ ep3_eparch_event.0001.desc_intro: "[emperor.GetPrimaryTitle.GetTierAsNameNoTooltip]は戦乱の渦中にある。[attacker.GetCulture.GetCollectiveNounNoTooltip]に攻め寄せられ、更には[attacker.Custom('InsultAdjective')][attacker.GetTitledFirstName]にも脅かされている。\n\n"
  ep3_eparch_event.0001.desc_winning_war: "[emperor.GetTitledFirstName]が優勢であるように思えるが、戦争が完全に終結する前に勝利を宣言するのは控えるべきだろう。"
  ep3_eparch_event.0001.desc_losing_war: "[emperor.GetTitledFirstName]は苦戦を強いられている。戦火がさらに拡大するのは時間の問題だろう。"
  ep3_eparch_event.0001.desc_undecided_war: "いずれの陣営もいまだに決定的な優位を獲得できておらず、戦争の帰趨を語るのは時期尚早というものだろう。"

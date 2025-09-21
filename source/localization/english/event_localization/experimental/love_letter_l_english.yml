@@ -106,7 +106,7 @@
  ll_never_ever_let_you_go:0 "決して、決してあなたを手放しはしない"
  ll_stronger_than_your_husband:0 "私はあなたの[second.GetPrimarySpouse.Custom('InsultAdjective')]夫の二倍強い"
  ll_prettier_than_your_wife:0 "私はあなたの[second.GetPrimarySpouse.Custom('InsultAdjective')]妻よりも二倍美しい"
- ll_i_am_compliment_spouse_is_insult:0 "あなたの[second.GetPrimarySpouse.Custom('WifeHusband')]は[second.GetPrimarySpouse.Custom('InsultAdjective')]だが、私は[ROOT.Char.Custom('ComplimentAdjective')]だ"
+ ll_i_am_compliment_spouse_is_insult:0 "あなたの[second.GetPrimarySpouse.Custom('WifeHusband')]は[second.GetPrimarySpouse.Custom('InsultAdjective')]だが、私は[ROOT.Char.Custom('ComplimentAdjective')]"
  ll_my_darling:0 "わが愛しの[second.GetFirstNameNoTooltip]よ。"
  ll_stop_resiting_you_will_be_mine:0 "もう抗うな。あなたは私のものになるのだ"
  ll_let_us_kiss_already:0 "今すぐ口づけをかわそう"

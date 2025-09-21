@@ -81,5 +81,5 @@
  ach_secret_stash_modifier_desc: "この人物は異国のハシシの備蓄を手に入れた。\n\n[GetDecisionWithKey('stress_loss_hashishiyah_decision').GetName][decision|E] を一度だけ使用できる"
  ach_liege_subsidies_modifier: "王の補助金"
  ach_liege_subsidies_modifier_desc: "地元の統治者は主君の庇護を受け、その所領もまた恩恵を受けている。"
- ach_coronation_expended_resources_modifier: "Expended Resources"
- ach_coronation_expended_resources_modifier_desc: "This character has recently expended many resources supporting another ruler."
+ ach_coronation_expended_resources_modifier: "拡張のための支援"
+ ach_coronation_expended_resources_modifier_desc: "この人物は最近、他の統治者を支援するために多くの資源を費やした。"

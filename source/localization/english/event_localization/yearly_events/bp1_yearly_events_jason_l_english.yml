@@ -6,7 +6,7 @@
  bp1_yearly.0100.sedentary_host:0 "私たちは孤立したそれなりまともな田舎の邸宅を見つけた…しかしその家の持ち主は私の嫌な[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('host'))][host.GetFirstName]だ。\n\n私は降りしきる嵐に激しく打たれている。"
  bp1_yearly.0100.nomadic_host:0 "幸運にも、私たちはちゃんとした野営地にたどり着いた。不運にも…中にいるのは私の嫌な[ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('host'))][host.GetFirstName]の部族の者達だ。\n\n私は降りしきる嵐に激しく打たれている。"
  bp1_yearly.0100.lover_welcome:0 "ひょっとして、[host.GetFirstNameNoTooltip]は遠くにいるのだろうか？　もしかすると運命が味方してくれるかもしれない――そして[host.GetHerHis]の魅惑的な[host.Custom2('RelationToMeShort', SCOPE.sC('lover'))]である[lover.GetFirstName]が、ここで私を迎えてくれるのではなかろうか？"
- bp1_yearly.0100.friend_welcome:0 "ひょっとして、[host.GetFirstNameNoTooltip]は遠くにいるのだろうか？　もしかすると運命が味方して――[host.GetHerHis]の[befriend.Custom('ComplimentAdjective')]な[host.Custom2('RelationToMeShort', SCOPE.sC('befriend'))]である[befriend.GetFirstName]が、ここで私を迎えてくれるのではなかろうか？"
+ bp1_yearly.0100.friend_welcome:0 "ひょっとして、[host.GetFirstNameNoTooltip]は遠くにいるのだろうか？　もしかすると運命が味方して――[host.GetHerHis]の[befriend.Custom('ComplimentAdjective')][host.Custom2('RelationToMeShort', SCOPE.sC('befriend'))]である[befriend.GetFirstName]が、ここで私を迎えてくれるのではなかろうか？"
  bp1_yearly.0100.close:0 "いずれにせよ…今夜は長い夜になりそうだ。"
  bp1_yearly.0100.a:0 "笑顔だ、男たちよ！"
  bp1_yearly.0100.a.tt:0 "惨めなおもてなしが待っています…"

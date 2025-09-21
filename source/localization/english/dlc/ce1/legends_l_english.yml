@@ -480,7 +480,7 @@
  game_concept_owning_legend: "自身の伝説"
  game_concept_owned_legend_desc: "$game_concept_owned_legend$とは、その効果の主たる受益者である[ruler|E]が所有する[legend|E]のことです。\n\n$game_concept_legend$の所有者はその[legend_protagonist|E]になれますが、必ずしもそうである必要はありません。\n\n$game_concept_legend$は[legend_promoters|E]によって支援することもできます。彼らは毎月寄付金を支払うことで、そのボーナスの一部を得ることができます。"
  game_concept_owning_legend_desc: "$game_concept_owned_legend_desc$"
- legend_events.1000.t: "[ROOT.Char.Custom('InsultAdjective')]の[ROOT.Char.GetTitledFirstNameNoTooltip]よ、"
+ legend_events.1000.t: "[ROOT.Char.Custom('InsultAdjective')][ROOT.Char.GetTitledFirstNameNoTooltip]よ、"
  legend_events.1000.desc: "このような恥ずべき本性であるとは！　ペテンめ！　私の伝説を広めさせるために金を出したというのに、病気の犬のごとくそれを無駄にすることで報いるとは。"
  legend_events.1000.a: "#EMP ああ！#!　いいから持っていけ。"
  legend_events.1000.b: "#EMP もっと#!安かったはずだ。"
