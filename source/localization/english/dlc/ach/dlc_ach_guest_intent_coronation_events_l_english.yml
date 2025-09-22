@@ -69,7 +69,7 @@
  guest_intent_coronation_events.0100.desc.winter: "その日の寒さに、[petition_sender.GetHerHis]の体は震えている。"
  guest_intent_coronation_events.0100.desc.summer: "その日の暑さに、汗が[petition_sender.GetHerHis]の額を滴り落ちていく。"
  guest_intent_coronation_events.0100.desc.neutral_1: "[ROOT.Char.Custom('GetRandomExteriorDetail')]。"
- guest_intent_coronation_events.0100.desc.neutral_2: "[petition_sender.Custom('quirk_pos_standalone')]とし、[ROOT.Char.Custom('RegionalDrink')]を一口含んでから続ける。"
+ guest_intent_coronation_events.0100.desc.neutral_2: "[petition_sender.Custom('quirk_pos_standalone')]と、[ROOT.Char.Custom('RegionalDrink')]を一口含んでから続ける。"
  guest_intent_coronation_events.0100.desc.neutral_3: "[petition_sender.GetSheHe|U]は[petition_sender.Custom('quirk_pos_present')]としていたが、[ROOT.Char.Custom('GetRandomRegionalWildDaytimeBird')]が[petition_sender.GetHerHis]の足元を舞い、言葉を遮った。"
  guest_intent_coronation_events.0100.desc.cultural_acceptance: "\n\n「我らの民同士が理解し合えることを願います。治世の始まりにおいて我らが示した支援を、どうか末永くご記憶いただけますように」"
  guest_intent_coronation_events.0100.desc.piety: "\n\n「どうかお許しください。我らが[petition_sender.GetFaith.HighGodName]に祈りを捧げましょう、あなたの治世が長く栄えますように」"
