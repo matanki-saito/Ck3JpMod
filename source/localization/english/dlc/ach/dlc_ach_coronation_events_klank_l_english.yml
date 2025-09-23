@@ -43,7 +43,7 @@
  coronation_events_klank.1006.desc: "喜ばしい知らせを伝えよう。[coronation_host.GetHerHis]の戴冠式の折、尊き[coronation_host.GetName]が[friendly_king.GetName]を説得し、[war_memory.GetName]におけるあなたの正義の勝利の後に抱いていた、あの誤った復讐心を捨てさせたのだ。"
  coronation_events_klank.1006.a: "興味深いな。"
  coronation_events_klank.1007.t: "[npc_guest.Custom2('AppropriateGreeting', ROOT.Char)]"
- coronation_events_klank.1007.desc: "遺憾ながら知らせねばならぬ。[coronation_host.GetName]の[coronation_activity.GetName]の折に、[coronation_host.GetSheHe]と[friendly_king.GetName]が手を結び、あなたに対抗すべく盟約を交わしたのだ。これは、[war_memory.GetName]におけるあなたの正義の勝利の後もなお、[friendly_king.GetTitledFirstNamePossessiveNoTooltip]が抱き続ける誤った復讐心に仕えるものにほかならぬ。"
+ coronation_events_klank.1007.desc: "遺憾ながらご報告申し上げる。\n[coronation_host.GetName]の[coronation_activity.GetName]の間に、[coronation_host.GetSheHe]と[friendly_king.GetName]が結託し、あなたに対して手を組む盟約を交わした。\nこれは、あなたが[war_memory.GetName]で収めた正当なる勝利に対する、[friendly_king.GetTitledFirstNamePossessiveNoTooltip]の誤った復讐心に阿る行為であろう。"
  coronation_events_klank.1007.a: "由々しきことだ。"
  coronation_events_klank.1008.t: "[ROOT.Char.GetDynasty.GetNameNoTooltip]の[dynasty_king.GetTitleAsNameNoTooltip]"
  coronation_events_klank.1008.desc.friendly: "我が偉大なる[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('dynasty_king'))]、[dynasty_king.GetTitledFirstName]は、[dynasty_king.GetPrimaryTitle.GetName]の安らぎの座を後にして、我が戴冠式を祝うために来てくれた。[dynasty_king.GetHerHis|U]の列席は、支援と信頼、そして血の絆を示すものだ。"
