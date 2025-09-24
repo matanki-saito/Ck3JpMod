@@ -2337,5 +2337,5 @@
  game_concept_story_content_jamukha_desc: "#tooltip_heading 物語の舞台：小規模#!\n\nジャムカとして、あなたは常にテムジンという偉大な影の下に生きてきた。だが、いまこそ己の力を示すときだ。彼に忠義を尽くし続けるのか？　それとも、闇の中でその喉をかき切るのか？\n\n$game_concept_story_generic_desc_boilerplate$"
  game_concept_law_i: "@law_icon!"
  game_concept_domain_i: "@domain_icon!"
- game_concept_activity_host_possessive: "活動の主催者の"
+ game_concept_activity_host_possessive: "活動の主催者"
  game_concept_claim_i:1 "@pressed_claim!"
