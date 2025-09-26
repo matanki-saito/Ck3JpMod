@@ -49,7 +49,7 @@
  bookmark.1069.a: "[jaromir.GetFirstNameNoTooltip]を追放し、新たな[jaromir.GetTitleAsNameNoTooltip]として[john_monk.GetFirstNameNoTooltip]を任命する！"
  bookmark.1069.a_flavor: "高い[skills|E]を持つ[councillor|E]があなたの[friend|E]であることは、[councillor_tasks|E]が早く完了するため非常に有益です——しかし、あなたの[head_of_faith|E]を困らせるのは常に危険なことです。[claims|E]あるいは[gold|E]の要求を拒まれる可能性があるためです。"
  bookmark.1069.b: "結局のところ、[jaromir.GetFirstNameNoTooltip]は家族なのだ…そして、金は血よりも濃い。"
- bookmark.1069.b_flavor: "あなたと兄弟の間の[Concept( 'rival', 'rivalry' )|E]を除くことで、[GetScheme('murder').GetTypeName]される危険を大幅に減らすことが出来ます。"
+ bookmark.1069.b_flavor: "あなたと兄弟の間の[Concept( 'rival', '確執' )|E]を除くことで、[GetScheme('murder').GetTypeName]される危険を大幅に減らすことが出来ます。"
  bookmark.1069.c: "宗教以外のことにも気を配らなければ…"
  bookmark.1069.c_flavor: "なにもしないことが最善の行動、という場合もある。"
  bookmark.1070.t: "ノルマン人のシチリア"
