@@ -253,7 +253,7 @@
  coronation_events.6121.b: "この慣習に未だ不慣れな者たちをも尊重せねばならぬ。"
  coronation_events.6121.b_flavor: "私は立ち上がり、領国の少数派の諸侯をも尊重しよう！"
  coronation_events.6121.c: "支持者が私と共にある！"
- coronation_events.6121.d: "「見るがいい、裏切り者ども！#EMP そなたの[ROOT.Char.GetTitleAsNamePossessiveNoTooltip]の力を！#!」"
+ coronation_events.6121.d: "「刮目せよ、貴様の#EMP [ROOT.Char.GetTitleAsNamePossessiveNoTooltip]の力#!を！」"
  coronation_events.6121.d_flavor: "[vassal_2.GetTitledFirstNameNoTooltip]は剣を携えている——#EMP ならばそれを使わせてやるとしよう！#!"
  coronation_events.6121.e_low: "彼らは私を憎んでいるが、私を止めることはできない。"
  coronation_events.6121.e_high: "完全なる服従。美しき光景だな。"
