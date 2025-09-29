@@ -9,7 +9,7 @@
  RULER_DESIGNER_CULTURE_LABEL:1 "[culture|E]"
  RULER_DESIGNER_FULL_NAME_LABEL:1 "完全な名前："
  RULER_DESIGNER_CHARACTER_NAME:0 "人物名："
- RULER_DESIGNER_FULL_NAME: "[AddLocalizationIf( Not( RulerDesignerWindow.IsDesigningLandless ), 'RULER_DESIGNER_FULL_NAME_TITLE' )]の[RulerDesignerWindow.GetTitleTierName]#high [RulerDesignerWindow.GetFirstName] [RulerDesignerWindow.GetDynastyName]#!"
+ RULER_DESIGNER_FULL_NAME: "[AddLocalizationIf( Not( RulerDesignerWindow.IsDesigningLandless ), 'RULER_DESIGNER_FULL_NAME_TITLE' )][RulerDesignerWindow.GetTitleTierName]#high [RulerDesignerWindow.GetFirstName] [RulerDesignerWindow.GetDynastyName]#!"
  RULER_DESIGNER_FIRST_NAME_LABEL:1 "名："
  RULER_DESIGNER_RANDOM_NAME_LABEL:1 "ランダムな名前："
  RULER_DESIGNER_RANDOM_NAME_FAITH_TOOLTIP:2 "#T [Faith.GetAdjectiveNoTooltip]のランダムな名前#!"
