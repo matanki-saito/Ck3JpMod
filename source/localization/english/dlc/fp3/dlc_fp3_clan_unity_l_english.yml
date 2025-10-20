@@ -158,7 +158,7 @@
  clan_unity_synergized_friendship_declined.desc: "[unity_target.GetName]との友情の相乗効果を発揮できなかった"
  clan_unity_shatranj.desc: "[unity_target.GetName]とボードゲームで遊んだ"
  clan_unity_shatranj_decline.desc: "[unity_character.GetNamePossessive]のチェスの誘いを断った"
- clan_unity_purchased_truce.desc: "[unity_target.GetNameとの停戦を購入した"
+ clan_unity_purchased_truce.desc: "[unity_target.GetName]との停戦を購入した"
  clan_unity_purchased_truce_refusal.desc: "[unity_character.GetNamePossessive]の停戦の購入を拒否した"
  clan_unity_forment_revolt.desc: "[unity_target.GetNamePossessive]の土地で反乱を扇動する"
  clan_unity_contract_assistance.desc: "[unity_target.GetName]からの手助け"

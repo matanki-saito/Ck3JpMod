@@ -9,7 +9,7 @@
  ep3_laamps.0001.b: "全て[alt_1.GetFirstNameNoTooltipRegnal]の手に落ちたか。"
  target_character_government: "[government|E]：[TARGET_CHARACTER.GetGovernment.GetName]"
  target_character_independent: "[independent_ruler|E]"
- target_character_liege: "[SelectLocalization(TARGET_CHARACTER.IsIndependentRuler, 'Independent', 'Vassal of [TARGET_CHARACTER.GetLiege.GetName]"
+ target_character_liege: "[SelectLocalization(TARGET_CHARACTER.IsIndependentRuler, 'Independent', 'Vassal of [TARGET_CHARACTER.GetLiege.GetName]')]"
  ep3_laamps.0001.c: "[alt_2.GetFirstNameNoTooltipRegnal]が我が家を盛り立てるべし。"
  ep3_laamps.0001.d: "[alt_3.GetFirstNameNoTooltipRegnal]から目を離すな。"
  ep3_laamps.0001.e: "時は無情に…"

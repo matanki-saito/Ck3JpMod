@@ -1,7 +1,7 @@
 ﻿l_english:
  ep3_travel_events.3000.t: "ヨルダンの水"
  ep3_travel_events.3000.desc: "人はただ、その素晴らしさだけを語る。"
- ep3_travel_events.3000.israel: "[ROOT.Char.GetFaith.HighGodName]の庭のように、尊きヨルダン川によって潤される[Glossary(''エレツ・イスラエル', 'ERES_YISRAEL_GLOSS')]。\n\n奇跡の地にて、私はその水に足を踏み入れる。エリシャがらい病人を癒した場所で、ヨシュアのイスラエル人たちが故郷への最後の一歩を踏み出した場所で、私は身を清めるのだ……"
+ ep3_travel_events.3000.israel: "[ROOT.Char.GetFaith.HighGodName]の庭のように、尊きヨルダン川によって潤される[Glossary('エレツ・イスラエル', 'ERES_YISRAEL_GLOSS')]。\n\n奇跡の地にて、私はその水に足を踏み入れる。エリシャがらい病人を癒した場所で、ヨシュアのイスラエル人たちが故郷への最後の一歩を踏み出した場所で、私は身を清めるのだ……"
  ep3_travel_events.3000.greek_christian: "パレスチナ――そこではあらゆる砂漠が最も聖なる[Glossary('エレモス', 'EREMOS_GLOSS')]とされ、すべての石が神聖であり、すべての小川がヨルダン川へと流れ込む。\n\nその川の水に足を踏み入れ、私は身を清める。かつて洗礼者ヨハネがその儀式を行い、キリスト自身が洗礼を受けたその場所で……。"
  ep3_travel_events.3000.christian: "パレスチナ――そこは神の足跡を知る大地であり、偉大なるヨルダン川がその身を知る地。\n\nその川の水に足を踏み入れ、私は身を清める。かつて洗礼者ヨハネがその儀式を行い、キリスト自身が洗礼を受けたその場所で……。"
  ep3_travel_events.3000.muslim: "パレスチナ――偉大なイスラムの勝利が刻まれた地であり、尊きヨルダン川によって潤される地。\n\n私は今、その川へと足を踏み入れ、身を清める準備を始める。預言者の同志たち――彼らに平安あれ――の眠る場所がほぼ見えるほど近くにあるこの地は、[Glossary('ハディース', 'HADITHS_GLOSS')]を遵守するための理想的な場所だ……。"
@@ -28,7 +28,7 @@
  ep3_travel_events.3001.greek: "\n\nこれらの[Glossary('アクリタイ', 'AKRITAI_GLOSS')]、すなわちキリキア門を守る高地の砦の守護者たちは、もはやヘラクレイオス時代の荒廃をもたらす猛攻を防ぐことはない。それでもなお、迫り来る敵、襲撃する遊牧民、そしてこの狭い峠に潜む小悪党たちに対して警戒を続けている。"
  AKRITAI_GLOSS: "ギリシャ語の#bold アクリタイ#!は、「境界」を意味する#EMP アクローン#!に由来し、しばしば#EMP ガーズィー#!の侵入に対抗する防衛者として美化され、時には盗賊として非難される国境地帯の兵士を指す。"
  ep3_travel_events.3001.friend: "\n\nかつてこれらキリキア門の守護者たちは、高地の砦から荒廃をもたらす異教徒の洪水に立ち向かっていたと言われている。今では、襲撃する遊牧民や小悪党に対して警戒を続けているが、中には彼ら自身が盗賊と大差ないと言う者もいる。それでもなお……。"
- ep3_travel_events.3001.islamic_arabic: "\n\n狡猾で粗野な男たちがキリキア門に巣食い、この歴史的な[Glossary('アル＝シュワー, 'AL_THUGHUR_GLOSS')]を見張りながら、[lords_liege.GetPrimaryTitle.GetAdjectiveNoTooltip][lords_liege.GetTitleAsName]のために警戒を続けている。偉大なる正統カリフ時代、この険しい屠殺の道では、国境部隊がイスラムの担い手たちを追い立てていた。"
+ ep3_travel_events.3001.islamic_arabic: "\n\n狡猾で粗野な男たちがキリキア門に巣食い、この歴史的な[Glossary('アル＝シュワー', 'AL_THUGHUR_GLOSS')]を見張りながら、[lords_liege.GetPrimaryTitle.GetAdjectiveNoTooltip][lords_liege.GetTitleAsName]のために警戒を続けている。偉大なる正統カリフ時代、この険しい屠殺の道では、国境部隊がイスラムの担い手たちを追い立てていた。"
  AL_THUGHUR_GLOSS: "#bold アル＝シュワー#!はキリキア辺境地帯を指すアラビア語の表現で、要塞や狭い山道を歯の隙間に例えたものである。"
  ep3_travel_events.3001.foe: "\n\n狡猾で粗野な男たちがキリキア門に巣食い、[lords_liege.GetPrimaryTitle.GetAdjectiveNoTooltip]の[lords_liege.GetTitleAsName]のために警戒を続けている。そして高地に聳える砦から、待ち伏せが盗賊や罪なき貧民を同じように襲撃する——すべては本土防衛の名目で。"
  ep3_travel_events.3001.praise_outro: "\n\nここでは、粗末な砦に集められた数人の平民兵が帝国を守っていた。"

@@ -579,7 +579,7 @@
  action_recent_hunt_sighting:0 "@activity_hunt! 最近目撃された標的"
  action_recent_hunt_sighting_label:0 "@activity_hunt![landed_title.Custom('GetAnimalSightingDescriptionType')]"
  action_recent_hunt_sighting_desc:0 "[landed_title.GetNameNoTier]で[GetActivityType('activity_hunt').GetName]を開催する好機です。$action_recent_hunt_sighting_HELP$"
- action_recent_hunt_sighting_HELP:0 "\n\n\#weak この[county|E]で[hunt_sighting_no_prefix|E]の種類に一致する[GetActivityType('activity_hunt').GetName]を開催することで、[hunt_success_chance_no_prefix|E]が向上し、特定の動物を狙うことが可能になる。#!"
+ action_recent_hunt_sighting_HELP:0 "\n\n#weak この[county|E]で[hunt_sighting_no_prefix|E]の種類に一致する[GetActivityType('activity_hunt').GetName]を開催することで、[hunt_success_chance_no_prefix|E]が向上し、特定の動物を狙うことが可能になる。#!"
  action_recent_hunt_sighting_combined_label:0 "[landed_title.Custom('GetAnimalSightingDescriptionType')]"
  action_recent_hunt_sighting_combined_group_label:0 "@activity_hunt!最近の標的"
  action_recent_hunt_sighting_combined_group_name:0 "$action_recent_hunt_sighting$"

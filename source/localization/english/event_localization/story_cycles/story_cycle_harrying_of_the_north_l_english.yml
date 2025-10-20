@@ -73,7 +73,7 @@
  ep3_story_cycle_harrying.1005.b: "状態の良い道路が必要だ。"
  ep3_story_cycle_harrying.1005.c: "アングロ・サクソン人の支配下にあるものは、1ヤードも残さず破壊する。"
  ep3_story_cycle_harrying.1005.a.tt: "[Glossary( 'グレートノースロード', 'GNR_GLOSS' )]上のすべての[county|E]"
- ep3_story_cycle_harrying.1005.c.tt1: "[Glossary( グレートノースロード', 'GNR_GLOSS' )]上のアングロ・サクソン人が支配するすべての[counties|E]："
+ ep3_story_cycle_harrying.1005.c.tt1: "[Glossary( 'グレートノースロード', 'GNR_GLOSS' )]上のアングロ・サクソン人が支配するすべての[counties|E]："
  ep3_story_cycle_harrying.1005.c.tt2: "[Glossary( 'グレートノースロード', 'GNR_GLOSS' )]上のノルマン人が支配するすべての[counties|E]"
  GNR_GLOSS: "イングランドの背骨の大部分に沿って伸びる、ローマ時代に建設された街道。グレートノースロードは以下の[counties|E]を通過する。\n\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_middlesex').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_hertfordshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_bedford').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_northamptonshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_leicestershire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_nottinghamshire').GetBaseName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('c_west_riding').GetBaseName]"
  ep3_story_cycle_harrying.1010.t: "運命を決する"

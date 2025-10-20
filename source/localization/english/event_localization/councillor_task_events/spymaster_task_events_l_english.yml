@@ -157,7 +157,7 @@
  spymaster_task.0311.secret_crypto_religionist.cynical_compassionate: "\n\nどうやら[secret_holder.GetSheHe]はまだ密かに[secret_holder.GetSecretFaith.GetName]を実践しているようだ。そこまでして一つの信仰に固執する人を見ると、奇妙な気持ちになる。それがどれほど危険な遊びか、彼らにはわからないのだろうか？"
  spymaster_task.0311.secret_crypto_religionist.shared_secret: "\n\n[secret_holder.GetSheHe]は私が[root_crypto_faith.GetName]の信仰を密かに行っているように、[secret_holder.GetSecretFaith.GetName]を密かに信じているようだ。しかし危険を冒してまでやることが紛い物の信仰とは、[secret_holder.GetHerHis]のような愚か者のやることは理解に苦しむ。"
  spymaster_task.0311.secret_crypto_religionist.shared_faith: "\n\n[secret_holder.GetSheHe]は同じ[ROOT.Char.GetFaith.GetAdherentName]だと信じていたのに、密かに別の信仰をしていた不届き者のようだ。[ROOT.Char.GetFaith.HighGodName]はそのような信仰心の欠如をお許しにならぬだろうな？"
- spymaster_task.0311.secret_crypto_religionist.shared_faith_taqiya: "\n\nどうやら[secret_holder.GetSheHe]は私の仲間の[root_crypto_faith.GetAdherentName]のようだ。secret_holder.GetHerHim]が影で修行するのは結構なことだが、[secret_holder.GetHerHis]の仲間である[secret_holder.GetFaith.GetAdherentNamePlural]はそうは思わないだろうな？"
+ spymaster_task.0311.secret_crypto_religionist.shared_faith_taqiya: "\n\nどうやら[secret_holder.GetSheHe]は私の仲間の[root_crypto_faith.GetAdherentName]のようだ。[secret_holder.GetHerHim]が影で修行するのは結構なことだが、[secret_holder.GetHerHis]の仲間である[secret_holder.GetFaith.GetAdherentNamePlural]はそうは思わないだろうな？"
  spymaster_task.0311.secret_crypto_religionist.shared_faith_shared_secret: "\n\n即ち、私たちは共に[secret_holder.GetSecretFaith.GetName]を実践しているということだが、この情報をどう使えというのだろうか？"
  spymaster_task.0311.secret_crypto_religionist: "\n\n[secret_holder.GetSheHe|U]は普段[secret_holder.GetFaith.GetAdherentName]であるかのように振舞っているが、夜闇に紛れてコソコソと[secret_holder.GetSecretFaith.GetName]の儀式を行っているようだ。この情報を活かすことは出来るだろうか。"
  spymaster_task.0353.a.shared_faith_shared_secret: "我らは数を増している"

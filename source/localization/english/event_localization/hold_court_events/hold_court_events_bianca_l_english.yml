@@ -1,7 +1,7 @@
 ﻿l_english:
  hold_court.3000.t:0 "汝が名の下における饗宴"
  hold_court.3000.desc.opening:0 "[feast_vassal.GetTitledFirstName]はいつもより姿勢を正し、[feast_vassal.GetSheHe]が何を言いたいのか目に見えてわかる熱心な様子で近づいてくる。\n\n"
- hold_court.3000.desc.opening.blind:0 "[feast_vassal.GetTitledFirstName]の足音が近づいてくるのが聞こえる。それらが止まった後、明らかに練習した[feast_vassal.GetHerHis]の喉を澄ませる動作が続く。あるいは私の気を引くための方法なのかもしれない。feast_vassal.GetSheHe]が自身の話に満足しているように見えるのが聞こえて。\n\n"
+ hold_court.3000.desc.opening.blind:0 "[feast_vassal.GetTitledFirstName]の足音が近づいてくるのが聞こえる。それらが止まった後、明らかに練習した[feast_vassal.GetHerHis]の喉を澄ませる動作が続く。あるいは私の気を引くための方法なのかもしれない。[feast_vassal.GetSheHe]が自身の話に満足しているように見えるのが聞こえて。\n\n"
  hold_court.3000.desc.likes:0 "「[ROOT.Char.Custom2('RelationToMeAddress', feast_vassal)|U]、あなたの統治下には、多くの祝いがあります！どうか、次の饗宴の費用は私に支払わせてください！見返りとして、あるいは将来、私に好意を与えてくれるでしょうか？」"
  hold_court.3000.desc.dislikes:0 "「[ROOT.Char.Custom2('RelationToMeAddress', feast_vassal)|U]。あなたの領国の人々には、ストレスを忘れるような臨時の楽しい集まりが必要です。たとえそれがあなたの名前で開催されるとしても、[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]の利益のためなら、私は喜んで宴会の資金を提供しましょう。ただ、私は正当に報酬の恩恵を期待しますが。」"
  hold_court.3000.a:1 "結構だ、受け入れよう。"

@@ -277,7 +277,7 @@
  RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_random_landed: "クリックして[GetPlayer.GetDynasty.GetBaseName][dynasty|E]の[landed|E]の[ruler|E]をランダムに選択\n\n$RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate$"
  RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_dlc_boilerplate: "#weak [SelectLocalization( HasDlcFeature( 'landless_playable' ), 'RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate_adventurer', 'blank_line' )]#!"
  RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate: "#weak ランダムに選ばれる人物の難易度は$extremely_hard_difficult$を上回りません。#!"
- RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate_adventurer: "[adventurer|E]になる可能性はだいたい#V 50%#!\です。\n\n"
+ RANDOM_DESTINY_CHARACTER_TYPE_TOOLTIP_boilerplate_adventurer: "[adventurer|E]になる可能性はだいたい#V 50%#!です。\n\n"
  SUCCESSION_EVENT_WINDOW_RANDOM_CLOSE: "[SuccessionEventWindow.GetSelectedDestinyCharacter.GetTypeName]で続ける"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY: "ランダムな運命を選択"
  SUCCESSION_EVENT_WINDOW_RANDOM_DESTINY_HEADER: "#T 運命を定めよ…#!"

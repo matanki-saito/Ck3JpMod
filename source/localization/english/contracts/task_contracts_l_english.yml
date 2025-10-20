@@ -600,7 +600,7 @@
  ep3_contract_event.0091.desc_helper: "相手は[helper.GetName]だ。\n\n「彼らは互いに構えて、どちらかが仕掛ける時を待っているな？"
  ep3_contract_event.0091.desc_high_prowess: "[knight.GetNameNoTooltip]が先に動き、[helper.GetFirstNameNoTooltip]に対して[knight.GetHerHis]の[knight.Custom('signature_weapon')]で連打を浴びせる。[helper.GetFirstNameNoTooltip]は無力に見え、明らかに敵に圧倒されている」"
  ep3_contract_event.0091.desc_low_prowess: "[knight.GetFirstNamePossessiveNoTooltip]の防御が先に緩み、[helper.GetFirstNamePossessive]の[helper.Custom('signature_weapon')]による正確な数打が入る。[knight.GetSheHe|U]は立っているのもやっとの様子だ。これは、かなり長い授業になりそうだな...」"
- ep3_contract_event.0091.desc_outro: "\n\nやりすぎて血が出るまでに一旦止めをかける。\n\「いい動きだ、[knight.GetFirstNameNoTooltip]。もう十分だ。これで、あなたに何を教えるべきかがわかった。」"
+ ep3_contract_event.0091.desc_outro: "\n\nやりすぎて血が出るまでに一旦止めをかける。\n「いい動きだ、[knight.GetFirstNameNoTooltip]。もう十分だ。これで、あなたに何を教えるべきかがわかった。」"
  ep3_contract_event.0091.a: "「こんな人物が私の側にいれば助かるな！」"
  ep3_contract_event.0091.b: "[trait_to_teach.GetNameNoTooltip( ROOT.Char )]の何たるかを教えてしんぜよう！"
  ep3_contract_event.0091.c: "「[helper.GetFirstNameNoTooltip]よ、[knight.GetHerHim]を鍛えてやれ」"

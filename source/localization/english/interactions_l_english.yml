@@ -890,7 +890,7 @@
  SCHEME_PREDICTION_NO_AGENTS:0 "#weak なし#!"
  SCHEME_PREDICTION_AGENT:0 "[CHARACTER.GetShortUIName|U]\n"
  SCHEME_PREDICTION_NO_CHANCE:0 "#X @warning_icon!成功する可能性はありません#!\n"
- SCHEME_PREDICTION_SUCCESS_TT: "#T 初期[success_chance|E]：[InteractionSchemeInfo.GetSuccessChance|%/V]\n#![SelectLocalization( LessThanOrEqualTo_CFixedPoint( InteractionSchemeInfo.GetSuccessChance, '(CFixedPoint)0' ), 'SCHEME_PREDICTION_NO_CHANCE', '' )], 'SCHEME_PREDICTION_NO_CHANCE', '' )][InteractionSchemeInfo.GetSuccessBreakdown]"
+ SCHEME_PREDICTION_SUCCESS_TT: "#T 初期[success_chance|E]：[InteractionSchemeInfo.GetSuccessChance|%/V]\n#![SelectLocalization( LessThanOrEqualTo_CFixedPoint( InteractionSchemeInfo.GetSuccessChance, '(CFixedPoint)0' ), 'SCHEME_PREDICTION_NO_CHANCE', '' )][InteractionSchemeInfo.GetSuccessBreakdown]"
  SCHEME_PREDICTION_SECRECY_TT:2 "#T 予測される[secrecy|E]：[InteractionSchemeInfo.GetSecrecy|%/V]\n#![InteractionSchemeInfo.GetSecrecyBreakdown]"
  SCHEME_PREDICTION_ON_DISCOVERY:2 "[scheme|E]が実行され[secrecy|E]が保持されているとき："
  SCHEME_PREDICTION_EXPECTED_TIME:0 "[scheme|E]の完了に予想される時間："

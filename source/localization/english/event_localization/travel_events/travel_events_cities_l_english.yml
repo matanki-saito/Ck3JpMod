@@ -68,7 +68,7 @@
  travel_city_center_of_the_world_reflection: "\n\n記念碑的な建物に囲まれていると、彼らの主張を信じるのは難しくない。自分の存在が急にちっぽけに感じられるのだ。"
  travel_city_companion_center_of_the_world_reflection:0 "\n\n「[ROOT.Char.Custom2('RelationToMeAddress', sightseeing_companion)|U]、ここはあなたが訪れたどんな場所とも違う。千年以上の歴史の前に我々は立っているのです」"
  AUGUSTAION_GLOSS: "アウグスタイオンは、コンスタンティノープルの宮殿がある地区、カルケ門のすぐ外側にある広場である。広場の奥には[Glossary( 'ミリオン', 'MILION_GLOSS' )]が立っており、その手前にはヒッポドローム、その脇にはゼウクシッポス浴場とハギア・ソフィア大聖堂がある。"
- travel_city_constantinople_aqueduct_valens: "好奇心に駆られた我々は、[Glossary( '水道橋, 'AQUEDUCT_OF_VALENS_GLOSS' )]をたどって地下貯水槽の入口までたどり着いた。守衛が、ここは幾世代にもわたって街の水源になってきたのだと語り、幾らか料金を貰えればその内部を案内すると申し出てくれた。\n"
+ travel_city_constantinople_aqueduct_valens: "好奇心に駆られた我々は、[Glossary( '水道橋', 'AQUEDUCT_OF_VALENS_GLOSS' )]をたどって地下貯水槽の入口までたどり着いた。守衛が、ここは幾世代にもわたって街の水源になってきたのだと語り、幾らか料金を貰えればその内部を案内すると申し出てくれた。\n"
  travel_city_option_study_aqueducts: "我々はその深さを計測し、記録せねばならない。"
  travel_city_constantinople_goldsmiths_moneychangers: "やがて我々は、金細工職人街で小休止を取ることにした。ここは金銭の授受や貸し出し、預け入れが行われるこの街の金融の中心地でもある。長きにわたって忘れ去られていた皇帝たちの金貨[ROOT.Char.GetCurrentLocation.Custom('GetByzantineCoinWithGloss')]が、銅貨やエレクトラム硬貨と両替されている。"
  BYZANTINE_COINAGE_GLOSS: "銅貨と金貨はビザンツ帝国の主要な貨幣であった。ソリドゥス金貨や後期のヒュペルピュロンがもっとも価値ある硬貨であり、西洋では#EMP ベザント#!という名で知られ非常に人気が高かった。"

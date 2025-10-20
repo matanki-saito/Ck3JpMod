@@ -156,7 +156,7 @@
  action_pacify_tributary_combined_group_label: "@tributary_icon! $game_concept_tributaries$が$cease_paying_tribute_interaction$を行なう可能性があります"
  action_pacify_tributary_combined_group_name: "@tributary_icon! $game_concept_disobedient$な$game_concept_tributaries$"
  action_pacify_tributary_combined_group_description: "あなたには、$cease_paying_tribute_interaction$を行うかもしれない[tributaries|E]が存在します。"
- action_pacify_tributary_combined_label: "[recipient.GetShortUINameNoTooltip|U]：[recipient.GetSubjectContract.GetCeasePayingTributeChanceLabel]$の危険があります"
+ action_pacify_tributary_combined_label: "[recipient.GetShortUINameNoTooltip|U]：[recipient.GetSubjectContract.GetCeasePayingTributeChanceLabel]の危険があります"
  action_pacify_tributary_desc: "$game_concept_obedience_desc$"
  action_pacify_tributary_click: "#I クリックして$mpo_negotiate_obedience_interaction$を実行#!"
  action_pacify_tributary: "[recipient.GetShortUINamePossessive|U]の[obedience|E]を交渉する"

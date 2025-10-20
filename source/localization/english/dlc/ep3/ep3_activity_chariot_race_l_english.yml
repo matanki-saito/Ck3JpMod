@@ -265,7 +265,7 @@
  chariot_race.3040.c: "なんてワクワクだ！これぞ戦車競技！"
  chariot_race.3040.d: "なんと恐ろしい、ただ祈るほかない。"
  chariot_race.3050.t: "思いがけぬ勝利"
- chariot_race.3050.desc: "空気が緊張に包まれ、肌を刺すようだ。\n\nかつては見向きもされなかった御者[last_place_charioteer.GetFirstName]が、すべての逆境を跳ね返し、[last_place_charioteer.Custom('GetChariotComebackMovement')]——まさに真の[Glossary('アリステリア, 'GLOSS_ARISTEIA')]を見せつける。\n\n観客席には驚きの声が響き渡り、[last_place_charioteer.Custom('GetChariotTeamColorPluralGlossed')]の鮮やかな色が前線へと躍り出る。信じられないという沈黙を破るように、群衆は轟音のような歓声を上げる！"
+ chariot_race.3050.desc: "空気が緊張に包まれ、肌を刺すようだ。\n\nかつては見向きもされなかった御者[last_place_charioteer.GetFirstName]が、すべての逆境を跳ね返し、[last_place_charioteer.Custom('GetChariotComebackMovement')]——まさに真の[Glossary('アリステリア', 'GLOSS_ARISTEIA')]を見せつける。\n\n観客席には驚きの声が響き渡り、[last_place_charioteer.Custom('GetChariotTeamColorPluralGlossed')]の鮮やかな色が前線へと躍り出る。信じられないという沈黙を破るように、群衆は轟音のような歓声を上げる！"
  chariot_race.3050.a: "#EMP [ROOT.Char.Custom('GetChariotTeamColorPluralGlossed')]こそが頂点だ！#!"
  chariot_race.3050.b: "[last_place_charioteer.GetSheHe|U]は私のものになる。"
  chariot_race.2050.c: "上出来だ、[last_place_charioteer.GetFirstNameNoTooltip]。"

@@ -416,7 +416,7 @@
  court_position_akolouthos_bonus: "[GetCourtPositionType('akolouthos_court_position').GetName()]"
  court_position_palace_politics: "[GetCultureTradition('tradition_ep3_palace_politics').GetName]"
  court_position_north_germanic: "彼らの文化は$heritage_north_germanic_name$の[heritage|E]である"
- court_position_west_germanic: "彼らの文化は$$heritage_west_germanic_name$の[heritage|E]である"
+ court_position_west_germanic: "彼らの文化は$heritage_west_germanic_name$の[heritage|E]である"
  court_position_not_same_culture_heritage: "[liege|E]の[culture|E]とは違う[heritage|E]"
  court_position_not_same_culture_language: "[liege|E]の[culture|E]と違う[language|E]"
  officer_positions: "[officer|E]の役職"
