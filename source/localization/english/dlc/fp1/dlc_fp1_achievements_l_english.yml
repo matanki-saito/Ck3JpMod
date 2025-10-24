@@ -9,7 +9,7 @@
  ACHIEVEMENT_first_of_the_crusader_kings_achievement:0 "十字軍の初代王"
  ACHIEVEMENT_vladimirs_second_choice_achievement:0 "ウラジミールの第二の選択"
  ACHIEVEMENT_a_dangerous_business_achievement:0 "危険な事業"
- ACHIEVEMENT_DESC_far_from_home_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、[GetGeographicalRegion('dlc_fp1_achievement_far_from_home').GetName] [region|E]のいずれかに[realm_capital|E]を置く。$rd_character_blocked_from_achievement$"
+ ACHIEVEMENT_DESC_far_from_home_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、[GetGeographicalRegion('dlc_fp1_achievement_far_from_home').GetName][region|E]のいずれかに[realm_capital|E]を置く。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_miklagardariki_achievement:1 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、$k_thessalonika$[kingdom|E]を[completely_control|E]し、$e_byzantium$を保有することなく任意の[empire|E]を保有する。$rd_character_blocked_from_achievement$"
  ACHIEVEMENT_DESC_canute_the_greater_achievement:0 "未改革の[tribal|E]として、$secure_high_kingdom_north_sea_decision$の[decision|E]を行う"
  ACHIEVEMENT_DESC_king_of_all_the_isles_achievement:0 "任意の$north_germanic_group$の$norse_pagan_adherent$として開始してそれを維持し、[realm_size|E]を80以上に#EMP することなく#!全[GetGeographicalRegion('dlc_fp1_achievement_king_of_all_the_isles').GetName][region|E]を[completely_control|E]する"

@@ -56,7 +56,7 @@
  REALM_WINDOW_DIPLOMACY_TOOLTIP_RAID_ON: "#T [CHARACTER.GetUIName]による略奪#!\n"
  REALM_WINDOW_DIPLOMACY_TOOLTIP_RAID_BY: "#T [CHARACTER.GetUIName]を略奪中#!\n"
  REALM_WINDOW_SIZE:2 "領国の規模：[Character.RealmSize|V]"
- REALM_WINDOW_SIZE_TT:3 "#T [realm_size|E]：[Character.RealmSize|V] [counties|E]\n#![Character.GetShortUINamePossessive]の[domain|E]に属する伯爵領：[Character.NumberOfDirectlyHeldCounties|V]\n[vassal|E]の領国に属する伯爵領：[Subtract_int32(Character.RealmSize, Character.NumberOfDirectlyHeldCounties)|V]"
+ REALM_WINDOW_SIZE_TT:3 "#T [realm_size|E]：[Character.RealmSize|V][counties|E]\n#![Character.GetShortUINamePossessive]の[domain|E]に属する伯爵領：[Character.NumberOfDirectlyHeldCounties|V]\n[vassal|E]の領国に属する伯爵領：[Subtract_int32(Character.RealmSize, Character.NumberOfDirectlyHeldCounties)|V]"
  DIFFERENT_CULTURE_THAN_LIEGE:0 "主君と異なる文化"
  DIFFERENT_RELIGION_THAN_LIEGE:0 "主君と異なる宗教"
  LIEGE_STRENGTH_RATIO:0 "主君と比較した総[soldiers|E]数"

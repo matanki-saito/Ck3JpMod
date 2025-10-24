@@ -412,7 +412,7 @@
  SCOPE_GREAT_HOLY_WAR:0 "[ROOT.GreatHolyWar.GetName]："
  SCOPE_WAR:0 "[ROOT.War.GetName]："
  SCOPE_DYNASTY:0 "[ROOT.Dynasty.GetName][dynasty|E]："
- SCOPE_DYNASTY_HOUSE:0 "[house|E] [ROOT.House.GetName]："
+ SCOPE_DYNASTY_HOUSE:0 "[ROOT.House.GetName][house|E]："
  SCOPE_FACTION:0 "[ROOT.Faction.GetName]："
  SCOPE_CULTURE:0 "[ROOT.Culture.GetName]："
  SCOPE_ARMY:0 "[ROOT.Army.GetName]："

@@ -61,7 +61,7 @@
  game_concept_iberian_reclamation:0 "イベリア奪還"
  game_concept_iberian_reclaiming:0 "イベリア奪還"
  game_concept_iberian_reclamations:0 "イベリア奪還"
- game_concept_iberian_reclamation_desc:2 "これは特別なタイプの[war|E]で、[iberian_struggle|E]の[struggle_involved|E]である[rulers|E]が利用できます。\n\n攻撃側の目的は、[struggle_interloper|E]もしくは[struggle_uninvolved|E][ruler|E]の所有する[struggle_involved|E] [counties|E]を含む[duchy|E]を征服するか、または相手の領土がその公爵領しかない場合にはそれを[vassalize|E]することです。"
+ game_concept_iberian_reclamation_desc:2 "これは特別なタイプの[war|E]で、[iberian_struggle|E]の[struggle_involved|E]である[rulers|E]が利用できます。\n\n攻撃側の目的は、[struggle_interloper|E]もしくは[struggle_uninvolved|E][ruler|E]の所有する[struggle_involved|E][counties|E]を含む[duchy|E]を征服するか、または相手の領土がその公爵領しかない場合にはそれを[vassalize|E]することです。"
  game_concept_enforce_truce:0 "停戦の強制"
  game_concept_enforced_truce:0 "停戦の強制"
  game_concept_enforce_truce_desc:2 "これは特殊なタイプの[interaction|E]で、[struggle_involved|E]である[rulers|E]が利用でき、[war|E]を[white_peace|E]で終結させて[truces|E]を確立します。\n\n低[rank|E]の[struggle_involved|E]である[rulers|E]同士で、かつ、少なくとも一方が[independent|E]している、または同一の[realm|E]の勢力同士の場合にのみ、その戦争終結に利用できます。"

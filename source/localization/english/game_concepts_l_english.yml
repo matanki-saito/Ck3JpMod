@@ -1804,7 +1804,7 @@
  game_concept_prizes:0 "賞品"
  game_concept_prize_desc:4 "$game_concept_prizes$は、[GetActivityType( 'activity_tournament' ).GetName]の[contests|E]で一人の勝者に与えられる[artifacts|E]です。\n\n$game_concept_prize$の品質は、[activity_host|E]と[era|E]によって選ばれたオプションによって決まります。"
  game_concept_contest_category_team:1 "チーム"
- game_concept_contest_category_team_desc:1 "$game_concept_contest_category_team$の[contests|E]では、大会終了時に最も合計ポイントを獲得したチームのすべての[contest_qualifying|E] [contestants|E]に報酬が与えられます。\n\n$game_concept_contest_category_team$の大会：\n$EFFECT_LIST_BULLET$集団戦"
+ game_concept_contest_category_team_desc:1 "$game_concept_contest_category_team$の[contests|E]では、大会終了時に最も合計ポイントを獲得したチームのすべての[contest_qualifying|E][contestants|E]に報酬が与えられます。\n\n$game_concept_contest_category_team$の大会：\n$EFFECT_LIST_BULLET$集団戦"
  game_concept_contest_category_versus:1 "ノックアウト式"
  game_concept_contest_category_versus_desc:1 "$game_concept_contest_category_versus$の[contest|E]の勝者は、[contest_qualifying|E][contestants|E]同士で行われる3つの[contest_rounds|E]を勝ち抜いた人です。\n\n$game_concept_contest_category_versus$の大会：\n$EFFECT_LIST_BULLET$レスリング\n$EFFECT_LIST_BULLET$決闘\n$EFFECT_LIST_BULLET$ジョスト\n$EFFECT_LIST_BULLET$ボードゲーム"
  game_concept_contest_category_turn:1 "コンテスト式"

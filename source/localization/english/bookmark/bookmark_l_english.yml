@@ -33,7 +33,7 @@
  BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM:2 "#difficulty_medium 普通#!"
  BOOKMARK_CHARACTER_DIFFICULTY_HARD:2 "#difficulty_hard 挑戦的#!"
  BOOKMARK_SELECT_BOOKMARK:0 "開始年代と人物の選択"
- BOOKMARK_DYNASTY_TOOLTIP:0 "#T [dynasty|E] [BookmarkCharacter.GetDynastyTemplate.GetName]#!\n#weak [BookmarkCharacter.GetDynastyTemplate.GetMotto]#!"
+ BOOKMARK_DYNASTY_TOOLTIP:0 "#T [dynasty|E]：[BookmarkCharacter.GetDynastyTemplate.GetName]#!\n#weak [BookmarkCharacter.GetDynastyTemplate.GetMotto]#!"
  BOOKMARK_CHARACTER_TITLE_TYPE:0 "[BookmarkCharacter.GetTitleName]の[BookmarkCharacter.GetTitleTierName]#weak （[BookmarkCharacter.GetGovernmentType.GetNameWithIcon]）#!"
  BOOKMARK_RELATED_CHARACTER: "[BookmarkCharacter.GetName]#weak [BookmarkCharacter.GetRelation]#!"
  BOOKMARK_IRONMAN_ENABLED:1 "鉄人モード"

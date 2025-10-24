@@ -1,7 +1,7 @@
 ﻿l_english:
  love_letter_test:0 "[letterAuthor.Custom2('love_letter', SCOPE.sC('love_letter_target'))]"
  love_letter_test_opening:0 "ラブレター！"
- love_letter_text:0 "[ROOT.Char.Custom2('love_letter_section_1_part_1' , SCOPE.sC('second') )] [ROOT.Char.Custom2('love_letter_section_1_part_2' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_2_part_1' , SCOPE.sC('second') )] [ROOT.Char.Custom2('love_letter_section_2_part_2' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_2_part_3' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_3_part_1' , SCOPE.sC('second') )]"
+ love_letter_text:0 "[ROOT.Char.Custom2('love_letter_section_1_part_1' , SCOPE.sC('second') )][ROOT.Char.Custom2('love_letter_section_1_part_2' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_2_part_1' , SCOPE.sC('second') )][ROOT.Char.Custom2('love_letter_section_2_part_2' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_2_part_3' , SCOPE.sC('second') )]\n[ROOT.Char.Custom2('love_letter_section_3_part_1' , SCOPE.sC('second') )]"
  ll_your_eyes:0 "あなたの目は"
  ll_your_smile:0 "あなたの笑顔は"
  ll_your_copious_codpiece:0 "あなたの満々たる股袋は"

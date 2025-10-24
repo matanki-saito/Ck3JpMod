@@ -4,7 +4,7 @@
  secure_high_kingdom_north_sea_decision_tooltip:1 "$k_england$、$k_denmark$、そして$k_norway$を、一つの[de_jure|E]の[realm|E]へと束ねます"
  secure_high_kingdom_north_sea_decision_confirm:0 "何より、大王！"
  secure_high_kingdom_north_sea_decision_solve_danelaw:0 "現在$k_danelaw$が[de_jure|E]として[counties|E]を保有しているため、まず$k_england$との分離状態を解消しなければならない。"
- secure_high_kingdom_north_sea_scripted_effect.daneland_reabsorbed.tt:0 "$k_daneland$の全ての[completely_controlled|E] [duchies|E]は$k_england$に戻り[de_jure_drift_drifted|E]となる。"
+ secure_high_kingdom_north_sea_scripted_effect.daneland_reabsorbed.tt:0 "$k_daneland$の全ての[completely_controlled|E]された[duchies|E]は$k_england$に戻り[de_jure_drift_drifted|E]となる。"
  found_capital_of_the_rus_decision:0 "ルーシの首都を設立する"
  found_capital_of_the_rus_decision_desc:0 "進取の気性に富むノース人は、スカンディナビアより出でて、荒れ狂うスラヴ人の豊潤なる河川を通って東方へと至る。数えきれない居留地と小王国が力の優劣を争い合っているが、スラヴ人かノース人かを問わず、両者の統一を真に体現できるのは#EMP ただ一つ#!である…"
  found_capital_of_the_rus_decision_tooltip:0 "全ルーシのための真の故郷として王都を立てます"

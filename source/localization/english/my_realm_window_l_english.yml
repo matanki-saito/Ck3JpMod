@@ -122,7 +122,7 @@
  MRW_VASSAL_STANCE_FILTER_TT:0 "[SelectLocalization( VassalStanceFilter.IsAllFilter, 'MRW_VASSAL_STANCE_FILTER_ALL_TT', 'MRW_VASSAL_STANCE_FILTER_ENTRY_TT' )]"
  MRW_VASSAL_STANCE_FILTER_DROPDOWN_TT:0 "#T [vassal_stance|E]フィルター#!"
  MY_REALM_WINDOW_VASSAL_STANCE_COUNT:0 "[VassalStance.GetTextIconNoFormat][MyRealmWindow.GetNumVassalsWithStance( VassalStance.Self )|V]"
- MY_REALM_WINDOW_VASSAL_STANCE_COUNT_TT:0 "#T [VassalStance.GetTextIcon][VassalStance.GetName] [opinion|E]：[VassalStance.GetModifierValueFor( MyRealmWindow.GetCharacter )|=+0]#!\n[VassalStance.GetTextIcon][VassalStance.GetName][vassal_stance|E]である[vassals|E]：[MyRealmWindow.GetNumVassalsWithStance( VassalStance.Self )|V]\n\n#S 理由#!：\n[VassalStance.GetModifierDescriptionFor( MyRealmWindow.GetCharacter )]"
+ MY_REALM_WINDOW_VASSAL_STANCE_COUNT_TT:0 "#T [VassalStance.GetTextIcon][VassalStance.GetName]の[opinion|E]：[VassalStance.GetModifierValueFor( MyRealmWindow.GetCharacter )|=+0]#!\n[VassalStance.GetTextIcon][VassalStance.GetName][vassal_stance|E]である[vassals|E]：[MyRealmWindow.GetNumVassalsWithStance( VassalStance.Self )|V]\n\n#S 理由#!：\n[VassalStance.GetModifierDescriptionFor( MyRealmWindow.GetCharacter )]"
  MRW_HEIR_PREFERRED:1 "[Concept('vassal_stance','好ましい継承者')|E]：[MyRealmWindow.GetCharacter.GetVassalStancesThatPrefer( Character.Self )]"
  MY_REALM_WINDOW_VASSAL_STANCES:0 "[vassal_stances|E]#V ：#!"
  VASSAL_CONTRACT_IS_BLOCKED:0 "この[vassal_contract|E]は既に行われており、今はもう変えられません。\n\n現在の[obligations|E]を見ることは出来ます。"
